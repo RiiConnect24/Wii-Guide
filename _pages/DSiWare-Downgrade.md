@@ -43,13 +43,9 @@ System Transfers can only be performed once a week.
   + **3DS #2**: the 3DS on stock firmware *between 11.0.0 and 11.2.0*
 * Purchase one of the following exploitable DSiWare games (a pirated copy of the game will **not** work) on **3DS #1**
   + **Fieldrunners**: Works for **USA + EUR** (never released for JPN)
-  + **Legends of Exidia**: Works for **USA + EUR** (JPN title pulled from eShop)
-  + **Guitar Rock Tour**: Works for **EUR Only** (game has been pulled in all regions, you must have installed it already)
-* The exploited save for your game and region:
-  + **Fieldrunners USA Region**: [`public.sav`](torrents/fieldrunners_usa_save.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:34d12dbde622aff3c43736f4668162c3bb2d05a9"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>
-  + **Fieldrunners EUR Region**: [`public.sav`](torrents/fieldrunners_eur_save.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:a342e4a43ca6c5a4ec03f5891fd5b954bf4ab34e"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>
-  + **Guitar Rock Tour EUR Region**: [`public.sav`](torrents/grtpwn_eur_save.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:aa5bf12862437ba369a54f15fae27cbb6bcd0eb0"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>
-  + **Legends of Exidia ALL Regions**: [`public.sav`](torrents/exidia_save.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:5ab3518f63994d275c6f7352c396c618541bb4d0"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>
+  + **Legends of Exidia**: Works for **USA + EUR + JPN** (game has been pulled in JPN region, you must have installed it already)
+  + **Guitar Rock Tour**: Works for **USA + EUR** (game has been pulled in all regions, you must have installed it already)    
+* The latest release of [3ds_dsiwarehax_installer](https://github.com/yellows8/3ds_dsiwarehax_installer/releases)
 * The latest release of [3DSident](https://github.com/joel16/3DSident/releases/latest)
 * The latest release of [FBI](https://github.com/Steveice10/FBI/releases/latest)
 * The latest release of [dgTool](https://github.com/Plailect/dgTool/releases/latest)
@@ -75,7 +71,14 @@ System Transfers can only be performed once a week.
 
 1. Create a folder named `files9` on the root of **3DS #1**'s SD card if it does not already exist
 2. **Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup any saves you care about on 3DS #2 (it will be formatted!)**
-3. Copy `public.sav` to the root of **3DS #1**'s SD card
+3. Copy the relevant `public.sav` from the `/dsiware/(8 Character ID)/` folder in the 3ds_dsiwarehax_installer zip to the root of **3DS #1**'s SD card
+  + **Fieldrunners USA Region**: `4b464445`
+  + **Fieldrunners EUR Region**: `4b464456`
+  + **Legends of Exidia USA Region**: `4b4c4545`
+  + **Legends of Exidia EUR Region**: `4b4c4556`
+  + **Legends of Exidia JPN Region**: `4b4c454a`
+  + **Guitar Rock Tour EUR Region**: `4b475256`
+  + **Guitar Rock Tour USA Region**: `4b475245`
 4. On **3DS #1**, hold Start on boot to launch Hourglass9
 5. Go to SysNAND Options, then SysNAND Backup/Restore, then backup **(min size)** SysNAND to `NAND.bin`
 6. Press (Select) on the main menu to eject your SD card, then put it in your computer
@@ -98,11 +101,14 @@ System Transfers can only be performed once a week.
 5. Press (B) to get back to the main menu
 6. Navigate to `TWL NAND` -> `title` -> `00030004`
 7. Navigate to the folder for your game and region:
-  + **Fieldrunners USA Region**: `4b464445` -> `data`
-  + **Fieldrunners EUR Region**: `4b464456` -> `data`
-  + **Legends of Exidia USA Region**: `4b4c4545` -> `data`
-  + **Legends of Exidia EUR Region**: `4b4c4556` -> `data`
-  + **Guitar Rock Tour EUR Region**: `4b475256` -> `data`
+  + **Fieldrunners USA Region**: `4b464445`
+  + **Fieldrunners EUR Region**: `4b464456`
+  + **Legends of Exidia USA Region**: `4b4c4545`
+  + **Legends of Exidia EUR Region**: `4b4c4556`
+  + **Legends of Exidia JPN Region**: `4b4c454a`
+  + **Guitar Rock Tour EUR Region**: `4b475256`
+  + **Guitar Rock Tour USA Region**: `4b475245`    
+9. Navigate to the `data` folder
 8. Press (A) on the existing `public.sav` and delete it
 9. Press (A) on the current directory and paste `public.sav`
 10. Press (B) to get back to the main menu
@@ -111,7 +117,7 @@ System Transfers can only be performed once a week.
 4. Test if the save is functional
   + **Fieldrunners**: Touch the 'Scores' button at the main menu
   + **Legends of Exidia**: After pressing (A) or (Start) at the two title screens, select the first save slot and press continue
-  + **Guitar Rock Tour**: Scroll down and go to High-Scores -> Drums -> Easy
+  + **Guitar Rock Tour**: Scroll down and go to High-Scores -> Drums -> Easy    
   + If your game has an error about `boot.nds`, **then the exploit has been successful**
   + If your game behaves normally and does not give you this error, then you should stop and figure out what went wrong
   + If you get a black screen, [follow this troubleshooting guide](troubleshooting#twl_broken)

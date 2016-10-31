@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Sat, 29 Oct 2016 03:10:14 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 31 Oct 2016 17:05:48 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/</link>
 		<item>
 			<title>1.0.0_qr.png</title>
@@ -293,14 +293,6 @@
 			<enclosure url="https://plailect.github.io/Guide/torrents/DS Internet - v2048.torrent" length="1320192" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>exidia_save.zip</title>
-			<description>exidia_save.zip</description>
-			<guid>5AB3518F63994D275C6F7352C396C618541BB4D0</guid>
-			<link>https://plailect.github.io/Guide/torrents/exidia_save.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 03:37:27 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/torrents/exidia_save.torrent" length="34342" type="application/x-bittorent" />
-		</item>
-		<item>
 			<title>fbi-2.4.2-injectable.zip</title>
 			<description>fbi-2.4.2-injectable.zip</description>
 			<guid>F978B4CF5EDA72823240B9C649F3FD2940A9F525</guid>
@@ -309,28 +301,12 @@
 			<enclosure url="https://plailect.github.io/Guide/torrents/fbi-2.4.2-injectable.torrent" length="5567581" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>fieldrunners_eur_save.zip</title>
-			<description>fieldrunners_eur_save.zip</description>
-			<guid>A342E4A43CA6C5A4EC03F5891FD5B954BF4AB34E</guid>
-			<link>https://plailect.github.io/Guide/torrents/fieldrunners_eur_save.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 03:37:30 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/torrents/fieldrunners_eur_save.torrent" length="31288" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>fieldrunners_usa_save.zip</title>
-			<description>fieldrunners_usa_save.zip</description>
-			<guid>34D12DBDE622AFF3C43736F4668162C3BB2D05A9</guid>
-			<link>https://plailect.github.io/Guide/torrents/fieldrunners_usa_save.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 03:37:33 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/torrents/fieldrunners_usa_save.torrent" length="31288" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>grtpwn_eur_save.zip</title>
-			<description>grtpwn_eur_save.zip</description>
-			<guid>AA5BF12862437BA369A54F15FAE27CBB6BCD0EB0</guid>
-			<link>https://plailect.github.io/Guide/torrents/grtpwn_eur_save.torrent</link>
-			<pubDate>Tue, 26 Jul 2016 15:04:08 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/torrents/grtpwn_eur_save.torrent" length="69402" type="application/x-bittorent" />
+			<title>guiformat.exe</title>
+			<description>guiformat.exe</description>
+			<guid>E7C03F28A16790E64A2D67C5554441EA4E969FCF</guid>
+			<link>https://plailect.github.io/Guide/torrents/guiformat.torrent</link>
+			<pubDate>Sun, 30 Oct 2016 19:01:11 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/torrents/guiformat.torrent" length="77824" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>n3ds_firmware.zip</title>
