@@ -39,7 +39,7 @@ The Homebrew Launcher has many different entrypoints, or methods of launching. T
 12. Go back to the main menuhax_manager menu, then select "Configure menuhax"
 13. Press (A) to continue, then select "Type1"
 14. Hold (Down) on the D-Pad, then tap the touch screen; this is the recommended button to use for launching menuhax in this guide because it does not interfere with any other functions of tools we will be using
-15. Go back to the main menuhax_manager menu, then press (Start) to exit back into the Homebrew Launcher
+15. Go back to the main menuhax_manager menu, press (B), then press (Start) to exit back into the Homebrew Launcher
 16. Press the (Start) button then press (A) to reboot
 17. You can now hold D-Pad (Down) while the system is booting to launch the Homebrew Launcher
 
