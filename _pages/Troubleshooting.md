@@ -180,7 +180,7 @@ This is because you selected the wrong version in the steelhax installer.
     3. Insert your SD card into your 3DS and power on.
     4. Press (A). Your 3DS should power off; this means arm9loaderhax is working and something else is broken; your device is **not** bricked.
 8. If you previously downgraded with Gateway, ensure that you are using the latest Luma3DS version (v6.2.3 or higher, at the least)
-9. Try following [9.2.0 ctrtransfer](9.2.0-ctrtransfer) starting on Step 4.
+9. Try following [9.2.0 ctrtransfer](9.2.0-ctrtransfer)
 10. Ask for help at [#3dshacks on Rizon IRC](https://gate.omicron.pw/) or [3DS Hacking on Discord](https://discord.gg/MWxPgEp).
 
 ## <a name="ts_sys_blue" />Blue screen on boot (bootrom error)
