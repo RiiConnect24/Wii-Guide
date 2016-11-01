@@ -133,20 +133,23 @@ If you think your SD card may be corrupted, backup every file on your SD card to
 4. Press Start to save and reboot
   + If it freezes, hold the power button until it shuts down, then continue with the instructions
   + If you get a black screen, [follow this troubleshooting guide](troubleshooting#ts_sys_a9lh)   
-4. **If, before following this guide, you already had an EmuNAND setup and would like to move the contents of your previous EmuNAND to your new SysNAND CFW, now is the time to [follow Move EmuNAND](move-emunand).**
-10. Update your 3DS again by going to System Settings, then "Other Settings", then going all the way to the right and using "System Update"
-  + **Yes this is safe, stop asking about it.**
-  + If this gives you an error, set your DNS settings to "auto"
-  + If this still gives you an error, restore your NAND backup before updating
-    + Copy `NANDmin.bin` to the `/files9/` folder on your SD card
-    + If your backup is of a version between 4.0.0 and 4.5.0, put [`firmware.bin`](https://plailect.github.io/Guide/torrents/o3ds_firmware.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:0323ffe6f1df5986517baef2211a3e98634e34ec"><i class="fa fa-magnet" aria-hidden="true"></i></a></code> in `/luma/` (delete this file after updating your 3DS)
-    + Open Hourglass9 from arm9loaderhax by holding (Start) on boot
-    + Go to "SysNAND Backup/Restore"
-    + Restore from `NANDmin.bin`
-    + Press (Start) to reboot
-  + If you don't have your NAND backup or it doesn't work, [follow 9.2.0 ctrtransfer](9.2.0-ctrtransfer) before updating
+  
+##### Section IV - Restoring the System
 
-##### Section IV - Injecting FBI
+**If, before following this guide, you already had an EmuNAND setup and would like to move the contents of your previous EmuNAND to your new SysNAND CFW, now is the time to [follow Move EmuNAND](move-emunand).**
+
+1. **If you are an Old 3DS or 2DS user who has done [2.1.0 ctrtransfer](2.1.0-ctrtransfer), do the following:**
+  + Copy `NANDmin.bin` to the `/files9/` folder on your SD card
+  + If your backup is of a version between 4.0.0 and 4.5.0, put [`firmware.bin`](https://plailect.github.io/Guide/torrents/o3ds_firmware.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:0323ffe6f1df5986517baef2211a3e98634e34ec"><i class="fa fa-magnet" aria-hidden="true"></i></a></code> in `/luma/` (delete this file after updating your 3DS)
+  + Open Hourglass9 from arm9loaderhax by holding (Start) on boot
+  + Go to "SysNAND Backup/Restore"
+  + Restore from `NANDmin.bin`
+  + Press (Start) to reboot
+2. Update your 3DS again by going to System Settings, then "Other Settings", then going all the way to the right and using "System Update"
+  + Yes this is safe, stop asking about it.
+  + If this gives you an error, set your DNS settings to "auto"
+
+##### Section V - Injecting FBI
 
 1. Open Hourglass9 from arm9loaderhax by holding (Start) on boot
 2. Go to "SysNAND Backup/Restore", then select the "Health&Safety Dump" option to dump Health & Safety to `hs.app` **(you can use Up and Down / Left and Right to change the name)**
@@ -156,7 +159,7 @@ If you think your SD card may be corrupted, backup every file on your SD card to
 9. Press (Start) to reboot
 10. If you still launch to the stock Health & Safety app and have downgraded with Gateway in the past, [follow this troubleshooting guide](troubleshooting#gw_fbi)
 
-##### Section V - Finalizing setup
+##### Section VI - Finalizing setup
 
 2. Open Health and Safety (which is now FBI)
 3. Select "SD"
