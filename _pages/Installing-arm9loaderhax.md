@@ -136,7 +136,7 @@ If you think your SD card may be corrupted, backup every file on your SD card to
   
 ##### Section IV - Restoring the System
 
-**If, before following this guide, you already had an EmuNAND setup and would like to move the contents of your previous EmuNAND to your new SysNAND CFW, now is the time to [follow Move EmuNAND](move-emunand).**
+**If, before following this guide, you already had an EmuNAND setup and would like to move the contents of your previous EmuNAND to your new SysNAND CFW, now is the time to [follow Move EmuNAND](move-emunand) instead of restoring `NANDmin.bin`.**
 
 1. **If you are an Old 3DS or 2DS user who has done [2.1.0 ctrtransfer](2.1.0-ctrtransfer), do the following:**
   + Copy `NANDmin.bin` to the `/files9/` folder on your SD card
