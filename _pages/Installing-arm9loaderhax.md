@@ -38,7 +38,7 @@ During this process, we also setup programs such as the following:
 * [`data_input_v3.zip`](torrents/data_input_v3.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:a1195c9f7ab650fa7c7bf020b51fc19ea8d9440c"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>
 * [`fbi-2.4.2-injectable.zip`](torrents/fbi-2.4.2-injectable.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:f978b4cf5eda72823240b9c649f3fd2940a9f525"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>
 * The release of SafeA9LHInstaller corresponding to your device:
-  + New 3DS Compatible [Release](https://github.com/AuroraWright/SafeA9LHInstaller/releases/tag/v2.6.2)
+  + New 3DS Compatible [Release](https://github.com/AuroraWright/SafeA9LHInstaller/releases/tag/latest)
   + Old 3DS or 2DS Compatible [Release](https://github.com/AuroraWright/SafeA9LHInstaller/releases/tag/v2.0.3)
 * The latest release of [arm9loaderhax](https://github.com/AuroraWright/arm9loaderhax/releases/latest)
 * The latest release of [Luma3DS](https://github.com/AuroraWright/Luma3DS/releases/latest)
