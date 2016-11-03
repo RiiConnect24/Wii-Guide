@@ -48,6 +48,7 @@ System Transfers can only be performed once a week.
   + **Fieldrunners**: Works for **USA + EUR** (never released for JPN)
   + **Legends of Exidia**: Works for **USA + EUR + JPN** (game has been pulled in JPN region, you must have installed it already)
   + **Guitar Rock Tour**: Works for **USA + EUR** (game has been pulled in all regions, you must have installed it already)    
+  + **The Legend of Zelda: Four Swords**: Works for **USA + EUR** (game has been pulled in all regions, you must have installed it already)    
 * The latest release of [3ds_dsiwarehax_installer](https://github.com/yellows8/3ds_dsiwarehax_installer/releases)
 * The latest release of [3DSident](https://github.com/joel16/3DSident/releases/latest)
 * The latest release of [FBI](https://github.com/Steveice10/FBI/releases/latest)
@@ -81,6 +82,8 @@ System Transfers can only be performed once a week.
   + **Legends of Exidia JPN Region**: `4b4c454a`
   + **Guitar Rock Tour EUR Region**: `4b475256`
   + **Guitar Rock Tour USA Region**: `4b475245`
+  + **The Legend of Zelda: Four Swords EUR Region**: `4b513956`   
+  + **The Legend of Zelda: Four Swords USA Region**: `4b513945`    
 4. On **3DS #1**, hold Start on boot to launch Hourglass9
 5. Go to SysNAND Options, then SysNAND Backup/Restore, then backup **(min size)** SysNAND to `NAND.bin`
 6. Press (Select) on the main menu to eject your SD card, then put it in your computer
@@ -110,6 +113,8 @@ System Transfers can only be performed once a week.
   + **Legends of Exidia JPN Region**: `4b4c454a`
   + **Guitar Rock Tour EUR Region**: `4b475256`
   + **Guitar Rock Tour USA Region**: `4b475245`    
+  + **The Legend of Zelda: Four Swords EUR Region**: `4b513956`   
+  + **The Legend of Zelda: Four Swords USA Region**: `4b513945`    
 9. Navigate to the `data` folder
 8. Press (A) on the existing `public.sav` and delete it
 9. Press (A) on the current directory and paste `public.sav`
@@ -120,6 +125,7 @@ System Transfers can only be performed once a week.
   + **Fieldrunners**: Touch the 'Scores' button at the main menu
   + **Legends of Exidia**: After pressing (A) or (Start) at the two title screens, select the first save slot and press continue
   + **Guitar Rock Tour**: Scroll down and go to High-Scores -> Drums -> Easy    
+  + **The Legend of Zelda: Four Swords**: Just start the game
   + If your game has an error about `boot.nds`, **then the exploit has been successful**
   + If your game behaves normally and does not give you this error, then you should stop and figure out what went wrong
   + If you get a black screen, [follow this troubleshooting guide](troubleshooting#twl_broken)
