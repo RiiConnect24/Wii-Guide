@@ -73,7 +73,6 @@ Note that occasionally the eShop will inexplicably still not work for devices th
 ##### Section III - Editing SecureInfo
 
 1. Press (Start) then hold (Up) to reboot into arm9loaderhax GodMode9     
-**(Be VERY careful with this tool, it can brick you if you misuse it, even with arm9loaderhax installed!)**
 2. Navigate to `SYSNAND CTRNAND` -> `rw` -> `sys`
 3. Press (Y) on `SecureInfo_A` to copy it
 4. Press (Y) to paste a copy of `SecureInfo_A`

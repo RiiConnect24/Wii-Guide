@@ -44,6 +44,24 @@ If you are unable to boot your 3DS, please look for the section relevant to you,
 9. Navigate to either `New_3DS TWL_FIRM - v9936.cia`  or `Old_3DS TWL_FIRM - v8817.cia` and press (A) to install
 8. Exit with the home button
 
+## <a name="rm_nnid" />Removing an NNID without formatting the device
+
+#### What you need
+
+* The latest release of [GodMode9](https://github.com/d0k3/GodMode9/releases/)
+
+#### Instructions
+
+1. Copy `GodMode9.bin` from the GodMode9 zip to the `/luma/payloads` folder on your SD card and rename `GodMode9.bin` in `/luma/payloads` to `up_GodMode9.bin`
+6. Boot holding (Up) to reboot into arm9loaderhax GodMode9
+14. Navigate to `SYSNAND CTRNAND` -> `data` -> (32 Character ID) -> `sysdata` -> `00010038`
+15. Hold down the (R) trigger, then press X on `00000000` to rename this file
+16. Press Up once to change the name to `10000000`
+17. Press (A) to save changes
+18. Press (A) to unlock SysNAND writing, then input the key combo given
+18. Navigate back to the Main Menu
+16. Press Start to reboot
+
 ## <a name="gw_fbi" />Cannot inject H&S on Gateway downgraded device
 This is caused by Gateway implementing a very shoddy downgrade method, which leaves two versions of each app on the system. One of them is unused, but it confuses Decrypt9, causing it to inject into the wrong one.
 
@@ -56,7 +74,6 @@ This is caused by Gateway implementing a very shoddy downgrade method, which lea
 1. Copy `GodMode9.bin` from the GodMode9 zip to the `/luma/payloads` folder on your SD card and rename `GodMode9.bin` in `/luma/payloads` to `up_GodMode9.bin`
 2. Reinsert your SD card into your 3DS
 5. Open GodMode9 from arm9loaderhax by holding (Up) during boot     
-**(Be VERY careful with this tool, it can brick you if you misuse it, even with arm9loaderhax installed!)**
 2. Navigate to `SYSNAND CTRNAND` -> `title` -> `00040010`
 7. Navigate to the folder for your device and region:
   + **Old 3DS EUR**: `00022300` -> `content`
