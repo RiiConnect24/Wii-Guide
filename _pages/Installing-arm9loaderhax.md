@@ -123,15 +123,11 @@ If you think your SD card may be corrupted, backup every file on your SD card to
   + **"Autoboot SysNAND"**
   + **"Use SysNAND FIRM if booting with R (A9LH)"**
   + **"Show NAND or user string in System Settings"**
-  + **"Show GBA boot screen in patched AGB_FIRM"**
-    + This may cause crashes for some injected GBA Virtual Consoles
-    + If some games do not work properly, disable this option and try again
 3. If you are using a **New 3DS**, you should *also* enable the following:
   + **"New 3DS CPU" to "Clock+L2(x)"**
     + This will increase the framerate of many games, but may cause instability in others
     + If some games do not work properly, disable this option and try again
 4. Press Start to save and reboot
-  + If it freezes, hold the power button until it shuts down, then continue with the instructions
   + If you get a black screen, [follow this troubleshooting guide](troubleshooting#ts_sys_a9lh)   
 
 ##### Section IV - Restoring the System
@@ -167,6 +163,11 @@ If, before following this guide, you already had an EmuNAND setup and would like
 5. Navigate to `FBI.cia` and press (A) to install
 6. Navigate to `hblauncher_loader.cia` and press (A) to install
 7. Navigate to `lumaupdater.cia` and press (A) to install
+8. Navigate to `arm9loaderhax.bin`, then press (A) on it and select the "Copy" option
+9. Return to the FBI main menu with (B)
+10. Select "CTR NAND"
+11. Select "<current directory>"
+12. Select the "Paste" option, then press (A) to confirm
 8. Exit with the home button
 9. Launch the Homebrew Launcher from the home menu
 10. Select "DSP Dump"
@@ -174,16 +175,29 @@ If, before following this guide, you already had an EmuNAND setup and would like
 12. Reboot while holding Start to launch Hourglass9
 13. Go to "SysNAND Backup/Restore", then select "Health&Safety Inject"
 14. Select `hs.app` (the original one that doesn't contain FBI), then press (A) and confirm to inject
-15. Press (Start) on the main menu to reboot!
+15. Press (Select) on the main menu to eject your SD card
+15. Press (Start) to reboot with the SD card removed
+  + Booting the device at least once with the SD card removed will allow you to configure the CTRNAND based luma installation
+16. Use the (A) button and the D-Pad to turn on the following:    
+  + **"Show NAND or user string in System Settings"**
+3. If you are using a **New 3DS**, you should *also* enable the following:
+  + **"New 3DS CPU" to "Clock+L2(x)"**
+    + This will increase the framerate of many games, but may cause instability in others
+    + If some games do not work properly, disable this option and try again
+14. Reinsert your SD card, then press Start to save and reboot!
 16. **If DSi / DS functionality has broken (such as DS carts or DSiWare no longer working), [follow this troubleshooting guide](troubleshooting#twl_broken)**
 
 ___
 
-You can now use Luma3DS Updater to update your Luma3DS to the latest version just by opening it and pressing (A). *(This is not the same thing as a System Update; it just downloads and extracts the newest Luma3DS files)*
-{: .notice--info}
+{% capture notice-10 %}
+You can now use Luma3DS Updater to update your Luma3DS to the latest version just by opening it and pressing (A).     
+This is not the same thing as a System Update; it just downloads and extracts the newest Luma3DS files. Luma3DS Updater only updates the files located on the SD card.    
+This will only update the Luma3DS files on the SD Card. If you boot the device without an SD card, it will use whatever version you placed in CTR NAND.    
+{% endcapture %}
 
-{% capture notice-6 %}
-You will no longer be able to boot without the SD card in, that is normal.    
+<div class="notice--info">{{ notice-10 | markdownify }}</div>
+
+{% capture notice-6 %}   
 You will now boot a Custom Firmware based SysNAND by default.    
 You can now hold (Select) on boot to launch the Luma3DS configuration menu.    
 You can now hold (Start) on boot to launch Hourglass9, an arm9loaderhax safe multipurpose NAND and cartridge tool.     
