@@ -15,11 +15,11 @@ You will LOSE your GBA VC and DSiWare saves!
 #### What you need
 
 * An existing EmuNAND
-* The latest release of [EmuNAND9](https://github.com/d0k3/EmuNAND9/releases/latest)
+* The latest release of [GodMode9](https://github.com/d0k3/GodMode9/releases/latest)
 
 #### Instructions
 
-1. Copy `EmuNAND9.bin` from the EmuNAND9 zip to the `/luma/payloads/` folder on your SD card and rename `EmuNAND9.bin` to `y_EmuNAND9.bin`
+1. Copy `GodMode9.bin` from the GodMode9 zip to the `/luma/payloads` folder on your SD card and rename `GodMode9.bin` in `/luma/payloads` to `up_GodMode9.bin`
 2. Reinsert your SD card into your 3DS
 3. Open Hourglass9 from arm9loaderhax by holding (Start) on boot
 4. Go to "EmuNAND Backup/Restore", then select the "EmuNAND Backup" option to backup your EmuNAND to `NAND_emu.bin`
@@ -30,12 +30,18 @@ You will LOSE your GBA VC and DSiWare saves!
 9. Delete `NAND_emu.bin` from the `/files9/` folder on your SD card after copying it
 10. **Backup every file on your SD card to a folder on your computer, all files will be deleted in the next step**
 11. Reinsert your SD card into your 3DS
-12. Press (Start) to reboot while holding (Y) to open EmuNAND9
-13. Go to "SD Format Options", then "Format SD..."
-14. Select the "Format SD (No EmuNAND)" option
-15. Press Select on the main menu to eject your SD card
+12. Press (Start) to reboot while holding (Up) to open GodMode9
+13. Press the (Home) button to bring up the action menu
+14. Select "SD format menu"
+15. Press (A) to confirm
+16. Select "No EmuNAND"
+17. Select "Auto"
+18. Enter the prompted button combination to confirm
+19. Hold (R) and press (B) at the same time to eject your SD card
 16. Put your SD card in your computer, then copy all your files back into it
-18. Reinsert your SD card into your 3DS and boot
+18. Reinsert your SD card into your 3DS
+19. Press (A) to remount your SD card
+20. Press (Start) to reboot!
 19. If you get a black screen, [follow this troubleshooting guide](troubleshooting#ts_sys_down)
 
 Return to [Installing arm9loaderhax](installing-arm9loaderhax).
