@@ -26,6 +26,7 @@ If you are unable to boot your 3DS, please look for the section relevant to you,
 
 ##### Section I - Prep work
 
+1. Create a folder named `cias` on the root of your SD card if it does not already exist
 1. Copy `TWL Version Data - v0.cia` to the `/cias/` folder on your SD card
 2. Copy `DS Download Play - v1024.cia` to the `/cias/` folder on your SD card
 3. Copy `DS Internet - v2048.cia` to the `/cias/` folder on your SD card
@@ -37,11 +38,8 @@ If you are unable to boot your 3DS, please look for the section relevant to you,
 1. Open FBI
 3. Select "SD"
 4. Select "cias"
-8. Navigate to `TWL Version Data - v0.cia` and press (A) to install
-8. Navigate to `DS Download Play - v1024.cia` and press (A) to install
-8. Navigate to `DS Internet - v2048.cia` and press (A) to install
-8. Navigate to `Nintendo DS Cart Whitelist - v11264.cia` and press (A) to install
-9. Navigate to either `New_3DS TWL_FIRM - v9936.cia`  or `Old_3DS TWL_FIRM - v8817.cia` and press (A) to install
+8. Select "<current directory>"
+9. Select "Install and delete all CIAs"
 8. Exit with the home button
 
 ## <a name="rm_nnid" />Removing an NNID without formatting the device
