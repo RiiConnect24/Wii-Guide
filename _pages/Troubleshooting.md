@@ -118,7 +118,7 @@ This is because you selected the wrong version in the steelhax installer.
 3. Reboot **3DS #1** while holding Start to launch Hourglass9
 4. Go to SysNAND Backup/Restore and restore SysNAND from `NANDmin.bin` (the one made before the system transfer)
 1. If you don't have the game at all, link the NNID you bought the game with to **3DS #2** and download it on **3DS #2**
-2. On **3DS #1**, do [DSiWare Downgrade - Section III - Installing the save](dsiware-downgrade#section-iii---installing-the-save)
+2. On **3DS #1**, do [DSiWare Downgrade - Section II - Installing the save](dsiware-downgrade#section-ii---installing-the-save)
 3. On **3DS #1**, go to System Settings, "Data Management", "DSiWare", then copy your DSiWare game to your SD card
 4. Either put **3DS #1**'s SD card in **3DS #2**, or rename the `Nintendo 3DS` on **3DS #2**'s SD card and copy the `Nintendo 3DS` folder from **3DS #1**'s SD card to **3DS #2**'s SD card
 5. On **3DS #2**, go to System Settings, "Data Management", "DSiWare", then copy your DSiWare game to the system
