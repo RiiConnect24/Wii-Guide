@@ -45,8 +45,6 @@ Note that occasionally the eShop will inexplicably still not work for devices th
 3. Copy the 9.2.0 ctrtransfer image `.bin` and `.bin.sha` from the ctrtransfer zip to the `/files9/` folder on your SD card
 4. Reinsert your SD card into your 3DS
 
-<!---
-
 ##### Section II - Backup tickets
 
 5. Open Decrypt9 from arm9loaderhax by holding (X) during boot
@@ -56,9 +54,7 @@ Note that occasionally the eShop will inexplicably still not work for devices th
 9. Leave all the `.tik` files that do start with "00-" in the folder
 10. Reinsert your SD card into your 3DS, then press (B)
 
---->
-
-##### Section II - ctrtransfer
+##### Section III - ctrtransfer
 
 5. Open Decrypt9 from arm9loaderhax by holding (X) during boot
 6. Go to "SysNAND Options", then "CTRNAND Transfer", then "Auto CTRNAND Transfer"
@@ -70,7 +66,7 @@ Note that occasionally the eShop will inexplicably still not work for devices th
 12. Delete the 9.2.0 ctrtransfer image `.bin` and `.bin.sha` from the `/files9/` folder on your SD card after copying it
 13. Reinsert your SD card into your 3DS
 
-##### Section III - Editing SecureInfo
+##### Section IV - Editing SecureInfo
 
 1. Press (Start) then hold (Up) to reboot into arm9loaderhax GodMode9     
 2. Navigate to `SYSNAND CTRNAND` -> `rw` -> `sys`
@@ -94,7 +90,18 @@ Note that occasionally the eShop will inexplicably still not work for devices th
 17. You should see both a `SecureInfo_A` and `SecureInfo_C` if everything was done properly. (`SecureInfo_C` is used in place of `SecureInfo_A` when using Luma3DS if it detects the file on boot)
 18. Press Start to reboot
 
-##### Section IV - Region settings
+##### Section V - Reinstalling Tickets
+
+1. Open FBI
+2. Select "SD"
+3. Select "files9"
+4. Select "<current directory>"
+5. Select "Install and delete all tickets"
+6. Wait. The system may appear to freeze, just give it time.
+7. Press (A) to confirm
+8. Exit with the home button
+
+##### Section VI - Region settings
 
 1. Open the System Settings
 2. Go to "Other Settings", "Profile", then "Region Settings"
