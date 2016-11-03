@@ -63,7 +63,7 @@ System Transfers can only be performed once a week.
   + [New 3DS 11.2.0 to 10.4.0](torrents/11.2.0_to_10.4.0_n3ds.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:881388a552a1ce9a963d391bf1a023642270991c"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>     
   + [Old 3DS 11.2.0 to 10.4.0](torrents/11.2.0_to_10.4.0_o3ds.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:a479e4ee55efbc18c181d426cd77a34815388151"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>    
 * Download a legitimate copy of **Steel Diver: Sub Wars** (the game is free, but any copy of the game not from the eShop will **not** work) on **3DS #1**
-* The latest release of [steelhax](https://github.com/VegaRoXas/vegaroxas.github.io/raw/master/files/steelhax-installer.rar)
+* The previous release of [steelhax](https://vegaroxas.github.io/files/steelhax-installer.zip)
 * If **3DS #2** is below 11.2.0, you will _also_ need the following
   + The latest release of [ctr-httpwn](https://github.com/yellows8/ctr-httpwn/releases)
 
