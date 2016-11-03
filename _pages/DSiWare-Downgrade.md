@@ -224,9 +224,7 @@ System Transfers can only be performed once a week.
   + Legends of Exidia: After pressing (A) or (Start) at the two title screens, select the first save slot and press continue
   + Guitar Rock Tour: Scroll down and go to High-Scores -> Drums -> Easy
   + If your game does not have the hacked save file installed, [follow this troubleshooting guide](troubleshooting#ts_dsiware)
-5. Use dgTool to backup **3DS #2**'s NFIRM
-  + New 3DS: select "Dump F0F1_N3DS.bin"
-  + Old 3DS or 2DS: select "Dump F0F1_O3DS.bin"
+5. Select "Dump f0f1" to backup **3DS #2**'s NFIRM
 6. Make note of the NFIRM backup's location
 7. Exit dgTool
 8. Put your SD card in your computer, then copy `F0F1_N3DS.bin` or `F0F1_O3DS.bin` (depending on your device) to a safe location; make backups in multiple locations; this backup will save you from a brick if anything goes wrong

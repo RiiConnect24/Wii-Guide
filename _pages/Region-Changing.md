@@ -95,7 +95,7 @@ Note that occasionally the eShop will inexplicably still not work for devices th
 1. Open FBI
 2. Select "SD"
 3. Select "files9"
-4. Select "<current directory>"
+4. Select "\<current directory>"
 5. Select "Install and delete all tickets"
 6. Wait. The system may appear to freeze, just give it time.
 7. Press (A) to confirm

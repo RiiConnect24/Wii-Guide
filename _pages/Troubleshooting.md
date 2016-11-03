@@ -38,7 +38,7 @@ If you are unable to boot your 3DS, please look for the section relevant to you,
 1. Open FBI
 3. Select "SD"
 4. Select "cias"
-8. Select "<current directory>"
+8. Select "\<current directory>"
 9. Select "Install and delete all CIAs"
 8. Exit with the home button
 
