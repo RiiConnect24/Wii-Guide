@@ -227,6 +227,7 @@ System Transfers can only be performed once a week.
 5. Select "Dump f0f1" to backup **3DS #2**'s NFIRM
 6. Make note of the NFIRM backup's location
 7. Exit dgTool
+  + You may have to force power off by holding the power button
 8. Put your SD card in your computer, then copy `F0F1_N3DS.bin` or `F0F1_O3DS.bin` (depending on your device) to a safe location; make backups in multiple locations; this backup will save you from a brick if anything goes wrong
 
 ##### Section VIII - Flashing 3DS #2's NFIRM
@@ -240,6 +241,7 @@ System Transfers can only be performed once a week.
   + Guitar Rock Tour: Scroll down and go to High-Scores -> Drums -> Easy
 3. Select "Downgrade FIRM to 10.4" and confirm to flash the 10.4.0 NFIRM bin to **3DS #2**
 4. Exit dgTool
+  + You may have to force power off by holding the power button
 5. Reboot
 
 ##### Section IX - Exploit verification
