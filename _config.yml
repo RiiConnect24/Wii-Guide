@@ -75,36 +75,36 @@ analytics:
     tracking_id          : "UA-86465881-1"
 
 
-# # Site Author
-# author:
-#   name             : "Plailect"
-#   avatar           : "bio-photo.png"
-#   bio              : "3DS Hacker"
-#   location         : "Nullsec"
-#   email            : "Plailect@gmail.com"
-#   uri              :
-#   bitbucket        :
-#   codepen          :
-#   dribbble         :
-#   flickr           :
-#   facebook         :
-#   foursquare       :
-#   github           : "Plailect"
-#   google_plus      :
-#   keybase          :
-#   instagram        :
-#   lastfm           : "Plailect"
-#   linkedin         :
-#   pinterest        :
-#   soundcloud       :
-#   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-#   steam            :
-#   tumblr           :
-#   twitter          : "Plailect"
-#   vine             :
-#   weibo            :
-#   xing             :
-#   youtube          :
+# Site Author
+author:
+  name             : "Plailect"
+  avatar           : "bio-photo.png"
+  bio              : "3DS Hacker"
+  location         : "Nullsec"
+  email            : "Plailect@gmail.com"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "Plailect"
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           : "Plailect"
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          : "Plailect"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
 
 
 # Reading Files
