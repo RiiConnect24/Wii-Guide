@@ -14,6 +14,9 @@ If you do not know what version of arm9loaderhax you are running, just install t
 If you have a PIN set on Luma, you must temporarily turn it off to do these steps. You can re-enable the PIN after the update.
 {: .notice--info}
 
+If you are using a payload that does not init the screen on its own (such as Bootanim9), you will need to rename it to `arm9loaderhax_si.bin` instead of `arm9loaderhax.bin`
+{: .notice--info}
+
 These steps will also update your various payloads and the AES key database.
 {: .notice--success}
 
