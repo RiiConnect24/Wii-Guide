@@ -54,11 +54,11 @@ During this process, we also setup programs such as the following:
 ##### Section I - Prep work
 
 {% capture notice-5 %}
-Ensure you are using an SD card that is not corrupted!
+**Ensure you are using an SD card that is not corrupted!**
 
-If you use a corrupted SD card without fixing it, you may BRICK!
+**If you use a corrupted SD card without fixing it, you may BRICK!**
 
-If you think your SD card may be corrupted, backup every file on your SD card to a folder on your computer, format it, then copy your files back to the SD card.
+**If you think your SD card may be corrupted, backup every file on your SD card to a folder on your computer, format it, then copy your files back to the SD card.**
 {% endcapture %}
 
 <div class="notice--danger">{{ notice-5 | markdownify }}</div>
@@ -133,6 +133,7 @@ If you think your SD card may be corrupted, backup every file on your SD card to
 ##### Section IV - Restoring the System
 
 If, before following this guide, you already had an EmuNAND setup and would like to move the contents of your previous EmuNAND to your new SysNAND CFW, now is the time to [follow Move EmuNAND](move-emunand) instead of doing the first step in this section.
+{: .notice--info}
 
 1. **If you are an Old 3DS or 2DS user who has done [2.1.0 ctrtransfer](2.1.0-ctrtransfer), do the following:**
   + Copy `NANDmin.bin` to the `/files9/` folder on your SD card
@@ -185,9 +186,25 @@ If, before following this guide, you already had an EmuNAND setup and would like
     + This will increase the framerate of many games, but may cause instability in others
     + If some games do not work properly, disable this option and try again
 14. Reinsert your SD card, then press Start to save and reboot!
-16. **If DSi / DS functionality has broken (such as DS carts or DSiWare no longer working), [follow this troubleshooting guide](troubleshooting#twl_broken)**
+
+##### Section VII - Reinstalling Tickets
+
+This section is only needed for devices that did a ctrtransfer earlier and had to back up their tickets.
+{: .notice--info}
+
+1. Open FBI
+2. Select "SD"
+3. Select "files9"
+4. Select "\<current directory>"
+5. Select "Install and delete all tickets"
+6. Wait. The system may appear to freeze, just give it time.
+7. Press (A) to confirm
+8. Exit with the home button
 
 ___
+
+If DSi / DS functionality has broken (such as DS carts or DSiWare no longer working), [follow this troubleshooting guide](troubleshooting#twl_broken)
+{: .notice--warning}
 
 {% capture notice-10 %}
 You can now use Luma3DS Updater to update your Luma3DS to the latest version just by opening it and pressing (A).     
