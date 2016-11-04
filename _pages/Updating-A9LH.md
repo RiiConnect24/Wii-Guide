@@ -67,7 +67,7 @@ These steps will also update your various payloads and the AES key database.
     + If some games do not work properly, disable this option and try again
 4. Press Start to save and reboot
 
-##### Section III - CTRNAND Luma3DS
+##### Section IV - CTRNAND Luma3DS
 
 16. Open FBI
 17. Select "SD"
