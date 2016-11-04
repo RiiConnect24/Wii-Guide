@@ -11,6 +11,9 @@ The actual installation of arm9loaderhax itself consists of payload files instal
 If you do not know what version of arm9loaderhax you are running, just install the latest version with these steps. Installing the latest version while already on the latest version will have no effect.
 {: .notice--info}
 
+If you have a PIN set on Luma, you must temporarily turn it off to do these steps. You can re-enable the PIN after the update.
+{: .notice--info}
+
 These steps will also update your various payloads and the AES key database.
 {: .notice--success}
 
