@@ -8,13 +8,7 @@ permalink: /updating-a9lh.html
 The actual installation of arm9loaderhax itself consists of payload files installed into the NFIRM partitions on your device's NAND chip, which is soldered to the motherboard itself. These payloads are updated rarely and only really serve the purpose of launching `arm9loaderhax.bin` from the SD Card, which is, in our case, Luma3DS.
 {: .notice}
 
-So far, arm9loaderhax itself has only been majorly updated once.
-{: .notice--info}
-
-The old version of arm9loaderhax (sometimes referred to as "v1" because it was installed using SafeA9LHInstaller v1) was the latest version of [Delebile's initial implementation](https://github.com/delebile/arm9loaderhax).
-{: .notice--info}
-
-The new version of arm9loaderhax (sometimes referred to as "v2" because it is installed using SafeA9LHInstaller v2 or FIRM81 because of its use of 8.1's NFIRM files to make room for larger payloads) is the latest version of [AuroraWright's Fork](https://github.com/AuroraWright/arm9loaderhax) of [Delebile's initial implementation](https://github.com/delebile/arm9loaderhax).
+If you do not know what version of arm9loaderhax you are running, just install the latest version with these steps. Installing the latest version while already on the latest version will have no effect.
 {: .notice--info}
 
 These steps will also update your various payloads and the AES key database.
