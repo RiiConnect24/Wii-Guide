@@ -24,6 +24,7 @@ These steps will also update your various payloads and the AES key database.
 
 * [`aeskeydb.bin`](torrents/aeskeydb.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:18b3a17f78e2376e05feaa150749d9fd689b25dc"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>
 * [`data_input_v3.zip`](torrents/data_input_v3.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:a1195c9f7ab650fa7c7bf020b51fc19ea8d9440c"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>
+* The latest release of [Luma3DS](https://github.com/AuroraWright/Luma3DS/releases/latest)
 * The latest release of [arm9loaderhax](https://github.com/AuroraWright/arm9loaderhax/releases/latest)
 * The latest release of [SafeA9LHInstaller](https://github.com/AuroraWright/SafeA9LHInstaller/releases/latest)
 * The latest release of [Hourglass9](https://github.com/d0k3/Hourglass9/releases/latest)
@@ -31,6 +32,8 @@ These steps will also update your various payloads and the AES key database.
 #### Instructions
 
 **For all of these instructions, OVERWRITE any existing files on your SD card.**
+
+##### Section I - Prep work
 
 1. Delete any existing `aeskeydb.bin` from the root of your SD card
 4. Delete the `a9lh` folder from the root of your SD card if it exists
@@ -40,10 +43,47 @@ These steps will also update your various payloads and the AES key database.
 6. Rename `arm9loaderhax.bin` in `/luma/payloads` to `down_safea9lhinstaller.bin`
 7. Copy the `a9lh` folder from `data_input_v3.zip` to the root of your SD Card
 7. Copy _the contents of_ the arm9loaderhax zip to `a9lh` folder on your SD card
+8. Copy `arm9loaderhax.bin` from the Luma3DS zip to the root of your SD card, overwrite existing files
 9. Reinsert your SD card into your 3DS
+
+##### Section II - Payload update
+
 10. Boot the device while holding D-Pad down
 11. Press (Select) to update arm9loaderhax
 12. Power off the device and put your SD card back in your computer
 13. Delete the `a9lh` folder from the root of your SD card
 14. Delete `down_safea9lhinstaller.bin` from `/luma/payloads`
-15. Reinsert your SD card into your 3DS and boot
+
+##### Section III - Configuring Luma3DS
+
+15. Reinsert your SD card into your 3DS and boot holding (Select)
+16. Use the (A) button and the D-Pad to turn on the following:    
+  + **"Autoboot SysNAND"**
+  + **"Use SysNAND FIRM if booting with R (A9LH)"**
+  + **"Show NAND or user string in System Settings"**
+3. If you are using a **New 3DS**, you should *also* enable the following:
+  + **"New 3DS CPU" to "Clock+L2(x)"**
+    + This will increase the framerate of many games, but may cause instability in others
+    + If some games do not work properly, disable this option and try again
+4. Press Start to save and reboot
+
+##### Section III - CTRNAND Luma3DS
+
+16. Open FBI
+17. Select "SD"
+18. Navigate to `arm9loaderhax.bin`, then press (A) on it and select the "Copy" option
+9. Return to the FBI main menu with (B)
+10. Select "CTR NAND"
+11. Select "\<current directory>"
+12. Select the "Paste" option, then press (A) to confirm
+8. Exit with the home button
+9. Power off your 3DS and remove the SD card
+10. Boot with the SD card removed while holding (Select)
+  + Booting the device at least once with the SD card removed will allow you to configure the CTRNAND based luma installation
+16. Use the (A) button and the D-Pad to turn on the following:    
+  + **"Show NAND or user string in System Settings"**
+3. If you are using a **New 3DS**, you should *also* enable the following:
+  + **"New 3DS CPU" to "Clock+L2(x)"**
+    + This will increase the framerate of many games, but may cause instability in others
+    + If some games do not work properly, disable this option and try again
+14. Reinsert your SD card, then press Start to save and reboot!
