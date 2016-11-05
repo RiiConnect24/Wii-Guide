@@ -58,7 +58,7 @@ During this process, we also setup programs such as the following:
 
 **If you use a corrupted SD card without fixing it, you may BRICK!**
 
-**If you think your SD card may be corrupted, backup every file on your SD card to a folder on your computer, format it, then copy your files back to the SD card.**
+**If you think your SD card may be corrupted, check your SD card for errors using [H2testw (Windows)](h2testw-(windows)), [F3 (Linux)](f3-(linux)), or [F3X (Mac)](f3x-(mac))!**
 {% endcapture %}
 
 <div class="notice--danger">{{ notice-5 | markdownify }}</div>
