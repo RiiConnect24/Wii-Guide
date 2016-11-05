@@ -39,7 +39,7 @@ The Homebrew Launcher has many different entrypoints, or methods of launching. T
 
 1. Launch the browser
 2. Select the bookmarks menu star at the bottom left of the bottom screen
-3. Edit the first bookmark to instead be the URL `https://yls8.mtheall.com/3dsbrowserhax.php`
+3. Edit the first bookmark to instead be the URL `http://yls8.mtheall.com/3dsbrowserhax_auto.php`
 4. Press "Done", then go back to the home menu
 5. Select the home menu options at the top left of the bottom screen
 6. Scroll down and turn off "Wireless Communication / NFC"
