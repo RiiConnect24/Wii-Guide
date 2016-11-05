@@ -195,6 +195,14 @@ This is because you selected the wrong version in the steelhax installer.
     3. Insert your SD card into your 3DS and power on.
     4. Press (A). Your 3DS should power off; this means arm9loaderhax is working and something else is broken; your device is **not** bricked.
 8. If you previously downgraded with Gateway, ensure that you are using the latest Luma3DS version (v6.2.3 or higher, at the least)
+9. If your backup is of a version between 3.0.0 and 4.5.0, do the following:
+    + Download [Luma 3DS v6.3.1](https://github.com/AuroraWright/Luma3DS/releases/tag/v6.3.1)
+    + Copy `arm9loaderhax.bin` from the Luma3DS v6.3.1 zip to the root of your SD card, overwrite existing files
+    + Download [this file](http://nus.cdn.c.shop.nintendowifi.net/ccs/download/0004013800000002/00000056) and rename it to `firmware.bin`
+    + Download [this file](http://nus.cdn.c.shop.nintendowifi.net/ccs/download/0004013800000002/cetk)
+    + Copy `firmware.bin` and `cetk` to the `/luma/` folder on your SD card
+    + Delete both of these files after updating your 3DS
+    + Replace the old v6.3.1 Luma3DS `arm9loaderhax.bin` with the latest version after updating your 3DS
 9. Try following [9.2.0 ctrtransfer](9.2.0-ctrtransfer)
 10. Ask for help at [#3dshacks on Rizon IRC](https://gate.omicron.pw/) or [3DS Hacking on Discord](https://discord.gg/MWxPgEp).
 
