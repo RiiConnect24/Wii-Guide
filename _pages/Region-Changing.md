@@ -99,7 +99,8 @@ Note that occasionally the eShop will inexplicably still not work for devices th
 5. Select "Install and delete all tickets"
 6. Wait. The system may appear to freeze, just give it time.
 7. Press (A) to confirm
-8. Exit with the home button
+8. Press (B) to decline installing tickets from CDN.
+9. Exit with the home button
 
 ##### Section VI - Region settings
 
