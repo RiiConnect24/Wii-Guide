@@ -27,7 +27,7 @@ Note that if you are on 11.2.0 and have NFIRM downgraded, all 11.1.0 compatible 
 
 | <sub> | <sub>Requires | <sub>Editions | <sub>Devices | <sub>Regions | <sub>Game Versions | <sub>System Versions |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| <sub>[oot3dhax](https://github.com/yellows8/oot3dhax) | <sub>[*Ocarina of Time 3D*](https://amzn.to/2fkaKdp), <br> Either a powersaves or another 3DS which already has the Homebrew Launcher | <sub>Cart | <sub>New, Old, 2DS | <sub>EUR, JPN, USA | <sub>All | <sub>9.0.0-X up to and including 11.1.0-X |
+| <sub>[oot3dhax](https://github.com/yellows8/oot3dhax) | <sub>[*Ocarina of Time 3D*](https://amzn.to/2fkaKdp), <br> Either a powersaves or another 3DS which already has the Homebrew Launcher | <sub>Cart | <sub>New, Old, 2DS | <sub>EUR, JPN, USA | <sub>All | <sub>9.0.0-X up to and including 11.2.0-X |
 | <sub>[smashbroshax](https://gbatemp.net/threads/397194/) | <sub>[*Super Smash Bros*](https://amzn.to/2ftGA72) | <sub>Cart, eShop | <sub>New  | <sub>EUR, JPN, USA | <sub><1.1.3, <br> Carts with "amiibo" on the cover are preinstalled with v1.1.4 | <sub>9.0.0-X up to and including 11.2.0-X |
 | <sub>[supermysterychunkhax](https://smd.salthax.org/) | <sub>[*Pokemon Super Mystery Dungeon*](https://amzn.to/2ebxZ75), <br> Another 3DS which already has the Homebrew Launcher | <sub>Cart | <sub>New, Old, 2DS | <sub>EUR, JPN, USA | <sub>All | <sub>9.9.0-X (USA/JPN) / 10.2.0-X (EUR) up to and including 11.0.0-X |
 | <sub>[freakyhax](http://plutooo.github.io/freakyhax/) | <sub>[*Freakyforms Deluxe*](https://amzn.to/2f6eHO7) | <sub>eShop, Cart | <sub>New, Old, 2DS | <sub>EUR, JPN, USA | <sub>All | <sub>9.0.0-X up to and including 11.1.0-X |
