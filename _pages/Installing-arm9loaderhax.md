@@ -208,7 +208,8 @@ This section is only needed for devices that did a ctrtransfer earlier and had t
 5. Select "Install and delete all tickets"
 6. Wait. The system may appear to freeze, just give it time.
 7. Press (A) to confirm
-8. Exit with the home button
+8. Press (B) to decline installing tickets from CDN.
+9. Exit with the home button
 
 ___
 
