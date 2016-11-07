@@ -152,6 +152,7 @@ If, before following this guide, you already had an EmuNAND setup and would like
 2. Update your 3DS again by going to System Settings, then "Other Settings", then going all the way to the right and using "System Update"
   + Yes this is safe, stop asking about it.
   + If this gives you an error, set your DNS settings to "auto"
+  + If this still gives you an error, [follow 9.2.0 ctrtransfer](9.2.0-ctrtransfer)
 
 
 ##### Section V - Injecting FBI
