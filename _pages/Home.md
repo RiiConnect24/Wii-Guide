@@ -64,5 +64,5 @@ The benefits of arm9loaderhax over other Custom Firmware launch methods are nume
 + A large part of this guide is lengthy NAND dumps and downgrades, so the entire process can take *several* hours thanks to the 3DS's slow processor.
 + **Keep the device plugged in and charged throughout the entire process to avoid data loss or damage from an unexpected power-off!**
 + Your SD card should be [MBR, not GPT](http://www.howtogeek.com/245610/) (the SD card that comes with the device will be MBR by default).
-+ If you need to format a brand new SD card, you can use [`guiformat`](torrents/guiformat.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:e7c03f28a16790e64a2d67c5554441ea4e969fcf"><i class="fa fa-magnet" aria-hidden="true"></i></a></code> and set to an Allocation Unit Size of 32K.
++ If you need to format a brand new SD card, you can use [`guiformat`](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) and set to an Allocation Unit Size of 32K.
 + The 2DS is essentially identical to the Old 3DS in terms of software, and that any steps which say "Old 3DS" also apply to 2DS.
