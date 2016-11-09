@@ -135,6 +135,12 @@ During this process, we also setup programs such as the following:
 If, before following this guide, you already had an EmuNAND setup and would like to move the contents of your previous EmuNAND to your new SysNAND CFW, now is the time to [follow Move EmuNAND](move-emunand) instead of doing the first step in this section.
 {: .notice--info}
 
+1. **If you are an Old 3DS or 2DS user who has done [2.1.0 ctrtransfer](2.1.0-ctrtransfer), do the following:**
+  + Copy `NANDmin.bin` to the `/files9/` folder on your SD card
+  + Open Hourglass9 from arm9loaderhax by holding (Start) on boot
+  + Go to "SysNAND Backup/Restore"
+  + Restore from `NANDmin.bin`
+  + Press (Start) to reboot
 1. If your backup is of a version between 3.0.0 and 4.5.0, do the following
   + Download [Luma 3DS v6.3.1](https://github.com/AuroraWright/Luma3DS/releases/tag/v6.3.1)
   + Copy `arm9loaderhax.bin` from the Luma3DS v6.3.1 zip to the root of your SD card, overwrite existing files
@@ -143,12 +149,6 @@ If, before following this guide, you already had an EmuNAND setup and would like
   + Copy `firmware.bin` and `cetk` to the `/luma/` folder on your SD card
   + Delete both of these files after updating your 3DS
   + Replace the old v6.3.1 Luma3DS `arm9loaderhax.bin` with the latest version after updating your 3DS
-1. **If you are an Old 3DS or 2DS user who has done [2.1.0 ctrtransfer](2.1.0-ctrtransfer), do the following:**
-  + Copy `NANDmin.bin` to the `/files9/` folder on your SD card
-  + Open Hourglass9 from arm9loaderhax by holding (Start) on boot
-  + Go to "SysNAND Backup/Restore"
-  + Restore from `NANDmin.bin`
-  + Press (Start) to reboot
 2. Update your 3DS again by going to System Settings, then "Other Settings", then going all the way to the right and using "System Update"
   + Yes this is safe, stop asking about it.
   + If this gives you an error, set your DNS settings to "auto"
