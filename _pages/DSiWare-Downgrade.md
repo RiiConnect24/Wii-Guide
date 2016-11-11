@@ -66,8 +66,7 @@ System Transfers can only be performed once a week.
 * Download a legitimate copy of **Steel Diver: Sub Wars** (the game is free, but any copy of the game not from the eShop will **not** work) on **the source 3DS**
 * The previous release of [steelhax](https://vegaroxas.github.io/files/steelhax-installer.zip)
 * If **the target 3DS** is below 11.2.0, you will _also_ need the following
-  + The latest release of [ctr-httpwn](https://github.com/yellows8/ctr-httpwn/releases)
-  + [`server_config.xml`](server_config.xml)
+  + The latest fork of [ctr-httpwn](https://github.com/Plailect/ctr-httpwn/releases/latest)
 
 #### Instructions
 
@@ -177,14 +176,10 @@ System Transfers can only be performed once a week.
 **This will allow you to system transfer on versions other than the latest.**
 
 1. Copy and merge the `3ds` folder from the ctr-httpwn zip to **the target 3DS**'s SD card
-2. Copy `server_config.xml` to the `/3ds/ctr-httpwn/` folder on **the target 3DS**'s SD card
 2. Reinsert your SD card into **the target 3DS**
 2. Launch the homebrew launcher on the device using [Homebrew Launcher (No Browser)](homebrew-launcher-(no-browser))
   + **Ensure menuhax is not installed, or you won't be able to return to Home Menu from the homebrew launcher**
 3. Launch ctr-httpwn on **the target 3DS**
-4. Wait for the config download to time out
-  + This is because the server that the application expects `server_config.xml` to be hosted on is currently down
-  + Currently, ctr-httpwn will wait for a connection from the server for around 3 minutes; be prepared to wait
 4. Press (A) to continue
 5. Press (Start) to exit ctr-httpwn
 6. Press (Start) to open the homebrew launcher exit menu

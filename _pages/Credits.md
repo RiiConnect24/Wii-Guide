@@ -16,6 +16,7 @@ If I forgot you here, contact me and I'll add your name.
 + ashinnblunts
 + AuroraWright
 + b1l1s
++ Cartman123
 + Cell9
 + coder65535
 + Cruel`
@@ -35,6 +36,7 @@ If I forgot you here, contact me and I'll add your name.
 + ihaveamac
 + IngeniousDefault
 + J-D-K
++ LordBass
 + MassExplosion123
 + mid-kid
 + MrNbaYoh
@@ -49,9 +51,11 @@ If I forgot you here, contact me and I'll add your name.
 + SciresM
 + Shadowtrance
 + shinyquagsire23
++ skiptirengu
 + smealum
 + Steveice10
 + Syphurith
++ Tech0verlord
 + TuxSH
 + Urbanshadow
 + Vappy

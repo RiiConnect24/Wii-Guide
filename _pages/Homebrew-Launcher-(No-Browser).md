@@ -15,15 +15,11 @@ Note that if you are on 11.2.0 and have NFIRM downgraded, all 11.1.0 compatible 
 #### What you need
 
 + The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
-+ The latest release of [Decrypt9WIP](https://github.com/d0k3/Decrypt9WIP/releases/latest)
 
 #### Instructions
 
 1. Copy _the contents of_ the `starter.zip` to the root of your SD card
-2. Create a folder named `files9` on the root of your SD card if it does not already exist
-3. Copy the `Decrypt9WIP` folder from the Decrypt9WIP zip to `/3ds/` on your SD card
-4. Reinsert your SD card into your 3DS
-5. Use one of the following alternate entrypoints to get into the homebrew launcher:
+2. Use one of the following alternate entrypoints to get into the homebrew launcher:
 
 | <sub> | <sub>Requires | <sub>Editions | <sub>Devices | <sub>Regions | <sub>Game Versions | <sub>System Versions |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|

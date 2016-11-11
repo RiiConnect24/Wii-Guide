@@ -11,8 +11,9 @@ The Homebrew Launcher has many different entrypoints, or methods of launching. T
 
 #### What you need
 
++ [`config`](config)
++ The [ropbin](https://smealum.github.io/3ds/#otherapp) matching your 3DS's version
 + The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
-+ The latest release of [Decrypt9WIP](https://github.com/d0k3/Decrypt9WIP/releases/latest)
 + An internet connection setup on your 3DS
 
 #### Instructions
@@ -20,7 +21,11 @@ The Homebrew Launcher has many different entrypoints, or methods of launching. T
 ##### Section I -  Prep work
 
 1. Copy _the contents of_ the `starter.zip` to the root of your SD card
-3. Reinsert your SD card into your 3DS
+2. Copy `config` to the `/3ds/menuhax_manager/` folder on your SD card
+3. Create a folder named `menuhax` on the root of your SD card if it does not already exist
+4. Rename the ropbin to `menuhaxmanager_input_payload.bin`
+5. Copy `menuhaxmanager_input_payload.bin` to the `/menuhax/` folder on your SD card
+4. Reinsert your SD card into your 3DS
 
 ##### Section II -  Version check bypass
 
@@ -39,7 +44,7 @@ The Homebrew Launcher has many different entrypoints, or methods of launching. T
 
 1. Launch the browser
 2. Select the bookmarks menu star at the bottom left of the bottom screen
-3. Edit the first bookmark to instead be the URL `http://3ds.mordor.space/3dsbrowserhax_auto.php`
+3. Edit the first bookmark to instead be the URL `http://plail.ueuo.com/3dsbrowserhax_auto.php`
 4. Press "Done", then go back to the home menu
 5. Select the home menu options at the top left of the bottom screen
 6. Scroll down and turn off "Wireless Communication / NFC"
@@ -53,11 +58,26 @@ The Homebrew Launcher has many different entrypoints, or methods of launching. T
 
 ##### Section IV -  browserhax
 
-8. Navigate to `http://3ds.mordor.space/3dsbrowserhax_auto.php`
+8. Navigate to `http://plail.ueuo.com/3dsbrowserhax_auto.php`
     + You can also load the page by scanning the following QR code (press (L + R) on the home menu, then tap the QR icon on the bottom screen)     
-![browserhax_auto](http://3ds.mordor.space/3dsbrowserhax_auto_qrcode.png)
+![browserhax_auto](http://plail.ueuo.com/3dsbrowserhax_auto_qrcode.png)
     + If you get an error, [follow this troubleshooting guide](troubleshooting#ts_browser)
 9. Your console should load the homebrew menu
+
+##### Section V -  menuhax
+
+10. Open the menuhax_manager application
+11. Press (A) to install, it may show some errors but that's fine as long as it shows "Install finished successfully" towards the end
+    + If you are prompted to "override the detected system version," press (B) to decline
+12. Go back to the main menuhax_manager menu, then select "Configure menuhax"
+13. Press (A) to continue, then select "Type1"
+14. Hold (Down) on the D-Pad, then tap the touch screen; this is the recommended button to use for launching menuhax in this guide because it does not interfere with any other functions of tools we will be using
+15. Go back to the main menuhax_manager menu, press (B), then press (Start) to exit back into the Homebrew Launcher
+16. Press the (Start) button then press (A) to reboot
+17. You can now hold D-Pad (Down) while the system is booting to launch the Homebrew Launcher
+
+You can now launch the Homebrew Launcher by holding D-Pad (Down) while the system is booting
+{: .notice--info}
 
 If you are above the version 9.2.0, continue to [9.2.0 Downgrade](9.2.0-downgrade)
 {: .notice--primary}
