@@ -11,7 +11,7 @@ The Homebrew Launcher has many different entrypoints, or methods of launching. T
 
 #### What you need
 
-+ [`config.zip`](config.zip)
++ [`config.zip`](images/config.zip)
 + The [ropbin](https://smealum.github.io/3ds/#otherapp) matching your 3DS's version
 + The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
 + An internet connection setup on your 3DS
