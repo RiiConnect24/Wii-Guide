@@ -141,14 +141,12 @@ If, before following this guide, you already had an EmuNAND setup and would like
   + Go to "SysNAND Backup/Restore"
   + Restore from `NANDmin.bin`
   + Press (Start) to reboot
+  + If you get a black screen, [follow 9.2.0 ctrtransfer](9.2.0-ctrtransfer)
 1. If your backup is of a version between 3.0.0 and 4.5.0, do the following
-  + Download [Luma 3DS v6.3.1](https://github.com/AuroraWright/Luma3DS/releases/tag/v6.3.1)
-  + Copy `arm9loaderhax.bin` from the Luma3DS v6.3.1 zip to the root of your SD card, overwrite existing files
   + Download [this file](http://nus.cdn.c.shop.nintendowifi.net/ccs/download/0004013800000002/00000056) and rename it to `firmware.bin`
   + Download [this file](http://nus.cdn.c.shop.nintendowifi.net/ccs/download/0004013800000002/cetk)
   + Copy `firmware.bin` and `cetk` to the `/luma/` folder on your SD card
   + Delete both of these files after updating your 3DS
-  + Replace the old v6.3.1 Luma3DS `arm9loaderhax.bin` with the latest version after updating your 3DS
 2. Update your 3DS again by going to System Settings, then "Other Settings", then going all the way to the right and using "System Update"
   + Yes this is safe, stop asking about it.
   + If this gives you an error, set your DNS settings to "auto"
