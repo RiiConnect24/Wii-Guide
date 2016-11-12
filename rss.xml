@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Mon, 31 Oct 2016 17:05:48 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 11 Nov 2016 23:59:30 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/</link>
 		<item>
 			<title>1.0.0_qr.png</title>
@@ -261,12 +261,68 @@
 			<enclosure url="https://plailect.github.io/Guide/torrents/aeskeydb.torrent" length="256" type="application/x-bittorent" />
 		</item>
 		<item>
+			<title>aeskeydb_panda.zip</title>
+			<description>aeskeydb_panda.zip</description>
+			<guid>8409379FF4F495E53BE1032E539F07FAD05E0874</guid>
+			<link>https://plailect.github.io/Guide/torrents/aeskeydb_panda.torrent</link>
+			<pubDate>Fri, 11 Nov 2016 23:57:04 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/torrents/aeskeydb_panda.torrent" length="438" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>cias_9.2.0_eur_panda.zip</title>
+			<description>cias_9.2.0_eur_panda.zip</description>
+			<guid>A12DBC52D93B7C61E5EB5EFE307379F85BFAFA7B</guid>
+			<link>https://plailect.github.io/Guide/torrents/cias_9.2.0_eur_panda.torrent</link>
+			<pubDate>Fri, 11 Nov 2016 23:56:24 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/torrents/cias_9.2.0_eur_panda.torrent" length="143701085" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>cias_9.2.0_eur_panda_new.zip</title>
+			<description>cias_9.2.0_eur_panda_new.zip</description>
+			<guid>24FA0873491B89F40C5A5079EC8DC38DFB990454</guid>
+			<link>https://plailect.github.io/Guide/torrents/cias_9.2.0_eur_panda_new.torrent</link>
+			<pubDate>Fri, 11 Nov 2016 23:56:07 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/torrents/cias_9.2.0_eur_panda_new.torrent" length="173465181" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>cias_9.2.0_jpn_panda_new.zip</title>
+			<description>cias_9.2.0_jpn_panda_new.zip</description>
+			<guid>0CF3521F72E4808D09823B9C1D1290C49FCD1BB9</guid>
+			<link>https://plailect.github.io/Guide/torrents/cias_9.2.0_jpn_panda_new.torrent</link>
+			<pubDate>Fri, 11 Nov 2016 23:56:12 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/torrents/cias_9.2.0_jpn_panda_new.torrent" length="137152670" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>cias_9.2.0_usa_panda.zip</title>
+			<description>cias_9.2.0_usa_panda.zip</description>
+			<guid>F835A358C18AF3733590E4102D58A6BE9BDA911B</guid>
+			<link>https://plailect.github.io/Guide/torrents/cias_9.2.0_usa_panda.torrent</link>
+			<pubDate>Fri, 11 Nov 2016 23:56:34 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/torrents/cias_9.2.0_usa_panda.torrent" length="127587126" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>cias_9.2.0_usa_panda_new.zip</title>
+			<description>cias_9.2.0_usa_panda_new.zip</description>
+			<guid>EEC651CC47F6AA8564AC5B8413C73A1AE54CA4E5</guid>
+			<link>https://plailect.github.io/Guide/torrents/cias_9.2.0_usa_panda_new.torrent</link>
+			<pubDate>Fri, 11 Nov 2016 23:56:17 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/torrents/cias_9.2.0_usa_panda_new.torrent" length="151035512" type="application/x-bittorent" />
+		</item>
+		<item>
 			<title>ctr-common-1.zip</title>
 			<description>ctr-common-1.zip</description>
 			<guid>AF6D3F8B0A9C13D63B9405DC375CC68AF614394D</guid>
 			<link>https://plailect.github.io/Guide/torrents/ctr-common-1.torrent</link>
 			<pubDate>Sat, 01 Oct 2016 21:09:55 +0000</pubDate>
 			<enclosure url="https://plailect.github.io/Guide/torrents/ctr-common-1.torrent" length="2644" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>ctrtransfer_2.1.0_panda.zip</title>
+			<description>ctrtransfer_2.1.0_panda.zip</description>
+			<guid>E214B883BA23F8B0D39056FEBF71F4B85679D528</guid>
+			<link>https://plailect.github.io/Guide/torrents/ctrtransfer_2.1.0_panda.torrent</link>
+			<pubDate>Fri, 11 Nov 2016 23:59:14 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/torrents/ctrtransfer_2.1.0_panda.torrent" length="764115985" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>data_input_v3.zip</title>
@@ -301,20 +357,28 @@
 			<enclosure url="https://plailect.github.io/Guide/torrents/fbi-2.4.2-injectable.torrent" length="5567581" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>guiformat.exe</title>
-			<description>guiformat.exe</description>
-			<guid>E7C03F28A16790E64A2D67C5554441EA4E969FCF</guid>
-			<link>https://plailect.github.io/Guide/torrents/guiformat.torrent</link>
-			<pubDate>Sun, 30 Oct 2016 19:01:11 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/torrents/guiformat.torrent" length="77824" type="application/x-bittorent" />
+			<title>mset_4.0.0_eur_panda.cia</title>
+			<description>mset_4.0.0_eur_panda.cia</description>
+			<guid>3200F6605646179137901E7039893F89502BA849</guid>
+			<link>https://plailect.github.io/Guide/torrents/mset_4.0.0_eur_panda.torrent</link>
+			<pubDate>Fri, 11 Nov 2016 23:56:46 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/torrents/mset_4.0.0_eur_panda.torrent" length="5761344" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>n3ds_firmware.zip</title>
-			<description>n3ds_firmware.zip</description>
-			<guid>7AAD3CAD0E89F4288940641168D040B49B50FA40</guid>
-			<link>https://plailect.github.io/Guide/torrents/n3ds_firmware.torrent</link>
-			<pubDate>Sat, 27 Aug 2016 21:30:20 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/torrents/n3ds_firmware.torrent" length="833840" type="application/x-bittorent" />
+			<title>mset_4.0.0_jpn_panda.cia</title>
+			<description>mset_4.0.0_jpn_panda.cia</description>
+			<guid>C0BE9FC7E79D680562044D689CF80F9B035AB808</guid>
+			<link>https://plailect.github.io/Guide/torrents/mset_4.0.0_jpn_panda.torrent</link>
+			<pubDate>Fri, 11 Nov 2016 23:56:49 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/torrents/mset_4.0.0_jpn_panda.torrent" length="2525504" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>mset_4.0.0_usa_panda.cia</title>
+			<description>mset_4.0.0_usa_panda.cia</description>
+			<guid>139AE78C19591A8555665559C15D30BC986055B8</guid>
+			<link>https://plailect.github.io/Guide/torrents/mset_4.0.0_usa_panda.torrent</link>
+			<pubDate>Fri, 11 Nov 2016 23:56:52 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/torrents/mset_4.0.0_usa_panda.torrent" length="3979584" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>New_3DS TWL_FIRM - v9936.cia</title>
@@ -341,20 +405,20 @@
 			<enclosure url="https://plailect.github.io/Guide/torrents/NTR Debugger.torrent" length="20042111" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>o3ds_firmware.zip</title>
-			<description>o3ds_firmware.zip</description>
-			<guid>0323FFE6F1DF5986517BAEF2211A3E98634E34EC</guid>
-			<link>https://plailect.github.io/Guide/torrents/o3ds_firmware.torrent</link>
-			<pubDate>Sat, 27 Aug 2016 21:30:23 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/torrents/o3ds_firmware.torrent" length="617690" type="application/x-bittorent" />
-		</item>
-		<item>
 			<title>Old_3DS TWL_FIRM - v8817.cia</title>
 			<description>Old_3DS TWL_FIRM - v8817.cia</description>
 			<guid>17511EADB6E6F3FF22D04F90644E37BD2D96CA43</guid>
 			<link>https://plailect.github.io/Guide/torrents/Old_3DS TWL_FIRM - v8817.torrent</link>
 			<pubDate>Sat, 03 Sep 2016 17:26:42 +0000</pubDate>
 			<enclosure url="https://plailect.github.io/Guide/torrents/Old_3DS TWL_FIRM - v8817.torrent" length="1725696" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>safea9lhinstaller_v2_panda.zip</title>
+			<description>safea9lhinstaller_v2_panda.zip</description>
+			<guid>502D3731FB5D4BEC2FCDFBD21E6A08F2125DC583</guid>
+			<link>https://plailect.github.io/Guide/torrents/safea9lhinstaller_v2_panda.torrent</link>
+			<pubDate>Fri, 11 Nov 2016 23:57:07 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/torrents/safea9lhinstaller_v2_panda.torrent" length="1700147" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>TWL Version Data - v0.cia</title>

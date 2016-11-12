@@ -142,7 +142,7 @@ This is because you selected the wrong version in the steelhax installer.
 ## <a name="ts_d9_backup" />Decrypt9 or Hourglass9 won't restore / can't find my NAND backup
 
 1. Make sure you do not have any folder named "Decrypt9" on **the root** of your SD card
-3. Try checking your SD card file system with something like `fsck.vfat <sd partition path>` (on *nix) or `CHKDSK <sd drive letter> /F` (on Windows)
+3. Try checking your SD card for errors using [H2testw (Windows)](h2testw-(windows)), [F3 (Linux)](f3-(linux)), or [F3X (Mac)](f3x-(mac))
 4. Try backing up your SD card files, then formatting it and copying them back
 5. Try a different SD card
 
