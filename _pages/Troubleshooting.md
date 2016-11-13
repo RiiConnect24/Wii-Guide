@@ -126,7 +126,7 @@ This is because you selected the wrong version in the steelhax installer.
 2. Rename the otherapp payload to `steelhax_payload.bin`
 3. Copy it `steelhax_payload.bin` to the root of **3DS #2's** SD Card
     + Overwrite any existing files
-4. Launch **Steel Diver: Sub Wars**
+4. Hold (B) while launching **Steel Diver: Sub Wars**
 
 ## <a name="ts_dsiware" />After doing the DSiWare Downgrade, my hacked save is gone
 
