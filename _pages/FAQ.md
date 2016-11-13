@@ -31,7 +31,7 @@ permalink: /faq.html
 **A:** Yes, but if you are feeling apprehensive you can wait until there is confirmation it works.
 
 <a name="faq_support" />**Q:** *Where should I go for support?*    
-**A:** For support, ask for help at [#3dshacks on Rizon IRC](https://gate.omicron.pw) or [3DS Hacking on Discord](https://discord.gg/MWxPgEp).  
+**A:** For support, ask for help at [#3dshacks on Rizon IRC](https://www.reddit.com/r/3dshacks/wiki/irc) or [3DS Hacking on Discord](https://discord.gg/MWxPgEp).  
 
 <a name="faq_le4gbsd" />**Q:** *Can I do this with a 4GB (or smaller) SD card?*    
 **A:** Thanks to the new CTRNAND method, yes!
