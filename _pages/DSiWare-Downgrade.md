@@ -84,9 +84,9 @@ System Transfers can only be performed once a week.
   + **Guitar Rock Tour USA Region**: `4b475245`
   + **The Legend of Zelda: Four Swords EUR Region**: `4b513956`   
   + **The Legend of Zelda: Four Swords USA Region**: `4b513945`    
+4. Reinsert **the source 3DS**'s SD card
 4. On **the source 3DS**, hold Start on boot to launch Hourglass9
 5. Go to SysNAND Options, then SysNAND Backup/Restore, then backup **(min size)** SysNAND to `NAND.bin`
-6. Press (Select) on the main menu to eject your SD card, then put it in your computer
 7. Copy `NAND.bin` and `NAND.bin.sha` from the `/files9/` folder on your SD card to a safe location; make backups in multiple locations; this backup will save you from a brick if anything goes wrong in the future **(Your backup should match one of the sizes on [this](nand-size) page; if it does not, you should delete it and make a new one!)**
 6. Press (Select) on the main menu to eject **the source 3DS**'s SD card, then put it in your computer
 7. Put **the target 3DS**'s SD card into your computer
