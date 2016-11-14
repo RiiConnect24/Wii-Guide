@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Fri, 11 Nov 2016 23:59:30 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 14 Nov 2016 18:04:12 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/</link>
 		<item>
 			<title>1.0.0_qr.png</title>
@@ -317,12 +317,12 @@
 			<enclosure url="https://plailect.github.io/Guide/torrents/ctr-common-1.torrent" length="2644" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>ctrtransfer_2.1.0_panda.zip</title>
-			<description>ctrtransfer_2.1.0_panda.zip</description>
-			<guid>E214B883BA23F8B0D39056FEBF71F4B85679D528</guid>
-			<link>https://plailect.github.io/Guide/torrents/ctrtransfer_2.1.0_panda.torrent</link>
-			<pubDate>Fri, 11 Nov 2016 23:59:14 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/torrents/ctrtransfer_2.1.0_panda.torrent" length="764115985" type="application/x-bittorent" />
+			<title>ctrtransfer_2.1.0_panda_snake.zip</title>
+			<description>ctrtransfer_2.1.0_panda_snake.zip</description>
+			<guid>C79A0A0CA8FDC01E744CB86EC585590A0C613646</guid>
+			<link>https://plailect.github.io/Guide/torrents/ctrtransfer_2.1.0_panda_snake.torrent</link>
+			<pubDate>Mon, 14 Nov 2016 18:02:29 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/torrents/ctrtransfer_2.1.0_panda_snake.torrent" length="764116287" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>data_input_v3.zip</title>
