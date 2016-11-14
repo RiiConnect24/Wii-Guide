@@ -18,6 +18,9 @@ After this process, only **New 3DSs which have never accessed the eShop before**
 Note that occasionally the eShop will inexplicably still not work for devices that it should work for. This is entirely to do with Nintendo's servers, and I really do not have any control over it.
 {: .notice--warning}
 
+Region changing using ctrtransfer (which this method uses) seems to cause reboot patches to break. The cause for this is unknown, but for now Old 3DS users will be unable to play extended memory mode games (such as Monster Hunter, Super Smash Bros, and Pokémon Sun / Moon).
+{: .notice--warning}
+
 **You MUST have already installed arm9loaderhax + Luma3DS to use this.**
 {: .notice--danger}
 
