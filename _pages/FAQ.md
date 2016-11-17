@@ -28,7 +28,7 @@ permalink: /faq.html
 **A:** Luma3DS supports Region Free patches, which enables users to install games from any region without any extra modification or steps.
 
 <a name="faq_updates" />**Q:** *Is it safe to update CFW SysNAND?*    
-**A:** Yes, but if you are feeling apprehensive you can wait until there is confirmation it works.
+**A:** Yes. This is safe, stop asking about it.
 
 <a name="faq_support" />**Q:** *Where should I go for support?*    
 **A:** For support, ask for help at [#3dshacks on Rizon IRC](https://www.reddit.com/r/3dshacks/wiki/irc) or [3DS Hacking on Discord](https://discord.gg/MWxPgEp).  
