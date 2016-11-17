@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Mon, 14 Nov 2016 18:04:12 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 17 Nov 2016 18:14:11 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/</link>
 		<item>
 			<title>1.0.0_qr.png</title>
@@ -263,10 +263,10 @@
 		<item>
 			<title>aeskeydb_panda.zip</title>
 			<description>aeskeydb_panda.zip</description>
-			<guid>8409379FF4F495E53BE1032E539F07FAD05E0874</guid>
+			<guid>DE90DB8584FE9297B3B3E9CFCAFEA6D10819170D</guid>
 			<link>https://plailect.github.io/Guide/torrents/aeskeydb_panda.torrent</link>
-			<pubDate>Fri, 11 Nov 2016 23:57:04 +0000</pubDate>
-			<enclosure url="https://plailect.github.io/Guide/torrents/aeskeydb_panda.torrent" length="438" type="application/x-bittorent" />
+			<pubDate>Thu, 17 Nov 2016 18:13:57 +0000</pubDate>
+			<enclosure url="https://plailect.github.io/Guide/torrents/aeskeydb_panda.torrent" length="440" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>cias_9.2.0_eur_panda.zip</title>
