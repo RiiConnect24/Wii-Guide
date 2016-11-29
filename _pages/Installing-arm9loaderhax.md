@@ -202,6 +202,9 @@ If, before following this guide, you already had an EmuNAND setup and would like
 This section is only needed for devices that did a ctrtransfer earlier and had to back up their tickets.
 {: .notice--info}
 
+If you followed [Move EmuNAND](move-emunand), skip this section.
+{: .notice--info}
+
 If you have no tickets to restore, skip this section.
 {: .notice--info}
 
