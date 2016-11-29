@@ -46,9 +46,9 @@ The Homebrew Launcher has many different entrypoints, or methods of launching. T
 
 ##### Section IV -  browserhax
 
-8. Navigate to `http://nin.3ds.guide/3dsbrowserhax_auto.php`
+8. Navigate to `http://yls8.mtheall.com/3dsbrowserhax_auto.php`
     + You can also load the page by scanning the following QR code (press (L + R) on the home menu, then tap the QR icon on the bottom screen)     
-![browserhax_auto](http://nin.3ds.guide/3dsbrowserhax_auto_qrcode.png)
+![browserhax_auto](http://yls8.mtheall.com/3dsbrowserhax_auto_qrcode.png)
     + If you get an error, [follow this troubleshooting guide](troubleshooting#ts_browser)
 9. Your console should load the homebrew menu
 

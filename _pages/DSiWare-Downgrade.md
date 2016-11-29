@@ -66,7 +66,7 @@ System Transfers can only be performed once a week.
 * Download a legitimate copy of **Steel Diver: Sub Wars** (the game is free, but any copy of the game not from the eShop will **not** work) on **the source 3DS**
 * The previous release of [steelhax](https://vegaroxas.github.io/files/steelhax-installer.zip)
 * If **the target 3DS** is below 11.2.0, you will _also_ need the following
-  + The latest fork of [ctr-httpwn](https://github.com/Plailect/ctr-httpwn/releases/latest)
+  + The latest release of [ctr-httpwn](https://github.com/yellows8/ctr-httpwn/releases/latest)
 
 #### Instructions
 
