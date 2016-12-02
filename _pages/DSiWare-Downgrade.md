@@ -181,6 +181,7 @@ System Transfers can only be performed once a week.
 1. Copy and merge the `3ds` folder from the ctr-httpwn zip to **the target 3DS**'s SD card
 2. Reinsert your SD card into **the target 3DS**
 2. Launch the homebrew launcher on the device using [Homebrew Launcher (No Browser)](homebrew-launcher-(no-browser))
+  + **New 3DSs on versions 10.7.0 and 11.0.0 can use [Homebrew Launcher (Browser)](homebrew-launcher-(browser)) instead**
   + **Ensure menuhax is not installed, or you won't be able to return to Home Menu from the homebrew launcher**
 3. Launch ctr-httpwn on **the target 3DS**
 4. Press (A) to continue
