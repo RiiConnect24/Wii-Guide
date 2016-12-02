@@ -11,6 +11,9 @@ header:
 excerpt: 'A complete guide to 3DS custom firmware, <br /> from stock to arm9loaderhax.<br />'
 ---
 
+**This guide is for retail (consumer purchased; not from the Nintendo Developer Program) consoles _only_! If you have a developer ("PANDA" or "SNAKE") console, check out the [standard Guide](https://3ds.guide)**
+{: .notice--danger}
+
 **This guide needs *your* help to seed [these](https://github.com/Plailect/Guide/archive/master.zip) ([rss](https://3ds.guide/rss.xml)) torrents!**
 {: .notice--info}
 
