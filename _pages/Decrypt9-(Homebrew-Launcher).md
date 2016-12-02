@@ -22,8 +22,5 @@ If you have already hacked your 3DS before and have a EmuNAND based CFW setup, t
 5. Perform a "NAND Backup (min size)" and backup your NAND to `NANDmin.bin`
 6. Return to the Main Menu
 
-If you are on Old 3DS, continue to [2.1.0 ctrtransfer](2.1.0-ctrtransfer)    
-{: .notice--primary}
-
-If you are on New 3DS, reboot with (Start) and continue to [Installing arm9loaderhax](installing-arm9loaderhax)
+Continue to [2.1.0 ctrtransfer](2.1.0-ctrtransfer)    
 {: .notice--primary}
