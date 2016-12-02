@@ -11,21 +11,27 @@ The Homebrew Launcher has many different entrypoints, or methods of launching. T
 
 #### What you need
 
-+ [`config.zip`](images/config.zip)
-+ The [ropbin](https://smealum.github.io/3ds/#otherapp) matching your 3DS's version
 + The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
 + An internet connection setup on your 3DS
+
+{::comment}
++ [`config.zip`](images/config.zip)
++ The [ropbin](https://smealum.github.io/3ds/#otherapp) matching your 3DS's version
+{:/comment}
 
 #### Instructions
 
 ##### Section I -  Prep work
 
 1. Copy the contents of `starter.zip` to the root of your SD card
+4. Reinsert your SD card into your 3DS
+
+{::comment}
 2. Copy the contents of `config.zip` to the `/3ds/menuhax_manager/` folder on your SD card
 3. Create a folder named `menuhax` on the root of your SD card if it does not already exist
 4. Rename the ropbin to `menuhaxmanager_input_payload.bin`
 5. Copy `menuhaxmanager_input_payload.bin` to the `/menuhax/` folder on your SD card
-4. Reinsert your SD card into your 3DS
+{:/comment}
 
 ##### Section II -  Version check bypass
 
