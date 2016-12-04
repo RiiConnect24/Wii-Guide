@@ -29,7 +29,7 @@ The device version can be found at the bottom right of the top screen of the Sys
 |:-:|:-:|:-:|:-:|
 | 1.0.0 | 1.1.0 | [Cart Update](cart-update) | [Cart Update](cart-update) |
 | 2.1.0 | 2.1.0 | [Cart Update](cart-update) | [Installing arm9loaderhax](installing-arm9loaderhax)|
-| 2.2.0 | 3.0.0 | [Cart Update](cart-update)  | [Cart Update](cart-update) |
+| 2.2.0 | 3.1.0 | [Cart Update](cart-update)  | [Cart Update](cart-update) |
 | 4.0.0 | 4.5.0 | [Decrypt9 (MSET)](decrypt9-(mset)) | [Decrypt9 (Browser)](decrypt9-(browser)) |
 | 5.0.0 | 5.1.0 | [Cart Update](cart-update) | [Decrypt9 (Browser)](decrypt9-(browser)) |
 | 6.0.0 | 6.3.0 | [Decrypt9 (MSET)](decrypt9-(mset)) | [Decrypt9 (Browser)](decrypt9-(browser)) |
