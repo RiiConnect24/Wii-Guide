@@ -119,6 +119,7 @@ During this process, we also setup programs such as the following:
     + If some games do not work properly, disable this option and try again
 4. Press Start to save and reboot
   + If you get a black screen, just continue to the next section   
+  + If you get a "Failed to mount CTRNAND" error, just continue to the next section     
 
 ##### Section IV - Restoring the System
 
@@ -126,7 +127,6 @@ If, before following this guide, you already had an EmuNAND setup and would like
 {: .notice--info}
 
 1. If you have done [2.1.0 ctrtransfer](2.1.0-ctrtransfer), restore `NANDmin.bin`:
-  + Copy `NANDmin.bin` to the `/files9/` folder on your SD card
   + Open Hourglass9 from arm9loaderhax by holding (Start) on boot
   + Go to "SysNAND Backup/Restore"
   + Restore from `NANDmin.bin`
