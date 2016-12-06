@@ -48,6 +48,8 @@ The Homebrew Launcher has many different entrypoints, or methods of launching. T
 
 **This section is only needed for New 3DS on version 10.7.0 and 11.0.0**
 
+**This section does not work for JPN regions**
+
 1.See [this](https://github.com/Plailect/Guide/issues/684)
 
 ##### Section IV -  browserhax
