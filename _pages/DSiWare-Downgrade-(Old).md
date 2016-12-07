@@ -1,12 +1,9 @@
 ---
-title: "DSiWare Downgrade"
-permalink: /dsiware-downgrade.html
+title: "DSiWare Downgrade (Old)"
+permalink: /dsiware-downgrade-(old).html
 ---
 
-**If you are on 11.0.0 or 11.1.0, do NOT update to 11.2.0. A new update will be coming soon that allows for DSiWare NFIRM Downgrading _without_ a second 3DS or hardmod for versions under 11.2.0.**
-{: .notice--primary}
-
-If you already own **Fieldrunners**, **Legends of Exidia**, **Guitar Rock Tour**, or **The Legend of Zelda: Four Swords** on **the source 3DS**, check out [the old version of this page](dsiware-downgrade-(old)).
+**This is the old version of the DSiWare Downgrade instructions. They are only useful if you already own "Fieldrunners", "Legends of Exidia", "Guitar Rock Tour", or "The Legend of Zelda: Four Swords" on the source 3DS**
 {: .notice--primary}
 
 If you are between versions 11.0.0 and 11.2.0, you must follow this guide to downgrade your NATIVE_FIRM using DSiWare and a second 3DS which has already has a Custom Firmware installed on it in order to dump and restore your NAND.
@@ -50,18 +47,17 @@ System Transfers can only be performed once a week.
 * Two 3DS systems
   + **The source 3DS**: the 3DS running some kind of custom firmware (arm9loaderhax or some form of EmuNAND/EmuNAND) *on the latest version*
   + **The target 3DS**: the 3DS on stock firmware *between 11.0.0 and 11.2.0*
-* Purchase (or already own) a compatible DSiWare game from the eShop on **the source 3DS**
-  + A pirated copy of the game will **not** work
-  + The game's `.app` must be greater than or equal to `3,457,024 bytes`
-  + The game's `savedata.bin` must be greater than or equal to `65,536 bytes`
-  + The system transfer will only accept the hacked app and save if they do not increase the overall size of each file
-  + For a community list of compatible games, see the [DSiWare List](dsiware-list) page
-* [`DSiWare_sudokuhax_v0_injection.zip`](torrents/DSiWare_sudokuhax_v0_injection.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:43e54206ccff490bb66743f8c414ec00837e605f&dn=DSiWare_sudokuhax_v0_injection.zip&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>
-* The latest commit of [GodMode9](images/GodMode9-20161207-130503.zip) *(68b81ad)*
+* Purchase one of the following exploitable DSiWare games (a pirated copy of the game will **not** work) on **the source 3DS**
+  + **Fieldrunners**: *(game has been pulled in all regions)*
+  + **Legends of Exidia**: Works for **USA + EUR** *(game has been pulled in JPN region)*
+  + **Guitar Rock Tour**: *(game has been pulled in all regions)*    
+  + **The Legend of Zelda: Four Swords**: *(game has been pulled in all regions)*    
+* The latest release of [3ds_dsiwarehax_installer](https://github.com/yellows8/3ds_dsiwarehax_installer/releases)
 * The latest release of [3DSident](https://github.com/joel16/3DSident/releases/latest)
+* The latest release of [FBI](https://github.com/Steveice10/FBI/releases/latest)
 * The latest release of [dgTool](https://github.com/Plailect/dgTool/releases/latest)
 * The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
-* The NFIRM zip corresponding to the device and version of **the target 3DS**
+* The NFIRM zip corresponding to the device and version of **the target 3DS**:
   + [New 3DS 11.0.0 to 10.4.0](torrents/11.0.0_to_10.4.0_n3ds.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:2d13a5ea1570f911bd5c6423e0c30e51d548837a&dn=11.0.0%5Fto%5F10.4.0%5Fn3ds.zip&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>
   + [Old 3DS 11.0.0 to 10.4.0](torrents/11.0.0_to_10.4.0_o3ds.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:72393bbd99bc285db84a9cabf39d9b3200058d6a&dn=11.0.0%5Fto%5F10.4.0%5Fo3ds.zip&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>     
   ~    
@@ -79,13 +75,18 @@ System Transfers can only be performed once a week.
 
 ##### Section I - Prep Work
 
-Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup any saves you care about on the target 3DS (it will be formatted!)
-{: .notice--warning}
-
 1. Create a folder named `files9` on the root of **the source 3DS**'s SD card if it does not already exist
-2. Copy `GodMode9.bin` from the GodMode9 zip to the `/luma/payloads` folder on **the source 3DS**'s' SD card and rename `GodMode9.bin` in `/luma/payloads` to `up_GodMode9.bin`
-3. Copy `sudoku_v0.app` from `DSiWare_sudokuhax_v0_injection.zip` to the root of **the source 3DS**'s SD card
-4. Copy `savedata.bin` from `DSiWare_sudokuhax_v0_injection.zip` to the root of **the source 3DS**'s SD card
+2. **Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup any saves you care about on the target 3DS (it will be formatted!)**
+3. Copy the relevant `public.sav` from the `/dsiware/(8 Character ID)/` folder in the 3ds_dsiwarehax_installer zip to the root of **the source 3DS**'s SD card
+  + **Fieldrunners USA Region**: `4b464445`
+  + **Fieldrunners EUR Region**: `4b464456`
+  + **Legends of Exidia USA Region**: `4b4c4545`
+  + **Legends of Exidia EUR Region**: `4b4c4556`
+  + **Legends of Exidia JPN Region**: `4b4c454a`
+  + **Guitar Rock Tour EUR Region**: `4b475256`
+  + **Guitar Rock Tour USA Region**: `4b475245`
+  + **The Legend of Zelda: Four Swords EUR Region**: `4b513956`   
+  + **The Legend of Zelda: Four Swords USA Region**: `4b513945`    
 4. Reinsert **the source 3DS**'s SD card
 5. On **the source 3DS**, hold Start on boot to launch Hourglass9
 6. Go to SysNAND Options, then SysNAND Backup/Restore, then backup **(min size)** SysNAND to `NANDmin.bin`
@@ -95,52 +96,40 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 10. **Backup every file on both 3DS's SD cards to two separate folders on your computer (keep track of which is which)!**
 11. Reinsert each SD card back into their corresponding 3DS
 12. Press (Start) to reboot
-13. Purchase any DSiWare game from the eShop (a pirated copy of the game will **not** work) on **the source 3DS**
-2. Go to System Settings, then "Data Management", then "DSiWare", then "Nintendo DS Profile" on **the source 3DS**
-3. Copy any DSiWare games that are already on the SD Card back to the System Memory
-4. Copy the DSiWare game you intend to use to the SD Card
-5. Power off **the source 3DS**, then put its SD card into your computer
-6. Navigate to `/Nintendo 3DS/(32 Character ID)/(32 Character ID)/Nintendo DSiWare/`
-7. Make a note of the 8 Character ID in the file name of the `.bin` file in this folder
-  + For example, if you see `4B4C4545.bin`, remember the ID `4B4C4545`
-8. Reinsert your SD card into **the source 3DS** and boot it back up
-9. Go to System Settings, then "Data Management", then "DSiWare", then "Nintendo DS Profile" on **the source 3DS**
-10. Delete the DSiWare game from the SD Card *(do not delete it from the System Memory)*
 
-##### Section II - Injecting the game and save
+##### Section II - Installing the save
 
-1. Open GodMode9 from arm9loaderhax by holding (Up) during boot
-2. Navigate to `SDCARD`
-3. Press (Y) on `sudoku_v0.app` to copy it
-4. Press (B) to go back to the main menu
-5. Navigate to `SYSNAND TWNLN` -> `title` -> `00030004` -> `(8 Character ID)`
-  + The 8 Character ID will be the one you got from the `.bin` file earlier
-6. Navigate to `content`
-7. Press (A) on the `.app` file in the folder
-8. Select "Inject data \@offset"
-9. Press (A) to select the offset `00000000`
-10. Press (A) to unlock SysNAND writing, then input the key combo given
-11. Press (B) to go back to the main menu
-12. Navigate to `SYSNAND TWNLN` -> `title` -> `00030004` -> `(8 Character ID)`
-  + The 8 Character ID will be the one you got from the `.bin` file earlier
-13. Navigate to `data`
-14. Press (A) on `public.sav`
-15. Select "Mount as FAT image"
-  + If you do not see this option, ensure you are running the latest GodMode9 commit rather than the latest release
-  + If you still do not see this option, please [report this bug](https://github.com/d0k3/GodMode9/issues)
-19. This will have moved you back to the main menu
-20. Navigate to `SDCARD`
-13. Press (Y) on `savedata.bin` to copy it
-14. Press (B) to go back to the main menu
-15. Navigate to `FAT IMAGE`
-16. Press (Y) to paste a copy of `savedata.bin`
-17. Select "Copy path(s)"
-18. Press (A) to unlock image writing, then input the key combo given
-  + If a `savedata.bin` file already exists in the image, select "Overwrite file(s)"
-19. Press (Start) to reboot
-20. Launch your DSiWare game on **the source 3DS**
-21. Tap the screen or press any button to start the game and test if the save is functional
-  + If your game has an error about `boot.nds`, **then the exploit has been successful**
+1. Purchase one of the following exploitable DSiWare games (a pirated copy of the game will **not** work)
+  + **Fieldrunners**: Works for **USA + EUR**
+  + **Legends of Exidia**: Works for **USA + EUR**
+  + **Guitar Rock Tour**: You must have already purchased this for **EUR**
+2. Launch FBI on **the source 3DS**
+3. Navigate to `SD`
+4. Press (A) on `public.sav` and copy it
+5. Press (B) to get back to the main menu
+6. Navigate to `TWL NAND` -> `title` -> `00030004`
+7. Navigate to the folder for your game and region:
+  + **Fieldrunners USA Region**: `4b464445`
+  + **Fieldrunners EUR Region**: `4b464456`
+  + **Legends of Exidia USA Region**: `4b4c4545`
+  + **Legends of Exidia EUR Region**: `4b4c4556`
+  + **Legends of Exidia JPN Region**: `4b4c454a`
+  + **Guitar Rock Tour EUR Region**: `4b475256`
+  + **Guitar Rock Tour USA Region**: `4b475245`    
+  + **The Legend of Zelda: Four Swords EUR Region**: `4b513956`   
+  + **The Legend of Zelda: Four Swords USA Region**: `4b513945`    
+9. Navigate to the `data` folder
+8. Press (A) on the existing `public.sav` and delete it
+9. Press (A) on the current directory and paste `public.sav`
+10. Press (B) to get back to the main menu
+11. Press (Start) to exit
+3. Launch your DSiWare game on **the source 3DS**
+4. Test if the save is functional
+  + **Fieldrunners**: Touch the 'Scores' button at the main menu
+  + **Legends of Exidia**: After pressing (A) or (Start) at the two title screens, select the first save slot and press continue
+  + **Guitar Rock Tour**: Scroll down and go to High-Scores -> Drums -> Easy    
+  + **The Legend of Zelda: Four Swords**: Just start the game
+  + If your game has an error about `boot.nds` or a white screen, **then the exploit has been successful**
   + If your game behaves normally and does not give you this error, then you should stop and figure out what went wrong
   + If you get a black screen, [follow this troubleshooting guide](troubleshooting#twl_broken)
 
@@ -238,8 +227,12 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 1. Create a folder named `dgTool` on the root of **the target 3DS**'s SD card if it does not already exist
 3. Copy the contents of the NFIRM zip to the `dgTool` folder on the root of **the target 3DS**'s SD card
 3. Launch your DSiWare game on **the target 3DS**
-4. Launch dgTool by starting your DSiWare game
-  + If the game does not launch dgTool, [follow this troubleshooting guide](troubleshooting#ts_dsiware)
+4. Launch dgTool using your DSiWare game
+  + **Fieldrunners**: Touch the 'Scores' button at the main menu
+  + **Legends of Exidia**: After pressing (A) or (Start) at the two title screens, select the first save slot and press continue
+  + **Guitar Rock Tour**: Scroll down and go to High-Scores -> Drums -> Easy
+  + **The Legend of Zelda: Four Swords**: Just start the game
+  + If your game does not have the hacked save file installed, [follow this troubleshooting guide](troubleshooting#ts_dsiware)
 5. Select "Dump f0f1" to backup **the target 3DS**'s NFIRM
 6. Make note of the NFIRM backup's location
 7. Exit dgTool
@@ -251,7 +244,11 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 **Do NOT downgrade with dgTool on a device that already has arm9loaderhax installed or you will BRICK!**
 
 1. Launch your DSiWare game on **the target 3DS**
-4. Launch dgTool by starting your DSiWare game
+4. Launch dgTool using your DSiWare game
+  + **Fieldrunners**: Touch the 'Scores' button at the main menu
+  + **Legends of Exidia**: After pressing (A) or (Start) at the two title screens, select the first save slot and press continue
+  + **Guitar Rock Tour**: Scroll down and go to High-Scores -> Drums -> Easy
+  + **The Legend of Zelda: Four Swords**: Just start the game
 3. Select "Downgrade FIRM to 10.4" and confirm to flash the 10.4.0 NFIRM bin to **the target 3DS**
 4. Exit dgTool
   + You may have to force power off by holding the power button
