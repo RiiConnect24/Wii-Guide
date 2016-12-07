@@ -15,7 +15,7 @@ To submit additions to this list, you must edit [the DSiWare-List.md file](https
 Submissions should match the chart formatting of the example and be organized (ascending) by price (in USD).
 {: .notice--info}
 
-Submissions should have a `.app` size greater than or equal to `3,457,024 bytes` and a `public.sav` greater than or equal to `81,920 bytes`
+Submissions should have a `.app` size greater than or equal to `3,457,024 bytes` and a `savedata.bin` greater than or equal to `65,536 bytes`
 {: .notice--info}
 
 | <sub> | <sub>Price (USD) | <sub>Regions |

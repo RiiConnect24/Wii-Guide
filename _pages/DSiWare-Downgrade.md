@@ -50,8 +50,8 @@ System Transfers can only be performed once a week.
   + **The target 3DS**: the 3DS on stock firmware *between 11.0.0 and 11.2.0*
 * Purchase a DSiWare game from the eShop on **the source 3DS**
   + A pirated copy of the game will **not** work
-  + The game's `.app` must greater than or equal to `3,457,024 bytes`
-  + The game's `public.sav` must greater than or equal to `81,920 bytes`
+  + The game's `.app` must be greater than or equal to `3,457,024 bytes`
+  + The game's `savedata.bin` must be greater than or equal to `65,536 bytes`
   + The system transfer will only accept the hacked app and save if they do not increase the overall size of each file
   + For a community list of compatible games, see the [DSiWare List](dsiware-list) page
 * [`DSiWare_sudokuhax_v0_injection.zip`](torrents/DSiWare_sudokuhax_v0_injection.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:43e54206ccff490bb66743f8c414ec00837e605f&dn=DSiWare_sudokuhax_v0_injection.zip&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>
