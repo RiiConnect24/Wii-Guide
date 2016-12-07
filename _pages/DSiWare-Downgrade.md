@@ -44,23 +44,21 @@ System Transfers can only be performed once a week.
 
 #### What you need
 
-* A computer to mount the `public.sav` file (for now)
 * Two 3DS systems
   + **The source 3DS**: the 3DS running some kind of custom firmware (arm9loaderhax or some form of EmuNAND/EmuNAND) *on the latest version*
   + **The target 3DS**: the 3DS on stock firmware *between 11.0.0 and 11.2.0*
-* Purchase a DSiWare game from the eShop on **the source 3DS**
+* Purchase (or already own) a compatible DSiWare game from the eShop on **the source 3DS**
   + A pirated copy of the game will **not** work
   + The game's `.app` must be greater than or equal to `3,457,024 bytes`
   + The game's `savedata.bin` must be greater than or equal to `65,536 bytes`
   + The system transfer will only accept the hacked app and save if they do not increase the overall size of each file
   + For a community list of compatible games, see the [DSiWare List](dsiware-list) page
 * [`DSiWare_sudokuhax_v0_injection.zip`](torrents/DSiWare_sudokuhax_v0_injection.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:43e54206ccff490bb66743f8c414ec00837e605f&dn=DSiWare_sudokuhax_v0_injection.zip&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>
+* The latest commit of [GodMode9](images/GodMode9-20161207-130503.zip) *(68b81ad)*
 * The latest release of [3DSident](https://github.com/joel16/3DSident/releases/latest)
-* The latest release of [FBI](https://github.com/Steveice10/FBI/latest)
-{::comment}* The latest release of [GodMode9](https://github.com/d0k3/GodMode9/latest){:/comment}
 * The latest release of [dgTool](https://github.com/Plailect/dgTool/releases/latest)
 * The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
-* The NFIRM zip corresponding to the device and version of **the target 3DS**:
+* The NFIRM zip corresponding to the device and version of **the target 3DS**
   + [New 3DS 11.0.0 to 10.4.0](torrents/11.0.0_to_10.4.0_n3ds.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:2d13a5ea1570f911bd5c6423e0c30e51d548837a&dn=11.0.0%5Fto%5F10.4.0%5Fn3ds.zip&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>
   + [Old 3DS 11.0.0 to 10.4.0](torrents/11.0.0_to_10.4.0_o3ds.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:72393bbd99bc285db84a9cabf39d9b3200058d6a&dn=11.0.0%5Fto%5F10.4.0%5Fo3ds.zip&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>     
   ~    
@@ -82,7 +80,9 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 {: .notice--warning}
 
 1. Create a folder named `files9` on the root of **the source 3DS**'s SD card if it does not already exist
-{::comment}2. Copy `GodMode9.bin` from the GodMode9 zip to the `/luma/payloads` folder on **the source 3DS**'s' SD card and rename `GodMode9.bin` in `/luma/payloads` to `up_GodMode9.bin`{:/comment}
+2. Copy `GodMode9.bin` from the GodMode9 zip to the `/luma/payloads` folder on **the source 3DS**'s' SD card and rename `GodMode9.bin` in `/luma/payloads` to `up_GodMode9.bin`
+3. Copy `sudoku_v0.app` from `DSiWare_sudokuhax_v0_injection.zip` to the root of **the source 3DS**'s SD card
+4. Copy `savedata.bin` from `DSiWare_sudokuhax_v0_injection.zip` to the root of **the source 3DS**'s SD card
 4. Reinsert **the source 3DS**'s SD card
 5. On **the source 3DS**, hold Start on boot to launch Hourglass9
 6. Go to SysNAND Options, then SysNAND Backup/Restore, then backup **(min size)** SysNAND to `NANDmin.bin`
@@ -106,53 +106,37 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 
 ##### Section II - Injecting the game and save
 
-1. Launch FBI on **the source 3DS**
-2. Navigate to `TWL NAND` -> `title` -> `00030004` -> `(8 Character ID)`
+1. Open GodMode9 from arm9loaderhax by holding (Up) during boot
+2. Navigate to `SDCARD`
+3. Press (Y) on `sudoku_v0.app` to copy it
+4. Press (B) to go back to the main menu
+5. Navigate to `SYSNAND TWNLN` -> `title` -> `00030004` -> `(8 Character ID)`
   + The 8 Character ID will be the one you got from the `.bin` file earlier
-3. Navigate to the `content` folder
-4. Make a note of the `.app` file name in this folder
-  + For example, if you see `00000000.app`, remember the file name `00000000.app`
-5. Power off **the source 3DS**, then put its SD card into your computer
-7. Copy `sudoku.app` to the root of **the source 3DS**'s SD card from `DSiWare_sudokuhax_v0_injection.zip`
-8. On **the source 3DS**'s SD card, rename `sudoku.app` to the name of the `.app` file you noted earlier
-10. Reinsert your SD card into **the source 3DS** and boot it back up
-11. Launch FBI on **the source 3DS**
-3. Navigate to `SD`
-4. Press (A) on the renamed sudoku `.app` and copy it
-5. Press (B) to get back to the main menu
-6. Navigate to `TWL NAND` -> `title` -> `00030004` -> `(8 Character ID)`
+6. Navigate to `content`
+7. Press (A) on the `.app` file in the folder
+8. Select "Inject data \@offset"
+9. Press (A) to select the offset `00000000`
+10. Press (A) to unlock SysNAND writing, then input the key combo given
+11. Press (B) to go back to the main menu
+12. Navigate to `SYSNAND TWNLN` -> `title` -> `00030004` -> `(8 Character ID)`
   + The 8 Character ID will be the one you got from the `.bin` file earlier
-9. Navigate to the `content` folder
-9. Press (A) on the current directory and paste the renamed sudoku`.app`
-  + This will overwrite the existing one
-10. Press (B) to get back to `TWL NAND` -> `title` -> `00030004` -> `(8 Character ID)`
-11. Navigate to the `data` folder
-12. Press (A) on `public.sav` and copy it
-13. Press (B) to get back to the main menu
-14. Navigate to `SD`
-15. Press (A) on the current directory and paste `public.sav`
-11. Press (Start) to exit
-12. Power off **the source 3DS**, then put its SD card into your computer
-13. Copy `public.sav` to your computer
-14. Mount `public.sav` so it can be edited
-  + In the future this will be done on device, but for now a computer is needed
-  + Windows users can use something like [OSFMount](http://www.osforensics.com/tools/mount-disk-images.html)
-  + Ensure the mounted image is *not* Read Only
-15. Copy `savedata.bin` from `DSiWare_sudokuhax_v0_injection.zip` to the mounted `public.sav`, replacing the existing one
-16. Dismount `public.sav`
-17. Copy the modified `public.sav` to the **the source 3DS**'s SD card
-18. Reinsert your SD card into **the source 3DS** and boot it back up
-19. Launch FBI on **the source 3DS**
-3. Navigate to `SD`
-4. Press (A) on `public.sav` and copy it
-5. Press (B) to get back to the main menu
-6. Navigate to `TWL NAND` -> `title` -> `00030004`
-9. Navigate to the `data` folder
-9. Press (A) on the current directory and paste `public.sav`
-  + This will overwrite the existing one
-10. Press (B) to get back to the main menu
-3. Launch your DSiWare game on **the source 3DS**
-4. Tap the screen or press any button to start the game and test if the save is functional
+13. Navigate to `data`
+14. Press (A) on `public.sav`
+15. Select "Mount as FAT image"
+  + If you do not see this option, ensure you are running the latest GodMode9 commit rather than the latest release
+  + If you still do not see this option, please [report this bug](https://github.com/d0k3/GodMode9/issues)
+19. This will have moved you back to the main menu
+20. Navigate to `SDCARD`
+13. Press (Y) on `savedata.bin` to copy it
+14. Press (B) to go back to the main menu
+15. Navigate to `FAT IMAGE`
+16. Press (Y) to paste a copy of `savedata.bin`
+17. Select "Copy path(s)"
+18. Press (A) to unlock image writing, then input the key combo given
+  + If a `savedata.bin` file already exists in the image, select "Overwrite file(s)"
+19. Press (Start) to reboot
+20. Launch your DSiWare game on **the source 3DS**
+21. Tap the screen or press any button to start the game and test if the save is functional
   + If your game has an error about `boot.nds`, **then the exploit has been successful**
   + If your game behaves normally and does not give you this error, then you should stop and figure out what went wrong
   + If you get a black screen, [follow this troubleshooting guide](troubleshooting#twl_broken)
