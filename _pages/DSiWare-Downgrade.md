@@ -229,9 +229,10 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 ##### Section VI - Restoring the source 3DS
 
 1. On **the source 3DS**, complete initial setup
-2. Do one of the following *(or neither if you don't mind __the source 3DS__'s NNID being nonfunctional)*
+2. Do one of the following
     + Do the rest of the sections and then the full guide on **the target 3DS**, then wait one week, then System Transfer from **the target 3DS** back to **the source 3DS** *(remember you cannot transfer back from a New 3DS to an Old 3DS)*
     + Call Nintendo and tell them you no longer have access to the device that your NNID is linked to (which is **the target 3DS** in this case), and would like it linked to a different device (which is **the source 3DS** in this case)
+    + You can also just [remove the NNID](https://3ds.guide/troubleshooting#rm_nnid) from **the source 3DS** if you'd prefer it remain on **the target 3DS**
 3. Reboot **the source 3DS** while holding Start to launch Hourglass9
 4. Go to SysNAND Backup/Restore and restore SysNAND from `NANDmin.bin`
 
