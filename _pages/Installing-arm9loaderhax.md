@@ -138,7 +138,7 @@ If, before following this guide, you already had an EmuNAND setup and would like
   + Copy `firmware.bin` and `cetk` to the `/luma/` folder on your SD card
   + Delete both of these files after updating your 3DS
 2. Regardless of whether or not you did either of the above two steps, update your 3DS by going to System Settings, then "Other Settings", then going all the way to the right and using "System Update"
-  + Updates while using A9LH + Luma are safe
+  + Updates while using A9LH + Luma (what you have) are safe, stop asking about it
   + If this gives you an error, set your DNS settings to "auto"
   + If this still gives you an error and your NAND is below 9.2.0, [follow 9.2.0 ctrtransfer](9.2.0-ctrtransfer)
 
