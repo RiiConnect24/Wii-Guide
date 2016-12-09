@@ -110,7 +110,7 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 9. Press (A) to select the offset `00000000`
 10. Press (A) to unlock SysNAND writing, then input the key combo given
 11. Press (B) to go back to the main menu
-12. Navigate to `SYSNAND TWNLN` -> `title` -> `00030004` -> `(8 Character ID)`
+12. Navigate to `SYSNAND TWLN` -> `title` -> `00030004` -> `(8 Character ID)`
   + The 8 Character ID will be the one from the [DSiWare List](dsiware-list) page
 13. Navigate to `data`
 14. Press (A) on `public.sav`
