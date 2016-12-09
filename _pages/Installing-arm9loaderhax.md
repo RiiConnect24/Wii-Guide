@@ -69,16 +69,16 @@ During this process, we also setup programs such as the following:
 3. Delete the `3ds` folder from the root of your SD card if it exists
 4. **Copy _the contents of_ the `starter.zip` to the root of your SD card**
   + This will include a brand new `3ds` folder to replace the one you just deleted
-5. Copy _the contents of_ the SafeA9LHInstaller zip to the root of your SD card
-6. **Copy the `a9lh` folder from the data_input zip to the root of your SD Card**
-7. **Copy _the contents of_ the arm9loaderhax release zip to `a9lh` folder on your SD card**
-9. Copy `hblauncher_loader.cia` from the hblauncher_loader zip to the `/cias/` folder on your SD card
-10. Copy `lumaupdater.cia` from the Luma3DS Updater zip to the `/cias/` folder on your SD card
-11. Copy `FBI.cia` from the FBI zip to the `/cias/` folder on your SD card
-12. **Copy `arm9loaderhax.bin` from the Luma3DS zip to the root of your SD card, overwrite existing files**
+5. Copy _the contents of_ the SafeA9LHInstaller `.7z` to the root of your SD card
+6. **Copy the `a9lh` folder from the data_input `.zip` to the root of your SD Card**
+7. **Copy _the contents of_ the arm9loaderhax release `.7z` to `a9lh` folder on your SD card**
+9. Copy `hblauncher_loader.cia` from the hblauncher_loader `.zip` to the `/cias/` folder on your SD card
+10. Copy `lumaupdater.cia` from the Luma3DS Updater `.zip` to the `/cias/` folder on your SD card
+11. Copy `FBI.cia` from the FBI `.zip` to the `/cias/` folder on your SD card
+12. **Copy `arm9loaderhax.bin` from the Luma3DS `.7z` to the root of your SD card, overwrite existing files**
 13. Create a folder named `luma` on the root of your SD card
 14. Create a folder named `payloads` in the `luma` folder on your SD card
-15. Copy `Hourglass9.bin` from the Hourglass9 zip to the `/luma/payloads/` folder on your SD card and rename `Hourglass9.bin` to `start_Hourglass9.bin`
+15. Copy `Hourglass9.bin` from the Hourglass9 `.zip` to the `/luma/payloads/` folder on your SD card and rename `Hourglass9.bin` to `start_Hourglass9.bin`
 16. Copy `aeskeydb.bin` to the `/files9/` folder on your SD card
 17. Copy `DspDump.3dsx` to the `/3ds/` folder on your SD card
 18. Copy _the contents of_ `fbi-2.4.2-injectable.zip` to the `/files9/` folder on your SD card
@@ -229,7 +229,7 @@ You can now hold (Start) on boot to launch Hourglass9, an arm9loaderhax safe mul
 You can update your arm9loaderhax installation in the future by following the instructions on the [Updating A9LH](updating-a9lh) page.
 {: .notice--info}
 
-To use [NTR CFW](https://github.com/44670/BootNTR/), get `ntr.bin` from the appropriate zip on [this](https://github.com/44670/BootNTR/releases) page and copy it to the root of your SD card, then install `BootNTR.cia` from [this](https://github.com/astronautlevel2/BootNTR/releases/latest) page.
+To use [NTR CFW](https://github.com/44670/BootNTR/), get `ntr.bin` from the appropriate `.zip` on [this](https://github.com/44670/BootNTR/releases) page and copy it to the root of your SD card, then install `BootNTR.cia` from [this](https://github.com/astronautlevel2/BootNTR/releases/latest) page.
 {: .notice--info}
 
 Keep your `NANDmin.bin` file, it can be restored by Hourglass9 to save you from a brick in the future.

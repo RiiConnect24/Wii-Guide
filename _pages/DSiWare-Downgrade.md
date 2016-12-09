@@ -53,7 +53,7 @@ System Transfers can only be performed once a week.
 * Purchase (or already own) a compatible DSiWare game from the eShop on **the source 3DS**
   + A pirated copy of the game will **not** work
   + For a list of compatible games, see the [DSiWare List](dsiware-list) page
-* The sudokuhax injection zip corresponding to your region
+* The sudokuhax injection `.zip` corresponding to your region
   + [`DSiWare_usa_sudokuhax_v0_injection.zip`](torrents/DSiWare_usa_sudokuhax_v0_injection.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:43a52b6c2b0536203e3415fa7c5ac9a3a2925bd9&dn=DSiWare_usa_sudokuhax_v0_injection.zip&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>
   + EUR - Coming soon
   + JPN - Coming soon
@@ -61,7 +61,7 @@ System Transfers can only be performed once a week.
 * The latest release of [3DSident](https://github.com/joel16/3DSident/releases/latest)
 * The latest release of [dgTool](https://github.com/Plailect/dgTool/releases/latest)
 * The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
-* The NFIRM zip corresponding to the device and version of **the target 3DS**
+* The NFIRM `.zip` corresponding to the device and version of **the target 3DS**
   + [New 3DS 11.0.0 to 10.4.0](torrents/11.0.0_to_10.4.0_n3ds.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:2d13a5ea1570f911bd5c6423e0c30e51d548837a&dn=11.0.0%5Fto%5F10.4.0%5Fn3ds.zip&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>
   + [Old 3DS 11.0.0 to 10.4.0](torrents/11.0.0_to_10.4.0_o3ds.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:72393bbd99bc285db84a9cabf39d9b3200058d6a&dn=11.0.0%5Fto%5F10.4.0%5Fo3ds.zip&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>     
   ~    
@@ -83,7 +83,7 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 {: .notice--warning}
 
 1. Create a folder named `files9` on the root of **the source 3DS**'s SD card if it does not already exist
-2. Copy `GodMode9.bin` from the GodMode9 zip to the `/luma/payloads` folder on **the source 3DS**'s' SD card and rename `GodMode9.bin` in `/luma/payloads` to `up_GodMode9.bin`
+2. Copy `GodMode9.bin` from the GodMode9 `.zip` to the `/luma/payloads` folder on **the source 3DS**'s' SD card and rename `GodMode9.bin` in `/luma/payloads` to `up_GodMode9.bin`
 3. Copy `sudoku_v0.app` from `DSiWare_sudokuhax_v0_injection.zip` to the root of **the source 3DS**'s SD card
 4. Copy `savedata.bin` from `DSiWare_sudokuhax_v0_injection.zip` to the root of **the source 3DS**'s SD card
 4. Reinsert **the source 3DS**'s SD card
@@ -137,7 +137,7 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 
 **This will allow you to enter the homebrew launcher after the System Transfer.**
 
-1. Copy the `steelhax-installer` folder from the steelhax zip to the `/3ds/` folder on **the source 3DS**'s SD card
+1. Copy the `steelhax-installer` folder from the steelhax `.zip` to the `/3ds/` folder on **the source 3DS**'s SD card
 2. Reinsert your SD card into your 3DS
 3. Ensure that **Steel Diver: Sub Wars** does not have any updates installed using System Settings:
   + Go to "Data Management", then "Nintendo 3DS", then "Downloadable Content"
@@ -178,7 +178,7 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 
 **This will allow you to system transfer on versions other than the latest.**
 
-1. Copy and merge the `3ds` folder from the ctr-httpwn zip to **the target 3DS**'s SD card
+1. Copy and merge the `3ds` folder from the ctr-httpwn `.zip` to **the target 3DS**'s SD card
 2. Reinsert your SD card into **the target 3DS**
 2. Launch the homebrew launcher on the device using [Homebrew Launcher (No Browser)](homebrew-launcher-(no-browser))
   + **New 3DSs on versions 10.7.0 and 11.0.0 can use [Homebrew Launcher (Browser)](homebrew-launcher-(browser)) instead**
@@ -226,7 +226,7 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 
 1. Copy `boot.nds` to the root of **the target 3DS**'s SD card
 1. Create a folder named `dgTool` on the root of **the target 3DS**'s SD card if it does not already exist
-3. Copy the contents of the NFIRM zip to the `dgTool` folder on the root of **the target 3DS**'s SD card
+3. Copy the contents of the NFIRM `.zip` to the `dgTool` folder on the root of **the target 3DS**'s SD card
 3. Launch your DSiWare game on **the target 3DS**
 4. Launch dgTool by starting your DSiWare game
   + If the game does not launch dgTool, [follow this troubleshooting guide](troubleshooting#ts_dsiware)
@@ -249,7 +249,7 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 
 ##### Section IX - Exploit verification
 
-1. Copy and merge the `3ds` folder from the 3DSident zip to **the target 3DS**'s SD card
+1. Copy and merge the `3ds` folder from the 3DSident `.zip` to **the target 3DS**'s SD card
 2. Reinsert your SD card into **the target 3DS**
 3. Launch the homebrew launcher on **the target 3DS** using [Homebrew Launcher (No Browser)](homebrew-launcher-(no-browser))
 4. Launch 3DSident
