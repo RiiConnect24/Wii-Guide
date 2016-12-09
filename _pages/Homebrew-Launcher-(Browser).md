@@ -50,7 +50,20 @@ The Homebrew Launcher has many different entrypoints, or methods of launching. T
 
 **This section does not work for JPN regions**
 
+{::comment}
 1.See [this](https://github.com/Plailect/Guide/issues/684)
+{:/comment}
+
+1. If you haven't already, set up an internet connection in the 3DS first without blocking the site.
+2. Shut down your 3DS.
+3. Download the [ropbin](https://smealum.github.io/3ds/#otherapp) matching your 3DS's version.
+4. Rename the file to `browserhax_hblauncher_ropbin_payload.bin` and copy it to the root of your SD card.
+4. Add firewall rule **to your router**:
+    + The exact steps to block or blacklist a website depend on your router manufacturer.
+    + Please keep in mind that you must block **from the router**. Using Windows Firewall (or any other local firewall) will not work.
+    + Block this website `conntest.nintendowifi.net` or block all TCP and UDP request from this IP adress `69.25.139.140`
+5. Boot 3DS
+6. Continue at Section IV
 
 ##### Section IV -  browserhax
 
@@ -59,6 +72,7 @@ The Homebrew Launcher has many different entrypoints, or methods of launching. T
 ![browserhax_auto](http://yls8.mtheall.com/3dsbrowserhax_auto_qrcode.png)
     + If you get an error, [follow this troubleshooting guide](troubleshooting#ts_browser)
 9. Your console should load the homebrew menu
+    + If you had blocked conntest.nintendowifi.net (or the IP adress) in Section III, unblock it after loading into the homebrew menu.
 
 ##### Section V -  menuhax
 
