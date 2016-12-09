@@ -114,7 +114,7 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 2. Navigate to `SDCARD`
 3. Press (Y) on the DSiWare injection `.app` to copy it
 4. Press (B) to go back to the main menu
-5. Navigate to `SYSNAND TWNLN` -> `title` -> `00030004` -> `(8 Character ID)`
+5. Navigate to `SYSNAND TWLN` -> `title` -> `00030004` -> `(8 Character ID)`
   + The 8 Character ID will be the one from the [DSiWare List](dsiware-list) page
 6. Navigate to `content`
 7. Press (A) on the `.app` file in the folder
