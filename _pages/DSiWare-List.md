@@ -135,4 +135,4 @@ The size requirements are because the injected DSiWare and its hacked save must 
 
 | | Price | 8 Character ID | Region(s) | QR Code |
 |:-:|:-:|:-:|:-:|:-:|
-| - | - | - | - | - |
+| ? | ? | ? | ? | ? |
