@@ -52,10 +52,7 @@ System Transfers can only be performed once a week.
   + **The target 3DS**: the 3DS on stock firmware *between 11.0.0 and 11.2.0*
 * Purchase (or already own) a compatible DSiWare game from the eShop on **the source 3DS**
   + A pirated copy of the game will **not** work
-  + The game's `.app` must be greater than or equal to `3,457,024 bytes`
-  + The game's `public.sav` must be greater than or equal to `67,584 bytes` *(this will ensure that `public.sav` is large enough to contain a `65,536 byte` `savedata.bin` file)*
-  + The system transfer will only accept the hacked app and save if they do not change the overall size of each file
-  + For a community list of compatible games, see the [DSiWare List](dsiware-list) page
+  + For a list of compatible games, see the [DSiWare List](dsiware-list) page
 * The sudokuhax injection zip corresponding to your region
   + [`DSiWare_usa_sudokuhax_v0_injection.zip`](torrents/DSiWare_usa_sudokuhax_v0_injection.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:43a52b6c2b0536203e3415fa7c5ac9a3a2925bd9&dn=DSiWare_usa_sudokuhax_v0_injection.zip&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>
   + EUR - Coming soon
@@ -98,17 +95,6 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 10. **Backup every file on both 3DS's SD cards to two separate folders on your computer (keep track of which is which)!**
 11. Reinsert each SD card back into their corresponding 3DS
 12. Press (Start) to reboot
-13. Purchase any DSiWare game from the eShop (a pirated copy of the game will **not** work) on **the source 3DS**
-2. Go to System Settings, then "Data Management", then "DSiWare", then "Nintendo DS Profile" on **the source 3DS**
-3. Copy any DSiWare games that are already on the SD Card back to the System Memory
-4. Copy the DSiWare game you intend to use to the SD Card
-5. Power off **the source 3DS**, then put its SD card into your computer
-6. Navigate to `/Nintendo 3DS/(32 Character ID)/(32 Character ID)/Nintendo DSiWare/`
-7. Make a note of the 8 Character ID in the file name of the `.bin` file in this folder
-  + For example, if you see `4B4C4545.bin`, remember the ID `4B4C4545`
-8. Reinsert your SD card into **the source 3DS** and boot it back up
-9. Go to System Settings, then "Data Management", then "DSiWare", then "Nintendo DS Profile" on **the source 3DS**
-10. Delete the DSiWare game from the SD Card *(do not delete it from the System Memory)*
 
 ##### Section II - Injecting the game and save
 
@@ -117,7 +103,7 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 3. Press (Y) on `sudoku_v0.app` to copy it
 4. Press (B) to go back to the main menu
 5. Navigate to `SYSNAND TWNLN` -> `title` -> `00030004` -> `(8 Character ID)`
-  + The 8 Character ID will be the one you got from the `.bin` file earlier
+  + The 8 Character ID will be the one from the [DSiWare List](dsiware-list) page
 6. Navigate to `content`
 7. Press (A) on the `.app` file in the folder
 8. Select "Inject data \@offset"
@@ -125,7 +111,7 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 10. Press (A) to unlock SysNAND writing, then input the key combo given
 11. Press (B) to go back to the main menu
 12. Navigate to `SYSNAND TWNLN` -> `title` -> `00030004` -> `(8 Character ID)`
-  + The 8 Character ID will be the one you got from the `.bin` file earlier
+  + The 8 Character ID will be the one from the [DSiWare List](dsiware-list) page
 13. Navigate to `data`
 14. Press (A) on `public.sav`
 15. Select "Mount as FAT image"
