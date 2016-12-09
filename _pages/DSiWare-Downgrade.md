@@ -134,7 +134,8 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 13. Press (Y) on the file(s) in the `savedata` folder to copy them
 14. Press (B) to go back to the main menu
 15. Navigate to `FAT IMAGE`
-16. Press (Y) to paste a copy of **the contents of** the `savedata` folder
+17. Use the (X) button to delete everything inside of `FAT IMAGE`
+16. Press (Y) to paste a copy of **the contents of** the `savedata` folder to `FAT IMAGE`
 17. Select "Copy path(s)"
 18. Press (A) to unlock image writing, then input the key combo given
   + If a `savedata.bin` file already exists in the image, select "Overwrite file(s)"
