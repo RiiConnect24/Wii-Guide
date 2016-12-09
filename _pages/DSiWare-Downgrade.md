@@ -54,10 +54,12 @@ System Transfers can only be performed once a week.
   + A pirated copy of the game will **not** work
   + For a list of compatible games, see the [DSiWare List](dsiware-list) page
 * The sudokuhax injection `.zip` corresponding to your region
-  + [`DSiWare_usa_sudokuhax_v0_injection.zip`](torrents/DSiWare_usa_sudokuhax_v0_injection.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:43a52b6c2b0536203e3415fa7c5ac9a3a2925bd9&dn=DSiWare_usa_sudokuhax_v0_injection.zip&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>
-  + EUR - Coming soon
+  + [`DSiWare_usa_sudokuhax_injection.zip`](torrents/DSiWare_usa_sudokuhax_injection.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:7ed7fee15c900ed02b5e2cb3c8e7a0363f4d9354&dn=DSiWare_usa_sudokuhax_injection.zip&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce
+"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>
+  + [`DSiWare_eur_exidiahax_injection.zip`](torrents/DSiWare_eur_exidiahax_injection.torrent) - <code class="highlighterrouge"><a href="magnet:?xt=urn:btih:046bb8023bc40b9a95a8a339c85a9ef18cf60db6&dn=DSiWare_eur_exidiahax_injection.zip&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce
+"><i class="fa fa-magnet" aria-hidden="true"></i></a></code>
   + JPN - Coming soon
-* The latest commit of [GodMode9](images/GodMode9-20161207-130503.zip) *(68b81ad)*
+* The latest commit of [GodMode9](images/GodMode9-20161209-011002.zip) *(4431c46a)*
 * The latest release of [3DSident](https://github.com/joel16/3DSident/releases/latest)
 * The latest release of [dgTool](https://github.com/Plailect/dgTool/releases/latest)
 * The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
@@ -84,8 +86,8 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 
 1. Create a folder named `files9` on the root of **the source 3DS**'s SD card if it does not already exist
 2. Copy `GodMode9.bin` from the GodMode9 `.zip` to the `/luma/payloads` folder on **the source 3DS**'s' SD card and rename `GodMode9.bin` in `/luma/payloads` to `up_GodMode9.bin`
-3. Copy `sudoku_v0.app` from `DSiWare_sudokuhax_v0_injection.zip` to the root of **the source 3DS**'s SD card
-4. Copy `savedata.bin` from `DSiWare_sudokuhax_v0_injection.zip` to the root of **the source 3DS**'s SD card
+3. Copy the `.app` from DSiWare injection `.zip` to the root of **the source 3DS**'s SD card
+4. Copy `savedata` folder from DSiWare injection `.zip` to the root of **the source 3DS**'s SD card
 4. Reinsert **the source 3DS**'s SD card
 5. On **the source 3DS**, hold Start on boot to launch Hourglass9
 6. Go to SysNAND Options, then SysNAND Backup/Restore, then backup **(min size)** SysNAND to `NANDmin.bin`
@@ -100,13 +102,13 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 
 1. Open GodMode9 from arm9loaderhax by holding (Up) during boot
 2. Navigate to `SDCARD`
-3. Press (Y) on `sudoku_v0.app` to copy it
+3. Press (Y) on the DSiWare injection `.app` to copy it
 4. Press (B) to go back to the main menu
 5. Navigate to `SYSNAND TWNLN` -> `title` -> `00030004` -> `(8 Character ID)`
   + The 8 Character ID will be the one from the [DSiWare List](dsiware-list) page
 6. Navigate to `content`
 7. Press (A) on the `.app` file in the folder
-8. Select "Inject data \@offset"
+8. Select "Inject data @offset"
 9. Press (A) to select the offset `00000000`
 10. Press (A) to unlock SysNAND writing, then input the key combo given
 11. Press (B) to go back to the main menu
@@ -119,10 +121,10 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
   + If you still do not see this option, please [report this bug](https://github.com/d0k3/GodMode9/issues)
 19. This will have moved you back to the main menu
 20. Navigate to `SDCARD`
-13. Press (Y) on `savedata.bin` to copy it
+13. Press (Y) on the file(s) in the `savedata` folder to copy them
 14. Press (B) to go back to the main menu
 15. Navigate to `FAT IMAGE`
-16. Press (Y) to paste a copy of `savedata.bin`
+16. Press (Y) to paste a copy of **the contents of** the `savedata` folder
 17. Select "Copy path(s)"
 18. Press (A) to unlock image writing, then input the key combo given
   + If a `savedata.bin` file already exists in the image, select "Overwrite file(s)"

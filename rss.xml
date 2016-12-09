@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Thu, 08 Dec 2016 17:02:34 +0000</lastBuildDate>
+		<lastBuildDate>Fri, 09 Dec 2016 06:09:28 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/</link>
 		<item>
 			<title>1.0.0_qr.png</title>
@@ -317,12 +317,20 @@
 			<enclosure url="https://3ds.guide/torrents/DS Internet - v2048.torrent" length="1320192" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>DSiWare_usa_sudokuhax_v0_injection.zip</title>
-			<description>DSiWare_usa_sudokuhax_v0_injection.zip</description>
-			<guid>43A52B6C2B0536203E3415FA7C5AC9A3A2925BD9</guid>
-			<link>https://3ds.guide/torrents/DSiWare_usa_sudokuhax_v0_injection.torrent</link>
-			<pubDate>Thu, 08 Dec 2016 19:11:11 +0000</pubDate>
-			<enclosure url="https://3ds.guide/torrents/DSiWare_usa_sudokuhax_v0_injection.torrent" length="2455117" type="application/x-bittorent" />
+			<title>DSiWare_eur_exidiahax_injection.zip</title>
+			<description>DSiWare_eur_exidiahax_injection.zip</description>
+			<guid>046BB8023BC40B9A95A8A339C85A9EF18CF60DB6</guid>
+			<link>https://3ds.guide/torrents/DSiWare_eur_exidiahax_injection.torrent</link>
+			<pubDate>Fri, 09 Dec 2016 11:07:52 +0000</pubDate>
+			<enclosure url="https://3ds.guide/torrents/DSiWare_eur_exidiahax_injection.torrent" length="5834205" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>DSiWare_usa_sudokuhax_injection.zip</title>
+			<description>DSiWare_usa_sudokuhax_injection.zip</description>
+			<guid>7ED7FEE15C900ED02B5E2CB3C8E7A0363F4D9354</guid>
+			<link>https://3ds.guide/torrents/DSiWare_usa_sudokuhax_injection.torrent</link>
+			<pubDate>Fri, 09 Dec 2016 11:07:33 +0000</pubDate>
+			<enclosure url="https://3ds.guide/torrents/DSiWare_usa_sudokuhax_injection.torrent" length="2455265" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>fbi-2.4.2-injectable.zip</title>
