@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Fri, 09 Dec 2016 06:09:28 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 10 Dec 2016 21:40:42 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/</link>
 		<item>
 			<title>1.0.0_qr.png</title>
@@ -323,6 +323,14 @@
 			<link>https://3ds.guide/torrents/DSiWare_eur_exidiahax_injection.torrent</link>
 			<pubDate>Fri, 09 Dec 2016 11:07:52 +0000</pubDate>
 			<enclosure url="https://3ds.guide/torrents/DSiWare_eur_exidiahax_injection.torrent" length="5834205" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>DSiWare_jpn_4swordshax_injection.zip</title>
+			<description>DSiWare_jpn_4swordshax_injection.zip</description>
+			<guid>1BCC90C93DA91C9876671F6218084207DEF90DB9</guid>
+			<link>https://3ds.guide/torrents/DSiWare_jpn_4swordshax_injection.torrent</link>
+			<pubDate>Sun, 11 Dec 2016 02:39:28 +0000</pubDate>
+			<enclosure url="https://3ds.guide/torrents/DSiWare_jpn_4swordshax_injection.torrent" length="8664749" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>DSiWare_usa_sudokuhax_injection.zip</title>
