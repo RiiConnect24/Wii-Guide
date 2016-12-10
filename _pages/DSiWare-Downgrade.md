@@ -145,8 +145,9 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
   + If you are using the EUR files (**Legends of Exidia**), after pressing (A) or (Start) at the two title screens, select the first save slot and press continue
   + If your game has an error about `boot.nds`, **then the exploit has been successful**
   + If your game has an error about corrupted or inaccessible save data, confirm that you copied **the contents of** the `savedata` folder and not the `savedata` folder itself
-  + If your game behaves normally and does not give you this error, then you should stop and figure out what went wrong
+  + If your game behaves normally and does not give you an error about `boot.nds`, then you should stop and figure out what went wrong
   + If you get a black screen, [follow this troubleshooting guide](troubleshooting#twl_broken)
+  + If the game is missing from **the target 3DS** or has an error about corrupted or inaccessible save data, [follow this troubleshooting guide](troubleshooting#ts_dsiware)
 
 ##### Section III - steelhax
 

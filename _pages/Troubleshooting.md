@@ -116,27 +116,28 @@ This happens occasionally, but the reason is unknown. The buttons will still wor
     2. The console will reboot
         + If the console does not reboot, wait 10 seconds, then power off your 3DS by holding down the power button
 
-## <a name="ts_steelhax" />After System Transfering steelhax, it crashes to a black screen on _3DS #2_
+## <a name="ts_steelhax" />After System Transfering steelhax, it crashes to a black screen on _the target 3DS_
 
 This is because you selected the wrong version in the steelhax installer.
 
-1. Download the [otherapp payload](https://smealum.github.io/3ds/#otherapp) corresponding to **3DS #2's** version
+1. Download the [otherapp payload](https://smealum.github.io/3ds/#otherapp) corresponding to **the target 3DS's** version
     + Ignore the NFIRM being downgraded
     + Use the version displayed in settings
 2. Rename the otherapp payload to `steelhax_payload.bin`
-3. Copy it `steelhax_payload.bin` to the root of **3DS #2's** SD Card
+3. Copy it `steelhax_payload.bin` to the root of **the target 3DS's** SD Card
     + Overwrite any existing files
 4. Hold (B) while launching **Steel Diver: Sub Wars**
 
-## <a name="ts_dsiware" />After doing the DSiWare Downgrade, my hacked save is gone
+## <a name="ts_dsiware" />After doing the DSiWare Downgrade, my hacked DSiWare does not work
 
-3. Reboot **3DS #1** while holding Start to launch Hourglass9
+3. Reboot **the source 3DS** while holding Start to launch Hourglass9
 4. Go to SysNAND Backup/Restore and restore SysNAND from `NANDmin.bin` (the one made before the system transfer)
-1. If you don't have the game at all, link the NNID you bought the game with to **3DS #2** and download it on **3DS #2**
-2. On **3DS #1**, do [DSiWare Downgrade - Section II - Installing the save](dsiware-downgrade#section-ii---installing-the-save)
-3. On **3DS #1**, go to System Settings, "Data Management", "DSiWare", then copy your DSiWare game to your SD card
-4. Either put **3DS #1**'s SD card in **3DS #2**, or rename the `Nintendo 3DS` on **3DS #2**'s SD card and copy the `Nintendo 3DS` folder from **3DS #1**'s SD card to **3DS #2**'s SD card
-5. On **3DS #2**, go to System Settings, "Data Management", "DSiWare", then copy your DSiWare game to the system
+1. If you don't see the game at all on **the target 3DS**, link the NNID you bought the game with to **the target 3DS** and redownload it
+  + You may have to delete the game from "Data Management" in the "System Settings"
+2. On **the source 3DS**, do [DSiWare Downgrade - Section II - Injecting the game and save](dsiware-downgrade#section-ii---injecting-the-game-and-save)
+3. On **the source 3DS**, go to System Settings, "Data Management", "DSiWare", then copy your DSiWare game to your SD card
+4. Either put **the source 3DS**'s SD card in **the target 3DS**, or rename the `Nintendo 3DS` on **the target 3DS**'s SD card and copy the `Nintendo 3DS` folder from **the source 3DS**'s SD card to **the target 3DS**'s SD card
+5. On **the target 3DS**, go to System Settings, "Data Management", "DSiWare", then copy your DSiWare game to the system
 6. Return your SD cards to normal, then continue with the DSiWare Downgrade
 
 ## <a name="ts_d9_backup" />Decrypt9 or Hourglass9 won't restore / can't find my NAND backup
