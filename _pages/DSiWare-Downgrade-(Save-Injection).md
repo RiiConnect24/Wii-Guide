@@ -26,6 +26,7 @@ Your DSiWare's save will be backed up before getting replaced by the hacked save
   + **Guitar Rock Tour**  
   + **The Legend of Zelda: Four Swords**  
 * An entrypoint from [Homebrew Launcher (No Browser)](homebrew-launcher-(no-browser))
+* [`4B51394A.zip`](images/4B51394A.zip)
 * The latest release of [3ds_dsiwarehax_installer](https://github.com/yellows8/3ds_dsiwarehax_installer/releases/latest)
 * The latest release of [waithax](https://github.com/Mrrraou/waithax/releases/latest)
 * The latest release of [3DSident](https://github.com/joel16/3DSident/releases/latest)
@@ -46,6 +47,7 @@ Your DSiWare's save will be backed up before getting replaced by the hacked save
 
 1. Do [Homebrew Launcher (No Browser)](homebrew-launcher-(no-browser)) to get an entrypoint to the Homebrew Launcher
 4. Copy and merge the `3ds` folder from the 3ds_dsiwarehax_installer `.zip` to the root of your SD card
+4. Copy the `4B51394A` folder from `4B51394A.zip` to the `/3ds/3ds_dsiwarehax_installer/dsiware/` folder on your SD card.
 5. Copy and merge the `3ds` folder from the 3DSident `.zip` to your SD card
 5. Copy `waithax.3dsx` to the `/3ds/` folder on your SD card
 6. Copy `boot.nds` to the root of your SD card
