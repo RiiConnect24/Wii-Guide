@@ -55,7 +55,7 @@ Your DSiWare's save will be backed up before getting replaced by the hacked save
 
 ##### Section II - Backup DSiWare
 
-After completing the entire guide, you can use this backup to restore your DSiWare saves
+After completing the entire guide, you can use this backup to restore your DSiWare saves by deleting the DSiWare from your System Memory and copying it from your SD Card.
 {: .notice--info}
 
 This backup can only be used on this NAND. If you format your 3DS or restore another NAND (specifically if `movable.sed` is ever modified), it will become unusable.
