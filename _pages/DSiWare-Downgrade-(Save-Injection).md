@@ -6,9 +6,6 @@ permalink: /dsiware-downgrade-(save-injection).html
 If you are between versions 11.0.0 and 11.2.0, you must follow this guide to downgrade your NATIVE_FIRM using DSiWare
 {: .notice}
 
-**They are only useful if you already own "Fieldrunners", "Legends of Exidia", "Guitar Rock Tour", or "The Legend of Zelda: Four Swords" on the source 3DS. Each game has been pulled from the eShop; you must have already gotten them.**
-{: .notice--primary}
-
 This takes advantage of an oversight which allows DSiWare titles to read and write anywhere in NAND.
 {: .notice--info}
 
