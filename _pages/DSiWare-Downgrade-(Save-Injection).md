@@ -24,7 +24,7 @@ Your DSiWare's save will be backed up before getting replaced by the hacked save
   + **Fieldrunners**
   + **Legends of Exidia**
   + **Guitar Rock Tour**  
-  + **The Legend of Zelda: Four Swords**  
+  + **The Legend of Zelda: Four Swords (Anniversary Edition)**  
 * An entrypoint from [Homebrew Launcher (No Browser)](homebrew-launcher-(no-browser)) or (on 11.0.0 EUR / USA) [Homebrew Launcher (Browser)](homebrew-launcher-(browser))
 * [`4B51394A.zip`](images/4B51394A.zip)
 * The latest release of [3ds_dsiwarehax_installer](https://github.com/yellows8/3ds_dsiwarehax_installer/releases/latest)
@@ -89,7 +89,7 @@ This backup can only be used on this NAND. If you format your 3DS or restore ano
   + **Fieldrunners**: Touch the 'Scores' button at the main menu
   + **Legends of Exidia**: After pressing (A) or (Start) at the two title screens, select the first save slot and press continue
   + **Guitar Rock Tour**: Scroll down and go to High-Scores -> Drums -> Easy
-  + **The Legend of Zelda: Four Swords**: Just start the game
+  + **The Legend of Zelda: Four Swords (Anniversary Edition)**: Just start the game
   + If your game does not have the hacked save file installed, restart from the beginning
 5. Select "Dump nand" to backup your NAND
   + This will take a while
@@ -112,7 +112,7 @@ This backup can only be used on this NAND. If you format your 3DS or restore ano
   + **Fieldrunners**: Touch the 'Scores' button at the main menu
   + **Legends of Exidia**: After pressing (A) or (Start) at the two title screens, select the first save slot and press continue
   + **Guitar Rock Tour**: Scroll down and go to High-Scores -> Drums -> Easy
-  + **The Legend of Zelda: Four Swords**: Just start the game
+  + **The Legend of Zelda: Four Swords (Anniversary Edition)**: Just start the game
 3. Select "Downgrade FIRM to 10.4" and confirm to flash the 10.4.0 NFIRM bin
 4. Exit dgTool
   + You may have to force power off by holding the power button

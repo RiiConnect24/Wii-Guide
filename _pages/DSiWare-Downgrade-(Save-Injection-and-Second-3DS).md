@@ -3,7 +3,7 @@ title: "DSiWare Downgrade (Save Injection and Second 3DS)"
 permalink: /dsiware-downgrade-(save-injection-and-second-3ds).html
 ---
 
-**They are only useful if you already own "Fieldrunners", "Legends of Exidia", "Guitar Rock Tour", or "The Legend of Zelda: Four Swords" on the source 3DS. Each game has been pulled from the eShop; you must have already gotten them.**
+**They are only useful if you already own "Fieldrunners", "Legends of Exidia", "Guitar Rock Tour", or "The Legend of Zelda: Four Swords (Anniversary Edition)" on the source 3DS. Each game has been pulled from the eShop; you must have already gotten them.**
 {: .notice--primary}
 
 If you are between versions 11.0.0 and 11.2.0, you must follow this guide to downgrade your NATIVE_FIRM using DSiWare and a second 3DS which has already has a Custom Firmware installed on it in order to dump and restore your NAND.
@@ -57,7 +57,7 @@ System Transfers can only be performed once a week.
   + **Fieldrunners**
   + **Legends of Exidia**
   + **Guitar Rock Tour**  
-  + **The Legend of Zelda: Four Swords**  
+  + **The Legend of Zelda: Four Swords (Anniversary Edition)**  
 * [`4B51394A.zip`](images/4B51394A.zip)
 * The latest release of [3ds_dsiwarehax_installer](https://github.com/yellows8/3ds_dsiwarehax_installer/releases)
 * The latest release of [3DSident](https://github.com/joel16/3DSident/releases/latest)
@@ -91,9 +91,9 @@ System Transfers can only be performed once a week.
   + **Legends of Exidia JPN Region**: `4b4c454a`
   + **Guitar Rock Tour EUR Region**: `4b475256`
   + **Guitar Rock Tour USA Region**: `4b475245`
-  + **The Legend of Zelda: Four Swords EUR Region**: `4b513956`   
-  + **The Legend of Zelda: Four Swords USA Region**: `4b513945`    
-  + If you are using **The Legend of Zelda: Four Swords JPN Region**, copy `public.sav` from the `4B51394A` folder in `4B51394A.zip` to the root of your SD card.
+  + **The Legend of Zelda: Four Swords (Anniversary Edition) EUR Region**: `4b513956`   
+  + **The Legend of Zelda: Four Swords (Anniversary Edition) USA Region**: `4b513945`    
+  + If you are using **The Legend of Zelda: Four Swords (Anniversary Edition) JPN Region**, copy `public.sav` from the `4B51394A` folder in `4B51394A.zip` to the root of your SD card.
 4. Reinsert **the source 3DS**'s SD card
 5. On **the source 3DS**, hold (Start) on boot to launch Hourglass9
 6. Go to SysNAND Options, then SysNAND Backup/Restore, then backup **(min size)** SysNAND to `NANDmin.bin`
@@ -134,8 +134,8 @@ This backup can only be used on this NAND. If you format your 3DS or restore ano
   + **Legends of Exidia JPN Region**: `4b4c454a`
   + **Guitar Rock Tour EUR Region**: `4b475256`
   + **Guitar Rock Tour USA Region**: `4b475245`    
-  + **The Legend of Zelda: Four Swords EUR Region**: `4b513956`   
-  + **The Legend of Zelda: Four Swords USA Region**: `4b513945`    
+  + **The Legend of Zelda: Four Swords (Anniversary Edition) EUR Region**: `4b513956`   
+  + **The Legend of Zelda: Four Swords (Anniversary Edition) USA Region**: `4b513945`    
 9. Navigate to the `data` folder
 8. Press (A) on the existing `public.sav` and delete it
 9. Press (A) on the current directory and paste `public.sav`
@@ -146,7 +146,7 @@ This backup can only be used on this NAND. If you format your 3DS or restore ano
   + **Fieldrunners**: Touch the 'Scores' button at the main menu
   + **Legends of Exidia**: After pressing (A) or (Start) at the two title screens, select the first save slot and press continue
   + **Guitar Rock Tour**: Scroll down and go to High-Scores -> Drums -> Easy    
-  + **The Legend of Zelda: Four Swords**: Just start the game
+  + **The Legend of Zelda: Four Swords (Anniversary Edition)**: Just start the game
   + If your game has an error about `boot.nds` or a white screen, **then the exploit has been successful**
   + If your game behaves normally and does not give you this error, then you should stop and figure out what went wrong
   + If you get a black screen, [follow this troubleshooting guide](troubleshooting#twl_broken)
@@ -249,7 +249,7 @@ This backup can only be used on this NAND. If you format your 3DS or restore ano
   + **Fieldrunners**: Touch the 'Scores' button at the main menu
   + **Legends of Exidia**: After pressing (A) or (Start) at the two title screens, select the first save slot and press continue
   + **Guitar Rock Tour**: Scroll down and go to High-Scores -> Drums -> Easy
-  + **The Legend of Zelda: Four Swords**: Just start the game
+  + **The Legend of Zelda: Four Swords (Anniversary Edition)**: Just start the game
   + If your game does not have the hacked save file installed, [follow this troubleshooting guide](troubleshooting#ts_dsiware)
 5. Select "Dump nand" to backup **the target 3DS**'s NAND
   + This will take a while
@@ -270,7 +270,7 @@ This backup can only be used on this NAND. If you format your 3DS or restore ano
   + **Fieldrunners**: Touch the 'Scores' button at the main menu
   + **Legends of Exidia**: After pressing (A) or (Start) at the two title screens, select the first save slot and press continue
   + **Guitar Rock Tour**: Scroll down and go to High-Scores -> Drums -> Easy
-  + **The Legend of Zelda: Four Swords**: Just start the game
+  + **The Legend of Zelda: Four Swords (Anniversary Edition)**: Just start the game
 3. Select "Downgrade FIRM to 10.4" and confirm to flash the 10.4.0 NFIRM bin to **the target 3DS**
 4. Exit dgTool
   + You may have to force power off by holding the power button
