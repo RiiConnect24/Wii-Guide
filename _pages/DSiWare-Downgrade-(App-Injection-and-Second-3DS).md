@@ -24,6 +24,9 @@ You can skip everything related to **Steel Diver: Sub Wars** and steelhax if you
 Your DSiWare's save will be backed up before getting replaced by the hacked save.
 {: .notice--info}
 
+For whatever reason, the soft brick described in [9.2.0 Downgrade](9.2.0-downgrade) is only common with users that use the [slowhax method](dsiware-downgrade-(save-injection)) of DSiWare Downgrade. As such, users of this page are not instructed to format their device.
+{: .notice--info}
+
 {% capture notice-4 %}
 This exploit requires you to [System Transfer](http://en-americas-support.nintendo.com/app/answers/detail/a_id/13996/) from a CFW 3DS to a stock 3DS as part of the steps. System Transfers will work in the following directions *only*:    
   + New 3DS -> New 3DS    
@@ -45,7 +48,7 @@ System Transfers can only be performed once a week.
 #### What you need
 
 * Two 3DS systems
-  + **The source 3DS**: the 3DS running some kind of custom firmware (arm9loaderhax or some form of EmuNAND/EmuNAND) *on the latest version*
+  + **The source 3DS**: the 3DS running some kind of custom firmware (arm9loaderhax or some form of EmuNAND/RedNAND) *on the latest version*
   + **The target 3DS**: the 3DS on stock firmware *between 11.0.0 and 11.2.0*
 * Purchase (or already own) a compatible DSiWare game from the eShop on **the source 3DS**
   + A pirated copy of the game will **not** work
@@ -56,6 +59,7 @@ System Transfers can only be performed once a week.
   + [`DSiWare_jpn_4swordshax_injection.zip`](magnet:?xt=urn:btih:1bcc90c93da91c9876671f6218084207def90db9&dn=DSiWare_jpn_4swordshax_injection.zip&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)
 * The latest commit of [GodMode9](images/GodMode9-20161209-011002.zip) *(4431c46a)*
 * The latest release of [3DSident](https://github.com/joel16/3DSident/releases/latest)
+* The latest release of [TinyFormat](https://github.com/javimadgit/TinyFormat/releases)
 * The latest release of [dgTool](https://github.com/Plailect/dgTool/releases/latest)
 * The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
 * The NFIRM `.zip` corresponding to the device and version of **the target 3DS**
@@ -87,7 +91,10 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 5. On **the source 3DS**, hold Start on boot to launch Hourglass9
 6. Go to SysNAND Options, then SysNAND Backup/Restore, then backup **(min size)** SysNAND to `NANDmin.bin`
 7. Press (Select) on the main menu to eject **the source 3DS**'s SD card, then put it in your computer
-8. Copy `NANDmin.bin` and `NANDmin.bin.sha` from the `/files9/` folder on your SD card to a safe location; make backups in multiple locations; this backup will save you from a brick if anything goes wrong in the future **(Your backup should match one of the sizes on [this](nand-size) page; if it does not, you should delete it and make a new one!)**
+8. Copy `NANDmin.bin` and `NANDmin.bin.sha` from the `/files9/` folder on your SD card to a safe location
+  + Make backups in multiple locations
+  + This backup will save you from a brick if anything goes wrong in the future
+  + **Your backup should match one of the sizes on [this](nand-size) page; if it does not, you should delete it and make a new one!**
 9. Put **the target 3DS**'s SD card into your computer
 10. **Backup every file on both 3DS's SD cards to two separate folders on your computer (keep track of which is which)!**
 11. Reinsert each SD card back into their corresponding 3DS
@@ -244,11 +251,15 @@ This backup can only be used on this NAND. If you format your 3DS or restore ano
 3. Launch your DSiWare game on **the target 3DS**
 4. Launch dgTool by starting your DSiWare game
   + If the game does not launch dgTool, [follow this troubleshooting guide](troubleshooting#ts_dsiware)
-5. Select "Dump f0f1" to backup **the target 3DS**'s NFIRM
-6. Make note of the NFIRM backup's location
+5. Select "Dump nand" to backup **the target 3DS**'s NAND
+  + This will take a while
+6. Make note of the NAND backup's location
 7. Exit dgTool
   + You may have to force power off by holding the power button
-8. Put your SD card in your computer, then copy `F0F1_N3DS.bin` or `F0F1_O3DS.bin` (depending on your device) to a safe location; make backups in multiple locations; this backup will save you from a brick if anything goes wrong
+8. Put your SD card in your computer, then copy `NAND_N3DS.bin` or `NAND_O3DS.bin` (depending on your device) to a safe location
+  + Make backups in multiple locations
+  + This backup will save you from a brick if anything goes wrong in the future
+  + **Your backup should match one of the sizes on [this](nand-size) page; if it does not, you should delete it and make a new one!**
 
 ##### Section IX - Flashing the target 3DS's NFIRM
 
@@ -265,15 +276,12 @@ This backup can only be used on this NAND. If you format your 3DS or restore ano
 
 1. Copy and merge the `3ds` folder from the 3DSident `.zip` to **the target 3DS**'s SD card
 2. Reinsert your SD card into **the target 3DS**
-3. Launch the homebrew launcher on **the target 3DS** using [Homebrew Launcher (No Browser)](homebrew-launcher-(no-browser))
+3. Launch the homebrew launcher on **the target 3DS** using your entrypoint
 4. Launch 3DSident
 5. Verify that the following:
   + **Kernel version**: 2.50-11
   + **FIRM version**: 2.50-11
   + If either of these do not display the versions above, something has gone wrong and you should try again from the beginning
-
-Continue to [Homebrew Launcher (No Browser)](homebrew-launcher-(no-browser)), using steelhax for your entrypoint instead of one of the ones listed.
-{: .notice--primary}
 
 You can use another entrypoint if you want to; steelhax is recommended because it is free.
 {: .notice--info}
@@ -283,3 +291,6 @@ You can use another entrypoint if you want to; steelhax is recommended because i
 
 If, once transferred, steelhax only crashes to a black screen on **the target 3DS**, [follow this troubleshooting guide](troubleshooting#ts_steelhax).
 {: .notice--warning}
+
+Continue to [9.2.0 Downgrade](9.2.0-downgrade)
+{: .notice--primary}

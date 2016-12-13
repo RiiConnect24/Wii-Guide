@@ -65,7 +65,10 @@ Region changing using ctrtransfer (which this method uses) seems to cause reboot
 8. **Backup SysNAND to `NANDmin.bin` when prompted by pressing (A)**
 9. Allow the transfer process to proceed automatically, this may take some time
 10. Once the transfer is complete, press Select to eject your SD card
-11. Put your SD card in your computer, then copy `NANDmin.bin` and `NANDmin.bin.sha` from the `/files9/` folder on your SD card to a safe location; make backups in multiple locations; this backup will save you from a brick if anything goes wrong in the future **(Your backup should match one of the sizes on [this](nand-size) page; if it does not, you should delete it and make a new one!)**
+11. Put your SD card in your computer, then copy `NANDmin.bin` and `NANDmin.bin.sha` from the `/files9/` folder on your SD card to a safe location
+  + Make backups in multiple locations
+  + This backup will save you from a brick if anything goes wrong in the future
+  + **Your backup should match one of the sizes on [this](nand-size) page; if it does not, you should delete it and make a new one!**
 12. Delete the 9.2.0 ctrtransfer image `.bin` and `.bin.sha` from the `/files9/` folder on your SD card after copying it
 13. Reinsert your SD card into your 3DS
 

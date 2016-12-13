@@ -31,6 +31,7 @@ Your DSiWare's save will be backed up before getting replaced by the hacked save
 * The latest release of [waithax](https://github.com/Mrrraou/waithax/releases/latest)
 * The latest release of [3DSident](https://github.com/joel16/3DSident/releases/latest)
 * The latest release of [dgTool](https://github.com/Plailect/dgTool/releases/latest)
+* The latest release of [TinyFormat](https://github.com/javimadgit/TinyFormat/releases)
 * The latest release of [the Homebrew Launcher](https://smealum.github.io/ninjhax2/boot.3dsx)
 * The NFIRM `.zip` corresponding to the device and version of **the target 3DS**:
   + [New 3DS 11.0.0 to 10.4.0](magnet:?xt=urn:btih:2d13a5ea1570f911bd5c6423e0c30e51d548837a&dn=11.0.0%5Fto%5F10.4.0%5Fn3ds.zip&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce)
@@ -43,7 +44,6 @@ Your DSiWare's save will be backed up before getting replaced by the hacked save
 
 ##### Section I - Prep Work
 
-1. Do [Homebrew Launcher (No Browser)](homebrew-launcher-(no-browser)) to get an entrypoint to the Homebrew Launcher
 4. Copy and merge the `3ds` folder from the 3ds_dsiwarehax_installer `.zip` to the root of your SD card
 4. Copy the `4B51394A` folder from `4B51394A.zip` to the `/3ds/3ds_dsiwarehax_installer/dsiware/` folder on your SD card.
 5. Copy and merge the `3ds` folder from the 3DSident `.zip` to your SD card
@@ -51,6 +51,7 @@ Your DSiWare's save will be backed up before getting replaced by the hacked save
 6. Copy `boot.nds` to the root of your SD card
 7. Copy `boot.3dsx` to the root of your SD card, replace existing files
   + This will ensure that the Homebrew Launcher is up to date; older versions will freeze when your try to launch 3ds_dsiwarehax_installer
+4. Copy and merge the `3ds` folder from the TinyFormat `.zip` to the root of your SD card
 1. Create a folder named `dgTool` on the root of your SD card if it does not already exist
 3. Copy the contents of the NFIRM `.zip` to the `dgTool` folder on the root of your SD card
 4. Reinsert your SD card into your 3DS
@@ -81,7 +82,7 @@ This backup can only be used on this NAND. If you format your 3DS or restore ano
 8. Press (Start) to open the homebrew launcher exit menu
 9. Press (A) to exit
 
-##### Section IV - Backing up NFIRM
+##### Section IV - Backing up NAND
 
 3. Launch your DSiWare game
 4. Launch dgTool using your DSiWare game
@@ -90,11 +91,16 @@ This backup can only be used on this NAND. If you format your 3DS or restore ano
   + **Guitar Rock Tour**: Scroll down and go to High-Scores -> Drums -> Easy
   + **The Legend of Zelda: Four Swords**: Just start the game
   + If your game does not have the hacked save file installed, restart from the beginning
-5. Select "Dump f0f1" to backup your NFIRM
-6. Make note of the NFIRM backup's location
+5. Select "Dump nand" to backup your NAND
+  + This will take a while
+6. Make note of the NAND backup's location
 7. Exit dgTool
   + You may have to force power off by holding the power button
-8. Put your SD card in your computer, then copy `F0F1_N3DS.bin` or `F0F1_O3DS.bin` (depending on your device) to a safe location; make backups in multiple locations; this backup will save you from a brick if anything goes wrong
+8. Put your SD card in your computer, then copy `NAND_N3DS.bin` or `NAND_O3DS.bin` (depending on your device) to a safe location
+  + Make backups in multiple locations
+  + This backup will save you from a brick if anything goes wrong in the future
+  + You will format your device as part of the steps on this page in order to prevent the soft brick described on [9.2.0 Downgrade](9.2.0-downgrade); this backup will be used to restore your device once you get to the [Installing arm9loaderhax](installing-arm9loaderhax)
+  + **Your backup should match one of the sizes on [this](nand-size) page; if it does not, you should delete it and make a new one!**
 
 ##### Section V - Flashing NFIRM
 
@@ -121,6 +127,19 @@ This backup can only be used on this NAND. If you format your 3DS or restore ano
   + **Kernel version**: 2.50-11
   + **FIRM version**: 2.50-11
   + If either of these do not display the versions above, make sure you used the correct NFIRM zip and try flashing NFIRM again
+5. Press any button to exit back to the Homebrew Launcher
+
+##### Section VI - Formatting device
+
+This will prevent the soft brick described in [9.2.0 Downgrade](9.2.0-downgrade). The backup you made earlier will be used to restore your device once you get to the [Installing arm9loaderhax](installing-arm9loaderhax).
+{: .notice--info}
+
+You will not lose any data as long as you have that backup and restore it once you get to the [Installing arm9loaderhax](installing-arm9loaderhax).
+{: .notice--info}
+
+1. From the Homebrew Launcher, launch TinyFormat
+2. Press (Y) to format the device
+3. Do the initial setup of your device
 
 Your version number will *not* have changed in the settings.
 {: .notice--info}

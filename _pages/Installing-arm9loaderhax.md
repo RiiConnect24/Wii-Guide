@@ -126,6 +126,9 @@ During this process, we also setup programs such as the following:
 If, before following this guide, you already had an EmuNAND setup and would like to move the contents of your previous EmuNAND to your new SysNAND CFW, now is the time to [follow Move EmuNAND](move-emunand) instead of doing the first step in this section.
 {: .notice--info}
 
+If you backed up your NAND as part of the [waithax DSiWare Downgrade](dsiware-downgrade-(save-injection)) or [Hardmod Downgrade](hardmod-downgrade), restore that NAND backup instead of `NANDmin.bin`. It will be named `NAND_N3DS.bin`, `NAND_O3DS.bin`, or `backup_nand.bin`, depending on the steps you did.
+{: .notice--info}
+
 1. If you have done [2.1.0 ctrtransfer](2.1.0-ctrtransfer), restore `NANDmin.bin`:
   + Open Hourglass9 from arm9loaderhax by holding (Start) on boot
   + Go to "SysNAND Backup/Restore"
@@ -190,6 +193,9 @@ This section is only needed for devices that did a ctrtransfer earlier and had t
 {: .notice--info}
 
 If you followed [Move EmuNAND](move-emunand), skip this section.
+{: .notice--info}
+
+If you backed up your NAND as part of a DSiWare or Hardmod downgrade, skip this section.
 {: .notice--info}
 
 If you have no tickets to restore, skip this section.
