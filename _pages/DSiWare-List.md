@@ -41,9 +41,11 @@ The size requirements are because the injected DSiWare and its hacked save must 
       + Uses exidiahax (temporarily)
       + `.app` size of >= 9,628,672 bytes
       + `public.sav` size of >= 113,908 bytes
+      + `public.sav` size of <= 131,072 bytes
+      + If `public.sav` is not less than or equal to 128KB, exidia will not load the save
 
     + JPN DSiWare
-      + Uses 4swordshax
+      + Uses 4swordshax (temporarily)
       + `.app` size of >= 14,131,200 bytes
       + `public.sav` size of == 16,384 bytes
       + If `public.sav` is not exactly 16KB, 4swords will delete it
@@ -117,31 +119,14 @@ The size requirements are because the injected DSiWare and its hacked save must 
 
 | | Price | 8 Character ID | Region(s) | QR Code |
 |:-:|:-:|:-:|:-:|:-:|
-| Jagged Alliance | 4,99€ | 4B4A4750 | EUR | ![qrcode](images/qrcodes/000480044B4A4750.png)
-| Let's Create! Pottery | 4,99€ | 4B4C4A56 | EUR | ![qrcode](images/qrcodes/000480044B4C4A56.png)
-| 1001 Crystal Mazes Collection | 4,99€ | 4B4F4B50 | EUR | ![qrcode](images/qrcodes/000480044B4F4B50.png)
-| 101 Dolphin Pets | 4,99€ | 4B345A50 | EUR | ![qrcode](images/qrcodes/000480044B345A50.png)
-| Model Academy | 4,99€ | 4B384D50 | EUR | ![qrcode](images/qrcodes/000480044B384D50.png)
-| Soul of Darkness | 4,99€ | 4B534B56 | EUR | ![qrcode](images/qrcodes/000480044B534B56.png)
-| Super Swap! | 4,99€ | 4B345750 | EUR | ![qrcode](images/qrcodes/000480044B345750.png)
-| 101 Shark Pets | 4,99€ | 4B345950 | EUR | ![qrcode](images/qrcodes/000480044B345950.png)
-| 101 Pinball World | 4,99€ | 4B494950 | EUR | ![qrcode](images/qrcodes/000480044B494950.png)
-| 101 MiniGolf World | 4,99€ | 4B584950 | EUR | ![qrcode](images/qrcodes/000480044B584950.png)
-| Face Pilot™: Fly With Your Nintendo DSi Camera! | 4,99€ | 4B594256 | EUR | ![qrcode](images/qrcodes/000480044B594256.png)
-| Me And My Dogs: Friends Forever | 7,99€ | 4B4D3856 | EUR | ![qrcode](images/qrcodes/000480044B4D3856.png)
-| Miami Nights: Life in the Spotlight | 7,99€ | 4B4D4556 | EUR | ![qrcode](images/qrcodes/000480044B4D4556.png)
-| A Little Bit of... Dr Kawashima’s Brain Training™ Arts Edition | 7,99€ | 4B4E4456 | EUR | ![qrcode](images/qrcodes/000480044B4E4456.png)
-| A Little Bit of...Dr Kawashima’s Brain Training™: Maths Edition | 7,99€ | 4B4E5256 | EUR | ![qrcode](images/qrcodes/000480044B4E5256.png)
-| Zoo Frenzy | 7,99€ | 4B5A4656 | EUR | ![qrcode](images/qrcodes/000480044B5A4656.png)
-| Mario vs. Donkey Kong™: Minis March Again! | 7,99€ | 4B444D56 | EUR | ![qrcode](images/qrcodes/000480044B444D56.png)
-| Rytmik | 7,99€ | 4B524B56 | EUR | ![qrcode](images/qrcodes/000480044B524B56.png)
-| RAYMAN® | 7,99€ | 4B524D56 | EUR | ![qrcode](images/qrcodes/000480044B524D56.png)
-| Foto Face™: The Face Stealer Strikes | 7,99€ | 4B345456 | EUR | ![qrcode](images/qrcodes/000480044B345456.png)
-| Art Academy™ Second Semester | 7,99€ | 4B413256 | EUR | ![qrcode](images/qrcodes/000480044B413256.png)
-| Art Academy™ First Semester | 7,99€ | 4B414956 | EUR | ![qrcode](images/qrcodes/000480044B414956.png)
-| Rytmik Rock Edition | 7,99€ | 4B525156 | EUR | ![qrcode](images/qrcodes/000480044B525156.png)
-| Hip Hop King Rytmik Edition | 7,99€ | 4B525656 | EUR | ![qrcode](images/qrcodes/000480044B525656.png)
-| Rytmik Retrobits | 7,99€ | 4B595256 | EUR | ![qrcode](images/qrcodes/000480044B595256.png)
+| Jagged Alliance | 4,99 € | 4B4A4750 | EUR | ![qrcode](images/qrcodes/000480044B4A4750.png)
+| 1001 Crystal Mazes Collection | 4,99 € | 4B4F4B50 | EUR | ![qrcode](images/qrcodes/000480044B4F4B50.png)
+| 101 Dolphin Pets | 4,99 € | 4B345A50 | EUR | ![qrcode](images/qrcodes/000480044B345A50.png)
+| Soul of Darkness | 4,99 € | 4B534B56 | EUR | ![qrcode](images/qrcodes/000480044B534B56.png)
+| Super Swap! | 4,99 € | 4B345750 | EUR | ![qrcode](images/qrcodes/000480044B345750.png)
+| 101 Shark Pets | 4,99 € | 4B345950 | EUR | ![qrcode](images/qrcodes/000480044B345950.png)
+| 101 Pinball World | 4,99 € | 4B494950 | EUR | ![qrcode](images/qrcodes/000480044B494950.png)
+| 101 MiniGolf World | 4,99 € | 4B584950 | EUR | ![qrcode](images/qrcodes/000480044B584950.png)
 
 | | Price | 8 Character ID | Region(s) | QR Code |
 |:-:|:-:|:-:|:-:|:-:|
