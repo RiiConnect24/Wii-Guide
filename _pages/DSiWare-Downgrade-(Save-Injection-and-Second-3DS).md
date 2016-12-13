@@ -55,6 +55,7 @@ System Transfers can only be performed once a week.
   + **Legends of Exidia**
   + **Guitar Rock Tour**  
   + **The Legend of Zelda: Four Swords**  
+* [`4B51394A.zip`](images/4B51394A.zip)
 * The latest release of [3ds_dsiwarehax_installer](https://github.com/yellows8/3ds_dsiwarehax_installer/releases)
 * The latest release of [3DSident](https://github.com/joel16/3DSident/releases/latest)
 * The latest release of [FBI](https://github.com/Steveice10/FBI/releases/latest)
@@ -89,6 +90,7 @@ System Transfers can only be performed once a week.
   + **Guitar Rock Tour USA Region**: `4b475245`
   + **The Legend of Zelda: Four Swords EUR Region**: `4b513956`   
   + **The Legend of Zelda: Four Swords USA Region**: `4b513945`    
+  + If you are using **The Legend of Zelda: Four Swords JPN Region**, copy `public.sav` from the `4B51394A` folder in `4B51394A.zip` to the root of your SD card.
 4. Reinsert **the source 3DS**'s SD card
 5. On **the source 3DS**, hold (Start) on boot to launch Hourglass9
 6. Go to SysNAND Options, then SysNAND Backup/Restore, then backup **(min size)** SysNAND to `NANDmin.bin`
@@ -107,17 +109,12 @@ After completing the entire guide, you can use this backup to restore your DSiWa
 This backup can only be used on this NAND. If you format your 3DS or restore another NAND (specifically if `movable.sed` is ever modified), it will become unusable.
 {: .notice--info}
 
-1. Go to System Settings, then "Data Management", then "DSiWare", then "Nintendo DS Profile" on **the source 3DS**
-2. Copy any DSiWare games that are already on the SD Card back to the System Memory
+1. Go to System Settings, then "Data Management", then "DSiWare"
 3. Copy the DSiWare game you intend to use to the SD Card
 4. Exit System Settings
 
 ##### Section III - Installing the save
 
-1. Purchase one of the following exploitable DSiWare games (a pirated copy of the game will **not** work)
-  + **Fieldrunners**: Works for **USA + EUR**
-  + **Legends of Exidia**: Works for **USA + EUR**
-  + **Guitar Rock Tour**: You must have already purchased this for **EUR**
 2. Launch FBI on **the source 3DS**
 3. Navigate to `SD`
 4. Press (A) on `public.sav` and copy it
