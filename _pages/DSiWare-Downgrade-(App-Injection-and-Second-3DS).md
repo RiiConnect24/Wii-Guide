@@ -1,26 +1,10 @@
 ---
-title: "DSiWare Downgrade"
-permalink: /dsiware-downgrade.html
+title: "DSiWare Downgrade (App Injection and Second 3DS)"
+permalink: /dsiware-downgrade-(app-injection-and-second-3ds).html
 ---
 
-**If you are on 11.0.0 or 11.1.0, do NOT update to 11.2.0. A new update will be coming soon that allows for DSiWare NFIRM Downgrading _without_ a second 3DS or hardmod for versions under 11.2.0.**
-{: .notice--primary}
-
-
-{: .notice--success}
-
-{% capture notice-old %}
-If you already own one of the following games on **the source 3DS**, check out [the old version of this page](dsiware-downgrade-(old)):    
-  + **Fieldrunners**    
-  + **Legends of Exidia**    
-  + **Guitar Rock Tour**    
-  + **The Legend of Zelda: Four Swords**
-{% endcapture %}
-
-<div class="notice">{{ notice-old | markdownify }}</div>
-
 If you are between versions 11.0.0 and 11.2.0, you must follow this guide to downgrade your NATIVE_FIRM using DSiWare and a second 3DS which has already has a Custom Firmware installed on it in order to dump and restore your NAND.
-{: .notice}   
+{: .notice}
 
 If you are below 11.2.0 on either device, then you should do the ctr-httpwn steps (when prompted) on each device under 11.2.0 to allow you to System Transfer with them.
 {: .notice--info}
@@ -35,6 +19,9 @@ This guide will assume the CFW 3DS is running arm9loaderhax and was setup with t
 {: .notice--info}
 
 You can skip everything related to **Steel Diver: Sub Wars** and steelhax if you already have a working primary entrypoint (e.g: OOT3dHax, FreakyHax) for **the target 3DS**, and use that instead.
+{: .notice--info}
+
+Your DSiWare's save will be backed up before getting replaced by the hacked save.
 {: .notice--info}
 
 {% capture notice-4 %}
@@ -106,7 +93,20 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 11. Reinsert each SD card back into their corresponding 3DS
 12. Press (Start) to reboot
 
-##### Section II - Injecting the game and save
+##### Section II - Backup DSiWare
+
+After completing the entire guide, you can use this backup to restore your DSiWare saves
+{: .notice--info}
+
+This backup can only be used on this NAND. If you format your 3DS or restore another NAND (specifically if `movable.sed` is ever modified), it will become unusable.
+{: .notice--info}
+
+1. Go to System Settings, then "Data Management", then "DSiWare", then "Nintendo DS Profile" on **the source 3DS**
+2. Copy any DSiWare games that are already on the SD Card back to the System Memory
+3. Copy the DSiWare game you intend to use to the SD Card
+4. Exit System Settings
+
+##### Section III - Injecting the game and save
 
 1. Open GodMode9 from arm9loaderhax by holding (Up) during boot
 2. Navigate to `SDCARD`
@@ -147,7 +147,7 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
   + If you get a black screen, [follow this troubleshooting guide](troubleshooting#twl_broken)
   + If the game is missing from **the target 3DS** or has an error about corrupted or inaccessible save data, [follow this troubleshooting guide](troubleshooting#ts_dsiware)
 
-##### Section III - steelhax
+##### Section IV - steelhax
 
 **This will allow you to enter the homebrew launcher after the System Transfer.**
 
@@ -186,7 +186,7 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
   + Even though you will be downgrading its NFIRM, you should still select the system version it is on now
 12. Copy _the contents of_ the `starter.zip` to the root of **the target 3DS**'s SD card, then put the SD card back into **the target 3DS**
 
-##### Section IV - ctr-httpwn
+##### Section V - ctr-httpwn
 
 **This section is only required if _the target 3DS_ is under 11.2.0.**
 
@@ -208,7 +208,7 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
   + Keep in mind that exiting the System Settings will reboot the system
   + If the system is rebooted, you'll have to re-run ctr-httpwn before System Transfer will work
 
-##### Section V - System Transfer
+##### Section VI - System Transfer
 
 1. **Backup every file on both 3DS's SD cards to two separate folders on your computer (keep track of which is which)!**
 2. Reinsert each SD card back into their corresponding 3DS
@@ -226,7 +226,7 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
     + Slowest Method: If you don't have the ability to move the data on a PC use the **full** "Wireless Transfer" option (option 1).
 6. Go to [this link](http://en-americas-support.nintendo.com/app/answers/detail/a_id/227/) and follow Nintendo's official instructions for System Transferring from one system to another while keeping in mind what you just read
 
-##### Section VI - Restoring the source 3DS
+##### Section VII - Restoring the source 3DS
 
 1. On **the source 3DS**, complete initial setup
 2. Do one of the following
@@ -236,7 +236,7 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 3. Reboot **the source 3DS** while holding Start to launch Hourglass9
 4. Go to SysNAND Backup/Restore and restore SysNAND from `NANDmin.bin`
 
-##### Section VII - Backing up the target 3DS's NFIRM
+##### Section VIII - Backing up the target 3DS's NFIRM
 
 1. Copy `boot.nds` to the root of **the target 3DS**'s SD card
 1. Create a folder named `dgTool` on the root of **the target 3DS**'s SD card if it does not already exist
@@ -250,9 +250,9 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
   + You may have to force power off by holding the power button
 8. Put your SD card in your computer, then copy `F0F1_N3DS.bin` or `F0F1_O3DS.bin` (depending on your device) to a safe location; make backups in multiple locations; this backup will save you from a brick if anything goes wrong
 
-##### Section VIII - Flashing the target 3DS's NFIRM
+##### Section IX - Flashing the target 3DS's NFIRM
 
-**Do NOT downgrade with dgTool on a device that already has arm9loaderhax installed or you will BRICK!**
+**Never downgrade with dgTool on a device that already has arm9loaderhax installed or you will BRICK!**
 
 1. Launch your DSiWare game on **the target 3DS**
 4. Launch dgTool by starting your DSiWare game
@@ -261,7 +261,7 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
   + You may have to force power off by holding the power button
 5. Reboot
 
-##### Section IX - Exploit verification
+##### Section X - Exploit verification
 
 1. Copy and merge the `3ds` folder from the 3DSident `.zip` to **the target 3DS**'s SD card
 2. Reinsert your SD card into **the target 3DS**
@@ -275,10 +275,10 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 Continue to [Homebrew Launcher (No Browser)](homebrew-launcher-(no-browser)), using steelhax for your entrypoint instead of one of the ones listed.
 {: .notice--primary}
 
-You can use another entrypoint if you want to, I just recommend steelhax because it is free.
+You can use another entrypoint if you want to; steelhax is recommended because it is free.
 {: .notice--info}
 
-**the target 3DS**'s version number will *not* have changed in the settings.
+**The target 3DS**'s version number will *not* have changed in the settings.
 {: .notice--info}
 
 If, once transferred, steelhax only crashes to a black screen on **the target 3DS**, [follow this troubleshooting guide](troubleshooting#ts_steelhax).

@@ -1,13 +1,13 @@
 ---
-title: "DSiWare Downgrade (Old)"
-permalink: /dsiware-downgrade-(old).html
+title: "DSiWare Downgrade (Save Injection and Second 3DS)"
+permalink: /dsiware-downgrade-(save-injection-and-second-3ds).html
 ---
 
-**This is the old version of the DSiWare Downgrade instructions. They are only useful if you already own "Fieldrunners", "Legends of Exidia", "Guitar Rock Tour", or "The Legend of Zelda: Four Swords" on the source 3DS**
+**They are only useful if you already own "Fieldrunners", "Legends of Exidia", "Guitar Rock Tour", or "The Legend of Zelda: Four Swords" on the source 3DS. Each game has been pulled from the eShop; you must have already gotten them.**
 {: .notice--primary}
 
 If you are between versions 11.0.0 and 11.2.0, you must follow this guide to downgrade your NATIVE_FIRM using DSiWare and a second 3DS which has already has a Custom Firmware installed on it in order to dump and restore your NAND.
-{: .notice}   
+{: .notice}
 
 If you are below 11.2.0 on either device, then you should do the ctr-httpwn steps (when prompted) on each device under 11.2.0 to allow you to System Transfer with them.
 {: .notice--info}
@@ -22,6 +22,9 @@ This guide will assume the CFW 3DS is running arm9loaderhax and was setup with t
 {: .notice--info}
 
 You can skip everything related to **Steel Diver: Sub Wars** and steelhax if you already have a working primary entrypoint (e.g: OOT3dHax, FreakyHax) for **the target 3DS**, and use that instead.
+{: .notice--info}
+
+Your DSiWare's save will be backed up before getting replaced by the hacked save.
 {: .notice--info}
 
 {% capture notice-4 %}
@@ -56,7 +59,6 @@ System Transfers can only be performed once a week.
 * The latest release of [3DSident](https://github.com/joel16/3DSident/releases/latest)
 * The latest release of [FBI](https://github.com/Steveice10/FBI/releases/latest)
 * The latest release of [dgTool](https://github.com/Plailect/dgTool/releases/latest)
-* The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
 * The NFIRM `.zip` corresponding to the device and version of **the target 3DS**:
   + [New 3DS 11.0.0 to 10.4.0](magnet:?xt=urn:btih:2d13a5ea1570f911bd5c6423e0c30e51d548837a&dn=11.0.0%5Fto%5F10.4.0%5Fn3ds.zip&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce)
   + [Old 3DS 11.0.0 to 10.4.0](magnet:?xt=urn:btih:72393bbd99bc285db84a9cabf39d9b3200058d6a&dn=11.0.0%5Fto%5F10.4.0%5Fo3ds.zip&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce)     
@@ -88,7 +90,7 @@ System Transfers can only be performed once a week.
   + **The Legend of Zelda: Four Swords EUR Region**: `4b513956`   
   + **The Legend of Zelda: Four Swords USA Region**: `4b513945`    
 4. Reinsert **the source 3DS**'s SD card
-5. On **the source 3DS**, hold Start on boot to launch Hourglass9
+5. On **the source 3DS**, hold (Start) on boot to launch Hourglass9
 6. Go to SysNAND Options, then SysNAND Backup/Restore, then backup **(min size)** SysNAND to `NANDmin.bin`
 7. Press (Select) on the main menu to eject **the source 3DS**'s SD card, then put it in your computer
 8. Copy `NANDmin.bin` and `NANDmin.bin.sha` from the `/files9/` folder on your SD card to a safe location; make backups in multiple locations; this backup will save you from a brick if anything goes wrong in the future **(Your backup should match one of the sizes on [this](nand-size) page; if it does not, you should delete it and make a new one!)**
@@ -97,7 +99,20 @@ System Transfers can only be performed once a week.
 11. Reinsert each SD card back into their corresponding 3DS
 12. Press (Start) to reboot
 
-##### Section II - Installing the save
+##### Section II - Backup DSiWare
+
+After completing the entire guide, you can use this backup to restore your DSiWare saves
+{: .notice--info}
+
+This backup can only be used on this NAND. If you format your 3DS or restore another NAND (specifically if `movable.sed` is ever modified), it will become unusable.
+{: .notice--info}
+
+1. Go to System Settings, then "Data Management", then "DSiWare", then "Nintendo DS Profile" on **the source 3DS**
+2. Copy any DSiWare games that are already on the SD Card back to the System Memory
+3. Copy the DSiWare game you intend to use to the SD Card
+4. Exit System Settings
+
+##### Section III - Installing the save
 
 1. Purchase one of the following exploitable DSiWare games (a pirated copy of the game will **not** work)
   + **Fieldrunners**: Works for **USA + EUR**
@@ -133,7 +148,7 @@ System Transfers can only be performed once a week.
   + If your game behaves normally and does not give you this error, then you should stop and figure out what went wrong
   + If you get a black screen, [follow this troubleshooting guide](troubleshooting#twl_broken)
 
-##### Section III - steelhax
+##### Section IV - steelhax
 
 **This will allow you to enter the homebrew launcher after the System Transfer.**
 
@@ -172,7 +187,7 @@ System Transfers can only be performed once a week.
   + Even though you will be downgrading its NFIRM, you should still select the system version it is on now
 12. Copy _the contents of_ the `starter.zip` to the root of **the target 3DS**'s SD card, then put the SD card back into **the target 3DS**
 
-##### Section IV - ctr-httpwn
+##### Section V - ctr-httpwn
 
 **This section is only required if _the target 3DS_ is under 11.2.0.**
 
@@ -194,7 +209,7 @@ System Transfers can only be performed once a week.
   + Keep in mind that exiting the System Settings will reboot the system
   + If the system is rebooted, you'll have to re-run ctr-httpwn before System Transfer will work
 
-##### Section V - System Transfer
+##### Section VI - System Transfer
 
 1. **Backup every file on both 3DS's SD cards to two separate folders on your computer (keep track of which is which)!**
 2. Reinsert each SD card back into their corresponding 3DS
@@ -212,7 +227,7 @@ System Transfers can only be performed once a week.
     + Slowest Method: If you don't have the ability to move the data on a PC use the **full** "Wireless Transfer" option (option 1).
 6. Go to [this link](http://en-americas-support.nintendo.com/app/answers/detail/a_id/227/) and follow Nintendo's official instructions for System Transferring from one system to another while keeping in mind what you just read
 
-##### Section VI - Restoring the source 3DS
+##### Section VII - Restoring the source 3DS
 
 1. On **the source 3DS**, complete initial setup
 2. Do one of the following *(or neither if you don't mind __the source 3DS__'s NNID being nonfunctional)*
@@ -221,7 +236,7 @@ System Transfers can only be performed once a week.
 3. Reboot **the source 3DS** while holding Start to launch Hourglass9
 4. Go to SysNAND Backup/Restore and restore SysNAND from `NANDmin.bin`
 
-##### Section VII - Backing up the target 3DS's NFIRM
+##### Section VIII - Backing up the target 3DS's NFIRM
 
 1. Copy `boot.nds` to the root of **the target 3DS**'s SD card
 1. Create a folder named `dgTool` on the root of **the target 3DS**'s SD card if it does not already exist
@@ -239,9 +254,9 @@ System Transfers can only be performed once a week.
   + You may have to force power off by holding the power button
 8. Put your SD card in your computer, then copy `F0F1_N3DS.bin` or `F0F1_O3DS.bin` (depending on your device) to a safe location; make backups in multiple locations; this backup will save you from a brick if anything goes wrong
 
-##### Section VIII - Flashing the target 3DS's NFIRM
+##### Section IX - Flashing the target 3DS's NFIRM
 
-**Do NOT downgrade with dgTool on a device that already has arm9loaderhax installed or you will BRICK!**
+**Never downgrade with dgTool on a device that already has arm9loaderhax installed or you will BRICK!**
 
 1. Launch your DSiWare game on **the target 3DS**
 4. Launch dgTool using your DSiWare game
@@ -254,7 +269,7 @@ System Transfers can only be performed once a week.
   + You may have to force power off by holding the power button
 5. Reboot
 
-##### Section IX - Exploit verification
+##### Section X - Exploit verification
 
 1. Copy and merge the `3ds` folder from the 3DSident `.zip` to **the target 3DS**'s SD card
 2. Reinsert your SD card into **the target 3DS**
@@ -268,10 +283,10 @@ System Transfers can only be performed once a week.
 Continue to [Homebrew Launcher (No Browser)](homebrew-launcher-(no-browser)), using steelhax for your entrypoint instead of one of the ones listed.
 {: .notice--primary}
 
-You can use another entrypoint if you want to, I just recommend steelhax because it is free.
+You can use another entrypoint if you want to; steelhax is recommended because it is free.
 {: .notice--info}
 
-**the target 3DS**'s version number will *not* have changed in the settings.
+**The target 3DS**'s version number will *not* have changed in the settings.
 {: .notice--info}
 
 If, once transferred, steelhax only crashes to a black screen on **the target 3DS**, [follow this troubleshooting guide](troubleshooting#ts_steelhax).
