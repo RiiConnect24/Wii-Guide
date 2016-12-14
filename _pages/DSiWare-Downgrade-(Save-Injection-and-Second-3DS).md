@@ -241,7 +241,7 @@ This backup can only be used on this NAND. If you format your 3DS or restore ano
 
 ##### Section VIII - Backing up the target 3DS's NAND
 
-1. Copy `boot.nds` to the root of **the target 3DS**'s SD card
+1. Copy the dgTool `boot.nds` to the root of **the target 3DS**'s SD card
 1. Create a folder named `dgTool` on the root of **the target 3DS**'s SD card if it does not already exist
 3. Copy the contents of the NFIRM `.zip` to the `dgTool` folder on the root of **the target 3DS**'s SD card
 3. Launch your DSiWare game on **the target 3DS**
