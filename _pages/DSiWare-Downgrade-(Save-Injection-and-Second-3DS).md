@@ -115,7 +115,8 @@ After completing the entire guide, you can use this backup to restore your DSiWa
 This backup can only be used on this NAND. If you format your 3DS or restore another NAND (specifically if `movable.sed` is ever modified), it will become unusable.
 {: .notice--info}
 
-1. Go to System Settings, then "Data Management", then "DSiWare"
+1. Go to System Settings, then "Data Management", then "DSiWare" on **the source 3DS**
+2. Copy any DSiWare games that are already on the SD Card back to the System Memory
 3. Copy the DSiWare game you intend to use to the SD Card
 4. Exit System Settings
 
