@@ -20,7 +20,7 @@ Your DSiWare's save will be backed up before getting replaced by the hacked save
 
 #### What you need
 
-* Already own one of the following exploitable DSiWare games installed on your 3DS *(you must have already installed one; they have all been pulled from the eShop)*
+* Already own (and install) one of the following exploitable DSiWare games installed on your 3DS *(you must have already installed one; they have all been pulled from the eShop)*
   + **Fieldrunners**
   + **Legends of Exidia**
   + **Guitar Rock Tour**  

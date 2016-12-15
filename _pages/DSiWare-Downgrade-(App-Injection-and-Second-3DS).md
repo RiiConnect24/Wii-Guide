@@ -50,7 +50,7 @@ System Transfers can only be performed once a week.
 * Two 3DS systems
   + **The source 3DS**: the 3DS running some kind of custom firmware (arm9loaderhax or some form of EmuNAND/RedNAND) *on the latest version*
   + **The target 3DS**: the 3DS on stock firmware *between 11.0.0 and 11.2.0*
-* Purchase (or already own) a compatible DSiWare game from the eShop on **the source 3DS**
+* Purchase (or already own) and install a compatible DSiWare game from the eShop on **the source 3DS**
   + A pirated copy of the game will **not** work
   + For a list of compatible games, see the [DSiWare List](dsiware-list) page
 * The sudokuhax injection `.zip` corresponding to your region

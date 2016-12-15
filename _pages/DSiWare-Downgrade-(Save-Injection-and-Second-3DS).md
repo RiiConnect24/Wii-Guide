@@ -53,7 +53,7 @@ System Transfers can only be performed once a week.
 * Two 3DS systems
   + **The source 3DS**: the 3DS running some kind of custom firmware (arm9loaderhax or some form of EmuNAND/RedNAND) *on the latest version*
   + **The target 3DS**: the 3DS on stock firmware *between 11.0.0 and 11.2.0*
-* Already own one of the following exploitable DSiWare games (a pirated copy of the game will **not** work) on **the source 3DS**
+* Already own (and install) one of the following exploitable DSiWare games (a pirated copy of the game will **not** work) on **the source 3DS**
   + **Fieldrunners**
   + **Legends of Exidia**
   + **Guitar Rock Tour**  
