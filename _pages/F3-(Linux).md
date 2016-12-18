@@ -57,5 +57,5 @@ If the test shows the result `Data LOST: 0.00 Byte (0 sectors)` your SD card is 
 If the test shows any other results, your SD card may be corrupted or damaged and you may have to replace it!
 {: .notice--danger}
 
-Return to [Get Started](Get-Started)
+Return to [Get Started](get-started)
 {: .notice--primary}
