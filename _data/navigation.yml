@@ -24,6 +24,9 @@ main:
   - title: "OTP Info"
     url: /otp-info
 
+  - title: "Site Navigation"
+    url: /site-navigation
+
 site:
   - title: "Popular"
     children:
