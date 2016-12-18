@@ -1,6 +1,7 @@
 ---
 title: "NFIRM Downgrade"
 permalink: /nfirm-downgrade.html
+redirect_from: "/dsiware-downgrade"
 ---
 
 If you are between 11.0.0 and 11.2.0, you must follow this guide to downgrade your NFIRM using one of the methods at the bottom of this page to directly dump and restore your NAND.
