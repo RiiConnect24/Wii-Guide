@@ -48,18 +48,27 @@ Region changing using ctrtransfer (which this method uses) seems to cause reboot
 3. Copy the 9.2.0 ctrtransfer image `.bin` and `.bin.sha` from the ctrtransfer `.zip` to the `/files9/` folder on your SD card
 4. Reinsert your SD card into your 3DS
 
-##### Section II - Backup tickets
+##### Section II - Backup config save
 
-5. Open Decrypt9 from arm9loaderhax by holding (X) during boot
+1. Open GodMode9 from arm9loaderhax by holding (Up) during boot
+2. Navigate to `SYSNAND CTRNAND` -> `data` -> (32 Character ID) -> `sysdata` -> `00010017`
+3. Press (Y) on `00000000` to copy it
+4. Press (B) to get back to the main menu
+5. Navigate to `SDCARD` -> `files9`
+5. Press (Y) to paste a copy of `00000000`
+6. Select "Copy path(s)"
+
+##### Section III - Backup tickets
+
+5. Press (Start) then hold (X) to reboot into arm9loaderhax Decrypt9     
 6. Go to "Ticket/Titlekey Options", then select "Ticket Dump (SysNAND)"
 7. Press (Select) to eject your SD card, then put it in your computer
 8. Delete all `.tik` files in the `/files9/` folder that **do not** start with "00-"
 9. Leave all the `.tik` files that do start with "00-" in the folder
-10. Reinsert your SD card into your 3DS, then press (B)
+10. Reinsert your SD card into your 3DS, then press (B) to go back to the Main Menu
 
-##### Section III - ctrtransfer
+##### Section IV - ctrtransfer
 
-5. Open Decrypt9 from arm9loaderhax by holding (X) during boot
 6. Go to "SysNAND Options", then "CTRNAND Transfer", then "Auto CTRNAND Transfer"
 7. Select the 9.2.0 ctrtransfer image when prompted by pressing (A)
 8. **Backup SysNAND to `NANDmin.bin` when prompted by pressing (A)**
@@ -72,7 +81,7 @@ Region changing using ctrtransfer (which this method uses) seems to cause reboot
 12. Delete the 9.2.0 ctrtransfer image `.bin` and `.bin.sha` from the `/files9/` folder on your SD card after copying it
 13. Reinsert your SD card into your 3DS
 
-##### Section IV - Editing SecureInfo
+##### Section V - Editing SecureInfo
 
 1. Press (Start) then hold (Up) to reboot into arm9loaderhax GodMode9     
 2. Navigate to `SYSNAND CTRNAND` -> `rw` -> `sys`
@@ -96,22 +105,41 @@ Region changing using ctrtransfer (which this method uses) seems to cause reboot
 17. You should see both a `SecureInfo_A` and `SecureInfo_C` if everything was done properly. (`SecureInfo_C` is used in place of `SecureInfo_A` when using Luma3DS if it detects the file on boot)
 18. Press Start to reboot
 
-##### Section V - Reinstalling Tickets
+##### Section VI - Reinstalling Tickets
 
 1. Open FBI
 2. Select "SD"
 3. Select "files9"
-4. Select "\<current directory>"
+4. Select "<current directory>"
 5. Select "Install and delete all tickets"
 6. Wait. The system may appear to freeze, just give it time.
 7. Press (A) to confirm
 8. Press (B) to decline installing tickets from CDN.
 9. Exit with the home button
 
-##### Section VI - Region settings
+##### Section VII - Region settings
 
 1. Open the System Settings
 2. Go to "Other Settings", "Profile", then "Region Settings"
 3. Select a country from the region you switched to
 4. If prompted, you do not need to set a state
 5. Update your region changed CFW SysNAND to the latest version
+
+##### Section VIII - Restore config save
+
+1. Reboot holding (Up) during boot to launch arm9loaderhax GodMode9
+2. Navigate to `SDCARD` -> `files9`
+3. Press (Y) on `00000000` to copy it
+4. Press (B) to get back to the main menu
+5. Navigate to `SYSNAND CTRNAND` -> `data` -> (32 Character ID) -> `sysdata` -> `00010017`
+5. Press (Y) to paste a copy of `00000000`
+6. Select "Copy path(s)"
+6. Press (A) to unlock SysNAND writing, then input the key combo given
+7. Select "Overwrite file(s)"
+8. Press (Start) to reboot
+
+Old 3DSs / 2DSs may need to format (using TinyFormat or the System Settings) to play extended memory mode games (such as Monster Hunter, Super Smash Bros, or Pokemon Sun/Moon).
+{: .notice--info}
+
+Formatting a device following a ctrtransfer *without restoring the config save* can cause screen brightness / flickering issues. See [this](https://github.com/Plailect/Guide/issues/794).
+{: .notice--info}
