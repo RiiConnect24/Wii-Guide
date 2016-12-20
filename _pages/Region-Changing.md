@@ -48,17 +48,7 @@ Region changing using ctrtransfer (which this method uses) seems to cause reboot
 3. Copy the 9.2.0 ctrtransfer image `.bin` and `.bin.sha` from the ctrtransfer `.zip` to the `/files9/` folder on your SD card
 4. Reinsert your SD card into your 3DS
 
-##### Section II - Backup config save
-
-1. Open GodMode9 from arm9loaderhax by holding (Up) during boot
-2. Navigate to `SYSNAND CTRNAND` -> `data` -> (32 Character ID) -> `sysdata` -> `00010017`
-3. Press (Y) on `00000000` to copy it
-4. Press (B) to get back to the main menu
-5. Navigate to `SDCARD` -> `files9`
-5. Press (Y) to paste a copy of `00000000`
-6. Select "Copy path(s)"
-
-##### Section III - Backup tickets
+##### Section II - Backup tickets and config save
 
 5. Press (Start) then hold (X) to reboot into arm9loaderhax Decrypt9     
 6. Go to "Ticket/Titlekey Options", then select "Ticket Dump (SysNAND)"
@@ -66,8 +56,9 @@ Region changing using ctrtransfer (which this method uses) seems to cause reboot
 8. Delete all `.tik` files in the `/files9/` folder that **do not** start with "00-"
 9. Leave all the `.tik` files that do start with "00-" in the folder
 10. Reinsert your SD card into your 3DS, then press (B) to go back to the Main Menu
+11. Go to "SysNAND Options", then "System Save Dump", then select "Dump configsave.bin"
 
-##### Section IV - ctrtransfer
+##### Section III - ctrtransfer
 
 6. Go to "SysNAND Options", then "CTRNAND Transfer", then "Auto CTRNAND Transfer"
 7. Select the 9.2.0 ctrtransfer image when prompted by pressing (A)
@@ -81,7 +72,7 @@ Region changing using ctrtransfer (which this method uses) seems to cause reboot
 12. Delete the 9.2.0 ctrtransfer image `.bin` and `.bin.sha` from the `/files9/` folder on your SD card after copying it
 13. Reinsert your SD card into your 3DS
 
-##### Section V - Editing SecureInfo
+##### Section IV - Editing SecureInfo
 
 1. Press (Start) then hold (Up) to reboot into arm9loaderhax GodMode9     
 2. Navigate to `SYSNAND CTRNAND` -> `rw` -> `sys`
@@ -105,7 +96,7 @@ Region changing using ctrtransfer (which this method uses) seems to cause reboot
 17. You should see both a `SecureInfo_A` and `SecureInfo_C` if everything was done properly. (`SecureInfo_C` is used in place of `SecureInfo_A` when using Luma3DS if it detects the file on boot)
 18. Press Start to reboot
 
-##### Section VI - Reinstalling Tickets
+##### Section V - Reinstalling Tickets
 
 1. Open FBI
 2. Select "SD"
@@ -117,7 +108,7 @@ Region changing using ctrtransfer (which this method uses) seems to cause reboot
 8. Press (B) to decline installing tickets from CDN.
 9. Exit with the home button
 
-##### Section VII - Region settings
+##### Section VI - Region settings
 
 1. Open the System Settings
 2. Go to "Other Settings", "Profile", then "Region Settings"
@@ -125,18 +116,10 @@ Region changing using ctrtransfer (which this method uses) seems to cause reboot
 4. If prompted, you do not need to set a state
 5. Update your region changed CFW SysNAND to the latest version
 
-##### Section VIII - Restore config save
+##### Section VII - Restore config save
 
-1. Reboot holding (Up) during boot to launch arm9loaderhax GodMode9
-2. Navigate to `SDCARD` -> `files9`
-3. Press (Y) on `00000000` to copy it
-4. Press (B) to get back to the main menu
-5. Navigate to `SYSNAND CTRNAND` -> `data` -> (32 Character ID) -> `sysdata` -> `00010017`
-5. Press (Y) to paste a copy of `00000000`
-6. Select "Copy path(s)"
-6. Press (A) to unlock SysNAND writing, then input the key combo given
-7. Select "Overwrite file(s)"
-8. Press (Start) to reboot
+1. Reboot holding (X) during boot to launch arm9loaderhax Decrypt9
+2. Go to "SysNAND Options", then "System Save Inject", then select "Inject configsave.bin"
 
 Old 3DSs / 2DSs may need to format (using TinyFormat or the System Settings) to play extended memory mode games (such as Monster Hunter, Super Smash Bros, or Pokemon Sun/Moon).
 {: .notice--info}
