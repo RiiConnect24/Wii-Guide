@@ -137,6 +137,12 @@ This will prevent the soft brick described in [9.2.0 Downgrade](9.2.0-downgrade)
 You will not lose any data as long as you have that backup and restore it once you get to the [Installing arm9loaderhax](installing-arm9loaderhax).
 {: .notice--info}
 
+You will not be able to use any secondary entrypoints that have been installed to the device. These are Homebrew Launcher entrypoints that had to be installed with other homebrew launcher entrypoints, such as steelhax. This only applies to eShop versions *(except in the case of [genhax](https://github.com/svanheulen/genhax), which is installed with console specific data)*.
+{: .notice--warning}
+
+This step is optional (such as if your homebrew launcher is one of the ones described above), but do be warned that not formatting has the risk a soft brick, which is described on [9.2.0 Downgrade](9.2.0-downgrade).
+{: .notice--warning}
+
 1. From the Homebrew Launcher, launch TinyFormat
 2. Press (Y) to format the device
 3. Do the initial setup of your device
