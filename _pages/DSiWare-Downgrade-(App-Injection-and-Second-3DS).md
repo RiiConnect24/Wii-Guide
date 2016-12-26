@@ -24,9 +24,6 @@ You can skip everything related to **Steel Diver: Sub Wars** and steelhax if you
 Your DSiWare's save will be backed up before getting replaced by the hacked save.
 {: .notice--info}
 
-For whatever reason, the soft brick described in [9.2.0 Downgrade](9.2.0-downgrade) is only common with users that use the [slowhax method](dsiware-downgrade-(save-injection)) of DSiWare Downgrade. As such, users of this page are not instructed to format their device.
-{: .notice--info}
-
 {% capture notice-4 %}
 This exploit requires you to [System Transfer](http://en-americas-support.nintendo.com/app/answers/detail/a_id/13996/) from a CFW 3DS to a stock 3DS as part of the steps. System Transfers will work in the following directions *only*:    
   + New 3DS -> New 3DS    
@@ -251,15 +248,15 @@ This backup can only be used on this NAND. If you format your 3DS or restore ano
 3. Launch your DSiWare game on **the target 3DS**
 4. Launch dgTool by starting your DSiWare game
   + If the game does not launch dgTool, [follow this troubleshooting guide](troubleshooting#ts_dsiware)
-5. Select "Dump nand" to backup **the target 3DS**'s NAND
+5. Select "Dump f0f1" to backup **the target 3DS**'s NFIRM
   + This will take a while
-6. Make note of the NAND backup's location
+6. Make note of the NFIRM backup's location
 7. Exit dgTool
   + You may have to force power off by holding the power button
-8. Put your SD card in your computer, then copy `NAND_N3DS.bin` or `NAND_O3DS.bin` (depending on your device) to a safe location
+8. Put your SD card in your computer, then copy `F0F1_N3DS.bin` or `F0F1_O3DS.bin` (depending on your device) to a safe location
   + Make backups in multiple locations
   + This backup will save you from a brick if anything goes wrong in the future
-  + **Your backup should match one of the sizes on [this](nand-size) page; if it does not, you should delete it and make a new one!**
+
 
 ##### Section IX - Flashing the target 3DS's NFIRM
 
