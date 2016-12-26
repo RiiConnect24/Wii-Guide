@@ -37,8 +37,9 @@ permalink: /ntr-and-cubic-ninja.html
 10. Use the command "ipconfig" in CMD to get your computer's IPv4 Address, you will need it soon
 11. Copy `ntr.bin` to the root of your SD card
 12. Create a folder named `files9` on the root of your SD card if it does not already exist
-1. Copy _the contents of_ the `starter.zip` to the root of your SD card, then put the SD card back into your 3DS
+1. Copy _the contents of_ the `starter.zip` to the root of your SD card
 2. Copy the `Decrypt9WIP` folder from the Decrypt9WIP `.zip` to `/3ds/` on your SD card
+3. Put the SD card back into your 3DS
 
 ##### Section II - Updating
 
