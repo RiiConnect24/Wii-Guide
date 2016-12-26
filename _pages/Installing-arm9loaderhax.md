@@ -46,6 +46,7 @@ During this process, we also setup programs such as the following:
 * The latest release of [Luma3DS Updater](https://github.com/Hamcha/lumaupdate/releases/latest)
 * The latest release of [DspDump](https://github.com/Cruel/DspDump/releases/latest)
 * The latest release of [FBI](https://github.com/Steveice10/FBI/releases/)
+* The latest release of [GodMode9](https://github.com/d0k3/GodMode9/releases/latest)
 * The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
 
 #### Instructions
@@ -79,6 +80,7 @@ During this process, we also setup programs such as the following:
 13. Create a folder named `luma` on the root of your SD card
 14. Create a folder named `payloads` in the `luma` folder on your SD card
 15. Copy `Hourglass9.bin` from the Hourglass9 `.zip` to the `/luma/payloads/` folder on your SD card and rename `Hourglass9.bin` to `start_Hourglass9.bin`
+16. Copy `GodMode9.bin` from the GodMode9 `.zip` to the `/luma/payloads` folder on your SD card and rename `GodMode9.bin` to `up_GodMode9.bin`
 16. Copy `aeskeydb.bin` to the `/files9/` folder on your SD card
 17. Copy `DspDump.3dsx` to the `/3ds/` folder on your SD card
 18. Copy _the contents of_ `fbi-2.4.2-injectable.zip` to the `/files9/` folder on your SD card
@@ -210,6 +212,22 @@ If you have no tickets to restore, skip this section.
 7. Press (A) to confirm
 8. Press (B) to decline installing tickets from CDN.
 9. Exit with the home button
+
+##### Section VIII - Restoring nim savegame
+
+This section is only needed for devices that did [9.2.0 Downgrade](9.2.0 Dowgnrade) earlier.
+{: .notice--info}
+
+1. Open GodMode9 from arm9loaderhax by holding (Up) during boot
+2. Navigate to `SDCARD`
+3. Press (Y) on `nimsavegame.bin`
+4. Press (B) to go back to the main menu
+5. Navigate to `SYSNAND CTRNAND` -> `data` -> (32 Character ID) -> `sysdata` -> `0001002c`
+7. Press (A) on `00000000`
+8. Select "Inject data @offset"
+9. Press (A) to select the offset `00000000`
+10. Press (A) to unlock SysNAND writing, then input the key combo given
+11. Press (Start) to reboot
 
 ___
 
