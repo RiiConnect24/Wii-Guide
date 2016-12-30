@@ -34,7 +34,5 @@ The device version can be found at the bottom right of the top screen of the Sys
 | 5.0.0 | 5.1.0 | [Cart Update](cart-update) | [Decrypt9 (Browser)](decrypt9-(browser)) |
 | 6.0.0 | 6.3.0 | [Decrypt9 (MSET)](decrypt9-(mset)) | [Decrypt9 (Browser)](decrypt9-(browser)) |
 | 7.0.0 | 8.1.0 | [Cart Update](cart-update) | [Decrypt9 (Browser)](decrypt9-(browser)) |
-| 9.0.0 | 9.2.0 | [Homebrew Launcher (No Browser)](homebrew-launcher-(no-browser)) | [Decrypt9 (Browser)](decrypt9-(browser)) |
-| 9.3.0 | 10.6.0 | [Homebrew Launcher (No Browser)](homebrew-launcher-(no-browser)) | [Homebrew Launcher (Browser)](homebrew-launcher-(browser)) |
-| 10.7.0 | 10.7.0 | [Homebrew Launcher (No Browser)](homebrew-launcher-(no-browser))| [Homebrew Launcher (No Browser)](homebrew-launcher-(no-browser))|
+| 9.0.0 | 10.7.0 | [Homebrew Launcher (SoundHax)](homebrew-launcher-(soundhax)) | [Homebrew Launcher (SoundHax)](homebrew-launcher-(soundhax)) |
 | 11.0.0 | 11.2.0 | [NFIRM Downgrade](nfirm-downgrade) | [NFIRM Downgrade](nfirm-downgrade) |

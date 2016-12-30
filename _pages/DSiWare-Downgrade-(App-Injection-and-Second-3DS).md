@@ -18,9 +18,6 @@ This is a currently working implementation of the "FIRM partitions known-plainte
 This guide will assume the CFW 3DS is running arm9loaderhax and was setup with this guide, but will work (with slight modifications such as doing all SysNAND steps on EmuNAND) on systems running an EmuNAND. Note that the terms EmuNAND and RedNAND refer to slightly different implementations of [the same concept](http://3dbrew.org/wiki/NAND_Redirection).
 {: .notice--info}
 
-You can skip everything related to **Steel Diver: Sub Wars** and steelhax if you already have a working primary entrypoint (e.g: OOT3dHax, FreakyHax) for **the target 3DS**, and use that instead.
-{: .notice--info}
-
 Your DSiWare's save will be backed up before getting replaced by the hacked save.
 {: .notice--info}
 
@@ -68,8 +65,6 @@ System Transfers can only be performed once a week.
   ~        
   + [New 3DS 11.2.0](magnet:?xt=urn:btih:881388a552a1ce9a963d391bf1a023642270991c&dn=11.2.0%5Fto%5F10.4.0%5Fn3ds.zip&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce)     
   + [Old 3DS 11.2.0](magnet:?xt=urn:btih:a479e4ee55efbc18c181d426cd77a34815388151&dn=11.2.0%5Fto%5F10.4.0%5Fo3ds.zip&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce)    
-* Download a legitimate copy of **Steel Diver: Sub Wars** (the game is free, but any copy of the game not from the eShop will **not** work) on **the source 3DS**
-* The previous release of [steelhax](https://vegaroxas.github.io/files/steelhax-installer.zip)
 * If **the target 3DS** is below 11.2.0, you will _also_ need the following
   + The latest release of [ctr-httpwn](https://github.com/yellows8/ctr-httpwn/releases/latest)
 
@@ -151,46 +146,7 @@ This backup can only be used on this NAND. If you format your 3DS or restore ano
   + If you get a black screen, [follow this troubleshooting guide](troubleshooting#twl_broken)
   + If the game is missing from **the target 3DS** or has an error about corrupted or inaccessible save data, [follow this troubleshooting guide](troubleshooting#ts_dsiware)
 
-##### Section IV - steelhax
-
-**This will allow you to enter the homebrew launcher after the System Transfer.**
-
-1. Copy the `steelhax-installer` folder from the steelhax `.zip` to the `/3ds/` folder on **the source 3DS**'s SD card
-2. Reinsert your SD card into your 3DS
-3. Ensure that **Steel Diver: Sub Wars** does not have any updates installed using System Settings:
-  + Go to "Data Management", then "Nintendo 3DS", then "Downloadable Content"
-  + Select **Steel Diver: Sub Wars**, then select "delete"
-  + Exit the System Settings
-2. Launch **Steel Diver: Sub Wars**
-  + Do not update the game
-3. Press (A) to continue, then create / select a Mii
-4. Exit the game
-2. Launch the homebrew launcher on **the source 3DS**
-  + If it is an arm9loaderhax installed device, you can do that with [hblauncher_loader](https://github.com/yellows8/hblauncher_loader/releases)
-3. Launch steelhax installer
-4. Press (A) to continue
-5. Press (A) to confirm **Steel Diver: Sub Wars**'s version
-6. Press (A) to confirm **the source 3DS**'s system version
-7. Press (Start) to exit the installer
-8. Press (Start) to open the homebrew launcher exit menu
-7. Press (X) to Return to Home Menu (no reboot)
-  + You may get an "Error has occurred" message with the option to continue. This is fine, just hit (A)
-9. Launch **Steel Diver: Sub Wars** to test the exploit
-  + Do not update the game
-  + The save game may be corrupted
-    + Do not press "ok" to delete the corrupted save data, just exit with the home button
-      + If you do press "ok" by mistake, you will have to recreate the Mii
-    + Redo the installation starting with the homebrew launcher
-    + This can take many tries
-  + If it is successful, the device will boot into the homebrew launcher
-10. Once you are in the homebrew launcher successfully, launch steelhax installer
-11. Press (A) to continue
-12. Press (A) to confirm **Steel Diver: Sub Wars**'s version
-16. This time, change the version to match **the target 3DS**'s system version
-  + Even though you will be downgrading its NFIRM, you should still select the system version it is on now
-12. Copy _the contents of_ the `starter.zip` to the root of **the target 3DS**'s SD card, then put the SD card back into **the target 3DS**
-
-##### Section V - ctr-httpwn
+##### Section IV - ctr-httpwn
 
 **This section is only required if _the target 3DS_ is under 11.2.0.**
 
@@ -212,7 +168,7 @@ This backup can only be used on this NAND. If you format your 3DS or restore ano
   + Keep in mind that exiting the System Settings will reboot the system
   + If the system is rebooted, you'll have to re-run ctr-httpwn before System Transfer will work
 
-##### Section VI - System Transfer
+##### Section V - System Transfer
 
 1. **Backup every file on both 3DS's SD cards to two separate folders on your computer (keep track of which is which)!**
 2. Reinsert each SD card back into their corresponding 3DS
@@ -230,7 +186,7 @@ This backup can only be used on this NAND. If you format your 3DS or restore ano
     + Slowest Method: If you don't have the ability to move the data on a PC use the **full** "Wireless Transfer" option (option 1).
 6. Go to [this link](http://en-americas-support.nintendo.com/app/answers/detail/a_id/227/) and follow Nintendo's official instructions for System Transferring from one system to another while keeping in mind what you just read
 
-##### Section VII - Restoring the source 3DS
+##### Section VI - Restoring the source 3DS
 
 1. On **the source 3DS**, complete initial setup
 2. Do one of the following
@@ -240,7 +196,7 @@ This backup can only be used on this NAND. If you format your 3DS or restore ano
 3. Reboot **the source 3DS** while holding Start to launch Hourglass9
 4. Go to SysNAND Backup/Restore and restore SysNAND from `NANDmin.bin`
 
-##### Section VIII - Backing up the target 3DS's NFIRM
+##### Section VII - Backing up the target 3DS's NFIRM
 
 1. Copy the dgTool `boot.nds` to the root of **the target 3DS**'s SD card
 1. Create a folder named `dgTool` on the root of **the target 3DS**'s SD card if it does not already exist
@@ -258,7 +214,7 @@ This backup can only be used on this NAND. If you format your 3DS or restore ano
   + This backup will save you from a brick if anything goes wrong in the future
 
 
-##### Section IX - Flashing the target 3DS's NFIRM
+##### Section VIII - Flashing the target 3DS's NFIRM
 
 **Never downgrade with dgTool on a device that already has arm9loaderhax installed or you will BRICK!**
 
@@ -269,7 +225,7 @@ This backup can only be used on this NAND. If you format your 3DS or restore ano
   + You may have to force power off by holding the power button
 5. Reboot
 
-##### Section X - Exploit verification
+##### Section IX - Exploit verification
 
 1. Copy and merge the `3ds` folder from the 3DSident `.zip` to **the target 3DS**'s SD card
 2. Reinsert your SD card into **the target 3DS**
@@ -280,14 +236,11 @@ This backup can only be used on this NAND. If you format your 3DS or restore ano
   + **FIRM version**: 2.50-11
   + If either of these do not display the versions above, something has gone wrong and you should try again from the beginning
 
-You can use another entrypoint if you want to; steelhax is recommended because it is free.
-{: .notice--info}
-
 **The target 3DS**'s version number will *not* have changed in the settings.
 {: .notice--info}
 
-If, once transferred, steelhax only crashes to a black screen on **the target 3DS**, [follow this troubleshooting guide](troubleshooting#ts_steelhax).
-{: .notice--warning}
+If your console is from the EUR, JPN, or USA regions, continue to [Homebrew Launcher (SoundHax)](homebrew-launcher-(soundhax))
+{: .notice--primary}
 
-Continue to [9.2.0 Downgrade](9.2.0-downgrade)
+If your console is from another region, continue to [Homebrew Launcher (No Browser)](homebrew-launcher-(no-browser))
 {: .notice--primary}

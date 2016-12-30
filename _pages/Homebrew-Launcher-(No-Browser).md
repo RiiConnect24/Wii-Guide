@@ -19,6 +19,7 @@ Note that if you are on 11.2.0 and have NFIRM downgraded, all 11.1.0 compatible 
 #### Instructions
 
 1. Copy _the contents of_ the `starter.zip` to the root of your SD card
+2. Reinsert your SD card into your 3DS
 2. Use one of the following alternate entrypoints to get into the homebrew launcher:
 
 | <sub> | <sub>Requires | <sub>Editions | <sub>Devices | <sub>Regions | <sub>Game Versions | <sub>System Versions |

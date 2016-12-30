@@ -25,7 +25,7 @@ Your DSiWare's save will be backed up before getting replaced by the hacked save
   + **Legends of Exidia**
   + **Guitar Rock Tour**  
   + **The Legend of Zelda: Four Swords (Anniversary Edition)**  
-* An entrypoint from [Homebrew Launcher (No Browser)](homebrew-launcher-(no-browser)) or (on 11.0.0 EUR / USA) [Homebrew Launcher (Browser)](homebrew-launcher-(browser))
+* An entrypoint from [Homebrew Launcher (SoundHax)](homebrew-launcher-(soundhax)) or [Homebrew Launcher (No Browser)](homebrew-launcher-(no-browser))
 * [`4B51394A.zip`](images/4B51394A.zip)
 * The latest release of [3ds_dsiwarehax_installer](https://github.com/yellows8/3ds_dsiwarehax_installer/releases/latest)
 * The latest release of [waithax](https://github.com/Mrrraou/waithax/releases/latest)
