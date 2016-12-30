@@ -34,6 +34,8 @@ site:
         url: /installing-arm9loaderhax
       - title: "NFIRM Downgrade"
         url: /nfirm-downgrade
+      - title: "Homebrew Launcher (SoundHax)"
+        url: /homebrew-launcher-(soundhax)
       - title: "Homebrew Launcher (Browser)"
         url: /homebrew-launcher-(browser)
       - title: "Homebrew Launcher (No Browser)"
@@ -102,6 +104,8 @@ site:
         url: /homebrew-launcher-(browser)
       - title: "Homebrew Launcher (No Browser)"
         url: /homebrew-launcher-(no-browser)
+      - title: "Homebrew Launcher (SoundHax)"
+        url: /homebrew-launcher-(soundhax)
       - title: "Installing arm9loaderhax"
         url: /installing-arm9loaderhax
       - title: "Move EmuNAND"
