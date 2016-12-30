@@ -52,6 +52,7 @@ System Transfers can only be performed once a week.
   + **Legends of Exidia**
   + **Guitar Rock Tour**  
   + **The Legend of Zelda: Four Swords (Anniversary Edition)**  
+* An entrypoint from [Homebrew Launcher (SoundHax)](homebrew-launcher-(soundhax)) or [Homebrew Launcher (No Browser)](homebrew-launcher-(no-browser))
 * [`4B51394A.zip`](images/4B51394A.zip)
 * The latest release of [3ds_dsiwarehax_installer](https://github.com/yellows8/3ds_dsiwarehax_installer/releases)
 * The latest release of [3DSident](https://github.com/joel16/3DSident/releases/latest)
@@ -243,8 +244,5 @@ This backup can only be used on this NAND. If you format your 3DS or restore ano
 **The target 3DS**'s version number will *not* have changed in the settings.
 {: .notice--info}
 
-If your console is from the EUR, JPN, or USA regions, continue to [Homebrew Launcher (SoundHax)](homebrew-launcher-(soundhax))
-{: .notice--primary}
-
-If your console is from another region, continue to [Homebrew Launcher (No Browser)](homebrew-launcher-(no-browser))
+Continue to [9.2.0 Downgrade](9.2.0-downgrade)
 {: .notice--primary}
