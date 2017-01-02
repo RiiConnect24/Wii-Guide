@@ -3,6 +3,9 @@ title: "Decrypt9 (Homebrew Launcher)"
 permalink: /decrypt9-(homebrew-launcher).html
 ---
 
+If you are between 11.0.0 and 11.1.0, be prepared to wait 20 minutes (New 3DS) to an hour (Old 3DS). They must use waithax, which is named that way for a reason.
+{: .notice--info}
+
 #### What you need
 
 * The latest release of [Decrypt9WIP](https://github.com/d0k3/Decrypt9WIP/releases/)
