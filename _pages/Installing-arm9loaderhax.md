@@ -88,9 +88,7 @@ During this process, we also setup programs such as the following:
     + EUR Region: Delete `00000098`
     + JPN Region: Delete `00000082`
     + USA Region: Delete `0000008f`
-    + CHN Region: Delete `000000A1`
     + KOR Region: Delete `000000A9`
-    + TWN Region: Delete `000000B1`
 
 ##### Section II - Installing arm9loaderhax
 

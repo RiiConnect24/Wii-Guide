@@ -50,7 +50,7 @@ This will work on New 3DS, Old 3DS, and 2DS.
 
 1. Copy and merge the `3ds` folder from the 3DSident `.zip` to your device's SD card
 2. Reinsert your SD card into your 3DS
-3. Use [Homebrew Launcher (No Browser)](homebrew-launcher-(no-browser)) to launch the homebrew launcher on the device
+3. Use [Homebrew Launcher (SoundHax)](homebrew-launcher-(soundhax)) to launch the homebrew launcher on the device
 4. Launch 3DSident
 5. Verify that the following:
   + **Kernel version**: 2.50-11
@@ -60,8 +60,5 @@ This will work on New 3DS, Old 3DS, and 2DS.
 Your version number will *not* have changed in the settings.
 {: .notice--info}
 
-If you are on the version 11.0.0 (but your device is not of the JPN region), continue to [Homebrew Launcher (Browser)](homebrew-launcher-(browser)).
-{: .notice--primary}
-
-Otherwise, continue to [Homebrew Launcher (No Browser)](homebrew-launcher-(no-browser)).
+Continue to [Decrypt9 (Homebrew Launcher)](decrypt9-(homebrew-launcher)).
 {: .notice--primary}
