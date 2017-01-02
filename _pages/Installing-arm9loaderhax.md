@@ -213,7 +213,7 @@ If you have no tickets to restore, skip this section.
 
 ##### Section VIII - Restoring nim savegame
 
-This section is only needed for devices that did [9.2.0 Downgrade](9.2.0 Dowgnrade) earlier.
+This section is only needed for devices that did [9.2.0 Downgrade](9.2.0-downgrade) earlier.
 {: .notice--info}
 
 1. Open GodMode9 from arm9loaderhax by holding (Up) during boot
