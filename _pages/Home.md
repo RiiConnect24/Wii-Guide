@@ -19,7 +19,7 @@ If you have a developer ("PANDA" or "SNAKE") console, check out [devGuide](https
 
 <div class="notice--danger">{{ notice-home | markdownify }}</div>
 
-**This guide needs *your* help to seed [these](https://github.com/Plailect/Guide/archive/master.zip) ([rss](https://3ds.guide/rss.xml)) torrents!**
+**This guide needs *your* help to seed [these](https://3ds.guide/rss.xml) torrents!**
 {: .notice--info}
 
 **To use the [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) links in this guide, you will need a torrent client like [Deluge](http://dev.deluge-torrent.org/wiki/Download)**
