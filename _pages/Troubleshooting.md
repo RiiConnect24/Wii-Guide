@@ -50,7 +50,7 @@ If you are unable to boot your 3DS, please look for the section relevant to you,
 
 #### Instructions
 
-1. Copy `GodMode9.bin` from the GodMode9 `.zip` to the `/luma/payloads` folder on your SD card and rename `GodMode9.bin` in `/luma/payloads` to `up_GodMode9.bin`
+1. Copy `GodMode9.bin` from the GodMode9 `.zip` to the `/luma/payloads/` folder on your SD card and rename `GodMode9.bin` in `/luma/payloads/` to `up_GodMode9.bin`
 6. Boot holding (Up) to reboot into arm9loaderhax GodMode9
 14. Navigate to `SYSNAND CTRNAND` -> `data` -> (32 Character ID) -> `sysdata` -> `00010038`
 15. Hold down the (R) trigger, then press X on `00000000` to rename this file
@@ -69,7 +69,7 @@ This is caused by Gateway implementing a very shoddy downgrade method, which lea
 
 #### Instructions
 
-1. Copy `GodMode9.bin` from the GodMode9 `.zip` to the `/luma/payloads` folder on your SD card and rename `GodMode9.bin` in `/luma/payloads` to `up_GodMode9.bin`
+1. Copy `GodMode9.bin` from the GodMode9 `.zip` to the `/luma/payloads/` folder on your SD card and rename `GodMode9.bin` in `/luma/payloads/` to `up_GodMode9.bin`
 2. Reinsert your SD card into your 3DS
 5. Open GodMode9 from arm9loaderhax by holding (Up) during boot     
 2. Navigate to `SYSNAND CTRNAND` -> `title` -> `00040010`

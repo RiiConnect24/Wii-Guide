@@ -80,7 +80,7 @@ During this process, we also setup programs such as the following:
 13. Create a folder named `luma` on the root of your SD card
 14. Create a folder named `payloads` in the `luma` folder on your SD card
 15. Copy `Hourglass9.bin` from the Hourglass9 `.zip` to the `/luma/payloads/` folder on your SD card and rename `Hourglass9.bin` to `start_Hourglass9.bin`
-16. Copy `GodMode9.bin` from the GodMode9 `.zip` to the `/luma/payloads` folder on your SD card and rename `GodMode9.bin` to `up_GodMode9.bin`
+16. Copy `GodMode9.bin` from the GodMode9 `.zip` to the `/luma/payloads/` folder on your SD card and rename `GodMode9.bin` to `up_GodMode9.bin`
 16. Copy `aeskeydb.bin` to the `/files9/` folder on your SD card
 17. Copy `DspDump.3dsx` to the `/3ds/` folder on your SD card
 18. Copy _the contents of_ `fbi-2.4.2-injectable.zip` to the `/files9/` folder on your SD card

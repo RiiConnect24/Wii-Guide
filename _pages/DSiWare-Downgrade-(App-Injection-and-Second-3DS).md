@@ -79,7 +79,7 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 {: .notice--warning}
 
 1. Create a folder named `files9` on the root of **the source 3DS**'s SD card if it does not already exist
-2. Copy `GodMode9.bin` from the GodMode9 `.zip` to the `/luma/payloads` folder on **the source 3DS**'s' SD card and rename `GodMode9.bin` in `/luma/payloads` to `up_GodMode9.bin`
+2. Copy `GodMode9.bin` from the GodMode9 `.zip` to the `/luma/payloads/` folder on **the source 3DS**'s' SD card and rename `GodMode9.bin` in `/luma/payloads/` to `up_GodMode9.bin`
 3. Copy the `.app` from DSiWare injection `.zip` to the root of **the source 3DS**'s SD card
 4. Copy `savedata` folder from DSiWare injection `.zip` to the root of **the source 3DS**'s SD card
 4. Reinsert **the source 3DS**'s SD card
