@@ -211,22 +211,6 @@ If you have no tickets to restore, skip this section.
 8. Press (B) to decline installing tickets from CDN.
 9. Exit with the home button
 
-##### Section VIII - Restoring nim savegame
-
-This section is only needed for devices that did [9.2.0 Downgrade](9.2.0-downgrade) earlier.
-{: .notice--info}
-
-1. Open GodMode9 from arm9loaderhax by holding (Up) during boot
-2. Navigate to `SDCARD`
-3. Press (Y) on `nimsavegame.bin`
-4. Press (B) to go back to the main menu
-5. Navigate to `SYSNAND CTRNAND` -> `data` -> (32 Character ID) -> `sysdata` -> `0001002c`
-7. Press (A) on `00000000`
-8. Select "Inject data @offset"
-9. Press (A) to select the offset `00000000`
-10. Press (A) to unlock SysNAND writing, then input the key combo given
-11. Press (Start) to reboot
-
 ___
 
 If DSi / DS functionality has broken (such as DS carts or DSiWare no longer working), [follow this troubleshooting guide](troubleshooting#twl_broken)
