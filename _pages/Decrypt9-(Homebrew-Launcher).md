@@ -16,7 +16,8 @@ If you are between 11.0.0 and 11.1.0, be prepared to wait 20 minutes (New 3DS) t
 #### Instructions
 
 2. Create a folder named `files9` on the root of your SD card if it does not already exist
-3. Copy and merge the `3ds` folder from the safehax `.zip` to the root of your SD card
+3. Copy `safehax.3dsx` to the `/3ds/` folder on your SD card
+4. Copy `safehax.smdh` to the `/3ds/` folder on your SD card
 4. Copy `waithax.3dsx` to the `/3ds/` folder on your SD card
 5. Copy `svchax.3dsx` to the `/3ds/` folder on your SD card
 3. Copy `Decrypt9WIP.bin` from the Decrypt9WIP `.zip` to the root of your SD card and rename `Decrypt9WIP.bin` to `arm9.bin`
