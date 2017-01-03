@@ -27,7 +27,7 @@ If you are between 11.0.0 and 11.1.0, be prepared to wait 20 minutes (New 3DS) t
 3. Reinsert your SD card into your 3DS
 4. Enter the homebrew launcher
 5. Get kernel11 access
-  + If you are below version 11.0.0, do that by launching svchax *(should finish almost instantly; may take many tries)*
+  + If you are below version 11.0.0 or did an NFIRM downgrade earlier, do that by launching svchax *(should finish almost instantly; may take many tries)*
   + If you are between 11.0.0 and 11.1.0, do that by launching waithax *(should take between 20 minutes and an hour; this depends on device)*
 6. Exit the kernel11 exploit (either svchax or waithax)
 4. Launch safehax
