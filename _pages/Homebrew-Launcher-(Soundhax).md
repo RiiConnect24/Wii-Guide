@@ -6,7 +6,7 @@ permalink: /homebrew-launcher-(soundhax).html
 The Homebrew Launcher has many different entrypoints, or methods of launching.
 {: .notice}
 
-SoundHax is compatible with versions 9.0.0 through 11.2.0 in the EUR, JPN, and USA regions *(more regions coming soon)*.
+SoundHax is compatible with versions 9.0.0 through 11.2.0 in the EUR, JPN, KOR, and USA regions.
 {: .notice--info}
 
 #### What you need
