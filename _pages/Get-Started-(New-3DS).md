@@ -42,13 +42,8 @@ The device version can be found at the bottom right of the top screen of the Sys
     </tr>
     <tr>
       <td style="text-align: center">9.0.0</td>
-      <td style="text-align: center">11.1.0</td>
+      <td style="text-align: center">11.2.0</td>
       <td style="text-align: center" colspan="2"><a href="homebrew-launcher-(soundhax)">Homebrew Launcher (SoundHax)</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: center">11.2.0</td>
-      <td style="text-align: center">11.2.0</td>
-      <td style="text-align: center" colspan="2"><a href="nfirm-downgrade">NFIRM Downgrade</a></td>
     </tr>
   </tbody>
 </table>
