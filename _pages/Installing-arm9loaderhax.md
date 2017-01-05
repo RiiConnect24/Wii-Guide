@@ -126,22 +126,19 @@ During this process, we also setup programs such as the following:
 If, before following this guide, you already had an EmuNAND setup and would like to move the contents of your previous EmuNAND to your new SysNAND CFW, now is the time to [follow Move EmuNAND](move-emunand) instead of doing the first step in this section.
 {: .notice--info}
 
-If you backed up your NAND as part of [DSiWare Downgrade (Save Injection)](dsiware-downgrade-(save-injection)) or [Hardmod Downgrade](hardmod-downgrade), restore that NAND backup instead of `NANDmin.bin` by moving the file to `/files9/` and doing the following steps. It will be named `NAND_N3DS.bin`, `NAND_O3DS.bin`, or `backup_nand.bin`, depending on the steps you did.
-{: .notice--info}
-
-1. If you have done [2.1.0 ctrtransfer](2.1.0-ctrtransfer), restore `NANDmin.bin`:
-  + Open Hourglass9 from arm9loaderhax by holding (Start) on boot
-  + Go to "SysNAND Backup/Restore"
-  + Restore from `NANDmin.bin`
-  + Press (Start) to reboot
+1. Open Hourglass9 from arm9loaderhax by holding (Start) on boot
+2. Go to "SysNAND Backup/Restore"
+3. Restore from `NANDmin.bin`
+4. Press (Start) to reboot
   + If you get a black screen, [follow 9.2.0 ctrtransfer](9.2.0-ctrtransfer)
-1. If your backup was of a version between 3.0.0 and 4.5.0, manually download the required firmware:
+5. If your backup was of a version between 3.0.0 and 4.5.0, your console will not boot until you manually download the required firmware:
   + Download [this file](http://nus.cdn.c.shop.nintendowifi.net/ccs/download/0004013800000002/00000056) and rename it to `firmware.bin`
   + Download [this file](http://nus.cdn.c.shop.nintendowifi.net/ccs/download/0004013800000002/cetk)
   + Copy `firmware.bin` and `cetk` to the `/luma/` folder on your SD card
   + Delete both of these files after updating your 3DS
-2. Regardless of whether or not you did either of the above two steps, update your 3DS by going to System Settings, then "Other Settings", then going all the way to the right and using "System Update"
+2. Update your 3DS by going to System Settings, then "Other Settings", then going all the way to the right and using "System Update"
   + Updates while using A9LH + Luma (what you have) are safe, stop asking about it
+  + The warning about never updating a New 3DS from 2.1.0 does not apply after restoring your NAND backup.
   + If this gives you an error, set your DNS settings to "auto"
   + If this still gives you an error and your NAND is below 9.2.0, [follow 9.2.0 ctrtransfer](9.2.0-ctrtransfer)
 
