@@ -62,7 +62,7 @@ Region changing using ctrtransfer (which this method uses) seems to cause reboot
 
 6. Go to "SysNAND Options", then "CTRNAND Transfer", then "Auto CTRNAND Transfer"
 7. Select the 9.2.0 ctrtransfer image when prompted by pressing (A)
-8. **Backup SysNAND to `NANDmin.bin` when prompted by pressing (A)**
+8. If you do not already have a NAND backup, **backup SysNAND to `NANDmin.bin` when prompted by pressing (A)**
 9. Allow the transfer process to proceed automatically, this may take some time
 10. Once the transfer is complete, press Select to eject your SD card
 11. Put your SD card in your computer, then copy `NANDmin.bin` and `NANDmin.bin.sha` from the `/files9/` folder on your SD card to a safe location
