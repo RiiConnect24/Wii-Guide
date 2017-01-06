@@ -123,7 +123,7 @@ During this process, we also setup programs such as the following:
 
 ##### Section IV - Restoring the System
 
-If, before following this guide, you already had an EmuNAND setup and would like to move the contents of your previous EmuNAND to your new SysNAND CFW, now is the time to [follow Move EmuNAND](move-emunand) instead of doing the first step in this section.
+If, before following this guide, you already had an EmuNAND setup and would like to move the contents of your previous EmuNAND to your new SysNAND CFW, now is the time to [follow Move EmuNAND](move-emunand) instead of doing the first four steps in this section.
 {: .notice--info}
 
 1. Open Hourglass9 from arm9loaderhax by holding (Start) on boot
