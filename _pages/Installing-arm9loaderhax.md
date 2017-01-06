@@ -161,6 +161,7 @@ If, before following this guide, you already had an EmuNAND setup and would like
 5. Navigate to `FBI.cia` and press (A) to install
 6. Navigate to `hblauncher_loader.cia` and press (A) to install
 7. Navigate to `lumaupdater.cia` and press (A) to install
+8. Return to the SD directory with (B)
 8. Navigate to `arm9loaderhax.bin`, then press (A) on it and select the "Copy" option
 9. Return to the FBI main menu with (B)
 10. Select "CTR NAND"
