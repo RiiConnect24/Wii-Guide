@@ -185,30 +185,6 @@ If, before following this guide, you already had an EmuNAND setup and would like
     + If some games do not work properly, disable this option and try again
 14. Reinsert your SD card, then press Start to save and reboot!
 
-##### Section VII - Reinstalling Tickets
-
-This section is only needed for devices that did a ctrtransfer earlier and had to back up their tickets.
-{: .notice--info}
-
-If you followed [Move EmuNAND](move-emunand), skip this section.
-{: .notice--info}
-
-If you backed up your NAND as part of a DSiWare or Hardmod downgrade, skip this section.
-{: .notice--info}
-
-If you have no tickets to restore, skip this section.
-{: .notice--info}
-
-1. Open FBI
-2. Select "SD"
-3. Select "files9"
-4. Select "\<current directory>"
-5. Select "Install and delete all tickets"
-6. Wait. The system may appear to freeze, just give it time.
-7. Press (A) to confirm
-8. Press (B) to decline installing tickets from CDN.
-9. Exit with the home button
-
 ___
 
 If DSi / DS functionality has broken (such as DS carts or DSiWare no longer working), [follow this troubleshooting guide](troubleshooting#twl_broken)
