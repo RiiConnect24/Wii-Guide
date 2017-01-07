@@ -84,11 +84,6 @@ During this process, we also setup programs such as the following:
 16. Copy `aeskeydb.bin` to the `/files9/` folder on your SD card
 17. Copy `DspDump.3dsx` to the `/3ds/` folder on your SD card
 18. Copy _the contents of_ `fbi-2.4.2-injectable.zip` to the `/files9/` folder on your SD card
-19. Clear Home Menu's extdata by navigating to the following folder on your SD card: `/Nintendo 3DS/(32 Character ID)/(32 Character ID)/extdata/00000000/`
-    + EUR Region: Delete `00000098`
-    + JPN Region: Delete `00000082`
-    + USA Region: Delete `0000008f`
-    + KOR Region: Delete `000000A9`
 
 ##### Section II - Installing arm9loaderhax
 
