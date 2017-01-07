@@ -112,6 +112,35 @@ author:
 include:
   - .htaccess
   - _pages
+  # - _pages/af
+  # - _pages/ar
+  # - _pages/ca
+  # - _pages/zh-Hans
+  # - _pages/zh-Hant
+  # - _pages/cs
+  # - _pages/da
+  - _pages/en
+  # - _pages/fi
+  # - _pages/fr
+  # - _pages/de
+  # - _pages/el
+  # - _pages/he
+  # - _pages/hu
+  # - _pages/it
+  # - _pages/ja
+  # - _pages/ko
+  # - _pages/no
+  # - _pages/pl
+  # - _pages/pt
+  # - _pages/pt-br
+  # - _pages/ro
+  # - _pages/ru
+  # - _pages/sr
+  # - _pages/es
+  # - _pages/sv
+  # - _pages/tr
+  # - _pages/uk
+  # - _pages/vi
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
