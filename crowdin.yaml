@@ -1,3 +1,3 @@
 files:
-  - source: /_pages/en/*.md
-    translation: /_pages/%two_letters_code%/%original_file_name%
+  - source: /_pages/en_US/*.md
+    translation: /_pages/%locale_with_underscore%/%original_file_name%
