@@ -91,7 +91,8 @@ During this process, we also setup programs such as the following:
 2. Do the steps for installing arm9loaderhax on your device:
   + You should be on 2.1.0
   + Go to `http://dukesrg.github.io/2xrsa.html?arm11.bin` on your 3DS
-    + If you get an error, [follow this troubleshooting guide](troubleshooting#ts_browser)
+    + If you get the error "This service is not available in your region", use the System Settings to set your device's country to match the NAND region you installed with 2.1.0 ctrtransfer
+    + If you get another error, [follow this troubleshooting guide](troubleshooting#ts_browser)
     + If you get a glitched screen, [follow this troubleshooting guide](troubleshooting#ts_safe_a9lh_screen)
   + Press (Select) to Full Install
   + The installer will now install arm9loaderhax on your device (this is very fast)
