@@ -11,7 +11,7 @@ ref: donations
 {: .notice--success}
 
 ![Bitcoin](images/donate_64.png){: .align-center}
-17qitDUbhhd8PdEa6kxJWSqbNvg9PRS4rT
+1NcfUpBgvKq4V6KeKUTsqWmk7yYkd6jGyh
 {: .text-center}
 
 
