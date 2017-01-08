@@ -119,7 +119,9 @@ include:
   # - _pages/da_DK
   # - _pages/de_DE
   # - _pages/el_GR
+  # - _pages/en_PT
   - _pages/en_US
+  # - _pages/es_EM
   # - _pages/es_ES
   # - _pages/fi_FL
   # - _pages/fr_FR
