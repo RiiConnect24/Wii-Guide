@@ -2,7 +2,6 @@
 title: "Installing arm9loaderhax"
 permalink: /installing-arm9loaderhax.html
 lang: en_US
-lang: en_US
 ref: installing-arm9loaderhax
 ---
 
