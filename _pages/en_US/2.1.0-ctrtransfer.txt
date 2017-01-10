@@ -20,7 +20,7 @@ Your device may not show your installed games after the ctrtransfer. This is due
 **Disable the parental controls of your device before doing the 2.1.0 ctrtransfer. If you do not know the password, see [this](https://mkey.salthax.org/) site.**
 {: .notice--warning}
 
-**Performing a ctrtransfer will remove all user-installed tickets from the device until a backup is restored. Under NO CIRCUMSTANCES should you skip creating a backup!
+**Performing a ctrtransfer will remove all user-installed tickets from the device until a backup is restored. Under NO CIRCUMSTANCES should you skip creating a backup!**
 {: .notice--danger}
 
 **Never format a 2DS while on a version <6.0.0 or you will be unable to complete initial setup and will BRICK!**
