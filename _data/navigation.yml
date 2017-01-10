@@ -21,8 +21,5 @@ main:
   - title: "NAND Size"
     url: /nand-size
 
-  - title: "OTP Info"
-    url: /otp-info
-
   - title: "Site Navigation"
     url: /site-navigation
