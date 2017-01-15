@@ -1,25 +1,21 @@
-# main links links
-main:
+# translation urls should be /<locale>/<file> (i.e.: /es_ES/credits)
+# see https://github.com/Plailect/Guide/tree/l10n/_pages for locale codes
+# each language should be separated by a blank line
+
+en_US:
   - title: "FAQ"
     url: /faq
-
   - title: "Troubleshooting"
     url: /troubleshooting
-
   - title: "Donations"
     url: /donations
-
   - title: "Credits"
     url: /credits
-
   - title: "Updating A9LH"
     url: /updating-a9lh
-
   - title: "Region Changing"
     url: /region-changing
-
   - title: "NAND Size"
     url: /nand-size
-
   - title: "Site Navigation"
     url: /site-navigation
