@@ -193,12 +193,17 @@
     position: absolute;
     height: 100%;
     right: 0;
+    top: 0;
     padding: 0 0.5rem;
     border: 0;
     outline: none;
     background-color: $primary-color;
     color: #fff;
     cursor: pointer;
+  }
+
+  .nav-selector {
+    right: 3rem;
   }
 
   .visible-links {
@@ -247,6 +252,10 @@
                 transform: scaleX(1); /* reveal*/
       }
     }
+  }
+
+  .links-menu {
+    right: 3rem !important;
   }
 
   .hidden-links {

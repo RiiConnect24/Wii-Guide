@@ -2,7 +2,6 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ '/' | absolute_url }}">{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
@@ -14,7 +13,10 @@
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
-        <ul class="hidden-links hidden"></ul>
+        <ul class="hidden-links links-menu hidden"></ul>
+        <ul class="hidden-links lang-menu hidden"></ul>
+        <button class="lang-selector"><div class="langicon"><i class="fa fa-language fa-lg" aria-hidden="true"></i></div></button>
+        <button class="nav-selector" id="toggle-nav"><div class="navicon"></div></button>
       </nav>
     </div>
   </div>
