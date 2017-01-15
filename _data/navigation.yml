@@ -2,7 +2,7 @@
 # see https://github.com/Plailect/Guide/tree/l10n/_pages for locale codes
 # each language should be separated by a blank line
 
-en_US:
+main:
   - title: "FAQ"
     url: /faq
   - title: "Troubleshooting"
