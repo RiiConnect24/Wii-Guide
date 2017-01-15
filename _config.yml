@@ -209,10 +209,6 @@ defaults:
       layout: single
       author_profile: false
 
-# Outputting
-permalink: /:categories/:title/
-
-
 # Plugins
 gems:
   - jekyll-paginate
