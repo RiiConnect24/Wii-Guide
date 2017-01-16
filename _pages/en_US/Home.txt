@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Guide"
+title: "Guide" #
 lang: en
 permalink: /index.html
 header:

@@ -1,5 +1,5 @@
 ---
-title: "Donations"
+title: "Donations" #
 lang: en
 permalink: /donations.html
 layout: single-no-ads
