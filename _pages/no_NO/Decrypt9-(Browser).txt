@@ -1,0 +1,32 @@
+---
+title: "Decrypt9 (Browser)" #
+lang: en
+permalink: /decrypt9-(browser).html
+---
+
+The first thing this guide will do is get you running Decrypt9, which is a multipurpose toolkit that will allow us to install the version 2.1.0, which contains a vulnerability that is needed for further exploitation of the system.
+{: .notice}
+
+If you have already hacked your 3DS before and have a EmuNAND based CFW setup, this guide deals exclusively with SysNAND and you should follow all instructions from within or applying to SysNAND. Merk at EmuNAND og RedNAND refererer til litt forskjellige implementeringer av [det samme konseptet](http://3dbrew.org/wiki/NAND_Redirection).
+{: .notice--info}
+
+#### Det du trenger
+
+* Siste utgave av [Decrypt9WIP](https://github.com/d0k3/Decrypt9WIP/releases/)
+
+#### Instruksjoner
+
+1. Opprett en mappe kalt `files9` på roten av SD-kortet hvis den ikke allerede er der
+2. Kopier `Launcher.dat` og `Decrypt9WIP.dat` fra Decrypt9WIP `.zip` til roten av SD-kortet
+3. Sett inn SD-kortet i konsollen
+4. Åpne nettleseren og gå til en av følgende addresser
+  + `https://dukesrg.github.io/?Decrypt9WIP.dat`
+  + `http://go.gateway-3ds.com/`
+  + `http://www.reboot.ms/3ds/load.html?Launcher.dat`
+  + `http://dukesrg.dynu.net/3ds/rop?GW17567.dat&Launcher.dat`
+  + Make sure to try each URL if the first one doesn't work (some versions cannot use the first one, and some versions cannot use the last three)
+  + If you get an error, [follow this troubleshooting guide](troubleshooting#ts_browser)
+5. If the exploit was successful, you will have booted into Decrypt9
+
+Fortsett til [2.1.0 ctrtransfer](2.1.0-ctrtransfer).
+{: .notice--primary}
