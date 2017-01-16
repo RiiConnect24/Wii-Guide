@@ -5,18 +5,21 @@
         <ul class="visible-links">
           {% assign split_path = page.path | split: "/" %}
           {% assign locale = split_path[1] %}
-          {% if locale == 'en_US' %}
-            <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ site.url }}/">{{ site.title }}</a></li>
-          {% else %}
-            <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ site.url }}/{{ locale }}/">{{ site.title }}</a></li>
-          {% endif %}
           {% for link in site.data.navigation[locale].main %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
+            {% if link.size == 1 %}
+              {% if locale == 'en_US' %}
+                <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ site.url }}/">{{ link.title }}</a></li>
+              {% else %}
+                <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ site.url }}/{{ locale }}/">{{ link.title }}</a></li>
+              {% endif %}
             {% else %}
-              {% assign domain = site.url | append: site.baseurl %}
+              {% if link.url contains 'http' %}
+                {% assign domain = '' %}
+              {% else %}
+                {% assign domain = site.url | append: site.baseurl %}
+              {% endif %}
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links links-menu hidden"></ul>
