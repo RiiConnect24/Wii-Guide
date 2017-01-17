@@ -5,22 +5,21 @@
         <ul class="visible-links">
           {% assign split_path = page.path | split: "/" %}
           {% assign locale = split_path[1] %}
-          {% for link in site.data.navigation[locale].main %}
-            {% if link.size == 1 %}
-              {% if locale == 'en_US' %}
-                <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ site.url }}/">{{ link.title }}</a></li>
-              {% else %}
-                <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ site.url }}/{{ locale }}/">{{ link.title }}</a></li>
-              {% endif %}
-            {% else %}
-              {% if link.url contains 'http' %}
-                {% assign domain = '' %}
-              {% else %}
-                {% assign domain = site.url | append: site.baseurl %}
-              {% endif %}
-              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-            {% endif %}
-          {% endfor %}
+          {% assign titles = site.data.navigation[locale].main %}
+          {% if locale == 'en_US' %}
+            {% assign locale_var = '' %}
+          {% else %}
+            {% assign locale_var = locale | prepend:'/' | append:'/' %}
+          {% endif %}
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ domain }}{{ locale_var }}">{{ titles[0].title }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}faq">{{ titles[1].title }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}troubleshooting">{{ titles[2].title }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}donations">{{ titles[3].title }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}credits">{{ titles[4].title }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}updating-a9lh">{{ titles[5].title }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}region-changing">{{ titles[6].title }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}nand-size">{{ titles[7].title }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}site-navigation">{{ titles[8].title }}</a></li>
         </ul>
         <ul class="hidden-links links-menu hidden"></ul>
         <ul class="hidden-links lang-menu hidden">
