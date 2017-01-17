@@ -1,6 +1,6 @@
 ---
 title: "FAQ" #
-lang: en
+lang: ru
 permalink: /ru_RU/faq.html
 ---
 
@@ -17,7 +17,7 @@ permalink: /ru_RU/faq.html
 **A:** Ознакомьтесь с [этим ресурсом](https://gbatemp.net/threads/425743/) (английский)
 
 <a name="faq_need" />**Q:** *What do I need to do this guide?*    
-**A:** This guide can be completely done with free software and (if your device has no browser) a compatible game   
+**A:** This guide can be completely done with free software
 
 <a name="faq_risky" />**Q:** *Насколько опасно взламывать консоль?*    
 **A:** На данный момент практически невозможно испортить консоль, если не игнорировать все меры предосторожности.
@@ -40,17 +40,17 @@ permalink: /ru_RU/faq.html
 <a name="faq_ge128gbsd" />**Q:** *Могу ли я использовать SD-карты размером 128 ГБ (или больше)?*    
 **A:** Yes, but some users have reported slowdowns when using such large sizes. Стоит уточнить, что нельзя форматировать карту в exFAT; необходимо использовать FAT32.
 
-<a name="faq_movesd" />**Q:** *How do I move to a new SD card at the end of this?*    
+<a name="faq_movesd" />**Q:** *Как мне перенести данные на новую SD-карту?*    
 **A:** Просто скопируйте все файлы на новую SD-карту.
 
 <a name="faq_NNID" />**Q:** *Могу ли я сохранить свой NNID?*    
 **A:** If you start with an NNID and follow every step, you will end up keeping your NNID at the end.
 
-<a name="faq_systransfer" />**Q:** *What about System Transfers?*    
+<a name="faq_systransfer" />**Q:** *Работает ли Передача Данных (System Transfer)?*    
 **A:** Once you have completed the guide, you can system transfer to and from an arm9loaderhax'd 3DS or 2DS exactly like you would a regular stock console or EmuNAND (you will lose any non-legitimate games/themes/DLC in the transfer; saves will stay even for games that are lost).
 
-<a name="faq_nopc" />**Q:** *Can I do this without a computer (e.g. an Android phone)?*    
+<a name="faq_nopc" />**Q:** *Могу ли я обойтись без использования компьютера (например, использовать телефон на Android)?*    
 **A:** Все, что вам понадобится, это возможность копировать файлы на SD-карту!
 
-<a name="faq_problem" />**Q:** *Help! Что-то пошло не так, и консоль больше не запускается...*    
-**A:** Please look at the [troubleshooting guide](troubleshooting).
+<a name="faq_problem" />**Q:** *Помогите! Что-то пошло не так, и консоль больше не запускается...*    
+**A:** Ознакомьтесь с разделом [проблемы и их решения](troubleshooting).

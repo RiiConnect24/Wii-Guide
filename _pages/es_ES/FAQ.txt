@@ -14,10 +14,10 @@ permalink: /es_ES/faq.html
 **R:** No. arm9loaderhax es un método superior de carga de hax que se ejecuta al iniciarse la consola y proporciona la posibilidad de cosas como un verdadero custom firmware.
 
 <a name="faq_gatewaysaves" />**P:** *Cómo muevo partidas de una configuración Gateway existente a juegos instalados en la consola?*    
-**R:** Lee [esto](https://gbatemp.net/threads/425743/)
+**R:** Lee [esto](https://gbatemp.net/threads/425743/) (*en inglés*)
 
 <a name="faq_need" />**P:** *¿Qué necesito para seguir esta guía?*    
-**R:** Esta guía puede realizarse con software gratuito y (si tu consola no tiene navegador) con un juego compatible   
+**A:** Esta guía puede realizarse completamente con software gratuito
 
 <a name="faq_risky" />**P:** *¿Qué tan arriesgado es hackear mi consola?*    
 **R:** Dejar inutilizable la consola es *básicamente* imposible a no ser que ignores o te saltes las medidas de seguridad.
@@ -32,7 +32,7 @@ permalink: /es_ES/faq.html
 **R:** Si. Es seguro, no vuelvas a preguntarlo.
 
 <a name="faq_support" />**P:** *¿A dónde debería ir para pedir ayuda?*    
-**R:** Puedes pedir ayuda en [#3dshacks en Rizon IRC](https://www.reddit.com/r/3dshacks/wiki/irc) o [3DS Hacking en Discord](https://discord.gg/MWxPgEp) (ámbos en inglés).  
+**R:** Puedes pedir ayuda en [#3dshacks en Rizon IRC](https://www.reddit.com/r/3dshacks/wiki/irc) o [3DS Hacking en Discord](https://discord.gg/MWxPgEp) (*ámbos en inglés*).  
 
 <a name="faq_le4gbsd" />**P:** *¿Puedo hacer esto con una tarjeta SD de 4GB (o más pequeña)?*    
 **R:** Gracias al nuevo método CTRNAND, ¡sí puedes!
@@ -52,5 +52,5 @@ permalink: /es_ES/faq.html
 <a name="faq_nopc" />**P:** *¿Puedo hacer esto sin una computadora? (ej. un teléfono Android)?*    
 **R:** ¡Lo único que necesitas es tener la opción de meter archivos en una tarjeta SD!
 
-<a name="faq_problem" />**P:** *¡Ayuda! Algo malo sucedió y ahora no puedo arrancar...*    
+<a name="faq_problem" />**P:** *¡Ayuda! Algo malo sucedió y ahora mi consola no inicia...*    
 **R:** Por favor, mira la [guía de resolución de problemas](troubleshooting).
