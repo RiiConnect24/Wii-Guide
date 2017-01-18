@@ -10,7 +10,7 @@ header:
   caption:
 excerpt: "利用arm9loaderhax实现3DS运行自制固件的完整教程。" #
 lang: zh_CN
-permalink: /index.html
+permalink: /zh_CN/index.html
 ---
 
 {% capture notice-home %}
