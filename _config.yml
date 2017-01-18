@@ -158,7 +158,7 @@ exclude: [
   _pages/no_NO,
   _pages/nl_NL,
   _pages/pl_PL,
-  _pages/pt_BR,
+  # _pages/pt_BR,
   _pages/pt_PT,
   _pages/ro_RO,
   _pages/ru_RU,
@@ -167,7 +167,7 @@ exclude: [
   _pages/tr_TR,
   _pages/uk_UA,
   _pages/vi_VN,
-  _pages/zh_CN,
+  # _pages/zh_CN,
   # _pages/zh_TW,
 ]
 
