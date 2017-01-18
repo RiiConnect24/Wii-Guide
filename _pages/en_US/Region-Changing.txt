@@ -40,7 +40,8 @@ Region changing using ctrtransfer (which this method uses) seems to cause reboot
 
 #### Instructions
 
-**Some consoles have a `SecureInfo_B` instead of `SecureInfo_A`; this is fine and you should use `SecureInfo_B` for the relevant steps.**    
+**Some consoles have a `SecureInfo_B` instead of `SecureInfo_A`; this is fine and you should use `SecureInfo_B` for the relevant steps.**   
+{: .notice--info} 
 
 ##### Section I - Prep work
 
