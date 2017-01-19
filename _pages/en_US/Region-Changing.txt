@@ -53,7 +53,6 @@ Region changing using ctrtransfer (which this method uses) seems to cause reboot
 ##### Section II - Backup tickets and config save
 
 1. Press (Start) then hold (X) to reboot into arm9loaderhax Decrypt9     
-2. Hover over Decrypt9WIP, then press (A) to launch it   
 3. Go to "Ticket/Titlekey Options", then select "Ticket Dump (SysNAND)"
 4. Press (Select) to eject your SD card, then put it in your computer
 5. Delete all `.tik` files in the `/files9/` folder that **do not** start with "00-"
@@ -122,7 +121,6 @@ Region changing using ctrtransfer (which this method uses) seems to cause reboot
 ##### Section VII - Restore config save
 
 1. Press (Start) then hold (X) to reboot into arm9loaderhax Decrypt9   
-2. Hover over Decrypt9WIP, then press (A) to launch it   
 2. Go to "SysNAND Options", then "System Save Inject", then select "Inject configsave.bin"
 
 Old 3DSs / 2DSs may need to format (using TinyFormat or the System Settings) to play extended memory mode games (such as Monster Hunter, Super Smash Bros, or Pokemon Sun/Moon).
