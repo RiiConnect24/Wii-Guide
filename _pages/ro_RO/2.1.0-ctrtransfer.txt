@@ -7,7 +7,7 @@ permalink: /ro_RO/2.1.0-ctrtransfer.html
 Dacă faceți downgrade la 2.1.0 pe un 2DS sau New 3DS și ați lăsat Comunicațiile Wireless închise, le puteți reporni prin scoaterea bateriei pentru câteva secunde și apoi pornind din nou consola.
 {: .notice--info}
 
-If you've been using the New 3DS's microSD Management to transfer files to your SD card, this will no longer work on 2.1.0. Ensure you have a microSD card reader available before proceeding.
+Dacă ați folosit funcția microSD Management a New 3DS pentru a transfera fișiere pe cardul SD, acest lucru nu va mai funcționa pe 2.1.0. Asigurațivă că aveți un cititor de carduri SD disponibil înainte de a continua.
 {: .notice--info}
 
 Este posibil ca dispozitivul dumneavoastră să nu mai afișeze jocurile instalate după ctrtransfer. Acest lucru este datorat faptului ca tichetele sunt șterse în timpul ctrtransfer-ului. Făcând un backup în prealabil, acestea vor fi restaurate la sfârșitul ghidului.
@@ -19,7 +19,7 @@ Este posibil ca dispozitivul dumneavoastră să nu mai afișeze jocurile instala
 **Dezactivați controlul parental de pe dispozitivul dumneavoastră înainte de a realiza ctrtransfer-ul la 2.1.0. Dacă nu vă amintiți parola, mergeți pe [acest](https://mkey.salthax.org/) site.**
 {: .notice--warning}
 
-**Prin efectuarea unui ctrtransfer, toate tichetele de pe dispozitiv vor dispărea până când un backup este restaurat. SUB NICIO FORMA nu săriți peste crearea unui backup!**
+**Prin efectuarea unui ctrtransfer, toate tichetele de pe dispozitiv vor dispărea până când un backup este restaurat. SUB NICIO FORMĂ nu săriți peste crearea unui backup!**
 {: .notice--danger}
 
 **Niciodată să nu formatați un 2DS pe o versiune <6.0.0, fiind imposibil să faceți configurarea inițială și îl veți BRICKUI!**
@@ -27,6 +27,15 @@ Este posibil ca dispozitivul dumneavoastră să nu mai afișeze jocurile instala
 
 ** Niciodată să nu updatați un New 3DS ce rulează 2.1.0 (o versiune original făcută doar pentru Old 3DS) sau veți BRICKUI! Este OBLIGATORIU să restaurați un NAND backup sau ctrtransfer pe un firmware standard pentru New 3DS înainte!**
 {: .notice--danger}
+
+{% capture notice %}
+**Punând un New 3DS pe 2.1.0 în modul sleep este cunoscut să cauzeze un brick IRECUPERABIL!**
+**Asta se va întâmpla doar când închideți clapeta _cât timp dispozitivul este pornit_; nu se aplică dacă închideți dispozitivul.**
+**Dispozitivul intră în modul sleep, atunci când capacul este închis. Nu este pe un cronometru sau orice altceva de genul.**
+**O dată ce sunteți pe 2.1.0, ar trebuii să continuați fără întârzieri pentru a evita orice posibilitate ca acest lucru să se întâmple!**
+{% endcapture %}
+
+<div class="notice--danger">{{ notice | markdownify }}</div>
 
 #### Prezentarea pașilor
 
@@ -40,9 +49,9 @@ Acest lucru se realizează prin [instalarea unei imagini ctrtransfer gata făcut
 * Trebuie să aveți Decrypt9 pornit
 * Imaginea ctrtransfer 2.1.0 pentru dispozitivul și regiunea dumneavoastră     
 *(dacă dispozitivul dumneavoastră nu este din una dintre aceste regiuni, alegeți una)*:
-  +    [New 3DS sau Old 3DS sau 2DS 2.1.0 - EUR - ctrtransfer](magnet:?xt=urn:btih:89acc9c1b488b8b38251de0ddf07975d6bd354a1&dn=2.1.0-4E%5Fctrtransfer%5Fo3ds.zip&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce)     
-  +    [New 3DS sau Old 3DS sau 2DS 2.1.0 - JPN - ctrtransfer](magnet:?xt=urn:btih:3dbb9c9c85a33c6242f424dcbaebcacdd8a5912b&dn=2.1.0-4J%5Fctrtransfer%5Fo3ds.zip&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce)     
-  +    [New 3DS sau Old 3DS sau 2DS 2.1.0 - USA - ctrtransfer](magnet:?xt=urn:btih:1609ce9ee7b0ed9b6dea0b3e7cca4fc52dad6ff4&dn=2.1.0-4U%5Fctrtransfer%5Fo3ds.zip&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce)
+  +    <i class="fa fa-magnet" aria-hidden="true" title="Acesta este un link magnet. Folosiți un client de torente pentru a descărca acest fișier."></i> - [New 3DS or Old 3DS or 2DS 2.1.0 - EUR - ctrtransfer](magnet:?xt=urn:btih:89acc9c1b488b8b38251de0ddf07975d6bd354a1&dn=2.1.0-4E%5Fctrtransfer%5Fo3ds.zip&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce)
+  +    <i class="fa fa-magnet" aria-hidden="true" title="Acesta este un link magnet. Folosiți un client de torente pentru a descărca acest fișier."></i> - [New 3DS or Old 3DS or 2DS 2.1.0 - JPN - ctrtransfer](magnet:?xt=urn:btih:3dbb9c9c85a33c6242f424dcbaebcacdd8a5912b&dn=2.1.0-4J%5Fctrtransfer%5Fo3ds.zip&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce)     
+  +    <i class="fa fa-magnet" aria-hidden="true" title="Acesta este un link magnet. Folosiți un client de torente pentru a descărca acest fișier."></i> - [New 3DS or Old 3DS or 2DS 2.1.0 - USA - ctrtransfer](magnet:?xt=urn:btih:1609ce9ee7b0ed9b6dea0b3e7cca4fc52dad6ff4&dn=2.1.0-4U%5Fctrtransfer%5Fo3ds.zip&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce)
 
 #### Instrucţiuni
 
@@ -67,11 +76,11 @@ Trebuie să fiți în Decrypt9 pentru a urma acești pași.
 {: .notice--danger}
 
 1. Mergeți în "SysNAND Options", după în "CTRNAND Transfer", apoi în "Auto CTRNAND Transfer"
-2. Input the key combo given, then select the 2.1.0 ctrtransfer image when prompted by pressing (A)
+2. Introduceți combinația de taste care vi se cere, și apoi selectați imaginea de ctrtransfer 2.1.0 când vă este cerută apăsând (A)
 3. Dacă nu aveți deja un backup NAND, **faceți backup la SysNAND în 'NANDmin.bin' când vi se solicita apăsând (A)**
   + ** Este NECESAR să aveți un backup al NANDului dispozitivului dumneavoastră
   + **Sărind peste acest backup va rezulta în PIERDEREA tuturor jocurilor instalate și a salvărilor acestora!**
-4. Allow the transfer process to proceed automatically, this will take some time
+4. Lăsăți transferul să continue automat, acest lucru va dura un pic
 5. Odată ce transferul este complet, apăsați (B) pentru a vă întoarce
 6. Apăsați (Select) pentru a scoate cardul SD
 7. Ștergeți imaginea '.bin' și '.bin.sha' ale imaginii ctrtransfer 2.1.0 din folderul '/files9/' de pe cardul SD
@@ -91,8 +100,8 @@ Pornirea inițială a 2.1.0 poate dura putin mai mult decât pornirea obișnuit�
 
 {% capture notice %}
 **Punând un New 3DS pe 2.1.0 în modul sleep este cunoscut să cauzeze un brick IRECUPERABIL!**
-**Acesta se va întâmpla doar când închideți clapeta cât timp dispozitivul este pornit; nu se aplica dacă închideți dispozitivul.**
-**Dispozitivul intra în modul sleep doar când clapeta este închisă. Nu este pe un cronometru sau orice altceva de genul.**
+**Asta se va întâmpla doar când închideți clapeta _cât timp dispozitivul este pornit_; nu se aplică dacă închideți dispozitivul.**
+**Dispozitivul intră în modul sleep, atunci când capacul este închis. Nu este pe un cronometru sau orice altceva de genul.**
 **Ar trebui să continuați fără întârzieri pentru a evita posibilitatea ca acesta să se întâmple!**
 {% endcapture %}
 
