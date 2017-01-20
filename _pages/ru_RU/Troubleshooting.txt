@@ -4,7 +4,7 @@ lang: ru
 permalink: /ru_RU/troubleshooting.html
 ---
 
-If you are unable to boot your 3DS, please look for the section relevant to you, and follow the instructions. Once a solution works for you, you can proceed on with the main guide
+Если Ваша приставка не загружается, найдите раздел, соответствующий вашей проблеме и следуйте его инструкциям. После решения возникшей проблемы, вернитесь к основному руководству
 (Этот раздел весьма обширный, воспользуйтесь Ctrl+F для поиска своей проблемы)
 {: .notice--primary}
 
@@ -13,9 +13,9 @@ If you are unable to boot your 3DS, please look for the section relevant to you,
 
 ## <a name="twl_broken" />DSi / DS игры не работают после завершения руководства
 
-#### Что нам понадобится
+#### Что понадобится
 
-* The TWL_FIRM `.cia` for your device
+* TWL_FIRM `.cia`, соответствующие вашему устройству
     + [`New_3DS TWL_FIRM - v9936.cia`](magnet:?xt=urn:btih:eab8558c97b18b1f329a2bfcc3c899b84c082a27&dn=New%5F3DS%20TWL%5FFIRM%20-%20v9936.cia&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce)
     + [`Old_3DS TWL_FIRM - v8817.cia`](magnet:?xt=urn:btih:17511eadb6e6f3ff22d04f90644e37bd2d96ca43&dn=Old%5F3DS%20TWL%5FFIRM%20-%20v8817.cia&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce)
 * [`TWL Version Data - v0.cia`](magnet:?xt=urn:btih:4a106681407fede5de95cc8bda635432481f6b5d&dn=TWL%20Version%20Data%20-%20v0.cia&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce)
@@ -34,7 +34,7 @@ If you are unable to boot your 3DS, please look for the section relevant to you,
 5. Скопируйте `Nintendo DS Cart Whitelist - v11264.cia` в папку `/cias/` на SD-карте
 6. Скопируйте `New_3DS TWL_FIRM - v9936.cia`  или `Old_3DS TWL_FIRM - v8817.cia` в папку `/cias/` на SD-карте
 
-##### Section II - Installing titles
+##### Часть II - Установка
 
 1. Запустите FBI
 2. Выберите "SD"
@@ -45,14 +45,14 @@ If you are unable to boot your 3DS, please look for the section relevant to you,
 
 ## <a name="rm_nnid" />Удаление NNID без форматирования устройства
 
-#### Что нам понадобится
+#### Что понадобится
 
 * Свежая версия [GodMode9](https://github.com/d0k3/GodMode9/releases/)
 
 #### Инструкция
 
-1. Copy `GodMode9.bin` from the GodMode9 `.zip` to the `/luma/payloads/` folder on your SD card and rename `GodMode9.bin` in `/luma/payloads/` to `up_GodMode9.bin`
-2. Boot holding (Up) to reboot into arm9loaderhax GodMode9
+1. Скопируйте `GodMode9.bin` из `.zip-архива` GodMode9 в директорию `/luma/payloads/` на SD-карте и переименуйте `GodMode9.bin` в `up_GodMode9.bin`
+2. Перезагрузите приставку, удерживая (Вверх), чтобы запустить GodMode9
 3. Перейдите в `SYSNAND CTRNAND` -> `data` -> (32-значный ID) -> `sysdata` -> `00010038`
 4. Зажмите (R), затем нажмите (X) на файле `00000000`, чтобы переименовать его
 5. Нажмите (Вверх), чтобы переименовать файл в `10000000`
@@ -64,14 +64,14 @@ If you are unable to boot your 3DS, please look for the section relevant to you,
 ## <a name="gw_fbi" />Cannot inject H&S on Gateway downgraded device
 This is caused by Gateway implementing a very shoddy downgrade method, which leaves two versions of each app on the system. One of them is unused, but it confuses Decrypt9, causing it to inject into the wrong one.
 
-#### Что нам понадобится
+#### Что понадобится
 
 * Свежая версия [GodMode9](https://github.com/d0k3/GodMode9/releases/)
 
 #### Инструкция
 
-1. Copy `GodMode9.bin` from the GodMode9 `.zip` to the `/luma/payloads/` folder on your SD card and rename `GodMode9.bin` in `/luma/payloads/` to `up_GodMode9.bin`
-2. Reinsert your SD card into your 3DS
+1. Скопируйте `GodMode9.bin` из `.zip-архива` GodMode9 в директорию `/luma/payloads/` на SD-карте и переименуйте `GodMode9.bin` в `up_GodMode9.bin`
+2. Вставьте SD-карту обратно в 3DS
 3. Запустите GodMode9 из под arm9loaderhax, удерживая (Вверх) во время загрузки     
 4. Перейдите в `SYSNAND CTRNAND` -> `title` -> `00040010`
 5. Перейдите в папку, соответствующую вашей приставке и региону:
@@ -82,14 +82,14 @@ This is caused by Gateway implementing a very shoddy downgrade method, which lea
   + **New 3DS JPN**: `20020300` -> `content`
   + **New 3DS USA**: `20021300` -> `content`
 6. Notice that there are two sets of app and tmd files, one set with uppercase extensions (`.TMD` and `.APP`), and one set with lowercase extensions (`.tmd` and `.app`)
-7. While holding the (R) trigger, press (Y) to create a new directory
+7. Удерживая (R), нажмите (Y), чтобы создать новую папку
 8. Press (A) to confirm the name `newdir` (it doesn't matter what it's called)
 9. Нажмите (A), чтобы разрешить запись в SysNAND и введите указанную комбинацию кнопок
 10. Press the (L) trigger on each of the uppercase extension files (`.TMD` and `.APP`) to mark them
-11. Press (Y) to copy the files
-12. Navigate to `newdir`
-13. Press (Y) to paste the files
-14. Select "Move path(s)"
+11. Нажмите (Y), чтобы скопировать эти файлы
+12. Перейдите в папку `newdir`
+13. Нажмите (Y), чтобы вставить скопированные ранее файлы
+14. Выберите "Move path(s)"
 15. The uppercase extension files will have been moved to the `newdir` directory
 16. Нажмите (Start) для перезагрузки
 17. Return to [Installing arm9loaderhax](installing-arm9loaderhax) and retry the FBI injection
@@ -98,9 +98,9 @@ This is caused by Gateway implementing a very shoddy downgrade method, which lea
 ## <a name="ts_browser" />A browser based exploit is not working
 Browser based exploits (such as browserhax or 2xrsa) are often unstable and crash frequently, but they can sometimes be fixed by doing the following steps
 
-1. Open the browser, then open the browser settings
-2. Scroll to the bottom and Initialize Savedata (it also may be called Clear All Save Data)
-3. Try the exploit again
+1. Откройте браузер, затем настройки браузера (settings)
+2. Прокрутите до конца вниз и выберите "Удалить сохр. данные" (Initialize Savedata/Clear All Save Data)
+3. Попробуй запустить эксплойт еще раз
 
 ## <a name="ts_safe_a9lh" />System boots directly SafeA9LHInstaller
 You copied the wrong `arm9loaderhax.bin` file to your SD card (you were only supposed to copy the `3ds` folder and `SafeA9LHInstaller.dat` file from the SafeA9LHInstaller zip)    
@@ -119,49 +119,49 @@ This happens occasionally, but the reason is unknown. The buttons will still wor
 
 ## <a name="ts_d9_backup" />Decrypt9 or Hourglass9 won't restore / can't find my NAND backup
 
-1. Make sure you do not have any folder named "Decrypt9" on **the root** of your SD card
+1. Убедитесь, что в **корне** SD-карты нет папки "Decrypt9"
 2. Try checking your SD card for errors using [H2testw (Windows)](h2testw-(windows)), [F3 (Linux)](f3-(linux)), or [F3X (Mac)](f3x-(mac))
 3. Try backing up your SD card files, then formatting it and copying them back
 4. Try a different SD card
 
-## <a name="ts_sys_down" />Black screen on SysNAND boot
+## <a name="ts_sys_down" />Черный экран при загрузке SysNAND
 
-1. Try booting with your SD card out, and then reinserting it after booting.
-    1. Power off your 3DS by holding down the power button.
-    2. Take out the SD card.
-    3. Power on the 3DS.
-    4. When the home menu appears, reinsert your SD card.
+1. Попробуйте загрузиться без SD-карты, а затем верните ее в консоль.
+    1. Отключите приставку, зажав кнопку питания.
+    2. Вытащите SD-карту.
+    3. Включите 3DS.
+    4. Когда появится меню Home, вставьте назад SD-карту.
     5. If this worked, you should Clear Home Menu's extdata by navigating to the following folder on your SD card: `/Nintendo 3DS/(32 Character ID)/(32 Character ID)/extdata/00000000/`
-        + EUR Region: Delete `00000098`
-        + JPN Region: Delete `00000082`
-        + USA Region: Delete `0000008f`
-        + KOR Region: Delete `000000A9`
+        + EUR регион: Удалите `00000098`
+        + JPN регион: Удалите `00000082`
+        + USA регион: Удалите `0000008f`
+        + KOR регион: Удалите `000000A9`
 2. Try booting without any cartridges inserted (including flashcarts)
 3. If you have a hardmod and a NAND backup, flash the backup back to SysNAND.
 4. Try booting into recovery mode and updating your system.    
     *This probably will not work for an Old 3DS downgraded to 2.1.0*    
     **This will BRICK a New 3DS downgraded to 2.1.0**
-    1. Power off your 3DS by holding down the power button.
-    2. Hold (L)+(R)+(A)+(Up).
-    3. Power on the 3DS.
+    1. Отключите приставку, зажав кнопку питания.
+    2. Зажмите (L)+(R)+(A)+(Вверх).
+    3. Включите 3DS.
     4. If you enter safe mode, update your 3DS *only if you have an entrypoint for the latest FW version and it is possible to downgrade from it* and attempt the downgrade again.
 5. Your 3DS may be bricked. For support, ask for help at [#3dshacks on Rizon IRC](https://www.reddit.com/r/3dshacks/wiki/irc) or [3DS Hacking on Discord](https://discord.gg/MWxPgEp).
 
 ## <a name="ts_sys_a9lh" />Black screen on SysNAND boot after installing arm9loaderhax
 
-1. Ensure you have a working payload.
-    1. Check for the existence of `arm9loaderhax.bin` in the root of your SD card.
-2. Try resetting Luma's config and fix options
-    1. Delete `/luma/config.bin` from your SD card
+1. Убедитесь, что у вас установлен рабочий загрузчик
+    1. Проверьте, есть ли в корне SD-карты файл `arm9loaderhax.bin`.
+2. Попробуйте сбросить настройки Luma3DS
+    1. Удалите файл `/luma/config.bin` с SD-карты
     2. Set your options when it boots
-3. Test booting Hourglass9
+3. Попробуйте запустить Hourglass9
     1. On Luma3DS, hold (Start) on boot
-4. Try deleting home menu's extdata
-    1. Clear Home Menu's extdata by navigating to the following folder on your SD card: `/Nintendo 3DS/(32 Character ID)/(32 Character ID)/extdata/00000000/`
-        + EUR Region: Delete `00000098`
-        + JPN Region: Delete `00000082`
-        + USA Region: Delete `0000008f`
-        + KOR Region: Delete `000000A9`
+4. Попробуйте отчистить данные меню Home
+    1. Чтобы отчистить данные меню Home перейдите в папку `/Nintendo 3DS/(32 Character ID)/(32 Character ID)/extdata/00000000/`на SD-карте и удалите папку, соответствующую вашему региону
+        + EUR регион: Удалите `00000098`
+        + JPN регион: Удалите `00000082`
+        + USA регион: Удалите `0000008f`
+        + KOR регион: Удалите `000000A9`
 5. Try booting without any cartridges inserted (including flashcarts)
 6. Если вы понижали прошивку через Gateway, то убедитесь, что у вас установлена самая последняя версия Luma3DS (не ниже 6.2.3)
 7. Если версия вашего NAND между 3.0.0 и 4.5.0, проделайте следующие действия:
@@ -169,11 +169,11 @@ This happens occasionally, but the reason is unknown. The buttons will still wor
     + Скачайте [этот файл](http://nus.cdn.c.shop.nintendowifi.net/ccs/download/0004013800000002/00000056) и переименуйте его в `firmware.bin`
     + Скачайте [этот файл](http://nus.cdn.c.shop.nintendowifi.net/ccs/download/0004013800000002/cetk)
     + Скопируйте `firmware.bin` и `cetk` в папку `/luma/` на SD-карте
-    + Delete both of these files after updating your 3DS
-8. Try following [9.2.0 ctrtransfer](9.2.0-ctrtransfer)
+    + После обновления прошивки 3DS удалите оба этих файла
+8. Попробуйте выполнить [9.2.0 ctrtransfer](9.2.0-ctrtransfer)
 9. Ask for help at [#3dshacks on Rizon IRC](https://www.reddit.com/r/3dshacks/wiki/irc) or [3DS Hacking on Discord](https://discord.gg/MWxPgEp).
 
-## <a name="ts_sys_blue" />Blue screen on boot (bootrom error)
+## <a name="ts_sys_blue" />Голубой экран при загрузке (bootrom error)
 
-1. Your 3DS is bricked
-2. You will need to get a [hardmod](https://gbatemp.net/threads/414498/) or repair / replace the device
+1. У вас брик
+2. Для восстановления вам понадобится [хардмод](https://gbatemp.net/threads/414498/) или ремонт / замена устройства

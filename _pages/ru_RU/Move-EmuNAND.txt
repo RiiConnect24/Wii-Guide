@@ -27,23 +27,23 @@ permalink: /ru_RU/move-emunand.html
 5. Нажмите (B) для возврата в главное меню
 6. Перейдите в "SysNAND Backup/Restore", затем выберите "SysNAND Restore (keep a9lh)", чтобы восстановить `NANDmin_emu.bin` в SysNAND
 7. Нажмите (Select), чтобы извлечь SD-карту
-8. Put your SD card in your computer, then copy `NANDmin_emu.bin` and `NANDmin_emu.bin.sha` from the `/files9/` folder on your SD card to a safe location
-  + Make backups in multiple locations
+8. Подключите SD-карту к компьютеру, затем скопируйте в безопасное место файлы `NANDmin_emu.bin` и `NANDmin_emu.bin.sha` из папки `/files9/` в корне SD-карты
+  + Сделайте несколько резервных копий в различных местах
   + This backup will save you from a brick if anything goes wrong in the future
-  + **Your backup should match one of the sizes on [this](nand-size) page; if it does not, you should delete it and make a new one!**
+  +**Ваш бэкап должен совпадать с одним из приведенных [здесь](nand-size). Если это не так - удалите его и попробуйте сделать заново **
 9. После копирования удалите `NANDmin_emu.bin` и `NANDmin_emu.bin.sha` из папки `/files9/`
-10. **Backup every file on your SD card to a folder on your computer; all files will be deleted in the following steps**
+10. **Сделайте резервную копию всех файлов на SD-карте, поскольку в следующих шагах карта будет отформатирована.**
 11. Вставьте SD-карту обратно в приставку
 12. Press (Start) to reboot while holding (Up) to open GodMode9
-13. Press the (Home) button to bring up the action menu
+13. Нажмите кнопку (Home) для вызова меню
 14. Выберите "SD format menu"
 15. Нажмите (A) для подтверждения
 16. Выберите "No EmuNAND"
 17. Выберите "Auto"
 18. Введите указанную последовательность кнопок для подтверждения
 19. Удерживая (R) нажмите (B) для того, чтобы извлечь SD-карту
-20. Put your SD card in your computer, then copy all your files back into it
-  + Ensure you replace the `arm9loaderhax.bin` file on the SD card with the one from your backup
+20. Вставьте SD-карту в компьютер и скопируйте на нее файлы, которые вы сохранили несколько шагов назад
+  + Убедитесь, что вы заменили `arm9loaderhax.bin`его версией из сохранных ранее файлов
 21. Вставьте SD-карту обратно в приставку
 22. Press (A) to remount your SD card
 23. Нажмите (Start) для перезагрузки!
