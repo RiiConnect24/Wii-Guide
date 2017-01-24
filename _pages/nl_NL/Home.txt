@@ -18,7 +18,7 @@ permalink: /index.html
 Als je een ontwikkelaars console hebt ("PANDA" of "SNAKE"), zie dan de [devGuide](https://dev.3ds.guide)**
 {% endcapture %}
 
-<div class="notice--danger">{ notice-home | markdownify }</div>
+<div class="notice--danger">{{ notice-home | markdownify }}</div>
 
 **Om een [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) link te gebruiken uit de handleiding, moet je een torrent client hebben zoals [Deluge](http://dev.deluge-torrent.org/wiki/Download)**
 {: .notice--info}

@@ -61,7 +61,7 @@ Tijdens dit proces, stellen wij ook programma's in als volgt:
 ** Als u denkt dat uw SD-kaart is beschadigd, Controleer uw SD-kaart voor fouten met behulp van [H2testw (Windows)](h2testw-(windows)), [F3 (Linux)](f3-(linux)), of [F3X (Mac)](f3x-(mac))!**
 {% endcapture %}
 
-<div class="notice--danger">{ notice-5 | markdownify }</div>
+<div class="notice--danger">{{ notice-5 | markdownify }}</div>
 
 1. ** Als er al een map genaamd '/ files9 /' is, kopieert u deze map naar een veilige locatie op uw computer en andere locaties (zoals online bestandsopslag); deze bestanden kunnen bestandsverlies voorkomen**
 2. Maak een map genaamd 'cias' in de hoofdmap van uw SD-kaart als het niet al bestaat
@@ -189,7 +189,7 @@ Dit is niet hetzeldfe als een Systeemupdate; het downloadt enkel de nieuwste Lum
 Dit zal enkel de Luma3DS files op de SD kaart updaten. If you boot the device without an SD card, it will use the version you placed in CTR NAND.    
 {% endcapture %}
 
-<div class="notice--info">{ notice-10 | markdownify }</div>
+<div class="notice--info">{{ notice-10 | markdownify }}</div>
 
 {% capture notice-6 %}   
 Je zal nu automatisch een op SysNAND gebaseerde Custom Firmware opstarten.    
@@ -197,7 +197,7 @@ Je kan nu (Select) inhouden bij het opstarten om in het Luma3DS instellingenmenu
 You can now hold (Start) on boot to launch Hourglass9.     
 {% endcapture %}
 
-<div class="notice--info">{ notice-6 | markdownify }</div>
+<div class="notice--info">{{ notice-6 | markdownify }}</div>
 
 Je kan je arm9loaderhax installatie in de toekomst updaten door de [Updating A9LH](updating-a9lh) handleiding te volgen.
 {: .notice--info}
@@ -224,7 +224,7 @@ Je kan je NAND backups verwijderen uit `/files9/`, indien je er een kopie van ge
 
 {% endcapture %}
 
-<div class="notice--info">{ notice-7 | markdownify }</div>
+<div class="notice--info">{{ notice-7 | markdownify }}</div>
 
 Bekijk de [Verander Regio](region-changing) pagina voor info over het veranderen van je toestel naar een andere regio.
 {: .notice--success}

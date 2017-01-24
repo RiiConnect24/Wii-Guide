@@ -16,7 +16,7 @@ De "van" en "tot" velden zijn inclusief. Dat betekent dat, bijvoorbeeld, de "van
 In het geval van "5.0.0-0U" bijvoorbeeld, zou je de "Geen Browser" kolom volgen en de 5.0.0 tot 5.1.0 rij omdat het systeem op die systeem versie zit in dat gebied en omdat er geen browser is geïnstalleerd.
 {% endcapture %}
 
-<div class="notice--info">{ notice-1 | markdownify }</div>
+<div class="notice--info">{{ notice-1 | markdownify }}</div>
 {:/comment}
 
 {::comment}
