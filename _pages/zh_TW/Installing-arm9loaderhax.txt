@@ -4,16 +4,16 @@ lang: zh-Hant
 permalink: /zh_TW/installing-arm9loaderhax.html
 ---
 
-本教學的最後一步驟則是安裝 arm9loaderhax 並設定 Luma3DS，令它能在裝置啟動時開啟。 這是透過 [AuroraWright](https://github.com/AuroraWright/) 所製的 SafeA9LHInstaller 所達成的。
+本教學的最後一步驟則是安裝 arm9loaderhax 並設定 Luma3DS，令它能在裝置啟動時運行。 這是透過 [AuroraWright](https://github.com/AuroraWright/) 所製的 SafeA9LHInstaller 所達成的。
 {: .notice}
 
-本教學將安裝 [AuroraWright](https://github.com/AuroraWright/arm9loaderhax) 版的 arm9loaderhax。
+本篇將安裝 [AuroraWright 版的 arm9loaderhax](https://github.com/AuroraWright/arm9loaderhax)。
 {: .notice--info}
 
-我們將同時設定從 arm9loaderhax 啟動 payloads 的方法。此功能可以解決在還原備份情況下所造成的磚機。
+我們將同時設定從 arm9loaderhax 加載 payloads 的功能。這讓我們可以透過還原備份來解決通常會造成磚機的情況。
 {: .notice--info}
 
-**絕對不能使用其他 3DS 主機的 OTP 文件，否則保證磚機。**
+**絕對不要使用其他 3DS 主機的 OTP 文件，否則保證磚機。**
 {: .notice--danger}
 
 #### 步驟概述
@@ -22,13 +22,13 @@ permalink: /zh_TW/installing-arm9loaderhax.html
 
 這是 3DS 上近乎完美的一種破解方式，因為它可以永久地被裝在 NAND 磁區裡，而且能在大部分的主系統載入完畢前運行。這讓它不僅能在*所有*版本的 3DS 上運行，而還可以保護自身，並能從大多數使非 A9LH 破解的 3DS 變磚的情況中恢復，比如像是裝了個有問題的 HOME 主選單或者一個有問題的程式。
 
-`arm9loaderhax.bin`這個檔案是在 arm9loaderhax 從 NAND 中讀取完後所開啟的，它可以是任何有效的 arm9 payload。 你隨時可以替換這檔案，不過 Luma3DS 可以在開機時透過 Luma3DS chainloader 來啟動其他 arm9 payloads。
+`arm9loaderhax.bin`這個檔案是 arm9loaderhax 在讀取完 NAND 後所載入的，且它可以是任何有效的 arm9 payload。 你隨時可以替換這檔案，不過 Luma3DS 本身就有內建加載其他 arm9 payloads 檔案的功能。
 
-本節中，我們將使用 [AuroraWright](https://github.com/AuroraWright/) 所製的 Luma3DS 來直接啟動一個修改後的 SysNAND，使我們完全跳過需要使用任一種 EmuNAND 的步驟。這除了大量的簡化使用改機後 3DS 的步驟，還能節省 SD 卡的使用空間。
+本節中，我們將使用 [AuroraWright](https://github.com/AuroraWright/) 所製的 Luma3DS 來直接啟動一個修改後的 SysNAND，讓我們不必再使用任何的 EmuNAND。這除了大量的簡化使用改機後 3DS 所需的步驟，還能節省 SD 卡的使用空間。
 
-當 arm9loaderhax 安裝完畢後，且 Luma3DS 正確設定後，我們將還原之前的備份。
+當 arm9loaderhax 安裝完畢且正確設定完 Luma3DS 後，我們將還原之前的備份。
 
-在這過程中，我們也同時安裝下列程式：    
+在這過程中，我們也將安裝下列程式：    
 
 + **FBI 管理器** *（安裝 CIA 格式的遊戲及程式）*
 + **Luma3DS 更新器** *（用做更新 Luma3DS）*
@@ -63,11 +63,11 @@ permalink: /zh_TW/installing-arm9loaderhax.html
 
 <div class="notice--danger">{{ notice-5 | markdownify }}</div>
 
-1. **如果 SD 卡上有 `/files9/` 資料夾，請將它備份到多個安全的地方（像是雲端空間）；裡面的檔案可以在你系統弄壞的時候救你一命，免得所有資料遺失**
+1. **如果 SD 卡中有個 `/files9/` 資料夾，請將它備份到多個安全的地方（像是雲端空間）；裡面的檔案可以在你系統弄壞的時候救你一命，防止資料遺失**
 2. 在 SD 卡的根目錄底下，建立一個新資料夾 `cias`
-6. 解壓 SafeA9LHInstaller `.7z` 裡的_所有內容_到 SD 卡的根目錄底下
+6. 解壓 SafeA9LHInstaller `.7z` 裡的 _所有內容_ 到 SD 卡的根目錄底下
 7. 解壓 data_input `.zip` 中的 `a9lh` 資料夾到你的 SD 卡下
-8. 解壓 arm9loaderhax `.7z` 裡的_所有內容_到 SD 卡中的 `a9lh` 資料夾底下
+8. 解壓 arm9loaderhax `.7z` 裡的 _所有內容_ 到 SD 卡中的 `a9lh` 資料夾底下
 9. 解壓 hblauncher_loader `.zip` 中的 `hblauncher_loader.cia` 到 SD 卡中的 `/cias/` 資料夾底下
 10. 解壓 Luma3DS Updater `.zip` 中的 `lumaupdater.cia` 到 SD 卡中的 `/cias/` 資料夾底下
 11. 解壓 FBI `.zip` 中的 `FBI.cia` 到 SD 卡中的 `/cias/` 資料夾底下
@@ -77,18 +77,18 @@ permalink: /zh_TW/installing-arm9loaderhax.html
 15. 解壓 Hourglass9 `.zip` 中的 `Hourglass9.bin` 到 SD 卡中的 `/luma/payloads/` 底下，並重新命名為 `start_Hourglass9.bin`
 17. 在 SD 卡上，將 `aeskeydb.bin` 複製到 `/files9/` 資料夾底下
 18. 在 SD 卡上，將 `DspDump.3dsx` 複製到 `/3ds/` 資料夾底下
-19. 解壓 `fbi-2.4.2-injectable.zip` 中的_所有內容_到 SD 卡上
+19. 解壓 `fbi-2.4.2-injectable.zip` 中的 _所有內容_ 到 SD 卡上
 
 ##### 第二節 — 安裝 arm9loaderhax
 
 1. 將 SD 卡插回至你的 3DS 中
 2. 按照下列步驟以安装 arm9loaderhax：
-  + 你系統版本應該要是 2.1.0
+  + 系統版本須為 2.1.0
   + 在你的 3DS 上開啟 `http://2xrsa.3ds.guide`
-    + 如果出現錯誤「當前服務在你的區域不可用（This service is not available in your region）」，請使用系統設置以修改你裝置所在的國家，使它與你 NAND 所改的 2.1.0 ctrtransfer 地區相同
-    + 如果遇到另一個錯誤的話， [請參見此疑難排解](troubleshooting#ts_browser)
-    + 如果螢幕顯示有問題的話， [請參見此疑難排解](troubleshooting#ts_safe_a9lh_screen)
-    如果你在 2DS 或 新 3DS 上且你無線功能是關閉的，你可以透過關機並拔出電池跟充電器個幾秒鐘，然後再重新啟動就可以重新開啟無線功能。
+    + 如果出現錯誤「當前服務在你的區域不可用（This service is not available in your region）」，請透過系統設置改變你裝置所在的國家，使它與你使用的 2.1.0 ctrtransfer 地區相同
+    + 如果遇到其他錯誤的話， [請參見此疑難排解](troubleshooting#ts_browser)
+    + 如果螢幕花屏， [請參見此疑難排解](troubleshooting#ts_safe_a9lh_screen)
+    + 如果你在 2DS 或 新 3DS 上且你無線功能是關閉的，你可以透過關機並拔出電池跟充電器個幾秒鐘，然後再重新啟動就可以重新開啟無線功能。
   + 按下「選擇鍵 (Select)」以進行安裝
   + 安裝包將安裝 arm9loaderhax 至你的裝置上（過程很快）
   + 按任意按鈕關機
@@ -97,7 +97,7 @@ permalink: /zh_TW/installing-arm9loaderhax.html
 ##### 第三節 — 設定 Luma3DS
 
 1. 開機時，按住「選擇鍵 (Select)」進入 Luma3DS 設定選單
-  + 請在按下電源鍵之前按住「選擇鍵 (Select)」
+  + 請於按下電源紐前按住「選擇鍵 (Select)」
   + 如果黑屏，[請參見此疑難排解](troubleshooting#ts_sys_a9lh)   
   + 如果你開機自動進入了 SafeA9LHInstaller，[請參見此疑難排解](troubleshooting#ts_safe_a9lh)
 2. 透過方向鍵及「A」以開啟下列選項：    
@@ -105,16 +105,16 @@ permalink: /zh_TW/installing-arm9loaderhax.html
   + **"Use SysNAND FIRM if booting with R"**
   + **"Show NAND or user string in System Settings"**
 3. 如果你的裝置是 **新 3DS** 的話，你也可以同時開啟下列選項：
-  + **"New 3DS CPU" to "Clock+L2(x)"**
+  + **"New 3DS CPU" 中選擇 "Clock+L2(x)"**
     + 某些情況下，這將提高遊戲的流暢度，但也有些遊戲會有不穩的情況
-    + 如果有些遊戲無法正常運作的話，試試看關閉這個選項再試一次
+    + 如果有些遊戲無法正常運作的話，請關閉此選項再試一次
 4. 按下「開始鍵 (Start)」以存檔並重新啟動系統
   + 如果黑屏，直接到下一節即可   
   + 如果你遇到「Failed to mount CTRNAND」錯誤的話，直接跳到下一節即可     
 
 ##### 第四節 — 還原系統
 
-如果你在讀本教學之前已經破解並安裝了 EmuNAND，並且想把你原來 EmuNAND 中的內容轉移到新的 SysNAND 自製韌體中，請在開始本部分操作之前先按照[遷移EmuNAND數據](move- emunand)一節進行，然後跳過本部分的前四步。
+如果你在本教學之前就已經改機完且安裝了 EmuNAND，並且想把你原來 EmuNAND 中的內容轉移到新的 SysNAND 自製韌體中，請在開始本部分操作之前先按照[遷移EmuNAND數據](move- emunand)一節進行，然後跳過本部分的前四步。
 {: .notice--info}
 
 1. 開機時，按住「開始鍵 (Start)」進入 Hourglass9
@@ -170,9 +170,9 @@ permalink: /zh_TW/installing-arm9loaderhax.html
 23. 透過方向鍵及「A」以開啟下列選項：    
   + **"Show NAND or user string in System Settings"**
 24. 如果你的裝置是 **新 3DS** 的話，你也可以同時開啟下列選項：
-  + **"New 3DS CPU" to "Clock+L2(x)"**
+  + **"New 3DS CPU" 中選擇 "Clock+L2(x)"**
     + 某些情況下，這將提高遊戲的流暢度，但也有些遊戲會有不穩的情況
-    + 如果有些遊戲無法正常運作的話，試試看關閉這個選項再試一次
+    + 如果有些遊戲無法正常運作的話，請關閉此選項再試一次
 25. 重新插入你的 SD 卡，按下「開始鍵 (Start)」存檔並重啟！
 
 ___
