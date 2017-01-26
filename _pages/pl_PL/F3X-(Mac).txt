@@ -1,10 +1,10 @@
 ---
 title: "F3X (Mac)" #
 lang: pl
-permalink: /f3x-(mac).html
+permalink: /pl_PL/f3x-(mac).html
 ---
 
-Ta strona przeprowadzi ci przez proces sprawdzania twojej karty SD pod kątem błędów, przy użyciu programu F3X.
+Ta strona przeprowadzi cię przez proces sprawdzania twojej karty SD pod kątem błędów, przy użyciu programu F3X.
 {: .notice}
 
 W zależności od wielkości karty SD i szybkości komputera, proces ten może potrwać nawet kilka godzin!
