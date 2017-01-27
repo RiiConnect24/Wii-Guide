@@ -102,67 +102,67 @@ permalink: /ko_KR/troubleshooting.html
 2. 밑으로 내려 저장 데이터 초기화를 누르십시오.
 3. 익스플로잇을 다시 시도해 보십시오.
 
-## <a name="ts_safe_a9lh" />System boots directly SafeA9LHInstaller
-You copied the wrong `arm9loaderhax.bin` file to your SD card (you were only supposed to copy the `3ds` folder and `SafeA9LHInstaller.dat` file from the SafeA9LHInstaller zip)    
+## <a name="ts_safe_a9lh" />시스템이 바로 SafeA9LHInstaller로 부팅됩니다.
+SD 카드에 잘못된 `arm9loaderhax.bin` 파일을 복사했을 수 있습니다. (SafeA9LHInstaller `.zip` 파일에서는 `SafeA9LHInstaller.dat` 파일과 `3ds` 폴더만 복사하기로 되어 있었습니다.)    
 
-1. Use the correct `arm9loaderhax.bin`
-2. Copy `arm9loaderhax.bin` from the Luma3DS `.zip` to the root of your SD card
-3. Reboot holding (Select) and continue
+1. 알맞은 `arm9loaderhax.bin` 파일을 사용하세요.
+2. Luma3DS `.zip` 파일에서 `arm9loaderhax.bin` 파일을 SD 카드의 최상위 경로에 복사하세요.
+3. (Select) 버튼을 누른 채 기기를 재시작하고 계속하세요.
 
-## <a name="ts_safe_a9lh_screen" />SafeA9LHInstaller shows a glitched screen
-This happens occasionally, but the reason is unknown. The buttons will still work, but the screen will be glitched looking
+## <a name="ts_safe_a9lh_screen" />SafeA9LHInstaller의 화면이 깨짐
+때때로 발생하는 증상이지만, 이유는 알 수 없습니다. 버튼은 계속 작동합니다만 화면은 깨져 보일 것입니다.
 
-1. Follow instructions as normal
-2. Press (Select) and arm9loaderhax will be installed
-3. Wait a few seconds
-4. Shut down your console by pressing any button
+1. 정상적으로 지시 사항을 따르세요.
+2. (Select) 버튼을 눌러 arm9loaderhax를 설치하세요.
+3. 잠시 기다리세요.
+4. + 아무 버튼을 눌러서 기기를 끄세요.
 
-## <a name="ts_d9_backup" />Decrypt9 or Hourglass9 won't restore / can't find my NAND backup
+## <a name="ts_d9_backup" />Decrypt9 또는 Hourglass9에서 백업을 복원할 수 없습니다.
 
-1. Make sure you do not have any folder named "Decrypt9" on **the root** of your SD card
-2. Try checking your SD card for errors using [H2testw (Windows)](h2testw-(windows)), [F3 (Linux)](f3-(linux)), or [F3X (Mac)](f3x-(mac))
-3. Try backing up your SD card files, then formatting it and copying them back
-4. Try a different SD card
+1. SD 카드의 **최상위 경로에** "Decrypt9" 폴더가 없어야 합니다.
+2. [H2testw (Windows)](h2testw-(windows)), [F3 (Linux)](f3-(linux)) 또는 [F3X (Mac)](f3x-(mac))를 사용하여 SD 카드의 오류를 확인해 보세요.
+3. SD 카드의 파일을 백업하고, SD 카드를 포맷한 후 파일을 다시 옮겨 보세요.
+4. 다른 SD 카드로 시도해 보세요.
 
-## <a name="ts_sys_down" />Black screen on SysNAND boot
+## <a name="ts_sys_down" />SysNAND 부팅 시 검은 화면이 보입니다.
 
-1. Try booting with your SD card out, and then reinserting it after booting.
-    1. Power off your 3DS by holding down the power button.
-    2. Take out the SD card.
-    3. Power on the 3DS.
-    4. When the home menu appears, reinsert your SD card.
-    5. If this worked, you should Clear Home Menu's extdata by navigating to the following folder on your SD card: `/Nintendo 3DS/(32 Character ID)/(32 Character ID)/extdata/00000000/`
-        + EUR Region: Delete `00000098`
-        + JPN Region: Delete `00000082`
-        + USA Region: Delete `0000008f`
-        + KOR Region: Delete `000000A9`
-2. Try booting without any cartridges inserted (including flashcarts)
-3. If you have a hardmod and a NAND backup, flash the backup back to SysNAND.
-4. Try booting into recovery mode and updating your system.    
-    *This probably will not work for an Old 3DS downgraded to 2.1.0*    
-    **This will BRICK a New 3DS downgraded to 2.1.0**
-    1. Power off your 3DS by holding down the power button.
-    2. Hold (L)+(R)+(A)+(Up).
-    3. Power on the 3DS.
-    4. If you enter safe mode, update your 3DS *only if you have an entrypoint for the latest FW version and it is possible to downgrade from it* and attempt the downgrade again.
-5. Your 3DS may be bricked. For support, ask for help at [#3dshacks on Rizon IRC](https://www.reddit.com/r/3dshacks/wiki/irc) or [3DS Hacking on Discord](https://discord.gg/MWxPgEp).
+1. SD 카드가 제거된 상태에서 부팅을 해 보고, 부팅이 완료되면 SD 카드를 다시 삽입하세요.
+    1. 전원 버튼을 눌러 3DS의 전원을 끄세요.
+    2. SD 카드를 빼내세요.
+    3. 3DS의 전원을 켜세요.
+    4. 홈 메뉴가 나타나면 SD 카드를 다시 삽입하세요.
+    5. 고쳐졌다면 SD 카드의 다음 경로로 이동하여 홈 메뉴의 extdata를 지우세요: `/Nintendo 3DS/(32자리 ID)/(32자리 ID)/extdata/00000000/`
+        + EUR 지역: `00000098` 삭제
+        + JPN 지역: `00000082` 삭제
+        + USA 지역: `0000008f` 삭제
+        + KOR 지역: `000000A9` 삭제
+2. 게임 팩을 삽입한 상태에서 부팅을 시도해 보세요 (플래시카트 포함).
+3. 하드모드와 NAND 백업이 있다면, SysNAND에 백업을 플래싱하세요.
+4. 복구 모드로 부팅하여 시스템을 업데이트해 보세요.    
+    *이 방법은 2.1.0 버전으로 다운그레이드한 구 3DS에서는 작동하지 않을 것입니다.*    
+    **이 방법은 2.1.0 버전으로 다운그레이드한 뉴 3DS를 벽돌로 만들 수 있습니다.**
+    1. 전원 버튼을 눌러 3DS의 전원을 끄세요.
+    2. (L)+(R)+(A)+십자버튼 (위)를 누르세요.
+    3. 3DS의 전원을 켜세요.
+    4. 안전 모드로 진입했다면, *최신 펌웨어 버전에서 홈브류 런처에 진입할 방법을 가지고 있는 경우에만* 3DS를 업데이트하고 다시 다운그레이드를 시도하세요.
+5. 벽돌이 된 것일 수 있습니다. 도움이 필요하면 [Rizon IRC의 #3dshacks 채널](https://www.reddit.com/r/3dshacks/wiki/irc) 또는 [Discord의 3DS Hacking 서버](https://discord.gg/MWxPgEp)에서 요청하시면 됩니다.
 
-## <a name="ts_sys_a9lh" />Black screen on SysNAND boot after installing arm9loaderhax
+## <a name="ts_sys_a9lh" />arm9loaderhax 설치 이후 SysNAND 부팅 시 검은 화면이 보입니다.
 
-1. Ensure you have a working payload.
-    1. Check for the existence of `arm9loaderhax.bin` in the root of your SD card.
-2. Try resetting Luma's config and fix options
-    1. Delete `/luma/config.bin` from your SD card
+1. 작동하는 페이로드인지 확인하세요.
+    1. SD 카드의 최상위 경로에 `arm9loaderhax.bin` 파일이 있는지 확인하세요.
+2. Luma3DS의 설정을 초기화하고 옵션을 고쳐 보세요.
+    1. SD 카드의 `/luma/config.bin` 파일을 삭제하세요.
     2. Set your options when it boots
 3. Test booting Hourglass9
     1. On Luma3DS, hold (Start) on boot
 4. Try deleting home menu's extdata
     1. Clear Home Menu's extdata by navigating to the following folder on your SD card: `/Nintendo 3DS/(32 Character ID)/(32 Character ID)/extdata/00000000/`
-        + EUR Region: Delete `00000098`
-        + JPN Region: Delete `00000082`
-        + USA Region: Delete `0000008f`
-        + KOR Region: Delete `000000A9`
-5. Try booting without any cartridges inserted (including flashcarts)
+        + EUR 지역: `00000098` 삭제
+        + JPN 지역: `00000082` 삭제
+        + USA 지역: `0000008f` 삭제
+        + KOR 지역: `000000A9` 삭제
+5. 게임 팩을 삽입한 상태에서 부팅을 시도해 보세요 (플래시카트 포함).
 6. If you previously downgraded with Gateway, ensure that you are using the latest Luma3DS version (v6.2.3 or higher, at the least)
 7. If your NAND is of a version between 3.0.0 and 4.5.0, do the following:
     + Ensure that you are using the latest Luma3DS version (v6.6 or higher, at the least)
@@ -173,7 +173,7 @@ This happens occasionally, but the reason is unknown. The buttons will still wor
 8. Try following [9.2.0 ctrtransfer](9.2.0-ctrtransfer)
 9. Ask for help at [#3dshacks on Rizon IRC](https://www.reddit.com/r/3dshacks/wiki/irc) or [3DS Hacking on Discord](https://discord.gg/MWxPgEp).
 
-## <a name="ts_sys_blue" />Blue screen on boot (bootrom error)
+## <a name="ts_sys_blue" />부팅 시 파란 화면이 보입니다 (bootrom 오류).
 
-1. Your 3DS is bricked
-2. You will need to get a [hardmod](https://gbatemp.net/threads/414498/) or repair / replace the device
+1. 당신의 3DS는 벽돌이 되었습니다.
+2. [하드모드](https://gbatemp.net/threads/414498/) 또는 기기를 수리/교체하세요.
