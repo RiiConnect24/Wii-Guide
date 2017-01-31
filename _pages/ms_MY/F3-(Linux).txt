@@ -1,13 +1,13 @@
 ---
 title: "F3 (Linux)" #
-lang: en
-permalink: /f3-(linux).html
+lang: ms
+permalink: /ms_MY/f3-(linux).html
 ---
 
 Halaman ini akan menunjukkan anda proses memeriksa error pada kad SD anda menggunakan F3.
 {: .notice}
 
-Depending on the size of your SD card and the speed of your computer, this process can take up to several hours!
+Proses ini boleh mengambil masa selama beberapa jam, bergantung kepada saiz kad SD dan kelajuan komputer anda!
 {: .notice--info}
 
 Laman ini hanya untuk pengguna Linux sahaja. Jika anda tidak berada di Linux, lihat halaman [H2testw (windows)](h2testw-(windows)) atau [F3X (mac)](f3x-(mac)).
@@ -24,7 +24,7 @@ Laman ini hanya untuk pengguna Linux sahaja. Jika anda tidak berada di Linux, li
 3. Run `make` untuk compile F3
 4. Pasang kad SD anda ke dalam komputer
 5. Mount SD card anda
-6. Run `./f3write <your sd card mount point>`
+6. Jalankan `./f3write <your sd card mount point>`
 7. Tunggu sehingga proses selesai. Lihat dibawah sebagai contoh output.
 
 		$ ./f3write /media/michel/6135-3363/
