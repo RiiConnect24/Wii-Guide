@@ -154,7 +154,7 @@ exclude: [
   # _pages/it_IT,
   _pages/ja_JP,
   _pages/ko_KR,
-  _pages/ms_MY,
+  # _pages/ms_MY,
   # _pages/no_NO,
   _pages/nl_NL,
   # _pages/pl_PL,
