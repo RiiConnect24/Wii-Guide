@@ -39,7 +39,6 @@ sitemap: false
 + [Homebrew Launcher (SoundHax)](homebrew-launcher-(soundhax))
 + [Installing arm9loaderhax](installing-arm9loaderhax)
 + [Move EmuNAND](move-emunand)
-+ [NAND Size](nand-size)
 + [NFIRM Downgrade](nfirm-downgrade)
 + [NTR and Cubic Ninja](ntr-and-cubic-ninja)
 + [Region Changing](region-changing)
