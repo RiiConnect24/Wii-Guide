@@ -22,8 +22,10 @@ permalink: /es_ES/decrypt9-(homebrew-launcher).html
   + Puede que tengas que deslizar hacia abajo para ver esta opción
 8. Cuando se haya completado, presiona (Start) para volver al Homebrew Launcher
   + Esto puede llevar varios intentos
+  + Si se congela, fuerza el apagado de la consola manteniendo presionado el botón para apagarla y luego vuelve a intentar
 9. Inicia safehax desde la lista de homebrew
   + Puede que tengas que deslizar hacia abajo para ver esta opción
+  + Si se congela, fuerza el apagado de la consola manteniendo presionado el botón para apagarla y luego vuelve a intentar
 10. Si el exploit ha funcionado, habrás iniciado Decryp9
 
 Continúa a [2.1.0 ctrtransfer](2.1.0-ctrtransfer)    

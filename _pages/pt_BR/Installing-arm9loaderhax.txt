@@ -7,7 +7,7 @@ permalink: /pt_BR/installing-arm9loaderhax.html
 A etapa final deste guia é instalar o arm9loaderhax e configurar o Luma3DS para rodar em apenas alguns milisegundos durante a inicialização. Isso é realizado utilizando o SafeA9LHInstaller por [AuroraWright](https://github.com/AuroraWright/).
 {: .notice}
 
-Isto irá instalar o [Fork de AuroraWright](https://github.com/AuroraWright/arm9loaderhax) do arm9loaderhax.
+Isto irá instalar o [Fork da AuroraWright](https://github.com/AuroraWright/arm9loaderhax) do arm9loaderhax.
 {: .notice--info}
 
 Iremos também configurar a habilidade de rodar payloads do arm9loaderhax, nos dando a habilidade de desbrickar a nossa SysNAND de situações que normalmente brickariam o nosso aparelho ao restaurá-la de um backup.
@@ -85,17 +85,16 @@ Durante este processo, também configuramos alguns programas como os seguintes:
 ##### Seção II - Instalando arm9loaderhax
 
 1. Reinsira o seu cartão SD no 3DS
-2. Siga as etapas para instalar o arm9loaderhax em seu dispositivo:
-  + Você deve estar na versão 2.1.0
-  + Vá para `http://2xrsa.3ds.guide` no seu 3DS
-    + Se você receber o erro "This service is not available in your region", use as Configurações do Console para definir o país do dispositivo para coincidir com a região da NAND que você instalou com a ctrtransfer para a versão 2.1.0
-    + Se você receber outro erro, [siga este guia de troubleshooting](troubleshooting#ts_browser)
-    + Se você receber uma tela irregular, [siga este guia de troubleshooting](troubleshooting#ts_safe_a9lh_screen)
-    Caso você esteja em um 2DS ou New 3DS e deixou a comunicação sem fio desligada, você pode religá-la removendo a bateria e desconectando o carregador durante alguns segundos e depois ligando o console novamente
-  + Aperte (Select) para realizar a instalação completa
-  + O instalador instalará o arm9loaderhax no seu dispositivo (isso é muito rápido)
-  + Desligue seu console apertando qualquer botão
-  + Copie o `otp.bin` específico do seu console da pasta `/a9lh/` do seu cartão SD para um lugar seguro em seu computador e faça backup em vários lugares (como armazenamento online), e então reinsira o cartão SD no seu 3DS
+2. Você deve estar na 2.1.0
+3. Visite `http://2xrsa.3ds.guide` no navegador do seu 3DS
+  + Se você receber o erro "This service is not available in your region", use as Configurações do Console para definir o país do dispositivo para coincidir com a região da NAND que você instalou com a ctrtransfer para a versão 2.1.0
+  + Se você receber outro erro, [siga este guia de troubleshooting](troubleshooting#ts_browser)
+  + Se você receber uma tela irregular, [siga este guia de troubleshooting](troubleshooting#ts_safe_a9lh_screen)
+  Caso você esteja em um 2DS ou New 3DS e deixou a comunicação sem fio desligada, você pode religá-la removendo a bateria e desconectando o carregador durante alguns segundos e depois ligando o console novamente
+4. Press (Select) to Full Install
+5. O instalador irá instalar o arm9loaderhax no seu dispositivo (isto é bem rápido)
+6. Desligue o seu console apertando qualquer botão
+7. Copy your console specific `otp.bin` from the `/a9lh/` folder on your SD card to a safe location on your computer and back it up to multiple locations (such as online file storage), then reinsert your SD card into your 3DS
 
 ##### Seção III - Configurando Luma3DS
 
@@ -122,8 +121,8 @@ Se, antes de seguir este guia, você já tinha uma configuração EmuNAND e gost
 
 1. Inicialize seu dispositivo enquanto segura (Start) para iniciar o Hourglass9
 2. Vá para "SysNAND Backup/Restore"
-3. Go to "SysNAND Restore (keep a9lh)"
-4. Input the key combo given, then select the NANDmin.bin`image when prompted by pressing (A)
+3. Vá para "SysNAND Restore (keep a9lh)"
+4. Aperte a combinação de botões dada e, depois quando solicitado, selecione a imagem `NANDmin.bin` apertando (A)
 5. Aperte (Start) para reiniciar
   + Se você receber uma tela preta, [siga ctrtransfer para a 9.2.0](9.2.0-ctrtransfer)
 6. Se o seu backup era de uma versão entre 3.0.0 e 4.5.0, o console não ligará completamente até que você faça o download manual do firmware necessário:
@@ -165,7 +164,8 @@ Se, antes de seguir este guia, você já tinha uma configuração EmuNAND e gost
 14. Abra o Homebrew Launcher pelo menu HOME
 15. Selecione "DSP Dump"
 16. Aperte (Start) quando solicitado para sair
-17. Inicialize seu dispositivo enquanto segura (Start) para iniciar o Hourglass9
+17. Press (Start) to open the Homebrew Launcher exit menu
+18. Press (A) while holding (Start) to reboot into Hourglass9
 19. Vá para "SysNAND Backup/Restore", e então selecione "Health&Safety Inject"
 20. Selecione `hs.app` (o original que não contém o FBI), e então aperte (A) para confirmar a injeção
 21. Aperte (Select) no menu principal para ejetar seu cartão SD
