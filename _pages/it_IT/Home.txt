@@ -36,13 +36,13 @@ La guida ha bisogno del *tuo* aiuto per il seeding di [questi](https://3ds.guide
 
 Con [**Homebrew**](https://en.wikipedia.org/wiki/List_of_homebrew_video_games) di solito si fa riferimento a software non autorizzato da Nintendo. Ti permette di avviare giochi amatoriali, programmi di save editing e di backup, ed emulatori di diverse piattaforme ormai obsolete.
 
-Nella maggior parte dei casi, l'avvio di homebrew sulla tua console è al 100% gratis grazie all'applicazione Sound Nintendo 3DS. È comunque possibile avviare gli homebrew tramite exploit alternativi basati su giochi commerciali e sul browser internet di sistema.
+Nella maggior parte dei casi, l'avvio di homebrew sulla tua console è al 100% gratis grazie all'applicazione [Sound Nintendo 3DS](homebrew-launcher-(soundhax)) (tuttavia non sarà possibile se sei ad una versione di sistema >=11.3.0). È comunque possibile avviare gli homebrew tramite exploit alternativi basati su giochi commerciali e sul browser internet di sistema.
 
 ## Cosa vuol dire Custom Firmware?
 
 Un **Custom Firmware** ("CFW") ti permette di accedere a funzionalità avanzate (spesso) non disponibili con un homebrew userland. Ad esempio, le signature patch ti permettono di installare titoli non firmati in modo tale che appaiano nel menu HOME.
 
-È possibile installare un CFW su qualunque console con versione del software 11.2.0 (l'ultima) o inferiore.
+È possibile installare un CFW su qualunque console con versione del software 11.2.0 o inferiore.
 
 ## Cosa viene installato con questa guida?
 
