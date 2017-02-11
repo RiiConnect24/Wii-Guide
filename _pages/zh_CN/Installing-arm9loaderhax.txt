@@ -13,7 +13,7 @@ permalink: /zh_CN/installing-arm9loaderhax.html
 我们还会建立用arm9loaderhax来加载payloads的功能，使我们通过恢复备份，将通常情况下变砖的3DS解砖。
 {: .notice--info}
 
-**请不要使用其他3DS的OTP文件，否则你一定会砖**
+**请不要使用其他机器的OTP文件，否则你的机器将100%变砖。**
 {: .notice--danger}
 
 #### 步骤概览
@@ -40,14 +40,14 @@ permalink: /zh_CN/installing-arm9loaderhax.html
 * <i class="fa fa-magnet" aria-hidden="true" title="下载链接。 使用一个BT下载器来下载此文件。"></i> - [`fbi-2.4.2-injectable.zip`](magnet:?xt=urn:btih:f978b4cf5eda72823240b9c649f3fd2940a9f525&dn=fbi-2.4.2-injectable.zip&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce)
 * <i class="fa fa-magnet" aria-hidden="true" title="下载链接。 使用一个BT下载器来下载此文件。"></i> - [`data_input_v3.zip`](magnet:?xt=urn:btih:a1195c9f7ab650fa7c7bf020b51fc19ea8d9440c&dn=data%5Finput%5Fv3.zip&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce)
 最新改版的 [SafeA9LHInstaller](https://github.com/Plailect/SafeA9LHInstaller/releases/latest) *（.7z压缩包）*
-* 最新版的 [arm9loaderhax](https://github.com/AuroraWright/arm9loaderhax/releases/latest) *（`.7z`压缩包）*
-* 最新版的[Luma3DS](https://github.com/AuroraWright/Luma3DS/releases/latest) *（`.7z`压缩包）*
-* 最新版本的 [hblauncher_loader](https://github.com/yellows8/hblauncher_loader/releases/latest)
-* 最新版本的 [Hourglass9] (https://github.com/d0k3/Hourglass9/releases/latest)
-* 最新版本的 [Luma3DS Updater] (https://github.com/Hamcha/lumaupdate/releases/latest)
-* 最新版本的 [DspDump] (https://github.com/Cruel/DspDump/releases/latest)
-* 最新版本的 [FBI](https://github.com/Steveice10/FBI/releases/latest)
-* The Homebrew [开始包](http://smealum.github.io/ninjhax2/starter.zip)
+* 最新版本的[arm9loaderhax](https://github.com/AuroraWright/arm9loaderhax/releases/latest) *（`.7z`压缩包）*
+* 最新版本的[Luma3DS](https://github.com/AuroraWright/Luma3DS/releases/latest) *（`.7z`压缩包）*
+* 最新版本的[hblauncher_loader](https://github.com/yellows8/hblauncher_loader/releases/latest)
+* 最新版本的[Hourglass9](https://github.com/d0k3/Hourglass9/releases/latest)
+* 最新版本的[Luma3DS Updater](https://github.com/Hamcha/lumaupdate/releases/latest)
+* 最新版本的[DspDump](https://github.com/Cruel/DspDump/releases/latest)
+* 最新版本的[FBI](https://github.com/Steveice10/FBI/releases/latest)
+* 自制程序[新手包](http://smealum.github.io/ninjhax2/starter.zip)
 
 #### 操作指南
 
@@ -91,7 +91,7 @@ permalink: /zh_CN/installing-arm9loaderhax.html
   + 如果出现错误，[参见这个问题排查](troubleshooting#ts_browser)
   + 如果出现花屏，[参见这个问题排查](troubleshooting#ts_safe_a9lh_screen)
   + 如果你的设备是新3DS或者2DS，在降级到了2.1.0系统时无线连接没有开启，你可以将充电器断开并将电池拿下来，等待数秒后再开机，即可重新开启无线连接。
-4. 按（Select）选择Full Install
+4. 按（Select）选择来开始“Full Install”
 5. 安装程序将在你的设备上安装arm9loaderhax（速度很快）
 6. 按任意按钮关机
 7. 从你SD卡的 `/a9lh/` 目录将你设备专属的 ` otp.bin ` 文件拷贝到你计算机上一个安全的位置，并备份到多个地方（例如在线文件存储），然后重新将SD卡插回3DS上
@@ -148,9 +148,9 @@ permalink: /zh_CN/installing-arm9loaderhax.html
 
 ##### 第六部分 - 最终设置
 
-1. 打开Health and Safety应用（健康与安全，现在应该是FBI）
-2. 选择”SD”
-3. 选择”cias”
+1. 打开“Health and Safety”应用（健康与安全，现在应该是FBI）
+2. 选择“SD”
+3. 选择“cias”
 4. 选择 `FBI.cia` 文件，按(A)键安装
 5. 选择 `hblauncher_loader.cia` 文件，按(A)键安装
   + 请注意在11.3.0自制程序启动器不工作
@@ -193,7 +193,7 @@ ___
 {% capture notice-6 %}   
 现在你将默认启动到一个自制的SysNAND系统。    
 你可以在启动时按下Select键，进入Luma3DS的设置菜单。    
-你可以在启动时按下Start键运行Hourglass9     
+你可以在启动时按下Start键运行Hourglass9。     
 {% endcapture %}
 
 <div class="notice--info">{{ notice-6 | markdownify }}</div>
@@ -211,7 +211,7 @@ ___
 {: .notice--info}
 
 {% capture notice-7 %}
-**你可以将下表中*没有*提到的文件和文件夹从SD卡中删除:**
+**你可以将下表中*没有*提到的文件和文件夹从SD卡中删除：**
 
     + 3ds
     + files9
