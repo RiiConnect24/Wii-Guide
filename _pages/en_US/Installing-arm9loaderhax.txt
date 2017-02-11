@@ -154,7 +154,7 @@ If, before following this guide, you already had an EmuNAND setup and would like
 4. Navigate to `FBI.cia` and press (A) to install
 5. Navigate to `hblauncher_loader.cia` and press (A) to install
   + Please note that the homebrew launcher is currently not functional on 11.3.0
-  + This should hopefully be fixed soon
+  + shouldsho
 6. Navigate to `lumaupdater.cia` and press (A) to install
 7. Return to the SD directory with (B)
 8. Navigate to `arm9loaderhax.bin`, then press (A) on it and select the "Copy" option
