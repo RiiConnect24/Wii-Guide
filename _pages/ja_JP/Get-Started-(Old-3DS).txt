@@ -86,10 +86,5 @@ permalink: /ja_JP/get-started-(old-3ds).html
       <td style="text-align: center">11.3.0</td>
       <td style="text-align: center" colspan="2">-</td>
     </tr>
-    <tr>
-      <td style="text-align: center">11.3.0</td>
-      <td style="text-align: center">11.3.0</td>
-      <td style="text-align: center" colspan="2">-</td>
-    </tr>
   </tbody>
 </table>

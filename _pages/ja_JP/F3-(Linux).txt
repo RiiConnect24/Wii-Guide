@@ -35,7 +35,7 @@ SDカードのサイズとコンピュータのパフォーマンスによって
 		Free space: 0.00 Byte
 		Average Writing speed: 4.90 MB/s
 
-8. `./f3read <your sd card mount point>`を実行します
+8. `./f3read <SDカードのマウントポイント>`を実行します
 9. 処理が完了するまで待ちます。 下記はサンプル出力です。
 
 		$ ./f3read /media/michel/6135-3363/
@@ -51,6 +51,7 @@ SDカードのサイズとコンピュータのパフォーマンスによって
 			     Overwritten: 0.00 Byte (0 sectors)
 		Average Reading speed: 9.42 MB/s
 
+___
 
 処理結果は`Data LOST: 0.00 Byte (0 sectors)`であれば、SDカードが正常であることを示します。SDカード上の`.h2w`ファイルを全て削除できます。
 {: .notice--success}

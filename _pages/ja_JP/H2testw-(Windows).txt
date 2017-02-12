@@ -10,7 +10,7 @@ permalink: /ja_JP/h2testw-(windows).html
 SDカードのサイズとコンピュータのパフォーマンスによって、かかる時間は異なり、数時間もかかる場合があります！
 {: .notice--info}
 
-このページはWindowsユーザー向けです。 Linuxを使用しないユーザーは、[F3 (linux)](f3-(linux))または[F3X (mac)](f3x-(mac))をご覧ください。
+このページはWindowsユーザー向けです。 Windowsを使用しないユーザーは、[F3 (linux)](f3-(linux))または[F3X (mac)](f3x-(mac))をご覧ください。
 {: .notice--info}
 
 #### 必要なもの
@@ -28,6 +28,8 @@ SDカードのサイズとコンピュータのパフォーマンスによって
 7. 「all available space」を選択したことを確認します
 8. 「Write + Verify」をクリックします
 9. 処理が完了するまで待ちます
+
+___
 
 処理結果は`Test finished without errors`であれば、SDカードが正常であることを示します。SDカード上の`.h2w`ファイルを全て削除できます。
 {: .notice--success}

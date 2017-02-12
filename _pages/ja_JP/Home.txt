@@ -6,7 +6,7 @@ header:
   overlay_image: images/home-page-feature.jpg
   overlay_filter: 0.5
   cta_label: "はじめる" #
-  cta_url: "get-started" #
+  cta_url: "/ja_JP/get-started" #
   caption:
 excerpt: "3DSのCFW導入ガイド<br />公式ファームウェアからarm9loaderhaxまで。<br />" #
 lang: ja
@@ -23,10 +23,10 @@ permalink: /ja_JP/index.html
 **このサイトの[マグネットリンク](https://en.wikipedia.org/wiki/Magnet_URI_scheme)を使用するには、[Deluge](http://dev.deluge-torrent.org/wiki/Download)のようなTorrentクライアントが必要です！**
 {: .notice--info}
 
-** このサイトは*あなた*の[翻訳] (https://translate.3ds.guide/) による支援を求めています。**
+** このサイトは*あなた*の[翻訳](https://translate.3ds.guide/)による支援を求めています。**
 {: .notice--success}
 
-**このガイドでは、 [these](https://3ds.guide/rss.xml)をシードしていただける方を募集しています**
+**このガイドでは、 [トレントファイル](https://3ds.guide/rss.xml)をシードしていただける方を募集しています**
 {: .notice--success}
 
 **実践する前に、紹介されているすべてのページをお読みください。**
@@ -40,9 +40,9 @@ permalink: /ja_JP/index.html
 
 ## カスタムファームウェアとは
 
-* * カスタム ファームウェア * * ("CFW") は高度な技術によりHomebrewでは実現できないようなハッキングを実現しています。 例えば「署名回避パッチ」は、署名のない、許可されていないソフトをHOMEメニューにインストールできます。
+**カスタム ファームウェア** ("CFW") は高度な技術によりHomebrewでは実現できないようなハッキングを実現しています。 例えば「署名回避パッチ」は、署名のない、許可されていないソフトをHOMEメニューにインストールできます。
 
-CFW は、本体バージョンが11.2.0以下であれば簡単に導入できます。
+CFWは、本体バージョンが11.2.0以下であれば簡単に導入できます。
 
 ## ごのガイドでインストールされるもの
 
@@ -55,25 +55,25 @@ Arm9loaderhaxは、WiiにおけるBootMiiと似た、起動からわずか数ミ
 
 ## カスタムファームウェアでできること
 
-リージョンに関係なく、すべてのゲームカードやダウンロードソフトを遊ぶ
-+ ユーザー作成の [自作テーマ] (https://3dsthem.es/) と [自作バッジ] (https://badges.3dsthem.es/) でHOMEメニューをカスタマイズ
++ 地域に関係なく、すべてのゲームカードやダウンロードソフトを遊ぶ
++ ユーザー作成の [自作テーマ](https://3dsthem.es/) と [自作バッジ](https://badges.3dsthem.es/) でHOMEメニューをカスタマイズ
 + 自分が所有するゲームに「ROMハック」を使用する
 + ゲームとアプリケーションのスクリーン ショットを取る事ができます。
-+ セーブデータの[バックアップ、編集、復元] (https://gbatemp.net/threads/release-jks-savemanager-homebrew-cia-save-manager.413143/)
++ セーブデータの[バックアップ、編集、復元](https://gbatemp.net/threads/release-jks-savemanager-homebrew-cia-save-manager.413143/)
 + RetroArchを始めとしたエミュレータでレトロゲームを遊ぶ (Newニンテンドー3DS上ではさらに快適に動作します)
 + HomeBrewをインストールし、HOMEメニューから直接実行
 + ゲームカードをインストール可能な形式で吸い出し、ゲームカードを使用せず遊ぶ
-+New 3DSのみ: NTR CFWを使用し、ゲーム画面をPCに無線ストリーミング
++ New 3DSのみ: NTR CFWを使用し、ゲーム画面をPCに無線ストリーミング
 + 本体更新により対策されたDSマジコンを起動
 + 自作ソフトが起動可能な状態を維持して本体更新
 
 ## 改造する前の注意点
 
-+ * * ガイドを始める前に、あなたの3DSが復元不可能なBRICK状態になるリスクが有ることを忘れないでください。 稀ではありますが、BRICKする可能性があります。必ず全ての指示に従ってください。
++ ** ガイドを始める前に、あなたの3DSが復元不可能なBRICK状態になるリスクが有ることを忘れないでください。 稀ではありますが、BRICKする可能性があります。必ず全ての指示に従ってください。**
 + 既にEmuNANDが3DSに導入されていて、以前のEmuNANDの内容を新しいSysNAND CFWに移行したい場合、あなたは全ての指示に従ってください。[arm9loaderhaxをインストールする](installing-arm9loaderhax) のページで、既存のEmuNANDをSysNANDにリストアするよう促す案内が表示されます。
 + このガイドは、ファームウェア11.2.0以下において、全てのリージョン *(CHN / TWNを除く)* のNew 3DS、旧3DS、および2DS上で動作します。
 すべてが計画通りに進めば、データは全く失われず、導入前にあなたが使用していたすべてのもの (ゲーム、NNID、セーブデータなど) が保持されます。
 予期しない電源オフによるデータの損失や損傷を避けるため、導入作業は本体に充電プラグを差し込んだまま行ってください！
-+ 使用するSDカードは [GPTではなく、MBR](http://www.howtogeek.com/245610/) でフォーマットされている必要があります (3DSに付属のSDカードはデフォルトでMBRです) 。
++ 使用するSDカードは[GPTではなく、MBR](http://www.howtogeek.com/245610/)でフォーマットされている必要があります（3DSに付属のSDカードはデフォルトでMBRです）。
 + SDカードをフォーマットする必要がある場合は、[`guiformat`](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) を使用することができます。アロケーションユニットサイズは32Kを指定してください。
 + 2DSはソフトウェア面ではOld 3DSと本質的に同じであり、"Old 3DS"で行うステップは2DSにも適用されます。
