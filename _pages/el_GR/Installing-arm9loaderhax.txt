@@ -54,11 +54,11 @@ permalink: /el_GR/installing-arm9loaderhax.html
 ##### Ενότητα I - Προετοιμασία
 
 {% capture notice-5 %}
-**Ensure you are using an SD card that is not corrupted!**
+**Βεβαιωθείτε πως η κάρτα SD που χρησιμοποιείτε δεν είναι κατεστραμμένη!**
 
-**If you use a corrupted SD card without fixing it, you may BRICK!**
+**Εάν χρησιμοποιήσετε κατεστραμμένη κάρτα SD χωρίς να την επιδιορθώσετε, μπορεί να ΑΧΡΗΣΤΕΥΣΕΤΕ ΤΗΝ ΣΥΣΚΕΥΗ ΣΑΣ!**
 
-**If you think your SD card may be corrupted, check your SD card for errors using [H2testw (Windows)](h2testw-(windows)), [F3 (Linux)](f3-(linux)), or [F3X (Mac)](f3x-(mac))!**
+**Εάν υποψιάζεστε ότι η κάρτα SD μπορεί να είναι κατεστραμμένη, ελέγξτε την για σφάλματα χρησιμοποιώντας το [H2testw (Windows)](h2testw-(windows)), το [F3 (Linux)](f3-(linux)), ή το [F3X (Mac)](f3x-(mac))!**
 {% endcapture %}
 
 <div class="notice--danger">{{ notice-5 | markdownify }}</div>
@@ -88,8 +88,8 @@ permalink: /el_GR/installing-arm9loaderhax.html
 2. Θα πρέπει να βρίσκεστε στην έκδοση 2.1.0
 3. Μεταβείτε στο `http://2xrsa.3ds.guide` στο 3DS σας
   + Εάν αντιμετωπίζετε το σφάλμα "This service is not available in your region", χρησιμοποιήστε το System Settings ώστε να ορίσετε την χώρα της συσκευής σας έτσι ώστε να ταιριάζει με την περιοχή της NAND που εγκαταστήσατε νωρίτερα, κατά την διάρκεια του ctrtransfer 2.1.0
-  + Εάν αντιμετωπίζετε κάποιο άλλο σφάλμα, [ακολουθήστε αυτόν τον οδηγό αντιμετώπισης σφαλμάτων](troubleshooting#ts_browser)
-  + Εάν αντιμετωπίζετε μια κολλημένη οθόνη, [ακολουθήστε αυτόν τον οδηγό αντιμετώπισης σφαλμάτων](troubleshooting#ts_safe_a9lh_screen)
+  + Εάν αντιμετωπίζετε κάποιο άλλο σφάλμα, [ακολουθήστε τον οδηγό Αντιμετώπιση Προβλημάτων](troubleshooting#ts_browser)
+  + Εάν αντιμετωπίζετε μια κολλημένη οθόνη, [ακολουθήστε τον οδηγό Αντιμετώπιση Προβλημάτων](troubleshooting#ts_safe_a9lh_screen)
   + Εάν βρίσκεστε στο 2DS ή στο New 3DS και έχετε απενεργοποιημένη την Ασύρματη Σύνδεση, μπορείτε να την επανενεργοποιήσετε αφαιρώντας την μπαταρία και αποσυνδέοντας τον φορτιστή για μερικά δευτερόλεπτα. Έπειτα ενεργοποιήστε ξανά την συσκευή
 4. Πατήστε (Select) για να πραγματοποιήσετε μια πλήρη εγκατάσταση
 5. Το πρόγραμμα εγκατάστασης θα εγκαταστήσει τώρα το arm9loaderhax στη συσκευή σας (αυτό γίνεται πολύ γρήγορα)
@@ -100,8 +100,8 @@ permalink: /el_GR/installing-arm9loaderhax.html
 
 1. Εκκινήστε την συσκευή σας κρατώντας πατημένο το (Select) και εισέλθετε στο μενού ρυθμίσεων του Luma3DS
   + Βεβαιωθείτε πως κρατάτε πατημένο το κουμπί πριν ενεργοποιήσετε την κονσόλα
-  + If you get a black screen, [follow this troubleshooting guide](troubleshooting#ts_sys_a9lh)   
-  + If you boot to SafeA9LHInstaller, [follow this troubleshooting guide](troubleshooting#ts_safe_a9lh)
+  + Εάν εμφανιστεί μαύρη οθόνη, [ακολουθήστε τον οδηγό Αντιμετώπιση Προβλημάτων](troubleshooting#ts_sys_a9lh)   
+  + Εάν εκκινήσατε στο SafeA9LHInstaller, [ακολουθήστε τον οδηγό Αντιμετώπιση Προβλημάτων](troubleshooting#ts_safe_a9lh)
 2. Χρησιμοποιώντας το κουμπί (A) και το D-Pad ενεργοποιήστε τα παρακάτω:    
   + **"Autoboot SysNAND"**
   + **"Use SysNAND FIRM if booting with R"**
@@ -110,14 +110,14 @@ permalink: /el_GR/installing-arm9loaderhax.html
   + **"New 3DS CPU" to "Clock+L2(x)"**
     + Αυτό θα αυξήσει την επίδοση σε πολλά παιχνίδια, αλλά μπορεί να προκαλέσει αστάθεια σε άλλα
     + Εάν μερικά παιχνίδια δεν δουλεύουν όπως πρέπει, απενεργοποιήστε αυτήν την ρύθμιση και ξαναδοκιμάστε
-    + This breaks the Homebrew Launcher on 11.3!
+    + Αυτό σταματάει την λειτουργία του Homebrew Launcher στην έκδοση 11.3!
 4. Πατήστε (Start) για να αποθηκεύσετε τις αλλαγές σας και να επανεκκινήσετε
   + Εάν αντιμετωπίζετε μια μαύρη οθόνη, απλά προχωρήστε στην επόμενη ενότητα   
   + Εάν αντιμετωπίζετε το σφάλμα "Failed to mount CTRNAND", απλά προχωρήστε στην επόμενη ενότητα     
 
 ##### Ενότητα IV - Επαναφορά του Συστήματος
 
-If, before following this guide, you already had an EmuNAND setup and would like to move the contents of your previous EmuNAND to your new SysNAND CFW, now is the time to [follow Move EmuNAND](move-emunand) instead of doing the first four steps in this section.
+Εάν, πριν την πραγματοποίηση αυτό του οδηγού, είχατε ήδη μια διάταξη EmuNAND και θα θέλατε να μεταφέρετε τα περιεχόμενα της EmuNAND στο καινούργιο CFW της SysNAND, [ακολουθήστε το Μετακίνηση της EmuNAND](move-emunand) αντί για τα πρώτα βήματα αυτής της ενότητας.
 {: .notice--info}
 
 1. Εκκινήστε την συσκευή σας κρατώντας πατημένο το (Start) και εισέλθετε στο Hourglass9
@@ -135,17 +135,17 @@ If, before following this guide, you already had an EmuNAND setup and would like
   + Οι ενημερώσεις συστήματος ενώ χρησιμοποιείτε το A9LH + Luma (ό, τι έχετε) είναι ασφαλείς, σταματήστε να ρωτάτε
   + Η προειδοποίηση σχετικά με το να μην ενημερώσετε ποτέ ένα New 3DS από την έκδοση 2.1.0 δεν ισχύει έπειτα από την επαναφορά των αντιγράφων ασφαλείας της NAND.
   + Εάν αντιμετωπίζετε οποιοδήποτε σφάλμα, ρυθμίστε τις ρυθμίσεις του DNS σε "auto"
-  + Εάν εξακολουθείτε να λαμβάνετε ένα σφάλμα και η NAND σας είναι σε έκδοση μικρότερη της 9.2.0, [ακολουθήστε το ctrtransfer 9.2.0](9.2.0-ctrtransfer)
+  + Εάν εξακολουθείτε να λαμβάνετε ένα σφάλμα και η NAND σας είναι σε έκδοση μικρότερη της 9.2.0, [ακολουθήστε το 9.2.0 ctrtransfer](9.2.0-ctrtransfer)
 
-##### Section V - Injecting FBI
+##### Ενότητα V - Εισαγωγή του FBI
 
 1. Εκκινήστε την συσκευή σας κρατώντας πατημένο το (Start) και εισέλθετε στο Hourglass9
-2. Go to "SysNAND Backup/Restore", then select the "Health&Safety Dump" option to dump Health & Safety to `hs.app` **(you can use Up and Down / Left and Right to change the name)**
+2. Πηγαίνετε στη επιλογή "SysNAND Backup/Restore", μετά επιλέξτε "Health&Safety Dump" ώστε να αντιγράψετε το Health & Safety στο `hs.app` **(Μπορείτε να χρησιμοποιήσετε τα κουμπιά Πάνω και Κάτω/Αριστερά και Δεξιά για να αλλάξετε το όνομα)**
 3. Πατήστε (B) και έπειτα επιλέξτε το "Health&Safety Inject"
 4. Επιλέξτε το αρχείο του FBI `.app` για την περιοχή σας
-5. Press (A) and confirm to inject
+5. Πατήστε (A) και επιβεβαιώστε την εισαγωγή
 6. Πατήστε (Start) για να επανεκκινήσετε
-7. Εάν εξακολουθείτε να εκκινείτε την κανονική εφαρμογή Health & Safety, και έχετε υποβαθμίσει την κονσόλα σας χρησιμοποιώντας μια Gateway στο παρελθόν, [ακολουθήστε αυτόν τον οδηγό επίλυσης προβλημάτων](troubleshooting#gw_fbi)
+7. Εάν εξακολουθείτε να εκκινείτε την κανονική εφαρμογή Health & Safety, και έχετε υποβαθμίσει την κονσόλα σας χρησιμοποιώντας μια Gateway στο παρελθόν, [ακολουθήστε τον οδηγό Αντιμετώπιση Προβλημάτων](troubleshooting#gw_fbi)
 
 ##### Ενότητα VI - Ολοκλήρωση της εγκατάστασης
 
@@ -170,19 +170,19 @@ If, before following this guide, you already had an EmuNAND setup and would like
 19. Επιλέξτε `hs.app` (το αρχικό που δεν περιέχει το FBI), και έπειτα πατήστε (A) και επιβεβαιώστε την εισαγωγή
 20. Πατήστε το (Select) στην αρχική οθόνη για να αφαιρέσετε την κάρτα SD
 21. Πατήστε (Start) για να επανεκκινήσετε χωρίς την κάρτα SD
-  + Εκκινώντας την συσκευή τουλάχιστον μία φορά χωρίς την κάρτα SD, θα σας επιτρέψει να ρυθμίσετε το CTRNAND με βάση την εγκατάσταση του Luma3DS
+  + Εκκινώντας την συσκευή τουλάχιστον μία φορά χωρίς την κάρτα SD, θα σας επιτρέψει να ρυθμίσετε την CTRNAND με βάση την εγκατάσταση του Luma3DS
 22. Χρησιμοποιώντας το κουμπί (A) και το D-Pad ενεργοποιήστε τα παρακάτω:    
   + **"Show NAND or user string in System Settings"**
 23. Εάν χρησιμοποιείτε το **New 3DS**, μπορείτε *επίσης* να ενεργοποιήστε και το παρακάτω:
   + **"New 3DS CPU" to "Clock+L2(x)"**
     + Αυτό θα αυξήσει την επίδοση σε πολλά παιχνίδια, αλλά μπορεί να προκαλέσει αστάθεια σε άλλα
     + Εάν μερικά παιχνίδια δεν δουλεύουν όπως πρέπει, απενεργοποιήστε αυτήν την ρύθμιση και ξαναδοκιμάστε
-    + This breaks the Homebrew Launcher on 11.3!
+    + Αυτό σταματάει την λειτουργία του Homebrew Launcher στην έκδοση 11.3!
 24. Επανατοποθετήστε την κάρτα SD, και έπειτα πατήστε (Start) για να αποθηκεύσετε και να επανεκκινήσετε!
 
 ___
 
-If DSi / DS functionality has broken (such as DS carts or DSiWare no longer working), [follow this troubleshooting guide](troubleshooting#twl_broken)
+Εάν οι λειτουργίες του DSi / DS δεν δουλεύουν (όπως οι κασέτες του DS ή οι τίτλοι DSiWare δεν λειτουργούν), [ακολουθήστε τον οδηγό Αντιμετώπιση Προβλημάτων](troubleshooting#twl_broken)
 {: .notice--warning}
 
 {% capture notice-10 %}
@@ -204,7 +204,7 @@ If DSi / DS functionality has broken (such as DS carts or DSiWare no longer work
 Μπορείτε να ενημερώσετε το arm9loaderhax ακολουθώντας τις οδηγίες της σελίδας [Ενημέρωση του A9LH](updating-a9lh).
 {: .notice--info}
 
-To use [NTR CFW](https://github.com/44670/BootNTR/), get `ntr.bin` from the appropriate `.zip` on [this](https://github.com/44670/BootNTR/releases) page and copy it to the root of your SD card, then install `BootNTR.cia` from [this](https://github.com/astronautlevel2/BootNTR/releases/latest) page.
+Για να χρησιμοποιήσετε το [NTR CFW](https://github.com/44670/BootNTR/), αντιγράψτε το`ntr.bin` από το κατάλληλο αρχείο `.zip` σε [this](https://github.com/44670/BootNTR/releases) αυτή την σελίδα στην ρίζα της κάρτας SD, και έπειτα εγκαταστήστε το `BootNTR.cia` από [this](https://github.com/astronautlevel2/BootNTR/releases/latest) αυτή την σελίδα.
 {: .notice--info}
 
 Κρατήστε το αρχείο `NANDmin.bin`, καθώς μπορεί να επαναφερθεί από το Hourglass9 και να σας σώσει από μία αχρήστευση της συσκευής σας στο μέλλον.

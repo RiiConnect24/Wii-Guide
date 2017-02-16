@@ -20,11 +20,11 @@ permalink: /zh_TW/installing-arm9loaderhax.html
 
 在本節中，我們將完成之前所有準備工作的最終目的：安裝 arm9loaderhax。
 
-這是 3DS 上近乎完美的一種破解方式，因為它可以永久地被裝在 NAND 磁區裡，而且能在大部分的主系統載入完畢前運行。這讓它不僅能在*任意*版本的 3DS 上運行，而還可以保護自身，並能從大多數使非 A9LH 破解的 3DS 變磚的情況中恢復，比如像是裝了個有問題的 HOME 主選單或者一個有問題的程式。
+這是 3DS 上近乎完美的一種破解方式。因為它可以永久地被裝在 NAND 磁區裡，且能在大部分的主系統載入完畢前運行。這讓它不僅能在*任意*版本的 3DS 上使用，而還可以保護自身，並能從大多數使非 A9LH 破解的 3DS 變磚的情況中恢復－比如像是不小心安裝了有問題的 HOME 主選單或程式。
 
 `arm9loaderhax.bin` 這個檔案是 arm9loaderhax 由 NAND 載入自身後所接著加載的，且它可以是任何有效的 arm9 payload。 你隨時可以替換這檔案，不過 Luma3DS 本身就有內建加載其他 arm9 payload 檔案的功能。
 
-本節中，我們將使用 [AuroraWright](https://github.com/AuroraWright/) 所製的 Luma3DS 來直接啟動一個修改後的 SysNAND，讓我們不必再使用任何的 EmuNAND。這除了大量的簡化使用改機後 3DS 所需的步驟，還能節省 SD 卡的使用空間。
+在本節中，我們將使用 [AuroraWright](https://github.com/AuroraWright/) 所製的 Luma3DS 來直接啟動一個修改後的 SysNAND 系統，讓我們擺脫 EmuNAND。這除了大量的簡化使用改機後的 3DS 所需的步驟，更還能節省 SD 卡的使用空間。
 
 當 arm9loaderhax 安裝完畢且正確設定完 Luma3DS 後，我們將還原之前的備份。
 
@@ -54,9 +54,9 @@ permalink: /zh_TW/installing-arm9loaderhax.html
 ##### 第一節 — 準備工作
 
 {% capture notice-5 %}
-**確保你使用的 SD 卡沒有損壞！**
+**請先確保你使用的 SD 卡沒有損壞！**
 
-**如果你用了個損壞的 SD 卡，你將會面臨磚機的風險！**
+**如果你用了個損壞的 SD 卡，你將面臨磚機的風險！**
 
 **如果你認為你目前使用的 SD 卡有問題，請用 [H2testw (Windows)](h2testw-(windows)), [F3 (Linux)](f3-(linux)), 或 [F3X (Mac)](f3x-(mac)) 來檢查！**
 {% endcapture %}
@@ -90,7 +90,7 @@ permalink: /zh_TW/installing-arm9loaderhax.html
   + 如果出現錯誤「當前服務在你的區域不可用（This service is not available in your region）」，請透過系統設置改變你裝置所在的國家，使它與你使用的 2.1.0 ctrtransfer 地區相同
   + 如果遇到其他錯誤的話， [請參見此疑難排解](troubleshooting#ts_browser)
   + 如果螢幕花屏， [請參見此疑難排解](troubleshooting#ts_safe_a9lh_screen)
-  如果你在 2DS 或 New 3DS 上無線功能是關閉的狀態的話，只需要將電池移除並拔掉充電器數秒再重新開啟即可。
+  + 如果你在 2DS 或 New 3DS 上無線功能是關閉的狀態的話，只需要將電池移除並拔掉充電器數秒再重新開啟即可。
 4. 按下「選擇鍵 (Select)」以進行安裝
 5. 安裝包將安裝 arm9loaderhax 至你的裝置上（過程很快）
 6. 按任意按鈕關機
@@ -110,7 +110,7 @@ permalink: /zh_TW/installing-arm9loaderhax.html
   + **「New 3DS CPU」中選擇「Clock+L2(x)」**
     + 某些情況下，這將提高遊戲的流暢度，但也有些遊戲會有不穩的情況
     + 如果有些遊戲無法正常運作的話，請關閉此選項再試一次
-    +若在版本 11.3 上啟用此選項將無法運行 Homebrew Launcher 
+    + 若在版本 11.3 上啟用此選項將無法運行 Homebrew Launcher
 4. 按下「開始鍵 (Start)」以存檔並重新啟動系統
   + 如果黑屏，直接到下一節即可   
   + 如果你遇到「Failed to mount CTRNAND」錯誤的話，直接跳到下一節即可     
@@ -135,7 +135,7 @@ permalink: /zh_TW/installing-arm9loaderhax.html
   + 在 A9LH + Luma （不管你用什麼）底下更新是沒問題的，別再問啦
   + 之前有說過千萬不要在 New 3DS 上更新 2.1.0 韌體，這點在還原過 NAND 備份後就沒關係了。
   + 如果過程中出現錯誤，試試到 DNS 設定底下將設定改成「自動 （auto）」
-  + 如果錯誤持續，且你 NAND 的系統版本為 9.2.0，請進行[版本 9.2.0 的 ctrtransfer](9.2.0-ctrtransfer)
+  + 如果錯誤持續，且你 NAND 的系統版本為 9.2.0 以下，請進行[版本 9.2.0 的 ctrtransfer](9.2.0-ctrtransfer)
 
 ##### 第五節 — 注入 FBI 管理器
 
@@ -177,7 +177,7 @@ permalink: /zh_TW/installing-arm9loaderhax.html
   + **「New 3DS CPU」中選擇「Clock+L2(x)」**
     + 某些情況下，這將提高遊戲的流暢度，但也有些遊戲會有不穩的情況
     + 如果有些遊戲無法正常運作的話，請關閉此選項再試一次
-    +若在版本 11.3 上啟用此選項將無法運行 Homebrew Launcher 
+    + 若在版本 11.3 上啟用此選項將無法運行 Homebrew Launcher
 24. 重新插入你的 SD 卡，按下「開始鍵 (Start)」存檔並重啟！
 
 ___
@@ -186,15 +186,15 @@ ___
 {: .notice--warning}
 
 {% capture notice-10 %}
-你現在可以用 Luma3DS Updater 來更新你裝置上的 Luma3DS，只要將它開啟然後再按下「A」就好了。     
+你現在可以透過 Luma3DS Updater 來更新你裝置上的 Luma3DS 系統。只要將更新器開啟再按下「A」即可。     
 這跟系統更新是不一樣的；這只會下載並解壓最新的 Luma3DS 檔案。
-這只會更新 SD 卡上的 Luma3DS 檔案。 如果你在拔除 SD 卡的情況下開機，它則會用你放在 CTRNAND 裡的 Luma3DS 版本。    
+這只會更新 SD 卡上的 Luma3DS 檔案。 如果你在拔除 SD 卡的情況下開機，它則會用你放在 CTRNAND 裡的 Luma3DS 版本啟動。    
 {% endcapture %}
 
 <div class="notice--info">{{ notice-10 | markdownify }}</div>
 
 {% capture notice-6 %}   
-預設情況下，每次開機都會進入自製到 SysNAND 的系統中。    
+預設情況下，每次開機自動進入到自製的 SysNAND 系統中。    
 你現在可以在開機時按住「選擇鍵 (Select)」啟動 Luma3DS 的設定選單。    
 你現在可以於開機時按住「開始鍵 (Start)」啟動 Hourglass9。     
 {% endcapture %}
@@ -210,7 +210,7 @@ ___
 留好 `NANDmin.bin` 檔案，如果你未來磚機了你可以透過 Hourglass9 還原你的裝置。
 {: .notice--info}
 
-只要你電腦上還存有 NAND 備份，你可以從 `/files9/` 中刪除先前的備份。
+只要你還另外存有 NAND 備份，你可以從 `/files9/` 中刪除先前的備份。
 {: .notice--info}
 
 {% capture notice-7 %}

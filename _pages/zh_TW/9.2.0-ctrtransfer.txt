@@ -4,13 +4,13 @@ lang: zh-Hant
 permalink: /zh_TW/9.2.0-ctrtransfer.html
 ---
 
-如果你降級至 2.1.0 了，但是你手上沒有**可用的 NAND 備份**，別怕，本教學是專為你而寫的。
+如果你降級至 2.1.0 了，但是你手上沒有**可用的 NAND 備份**。別怕，本教學是專為你而寫的。
 {: .notice--success}
 
-在 ctrtransfer 後，你的裝置可能會看不到你所安裝的遊戲。 這是因為在轉移後，那些 tickets 都將被移除。也就是為什麼你該先進行備份。 在這教學最後，我們將回復這點。
+在 ctrtransfer 後，你可能會看不到你之前所安裝的遊戲。 這是因為在轉移後，那些程式的 tickets 都將被移除。這也就是為什麼你該先進行備份。 在本教學最後我們將還原那些程式。
 {: .notice--info}
 
-因為 9.2.0 ctrtransfer 的意義是在於排除現成 NAND 所造成的問題，所以不像 2.1.0 的 ctrtransfer，這裡只需要你備份 tickets 及設定檔。 如果你沒備份這些檔案的話，你所有已安裝的遊戲及存檔將遺失！
+進行 9.2.0 的 ctrtransfer 的意義是為了排除現成 NAND 所造成的問題。所以不像 2.1.0 的 ctrtransfer，這裡只需要你備份 tickets 及設定檔。 如果你沒備份這些檔案的話，你將遺失所有已安裝的遊戲及存檔！
 {: .notice--danger}
 
 #### 必備項目
@@ -31,14 +31,14 @@ permalink: /zh_TW/9.2.0-ctrtransfer.html
 
 ##### 第一節 — 準備工作
 
-1. 解壓 GodMode9 `.zip` 中的 `GodMode9.bin` 到 SD 卡中的 `/luma/payloads/` 底下，並重新命名為 `up_GodMode9.bin`
-2. 從剛下載的 ctrtransfer`.zip` 中，解壓 9.2.0 ctrtransfer 鏡像檔 `.bin` 及 `.bin.sha` 檔案至 SD 卡上的 `/files9/` 資料夾
-3. 複製 `Decrypt9WIP.bin` 到 SD 卡底下的 `/luma/payloads/` 資料夾內，並將它重新命名為`x_Decrypt9WIP.bin`
+1. 解壓 GodMode9 `.zip` 中的 `GodMode9.bin` 到 SD 卡的 `/luma/payloads/` 資料夾內，並將其重新命名為 `up_GodMode9.bin`
+2. 解壓 ctrtransfer `.zip` 中的 9.2.0 `.bin` 及 `.bin.sha` 檔案至 SD 卡上的 `/files9/` 資料夾
+3. 複製 `Decrypt9WIP.bin` 到 SD 卡的 `/luma/payloads/` 資料夾內，並將其重新命名為`x_Decrypt9WIP.bin`
 4. 將 SD 卡插回 3DS 中
 
 ##### 第二節 — 備份 tickets 及系統設定檔
 
-1. 開機時按住「X」以啟動 arm9loaderhax Decrypt9
+1. 開機時按住「X」以透過 arm9loaderhax 啟動 Decrypt9
 2. 選擇「Ticket/Titlekey Options」中的「Ticket Dump (SysNAND)」
 3. 按下「選擇鍵 (Select)」以卸除 SD 卡，並插入至電腦裡
 4. 刪除所有**非** 00- 開頭的 `.tik` 檔案
@@ -49,11 +49,11 @@ permalink: /zh_TW/9.2.0-ctrtransfer.html
 ##### 第三節 — ctrtransfer
 
 1. 選擇「SysNAND Options」、 「CTRNAND Transfer」、「Auto CTRNAND Transfer」
-2. 當提示時，輸入的按鍵組合，並選取 9.2.0 ctrtransfer 的鏡像檔
+2. 按照提示按按鍵，並在提示時按「A」鍵來選取 9.2.0 ctrtransfer 的鏡像檔
 3. 如果你尚未進行 NAND 備份，**請在提示出現時按下「A」以備份 SysNAND 至 `NANDmin.bin`**
-4. 備份過程將耗費一段時間，請耐心等候
-5. 備份完成後，按下「選擇鍵 (Select)」以卸除 SD 卡
-6. 將 SD 卡插入至你的電腦裡，並從`/files9/`資料夾中複製`NANDmin.bin`及`NANDmin.bin.sha`到一個安全可靠的地方
+4. 轉移及備份過程將耗費一段時間，請耐心等候
+5. 轉移完成後，按下「選擇鍵 (Select)」以卸除 SD 卡
+6. 將 SD 卡插入至你的電腦裡，並從 `/files9/` 資料夾中複製 `NANDmin.bin` 及 `NANDmin.bin.sha` 到一個安全可靠的地方
   + 盡量把備份存在各個不同的地方
   + 未來如果你不小心玩到磚機，它將會是你的救命恩人
 7. 在 SD 卡底下，刪除 `/files9/` 資料夾底下的 9.2.0 ctrtransfer 鏡像檔 `.bin` 及 `.bin.sha` 檔案
@@ -65,7 +65,7 @@ permalink: /zh_TW/9.2.0-ctrtransfer.html
 
 ##### 第四節 — 還原系統設定檔
 
-1. 重開機時按住「X」以啟動 arm9loaderhax Decrypt9
+1. 重啟時按住「X」以透過 arm9loaderhax 啟動 Decrypt9
 2. 到「SysNAND Options」、「System Save Inject」中選擇「Inject configsave.bin」
 3. 按「B」以回到主選單
 
@@ -73,7 +73,7 @@ permalink: /zh_TW/9.2.0-ctrtransfer.html
 
 1. 選擇「SysNAND Options」、「Miscellaneous」中選擇「Health&Safety Dump」以匯出「健康與安全」程式至 `hs.app` **（你可以透過方向鍵更改名字）**
 2. 按下「B」，選擇「Health&Safety Inject」
-3. 選擇對應裝置區域可注入 FBI 管理器的`.app`檔
+3. 選擇對應裝置區域的 FBI 管理器的 `.app` 檔
 4. 按下「A」以確認注入
 5. 按下「開始鍵 (Start)」以重啟
 6. 如果你進入的依然是官方的「健康與警示」程式，並且之前曾經用 Gateway 進行過系統降級，[請參見此疑難排解](troubleshooting#gw_fbi)

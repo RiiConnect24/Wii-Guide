@@ -46,10 +46,9 @@ permalink: /el_GR/updating-a9lh.html
 6. Μετονομάστε το `arm9loaderhax.bin` που βρίσκεται στο `/luma/payloads/` σε `down_safea9lhinstaller.bin`
 7. Αντιγράψτε τον φάκελο `a9lh` από το data_input `.zip` στη ρίζα της κάρτας SD
 8. Αντιγράψτε_τα περιεχόμενα του_ arm9loaderhax `.7z` στο φάκελο `a9lh` της κάρτας SD
-9. Αντιγράψτε το αρχείο `arm9loaderhax.bin` από το Luma3DS `.zip` στη ρίζα της κάρτας SD, αντικαθιστώντας τυχόν υπάρχοντα αρχεία
 10. Επανατοποθετήστε την κάρτα SD μέσα στο 3DS
 
-##### Section II - Payload update
+##### Τμήμα ΙΙ - Ενημέρωση payload
 
 1. Τοποθετήστε ξανά την κάρτα SD στo 3DS σας και εκκινήστε το σύστημα κρατώντας το (Dοwn)
 2. Πατήστε (Select) για να ενημερώσετε το arm9loaderhax
@@ -64,11 +63,11 @@ permalink: /el_GR/updating-a9lh.html
   + **"Autoboot SysNAND"**
   + **"Use SysNAND FIRM if booting with R"**
   + **"Show NAND or user string in System Settings"**
-3. If you are using a **New 3DS**, you should *also* enable the following:
+3. Εάν χρησιμοποιείτε το **New 3DS**, μπορείτε *επίσης* να ενεργοποιήστε και το παρακάτω:
   + **"New 3DS CPU" to "Clock+L2(x)"**
     + Αυτό θα αυξήσει το framerate σε πολλά παιχνίδια, αλλά μπορεί να προκαλέσει αστάθεια σε άλλα
     + Εάν μερικά παιχνίδια δεν λειτουργούν σωστά, απενεργοποιήστε αυτήν την ρύθμιση και δοκιμάστε ξανά
-4. Press (Start) to save and reboot
+4. Πατήστε (Start) για αποθήκευση των αλλαγών και επανεκκίνηση
 
 ##### Ενότητα IV - CTRNAND Luma3DS
 
@@ -81,11 +80,11 @@ permalink: /el_GR/updating-a9lh.html
 7. Επιλέξτε "Paste" και πατήστε (A) για επιβεβαίωση
 8. Πραγματοποιήστε έξοδο πατώντας το home button
 9. Απενεργοποιήστε το 3DS σας και αφαιρέστε την κάρτα SD
-10. Boot with the SD card removed while holding (Select)
-  + Booting the device at least once with the SD card removed will allow you to configure the CTRNAND based Luma3DS installation
+10. Κάντε εκκίνηση του συστήματος χωρίς την κάρτα SD κρατώντας πατημένο το (Select)
+  + Εκκινώντας την συσκευή τουλάχιστον μία φορά χωρίς την κάρτα SD, θα σας επιτρέψει να ρυθμίσετε το CTRNAND με βάση την εγκατάσταση του Luma3DS
 11. Χρησιμοποιήστε το κουμπί (A) και το D-Pad για να ενεργοποιήσετε το παρακάτω:    
   + **"Show NAND or user string in System Settings"**
-12. If you are using a **New 3DS**, you should *also* enable the following:
+12. Εάν χρησιμοποιείτε το **New 3DS**, μπορείτε *επίσης* να ενεργοποιήστε και το παρακάτω:
   + **"New 3DS CPU" to "Clock+L2(x)"**
     + Αυτό θα αυξήσει το framerate σε πολλά παιχνίδια, αλλά μπορεί να προκαλέσει αστάθεια σε άλλα
     + Εάν μερικά παιχνίδια δεν λειτουργούν σωστά, απενεργοποιήστε αυτήν την ρύθμιση και δοκιμάστε ξανά
