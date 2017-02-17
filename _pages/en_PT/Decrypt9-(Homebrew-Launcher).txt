@@ -30,7 +30,5 @@ permalink: /en_PT/decrypt9-(homebrew-launcher).html
 
 ___
 
-___
-
 Continue to [2.1.0 ctrtransfer](2.1.0-ctrtransfer)    
 {: .notice--primary}

@@ -31,7 +31,5 @@ If you have already hacked your 3DS before and have a EmuNAND based CFW setup, t
 
 ___
 
-___
-
 Continue to [2.1.0 ctrtransfer](2.1.0-ctrtransfer).
 {: .notice--primary}
