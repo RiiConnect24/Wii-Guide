@@ -142,10 +142,11 @@ Si, antes de seguir a esta guía, ya tenías una configuración EmuNAND y deseas
 1. Enciende tu consola mientras presionas (Start) para entrar a Hourglass9
 2. Ve a "SysNAND Backup/Restore", luego selecciona la opción "Health&Safety Dump" para extraer Información sobre salud y seguridad a `hs.app` **(puedes usar las flechas para cambiar el nombre)**
 3. Presiona (B), luego selecciona la opción "Health&Safety Inject"
-4. Selecciona el `.app` inyectable de FBI correspondiente a tu región
-5. Presiona (A) y confirma para inyectar
-6. Presiona (Start) para reiniciar
-7. Si aún así abres la aplicación normal de Información sobre salud y seguridad y downgradeaste con Gateway en el pasado, [sigue esta guía](troubleshooting#gw_fbi)
+4. Pulsa la combinación de teclas mostrada
+5. Selecciona el `.app` inyectable de FBI correspondiente a tu región
+6. Presiona (A) y confirma para inyectar
+7. Presiona (Start) para reiniciar
+8. Si aún así abres la aplicación normal de Información sobre salud y seguridad y downgradeaste con Gateway en el pasado, [sigue esta guía](troubleshooting#gw_fbi)
 
 ##### Sección VI - Finalizando la instalación
 

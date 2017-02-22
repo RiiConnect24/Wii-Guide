@@ -82,10 +82,11 @@ Estos pasos también actualizarán tus diversos payloads y la base de datos de c
 9. Apaga tu 3DS y retira la tarjeta SD
 10. Enciende la consola sin la tarjeta SD manteniendo presionando (Select)
   + Encender la consola sin la tarjeta SD al menos una vez te permitirá configurar la instalación de Luma3DS basada en CTRNAND
-11. Presiona el botón (A) y utiliza las flechas direccionales para activar lo siguiente:    
+11. Utiliza el botón (A) y las flechas direccionales para activar lo siguiente:    
   + **"Show NAND or user string in System Settings"**
 12. Si estás usando una **New 3DS**, deberías *también* activar lo siguiente:
-  + **"New 3DS CPU" to "Clock+L2(x)"**
+  + **"New 3DS CPU" a "Clock+L2(x)"**
     + Esto aumentará los fotogramas por segundo (FPS) de muchos juegos, pero también podría causar inestabilidad en otros
     + Si algunos juegos no funcionan correctamente, deshabilita esta opción y vuelve a intentarlo
+    + ¡Esto hará que el Homebrew Launcher deje de funcionar en 11.3!
 13. ¡Vuelve a insertar la tarjeta SD en la consola, y luego presiona Start para guardar y reiniciar!
