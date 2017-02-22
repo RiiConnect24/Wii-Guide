@@ -20,7 +20,7 @@ In the case of "5.0.0-0U" for example, you would follow the "No Browser" column 
 {:/comment}
 
 {::comment}
-For all versions you can also [Cart Update](cart-update) to a higher version in the same column to follow its instructions.
+For all versions you can also [Cart Update](cart-update) to a higher version in the same column to follow its instructions, but you will need an [alternate method](homebrew-launcher-(alternatives)) of entering the homebrew launcher as SoundHax will not work.
 {: .notice--warning}
 {:/comment}
 

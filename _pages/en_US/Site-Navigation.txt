@@ -35,6 +35,7 @@ sitemap: false
 + [H2testw (Windows)](h2testw-(windows))
 + [Home](/)
 + [Homebrew Launcher (SoundHax)](homebrew-launcher-(soundhax))
++ [Homebrew Launcher (Alternatives)](homebrew-launcher-(alternatives))
 + [Installing arm9loaderhax](installing-arm9loaderhax)
 + [Move EmuNAND](move-emunand)
 + [NTR and Cubic Ninja](ntr-and-cubic-ninja)
