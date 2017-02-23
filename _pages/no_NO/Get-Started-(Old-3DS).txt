@@ -86,10 +86,5 @@ Enhetsversjonen kan finnes på nederst på høyre side av toppskjermen i systemi
       <td style="text-align: center">11.3.0</td>
       <td style="text-align: center" colspan="2">-</td>
     </tr>
-    <tr>
-      <td style="text-align: center">11.3.0</td>
-      <td style="text-align: center">11.3.0</td>
-      <td style="text-align: center" colspan="2">-</td>
-    </tr>
   </tbody>
 </table>

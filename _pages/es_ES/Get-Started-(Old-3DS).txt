@@ -86,10 +86,5 @@ La versión del sistema se puede encontrar en la parte inferior derecha de la pa
       <td style="text-align: center">11.3.0</td>
       <td style="text-align: center" colspan="2">-</td>
     </tr>
-    <tr>
-      <td style="text-align: center">11.3.0</td>
-      <td style="text-align: center">11.3.0</td>
-      <td style="text-align: center" colspan="2">-</td>
-    </tr>
   </tbody>
 </table>
