@@ -10,7 +10,7 @@ Se hai effettuato il downgrade alla versione di sistema 2.1.0 ma per qualche mot
 La tua console potrebbe non visualizzare più i giochi installati dopo il ctrtransfer. La causa è la rimozione dei ticket durante il trasferimento, per cui è necessario effettuarne il backup. Verranno ripristinati al termine della guida.
 {: .notice--info}
 
-Dato che lo scopo di un ctrtransfer 9.2.0 è la risoluzione di problemi nella NAND preesistente, a differenza di quanto accadrebbe con un ctrtransfer 2.1.0 durante la guida verranno salvati soltanto i ticket e i file di configurazione di sistema. Se non salverai questi dati, perderai TUTTI i giochi installati e i salvataggi!
+Dato che lo scopo di un ctrtransfer 9.2.0 è la risoluzione di problemi nella NAND preesistente, a differenza di quanto accadrebbe con un ctrtransfer 2.1.0 durante la guida verranno salvati soltanto i ticket. Se non salverai questi dati, perderai TUTTI i giochi installati e i salvataggi!
 {: .notice--danger}
 
 #### Cosa serve
@@ -36,7 +36,7 @@ Dato che lo scopo di un ctrtransfer 9.2.0 è la risoluzione di problemi nella NA
 3. Copia il file `Decrypt9WIP.bin` nella cartella `/luma/payloads/` della tua scheda SD e rinomina il file `Decrypt9WIP.bin` in `x_Decrypt9WIP.bin`
 4. Reinserisci la scheda SD nel 3DS
 
-##### Sezione II - Backup dei ticket e della configurazione di sistema
+##### Sezione II - Backup dei ticket
 
 1. Avvia Decrypt9 dall'arm9loaderhax tenendo premuto (X) all'avvio
 2. Seleziona "Ticket/Titlekey Options", quindi seleziona "Ticket Dump (SysNAND)"
@@ -44,7 +44,6 @@ Dato che lo scopo di un ctrtransfer 9.2.0 è la risoluzione di problemi nella NA
 4. Elimina tutti i file con estensione `.tik` presenti nella cartella `/files9/` che **NON** cominciano con "00-"
   + Se nessuno comincia con "00-", eliminali tutti
 5. Reinserisci la scheda SD nel tuo 3DS, quindi premi (B) per tornare al menu principale
-6. Seleziona "SysNAND Options", quindi "System Save Dump", e infine "Dump configsave.bin"
 
 ##### Sezione III - ctrtransfer
 
@@ -57,26 +56,23 @@ Dato che lo scopo di un ctrtransfer 9.2.0 è la risoluzione di problemi nella NA
   + Crea delle copie di backup e salvale in posti sicuri
   + Questi backup ti salveranno da un brick nel caso dovesse accadere qualcosa in futuro
 7. Elimina i file `.bin` e `.bin.sha` del ctrtransfer 9.2.0 dalla cartella `/files9/` della tua scheda SD
-8. Reinserisci la scheda SD nel 3DS
+8. Reinserisci la scheda SD nel Nintendo 3DS
 9. Premi (Start) per riavviare la console
 10. Aggiorna il tuo 3DS andando su Impostazioni della console, poi "Impostazioni generali", infine scorri a destra e seleziona "Aggiornamento"
   + Gli aggiornamenti effettuati usando A9LH + Luma (ora installato) sono sicuri, per cui basta chiederne la conferma
   + Se ottieni un errore, imposta i DNS della connessione di rete in modo che vengano ottenuti automaticamente
 
-##### Sezione IV - Ripristino della configurazione di sistema
-
-1. Avvia Decrypt9 dall'arm9loaderhax tenendo premuto (X) all'avvio
-2. Seleziona "SysNAND Options", quindi "System Save Inject", ed infine "Inject configsave.bin"
-3. Premi (B) per tornare al menu principale
-
 ##### Sezione V - Injecting di FBI
 
-1. Seleziona "SysNAND Options", poi "Miscellaneous", quindi l'opzione "Health&Safety Dump" per effettuare un dump di "Informazioni per la salute e la sicurezza" nel file `hs.app` **(puoi usare (Su) e (Giù) / (Sinistra) e (Destra) per cambiare il nome)**
-2. Premi (B), quindi seleziona l'opzione "Health&Safety Inject"
-3. Seleziona il file `.app` di FBI injectable in base alla regione della tua console
-4. Premi (A) per confermare l'inject
-5. Premi (Start) per riavviare la console
-6. Se al lancio di "Informazioni per la salute e la sicurezza" appare la schermata originale dell'applicazione e in passato hai effettuato un downgrade tramite Gateway, [segui questa guida per risolvere il problema](troubleshooting#gw_fbi)
+1. Riavvia la console tenendo premuto (Start) per avviare Hourglass9
+2. Seleziona "SysNAND Backup/Restore", quindi l'opzione "Health&Safety Dump" per effettuare un dump di "Informazioni per la salute e la sicurezza" nel file `hs.app` **(puoi usare (Su) e (Giù) / (Sinistra) e (Destra) per cambiare il nome)**
+  + Se il file è già presente, puoi saltare la parte del dump
+3. Premi (B), quindi seleziona l'opzione "Health&Safety Inject"
+4. Inserisci la combinazione di pulsanti a schermo
+5. Seleziona il file `.app` di FBI injectable in base alla regione della tua console
+6. Premi (A) per confermare l'inject
+7. Premi il pulsante (Start) per riavviare la console
+8. Se al lancio di "Informazioni per la salute e la sicurezza" appare la schermata originale dell'applicazione e in passato hai effettuato un downgrade tramite Gateway, [segui questa guida per risolvere il problema](troubleshooting#gw_fbi)
 
 ##### Sezione VI - Ripristino dei Ticket
 
@@ -93,10 +89,14 @@ Se non hai ticket che cominciano con 00-, puoi saltare questa sezione.
 8. Premi (B) per rifiutare l'installazione di ticket dal CDN.
 9. Esci con il pulsante HOME
 
-___
+##### Sezione VII - Ripristino di Informazioni per la salute e sicurezza
 
-Formattare una console appena sottoposta ad un ctrtransfer *senza ripristinare la configurazione di sistema* può causare problemi di luminosità / sfarfallio allo schermo. Nel caso, segui [questo procedimento](https://github.com/Plailect/Guide/issues/794).
-{: .notice--info}
+1. Premi e tieni premuto il pulsante (Start) per riavviare la console in Hourglass9   
+2. Seleziona "SysNAND Backup/Restore", poi seleziona "Health&Safety Inject"
+3. Seleziona `hs.app` (il file originale, che non contiene FBI), poi premi (A) per confermare la sostituzione
+4. Premi il pulsante (Start) per riavviare la console
+
+___
 
 Ritorna all'[Installazione dell'arm9loaderhax](installing-arm9loaderhax).
 {: .notice--primary}

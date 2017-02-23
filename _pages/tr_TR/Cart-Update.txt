@@ -7,8 +7,12 @@ permalink: /tr_TR/cart-update.html
 Her oyun kartuşu içinde daha düşük versiyondaki cihazları güncellenmesine olanak veren (internet olmasa bile) ve oynayabilmek için gerekli sistem versiyonunu içerir.
 {: .notice--info}
 
-Kartuş güncellemeleri, Sistem Ayarları, Ana Menü, Nintenso 3DS Sesi gibi sadece temel özelliklerin güncellemesini içerir. Kartuş Güncellemeleri Sistem transferi, İnternet Tarayıcısı, StreetPass, Mii Plaza veya eShop gibi Ağ bağlantılı özellikleri içermez.
+Kartuş güncelleştirmeleri sadece temel özellikleri içerir, örneğin; Sistem ayarları, Ana Menü vb. Kartuş güncelleştirmeleri Nintendo 3DS Sound ve Ağ özelliği güncellemeleri içermez.
 {: .notice--info}
+
+Bu şu anlama gelir, eğer versiyon <9.0.0'dan düşük bir kartuş güncellemesi [Soundhax](homebrew-launcher-(soundhax))! bozar! Homebrew'ı çalıştırmak için [alternatif bir yöntem](homebrew-launcher-(alternatives)) gerekir!
+{: .notice--warning}
+
 
 Bu demektir ki kartuş güncellemesi eğer sizde hali hazırda mevcut ise tarayıcı YÜKLEMEZ. Bu **sadece** var olan sistem versiyonunu günceller *(örneğin, 2.1.0-0 -> 6.0.0-0)*. Son numara *(-0)* **değişmez**.
 {: .notice--warning}

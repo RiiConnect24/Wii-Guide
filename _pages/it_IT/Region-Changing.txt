@@ -19,7 +19,10 @@ Dopo questo procedimento, solo i **New 3DS che non hanno mai acceduto all'eShop*
 Tieni presente che occasionalmente l'eShop potrebbe non funzionare senza alcun motivo apparente. Questo dipende totalmente dai server Nintendo, e non si può fare assolutamente nulla al riguardo.
 {: .notice--warning}
 
-Il cambio regione tramite ctrtransfer (effettuato in questa guida) sembra far smettere di funzionare le patch relative al riavvio della console. La causa è sconosciuta, ma al momento gli utenti in possesso di un Old 3DS non potranno avviare giochi che utilizzano la modalità a memoria estesa (come Monster Hunter, Super Smash Bros e Pokémon Sole / Luna).
+In maniera molto simile, l'eShop potrebbe invece funzionare su console per cui non dovrebbe (come su alcuni New 3DS). Le cause sono correntemente sconosciute.
+{: .notice--warning}
+
+Il cambio regione tramite ctrtransfer (effettuato in questa guida) sembra far smettere di funzionare le patch relative al riavvio della console. La causa è sconosciuta, ma al momento gli utenti in possesso di un Old 3DS non potranno avviare giochi che utilizzano la modalità a memoria estesa (come Monster Hunter, Super Smash Bros e Pokémon Sole / Luna) finché non formattano la console (maggiori dettagli in fondo alla pagina).
 {: .notice--warning}
 
 **È NECESSARIO aver già installato arm9loaderhax e Luma3DS per proseguire.**
@@ -50,7 +53,7 @@ Il cambio regione tramite ctrtransfer (effettuato in questa guida) sembra far sm
 3. Copia i file del ctrtransfer 9.2.0 con estensione `.bin` e `.bin.sha` dall'archivio `.zip` ctrtransfer alla cartella `/files9/` presente nella scheda SD
 4. Reinserisci la scheda SD nel 3DS
 
-##### Sezione II - Backup dei ticket e della configurazione di sistema
+##### Sezione II - Backup dei ticket
 
 1. Premi il pulsante (Start) mentre tieni premuto il pulsante (X) per riavviare la console in Decrypt9 tramite arm9loaderhax     
 3. Seleziona "Ticket/Titlekey Options", quindi seleziona "Ticket Dump (SysNAND)"
@@ -58,7 +61,6 @@ Il cambio regione tramite ctrtransfer (effettuato in questa guida) sembra far sm
 5. Elimina tutti i file con estensione `.tik` presenti nella cartella `/files9/` che **NON** cominciano con "00-"
 6. Lascia stare tutti i file con estensione `.tik` che cominciano con "00-" presenti nella cartella
 7. Reinserisci la scheda SD nel tuo 3DS, quindi premi (B) per tornare al menu principale
-8. Seleziona "SysNAND Options", quindi "System Save Dump", e infine "Dump configsave.bin"
 
 ##### Sezione III - ctrtransfer
 
@@ -71,7 +73,7 @@ Il cambio regione tramite ctrtransfer (effettuato in questa guida) sembra far sm
   + Crea delle copie di backup e salvale in posti sicuri
   + Questi backup ti salveranno da un brick nel caso dovesse accadere qualcosa in futuro
 7. Dopo la copia, elimina i file `.bin` e `.bin.sha` del ctrtransfer 9.2.0 dalla cartella `/files9/` della tua scheda SD
-8. Reinserisci la scheda SD nel 3DS
+8. Reinserisci la scheda SD nel Nintendo 3DS
 
 ##### Sezione IV - Modifica di SecureInfo
 
@@ -95,9 +97,20 @@ Il cambio regione tramite ctrtransfer (effettuato in questa guida) sembra far sm
     - "02" : EUR
 16. Premi (B) per uscire dalla modalità modifica, poi salva le modifiche, quindi premi di nuovo il pulsante (B) per tornare alla cartella
 17. Se è andato tutto a buon fine, ora dovresti avere sia un file `SecureInfo_A` sia un file `SecureInfo_C`. (`SecureInfo_C` verrà utilizzato al posto di `SecureInfo_A` all'avvio nel caso in cui Luma3DS ne rilevasse la presenza)
-18. Premi il pulsante (Start) per riavviare la console
+18. Premi e tieni premuto il pulsante (Start) per riavviare la console in Hourglass9
 
-##### Sezione V - Ripristino dei Ticket
+##### Sezione V - Injecting di FBI
+
+1. Seleziona "SysNAND Backup/Restore", quindi l'opzione "Health&Safety Dump" per effettuare un dump di "Informazioni per la salute e la sicurezza" nel file `hs.app` **(puoi usare (Su) e (Giù) / (Sinistra) e (Destra) per cambiare il nome)**
+  + Se il file è già presente, puoi saltare la parte del dump
+2. Premi (B), quindi seleziona l'opzione "Health&Safety Inject"
+3. Inserisci la combinazione di pulsanti a schermo
+4. Seleziona il file `.app` di FBI injectable in base alla regione della tua console
+5. Premi (A) per confermare l'inject
+6. Premi il pulsante (Start) per riavviare la console
+7. Se al lancio di "Informazioni per la salute e la sicurezza" appare la schermata originale dell'applicazione e in passato hai effettuato un downgrade tramite Gateway, [segui questa guida per risolvere il problema](troubleshooting#gw_fbi)
+
+##### Sezione VI - Ripristino dei Ticket
 
 1. Avvia FBI
 2. Seleziona "SD"
@@ -109,7 +122,7 @@ Il cambio regione tramite ctrtransfer (effettuato in questa guida) sembra far sm
 8. Premi (B) per rifiutare l'installazione di ticket dal CDN.
 9. Esci premendo il pulsante HOME
 
-##### Section VI - Cambio dell'area di residenza
+##### Section VII - Cambio dell'area di residenza
 
 1. Apri le Impostazioni della console
 2. Vai su "Impostazioni generali", poi "Profilo", quindi "Area di residenza"
@@ -117,15 +130,14 @@ Il cambio regione tramite ctrtransfer (effettuato in questa guida) sembra far sm
 4. Se richiesto, non è necessario selezionare uno stato
 5. Dopo aver cambiato l'area di residenza, aggiorna la SysNAND all'ultima versione del software di sistema
 
-##### Sezione VII - Ripristino della configurazione di sistema
+##### Sezione VIII - Ripristino di Informazioni per la salute e sicurezza
 
-1. Premi il pulsante (Start) mentre tieni premuto il pulsante (X) per riavviare la console in Decrypt9 tramite arm9loaderhax   
-2. Seleziona "SysNAND Options", quindi "System Save Inject", ed infine "Inject configsave.bin"
+1. Premi e tieni premuto il pulsante (Start) per riavviare la console in Hourglass9   
+2. Seleziona "SysNAND Backup/Restore", poi seleziona "Health&Safety Inject"
+3. Seleziona `hs.app` (il file originale, che non contiene FBI), poi premi (A) per confermare la sostituzione
+4. Premi il pulsante (Start) per riavviare la console
 
 ___
 
 Le console Old 3DS / 2DS potrebbero dover essere formattate (tramite TinyFormat o con le Impostazioni della console) per poter utilizzare la modalità memoria estesa (con ad esempio Monster Hunter, Super Smash Bros o Pokémon Sole/Luna).
-{: .notice--info}
-
-Formattare una console appena sottoposta ad un ctrtransfer *senza ripristinare la configurazione di sistema* può causare problemi di luminosità / sfarfallio allo schermo. Nel caso, segui [questo procedimento](https://github.com/Plailect/Guide/issues/794).
 {: .notice--info}

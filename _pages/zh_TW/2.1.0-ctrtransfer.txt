@@ -16,7 +16,7 @@ permalink: /zh_TW/2.1.0-ctrtransfer.html
 **目前為止，在 2.1.0 ctrtransfer 後，裝置 _一定_ 得在連網的情況下才能完成本章節。**
 {: .notice--warning}
 
-**在進行 2.1.0 ctrtransfer 前，請先關閉家長監護功能。 如果你不知道密碼的話，請見[此](https://mkey.salthax.org/)。**
+**在進行 2.1.0 ctrtransfer 前，請先關閉家長監護功能。 如果你不知道密碼的話，請見[此](https://mkey.salthax.org/)。 如果你的 NNID 因為是給低於13歲的小孩所設置的而無法關閉家長監護的話，你可以將各個家長監護選項停用。**
 {: .notice--warning}
 
 **直到還原備份為止，進行 ctrtransfer 將移除裝置上所有使用者安裝的 ticket。 千萬不要跳過備份這步驟！**

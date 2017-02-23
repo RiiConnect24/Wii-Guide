@@ -20,7 +20,7 @@ permalink: /zh_CN/get-started-(new-3ds).html
 {:/comment}
 
 {::comment}
-所有系统版本都可以进行[卡带升级](cart-update) 到更高版本，并按照其所在列进行相应教程。
+你可以在每个本版用[卡牌升级](cart-update) 到更高的版本在同表格然后遵循它的指示， 但是你会需要一个[别的法子](homebrew-launcher-(alternatives))为进入自制程序启动器因为你不可能用声音破解。
 {: .notice--warning}
 {:/comment}
 

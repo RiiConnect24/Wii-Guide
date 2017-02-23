@@ -1,5 +1,5 @@
 ---
-title: "Homebrew Launcher (SoundHax)" #
+title: "Homebrew Launcher (Soundhax)" #
 lang: tr
 permalink: /tr_TR/homebrew-launcher-(soundhax).html
 ---
@@ -24,7 +24,7 @@ Soundhax; EUR, JPN, KOR ve USA bölge cihazlarda 9.0.0,'dan 11.2.0'a kadar olan 
 4. SD kartınızı cihazınıza takın
 5. Cihazınızdan Nintendo 3DS Sound uygulamasını çalıştırın
 6. Kuş tavsiyelerini geçtikten sonra, aplikasyonu normal şekilde kapatın ve tekrar açın
-  + SoundHax'i hemen açmak, bu bitene kadar Nintendo 3DS Sound'un her açılışında tavsiyelerin çıkmasına sebep olur
+  + SoundHax'i hemen açmak, bu işlem bitene kadar Nintendo 3DS Sound'un her açılışında tavsiyelerin çıkmasına sebep olur
 7. `/SDCARD` gidin, "<3 nedwill 2016" dosyasını oynatın
   + Bir kaç kere denemeniz gerekebilir
   + Eğer donarsa, konsolun kapatma tuşuna konsol kapanana kadar basın, sonra tekrar deneyin

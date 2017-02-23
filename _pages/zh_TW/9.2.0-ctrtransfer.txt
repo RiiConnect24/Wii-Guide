@@ -10,7 +10,7 @@ permalink: /zh_TW/9.2.0-ctrtransfer.html
 在 ctrtransfer 後，你可能會看不到你之前所安裝的遊戲。 這是因為在轉移後，那些程式的 tickets 都將被移除。這也就是為什麼你該先進行備份。 在本教學最後我們將還原那些程式。
 {: .notice--info}
 
-進行 9.2.0 的 ctrtransfer 的意義是為了排除現成 NAND 所造成的問題。所以不像 2.1.0 的 ctrtransfer，這裡只需要你備份 tickets 及設定檔。 如果你沒備份這些檔案的話，你將遺失所有已安裝的遊戲及存檔！
+進行 9.2.0 的 ctrtransfer 的意義是為了排除現成 NAND 所造成的問題。所以不像 2.1.0 的 ctrtransfer，本章節僅需備份 tickets。 如果你沒備份這些檔案的話，你將遺失所有已安裝的遊戲及存檔！
 {: .notice--danger}
 
 #### 必備項目
@@ -36,7 +36,7 @@ permalink: /zh_TW/9.2.0-ctrtransfer.html
 3. 複製 `Decrypt9WIP.bin` 到 SD 卡的 `/luma/payloads/` 資料夾內，並將其重新命名為`x_Decrypt9WIP.bin`
 4. 將 SD 卡插回 3DS 中
 
-##### 第二節 — 備份 tickets 及系統設定檔
+##### 第一節 — 備份 tickets
 
 1. 開機時按住「X」以透過 arm9loaderhax 啟動 Decrypt9
 2. 選擇「Ticket/Titlekey Options」中的「Ticket Dump (SysNAND)」
@@ -44,7 +44,6 @@ permalink: /zh_TW/9.2.0-ctrtransfer.html
 4. 刪除所有**非** 00- 開頭的 `.tik` 檔案
   + 如果所有檔案都不是 00- 開頭的話，直接全部刪除
 5. 重新將你的 SD 卡插入至你的 3DS 中，並按下「B」以回到主選單
-6. 選擇「SysNAND Options」、「System Save Dump」、「Dump configsave.bin」
 
 ##### 第三節 — ctrtransfer
 
@@ -63,20 +62,17 @@ permalink: /zh_TW/9.2.0-ctrtransfer.html
   + 在 A9LH + Luma （不管你用什麼）底下更新是沒問題的，別再問啦
   + 如果過程中出現錯誤，試試到 DNS 設定底下將設定改成「自動 （auto）」
 
-##### 第四節 — 還原系統設定檔
-
-1. 重啟時按住「X」以透過 arm9loaderhax 啟動 Decrypt9
-2. 到「SysNAND Options」、「System Save Inject」中選擇「Inject configsave.bin」
-3. 按「B」以回到主選單
-
 ##### 第五節 — 注入 FBI 管理器
 
-1. 選擇「SysNAND Options」、「Miscellaneous」中選擇「Health&Safety Dump」以匯出「健康與安全」程式至 `hs.app` **（你可以透過方向鍵更改名字）**
-2. 按下「B」，選擇「Health&Safety Inject」
-3. 選擇對應裝置區域的 FBI 管理器的 `.app` 檔
-4. 按下「A」以確認注入
-5. 按下「開始鍵 (Start)」以重啟
-6. 如果你進入的依然是官方的「健康與警示」程式，並且之前曾經用 Gateway 進行過系統降級，[請參見此疑難排解](troubleshooting#gw_fbi)
+1. 重開機時按住「開始鍵 (Start)」進入 Hourglass9
+2. 選擇「SysNAND Options」中的「Health&Safety Dump」以匯出「健康與安全」程式至 `hs.app` **（你可以透過方向鍵更改名字）**
+  + 如果此檔案已存在的話，你可以跳過本步驟
+3. 按下「B」，選擇「Health&Safety Inject」
+4. 按下提示的按鍵組合
+5. 選擇對應裝置區域的 FBI 管理器的 `.app` 檔
+6. 按下「A」以確認注入
+7. 按「開始鍵 (Start)」以重新啟動系統
+8. 如果你進入的依然是官方的「健康與警示」程式，並且之前曾經用 Gateway 進行過系統降級，[請參見此疑難排解](troubleshooting#gw_fbi)
 
 ##### 第六節 — 重新安裝 Tickets
 
@@ -93,10 +89,14 @@ permalink: /zh_TW/9.2.0-ctrtransfer.html
 8. 按 「B」以取消 CDN tickets 的安裝
 9. 按「首頁鍵 (Home)」退出
 
-___
+##### 第七節 — 還原「健康與警示」程式
 
-在 ctrtransfer 之後，在*未還原系統設置檔*的情況下格式化裝置，可能會造成螢幕閃爍或亮度問題。 請見[此](https://github.com/Plailect/Guide/issues/794)。
-{: .notice--info}
+1. 按下「開始鍵 (Start)」並按住以重新啟動至 Hourglass9   
+2. 選擇「SysNAND Backup/Restore」中的「Health&Safety Inject」
+3. 選擇你第一次備份出來原本的 `hs.app`，按下「A」確認安裝
+4. 按「開始鍵 (Start)」以重新啟動系統
+
+___
 
 回到 [安裝 arm9loaderhax](installing-arm9loaderhax)
 {: .notice--primary}

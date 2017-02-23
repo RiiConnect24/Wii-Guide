@@ -20,7 +20,7 @@ Grafiğin ilk iki sütunu, sürümünüzün son sayısına karşılık gelir (bu
 {:/comment}
 
 {::comment}
-Tüm sürümler için aynı sütundaki daha yüksek bir sürümün de [Cart Update](cart-update) talimatlarını kullanabilirsiniz.
+Bütün versiyonlar için ayrıca [Kartuş güncellemesi](cart-update) yaparak aynı sütundaki üst versiyonun adımlarını takip edebilirsiniz fakat homebrew-launcher çalıştırma sırasında Soundhax çalışmayacağı için [alternatif metod](homebrew-launcher-(alternatives)) kullanmanız gerekir.
 {: .notice--warning}
 {:/comment}
 
@@ -44,13 +44,13 @@ Cihaz versiyonu, sistem ayarlarındayken üst ekranın sağ alt kısmında gör�
   <tbody>
     <tr>
       <td style="text-align: center"> 8.1.0</td>
-      <td style="text-align: center"> 8.1.0</td>
+      <td style="text-align: center">8.1.0</td>
       <td style="text-align: center"><a href="ntr-and-cubic-ninja">NTR ve Cubic Ninja</a></td>
     </tr>
     <tr>
       <td style="text-align: center"> 9.0.0</td>
       <td style="text-align: center"> 11.2.0</td>
-      <td style="text-align: center"><a href="homebrew-launcher-(soundhax)">Homebrew Launcher (SoundHax)</a></td>
+      <td style="text-align: center"><a href="homebrew-launcher-(soundhax)">Homebrew Launcher (Soundhax)</a></td>
     </tr>
     <tr>
       <td style="text-align: center">11.3.0</td>

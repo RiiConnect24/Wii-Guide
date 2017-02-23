@@ -19,7 +19,10 @@ Bu işlemden sonra, yalnızca ** eShop'a daha önce hiç erişmemiş New 3DS ** 
 Bazen eShop'un açıklanamaz şekilde çalışması gereken aygıtlar için hala çalışmayabileceğini unutmayın. Bu tamamen Nintendo serverları ile alakalıdır ve benim kontrolümde olan bir durum değil.
 {: .notice--warning}
 
-ctrtransfer (bu yöntemin kullandığı) kullanarak bölge değiştirme, yeniden başlatma yamalarının bozulmasına neden oluyor gibi görünüyor. Bunun nedeni bilinmiyor, ancak şimdilik eski 3DS kullanıcıları genişletilmiş bellek modu oyunlarını oynayamayacaklar( Monster Hunter, Super Smash Bros ve Pokémon Sun / Moon).
+Yukarıdaki uyarıya benzer olarak, zaman zaman eShop açıklanamaz bir şekilde çalışmaması gereken cihazlarda çalışabilir,(New 3DS gibi). Neden olduğu şu an için bilinmiyor.
+{: .notice--warning}
+
+ctrtransfer (bu yöntemin kullandığı) kullanarak bölge değiştirme, yeniden başlatma yamalarının bozulmasına neden oluyor gibi görünüyor. Bunun nedeni bilinmiyor, ancak şimdilik Old 3DS kullanıcıları extended memory mode kullanan oyunları (örneğin Monster Hunter, Super Smash Bros, and Pokémon Sun / Moon) oynayamayacaktır. (sayfanın sonunda anlatılan formatlama işlemi yapılırsa bu düzelir).
 {: .notice--warning}
 
 **Bunu kullanmak için arm9loaderhax + Luma3DS YÜKLEMİŞ olmanız gerekir.**
@@ -50,7 +53,7 @@ ctrtransfer (bu yöntemin kullandığı) kullanarak bölge değiştirme, yeniden
 3. ctrtransfer `.zip` dosyasından 9.2.0 ctrtransfer imajı olan `.bin` ve `.bin.sha`dosyalarını, SD kartınızdaki `/files9/` klasörüne kopyalayın
 4. SD kartınızı cihazınıza takın
 
-##### Bölüm II - Ticket yedekleme ve ayar kaydetme
+##### Bölüm II - Ticket yedekleme
 
 1. arm9loaderhax Decrypt9 girmek için (Start) basın ve sonra (X) basılı tutun     
 3. "Ticket/Titlekey Options" gidin, daha sonra "Ticket Dump (SysNAND)" seçin
@@ -58,7 +61,6 @@ ctrtransfer (bu yöntemin kullandığı) kullanarak bölge değiştirme, yeniden
 5. `/files9/` klasöründeki "00-" ile **başlamayan** bütün `.tik` dosyalarını silin
 6. "00-" ile başlayan tüm ".tik" dosyalarını klasörde bırakın
 7. SD kartınızı konsolunuza yeniden takın ve ana menüye dönmek için (B)'ye basın
-8. "SysNAND Options" a gidin, sonra "System Save Dump" a gidin ve "Dump configsave.bin " nü seçin
 
 ##### Bölüm III - ctrtransfer
 
@@ -71,7 +73,7 @@ ctrtransfer (bu yöntemin kullandığı) kullanarak bölge değiştirme, yeniden
   + Birden çok konumda yedekleyin
   + Bu yedek eğer ileride bir şey ters giderse cihazın brick olma ihtimalini engelleyecek
 7. 9.2.0 ctrtransfer imajı olan`.bin` ve`.bin.sha` dosyalarını kopyaladıktan sonra SD kartınızdaki `/ files9 /` klasöründen silin
-8. SD kartınızı cihazınıza takın
+8. SD kartınızı cihazınıza tekrar takın
 
 ##### Bölüm IV - SecureInfo düzenleme
 
@@ -95,7 +97,18 @@ ctrtransfer (bu yöntemin kullandığı) kullanarak bölge değiştirme, yeniden
     -"02": EUR
 16. Düzenleme modundan çıkmak için (B) tuşuna basın, ardından değişiklikleri kaydedin, ardından dizine geri dönmek için tekrar (B) tuşuna basın
 17. Her şey düzgün bir şekilde yapılırsa, 'SecureInfo_A` ve `SecureInfo_C`yi görmelisiniz. (Luma3DS'yi önyükleme sırasında dosyayı algılarsa, 'SecureInfo_A' yerine SecureInfo_C kullanılır)
-18. Start'a basarak yeniden başlatın
+18. Hourglass9'a girmek için açılışta (Start)'a basın ve basılı tutun
+
+##### Bölüm V - FBI enjekte edilmesi
+
+1. "SysNAND Backup/Restore" ye gidin, ardından Health & Safety bölümünü "hs.app` 'ya dump etmek için "Health&Safety Dump "seçeneğini seçin **(ismi değiştirmek için Yukarı ve Aşağı / Sol ve Sağ kullanabilirsiniz)**
+  + Bu dosya zaten varsa, Health and Safety dump adımını atlayın
+2. (B) basın ve daha sonra "Health&Safety Inject" seçeneğini seçin
+3. Gösterilen tuş kombosunu girin
+4. Bölgenize uygun FBI enjekte `.app` dosyanızı seçin
+5. (A)'ya basın ve enjekte etmek için onaylayın
+6. Start'a basarak yeniden başlatın
+7. Eğer hala orjinal Health & Safety app açılıyorsa ve geçmişte Gateway kullanarak downgrade yaptıysanız, [bu sorun giderme rehberine bakın](troubleshooting#gw_fbi)
 
 ##### Bölüm VI - Ticketları yeniden yükleme
 
@@ -117,15 +130,14 @@ ctrtransfer (bu yöntemin kullandığı) kullanarak bölge değiştirme, yeniden
 4. İstenirse şehir seçin
 5. Güncelleştirme bölgeniz CFW SysNAND en son sürüme değiştirin
 
-##### Bölüm IV - Ayarları geri yükleme
+##### Bölüm VII - Health and Safety'i geri yükleme
 
-1. arm9loaderhax Decrypt9 girmek için (Start) basın ve sonra (X) basılı tutun   
-2. "SysNAND Options" gidin, sonra "System Save Inject", daha sonra "Inject configsave.bin" seçin
+1. Hourglass9'a girmek için açılışta (Start)'a basın ve basılı tutun   
+2. "SysNAND Backup/Restore" gidin ve daha sonra "Health&Safety Inject" seçin
+3. 'hs.app' (orijinal olanı FBI içermez) seçin ve (A) tuşuna basın ve enjekte etmek için onaylayın
+4. Start'a basarak yeniden başlatın
 
 ___
 
 Genişletilmiş bellek modu oyunlarını oynatmak için Old 3DS / 2DS'lerin formatlanması (TinyFormat veya Sistem Ayarları kullanılarak) gerekebilir.(Monster Hunter, Super Smash Bros, ya da Pokemon Sun/Moon).
-{: .notice--info}
-
-Bir aygıtı ctrtransfer işleminden sonra *ayarları geri yüklemeden * biçimlendirmek ekran parlaklığı / titreklik sorunlarına neden olabilir. [Buraya bakın](https://github.com/Plailect/Guide/issues/794).
 {: .notice--info}
