@@ -78,4 +78,6 @@ ___
 
 ___
 
+___
+
 Retournez à l'[installation d'arm9loaderhax](installing-arm9loaderhax).
