@@ -82,4 +82,6 @@ ___
 
 ___
 
+___
+
 Keer terug naar [Installeer arm9loaderhax](installing-arm9loaderhax).
