@@ -69,7 +69,7 @@ Durant cette étape, nous allons également configurer les programmes suivants :
 5. Copiez _le contenu du_ dossier `starter` inclus dans l'archive `starter.zip` à la racine de votre carte SD
   + Cela va inclure un tout nouveau répertoire `3ds` pour remplacer celui que vous venez de supprimer
 6. Copiez _le contenu de_ SafeA9LHInstaller`.7z` à la racine de votre carte SD
-7. Copiez le dossier `a9lh` de data_input `.zip` à la racine de votre carte SD
+7. Copiez le dossier `a9lh`  de data_input `.zip` à la racine de votre carte SD
 8. Copiez _le contenu du_ fichier arm9loaderhax `.7z` dans le dossier `a9lh` de votre carte SD
 9. Copiez le fichier `hblauncher_loader.cia` se trouvant dans le fichier hblauncher_loader`.zip` vers le répertoire `/cias/` de votre carte SD
 10. Copiez le fichier `lumaupdater.cia` se trouvant dans Luma3DS Updater`.zip` vers le répertoire `/cias/` de votre carte SD
@@ -218,6 +218,7 @@ Vous pouvez supprimer vos sauvegardes de votre NAND contenues dans `/files9/` à
 Vous pouvez supprimer de la racine de votre carte SD tous les fichiers n'appartenant pas à la liste suivante
 
     + 3ds
+    + DCIM
     + files9
     + hblauncherloader
     + luma

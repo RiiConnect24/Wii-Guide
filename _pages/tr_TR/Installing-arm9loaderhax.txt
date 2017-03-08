@@ -69,7 +69,7 @@ Bu süreç boyunca, aşağıdaki gibi programları kuruyoruz:
 5. `starter.zip` arşivi içindeki `starter` klasörünü SD kartınızın kök dizinine kopyalayın
   + Bu, sildiğiniz bir klasörün yerini alacak yeni bir "3ds" klasörü içermektedir
 6. SD kartınızın kök dizinine SafeA9LHInstaller `.7z` dosyasının içindekileri kopyalayın
-7. data_input '.zip' dosyasındaki 'a9lh' klasörünü SD Kartınızın kök dizinine kopyalayın
+7. `a9lh` klasörünü data_input`.zip` dosyasından SD Kartınızın köküne kopyalayın
 8. arm9loaderhax ".7z" sürümünün içeriğini SD kartınızdaki "a9lh" klasörüne kopyalayın
 9. `hblauncher_loader.cia` dosyasını hblauncher_loader`.zip` dosyasından SD kartınızdaki `/ cias /` klasörüne kopyalayın
 10. `Lumaupdater.cia` dosyasını Luma3DS Uprdater`.zip` dosyasından SD kartınızdaki `/ cias /` klasörüne kopyalayın
@@ -218,6 +218,7 @@ NAND yedeklerinizi güvenli bir yere yedeklediyseniz SD kartınızda yer tutmama
 **SD kartınızın kök dizininde aşağıdaki dosya ve klasörler *dışında* dosya ve klasör varsa silebilirsiniz.**
 
     + 3ds
+    + DCIM
     + files9
     + hblauncherloader
     + luma
