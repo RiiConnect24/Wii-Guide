@@ -16,7 +16,7 @@ Si heu estat utilitzant la gestió de microSD de la New 3DS per a transferir arx
 **Per ara, connectar el vostre dispositiu a Internet és NECESSARI per continuar després del ctrtransfer a la versió 2.1.0.**
 {: .notice--warning}
 
-**Desactiveu els controls parentals de la vostra consola abans de fer el ctrtransfer a la versió 2.1.0. If you do not know the password, see [this](https://mkey.salthax.org/) site. If you cannot disable parental controls because the linked NNID is for a child under 13, you can instead set all parental control options to "do not restrict".**
+**Desactiveu els controls parentals de la vostra consola abans de fer el ctrtransfer a la versió 2.1.0. Si no en coneixeu la contrasenya, accediu a [aquest](https://mkey.salthax.org/) lloc web. If you cannot disable parental controls because the linked NNID is for a child under 13, you can instead set all parental control options to "do not restrict".**
 {: .notice--warning}
 
 **En realitzar un ctrtransfer s'esborraran tots els tickets instal·lats per l'usuari del dispositiu fins que no se'n restauri una còpia de seguretat. De CAP MANERA hauríeu d'ometre fer una còpia de seguretat!**
@@ -79,7 +79,7 @@ Heu de ser al Decrypt9 per poder seguir els següents passos.
 3. Si no teniu ja una còpia de seguretat de la vostra NAND, **feu una còpia de seguretat de la SysNAND al fitxer `NANDmin.bin` quan se us indiqui prement (A)**
   + **ES NECESSARI tenir una còpia de seguretat de la NAND de la _vostra_ consola.**
   + **Ometre aquesta còpia de seguretat comportará la PÈRDUA de totes les vostres partides guardades i jocs que tingueu instal·lats!**
-4. Allow the transfer process to proceed automatically; this will take some time
+4. Permeteu que el procés de transferència continuï automàticament; això trigarà una estona
 5. Un cop finalitzi la transferència, premeu (B) per tornar enrere
 6. Premeu (Select) per extreure la vostra targeta SD
 7. Esborreu els fitxers `.bin` i `.bin.sha` corresponents a la imatge de ctrtransfer a la versió 2.1.0 de la carpeta `/files9/` dins la vostra targeta SD
@@ -98,9 +98,9 @@ En alguns dispositius, l'inici per primera vegada de la versió 2.1.0 podria tri
 {: .notice--info}
 
 {% capture notice %}
-**Putting a New 3DS on 2.1.0 in sleep mode is known to cause an UNRECOVERABLE brick!**
-**This only happens when shutting the lid _while the device is on_; this does not apply to turning the device off.**
-**The device only enters sleep mode when the lid is closed. It is not on a timer or anything like that.**
+**Posar una New 3DS que es trobi a la versió 2.1.0 en mode de repòs és una causa coneguda de brick IRRECUPERABLE!**
+**Això només s'aplica quan s'abaixa la tapa _mentre la consola està encesa_, no concerneix l'apagat.**
+**El dispositiu només entra en mode de repòs un cop s'abaixi la tapa. No té cap temporitzador ni res per l'estil.**
 **És precís que continueu sense pausa per evitar qualsevol possibilitat que això passi!**
 {% endcapture %}
 

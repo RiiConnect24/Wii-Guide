@@ -1,5 +1,5 @@
 ---
-title: "Get Started (New 3DS)" #
+title: "Begin (New 3DS)" #
 lang: nl
 permalink: /nl_NL/get-started-(new-3ds).html
 ---
@@ -9,7 +9,7 @@ Kies de juiste pagina voor jouw versie uit onderstaande tabel.
 
 {::comment}
 {% capture notice-1 %}
-The last two columns of the chart refer to the last number of your version (which corresponds to the browser version installed to the system). Als de versie -0 is, dan heb je geen browser, terwijl elk nummer boven -0 aangeeft dat een browser is geïnstalleerd.
+De laatste twee kolommen van de tabel verwijzen naar het laatste nummer van je firmwareversie (dit nummer geeft aan welke browserversie op je systeem geïnstalleerd is). Als de versie -0 is, dan heb je geen browser, terwijl elk nummer boven -0 aangeeft dat een browser is geïnstalleerd.
 
 De "van" en "tot" velden zijn inclusief. Dat betekent dat, bijvoorbeeld, de "van 9.0.0 tot 9.2.0" rij ook 9.0.0, 9.1.0 en 9.2.0 omvat.
 
@@ -20,7 +20,7 @@ In het geval van "5.0.0-0U" bijvoorbeeld, zou je de "Geen Browser" kolom volgen 
 {:/comment}
 
 {::comment}
-For all versions you can also [Cart Update](cart-update) to a higher version in the same column to follow its instructions, but you will need an [alternate method](homebrew-launcher-(alternatives)) of entering the homebrew launcher as Soundhax will not work.
+Voor alle versies kan je ook een [Cart Update](cart-update) uitvoeren tot een hogere versie in dezelfde kolom om de instructies daarvan uit te voeren, maar je hebt een [alternatieve methode](homebrew-launcher-(alternatives)) nodig om de homebrew launcher te openen aangezien Soundhax niet meer zal werken.
 {: .notice--warning}
 {:/comment}
 
@@ -37,7 +37,7 @@ De versie van je apparaat kan je vinden rechtsonder op het bovenste scherm in de
     <tr>
       <th style="text-align: center">Van</th>
       <th style="text-align: center">Tot</th>
-      <th style="text-align: center"><!-- No Browser --></th>
+      <th style="text-align: center"><!-- Geen Browser --></th>
       <!-- <th style="text-align: center">Browser</th> -->
     </tr>
   </thead>
@@ -45,7 +45,7 @@ De versie van je apparaat kan je vinden rechtsonder op het bovenste scherm in de
     <tr>
       <td style="text-align: center">8.1.0</td>
       <td style="text-align: center">8.1.0</td>
-      <td style="text-align: center"><a href="ntr-and-cubic-ninja">NTR and Cubic Ninja</a></td>
+      <td style="text-align: center"><a href="ntr-and-cubic-ninja">NTR en Cubic Ninja</a></td>
     </tr>
     <tr>
       <td style="text-align: center">9.0.0</td>
