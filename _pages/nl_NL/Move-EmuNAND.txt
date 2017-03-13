@@ -4,10 +4,10 @@ lang: nl
 permalink: /nl_NL/move-emunand.html
 ---
 
-Dit is de add-on-sectie voor het verplaatsen van een oude EmuNAND naar je nieuwe SysNAND CFW, en dan het verwijderen van de oude EmuNAND-partitie. Merk op dat de termen EmuNAND en RedNAND naar iets andere implementaties van [hetzelfde concept verwijzen] (http://3dbrew.org/wiki/NAND_Redirection).
+Dit is de add-on-sectie voor het verplaatsen van een oude EmuNAND naar je nieuwe SysNAND CFW, en dan het verwijderen van de oude EmuNAND-partitie. Merk op dat de termen EmuNAND en RedNAND naar iets andere implementaties van [hetzelfde concept verwijzen](http://3dbrew.org/wiki/NAND_Redirection).
 {: .notice--info}
 
-Je zal je GBA VC en DSiWare saves KWIJT ZIJN!
+Je VERLIEST SOWIESO je GBA VC en DSIWare saves!
 {: .notice--danger}
 
 **Je MOET arm9loaderhax en Luma3ds hebben geïnstalleerd om dit te kunnen gebruiken.**
@@ -47,6 +47,8 @@ Je zal je GBA VC en DSiWare saves KWIJT ZIJN!
 23. Druk (A) om je SD-kaart te remounten
 24. Druk op (Start) om opnieuw op te starten!
 25. Wanneer je een zwart scherm hebt, [volg dan deze foutoplossingshadleiding](troubleshooting#ts_sys_down)
+
+___
 
 ___
 
