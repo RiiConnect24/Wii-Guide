@@ -18,6 +18,7 @@ layout: default
     {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
 
     <section class="page__content" itemprop="text">
+      <div class ="notice--danger"><b>Due to upcoming changes in this guide (which should be ready in a little less than a day), <br>it is recommended that you delay starting any new installations until the new version is released.</b></div>
       {{ content }}
     </section>
   </article>

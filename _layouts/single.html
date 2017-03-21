@@ -34,6 +34,9 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+
+        <div class ="notice--danger"><b>Due to upcoming changes in this guide (which should be ready in a little less than a day), <br>it is recommended that you delay starting any new installations until the new version is released.</b></div>
+
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
 
