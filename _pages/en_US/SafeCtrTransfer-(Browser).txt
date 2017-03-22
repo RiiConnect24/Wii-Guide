@@ -83,7 +83,7 @@ This is accomplished by [installing a premade CtrTransfer image](https://www.red
   + This process will take some time
   + This process will automatically create a backup of your device's NAND at `/ctrtransfer/<serialnumber>_nand.bin`
   + If you get an error, [follow this troubleshooting guide](troubleshooting#transfer)   
-1. Press (A) to reboot once it has completed
+1. Once this process has completed, remove your SD card from your device to reboot
   + While on 2.1.0, your device will black screen on boot if your SD card is inserted before the home menu loads
   + Every time your device is rebooted on 2.1.0, you will need to take out your SD card before boot and put it back in after the home menu loads
   + For now, leave the SD card out as you will be copying files to it in the next page
