@@ -56,7 +56,7 @@ This is accomplished by [installing a premade CtrTransfer image](https://www.red
 
 #### Instructions
 
-##### Section I - Prep work
+##### Section I - Prep Work
 
 1. Remove your SD card from your device, leaving it on the Homebrew Launcher, then insert your SD card into your computer
 1. Create a folder named `CtrTransfer` on the root of your SD card if it does not already exist
