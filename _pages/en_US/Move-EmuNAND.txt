@@ -115,14 +115,15 @@ If you did not backup GBA VC Saves earlier, skip this section.
 
 ##### Section VII- Backup SysNAND
 
-1. Navigate to `SYSNAND VIRTUAL`
-1. Press (A) on `nand.bin` to select it, then select "Copy to 0:/gm9out"
-1. Press (B) to return to the main menu
+1. Press (Home) to bring up the action menu
+1. Select "More..."
+1. Select "Backup NAND"
+1. Press (A) to continue
 1. Hold (R) and press (B) at the same time to eject your SD card
-1. Insert your SD card into your computer, then copy `<serialnumber>_nand.bin` from the `/gm9out/` folder on your SD card to a safe location on your computer
+1. Insert your SD card into your computer, then copy `nand.bin` from the `/gm9out/` folder on your SD card to a safe location on your computer
+  + If you previously used SafeCtrTransfer and have a NAND backup named `<serialnumber>_nand.bin`, replace it with this one (rename `nand.bin` to match `<serialnumber>_nand.bin`)
   + Make backups in multiple locations (such as online file storage)
   + This backup will save you from a brick if anything goes wrong in the future
-  + If you previously used SafeCtrTransfer and have a NAND backup named `<serialnumber>_nand.bin`, replace it with this one (rename `nand.bin` to match `<serialnumber>_nand.bin`)
 1. Delete `nand.bin` from the `/gm9out/` folder on your SD card after copying it
 1. **Backup every file on your SD card to a folder on your computer; all files will be deleted in the following steps**
 
@@ -130,6 +131,7 @@ If you did not backup GBA VC Saves earlier, skip this section.
 
 1. Reinsert your SD card into your device
 1. Press (Home) to bring up the action menu
+1. Select "More..."
 1. Select "SD format menu"
 1. Press (A) to confirm
 1. Select "No EmuNAND"
