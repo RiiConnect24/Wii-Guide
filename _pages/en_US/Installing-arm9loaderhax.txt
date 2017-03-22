@@ -122,6 +122,7 @@ If, before following this guide, you already had an EmuNAND setup and would like
 1. Press (A) to continue once it has completed
 1. Press (Start) to reboot your device
   + If you get a black screen, [follow 9.2.0 CtrTransfer](9.2.0-ctrtransfer)
+  + It is now safe to put New 3DSs in sleep mode again
 1. If your backup was of a version between 3.0.0 and 4.5.0, your device will not boot until you manually download the required firmware:
   + Download [this file](http://nus.cdn.c.shop.nintendowifi.net/ccs/download/0004013800000002/00000056) and rename it to `firmware.bin`
   + Download [this file](http://nus.cdn.c.shop.nintendowifi.net/ccs/download/0004013800000002/cetk)
