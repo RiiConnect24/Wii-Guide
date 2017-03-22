@@ -150,19 +150,16 @@ If, before following this guide, you already had an EmuNAND setup and would like
 1. Navigate to `SD` -> `cias`
 1. Select "\<current directory>"
 1. Select the "Install all CIAs" option, then press (A) to confirm
-1. Return to the SD directory with (B)
-1. Navigate to `arm9loaderhax.bin`, then press (A) on it and select the "Copy" option
-1. Return to the FBI main menu with (B)
-1. Navigate to `CTR NAND`
-1. Select "\<current directory>"
-1. Select the "Paste" option, then press (A) to confirm
-1. Press (Home)
+1. Press (Home) to exit FBI
+
+##### Section VII - DSP Dump
+
 1. Launch the Homebrew Launcher from the home menu
 1. Select "DSP Dump"
 1. Press (Start) when prompted to exit DSP Dump
 1. Press (Start) to launch the Homebrew Launcher exit menu
 
-##### Section VII - Restore Health and Safety
+##### Section VIII - Restore Health and Safety
 
 1. Reboot holding (Start) during boot to launch GodMode9
 1. Press (Home) to bring up the action menu
@@ -170,8 +167,16 @@ If, before following this guide, you already had an EmuNAND setup and would like
 1. Select "Restore H&S"
 1. Press (A) to unlock SysNAND (lvl1) writing, then input the key combo given
 
-##### Section VIII - Finalizing Setup
+##### Section IX - CTRNAND Luma3DS
 
+1. Navigate to `SDCARD`
+1. Press (Y) on `arm9loaderhax.bin` to copy it
+1. Press (B) to return to the main menu
+1. Navigate to `SYSNAND CTRNAND`
+1. Press (Y) to paste `arm9loaderhax.bin`
+1. Select "Copy path(s)"
+1. Press (A) to unlock SysNAND (lvl1) writing, then input the key combo given
+1. Press (B) to return to the main menu
 1. Hold (R) and press (B) at the same time to eject your SD card
 1. Remove your SD card from your device
 1. Press (Start) to reboot your device with the SD card removed
@@ -200,9 +205,9 @@ This will only update the Luma3DS files on the SD card. If you boot your device 
 <div class="notice--info">{{ notice-10 | markdownify }}</div>
 
 {% capture notice-6 %}   
-You will now boot a Custom Firmware based SysNAND by default.    
+You will now boot Luma3DS CFW SysNAND by default.    
 You can now hold (Select) on boot to launch the Luma3DS configuration menu.    
-You can now hold (Start) on boot to launch GodMode1.     
+You can now hold (Start) on boot to launch GodMode9.     
 {% endcapture %}
 
 <div class="notice--info">{{ notice-6 | markdownify }}</div>
