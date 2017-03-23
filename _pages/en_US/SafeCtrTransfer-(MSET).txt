@@ -88,7 +88,7 @@ This is accomplished by [installing a premade CtrTransfer image](https://www.red
   + The reboot will take about 2 seconds to trigger
   + While on 2.1.0, your device will black screen on boot if your SD card is inserted before the home menu loads
   + Every time your device is rebooted on 2.1.0, you will need to take out your SD card before boot and put it back in after the home menu loads
-  + For now, leave the SD card out as you will be copying files to it in the next page
+  + For now, leave your SD card out as you will be copying files to it in the next page
   + This will be fixed once you restore your device in the next page
 
 ___
