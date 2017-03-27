@@ -83,8 +83,7 @@ These steps will also update your various payloads and the AES key database.
 1. Reboot holding (Start) during boot to launch GodMode9
 1. Navigate to `SDCARD`
 1. Press (Y) on `arm9loaderhax.bin` to copy it
-1. Press (B) to return to
- the main menu
+1. Press (B) to return to the main menu
 1. Navigate to `SYSNAND CTRNAND`
 1. Press (Y) to paste `arm9loaderhax.bin`
 1. Select "Copy path(s)"
