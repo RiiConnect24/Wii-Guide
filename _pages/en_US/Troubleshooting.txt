@@ -161,7 +161,7 @@ This happens occasionally, but the reason is unknown. The buttons will still wor
     + Download [this file](http://nus.cdn.c.shop.nintendowifi.net/ccs/download/0004013800000002/cetk)
     + Copy `firmware.bin` and `cetk` to the `/luma/` folder on your SD card
     + Delete both of these files after updating your device
-1. Try following [9.2.0 CTRTransfer](9.2.0-crtransfer)
+1. Try following [9.2.0 CTRTransfer](9.2.0-ctrtransfer)
 1. Ask for help at [#3dshacks on Rizon IRC](https://www.reddit.com/r/3dshacks/wiki/irc) or [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp).
 
 ## <a name="ts_transfer" />Error during SafeCTRTransfer
