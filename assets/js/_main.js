@@ -98,7 +98,8 @@ $(document).ready(function(){
   });
 
   if((window.location.href.indexOf("/he_IL/") > -1) || (window.location.href.indexOf("/ar_SA/") > -1)) {
-    $(".page__inner-wrap").css("direction", "rtl");
+    //$(".page__inner-wrap").css("direction", "rtl");
+    document.body.style.direction = "rtl";
   }
 
 });

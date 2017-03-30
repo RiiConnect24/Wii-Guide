@@ -1,5 +1,6 @@
 ---
-title: "Homebrew Launcher (אלטרנטיבות)" lang: he
+title: "Homebrew Launcher (אלטרנטיבות)" #
+lang: he
 permalink: /he_IL/homebrew-launcher-(alternatives).html
 ---
 
