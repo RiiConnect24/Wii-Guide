@@ -151,7 +151,7 @@ exclude: [
   _pages/fr_FR,
   # _pages/he_IL,
   _pages/hu_HU,
-  _pages/it_IT,
+  # _pages/it_IT,
   _pages/ja_JP,
   _pages/ko_KR,
   _pages/ms_MY,
