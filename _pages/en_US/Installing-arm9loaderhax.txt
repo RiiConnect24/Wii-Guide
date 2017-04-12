@@ -201,9 +201,6 @@ You can update your arm9loaderhax installation in the future by following the in
 Keep your `<serialnumber>_nand.bin` file, it can be restored by GodMode9 to save you from a brick in the future.
 {: .notice--info}
 
-You can remove your NAND backups from `/files9/` as long as you still have them backed up to a safe location.
-{: .notice--info}
-
 {% capture notice-7 %}
 **You can remove any extra files and folders from the root of your SD card that are *not* in the following list:**
 
