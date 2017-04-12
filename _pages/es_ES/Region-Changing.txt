@@ -79,7 +79,8 @@ Cambiar de región usando CTRTransfer (lo cual este método realiza) parece ser 
   + Presiona (A) para continuar cuando haya terminado
 1. Presiona (Start) para reiniciar tu consola
 1. Actualiza tu 3DS dirigiéndote a la Configuración de la consola, después a "Otras opciones", luego ve al último menú de la derecha y pulsa en "Actualización"
-  + Actualizar la consola teniendo A9LH y Luma (lo que acabas de instalar) es seguro, no vuelvas a preguntarlo
+  + **Ten en cuenta que, como la 11.4.0 es muy reciente, habrán algunos errores de Luma3DS en ella (los juegos de DS y GBA no iniciarán). Además, NTR CFW todavía no es compatible con 11.4.0. Puedes optar a cancelar la actualización por ahora hasta que salga una nueva versión de Luma3DS que corrija estos errores.* *
+  + Actualizar la consola teniendo A9LH y Luma (lo que acabas de instalar) es seguro
   + Si esto te da un error, ajusta tu configuración de DNS a "obtención automática"
 
 ##### Sección III - Inyectar FBI

@@ -47,9 +47,7 @@ arm9loaderhaxをインストールし、Luma3DSを正しくセットアップし
 * [hblauncher_loader](https://github.com/yellows8/hblauncher_loader/releases/latest)の最新バージョン
 * [GodMode9](https://github.com/d0k3/GodMode9/releases/latest)の最新バージョン
 * [Luma3DS Updater](https://github.com/Hamcha/lumaupdate/releases/latest)の最新バージョン
-* [DspDump](https://github.com/Cruel/DspDump/releases/latest)の最新バージョン
 * [FBI](https://github.com/Steveice10/FBI/releases/latest)の最新バージョン
-* Homebrew [スターターキット](http://smealum.github.io/ninjhax2/starter.zip)
 
 #### 手順
 
@@ -61,9 +59,6 @@ arm9loaderhaxをインストールし、Luma3DSを正しくセットアップし
   + 将来は何か間違ってデバイスが壊れる場合、このバックアップが役に立ちます
 1. SDカードのルートに`cias`というフォルダが存在しない場合、それを作成します
 1. SDカードのルートに`files9`フォルダはない場合、そのフォルダを作成します
-1. SDカードのルートに`3ds`フォルダが存在する場合、それを削除します
-1. `starter.zip` の_中身_をSDカードのルートにコピーします
-  + このステップによって、`3ds`フォルダのコンテンツは最初の状態になります
 1. SafeA9LHInstaller `.7z`の_コンテンツ_を、SDカードのルートにコピーします
 1. data_input `.zip`から`a9lh`フォルダをSDカードのルートにコピーします
 1. arm9loaderhaxリリースの`.7z`の_コンテンツ_をSDカードの`a9lh`にコピーします
@@ -75,7 +70,6 @@ arm9loaderhaxをインストールし、Luma3DSを正しくセットアップし
 1. `payloads`というフォルダをSDカードの`luma`フォルダに作成します
 1. Copy `GodMode9.bin` from the GodMode9 `.zip` to the `/luma/payloads/` folder on your SD card and rename `GodMode9.bin` in `/luma/payloads/` to `start_GodMode9.bin`
 1. `aeskeydb.bin`をSDカードの`/files9/`フォルダにコピーします
-1. `DspDump.3dsx`をSDカードの`/3ds/`フォルダにコピーします
 
 ##### セクション II - arm9loaderhaxをインストールする
 
@@ -103,11 +97,6 @@ arm9loaderhaxをインストールし、Luma3DSを正しくセットアップし
   + **「Autoboot SysNAND」**
   + **「Use SysNAND FIRM if booting with R」**
   + **「Show NAND or user string in System Settings」**
-1. **New 3DS**をご使用の場合、次のアイテムも有効にできます：
-  + **「New 3DS CPU」で「Clock+L2(x)」を選択してください**
-    + これによって、多くのゲームのフレームレートを高くしますが、一部のゲームを不安定にしてしまいます
-    + ゲームに不具合があれば、このオプションを無効にしてもう一度確認してください
-    + **これを有効にすると、11.3ではHomebrew Launcherが起動できなくなります！**
 1. (Start) を押してセーブして再起動します
   + ブラックスクリーンになる場合でも、次のセクションに続行してください   
   + 「Failed to mount CTRNAND」というエラーが発生する場合でも、次のセクションに続行してください     
@@ -134,7 +123,8 @@ arm9loaderhaxをインストールし、Luma3DSを正しくセットアップし
   + `firmware.bin`と`cetk`をSDカードの`/luma/`フォルダにコピーします
   + Delete both of these files after updating your device
 1. Update your device by going to System Settings, then "Other Settings", then going all the way to the right and using "System Update"
-  + A9LH + Luma（インストールしたもの）で更新しても安全です。もうそういう質問をしないでください。
+  + **Note that, as 11.4.0 is very recent, some Luma3DS bugs exist on it (DS and GBA games will not launch). Additionally, NTR CFW is not yet compatible with 11.4.0. You may choose to delay updating for now until a new Luma3DS version is released that fixes these bugs.**
+  + Updates while using A9LH + Luma (what you have) are safe
   + 前は2.1.0でNew 3DSを絶対に更新しないと警告していましたが、NANDバックアップを復元した後は更新しても問題がありません。
   + エラーが発生すれば、DNS設定を「自動」に変更してください
   + If this still gives you an error and your NAND is below 9.2.0, [follow 9.2.0 CTRTransfer](9.2.0-ctrtransfer)
@@ -158,14 +148,7 @@ arm9loaderhaxをインストールし、Luma3DSを正しくセットアップし
 1. 「Install all CIAs」オプションを選択して、(A) を押して確認します
 1. Press (Home) to exit FBI
 
-##### Section VII - DSP Dump
-
-1. ホームメニューでHomebrew Launcherを起動します
-1. 「DSP Dump」を選択します
-1. Press (Start) when prompted to exit DSP Dump
-1. Press (Start) to launch the Homebrew Launcher exit menu
-
-##### Section VIII - Restore Health and Safety
+##### Section VII - Restore Health and Safety
 
 1. Reboot holding (Start) during boot to launch GodMode9
 1. Press (Home) to bring up the action menu
@@ -173,7 +156,7 @@ arm9loaderhaxをインストールし、Luma3DSを正しくセットアップし
 1. Select "Restore H&S"
 1. Press (A) to unlock SysNAND (lvl1) writing, then input the key combo given
 
-##### Section IX - CTRNAND Luma3DS
+##### Section VIII - CTRNAND Luma3DS
 
 1. Navigate to `SDCARD`
 1. Press (Y) on `arm9loaderhax.bin` to copy it
@@ -182,17 +165,12 @@ arm9loaderhaxをインストールし、Luma3DSを正しくセットアップし
 1. Press (Y) to paste `arm9loaderhax.bin`
 1. Select "Copy path(s)"
 1. Press (B) to return to the main menu
-1. (R) を押したまま (B) を押してSDカードを取り外します
+1. Hold (R) and press (B) at the same time to eject your SD card
 1. Remove your SD card from your device
 1. Press (Start) to reboot your device with your SD card removed
   + Booting your device at least once with your SD card removed will allow you to configure the CTRNAND based Luma3DS installation
 1. (A) と十字キーを使用し、次のアイテムを有効にします：    
   + **「Show NAND or user string in System Settings」**
-1. **New 3DS**をご使用の場合、次のアイテムも有効にできます：
-  + **「New 3DS CPU」で「Clock+L2(x)」を選択してください**
-    + これによって、多くのゲームのフレームレートを高くしますが、一部のゲームを不安定にしてしまいます
-    + ゲームに不具合があれば、このオプションを無効にしてもう一度確認してください
-    + **これを有効にすると、11.3ではHomebrew Launcherが起動できなくなります！**
 1. Reinsert your SD card into your device
 1. (Start) を押してセーブして再起動します
 
@@ -218,9 +196,6 @@ You can now hold (Start) on boot to launch GodMode9.
 <div class="notice--info">{{ notice-6 | markdownify }}</div>
 
 今後は[A9LHを更新する](updating-a9lh)ページの指示に従って、arm9loaderhaxのバージョンを更新できます。
-{: .notice--info}
-
-[NTR CFW](https://github.com/44670/BootNTR/)を使用するには[このページ](https://github.com/44670/BootNTR/releases)からの`.zip`から`ntr.bin`をSDカードのルートにコピーし、[このページ](https://github.com/astronautlevel2/BootNTR/releases/latest)からの`BootNTR.cia`をインストールしてください。
 {: .notice--info}
 
 Keep your `<serialnumber>_nand.bin` file, it can be restored by GodMode9 to save you from a brick in the future.

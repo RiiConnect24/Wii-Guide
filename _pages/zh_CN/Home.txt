@@ -33,13 +33,13 @@ permalink: /zh_CN/index.html
 
 [**Homebrew（自制程序）**](https://en.wikipedia.org/wiki/List_of_homebrew_video_games) 通常指未经任天堂授权的软件。 它能让你运行自制游戏，使用像修改和备份存档的工具，以及运行模拟器。
 
-In most cases, running homebrew on your device is 100% free using [just the Nintendo 3DS Sound app](homebrew-launcher-(soundhax)) (if you are on >=11.3.0, you will be unable to proceed past homebrew). 除此之外也有许多其他在游戏里或者浏览器里的漏洞可以启动自制程序。
+In most cases, running homebrew on your device is 100% free using [just the Nintendo 3DS Sound app](homebrew-launcher-(soundhax)) (if you are on >=11.4.0, you will be unable to proceed past homebrew). 除此之外也有许多其他在游戏里或者浏览器里的漏洞可以启动自制程序。
 
 ## 什么是自制系统？
 
 **Custom Firmware（自制系统）** ("CFW") 可以使你进行自制程序无法轻易做到的更高级的破解。 例如，签名补丁可以使你安装未签名的程序，并让它们出现在桌面中。
 
-在11.2.0或更低版本的机器上安装自制系统十分简单。
+CFW can be easily set up on any console that is on 11.3.0 or lower.
 
 ## 本教程将安装什么？
 
@@ -68,7 +68,7 @@ Arm9loaderhax是一种最新和最好的引导自制系统的方法，只需启�
 
 + **在开始之前，你要知道破解3DS的风险：每次你修改系统的时候，都有可能会使你的3DS不可恢复的变砖。 这种情况很少见，但是仍然存在这样的可能性，所以请确保你完全按照本教程的指导进行操作。**
 + 如果你之前破解过你的3DS并安装了EmuNAND，想将原EmuNAND中的内容迁移到新的SysNAND CFW中，请依操作进行，并在[安装arm9loaderhax](installing-arm9loaderhax)这一步中依照提示还原的你EmuNAND。
-+ 本教程适用于所有区域的新3DS，老3DS和2DS，固件版本在11.2.0及以下*（除神游/台版机）*。
++ This guide will work on New 3DS, Old 3DS, and 2DS in all regions on firmware 11.3.0 or below *(except CHN / TWN)*.
 + 如果一切顺利，在安装完自制系统后你不会丢失任何数据（包括游戏、NNID、存档等）。
 + **Keep your device plugged in and charged throughout the entire process to avoid data loss or damage from an unexpected power-off!**
 + Your SD card should be [MBR, not GPT](http://www.howtogeek.com/245610/) (the SD card that comes with your device will be MBR by default).

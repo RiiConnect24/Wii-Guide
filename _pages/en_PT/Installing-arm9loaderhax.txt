@@ -47,9 +47,7 @@ Durin' 'tis process, we also setup programs such as th' followin':
 * Th' latest release 'o [hblauncher_loader](https://github.com/yellows8/hblauncher_loader/releases/latest)
 * The latest release of [GodMode9](https://github.com/d0k3/GodMode9/releases/latest)
 * Th' latest release 'o [Luma3DS Updater](https://github.com/Hamcha/lumaupdate/releases/latest)
-* Th' latest release 'o [DspDump](https://github.com/Cruel/DspDump/releases/latest)
 * Th' latest release 'o [FBI](https://github.com/Steveice10/FBI/releases/latest)
-* Th' Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
 
 #### Instructions
 
@@ -61,9 +59,6 @@ Durin' 'tis process, we also setup programs such as th' followin':
   + This backup will save you from a brick if anything goes wrong in the future
 1. Create a folder named `cias` on th' root 'o ye SD card if it does not already exist
 1. Create a folder named `files9` on the root of your SD card if it does not already exist
-1. Delete th' `3ds` folder from th' root 'o ye SD card if it exists
-1. Copy _the contents of_ the `starter` folder in `starter.zip` to the root of your SD card
-  + This will include a brand new `3ds` folder to replace the one you just deleted
 1. Copy _the contents of_ the SafeA9LHInstaller `.7z` to the root of your SD card
 1. Copy the `a9lh` folder from the data_input `.zip` to the root of your SD card
 1. Copy _the contents of_ the arm9loaderhax release `.7z` to `a9lh` folder on your SD card
@@ -75,7 +70,6 @@ Durin' 'tis process, we also setup programs such as th' followin':
 1. Create a folder named `payloads` in th' `luma` folder on ye SD card
 1. Copy `GodMode9.bin` from the GodMode9 `.zip` to the `/luma/payloads/` folder on your SD card and rename `GodMode9.bin` in `/luma/payloads/` to `start_GodMode9.bin`
 1. Copy `aeskeydb.bin` to th' `/files9/` folder on ye SD card
-1. Copy `DspDump.3dsx` to th' `/3ds/` folder on ye SD card
 
 ##### Section II - Installin' arm9loaderhax
 
@@ -103,11 +97,6 @@ Durin' 'tis process, we also setup programs such as th' followin':
   + **"Autoboot SysNAND"**
   + **"Use SysNAND FIRM if booting with R"**
   + **"Show NAND or user string in System Settings"**
-1. If ye be usin' a **New 3DS**, ye can *also* enable th' followin':
-  + **"New 3DS CPU" to "Clock+L2(x)"**
-    + 'Tis gunna increase th' framerate 'o many games, but may cause instability in others
-    + If some games do not work properly, disable this option and try again
-    + **This breaks the Homebrew Launcher on 11.3!**
 1. Press (Start) to save 'n reboot
   + If you get a black screen, just continue to the next section   
   + If you get a "Failed to mount CTRNAND" error, just continue to the next section     
@@ -134,7 +123,8 @@ If, before followin' 'tis guide, ye already had an EmuNAND setup 'n would like t
   + Copy `firmware.bin` 'n `cetk` to th' `/luma/` folder on ye SD card
   + Delete both of these files after updating your device
 1. Update your device by going to System Settings, then "Other Settings", then going all the way to the right and using "System Update"
-  + Updates while using A9LH + Luma (what you have) are safe, stop asking about it
+  + **Note that, as 11.4.0 is very recent, some Luma3DS bugs exist on it (DS and GBA games will not launch). Additionally, NTR CFW is not yet compatible with 11.4.0. You may choose to delay updating for now until a new Luma3DS version is released that fixes these bugs.**
+  + Updates while using A9LH + Luma (what you have) are safe
   + The warning about never updating a New 3DS from 2.1.0 does not apply after restoring your NAND backup.
   + If 'tis gives ye an error, set ye DNS settin's to "auto"
   + If this still gives you an error and your NAND is below 9.2.0, [follow 9.2.0 CTRTransfer](9.2.0-ctrtransfer)
@@ -158,14 +148,7 @@ If, before followin' 'tis guide, ye already had an EmuNAND setup 'n would like t
 1. Select the "Install all CIAs" option, then press (A) to confirm
 1. Press (Home) to exit FBI
 
-##### Section VII - DSP Dump
-
-1. Launch the Homebrew Launcher from the home menu
-1. Select "DSP Dump"
-1. Press (Start) when prompted to exit DSP Dump
-1. Press (Start) to launch the Homebrew Launcher exit menu
-
-##### Section VIII - Restore Health and Safety
+##### Section VII - Restore Health and Safety
 
 1. Reboot holding (Start) during boot to launch GodMode9
 1. Press (Home) to bring up the action menu
@@ -173,7 +156,7 @@ If, before followin' 'tis guide, ye already had an EmuNAND setup 'n would like t
 1. Select "Restore H&S"
 1. Press (A) to unlock SysNAND (lvl1) writing, then input the key combo given
 
-##### Section IX - CTRNAND Luma3DS
+##### Section VIII - CTRNAND Luma3DS
 
 1. Navigate to `SDCARD`
 1. Press (Y) on `arm9loaderhax.bin` to copy it
@@ -188,11 +171,6 @@ If, before followin' 'tis guide, ye already had an EmuNAND setup 'n would like t
   + Booting your device at least once with your SD card removed will allow you to configure the CTRNAND based Luma3DS installation
 1. Use the (A) button and the D-Pad to turn on the following:    
   + **"Show NAND or user string in System Settings"**
-1. If you are using a **New 3DS**, you can *also* enable the following:
-  + **"New 3DS CPU" to "Clock+L2(x)"**
-    + This will increase the framerate of many games, but may cause instability in others
-    + If some games do not work properly, disable this option and try again
-    + **This breaks the Homebrew Launcher on 11.3!**
 1. Reinsert your SD card into your device
 1. Press (Start) to save 'n reboot
 
@@ -218,9 +196,6 @@ You can now hold (Start) on boot to launch GodMode9.
 <div class="notice--info">{{ notice-6 | markdownify }}</div>
 
 Ye can update ye arm9loaderhax installation in th' future by followin' th' instructions on th' [Updatin' A9LH](updating-a9lh) page.
-{: .notice--info}
-
-To use [NTR CFW](https://github.com/44670/BootNTR/), get `ntr.bin` from th' appropriate `.zip` on ['tis](https://github.com/44670/BootNTR/releases) page 'n copy it to th' root 'o ye SD card, then install `BootNTR.cia` from ['tis](https://github.com/astronautlevel2/BootNTR/releases/latest) page.
 {: .notice--info}
 
 Keep your `<serialnumber>_nand.bin` file, it can be restored by GodMode9 to save you from a brick in the future.

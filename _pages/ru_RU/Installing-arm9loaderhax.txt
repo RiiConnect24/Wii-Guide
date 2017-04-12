@@ -47,9 +47,7 @@ permalink: /ru_RU/installing-arm9loaderhax.html
 * Свежая версия [hblauncher_loader](https://github.com/yellows8/hblauncher_loader/releases/latest)
 * Свежая версия [GodMode9](https://github.com/d0k3/GodMode9/releases/latest)
 * Свежая версия [Luma3DS Updater](https://github.com/Hamcha/lumaupdate/releases/latest)
-* Свежая версия [DspDump](https://github.com/Cruel/DspDump/releases/latest)
 * Свежая версия [FBI](https://github.com/Steveice10/FBI/releases/latest)
-* Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
 
 #### Инструкция
 
@@ -61,9 +59,6 @@ permalink: /ru_RU/installing-arm9loaderhax.html
   + Эти бэкапы позволят восстановить консоль, если впоследствии что-то пойдёт не так
 1. Создайте папку `cias` в корне SD-карты
 1. Создайте папку `files9` в корне SD-карты, если таковой нет
-1. Удалите папку `3ds` из корня SD-карты, если таковая существует
-1. Скопируйте _содержимое_ папки `starter` из архива `starter.zip` в корень вашей SD-карты
-  + Этот архив содержит новую папку `3ds`, которая заменит удаленную
 1. Скопируйте _содержимое_ `.7z-архива` SafeA9LHInstaller в корень SD-карты
 1. **Скопируйте папку `a9lh` из `.zip-архива` `data_input` в корень SD-карты**
 1. Скопируйте _содержимое_ `.7z-архива` arm9loaderhax в папку `a9lh` в корне SD-карты
@@ -75,7 +70,6 @@ permalink: /ru_RU/installing-arm9loaderhax.html
 1. Создайте папку `payloads` в папке `luma` на SD-карте
 1. Скопируйте `GodMode9.bin` из `.zip-архива` GodMode9 в папку `/luma/payloads/` на SD-карте и переименуйте `GodMode9.bin` внутри папки `/luma/payloads/` в `start_GodMode9.bin`
 1. Скопируйте `aeskeydb.bin` в папку `/files9/` в корне SD-карты
-1. Скопируйте `DspDump.3dsx` в папку `/3ds/` в корне SD-карты
 
 ##### Часть II - Установка arm9loaderhax
 
@@ -103,11 +97,6 @@ permalink: /ru_RU/installing-arm9loaderhax.html
   + **"Autoboot SysNAND"**
   + **"Use SysNAND FIRM if booting with R"**
   + **"Show NAND or user string in System Settings"**
-1. Если у вас **New 3DS**, вы *также* можете включить следующие опции:
-  + **"New 3DS CPU" выбрать значение "Clock+L2(x)"**
-    + Это увеличит частоту кадров в множестве игр, но может отразиться на стабильности других
-    + Если какие-либо игры работают некорректно, отключите эту опцию
-    + **Эта опция делает невозможным запуск Homebrew Launcher на 11.3!**
 1. Нажмите (Start), чтобы сохранить настройки и перезагрузиться
   + Если после включения экран остаётся чёрным, просто переходите к следующей части   
   + Если появляется ошибка "Failed to mount CTRNAND", просто переходите к следующей части     
@@ -134,7 +123,8 @@ permalink: /ru_RU/installing-arm9loaderhax.html
   + Скопируйте `firmware.bin` и `cetk` в папку `/luma/` на SD-карте
   + После обновления прошивки удалите оба этих файла
 1. Обновите прошивку консоли, зайдя в Системные настройки (System Settings), затем "Прочие настройки" (Other Settings), затем листайте вправо до конца и выберите пункт "Обновление" (System Update)
-  + Обновление консоли с установленным A9LH + Luma (который стоит у вас) безопасно, прекратите переспрашивать
+  + **Note that, as 11.4.0 is very recent, some Luma3DS bugs exist on it (DS and GBA games will not launch). Additionally, NTR CFW is not yet compatible with 11.4.0. You may choose to delay updating for now until a new Luma3DS version is released that fixes these bugs.**
+  + Updates while using A9LH + Luma (what you have) are safe
   + Запрет на обновление New 3DS с прошивкой 2.1.0 не действует после восстановления бэкапа.
   + При появлении ошибки, поставьте в настройках подключения, в настройках DNS "Получать DNS автоматически" в положение "Да"
   + Если вы все еще получаете ошибку и версия вашего NAND ниже 9.2.0, [выполните 9.2.0 CTRTransfer](9.2.0-ctrtransfer)
@@ -158,14 +148,7 @@ permalink: /ru_RU/installing-arm9loaderhax.html
 1. Выберите "Install all CIAs" и нажмите (A) для подтверждения
 1. Нажмите (Home) для выхода из FBI
 
-##### Часть VII - DSP Dump
-
-1. Запустите Homebrew Launcher из меню HOME
-1. Выберите "DSP Dump"
-1. После завершения нажмите (Start) для выхода из DSP Dump
-1. Нажмите (Start), чтобы открыть меню выхода из Homebrew Launcher
-
-##### Часть VIII - Восстановление приложения Информация о здоровье и безопасности (Health and Safety)
+##### Часть VII - Восстановление приложения Информация о здоровье и безопасности (Health and Safety)
 
 1. Перезагрузитесь, удерживая кнопку (Start), чтобы запустить GodMode9
 1. Нажмите кнопку (Home) для вызова меню
@@ -173,7 +156,7 @@ permalink: /ru_RU/installing-arm9loaderhax.html
 1. Выберите "Restore H&S"
 1. Нажмите (A), чтобы разрешить запись в SysNAND (lvl1) и введите указанную комбинацию кнопок
 
-##### Часть IX - CTRNAND Luma3DS
+##### Часть VIII - CTRNAND Luma3DS
 
 1. Перейдите в `SDCARD`
 1. Нажмите (Y), выделив файл `arm9loaderhax.bin` чтобы скопировать его
@@ -188,11 +171,6 @@ permalink: /ru_RU/installing-arm9loaderhax.html
   + Необходимо хотя бы раз загрузиться без SD-карты, чтобы настроить Luma3DS, установленную в раздел CTRNAND
 1. Нажимая (A) выберите следующие пункты:    
   + **"Show NAND or user string in System Settings"**
-1. Если у вас **New 3DS**, вы *также* можете включить следующие опции:
-  + **"New 3DS CPU" выбрать значение "Clock+L2(x)"**
-    + Это увеличит частоту кадров в множестве игр, но может отразиться на стабильности других
-    + Если какие-либо игры работают некорректно, отключите эту опцию
-    + **Эта опция делает невозможным запуск Homebrew Launcher на 11.3!**
 1. Вставьте SD-карту обратно в консоль
 1. Нажмите (Start), чтобы сохранить настройки и перезагрузиться
 
@@ -218,9 +196,6 @@ ___
 <div class="notice--info">{{ notice-6 | markdownify }}</div>
 
 В дальнейшем вы можете обновить arm9loaderhax, обратившись к разделу [обновление A9LH](updating-a9lh).
-{: .notice--info}
-
-Чтобы установить [NTR CFW](https://github.com/44670/BootNTR/), поместите `ntr.bin` из архива с подходящей версией с [этой страницы](https://github.com/44670/BootNTR/releases) в корень SD-карты. Затем установите [`BootNTR.cia`](https://github.com/astronautlevel2/BootNTR/releases/latest).
 {: .notice--info}
 
 Сохраните свой `<serialnumber>_nand.bin`. Используя GodMode9, этим файлом можно восстановить консоль в случае брика.

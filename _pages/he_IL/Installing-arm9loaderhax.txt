@@ -47,9 +47,7 @@ permalink: /he_IL/installing-arm9loaderhax.html
 * את הגרסה העדכנית של [hblauncher_loader](https://github.com/yellows8/hblauncher_loader/releases/latest)
 * את הגרסה העדכנית של [GodMode9](https://github.com/d0k3/GodMode9/releases/latest)
 * את הגרסה העדכנית של [Luma3DS Updater](https://github.com/Hamcha/lumaupdate/releases/latest)
-* את הגרסה העדכנית של [DspDump](https://github.com/Cruel/DspDump/releases/latest)
 *את הגרסה העדכנית של [FBI](https://github.com/Steveice10/FBI/releases/latest)
-את קבצי ה[Homebrew Launcher](http://smealum.github.io/ninjhax2/starter.zip)
 
 #### הוראות
 
@@ -61,9 +59,6 @@ permalink: /he_IL/installing-arm9loaderhax.html
   + הגיבוי הזה ישמור עליכם מבריק אם משהו ישתבש בעתיד
 1. תצרו תיקייה בשם `cias` ב-SD שלכם אם לא קיימת לכם כבר תיקייה כזו
 1. תצרו תיקייה חדשה בשם files9 אם היא לא קיימת
-1. תמחקו את התקייה `3ds` מה-SD שלכם אם היא קיימת
-1. תפתחו את starter.zip, בתוך הקובץ יש קובץ boot.3dsx ותיקייה, חלצו את שניהם לתוך ה-SD שלכם. (מחוץ לכל תיקייה)
-  + זה מכיל תיקיית `3ds` חדשה על מנת להחליף את זו שהרגע מחקנו
 1. תעתיקו _את תוכן הזיפ_ של SafeA9LHInstaller לתוך ה-SD שלכם
 1. תעתיקו את התיקייה `a9lh` מתוך data_input.zip ל-SD שלכם
 1. תעתיקו _את תוכן הזיפ_ של arm9loaderhax לתוך תיקיית `a9lh` שב-SD שלכם
@@ -75,7 +70,6 @@ permalink: /he_IL/installing-arm9loaderhax.html
 1. תצרו תיקייה חדשה בשם `payloads` בתוך התיקייה `luma` שהרגע יצרנו
 1. תעתיקו את `GodMode9.bin` מתוך הזיפ של GodMode9 אל תוך התיקייה `/luma/payloads/` שב- SD שלכם ושנו את שם הקובץ `GodMode9.bin` ל-`start_GodMode9.bin`
 1. תעתיקו את הקובץ `aeskeydb.bin` לתיקייה `/files9/` שב-SD שלכם
-1. תעתיקו את הקובץ `DspDump.3dsx` לתוך התיקייה `/3ds/` שב-SD שלכם
 
 #### חלק II - התקנת arm9loaderhax
 
@@ -103,11 +97,6 @@ permalink: /he_IL/installing-arm9loaderhax.html
   + **"Autoboot SysNAND"**
   + **"Use SysNAND FIRM if booting with R"**
   + **"Show NAND or user string in System Settings"**
-1. אם אתם משתמשים ב**New3DS**, **אפשר** גם להפעיל את:
-  + **"New 3DS CPU" to "Clock+L2(x)"**
-    + זה יאיץ את ה-FPS של מספר משחקים, אך עשוי לגרום לאי יציבות באחרים
-    + אם משחקים לא עובדים טוב, בטלו את האופציה ונסו שוב
-    + **אפשרות זאת שוברת את הHomebrew Launcher בגרסא 11.3!**
 1. לחצו על (Start) על מנת לשמור ולהפעיל מחדש
   + אם אתם מקבלים מסך שחור, פשוט תמשיכו לחלק הבא   
   + אם אתם מקבלים שגיאה "Failed to mount CTRNAND", פשוט תמשיכו לחלק הבא     
@@ -134,7 +123,8 @@ permalink: /he_IL/installing-arm9loaderhax.html
   + תעתיקו את `firmware.bin` ואת `cetk` לתוך התיקייה `/luma/` שב-SD שלכם
   + תמחקו את שני הקבצים האלו לאחר שתעדכנו את ה-3DS שלכם
 1. עדכנו את המכשיר שלכם על ידי לחיצה על System Sttings, לאחר מכן "Other Settings", לכו ימינה עד הסוף ואז לחצו על "System Update"
-  + עדכונים שתבצעו תוך שימוש ב-A9LH+Luma (במידה שיש לכם את שניהם) הם בטוחים לחלוטין, מספיק לשאול על זה
+  + **Note that, as 11.4.0 is very recent, some Luma3DS bugs exist on it (DS and GBA games will not launch). Additionally, NTR CFW is not yet compatible with 11.4.0. You may choose to delay updating for now until a new Luma3DS version is released that fixes these bugs.**
+  + Updates while using A9LH + Luma (what you have) are safe
   + האזהרה בה פירטנו לא לעדכן New 3DS מגרסה 2.1.0 לא תקפה ברגע שביצעתם שחזור מגיבוי NAND.
   + אם אתם מקבלים שגיאה, שנו את הגדרות ה-DNS שלכם ל-"auto"
   + אם זה ממשיך לתת לכם שגיאה והקונסולה שלכם מתחת לגרסה 9.2.0, עקבו אחרי [9.2.0 CTRtransfer](9.2.0-ctrtransfer)
@@ -158,14 +148,7 @@ permalink: /he_IL/installing-arm9loaderhax.html
 1. תבחרו את האופציה "Install all CIAs", ולאחר מכן לחצו על (A) לאישור
 1. תלחצו על (Home) כדי לצאת מFBI
 
-##### חלק VII - DSP Dump
-
-1. תפעילו את ה-Homebrew Launcher מתפריט הבית
-1. תלחצו על "DSP Dump"
-1. לחצו על (Start) ברגע שהוא מבקש על מנת לסגור את DSP Dump
-1. תלחצו על (Start) על מנת לפתוח את תפריט היציאה של הHomebrew Launcher
-
-##### חלק VIII - שחזור Health and Safety
+##### Section VII - Restore Health and Safety
 
 1. תאתחלו בזמן שאתם מחזיקים (Start) במהלך האתחול כדי להפעיל את GodMode9
 1. תלחצו על (Home) כדי להראות את תפריט הפעולה
@@ -173,7 +156,7 @@ permalink: /he_IL/installing-arm9loaderhax.html
 1. תבחרו ב "Restore H&S"
 1. לחצו (A) כדי לפתוח גישת כתיבת lvl1 לSysNAND, ואז תלחצו על המקשים בסדר הנכון
 
-##### חלק IX - Luma3DS על ה- CTRNAND
+##### Section VIII - CTRNAND Luma3DS
 
 1. נווטו ל`SDCARD`
 1. תלחצו (Y) על `arm9loaderhax.bin` כדי להעתיק אותו
@@ -188,11 +171,6 @@ permalink: /he_IL/installing-arm9loaderhax.html
   + הדלקת המכשיר כאשר ה- SD בחוץ תאפשר לכם להגדיר את Luma3DS מחדש כאשר הוא נמצאו במחיצת ה- CTRNAND (על המכשיר עצמו)
 1. השתמשו במקש (A) ובמקשי החיצים על מנת להפעיל את ההגדרות הבאות:    
   + **"Show NAND or user string in System Settings"**
-1. אם אתם משתמשים ב**New3DS**, **אפשר** גם להפעיל את:
-  + **"New 3DS CPU" to "Clock+L2(x)"**
-    + זה יאיץ את ה-FPS של מספר משחקים, אך עלול לגרום לאי יציבות באחרים
-    + אם יש משחקים שלא עובדים טוב, בטלו את האופציה ונסו שוב
-    + **אפשרות זאת שוברת את הHomebrew Launcher בגרסא 11.3!**
 1. תכניסו מחדש את כרטיס הSD שלכם לתוך המכשיר שלכם
 1. לחצו על (Start) על מנת לשמור ולהפעיל מחדש
 
@@ -218,9 +196,6 @@ ___
 <div class="notice--info">{{ notice-6 | markdownify }}</div>
 
 אתם יכולים לעדכן את התקנת arm9loaderhax בעתיד על ידי ביצוע המדריך [לעדכון A9LH](updating-a9lh).
-{: .notice--info}
-
-על מנת להשתמש ב-[NTR CFW](https://github.com/44670/BootNTR/), תעתיקו את `ntr.bin` מהזיפ המתאים [בדף הבא](https://github.com/44670/BootNTR/releases) לתוך ה-SD שלכם, ואז תתקינו את BootNTR.cia [מהדף הבא](https://github.com/astronautlevel2/BootNTR/releases/latest).
 {: .notice--info}
 
 תשמרו את הקובץ `<serialnumber>_nand.bin`, שכן תוכלו לשחזר אותו בעזרת GodMode9 על מנת לתקן בריק בעתיד.

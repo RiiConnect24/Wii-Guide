@@ -47,9 +47,7 @@ permalink: /zh_TW/installing-arm9loaderhax.html
 * 最新版的 [hblauncher_loader](https://github.com/yellows8/hblauncher_loader/releases/latest)
 * 最新版的 [GodMode9](https://github.com/d0k3/GodMode9/releases/latest)
 * 最新版的 [Luma3DS Updater](https://github.com/Hamcha/lumaupdate/releases/latest)
-* 最新版的 [DspDump](https://github.com/Cruel/DspDump/releases/latest)
 * 最新版的 [FBI 管理器](https://github.com/Steveice10/FBI/releases/latest)
-* 自製軟體[入門套件](http://smealum.github.io/ninjhax2/starter.zip)
 
 #### 操作說明
 
@@ -61,9 +59,6 @@ permalink: /zh_TW/installing-arm9loaderhax.html
   + 未來如果你不小心磚機了，這備份將會是你的救命恩人
 1. 在 SD 卡的根目錄底下建立一個新資料夾 `cias`
 1. 在 SD 卡的根目錄底下建立一個新資料夾 `files9`
-1. 如果 `3ds` 資料夾存在的話，請將它刪除
-1. 解壓`starter.zip`中 `starter` 資料夾中的 _所有內容_ 至 SD 卡的根目錄底下
-  + 裡面將有一個替代的 `3ds` 資料夾
 1. 解壓 SafeA9LHInstaller `.7z` 裡的 _所有內容_ 到 SD 卡的根目錄底下
 1. 解壓 data_input `.zip` 中的 `a9lh` 資料夾到 SD 卡的根目錄底下
 1. 解壓 arm9loaderhax `.7z` 裡的 _所有內容_ 到 SD 卡中的 `a9lh` 資料夾底下
@@ -75,7 +70,6 @@ permalink: /zh_TW/installing-arm9loaderhax.html
 1. 在 SD 上的 `luma` 資料夾中，建立一個新的 `payloads` 資料夾
 1. 解壓 GodMode9 `.zip` 中的 `GodMode9.bin` 到 SD 卡中的 `/luma/payloads/` 底下，並重新命名為 `start_GodMode9.bin`
 1. 在 SD 卡上，將 `aeskeydb.bin` 複製到 `/files9/` 資料夾底下
-1. 在 SD 卡上，將 `DspDump.3dsx` 複製到 `/3ds/` 資料夾底下
 
 ##### 第二節 — 安裝 arm9loaderhax
 
@@ -103,11 +97,6 @@ permalink: /zh_TW/installing-arm9loaderhax.html
   + **「Autoboot SysNAND」**
   + **「Use SysNAND FIRM if booting with R」**
   + **「Show NAND or user string in System Settings」**
-1. 如果你的裝置是 **New 3DS** 的話，你也可以同時開啟下列選項：
-  + **「New 3DS CPU」中選擇「Clock+L2(x)」**
-    + 某些情況下，這將提高遊戲的流暢度，但也有些遊戲會有不穩的情況
-    + 如果有些遊戲無法正常運作的話，請關閉此選項再試一次
-    + **若在版本 11.3 上啟用此選項將無法運行 Homebrew Launcher！**
 1. 按下「Start」鍵以存檔並重新啟動系統
   + 如果黑屏，直接到下一節即可   
   + 如果你遇到「Failed to mount CTRNAND」錯誤的話，直接跳到下一節即可     
@@ -134,7 +123,8 @@ permalink: /zh_TW/installing-arm9loaderhax.html
   + 複製 `firmware.bin` 及 `cetk` 檔案到 SD 卡上的 `/luma/` 資料夾
   + 在更新完你的裝置後，刪除這兩個檔案
 1. 到裝置主選單中更新你的主機，到「系統設置（System Settings）」、「其他設置（Other Settings）」底下選擇「系統更新（System Update）」
-  + 在 A9LH + Luma （不管你用什麼）底下更新是沒問題的，別再問啦
+  + **請注意，因為系統版本 11.4.0 才剛釋出，Luma3DS 可能會有些問題（例如 DS 及 GBA 遊戲無法啟動）。 另外，NTR 自製韌體目前與系統版本 11.4.0 不相容。 你可以選擇等到 Luma3DS 發布新的版本後再更新至 11.4.0 以來修復這些問題。**
+  + 在 A9LH + Luma 底下更新是沒問題的
   + 之前有說過千萬不要在 New 3DS 上更新 2.1.0 韌體，這點在還原過 NAND 備份後就沒關係了。
   + 如果過程中出現錯誤，試試到 DNS 設定底下將設定改成「自動 （auto）」
   + 如果錯誤持續，且你 NAND 的系統版本為 9.2.0 以下，請進行[版本 9.2.0 的 CTRTransfer](9.2.0-ctrtransfer)
@@ -158,14 +148,7 @@ permalink: /zh_TW/installing-arm9loaderhax.html
 1. 選擇「Install all CIAs」，並按下「A」確認
 1. 按下「Home」鍵退出 FBI 管理器
 
-##### 第七節 — DSP 轉儲
-
-1. 從 HOME 選單中啟動 Homebrew Launcher
-1. 啟動「DSP Dump」
-1. 提示時，按下「開始鍵 (Start)」退出 DSP Dump
-1. 按下「Start」鍵開啟 Homebrew Launcher 選單
-
-##### 第八節 — 還原「健康與警示」程式
+##### 第七節 — 還原「健康與警示」程式
 
 1. 重開機時按住「Start」鍵進入 GodMode9
 1. 按「Home」鍵以叫出主選單
@@ -173,7 +156,7 @@ permalink: /zh_TW/installing-arm9loaderhax.html
 1. 選擇「Restore H&S」
 1. 按「A」解鎖 SysNAND（lvl1）的寫入保護，然後按下提示的按鍵組合
 
-##### 第九節 — 安裝 Luma3DS 至 CTRNAND
+##### 第八節 — 安裝 Luma3DS 至 CTRNAND
 
 1. 移動至 `SDCARD`
 1. 選取 `arm9loaderhax.bin` 並按下「Y」複製
@@ -188,11 +171,6 @@ permalink: /zh_TW/installing-arm9loaderhax.html
   + 在 SD 卡拔除的情況下開機將讓你可以在 CTRNAND 上設置 Luma3DS
 1. 透過方向鍵及「A」以開啟下列選項：    
   + **「Show NAND or user string in System Settings」**
-1. 如果你的裝置是 **New 3DS** 的話，你也可以同時開啟下列選項：
-  + **「New 3DS CPU」中選擇「Clock+L2(x)」**
-    + 某些情況下，這將提高遊戲的流暢度，但也有些遊戲會有不穩的情況
-    + 如果有些遊戲無法正常運作的話，試試看關閉這個選項再試一次
-    + **若在版本 11.3 上啟用此選項將無法運行 Homebrew Launcher！**
 1. 將 SD 卡插回裝置中
 1. 按下「Start」鍵以存檔並重新啟動系統
 
@@ -218,9 +196,6 @@ ___
 <div class="notice--info">{{ notice-6 | markdownify }}</div>
 
 你未來可以透過[更新 A9LH](updating-a9lh)的教學更新你的 arm9loaderhax。
-{: .notice--info}
-
-若要使用 [NTR CFW](https://github.com/44670/BootNTR/)，請於[此](https://github.com/44670/BootNTR/releases)下載對應你裝置的 `ntr.bin` 並將它複製到你 SD 卡的根目錄底下，然後於[此](https://github.com/astronautlevel2/BootNTR/releases/latest)下載並安裝 `BootNTR.cia`。
 {: .notice--info}
 
 保留好你的 `<serialnumber>_nand.bin` 檔案，如果你未來磚機了你可以透過 GodMode9 還原你的裝置。

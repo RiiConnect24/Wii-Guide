@@ -22,7 +22,7 @@ Pour utiliser les liens suivant [magnet](https://fr.wikipedia.org/wiki/Magnet_(s
 **Désactivez le contrôle parental de votre console avant d'effectuer le CTRTransfer vers la 2.1.0. Si vous ne connaissez pas le mot de passe, rendez-vous sur [ce site](https://mkey.salthax.org/). Si vous ne pouvez pas désactiver le contrôle parental parce que l’Identifiant Nintendo Network lié à la console est celui d'un enfant de moins de 13 ans, vous pouvez à la place régler tous les paramètres du contrôle parental sur "ne pas restreindre".**
 {: .notice--warning}
 
-**Effectuer un CTRTransfer supprimera tous les tikcets utilisateurs installés (qui permettent l'accès aux jeux) sur votre console jusqu'à ce que la sauvegarde que vous avez crée soit restaurée.**
+**Performing a CTRTransfer will remove all user-installed tickets (which allow access to games) from your device until the created backup is restored.**
 {: .notice--danger}
 
 **Ne formatez jamais une 2DS en version inférieure à 6.0.0 ou il vous sera impossible d'effectuer la configuration initiale, ce qui résultera en un BRICK de votre console !**
@@ -50,7 +50,7 @@ Pour cela, nous allons [installer une image de ctrtransfer réalisée au préala
 
 * La dernière version de [SafeCTRTransfer](https://github.com/d0k3/SafeCTRTransfer/releases/latest)
 * La dernière version de [safehax](https://github.com/TiniVi/safehax/releases/latest)
-* La dernière version de [fasthax](https://github.com/nedwill/fasthax/releases/latest)
+* La dernière version de [udsploit](https://github.com/smealum/udsploit/releases/latest)
 * L'image CTRtransfer 9.2.0 pour votre console et région     
 *(si votre console n'est pas d'une de ces régions, prenez n'importe laquelle)*:
   +    <i class="fa fa-magnet" aria-hidden="true" title="Ceci est un lien magnet. Utilisez un client torrent pour télécharger le fichier."></i> - [New 3DS or Old 3DS or 2DS 2.1.0 - EUR - CTRTransfer](magnet:?xt=urn:btih:89acc9c1b488b8b38251de0ddf07975d6bd354a1&dn=2.1.0-4E%5FCTRTransfer%5Fo3ds.zip&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce)
@@ -65,20 +65,20 @@ Pour cela, nous allons [installer une image de ctrtransfer réalisée au préala
 1. Créer un nouveau dossier `CTRTransfer` à la racine de votre carte SD s'il n'existe pas déjà
 1. Copier les 2.1.0 `.bin` et `.bin.sha` qui se trouvent dans l'archive CTRTransfer `.zip` dans le dossier `/CTRTransfer/` de votre carte SD
 1. Copiez `safehax.3dsx` dans le dossier `/3ds/` de votre carte SD
-1. Copiez `fasthax.3dsx` dans le dossier `/3ds/` de votre carte SD
+1. Copiez `udsploit.3dsx` vers le répertoire `/3ds/` sur votre carte SD
 1. Copiez `SafeCTRTransfer.bin` de l'archive SafeCTRTransfer `.zip` à la racine de votre carte SD, et renommez `SafeCTRTransfer.bin` en `safehaxpayload.bin`
 1. Réinsérez votre carte SD dans votre 3DS
 
 ##### Section II - Lancer SafeCTRTransfer
 
-1. Lancez "fasthax" que vous trouverez dans la liste des homebrews
+1. Lancez "udsploit" que vous trouverez dans la liste des homebrews
   + Vous devrez peut-être descendre dans la liste pour voir cette option
-1. Une fois terminé, appuyez sur (Start) pour quitter fasthax
+1. Une fois terminé, appuyez sur (Start) pour quitter udsploit
   + Cela peut nécessiter plusieurs essais
   + Si la console freeze (ne répond plus), forcez-la simplement à s'éteindre on maintenant le bouton Power, puis réessayez
 1. Lancez "safehax" que vous trouverez dans la liste des homebrews
   + Vous devrez peut-être descendre dans la liste pour voir cette option
-  + Si la console freeze (ne répond plus), forcez-la simplement à s'éteindre on maintenant le bouton Power, puis réessayez
+  + If it freezes, just force the console to power off by holding the power button, then try again
 1. Si l'exploit a réussi, vous devriez avoir démarré dans SafeCtrTransfer
 
 ##### Section III - CTRTransfer

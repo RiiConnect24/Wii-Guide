@@ -15,7 +15,7 @@ Omdat het doel van de 9.2.0 CTRTransfer het oplossen van problemen in het bestaa
 
 #### Benodigdheden
 
-* De nieuwste versie van [GodMode9](https://github.com/d0k3/GodMode9/releases/)
+* De meest recente versie van [GodMode9](https://github.com/d0k3/GodMode9/releases/)
 * De meest recente versie van [FBI](https://github.com/Steveice10/FBI/releases/latest)
 * De 9.2.0 CTRTransfer image voor jouw apparaat en regio     
 *(Als jouw apparaat niet uit één van deze regio's afkomstig is, kan je een apparaat van hetzelfde type kiezen)*:
@@ -32,9 +32,9 @@ Omdat het doel van de 9.2.0 CTRTransfer het oplossen van problemen in het bestaa
 ##### Deel I - Voorbereiding
 
 1. Schakel je 3ds uit
-1. Plaats je SD-kaart in je computer
+1. Plaats je SD kaart in je computer
 1. Maak een nieuwe map genaamd `cias` in de hooofdmap van je SD kaart, indien deze nog niet aanwezig is
-1. Kopiëer `GodMode9.bin` van GodMode9 `.zip` naar de `/luma/payloads/` map op je SD-kaart en verander de naam van `GodMode9.bin` in `/luma/payloads/` naar `start_GodMode9.bin`
+1. Kopieer `GodMode9.bin` van GodMode9 `.zip` naar de `/luma/payloads/` map op je SD kaart en verander de naam van `GodMode9.bin` in `/luma/payloads/` naar `start_GodMode9.bin`
 1. Kopieer de 9.2.0 CTRTransfer image `.bin` van de CTRTransfer `.zip` naar de `/files9/` map op je SD kaart
 1. Kopieer `FBI.cia` van de FBI `.zip` naar de `/cias/` map op je SD kaart
 1. Stop je SD kaart terug in je 3DS
@@ -62,7 +62,8 @@ Omdat het doel van de 9.2.0 CTRTransfer het oplossen van problemen in het bestaa
   + Druk op (A) om verder te gaan als het voltooid is
 1. Druk op (Start) om je 3DS opnieuw op te starten
 1. Update je 3DS door naar System Settings en dan naar "Algemene Instellingen" te gaan. Ga in dat menu helemaal naar rechts en klik op "Systeemupdate"
-  + Updaten terwijl je A9LH + Luma (wat je hebt) gebruikt zijn veilig, stop met hierover vragen te stellen
+  +** Merk op dat, sinds 11.4.0 erg recent is, er verschillende Luma3DS zullen bestaan (zoals het niet werken van DS en GBA spellen). Bovendien is NTR CFW nog niet compatibel met 11.4.0. Je kan er voor kiezen om het updaten uit te stellen tot een versie van Luma3DS uit komt die deze bugs oplost.**
+  + Updaten terwijl je A9LH + Luma (wat je hebt) gebruikt is veilig
   + Als dit je een foutmelding geeft, zet dan je DNS instellingen op "auto"
 
 ##### Deel III - FBI Injecteren
