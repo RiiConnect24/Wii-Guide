@@ -10,6 +10,16 @@ O Homebrew Launcher possui vários pontos de entrada diferentes, ou métodos de 
 Soundhax é compatível com as versões de 9.0.0 a 11.3.0 nas regiões EUA, EUR, JPN, KOR.
 {: .notice--info}
 
+Certifique-se de que a Comunicação sem fio do seu dispositivo está ligada pois o udsploit (utilizado na próxima página) irá precisar do módulo wireless ativo para funcionar, e alguns dispositivos (New 3DS e 2DS) não podem ajustar as configurações de Comunicação sem fio a partir do Homebrew Launcher. A Comunicação sem fio precisa apenas estar ligada; conectá-la a um ponto de acesso não é necessário.
+{: .notice--info}
+
+Note que atualizações por Cartucho só fornecerão atualizações para recursos principais do sistema, tais como Configuração do console, Menu HOME, etc. Atualizações por Cartucho não fornecerão atualizações para o Som Nintendo 3DS e recursos de rede, tais como Transferência de dados, Navegador de Internet, StreetPass, Mii Plaza ou eShop.
+{: .notice--info}
+
+Isto significa que fazer uma atualização por cartucho de uma versão < 9.0.0 impedirá o funcionamento do [Soundhax](homebrew-launcher-(soundhax))! Você vai precisar de um [método alternativo](homebrew-launcher-(alternatives)) para iniciar o Homebrew Launcher!
+{: .notice--warning}
+
+
 #### O que você precisa
 
 + O [Kit de Iniciante de Homebrew](http://smealum.github.io/ninjhax2/starter.zip)

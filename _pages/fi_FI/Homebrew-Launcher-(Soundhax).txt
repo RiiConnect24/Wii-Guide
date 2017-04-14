@@ -10,6 +10,16 @@ Homebrew Launcherille on useita eri sisäänpääsy- eli käynnistystapoja.
 SoundHax on yhteensopiva versiosta 9.0.0 versioon 11.3.0 EUR-, JPN-, KOR- ja USA-konsoleiden kanssa.
 {: .notice--info}
 
+Varmista, että langaton yhteys on päällä, sillä udsploit (käytetään seuraavassa osiossa) tarvitsee sitä toimiakseen, eikä joillakin konsoleilla (New 3DS ja 2DS) voi muuttaa langattoman yhteyden asetusta Homebrew Launcherissa. Langattoman yhteyden tarvitsee vain olla päällä; tukiasemaan yhdistämistä ei vaadita.
+{: .notice--info}
+
+Huomaa, että korttipäivitykset tuovat päivityksiä vain ydinominaisuuksiin, kuten järjestelmäasetuksiin, HOME-valikkoon jne. Korttipäivitykset eivät tuo päivityksiä Nintendo 3DS Soundiin eikä verkko-ominaisuuksiin, kuten tiedonsiirtosovellukseen, selaimeen, StreetPass Mii Plazaan tai eShopiin.
+{: .notice--info}
+
+Tämä tarkoittaa sitä, että korttipäivitys versiota 9.0.0 vanhemmalta versiolta rikkoo [Soundhax](homebrew-launcher-(soundhax))in toiminnallisuuden! Tarvitset [vaihtoehtoisen tavan](homebrew-launcher-(alternatives)) Homebrew Launcherin käynnistämiseen!
+{: .notice--warning}
+
+
 #### Tarpeet
 
 + Homebrew-[aloituspakkaus](http://smealum.github.io/ninjhax2/starter.zip)

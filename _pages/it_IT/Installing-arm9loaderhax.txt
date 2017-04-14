@@ -123,8 +123,8 @@ Se prima di seguire questa guida avevi già un'installazione EmuNAND presente e 
   + Copia i file `firmware.bin` e `cetk` nella cartella `/luma/` della tua scheda SD
   + Elimina entrambi i file dopo aver aggiornato la tua console
 1. Aggiorna la console andando su Impostazioni della console, poi "Impostazioni generali", infine scorri a destra e seleziona "Aggiornamento"
-  + **Note that, as 11.4.0 is very recent, some Luma3DS bugs exist on it (DS and GBA games will not launch). Additionally, NTR CFW is not yet compatible with 11.4.0. You may choose to delay updating for now until a new Luma3DS version is released that fixes these bugs.**
-  + Updates while using A9LH + Luma (what you have) are safe
+  + **Visto che la versione di sistema 11.4.0 è davvero recente, la versione attuale di Luma3DS ha alcuni bug (i giochi DS e GBA non si avvieranno). Inoltre, NTR CFW non è ancora compatibile con questa versione. Potresti scegliere di ritardare l'aggiornamento fino a che non verrà rilasciata una nuova versione di Luma3DS.**
+  + Gli aggiornamenti effettuati usando A9LH + Luma (ora installato) sono sicuri
   + L'avviso di non aggiornare un New 3DS con versione 2.1.0 non è più applicabile dopo aver ripristinato il tuo backup della NAND.
   + Se ottieni un errore, imposta i DNS della connessione di rete in modo che vengano ottenuti automaticamente
   + Se continui ad ottenere un errore e la tua NAND è ad una versione precedente di 9.2.0, [segui la guida per il CTRTransfer 9.2.0](9.2.0-ctrtransfer)
@@ -148,7 +148,7 @@ Se prima di seguire questa guida avevi già un'installazione EmuNAND presente e 
 1. Seleziona l'opzione "Install all CIAs", quindi premi (A) per confermare la scelta
 1. Premi il pulsante HOME per uscire da FBI
 
-##### Section VII - Restore Health and Safety
+##### Sezione VII - Ripristino di Informazioni per la salute e sicurezza
 
 1. Riavvia la console tenendo premuto (Start) per avviare GodMode9
 1. Premi il pulsante HOME per far apparire il menu delle azioni
@@ -156,7 +156,7 @@ Se prima di seguire questa guida avevi già un'installazione EmuNAND presente e 
 1. Seleziona "Restore H&S"
 1. Premi il pulsante (A) per sbloccare i permessi di scrittura di primo livello su SysNAND, quindi inserisci la combinazione di tasti richiesta a schermo
 
-##### Section VIII - CTRNAND Luma3DS
+##### Sezione VIII - CTRNAND Luma3DS
 
 1. Entra in `SDCARD`
 1. Premi (Y) sul file `arm9loaderhax.bin` per copiarlo
