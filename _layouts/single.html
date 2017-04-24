@@ -4,6 +4,16 @@ layout: default
 
 {% include base_path %}
 
+<div id="main" role="main">
+  <article class="page">
+      <div class ="notice--danger">
+        {% assign split_path = page.path | split: "/" %}
+        {% assign locale = split_path[1] %}
+        {{ site.data.navigation[locale].header[0].title }}
+      </div>
+  </article>
+</div>
+
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% endif %}
