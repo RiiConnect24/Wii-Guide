@@ -53,8 +53,8 @@ permalink: /he_IL/troubleshooting.html
 
 #### הוראות
 
-1. העתיקו את `GodMode9.bin` מתוך הזיפ של GodMode9 אל תוך התיקייה `/luma/payloads/` שב- SD שלכם ושנו את שם הקובץ `GodMode9.bin` ל-`up_GodMode9.bin`
-1. אתחלו תוך כדי החזקת (חץ למעלה) כדי לפתוח את GodMode9
+1. העתיקו את `GodMode9.bin` מהזיפ של GodMode9 אל תיקיית /luma/payloads/ ב- SD שלכם
+1. תפעילו את GodMode9 על ידי לחיצת (A)
 1. נווטו אל `[1:] SYSNAND CTRNAND`, אז`data`, אז מספר בין 32 ספרות, אז `sysdata` ולבסוף `00010038`
 1. החזיקו את (R), ואז תלחצו (X) על `00000000` כדי לשנות את שם הקובץ
 1. לחצו (חץ למעלה) פעם אחת כדי לשנות את השם ל`10000000`
@@ -136,7 +136,7 @@ permalink: /he_IL/troubleshooting.html
     1. תחזיקו (L)+(R)+(A)+(Up)
     1. תפעילו את המכשיר
     1. אם אתם מצליכים להיכנס, תעדכנו את המכשיר *רק אם יש לכם דרך להיכנס לHomebrew בגרסה העדכנית ואפשרי לשנמך ממנה* ותנסו את השנמוך שוב פעם.
-1. יש סיכוי שחטפתם בריק. For support, ask for help at [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp)
+1. יש סיכוי שחטפתם בריק. לקבלת תמיכה, תבקשו עזרה ב[Nintendo Homebrew על Discord](https://discord.gg/MWxPgEp)
 
 ## <a name="ts_sys_a9lh" />מסך שחור בהפעלת SysNAND אחרי התקנת arm9loaderhax
 
@@ -165,7 +165,7 @@ permalink: /he_IL/troubleshooting.html
     + תעתיקו את `firmware.bin` ואת `cetk` לתוך התיקייה `/luma/` שב-SD שלכם
     + תמחקו את שני הקבצים האלו לאחר שתעדכנו את ה-3DS שלכם
 1. תנסו לעקוב אחרי [9.2.0 CTRTransfer](9.2.0-ctrtransfer)
-1. Ask for help at [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp).
+1. תבקשו עזרה ב[Nintendo Homebrew על Discord](https://discord.gg/MWxPgEp).
 
 ## <a name="ts_transfer" />בעיה בזמן הSafeCTRTransfer
 

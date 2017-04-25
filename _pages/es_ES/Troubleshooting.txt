@@ -53,8 +53,8 @@ Para utilizar los enlaces [magnet](https://es.wikipedia.org/wiki/Magnet) de esta
 
 #### Instrucciones
 
-1. Copia `GodMode9.bin` encontrado en el `.zip` de GodMode9 a la carpeta `/luma/payloads/` en tu tarjeta SD y renombra `GodMode9.bin` en `/luma/payloads/` a `up_GodMode9.bin`
-1. Enciende la consola mientras mantienes presionado (Arriba) para entrar en GodMode9 mediante arm9loaderhax
+1. Copia `GodMode9.bin` contenido en el `.zip` de GodMode9 a la carpeta `/luma/payloads/` en tu tarjeta SD
+1. Inicia GodMode9 presionando (A)
 1. Ve a `[1:] SYSNAND CTRNAND` -> `data` -> (ID de 32 caracteres) -> `sysdata` -> `00010038`
 1. Manteniendo pulsado el botón (R), presiona (X) sobre `00000000` para renombrar este archivo
 1. Presiona una vez (Arriba) para cambiar el nombre a `10000000`
@@ -135,7 +135,7 @@ Esto ocurre a veces y la razón es desconocida. Los botones aún funcionan pero 
     1. Mantén pulsado (L)+(R)+(A)+(Arriba)
     1. Enciende tu consola
     1. Si ingresas al modo seguro, actualiza tu consola *sólo si tienes un punto de entrada para la última versión de firmware y es posible downgradear desde ella* e intenta hacer el downgrade nuevamente.
-1. Tu consola podría estar brickeada. For support, ask for help at [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp)
+1. Tu consola podría estar brickeada. Para soporte, puedes pedir ayuda (*en inglés*) en el [Discord de Nintendo Homebrew](https://discord.gg/MWxPgEp)
 
 ## <a name="ts_sys_a9lh" />Pantalla en negro al iniciar la SysNAND tras instalar arm9loaderhax
 
@@ -163,7 +163,7 @@ Esto ocurre a veces y la razón es desconocida. Los botones aún funcionan pero 
     + Copia `firmware.bin` y `cetk` a la carpeta `/luma/` en tu tarjeta SD
     + Elimina ambos archivos después de actualizar tu consola
 1. Prueba siguiendo [9.2.0 CTRTransfer](9.2.0-ctrtransfer)
-1. Ask for help at [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp).
+1. Pide ayuda (*en inglés*) en el [Discord de Nintendo Homebrew](https://discord.gg/MWxPgEp)
 
 ## <a name="ts_transfer" />Error durante el SafeCTRTransfer
 

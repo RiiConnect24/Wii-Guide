@@ -169,7 +169,7 @@ permalink: /zh_TW/installing-arm9loaderhax.html
 
 ##### 第八節 — 安裝 Luma3DS 至 CTRNAND
 
-1. Navigate to `[0:] SDCARD`
+1. 移動至 `[0:] SDCARD`
 1. 選取 `arm9loaderhax.bin` 並按下「Y」複製
 1. 按「B」回到主選單
 1. Navigate to `[1:] SYSNAND CTRNAND`
@@ -201,7 +201,7 @@ ___
 {% capture notice-6 %}   
 現在你的裝置將會自動於開機時啟動 SysNAND 中的 Luma3DS CFW（預設情況下）。    
 你現在可以在開機時按住「Select」鍵啟動 Luma3DS 的設定選單。    
-你現在可以於開機時按住「Start」鍵啟動 GodMode9。     
+You can now hold (Start) on boot to launch the Luma3DS chainloader menu.     
 {% endcapture %}
 
 <div class="notice--info">{{ notice-6 | markdownify }}</div>
@@ -231,14 +231,14 @@ ___
 
 <div class="notice--info">{{ notice-7 | markdownify }}</div>
 
-如果你想要更換你裝置的地區，請見[區碼變更](region-changing)。
+有關改變裝置區域，請見[區碼變更](region-changing)。
 {: .notice--success}
 
-如果你想要更新 A9LH，請見[更新 A9LH](updating-a9lh)。
+有關如何更新 A9LH，請見[更新 A9LH](updating-a9lh)。
 {: .notice--success}
 
 For information on using GodMode9's various features, check out the [GodMode9 Usage](godmode9-usage) page.
 {: .notice--success}
 
-如果你想知道如何使用 Luma3DS 的各項功能，請見[他們的 wiki](https://github.com/AuroraWright/Luma3DS/wiki/Options-and-usage)。
+有關如何使用 Luma3DS 的各項功能，請見[他們的維基業面](https://github.com/AuroraWright/Luma3DS/wiki/Options-and-usage)。
 {: .notice--success}
