@@ -55,7 +55,7 @@ Pour utiliser les liens suivant [magnet](https://fr.wikipedia.org/wiki/Magnet_(s
 
 1. Copiez le fichier `GodMode9.bin` se trouvant dans GodMode9`.zip` vers le dossier `/luma/payloads/` de votre carte SD et renommez-y `GodMode9.bin` en `up_GodMode9.bin`
 1. Maintenez (Haut) enfoncé en redémarrant pour lancer GodMode9 via arm9loaderhax
-1. Séléctionnez `SYSNAND CTRNAND` -> `data` -> (32 Character ID) -> `sysdata` -> `00010038`
+1. Naviguez vers `[1:] SYSNAND CTRNAND` -> `data` -> (32 Character ID) -> `sysdata` -> `00010038`
 1. Maintenez (R) enfoncé et appuyez sur (X) en sélectionnant le fichier `00000000` pour le renommer
 1. Appuyez une fois sur (Haut) pour le renommer en `10000000`
 1. Appuyez sur (A) pour enregistrer les modifications
@@ -68,7 +68,7 @@ Cela vient de l'implémentation bancale faite par Gateway pour downgrader et qui
 
 1. Démarrez la console en maintenant (Start) enfoncé pour accéder au menu de chainloader de Luma3DS
 1. Lancez GodMode9 en appuyant sur (A)   
-1. Sélectionnez `SYSNAND CTRNAND` -> `title` -> `00040010`
+1. Naviguez vers `[1:] SYSNAND CTRNAND` -> `title` -> `00040010`
 1. Sélectionnez le dossier correspondant à votre console et votre région:
   + **Old 3DS EUR**: `00022300` -> `content`
   + **Old 3DS JPN**: `00020300` -> `content`
@@ -135,7 +135,7 @@ Ceci se produit occasionnellement, mais la raison est inconnue. Les boutons fonc
     1. Maintenez les boutons (L)+(R)+(A)+(Haut) enfoncés
     1. Allumez à présent votre 3DS
     1. Si vous démarrez en mode de récupération , mettez à jour votre 3DS *uniquement si vous avez un point d’entrée accessible sur la dernière version du firmware et s'il est possible de downgrader a partir de cette version* puis retentez le downgrade.
-1. Votre console est peut-être brickée. Si vous avez besoin d'aide, rendez vous sur [le chat Rizon IRC #3dshacks](https://www.reddit.com/r/3dshacks/wiki/irc) ou sur [le serveur Discord Nintendo Homebrew](https://discord.gg/MWxPgEp)
+1. Votre console est peut-être brickée. For support, ask for help at [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp)
 
 ## <a name="ts_sys_a9lh" /> Écran noir au démarrage de ma SysNAND après avoir installé arm9loaderhax
 
@@ -163,7 +163,7 @@ Ceci se produit occasionnellement, mais la raison est inconnue. Les boutons fonc
     + Copiez `firmware.bin` et`cetk` dans le répertoire `/luma/` sur votre carte SD
     + Supprimez ces deux fichiers après avoir mis à jour de votre console
 1. Essayer de réaliser le [CTRtransfer en 9.2.0](9.2.0-ctrtransfer)
-1. Demandez de l'aide (En Anglais) sur [le chat Rizon IRC #3dshacks](https://www.reddit.com/r/3dshacks/wiki/irc) ou sur [le serveur Discord Nintendo Homebrew](https://discord.gg/MWxPgEp).
+1. Ask for help at [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp).
 
 ## <a name="ts_transfer" />Erreur pendant SafeCTRTransfer
 
@@ -181,10 +181,10 @@ Si une erreur se produit pendant le processus de SafeCTRTransfer, il vous sera d
 1. Réinsérez votre carte SD dans votre 3DS
 1. Sélectionnez "Run 0:/ctrtransfer/payload.bin"
 1. Si cela fonctionne, vous avez accédé à GodMode9 avec succès
-1. Naviguez vers `SDCARD` -> `ctrtransfer`
+1. Naviguez vers `[0:] SDCARD` -> `ctrtransfer`
 1. Appuyez sur (Y) sur `<serialnumber>_nand.bin` pour le copier
 1. Appuyez deux fois sur (B) pour revenir au menu principal
-1. Naviguez vers `SYSNAND VIRTUAL`
+1. Naviguez vers `[S:] SYSNAND VIRTUAL`
 1. Appuyez sur (Y) pour coller `<serialnumber>_nand.bin`
 1. Appuyez sur (A) pour confirmer
 1. Appuyez sur (A) pour injecter dans `nand.bin`

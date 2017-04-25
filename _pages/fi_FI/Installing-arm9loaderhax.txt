@@ -48,6 +48,7 @@ Tämän prosessin aikana myös asennetaan muun muassa seuraavat ohjelmat:
 * GodMode9:n [viimeisin julkaisu](https://github.com/d0k3/GodMode9/releases)
 * Luma3DS Updaterin [viimeisin julkaisu](https://github.com/Hamcha/lumaupdate/releases/latest)
 * FBI:n [viimeisin julkaisu](https://github.com/Steveice10/FBI/releases/latest)
+* **Vain vanha 3DS ja 2DS:** Vanhan 3DS:n version 11.2.0-35 [otherapp-tiedosto](https://smealum.github.io/3ds/#otherapp) (konsolisi alueen mukainen)
 
 #### Ohjeet
 
@@ -59,6 +60,7 @@ Tämän prosessin aikana myös asennetaan muun muassa seuraavat ohjelmat:
   + Tämä varmuuskopiointi pelastaa sinut laitteen vioittumiselta, jos jokin menee pieleen tulevaisuudessa
 1. Luo `cias`-niminen kansio SD-korttisi juureen, jos sitä ei jo ole olemassa
 1. Luo `files9`-niminen kansio SD-korttisi juureen, jos sitä ei jo ole olemassa
+1. Luo `hblauncherloader`-niminen kansio SD-korttisi juureen, jos sitä ei jo ole olemassa
 1. Kopioi  SafeA9LHInstaller-`.7z`-pakkauksen _sisältö_ SD-korttisi juureen
 1. Kopioi data_input-`.zip`-pakkauksesta `a9lh`-kansio SD-korttisi juureen
 1. Kopioi arm9loaderhax-`.7z`-pakkauksen _sisältö_ SD-korttisi `a9lh`-kansioon
@@ -70,6 +72,12 @@ Tämän prosessin aikana myös asennetaan muun muassa seuraavat ohjelmat:
 1. Luo `payloads`-niminen kansio SD-korttisi `luma`-kansioon
 1. Kopioi GodMode9-`.zip`-pakkauksesta `GodMode9.bin` SD-korttisi `/luma/payloads/`-kansioon
 1. Kopioi `aeskeydb.bin` SD-korttisi `/files9/`-kansioon
+1. **Vain vanha 3DS ja 2DS:** Kopioi vanhan 3DS:n version 11.2.0-35, alueesi mukainen otherapp-tiedosto SD-korttisi `/hblauncherloader/`-kansioon
+1. **Vain vanha 3DS ja 2DS:** Uudelleennimeä SD-kortillasi oleva vanhan 3DS:n version 11.2.0-35 otherapp-tiedosto alueesi mukaisesti:
+  + **EUR:** `OLD-11-4-0-37-EUR.bin`
+  + **JPN:** `OLD-11-4-0-37-JPN.bin`
+  + **KOR:** `OLD-11-4-0-37-KOR.bin`
+  + **USA:** `OLD-11-4-0-37-USA.bin`
 
 ##### Vaihe II – Arm9loaderhaxin asentaminen
 
@@ -77,6 +85,7 @@ Tämän prosessin aikana myös asennetaan muun muassa seuraavat ohjelmat:
 1. Konsolisi tulisi nyt olla käynnissä versiolla 2.1.0
 1. Mene osoitteeseen `http://2xrsa.3ds.guide` konsolisi selaimella
   + Jos saat virheen "This service is not available in your region", käytä järjestelmäasetuksia (System Settings) asettaaksesi konsolisi maan samaksi kuin CTRTransferilla asentamasi NAND-alue
+  + Huomaa, että jos unohdit poistaa lapsilukon käytöstä ennen CTRTransferia tai jos et muuten vain pääse verkkoasetuksiin, konsolisi yhdistää automaattisesti mihin tahansa salasanattomaan verkkoon, jonka nimi on `attwifi`
   + Jos saat jonkin toisen virheen, [seuraa tätä vianmääritysohjetta](troubleshooting#ts_browser)
   + Jos näet häiriöityneen kuvan, [seuraa tätä vianmääritysohjetta](troubleshooting#ts_safe_a9lh_screen)
   + Jos käytät 2DS:ää tai New 3DS:ää ja langaton yhteys ei ole päällä, saat sen takaisin päälle irrottamalla akun ja laturin muutamaksi sekunniksi, jonka jälkeen voit käynnistää laitteen uudelleen
@@ -108,7 +117,7 @@ Jos sinulla oli ennen tämän oppaan aloittamista EmuNAND-kokoonpano, ja haluais
 
 1. Avaa Luma3DS:n ketjulatausvalikko pitämällä (START)-painiketta pohjassa käynnistyksen aikana
 1. Avaa GodMode9 painamalla (A):ta
-1. Mene hakemistoon `SDCARD` → `ctrtransfer`
+1. Mene hakemistoon `[0:] SDCARD` → `ctrtransfer`
 1. Paina (A):ta `<sarjanumero>_nand.bin`-tiedoston kohdalla, valitse "NAND image options..." ja sitten "Restore SysNAND (safe)"
 1. Paina (A):ta ottaaksesi käyttöön SysNANDin ylikirjoittamisen ja syötä annettu painikeyhdistelmä
   + Tämä ei ylikirjoita arm9loaderhax-asennustasi
@@ -133,7 +142,7 @@ Jos sinulla oli ennen tämän oppaan aloittamista EmuNAND-kokoonpano, ja haluais
 
 1. Avaa Luma3DS:n ketjulatausvalikko pitämällä (START)-painiketta pohjassa käynnistyksen aikana
 1. Avaa GodMode9 painamalla (A):ta
-1. Mene hakemistoon `SDCARD` → `cias`
+1. Mene hakemistoon `[0:] SDCARD` → `cias`
 1. Paina (A):ta `FBI.cia`-tiedoston kohdalla valitaksesi sen, valitse "CIA image options..." ja sitten "Mount image to drive"
 1. Paina (A):ta `.app`-tiedoston kohdalla valitaksesi sen, valitse "NCCH image options" ja sitten "Inject to H&S"
 1. Paina (A):ta ottaaksesi käyttöön SysNANDiin kirjoittamisen (lvl1) ja syötä annettu painikeyhdistelmä
@@ -161,10 +170,10 @@ Jos sinulla oli ennen tämän oppaan aloittamista EmuNAND-kokoonpano, ja haluais
 
 ##### Vaihe VIII – Luma3DS:n asentaminen CTRNANDiin
 
-1. Mene hakemistoon `SDCARD`
+1. Mene hakemistoon `[0:] SDCARD`
 1. Paina (Y):tä `arm9loaderhax.bin`-tiedoston kohdalla kopioidaksesi sen
 1. Paina (B):tä palataksesi päävalikkoon
-1. Mene hakemistoon `SYSNAND CTRNAND`
+1. Mene hakemistoon `[1:] SYSNAND CTRNAND`
 1. Paina (Y):tä liittääksesi `arm9loaderhax.bin`-tiedoston
 1. Valitse "Copy path(s)"
 1. Paina (B):tä palataksesi päävalikkoon
@@ -227,6 +236,9 @@ Tietoja konsolisi alueen vaihtamisesta toiseen saat osiosta [Alueen vaihtaminen]
 {: .notice--success}
 
 Tietoja A9LH:n pitämisestä ajan tasalla löydät osiosta [A9LH:n päivittäminen](updating-a9lh).
+{: .notice--success}
+
+Tietoja GodMode9:n monista ominaisuuksista löydät osiosta [GodMode9:n käyttäminen](godmode9-usage).
 {: .notice--success}
 
 Tietoja Luma3DS:n monista ominaisuuksista löydät [sen wikistä](https://github.com/AuroraWright/Luma3DS/wiki/Options-and-usage).

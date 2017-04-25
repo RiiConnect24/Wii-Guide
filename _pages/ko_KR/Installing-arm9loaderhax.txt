@@ -49,6 +49,7 @@ arm9loaderhax를 설치하고 Luma3DS의 설정이 완료되면 백업을 복원
 * 최신 버전의 [GodMode9](https://github.com/d0k3/GodMode9/releases/latest)
 * 최신 버전의 [Luma3DS Updater](https://github.com/Hamcha/lumaupdate/releases/latest)
 * 최신 버전의 [FBI](https://github.com/Steveice10/FBI/releases/latest)
+* **Old 3DS and 2DS Only:** The Old 3DS 11.2.0-35 [otherapp payload](https://smealum.github.io/3ds/#otherapp) for your region
 
 #### 진행 방법
 
@@ -60,6 +61,7 @@ arm9loaderhax를 설치하고 Luma3DS의 설정이 완료되면 백업을 복원
   + 나중에 문제가 생겨 벽돌이 되었을 때 이 백업으로 기기를 살릴 수 있습니다.
 1. SD 카드의 최상위 경로에 `cias` 폴더가 없을 경우 폴더를 만들어 주세요.
 1. SD 카드의 최상위 경로에 `files9` 폴더가 존재하지 않을 경우 폴더를 만들어 주세요.
+1. Create a folder named `hblauncherloader` on the root of your SD card if it does not already exist
 1. SafeA9LHInstaller `.7z` 파일의 _내용물 만_ SD 카드의 최상위 경로에 복사하세요.
 1. Copy the `a9lh` folder from the data_input `.zip` to the root of your SD card
 1. arm9loaderhax `.7z` 파일의 _내용물 만_ SD 카드의 `a9lh` 폴더에 복사하세요.
@@ -71,6 +73,12 @@ arm9loaderhax를 설치하고 Luma3DS의 설정이 완료되면 백업을 복원
 1. SD 카드의 `luma` 폴더에 `payloads` 폴더를 만드세요.
 1. Godmode9 `.zip` 파일에서 `Godmode9.bin` 파일을 SD 카드의 `/luma/payloads/` 폴더에 복사해 주세요.
 1. `aeskeydb.bin` 파일을 SD 카드의 `/files9/` 폴더에 복사하세요.
+1. **Old 3DS and 2DS Only:** Copy the Old 3DS 11.2.0-35 otherapp payload for your region to the `/hblauncherloader/` folder on your SD card
+1. **Old 3DS and 2DS Only:** Rename the Old 3DS 11.2.0-35 otherapp payload on your SD card to match your region:
+  + **EUR:** `OLD-11-4-0-37-EUR.bin`
+  + **JPN:** `OLD-11-4-0-37-JPN.bin`
+  + **KOR:** `OLD-11-4-0-37-KOR.bin`
+  + **USA:** `OLD-11-4-0-37-USA.bin`
 
 ##### 섹션 II - arm9loaderhax 설치
 
@@ -78,6 +86,7 @@ arm9loaderhax를 설치하고 Luma3DS의 설정이 완료되면 백업을 복원
 1. You should be already on 2.1.0 and powered on
 1. Go to URL `http://2xrsa.3ds.guide` in the browser of your device
   + If you get the error "This service is not available in your region", use the System Settings to set your device's country to match the NAND region you installed with 2.1.0 CTRTransfer
+  + If you forgot to disable parental controls before CTRTransfering or otherwise cannot access wireless settings, note that the device will autoconnect to any network named `attwifi` with no password
   + 다른 오류가 뜨면 [이 문제 해결 가이드](troubleshooting#ts_browser)를 참고하세요.
   + 화면 깨짐현상이 나타나면 [이 문제 해결 가이드](troubleshooting#ts_safe_a9lh_screen)를 참고하세요.
   2DS 또는 뉴 3DS에서 무선 인터넷 연결을 끈 채 2.1.0 버전으로 다운그레이드했다면, 충전기와 배터리를 제거하고 몇 초 후 다시 장착하여 무선 인터넷 연결을 다시 켤 수 있습니다.
@@ -109,7 +118,7 @@ EmuNAND 기반의 커스텀 펌웨어의 데이터를 새 SysNAND 커스텀 펌�
 
 1. Boot your device while holding (Start) to launch the Luma3DS chainloader menu
 1. (A) 버튼을 눌러 GodMode9를 실행해 주세요.
-1. Navigate to `SDCARD` -> `ctrtransfer`
+1. Navigate to `[0:] SDCARD` -> `ctrtransfer`
 1. Press (A) on `<serialnumber>_nand.bin` to select it, then select "NAND image options...", then select "Restore SysNAND (safe)"
 1. Press (A) to unlock SysNAND overwriting, then input the key combo given
   + This will not overwrite your arm9loaderhax installation
@@ -134,7 +143,7 @@ EmuNAND 기반의 커스텀 펌웨어의 데이터를 새 SysNAND 커스텀 펌�
 
 1. Reboot holding (Start) during boot to launch the Luma3DS chainloader menu
 1. (A) 버튼을 눌러 GodMode9를 실행해 주세요.
-1. Navigate to `SDCARD` -> `cias`
+1. Navigate to `[0:] SDCARD` -> `cias`
 1. Press (A) on `FBI.cia` to select it, then select "CIA image options...", then select "Mount image to drive"
 1. Press (A) on the `.app` file, then select "NCCH image options", then select "Inject to H&S"
 1. Press (A) to unlock SysNAND (lvl1) writing, then input the key combo given
@@ -161,10 +170,10 @@ EmuNAND 기반의 커스텀 펌웨어의 데이터를 새 SysNAND 커스텀 펌�
 
 ##### 섹션 VIII - CTRNAND Luma3DS
 
-1. Navigate to `SDCARD`
+1. Navigate to `[0:] SDCARD`
 1. Press (Y) on `arm9loaderhax.bin` to copy it
 1. Press (B) to return to the main menu
-1. Navigate to `SYSNAND CTRNAND`
+1. Navigate to `[1:] SYSNAND CTRNAND`
 1. Press (Y) to paste `arm9loaderhax.bin`
 1. Select "Copy path(s)"
 1. Press (B) to return to the main menu
@@ -227,6 +236,9 @@ Keep your `<serialnumber>_nand.bin` file, it can be restored by GodMode9 to save
 {: .notice--success}
 
 설치한 A9LH를 최신 버전으로 유지하는 방법에 대해 알아보려면 [A9LH 업데이트](updating-a9lh) 페이지를 참고하세요.
+{: .notice--success}
+
+For information on using GodMode9's various features, check out the [GodMode9 Usage](godmode9-usage) page.
 {: .notice--success}
 
 Luma3DS의 다양한 기능에 대해 알아보려면 [Luma3DS 위키](https://github.com/AuroraWright/Luma3DS/wiki/Options-and-usage)를 참고하세요.

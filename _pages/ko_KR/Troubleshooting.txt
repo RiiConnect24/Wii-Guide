@@ -56,7 +56,7 @@ If you are unable to boot your device, please look for the section relevant to y
 
 1. GodMode9 `.zip` 파일에서 `GodMode9.bin` 파일을 SD 카드의 `/luma/payloads/` 폴더에 복사하고 `GodMode9.bin` 파일의 이름을 `up_GodMode9.bin`으로 변경하세요.
 1. 십자버튼 (위)를 누른 채 기기를 재시작하여 GodMode9을 실행하세요.
-1. `SYSNAND CTRNAND` -> `data` -> (32자리 ID) -> `sysdata` -> `00010038`로 이동하세요.
+1. Navigate to `[1:] SYSNAND CTRNAND` -> `data` -> (32 Character ID) -> `sysdata` -> `00010038`
 1. `00000000` 파일의 이름을 변경하기 위해 (R) 버튼을 누른 채 (X) 버튼을 누르세요.
 1. 십자버튼 (위)를 한 번 눌러 이름을 `10000000`로 변경하세요.
 1. (A) 버튼을 눌러 저장하세요.
@@ -69,7 +69,7 @@ If you are unable to boot your device, please look for the section relevant to y
 
 1. Boot your device while holding (Start) to launch the Luma3DS chainloader menu
 1. (A) 버튼을 눌러 GodMode9를 실행해 주세요.   
-1. `SYSNAND CTRNAND` -> `title` -> `00040010`로 이동하세요.
+1. Navigate to `[1:] SYSNAND CTRNAND` -> `title` -> `00040010`
 1. 모델 및 지역에 맞는 폴더로 이동하세요:
   + **구 3DS EUR**: `00022300` -> `content`
   + **구 3DS JPN**: `00020300` -> `content`
@@ -136,7 +136,7 @@ SD 카드에 잘못된 `arm9loaderhax.bin` 파일을 복사했을 수 있습니�
     1. Hold (L)+(R)+(A)+(Up)
     1. Power on your device
     1. 안전 모드에 진입했다면, *최신 펌웨어 버전에서 홈브류 런처에 진입할 방법을 가지고 있는 경우에만* 기기를 업데이트하고 다시 다운그레이드를 시도해 주세요.
-1. Your device may be bricked. For support, ask for help at [#3dshacks on Rizon IRC](https://www.reddit.com/r/3dshacks/wiki/irc) or [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp)
+1. Your device may be bricked. For support, ask for help at [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp)
 
 ## <a name="ts_sys_a9lh" />arm9loaderhax 설치 이후 SysNAND 부팅 시 검은 화면이 보입니다.
 
@@ -164,7 +164,7 @@ SD 카드에 잘못된 `arm9loaderhax.bin` 파일을 복사했을 수 있습니�
     + `firmware.bin` 파일과 `cetk` 파일을 SD 카드의 `/luma/` 폴더에 복사하세요.
     + Delete both of these files after updating your device
 1. Try following [9.2.0 CTRTransfer](9.2.0-ctrtransfer)
-1. Ask for help at [#3dshacks on Rizon IRC](https://www.reddit.com/r/3dshacks/wiki/irc) or [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp).
+1. Ask for help at [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp).
 
 ## <a name="ts_transfer" />Error during SafeCTRTransfer
 
@@ -182,10 +182,10 @@ If an error occurs during the SafeCTRTransfer process, you will be prompted to l
 1. SD 카드를 기기에 다시 삽입해 주세요.
 1. Select "Run 0:/ctrtransfer/payload.bin"
 1. If it was successful, you will have entered GodMode9
-1. Navigate to `SDCARD` -> `ctrtransfer`
+1. Navigate to `[0:] SDCARD` -> `ctrtransfer`
 1. Press (Y) on `<serialnumber>_nand.bin` to copy it
 1. Press (B) twice to return to the main menu
-1. Navigate to `SYSNAND VIRTUAL`
+1. Navigate to `[S:] SYSNAND VIRTUAL`
 1. Press (Y) to paste `<serialnumber>_nand.bin`
 1. (A) 버튼을 눌러 주세요.
 1. Press (A) to inject into `nand.bin`

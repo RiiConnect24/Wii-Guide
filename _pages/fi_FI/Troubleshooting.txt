@@ -55,7 +55,7 @@ Jos et pysty käynnistämään konsoliasi, seuraa tilannettasi vastaavan kohdan 
 
 1. Kopioi GodMode9-`.zip`-pakkauksesta `GodMode9.bin` SD-korttisi `/luma/payloads/`-kansioon ja uudelleennimeä se siellä muotoon `up_GodMode9.bin`
 1. Käynnistä konsolisi pitäen ristiohjaimen yläsuuntaa pohjassa avataksesi arm9loaderhaxin kautta GodMode9:n
-1. Mene hakemistoon `SYSNAND CTRNAND` -> `data` -> (32-merkkinen tunnus) -> `sysdata` -> `00010038`
+1. Mene hakemistoon `[1:] SYSNAND CTRNAND` → `data` → (32-merkkinen tunnus) → `sysdata` → `00010038`
 1. Pidä (R):ää pohjassa ja paina samalla (X):ää `00000000`-tiedoston kohdalla uudelleennimetäksesi sen
 1. Paina ylös kerran vaihtaaksesi nimeksi `10000000`
 1. Paina (A):ta tallentaaksesi muutokset
@@ -68,7 +68,7 @@ Tämä johtuu Gatewayn huonosta päivitysmenetelmästä, joka jättää jokaises
 
 1. Avaa Luma3DS:n ketjulatausvalikko pitämällä (START)-painiketta pohjassa käynnistyksen aikana
 1. Avaa GodMode9 painamalla (A):ta   
-1. Mene hakemistoon `SYSNAND CTRNAND` -> `title` -> `00040010`
+1. Mene hakemistoon `[1:] SYSNAND CTRNAND` → `title` → `00040010`
 1. Mene konsolisi mallin ja alueen mukaiseen kansioon:
   + **Vanha 3DS EUR**: `00022300` -> `content`
   + **Vanha 3DS JPN**: `00020300` -> `content`
@@ -135,7 +135,7 @@ Tätä tapahtuu toisinaan, mutta syytä ei tiedetä. Painikkeet toimivat silti, 
     1. Pidä pohjassa painikeyhdistelmää (L)+(R)+(A)+(YLÖS)
     1. Käynnistä konsolisi
     1. Kun konsolisi käynnistyy palautustilaan, päivitä se *vain, jos sinulla on käynnistystapa uusimmalle laiteohjelmistoversiolle, ja jos siltä on mahdollista päivittää taaksepäin*. Kokeile sitten taaksepäin päivittämistä uudelleen.
-1. Konsolisi saattaa olla vioittunut. Englanninkielistä tukea saat [#3dshacks-kanavalta Rizonin IRC:ssä](https://www.reddit.com/r/3dshacks/wiki/irc) sekä [Nintendo Homebrew -palvelimelta Discordissa](https://discord.gg/MWxPgEp)
+1. Konsolisi saattaa olla vioittunut. For support, ask for help at [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp)
 
 ## <a name="ts_sys_a9lh" />Musta ruutu arm9loaderhaxin asentamisen jälkeen, kun SysNAND on käynnistetty
 
@@ -163,7 +163,7 @@ Tätä tapahtuu toisinaan, mutta syytä ei tiedetä. Painikkeet toimivat silti, 
     + Kopioi `firmware.bin` ja `cetk` SD-korttisi `/luma/`-kansioon
     + Poista kummatkin tiedostot päivitettyäsi konsolin
 1. Kokeile seurata osiota [9.2.0-CTRTransfer](9.2.0-crtransfer)
-1. Kysy apua (englanniksi) [#3dshacks-kanavalta Rizonin IRC:ssä](https://www.reddit.com/r/3dshacks/wiki/irc) sekä [Nintendo Homebrew -palvelimelta Discordissa](https://discord.gg/MWxPgEp).
+1. Ask for help at [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp).
 
 ## <a name="ts_transfer" />Virhe SafeCTRTransferin aikana
 
@@ -181,10 +181,10 @@ Jos SafeCTRTransferin prosessin aikana tapahtuu virhe, sinua kehotetaan käynnis
 1. Aseta SD-korttisi takaisin konsoliisi
 1. Valitse "Run 0:/ctrtransfer/payload.bin"
 1. Jos toiminto onnistui, GodMode9:n pitäisi avautua
-1. Mene hakemistoon `SDCARD` → `ctrtransfer`
+1. Mene hakemistoon `[0:] SDCARD` → `ctrtransfer`
 1. Paina (Y):tä `<serialnumber>_nand.bin`-tiedoston kohdalla kopioidaksesi sen
 1. Paina (B):tä kahdesti palataksesi päävalikkoon
-1. Mene hakemistoon `SYSNAND VIRTUAL`
+1. Mene hakemistoon `[S:] SYSNAND VIRTUAL`
 1. Paina (Y):tä liittääksesi `<sarjanumero>_nand.bin`-tiedoston
 1. Paina (A):ta vahvistaaksesi
 1. Paina (A):ta injektoidaksesi `nand.bin`-tiedostoon
