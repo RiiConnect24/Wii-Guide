@@ -6,12 +6,30 @@ permalink: /recent-community-events.html
 
 {% capture notice-1 %}
 
+**On April 24 2017, at approximately 5:00pm EST, the head moderators ([s_99](https://www.reddit.com/user/Seamus9999), [LOCAP](https://www.reddit.com/user/deadfracture99), and [Clozure](https://www.reddit.com/user/34895348573857348759)) of the popular subreddit /r/3dshacks censored a post exposing a child predator in the 3DS, Wii U, and Switch hacking communities.**
+
+**This post, [made with the staff approval after much bickering](https://0bin.net/paste/qK1vWjClOqWFYOSJ#Ba53hgBZMDzJPVWUbJ9e5w139KS2i4daFc7cyQYR+bi), received a score of 417 with an 80% upvote rate, and clearly had the support of the community behind it. This was not a rash post of a sole developer, but rather had the support of the staff of various developer groups.**
+
+**These moderators were entrusted to keep the community safe, but instead they attempted cover up the issue. [Some members of the staff did not want the community to be made aware at all](https://0bin.net/paste/eBQtFS1iI-oUZ+Hi#LnzRA87qPu-r+3YfuVsSuBpQqtbgRznW3aWuls+XWJr). Because of this censorship, I will no longer be associated with the /r/3dshacks subreddit or IRC until there is a change in leadership.**
+
+**A post explaning the events (with additional information and evidence) can be found [*here*](recent-community-events). A full archive of the removed thread can be found [*here*](https://imgur.com/gallery/un69v). The original (now removed) thread can be found [*here*](https://www.reddit.com/r/3dshacks/comments/674ik7/).**
+
+**I would like to formally apologize to the moderator [dubyadud](https://www.reddit.com/user/dubyadud), whose legitimate apology I had assumed was damage control on behalf of the moderator team. The deletion of a pre-discussed post this important felt like a betrayal of trust, and as such I was lumping all the moderators together.**
+
+**No, this guide will not be deleted. This notice will be removed when it is appropriate to do so. It is not a "witch hunt" when evidence is provided.**
+      
+{% endcapture %}
+
+<div class="notice--danger">{{ notice-1 | markdownify }}</div>
+
+{% capture notice-2 %}
+
 **In the original version of this post, I avoided mentioning anything that would directly reveal the victim's identity. Unfortunately, they rendered that effort moot by replying directly to the original thread (visible in [this archive](https://imgur.com/gallery/un69v)).**
 
 **Because protecting the privacy of the victim is no longer an option, evidence to back up the claims made against Dazzozo can be found [here](https://0bin.net/paste/n-tGGoZUNr8iKDpu#JnORnwh6Cdfd9S8hJp3wWLxUnmJt7HQxV0DsjdOz45L), [here](https://gist.github.com/daeken/d2540e3fc355b5648442eb190dd8de84), [here](https://imgur.com/gallery/4Y35B), and [here](https://web.archive.org/web/20080312220606/http://dazzozo.com/profile.php?lookup=1) (for age, [mirror](https://imgur.com/gallery/NtyOJ)).**
 {% endcapture %}
 
-<div class="notice--info">{{ notice-1 | markdownify }}</div>
+<div class="notice--info">{{ notice-2 | markdownify }}</div>
 
 I did not want to have to make this post, but it is important that I do so for the safety of the community as a whole.
 
