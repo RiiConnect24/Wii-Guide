@@ -1,24 +1,24 @@
 ---
-title: "[PSA] Eventos recientes de la comunidad" #
-lang: es
-permalink: /es_ES/recent-community-events.html
+title: "[PSA] Recent Community Events" #
+lang: en
+permalink: /recent-community-events.html
 ---
 
 {% capture notice-1 %}
 
-**En la versión original de esta publicación, evité mencionar algo que directamente revelaría la identidad de la víctima. Desafortunadamente, este esfuerzo fue inútil al este contestar directamente en el hilo original (visible en [este archivo] (https://imgur.com/gallery/un69v)).**
+**In the original version of this post, I avoided mentioning anything that would directly reveal the victim's identity. Unfortunately, they rendered that effort moot by replying directly to the original thread (visible in [this archive](https://imgur.com/gallery/un69v)).**
 
-**Ya que proteger la privacidad de la víctima no es una opción, la evidencia para respaldar las declaraciones hechas en contra de Dazzozo pueden encontrarse [aquí](https://0bin.net/paste/JytwkriP19eodCl4#Qf8vLDbHRjlErGMSIuB518hF15rTRavKZnNYCZdw7z6), [aquí](https://gist.github.com/daeken/d2540e3fc355b5648442eb190dd8de84), [aquí](https://imgur.com/gallery/4Y35B), y [aquí](https://web.archive.org/web/20080312220606/http://dazzozo.com/profile.php?lookup=1) (para la edad, [mirror](https://imgur.com/gallery/NtyOJ)).**
+**Because protecting the privacy of the victim is no longer an option, evidence to back up the claims made against Dazzozo can be found [here](https://0bin.net/paste/n-tGGoZUNr8iKDpu#JnORnwh6Cdfd9S8hJp3wWLxUnmJt7HQxV0DsjdOz45L), [here](https://gist.github.com/daeken/d2540e3fc355b5648442eb190dd8de84), [here](https://imgur.com/gallery/4Y35B), and [here](https://web.archive.org/web/20080312220606/http://dazzozo.com/profile.php?lookup=1) (for age, [mirror](https://imgur.com/gallery/NtyOJ)).**
 {% endcapture %}
 
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
-No quería tener que hacer esta publicación, pero es importante que lo haga por la seguridad de la comunidad.
+I did not want to have to make this post, but it is important that I do so for the safety of the community as a whole.
 
-Alrededor de 3 semanas atrás, el 2 de Abril, surge evidencia competente en forma de registros de conversaciones explícitas indicando que un miembro de las comunidades de hackeo de 3DS, Wii U y Switch, de 22 años [Dazzozo](https://dazzozo.com/) ([Github](https://github.com/Dazzozo)), estaba sexualmente involucrado en una relación de larga distancia con un menor. Él, más específicamente, intentaba dejar el país para tener relaciones sexuales con este menor lo cual es una clara violación de [las leyes de turismo sexual relevantes](http://www.legislation.gov.uk/ukpga/2003/42/section/15). Cuando se le confrontó, Dazzoso no intentó negar su comportamiento; en vez de eso, el declaró que el no estaba enterado de que las leyes de turismo sexual aplicaban al caso. Desde entonces, él ha sido vetado del lugar donde esto ocurrió, y toda la información ha sido entregada a las autoridades correspondientes.
+About three weeks ago, on April 2nd, compelling evidence in the form of explicit conversation logs surfaced indicating that a 22-year old member of the 3DS, Wii U, and Switch hacking communities, [Dazzozo](https://dazzozo.com/) ([Github](https://github.com/Dazzozo)), was sexually involved in a long distance relationship with a minor. He, more specifically, intended on leaving the country in order to have sexual relations with this minor which is in clear violation of [the relevant sex tourism laws](http://www.legislation.gov.uk/ukpga/2003/42/section/15). When confronted, Dazzozo made no attempt to deny this behavior; instead, he stated that he was unaware that the sex tourism laws applied. He has since been banned from the place where this situation occurred, and all information has been turned over to the relevant authorities.
 
-Esta no es la primera vez que algo así ocurre en la comunidad de 3DS hacking. Recientemente, Cruel\`, un conocido desarrollador de la comunidad, fue sentenciado por cargos sobre pornografía infantil y, como resultado, estará [20 años en prisión](http://www.gwinnettdailypost.com/local/gwinnett-man-convicted-of-running-child-porn-site/article_05ad133f-165f-5afe-9714-92fc4445ead1.html).
+This is not the first time something like this has happened in the 3DS hacking community. Just recently, Cruel\`, a well-known developer in the community, was convicted on child pornography charges and will be spending [20 years in prison](http://www.gwinnettdailypost.com/local/gwinnett-man-convicted-of-running-child-porn-site/article_05ad133f-165f-5afe-9714-92fc4445ead1.html) as a result.
 
-Quiero ser claro con esto: este tipo de comportamiento depredador es injustificable; ninguna forma de relación saludadle puede desarrollarse donde hay un gran desequilibro de poder como el que hay entre un adulto y alguien de 15 años. Este tipo de comportamiento (llamado "[grooming] (https://es.wikipedia.org/wiki/Grooming)") es extremadamente perjudicial para los menores afectados por él. Tienden a aislarse de sus amigos y cambian su personalidad para coincidir con la del adulto (lo cual es lo que pasó en esta situación). Esta comunidad tiene muchos miembros jóvenes quienes tal vez no entiendan completamente los peligros de esto, y es nuestra responsabilidad mantenerlos a salvo.
+I want to be abundantly clear: this type of predatory behavior is indefensible; no form of healthy relationship can develop in a situation where there is a power imbalance as large as that between an adult and a 15-year old. This type of "[grooming](https://en.wikipedia.org/wiki/Child_grooming)" behavior is extremely damaging to the minors affected by it. They tend to be isolated from friends and have their personality changed to match the one of the adult (which is exactly what happened in this situation). This community has many young members who may not fully understand the dangers of this, and it is our responsibility to keep them safe.
 
-Si tienes conocimiento sobre relaciones dañinas que involucren a un adulto y a un menor como esta, es nuestra responsabilidad como miembros de la comunidad la de intervenir y proteger al menor, incluso si ellos no entienden que la relación es perjudicial.
+If you have knowledge of unhealthy relationships involving an adult and a minor such as this one, it is our responsibility as community members to come forward and protect the minor, even if they do not yet understand that their relationship is damaging.

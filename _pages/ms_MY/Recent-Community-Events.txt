@@ -1,6 +1,6 @@
 ---
 title: "[PSA] Recent Community Events" #
-lang: ms
+lang: en
 permalink: /recent-community-events.html
 ---
 

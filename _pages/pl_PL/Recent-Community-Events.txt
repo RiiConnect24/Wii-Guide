@@ -1,6 +1,6 @@
 ---
 title: "[PSA] Recent Community Events" #
-lang: pl
+lang: en
 permalink: /recent-community-events.html
 ---
 
@@ -11,7 +11,7 @@ permalink: /recent-community-events.html
 **Because protecting the privacy of the victim is no longer an option, evidence to back up the claims made against Dazzozo can be found [here](https://0bin.net/paste/n-tGGoZUNr8iKDpu#JnORnwh6Cdfd9S8hJp3wWLxUnmJt7HQxV0DsjdOz45L), [here](https://gist.github.com/daeken/d2540e3fc355b5648442eb190dd8de84), [here](https://imgur.com/gallery/4Y35B), and [here](https://web.archive.org/web/20080312220606/http://dazzozo.com/profile.php?lookup=1) (for age, [mirror](https://imgur.com/gallery/NtyOJ)).**
 {% endcapture %}
 
-<div class="notice--info"> {{ notice-1 | markdownify }}</div>
+<div class="notice--info">{{ notice-1 | markdownify }}</div>
 
 I did not want to have to make this post, but it is important that I do so for the safety of the community as a whole.
 
