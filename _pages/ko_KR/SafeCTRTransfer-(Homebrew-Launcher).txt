@@ -24,7 +24,7 @@ udsploit가 작동하려면 무선 통신 모듈이 필요하므로 기기의 �
 **현재, 2.1.0 CTRTransfer 이후의 작업을 진행하기 위해서는 기기의 무선 인터넷 연결이 필요합니다.**
 {: .notice--warning}
 
-**Disable the parental controls of your device before doing the 2.1.0 CTRTransfer. 비밀번호를 모를 경우 [이곳](https://mkey.salthax.org/)을 참고해 주세요. 만약 연결된 NNID가 13세 이하 전용이라서 청소년 제한 설정을 해제할 수 없다면, 대신 모든 청소년 제한 설정을 "제한하지 않음" 설정으로 설정할 수 있습니다.**
+**2.1.0 CTRTransfer를 진행하기 전에 청소년 보호 기능을 비활성화시켜 주세요. 비밀번호를 모를 경우 [이곳](https://mkey.salthax.org/)을 참고해 주세요. 만약 연결된 NNID가 13세 이하 전용이라서 청소년 제한 설정을 해제할 수 없다면, 대신 모든 청소년 제한 설정을 "제한하지 않음" 설정으로 설정할 수 있습니다.**
 {: .notice--warning}
 
 **CTRTransfer 프로그램을 사용하면 생성된 백업이 재설치되기 전까지 기기에 설치된 모든 티켓 (게임에 접속을 허용하는 것) 을 삭제합니다.**
@@ -37,10 +37,10 @@ udsploit가 작동하려면 무선 통신 모듈이 필요하므로 기기의 �
 {: .notice--danger}
 
 {% capture notice %}
-**2.1.0 버전에서 New 3DS를 슬립 모드로 전환하면 복구가 불가능한 벽돌이 됩니다!**    
+**Putting a New 3DS on 2.1.0 in sleep mode is known to cause an UNRECOVERABLE brick!**    
 **This only happens when shutting the lid _while your device is on_; this does not apply to turning your device off.**    
-**Your device only enters sleep mode when the lid is closed. 경과되는 시간에 따라 전환되지 않습니다.**    
-**2.1.0 버전에서 위험 요소를 피하려면 지체 없이 진행해 주세요!**    
+**Your device only enters sleep mode when the lid is closed. It is not on a timer or anything like that.**    
+**Once on 2.1.0, you should continue without delay to avoid any possibility of this happening!**    
 {% endcapture %}
 
 <div class="notice--danger">{{ notice | markdownify }}</div>
@@ -108,10 +108,10 @@ ___
 {: .notice--info}
 
 {% capture notice %}
-**2.1.0 버전에서 New 3DS를 슬립 모드로 전환하면 복구가 불가능한 벽돌이 됩니다!**    
+**Putting a New 3DS on 2.1.0 in sleep mode is known to cause an UNRECOVERABLE brick!**    
 **This only happens when shutting the lid _while your device is on_; this does not apply to turning your device off.**    
-**Your device only enters sleep mode when the lid is closed. 경과되는 시간에 따라 전환되지 않습니다.**    
-**2.1.0 버전에서 위험 요소를 피하려면 지체 없이 진행해 주세요!**    
+**Your device only enters sleep mode when the lid is closed. It is not on a timer or anything like that.**    
+**Once on 2.1.0, you should continue without delay to avoid any possibility of this happening!**    
 {% endcapture %}
 
 <div class="notice--danger">{{ notice | markdownify }}</div>
