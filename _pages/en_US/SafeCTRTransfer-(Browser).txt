@@ -32,7 +32,7 @@ To use the [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) links on th
 {: .notice--danger}
 
 {% capture notice %}
-**Putting a New 3DS on 2.1.0 in sleep mode is known to cause an UNRECOVERABLE brick!**    
+**Putting a New 3DS on 2.1.0 in sleep mode is known to cause a BRICK!**    
 **This only happens when shutting the lid _while your device is on_; this does not apply to turning your device off.**    
 **Your device only enters sleep mode when the lid is closed. It is not on a timer or anything like that.**    
 **Once on 2.1.0, you should continue without delay to avoid any possibility of this happening!**    
@@ -42,9 +42,15 @@ To use the [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) links on th
 
 #### Overview of steps
 
-In this section, we will be flashing your device's [CTRNAND](https://www.3dbrew.org/wiki/Flash_Filesystem#CTR_partition) partition to 2.1.0 in order to take advantage of an oversight in 2.1.0 for the purpose of extracting the [OTP](https://www.3dbrew.org/wiki/OTP_Registers) unique to your device. This OTP file is required to install arm9loaderhax, and **cannot** be shared with other consoles.
+{% capture notice-2 %}
 
+In this section, we will be flashing your device's [CTRNAND](https://www.3dbrew.org/wiki/Flash_Filesystem#CTR_partition) partition to 2.1.0 in order to take advantage of an oversight in 2.1.0 for the purpose of extracting the [OTP](https://www.3dbrew.org/wiki/OTP_Registers) unique to your device. This OTP file is required to install arm9loaderhax, and **cannot** be shared with other consoles.
+<br><br>
 This is accomplished by [installing a premade CTRTransfer image](https://www.reddit.com/r/3dshacks/comments/4zhe4a/) containing 2.1.0, copying your device specific files (such as `moveable.sed` and `SecureInfo_A`) to it, then fixing the title databases.
+
+{% endcapture %}
+
+<div class="notice--info">{{ notice-2 | markdownify }}</div>
 
 #### What you need
 
@@ -63,6 +69,9 @@ This is accomplished by [installing a premade CTRTransfer image](https://www.red
 1. Insert your SD card into your computer
 1. Create a folder named `CTRTransfer` on the root of your SD card if it does not already exist
 1. Copy the 2.1.0 `.bin` and `.bin.sha` from the CTRTransfer `.zip` to the `/CTRTransfer/` folder on your SD card
+
+    <div class="notice--info"><a href="{{ base_path }}/images/screenshots/ctrtransfer-file-layout.png"><div class="screenshot_image"><img src="{{ base_path }}/images/screenshots/ctrtransfer-file-layout-crop.png"></div></a></div>
+
 1. Copy `Launcher.dat` and `SafeCTRTransfer.dat` from the SafeCTRTransfer `.zip` to the root of your SD card
 1. Reinsert your SD card into your device
 1. Power on your device
@@ -84,7 +93,7 @@ This is accomplished by [installing a premade CTRTransfer image](https://www.red
   + If you get an error, ensure you have all files in the correct locations and that you have enough free space on your SD card as detailed in [Get Started](get-started)
 1. When prompted, input the key combo given to confirm CTRTransfer to 2.1.0
   + This process will take some time
-  + This process will automatically create a backup of your device's NAND at `/ctrtransfer/<serialnumber>_nand.bin`
+  + This process will automatically create a backup of your device's NAND at `/CTRTransfer/<serialnumber>_nand.bin`
   + If you get a critical error, [follow this troubleshooting guide](troubleshooting#ts_transfer)   
 1. Once this process has completed, remove your SD card from your device to reboot
   + The reboot will take about 2 seconds to trigger
@@ -99,7 +108,7 @@ ___
 {: .notice--info}
 
 {% capture notice %}
-**Putting a New 3DS on 2.1.0 in sleep mode is known to cause an UNRECOVERABLE brick!**    
+**Putting a New 3DS on 2.1.0 in sleep mode is known to cause a BRICK!**    
 **This only happens when shutting the lid _while your device is on_; this does not apply to turning your device off.**    
 **Your device only enters sleep mode when the lid is closed. It is not on a timer or anything like that.**    
 **Once on 2.1.0, you should continue without delay to avoid any possibility of this happening!**    

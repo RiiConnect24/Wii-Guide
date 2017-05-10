@@ -25,6 +25,7 @@ sitemap: false
 + [F3 (Linux)](f3-(linux))
 + [F3X (Mac)](f3x-(mac))
 + [FAQ](faq)
++ [File Extensions (Windows)](file-extensions-(windows))
 + [Get Started (New 3DS)](get-started-(new-3ds))
 + [Get Started (Old 3DS)](get-started-(old-3ds))
 + [Get Started](get-started)

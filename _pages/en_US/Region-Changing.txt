@@ -74,10 +74,10 @@ Region changing using CTRTransfer (which this method uses) seems to cause reboot
 1. Press (A) on `ticket.bak` to select it, then select "Ticket.db options...", then select "Mount image to drive"
 1. If it exists, hold (R) and press (A) at the same time on `eshop` to select the folder, then select "Copy to 0:/gm9out"
   + This process may take some time if you have many tickets
-  + Press (A) to continue once it has completed
+  + Once it has completed, press (A) to continue
 1. If it exists, hold (R) and press (A) at the same time on `unknown` to select the folder, then select "Copy to 0:/gm9out"
   + This process may take some time if you have many tickets
-  + Press (A) to continue once it has completed
+  + Once it has completed, press (A) to continue
 1. Press (Start) to reboot your device
 1. Update your device by going to System Settings, then "Other Settings", then going all the way to the right and using "System Update"
   + Updates while using A9LH + Luma (what you have) are safe

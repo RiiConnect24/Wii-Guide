@@ -177,9 +177,9 @@ If an error occurs during the SafeCTRTransfer process, you will be prompted to l
 
 1. Select "Unmount SD card"
 1. Insert your SD card into your computer
-1. Copy `GodMode9.bin` from the GodMode9 `.zip` to the `/ctrtransfer/` folder on your SD card and rename `GodMode9.bin` in `/ctrtransfer/` to `payload.bin`
+1. Copy `GodMode9.bin` from the GodMode9 `.zip` to the `/CTRTransfer/` folder on your SD card and rename `GodMode9.bin` in `/CTRTransfer/` to `payload.bin`
 1. Reinsert your SD card into your device
-1. Select "Run 0:/ctrtransfer/payload.bin"
+1. Select "Run 0:/CTRTransfer/payload.bin"
 1. If it was successful, you will have entered GodMode9
 1. Navigate to `[0:] SDCARD` -> `ctrtransfer`
 1. Press (Y) on `<serialnumber>_nand.bin` to copy it
@@ -191,7 +191,7 @@ If an error occurs during the SafeCTRTransfer process, you will be prompted to l
 1. Press (A) to unlock SysNAND overwriting
 1. Input the key combo given to unlock SysNAND (lvl3) writing
   + This process will take some time
-1. Press (A) to continue once it has completed
+1. Once it has completed, press (A) to continue
 1. Press (Start) to reboot your device
 1. Report this issue to the [SafeCTRTransfer Issues Page](https://github.com/d0k3/SafeCTRTransfer/issues)
 

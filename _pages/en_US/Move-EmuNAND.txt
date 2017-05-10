@@ -73,7 +73,7 @@ Note that this is not necessary for any other kind of Virtual Console games (GBC
   + This will not overwrite your arm9loaderhax installation
 1. Input the key combo given to unlock SysNAND (lvl1) writing
   + This process will take some time
-1. Press (A) to continue once it has completed
+1. Once it has completed, press (A) to continue
 1. Press (B) to return to the main menu
 
 ##### Section V - Restore DSiWare Saves
@@ -154,3 +154,4 @@ If you did not backup GBA VC Saves earlier, skip this section.
 ___
 
 Return to [Installing arm9loaderhax](installing-arm9loaderhax).
+{: .notice--primary}

@@ -21,21 +21,28 @@ To use the [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) links on th
 
 #### Overview of steps
 
+{% capture notice-2 %}
+
 In this section, we will go through the process that all the other steps have led up to: actually installing arm9loaderhax.
-
+<br><br>
 This is nearly the best possible kind of device exploit because it is permanently installable into the NAND firm partitions, and runs before most of the OS loads, allowing it to not only work on *all* versions once installed, but also protect itself and recover from most situations that would brick a non-A9LH 3DS such as a nonfunctional home menu or bad title install.
-
+<br><br>
 The file `arm9loaderhax.bin` is what is launched by arm9loaderhax itself after it finishes loading off of NAND, and can be any valid arm9 payload. This file can be replaced at any time, although Luma3DS allows for the launch of other arm9 payloads using the Luma3DS chainloader.
-
+<br><br>
 In this case, we use Luma3DS by [AuroraWright](https://github.com/AuroraWright/) to boot a patched SysNAND directly, allowing us to completely bypass the need for any kind of EmuNAND, vastly simplifying the usage of a hacked 3DS in addition to saving SD card space.
-
+<br><br>
 Once arm9loaderhax is installed and Luma3DS is setup with the correct options, we then restore our previous backup.
-
+<br><br>
 During this process, we also setup programs such as the following:    
 
 +  **FBI** *(installs CIA formatted games and applications)*
++  **Themely** *(installs custom themes)*
 +  **Luma3DS Updater** *(updates your CFW installation easily)*
 +  **GodMode9** *(multipurpose tool which can do NAND and cartridge functions)*
+
+{% endcapture %}
+
+<div class="notice--info">{{ notice-2 | markdownify }}</div>
 
 #### What you need
 
@@ -44,9 +51,11 @@ During this process, we also setup programs such as the following:
 * The latest fork of [SafeA9LHInstaller](https://github.com/Plailect/SafeA9LHInstaller/releases/latest) *(the `.7z` file)*
 * The latest release of [arm9loaderhax](https://github.com/AuroraWright/arm9loaderhax/releases/latest) *(the `.7z` file)*
 * The latest release of [Luma3DS](https://github.com/AuroraWright/Luma3DS/releases/latest) *(the `.7z` file)*
+* The latest release of [Themely](https://github.com/ErmanSayin/Themely/releases/latest) *(the `.cia` file)*
 * The latest release of [hblauncher_loader](https://github.com/yellows8/hblauncher_loader/releases/latest)
 * The latest release of [GodMode9](https://github.com/d0k3/GodMode9/releases/latest)
 * The latest release of [Luma3DS Updater](https://github.com/Hamcha/lumaupdate/releases/latest)
+* The latest release of [DSP1](https://github.com/zoogie/DSP1/releases/latest)
 * The latest release of [FBI](https://github.com/Steveice10/FBI/releases/latest)
 * **Old 3DS and 2DS Only:** The Old 3DS 11.2.0-35 [otherapp payload](https://smealum.github.io/3ds/#otherapp) for your region
 
@@ -55,7 +64,7 @@ During this process, we also setup programs such as the following:
 ##### Section I - Prep Work
 
 1. Insert your SD card into your computer
-1. **If it exists, copy `<serialnumber>_nand.bin` from the `/ctrtransfer/` folder on your SD card to a safe location on your computer**
+1. If they exist, copy `<serialnumber>_nand.bin` and `<serialnumber>_nand.bin.sha` from the `/CTRTransfer/` folder on your SD card to a safe location on your computer
   + Make backups in multiple locations (such as online file storage)
   + This backup will save you from a brick if anything goes wrong in the future
 1. Create a folder named `cias` on the root of your SD card if it does not already exist
@@ -67,6 +76,11 @@ During this process, we also setup programs such as the following:
 1. Copy `hblauncher_loader.cia` from the hblauncher_loader `.zip` to the `/cias/` folder on your SD card
 1. Copy `lumaupdater.cia` from the Luma3DS Updater `.zip` to the `/cias/` folder on your SD card
 1. Copy `FBI.cia` from the FBI `.zip` to the `/cias/` folder on your SD card
+1. Copy `DSP1.cia` to the `/cias/` folder on your SD card
+1. Copy `Themely.cia` to the `/cias/` folder on your SD card
+
+    <div class="notice--info"><a href="{{ base_path }}/images/screenshots/cias-file-layout.png"><div class="screenshot_image"><img src="{{ base_path }}/images/screenshots/cias-file-layout-crop.png"></div></a></div>
+
 1. Copy `arm9loaderhax.bin` from the Luma3DS `.7z` to the root of your SD card, overwrite existing files
 1. Create a folder named `luma` on the root of your SD card
 1. Create a folder named `payloads` in the `luma` folder on your SD card
@@ -78,6 +92,8 @@ During this process, we also setup programs such as the following:
   + **JPN:** `OLD-11-4-0-37-JPN.bin`
   + **KOR:** `OLD-11-4-0-37-KOR.bin`
   + **USA:** `OLD-11-4-0-37-USA.bin`
+
+    <div class="notice--info"><a href="{{ base_path }}/images/screenshots/install-a9lh-file-layout.png"><div class="screenshot_image"><img src="{{ base_path }}/images/screenshots/install-a9lh-file-layout-crop.png"></div></a></div>
 
 ##### Section II - Installing arm9loaderhax
 
@@ -93,7 +109,7 @@ During this process, we also setup programs such as the following:
 1. The installer will now install arm9loaderhax on your device (this is very fast)
 1. Power off your device by pressing any button
 1. Insert your SD card into your computer
-1. Copy your device specific `otp.bin` from the `/a9lh/` folder on your SD card to a safe location on your computer and back it up to multiple locations (such as online file storage), then reinsert your SD card into your device
+1. Copy your device specific `otp.bin` from the `/a9lh/` folder on your SD card to a safe location on your computer and back it up to multiple locations (such as online file storage)
 1. Reinsert your SD card into your device
 
 ##### Section III - Configuring Luma3DS
@@ -112,7 +128,7 @@ During this process, we also setup programs such as the following:
 
 ##### Section IV - Restoring the System
 
-If, before following this guide, you already had an EmuNAND setup and would like to move the contents of your previous EmuNAND to your new SysNAND CFW, now is the time to [follow Move EmuNAND](move-emunand) instead of doing the first four steps in this section.
+If, before following this guide, you already had an EmuNAND setup and would like to move the contents of your previous EmuNAND to your new SysNAND CFW, now is the time to [follow Move EmuNAND](move-emunand) instead of doing the first nine steps in this section.
 {: .notice--info}
 
 1. Boot your device while holding (Start) to launch the Luma3DS chainloader menu
@@ -123,7 +139,7 @@ If, before following this guide, you already had an EmuNAND setup and would like
   + This will not overwrite your arm9loaderhax installation
 1. Input the key combo given to unlock SysNAND (lvl1) writing
   + This process will take some time
-1. Press (A) to continue once it has completed
+1. Once it has completed, press (A) to continue
 1. Press (Start) to reboot your device
   + If you get a black screen, [follow 9.2.0 CTRTransfer](9.2.0-ctrtransfer)
   + It is now safe to put New 3DSs in sleep mode again
@@ -158,7 +174,12 @@ If, before following this guide, you already had an EmuNAND setup and would like
 1. Select the "Install all CIAs" option, then press (A) to confirm
 1. Press (Home) to exit FBI
 
-##### Section VII - Restore Health and Safety
+##### Section VII - DSP Dump
+
+1. Launch DSP1
+1. Once it has completed, press (Start) to exit
+
+##### Section VIII - Restore Health and Safety
 
 1. Reboot holding (Start) during boot to launch the Luma3DS chainloader menu
 1. Launch GodMode9 by pressing (A)
@@ -167,7 +188,7 @@ If, before following this guide, you already had an EmuNAND setup and would like
 1. Select "Restore H&S"
 1. Press (A) to unlock SysNAND (lvl1) writing, then input the key combo given
 
-##### Section VIII - CTRNAND Luma3DS
+##### Section IX - CTRNAND Luma3DS
 
 1. Navigate to `[0:] SDCARD`
 1. Press (Y) on `arm9loaderhax.bin` to copy it
@@ -206,30 +227,13 @@ You can now hold (Start) on boot to launch the Luma3DS chainloader menu.
 
 <div class="notice--info">{{ notice-6 | markdownify }}</div>
 
-You can update your arm9loaderhax installation in the future by following the instructions on the [Updating A9LH](updating-a9lh) page.
-{: .notice--info}
-
 To use [NTR CFW](https://github.com/44670/BootNTR/), install [BootNTR Selector](https://gbatemp.net/threads/432911/).
 {: .notice--info}
 
 Keep your `<serialnumber>_nand.bin` file, it can be restored by GodMode9 to save you from a brick in the future.
 {: .notice--info}
 
-{% capture notice-7 %}
-**You can remove any extra files and folders from the root of your SD card that are *not* in the following list:**
-
-    + 3ds
-    + DCIM
-    + files9
-    + hblauncherloader
-    + luma
-    + Nintendo 3DS
-    + arm9loaderhax.bin
-    + boot.3dsx
-
-{% endcapture %}
-
-<div class="notice--info">{{ notice-7 | markdownify }}</div>
+<div class="notice--info">Remove any extra files and folders from the root of your SD card that are *not* in the following image:<br><br><a href="{{ base_path }}/images/screenshots/final-file-layout.png"><div class="screenshot_image"><img src="{{ base_path }}/images/screenshots/final-file-layout-crop.png"></div></a></div>
 
 For information on changing your device to another region, check out the [Region Changing](region-changing) page.
 {: .notice--success}
@@ -241,4 +245,7 @@ For information on using GodMode9's various features, check out the [GodMode9 Us
 {: .notice--success}
 
 For information on using Luma3DS's various features, check out [its wiki](https://github.com/AuroraWright/Luma3DS/wiki/Options-and-usage).
+{: .notice--success}
+
+For information on installing custom themes, badges, and splash screens, check out [3dsthem.es](https://3dsthem.es/about.php).
 {: .notice--success}

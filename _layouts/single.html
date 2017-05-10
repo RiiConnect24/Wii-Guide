@@ -4,14 +4,6 @@ layout: default
 
 {% include base_path %}
 
-<div id="main" role="main">
-  <article class="page">
-    <div class ="notice--danger">
-      <b><a href="{{ base_path }}/recent-community-events">Recent Community Events</a></b>
-    </div>
-  </article>
-</div>
-
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% endif %}
@@ -51,21 +43,32 @@ layout: default
 
       <section class="page__content" itemprop="text">
 
-        {{ content }}
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
-
-        <center>
-
+        <hr>
+        
         {% assign split_path = page.path | split: "/" %}
         {% assign locale = split_path[1] %}
+
         {% for link in site.data.navigation[locale].bottom %}
           {% if link.url contains 'http' %}
             {% assign domain = '' %}
           {% else %}
             {% assign domain = site.url | append: site.baseurl %}
           {% endif %}
-          <div class ="notice--info"><b>{{ link.title }}</b></div>
+          <div class ="notice"><b>{{ link.title }}</b></div>
         {% endfor %}
+
+        <hr>
+
+        {{ content | remove: '<p>' | remove: '</p>' }}
+        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+
+        <hr>
+
+        <div class ="notice--danger"><a href="{{ base_path }}/recent-community-events">Recent Community Events</a></div>
+
+        <hr>
+
+        <center>
 
         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <!-- Guide -->
@@ -82,15 +85,6 @@ layout: default
             style="display:block"
             data-ad-client="ca-pub-6670011780914577"
             data-ad-slot="7670623049"
-            data-ad-format="horizontal"></ins>
-        <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-
-        <ins class="adsbygoogle"
-            style="display:block"
-            data-ad-client="ca-pub-6670011780914577"
-            data-ad-slot="9147356245"
             data-ad-format="horizontal"></ins>
         <script>
         (adsbygoogle = window.adsbygoogle || []).push({});
