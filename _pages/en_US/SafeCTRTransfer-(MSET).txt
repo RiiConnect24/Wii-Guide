@@ -54,6 +54,7 @@ This is accomplished by [installing a premade CTRTransfer image](https://www.red
 
 #### What you need
 
+* The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
 * DS flashcart that works on your device version
 * The latest release of [SafeCTRTransfer](https://github.com/d0k3/SafeCTRTransfer/releases/latest)
 * The 2.1.0 CTRTransfer image for your device and region     
@@ -74,6 +75,7 @@ This is accomplished by [installing a premade CTRTransfer image](https://www.red
     <div class="notice--info"><a href="{{ base_path }}/images/screenshots/ctrtransfer-file-layout.png"><div class="screenshot_image"><img src="{{ base_path }}/images/screenshots/ctrtransfer-file-layout-crop.png"></div></a></div>
 
 1. Copy `SafeCTRTransfer.dat` from the SafeCTRTransfer `.zip` to the root of your SD card
+1. Copy _the contents of_ the `starter` folder in `starter.zip` to the root of your SD card
 1. Reinsert your SD card into your device
 1. Copy `SafeCTRTransfer.nds` from the SafeCTRTransfer `.zip` to your DS flashcart
 1. Power on your device

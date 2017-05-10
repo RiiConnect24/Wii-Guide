@@ -15,7 +15,7 @@ Ensure your device's Wireless Communication is turned on as udsploit (used in th
 
 #### What you need
 
-+ The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
+* The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
 
 #### Instructions
 
