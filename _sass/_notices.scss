@@ -95,32 +95,3 @@
 .notice--danger {
   @include notice($danger-color);
 }
-
-.screenshot_image{
-  position: relative;
-  width: auto;
-  display: inline-block;
-
-  position: relative;
-  font-family: $monospace;
-  font-size: $type-size-7;
-  line-height: 1.8;
-  border: 2px solid $border-color;
-  border-radius: $border-radius;
-  background-color: $border-color;
-  box-shadow: $box-shadow;
-
-  &:before {
-    position: absolute;
-    top: 0;
-    right: 0;
-    padding: 0.5em;
-    background-color: $nord6;
-    content: "\f08e";
-    font-family: "fontawesome" !important;
-    line-height: 1;
-    text-transform: none;
-    speak: none;
-    color: $background-color;
-  }
-}
