@@ -98,7 +98,18 @@ $(document).ready(function(){
   });
 
   if((window.location.href.indexOf("/he_IL/") > -1) || (window.location.href.indexOf("/ar_SA/") > -1)) {
-    //$(".page__inner-wrap").css("direction", "rtl");
+    $(".nav-selector").css("left", "3rem");
+    $(".lang-selector").css("left", "0");
+    $(".links-menu").css("right", "auto");
+    $(".lang-menu").css("right", "auto");
+    $(".links-menu").css("left", "3rem");
+    $(".lang-menu").css("left", "0");
+    $('.greedy-nav').prepend('<style>.hidden-links:before{right:auto !important;}</style>');
+    $('.greedy-nav').prepend('<style>.hidden-links:after{right:auto !important;}</style>');
+    $('.greedy-nav').prepend('<style>.hidden-links:before{left:14px !important;}</style>');
+    $('.greedy-nav').prepend('<style>.hidden-links:after{left:14px !important;}</style>');
+    $(".masthead__menu-item--lg").css("padding-right", "inherit");
+    $(".masthead__menu-item--lg").css("padding-left", "2em");
     document.body.style.direction = "rtl";
   }
 
