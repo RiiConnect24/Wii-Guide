@@ -53,7 +53,6 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
   + **The Legend of Zelda: Four Swords EUR Region**: `4b51391`   
   + **The Legend of Zelda: Four Swords USA Region**: `4b51391`    
 1. Reinsert **the source 3DS**'s SD card
-1. Reinsert **the source 3DS**'s SD card
 1. Boot **the source 3DS** while holding (Start) to launch the Luma3DS chainloader menu
 1. Launch GodMode9 by pressing (A)
 1. Press (Home) to bring up the action menu
