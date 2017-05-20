@@ -79,8 +79,6 @@ During this process, we also setup programs such as the following:
 1. Boot your device to enter the Luma3DS configuration menu
   + If you get a black screen, [follow this troubleshooting guide](troubleshooting#ts_sys_b9s)
 1. Use the (A) button and the D-Pad to turn on the following:    
-  + **"Autoboot SysNAND"**
-  + **"Use SysNAND FIRM if booting with R"**
   + **"Show NAND or user string in System Settings"**
 1. Press (Start) to save and reboot
   + If you get a black screen, just continue to the next section   

@@ -60,8 +60,6 @@ This section is only needed if you are prompted with the Luma3DS configuration m
 {: .notice--info}
 
 1. In the Luma3DS configuration menu, use the (A) button and the D-Pad to turn on the following:    
-  + **"Autoboot SysNAND"**
-  + **"Use SysNAND FIRM if booting with R"**
   + **"Show NAND or user string in System Settings"**
 1. Press (Start) to save and reboot
 
