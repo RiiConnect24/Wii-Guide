@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Fri, 19 May 2017 19:06:36 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 20 May 2017 01:19:16 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/</link>
 		<item>
 			<title>1.0.0_qr.png</title>
@@ -523,6 +523,14 @@
 			<link>magnet:?xt=urn:btih:15A3C97ACF17D67AF98AE8657CC66820CC58F655</link>
 			<pubDate>Fri, 19 May 2017 04:14:02 +0000</pubDate>
 			<enclosure url="magnet:?xt=urn:btih:15A3C97ACF17D67AF98AE8657CC66820CC58F655" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>secret_sector_dev.bin</title>
+			<description>secret_sector_dev.bin</description>
+			<guid>54D19B7FD5387F7D46CFF86EDBBB58737880993C</guid>
+			<link>magnet:?xt=urn:btih:54D19B7FD5387F7D46CFF86EDBBB58737880993C</link>
+			<pubDate>Sat, 20 May 2017 02:53:56 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:54D19B7FD5387F7D46CFF86EDBBB58737880993C" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>SystemUpdater_CTR-0_23_5-EU_cias.zip</title>
