@@ -59,17 +59,6 @@ layout: default
 
         <hr>
 
-        {% for link in site.data.navigation[locale].danger %}
-          {% if link.url contains 'http' %}
-            {% assign domain = '' %}
-          {% else %}
-            {% assign domain = site.url | append: site.baseurl %}
-          {% endif %}
-          <div class ="notice--danger"><b>{{ link.title }}</b></div>
-        {% endfor %}
-
-        <hr>
-
         {{ content | remove: '<p>' | remove: '</p>' }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
         
