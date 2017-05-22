@@ -1,0 +1,8 @@
+---
+title: "Instalando boot9strap (2xrsa)" #
+lang: pt-BR
+permalink: /pt_BR/installing-boot9strap-(2xrsa).html
+---
+
+Esta é uma página temporária que será atualizada quando o SafeB9SInstaller lançar o suporte ao ponto de entrada 2xrsa (em breve). Um hardmod não é necessário para instalar o boot9strap se você estiver na versão 2.1.0. Por favor seja paciente.
+{: .notice--info}

@@ -1,0 +1,8 @@
+---
+title: "Установка boot9strap (2xrsa)" #
+lang: ru
+permalink: /ru_RU/installing-boot9strap-(2xrsa).html
+---
+
+Это временная страница, которая будет обновлена, как только появится SafeB9SInstaller с поддержкой взлома через 2xrsa (скоро). Hardmod не требуется для установки boot9strap, если вы находитесь на 2.1.0. Пожалуйста, будьте терпеливы.
+{: .notice--info}

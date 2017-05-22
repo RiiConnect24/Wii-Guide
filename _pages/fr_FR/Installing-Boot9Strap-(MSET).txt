@@ -1,7 +1,7 @@
 ---
 title: "Installer boot9strap (MSET)" #
 lang: fr
-permalink: /fr_FR/iinstalling-boot9strap-(mset).html
+permalink: /fr_FR/installing-boot9strap-(mset).html
 ---
 
 Si vous avez déjà hacké votre console auparavant et que vous avez un CFW basé sur une EmuNAND, notez que ce guide s'applique exclusivement à votre SysNAND et vous devez appliquer toutes les instructions depuis ou vers votre SysNAND. Notez que les termes EmuNAND et RedNAND font référence à des implémentations légèrement différentes du [même concept](http://3dbrew.org/wiki/NAND_Redirection).
@@ -47,6 +47,7 @@ Pour utiliser les liens suivant [magnet](https://fr.wikipedia.org/wiki/Magnet_(s
 1. Quand cela est demandé, appuyez sur la combinaison de boutons donnée pour installer boot9strap
 1. Une fois que c'est fini, appuez sur (A) pour redémarrer l'appareil.
 1. Votre appareil va démarrer sur boot9strap, puis va s'éteindre automatiquement car il n'a pas encore de payload à lancer
+  + Your device will not boot until you continue with the next page's instructions; do not panic, this is normal
 
 ___
 

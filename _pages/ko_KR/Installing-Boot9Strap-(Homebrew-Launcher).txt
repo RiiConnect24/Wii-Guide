@@ -43,7 +43,8 @@ permalink: /installing-boot9strap-(homebrew-launcher).html
   + 재생중 화면이 멈출 경우 전원 버튼을 길게 눌러서 기기를 강제로 종료시킨 후 다시 시도해 주세요.
 1. Launch safehax from the list of homebrew
   + You may have to scroll down to see this option
-  + If you get a "PM INIT FAILED" error, try using the [r19 release of safehax](https://github.com/TiniVi/safehax/releases/tag/r19)
+  + If you get a "PM INIT FAILED" error, make sure you ran udsploit with Wireless Communication turned on
+  + If you *still* get a "PM INIT FAILED" error, try using the [r19 release of safehax](https://github.com/TiniVi/safehax/releases/tag/r19)
   + 재생중 화면이 멈출 경우 전원 버튼을 길게 눌러서 기기를 강제로 종료시킨 후 다시 시도해 주세요.
 1. If the exploit was successful, you will have booted into SafeB9SInstaller
 
@@ -53,6 +54,7 @@ permalink: /installing-boot9strap-(homebrew-launcher).html
 1. When prompted, input the key combo given to install boot9strap
 1. Once it has completed, press (A) to reboot your device
 1. Your device will boot into boot9strap, then shutdown automatically because it does not yet have a payload to launch
+  + Your device will not boot until you continue with the next page's instructions; do not panic, this is normal
 
 ___
 
