@@ -69,6 +69,7 @@ Note that `secret_sector.bin` is needed to revert the arm9loaderhax exploit, whi
   + Some versions of Luma3DS will just directly start whichever payload begins with `start_`
   + If your version does this, just proceed with the instructions
 1. Launch SafeB9SInstaller by pressing (A) on it
+  + If this gives you an error, try either using a new SD card, or formatting your current SD card (backup existing files first)
 1. Wait for all safety checks to complete
 1. When prompted, input the key combo given to install boot9strap
 1. Once it has completed, press (A) to reboot your device.
