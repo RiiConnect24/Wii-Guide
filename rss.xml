@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Sat, 20 May 2017 01:19:16 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 22 May 2017 06:39:04 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/</link>
 		<item>
 			<title>1.0.0_qr.png</title>
@@ -443,6 +443,14 @@
 			<link>magnet:?xt=urn:btih:046BB8023BC40B9A95A8A339C85A9EF18CF60DB6</link>
 			<pubDate>Fri, 09 Dec 2016 11:07:52 +0000</pubDate>
 			<enclosure url="magnet:?xt=urn:btih:046BB8023BC40B9A95A8A339C85A9EF18CF60DB6" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>DSiWare_eur_grtpwn_injection.zip</title>
+			<description>DSiWare_eur_grtpwn_injection.zip</description>
+			<guid>E3EDB7D7384F2845E54B94098125F1FFFCA13692</guid>
+			<link>magnet:?xt=urn:btih:E3EDB7D7384F2845E54B94098125F1FFFCA13692</link>
+			<pubDate>Mon, 22 May 2017 11:38:31 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:E3EDB7D7384F2845E54B94098125F1FFFCA13692" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>DSiWare_jpn_4swordshax_injection.zip</title>
