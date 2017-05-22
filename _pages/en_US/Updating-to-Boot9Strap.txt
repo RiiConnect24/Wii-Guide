@@ -86,6 +86,9 @@ This section is only needed if you are prompted with the Luma3DS configuration m
 
 ##### Section IV - CTRNAND Luma3DS
 
+If, before updating to boot9strap, you already had an EmuNAND setup and would like to move the contents of your previous EmuNAND to your new SysNAND CFW, now is the time to [follow Move EmuNAND](move-emunand) before following this section.
+{: .notice--info}
+
 1. Reboot holding (Start) during boot to launch the Luma3DS chainloader menu
 1. Launch GodMode9 by pressing (A)
 1. Navigate to `[0:] SDCARD` -> `luma` -> `payloads`
