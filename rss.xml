@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Mon, 22 May 2017 06:39:04 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 22 May 2017 22:00:15 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/</link>
 		<item>
 			<title>1.0.0_qr.png</title>
@@ -411,6 +411,14 @@
 			<link>magnet:?xt=urn:btih:1DC79A2A0BABB45497961888F369423A93135E2B</link>
 			<pubDate>Sat, 20 Aug 2016 17:06:17 +0000</pubDate>
 			<enclosure url="magnet:?xt=urn:btih:1DC79A2A0BABB45497961888F369423A93135E2B" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>aeskeydb.bin</title>
+			<description>aeskeydb.bin</description>
+			<guid>621F8AF00638CB2B00D5BD0C6816543FA00B5FB1</guid>
+			<link>magnet:?xt=urn:btih:621F8AF00638CB2B00D5BD0C6816543FA00B5FB1</link>
+			<pubDate>Tue, 23 May 2017 00:38:46 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:621F8AF00638CB2B00D5BD0C6816543FA00B5FB1" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>ctr-common-1.zip</title>
