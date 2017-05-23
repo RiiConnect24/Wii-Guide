@@ -1,5 +1,5 @@
 ---
-title: "Bağış"
+title: "Bağış" #
 layout: single-no-ads
 ---
 
