@@ -1,7 +1,5 @@
 ---
-title: "Troubleshooting" #
-lang: pt
-permalink: /pt_BR/troubleshooting.html
+title: "Troubleshooting"
 ---
 
 Se você não conseguir inicializar o seu dispositivo, por favor procure pela seção relevante a você e siga as instruções. Quando achar uma solução que funcione, você pode voltar e prosseguir com o guia principal.

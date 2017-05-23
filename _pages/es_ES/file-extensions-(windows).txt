@@ -1,7 +1,6 @@
 ---
 title: "Extensiones de archivo (Windows)" #
-lang: es
-permalink: /es_ES/file-extensions-(windows).html
+lang: es
 ---
 
 Esta es una sección adicional para desactivar el comportamiento por defecto de Windows de ocultar las extensiones de archivos.

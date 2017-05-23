@@ -1,7 +1,5 @@
 ---
-title: "שינוי אזור" #
-lang: he
-permalink: /he_IL/region-changing.html
+title: "שינוי אזור"
 ---
 
 זוהי הרחבה עבור שינוי אזור הSysNAND CFW שלכם. זה נעשה על ידי התקנת ה9.2.0 CTRTransfer image לאיזור שאתם רוצים לשנות אליו.

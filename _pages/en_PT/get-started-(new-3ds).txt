@@ -1,7 +1,5 @@
 ---
-title: "Get Started (New 3DS)" #
-lang: en
-permalink: /en_PT/get-started-(new-3ds).html
+title: "Get Started (New 3DS)"
 ---
 
 Select th' appropriate page fer ye version from th' chart below.

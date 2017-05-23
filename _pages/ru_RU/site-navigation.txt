@@ -1,7 +1,5 @@
 ---
-title: "Навигация по сайту" #
-lang: ru
-permalink: /ru_RU/site-navigation.html
+title: "Навигация по сайту"
 layout: single-no-ads
 sitemap: false
 ---

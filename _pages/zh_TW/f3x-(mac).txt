@@ -1,7 +1,5 @@
 ---
-title: "F3X (Mac)" #
-lang: zh-Hant
-permalink: /zh_TW/f3x-(mac).html
+title: "F3X (Mac)"
 ---
 
 本篇為透過 F3X 來檢查你 SD 卡是否有任何問題的附加章節。

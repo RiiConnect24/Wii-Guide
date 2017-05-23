@@ -1,7 +1,5 @@
 ---
-title: "謝辞" #
-lang: ja
-permalink: /ja_JP/credits.html
+title: "謝辞"
 ---
 
 **[Freenode上の #Cakey](http://webchat.freenode.net/?channels=%23Cakey) に感謝を！**

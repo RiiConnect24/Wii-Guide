@@ -1,7 +1,5 @@
 ---
-title: "Αντιμετώπιση Προβλημάτων" #
-lang: el
-permalink: /el_GR/troubleshooting.html
+title: "Αντιμετώπιση Προβλημάτων"
 ---
 
 If you are unable to boot your device, please look for the section relevant to you, and follow the instructions. Μόλις μια λύση λειτουργήσει για εσάς, μπορείτε να προχωρήσετε με τον κύριο οδηγό

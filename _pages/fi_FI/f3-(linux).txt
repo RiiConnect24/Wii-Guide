@@ -1,7 +1,5 @@
 ---
-title: "F3 (Linux)" #
-lang: fi
-permalink: /fi_FI/f3-(linux).html
+title: "F3 (Linux)"
 ---
 
 Tämä lisäosio opastaa sinua tarkistamaan SD-korttisi virheiden varalta F3-ohjelman avulla.

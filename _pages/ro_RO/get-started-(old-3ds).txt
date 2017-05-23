@@ -1,7 +1,5 @@
 ---
-title: "Începeți (Old 3DS)" #
-lang: ro
-permalink: /ro_RO/get-started-(old-3ds).html
+title: "Începeți (Old 3DS)"
 ---
 
 Alegeți pagina corespunzătore versiunii dumneavoastră din tabelul de mai jos.

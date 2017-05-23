@@ -1,7 +1,5 @@
 ---
-title: "Ευχαριστίες" #
-lang: el
-permalink: /el_GR/credits.html
+title: "Ευχαριστίες"
 ---
 
 **Ευχαριστώ ιδιαίτερα όλο το [#Cakey στο Freenode](http://webchat.freenode.net/?channels=%23Cakey) που ήταν υπέροχοι!**

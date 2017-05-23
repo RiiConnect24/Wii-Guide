@@ -1,7 +1,6 @@
 ---
 title: "סיומות קבצים (Windows)" #
-lang: he
-permalink: /he_IL/file-extensions-(windows).html
+lang: he
 ---
 
 זוהי הרחבה עבור כיבוי הגדרת ברירת המחדל של Windows להסתיר סיומות קבצים.

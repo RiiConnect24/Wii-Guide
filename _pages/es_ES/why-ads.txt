@@ -1,7 +1,5 @@
 ---
-title: "¿Por qué anuncios?" #
-lang: es
-permalink: /es_ES/why-ads.html
+title: "¿Por qué anuncios?"
 layout: single-no-ads
 ---
 

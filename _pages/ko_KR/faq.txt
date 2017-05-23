@@ -1,7 +1,5 @@
 ---
-title: "자주 묻는 질문" #
-lang: ko
-permalink: /ko_KR/faq.html
+title: "자주 묻는 질문"
 ---
 
 {% capture notice-1 %}

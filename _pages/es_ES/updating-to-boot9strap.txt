@@ -1,7 +1,5 @@
 ---
-title: "Actualizar a boot9strap" #
-lang: es
-permalink: /es_ES/updating-to-boot9strap.html
+title: "Actualizar a boot9strap"
 ---
 
 Esta página es para los usuarios actuales de arm9loaderhax que deseen actualizar sus consolas a boot9strap.

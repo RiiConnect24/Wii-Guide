@@ -1,7 +1,5 @@
 ---
-title: "Sorun Giderme" #
-lang: tr
-permalink: /tr_TR/troubleshooting.html
+title: "Sorun Giderme"
 ---
 
 3DS'inizi çalıştıramıyorsanız lütfen ilgili bölüme bakın ve talimatları izleyin. Çözüm işe yaradığında ana kılavuzdan devam edebilirsiniz

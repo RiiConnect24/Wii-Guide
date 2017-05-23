@@ -1,7 +1,5 @@
 ---
-title: "H2testw (Windows)" #
-lang: ru
-permalink: /ru_RU/h2testw-(windows).html
+title: "H2testw (Windows)"
 ---
 
 Этот дополнительный раздел содержит информацию о проверке SD-карты на ошибки с помощью h2testw.

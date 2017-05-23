@@ -1,7 +1,5 @@
 ---
-title: "Homebrew Launcher (Soundhax)" #
-lang: tr
-permalink: /tr_TR/homebrew-launcher-(soundhax).html
+title: "Homebrew Launcher (Soundhax)"
 ---
 
 Homebrew Launcher'ın çok sayıda giriş noktası veya başlatma yöntemi vardır.

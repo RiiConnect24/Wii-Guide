@@ -1,7 +1,5 @@
 ---
-title: "F3X (Mac)" #
-lang: no
-permalink: /no_NO/f3x-(mac).html
+title: "F3X (Mac)"
 ---
 
 This is an add-on section for checking your SD card for errors using F3X.

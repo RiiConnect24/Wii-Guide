@@ -1,7 +1,5 @@
 ---
-title: "Cart Update" #
-lang: en
-permalink: /en_PT/cart-update.html
+title: "Cart Update"
 ---
 
 All game carts contain a copy 'o th' required system version to play it, allowin' anyone on a lower version to use th' cartridge to update to that version (even without an Internet connection).

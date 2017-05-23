@@ -1,7 +1,5 @@
 ---
-title: "Homebrew Launcher (Alternatives)" #
-lang: ro
-permalink: /homebrew-launcher-(alternatives).html
+title: "Homebrew Launcher (Alternatives)"
 ---
 
 Lansatorul Homebrew are multe puncte de intrare sau metode de a fi accesat.

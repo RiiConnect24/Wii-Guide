@@ -1,7 +1,6 @@
 ---
 title: "安裝 boot9strap（透過 DSiWare）" #
-lang: zh-Hant
-permalink: /zh_TW/installing-boot9strap-(dsiware).html
+lang: zh-Hant
 ---
 
 目前有兩種不同方法可以在系統版本 11.4.0 上透過 DSiWare 安裝 boot9strap。

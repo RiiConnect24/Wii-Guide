@@ -1,7 +1,5 @@
 ---
-title: "從頭開始（New 3DS）" #
-lang: zh-Hant
-permalink: /zh_TW/get-started-(new-3ds).html
+title: "從頭開始（New 3DS）"
 ---
 
 請於下表中選擇與你系統版本相符的頁面。

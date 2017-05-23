@@ -1,7 +1,5 @@
 ---
-title: "H2testw (Windows)" #
-lang: he
-permalink: /he_IL/h2testw-(windows).html
+title: "H2testw (Windows)"
 ---
 
 זוהי הרחבה עבור בדיקת כרטיס הSD שלכם עבור שגיאות באמצעות h2testw.

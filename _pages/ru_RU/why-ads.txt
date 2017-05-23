@@ -1,7 +1,5 @@
 ---
-title: "Зачем реклама?" #
-lang: ru
-permalink: /ru_RU/why-ads.html
+title: "Зачем реклама?"
 layout: single-no-ads
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: "Site Treasure Map" #
-lang: en
-permalink: /en_PT/site-navigation.html
+title: "Site Treasure Map"
 layout: single-no-ads
 sitemap: false
 ---

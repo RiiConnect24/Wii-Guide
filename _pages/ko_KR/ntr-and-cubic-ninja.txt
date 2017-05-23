@@ -1,7 +1,5 @@
 ---
-title: "NTR 및 Cubic Ninja" #
-lang: ko
-permalink: /ko_KR/ntr-and-cubic-ninja.html
+title: "NTR 및 Cubic Ninja"
 ---
 
 이 페이지의 [마그넷](https://en.wikipedia.org/wiki/Magnet_URI_scheme) 링크를 사용하려면

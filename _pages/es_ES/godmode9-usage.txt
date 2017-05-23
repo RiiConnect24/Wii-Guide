@@ -1,7 +1,5 @@
 ---
-title: "Usos de GodMode9" #
-lang: es
-permalink: /es_ES/godmode9-usage.html
+title: "Usos de GodMode9"
 ---
 
 GodMode9 es un explorador de archivos con acceso completo para la consola 3DS de Nintendo, dando acceso a la tarjeta SD, las particiones FAT dentro de tu SysNAND y EmuNAND, y básicamente a cualquier otra cosa. Entre otras funciones, te permite copiar, eliminar, renombrar archivos y crear carpetas.

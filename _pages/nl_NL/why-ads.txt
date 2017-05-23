@@ -1,7 +1,5 @@
 ---
-title: "Waarom advertenties?" #
-lang: nl
-permalink: /nl_NL/why-ads.html
+title: "Waarom advertenties?"
 layout: single-no-ads
 ---
 

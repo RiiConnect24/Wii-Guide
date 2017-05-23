@@ -1,7 +1,5 @@
 ---
-title: "Pagina niet gevonden" #
-lang: nl
-permalink: /nl_NL/404.html
+title: "Pagina niet gevonden"
 layout: single-no-ads
 excerpt: "pagina niet gevonden. Je pixels bevinden zich op een ander canvas." #
 sitemap: false

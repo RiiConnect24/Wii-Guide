@@ -1,7 +1,5 @@
 ---
-title: "Homebrew Launcher (muut käynnistystavat)" #
-lang: fi
-permalink: /fi_FI/homebrew-launcher-(alternatives).html
+title: "Homebrew Launcher (muut käynnistystavat)"
 ---
 
 Homebrew Launcherille on useita eri sisäänpääsy- eli käynnistystapoja.

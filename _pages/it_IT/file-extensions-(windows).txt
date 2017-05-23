@@ -1,7 +1,6 @@
 ---
 title: "Estensioni dei file (Windows)" #
-lang: it
-permalink: /it_IT/file-extensions-(windows).html
+lang: it
 ---
 
 In questa sezione aggiuntiva verrà spiegato come modificare l'impostazione di default di Windows relativa alla visualizzazione delle estensioni dei file.

@@ -1,7 +1,5 @@
 ---
-title: "Index" #
-lang: fr
-permalink: /fr_FR/site-navigation.html
+title: "Index"
 layout: single-no-ads
 sitemap: false
 ---

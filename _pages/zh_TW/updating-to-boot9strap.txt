@@ -1,7 +1,5 @@
 ---
-title: "更新至 boot9strap" #
-lang: zh-Hant
-permalink: /zh_TW/updating-to-boot9strap.html
+title: "更新至 boot9strap"
 ---
 
 本頁面是給想更新至 boot9strap 且已安裝 arm9loaderhax 的使用者使用。

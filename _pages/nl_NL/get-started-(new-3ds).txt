@@ -1,7 +1,5 @@
 ---
-title: "Begin (New 3DS)" #
-lang: nl
-permalink: /nl_NL/get-started-(new-3ds).html
+title: "Begin (New 3DS)"
 ---
 
 Kies de juiste pagina die bij jouw versie hoort uit onderstaande tabel.

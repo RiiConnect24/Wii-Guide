@@ -1,7 +1,5 @@
 ---
-title: "Navigasi Halaman" #
-lang: ms
-permalink: /ms_MY/site-navigation.html
+title: "Navigasi Halaman"
 layout: single-no-ads
 sitemap: false
 ---

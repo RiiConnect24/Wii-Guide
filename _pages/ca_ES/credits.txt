@@ -1,7 +1,5 @@
 ---
-title: "Crèdits" #
-lang: ca_ES
-permalink: /ca_ES/credits.html
+title: "Crèdits"
 ---
 
 **Un agraïment especial a tots els de [#Cakey a Freenode]

@@ -1,7 +1,5 @@
 ---
-title: "網站導覽" #
-lang: zh-Hant
-permalink: /zh_TW/site-navigation.html
+title: "網站導覽"
 layout: single-no-ads
 sitemap: false
 ---

@@ -1,7 +1,5 @@
 ---
-title: "Comencemos (New 3DS)" #
-lang: es
-permalink: /es_ES/get-started-(new-3ds).html
+title: "Comencemos (New 3DS)"
 ---
 
 Selecciona la casilla apropiada para tu versión en la tabla de más abajo.

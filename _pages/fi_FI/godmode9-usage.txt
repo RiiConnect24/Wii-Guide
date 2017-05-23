@@ -1,7 +1,5 @@
 ---
-title: "GodMode9:n käyttäminen" #
-lang: fi
-permalink: /fi_FI/godmode9-usage.html
+title: "GodMode9:n käyttäminen"
 ---
 
 GodMode9 on täysillä oikeuksilla varustettu tiedostoselain Nintendo 3DS -konsolille. Sen avulla pääset käsiksi SD-korttiisi, SysNANDisi ja EmuNANDisi FAT-osioihin sekä periaatteessa mihin tahansa muuhunkin. Voit muun muassa kopioida, poistaa ja uudelleennimetä tiedostoja ja kansioita.

@@ -1,7 +1,5 @@
 ---
-title: "Installing boot9strap (2xrsa)" #
-lang: fi
-permalink: /installing-boot9strap-(2xrsa).html
+title: "Installing boot9strap (2xrsa)"
 ---
 
 **Käyttääksesi tällä sivulla olevia [magneetti](https://en.wikipedia.org/wiki/Magnet_URI_scheme)linkkejä tarvitset torrent-ohjelman, kuten [Deluge](http://dev.deluge-torrent.org/wiki/Download)n**

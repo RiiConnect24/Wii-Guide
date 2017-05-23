@@ -1,7 +1,5 @@
 ---
-title: "Обновление до boot9strap" #
-lang: ru
-permalink: /ru_RU/updating-to-boot9strap.html
+title: "Обновление до boot9strap"
 ---
 
 Эта страница предназначена для пользователей arm9loaderhax, чтобы обновить их устройства до boot9strap.

@@ -1,7 +1,5 @@
 ---
-title: "Navigasjon" #
-lang: no
-permalink: /no_NO/site-navigation.html
+title: "Navigasjon"
 layout: single-no-ads
 sitemap: false
 ---

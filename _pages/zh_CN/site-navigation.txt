@@ -1,7 +1,5 @@
 ---
-title: "网站导航" #
-lang: zh_CN
-permalink: /zh_CN/site-navigation.html
+title: "网站导航"
 layout: single-no-ads
 sitemap: false
 ---

@@ -1,7 +1,5 @@
 ---
-title: "תרומות" #
-lang: he
-permalink: /he_IL/donations.html
+title: "תרומות"
 layout: single-no-ads
 ---
 

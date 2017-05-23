@@ -8,9 +8,7 @@ header:
   cta_label: "Get Started" #
   cta_url: "get-started" #
   caption:
-excerpt: "A complete guide to 3DS custom firmware, <br /> from stock to boot9strap.<br />" #
-lang: no
-permalink: /no_NO/index.html
+excerpt: "A complete guide to 3DS custom firmware, <br /> from stock to boot9strap.<br />"
 ---
 
 {% capture notice-home %}

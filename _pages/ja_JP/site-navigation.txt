@@ -1,7 +1,5 @@
 ---
-title: "サイトナビゲーション" #
-lang: ja
-permalink: /ja_JP/site-navigation.html
+title: "サイトナビゲーション"
 layout: single-no-ads
 sitemap: false
 ---

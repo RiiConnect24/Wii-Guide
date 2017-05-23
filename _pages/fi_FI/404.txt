@@ -1,7 +1,5 @@
 ---
-title: "Sivua ei löydy" #
-lang: fi
-permalink: /fi_FI/404.html
+title: "Sivua ei löydy"
 layout: single-no-ads
 excerpt: "Sivua ei löytynyt. Etsimäsi pikselit ovat toisaalla."
 sitemap: false

@@ -1,7 +1,6 @@
 ---
 title: "Installer boot9strap (Injection de jeu DSiWare)" #
-lang: fr
-permalink: /fr_FR/installing-boot9strap-(dsiware-game-injection).html
+lang: fr
 ---
 
 Notez que, sur certaines versions de Luma3DS, le Luma3DS chainloader menu ne s’affiche que s’il n’y a plus d’un payload détecté. Si il n’y a qu’un seul payload détecté, maintenir la touche (Start) au démarrage lancera directement GodMode9.

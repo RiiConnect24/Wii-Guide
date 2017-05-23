@@ -1,7 +1,5 @@
 ---
-title: "Δωρεές" #
-lang: el
-permalink: /el_GR/donations.html
+title: "Δωρεές"
 layout: single-no-ads
 ---
 

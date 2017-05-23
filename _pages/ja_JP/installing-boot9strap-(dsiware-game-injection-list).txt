@@ -1,7 +1,6 @@
 ---
 title: "Installing boot9strap (DSiWare Game Injection List)" #
-lang: ja
-permalink: /installing-boot9strap-(dsiware-game-injection-list).html
+lang: ja
 ---
 
 This is an automatically generated list of all [Installing boot9strap (DSiWare)](installing-boot9strap-(dsiware)) compatible games.

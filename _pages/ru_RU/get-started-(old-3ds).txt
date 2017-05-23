@@ -1,7 +1,5 @@
 ---
-title: "Начало (Old 3DS)" #
-lang: ru
-permalink: /ru_RU/get-started-(old-3ds).html
+title: "Начало (Old 3DS)"
 ---
 
 Выберите подходящую для вашей версии страницу из таблицы ниже.

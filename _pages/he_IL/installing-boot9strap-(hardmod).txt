@@ -1,7 +1,6 @@
 ---
 title: "התקנת boot9strap (הלחמה)" #
-lang: he
-permalink: /he_IL/installing-boot9strap-(hardmod).html
+lang: he
 ---
 
 מדריך מצוין לעשות את ההלחמה ניתן למצוא [כאן](https://gbatemp.net/threads/414498/). אם אתם על New 3DS, תקראו את [זה](https://github.com/Plailect/Guide/issues/681) לפני שאתם מלחימים.

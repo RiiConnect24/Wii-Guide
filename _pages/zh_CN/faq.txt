@@ -1,7 +1,5 @@
 ---
-title: "常见问题" #
-lang: zh_CN
-permalink: /zh_CN/faq.html
+title: "常见问题"
 ---
 
 {% capture notice-1 %}

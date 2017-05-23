@@ -1,7 +1,5 @@
 ---
-title: "Cominciamo! (New 3DS)" #
-lang: it
-permalink: /it_IT/get-started-(new-3ds).html
+title: "Cominciamo! (New 3DS)"
 ---
 
 Per proseguire, clicca sul collegamento corrispondente alla tua versione di sistema dalla tabella sottostante.

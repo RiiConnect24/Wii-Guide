@@ -1,7 +1,5 @@
 ---
-title: "Kom i gang (New 3DS)" #
-lang: no
-permalink: /no_NO/get-started-(new-3ds).html
+title: "Kom i gang (New 3DS)"
 ---
 
 Velg den aktuelle siden for din versjon fra diagrammet nedenfor.

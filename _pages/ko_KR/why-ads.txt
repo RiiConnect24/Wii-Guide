@@ -1,7 +1,5 @@
 ---
-title: "왜 광고가 있나요?" #
-lang: ko
-permalink: /ko_KR/why-ads.html
+title: "왜 광고가 있나요?"
 layout: single-no-ads
 ---
 

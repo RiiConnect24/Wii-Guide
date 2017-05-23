@@ -1,7 +1,5 @@
 ---
-title: "Homebrew Launcher (Alternatieven)" #
-lang: nl
-permalink: /nl_NL/homebrew-launcher-(alternatives).html
+title: "Homebrew Launcher (Alternatieven)"
 ---
 
 De Homebrew Launcher heeft veel verschillende entrypoints (ingangspunten) of lanceringsmethoden.

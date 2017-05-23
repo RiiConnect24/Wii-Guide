@@ -1,7 +1,5 @@
 ---
-title: "Hvorfor reklame?" #
-lang: no
-permalink: /no_NO/why-ads.html
+title: "Hvorfor reklame?"
 layout: single-no-ads
 ---
 

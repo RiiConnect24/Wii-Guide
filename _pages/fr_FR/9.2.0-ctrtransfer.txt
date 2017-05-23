@@ -1,7 +1,5 @@
 ---
-titre: 9.2.0 CTRTransfert" #
-lang: fr
-permalink: /fr_FR/9.2.0-ctrtransfer.html
+titre: 9.2.0 CTRTransfert"
 ---
 
 C’est la section Add-on pour installer une 9.2.0 CTRTransfer image sur votre console.

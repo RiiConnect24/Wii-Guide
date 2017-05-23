@@ -1,7 +1,5 @@
 ---
-title: "広告挿入理由について" #
-lang: ja
-permalink: /ja_JP/why-ads.html
+title: "広告挿入理由について"
 layout: single-no-ads
 ---
 

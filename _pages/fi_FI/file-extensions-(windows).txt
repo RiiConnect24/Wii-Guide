@@ -1,7 +1,6 @@
 ---
 title: "Tiedostotunnisteet (Windows)" #
-lang: fi
-permalink: /fi_FI/file-extensions-(windows).html
+lang: fi
 ---
 
 Tämä lisäosio opastaa sinua ottamaan pois käytöstä Windowsissa oletuksena olevan tieostotunnisteiden piilottamisen.

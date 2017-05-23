@@ -1,7 +1,6 @@
 ---
 title: "檔案副檔名 (Windows)" #
-lang: zh-Hant
-permalink: /zh_TW/file-extensions-(windows).html
+lang: zh-Hant
 ---
 
 本篇為改變預設 Windows 隱藏副檔名行為的附加章節。

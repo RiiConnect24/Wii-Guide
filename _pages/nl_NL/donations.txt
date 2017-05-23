@@ -1,7 +1,5 @@
 ---
-title: "Donaties" #
-lang: nl
-permalink: /nl_NL/donations.html
+title: "Donaties"
 layout: single-no-ads
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: "Vianmääritys" #
-lang: fi
-permalink: /fi_FI/troubleshooting.html
+title: "Vianmääritys"
 ---
 
 Jos et pysty käynnistämään konsoliasi, seuraa tilannettasi vastaavan kohdan ohjeita. Kun jokin sivun ratkaisuista toimii ongelmaasi, voit jatkaa pääopasta

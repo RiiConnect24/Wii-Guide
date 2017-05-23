@@ -1,7 +1,6 @@
 ---
 title: "Instalar boot9strap (Lista de juegos DSiWare inyectables)" #
-lang: es
-permalink: /es_ES/installing-boot9strap-(dsiware-game-injection-list).html
+lang: es
 ---
 
 Esta es una lista generada automáticamente de todos los juegos compatibles con [Instalar boot9strap (DSiWare)](installing-boot9strap-(dsiware)).

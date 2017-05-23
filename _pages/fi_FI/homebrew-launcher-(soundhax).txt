@@ -1,7 +1,5 @@
 ---
-title: "Homebrew Launcher (Soundhax)" #
-lang: fi
-permalink: /fi_FI/homebrew-launcher-(soundhax).html
+title: "Homebrew Launcher (Soundhax)"
 ---
 
 Homebrew Launcherille on useita eri sisäänpääsy- eli käynnistystapoja.

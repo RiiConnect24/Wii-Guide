@@ -1,7 +1,5 @@
 ---
-title: "Alueen vaihtaminen" #
-lang: fi
-permalink: /fi_FI/region-changing.html
+title: "Alueen vaihtaminen"
 ---
 
 This is add-on section for region changing your CFW SysNAND. Tämä tapahtuu asentamalla sen alueen 9.2.0-CTRTransfer-näköistiedosto, johon haluat vaihtaa.

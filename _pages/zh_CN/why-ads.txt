@@ -1,7 +1,5 @@
 ---
-title: "为什么有广告?" #
-lang: zh_CN
-permalink: /zh_CN/why-ads.html
+title: "为什么有广告?"
 layout: single-no-ads
 ---
 

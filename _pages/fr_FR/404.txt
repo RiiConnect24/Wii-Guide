@@ -1,7 +1,5 @@
 ---
-title: "Page Introuvable" #
-lang: fr
-permalink: /fr_FR/404.html
+title: "Page Introuvable"
 layout: single-no-ads
 excerpt: "Page introuvable. Vos pixels sont dans un autre canevas." #
 sitemap: false

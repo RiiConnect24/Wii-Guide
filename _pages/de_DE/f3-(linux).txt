@@ -1,7 +1,5 @@
 ---
-title: "F3 (Linux)" #
-lang: de
-permalink: /de_DE/f3-(linux).html
+title: "F3 (Linux)"
 ---
 
 Dies ist ein Add-on-Abschnitt für die Überprüfung Ihrer SD-Karte für Fehler mit h2testw.

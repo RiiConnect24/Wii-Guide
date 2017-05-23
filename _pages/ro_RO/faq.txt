@@ -1,7 +1,5 @@
 ---
-title: "Întrebări frecvente" #
-lang: ro
-permalink: /ro_RO/faq.html
+title: "Întrebări frecvente"
 ---
 
 {% capture notice-1 %}

@@ -1,7 +1,5 @@
 ---
-title: "NTR ve Cubic Ninja" #
-lang: tr
-permalink: /tr_TR/ntr-and-cubic-ninja.html
+title: "NTR ve Cubic Ninja"
 ---
 
 Bu rehberi kullanmak için [Deluge](http://dev.deluge-torrent.org/wiki/Download) gibi [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) linkleri açabilen bir torrent programına ihtiyaç duyulacaktır. **

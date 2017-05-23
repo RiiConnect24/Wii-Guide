@@ -1,7 +1,5 @@
 ---
-title: "Donations" #
-lang: en
-permalink: /en_PT/donations.html
+title: "Donations"
 layout: single-no-ads
 ---
 

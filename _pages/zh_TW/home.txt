@@ -8,9 +8,7 @@ header:
   cta_label: "從頭開始" #
   cta_url: "/zh_TW/get-started" #
   caption:
-excerpt: "最完整的 3DS 改機教戰手冊，<br />教你如何從原廠韌體改成 boot9strap。<br />" #
-lang: zh_TW
-permalink: /zh_TW/index.html
+excerpt: "最完整的 3DS 改機教戰手冊，<br />教你如何從原廠韌體改成 boot9strap。<br />"
 ---
 
 {% capture notice-home %}

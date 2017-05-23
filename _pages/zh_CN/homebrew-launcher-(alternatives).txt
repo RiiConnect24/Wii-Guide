@@ -1,7 +1,5 @@
 ---
-title: "Homebrew Launcher（其他方法）" #
-lang: zh_CN
-permalink: /zh_CN/homebrew-launcher-(alternatives).html
+title: "Homebrew Launcher（其他方法）"
 ---
 
 Homebrew Launcher（HBL）有许多不同的入口和启动方式。

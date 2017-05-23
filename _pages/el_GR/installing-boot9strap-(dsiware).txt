@@ -1,7 +1,6 @@
 ---
 title: "Installing boot9strap (DSiWare)" #
-lang: el
-permalink: /installing-boot9strap-(dsiware).html
+lang: el
 ---
 
 There are two different methods of installing boot9strap using DSiWare on 11.4.0.

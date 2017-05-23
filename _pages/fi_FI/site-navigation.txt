@@ -1,7 +1,5 @@
 ---
-title: "Sivuston navigaatio" #
-lang: fi
-permalink: /fi_FI/site-navigation.html
+title: "Sivuston navigaatio"
 layout: single-no-ads
 sitemap: false
 ---

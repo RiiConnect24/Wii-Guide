@@ -1,7 +1,5 @@
 ---
-title: "问题排查" #
-lang: zh_CN
-permalink: /zh_CN/troubleshooting.html
+title: "问题排查"
 ---
 
 如果你启动不了你的设备，请参阅本页面中的相关章节，并按照教程执行。 问题解决后，便可回到主教程继续进行。

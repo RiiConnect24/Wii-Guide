@@ -1,7 +1,5 @@
 ---
-title: "Aloitus (New 3DS)" #
-lang: fi
-permalink: /fi_FI/get-started-(new-3ds).html
+title: "Aloitus (New 3DS)"
 ---
 
 Valitse konsolisi versiota vastaava sivu alta löytyvästä listasta.

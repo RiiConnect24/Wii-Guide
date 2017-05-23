@@ -1,7 +1,5 @@
 ---
-title: "トラブルシューティング" #
-lang: ja
-permalink: /ja_JP/troubleshooting.html
+title: "トラブルシューティング"
 ---
 
 If you are unable to boot your device, please look for the section relevant to you, and follow the instructions. 問題を解決したら、主なガイドに続いてください。

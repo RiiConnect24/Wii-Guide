@@ -1,7 +1,5 @@
 ---
-title: "Współautorzy" #
-lang: pl
-permalink: /pl_PL/credits.html
+title: "Współautorzy"
 ---
 
 **Specjalne podziękowania dla wszystkich z [#Cakey na Freenode](http://webchat.freenode.net/?channels=%23Cakey) za ich pracę!**

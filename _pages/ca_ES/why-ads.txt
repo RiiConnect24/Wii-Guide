@@ -1,7 +1,5 @@
 ---
-title: "Per què anuncis?" #
-lang: ca
-permalink: /ca_ES/why-ads.html
+title: "Per què anuncis?"
 layout: single-no-ads
 ---
 

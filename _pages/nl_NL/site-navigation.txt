@@ -1,7 +1,5 @@
 ---
-title: "Site Navigatie" #
-lang: nl
-permalink: /nl_NL/site-navigation.html
+title: "Site Navigatie"
 layout: single-no-ads
 sitemap: false
 ---

@@ -1,7 +1,5 @@
 ---
-title: "기부" #
-lang: ko
-permalink: /ko_KR/donations.html
+title: "기부"
 layout: single-no-ads
 ---
 

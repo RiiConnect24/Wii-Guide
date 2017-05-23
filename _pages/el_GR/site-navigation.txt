@@ -1,7 +1,5 @@
 ---
-title: "Πλοήγηση Ιστοτόπου" #
-lang: el
-permalink: /el_GR/site-navigation.html
+title: "Πλοήγηση Ιστοτόπου"
 layout: single-no-ads
 sitemap: false
 ---

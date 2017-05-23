@@ -1,7 +1,5 @@
 ---
-title: "Wechseln der Region" #
-lang: de
-permalink: /de_DE/region-changing.html
+title: "Wechseln der Region"
 ---
 
 This is add-on section for region changing your CFW SysNAND. Dies geschieht durch die Installation der 9.2.0 CTRTransfer Abbild für die Region, die du wechseln willst.

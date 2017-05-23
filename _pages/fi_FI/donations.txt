@@ -1,7 +1,5 @@
 ---
-title: "Lahjoitukset" #
-lang: fi
-permalink: /fi_FI/donations.html
+title: "Lahjoitukset"
 layout: single-no-ads
 ---
 

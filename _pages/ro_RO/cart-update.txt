@@ -1,7 +1,5 @@
 ---
-title: "Update cu card de joc" #
-lang: ro
-permalink: /ro_RO/cart-update.html
+title: "Update cu card de joc"
 ---
 
 Toate cardurile cu jocuri conțin o copie cu versiunea necesară de sistem ca să o joci, permițând tuturor cu o versiune mai mică să folosească cardurile pentru a actualiza la acea versiune (chiar și fără conexiune la internet).

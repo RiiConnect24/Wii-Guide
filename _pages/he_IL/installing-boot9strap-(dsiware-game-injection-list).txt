@@ -1,7 +1,6 @@
 ---
 title: "התקנת boot9strap (רשימת משחקי DSiWare הניתן להזריק)" #
-lang: he
-permalink: /he_IL/installing-boot9strap-(dsiware-game-injection-list).html
+lang: he
 ---
 
 זוהי רשימה שנוצרה אוטומטית של כל המשחקים שתואמים עם [התקנת boot9strap (DSiWare)](installing-boot9strap-(dsiware)).

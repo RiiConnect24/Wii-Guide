@@ -1,7 +1,5 @@
 ---
-title: "Rozpocznij (New 3DS)" #
-lang: pl
-permalink: /pl_PL/get-started-(new-3ds).html
+title: "Rozpocznij (New 3DS)"
 ---
 
 Wybierz odpowiednią podstronę dla swojej wersji firmware z poniższej tabeli.

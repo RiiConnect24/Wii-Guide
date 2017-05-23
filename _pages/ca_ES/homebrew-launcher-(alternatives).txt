@@ -1,7 +1,5 @@
 ---
-title: "Homebrew Launcher (Alternatives)" #
-lang: ca
-permalink: /homebrew-launcher-(alternatives).html
+title: "Homebrew Launcher (Alternatives)"
 ---
 
 The Homebrew Launcher has many different entrypoints, or methods of launching.

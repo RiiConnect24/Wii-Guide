@@ -1,7 +1,6 @@
 ---
 title: "Instalar boot9strap (Inyección de guardado DSiWare)" #
-lang: es
-permalink: /es_ES/installing-boot9strap-(dsiware-save-injection).html
+lang: es
 ---
 
 Ten en cuenta que en algunas versiones de Luma3DS, el menú de selección de payloads sólo es mostrado si se ha detectado más de un payload. Si sólo se detecta un payload, mantener (Start) al encender hará que se inicie GodMode9 de forma directa.

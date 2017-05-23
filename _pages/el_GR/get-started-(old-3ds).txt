@@ -1,7 +1,5 @@
 ---
-title: "Ξεκινώντας (Old 3DS)" #
-lang: el
-permalink: /el_GR/get-started-(old-3ds).html
+title: "Ξεκινώντας (Old 3DS)"
 ---
 
 Επιλέξτε την κατάλληλη σελίδα για την έκδοσή σας από το παρακάτω διάγραμμα.

@@ -1,7 +1,5 @@
 ---
-title: "Finalizing Setup" #
-lang: nl
-permalink: /finalizing-setup.html
+title: "Finalizing Setup"
 ---
 
 Om een [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) link te gebruiken in deze handleiding, moet je een torrent client hebben zoals [Deluge](http://dev.deluge-torrent.org/wiki/Download)

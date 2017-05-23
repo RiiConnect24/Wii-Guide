@@ -1,7 +1,5 @@
 ---
-title: "Başlarken (New 3DS)" #
-lang: tr
-permalink: /tr_TR/get-started-(new-3ds).html
+title: "Başlarken (New 3DS)"
 ---
 
 Uygun sayfaya ulaşmak için aşağıdaki tablodan sürümünüze uyanı seçin.

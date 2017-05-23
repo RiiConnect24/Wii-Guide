@@ -1,7 +1,5 @@
 ---
-title: "Homebrew Launcher (Alternatives)" #
-lang: el
-permalink: /homebrew-launcher-(alternatives).html
+title: "Homebrew Launcher (Alternatives)"
 ---
 
 To Ηomebrew Launcher έχει πολλές διαφορετικές μεθόδους εισόδου ή μεθόδους εκκίνησης.

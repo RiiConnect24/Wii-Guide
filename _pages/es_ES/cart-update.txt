@@ -1,7 +1,5 @@
 ---
-title: "Actualizar con Cartucho" #
-lang: es
-permalink: /es_ES/cart-update.html
+title: "Actualizar con Cartucho"
 ---
 
 Todos los cartuchos contienen una copia de la versión del sistema necesaria para jugarlo, permitiendo a cualquiera usarlo para actualizar desde una versión inferior (incluso sin conexión a internet).

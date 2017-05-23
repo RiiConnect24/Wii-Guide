@@ -1,7 +1,5 @@
 ---
-title: "F3 (Linux)" #
-lang: fr
-permalink: /fr_FR/f3-(linux).html
+title: "F3 (Linux)"
 ---
 
 Il s'agit d'une section en plus pour la vérification de votre carte SD afn de trouver des erreurs à l'aide de F3.

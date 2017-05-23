@@ -1,7 +1,6 @@
 ---
 title: "התקנת boot9strap (DSiWare)" #
-lang: he
-permalink: /he_IL/installing-boot9strap-(dsiware).html
+lang: he
 ---
 
 יש שתי שיטות שונות להתקנת boot9strap עם DSiWare על 11.4.0.

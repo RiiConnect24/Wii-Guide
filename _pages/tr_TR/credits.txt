@@ -1,7 +1,5 @@
 ---
-title: "Hazırlayanlar" #
-lang: tr
-permalink: /tr_TR/credits.html
+title: "Hazırlayanlar"
 ---
 
 **Tüm [Freenode'da #Cakey](http://webchat.freenode.net/?channels=%23Cakey)'dekilere emekleri için teşekkürler!**

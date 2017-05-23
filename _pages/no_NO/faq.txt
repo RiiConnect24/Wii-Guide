@@ -1,7 +1,5 @@
 ---
-title: "OSS (Ofte stilte spørsmål)" #
-lang: no
-permalink: /no_NO/faq.html
+title: "OSS (Ofte stilte spørsmål)"
 ---
 
 {% capture notice-1 %}

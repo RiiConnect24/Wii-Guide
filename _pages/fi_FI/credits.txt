@@ -1,7 +1,5 @@
 ---
-title: "Kiitokset" #
-lang: fi
-permalink: /fi_FI/credits.html
+title: "Kiitokset"
 ---
 
 **Erityiskiitokset kaikille [#Cakey-kanavalla Freenodessa](http://webchat.freenode.net/?channels=%23Cakey)!**

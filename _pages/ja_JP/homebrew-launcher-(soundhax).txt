@@ -1,7 +1,5 @@
 ---
-title: "Homebrew Launcher (Soundhax)" #
-lang: ja
-permalink: /ja_JP/homebrew-launcher-(soundhax).html
+title: "Homebrew Launcher (Soundhax)"
 ---
 
 Homebrew Launcherには、さまざまなエントリーポイントや起動方法があります。

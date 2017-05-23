@@ -1,7 +1,5 @@
 ---
-title: "Homebrew Launcher (Soundhax)" #
-lang: es
-permalink: /es_ES/homebrew-launcher-(soundhax).html
+title: "Homebrew Launcher (Soundhax)"
 ---
 
 El Homebrew Launcher tiene diferentes puntos de entrada, o métodos para ejecutarse.

@@ -1,7 +1,5 @@
 ---
-title: "Kenapa Iklan?" #
-lang: ms
-permalink: /ms_MY/why-ads.html
+title: "Kenapa Iklan?"
 layout: single-no-ads
 ---
 

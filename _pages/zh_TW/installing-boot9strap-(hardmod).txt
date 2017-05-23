@@ -1,7 +1,6 @@
 ---
 title: "安裝 boot9strap（透過硬改）" #
-lang: zh-Hant
-permalink: /zh_TW/installing-boot9strap-(hardmod).html
+lang: zh-Hant
 ---
 
 你可以在[這裡](https://gbatemp.net/threads/414498/)找到硬改的相關資訊。 如果你的主機是 New 3DS 的話，請在硬改前讀完[本篇](https://github.com/Plailect/Guide/issues/681)。

@@ -1,7 +1,5 @@
 ---
-title: "Mari Mulakan (New 3DS)" #
-lang: ms
-permalink: /ms_MY/get-started-(new-3ds).html
+title: "Mari Mulakan (New 3DS)"
 ---
 
 Pilih halaman yang sesuatu untuk versi anda berdasarkan carta dibawah.

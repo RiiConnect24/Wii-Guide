@@ -1,7 +1,5 @@
 ---
-title: "开始教程" #
-lang: zh_CN
-permalink: /zh_CN/get-started.html
+title: "开始教程"
 ---
 
 This page is for instructions on how to install boot9strap to a *stock* 3DS or 2DS. If you already have arm9loaderhax installed and are looking to update to boot9strap, follow [Updating to boot9strap](updating-to-boot9strap).

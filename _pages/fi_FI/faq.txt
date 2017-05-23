@@ -1,7 +1,5 @@
 ---
-title: "UKK" #
-lang: fi
-permalink: /fi_FI/faq.html
+title: "UKK"
 ---
 
 {% capture notice-1 %}

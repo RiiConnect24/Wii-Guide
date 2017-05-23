@@ -8,9 +8,7 @@ header:
   cta_label: "开始教程" #
   cta_url: "/zh_CN/get-started" #
   caption:
-excerpt: "A complete guide to 3DS custom firmware, <br /> from stock to boot9strap.<br />" #
-lang: zh_CN
-permalink: /zh_CN/index.html
+excerpt: "A complete guide to 3DS custom firmware, <br /> from stock to boot9strap.<br />"
 ---
 
 {% capture notice-home %}

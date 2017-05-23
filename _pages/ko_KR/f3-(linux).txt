@@ -1,7 +1,5 @@
 ---
-title: "F3 (Linux)" #
-lang: ko
-permalink: /ko_KR/f3-(linux).html
+title: "F3 (Linux)"
 ---
 
 이 섹션은 F3를 사용해 SD 카드의 오류를 확인하는 추가 섹션입니다.

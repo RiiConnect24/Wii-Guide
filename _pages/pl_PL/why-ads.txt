@@ -1,7 +1,5 @@
 ---
-title: "Dlaczego reklamy?" #
-lang: pl
-permalink: /pl_PL/why-ads.html
+title: "Dlaczego reklamy?"
 layout: single-no-ads
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: "FAQ" #
-lang: en
-permalink: /en_PT/faq.html
+title: "FAQ"
 ---
 
 {% capture notice-1 %}

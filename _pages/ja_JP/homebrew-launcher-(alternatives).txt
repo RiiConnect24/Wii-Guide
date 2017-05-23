@@ -1,7 +1,5 @@
 ---
-title: "Homebrew Launcher (Alternatives)" #
-lang: en
-permalink: /ja_JP/homebrew-launcher-(alternatives).html
+title: "Homebrew Launcher (Alternatives)"
 ---
 
 Homebrew Launcherは色んなエントリーポイントと起動方法があります。

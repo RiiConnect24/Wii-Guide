@@ -1,6 +1,5 @@
 ---
-titel: "Benutzung von GodMode9" #
-lang: de
+titel: "Benutzung von GodMode9"
 ermalink: /de_DE/godmode9-usage.html
 ---
 

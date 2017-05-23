@@ -1,7 +1,5 @@
 ---
-title: "Bien Démarrer (New 3DS)" #
-lang: fr
-permalink: /fr_FR/get-started-(new-3ds).html
+title: "Bien Démarrer (New 3DS)"
 ---
 
 Sélectionnez la page appropriée pour votre version dans le tableau ci-dessous.

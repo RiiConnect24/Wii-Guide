@@ -1,7 +1,5 @@
 ---
-title: "H2testw (Windows)" #
-lang: de
-permalink: /de_DE/h2testw-(windows).html
+title: "H2testw (Windows)"
 ---
 
 Dies ist ein Add-on-Abschnitt für die Überprüfung Ihrer SD-Karte für Fehler mit h2testw.

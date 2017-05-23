@@ -1,7 +1,5 @@
 ---
-title: "שאלות ותשובות" #
-lang: he
-permalink: /he_IL/faq.html
+title: "שאלות ותשובות"
 ---
 
 {% capture notice-1 %}

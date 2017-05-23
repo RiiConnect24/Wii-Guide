@@ -1,7 +1,5 @@
 ---
-title: "Remerciements" #
-lang: fr
-permalink: /fr_FR/credits.html
+title: "Remerciements"
 ---
 
 **Remerciements spéciaux à toutes les personnes du salon [#Cakey sur Freenode](http://webchat.freenode.net/?channels=%23Cakey), vous êtes géniaux !**

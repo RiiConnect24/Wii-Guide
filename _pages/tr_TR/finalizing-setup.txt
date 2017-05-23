@@ -1,7 +1,5 @@
 ---
-title: "Finalizing Setup" #
-lang: tr
-permalink: /finalizing-setup.html
+title: "Finalizing Setup"
 ---
 
 Bu rehberi kullanmak için [Deluge](http://dev.deluge-torrent.org/wiki/Download) gibi [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) linkleri açabilen bir torrent programına ihtiyaç duyulacaktır. **

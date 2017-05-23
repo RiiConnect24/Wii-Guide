@@ -1,7 +1,5 @@
 ---
-title: "Korttipäivitys" #
-lang: fi
-permalink: /fi_FI/cart-update.html
+title: "Korttipäivitys"
 ---
 
 Kaikki pelikortit sisältävät peliä varten vaaditun järjestelmäversion. Tämä mahdollistaa kenen tahansa päivittää vanhemman versionsa kortilla olevaan versioon (jopa ilman internet-yhteyttä).

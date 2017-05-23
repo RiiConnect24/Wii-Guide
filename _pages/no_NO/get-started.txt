@@ -1,7 +1,5 @@
 ---
-title: "Kom i gang" #
-lang: no
-permalink: /no_NO/get-started.html
+title: "Kom i gang"
 ---
 
 This page is for instructions on how to install boot9strap to a *stock* 3DS or 2DS. If you already have arm9loaderhax installed and are looking to update to boot9strap, follow [Updating to boot9strap](updating-to-boot9strap).

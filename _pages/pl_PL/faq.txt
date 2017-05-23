@@ -1,7 +1,5 @@
 ---
-title: "Często zadawane pytania (FAQ)" #
-lang: pl
-permalink: /pl_PL/faq.html
+title: "Często zadawane pytania (FAQ)"
 ---
 
 {% capture notice-1 %}

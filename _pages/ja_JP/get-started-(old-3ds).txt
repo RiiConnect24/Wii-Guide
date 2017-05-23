@@ -1,7 +1,6 @@
 ---
 title: "導入(Old3DS)"
 lang: ja
-permalink: /ja_JP/get-started-(old-3ds).html
 ---
 
 下の表からあなたのバージョンに合ったページを選択してください。

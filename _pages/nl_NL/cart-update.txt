@@ -1,7 +1,5 @@
 ---
-title: "Cart Update" #
-lang: nl
-permalink: /nl_NL/cart-update.html
+title: "Cart Update"
 ---
 
 Alle spel cartridges bevatten een kopie van de benodigde systeemversie om dat spel te spelen, hiermee kan iedereen die op een lagere firmwareversie dan het spel zit, een cartridge gebruiken om te updaten naar die firmwareversie (zelfs zonder internet connectie).

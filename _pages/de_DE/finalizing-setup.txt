@@ -1,7 +1,5 @@
 ---
-title: "Finalizing Setup" #
-lang: de
-permalink: /finalizing-setup.html
+title: "Finalizing Setup"
 ---
 
 Um die [Magnet-Links](https://en.wikipedia.org/wiki/Magnet_URI_scheme) auf dieser Seite zu nutzen, brauchst du einen Torrent-Programm wie [Deluge](http://dev.deluge-torrent.org/wiki/Download)

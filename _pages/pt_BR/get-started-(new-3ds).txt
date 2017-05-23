@@ -1,7 +1,5 @@
 ---
-title: "Começar (New 3DS)" #
-lang: pt
-permalink: /pt_BR/get-started-(new-3ds).html
+title: "Começar (New 3DS)"
 ---
 
 Selecione a página correspondente à sua versão na tabela abaixo.

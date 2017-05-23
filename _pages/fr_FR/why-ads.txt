@@ -1,7 +1,5 @@
 ---
-title: "Pourquoi des pubs ?" #
-lang: fr
-permalink: /fr_FR/why-ads.html
+title: "Pourquoi des pubs ?"
 layout: single-no-ads
 ---
 

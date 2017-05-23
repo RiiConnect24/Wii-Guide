@@ -1,7 +1,5 @@
 ---
-title: "NTR og Cubic Ninja" #
-lang: no
-permalink: /no_NO/ntr-and-cubic-ninja.html
+title: "NTR og Cubic Ninja"
 ---
 
 To use the [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) links on this page, you will need a torrent client like [Deluge](http://dev.deluge-torrent.org/wiki/Download)

@@ -1,7 +1,5 @@
 ---
-title: "Homebrew Launcher (Soundhax)" #
-lang: he
-permalink: /he_IL/homebrew-launcher-(soundhax).html
+title: "Homebrew Launcher (Soundhax)"
 ---
 
 להומברו לאנצ'ר יש הרבה דרכי הפעלה.

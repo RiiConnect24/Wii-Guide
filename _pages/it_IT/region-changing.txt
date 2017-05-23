@@ -1,7 +1,5 @@
 ---
-title: "Cambiare regione" #
-lang: it
-permalink: /it_IT/region-changing.html
+title: "Cambiare regione"
 ---
 
 In questa sezione aggiuntiva verrà spiegato come cambiare regionalità su SysNAND con CFW. Per questo scopo, verrà eseguito un CTRTransfer alla versione 9.2.0 della regione alla quale si desidera passare.

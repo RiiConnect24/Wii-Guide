@@ -1,7 +1,5 @@
 ---
-title: "Regio Wijzigen" #
-lang: nl
-permalink: /nl_NL/region-changing.html
+title: "Regio Wijzigen"
 ---
 
 This is add-on section for region changing your CFW SysNAND. Dit wordt gedaan door de 9.2.0 CTRTransfer image voor de regio die jij wil hebben te installeren.

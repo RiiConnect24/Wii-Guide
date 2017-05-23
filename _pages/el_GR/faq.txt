@@ -1,7 +1,5 @@
 ---
-title: "Συχνές Ερωτήσεις" #
-lang: el
-permalink: /el_GR/faq.html
+title: "Συχνές Ερωτήσεις"
 ---
 
 {% capture notice-1 %}

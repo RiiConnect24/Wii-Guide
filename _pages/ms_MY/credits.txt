@@ -1,7 +1,5 @@
 ---
-title: "Kredit" #
-lang: ms
-permalink: /ms_MY/credits.html
+title: "Kredit"
 ---
 
 **Ribuan terima kasih kepada semua [#Cakey di Freenode](http://webchat.freenode.net/?channels=%23Cakey) anda semua mengagumkan!**

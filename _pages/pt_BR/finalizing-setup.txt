@@ -1,7 +1,5 @@
 ---
-title: "Finalizando a instalação" #
-lang: pt-BR
-permalink: /pt_BR/finalizing-setup.html
+title: "Finalizando a instalação"
 ---
 
 Para usar os links [magnéticos](https://pt.wikipedia.org/wiki/Magnet-Link) nesta página, você precisará de um cliente de torrent como o [Deluge](http://dev.deluge-torrent.org/wiki/Download)

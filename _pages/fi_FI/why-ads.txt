@@ -1,7 +1,5 @@
 ---
-title: "Miksi mainokset?" #
-lang: fi
-permalink: /fi_FI/why-ads.html
+title: "Miksi mainokset?"
 layout: single-no-ads
 ---
 

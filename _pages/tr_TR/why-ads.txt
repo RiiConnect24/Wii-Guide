@@ -1,7 +1,5 @@
 ---
-title: "Neden reklamlar?" #
-lang: tr
-permalink: /tr_TR/why-ads.html
+title: "Neden reklamlar?"
 layout: single-no-ads
 ---
 

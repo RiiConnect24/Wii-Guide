@@ -1,7 +1,5 @@
 ---
-title: "veel gestelde vragen (FAQ)" #
-lang: nl
-permalink: /nl_NL/faq.html
+title: "veel gestelde vragen (FAQ)"
 ---
 
 {% capture notice-1 %}

@@ -1,7 +1,5 @@
 ---
-title: "Благодарности" #
-lang: ru
-permalink: /ru_RU/credits.html
+title: "Благодарности"
 ---
 
 **Отдельное спасибо всем из [#Cakey on Freenode](http://webchat.freenode.net/?channels=%23Cakey) (англ.) за то, что они потрясающие!**

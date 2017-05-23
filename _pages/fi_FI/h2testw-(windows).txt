@@ -1,7 +1,5 @@
 ---
-title: "H2testw (Windows)" #
-lang: fi
-permalink: /fi_FI/h2testw-(windows).html
+title: "H2testw (Windows)"
 ---
 
 Tämä lisäosio opastaa sinua tarkistamaan SD-korttisi virheiden varalta h2testw-ohjelman avulla.

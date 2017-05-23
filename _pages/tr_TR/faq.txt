@@ -1,7 +1,5 @@
 ---
-title: "S.S.S." #
-lang: tr
-permalink: /tr_TR/faq.html
+title: "S.S.S."
 ---
 
 {% capture notice-1 %}

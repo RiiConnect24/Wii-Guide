@@ -1,7 +1,5 @@
 ---
-title: "GodMode9 Gebruik" #
-lang: nl
-permalink: /nl_NL/godmode9-usage.html
+title: "GodMode9 Gebruik"
 ---
 
 Godmode9 is een bestandsbeheer die volledige toegang heeft tot de Nintendo 3DS console, het geeft je toegang tot je SD kaart, de FAT partities van je SysNAND en EmuNAND en zo goed als alles anders. Naast andere functies kan je ook bestanden kopiëren, verwijderen en hernoemen en mappen aanmaken.

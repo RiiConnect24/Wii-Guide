@@ -1,7 +1,5 @@
 ---
-title: "F3 (Linux)" #
-lang: zh-Hant
-permalink: /zh_TW/f3-(linux).html
+title: "F3 (Linux)"
 ---
 
 本篇為透過 F3 來檢查你 SD 卡是否有任何問題的附加章節。

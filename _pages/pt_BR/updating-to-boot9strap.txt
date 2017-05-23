@@ -1,7 +1,6 @@
 ---
 Atualizando para boot9strap
 lang: pt-BR
-permalink: /pt_BR/updating-to-boot9strap.html
 ---
 
 Esta página é para usuários de uma instalção arm9loaderhax pré existente atualizarem seus dispositivos para boot9strap.

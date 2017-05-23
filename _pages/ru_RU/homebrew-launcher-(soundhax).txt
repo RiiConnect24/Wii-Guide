@@ -1,7 +1,5 @@
 ---
-title: "Homebrew Launcher (Soundhax)" #
-lang: ru
-permalink: /ru_RU/homebrew-launcher-(soundhax).html
+title: "Homebrew Launcher (Soundhax)"
 ---
 
 Homebrew Launcher имеет множество точек входа, или методов запуска.

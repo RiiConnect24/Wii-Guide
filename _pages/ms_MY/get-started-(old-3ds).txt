@@ -1,7 +1,5 @@
 ---
-title: "Mari Mulakan (Old 3DS)" #
-lang: ms
-permalink: /ms_MY/get-started-(old-3ds).html
+title: "Mari Mulakan (Old 3DS)"
 ---
 
 Pilih halaman yang sesuai untuk versi anda berdasarkan carta dibawah.

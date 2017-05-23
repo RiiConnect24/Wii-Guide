@@ -1,7 +1,5 @@
 ---
-title: "GodMode9 使用教程" #
-lang: zh_CN
-permalink: /zh_CN/godmode9-usage.html
+title: "GodMode9 使用教程"
 
 ---
 

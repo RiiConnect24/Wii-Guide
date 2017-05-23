@@ -1,7 +1,5 @@
 ---
-title: "Updating to boot9strap" #
-lang: ca
-permalink: /updating-to-boot9strap.html
+title: "Updating to boot9strap"
 ---
 
 This page is for existing arm9loaderhax users to update their devices to boot9strap.

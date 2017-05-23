@@ -1,7 +1,5 @@
 ---
-title: "Installing boot9strap (2xrsa)" #
-lang: ko
-permalink: /installing-boot9strap-(2xrsa).html
+title: "Installing boot9strap (2xrsa)"
 ---
 
 이 페이지의 [마그넷](https://en.wikipedia.org/wiki/Magnet_URI_scheme) 링크를 사용하려면

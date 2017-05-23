@@ -1,7 +1,5 @@
 ---
-title: "Homebrew Launcher (Soundhax)" #
-lang: el
-permalink: /el_GR/homebrew-launcher-(soundhax).html
+title: "Homebrew Launcher (Soundhax)"
 ---
 
 To Ηomebrew Launcher έχει πολλές διαφορετικές μεθόδους εισόδου.

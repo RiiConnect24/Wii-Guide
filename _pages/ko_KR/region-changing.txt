@@ -1,7 +1,5 @@
 ---
-title: "지역 변경" #
-lang: ko
-permalink: /ko_KR/region-changing.html
+title: "지역 변경"
 ---
 
 This is add-on section for region changing your CFW SysNAND. 바꾸고자 하는 지역의 9.2.0 CTRTransfer 이미지를 설치해 끝납니다.

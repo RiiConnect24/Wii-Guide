@@ -1,7 +1,5 @@
 ---
-title: "Changement de Région" #
-lang: fr
-permalink: /fr_FR/region-changing.html
+title: "Changement de Région"
 ---
 
 Il s’agit de la section Extensions afin de changer la région de votre CFW SysNAND. On peut le faire en installant l'image CTRTransfer 9.2.0 de la région à laquelle vous souhaitez passer.

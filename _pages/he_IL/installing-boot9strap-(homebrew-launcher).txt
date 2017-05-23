@@ -1,7 +1,5 @@
 ---
-title: "התקנת boot9strap (Homebrew Launcher)" #
-lang: he
-permalink: /he_IL/installing-boot9strap-(homebrew-launcher).html
+title: "התקנת boot9strap (Homebrew Launcher)"
 ---
 
 אם המכשיר שלכם כבר פרוץ עם EmuNAND, המדריך הזה עוסק רק בSysNAND. תבצעו את ההוראות על SysNAND. Emunand וRednand כמעט מונחים נרדפים.

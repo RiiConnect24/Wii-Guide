@@ -1,7 +1,5 @@
 ---
-title: "NTR ja Cubic Ninja" #
-lang: fi
-permalink: /fi_FI/ntr-and-cubic-ninja.html
+title: "NTR ja Cubic Ninja"
 ---
 
 **Käyttääksesi tällä sivulla olevia [magneetti](https://en.wikipedia.org/wiki/Magnet_URI_scheme)linkkejä tarvitset torrent-ohjelman, kuten [Deluge](http://dev.deluge-torrent.org/wiki/Download)n**

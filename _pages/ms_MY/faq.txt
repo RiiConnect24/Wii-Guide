@@ -1,7 +1,5 @@
 ---
-title: "Soalan Lazim" #
-lang: ms
-permalink: /ms_MY/faq.html
+title: "Soalan Lazim"
 ---
 
 {% capture notice-1 %}

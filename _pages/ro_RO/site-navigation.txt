@@ -1,7 +1,5 @@
 ---
-title: "Navigarea pe site" #
-lang: ro
-permalink: /ro_RO/site-navigation.html
+title: "Navigarea pe site"
 layout: single-no-ads
 sitemap: false
 ---

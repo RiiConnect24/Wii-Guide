@@ -1,7 +1,6 @@
 ---
 title: "Instalando boot9strap (Hardmod)" #
-lang: pt-BR
-permalink: /pt_BR/installing-boot9strap-(hardmod).html
+lang: pt-BR
 ---
 
 Um excelente guia para realizar um hardmod pode ser encontrado [aqui](https://gbatemp.net/threads/414498/). Caso esteja utilizando um New 3DS, leia [isto](https://github.com/Plailect/Guide/issues/681) antes de iniciar seu hardmod.

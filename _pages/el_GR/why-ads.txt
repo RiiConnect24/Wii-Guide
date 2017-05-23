@@ -1,7 +1,5 @@
 ---
-title: "Γιατί βλέπω διαφημίσεις;" #
-lang: el
-permalink: /el_GR/why-ads.html
+title: "Γιατί βλέπω διαφημίσεις;"
 layout: single-no-ads
 ---
 

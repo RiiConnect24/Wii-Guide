@@ -1,7 +1,5 @@
 ---
-title: "Site Haritası" #
-lang: tr
-permalink: /tr_TR/site-navigation.html
+title: "Site Haritası"
 layout: single-no-ads
 sitemap: false
 ---

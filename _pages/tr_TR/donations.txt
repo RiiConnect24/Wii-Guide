@@ -1,7 +1,5 @@
 ---
-title: "Bağış" #
-lang: tr
-permalink: /tr_TR/donations.html
+title: "Bağış"
 layout: single-no-ads
 ---
 

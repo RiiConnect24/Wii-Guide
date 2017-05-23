@@ -1,7 +1,5 @@
 ---
-title: "Installer boot9strap (2xrsa)" #
-lang: fr
-permalink: /fr_FR/installing-boot9strap-(2xrsa).html
+title: "Installer boot9strap (2xrsa)"
 ---
 
 Pour utiliser les liens suivant [magnet](https://fr.wikipedia.org/wiki/Magnet_(standard)), vous avez besoin d'un client Torrent comme [Deluge](http://dev.deluge-torrent.org/wiki/Download)

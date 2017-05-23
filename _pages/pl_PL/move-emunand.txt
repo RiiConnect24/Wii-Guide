@@ -1,7 +1,5 @@
 ---
-title: "Przenoszenie EmuNAND" #
-lang: pl
-permalink: /pl_PL/move-emunand.html
+title: "Przenoszenie EmuNAND"
 ---
 
 This is an add-on section for moving the contents of a previous EmuNAND to your new SysNAND CFW, then removing the old EmuNAND partition. Zauważ, że terminy EmuNand i RedNAND odnoszą się do nieco innych implementacji [tej samej idei] (http://3dbrew.org/wiki/NAND_Redirection).

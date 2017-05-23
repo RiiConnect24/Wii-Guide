@@ -1,7 +1,5 @@
 ---
-title: "Créditos" #
-lang: pt
-permalink: /pt_BR/credits.html
+title: "Créditos"
 ---
 
 **Um agradecimento especial a todos do [#Cakey na Freenode](http://webchat.freenode.net/?channels=%23Cakey) por serem o máximo!**

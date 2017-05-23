@@ -1,7 +1,5 @@
 ---
-title: "Perché c'è la pubblicità?" #
-lang: it
-permalink: /it_IT/why-ads.html
+title: "Perché c'è la pubblicità?"
 layout: single-no-ads
 ---
 

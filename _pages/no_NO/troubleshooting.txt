@@ -1,7 +1,5 @@
 ---
-title: "Feilsøkning" #
-lang: no
-permalink: /no_NO/troubleshooting.html
+title: "Feilsøkning"
 ---
 
 If you are unable to boot your device, please look for the section relevant to you, and follow the instructions. Når en løsning virker for deg, kan du fortsette med hovedveiledningen

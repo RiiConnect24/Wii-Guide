@@ -1,7 +1,5 @@
 ---
-title: "עדכון אל boot9strap" #
-lang: he
-permalink: /he_IL/updating-to-boot9strap.html
+title: "עדכון אל boot9strap"
 ---
 
 דף זה מיועד למשתמשי arm9loaderhax קיימים לעדכן את מכשיריהם לboot9strap.

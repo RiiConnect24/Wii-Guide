@@ -1,7 +1,5 @@
 ---
-title: "Homebrew Launcher (Alternatives)" #
-lang: ms
-permalink: /ms_MY/homebrew-launcher-(alternatives).html
+title: "Homebrew Launcher (Alternatives)"
 ---
 
 Homebrew Launcher mempunyai pelbagai cara masuk, atau cara melancarkannya.

@@ -1,7 +1,5 @@
 ---
-title: "Danksagung" #
-lang: de
-permalink: /de_DE/credits.html
+title: "Danksagung"
 ---
 
 **Vielen Dank an alle Nutzer aus [#Cakey auf Freenode](http://webchat.freenode.net/?channels=%23Cakey)! Ihr seid großartig!**

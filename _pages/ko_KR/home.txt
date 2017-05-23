@@ -8,9 +8,7 @@ header:
   cta_label: "시작하기"
   cta_url: "/ko_KR/get-started" #
   caption:
-excerpt: "A complete guide to 3DS custom firmware, <br /> from stock to boot9strap.<br />" #
-lang: ko
-permalink: /ko_KR/index.html
+excerpt: "A complete guide to 3DS custom firmware, <br /> from stock to boot9strap.<br />"
 ---
 
 {% capture notice-home %}

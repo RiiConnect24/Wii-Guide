@@ -1,7 +1,5 @@
 ---
-title: "H2testw (Windows)" #
-lang: zh-Hant
-permalink: /zh_TW/h2testw-(windows).html
+title: "H2testw (Windows)"
 ---
 
 本篇為透過 h2testw 來檢查你 SD 卡是否有任何問題的附加章節。

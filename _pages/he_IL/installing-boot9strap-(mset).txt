@@ -1,7 +1,5 @@
 ---
-title: "התקנת boot9strap (MSET)" #
-lang: he
-permalink: /he_IL/installing-boot9strap-(mset).html
+title: "התקנת boot9strap (MSET)"
 ---
 
 אם המכשיר שלכם כבר פרוץ עם EmuNAND, המדריך הזה עוסק רק בSysNAND. תבצעו את ההוראות על SysNAND. Emunand וRednand כמעט מונחים נרדפים.

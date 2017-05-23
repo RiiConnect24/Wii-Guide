@@ -1,7 +1,5 @@
 ---
-title: "ניווט האתר" #
-lang: he
-permalink: /he_IL/site-navigation.html
+title: "ניווט האתר"
 layout: single-no-ads
 sitemap: false
 ---

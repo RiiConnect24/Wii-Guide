@@ -1,7 +1,6 @@
 ---
 title: "התקנת boot9strap (הזרקת משחק DSiWare)" #
-lang: he
-permalink: /he_IL/installing-boot9strap-(dsiware-game-injection).html
+lang: he
 ---
 
 שימו לב שבגירסאות מסוימות של Luma3DS, תפריט הטעינה של Luma3DS מוצג רק אם יש יותר מתוכנה אחת שזוהתה. אם יש רק תוכנה אחת שזוהתה, החזקת (Start) בהפעלה תפעיל אוטומטית את GodMode9.

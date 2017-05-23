@@ -1,7 +1,5 @@
 ---
-title: "Halaman Tidak Dijumpai" #
-lang: ms
-permalink: /ms_MY/404.html
+title: "Halaman Tidak Dijumpai"
 layout: single-no-ads
 excerpt: "Tiada Halaman. Pixel anda berada di kanvas lain." #
 sitemap: false

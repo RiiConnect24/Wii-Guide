@@ -1,7 +1,5 @@
 ---
-title: "EmuNANDを移動する" #
-lang: ja
-permalink: /ja_JP/move-emunand.html
+title: "EmuNANDを移動する"
 ---
 
 このエクストラセクションでは、どうやって古いEmuNANDのコンテンツを新しいSysNAND CFWに移動し、古いEmuNANDパーティションを削除するか紹介します。 EmuNANDとRedNANDは[同じ理論](http://3dbrew.org/wiki/NAND_Redirection)の少々違う実装です。

@@ -1,7 +1,5 @@
 ---
-title: "Вопросы и ответы" #
-lang: ru
-permalink: /ru_RU/faq.html
+title: "Вопросы и ответы"
 ---
 
 {% capture notice-1 %}

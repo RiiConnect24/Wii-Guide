@@ -1,7 +1,5 @@
 ---
-title: "NTR ו- Cubic Ninja" #
-lang: he
-permalink: /he_IL/ntr-and-cubic-ninja.html
+title: "NTR ו- Cubic Ninja"
 ---
 
 **כדי להשתמש בקישורי מגנט, תצטרכו כלי טורנט כמו [Deluge](http://dev.deluge-torrent.org/wiki/Download)**

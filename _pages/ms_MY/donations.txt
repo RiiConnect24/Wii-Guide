@@ -1,7 +1,5 @@
 ---
-title: "Sumbangan" #
-lang: ms
-permalink: /ms_MY/donations.html
+title: "Sumbangan"
 layout: single-no-ads
 ---
 

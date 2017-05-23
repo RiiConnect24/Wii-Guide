@@ -1,7 +1,5 @@
 ---
-title: "CTRTransfer 9.2.0" #
-lang: it
-permalink: /it_IT/9.2.0-ctrtransfer.html
+title: "CTRTransfer 9.2.0"
 ---
 
 In questa sezione aggiuntiva verrà spiegato come installare un'immagine CTRTransfer 9.2.0 sulla tua console.

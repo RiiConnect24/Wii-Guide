@@ -1,7 +1,6 @@
 ---
 title: "Installing boot9strap (Hardmod)" #
-lang: ro
-permalink: /installing-boot9strap-(hardmod).html
+lang: ro
 ---
 
 An excellent guide to getting a hardmod can be found [here](https://gbatemp.net/threads/414498/). If you are on a New 3DS, read [this](https://github.com/Plailect/Guide/issues/681) before hardmodding.

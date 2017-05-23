@@ -1,7 +1,5 @@
 ---
-title: "F3X (Mac)" #
-lang: fr
-permalink: /fr_FR/f3x-(mac).html
+title: "F3X (Mac)"
 ---
 
 Il s'agit d'une section en plus pour la vérification de votre carte SD afn de trouver des erreurs à l'aide de F3X.

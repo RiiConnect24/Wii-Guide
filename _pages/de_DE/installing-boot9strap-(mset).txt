@@ -1,7 +1,5 @@
 ---
-title: "Installing boot9strap (MSET)" #
-lang: de
-permalink: /installing-boot9strap-(mset).html
+title: "Installing boot9strap (MSET)"
 ---
 
 Falls du bereits deinen 3DS zuvor gehackt hast und eine EmuNAND basierte CFW installiert ist: Diese Anleitung behandelt nur das SysNAND und alle Schritte sollten nur innerhalb des SysNANDs ausgeführt/angewendet werden. Beachte, dass die Begriffe EmuNAND und RedNAND sich auf leicht unterschiedliche Implementierungen [des selben Konzepts](http://3dbrew.org/wiki/NAND_Redirection) beziehen.

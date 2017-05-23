@@ -1,7 +1,5 @@
 ---
-title: "GodMode9 Usage" #
-lang: ja
-permalink: /godmode9-usage.html
+title: "GodMode9 Usage"
 ---
 
 GodMode9 is a full access file browser for the Nintendo 3DS console, giving you access to your SD card, to the FAT partitions inside your SysNAND and EmuNAND and to basically anything else. Among other functionality, you can copy, delete, rename files and create folders.

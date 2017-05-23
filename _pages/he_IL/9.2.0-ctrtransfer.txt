@@ -1,7 +1,5 @@
 ---
-title: "9.2.0 CTRTransfer" #
-lang: he
-permalink: /he_IL/9.2.0-ctrtransfer.html
+title: "9.2.0 CTRTransfer"
 ---
 
 זהו מדריך הרחבה המסביר על ביצוע CTRTransfer אל 9.2.0.

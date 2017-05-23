@@ -1,7 +1,5 @@
 ---
-tittel: "Bidrag" #
-lang: no
-permalink: /no_NO/donations.html
+tittel: "Bidrag"
 layout: single-no-ads
 ---
 

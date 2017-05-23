@@ -1,7 +1,5 @@
 ---
-title: "寄付" #
-lang: ja
-permalink: /ja_JP/donations.html
+title: "寄付"
 layout: single-no-ads
 ---
 

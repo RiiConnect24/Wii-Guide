@@ -1,7 +1,5 @@
 ---
-title: "Resolução de Problemas" #
-lang: pt_PT
-permalink: /pt_PT/troubleshooting.html
+title: "Resolução de Problemas"
 ---
 
 If you are unable to boot your device, please look for the section relevant to you, and follow the instructions. Quando uma solução funcionar para ti, podes continuar com o resto do guia

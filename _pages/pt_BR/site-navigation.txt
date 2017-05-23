@@ -1,7 +1,5 @@
 ---
-title: "Navegação do site" #
-lang: pt
-permalink: /pt_BR/site-navigation.html
+title: "Navegação do site"
 layout: single-no-ads
 sitemap: false
 ---
