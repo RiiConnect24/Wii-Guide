@@ -1,6 +1,6 @@
 ---
 title: "Instalando boot9strap (Injeção de jogo DSiWare)" #
-lang: pt
+lang: pt_PT
 ---
 
 Note que, em algumas versões do Luma3DS, o menu do chainloader do Luma3DS só é mostrado se houver mais de um payload detectado. Se houver apenas um payload detectado, segurar (Start) ao inicializar o dispositovo abrirá diretamente o GodMode9.
@@ -12,7 +12,7 @@ Para usar os links [magnéticos](https://pt.wikipedia.org/wiki/Magnet-Link) nest
 Antes de prosseguir, certifique-se de ter lido todos os avisos e advertências em [Instalando boot9strap (DSiWare)](installing-boot9strap-(dsiware))
 {: .notice--danger}
 
-#### O que você precisa
+#### What you need
 
 * Dois consoles 3DSs
   + **The source 3DS**: the 3DS running some kind of custom firmware (such as boot9strap or arm9loaderhax) *on the latest version*
@@ -41,7 +41,7 @@ Use um [gerenciador de saves](https://github.com/J-D-K/JKSM/releases/latest) par
 
 1. Power off **the source 3DS**
 1. Insert **the source 3DS**'s SD card into your computer
-1. Copy `GodMode9.firm` (or `GodMode9.bin` for arm9loaderhax users) from the GodMode9 `.zip` to the `/luma/payloads` folder on **the source 3DS**'s SD card
+1. Copie `GodMode9.firm` (ou `GodMode9.bin` para usuários com arm9loaderhax) do `.zip` do GodMode9 para a pasta `/luma/payloads` no cartão SD do **3DS de origem**
 1. Copy the `.app` from DSiWare injection `.zip` to the root of **the source 3DS**'s SD card
 1. Copy `savedata` folder from DSiWare injection `.zip` to the root of **the source 3DS**'s SD card
 1. Reinsert **the source 3DS**'s SD card
@@ -70,7 +70,7 @@ Use um [gerenciador de saves](https://github.com/J-D-K/JKSM/releases/latest) par
 1. Press (A) on the `.app` file in the folder
 1. Select "Inject data @offset"
 1. Press (A) to select the offset `00000000`
-1. Aperte (A) para destravar as modificações na SysNAND, então aperte a sequência de botões solicitada
+1. Press (A) to unlock SysNAND writing, then input the key combo given
 1. Press (B) to go back to the main menu
 1. Navigate to `SYSNAND TWLN` -> `title` -> `00030004` -> `(8 Character ID)`
   + The 8 Character ID will be the one from the [Installing boot9strap (DSiWare Game Injection List)](installing-boot9strap-(dsiware-game-injection-list)) page
@@ -88,7 +88,7 @@ Use um [gerenciador de saves](https://github.com/J-D-K/JKSM/releases/latest) par
 1. Selecione "Copy path(s)"
 1. Press (A) to unlock image writing, then input the key combo given
 1. Press (Start) to reboot
-1. Launch your DSiWare game on **the source 3DS**
+1. Abra seu jogo DSiWare no **3DS de origem**
 1. Tap the screen or press any button to start the game and test if the save is functional
   + **EUR (Guitar Rock Tour)** usuários devem rolar para baixo e irem para High-Scores -> Drums -> Easy
   + If your game has an error about `boot.nds`, **then the exploit has been successful**
@@ -123,10 +123,10 @@ Use um [gerenciador de saves](https://github.com/J-D-K/JKSM/releases/latest) par
 1. Reboot **the source 3DS** while holding (Start) to launch the Luma3DS chainloader menu
 1. Inicie o GodMode9 apertando (A)
 1. Navegue para `[0:] SDCARD`
-1. Aperte (A) no seu `nand.bin` para selecioná-lo, depois selecione "NAND image options...", depois selecione "Restore SysNAND (safe)"
-1. Aperte (A) para destravar as modificações na SysNAND, então aperte a sequência de botões solicitada
+1. Press (A) on your NAND `.bin` to select it, then select "NAND image options...", then select "Restore SysNAND (safe)"
+1. Press (A) to unlock SysNAND overwriting, then input the key combo given
   + Isso não irá substituir sua instalação do boot9strap
-1. Aperte a sequência de botões solicitada para desbloquear "SysNAND (lvl1) writing"
+1. Input the key combo given to unlock SysNAND (lvl1) writing
   + Este processo levará algum tempo
 1. Quando concluído, aperte (A) para continuar
 1. Press (Start) to reboot **the source 3DS**
@@ -155,7 +155,7 @@ Use um [gerenciador de saves](https://github.com/J-D-K/JKSM/releases/latest) par
 1. Select "Install boot9strap" and confirm
 1. Exit b9sTool, then power off your device
   + You may have to force power off by holding the power button
-1. Seu dispositivo irá iniciar no boot9strap e depois desligar automaticamente, porque ele ainda não tem nenhum payload para iniciar
+1. Your device will boot into boot9strap, then shutdown automatically because it does not yet have a payload to launch
   + Seu dispositivo não irá inciar até que você continue com as instruções da próxima página; não entre em pânico, isto é normal
 
 ___

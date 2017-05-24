@@ -1,5 +1,5 @@
 ---
-title: "Navegação do site" #
+title: "Navegação do Site" #
 layout: single-no-ads
 sitemap: false
 ---
