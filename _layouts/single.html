@@ -59,13 +59,7 @@ layout: default
 
         <hr>
 
-        {{ content | remove: '<p>' | remove: '</p>' }}
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
-        
-        <hr>
-
         <center>
-
         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <!-- Guide -->
         <ins class="adsbygoogle"
@@ -76,7 +70,16 @@ layout: default
         <script>
         (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
+        </center>
 
+        <hr>
+
+        {{ content | remove: '<p>' | remove: '</p>' }}
+        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+        
+        <hr>
+
+        <center>
         <ins class="adsbygoogle"
             style="display:block"
             data-ad-client="ca-pub-6670011780914577"
