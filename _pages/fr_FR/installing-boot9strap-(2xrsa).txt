@@ -26,7 +26,7 @@ Pour utiliser les liens suivant [magnet](https://fr.wikipedia.org/wiki/Magnet_(s
 
 ##### Section II - Lancer SafeB9SInstaller
 
-1. Lancez le navigateur internet et allez sur l'une de ces URL sur votre console
+1. Launch the browser and go to the following URL on your device
   + `http://2xrsa.3ds.guide`
   + Si vous êtes sur une New 3DS ou 2DS et que le Wifi de la console est désactivé, vous pouvez le réactiver en enlevant la batterie et en débranchant le chargeur pendant quelques secondes puis en redémarrant la console
   + Si vous obtenez l'erreur "Ce service n'est pas disponible dans votre région", changez les paramètres de pays dans les paramètres de la console pour qu'il corresponde à la region de la NAND installée lors du CTRtransfer en 2.1.0
@@ -44,7 +44,7 @@ Pour utiliser les liens suivant [magnet](https://fr.wikipedia.org/wiki/Magnet_(s
 
 ___
 
-Note that *New 3DS* users who ended up on 2.1.0 after a CTRTransfer *must* [restore their NAND backup](godmode9-usage#nand_restore) between "Section II - Configuring Luma3DS" and "Section III - Updating the System" of [Finalizing Setup](finalizing-setup).
+Noter que les utilisateurs de *New 3DS* qui sont restés en 2.1.0 après un CTRTransfer *doivent* [restaurer leur sauvegarde NAND](godmode9-usage#nand_restore) entre la "Section II - Configurer Luma3DS" et la "Section III - Mettre à jour son système" de [Finalisation de l'installation](finalizing-setup).
 {: .notice--danger}
 
 Continuer vers [Finalisation de l'installation](finalizing-setup)

@@ -2,7 +2,7 @@
 title: "NTR and Cubic Ninja"
 ---
 
-To use the [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) links on this page, you will need a torrent client like [Deluge](http://dev.deluge-torrent.org/wiki/Download)
+**For å benytte [magnetlenker](https://en.wikipedia.org/wiki/Magnet_URI_scheme) du finner i veiledningen trenger du en torrentklient som f.eks. [Deluge](http://dev.deluge-torrent.org/wiki/Download)
 {: .notice--success}
 
 **NTR Cubic Ninja vil kun virke for JPN New 3DS!!!**
@@ -56,7 +56,7 @@ To use the [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) links on th
     + `write(0x15E424, tuple(map(ord, "http://YYY.YYY.YYY.YYY/update.php\0")), pid=0x25)`
     + `write(0x15E0EC, tuple(map(ord, "http://YYY.YYY.YYY.YYY/update.php\0")), pid=0x25)`
     + `write(0x15E463, tuple(map(ord, "http://YYY.YYY.YYY.YYY/update.php\0")), pid=0x25)`
-1. Update your device by going to System Settings, then "Other Settings", then going all the way to the right and using "System Update"
+1. Oppdater konsollen ved å gå til Systeminnstillinger, deretter "Other Settings", så helt til høyre og start "System Update"
 
 ___
 

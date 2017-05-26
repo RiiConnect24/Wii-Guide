@@ -26,6 +26,25 @@ Antes de começar, usuários de Windows devem habilitar a opção para exibir ex
 Antes de iniciar, você pode querer verificar se o seu cartão SD possui erros utilizando [H2testw (Windows)](h2testw-(windows)), [F3 (Linux)](f3-(linux)), ou [F3X (Mac)](f3x-(mac))!
 {: .notice--warning}
 
+Note que o novo método [Instalando boot9strap (Hardmod)](installing-boot9strap-(hardmod)) funciona em *todos os dispositivos, regiões e versões*! Isso inclui as regiões CHN e TWN que previamente não eram possiveis de hackear!
+{: .notice--success}
+
+{% capture notice-1 %}
+Há relatos de uma onda de bans sendo feita a usuários de CFW pela Nintendo. Para se proteger, por favor siga os seguintes passos antes de iniciar este guia:
+
+1. Vá para Configuração do console, depois "Configuração de internet", depois "SpotPass" e depois em "Envio de informações do console"
+1. Desabilite a opção "Envio de informações do console"
+1. Saia da Configuração do console
+1. Ir para a sua lista de amigos (o ícone de rosto na linha superior do seu Menu HOME)
+  + Se você recebe um erro e é expulsos do menu, a configuração da Lista do amigos já está desativada
+1. Vá para Configurar na Lista de amigos, depois "Notificações entre amigos" e depois "Mostrar o que está jogando"
+1. Desabilite a opção "Mostrar o que está jogando"
+1. Saia da sua Lista de amigos
+
+{% endcapture %}
+
+<div class="notice--danger">{{ notice-1 | markdownify }}</div>
+
 | New 3DS | Old 3DS ou 2DS |
 |:-:|:-:|
 | [![New 3DS](/images/new3ds.png)](get-started-(new-3ds)) <br><br> [![New 3DS XL](/images/new3dsxl.png)](get-started-(new-3ds)) | [![Old 3DS](/images/old3ds.png)](get-started-(old-3ds)) &nbsp;&nbsp; [![Old 3DS XL](/images/old3dsxl.png)](get-started-(old-3ds)) <br><br> [![2DS](/images/2ds.png)](get-started-(old-3ds)) |

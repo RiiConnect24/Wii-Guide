@@ -26,6 +26,25 @@ title: "צעדים ראשונים"
 לפני שאתם מתחילים, כדאי לבדוק את כרטיס הזכרון עבור שגיאות באמצעות [H2testw (Windows)](h2testw-(windows)), [F3 (Linux)](f3-(linux)), או [F3X (Mac)](f3x-(mac))!
 {: .notice--warning}
 
+שימו לב שהדרך של [התקנת boot9strap (הלחמה)](installing-boot9strap-(hardmod)) עובדת על *כל הקונסולות, אזורים, וגרסאות*! זה כולל מכשירים מאזורים CHN וTWN שמקודם לא היו ניתנים לפריצה!
+{: .notice--success}
+
+{% capture notice-1 %}
+היו דיווחים על גל של באנים שנינטנדו נתנו למי שפרץ. כדי להגן על עצמכם, תעשו את השלבים הבאים לפני שאתם מתחילים את המדריך:
+
+1. לכו להגדרות, שם אל "Internet Settings", שם "SpotPass", ולבסוף אל "Sending of System Information"
+1. תבטלו את הגדרת "Sending of System Information"
+1. תצאו מהגדרות המערכת
+1. לכו לרשימת החברים שלכם (הפרצוף בחלק העליון של תפריט הבית)
+  + אם אתם מקבלים שגיאה וזה מוציא אתכם מהתפריט, ההגדרה כבר מבוטלת
+1. לכו להגדרות רשימת החברים, שם אל "Friend Notification Settings", ולבסוף אל "Show friends what you're playing"
+1. תבטלו את האפשרות "Show friends what you're playing"
+1. תצאו מרשימת החברים
+
+{% endcapture %}
+
+<div class="notice--danger">{{ notice-1 | markdownify }}</div>
+
 | New 3DS | Old 3DS או 2DS |
 |:-:|:-:|
 | [![New 3DS](/images/new3ds.png)](get-started-(new-3ds)) <br><br> [![New 3DS XL](/images/new3dsxl.png)](get-started-(new-3ds)) | [![Old 3DS](/images/old3ds.png)](get-started-(old-3ds)) &nbsp;&nbsp; [![Old 3DS XL](/images/old3dsxl.png)](get-started-(old-3ds)) <br><br> [![2DS](/images/2ds.png)](get-started-(old-3ds)) |

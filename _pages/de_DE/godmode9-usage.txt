@@ -5,7 +5,7 @@ title: "GodMode9 Usage"
 GodMode9 ist ein Vollzugriffsdateibrowser für die Nintendo 3DS Konsole und gibt dir Zugriff auf deine SD Karte, auf die FAT Partitionen in deinem SysNAND und EmuNAND und im Grunde alles andere auch. Unter anderem kannst du Dateien kopieren, löschen, umbenennen und Ordner erstellen.
 {: .notice--primary}
 
-Note that, on some versions of Luma3DS, the Luma3DS chainloader menu is only displayed if there is more than one payload detected. If there is only one payload detected, holding (Start) on boot will directly launch GodMode9.
+Beachte, dass bei manchen Versionen von Luma3DS das Chainloader-Menü nur angezeigt wird wenn mehr als ein Payload erkannt wird. Wenn nur ein Payload erkannt wird, halte (Start) beim Startvorgang und GodMode9 wird sofort gestartet.
 {: .notice--info}
 
 {% capture notice %}
@@ -194,19 +194,6 @@ Verwende das `Titles`-Menü in FBI, um die Titel-ID des installierten Titel zu e
 1. Drücke nun die (A) taste um den Namen `GM9SD` zu akzeptieren
   + Alternativ kannst du auch einen eigenen Namen für die SD karte aussuchen
 1. Gib die Tastenkombination zur Bestätigung ein, wenn danach verlangt wird
-
-## <a name="payload_chain" /> Chain-Loading eines ARM9 Payloads
-
-#### Anleitung
-
-1. Starte das Gerät, während du beim booten (Start) gedrückt hälst, um den Luma3DS Chainloader anzuzeigen
-1. Starte GodMode9 indem du (A) drückst
-1. Navigiere zu dem ARM9 Payload den du öffnen möchtest.
-    + Eine ARM9 Payload datei endet meist bit `.bit`
-    + Das heißt nicht das andere dateien bit der endung `.bin` ARM9 Payload dateien sind
-    + Einige Beispiele von ARM9 Payloads sind Luma3DS, Decrypt9 und GodMode9
-1. Drücke (A) auf einem ARM9 Payload `.bin` um sie auszuwählen wähle dann "Launch as arm9 Payload"
-1. Wenn angezeigt drücke die Tasten kombination gegeben um den start des ARM9 Payloades zu bestätigen
 
 ## <a name="crypt_cia" /> Entschlüsselung / Verschlüsselung von .CIA dateien
 

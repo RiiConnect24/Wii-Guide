@@ -5,7 +5,7 @@ title: "Installing boot9strap (MSET)"
 If you have already hacked your device before and have a EmuNAND based CFW setup, this guide deals exclusively with SysNAND and you should follow all instructions from within or applying to SysNAND. Merk at EmuNAND og RedNAND refererer til litt forskjellige implementeringer av [det samme konseptet](http://3dbrew.org/wiki/NAND_Redirection).
 {: .notice--info}
 
-To use the [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) links on this page, you will need a torrent client like [Deluge](http://dev.deluge-torrent.org/wiki/Download)
+**For å benytte [magnetlenker](https://en.wikipedia.org/wiki/Magnet_URI_scheme) du finner i veiledningen trenger du en torrentklient som f.eks. [Deluge](http://dev.deluge-torrent.org/wiki/Download)
 {: .notice--success}
 
 #### Det du trenger
@@ -19,13 +19,13 @@ To use the [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) links on th
 
 ##### Seksjon I - Forarbeid
 
-1. Power off your device
+1. Slå av enheten
 1. Sett inn SD-kortet i datamaskinen din
 1. Kopier _innholdet av_ `starter` mappen i `starter.zip` til roten av SD-kortet
 1. Create a folder named `boot9strap` on the root of your SD card
 1. Copy `boot9strap.firm` and `boot9strap.firm.sha` from the boot9strap `.zip` to the `/boot9strap/` folder on your SD card
 1. Copy `SafeB9SInstaller.dat` from the SafeB9SInstaller `.zip` to the root of your SD card
-1. Reinsert your SD card into your device
+1. Sett inn SD-kortet i konsollen igjen
 1. Copy `SafeB9SInstaller.nds` from the SafeB9SInstaller `.zip` to your DS flashcart
 1. Power on your device
 
