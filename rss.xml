@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Mon, 22 May 2017 22:00:15 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 28 May 2017 19:19:19 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/</link>
 		<item>
 			<title>1.0.0_qr.png</title>
@@ -459,6 +459,14 @@
 			<link>magnet:?xt=urn:btih:E3EDB7D7384F2845E54B94098125F1FFFCA13692</link>
 			<pubDate>Mon, 22 May 2017 11:38:31 +0000</pubDate>
 			<enclosure url="magnet:?xt=urn:btih:E3EDB7D7384F2845E54B94098125F1FFFCA13692" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>DSiWare_eur_sudokuhax_injection.zip</title>
+			<description>DSiWare_eur_sudokuhax_injection.zip</description>
+			<guid>1542DD3C2BF7785B1E7A6DDA3887FC8FB2710685</guid>
+			<link>magnet:?xt=urn:btih:1542DD3C2BF7785B1E7A6DDA3887FC8FB2710685</link>
+			<pubDate>Mon, 29 May 2017 00:12:13 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:1542DD3C2BF7785B1E7A6DDA3887FC8FB2710685" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>DSiWare_jpn_4swordshax_injection.zip</title>
