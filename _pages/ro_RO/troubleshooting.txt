@@ -9,7 +9,7 @@ If you are unable to boot your device, please look for the section relevant to y
 **If you still cannot solve your issue and need to reach out for help, please paste the contents of all relevant .log files from the root of your SD card into a [Gist](https://gist.github.com/), then come for help prepared with a detailed description of your problem and what you've tried.**
 {: .notice--info}
 
-To use the [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) links on this page, you will need a torrent client like [Deluge](http://dev.deluge-torrent.org/wiki/Download)
+Pentru a folosi linkurile [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) de pe această pagină, veți avea nevoie de un client de torente ca [Deluge](http://dev.deluge-torrent.org/wiki/Download)
 {: .notice--success}
 
 ## <a name="twl_broken" />DSi / DS functionality is broken after completing the guide
@@ -64,7 +64,7 @@ To use the [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) links on th
 ## <a name="gw_fbi" />Cannot inject H&S on Gateway downgraded device
 This is caused by Gateway implementing a very shoddy downgrade method, which leaves two versions of each app on the system. One of them is unused, but it confuses the H&S inject system, causing it to inject into the wrong one.
 
-Note that, on some versions of Luma3DS, the Luma3DS chainloader menu is only displayed if there is more than one payload detected. If there is only one payload detected, holding (Start) on boot will directly launch GodMode9.
+Țineți minte că, în unele versiuni de Luma3DS, meniul chainloader Luma3DS este afișat doar dacă mai mult de un payload este detectat. Dacă numai un payload este detectat, ținând apăsat (Start) la deschidere se va lansa GodMode9.
 {: .notice--info}
 
 1. Boot your device while holding (Start) to launch the Luma3DS chainloader menu
@@ -150,36 +150,6 @@ Browser based exploits (such as browserhax or 2xrsa) are often unstable and cras
     + Delete both of these files after updating your device
 1. Try following [9.2.0 CTRTransfer](9.2.0-ctrtransfer)
 1. Ask for help at [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp).
-
-## <a name="ts_transfer" />Error during SafeB9SInstaller
-
-If an error occurs during the SafeB9SInstaller process, you will be prompted to launch an external payload for the purpose of repairing your device.
-
-#### Ce îți va trebui
-
-* The latest release of [GodMode9](https://github.com/d0k3/GodMode9/releases/latest)
-
-#### Instrucțiuni
-
-1. Select "Unmount SD card"
-1. Introduceți cardul SD în computer
-1. Copy `GodMode9.bin` from the GodMode9 `.zip` to the `/boot9strap/` folder on your SD card and rename `GodMode9.bin` in `/boot9strap/` to `payload.bin`
-1. Reinsert your SD card into your device
-1. Select "Run 0:/CTRTransfer/payload.bin"
-1. If it was successful, you will have entered GodMode9
-1. Navigate to `[0:] SDCARD` -> `boot9strap`
-1. Press the (L) trigger on `firm0firm1.bak` and `sector0x96.bak` to mark them
-1. Press (Y) to copy the files
-1. Press (B) twice to return to the main menu
-1. Navigate to `[S:] SYSNAND VIRTUAL`
-1. Press (Y) to paste a copy of `firm0firm1.bak` and `sector0x96.bak`
-1. Apăsați (A) pentru a confirma
-1. Press (A) to inject the files
-1. Press (A) to unlock SysNAND overwriting
-1. Input the key combo given to unlock SysNAND (lvl3) writing
-1. Once it has completed, press (A) to continue
-1. Press (Start) to reboot your device
-1. Report this issue to the [SafeB9SInstaller Issues Page](https://github.com/d0k3/SafeB9SInstaller/issues)
 
 ## <a name="ts_sys_blue" />Blue screen on boot (bootrom error)
 
