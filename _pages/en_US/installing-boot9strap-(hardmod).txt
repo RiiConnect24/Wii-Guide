@@ -71,7 +71,7 @@ This will work on New 3DS, Old 3DS, and 2DS on *all* versions that you have a co
   + Windows Users: Run `install-b9s.exe`
   + Mac and Linux Users: Run `install-b9s.py`
 1. Flash your outputted `NAND-patched.bin` to your device with your hardmod
-1. Power on your device
+1. Reboot your device
 
 ##### Section III - Configuring Luma3DS
 
