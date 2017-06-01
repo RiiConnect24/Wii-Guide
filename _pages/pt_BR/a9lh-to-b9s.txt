@@ -1,6 +1,5 @@
 ---
-title: "Atualizando para o B9S" #
-redirect_from: "updating-to-boot9strap"
+title: "Atualizando para o B9S"
 ---
 
 Esta página é para usuários de uma instalção arm9loaderhax pré existente atualizarem seus dispositivos para boot9strap.

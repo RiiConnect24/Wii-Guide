@@ -1,6 +1,5 @@
 ---
-title: "A9LH אל B9S" #
-redirect_from: "updating-to-boot9strap"
+title: "A9LH אל B9S"
 ---
 
 דף זה מיועד למשתמשי arm9loaderhax קיימים לעדכן את מכשיריהם לboot9strap.

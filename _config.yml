@@ -643,3 +643,173 @@ defaults:
       type: pages
     values:
       permalink: /zh_TW/index:output_ext
+  - scope:
+      path: "_pages/af_ZA/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /af_ZA/updating-to-boot9strap
+  - scope:
+      path: "_pages/ar_SA/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /ar_SA/updating-to-boot9strap
+  - scope:
+      path: "_pages/ca_ES/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /ca_ES/updating-to-boot9strap
+  - scope:
+      path: "_pages/cs_CZ/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /cs_CZ/updating-to-boot9strap
+  - scope:
+      path: "_pages/da_DK/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /da_DK/updating-to-boot9strap
+  - scope:
+      path: "_pages/de_DE/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /de_DE/updating-to-boot9strap
+  - scope:
+      path: "_pages/el_GR/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /el_GR/updating-to-boot9strap
+  - scope:
+      path: "_pages/en_PT/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /en_PT/updating-to-boot9strap
+  - scope:
+      path: "_pages/en_US/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /updating-to-boot9strap
+  - scope:
+      path: "_pages/es_ES/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /es_ES/updating-to-boot9strap
+  - scope:
+      path: "_pages/fi_FI/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /fi_FI/updating-to-boot9strap
+  - scope:
+      path: "_pages/fr_FR/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /fr_FR/updating-to-boot9strap
+  - scope:
+      path: "_pages/he_IL/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /he_IL/updating-to-boot9strap
+  - scope:
+      path: "_pages/hu_HU/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /hu_HU/updating-to-boot9strap
+  - scope:
+      path: "_pages/id_ID/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /id_ID/updating-to-boot9strap
+  - scope:
+      path: "_pages/it_IT/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /it_IT/updating-to-boot9strap
+  - scope:
+      path: "_pages/ja_JP/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /ja_JP/updating-to-boot9strap
+  - scope:
+      path: "_pages/ko_KR/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /ko_KR/updating-to-boot9strap
+  - scope:
+      path: "_pages/ms_MY/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /ms_MY/updating-to-boot9strap
+  - scope:
+      path: "_pages/no_NO/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /no_NO/updating-to-boot9strap
+  - scope:
+      path: "_pages/nl_NL/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /nl_NL/updating-to-boot9strap
+  - scope:
+      path: "_pages/pl_PL/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /pl_PL/updating-to-boot9strap
+  - scope:
+      path: "_pages/pt_BR/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /pt_BR/updating-to-boot9strap
+  - scope:
+      path: "_pages/pt_PT/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /pt_PT/updating-to-boot9strap
+  - scope:
+      path: "_pages/ro_RO/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /ro_RO/updating-to-boot9strap
+  - scope:
+      path: "_pages/ru_RU/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /ru_RU/updating-to-boot9strap
+  - scope:
+      path: "_pages/sr_SP/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /sr_SP/updating-to-boot9strap
+  - scope:
+      path: "_pages/sv_SE/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /sv_SE/updating-to-boot9strap
+  - scope:
+      path: "_pages/th_TH/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /th_TH/updating-to-boot9strap
+  - scope:
+      path: "_pages/tr_TR/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /tr_TR/updating-to-boot9strap
+  - scope:
+      path: "_pages/uk_UA/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /uk_UA/updating-to-boot9strap
+  - scope:
+      path: "_pages/vi_VN/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /vi_VN/updating-to-boot9strap
+  - scope:
+      path: "_pages/zh_CN/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /zh_CN/updating-to-boot9strap
+  - scope:
+      path: "_pages/zh_TW/a9lh-to-b9s.txt"
+      type: pages
+    values:
+      redirect_from: /zh_TW/updating-to-boot9strap

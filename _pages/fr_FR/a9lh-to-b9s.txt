@@ -1,6 +1,5 @@
 ---
-title: "Mise à jour vers boot9strap" #
-redirect_from: "updating-to-boot9strap"
+title: "Mise à jour vers boot9strap"
 ---
 
 Cette page est faite pour que les utilisateurs actuels de arm9loaderhax puissent mettre à jour leurs consoles vers boot9strap.

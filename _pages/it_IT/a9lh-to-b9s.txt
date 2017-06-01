@@ -1,6 +1,5 @@
 ---
-title: "Da A9LH a B9S" #
-redirect_from: "updating-to-boot9strap"
+title: "Da A9LH a B9S"
 ---
 
 Questa sezione serve agli utenti di arm9loaderhax che vogliono aggiornare le proprie console a boot9strap.
