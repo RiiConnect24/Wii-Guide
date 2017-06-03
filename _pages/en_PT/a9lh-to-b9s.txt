@@ -11,26 +11,26 @@ All future releases of Luma3DS will only be made in the `.firm` format, which wi
 If you have a PIN enabled on Luma3DS, SafeB9SInstaller will give you an "OTP Crypto Fail" error unless you temporarily disable your PIN (you can re-enable the PIN after the update).
 {: .notice--warning}
 
-To use the [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) links on this page, you will need a torrent client like [Deluge](http://dev.deluge-torrent.org/wiki/Download)
+To be usin' th' [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) links on 'tis page, ye gunna be needin' a torrent client like [Deluge](http://dev.deluge-torrent.org/wiki/Download)
 {: .notice--success}
 
 {% capture notice-1 %}
-There have been reports of a wave of bans being handed out to CFW users by Nintendo. To protect yourself, please do the following steps before starting this guide:
+There have been reports 'o a wave 'o bans bein' handed out to CFW users by Nintendo. Fer ye protection, please be followin' these steps before startin' 'tis guide:
 
-1. Go to System Settings, then "Internet Settings", then "SpotPass", then "Sending of System Information"
-1. Disable the "Sending of System Information" option
-1. Exit the System Settings
-1. Go to your Friend's List (the Face Icon in the top row of your Home Menu)
-  + If you receive an error and are kicked out of the menu, the Friend's List setting is already disabled
-1. Go to the Friend's List settings, then "Friend Notification Settings", then "Show friends what you're playing"
-1. Disable the "Show friends what you're playing" option
-1. Exit your Friend's List
+1. Be off to System Settin's, then "Internet Setttings", then "SpotPass", then "Sending of System Information"
+1. Disable th' "Sending of System Information" option
+1. Be out 'o th' System Settin's
+1. Be off to ye Friend List (th' Face Icon in ye Home Menu's top row)
+  + If ye receive an error 'n be kicked out 'o th' menu, th' Friend List settin' be disabled already
+1. Be off to th' Friend List settin's, then "Friend Notification Settings", then "Show friends what you're playing"
+1. Disable th' "Show friends what you're playing" option
+1. Be out 'o ye Friend List
 
 {% endcapture %}
 
 <div class="notice--danger">{{ notice-1 | markdownify }}</div>
 
-#### What you need
+#### What ye need
 
 Note that the following required file named `secret_sector.bin` is the same one that was found in the various `data_input.zip` file versions. If you already have that file on your disk somewhere, you can use that one instead of downloading the one below.
 {: .notice--info}
@@ -97,7 +97,7 @@ If, before updating to boot9strap, you already had an EmuNAND setup and would li
 1. Reboot holding (Start) during boot to launch the Luma3DS chainloader menu
 1. Launch GodMode9 by pressing (A)
 1. Navigate to `[0:] SDCARD` -> `luma` -> `payloads`
-1. Press (X) on `start_SafeB9SInstaller.bin` to delete it
+1. Press (X) on `start_SafeB9SInstaller.bin` to be deletin' it
 1. Press (A) to confirm
 1. Press (B) to return to `[0:] SDCARD`
 1. Press (Y) on `boot.firm` to copy it
@@ -107,7 +107,7 @@ If, before updating to boot9strap, you already had an EmuNAND setup and would li
 1. Select "Copy path(s)"
 1. Press (A) to unlock SysNAND (lvl1) writing, then input the key combo given
 1. Press (X) on `arm9loaderhax.bin` to delete it
-  + If you do not have this file, just proceed with the instructions
+  + If ye do not have 'tis folder, jus' proceed on wit' th' instructions
 1. Press (A) to confirm
 1. Press (B) to return to the main menu
 1. Navigate to `[0:] SDCARD`
