@@ -17,7 +17,7 @@ Isto funcionará no New 3DS, Old 3DS e 2DS em *todas* as versões em que você t
 #### O que você precisa
 
 * A imagem de sua NAND extraída usando seu [hardmod](https://gbatemp.net/threads/414498/)
-* A versão mais recente do [boot9strap](https://github.com/SciresM/boot9strap/releases/latest) *(boot9strap padrão; não o arquivo `dev`)*
+* The latest release of [boot9strap](https://github.com/SciresM/boot9strap/releases/latest) *(standard boot9strap; not the `dev` file, not the `ntr` file)*
 * A versão mais recente do [hardmod-b9s-installer](https://github.com/ihaveamac/hardmod-b9s-installer/releases/latest)
   + Os usuários de Windows podem usar o compilado `.exe`, enquanto os usuários de Mac e Linux precisarão ter [Python 3](https://www.python.org/downloads/) instalado para executar o `.py`
 * A versão mais recente do [Luma3DS](https://github.com/AuroraWright/Luma3DS/releases/latest) *(o arquivo `.7z`)*
@@ -59,6 +59,7 @@ Isto funcionará no New 3DS, Old 3DS e 2DS em *todas* as versões em que você t
 ##### Seção I - Trabalho Preparatório
 
 1. Copie o `boot.firm` do `.7z` do Luma3DS para a raíz do seu cartão SD
+1. Copie _o conteúdo_ da pasta `starter` no `starter.zip` para a raiz do seu cartão SD
 1. Copie a pasta do hardmod-b9s-installer do `.zip` do hardmod-b9s-Installer para seu computador
 1. Copie o `.firm` baixado para a pasta hardmod-b9s-installer no seu computador
 1. Renomeie o seu `.firm` baixado na pasta hardmod-b9s-installer no seu computador para `current.firm`
