@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Tue, 06 Jun 2017 21:37:30 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 06 Jun 2017 21:43:47 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/</link>
 		<item>
 			<title>1.0.0_qr.png</title>
@@ -619,6 +619,14 @@
 			<link>magnet:?xt=urn:btih:0AF36A594529D4497733A9252AD68219647AFFD3</link>
 			<pubDate>Sun, 20 Nov 2016 04:13:02 +0000</pubDate>
 			<enclosure url="magnet:?xt=urn:btih:0AF36A594529D4497733A9252AD68219647AFFD3" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>SystemUpdater_Manual.pdf</title>
+			<description>SystemUpdater_Manual.pdf</description>
+			<guid>A8F4AEBE74A565D1D8E42A38240CC284D900B5AB</guid>
+			<link>magnet:?xt=urn:btih:A8F4AEBE74A565D1D8E42A38240CC284D900B5AB</link>
+			<pubDate>Wed, 07 Jun 2017 02:33:32 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:A8F4AEBE74A565D1D8E42A38240CC284D900B5AB" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>SystemUpdater_SNAKE-0_23_5-EU.csu</title>
