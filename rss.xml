@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Sun, 28 May 2017 19:19:19 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 06 Jun 2017 21:37:30 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/</link>
 		<item>
 			<title>1.0.0_qr.png</title>
@@ -557,12 +557,60 @@
 			<enclosure url="magnet:?xt=urn:btih:54D19B7FD5387F7D46CFF86EDBBB58737880993C" type="application/x-bittorent" />
 		</item>
 		<item>
+			<title>SystemUpdater_CTR-0_23_5-CN.csu</title>
+			<description>SystemUpdater_CTR-0_23_5-CN.csu</description>
+			<guid>04E8914869A165DB62A05D90BD07ED900430E77C</guid>
+			<link>magnet:?xt=urn:btih:04E8914869A165DB62A05D90BD07ED900430E77C</link>
+			<pubDate>Wed, 07 Jun 2017 02:27:06 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:04E8914869A165DB62A05D90BD07ED900430E77C" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>SystemUpdater_CTR-0_23_5-EU.csu</title>
+			<description>SystemUpdater_CTR-0_23_5-EU.csu</description>
+			<guid>FE993936E5B040F2CA9AE5BDA448D1F48A1EA4C8</guid>
+			<link>magnet:?xt=urn:btih:FE993936E5B040F2CA9AE5BDA448D1F48A1EA4C8</link>
+			<pubDate>Wed, 07 Jun 2017 02:27:30 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:FE993936E5B040F2CA9AE5BDA448D1F48A1EA4C8" type="application/x-bittorent" />
+		</item>
+		<item>
 			<title>SystemUpdater_CTR-0_23_5-EU_cias.zip</title>
 			<description>SystemUpdater_CTR-0_23_5-EU_cias.zip</description>
 			<guid>128BB54D05C4840878C0C868CE30A9DF65F214AB</guid>
 			<link>magnet:?xt=urn:btih:128BB54D05C4840878C0C868CE30A9DF65F214AB</link>
 			<pubDate>Sun, 20 Nov 2016 04:12:54 +0000</pubDate>
 			<enclosure url="magnet:?xt=urn:btih:128BB54D05C4840878C0C868CE30A9DF65F214AB" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>SystemUpdater_CTR-0_23_5-JP.csu</title>
+			<description>SystemUpdater_CTR-0_23_5-JP.csu</description>
+			<guid>144FB211BFC55FEBFAB9447C601A09501F6C91CE</guid>
+			<link>magnet:?xt=urn:btih:144FB211BFC55FEBFAB9447C601A09501F6C91CE</link>
+			<pubDate>Wed, 07 Jun 2017 02:27:43 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:144FB211BFC55FEBFAB9447C601A09501F6C91CE" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>SystemUpdater_CTR-0_23_5-KR.csu</title>
+			<description>SystemUpdater_CTR-0_23_5-KR.csu</description>
+			<guid>2296C7C4B0E7EA6A49493A6F42D4EF2D275BF938</guid>
+			<link>magnet:?xt=urn:btih:2296C7C4B0E7EA6A49493A6F42D4EF2D275BF938</link>
+			<pubDate>Wed, 07 Jun 2017 02:27:56 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:2296C7C4B0E7EA6A49493A6F42D4EF2D275BF938" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>SystemUpdater_CTR-0_23_5-TW.csu</title>
+			<description>SystemUpdater_CTR-0_23_5-TW.csu</description>
+			<guid>83129A4BD9F0485E3F559336C125BD19F7B71D24</guid>
+			<link>magnet:?xt=urn:btih:83129A4BD9F0485E3F559336C125BD19F7B71D24</link>
+			<pubDate>Wed, 07 Jun 2017 02:28:13 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:83129A4BD9F0485E3F559336C125BD19F7B71D24" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>SystemUpdater_CTR-0_23_5-US.csu</title>
+			<description>SystemUpdater_CTR-0_23_5-US.csu</description>
+			<guid>5483048222A6447DCA3E3EF2EA8FDB1BC7E29605</guid>
+			<link>magnet:?xt=urn:btih:5483048222A6447DCA3E3EF2EA8FDB1BC7E29605</link>
+			<pubDate>Wed, 07 Jun 2017 02:28:25 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:5483048222A6447DCA3E3EF2EA8FDB1BC7E29605" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>SystemUpdater_CTR-0_23_5-US_cias.zip</title>
@@ -573,52 +621,12 @@
 			<enclosure url="magnet:?xt=urn:btih:0AF36A594529D4497733A9252AD68219647AFFD3" type="application/x-bittorent" />
 		</item>
 		<item>
-			<title>SystemUpdater_CTR-0_25_3-CN_cias.zip</title>
-			<description>SystemUpdater_CTR-0_25_3-CN_cias.zip</description>
-			<guid>4C0EDC918713D596D0CCD4E6BA4F45937A97F89A</guid>
-			<link>magnet:?xt=urn:btih:4C0EDC918713D596D0CCD4E6BA4F45937A97F89A</link>
-			<pubDate>Sun, 20 Nov 2016 04:13:20 +0000</pubDate>
-			<enclosure url="magnet:?xt=urn:btih:4C0EDC918713D596D0CCD4E6BA4F45937A97F89A" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>SystemUpdater_CTR-0_25_3-EU_cias.zip</title>
-			<description>SystemUpdater_CTR-0_25_3-EU_cias.zip</description>
-			<guid>67C40A7BF19B01A93A595EEBEB9DC684D2B625E4</guid>
-			<link>magnet:?xt=urn:btih:67C40A7BF19B01A93A595EEBEB9DC684D2B625E4</link>
-			<pubDate>Sun, 20 Nov 2016 04:13:36 +0000</pubDate>
-			<enclosure url="magnet:?xt=urn:btih:67C40A7BF19B01A93A595EEBEB9DC684D2B625E4" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>SystemUpdater_CTR-0_25_3-JP_cias.zip</title>
-			<description>SystemUpdater_CTR-0_25_3-JP_cias.zip</description>
-			<guid>E9D2EE50BEF53E0E9C7F1BFEED49475A3D14D426</guid>
-			<link>magnet:?xt=urn:btih:E9D2EE50BEF53E0E9C7F1BFEED49475A3D14D426</link>
-			<pubDate>Sun, 20 Nov 2016 04:13:46 +0000</pubDate>
-			<enclosure url="magnet:?xt=urn:btih:E9D2EE50BEF53E0E9C7F1BFEED49475A3D14D426" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>SystemUpdater_CTR-0_25_3-KR_cias.zip</title>
-			<description>SystemUpdater_CTR-0_25_3-KR_cias.zip</description>
-			<guid>7202AFC7A6EF30F7536FDDABF9DD867553F1BE2E</guid>
-			<link>magnet:?xt=urn:btih:7202AFC7A6EF30F7536FDDABF9DD867553F1BE2E</link>
-			<pubDate>Sun, 20 Nov 2016 04:13:58 +0000</pubDate>
-			<enclosure url="magnet:?xt=urn:btih:7202AFC7A6EF30F7536FDDABF9DD867553F1BE2E" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>SystemUpdater_CTR-0_25_3-TW_cias.zip</title>
-			<description>SystemUpdater_CTR-0_25_3-TW_cias.zip</description>
-			<guid>AA27D8E2F17EB0E20A9084260F5845C2D9C115DC</guid>
-			<link>magnet:?xt=urn:btih:AA27D8E2F17EB0E20A9084260F5845C2D9C115DC</link>
-			<pubDate>Sun, 20 Nov 2016 04:14:05 +0000</pubDate>
-			<enclosure url="magnet:?xt=urn:btih:AA27D8E2F17EB0E20A9084260F5845C2D9C115DC" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>SystemUpdater_CTR-0_25_3-US_cias.zip</title>
-			<description>SystemUpdater_CTR-0_25_3-US_cias.zip</description>
-			<guid>A0239F152985F2F9FF514587CC1E76397283F956</guid>
-			<link>magnet:?xt=urn:btih:A0239F152985F2F9FF514587CC1E76397283F956</link>
-			<pubDate>Sun, 20 Nov 2016 04:14:08 +0000</pubDate>
-			<enclosure url="magnet:?xt=urn:btih:A0239F152985F2F9FF514587CC1E76397283F956" type="application/x-bittorent" />
+			<title>SystemUpdater_SNAKE-0_23_5-EU.csu</title>
+			<description>SystemUpdater_SNAKE-0_23_5-EU.csu</description>
+			<guid>436F48A706C0E18D9706510F06130659D1B46385</guid>
+			<link>magnet:?xt=urn:btih:436F48A706C0E18D9706510F06130659D1B46385</link>
+			<pubDate>Wed, 07 Jun 2017 02:28:44 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:436F48A706C0E18D9706510F06130659D1B46385" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>SystemUpdater_SNAKE-0_23_5-EU_cias.zip</title>
@@ -629,6 +637,14 @@
 			<enclosure url="magnet:?xt=urn:btih:753B24D1C18C749997A455731C4138BC0DB25835" type="application/x-bittorent" />
 		</item>
 		<item>
+			<title>SystemUpdater_SNAKE-0_23_5-JP.csu</title>
+			<description>SystemUpdater_SNAKE-0_23_5-JP.csu</description>
+			<guid>2D227B2911ECC7D921CEA30EBF675B923966C458</guid>
+			<link>magnet:?xt=urn:btih:2D227B2911ECC7D921CEA30EBF675B923966C458</link>
+			<pubDate>Wed, 07 Jun 2017 02:28:56 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:2D227B2911ECC7D921CEA30EBF675B923966C458" type="application/x-bittorent" />
+		</item>
+		<item>
 			<title>SystemUpdater_SNAKE-0_23_5-JP_cias.zip</title>
 			<description>SystemUpdater_SNAKE-0_23_5-JP_cias.zip</description>
 			<guid>0BE6B3C2522E03739C5B1095D82E1B7B6AEF38CD</guid>
@@ -637,44 +653,20 @@
 			<enclosure url="magnet:?xt=urn:btih:0BE6B3C2522E03739C5B1095D82E1B7B6AEF38CD" type="application/x-bittorent" />
 		</item>
 		<item>
+			<title>SystemUpdater_SNAKE-0_23_5-US.csu</title>
+			<description>SystemUpdater_SNAKE-0_23_5-US.csu</description>
+			<guid>76632071A491AB8F113F811AF44B4DD8FBF4513D</guid>
+			<link>magnet:?xt=urn:btih:76632071A491AB8F113F811AF44B4DD8FBF4513D</link>
+			<pubDate>Wed, 07 Jun 2017 02:29:14 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:76632071A491AB8F113F811AF44B4DD8FBF4513D" type="application/x-bittorent" />
+		</item>
+		<item>
 			<title>SystemUpdater_SNAKE-0_23_5-US_cias.zip</title>
 			<description>SystemUpdater_SNAKE-0_23_5-US_cias.zip</description>
 			<guid>F985478FE28EB58B712D215A6B83D9574BE85D3D</guid>
 			<link>magnet:?xt=urn:btih:F985478FE28EB58B712D215A6B83D9574BE85D3D</link>
 			<pubDate>Sun, 20 Nov 2016 04:14:18 +0000</pubDate>
 			<enclosure url="magnet:?xt=urn:btih:F985478FE28EB58B712D215A6B83D9574BE85D3D" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>SystemUpdater_SNAKE-0_25_3-EU_cias.zip</title>
-			<description>SystemUpdater_SNAKE-0_25_3-EU_cias.zip</description>
-			<guid>1342B804D9340D49917FE6A35290F0B1B79B6C32</guid>
-			<link>magnet:?xt=urn:btih:1342B804D9340D49917FE6A35290F0B1B79B6C32</link>
-			<pubDate>Sun, 20 Nov 2016 04:14:24 +0000</pubDate>
-			<enclosure url="magnet:?xt=urn:btih:1342B804D9340D49917FE6A35290F0B1B79B6C32" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>SystemUpdater_SNAKE-0_25_3-JP_cias.zip</title>
-			<description>SystemUpdater_SNAKE-0_25_3-JP_cias.zip</description>
-			<guid>B0376718BD7C83244DD4BF440E3B1E4E2513637A</guid>
-			<link>magnet:?xt=urn:btih:B0376718BD7C83244DD4BF440E3B1E4E2513637A</link>
-			<pubDate>Sun, 20 Nov 2016 04:14:33 +0000</pubDate>
-			<enclosure url="magnet:?xt=urn:btih:B0376718BD7C83244DD4BF440E3B1E4E2513637A" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>SystemUpdater_SNAKE-0_25_3-KR_cias.zip</title>
-			<description>SystemUpdater_SNAKE-0_25_3-KR_cias.zip</description>
-			<guid>63DA48EB7DEA5713C0E3D094CA18D869879FFF6B</guid>
-			<link>magnet:?xt=urn:btih:63DA48EB7DEA5713C0E3D094CA18D869879FFF6B</link>
-			<pubDate>Sun, 20 Nov 2016 04:14:37 +0000</pubDate>
-			<enclosure url="magnet:?xt=urn:btih:63DA48EB7DEA5713C0E3D094CA18D869879FFF6B" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>SystemUpdater_SNAKE-0_25_3-US_cias.zip</title>
-			<description>SystemUpdater_SNAKE-0_25_3-US_cias.zip</description>
-			<guid>D3C4B0083F5E4F093FF3F96E8B396F6ED968FCD6</guid>
-			<link>magnet:?xt=urn:btih:D3C4B0083F5E4F093FF3F96E8B396F6ED968FCD6</link>
-			<pubDate>Sun, 20 Nov 2016 04:14:40 +0000</pubDate>
-			<enclosure url="magnet:?xt=urn:btih:D3C4B0083F5E4F093FF3F96E8B396F6ED968FCD6" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>TWL Version Data - v0.cia</title>
