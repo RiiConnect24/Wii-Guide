@@ -24,23 +24,23 @@ There have been reports of a wave of bans being handed out to CFW users by Ninte
 
 <div class="notice--danger">{{ notice-1 | markdownify }}</div>
 
-#### 你需要
+#### What you need
 
 * The latest release of [Luma3DS](https://github.com/AuroraWright/Luma3DS/releases/latest) *(the `.7z` file)*
 * The latest release of [SafeB9SInstaller](https://github.com/d0k3/SafeB9SInstaller/releases/latest)
 * The latest release of [boot9strap](https://github.com/SciresM/boot9strap/releases/latest) *(standard boot9strap; not the `devkit` file, not the `ntr` file)*
-* 最新版的 [GodMode9](https://github.com/d0k3/GodMode9/releases/latest)
+* The latest release of [GodMode9](https://github.com/d0k3/GodMode9/releases/latest)
 * The latest release of [the Homebrew Launcher](https://github.com/fincs/new-hbmenu/releases/latest)
 
-#### 操作指南
+#### Instructions
 
-##### 第一部分 - 准备工作
+##### Section I - Prep Work
 
 For all steps in this section, overwrite any existing files on your SD card.
 {: .notice--info}
 
 1. Power off your device
-1. 将你的 SD 卡插入到您的计算机
+1. Insert your SD card into your computer
 1. **Leave the old (v7.1) version of Luma3DS (`boot.firm`) as it is. You will update this later.**
 1. Copy `boot.3dsx` to the root of your SD card
 1. Create a folder named `boot9strap` on the root of your SD card
@@ -49,7 +49,7 @@ For all steps in this section, overwrite any existing files on your SD card.
 1. Copy `boot9strap.firm` and `boot9strap.firm.sha` from the boot9strap `.zip` to the `/boot9strap/` folder on your SD card
 1. Reinsert your SD card into your device
 
-##### 第二部分 - 安装 boot9strap
+##### Section II - Installing boot9strap
 
 1. Reboot holding (Start) during boot to launch the Luma3DS chainloader menu
 1. Launch SafeB9SInstaller by pressing (A)
@@ -61,7 +61,7 @@ For all steps in this section, overwrite any existing files on your SD card.
 
 ##### Section III - Updating Luma3DS
 
-1. 将你的 SD 卡插入到您的计算机
+1. Insert your SD card into your computer
 1. Delete the existing `boot.firm` from the root of your SD card
 1. Copy `boot.firm` from the Luma3DS `.7z` to the root of your SD card
 1. Reinsert your SD card into your device
@@ -80,7 +80,7 @@ For all steps in this section, overwrite any existing files on your SD card.
 1. Launch GodMode9 by pressing (A)
 1. Navigate to `[0:] SDCARD` -> `luma` -> `payloads`
 1. Press (X) on `SafeB9SInstaller.firm` to delete it
-1. 按 (A) 确认
+1. Press (A) to confirm
 1. Press (B) to return to `[0:] SDCARD`
 1. Press (Y) on `boot.firm` to copy it
 1. Press (B) to return to the main menu
@@ -90,7 +90,7 @@ For all steps in this section, overwrite any existing files on your SD card.
 1. Press (A) to unlock SysNAND (lvl1) writing, then input the key combo given
 1. Press (X) on `arm9loaderhax.bin` to delete it
   + If you do not have this file, just proceed with the instructions
-1. 按 (A) 确认
+1. Press (A) to confirm
 1. Press (B) to return to the main menu
 1. Navigate to `[0:] SDCARD`
 1. Press (Y) on the `luma` folder to copy it
@@ -99,7 +99,7 @@ For all steps in this section, overwrite any existing files on your SD card.
 1. Navigate to `[1:] SYSNAND CTRNAND` -> `rw`
 1. Press (X) on the existing `luma` folder to delete it
   + If you do not have this folder, just proceed with the instructions
-1. 按 (A) 确认
+1. Press (A) to confirm
 1. Press (Y) to paste a copy of the `luma` folder from your SD card
   + If you only copied `config.bin` and `payloads` earlier, you will need to instead create the `luma` folder manually (hold the (R) trigger and pressing (Y) at the same time, give the name `luma`, then press (A) to confirm), then navigate to `luma`, then press (Y) to paste `config.bin` and `payloads`
 1. Press (Start) to reboot
