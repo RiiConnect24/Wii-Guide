@@ -56,7 +56,7 @@ Durante la guida verranno anche configurate le seguenti applicazioni:
     {: .notice--info}
 
 1. Se la tua console ha la versione di sistema inferiore a 9.0.0, non si avvierà finché non userai una versione compatibile di Luma3DS:
-  + Scarica una [versione precedente di Luma3DS]({{ base_path }}/luma_legacy/cf0b05e/boot.firm)
+  + Scarica una [versione precedente di Luma3DS]({{ base_path }}/luma_legacy/boot.firm)
   + Copia il file `boot.firm` nella directory principale della tua scheda SD *(sovrascrivendo eventualmente qualunque file già presente)*
   + Sostituisci questo file `boot.firm` con quello dell'[ultima versione di Luma3DS](https://github.com/AuroraWright/Luma3DS/releases/latest) dopo aver aggiornato la console seguendo le istruzioni riportate nelle sezioni successive
 1. Se la tua console è ad una versione del software compresa tra 3.0.0 e 4.5.0 (incluse), non si avvierà finché non avrai scaricato manualmente la versione del software richiesta:
