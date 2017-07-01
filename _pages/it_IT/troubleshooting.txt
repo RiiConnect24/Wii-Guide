@@ -122,6 +122,26 @@ Questo tipo di exploit (come browserhax o 2xrsa) è instabile e tende a crashare
     1. Se entri in modalità provvisoria, aggiorna la console
 1. La console potrebbe essere brickata. Se hai bisogno di aiuto, chiedi pure su [Nintendo Homebrew su Discord](https://discord.gg/MWxPgEp) (in inglese)
 
+## <a name="ts_dsiware" />Dopo aver eseguito il Trasferimento DSiWare, il mio DSiWare hackato non funziona
+
+1. Riavvia **il 3DS di partenza** tenendo premuto (Start) per avviare il menu chainloader di Luma3DS
+1. Avvia GodMode9 premendo (A)
+1. Entra nella cartella `[0:] SDCARD` -> `gm9out`
+1. Premi (A) su `nand.bin` per selezionarlo, quindi seleziona "NAND image options...", ed infine seleziona "Restore SysNAND (safe)"
+1. Premi il pulsante (A) per sbloccare la sovrascrittura su SysNAND, quindi inserisci la combinazione di tasti richiesta a schermo
+  + Questo processo non eliminerà boot9strap
+1. Inserisci la combinazione di tasti richiesta a schermo per sbloccare i permessi di scrittura di primo livello su SysNAND
+  + Questo processo durerà un po'
+1. Una volta completato, premi (A) per proseguire
+1. Se non vedi il gioco sul **3DS di destinazione**, collega il NNID con cui hai comprato il gioco al **3DS di destinazione** e riscaricalo
+  + Potresti dover prima eliminare il gioco da "Gestione dati" in "Impostazioni della console"
+  + Se il **3DS di destinazione** non ha l'ultima versione di sistema, potresti aver bisogno di avviare ctr-httpwn per accedere all'eShop
+1. Sul **3DS di partenza**, esegui la procedura di inject del salvataggio (e anche del file `.app` se stai seguendo la pagina relativa)
+1. Sul `3DS di partenza`, vai su Impostazioni della console, "Gestione dati", "DSiWare", quindi copia il tuo gioco DSiWare nella scheda SD
+1. Puoi o inserire la scheda SD del **3DS di partenza** nel **3DS di destinazione**, o rinominare la cartella `Nintendo 3DS` della scheda SD del **3DS di destinazione** e poi copiare la cartella `Nintendo 3DS` dalla scheda SD del **3DS di partenza** nella scheda SD del **3DS di destinazione**
+1. Nel **3DS di destinazione**, vai su Impostazioni della console, "Gestione dati", "DSiWare", quindi copia il tuo gioco DSiWare nella console
+1. Ripristina lo stato iniziale delle schede SD, quindi prosegui con l'Injection DSiWare
+
 ## <a name="ts_sys_b9s" />Schermo nero all'avvio della SysNAND dopo l'installazione di boot9strap
 
 1. Assicurati che il payload funzioni.

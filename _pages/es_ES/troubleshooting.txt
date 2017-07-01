@@ -122,6 +122,26 @@ Los exploits basados en navegador (como browserhax o 2xrsa) son a menudo inestab
     1. Si entras al modo seguro, actualiza tu consola
 1. Tu consola podría estar brickeada. Para soporte, puedes pedir ayuda (*en inglés*) en el [Discord de Nintendo Homebrew](https://discord.gg/MWxPgEp)
 
+## <a name="ts_dsiware" />Después de hacer la transferencia de DSiWare Transfer, mi consola hackeada con DSiWare no funciona
+
+1. Reinicia **la 3DS de origen** manteniendo presionado (Start) para ingresar al menú de selección de payloads de Luma3DS
+1. Inicia GodMode9 presionando (A)
+1. Ve a `[0:] SDCARD` -> `gm9out`
+1. Presiona (A) sobre `nand.bin` para seleccionarlo, luego selecciona "NAND image options…" y luego "Restore SysNAND (safe)"
+1. Presiona (A) para desbloquear la sobreescritura de la SysNAND, luego introduce la combinación de teclas mostrada
+  + Esto no sobreescribirá tu instalación de boot9strap
+1. Ingresa la combinación de teclas mostrada para desbloquear la escritura de la SysNAND (lvl1)
+  + Este proceso tomará algún tiempo
+1. Una vez que haya terminado, presiona (A) para continuar
+1. Si no ves el juego en la **3DS de destino**, pon el NNID con el que compraste el juego en la **3DS de destino** y vuelve a descargarlo
+  + Quizá tengas que eliminar el juego desde "Gestión de datos" en la "Configuración de la consola" primero
+  + Si la **3DS de destino** no está en la última versión, quizá tengas que ejecutar ctr-httpwn para acceder a la eShop
+1. En la **3DS destino** haz los pasos para inyectar el save (y el `.app` si estás usando la página del `.app`)
+1. En la **3DS de origen**, ve a Configuración de la consola, "Gestión de datos", "DSiWare" y copia el juego a la tarjeta SD
+1. Pon la tarjeta SD de la **3DS de origen** en la **3DS de destino**, o renombra la carpeta `Nintendo 3DS` en la tarjeta SD de la **3DS de destino** y copia la carpeta `Nintendo 3DS` de la **3DS de origen** a la tarjeta SD de la **3DS de destino**
+1. En la **3DS de origen**, ve a Configuración de la consola, "Gestión de datos", "DSiWare" y copia el juego al sistema
+1. Deja las tarjetas SD como estaban al principio y continúa con la Inyección de DSiWare
+
 ## <a name="ts_sys_b9s" />Pantalla negra al iniciar la SysNAND luego de instalar boot9strap
 
 1. Asegúrate de tener un payload funcional.
