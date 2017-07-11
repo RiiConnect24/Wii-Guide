@@ -2,13 +2,13 @@
 title: "Installazione di boot9strap (DSiWare)"
 ---
 
-Con la versione del software 11.4.0, ci sono due metodi differenti per installare boot9strap tramite DSiWare.
+Con la versione del software 11.5.0, ci sono due metodi differenti per installare boot9strap tramite DSiWare.
 {: .notice--info}
 
 Uno dei due metodi funziona solo con quattro giochi specifici, non più in vendita sull'eShop, mentre l'altro funziona con determinati giochi ancora presenti.
 {: .notice--info}
 
-Entrambi i metodi richiedono due console. Un 3DS (o 2DS) deve avere un custom firmware (come boot9strap o arm9loaderhax) e sarà riferito come *3DS di partenza*, mentre l'altro 3DS (o 2DS) deve avere versione del software 11.4.0 e sarà riferito come *3DS di destinazione*.
+Entrambi i metodi richiedono due console. Un 3DS (o 2DS) deve avere un custom firmware (come boot9strap o arm9loaderhax) e sarà riferito come *3DS di partenza*, mentre l'altro 3DS (o 2DS) deve avere versione del software 11.5.0 e sarà riferito come *3DS di destinazione*.
 {: .notice--info}
 
 Entrambe le console DEVONO essere della stessa regione.
