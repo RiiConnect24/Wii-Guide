@@ -3,7 +3,7 @@
 # last changed: 20170706
 # author: d0k3
 
-set SUCCESSMSG "SB9SI reverted succesfully"
+set SUCCESSMSG "SB9SI reverted successfully"
 
 # check for boot9strap firm backup
 set ERRORMSG "SB9SI FIRM backup not found"

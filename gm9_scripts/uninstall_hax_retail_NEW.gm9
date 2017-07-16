@@ -4,7 +4,7 @@
 # last changed: 20170716
 # author: d0k3
 
-set SUCCESSMSG "SigHax uninstalled succesfully"
+set SUCCESSMSG "SigHax uninstalled successfully"
 
 # check sector 0x96
 set ERRORMSG "Sector 0x96 is not genuine.\nCan't continue."

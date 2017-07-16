@@ -2,6 +2,8 @@
 # last changed: 20170716
 # author: ihaveamac
 
+set SUCCESSMSG "Luma3DS copied successfully"
+
 ask "This will copy Luma3DS to your CTRNAND,\nallowing for the system to work without\nan SD card.\n\nContinue?"
 
 allow 1:/
