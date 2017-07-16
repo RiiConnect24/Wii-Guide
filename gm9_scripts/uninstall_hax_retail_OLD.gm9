@@ -19,5 +19,8 @@ imgumount
 set ERRORMSG "Sighax not uninstalled.\nNo changes written to the system."
 ask "!!WARNING!!\nThis will remove sighax and\nrevert your system to stock.\n \nProceed?"
 allow S:/nand.bin # same permission level for all firms
+allow 1:/ # for ctrnand file removal
+rm -o -s 1:/boot.firm
+rm -o -s 1:/rw/luma
 cp -n $[NATIVE_FIRM] S:/firm0.bin
 cp -n $[NATIVE_FIRM] S:/firm1.bin
