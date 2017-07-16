@@ -4,7 +4,7 @@
 # last changed: 20170716
 # author: d0k3
 
-set SUCCESSMSG "SigHax uninstalled successfully"
+set SUCCESSMSG "CFW uninstalled successfully"
 
 # grab NATIVE_FIRM out of the NCCH
 set ERRORMSG "NATIVE_FIRM not found.\nIs this a O3DS?"
