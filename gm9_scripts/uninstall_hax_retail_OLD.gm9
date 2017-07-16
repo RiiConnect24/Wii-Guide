@@ -1,7 +1,7 @@
 # SigHax Uninstaller script (reverts from SigHax to stock)
 # This is for retail O3DS units only
 # Not recommended on custom NCSDs(!)
-# last changed: 20170706
+# last changed: 20170716
 # author: d0k3
 
 set SUCCESSMSG "SigHax uninstalled succesfully"
