@@ -53,7 +53,7 @@ Pe parcursul acestui proces, vom instala și programe ca următoarele:
 1. Creați un folder numit `payloads` în folderul `luma` de pe cardul SD
 1. Copiați `GodMode9.firm` de pe arhiva `.zip` GodMode9 în folderul `/luma/payloads/` de pe cardul SD
 1. Copiați folderul `gm9` din fișierul `.zip` GodMode9 pe rădăcina cardului SD
-1. Copy `setup_ctrnand_luma3ds.gm9` to the `/gm9/scripts/` folder on your SD card
+1. Copiați `setup_ctrnand_luma3ds.gm9` în folderul `/gm9/scripts/` de pe cardul SD
 
     ![]({{ base_path }}/images/screenshots/finalizing-setup-file-layout.png)
     {: .notice--info}
@@ -104,11 +104,11 @@ Dacă, înainte să urmăriți acest ghid, aveați deja o configurare cu EmuNAND
 
 1. Deschideți dispozitivul în timp ce țineți apăsat (Start) pentru a lansa meniul chainloader Luma3DS
 1. Lansați GodMode9 apăsând (A)
-1. If you are prompted to create an essential files backup, press (A) to do so, then press (A) to continue once it has completed
+1. Când vi se cere să faceți o copie de rezervă a fișierelor esențiale, apăsați (A) pentru a o realiza, apoi apăsați (A) ca să continuați după ce s-a terminat
 1. Apăsați (Home) pentru a arăta meniul de acțiuni
 1. Selectați "More..."
 1. Selectați "Scripts..."
-1. Select "setup_ctrnand_luma3ds"
+1. Selectaţi "setup_ctrnand_luma3ds"
 1. Când vi se solicită, apăsaţi (A) pentru a continua
 1. Apăsați (A) ca să deblocați scrierea în SysNAND (lvl1), apoi apăsați combinația de butoane care vi se cere
 1. Apăsați (A) pentru a continua
@@ -122,7 +122,7 @@ Dacă, înainte să urmăriți acest ghid, aveați deja o configurare cu EmuNAND
 1. Selectați "Backup SysNAND"
 1. Apăsați (A) pentru a confirma
   + Acest proces va lua ceva timp
-1. Press (A) to continue
+1. Apăsați (A) pentru a continua
 1. Țineți apăsat (R) și apăsați (B) în același timp pentru a scoate cardul SD
 1. Introduceți cardul SD în calculator
 1. Copiati `<serialnumber>_nandmin_###.bin` din folder-ul '/gm9out/' de pe SD card pe o locatie sigura pe calculator-ul dumneavoastra
@@ -143,7 +143,7 @@ Acesta va actualiza doar fișierele Luma3DS de pe cardul SD. Dacă porniți disp
 <div class="notice--info">{{ notice-10 | markdownify }}</div>
 
 {% capture notice-6 %}   
-You will now boot Luma3DS CFW SysNAND by default.    
+Acum veți porni CFW SysNAND Luma3DS în mod implicit.    
 Acum puteți ține apăsat (Select) la pornire pentru a intra în meniul de setări Luma3DS.    
 Puteți ține apăsat (Start) la pornire pentru a lansa meniul chainloader Luma3DS (țineți cont că meniul chainloader Luma3DS este afișat doar dacă mai mult de un payload este detectat).    
 Acum puteți ține apăsat (Start) + (Select) + (X) în timpul pornirii pentru a face dump la bootrom-ul ARM11 (`boot11.bin`), bootrom-ul ARM9 (`boot9.bin`), și OTP-ul unic pentru consolă (`OTP.bin`) în folderul `/boot9strap/` de pe cardul SD (țineți cont că asta nu va crea niciun tip de mesaj).    
