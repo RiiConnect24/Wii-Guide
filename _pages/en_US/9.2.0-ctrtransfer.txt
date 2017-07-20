@@ -11,7 +11,7 @@ To use the [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) links on th
 Note that, on some versions of Luma3DS, the Luma3DS chainloader menu is only displayed if there is more than one payload detected. If there is only one payload detected, holding (Start) on boot will directly launch GodMode9.
 {: .notice--info}
 
-Never format a New 2DS while on a version <11.5.0 or you will be unable to complete initial setup!
+Never format a New 2DS while on a version <11.4.0 or you will be unable to complete initial setup!
 {: .notice--danger}
 
 **You MUST have already installed Luma3DS and boot9strap or arm9loaderhax to use this.**
