@@ -5,7 +5,7 @@ title: "Transférer votre EmuNAND vers votre SysNAND"
 Ceci est une section complémentaire qui vous permettra de déplacer le contenu de votre EmuNAND vers votre CFW SysNAND, puis de supprimer l'ancienne partition EmuNAND. Notez que les termes EmuNAND et RedNAND font référence à des implémentations légèrement différentes du [même concept](http://3dbrew.org/wiki/NAND_Redirection).
 {: .notice--info}
 
-Notez que, sur certaines versions de Luma3DS, le Luma3DS chainloader menu ne s’affiche que s’il n’y a plus d’un payload détecté. Si il n’y a qu’un seul payload détecté, maintenir la touche (Start) au démarrage lancera directement GodMode9.
+Notez que si vous avez n’importe quel autre payload que `GodMode9.firm` dans le dossier `/luma/payloads/` sur votre carte SD, appuyez (Start) au démarrage affiche un "chainloader menu" où vous devrez utiliser le D-Pad et le bouton (A) pour sélectionner "GodMode9" . 
 {: .notice--info}
 
 **Vous devez avoir déjà installé Luma3DS et boot9strap ou arm9loaderhax pour utiliser ceci.**
@@ -32,8 +32,7 @@ Notez que, sur certaines versions de Luma3DS, le Luma3DS chainloader menu ne s�
 SI vous n'avez pas de DSiWares ou de sauvegardes (de DSiwares) auxquels vous tenez, vous pouvez ignorer cette section.
 {: .notice--info}
 
-1. Démarrez la console en maintenant (Start) enfoncé pour accéder au menu de chainloader de Luma3DS
-1. Lancez GodMode9 en appuyant sur (A)
+1. Ouvrez Godmode9 en maintenant (Start) au démarrage
 1. Si vous êtes invité à créer une sauvegarde de fichiers essentiels, appuyez sur (A) pour le faire, puis appuyez sur (A) pour continuer une fois qu’elle a complété
 1. Naviguez vers `[2:] SYSNAND TWLN` -> `title`
 1. Maintenez la touche (R) appuyée et appuyez sur la touche (A) en même temps sur le dossier `00030004`pour le sélectionner, puis choisissez "Copy to 0:/gm9/out"
@@ -65,8 +64,7 @@ Notez que ce n’est pas nécessaire pour tout autre type de jeux Console Virtue
   + Naviguer vers le dossier que vous avez crée pour ce jeu GBA VC
   + Appuyez sur (Y) pour coller `gbavc.sav`
   + Appuyez sur (Start) pour redémarrer votre système
-1. Démarrez la console en maintenant (Start) enfoncé pour accéder au menu de chainloader de Luma3DS
-1. Lancez GodMode9 en appuyant sur (A)
+1. Ouvrez Godmode9 en maintenant (Start) au démarrage
 
 ##### Section IV - Copier votre EmuNAND sur votre SysNAND
 
@@ -117,8 +115,7 @@ Si vous n'avez pas fait de copies de sauvegardes GBA VC, ignorez cette section.
   + Appuyez sur (Y) pour coller `gbavc.sav`
   + Appuyez sur (A) pour confirmer
   + Appuyez sur (Start) pour redémarrer votre système
-1. Démarrez la console en maintenant (Start) enfoncé pour accéder au menu de chainloader de Luma3DS
-1. Lancez GodMode9 en appuyant sur (A)
+1. Ouvrez Godmode9 en maintenant (Start) au démarrage
 
 ##### Section VII - Sauvegarder votre SysNAND
 

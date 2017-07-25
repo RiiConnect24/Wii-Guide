@@ -45,11 +45,10 @@ Pentru a folosi linkurile [magnetice](https://en.wikipedia.org/wiki/Magnet_URI_s
 
 ## <a name="rm_nnid" />Scoaterea NNID-ului fără a formata dispozitivul dumneavoastră
 
-Țineți cont că, în unele versiuni de Luma3DS, meniul chainloader Luma3DS este afișat doar dacă mai mult de un payload este detectat. Dacă numai un payload este detectat, ținând apăsat (Start) la deschidere se va lansa GodMode9.
+Țineți cont că dacă aveți alte payload-uri în afară de `GodMode9.firm` în folderul '/luma/payloads/' de pe cardul SD, apăsând (Start) va lansa un "meniu chainloader" în care va trebui să folosiți D-Pad-ul și butonul (A) ca să selectați "GodMode9" pentru aceste instrucțiuni. 
 {: .notice--info}
 
-1. Deschideți dispozitivul în timp ce țineți apăsat (Start) pentru a lansa meniul chainloader Luma3DS
-1. Lansați GodMode9 apăsând (A)
+1. Lansați GodMode9 ținând apăsat (Start) în timpul pornirii
 1. Navigați către `[1:] SYSNAND CTRNAND` -> `data` ->(ID de 32 de caractere) -> `sysdata` -> `00010038`
 1. Țineți apăsat (R), apoi apăsați (X) pe `00000000` pentru a redenumi fișierul
 1. Apăsați (Sus) odată pentru a schimba numele în `10000000`
@@ -61,11 +60,10 @@ Pentru a folosi linkurile [magnetice](https://en.wikipedia.org/wiki/Magnet_URI_s
 ## <a name="gw_fbi" />Nu se poate injecta H&S dispozitivelor downgradate cu Gateway
 Acest lucru este cauzat de implementarea unei metode slabe de downgradare a Gateway-ului, care lasă două versiuni din fiecare aplicație pe sistem. Una dintre ele nu este utilizată, dar creează confuzii sistemului de injecare H&S, cauzând o injectare greșită.
 
-Țineți minte că, în unele versiuni de Luma3DS, meniul chainloader Luma3DS este afișat doar dacă mai mult de un payload este detectat. Dacă numai un payload este detectat, ținând apăsat (Start) la deschidere se va lansa GodMode9.
+Țineți cont că dacă aveți alte payload-uri în afară de `GodMode9.firm` în folderul '/luma/payloads/' de pe cardul SD, apăsând (Start) va lansa un "meniu chainloader" în care va trebui să folosiți D-Pad-ul și butonul (A) ca să selectați "GodMode9" pentru aceste instrucțiuni. 
 {: .notice--info}
 
-1. Deschideți dispozitivul în timp ce țineți apăsat (Start) pentru a lansa meniul chainloader Luma3DS
-1. Lansați GodMode9 apăsând (A)   
+1. Lansați GodMode9 ținând apăsat (Start) în timpul pornirii
 1. Navigați către `[1:] SYSNAND CTRNAND` -> `title` -> `00040010`
 1. Navigați către folderul pentru dispozitivul și regiunea dumneavoastră:
   + **Old 3DS sau Old 2DS EUR**: `00022300` -> `content`
@@ -114,7 +112,7 @@ Exploit-uri bazate pe browser (cum ar fi browserhax sau 2xrsa) sunt de obicei in
         + Regiunea KOR: Ștergeți `000000A9`
         + Regiunea TWN: Ștergeți `000000B1`
 1. Încercați să porniți fără niciun card de joc introdus (inclusiv flashcart-uri)
-1. Dacă aveți o modare hardware și o copie de rezervă NAND, flash-uiți copia înapoi în SysNAND
+1. Dacă aveți un hardmod și o copie de rezervă NAND, flash-uiți copia înapoi în SysNAND
 1. Încercați să porniți în modul de recuperare și actualizați sistemul
     1. Închideți dispozitivul
     1. Țineți apăsat (L) + (R) + (A) + (Sus)

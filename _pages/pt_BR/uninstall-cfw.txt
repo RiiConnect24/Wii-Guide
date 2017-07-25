@@ -11,7 +11,7 @@ Todos os jogos não assinados (ilegítimos) se tornarão inutilizáveis e podem 
 Isso não afetará seu NNID, qualquer jogo legítimo comprado, ou qualquer save dos jogos comprados.
 {: .notice--info}
 
-Note que, em algumas versões do Luma3DS, o menu do chainloader do Luma3DS só é mostrado se houver mais de um payload detectado. Se houver apenas um payload detectado, segurar (Start) ao inicializar o dispositovo abrirá diretamente o GodMode9.
+Note que se você tem outros arquivos de payload diferentes do `GodMode9.firm` na pasta `/luma/payloads/` do seu cartão SD, segure (Start) durante a inicialização para exibir um "menu de chainloader" onde você terá que utilizar os botões direcionais e o botão (A) para selecionar "GodMode9" para estas instruções. 
 {: .notice--info}
 
 #### O que você precisa
@@ -35,8 +35,7 @@ Note que, em algumas versões do Luma3DS, o menu do chainloader do Luma3DS só �
 
 ##### Seção II - Executando o Script de Desinstalação
 
-1. Inicie seu dispositivo enquanto segura (Start) para iniciar o menu do chainloader do Luma3DS
-1. Inicie o GodMode9 apertando (A)
+1. Inicie o GodMode9 segurando (Start) durante a inicialização
 1. Se você for solicitado para criar um backup de arquivos essenciais, aperte (A) pra fazê-lo, e depois aperte (A) para continuar quando ele for concluído
 1. Aperte (Home) para abrir o menu de ações
 1. Selecione "More..."

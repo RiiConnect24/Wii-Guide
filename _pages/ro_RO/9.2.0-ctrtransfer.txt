@@ -8,7 +8,7 @@ Aceasta este o secțiune suplimentară pentru a instala imaginea CTRTransfer 9.2
 Pentru a folosi linkurile [magnetice](https://en.wikipedia.org/wiki/Magnet_URI_scheme) de pe această pagină, veți avea nevoie de un client de torrente ca [Deluge](http://dev.deluge-torrent.org/wiki/Download)
 {: .notice--success}
 
-Țineți minte că, în unele versiuni de Luma3DS, meniul chainloader Luma3DS este afișat doar dacă mai mult de un payload este detectat. Dacă numai un payload este detectat, ținând apăsat (Start) la deschidere se va lansa GodMode9.
+Țineți cont că dacă aveți alte payload-uri în afară de `GodMode9.firm` în folderul '/luma/payloads/' de pe cardul SD, apăsând (Start) va lansa un "meniu chainloader" în care va trebui să folosiți D-Pad-ul și butonul (A) ca să selectați "GodMode9" pentru aceste instrucțiuni. 
 {: .notice--info}
 
 Niciodată să nu formatați un New 2DS pe o versiune <11.4.0, sau vă va fi imposibil să faceți configurarea inițială!
@@ -48,8 +48,7 @@ Niciodată să nu formatați un New 2DS pe o versiune <11.4.0, sau vă va fi imp
 
 ##### Secțiunea II - CTRTransfer
 
-1. Lansați meniul chainloader Luma3DS ținând apăsat (Start) în timpul pornirii
-1. Lansați GodMode9 apăsând (A)
+1. Lansați GodMode9 ținând apăsat (Start) în timpul pornirii
 1. Când vi se cere să faceți o copie de rezervă a fișierelor esențiale, apăsați (A) pentru a o realiza, apoi apăsați (A) ca să continuați după ce s-a terminat
 1. Navigați spre `[0:] SDCARD` -> `gm9`
 1. Apăsați (A) pe CTRTransfer `.bin` pantru a-l selecta
@@ -109,8 +108,7 @@ Niciodată să nu formatați un New 2DS pe o versiune <11.4.0, sau vă va fi imp
 
 ##### Secțiunea V - Eliminarea imaginii CTRTransfer
 
-1. Reporniți ținând apăsat (Start) în timpul pornirii pentru a lansa meniul chainloader Luma3DS
-1. Lansați GodMode9 apăsând (A)
+1. Lansați GodMode9 ținând apăsat (Start) în timpul pornirii
 1. Navigați spre `[0:] SDCARD` -> `gm9`
 1. Apăsați (X) pe imaginea`.bin` CTRTransfer pentru a o șterge
 1. Apăsați (A) pentru a confirma

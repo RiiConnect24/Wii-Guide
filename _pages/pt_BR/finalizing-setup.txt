@@ -24,7 +24,7 @@ Durante este processo, também configuramos alguns programas como os seguintes:
 
 #### O que você precisa
 
-* A versão mais recente do [Themely](https://github.com/ErmanSayin/Themely/releases/latest) *(o arquivo `.cia`)*
+* The latest release of [Themely](https://github.com/ihaveamac/Themely/releases/latest) *(the `.cia` file)*
 * A versão mais recente do [hblauncher_loader](https://github.com/yellows8/hblauncher_loader/releases/latest)
 * A versão mais recente do [GodMode9](https://github.com/d0k3/GodMode9/releases/latest)
 * A versão mais recente do [DSP1](https://github.com/zoogie/DSP1/releases/latest)
@@ -102,8 +102,7 @@ Se, antes de seguir este guia, você já possuia uma instalação EmuNAND e gost
 
 ##### Seção VI - Luma3DS & CTRNAND
 
-1. Inicie seu dispositivo enquanto segura (Start) para iniciar o menu do chainloader do Luma3DS
-1. Inicie o GodMode9 apertando (A)
+1. Inicie o GodMode9 segurando (Start) durante a inicialização
 1. Se você for solicitado para criar um backup de arquivos essenciais, aperte (A) pra fazê-lo, e depois aperte (A) para continuar quando ele for concluído
 1. Aperte (Home) para abrir o menu de ações
 1. Selecione "More..."

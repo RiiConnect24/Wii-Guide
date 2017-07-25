@@ -24,7 +24,7 @@ The file `boot.firm` is what is launched by boot9strap itself after it finishes 
 
 #### 준비물
 
-* The latest release of [Themely](https://github.com/ErmanSayin/Themely/releases/latest) *(the `.cia` file)*
+* The latest release of [Themely](https://github.com/ihaveamac/Themely/releases/latest) *(the `.cia` file)*
 * 최신 버전의 [hblauncher_loader](https://github.com/yellows8/hblauncher_loader/releases/latest)
 * 최신 버전의 [GodMode9](https://github.com/d0k3/GodMode9/releases/latest)
 * The latest release of [DSP1](https://github.com/zoogie/DSP1/releases/latest)
@@ -102,8 +102,7 @@ If, before following this guide, you already had an EmuNAND setup and would like
 
 ##### Section VI - CTRNAND Luma3DS
 
-1. Boot your device while holding (Start) to launch the Luma3DS chainloader menu
-1. (A)를 눌러 GodMode9을 실행해 주세요.
+1. Launch GodMode9 by holding (Start) during boot
 1. If you are prompted to create an essential files backup, press (A) to do so, then press (A) to continue once it has completed
 1. (Home)을 눌러 작업 메뉴를 띄워 주세요.
 1. "More..."를 선택해 주세요.
