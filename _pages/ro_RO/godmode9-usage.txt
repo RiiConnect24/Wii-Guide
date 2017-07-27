@@ -2,7 +2,7 @@
 title: "Folosind GodMode9"
 ---
 
-GodMode9 este un fişier de browser cu acces complet pentru consola Nintendo 3DS, oferindu-vă acces la cardul SD, partiţii FAT din SysNAND, EmuNAND şi practic orice altceva. Printre alte funcţionalităţi, puteţi copia, şterge, redenumi fişiere şi crea foldere.
+GodMode9 este un fişier de browser cu acces complet pentru dispozitivul Nintendo 3DS, oferindu-vă acces la cardul SD, partiţii FAT din SysNAND, EmuNAND şi practic orice altceva. Printre alte funcţionalităţi, puteţi copia, şterge, redenumi fişiere şi crea foldere.
 {: .notice--primary}
 
 Țineți cont că dacă aveți alte payload-uri în afară de `GodMode9.firm` în folderul '/luma/payloads/' de pe cardul SD, apăsând (Start) va lansa un "meniu chainloader" în care va trebui să folosiți D-Pad-ul și butonul (A) ca să selectați "GodMode9" pentru aceste instrucțiuni. 
@@ -45,7 +45,7 @@ Sistemul de permisiuni de scriere vă protejează prin furnizarea de avertisment
 1. Apăsați (A) pe `.bin`-ul NAND-ului dumneavoastră pentru a-l selecta, apoi selectați "NAND image options...", apoi selectați "Restore SysNAND (safe)"
 1. Apăsați (A) pentru a debloca rescrierea în SysNAND, apoi introduceți combinația de butoane care vi se cere
   + Aceasta nu va suprascrie instalarea boot9strap
-1. Scrieți combinația de butoane pentru a debloca scriera SysNAND (lvl1)
+1. Introduceți combinația de butoane care vi se cere pentru a debloca scrierea în SysNAND (lvl1)
   + Acest proces va lua ceva timp
 1. Odată terminat, apăsați (A) pentru a continua
 1. Apăsați (B) ca să refuzați reblocarea permisiunilor de scriere dacă vi se cere
@@ -63,7 +63,7 @@ Sistemul de permisiuni de scriere vă protejează prin furnizarea de avertisment
 1. Navigați spre `[0:] SDCARD` -> `cias`
 1. Apăsați (A) pe`.cia`-ul vostru pentru a-l selecta, apoi selectați "CIA image options...", apoi selectați "Mount image to drive"
 1. Apăsați (A) pe fișierul `.app`, apoi selectați "NCCH image options", apoi selectați "Inject to H&S"
-1. Apăsați (A) ca să deblocați scrierea în SysNAND (lvl1), apoi apăsați combinația de butoane care vi se cere
+1. Apăsați (A) ca să deblocați scrierea în SysNAND (lvl1), apoi introduceți combinația de butoane care vi se cere
 1. Apăsați (A) pentru a continua
 1. Apăsați (A) ca să reblocați permisiunile de scriere dacă vi se cere
 
@@ -78,7 +78,7 @@ Aceasta va funcţiona doar dacă injectarea Health & Safety a fost efectuată de
 1. Apăsați (Home) pentru a arăta meniul de acțiuni
 1. Selectați "More..."
 1. Selectați "Restore H&S"
-1. Apăsați (A) ca să deblocați scrierea în SysNAND (lvl1), apoi apăsați combinația de butoane care vi se cere
+1. Apăsați (A) ca să deblocați scrierea în SysNAND (lvl1), apoi introduceți combinația de butoane care vi se cere
 1. Apăsați (A) ca să reblocați permisiunile de scriere dacă vi se cere
 
 ## <a name="dump_cart" /> Făcând copie la un card de joc
@@ -151,7 +151,7 @@ Folosiți meniul 'Titles' din FBI ca să luați Title ID-ul titlului instalat ca
   Apăsați (Y) pe 'gbavc.sav' pentru a-l copia
   + Apăsați (B) ca să vă întoarceți în meniul principal
   +Navigați spre '[0:] SDCARD' -> 'gm9'
-  Navigați la folderul care l-ați creat pentru jocul VC GBA
+  Navigați spre folderul care l-ați creat pentru jocul VC GBA
   + Apăsați (Y) ca să lipiți 'gbavc.sav'
   + Apăsați (Start) pentru a reporni dispozitivul
 
@@ -166,7 +166,7 @@ Folosiți meniul 'Titles' din FBI ca să luați Title ID-ul titlului instalat ca
   + Porniți dispozitivul în timp ce țineți apăsat (Start) pentru a lansa meniul chainloader Luma3DS
   + Lansați GodMode9 apăsând (A)
   + Navigați spre `[0:] SDCARD` -> `gm9`
-  Navigați la folderul care l-ați creat pentru jocul VC GBA
+  Navigați spre folderul care l-ați creat pentru jocul VC GBA
   Apăsați (Y) pe 'gbavc.sav' pentru a-l copia
   + Apăsați (B) ca să vă întoarceți în meniul principal
   +Navigați spre '[S:] SYSNAND VIRTUAL'
@@ -190,7 +190,7 @@ Folosiți meniul 'Titles' din FBI ca să luați Title ID-ul titlului instalat ca
 1. Selectaţi "Auto"
 1. Apăsați (A) ca să acceptați eticheta 'GM9SD'
   + Opțional, puteți scrie un nume personalizat cardului SD
-1. Când vi se cere, introduceți combinația de butoane care vi se cere ca să confirmați
+1. Când vi se cere, introduceți combinația de butoane ca să confirmați
 
 ## <a name="crypt_cia" /> Criptarea / Decriptarea unui fișier .CIA
 

@@ -5,7 +5,7 @@ title: "Începeți"
 Această pagină este pentru instrucţiuni despre cum să instalaţi boot9strap pe un 3DS sau 2DS din *stoc*. Dacă aveţi deja arm9loaderhax instalat şi vreți să actualizați către boot9strap, urmaţi [A9LH către B9S](a9lh-to-b9s).
 {: .notice--primary}
 
-Culoarea dispozitivelor din imagine poate varia, dar fiți atent la poziția butoanelor și a caracteristicilor fiecărui dispozitiv ca să aveți grijă că selectați consola corectă.
+Culoarea dispozitivelor din imagine poate varia, dar fiți atent la poziția butoanelor și a caracteristicilor fiecărui dispozitiv ca să aveți grijă că selectați dispozitivul corect.
 {: .notice}
 
 Apăsați pe imaginea dispozitivului dumneavoastră ca să mergeți pe pagina corespunzătoare.
@@ -20,7 +20,7 @@ Dacă v-ați modat deja 3DS-ul înainte și aveți instalat un CFW bazat pe EmuN
 Țineți cont cum capturile de ecran de pe acest ghid pot fi mărite ca să arate mai mult conținut făcând click pe ele.
 {: .notice--info}
 
-Înainte să începeți, utilizatorii de Windows ar trebui să activeze opțiunea de a arăta extensiile de fișier folosind [File Extensions (Windows)](file-extensions-(windows))!
+Înainte să începeți, utilizatorii de Windows ar trebui să activeze opțiunea de a arăta extensiile de fișier folosind [Extensii de fișier (Windows)](file-extensions-(windows))!
 {: .notice--info}
 
 Înainte să începeți, este de dorit să vă verificați cardul SD pentru erori folosind [H2testw (Windows)](h2testw-(windows)), [F3 (Linux)](f3-(linux)), sau [F3X (Mac)](f3x-(mac))!

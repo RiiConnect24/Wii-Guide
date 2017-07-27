@@ -13,7 +13,7 @@ title: "Întrebări frecvente"
 <a name="faq_gatewaysky" />**Î:** *Am auzit că trebuie să plătesc pentru (Gateway, Sky3DS, etc)., am nevoie de așa ceva?*    
 **R:** Nu. boot9strap este o metodă superioară pentru a încărca hax care ruează devreme în timpul pornirii.
 <br><br>
-<a name="faq_gatewaysaves" />**Î:** *Cum mut salvările de pe un Gateway în jocuri instalate pe sistem?*    
+<a name="faq_gatewaysaves" />**Î:** *Cum mut datele de salvare de pe o configurare Gateway în jocuri instalate pe sistem?*    
 **R:** Vedeți [aici](https://gbatemp.net/threads/425743/)
 <br><br>
 <a name="faq_need" />**Î:** *Ce am nevoie pentru a folosi acest ghid?*    
@@ -29,12 +29,12 @@ title: "Întrebări frecvente"
 **R:** Luma3DS suportă patch-urile Region Free, care permit utilizatorilor să instaleze jocuri din orice regiune fără alte modificări în plus.
 <br><br>
 <a name="faq_updates" />**Î:** *Este în regulă să actualizez la CFW SysNAND?*    
-**A:** Da. Este în regulă, nu mai întrebați asta.
+**R:** Da. Este în regulă, nu mai întrebați asta.
 <br><br>
 <a name="faq_support" /> **Î:** *Unde ar trebui să mă duc pentru asistenţă? *    
 **R:** Pentru suport, cereți ajutor la [Nintendo Homebrew pe Discord](https://discord.gg/MWxPgEp).
 <br><br>
-<a name="faq_le4gbsd" />**Î:** *Pot face asta cu un card de 4GB (sau mai mic)?*    
+<a name="faq_le4gbsd" />**Î:** *Pot face asta cu un card SD de 4GB (sau mai mic)?*    
 **R:** Da!
 <br><br>
 <a name="faq_ge128gbsd" />**Î:** *Pot să folosesc un card SD de 128GB (sau mai mare)?*    

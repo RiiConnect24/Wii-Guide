@@ -8,13 +8,13 @@ Aceasta este o secțiune suplimentară pentru a instala imaginea CTRTransfer 9.2
 Pentru a folosi linkurile [magnetice](https://en.wikipedia.org/wiki/Magnet_URI_scheme) de pe această pagină, veți avea nevoie de un client de torrente ca [Deluge](http://dev.deluge-torrent.org/wiki/Download)
 {: .notice--success}
 
-Țineți cont că dacă aveți alte payload-uri în afară de `GodMode9.firm` în folderul '/luma/payloads/' de pe cardul SD, apăsând (Start) va lansa un "meniu chainloader" în care va trebui să folosiți D-Pad-ul și butonul (A) ca să selectați "GodMode9" pentru aceste instrucțiuni. 
+Țineți cont că dacă aveți alte payload-uri în afară de `GodMode9.firm` în folderul `/luma/payloads/` de pe cardul SD, apăsând (Start) va lansa un "meniu chainloader" în care va trebui să folosiți D-Pad-ul și butonul (A) ca să selectați "GodMode9" pentru aceste instrucțiuni. 
 {: .notice--info}
 
 Niciodată să nu formatați un New 2DS pe o versiune <11.4.0, sau vă va fi imposibil să faceți configurarea inițială!
 {: .notice--danger}
 
-** Trebuie să aveți deja instalat Luma3DS şi boot9strap sau arm9loaderhax pentru a-l putea folosi.* *
+**Trebuie să aveți deja instalat Luma3DS şi boot9strap sau arm9loaderhax pentru a-l folosi.**
 {: .notice--danger}
 
 #### Ce aveți nevoie
@@ -38,11 +38,11 @@ Niciodată să nu formatați un New 2DS pe o versiune <11.4.0, sau vă va fi imp
 
 1. Închideți dispozitivul
 1. Introduceți cardul SD în calculator
-1. Creați un folder numit `cias` pe rădăcina cardului SD dacă nu există deja
-1. Copiați `GodMode9.firm` de pe fișierul `.zip` GodMode9 în folderul `/luma/payloads/` de pe cardul SD
-1. Copiați folderul `gm9` de pe fișierul `.zip` GodMode9 pe rădăcina cardului SD
+1. Creați un folder numit `cias` în rădăcina cardului SD dacă nu există deja
+1. Copiați `GodMode9.firm` din arhiva `.zip` GodMode9 în folderul `/luma/payloads/` de pe cardul SD
+1. Copiați folderul `gm9` din arhiva `.zip` GodMode9 în rădăcina cardului SD
 1. Copiați `ctrtransfer_ticket_copy.gm9` în folderul `/gm9/scripts/` de pe cardul SD
-1. Copiați imaginea `.bin` CTRTransfer 9.2.0 de pe fișierul `.zip` CTRTransfer în folderul `/gm9/` de pe cardul SD
+1. Copiați imaginea `.bin` CTRTransfer 9.2.0 din arhiva `.zip` CTRTransfer în folderul `/gm9/` de pe cardul SD
 1. Copiați `FBI.3dsx` în folderul `/3ds/` de pe cardul SD
 1. Reintroduceți cardul SD în dispozitivul dumneavoastră
 
@@ -56,7 +56,7 @@ Niciodată să nu formatați un New 2DS pe o versiune <11.4.0, sau vă va fi imp
 1. Selectați "Transfer image to CTRNAND"
 1. Dacă apare, selectați "Transfer to SysNAND"
   + Această solicitare va apărea doar dacă aveți un EmuNAND
-1. Apăsați (A) ca să deblocați scrierea în SysNAND (lvl1), apoi apăsați combinația de butoane care vi se cere
+1. Apăsați (A) ca să deblocați scrierea în SysNAND (lvl1), apoi introduceți combinația de butoane care vi se cere
   + Acest proces va lua ceva timp
 1. Odată ce transferul este complet, apăsați (A) ca să continuați
 1. Apăsați (B) ca să refuzați reblocarea permisiunilor de scriere dacă vi se cere
@@ -71,7 +71,7 @@ Niciodată să nu formatați un New 2DS pe o versiune <11.4.0, sau vă va fi imp
 1. Apăsați (Start) pentru a reporni dispozitivul
 1. Actualizați dispozitivul mergând în System Settings, apoi "Other Settings", apoi mergeți spre colțul drept și folosiți "System Update"
   + Actualizările în timp ce folosiți B9S + Luma (ce aveți) sunt sigure
-  + Dacă aceasta vă da o eroare, setați DNS-ul pe "auto"
+  + Dacă aceasta vă dă o eroare, setați setările de DNS pe "auto"
 
 ##### Secțiunea III - Lansând FBI
 
@@ -88,7 +88,7 @@ Niciodată să nu formatați un New 2DS pe o versiune <11.4.0, sau vă va fi imp
 
 ##### Secțiunea IV - Reinstalând tichetele
 
-În cazul în care scriptul care nu a gĂsit tichete de utilizator v-a zis să săriți peste această secțiune, atunci faceți cum vi se cere
+În cazul în care scriptul care nu a găsit tichete de utilizator v-a zis să săriți peste această secțiune, atunci faceți cum vi se cere
 {: .notice--info}
 
 1. Lansați FBI din lista de homebrew
@@ -99,9 +99,9 @@ Niciodată să nu formatați un New 2DS pe o versiune <11.4.0, sau vă va fi imp
 1. Selectaţi "ctrtransfer_tickets"
 1. Faceți următorul proces fie pentru folderul `eshop`, `unknown`, sau ambele
   + Navigați spre folder
-  +Selectați "\<current directory>"
+  + Selectați "\<current directory>"
   + Selectați "Install and delete all tickets"
-  +Așteptați. Sistemul poate părea înghețat, doar dați-i timp.
+  + Așteptați. Sistemul poate părea înghețat, doar dați-i timp.
   + Apăsați (A) pentru a confirma
   + Apăsați (B) pentru a refuza instalarea tichetelor din CDN.
 1. Apăsați (Home) pentru a ieși din FBI

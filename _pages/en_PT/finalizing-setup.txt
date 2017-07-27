@@ -1,5 +1,5 @@
 ---
-title: "Finalizing Setup"
+title: "Finalizin' Setup"
 ---
 
 #### Overview 'o steps
@@ -24,7 +24,8 @@ Durin' 'tis process, we also setup programs such as th' followin':
 
 #### What ye need
 
-* The latest release of [Themely](https://github.com/ihaveamac/Themely/releases/latest) *(the `.cia` file)*
+* Th' latest release 'o [Themely](https://github.com/ihaveamac/Themely/releases/latest) *(th' `.cia` file)*
+ 
 * Th' latest release 'o [hblauncher_loader](https://github.com/yellows8/hblauncher_loader/releases/latest)
 * The latest release of [GodMode9](https://github.com/d0k3/GodMode9/releases/latest)
 * The latest release of [DSP1](https://github.com/zoogie/DSP1/releases/latest)
@@ -53,7 +54,8 @@ Durin' 'tis process, we also setup programs such as th' followin':
 1. Create a folder named `payloads` in th' `luma` folder on ye SD card
 1. Copy `GodMode9.firm` from the GodMode9 `.zip` to the `/luma/payloads/` folder on your SD card
 1. Copy the `gm9` folder from the GodMode9 `.zip` to the root of your SD card
-1. Copy `setup_ctrnand_luma3ds.gm9` to the `/gm9/scripts/` folder on your SD card
+1. Copy `setup_ctrnand_luma3ds.gm9` to th' `/gm9/scripts/` folder on ye SD card
+ 
 
     ![]({{ base_path }}/images/screenshots/finalizing-setup-file-layout.png)
     {: .notice--info}
@@ -102,7 +104,7 @@ If, before following this guide, you already had an EmuNAND setup and would like
 
 ##### Section VI - CTRNAND Luma3DS
 
-1. Launch GodMode9 by holding (Start) during boot
+1. Launch GodMode9 by holdin' (Start) durin' boot
 1. If ye be prompted to create an essential files backup, press (A) to do so, then press (A) to continue once it has completed
 1. Press (Home) to bring up the action menu
 1. Select "More..."

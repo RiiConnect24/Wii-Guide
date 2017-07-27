@@ -11,7 +11,7 @@ Orice joc nesemnat (nelegitim) va deveni inutilizabil și poate fi eliminaat man
 Acest lucru nu va afecta NNID-ul, orice joc cumpărat în mod legitim, sau orice date de salvare pentru acele jocuri cumpărate legitim.
 {: .notice--info}
 
-Țineți cont că dacă aveți alte payload-uri în afară de `GodMode9.firm` în folderul '/luma/payloads/' de pe cardul SD, apăsând (Start) va lansa un "meniu chainloader" în care va trebui să folosiți D-Pad-ul și butonul (A) ca să selectați "GodMode9" pentru aceste instrucțiuni. 
+Țineți cont că dacă aveți alte payload-uri în afară de `GodMode9.firm` în folderul `/luma/payloads/` de pe cardul SD, apăsând (Start) va lansa un "meniu chainloader" în care va trebui să folosiți D-Pad-ul și butonul (A) ca să selectați "GodMode9" pentru aceste instrucțiuni. 
 {: .notice--info}
 
 #### Ce aveți nevoie
@@ -28,7 +28,7 @@ Acest lucru nu va afecta NNID-ul, orice joc cumpărat în mod legitim, sau orice
 1. Închideți dispozitivul
 1. Introduceți cardul SD în calculator
 1. Copiați `GodMode9.firm` de pe fișierul `.zip` GodMode9 către folderul `/luma/payloads/` de pe cardul SD
-1. Copiați folderul `gm9` din fișierul `.zip` GodMode9 pe rădăcina cardului SD
+1. Copiați folderul `gm9` din fișierul `.zip` GodMode9 în rădăcina cardului SD
 1. Copiați scriptul de dezinstalare corespunzător dispozitivului dumneavoastră în folderul `/gm9/scripts/` de pe cardul SD
 1. Reintroduceți cardul SD în dispozitivul dumneavoastră
 1. Porniți dispozitivul
@@ -42,7 +42,7 @@ Acest lucru nu va afecta NNID-ul, orice joc cumpărat în mod legitim, sau orice
 1. Selectați "Scripts..."
 1. Selectați scriptul de dezinstalare
 1. Când vi se solicită, apăsaţi (A) pentru a continua
-1. Apăsați (A) ca să deblocați scrierea în SysNAND (lvl3), apoi apăsați combinația de butoane care vi se cere
+1. Apăsați (A) ca să deblocați scrierea în SysNAND (lvl3), apoi introduceți combinația de butoane care vi se cere
 1. Apăsați (A) pentru a continua
 1. Apăsați (A) ca să reblocați permisiunile de scriere
 1. Apăsați (Start) pentru a reporni dispozitivul

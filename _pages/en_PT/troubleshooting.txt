@@ -45,10 +45,13 @@ To use the [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) links on th
 
 ## <a name="rm_nnid" />Removing an NNID without formatting your device
 
-Note that if you have any payload files other than `GodMode9.firm` in the `/luma/payloads/` folder on your SD card, holding (Start) on boot will display a "chainloader menu" where you will have to use the D-Pad and the (A) button to select "GodMode9" for these instructions. 
+Note that if ye have any payload files other than `GodMode9.firm` in th' `/luma/payloads/` folder on ye SD card, holding (Start) on boot gunna display a "chainloader menu" where ye gunna have to use th' D-Pad 'n th' (A) button to select "GodMode9" fer these instructions.
+ 
+Request Context
+ 
 {: .notice--info}
 
-1. Launch GodMode9 by holding (Start) during boot
+1. Launch GodMode9 by holdin' (Start) durin' boot
 1. Navigate to `[1:] SYSNAND CTRNAND` -> `data` -> (32 Character ID) -> `sysdata` -> `00010038`
 1. Hold down the (R) trigger, then press (X) on `00000000` to rename this file
 1. Press (Up) once to change the name to `10000000`
@@ -60,10 +63,13 @@ Note that if you have any payload files other than `GodMode9.firm` in the `/luma
 ## <a name="gw_fbi" />Cannot inject H&S on Gateway downgraded device
 This is caused by Gateway implementing a very shoddy downgrade method, which leaves two versions of each app on the system. One of them is unused, but it confuses the H&S inject system, causing it to inject into the wrong one.
 
-Note that if you have any payload files other than `GodMode9.firm` in the `/luma/payloads/` folder on your SD card, holding (Start) on boot will display a "chainloader menu" where you will have to use the D-Pad and the (A) button to select "GodMode9" for these instructions. 
+Note that if ye have any payload files other than `GodMode9.firm` in th' `/luma/payloads/` folder on ye SD card, holding (Start) on boot gunna display a "chainloader menu" where ye gunna have to use th' D-Pad 'n th' (A) button to select "GodMode9" fer these instructions.
+ 
+Request Context
+ 
 {: .notice--info}
 
-1. Launch GodMode9 by holding (Start) during boot
+1. Launch GodMode9 by holdin' (Start) durin' boot
 1. Navigate to `[1:] SYSNAND CTRNAND` -> `title` -> `00040010`
 1. Navigate to the folder for your device and region:
   + **Old 3DS or Old 2DS EUR**: `00022300` -> `content`
@@ -76,7 +82,7 @@ Note that if you have any payload files other than `GodMode9.firm` in the `/luma
 1. While holding the (R) trigger, press (Y) to create a new directory
 1. Press (A) to confirm the name `newdir` (it does not matter what the folder is called)
 1. Press (A) to unlock SysNAND (lvl1) writing, then input the key combo given
-1. Press (B) to decline relocking write permissions if prompted
+1. Press (B) to decline relockin' write permissions if prompted
 1. Press the (L) trigger on each of the uppercase extension files (`.TMD` and `.APP`) to mark them
 1. Press (Y) to copy the files
 1. Navigate to `newdir`
