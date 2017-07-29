@@ -13,7 +13,6 @@ In diesem Fall verwendest du Luma3DS von [AuroraWright](https://github.com/Auror
 Während dieses Prozesses richtest du auch folgende Programme ein:    
 
 + **FBI** *(installiert Spiele und Anwendungen im CIA-Format)*
-+ **Themely** *(installiert benutzerdefinierte Themes)*
 + **Luma3DS Updater** *(aktualisiert deine CFW Installation)*
 + **GodMode9** *(Multifunktionstool, welches NAND- und Cartridge-Funktionen ausführen kann)*
 + **Homebrew Launcher Loader** *(startet den Homebrew Launcher als normale Anwendung dank Rosalinas Magie)*
@@ -24,7 +23,6 @@ Während dieses Prozesses richtest du auch folgende Programme ein:
 
 #### Was du brauchst
 
-* The latest release of [Themely](https://github.com/ihaveamac/Themely/releases/latest) *(the `.cia` file)*
 * Die neueste Version des [hblauncher_loader](https://github.com/yellows8/hblauncher_loader/releases/latest)
 * Der neueste Version von [GodMode9](https://github.com/d0k3/GodMode9/releases/latest)
 * Die neueste Version von [DSP1](https://github.com/zoogie/DSP1/releases/latest)
@@ -45,7 +43,6 @@ Während dieses Prozesses richtest du auch folgende Programme ein:
 1. Kopiere `lumaupdater.cia` in den `/cias/`-Ordner auf der SD-Karte
 1. Kopiere `FBI.cia` in den `/cias/`Ordner auf der SD-Karte
 1. Kopieren Sie "DSP1.cia" in den/Cias/Ordner auf der SD-Karte
-1. Kopieren Sie "Themely.cia" in den/Cias/Ordner auf der SD-Karte
 
     ![]({{ base_path }}/images/screenshots/cias-file-layout.png)
     {: .notice--info}
@@ -53,7 +50,7 @@ Während dieses Prozesses richtest du auch folgende Programme ein:
 1. Erstelle einen Ordner mit dem Namen `payloads` in dem `luma`-Ordner auf deiner SD-Karte
 1. Kopiere `Godmode9.firm`von der `Godmode9.zip`-Datei nach `/luma/payloads/` auf deiner SD Karte
 1. Kopiere den Ordner `gm9` aus der GodMode9 `.zip` in das Stammverzeichnis deiner SD-Karte
-1. Copy `setup_ctrnand_luma3ds.gm9` to the `/gm9/scripts/` folder on your SD card
+1. Kopiere `setup_ctrnand_luma3ds.gm9` nach `/gm9/scripts/` auf deiner SD-Karte
 
     ![]({{ base_path }}/images/screenshots/finalizing-setup-file-layout.png)
     {: .notice--info}
@@ -102,12 +99,12 @@ Wenn du vor dieser Anleitung bereits einen EmuNAND hattest und dessen Inhalte in
 
 ##### Abschnitt VI - CTRNAND Luma3DS
 
-1. Launch GodMode9 by holding (Start) during boot
+1. Starte GodMode9, indem du während dem Starten deiner Konsole die Taste (Start) gedrückt hältst
 1. Wenn du aufgefordert wirst, ein "essential files backup" durchzuführen, drücke (A). Drücke erneut (A) nachdem es abgeschlossen ist
 1. Drücke  (HOME) um das Aktionsmenü aufzurufen
 1. Wähle "More..."
 1. Wähle "Scripts"
-1. Select "setup_ctrnand_luma3ds"
+1. Wähle "setup_ctrnand_luma3ds"
 1. Drücke (A), wenn du dazu aufgefordert wirst, um fortzufahren
 1. Drücke (A), um die SysNAND (Stufe 1) Bearbeitung zu aktivieren. Dann gebe die angegebene Tastenkombination ein
 1. Drücke (A) um fortzufahren
