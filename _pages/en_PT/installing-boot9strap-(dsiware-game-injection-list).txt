@@ -1,5 +1,5 @@
 ---
-title: "Installing boot9strap (DSiWare Game Injection List)"
+title: "Installin' boot9strap (DSiWare Game Injection List)"
 ---
 
 This is an automatically generated list of all [Installing boot9strap (DSiWare)](installing-boot9strap-(dsiware)) compatible games.
@@ -23,18 +23,18 @@ The size requirements are because the injected DSiWare and its hacked save must 
 
     + USA DSiWare
       + Uses sudokuhax
-      + `.app` size of >= 3,457,024 bytes
-      + `public.sav` size of >= 67,584 bytes
+      + `.app` size 'o >= 3,457,024 bytes
+      + `public.sav` size 'o >= 67,584 bytes
 
     + EUR DSiWare
       + Uses sudokuhax
-      + `.app` size of >= 3,563,520 bytes
+      + `.app` size 'o >= 3,563,520 bytes
       + `public.sav` size 'o >= 65,536 bytes
 
     + JPN DSiWare
       + Uses 4swordshax
-      + `.app` size of >= 14,131,200 bytes
-      + `public.sav` size of == 16,384 bytes
+      + `.app` size 'o >= 14,131,200 bytes
+      + `public.sav` size 'o == 16,384 bytes
       + If `public.sav` is not exactly 16KB, 4swords will delete it
 
 {% endcapture %}

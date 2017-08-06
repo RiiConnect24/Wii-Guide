@@ -21,7 +21,7 @@ This will work on New 3DS, New 2DS, Old 3DS, and Old 2DS on *all* versions that 
 * The latest version of [hardmod-b9s-installer](https://github.com/ihaveamac/hardmod-b9s-installer/releases/latest)
   + Windows users can use the compiled `.exe`, while Mac and Linux users will need to have [Python 3](https://www.python.org/downloads/) installed to run the `.py`
 * Luma3DS:n [viimeisin julkaisu](https://github.com/AuroraWright/Luma3DS/releases/latest) *(`.7z`-tiedosto)*
-* Homebrew-[aloituspakkaus](http://smealum.github.io/ninjhax2/starter.zip)
+* The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
 * The `.firm` corresponding to your device and version:
 
 | Version(s) | Kernel | Old 3DS or Old 2DS | New 3DS or New 2DS |
@@ -59,7 +59,7 @@ This will work on New 3DS, New 2DS, Old 3DS, and Old 2DS on *all* versions that 
 
 ##### Vaihe I – Valmistelut
 
-1. Copy `boot.firm` from the Luma3DS `.7z` to the root of your SD card
+1. Kopioi Luma3DS-`.7z`-pakkauksesta `boot.firm` SD-korttisi juureen
 1. Copy _the contents of_ `starter.zip` to the root of your SD card
 1. Copy the hardmod-b9s-installer folder from the hardmod-b9s-installer `.zip` to your computer
 1. Copy your downloaded `.firm` to the hardmod-b9s-installer folder on your computer
@@ -67,13 +67,13 @@ This will work on New 3DS, New 2DS, Old 3DS, and Old 2DS on *all* versions that 
 1. Copy `boot9strap.firm` and `boot9strap.firm.sha` from the boot9strap `.zip` to the hardmod-b9s-installer folder on your computer
 1. Copy your NAND dump (from your hardmod) to the hardmod-b9s-installer folder on your computer and name it `NAND.bin`
 
-##### Section II - Installing boot9strap
+##### Vaihe II – Boot9strapin asentaminen
 
 1. Run hardmod-b9s-installer
   + Windows Users: Run `install-b9s.exe`
   + Mac and Linux Users: Run `install-b9s.py`
 1. Flash your outputted `NAND-patched.bin` to your device with your hardmod
-1. Reboot your device
+1. Käynnistä konsolisi uudelleen
 
 ##### Vaihe III – Luma3DS:n määrittäminen
 
@@ -86,5 +86,5 @@ This will work on New 3DS, New 2DS, Old 3DS, and Old 2DS on *all* versions that 
 
 ___
 
-Continue to [Finalizing Setup](finalizing-setup)
+Jatka osioon [Asennuksen viimeistely](finalizing-setup)
 {: .notice--primary}

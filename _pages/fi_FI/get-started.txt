@@ -1,8 +1,8 @@
 ---
-title: "Get Started"
+title: "Aloitus"
 ---
 
-This page is for instructions on how to install boot9strap to a *stock* 3DS or 2DS. If you already have arm9loaderhax installed and are looking to update to boot9strap, follow [A9LH to B9S](a9lh-to-b9s).
+Tämä sivu ohjeistaa boot9strapin asentamisen *muokkaamattomaan* 3DS:ään tai 2DS:ään. Jos sinulla on jo arm9loaderhax ja aiot päivittää sen boot9strapiin, seuraa osiota [A9LH → B9S](a9lh-to-b9s).
 {: .notice--primary}
 
 Konsolien väritykset saattavat vaihdella, mutta kiinnitä huomiota painikkeiden sijaintiin sekä eri mallien ominaisuuksiin, jotta valitset varmasti oikean mallin.
@@ -11,10 +11,10 @@ Konsolien väritykset saattavat vaihdella, mutta kiinnitä huomiota painikkeiden
 Napsauta konsolisi kuvaa päätyäksesi oikealle sivulle.
 {: .notice--primary}
 
-Different device models, versions, and regions will require different steps to achieve the end goal of boot9strap Custom Firmware. Tämä sivu opastaa sinut konsolillesi sopivaan aloituskohtaan.
+Eri laitemallit, versiot ja alueet edellyttävät erilaisen prosessin saavuttaaksesi boot9strap-käyttöisen mukautetun laiteohjelmiston. Tämä sivu opastaa sinut konsolillesi sopivaan aloituskohtaan.
 {: .notice--info}
 
-Jos olet jo aikaisemmin hakkeroinut 3DS-konsolisi, ja sinulla on EmuNAND-pohjainen CFW-kokoonpano, seuraa vain kaikkia ohjeita ollessasi SysNANDissa. Your data will be transfered from EmuNAND to your new B9S install at the end.
+Jos olet jo aikaisemmin hakkeroinut 3DS-konsolisi, ja sinulla on EmuNAND-pohjainen CFW-kokoonpano, seuraa vain kaikkia ohjeita ollessasi SysNANDissa. Tietosi tullaan siirtämään EmuNANDista uuteen B9S-asennukseesi lopussa.
 {: .notice--info}
 
 Huomaa, että voit laajentaa oppaassa käytettyjä kuvankaappaksia napsauttamalla niiden päällä.
@@ -26,20 +26,20 @@ Ennen aloittamista Windows-käyttäjien kannattaa asettaa tiedostotunnisteiden n
 Ennen aloittamista kannattaa tarkistaa SD-korttisi virheiden varalta käyttäen jotakin seuraavista ohjelmista: [H2testw (Windows)](h2testw-(windows)), [F3 (Linux)](f3-(linux)), tai [F3X (Mac)](f3x-(mac))!
 {: .notice--warning}
 
-Note that the new [ntrboothax](installing-boot9strap-(ntrboothax)) and [hardmod](installing-boot9strap-(hardmod)) methods work on *all devices, regions, and versions*! This includes CHN and TWN region devices that were previously unhackable!
+Huomaa, että uudet [ntrboothax](installing-boot9strap-(ntrboothax))- ja [laitteistomodaus](installing-boot9strap-(hardmod))menetelmät toimivat *kaikilla malleilla, alueilla ja versioilla*! Tähän lukeutuu myös CHN- ja TWN-alueiden konsolit, jotka eivät aikaisemmin olleet hakkeroitavissa!
 {: .notice--success}
 
 {% capture notice-1 %}
-There have been reports of a wave of bans being handed out to CFW users by Nintendo. To protect yourself, please do the following steps before starting this guide:
+On käynyt ilmi, että Nintendo jakaa CFW-käyttäjille porttikieltoja verkkotoimintoihinsa. Välttyäksesi tältä tee seuraavat toimet ennen aloittamista:
 
-1. Go to System Settings, then "Internet Settings", then "SpotPass", then "Sending of System Information"
-1. Disable the "Sending of System Information" option
-1. Exit the System Settings
-1. Go to your Friend's List (the Face Icon in the top row of your Home Menu)
-  + If you receive an error and are kicked out of the menu, the Friend's List setting is already disabled
-1. Go to the Friend's List settings, then "Friend Notification Settings", then "Show friends what you're playing"
-1. Disable the "Show friends what you're playing" option
-1. Exit your Friend's List
+1. Mene järjestelmäasetuksiin (System Settings), valitse verkkoasetukset (Internet Settings), sitten "SpotPass" ja sitten järjestelmätietojen lähetys (Sending of System Information)
+1. Ota järjestelmätietojen lähetys pois käytöstä
+1. Poistu järjestelmäasetuksista
+1. Mene kaverilistaan (naamakuvake HOME-valikon ylärivillä)
+  + Jos saat virheilmoituksen etkä pääse kaverilistaan, asetus on jo pois käytöstä
+1. Mene kaverilistan asetuksiin, valitse "Friend Notification Settings" ja sitten "Show friends what you're playing"
+1. Ota "Show friends what you're playing" -asetus pois käytöstä
+1. Poistu kaverilistasta
 
 {% endcapture %}
 
@@ -52,8 +52,8 @@ There have been reports of a wave of bans being handed out to CFW users by Ninte
   </colgroup>
   <thead>
     <tr>
-      <th style="text-align: center">New 3DS or New 2DS</th>
-      <th style="text-align: center">Old 3DS or Old 2DS</th>
+      <th style="text-align: center">New 3DS tai New 2DS</th>
+      <th style="text-align: center">Vanha 3DS tai vanha 2DS</th>
     </tr>
   </thead>
   <tbody>

@@ -2,7 +2,7 @@
 title: "Installing boot9strap (DSiWare Game Injection)"
 ---
 
-Note that if you have any payload files other than `GodMode9.firm` in the `/luma/payloads/` folder on your SD card, holding (Start) on boot will display a "chainloader menu" where you will have to use the D-Pad and the (A) button to select "GodMode9" for these instructions. 
+Huomaa, että jos sinulla on muita käynnistystiedostoja kuin `GodMode9.firm` SD-korttisi `/luma/payloads`-kansiossa, (START)-painikkeen pohjassa pitäminen käynnistyksen aikana avaa "ketjulatausvalikon", jossa sinun on käytettävä ristiohjainta ja (A):ta avataksesi GodMode9:n näitä ohjeita varten. 
 {: .notice--info}
 
 **Käyttääksesi tällä sivulla olevia [magneetti](https://en.wikipedia.org/wiki/Magnet_URI_scheme)linkkejä tarvitset torrent-ohjelman, kuten [Deluge](http://dev.deluge-torrent.org/wiki/Download)n**
@@ -27,7 +27,7 @@ Before proceeding, ensure you have read all of the notices and warnings on [Inst
 * The latest release of [b9sTool](https://github.com/Plailect/b9sTool/releases/latest)
 * The latest release of [boot9strap](https://github.com/SciresM/boot9strap/releases/latest) *(standard boot9strap; not the `devkit` file, not the `ntr` file)*
 * Luma3DS:n [viimeisin julkaisu](https://github.com/AuroraWright/Luma3DS/releases/latest) *(`.7z`-tiedosto)*
-* Homebrew-[aloituspakkaus](http://smealum.github.io/ninjhax2/starter.zip)
+* The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
 * The 11.4.0 / 11.5.0 (both versions have the same FIRM version) `.firm` corresponding to **the target 3DS**:
   + [`2.54-0_11.4_OLD.firm`](magnet:?xt=urn:btih:0dd89d42ad711f770da899af05ee162ede0d0070&dn=2.54-0_11.4_OLD.firm&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce)
   + [`2.54-0_11.4_NEW.firm`](magnet:?xt=urn:btih:3b59dd43eec3edb133555f58d1180bfb196acbb4&dn=2.54-0_11.4_NEW.firm&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce)
@@ -49,7 +49,7 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 1. Boot **the source 3DS** while holding (Start) to launch GodMode9
 1. Paina (HOME)-painiketta näyttääksesi toimintovalikon
 1. Valitse "More..."
-1. Select "Scripts..."
+1. Valitse "Scripts..."
 1. Select "Backup SysNAND"
 1. Paina (A):ta vahvistaaksesi
   + Tämä proessi kestää jonkin aikaa
@@ -86,7 +86,7 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 1. Press (Y) on the file(s) in the `savedata` folder to copy them
   + If there is a `savedata` folder inside of the `savedata` folder, it is not by mistake. You should copy the second `savedata` folder, not the files inside of that.
 1. Press (B) to go back to the main menu
-1. Navigate to `FAT IMAGE`
+1. Navigate to `[7:] FAT IMAGE`
 1. Use the (X) button to delete everything inside of `FAT IMAGE`
 1. Press (Y) to paste a copy of **the contents of** the `savedata` folder to `FAT IMAGE`
 1. Valitse "Copy path(s)"
@@ -135,7 +135,7 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 
 ##### Section V - Backing up the target 3DS's FIRM
 
-1. Copy `boot.firm` from the Luma3DS `.7z` to the root of your SD card
+1. Kopioi Luma3DS-`.7z`-pakkauksesta `boot.firm` SD-korttisi juureen
 1. Copy `boot.nds` to the root of **the target 3DS**'s SD card
 1. Copy _the contents of_ `starter.zip` to the root of **the target 3DS**'s SD card
 1. Create a folder named `boot9strap` on the root of **the target 3DS**'s SD card
@@ -170,5 +170,5 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 
 ___
 
-Continue to [Finalizing Setup](finalizing-setup)
+Jatka osioon [Asennuksen viimeistely](finalizing-setup)
 {: .notice--primary}

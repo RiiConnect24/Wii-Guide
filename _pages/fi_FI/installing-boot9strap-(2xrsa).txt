@@ -39,8 +39,8 @@ title: "Installing boot9strap (2xrsa)"
 
 ##### Section III - Installing boot9strap
 
-1. Wait for all safety checks to complete
-1. When prompted, input the key combo given to install boot9strap
+1. Odota, kunnes kaikki turvatarkistukset on suoritettu
+1. Syötä kehotettaessa annettu painikeyhdistelmä asentaaksesi boot9strapin
 1. Once it has completed, press (A) to reboot your device
 
 ##### Section IV - Configuring Luma3DS
@@ -57,5 +57,5 @@ ___
 Note that *New 3DS* users who ended up on 2.1.0 after a CTRTransfer *must* [restore their NAND backup](godmode9-usage#nand_restore) between "Section II - Configuring Luma3DS" and "Section III - Updating the System" of [Finalizing Setup](finalizing-setup).
 {: .notice--danger}
 
-Continue to [Finalizing Setup](finalizing-setup)
+Jatka osioon [Asennuksen viimeistely](finalizing-setup)
 {: .notice--primary}
