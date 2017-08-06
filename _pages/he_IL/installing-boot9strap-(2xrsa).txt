@@ -54,7 +54,7 @@ title: "התקנת boot9strap (2xrsa)"
 
 ___
 
-שימו לב שמשתמשי *New 3DS* שהגיעו ל2.1.0 אחרי שנמוך *חייבים* [לשחזר את הגיבוי שלהם](godmode9-usage#nand_restore) בין "חלק 2 - הגדרת Luma3DS" ו"חלק 3 - עדכון המערכת" של [סיום התהליך](finalizing-setup).
+שימו לב שמשתמשי *New 3DS* שהגיעו ל2.1.0 אחרי שנמוך *חייבים* [לשחזר את הגיבוי שלהם](godmode9-usage#nand_restore) לפני שהם הולכים לעמוד [סיום התהליך](finalizing-setup).
 {: .notice--danger}
 
 תמשיכו ל[סיום התהליך](finalizing-setup)

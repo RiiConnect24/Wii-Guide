@@ -49,7 +49,7 @@ Huomaa, että tämä ei ole tarpeellista muille Virtual Console -peleille (GBC, 
 
 1. Pidä (R):ää pohjassa ja paina samalla (START)-painiketta sammuttaaksesi konsolisi
 1. Aseta SD-korttisi tietokoneeseesi
-1. Create a folder in `/gm9/` for each GBA VC game that you want to backup the save for 
+1. Luo kansio `/gm9/`-hakemistoon jokaista GBA VC -peliä kohden, jonka tallennuksen haluat varmuuskopioida 
 1. Aseta SD-korttisi takaisin konsoliisi
 1. Käynnistä laitteesi SysNANDiin
 1. Tee seuraava prosessi jokaista GBA VC -peliä kohden, jonka tallennuksen haluat varmuuskopioida:
@@ -60,7 +60,7 @@ Huomaa, että tämä ei ole tarpeellista muille Virtual Console -peleille (GBC, 
   + Mene hakemistoon `[S:] SYSNAND VIRTUAL`
   + Paina (Y):tä `gbavc.sav`-tiedoston kohdalla kopioidaksesi sen
   + Paina (B):tä palataksesi päävalikkoon
-  + Navigate to `[0:] SDCARD` -> `gm9`
+  + Mene hakemistoon `[0:] SDCARD` → `gm9`
   + Mene hakemistoon, jonka loit tälle pelille
   + Paina (Y):tä liittääksesi `gbavc.sav`-tiedoston
   + Paina (START)-painiketta käynnistääksesi uudelleen
@@ -107,7 +107,7 @@ Jos et varmuuskopioinut GBA VC -tallennuksia aiemmin, voit ohittaa tämän osion
   + Sulje peli
   + Avaa Luma3DS:n ketjulatausvalikko pitämällä (START)-painiketta pohjassa käynnistyksen aikana
   + Avaa GodMode9 painamalla (A):ta
-  + Navigate to `[0:] SDCARD` -> `gm9`
+  + Mene hakemistoon `[0:] SDCARD` → `gm9`
   + Mene hakemistoon, jonka loit tälle pelille
   + Paina (Y):tä `gbavc.sav`-tiedoston kohdalla kopioidaksesi sen
   + Paina (B):tä palataksesi päävalikkoon

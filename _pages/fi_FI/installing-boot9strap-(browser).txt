@@ -39,22 +39,22 @@ Jos olet jo hakkeroinut konsolisi aikaisemmin, ja sinulla on EmuNAND-pohjainen C
   + `http://dukesrg.dynu.net/3ds/rop?GW17567.dat&Launcher.dat`
   + Kokeile muita osoitteita, jos ensimmäinen ei toimi (joillakin versioilla ensimmäinen ei toimi, ja joillakin taas loput kolme eivät toimi)
   + Jos saat virheen, [seuraa tätä vianmääritysohjetta](troubleshooting#ts_browser)
-1. If the exploit was successful, you will have booted into SafeB9SInstaller
+1. Jos haavoittuvuuden hyödyntäminen onnistui, SafeB9SInstallerin pitäisi avautua
 
-##### Section III - Installing boot9strap
+##### Section III – boot9strapin asentaminen
 
 1. Odota, kunnes kaikki turvatarkistukset on suoritettu
 1. Syötä kehotettaessa annettu painikeyhdistelmä asentaaksesi boot9strapin
 1. Once it has completed, press (A) to reboot your device
 
-##### Section IV - Configuring Luma3DS
+##### Vaihe IV – Luma3DS:n määrittäminen
 
-1. Your device should have rebooted into the Luma3DS configuration menu
-  + If you get a black screen, [follow this troubleshooting guide](troubleshooting#ts_sys_b9s)
-1. Use the (A) button and the D-Pad to turn on the following:    
+1. Konsolisi pitäisi uudelleenkäynnistyä suoraan Luma3DS:n määritysvalikkoon
+  + Jos saat mustan ruudun, [seuraa tätä vianmääritysohjetta](troubleshooting#ts_sys_b9s)
+1. Käytä (A):ta ja ristiohjainta ottaaksesi seuraavat asetukset käyttöön:    
   + **"Show NAND or user string in System Settings"**
 1. Paina (START)-painiketta tallentaaksesi ja käynnistääksesi uudelleen
-  + If you get an error, just continue the next page
+  + Jos saat virheen, jatka vain seuraavalle sivulle
 
 ___
 

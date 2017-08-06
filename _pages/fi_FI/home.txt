@@ -8,7 +8,7 @@ header:
   cta_label: "Aloita" #
   cta_url: "/fi_FI/get-started" #
   caption:
-excerpt: "A complete guide to 3DS custom firmware, <br /> from stock to boot9strap.<br />"
+excerpt: "Perusteellinen opas 3DS:n mukautettuun laiteohjelmistoon, <br /> vakio-ohjelmistosta boot9strapiin.<br />"
 ---
 
 {% capture notice-home %}
@@ -37,20 +37,20 @@ In most cases, running homebrew on your device is 100% free using [just the Nint
 
 **Mukautettu laiteohjelmisto** (engl. custom firmware, "CFW") sallii kehittyneempiä hackejä, joihin ei käyttäjätilan homebrew'lla pysty. Esimerkkinä allekirjoitusten paikkaaminen, joka sallii sinun asentaa allekirjoittamattomia sovelluksia, jotka ilmestyvät suoraan HOME-valikkoosi.
 
-CFW can be easily set up on any console that is on 11.5.0 or lower.
+CFW:n voi asentaa mille tahansa konsolille, jonka versio on 11.5.0 tai vanhempi.
 
 ## Mitä tässä oppaassa asennetaan?
 
 Tämän oppaan lopputavoitteena on saada täysin muokkaamaton 3DS vakiolaiteohjelmistosta
-firmware to boot9strap powered Custom Firmware. Joissain oppaan versioissa homebrew'ta hyödynnetään lähtökohtana, mutta mukautettu laiteohjelmisto on silti lopputavoitteena.
+boot9strap-käyttöiseen mukautettuun laiteohjelmistoon. Joissain oppaan versioissa homebrew'ta hyödynnetään lähtökohtana, mutta mukautettu laiteohjelmisto on silti lopputavoitteena.
 
-boot9strap is the newest and best method of launching Custom Firmware that gives us nearly full control of the system only milliseconds into boot, which is similar to the effect of BootMii for the Wii. It gives us even earlier control than arm9loaderhax did, and, unlike standard sighax, boot9strap uses an NDMA overwrite exploit in order to gain Boot9 code execution. This means that any console running boot9strap is capable of dumping the console unique OTP (`OTP.bin`), the ARM11 bootrom (`boot11.bin`), and the ARM9 bootrom (`boot9.bin`).
+boot9strap on uusin sekä paras tapa käynnistää mukautettu laiteohjelmisto, joka antaa lähes täydet oikeudet järjestelmään vain millisekuntien viiveellä käynnistyksessä, samaan tapaan kuin BootMii-ohjelma Wiillä. Se sallii vielä aikaisemman hallinnan kuin arm9loaderhax, ja toisin kuin tavallinen sighax, boot9strap käyttää NDMA-ylikirjoitusmenetelmää saadakseen oikeuden koodin suorittamiseen Boot9:ssä. Tämä tarkoittaa sitä, että millä tahansa boot9strap-asennuksen omaavalla konsolilla pystyy kopioimaan konsolikohtaisen OTP:n (`OTP.bin`), ARM11-bootromin (`boot11.bin`) sekä ARM9-bootromin (`boot9.bin`).
 
-The benefits of boot9strap over other Custom Firmware launch methods are numerous, and as such it is recommended to use this guide over any other that relies on outdated software (such as menuhax + rxTools, arm9loaderhax, or even normal sighax).
+boot9strapin hyödyt verrattuna muihin käynnistystapoihin ovat lukuisat, minkä takia tämän oppaan käyttöä suositellaan muiden, vanhentuneisiin ratkaisuihin (kuten menuhax + rxTools, arm9loaderhax ja jopa tavallinen sighax) perustuvien oppaiden sijasta.
 
-For information on how boot9strap works, please see [this presentation](https://sciresm.github.io/33-and-a-half-c3/) by [SciresM](https://github.com/SciresM/).
+Tietoja boot9strapin toiminnasta löydät [SciresM](https://github.com/SciresM/):n [esityksestä](https://sciresm.github.io/33-and-a-half-c3/).
 
-For a list of each of the calculated sighax signatures (the platform boot9strap is built on), see [this gist](https://gist.github.com/SciresM/cdd2266efb80175d37eabbe86f9d8c52).
+Luettelon kaikista lasketuista sighaxin allekirjoituksista (joiden päälle boot9strap on rakennettu) löydät [tästä gististä](https://gist.github.com/SciresM/cdd2266efb80175d37eabbe86f9d8c52).
 
 ## Mitä voin tehdä mukautetulla laiteohjelmistolla?
 
@@ -62,15 +62,15 @@ For a list of each of the calculated sighax signatures (the platform boot9strap 
 + Pelata vanhempien konsolien pelejä eri emulaattoreilla käyttäen RetroArchia tai yksittäisemulaattoreita. (Toimii parhaiten New Nintendo 3DS:llä)
 + Asentaa homebrew-sovelluksia konsolillesi, ja saada ne näkymään HOME-valikossasi
 + Kopioida fyysiset pelisi kortilta asennettavaan muotoon, ja pelata niitä ilman korttia
-+ New 3DS or New 2DS only: stream live gameplay to your PC wirelessly with NTR CFW
++ Vain New 3DS tai New 2DS: suoratoistaa langattomasti livepelikuvaa tietokoneellesi NTR-CFW:llä
 + Käyttää monia vanhoja Nintendo DS -flash-kortteja, jotka on estetty jo aikaa sitten tai jotka eivät ole koskaan toimineet 3DS:llä
 + Päivittää turvallisesti viimeisimpään järjestelmäversioon ilman pelkoa homebrew'n menettämisestä
 
 ## Mitä minun täytyy tietää ennen aloittamista?
 
 + **Ennen oppaan aloittamista sinun on tiedettävä 3DS-hakkeroinnin riskit: JOKA kerta, kun muokkaat konsoliasi, on mahdollisuus siihen, että se vioittuu PYSYVÄSTI. Vaikkakin harvinaista, se on silti mahdollista, joten seuraa KAIKKIA ohjeita TARKALLEEN.**
-+ If you have already hacked your 3DS before to get an EmuNAND setup, and would like to move the contents of your previous EmuNAND to your new SysNAND CFW, you should follow all instructions and restore your existing EmuNAND when prompted once you reach [Finalizing Setup](finalizing-setup).
-+ This guide will work on New 3DS, Old 3DS, New 2DS, and Old 2DS in all regions on firmware 11.5.0 or below.
++ Jos olet jo hakkeroinut konsolisi EmuNAND-kokoonpanoa varten, ja haluat siirtää sisältösi uuteen SysNAND-CFW-kokoonpanoon, seuraa kaikkia ohjeita ja palauta EmuNAND osiossa [Asennuksen viimeistely](installing-arm9loaderhax), siinä vaiheessa kun ohje siihen kehottaa.
++ Tämä opas toimii New 3DS:llä, vanhalla 3DS:llä, New 2DS:llä sekä vanhalla 2DS:llä kaikilla alueilla, laiteohjelmistolla 11.5.0 tai sitä vanhemmilla versioilla.
 + Jos kaikki menee suunnitelmien mukaan, et menetä mitään tietoja ja päädyt samaan kokoonpanoon, joka sinulla oli alussa (pelit, NNID, tallennukset jne. säilyvät).
 + **Pidä konsolisi latauksessa koko prosessin ajan välttyäksesi tietojen menettämiseltä tai odottamattomasta sammumisesta aiheutuvalta vahingolta!**
 + SD-korttisi on oltava [MBR, ei GPT](http://www.howtogeek.com/245610/) (konsolin mukana tuleva kortti on oletuksena MBR).

@@ -134,7 +134,7 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 1. Navigate to `[0:] SDCARD` -> `gm9` -> `out`
 1. Press (A) on `<serialnumber>_nandmin_###.bin` to select it, then select "NAND image options...", then select "Restore SysNAND (safe)"
 1. Paina (A):ta ottaaksesi käyttöön SysNANDin ylikirjoittamisen ja syötä annettu painikeyhdistelmä
-  + This will not overwrite your boot9strap installation
+  + Tämä ei ylikirjoita boot9strap-asennustasi
 1. Syötä annettu painikeyhdistelmä ottaaksesi käyttöön SysNANDiin kirjoittamisen (lvl1)
   + Tämä proessi kestää jonkin aikaa
 1. Kun toiminto on suoritettu, paina (A):ta jatkaaksesi
@@ -180,11 +180,11 @@ Use a [save manager](https://github.com/J-D-K/JKSM/releases/latest) to backup an
 ##### Section VII - Configuring Luma3DS
 
 1. Your device should have booted into the Luma3DS configuration menu
-  + If you get a black screen, [follow this troubleshooting guide](troubleshooting#ts_sys_b9s)
-1. Use the (A) button and the D-Pad to turn on the following:    
+  + Jos saat mustan ruudun, [seuraa tätä vianmääritysohjetta](troubleshooting#ts_sys_b9s)
+1. Käytä (A):ta ja ristiohjainta ottaaksesi seuraavat asetukset käyttöön:    
   + **"Show NAND or user string in System Settings"**
 1. Paina (START)-painiketta tallentaaksesi ja käynnistääksesi uudelleen
-  + If you get an error, just continue the next page
+  + Jos saat virheen, jatka vain seuraavalle sivulle
 
 ___
 
