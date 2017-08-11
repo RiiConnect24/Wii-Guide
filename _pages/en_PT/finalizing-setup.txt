@@ -13,6 +13,7 @@ In this case, we use Luma3DS by [AuroraWright](https://github.com/AuroraWright/)
 Durin' 'tis process, we also setup programs such as th' followin':    
 
 +  **FBI** *(installs CIA formatted games 'n applications)*
++  **Themely** *(installs custom themes)*
 +  **Luma3DS Updater** *(updates ye CFW installation easily)*
 +  **GodMode9** *(multipurpose tool which can do NAND and cartridge functions)*
 +  **Homebrew Launcher Loader** *(launches the Homebrew Launcher as a regular application thanks to Rosalina magic)*
@@ -23,8 +24,9 @@ Durin' 'tis process, we also setup programs such as th' followin':
 
 #### What ye need
 
+* The latest release of [Themely](https://github.com/ihaveamac/Themely/releases/latest) *(the `.cia` file)*
 * Th' latest release 'o [hblauncher_loader](https://github.com/yellows8/hblauncher_loader/releases/latest)
-* The latest release of [GodMode9](https://github.com/d0k3/GodMode9/releases/latest)
+* Th' latest release 'o [GodMode9](https://github.com/d0k3/GodMode9/releases/latest)
 * The latest release of [DSP1](https://github.com/zoogie/DSP1/releases/latest)
 * The latest release of [FBI](https://github.com/Steveice10/FBI/releases/latest) *(the `.cia` and `.3dsx` files)*
 * The latest fork of [Luma3DS Updater](https://github.com/KunoichiZ/lumaupdate/releases/latest) *(the `.cia` file)*
@@ -36,27 +38,28 @@ Durin' 'tis process, we also setup programs such as th' followin':
 
 1. Power off your device
 1. Insert ye SD card into ye computer
-1. Copy `FBI.3dsx` to the `/3ds/` folder on your SD card
-1. Create a folder named `cias` on the root of your SD card if it does not already exist
+1. Copy `FBI.3dsx` to th' `/3ds/` folder on ye SD card
+1. Create a folder named `cias` on th' root 'o ye SD card if it does not already exist
 1. Create a folder named `hblauncherloader` on the root of your SD card if it does not already exist
 1. Copy `hblauncher_loader.cia` from th' hblauncher_loader `.zip` to th' `/cias/` folder on ye SD card
 1. Copy `lumaupdater.cia` to the `/cias/` folder on your SD card
 1. Copy `FBI.cia` to the `/cias/` folder on your SD card
 1. Copy `DSP1.cia` to the `/cias/` folder on your SD card
+1. Copy `Themely.cia` to the `/cias/` folder on your SD card
 
     ![]({{ base_path }}/images/screenshots/cias-file-layout.png)
     {: .notice--info}
 
 1. Create a folder named `payloads` in th' `luma` folder on ye SD card
-1. Copy `GodMode9.firm` from the GodMode9 `.zip` to the `/luma/payloads/` folder on your SD card
-1. Copy the `gm9` folder from the GodMode9 `.zip` to the root of your SD card
+1. Copy `GodMode9.firm` from th' GodeMode9 `.zip` to th' `/luma/payloads/` folder on ye SD card
+1. Copy th' `gm9` folder from th' GodMode9 `.zip` to th' root 'o ye SD card
 1. Copy `setup_ctrnand_luma3ds.gm9` to th' `/gm9/scripts/` folder on ye SD card
  
 
     ![]({{ base_path }}/images/screenshots/finalizing-setup-file-layout.png)
     {: .notice--info}
 
-1. Reinsert your SD card into your device
+1. Reinsert ye SD card into ye device
 1. Power on your device
 
 ##### Section II - Updating the System
@@ -67,15 +70,15 @@ If, while following a previous version of this guide, you CTRTransfered your *Ne
 If, before following this guide, you already had an EmuNAND setup and would like to move the contents of your previous EmuNAND to your new SysNAND CFW, now is the time to [follow Move EmuNAND](move-emunand) before doing this section.
 {: .notice--info}
 
-1. Update your device by going to System Settings, then "Other Settings", then going all the way to the right and using "System Update"
-  + Updates while using B9S + Luma (what you have) are safe
-  + If this gives you an error, set your DNS settings to "auto"
+1. Update ye device by settin' off to System Settin's, then "Other Settings", then goin' all th' way to th' right 'n usin' "System Update"
+  + Updates while usin' B9S + Luma (what ye have) be safe
+  + If 'tis gives ye an error, set ye DNS settin's to "auto"
   + If this still gives you an error and your NAND is below 9.2.0, [follow 9.2.0 CTRTransfer](9.2.0-ctrtransfer), then try updating again
 
 ##### Section III - Launching FBI
 
 1. Launch the Download Play application
-1. Press (L) + (Down) + (Select) at the same time to open the Rosalina menu
+1. Press (L) + (Down) + (Select) at th' same time to be openin' th' Rosalina menu
 1. Select "Miscellaneous options"
 1. Select "Switch the hb. title to the current app."
 1. Press (B) to continue
@@ -102,23 +105,23 @@ If, before following this guide, you already had an EmuNAND setup and would like
 
 1. Launch GodMode9 by holdin' (Start) durin' boot
 1. If ye be prompted to create an essential files backup, press (A) to do so, then press (A) to continue once it has completed
-1. Press (Home) to bring up the action menu
+1. Press (Home) to bring up th' action menu
 1. Select "More..."
 1. Select "Scripts..."
 1. Select "setup_ctrnand_luma3ds"
-1. When prompted, press (A) to proceed
-1. Press (A) to unlock SysNAND (lvl1) writing, then input the key combo given
+1. When prompted, push (A) to proceed
+1. Press (A) to unlock SysNAND (lvl1) writin', then input th' key combo given
 1. Press (A) to continue
 1. Press (A) to relock write permissions
 
 ##### Section VII - Backup SysNAND
 
-1. Press (Home) to bring up the action menu
+1. Press (Home) to bring up th' action menu
 1. Select "More..."
 1. Select "Scripts..."
 1. Select "Backup SysNAND"
 1. Press (A) to confirm
-  + This process will take some time
+  + 'Tis process gunna be takin' some time
 1. Press (A) to continue
 1. Hold (R) and press (B) at the same time to eject your SD card
 1. Insert ye SD card into ye computer
@@ -126,7 +129,7 @@ If, before following this guide, you already had an EmuNAND setup and would like
   + Make backups in multiple locations (such as online file storage)
   + This backup will save you from a brick if anything goes wrong in the future
 1. Delete `<serialnumber>_nandmin_###.bin` from th' `/gm9/out/` folder on ye SD card after copyin' it
-1. Reinsert your SD card into your device
+1. Reinsert ye SD card into ye device
 1. Press (Start) to save and reboot
 
 ___

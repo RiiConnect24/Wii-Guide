@@ -9,7 +9,7 @@ An excellent guide to getting a hardmod can be found [here](https://gbatemp.net/
 This is a currently working implementation of the "FIRM partitions known-plaintext" exploit detailed [here](https://www.3dbrew.org/wiki/3DS_System_Flaws).
 {: .notice--info}
 
-To use the [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) links on this page, you will need a torrent client like [Deluge](http://dev.deluge-torrent.org/wiki/Download)
+To be usin' th' [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) links on 'tis page, ye gunna be needin' a torrent client like [Deluge](http://dev.deluge-torrent.org/wiki/Download)
 {: .notice--success}
 
 This will work on New 3DS, New 2DS, Old 3DS, and Old 2DS on *all* versions that you have a corresponding `.firm` for.
@@ -75,7 +75,7 @@ This will work on New 3DS, New 2DS, Old 3DS, and Old 2DS on *all* versions that 
   + Windows Users: Run `install-b9s.exe`
   + Mac and Linux Users: Run `install-b9s.py`
 1. Flash your outputted `NAND-patched.bin` to your device with your hardmod
-1. Reboot your device
+1. Reboot ye device
 
 ##### Section III - Configuring Luma3DS
 
@@ -88,5 +88,5 @@ This will work on New 3DS, New 2DS, Old 3DS, and Old 2DS on *all* versions that 
 
 ___
 
-Continue to [Finalizing Setup](finalizing-setup)
+Continue to [Finalizin' Setup](finalizing-setup)
 {: .notice--primary}

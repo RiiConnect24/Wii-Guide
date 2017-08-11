@@ -11,15 +11,12 @@ Any unsigned (illegitimate) games will be rendered unusable and can be manually 
 This will not affect your NNID, any legitimately purchased games, or any saves for those legitimately purchased games.
 {: .notice--info}
 
-Note that if ye have any payload files other than `GodMode9.firm` in th' `/luma/payloads/` folder on ye SD card, holding (Start) on boot gunna display a "chainloader menu" where ye gunna have to use th' D-Pad 'n th' (A) button to select "GodMode9" fer these instructions.
- 
-Request Context
- 
+Note that if you have any payload files other than `GodMode9.firm` in the `/luma/payloads/` folder on your SD card, holding (Start) on boot will display a "chainloader menu" where you will have to use the D-Pad and the (A) button to select "GodMode9" for these instructions. 
 {: .notice--info}
 
 #### What ye need
 
-* The latest release of [GodMode9](https://github.com/d0k3/GodMode9/releases/latest)
+* Th' latest release 'o [GodMode9](https://github.com/d0k3/GodMode9/releases/latest)
 * The uninstaller script corresponding to your device:
   + [`uninstall_hax_retail_NEW.gm9`]({{ base_path }}/gm9_scripts/uninstall_hax_retail_NEW.gm9)
   + [`uninstall_hax_retail_OLD.gm9`]({{ base_path }}/gm9_scripts/uninstall_hax_retail_OLD.gm9)
@@ -30,25 +27,25 @@ Request Context
 
 1. Power off your device
 1. Insert ye SD card into ye computer
-1. Copy `GodMode9.firm` from the GodMode9 `.zip` to the `/luma/payloads/` folder on your SD card
-1. Copy the `gm9` folder from the GodMode9 `.zip` to the root of your SD card
+1. Copy `GodMode9.firm` from th' GodeMode9 `.zip` to th' `/luma/payloads/` folder on ye SD card
+1. Copy th' `gm9` folder from th' GodMode9 `.zip` to th' root 'o ye SD card
 1. Copy the uninstaller script corresponding to your device to the `/gm9/scripts/` folder on your SD card
-1. Reinsert your SD card into your device
+1. Reinsert ye SD card into ye device
 1. Power on your device
 
 ##### Section II - Running Uninstall Script
 
 1. Launch GodMode9 by holdin' (Start) durin' boot
 1. If ye be prompted to create an essential files backup, press (A) to do so, then press (A) to continue once it has completed
-1. Press (Home) to bring up the action menu
+1. Press (Home) to bring up th' action menu
 1. Select "More..."
 1. Select "Scripts..."
 1. Select the uninstaller script
-1. When prompted, press (A) to proceed
+1. When prompted, push (A) to proceed
 1. Press (A) to unlock SysNAND (lvl3) writing, then input the key combo given
 1. Press (A) to continue
 1. Press (A) to relock write permissions
-1. Press (Start) to reboot your device
+1. Press (Start) to reboot ye device
 
 ___
 
