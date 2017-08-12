@@ -3,19 +3,19 @@ title: "Installazione di boot9strap (inject su DSiWare)"
 ---
 
 Tieni presente che se hai altri file payload oltre a `GodMode9.firm` nella cartella `/luma/payloads/` della tua scheda SD, per seguire le istruzioni riportate dovrai avviare la console tenendo (Start); apparirà un "menu chainloader" dove dovrai selezionare "GodMode9" tramite il D-Pad e il pulsante (A). 
-{: .notice--info}
 
 **Per usare i link [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme) di questa guida avrai bisogno di un client torrent come [Deluge](http://dev.deluge-torrent.org/wiki/Download)**
-{: .notice--success}
 
 Prima di procedere, assicurati di aver letto tutte le informazioni e gli avvisi su [Installazione di boot9strap (DSiWare)](installing-boot9strap-(dsiware))
+
+Se non usi il file `.firm` corrispondente al 3DS di destinazione, BRICKERAI la console! Assicurati di scaricare ed usare quello corretto!
 {: .notice--danger}
 
 #### Cosa serve
 
 * Due console 3DS
-  + **Il 3DS di partenza**: il 3DS che ha in esecuzione qualche tipo di custom firmware (come ad esempio boot9strap o arm9loaderhax) *aggiornato all'ultima versione*
-  + **Il 3DS di destinazione**: il 3DS con versione del software *11.5.0*
+  + **Il 3DS di partenza**: la console che ha in esecuzione un custom firmware (come ad esempio boot9strap o arm9loaderhax) *aggiornato all'ultima versione*
+  + **Il 3DS di destinazione**: la console con versione del software *11.5.0*
 * Acquistare (o essere già in possesso) di un gioco DSiWare compatibile dall'eShop sul **3DS di origine**
   + Una copia pirata del gioco **non** funzionerà
   + La lista completa dei giochi compatibili si può trovare alla pagina [Installazione di boot9strap (lista dei giochi per inject su DSiWare)](installing-boot9strap-(dsiware-game-injection-list))

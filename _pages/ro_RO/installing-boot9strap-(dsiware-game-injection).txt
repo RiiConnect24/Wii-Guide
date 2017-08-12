@@ -3,19 +3,19 @@ title: "Instalând boot9strap (Injectare cu Joc DSiWare)"
 ---
 
 Țineți cont că dacă aveți alte payload-uri în afară de `GodMode9.firm` în folderul `/luma/payloads/` de pe cardul SD, apăsând (Start) va lansa un "meniu chainloader" în care va trebui să folosiți D-Pad-ul și butonul (A) ca să selectați "GodMode9" pentru aceste instrucțiuni. 
-{: .notice--info}
 
 Pentru a folosi linkurile [magnetice](https://en.wikipedia.org/wiki/Magnet_URI_scheme) de pe această pagină, veți avea nevoie de un client de torrente ca [Deluge](http://dev.deluge-torrent.org/wiki/Download)
-{: .notice--success}
 
 Înainte de a proceda, asigurați-vă că ați citit toate notificările și avertismentele de pe [Instalând boot9strap (DSiWare)](installing-boot9strap-(dsiware))
+
+Dacă nu folosiți `.firm`-ul corect care corespunde 3DS-ului țintă, veți face BRICK! Asigurați-vă că descărcați și-l folosiți pe cel corect!
 {: .notice--danger}
 
 #### Ce aveți nevoie
 
-* Două dispozitive 3DS
-  + **3DS-ul sursă**: 3DS-ul care rulează un fel de custom firmware (cum ar fi boot9strap sau arm9loaderhax) *pe ultima versiune*
-  + **3DS-ul țintă**: 3DS-ul pe firmware stoc *11.5.0*
+* Two 3DS family devices
+  + **The source 3DS**: the device running some kind of custom firmware (such as boot9strap or arm9loaderhax) *on the latest version*
+  + **The target 3DS**: the device on stock firmware *on 11.5.0*
 * Să aveți achiziționat (sau deja deținut) un joc DSiWare compatibil de pe eShop pe **3DS-ul sursă**
   + O copie piratată a jocului **nu** va merge
   + Pentru o listă de jocuri compatibile, vedeți pagina [Instalând boot9strap (Lista de jocuri DSiWare pentru injectare)](installing-boot9strap-(dsiware-game-injection-list))

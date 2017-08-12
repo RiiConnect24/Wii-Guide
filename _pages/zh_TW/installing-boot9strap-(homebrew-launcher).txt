@@ -3,7 +3,6 @@ title: "安裝 boot9strap（透過 Homebrew Launcher）"
 ---
 
 如果您先前已改機過，且已安裝基於 EmuNAND 的自製系統－請注意，本教學是專門用來處理 SysNAND 的。您應在閱讀本手冊時在 SysNAND 中操作，或將其套用至 SysNAND 中。 注意 EmuNAND 與 RedNAND 指的是些微不同運作方式但[同樣道理](http://3dbrew.org/wiki/NAND_Redirection)的用語。
-{: .notice--info}
 
 #### 操作說明
 
@@ -20,6 +19,8 @@ title: "安裝 boot9strap（透過 Homebrew Launcher）"
   + 如果還是遇到了「PM INIT FAILED」錯誤訊息的話，請試試看使用 [r19 版的 safehax](https://github.com/TiniVi/safehax/releases/tag/r19)
   + 如果當機的話，按住電源紐強制重啟您的主機再試一次即可
 1. 如果一切成功的話，您將自動進入 SafeB9SInstaller
+  + If you launch into the Luma3DS configuration menu instead of SafeB9SInstaller, power off your device and ensure that `safehaxpayload.bin` exists on the root of your SD card
+  + If it appears that `safehaxpayload.bin` exists on the root of your SD card but you still launch into the Luma3DS configuration menu, ensure you have [enabled the option to show file extensions](file-extensions-(windows))
 
 ##### 第二節 — 安裝 boot9strap
 

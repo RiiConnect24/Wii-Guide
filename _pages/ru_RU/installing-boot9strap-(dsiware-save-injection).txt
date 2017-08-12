@@ -3,22 +3,19 @@ title: "Установка boot9strap (Инъекция в сохранения 
 ---
 
 Обратите внимание, что если у вас имеются другие файлы помимо `GodMode9.firm` в папке `/luma/payloads/` на SD-карте, удержание кнопки (Start) при загрузке будет запускать "chainloader menu", где вам нужно будет использовать D-Pad и кнопку (A) для выбора "GodMode9" при выполнении этих инструкций. 
-{: .notice--info}
 
 Для использования [magnet](https://en.wikipedia.org/wiki/Magnet_URI_scheme)-ссылок в этом руководстве необходим torrent-клиент, например [Deluge](http://dev.deluge-torrent.org/wiki/Download)
-{: .notice--success}
 
 Прежде чем продолжить, убедитесь, вы прочитали все уведомления и предупреждения в [Установка boot9strap (DSiWare)](installing-boot9strap-(dsiware))
-{: .notice--danger}
 
 Если вы не будете использовать корректный `.firm`, соответствующий целевой 3DS, вы получите БРИК! Убедитесь что скачали и используете правильный!
 {: .notice--danger}
 
 #### Что понадобится
 
-* Две консоли
-  + **Исходная 3DS**: 3DS с кастомной прошивкой (boot9strap или arm9loaderhax) *с последней версией системного ПО*
-  + **Целевая 3DS**: 3DS с официальной прошивкой *11.5.0*
+* Two 3DS family devices
+  + **The source 3DS**: the device running some kind of custom firmware (such as boot9strap or arm9loaderhax) *on the latest version*
+  + **The target 3DS**: the device on stock firmware *on 11.5.0*
 * Купленная DSiWare игра из списка ниже (пиратская копия **не** будет работать) на **исходной 3DS**
   + **Fieldrunners**
   + **Legends of Exidia**

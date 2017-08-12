@@ -1,0 +1,83 @@
+---
+title: "Installer boot9strap (ntrboot)"
+---
+
+#### Ce dont vous aurez besoin
+
+* Un aimant qui déclenche le mode veille de votre console
+* Votre linker DS
+* La dernière version de [SafeB9SInstaller](https://github.com/d0k3/SafeB9SInstaller/releases/latest)
+* La dernière version de [boot9strap](https://github.com/SciresM/boot9strap/releases/latest) *(boot9strap standard, pas le fichier `devkit` et ni le fichier `ntr`)*
+* La dernière version de [Luma3DS](https://github.com/AuroraWright/Luma3DS/releases/latest) *(le fichier `.7z`)*
+* Le Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
+
+#### Instructions
+
+##### Section I - Préparation
+
+1. Éteignez votre 3DS
+1. Insérez votre carte SD dans votre ordinateur
+1. Copiez `SafeB9SInstaller.firm` à la racine de votre carte SD et renommez en `boot.firm`
+1. Copier _le contenu de_ `starter.zip` vers la racine de votre carte SD
+1. Créez un dossier à la racine de votre carte SD nommé `boot9strap`
+1. Copiez `boot9strap.firm` et `boot9strap.firm.sha` depuis le fichier ".zip" de boot9strap vers le dossier `/boot9strap/` sur votre carte SD
+
+    ![]({{ base_path }}/images/screenshots/boot9strap-ntrboot-file-layout.png)
+    {: .notice--info}
+
+1. Réinsérez votre carte SD dans votre 3DS
+1. Allumez à présent votre 3DS
+
+##### Section II - ntrboot
+
+1. Utilisez l’aimant pour repérer l’emplacement sur votre appareil où la sonde de sommeil est déclenchée
+  + Cette étape n’est pas nécessaire sur les consoles de style non-pliante (tels que les 2DS)
+1. Éteignez votre 3DS
+1. Insérez votre linker dans votre console
+1. Power on your device, with the magnet in the sleep triggering position (or toggling the sleep switch on non-folding style devices), while holding (Start) + (Select) + (X)
+  + It may take a few attempts to get this to work because the positioning is awkward
+1. If the exploit was successful, you will have booted into SafeB9SInstaller
+
+##### Section III - Installing boot9strap
+
+1. Wait for all safety checks to complete
+1. When prompted, input the key combo given to install boot9strap
+1. Once it has completed, force your device to power off by holding down the power button
+  + Your device will only boot to the SafeB9SInstaller screen until the next section is completed
+
+##### Section IV - Configuring Luma3DS
+
+1. Insert your SD card into your computer
+1. Supprimez le fichier `boot.firm` de la racine de votre carte SD s'il existe
+1. Copy `boot.firm` from the Luma3DS `.7z` to the root of your SD card
+1. Reinsert your SD card into your device
+1. Allumez à présent votre 3DS
+1. Votre console va démarrer dans la configuration de Luma3DS
+  + Si vous obtenez un écran noir, [suivez ce guide de problèmes et dépannage](troubleshooting#ts_sys_b9s)
+1. Utilisez le bouton (A) et la croix directionnelle pour activer les éléments suivants:    
+  + **"Show NAND or user string in System Settings"**
+1. Appuyez sur (Start) pour enregistrer les modifications et redémarrer
+  + Si vous obtenez une erreur, continuez à la prochaine page
+
+___
+
+Continuer vers [Finalisation de l'installation](finalizing-setup)
+{: .notice--primary}
+
+___
+
+##### Section V - Removing ntrboot
+
+This is an optional section that will allow you to restore your flashcart to its original state (to allow it to be used for its standard functions).
+{: .notice--info}
+
+Do not follow this section until you have completed the rest of the instructions on this page.
+{: .notice--warning}
+
+1. Launch the Luma3DS chainloader by holding (Start) during boot on **the source 3DS**
+1. Select "ntrboot_flasher"
+1. Select "Restore Flash"
+1. Press (Y) to proceed
+1. Wait until the process is completed
+1. Press (B) to return to the main menu
+1. Select "EXIT" to power off **the source 3DS**

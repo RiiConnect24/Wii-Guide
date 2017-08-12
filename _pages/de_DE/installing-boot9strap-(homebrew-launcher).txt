@@ -3,7 +3,6 @@ title: "Installation von boot9strap (Homebrew Launcher)"
 ---
 
 Falls du bereits deinen 3DS zuvor gehackt hast und eine EmuNAND basierte CFW installiert ist: Diese Anleitung behandelt nur das SysNAND und alle Schritte sollten nur innerhalb des SysNANDs ausgeführt/angewendet werden. Beachte, dass die Begriffe EmuNAND und RedNAND sich auf leicht unterschiedliche Implementierungen [des selben Konzepts](http://3dbrew.org/wiki/NAND_Redirection) beziehen.
-{: .notice--info}
 
 #### Anleitung
 
@@ -20,6 +19,8 @@ Falls du bereits deinen 3DS zuvor gehackt hast und eine EmuNAND basierte CFW ins
   + Wenn du *weiterhin* den Fehler "PM INIT FAILED" bekommst, versuche den [r19 Release von Safehax](https://github.com/TiniVi/safehax/releases/tag/r19) zu benutzen
   + Wenn sich deine Konsole aufhängt, schalte sie durch langes halten des Power-Knopfes aus, und versuche es erneut
 1. Wenn der Exploit erfolgreich war, wird nun direkt zum SafeBS9Installer gebootet
+  + If you launch into the Luma3DS configuration menu instead of SafeB9SInstaller, power off your device and ensure that `safehaxpayload.bin` exists on the root of your SD card
+  + If it appears that `safehaxpayload.bin` exists on the root of your SD card but you still launch into the Luma3DS configuration menu, ensure you have [enabled the option to show file extensions](file-extensions-(windows))
 
 ##### Abschnitt II - Installation von boot9strap
 

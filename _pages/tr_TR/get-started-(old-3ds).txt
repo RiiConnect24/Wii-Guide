@@ -2,39 +2,21 @@
 title: "Get Started (Old 3DS)"
 ---
 
-Uygun sayfaya ulaşmak için aşağıdaki tablodan sürümünüze uyanı seçin.
-{: .notice--primary}
+Uygun sayfaya ulaşmak için aşağıdaki tablodan sürümünüze uyanı seçin. Note that the "from" and "to" fields are inclusive. Bu şu anlama gelir,örneğin, "9.0.0 'dan 9.2.0 ye kadar" sırasına 9.0.0, 9.1.0, ve 9.2.0 dahildir.
 
-{% capture notice-1 %}
-Grafiğin ilk iki sütunu, sürümünüzün son sayısına karşılık gelir (bu, sisteme kurulu olan tarayıcı sürümüne karşılık gelir). Eğer versiyon numaranız -0 ise tarayıcınız yoktur, -0 dışındaki her hangi bir numaraya sahipseniz tarayıcınız yüklüdür.
-<br><br>
-"-dan" ve "-ye" alanları dahildir. Bu şu anlama gelir,örneğin, "9.0.0 'dan 9.2.0 ye kadar" sırasına 9.0.0, 9.1.0, ve 9.2.0 dahildir.
-<br><br>
+Additionally, note that the last two columns of the chart refer to the last number of your version (which corresponds to the browser version installed to the system). Eğer versiyon numaranız -0 ise tarayıcınız yoktur, -0 dışındaki her hangi bir numaraya sahipseniz tarayıcınız yüklüdür.
+
 Örneğin "5.0.0-0U" söz konusu olduğunda, "Tarayıcı yok" sütununu ve 5.0.0'dan 5.1.0'a kadar seçeneğini seçerek devam edilmesi gerekir. Çünkü sistem o versiyon aralığında ve tarayıcı yüklü değil.
-{% endcapture %}
-
-<div class="notice--info">{{ notice-1 | markdownify }}</div>
 
 For all versions you can also [Cart Update](cart-update) to a higher version in the same column to follow its instructions.
-{: .notice--info}
-
-{% capture notice-1 %}
-
-Note that Cart Updates will only deliver updates to core features, such as the System Settings, Home Menu, etc. Cart Updates will not deliver updates to Nintendo 3DS Sound and Network features, such as System Transfer, Internet Browser, StreetPass Mii Plaza, or eShop.
-<br><br>
-This means that using a Cart Update from a version containing an older Nintendo 3DS Sound version *(<7.0.0 for Old 3DSs in the EUR, JPN, KOR, and USA regions)* to one that introduced a newer Nintendo 3DS Sound version will break [Soundhax](homebrew-launcher-(soundhax))! Homebrew'ı çalıştırmak için [alternatif bir yöntem](homebrew-launcher-(alternatives)) gerekir!
-{% endcapture %}
-
-<div class="notice--warning">{{ notice-1 | markdownify }}</div>
-
-9.9.0 veya daha üst versiyon barındıran bir oyun kartuşu kullanarak güncelleme yaparsanız fakat tarayıcınız -25'ten düşükse (örneğin 10.2.0-24) tarayıcınız silinir ve 'Tarayıcı yok' sütununu takip etmeniz gerekir.
-{: .notice--warning}
 
 Cihaz versiyonu, sistem ayarlarındayken üst ekranın sağ alt kısmında görülebilir.
-{: .notice--success}
 
 ![]({{ base_path }}/images/screenshots/system-version.png)
 {: .notice--info}
+
+9.9.0 veya daha üst versiyon barındıran bir oyun kartuşu kullanarak güncelleme yaparsanız fakat tarayıcınız -25'ten düşükse (örneğin 10.2.0-24) tarayıcınız silinir ve 'Tarayıcı yok' sütununu takip etmeniz gerekir.
+{: .notice--warning}
 
 <table>
   <colgroup>
@@ -107,7 +89,7 @@ Cihaz versiyonu, sistem ayarlarındayken üst ekranın sağ alt kısmında gör�
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;" colspan="2">ALL VERSIONS<br></td>
-      <td style="text-align: center; font-weight: bold;" colspan="2"><p style="display: inline-block; margin-top: 1.3em; width: 47%"><a href="installing-boot9strap-(ntrboothax)">Installing boot9strap (ntrboothax)</a><br><sub>(Requires a Compatible Flashcart)</sub></p><p style="display: inline-block; margin-top: 1.3em; vertical-align: super; width: 6%">or</p><p style="display: inline-block; margin-top: 1.3em; width: 47%"><a href="installing-boot9strap-(hardmod)">Installing boot9strap (Hardmod)</a><br><sub>(Requires Soldering)</sub></p></td>
+      <td style="text-align: center; font-weight: bold;" colspan="2"><p style="display: inline-block; margin-top: 1.3em; width: 47%"><a href="ntrboot">ntrboot</a><br><sub>(Requires a Compatible Flashcart)</sub></p><p style="display: inline-block; margin-top: 1.3em; vertical-align: super; width: 6%">or</p><p style="display: inline-block; margin-top: 1.3em; width: 47%"><a href="installing-boot9strap-(hardmod)">Installing boot9strap (Hardmod)</a><br><sub>(Requires Soldering)</sub></p></td>
     </tr>
   </tbody>
 </table>

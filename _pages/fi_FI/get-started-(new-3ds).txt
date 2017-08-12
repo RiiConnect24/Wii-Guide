@@ -2,20 +2,13 @@
 title: "Aloitus (New 3DS)"
 ---
 
-Valitse konsolisi versiota vastaava sivu alta löytyvästä listasta.
-{: .notice--primary}
+Valitse konsolisi versiota vastaava sivu alta löytyvästä listasta. Huomaa, että versionumerot kentissä "versiosta" ja "versioon" ovat sisältyviä. Tämä tarkoittaa esimerkiksi sitä, että rivi "versiosta 9.0.0 versioon 9.2.0" kattaa versiot 9.0.0, 9.1.0 ja 9.2.0.
 
-Huomaa, että versionumerot kentissä "versiosta" ja "versioon" ovat sisältyviä. Tämä tarkoittaa esimerkiksi sitä, että rivi "versiosta 9.0.0 versioon 9.2.0" kattaa versiot 9.0.0, 9.1.0 ja 9.2.0.
-{: .notice--info}
-
-Huomaa, että järjestelmäsi versionumeron viimeinen luku (jota edeltää yhdysmerkki) viittaa selaimesi versioon. Tällä hetkellä selaimen versiolla ei ole merkitystä New 3DS:n kannalta tässä oppaassa.
-{: .notice--info}
+Huomaa myös, että järjestelmäsi versionumeron viimeinen luku (jota edeltää yhdysmerkki) viittaa selaimesi versioon. Tällä hetkellä selaimen versiolla ei ole merkitystä New 3DS:n kannalta tässä oppaassa.
 
 Kaikilla versioilla voit myös [korttipäivittää](cart-update) järjestelmäsi uudempaan versioon ja jatkaa ohjeiden seuraamista saman sarakkeen kohdalta.
-{: .notice--info}
 
 Konsolisi versio löytyy yläruudun oikeasta alakulmasta järjestelmäasetuksissa (System Settings).
-{: .notice--success}
 
 ![]({{ base_path }}/images/screenshots/system-version.png)
 {: .notice--info}
@@ -61,7 +54,7 @@ Konsolisi versio löytyy yläruudun oikeasta alakulmasta järjestelmäasetuksiss
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;" colspan="2">Kaikki versiot<br></td>
-      <td style="text-align: center; font-weight: bold;" colspan="2"><p style="display: inline-block; margin-top: 1.3em; width: 47%"><a href="installing-boot9strap-(ntrboothax)">Boot9strapin asentaminen (ntrboothax)</a><br><sub>(vaatii yhteensopivan flash-kortin)</sub></p><p style="display: inline-block; margin-top: 1.3em; vertical-align: super; width: 6%">tai</p><p style="display: inline-block; margin-top: 1.3em; width: 47%"><a href="installing-boot9strap-(hardmod)">Boot9strapin asentaminen (laitteistomodaus)</a><br><sub>(vaatii juottamista)</sub></p></td>
+      <td style="text-align: center; font-weight: bold;" colspan="2"><p style="display: inline-block; margin-top: 1.3em; width: 47%"><a href="ntrboot">ntrboot</a><br><sub>(vaatii yhteensopivan flash-kortin)</sub></p><p style="display: inline-block; margin-top: 1.3em; vertical-align: super; width: 6%">tai</p><p style="display: inline-block; margin-top: 1.3em; width: 47%"><a href="installing-boot9strap-(hardmod)">Boot9strapin asentaminen (laitteistomodaus)</a><br><sub>(vaatii juottamista)</sub></p></td>
     </tr>
   </tbody>
 </table>

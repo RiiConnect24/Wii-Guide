@@ -2,20 +2,13 @@
 title: "Los geht's (New 3DS)"
 ---
 
-Wähle die passende Methode für deine Version aus der unteren Tabelle.
-{: .notice--primary}
+Wähle die passende Methode für deine Version aus der unteren Tabelle. Beachte, dass die "Von" und "Bis"-Felder inklusive sind. Das heißt, dass die Zeile "von 9.0.0 bis 9.2.0" die Versionen 9.0.0, 9.1.0 und 9.2.0 beinhaltet.
 
-Beachte, dass die "Von" und "Bis"-Felder inklusive sind. Das heißt, dass die Zeile "von 9.0.0 bis 9.2.0" die Versionen 9.0.0, 9.1.0 und 9.2.0 beinhaltet.
-{: .notice--info}
-
-Beachten Sie, dass die letzte Zahl Ihrer System-Version (die durch einen Bindestrich vorangestellt ist) sich auf die Version Ihres Browsers bezieht. Derzeit ist die Browserversion irrelevant für den neuen 3DS in diesem Guide.
-{: .notice--info}
+Additionally, note that the last number of your system version (which is preceded by a dash) refers to your browser version. Derzeit ist die Browserversion irrelevant für den neuen 3DS in diesem Guide.
 
 Für alle Versionen kannst du auch ein [Kartenupdate](cart-update) zu einer höheren Version in der gleichen Spalte durchführen und deren Anweisung folgen.
-{: .notice--info}
 
 Die Version deines 3DS findest du rechts unten auf dem oberen Bildschirm in den Systemeinstellungen.
-{: .notice--success}
 
 ![]({{ base_path }}/images/screenshots/system-version.png)
 {: .notice--info}
@@ -61,7 +54,7 @@ Die Version deines 3DS findest du rechts unten auf dem oberen Bildschirm in den 
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;" colspan="2">ALLE VERSIONEN<br></td>
-      <td style="text-align: center; font-weight: bold;" colspan="2"><p style="display: inline-block; margin-top: 1.3em; width: 47%"><a href="installing-boot9strap-(ntrboothax)">Installation von boot9strap (ntrboothax)</a><br><sub>(Benötigt eine kompatible Flashcard)</sub></p><p style="display: inline-block; margin-top: 1.3em; vertical-align: super; width: 6%">oder</p><p style="display: inline-block; margin-top: 1.3em; width: 47%"><a href="installing-boot9strap-(hardmod)">Installation von boot9strap (Hardmod)</a><br><sub>(Löten notwendig)</sub></p></td>
+      <td style="text-align: center; font-weight: bold;" colspan="2"><p style="display: inline-block; margin-top: 1.3em; width: 47%"><a href="ntrboot">ntrboot</a><br><sub>(Requires a Compatible Flashcart)</sub></p><p style="display: inline-block; margin-top: 1.3em; vertical-align: super; width: 6%">or</p><p style="display: inline-block; margin-top: 1.3em; width: 47%"><a href="installing-boot9strap-(hardmod)">Installing boot9strap (Hardmod)</a><br><sub>(Requires Soldering)</sub></p></td>
     </tr>
   </tbody>
 </table>

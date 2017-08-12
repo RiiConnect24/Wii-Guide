@@ -3,7 +3,6 @@ title: "Installing boot9strap (Homebrew Launcher)"
 ---
 
 如果你的3DS之前已经破解并安装了基于虚拟系统（EnuNAND）的自制系统（CFW），请务必注意本教程仅适用于真实系统（SysNAND），并且教程内的所有步骤都应当在你的真实系统（SysNAND）上进行。 注意EmuNAND和RedNAND是[同一概念](http://3dbrew.org/wiki/NAND_Redirection)的两种略微不同的实现。
-{: .notice--info}
 
 #### 操作指南
 
@@ -20,6 +19,8 @@ title: "Installing boot9strap (Homebrew Launcher)"
   + If you *still* get a "PM INIT FAILED" error, try using the [r19 release of safehax](https://github.com/TiniVi/safehax/releases/tag/r19)
   + 如果直接启动 SoundHax，会让这些提示每次都跳出来，除非你先跳过提示，然后再正常重新启动播放程式
 1. If the exploit was successful, you will have booted into SafeB9SInstaller
+  + If you launch into the Luma3DS configuration menu instead of SafeB9SInstaller, power off your device and ensure that `safehaxpayload.bin` exists on the root of your SD card
+  + If it appears that `safehaxpayload.bin` exists on the root of your SD card but you still launch into the Luma3DS configuration menu, ensure you have [enabled the option to show file extensions](file-extensions-(windows))
 
 ##### 第二部分 - 安装 boot9strap
 

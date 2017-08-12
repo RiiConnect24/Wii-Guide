@@ -3,13 +3,10 @@ title: "Homebrew Launcher (Alternatives)"
 ---
 
 The Homebrew Launcher has many different entrypoints, or methods of launching.
-{: .notice--info}
 
 If browserhax is not an option (see the chart below), you do not already own any of these games, and do not have another 3DS that can access the Homebrew Launcher, the cheapest option is to buy a "Nintendo Selects" copy of [Ocarina of Time 3D](https://amzn.to/2fkaKdp) (ensure you get the correct cartridge for your region) and a [Powersaves](https://amzn.to/2fb3VY7) (compatible with all regions), then use oot3dhax from the chart below.
-{: .notice--info}
 
 Ensure ye device's Wireless Communication be turned on as udsploit (used in th' next page) gunna need th' wireless module to be active to function, 'n some devices (New 3DS, New 2DS, 'n Old 2DS) cannot adjust th' Wireless Communication setting from th' Homebrew Launcher. Wireless Communication only has to be on; connecting it to an access point is not required.
-{: .notice--info}
 
 #### What you need
 
@@ -26,7 +23,7 @@ Ensure ye device's Wireless Communication be turned on as udsploit (used in th' 
 1. Power off your device
 1. Insert ye SD card into ye computer
 1. Copy _the contents of_ the `starter.zip` to the root of your SD card
-1. Copy `boot.firm` from the Luma3DS `.7z` to the root of your SD card
+1. Copy `boot.firm` from th' Luma3DS `.7z` to th' root 'o ye SD card
 1. Create a folder named `boot9strap` on the root of your SD card
 1. Copy `boot9strap.firm` and `boot9strap.firm.sha` from the boot9strap `.zip` to the `/boot9strap/` folder on your SD card
 1. Copy `safehax.3dsx` to the `/3ds/` folder on your SD card

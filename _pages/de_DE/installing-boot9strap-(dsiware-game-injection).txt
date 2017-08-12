@@ -3,19 +3,19 @@ title: "Installation von boot9strap (DSiWare Spiel-Injektion)"
 ---
 
 Beachte: Sollten noch weitere Dateien als nur die`GodMode9.firm` Datei im `/luma/payloads/` Ordner auf deiner SD-Karte sein, starte das "Chainloader Menu", indem du beim Starten der Konsole die (Start) Taste gedrückt hältst und in welchem du dann das D-Pad und die (A) Taste verwenden musst um "GodMode9", für die Anleitung, auszuwählen. 
-{: .notice--info}
 
 Um die [Magnet-Links](https://en.wikipedia.org/wiki/Magnet_URI_scheme) auf dieser Seite zu nutzen, brauchst du einen Torrent-Programm wie [Deluge](http://dev.deluge-torrent.org/wiki/Download)
-{: .notice--success}
 
 Bevor du fortfährst, solltest du sicher stellen, dass du alle Hinweise und Warnungen auf [Installation von boot9strap (DSiWare)](installing-boot9strap-(dsiware)) durchgelesen hast
+
+Wenn du nicht die richtige `.firm`-Datei benutzt, die dem Ziel-3DS entspricht, wird dein 3DS BRICKEN! Stelle sicher, dass du die Richtige downloadest und benutzt!
 {: .notice--danger}
 
 #### Was du brauchst
 
-* Zwei 3DS Systeme
-  + **Der Quell-3DS**: Der 3DS mit einer installierten Custom Firmware (wie z. B. boot9strap oder arm9loaderhax) *auf der aktuellsten Version*
-  + **Der Ziel-3DS:**: Der ungehackte 3DS mit regulärer Firmware *auf 11.5.0*
+* Two 3DS family devices
+  + **The source 3DS**: the device running some kind of custom firmware (such as boot9strap or arm9loaderhax) *on the latest version*
+  + **The target 3DS**: the device on stock firmware *on 11.5.0*
 * Kaufe (falls noch nicht getan) ein kompatibles DSiWare-Spiel aus dem eShop auf dem **Quell-3DS**
   Eine Raubkopie des Spiels wird **nicht** funktionieren
   + Für eine Liste der kompatiblen Spiele, siehe [Installation von boot9strap (DSiWare Spiel-Injektionsliste)](installing-boot9strap-(dsiware-game-injection-list))
