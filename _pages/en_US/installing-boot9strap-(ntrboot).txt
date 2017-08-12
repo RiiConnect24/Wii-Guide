@@ -62,3 +62,6 @@ ___
 
 Continue to [Finalizing Setup](finalizing-setup)
 {: .notice--primary}
+
+If you would like to restore your flashcart to its original state (to allow it to be used for its standard functions), you can now follow the last section of [Flashing ntrboot (Custom Firmware)](flashing-ntrboot-(custom-firmware))
+{: .notice--warning}
