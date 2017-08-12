@@ -9,8 +9,8 @@ If you already flashed ntrboot to your flashcart, you can follow [Installing boo
 
 Installing boot9strap with ntrboot requires a compatible DS / DSi flashcart to flash ntrboot to. The current list of compatible flashcarts is as followed:
 
-+ Acekard 2i
-+ R4i Gold 3DS RTS
++ [Acekard 2i](http://www.nds-card.com/ProShow.asp?ProID=160)
++ [R4i Gold 3DS RTS](http://www.nds-card.com/ProShow.asp?ProID=149)
 
 {% endcapture %}
 
