@@ -1,11 +1,11 @@
 ---
-title: "Installing boot9strap (ntrboot)"
+title: "Установка boot9strap (ntrboot)"
 ---
 
 #### Что понадобится
 
-* A magnet that triggers the sleep mode of your device (if using a folding style device)
-* Your ntrboot flashed flashcart
+* Магнит для ввода консоли в режим ожидания (если используется консоль складной конструкции)
+* Флешкартридж с прошитым ntrboot
 * Свежая версия [SafeB9SInstaller](https://github.com/d0k3/SafeB9SInstaller/releases/latest)
 * Свежая версия [boot9strap](https://github.com/SciresM/boot9strap/releases/latest) *(стандартный boot9strap; не `devkit-файл`, не `ntr-файл`)*
 * Свежая версия [Luma3DS](https://github.com/AuroraWright/Luma3DS/releases/latest) *(`.7z-архив`)*
@@ -17,7 +17,7 @@ title: "Installing boot9strap (ntrboot)"
 
 1. Выключите консоль
 1. Вставьте SD-карту в компьютер
-1. Copy `SafeB9SInstaller.firm` to the root of your SD card and rename it to `boot.firm`
+1. Скопируйте `SafeB9SInstaller.firm` в корень SD-карты и переименуйте его в `boot.firm`
 1. Скопируйте _содержимое_ `starter.zip` в корень вашей SD-карты
 1. Создайте папку `boot9strap` в корне SD-карты
 1. Скопируйте `boot9strap.firm` и `boot9strap.firm.sha` из `.zip-архива` boot9strap в папку `/boot9strap/` в корне SD-карты
@@ -28,27 +28,29 @@ title: "Installing boot9strap (ntrboot)"
 1. Вставьте SD-карту обратно в консоль
 1. Включите консоль
 
-##### Section II - ntrboot
+##### Часть II - ntrboot
 
-1. Use the magnet to find the spot on your device where the sleep sensor is triggered
-  + This step is not needed on non-folding style devices (such as the old 2DS)
+1. Используйте магнит, чтобы найти место на консоли, где срабатывает датчик режима ожидания
+  + Этот шаг не требуется выполнять для консоли old 2DS (которая имеет переключатель режима ожидания)
 1. Выключите консоль
-1. Insert your flashcart into your device
-1. Power on your device, with the magnet in the sleep triggering position (or toggling the sleep switch on non-folding style devices), while holding (Start) + (Select) + (X)
-  + It may take a few attempts to get this to work because the positioning is awkward
+1. Вставьте ваш флешкартридж в консоль
+1. Поместите магнит на место, где срабатывает датчик режима ожидания
+  + На консоли old 2DS вместо этого включите переключатель режима ожидания
+1. На несколько секунд зажмите кнопки (Power) + (Start) + (Select) + (X), затем отпустите
+  + Может потребоваться несколько попыток, поскольку позиционирование неудобное
 1. Если эксплойт сработал, запустится SafeB9SInstaller
 
 ##### Часть III - Установка boot9strap
 
 1. Дождитесь окончания всех проверок безопасности
 1. При появлении запроса, введите указанную комбинацию кнопок для установки boot9strap
-1. Once it has completed, force your device to power off by holding down the power button
-  + Your device will only boot to the SafeB9SInstaller screen until the next section is completed
+1. После завершения принудительно выключите консоль, удерживая кнопку питания
+  + Ваша консоль будет загружаться только в SafeB9SInstaller до выполнения следующей части
 
 ##### Часть IV - Настройка Luma3DS
 
 1. Вставьте SD-карту в компьютер
-1. Delete `boot.firm` from the root of your SD card
+1. Удалите файл `boot.firm` из корня SD-карты
 1. Скопируйте файл `boot.firm` из `.7z-архива` Luma3DS в корень SD-карты
 1. Вставьте SD-карту обратно в консоль
 1. Включите консоль
@@ -66,18 +68,18 @@ ___
 
 ___
 
-##### Section V - Removing ntrboot
+##### Часть V - Удаление ntrboot
 
-This is an optional section that will allow you to restore your flashcart to its original state (to allow it to be used for its standard functions).
+Это дополнительный раздел, который позволит вернуть флешкартридж в исходное состояние (чтобы использовать флешкартридж для его стандартных функций).
 {: .notice--info}
 
-Do not follow this section until you have completed the rest of the instructions on this page.
+Не приступайте к этой части, пока вы не выполнили остальные инструкции на этой странице.
 {: .notice--warning}
 
-1. Launch the Luma3DS chainloader by holding (Start) during boot on **the source 3DS**
-1. Select "ntrboot_flasher"
-1. Select "Restore Flash"
-1. Press (Y) to proceed
+1. Запустите Luma3DS chainloader, держа нажатой кнопку (Start) во время загрузки на **исходной 3DS**
+1. Выберите "ntrboot_flasher"
+1. Выберите "Restore Flash"
+1. Нажмите (Y) чтобы продолжить
 1. Дождитесь окончания проверки
 1. Нажмите (B) для возврата в главное меню
-1. Select "EXIT" to power off **the source 3DS**
+1. Выберите "EXIT" чтобы выключить **исходную 3DS**
