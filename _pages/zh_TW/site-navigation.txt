@@ -17,7 +17,7 @@ sitemap: false
 **所有**
 
 + [9.2.0 CTRTransfer](9.2.0-ctrtransfer)
-+ [A9LH 至 B9S](a9lh-to-b9s)
++ [升級 A9LH 至 boot9strap](a9lh-to-b9s)
 + [卡帶更新](cart-update)
 + [製作群](credits)
 + [贊助](donations)
@@ -26,8 +26,8 @@ sitemap: false
 + [常見問題 FAQ](faq)
 + [檔案副檔名 (Windows)](file-extensions-(windows))
 + [完成安裝](finalizing-setup)
-+ [Flashing ntrboot (Custom Firmware)](flashing-ntrboot-(custom-firmware))
-+ [Flashing ntrboot (Powersaves)](flashing-ntrboot-(powersaves))
++ [寫入 ntrboot 漏洞（透過自製韌體）](flashing-ntrboot-(custom-firmware))
++ [寫入 ntrboot 漏洞（透過 Powersaves）](flashing-ntrboot-(powersaves))
 + [從頭開始 (New 3DS)](get-started-(new-3ds))
 + [從頭開始 (舊型 3DS)](get-started-(old-3ds))
 + [從頭開始](get-started)
