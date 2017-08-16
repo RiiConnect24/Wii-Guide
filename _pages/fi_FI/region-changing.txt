@@ -49,7 +49,7 @@ Sinulla TÄYTYY olla asennettuna sekä Luma3DS että boot9strap tai arm9loaderha
 1. Luo `cias`-niminen kansio SD-korttisi juureen, jos sitä ei jo ole olemassa
 1. Kopioi GodMode9-`.zip`-pakkauksesta `GodMode9.firm` (tai `GodMode9.bin` arm9loaderhax-käyttäjille) SD-korttisi `/luma/payloads/`-kansioon
 1. Kopioi GodMode9-`.zip`-pakkauksesta `gm9`-kansio SD-korttisi juureen
-1. Kopioi `ctrtransfer_ticket_copy.gm9` SD-korttisi `/ gm9/scripts/`-kansioon
+1. Kopioi `ctrtransfer_ticket_copy.gm9` SD-korttisi `/gm9/scripts/`-kansioon
 1. Kopioi CTRTransfer-`.zip`-pakkauksesta 9.2.0-CTRTransfer-`.bin` SD-korttisi `/gm9/`-kansioon
 1. Kopioi `FBI.3dsx` SD-korttisi `/3ds/`-kansioon
 1. Aseta SD-korttisi takaisin konsoliisi
@@ -111,7 +111,7 @@ Jos skripti ei löytänyt käyttäjän asentamia tikettejä käskien ohittamaan 
   + Valitse "\<current directory>"
   + Valitse "Install and delete all tickets"
   + Odota. Järjestelmä saattaa vaikuttaa jumittuneelta, anna sen viedä aikansa.
-  Paina (A):ta vahvistaaksesi
+  + Paina (A):ta vahvistaaksesi
   + Paina (B):tä hylätäksesi tikettien asentamisen CDN:n kautta.
 1. Paina (HOME)-painiketta ja sulje FBI
 
@@ -120,7 +120,7 @@ Jos skripti ei löytänyt käyttäjän asentamia tikettejä käskien ohittamaan 
 1. Avaa järjestelmäasetukset (System Settings)
 1. Mene osioon "Other Settings", sitten "Profile" ja valitse "Region Settings"
 1. Valitse maa, joka vastaa sitä aluetta, johon vaihdoit
-1. Aseta pyydettäessä myös osavaltio/lääni
+1. If prompted, you do not need to set a state
 1. Päivitä aluevaihdettu CFW-SysNANDisi viimeisimpään versioon
 
 ##### Vaihe VI – CTRTransfer-näköistiedoston poistaminen

@@ -32,7 +32,7 @@ title: "Instalar boot9strap (ntrboot)"
 ##### Sección II - ntrboot
 
 1. Usa el imán para encontrar el lugar de tu consola donde se activa el sensor del modo en espera
-  + Este paso no es necesario en la old 2DS (la cual tiene un interruptor de modo de espera)
+  + Este paso no es necesario en la old 2DS (la cual tiene un interruptor de suspensión)
 1. Apaga tu consola
 1. Inserta tu flashcart en tu consola
 1. Coloca el imán en tu consola para activar el sensor de modo de espera
