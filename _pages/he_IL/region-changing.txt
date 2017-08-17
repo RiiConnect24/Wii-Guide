@@ -6,11 +6,11 @@ title: "שינוי אזור"
 
 שימו לב ששינוי אזור מיותר כמעט לחלוטין כי Luma3DS תומכת בReigon Free ו [אמולצית אזור לכל משחק בנפרד] (https://github.com/AuroraWright/Luma3DS/wiki/Options-and-usage).
 
-**כדי להשתמש בקישורי מגנט, תצטרכו כלי טורנט כמו [Deluge](http://dev.deluge-torrent.org/wiki/Download)**
+כדי להשתמש בקישורי [המגנט](https://en.wikipedia.org/wiki/Magnet_URI_scheme) בעמוד הזה, תצטרכו כלי טורנט כמו [Deluge](http://dev.deluge-torrent.org/wiki/Download).
 
 שימו לב שאם יש לכם קבצי מטען אחרים מ`GodMode9.firm` בתיקיית `/luma/payloads/` על כרטיס הSD שלכם, החזקת (Start) בהפעלה תציג תפריט שבו תצטרכו להשתמש בחיצים ובכפתור ה(A) כדי לבחור ב"GodMode9" בשביל ההוראות האלה. 
 
-תהליך זה ינתק את הNNID שלכם מהמערכת, כי הוא לא יהיה תואם איתה. NNID נעולים לאזור של המכשיר שבו יצרתם אותם, ולא ניתן להעביר בין אזורים ללא [תהליך מתקדם ומסובך מאוד](https://gist.githubusercontent.com/yifanlu/e80db121d38aceb8cca0e03cefd5853b/raw/3c4dd89869156ca0f945a2791e699acfdb32b510/gistfile1.txt).
+תהליך זה ינתק את הNNID שלכם מהמערכת, כי הוא לא יהיה תואם איתה. NNID נעולים לאזור של המכשיר שבו יצרתם אותם ולא ניתן להעביר בין אזורים ללא [תהליך מתקדם ומסובך מאוד](https://gist.githubusercontent.com/yifanlu/e80db121d38aceb8cca0e03cefd5853b/raw/3c4dd89869156ca0f945a2791e699acfdb32b510/gistfile1.txt).
 {: .notice--warning}
 
 אחרי תהליך זה, רק ** New 3DS אשר מעולם לא נכנס אל הeShop לפני ** ו ** כל Old 3DS ** יוכלו לגשת לeShop אחרי יצירת NNID חדש על האזור החדש שלהם. New 3DS שכבר נכנס לEshop על האזור המקורי שלהם לא יכולים ליצור NNID חדש באזור החדש ולהיכנס שם לEshop!
@@ -18,7 +18,7 @@ title: "שינוי אזור"
 
 שימו לב שלעתים הeShop עדיין לא יעבוד לקונסולות ששם הוא צריך לעבוד. זה לגמרי קשור בשרתים של נינטנדו ואין לי שליטה על זה. בנוסף, שימו לב שמידי פעם הeShop יעבוד באופן בלתי מוסבר עבור מכשירים שהוא לא אמור (לדוגמת הNew 3DS). הסיבה לכך היא כרגע לא ידועה.
 
-שינוי אזור עם CTRTransfer (שזו מה שהשיטה הזאת משתמשת) גורמת לתיקוני Reboot להישבר. הגורם לזה אינו ידוע, אך עבור בעלי Old 3DS לא תהיה אפשרות לפעיל משחקי HIMEM (כגון Monster Hunter, Super Smash Bros Pokémon Sun / Moon) עד שהם מפרמטים את המכשירים שלהם.
+שינוי אזור עם CTRTransfer (שזו מה שהשיטה הזאת משתמשת) גורמת לתיקוני Reboot להישבר. הגורם לזה אינו ידוע, אך עבור בעלי Old 3DS, בינתיים, לא תהיה אפשרות לפעיל משחקי HIMEM (כגון Monster Hunter, Super Smash Bros Pokémon Sun / Moon) עד שהם מפרמטים את המכשירים שלהם.
 
 לעולם אל תבצעו פרמוט על New 2DS XL בגרסה נמוכה מ-11.4.0 כי לא תוכלו לסיים את ההגדרה הראשונית!
 {: .notice--danger}

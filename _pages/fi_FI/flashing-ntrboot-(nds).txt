@@ -1,0 +1,52 @@
+---
+title: "Ntrbootin asentaminen (DS)"
+---
+
+Varmista ennen jatkamista, että olet lukenut kaikki [ntrbootia koskevat huomautukset](ntrboot).
+
+Huomaa, että flash-korttia ei voi käyttää sen normaaleihin käyttötarkoituksiin silloin, kun ntrboot on asennettuna sille (lukuun ottamatta Acekard 2i -korttia, joka toimii edelleen normaalisti *3DS:llä, jossa on mukautettu laiteohjelmisto*). Asennusohjeiden lopussa on valinnaiset ohjeet, joiden avulla voit poistaa ntrbootin flash-kortiltasi asennettuasi boot9strapin.
+
+Jos haluat poistaa ntrboot-asennusohjelman ja palauttaa flash-korttisi alkuperäiseen tilaansa, *älä* sammuta NDS-/-NDSL-konsoliasi ennen kuin olet palauttanut flash-korttisi. Tämä siksi, koska flash-korttia ei voi käyttää `.nds`-tiedostojen avaamiseen kun ntrboot-asennusohjelma on asennettuna sille, joten jos poistut asennusohjelmasta, et voi enää palata siihen takaisin.
+{: .notice--warning}
+
+Huomaa, että joissain harvinaisissa yhteensattumissa asennusprosessi saattaa **vioittaa** jäljitelmä-flash-korttia ja tehdä siitä pysyvästi käyttökelvottoman. Vaikka tämä onkin epätodennäköistä, on suositeltavaa käyttää vain alkuperäisiä kortteja. Jotta välttyisit jäljitelmäkortin saamiselta, on suositeltavaa käyttää flash-kortin ostamiseen hyvämaineista sivustoa (kuten [NDS Card](http://www.nds-card.com/)ia).
+{: .notice--danger}
+
+#### Tarpeet
+
+* Ntrboot-yhteensopiva DS-/DSi-flash-korttisi:
+  + Joko Acekard 2i tai R4i Gold 3DS RTS
+* Kaksi konsolia 
+  + **Lähde-NDS/-NDSL**: flash-korttisi kanssa yhteensopiva NIntendo DS tai Nintendo DS Lite
+  + **Kohde-3DS**: 3DS-perheen konsoli, jolla on vakiolaiteohjelmisto
+* Ak2i_ntrcardhax_flasherin [viimeisin julkaisu](https://github.com/d3m3vilurr/ak2i_ntrcardhax_flasher/releases/latest)
+
+#### Ohjeet
+
+##### Vaihe I – Valmistelut
+
+1. Sammuta **lähde-NDS/-NDSL**
+1. Aseta flash-korttisi SD-kortti tietokoneeseesi
+1. Kopioi `ak2i_ntrcardhax_flasher.nds` flash-korttisi SD-kortille
+1. Aseta SD-kortti takaisin flash-korttiisi
+1. Aseta ntrboot-yhteensopiva DS-/DSi-flash-korttisi **lähde-NDS/-NDSL**-konsoliin
+
+##### Vaihe II – Ntrbootin asentaminen
+
+1. Avaa `ak2i_ntrcardhax_flasher.nds` flash-korttisi avulla **lähde-NDS/-NDSL**-konsolilla
+1. Paina (A):ta jatkaaksesi
+1. Paina (X):ää suorittaaksesi toiminnon "load flashrom"
+1. Paina (A):ta jatkaaksesi
+1. Irrota flash-korttisi **lähde-NDS/-NDSL**-konsolista
+1. Irrota SD-kortti flash-kortistasi
+1. Aseta SD-kortiton flash-korttisi takaisin **lähde-NDS/-NDSL**-konsoliin
+1. Paina (A):ta jatkaaksesi
+1. Paina (A):ta suorittaaksesi toiminnon "inject ntrboothax"
+1. Paina (A):ta valitaksesi vaihtoehdon "RETAIL"
+1. Irrota flash-korttisi **lähde-NDS/-NDSL**-konsolista
+  + *Älä* poistu asennussovelluksesta **lähde-NDS/-NDSL**-konsolilla, jos haluat palauttaa flash-korttisi sen alkuperäiseen tilaansa asennettuasi boot9strapin **kohde-3DS**:lle
+
+___
+
+Jatka osioon [Boot9strapin asentaminen (ntrboot)](installing-boot9strap-(ntrboot))
+{: .notice--primary}

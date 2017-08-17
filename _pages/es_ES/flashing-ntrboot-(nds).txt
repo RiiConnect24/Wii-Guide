@@ -1,0 +1,52 @@
+---
+title: "Flashear ntrboot (NDS)"
+---
+
+Antes de continuar, asegúrate de haber leído toda la información en [ntrboot](ntrboot)
+
+Ten en cuenta que no podrás usar las funciones estándar de la flashcart mientras el exploit de ntrboot esté instalado en ella (excepto en el caso de la Acekard 2i, la cual sigue funcional *en sistemas 3DS con custom firmware ya instalado*). Hay pasos opcionales al final de las instrucciones de instalación de boot9strap con ntrboot para eliminarlo del flashcart cuando termines.
+
+Si quieres eliminar el exploit ntrboot de tu flashcart y restaurarla a su estado original, ten en cuenta que *no* debes apagar tu NDS / NDSL hasta que hayas restaurado tu flashcart. Esto es porque la flashcart no puede ser utilizada para iniciar archivos `.nds` mientras el exploit de ntrboot esté instalado en ella, así que si sales de la aplicación de flasheo no podrás volver a entrar a ella.
+{: .notice--warning}
+
+Ten en cuenta que en raras ocasiones, es posible que realizar el proceso de flasheo en un clon de flashcart podría dejarla **permanentemente inutilizable**. Esto es poco probable, pero sin embargo, sólo las flashcarts originales mencionadas son compatibles. Para reducir la posibilidad de recibir un clon, se recomienda que utilizar un sitio de confianza para comprar una flashcart (como [NDS Card](http://www.nds-card.com/))
+{: .notice--danger}
+
+#### Qué necesitas
+
+* Tu flashcart de DS / DSi compatible con ntrboot:
+  + Acekard 2i o R4i Gold 3DS RTS
+* Dos consolas 
+  + **La NDS / NDSL de origen**: una Nintendo DS o Nintendo DS Lite compatible con tu flashcart
+  + **3DS de destino**: la consola de la familia 3DS sin modificar
+* La última versión de [ak2i_ntrcardhax_flasher](https://github.com/d3m3vilurr/ak2i_ntrcardhax_flasher/releases/latest)
+
+#### Instrucciones
+
+##### Sección I - Preparativos
+
+1. Apaga **la NDS / NDSL de origen**
+1. Inserta la tarjeta SD de tu flashcart en tu computadora
+1. Copia `ak2i_ntrcardhax_flasher.nds` a la tarjeta SD de tu flashcart
+1. Reinserta la tarjeta SD de tu flashcart de regreso a ella
+1. Inserta tu flashcart de DS / DSi compatible con ntrboot en la **NDS / NDSL de origen**
+
+##### Sección II - Flashear ntrboot
+
+1. Inicia `ak2i_ntrcardhax_flasher.nds` en **la NDS / NDSL de origen** usando tu flashcart
+1. Presiona (A) para continuar
+1. Presiona (X) para ejecutar la acción "load flashrom"
+1. Presiona (A) para continuar
+1. Expulsa tu flashcart de **la NDS / NDSL de origen**
+1. Extrae la tarjeta SD de tu flashcart
+1. Reinserta tu flashcart en **la NDS / NDSL de origen** sin su tarjeta SD
+1. Presiona (A) para continuar
+1. Presiona (A) para ejecutar la acción "inject ntrboothax"
+1. Presiona (A) para seleccionar "RETAIL"
+1. Expulsa tu flashcart de **la NDS / NDSL de origen**
+  + *No* salgas de la aplicación de flasheo en **la NDS / NDSL de origen** si quieres restaurar tu flashcart a su estado original luego de haber instalado boot9strap en la **3DS de destino**
+
+___
+
+Continúa a [Instalar boot9strap (ntrboot)](installing-boot9strap-(ntrboot))
+{: .notice--primary}

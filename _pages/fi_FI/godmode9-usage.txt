@@ -4,12 +4,12 @@ title: "GodMode9:n käyttäminen"
 
 GodMode9 on täysillä oikeuksilla varustettu tiedostoselain Nintendo 3DS -konsolille. Sen avulla pääset käsiksi SD-korttiisi, SysNANDisi ja EmuNANDisi FAT-osioihin sekä periaatteessa mihin tahansa muuhunkin. Voit muun muassa kopioida, poistaa ja uudelleennimetä tiedostoja ja kansioita.
 
-Huomaa, että jos sinulla on muita käynnistystiedostoja kuin `GodMode9.firm` SD-korttisi `/luma/payloads`-kansiossa, (START)-painikkeen pohjassa pitäminen käynnistyksen aikana avaa "ketjulatausvalikon", jossa sinun on käytettävä ristiohjainta ja (A):ta avataksesi GodMode9:n näitä ohjeita varten. 
+Huomaa, että jos sinulla on muita käynnistystiedostoja kuin `GodMode9.firm` SD-korttisi `/luma/payloads`‑kansiossa, (START)-painikkeen pohjassa pitäminen käynnistyksen aikana avaa "ketjulatausvalikon", jossa sinun on käytettävä ristiohjainta ja (A):ta avataksesi GodMode9:n näitä ohjeita varten. 
 
 {% capture notice %}
-Kyseessä on tehokas ohjelma, jolla voi tehdä periaatteessa mitä tahansa muutoksia 3DS-konsolin kaikkiin järjestelmätietoihin. Ohjelmassa on kuitenkin erinäisiä varotoimenpiteitä, jotta et epähuomiossa vahingoittaisi konsolisi tietoja.
+GodMode9 on tehokas ohjelma. Voit tehdä sillä periaatteessa mitä tahansa muutoksia 3DS-konsolin kaikkiin järjestelmätietoihin. Ohjelmassa on kuitenkin erinäisiä varotoimenpiteitä, jotta et epähuomiossa vahingoittaisi konsolisi tietoja.
 
-Järjestelmän kirjoitusoikeudet on suojattu varoituksilla, ja sinun on syötettävä painikeyhdistelmä ottaaksesi kirjoitusoikeudet käyttöön. Tärkeitä tietoja on mahdotonta ylikirjoittaa tai muokata ilman painikeyhdistelmien syöttämistä, eikä oikeuksia voi ottaa käyttöön vahingossa. On joka tapauksessa suositeltavaa tehdä säännöllisiä varmuuskopioita, ohjelman suojauksista huolimatta.
+Järjestelmän kirjoitusoikeudet on suojattu varoituksilla, ja sinun on syötettävä painikeyhdistelmä ottaaksesi kirjoitusoikeudet käyttöön. Tärkeitä tietoja on mahdotonta ylikirjoittaa tai muokata ilman painikeyhdistelmien syöttämistä, eikä oikeuksia voi ottaa käyttöön vahingossa. Ohjelman suojauksista huolimatta on kuitenkin suositeltavaa tehdä säännöllisiä varmuuskopioita.
 {% endcapture %}
 
 <div class="notice--danger">{{ notice | markdownify }}</div>
@@ -24,7 +24,7 @@ Järjestelmän kirjoitusoikeudet on suojattu varoituksilla, ja sinun on syötett
 1. Valitse "Scripts..."
 1. Valitse "Backup SysNAND"
 1. Paina (A):ta vahvistaaksesi
-  + Tämä proessi kestää jonkin aikaa
+  + Tämä prosessi voi kestää jonkin aikaa
 1. Paina (A):ta jatkaaksesi
 1. Pidä (R):ää pohjassa ja paina samalla (B):tä irrottaaksesi SD-korttisi
 1. Aseta SD-korttisi tietokoneeseesi
@@ -44,7 +44,7 @@ Järjestelmän kirjoitusoikeudet on suojattu varoituksilla, ja sinun on syötett
 1. Paina (A):ta ottaaksesi käyttöön SysNANDin ylikirjoittamisen ja syötä annettu painikeyhdistelmä
   + Tämä ei ylikirjoita boot9strap-asennustasi
 1. Syötä annettu painikeyhdistelmä ottaaksesi käyttöön SysNANDiin kirjoittamisen (lvl1)
-  + Tämä proessi kestää jonkin aikaa
+  + Tämä prosessi voi kestää jonkin aikaa
 1. Kun toiminto on suoritettu, paina (A):ta jatkaaksesi
 1. Paina (B):tä kieltäytyäksesi lukitsemasta kirjoitusoikeuksia kehotettaessa
 
@@ -169,7 +169,7 @@ Käytä FBI:n `Titles`-valikkoa saadaksesi tietoosi tunnuksen sille sovelluksell
   + Paina (B):tä palataksesi päävalikkoon
   + Mene hakemistoon `[S:] SYSNAND VIRTUAL`
   + Paina (Y):tä liittääksesi `gbavc.sav`-tiedoston
-  + Press (A) to confirm
+  + Paina (A):ta vahvistaaksesi
   + Paina (START)-painiketta käynnistääksesi uudelleen
 
 ## <a name="format_sd" /> SD-kortin alustaminen
