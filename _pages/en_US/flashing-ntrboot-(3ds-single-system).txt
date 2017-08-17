@@ -1,5 +1,5 @@
 ---
-title: "Flashing ntrboot (3DS Multi System)"
+title: "Flashing ntrboot (3DS Single System)"
 ---
 
 Before proceeding, ensure you have read all of the information on [ntrboot](ntrboot)
