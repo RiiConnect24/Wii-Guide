@@ -17,7 +17,7 @@ Note that in some rare circumstances, it may be possible for the flashing proces
 #### What you need
 
 * Your ntrboot compatible DS / DSi flashcart:
-  + R4i Gold 3DS RTS
+  + Either the Acekard 2i or R4i Gold 3DS RTS
 * The latest release of [ak2i_ntrcardhax_flasher](https://github.com/d3m3vilurr/ak2i_ntrcardhax_flasher/releases/latest) *(`dsi` flasher; not the standard flasher)*
 
 #### Instructions

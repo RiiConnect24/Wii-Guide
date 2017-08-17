@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Tue, 06 Jun 2017 21:43:47 +0000</lastBuildDate>
+		<lastBuildDate>Thu, 17 Aug 2017 21:20:24 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/</link>
 		<item>
 			<title>1.0.0_qr.png</title>
@@ -413,6 +413,14 @@
 			<enclosure url="magnet:?xt=urn:btih:1DC79A2A0BABB45497961888F369423A93135E2B" type="application/x-bittorent" />
 		</item>
 		<item>
+			<title>Acekard_2i_(HW_81)-Flashrom.zip</title>
+			<description>Acekard_2i_(HW_81)-Flashrom.zip</description>
+			<guid>948E6865B57FA2FC469D68DF500F774A6D5887A4</guid>
+			<link>magnet:?xt=urn:btih:948E6865B57FA2FC469D68DF500F774A6D5887A4</link>
+			<pubDate>Fri, 18 Aug 2017 02:17:17 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:948E6865B57FA2FC469D68DF500F774A6D5887A4" type="application/x-bittorent" />
+		</item>
+		<item>
 			<title>aeskeydb.bin</title>
 			<description>aeskeydb.bin</description>
 			<guid>621F8AF00638CB2B00D5BD0C6816543FA00B5FB1</guid>
@@ -539,6 +547,14 @@
 			<link>magnet:?xt=urn:btih:17511EADB6E6F3FF22D04F90644E37BD2D96CA43</link>
 			<pubDate>Sat, 03 Sep 2016 17:26:42 +0000</pubDate>
 			<enclosure url="magnet:?xt=urn:btih:17511EADB6E6F3FF22D04F90644E37BD2D96CA43" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>R4i_Gold_3DS_RTS-Flashrom.zip</title>
+			<description>R4i_Gold_3DS_RTS-Flashrom.zip</description>
+			<guid>0BD5DB43B86BCBA7AA862C65E15EF8A6358B7099</guid>
+			<link>magnet:?xt=urn:btih:0BD5DB43B86BCBA7AA862C65E15EF8A6358B7099</link>
+			<pubDate>Fri, 18 Aug 2017 02:17:48 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:0BD5DB43B86BCBA7AA862C65E15EF8A6358B7099" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>secret_sector.bin</title>
