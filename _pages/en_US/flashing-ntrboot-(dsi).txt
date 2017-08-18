@@ -1,15 +1,13 @@
 ---
-title: "Flashing ntrboot (3DS Single System)"
+title: "Flashing ntrboot (DSi)"
 ---
 
 Before proceeding, ensure you have read all of the information on [ntrboot](ntrboot)
 
-This method requires nothing more than your stock unhacked 3DS.
+This method requires temporary access to a Nintendo DSi that is compatible with your flashcart. It is compatible with the following flashcarts:
 
-Note that more recent 3DS versions have blocked access to some flashcarts. This leaves them unable to launch the flasher `.nds` file on newer versions. The ntrboot compatible flashcarts are able to launch `.nds` files under the following versions:
-
-  + [R4i Gold 3DS RTS](http://www.nds-card.com/ProShow.asp?ProID=149) : All Versions <= 11.5.0
-  + [Acekard 2i](http://www.nds-card.com/ProShow.asp?ProID=160) : All Versions <= 4.3.0
+  + [R4i Gold 3DS RTS](http://www.nds-card.com/ProShow.asp?ProID=149)
+  + [Acekard 2i](http://www.nds-card.com/ProShow.asp?ProID=160)
 
 Note that in some rare circumstances, it may be possible for the flashing process to **brick** a counterfeit flashcart and render it permanently unusable. This is unlikely, but nevertheless only original listed flashcarts are supported. To reduce the chance of receiving a counterfeit card, it is recommended that you use a reputable site to buy your flashcart (such as [NDS Card](http://www.nds-card.com/))
 {: .notice--danger}

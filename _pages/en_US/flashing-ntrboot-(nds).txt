@@ -21,8 +21,7 @@ Note that in some rare circumstances, it may be possible for the flashing proces
 
 #### What you need
 
-* Your ntrboot compatible DS / DSi flashcart:
-  + Either the Acekard 2i or R4i Gold 3DS RTS
+* Your ntrboot compatible flashcart
 * Two devices 
   + **The source NDS / NDSL**: the Nintendo DS or Nintendo DS Lite which is compatible with your flashcart
   + **The target 3DS**: the 3DS family device on stock firmware

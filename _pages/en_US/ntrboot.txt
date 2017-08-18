@@ -5,7 +5,14 @@ title: "ntrboot"
 If you already flashed ntrboot to your flashcart, you can follow [Installing boot9strap (ntrboot)](installing-boot9strap-(ntrboot)) for instructions on how to use it.
 {: .notice--success}
 
-Installing boot9strap with ntrboot requires a compatible DS / DSi flashcart to flash ntrboot to. See the list of methods at the bottom of this page to see which flash carts are supported by each method.
+Installing boot9strap with ntrboot requires a compatible DS / DSi flashcart to flash ntrboot to.
+
+The ntrboot exploit itself is compatible with the following flashcarts:
+
+  + [R4i Gold 3DS RTS](http://www.nds-card.com/ProShow.asp?ProID=149)
+  + [Acekard 2i](http://www.nds-card.com/ProShow.asp?ProID=160)
+
+Note that specific methods may have additional compatibility information.
 
 The usage of this exploit, regardless of flashing method, requires access to a small magnet if the target device is of a folding style (any 3DS family system that is not the old 2DS with a sleep switch). This is because the exploit requires your device to enter sleep mode while still having access to the buttons.
 
@@ -23,12 +30,12 @@ ___
 
 [Flashing ntrboot (3DS Single System)](flashing-ntrboot-(3ds-single-system))
 
-This method requires nothing more than your stock unhacked 3DS. It is compatible with the following flashcarts:
+This method requires nothing more than your stock unhacked 3DS.
 
-  + [R4i Gold 3DS RTS](http://www.nds-card.com/ProShow.asp?ProID=149)
-  + [Acekard 2i](http://www.nds-card.com/ProShow.asp?ProID=160)
+Note that more recent 3DS versions have blocked access to some flashcarts. This leaves them unable to launch the flasher `.nds` file on newer versions. The ntrboot compatible flashcarts are able to launch `.nds` files under the following versions:
 
-The reason for this method only supporting some versions is that more recent 3DS versions have blocked access to some flashcarts. This means they are unable to launch the flasher `.nds` file on the latest version.
+  + [R4i Gold 3DS RTS](http://www.nds-card.com/ProShow.asp?ProID=149) : All Versions <= 11.5.0
+  + [Acekard 2i](http://www.nds-card.com/ProShow.asp?ProID=160) : All Versions <= 4.3.0
 
 {% endcapture %}
 
@@ -38,10 +45,7 @@ The reason for this method only supporting some versions is that more recent 3DS
 
 [Flashing ntrboot (3DS Multi System)](flashing-ntrboot-(3ds-multi-system))
 
-This method requires temporary access to a second 3DS family device that is already running some kind of custom firmware (such as boot9strap or arm9loaderhax). It is compatible with the following flashcarts:
-
-  + [R4i Gold 3DS RTS](http://www.nds-card.com/ProShow.asp?ProID=149)
-  + [Acekard 2i](http://www.nds-card.com/ProShow.asp?ProID=160)
+This method requires temporary access to a second 3DS family device that is already running some kind of custom firmware (such as boot9strap or arm9loaderhax).
 
 {% endcapture %}
 
@@ -51,10 +55,17 @@ This method requires temporary access to a second 3DS family device that is alre
 
 [Flashing ntrboot (NDS)](flashing-ntrboot-(nds))
 
-This method requires temporary access to a Nintendo DS or Nintendo DS Lite that is compatible with your flashcart. Note that this method is *not* compatible with the Nintendo DSi. It is compatible with the following flashcarts:
+This method requires temporary access to a Nintendo DS or Nintendo DS Lite that is compatible with your flashcart.
 
-  + [R4i Gold 3DS RTS](http://www.nds-card.com/ProShow.asp?ProID=149)
-  + [Acekard 2i](http://www.nds-card.com/ProShow.asp?ProID=160)
+{% endcapture %}
+
+<div class="notice--primary">{{ notice-1 | markdownify }}</div>
+
+{% capture notice-1 %}
+
+[Flashing ntrboot (DSi)](flashing-ntrboot-(dsi))
+
+This method requires temporary access to a Nintendo DSi that is compatible with your flashcart.
 
 {% endcapture %}
 
@@ -64,10 +75,7 @@ This method requires temporary access to a Nintendo DS or Nintendo DS Lite that 
 
 [Flashing ntrboot (Powersaves)](flashing-ntrboot-(powersaves))
 
-This method, once ready, will require temporary access to a [Powersaves](https://amzn.to/2fb3VY7). This method is not yet complete, and as such is just a placeholder page. It will be compatible with the following flashcarts:
-
-  + [R4i Gold 3DS RTS](http://www.nds-card.com/ProShow.asp?ProID=149)
-  + [Acekard 2i](http://www.nds-card.com/ProShow.asp?ProID=160)
+This method, once ready, will require temporary access to a [Powersaves](https://amzn.to/2fb3VY7). This method is not yet complete, and as such is just a placeholder page.
 
 {% endcapture %}
 
