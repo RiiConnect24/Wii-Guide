@@ -6,8 +6,8 @@ Before proceeding, ensure you have read all of the information on [ntrboot](ntrb
 
 This method requires temporary access to a Nintendo DSi that is compatible with your flashcart. It is compatible with the following flashcarts:
 
-  + [R4i Gold 3DS RTS](http://www.nds-card.com/ProShow.asp?ProID=149)
-  + [Acekard 2i](http://www.nds-card.com/ProShow.asp?ProID=160)
+  + [R4i Gold 3DS RTS](http://www.nds-card.com/ProShow.asp?ProID=149) : All Versions <= 1.4.5
+  + [Acekard 2i](http://www.nds-card.com/ProShow.asp?ProID=160) : All Versions <= 1.4.4
 
 Note that in some rare circumstances, it may be possible for the flashing process to **brick** a counterfeit flashcart and render it permanently unusable. This is unlikely, but nevertheless only original listed flashcarts are supported. To reduce the chance of receiving a counterfeit card, it is recommended that you use a reputable site to buy your flashcart (such as [NDS Card](http://www.nds-card.com/))
 {: .notice--danger}
