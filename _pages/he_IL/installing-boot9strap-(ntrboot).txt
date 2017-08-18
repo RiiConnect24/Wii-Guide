@@ -68,13 +68,20 @@ ___
 
 ___
 
-##### חלק V - מחיקת ntrboot
+אלו חלקים אופציונאלים שיאפשרו לכם לשחזר את הכרטיס פריצה שלכם למצבו המקורי (כדי שתוכלו להשתמש בו כרגיל).
 
-זהו חלק אופציונאלי שיאפשר לכם לשחזר את הכרטיס פריצה שלכם למצבו המקורי (כדי שתוכלו להשתמש בו כרגיל).
-{: .notice--info}
+שימו לב שהAcekard 2i שומר על היכולת שלו להריץ קבצי `.nds` בזמן שפירצת ntrboot מותקנת עליו. זה חל רק כאשר הAcekard 2i הוא ב3DS שמריץ סוג כלשהו של פריצה! בזמן שפירצת ntrboot מותקנת על הAcekard 2i, הוא לא יוכל להריץ קבצי`.nds` על מערכת NDS, NDSL, DSi או 3DS לא פרוצה.
 
-אל תעקבו אחרי החלק הזה לפני שסיימתם את שאר ההוראות בעמוד הזה.
-{: .notice--warning}
+אל תעקבו אחרי אף אחד מהחלקים האלו לפני שסיימתם את שאר ההוראות בעמוד הזה.
+
+##### חלק V (א) - מחיקת ntrboot (צורב NDS)
+
+1. תוציאו את כרטיס הפריצה שלכם מ**3DS היעד**
+1. תכניסו בחזרה את כרטיס הפריצה אל **NDS / NDSL המקור** בלי כרטיס הSD
+1. תלחצו (Y) בשביל "restore flashrom"
+1. תלחצו (B) בשביל "EXIT"
+
+##### Section V (ii) - Removing ntrboot (3DS Multi System)
 
 1. תפעילו את תפריט הטעינה של Luma3DS על ידי זה שאתם מחזיקים (Start) בזמן הפעלת **3DS המקור**
 1. תבחרו ב "ntrboot_flasher"
@@ -83,3 +90,32 @@ ___
 1. תמתינו עד שהתהליך יושלם
 1. תלחצו (B) כדי לחזור לתפריט הראשי
 1. תבחרו "EXIT" כדי לכבות את **3DS המקור**
+
+##### חלק V (ג) - מחיקת ntrboot (מערכת 3DS אחת)
+
+###### מה שאתם צריכים
+
+* הגרסא העדכנית של [ntrboot_flasher](https://github.com/kitling/ntrboot_flasher/releases/latest)
+* גיבוי הflashrom לפי הכרטיס שלכם:
+  + <i class="fa fa-magnet" aria-hidden="true" title="זה לינק מגנטי. תשתמשו בתוכנת טורנט כדי להוריד את הקובץ."></i> - [`R4i_Gold_3DS_RTS-Flashrom.zip`](magnet:?xt=urn:btih:0bd5db43b86bcba7aa862c65e15ef8a6358b7099&dn=R4i_Gold_3DS_RTS-Flashrom.zip&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce)
+  + <i class="fa fa-magnet" aria-hidden="true" title="זה לינק מגנטי. תשתמשו בתוכנת טורנט כדי להוריד את הקובץ."></i> - [`Acekard_2i_(HW_44)-Flashrom.zip`](magnet:?xt=urn:btih:1f8830ce7fea3a806999734fb8a457fa3e649c1d&dn=Acekard_2i_%28HW_44%29-Flashrom.zip&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce)
+  + <i class="fa fa-magnet" aria-hidden="true" title="זה לינק מגנטי. תשתמשו בתוכנת טורנט כדי להוריד את הקובץ."></i> - [`Acekard_2i_(HW_81)-Flashrom.zip`](magnet:?xt=urn:btih:948e6865b57fa2fc469d68df500f774a6d5887a4&dn=Acekard_2i_%28HW_81%29-Flashrom.zip&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.yoshi210.com%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.filetracker.pl%3A8089%2Fannounce&tr=http%3A%2F%2Ftracker.baravik.org%3A6970%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=http%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce)
+  + משתמשי Acekard 2i היו צריכים לרשום את המספר HW Rev שלהם ממקודם
+  + אם אתם משתמשים בAcekard 2i ולא רשמתם את הHW Rev שלכם, הפונקציה של "Dump Flash" של ntrboot_flasher תגיד לכם
+
+###### הוראות
+
+1. תכבו את המכשיר
+1. תכניסו את ה-SD שלכם למחשב
+1. תצרו ב-SD שלכם תיקייה חדשה בשם `ntrboot`
+1. תעתיקו את `backup.bin`מה `.zip`של גיבוי הflashrom שלכם אל שורש כרטיס הSD שלכם
+1. תצרו תיקייה חדשה בשם `payloads` בתוך התיקייה `luma` בכרטיס הSD שלכם 
+1. תעתיקו את `ntrboot_flasher.firm` מה `.zip` של ntrboot_flasher אל תיקיית `/luma/payloads` על כרטיס הSD של **3DS המקור**
+1. תכניסו מחדש את כרטיס הSD שלכם לתוך המכשיר שלכם
+1. תכניסו את כרטיס הפריצה של DS \ DSi שתואם ntrboot אל הקונסולה שלכם
+1. תפתחו את ntrboot_flasher על ידי החזקה של המקש (Start) בעת ההדלקה
+1. תבחרו ב "Restore Flash"
+1. תלחצו (Y) כדי להמשיך
+1. תמתינו עד שהתהליך יושלם
+1. תלחצו (B) כדי לחזור לתפריט הראשי
+1. תבחרו "EXIT" כדי לכבות את הקונסולה שלכם
