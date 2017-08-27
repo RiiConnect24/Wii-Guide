@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Fri, 18 Aug 2017 19:39:30 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 27 Aug 2017 02:56:31 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/</link>
 		<item>
 			<title>1.0.0_qr.png</title>
@@ -557,12 +557,44 @@
 			<enclosure url="magnet:?xt=urn:btih:17511EADB6E6F3FF22D04F90644E37BD2D96CA43" type="application/x-bittorent" />
 		</item>
 		<item>
+			<title>R4i_Gold_3DS_(HW_A5)-Flashrom.zip</title>
+			<description>R4i_Gold_3DS_(HW_A5)-Flashrom.zip</description>
+			<guid>E69774D8A950879E93B18A5C1CCD36AB305B4ACD</guid>
+			<link>magnet:?xt=urn:btih:E69774D8A950879E93B18A5C1CCD36AB305B4ACD</link>
+			<pubDate>Sun, 27 Aug 2017 07:31:37 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:E69774D8A950879E93B18A5C1CCD36AB305B4ACD" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>R4i_Gold_3DS_(HW_A6)-Flashrom.zip</title>
+			<description>R4i_Gold_3DS_(HW_A6)-Flashrom.zip</description>
+			<guid>ED75F8B81B78DAD0D98CEA59E38F3F61A80D981D</guid>
+			<link>magnet:?xt=urn:btih:ED75F8B81B78DAD0D98CEA59E38F3F61A80D981D</link>
+			<pubDate>Sun, 27 Aug 2017 07:31:58 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:ED75F8B81B78DAD0D98CEA59E38F3F61A80D981D" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>R4i_Gold_3DS_(HW_A7)-Flashrom.zip</title>
+			<description>R4i_Gold_3DS_(HW_A7)-Flashrom.zip</description>
+			<guid>FD1BC5C522988379EE931DB45F82B223241AE729</guid>
+			<link>magnet:?xt=urn:btih:FD1BC5C522988379EE931DB45F82B223241AE729</link>
+			<pubDate>Sun, 27 Aug 2017 07:32:14 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:FD1BC5C522988379EE931DB45F82B223241AE729" type="application/x-bittorent" />
+		</item>
+		<item>
 			<title>R4i_Gold_3DS_RTS-Flashrom.zip</title>
 			<description>R4i_Gold_3DS_RTS-Flashrom.zip</description>
 			<guid>0BD5DB43B86BCBA7AA862C65E15EF8A6358B7099</guid>
 			<link>magnet:?xt=urn:btih:0BD5DB43B86BCBA7AA862C65E15EF8A6358B7099</link>
 			<pubDate>Fri, 18 Aug 2017 02:17:48 +0000</pubDate>
 			<enclosure url="magnet:?xt=urn:btih:0BD5DB43B86BCBA7AA862C65E15EF8A6358B7099" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>R4i_Ultra-Flashrom.zip</title>
+			<description>R4i_Ultra-Flashrom.zip</description>
+			<guid>614E9951A6C26145E68DE34ED8C23A44BF190728</guid>
+			<link>magnet:?xt=urn:btih:614E9951A6C26145E68DE34ED8C23A44BF190728</link>
+			<pubDate>Sun, 27 Aug 2017 07:56:05 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:614E9951A6C26145E68DE34ED8C23A44BF190728" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>secret_sector.bin</title>
