@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Sun, 27 Aug 2017 02:56:31 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 04 Sep 2017 02:47:25 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/</link>
 		<item>
 			<title>1.0.0_qr.png</title>
@@ -19,6 +19,62 @@
 			<link>magnet:?xt=urn:btih:7D2707AE938991140E94502A4C9880579E7FAA7C</link>
 			<pubDate>Tue, 26 Jul 2016 04:00:09 +0000</pubDate>
 			<enclosure url="magnet:?xt=urn:btih:7D2707AE938991140E94502A4C9880579E7FAA7C" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>11.5.0-34K_ctrtransfer_n3ds.zip</title>
+			<description>11.5.0-34K_ctrtransfer_n3ds.zip</description>
+			<guid>C9E4DE20D30B80032A5DD6F675FECB6D748F71B1</guid>
+			<link>magnet:?xt=urn:btih:C9E4DE20D30B80032A5DD6F675FECB6D748F71B1</link>
+			<pubDate>Mon, 04 Sep 2017 07:32:28 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:C9E4DE20D30B80032A5DD6F675FECB6D748F71B1" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>11.5.0-38E_ctrtransfer_n3ds.zip</title>
+			<description>11.5.0-38E_ctrtransfer_n3ds.zip</description>
+			<guid>465F1048F81E8E5C651CE2A4D9DF48FEC88D1099</guid>
+			<link>magnet:?xt=urn:btih:465F1048F81E8E5C651CE2A4D9DF48FEC88D1099</link>
+			<pubDate>Mon, 04 Sep 2017 07:32:40 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:465F1048F81E8E5C651CE2A4D9DF48FEC88D1099" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>11.5.0-38E_ctrtransfer_o3ds.zip</title>
+			<description>11.5.0-38E_ctrtransfer_o3ds.zip</description>
+			<guid>DF0836A731778AB6FFE9A8C658400C782F0225CD</guid>
+			<link>magnet:?xt=urn:btih:DF0836A731778AB6FFE9A8C658400C782F0225CD</link>
+			<pubDate>Mon, 04 Sep 2017 07:32:52 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:DF0836A731778AB6FFE9A8C658400C782F0225CD" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>11.5.0-38J_ctrtransfer_n3ds.zip</title>
+			<description>11.5.0-38J_ctrtransfer_n3ds.zip</description>
+			<guid>70F641C9F2A4933A07FAC49EB7AD19451C7C8C96</guid>
+			<link>magnet:?xt=urn:btih:70F641C9F2A4933A07FAC49EB7AD19451C7C8C96</link>
+			<pubDate>Mon, 04 Sep 2017 07:33:06 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:70F641C9F2A4933A07FAC49EB7AD19451C7C8C96" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>11.5.0-38J_ctrtransfer_o3ds.zip</title>
+			<description>11.5.0-38J_ctrtransfer_o3ds.zip</description>
+			<guid>D8913B4C0DA224E8852FA2F685C41DDBCE5310BC</guid>
+			<link>magnet:?xt=urn:btih:D8913B4C0DA224E8852FA2F685C41DDBCE5310BC</link>
+			<pubDate>Mon, 04 Sep 2017 07:33:20 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:D8913B4C0DA224E8852FA2F685C41DDBCE5310BC" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>11.5.0-38U_ctrtransfer_n3ds.zip</title>
+			<description>11.5.0-38U_ctrtransfer_n3ds.zip</description>
+			<guid>2B0A71A2523328E447938FEA7B4C02EBE0B72705</guid>
+			<link>magnet:?xt=urn:btih:2B0A71A2523328E447938FEA7B4C02EBE0B72705</link>
+			<pubDate>Mon, 04 Sep 2017 07:33:32 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:2B0A71A2523328E447938FEA7B4C02EBE0B72705" type="application/x-bittorent" />
+		</item>
+		<item>
+			<title>11.5.0-38U_ctrtransfer_o3ds.zip</title>
+			<description>11.5.0-38U_ctrtransfer_o3ds.zip</description>
+			<guid>2708089605CA47387FA64E996A699EEDD18031E8</guid>
+			<link>magnet:?xt=urn:btih:2708089605CA47387FA64E996A699EEDD18031E8</link>
+			<pubDate>Mon, 04 Sep 2017 07:33:45 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:2708089605CA47387FA64E996A699EEDD18031E8" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>2.1.0_qr.png</title>
@@ -363,54 +419,6 @@
 			<link>magnet:?xt=urn:btih:8623E580752F22940D96630EF723CE30A707B22E</link>
 			<pubDate>Tue, 26 Jul 2016 04:31:33 +0000</pubDate>
 			<enclosure url="magnet:?xt=urn:btih:8623E580752F22940D96630EF723CE30A707B22E" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>9.2.0-20E_ctrtransfer_n3ds.zip</title>
-			<description>9.2.0-20E_ctrtransfer_n3ds.zip</description>
-			<guid>FED7BFEEC0E52B42A77467CFB6FFD3E9DD2D5A70</guid>
-			<link>magnet:?xt=urn:btih:FED7BFEEC0E52B42A77467CFB6FFD3E9DD2D5A70</link>
-			<pubDate>Sat, 20 Aug 2016 17:03:24 +0000</pubDate>
-			<enclosure url="magnet:?xt=urn:btih:FED7BFEEC0E52B42A77467CFB6FFD3E9DD2D5A70" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>9.2.0-20E_ctrtransfer_o3ds.zip</title>
-			<description>9.2.0-20E_ctrtransfer_o3ds.zip</description>
-			<guid>8D6142313971B08F92257E7FB1C1D5689E34ED78</guid>
-			<link>magnet:?xt=urn:btih:8D6142313971B08F92257E7FB1C1D5689E34ED78</link>
-			<pubDate>Sat, 20 Aug 2016 17:04:23 +0000</pubDate>
-			<enclosure url="magnet:?xt=urn:btih:8D6142313971B08F92257E7FB1C1D5689E34ED78" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>9.2.0-20J_ctrtransfer_n3ds.zip</title>
-			<description>9.2.0-20J_ctrtransfer_n3ds.zip</description>
-			<guid>B22D67FD02B3B0E30AC991E451DB0F2D32E7BECA</guid>
-			<link>magnet:?xt=urn:btih:B22D67FD02B3B0E30AC991E451DB0F2D32E7BECA</link>
-			<pubDate>Sat, 20 Aug 2016 17:04:42 +0000</pubDate>
-			<enclosure url="magnet:?xt=urn:btih:B22D67FD02B3B0E30AC991E451DB0F2D32E7BECA" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>9.2.0-20J_ctrtransfer_o3ds.zip</title>
-			<description>9.2.0-20J_ctrtransfer_o3ds.zip</description>
-			<guid>24AD2B85E67013EF1F91178DCA7AD2E40663B9B2</guid>
-			<link>magnet:?xt=urn:btih:24AD2B85E67013EF1F91178DCA7AD2E40663B9B2</link>
-			<pubDate>Sat, 20 Aug 2016 17:05:16 +0000</pubDate>
-			<enclosure url="magnet:?xt=urn:btih:24AD2B85E67013EF1F91178DCA7AD2E40663B9B2" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>9.2.0-20U_ctrtransfer_n3ds.zip</title>
-			<description>9.2.0-20U_ctrtransfer_n3ds.zip</description>
-			<guid>985D47442DC470D1B9F908256BED041C63885F60</guid>
-			<link>magnet:?xt=urn:btih:985D47442DC470D1B9F908256BED041C63885F60</link>
-			<pubDate>Wed, 24 Aug 2016 19:52:00 +0000</pubDate>
-			<enclosure url="magnet:?xt=urn:btih:985D47442DC470D1B9F908256BED041C63885F60" type="application/x-bittorent" />
-		</item>
-		<item>
-			<title>9.2.0-20U_ctrtransfer_o3ds.zip</title>
-			<description>9.2.0-20U_ctrtransfer_o3ds.zip</description>
-			<guid>1DC79A2A0BABB45497961888F369423A93135E2B</guid>
-			<link>magnet:?xt=urn:btih:1DC79A2A0BABB45497961888F369423A93135E2B</link>
-			<pubDate>Sat, 20 Aug 2016 17:06:17 +0000</pubDate>
-			<enclosure url="magnet:?xt=urn:btih:1DC79A2A0BABB45497961888F369423A93135E2B" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>Acekard_2i_(HW_44)-Flashrom.zip</title>
