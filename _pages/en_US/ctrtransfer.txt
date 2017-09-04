@@ -1,5 +1,5 @@
 ---
-title: "11.5.0 CTRTransfer"
+title: "CTRTransfer"
 ---
 
 This is add-on section for installing an 11.5.0 CTRTransfer image to your device.
