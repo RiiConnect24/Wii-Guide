@@ -2,7 +2,7 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Mon, 04 Sep 2017 02:47:25 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 04 Sep 2017 06:00:51 +0000</lastBuildDate>
 		<link>https://github.com/Plailect/Guide/</link>
 		<item>
 			<title>1.0.0_qr.png</title>
@@ -423,10 +423,10 @@
 		<item>
 			<title>Acekard_2i_(HW_44)-Flashrom.zip</title>
 			<description>Acekard_2i_(HW_44)-Flashrom.zip</description>
-			<guid>1F8830CE7FEA3A806999734FB8A457FA3E649C1D</guid>
-			<link>magnet:?xt=urn:btih:1F8830CE7FEA3A806999734FB8A457FA3E649C1D</link>
-			<pubDate>Fri, 18 Aug 2017 06:36:44 +0000</pubDate>
-			<enclosure url="magnet:?xt=urn:btih:1F8830CE7FEA3A806999734FB8A457FA3E649C1D" type="application/x-bittorent" />
+			<guid>D12B46B1BFADC6B03FF260AB90DCB136D890FD39</guid>
+			<link>magnet:?xt=urn:btih:D12B46B1BFADC6B03FF260AB90DCB136D890FD39</link>
+			<pubDate>Mon, 04 Sep 2017 11:00:25 +0000</pubDate>
+			<enclosure url="magnet:?xt=urn:btih:D12B46B1BFADC6B03FF260AB90DCB136D890FD39" type="application/x-bittorent" />
 		</item>
 		<item>
 			<title>Acekard_2i_(HW_81)-Flashrom.zip</title>
