@@ -2,7 +2,7 @@
 title: "疑難排解"
 ---
 
-如果您的主機無法開機，請在這裡尋找可能相關的章節並照著步驟走。 問題解決後再繼續讀完本教學
+如果您的主機無法啟動，請在此找尋相關章節並依循各節步驟。 問題解決後再繼續讀完本教學
 (本章節比較長一些，建議透過 Ctrl+F 來找尋您的問題)。
 
 如果您仍無法解決您的問題且需要額外幫助，請將 SD 卡根目錄底下的 .log 檔案做成一個 [Gist](https://gist.github.com/)，然後再去找人跟他詳細地解釋問題所在，及所有已嘗試的步驟。
@@ -42,7 +42,7 @@ title: "疑難排解"
 
 ## <a name="rm_nnid" />如何在不格式化主機的情況下清除 NNID
 
-請注意，如果您在 SD 卡中的 `/luma/payloads/` 資料夾中放有除了 `GodMode9.firm` 的 payload 檔案，在開機時按住「Start」鍵將會顯示一個「加載選單」，從那裏你得透過方向鍵及按鈕「A」選擇「GodMode9」。 
+請注意，如果您在 SD 卡中的 `/luma/payloads/` 資料夾中放有除了 `GodMode9.firm` 的 payload 檔案，在開機時按住「Start」鍵將會顯示一個「加載選單」，從那裏您得透過方向鍵及按鈕「A」選擇「GodMode9」。 
 {: .notice--info}
 
 1. 開機時按住「Start」鍵啟動 GodMode9
@@ -57,15 +57,15 @@ title: "疑難排解"
 ## <a name="gw_fbi" />無法在 Gateway 降級過後的主機上植入 FBI 管理器到「健康與警示」程式裡
 這是因為 Gateway 所用的降級方式是非常糟糕的，它將在系統內留下各兩個版本的 3DS 程式。 其中一個是沒用到的版本，而「健康與警示」注射工具不知道這點，而將 FBI 管理器植入到錯誤的程式中。
 
-請注意，如果您在 SD 卡中的 `/luma/payloads/` 資料夾中放有除了 `GodMode9.firm` 的 payload 檔案，在開機時按住「Start」鍵將會顯示一個「加載選單」，從那裏你得透過方向鍵及按鈕「A」選擇「GodMode9」。 
+請注意，如果您在 SD 卡中的 `/luma/payloads/` 資料夾中放有除了 `GodMode9.firm` 的 payload 檔案，在開機時按住「Start」鍵將會顯示一個「加載選單」，從那裏您得透過方向鍵及按鈕「A」選擇「GodMode9」。 
 {: .notice--info}
 
 1. 開機時按住「Start」鍵啟動 GodMode9
 1. 移動至 `[1:] SYSNAND CTRNAND` -> `title` -> `00040010`
 1. 移動到對應您主機及區域的資料夾中：
-  + **歐版舊型 3DS 或舊型 2DS**：`20022300` -> `content`
-  + **日版舊型 3DS 或舊型 2DS**：`00020300` -> `content`
-  + **美版舊型 3DS 或舊型 2DS**：`00021300` -> `content`
+  + **歐版 舊型 3DS 或 舊型 2DS**：`20022300` -> `content`
+  + **日版 舊型 3DS 或 舊型 2DS**：`00020300` -> `content`
+  + **美版 舊型 3DS 或 舊型 2DS**：`00021300` -> `content`
   + **歐版 New 3DS 或 New 2DS**：`20022300` -> `content`
   + **日版 New 3DS 或 New 2DS**：`20020300` -> `content`
   + **美版 New 3DS 或 New 2DS**：`20021300` -> `content`
