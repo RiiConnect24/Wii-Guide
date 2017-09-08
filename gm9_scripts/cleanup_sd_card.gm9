@@ -47,7 +47,12 @@ rm -o -s 0:/ntrboot.firm
 rm -o -s 0:/boot9strap
 rm -o -s 0:/cias
 rm -o -s 0:/gm9/scripts/setup_ctrnand_luma3ds.gm9
-rm -o -s "0:/gm9/scripts/Clean Setup Files.gm9"
+rm -o -s 0:/gm9/scripts/cleanup_sd_card.gm9
+
+#A9LH files
+
+rm -o -s 0:/arm9loaderhax.bin
+rm -o -s 0:/files9/aeskeydb.bin
  
 set ERRORMSG "Cleanup completed successfully"
 
