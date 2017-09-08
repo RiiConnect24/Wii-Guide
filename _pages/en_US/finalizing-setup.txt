@@ -174,5 +174,5 @@ For information on using GodMode9's various features, check out the [GodMode9 Us
 For information on using Luma3DS's various features, check out [its wiki](https://github.com/AuroraWright/Luma3DS/wiki/Options-and-usage).
 {: .notice--success}
 
-For information on installing custom themes, badges, and splash screens, check out [3dsthem.es](https://3dsthem.es/about.php).
+For information on installing custom themes and splash screens, check out [Theme Plaza](https://themeplaza.eu/).
 {: .notice--success}
