@@ -11,23 +11,13 @@ However, it does not give instructions on how to install RiiConnect24 or Wiimmfi
 This guide is for the original Wii only. Do not use this on a Wii U!
 {: .notice--warning}
 
-<div class="notice--danger">{{ notice-1 | markdownify }}</div>
-
 <table>
-  <colgroup>
-    <col span="1" style="width: 50%;">
-    <col span="1" style="width: 50%;">
-  </colgroup>
-  <thead>
-    <tr>
-      <th style="text-align: center">New 3DS or New 2DS</th>
-      <th style="text-align: center">Old 3DS or Old 2DS</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: center"><a href="get-started-(new-3ds)"><img src="{{ base_path }}/images/new3ds.png" style="padding: 0.5em;"></a> <a href="get-started-(new-3ds)"><img src="{{ base_path }}/images/new3dsxl.png" style="padding: 0.5em;"></a> <a href="get-started-(new-3ds)"><img src="{{ base_path }}/images/new2dsxl.png" style="padding: 0.5em;"></a></td>
-      <td style="text-align: center"><a href="get-started-(old-3ds)"><img src="{{ base_path }}/images/old3ds.png" style="padding: 0.5em;"></a> <a href="get-started-(old-3ds)"><img src="{{ base_path }}/images/old3dsxl.png" style="padding: 0.5em;"></a> <a href="get-started-(old-3ds)"><img src="{{ base_path }}/images/2ds.png" style="padding: 0.5em;"></a></td>
-    </tr>
-  </tbody>
+  <tr>
+    <th>&lt; 4.2</th>
+    <th>Update to 4.3</th>
+  </tr>
+  <tr>
+    <td>4.3</td>
+    <td><a href="letterbomb">LetterBomb <img src="/images/Wii/StartLetterBomb.png" alt="LetterBomb" height="30"></a></td>
+  </tr>
 </table>
