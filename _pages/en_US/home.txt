@@ -11,8 +11,6 @@ header:
 excerpt: "A guide to get you started with modding your Wii.<br />"
 ---
 
-<div class="notice--danger">{{ notice-home | markdownify }}</div>
-
 ## What is Homebrew?
 
 [**Homebrew**](https://en.wikipedia.org/wiki/List_of_homebrew_video_games) usually refers to software that is not authorized by Nintendo. It allows you to run homebrew games, tools like save editing and backup, and emulators for various older systems.

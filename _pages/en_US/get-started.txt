@@ -3,8 +3,9 @@ title: "Get Started"
 ---
 
 For modding the Wii, [we recommend using ModMii (if you have Windows)](https://sourceforge.net/projects/modmii/). It's a good tool, and you can get a guide generated with instructions.
-However, it does not give instructions on how to install RiiConnect24 or Wiimmfi, so use the pages here to learn how to install it.
-{: .notice--info}
+[SetMiiUp](https://gbatemp.net/threads/setmiiup-from-stock-to-latest-softmod-in-less-then-5-10-minutes.459416/) is also a good tool to get you started.
+However, these tools does not give instructions on how to install RiiConnect24 or Wiimmfi, so use the pages here to learn how to install it.
+{: .notice--info
 
 This guide is for the original Wii only. Do not use this on a Wii U!
 {: .notice--warning}
@@ -16,6 +17,6 @@ This guide is for the original Wii only. Do not use this on a Wii U!
   </tr>
   <tr>
     <td>4.3</td>
-    <td><a href="letterbomb">LetterBomb <img src="/images/Wii/StartLetterBomb.png" alt="LetterBomb" height="30"></a></td>
+    <td><a href="letterbomb">LetterBomb ![LetterBomb](/images/Wii/StartLetterBomb.png)</a></td>
   </tr>
 </table>

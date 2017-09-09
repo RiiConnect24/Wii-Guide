@@ -1,0 +1,35 @@
+---
+title: "Site Navigation" #
+layout: single-no-ads
+sitemap: false
+---
+
+{% capture notice-1 %}
+**Popular**
+
++ [RiiConnect24](riiconnect24)
++ [Wiimmfi](wiimmfi)
+{% endcapture %}
+<div class="notice--info">{{ notice-1 | markdownify }}</div>
+
+{% capture notice-2 %}
+**All**
+
++ [cIOS](cios)
++ [Credits]](credits)
++ [Donations](donations)
++ [FAQ](faq)
++ [Get Started](get-started)
++ [Homebrew Channel](hbc)
++ [Home](/)
++ [IOS Patcher](iospatcher)
++ [LetterBomb](letterbomb)
++ [RiiConnect24 Battery Fix](riiconnect24-batteryfix)
++ [RiiConnect24 Troubleshooting](riiconnect24-troubleshooting)
++ [RiiConnect24 Updating After Maintenance](riiconnect24-updatepatch)
++ [RiiConnect24](riiconnect24)
++ [Wiimmfi](wiimmfi)
++ [Wii Mod Lite](wiimodlite)
++ [WiiWare Patcher](wiiwarepatcher)
+{% endcapture %}
+<div class="notice--primary">{{ notice-2 | markdownify }}</div>

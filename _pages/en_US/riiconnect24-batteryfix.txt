@@ -30,3 +30,4 @@ If the error code still remains, the time on your Wii might be incorrect, confus
 1. Try the News or Forecast Channel now. Hopefully it works now. If not, you might want to repeat this process one more time and it might fix it.
 
 [Return to RiiConnect24 installation page](riiconnect24)
+{: .notice--info}

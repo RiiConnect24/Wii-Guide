@@ -9,10 +9,14 @@ If we forgot you here, contact us and we'll add your name.
 
 {% capture notice-1 %}
 
+    + Actar
     + All RiiConnect24 Developers
     + fail0verflow
+    + GiantPune
+    + JoostinOnline
     + KcrPL
     + Leseratte
+    + ScarletDreamz
     + XFlak
     + Wiimm
 

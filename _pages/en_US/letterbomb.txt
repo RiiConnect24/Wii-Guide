@@ -20,8 +20,5 @@ title: "LetterBomb"
 
 ![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
 
-{% capture notice-1 %}
-
 [Continue to Homebrew Channel Installation](hbc)
-
-{% endcapture %}
+{: .notice--info}
