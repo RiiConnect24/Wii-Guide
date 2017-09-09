@@ -23,10 +23,6 @@ title: "Homebrew Channel Installation"
 
 1. Once done, exit.
 
-{% capture notice-1 %}
-
-[Continue to cIOS](cios)
-
+[Continue to cIOS](cios)<br>
 You only need to install cIOS if you want to use a USB Loader to play your games.
-
-{% endcapture %}
+{: .notice--info}

@@ -30,8 +30,8 @@ Select cIOS version: 65535
 ![Install cIOS 250](/images/Wii/Install250.png)
 1. Run it again, then exit once done.
 
-{% capture notice-1 %}
-
 [Continue to RiiConnect24](riiconnect24)
+RiiConnect24 will let you use Wii Mail, and the News and Forecast Channel again.
+{: .notice--info}
 
 {% endcapture %}
