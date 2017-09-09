@@ -16,7 +16,7 @@ sitemap: false
 **All**
 
 + [cIOS](cios)
-+ [Credits]](credits)
++ [Credits](credits)
 + [Donations](donations)
 + [FAQ](faq)
 + [Get Started](get-started)
