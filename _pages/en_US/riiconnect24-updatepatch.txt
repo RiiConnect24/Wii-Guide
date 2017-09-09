@@ -1,46 +1,24 @@
 ---
-title: "RiiConnect24"
+title: "RiiConnect24 - Updating After Maintenance"
 ---
 
-Have you wanted to use the News or Forecast Channel, or exchange mail between Wiis, yet miss WiiConnect24 after shutdown? Fear no more, as RiiConnect24 is here to save the day!
+This tutorial is for existing RiiConnect24 users who have not done this patch before August. Basically, RiiConnect24 undergone some maintenance requiring you to change your DNS and repatch your nwc24msg.cfg. Please follow this, because this is required if you want to continue using RiiConnect24.
+{: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
-
-RiiConnect24 doesn't work with the Wii U yet (although they are working on it), so please do not do this on a Wii U.
-<br>
-Also, right now only Wii Mail and the News and Forecast Channel work. There is not a need to try other Channels, as they won't work yet.
-<br>
-There is also not a need to install Channels such as the Everybody Votes Channel because when RiiConnect24 releases Channels like that, you will have to patch them for security purposes.
-{: .notice--warning}
-
-In order to install RiiConnect24 you must be on Wii Menu version 4.3, otherwise mail won't work.
-{: .notice--info}
 
 #### What you need
 
 * A Wii with an outbound Internet connection
 * An SD card with at least 128 MB of free space
 * Discord Account
-* [IOS Patcher](https://github.com/RiiConnect24/IOS-Patcher/releases) or knowledge of how to DM RiiConnect24 Bot
-* [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 * [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
 
 #### Instructions
 
 ##### Section I - Patching
 
-[If you want to see how to use IOS Patcher, click here!](iospatcher)
-{: .notice--info}
-
-1. Open the IOS Patcher zip and run `patch.bat` if on Windows, or `patch.command` on Linux or MacOS.
-### If you want to download IOS Patcher directly (on Windows), open cmd.exe and paste this:
-`powershell -command "(new-object System.Net.WebClient).DownloadFile('https://rc24.xyz/Patchers_Auto_Update/IOS-Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat` (You need to be on Windows 7 on newer.)
-
-[If you want to see instructions on how to install patched IOS, click here!](wiimodlite)
-{: .notice--info}
-
-1. Follow the instructions it gives you. Upon it finishing, copy the `WAD` folder to your SD Card. If it doesn't work or you don't understand, [Join the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) and DM RiiConnect24 Bot `!wads` and it'll respond with pre-patched wads.
-1. Extract Wii Mod Lite and WiiXplorer, and then copy them to the `apps` folder on your SD Card. Make sure to copy WiiXplorer as its own folder, not the standalone files inside.
+1. Extract WiiXplorer, and then copy it to the `apps` folder on your SD Card. Make sure to copy WiiXplorer as its own folder, not the standalone files inside.
 1. Insert your SD card into your Wii, open the Homebrew Channel, and launch Wii Mod Lite.
 1. Using the +Control Pad on your Wii Remote, go to `WAD Manager`, and then navigate to the `WAD` folder.
 1. When `IOS31.wad` is highlighted, press +, and then press A to install the WAD. Continue to do the same for `IOS80.wad`.
@@ -69,9 +47,9 @@ In order to install RiiConnect24 you must be on Wii Menu version 4.3, otherwise 
 ![Wii Menu 1](/images/RiiConnect24/WiiXplorer_8.png)
 ![Wii Menu 2](/images/RiiConnect24/WiiXplorer_9.png)
 
-##### Section II - Connecting
+##### Section II - Changing DNS
 
-1. Goto `Wii Options`
+1. Go to `Wii Options`
 ![Wii Options](/images/RiiConnect24/Internet_1.png)
 1. Go to `Wii Settings`
 ![Wii Settings](/images/RiiConnect24/Internet_2.png)
@@ -95,31 +73,3 @@ In order to install RiiConnect24 you must be on Wii Menu version 4.3, otherwise 
 ![Connection Test](/images/RiiConnect24/Internet_11.png)
 1. If the connection test was successful, select `No` to skip the Wii System Update.
 ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)
-1. Go to `WiiConnect24`, then `WiiConnect24` again, and make sure it is enabled.
-![WiiConnect24 1](/images/RiiConnect24/Internet_13.png)
-![WiiConnect24 2](/images/RiiConnect24/Internet_14.png)
-![WiiConnect24 3](/images/RiiConnect24/Internet_15.png)
-1. Back on the WiiConnect24 menu, go to `Standby Connection` and make sure it is enabled.
-![Standby Connection 1](/images/RiiConnect24/Internet_16.png)
-![Standby Connection 2](/images/RiiConnect24/Internet_17.png)
-![Standby Connection 3](/images/RiiConnect24/Internet_18.png)
-1. At `Slot Illumination`, we recommend you set the disc light to `Dim` or `Bright`, but this is optional.
-![Slot Illumination 1](/images/RiiConnect24/Internet_19.png)
-![Slot Illumination 2](/images/RiiConnect24/Internet_20.png)
-![Slot Illumination 3](/images/RiiConnect24/Internet_22.png)
-1. Finally, go to the `Internet` section, then `User Agreements or Agreement/Contact`, then `Yes`.<br>
-   Please read through this and don't skip through it. This contains important stuff about RiiConnect24 as a service!
-![User Agreements 1](/images/RiiConnect24/Internet_23.png)
-![User Agreements 2](/images/RiiConnect24/Internet_24.png)
-
-If you get error 107245, then you failed to patch your IOS correctly.
-{: .notice--info}
-
-[If you're getting NEWS/FORE000006, you might want to read this.](riiconnect24-batteryfix)
-{: .notice--warning}
-
-[If you're getting errors such as a discontinued message when opening the News or Forecast Channel, we have some instructions that might fix it.](riiconnect24-troubleshooting)
-{: .notice--warning}
-
-[If you want Wiimmfi (to play games online after the discontinuation of Nintendo Wi-Fi Connection), read on!](wiimmfi)
-{: .notice--info}

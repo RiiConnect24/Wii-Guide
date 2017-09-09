@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "3DS Guide"
+title                    : "Wii Guide"
 title_separator          : "-"
-name                     : "Plailect"
-description              : "Full sighax CFW Guide"
-url                      : "https://3ds.guide" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-enforce_ssl              : "3ds.guide"
+name                     : "RiiConnect24"
+description              : "Wii modding guide"
+url                      : "https://wii.guide" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+enforce_ssl              : "wii.guide"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Plailect/Guide" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "RiiConnect24/Wii-Guide" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -78,34 +78,34 @@ analytics:
 
 # Site Author
 author:
-  name             : "Plailect"
+  name             : "RiiConnect24"
   avatar           : "bio-photo.png"
-  bio              : "3DS Hacker"
-  location         : "Nullsec"
-  email            : "Plailect@gmail.com"
-  uri              :
+  bio              : "WiiConnect24 replacement"
+  location         :
+  email            :
+  uri              : "https://rc24.xyz"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "RiiConnect24"
   foursquare       :
-  github           : "Plailect"
-  google_plus      :
+  github           : "RiiConnect24"
+  google_plus      : "RiiConnect24"
   keybase          :
-  instagram        :
-  lastfm           : "Plailect"
+  instagram        : "RiiConnect24"
+  lastfm           :
   linkedin         :
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "Plailect"
+  twitter          : "RiiConnect24"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "RiiConnect24"
 
 
 # Reading Files
