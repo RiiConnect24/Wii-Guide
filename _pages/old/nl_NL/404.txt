@@ -1,9 +1,0 @@
----
-title: "Page Not Found" #
-layout: single-no-ads
-excerpt: "pagina niet gevonden. Je pixels bevinden zich op een ander canvas." #
-sitemap: false
----
-
-Sorry, but the page you were trying to view does not exist.
-{: .notice--info}
