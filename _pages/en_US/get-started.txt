@@ -2,8 +2,6 @@
 title: "Get Started"
 ---
 
-Click the image of your device to take you to the appropriate page. The colors of the devices in the image may vary, but note the button placement and features of each device carefully to ensure you select the correct one.
-
 For modding the Wii, [we recommend using ModMii (if you have Windows)](https://sourceforge.net/projects/modmii/). It's a good tool, and you can get a guide generated with instructions.
 However, it does not give instructions on how to install RiiConnect24 or Wiimmfi, so use the pages here to learn how to install it.
 {: .notice--info}

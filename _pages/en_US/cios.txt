@@ -1,0 +1,31 @@
+---
+title: "cIOS"
+---
+
+![cIOS Logo](/images/cIOS.gif)
+
+#### What you need
+  + A Wii with an outbound Internet connection
+  + An SD card with at least 128 MB of free space
+  + [cIOS Installer](https://sites.google.com/site/completesg/backup-launchers/installation/d2x-cIOS-Installer-Wii.zip?attredirects=0&d=1)
+
+#### Instructions
+
+1. Load the d2x cIOS installer: ![d2x cIOS Logo](https://sites.google.com/site/completesg/_/rsrc/1441626125476/backup-launchers/installation/icon.png)
+1. Press continue, then set it to the following:
+```
+Select cIOS: d2x-v10-beta53-alt
+Select cIOS base: 56
+Select cIOS slot: 249
+Select cIOS version: 65535
+```
+![Install cIOS 249](/images/Wii/Install249.png)
+1. Once set, press A twice and let it install. Then, press A to return, and set it to the following:
+```
+Select cIOS: d2x-v10-beta52
+Select cIOS base: 57
+Select cIOS slot: 250
+Select cIOS version: 65535
+```
+![Install cIOS 250](/images/Wii/Install250.png)
+1. Run it again, then exit once done.

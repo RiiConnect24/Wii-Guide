@@ -1,0 +1,27 @@
+---
+title: "LetterBomb"
+---
+
+![Letterbomb Message Board Logo](/images/letterSD.gif)
+
+#### What you need
+  + A Wii on system version 4.3
+  + An SD card with at least 128 MB of free space
+
+#### Instructions
+
+1. Go to `Wii Settings` -> `Internet` -> `Console Information` and note your MAC address
+1. Go to [https://please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure `Bundle the HackMii Installer for me!` is checked*, and cut a wire
+![HackMii Screen](/images/Wii/LetterBomb-PC.png)
+1. Extract the contents of the downloaded ZIP to your SD card.
+1. On your Wii, return to the Wii Menu and then open the Message Board.
+1. Load the red mail with a bomb icon.<br>
+   In various scenarios, you may need to look at the previous or next day to find it.
+
+![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
+
+{% capture notice-1 %}
+
+[Continue to Homebrew Channel Installation](hbc)
+
+{% endcapture %}
