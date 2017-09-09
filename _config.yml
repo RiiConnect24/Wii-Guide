@@ -49,8 +49,8 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : IzU3K8_0o_n4KY_o0Azr6DK7M4aRlZMzrWKr4iyXyrs
-bing_site_verification   : F3532011519E308583A0A2CAF2DD69E8
+google_site_verification : NJHNJQvHO4NNbW_2IYtDhRIfX5-4kUpwkxsmVfM7S34
+bing_site_verification   : 229FBDF9FE2F1A36CEDFAB9F171C6A4E
 alexa_site_verification  :
 yandex_site_verification :
 
@@ -73,7 +73,7 @@ social:
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-86465881-1"
+    tracking_id          : "UA-72766480-5"
 
 
 # Site Author
