@@ -5,9 +5,9 @@ title: "cIOS"
 ![cIOS Logo](/images/cIOS.gif)
 
 #### What you need
-  + A Wii with an outbound Internet connection
-  + An SD card with at least 128 MB of free space
-  + [cIOS Installer](https://sites.google.com/site/completesg/backup-launchers/installation/d2x-cIOS-Installer-Wii.zip?attredirects=0&d=1)
+* A Wii with an outbound Internet connection
+* An SD card with at least 128 MB of free space
+* [cIOS Installer](https://sites.google.com/site/completesg/backup-launchers/installation/d2x-cIOS-Installer-Wii.zip?attredirects=0&d=1)
 
 #### Instructions
 
@@ -29,3 +29,9 @@ Select cIOS version: 65535
 ```
 ![Install cIOS 250](/images/Wii/Install250.png)
 1. Run it again, then exit once done.
+
+{% capture notice-1 %}
+
+[Continue to RiiConnect24](riiconnect24)
+
+{% endcapture %}

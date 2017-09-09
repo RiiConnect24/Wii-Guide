@@ -5,8 +5,8 @@ title: "LetterBomb"
 ![Letterbomb Message Board Logo](/images/letterSD.gif)
 
 #### What you need
-  + A Wii on system version 4.3
-  + An SD card with at least 128 MB of free space
+* A Wii on system version 4.3
+* An SD card with at least 128 MB of free space
 
 #### Instructions
 
