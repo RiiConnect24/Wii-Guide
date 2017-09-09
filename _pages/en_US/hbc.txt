@@ -13,7 +13,7 @@ title: "Homebrew Channel Installation"
 ![Results](/images/Wii/Results.png)
 
 1. Press Continue, then select the Homebrew Channel, and press install.
-![Install The Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
+![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
 1. Press Continue when finished.
 ![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
