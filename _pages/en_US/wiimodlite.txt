@@ -2,7 +2,7 @@
 title: "Wii Mod Lite"
 ---
 
-This tutorial will explain you how to install WiiMod Lite and IOS on your Wii.
+This tutorial will explain you how to install Wii Mod Lite and IOS on your Wii.
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
