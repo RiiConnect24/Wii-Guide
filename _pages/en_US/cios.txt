@@ -33,5 +33,3 @@ Select cIOS version: 65535
 [Continue to RiiConnect24](riiconnect24)
 RiiConnect24 will let you use Wii Mail, and the News and Forecast Channel again.
 {: .notice--info}
-
-{% endcapture %}
