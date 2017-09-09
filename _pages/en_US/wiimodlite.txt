@@ -1,0 +1,59 @@
+---
+title: "Wii Mod Lite"
+---
+
+This tutorial will explain you how to install WiiMod Lite and IOS on your Wii.
+
+![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+
+#### What you need
+* And SD Card with at least 128 MB of free space.
+* Internet access on your computer.
+
+#### Instructions
+
+##### Section I - Downloading
+
+1. [Download the latest version of Wii Mod Lite from GitHub (the .zip archive).(https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+1. Open the .zip file that you downloaded and copy the content of it to SD Card.
+![SD Card Drag and Drop](/images/WiiModLite/01.gif)
+1. After it will be done. Copy the patched IOS files to and folder `WAD` on an SD Card.
+
+If you want to see how to use IOS Patcher, click here!
+{: .notice--info}
+
+1. After that IOSs will be on SD Card, put it back to Wii.
+
+##### Section II - Installing
+1. Run the Homebrew Channel on your Wii.
+
+![Homebrew Channel Select](/images/WiiModLite/02.jpg)
+![Homebrew Channel Launch](/images/WiiModLite/03.jpg)
+
+1. Launch Wii Mod Lite.
+
+![Homebrew Channel List](/images/WiiModLite/04.jpg)
+![Homebrew Channel Load](/images/WiiModLite/05.jpg)
+
+1. Once Wii Mod Lite will be running, choose `WAD Manager`.
+
+![Wii Mod Lite WAD MANAGER](/images/WiiModLite/06.jpg)
+
+1. Choose `Wii SD Slot`.
+
+![Wii SD Slot](/images/WiiModLite/07.jpg)
+
+1. You should now see 2 files. Select them and press + on your Wii Remote.
+
+![Select them](/images/WiiModLite/howtoselect.gif)
+
+1. After you will select them, press "A" twice and start installing.
+
+![Install](/images/WiiModLite/08.jpg)
+![Install](/images/WiiModLite/09.jpg)
+
+After it will finish installing, that's it!
+
+![Complete](/images/WiiModLite/10.jpg)
+
+[Return to RiiConnect24 installation page](riiconnect24)
