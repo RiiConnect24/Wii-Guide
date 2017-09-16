@@ -27,7 +27,6 @@ Here's a list of things you can do with it. Our guide is meant for you to easily
 + Load your Wii games from a USB hard drive using a USB loader.
 + Play mods of games like New Super Mario Bros. Wii and Mario Kart Wii.
 + Be able to use cheat codes in games
-+ Download more homebrew apps with the [Homebrew Browser](http://wiibrew.org/wiki/Homebrew_Browser). You need to apply a quick fix to be able to use it, described [here](https://gbatemp.net/threads/how-to-fix-the-homebrew-browser-in-six-easy-steps.438982/).
 + Change the theme of your Wii Menu
 + Play retro games with emulators made specifically for the Wii, three good ones are [FCE Ultra GX for NES games](https://github.com/dborth/fceugx/releases), [Snes9xGX for SNES games](https://github.com/dborth/snes9xgx/releases), and [VBA GX for Game Boy (Color/Advance) games](https://github.com/dborth/vbagx/releases)
 + [Backup your saves and Miis with SaveGame Manager GX, and restore other people's saves and Miis too.](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download)
