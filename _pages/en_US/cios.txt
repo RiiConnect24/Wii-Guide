@@ -2,7 +2,7 @@
 title: "cIOS"
 ---
 
-![cIOS Logo](/images/cIOS.gif)
+![cIOS Logo](/images/cIOS.png)
 
 #### What you need
 * A Wii with an outbound Internet connection

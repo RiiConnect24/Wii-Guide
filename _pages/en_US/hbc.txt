@@ -2,7 +2,7 @@
 title: "Homebrew Channel Installation"
 ---
 
-![HBC Logo](/images/HBClogo.gif)
+![HBC Logo](/images/hbc.png)
 
 #### Instructions
 

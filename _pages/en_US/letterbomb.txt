@@ -2,7 +2,7 @@
 title: "LetterBomb"
 ---
 
-![Letterbomb Message Board Logo](/images/letterSD.gif)
+![LetterBomb](/images/letterbomb.png)
 
 #### What you need
 * A Wii on system version 4.3
