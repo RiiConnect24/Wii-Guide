@@ -17,6 +17,6 @@ This guide is for the original Wii only. Do not use this on a Wii U!
   </tr>
   <tr>
     <td>4.3</td>
-    <td><a href="letterbomb">LetterBomb <img src="/images/Wii/StartLetterBomb.png" alt="LetterBomb" /></a></td>
+    <td><a href="letterbomb">LetterBomb</a></td>
   </tr>
 </table>
