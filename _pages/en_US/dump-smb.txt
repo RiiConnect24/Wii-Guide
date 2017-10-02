@@ -33,4 +33,4 @@ Your Wii and your computer must be connected to one local network
 1. You should see that. Click on `Click here to download XXXX.iso`
 ![7](/images/DumpDiscs_LAN/7.jpg)
 1. The download speed is not the fastest, but if you can't use anything else, it's better than nothing.
-![8](/images/DumpDiscs_LAN/8.png)
+![8](/images/DumpDiscs_LAN/8.PNG)
