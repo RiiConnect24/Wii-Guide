@@ -13,23 +13,29 @@ sitemap: false
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
 {% capture notice-2 %}
-**All**
-
-+ [cIOS](cios)
-+ [Credits](credits)
-+ [Donations](donations)
-+ [FAQ](faq)
-+ [Get Started](get-started)
-+ [Homebrew Channel](hbc)
-+ [Home](/)
-+ [IOS Patcher](iospatcher)
-+ [LetterBomb](letterbomb)
+**RiiConnect24/Wiimmfi**
++ [RiiConnect24](riiconnect24)
 + [RiiConnect24 Battery Fix](riiconnect24-batteryfix)
 + [RiiConnect24 Troubleshooting](riiconnect24-troubleshooting)
 + [RiiConnect24 Updating After Maintenance](riiconnect24-updatepatch)
-+ [RiiConnect24](riiconnect24)
++ [IOS Patcher](iospatcher)
+
 + [Wiimmfi](wiimmfi)
-+ [Wii Mod Lite](wiimodlite)
 + [WiiWare Patcher](wiiwarepatcher)
+
+**Modding 101**
++ [Homebrew Channel](hbc)
++ [cIOS](cios)
++ [LetterBomb](letterbomb)
++ [Wii Mod Lite](wiimodlite)
+
+**Homebrew**
++ [How to dump GameCube/Wii games](dump-games)
+
++ [Home](/)
++ [Get Started](get-started)
++ [FAQ](faq)
++ [Credits](credits)
++ [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
