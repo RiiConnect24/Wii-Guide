@@ -1,0 +1,14 @@
+---
+title: "Dumping Wii/GameCube games"
+---
+
+Want to legally dump a GameCube or a Wii game and play it on your Wii? With this tutorial we will explain how to do it.
+
+Please choose how are you gonna dump the disc.
+{: .notice--warning}
+
+[I'm gonna dump it to the SD Card/USB Device](dump-sd_usb)
+{: .notice--info}
+
+[I'm gonna dump it directly to my PC using WiFi or Ethernet adapter](dump-smb)
+{: .notice--info}

@@ -1,0 +1,9 @@
+---
+title: "Dumping Wii/GameCube games"
+---
+
+Please choose your tutorial.
+{: .notice--warning}
+
+[Dumping a GameCube/Wii games using your Wii](dump-games)
+{: .notice--info}
