@@ -1,7 +1,5 @@
----
 title: "Dumping a game using WiFi/Ethernet"
 ---
-
 Do you want to dump games through your local network? Follow this tutorial!
 
 #### What you need
