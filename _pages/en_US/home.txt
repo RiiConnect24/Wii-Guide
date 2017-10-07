@@ -24,16 +24,17 @@ Here's a list of things you can do with it. Our guide is meant for you to easily
 + Use homebrew apps;
 + Play games online again with [Wiimmfi](https://wiimmfi.de), a fan-made service which replaces much of Nintendo's discontinued Nintendo Wi-Fi Connection service (it works with many DS games too);
 + Be able to use Wii Mail and the News and Forecast Channels again with [RiiConnect24](https://rc24.xyz) after the discontinuation of WiiConnect24;
+
 + Load your Wii games from a USB hard drive using a USB loader;
 + Play mods of games such as New Super Mario Bros. Wii and Mario Kart Wii;
 + Be able to use cheat codes in games;
 + Change the theme of your Wii Menu;
 + Play retro games with emulators made specifically for the Wii - three good ones are [FCE Ultra GX for NES games](https://github.com/dborth/fceugx/releases), [Snes9xGX for SNES games](https://github.com/dborth/snes9xgx/releases), and [VBA GX for Game Boy (Color/Advance) games](https://github.com/dborth/vbagx/releases);
 + Backup your saves and Miis with [SaveGame Manager GX](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download), and restore other peoples' saves and Miis too;
-+ Load GameCube games from a USB hard drive or SD card with [Nintendont](https://gbatemp.net/threads/nintendont.349258/);
-+ Make 1:1 backups of your Wii/GameCube games with [CleanRip](http://wiibrew.org/wiki/CleanRip);
++ Load GameCube games from a USB hard drive or SD card with [Nintendont](https://gbatemp.net/threads/nintendont.349258/). [(Download)](/assets/files/Nintendont.zip)
++ Make 1:1 backups of your Wii/GameCube games with [CleanRip](http://wiibrew.org/wiki/CleanRip). [(Download)](/assets/files/CleanRip-v2.0.0.zip)
 + Backup and restore a copy of your Wii System Memory (NAND) with [BootMii](http://bootmii.org);
-+ Protect your Wii from bricks with [Priiloader](http://wiibrew.org/wiki/Priiloader);
++ Protect your Wii from bricks with [Priiloader](http://wiibrew.org/wiki/Priiloader); [(Download)](/assets/files/Priiloader_v0_8_1.zip)
 + Listen to music, watch movies and view photos with [WiiMC](http://www.wiimc.org/), and watch YouTube videos with [a special version](/assets/files/WiiMC.1.3.4.YT.zip);
 + Launch your favorite homebrew apps from your Wii Menu with a "forwarder";
-+ Participate in Mario Kart Wii competitions again using [Wiimmfi Competitions](https://competitions.wiimmfi.de)
++ Participate in Mario Kart Wii competitions again using [Wiimmfi Competitions](https://competitions.wiimmfi.de)	
