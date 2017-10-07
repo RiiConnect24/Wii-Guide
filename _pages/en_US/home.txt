@@ -24,7 +24,6 @@ Here's a list of things you can do with it. Our guide is meant for you to easily
 + Use homebrew apps;
 + Play games online again with [Wiimmfi](https://wiimmfi.de), a fan-made service which replaces much of Nintendo's discontinued Nintendo Wi-Fi Connection service (it works with many DS games too);
 + Be able to use Wii Mail and the News and Forecast Channels again with [RiiConnect24](https://rc24.xyz) after the discontinuation of WiiConnect24;
-
 + Load your Wii games from a USB hard drive using a USB loader;
 + Play mods of games such as New Super Mario Bros. Wii and Mario Kart Wii;
 + Be able to use cheat codes in games;
