@@ -25,6 +25,9 @@ title: "FAQ"
 <a name="faq_nopc" />**Q:** *Can I do this without a computer (e.g. an Android phone)?*
 **A:** All you need is the ability to put files on an SD card!
 
+<a name="faq_error" />**Q:** *I got error XXXXXX, how to fix it??*
+**A:** In order to check what error that is, please visit [Wiimmfi error page](https://wiimmfi.de/error).
+
 {% endcapture %}
 
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
