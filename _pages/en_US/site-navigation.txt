@@ -25,6 +25,7 @@ sitemap: false
 
 **Modding 101**
 + [Homebrew Channel](hbc)
++ [Prilloader](prilloader]
 + [cIOS](cios)
 + [LetterBomb](letterbomb)
 + [Wii Mod Lite](wiimodlite)
