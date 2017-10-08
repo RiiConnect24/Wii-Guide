@@ -8,7 +8,7 @@ However, these tools do not give instructions on how to install RiiConnect24 or 
 {: .notice--info
 
 [Is your Wii already modded? Click here to start installing RiiConnect24](riiconnect24)
-{: .notice--info
+{: .notice--info)
 
 
 This guide is for the original Wii only. Do not use this on a Wii U!
