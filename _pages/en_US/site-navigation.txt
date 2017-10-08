@@ -31,6 +31,8 @@ sitemap: false
 
 **Homebrew**
 + [How to dump GameCube/Wii games](dump-games)
++ [Installing RSSMii](rssmii)
++ [Removing RSSMii](rssmii-remove)
 
 **Site**
 + [Home](/)
