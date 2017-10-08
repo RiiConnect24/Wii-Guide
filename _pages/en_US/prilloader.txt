@@ -9,7 +9,7 @@ This tutorial will explain you how to install Prilloader.
 #### What you need
 * And SD Card with at least 128 MB of free space.
 * Internet access on your computer.
-* Prilloader ['..::Click::..'](/assets/files/Priiloader_v0_8_1)
+* Prilloader ['..::Click::..'](/assets/files/Priiloader_v0_8_1.zip)
 
 #### Instructions
 
