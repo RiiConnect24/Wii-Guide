@@ -31,8 +31,8 @@ This tutorial will explain you how to install Prilloader.
 ##### Section III - Entering/Configuring Prilloader
 1. Turn off your Wii.
 1. Turn on your Wii **and than hold RESET button**
-![Turn on](/images/Prilloader/4.jpg)
-![Hold RESET](/images/Prilloader/5.jpg)
+![Turn on](/images/Prilloader/5.jpg)
+![Hold RESET](/images/Prilloader/4.jpg)
 
 1. Now you should see Prilloader menu.
 ![Menu](/images/Prilloader/6.jpg)
