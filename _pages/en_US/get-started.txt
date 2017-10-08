@@ -7,6 +7,10 @@ For modding the Wii, [we recommend using ModMii (if you have Windows)](https://s
 However, these tools do not give instructions on how to install RiiConnect24 or Wiimmfi, so use the pages here to learn how to install it.
 {: .notice--info
 
+[Is your Wii already modded? Click here to start installing RiiConnect24](riiconnect24)
+{: .notice--info
+
+
 This guide is for the original Wii only. Do not use this on a Wii U!
 {: .notice--warning}
 

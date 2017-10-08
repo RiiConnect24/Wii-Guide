@@ -1,0 +1,45 @@
+---
+title: "Prilloader"
+---
+
+This tutorial will explain you how to install Prilloader.
+
+![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+
+#### What you need
+* And SD Card with at least 128 MB of free space.
+* Internet access on your computer.
+* Prilloader ['..::Click::..'](/assets/files/Priiloader_v0_8_1)
+
+#### Instructions
+
+##### Section I - Downloading
+
+1. Download Prilloader from the link above.
+1. Install Prilloader on the SD Card like anything else.
+1. After it will be done, plug your SD Card to your Wii.
+
+##### Section II - Installing
+1. Launch the Homebrew channel on your Wii
+1. Find Prilloader
+![Find Prilloader](/images/Prilloader/1.jpg)
+1. Launch Prilloader
+1. Press "+" on Wii Remote or "A" on GameCube controller.
+![Install Prilloader](/images/Prilloader/2.jpg)
+![Installing](/images/Prilloader/3.jpg)
+
+##### Section III - Entering/Configuring Prilloader
+1. Turn off your Wii.
+1. Turn on your Wii **and than hold RESET button**
+![Turn on](/images/Prilloader/4.jpg)
+![Hold RESET](/images/Prilloader/5.jpg)
+
+1. Now you should see Prilloader menu.
+![Menu](/images/Prilloader/6.jpg)
+1. Go to `System Menu Hacks`
+1. Turn on the `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`.
+![System Menu Hacks](/images/Prilloader/7.jpg)
+
+[Continue to cIOS](cios)<br>
+You only need to install cIOS if you want to use a USB Loader to play your games.
+{: .notice--info}

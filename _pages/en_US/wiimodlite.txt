@@ -25,7 +25,7 @@ This tutorial will explain you how to install Wii Mod Lite and IOS on your Wii.
 1. After that IOSs will be on SD Card, put it back to Wii.
 
 ##### Section II - Installing
-1. Run the Homebrew Channel on your Wii.
+1. Launch the Homebrew Channel on your Wii.
 
 ![Homebrew Channel Select](/images/WiiModLite/02.jpg)
 ![Homebrew Channel Launch](/images/WiiModLite/03.jpg)
