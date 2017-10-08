@@ -30,9 +30,9 @@ Do you want to get RSS feed updates on your Wii Message Board? This tutorial wil
     ```
     <?xml version="1.0" encoding="utf-8"?>
     <rss>
-      <feed name="RiiConnect24 Medium"><![CDATA[http://medium.com/feed/riiconnect24]]></feed>
-      <feed name="RiiConnect24 Twitter"><![CDATA[http://twitrss.me/twitter_user_to_rss/?user=RiiConnect24]]></feed>
-      <feed name="Nintendo News"><![CDATA[http://www.nintendo.com/feed]]></feed>
+      <feed name="RiiConnect24 Medium"><![CDATA[https://medium.com/feed/riiconnect24]]></feed>
+      <feed name="RiiConnect24 Twitter"><![CDATA[https://twitrss.me/twitter_user_to_rss/?user=RiiConnect24]]></feed>
+      <feed name="Nintendo News"><![CDATA[https://www.nintendo.com/feed]]></feed>
     </rss>
     ```
 
