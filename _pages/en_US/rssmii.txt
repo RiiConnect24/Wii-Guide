@@ -15,6 +15,7 @@ Do you want to get RSS feed updates on your Wii Message Board? This tutorial wil
 1. Extract the contents of the `rssmii.zip` to your SD Card.
 1. We need to create a `feeds.xml` on the root of the SD Card so the app will know what feeds to subscribe you to.
 Use this template and use your favorite text editor to make the `feeds.xml`:
+
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <rss>
@@ -22,8 +23,10 @@ Use this template and use your favorite text editor to make the `feeds.xml`:
   <feed name="One more Example-Feed!"><![CDATA[http://example.com/another_rss-feed]]></feed>
 </rss>
 ```
+
 Replace the "name" portion with the title you want to put for the feed. Make sure it's not very long, since there's not that much space.
-Then, replace the link portion with the link to the RSS feed. You can put as many feeds as you want. Don'td elete the "CDATA" part.
+Then, replace the link portion with the link to the RSS feed. You can put as many feeds as you want. Don't delete the "CDATA" part.
+
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <rss>
@@ -32,6 +35,7 @@ Then, replace the link portion with the link to the RSS feed. You can put as man
   <feed name="Nintendo News"><![CDATA[http://www.nintendo.com/feed]]></feed>
 </rss>
 ```
+
 Looks great! Save that to your SD Card.
 1. Launch RSSMii from the Homebrew Channel.
 1. Press A to confirm you want to subscribe to the feeds. Ignore the error about ES_GetTitleID, everything is fine.
