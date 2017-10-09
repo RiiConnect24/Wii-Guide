@@ -1,0 +1,37 @@
+---
+title: "Dumping WADS"
+---
+
+This tutorial will explain you how to dump WADS from your Wii memory.
+
+![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+
+#### What you need
+* And SD Card with at least 128 MB of free space.
+* Internet access on your computer.
+
+##### Section I - Downloading/Installing
+1. [Download the latest version of YABDM](/assets/files/YABDM.zip)
+1. Open the .zip file that you downloaded and copy the content of it to SD Card.
+
+1. When it's done, put it back to Wii.
+
+##### Section II - Dumping
+1. Launch the Homebrew Channel on your Wii.
+1. Find YABDM
+![Launch](/images/DumpWADS/1.jpg)
+1. Launch it.
+
+1. Press "A" button.
+![Press A](/images/DumpWADS/2.jpg)
+
+1. Choose `Installed Channel Titles`
+![Installed Channel Titles](/images/DumpWADS/3.jpg)
+
+1. Find your channel and press "1" on your Wii Remote
+![Find channel](/images/DumpWADS/4.jpg)
+
+1. Choose `Backup to WAD` and on `Fakesign the ticket` press "A", on `Fakesign the TMD` press "A" and on `Change the output WAD region` press "B".
+
+1. Done!
+![Done](/images/DumpWADS/6.jpg)
