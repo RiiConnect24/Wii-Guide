@@ -83,3 +83,6 @@ MrBean35000vr and Chadderz have an amazing CTGP-R distribution, the application 
 
 ## MKW Hack Pack (Mario Kart Wii)
 Huili has put together a really good collection of custom tracks and hacks called MKW Hack Pack, and it allows you to connect to Wiimmfi. To learn how to set it up, go to the [wiki page](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+
+[Click here! We got many other tutorials that you can check out :)](site-navigation)
+{: .notice--info}

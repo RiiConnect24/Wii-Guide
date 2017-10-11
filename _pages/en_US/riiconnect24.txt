@@ -123,3 +123,6 @@ If you get error 107245, then you failed to patch your IOS correctly.
 [Continue to Wiimmfi](wiimmfi)<br>
 Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection.
 {: .notice--info}
+
+[Click here! We got many other tutorials that you can check out :)](site-navigation)
+{: .notice--info}

@@ -1,0 +1,32 @@
+---
+title: "CleanRip"
+---
+
+Do you want to make a backup of your games? This tutorial will explain you how to use CleanRip.
+
+![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+
+#### What you need
+
+* A Wii with an outbound Internet connection
+* An SD card or USB Drive with at least 4.4 GB of free space
+* [CleanRip](/assets/files/CleanRip-v2.0.0.zip)
+
+#### Instructions
+
+##### Section I - Ripping
+
+1. Download and install CleanRip on your SD Card.
+1. Find it on Homebrew Channel
+![Homebrew Channel](/images/CleanRip/1.jpg)
+1. Select your device that you will be dumping the DVD to. `USB or SD Card`
+![Device type](/images/CleanRip/2.jpg)
+1. If this screen appears, you can click `Yes` or `No`. It's up to you.
+![DAT](/images/CleanRip/3.jpg)
+1. Now please insert the game.
+![DVD](/images/CleanRip/4.jpg)
+![Initialising Disc](/images/CleanRip/5.jpg)
+1. Set it as shown on the screen below.
+![Settings](/images/CleanRip/6.jpg)
+1. And now wait until it's done! It's making a full 4.4GB copy so it might take a while.
+![Copying](/images/CleanRip/7.jpg)

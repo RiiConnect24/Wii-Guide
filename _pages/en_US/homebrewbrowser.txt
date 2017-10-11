@@ -1,0 +1,37 @@
+---
+title: "Homebrew Browser"
+---
+
+Do you need to download Homebrew without need of putting your SD Card into your computer? This tutorial will explain you how to use Homebrew Browser.
+
+![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+
+#### What you need
+
+* A Wii with an outbound Internet connection
+* An SD card with at least 128 MB of free space
+* [Homebrew Browser](/assets/files/homebrew_browser_v0.3.9e.zip)
+
+#### Instructions
+
+##### Section I - Patching
+
+1. Download Homebrew Browser and install it on SD Card.
+1. Launch Homebrew Channel and find Homebrew Browser.
+![Homebrew Browser](/images/HomebrewBrowser/1.jpg)
+1. Wait for it to load
+![Loading](/images/HomebrewBrowser/2.jpg)
+1. Go to settings.
+![Settings](/images/HomebrewBrowser/3.jpg)
+1. Go to last page and turn on the setting called `Secondary Server`.
+![Use Secondary Server](/images/HomebrewBrowser/4.jpg)
+1. Go back and exit Homebrew Browser.
+![Return to loader](/images/HomebrewBrowser/5.jpg)
+1. Start Homebrew Browser.
+1. Now open a page `Demos`, `Emulators`, `Games`, `Media` or `Utilities`
+![Pages](/images/HomebrewBrowser/6.jpg)
+1. Find a program and click "A" on it.
+![Homebrew](/images/HomebrewBrowser/7.jpg)
+1. Click `Download`.
+![Downloading](/images/HomebrewBrowser/8.jpg)
+1. That's it! The Homebrew should now appear on your Homebrew list in Homebrew Channel!
