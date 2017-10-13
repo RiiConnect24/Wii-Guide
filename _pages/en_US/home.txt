@@ -15,7 +15,7 @@ excerpt: "A guide to get you started with modding your Wii.<br />"
 
 [**Homebrew**](https://en.wikipedia.org/wiki/List_of_homebrew_video_games) usually refers to software that is not authorized by Nintendo. It allows you to run homebrew games, tools like save editing and backup, and emulators for various older systems.
 
-In most cases, running homebrew on your device is 100% free using the LetterBomb or Wilbrand exploit. There are also various other exploits in commercial games and the browser to get homebrew running.
+In most cases, running homebrew on your device is 100% free using the LetterBomb or Wilbrand exploit. There are also various other exploits in commercial games to get homebrew running.
 
 ## What can I do with homebrew?
 
