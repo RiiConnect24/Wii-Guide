@@ -44,16 +44,28 @@ This tutorial will explain you how to install Prilloader.
 
 This describes all the System Menu hacks you can enable with Priiloader.
 
-|                  Hack                |                                                                 Description                                                      |
-|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| Replace Health Screen with Backmenu  | Changes the "Health and Safety" screen to the animation you see when you exit a game to go to the Wii Menu.                      |
-| Re-Enable Bannerbomb v2              | Allows the "Bannerbomb" exploit used in older Wii Menu versions to be used on the latest Wii version.                            |
-| Region Free EVERYTHING               | Enables region free for any Wii game, including downloaded ones.                                                                 |
-| Block Disc Updates                   | Removes the "Wii System Update" screen that is included on some games forcing you to update them to play the game.               |
-| Region Free GC Games (No VM Patch)   | Enables region free for GameCube games.                                                                                          |
-| Region Free Wii Games                | Enables region free for Wii games.                                                                                               |
-| Lock System Menu with Black Screen   | Makes your Wii Menu be stuck on a black screen, making you unable to use it.                                                     |
-| Remove Diagnostic Disc Check         | Removes a check in the Wii to see if an inserted game is the "Wii Startup Disc".                                                 |
+|                  Hack                   |                                                                 Description                                                      |
+|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Replace Health Screen with Backmenu     | Changes the "Health and Safety" screen to the animation you see when you exit a game to go to the Wii Menu.                      |
+| Re-Enable Bannerbomb v2                 | Allows the "Bannerbomb" exploit used in older Wii Menu versions to be used on the latest Wii version.                            |
+| Region Free EVERYTHING                  | Enables region free for any Wii game, including downloaded ones.                                                                 |
+| Block Disc Updates                      | Removes the "Wii System Update" screen that is included on some games forcing you to update them to play the game.               |
+| Region Free GC Games (No VM Patch)      | Enables region free for GameCube games.                                                                                          |
+| Region Free Wii Games                   | Enables region free for Wii games.                                                                                               |
+| Lock System Menu with Black Screen      | Makes your Wii Menu be stuck on a black screen, making you unable to use it.                                                     |
+| Remove Diagnostic Disc Check            | Removes a check in the Wii to see if an inserted game is the "Wii Startup Disc".                                                 |
+| No System Menu Sounds AT ALL            | Turns off all Wii Menu sound effects.                                                                                            |
+| No System Menu Background Music         | Turns off the Wii Menu music.                                                                                                    |
+| No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Nintendo deleted Channels with these title IDs in system updates because they were exploits, you can re-enable them with this.   |
+| Remove NoCopy Save File Protection      | Allows you to copy save files in the Data Management screen that usually are disabled for copying.                               |
+| Region Free Channels                    | Enables region free for Wii Channels.                                                                                            |
+| Force Disc Games to run under IOS249    | Makes games on discs use cIOS 249 as the game's IOS.                                                                             |
+| Auto-Press A at Health Screen           | Automatically presses the A Button to get past the "Health and Safety" screen.                                                   |
+| Force Standard Recovery Mode            | Lets you in a recovery mode where you can launch recovery discs. This menu was used by people to unbrick their Wiis.             |
+| OSReport to UsbGecko(slot B)            | Allows you to send Wii Menu logs to a debugging device in memory card slot B.                                                    |
+| OSReport to UsbGecko(GeckoOS,B)         | Allows you to send Wii Menu logs to a debugging device in memory card slot B, if the Wii Menu is launched by Gecko OS.           |
+| Move Disc Channel                       | Enables you to move the Disc Channel to anywhere you want on the Wii Menu.                                                       |
+| Block Online Updates                    | Disables updating your Wii.                                                                                                      |
 
 [Continue to cIOS](cios)<br>
 You only need to install cIOS if you want to use a USB Loader to play your games.
