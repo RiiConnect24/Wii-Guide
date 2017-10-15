@@ -40,6 +40,21 @@ This tutorial will explain you how to install Prilloader.
 1. Turn on the `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`.
 ![System Menu Hacks](/images/Prilloader/7.jpg)
 
+## System Menu Hacks List
+
+This describes all the System Menu hacks you can enable with Priiloader.
+
+|                  Hack                |                                                                 Description                                                      |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Replace Health Screen with Backmenu  | Changes the "Health and Safety" screen to the animation you see when you exit a game to go to the Wii Menu.                      |
+| Re-Enable Bannerbomb v2              | Allows the "Bannerbomb" exploit used in older Wii Menu versions to be used on the latest Wii version.                            |
+| Region Free EVERYTHING               | Enables region free for any Wii game, including downloaded ones.                                                                 |
+| Block Disc Updates                   | Removes the "Wii System Update" screen that is included on some games forcing you to update them to play the game.               |
+| Region Free GC Games (No VM Patch)   | Enables region free for GameCube games.                                                                                          |
+| Region Free Wii Games                | Enables region free for Wii games.                                                                                               |
+| Lock System Menu with Black Screen   | Makes your Wii Menu be stuck on a black screen, making you unable to use it.                                                     |
+| Remove Diagnostic Disc Check         | Removes a check in the Wii to see if an inserted game is the "Wii Startup Disc".                                                 |
+
 [Continue to cIOS](cios)<br>
 You only need to install cIOS if you want to use a USB Loader to play your games.
 {: .notice--info}
