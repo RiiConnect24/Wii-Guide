@@ -9,7 +9,7 @@ This tutorial will explain you how to install Prilloader.
 #### What you need
 * And SD Card with at least 128 MB of free space.
 * Internet access on your computer.
-* Prilloader ['..::Click::..'](/assets/files/Priiloader_v0_8_1.zip)
+* [Prilloader](/assets/files/Priiloader_v0_8_1.zip)
 
 #### Instructions
 
@@ -20,7 +20,7 @@ This tutorial will explain you how to install Prilloader.
 1. After it will be done, plug your SD Card to your Wii.
 
 ##### Section II - Installing
-1. Launch the Homebrew channel on your Wii
+1. Launch the Homebrew Channel on your Wii
 1. Find Prilloader
 ![Find Prilloader](/images/Prilloader/1.jpg)
 1. Launch Prilloader
