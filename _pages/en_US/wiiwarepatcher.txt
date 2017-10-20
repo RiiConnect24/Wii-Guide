@@ -16,6 +16,9 @@ This tutorial is only for Windows version of WiiWare Patcher.
 
 #### Downloading
 
+[Do you have any problems with this Wiimmfi patcher? Or maybe you want to ask us something? Mail us at: support@riiconnect24.net!](mailto:support@riiconnect24.net)
+{: .notice--info}
+
 [If you want to download WiiWare Patcher without cmd.exe method, click here!](https://github.com/RiiConnect24/auto-wiiware-patcher/releases)
 {: .notice--info}
 
