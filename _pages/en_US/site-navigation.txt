@@ -1,6 +1,6 @@
 ---
 title: "Site Navigation" #
-layout: single-no-ads
+layout: single
 sitemap: false
 ---
 ![WiiTutorials](/images/WiiTutorials.jpg)
