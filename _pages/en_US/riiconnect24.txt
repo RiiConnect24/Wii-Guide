@@ -29,6 +29,9 @@ In order to install RiiConnect24 you must be on Wii Menu version 4.3, otherwise 
 
 ##### Section I - Patching
 
+[Do you have any problems with installing RiiConnect24 or do you want to ask us something? Mail us at: support@riiconnect24.net!](mailto:support@riiconnect24.net)
+{: .notice--info}
+
 [If you want to see how to use IOS Patcher, click here!](iospatcher)
 {: .notice--info}
 
@@ -67,6 +70,9 @@ If you want to download IOS Patcher directly (on Windows), open cmd.exe and past
 1. Exit to the `Wii Menu`
 ![Wii Menu 1](/images/RiiConnect24/WiiXplorer_8.png)
 ![Wii Menu 2](/images/RiiConnect24/WiiXplorer_9.png)
+
+[Do you have any problems with patching `nwc24msg.cfg` file? Mail us at support@riiconnect24.net and ask us about patching it!](mailto:support@riiconnect24.net)
+{: .notice--info}
 
 ##### Section II - Connecting
 

@@ -16,6 +16,9 @@ This tutorial is only for Windows version of IOS Patcher.
 
 #### Downloading
 
+[Do you have any problems with installing RiiConnect24 or using IOS Patcher? Or maybe you want to ask us something? Mail us at: support@riiconnect24.net!](mailto:support@riiconnect24.net)
+{: .notice--info}
+
 [If you are on Windows XP, skip the "Downloading" section and download it from GitHub.](https://github.com/RiiConnect24/IOS-Patcher/releases)
 {: .notice--info}
 
