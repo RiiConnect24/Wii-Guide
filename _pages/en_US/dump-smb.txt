@@ -3,6 +3,8 @@ title: "Dumping a game using WiFi/Ethernet"
 ---
 Do you want to dump games through your local network? Follow this tutorial!
 
+![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+
 #### What you need
 
 * A Wii.
