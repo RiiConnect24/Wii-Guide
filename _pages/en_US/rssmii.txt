@@ -14,7 +14,11 @@ Do you want to get RSS feed updates on your Wii Message Board? This tutorial wil
 
 1. Extract the contents of the `rssmii.zip` to your SD Card.
 1. We need to create a `feeds.xml` on the root of the SD Card so the app will know what feeds to subscribe you to.
-    Use this template and use your favorite text editor to make the `feeds.xml`:
+
+[Do you have Windows computer? Download our RSS Feeds Creators program created by KcrPL. It will automatically create `feeds.xml` and it will copy it to your SD Card! Click here to download it.](https://github.com/RiiConnect24/rssmii/releases)
+{: .notice--info}
+
+<b>If you don't have Windows computer, use this template and use your favorite text editor to make the `feeds.xml`. Even when it's too complicated for you, mail us at `support@riiconnect24.net` and we will create this file for you</b> :)
 
     ```
     <?xml version="1.0" encoding="utf-8"?>
