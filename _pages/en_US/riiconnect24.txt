@@ -4,9 +4,9 @@ title: "RiiConnect24"
 
 {% include toc title="Table of Contents" %}
 
-Have you wanted to use the News or Forecast Channel, or exchange mail between Wiis, yet miss WiiConnect24 after shutdown? Fear no more, as RiiConnect24 is here to save the day!
-
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+
+Have you wanted to use the News or Forecast Channel, or exchange mail between Wiis, yet miss WiiConnect24 after shutdown? Fear no more, as RiiConnect24 is here to save the day!
 
 RiiConnect24 doesn't work with the Wii U yet (although they are working on it), so please do not do this on a Wii U.
 <br>
