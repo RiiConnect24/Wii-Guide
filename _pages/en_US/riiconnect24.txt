@@ -33,7 +33,7 @@ These instructions will assume you're using an SD card to install RiiConnect24, 
 
 #### Instructions
 
-##### Section I - Patching
+##### Patching IOS
 
 [Do you have any problems with installing RiiConnect24 or do you want to ask us something? Mail us at: support@riiconnect24.net!](mailto:support@riiconnect24.net)
 {: .notice--info}
@@ -43,8 +43,6 @@ These instructions will assume you're using an SD card to install RiiConnect24, 
 
 [If you want to see instructions on how to install patched IOS, click here!](wiimodlite)
 {: .notice--info}
-
-#### Patching IOS
 
 1. Open the IOS Patcher zip and run `patch.bat` if on Windows, or `patch.command` on Linux or MacOS.
 If you want to download IOS Patcher directly (on Windows), open cmd.exe and paste this:
@@ -56,7 +54,7 @@ If you want to download IOS Patcher directly (on Windows), open cmd.exe and past
 1. When `IOS31.wad` is highlighted, press +, and then press A to install the WAD. Continue to do the same for `IOS80.wad`.
 1. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
-#### Patching nwc24msg.cfg
+##### Patching nwc24msg.cfg
 
 1. We will now patch your `nwc24msg.cfg` file which is required to do in order to use Wii Mail. Launch WiiXplorer.
 1. Go to `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` and then select `Yes` for both dialogs that appear on the screen. *This is important, if you do not do this, you'll get an error saying "Error copying some item(s)" later.*
@@ -88,7 +86,7 @@ If you want to download IOS Patcher directly (on Windows), open cmd.exe and past
 If you were unable to patch your nwc24msg.cfg correctly, join the [RiiConnect24 Discord server](https://discord.gg/b4Y7jfD), type in `!patch` when you get there and you will be sent instructions over DM.
 {: .notice--info}
 
-##### Section II - Connecting
+##### Connecting
 
 1. Goto `Wii Options`
 ![Wii Options](/images/RiiConnect24/Internet_1.png)
