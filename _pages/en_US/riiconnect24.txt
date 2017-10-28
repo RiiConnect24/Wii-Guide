@@ -8,6 +8,8 @@ title: "RiiConnect24"
 
 Have you wanted to use the News or Forecast Channel, or exchange mail between Wiis, yet miss WiiConnect24 after shutdown? Fear no more, as RiiConnect24 is here to save the day!
 
+[RiiConnect24's site is here.](https://rc24.xyz/)
+
 RiiConnect24 doesn't work with the Wii U yet (although they are working on it), so please do not do this on a Wii U.
 <br>
 Also, right now only Wii Mail and the News and Forecast Channel work. There is not a need to try other Channels, as they won't work yet.

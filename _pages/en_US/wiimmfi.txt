@@ -8,6 +8,8 @@ title: "Wiimmfi"
 
 Have you wanted to go online, yet miss Nintendo WFC after shutdown? Fear no more, as Wiimmfi is here to save the day!
 
+[Wiimmfi's site is here.](https://wiimmfi.de/)
+
 ## Homebrew (Disc) Application
 MrBean35000vr (you may know him as the *creator of CTGP-R*) has created a Wiimmfi Disc Patcher that allows you to insert a disc and let it automatically (temporarily; you have to run the patcher each time) patch the game for Wiimmfi use!
 
