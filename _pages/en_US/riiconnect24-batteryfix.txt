@@ -10,7 +10,8 @@ If you're getting error NEWS/FORE000006, usually it means "invalid data". It cou
 
 If the error code still remains, the time on your Wii might be incorrect, confusing the Channels. These instructions might be worth a shot.
 
-#### You Will Need
+#### What you need
+
 * Crosshead Phillips #00 screwdriver
 ![Crosshead Phillips #00 Screwdriver](/images/RiiConnect24/clock/screwdriver.jpg)
 
