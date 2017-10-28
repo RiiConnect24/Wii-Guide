@@ -2,6 +2,8 @@
 title: "RiiConnect24"
 ---
 
+{% include toc title="Table of Contents" %}
+
 Have you wanted to use the News or Forecast Channel, or exchange mail between Wiis, yet miss WiiConnect24 after shutdown? Fear no more, as RiiConnect24 is here to save the day!
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
@@ -14,6 +16,9 @@ There is also not a need to install Channels such as the Everybody Votes Channel
 {: .notice--warning}
 
 In order to install RiiConnect24 you must be on Wii Menu version 4.3, otherwise mail won't work.
+{: .notice--info}
+
+These instructions will assume you're using an SD card to install RiiConnect24, but you can use a USB storage device instead of an SD card for these steps if you want to.
 {: .notice--info}
 
 #### What you need
@@ -38,6 +43,8 @@ In order to install RiiConnect24 you must be on Wii Menu version 4.3, otherwise 
 [If you want to see instructions on how to install patched IOS, click here!](wiimodlite)
 {: .notice--info}
 
+#### Patching IOS
+
 1. Open the IOS Patcher zip and run `patch.bat` if on Windows, or `patch.command` on Linux or MacOS.
 If you want to download IOS Patcher directly (on Windows), open cmd.exe and paste this:
 `powershell -command "(new-object System.Net.WebClient).DownloadFile('https://kcrpl.github.io/Patchers_Auto_Update/IOS_Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat` (You need to be on Windows 7 on newer.)
@@ -47,6 +54,9 @@ If you want to download IOS Patcher directly (on Windows), open cmd.exe and past
 1. Using the +Control Pad on your Wii Remote, go to `WAD Manager`, and then navigate to the `WAD` folder.
 1. When `IOS31.wad` is highlighted, press +, and then press A to install the WAD. Continue to do the same for `IOS80.wad`.
 1. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+
+#### Patching nwc24msg.cfg
+
 1. We will now patch your `nwc24msg.cfg` file which is required to do in order to use Wii Mail. Launch WiiXplorer.
 1. Go to `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` and then select `Yes` for both dialogs that appear on the screen. *This is important, if you do not do this, you'll get an error saying "Error copying some item(s)" later.*
 ![NAND Write Access 1](/images/RiiConnect24/WiiXplorer_1.png)
