@@ -44,6 +44,8 @@ These instructions will assume you're using an SD card to install RiiConnect24, 
 [If you want to see instructions on how to install patched IOS, click here!](wiimodlite)
 {: .notice--info}
 
+You will now patch your IOS, `IOS31` and `IOS80`. This is required to use the Channels we support to change an RSA key used to sign the files, and contains some patches for Wii Mail.
+
 1. Open the IOS Patcher zip and run `patch.bat` if on Windows, or `patch.command` on Linux or MacOS.
 If you want to download IOS Patcher directly (on Windows), open cmd.exe and paste this:
 `powershell -command "(new-object System.Net.WebClient).DownloadFile('https://kcrpl.github.io/Patchers_Auto_Update/IOS_Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat` (You need to be on Windows 7 on newer.)
@@ -56,7 +58,9 @@ If you want to download IOS Patcher directly (on Windows), open cmd.exe and past
 
 ##### Section II - Patching nwc24msg.cfg
 
-1. We will now patch your `nwc24msg.cfg` file which is required to do in order to use Wii Mail. Launch WiiXplorer.
+You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
+
+1. Launch WiiXplorer.
 1. Go to `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` and then select `Yes` for both dialogs that appear on the screen. *This is important, if you do not do this, you'll get an error saying "Error copying some item(s)" later.*
 ![NAND Write Access 1](/images/RiiConnect24/WiiXplorer_1.png)
 ![NAND Write Access 2](/images/RiiConnect24/WiiXplorer_2.png)
