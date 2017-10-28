@@ -2,6 +2,8 @@
 title: "RiiConnect24 Updating After Maintenance"
 ---
 
+{% include toc title="Table of Contents" %}
+
 This tutorial is for existing RiiConnect24 users who have not done this patch before August 2017. Basically, RiiConnect24 undergone some maintenance requiring you to change your DNS and repatch your nwc24msg.cfg. Please follow this, because this is required if you want to continue using RiiConnect24.
 {: .notice--info}
 

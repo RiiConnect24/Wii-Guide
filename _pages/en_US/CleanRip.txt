@@ -2,6 +2,8 @@
 title: "CleanRip"
 ---
 
+{% include toc title="Table of Contents" %}
+
 Do you want to make a backup of your games? This tutorial will explain you how to use CleanRip.
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)

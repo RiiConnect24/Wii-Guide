@@ -2,6 +2,8 @@
 title: "IOS Patcher"
 ---
 
+{% include toc title="Table of Contents" %}
+
 Want to download patched IOS files for RiiConnect24 and you don't know how? This tutorial will explain you how IOS Patcher works. (This tutorial is only suitable for Windows operating system)
 
 ![Using the IOS Patcher](/images/rc24_using_the_ios_patcher.jpg)

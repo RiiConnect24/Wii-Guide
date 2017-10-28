@@ -2,6 +2,8 @@
 title: "RiiConnect24 Troubleshooting"
 ---
 
+{% include toc title="Table of Contents" %}
+
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
 If you're getting one of these errors (and not any other error), you should be able to fix the Channel by deleting your VFF.

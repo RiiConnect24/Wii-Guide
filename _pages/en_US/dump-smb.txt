@@ -1,6 +1,9 @@
 ---
 title: "Dumping a game using WiFi/Ethernet"
 ---
+
+{% include toc title="Table of Contents" %}
+
 Do you want to dump games through your local network? Follow this tutorial!
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)

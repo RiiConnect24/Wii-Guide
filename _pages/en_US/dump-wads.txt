@@ -1,6 +1,8 @@
 ---
-title: "Dumping WADS"
+title: "Dumping WADs"
 ---
+
+{% include toc title="Table of Contents" %}
 
 This tutorial will explain you how to dump WADS from your Wii memory.
 

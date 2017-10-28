@@ -2,6 +2,8 @@
 title: "Wii Mod Lite"
 ---
 
+{% include toc title="Table of Contents" %}
+
 This tutorial will explain you how to install Wii Mod Lite and IOS on your Wii.
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)

@@ -2,6 +2,8 @@
 title: "RiiConnect24 Battery Fix"
 ---
 
+{% include toc title="Table of Contents" %}
+
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
 If you're getting error NEWS/FORE000006, usually it means "invalid data". It could be something on our end, but try waiting a few minutes then try again. Sometimes you can get FORE000006 at the start of an hour.

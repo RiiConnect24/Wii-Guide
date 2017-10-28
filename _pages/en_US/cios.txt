@@ -2,6 +2,8 @@
 title: "cIOS"
 ---
 
+{% include toc title="Table of Contents" %}
+
 ![cIOS Logo](/images/cIOS.png)
 
 #### What you need

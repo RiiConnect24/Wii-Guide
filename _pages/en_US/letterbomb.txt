@@ -2,6 +2,8 @@
 title: "LetterBomb"
 ---
 
+{% include toc title="Table of Contents" %}
+
 ![LetterBomb](/images/letterbomb.png)
 
 #### What you need

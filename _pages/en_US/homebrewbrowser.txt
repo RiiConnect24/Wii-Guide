@@ -2,6 +2,8 @@
 title: "Homebrew Browser"
 ---
 
+{% include toc title="Table of Contents" %}
+
 Do you need to download Homebrew without need of putting your SD Card into your computer? This tutorial will explain you how to use Homebrew Browser.
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
