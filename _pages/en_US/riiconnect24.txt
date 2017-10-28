@@ -27,6 +27,7 @@ These instructions will assume you're using an SD card to install RiiConnect24, 
 * An SD card with at least 128 MB of free space
 * Windows, Linux or Mac computer
 * [IOS Patcher](https://github.com/RiiConnect24/IOS-Patcher/releases)
+* [nwc24msg.cfg Patcher](https://github.com/Seriell/RC24-MailPatch-Portable/releases)
 * [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 * [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
 
@@ -71,7 +72,10 @@ If you want to download IOS Patcher directly (on Windows), open cmd.exe and past
 1. Select the NAND icon (which used to be the SD Card icon), then select `SD`.
 1. In the file explorer pane, press the + button somewhere in the file listing and select `Paste`.
 1. Take your SD card out and insert it back into your computer.
-1. <b>(If you have Windows computer, click [here](https://github.com/KcrPL/RiiConnect24-Mail-Patcher-Windows/releases), download the Mail Patcher by KcrPL, unpack it and run patch.bat. Remember to put `nwc24msg.cfg` into the folder where patch.bat is. If you have Mac or Linux, or you have trouble getting it to work, [join the RiiConnect24 Discord server.](https://discord.gg/b4Y7jfD) Then before you get verified (if you want to access the rest of the server), type in `!patch`. The bot will guide you on how to patch your config (in DM). Once your config has been patched, download it and copy it back to your SD card, replacing the already existing `nwc24msg.cfg`.
+1. Extract the nwc24msg.cfg patcher.
+1. Put your nwc24msg.cfg in the same directory the patcher is in.
+1. For Windows, run `mailparse.exe`, and for macOS/Linux run `mailparse` from a terminal.
+1. If it ran correctly, the nwc24msg.cfg is now overwritten and patched. Copy it back to your SD card.
 1. Take your SD card out and insert it back into your Wii.
 1. In the file explorer pane, hover over `nwc24msg.cfg` and press the + button, then select `Copy`.
 1. Select the SD icon (which used to be the NAND icon), then select `NAND`.
@@ -81,7 +85,7 @@ If you want to download IOS Patcher directly (on Windows), open cmd.exe and past
 ![Wii Menu 1](/images/RiiConnect24/WiiXplorer_8.png)
 ![Wii Menu 2](/images/RiiConnect24/WiiXplorer_9.png)
 
-[Do you have any problems with patching `nwc24msg.cfg` file? Mail us at support@riiconnect24.net and ask us about patching it!](mailto:support@riiconnect24.net)
+If you were unable to patch your nwc24msg.cfg correctly, join the [RiiConnect24 Discord server](https://discord.gg/b4Y7jfD), type in `!patch` when you get there and you will be sent instructions over DM.
 {: .notice--info}
 
 ##### Section II - Connecting
