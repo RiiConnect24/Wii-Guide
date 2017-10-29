@@ -25,6 +25,6 @@ title: "Homebrew Channel Installation"
 
 1. Once done, exit.
 
-[Continue to Prilloader Installation](prilloader)<br>
+[Continue to Priiloader Installation](priiloader)<br>
 Prilloader is a good brick protection and we really recommend it
 {: .notice--info}
