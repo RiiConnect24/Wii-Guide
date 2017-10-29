@@ -6,4 +6,8 @@ sitemap: false
 ---
 
 Sorry, but the page you were trying to view does not exist.
+
+{: .notice--warning}
+
+[Click here to view all of our tutorials that you can find on that website!] (site-navigation)
 {: .notice--info}
