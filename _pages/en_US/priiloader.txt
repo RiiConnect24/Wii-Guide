@@ -6,7 +6,7 @@ title: "Prilloader"
 
 This tutorial will explain you how to install Prilloader.
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![RiiConnect24 Logo](/images/prilloader.jpg)
 
 #### What you need
 * And SD Card with at least 128 MB of free space.
