@@ -2,9 +2,13 @@
 title: "RiiConnect24"
 ---
 
-Have you wanted to use the News or Forecast Channel, or exchange mail between Wiis, yet miss WiiConnect24 after shutdown? Fear no more, as RiiConnect24 is here to save the day!
+{% include toc title="Table of Contents" %}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+
+Have you wanted to use the News or Forecast Channel, or exchange mail between Wiis, yet miss WiiConnect24 after shutdown? Fear no more, as RiiConnect24 is here to save the day!
+
+[RiiConnect24's site is here.](https://rc24.xyz/)
 
 RiiConnect24 doesn't work with the Wii U yet (although they are working on it), so please do not do this on a Wii U.
 <br>
@@ -16,18 +20,22 @@ There is also not a need to install Channels such as the Everybody Votes Channel
 In order to install RiiConnect24 you must be on Wii Menu version 4.3, otherwise mail won't work.
 {: .notice--info}
 
+These instructions will assume you're using an SD card to install RiiConnect24, but you can use a USB storage device instead of an SD card for these steps if you want to.
+{: .notice--info}
+
 #### What you need
 
 * A Wii with an outbound Internet connection
 * An SD card with at least 128 MB of free space
 * Windows, Linux or Mac computer
 * [IOS Patcher](https://github.com/RiiConnect24/IOS-Patcher/releases)
+* [nwc24msg.cfg Patcher](https://github.com/Seriell/RC24-MailPatch-Portable/releases)
 * [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 * [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
 
 #### Instructions
 
-##### Section I - Patching
+##### Section I - Patching IOS
 
 [Do you have any problems with installing RiiConnect24 or do you want to ask us something? Mail us at: support@riiconnect24.net!](mailto:support@riiconnect24.net)
 {: .notice--info}
@@ -38,6 +46,8 @@ In order to install RiiConnect24 you must be on Wii Menu version 4.3, otherwise 
 [If you want to see instructions on how to install patched IOS, click here!](wiimodlite)
 {: .notice--info}
 
+You will now patch your IOS, `IOS31` and `IOS80`. This is required to use the Channels we support to change an RSA key used to sign the files, and contains some patches for Wii Mail.
+
 1. Open the IOS Patcher zip and run `patch.bat` if on Windows, or `patch.command` on Linux or MacOS.
 If you want to download IOS Patcher directly (on Windows), open cmd.exe and paste this:
 `powershell -command "(new-object System.Net.WebClient).DownloadFile('https://kcrpl.github.io/Patchers_Auto_Update/IOS_Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat` (You need to be on Windows 7 on newer.)
@@ -47,7 +57,12 @@ If you want to download IOS Patcher directly (on Windows), open cmd.exe and past
 1. Using the +Control Pad on your Wii Remote, go to `WAD Manager`, and then navigate to the `WAD` folder.
 1. When `IOS31.wad` is highlighted, press +, and then press A to install the WAD. Continue to do the same for `IOS80.wad`.
 1. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
-1. We will now patch your `nwc24msg.cfg` file which is required to do in order to use Wii Mail. Launch WiiXplorer.
+
+##### Section II - Patching nwc24msg.cfg
+
+You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
+
+1. Launch WiiXplorer.
 1. Go to `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` and then select `Yes` for both dialogs that appear on the screen. *This is important, if you do not do this, you'll get an error saying "Error copying some item(s)" later.*
 ![NAND Write Access 1](/images/RiiConnect24/WiiXplorer_1.png)
 ![NAND Write Access 2](/images/RiiConnect24/WiiXplorer_2.png)
@@ -61,7 +76,10 @@ If you want to download IOS Patcher directly (on Windows), open cmd.exe and past
 1. Select the NAND icon (which used to be the SD Card icon), then select `SD`.
 1. In the file explorer pane, press the + button somewhere in the file listing and select `Paste`.
 1. Take your SD card out and insert it back into your computer.
-1. <b>(If you have Windows computer, click [here](https://github.com/RiiConnect24/RiiConnect24-Mail-Patcher-Windows/releases), download the Mail Patcher by KcrPL, unpack it and run patch.bat. Remember to put `nwc24msg.cfg` into the folder where patch.bat is. If you have Mac or Linux, or you have trouble getting it to work, [join the RiiConnect24 Discord server.](https://discord.gg/b4Y7jfD) Then before you get verified (if you want to access the rest of the server), type in `!patch`. The bot will guide you on how to patch your config (in DM). Once your config has been patched, download it and copy it back to your SD card, replacing the already existing `nwc24msg.cfg`.
+1. Extract the nwc24msg.cfg patcher.
+1. Put your nwc24msg.cfg in the same directory the patcher is in.
+1. For Windows, run `mailparse.exe`, and for macOS/Linux run `mailparse` from a terminal.
+1. If it ran correctly, the nwc24msg.cfg is now overwritten and patched. Copy it back to your SD card.
 1. Take your SD card out and insert it back into your Wii.
 1. In the file explorer pane, hover over `nwc24msg.cfg` and press the + button, then select `Copy`.
 1. Select the SD icon (which used to be the NAND icon), then select `NAND`.
@@ -71,10 +89,10 @@ If you want to download IOS Patcher directly (on Windows), open cmd.exe and past
 ![Wii Menu 1](/images/RiiConnect24/WiiXplorer_8.png)
 ![Wii Menu 2](/images/RiiConnect24/WiiXplorer_9.png)
 
-[Do you have any problems with patching `nwc24msg.cfg` file? Mail us at support@riiconnect24.net and ask us about patching it!](mailto:support@riiconnect24.net)
+If you were unable to patch your nwc24msg.cfg correctly, join the [RiiConnect24 Discord server](https://discord.gg/b4Y7jfD), type in `!patch` when you get there and you will be sent instructions over DM.
 {: .notice--info}
 
-##### Section II - Connecting
+##### Section III - Connecting
 
 1. Goto `Wii Options`
 ![Wii Options](/images/RiiConnect24/Internet_1.png)
