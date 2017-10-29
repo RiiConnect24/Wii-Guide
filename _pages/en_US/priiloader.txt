@@ -11,7 +11,7 @@ This tutorial will explain you how to install Prilloader.
 #### What you need
 * And SD Card with at least 128 MB of free space.
 * Internet access on your computer.
-* [Prilloader](/assets/files/Priiloader_v0_8_1.zip)
+* [Prilloader](http://www.dacotaco.com/dlpriiloader.php?ver=0_8_2)
 
 #### Instructions
 
