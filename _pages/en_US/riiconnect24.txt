@@ -80,7 +80,7 @@ You will now patch your `nwc24msg.cfg` file which is required in order to use Wi
 1. Take your SD card out and insert it back into your computer.
 1. Extract the nwc24msg.cfg patcher.
 1. Put your nwc24msg.cfg in the same directory the patcher is in.
-1. For Windows, run `patch.bat`, and for macOS/Linux run `mailparse` from a terminal.
+1. For Windows, run `patch.bat`, and for macOS/Linux run `./mailparse` from a terminal in the same folder.
 1. If it ran correctly, the nwc24msg.cfg is now overwritten and patched. Copy it back to your SD card.
 1. Take your SD card out and insert it back into your Wii.
 1. In the file explorer pane, hover over `nwc24msg.cfg` and press the + button, then select `Copy`.
