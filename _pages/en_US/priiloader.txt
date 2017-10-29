@@ -1,46 +1,46 @@
 ---
-title: "Prilloader"
+title: "Priiloader"
 ---
 
 {% include toc title="Table of Contents" %}
 
-This tutorial will explain you how to install Prilloader.
+This tutorial will explain you how to install Priiloader.
 
-![RiiConnect24 Logo](/images/prilloader.jpg)
+![RiiConnect24 Logo](/images/priiloader.jpg)
 
 #### What you need
 * And SD Card with at least 128 MB of free space.
 * Internet access on your computer.
-* [Prilloader](/assets/files/Priiloader_v0_8_2.zip)
+* [Priiloader](/assets/files/Priiloader_v0_8_2.zip)
 
 #### Instructions
 
 ##### Section I - Downloading
 
-1. Download Prilloader from the link above.
-1. Install Prilloader on the SD Card like anything else.
+1. Download Priiloader from the link above.
+1. Install Priiloader on the SD Card like anything else.
 1. After it will be done, plug your SD Card to your Wii.
 
 ##### Section II - Installing
 1. Launch the Homebrew Channel on your Wii
-1. Find Prilloader
-![Find Prilloader](/images/Prilloader/1.jpg)
-1. Launch Prilloader
+1. Find Priiloader
+![Find Priiloader](/images/Priiloader/1.jpg)
+1. Launch Priiloader
 1. Press "+" on Wii Remote or "A" on GameCube controller.
-![Install Prilloader](/images/Prilloader/2.jpg)
-![Installing](/images/Prilloader/3.jpg)
+![Install Priiloader](/images/Priiloader/2.jpg)
+![Installing](/images/Priiloader/3.jpg)
 
-##### Section III - Entering/Configuring Prilloader
+##### Section III - Entering/Configuring Priiloader
 1. Turn off your Wii.
 1. Turn on your Wii **and than hold RESET button**
-![Turn on](/images/Prilloader/5.jpg)
-![Hold RESET](/images/Prilloader/4.jpg)
+![Turn on](/images/Priiloader/5.jpg)
+![Hold RESET](/images/Priiloader/4.jpg)
 
-1. Now you should see Prilloader menu.
-![Menu](/images/Prilloader/6.jpg)
+1. Now you should see Priiloader menu.
+![Menu](/images/Priiloader/6.jpg)
 1. Go to `System Menu Hacks`
 1. Turn on the `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`.
-![System Menu Hacks](/images/Prilloader/7.jpg)
+![System Menu Hacks](/images/Priiloader/7.jpg)
 
 ## System Menu Hacks List
 
