@@ -2,6 +2,8 @@
 title: "FAQ"
 ---
 
+![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
+
 {% capture notice-1 %}
 
 <a name="faq_latestfw" />**Q:** *I am on the latest system version. Is my device hackable?*
@@ -11,7 +13,7 @@ title: "FAQ"
 **A:** Bricks are now *basically* impossible unless you ignore/circumvent all safety checks.
 
 <a name="faq_support" />**Q:** *Where should I go for support?*
-**A:** For support, ask for help at [RiiConnect24 on Discord](https://discord.gg/b4Y7jfD).
+**A:** For support mail us at support@riiconnect24.net. Or if you have a Discord account, join our Discord server at [RiiConnect24 on Discord](https://discord.gg/b4Y7jfD).
 
 <a name="faq_le4gbsd" />**Q:** *Can I do this with a 4GB (or smaller) SD card?*
 **A:** Yes!
@@ -27,6 +29,12 @@ title: "FAQ"
 
 <a name="faq_error" />**Q:** *I got error XXXXXX, how to fix it??*
 **A:** In order to check what error that is, please visit [Wiimmfi error page](https://wiimmfi.de/error).
+
+<a name="faq_console" />**Q:** *Can I do it on my Wii?*
+**A:** Patching your Wii for RiiConnect24 will work on every Wii, except Wii Mini.
+
+<a name="faq_dolphin" />**Q:** *Can I install RiiConnect24 on Dolphin?*
+**A:** Unfortunately, Wii Mail, Forecast and News Channel doesn't work on Dolphin emulator.
 
 {% endcapture %}
 
