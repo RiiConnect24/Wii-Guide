@@ -30,6 +30,12 @@ These instructions will assume you're using an SD card to install RiiConnect24, 
 * Windows, Linux or Mac computer
 * [IOS Patcher](https://github.com/RiiConnect24/IOS-Patcher/releases)
 * nwc24msg.cfg Patcher:
+
+Hold on! Are you on Windows? You can give it a try. Open cmd.exe and paste this:
+`powershell -command "(new-object System.Net.WebClient).DownloadFile('https://kcrpl.github.io/Patchers_Auto_Update/IOS_Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat` and hit enter. (You need to be on Windows 7 on newer.)
+It didn't worked? No worries, you can use the link down below
+{: .notice--info}
+
   - [Windows](https://github.com/RiiConnect24/RiiConnect24-Mail-Patcher-Windows/releases)
   - [Linux/Mac](https://github.com/Seriell/RC24-MailPatch-Portable/releases)
 * [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
@@ -50,9 +56,7 @@ These instructions will assume you're using an SD card to install RiiConnect24, 
 
 You will now patch your IOS, `IOS31` and `IOS80`. This is required to use the Channels we support to change an RSA key used to sign the files, and contains some patches for Wii Mail.
 
-1. Open the IOS Patcher zip and run `patch.bat` if on Windows, or `patch.command` on Linux or MacOS.
-If you want to download IOS Patcher directly (on Windows), open cmd.exe and paste this:
-`powershell -command "(new-object System.Net.WebClient).DownloadFile('https://kcrpl.github.io/Patchers_Auto_Update/IOS_Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat` (You need to be on Windows 7 on newer.)
+1. Open the IOS Patcher .zip and run `patch.bat` if on Windows, or `patch.command` on Linux or MacOS. (If you downloaded it using cmd.exe, skip this part)
 1. Follow the instructions it gives you. Upon it finishing, copy the `WAD` folder to your SD Card.
 1. Extract Wii Mod Lite and WiiXplorer, and then copy them to the `apps` folder on your SD Card. Make sure to copy WiiXplorer as its own folder, not the standalone files inside.
 1. Insert your SD card into your Wii, open the Homebrew Channel, and launch Wii Mod Lite.
