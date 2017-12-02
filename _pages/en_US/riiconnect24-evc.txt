@@ -1,0 +1,36 @@
+---
+title: "RiiConnect24 - Everybody Votes Channel Install"
+---
+
+{% include toc title="Table of Contents" %}
+
+![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+
+If you want to use the Everybody Votes Channel, you must follow this tutorial **even if you already have the Everybody Votes Channel on your Wii, because you will need a patched WAD.**
+
+#### What you need
+
+* [Link to Everybody Votes Channel (will explain in the guide)](http://bfy.tw/FM3k)
+* [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+
+#### Instructions
+
+Since we can't legally direct link the link to the WAD on this tutorial, we have to tell you how to navigate to the link.
+{: .notice--info}
+
+[If you want to see detailed instructions on how to install the patched Everybody Votes Channel after you download it, click here!](wiimodlite)
+{: .notice--info}
+
+For the Everybody Votes Channel, you can delete the save file if you want or move it to your SD Card if you want to have a fresh start. Also, if you get 231000 in the Channel, restart and try again.
+{: .notice--info}
+
+1. You will now get the Everybody Votes Channel. It needs to be installed **even if you already have the Everybody Votes Channel on your Wii, because you will need a patched WAD you reinstall with**.
+1. Go to the 1st Google result that shows up when you clicked the link for the Everybody Votes Channel in the "What you need" section. It should lead you to a site with "we hack Wii" in its title.
+1. Look at the orange text in the header of the site saying "Can't find it here"? Click the link that says to go to a repo.
+1. You should see a folder with Channels in it. It might be overwhelming, but it has links to Channels that are hard to find. If you don't know what you're doing, **don't go crazy and install them, especially foreign Channels or ones you don't know what they do**.
+1. Go to the "Everybody Votes Channel" folder, then go to "Patched". Download the WAD corresponding to your Wii's region.
+1. Copy the WAD to your SD Card.
+1. Insert your SD card into your Wii, open the Homebrew Channel, and launch Wii Mod Lite.
+1. Using the +Control Pad on your Wii Remote, go to `WAD Manager`, and then navigate to the `WAD` folder.
+1. When the Everybody Votes Channel WAD is highlighted, press A to install the WAD. Continue to do the same for `IOS80.wad`.
+1. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
