@@ -10,7 +10,7 @@ If you want to use the Everybody Votes Channel, you must follow this tutorial **
 
 #### What you need
 
-* Everybody Votes Channel WAD [Europe](https://kcrpl.github.io/Patchers_Auto_Update/EVC/Everybody_Votes_Channel_-_RiiConnect24_Europe.wad) [USA](https://kcrpl.github.io/Patchers_Auto_Update/EVC/Everybody_Votes_Channel_-_RiiConnect24_USA.wad)
+* Everybody Votes Channel WAD [Europe](https://kcrpl.github.io/Patchers_Auto_Update/EVC/Everybody_Votes_Channel_-_RiiConnect24_Europe.wad) / [USA](https://kcrpl.github.io/Patchers_Auto_Update/EVC/Everybody_Votes_Channel_-_RiiConnect24_USA.wad)
 * [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
 #### Instructions
