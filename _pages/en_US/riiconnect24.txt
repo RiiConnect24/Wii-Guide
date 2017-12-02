@@ -28,14 +28,14 @@ These instructions will assume you're using an SD card to install RiiConnect24, 
 * A Wii with an outbound Internet connection
 * An SD card with at least 128 MB of free space
 * Windows, Linux or Mac computer
-* [IOS Patcher](https://github.com/RiiConnect24/IOS-Patcher/releases)
-* nwc24msg.cfg Patcher:
 
-Hold on! Are you on Windows? You can give it a try. Open cmd.exe and paste this:
+Hold on! Are you on Windows? You can download IOS Patcher directly. Open cmd.exe and paste this:
 `powershell -command "(new-object System.Net.WebClient).DownloadFile('https://kcrpl.github.io/Patchers_Auto_Update/IOS_Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat` and hit enter. (You need to be on Windows 7 on newer.)
-It didn't worked? No worries, you can use the link down below
+It didn't work? No worries, you can use the link down below to download IOS Patcher
 {: .notice--info}
 
+* [IOS Patcher](https://github.com/RiiConnect24/IOS-Patcher/releases)
+* nwc24msg.cfg Patcher:
   - [Windows](https://github.com/RiiConnect24/RiiConnect24-Mail-Patcher-Windows/releases)
   - [Linux/Mac](https://github.com/Seriell/RC24-MailPatch-Portable/releases)
 * [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
