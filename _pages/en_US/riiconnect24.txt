@@ -158,7 +158,7 @@ If you get error 107245, then you failed to patch your IOS correctly.
 [If you're getting errors such as a discontinued message when opening the News or Forecast Channel, we have some instructions that might fix it.](riiconnect24-troubleshooting)
 {: .notice--warning}
 
-[Continue to Everybody Votes Channel installation](riiconnect24-evc)
+[Continue to Everybody Votes Channel installation](riiconnect24-evc)<br>
 Everybody Votes Channel lets you vote at polls. With us, you can use it after the discontinuation of WiiConnect24. 
 {: .notice--info}
 

@@ -4,7 +4,7 @@ title: "RiiConnect24 - Everybody Votes Channel Install"
 
 {% include toc title="Table of Contents" %}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![RiiConnect24 Logo](/images/EVC.jpg)
 
 If you want to use the Everybody Votes Channel, you must follow this tutorial **even if you already have the Everybody Votes Channel on your Wii, because you will need a patched WAD.**
 
