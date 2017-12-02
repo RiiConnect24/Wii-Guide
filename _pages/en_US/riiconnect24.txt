@@ -28,6 +28,12 @@ These instructions will assume you're using an SD card to install RiiConnect24, 
 * A Wii with an outbound Internet connection
 * An SD card with at least 128 MB of free space
 * Windows, Linux or Mac computer
+
+Hold on! Are you on Windows? You can download IOS Patcher directly. Open cmd.exe and paste this:
+`powershell -command "(new-object System.Net.WebClient).DownloadFile('https://kcrpl.github.io/Patchers_Auto_Update/IOS_Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat` and hit enter. (You need to be on Windows 7 on newer.)
+It didn't work? No worries, you can use the link down below to download IOS Patcher
+{: .notice--info}
+
 * [IOS Patcher](https://github.com/RiiConnect24/IOS-Patcher/releases)
 * [Link to Everybody Votes Channel (will explain in the guide)](http://bfy.tw/FM3k)
 * nwc24msg.cfg Patcher:
@@ -51,9 +57,7 @@ These instructions will assume you're using an SD card to install RiiConnect24, 
 
 You will now patch your IOS, `IOS31` and `IOS80`. This is required to use the Channels we support to change an RSA key used to sign the files, and contains some patches for Wii Mail.
 
-1. Open the IOS Patcher zip and run `patch.bat` if on Windows, or `patch.command` on Linux or MacOS.
-If you want to download IOS Patcher directly (on Windows), open cmd.exe and paste this:
-`powershell -command "(new-object System.Net.WebClient).DownloadFile('https://kcrpl.github.io/Patchers_Auto_Update/IOS_Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat` (You need to be on Windows 7 on newer.)
+1. Open the IOS Patcher .zip and run `patch.bat` if on Windows, or `patch.command` on Linux or MacOS. (If you downloaded it using cmd.exe, skip this part)
 1. Follow the instructions it gives you. Upon it finishing, copy the `WAD` folder to your SD Card.
 1. You will now get the Everybody Votes Channel. It needs to be installed **even if you already have the Everybody Votes Channel on your Wii, because you will need a patched WAD you reinstall with**.
 1. Go to the 1st Google result that shows up when you clicked the link for the Everybody Votes Channel in the "What you need" section. It should lead you to a site with "we hack Wii" in its title.
