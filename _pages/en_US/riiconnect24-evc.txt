@@ -29,6 +29,6 @@ For the Everybody Votes Channel, you can delete the save file if you want or mov
 1. Copy the WAD to your SD Card.
 1. Insert your SD card into your Wii, open the Homebrew Channel, and launch Wii Mod Lite.
 1. Using the +Control Pad on your Wii Remote, go to `WAD Manager`, and then navigate to the `WAD` folder.
-1. When the Everybody Votes Channel WAD is highlighted, press A to install the WAD.
+1. When the Everybody Votes Channel WAD is highlighted, press A to install the WAD. Continue to do the same for `IOS80.wad`.
 1. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted Everybody Votes Channel WAD, then try installing it again.
 1. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
