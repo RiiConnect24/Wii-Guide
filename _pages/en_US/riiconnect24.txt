@@ -12,8 +12,6 @@ Have you wanted to use the News or Forecast Channel, or exchange mail between Wi
 
 RiiConnect24 doesn't work with the Wii U yet (although they are working on it), so please do not do this on a Wii U.
 <br>
-Also, right now only Wii Mail and the News and Forecast Channel work. There is not a need to try other Channels, as they won't work yet.
-<br>
 There is also not a need to install Channels such as the Everybody Votes Channel because when RiiConnect24 releases Channels like that, you will have to patch them for security purposes.
 {: .notice--warning}
 
