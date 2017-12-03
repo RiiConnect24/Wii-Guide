@@ -103,7 +103,7 @@ You will now patch your `nwc24msg.cfg` file which is required in order to use Wi
 ![Wii Menu 1](/images/RiiConnect24/WiiXplorer_8.png)
 ![Wii Menu 2](/images/RiiConnect24/WiiXplorer_9.png)
 
-If you were unable to patch your nwc24msg.cfg correctly, join the [RiiConnect24 Discord server](https://discord.gg/b4Y7jfD), type in `!patch` when you get there and you will be sent instructions over DM.
+If you were unable to patch your nwc24msg.cfg correctly, mail us at [support@riiconnect24.net](mailto:support@riiconnect24.net) - we will patch the `nwc24msg.cfg` file for you or join the [RiiConnect24 Discord server](https://discord.gg/b4Y7jfD), type in `!patch` when you get there and you will be sent instructions over DM.
 {: .notice--info}
 
 ##### Section III - Connecting
