@@ -3,7 +3,9 @@ title: "Credits"
 ---
 
 **Agradecimientos especiales a [todos los miembros de RiiConnect24 en Discord](https://discord.gg/b4Y7jfD) Por su apoyo!**
-{: .notice--primary}En caso de olvidarte, contactáctanos y añadiremos tu nombre.
+{: .notice--primary}
+
+En caso de olvidarte, contactáctanos y añadiremos tu nombre.
 
 {% capture notice-1 %}
 
