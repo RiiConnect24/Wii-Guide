@@ -1,0 +1,14 @@
+---
+title: "Dumpear juegos de Wii o de GameCube"
+---
+
+¿Quieres obtener una copia de tu juego Wii o de GameCube legal y jugarlo? Este tutorial te explicará como hacerlo.
+
+Elige como quieres obtener la copia de tu disco.
+{: .notice--warning}
+
+[Quiero copiarlo directamente a la tarjeta SD o USB](CleanRip)
+{: .notice--info}
+
+[Quiero copiarlo a la PC a través de Wi-Fi o Ethernet](dump-smb)
+{: .notice--info}
