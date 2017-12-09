@@ -1,0 +1,23 @@
+---
+title: "Credits"
+---
+
+**Agradecimientos especiales a [todos los miembros de RiiConnect24 en Discord](https://discord.gg/b4Y7jfD) Por su apoyo!**
+{: .notice--primary}En caso de olvidarte, contactáctanos y añadiremos tu nombre.
+
+{% capture notice-1 %}
+
+    + Actar
+    + Todo el equipo de RiiConnect24
+    + fail0verflow
+    + GiantPune
+    + JoostinOnline
+    + KcrPL
+    + Leseratte
+    + ScarletDreamz
+    + XFlak
+    + Wiimm
+
+{% endcapture %}
+
+<div class="notice--info">{{ notice-1 | markdownify }}</div>
