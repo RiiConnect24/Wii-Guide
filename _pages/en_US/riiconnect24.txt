@@ -55,7 +55,7 @@ It didn't work? No worries, you can use the link down below to download IOS Patc
 [If you want to see detailed instructions on how to install patched IOS and the patched Everybody Votes Channel after you download it, click here!](wiimodlite)
 {: .notice--info}
 
-You will now patch your IOS, `IOS31` and `IOS80`. This is required to use the Channels we support to change an RSA key used to sign the files, and contains some patches for Wii Mail.
+You will now patch your IOS, `IOS31` and `IOS80`. This is required to use the Channels we support to change an RSA key used to sign the files, and contains some patches for Wii Mail. You also will download a patched version of the Everybody Votes Channel.
 
 1. Open the IOS Patcher .zip and run `patch.bat` if on Windows, or `patch.command` on Linux or MacOS. (If you downloaded it using cmd.exe, skip this part)
 1. Follow the instructions it gives you. Upon it finishing, copy the `WAD` folder to your SD Card.
@@ -159,7 +159,7 @@ If you get error 107245, then you failed to patch your IOS correctly.
 {: .notice--warning}
 
 [Continue to Everybody Votes Channel installation](riiconnect24-evc)<br>
-Everybody Votes Channel lets you vote at polls. With us, you can use it after the discontinuation of WiiConnect24. 
+Everybody Votes Channel lets you vote at polls. With us, you can use it after the discontinuation of WiiConnect24.
 {: .notice--info}
 
 [Continue to Wiimmfi](wiimmfi)<br>
