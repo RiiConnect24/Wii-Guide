@@ -17,6 +17,7 @@ sitemap: false
 **RiiConnect24/Wiimmfi**
 + [RiiConnect24](riiconnect24)
 + [RiiConnect24 Battery Fix](riiconnect24-batteryfix)
++ [RiiConnect24 Everybody Votes Channel Install](riiconnect24-evc)
 + [RiiConnect24 Troubleshooting](riiconnect24-troubleshooting)
 + [RiiConnect24 Updating After Maintenance](riiconnect24-updatepatch)
 + [IOS Patcher](iospatcher)
