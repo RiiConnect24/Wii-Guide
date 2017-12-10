@@ -4,7 +4,7 @@ title: "RiiConnect24 - Everybody Votes Channel Install"
 
 {% include toc title="Table of Contents" %}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![RiiConnect24 Logo](/images/EVC.jpg)
 
 If you want to use the Everybody Votes Channel, you must follow this tutorial **even if you already have the Everybody Votes Channel on your Wii, because you will need a patched WAD.**
 
@@ -35,3 +35,6 @@ For the Everybody Votes Channel, you can delete the save file if you want or mov
 1. When the Everybody Votes Channel WAD is highlighted, press A to install the WAD.
 1. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted Everybody Votes Channel WAD, then try installing it again.
 1. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+
+[Do you have any problems with getting it to work? Mail us at support@riiconnect24.net!](mailto:support@riiconnect24.net)
+{: .notice--info}

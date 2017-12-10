@@ -1,0 +1,39 @@
+---
+title: "Copiando WADs"
+---
+
+{% include toc title="Tabla de Contenidos" %}
+
+Este tutorial te explicará como copiar WADS de una memoria Wii.
+
+![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+
+#### ¿Qué necesitas?
+* Una tarjeta SD con al menos 128 MB de espacio libre.
+* Acceso a Internet en tu PC.
+
+##### Sección I - Descargando e Instalando
+1. [Descarga la última versión de YABDM](/assets/files/YABDM.zip)
+1. Abre el archivo .zip que descargaste y copia todo su contenido a la tarjeta SD.
+
+1. Cuando termine, insértalo a la Wii.
+
+##### Sección II - Copia de WADs
+1. Abre el canal Homebrew (Homebrew Channel) en la Wii.
+1. Busca YABDM
+![Launch](/images/DumpWADS/1.jpg)
+1. Inicia el programa.
+
+1. Presiona el botón "A".
+![Press A](/images/DumpWADS/2.jpg)
+
+1. Elige `Installed Channel Titles` (Canales instalados)
+![Installed Channel Titles](/images/DumpWADS/3.jpg)
+
+1. Busca el canal y presiona "1" en el Wii Remote
+![Find channel](/images/DumpWADS/4.jpg)
+
+1. Elige `Backup to WAD` (Copiar a WAD) y en `Fakesign the ticket` presiona "A", en `Fakesign the TMD` presiona "A" y en `Change the output WAD region` presiona "B".
+
+1. ¡Ya has acabado!
+![Done](/images/DumpWADS/6.jpg)

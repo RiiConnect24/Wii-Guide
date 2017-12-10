@@ -1,0 +1,41 @@
+---
+title: "Copiando un juego vía Wi-Fi o Ethernet"
+---
+
+{% include toc title="Tabla de contenidos" %}
+
+¿Quieres copiar tus juegos mediante conexión local? ¡Sigue este tutorial!
+
+![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+
+#### ¿Qué necesitas?
+
+* Una Wii.
+* [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
+
+Tu Wii y tu PC deben estar conectadas en una sola red local.
+{: .notice--warning}
+
+#### Instructions
+
+1. Descarga la app. (Hacer click en el link de abajo)
+1. Instálalo en la tarjeta SD.
+1. Inicia el canal Homebrew (Homebrew Channel).
+1. Encuéntralo en el Homebrew Channel e inícialo.
+![1](/images/DumpDiscs_LAN/1.jpg)
+1. Presiona el botón derecho del pad direccional y presiona "A"
+![2](/images/DumpDiscs_LAN/2.jpg)
+1. Elige qué disco quieres copiar (Las opciones son: `GameCube Disc` (Disco de GameCube), `Wii Single-Layer Disc` (Disco de Wii de una capa), `Wii Dual-Layer Disc` (disco de Wii de doble capa) y presiona "A"
+![3](/images/DumpDiscs_LAN/3.jpg)
+1. Inserta el disco en la Wii. (En caso de estarlo, expúlsalo y vuelve a insertarlo)
+![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg)
+![4](/images/DumpDiscs_LAN/4.jpg)
+1. Anota la URL de la Wii (dirección IP)
+![5](/images/DumpDiscs_LAN/5.jpg)
+1. En tu PC, abre el navegador de tu preferencia, escribe el URL y presiona ENTER.
+![6](/images/DumpDiscs_LAN/6.jpg)
+1. Debes ver lo siguiente. Haz click en `Click here to download XXXX.iso` (Click aquí para descargar XXXX.iso)
+![7](/images/DumpDiscs_LAN/7.jpg)
+1. La velocidad no es tan rápida, pero si no puedes hacer algo más, es mejor que nada.
+
+![8](/images/DumpDiscs_LAN/8.PNG)

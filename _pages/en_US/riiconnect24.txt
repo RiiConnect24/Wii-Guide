@@ -6,13 +6,15 @@ title: "RiiConnect24"
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-Have you wanted to use the News or Forecast Channel, or exchange mail between Wiis, yet miss WiiConnect24 after shutdown? Fear no more, as RiiConnect24 is here to save the day!
+Have you wanted to use the News or Forecast Channel, or exchange mail between Wiis, or even vote on polls, yet miss WiiConnect24 after shutdown? Fear no more, as RiiConnect24 is here to save the day!
 
 [RiiConnect24's site is here.](https://rc24.xyz/)
 
 RiiConnect24 doesn't work with the Wii U yet (although they are working on it), so please do not do this on a Wii U.
 <br>
-There is also not a need to install Channels such as the Everybody Votes Channel because when RiiConnect24 releases Channels like that, you will have to patch them for security purposes.
+So far, only News, Forecast, and Everybody Votes Channel works. No other channel is yet supported as of this time, but check the [stats page](https://rc24.xyz/stats/index.html) for more info!
+<br>
+As channels such as the Check Mii Out channel (also known as Mii Contest Channel) would need patching before they'd work on RiiConnect24, please do not install them; they are a waste of blocks.
 {: .notice--warning}
 
 In order to install RiiConnect24 you must be on Wii Menu version 4.3, otherwise mail won't work.
@@ -101,7 +103,7 @@ You will now patch your `nwc24msg.cfg` file which is required in order to use Wi
 ![Wii Menu 1](/images/RiiConnect24/WiiXplorer_8.png)
 ![Wii Menu 2](/images/RiiConnect24/WiiXplorer_9.png)
 
-If you were unable to patch your nwc24msg.cfg correctly, join the [RiiConnect24 Discord server](https://discord.gg/b4Y7jfD), type in `!patch` when you get there and you will be sent instructions over DM.
+If you were unable to patch your nwc24msg.cfg correctly, mail us at [support@riiconnect24.net](mailto:support@riiconnect24.net) - we will patch the `nwc24msg.cfg` file for you or join the [RiiConnect24 Discord server](https://discord.gg/b4Y7jfD), type in `!patch` when you get there and you will be sent instructions over DM.
 {: .notice--info}
 
 ##### Section III - Connecting
@@ -155,6 +157,10 @@ If you get error 107245, then you failed to patch your IOS correctly.
 
 [If you're getting errors such as a discontinued message when opening the News or Forecast Channel, we have some instructions that might fix it.](riiconnect24-troubleshooting)
 {: .notice--warning}
+
+[Continue to Everybody Votes Channel installation](riiconnect24-evc)<br>
+Everybody Votes Channel lets you vote at polls. With us, you can use it after the discontinuation of WiiConnect24. 
+{: .notice--info}
 
 [Continue to Wiimmfi](wiimmfi)<br>
 Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection.
