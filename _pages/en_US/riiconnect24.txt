@@ -159,7 +159,7 @@ If you get error 107245, then you failed to patch your IOS correctly.
 {: .notice--warning}
 
 [Continue to Everybody Votes Channel installation](riiconnect24-evc)<br>
-Everybody Votes Channel lets you vote at polls. With us, you can use it after the discontinuation of WiiConnect24.
+Everybody Votes Channel lets you vote on polls. With us, you can use it after the discontinuation of WiiConnect24.
 {: .notice--info}
 
 [Continue to Wiimmfi](wiimmfi)<br>
