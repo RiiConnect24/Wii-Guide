@@ -33,7 +33,7 @@ Esta lista es de las cosas que podrás hacer. Nuestra guía te ayudará a que co
 + Cargar juegos de GameCube desde una tarjeta SD o dispositivo USB con [Nintendont](https://gbatemp.net/threads/nintendont.349258/).
 + Hacer copias exactas de tus juegos de Wii/GameCube con [CleanRip](http://wiibrew.org/wiki/CleanRip).
 + Respaldar y restaurar una copia de la memoria de la consola Wii (NAND) con [BootMii](http://bootmii.org);
-+ Proteger tu Wii de bricks con [Priiloader](https://wii.guide/priiloader); [(Download)](/assets/files/Priiloader_v0_8_1.zip)
++ Proteger tu Wii de bricks con [Priiloader](https://wii.guide/priiloader); [(Descargar)](/assets/files/Priiloader_v0_8_1.zip)
 + Escuchar música, ver videos y fotos con [WiiMC](http://www.wiimc.org/), y ver videos de YouTube con una [versión especial](/assets/files/WiiMC.1.3.4.YT.zip);
 + Iniciar tus aplicaciones homebrew desde el Menú de Wii con un "forwarder";
 + Volver a participar en torneos de Mario Kart Wii con los [torneos de Wiimmfi](https://competitions.wiimmfi.de)
