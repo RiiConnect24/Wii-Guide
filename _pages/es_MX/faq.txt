@@ -1,0 +1,41 @@
+---
+title: "Preguntas Frecuentes"
+---
+
+![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
+
+{% capture notice-1 %}
+
+<a name="faq_latestfw" />**Q:** *Si estoy en la última versión. ¿Mi Wii es "hackeable"?*
+**A:** Sí
+
+<a name="faq_risky" />**Q:** *¿Qué tan riesgoso es hackear la Wii?*
+**A:** Los bricks son *básicamente* imposibles hoy en día a menos que ignores/saltes las revisiones de seguridad.
+
+<a name="faq_support" />**Q:** *¿Si necesito ayuda, dónde la consigo?*
+**A:** Para ayuda, envíanos un correo a support@riiconnect24.net (en Inglés). O si tienes cuenta de Discord, entra a nuestro servidor de [RiiConnect24 en Discord (también en inglés)](https://discord.gg/b4Y7jfD).
+
+<a name="faq_le4gbsd" />**Q:** *¿Puedo hacer los pasos con una tarjeta SD de 4GB (o menos)?*
+**A:** ¡Por supuesto!
+
+<a name="faq_ge128gbsd" />**Q:** *¿Puedo usar una SD mayor a 32GB?*
+**A:** Necesitarás una tarjeta SD de 32GB o menos para ejecutar el exploit de Letterbomb/Wiibrand, pero si tienes una tarjeta de mayor capacidad funcionará.
+
+<a name="faq_movesd" />**Q:** *Cuando termine, ¿cómo muevo todos los datos a una tarjeta SD nueva?*
+**A:** Sólo cópialos, tal cual, a la nueva tarjeta.
+
+<a name="faq_nopc" />**Q:** *¿Puedo realizar estos pasos sin un PC (por ejemplo, un teléfono Android)?*
+**A:** ¡Todo lo que necesitas es la posibilidad de usar tarjetas SD!
+
+<a name="faq_error" />**Q:** *Tengo un error XXXXXX, ¿Cómo lo arreglo?*
+**A:** Para ver qué error es, visita [la página de errores de Wiimmfi (en inglés)](https://wiimmfi.de/error).
+
+<a name="faq_console" />**Q:** *¿Puedo hacerlo en la Wii?*
+**A:** Parchear tu consola para usarse con RiiConnect24 funcionará en cualquier Wii, salvo la Wii Mini.
+
+<a name="faq_dolphin" />**Q:** *¿Puedo realizar estos pasos en el emulador Dolphin?*
+**A:** Desafortunadamente, Wii Mail, y los canales Tiempo y Noticias no funcionan en el emulador Dolphin.
+
+{% endcapture %}
+
+<div class="notice--info">{{ notice-1 | markdownify }}</div>
