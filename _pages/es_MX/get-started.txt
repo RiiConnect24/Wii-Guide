@@ -1,0 +1,28 @@
+---
+title: "Comenzar"
+---
+
+{% include toc title="Tabla de contenidos" %}
+
+Para modificar la Wii, [recomendamos usar ModMii (si tienes Windows)](https://sourceforge.net/projects/modmii/). Es una buena herramienta, y puedes obtener una guía generada con instrucciones.<br>
+[SetMiiUp](https://gbatemp.net/threads/setmiiup-from-stock-to-latest-softmod-in-less-then-5-10-minutes.459416/) también es una buena herramienta par que comiences.<br>
+Sin embargo, estas herramientas no dan instrucciones de cómo instalar RiiConnect24 o Wiimmfi, así que usa éstas páginas para aprender a instalarla.
+{: .notice--info}
+
+[¿Ya está modificada tu Wii? ¡Empieza a instalar RiiConnect24 aquí!](riiconnect24)
+{: .notice--info}
+
+
+Esta guía es para el Wii original. ¡No realices estos pasos en Wii U!
+{: .notice--warning}
+
+<table>
+  <tr>
+    <th>&lt; 4.2</th>
+    <th>Actualiza a la 4.3</th>
+  </tr>
+  <tr>
+    <td>4.3</td>
+    <td><a href="letterbomb">LetterBomb</a></td>
+  </tr>
+</table>
