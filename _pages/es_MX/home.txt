@@ -1,0 +1,39 @@
+---
+layout: splash
+title: "Guía de Wii (Wii-guide)" #
+header:
+  overlay_color: "#5e616c" #
+  overlay_image: /images/home-page-feature.jpg
+  overlay_filter: 0.5
+  cta_label: "Comenzar" #
+  cta_url: "get-started" #
+  caption:
+excerpt: "Una guía para comenzar a modificar tu Wii.<br />"
+---
+
+## ¿Qué es "homebrew"?
+
+[**Homebrew**](https://es.wikipedia.org/wiki/Homebrew) usualmente se refiere a programas no autorizados por Nintendo. Te permite ejecutar juegos homebrew, herramientas para guardar, editar y respaldar, y emuladores para consolas más antiguas.
+
+En la mayoría de los casos, ejecutar homebrew es 100% gratuito usando el exploit de LetterBomb o Wilbrand. También hay exploits en juegos comerciales para ejecutar homebrew.
+
+## ¿Qué puedo hacer con el homebrew?
+
+Esta lista es de las cosas que podrás hacer. Nuestra guía te ayudará a que comiences fácilmente (e instalar [RiiConnect24](riiconnect24) y [Wiimmfi](wiimmfi), pero tenemos enlaces asociados con las cosas en la lista para ayudarte a comenzar.
+
++ Uar aplicaciones homebrew;
++ Volver a jugar online con [Wiimmfi](https://wiimmfi.de), un servicio hecho por fans que reemplaza la mayoría de los servicios de la descontinuada Conexión Wi-Fi de Nintendo (también funciona con juegos DS);
++ La posibilidad de volver a usar el correo de Wii y los canales Tiempo y Noticias con [RiiConnect24](https://rc24.xyz) después de la descontinuación de WiiConnect24;
++ Cargar tus juegos de Wii desde un dispositivo USB con un USB loader (Cargador USB);
++ Jugar mods de juegos como los de New Super Mario Bros. Wii y Mario Kart Wii;
++ La posibilidad de usar trucos en juegos;
++ Cambiar el tema del menú de Wii;
++ Jugar juegos retro con emuladores hechos especialmente para el Wii - tres de ellos son [FCE Ultra GX para juegos de NES](https://github.com/dborth/fceugx/releases), [Snes9xGX para juegos de SNES](https://github.com/dborth/snes9xgx/releases), y [VBA GX para los juegos del Game Boy (Color/Advance)](https://github.com/dborth/vbagx/releases);
++ Respaldar tus datos de juegos y Miis con [SaveGame Manager GX](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download), también puedes restaurar los datos y Miis de otras personas;
++ Cargar juegos de GameCube desde una tarjeta SD o dispositivo USB con [Nintendont](https://gbatemp.net/threads/nintendont.349258/).
++ Hacer copias exactas de tus juegos de Wii/GameCube con [CleanRip](http://wiibrew.org/wiki/CleanRip).
++ Respaldar y restaurar una copia de la memoria de la consola Wii (NAND) con [BootMii](http://bootmii.org);
++ Proteger tu Wii de bricks con [Priiloader](https://wii.guide/priiloader); [(Download)](/assets/files/Priiloader_v0_8_1.zip)
++ Escuchar música, ver videos y fotos con [WiiMC](http://www.wiimc.org/), y ver videos de YouTube con una [versión especial](/assets/files/WiiMC.1.3.4.YT.zip);
++ Iniciar tus aplicaciones homebrew desde el Menú de Wii con un "forwarder";
++ Volver a participar en torneos de Mario Kart Wii con los [torneos de Wiimmfi](https://competitions.wiimmfi.de)
