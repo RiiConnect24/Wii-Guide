@@ -6,10 +6,10 @@ title: "Priiloader"
 
 This tutorial will explain you how to install Priiloader.
 
-![RiiConnect24 Logo](/images/priiloader.jpg)
+![Priiloader](/images/priiloader.jpg)
 
 #### What you need
-* And SD Card with at least 128 MB of free space.
+* An SD Card with at least 128 MB of free space.
 * Internet access on your computer.
 * [Priiloader](/assets/files/Priiloader_v0_8_2.zip)
 
