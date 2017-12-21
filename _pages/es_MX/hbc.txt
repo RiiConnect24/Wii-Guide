@@ -1,0 +1,30 @@
+---
+title: "Instalación del Canal Homebrew (Homebrew Channel)"
+---
+
+{% include toc title="Tabla de contenidos" %}
+
+![HBC Logo](/images/hbc.png)
+
+#### Instrucciones
+
+1. Verás una página de fraudes: Espera 30 segundos hasta que el texto "Press 1 to continue" (Presiona 1 para continuar) aparezca, luego presiona 1.
+![Scam Screen](/images/Wii/ScamScreen.png)
+
+1. En el Instalador de HackMii, podrás instalar el Homebrew Channel, y/o BootMii.
+![Results](/images/Wii/Results.png)
+
+1. Presiona Continue (Continuar), luego selecciona "Install the Homebrew Channel" (Instalar el Homebrew Channel), y presiona "install" (instalar).
+![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
+
+1. Presiona Continue (Continuar) al finalizar.
+![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
+
+1. Una vez instalado, presiona "back" (regresar) y luego a BootMii. Si en la pantalla principal menciona que puedes instalarlo como boot2, instálalo como boot2, cualquiera vale, IOS o boot2 puede salvarte de un pelín.<br>
+![BootMii Installation](/images/Wii/InstallBootMii.jpg)
+
+1. Una vez terminado, sal del instalador.
+
+[Continuar a la instalación de Priiloader](priiloader)<br>
+Priiloader es un buen anti-brick y realmente lo recomendamos
+{: .notice--info}
