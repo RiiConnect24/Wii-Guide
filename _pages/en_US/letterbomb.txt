@@ -13,7 +13,7 @@ title: "LetterBomb"
 #### Instructions
 
 1. Go to `Wii Settings` -> `Internet` -> `Console Information` and note your MAC address
-1. Go to [https://please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure `Bundle the HackMii Installer for me!` is checked*, and click either "Cut the red wire" or "Cut the blue wire".
+1. Go to [https://please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure `Bundle the HackMii Installer for me!` is checked*, and click either "Cut the red wire" or "Cut the blue wire"; it doesn't matter which one.
 ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
 1. Extract the contents of the downloaded ZIP to your SD card.
 1. On your Wii, return to the Wii Menu and then open the Message Board.
