@@ -1,0 +1,20 @@
+---
+title: "Flashhax"
+---
+
+{% include toc title="Table of Contents" %}
+
+#### What you need
+* A Wii on system version 4.3
+* An internet connection
+
+#### Instructions
+
+1. Open up the Internet Channel on your Wii. If you don't have it, download it from the Wii Shop Channel.
+1. Go to flashhax.com in the browser and bookmark the page.
+1. Open the site from the bookmark. It'll then proceed to download and load the HackMii Installer. It may take some time as it is downloading the installer over the internet.
+
+If the HackMii Installer doesn't load and it instead freezes (you can't move your cursor), please repeat step 3 until it works. 
+
+[Continue to Homebrew Channel Installation](hbc)
+{: .notice--info}
