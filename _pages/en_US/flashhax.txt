@@ -4,6 +4,8 @@ title: "Flashhax"
 
 {% include toc title="Table of Contents" %}
 
+![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+
 #### What you need
 * A Wii on system version 4.3
 * An internet connection
