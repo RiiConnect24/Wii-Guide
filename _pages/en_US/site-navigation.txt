@@ -28,6 +28,7 @@ sitemap: false
 + [Priiloader](priiloader)
 + [cIOS](cios)
 + [LetterBomb](letterbomb)
++ [Flashhax](flashhax)
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
