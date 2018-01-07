@@ -23,6 +23,9 @@ This guide is for the original Wii only. Do not use this on a Wii U!
   </tr>
   <tr>
     <td>4.3</td>
-    <td><a href="letterbomb">LetterBomb</a></td>
+    <td>
+	  <a href="letterbomb">LetterBomb</a><br>
+	  <a href="flashhax">Flashhax</a>
+	</td>
   </tr>
 </table>
