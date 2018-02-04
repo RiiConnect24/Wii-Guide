@@ -30,7 +30,7 @@ These instructions will assume you're using an SD card to install RiiConnect24, 
 * Windows, Linux or Mac computer
 
 Hold on! Are you on Windows? You can download IOS Patcher directly. Open cmd.exe and paste this:
-`powershell -command "(new-object System.Net.WebClient).DownloadFile('https://kcrpl.github.io/Patchers_Auto_Update/IOS_Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat` and hit enter. (You need to be on Windows 7 on newer.)
+`powershell -command "(new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/KcrPL/KcrPL.github.io/master/Patchers_Auto_Update/IOS_Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat` and hit enter. (You need to be on Windows 7 on newer.)
 It didn't work? No worries, you can use the link down below to download IOS Patcher
 {: .notice--info}
 
