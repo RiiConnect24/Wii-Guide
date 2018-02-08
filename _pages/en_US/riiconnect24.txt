@@ -57,7 +57,7 @@ It didn't work? No worries, you can use the link down below to download IOS Patc
 
 You will now patch your IOS, `IOS31` and `IOS80`. This is required to use the Channels we support to change an RSA key used to sign the files, and contains some patches for Wii Mail. You also will download a patched version of the Everybody Votes Channel.
 
-1. Open the IOS Patcher .zip and run `patch.bat` if on Windows, or `patch.command` on Linux or MacOS. (If you downloaded it using cmd.exe, skip this part)
+1. Open the IOS Patcher .zip and run `patch.bat` if on Windows, or `patch.sh` on Linux or MacOS. (If you downloaded it using cmd.exe, skip this part)
 1. Follow the instructions it gives you. Upon it finishing, copy the `WAD` folder to your SD Card.
 1. You will now get the Everybody Votes Channel. It needs to be installed **even if you already have the Everybody Votes Channel on your Wii, because you will need a patched WAD you reinstall with**.
 1. Go to the 1st Google result (the one with "We Hack Wii" in its title) that shows up when you clicked the link for the Everybody Votes Channel in the "What you need" section.
