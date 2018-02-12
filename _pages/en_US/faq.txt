@@ -19,7 +19,7 @@ title: "FAQ"
 **A:** Yes!
 
 <a name="faq_ge128gbsd" />**Q:** *Can I use a SD card larger than 32GB?*
-**A:** You will need an SD card 32GB or lower to do the LetterBomb/Wilbrand exploit, but an SD card larger than 32GB should be fine.
+**A:** You will need an SD card 32GB or lower to do the LetterBomb/Wilbrand exploit (unless you are using FlashHax), but an SD card larger than 32GB should be fine.
 
 <a name="faq_movesd" />**Q:** *How do I move to a new SD card at the end of this?*
 **A:** Just copy all the files to the new SD card.
