@@ -24,7 +24,7 @@ This tutorial is only for Windows version of IOS Patcher.
 [If you are on Windows XP, skip the "Downloading" section and download it from GitHub.](https://github.com/RiiConnect24/IOS-Patcher/releases)
 {: .notice--info}
 
-If you are on Windows 7 or newer open cmd.exe (Run or press Windows Logo+R and type in cmd.exe) and type in `powershell -command "(new-object System.Net.WebClient).DownloadFile('https://kcrpl.github.io/Patchers_Auto_Update/IOS_Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat`
+If you are on Windows 7 or newer open cmd.exe (Run or press Windows Logo+R and type in cmd.exe) and type in `powershell -command "(new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/KcrPL/KcrPL.github.io/master/Patchers_Auto_Update/IOS_Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat`
 {: .notice--info}
 
 Give it a few seconds because Powershell have to startup. After few seconds a new windows should open.
@@ -38,8 +38,8 @@ After it will finish downloading a folder called `IOS-Patcher` should appear on 
 ![Main menu](/images/IOS-Patcher/iospatcher_mainscreen.jpg)
 (Main menu of IOS Patcher)
 
-Press any button. If the update will be available, you must update the IOS Patcher to continue.
->The update process takes about 10 to 15 seconds.
+Press any button. If the update will be available, IOS Patcher will ask you to update itself.
+>The update process takes about 10 to 15 seconds - depends on your connection and computer speed.
 
 ![IOS Patcher 1st screen](/images/IOS-Patcher/iospatcher_1.jpg)
 On this screen, choose your system.
