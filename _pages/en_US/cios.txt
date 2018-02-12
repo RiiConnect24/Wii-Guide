@@ -4,12 +4,14 @@ title: "cIOS"
 
 {% include toc title="Table of Contents" %}
 
+This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
+
 ![cIOS Logo](/images/cIOS.png)
 
 #### What you need
 * A Wii with an outbound Internet connection
 * An SD card with at least 128 MB of free space
-* [cIOS Installer](https://sites.google.com/site/completesg/backup-launchers/installation/d2x-cIOS-Installer-Wii.zip?attredirects=0&d=1)
+* [d2x cIOS Installer](https://sites.google.com/site/completesg/backup-launchers/installation/d2x-cIOS-Installer-Wii.zip?attredirects=0&d=1)
 
 #### Instructions
 
@@ -42,5 +44,5 @@ Select cIOS version: 65535
 1. Run it again, then exit once done.
 
 [Continue to RiiConnect24](riiconnect24)
-RiiConnect24 will let you use Wii Mail, and the News and Forecast Channel again.
+RiiConnect24 will let you use Wii Mail, and other Channels again.
 {: .notice--info}
