@@ -6,6 +6,8 @@ title: "Homebrew Channel Installation"
 
 ![HBC Logo](/images/hbc.png)
 
+The Homebrew Channel is where you will go to launch homebrew.
+
 #### Instructions
 
 1. You will see a scam warning screen: Wait 30 seconds for the text "Press 1 to continue" to appear, then press 1.
@@ -20,11 +22,13 @@ title: "Homebrew Channel Installation"
 1. Press Continue when finished.
 ![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
 
-1. Once installed, press back and go to BootMii. If the main screen says you can install as boot2, install as boot2, otherwise IOS - boot2 can save your bacon.<br>
+1. Once installed, press back and go to BootMii.
+1. If the main screen says you can install as boot2, do so.
+1. If it does not say you can install as boot2, install as IOS.
 ![BootMii Installation](/images/Wii/InstallBootMii.jpg)
 
 1. Once done, exit.
 
 [Continue to Priiloader Installation](priiloader)<br>
-Priiloader is a good brick protection and we really recommend it.
+Priiloader adds a level of brick protection. and we recommend it.
 {: .notice--info}

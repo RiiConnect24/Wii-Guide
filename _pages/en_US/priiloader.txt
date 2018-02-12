@@ -4,7 +4,7 @@ title: "Priiloader"
 
 {% include toc title="Table of Contents" %}
 
-This tutorial will explain you how to install Priiloader.
+Priiloader adds a level of brick protection to your Wii. It loads before the Wii Menu does (hence the name). The tool can also enable hacks for your Wii Menu, and be used to quickly launch the Homebrew Channel, BootMii, or whatever homebrew you want!
 
 ![Priiloader](/images/priiloader.jpg)
 
@@ -22,29 +22,27 @@ This tutorial will explain you how to install Priiloader.
 1. After it will be done, plug your SD Card to your Wii.
 
 ##### Section II - Installing
-1. Launch the Homebrew Channel on your Wii
-1. Find Priiloader
+1. Launch the Homebrew Channel on your Wii.
+1. Launch Priiloader.
 ![Find Priiloader](/images/Priiloader/1.jpg)
-1. Launch Priiloader
-1. Press "+" on Wii Remote or "A" on GameCube controller.
+1. Press the + Button on Wii Remote or the A Button on a GameCube controller.
 ![Install Priiloader](/images/Priiloader/2.jpg)
 ![Installing](/images/Priiloader/3.jpg)
 
 ##### Section III - Entering/Configuring Priiloader
-1. Turn off your Wii.
-1. Turn on your Wii **and than hold RESET button**
+1. When turning on your Wii **and than hold RESET button**
 ![Turn on](/images/Priiloader/5.jpg)
 ![Hold RESET](/images/Priiloader/4.jpg)
 
-1. Now you should see Priiloader menu.
+1. Now you should see the Priiloader menu.
 ![Menu](/images/Priiloader/6.jpg)
 1. Go to `System Menu Hacks`
-1. Turn on the `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`.
+1. We recommend you turn on these hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`.
 ![System Menu Hacks](/images/Priiloader/7.jpg)
 
 ## System Menu Hacks List
 
-This describes all the System Menu hacks you can enable with Priiloader.
+These are all the hacks you can enable with Priiloader.
 
 |                  Hack                   |                                                                 Description                                                      |
 |-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|

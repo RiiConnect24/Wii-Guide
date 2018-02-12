@@ -6,6 +6,8 @@ title: "LetterBomb"
 
 ![LetterBomb](/images/letterbomb.png)
 
+LetterBomb is an exploit for the Wii that is triggered by using the Wii Message Board.
+
 #### What you need
 * A Wii on system version 4.3
 * An SD card with at least 128 MB of free space
