@@ -9,23 +9,15 @@ For modding the Wii, [we recommend using ModMii (if you have Windows)](https://s
 However, these tools do not give instructions on how to install RiiConnect24 or Wiimmfi, so use the pages here to learn how to install it.
 {: .notice--info}
 
-[Is your Wii already modded? Click here to start installing RiiConnect24](riiconnect24)
-{: .notice--info}
-
-
-This guide is for the original Wii only. Do not use this on a Wii U!
+This guide is for the original Wii only, assuming you're using the latest firmware on your Wii. Do not use this on vWii (Wii Mode on a Wii U)!
+If you want to install homebrew on a Wii U, [follow this tutorial](https://wiiu.hacks.guide/vwii-modding).
 {: .notice--warning}
 
 <table>
   <tr>
-    <th>&lt; 4.2</th>
-    <th>Update to 4.3</th>
-  </tr>
-  <tr>
-    <td>4.3</td>
     <td>
 	  <a href="letterbomb">LetterBomb</a><br>
-	  <a href="flashhax">Flashhax</a>
-	</td>
+	  <a href="flashhax">FlashHax</a>
+	  </td>
   </tr>
 </table>

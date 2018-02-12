@@ -27,13 +27,13 @@ This tutorial is only for Windows version of IOS Patcher.
 If you are on Windows 7 or newer open cmd.exe (Run or press Windows Logo+R and type in cmd.exe) and type in `powershell -command "(new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/KcrPL/KcrPL.github.io/master/Patchers_Auto_Update/IOS_Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat`
 {: .notice--info}
 
-Give it a few seconds because Powershell have to startup. After few seconds a new windows should open.
+Give it a few seconds because Powershell have to startup. After few seconds a new window should open.
 ![Net Installer](/images/IOS-Patcher/netinstall.jpg)
 
 Press any button and wait...
 ![Net Installer Downloading](/images/IOS-Patcher/netinstall_downloading.jpg)
 
-After it will finish downloading a folder called `IOS-Patcher` should appear on your Desktop. Open it and open file called `patch.bat`
+After it will finish downloading a folder called `IOS-Patcher` should appear on your Desktop. Open it and open a file called `patch.bat`
 
 ![Main menu](/images/IOS-Patcher/iospatcher_mainscreen.jpg)
 (Main menu of IOS Patcher)
@@ -52,7 +52,7 @@ The only valid option is "Wii"
 After that, press any button and let the download start.
 ![IOS Patcher 2nd screen](/images/IOS-Patcher/iospatcher_2.jpg)
 
-When the download and patching will be finished you will be asked to copy the patched WAD files to your Wii SD Card. If you want to do it automatically, put in your SD Card right now and press "1". If you want to do that manually, press "2". Or if you just want to copy the files to desktop, press "3".
+When the download and patching will be finished, you will be asked to copy the patched WAD files to your SD Card. If you want to do it automatically, put in your SD Card right now and press "1". If you want to do that manually, press "2". Or if you just want to copy the files to desktop, press "3".
 
 ![IOS Patcher 3rd screen](/images/IOS-Patcher/iospatcher_3.jpg)
 
