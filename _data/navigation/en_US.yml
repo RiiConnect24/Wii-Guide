@@ -10,6 +10,9 @@ main:
     title: Donations
     url: donations
   -
+    title: Credits
+    url: credits
+  -
     title: RiiConnect24
     url: riiconnect24
   -
