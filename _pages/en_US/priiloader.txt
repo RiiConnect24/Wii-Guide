@@ -29,7 +29,7 @@ Priiloader adds a level of brick protection to your Wii. It loads before the Wii
 ![Installing](/images/Priiloader/3.jpg)
 
 ##### Section III - Entering/Configuring Priiloader
-1. When turning on your Wii **and than hold RESET button**
+1. When turning on your Wii, **hold the RESET button**.
 ![Turn on](/images/Priiloader/5.jpg)
 ![Hold RESET](/images/Priiloader/4.jpg)
 
