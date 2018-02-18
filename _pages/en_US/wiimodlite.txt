@@ -54,3 +54,4 @@ This tutorial will explain you how to install Wii Mod Lite and IOS on your Wii.
 ![Complete](/images/WiiModLite/7.png)
 
 [Return to RiiConnect24 installation page](riiconnect24)
+{: .notice--info}
