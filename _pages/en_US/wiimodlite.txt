@@ -49,7 +49,7 @@ This tutorial will explain you how to install Wii Mod Lite and IOS on your Wii.
 ![Install](/images/WiiModLite/5.png)
 ![Install](/images/WiiModLite/6.png)
 
-After it will finish installing, that's it!
+1. After it finishes installing, you can move on to the next steps!
 
 ![Complete](/images/WiiModLite/7.png)
 
