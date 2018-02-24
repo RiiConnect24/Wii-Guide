@@ -21,9 +21,6 @@ title: "FAQ"
 <a name="faq_ge128gbsd" />**Q:** *Can I use a SD card larger than 32GB?*
 **A:** You will need an SD card 32GB or lower to do the LetterBomb/Wilbrand exploit (unless you are using FlashHax), but an SD card larger than 32GB should be fine.
 
-<a name="faq_movesd" />**Q:** *How do I move to a new SD card at the end of this?*
-**A:** Just copy all the files to the new SD card.
-
 <a name="faq_nopc" />**Q:** *Can I do this without a computer (e.g. an Android phone)?*
 **A:** All you need is the ability to put files on an SD card!
 
@@ -34,7 +31,7 @@ title: "FAQ"
 **A:** Patching your Wii for RiiConnect24 will work on every Wii, except Wii Mini.
 
 <a name="faq_dolphin" />**Q:** *Can I install RiiConnect24 on Dolphin?*
-**A:** Unfortunately, Wii Mail, Forecast and News Channel doesn't work on Dolphin emulator.
+**A:** Unfortunately, RiiConnect24 doesn't work on Dolphin due to lack of code to emulate WiiConnect24. We know people are interested in it working on Dolphin, so it might work in the future!
 
 {% endcapture %}
 
