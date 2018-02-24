@@ -27,8 +27,8 @@ title: "FAQ"
 <a name="faq_error" />**Q:** *I got error XXXXXX, how to fix it??*
 **A:** In order to check what error that is, please visit [Wiimmfi error page](https://wiimmfi.de/error).
 
-<a name="faq_console" />**Q:** *Can I do it on my Wii?*
-**A:** Patching your Wii for RiiConnect24 will work on every Wii, except Wii Mini.
+<a name="faq_wiimini" />**Q:** *Can I mod my Wii Mini?*
+**A:** You cannot mod a Wii Mini due to it having no SD card slot and because it's lacking some other things.
 
 <a name="faq_dolphin" />**Q:** *Can I install RiiConnect24 on Dolphin?*
 **A:** Unfortunately, RiiConnect24 doesn't work on Dolphin due to lack of code to emulate WiiConnect24. We know people are interested in it working on Dolphin, so it might work in the future!
