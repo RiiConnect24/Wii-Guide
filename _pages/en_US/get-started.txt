@@ -4,7 +4,7 @@ title: "Get Started"
 
 {% include toc title="Table of Contents" %}
 
-For installing the Homebrew Channel, [we recommend using ModMii (if you have Windows)](https://sourceforge.net/projects/modmii/). It's a good tool, and you can get a guide generated with instructions.<br>
+For installing the Homebrew Channel, [we recommend using ModMii](https://sourceforge.net/projects/modmii/). It's a good tool, and you can get a guide generated with instructions.<br>
 [SetMiiUp](https://gbatemp.net/threads/setmiiup-from-stock-to-latest-softmod-in-less-then-5-10-minutes.459416/) is also a good tool to get you started.<br>
 These tools require a PC running Windows.<br>
 However, these tools do not give instructions on how to install RiiConnect24 or Wiimmfi, so use the guide here to install those.
@@ -17,4 +17,4 @@ If you want to install homebrew on a Wii U, [follow this tutorial](https://wiiu.
 ### Choose your exploit
 
 [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board
-[FlashHax](flashhax) - Exploit that uses the Internet Channel
+[FlashHax](flashhax) - Exploit that uses the Internet ChannelF
