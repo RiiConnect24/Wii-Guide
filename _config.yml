@@ -58,9 +58,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "RiiConnect24"
 facebook:
-  username               :
+  username               : "RiiConnect24"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -83,8 +83,8 @@ author:
   name             : "RiiConnect24"
   avatar           : "bio-photo.png"
   bio              : "WiiConnect24 replacement"
-  location         :
-  email            :
+  location         : "United States"
+  email            : "support@riiconnect24.net"
   uri              : "https://rc24.xyz"
   bitbucket        :
   codepen          :

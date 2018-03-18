@@ -4,20 +4,17 @@ title: "Get Started"
 
 {% include toc title="Table of Contents" %}
 
-For modding the Wii, [we recommend using ModMii (if you have Windows)](https://sourceforge.net/projects/modmii/). It's a good tool, and you can get a guide generated with instructions.<br>
+For installing the Homebrew Channel, [we recommend using ModMii](https://sourceforge.net/projects/modmii/). It's a good tool, and you can get a guide generated with instructions.<br>
 [SetMiiUp](https://gbatemp.net/threads/setmiiup-from-stock-to-latest-softmod-in-less-then-5-10-minutes.459416/) is also a good tool to get you started.<br>
-However, these tools do not give instructions on how to install RiiConnect24 or Wiimmfi, so use the pages here to learn how to install it.
+These tools require a PC running Windows.<br>
+However, these tools do not give instructions on how to install RiiConnect24 or Wiimmfi, so use the guide here to install those.
 {: .notice--info}
 
-This guide is for the original Wii only, assuming you're using the latest firmware on your Wii. Do not use this on vWii (Wii Mode on a Wii U)!
-If you want to install homebrew on a Wii U, [follow this tutorial](https://wiiu.hacks.guide/vwii-modding).
+This guide is for the original Wii only, assuming you're using the latest firmware. Do not use this on vWii (Wii Mode on a Wii U)!
+If you want to install homebrew on vWii, [follow this tutorial](https://wiiu.hacks.guide/vwii-modding).
 {: .notice--warning}
 
-<table>
-  <tr>
-    <td>
-	  <a href="letterbomb">LetterBomb</a><br>
-	  <a href="flashhax">FlashHax</a>
-	  </td>
-  </tr>
-</table>
+### Choose your exploit
+
+[LetterBomb](letterbomb) - Exploit that uses the Wii Message Board
+[FlashHax](flashhax) - Exploit that uses the Internet ChannelF

@@ -15,6 +15,13 @@ This tutorial will tell you how to install cIOS (custom IOS). This is required i
 
 #### Instructions
 
+##### Section I - Downloading
+
+1. Download d2x cIOS Installer from the link above, and extract it to your SD card.
+1. Put your SD Card in your Wii.
+
+##### Section II - Installing
+
 1. Load the d2x cIOS installer: ![d2x cIOS Logo](https://sites.google.com/site/completesg/_/rsrc/1441626125476/backup-launchers/installation/icon.png)
 1. Press continue, then set it to the following:
 ```
