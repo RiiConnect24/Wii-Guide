@@ -412,5 +412,46 @@ de-LI:
 de-LU:
   <<: *DEFAULT_DE
 
+# Dutch / Nederlands
+# -----------------
+nl: &DEFAULT_NL
+  page                       : "Pagina"
+  pagination_previous        : "Vorige"
+  pagination_next            : "Volgende"
+  breadcrumb_home_label      : "Home"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Toggle Menu"
+  toc_label                  : "Op Deze Pagina"
+  ext_link_label             : "Directe Link"
+  less_than                  : "minder dan"
+  minute_read                : "minuten lezen"
+  share_on_label             : "Deel op"
+  meta_label                 :
+  tags_label                 : "Tags:"
+  categories_label           : "Categorieën:"
+  date_label                 : "Geüpdate:"
+  comments_label             : "Laat een reactie achter:"
+  comments_title             : "Reacties"
+  more_label                 : "Kom Meer Te Weten"
+  related_label              : "Ook Interessant Voor Jou"
+  follow_label               : "Volg:"
+  feed_label                 : "Feed"
+  powered_by                 : "Aangedreven door"
+  website_label              : "Website"
+  email_label                : "E-mail"
+  recent_posts               : "Recente Berichten"
+  undefined_wpm              : "Parameter words_per_minute in _config.yml niet gedefinieerd"
+  comment_form_info          : "Je e-mailadres zal niet openbaar gemaakt worden. Vereiste velden zijn gemarkeerd"
+  comment_form_comment_label : "Commentaar"
+  comment_form_md_info       : "Markdown wordt ondersteund."
+  comment_form_name_label    : "Naam"
+  comment_form_email_label   : "E-mailadres"
+  comment_form_website_label : "Website (optioneel)"
+  comment_btn_submit         : "Verstuur Commentaar"
+  comment_btn_submitted      : "Verstuurd"
+  comment_success_msg        : "Bedankt voor je commentaar! Nadat het goedgekeurd is, zal het op deze site weergeven worden."
+  comment_error_msg          : "Helaas, er is een probleem opgetreden met het versturen van je commentaar. Zorg dat alle vereiste velden ingevuld zijn en probeer opnieuw."
+  loading_label              : "Laden..."
+  
 # Another locale
 # --------------
