@@ -36,7 +36,6 @@ sitemap: false
 + [How to dump Channels (WADs)](dump-wads)
 + [Installing RSSMii](rssmii)
 + [Removing RSSMii](rssmii-remove)
-+ [How to download homebrew using Homebrew Browser](homebrewbrowser)
 + [Performing a SysCheck](syscheck)
 
 **Site**
