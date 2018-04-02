@@ -12,14 +12,13 @@ A SysCheck lists all the IOS and cIOS that are on your Wii, along with some info
 
 #### Instructions
 
-##### Section I - Downloading
+##### Section I - Downloading/Installing
 
-1. Download SysCheck HacksDen Edition from the link above, and extract it to the "apps" folder on your SD card.
-1. Put your SD Card in your Wii.
+1. Extract SysCheck HacksDen Edition and put it in the `apps` folder on your SD Card.
+1. Insert your SD Card into your Wii, and launch SysCheck HacksDen Edition from the Homebrew Channel.
 
-##### Section II - Running
-1. Launch the Homebrew Channel on your Wii.
-1. Launch SysCheck HacksDen Edition.
+##### Section II - Performing a SysCheck
+
 1. Wait for the program to get some information about your Wii.
 1. When "This IOS will be tested (Please select)" is shown on the screen, press A.
 ![Choose IOS](/images/SysCheck/1.PNG)

@@ -7,14 +7,14 @@ title: "Get Started"
 For installing the Homebrew Channel, [we recommend using ModMii](https://sourceforge.net/projects/modmii/). It's a good tool, and you can get a guide generated with instructions.<br>
 [SetMiiUp](https://gbatemp.net/threads/setmiiup-from-stock-to-latest-softmod-in-less-then-5-10-minutes.459416/) is also a good tool to get you started.<br>
 These tools require a PC running Windows.<br>
-However, these tools do not give instructions on how to install RiiConnect24 or Wiimmfi, so use the guide here to install those.
+However, these tools do not give instructions on how to install RiiConnect24 or Wiimmfi, so use the guide here to install those if you want to.
 {: .notice--info}
 
-This guide is for the original Wii only, assuming you're using the latest firmware. Do not use this on vWii (Wii Mode on a Wii U)!
+This guide is for the original Wii only, assuming you're using the latest firmware (4.3). Do not use this on vWii (Wii Mode on a Wii U)!
 If you want to install homebrew on vWii, [follow this tutorial](https://wiiu.hacks.guide/vwii-modding).
 {: .notice--warning}
 
 ### Choose your exploit
 
-[LetterBomb](letterbomb) - Exploit that uses the Wii Message Board
-[FlashHax](flashhax) - Exploit that uses the Internet ChannelF
+- [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board
+- [FlashHax](flashhax) - Exploit that uses the Internet Channel

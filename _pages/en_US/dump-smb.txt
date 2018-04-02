@@ -4,7 +4,7 @@ title: "Dumping a game using WiFi/Ethernet"
 
 {% include toc title="Table of Contents" %}
 
-Do you want to dump games through your local network? Follow this tutorial!
+Do you want to dump games through your local network? Follow this tutorial! This can be useful if you don't have an SD Card or a USB that is large enough to dump a game to.
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
@@ -17,6 +17,13 @@ Your Wii and your computer must be connected to one local network
 {: .notice--warning}
 
 #### Instructions
+
+##### Section I - Downloading/Installing
+
+1. Extract DVD Dump Tool and put it in the `apps` folder on your SD Card.
+1. Insert your SD Card into your Wii, and launch DVD Dump Tool from the Homebrew Channel.
+
+##### Section II - Ripping
 
 1. Download the app. (Click on the link above)
 1. Install it on the SD Card.
@@ -34,8 +41,8 @@ Your Wii and your computer must be connected to one local network
 ![5](/images/DumpDiscs_LAN/5.jpg)
 1. On your computer in your web browser, type in the Wii URL and hit ENTER.
 ![6](/images/DumpDiscs_LAN/6.jpg)
-1. You should see that. Click on `Click here to download XXXX.iso`
+1. You should see this. Click on `Click here to download XXXX.iso`
 ![7](/images/DumpDiscs_LAN/7.jpg)
-1. The download speed is not the fastest, but if you can't use anything else, it's better than nothing.
+1. The transfer speed is not the fastest, but if you can't use anything else, it's better than nothing.
 
 ![8](/images/DumpDiscs_LAN/8.PNG)

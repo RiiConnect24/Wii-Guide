@@ -15,12 +15,12 @@ Priiloader adds a level of brick protection to your Wii. It loads before the Wii
 
 #### Instructions
 
-##### Section I - Downloading
+##### Section I - Downloading/Installing
 
-1. Download Priiloader from the link above, and extract it to your SD card.
-1. Put your SD Card in your Wii.
+1. Extract Priiloader and put it in the `apps` folder on your SD Card.
+1. Insert your SD Card into your Wii, and launch Priiloader from the Homebrew Channel.
 
-##### Section II - Installing
+##### Section II - Installing Priiloader
 
 1. Launch the Homebrew Channel on your Wii.
 1. Launch Priiloader.

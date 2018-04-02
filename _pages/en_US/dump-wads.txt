@@ -11,12 +11,12 @@ This tutorial will explain you how to dump WADs from your Wii System Memory.
 #### What you need
 * And SD Card with at least 128 MB of free space.
 * Internet access on your computer.
+* [Yet Another BlueDump MOD](/assets/files/YABDM.zip)
 
 ##### Section I - Downloading/Installing
-1. [Download the latest version of YABDM](/assets/files/YABDM.zip)
-1. Open the .zip file that you downloaded and copy the content of it to SD Card.
 
-1. When it's done, put it back to Wii.
+1. Extract Yet Another BlueDump MOD and put it in the `apps` folder on your SD Card.
+1. Insert your SD Card into your Wii, and launch Yet Another BlueDump MOD from the Homebrew Channel.
 
 ##### Section II - Dumping
 1. Launch the Homebrew Channel on your Wii.
