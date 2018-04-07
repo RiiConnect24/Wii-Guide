@@ -13,28 +13,27 @@ excerpt: "A guide to get you started with modding your Wii.<br />"
 
 ## What is "homebrew"?
 
-[**Homebrew**](https://en.wikipedia.org/wiki/List_of_homebrew_video_games) usually refers to software that is not authorized by Nintendo. It allows you to run homebrew games, tools like save editing and backup, and emulators for various older systems.
+[**Homebrew**](https://en.wikipedia.org/wiki/List_of_homebrew_video_games) refers to unofficial software for your Wii. It allows you to run homebrew games and programs, including emulators and tools, as well as using homebrew services.
 
-In most cases, running homebrew on your device is 100% free using the LetterBomb or Wilbrand exploit. There are also various other exploits in commercial games to get homebrew running.
+In most cases, running homebrew on your device is 100% free using the LetterBomb or FlashHax exploit. There are also various other exploits in commercial games to get homebrew running.
 
 ## What can I do with homebrew?
 
-Here's a list of things you can do with it. Our guide is meant for you to easily get started (and install [RiiConnect24](riiconnect24) and [Wiimmfi](wiimmfi), but we have links associated with the things on the list to help you get started.
+Here's a list of things you can do with it. Our guide is meant for you to easily get started, but we have links associated with the things on the list to help you get started.
 
-+ Use homebrew apps;
-+ Play games online again with [Wiimmfi](https://wiimmfi.de), a fan-made service which replaces much of Nintendo's discontinued Nintendo Wi-Fi Connection service (it works with many DS games too);
++ Use homebrew apps
++ Play games online again with [Wiimmfi](https://wiimmfi.de), a fan-made service which replaces much of Nintendo's discontinued Nintendo Wi-Fi Connection service (it works with many DS games too)
 + Be able to use Wii Mail along with Forecast, News and the Everybody Votes Channel again with [RiiConnect24](https://rc24.xyz) after the discontinuation of WiiConnect24;
 + Load your Wii games from a USB hard drive using a USB loader;
 + Play mods of games such as New Super Mario Bros. Wii and Mario Kart Wii;
-+ Be able to use cheat codes in games;
 + Change the theme of your Wii Menu;
-+ Play retro games with emulators made specifically for the Wii - three good ones are [FCE Ultra GX for NES games](https://github.com/dborth/fceugx/releases), [Snes9xGX for SNES games](https://github.com/dborth/snes9xgx/releases), and [VBA GX for Game Boy (Color/Advance) games](https://github.com/dborth/vbagx/releases);
++ Play retro games with emulators made specifically for the Wii, such as [FCE Ultra GX for NES games](https://github.com/dborth/fceugx/releases), [Snes9x GX for SNES games](https://github.com/dborth/snes9xgx/releases), and [Not64 for Nintendo 64 games](https://github.com/Extrems/Not64/releases);
 + Backup your saves and Miis with [SaveGame Manager GX](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download), and restore other peoples' saves and Miis too;
 + Load GameCube games from a USB hard drive or SD card with [Nintendont](https://gbatemp.net/threads/nintendont.349258/).
-+ Make 1:1 backups of your Wii/GameCube games with [CleanRip](http://wiibrew.org/wiki/CleanRip).
-+ Backup and restore a copy of your Wii System Memory (NAND) with [BootMii](http://bootmii.org);
-+ Protect your Wii from bricks with [Priiloader](https://wii.guide/priiloader); [(Download)](/assets/files/Priiloader_v0_8_2.zip)
++ Make backups of your Wii/GameCube games with [CleanRip](http://wiibrew.org/wiki/CleanRip).
++ Backup and restore a copy of your Wii system memory (NAND) with [BootMii](http://bootmii.org);
++ Protect your Wii from bricks with [Priiloader](https://wii.guide/priiloader);
 + Listen to music, watch movies and view photos with [WiiMC](http://www.wiimc.org/), and watch YouTube videos with [a special version](/assets/files/WiiMC.1.3.4.YT.zip);
-+ Launch your favorite homebrew apps from your Wii Menu with a "forwarder";
++ Launch your favorite homebrew apps from your Wii Menu with "forwarders";
 + Participate in Mario Kart Wii competitions again using [Wiimmfi Competitions](https://competitions.wiimmfi.de)
-+ And so much more that can't be listed!
++ And more!
