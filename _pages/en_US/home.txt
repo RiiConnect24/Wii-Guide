@@ -27,7 +27,7 @@ Here's a list of things you can do with it. Our guide is meant for you to easily
 + Load your Wii games from a USB hard drive using a USB loader;
 + Play mods of games such as New Super Mario Bros. Wii and Mario Kart Wii;
 + Change the theme of your Wii Menu;
-+ Play retro games with emulators made specifically for the Wii, such as [FCE Ultra GX for NES games](https://github.com/dborth/fceugx/releases), [Snes9x GX for SNES games](https://github.com/dborth/snes9xgx/releases), and [Not64 for Nintendo 64 games](https://github.com/Extrems/Not64/releases);
++ Play retro games with emulators ported to Wii, such as [FCE Ultra GX for NES games](https://github.com/dborth/fceugx/releases), [Snes9x GX for SNES games](https://github.com/dborth/snes9xgx/releases), and [Not64 for Nintendo 64 games](https://github.com/Extrems/Not64/releases);
 + Backup your saves and Miis with [SaveGame Manager GX](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download), and restore other peoples' saves and Miis too;
 + Load GameCube games from a USB hard drive or SD card with [Nintendont](https://gbatemp.net/threads/nintendont.349258/).
 + Make backups of your Wii/GameCube games with [CleanRip](http://wiibrew.org/wiki/CleanRip).
