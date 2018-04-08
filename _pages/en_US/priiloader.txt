@@ -18,32 +18,32 @@ Priiloader adds a level of brick protection to your Wii. It loads before the Wii
 ##### Section I - Downloading/Installing
 
 1. Extract Priiloader and put it in the `apps` folder on your SD Card.
-1. Insert your SD Card into your Wii, and launch Priiloader from the Homebrew Channel.
+2. Insert your SD Card into your Wii, and launch Priiloader from the Homebrew Channel.
 
 ##### Section II - Installing Priiloader
 
 1. Launch the Homebrew Channel on your Wii.
-1. Launch Priiloader.
+2. Launch Priiloader.
 ![Find Priiloader](/images/Priiloader/1.jpg)
-1. Press the + Button on Wii Remote or the A Button on a GameCube controller.
+3. Press the + Button on Wii Remote or the A Button on a GameCube controller.
 ![Install Priiloader](/images/Priiloader/2.jpg)
 ![Installing](/images/Priiloader/3.jpg)
 
 ##### Section III - Entering/Configuring Priiloader
 
-1. When turning on your Wii, **hold the RESET button**.
+1. Hold the RESET button while turning on your Wii.
 ![Turn on](/images/Priiloader/5.jpg)
 ![Hold RESET](/images/Priiloader/4.jpg)
 
-1. Now you should see the Priiloader menu.
+2. You should see the Priiloader menu.
 ![Menu](/images/Priiloader/6.jpg)
-1. Go to `System Menu Hacks`
-1. We recommend you turn on these hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`.
+3. Go to `System Menu Hacks`.
+4. We recommend you turn on these hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`.
 ![System Menu Hacks](/images/Priiloader/7.jpg)
 
 ## System Menu Hacks List
 
-These are all the hacks you can enable with Priiloader.
+This is a list of the hacks you can enable with Priiloader.
 
 |                  Hack                   |                                                                 Description                                                      |
 |-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
