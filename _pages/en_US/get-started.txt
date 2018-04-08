@@ -10,6 +10,9 @@ These tools require a PC running Windows.<br>
 However, these tools do not give instructions on how to install RiiConnect24 or Wiimmfi, so use the guide here to install those if you want to (it's optional).
 {: .notice--info}
 
+These instructions will assume you're using an SD card to mod your Wii with, but you can use a USB storage device in place of an SD card if you want (LetterBomb requires an SD card though).
+{: .notice--info}
+
 This guide is for the original Wii only, with the latest firmware (4.3). Do not use this on a Wii U (vWii)!
 If you want to install homebrew on vWii, [follow this tutorial](https://wiiu.hacks.guide/vwii-modding).
 {: .notice--warning}

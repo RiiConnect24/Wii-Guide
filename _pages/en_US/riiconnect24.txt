@@ -13,10 +13,7 @@ As it stands, RiiConnect24 will not support the Wii U for the foreseeable future
 So far only the News, Forecast, and Everybody Votes channels work, but check [their stats page](https://rc24.xyz/stats/index.html) for further developments.
 {: .notice--warning}
 
-In order to install RiiConnect24 you must be on Wii Menu version 4.3, otherwise mail is less likely to work.
-{: .notice--info}
-
-These instructions will assume you're using an SD card to install RiiConnect24, but you can use a USB storage device in place of an SD card if you want.
+In order to install RiiConnect24 you must be on Wii Menu version 4.3, otherwise mail will not work.
 {: .notice--info}
 
 #### What you need
