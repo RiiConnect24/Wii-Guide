@@ -1,0 +1,162 @@
+---
+title: "RiiConnect24"
+---
+
+{% include toc title="Table of Contents" %}
+
+![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+
+Have you wanted to use the News or Forecast Channel, exchange mail between Wiis, even vote on polls, and miss WiiConnect24 after shutdown? [RiiConnect24](https://rc24.xyz/) allows you to replace the built-in WiiConnect24 system.
+
+As it stands, RiiConnect24 will not support the Wii U for the foreseeable future, so please do not install it on a Wii U yet.
+<br>
+So far only the News, Forecast, and Everybody Votes channels work, but check [their stats page](https://rc24.xyz/stats/index.html) for further developments.
+{: .notice--warning}
+
+In order to install RiiConnect24 you must be on Wii Menu version 4.3, otherwise mail is less likely to work.
+{: .notice--info}
+
+These instructions will assume you're using an SD card to install RiiConnect24, but you can use a USB storage device in place of an SD card if you want.
+{: .notice--info}
+
+#### What you need
+
+* A Wii with an Internet connection
+* An SD card with at least 128 MB of free space
+* A computer (any OS)
+
+Hold on! Are you on Windows? You can download IOS Patcher directly. Open cmd.exe and paste this:
+`powershell -command "(new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/KcrPL/KcrPL.github.io/master/Patchers_Auto_Update/IOS_Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat` and hit enter. (You need to be on Windows 7 on newer.)
+Didn't work? You can use the link down below to download IOS Patcher
+{: .notice--info}
+
+* [IOS Patcher](https://github.com/RiiConnect24/IOS-Patcher/releases)
+* [Link to Everybody Votes Channel (will explain in the guide)](http://bfy.tw/FM3k)
+* nwc24msg.cfg Patcher:
+  - [Windows](https://github.com/RiiConnect24/RiiConnect24-Mail-Patcher-Windows/releases)
+  - [Linux/Mac](https://github.com/Seriell/RC24-MailPatch-Portable/releases)
+* [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+* [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
+
+#### Instructions
+
+##### Section I - Patching IOS
+
+[Do you have any problems with installing RiiConnect24 or do you want to ask us something? Mail us at: support@riiconnect24.net!](mailto:support@riiconnect24.net)
+{: .notice--info}
+
+[If you want to see how to use IOS Patcher, click here!](iospatcher)
+{: .notice--info}
+
+[If you want to see detailed instructions on how to install patched IOS and the patched Everybody Votes Channel after you download it, click here!](wiimodlite)
+{: .notice--info}
+
+You will now patch your IOS, `IOS31` and `IOS80`. This is required to use the Channels we support to change an RSA key used to sign the files, and contains some patches for Wii Mail. You also will download a patched version of the Everybody Votes Channel.
+
+1. Open the IOS Patcher .zip and run `patch.bat` if on Windows, or `patch.sh` on Linux or MacOS. (If you downloaded it using cmd.exe, skip this step)
+1. Follow the instructions it gives you. Upon it finishing, copy the `WAD` folder to your SD Card.
+1. You should get the Everybody Votes Channel. It needs to be installed **even if you already have the Everybody Votes Channel on your Wii, because you will need a patched WAD you reinstall with**.
+1. Go to the 1st Google result (the one with "We Hack Wii" in its title) that shows up when you clicked the link for the Everybody Votes Channel in the "What you need" section.
+1. Look at the orange text in the header of the site saying "Can't find it here"? Click the link that says to go to a repo.
+1. You should see a folder with Channels in it. It might be overwhelming, but it has links to Channels that are hard to find. If you don't know what you're doing, **don't go crazy and install them, especially foreign Channels or ones you don't know what they do**.
+1. Go to the "Everybody Votes Channel" folder, then go to "Patched". Download the WAD corresponding to your Wii's region.
+1. Copy the Everybody Votes Channel WAD you downloaded to the WAD folder you put on our SD Card.
+1. Extract Wii Mod Lite and WiiXplorer, and then copy them to the `apps` folder on your SD Card. Make sure to copy WiiXplorer as its own folder, not the standalone files inside.
+1. Insert your SD card into your Wii, open the Homebrew Channel, and launch Wii Mod Lite.
+1. Using the +Control Pad on your Wii Remote, go to `WAD Manager`, and then navigate to the `WAD` folder.
+1. When `IOS31.wad` is highlighted, press +, and then do the same for `IOS80.wad` and the Everybody Votes Channel WAD.
+1. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted Everybody Votes Channel WAD, then try installing it again.
+1. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+
+##### Section II - Patching nwc24msg.cfg
+
+You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
+
+1. Launch WiiXplorer.
+1. Go to `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` and then select `Yes` for both dialogs that appear on the screen. *This is important, if you do not do this, you'll get an error saying "Error copying some item(s)" later.*
+![NAND Write Access 1](/images/RiiConnect24/WiiXplorer_1.png)
+![NAND Write Access 2](/images/RiiConnect24/WiiXplorer_2.png)
+![NAND Write Access 3](/images/RiiConnect24/WiiXplorer_3.png)
+1. Press `Go Back` until you have reached the file explorer screen.
+1. Select the tiny blue SD Card icon, then select `nand`.
+![Select NAND](/images/RiiConnect24/WiiXplorer_4.png)
+1. Navigate to `shared2` -> `wc24`, then hover over `nwc24msg.cfg` and press the + button and select `Copy`.
+![Copy 1](/images/RiiConnect24/WiiXplorer_5.png)
+![Copy 2](/images/RiiConnect24/WiiXplorer_6.png)
+1. Select the NAND icon (which used to be the SD Card icon), then select `SD`.
+1. In the file explorer pane, press the + button somewhere in the file listing and select `Paste`.
+1. Take your SD card out and insert it back into your computer.
+1. Extract the nwc24msg.cfg patcher.
+1. Put your nwc24msg.cfg in the same directory the patcher is in.
+1. For Windows, run `patch.bat`, and for macOS/Linux run `./mailparse` from a terminal in the same folder.
+1. If it ran correctly, the nwc24msg.cfg is now overwritten and patched. Copy it back to your SD card.
+1. Take your SD card out and insert it back into your Wii.
+1. In the file explorer pane, hover over `nwc24msg.cfg` and press the + button, then select `Copy`.
+1. Select the SD icon (which used to be the NAND icon), then select `NAND`.
+1. Navigate to `shared2` -> `wc24`, press the + button somewhere in the file listing and select `Paste`. Make sure to choose `Yes` when it asks you to overwrite the file.
+![Paste](/images/RiiConnect24/WiiXplorer_7.png)
+1. Exit to the `Wii Menu`
+![Wii Menu 1](/images/RiiConnect24/WiiXplorer_8.png)
+![Wii Menu 2](/images/RiiConnect24/WiiXplorer_9.png)
+
+If you were unable to patch your nwc24msg.cfg correctly, mail us at [support@riiconnect24.net](mailto:support@riiconnect24.net) - we will patch the `nwc24msg.cfg` file for you or join the [RiiConnect24 Discord server](https://discord.gg/b4Y7jfD), type in `!patch` when you get there and you will be sent instructions over DM.
+{: .notice--info}
+
+##### Section III - Connecting
+
+1. Goto `Wii Options`
+![Wii Options](/images/RiiConnect24/Internet_1.png)
+1. Go to `Wii Settings`
+![Wii Settings](/images/RiiConnect24/Internet_2.png)
+1. Go to `Page 2`, then click on `Internet`
+![Internet](/images/RiiConnect24/Internet_3.png)
+1. Go to `Connection Settings`
+![Connection Settings](/images/RiiConnect24/Internet_4.png)
+1. Select your current connection
+![Current Connection](/images/RiiConnect24/Internet_5.png)
+1. Go to`Change Settings`
+![Change Settings](/images/RiiConnect24/Internet_6.png)
+1. Go to `Auto-Obtain DNS`, then select `No`, then `Advanced Settings`
+![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
+1. Type in `164.132.44.106` as the primary DNS
+![Primary DNS](/images/RiiConnect24/Internet_8.png)
+1. Type in `8.8.8.8` as the secondary DNS
+![Secondary DNS](/images/RiiConnect24/Internet_9.png)
+1. Select `Confirm`, then select `Save`
+![Save DNS](/images/RiiConnect24/Internet_10.png)
+1. Select `OK` to perform a connection test
+![Connection Test](/images/RiiConnect24/Internet_11.png)
+1. If the connection test was successful, select `No` to skip the Wii System Update.
+![Connection Test Successful](/images/RiiConnect24/Internet_12.png)
+1. Go to `WiiConnect24`, then `WiiConnect24` again, and make sure it is enabled.
+![WiiConnect24 1](/images/RiiConnect24/Internet_13.png)
+![WiiConnect24 2](/images/RiiConnect24/Internet_14.png)
+![WiiConnect24 3](/images/RiiConnect24/Internet_15.png)
+1. Back on the WiiConnect24 menu, go to `Standby Connection` and make sure it is enabled.
+![Standby Connection 1](/images/RiiConnect24/Internet_16.png)
+![Standby Connection 2](/images/RiiConnect24/Internet_17.png)
+![Standby Connection 3](/images/RiiConnect24/Internet_18.png)
+1. At `Slot Illumination`, we recommend you set the disc light to `Dim` or `Bright`, but this is optional.
+![Slot Illumination 1](/images/RiiConnect24/Internet_19.png)
+![Slot Illumination 2](/images/RiiConnect24/Internet_20.png)
+![Slot Illumination 3](/images/RiiConnect24/Internet_22.png)
+1. Finally, go to the `Internet` section, then `User Agreements or Agreement/Contact`, then `Yes`.<br>
+   Please read through this and don't skip through it. This contains important stuff about RiiConnect24 as a service!
+![User Agreements 1](/images/RiiConnect24/Internet_23.png)
+![User Agreements 2](/images/RiiConnect24/Internet_24.png)
+
+If you get error 107245, then you might have failed to patch your IOS correctly.
+{: .notice--info}
+
+[If you're getting NEWS/FORE000006, you might want to read this.](riiconnect24-batteryfix)
+{: .notice--warning}
+
+[If you're getting errors such as a discontinued message when opening the News or Forecast Channel, we have some instructions that might fix it.](riiconnect24-troubleshooting)
+{: .notice--warning}
+
+[Continue to Wiimmfi](wiimmfi)<br>
+Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection.
+{: .notice--info}
+
+[Click here! We got many other tutorials that you can check out :)](site-navigation)
+{: .notice--info}
