@@ -117,7 +117,7 @@ If you were unable to patch your nwc24msg.cfg correctly, mail us at [support@rii
 ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
 1. Type in `164.132.44.106` as the primary DNS
 ![Primary DNS](/images/RiiConnect24/Internet_8.png)
-1. Type in `8.8.8.8` as the secondary DNS
+1. Type in `8.8.8.8` as the secondary DNS (You can also try `1.1.1.1`, however it just came out and might cause problems)
 ![Secondary DNS](/images/RiiConnect24/Internet_9.png)
 1. Select `Confirm`, then select `Save`
 ![Save DNS](/images/RiiConnect24/Internet_10.png)
