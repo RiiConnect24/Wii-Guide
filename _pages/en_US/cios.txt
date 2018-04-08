@@ -49,6 +49,13 @@ Select cIOS version: 65535
 ```
 1. Run it again, then exit once done.
 
-[Continue to RiiConnect24](riiconnect24)
-RiiConnect24 will let you use Wii Mail, and other Channels again.
+[Continue to RiiConnect24](riiconnect24)<br>
+RiiConnect24 will let you use Wii Mail, and other Channels again. This is optional to install.
+{: .notice--info}
+
+[Continue to Wiimmfi](wiimmfi)<br>
+Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install as well.
+{: .notice--info}
+
+[Click here! We got many other tutorials that you can check out :)](site-navigation)
 {: .notice--info}

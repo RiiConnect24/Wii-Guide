@@ -153,10 +153,3 @@ If you get error 107245, then you might have failed to patch your IOS correctly.
 
 [If you're getting errors such as a discontinued message when opening the News or Forecast Channel, we have some instructions that might fix it.](riiconnect24-troubleshooting)
 {: .notice--warning}
-
-[Continue to Wiimmfi](wiimmfi)<br>
-Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection.
-{: .notice--info}
-
-[Click here! We got many other tutorials that you can check out :)](site-navigation)
-{: .notice--info}
