@@ -69,5 +69,5 @@ These are all the hacks you can enable with Priiloader.
 | Block Online Updates                    | Disables updating your Wii.                                                                                                      |
 
 [Continue to cIOS](cios)<br>
-You only need to install cIOS if you want to use a USB Loader to play your games.
+cIOS are used to play games with a USB Loader. Even if you don't want to do that, it's useful for many homebrew apps.
 {: .notice--info}
