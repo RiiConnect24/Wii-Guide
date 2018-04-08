@@ -12,5 +12,5 @@ example/_site
 node_modules
 npm-debug.log*
 /vendor
-torrents
+/.idea
 Gemfile.lock
