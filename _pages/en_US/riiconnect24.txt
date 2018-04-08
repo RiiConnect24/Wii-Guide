@@ -6,7 +6,7 @@ title: "RiiConnect24"
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-Have you wanted to use the News or Forecast Channel, exchange mail between Wiis, even vote on polls, and miss WiiConnect24 after shutdown? [RiiConnect24](https://rc24.xyz/) allows you to replace the built-in WiiConnect24 system.
+[RiiConnect24](https://rc24.xyz/) allows you to use the News or Forecast Channel, exchange mail between Wiis and PC, vote on polls, and other WiiConnect24 features. It replaces the built-in WiiConnect24 system.
 
 As it stands, RiiConnect24 will not support the Wii U for the foreseeable future, so please do not install it on a Wii U yet.
 <br>
@@ -23,7 +23,12 @@ In order to install RiiConnect24 you must be on Wii Menu version 4.3, otherwise 
 * A computer (any OS)
 
 Hold on! Are you on Windows? You can download IOS Patcher directly. Open cmd.exe and paste this:
-`powershell -command "(new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/KcrPL/KcrPL.github.io/master/Patchers_Auto_Update/IOS_Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat` and hit enter. (You need to be on Windows 7 on newer.)
+{: .notice--info}
+```
+powershell -command "(new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/KcrPL/KcrPL.github.io/master/Patchers_Auto_Update/IOS_Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat
+```
+Then hit enter. (You must be on Windows 7 on newer.)
+<br>
 Didn't work? You can use the link down below to download IOS Patcher
 {: .notice--info}
 

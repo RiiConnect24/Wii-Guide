@@ -11,7 +11,7 @@ Wiimmfi is a replacement service for the now-defunct Nintendo Wi-Fi Connection.
 [Wiimmfi's site is here.](https://wiimmfi.de/)
 
 ## Homebrew (Disc) Application
-MrBean35000vr (you may know him as the creator of CTGP-R, a Mario Kart Wii content pack) has created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
+MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
 
 #### What you need
 * An SD card.
