@@ -8,7 +8,7 @@ header:
   cta_label: "Get Started" #
   cta_url: "get-started" #
   caption:
-excerpt: "A guide to get you started with modding your Wii.<br />"
+excerpt: "A guide to get you started with modding your Wii and installing RiiConnect24.<br />"
 ---
 
 ## What is "homebrew"?
