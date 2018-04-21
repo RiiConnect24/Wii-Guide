@@ -25,6 +25,22 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 1. Insert your game disc (you can insert it before or after launch, it doesn't matter).
 1. Wait for patch to complete, and it'll begin!
 
+## No-Homebrew (Disc)
+Thanks to Fullmetal5's FlashHax, MrBean35000vr created a Wiimmfi Disc patcher for the Internet Channel.
+
+#### What do you need
+* Internet Channel
+
+#### Instructions
+
+1. Insert your game disc.
+1. Make sure your Wii is in 60Hz mode in the system settings.
+1. Open the Internet Channel and go to [this](http://chadsoft.co.uk/wiimmfi/) page.
+1. Add that page to favorites by pressing the "Add Favorite" button.
+1. Close the Internet Channel and return to the Wii Menu (you can also use the Reset button).
+1. Open again the Internet Channel and go to your favorites and click on "Wiimmfi".
+1. Wait until the game starts.
+
 ## ISO Patching
 You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
 
