@@ -8,9 +8,6 @@ title: "RiiConnect24 Mail Repatch"
 
 For security reasons, existing RiiConnect24 users need to repatch their nwc24msg.cfg in order to use Wii Mail again. It is easier than before to patch it, and it shouldn't take long.
 
-Please do not do this yet, as we are undergoing server maintenance.<br>
-{: .notice--warning}
-
 [If you never have installed RiiConnect24, please follow the guide here.](riiconnect24)<br>
 {: .notice--info}
 
