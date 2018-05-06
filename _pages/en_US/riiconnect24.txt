@@ -60,7 +60,7 @@ You will now patch your IOS, `IOS31` and `IOS80`. This is required to use the Ch
 1. You should see a folder with Channels in it. It might be overwhelming, but it has links to Channels that are hard to find. If you don't know what you're doing, **don't go crazy and install them, especially foreign Channels or ones you don't know what they do**.
 1. Go to the "Everybody Votes Channel" folder, then go to "Patched". Download the WAD corresponding to your Wii's region.
 1. Copy the Everybody Votes Channel WAD you downloaded to the WAD folder you put on our SD Card.
-1. Extract Wii Mod Lite and WiiXplorer, and then copy them to the `apps` folder on your SD Card. Make sure to copy WiiXplorer as its own folder, not the standalone files inside.
+1. Extract Wii Mod Lite, and then copy it to the `apps` folder on your SD Card.
 1. Insert your SD card into your Wii, open the Homebrew Channel, and launch Wii Mod Lite.
 1. Using the +Control Pad on your Wii Remote, go to `WAD Manager`, and then navigate to the `WAD` folder.
 1. When `IOS31.wad` is highlighted, press +, and then do the same for `IOS80.wad` and the Everybody Votes Channel WAD.
