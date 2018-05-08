@@ -16,7 +16,7 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 #### What you need
 * An SD card.
 * Homebrew Channel (you should already have this installed)
-* [Auto Wiimmfi Patcher](/assets/files/autowiimmfipatcher0.4.zip)
+* [Auto Wiimmfi Patcher](/assets/files/autowiimmfipatcher0.5.zip)
 
 #### Instructions
 
