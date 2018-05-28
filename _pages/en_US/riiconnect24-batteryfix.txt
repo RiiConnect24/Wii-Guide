@@ -6,7 +6,10 @@ title: "RiiConnect24 Battery Fix"
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-If you're getting error NEWS/FORE000006, usually it means "invalid data". It could be something on our end, but try waiting a few minutes then try again.
+This tutorial doesn't seem to fix error NEWS0000006. Unfortunately, if that error persists, reformatting your Wii might be the only option to fix it.
+{: .notice--warning}
+
+If you're getting error FORE000006, usually it means "invalid data". It could be something on our end although unlikely. Try waiting a few minutes and then try again.
 
 If the error code still remains, the time on your Wii might be incorrect, confusing the Channels. These instructions might be worth a shot.
 
