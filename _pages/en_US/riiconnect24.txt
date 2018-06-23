@@ -22,9 +22,15 @@ In order to install RiiConnect24 you must be on Wii Menu version 4.3, otherwise 
 * An SD card with at least 128 MB of free space
 * A computer (any OS)
 
-* [RiiConnect24 Patcher for Windows](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
-* [IOS Patcher for Mac or Linux](https://github.com/RiiConnect24/IOS-Patcher/releases)
-* [Link to Everybody Votes Channel (will explain in the guide)](http://bfy.tw/FM3k)
+If you are running Windows, you only need to download the RiiConnect24 Patcher:
+{: .notice--info}
+
+* [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+
+If you are running Mac or Linux, you need to download everything here:
+{: .notice--info}
+
+* [IOS Patcher](https://github.com/RiiConnect24/IOS-Patcher/releases)
 * [RiiConnect24 Mail Patcher](https://github.com/RiiConnect24/Mail-Patcher/releases)
 * [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
@@ -40,10 +46,10 @@ In order to install RiiConnect24 you must be on Wii Menu version 4.3, otherwise 
 
 You will now patch your IOS, `IOS31` and `IOS80`. This is required to use the Channels we support to change an RSA key used to sign the files, and contains some patches for Wii Mail. You also will download a patched version of the Everybody Votes Channel.
 
-1. Please download the [RiiConnect24 Patcher for Windows](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases) and [IOS Patcher for Mac/Linux](https://github.com/RiiConnect24/IOS-Patcher/releases). On Windows run `RiiConnect24Patcher.bat`, on Linux and MacOS run `patch.sh`
+1. Download the required files based on your OS. On Windows run `RiiConnect24Patcher.bat`, on Linux and MacOS run `patch.sh`.
 1. Follow the instructions it gives you. Upon it finishing, copy the `WAD` folder to your SD Card.
 1. You should get the Everybody Votes Channel. It needs to be installed **even if you already have the Everybody Votes Channel on your Wii, because you will need a patched WAD you reinstall with**.
-1. On Windows, run the `RiiConnect24Patcher.bat` and follow the instructions to download everything that you need, including Everybody Votes Channel. Unfortunately, if you are on MacOS or on Linux, you need to contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) so we can send you a download link to it.
+1. Unfortunately, if you are on MacOS or on Linux, you need to contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) so we can send you a download link to the Everybody Votes Channel.
 1. (`If you used RiiConnect24Patcher.bat, skip this step`) Extract Wii Mod Lite, and then copy it to the `apps` folder on your SD Card.
 1. Put your SD Card in your Wii.
 1. Launch the Homebrew Channel on your Wii.
