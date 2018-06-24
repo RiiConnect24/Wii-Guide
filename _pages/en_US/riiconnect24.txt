@@ -63,7 +63,7 @@ You will now patch your IOS, `IOS31` and `IOS80`. This is required to use the Ch
 
 You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
 
-1. (`If you used RiiConnect24Patcher.bat, it should be already on your SD Card) Download [RiiConnect24 Mail Patcher](https://github.com/RiiConnect24/Mail-Patcher/releases) and extract it to your SD card.
+1. (`If you used RiiConnect24Patcher.bat, it should be already on your SD Card`) Download [RiiConnect24 Mail Patcher](https://github.com/RiiConnect24/Mail-Patcher/releases) and extract it to your SD card.
 1. Put your SD Card in your Wii.
 1. Launch the Homebrew Channel on your Wii.
 1. Launch RiiConnect24 Mail Patcher.
