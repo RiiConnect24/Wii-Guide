@@ -1,0 +1,28 @@
+---
+title: "SysCheck"
+---
+
+{% include toc title="Indice" %}
+
+Un SysCheck crea una lista di tutti gli IOS presenti nella Wii, insieme a delle informazioni su ognuno di loro. Quando hai dei problemi relativi agli IOS, qualcuno potrebbe chiederti di fare un SysCheck.
+
+#### Ciò di cui hai bisogno
+* Una SD con un minimo di 128 MB liberi
+* [SysCheck HacksDen Edition](http://www.hacksden.com/downloads.php?do=file&id=149)
+
+#### Istruzioni
+
+##### Sezione 1 - Scaricamento/Installazione
+
+1. Estrai SysCheck HacksDen Edition e mettilo nella cartella 'apps' sulla SD.
+1. Inserisci la SD nella Wii, e lancia SysCheck HacksDen Edition dall'Homebrew Channel.
+
+##### Sezione 2 - Fare un SysCheck
+
+1. Aspetta che il programma ti dia delle informazioni sulla tua Wii.
+1. Quando "This IOS will be tested (Please select)" viene mostrato a schermo, premi A.
+![Choose IOS](/images/SysCheck/1.PNG)
+1. Aspetta che il programma ti dia delle informazioni sui tuoi IOS.
+1. Quando ha finito, premi `A` se vuoi vedere il log.
+![Completed](/images/SysCheck/2.PNG)
+1. Se vuoi condividere il SysCheck, devi mandare il file `sysCheck.csv`. Il file `IOSsysCheck.log` file contiene informazioni aggiuntive sugli IOS.

@@ -1,0 +1,64 @@
+---
+title: "cIOS"
+---
+
+{% include toc title="Indice" %}
+
+Questo tutorial ti dira come installare i cIOS (custom IOS). Questi sono richiesti per caricare i giochi con gli USB Loader. Alcuni homebrwew potrebbero funzionare meglio usando i cIOS.
+
+![cIOS Logo](/images/cIOS.png)
+
+#### Ciò di cui hai bisogno
+* Una Wii con connessione Internet
+* Una Sd con un minimo di 128 MB liberi
+* [d2x cIOS Installer](https://sites.google.com/site/completesg/backup-launchers/installation/d2x-cIOS-Installer-Wii.zip?attredirects=0&d=1)
+
+#### Istruzioni
+
+##### Sezione 1 - Scaricamento
+
+1. Estrai d2x cIOS Installer e mettilo nella cartella 'apps' sulla SD.
+1. Inserisci la SD nella Wii, e lancia d2x cIOS Installer dall'Homebrew Channel.
+
+##### Sezione 2 - Installazione
+
+1. Premi continua, e imposta le voci come riportato sotto:
+```
+Select cIOS: v10 beta52 d2x-v10-beta52
+Select cIOS base: 56
+Select cIOS slot: 249
+Select cIOS version: 65535
+```
+![Install cIOS 249](/images/Wii/Install249.png)
+1. Una volta fatto, premi A per installare.
+1. Quando è terminata l'installazione, premi A per ritornare, e imposta le voci come riportato sotto:
+```
+Select cIOS: v10 beta52 d2x-v10-beta52
+Select cIOS base: 57
+Select cIOS slot: 250
+Select cIOS version: 65535
+```
+![Install cIOS 250](/images/Wii/Install250.png)
+1. Una volta fatto, premi A per installare.
+1. Quando è terminata l'installazione, premi A per ritornare, e imposta le voci come riportato sotto:
+```
+Select cIOS: v10 beta52 d2x-v10-beta52
+Select cIOS base: 58
+Select cIOS slot: 251
+Select cIOS version: 65535
+```
+1. Eseguilo di nuovo, una volta fatto esci.
+
+##### Una volta fatto
+
+[Imposta RiiConnect24](riiconnect24)<br>
+RiiConnect24 ripristina tutte le vecchie feature di WiiConnect24, come Wii Mail e alcuni canali. L'installazione è opzionale.
+{: .notice--info}
+
+[Imposta Wiimmfi](wiimmfi)<br>
+Wiimmfi è in grado di farti giocare online dopo la chiusura della Nintendo Wi-Fi Connection. L'installazione è opzionale.
+{: .notice--info}
+
+[Continua a navigare altrove](site-navigation)<br>
+Abbiamo molti altri tutorial che potrebbero aiutarti.
+{: .notice--info}

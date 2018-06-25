@@ -1,0 +1,37 @@
+---
+title: "Dump degli WAD"
+---
+
+{% include toc title="Indice" %}
+
+Questo tutorial ti spiegherà come effetuare il dump degli WAD dalla NAND della tua Wii.
+
+![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+
+#### Ciò di cui hai bisogno
+* Una SD con un minimo di 128 MB liberi
+* Connessione internet sul tuo PC
+* [Yet Another BlueDump MOD](/assets/files/YABDM.zip)
+
+##### Sezione 1 - Scaricamento/Installazione
+
+1. Estrai Yet Another BlueDump MOD e mettilo nella cartella 'apps' sulla SD.
+1. Inserisci la SD nella Wii, e lancia Yet Another BlueDump MOD dall'Homebrew Channel.
+
+##### Sezione 2 - Dumping
+1. Premi A.
+![Press A](/images/DumpWADS/2.jpg)
+
+1. Scegli `Installed Channel Titles`.
+![Installed Channel Titles](/images/DumpWADS/3.jpg)
+
+1. Trova il WAD di cui vuoi effetuare il dump e premi 1.
+![Find channel](/images/DumpWADS/4.jpg)
+
+1. Scegli `Backup to WAD`.
+1. Quando ti verrà chiesto `Fakesign the ticket`, premi A.
+1. Quando ti verrà chiesto `Fakesign the TMD`, premi A.
+1. Quando ti verrà chiesto 'Change the output WAD region`, premi B.
+
+1. Fatto!
+![Done](/images/DumpWADS/6.jpg)
