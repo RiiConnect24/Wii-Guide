@@ -1,0 +1,22 @@
+---
+title: "Cominciamo"
+---
+
+{% include toc title="Indice" %}
+
+Questi exploit sono fatti per essere eseguiti su SD, ma puoi anche usare un USB Drive. In ogni caso, LetterBomb richiede SD per come funziona la Wii Message Board.
+{: .notice--info}
+
+Questa guida è solo per Wii originali, con l'ultimo firmware (4.3). Non usarla su Wii U (vWii)!
+Se vuoi installare gli homebrew su vWii, [segui questo tutorial](https://wiiu.hacks.guide/it_IT/vwii-modding.html).
+{: .notice--warning}
+
+### Scegli un exploit da usare
+
+- [LetterBomb](letterbomb) - Exploit che usa la Wii Message Board
+- [FlashHax](flashhax) - Exploit che usa l'Internet Channel
+
+
+Alcune alternative a questa guida sono [ModMii (if you have Windows)](https://sourceforge.net/projects/modmii/) o [SetMiiUp](https://gbatemp.net/threads/setmiiup-from-stock-to-latest-softmod-in-less-then-5-10-minutes.459416/).
+Entrambe possiedono una guida, ma non installano altri servizi se non quelli di default, al contrario di questa guida.
+{: .notice--info}

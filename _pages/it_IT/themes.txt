@@ -1,0 +1,36 @@
+---
+title: "Installare temi Wii"
+---
+
+{% include toc title="Indice" %}
+
+Sei stanco del noioso, e semplice tema bianco sul Menu della tua Wii, e vuoi invece un tema interessante? Questo tutorial ti aiuterà a installare un nuovo tema per il tuo Menu Wii!
+
+In caso di brick, [installare Priiloader è un must.](/priiloader) Installa, anche BootMii (su Boot2 se possiedi una Wii datata).
+{: .notice--warning}
+
+#### Ciò di cui hai bisogno
+* Una Wii
+* Una SD con un minimo di 128 MB liberi
+* Un PC con Windows (usa Wine su Linux/Mac)
+* [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
+* [ThemeMii Mod](http://adf.ly/6DhHK)
+* [Questo thread su GBAtemp](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
+
+#### Istruzioni
+
+##### Sezione 1 - Trovare il tema
+
+1. Guarda il thread di GBAtemp, trovando un tema che ti piacerebbe installare. Alcuni hanno anche un video su YouTube che mostra come appare il tema, sfortunatamente alcuni di questi non sono disponibili.
+1. Una volta trovato quello che ti piace, fai clic sul link per il download corrispondente alla versione del tuo menu Wii. **È molto importante scegliere quello giusto per evitare i brick.**
+1. Probabilmente sceglierai il link per il download che dice 4.X, il che significa che il tema funzionerà sulle versioni 4.1, 4.2 e 4.3 del menu Wii.
+1. Alcuni temi hanno link diversi per regioni diverse, quindi scegli quello corrispondente alla tua regione Wii.
+1. Una volta scaricato il tema desiderato e ricontrollato hai ottenuto quello giusto, apri ThemeMii Mod.
+
+##### Sezione 2 - Costruire il tema
+
+1. Apparirà una finestra di dialogo che ti chiederà di installare i temi solo se hai la protezione dai brick. Se hai installato Priiloader e / o BootMii (vedi l'avviso all'inizio di questa guida), premi OK.
+1. Vai su `Tools` > `Download Base App` > Versione del Menu Wii che hai installato > Regione del menu Wii che hai installato.
+! [Common Key] (/images/Theme/common-key.png)
+1. Apparirà una finestra di dialogo che ti chiederà di inserire un valore per creare una chiave. Inserisci ciò che dice, creerà una chiave che verrà utilizzata per decrittografare il menu Wii dai server Nintendo.
+1. Una casella di selezione file ti chiederà dove salvare il file .app (che è il file del Menu Wii scaricato). Salvalo nella directory in cui è presente ThemeMii.

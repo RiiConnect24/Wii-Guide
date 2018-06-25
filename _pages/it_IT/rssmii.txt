@@ -1,0 +1,63 @@
+---
+title: "Installare RSSMii"
+---
+
+{% include toc title="Indice" %}
+
+Vuoi ricevere i tuoi feed RSS nella Wii Message Board? Questo tutorial ti insegnerà a configurare RSSMii.
+
+![RSSMii](/images/rssmii.png)
+
+#### Ciò di cui hai bisogno
+
+* Una SD
+* [RSSMii](https://github.com/RiiConnect24/rssmii/releases)
+
+#### Istruzioni
+
+##### Sezione 1 - Scaricamento/Installazione
+
+1. Estrai RSSMii mettilo nella cartella 'apps' sulla SD.
+1. Hai bisogno di creare il file `feeds.xml` nella root della SD in modo che l'app sappia da quali siti ti deve mandare i feed.
+
+[Hai un PC Windows? Scarica il nostro RSS Feeds Creators fatto da KcrPL. Creerà il file `feeds.xml` e lo copiera sulla SD! Clicca qui per scaricarlo.](https://github.com/RiiConnect24/rssmii/releases)
+{: .notice--info}
+
+<b>Se non hai un PC Windows, usa questo esempio per creare il file `feeds.xml`. Se fosse troppo complicato per te, mandaci una mail a `support@riiconnect24.net` e ne creeremo uno apposta per te</b> :)
+
+    ```
+    <?xml version="1.0" encoding="utf-8"?>
+    <rss>
+      <feed name="Example-Feed"><![CDATA[http://example.com/rss-feed]]></feed>
+      <feed name="One more Example-Feed!"><![CDATA[http://example.com/another_rss-feed]]></feed>
+    </rss>
+    ```
+
+    Rimpiazza il campo "name" con il titolo per il tuo feed. Non deve essere troppo lungo.
+    Dopo, nel campo "link" inserisci l'url del tuo feed RSS. Non cancellare la parte "CDATA".
+
+    ```
+    <?xml version="1.0" encoding="utf-8"?>
+    <rss>
+      <feed name="RiiConnect24 Medium"><![CDATA[https://medium.com/feed/riiconnect24]]></feed>
+      <feed name="RiiConnect24 Twitter"><![CDATA[https://twitrss.me/twitter_user_to_rss/?user=RiiConnect24]]></feed>
+      <feed name="Nintendo News"><![CDATA[https://www.nintendo.com/feed]]></feed>
+    </rss>
+    ```
+
+    Sembra ottimo! Salva il file che hai appena fatto nella root della tua SD.
+1. Lancia RSSMii dall'Homebrew Channel.
+1. Premi A per confermare che vuoi sottoscrivere ai feed RSS. Ignora l'errore ES_GetTitleID.
+1. Una volta che ha terminato, premi HOME per tornare all'Homebrew Channel. Presto dovresti ricevere dei feed RSS sulla tua Wii, divertiti!
+
+Non ti è ancora arrivato niente? Prova un feed RSS che si aggiorna più frequentemente, come una pagina di notizie. Se il feed RSS non si aggiorna spesso, allora non riceverai molti feed.
+{: .notice--warning}
+
+Non iscriverti a troppi feed, potresti ricevere troppe mail sulla tua Wii.
+{: .notice--info}
+
+Se continui a non ricevere aggiornamenti, potresti dover ripetere tutto il procedimento da capo.
+{: .notice--info}
+
+[Rimuovere RSSMii](rssmii-remove)
+{: .notice--info}
