@@ -272,21 +272,16 @@ defaults:
     values:
       layout: single
       author_profile: false
+      sidebar: true
   - scope:
-      path: "_pages"
+      path: "_pages/en_US"
       type: pages
     values:
       permalink: /:basename:output_ext
       lang: en
   - scope:
-      path: "_pages/en_US"
-      type: pages
-    values:
-      permalink: /index:output_ext
-      lang: en
-  - scope:
       path: "_pages/it_IT"
       type: pages
     values:
-      permalink: /it_IT/home:output_ext
+      permalink: /it_IT/:basename:output_ext
       lang: it
