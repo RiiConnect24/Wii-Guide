@@ -273,7 +273,7 @@ defaults:
       layout: single
       author_profile: false
   - scope:
-      path: "_pages/en_US"
+      path: "_pages"
       type: pages
     values:
       permalink: /:basename:output_ext
