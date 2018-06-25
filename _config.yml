@@ -287,5 +287,5 @@ defaults:
       path: "_pages/it_IT"
       type: pages
     values:
-      permalink: /it_IT/index:output_ext
+      permalink: /it_IT/home:output_ext
       lang: it
