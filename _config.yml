@@ -285,3 +285,13 @@ defaults:
     values:
       permalink: /it_IT/:basename:output_ext
       lang: it
+  - scope:
+      path: "_pages/en_US/home.txt"
+      type: pages
+    values:
+      permalink: /index:output_ext
+  - scope:
+      path: "_pages/it_IT/home.txt"
+      type: pages
+    values:
+      permalink: /it_IT/index:output_ext
