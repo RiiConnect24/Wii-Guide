@@ -115,6 +115,7 @@ include:
  - .htaccess
  - _pages
  - _pages/en_US
+ - _pages/it_IT
 exclude: [
   "*.sublime-project",
   "*.sublime-workspace",
