@@ -281,13 +281,13 @@ defaults:
     values:
       permalink: /:basename:output_ext
       lang: en
- - scope:
+  - scope:
       path: "_pages/es_MX"
       type: pages
     values:
       permalink: /es_MX/:basename:output_ext
       lang: es
- - scope:
+  - scope:
       path: "_pages/fr_FR"
       type: pages
     values:
