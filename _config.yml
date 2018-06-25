@@ -279,6 +279,18 @@ defaults:
     values:
       permalink: /:basename:output_ext
       lang: en
+ - scope:
+      path: "_pages/es_MX"
+      type: pages
+    values:
+      permalink: /es_MX/:basename:output_ext
+      lang: es
+ - scope:
+      path: "_pages/fr_FR"
+      type: pages
+    values:
+      permalink: /fr_FR/:basename:output_ext
+      lang: fr
   - scope:
       path: "_pages/it_IT"
       type: pages
@@ -290,6 +302,16 @@ defaults:
       type: pages
     values:
       permalink: /index:output_ext
+  - scope:
+      path: "_pages/es_MX/home.txt"
+      type: pages
+    values:
+      permalink: /es_MX/index:output_ext
+  - scope:
+      path: "_pages/fr_FR/home.txt"
+      type: pages
+    values:
+      permalink: /fr_FR/index:output_ext
   - scope:
       path: "_pages/it_IT/home.txt"
       type: pages
