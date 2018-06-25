@@ -1,5 +1,5 @@
 ---
-title: "Site Navigation" #
+title: "Navigazione del Sito" #
 layout: single
 sitemap: false
 ---
@@ -16,7 +16,7 @@ sitemap: false
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
 + [RiiConnect24](riiconnect24)
-+ [RiiConnect24 Fix Batteria]riiconnect24-batteryfix)
++ [RiiConnect24 Fix Batteria](riiconnect24-batteryfix)
 + [RiiConnect24 Risoluzione Problemi](riiconnect24-troubleshooting)
 + [Everybody Votes Channel](riiconnect24-evc)
 + [IOS Patcher](iospatcher)
