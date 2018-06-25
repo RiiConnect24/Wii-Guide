@@ -283,6 +283,7 @@ defaults:
       type: pages
     values:
       permalink: /index:output_ext
+      lang: en
   - scope:
       path: "_pages/it_IT"
       type: pages
