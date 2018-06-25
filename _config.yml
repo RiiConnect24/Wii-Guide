@@ -279,7 +279,13 @@ defaults:
       permalink: /:basename:output_ext
       lang: en
   - scope:
-      path: "_pages/en_US/home.txt"
+      path: "_pages/en_US"
       type: pages
     values:
       permalink: /index:output_ext
+  - scope:
+      path: "_pages/it_IT"
+      type: pages
+    values:
+      permalink: /it_IT/:basename:output_ext
+      lang: it
