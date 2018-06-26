@@ -17,6 +17,6 @@ Se vuoi installare gli homebrew su vWii, [segui questo tutorial](https://wiiu.ha
 - [FlashHax](flashhax) - Exploit che usa l'Internet Channel
 
 
-Alcune alternative a questa guida sono [ModMii (if you have Windows)](https://sourceforge.net/projects/modmii/) o [SetMiiUp](https://gbatemp.net/threads/setmiiup-from-stock-to-latest-softmod-in-less-then-5-10-minutes.459416/).
+Alcune alternative a questa guida sono [ModMii (se hai un PC Windows)](https://sourceforge.net/projects/modmii/) o [SetMiiUp](https://gbatemp.net/threads/setmiiup-from-stock-to-latest-softmod-in-less-then-5-10-minutes.459416/).
 Entrambe possiedono una guida, ma non installano altri servizi se non quelli di default, al contrario di questa guida.
 {: .notice--info}
