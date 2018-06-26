@@ -20,7 +20,7 @@ LetterBomb è un exploit per Wii attivabile usando la Wii Message Board.
 1. Estrai il contenuto dello zip sulla SD.
 1. Sulla tua Wii, ritorna al menu e apri la Message Board.
 1. Apri la lettera con l'icona di una bomba.<br>
-   Molte volte, è possibile che si trovi nella pagina del giorno precedente.
+   La maggior parte delle volte, è possibile che si trovi nella pagina del giorno precedente.
 
 ![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
 
