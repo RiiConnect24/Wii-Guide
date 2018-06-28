@@ -21,8 +21,6 @@ This tutorial will explain you how to install Wii Mod Lite and IOS on your Wii.
 ![SD Card Drag and Drop](/images/WiiModLite/1.gif)
 1. Copy the patched IOS files to the folder.
 1. Create a folder called `WAD` on the SD Card.
-[If you want to see how to use IOS Patcher, click here!](iospatcher)
-{: .notice--info}
 1. Insert your SD Card into your Wii, and launch Wii Mod Lite from the Homebrew Channel.
 
 ##### Section II - Running

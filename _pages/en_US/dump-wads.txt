@@ -9,7 +9,7 @@ This tutorial will explain you how to dump WADs from your Wii System Memory.
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
 #### What you need
-* And SD Card with at least 128 MB of free space.
+* SD Card with at least 128 MB of free space.
 * Internet access on your computer.
 * [Yet Another BlueDump MOD](/assets/files/YABDM.zip)
 

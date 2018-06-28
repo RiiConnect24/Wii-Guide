@@ -69,6 +69,10 @@ You will now patch your `nwc24msg.cfg` file which is required in order to use Wi
 1. Launch RiiConnect24 Mail Patcher.
 1. It should only take a few seconds to patch your nwc24msg.cfg. When it's done, press HOME to exit.
 
+If the previous step failed with an ``net_get_status: -24 - Couldn't request the data: -24` error, please check internet connection on your Wii.
+{: .notice--warning}
+
+
 If you were unable to patch your nwc24msg.cfg correctly, e-mail us at [support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
@@ -86,7 +90,7 @@ If you were unable to patch your nwc24msg.cfg correctly, e-mail us at [support@r
 ![Current Connection](/images/RiiConnect24/Internet_5.png)
 1. Go to `Change Settings`.
 ![Change Settings](/images/RiiConnect24/Internet_6.png)
-1. Go to `Auto-Obtain DNS`, then select `No`, then `Advanced Settings`.
+1. Go to `Auto-Obtain DNS` (`Not IP Address`), then select `No`, then `Advanced Settings`.
 ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
 1. Type in `164.132.44.106` as the primary DNS.
 ![Primary DNS](/images/RiiConnect24/Internet_8.png)
