@@ -25,7 +25,7 @@ La tua Wii ed il tuo PC devono essere connessi alla stessa rete
 
 ##### Sezione 2 - Ripping
 
-1. Scarica l'applicazione. (Click on the link above)
+1. Scarica l'applicazione. (clicca sul link sopra)
 1. Installala sulla SD.
 1. Lancia l'Homebrew Channel.
 1. Cercala nell'Homebrew Channel and lanciala.
