@@ -6,7 +6,7 @@ header:
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
   cta_label: "Get Started" #
-  cta_url: "pl_PL/get-started" #
+  cta_url: "get-started" #
   caption:
 excerpt: "A guide to get you started with modding your Wii.<br />"
 ---
