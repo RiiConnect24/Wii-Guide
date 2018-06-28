@@ -19,10 +19,6 @@ title: "Często zadawane pytania"
 <a name="faq_le4gbsd" />**Q:** *Czy mogę to zrobić z kartą SD która ma mniej niż 4GB?*
 **A:** Tak!
 
-<a name="faq_ge128gbsd" />**Q:** *Can I use a SD card larger than 32GB?*
-**A:** You will need an SD card 32GB or lower to do the LetterBomb/Wilbrand exploit (unless you are using FlashHax), but an SD card larger than 32GB should be fine.
-
-<a name="faq_nopc" />**Q:** *Can I do this without a computer (e.g. an Android phone)?*
 <a name="faq_nopc" />**Q:** *Czy mogę to zrobić bez komputera? (np. z telefonem z Androidem)*
 **A:** Jedynie czego potrzebujesz to tylko możliwość umieszczenia plików na karcie SD!
 

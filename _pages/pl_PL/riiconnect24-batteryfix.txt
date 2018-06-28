@@ -16,6 +16,7 @@ Jeżeli dalej dostajesz ten błąd, może to oznaczać że kalendarz i czas na T
 #### Czego będziesz potrzebował
 
 * Śróbokręt "krzyżak"
+
 ![Crosshead Phillips #00 Screwdriver](/images/RiiConnect24/clock/screwdriver.jpg)
 
 #### Instrukcje

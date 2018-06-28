@@ -10,7 +10,7 @@ title: "RiiConnect24"
 
 Póki co, RiiConnect24 nie wspiera Wii U dlatego proszę, nie instaluj tego na Wii U.
 <br>
-Dotychczas, wspieramy tylko News Channel, Forecast Channel oraz Everybody Votes Channel ale inne kanały [sprawdź stronę rozwoju](https://rc24.xyz/stats/index.html) są tworzone.
+Obecnie, wspieramy tylko News Channel, Forecast Channel oraz Everybody Votes Channel ale inne kanały [sprawdź stronę rozwoju](https://rc24.xyz/stats/index.html) są tworzone.
 {: .notice--warning}
 
 Aby zainstalować RiiConnect24, twoje Wii musi być na wersji systemu 4.3 - inaczej Wii Mail nie będzie działał.
@@ -22,7 +22,7 @@ Aby zainstalować RiiConnect24, twoje Wii musi być na wersji systemu 4.3 - inac
 * Karta SD z przynajmniej 128MB wolnej przestrzeni.
 * Komputer (każdy system operacyjny)
 
-Jeżeli korzystasz z Windowsa, wystarczy że pobierzesz RiiConnect24 Patcher:
+Jeżeli korzystasz z Windowsa, wystarczy że pobierzesz RiiConnect24 Patcher
 {: .notice--info}
 
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
@@ -38,16 +38,16 @@ Jeżeli korzystasz z Mac'a lub Linux'a, musisz pobrać wszystko co widzisz poni�
 
 ##### Sekcja I - Stosowanie poprawki na IOS
 
-[Masz jakieś problemy z instalacją RiiConnect24 na Twojej Wii? Chcesz się czegoś nas zapytąć? Wyślij mail'a do support@riiconnect24.net (Wsparcie dostępne po polsku)](mailto:support@riiconnect24.net)
+[Masz jakieś problemy z instalacją RiiConnect24 na Twojej Wii? Chcesz się czegoś nas zapytąć? Wyślij mail'a do support@riiconnect24.net (Obsługa dostępne po polsku)](mailto:support@riiconnect24.net)
 {: .notice--info}
 
 [Jeżeli potrzebujesz dokładnego opisu tego jak zainstalować IOS i Everybody Votes Channel z poprawką po jego pobraniu, naciśnij tutaj!](wiimodlite)
 {: .notice--info}
 
-Zastosujemy teraz poprawkę na IOS `31` oraz `80`. Jest to wymagane aby korzystać z kanałów które wspieramy. Musimy zmienić klucz RSA który jest wymagany do podpisania plików przez nas, te poprawki również zawierają kilka rzeczy wymaganych do działania Wii Mail. Pobierzesz również Everybody Votes Channel.You will now patch your IOS, `IOS31` and `IOS80`. This is required to use the Channels we support to change an RSA key used to sign the files, and contains some patches for Wii Mail. You also will download a patched version of the Everybody Votes Channel.
+Zastosujemy teraz poprawkę na IOS `31` oraz `80`. Jest to wymagane aby korzystać z kanałów które wspieramy. Musimy zmienić klucz RSA który jest wymagany do podpisania plików przez nas, te poprawki również zawierają kilka rzeczy wymaganych do działania Wii Mail. Pobierzesz również Everybody Votes Channel.
 
 1. Pobierz wymagane pliki dla twoje systemu operacyjnego. Dla Windows, uruchom `RiiConnect24Patcher.bat`, dla Linux'a orac Mac'a `patch.sh`.
-1. (`Jeżeli użyłeś RiiConnect24Patvher.bat do skopiowania plików, pomiń ten krok`)Podążaj za podanymi instrukcjami podanymi przez program. Po zakończeniu, skopiuj folder `WAD` na Twoją kartę SD.
+1. (`Jeżeli użyłeś RiiConnect24Patvher.bat do skopiowania plików, pomiń ten krok`) Podążaj za podanymi instrukcjami podanymi przez program. Po zakończeniu, skopiuj folder `WAD` na Twoją kartę SD.
 1. Powinieneś rónież pobrać Everybody Votes Channel. Musi być zainstalowany **nawet jeśli już masz EVC na twoim Wii ponieważ musisz zainstalować wersję z poprawką.**
 1. Niestety, jeżeli korzystasz z MacOS lub Linux, musisz napisać do nas [support@riiconnect24.net](mailto:support@riiconnect24) więc wyślemy Ci link do pobrania. (Obsługa dostępna po polsku)
 1. (`Jeżeli użyłeś RiiConnect24Patvher.bat, pomiń ten krok`) Wypakuj Wii Mod Lite do folderu `apps` na Twojej karcie SD.
@@ -82,7 +82,7 @@ Jeżeli miałeś problem podczas stosowania poprawki na nwc24msg.cfg, napisz do 
 ![Wii Options](/images/RiiConnect24/Internet_1.png)
 1. Wejdź do`Wii Settings`.
 ![Wii Settings](/images/RiiConnect24/Internet_2.png)
-1. Wejdź do `Page 2`, i naciśnij na `Internet`.
+1. Otwórz drugą stronę i naciśnij na `Internet`.
 ![Internet](/images/RiiConnect24/Internet_3.png)
 1. Wejdź do `Connection Settings`.
 ![Connection Settings](/images/RiiConnect24/Internet_4.png)
@@ -90,7 +90,7 @@ Jeżeli miałeś problem podczas stosowania poprawki na nwc24msg.cfg, napisz do 
 ![Current Connection](/images/RiiConnect24/Internet_5.png)
 1. Wejdź do `Change Settings`.
 ![Change Settings](/images/RiiConnect24/Internet_6.png)
-1. Wejdź do `Auto-Obtain DNS` (`Nie IP Address`), i wybierz nie `No`, i wybierz `Advanced Settings`.
+1. Wejdź do `Auto-Obtain DNS` (`Nie IP Address`), wybierz nie `No` oraz wybierz `Advanced Settings`.
 ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
 1. Wpisz `164.132.44.106` w `Primary DNS`.
 ![Primary DNS](/images/RiiConnect24/Internet_8.png)

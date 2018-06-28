@@ -59,6 +59,6 @@ RiiConnect24 pozwoli Ci korzystać z funkcji WiiConnect24 po ich zamknięciu tak
 Wiimmfi pozwoli Ci zagrać w gry online po ich zakończeniu wsparcia w Nintendo Wi-Fi Connection. Instalacja jest opcjonalna.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br>
+[Spis stron](site-navigation)<br>
 Mamy również wiele innych poradników z których możesz skorzystać!
 {: .notice--info}

@@ -1,4 +1,4 @@
----
+---
 title: "Priiloader"
 ---
 
@@ -49,7 +49,7 @@ Poniżej znajduje się liste Hacków które możesz włączyć w Priiloaderze.
 | Region Free EVERYTHING                  | Włącza region free na wszystko co masz na Twoim Wii, łącznie z rzeczami pobranymi.                                                 |
 | Block Disc Updates                      | Wyłącza "Wii System UpdatE" podczas uruchamiania gier które zmuszają Cię do aktualizacji oprogramowania.                           |
 | Region Free GC Games (No VM Patch)      | Włącza region free dla gier GameCube                                                                                               |
-| Region Free Wii Games                   | Włącza region free dla gier Wii.                                                                                                   |                                                 |
+| Region Free Wii Games                   | Włącza region free dla gier Wii.                                                                                                   |
 | Remove Diagnostic Disc Check            | Wyłącza funkcje sprawdzającą czy w Wii jest włożona "Wii Startup Disc"                                                             |
 | No System Menu Sounds AT ALL            | Wyłącza wszystkie efekty dźwiękowe Wii Menu.                                                                                       |
 | No System Menu Background Music         | Wyłącza muzyke w tle Wii Menu.                                                                                                     |
@@ -60,7 +60,7 @@ Poniżej znajduje się liste Hacków które możesz włączyć w Priiloaderze.
 | Auto-Press A at Health Screen           | Automatycznie naciska A na ekranie "Health and Safety"                                                                             |
 | Force Standard Recovery Mode            | Daje Ci dostęp do trybu awaryjnego aby uruchomić płyty recovery. Ten tryb służy do odbrickowania konsoli.                          |
 | OSReport to UsbGecko(slot B)            | Pozwala na wysłanie logów Wii Menu do urządzenia debugującego w memory card slot B                                                 |
-| OSReport to UsbGecko(GeckoOS,B)         | Pozwala na wysłanie logów Wii Menu do urządzenia debugującego w memory card slot B jeżeli system został uruchomiony przez Gecko OS |
+| OSReport to UsbGecko(GeckoOS,B)         | Pozwala na wysłanie logów Wii Menu do urządzenia debugującego w memory card slot B jeżeli system został uruchomiony przez Gecko OS.|
 | Move Disc Channel                       | Pozwala Ci na przesuwanie Disc Channel gdziekolwiek chcesz.                                                                        |
 | Block Online Updates                    | Blokuje aktualizowanie się na Twoim Wii.                                                                                           |
 
