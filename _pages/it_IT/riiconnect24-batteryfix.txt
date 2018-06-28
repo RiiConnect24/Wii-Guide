@@ -12,12 +12,12 @@ Questo tutorial non sembra correggere l'errore NEWS0000006. Sfortunatamente, se 
 Se ricevi l'errore FORE000006, in genere significa "dati non validi". Potrebbe essere qualcosa da parte nostra anche se improbabile. Prova ad aspettare qualche minuto e poi riprova.
 
 Se il codice di errore rimane, l'ora sulla tua Wii potrebbe essere errata, confondendo i Canali. Queste istruzioni potrebbero aiutarti.
-#### What you need
+#### Ciò di cui hai bisogno
 
 * Crosshead Phillips #00 screwdriver
 ![Crosshead Phillips #00 Screwdriver](/images/RiiConnect24/clock/screwdriver.jpg)
 
-#### Instructions
+#### Istruzioni
 
 1. Imposta la tua Wii sull'ora corretta nelle Impostazioni Wii.
 1. Scollega il tuo adattatore AC dalla Wii. Dovrai aprire un coperchio della batteria sul lato della tua Wii, quindi potresti dover rimuovere tutto quello che è collegato alla tua Wii.
