@@ -453,5 +453,48 @@ nl: &DEFAULT_NL
   comment_error_msg          : "Helaas, er is een probleem opgetreden met het versturen van je commentaar. Zorg dat alle vereiste velden ingevuld zijn en probeer opnieuw."
   loading_label              : "Laden..."
   
+# Polish / Polski
+# -----------------
+pl: &DEFAULT_PL
+  page                       : "Strona"
+  pagination_previous        : "Poprzedni"
+  pagination_next            : "Następny"
+  breadcrumb_home_label      : "Home"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Otwórz menu"
+  toc_label                  : "Na tej stronie"
+  ext_link_label             : "Link bezpośredni"
+  less_than                  : "mniej niż"
+  minute_read                : "minuta czytania"
+  share_on_label             : "Udostępnij na"
+  meta_label                 :
+  tags_label                 : "Tagi:"
+  categories_label           : "Kategorie:"
+  date_label                 : "Zaktualizowanie:"
+  comments_label             : "Zostaw komentarz"
+  comments_title             : "Komentarze"
+  more_label                 : "Dowiedz się więcej"
+  related_label              : "Również może Ci się spodobać"
+  follow_label               : "Obserwuj:"
+  feed_label                 : "Kanał"
+  powered_by                 : "Powered by"
+  website_label              : "Strona"
+  email_label                : "Email"
+  recent_posts               : "Ostatnie posty"
+  undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
+  comment_form_info          : "Twój adres email nie zostanie upubliczniony. Wymagane pola zostały podkreślone."
+  comment_form_comment_label : "Komentarz"
+  comment_form_md_info       : "Markdown is supported."
+  comment_form_name_label    : "Imię"
+  comment_form_email_label   : "Adres email"
+  comment_form_website_label : "Strona (opcjonalne)"
+  comment_btn_submit         : "Zatwierdź komentarz"
+  comment_btn_submitted      : "Zatwierdzone"
+  comment_success_msg        : "Dziękujemy za komentarz! Pojawi się on na stronie gdy zostanie on zatweirdzony."
+  comment_error_msg          : "Przepraszamy, wystąpił błąd z twoim zgłoszeniem. Upewnij się żę wszystki pola zostały zapełnione i spróbuj ponownie."
+  loading_label              : "Ładowanie..."
+pl_PL:
+  <<: *DEFAULT_PL
+  
 # Another locale
 # --------------
