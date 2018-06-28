@@ -2,7 +2,7 @@
 title: "Instalowanie RSSMii"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Zawartość" %}
 
 Chcesz otrzymywać kanały RSS na Twoim Wii Message Board? Ten poradnik pomoże Ci ustawić RSSMii.
 

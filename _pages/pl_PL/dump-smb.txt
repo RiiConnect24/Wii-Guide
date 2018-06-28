@@ -2,7 +2,7 @@
 title: "Wykonywanie kopii zapasowej korzystając z WiFi/Ethernet"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Zawartość" %}
 Chcesz wykonać kopię gry przez twoją sieć lokalną? Podążaj za tym poradnikiem! To może być przydatne jeżeli nie masz karty SD lub Pendrive na który twoja gra nie może się zmieścić.
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)

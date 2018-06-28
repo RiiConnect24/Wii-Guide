@@ -2,7 +2,7 @@
 title: "SysCheck"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Zawartość" %}
 
 SysCheck pokaże Ci listę wszystkich IOS i cIOS które są na Twojej Wii również z kilkoma informacjami o nich. Również da Ci to kilka innych przydatnych informacji. Kiedy masz problem z IOS na Twoim Wii, ktoś może Cię zapytać o wykonanie SysCheck.
 

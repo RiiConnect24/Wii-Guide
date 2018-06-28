@@ -2,7 +2,7 @@
 title: "WiiWare Patcher"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Zawartość" %}
 
 Chcesz spatchować pliki WAD (WiiWare) aby działały z Wiimmfi i nie wiesz jak to zrobić? Ten poradnik wyjaśni CI jak działa WiiWare Patcher. (Ten poradnik jest tylko przyznaczony dla systemów z Windows'em)
 

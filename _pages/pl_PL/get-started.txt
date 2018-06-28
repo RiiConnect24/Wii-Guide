@@ -2,7 +2,7 @@
 title: "Wprowadzenie"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Zawartość" %}
 
 Ten poradnik będzie zakładał że masz kartę SD z której będziesz korzystał aby przerobić twoją Wii, możesz również użyć Pendrive. Jednak exploit LetterBomb będzie wymagał karty SD z powodu tego jak działa Wii Message Board.
 {: .notice--info}

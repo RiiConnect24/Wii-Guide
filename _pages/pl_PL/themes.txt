@@ -2,7 +2,7 @@
 title: "Instalowanie motywów Wii"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Zawartość" %}
 
 Znudził Ci się już nudny, biały motyw Wii i chcesz coś innego? Ten poradnik pomoże Ci zainstalować nowy motyw na Twojej Wii.
 

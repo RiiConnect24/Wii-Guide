@@ -2,7 +2,7 @@
 title: "Wiimmfi"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Zawartość" %}
 
 ![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
 

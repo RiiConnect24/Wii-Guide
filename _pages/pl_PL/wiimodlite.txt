@@ -2,7 +2,7 @@
 title: "Wii Mod Lite"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Zawartość" %}
 
 Ten poradnik wyjaśni Ci jak zainstalować Wii Mod Lite i IOS na Twoim Wii.
 

@@ -2,7 +2,7 @@
 title: "CleanRip"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Zawartość" %}
 Chcesz zrobić kopię bezpieczeństwa twoich gier? Ten poradnik wytłumaczy Ci jak używać CleanRip.
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)

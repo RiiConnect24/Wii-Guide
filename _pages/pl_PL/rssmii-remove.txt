@@ -2,7 +2,7 @@
 title: "Kasowanie RSSMii"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Zawartość" %}
 
 Jeżeli nie chcesz już korzystać z RSSMii (na przykład jeżeli dostajesz za dużo wiadomości), tu jest poradnik jak go skasować.
 

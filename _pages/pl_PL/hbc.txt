@@ -2,7 +2,7 @@
 title: "Instalator Homebrew Channel"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Zawartość" %}
 
 ![HBC Logo](/images/hbc.png)
 
