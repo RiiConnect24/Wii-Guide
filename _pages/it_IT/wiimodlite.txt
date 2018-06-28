@@ -11,7 +11,7 @@ Questo tutorial ti spiegherà come installare Wii Mod Lite e i tui IOS sulla tua
 #### Ciò di cui hai bisogno
 * Una Sd con un minimo di 128 MB liberi
 * Connessione internet sul tuo PC
-* [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases).
+* [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
 #### Istruzioni
 
