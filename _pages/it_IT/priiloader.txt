@@ -17,7 +17,7 @@ Priiloader aggiunge un ulteriore livello di protezione dai brick. Viene eseguito
 
 ##### Sezione 1 - Scaricamento/Installazione
 
-1. Estrai Priiloader e mettilo nella cartella 'apps' sulla SD.
+1. Estrai Priiloader e mettilo nella cartella `apps` sulla SD.
 1. Inserisci la SD nella Wii, e lancia Priiloader dall'Homebrew Channel.
 
 ##### Sezione 2 - Installazione di Priiloader

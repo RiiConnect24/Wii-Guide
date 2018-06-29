@@ -17,7 +17,7 @@ Questo tutorial ti dira come installare i cIOS (custom IOS). Questi sono richies
 
 ##### Sezione 1 - Scaricamento
 
-1. Estrai d2x cIOS Installer e mettilo nella cartella 'apps' sulla SD.
+1. Estrai d2x cIOS Installer e mettilo nella cartella `apps` sulla SD.
 1. Inserisci la SD nella Wii, e lancia d2x cIOS Installer dall'Homebrew Channel.
 
 ##### Sezione 2 - Installazione

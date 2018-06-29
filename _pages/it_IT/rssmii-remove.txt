@@ -15,7 +15,7 @@ Se non hai più bisogno di RSSMii (forse perchè ti arrivano troppi messaggi), q
 
 #### Istruzioni
 
-1. Estrai RSSMii Remover e mettilo nella cartella 'apps' sulla SD.
+1. Estrai RSSMii Remover e mettilo nella cartella `apps` sulla SD.
 1. Cancella il file `feeds.xml` nella root della tua SD.
 1. Lancia RSSMii Remover dall'Homebrew Channel. Rimuoverà le tue iscrizioni ai feed RSS.
 
