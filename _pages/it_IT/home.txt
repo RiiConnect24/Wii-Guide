@@ -13,7 +13,7 @@ excerpt: "Una guida che ti insegnerà come moddare la tua Wii.<br />"
 
 ## Cos'è "homebrew"?
 
-Un [**Homebrew**](https://en.wikipedia.org/wiki/List_of_homebrew_video_games) è un software non ufficiale per la tua Wii. Ti permette di lanciare degli homebrew game e delle applicazioni, inclusi emulatori e strumenti vari.
+Un [**Homebrew**](https://it.wikipedia.org/wiki/Homebrew_(informatica)) è un software non ufficiale per la tua Wii. Ti permette di lanciare degli homebrew game e delle applicazioni, inclusi emulatori e strumenti vari.
 
 Nella maggior parte dei case, eseguire gli homebrew sulla tua console è 100% gratis usando gli exploit LetterBomb o FlashHax. Ci sono anche degli homebrew che richiedono dei giochi ufficiali per essere lanciati.
 
