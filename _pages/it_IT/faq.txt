@@ -7,7 +7,7 @@ title: "FAQ"
 {% capture notice-1 %}
 
 <a name="faq_latestfw" />**Q:** *La mia Wii è aggiornata all'ultima versione. Posso moddarla?*
-**A:** Si
+**A:** Si.
 
 <a name="faq_risky" />**Q:** *Quanto è rischioso moddare la mia Wii?*
 **A:** I bricks sono ora *fondamentalmente* impossibili a meno che ignori i controlli di sicurezza.
