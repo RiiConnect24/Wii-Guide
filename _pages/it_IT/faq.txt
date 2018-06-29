@@ -13,7 +13,7 @@ title: "FAQ"
 **A:** I bricks sono ora *fondamentalmente* impossibili a meno che ignori i controlli di sicurezza.
 
 <a name="faq_support" />**Q:** *Dove dovrei andare per ottenere supporto?*
-**A:** Per il supporto mandaci una mail a support@riiconnect24.net. O se hai un account Discord, entra a far parte del nostro server [RiiConnect24 su Discord](https://discord.gg/b4Y7jfD).
+**A:** Per il supporto mandaci una mail a [support@riiconnect24.net](mailto:support@riiconnect24.net). Oppure, se hai un account Discord, entra a far parte del nostro server [RiiConnect24 su Discord](https://discord.gg/b4Y7jfD).
 
 <a name="faq_le4gbsd" />**Q:** *Posso moddare la mia Wii con una SD minore di 4GB?*
 **A:** Si!
