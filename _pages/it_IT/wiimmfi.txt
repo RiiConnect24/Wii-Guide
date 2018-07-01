@@ -8,7 +8,7 @@ title: "Wiimmfi"
 
 Wiimmfi è un sostituto del servizio Nintendo Wi-Fi Connection, non più supportato.
 
-Il sito è Wiimmfi [questo].(https://wiimmfi.de/)
+Il sito di Wiimmfi è [questo](https://wiimmfi.de/).
 
 ## Applicazione (Disco) Homebrew
 MrBean35000vr (creatore di CTGP-R, una mod per Mario Kart) ha creato un Disc Patcher per Wiimmfi che permette di inserire un disco e patchare il gioco sul momento, sebbene deve essere lanciato tutte le volte che usi un disco.
@@ -61,7 +61,7 @@ Invece di patchare una iso puoi usare USB Loader che supporta Wiimmfi.
 * Una copia del tuo gioco su USB Drive.
 * Un USB loader which che supporta i server WFC personalizzati, ad esempio [USB Loader GX](https://sourceforge.net/projects/usbloadergx/).
 
-#### Istruzioni (perr USB Loader GX)
+#### Istruzioni (per USB Loader GX)
 1. Sulla schermata principale, vai nelle impostazioni (l'icona dell'ingranaggio).
 1. Seleziona "Loader settings".
 1. Cerca "Private Server" e modificalo in "Wiimmfi.de".
