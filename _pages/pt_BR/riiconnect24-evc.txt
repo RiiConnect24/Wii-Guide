@@ -19,10 +19,10 @@ Caso queira usar o Everybody Votes Channel, será necessário seguir esse tutori
 [Caso queira instruções detalhadas em como instalar o Everybody Votes Channel depois de baixar, clique aqui!](wiimodlite)
 {: .notice--info}
 
-Para o Everybody Votes Channel, você pode deletar o save file ou mover ele para seu Cartâo SD caso queira começar do zero. Note que, se você receber o erro 231000 no Canal, reinicie e tente novamente.
+Para o Everybody Votes Channel, você pode deletar o save file ou mover ele para seu Cartão SD caso queira começar do zero. Note que, se você receber o erro 231000 no Canal, reinicie e tente novamente.
 {: .notice--info}
 
-1. Agora você irá instalar o Everybody Votes Channel. Ele precisa ser instalado **mesmo que você já tenha instalado em seu Wii, é necessário instalar uma WAD modificada.**.
+1. Agora você irá instalar o Everybody Votes Channel. Ele precisa ser instalado **mesmo que você já tenha instalado em seu Wii, é necessário instalar uma WAD modificada.**
 1. Se você estiver no Windows, faça o download em [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases) e abra. Infelizmente, se você estiver no Linux ou MacOS, será necessário nos enviar um e-mail em [support@riiconnect24.net](mailto:support@riiconnect24.net) para conseguir o link de download do Everybody Votes Channel.
 1. Abra o RiiConnect24Patcher.bat no seu computador
 1. Siga as instruções que o patcher lhe diz.
@@ -33,5 +33,5 @@ Para o Everybody Votes Channel, você pode deletar o save file ou mover ele para
 1. Se você receber um erro dizendo que uma versão mais nova estiver instalada (erro -1035), volte até o menu de Seleção de WAD e pressione o botão - quando Everybody Votes Channel estiver marcado, depois tente instalar novamente.
 1. Após serem instalados corretamente, pressione o botão HOME para voltar ao Homebrew Channel.
 
-[Está tendo problemas para instalar? Envie um e-mail para nós em: support@riiconnect24.net!(mailto:support@riiconnect24.net)
+[Está tendo problemas para instalar? Envie um e-mail para nós em: support@riiconnect24.net!(mailto:support@riiconnect24.net)]
 {: .notice--info}

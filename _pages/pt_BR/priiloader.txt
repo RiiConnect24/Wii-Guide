@@ -4,7 +4,7 @@ title: "Priiloader"
 
 {% include toc title="Sumário" %}
 
-Priiloader adciona uma cama de proteção para bricks em seu Wii. É carregado antes do Wii Menu (motivo do nome). A ferramente também pode habilitar hacks para seu Wii, e pode ser usado para abrir rápidamente o Homebrew Channel, BootMii, ou qualquer outro aplicativo homebrew!
+Priiloader adciona uma camada de proteção para bricks em seu Wii. Ele carrega antes do Wii Menu (motivo do nome). A ferramente também pode habilitar hacks para seu Wii, e pode ser usado para abrir rapidamente o Homebrew Channel, BootMii, ou qualquer outro aplicativo homebrew!
 
 ![Priiloader](/images/priiloader.jpg)
 
@@ -47,13 +47,13 @@ Essa lista contém os hacks que podem ser usados com Priiloader.
 
 |                  Hack                                |                                                     Descrição                                                                    |
 |------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| Substituir a tela de Segurança e Saúde para BackMenu | Muda a tela de Saúde e Segurança para a animação que você vê quando sai de um jogo e vao ao Wii Menu.                            |
-| Re-ativar Bannerbomb v2                              | Permite o exploit "Bannerbomb" usado em versões do Wii Menu antigas Wii Menu versions to be used on the latest Wii version.      |
+| Substituir a tela de Segurança e Saúde para BackMenu | Muda a tela de Saúde e Segurança para a animação que você vê quando sai de um jogo e vai ao Wii Menu.                            |
+| Re-ativar Bannerbomb v2                              | Permite que o exploit "Bannerbomb" usado em versões antigas do Wii Menu seja usado na versão mais nova do Wii                    |
 | Deixar seu console sem trava de região               | Força seu Wii a ler jogos de qualquer região, incluindo jogos baixados.                                                          |
 | Bloquear atualizações de disco                       | Remove a tela que aparece em jogos pedindo para a atualizar o sistema, forçando que você atualize para jogar.                    |
 | Jogos de GC sem trava de região (sem VM Patch)       | Força seu Wii a ler jogos de GameCube de qualquer região.                                                                        |
 | Jogos do Wii sem trava de região                     | Força seu Wii a ler jogos de Wii de qualquer região.                                                                             |
-| Congelar o Menu do Sistema com uma tela preta        | Deixa o Menu do Wii congelado em uma tela preta, impossibilitando de usar.                                                       |
+| Congelar o Menu do Sistema com uma tela preta        | Deixa o Menu do Wii congelado em uma tela preta, impossibilitando o uso.                                                         |
 | Remover Diagnostic Security Check                    | Remove um check de segurança do Wii que verifica se o jogo inserido é o "Wii Startup Disc".                                      |
 | Remover todos os sons do Menu                        | Desliga todos os sons e efeitos do Wii Menu.                                                                                     |
 | Remove a música de fundo do Menu                     | Desliga a música de fundo do Wii Menu.                                                                                           |
@@ -66,7 +66,7 @@ Essa lista contém os hacks que podem ser usados com Priiloader.
 | OSReport para UsbGecko(slot B)                       | Permite que você envie logs do Wii Menu para um dispositivo debugging no slot B do memory card.                                  |
 | OSReport para UsbGecko(GeckoOS,B)                    | Permite que você envie logs do Wii Menu para um dispositivo debugging no slot B do memory card, caso seja usado GeckoOS          |
 | Mover o Disc Channel                                 | Permite que você mova o Disc Channel para onde quiser no Wii Menu.                                                               |
-| Bloquear atualizações online                         | Bloqueia qualquer atualização para o Wii.                                                                                                      |
+| Bloquear atualizações online                         | Bloqueia qualquer atualização para o Wii.                                                                                        |
 
 [Continuar para cIOS](cios)<br>
 cIOS são usadas para jogar em USB Loaders. Mesmo que não queira, é útil para vários aplicativos homebrew.

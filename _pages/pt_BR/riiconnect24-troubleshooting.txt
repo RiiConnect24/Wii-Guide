@@ -6,7 +6,7 @@ title: "Solução de Problemas do RiiConnect24"
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-Se você estiver recebendo alguns desses erros (e mais nenhm outro erro), você poderá consertar o Canal deletando seu VFF.
+Se você estiver recebendo alguns desses erros (e mais nenhum outro erro), você poderá consertar o Canal deletando seu VFF.
 
 + Mensagem de Descontinuado
 + NEWS/FORE000001

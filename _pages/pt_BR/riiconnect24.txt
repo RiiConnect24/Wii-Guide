@@ -13,7 +13,7 @@ No momento, RiiConnect24 ainda não tem suporte para o Wii U, então não instal
 Até agora só o Canal de Notícias, Tempo, e Everybody Votes Channel funcionam, visite [a página de status](https://rc24.xyz/stats/index.html) para futuros desenvolvimentos.
 {: .notice--warning}
 
-Para instalar RiiConnect24 seu Wii deve estar na versão 4.3, caso contrário Mail não vai funcionar.
+Para instalar RiiConnect24 seu Wii deve estar na versão 4.3, caso contrário a Wii Message Board não irá funcionar.
 {: .notice--info}
 
 #### Você precisará de
@@ -44,7 +44,7 @@ Se você estiver no Mac ou Linux, será necessário baixar os seguintes programa
 [Caso queira instruções detalhadas em como instalar IOS customizadas e o Everybody Votes Channel com patch após baixar, clique aqui!](wiimodlite)
 {: .notice--info}
 
-Agorá você ira fazer patch na IOS, `IOS31` e `IOS80`. Isso é necessário para que os canais e Mail funcionem. Você também precisará de uma versão modificada do Everybody Votes Channel.
+Agorá você ira fazer patch na IOS, `IOS31` e `IOS80`. Isso é necessário para que os canais e a Wii Message Board funcionem. Você também precisará de uma versão modificada do Everybody Votes Channel.
 
 1. Faça download dos arquivos necessários para seu Sistema Operacional. No Windows abra `RiiConnect24Patcher.bat`, No Linux e MacOS abra `patch.sh`.
 1. Siga as intruções que o aplicativo dá. Ao terminar, copie a pasta `WAD` para seu Cartão SD.
