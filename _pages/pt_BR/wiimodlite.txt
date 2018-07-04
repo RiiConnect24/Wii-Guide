@@ -1,4 +1,4 @@
----
+﻿---
 title: "Wii Mod Lite"
 ---
 
@@ -23,7 +23,7 @@ Esse tutorial irá lhe ensinar como instalar Wii Mod Lite e IOS no seu Wii.
 1. Crie uma pasta chamada ´WAD´ no Cartão SD.
 1. Insira seu Cartão SD no Wii, e abra Wii Mod Lite através do Homebrew Channel.
 
-##### Parte II - Usar
+##### Parte II - Abra
 
 1. Escolha `WAD Manager`.
 ![WAD Manager](/images/WiiModLite/2.png)
