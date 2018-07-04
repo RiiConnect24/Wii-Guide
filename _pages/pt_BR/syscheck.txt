@@ -2,27 +2,27 @@
 title: "SysCheck"
 ---
 
-{% include toc title="Sum·rio" %}
+{% include toc title="Sum√°rio" %}
 
-Um SysCheck lista todas as IOS e cIOS that que est„o no seu Wii, junto com algumas informaÁıes sobre cada uma delas. TambÈm te d· outras informaÁıes. Quando vocÍ tiver problemas relacionados a IOS no Wii, alguÈm pode te pedir um SysCheck.
+Um SysCheck lista todas as IOS e cIOS that que est√£o no seu Wii, junto com algumas informa√ß√µes sobre cada uma delas. Tamb√©m te d√° outras informa√ß√µes. Quando voc√™ tiver problemas relacionados a IOS no Wii, algu√©m pode te pedir um SysCheck.
 
-#### VocÍ precisar· de
-* Um Cart„o SD com pelo menos 128MB de espaÁo livre.
+#### Voc√™ precisar√° de
+* Um Cart√£o SD com pelo menos 128MB de espa√ßo livre.
 * [SysCheck HacksDen Edition](http://www.hacksden.com/downloads.php?do=file&id=149)
 
-#### InstruÁıes
+#### Instru√ß√µes
 
 ##### Parte I - Baixar/Instalar
 
-1. Extraia SysCheck HacksDen Edition e coloque dentro da pasta `apps` do seu Cart„o SD.
-1. Insira seu Cart„o SD no Wii, e abra SysCheck HacksDen Edition atravÈs do Homebrew Channel.
+1. Extraia SysCheck HacksDen Edition e coloque dentro da pasta `apps` do seu Cart√£o SD.
+1. Insira seu Cart√£o SD no Wii, e abra SysCheck HacksDen Edition atrav√©s do Homebrew Channel.
 
 ##### Parte II - Fazendo um SysCheck
 
-1. Espere o programa ler algumas informaÁıes sobre seu Wii.
+1. Espere o programa ler algumas informa√ß√µes sobre seu Wii.
 1. Quando aparecer uma mensagem dizendo "This IOS will be tested (Please select)" na tela, aperte A.
 ![Choose IOS](/images/SysCheck/1.PNG)
-1. Espere o programa ler algumas informaÁıes sobre sua IOS
-1. Quando terminar, aperte o bot„o `A` caso queira ver o log.
+1. Espere o programa ler algumas informa√ß√µes sobre sua IOS
+1. Quando terminar, aperte o bot√£o `A` caso queira ver o log.
 ![Completed](/images/SysCheck/2.PNG)
-1. Caso queira compartilhar o SysCheck que acabou de fazer, envie o arquivo `sysCheck.csv`, ele est· no seu Cart„o SD.  O arquivo `IOSsysCheck.log` (que foi salvo no Cart„o SD) contÈm informaÁıes adcionais sobre sua IOS.
+1. Caso queira compartilhar o SysCheck que acabou de fazer, envie o arquivo `sysCheck.csv`, ele est√° no seu Cart√£o SD.  O arquivo `IOSsysCheck.log` (que foi salvo no Cart√£o SD) cont√©m informa√ß√µes adcionais sobre sua IOS.

@@ -17,7 +17,7 @@ Vuoi ricevere i tuoi feed RSS nella Wii Message Board? Questo tutorial ti insegn
 
 ##### Sezione 1 - Scaricamento/Installazione
 
-1. Estrai RSSMii mettilo nella cartella 'apps' sulla SD.
+1. Estrai RSSMii mettilo nella cartella `apps` sulla SD.
 1. Hai bisogno di creare il file `feeds.xml` nella root della SD in modo che l'app sappia da quali siti ti deve mandare i feed.
 
 [Hai un PC Windows? Scarica il nostro RSS Feeds Creators fatto da KcrPL. Creerà il file `feeds.xml` e lo copiera sulla SD! Clicca qui per scaricarlo.](https://github.com/RiiConnect24/rssmii/releases)

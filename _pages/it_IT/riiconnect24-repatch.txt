@@ -20,7 +20,7 @@ Per motivi di sicurezza, gli utenti esistenti su RiiConnect24 devono ri-patchare
 
 ##### Sezione 1 - Scaricamento
 
-1. Estrai RiiConnect24 Mail Patcher e mettilo nella cartella 'apps' sulla SD.
+1. Estrai RiiConnect24 Mail Patcher e mettilo nella cartella `apps` sulla SD.
 1. Inserisci la SD nella Wii.
 
 ##### Sezione 2 - Installing

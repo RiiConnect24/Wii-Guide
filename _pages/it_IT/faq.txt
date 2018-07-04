@@ -7,13 +7,13 @@ title: "FAQ"
 {% capture notice-1 %}
 
 <a name="faq_latestfw" />**Q:** *La mia Wii è aggiornata all'ultima versione. Posso moddarla?*
-**A:** Si
+**A:** Si.
 
 <a name="faq_risky" />**Q:** *Quanto è rischioso moddare la mia Wii?*
 **A:** I bricks sono ora *fondamentalmente* impossibili a meno che ignori i controlli di sicurezza.
 
 <a name="faq_support" />**Q:** *Dove dovrei andare per ottenere supporto?*
-**A:** Per il supporto mandaci una mail a support@riiconnect24.net. O se hai un account Discord, entra a far parte del nostro server [RiiConnect24 su Discord](https://discord.gg/b4Y7jfD).
+**A:** Per il supporto mandaci una mail a [support@riiconnect24.net](mailto:support@riiconnect24.net). Oppure, se hai un account Discord, entra a far parte del nostro server [RiiConnect24 su Discord](https://discord.gg/b4Y7jfD).
 
 <a name="faq_le4gbsd" />**Q:** *Posso moddare la mia Wii con una SD minore di 4GB?*
 **A:** Si!
@@ -22,7 +22,7 @@ title: "FAQ"
 **A:** Avrai bisogno di una SD da 32GB o meno se usi gli exploit LetterBomb/Wilbrand (a meno che usi FlashHax), ma se usi una SD maggiore di 32GB dovrebbe andare bene.
 
 <a name="faq_nopc" />**Q:** *Posso fare tutto ciò senza un PC (con un cellulare Android, ad esempio)?*
-**A:** All you need is the ability to put files on an SD card!
+**A:** Devi solo essere in grado di mettere dei file su una SD!
 
 <a name="faq_error" />**Q:** *Ho l'errore XXXXXX, come si aggiusta??*
 **A:** Per controllare di cosa si tratta, visita la [pagina degli errori di Wiimmfi](https://wiimmfi.de/error).

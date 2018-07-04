@@ -18,7 +18,7 @@ Vuoi creare dei backup dei tuoi giochi? Questo tutorial ti spiegherà come usare
 
 ##### Sezione 1 - Scaricamento/Installazione
 
-1. Estrai CleanRip e mettilo nella cartella 'apps' sulla SD.
+1. Estrai CleanRip e mettilo nella cartella `apps` sulla SD.
 1. Inserisci la SD nella Wii, e lancia CleanRip dall'Homebrew Channel.
 
 ##### Sezione 2 - Ripping

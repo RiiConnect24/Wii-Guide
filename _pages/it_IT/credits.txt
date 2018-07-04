@@ -5,7 +5,7 @@ title: "Crediti"
 **Un grazie speciale a tutti [i membri di RiiConnect24 Discord](https://discord.gg/b4Y7jfD) per essere speciali!**
 {: .notice--primary}
 
-Se ti abbiamo dimenticato qui, contattaci ed aggiungeremo il tuo nome
+Se ti abbiamo dimenticato qui, contattaci ed aggiungeremo il tuo nome.
 {% capture notice-1 %}
 
     + Actar
