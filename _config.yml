@@ -314,7 +314,7 @@ defaults:
       permalink: /pt_BR/:basename:output_ext
       lang: pt
   - scope:
-      path: "_pages/en_US/home.txt"
+      path: "_pages/pt_BR/home.txt"
       type: pages
     values:
       permalink: /index:output_ext
