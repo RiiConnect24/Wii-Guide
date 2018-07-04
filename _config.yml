@@ -119,6 +119,7 @@ include:
  - _pages/fr_FR
  - _pages/it_IT
  - _pages/pl_PL
+ - _pages/pt_BR
 exclude: [
   "*.sublime-project",
   "*.sublime-workspace",
@@ -307,6 +308,12 @@ defaults:
       permalink: /pl_PL/:basename:output_ext
       lang: pl
   - scope:
+      path: "_pages/pt_BR"
+      type: pages
+    values:
+      permalink: /pt_BR/:basename:output_ext
+      lang: pt
+  - scope:
       path: "_pages/en_US/home.txt"
       type: pages
     values:
@@ -331,3 +338,8 @@ defaults:
       type: pages
     values:
       permalink: /pl_PL/index:output_ext
+  - scope:
+      path: "_pages/pt_BR/home.txt"
+      type: pages
+    values:
+      permalink: /pt_BR/index:output_ext
