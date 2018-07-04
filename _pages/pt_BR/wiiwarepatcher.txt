@@ -1,4 +1,4 @@
----
+﻿---
 title: "WiiWare Patcher"
 ---
 
@@ -33,7 +33,7 @@ O processo leva alguns segundos pois o Powershell precisa iniciar. Depois de alg
 Depois de terminar o download, uma pasta chamada `WiiWare-Patcher` deverá aparecer no seu Desktop. Abra e clique no arquivo `patcher.bat`
 
 ![Main menu](/images/WiiWare-Patcher/wiiwarepatcher_mainscreen.jpg)
-(Main menu of WiiWare Patcher)
+(Menu principal do WiiWare Patcher)
 
 Pressione qualquer botão. Se uma atualização estver disponível, você deverá atualizar o WiiWare Patcher para continuar
 >A atualização leva entre 10 à 15 segundos.

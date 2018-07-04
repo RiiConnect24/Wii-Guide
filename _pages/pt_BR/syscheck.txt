@@ -20,9 +20,9 @@ Um SysCheck lista todas as IOS e cIOS that que estão no seu Wii, junto com algu
 ##### Parte II - Fazendo um SysCheck
 
 1. Espere o programa ler algumas informações sobre seu Wii.
-1. Quando aparecer uma mensagem dizendo "This IOS will be tested (Please select)" na tela, aperte A.
-![Choose IOS](/images/SysCheck/1.PNG)
+1. Quando aparecer uma mensagem dizendo "This IOS will be tested (Please select)" na tela, aperte o botão A.
+![Choose IOS](/images/SysCheck/1.png)
 1. Espere o programa ler algumas informações sobre sua IOS
 1. Quando terminar, aperte o botão `A` caso queira ver o log.
-![Completed](/images/SysCheck/2.PNG)
+![Completed](/images/SysCheck/2.png)
 1. Caso queira compartilhar o SysCheck que acabou de fazer, envie o arquivo `sysCheck.csv`, ele está no seu Cartão SD.  O arquivo `IOSsysCheck.log` (que foi salvo no Cartão SD) contém informações adcionais sobre sua IOS.
