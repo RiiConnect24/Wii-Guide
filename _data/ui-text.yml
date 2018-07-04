@@ -264,8 +264,8 @@ pt-BR:
   comment_success_msg        :
   comment_error_msg          :
   loading_label              :
-pt-PT:
-  <<: *DEFAULT_PT
+pt-BR:
+  <<: *DEFAULT_BR
 
 # Italian
 # -----------------
@@ -495,6 +495,7 @@ pl: &DEFAULT_PL
   loading_label              : "Ładowanie..."
 pl_PL:
   <<: *DEFAULT_PL
+
   
 # Another locale
 # --------------
