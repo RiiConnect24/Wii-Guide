@@ -310,9 +310,6 @@ defaults:
   - scope:
       path: "_pages/pt_BR"
       type: pages
-    values:
-      permalink: /pt_BR/:basename:output_ext
-      lang: pt
   - scope:
       path: "_pages/en_US/home.txt"
       type: pages
@@ -342,4 +339,5 @@ defaults:
       path: "_pages/pt_BR/home.txt"
       type: pages
     values:
-      permalink: /pt_BR/index:output_ext
+      permalink: /pt_BR/:basename:output_ext
+      lang: pt
