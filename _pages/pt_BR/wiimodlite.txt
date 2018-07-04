@@ -27,7 +27,7 @@ Esse tutorial irá lhe ensinar como instalar Wii Mod Lite e IOS no seu Wii.
 
 1. Escolha `WAD Manager`.
 ![WAD Manager](/images/WiiModLite/2.png)
-1. Choose `Wii SD Slot`.
+1. Escolha `Wii SD Slot`.
 ![Wii SD Slot](/images/WiiModLite/3.png)
 1. Você deverá ver 2 arquivos. Selecione os dois e aperte o botão + no seu Wii Remote.
 ![Select them](/images/WiiModLite/4.gif)

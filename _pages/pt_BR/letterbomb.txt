@@ -6,7 +6,7 @@ title: "LetterBomb"
 
 ![LetterBomb](/images/letterbomb.png)
 
-LetterBomb é um exploit para o Wii que é ativado usando Mails do Wii.
+LetterBomb é um exploit para o Wii que é ativado usando a Wii Message Board.
 
 #### Você precisará de
 * Um Wii com a versão do sistema 4.3

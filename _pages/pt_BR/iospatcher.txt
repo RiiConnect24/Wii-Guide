@@ -36,7 +36,7 @@ Aperte qualquer botão e espere...
 Ao terminar a instalação, uma pasta chamada `IOS-Patcher` deverá aparecer no seu Desktop. Abra e clique no arquivo `patch.bat`
 
 ![Main menu](/images/IOS-Patcher/iospatcher_mainscreen.jpg)
-(Main menu of IOS Patcher)
+(Menu principal do IOS Patcher)
 
 Aperte qualquer botão. Se uma atualização estiver disponível, IOS Patcher irá pedir para atualizar.
 >A atualização leva de 10 - 15 segundos - dependendo da sua conexão e computador.
