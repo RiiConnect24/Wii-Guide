@@ -23,7 +23,7 @@ For the Everybody Votes Channel, you can delete the save file if you want or mov
 {: .notice--info}
 
 1. You will now get the Everybody Votes Channel. It needs to be installed **even if you already have the Everybody Votes Channel on your Wii, because you will need a patched WAD you reinstall with**.
-1. If you are on Windows, please download the [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases) and run it. Unfortunately, if you are a MacOS or Linux user, you need to contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) to get the download link to Everybody Votes Channel.
+1. Please download the [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases). If you will have problems running it, please contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) to get the download link to Everybody Votes Channel.
 1. Run RiiConnect24Patcher.bat on your computer
 1. Follow the instructions that the patcher will give you.
 1. After the patching is done, if the patcher didn't copied Everybody Votes Channel to your SD Card, do it manually.
