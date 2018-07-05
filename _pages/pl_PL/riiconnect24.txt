@@ -22,17 +22,7 @@ Aby zainstalować RiiConnect24, twoje Wii musi być na wersji systemu 4.3 - inac
 * Karta SD z przynajmniej 128MB wolnej przestrzeni.
 * Komputer (każdy system operacyjny)
 
-Jeżeli korzystasz z Windowsa, wystarczy że pobierzesz RiiConnect24 Patcher
-{: .notice--info}
-
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
-
-Jeżeli korzystasz z Mac'a lub Linux'a, musisz pobrać wszystko co widzisz poniżej:
-{: .notice--info}
-
-* [IOS Patcher](https://github.com/RiiConnect24/IOS-Patcher/releases)
-* [RiiConnect24 Mail Patcher](https://github.com/RiiConnect24/Mail-Patcher/releases)
-* [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
 #### Instrukcje
 
@@ -46,10 +36,9 @@ Jeżeli korzystasz z Mac'a lub Linux'a, musisz pobrać wszystko co widzisz poni�
 
 Zastosujemy teraz poprawkę na IOS `31` oraz `80`. Jest to wymagane aby korzystać z kanałów które wspieramy. Musimy zmienić klucz RSA który jest wymagany do podpisania plików przez nas, te poprawki również zawierają kilka rzeczy wymaganych do działania Wii Mail. Pobierzesz również Everybody Votes Channel.
 
-1. Pobierz wymagane pliki dla twoje systemu operacyjnego. Dla Windows, uruchom `RiiConnect24Patcher.bat`, dla Linux'a orac Mac'a `patch.sh`.
-1. (`Jeżeli użyłeś RiiConnect24Patvher.bat do skopiowania plików, pomiń ten krok`) Podążaj za podanymi instrukcjami podanymi przez program. Po zakończeniu, skopiuj folder `WAD` na Twoją kartę SD.
+1. Pobierz wymagane pliki dla twoje systemu operacyjnego. Dla Windows, uruchom `RiiConnect24Patcher.bat`, dla Linux'a oraz Mac'a `RiiConnect24Patcher.sh`.
+1. (`Jeżeli użyłeś RiiConnect24 Patcher do skopiowania plików na kartę SD, pomiń ten krok`) Podążaj za podanymi instrukcjami podanymi przez program. Po zakończeniu, skopiuj folder `WAD` na Twoją kartę SD.
 1. Powinieneś rónież pobrać Everybody Votes Channel. Musi być zainstalowany **nawet jeśli już masz EVC na twoim Wii ponieważ musisz zainstalować wersję z poprawką.**
-1. Niestety, jeżeli korzystasz z MacOS lub Linux, musisz napisać do nas [support@riiconnect24.net](mailto:support@riiconnect24) więc wyślemy Ci link do pobrania. (Obsługa dostępna po polsku)
 1. (`Jeżeli użyłeś RiiConnect24Patvher.bat, pomiń ten krok`) Wypakuj Wii Mod Lite do folderu `apps` na Twojej karcie SD.
 1. Włóż kartę SD do Twojej Wii.
 1. Uruchom Homebrew Channel na Twojej Wii.
@@ -63,7 +52,7 @@ Zastosujemy teraz poprawkę na IOS `31` oraz `80`. Jest to wymagane aby korzysta
 
 Teraz zastosujemy poprawkę na plik `nwc24msg.cfg` który jest wymagany do korzystania z Wii Mail.
 
-1. (`Jeżeli korzystałeś z RiiConnect24Patcher.bat, ten plik powinien już być na Twojej karcie SD`). Pobierz [RiiConnect24 Mail Patcher](https://github.com/RiiConnect24/Mail-Patcher/releases) oraz wypakuj go na Twoją kartę SD.
+1. (`Jeżeli korzystałeś z RiiConnect24 Patcher, ten plik powinien już być na Twojej karcie SD`). Pobierz [RiiConnect24 Mail Patcher](https://github.com/RiiConnect24/Mail-Patcher/releases) oraz wypakuj go na Twoją kartę SD.
 1. Podłącz kartę SD do Twojej Wii.
 1. Uruchom Homebrew Channel na Twojej Wii.
 1. Uruchom RiiConnect24 Mail Patcher.
