@@ -15,7 +15,6 @@ Jeżeli chcesz użyć Everybody Votes Channel, musisz podążać za tym poradnik
 
 #### Instrukcje
 
-
 [Jeżeli potrzebujesz dokładnego opisu tego jak zainstalować Everybody Votes Channel z poprawką po jego pobraniu, naciśnij tutaj!](wiimodlite)
 {: .notice--info}
 
@@ -23,8 +22,7 @@ Dla Everybody Votes Channel, możesz skasować zapis z systemu albo przenieść 
 {: .notice--info}
 
 1. Teraz zainstalujemy Everybody Votes Channel. Nawet jeżeli masz już go zainstalowanego - musisz podążać za tym poradnikiem **nawet jeżeli masz już zainstalowane na Twoim Wii ponieważ potrzebujesz wersję z poprawką**.
-1. Niestety, jeżeli korzystasz z MacOS lub Linux, musisz napisać do nas [support@riiconnect24.net](mailto:support@riiconnect24) więc wyślemy Ci link do pobrania. (Obsługa dostępna po polsku)
-1. Uruchom RiiConnect24Patcher.bat na Twoim komputerze.
+1. Uruchom RiiConnect24 Patcher na Twoim komputerze.
 1. Podążaj za instrukcjami jakie Ci poda progrma.
 1. Po zakończonym patchowaniu, jeżeli patcher nie skopiował Everybody Votes Channel na Twoją kartę SD, zrób to ręcznie.
 1. Podłącz kartę SD do Twojej Wii, otówrz Homebrew Channel oraz uruchom Wii Mod Lite.
