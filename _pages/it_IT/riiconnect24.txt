@@ -21,11 +21,8 @@ Per installare RiiConnect24 la tua Wii deve essere aggiornata alla 4.3, altrimen
 * Una Wii con una connessione Internet
 * Una SD con un minimo di 128 MB liberi
 * Un PC (con qualsiasi OS)
-* [RiiConnect24 Patcher per Windows](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
-* [IOS Patcher per Mac o Linux](https://github.com/RiiConnect24/IOS-Patcher/releases)
-* [Link per scaricare Everybody Votes Channel (verrà spiegato nella guida)](http://bfy.tw/FM3k)
-* [RiiConnect24 Mail Patcher](https://github.com/RiiConnect24/Mail-Patcher/releases)
-* [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+
+* [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### Istruzioni
 
@@ -39,11 +36,11 @@ Per installare RiiConnect24 la tua Wii deve essere aggiornata alla 4.3, altrimen
 
 Ora stai per patchare i tuoi IOS, `l'IOS31` e `l'IOS80`. Questo è necessario per utilizzare i canali che supportiamo per modificare una chiave RSA utilizzata per firmare i file e contiene alcune patch per Wii Mail. Scarica anche una versione patchata dell'Everybody Votes Channel.
 
-1. Scarica il [Patcher per RiiConnect24 per Windows](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases) e l'[IOS Patcher per Mac/Linux](https://github.com/RiiConnect24/IOS-Patcher/releases). Su Windows esegui `RiiConnect24Patcher.bat`, su Linux e MacOS esegui `patch.sh`
+1. Scarica i file richiesti a seconda del tuo OS. Su Windows esegui `RiiConnect24Patcher.bat`, su Linux e MacOS esegui `patch.sh`
 1. Segui le istruzioni che ti dà. Al termine, copia la cartella `WAD` nella scheda SD.
 1. Dovresti ottenere il canale Everybody Votes. Deve essere installato **anche se hai già il canale Everybody Votes sulla tua Wii, perché avrai bisogno di un WAD patchato da reinstallare**.
-1. Su Windows, esegui `RiiConnect24Patcher.bat` e segui le istruzioni per scaricare tutto ciò di cui hai bisogno, incluso l'Everybody Votes Channel. Sfortunatamente, se sei su MacOS o su Linux, devi contattarci all'indirizzo [support@riiconnect24.net](mailto: support@riiconnect24.net) in modo che possiamo inviarti un link per il download.
-1. (`Se hai usato RiiConnect24Patcher.bat, salta questo passaggio!`) Estrai Wii Mod Lite e copialo nella cartella `apps` sulla tua SD.
+
+1. (`Se RiiConnect24Patcher ha copiato tutto sulla SD, salta questo passaggio!`) Estrai Wii Mod Lite e copialo nella cartella `apps` sulla tua SD.
 1. Inserisci la tua SD nella tua Wii.
 1. Avvia l'Homebrew Channel sulla tua Wii.
 1. Avvia Wii Mod Lite.
@@ -56,13 +53,13 @@ Ora stai per patchare i tuoi IOS, `l'IOS31` e `l'IOS80`. Questo è necessario pe
 
 Ora patcherai il file `nwc24msg.cfg` che è necessario per usare Wii Mail.
 
-1. (`Se hai usato RiiConnect24Patcher.bat, dovrebbe essere già nella tua SD`) Scarica [RiiConnect24 Mail Patcher](https://github.com/RiiConnect24/Mail-Patcher/releases) ed estrailo nella tua SD .
-1. Inserisci la tua scheda SD nella tua Wii.
-1. Avvia l'Homebrew Channel sulla tua Wii.
-1. Avvia RiiConnect24 Mail Patcher.
+1. Lancia RiiConnect24 Mail Patcher.
 1. Dovrebbero essere necessari solo pochi secondi per patchare il file nwc24msg.cfg. Al termine, premere HOME per uscire.
 
-Se qualcosa è andato storto, mandaci una mail a [support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se dopo gli step precedenti ottieni l'errore ``net_get_status: -24 - Couldn't request the data: -24` error, controlla la connessione sulla tua Wii.
+{: .notice--warning}
+
+Se non riesci a patchare correttamente il file, mandaci una mail a [support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ##### Sezione 3 - Connessione
