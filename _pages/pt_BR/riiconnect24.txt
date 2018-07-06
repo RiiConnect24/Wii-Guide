@@ -22,17 +22,7 @@ Para instalar RiiConnect24 seu Wii deve estar na versão 4.3, caso contrário a 
 * Um Cartão SD com pelo menos 128MB de espaço livre
 * Um computador (qualquer SO)
 
-Se você estiver no Windows, só será necessário baixar o patcher de RiiConnect24:
-{: .notice--info}
-
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
-
-Se você estiver no Mac ou Linux, será necessário baixar os seguintes programas:
-{: .notice--info}
-
-* [IOS Patcher](https://github.com/RiiConnect24/IOS-Patcher/releases)
-* [RiiConnect24 Mail Patcher](https://github.com/RiiConnect24/Mail-Patcher/releases)
-* [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
 #### Instruções
 
@@ -49,8 +39,7 @@ Agorá você ira fazer patch na IOS, `IOS31` e `IOS80`. Isso é necessário para
 1. Faça download dos arquivos necessários para seu Sistema Operacional. No Windows abra `RiiConnect24Patcher.bat`, No Linux e MacOS abra `patch.sh`.
 1. Siga as intruções que o aplicativo dá. Ao terminar, copie a pasta `WAD` para seu Cartão SD.
 1. Você deverá baixar Everybody Votes Channel. É necessário ser instalado **mesmo que já tenha Everybody Votes Channel em seu Wii, pois você usará uma WAD modificada para funcionar com RiiConnect24**.
-1. Infelizmente, se você estiver no MacOS ou Linux, será necessário nos contatar em [support@riiconnect24.net](mailto:support@riiconnect24.net) para que possamos te enviar um link de download do Everybody Votes Channel.
-1. (`Se você usou RiiConnect24Patcher.bat, pule este passo`) Extraia Wii Mod Lite, e coloque na pasta `apps` do seu Cartão SD.
+1. (`Caso o Patcher de RiiConnect24 já tenha copiado tudo para seu Cartão SD, pule este passo`) Extraia Wii Mod Lite, e coloque na pasta `apps` do seu Cartão SD. Faça o mesmo para Mail-Patcher.
 1. Insira seu Cartão SD no Wii.
 1. Abra o Homebrew Channel no Wii.
 1. Abra Wii Mod Lite.
