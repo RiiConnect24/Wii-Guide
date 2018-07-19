@@ -10,7 +10,7 @@ title: "RiiConnect24"
 
 Póki co, RiiConnect24 nie wspiera Wii U dlatego proszę, nie instaluj tego na Wii U.
 <br>
-Obecnie, wspieramy tylko News Channel, Forecast Channel oraz Everybody Votes Channel ale inne kanały [sprawdź stronę rozwoju](https://rc24.xyz/stats/index.html) są tworzone.
+Obecnie, wspieramy tylko News Channel, Forecast Channel oraz Everybody Votes Channel ale inne kanały [(`sprawdź stronę rozwoju`)](https://rc24.xyz/stats/index.html) są tworzone.
 {: .notice--warning}
 
 Aby zainstalować RiiConnect24, twoje Wii musi być na wersji systemu 4.3 - inaczej Wii Mail nie będzie działał.
@@ -39,7 +39,7 @@ Zastosujemy teraz poprawkę na IOS `31` oraz `80`. Jest to wymagane aby korzysta
 1. Pobierz wymagane pliki dla twoje systemu operacyjnego. Dla Windows, uruchom `RiiConnect24Patcher.bat`, dla Linux'a oraz Mac'a `RiiConnect24Patcher.sh`.
 1. (`Jeżeli użyłeś RiiConnect24 Patcher do skopiowania plików na kartę SD, pomiń ten krok`) Podążaj za podanymi instrukcjami podanymi przez program. Po zakończeniu, skopiuj folder `WAD` na Twoją kartę SD.
 1. Powinieneś rónież pobrać Everybody Votes Channel. Musi być zainstalowany **nawet jeśli już masz EVC na twoim Wii ponieważ musisz zainstalować wersję z poprawką.**
-1. (`Jeżeli użyłeś RiiConnect24Patvher.bat, pomiń ten krok`) Wypakuj Wii Mod Lite do folderu `apps` na Twojej karcie SD.
+1. (`Jeżeli użyłeś RiiConnect24Patcher.bat, pomiń ten krok`) Wypakuj Wii Mod Lite do folderu `apps` na Twojej karcie SD.
 1. Włóż kartę SD do Twojej Wii.
 1. Uruchom Homebrew Channel na Twojej Wii.
 1. Uruchom Wii Mod Lite.
@@ -57,7 +57,6 @@ Teraz zastosujemy poprawkę na plik `nwc24msg.cfg` który jest wymagany do korzy
 1. Uruchom Homebrew Channel na Twojej Wii.
 1. Uruchom RiiConnect24 Mail Patcher.
 1. Ten krok powinien zająć kilka sekund. Kiedy będzie gotowe, naciśnij HOME aby się cofnąć.
-1. It should only take a few seconds to patch your nwc24msg.cfg. When it's done, press HOME to exit.
 
 Jeżeli poprzedni krok zakończył się błędem `net_get_status: -24 - Couldn't request the data: -24` proszę sprawdzić Twoje połączenie z internetem na konsoli.
 {: .notice--warning}
