@@ -37,6 +37,7 @@ sitemap: false
 + [Installing RSSMii](rssmii)
 + [Removing RSSMii](rssmii-remove)
 + [Performing a SysCheck](syscheck)
++ [Installing Wii Themes](themes)
 
 **Site**
 + [Home](/)
