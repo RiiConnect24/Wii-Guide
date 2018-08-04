@@ -12,6 +12,9 @@ In the case of a brick, [installing Priiloader is a must](/priiloader). Also, in
 Do not install a custom theme on vWii (Wii U)!
 {: .notice--warning}
 
+For safety purposes, please do not use any other version of MyMenuify than the ones listed here, as MyMenuify Mod is the safest way to install a theme.
+{: .notice--info}
+
 #### What you need
 * A Wii
 * An SD card with at least 128 MB of free space
