@@ -6,7 +6,7 @@ title: "RiiConnect24"
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-[RiiConnect24](https://rc24.xyz/) RiiConnect24 ti consente di utilizzare i canali News e Forecast, scambiare mail tra Wii e PC, votare sui sondaggi e altre funzionalità di WiiConnect24. Sostituisce il non più funzionante sistema WiiConnect24.
+[RiiConnect24](https://rc24.xyz/) ti consente di utilizzare i canali News e Forecast, scambiare mail tra Wii e PC, votare sui sondaggi e altre funzionalità di WiiConnect24. Sostituisce il non più funzionante sistema WiiConnect24.
 
 Allo stato attuale, RiiConnect24 non supporta ancora la Wii U, quindi per favore non installarlo su una Wii U.
 <br>
