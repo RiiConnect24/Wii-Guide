@@ -21,7 +21,7 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 #### Instructions
 
 1. Extract Auto Wiimmfi Patcher and put it in the `apps` folder on your SD Card.
-1. Insert your SD Card into your Wii, and launch Auto Wiimmfi Patcher from the Homebrew Channel.
+1. Insert your SD Card into your Wii, and launch Auto Wiimmfi Patcher from the Homebrew Channel like any normal Homebrew application.
 1. Insert your game disc (you can insert it before or after launch, it doesn't matter).
 1. Wait for patch to complete, and it'll begin!
 
@@ -30,6 +30,7 @@ Thanks to Fullmetal5's FlashHax, MrBean35000vr created a Wiimmfi Disc patcher fo
 
 #### What do you need
 * Internet Channel
+* Internet Connection (obviously)
 
 #### Instructions
 
@@ -44,6 +45,7 @@ Thanks to Fullmetal5's FlashHax, MrBean35000vr created a Wiimmfi Disc patcher fo
 ## ISO Patching
 You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
 
+If you store and load your games from an SD Card this should work also.
 #### What you need
 * Your copy of your game (WBFS, ISO, cISO, and other forms that a Wii can use are supported).
 * Wiimm's Disc Patcher: You need [this](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v3.7z) one if you're patching Mario Kart Wii, [this](https://github.com/RiiConnect24/ACW-Patcher/releases) one if you are patching Animal Crossing Wii, or [this](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v3.7z) one for other Wii games such as Super Smash Bros: Brawl.
@@ -52,10 +54,10 @@ You may not want to run a patcher each time you want to play on Wiimmfi, and may
 #### Instructions
 1. Extract the patcher of your choise to a folder, and place your copy of the game in it.
 1. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux.
-1. Once it's finished, get the version out of the `wiimmfi-images` folder (it may be in the folder before the patcher - ../wiimmfi-images) and copy it back to your USB.
+1. Once it's finished, get the version out of the `wiimmfi-images` folder (it may be in the folder before the patcher - ../wiimmfi-images) and copy it back to your USB in the same folder you got it from, and make sure the file has the same name as before you patched it.
 
 ## On the Fly Patching
-Instead of patching the ISO you can use a USB loader which supports Wiimmfi.
+Instead of patching the ISO you can use a USB loader which supports Wiimmfi. You do not need to do this every time you load the game. As long as you load the game from the USB loader you configured, it will be patched.
 
 #### What you need
 * Your copy of your game on your USB.
@@ -93,16 +95,16 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
 1. Extract Mario Kart Wii Competition Patcher and put it in the `apps` folder on your SD Card.
 1. Insert your SD Card into the Wii.
-1. Launch the original Mario Kart Wii game (not Wiimmfi patched).
+1. Launch the original Mario Kart Wii game (not Wiimmfi patched). If you don't have the unpatched game, you can also load an unpatched version of the Mario Kart Channel.
 1. Navigate to Settings -> Network Settings (or Nintendo WFC Connection) -> Message Service. If you turned the message service feature on, turn it off and turn it on again.
-1. Launch Mario Kart Wii Competition Patcher.
+1. Open the Homebrew Channel and launch Mario Kart Wii Competition Patcher like any normal homebrew app.
 1. The patcher will look for save files for Mario Kart Wii on your storage device in various places, and upload them. This is done in case a missing competition is found in your save file. It will also, of course, patch your Wii for competitions.
 
 If you're using the Wii U, you will have to run the competitions patcher whenever you want to check for a competition, because WiiConnect24 is not enabled on the Wii U.
 {: .notice--info}
 
 ## CTGP-R (Mario Kart Wii)
-MrBean35000vr and Chadderz have an amazing CTGP-R distribution, the application that allows you to use a set of custom tracks, has automatic Wiimmfi patching. Go to the [ChadSoft Website](http://chadsoft.co.uk) for the download and instructions.
+MrBean35000vr and Chadderz have an amazing CTGP-R distribution, the application that allows you to use a set of custom tracks, has automatic Wiimmfi patching. Go to the [ChadSoft Website](http://chadsoft.co.uk) for the download and instructions. Do note that you must use a Mario Kart Wii disc in order to use CTGP-R, you cannnot USB load it
 
 ## MKW Hack Pack (Mario Kart Wii)
 Huili has put together a really good collection of custom tracks and hacks called MKW Hack Pack, and it allows you to connect to Wiimmfi. To learn how to set it up, go to the [wiki page](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
