@@ -17,7 +17,6 @@ If you want to install homebrew on vWii, [follow this tutorial](https://wiiu.hac
 - [FlashHax](flashhax) - Exploit that uses the Internet Channel (No SD Card required)
 - [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board (SD Card required)
 
-
 Some alternatives to this guide are [ModMii (if you have Windows)](https://sourceforge.net/projects/modmii/) or [SetMiiUp](https://gbatemp.net/threads/setmiiup-from-stock-to-latest-softmod-in-less-then-5-10-minutes.459416/).
 Both of these allow you to get started via a guide, however they do not install other services by default, which this guide shows.
 {: .notice--info}
