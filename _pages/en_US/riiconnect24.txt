@@ -6,7 +6,7 @@ title: "RiiConnect24"
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-[RiiConnect24](https://rc24.xyz/) allows you to use the News or Forecast Channel, exchange mail between Wiis and PC, vote on polls, and other WiiConnect24 features. It replaces the built-in WiiConnect24 system.
+[RiiConnect24](https://rc24.xyz/) allows you to use the News or Forecast Channel, exchange mail between Wiis and PC, vote on polls, and use other WiiConnect24 features. It replaces the built-in WiiConnect24 system.
 
 As it stands, RiiConnect24 does not support the Wii U yet, so please do not install it on a Wii U yet.
 <br>
@@ -39,7 +39,6 @@ You will now patch your IOS, `IOS31` and `IOS80`. This is required to use the Ch
 1. Download the required files based on your OS. On Windows run `RiiConnect24Patcher.bat`, on Linux and MacOS run `patch.sh`.
 1. Follow the instructions it gives you. Upon it finishing, copy the `WAD` folder to your SD Card.
 1. You should get the Everybody Votes Channel. It needs to be installed **even if you already have the Everybody Votes Channel on your Wii, because you will need a patched WAD you reinstall with**.
-
 1. (`If RiiConnect24 Patcher copied everything to the SD Card, you can skip this step`) Extract Wii Mod Lite, and then copy it to the `apps` folder on your SD Card. Do the same for Mail-Patcher.
 1. Put your SD Card in your Wii.
 1. Launch the Homebrew Channel on your Wii.
@@ -59,13 +58,14 @@ You will now patch your `nwc24msg.cfg` file which is required in order to use Wi
 If the previous step failed with an ``net_get_status: -24 - Couldn't request the data: -24` error, please check the internet connection on your Wii.
 {: .notice--warning}
 
-
 If you were unable to patch your nwc24msg.cfg correctly, e-mail us at [support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ##### Section III - Connecting
 
-1. Goto `Wii Options`.
+You need to set your DNS in order to get the Forecast and News Channel to point to our servers. This DNS is also useful if you want to play Wiimmfi.
+
+1. Go to `Wii Options`.
 ![Wii Options](/images/RiiConnect24/Internet_1.png)
 1. Go to `Wii Settings`.
 ![Wii Settings](/images/RiiConnect24/Internet_2.png)
@@ -101,7 +101,7 @@ If you were unable to patch your nwc24msg.cfg correctly, e-mail us at [support@r
 ![Slot Illumination 1](/images/RiiConnect24/Internet_19.png)
 ![Slot Illumination 2](/images/RiiConnect24/Internet_20.png)
 ![Slot Illumination 3](/images/RiiConnect24/Internet_22.png)
-1. Finally, go to the `Internet` section, then `User Agreements or Agreement/Contact`, then `Yes`.<br>
+1. Finally, go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`.<br>
    Please read through this and don't skip through it. This contains important stuff about RiiConnect24 as a service!
 ![User Agreements 1](/images/RiiConnect24/Internet_23.png)
 ![User Agreements 2](/images/RiiConnect24/Internet_24.png)
@@ -109,7 +109,7 @@ If you were unable to patch your nwc24msg.cfg correctly, e-mail us at [support@r
 If you get error 107245, then you probably have failed to patch your IOS correctly.
 {: .notice--info}
 
-[If you get error FORE000006, you might want to follow this tutorial to fix it.](riiconnect24-batteryfix)
+[If you get error FORE000006, you might want to follow this tutorial to fix it. (This doesn't work with NEWS000006).](riiconnect24-batteryfix)
 {: .notice--warning}
 
 [If you're getting errors such as a discontinued message when opening the News or Forecast Channel, we have some instructions that might fix it.](riiconnect24-troubleshooting)
