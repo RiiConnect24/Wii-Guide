@@ -77,7 +77,7 @@ If you were unable to patch your nwc24msg.cfg correctly, e-mail us at [support@r
 ![Current Connection](/images/RiiConnect24/Internet_5.png)
 1. Go to `Change Settings`.
 ![Change Settings](/images/RiiConnect24/Internet_6.png)
-1. Go to `Auto-Obtain DNS` (`Not IP Address`), then select `No`, then `Advanced Settings`.
+1. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`.
 ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
 1. Type in `164.132.44.106` as the primary DNS.
 ![Primary DNS](/images/RiiConnect24/Internet_8.png)
