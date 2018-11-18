@@ -9,9 +9,8 @@ This tutorial will explain you how to install Wii Mod Lite and IOS on your Wii.
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
 #### What you need
-* And SD Card with at least 128 MB of free space.
-* Internet access on your computer.
-* [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases).
+* And SD Card
+* [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
 #### Instructions
 

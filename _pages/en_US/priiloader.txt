@@ -9,8 +9,7 @@ Priiloader adds a level of brick protection to your Wii. It loads before the Wii
 ![Priiloader](/images/priiloader.jpg)
 
 #### What you need
-* An SD Card with at least 128 MB of free space.
-* Internet access on your computer.
+* An SD Card
 * [Priiloader](/assets/files/Priiloader_v0_8_2.zip)
 
 #### Instructions

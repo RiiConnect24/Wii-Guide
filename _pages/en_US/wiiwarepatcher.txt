@@ -13,7 +13,6 @@ This tutorial is only for Windows version of WiiWare Patcher.
 
 #### What you need
 
-* Internet access
 * A computer
 
 #### Downloading

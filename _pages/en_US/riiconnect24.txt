@@ -18,8 +18,8 @@ In order to install RiiConnect24 you must be on Wii Menu version 4.3, otherwise 
 
 #### What you need
 
+* An SD card
 * A Wii with an Internet connection
-* An SD card with at least 128 MB of free space
 * A computer (any OS)
 
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)

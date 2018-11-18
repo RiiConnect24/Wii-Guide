@@ -9,8 +9,8 @@ title: "LetterBomb"
 LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
 
 #### What you need
+* An SD card
 * A Wii on system version 4.3
-* An SD card with at least 128 MB of free space
 
 #### Instructions
 

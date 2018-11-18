@@ -12,8 +12,7 @@ For security reasons, existing RiiConnect24 users need to repatch their nwc24msg
 {: .notice--info}
 
 #### What you need
-* An SD Card with at least 128 MB of free space.
-* Internet access on your computer.
+* An SD Card
 * [RiiConnect24 Mail Patcher](https://github.com/RiiConnect24/Mail-Patcher/releases)
 
 #### Instructions

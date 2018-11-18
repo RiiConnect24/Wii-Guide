@@ -14,8 +14,7 @@ Wiimmfi is a replacement service for the now-defunct Nintendo Wi-Fi Connection.
 MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
 
 #### What you need
-* An SD card.
-* Homebrew Channel (you should already have this installed)
+* An SD card
 * [Auto Wiimmfi Patcher](/assets/files/autowiimmfipatcher0.5.zip)
 
 #### Instructions
@@ -28,7 +27,8 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 ## No-Homebrew (Disc)
 Thanks to Fullmetal5's FlashHax, MrBean35000vr created a Wiimmfi Disc patcher for the Internet Channel.
 
-#### What do you need
+#### What you need
+* A Wii with an Internet connection
 * Internet Channel
 
 #### Instructions
@@ -71,7 +71,8 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 
 #### What you need
 
-- Your copy of your game (in WAD format).
+- An SD card
+- Your copy of your game (in WAD format)
 - [Auto WiiWare Patcher](https://github.com/RiiConnect24/auto-wiiware-patcher/releases)
 - [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
@@ -87,6 +88,8 @@ Steps:
 Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
 #### What you need
+
+* An SD card
 * Mario Kart Wii Competition Patcher [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip) / [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
 #### Instructions (for Wii)

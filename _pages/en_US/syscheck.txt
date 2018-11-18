@@ -7,7 +7,8 @@ title: "SysCheck"
 A SysCheck lists all the IOS and cIOS that are on your Wii, along with some information about each of them. It also gives you some other useful information. When you have IOS-related problems on your Wii, someone might ask you to do a SysCheck.
 
 #### What you need
-* An SD Card with at least 128 MB of free space.
+
+* An SD Card
 * [SysCheck HacksDen Edition](http://www.hacksden.com/downloads.php?do=file&id=149)
 
 #### Instructions
