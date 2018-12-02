@@ -29,6 +29,7 @@ sitemap: false
 + [cIOS](cios)
 + [LetterBomb](letterbomb)
 + [Flashhax](flashhax)
++ [str2hax](str2hax)
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
