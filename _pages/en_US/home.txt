@@ -33,7 +33,7 @@ Here's a list of things you can do with it. Our guide is meant for you to easily
 + Make backups of your Wii/GameCube games with [CleanRip](http://wiibrew.org/wiki/CleanRip).
 + Backup and restore a copy of your Wii system memory (NAND) with [BootMii](http://bootmii.org);
 + Protect your Wii from bricks with [Priiloader](https://wii.guide/priiloader);
-+ Listen to music, watch movies and view photos with [WiiMC](http://www.wiimc.org/), and watch YouTube videos with [a special version](/assets/files/WiiMC.1.3.4.YT.zip);
++ Listen to music, watch movies and view photos with [WiiMC](http://www.wiimc.org/);
 + Launch your favorite homebrew apps from your Wii Menu with "forwarders";
 + Participate in Mario Kart Wii competitions again using [Wiimmfi Competitions](https://competitions.wiimmfi.de)
 + And more!
