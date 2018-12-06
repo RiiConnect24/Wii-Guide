@@ -15,7 +15,7 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 
 #### What you need
 * An SD card
-* [Auto Wiimmfi Patcher](/assets/files/autowiimmfipatcher0.5.zip)
+* [Auto Wiimmfi Patcher](/assets/files/autowiimmfipatcher-0.6.zip)
 
 #### Instructions
 
@@ -46,25 +46,13 @@ You may not want to run a patcher each time you want to play on Wiimmfi, and may
 
 #### What you need
 * Your copy of your game (WBFS, ISO, cISO, and other forms that a Wii can use are supported).
-* Wiimm's Disc Patcher: You need [this](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v3.7z) one if you're patching Mario Kart Wii, [this](https://github.com/RiiConnect24/ACW-Patcher/releases) one if you are patching Animal Crossing Wii, or [this](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v3.7z) one for other Wii games such as Super Smash Bros: Brawl.
+* Wiimm's Disc Patcher: You need [this](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip) one if you're patching Mario Kart Wii, [this](https://github.com/RiiConnect24/ACW-Patcher/releases) one if you are patching Animal Crossing Wii, or [this](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z) one for other Wii games such as Super Smash Bros: Brawl.
 * A USB Loader, cIOS, and a USB to store the game on (you should already have these if you're using a USB Loader)
 
 #### Instructions
-1. Extract the patcher of your choise to a folder, and place your copy of the game in it.
+1. Extract the patcher of your choice to a folder, and place your copy of the game in it.
 1. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux.
 1. Once it's finished, get the version out of the `wiimmfi-images` folder (it may be in the folder before the patcher - ../wiimmfi-images) and copy it back to your USB.
-
-## On the Fly Patching
-Instead of patching the ISO you can use a USB loader which supports Wiimmfi.
-
-#### What you need
-* Your copy of your game on your USB.
-* A USB loader which supports setting a Private WFC server like [USB Loader GX](https://sourceforge.net/projects/usbloadergx/).
-
-#### Instructions (for USB Loader GX)
-1. On the loader's main screen, go to Settings (the gear icon).
-1. Select Loader settings.
-1. Search "Private Server" and change it to Wiimmfi.de.
 
 ## WiiWare Patching
 You can patch WiiWare games in order to play them on Wiimmfi.
