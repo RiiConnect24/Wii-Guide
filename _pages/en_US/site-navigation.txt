@@ -25,6 +25,7 @@ sitemap: false
 
 **Modding 101**
 + [Homebrew Channel](hbc)
+* [BootMii Backup](bootmii)
 + [Priiloader](priiloader)
 + [cIOS](cios)
 + [LetterBomb](letterbomb)
