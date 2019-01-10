@@ -35,6 +35,6 @@ BootMii is a piece of software that can backup and restore your Wii's NAND stora
 
 8. Once done, exit.
 
-[Continue to BootMii Backup](backbootmup)<br>
+[Continue to BootMii Backup](bootmii)<br>
 Making a backup with BootMii is a good idea,
 {: .notice--info}
