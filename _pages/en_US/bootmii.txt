@@ -4,6 +4,8 @@ title: "BootMii Backup"
 
 {% include toc title="Table of Contents" %}
 
+![BootMii Logo](/images/bootmii.png)
+
 One of BootMii's most important features is the ability to backup and restore your Wii's NAND storage. We will be going over how to perform a NAND backup. You can then restore from that backup for whatever reason. We recommend making a NAND backup regularly or before you do something risky to your console (and if you know what you're doing, you won't have to do anything risky).
 
 #### What you need
