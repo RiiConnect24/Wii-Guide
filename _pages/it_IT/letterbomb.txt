@@ -12,7 +12,7 @@ LetterBomb è un exploit per Wii attivabile usando la Wii Message Board.
 * Una Wii aggiornata alla 4.3
 * Una SD con un minimo di 128 MB liberi
 
-#### Instructions
+#### Istruzioni
 
 1. Vai nelle `Impostazioni della Wii` -> `Internet` -> `Informazioni sulla Console` e prendi nota del tuo MAC address.
 1. Vai su [please.hackmii.com](https://please.hackmii.com), Inserisci Wii MAC address e la tua regione, completa il CAPTCHA, *fai si che `Bundle the HackMii Installer for me!` sia attivato*, e clicca su "Cut the red wire" oppure su "Cut the blue wire"; puoi cliccare quale ti pare, non cambia nulla.
