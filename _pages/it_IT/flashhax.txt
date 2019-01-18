@@ -18,5 +18,5 @@ FlashHax è un exploit per Wii attivabile attraverso l'Internet Channel. A diffe
 
 Se l'HackMii Installer non carica o si blocca (non è possibile muovere il cursore), riavvia la Wii e ripeti questi 3 step finchè non carica. Potrebbero volerci molti tentativi, non mollare!
 
-[Continua l'installazione dell'Homebrew Channel](hbc)
+[Continua l'installazione dell'Homebrew Channel e di BootMii](hbc)
 {: .notice--info}
