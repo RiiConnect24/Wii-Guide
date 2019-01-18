@@ -34,6 +34,6 @@ L'Homebrew Channel è fatto per lanciare gli homebrew fatti dagli utenti.
 
 8. Una volta fatto, esci.
 
-[Continua per installare Priiloader](priiloader)<br>
-Priiloader aggiunge un ulteriore livello di protezione dai brick. Noi te lo raccomandiamo.
+[Continua per fare un backup con BootMii](bootmii)<br>
+Fare un backup con BootMii è una buona idea.
 {: .notice--info}
