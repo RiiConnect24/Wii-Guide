@@ -39,7 +39,7 @@ Questo exploit ha bisogno di impostare due DNS particolari per funzionare.
 1. Se il test ha avuto successo, seleziona `No` per saltare l'aggiornamento di sistema.
 ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)
 
-##### Section II - Triggering the Exploit
+##### Sezione 2 - Attivare l'exploit
 
 1. Vai nella sezione `Internet`, e dopo `Accordo/Contatto`, e premi `Si`.
 1. Se vedi un pony con uno sfondo azzurro chiaro sullo schermo, l'exploit ha avuto successo. Aspetta 1-2 minuti affinchè l'exploit si attivi (dovrebbe metterci circa 1 minuto e 25 secondi). L'exploit scaricherà l'HackMii Installer e potrai continuare.
