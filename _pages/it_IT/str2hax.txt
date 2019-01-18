@@ -46,5 +46,5 @@ Questo exploit ha bisogno di impostare due DNS particolari per funzionare.
 
 Se l'HackMii Installer non carica o si blocca (non è possibile muovere il cursore), riavvia la Wii e ripeti la procedura.
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[Continua l'installazione dell'Homebrew Channel e di BootMii](hbc)
 {: .notice--info}
