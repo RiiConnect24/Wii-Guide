@@ -1,5 +1,5 @@
 ---
-title: "Installazione dell'Homebrew Channel"
+title: "Installazione dell'Homebrew Channel e di Bootmii"
 ---
 
 {% include toc title="Indice" %}
@@ -7,6 +7,7 @@ title: "Installazione dell'Homebrew Channel"
 ![HBC Logo](/images/hbc.png)
 
 L'Homebrew Channel è fatto per lanciare gli homebrew fatti dagli utenti.
+BootMii è un software che puo fare un backup della NAND ed eventualmente ripristinarla e, se installato come boot2, è anche una protezione dai brick. 
 
 #### Istruzioni
 
