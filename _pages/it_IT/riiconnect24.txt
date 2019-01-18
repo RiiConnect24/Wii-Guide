@@ -100,7 +100,7 @@ Se non riesci a patchare correttamente il file, mandaci una mail a [support@riic
 ![Slot Illumination 1](/images/RiiConnect24/Internet_19.png)
 ![Slot Illumination 2](/images/RiiConnect24/Internet_20.png)
 ![Slot Illumination 3](/images/RiiConnect24/Internet_22.png)
-1. Finalmente, vai nella sezione `Internet`, e dopo `Accordi utente`, e premi `Si`.<br>
+1. Vai nella sezione `Internet`, e dopo `Accordo/Contatto`, e premi `Si`.<br>
    Leggi attentamente senza saltare questa parte. Contiene informazioni importanti su RiiConnect24!
 ![User Agreements 1](/images/RiiConnect24/Internet_23.png)
 ![User Agreements 2](/images/RiiConnect24/Internet_24.png)
