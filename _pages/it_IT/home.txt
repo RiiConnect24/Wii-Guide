@@ -28,7 +28,7 @@ Qui c'è una lista di funzioni incluse negli homebrew. La nostra guida è pensat
 + Giocare a mod di giochi come New Super Mario Bros. Wii e Mario Kart Wii;
 + Cambiare il tema della tua Wii;
 + Giocare titoli del passato con port di emulatori su Wii, come [FCE Ultra GX](https://github.com/dborth/fceugx/releases) per i giochi NES, [Snes9x GX](https://github.com/dborth/snes9xgx/releases) per i giochi SNES, e [Not64](https://github.com/Extrems/Not64/releases) per i giochi Nintendo 64;
-+ Fare backup di Mii e di salvataggi [SaveGame Manager GX](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download), p utilizzare Mii di altre persone;
++ Fare backup di Mii e di salvataggi [SaveGame Manager GX](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download), per utilizzare Mii di altre persone;
 + Giocare a titoli ufficiali GameCube da SD o USB Drive [Nintendont](https://gbatemp.net/threads/nintendont.349258/);
 + Fare backup dei tuoi giochi Wii/GameCube con [CleanRip](http://wiibrew.org/wiki/CleanRip);
 + Fare backup e flash della NAND sulla tua Wii [BootMii](http://bootmii.org);
