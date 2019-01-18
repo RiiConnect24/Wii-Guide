@@ -25,6 +25,7 @@ sitemap: false
 
 **Modding**
 + [Homebrew Channel](hbc)
++ [BootMii Backup](bootmii)
 + [Priiloader](priiloader)
 + [cIOS](cios)
 + [LetterBomb](letterbomb)
@@ -38,6 +39,7 @@ sitemap: false
 + [Installare RSSMii](rssmii)
 + [Rimuovere RSSMii](rssmii-remove)
 + [Fare un SysCheck](syscheck)
++ [Installare temi Wii](themes)
 
 **Sito**
 + [Home](/)
