@@ -4,7 +4,7 @@ title: "cIOS"
 
 {% include toc title="Indice" %}
 
-Questo tutorial ti dira come installare i cIOS (custom IOS). Questi sono richiesti per caricare i giochi con gli USB Loader. Alcuni homebrwew potrebbero funzionare meglio usando i cIOS.
+Questo tutorial ti insegnerà ad installare i cIOS (custom IOS). Essi sono richiesti per usare i giochi con gli USB Loader. Alcuni homebrew potrebbero funzionare meglio usando i cIOS.
 
 ![cIOS Logo](/images/cIOS.png)
 
