@@ -15,20 +15,20 @@ excerpt: "Una guida che ti insegnerà come moddare la tua Wii.<br />"
 
 Un [**Homebrew**](https://it.wikipedia.org/wiki/Homebrew_(informatica)) è un software non ufficiale per la tua Wii. Ti permette di lanciare degli homebrew game e delle applicazioni, inclusi emulatori e strumenti vari.
 
-Nella maggior parte dei case, eseguire gli homebrew sulla tua console è 100% gratis usando gli exploit LetterBomb o FlashHax. Ci sono anche degli homebrew che richiedono dei giochi ufficiali per essere lanciati.
+Nella maggior parte dei casi, utilizzare homebrew sulla Wii console è gratis al 100% usando gli exploit LetterBomb, FlashHax o str2hax. Ci sono anche degli homebrew che richiedono dei giochi ufficiali per essere lanciati.
 
 ## Cosa posso fare con un homebrew?
 
 Qui c'è una lista di funzioni incluse negli homebrew. La nostra guida è pensata per essere facile per i principianti, ma abbiamo comunque incluso dei link esterni.
 
 + Usare applicazioni homebrew;
-+ Giocare online di nuovo con [Wiimmfi](https://wiimmfi.de), un servizio fan-made che rimpiazza la Nintendo Wi-Fi Connection (funziona anche con molti giochi del DS)
++ Giocare online di nuovo con [Wiimmfi](https://wiimmfi.de), un servizio fan-made che rimpiazza la Nintendo Wi-Fi Connection (funziona anche con molti giochi del DS);
 + Utilizzare ancora Wii Mail insieme a Forecast, News e Everybody Votes Channel con [RiiConnect24](https://rc24.xyz) dopo la chiusura di WiiConnect24;
 + Giocare a copie di titoli ufficiali da un USB Drive usando un USB Loader;
 + Giocare a mod di giochi come New Super Mario Bros. Wii e Mario Kart Wii;
 + Cambiare il tema della tua Wii;
-+ Giocare titoli del passato con port di emulatori su Wii, come [FCE Ultra GX per i giochi NES](https://github.com/dborth/fceugx/releases), [Snes9x GX per i giochi SNES](https://github.com/dborth/snes9xgx/releases), e [Not64 per i giochi Nintendo 64](https://github.com/Extrems/Not64/releases);
-+ Fare backup di Mii e di salvataggi [SaveGame Manager GX](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download), e utilizzare Mii di altre persone;
++ Giocare titoli del passato con port di emulatori su Wii, come [FCE Ultra GX](https://github.com/dborth/fceugx/releases) per i giochi NES, [Snes9x GX](https://github.com/dborth/snes9xgx/releases) per i giochi SNES, e [Not64](https://github.com/Extrems/Not64/releases) per i giochi Nintendo 64;
++ Fare backup di Mii e di salvataggi [SaveGame Manager GX](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download), p utilizzare Mii di altre persone;
 + Giocare a titoli ufficiali GameCube da SD o USB Drive [Nintendont](https://gbatemp.net/threads/nintendont.349258/);
 + Fare backup dei tuoi giochi Wii/GameCube con [CleanRip](http://wiibrew.org/wiki/CleanRip);
 + Fare backup e flash della NAND sulla tua Wii [BootMii](http://bootmii.org);
