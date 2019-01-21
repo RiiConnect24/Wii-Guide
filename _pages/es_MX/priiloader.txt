@@ -44,28 +44,28 @@ Priiloader agrega al un nivel protección de ladrillos a tu Wii. Se carga antes 
 
 Esta es una lista de los hacks que puede habilitar con Priiloader.
 
-|                  Hackear                   |                                                                 Descripción                                                      |
-|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| Reemplazar la pantalla salud con Backmenu     | Cambia la pantalla "Salud y seguridad" a la animación que ves cuando sales de un juego para ir al menú de Wii.                      |
-| Reactivar Bannerbomb v2                 | Permite que la vulnerabilidad "Bannerbomb" utilizada en versiones anteriores del Menú Wii se use en la última versión de Wii.                            |
-| Libre Región TODO                | Habilita la región de forma gratuita para cualquier juego de Wii, incluidos los descargados.                                                                 |
-| Bloquear actualizaciones de disco                      | Elimina la pantalla "Actualización del sistema Wii" que se incluye en algunos juegos y te obliga a actualizarlos para jugar.               |
-| Región Juegos de GC gratis (Sin parche de VM)      | Habilita la región libre para juegos de GameCube.                                                                                          |
-| Región gratis Juegos  Wii                 | Habilita la región libre para juegos de Wii.                                                                                             |
-| Bloquear menú del sistema con pantalla negra     | Hace que tu Menú de Wii quede atrapado en una pantalla negra, lo que te impide poder usarlo.                                                     |
-| Quitar la verificación del disco de diagnóstico         | Elimina un cheque en la Wii para ver si un juego insertado es el "Disco de inicio de Wii".                                                 |
-| Ningún menú del sistema suena en absoluto          | Desactiva todos los efectos de sonido del menú de Wii.                                                                                           |
-| No menú del sistema música de fondo del       | Desactiva la música de fondo del menú de Wii.                                                                                                  |
-| No-Eliminar HAXX, JODI, DVDX, DISCO, DISCO, RZDx | Nintendo eliminó los canales con estas identificaciones de títulos en las actualizaciones del sistema porque eran vulnerabilidades, puedes volver a habilitarlas con esto.   |
-| Eliminar NoCopy Guardar la protección de archivos      | Nintendo eliminó los canales con estas identificaciones de títulos en las actualizaciones del sistema porque eran vulnerabilidades, puedes volver a habilitarlas con esto.                               |
-|Canales Libres de Región                    | Habilita la región libre para los canales de Wii.                                                                                            |
-| Forzar dto los juegos a correr debajo IOS249   | Los juegos en discos usan CIOS 249 como el IOS del juego.                                                                             |
-| Auto-prensa A en la pantalla de salud          | Presiona automáticamente el botón A para pasar la pantalla "Salud y seguridad".                                                   |
-| Modo de recuperación estándar de fuerza             | Le deja en un modo de recuperación donde puede iniciar discos de recuperación. Este menú fue utilizado por personas para desbloquear sus Wiis.             |
-| OSReportar a UsbGecko (ranura B)          | Le permite enviar los registros del Menú Wii a un dispositivo de depuración en la ranura de tarjeta de memoria B.                                                    |
-| Reporte a UsbGecko (GeckoOS, B)       | Le permite enviar los registros del Menú de Wii a un dispositivo de depuración en la ranura de la tarjeta de memoria B, si el Menú de Wii es lanzado por Gecko OS.           |
-| Mover Canal Disco                     | Le permite mover el Canal de disco a cualquier lugar que desee en el Menú de Wii.                                                       |
-| Bloquear en línea actualizaciones                    | Desactiva actualizando tu Wii.                                                                                                      |
+|                  Hack                   |                                                                 Descripción                                                                                                  |
+|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Replace Health Screen with Backmenu     | Cambia la pantalla "Salud y seguridad" a la animación que ves cuando sales de un juego para ir al menú de Wii.                                                               |
+| Re-Enable Bannerbomb v2                 | Permite que el exploit "Bannerbomb" utilizado en versiones anteriores del Menú Wii se use en la versión Wii.                                                                 |
+| Region Free EVERYTHING                  | Habilita la región de forma gratuita para cualquier juego de Wii, incluidos los descargados.                                                                                 |
+| Block Disc Updates                      | Elimina la pantalla "Actualización del sistema Wii" que se incluye en algunos juegos y te obliga a actualizarlos para jugar.                                                 |
+| Region Free GC Games (No VM Patch)      | Habilita la región libre para juegos de GameCube.                                                                                                                            |
+| Region Free Wii Games                   | Habilita la región libre para juegos de Wii.                                                                                                                                 |
+| Lock System Menu with Black Screen      | Hace que tu Menú de Wii quede atrapado en una pantalla negra, lo que te impide poder usarlo.                                                                                 |
+| Remove Diagnostic Disc Check            | Elimina un cheque en la Wii para ver si un juego insertado es el "Disco de inicio de Wii".                                                                                   |
+| No System Menu Sounds AT ALL            | Desactiva todos los efectos de sonido del menú de Wii.                                                                                                                       |
+| No System Menu Background Music         | Desactiva la música de fondo del menú de Wii.                                                                                                                                |
+| No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Nintendo eliminó los canales con estas identificaciones de títulos en las actualizaciones del sistema porque eran vulnerabilidades, puedes volver a habilitarlas con esto.   |
+| Remove NoCopy Save File Protection      | Le permite copiar los archivos guardados en la pantalla Administración de datos que generalmente están deshabilitados para copiar.                                           |
+| Region Free Channels                    | Habilita la región libre para los canales de Wii.                                                                                                                            |
+| Force Disc Games to run under IOS249    | Los juegos en discos usan CIOS 249 como el IOS del juego.                                                                                                                    |
+| Auto-Press A at Health Screen           | Presiona automáticamente el botón A para pasar la pantalla "Salud y seguridad".                                                                                              |
+| Force Standard Recovery Mode            | Le deja en un modo de recuperación donde puede iniciar discos de recuperación. Este menú fue utilizado por personas para desbloquear sus Wiis.                               |
+| OSReport to UsbGecko(slot B)            | Le permite enviar los registros del Menú Wii a un dispositivo de depuración en la ranura de tarjeta de memoria B.                                                            |
+| OSReport to UsbGecko(GeckoOS,B)         | Le permite enviar los registros del Menú de Wii a un dispositivo de depuración en la ranura de la tarjeta de memoria B, si el Menú de Wii es lanzado por Gecko OS.           |
+| Move Disc Channel                       | Le permite mover el Canal de disco a cualquier lugar que desee en el Menú de Wii.                                                                                            |
+| Block Online Updates                    | Desactiva la actualización de tu Wii.                                                                                                                                        |
 
 [Continuar a cIOS](cios)<br>
 Los cIOS se utilizan para jugar juegos con un cargador USB. Incluso si no quieres hacer eso, es útil para muchas aplicaciones caseras.
