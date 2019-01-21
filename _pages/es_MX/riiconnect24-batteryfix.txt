@@ -22,17 +22,17 @@ Si el código de error persiste, la hora de tu Wii puede ser incorrecta, lo que 
 
 1. Configura tu Wii a la hora correcta en la Configuración de Wii.
 1. Desenchufe su adaptador de Wii AC. Tendrá que abrir la tapa de la batería en el costado de su Wii, por lo que es posible que desee quitar todo lo que esté conectado a su Wii.
-! [Desenchufe el adaptador de CA Wii] (/images/RiiConnect24/clock/unplug.jpg)
+[Desenchufe el adaptador de CA Wii] (/images/RiiConnect24/clock/unplug.jpg)
 1. Ubica la tapa de la batería en la parte inferior de tu Wii.
-! [Cubierta de la batería] (/images/RiiConnect24/clock/batterycover.jpg)
+[Cubierta de la batería] (/images/RiiConnect24/clock/batterycover.jpg)
 1. Desatornille la tapa de la batería con su destornillador.
-! [Desatornille la batería] (http://i.imgur.com/VRRAiSk.gif)
+[Desatornille la batería] (http://i.imgur.com/VRRAiSk.gif)
 1. Deje que su Wii permanezca desconectada por un rato, sin la batería. Depende de usted cuánto tiempo debe durar. Una hora o dos puede ser suficiente para dejarlo afuera.
-! [Batería] (/images/RiiConnect24/clock/battery.jpg)
+[Batería] (/images/RiiConnect24/clock/battery.jpg)
 1. Vuelva a atornillar la tapa de la batería.
-! [Tornillo de la batería] (http://i.imgur.com/8MEy5Jo.gif)
+[Tornillo de la batería] (http://i.imgur.com/8MEy5Jo.gif)
 1. Enchufe su adaptador de Wii AC.
-! [Conecte el adaptador de CA Wii] (/images/RiiConnect24/clock/plug.jpg)
+[Conecte el adaptador de CA Wii] (/images/RiiConnect24/clock/plug.jpg)
 1. Pruebe el Canal de Noticias o Pronóstico ahora. Esperemos que funcione ahora. Si no es así, es posible que desee repetir este proceso una vez más y podría solucionarlo.
 
 ¿Todavía no tienes suerte de que funcione? Desafortunadamente, es posible que debas reformatear tu Wii para que desaparezca. Simplemente asegúrese de hacer una copia de seguridad de sus archivos guardados y Miis con [SaveGame Manager GX] (https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download).

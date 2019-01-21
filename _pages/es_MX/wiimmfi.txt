@@ -11,7 +11,7 @@ Wiimmfi es un servicio de reemplazo para la ya extinta conexión Wi-Fi de Ninten
 [Sitio de Wiimmfi's está aquí.](https://wiimmfi.de/)
 
 ## Aplicación Homebrew (Disco)
-MrBean35000vr (creador de CTGP-R, un paquete de contenido de Mario Kart Wii) creó un Disco Patcher de Wiimmfi que te permite insertar un disco y parchear el juego sobre la marcha para usarlo, aunque esto debe ejecutarse cada vez que comiences Dto.
+MrBean35000vr (creador de CTGP-R, un paquete de contenido de Mario Kart Wii) creó un Disco Patcher de Wiimmfi que te permite insertar un disco y parchear el juego sobre la marcha para usarlo, aunque esto debe ejecutarse cada vez que comiences dto.
 
 #### Que necesitas
 * Una tarjeta SD
