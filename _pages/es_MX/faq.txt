@@ -1,40 +1,40 @@
 ---
-title: "Preguntas Frecuentes"
+title: "FAQ"
 ---
 
 ![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
 
 {% capture notice-1 %}
 
-<a name="faq_latestfw" />**Q:** *Si estoy en la última versión. ¿Mi Wii es "hackeable"?*
-**A:** Sí
+<a name="faq_latestfw" />**Q:** *Estoy en la última versión del sistema. ¿Es mi dispositivo hackeable?*
+**A:** Sí. De hecho, hay vulnerabilidades disponibles para todas las versiones, excepto la 1.0.
 
-<a name="faq_risky" />**Q:** *¿Qué tan riesgoso es hackear la Wii?*
-**A:** Los bricks son *básicamente* imposibles hoy en día a menos que ignores/saltes las revisiones de seguridad.
+<a name="faq_wiiu" />**Q:** *Estoy usando el modo Wii (vWii) en una Wii U. ¿Puedo softmod lo?*
+**A:** Sí, sin embargo para vWii, debes seguir esto [guía](https://wiiu.hacks.guide)
 
-<a name="faq_support" />**Q:** *¿Si necesito ayuda, dónde la consigo?*
-**A:** Para ayuda, envíanos un correo a support@riiconnect24.net (en Inglés). O si tienes cuenta de Discord, entra a nuestro servidor de [RiiConnect24 en Discord (también en inglés)](https://discord.gg/b4Y7jfD).
+<a name="faq_risky" />**Q:** *¿Qué tan arriesgado es hackear mi consola?*
+**A:** Los ladrillos (un estado en el que algunas partes de su software de Wii no funcionan o su Wii no funciona en absoluto) ahora son * básicamente * imposibles a menos que ignore / evite todas las comprobaciones de seguridad.
 
-<a name="faq_le4gbsd" />**Q:** *¿Puedo hacer los pasos con una tarjeta SD de 4GB (o menos)?*
-**A:** ¡Por supuesto!
+<a name="faq_support" />**Q:** *¿Dónde debo ir para obtener apoyo?*
+**A:** Para soporte, envíenos un correo electrónico a support@riiconnect24.net. O si tiene una cuenta de Discord, únase a nuestro servidor de Discord en [RiiConnect24 on Discord](https://discord.gg/b4Y7jfD).
 
-<a name="faq_ge128gbsd" />**Q:** *¿Puedo usar una SD mayor a 32GB?*
-**A:** Necesitarás una tarjeta SD de 32GB o menos para ejecutar el exploit de Letterbomb/Wiibrand, pero si tienes una tarjeta de mayor capacidad funcionará.
+<a name="faq_le4gbsd" />**Q:** *¿Puedo hacer esto con una tarjeta SD de 4GB (o más pequeña)?*
+**A:** ¡Sí! De hecho, cualquier tarjeta SD con al menos 128 MB debería funcionar para ejecutar un exploit, pero para almacenar aplicaciones homebrew, se recomienda tener una tarjeta SD con al menos 2 GB.
 
-<a name="faq_movesd" />**Q:** *Cuando termine, ¿cómo muevo todos los datos a una tarjeta SD nueva?*
-**A:** Sólo cópialos, tal cual, a la nueva tarjeta.
+<a name="faq_ge128gbsd" />**Q:** *¿Puedo usar una tarjeta SD de más de 32GB?*
+**A:** Necesitará una tarjeta SD de 32GB o menos para correr el exploit LetterBomb / Wilbrand (a menos que esté usando FlashHax), pero una tarjeta SD de más de 32GB debería estar bien.
 
-<a name="faq_nopc" />**Q:** *¿Puedo realizar estos pasos sin un PC (por ejemplo, un teléfono Android)?*
-**A:** ¡Todo lo que necesitas es la posibilidad de usar tarjetas SD!
+<a name="faq_nopc" />**Q:** *¿Puedo hacer esto sin una computadora (por ejemplo, un teléfono Android)?*
+**A:** ¡Todo lo que necesita es la capacidad de colocar archivos en una tarjeta SD y una conexión a Internet!
 
-<a name="faq_error" />**Q:** *Tengo un error XXXXXX, ¿Cómo lo arreglo?*
-**A:** Para ver qué error es, visita [la página de errores de Wiimmfi (en inglés)](https://wiimmfi.de/error).
+<a name="faq_error" />**Q:** *Tengo error XXXXXX, ¿cómo solucionarlo?*
+**A:** Para verificar qué error es, por favor visite el [Página de error de Wiimmfi](https://wiimmfi.de/error).
 
-<a name="faq_console" />**Q:** *¿Puedo hacerlo en la Wii?*
-**A:** Parchear tu consola para usarse con RiiConnect24 funcionará en cualquier Wii, salvo la Wii Mini.
+<a name="faq_wiimini" />**Q:** *¿Puedo alterar mi Wii Mini?*
+**A:** No puedes modificar una Wii Mini porque no tiene una ranura para tarjeta SD y otras cosas.
 
-<a name="faq_dolphin" />**Q:** *¿Puedo realizar estos pasos en el emulador Dolphin?*
-**A:** Desafortunadamente, Wii Mail, y los canales Tiempo y Noticias no funcionan en el emulador Dolphin.
+<a name="faq_dolphin" />**Q:** *¿Puedo instalar RiiConnect24 en Dolphin?*
+**A:** Desafortunadamente, RiiConnect24 no funciona en Dolphin debido a la forma en que se emula el procesador de la Wii. Sabemos que la gente está interesada en que funcione con Dolphin, por lo que podría funcionar en el futuro.
 
 {% endcapture %}
 

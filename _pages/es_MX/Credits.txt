@@ -1,16 +1,16 @@
 ---
-title: "Credits"
+title: "Creditos"
 ---
 
-**Agradecimientos especiales a [todos los miembros de RiiConnect24 en Discord](https://discord.gg/b4Y7jfD) Por su apoyo!**
+**¡Gracias especiales a todos de [los miembros de la discordia RiiConnect24](https://discord.gg/b4Y7jfD) por ser genial!**
 {: .notice--primary}
 
-En caso de olvidarte, contactáctanos y añadiremos tu nombre.
+Si te olvidamos aquí, contáctanos y agregaremos tu nombre.
 
 {% capture notice-1 %}
 
     + Actar
-    + Todo el equipo de RiiConnect24
+    + All RiiConnect24 Developers
     + fail0verflow
     + GiantPune
     + JoostinOnline

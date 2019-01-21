@@ -2,33 +2,35 @@
 title: "CleanRip"
 ---
 
-{% include toc title="Tabla de contenidos" %}
+{% include toc title="Tabla de contenido" %}
 
-¿Quieres hacer un respaldo (backup) de tus juegos? Este tutorial te ayudará a usar CleanRip.
+¿Quieres hacer copias de seguridad de tus juegos? Este tutorial le explicará cómo usar CleanRip.
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-#### ¿Qué necesitas?
+#### Que necesitas
 
 * Una Wii con conexión a Internet
-* Una tarjeta SD o un USB con al menos 4.4 GB de espacio libre.
+* Una tarjeta SD o unidad USB con al menos 4.7 GB de espacio libre
 * [CleanRip](/assets/files/CleanRip-v2.0.0.zip)
 
-#### Instruciones
+#### Instrucciones
 
-##### Sección I - "Ripping" (Respaldar)
+##### Sección I - Descarga / Instalación
 
-1. Descarga e instala CleanRip en tu tarjeta SD.
-1. Búscalo desde el canal Homebrew (Homebrew Channel)
-![Homebrew Channel](/images/CleanRip/1.jpg)
-1. Selecciona el dispositivo en el cual "dumpearás" el DVD. `USB o tarjeta SD`
+1. Tome CleanRip y colóquelo en la carpeta `apps` de su tarjeta SD.
+2. Inserte su tarjeta SD en su Wii y ejecute CleanRip desde Homebrew Channel.
+
+##### Sección II - Ripping
+
+1. Seleccione el dispositivo en el que tugurio el juego dentro: su tarjeta USB o SD.
 ![Device type](/images/CleanRip/2.jpg)
-1. Si aparece esta pantalla, puedes elegir `Yes` (Sí) o `No`. La elección es tuya
-.![DAT](/images/CleanRip/3.jpg)
-1. Ahora, inserta el juego.
+2. En esta pantalla, pregunte si desea descargar un archivo con sumas de comprobación del juego para poder verificar que el volcado creado es una copia 1: 1 del disco. Es su decisión si desea decir "Sí" o "No" para descargar este archivo a su tarjeta USB o SD.
+![DAT](/images/CleanRip/3.jpg)
+3. Ahora inserta el juego que quieres volcar.
 ![DVD](/images/CleanRip/4.jpg)
-![Initialising Disc](/images/CleanRip/5.jpg)
-1. Configúralo como se muestra abajo
-.![Settings](/images/CleanRip/6.jpg)
-1. Y ahora, ¡Espera a que termine! Hará una copia completa de 4.4 GB (un DVD entero) así que puede tardar un rato.
-![Copying](/images/CleanRip/7.jpg)
+![Inicializando Disco](/images/CleanRip/5.jpg)
+4. Ajústese como se muestra en la pantalla de abajo.<br>Si sabe que un juego que utiliza un disco de doble capa, como `Super Smash Bros. Brawl` o` Metroid: Other M`, configure `Double Layer` en` Sí`.
+![Ajustes](/images/CleanRip/6.jpg)
+5. CleanRip será ahora dupdo tu juego. Puede tomar un tiempo, ya que volcará todo el contenido del disco de 4.7GB (9.4 para discos de doble capa).
+![Proceso de copiar](/images/CleanRip/7.jpg)
