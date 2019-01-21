@@ -10,8 +10,8 @@ Si quieres usar el canal Everybody Votes, debes seguir este tutorial ** incluso 
 
 #### Que necesitas
 
-* [RiiConnect24 Patcher] (https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
-* [Wii Mod Lite] (https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+* [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+* [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
 #### Instrucciones
 
@@ -23,7 +23,7 @@ Para el canal Everybody Votes, puede eliminar el archivo guardado si lo desea o 
 {: .notice--info}
 
 1. Ahora obtendrás el canal Everybody Votes. Debe instalarse ** incluso si ya tienes el canal Everybody Votes en tu Wii, porque necesitarás un WAD parcheado con el que reinstalarás **.
-1. Descargue el [RiiConnect24 Patcher] (https://github.com/RiiConnect24/RiiConnect24-Patcher/releases). Si tiene problemas para ejecutarlo, contáctenos en [support@riiconnect24.net] (mailto: support@riiconnect24.net) para obtener el enlace de descarga al canal Everybody Votes.
+1. Descargue el [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases). Si tiene problemas para ejecutarlo, contáctenos en [support@riiconnect24.net](mailto: support@riiconnect24.net) para obtener el enlace de descarga al canal Everybody Votes.
 1. Ejecute RiiConnect24Patcher.bat en su computadora
 1. Siga las instrucciones que le dará el parche.
 1. Después de realizar la aplicación de parches, si el parche no copió el canal Everybody Votes en su tarjeta SD, hágalo manualmente.

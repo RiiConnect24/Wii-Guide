@@ -6,7 +6,7 @@ title: "WiiWare Patcher"
 
 ¿Quieres parchear los juegos WAD (WiiWare) para que funcionen con Wiimmfi y no sabes cómo? Este tutorial te explicará cómo funciona WiiWare Patcher. (Este tutorial solo es adecuado para el sistema operativo Windows)
 
-![Usando el WiiWare Patcher] (/images/rc24_using_the_wiiware_patcher.jpg)
+![Usando el WiiWare Patcher](/images/rc24_using_the_wiiware_patcher.jpg)
 
 Este tutorial es solo para la versión de Windows de WiiWare Patcher.
 {: .notice--info}
@@ -38,18 +38,18 @@ Presione cualquier botón. Si la actualización estará disponible, debe actuali
 > El proceso de actualización toma alrededor de 10 a 15 segundos.
 
 Después de eso, deberías ver esto.
-! [WiiWare Patcher primera pantalla] (/images/WiiWare-Patcher/wiiwarepatcher_1.jpg)
+! [WiiWare Patcher primera pantalla](/images/WiiWare-Patcher/wiiwarepatcher_1.jpg)
 
 Por favor, copie sus archivos WAD a la carpeta donde está WiiWare Patcher.
-! [Gif WiiWare Patcher] (/images/WiiWare-Patcher/wiiwarepatcher_dragandrop.gif)
+! [Gif WiiWare Patcher](/images/WiiWare-Patcher/wiiwarepatcher_dragandrop.gif)
 
 Si lo haces correctamente, comenzarán los parches.
-! [WiiWare Patcher pantalla 2] (/images/WiiWare-Patcher/wiiwarepatcher_2.jpg)
-! [WiiWare Patcher tercera pantalla] (/images/WiiWare-Patcher/wiiwarepatcher_3.jpg)
+! [WiiWare Patcher pantalla 2](/images/WiiWare-Patcher/wiiwarepatcher_2.jpg)
+! [WiiWare Patcher tercera pantalla](/images/WiiWare-Patcher/wiiwarepatcher_3.jpg)
 
 Después de que se haga el parche, presione cualquier botón.
 
 Básicamente, eso es todo! Eso es todo lo que tienes que hacer para usar WiiWare Patcher.
-! [4ta pantalla de WiiWare Patcher] (/images/WiiWare-Patcher/wiiwarepatcher_4.jpg)
+! [4ta pantalla de WiiWare Patcher](/images/WiiWare-Patcher/wiiwarepatcher_4.jpg)
 
 [Volver a la página de instalación de Wiimmfi.](wiimmfi)

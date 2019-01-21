@@ -15,7 +15,7 @@ MrBean35000vr (creador de CTGP-R, un paquete de contenido de Mario Kart Wii) cre
 
 #### Que necesitas
 * Una tarjeta SD
-* [Auto Wiimmfi Patcher] (/ asset / files / autowiimmfipatcher-0.6.zip)
+* [Auto Wiimmfi Patcher](/asset/files/autowiimmfipatcher-0.6.zip)
 
 #### Instrucciones
 
@@ -35,7 +35,7 @@ Gracias a FlashHax de Fullmetal5, MrBean35000vr creó un parche de disco de Wiim
 
 1. Inserte su disco de juego.
 1. Asegúrate de que tu Wii esté en modo 60Hz en la configuración del sistema.
-1. Abra el canal de Internet y vaya a la página [this] (http://chadsoft.co.uk/wiimmfi/).
+1. Abra el canal de Internet y vaya a la página [this](http://chadsoft.co.uk/wiimmfi/).
 1. Agregue esa página a favoritos presionando el botón "Agregar favorito".
 1. Cierre el Canal de Internet y regrese al Menú de Wii (también puede usar el botón Restablecer).
 1. Abra de nuevo el canal de Internet, vaya a sus favoritos y haga clic en "Wiimmfi".
@@ -46,7 +46,7 @@ Es posible que no desee ejecutar un parche cada vez que quiera jugar en Wiimmfi,
 
 #### Que necesitas
 * Se admite tu copia de tu juego (WBFS, ISO, cISO y otras formas que puede usar una Wii).
-* Disco Patcher de Wiimm: Necesitas [esto] (http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip) uno si estás parchando la Wii de Mario Kart, [esto] (https : //github.com/RiiConnect24/ACW-Patcher/releases) uno si está parcheando Wii con Animal Crossing, o [this] (http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z ) uno para otros juegos de Wii como Super Smash Bros: Brawl.
+* Disco Patcher de Wiimm: Necesitas [esto](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip) uno si estás parchando la Wii de Mario Kart, [esto] (https : //github.com/RiiConnect24/ACW-Patcher/releases) uno si está parcheando Wii con Animal Crossing, o [this](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z ) uno para otros juegos de Wii como Super Smash Bros: Brawl.
 * Un cargador USB, un cIOS y un USB para almacenar el juego (ya deberías tenerlos si estás usando un cargador USB)
 
 #### Instrucciones
@@ -61,10 +61,10 @@ Puedes parchear los juegos de WiiWare para jugarlos en Wiimmfi.
 
 - una tarjeta SD
 - Tu copia de tu juego (en formato WAD)
-- [Auto WiiWare Patcher] (https://github.com/RiiConnect24/auto-wiiware-patcher/releases)
-- [Wii Mod Lite] (https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+- [Auto WiiWare Patcher](https://github.com/RiiConnect24/auto-wiiware-patcher/releases)
+- [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
-[Si desea ver cómo usar el WiiWare Patcher, haga clic aquí] (wiiwarepatcher)
+[Si desea ver cómo usar el WiiWare Patcher, haga clic aquí](wiiwarepatcher)
 {: .notice--info}
 
 Pasos:
@@ -78,7 +78,7 @@ Wiimmfi te permite participar de nuevo en las competiciones de Mario Kart Wii.
 #### Que necesitas
 
 * Una tarjeta SD
-* Mario Kart Wii Competition Patcher [Wii] (https://competitions.wiimmfi.de/competition-tool-wii.zip) / [Wii U (vWii)] (https://competitions.wiimmfi.de/competition-tool -wiiu.zip)
+* Mario Kart Wii Competition Patcher [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip) / [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
 #### Instrucciones (para Wii)
 
@@ -93,10 +93,10 @@ Si está utilizando la Wii U, tendrá que ejecutar el parche de la competencia c
 {: .notice--info}
 
 ## CTGP-R (Mario Kart Wii)
-MrBean35000vr y Chadderz tienen una increíble distribución de CTGP-R, la aplicación que le permite usar un conjunto de pistas personalizadas, tiene parches Wiimmfi automáticos. Vaya al [Sitio web de ChadSoft] (http://chadsoft.co.uk) para obtener la descarga e instrucciones.
+MrBean35000vr y Chadderz tienen una increíble distribución de CTGP-R, la aplicación que le permite usar un conjunto de pistas personalizadas, tiene parches Wiimmfi automáticos. Vaya al [Sitio web de ChadSoft](http://chadsoft.co.uk) para obtener la descarga e instrucciones.
 
 ## MKW Hack Pack (Mario Kart Wii)
-Huili ha reunido una muy buena colección de pistas y hacks personalizados llamada MKW Hack Pack, y te permite conectarte a Wiimmfi. Para aprender cómo configurarlo, vaya a la [página wiki] (http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+Huili ha reunido una muy buena colección de pistas y hacks personalizados llamada MKW Hack Pack, y te permite conectarte a Wiimmfi. Para aprender cómo configurarlo, vaya a la [página wiki](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
 
 [¡Haga clic aquí! Tenemos muchos otros tutoriales que puedes revisar :)](site-navigation)
 {: .notice--info}

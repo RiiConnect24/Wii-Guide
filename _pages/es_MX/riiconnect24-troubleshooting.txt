@@ -16,7 +16,7 @@ Si obtiene uno de estos errores (y no otro error), debería poder corregir el Ca
 
 #### Que necesitas
 * Una tarjeta SD
-* [WiiXplorer] (https://sourceforge.net/projects/wiixplorer/files/latest/download)
+* [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
 
 #### Carpeta para eliminar
 

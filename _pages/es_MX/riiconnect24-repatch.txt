@@ -13,7 +13,7 @@ Por razones de seguridad, los usuarios existentes de RiiConnect24 necesitan volv
 
 #### Que necesitas
 * Una tarjeta SD
-* [RiiConnect24 Mail Patcher] (https://github.com/RiiConnect24/Mail-Patcher/releases)
+* [RiiConnect24 Mail Patcher](https://github.com/RiiConnect24/Mail-Patcher/releases)
 
 #### Instrucciones
 

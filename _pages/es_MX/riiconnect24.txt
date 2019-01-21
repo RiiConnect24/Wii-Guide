@@ -66,45 +66,45 @@ Si no pudo parchar su nwc24msg.cfg correctamente, envíenos un correo electróni
 Debe configurar su DNS para que el Canal de pronóstico y noticias apunte a nuestros servidores. Este DNS también es útil si quieres jugar a Wiimmfi.
 
 1. Ve a `Opciones de Wii`.
-! [Opciones de Wii] (/ images / RiiConnect24 / Internet_1.png)
+! [Opciones de Wii](/images/RiiConnect24/Internet_1.png)
 1. Ve a `Configuración de Wii`.
-! [Configuración de Wii] (/ images / RiiConnect24 / Internet_2.png)
+! [Configuración de Wii](/images/RiiConnect24/Internet_2.png)
 1. Vaya a `Página 2`, luego haga clic en` Internet`.
-! [Internet] (/ images / RiiConnect24 / Internet_3.png)
+! [Internet](/images/RiiConnect24/Internet_3.png)
 1. Vaya a `Configuración de conexión`.
-! [Configuración de conexión] (/ images / RiiConnect24 / Internet_4.png)
+! [Configuración de conexión](/images/RiiConnect24/Internet_4.png)
 1. Seleccione su conexión actual.
-! [Conexión actual] (/ images / RiiConnect24 / Internet_5.png)
+! [Conexión actual](/images/RiiConnect24/Internet_5.png)
 1. Vaya a `Cambiar configuración`.
-! [Cambiar configuración] (/ images / RiiConnect24 / Internet_6.png)
+! [Cambiar configuración](/images/RiiConnect24/Internet_6.png)
 1. Vaya a `Obtener automáticamente DNS '(no a la dirección IP), luego seleccione` No`, luego `Configuración avanzada'.
-! [Obtención automática de DNS] (/ images / RiiConnect24 / Internet_7.png)
+! [Obtención automática de DNS](/images/RiiConnect24/Internet_7.png)
 1. Escriba `164.132.44.106` como el DNS primario.
-! [DNS primario] (/ images / RiiConnect24 / Internet_8.png)
+! [DNS primario](/images/RiiConnect24/Internet_8.png)
 1. Escriba `8.8.8.8` como el DNS secundario (también puede probar` 1.1.1.1`, sin embargo, acaba de aparecer y podría causar problemas).
-! [DNS secundario] (/ images / RiiConnect24 / Internet_9.png)
+! [DNS secundario](/images/RiiConnect24/Internet_9.png)
 1. Seleccione `Confirmar ', luego seleccione` Guardar`.
-! [Guardar DNS] (/ images / RiiConnect24 / Internet_10.png)
+! [Guardar DNS](/images/RiiConnect24/Internet_10.png)
 1. Seleccione `OK` para realizar una prueba de conexión.
-! [Prueba de conexión] (/ images / RiiConnect24 / Internet_11.png)
+! [Prueba de conexión] (/images/RiiConnect24/Internet_11.png)
 1. Si la prueba de conexión fue exitosa, seleccione `No` para omitir la Actualización del Sistema Wii.
-! [Prueba de conexión exitosa] (/ images / RiiConnect24 / Internet_12.png)
+! [Prueba de conexión exitosa](/images/RiiConnect24/Internet_12.png)
 1. Vaya a `WiiConnect24`, luego a` WiiConnect24` de nuevo, y asegúrese de que esté habilitado.
-! [WiiConnect24 1] (/ images / RiiConnect24 / Internet_13.png)
-! [WiiConnect24 2] (/ images / RiiConnect24 / Internet_14.png)
-! [WiiConnect24 3] (/ images / RiiConnect24 / Internet_15.png)
+! [WiiConnect24 1](/images/RiiConnect24/Internet_13.png)
+! [WiiConnect24 2](/images/RiiConnect24Internet_14.png)
+! [WiiConnect24 3](/images/RiiConnect24/Internet_15.png)
 1. De vuelta en el menú de WiiConnect24, vaya a "Conexión en espera" y asegúrese de que esté habilitado.
-! [Conexión en espera 1] (/ images / RiiConnect24 / Internet_16.png)
-! [Conexión en espera 2] (/ images / RiiConnect24 / Internet_17.png)
-! [Conexión en espera 3] (/ images / RiiConnect24 / Internet_18.png)
+! [Conexión en espera 1](/images/RiiConnect24/Internet_16.png)
+! [Conexión en espera 2](/images/RiiConnect24/Internet_17.png)
+! [Conexión en espera 3](/images/RiiConnect24/ Internet_18.png)
 1. En `Slot Illumination`, le recomendamos que configure la luz del disco en` Dim` o `Bright`, pero esto es opcional.
-! [Iluminación de la ranura 1] (/ images / RiiConnect24 / Internet_19.png)
-! [Iluminación de la ranura 2] (/ images / RiiConnect24 / Internet_20.png)
-! [Iluminación de la ranura 3] (/ images / RiiConnect24 / Internet_22.png)
+! [Iluminación de la ranura 1](/images/RiiConnect24/Internet_19.png)
+! [Iluminación de la ranura 2](/images/RiiConnect24/Internet_20.png)
+! [Iluminación de la ranura 3](/images/RiiConnect24/Internet_22.png)
 1. Finalmente, vaya a la sección `Internet`, luego a` Contratos de usuario 'o `Acuerdo / Contacto', luego a 'Sí'. <br>
    Por favor, lea esto y no se salte. ¡Esto contiene cosas importantes sobre RiiConnect24 como servicio!
-! [Acuerdos de usuario 1] (/ images / RiiConnect24 / Internet_23.png)
-! [Acuerdos de usuario 2] (/ images / RiiConnect24 / Internet_24.png)
+! [Acuerdos de usuario 1](/images/RiiConnect24/Internet_23.png)
+! [Acuerdos de usuario 2](/images/RiiConnect24/Internet_24.png)
 
 Si obtiene el error 107245, entonces es probable que no haya corregido su IOS correctamente.
 {: .notice--info}

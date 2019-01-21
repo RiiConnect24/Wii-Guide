@@ -6,7 +6,7 @@ title: "Instalar temas de Wii"
 
 ¿Estás cansado del aburrido tema blanco en tu menú de Wii y quieres un tema genial? ¡Este tutorial te ayudará a obtener un nuevo tema para tu menú de Wii!
 
-En el caso de un ladrillo, [instalar Priiloader es una necesidad] (/ priiloader). Además, instale BootMii (como Boot2 si tiene una Wii temprana). Instalar la protección contra ladrillos junto con seguir la guía correctamente debe mantenerlo a salvo de los ladrillos.
+En el caso de un ladrillo, [instalar Priiloader es una necesidad](/priiloader). Además, instale BootMii (como Boot2 si tiene una Wii temprana). Instalar la protección contra ladrillos junto con seguir la guía correctamente debe mantenerlo a salvo de los ladrillos.
 {: .notice--warning}
 
 ¡No instale un tema personalizado en vWii (Wii U)!
@@ -20,9 +20,9 @@ Por razones de seguridad, no utilice ninguna otra versión de MyMenuify que las 
 * Una Wii
 * Una tarjeta SD
 * Una computadora con Windows (o usando Mono o Wine en Mac / Linux)
-* [Mod MyMenuify] (/ asset / files / MyMenuifyModv1.5.zip)
-* [Mod ThemeMii] (http://adf.ly/6DhHK)
-* [Esta publicación de GBAtemp] (https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
+* [Mod MyMenuify](/asset/files/MyMenuifyModv1.5.zip)
+* [Mod ThemeMii](http://adf.ly/6DhHK)
+* [Esta publicación de GBAtemp](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
 #### Instrucciones
 

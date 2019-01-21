@@ -11,7 +11,7 @@ title: "Instalando RSSMii"
 #### Que necesitas
 
 * Una tarjeta SD
-* [RSSMii] (https://github.com/RiiConnect24/rssmii/releases)
+* [RSSMii](https://github.com/RiiConnect24/rssmii/releases)
 
 #### Instrucciones
 
