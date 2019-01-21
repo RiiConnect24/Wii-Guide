@@ -17,27 +17,27 @@ str2hax es un exploit para la Wii que se activa al cargar el Acuerdo de licencia
 Este exploit requiere que establezca su DNS para conectarse a un servidor que contiene el exploit.
 
 1. Ve a `Opciones de Wii`.
-[Opciones de Wii](/images/RiiConnect24/Internet_1.png)
+[Wii Options](/images/RiiConnect24/Internet_1.png)
 1. Ve a `Configuración de Wii`.
-[Configuración de Wii](/images/RiiConnect24/Internet_2.png)
+[Wii Settings](/images/RiiConnect24/Internet_2.png)
 1. Vaya a `Página 2`, luego haga clic en` Internet`.
 [Internet](/images/RiiConnect24/Internet_3.png)
 1. Vaya a `Configuración de conexión`.
-[Configuración de conexión](/images/RiiConnect24/Internet_4.png)
+[Connection Settings](/images/RiiConnect24/Internet_4.png)
 1. Seleccione su conexión actual.
-[Conexión actual](/images/RiiConnect24/Internet_5.png)
+[Current Connection](/images/RiiConnect24/Internet_5.png)
 1. Vaya a `Cambiar configuración`.
-[Cambiar configuración](/images/RiiConnect24/Internet_6.png)
+[Change Settings](/images/RiiConnect24/Internet_6.png)
 1. Vaya a `Obtener automáticamente DNS '(no a la dirección IP), luego seleccione` No`, luego `Configuración avanzada'.
-[Obtención automática de DNS](/images/RiiConnect24/Internet_7.png)
+[Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
 1. Escriba `216.69.185.14` como el DNS primario.
 1. Escriba `173.201.71.14` como el DNS secundario.
 1. Seleccione `Confirmar ', luego seleccione` Guardar`.
-[Guardar DNS](/images/RiiConnect24/Internet_10.png)
+[Save DNS](/images/RiiConnect24/Internet_10.png)
 1. Seleccione `OK` para realizar una prueba de conexión.
-[Prueba de conexión](/images/RiiConnect24/Internet_11.png)
+[Connection Test](/images/RiiConnect24/Internet_11.png)
 1. Si la prueba de conexión fue exitosa, seleccione `No` para omitir la Actualización del Sistema Wii.
-[Prueba de conexión exitosa](/images/RiiConnect24/Internet_12.png)
+[Connection Test Successful](/images/RiiConnect24/Internet_12.png)
 
 ##### Sección II - Disparando la Explotación
 
