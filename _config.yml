@@ -326,6 +326,12 @@ defaults:
       permalink: /en_PT/:basename:output_ext
       lang: en-PT
   - scope:
+      path: "_pages/es_MX"
+      type: pages
+    values:
+      permalink: /es_MX/:basename:output_ext
+      lang: es_MX
+  - scope:
       path: "_pages/en_US"
       type: pages
     values:
@@ -518,6 +524,11 @@ defaults:
       permalink: /el_GR/index:output_ext
   - scope:
       path: "_pages/en_PT/home.txt"
+      type: 
+    values:
+      permalink: /es_MX/index:output_ext
+  - scope:
+      path: "_pages/es_MX/home.txt"
       type: pages
     values:
       permalink: /en_PT/index:output_ext

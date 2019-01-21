@@ -91,6 +91,8 @@ es: &DEFAULT_ES
   loading_label              :
 es-ES:
   <<: *DEFAULT_ES
+es-MX:
+  <<: *DEFAULT_ES
 es-CO:
   <<: *DEFAULT_ES
 
