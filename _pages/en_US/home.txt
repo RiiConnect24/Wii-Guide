@@ -11,7 +11,7 @@ header:
 excerpt: "A guide to get you started with modding your Wii.<br />"
 ---
 
-The guild is available in few languages! Spanish, French, Italian, Portuguese and Polish. To change the language, please press the icon at top right and change your language.
+The guide is available in few languages! Spanish, French, Italian, Portuguese and Polish. To change the language, please press the icon at top right and change your language.
 {: .notice--warning}
 
 ## What is "homebrew"?
