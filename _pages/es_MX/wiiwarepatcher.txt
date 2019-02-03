@@ -11,9 +11,9 @@ title: "WiiWare Patcher"
 Este tutorial es solo para la versión de Windows de WiiWare Patcher.
 {: .notice--info}
 
-#### What you need
+#### Que necesitas
 
-* A computer
+* Una computadora
 
 #### Descargando
 
@@ -27,29 +27,29 @@ Si está en Windows 7 o una versión más reciente, abra cmd.exe (Ejecute o pres
 {: .notice--info}
 
 Dale unos segundos porque Powershell tiene que arrancar. Después de unos segundos se abrirá una nueva ventana.
-[Net Installer](/images/WiiWare-Patcher/netinstall.jpg)
+![Net Installer](/images/WiiWare-Patcher/netinstall.jpg)
 
 Después de que termine de descargar, una carpeta llamada `WiiWare-Patcher` debería aparecer en su escritorio. Ábrelo y abre el archivo llamado `patcher.bat`
 
-[Main menu](/images/WiiWare-Patcher/wiiwarepatcher_mainscreen.jpg)
+![Main menu](/images/WiiWare-Patcher/wiiwarepatcher_mainscreen.jpg)
 (Menú principal de WiiWare Patcher)
 
 Presione cualquier botón. Si la actualización estará disponible, debe actualizar el WiiWare Patcher para continuar.
 > El proceso de actualización toma alrededor de 10 a 15 segundos.
 
 Después de eso, deberías ver esto.
-[WiiWare Patcher 1st screen](/images/WiiWare-Patcher/wiiwarepatcher_1.jpg)
+![WiiWare Patcher 1st screen](/images/WiiWare-Patcher/wiiwarepatcher_1.jpg)
 
 Por favor, copie sus archivos WAD a la carpeta donde está WiiWare Patcher.
-[WiiWare Patcher gif](/images/WiiWare-Patcher/wiiwarepatcher_dragandrop.gif)
+![WiiWare Patcher gif](/images/WiiWare-Patcher/wiiwarepatcher_dragandrop.gif)
 
 Si lo haces correctamente, comenzarán los parches.
-[WiiWare Patcher 2nd screen](/images/WiiWare-Patcher/wiiwarepatcher_2.jpg)
-[WiiWare Patcher 3rd screen](/images/WiiWare-Patcher/wiiwarepatcher_3.jpg)
+![WiiWare Patcher 2nd screen](/images/WiiWare-Patcher/wiiwarepatcher_2.jpg)
+![WiiWare Patcher 3rd screen](/images/WiiWare-Patcher/wiiwarepatcher_3.jpg)
 
 Después de que se haga el parche, presione cualquier botón.
 
 Básicamente, eso es todo! Eso es todo lo que tienes que hacer para usar WiiWare Patcher.
-[WiiWare Patcher 4th screen](/images/WiiWare-Patcher/wiiwarepatcher_4.jpg)
+![WiiWare Patcher 4th screen](/images/WiiWare-Patcher/wiiwarepatcher_4.jpg)
 
 [Volver a la página de instalación de Wiimmfi.](wiimmfi)
