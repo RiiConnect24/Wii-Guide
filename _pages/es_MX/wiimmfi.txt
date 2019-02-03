@@ -8,10 +8,10 @@ title: "Wiimmfi"
 
 Wiimmfi es un servicio de reemplazo para la ya extinta conexión Wi-Fi de Nintendo.
 
-[Sitio de Wiimmfi's está aquí.](https://wiimmfi.de/)
+[El Sitio de Wiimmfi está aquí.](https://wiimmfi.de/)
 
 ## Aplicación Homebrew (Disco)
-MrBean35000vr (creador de CTGP-R, un paquete de contenido de Mario Kart Wii) creó un Disco Patcher de Wiimmfi que te permite insertar un disco y parchear el juego sobre la marcha para usarlo, aunque esto debe ejecutarse cada vez que comiences dto.
+MrBean35000vr (creador de CTGP-R, un paquete de contenido de Mario Kart Wii) creó un Disco Patcher de Wiimmfi que te permite insertar un disco y parchear el juego sobre la marcha para usarlo, aunque esto debe ejecutarse cada vez que comiences.
 
 #### Que necesitas
 * Una tarjeta SD
@@ -25,20 +25,20 @@ MrBean35000vr (creador de CTGP-R, un paquete de contenido de Mario Kart Wii) cre
 1. Espera a que se complete el parche, ¡y comenzará!
 
 ## No-Homebrew (Disco)
-Gracias a FlashHax de Fullmetal5, MrBean35000vr creó un parche de disco de Wiimmfi para el canal de Internet.
+Gracias a FlashHax de Fullmetal5, MrBean35000vr creó un parche de disco de Wiimmfi para el canal Internet.
 
 #### Que necesitas
 * Una Wii con conexión a internet.
-* Canal de Internet
+* Canal Internet
 
 #### Instrucciones
 
 1. Inserte su disco de juego.
 1. Asegúrate de que tu Wii esté en modo 60Hz en la configuración del sistema.
-1. Abra el canal de Internet y vaya a la página [this](http://chadsoft.co.uk/wiimmfi/).
+1. Abra el canal de Internet y vaya a [esta](http://chadsoft.co.uk/wiimmfi/) página .
 1. Agregue esa página a favoritos presionando el botón "Agregar favorito".
-1. Cierre el Canal de Internet y regrese al Menú de Wii (también puede usar el botón Restablecer).
-1. Abra de nuevo el canal de Internet, vaya a sus favoritos y haga clic en "Wiimmfi".
+1. Cierre el Canal Internet y regrese al Menú de Wii (también puede usar el botón Reiniciar).
+1. Abra de nuevo el Canal Internet, vaya a sus favoritos y haga clic en "Wiimmfi".
 1. Espera hasta que empiece el juego.
 
 ## ISO parcheado
@@ -46,7 +46,7 @@ Es posible que no desee ejecutar un parche cada vez que quiera jugar en Wiimmfi,
 
 #### Que necesitas
 * Se admite tu copia de tu juego (WBFS, ISO, cISO y otras formas que puede usar una Wii).
-* Disco Patcher de Wiimm: Necesitas [esto](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip) uno si estás parchando la Wii de Mario Kart, [esto] (https : //github.com/RiiConnect24/ACW-Patcher/releases) uno si está parcheando Wii con Animal Crossing, o [this](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z ) uno para otros juegos de Wii como Super Smash Bros: Brawl.
+* Disco Patcher de Wiimm: Necesitas [esto](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip) uno si estás parchando la Wii de Mario Kart, [esto](https://github.com/RiiConnect24/ACW-Patcher/releases) si está parcheando Wii con Animal Crossing, o [esto](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z ) para otros juegos de Wii como Super Smash Bros: Brawl.
 * Un cargador USB, un cIOS y un USB para almacenar el juego (ya deberías tenerlos si estás usando un cargador USB)
 
 #### Instrucciones
@@ -72,8 +72,8 @@ Pasos:
 1. Ejecute el script de parche para su sistema operativo: generalmente terminará en `.bat` para Windows y` .sh` para Mac / Linux.
 1. Si se completó con éxito, instale el WAD que se realizó en `wiiware-wads` con Wii Mod Lite.
 
-## Mario Kart Wii Competitions
-Wiimmfi te permite participar de nuevo en las competiciones de Mario Kart Wii.
+## Torneos de Mario Kart Wii
+Wiimmfi te permite participar de nuevo en los torneos de Mario Kart Wii.
 
 #### Que necesitas
 
@@ -85,7 +85,7 @@ Wiimmfi te permite participar de nuevo en las competiciones de Mario Kart Wii.
 1. Extraiga la aplicación Mario Kart Wii Competition Patcher y colóquela en la carpeta `apps` de su tarjeta SD.
 1. Inserta tu tarjeta SD en la Wii.
 1. Inicia el juego original Mario Kart Wii (no parcheado con Wiimmfi).
-1. Navegue a Configuraciones -> Configuraciones de red (o Conexión Nintendo WFC) -> Servicio de mensajes. Si activó la función de servicio de mensajes, desactívela y vuelva a encenderla.
+1. Navegue a `Ajustes` -> `Configuraciones de red (o Conexión WFC de Nintendo)` -> `Servicio de mensajes`. Si activó la función de servicio de mensajes, desactívela y vuelva a encenderla.
 1. Inicia el Mario Kart Wii Competition Patcher.
 1. El parcheador buscará archivos guardados para Mario Kart Wii en su dispositivo de almacenamiento en varios lugares y los cargará. Esto se hace en caso de que se encuentre una competencia perdida en su archivo de guardar. También, por supuesto, parcheará tu Wii para competiciones.
 
