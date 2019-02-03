@@ -1,5 +1,5 @@
 ---
-title: "Homebrew Channel y de BootMii instalación"
+title: "Instalación del Homebrew Channel y BootMii"
 ---
 
 {% include toc title="Tabla de contenido" %}
@@ -7,7 +7,7 @@ title: "Homebrew Channel y de BootMii instalación"
 ![HBC Logo](/images/hbc.png)
 
 El canal Homebrew es donde irás para lanzar aplicaciones homebrew.
-BootMii es una pieza de software que puede respaldar y restaurar el almacenamiento NAND de su Wii y, si está instalado en boot2, brinda protección contra ladrillos.
+BootMii es una pieza de software que puede respaldar y restaurar el almacenamiento NAND de su Wii y, si está instalado en boot2, brinda protección contra bloqueos.
 
 #### Instrucciones
 
@@ -29,7 +29,7 @@ BootMii es una pieza de software que puede respaldar y restaurar el almacenamien
 
 5. Una vez instalado, presiona atrás y ve a BootMii.
 6. Si la pantalla principal dice que puedes instalar como boot2, hazlo. Esto le brinda un nivel de protección de ladrillos que hace casi imposible obtener ladrillos irrecuperables.
-7. Si no dice que puede instalar como boot2, instálelo como IOS. Si bien esto no le brinda protección contra ladrillos en comparación con su contraparte boot2, aún le permitirá hacer una copia de seguridad NAND.
+7. Si no dice que puede instalar como boot2, instálelo como IOS. Si bien esto no le brinda protección contra bloqueos en comparación con su contraparte boot2, aún le permitirá hacer una copia de seguridad NAND.
 <br>
 ![Instalación de BootMii](/images/Wii/InstallBootMii.jpg)
 
