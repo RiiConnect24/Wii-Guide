@@ -1,5 +1,5 @@
 ---
-title: "Navegacion Sitio" #
+title: "Mapa del Sitio" #
 layout: single
 sitemap: false
 ---
@@ -16,7 +16,7 @@ sitemap: false
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
 + [RiiConnect24](riiconnect24)
-+ [Corrección de la batería RiiConnect24](riiconnect24-batteryfix)
++ [Arreglo de batería RiiConnect24](riiconnect24-batteryfix)
 + [Solución de problemas de RiiConnect24](riiconnect24-troubleshooting)
 + [Canal Opiniones](riiconnect24-evc)
 + [IOS Patcher](iospatcher)
@@ -36,10 +36,10 @@ sitemap: false
 **Homebrew**
 + [Cómo volcar juegos de GameCube / Wii](dump-games)
 + [Cómo volcar canales (WADs)](dump-wads)
-+ [Instalando RSSMii](rssmii)
-+ [Eliminando RSSMii](rssmii-remove)
-+ [Realizando un SysCheck](syscheck)
-+ [Installing Wii Themes](themes)
++ [Instalar RSSMii](rssmii)
++ [Eliminar RSSMii](rssmii-remove)
++ [Realizar un SysCheck](syscheck)
++ [Instalar temas de Wii](themes)
 
 **Sitio**
 + [Inicio](/)
