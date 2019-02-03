@@ -23,14 +23,14 @@ title: "CleanRip"
 
 ##### Sección II - Ripping
 
-1. Seleccione el dispositivo en el que tugurio el juego dentro: su tarjeta USB o SD.
+1. Seleccione el dispositivo en el que pondrá el juego dentro: su tarjeta USB o SD.
 ![Device type](/images/CleanRip/2.jpg)
 2. En esta pantalla, pregunte si desea descargar un archivo con sumas de comprobación del juego para poder verificar que el volcado creado es una copia 1: 1 del disco. Es su decisión si desea decir "Sí" o "No" para descargar este archivo a su tarjeta USB o SD.
 ![DAT](/images/CleanRip/3.jpg)
 3. Ahora inserta el juego que quieres volcar.
 ![DVD](/images/CleanRip/4.jpg)
 ![Inicializando Disco](/images/CleanRip/5.jpg)
-4. Ajústese como se muestra en la pantalla de abajo.<br>Si sabe que un juego que utiliza un disco de doble capa, como `Super Smash Bros. Brawl` o` Metroid: Other M`, configure `Double Layer` en` Sí`.
+4. Ajústelo como se muestra en la pantalla de abajo.<br>Si sabe que un juego que utiliza un disco de doble capa, como `Super Smash Bros. Brawl` o` Metroid: Other M`, configure `Double Layer` en` Sí`.
 ![Ajustes](/images/CleanRip/6.jpg)
-5. CleanRip será ahora dupdo tu juego. Puede tomar un tiempo, ya que volcará todo el contenido del disco de 4.7GB (9.4 para discos de doble capa).
+5. CleanRip volcará el juego. Puede tomar un tiempo, ya que volcará todo el contenido del disco de 4.7GB (9.4 para discos de doble capa).
 ![Proceso de copiar](/images/CleanRip/7.jpg)

@@ -28,7 +28,7 @@ Este exploit requiere que establezca su DNS para conectarse a un servidor que co
 [Current Connection](/images/RiiConnect24/Internet_5.png)
 1. Vaya a `Cambiar configuración`.
 [Change Settings](/images/RiiConnect24/Internet_6.png)
-1. Vaya a `Obtener automáticamente DNS '(no a la dirección IP), luego seleccione` No`, luego `Configuración avanzada'.
+1. Vaya a `Obtener automáticamente DNS` (no a la dirección IP), luego seleccione `No`, luego `Configuración avanzada`.
 [Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
 1. Escriba `216.69.185.14` como el DNS primario.
 1. Escriba `173.201.71.14` como el DNS secundario.

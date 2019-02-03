@@ -1,5 +1,5 @@
 ---
-title: "BootMii Respaldarriba"
+title: "Copia de seguridad de BootMii"
 ---
 
 {% include toc title="Tabla de contenido" %}
@@ -15,8 +15,8 @@ Una de las características más importantes de BootMii es la capacidad de hacer
 #### Instrucciones
 
 Para navegar a través de BootMii, debes usar los botones de tu consola Wii real (o un controlador GameCube en el puerto 1). No puedes usar un mando de Wii.<br>
-Para navegar entre las opciones, presione el botón de PODER en su Wii (o el botón derecho + Control Pad en un controlador de GameCube).<br>
-Para seleccionar una opción, presione el botón REINICIAR en su Wii (o el botón A en un controlador de GameCube).<br>
+Para navegar entre las opciones, presione el botón de POWER en su Wii (o el botón derecho + Control Pad en un controlador de GameCube).<br>
+Para seleccionar una opción, presione el botón RESET en su Wii (o el botón A en un controlador de GameCube).<br>
 Puedes navegar hacia la izquierda o hacia la derecha con un controlador de GameCube, con los botones de tu Wii solo puedes navegar hacia la derecha.
 {: .notice--info}
 

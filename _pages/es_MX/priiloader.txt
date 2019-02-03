@@ -4,7 +4,7 @@ title: "Priiloader"
 
 {% include toc title="Tabla de contenido" %}
 
-Priiloader agrega al un nivel protección de ladrillos a tu Wii. Se carga antes de que lo haga el Menú de Wii (de ahí el nombre). La herramienta también puede habilitar hacks para tu Menú de Wii, ¡y puedes usar el Homebrew Channel, BootMii o lo que quieras!
+Priiloader agrega al un nivel protección de bloqueos a tu Wii. Se carga antes de que lo haga el Menú de Wii (de ahí el nombre). La herramienta también puede habilitar hacks para tu Menú de Wii, ¡y puedes usar el Homebrew Channel, BootMii o lo que quieras!
 
 ![Priiloader](/images/priiloader.jpg)
 
@@ -16,7 +16,7 @@ Priiloader agrega al un nivel protección de ladrillos a tu Wii. Se carga antes 
 
 ##### Sección I - Descarga / Instalación
 
-1. Extraer Priiloader y colóquelo en la carpeta `apps` de su tarjeta SD.
+1. Extraiga Priiloader y colóquelo en la carpeta `apps` de su tarjeta SD.
 2. Inserte su tarjeta SD en su Wii y ejecute Priiloader desde Homebrew Channel.
 
 ##### Sección II - Instalación de Priiloader
@@ -37,7 +37,7 @@ Priiloader agrega al un nivel protección de ladrillos a tu Wii. Se carga antes 
 2. Deberías ver el menú Priiloader.
 ![Menú](/images/Priiloader/6.jpg)
 3. Ve a `System Menu Hacks`.
-4. Recomendamos que encienda estos hacks: `REGIÓN LIBRE TODO ',` Block Disc Updates` y `Block Online Updates`.
+4. Recomendamos que encienda estos hacks: `Region Free EVERYTHING`, `Block Disc Updates` y `Block Online Updates`.
 ![Menú Del sistema Hacks](/images/Priiloader/7.jpg)
 
 ## Menú del Sistema Hacks Lista
@@ -53,7 +53,7 @@ Esta es una lista de los hacks que puede habilitar con Priiloader.
 | Region Free GC Games (No VM Patch)      | Habilita la región libre para juegos de GameCube.                                                                                                                            |
 | Region Free Wii Games                   | Habilita la región libre para juegos de Wii.                                                                                                                                 |
 | Lock System Menu with Black Screen      | Hace que tu Menú de Wii quede atrapado en una pantalla negra, lo que te impide poder usarlo.                                                                                 |
-| Remove Diagnostic Disc Check            | Elimina un cheque en la Wii para ver si un juego insertado es el "Disco de inicio de Wii".                                                                                   |
+| Remove Diagnostic Disc Check            | Elimina un chequeo en la Wii para ver si un juego insertado es el "Disco de inicio de Wii".                                                                                   |
 | No System Menu Sounds AT ALL            | Desactiva todos los efectos de sonido del menú de Wii.                                                                                                                       |
 | No System Menu Background Music         | Desactiva la música de fondo del menú de Wii.                                                                                                                                |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Nintendo eliminó los canales con estas identificaciones de títulos en las actualizaciones del sistema porque eran vulnerabilidades, puedes volver a habilitarlas con esto.   |
