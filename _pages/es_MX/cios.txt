@@ -16,9 +16,9 @@ Este tutorial le dirá cómo instalar CIOS (IOS personalizado). Esto es necesari
 
 #### Instrucciones
 
-##### Sección I - Descargando
+##### Sección I - Descargar
 
-1. Tome el d2x cIOS Instalador y colóquelo en la carpeta `apps` de su tarjeta SD.
+1. Tome el Instalador del cIOS d2x y colóquelo en la carpeta `apps` de su tarjeta SD.
 2. Inserte su tarjeta SD en su Wii e inicie el instalador de cIOS d2x desde el canal Homebrew.
 
 ##### Sección II - Instalación
@@ -60,6 +60,6 @@ RiiConnect24 te permitirá usar las funciones de WiiConnect24 de nuevo, como el 
 Wiimmfi le permite jugar juegos en línea después del cierre de la conexión Wi-Fi de Nintendo. Esto es opcional para instalar.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br>
-We have many other tutorials that may help.
+[Continuar al mapa del Sitio](site-navigation)<br>
+Tenemos muchos otros tutoriales para ayudarte.
 {: .notice--info}
