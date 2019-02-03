@@ -18,7 +18,7 @@ sitemap: false
 + [RiiConnect24](riiconnect24)
 + [Corrección de la batería RiiConnect24](riiconnect24-batteryfix)
 + [Solución de problemas de RiiConnect24](riiconnect24-troubleshooting)
-+ [Todos votan canal](riiconnect24-evc)
++ [Canal Opiniones](riiconnect24-evc)
 + [IOS Patcher](iospatcher)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
@@ -42,9 +42,9 @@ sitemap: false
 + [Installing Wii Themes](themes)
 
 **Sitio**
-+ [Casa](/)
-+ [Obtener Empezado](get-started)
-+ [FAQ](faq)
++ [Inicio](/)
++ [Comenzar](get-started)
++ [Preguntas frecuentes](faq)
 + [Creditos](credits)
 + [Donaciones](donations)
 {% endcapture %}
