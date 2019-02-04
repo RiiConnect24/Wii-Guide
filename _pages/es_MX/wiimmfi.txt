@@ -51,15 +51,15 @@ Es posible que no desee ejecutar un parche cada vez que quiera jugar en Wiimmfi,
 
 #### Instrucciones
 1. Extraiga el parche de su elección en una carpeta y coloque en él una copia del juego.
-1. Ejecute el script de parche para su sistema operativo: generalmente terminará en `.bat` para Windows y` .sh` para Mac / Linux.
+1. Ejecute el script de parche para su sistema operativo: generalmente terminará en `.bat` para Windows y `.sh` para Mac / Linux.
 1. Una vez que haya terminado, saque la versión de la carpeta `wiimmfi-images` (puede estar en la carpeta antes del parche - ../wiimmfi-images) y vuelva a copiarla en su USB.
 
-## WiiWare Patching
+## Parchear WiiWare
 Puedes parchear los juegos de WiiWare para jugarlos en Wiimmfi.
 
 #### Que necesitas
 
-- una tarjeta SD
+- Una tarjeta SD
 - Tu copia de tu juego (en formato WAD)
 - [Auto WiiWare Patcher](https://github.com/RiiConnect24/auto-wiiware-patcher/releases)
 - [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
@@ -87,7 +87,7 @@ Wiimmfi te permite participar de nuevo en los torneos de Mario Kart Wii.
 1. Inicia el juego original Mario Kart Wii (no parcheado con Wiimmfi).
 1. Navegue a `Ajustes` -> `Configuraciones de red (o Conexión WFC de Nintendo)` -> `Servicio de mensajes`. Si activó la función de servicio de mensajes, desactívela y vuelva a encenderla.
 1. Inicia el Mario Kart Wii Competition Patcher.
-1. El parcheador buscará archivos guardados para Mario Kart Wii en su dispositivo de almacenamiento en varios lugares y los cargará. Esto se hace en caso de que se encuentre una competencia perdida en su archivo de guardar. También, por supuesto, parcheará tu Wii para competiciones.
+1. El parcheador buscará archivos guardados para Mario Kart Wii en su dispositivo de almacenamiento en varios lugares y los cargará. Esto se hace en caso de que se encuentre una competencia perdida en su archivo de guardado. También, por supuesto, parcheará tu Wii para competiciones.
 
 Si está utilizando la Wii U, tendrá que ejecutar el parche de la competencia cada vez que quiera verificar si hay una competencia, ya que WiiConnect24 no está habilitada en la Wii U.
 {: .notice--info}
