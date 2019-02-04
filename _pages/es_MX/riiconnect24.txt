@@ -66,7 +66,7 @@ Si no pudo parchar su nwc24msg.cfg correctamente, envíenos un correo electróni
 Debe configurar su DNS para que el Canal de pronóstico y noticias apunte a nuestros servidores. Este DNS también es útil si quieres jugar a Wiimmfi.
 
 1. Ve a `Opciones de Wii`.
-![Wii Options](/images/RiiCnnect24/Internet_1.png)
+![Wii Options](/images/RiiConnect24/Internet_1.png)
 1. Ve a `Configuración de Wii`.
 ![Wii Settings](/images/RiiConnect24/Internet_2.png)
 1. Vaya a `Página 2`, luego haga clic en` Internet`.
