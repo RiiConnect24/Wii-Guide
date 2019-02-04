@@ -2,7 +2,7 @@
 title: "Creditos"
 ---
 
-**¡Gracias especiales a todos de [los miembros de la discordia RiiConnect24](https://discord.gg/b4Y7jfD) por ser genial!**
+**¡Agradecimientos especiales a todos [los miembros de Discord de RiiConnect24](https://discord.gg/b4Y7jfD) por ser genial!**
 {: .notice--primary}
 
 Si te olvidamos aquí, contáctanos y agregaremos tu nombre.
