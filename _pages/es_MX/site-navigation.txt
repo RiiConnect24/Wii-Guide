@@ -34,8 +34,8 @@ sitemap: false
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Cómo volcar juegos de GameCube / Wii](dump-games)
-+ [Cómo volcar canales (WADs)](dump-wads)
++ [Volcar juegos de GameCube / Wii](dump-games)
++ [Volcar canales (WADs)](dump-wads)
 + [Instalar RSSMii](rssmii)
 + [Eliminar RSSMii](rssmii-remove)
 + [Realizar un SysCheck](syscheck)
