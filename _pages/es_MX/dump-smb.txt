@@ -1,10 +1,10 @@
 ---
-title: "Proceso de copiar un juego usando WiFi / Ethernet"
+title: "Volcado de un juego usando WiFi / Ethernet"
 ---
 
 {% include toc title="Tabla de contenido" %}
 
-Do you want to dump games through your local network? Follow this tutorial! This can be useful if you don't have an SD Card or a USB that is large enough to dump a game to.¿Quieres volcar juegos a través de tu red local? ¡Sigue este tutorial! Esto puede ser útil si no tienes una tarjeta SD o un USB que sea lo suficientemente grande como para descargar un juego.
+¿Quieres volcar juegos a través de tu red local? ¡Sigue este tutorial! Esto puede ser útil si no tienes una tarjeta SD o un USB que sea lo suficientemente grande como para descargar un juego.
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
@@ -24,7 +24,7 @@ Tu Wii y tu computadora deben estar conectadas a uno red local
 2. Inserte su tarjeta SD en su Wii y ejecute la de DVDDumpTool desde Homebrew Channel.
 ![1](/images/DumpDiscs_LAN/1.jpg)
 
-##### Sección II - Ripping
+##### Sección II - Volcado
 
 1. Presione el botón derecho en el d-pad y presione "A"
 ![2](/images/DumpDiscs_LAN/2.jpg)
