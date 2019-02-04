@@ -1,12 +1,12 @@
 ---
-title: "Eliminando RSSMii"
+title: "Eliminar RSSMii"
 ---
 
 {% include toc title="Tabla de contenido" %}
 
 Si ya no deseas utilizar RSSMii (tal vez porque te da demasiado correo de Wii), aquí te explicamos cómo eliminarlo.
 
-![Eliminando RSSMii](/images/rssmii-remove.png)
+![Eliminar RSSMii](/images/rssmii-remove.png)
 
 #### Que necesitas
 
