@@ -25,7 +25,7 @@ sitemap: false
 
 **Modding 101**
 + [Canal Homebrew](hbc)
-* [BootMii Backup](bootmii)
+* [Copia de seguridad BootMii](bootmii)
 + [Priiloader](priiloader)
 + [cIOS](cios)
 + [LetterBomb](letterbomb)
@@ -34,8 +34,8 @@ sitemap: false
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Cómo volcar juegos de GameCube / Wii](dump-games)
-+ [Cómo volcar canales (WADs)](dump-wads)
++ [Volcar juegos de GameCube / Wii](dump-games)
++ [Volcar canales (WADs)](dump-wads)
 + [Instalar RSSMii](rssmii)
 + [Eliminar RSSMii](rssmii-remove)
 + [Realizar un SysCheck](syscheck)

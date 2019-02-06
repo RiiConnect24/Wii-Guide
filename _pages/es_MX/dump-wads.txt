@@ -1,5 +1,5 @@
 ---
-title: "Proceso de copiar WADs"
+title: "Volcado de WADs"
 ---
 
 {% include toc title="Tabla de contenido" %}
@@ -15,10 +15,10 @@ Este tutorial explicará cómo copiar WADs desde la memoria del sistema Wii
 
 ##### Sección I - Descarga / Instalación
 
-1. Extraer Yet Another BlueDump MOD y colóquelo en la carpeta `apps` de su tarjeta SD.
+1. Extraiga Yet Another BlueDump MOD y colóquelo en la carpeta `apps` de su tarjeta SD.
 2. Inserte su tarjeta SD en su Wii y lance Yet Another BlueDump MOD desde Homebrew Channel.
 
-##### Sección II - Dumping
+##### Sección II - Volcado
 1. Presione el botón A.
 ![Press A](/images/DumpWADS/2.jpg)
 
@@ -29,7 +29,7 @@ Este tutorial explicará cómo copiar WADs desde la memoria del sistema Wii
 ![Encontrar canal](/images/DumpWADS/4.jpg)
 
 4. Seleccione `Backup to WAD`.
-5. Cuando se le solicite "Fakesign the ticket", presione el botón A.
+5. Cuando se le solicite `Fakesign the ticket`, presione el botón A.
 6. Cuando se le solicite a `Fakesign the TMD`, presione el botón A.
 7. Cuando se le solicite `Cambiar la región WAD de salida`, presione el botón B.
 

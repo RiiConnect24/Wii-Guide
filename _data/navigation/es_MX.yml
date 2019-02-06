@@ -28,7 +28,7 @@ footer:
     title: Fuente
     url: https://github.com/RiiConnect24/Wii-Guide/
   -
-    title: Sitio Navegacion De
+    title: Mapa del sitio
     url: site-navigation
 sidebar_title:
   -
@@ -38,7 +38,7 @@ sidebar_pages:
     title: Guía de Wii
     url: /
   -
-    title: FAQ
+    title: Preguntas
     url: faq
   -
     title: Donaciones

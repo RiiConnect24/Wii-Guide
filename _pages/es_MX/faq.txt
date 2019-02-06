@@ -1,5 +1,5 @@
 ---
-title: "FAQ"
+title: "Preguntas frecuentes"
 ---
 
 ![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
@@ -9,11 +9,11 @@ title: "FAQ"
 <a name="faq_latestfw" />**Q:** *Estoy en la última versión del sistema. ¿Es mi dispositivo hackeable?*
 **A:** Sí. De hecho, hay vulnerabilidades disponibles para todas las versiones, excepto la 1.0.
 
-<a name="faq_wiiu" />**Q:** *Estoy usando el modo Wii (vWii) en una Wii U. ¿Puedo softmod lo?*
-**A:** Sí, sin embargo para vWii, debes seguir esto [guía](https://wiiu.hacks.guide)
+<a name="faq_wiiu" />**Q:** *Estoy usando el modo Wii (vWii) en una Wii U. ¿Puedo hacerle softmod?*
+**A:** Sí, sin embargo para vWii, debes seguir esta [guía](https://wiiu.hacks.guide)
 
 <a name="faq_risky" />**Q:** *¿Qué tan arriesgado es hackear mi consola?*
-**A:** Los ladrillos (un estado en el que algunas partes de su software de Wii no funcionan o su Wii no funciona en absoluto) ahora son * básicamente * imposibles a menos que ignore / evite todas las comprobaciones de seguridad.
+**A:** Los bloqueos (un estado en el que algunas partes de su software de Wii no funcionan o su Wii no funciona en absoluto) ahora son *básicamente* imposibles a menos que ignore / evite todas las comprobaciones de seguridad.
 
 <a name="faq_support" />**Q:** *¿Dónde debo ir para obtener apoyo?*
 **A:** Para soporte, envíenos un correo electrónico a support@riiconnect24.net. O si tiene una cuenta de Discord, únase a nuestro servidor de Discord en [RiiConnect24 on Discord](https://discord.gg/b4Y7jfD).
@@ -30,7 +30,7 @@ title: "FAQ"
 <a name="faq_error" />**Q:** *Tengo error XXXXXX, ¿cómo solucionarlo?*
 **A:** Para verificar qué error es, por favor visite el [Página de error de Wiimmfi](https://wiimmfi.de/error).
 
-<a name="faq_wiimini" />**Q:** *¿Puedo alterar mi Wii Mini?*
+<a name="faq_wiimini" />**Q:** *¿Puedo modificar mi Wii Mini?*
 **A:** No puedes modificar una Wii Mini porque no tiene una ranura para tarjeta SD y otras cosas.
 
 <a name="faq_dolphin" />**Q:** *¿Puedo instalar RiiConnect24 en Dolphin?*
