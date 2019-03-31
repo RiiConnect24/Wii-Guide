@@ -34,7 +34,11 @@ If you're planning to use the backed up WAD on another console, press A. But if 
 {: .notice--info}
 
 1. At the prompt to `Fakesign the ticket`, choose one [`read message above`].
-1. At the prompt to `Fakesign the TMD`, press the A Button.
+
+To avoid compatiblity issues with Dolphin emulator, press B. For a normal Wii/vWii console - press A.
+{: .notice--info}
+
+1. At the prompt to `Fakesign the TMD`, choose one [`read message above`].
 1. At the prompt to `Change the output WAD region`, press the B Button.
 
 1. Done!
