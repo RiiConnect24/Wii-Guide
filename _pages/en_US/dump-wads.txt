@@ -29,7 +29,11 @@ This tutorial will explain you how to dump WADs from your Wii System Memory.
 ![Find channel](/images/DumpWADS/4.jpg)
 
 1. Choose `Backup to WAD`.
-1. At the prompt to `Fakesign the ticket`, press the A Button.
+
+If you're planning to use the backed up WAD on another console, press A. But if you're planning to use it on the same console or Dolphin emulator, it is recommended that you press B and choose not to fakesign the ticket.
+{: .notice--info}
+
+1. At the prompt to `Fakesign the ticket`, choose one [`read message above`].
 1. At the prompt to `Fakesign the TMD`, press the A Button.
 1. At the prompt to `Change the output WAD region`, press the B Button.
 
