@@ -2,7 +2,7 @@
 title: "Creditos"
 ---
 
-**¡Agradecimientos especiales a todos [los miembros de Discord de RiiConnect24](https://discord.gg/b4Y7jfD) por ser genial!**
+**¡Agradecimientos especiales a todos [los miembros de Discord de RiiConnect24](https://discord.gg/b4Y7jfD) por ser geniales!**
 {: .notice--primary}
 
 Si te olvidamos aquí, contáctanos y agregaremos tu nombre.
@@ -10,7 +10,7 @@ Si te olvidamos aquí, contáctanos y agregaremos tu nombre.
 {% capture notice-1 %}
 
     + Actar
-    + All RiiConnect24 Developers
+    + Todos los desarrolladores de RiiConnect24
     + fail0verflow
     + GiantPune
     + JoostinOnline
