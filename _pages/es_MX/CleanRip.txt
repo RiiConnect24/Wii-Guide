@@ -4,33 +4,43 @@ title: "CleanRip"
 
 {% include toc title="Tabla de contenido" %}
 
-¿Quieres hacer copias de seguridad de tus juegos? Este tutorial le explicará cómo usar CleanRip.
+¿Necesitas hacer copias de seguridad de tus juegos debido a la condición de tu disco? Gracias a un programa llamado CleanRip, ¡puedes hacer justo eso y acceder a tus juegos sin la necesidad de tu disco! Este tutorial te va a explicar como usar CleanRip.
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-#### Que necesitas
+#### Requerimientos:
 
-* Una Wii con conexión a Internet
-* Una tarjeta SD o unidad USB con al menos 4.7 GB de espacio libre
-* [CleanRip](/assets/files/CleanRip-v2.0.0.zip)
+* Una Wii o vWii (Wii U) conectada a la Internet.
+* Una tarjeta SD o unidad USB con almenos 4.7 GB de espacio disponible.
+* [CleanRip.](/assets/files/CleanRip-v2.0.0.zip)
 
-#### Instrucciones
+#### Instrucciones:
 
-##### Sección I - Descarga / Instalación
+##### Sección I - Descarga e Instalación:
 
-1. Tome CleanRip y colóquelo en la carpeta `apps` de su tarjeta SD.
-2. Inserte su tarjeta SD en su Wii y ejecute CleanRip desde Homebrew Channel.
+1. Abre el archivo `CleanRip-v2.0.0.zip` y extrae la carpeta `apps` a la raíz de tu tarjeta SD.
+2. Extrae la tarjeta SD de tu PC e insertala en tu Wii.
+3. Enciende tu Wii y abre el Canal Homebrew.
+4. Elige la aplicación llamada `CleanRip` y abrela.
 
-##### Sección II - Ripping
+##### Sección II - Crear la copia de seguridad:
 
-1. Seleccione el dispositivo en el que pondrá el juego dentro: su tarjeta USB o SD.
+1. Selecciona el dispositivo en el que pondrás el juego: la tarjeta SD o la unidad USB.
 ![Device type](/images/CleanRip/2.jpg)
-2. En esta pantalla, pregunte si desea descargar un archivo con sumas de comprobación del juego para poder verificar que el volcado creado es una copia 1: 1 del disco. Es su decisión si desea decir "Sí" o "No" para descargar este archivo a su tarjeta USB o SD.
+2. En esta pantalla, CleanRip te va a preguntar si deseas descargar un archivo con sumas de comprobación del juego para poder verificar que la copia que vamos a crear es una copia exacta del disco. Dependiendo de lo que desees presiona `Yes` para descargar el archivo a la tarjeta SD o a la unidad USB. o elige `No` para omitir esta descarga.
 ![DAT](/images/CleanRip/3.jpg)
-3. Ahora inserta el juego que quieres volcar.
+3. Ahora inserta tu juego de Wii o de Gamecube para crear la copia de seguridad.
 ![DVD](/images/CleanRip/4.jpg)
 ![Inicializando Disco](/images/CleanRip/5.jpg)
-4. Ajústelo como se muestra en la pantalla de abajo.<br>Si sabe que un juego que utiliza un disco de doble capa, como `Super Smash Bros. Brawl` o` Metroid: Other M`, configure `Double Layer` en` Sí`.
+
+¡SOLO LA WII ORIGINAL PUEDE HACER COPIAS DE SEGURIDAD DEL GAMECUBE! NO INSERTES UN DISCO DE GAMECUBE EN UN WII U POR QUE EL DISCO SE VA A QUEDAR ATASCADO!
+{: .notice--warning}
+
+4. Ajustalo como se muestra en la pantalla de abajo.<br>Si tu juego utiliza un disco de doble capa, como es el caso de `Super Smash Bros. Brawl` y de `Metroid: Other M`, cambia la opción de `Double Layer` a `Yes`.
 ![Ajustes](/images/CleanRip/6.jpg)
-5. CleanRip volcará el juego. Puede tomar un tiempo, ya que volcará todo el contenido del disco de 4.7GB (9.4 para discos de doble capa).
+5. CleanRip ahora empezará a crear la copia de seguridad. Esto va a tardar, ya que se va a copiar todo el contenido de tu disco lo cual equivale a 4.7 GB (9.4 GB para discos de doble capa o 1.5 GB para un juego de GameCube).
 ![Proceso de copiar](/images/CleanRip/7.jpg)
+6. Al terminar, ¡tu copia de seguridad ya estará ubicada en tu dispositivo de almacenamiento!
+
+Ahora puedes usar tu copia de seguridad con un cargador de juegos como USB Loader GX, WiiFlow o CFG USB Loader.
+{: .notice--info}
