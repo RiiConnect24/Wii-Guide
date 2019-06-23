@@ -29,12 +29,8 @@ This tutorial will explain you how to dump WADs from your Wii System Memory.
 ![Find channel](/images/DumpWADS/4.jpg)
 
 4. Choose `Backup to WAD`.
-
-Many WADs are fakesigned. This means that they are not signed by Nintendo. If installing the WADs on Dolphin Emulator, it will want you to confirm the installation of the WAD when it detects it's fakesigned. It's your choice to fakesign the WAD or not, but if you're still confused, select the option to fakesign the ticket or TMD.
-{: .notice--info}
-
-5. At the prompt to `Fakesign the ticket`, choose one [`read message above`].
-6. At the prompt to `Fakesign the TMD`, choose one [`read message above`].
+5. At the prompt to `Fakesign the ticket`, choose `Yes`.
+6. At the prompt to `Fakesign the TMD`, choose `No`.
 7. At the prompt to `Change the output WAD region`, press the B Button.
 
 8. Done!
