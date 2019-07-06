@@ -2,24 +2,6 @@
 title: "Credits"
 ---
 
-**Special thanks to all of [the RiiConnect24 Discord members](https://discord.gg/b4Y7jfD) for being awesome!**
-{: .notice--primary}
-
-If we forgot you here, contact us and we'll add your name.
-
-{% capture notice-1 %}
-
-    + Actar
-    + All RiiConnect24 Developers
-    + fail0verflow
-    + GiantPune
-    + JoostinOnline
-    + KcrPL
-    + Leseratte
-    + ScarletDreamz
-    + XFlak
-    + Wiimm
-
-{% endcapture %}
+Thanks to everyone who contributed to the Wii homebrew community! (If we were to write everyone's name down, it would be too long of a list.)
 
 <div class="notice--info">{{ notice-1 | markdownify }}</div>

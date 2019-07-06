@@ -61,5 +61,5 @@ Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi C
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br>
-We have many other tutorials that may help.
+We have many other tutorials that you might like.
 {: .notice--info}
