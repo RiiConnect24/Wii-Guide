@@ -13,11 +13,11 @@
 @mixin notice($notice-color) {
   margin: 2em 0 !important;  /* override*/
   padding: 1em;
-  color: $dark-gray;
   font-family: $global-font-family;
   font-size: $type-size-6 !important;
   text-indent: initial; /* override*/
-  background-color: mix(#fff, $notice-color, 90%);
+  font-weight: bold;
+  background-color: mix($background-color, $notice-color, 45%);
   border-radius: $border-radius;
   box-shadow: 0 1px 1px rgba($notice-color, 0.25);
 
@@ -45,15 +45,12 @@
   }
 
   a {
-    color: $notice-color;
+    color: mix(#fff, $notice-color, 30%);
+    text-decoration: none;
 
     &:hover {
-      color: mix(#000, $notice-color, 40%);
+      text-decoration: underline;
     }
-  }
-
-  code {
-    background-color: mix(#fff, $notice-color, 95%)
   }
 
   ul {

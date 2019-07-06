@@ -17,9 +17,9 @@
   margin-top: 3em;
   color: $muted-text-color;
   -webkit-animation: $intro-transition;
-  animation: $intro-transition;
+          animation: $intro-transition;
   -webkit-animation-delay: 0.45s;
-  animation-delay: 0.45s;
+          animation-delay: 0.45s;
   background-color: $footer-background-color;
 
   footer {
@@ -44,10 +44,7 @@
     }
   }
 
-  .fas,
-  .fab,
-  .far,
-  .fal {
+  .fa {
     color: $muted-text-color;
   }
 }
@@ -58,6 +55,7 @@
 }
 
 .page__footer-follow {
+
   ul {
     margin: 0;
     padding: 0;
@@ -81,11 +79,5 @@
   a {
     padding-right: 10px;
     font-weight: bold;
-  }
-
-  .social-icons {
-    a {
-      white-space: nowrap;
-    }
   }
 }
