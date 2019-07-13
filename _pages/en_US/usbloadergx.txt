@@ -1,0 +1,43 @@
+---
+title: "USB Loader GX"
+---
+
+{% include toc title="Table of Contents" %}
+
+This tutorial will tell you how to use USB Loader GX, a popular USB loader for the Wii that's used to play games from a hard drive.
+
+#### What you need
+
+* A Wii
+* A USB Drive
+* [USB Loader GX](https://sourceforge.net/projects/usbloadergx/files/latest/download)
+
+Make sure you have installed [cIOS](/cios) before following this!
+{: .notice--info}
+
+We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, or Witgui if you use macOS.
+{: .notice--info}
+
+To play multiple games, we recommend a USB-powered external hard drive for your Wii. We will refer to it as a "USB Drive" in this guide. Most of the ones you can find on the market should work fine if they have USB 2 backwards compatibility. Drives with 1 TB or more in capacity will work. A flash drive will also work, but due to the size of a flash drive, it won't be able to store as many games.
+{: .notice--info}
+
+Make sure your USB Drive is formatted as FAT32 or NTFS. Do not format it as other types such as extFS or WBFS, the latter is an old format of storing Wii games.
+{: .notice--info}
+
+#### Instructions
+
+##### Downloading
+
+1. Extract USB Loader GX and put it in the `apps` folder on your USB Drive.
+1. Insert your USB Drive into your Wii, and launch USB Loader GX from the Homebrew Channel.
+
+##### Getting Started
+
+* If USB Loader GX says "Waiting for HDD..." with a 20 seconds countdown, it's likely that it can't find the USB Drive. Try to exit out of the app, and then relaunch it after you put the USB Drive in the other port of the Wii.
+* You can press the 1 Button on your Wii Remote to open up a dialog to download game covers and artwork from [GameTDB](https://gametdb.com/). It might take a while to download the game covers and artwork, depending on how many games you have.
+
+##### Options once complete
+
+[Continue to site navigation](site-navigation)<br>
+We have many other tutorials that you might like.
+{: .notice--info}
