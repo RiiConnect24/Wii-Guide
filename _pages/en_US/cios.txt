@@ -11,8 +11,8 @@ This tutorial will tell you how to install cIOS (custom IOS). This is required i
 #### What you need
 
 * A Wii with an Internet connection
-* A USB drive
-* [USB Loader GX](https://sourceforge.net/projects/usbloadergx/files/latest/download)
+* An SD Card
+* [d2x cIOS Installer](https://sites.google.com/site/completesg/backup-launchers/installation/d2x-cIOS-Installer-Wii.zip?attredirects=0&d=1)
 
 #### Instructions
 
@@ -51,6 +51,9 @@ Select cIOS version: 65535
 1. Run it again, then exit once done.
 
 ##### Options once complete
+
+You can now use homebrew such as [USB Loader GX](usbloadergx).
+{: .notice--info}
 
 [Continue to RiiConnect24](riiconnect24)<br>
 RiiConnect24 will let you use WiiConnect24 features again, such as Wii Mail and certain channel. This is optional to install.

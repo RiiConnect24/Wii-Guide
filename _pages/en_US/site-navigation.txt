@@ -41,6 +41,8 @@ sitemap: false
 + [Removing RSSMii](rssmii-remove)
 + [Performing a SysCheck](syscheck)
 + [Installing Wii Themes](themes)
++ [Wii Backup Manager](wiibackupmanager)
++ [USB Loader GX](usbloadergx)
 
 **Site**
 + [Home](/)
