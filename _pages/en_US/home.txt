@@ -11,14 +11,40 @@ header:
 excerpt: "A guide to get you started with modding your Wii.<br />"
 ---
 
-The guide is available in few languages! Spanish, French, Italian, Portuguese and Polish. To change the language, please press the icon at top right and change your language.
-{: .notice--warning}
+The guide is available in a few languages! Spanish, French, Italian, Portuguese and Polish. To change the language, please press the icon at top right and change your language.
+{: .notice--info}
+
+## What is Wii Guide?
+
+Wii Guide is a guide to get you started with Wii modding. The guide is maintained by [RiiConnect24](https://rc24.xyz/).
+
+There are a few good resources for Wii modding and troubleshooting that can help:
+<br>
+- [Complete Softmod Guide](https://sites.google.com/site/completesg/)
+- [ModMii](http://modmii.000webhostapp.com/)
+- [WiiBrew](https://wiibrew.org/)
+- [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
+- [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/)
+...and of course, this site
+<br>
+For modding vWii on a Wii U, there are some more options:
+<br>
+- [The Definitive vWii Hacking Guide](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
+- [Wii U Hacks Guide](https://wiiu.hacks.guide/vwii-modding)
+<br>
+For modding other consoles, you can go to either of these sites:
+<br>
+- [CFW Guide](https://cfw.guide/)
+- [Hacks Guide](https://hacks.guide/)
+<br>
+Bookmark these sites!
+{: .notice--info}
 
 ## What is "homebrew"?
 
 [**Homebrew**](https://en.wikipedia.org/wiki/List_of_homebrew_video_games) refers to unofficial software for your Wii. It allows you to run homebrew games and programs, including emulators and tools, as well as using homebrew services.
 
-In most cases, running homebrew on your device is 100% free using the LetterBomb or FlashHax exploit. There are also various other exploits in commercial games to get homebrew running.
+Running homebrew on your device is 100% free using the str2hax, LetterBomb or FlashHax exploits. There are also various other exploits in commercial games to get homebrew running.
 
 ## What can I do with homebrew?
 
@@ -26,7 +52,7 @@ Here's a list of things you can do with it. Our guide is meant for you to easily
 
 + Use homebrew apps
 + Play games online again with [Wiimmfi](https://wiimmfi.de), a fan-made service which replaces much of Nintendo's discontinued Nintendo Wi-Fi Connection service (it works with many DS games too)
-+ Be able to use Wii Mail along with Forecast, News and the Everybody Votes Channel again with [RiiConnect24](https://rc24.xyz) after the discontinuation of WiiConnect24;
++ Be able to use Wii Mail along with discontinued Wii Channels again with [RiiConnect24](https://rc24.xyz);
 + Load your Wii games from a USB hard drive using a USB loader;
 + Play mods of games such as New Super Mario Bros. Wii and Mario Kart Wii;
 + Change the theme of your Wii Menu;
