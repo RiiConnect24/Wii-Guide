@@ -11,7 +11,7 @@ header:
 excerpt: "A guide to get you started with modding your Wii.<br />"
 ---
 
-The guide is available in a few languages! Spanish, French, Italian, Portuguese and Polish. To change the language, please press the icon at top right and change your language.
+The guide is also available in Spanish, French, Italian, Portuguese and Polish! To change the language, please press the icon at top right and change your language.
 {: .notice--info}
 
 ## What is Wii Guide?
