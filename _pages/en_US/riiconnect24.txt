@@ -30,7 +30,7 @@ In order to install RiiConnect24 you must be on Wii Menu version 4.3, otherwise 
 [Do you have any problems with installing RiiConnect24 or do you want to ask us something? E-mail us at: support@riiconnect24.net!](mailto:support@riiconnect24.net)
 {: .notice--info}
 
-[If you want to see detailed instructions on how to install patched IOS and the patched Everybody Votes Channel after you download it, click here!](wiimodlite)
+[If you want to see detailed instructions on how to install patched IOS and Everybody Votes and Nintendo Channel after you download them, click here!](wiimodlite)
 {: .notice--info}
 
 You will now patch your IOS, `IOS31` and `IOS80`. This is required to use the Channels we support to change an RSA key used to sign the files, and contains some patches for Wii Mail. You also will download a patched version of the Everybody Votes Channel.
@@ -54,7 +54,7 @@ You will now patch your `nwc24msg.cfg` file which is required in order to use Wi
 1. Launch RiiConnect24 Mail Patcher.
 1. It should only take a few seconds to patch your nwc24msg.cfg. When it's done, press HOME to exit.
 
-If the previous step failed with an ``net_get_status: -24 - Couldn't request the data: -24` error, please check the internet connection on your Wii.
+If the previous step failed with an "net_get_status: -24 - Couldn't request the data: -24" error, please check the internet connection on your Wii.
 {: .notice--warning}
 
 If you were unable to patch your nwc24msg.cfg correctly, e-mail us at [support@riiconnect24.net](mailto:support@riiconnect24.net).
