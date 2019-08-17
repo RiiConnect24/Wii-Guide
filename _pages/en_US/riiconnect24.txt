@@ -10,10 +10,10 @@ title: "RiiConnect24"
 
 As it stands, RiiConnect24 does not support the Wii U yet, so please do not install it on a Wii U yet.
 <br>
-So far only the News, Forecast, and Everybody Votes Channels work, but check [the stats page](https://rc24.xyz/stats/index.html) for further developments.
+The News, Forecast, and Everybody Votes, and Nintendo Channel currently work, but check [the stats page](https://rc24.xyz/stats/index.html) for further developments.
 {: .notice--warning}
 
-In order to install RiiConnect24 you must be on Wii Menu version 4.3, otherwise mail will not work.
+In order to install RiiConnect24 you must be on Wii Menu version 4.3, otherwise mail won't work.
 {: .notice--info}
 
 #### What you need
@@ -21,7 +21,6 @@ In order to install RiiConnect24 you must be on Wii Menu version 4.3, otherwise 
 * An SD card
 * A Wii with an Internet connection
 * A computer (any OS)
-
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### Instructions
