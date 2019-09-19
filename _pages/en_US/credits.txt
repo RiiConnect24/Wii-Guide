@@ -2,6 +2,4 @@
 title: "Credits"
 ---
 
-Thanks to everyone who contributed to the Wii homebrew community! (If we were to write everyone's name down, it would be too long of a list.)
-
-<div class="notice--info">{{ notice-1 | markdownify }}</div>
+Thanks to everyone who contributed to the Wii homebrew community! (If we were to write everyone's name down, it would be too long of a list!)
