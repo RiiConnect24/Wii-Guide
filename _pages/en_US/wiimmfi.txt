@@ -6,11 +6,15 @@ title: "Wiimmfi"
 
 ![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
 
-Wiimmfi is a replacement service for the now-defunct Nintendo Wi-Fi Connection.
+Wiimmfi is a replacement service for the now-defunct Nintendo Wi-Fi Connection. It has been developed by Wiimm and Leseratte. 
 
 [Wiimmfi's site is here.](https://wiimmfi.de/)
 
-## Homebrew (Disc) Application
+## Different patchers
+
+There are lots of different methods to connect to Wiimmfi. 
+
+### Homebrew (Disc) Application
 MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
 
 #### What you need
@@ -24,24 +28,23 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 1. Insert your game disc (you can insert it before or after launch, it doesn't matter).
 1. Wait for patch to complete, and it'll begin!
 
-## No-Homebrew (Disc)
-Thanks to Fullmetal5's FlashHax, MrBean35000vr created a Wiimmfi Disc patcher for the Internet Channel.
+### No-Homebrew (Disc)
+Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii. 
 
 #### What you need
 * A Wii with an Internet connection
-* Internet Channel
 
 #### Instructions
 
 1. Insert your game disc.
-1. Make sure your Wii is in 60Hz mode in the system settings.
-1. Open the Internet Channel and go to [this](http://chadsoft.co.uk/wiimmfi/) page.
-1. Add that page to favorites by pressing the "Add Favorite" button.
-1. Close the Internet Channel and return to the Wii Menu (you can also use the Reset button).
-1. Open again the Internet Channel and go to your favorites and click on "Wiimmfi".
-1. Wait until the game starts.
+1. Go into your internet connection settings and set the DNS server of your console to 46.4.79.141.
+1. Go to the WC24 contract information (third button after clicking on "Internet" in the settings). 
+1. Confirm that you do want to use WC24 and the shop channel
+1. The Wiimmfi patcher page should show up. If it doesn't, and you still see the default license agreement, your router might not be compatible with this method.
+1. Wait for about 1 minute and 30 seconds for the patcher to load
+1. The game should now start with the Wiimmfi patch included
 
-## ISO Patching
+### ISO Patching
 You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
 
 #### What you need
@@ -54,7 +57,10 @@ You may not want to run a patcher each time you want to play on Wiimmfi, and may
 1. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux.
 1. Once it's finished, get the version out of the `wiimmfi-images` folder (it may be in the folder before the patcher - ../wiimmfi-images) and copy it back to your USB.
 
-## WiiWare Patching
+### Automatic patching using an USB-Loader
+If you are already using an USB-Loader like the USB-Loader GX or WiiFlow Lite, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB-Loader automatically patch every game you start to work with Wiimmfi. 
+
+### WiiWare Patching
 You can patch WiiWare games in order to play them on Wiimmfi.
 
 #### What you need
@@ -72,7 +78,9 @@ Steps:
 1. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux.
 1. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
 
-## Mario Kart Wii Competitions
+## Other stuff
+
+### Mario Kart Wii Competitions
 Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
 #### What you need
@@ -92,11 +100,14 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 If you're using the Wii U, you will have to run the competitions patcher whenever you want to check for a competition, because WiiConnect24 is not enabled on the Wii U.
 {: .notice--info}
 
-## CTGP-R (Mario Kart Wii)
+### CTGP-R (Mario Kart Wii)
 MrBean35000vr and Chadderz have an amazing CTGP-R distribution, the application that allows you to use a set of custom tracks, has automatic Wiimmfi patching. Go to the [ChadSoft Website](http://chadsoft.co.uk) for the download and instructions.
 
-## MKW Hack Pack (Mario Kart Wii)
+### MKW Hack Pack (Mario Kart Wii)
 Huili has put together a really good collection of custom tracks and hacks called MKW Hack Pack, and it allows you to connect to Wiimmfi. To learn how to set it up, go to the [wiki page](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+
+### Wiimms MKW Fun (Mario Kart Wii)
+Wiimm and Leseratte created a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte and contains a Wiimmfi patch and lots of other features. You can find out more about it on its [wiki page](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun). 
 
 [Click here! We got many other tutorials that you can check out :)](site-navigation)
 {: .notice--info}
