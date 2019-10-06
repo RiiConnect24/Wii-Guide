@@ -31,7 +31,7 @@ title: "FAQ"
 **A:** In order to check what error that is, please visit the [Wiimmfi error page](https://wiimmfi.de/error).
 
 <a name="faq_wiimini" />**Q:** *Can I mod my Wii Mini?*
-**A:** You cannot mod a Wii Mini due to it not having an SD card slot and some other things.
+**A:** You can mod your Wii Mini with a new exploit called "Bluebomb", but this is fairly new so instructions for that haven't been added to this guide yet. Check this guide again in the future and instructions might be added.
 
 <a name="faq_dolphin" />**Q:** *Can I install RiiConnect24 on Dolphin?*
 **A:** Unfortunately, RiiConnect24 doesn't work on Dolphin due to the way the processor of the Wii is emulated. We know people are interested in it working on Dolphin, so it might work in the future!
