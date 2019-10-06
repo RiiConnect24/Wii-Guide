@@ -20,7 +20,6 @@ sitemap: false
 + [RiiConnect24 Battery Fix](riiconnect24-batteryfix)
 + [RiiConnect24 Troubleshooting](riiconnect24-troubleshooting)
 + [Everybody Votes Channel](riiconnect24-evc)
-+ [IOS Patcher](iospatcher)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
 
