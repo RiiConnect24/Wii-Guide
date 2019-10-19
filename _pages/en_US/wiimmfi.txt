@@ -49,7 +49,7 @@ You may not want to run a patcher each time you want to play on Wiimmfi, and may
 
 #### What you need
 * Your copy of your game (WBFS, ISO, cISO, and other forms that a Wii can use are supported).
-* Wiimm's Disc Patcher: You need [this](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip) one if you're patching Mario Kart Wii, [this](https://github.com/RiiConnect24/ACW-Patcher/releases) one if you are patching Animal Crossing Wii, or [this](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z) one for other Wii games such as Super Smash Bros: Brawl.
+* Wiimm's Disc Patcher: You need [this](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip) one if you're patching Mario Kart Wii, or [this](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z) one for other Wii games such as Super Smash Bros: Brawl.
 * A USB Loader, cIOS, and a USB to store the game on (you should already have these if you're using a USB Loader)
 
 #### Instructions
