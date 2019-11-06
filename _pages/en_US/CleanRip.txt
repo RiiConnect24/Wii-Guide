@@ -12,7 +12,7 @@ Do you want to make a backup of your games? This tutorial will explain you how t
 
 * A Wii with an Internet connection
 * An SD card or USB Drive with at least 4.7 GB of free space
-* [CleanRip](/assets/files/CleanRip-v2.0.0.zip)
+* [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
 #### Instructions
 
