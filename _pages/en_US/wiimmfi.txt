@@ -37,7 +37,7 @@ Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for th
 #### Instructions
 
 1. Insert your game disc.
-1. Go into your internet connection settings and set the DNS server of your console to 46.4.79.141.
+1. Go into your internet connection settings and set the DNS server of your console to 95.217.77.151.
 1. Go to the WC24 contract information (third button after clicking on "Internet" in the settings). 
 1. Confirm that you do want to use WC24 and the shop channel
 1. The Wiimmfi patcher page should show up. If it doesn't, and you still see the default license agreement, your router might not be compatible with this method.
