@@ -19,8 +19,6 @@ sitemap: false
 + [RiiConnect24](riiconnect24)
 + [RiiConnect24 Battery Fix](riiconnect24-batteryfix)
 + [RiiConnect24 Troubleshooting](riiconnect24-troubleshooting)
-+ [Everybody Votes Channel](riiconnect24-evc)
-+ [IOS Patcher](iospatcher)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
 
@@ -48,7 +46,6 @@ sitemap: false
 + [Home](/)
 + [Get Started](get-started)
 + [FAQ](faq)
-+ [Credits](credits)
 + [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
