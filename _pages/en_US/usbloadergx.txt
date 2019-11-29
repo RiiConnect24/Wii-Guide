@@ -6,6 +6,8 @@ title: "USB Loader GX"
 
 This is a quick start guide on how to use USB Loader GX, a popular USB loader for the Wii that's used to play games from a USB Drive.
 
+![USB Loader GX](/images/usbloadergx.png)
+
 #### What you need
 
 * A Wii
