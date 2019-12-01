@@ -14,7 +14,7 @@ Em caso de brick, [instalar Priiloader é estritamente recomendado.](/priiloader
 * Um cartão SD com pelo menos 128MB de espaço livre
 * Um computador com Windows (ou use Mono ou Wine no Linux/Mac)
 * [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
-* [ThemeMii Mod](http://adf.ly/6DhHK)
+* [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
 * [Este post do GBAtemp](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
 #### Instruções
