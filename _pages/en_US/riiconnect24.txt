@@ -105,6 +105,11 @@ You need to set your DNS in order to get the Forecast and News Channel to point 
 ![User Agreements 1](/images/RiiConnect24/Internet_23.png)
 ![User Agreements 2](/images/RiiConnect24/Internet_24.png)
 
+
+[Continue to Wiimmfi](wiimmfi)<br>
+Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+{: .notice--info}
+
 If you get error 107245, then you probably have failed to patch your IOS correctly.
 {: .notice--info}
 
