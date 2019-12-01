@@ -14,7 +14,7 @@ Jeśli popsujesz system, [INSTALACJA PRIILOADER JEST WYMAGANA!!!](priiloader) Pr
 * Kartę SD z przynajmniej 128MB wolnej przestrzenii.
 * Komputer z Windows'em (lub jeżeli używasz Linux'a lub Mac'a, zainstaluj Mono)
 * [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
-* [ThemeMii Mod](http://adf.ly/6DhHK)
+* [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
 * [Ten post na GBAtemp](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
 #### Instrukcje
