@@ -21,7 +21,7 @@ Por razones de seguridad, no utilice ninguna otra versión de MyMenuify que las 
 * Una tarjeta SD
 * Una computadora con Windows (o use Mono o Wine en Mac / Linux)
 * [MyMenuify Mod](/asset/files/MyMenuifyModv1.5.zip)
-* [ThemeMii Mod](http://adf.ly/6DhHK)
+* [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
 * [Esta publicación de GBAtemp](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
 #### Instrucciones

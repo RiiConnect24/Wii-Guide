@@ -20,7 +20,7 @@ Per sicurezza, non usare nessun'altra versione di MyMenuify tranne quelle indica
 * Una SD con un minimo di 128 MB liberi
 * Un PC con Windows (usa Wine su Linux/Mac)
 * [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
-* [ThemeMii Mod](http://adf.ly/6DhHK)
+* [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
 * [Questo thread su GBAtemp](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
 #### Istruzioni
