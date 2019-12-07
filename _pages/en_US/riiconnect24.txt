@@ -10,7 +10,7 @@ title: "RiiConnect24"
 
 As it stands, RiiConnect24 does not support the Wii U yet, so please do not install it on a Wii U yet.
 <br>
-The News, Forecast, and Everybody Votes, and Nintendo Channel currently work, but check [the stats page](https://rc24.xyz/stats/index.html) for further developments.
+The News, Forecast, and Everybody Votes, Nintendo Channel and the Check Mii Out Channel currently work, but check [the stats page](https://rc24.xyz/stats/index.html) for further developments.
 {: .notice--warning}
 
 In order to install RiiConnect24 you must be on Wii Menu version 4.3, otherwise mail won't work.
@@ -30,21 +30,21 @@ In order to install RiiConnect24 you must be on Wii Menu version 4.3, otherwise 
 [Do you have any problems with installing RiiConnect24 or do you want to ask us something? E-mail us at: support@riiconnect24.net!](mailto:support@riiconnect24.net)
 {: .notice--info}
 
-[If you want to see detailed instructions on how to install patched IOS and Everybody Votes and Nintendo Channel after you download them, click here!](wiimodlite)
+[If you want to see detailed instructions on how to install patched IOS and Everybody Votes, Nintendo Channel and the Check Mii Out Channel after you download them, click here!](wiimodlite)
 {: .notice--info}
 
-You will now patch your IOS, `IOS31` and `IOS80`. This is required to use the Channels we support to change an RSA key used to sign the files, and contains some patches for Wii Mail. You also will download a patched version of the Everybody Votes Channel.
+You will now patch your IOS, `IOS31` and `IOS80`. This is required to use the Channels we support to change an RSA key used to sign the files, and contains some patches for Wii Mail. You also will download a patched version of the Everybody Votes Channel, the Nintendo Channel and the Check Mii Out Channel.
 
 1. Download the required files based on your OS. On Windows run `RiiConnect24Patcher.bat`, on Linux and MacOS run `patch.sh`.
 1. Follow the instructions it gives you. Upon it finishing [`on macOS and Linux, skip for Windows`], copy the `WAD` folder to your SD Card.	
-1. You should get the Everybody Votes Channel and Nintendo Channel. It needs to be installed **even if you already have the Everybody Votes Channel/Nintendo Channel on your Wii, because you will need a patched WAD you reinstall with**.
+1. You should get the Everybody Votes Channel, Nintendo Channel and the Check Mii Out Channel. It needs to be installed **even if you already have the Everybody Votes Channel/Nintendo Channel/Check Mii Out Channel on your Wii, because you will need a patched WAD you reinstall with**.
 1. (`If RiiConnect24 Patcher copied everything to the SD Card, you can skip this step`) Extract Wii Mod Lite, and then copy it to the `apps` folder on your SD Card. Do the same for Mail-Patcher.
 1. Put your SD Card in your Wii.
 1. Launch the Homebrew Channel on your Wii.
 1. Launch Wii Mod Lite.
 1. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `WAD` folder.
-1. When `IOS31.wad` is highlighted, press +, then do the same for `IOS80.wad`, `Everybody Votes Channel` and the `Nintnedo Channel` WAD.
-1. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted Everybody Votes Channel/Nintendo Channel WAD, then try installing it again.
+1. When `IOS31.wad` is highlighted, press +, then do the same for `IOS80.wad`, `Everybody Votes Channel.wad`, the `Nintendo Channel.wad` and the `Check Mii Out Channel.wad` WAD.
+1. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted Everybody Votes Channel/Nintendo Channel/Check Mii Out Channel WAD, then try installing it again.
 1. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
 ##### Section II - Patching nwc24msg.cfg
@@ -105,6 +105,11 @@ You need to set your DNS in order to get the Forecast and News Channel to point 
 ![User Agreements 1](/images/RiiConnect24/Internet_23.png)
 ![User Agreements 2](/images/RiiConnect24/Internet_24.png)
 
+
+[Continue to Wiimmfi](wiimmfi)<br>
+Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+{: .notice--info}
+
 If you get error 107245, then you probably have failed to patch your IOS correctly.
 {: .notice--info}
 
@@ -119,3 +124,6 @@ If you get error 107304, then perhaps your ISP blocks the use of custom DNS. A w
 
 [If you're getting errors such as a discontinued message when opening the News or Forecast Channel, we have some instructions that might fix it.](riiconnect24-troubleshooting)
 {: .notice--warning}
+
+You'll get error code 1234567890 in CMOC/MCC if you try to use Contests, we're working to support them.
+{: .notice--info}
