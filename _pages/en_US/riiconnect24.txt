@@ -124,6 +124,3 @@ If you get error 107304, then perhaps your ISP blocks the use of custom DNS. A w
 
 [If you're getting errors such as a discontinued message when opening the News or Forecast Channel, we have some instructions that might fix it.](riiconnect24-troubleshooting)
 {: .notice--warning}
-
-You'll get error code 1234567890 in CMOC/MCC if you try to use Contests, we're working to support them.
-{: .notice--info}
