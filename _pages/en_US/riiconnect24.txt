@@ -31,7 +31,7 @@ In order to use Wii Mail you must be on Wii Menu version 4.3, otherwise it won't
 [If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
 {: .notice--info}
 
-If you use Linux or macOS, please e-mail us and we will give you the things needed to install RiiConnect24.
+If you use Linux or macOS, please e-mail us and we will give you the things needed to install RiiConnect24. The patcher we provide is currently Windows-only.
 {: .notice--info}
 
 You will now patch your IOS, `IOS31` and `IOS80`. This is required to use the Channels we support to change an RSA key used to sign the files. You will also download patched versions of the Channels.
