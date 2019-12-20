@@ -4,6 +4,9 @@ title: "Get Started"
 
 {% include toc title="Table of Contents" %}
 
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: .notice--info}
+
 These instructions will assume you're using an SD card to mod your Wii with, but you can use a USB storage device instead. However, the exploit LetterBomb requires a SD card due to how the Wii Message Board works.
 {: .notice--info}
 

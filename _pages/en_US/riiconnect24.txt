@@ -4,6 +4,9 @@ title: "RiiConnect24"
 
 {% include toc title="Table of Contents" %}
 
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: .notice--info}
+
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
 [RiiConnect24](https://rc24.xyz/) allows you to use the News or Forecast Channel, exchange mail between Wiis and PC, vote on polls, and use other WiiConnect24 features. It replaces the built-in WiiConnect24 system.
@@ -24,9 +27,6 @@ In order to use Wii Mail you must be on Wii Menu version 4.3, otherwise it won't
 #### Instructions
 
 ##### Section I - Patching IOS
-
-[Do you have any problems with installing RiiConnect24 or do you want to ask us something? E-mail us at: support@riiconnect24.net!](mailto:support@riiconnect24.net)
-{: .notice--info}
 
 [If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
 {: .notice--info}

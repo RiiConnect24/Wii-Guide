@@ -4,6 +4,9 @@ title: "RiiConnect24 Battery Fix"
 
 {% include toc title="Table of Contents" %}
 
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: .notice--info}
+
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
 This tutorial doesn't seem to fix error NEWS0000006. Unfortunately, if that error persists, reformatting your Wii might be the only option to fix it.
