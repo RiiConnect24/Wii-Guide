@@ -9,9 +9,9 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-[RiiConnect24](https://rc24.xyz/) allows you to use the News or Forecast Channel, exchange mail between Wiis and PC, vote on polls, and use other WiiConnect24 features. It replaces the built-in WiiConnect24 system.
-
-As it stands, RiiConnect24 does not support the Wii U yet, so please do not install it on a Wii U yet.
+[RiiConnect24](https://rc24.xyz/) allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail.
+ 
+As it stands, RiiConnect24 does not support the Wii U yet, so please do not install it on a Wii U.
 {: .notice--warning}
 
 In order to use Wii Mail you must be on Wii Menu version 4.3, otherwise it won't work.
