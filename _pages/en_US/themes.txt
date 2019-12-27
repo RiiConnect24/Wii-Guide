@@ -60,8 +60,8 @@ MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
 
 ##### Section III - Installing the Theme
 
-1. Extract MyMenuify Mod and put it in the `apps` folder on your SD Card.
-1. Put the .csm file you saved in a folder called `modthemes` on your SD Card.
+1. Extract MyMenuify Mod and put it in the `apps` folder on your SD card or USB drive.
+1. Put the .csm file you saved in a folder called `modthemes` on your SD card or USB drive.
 1. Insert your SD card or USB drive into your Wii, and launch MyMenuify Mod from the Homebrew Channel.
 1. After an introduction message, it will ask you what IOS you want to use in the app. If you have [installed cIOS](/pages/cios), use `IOS249`, or else use `IOS58`. If the former gives an `Exception DSI occurred!` error, press Reset on the Wii console, launch it again, then try `IOS250`.
 1. Highlight the theme you want to install, then press A. Give it a moment to install the theme, then press any button to go to the Wii Menu. Hopefully, the theme installed correctly.
