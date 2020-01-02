@@ -39,7 +39,7 @@ You will now patch your IOS, `IOS31` and `IOS80`. This is required to use the Ch
 1. Download the required files based on your OS. On Windows run `RiiConnect24Patcher.bat`.
 1. Follow the instructions it gives you.
 1. You should get the Channels that you want. They need to be installed **even if you already have them on your Wii, because you will need to install the patched WAD instead**.
-1. (`If RiiConnect24 Patcher copied everything to the SD Card, you can skip this step`) Copy the `apps` and `wad` folder to your SD Card.
+1. (`If RiiConnect24 Patcher copied everything to the SD Card, you can skip this step`) Copy the `apps` and `WAD` folder to your SD Card.
 1. Put your SD Card in your Wii.
 1. Launch the Homebrew Channel on your Wii.
 1. Launch Wii Mod Lite.
