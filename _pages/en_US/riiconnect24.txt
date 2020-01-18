@@ -21,7 +21,7 @@ In order to use Wii Mail you must be on Wii Menu version 4.3, otherwise it won't
 
 * An SD card or USB drive
 * A Wii with an Internet connection
-* A computer (any OS)
+* A computer
 * [RiiConnect24 Patcher (Windows only)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### Instructions
