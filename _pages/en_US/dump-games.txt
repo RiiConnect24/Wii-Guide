@@ -7,7 +7,7 @@ Want to legally dump a GameCube or a Wii game and play it on your Wii? With this
 Please choose how you want to dump the disc.
 {: .notice--warning}
 
-[I want to dump it to the SD Card/USB Device](CleanRip)
+[I want to dump it to the SD card/USB device](CleanRip)
 {: .notice--info}
 
 [I want to dump it directly to my PC using Wi-Fi or an Ethernet adapter](dump-smb)

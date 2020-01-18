@@ -33,8 +33,8 @@ Make sure your USB Drive is formatted as FAT32 or NTFS. Do not format it as othe
 
 ##### Downloading
 
-1. Extract USB Loader GX and put it in the `apps` folder on your USB Drive.
-1. Insert your USB Drive into your Wii, and launch USB Loader GX from the Homebrew Channel.
+1. Extract USB Loader GX and put it in the `apps` folder on your USB drive or SD card.
+1. Insert your USB drive, and SD card if you're using one, into your Wii and launch USB Loader GX from the Homebrew Channel.
 
 ##### Getting Started
 
@@ -72,7 +72,7 @@ There are also other buttons:
 
 * + Icon - "Install" a game, i.e. loading it from disc and dumping it.
 * Gears - Settings for USB Loader GX.
-* SD Card - Remount the SD Card.
+* SD card - Remount the SD card.
 * Homebrew - Load homebrew apps.
 * Wii - Open up the HOME Menu, which can also be accessed by pressing the HOME Button on the Wii Remote.
 * Power Button - Turn off your Wii.
