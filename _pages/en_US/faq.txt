@@ -34,7 +34,9 @@ title: "FAQ"
 **A:** You can mod your Wii Mini with a new exploit called "Bluebomb".
 
 <a name="faq_dolphin" />**Q:** *Can I install RiiConnect24 on Dolphin?*
-**A:** Unfortunately, RiiConnect24 doesn't work on Dolphin due to the way the processor of the Wii is emulated. We know people are interested in it working on Dolphin, so it might work in the future!
+**A:** We've developed a program that downloads the News and Forecast information for Dolphin, which is available for download [here](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases/latest), simply extract it into a folder and run `Install.bat`. You have the option to either run it manually each time to update the files or have it run every hour in the background. This program does not consume many resources.
+
+Unafortunately, all the other channels do not work at the moment because Dolphin doesn't have code to emulate WiiConnect24.
 
 {% endcapture %}
 
