@@ -19,26 +19,23 @@ The guide is also available in Spanish, French, Italian, Portuguese and Polish! 
 Wii Guide is a guide to get you started with Wii modding. The guide is maintained by [RiiConnect24](https://rc24.xyz/).
 
 There are a few good resources for Wii modding and troubleshooting that can help:
-<br>
+
 - [Complete Softmod Guide](https://sites.google.com/site/completesg/)
 - [ModMii](http://modmii.000webhostapp.com/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
 - [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/)
 ...and of course, this site
-<br>
+
 For modding vWii on a Wii U, there are some more options:
-<br>
 - [The Definitive vWii Hacking Guide](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
 - [Wii U Hacks Guide](https://wiiu.hacks.guide/vwii-modding)
-<br>
+
 For modding other consoles, you can go to either of these sites:
-<br>
 - [CFW Guide](https://cfw.guide/)
 - [Hacks Guide](https://hacks.guide/)
-<br>
+
 Bookmark these sites!
-{: .notice--info}
 
 ## What is "homebrew"?
 
