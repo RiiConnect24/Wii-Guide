@@ -14,8 +14,8 @@ If you need help for anything regarding this tutorial, please directly contact K
 ### What you need
 * A computer with Windows 7 or newer.
 * [.VFF-File-Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
+* [Dolphin](https://dolphin-emu.org/download/) 
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
-* Dolphin 
 
 #### Instructions
 
@@ -24,11 +24,10 @@ If you need help for anything regarding this tutorial, please directly contact K
 If you have Dolphin already installed, skip to Section II
 {: .notice--info}
 
-1. [Press here to visit Dolphin's download site.](https://dolphin-emu.org/download/)
-1. Download the latest Dolphin developement version.
+1. Download the latest Dolphin development version.
 1. Extract the .7z file using a program like 7Zip or WinRAR.
-1. Start Dolphin.exe
-1. Press on `Tools` -> `Perform Online System Update` -> Choose your region.
+1. Start Dolphin
+1. Press on `Tools` -> `Perform Online System Update` -> Choose your region
 ![Perform Online System Update](/images/Dolphin_RC24/1.jpg)
 
 ##### Section II - Installing RiiConnect24.
@@ -59,5 +58,5 @@ If you choose to run it on startup, you don't have to do anything. If you want t
 1. After it's done, there will a be a `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` file in WAD folder next to RiiConnect24Patcher.bat
 1. In Dolphin, press `Tools` and then `Install WAD`. and select the `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
 
-You're all done! Unfortunately, other channels don't work on Dolphin.
+You're all done! Unfortunately, the Everybody Votes and Nintendo Channel don't work in Dolphin yet.
 {: .notice--info}
