@@ -41,6 +41,7 @@ If you have Dolphin already installed, skip to Section II
 ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
 
 ![Run once](/images/Dolphin_RC24/4.jpg)
+<br>
 If you choose to manually run it, keep Install.bat. There will be an option in menu to manually run it.
 {: .notice--info}
 
