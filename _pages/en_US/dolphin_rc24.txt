@@ -55,7 +55,7 @@ If you choose to run it on startup, you don't have to do anything. If you want t
 ![Select Custom](/images/Dolphin_RC24/5.jpg)
 1. Select `Custom`.
 ![Select Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
-1. Press `1` to select your region and only enable 5th option. (`[X] represents enabled, [ ] disabled - reference to the picture above`). Press `6` to start patching.
+1. Press `1` to select your region and only enable 5th option. (`[X] represents enabled, [ ] disabled - refer to the picture above`). Press `6` to start patching.
 1. After it's done, there will a be a `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` file in WAD folder next to RiiConnect24Patcher.bat
 1. In Dolphin, press `Tools` and then `Install WAD`. and select the `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
 
