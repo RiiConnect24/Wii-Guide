@@ -36,7 +36,7 @@ The steps to connect RiiTag to your USB Loader depend on what USB Loader you use
 ###### USB Loader GX
 
 1. Load USB Loader GX on your Wii.
-1. Go to `Settings` > `Boot Settings` and turn `Wiinnertag` on. Press `Yes` or `OK` to any dialogs that show up.
+1. Go to `Settings` > `Features` and turn `Wiinnertag` on. Press `Yes` or `OK` to any dialogs that show up.
 1. Ensure that `Initialize Network` is turned on.
 1. Exit USB Loader GX.
 1. Insert the SD Card or USB device where your USB Loader GX data is into your computer.
