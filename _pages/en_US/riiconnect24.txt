@@ -17,7 +17,7 @@ Do not try to install RiiConnect24 on a Wii Mini, or your system will be bricked
 [Click here for a guide on how to install RiiConnect24 on Wii U (vWii).](https://pad.snopyta.org/s/rJ2N0B1XU)
 {: .notice--info}
 
-[Using Dolphin emulator? Click here for a guide on how to install RiiConnect24 on Dolphin.](dolphin_rc24)
+[Using Dolphin emulator? Click here for a guide on how to install RiiConnect24 on Dolphin.](riiconnect24-dolphin)
 {: .notice--info}
 
 In order to use Wii Mail you must be on Wii Menu version 4.3, otherwise it won't work.
