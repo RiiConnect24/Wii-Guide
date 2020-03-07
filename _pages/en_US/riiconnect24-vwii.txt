@@ -15,7 +15,9 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 Guide to installing [RiiConnect24](https://rc24.xyz) on your vWii (Virtual Wii on Wii U) with: CMOC/MCC, Nintendo Channel, EVC and News Channel along with forced 4:3 aspect ratio patching.
 
-Since certain features found in the original Wii are not present in the vWii, we can only partially utilize RiiConnect24. See [what's currently working](#What%E2%80%99s-currently-working) for details.
+Since certain features found in the original Wii are not present in the vWii,
+we can only partially utilize RiiConnect24. See [what's currently
+working](#whats-currently-working) for details.
 {: .notice--warning}
 
 #### Warnings
@@ -64,3 +66,20 @@ us](mailto:support@riiconnect24.net) and we will give you the things needed to
 install RiiConnect24. The patcher we provide is currently Windows-only. Please
 also mention the fact that you are using a vWii.
 {: .notice--info}
+
+#### What's currently working?
+The following RiiConnect24 services are **working** on the vWii:
+* News Channel
+    * This channel is affected by the timestamp issue. The "Last Updated" and article timestamps will be incorrect.
+* Nintendo Channel
+* Everybody Votes Channel
+* Check Mii Out Channel / Mii Contest Channel
+{: .notice--success}
+
+The following RiiConnect24 services are **not working** on the vWii:
+* Wii Friends/Address book (functionality does not exist on vWii)
+    * This includes sending/receiving mail to/from friends. You can only receive global broadcast mail and posts from RSSMii feeds (if set up).
+* Forecast Channel
+    * This channel is affected by the timestamp issue. This is preventing the channel from getting past the loading screen, returning the `FORE000006` error.
+* Everything else that isn't working according to [RiiConnect24 stats](https://rc24.xyz/stats/index.html).
+{: .notice--danger}
