@@ -1,9 +1,5 @@
 ---
 title: RiiConnect24 vWii Guide
-
-description: Guide to installing RiiConnect24 on your vWii (Virtual Wii on Wii U)!
-
-tags: wii, wii u, virtual wii, vwii, mod, softmod, modding, softmodding, hack, hacking, wc24, wiiconnect24, rc24, riiconnect24, guide, tutorial
 ---
 
 {% include toc title="Table of Contents" %}
