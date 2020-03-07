@@ -66,7 +66,7 @@ also mention the fact that you are using a vWii if you plan on sending an
 e-mail.
 {: .notice--info}
 
-#### Section I - Running the patcher
+##### Section I - Running the patcher
 
 Using the RiiConnect24 Patcher you should've downloaded earlier in [What you
 need](#what-you-need), you will be downloading and patching IOS31, News,
