@@ -1,5 +1,5 @@
 ---
-title: vWii RiiConnect24 Guide
+title: RiiConnect24 vWii Guide
 
 description: Guide to installing RiiConnect24 on your vWii (Virtual Wii on Wii U)!
 
@@ -98,8 +98,8 @@ Channel**.
 ##### Section III - Using RiiConnect24
 
 After following the above sections, you're almost able to utilize RiiConnect24
-on your Wii U. You just need to perform the following steps after every vWii
-reboot.
+on your Wii U. You just need to perform the following steps **after every vWii
+reboot**.
 
 1. On the vWii's **Wii Menu**, launch the **Homebrew Channel** and launch the
 **ConnectMii** homebrew application.
