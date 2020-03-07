@@ -46,6 +46,9 @@ If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.ne
 * A PC or mobile device with internet access and the ability to interact with SD cards.
 * An SD card formatted as FAT32 (at least 2GB) with enough available space. SDHC or SDXC cards formatted as FAT32 can be known to work.
 * A Wii U console capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiu.hacks.guide](https://wiiu.hacks.guide/), as well as [wiiu.hacks.guide/vwii-modding](https://wiiu.hacks.guide/vwii-modding) and then come back.**
+* [RiiConnect24
+  Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+  (Windows only, for now...)
 
 After following the above linked guide, you should have:
 * **A vWii NAND backup and keys** (keep these stored safely!!)
@@ -56,11 +59,6 @@ After following the above linked guide, you should have:
 
 #### Instructions
 
-##### Section I - Running the patcher
-
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
-{: .notice--info}
-
 If you use GNU/Linux or macOS, please [follow the manual guide](https://pad.snopyta.org/s/rJ2N0B1XU), or [e-mail
 us](mailto:support@riiconnect24.net) and we will give you the things needed to
 install RiiConnect24. The patcher we provide is currently Windows-only. Please
@@ -68,10 +66,55 @@ also mention the fact that you are using a vWii if you plan on sending an
 e-mail.
 {: .notice--info}
 
+#### Section I - Running the patcher
+
+Using the RiiConnect24 Patcher you should've downloaded earlier in [What you
+need](#what-you-need), you will be downloading and patching IOS31, News,
+Everybody Votes, Nintendo and Check Mii Out Channels for use on your vWii.
+
+1. Run `RiiConnect24Patcher.bat` on your PC, and follow the on-screen
+instructions.
+2. Confirm that after running through the patcher, you have 3 folders. Either in the
+same folder as `RiiConnect24Patcher.bat`, or on your SD card (depending on
+what options you selected in the patcher). If they are in the same folder as
+the `RiiConnect24Patcher.bat` file, move the folders to the root of your SD
+card.
+
+##### Section II - Installing the newly patched WADs
+
+1. Follow the [Wii Mod Lite guide](wiimodlite) to install the following WAD
+files that are now on your SD card:
+    * `Everybody Votes Channel (REGION) (Channel) (RiiConnect24).wad`
+    * `IOS31 Wii U (REGION) (RiiConnect24).wad`
+    * `Mii Contest Channel (REGION) (Channel) (RiiConnect24).wad`
+    * `News Channel Wii U (REGION) (Channel) (RiiConnect24).wad`
+    * `Nintendo Channel (REGION) (Channel) (RiiConnect24).wad`
+
+**NOTE**: You do not have to download Wii Mod Lite yourself, the patcher has
+already downloaded it for you. It is available to launch from the **Homebrew
+Channel**.
+{: .notice--info}
+
+##### Section III - Using RiiConnect24
+
+After following the above sections, you're almost able to utilize RiiConnect24
+on your Wii U. You just need to perform the following steps after every vWii
+reboot.
+
+1. On the vWii's **Wii Menu**, launch the **Homebrew Channel** and launch the
+**ConnectMii** homebrew application.
+    * This will enable the WiiConnect24 and Standby Connection flags required
+      by the RiiConnect24 applications.
+2. Launch the RiiConnect24 applications
+* You should now be able to utilize all of the RiiConnect24 applications you
+  have installed!
+
 #### What's currently working?
 The following RiiConnect24 services are **working** on the vWii:
 * News Channel
     * This channel is affected by the timestamp issue. The "Last Updated" and article timestamps will be incorrect.
+    * The banner data is also known to not work, returning `Unable to obtain
+      data.`
 * Nintendo Channel
 * Everybody Votes Channel
 * Check Mii Out Channel / Mii Contest Channel
