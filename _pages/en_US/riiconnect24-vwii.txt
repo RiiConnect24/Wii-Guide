@@ -23,12 +23,12 @@ working](#whats-currently-working) for details.
 #### Warnings
 
 We are **NOT** responsible if you brick, or damage your console in any way whatsoever. If you follow this guide exactly, you shouldn't have any problems.
-{: .notice--danger}
+{: .notice--warning}
 
 Do **NOT** perform this guide on any other console than the vWii (Virtual Wii
 on Wii U). If you're looking for instructions for a Nintendo Wii, use
 [wii.guide/riiconnect24](riiconnect24).
-{: .notice--danger}
+{: .notice--warning}
 
 The following is a list of things that can potentially **BRICK** your vWii (don't do these things!):
 * Installing IOS for a Wii console on vWii.
@@ -36,7 +36,7 @@ The following is a list of things that can potentially **BRICK** your vWii (don'
 * Installing BootMii and/or Priiloader/Preloader.
 * Failure during the install of crucial system/IOS titles (e.g. power outage).
 * Modifying the vWii NAND without knowing what you are doing.
-{: .notice--danger}
+{: .notice--warning}
 
 If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329). ([Archive](https://web.archive.org/web/20200213194233/https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329/))
 {: .notice--info}
@@ -51,10 +51,10 @@ If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.ne
   (Windows only, for now...)
 
 After following the above linked guide, you should have:
-* **A vWii NAND backup and keys** (keep these stored safely!!)
-* **The Homebrew Channel installed**
-* **d2x cIOS installed (IOS249, IOS250 and IOS251)**
-* **IOS80 patched**
+* A vWii NAND backup and keys (keep these stored safely!!)
+* The Homebrew Channel installed
+* d2x cIOS installed (IOS249, IOS250 and IOS251)
+* IOS80 patched
 {: .notice--info}
 
 #### Instructions
@@ -126,4 +126,4 @@ The following RiiConnect24 services are **not working** on the vWii:
 * Forecast Channel
     * This channel is affected by the timestamp issue. This is preventing the channel from getting past the loading screen, returning the `FORE000006` error.
 * Everything else that isn't working according to [RiiConnect24 stats](https://rc24.xyz/stats/index.html).
-{: .notice--danger}
+{: .notice--warning}
