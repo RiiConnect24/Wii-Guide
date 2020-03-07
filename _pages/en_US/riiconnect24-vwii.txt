@@ -39,7 +39,7 @@ The following is a list of things that can potentially **BRICK** your vWii (don'
 * A PC or mobile device with internet access and the ability to interact with SD cards.
 * An SD card formatted as FAT32 (at least 2GB) with enough available space. SDHC or SDXC cards formatted as FAT32 can be known to work.
 * A Wii U console capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiu.hacks.guide](https://wiiu.hacks.guide/), as well as [wiiu.hacks.guide/vwii-modding](https://wiiu.hacks.guide/vwii-modding) and then come back.**
-* [RiiConnect24
+* The latest [RiiConnect24
   Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
   (Windows only, for now...)
 
