@@ -39,7 +39,7 @@ The following is a list of things that can potentially **BRICK** your vWii (don'
 * A PC or mobile device with internet access and the ability to interact with SD cards.
 * An SD card formatted as FAT32 (at least 2GB) with enough available space. SDHC or SDXC cards formatted as FAT32 can be known to work.
 * A Wii U console capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiu.hacks.guide](https://wiiu.hacks.guide/), as well as [wiiu.hacks.guide/vwii-modding](https://wiiu.hacks.guide/vwii-modding) and then come back.**
-* The latest [RiiConnect24
+* [RiiConnect24
   Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
   (Windows only, for now...)
 
@@ -70,18 +70,11 @@ the `RiiConnect24Patcher.bat` file, move the folders to the root of your SD
 card.
 
 ##### Section II - Installing the newly patched WADs
-
-1. Follow the [Wii Mod Lite guide](wiimodlite) to install the following WAD
-files that are now on your SD card:
-    * `Everybody Votes Channel (REGION) (Channel) (RiiConnect24).wad`
-    * `IOS31 Wii U (REGION) (RiiConnect24).wad`
-    * `Mii Contest Channel (REGION) (Channel) (RiiConnect24).wad`
-    * `News Channel Wii U (REGION) (Channel) (RiiConnect24).wad`
-    * `Nintendo Channel (REGION) (Channel) (RiiConnect24).wad`
-
-**NOTE**: You do not have to download Wii Mod Lite yourself, the patcher has
-already downloaded it for you. It is available to launch from the **Homebrew
-Channel**.
+1. Open the Homebrew Channel
+1. Launch Wii Mod Lite
+1. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+1. When `IOS31.wad` is highlighted, press +, then do the same for all the other WADs.
+1. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel
 {: .notice--info}
 
 ##### Section III - Using RiiConnect24
@@ -110,7 +103,7 @@ The following RiiConnect24 services are **working** on the vWii:
 {: .notice--success}
 
 The following RiiConnect24 services are **not working** on the vWii:
-* Wii Mail (most functionality does not exist on vWii)
+* Wii Friends/Address book (functionality does not exist on vWii)
     * This includes sending/receiving mail to/from friends. You can only receive global broadcast mail and posts from RSSMii feeds (if set up).
 * Forecast Channel
     * This channel is affected by the timestamp issue. This is preventing the channel from getting past the loading screen, returning the `FORE000006` error.
