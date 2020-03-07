@@ -52,7 +52,7 @@ After following the above linked guide, you should have:
 
 #### Instructions
 
-If you use GNU/Linux or macOS, please [follow the manual guide](https://pad.snopyta.org/s/rJ2N0B1XU), to install RiiConnect24. The patcher we provide is currently Windows-only.
+If you use GNU/Linux or macOS, please [follow the manual guide](https://pad.snopyta.org/s/rJ2N0B1XU), to install RiiConnect24. The patcher we provide is currently Windows-only. The end result is the same regardless of which method you follow.
 {: .notice--info}
 
 ##### Section I - Running the patcher
@@ -110,7 +110,7 @@ The following RiiConnect24 services are **working** on the vWii:
 {: .notice--success}
 
 The following RiiConnect24 services are **not working** on the vWii:
-* Wii Mail (most of the functionality does not exist on vWii)
+* Wii Friends/Address book (functionality does not exist on vWii)
     * This includes sending/receiving mail to/from friends. You can only receive global broadcast mail and posts from RSSMii feeds (if set up).
 * Forecast Channel
     * This channel is affected by the timestamp issue. This is preventing the channel from getting past the loading screen, returning the `FORE000006` error.
