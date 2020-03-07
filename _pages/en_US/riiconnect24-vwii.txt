@@ -61,10 +61,11 @@ After following the above linked guide, you should have:
 [If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
 {: .notice--info}
 
-If you use GNU/Linux or macOS, please [e-mail
+If you use GNU/Linux or macOS, please [follow the manual guide](https://pad.snopyta.org/s/rJ2N0B1XU), or [e-mail
 us](mailto:support@riiconnect24.net) and we will give you the things needed to
 install RiiConnect24. The patcher we provide is currently Windows-only. Please
-also mention the fact that you are using a vWii.
+also mention the fact that you are using a vWii if you plan on sending an
+e-mail.
 {: .notice--info}
 
 #### What's currently working?
