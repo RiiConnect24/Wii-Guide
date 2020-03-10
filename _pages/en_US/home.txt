@@ -29,6 +29,7 @@ There are a few good resources for Wii modding and troubleshooting that can help
 
 For modding vWii on a Wii U, there are some more options:
 - [The Definitive vWii Hacking Guide](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
+- [NH Wii U Guide](https://wiiuguide.xyz)
 - [Wii U Hacks Guide](https://wiiu.hacks.guide/vwii-modding)
 
 For modding other consoles, you can go to either of these sites:
