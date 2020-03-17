@@ -18,6 +18,7 @@ sitemap: false
 + [RiiConnect24](riiconnect24)
 + [RiiConnect24 Fix Batteria](riiconnect24-batteryfix)
 + [RiiConnect24 Risoluzione Problemi](riiconnect24-troubleshooting)
++ [RiiConnect24 vWii](riiconnect24-vwii)
 + [Everybody Votes Channel](riiconnect24-evc)
 + [IOS Patcher](iospatcher)
 + [Wiimmfi](wiimmfi)
@@ -34,12 +35,16 @@ sitemap: false
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
++ [Creare scorciatoie ai giochi su USB Loader](wiigsc)
 + [Come effettuare il dump di giochi GameCube/Wii](dump-games)
 + [Come effettuare il dump di Canali (WAD)](dump-wads)
 + [Installare RSSMii](rssmii)
 + [Rimuovere RSSMii](rssmii-remove)
 + [Fare un SysCheck](syscheck)
 + [Installare temi Wii](themes)
++ [RiiTag](riitag)
++ [USB Loader GX](usbloadergx)
++ [Wii Backup Manager](wiibackupmanager)
 
 **Sito**
 + [Home](/)
