@@ -12,4 +12,3 @@ dynamic image), you can show what you've been playing to your friends! You need 
 * [Wii](riitag-wii) - Available through the use of USB loaders.
 * [Wii U](riitag-wiiu) - Available through the use of a plugin for the Wii U
   Plugin System (WUPS).
-<!-- * [3DS](riitag-3ds) -->
