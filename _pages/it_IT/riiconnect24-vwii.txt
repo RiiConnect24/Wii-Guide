@@ -67,12 +67,12 @@ da che opzione hai selezionato nel patcher) Se sono nella stessa cartella di.
 `RiiConnect24Patcher.bat`, muovile nella root della tua scheda SD.
 
 ##### Sezione II - Installare i nuovi WAD patchati.
+
 1. Apri il canale Homebrew Channel
 1. Apri Wii Mod Lite
 1. Usando il pad a + sul tuo Telecomando Wii, naviga a `WAD Manager`, successivamente nella cartella `wad`.
 1. Quando `IOS31.wad` è evidenziato, seleziona + e fai la stessa cosa per i WAD rimanenti.
 1. Una volta installati tutti i WAD, premi il pulsante HOME Button per tornare al canale Homebrew Channel
-{: .notice--info}
 
 ##### Sezione III - Usare RiiConnect24
 
