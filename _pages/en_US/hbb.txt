@@ -1,5 +1,5 @@
 ---
-title: "Homebrew Browser and BootMii Installation"
+title: "Homebrew Browser"
 ---
 
 {% include toc title="Table of Contents" %}
