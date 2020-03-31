@@ -10,19 +10,21 @@ title: "FAQ"
 **A:** Yes. In fact, there are exploits available for every version except for 1.0.
 
 <a name="faq_wiiu" />**Q:** *I am using Wii Mode (vWii) on a Wii U. Can I softmod it?*
-**A:** Yes, however for vWii, you should follow this [guide](https://wiiu.hacks.guide)
+**A:** Yes, you may use a commercial game exploit to mod your vWii. However, we recommend following the guide made for vWii: https://wiiuguide.xyz/#/vwii/vwii-modding
 
 <a name="faq_risky" />**Q:** *How risky is hacking my console?*
 **A:** Bricks (a state where either some parts of your Wii software are not working, or your Wii is not working at all) are now *basically* impossible unless you ignore/circumvent all safety checks.
 
 <a name="faq_support" />**Q:** *Where should I go for support?*
-**A:** For support mail us at support@riiconnect24.net. Or if you have a Discord account, join our Discord server at [RiiConnect24 on Discord](https://discord.gg/b4Y7jfD).
+**A:** For support, either email us at support@riiconnect24.net or join the [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD).
 
-<a name="faq_le4gbsd" />**Q:** *Can I do this with a 4GB (or smaller) SD card?*
-**A:** Yes! As a matter of fact, any SD card with at least 128MB should work to run an exploit, but to store homebrew applications, it is recommended to have an SD card with at least 2GB.
+<a name="faq_le4gbsd" />**Q:** *What are the SD card requirements and/or recommendations?*
+**A:** You will need an SD card with at least 128MB to run an exploit.
 
-<a name="faq_ge128gbsd" />**Q:** *Can I use a SD card larger than 32GB?*
-**A:** You will need an SD card 32GB or lower to do the LetterBomb/Wilbrand exploit (unless you are using FlashHax or str2hax), but an SD card larger than 32GB should be fine.
+- If you are using the LetterBomb/Wilbrand exploit, your SD card should be no larger than 32 GB.
+- If you are using the Super Smash Bros Brawl exploit, your SD card should be no bigger than 2 GB.
+
+To store homebrew applications, we recommend an SD card with atleast 2 GB.
 
 <a name="faq_nopc" />**Q:** *Can I do this without a computer (e.g. an Android phone)?*
 **A:** All you need is the ability to put files on an SD card and an Internet connection!
