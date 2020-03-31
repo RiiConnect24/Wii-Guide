@@ -61,7 +61,7 @@ This is a list of the hacks you can enable with Priiloader.
 | Lock System Menu with Black Screen      | Makes your Wii Menu be stuck on a black screen, making you unable to use it.                                                     |
 | Remove Diagnostic Disc Check            | Removes a check in the Wii to see if an inserted game is the "Wii Startup Disc".                                                 |
 | No System Menu Sounds AT ALL            | Turns off all Wii Menu sound effects.                                                                                            |
-| No System Menu Background Music         | Turns off the Wii Menu background music.                                                                                                    |
+| No System Menu Background Music         | Turns off the Wii Menu background music.                                                                                         |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Nintendo deleted Channels with these title IDs in system updates because they were exploits, you can re-enable them with this.   |
 | Remove NoCopy Save File Protection      | Allows you to copy save files in the Data Management screen that usually are disabled for copying.                               |
 | Region Free Channels                    | Enables region free for Wii Channels.                                                                                            |

@@ -2,8 +2,6 @@
 title: "Homebrew Browser"
 ---
 
-{% include toc title="Table of Contents" %}
-
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
@@ -17,14 +15,8 @@ The Homebrew Browser is where you can go to get homebrew apps. It has been reviv
 
 #### Instructions
 
-##### Section I - Downloading/Installing
-
 1. Extract the Homebrew Browser and put it in the `apps` folder on your SD card or USB drive.
 2. Insert your SD card or USB drive into your Wii. You can now launch the Homebrew Browser from the Homebrew Channel if you want to.
-
-[Continue to RiiConnect24](riiconnect24)<br>
-RiiConnect24 will let you use WiiConnect24 features again, such as Wii Mail and certain channel. This is optional to install.
-{: .notice--info}
 
 Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
 {: .notice--info}

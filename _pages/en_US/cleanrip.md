@@ -9,16 +9,13 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 Do you want to make a backup of your games? This tutorial will explain you how to use CleanRip.
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
-
-#### What you need
+#### Requirements
 
 * A Wii with an Internet connection
 * An SD card or USB drive with at least 4.7 GB of free space
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
 #### Instructions
-
 ##### Section I - Downloading/Installing
 
 1. Extract CleanRip and put it in the `apps` folder on your SD card or USB drive.

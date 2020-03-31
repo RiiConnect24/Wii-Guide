@@ -15,7 +15,6 @@ A SysCheck lists all the IOS and cIOS that are on your Wii, along with some info
 * [SysCheck HacksDen Edition](http://www.hacksden.com/downloads.php?do=file&id=149)
 
 #### Instructions
-
 ##### Section I - Downloading/Installing
 
 1. Extract SysCheck HacksDen Edition and put it in the `apps` folder on your SD card or USB drive.

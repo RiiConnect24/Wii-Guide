@@ -2,8 +2,6 @@
 title: "LetterBomb"
 ---
 
-{% include toc title="Table of Contents" %}
-
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
@@ -11,9 +9,13 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
 
+This exploit is one of many. Check out the [Get Started](/get-started) page for other options.
+{: .notice--info}
+
 #### What you need
-* An SD card
-* A Wii on system version 4.3
+- An SD card
+- A Wii on system version 4.3
+   - This exploit will not work on a Wii Mini or vWii
 
 #### Instructions
 
