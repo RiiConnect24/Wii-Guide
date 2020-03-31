@@ -42,8 +42,9 @@ This exploit requires you to set your DNS in order to connect to a server that c
 ![Save DNS](/images/RiiConnect24/Internet_10.png)
 11. Select `OK` to perform a connection test.
 ![Connection Test](/images/RiiConnect24/Internet_11.png)
-12. If the connection test was successful, select `No` to skip the Wii System Update.
+   - If the connection test was successful, select `No` to skip the Wii System Update.
 ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)
+   - If it was unsuccessful, then please use [another exploit](get-started).
 
 ##### Section II - Triggering the Exploit
 
