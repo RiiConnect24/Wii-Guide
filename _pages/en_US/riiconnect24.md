@@ -11,14 +11,16 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 [RiiConnect24](https://rc24.xyz/) allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail.
 
-Do not try to install RiiConnect24 on a Wii Mini, or your system will be bricked!
-{: .notice--warning}
+{% capture notice-1 %}
+This guide is for the original Wii only.
 
-[Using a Wii U (vWii)? Check out this guide](riiconnect24-vwii)
-{: .notice--info}
+- Follow [this tutorial](riiconnect24-vwii) if you'd like to install RiiConnect24 on a vWii (the Wii mode of your Wii U).
+- Follow [this tutorial](riiconnect24-dolphin) if you'd like to install RiiConnect24 on the Dolphin emulator.
 
-[Using Dolphin emulator? Click here for a guide on how to install RiiConnect24 on Dolphin.](riiconnect24-dolphin)
-{: .notice--info}
+There is no guide to installing RiiConnect24 on a Wii Mini, as attempting to install RiiConnect24 on a Wii Mini will result in a console brick.
+{% endcapture %}
+
+<div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
 In order to use Wii Mail you must be on Wii Menu version 4.3, otherwise it won't work.
 {: .notice--info}

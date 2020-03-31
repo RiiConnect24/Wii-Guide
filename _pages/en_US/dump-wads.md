@@ -34,5 +34,5 @@ This tutorial will explain you how to dump WADs from your Wii System Memory.
 6. At the prompt to `Fakesign the TMD`, choose `No`.
 7. At the prompt to `Change the output WAD region`, press the B Button.
 
-You have now installed a WAD. It should appear on your system menu.
+You have now dumped that WAD. It should appear on your SD card.
 ![Done](/images/DumpWADS/6.jpg)

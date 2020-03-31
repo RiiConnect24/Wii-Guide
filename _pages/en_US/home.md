@@ -41,11 +41,11 @@ Running homebrew on your Nintendo Wii is free using the str2hax, LetterBomb or F
 
 Here's a list of things you can do with it. While these aren't all the things you can do with homebrew, it should give you a starting point for things you can do. Our guide is meant for you to easily get started, but we have links associated with the things on the list to help you get started.
 
-- Run homebrew applications such as media players, disk copiers, save managers and more.
-- Patch game disk contents (allowing you to load game modifications) using Riivolution
-- Theme and customize your Wii Menu.
-- Install a all-in-one menu to launch all your favorite titles.
-- Restore discontinued online services, such as WiiConnect24 & Nintendo WFC services.
+- Run homebrew applications such as [media players](http://www.wiimc.org/), [disk copiers](/dump-games), [save managers](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download) and more.
+- Patch game disk contents (allowing you to load game modifications) using [Riivolution](http://www.wiibrew.org/wiki/Riivolution)
+- Theme and customize your Wii Menu using [MyMenuify](/themes).
+- Install an [all-in-one menu](https://gbatemp.net/threads/wiiflow-lite.422685/) to launch all your favorite titles.
+- Restore discontinued online services, such as [WiiConnect24](/riiconnect24) & [Nintendo WFC services](wiimmfi).
 - Backup and restore copies of your Wii system memory (NAND) using [BootMii](http://bootmii.org).
 - Protect your Wii from bricks using [Priiloader](https://wii.guide/priiloader)
 - Install applications to your System Menu
