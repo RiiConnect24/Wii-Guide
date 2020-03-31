@@ -24,19 +24,19 @@ If the error code still remains, the time on your Wii might be incorrect, confus
 #### Instructions
 
 1. Set your Wii to the correct time in Wii Settings.
-1. Unplug your Wii AC adapter. You'll need to open up a battery cover on the side of your Wii, so you might want to remove everything plugged into your Wii.
+2. Unplug your Wii AC adapter. You'll need to open up a battery cover on the side of your Wii, so you might want to remove everything plugged into your Wii.
 ![Unplug Wii AC Adapter](/images/RiiConnect24/clock/unplug.jpg)
-1. Locate the battery cover on the bottom of your Wii.
+3. Locate the battery cover on the bottom of your Wii.
 ![Battery Cover](/images/RiiConnect24/clock/batterycover.jpg)
-1. Unscrew the battery cover with your screwdriver.
+4. Unscrew the battery cover with your screwdriver.
 ![Battery Unscrew](http://i.imgur.com/VRRAiSk.gif)
-1. Let your Wii sit unplugged for a little while, with the battery out. It's up to you how long it should be out for. An hour or two might be enough to leave it out for.
+5. Let your Wii sit unplugged for a little while, with the battery out. It's up to you how long it should be out for. An hour or two might be enough to leave it out for.
 ![Battery](/images/RiiConnect24/clock/battery.jpg)
-1. Screw the battery cover back in.
+6. Screw the battery cover back in.
 ![Battery Screw](http://i.imgur.com/8MEy5Jo.gif)
-1. Plug in your Wii AC adapter.
+7. Plug in your Wii AC adapter.
 ![Plug Wii AC Adapter](/images/RiiConnect24/clock/plug.jpg)
-1. Try the News or Forecast Channel now. Hopefully it works now. If not, you might want to repeat this process one more time and it might fix it.
+8. Try the News or Forecast Channel now. Hopefully it works now. If not, you might want to repeat this process one more time and it might fix it.
 
 Still no luck getting it to work? Unfortunately, you might have to reformat your Wii for it to go away. Just make sure to backup your save files and Miis with [SaveGame Manager GX](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download).
 {: .notice--info}

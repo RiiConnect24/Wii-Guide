@@ -25,12 +25,13 @@ Do you want to make a backup of your games? This tutorial will explain you how t
 
 1. Select your device that you will be dumping the game to - your USB drive or SD card.
 ![Device type](/images/CleanRip/2.jpg)
-1. On this screen, it asks you if you want to download a file with game checksums so you can verify the dump created is a 1:1 copy of the disc. It's your choice whether to say `Yes` or `No` to download this file.
+2. On this screen, it asks you if you want to download a file with game checksums so you can verify the dump created is a 1:1 copy of the disc. It's your choice whether to say `Yes` or `No` to download this file.
 ![DAT](/images/CleanRip/3.jpg)
-1. Now insert the game you'd like to dump.
+3. Now insert the game you'd like to dump.
 ![DVD](/images/CleanRip/4.jpg)
 ![Initialising Disc](/images/CleanRip/5.jpg)
-1. Set it as shown on the screen below.<br>If you know that you are dumping a game that uses a dual layer disc, like `Super Smash Bros. Brawl` or `Metroid: Other M`, set `Dual Layer` to `Yes`.
+4. Set it as shown on the screen below.
+   - If you know that you are dumping a game that uses a dual layer disc, like `Super Smash Bros. Brawl` or `Metroid: Other M`, set `Dual Layer` to `Yes`.
 ![Settings](/images/CleanRip/6.jpg)
-1. CleanRip will now dump your game. It can take a while, since it will dump the full 4.7GB disc contents (9.4 for dual layer discs).
+5. CleanRip will now dump your game. It can take a while, since it will dump the full 4.7GB disc contents (9.4 for dual layer discs).
 ![Copying](/images/CleanRip/7.jpg)

@@ -24,24 +24,24 @@ Your Wii and your computer must be connected to one local network
 ##### Section I - Downloading/Installing
 
 1. Extract DVD Dump Tool and put it in the `apps` folder on your SD card or USB drive.
-1. Insert your SD card into your Wii, and launch DVD Dump Tool from the Homebrew Channel.
+2. Insert your SD card into your Wii, and launch DVD Dump Tool from the Homebrew Channel.
 ![1](/images/DumpDiscs_LAN/1.jpg)
 
 ##### Section II - Ripping
 
 1. Press the right button on the d-pad and press "A"
 ![2](/images/DumpDiscs_LAN/2.jpg)
-1. Choose the disc that you want to copy (The options are: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` and press "A"
+2. Choose the disc that you want to copy (The options are: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` and press "A"
 ![3](/images/DumpDiscs_LAN/3.jpg)
-1. Now put your game to your Wii. (If it's already in your wii, eject it and put it back)
+3. Now put your game to your Wii. (If it's already in your wii, eject it and put it back)
 ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg)
 ![4](/images/DumpDiscs_LAN/4.jpg)
-1. Remember your Wii URL (IP address)
+4. Remember your Wii URL (IP address)
 ![5](/images/DumpDiscs_LAN/5.jpg)
-1. On your computer in your web browser, type in the Wii URL and hit ENTER.
+5. On your computer in your web browser, type in the Wii URL and hit ENTER.
 ![6](/images/DumpDiscs_LAN/6.jpg)
-1. You should see this. Click on `Click here to download XXXX.iso`
+6. You should see this. Click on `Click here to download XXXX.iso`
 ![7](/images/DumpDiscs_LAN/7.jpg)
-1. The transfer speed is not the fastest, but if you can't use anything else, it's better than nothing.
+7. The transfer speed is not the fastest, but if you can't use anything else, it's better than nothing.
 
 ![8](/images/DumpDiscs_LAN/8.PNG)

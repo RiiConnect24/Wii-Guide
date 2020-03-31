@@ -25,11 +25,11 @@ MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
 
 #### Instructions
 
-* Install WiiGSC and then open it.
-* Select the path to the ISO or WBFS file on your USB Drive, and select the USB Loader you use. The other options should be fine the way thy are.
-* If you're using USB Loader GX, you cannot use revision 1272 to use shortcuts. You need to use revision 1271 (or an earlier version if you need to use one for some reason).
-* Do not make game shortcuts for "A Boy and His Blob" or "Mario Party 9". Those will brick your Wii.
-* Install the generated WAD with a WAD Manager, we recommend Wii Mod Lite.
+1. Install WiiGSC and then open it.
+2. Select the path to the ISO or WBFS file on your USB Drive, and select the USB Loader you use. The other options should be fine the way thy are.
+3. If you're using USB Loader GX, you cannot use revision 1272 to use shortcuts. You need to use revision 1271 (or an earlier version if you need to use one for some reason).
+4. Do not make game shortcuts for "A Boy and His Blob" or "Mario Party 9". Those will brick your Wii.
+5. Install the generated WAD with a WAD Manager, we recommend Wii Mod Lite.
 
 If you get an error saying "The system files are corrupted", don't panic as long as you installed Priiloader. Turn off your Wii, then hold down the RESET button down and turn on your Wii. You should be able to boot into the Priiloader menu, where you have some options to fix your Wii Menu. One of the options is to launch the Homebrew Channel, where you can launch MyMenuify Mod and press a button to download and install the original Wii Menu theme.
 {: .notice--info}

@@ -46,16 +46,16 @@ If you use GNU/Linux or macOS on your PC, or use a smartphone, please [follow th
 Using the RiiConnect24 Patcher you should've downloaded earlier in [What you need](#what-you-need), you will be downloading and patching IOS31, News, Everybody Votes, Nintendo and Check Mii Out Channels for use on your vWii.
 
 1. Run `RiiConnect24Patcher.bat` on your PC, and follow the on-screen instructions.
-1. Confirm that after running through the patcher, you have 3 folders. Either in the same folder as `RiiConnect24Patcher.bat`, or on your SD card (depending on what options you selected in the patcher).
+2. Confirm that after running through the patcher, you have 3 folders. Either in the same folder as `RiiConnect24Patcher.bat`, or on your SD card (depending on what options you selected in the patcher).
    - If they are in the same folder as the `RiiConnect24Patcher.bat` file, move the folders to the root of your SD card.
 
 ##### Section II - Installing the newly patched WADs
 
 1. Open the Homebrew Channel
-1. Launch Wii Mod Lite
-1. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
-1. When `IOS31.wad` is highlighted, press +, then do the same for all the other WADs.
-1. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel
+2. Launch Wii Mod Lite
+3. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+4. When `IOS31.wad` is highlighted, press +, then do the same for all the other WADs.
+5. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel
 
 ##### Section III - Using RiiConnect24
 
@@ -63,7 +63,7 @@ After following the above sections, you're almost able to utilize RiiConnect24 o
 
 1. On the vWii's **Wii Menu**, launch the **Homebrew Channel** and launch the **ConnectMii** homebrew application.
 * This will enable the WiiConnect24 and Standby Connection flags required by the WiiConnect24 Channels.
-1. Launch the WiiConnect24 Channels
+2. Launch the WiiConnect24 Channels
 * You should now be able to utilize all of the WiiConnect24 Channels you have installed!
 
 #### What's currently working?

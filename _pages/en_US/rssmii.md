@@ -17,11 +17,10 @@ Do you want to get RSS feed updates on your Wii Message Board? This tutorial wil
 * [RSSMii](https://github.com/RiiConnect24/rssmii/releases)
 
 #### Instructions
-
 ##### Section I - Downloading/Installing
 
 1. Extract RSSMii and put it in the `apps` folder on your SD card.
-1. We need to create a `feeds.xml` on the root of the SD card so the app will know what feeds to subscribe you to.
+2. We need to create a `feeds.xml` on the root of the SD card so the app will know what feeds to subscribe you to.
 
 If you're using the Windows Operating System, you can use the RSS Feeds Creators program created by KcrPL. It will automatically create a `feeds.xml` file and will copy it to your SD card!
 {: .notice--info}
@@ -49,9 +48,9 @@ Then, replace the link portion with the link to the RSS feed. You can put as man
 ```
 
 Save the feed you made to the root of your SD Card.
-1. Launch RSSMii from the Homebrew Channel.
-1. Press A to confirm you want to subscribe to the feeds. Ignore the error about ES_GetTitleID, everything is fine.
-1. Once everything is done, press HOME to go back to the Homebrew Channel. You should soon get RSS feed updates on your Wii, enjoy!
+3. Launch RSSMii from the Homebrew Channel.
+4. Press A to confirm you want to subscribe to the feeds. Ignore the error about ES_GetTitleID, everything is fine.
+5. Once everything is done, press HOME to go back to the Homebrew Channel. You should soon get RSS feed updates on your Wii, enjoy!
 
 Not getting any feed updates? Try an RSS feed that updates more frequently, like a feed with news for example. If the RSS feed doesn't update often, then you won't get many updates.
 {: .notice--warning}

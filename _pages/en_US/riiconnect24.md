@@ -43,23 +43,23 @@ If you use Linux or macOS, please e-mail us and we will give you the things need
 You will now patch your IOS, `IOS31` and `IOS80`. This is required to use the Channels we support to change an RSA key used to sign the files. You will also download patched versions of the Channels.
 
 1. Download the required files based on your OS. On Windows run `RiiConnect24Patcher.bat`.
-1. Follow the instructions it gives you.
-1. You should get the Channels that you want. They need to be installed **even if you already have them on your Wii, because you will need to install the patched WAD instead**.
-1. (`If RiiConnect24 Patcher copied everything to the SD card or USB drive, you can skip this step`) Copy the `apps` and `wad` folder to your SD card or USB drive.
-1. Put your SD card or USB drive in your Wii.
-1. Launch the Homebrew Channel on your Wii.
-1. Launch Wii Mod Lite.
-1. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
-1. When `IOS31.wad` is highlighted, press +, then do the same for all the other WADs.
-1. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted WAD to uninstall it, then try installing it again.
-1. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+2. Follow the instructions it gives you.
+3. You should get the Channels that you want. They need to be installed **even if you already have them on your Wii, because you will need to install the patched WAD instead**.
+4. (`If RiiConnect24 Patcher copied everything to the SD card or USB drive, you can skip this step`) Copy the `apps` and `wad` folder to your SD card or USB drive.
+5. Put your SD card or USB drive in your Wii.
+6. Launch the Homebrew Channel on your Wii.
+7. Launch Wii Mod Lite.
+8. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+9. When `IOS31.wad` is highlighted, press +, then do the same for all the other WADs.
+10. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted WAD to uninstall it, then try installing it again.
+11. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
 ##### Section II - Patching nwc24msg.cfg
 
 You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
 
 1. Launch RiiConnect24 Mail Patcher.
-1. It should only take a few seconds to patch your nwc24msg.cfg. When it's done, press HOME to exit.
+2. It should only take a few seconds to patch your nwc24msg.cfg. When it's done, press HOME to exit.
 
 If the previous step failed with an "net_get_status: -24 - Couldn't request the data: -24" error, please check the internet connection on your Wii.
 {: .notice--warning}
@@ -72,21 +72,21 @@ If you were unable to patch your nwc24msg.cfg correctly, e-mail us at [support@r
 You need to set your DNS in order to get the Forecast and News Channel to point to our servers. This DNS is also useful if you want to play Wiimmfi.
 
 1. Go to `Wii Options`.
-1. Go to `Wii Settings`.
-1. Go to `Page 2`, then click on `Internet`.
-1. Go to `Connection Settings`.
-1. Select your current connection.
-1. Go to `Change Settings`.
-1. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`.
-1. Type in `164.132.44.106` as the primary DNS.
-1. Type in `8.8.8.8` as the secondary DNS (or `1.1.1.1`).
-1. Select `Confirm`, then select `Save`.
-1. Select `OK` to perform a connection test.
-1. If the connection test was successful, select `No` to skip the Wii System Update.
-1. Go to `WiiConnect24`, then `WiiConnect24` again, and make sure it is enabled.
-1. Back on the WiiConnect24 menu, go to `Standby Connection` and make sure it is enabled.
-1. At `Slot Illumination`, we recommend you set the disc light to `Dim` or `Bright`, but this is optional.
-1. Finally, go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`. Please read through this.
+2. Go to `Wii Settings`.
+3. Go to `Page 2`, then click on `Internet`.
+4. Go to `Connection Settings`.
+5. Select your current connection.
+6. Go to `Change Settings`.
+7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`.
+8. Type in `164.132.44.106` as the primary DNS.
+9. Type in `8.8.8.8` as the secondary DNS (or `1.1.1.1`).
+10. Select `Confirm`, then select `Save`.
+11. Select `OK` to perform a connection test.
+12. If the connection test was successful, select `No` to skip the Wii System Update.
+13. Go to `WiiConnect24`, then `WiiConnect24` again, and make sure it is enabled.
+14. Back on the WiiConnect24 menu, go to `Standby Connection` and make sure it is enabled.
+15. At `Slot Illumination`, we recommend you set the disc light to `Dim` or `Bright`, but this is optional.
+16. Finally, go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`. Please read through this.
 
 
 [Continue to Wiimmfi](wiimmfi)<br>

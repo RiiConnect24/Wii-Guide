@@ -36,11 +36,12 @@ If you're getting one of these errors (and not any other error), you should be a
 #### Instructions
 
 1. Launch WiiXplorer.
-1. Go to `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` and then select `Yes` for both dialogs that appear on the screen.
-1. Press Back until you have reached the file explorer screen.
-1. Select the tiny blue SD Card icon, then select `NAND`.
-1. Navigate to `title` -> `00010002` -> XXXXXXXX -> `data`, where XXXXXXXX is one of the folders above.
-1. Hover over `wc24dl.vff` and press the + button and select `Delete`.
-1. Try to launch the Channel you were having trouble with now.
+2. Go to `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` and then select `Yes` for both dialogs that appear on the screen.
+3. Press Back until you have reached the file explorer screen.
+4. Select the tiny blue SD Card icon, then select `NAND`.
+5. Navigate to `title` -> `00010002` -> XXXXXXXX -> `data`, where XXXXXXXX is one of the folders above.
+6. Hover over `wc24dl.vff` and press the + button and select `Delete`.
+
+Try to launch the Channel you were having trouble with now.
 
 [Return to RiiConnect24 installation page](riiconnect24)
