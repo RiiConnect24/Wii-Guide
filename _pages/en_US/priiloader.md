@@ -19,7 +19,6 @@ Please do **not** install Priiloader on a vWii (Wii mode on Wii U). You will bri
 * [Priiloader](/assets/files/Priiloader_v0_8_2.zip)
 
 #### Instructions
-
 ##### Section I - Downloading/Installing
 
 1. Download Priiloader and extract it to the root of your SD card or USB drive.

@@ -17,12 +17,6 @@ One of BootMii's most important features is the ability to backup and restore yo
 
 #### Instructions
 
-In order to navigate BootMii, you have to use the buttons on your actual Wii console (or a GameCube Controller in port 1). You cannot use a Wii Remote.<br>
-To navigate between options, press the POWER Button on your Wii (or the right +Control Pad button on a GameCube controller).<br>
-To select an option, press the RESET Button on your Wii (or the A button on a GameCube controller).<br>
-You can navigate left or right with a GameCube controller, with the buttons on your Wii you can only navigate right.
-{: .notice--info}
-
 Don't worry when "bad blocks" are detected on a NAND backup. These are completely normal.
 {: .notice--info}
 
@@ -31,11 +25,17 @@ Do not turn off your Wii when backing up your NAND!
 
 1. Launch the Homebrew Channel.
 2. Press the HOME Button, then select "Launch BootMii".
+   - Navigating BootMii is not possible using a Wii remove. You'd have to either use the buttons on your Wii console or a GameCube controller plugged into port 1.
+     To navigate between options, press POWER on your Wii (or the right +Control Pad button on a GameCube controller). Keep in mind that when using the wii buttons, you can only navigate right but when attempting to go past the last entry, it'll warp you to the first one. This is not a limitation on GameCube Controllers; You can navigate left and right.
+	 To select an option, hit RESET on your Wii or A on your GameCube controller.
 3. Press the Options button (the one with the gears).
 4. Press the BackupMii button (the one with the green arrow).
-5. A NAND backup will start. You can watch the progress on the screen.
-6. When it's done backing up, it will verify the backup. It can be skipped by pressing the EJECT button if you want, but we recommend to keep it running.
-7. When the backup is fully complete, exit the NAND backup screen by pressing any button. To get out of BootMii, press the Back button (the one with the arrow) and then you can press either the Wii Menu button or the Homebrew Channel button to exit where you want to.
+- A NAND backup will start. You can watch the progress on the screen.
+- Do not Power Off your Nintendo Wii when backing up your Wii.
+- "Bad Blocks" are normal. Don't worry when you see one on a NAND backup
+- After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii Console.
+5. When the backup is fully complete, exit the NAND backup screen by pressing any button.
+6. To exit BootMii, press the Back button (the one with the arrow) and then you can press either the Wii Menu button or the Homebrew Channel button to exit where you want to.
 
 To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
 {: .notice--info}

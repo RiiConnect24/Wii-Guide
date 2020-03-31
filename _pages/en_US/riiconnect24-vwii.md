@@ -11,9 +11,7 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 Guide to installing [RiiConnect24](https://rc24.xyz) on your vWii (Virtual Wii on Wii U) with: CMOC/MCC, Nintendo Channel, EVC and News Channel along with forced 4:3 aspect ratio patching.
 
-Since certain features found in the original Wii are not present in the vWii,
-we can only partially utilize RiiConnect24. See [what's currently
-working](#whats-currently-working) for details.
+Since certain features found in the original Wii are not present in the vWii, we can only partially utilize RiiConnect24. See [what's currently working](#whats-currently-working) for details.
 {: .notice--warning}
 
 #### Warnings
@@ -21,27 +19,15 @@ working](#whats-currently-working) for details.
 We are **NOT** responsible if you brick, or damage your console in any way whatsoever. If you follow this guide exactly, you shouldn't have any problems.
 {: .notice--warning}
 
-Do **NOT** perform this guide on any other console than the vWii (Virtual Wii
-on Wii U). If you're looking for instructions for a Nintendo Wii, use
-[wii.guide/riiconnect24](riiconnect24).
-{: .notice--warning}
-
-The following is a list of things that can potentially **BRICK** your vWii (don't do these things!):
-* Installing IOS for a Wii console on vWii.
-* Installing Wii menu themes not formatted correctly for vWii and/or your region.
-* Installing BootMii and/or Priiloader/Preloader.
-* Failure during the install of crucial system/IOS titles (e.g. power outage).
-* Modifying the vWii NAND without knowing what you are doing.
+Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on Wii U). If you're looking for instructions for a Nintendo Wii, use [wii.guide/riiconnect24](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [wii.guide/riiconnect24-dolphin](/riiconnect24-dolphin)
 {: .notice--warning}
 
 #### What you need
 
 * A PC or mobile device with internet access and the ability to interact with SD cards.
 * An SD card formatted as FAT32 (at least 2GB) with enough available space. SDHC or SDXC cards formatted as FAT32 can be known to work.
-* A Wii U console capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiu.hacks.guide](https://wiiu.hacks.guide/), as well as [wiiu.hacks.guide/vwii-modding](https://wiiu.hacks.guide/vwii-modding) and then come back.**
-* [RiiConnect24
-Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
-(Windows only, for now...)
+* A Wii U console capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii/) and then come back.**
+* [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases) (Windows only, for now...)
 
 After following the above linked guide, you should have:
 * A vWii NAND backup and keys (keep these stored safely!!)
@@ -52,22 +38,16 @@ After following the above linked guide, you should have:
 
 #### Instructions
 
-If you use GNU/Linux or macOS on your PC, or use a smartphone, please [follow the manual guide](https://pad.snopyta.org/s/rJ2N0B1XU), to install RiiConnect24. The patcher we provide is currently Windows-only. The end result is the same regardless of which method you follow.
+If you use GNU/Linux or macOS on your PC, or use a smartphone, please [follow the manual guide](https://pad.snopyta.org/s/rJ2N0B1XU), to install RiiConnect24. The patcher we provide is currently Windows-only. The end result is the same regardless of the method followed.
 {: .notice--info}
 
 ##### Section I - Running the patcher
 
-Using the RiiConnect24 Patcher you should've downloaded earlier in [What you
-need](#what-you-need), you will be downloading and patching IOS31, News,
-Everybody Votes, Nintendo and Check Mii Out Channels for use on your vWii.
+Using the RiiConnect24 Patcher you should've downloaded earlier in [What you need](#what-you-need), you will be downloading and patching IOS31, News, Everybody Votes, Nintendo and Check Mii Out Channels for use on your vWii.
 
-1. Run `RiiConnect24Patcher.bat` on your PC, and follow the on-screen
-instructions.
-1. Confirm that after running through the patcher, you have 3 folders. Either in the
-same folder as `RiiConnect24Patcher.bat`, or on your SD card (depending on
-what options you selected in the patcher). If they are in the same folder as
-the `RiiConnect24Patcher.bat` file, move the folders to the root of your SD
-card.
+1. Run `RiiConnect24Patcher.bat` on your PC, and follow the on-screen instructions.
+1. Confirm that after running through the patcher, you have 3 folders. Either in the same folder as `RiiConnect24Patcher.bat`, or on your SD card (depending on what options you selected in the patcher).
+   - If they are in the same folder as the `RiiConnect24Patcher.bat` file, move the folders to the root of your SD card.
 
 ##### Section II - Installing the newly patched WADs
 
@@ -79,17 +59,12 @@ card.
 
 ##### Section III - Using RiiConnect24
 
-After following the above sections, you're almost able to utilize RiiConnect24
-on your Wii U. You just need to perform the following steps **after every vWii
-reboot**.
+After following the above sections, you're almost able to utilize RiiConnect24 on your Wii U. You just need to perform the following steps **after every vWii reboot**.
 
-1. On the vWii's **Wii Menu**, launch the **Homebrew Channel** and launch the
-**ConnectMii** homebrew application.
-* This will enable the WiiConnect24 and Standby Connection flags required
-by the WiiConnect24 Channels.
+1. On the vWii's **Wii Menu**, launch the **Homebrew Channel** and launch the **ConnectMii** homebrew application.
+* This will enable the WiiConnect24 and Standby Connection flags required by the WiiConnect24 Channels.
 1. Launch the WiiConnect24 Channels
-* You should now be able to utilize all of the WiiConnect24 Channels you
-have installed!
+* You should now be able to utilize all of the WiiConnect24 Channels you have installed!
 
 #### What's currently working?
 The following RiiConnect24 services are **working** on the vWii:

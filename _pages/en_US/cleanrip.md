@@ -27,7 +27,7 @@ Do you want to make a backup of your games? This tutorial will explain you how t
 ![Device type](/images/CleanRip/2.jpg)
 1. On this screen, it asks you if you want to download a file with game checksums so you can verify the dump created is a 1:1 copy of the disc. It's your choice whether to say `Yes` or `No` to download this file.
 ![DAT](/images/CleanRip/3.jpg)
-1. Now insert the game you want to dump.
+1. Now insert the game you'd like to dump.
 ![DVD](/images/CleanRip/4.jpg)
 ![Initialising Disc](/images/CleanRip/5.jpg)
 1. Set it as shown on the screen below.<br>If you know that you are dumping a game that uses a dual layer disc, like `Super Smash Bros. Brawl` or `Metroid: Other M`, set `Dual Layer` to `Yes`.

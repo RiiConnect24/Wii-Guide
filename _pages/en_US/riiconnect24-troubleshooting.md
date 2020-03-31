@@ -41,6 +41,6 @@ If you're getting one of these errors (and not any other error), you should be a
 1. Select the tiny blue SD Card icon, then select `NAND`.
 1. Navigate to `title` -> `00010002` -> XXXXXXXX -> `data`, where XXXXXXXX is one of the folders above.
 1. Hover over `wc24dl.vff` and press the + button and select `Delete`.
-1. Try to launch the Channel you were having trouble with now. It should work fine. If not, please join our Discord chat and we'll try to help.
+1. Try to launch the Channel you were having trouble with now.
 
 [Return to RiiConnect24 installation page](riiconnect24)

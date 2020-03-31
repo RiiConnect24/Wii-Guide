@@ -24,8 +24,8 @@ This exploit is one of many. Check out the [Get Started](/get-started) page for 
 ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
 1. Extract the contents of the downloaded ZIP to your SD card.
 1. On your Wii, return to the Wii Menu and then open the Message Board.
-1. Load the red letter with a bomb icon.<br>
-   In various scenarios, you may need to look at the previous or next day to find it.
+1. Load the red letter with a bomb icon.
+   - In various scenarios, you may need to look at the previous or next day to find it.
 
 ![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
 
