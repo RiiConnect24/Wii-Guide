@@ -7,12 +7,6 @@ main:
     title: FAQ
     url: faq
   -
-    title: Doações
-    url: donations
-  -
-    title: Créditos
-    url: credits
-  -
     title: RiiConnect24
     url: riiconnect24
   -
@@ -21,8 +15,6 @@ main:
 bottom:
   -
     title: Para suporte em Inglês, peça ajuda em <a href="https://discord.gg/b4Y7jfD">RiiConnect24 no Discord</a>.
-  -
-    title: Se você gostou desse guia, nós aceitamos <a href="donations">Doações</a> através do <a href="https://paypal.me/RC24">PayPal</a> ou <a href="https://www.patreon.com/bePatron?u=7497603">Patreon</a>.
 footer:
   -
     title: Fonte
@@ -30,6 +22,9 @@ footer:
   -
     title: Navegação do Site
     url: site-navigation
+  -
+    title: Doações
+    url: donations
 sidebar_title:
   -
     title: Progresso Geral

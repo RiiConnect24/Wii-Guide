@@ -7,12 +7,6 @@ main:
     title: Często zadawane pytania
     url: faq
   -
-    title: Datki
-    url: donations
-  -
-    title: Twórcy
-    url: credits
-  -
     title: RiiConnect24
     url: riiconnect24
   -
@@ -21,8 +15,6 @@ main:
 bottom:
   -
     title: Dla wsparcia po Polsku, dołącz do <a href="https://discord.gg/b4Y7jfD">serwera RiiConnect24 na Discord</a>.
-  -
-    title: Jeżeli podoba Ci się ten poradnik, akceptujemy <a href="donations">datki</a> poprzez <a href="https://paypal.me/RC24">PayPal</a> lub <a href="https://www.patreon.com/bePatron?u=7497603">Patreon</a>.
 footer:
   -
     title: Kod źródłowy
@@ -30,6 +22,9 @@ footer:
   -
     title: Spis stron
     url: site-navigation
+  -
+    title: Datki
+    url: donations
 sidebar_title:
   -
     title: Całkowity postęp
