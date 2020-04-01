@@ -22,7 +22,7 @@ Dumping to your SD card or USB Drive is quicker but it will take up space on you
 ##### Section I - Downloading/Installing
 
 1. Extract CleanRip and put it in the `apps` folder on your SD card or USB drive.
-1. Insert your SD card into your Wii, and launch CleanRip from the Homebrew Channel.
+2. Insert your SD card into your Wii, and launch CleanRip from the Homebrew Channel.
 
 ##### Section II - Ripping
 
