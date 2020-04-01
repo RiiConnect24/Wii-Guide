@@ -488,177 +488,177 @@ defaults:
       permalink: /zh_TW/:basename:output_ext
       lang: zh-Hant
   - scope:
-      path: "_pages/af_ZA/home.txt"
+      path: "_pages/af_ZA/home.md"
       type: pages
     values:
       permalink: /af_ZA/index:output_ext
   - scope:
-      path: "_pages/ar_SA/home.txt"
+      path: "_pages/ar_SA/home.md"
       type: pages
     values:
       permalink: /ar_SA/index:output_ext
   - scope:
-      path: "_pages/ca_ES/home.txt"
+      path: "_pages/ca_ES/home.md"
       type: pages
     values:
       permalink: /ca_ES/index:output_ext
   - scope:
-      path: "_pages/cs_CZ/home.txt"
+      path: "_pages/cs_CZ/home.md"
       type: pages
     values:
       permalink: /cs_CZ/index:output_ext
   - scope:
-      path: "_pages/da_DK/home.txt"
+      path: "_pages/da_DK/home.md"
       type: pages
     values:
       permalink: /da_DK/index:output_ext
   - scope:
-      path: "_pages/de_DE/home.txt"
+      path: "_pages/de_DE/home.md"
       type: pages
     values:
       permalink: /de_DE/index:output_ext
   - scope:
-      path: "_pages/el_GR/home.txt"
+      path: "_pages/el_GR/home.md"
       type: pages
     values:
       permalink: /el_GR/index:output_ext
   - scope:
-      path: "_pages/en_PT/home.txt"
+      path: "_pages/en_PT/home.md"
       type: 
     values:
       permalink: /en_PT/index:output_ext
   - scope:
-      path: "_pages/en_US/home.txt"
+      path: "_pages/en_US/home.md"
       type: pages
     values:
       permalink: /index:output_ext
   - scope:
-      path: "_pages/es_ES/home.txt"
+      path: "_pages/es_ES/home.md"
       type: pages
     values:
       permalink: /es_ES/index:output_ext
   - scope:
-      path: "_pages/fi_FI/home.txt"
+      path: "_pages/fi_FI/home.md"
       type: pages
     values:
       permalink: /fi_FI/index:output_ext
   - scope:
-      path: "_pages/fr_FR/home.txt"
+      path: "_pages/fr_FR/home.md"
       type: pages
     values:
       permalink: /fr_FR/index:output_ext
   - scope:
-      path: "_pages/he_IL/home.txt"
+      path: "_pages/he_IL/home.md"
       type: pages
     values:
       permalink: /he_IL/index:output_ext
   - scope:
-      path: "_pages/hu_HU/home.txt"
+      path: "_pages/hu_HU/home.md"
       type: pages
     values:
       permalink: /hu_HU/index:output_ext
   - scope:
-      path: "_pages/id_ID/home.txt"
+      path: "_pages/id_ID/home.md"
       type: pages
     values:
       permalink: /id_ID/index:output_ext
   - scope:
-      path: "_pages/it_IT/home.txt"
+      path: "_pages/it_IT/home.md"
       type: pages
     values:
       permalink: /it_IT/index:output_ext
   - scope:
-      path: "_pages/ja_JP/home.txt"
+      path: "_pages/ja_JP/home.md"
       type: pages
     values:
       permalink: /ja_JP/index:output_ext
   - scope:
-      path: "_pages/ko_KR/home.txt"
+      path: "_pages/ko_KR/home.md"
       type: pages
     values:
       permalink: /ko_KR/index:output_ext
   - scope:
-      path: "_pages/ms_MY/home.txt"
+      path: "_pages/ms_MY/home.md"
       type: pages
     values:
       permalink: /ms_MY/index:output_ext
   - scope:
-      path: "_pages/no_NO/home.txt"
+      path: "_pages/no_NO/home.md"
       type: pages
     values:
       permalink: /no_NO/index:output_ext
   - scope:
-      path: "_pages/nl_NL/home.txt"
+      path: "_pages/nl_NL/home.md"
       type: pages
     values:
       permalink: /nl_NL/index:output_ext
   - scope:
-      path: "_pages/pl_PL/home.txt"
+      path: "_pages/pl_PL/home.md"
       type: pages
     values:
       permalink: /pl_PL/index:output_ext
   - scope:
-      path: "_pages/es_MX/home.txt"
+      path: "_pages/es_MX/home.md"
       type: pages
     values:
       permalink: /es_MX/index:output_ext
   - scope:
-      path: "_pages/pt_BR/home.txt"
+      path: "_pages/pt_BR/home.md"
       type: pages
     values:
       permalink: /pt_BR/index:output_ext
   - scope:
-      path: "_pages/pt_PT/home.txt"
+      path: "_pages/pt_PT/home.md"
       type: pages
     values:
       permalink: /pt_PT/index:output_ext
   - scope:
-      path: "_pages/ro_RO/home.txt"
+      path: "_pages/ro_RO/home.md"
       type: pages
     values:
       permalink: /ro_RO/index:output_ext
   - scope:
-      path: "_pages/ru_RU/home.txt"
+      path: "_pages/ru_RU/home.md"
       type: pages
     values:
       permalink: /ru_RU/index:output_ext
   - scope:
-      path: "_pages/sr_SP/home.txt"
+      path: "_pages/sr_SP/home.md"
       type: pages
     values:
       permalink: /sr_SP/index:output_ext
   - scope:
-      path: "_pages/sv_SE/home.txt"
+      path: "_pages/sv_SE/home.md"
       type: pages
     values:
       permalink: /sv_SE/index:output_ext
   - scope:
-      path: "_pages/th_TH/home.txt"
+      path: "_pages/th_TH/home.md"
       type: pages
     values:
       permalink: /th_TH/index:output_ext
   - scope:
-      path: "_pages/tr_TR/home.txt"
+      path: "_pages/tr_TR/home.md"
       type: pages
     values:
       permalink: /tr_TR/index:output_ext
   - scope:
-      path: "_pages/uk_UA/home.txt"
+      path: "_pages/uk_UA/home.md"
       type: pages
     values:
       permalink: /uk_UA/index:output_ext
   - scope:
-      path: "_pages/vi_VN/home.txt"
+      path: "_pages/vi_VN/home.md"
       type: pages
     values:
       permalink: /vi_VN/index:output_ext
   - scope:
-      path: "_pages/zh_CN/home.txt"
+      path: "_pages/zh_CN/home.md"
       type: pages
     values:
       permalink: /zh_CN/index:output_ext
   - scope:
-      path: "_pages/zh_TW/home.txt"
+      path: "_pages/zh_TW/home.md"
       type: pages
     values:
       permalink: /zh_TW/index:output_ext
