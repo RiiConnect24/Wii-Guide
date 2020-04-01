@@ -11,21 +11,13 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 One of BootMii's most important features is the ability to backup and restore your Wii's NAND storage. We will be going over how to perform a NAND backup. You can then restore from that backup for whatever reason. We recommend making a NAND backup regularly or before you do something risky to your console (and if you know what you're doing, you won't have to do anything risky).
 
-#### What you need
-
+#### Requirements
 * An SD card with at least 512MB of free space
 
 #### Instructions
-
-Don't worry when "bad blocks" are detected on a NAND backup. These are completely normal.
-{: .notice--info}
-
-Do not turn off your Wii when backing up your NAND!
-{: .notice--warning}
-
 1. Launch the Homebrew Channel.
 2. Press the HOME Button, then select "Launch BootMii".
-   - Navigating BootMii is not possible using a Wii remove. You'd have to either use the buttons on your Wii console or a GameCube controller plugged into port 1.
+   - Navigating BootMii is not possible using a Wii remote. You'd have to either use the buttons on your Wii console or a GameCube controller plugged into port 1.
      To navigate between options, press POWER on your Wii (or the right +Control Pad button on a GameCube controller). Keep in mind that when using the wii buttons, you can only navigate right but when attempting to go past the last entry, it'll warp you to the first one. This is not a limitation on GameCube Controllers; You can navigate left and right.
 	 To select an option, hit RESET on your Wii or A on your GameCube controller.
 3. Press the Options button (the one with the gears).

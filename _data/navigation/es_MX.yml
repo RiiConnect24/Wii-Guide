@@ -7,12 +7,6 @@ main:
     title: FAQ
     url: faq
   -
-    title: Donaciones
-    url: donations
-  -
-    title: Créditos
-    url: credits
-  -
     title: RiiConnect24
     url: riiconnect24
   -
@@ -30,6 +24,9 @@ footer:
   -
     title: Mapa del sitio
     url: site-navigation
+  -
+    title: Donaciones
+    url: donations
 sidebar_title:
   -
     title: Progreso General
