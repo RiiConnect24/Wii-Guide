@@ -14,10 +14,10 @@ main:
     url: wiimmfi
 bottom:
   - 
-    title: For support in English, ask for help at <a href="https://discord.gg/b4Y7jfD">RiiConnect24 on Discord</a>.
+    title: Για υποστήριξη στα Αγγλικά, ζητήστε βοήθεια στο <a href="https://discord.gg/b4Y7jfD">RiiConnect24 στο Discord</a>.
 footer:
   - 
-    title: Source
+    title: Πηγή
     url: https://github.com/RiiConnect24/Wii-Guide/
   - 
     title: Site Navigation
