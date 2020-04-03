@@ -24,7 +24,7 @@ footer:
     url: site-navigation
   - 
     title: Doações
-    url: donations
+    url: doações
 sidebar_title:
   - 
     title: Progresso Geral
@@ -37,10 +37,10 @@ sidebar_pages:
     url: faq
   - 
     title: Doações
-    url: donations
+    url: doações
   - 
     title: Créditos
-    url: credits
+    url: créditos
   - 
     title: RiiConnect24
     url: riiconnect24
