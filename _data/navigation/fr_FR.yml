@@ -1,7 +1,7 @@
 ---
 main:
   - 
-    title: Wii Guide
+    title: Guide wii
     url: /
   - 
     title: FAQ
@@ -14,7 +14,7 @@ main:
     url: wiimmfi
 bottom:
   - 
-    title: For support in English, ask for help at <a href="https://discord.gg/b4Y7jfD">RiiConnect24 on Discord</a>.
+    title: Pour un support en anglais, demander ici <a href="https://discord.gg/b4Y7jfD">discord</a>.
 footer:
   - 
     title: Source
