@@ -66,14 +66,14 @@ cIOS is used for USB Loaders to play backups. Fair Warning cIOS is still in the 
 This version of cIOS is only for the Wii Mini
 {: .notice--info}
 
-1. Download the cIOS File from https://bluebomb.glitch.me/d2xl-cIOS/index.html
-1. Open the archive and drag and drop the only folder to the "apps" folder on your USB Drive 
+1. Download the cIOS File from [here](https://bluebomb.glitch.me/d2xl-cIOS/index.html)
+1. Open the archive and drag and drop the only folder to the `/apps/` folder on your USB Drive 
 1. Open the Homebrew Channel on your Wii Mini
 1. Launch the d2x cIOS installer
-1. First, you gotta select which cIOS to install. in "Select cIOS", Change the value to "d2xl-v1-beta2"
-1. Now Go to "Select cIOS base" and change the value to "57"
-1. Now Go to "Select cIOS slot" and change the value to "249"
-      Under "NOTES" there will be a section "Offline installation". Take a note of the exact version number (5 digits directly before the ".wad" extension).
+1. First, you gotta select which cIOS to install. in `Select cIOS`, Change the value to `d2xl-v1-beta2`
+1. Now Go to "Select cIOS base" and change the value to `57`
+1. Now Go to "Select cIOS slot" and change the value to `249`
+      Under "NOTES" there will be a section "Offline installation". Take a note of the exact version number (5 digits directly before the `.wad` extension).
 1. Press A to start the installation.
        If it fails with a weird "TMD version mismatch" error, that isn't a problem. Just try again, but this time, while selecting the cIOS base, press left/right on the Wiimote until the 5-digit number from earlier is different than when you tried before. This time, it should work - one of the two version numbers should work.
 1. After successfully installing the cIOS press B to exit. Now you have cIOS installed.
@@ -81,6 +81,6 @@ This version of cIOS is only for the Wii Mini
 ##### Section III - Enabling Ethernet
 
 1. Download [this tool](/assets/files/Wii_Mini_Ethernet_Enable.zip)
-1. Add it to the /apps/ folder on your USB.
+1. Add it to the `/apps/` folder on your USB.
 1. Run it from the Homebrew Channel.
 1. That's all, the Ethernet should work now.
