@@ -19,8 +19,9 @@ This exploit is one of many. Check out the [Get Started](/get-started) page for 
 
 #### Instructions
 
-1. Go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
-2. Go to [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure `Bundle the HackMii Installer for me!` is checked*, and click either "Cut the red wire" or "Cut the blue wire"; it doesn't matter which one you choose.
+1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
+2. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure `Bundle the HackMii Installer for me!` is checked*, and cut either wire
+   - Whichever wire you choose to cut doesn't matter.
 ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
 3. Extract the contents of the downloaded ZIP to your SD card.
 4. On your Wii, return to the Wii Menu and then open the Message Board.

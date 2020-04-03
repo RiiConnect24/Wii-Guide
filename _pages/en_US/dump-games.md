@@ -66,7 +66,7 @@ Your Wii and your computer must be connected to one local network
 ![4](/images/DumpDiscs_LAN/4.jpg)
 4. Remember your Wii URL (IP address)
 ![5](/images/DumpDiscs_LAN/5.jpg)
-5. On your computer in your web browser, type in the Wii URL and hit ENTER.
+5. On your browser, visit the Wii URL/IP address website given to you.
 ![6](/images/DumpDiscs_LAN/6.jpg)
 6. You should see this. Click on `Click here to download XXXX.iso`
 ![7](/images/DumpDiscs_LAN/7.jpg)

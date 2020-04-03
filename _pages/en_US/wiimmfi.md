@@ -9,9 +9,7 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 ![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
 
-Wiimmfi is a replacement service for the now-defunct Nintendo Wi-Fi Connection. It has been developed by Wiimm and Leseratte. 
-
-[Wiimmfi's site is here.](https://wiimmfi.de/)
+[Wiimmfi](https://wiimmfi.de) is a replacement service for the now-defunct Nintendo Wi-Fi Connection. It has been developed by Wiimm and Leseratte. 
 
 ## Different patchers
 
@@ -51,9 +49,11 @@ Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for th
 You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
 
 #### What you need
-* Your copy of your game (WBFS, ISO, cISO, and other forms that a Wii can use are supported).
-* Wiimm's Disc Patcher: You need [this](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip) one if you're patching Mario Kart Wii, or [this](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z) one for other Wii games such as Super Smash Bros: Brawl.
-* A USB Loader, cIOS, and a USB to store the game on (you should already have these if you're using a USB Loader)
+- Your copy of your game (WBFS, ISO, cISO, and other forms that a Wii can use are supported).
+- Wiimm's Disc Patcher
+   - [Mario Kart Wii edition](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip)
+   - [Non-Mario Kart Wii edition](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z)
+- A USB Loader, cIOS, and a USB to store the game on (you should already have these if you're using a USB Loader)
 
 #### Instructions
 1. Extract the patcher of your choice to a folder, and place your copy of the game in it.
@@ -88,8 +88,10 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
 #### What you need
 
-* An SD card or USB drive
-* Mario Kart Wii Competition Patcher [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip) / [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
+- An SD card or USB drive
+- Mario Kart Wii Competition Patcher
+   - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
+   - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
 #### Instructions (for Wii)
 
@@ -107,7 +109,7 @@ If you're using the Wii U, you will have to run the competitions patcher wheneve
 MrBean35000vr and Chadderz have an amazing CTGP-R distribution, the application that allows you to use a set of custom tracks, has automatic Wiimmfi patching. Go to the [ChadSoft Website](http://chadsoft.co.uk) for the download and instructions.
 
 ### MKW Hack Pack (Mario Kart Wii)
-Huili has put together a really good collection of custom tracks and hacks called MKW Hack Pack, and it allows you to connect to Wiimmfi. To learn how to set it up, go to the [wiki page](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+Huili has put together a really good collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. To learn how to set it up, go to the [wiki page](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
 
 ### Wiimms MKW Fun (Mario Kart Wii)
 Wiimm and Leseratte created a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte and contains a Wiimmfi patch and lots of other features. You can find out more about it on its [wiki page](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun). 
