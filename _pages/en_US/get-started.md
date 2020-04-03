@@ -16,7 +16,7 @@ If you want to install homebrew on vWii, [follow this tutorial](https://wiiuguid
 
 ### Choose an exploit to use
 
-- [str2hax](str2hax) - Exploit that uses the Wii EULA (Recommended, no SD card nor Channel required)
+- [str2hax](str2hax) - Exploit that uses the Wii EULA (Recommended, no SD card nor Channel required, but requires changing the DNS settings)
 - [FlashHax](flashhax) - Exploit that uses the Internet Channel (No SD card required)
 - [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board (SD card required)
 - [BlueBomb](bluebomb) - Exploit that uses Bluetooth (No SD card required)
