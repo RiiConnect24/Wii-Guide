@@ -10,7 +10,7 @@ This tutorial will teach you how to install cIOS (custom IOS). While this is a r
 
 ## Requirements
 - An SD card or USB drive
-  [d2x cIOS Installer] (/assets/files/d2x-cIOS-Installer-Wii.zip)
+- [d2x cIOS Installer] (/assets/files/d2x-cIOS-Installer-Wii.zip)
   
 - Windows PC + [NUS Downloader](/assets/files/NUSDownloader_v19.zip)
    - This is only required if you cannot connect your Wii to the internet.
