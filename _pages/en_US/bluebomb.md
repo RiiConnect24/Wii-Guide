@@ -60,24 +60,30 @@ The Wii Mini should now boot to the HackMii installer (Do not attempt to install
 ##### Section II - cIOS Installation
 cIOS is used for USB Loaders to play backups. Be warned that cIOS is still in the experimental stage.
 {: .notice--info}
-This version of cIOS is only for the Wii Mini
-{: .notice--info}
+This version of cIOS is only for the Wii Mini. If you're on a Wii, please follow the [cIOS guide](/cios).
+{: .notice--warning}
 
 1. Download the cIOS File from [here](https://bluebomb.glitch.me/d2xl-cIOS/index.html)
-1. Open the archive and drag and drop the only folder to the `/apps/` folder on your USB Drive 
-1. Open the Homebrew Channel on your Wii Mini
-1. Launch the d2x cIOS installer
-1. First, you gotta select which cIOS to install. in `Select cIOS`, Change the value to `d2xl-v1-beta2`
-1. Select `Select cIOS base` and change the value to `57`
-1. Then select `Select cIOS slot` and change the value to `249`
-      Under "NOTES" there will be a section "Offline installation". Take a note of the exact version number (5 digits directly before the `.wad` extension).
-1. Press A to start the installation.
-       If it fails with a weird "TMD version mismatch" error, that isn't a problem. Just try again, but this time, while selecting the cIOS base, press left/right on the Wiimote until the 5-digit number from earlier is different than when you tried before. This time, it should work - one of the two version numbers should work.
-1. After successfully installing the cIOS press B to exit. Now you have cIOS installed.
+2. Open the archive and drag and drop the only folder to the `/apps/` folder on your USB Drive 
+3. Open the Homebrew Channel on your Wii Mini
+4. Launch the d2x cIOS installer
+5. For `Select cIOS`, change the value to `d2xl-v1-beta2`
+6. For `Select cIOS base`, change the value to `57`
+7. For `Select cIOS slot` and change the value to `249`
+   - Under "NOTES" there will be a section "Offline installation". Take a note of the exact version number (5 digits directly before the `.wad` extension).
+8. Press A to start the installation.
+   - If it fails with a weird "TMD version mismatch" error, that isn't a problem. Just try again, but this time, while selecting the cIOS base, press left/right on the Wiimote until the 5-digit number from earlier is different than when you tried before. This time, it should work - one of the two version numbers should work.
+9. After successfully installing the cIOS press B to exit.
+
+Now you have cIOS installed.
 
 ##### Section III - Enabling Ethernet
 
-1. Download [this tool](/assets/files/Wii_Mini_Ethernet_Enable.zip)
-1. Add it to the `/apps/` folder on your USB.
-1. Run it from the Homebrew Channel.
-1. That's all, the Ethernet should work now.
+Do not run this section if you're not on a Wii Mini. This section is **only** intended for Wii Mini owners.
+{: .notice--warning}
+
+1. Download [the Wii Mini Ethernet Enable tool](/assets/files/Wii_Mini_Ethernet_Enable.zip).
+2. Add it to the `/apps/` folder on your USB.
+3. Run it from the Homebrew Channel.
+
+Ethernet should work now.
