@@ -9,7 +9,7 @@ If you need help with anything regarding this tutorial, please join [the Wii Min
 
 ![BlueBomb](/images/bluebomb.png)
 
-Bluebomb is an exploit intended for Wii Mini Modding that takes advantage of an exploit in the bluetooth adapter. It's the only exploit for the Wii Mini but it can be used on the Original Wii as well. It doubles as brick recovery in case you didn't install Priiloader and/or BootMii.
+Bluebomb is an exploit intended for Wii Mini Modding that takes advantage of an exploit in the bluetooth adapter. It's the only exploit for the Wii Mini but it can be used on the original Wii as well. It can be used to recover from certain bricks on the Wii.
 
 For the original Wii, we recommend using [another exploit](/get-started) instead if your intention is to install the Homebrew Channel
 {: .notice--info}
@@ -22,14 +22,13 @@ This exploit will not work on a Wii U (vWii). Please follow [this guide instead]
 {: .notice--warning}
 
 #### Requirements
-- A Linux machine with a bluetooth adapter (an intergrated one will work)
+- A Linux machine with a Bluetooth adapter (an integrated one will work)
   - If you are using a Chromebook, you do not need to install another Operating System. You can enable [Linux in ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en)
   - Using Windows Subsystem for Linux will not work, due to the inability to access `bluetoothctl`.
   - If you do not have Linux, Ubuntu is the most user-friendly option
     - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/)
     - We recommend the LTS edition due to its stability, but the current release works as well.
 - USB Drive
-- Non Japanese or Korean Wii or Wii Mini
 
 ## Instructions
 1. Open the Linux Terminal.
@@ -43,7 +42,7 @@ This exploit will not work on a Wii U (vWii). Please follow [this guide instead]
 9. Extract the contents of the `hackmii_installer_v1.2` folder to the USB
 10. Eject the USB from the PC and plug into the Wii
    - If you're on a normal Wii with two USB slots, plug it in the top one
-11. Turn the Wii on and **make sure NO WiiMotes connect**! You can leave it on the Wii Heath and Safety Screen
+11. Turn the Wii on and do not pair a Wiimote. You can leave it on the Wii Heath and Safety Screen or System Menu
 ![Health and Safety Page](/images/Wii/Health_and_Safety_EN.png)
 12. In the terminal, type these commands to specific Wii Regions: `sudo ./bluebomb [a] ./stage0/MINI_SM_[b].bin stage1.bin`
   - If you are using an external USB Bluetooth Adapter (if the PC had bluetooth built in and you wish to use an external adapter instead), replace [a] with 1
@@ -81,6 +80,6 @@ This version of cIOS is only for the Wii Mini
 #### Enabling Ethernet
 
 1. Download [this tool](/assets/files/Wii_Mini_Ethernet_Enable.zip)
-1. Add it to your Apps folder on your USB.
+1. Add it to the /apps/ folder on your USB.
 1. Run it from the Homebrew Channel.
 1. That's all, the Ethernet should work now.
