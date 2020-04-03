@@ -19,7 +19,7 @@ If you want to install homebrew on vWii, [follow this tutorial](https://wiiuguid
 - [str2hax](str2hax) - Exploit that uses the Wii EULA (Recommended, no SD card nor Channel required)
 - [FlashHax](flashhax) - Exploit that uses the Internet Channel (No SD card required)
 - [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board (SD card required)
+- [BlueBomb](bluebomb) - Exploit that uses Bluetooth (No SD card required)
+    * Requires a computer with Bluetooth and GNU/Linux
+    * This is the only exploit that works on the **Wii Mini**
 
-If using a Wii Mini, you must use Bluebomb. (Requires a computer with Bluetooth and GNU/Linux)
-[Bluebomb](bluebomb)
-{: .notice--info}

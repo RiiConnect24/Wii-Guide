@@ -61,7 +61,7 @@ The Wii Mini should now boot to the HackMii installer (Do not attempt to install
 {: .notice--info}
 
 ##### Section II - cIOS Installation
-cIOS is used for USB Loaders to play backups. Fair Warning cIOS is still in the experimental stage.
+cIOS is used for USB Loaders to play backups. Be warned that cIOS is still in the experimental stage.
 {: .notice--info}
 This version of cIOS is only for the Wii Mini
 {: .notice--info}
@@ -71,8 +71,8 @@ This version of cIOS is only for the Wii Mini
 1. Open the Homebrew Channel on your Wii Mini
 1. Launch the d2x cIOS installer
 1. First, you gotta select which cIOS to install. in `Select cIOS`, Change the value to `d2xl-v1-beta2`
-1. Now Go to "Select cIOS base" and change the value to `57`
-1. Now Go to "Select cIOS slot" and change the value to `249`
+1. Select `Select cIOS base` and change the value to `57`
+1. Then select `Select cIOS slot` and change the value to `249`
       Under "NOTES" there will be a section "Offline installation". Take a note of the exact version number (5 digits directly before the `.wad` extension).
 1. Press A to start the installation.
        If it fails with a weird "TMD version mismatch" error, that isn't a problem. Just try again, but this time, while selecting the cIOS base, press left/right on the Wiimote until the 5-digit number from earlier is different than when you tried before. This time, it should work - one of the two version numbers should work.
