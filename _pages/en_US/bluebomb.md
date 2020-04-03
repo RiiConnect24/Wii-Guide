@@ -14,14 +14,14 @@ Bluebomb is an exploit intended for Wii Mini Modding that takes advantage of an 
 For the original Wii, we recommend using [another exploit](/get-started) instead if you intend to install the Homebrew Channel
 {: .notice--info}
 
-***If installing on the Wii Mini. BootMii can't be installed on the Wii Mini yet. Please don't attempt to install it. We won't be responsible if your device gets bricked. 
+If installing on the Wii Mini; BootMii can't be installed on the Wii Mini yet. Please don't attempt to install it. We won't be responsible if your device gets bricked. 
+{: .notice--warning}
+RiiConnect24 is not available with the Wii Mini yet. Do not attempt to install it as you will BRICK.
 {: .notice--info}
-RiiConnect24 is not available with the Wii Mini yet. Do not install it as you will BRICK
-{: .notice--info}
-This exploit will not work on a Wii U (vWii). Please follow [this guide instead](https://wiiu.hacks.guide/vwii-modding).
+This exploit will not work on a Wii U (vWii). Please follow [this guide instead](https://wiiuguide.xyz/#/vwii/).
 {: .notice--warning}
 
-#### Requirements
+#### What you need
 - A Linux machine with a Bluetooth adapter (an integrated one will work)
   - If you are using a Chromebook, you do not need to install another Operating System. You can enable [Linux in ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en)
   - Using Windows Subsystem for Linux will not work, due to the inability to access `bluetoothctl`.
@@ -30,7 +30,8 @@ This exploit will not work on a Wii U (vWii). Please follow [this guide instead]
     - We recommend the LTS edition due to its stability, but the current release works as well.
 - USB Drive
 
-## Instructions
+#### Instructions
+##### Section I - Performing the exploit
 1. Open the Linux Terminal.
 2. Disable the Bluetooth Service; `sudo systemctl disable --now bluetooth`
 3. Make a new folder for Bluebomb; `mkdir bluebomb`
@@ -59,7 +60,7 @@ The Wii Mini should now boot to the HackMii installer (Do not attempt to install
 [Continue to Homebrew Channel and BootMii Installation](hbc)
 {: .notice--info}
 
-#### cIOS Installation
+##### Section II - cIOS Installation
 cIOS is used for USB Loaders to play backups. Fair Warning cIOS is still in the experimental stage.
 {: .notice--info}
 This version of cIOS is only for the Wii Mini
@@ -77,7 +78,7 @@ This version of cIOS is only for the Wii Mini
        If it fails with a weird "TMD version mismatch" error, that isn't a problem. Just try again, but this time, while selecting the cIOS base, press left/right on the Wiimote until the 5-digit number from earlier is different than when you tried before. This time, it should work - one of the two version numbers should work.
 1. After successfully installing the cIOS press B to exit. Now you have cIOS installed.
 
-#### Enabling Ethernet
+##### Section III - Enabling Ethernet
 
 1. Download [this tool](/assets/files/Wii_Mini_Ethernet_Enable.zip)
 1. Add it to the /apps/ folder on your USB.
