@@ -16,8 +16,6 @@ For the original Wii, we recommend using [another exploit](/get-started) instead
 
 If installing on the Wii Mini; BootMii can't be installed on the Wii Mini yet. Please don't attempt to install it. We won't be responsible if your device gets bricked. 
 {: .notice--warning}
-RiiConnect24 is not available with the Wii Mini yet. Do not attempt to install it as you will BRICK.
-{: .notice--info}
 This exploit will not work on a Wii U (vWii). Please follow [this guide instead](https://wiiuguide.xyz/#/vwii/).
 {: .notice--warning}
 
