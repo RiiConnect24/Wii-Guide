@@ -9,9 +9,9 @@ If you need help with anything regarding this tutorial, please join [the Wii Min
 
 ![BlueBomb](/images/bluebomb.png)
 
-Bluebomb is an exploit intended for Wii Mini Modding that takes advantage of an exploit in the bluetooth adapter. It's the only exploit for the Wii Mini but it can be used on the original Wii as well. It can be used to recover from certain bricks on the Wii.
+Bluebomb is an exploit intended for Wii Mini Modding that takes advantage of an exploit in the Bluetooth adapter. It's the only exploit for the Wii Mini but it can be used on the original Wii as well. It can be used to recover from certain bricks on the Wii.
 
-For the original Wii, we recommend using [another exploit](/get-started) instead if your intention is to install the Homebrew Channel
+For the original Wii, we recommend using [another exploit](/get-started) instead if you intend to install the Homebrew Channel
 {: .notice--info}
 
 ***If installing on the Wii Mini. BootMii can't be installed on the Wii Mini yet. Please don't attempt to install it. We won't be responsible if your device gets bricked. 
@@ -45,14 +45,14 @@ This exploit will not work on a Wii U (vWii). Please follow [this guide instead]
 11. Turn the Wii on and do not pair a Wiimote. You can leave it on the Wii Heath and Safety Screen or System Menu
 ![Health and Safety Page](/images/Wii/Health_and_Safety_EN.png)
 12. In the terminal, type these commands to specific Wii Regions: `sudo ./bluebomb [a] ./stage0/MINI_SM_[b].bin stage1.bin`
-  - If you are using an external USB Bluetooth Adapter (if the PC had bluetooth built in and you wish to use an external adapter instead), replace [a] with 1
-    - Otherwise leave it blank
+  - If you are using an external USB Bluetooth Adapter (if the PC had Bluetooth built-in and you wish to use an external adapter instead), replace [a] with 1
+    - Otherwise, leave it blank
   - If you use a PAL region, replace [b] with `PAL`. Likewise, if you use an NTSC console, replace [b] with `NTSC`
 
 The Terminal should now print "Waiting to accept". The computer is now waiting for a connection from your Wii Mini.
 
 13. Start Pressing the `Sync` button (The Wii Mini Sync button is on the left side. On the normal Wii, it is right next to the SD card slot)
-   - Continue Pressing untill Terminal displays "Got connection handle".
+   - Continue Pressing until Terminal displays "Got connection handle".
 
 The Wii Mini should now boot to the HackMii installer (Do not attempt to install BootMii)
 
@@ -69,12 +69,12 @@ This version of cIOS is only for the Wii Mini
 1. Open the archive and drag and drop the only folder to the "apps" folder on your USB Drive 
 1. Open the Homebrew Channel on your Wii Mini
 1. Launch the d2x cIOS installer
-1. First you gotta select which cIOS to install. in "Select cIOS", Change the value to "d2xl-v1-beta2"
+1. First, you gotta select which cIOS to install. in "Select cIOS", Change the value to "d2xl-v1-beta2"
 1. Now Go to "Select cIOS base" and change the value to "57"
-1. Now Go to "Slect cIOS slot" and change the value to "249"
+1. Now Go to "Select cIOS slot" and change the value to "249"
       Under "NOTES" there will be a section "Offline installation". Take a note of the exact version number (5 digits directly before the ".wad" extension).
 1. Press A to start the installation.
-       If it fails with a weird "tmd version mismatch" error, that isn't a problem. Just try again, but this time, while selecting the cIOS base, press left/right on the wiimote until the 5-digit number from earlier is different than when you tried before. This time, it should work - one of the two version numbers should definitely work.
+       If it fails with a weird "TMD version mismatch" error, that isn't a problem. Just try again, but this time, while selecting the cIOS base, press left/right on the Wiimote until the 5-digit number from earlier is different than when you tried before. This time, it should work - one of the two version numbers should work.
 1. After successfully installing the cIOS press B to exit. Now you have cIOS installed.
 
 #### Enabling Ethernet
