@@ -11,20 +11,20 @@ If you need help with anything regarding this tutorial, please join [the Wii Min
 
 Bluebomb is an exploit intended for Wii Mini Modding that takes advantage of an exploit in the bluetooth adapter. It's the only exploit for the Wii Mini but it can be used on the Original Wii as well. It doubles as brick recovery in case you didn't install Priiloader and/or BootMii.
 
-For the Wii U & original Wii, we recommend using [another exploit](/get-started) instead if your intention is to install the Homebrew Launcher and/or ModMii
+For the Wii U & original Wii, we recommend using [another exploit](/get-started) instead if your intention is to install the Homebrew Channel
 {: .notice--info}
 
 ***If installing on the Wii Mini. BootMii can't be installed on the Wii Mini yet. Please don't attempt to install it. We won't be responsible if your device gets bricked. 
 {: .notice--info}
-RiiConnect is not available with the Wii Mini yet.
+RiiConnect is not available with the Wii Mini yet. Do not install it as you will BRICK
 {: .notice--info}
-This exploit will not work on a vWii. Please pick [another exploit](/get-started).
+This exploit will not work on a vWii. Please follow [this guide instead](https://wiiu.hacks.guide/vwii-modding).
 {: .notice--warning}
-For the Wii U & original Wii, we recommend using [another exploit](/get-started) instead if your intention is to install the Homebrew Launcher and/or ModMii
+For the original Wii, we recommend using [another exploit](/get-started) instead as they are all much less hassle.
 {: .notice--info}
 
 #### Requirements
-- A linux machine with a bluetooth adapter (an intergrated one will work)
+- A Linux machine with a bluetooth adapter (an intergrated one will work)
   - If you are using a Chromebook, you do not need to install another Operating System. You can enable [Linux in ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en)
   - Using Windows Subsystem for Linux will not work, due to the inability to access `bluetoothctl`.
   - If you do not have Linux, Ubuntu is the most user-friendly option
