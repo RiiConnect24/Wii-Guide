@@ -14,7 +14,7 @@ main:
     url: wiimmfi
 bottom:
   - 
-    title: For support in English, ask for help at <a href="https://discord.gg/b4Y7jfD">RiiConnect24 on Discord</a>.
+    title: Para soporte en Inglés, pide ayuda en <a href="https://discord.gg/b4Y7jfD">RiiConnect24 en Discord</a>.
 footer:
   - 
     title: Source
@@ -23,11 +23,11 @@ footer:
     title: Site Navigation
     url: site-navigation
   - 
-    title: Donations
-    url: donations
+    title: Donaciones
+    url: donaciones
 sidebar_title:
   - 
-    title: Overall Progress
+    title: Progreso General
 sidebar_pages:
   - 
     title: Wii Guide
@@ -36,11 +36,11 @@ sidebar_pages:
     title: FAQ
     url: faq
   - 
-    title: Donations
-    url: donations
+    title: Donaciones
+    url: donaciones
   - 
-    title: Credits
-    url: credits
+    title: Créditos
+    url: créditos
   - 
     title: RiiConnect24
     url: riiconnect24
