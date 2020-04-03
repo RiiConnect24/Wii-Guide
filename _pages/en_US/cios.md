@@ -12,9 +12,8 @@ This tutorial will teach you how to install cIOS (custom IOS). While this is a r
 - An SD card or USB drive
 - d2x cIOS Installer
    - [Wii](https://sites.google.com/site/completesg/backup-launchers/installation/d2x-cIOS-Installer-Wii.zip?attredirects=0&d=1)
-   - [Wii U (vWii)](https://sites.google.com/site/completesg/backup-launchers/installation/d2x-cIOS-Installer-vWii.zip?attredirects=0&d=1)
 - Windows PC + [NUS Downloader](https://sites.google.com/site/completesg/useful-tools/nus-downloader/NUSDownloader_v19.zip?attredirects=0&d=1)
-   - You do not need this if you have Internet Access on your Wii, or are using a vWii.
+   - You do not need this if you have Internet Access on your Wii.
 
 ## Instructions
 ### Section I - Offline NUS Downloads
@@ -65,7 +64,6 @@ Select cIOS base: 56
 Select cIOS slot: 249 (In some cases, it may warn you that the current (c)IOS or IOS STUB will be overwritten. You can ignore this warning.)
 Select cIOS version: 65535
    - This revision is only used by the Wii when checking updates. It is set to the highest version to prevent a system update from overriding it with a non-functional official IOS. 
-   - This option does not appear on the WiiU installer.
 ```
 ![Install cIOS 249](/images/Wii/Install249.png)
 2. Once set, press A twice to install.
