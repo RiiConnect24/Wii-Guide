@@ -44,7 +44,6 @@ This exploit will not work on a Wii U (vWii). Please follow [this guide instead]
 10. Eject the USB from the PC and plug into the Wii
    - If you're on a normal Wii with two USB slots, plug it in the top one
 11. Turn the Wii on and do not pair a Wiimote. You can leave it on the Wii Heath and Safety Screen or System Menu
-![Health and Safety Page](/images/Wii/Health_and_Safety_EN.png)
 12. In the terminal, type these commands to specific Wii Regions: `sudo ./bluebomb [a] ./stage0/MINI_SM_[b].bin stage1.bin`
   - If you are using an external USB Bluetooth Adapter (if the PC had Bluetooth built-in and you wish to use an external adapter instead), replace [a] with 1
     - Otherwise, leave it blank
