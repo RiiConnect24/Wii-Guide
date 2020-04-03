@@ -9,14 +9,18 @@ If you need help with anything regarding this tutorial, please join [the Wii Min
 
 ![BlueBomb](/images/bluebomb.png)
 
-BlueBomb is an exploit for Broadcom's Bluetooth stack made by Fullmetal5 used in the Nintendo Wii and Wii Mini.
+Bluebomb is an exploit intended for Wii Mini Modding that takes advantage of an exploit in the bluetooth adapter. It's the only exploit for the Wii Mini but it can be used on the Original Wii as well. It doubles as brick recovery in case you didn't install Priiloader and/or BootMii.
+
+For the Wii U & original Wii, we recommend using [another exploit](/get-started) instead if your intention is to install the Homebrew Launcher and/or ModMii
+{: .notice--info}
+
 ***If installing on the Wii Mini. BootMii can't be installed on the Wii Mini yet. Please don't attempt to install it. We won't be responsible if your device gets bricked. 
 {: .notice--info}
 RiiConnect is not available with the Wii Mini yet.
 {: .notice--info}
-Don't attempt to install this on the WiiU.
-{: .notice--info}
-This exploit is more steps than the other methods. If your console is not a Wii Mini, it is recommended to use FlashHax or Letterbomb instead.
+This exploit will not work on a vWii. Please pick [another exploit](/get-started).
+{: .notice--warning}
+For the Wii U & original Wii, we recommend using [another exploit](/get-started) instead if your intention is to install the Homebrew Launcher and/or ModMii
 {: .notice--info}
 
 #### Requirements
