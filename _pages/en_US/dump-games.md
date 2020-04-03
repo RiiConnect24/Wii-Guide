@@ -22,14 +22,16 @@ Dumping to your SD card or USB Drive is quicker but it will take up space on you
 ##### Section I - Downloading/Installing
 
 1. Extract CleanRip and put it in the `apps` folder on your SD card or USB drive.
-2. Insert your SD card into your Wii, and launch CleanRip from the Homebrew Channel.
+2. Insert your USB drive or SD card into your Wii, and launch CleanRip from the Homebrew Channel.
 
 ##### Section II - Ripping
 
-1. Select your device that you will be dumping the game to - your USB drive or SD card.
-![Device type](/images/CleanRip/2.jpg)
-2. On this screen, it asks you if you want to download a file with game checksums so you can verify the dump created is a 1:1 copy of the disc. It's your choice whether to say `Yes` or `No` to download this file.
-![DAT](/images/CleanRip/3.jpg)
+1. Decide whether you want to enable checksum calculations. This will make sure all of your dumps match the data on the disc exactly.
+![checksum calculation](/images/CleanRip/2.png)
+1. On this screen, it asks you if you want to download a file with game checksums so you can verify the dump created is a 1:1 copy of the disc. It's your choice whether to say `Yes` or `No` to download this file.
+![DAT](/images/CleanRip/9.png)
+1. Select the device you are ripping the game to.
+![hhhh](3.png)
 3. Now insert the game you'd like to dump.
 ![DVD](/images/CleanRip/4.jpg)
 ![Initialising Disc](/images/CleanRip/5.jpg)
