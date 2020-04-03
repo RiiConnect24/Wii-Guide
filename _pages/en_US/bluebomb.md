@@ -11,17 +11,15 @@ If you need help with anything regarding this tutorial, please join [the Wii Min
 
 Bluebomb is an exploit intended for Wii Mini Modding that takes advantage of an exploit in the bluetooth adapter. It's the only exploit for the Wii Mini but it can be used on the Original Wii as well. It doubles as brick recovery in case you didn't install Priiloader and/or BootMii.
 
-For the Wii U & original Wii, we recommend using [another exploit](/get-started) instead if your intention is to install the Homebrew Channel
+For the original Wii, we recommend using [another exploit](/get-started) instead if your intention is to install the Homebrew Channel
 {: .notice--info}
 
 ***If installing on the Wii Mini. BootMii can't be installed on the Wii Mini yet. Please don't attempt to install it. We won't be responsible if your device gets bricked. 
 {: .notice--info}
-RiiConnect is not available with the Wii Mini yet. Do not install it as you will BRICK
+RiiConnect24 is not available with the Wii Mini yet. Do not install it as you will BRICK
 {: .notice--info}
-This exploit will not work on a vWii. Please follow [this guide instead](https://wiiu.hacks.guide/vwii-modding).
+This exploit will not work on a Wii U (vWii). Please follow [this guide instead](https://wiiu.hacks.guide/vwii-modding).
 {: .notice--warning}
-For the original Wii, we recommend using [another exploit](/get-started) instead as they are all much less hassle.
-{: .notice--info}
 
 #### Requirements
 - A Linux machine with a bluetooth adapter (an intergrated one will work)
@@ -80,9 +78,9 @@ This version of cIOS is only for the Wii Mini
        If it fails with a weird "tmd version mismatch" error, that isn't a problem. Just try again, but this time, while selecting the cIOS base, press left/right on the wiimote until the 5-digit number from earlier is different than when you tried before. This time, it should work - one of the two version numbers should definitely work.
 1. After successfully installing the cIOS press B to exit. Now you have cIOS installed.
 
-#### Ethernet Enable
+#### Enabling Ethernet
 
-1. Download this tool from https://bluebomb.glitch.me/wii-mini-ethernet/index.html
-1. Add it to your Apps folder on your USB
-1. Run it in Homebrew.
-1. and you are set for life.
+1. Download [this tool](/assets/files/Wii_Mini_Ethernet_Enable.zip)
+1. Add it to your Apps folder on your USB.
+1. Run it from the Homebrew Channel.
+1. That's all, the Ethernet should work now.
