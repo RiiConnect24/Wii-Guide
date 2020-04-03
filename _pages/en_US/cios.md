@@ -8,7 +8,7 @@ This tutorial will teach you how to install cIOS (custom IOS). While this is a r
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-#### Requirements
+## Requirements
 - An SD card or USB drive
 - d2x cIOS Installer
    - [Wii](https://sites.google.com/site/completesg/backup-launchers/installation/d2x-cIOS-Installer-Wii.zip?attredirects=0&d=1)
@@ -16,8 +16,8 @@ This tutorial will teach you how to install cIOS (custom IOS). While this is a r
 - Windows PC + [NUS Downloader](https://sites.google.com/site/completesg/useful-tools/nus-downloader/NUSDownloader_v19.zip?attredirects=0&d=1)
    - You do not need this if you have Internet Access on your Wii, or are using a vWii.
 
-#### Instructions
-##### Section I - Offline NUS Downloads
+## Instructions
+### Section I - Offline NUS Downloads
 
 Skip to the next section if this doesn't apply to you (read above)
 {: .notice--info}
@@ -43,7 +43,7 @@ Optionally, if you wish to verify that the downloaded WADs are correct, use a ch
  - **MD5**: `ac8bbbea38f29e8d8959badb3badf18e`
  - **SHA1**: `b8fd4efbb6d7ae2f4e9328b3082901f5981701b1`
 
-##### Section III - Managing d2x cIOS installer
+### Section III - Managing d2x cIOS installer
 
 - Extract d2x cIOS Installer and put it in the `apps` folder on your SD card or USB drive.
    - Your storage device should look like this:
@@ -56,7 +56,7 @@ Optionally, if you wish to verify that the downloaded WADs are correct, use a ch
    ```
 2. Insert your SD card or USB drive into your Wii, and launch d2x cIOS Installer from the Homebrew Channel.
 
-##### Section III - Installing
+### Section III - Installing
 
 1. Press continue, then set the options to the following:
 ```
@@ -87,7 +87,7 @@ Select cIOS version: 65535
 ```
 6. Run it again, then exit once done.
 
-##### Options once complete
+### Options once complete
 
 You can now use homebrew such as [USB Loader GX](usbloadergx).
 {: .notice--info}

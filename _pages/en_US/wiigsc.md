@@ -20,9 +20,6 @@ In the case of a brick, [installing Priiloader is a must](/priiloader). Also, in
 * A Windows computer.
 * [WiiGSC](https://wiidatabase.de/downloads/pc-tools/wiigsc-ehemals-crap/)
 
-MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
-{: .notice--warning}
-
 #### Instructions
 
 1. Install WiiGSC and then open it.
