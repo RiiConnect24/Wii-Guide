@@ -29,6 +29,7 @@ This exploit will not work on a Wii U (vWii). Please follow [this guide instead]
     - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/)
     - We recommend the LTS edition due to its stability, but the current release works as well.
 - USB Drive
+-Wii Mini
 
 ## Instructions
 1. Open the Linux Terminal.
