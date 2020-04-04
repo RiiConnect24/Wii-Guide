@@ -2,7 +2,7 @@
 title: "Dumping Wii/GameCube games"
 ---
 
-{% include toc title="Table of Contents" %}
+Want to legally dump a GameCube or a Wii game and play it on your Wii? With this tutorial we will explain how to do it.
 
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -71,4 +71,5 @@ Your Wii and your computer must be connected to one local network
 ![7](/images/DumpDiscs_LAN/7.jpg)
 7. The transfer speed is not the fastest, but if you can't use anything else, it's better than nothing.
 
-![8](/images/DumpDiscs_LAN/8.PNG)
+[I want to dump it directly to my PC over a network](dump-smb)
+{: .notice--info}

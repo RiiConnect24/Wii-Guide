@@ -10,16 +10,14 @@ This tutorial will teach you how to install cIOS (custom IOS). While this is a r
 
 ## Requirements
 - An SD card or USB drive
-- d2x cIOS Installer
-   - [Wii](https://sites.google.com/site/completesg/backup-launchers/installation/d2x-cIOS-Installer-Wii.zip?attredirects=0&d=1)
-   - [Wii U (vWii)](https://sites.google.com/site/completesg/backup-launchers/installation/d2x-cIOS-Installer-vWii.zip?attredirects=0&d=1)
-- Windows PC + [NUS Downloader](https://sites.google.com/site/completesg/useful-tools/nus-downloader/NUSDownloader_v19.zip?attredirects=0&d=1)
-   - You do not need this if you have Internet Access on your Wii, or are using a vWii.
-
+- [d2x cIOS Installer] (/assets/files/d2x-cIOS-Installer-Wii.zip)
+  
+- Windows PC + [NUS Downloader](/assets/files/NUSDownloader_v19.zip)
+   - This is only required if you cannot connect your Wii to the internet.
 ## Instructions
 ### Section I - Offline NUS Downloads
 
-Skip to the next section if this doesn't apply to you (read above)
+[Skip to the next section if this doesn't apply to you](#Section II - Managing d2x cIOS installer)
 {: .notice--info}
 
 1. Extract and launch NUS Downloader.
@@ -43,7 +41,7 @@ Optionally, if you wish to verify that the downloaded WADs are correct, use a ch
  - **MD5**: `ac8bbbea38f29e8d8959badb3badf18e`
  - **SHA1**: `b8fd4efbb6d7ae2f4e9328b3082901f5981701b1`
 
-### Section III - Managing d2x cIOS installer
+### Section II - Managing d2x cIOS installer
 
 - Extract d2x cIOS Installer and put it in the `apps` folder on your SD card or USB drive.
    - Your storage device should look like this:
@@ -65,7 +63,6 @@ Select cIOS base: 56
 Select cIOS slot: 249 (In some cases, it may warn you that the current (c)IOS or IOS STUB will be overwritten. You can ignore this warning.)
 Select cIOS version: 65535
    - This revision is only used by the Wii when checking updates. It is set to the highest version to prevent a system update from overriding it with a non-functional official IOS. 
-   - This option does not appear on the WiiU installer.
 ```
 ![Install cIOS 249](/images/Wii/Install249.png)
 2. Once set, press A twice to install.
