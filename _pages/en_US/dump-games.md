@@ -10,5 +10,5 @@ Please choose how you want to dump the disc.
 [I want to dump it to the SD card/USB device](cleanrip)
 {: .notice--info}
 
-[I want to dump it directly to my PC using Wi-Fi or an Ethernet adapter](dump-smb)
+[I want to dump it directly to my PC over a network](dump-smb)
 {: .notice--info}
