@@ -4,7 +4,7 @@ main:
     title: Guida Wii
     url: /
   - 
-    title: FAQ
+    title: Faq
     url: faq
   - 
     title: RiiConnect24
@@ -24,7 +24,7 @@ footer:
     url: site-navigation
   - 
     title: Donazioni
-    url: donations
+    url: donazioni
 sidebar_title:
   - 
     title: Overall Progress
@@ -33,14 +33,14 @@ sidebar_pages:
     title: Guida Wii
     url: /
   - 
-    title: FAQ
+    title: Faq
     url: faq
   - 
     title: Donazioni
-    url: donations
+    url: donazioni
   - 
     title: Crediti
-    url: credits
+    url: crediti
   - 
     title: RiiConnect24
     url: riiconnect24
