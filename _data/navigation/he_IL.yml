@@ -1,49 +1,49 @@
 ---
 main:
   - 
-    title: Wii Guide
+    title: מדריך ה - ווי
     url: /
   - 
-    title: FAQ
-    url: faq
+    title: שאלות נפוצות
+    url: שאלות נפוצות
   - 
-    title: RiiConnect24
-    url: riiconnect24
+    title: RiiConnect24 - ריקונקט24
+    url: riiConnect24 - ריקונקט24
   - 
-    title: Wiimmfi
-    url: wiimmfi
+    title: Wii mmfi
+    url: wii mmfi
 bottom:
   - 
-    title: For support in English, ask for help at <a href="https://discord.gg/b4Y7jfD">RiiConnect24 on Discord</a>.
+    title: "בשביל תמיכה באנגלית \nאנה תפנה לעזרה ב <a href=\"https://discord.gg/b4Y7jfD\"> שרת דיסקורד של ריקונקט24 RiiConnect24."
 footer:
   - 
-    title: Source
-    url: https://github.com/RiiConnect24/Wii-Guide/
+    title: מקור
+    url: "מדריך לווי באתר \"Github\" \nhttps://github.com/RiiConnect24/Wii-Guide/"
   - 
-    title: Site Navigation
-    url: site-navigation
+    title: ניווט האתר
+    url: ניווט-אתר
   - 
-    title: Donations
-    url: donations
+    title: תרומות
+    url: תרומות
 sidebar_title:
   - 
-    title: Overall Progress
+    title: התקדמות כוללת
 sidebar_pages:
   - 
-    title: Wii Guide
+    title: מדריך הווי
     url: /
   - 
-    title: FAQ
-    url: faq
+    title: שאלות נפוצות
+    url: שאלות נפוצות
   - 
-    title: Donations
-    url: donations
+    title: תרומות
+    url: תרומות
   - 
-    title: Credits
-    url: credits
+    title: קרדיטים
+    url: קרדיטים
   - 
-    title: RiiConnect24
-    url: riiconnect24
+    title: RiiConnect24 - ריקונקט24
+    url: riiConnect24 - ריקונקט24
   - 
-    title: Wiimmfi
-    url: wiimmfi
+    title: Wii mmfi - ווי וויפי
+    url: wii mmfi - ווי וויפי
