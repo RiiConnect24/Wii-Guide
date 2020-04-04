@@ -28,5 +28,5 @@ In the case of a brick, [installing Priiloader is a must](/priiloader). Also, in
 4. Do not make game shortcuts for "A Boy and His Blob" or "Mario Party 9". Those will brick your Wii.
 5. Install the generated WAD with a WAD Manager, we recommend Wii Mod Lite.
 
-If you get an error saying "The system files are corrupted", don't panic as long as you installed Priiloader. Turn off your Wii, then hold down the RESET button down and turn on your Wii. You should be able to boot into the Priiloader menu, where you have some options to fix your Wii Menu. One of the options is to launch the Homebrew Channel, where you can launch MyMenuify Mod and press a button to download and install the original Wii Menu theme.
+If you get an error saying "The system files are corrupted", don't panic as long as you installed Priiloader. Turn off your Wii, then hold down the RESET button down and turn on your Wii. You should be able to boot into the Priiloader menu, where you have some options to fix your Wii Menu. One of the options is to launch the Homebrew Channel.
 {: .notice--info}
