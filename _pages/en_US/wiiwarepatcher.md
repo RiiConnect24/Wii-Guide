@@ -31,7 +31,7 @@ After it will finish downloading a folder called `WiiWare-Patcher` should appear
 ![Main menu](/images/WiiWare-Patcher/wiiwarepatcher_mainscreen.jpg)
 (Main menu of WiiWare Patcher)
 
-Press any button. If the update will be avaiable, you must update the WiiWare Patcher to continue.
+Press any button. If the update will be available, you must update the WiiWare Patcher to continue.
 >The update process takes about 10 to 15 seconds.
 
 After that, you should see this.
