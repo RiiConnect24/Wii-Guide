@@ -18,7 +18,7 @@ You will need an SD card with at least 128MB to run an exploit.
 
 To store homebrew applications, we recommend an SD card with atleast 2 GB.
 
-### I got error XXXXXX in Wiimmfi, how to fix it?
+### I got error XXXXXX in Wiimifi, how to fix it?
 In order to check what error that is, please visit the [Wiimmfi error page](https://wiimmfi.de/error).
 
 ### What are the limitations in vWii modding?
