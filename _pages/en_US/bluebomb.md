@@ -84,48 +84,132 @@ In the green part insert your console:
 In the red part insert your system version:
 	For normal Wii consoles (WII_SM only):
     2_0E for version 2.0E,
+    
+    
     2_0J for version 2.0J,
+    
+    
     2_0U for version 2.0U,
+    
+    
 		2_1E for version 2.1E,
+    
+    
 		2_2E for version 2.2E,
+    
+    
 		2_2J for version 2.2J,
+    
+    
 		2_2U for version 2.2U,
+    
+    
 		3_0E for version 3.0E,
+    
+    
 		3_0J for version 3.0J,
+    
+    
 		3_0U for version 3.0U,
+    
+    
 		3_1E for version 3.1E,
+    
+    
 		3_1J for version 3.1J,
+    
+    
 		3_1U for version 3.1U,
+    
+    
 		3_2E for version 3.2E,
+    
+    
 		3_2J for version 3.2J,
+    
+    
 		3_2U for version 3.2U,
+    
+    
 		3_3E for version 3.3E,
+    
+    
 		3_3J for version 3.3J,
+    
+    
 		3_3U for version 3.3U,
+    
+    
 		3_4E for version 3.4E,
+    
+    
 		3_4J for version 3.4J,
+    
+    
 		3_4U for version 3.4U,
+    
+    
 		3_5K for version 3.5K,
+    
+    
 		4_0E for version 4.0E,
+    
+    
 		4_0J for version 4.0J,
+    
+    
 		4_0U for version 4.0U,
+    
+    
 		4_1E for version 4.1E,
+    
+    
 		4_1J for version 4.1J,
+    
+    
 		4_1K for version 4.1K,
+    
+    
 		4_1U for version 4.1U,
+    
+    
 		4_2E for version 4.2E,
+    
+    
 		4_2J for version 4.2J,
+    
+    
 		4_2K for version 4.2K,
+    
+    
 		4_2U for version 4.2U,
+    
+    
 		4_3E for version 4.3E,
+    
+    
 		4_3J for version 4.3J,
+    
+    
 		4_3K for version 4.3K,
+    
+    
 		4_3U for version 4.3U.
+    
+    
 		(If your console is not any of these versions please update your console to the latest version 4.3)
+    
+    
 	For Wii mini consoles (MINI_SM only):
+  
+  
 	Since the Wii mini has only one system version and is only available in PAL and NTSC-U regions there are only two options available:
-		_PAL for the PAL Wii mini
-		_NTSC for the NTSC-U Wii mini
+  
+  
+		_PAL for the PAL Wii mini,
+    
+    
+		_NTSC for the NTSC-U Wii mini.
 
 So, for example, if you have a European (PAL) v4.3 Wii console and you are performing the exploit on a x64 pc the command will be:
 `./bluebomb-x64 ./stage0/WII_SM4_3U.bin stage1.bin`
