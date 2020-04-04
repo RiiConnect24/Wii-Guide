@@ -24,7 +24,7 @@ This exploit will not work on a Wii U's vWii. Please use [another exploit](/get-
 {: .notice--warning}
 
 
-#### Requirements
+#### Section I - Requirements
 - A linux machine with a bluetooth adapter (an intergrated one will work)
   - If you are using a Chromebook, you do not need to install another Operating System. You can enable [Linux in ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en)
   - Using Windows Subsystem for Linux will not work, due to the inability to access `bluetoothctl`.
@@ -34,182 +34,68 @@ This exploit will not work on a Wii U's vWii. Please use [another exploit](/get-
 - A USB flash Drive
 - A Wii or Wii Mini console (obviously)
 
-#### Instructions
-# Terms to remember:
-  **Region:** the area you bought your console in		
+#### Section II - Instructions
+ **Terms to remember:**
+  * **Region:** the area you bought your console in		
     PAL is a Wii sold in European territories		
     NTSC-U is a Wii sold in American and Canadian territories
 		NTSC-J is a Wii sold in Japanese territories		
     NTSC-K is a Wii sold in Korean territories
     If you are unsure of your Wii’s region, check a packaging, a game disc that works with your console or the label on the back of the console itself.
-  **Architecture:** the architecture of your computer running the exploit
+  * **Architecture:** the architecture of your computer running the exploit
 		x86 (or 32-bit, i386 or i686) is an architecture used in most computers before 2007
 		x64 (or 64-bit, x86-64 or AMD64) is an architecture used in most computers after 2007
 		arm is an architecture mainly used in mobile devices, you will only use this if you are running the exploit in a raspberry pi
-	If you are unsure of your computer’s architecture run the command `uname —m` in a linux terminal.
-	System Menu version: the version of your wii’s system menu		
-  It can be found in the top-right corner of your console’s system settings as seen here:
+	  If you are unsure of your computer’s architecture run the command `uname —m` in a linux terminal.
+	* **System Menu version:** the version of your wii’s system menu		
+    It can be found in the top-right corner of your console’s system settings as seen here:
 
   ![SMVersion](/images/Wii/SMver.png)
 
 Notice that your version number ends with a letter: U for American, E for European, J for Japanese and K for Korean consoles.
 
+Take a note of your System Menu version as you will need it later.
+{: .notice--info}
+
 1. Open the Linux Terminal.
-2. Disable the Bluetooth Service; `sudo systemctl disable --now bluetooth`
-3. Make a new folder for Bluebomb; `mkdir /tmp/bluebomb`
-4. Navigate to that directory in the terminal; `cd /tmp/bluebomb`
-5. Download the pre-built binaries from FullMetal5's Github repo; `wget https://github.com/Fullmetal5/bluebomb/releases/download/1.5/bluebomb1.5.zip`
-6. Extract the files out of the archive; `unzip bluebomb1.5.zip`
-7. Plug the USB drive into your PC
-8. Download the HackMii installer from [the BootMii website](https://bootmii.org/download/)
-9. Extract the boot.elf file from the `hackmii_installer_v1.2` folder to the USB Drive
-10. Eject the USB Drive from the PC and plug it into the console
-   - If you're on a normal Wii with two USB slots, plug it in the top one (or the left one if it's upright)
-11. Turn the Wii on and **make sure NO Wiimotes are connected**! You can leave it on the Wii Health and Safety Screen.
+1. Disable the Bluetooth Service; `sudo systemctl disable --now bluetooth`
+1. Make a new folder for Bluebomb; `mkdir /tmp/bluebomb`
+1. Navigate to that directory in the terminal; `cd /tmp/bluebomb`
+1. Download the pre-built binaries from FullMetal5's Github repo; `wget https://github.com/Fullmetal5/bluebomb/releases/download/1.5/bluebomb1.5.zip`
+1. Extract the files out of the archive; `unzip bluebomb1.5.zip`
+1. Plug the USB drive into your PC
+1. Download the HackMii installer from [the BootMii website](https://bootmii.org/download/)
+1. Extract the boot.elf file from the `hackmii_installer_v1.2` folder to the USB Drive
+1. Eject the USB Drive from the PC and plug it into the console's USB port.
+   * If you're on a normal Wii with two USB slots, plug it in the top one (or the left one if it's upright)
+1. Turn the Wii on and **make sure NO Wiimotes are connected**! You can leave it on the Wii Health and Safety Screen.
 
 ![Health and Safety Page](/images/Wii/Health_and_Safety_EN.png)
 
-12. You must structure your next command according to the following diagram:
+1. You must structure your next command according to the following diagram:
 
 ![bb command](/images/Wii/bb_command.png)
 
-In the blue part insert your computers architecture from this list:
-	x86 for x86 systems,
-	x64 for x64 systems,
-	arm for arm systems,
+* In the blue part insert your computers architecture from this list:
+  *	`x86` for x86 systems
+  *	`x64` for x64 systems
+  *	`arm` for arm systems
 
-In the green part insert your console:
-  WII_SM for a normal Wii console
-	MINI_SM for a Wii mini console
-In the red part insert your system version:
-	For normal Wii consoles (WII_SM only):
-    2_0E for version 2.0E,
-    
-    
-    2_0J for version 2.0J,
-    
-    
-    2_0U for version 2.0U,
-    
-    
-		2_1E for version 2.1E,
-    
-    
-		2_2E for version 2.2E,
-    
-    
-		2_2J for version 2.2J,
-    
-    
-		2_2U for version 2.2U,
-    
-    
-		3_0E for version 3.0E,
-    
-    
-		3_0J for version 3.0J,
-    
-    
-		3_0U for version 3.0U,
-    
-    
-		3_1E for version 3.1E,
-    
-    
-		3_1J for version 3.1J,
-    
-    
-		3_1U for version 3.1U,
-    
-    
-		3_2E for version 3.2E,
-    
-    
-		3_2J for version 3.2J,
-    
-    
-		3_2U for version 3.2U,
-    
-    
-		3_3E for version 3.3E,
-    
-    
-		3_3J for version 3.3J,
-    
-    
-		3_3U for version 3.3U,
-    
-    
-		3_4E for version 3.4E,
-    
-    
-		3_4J for version 3.4J,
-    
-    
-		3_4U for version 3.4U,
-    
-    
-		3_5K for version 3.5K,
-    
-    
-		4_0E for version 4.0E,
-    
-    
-		4_0J for version 4.0J,
-    
-    
-		4_0U for version 4.0U,
-    
-    
-		4_1E for version 4.1E,
-    
-    
-		4_1J for version 4.1J,
-    
-    
-		4_1K for version 4.1K,
-    
-    
-		4_1U for version 4.1U,
-    
-    
-		4_2E for version 4.2E,
-    
-    
-		4_2J for version 4.2J,
-    
-    
-		4_2K for version 4.2K,
-    
-    
-		4_2U for version 4.2U,
-    
-    
-		4_3E for version 4.3E,
-    
-    
-		4_3J for version 4.3J,
-    
-    
-		4_3K for version 4.3K,
-    
-    
-		4_3U for version 4.3U.
-    
-    
-		(If your console is not any of these versions please update your console to the latest version 4.3)
-    
-    
-	For Wii mini consoles (MINI_SM only):
-  
-  
-	Since the Wii mini has only one system version and is only available in PAL and NTSC-U regions there are only two options available:
-  
-  
-		_PAL for the PAL Wii mini,
-    
-    
-		_NTSC for the NTSC-U Wii mini.
+* In the green part insert your console:
+  * `WII_SM` for a normal Wii console
+  *	`MINI_SM` for a Wii mini console
+
+* In the red part insert your system version:
+
+  * for normal Wii consoles (WII_SM only):
+    fill in your SM version number that you noted before, but instead of a `.` use a `_`.
+    i.e. if your SM version is 4.3U, use `4_3U` instead.
+
+  * For Wii mini consoles (MINI_SM only):
+  Since the Wii mini has only one system version and is only available in PAL and NTSC-U regions there are only two options available:
+
+    * `_PAL` for the PAL Wii mini
+    * `_NTSC` for the NTSC-U Wii mini
 
 So, for example, if you have a European (PAL) v4.3 Wii console and you are performing the exploit on a x64 pc the command will be:
 `./bluebomb-x64 ./stage0/WII_SM4_3U.bin stage1.bin`
@@ -231,7 +117,7 @@ You can now connect your wiimote back to the console and install the Homebrew ch
 [Continue to Homebrew Channel and BootMii Installation](hbc)
 {: .notice--info}
 
-#### cIOS Installation
+#### Section III - Wii mini cIOS Installation
 
 This cIOS is **only** intended for use with the Wii Mini. Installing this cIOS on a normal Wii will brick your console
 {: .notice--warning}
@@ -240,7 +126,7 @@ cIOS is used for USB Loaders to play backups of Wii games. Warning: this cIOS is
 Special thanks to Leseratte for making this cIOS
 {: .notice--info}
 
-1. Download the d2xl cIOS File from https://bluebomb.glitch.me/d2xl-cIOS/index.html
+1. Download the d2xl cIOS File from [here](https://bluebomb.glitch.me/d2xl-cIOS/index.html)
 1. Open the archive and drag and drop the only folder to the "apps" folder on your USB Drive
 1. Open the Homebrew Channel on your Wii Mini
 1. Launch the d2x cIOS installer
@@ -252,7 +138,7 @@ Special thanks to Leseratte for making this cIOS
        If it fails with a weird "tmd version mismatch" error, that isn't a problem. Just try again, but this time, while selecting the cIOS base, press left/right on the wiimote until the 5-digit number from earlier is different than when you tried before. This time, it should work - one of the two version numbers should definitely work.
 1. After successfully installing the cIOS press B to exit. Now you have cIOS installed.
 
-#### Enable Ethernet capability
+#### Section IV - Enable Ethernet capability
 
 This app will enable Ethernet functionality on your Wii Mini console. Please note that since NWFC has been discontinued you need to install [Wiimmfi](wiimmfi)
 {: .notice--info}
@@ -261,7 +147,7 @@ You will need a [LAN adapter](https://www.amazon.com/Ethernet-Adapter-Switch-Wii
 Please note that neither CTGP nor RiiConnect24 work with the Wii Mini yet. Do **not** attempt to install either of them or you may brick your console.
 {: .notice--warning}
 
-1. Download this tool from https://bluebomb.glitch.me/wii-mini-ethernet/index.html
+1. Download this tool from [here](https://bluebomb.glitch.me/wii-mini-ethernet/index.html)
 1. Add it to your Apps folder on your USB
 1. Run it in Homebrew.
 1. And you are set for life.

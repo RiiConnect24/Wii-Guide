@@ -18,5 +18,5 @@ If your Wii is bricked and you have not installed bootMii or Priiloader, Bluebom
 | Description           | Wii EULA Exploit           | Internet Channel exploit  | Wii Message Board exploit  | Broadcom's Bluetooth stack exploit     |
 | Internet Required     | Yes (DNS change required)  | Yes                       | No                         | No                                     |
 | Storage Device        | None                       | None                      | SD card required           | USB (top slot)                         |
-| Device Compatibility  | Wii                        | Wii                       | Wii on 4.3                 | Non Japanese or Korean Wii & Wii Mini  |
+| Device Compatibility  | Wii                        | Wii                       | Wii on 4.3                 | Wii & Wii Mini  |
 | Other Requirements    | None                       | Internet Channel          | None                       | Linux Machine & Bluetooth              |
