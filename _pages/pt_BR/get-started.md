@@ -1,22 +1,24 @@
-﻿---
-title: "Introdução"
+---
+title: "Get Started"
 ---
 
-{% include toc title="Sumário" %}
+{% include toc title="Table of Contents" %}
 
-Essas instruções irão dizer que você usará um Cartão SD para modificar seu Wii, porém você pode usar um dispositivo USB. Apesar disso, tenha em mente que o exploit LetterBomb requer um Cartão SD pois será usado na Wii Message Board.
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Este guia funciona apenas com o Wii Original, com a versão do sistema mais nova (4.3). Não use isso em um Wii U (vWii)!
-Caso queira installar homebrew no Wii U (vWii) , [siga esse tutorial](https://wiiu.hacks.guide/vwii-modding).
+These instructions will assume you're using an SD card to mod your Wii with, but you can use a USB storage device instead. However, the exploit LetterBomb requires a SD card due to how the Wii Message Board works.
+{: .notice--info}
+
+This guide is for the original Wii only, with the latest firmware (4.3). Do not use this on a Wii U (vWii)! If you want to install homebrew on vWii, [follow this tutorial](https://wiiuguide.xyz/#/vwii/).
 {: .notice--warning}
 
-### Escolha um exploit para usar
+### Choose an exploit to use
 
-- [LetterBomb](letterbomb) - Exploit que usa o serviço de mensagens do Wii
-- [FlashHax](flashhax) - Exploit que usa o Canal da Internet do Wii
+- [str2hax](str2hax) - Exploit that uses the Wii EULA (Recommended, no SD card nor Channel required, but requires changing the DNS settings)
+- [FlashHax](flashhax) - Exploit that uses the Internet Channel (No SD card required)
+- [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board (SD card required)
+- [BlueBomb](bluebomb) - Exploit that uses Bluetooth (No SD card required)
+    * Requires a computer with Bluetooth and GNU/Linux, as well as a USB drive
+    * This is the only exploit that works on the **Wii Mini**
 
-
-Algumas alternativas para esse guia são [ModMii (Caso tenha um PC com Windows)](https://sourceforge.net/projects/modmii/) ou [SetMiiUp](https://gbatemp.net/threads/setmiiup-from-stock-to-latest-softmod-in-less-then-5-10-minutes.459416/).
-Ambos permitem você começar a hackear seu Wii, porém não instalarão outros serviços por padrão, já nesse guia, é mostrado como.
-{: .notice--info}
