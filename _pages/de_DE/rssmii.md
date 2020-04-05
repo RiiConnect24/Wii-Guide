@@ -51,13 +51,13 @@ Speichere den erstellten Feed im Root-Verzeichnis deiner SD-Karte.
 4. Drücke A um das Abonnieren der Feeds zu bestätigen. Ignoriere den Fehler von ES_GetTitleID, es ist alles gut.
 5. Wenn alles erledigt ist, drücke HOME um zum Homebrew-Kanal zurückzukehren. Du solltest bald RSS-Feed-Updates auf deiner Wii erhalten, viel Spaß!
 
-Not getting any feed updates? Try an RSS feed that updates more frequently, like a feed with news for example. If the RSS feed doesn't update often, then you won't get many updates.
+Keine Feed-Updates erhalten? Try an RSS feed that updates more frequently, like a feed with news for example. If the RSS feed doesn't update often, then you won't get many updates.
 {: .notice--warning}
 
-We recommend you use just a few feeds, because if you subscribe to a lot of feeds you can get a ton of mail on your Wii.
+Wir empfehlen es, nur wenige Feeds zu verwenden. Wenn du viele Feeds abonniert hast, könntest deine Wii sehr viele Nachrichten erhalten.
 {: .notice--info}
 
-If you're not receiving updates after a few days, you might need to subscribe to the RSS feeds again. Launch RSSMii from the Homebrew Channel again and it'll create brand new subscriptions.
+Wenn du keine Updates nach ein paar Tagen bekommen solltest, müsstest du den RSS-Feed nochmal abonnieren. Launch RSSMii from the Homebrew Channel again and it'll create brand new subscriptions.
 {: .notice--info}
 
 [RSSMii entfernen](rssmii-remove)
