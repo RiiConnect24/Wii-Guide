@@ -56,7 +56,7 @@ Ahora parchearás tu IOS, `IOS31` y `IOS80`. Esto es requerido para utilizar los
 10. Si recibe un error que dice que un título con una versión superior ya está instalado, (error -1035), volver al menú de la selección WAD y presione - en el WAD resaltado para desinstalarlo, luego intente instalarlo nuevamente.
 11. Después vez que se hayan instalado correctamente, presione el botón CASA para volver al Canal Homebrew.
 
-##### Sección ll - Parchando nwc24msg.cfg
+##### Sección ll - Parcheando nwc24msg.cfg
 
 You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
 
