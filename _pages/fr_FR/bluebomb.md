@@ -9,18 +9,18 @@ Si vous avons besoin d'aide pour quelque chose concernant ce tutoriel, s'il vous
 
 ![BlueBomb](/images/bluebomb.png)
 
-Bluebomb is an exploit intended for Wii Mini Modding that takes advantage of an exploit in the Bluetooth adapter. It's the only exploit for the Wii Mini but it can be used on the original Wii as well. It can be used to recover from certain bricks on the Wii.
+Bluebomb est une faille destinée au modding de la Wii Mini qui utilise une faille de l'adaptateur Bluetooth. C'est la seule faille utilisable sur Wii Mini, cependant elle peut également être utilisée sur la Wii originale. Cette faille peut être utilisée pour restaurer la Wii de certains bricks.
 
-For the original Wii, we recommend using [another exploit](/get-started) instead if you intend to install the Homebrew Channel
+Pour la Wii originale, nous vous recommandons plutôt d'utiliser [une autre faille](/get-started) si vous prévoyez d'installer la chaîne Homebrew
 {: .notice--info}
 
-If installing on the Wii Mini; BootMii can't be installed on the Wii Mini yet. Please don't attempt to install it. We won't be responsible if your device gets bricked.
+If installing on the Wii Mini; BootMii can't be installed on the Wii Mini yet. N'essayez pas de l'installer. Nous ne serions tenus responsables si votre Wii venait à être brickée.
 {: .notice--warning}
-This exploit will not work on a Wii U (vWii). Please follow [this guide instead](https://wiiuguide.xyz/#/vwii/).
+Cette faille ne fonctionnera pas sur une Wii U (vWii). Veuillez plutôt suivre [ce guide](https://wiiuguide.xyz/#/vwii/).
 {: .notice--warning}
 
-#### What you need
-- A Linux machine with a Bluetooth adapter (an integrated one will work)
+#### Éléments requis
+- Un poste de travail sous Linux avec un adaptateur Bluetooth (intégré et fonctionnel de préférence)
   - Si vous utiliser un Chromebook, vous n’avez pas besoin d’installer un autre système d’exploitation. Vous pouvez activer [Linux dans ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en)
   - En utilisant WSS (Windows Subsystem pour les intimes) ceci ne vas pas marcher, il n’a pas accès au `bluetoothctl` (donc allez sur Linux les fréros)
   - Si vous n’avez pas Linux, Ubuntu est l’option la plus simple à utiliser
@@ -29,27 +29,27 @@ This exploit will not work on a Wii U (vWii). Please follow [this guide instead]
 - Clef USB
 
 #### Instructions
-##### Section I - Performing the exploit
-1. Ouvrer le terminal linux.
-2. Désactiver le service Bluetooth `sudo systemctl disable —now bluetooth`
-3. Créer un nouveau dossier pour Bluebomb; `mkdir bluebomb`
-4. Naviguer dans le dossier dans le terminal; `cd bluebomb`
-5. Télécharger les « pre-built binaries »;`wget https://github.com/Fullmetal5/bluebomb/releases/download/1.5/bluebomb1.5.zip`
-6. Extracter les fichiers de l’archive; `unzip bluebomb1.5.zip`
-7. Insérez la clef USB dans votre PC
-8. Telecharger les fichiers du [site BootMii](https://bootmii.org/download/)
-9. Extraire les fichiers du dossier `hackmii_installer_v1.2` vers la clef usb
-10. Éjecter la clef USB du PC et brancher la sur votre Wii
-   - Si vous êtes sur une Wii normal avec 2 ports USB, brancher là sur celui du haut
-11. Turn the Wii on and do not pair a Wiimote. You can leave it on the Wii Heath and Safety Screen or System Menu
-12. In the terminal, type these commands to specific Wii Regions: `sudo ./bluebomb [a] ./stage0/MINI_SM_[b].bin stage1.bin`
-  - If you are using an external USB Bluetooth Adapter (if the PC had Bluetooth built-in and you wish to use an external adapter instead), replace [a] with 1
-    - Otherwise, leave it blank
-  - Si vous êtes en PAL, remplacer [b] par `PAL`. De même, si vous utilisez une console NTSC, remplacez [b] avec `NTSC`
+##### Partie I - Mettre en œuvre la faille
+1. Ouvrez le terminal Linux.
+2. Désactivez le service Bluetooth; `sudo systemctl disable --now bluetooth`
+3. Créez un nouveau dossier pour Bluebomb; `mkdir bluebomb`
+4. Naviguez jusqu'à ce dossier dans le terminal; `cd bluebomb`
+5. Téléchargez les exécutables; `wget https://github.com/Fullmetal5/bluebomb/releases/download/1.5/bluebomb1.5.zip`
+6. Extrayez les fichiers de l'archive; `unzip bluebomb1.5.zip`
+7. Insérez une clé USB dans votre ordinateur
+8. Téléchargez les fichiers depuis [le site BootMii](https://bootmii.org/download/)
+9. Extrayez le contenu du dossier `hackmii_installer_v1.2` sur la clé USB
+10. Éjectez la clé USB de l'ordinateur et insérez-là dans la Wii
+   - Si vous possédez une Wii originale (2 ports USB), insérez-là dans le port du haut
+11. Allumez la Wii sans connecter de Wiimote. Vous pouvez la laisser sur l'écran "Attention-Santé et Sécurité" ou sur le Menu Wii
+12. Dans le terminal, exécutez cette commande spécifique à la région de votre Wii: `sudo ./bluebomb [a] ./stage0/MINI_SM_[b].bin stage1.bin`
+  - Si vous utilisez un adaptateur Bluetooth externe, remplacez [a] par 1
+    - Sinon, ne rentrez rien
+  - Si vous possédez une console PAL, remplacez [b] avec `PAL`. De même, si vous possédez une console NTSC, remplacez [b] avec `NTSC`
 
-The Terminal should now print "Waiting to accept". The computer is now waiting for a connection from your Wii Mini.
+Le terminal devrait afficher "Waiting to accept". L'ordinateur attend désormais la connexion de votre Wii Mini.
 
-13. Commencer a presser le bouton `Sync` (Le bouton Sync de la Wii Mini est sur le côté gauche. Sur une Wii Normal, il est juste à côté de la fente pour carte SD)
+13. Maintenez le bouton `Sync` de votre Wii (il se trouve sur la partie gauche; Sur une Wii Normal, il est juste à côté de la fente pour carte SD)
    - Continue Pressing until Terminal displays "Got connection handle".
 
 The Wii Mini should now boot to the HackMii installer (Do not attempt to install BootMii)
