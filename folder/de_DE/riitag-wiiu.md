@@ -44,11 +44,11 @@ Teile deinen RiiTag-Schlüssel mit niemandem! Falls du das tust, können andere 
 
 ##### Abschnitt 3 - Ausführen des Plugins
 
-1. Using your preferred method (browser exploit, Haxchi, Homebrew Launcher application, etc.), launch the **Homebrew Launcher** on your Wii U console.
-2. Navigate to, and launch the homebrew application titled `Wii U Plugin Loader`.
-3. You should be greeted with a menu, including a toggle for `UTag`. Enable `UTag`, and then press + on the Wii U GamePad. You should now be kicked back to the Wii U Menu.
+1. Nutz den von dir bevorzugten Weg (Webbrowser-Exploit, Haxchi, Homebrew Launcher-Anwendung, usw.), um den **Homebrew Launcher** auf deiner Wii U-Konsole zu starten.
+2. Gehe zu der Homebrew-Anwendung namens `Wii U Plugin Loader` und starte sie.
+3. Du solltest ein Menü vorfinden, in welchem du einen Schalter für `UTag` findest. Aktiviere `UTag` und drücke dann die Plus-Taste auf dem Wii U GamePad. Du solltest nun ins Wii U-Menü zurückkehren.
 
-You have now set up RiiTag on your Wii U! Note that you will have to launch the plugin with the above procedure every time you wish to launch the plugin, unless things change. In which case, this guide will be updated. Now go play some games, and watch them show up on your RiiTag!
+Du hast nun RiiTag auf deiner Wii U eingerichtet! Denk daran, dass du das Plugin jedes Mal über den oben beschriebenen Weg ausführen musst, wenn du es benötigst, falls sich daran nichts ändert. In dem Fall wird diese Anleitung angepasst. Jetzt kannst du ein paar Spiele spielen und sehen, wie sie in deinem RiiTag auftauchen!
 {: .notice--success}
 
 [Continue to site navigation](site-navigation)<br> Wir haben viele weitere Anleitungen, die dir gefallen könnten.
