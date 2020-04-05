@@ -26,24 +26,24 @@ RiiTag ist ein anpassbarer und dynamischer Gamertag. Durch Teilen deines Gamerta
 5. Wähle `Show Key` und notiere dir den angezeigten Schlüssel. Das ist nicht nötig, wenn du USB Loader GX benutzt, da sich der Schlüssel dort in einer herunterladbaren Datei befindet.
 6. Wähle `Submit` um deine Änderungen zu speichern.
 
-Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
+Teile deinen RiiTag-Schlüssel mit niemandem! Falls du das tust, können andere deinen Tag missbrauchen.
 {: .notice--warning}
 
-##### Section II - Connecting Your USB Loader
+##### Abschnitt 2 - Verbinden deines USB-Loaders
 
-The steps to connect RiiTag to your USB Loader depend on what USB Loader you use.
+Die Schritte zur Verbindung von RiiTag mit deinem USB-Loader hängen von deinem verwendeten USB-Loader ab.
 
 ###### USB Loader GX
 
-1. Load USB Loader GX on your Wii.
-2. Go to `Settings` > `Features` and turn `Wiinnertag` on. Press `Yes` or `OK` to any dialogs that show up.
-3. Ensure that `Initialize Network` is turned on.
-4. Exit USB Loader GX.
-5. Insert the SD Card or USB device where your USB Loader GX data is into your computer.
-6. [Go to this page.](https://tag.rc24.xyz/Wiinnertag.xml)
-7. On your browser, right click, and click `Save As`.
-8. Save the XML to the `config` folder on your SD Card or USB device, replacing the existing `Wiinnertag.xml`.
-9. You have now set up RiiTag. You can try loading any game now to see if it works correctly.
+1. Öffne USB Loader GX auf deiner Wii.
+2. Gehe auf `Einstellungen` > `Features` und schalte `Wiinnertag` ein. Wähle bei allen Fenstern, die auftauchen, `Ja` oder `OK`.
+3. Stelle sicher, dass `Initialisiere Netzwerk` eingeschaltet ist.
+4. Beende USB Loader GX.
+5. Verbinde die SD-Karte bzw. das USB-Laufwerk mit deinen USB Loader GX-Daten mit deinem Computer.
+6. [Gehe auf diese Seite.](https://tag.rc24.xyz/Wiinnertag.xml)
+7. Ruf in deinem Webbrowser das Kontextmenü auf und wähle `Seite speichern unter...`.
+8. Speichere die XML-Datei im `config`-Ordner auf deiner SD-Karte bzw. deinem USB-Laufwerk und ersetze so die bereits vorhandene `Wiinnertag.xml`.
+9. Du hast jetzt RiiTag eingerichtet. You can try loading any game now to see if it works correctly.
 
 ###### WiiFlow
 
