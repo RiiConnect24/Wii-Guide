@@ -17,7 +17,7 @@ Een van BootMii's meest handigste kenmerken is de mogelijkheid om een Back-Up te
 #### Instructies
 1. Open het Homebrew Kanaal op uw Wii.
 2. Druk op de HOME Knop en selecteer "BootMii Opstarten" (Launch BootMii).
-   - Navigating BootMii is not possible using a Wii remote. You'd have to either use the buttons on your Wii console or a GameCube controller plugged into port 1. To navigate between options, press POWER on your Wii (or the right +Control Pad button on a GameCube controller). Keep in mind that when using the wii buttons, you can only navigate right but when attempting to go past the last entry, it'll warp you to the first one. This is not a limitation on GameCube Controllers; You can navigate left and right. To select an option, hit RESET on your Wii or A on your GameCube controller.
+   - Navigeren in het BootMii menu is niet mogelijk met een Wii-afstandsbediening. U zult hiervoor de knoppen op uw Wii zelf moeten gebruiken of een GameCube controller die is ingeplugd in poort 1. To navigate between options, press POWER on your Wii (or the right +Control Pad button on a GameCube controller). Keep in mind that when using the wii buttons, you can only navigate right but when attempting to go past the last entry, it'll warp you to the first one. This is not a limitation on GameCube Controllers; You can navigate left and right. To select an option, hit RESET on your Wii or A on your GameCube controller.
 3. Press the Options button (the one with the gears).
 4. Press the BackupMii button (the one with the green arrow).
 - A NAND backup will start. You can watch the progress on the screen.
