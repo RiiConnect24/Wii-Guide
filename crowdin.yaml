@@ -2,4 +2,4 @@ files:
   - source: /_data/navigation/en_US.yml
     translation: /_data/navigation/%locale_with_underscore%.yml
   - source: /_pages/en_US/*.md
-    translation: /folder/%locale_with_underscore%/%original_file_name%
+    translation: /_pages/%locale_with_underscore%/%original_file_name%
