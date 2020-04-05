@@ -1,14 +1,14 @@
 ---
-title: "Fazendo backup de jogos Wii/GameCube"
+title: "Dumping Wii/GameCube games"
 ---
 
-Quer legalmente fazer um backup de seus jogos do Wii ou do GameCube? Nesse tutorial você irá aprender como.
+Want to legally dump a GameCube or a Wii game and play it on your Wii? With this tutorial we will explain how to do it.
 
-Por favor escolha onde você irá realizar o backup.
+Please choose how you want to dump the disc.
 {: .notice--warning}
 
-[Eu quero fazer o backup num dispositivo USB ou em um Cartão SD](CleanRip)
+[I want to dump it to the SD card/USB device](cleanrip)
 {: .notice--info}
 
-[Eu quero realizar o backup diretamente no meu PC usando Wi-Fi ou um adaptador Ethernet](dump-smb)
+[I want to dump it directly to my PC over a network](dump-smb)
 {: .notice--info}
