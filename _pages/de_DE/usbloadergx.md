@@ -66,9 +66,9 @@ These are the functions the buttons found on the top of the main menu do, from l
 * Parental Control - Locks USB Loader GX.
 * Disc - Loads a game via disc.
 
-Pressing any game will allow you to play the game by pressing "Start".
+Wenn du auf ein beliebiges Spiel drückst, kannst du das Spiel durch Drücken von "Start" spielen.
 
-There are also other buttons:
+Es gibt auch andere Knöpfe:
 
 * + Icon - "Install" a game, i.e. loading it from disc and dumping it.
 * Gears - Settings for USB Loader GX.
