@@ -43,30 +43,30 @@ Esta vulnerabilidade não resultará na Wii U (vWii). Por favor segue [este guia
    - Se estiveres numa Wii normal com duas entradas USB, liga à entrada de cima
 11. Liga a Wii e não emparelhes o comando. Podes deixá-lo no ecrã Wii Heath and Safety ou no Menu do Sistema
 12. No terminal, escreve estes comandos para as específicas regiões da Wii: `sudo ./bluebomb [a] ./stage0/MINI_SM_[b].bin stage1.bin`
-  - If you are using an external USB Bluetooth Adapter (if the PC had Bluetooth built-in and you wish to use an external adapter instead), replace [a] with 1
-    - Otherwise, leave it blank
-  - If you use a PAL region, replace [b] with `PAL`. Likewise, if you use an NTSC console, replace [b] with `NTSC`
+  - Se estás a utilizar um adaptador USB Bluetooth externo (se o PC tem Bluetooth integrado e preferes utilizar um adaptador externo), substitui [a] por 1
+    - De outra forma, deixa-o em branco
+  - Se tens uma consola de região PAL, substitui [b] por `PAL`. Desta forma, se utilizas uma consola NTSC, susbtitui [b] por `NTSC`
 
-The Terminal should now print "Waiting to accept". The computer is now waiting for a connection from your Wii Mini.
+O terminal irá mostrar agora "Waiting to accept". O computador está agora à espera por uma conexão da tua Wii Mini.
 
-13. Start Pressing the `Sync` button (The Wii Mini Sync button is on the left side. On the normal Wii, it is right next to the SD card slot)
-   - Continue Pressing until Terminal displays "Got connection handle".
+13. Começa pressionando o botão `Sync` (o botão na Wii Mini está no lado esquerdo. Na Wii normal, está à direita da entrada do cartão SD)
+   - Continua a pressionar até o terminal aparecer "Got connection handle".
 
-The Wii Mini should now boot to the HackMii installer (Do not attempt to install BootMii)
+A Wii Mini deve abrir o instalador HackMii (Não tentes instalar o BootMii)
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[Continua para a Instalação do Homebrew Channel e BootMii](hbc)
 {: .notice--info}
 
-##### Section II - cIOS Installation
-cIOS is used for USB Loaders to play backups. Be warned that cIOS is still in the experimental stage.
+##### Secção II - Instalação de cIOS
+cIOS é utilizado para USB Loaders para jogar cópias de jogos. Avisamos que o cIOS ainda está em estado experimental.
 {: .notice--info}
-This version of cIOS is only for the Wii Mini. If you're on a Wii, please follow the [cIOS guide](/cios).
+Esta versão do cIOS é só para a Wii Mini. Se estás numa Wii, por favor segue o [Guia cIOS](/cios).
 {: .notice--warning}
 
-1. Download the cIOS File from [here](https://bluebomb.glitch.me/d2xl-cIOS/index.html)
-2. Open the archive and drag and drop the only folder to the `/apps/` folder on your USB Drive
-3. Open the Homebrew Channel on your Wii Mini
-4. Launch the d2x cIOS installer
+1. Descarrega os ficheiros cIOS por [aqui](https://bluebomb.glitch.me/d2xl-cIOS/index.html)
+2. Abre o arquivo e arrasta e larga a única pasta para a pasta `/apps/` no teu Drive USB
+3. Abre o Homebrew Channel na tua Wii Mini
+4. Abre o d2x cIOS installer
 5. For `Select cIOS`, change the value to `d2xl-v1-beta2`
 6. For `Select cIOS base`, change the value to `57`
 7. For `Select cIOS slot` and change the value to `249`
