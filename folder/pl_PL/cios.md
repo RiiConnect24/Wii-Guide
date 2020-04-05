@@ -59,9 +59,9 @@ Opcjonalnie, jeżeli chcesz zweryfikować że pliki WAD, które pobrałeś są p
 
 1. Naciśnij `Continue` i ustaw opcje na poniższe:
 ```
-Wybierz cIOS: v10 beta52 d2x-v10-beta52
-Wybierz cIOS base: 56
-Wybierz cIOS slot: 249 (W kilku przypadkach, instalator może cię ostrzec, że obecne (c)IOS lub IOS STUB zostanie nadpisany. Możesz pominąć to ostrzeżenie.)
+Select cIOS: v10 beta52 d2x-v10-beta52
+Select cIOS base: 56
+Select cIOS slot: 249 (W kilku przypadkach, instalator może cię ostrzec, że obecne (c)IOS lub IOS STUB zostanie nadpisany. Możesz pominąć to ostrzeżenie.)
 Wybierz wersję cIOS: 65535
 - Ta rewizja jest tylko używana przez Wii podczas sprawdzania aktualizacji. Zostanie ustawiony na najwyższą wersję, aby zapobiec zastąpieniu go przez aktualizację systemu niefunkcjonalnym oficjalnym IOS. 
    - Ta opcja nie będzie dostępna w instalatorze na Wii U.
@@ -70,19 +70,19 @@ Wybierz wersję cIOS: 65535
 2. Kiedy ustawisz tak jak powyżej, naciśnij A podwójnie aby zainstalować.
 3. Kiedy instalacja przebiegnie pomyślnie, naciśnij A aby powrócić i ustaw poniższe opcje:
 ```
-Wybierz cIOS: v10 beta52 d2x-v10-beta52
-Wybierz cIOS base: 57
-Wybierz cIOS slot: 250
-Wybierz cIOS version: 65535
+Select cIOS: v10 beta52 d2x-v10-beta52
+Select cIOS base: 57
+Select cIOS slot: 250
+Select cIOS version: 65535
 ```
 ![Zainstaluj cIOS 250](/images/Wii/Install250.png)
 4. Kiedy ustawisz tak jak powyżej, naciśnij A podwójnie aby zainstalować.
 5. Kiedy instalacja przebiegnie pomyślnie, naciśnij A aby powrócić i ustaw poniższe opcje:
 ```
-Wybierz cIOS: v10 beta52 d2x-v10-beta52
-Wybierz cIOS base: 58
-Wybierz cIOS slot: 251
-Wybierz cIOS version: 65535
+Select cIOS: v10 beta52 d2x-v10-beta52
+Select cIOS base: 58
+Select cIOS slot: 251
+Select cIOS version: 65535
 ```
 6. Zrób tak jeszcze raz oraz wyjdź po ukończeniu.
 
