@@ -1,63 +1,64 @@
 ---
-title: "Instalowanie RSSMii"
+title: "Installing RSSMii"
 ---
 
-{% include toc title="Zawartość" %}
+{% include toc title="Table of Contents" %}
 
-Chcesz otrzymywać kanały RSS na Twoim Wii Message Board? Ten poradnik pomoże Ci ustawić RSSMii.
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: .notice--info}
+
+Do you want to get RSS feed updates on your Wii Message Board? This tutorial will tell you how to set RSSMii up.
 
 ![RSSMii](/images/rssmii.png)
 
-#### Czego będziesz potrzebował
+#### What you need
 
-* Karty SD
+* An SD card
 * [RSSMii](https://github.com/RiiConnect24/rssmii/releases)
 
-#### Instrukcje
+#### Instructions
+##### Section I - Downloading/Installing
 
-##### Sekcja I - Pobieranie/Instalowanie
+1. Extract RSSMii and put it in the `apps` folder on your SD card.
+2. We need to create a `feeds.xml` on the root of the SD card so the app will know what feeds to subscribe you to.
 
-1. Wypakuj RSSMii do folderu `apps` na Twojej karcie SD.
-1. Musimy stworzyć plik `feeds.xml` na Twojej karcie SD aby RSSMii wiedziało jakie kanały RSS chcezz zasubskrybować.
-
-[Masz komputer z Windows'em? Pobierz nasz RSS Feeds Creator stworzony przez KcrPL (twórce polskiego tłumaczenia). Ten program automatycznie stworzy `feeds.xml` i skopiuje ten plik na Twoją kartę SD! Naciśnij tutaj aby go pobrać.](https://github.com/RiiConnect24/rssmii/releases)
+If you're using the Windows Operating System, you can use the RSS Feeds Creators program created by KcrPL. It will automatically create a `feeds.xml` file and will copy it to your SD card!
 {: .notice--info}
 
-<B>Jeżeli nie masz komputera z Windows'em, użyj tego szablonu w Twoim ulubionym edytorze tekstu aby stworzyć plik `feeds.xml`. Jeżeli jest to zbyt skomplikowane dla Ciebie, napisz do nas [support@riiconnect24](mailto:support@riiconnect24.net) (Obsługa dostępna po polsku) a stworzymy ten plik specjalnie dla Ciebie!</b>
+<b>If you don't have a Windows computer, use this template and use your favorite text editor to make the `feeds.xml`.</b>
 
-    ```
-    <?xml version="1.0" encoding="utf-8"?>
-    <rss>
-      <feed name="Przykladowy-Kanal"><![CDATA[http://example.com/rss-feed]]></feed>
-      <feed name="Jeszcze jeden przykladowy kanal"><![CDATA[http://example.com/another_rss-feed]]></feed>
-    </rss>
-    ```
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<rss>
+  <feed name="Example-Feed"><![CDATA[http://example.com/rss-feed]]></feed>
+  <feed name="One more Example-Feed!"><![CDATA[http://example.com/another_rss-feed]]></feed>
+</rss>
+```
 
-	Zamień część "name" z nazwą kanału jaki chcesz dodać. Upewnij się że ta nazwa nie będzie za długa ponieważ jest pewne ograniczenie.
-	Następnie, zamień część [CDATA] z linkiem do twojego kanału RSS. Możesz dodać tyle kanałów ile chcesz. 
-    ```
-    <?xml version="1.0" encoding="utf-8"?>
-    <rss>
-      <feed name="RiiConnect24 Medium"><![CDATA[https://medium.com/feed/riiconnect24]]></feed>
-      <feed name="RiiConnect24 Twitter"><![CDATA[https://twitrss.me/twitter_user_to_rss/?user=RiiConnect24]]></feed>
-      <feed name="Nintendo News"><![CDATA[https://www.nintendo.com/feed]]></feed>
-    </rss>
-    ```
+Replace the "name" portion with the title you want to put for the feed. Make sure it's not very long, since there's not that much space. Then, replace the link portion with the link to the RSS feed. You can put as many feeds as you want. Don't delete the "CDATA" part.
 
-	Wygląda świetnie! Teraz zapisz ten plik do `feeds.xml` na Twojej karcie SD.
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<rss>
+  <feed name="RiiConnect24 Medium"><![CDATA[https://medium.com/feed/riiconnect24]]></feed>
+  <feed name="RiiConnect24 Twitter"><![CDATA[https://twitrss.me/twitter_user_to_rss/?user=RiiConnect24]]></feed>
+  <feed name="Nintendo News"><![CDATA[https://www.nintendo.com/feed]]></feed>
+</rss>
+```
 
-1. Uruchom RSSMii używając Homebrew Channel.
-1. Naciśnij "A" aby potweirdzić że chcesz zasubskrybować podane Kanały RSS. Zignoruj błąd o ES_GetTitleID.
-1. Kiedy wszystko będzie gotowe, naciśnij HOME aby powrócić do Homebrew Channel. Wkrótcę powinieneś otrzymać aktualizacje z kanałów RSS na Twoim Wii.
+Save the feed you made to the root of your SD Card.
+3. Launch RSSMii from the Homebrew Channel.
+4. Press A to confirm you want to subscribe to the feeds. Ignore the error about ES_GetTitleID, everything is fine.
+5. Once everything is done, press HOME to go back to the Homebrew Channel. You should soon get RSS feed updates on your Wii, enjoy!
 
-Nie dostajesz żadnych aktualizacji? Spróbuj dodać kanał RSS który częściej się aktualizuje, na przykłąd kanał informacyjny. Jeśli kanał RSS nie jest aktualizowany często, nie otrzymasz dużo aktualizacji na Twoim Wii.
+Not getting any feed updates? Try an RSS feed that updates more frequently, like a feed with news for example. If the RSS feed doesn't update often, then you won't get many updates.
 {: .notice--warning}
 
-Zalecamy abyś tylko zasubskrybował do kilku kanałów ponieważ możesz otrzymać za dużo wiadomości na Twojej Wii.
+We recommend you use just a few feeds, because if you subscribe to a lot of feeds you can get a ton of mail on your Wii.
 {: .notice--info}
 
-Jeżeli nie otrzymujesz aktualizacji przez kilka dni, spróbuj zasubskrybować kanały RSS ponownie. Uruchom RSSMii z Homebrew Chanel i spróbuj jeszcze raz.
+If you're not receiving updates after a few days, you might need to subscribe to the RSS feeds again. Launch RSSMii from the Homebrew Channel again and it'll create brand new subscriptions.
 {: .notice--info}
 
-[Kasowanie RSSMii](rssmii-remove)
+[Removing RSSMii](rssmii-remove)
 {: .notice--info}
