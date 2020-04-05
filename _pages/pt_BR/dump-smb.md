@@ -1,44 +1,39 @@
-﻿---
-title: "Fazendo backup de um jogo usando WiFi/Ethernet"
+---
+title: "Dumping a game over a local network"
 ---
 
-{% include toc title="Sumário" %}
+{% include toc title="Table of Contents" %}
 
-Quer fazer backup de jogos usando sua internet local? Veja esse tutorial! Isso é muito útil quando você não tem um Cartão SD ou um dispositivo USB que seja grande o suficiente para instalar o jogo.
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: .notice--info}
+
+Do you want to dump games through your local network? Follow this tutorial! This can be useful if you don't have an SD card or a USB drive that is large enough to dump a game to.
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-#### Você precisará de
+#### What you need
 
-* Um Wii.
+* A Wii.
 * [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
 
-Seu Wii e Computador devem estar conectado à uma conexão local.
+Your Wii and your computer must be connected to one local network
 {: .notice--warning}
 
-#### Instruções
+#### Instructions
 
-##### Parte I - Baixar/Instalar
+##### Section I - Downloading/Installing
 
-1. Extraia o DVD Dump Tool e coloque dentro da pasta `apps` do seu Cartão SD.
-1. Insira seu Cartão SD no Wii, e abra o DVD Dump Tool através do Homebrew Channel.
-![1](/images/DumpDiscs_LAN/1.jpg)
+1. Extract DVD Dump Tool and put it in the `apps` folder on your SD card or USB drive.
+1. Insert your SD card into your Wii, and launch DVD Dump Tool from the Homebrew Channel.
 
-##### Parte II - Fazendo o Backup
+##### Section II - Ripping
 
-1. Pressione o botão direito do d-pad e pressione "A"
-![2](/images/DumpDiscs_LAN/2.jpg)
-1. Selecione o disco que será copiado (As opções são: `Disco GameCube`, `Disco Single-Layer Wii`, `Disco Dual-Layer Wii` e pressione "A"
-![3](/images/DumpDiscs_LAN/3.jpg)
-1. Agora insira o disco no Wii. (Caso jogo já esteja no Wii, ejete e insira novamente.)
-![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg)
-![4](/images/DumpDiscs_LAN/4.jpg)
-1. Lembre-se do seu Wii URL(endereço IP)
-![5](/images/DumpDiscs_LAN/5.jpg)
-1. No seu computador abra seu navegador, digite a URL do seu Wii e aperte ENTER.
-![6](/images/DumpDiscs_LAN/6.jpg)
-1. Você deverá ver isso. Clique em `Clik here to download XXXX.iso`
-![7](/images/DumpDiscs_LAN/7.jpg)
-1. A velocidade de transferência não é a mais rápida, porém se você não pode usar outra opção, é melhor do que nada.
+1. Press the right button on the d-pad and press "A" ![2](/images/DumpDiscs_LAN/2.png)
+1. Choose the disc that you want to copy (The options are: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` and press "A" ![3](/images/DumpDiscs_LAN/3.png)
+1. Now put your game to your Wii. (If it's already in your wii, eject it and put it back) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
+1. Remember your Wii URL (IP address) ![5](/images/DumpDiscs_LAN/5.png)
+1. On your computer in your web browser, type in the Wii URL and hit ENTER. ![6](/images/DumpDiscs_LAN/6.png)
+1. You should see this. Click on `Click here to download XXXX.iso` ![7](/images/DumpDiscs_LAN/7.jpg)
+1. The transfer speed is not the fastest, but if you can't use anything else, it's better than nothing.
 
 ![8](/images/DumpDiscs_LAN/8.PNG)
