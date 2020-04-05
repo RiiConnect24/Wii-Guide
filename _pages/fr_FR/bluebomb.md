@@ -49,28 +49,28 @@ Cette faille ne fonctionnera pas sur une Wii U (vWii). Veuillez plutôt suivre [
 
 Le terminal devrait afficher "Waiting to accept". L'ordinateur attend désormais la connexion de votre Wii Mini.
 
-13. Maintenez le bouton `Sync` de votre Wii (il se trouve sur la partie gauche; Sur une Wii Normal, il est juste à côté de la fente pour carte SD)
-   - Continue Pressing until Terminal displays "Got connection handle".
+13. Maintenez le bouton `Sync` de votre Wii (il se trouve sur la partie gauche; sur une Wii originale, il se situe juste après la fente pour carte SD)
+   - Maintenez la pression jusqu'à ce que le terminal affiche "Got connection handle".
 
-The Wii Mini should now boot to the HackMii installer (Do not attempt to install BootMii)
+La Wii Mini devrait maintenant démarrer l'installeur HackMii (n'essayez pas d'installer BootMii)
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[Continuez avec l'installation de la chaîne Homebrew](hbc)
 {: .notice--info}
 
-##### Section II - cIOS Installation
-cIOS is used for USB Loaders to play backups. Be warned that cIOS is still in the experimental stage.
+##### Partie II - Installation des cIOS
+Les cIOS sont utilisés par les USB Loaders pour lancer des backups de jeux. Attention, les cIOS sont encore à un stade expérimental.
 {: .notice--info}
-This version of cIOS is only for the Wii Mini. If you're on a Wii, please follow the [cIOS guide](/cios).
+Cette version de cIOS est dédiée uniquement à la Wii Mini. Si vous êtes sur une Wii, veuillez suivre le [guide cIOS](/cios).
 {: .notice--warning}
 
-1. Download the cIOS File from [here](https://bluebomb.glitch.me/d2xl-cIOS/index.html)
-2. Open the archive and drag and drop the only folder to the `/apps/` folder on your USB Drive
-3. Ouvrez la Chaîne homebrew sur votre Wii Mini
-4. Lancer le d2x cIOS installer
-5. For `Select cIOS`, change the value to `d2xl-v1-beta2`
-6. For `Select cIOS base`, change the value to `57`
-7. For `Select cIOS slot` and change the value to `249`
-   - Under "NOTES" there will be a section "Offline installation". Take a note of the exact version number (5 digits directly before the `.wad` extension).
+1. Téléchargez les fichiers cIOS depuis [ce lien](https://bluebomb.glitch.me/d2xl-cIOS/index.html)
+2. Ouvrez l'archive et déposez le dossier de l'archive dans le dossier `/apps/` présent sur votre clé USB
+3. Ouvrez la chaîne Homebrew sur votre Wii Mini
+4. Lancez l'installateur cIOS d2x
+5. Pour `Select cIOS`, paramétrez la valeur `d2xl-v1-beta2`
+6. Pour `Select cIOS base`, paramétrez la valeur à `57`
+7. Pour `Select cIOS slot`, paramétrez la valeur à `249`
+   - Dans la section "NOTES" se trouvera la section "Installation hors-ligne". Take a note of the exact version number (5 digits directly before the `.wad` extension).
 8. Press A to start the installation.
    - If it fails with a weird "TMD version mismatch" error, that isn't a problem. Just try again, but this time, while selecting the cIOS base, press left/right on the Wiimote until the 5-digit number from earlier is different than when you tried before. This time, it should work - one of the two version numbers should work.
 9. After successfully installing the cIOS press B to exit.
