@@ -73,34 +73,34 @@ Falls du nicht in der Lage warst, deine nwc24msg.cfg zu patchen, kontaktiere uns
 
 Du musst deine DNS einrichten, damit der Wetterkanal und Nachrichtenkanal auf unsere Server verweisen. Diese DNS ist ebenfalls hilfreich, wenn du auf Wiimmfi spielen möchtest.
 
-1. Go to `Wii Options`.
-2. Go to `Wii Settings`.
-3. Go to `Page 2`, then click on `Internet`.
-4. Go to `Connection Settings`.
-5. Select your current connection.
-6. Go to `Change Settings`.
-7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`.
-8. Type in `164.132.44.106` as the primary DNS.
-9. Type in `8.8.8.8` as the secondary DNS (or `1.1.1.1`).
-10. Select `Confirm`, then select `Save`.
-11. Select `OK` to perform a connection test.
-12. If the connection test was successful, select `No` to skip the Wii System Update.
-13. Go to `WiiConnect24`, then `WiiConnect24` again, and make sure it is enabled.
-14. Back on the WiiConnect24 menu, go to `Standby Connection` and make sure it is enabled.
-15. At `Slot Illumination`, we recommend you set the disc light to `Dim` or `Bright`, but this is optional.
-16. Finally, go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`. Please read through this.
+1. Gehe in die `Wii-Optionen`.
+2. Gehe in die `Wii-Systemeinstellungen`.
+3. Gehe auf `Seite 2`, wähle dann `Internet`.
+4. Gehe auf `Verbindungseinstellungen`.
+5. Wähle deine derzeitige Verbindung aus.
+6. Gehe auf `Ändern`.
+7. Gehe auf `DNS automatisch beziehen` (Nicht IP-Adresse), wähle dann `Nein` und gehe dann auf `Detaileinstellungen`.
+8. Gebe `164.132.44.106` als primärer DNS-Server an.
+9. Gebe `8.8.8.8` als sekundären DNS-Server an (oder `1.1.1.1`).
+10. Wähle `Bestätigen`, dann `Speichern`.
+11. Wähle `OK` um einen Verbindungstest durchzuführen.
+12. Wenn der Verbindungstest erfolgreich war, wähle `Nein`, um das Wii-Systemupdate zu überspringen.
+13. Gehe auf `WiiConnect24`, dann `Ein-/Ausschalten` und stelle sicher, dass es eingeschaltet ist.
+14. Zurück im WiiConnect24-Menü, gehe auf `Verbindung bei Standby` und stelle sicher, dass es aktiviert ist.
+15. Bei `Blinksignal`, empfehlen wir, die Beleuchtung entweder auf `Schwach` oder `Stark` zu setzen, dies ist aber nicht zwingend erforderlich.
+16. Abschließend, gehe in den Bereich `Internet`, dann `Vertrag/Kontrakt`, dann `Ja`. Bitte lies es dir durch.
 
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+[Fahre nun fort mit Wiimmfi](wiimmfi)<br> Wiimmfi erlaubt es dir, Spiele auch nach Abschaltung der Nintendo Wi-Fi Connection online zu spielen. Dies zu installieren ist nicht zwingend erforderlich.
 {: .notice--info}
 
-If you get error 107245, then you probably have failed to patch your IOS correctly.
+Falls du Fehler 107245 erhälst, hast du wahrscheinlich deine IOS nicht richtig gepatcht.
 {: .notice--info}
 
-If you get error 107304, then perhaps your ISP blocks the use of custom DNS. A workaround for this can be running your own DNS server! See the [RiiConnect24 DNS Server on GitHub](https://github.com/RiiConnect24/DNS-Server), then use your PC's IP address in place of ours in Step 8.
+Falls du Fehler 107304 erhälst, blockiert wahrscheinlich dein Internetanbieter die Nutzung alternativer DNS-Server. Eine Möglichkeit, dies zu umgehen, ist es deinen eigenen DNS-Server zu betreiben! Siehe [RiiConnect24 DNS Server auf GitHub](https://github.com/RiiConnect24/DNS-Server) und nutze dann die IP-Adresse deines PC an Stelle von unserer in Schritt 8.
 {: .notice--info}
 
-[If you get error FORE000006, you might want to follow this tutorial to fix it. (This doesn't work with NEWS000006).](riiconnect24-batteryfix)
+[Falls du den Fehler FORE000006 erhälst, kannst du zur Lösung dieses Tutorial befolgen. (This doesn't work with NEWS000006).](riiconnect24-batteryfix)
 {: .notice--warning}
 
 [If you're getting errors such as a `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, please go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
