@@ -26,12 +26,12 @@ Zapisanie kopii na Twoją kartą SD lub dysk USB jest szybsze, jednak zajmie to 
 
 ##### Sekcja II - Wykonywanie kopii zapasowej
 
-1. Wybierz urządzenie do którego zapiszesz kopię - twój Pendrive lub karta SD. ![Device type](/images/CleanRip/2.png)
+1. Wybierz urządzenie do którego zapiszesz kopię - twój Pendrive lub karta SD. ![Typ urządzenia](/images/CleanRip/2.png)
 2. Na tym ekranie, zostaniesz zapytany czy chcesz pobrać plik z sumami kontrolnymi gier której zaraz zrobisz kopię zapasową. Jeżeli chcesz, wybierz `Yes`, jeżeli nie, wybierz `No` - wybór należy do Ciebie. ![DAT](/images/CleanRip/3.png)
-3. Teraz włóż płytę z grą której chcesz zrobić kopię. ![DVD](/images/CleanRip/4.png) ![Initialising Disc](/images/CleanRip/5.png)
+3. Teraz włóż płytę z grą której chcesz zrobić kopię. ![DVD](/images/CleanRip/4.png) ![Inicjalizowanie płyty](/images/CleanRip/5.png)
 4. Ustaw poniższej opcje tak jak pokazane na zrzucie ekranu poniżej.
-   - Jeżeli wiesz że kopiujesz grę która korzysta z płyt dwuwarstwowych, takich jak `Super Smash Bros. Brawl` lub `Metroid: Other M`, ustaw `Dual Layer` na `Yes`. ![Settings](/images/CleanRip/6.png)
-5. CleanRip wykona teraz kopię zapasową. To może potrwać chcilę ponieważ Twoje Wii wykona pełną kopię płyty która zajmie 4.7GB (9.4GB dla płyt dwuwarstwowych). ![Copying](/images/CleanRip/7.png)
+   - Jeżeli wiesz że kopiujesz grę która korzysta z płyt dwuwarstwowych, takich jak `Super Smash Bros. Brawl` lub `Metroid: Other M`, ustaw `Dual Layer` na `Yes`. ![Ustawienia](/images/CleanRip/6.png)
+5. CleanRip wykona teraz kopię zapasową. To może potrwać chcilę ponieważ Twoje Wii wykona pełną kopię płyty która zajmie 4.7GB (9.4GB dla płyt dwuwarstwowych). ![Kopiowanie](/images/CleanRip/7.png)
 
 ## Zapisywanie kopii zapasowej bezpośrednio na Twoim komputerze
 #### Czego będziesz potrzebował
@@ -51,12 +51,12 @@ Twoje Wii oraz Twój komputer muszą być podłączone do jednej sieci lokalnej
 ##### Sekcja II - Wykonywanie kopii zapasowej
 
 1. Naciśnij `prawo` na D-Padzie na kontrolerze oraz naciśnij `A` ![2](/images/DumpDiscs_LAN/2.png)
-2. Choose the disc that you want to copy (The options are: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` and press "A" ![3](/images/DumpDiscs_LAN/3.png)
-3. Now put your game to your Wii. (If it's already in your wii, eject it and put it back) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
-4. Remember your Wii URL (IP address) ![5](/images/DumpDiscs_LAN/5.png)
-5. On your browser, visit the Wii URL/IP address website given to you. ![6](/images/DumpDiscs_LAN/6.png)
-6. You should see this. Click on `Click here to download XXXX.iso` ![7](/images/DumpDiscs_LAN/7.jpg)
-7. The transfer speed is not the fastest, but if you can't use anything else, it's better than nothing.
+2. Wybierz typ płyty której wykonujesz kopię zapasową (opcje to: `GameCube Disc (Płyta GameCube)`, `Wii Single-Layer Disc (Płyta Wii jednowarstwowa)`, `Wii Dual-Layer Disc (Płyta Wii dwuwarstwowa)` i naciśnij `A`. ![3](/images/DumpDiscs_LAN/3.png)
+3. Teraz, włóż płytę z grą do Twojego Wii. (Jeżeli gra już jest w Wii, wysuń ją i włóż spowrotem) ![WłóżPłytę](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
+4. Zapamiętaj adres Twojego Wii (Adres IP) ![5](/images/DumpDiscs_LAN/5.png)
+5. W Twojej przeglądarce, otwórz adres Twojegro Wii/Adres IP, który został podany przez CleanRip. ![6](/images/DumpDiscs_LAN/6.png)
+6. Powinieneś/Powinnaś zobaczyć to. Naciśnij na `Click here to download XXXX.iso` (Naciśnij tutaj, żeby pobrać plik XXXX.iso) ![7](/images/DumpDiscs_LAN/7.jpg)
+7. Prędkość przesyłania nie jest najszybsza ale jeżeli nie możesz użyć karty SD lub urządzenia USB, lepsze to niż nic.
 
-[I want to dump it directly to my PC over a network](dump-smb)
+[Chcę wykonać kopię zapasową bezpośrednio do mojego komputera przez sieć.](dump-smb)
 {: .notice--info}
