@@ -4,7 +4,7 @@ layout: single
 sitemap: false
 ---
 
-![WiiTutorials](/images/WiiTutorials.jpg)
+![WiiTutoriais](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
 **Destaque**
@@ -24,8 +24,8 @@ sitemap: false
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
 
-**Modding 101**
-* [BootMii Backup](bootmii)
+**Modificação 101**
+* [Copia de segurança BootMii](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
@@ -36,21 +36,21 @@ sitemap: false
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Creating Wii Game Shortcuts](wiigsc)
-+ [How to dump GameCube/Wii games](dump-games)
-+ [How to dump Channels (WADs)](dump-wads)
-+ [Installing RSSMii](rssmii)
-+ [Installing Wii Themes](themes)
-+ [Performing a SysCheck](syscheck)
-+ [Removing RSSMii](rssmii-remove)
++ [Criando atalhos jogos Wii](wiigsc)
++ [Como extrair jogos GameCube/Wii](dump-games)
++ [Como extrair canais (WADs)](dump-wads)
++ [Instalando RSSMii](rssmii)
++ [Instalando Temas Wii](themes)
++ [Realizando um SysCheck](syscheck)
++ [Removendo RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 
 **Site**
-+ [Home](/)
-+ [Get Started](get-started)
++ [Início](/)
++ [Vamos Começar](get-started)
 + [FAQ](faq)
-+ [Donations](donations)
++ [Doações](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
