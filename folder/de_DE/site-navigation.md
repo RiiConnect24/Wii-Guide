@@ -1,5 +1,5 @@
 ---
-title: "Site Navigation"
+title: "Seitenverzeichnis"
 layout: single
 sitemap: false
 ---
@@ -7,7 +7,7 @@ sitemap: false
 ![WiiTutorials](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
-**Featured**
+**Vorgestellt**
 
 + [cIOS](cios)
 + [RiiConnect24](riiconnect24)
@@ -18,39 +18,39 @@ sitemap: false
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
 + [RiiConnect24](riiconnect24)
-+ [RiiConnect24 Battery Fix](riiconnect24-batteryfix)
-+ [RiiConnect24 Troubleshooting](riiconnect24-troubleshooting)
++ [RiiConnect24 Batterie Fix](riiconnect24-batteryfix)
++ [RiiConnect24 Fehlerbehebung](riiconnect24-troubleshooting)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
 
-**Modding 101**
-* [BootMii Backup](bootmii)
+**Modding-Einmaleins**
+* [BootMii Sicherung](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
-+ [Homebrew Channel](hbc)
++ [Homebrew-Kanal](hbc)
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
 + [str2hax](str2hax)
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Creating Wii Game Shortcuts](wiigsc)
-+ [How to dump GameCube/Wii games](dump-games)
-+ [How to dump Channels (WADs)](dump-wads)
-+ [Installing RSSMii](rssmii)
-+ [Installing Wii Themes](themes)
-+ [Performing a SysCheck](syscheck)
-+ [Removing RSSMii](rssmii-remove)
++ [Verknüpfungen für Wii-Spiele erstellen](wiigsc)
++ [Wie man Wii/GameCube-Spiele sichert](dump-games)
++ [Wie man Kanäle (WADs) sichert](dump-wads)
++ [RSSMii installieren](rssmii)
++ [Wii-Designs installieren](themes)
++ [Einen SysCheck durchführen](syscheck)
++ [RSSMii entfernen](rssmii-remove)
 + [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 
-**Site**
-+ [Home](/)
-+ [Get Started](get-started)
-+ [FAQ](faq)
-+ [Donations](donations)
+**Seite**
++ [Start](/)
++ [Einstieg](get-started)
++ [Häufig gestellte Fragen (FAQ)](faq)
++ [Spenden](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
