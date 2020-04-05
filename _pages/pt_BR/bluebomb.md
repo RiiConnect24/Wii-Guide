@@ -14,9 +14,9 @@ Bluebomb é um exploit criado para modificar seu Wii Mini, tomando vantagem de u
 Para o Wii Original, recomendamos que use [outro exploit](/get-started) se sua intenção for instalar o Homebrew Launcher
 {: .notice--info}
 
-If installing on the Wii Mini; BootMii can't be installed on the Wii Mini yet. Please don't attempt to install it. We won't be responsible if your device gets bricked.
+Se estiver instalando no Wii Mini; O BootMii ainda não pode ser instalado no Wii Mini. Por favor, não tente instalá-lo. Não seremos responsáveis caso seu dispositivo seja danificado.
 {: .notice--warning}
-This exploit will not work on a Wii U (vWii). Please follow [this guide instead](https://wiiuguide.xyz/#/vwii/).
+Esse exploit não funcionará no Wii U (vWii). Por favor siga [esse guia](https://wiiuguide.xyz/#/vwii/).
 {: .notice--warning}
 
 #### What you need
