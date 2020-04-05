@@ -1,22 +1,25 @@
-﻿---
+---
 title: "FlashHax"
 ---
 
-{% include toc title="Sumário" %}
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: .notice--info}
 
-FlashHax é um exploit para o Wii que é ativado através do Internet Channel. Diferente de outros exploits, este não requer um Cartão SD.
+FlashHax is an exploit for the Wii that is triggered by using the Internet Channel. Unlike other exploits, this doesn't require an SD card.
 
-#### Você precisará de
-* Um Wii com a Versão do Sistema 4.3
-* Conexão à Internet
+#### What you need
+
+- A Wii with an Internet connection on system version 4.3
+- The Internet Channel
+   - This will not be installed on a vWii or a Wii Mini. Check out the other guides listed in [Get Started](/get-started) instead.
 
 #### Instructions
 
-1. Abra o Canal da Internet no Wii. Se você não tem, baixe-o através da Loja do Wii.
-1. Vá até flashhax.com no browser e favorite a página.
-1. Abra o site através dos favoritos. O download começará e o HackMii será carregado logo em seguida. Pode levar algum tempo, levando em consideração que está sendo transferido da Internet.
+1. Open up the Internet Channel on your Wii.
+2. Go to flashhax.com in the browser and bookmark the page.
+3. Open the site from the bookmark. It'll then proceed to download and load the HackMii Installer. It may take some time as it is downloading the installer over the internet.
 
-Caso o instalador do HackMii não funcione e ele congele, reinicie seu Wii e refaça o 3º passo até que funcione. Pode levar várias tentativas, seja persistente!
+If the HackMii Installer doesn't load and it instead freezes (you can't move your cursor), please restart your Wii and repeat step 3 until it works. It might take multiple tries, be persistent!
 
-[Continuar para a instalação do Homebrew Channel](hbc)
+[Continue to Homebrew Channel and BootMii Installation](hbc)
 {: .notice--info}
