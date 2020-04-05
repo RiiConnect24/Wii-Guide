@@ -1,25 +1,25 @@
 ---
-title: "Installing RSSMii"
+title: "RSSMii installieren"
 ---
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD)(empfohlen) bei, oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Do you want to get RSS feed updates on your Wii Message Board? This tutorial will tell you how to set RSSMii up.
 
 ![RSSMii](/images/rssmii.png)
 
-#### What you need
+#### Voraussetzungen
 
-* An SD card
+* Eine SD-Karte
 * [RSSMii](https://github.com/RiiConnect24/rssmii/releases)
 
-#### Instructions
-##### Section I - Downloading/Installing
+#### Anleitung
+##### Abschnitt 1 - Herunterladen/Installieren
 
-1. Extract RSSMii and put it in the `apps` folder on your SD card.
+1. Entpacke RSSMii und verschiebe es in den `apps`-Ordner auf deiner SD-Karte.
 2. We need to create a `feeds.xml` on the root of the SD card so the app will know what feeds to subscribe you to.
 
 If you're using the Windows Operating System, you can use the RSS Feeds Creators program created by KcrPL. It will automatically create a `feeds.xml` file and will copy it to your SD card!
@@ -47,7 +47,7 @@ Replace the "name" portion with the title you want to put for the feed. Make sur
 ```
 
 Save the feed you made to the root of your SD Card.
-3. Launch RSSMii from the Homebrew Channel.
+3. Starte RSSMii vom Homebrew-Kanal.
 4. Press A to confirm you want to subscribe to the feeds. Ignore the error about ES_GetTitleID, everything is fine.
 5. Once everything is done, press HOME to go back to the Homebrew Channel. You should soon get RSS feed updates on your Wii, enjoy!
 
@@ -60,5 +60,5 @@ We recommend you use just a few feeds, because if you subscribe to a lot of feed
 If you're not receiving updates after a few days, you might need to subscribe to the RSS feeds again. Launch RSSMii from the Homebrew Channel again and it'll create brand new subscriptions.
 {: .notice--info}
 
-[Removing RSSMii](rssmii-remove)
+[RSSMii entfernen](rssmii-remove)
 {: .notice--info}
