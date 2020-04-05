@@ -4,17 +4,17 @@ title: "USB Loader GX"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD)(empfohlen) bei, oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 This is a quick start guide on how to use USB Loader GX, a popular USB loader for the Wii that's used to play games from a USB Drive.
 
 ![USB Loader GX](/images/usbloadergx.png)
 
-#### What you need
+#### Voraussetzungen
 
-* A Wii
-* A USB Drive
+* Eine Wii
+* Ein USB-Laufwerk
 * [USB Loader GX](https://sourceforge.net/projects/usbloadergx/files/latest/download)
 
 Make sure you have installed [cIOS](/cios) before following this!
@@ -29,14 +29,14 @@ To play multiple games, we recommend a USB-powered external hard drive for your 
 Make sure your USB Drive is formatted as FAT32 or NTFS. Do not format it as other types such as extFS or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
-#### Instructions
+#### Anleitung
 
-##### Downloading
+##### Herunterladen
 
-1. Extract USB Loader GX and put it in the `apps` folder on your USB drive or SD card.
+1. Entpacke USB Loader GX und verschiebe es in den `apps`-Ordner auf deinem USB-Laufwerk bzw. deiner SD-Karte.
 2. Insert your USB drive, and SD card if you're using one, into your Wii and launch USB Loader GX from the Homebrew Channel.
 
-##### Getting Started
+##### Einstieg
 
 There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
 {: .notice--info}
@@ -46,11 +46,11 @@ There is no "guide" to use the USB Loader GX app. This is intended to help you l
 * There are WADs that can open up USB Loader GX if you load it from the Wii Menu. This is called a forwarder WAD.
 * GameCube or "custom" Wii games may or may not have a custom banner that USB Loader GX uses. To enable this, find or write `CustomBannersURL = http://banner.rc24.xyz/` in config/GXGlobal.cfg on your USB Drive. Then you can use the "Custom Banner" download by pressing the 1 Button on your Wii Remote.
 
-##### User Interface
+##### Benutzeroberfläche
 
 There are multiple buttons in the USB Loader GX interface.
 
-###### Main Menu
+###### Hauptmenü
 
 These are the functions the buttons found on the top of the main menu do, from left to right:
 
@@ -81,5 +81,5 @@ On the middle of the bottom of the screen, you can see how much space is free on
 
 ##### Options once complete
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continue to site navigation](site-navigation)<br> Wir haben viele weitere Anleitungen, die dir gefallen könnten.
 {: .notice--info}
