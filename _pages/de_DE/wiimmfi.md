@@ -9,11 +9,11 @@ Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem
 
 ![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
 
-[Wiimmfi](https://wiimmfi.de) is a replacement service for the now-defunct Nintendo Wi-Fi Connection. It has been developed by Wiimm and Leseratte.
+[Wiimmfi](https://wiimmfi.de) is a replacement service for the now-defunct Nintendo Wi-Fi Connection. Es wurde entwickelt von Wiimm und Leseratte.
 
 ## Different patchers
 
-There are lots of different methods to connect to Wiimmfi.
+Es gibt verschiedene Möglichkeiten, sich zu Wiimmfi zu verbinden.
 
 ### Homebrew (Disc) Application
 MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
@@ -37,10 +37,10 @@ Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for th
 
 #### Anleitung
 
-1. Insert your game disc.
-2. Go into your internet connection settings and set the DNS server of your console to 95.217.77.151.
-3. Go to the WC24 contract information (third button after clicking on "Internet" in the settings).
-4. Confirm that you do want to use WC24 and the shop channel
+1. Lege deine Spiel-Disc ein.
+2. Gehe zu den Internet-Einstellungen und setze den DNS-Server deiner Konsole auf 95.217.77.151.
+3. Gehe zu den WC24-Vertragsinformationen (Dritter Button nach dem Klick auf "Internet" in den Einstellungen).
+4. Bestätige, dass du WC24 und den Shop-Kanal verwenden willst
 5. The Wiimmfi patcher page should show up. If it doesn't, and you still see the default license agreement, your router might not be compatible with this method.
 6. Wait for about 1 minute and 30 seconds for the patcher to load
 7. The game should now start with the Wiimmfi patch included
@@ -69,22 +69,22 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 #### Was du benötigst
 
 - Eine SD-Karte
-- Your copy of your game (in WAD format)
+- Eine Kopie deines Spieles (als WAD-Format)
 - [Auto WiiWare Patcher](https://github.com/RiiConnect24/auto-wiiware-patcher/releases)
 - [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
 [If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
 {: .notice--info}
 
-Steps:
+Schritte:
 1. Extract the .zip of the latest version of Auto WiiWare Patcher, and put your WAD in it.
 2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux.
 3. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
 
 ## Other stuff
 
-### Mario Kart Wii Competitions
-Wiimmfi allows you to participate in Mario Kart Wii competitions again.
+### Mario Kart Wii-Wettbewerbe
+Wiimmfi ermöglicht es dir, wieder an Mario Kart Wii-Wettbewerben teilzunehmen.
 
 #### Was du benötigst
 
@@ -93,7 +93,7 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
    - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
    - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
-#### Instructions (for Wii)
+#### Anleitung (für Wii)
 
 1. Entpacke den Mario Kart Wii Competition Patcher und verschiebe ihn in den `apps`-Ordner auf deiner SD-Karte.
 2. Verbinde deine SD-Karte bzw. dein USB-Laufwerk mit der Wii.
