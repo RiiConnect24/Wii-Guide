@@ -1,15 +1,15 @@
 ---
-title: "Dumping Wii/GameCube games"
+title: "Wykonywanie kopii zapasowej gier z Wii/GameCube"
 ---
 
-Want to legally dump a GameCube or a Wii game and play it on your Wii? With this tutorial we will explain how to do it.
+Chcesz legalnie wykonać kopię zapasową gry z Wii lub GameCube oraz zagrać w nie na Twojej Wii? Ten poradnik wytłumaczy Ci jak to zrobić.
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/b4Y7jfD) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.).
 {: .notice--info}
 
-These tutorials will teach you how to legally dump a GameCube/Wii disk. You can dump it to either your SD card/USB drive or to your PC using Wi-Fi or an Ethernet adapter.
+Ten poradnik nauczy Cię jak legalnie wykonać kopię zapasową gry z Wii lub GameCube. Możesz tą kopię zapisać do Twojej karty SD/Dysku USB lub na Twój komputer korzystając z Wi-Fi lub adaptera Ethernet dla Twojej konsoli Wii.
 
-Dumping to your SD card or USB Drive is quicker but it will take up space on your SD card. If the space is not available and you do not mind the slow speed of Internet travels, you could dump it to your PC.
+Zapisanie kopii na Twoją kartą SD lub dysk USB jest szybsze, jednak zajmie to trochę miejsca na Twojej karcie SD. Jeżeli nie masz tyle miejsca i nie przeszkadza Ci wolna prędkość przesyłania przez sieć lokalną, możesz zapisać kopię bezpośrednio do Twojego komputera.
 
 ## Store it on a USB drive or an SD card
 #### Requirements
