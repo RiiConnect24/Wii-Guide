@@ -11,46 +11,46 @@ Ten poradnik nauczy Cię jak legalnie wykonać kopię zapasową gry z Wii lub Ga
 
 Zapisanie kopii na Twoją kartą SD lub dysk USB jest szybsze, jednak zajmie to trochę miejsca na Twojej karcie SD. Jeżeli nie masz tyle miejsca i nie przeszkadza Ci wolna prędkość przesyłania przez sieć lokalną, możesz zapisać kopię bezpośrednio do Twojego komputera.
 
-## Store it on a USB drive or an SD card
-#### Requirements
+## Zapisywanie kopii na Dysk USB / pendrive lub kartę SD
+#### Wymagania
 
-* A Wii with an Internet connection
-* An SD card or USB drive with at least 4.7 GB of free space
+* Konsola Wii z połączeniem Internetowym
+* Kartę SD lub Dysk USB / pendrive z przynajmniej 4.7GB wolnej przestrzeni
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
-#### Instructions
-##### Section I - Downloading/Installing
+#### Instrukcje
+##### Sekcja I - Pobieranie/Instalowanie
 
-1. Extract CleanRip and put it in the `apps` folder on your SD card or USB drive.
-2. Insert your SD card into your Wii, and launch CleanRip from the Homebrew Channel.
+1. Wypakuj CleanRip oraz skopiuj go do folderu `apps` na Twojej karcie SD lub urządzeniu USB.
+2. Podłącz Twoją kartę SD lub urządzenie USB do Twojego Wii oraz uruchom CleanRip korzystając z Homebrew Channel.
 
-##### Section II - Ripping
+##### Sekcja II - Wykonywanie kopii zapasowej
 
-1. Select your device that you will be dumping the game to - your USB drive or SD card. ![Device type](/images/CleanRip/2.png)
-2. On this screen, it asks you if you want to download a file with game checksums so you can verify the dump created is a 1:1 copy of the disc. It's your choice whether to say `Yes` or `No` to download this file. ![DAT](/images/CleanRip/3.png)
-3. Now insert the game you'd like to dump. ![DVD](/images/CleanRip/4.png) ![Initialising Disc](/images/CleanRip/5.png)
-4. Set it as shown on the screen below.
-   - If you know that you are dumping a game that uses a dual layer disc, like `Super Smash Bros. Brawl` or `Metroid: Other M`, set `Dual Layer` to `Yes`. ![Settings](/images/CleanRip/6.png)
-5. CleanRip will now dump your game. It can take a while, since it will dump the full 4.7GB disc contents (9.4 for dual layer discs). ![Copying](/images/CleanRip/7.png)
+1. Wybierz urządzenie do którego zapiszesz kopię - twój Pendrive lub karta SD. ![Device type](/images/CleanRip/2.png)
+2. Na tym ekranie, zostaniesz zapytany czy chcesz pobrać plik z sumami kontrolnymi gier której zaraz zrobisz kopię zapasową. Jeżeli chcesz, wybierz `Yes`, jeżeli nie, wybierz `No` - wybór należy do Ciebie. ![DAT](/images/CleanRip/3.png)
+3. Teraz włóż płytę z grą której chcesz zrobić kopię. ![DVD](/images/CleanRip/4.png) ![Initialising Disc](/images/CleanRip/5.png)
+4. Ustaw poniższej opcje tak jak pokazane na zrzucie ekranu poniżej.
+   - Jeżeli wiesz że kopiujesz grę która korzysta z płyt dwuwarstwowych, takich jak `Super Smash Bros. Brawl` lub `Metroid: Other M`, ustaw `Dual Layer` na `Yes`. ![Settings](/images/CleanRip/6.png)
+5. CleanRip wykona teraz kopię zapasową. To może potrwać chcilę ponieważ Twoje Wii wykona pełną kopię płyty która zajmie 4.7GB (9.4GB dla płyt dwuwarstwowych). ![Copying](/images/CleanRip/7.png)
 
-## Store it on your PC
-#### What you need
+## Zapisywanie kopii zapasowej bezpośrednio na Twoim komputerze
+#### Czego będziesz potrzebował
 
-* A Wii.
-* [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
+* Konsola Wii.
+* [Narzędzie DVD Dump](/assets/files/DVDDumpTool.zip)
 
-Your Wii and your computer must be connected to one local network
+Twoje Wii oraz Twój komputer muszą być podłączone do jednej sieci lokalnej
 {: .notice--warning}
 
-#### Instructions
-##### Section I - Downloading/Installing
+#### Instrukcje
+##### Sekcja I - Pobieranie/Instalowanie
 
-1. Extract DVD Dump Tool and put it in the `apps` folder on your SD card or USB drive.
-2. Insert your SD card into your Wii, and launch DVD Dump Tool from the Homebrew Channel.
+1. Wypakuj narzędzie DVD Dump (DVD Dump Tool) oraz skopiuj go do folderu `apps` na Twojej karcie SD lub urządzeniu USB.
+2. Podłącz Twoją kartę SD lub urządzenie USB do Twojego Wii oraz uruchom DVD Dump Tool korzystając z Homebrew Channel.
 
-##### Section II - Ripping
+##### Sekcja II - Wykonywanie kopii zapasowej
 
-1. Press the right button on the d-pad and press "A" ![2](/images/DumpDiscs_LAN/2.png)
+1. Naciśnij `prawo` na D-Padzie na kontrolerze oraz naciśnij `A` ![2](/images/DumpDiscs_LAN/2.png)
 2. Choose the disc that you want to copy (The options are: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` and press "A" ![3](/images/DumpDiscs_LAN/3.png)
 3. Now put your game to your Wii. (If it's already in your wii, eject it and put it back) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
 4. Remember your Wii URL (IP address) ![5](/images/DumpDiscs_LAN/5.png)
