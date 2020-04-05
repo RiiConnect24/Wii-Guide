@@ -43,15 +43,15 @@ Die Schritte zur Verbindung von RiiTag mit deinem USB-Loader hängen von deinem 
 6. [Gehe auf diese Seite.](https://tag.rc24.xyz/Wiinnertag.xml)
 7. Ruf in deinem Webbrowser das Kontextmenü auf und wähle `Seite speichern unter...`.
 8. Speichere die XML-Datei im `config`-Ordner auf deiner SD-Karte bzw. deinem USB-Laufwerk und ersetze so die bereits vorhandene `Wiinnertag.xml`.
-9. Du hast jetzt RiiTag eingerichtet. You can try loading any game now to see if it works correctly.
+9. Du hast jetzt RiiTag eingerichtet. Du kannst jetzt ein beliebiges Spiel starten, um zu sehen, dass es korrekt funktioniert.
 
 ###### WiiFlow
 
-1. Take the SD Card or USB device where your WiiFlow data is into your computer.
-2. Open `/apps/wiiflow/wiiflow.ini` with a text editor. (If you use WiiFlow Lite, the path might have `wiiflow_lite` instead of `wiiflow`.)
-3. Search for `gamercards` and replace that line with `gamercards=wiinnertag`.
-4. Search for `wiinnertag_url` and replace that line with `wiinnertag_url=http://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
-5. Search for `wiinnertag_key` and replace that line with `wiinnertag_key=<key>`, replacing `<key>` with the key you wrote down in Section 1.
+1. Verbinde die SD-Karte bzw. das USB-Laufwerk mit deinen WiiFlow-Daten mit deinem Computer.
+2. Öffne `/apps/wiiflow/wiiflow.ini` mit einem Texteditor. (Wenn du WiiFlow Lite benutzt, könnte der Pfad `wiiflow_lite` anstelle von `wiiflow` beinhalten.)
+3. Suche nach `gamercards` und ersetze die Zeile mit `gamercards=wiinnertag`.
+4. Suche nach `wiinnertag_url` und ersetze die Zeile mit `wiinnertag_url=http://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
+5. Suche nach `wiinnertag_key` und ersetze die Zeile mit `wiinnertag_key=<key>`, wobei du `<key>` mit dem Schlüssel ersetzt, den du dir in Abschnitt 1 notiert hast.
 6. Search for `gamercards_enable` and replace that line with `gamercards_enable=yes`.
 7. Save the modified `wiiflow.ini` file.
 8. You have now set up RiiTag. You can try loading any game now to see if it works correctly.
