@@ -1,5 +1,5 @@
 ---
-title: "Site Navigation"
+title: "Navegação do Site"
 layout: single
 sitemap: false
 ---
@@ -7,7 +7,7 @@ sitemap: false
 ![WiiTutorials](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
-**Featured**
+**Destaque**
 
 + [cIOS](cios)
 + [RiiConnect24](riiconnect24)
@@ -18,8 +18,8 @@ sitemap: false
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
 + [RiiConnect24](riiconnect24)
-+ [RiiConnect24 Battery Fix](riiconnect24-batteryfix)
-+ [RiiConnect24 Troubleshooting](riiconnect24-troubleshooting)
++ [Reparação da bateria RiiConnect24](riiconnect24-batteryfix)
++ [Solução de problemas RiiConnect24](riiconnect24-troubleshooting)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
