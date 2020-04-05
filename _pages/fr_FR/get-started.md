@@ -1,23 +1,24 @@
 ---
-title: "Commençons !"
+title: "Commencer"
 ---
 
-{% include toc title="Sommaire" %}
+{% include toc title="Table of Contents" %}
 
-Pour modder une Wii, [Nous vous recommendons d'utiliser ModMii (Si vous avez Windows)](https://sourceforge.net/projects/modmii/). C'est un bon outil, et vous pouvez avoir un guide avec des instructions.<br>
-[SetMiiUp](https://gbatemp.net/threads/setmiiup-from-stock-to-latest-softmod-in-less-then-5-10-minutes.459416/) c'est aussi un bon outil pour commenceer dans le modding de Wii.<br>
-Mais ces outils ne donnent pas d'informations sur comment installer RiiConnect24 et Wiimmfi, alors, utilisez ce site pour savoir comment les installer.
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Ce guide est seulement pour les Wii originales, et qui ont la dernière version du frimware. N'utilisez pas ceci sur une vWii (le mode Wii surr la Wii U !)!
-Si vus voulez installer des homebrews sur une Wii U, [suivez ce tutoriel](https://wiiu.hacks.guide/vwii-modding).
+These instructions will assume you're using an SD card to mod your Wii with, but you can use a USB storage device instead. However, the exploit LetterBomb requires a SD card due to how the Wii Message Board works.
+{: .notice--info}
+
+This guide is for the original Wii only, with the latest firmware (4.3). Do not use this on a Wii U (vWii)! If you want to install homebrew on vWii, [follow this tutorial](https://wiiuguide.xyz/#/vwii/).
 {: .notice--warning}
 
-<table>
-  <tr>
-    <td>
-	  <a href="letterbomb">LetterBomb</a><br>
-	  <a href="flashhax">FlashHax</a>
-	  </td>
-  </tr>
-</table>
+### Choisissez une faille à utiliser
+
+- [str2hax](str2hax) - Exploit that uses the Wii EULA (Recommended, no SD card nor Channel required, but requires changing the DNS settings)
+- [FlashHax](flashhax) - Exploit that uses the Internet Channel (No SD card required)
+- [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board (SD card required)
+- [BlueBomb](bluebomb) - Exploit that uses Bluetooth (No SD card required)
+    * Requires a computer with Bluetooth and GNU/Linux, as well as a USB drive
+    * This is the only exploit that works on the **Wii Mini**
+
