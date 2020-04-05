@@ -1,37 +1,34 @@
-﻿---
-title: "Copiando WADs"
+---
+title: "Dumping WADs"
 ---
 
-{% include toc title="Sumário" %}
+{% include toc title="Table of Contents" %}
 
-Este tutorial irá lhe ensinr a como copiar WADs da memória de seu Wii.
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: .notice--info}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+This tutorial will explain you how to dump WADs from your Wii System Memory.
 
-#### Você precisará de
-* Um cartão SD com pelo menos 128MB de espaço livre
-* Internet access on your computer.
+#### Requirements
+* An SD card or USB drive
 * [Yet Another BlueDump MOD](/assets/files/YABDM.zip)
 
-##### Parte I - Baixar/Instalar
+#### Instructions
+##### Section I - Downloading/Installing
 
-1. Extraia Yet Another BlueDump MOD e coloque dentro da pasta `apps` do seu Cartão SD.
-1. Insira seu Cartão SD no Wii, e abra Yet Another BlueDump MOD através do Homebrew Channel.
+1. Extract Yet Another BlueDump MOD and put it in the `apps` folder on your SD card or USB drive.
+2. Insert your SD card or USB drive into your Wii, and launch Yet Another BlueDump MOD from the Homebrew Channel.
 
-##### Parte II - Copiar
-1. Pressione o botão A.
-![Press A](/images/DumpWADS/2.jpg)
+##### Section II - Dumping
+1. Press the A Button. ![Press A](/images/DumpWADS/2.jpg)
 
-1. Escolha `Installed Channel Titles`.
-![Installed Channel Titles](/images/DumpWADS/3.jpg)
+2. Choose `Installed Channel Titles`. ![Installed Channel Titles](/images/DumpWADS/3.jpg)
 
-1. Escolha o conteúdo que será copiado e pressione o botão 1.
-![Find channel](/images/DumpWADS/4.jpg)
+3. Find the content you want to dump and press the 1 Button. ![Find channel](/images/DumpWADS/4.jpg)
 
-1. Escolha `Backup to WAD`.
-1. Quando aparecer `Fakesign the ticket`, pressione o botão A.
-1. Quando aparecer `Fakesign the TMD`, pressione o botão A.
-1. Quando aparecer `Change the output WAD region`, pressione o botão B.
+4. Choose `Backup to WAD`.
+5. At the prompt to `Fakesign the ticket`, choose `Yes`.
+6. At the prompt to `Fakesign the TMD`, choose `No`.
+7. At the prompt to `Change the output WAD region`, press the B Button.
 
-1. Concluído!
-![Done](/images/DumpWADS/6.jpg)
+You have now dumped that WAD. It should appear on your SD card. ![Done](/images/DumpWADS/6.jpg)
