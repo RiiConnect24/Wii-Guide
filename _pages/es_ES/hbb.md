@@ -5,9 +5,7 @@ title: "Homebrew Browser"
 Si necesitas ayuda con algo relacionado con este tutorial, por favor unete a [El servidor de Discord de RiiConnect24](https://discord.gg/b4Y7jfD) (recomendado) o [mándanos un mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![HBC Logo](/images/hbc.png)
-
-El Homebrew Browser es donde puedes conseguir aplicaciones homebrew. Ha sido revivido y ahora también se le conoce como el "Open Shop Channel"
+The Homebrew Browser is where you can go to get homebrew apps. It has been revived and is also now referred to as the "Open Shop Channel"
 
 #### Lo que necesitas
 * Una tarjeta SD o un dispositivo USB
@@ -18,8 +16,8 @@ El Homebrew Browser es donde puedes conseguir aplicaciones homebrew. Ha sido rev
 1. Extrae el Homebrew Browser y ponlo en la carpeta `apps` de tu tarjeta SD o dispositivo USB.
 2. Conecta la tarjeta SD o tu dispositivo USB a tu Wii. Ahora puedes ejecutar el Homebrew Browser desde el Homebrew Channel si tu quieres.
 
-Incluido en la descarga del Homebrew Browser hay una guia de como usar el Homebrew Browser.
+Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
 {: .notice--info}
 
-Puedes intercambiar ShopChannel.ogg con loop.ogg para que Homebrew Browser reproduzca la música del Canal Tienda.
+You can swap out ShopChannel.ogg with loop.ogg to have the Homebrew Browser play the Wii Shop Channel music.
 {: .notice--info}
