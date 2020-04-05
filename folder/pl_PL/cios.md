@@ -6,7 +6,7 @@ title: "cIOS"
 
 Ten poradnik nauczy Cię jak zainstalować cIOS (niestandardowe IOS). Chociaż jest to zalecenie (homebrew może działać lepiej), jest to wymóg dla loaderów gier z USB.
 
-![d2x cIOS Installer](/images/cIOS.png)
+![Instalator d2x cIOS](/images/cIOS.png)
 
 ## Wymagania
 - Karta SD lub urządzenie USB.
@@ -66,30 +66,30 @@ Wybierz wersję cIOS: 65535
 - Ta rewizja jest tylko używana przez Wii podczas sprawdzania aktualizacji. Zostanie ustawiony na najwyższą wersję, aby zapobiec zastąpieniu go przez aktualizację systemu niefunkcjonalnym oficjalnym IOS. 
    - Ta opcja nie będzie dostępna w instalatorze na Wii U.
 ```
-![Install cIOS 249](/images/Wii/Install249.png)
-2. Once set, press A twice to install.
-3. When done installing, press A to return, and set the options to the following:
+![Zainstaluj cIOS 249](/images/Wii/Install249.png)
+2. Kiedy ustawisz tak jak powyżej, naciśnij A podwójnie aby zainstalować.
+3. Kiedy instalacja przebiegnie pomyślnie, naciśnij A aby powrócić i ustaw poniższe opcje:
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 57
-Select cIOS slot: 250
-Select cIOS version: 65535
+Wybierz cIOS: v10 beta52 d2x-v10-beta52
+Wybierz cIOS base: 57
+Wybierz cIOS slot: 250
+Wybierz cIOS version: 65535
 ```
-![Install cIOS 250](/images/Wii/Install250.png)
-4. Once set, press A twice to install.
-5. When done installing, press A to return, and set the options to the following:
+![Zainstaluj cIOS 250](/images/Wii/Install250.png)
+4. Kiedy ustawisz tak jak powyżej, naciśnij A podwójnie aby zainstalować.
+5. Kiedy instalacja przebiegnie pomyślnie, naciśnij A aby powrócić i ustaw poniższe opcje:
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 58
-Select cIOS slot: 251
-Select cIOS version: 65535
+Wybierz cIOS: v10 beta52 d2x-v10-beta52
+Wybierz cIOS base: 58
+Wybierz cIOS slot: 251
+Wybierz cIOS version: 65535
 ```
-6. Run it again, then exit once done.
+6. Zrób tak jeszcze raz oraz wyjdź po ukończeniu.
 
-### Options once complete
+### Co można zrobić po ukończeniu?
 
-You can now use homebrew such as [USB Loader GX](usbloadergx).
+Możesz teraz korzystać z homebrew takiego jak [USB Loader GX](usbloadergx).
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Przejdź do spisu stron](site-navigation)<br> Mamy wiele innych poradników, które mogą Ci się przydać.
 {: .notice--info}
