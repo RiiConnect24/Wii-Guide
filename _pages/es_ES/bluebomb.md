@@ -58,12 +58,12 @@ La Wii Mini deberia arrancar el HackMii installer (No intentes instalar BootMii)
 {: .notice--info}
 
 ##### Sección 2 - Instalación de cIOS (IOS personalizada)
-cIOS is used for USB Loaders to play backups. Be warned that cIOS is still in the experimental stage.
+cIOS se usa para cargadoras USB a jugar copias de seguridad. Ser advirtió que cIOS todavía está en la etapa experimental.
 {: .notice--info}
-This version of cIOS is only for the Wii Mini. If you're on a Wii, please follow the [cIOS guide](/cios).
+Esta versión de cIOS es solo para Wii Mini. Si estás en una Wii, por favor, sigue la [Guía de cIOS](/cios).
 {: .notice--warning}
 
-1. Download the cIOS File from [here](https://bluebomb.glitch.me/d2xl-cIOS/index.html)
+1. Descargue el archivo cIOS de [aquí](https://bluebomb.glitch.me/d2xl-cIOS/index.html)
 2. Open the archive and drag and drop the only folder to the `/apps/` folder on your USB Drive
 3. Abre el Homebrew Channel en tu Wii Mini
 4. Abre el d2x cIOS installer
