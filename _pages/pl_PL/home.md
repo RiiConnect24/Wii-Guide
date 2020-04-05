@@ -1,40 +1,54 @@
 ---
 layout: splash
-title: "Wii Guide" #
+title: "Wii Guide"
 header:
-  overlay_color: "#5e616c" #
+  overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
-  cta_label: "Wprowadzenie" #
-  cta_url: "pl_PL/get-started" #
+  cta_label: "Get Started"
+  cta_url: "get-started"
   caption:
-excerpt: "Poradnik który wprowadzi Cię do świata Homebrew Wii<br />"
+excerpt: "The complete guide to modding your Nintendo Wii."
 ---
 
-## Czym jest "Homebrew"?
+The guide is also available in Spanish, French, Italian, Portuguese and Polish! To change the language, please press the icon at top right and change your language.
+{: .notice--info}
 
-[**Homebrew**](https://en.wikipedia.org/wiki/List_of_homebrew_video_games) odnosi się do nieoficjalnego i niepodpisanego oprogramowania stworzone dla Wii. Pozwala Ci to uruchamiać gry homebrew, aplikacje, emulatory oraz różne narzędzie jak i również różne serwisy.
+## What is Wii Guide?
 
-W wielu przypadkach, uruchamianie homebrew jest w 100% darmowe korzystając z exploitu LetterBomb lub FlashHax. Istnieje również dużo exploitów w wydanych grach aby pozwolić na uruchomienie homebrew na twojej konsoli.
+Wii Guide is a guide maintained by the [RiiConnect24 team](https://rc24.xyz) to get you started with Wii modding.
 
-## Co mogę zrobić z Homebrew?
+There are a few good resources for Wii modding and troubleshooting that can help:
 
-Poniżej jest lista rzeczy które możesz robić z Homebrew. Nasz poradnik chce Ciebie jak najłatwiej wprowadzić ale również mamy inne linki które mogą Ci pomóc.
+- [Complete Softmod Guide](https://sites.google.com/site/completesg/)
+- [ModMii](http://modmii.000webhostapp.com/)
+- [WiiBrew](https://wiibrew.org/)
+- [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
+- [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...and of course, this site
 
-+ Używać aplikacji Homebrew.
-+ Grać ponownie w gry online korzystając z [Wiimmfi](https://wiimmfi.de), serwis stworzony przez fanów który zastępuje wiele niewspieranych już gier które były wspierane przez Nintendo Wi-Fi Connection (również działa z wieloma grami na DS)
-+ Będziesz mógł używać Wii Mail jak i również Forecast Channel, News Channel oraz Everybody Votes Channel korzystając z [RiiConnect24](https://rc24.xyz) po zakończeniu wsparcia WiiConnect24
-+ Uruchamiaj gry Wii korzystając z dysku USB korzystając z USB Loadera.
-+ Graj w mody gier takich jak New Super Mario Bros. Wii lub Mario Kart Wii
-+ Zmień wygląd twojego Wii Menu
-+ Graj w gry retro korzystając z emulatorów na Wii takich jak [FCE Ultra GX dla gier z NES'a](https://github.com/dborth/fceugx/releases), [Snes9x GX dla gier ze SNES'a](https://github.com/dborth/snes9xgx/releases), i [Not64 dla gier z Nintendo 64](https://github.com/Extrems/Not64/releases);
+For modding a Wii U, there are some more options:
+- [The Definitive vWii Hacking Guide](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
+- [NH Wii U Guide](https://wiiuguide.xyz)
 
-+ Rób kopię zapasową zapisów gier i Mii korzystając z [SaveGame Manager GX](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download), i przywracaj zapisy i Mii innych osób.
-+ Uruchamiaj gry z GameCube'a na twoim Wii z dysku USB lub karty SD korzystając z [Nintendont](https://gbatemp.net/threads/nintendont.349258/).
-+ Rób kopie zapasowe gier z Wii/GameCube korzystając z [CleanRip](http://wiibrew.org/wiki/CleanRip).
-+ Rób całkowitą kopię zapasową pamięci Wii (NAND) korzystając z [BootMii](http://bootmii.org);
-+ Chroń swoje Wii od awarii systemu (Brick) korzystając z [Priiloader](https://wii.guide/priiloader);
-+ Słuchaj muzyki, oglądaj filmy i zdjęcia korzystając z [WiiMC](http://www.wiimc.org/) i oglądaj filmy z YouTube korzystając ze [specjalnej wersji](/assets/files/WiiMC.1.3.4.YT.zip);
-+ Uruchamiaj swoje ulubione aplikacje Homebrew korzystając z "forwarderów"
-+ Uczestnicz w zawodach Mario Kart Wii korzystając z [Wiimmfi]((https://competitions.wiimmfi.de))
-+ I wiele... wiele więcej!
+## What is "homebrew"?
+
+[**Homebrew**](https://en.wikipedia.org/wiki/List_of_homebrew_video_games) refers to unofficial software including games, utilities, emulators and others.
+
+Running homebrew on your Nintendo Wii is free using the str2hax, LetterBomb or FlashHax exploits. There are also various other exploits in commercial games to get homebrew running.
+
+## What can I do with homebrew?
+
+Here's a list of things you can do with it. While these aren't all the things you can do with homebrew, it should give you a starting point for things you can do. Our guide is meant for you to easily get started, but we have links associated with the things on the list to help you get started.
+
+- Run homebrew applications such as [media players](http://www.wiimc.org/), [disk copiers](/dump-games), [save managers](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download) and more.
+- Patch game disk contents (allowing you to load game modifications) using [Riivolution](http://www.wiibrew.org/wiki/Riivolution)
+- Theme and customize your Wii Menu using [MyMenuify](/themes).
+- Install an [all-in-one menu](https://gbatemp.net/threads/wiiflow-lite.422685/) to launch all your favorite titles.
+- Restore discontinued online services, such as [WiiConnect24](/riiconnect24) & [Nintendo WFC services](wiimmfi).
+- Backup and restore copies of your Wii system memory (NAND) using [BootMii](http://bootmii.org).
+- Protect your Wii from bricks using [Priiloader](https://wii.guide/priiloader)
+- Install applications to your System Menu
+   - Homebrew applications could use forwarders to launch the .elf file on the SD card.
+
+Get started by [choosing your exploit](get-started)!
+{: .notice--info}
