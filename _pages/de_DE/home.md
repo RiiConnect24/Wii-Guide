@@ -11,7 +11,7 @@ header:
 excerpt: "Die vollständige Anleitung zum Modden deiner Nintendo Wii."
 ---
 
-The guide is also available in other languages! Um die Sprache zu ändern, klicke bitte auf das Symbol oben rechts und ändere deine Sprache.
+Die Anleitung ist auch in anderen Sprachen verfügbar! Um die Sprache zu ändern, klicke bitte auf das Symbol oben rechts und ändere deine Sprache.
 {: .notice--info}
 
 ## Was ist Wii Guide?
@@ -26,7 +26,7 @@ Running homebrew on your Nintendo Wii is free using various exploits.
 
 ## Was kann ich mit Homebrew machen?
 
-Here's a list of things you can do with it. While these aren't all the things you can do with homebrew, it should give you a starting point for things you can do. Our guide will help you easily get started.
+Hier ist eine Liste mit Dingen, die du damit machen kannst. While these aren't all the things you can do with homebrew, it should give you a starting point for things you can do. Our guide will help you easily get started.
 
 - Patch game disc contents (allowing you to load game modifications) using [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
 - Install themes to your Wii Menu using [MyMenuify](/themes).
@@ -42,11 +42,11 @@ Here's a list of things you can do with it. While these aren't all the things yo
 Get started by [choosing your exploit](get-started)!
 {: .notice--info}
 
-## More Resources
+## Weitere Quellen
 
 There are also few more good resources for Wii modding and troubleshooting that can help:
 
-- [Complete Softmod Guide](https://sites.google.com/site/completesg/)
+- [Vollständige Softmod-Anleitung](https://sites.google.com/site/completesg/)
 - [ModMii](http://modmii.000webhostapp.com/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
