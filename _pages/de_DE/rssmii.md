@@ -7,7 +7,7 @@ title: "RSSMii installieren"
 Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD)(empfohlen) bei, oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Do you want to get RSS feed updates on your Wii Message Board? This tutorial will tell you how to set RSSMii up.
+Möchtest du RSS-Feed-Updates auf deiner Wii-Pinnwand erhalten? Diese Anleitung wird dir beim Einrichten von RSSMii helfen.
 
 ![RSSMii](/images/rssmii.png)
 
@@ -22,7 +22,7 @@ Do you want to get RSS feed updates on your Wii Message Board? This tutorial wil
 1. Entpacke RSSMii und verschiebe es in den `apps`-Ordner auf deiner SD-Karte.
 2. We need to create a `feeds.xml` on the root of the SD card so the app will know what feeds to subscribe you to.
 
-If you're using the Windows Operating System, you can use the RSS Feeds Creators program created by KcrPL. It will automatically create a `feeds.xml` file and will copy it to your SD card!
+Falls du Windows als Betriebssystem nutzt, kannst du das RSS Feeds Creators Programm von KcrPL nutzen. It will automatically create a `feeds.xml` file and will copy it to your SD card!
 {: .notice--info}
 
 <b>If you don't have a Windows computer, use this template and use your favorite text editor to make the `feeds.xml`.</b>
@@ -35,7 +35,7 @@ If you're using the Windows Operating System, you can use the RSS Feeds Creators
 </rss>
 ```
 
-Replace the "name" portion with the title you want to put for the feed. Make sure it's not very long, since there's not that much space. Then, replace the link portion with the link to the RSS feed. You can put as many feeds as you want. Don't delete the "CDATA" part.
+Replace the "name" portion with the title you want to put for the feed. Stelle sicher, dass es nicht allzu lang ist, weil es wenig Platz gibt. Then, replace the link portion with the link to the RSS feed. You can put as many feeds as you want. Lösche nicht den "CDATA"-Abschnitt.
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -46,10 +46,10 @@ Replace the "name" portion with the title you want to put for the feed. Make sur
 </rss>
 ```
 
-Save the feed you made to the root of your SD Card.
+Speichere den erstellten Feed im Root-Verzeichnis deiner SD-Karte.
 3. Starte RSSMii vom Homebrew-Kanal.
-4. Press A to confirm you want to subscribe to the feeds. Ignore the error about ES_GetTitleID, everything is fine.
-5. Once everything is done, press HOME to go back to the Homebrew Channel. You should soon get RSS feed updates on your Wii, enjoy!
+4. Drücke A um das Abonnieren der Feeds zu bestätigen. Ignoriere den Fehler von ES_GetTitleID, es ist alles gut.
+5. Wenn alles erledigt ist, drücke HOME um zum Homebrew-Kanal zurückzukehren. Du solltest bald RSS-Feed-Updates auf deiner Wii erhalten, viel Spaß!
 
 Not getting any feed updates? Try an RSS feed that updates more frequently, like a feed with news for example. If the RSS feed doesn't update often, then you won't get many updates.
 {: .notice--warning}
