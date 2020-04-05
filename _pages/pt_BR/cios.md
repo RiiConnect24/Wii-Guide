@@ -31,8 +31,8 @@ Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 ![Install cIOS 249](/images/Wii/Install249.png)
-1. Once set, press A to install.
-1. When done installing, press A to return, and set the options to the following:
+1. Quando feito, pressione A para instalar.
+1. Quando a instalação for concluída, pressione A para retornar, e defina as opções dessa forma:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 57
@@ -40,15 +40,15 @@ Select cIOS slot: 250
 Select cIOS version: 65535
 ```
 ![Install cIOS 250](/images/Wii/Install250.png)
-1. Once set, press A to install.
-1. When done installing, press A to return, and set the options to the following:
+1. Quando feito, pressione A para instalar.
+1. Quando a instalação for concluída, pressione A para retornar, e defina as opções dessa forma:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 58
 Select cIOS slot: 251
 Select cIOS version: 65535
 ```
-1. Run it again, then exit once done.
+1. Execute-o novamente e saia depois de ser concluído.
 
 ##### Options once complete
 
