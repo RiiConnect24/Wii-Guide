@@ -9,12 +9,12 @@ Se tu precisas de ajuda com alguma coisa relacionada a este tutorial, por favor 
 
 ![BlueBomb](/images/bluebomb.png)
 
-Bluebomb is an exploit intended for Wii Mini Modding that takes advantage of an exploit in the Bluetooth adapter. It's the only exploit for the Wii Mini but it can be used on the original Wii as well. It can be used to recover from certain bricks on the Wii.
+Bluebomb é uma vulnerabilidade destinada para a modificação do Wii Mini que tira proveito de uma vulnerabilidade no adaptador Bluetooth. Ele é a única vulnerabilidade para a Wii Mini mas pode ser utilizado na Wii original também. Pode ser utilizado para recuperar de certos bricks na Wii.
 
-For the original Wii, we recommend using [another exploit](/get-started) instead if you intend to install the Homebrew Channel
+Para a Wii original, nós recomendamos utilizar [outra vulnerabilidade](/get-started) se pretenderes instalar o Homebrew Channel
 {: .notice--info}
 
-If installing on the Wii Mini; BootMii can't be installed on the Wii Mini yet. Please don't attempt to install it. We won't be responsible if your device gets bricked.
+Se instalares no Wii Mini; BootMii ainda não pode ser instalado no Wii Mini. Por favor, não arrisques em instalá-lo. Nós não responsabilizamos se o teu dispositivo brickar.
 {: .notice--warning}
 This exploit will not work on a Wii U (vWii). Please follow [this guide instead](https://wiiuguide.xyz/#/vwii/).
 {: .notice--warning}
