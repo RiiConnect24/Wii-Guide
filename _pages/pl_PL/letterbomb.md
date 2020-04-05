@@ -2,27 +2,32 @@
 title: "LetterBomb"
 ---
 
-{% include toc title="Zawartość" %}
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: .notice--info}
 
 ![LetterBomb](/images/letterbomb.png)
 
-LetterBomb jest exploitem dla Twojej Wii który jest uruchamiany korzystając z Wii Message Board.
+LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
 
-#### Czego będziesz potrzebował
-* Wii z wersją systemu 4.3
-* Karta SD z przynajmniej 128MB wolnej przestrzeni.
+This exploit is one of many. Check out the [Get Started](/get-started) page for other options.
+{: .notice--info}
 
-#### Instrukcje
+#### What you need
+- An SD card
+- A Wii on system version 4.3
+   - This exploit will not work on a Wii Mini or vWii
 
-1. Otwórz `Wii Settings` -> `Internet` -> `Console Information` i zapisz swój adres MAC.
-1. Idź do [please.hackmii.com](https://please.hackmii.com), wpisz adres MAC Twojej Wii i region Twojej Wii, ukończ CAPTCHA, *upewnij się że `Bundle the HackMii Installer` jest zaznaczony* i naciśnij `Cut the red wire` lub `Cut the blue wire`. Nie ma znaczenia które wybierzesz.
-![HackMii Screen](/images/Wii/LetterBomb-PC.png)
-1. Wypakuj wszystkie pliki z pobranego pliku ZIP na Twoją kartę SD.
-1. Na Twoim Wii, powróć do Wii Menu i otwórz Message Board. (Ikona koperty na dole po prawej)
-1. Załaduj czerwoną kopertę z ikonką bomby.
-   W niektórych przypadkach, będziesz musiał się cofnąć o poprzedni dzień albo przejść na następny aby tą ikonkę znaleźć.
+#### Instructions
+
+1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
+2. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure `Bundle the HackMii Installer for me!` is checked*, and cut either wire
+   - Whichever wire you choose to cut doesn't matter. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
+3. Extract the contents of the downloaded ZIP to your SD card.
+4. On your Wii, return to the Wii Menu and then open the Message Board.
+5. Load the red letter with a bomb icon.
+   - In various scenarios, you may need to look at the previous or next day to find it.
 
 ![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
 
-[Kontynuuj do instalacji Homebrew Channel](hbc)
+[Continue to Homebrew Channel and BootMii Installation](hbc)
 {: .notice--info}
