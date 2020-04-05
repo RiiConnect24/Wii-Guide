@@ -2,20 +2,24 @@
 title: "FlashHax"
 ---
 
-{% include toc title="Zawartość" %}
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: .notice--info}
 
-FlashHax jest exploitów dla Wii który jest uruchamiany korzystając z Internet Channel. W przeciwieństwie do innych exploitów, to nie wymaga karty SD.
+FlashHax is an exploit for the Wii that is triggered by using the Internet Channel. Unlike other exploits, this doesn't require an SD card.
 
-#### Czego potrzebujesz?
-* Wii z wersją systemu 4.3
-* Połączenia internetowego.
+#### What you need
 
-#### Instrukcje
+- A Wii with an Internet connection on system version 4.3
+- The Internet Channel
+   - This will not be installed on a vWii or a Wii Mini. Check out the other guides listed in [Get Started](/get-started) instead.
 
-1. Otwórz Internet Channel na Twojej Wii. Jeśli go nie masz, pobierz go z Wii Shop Channel.
-1. Otwórz flashhax.com w przeglądarce i dodaj stronę do zakładek.
-1. Otwórz stronę z zakładek. Wtedy HackMii Installer pobierze się oraz uruchomi. Może to chwilę potrwać ponieważ instalator pobiera się z internetu.
+#### Instructions
 
-Jeżeli instalator nie uruchamia się a Internet Channels się zawiesi (nie możesz ruszyć kursorem), uruchom ponownie Wii i powtórz krok 3 dopóki nie będzie działało. Może to wymagać kilku prób.
-[Kontynuuj do instalacji Homebrew Channel](hbc)
+1. Open up the Internet Channel on your Wii.
+2. Go to flashhax.com in the browser and bookmark the page.
+3. Open the site from the bookmark. It'll then proceed to download and load the HackMii Installer. It may take some time as it is downloading the installer over the internet.
+
+If the HackMii Installer doesn't load and it instead freezes (you can't move your cursor), please restart your Wii and repeat step 3 until it works. It might take multiple tries, be persistent!
+
+[Continue to Homebrew Channel and BootMii Installation](hbc)
 {: .notice--info}
