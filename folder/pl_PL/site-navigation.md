@@ -1,13 +1,13 @@
 ---
-title: "Site Navigation"
+title: "Spis stron"
 layout: single
 sitemap: false
 ---
 
-![WiiTutorials](/images/WiiTutorials.jpg)
+![PoradnikiWii](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
-**Featured**
+**Wyróżnione**
 
 + [cIOS](cios)
 + [RiiConnect24](riiconnect24)
@@ -18,14 +18,14 @@ sitemap: false
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
 + [RiiConnect24](riiconnect24)
-+ [RiiConnect24 Battery Fix](riiconnect24-batteryfix)
-+ [RiiConnect24 Troubleshooting](riiconnect24-troubleshooting)
-+ [RiiConnect24 vWii](riiconnect24-vwii)
++ ["Naprawa baterią" RiiConnect24 ](riiconnect24-batteryfix)
++ [Rozwiązywanie problemów z RiiConnect24](riiconnect24-troubleshooting)
++ [RiiConnec24 na vWii](riiconnect24-vwii)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
 
-**Modding 101**
-* [BootMii Backup](bootmii)
+**Modowanie w pigułce**
+* [Wykonywanie kopii zapasowej korzystając z BootMii](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
@@ -36,21 +36,21 @@ sitemap: false
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Creating Wii Game Shortcuts](wiigsc)
-+ [How to dump GameCube/Wii games](dump-games)
-+ [How to dump Channels (WADs)](dump-wads)
-+ [Installing RSSMii](rssmii)
-+ [Installing Wii Themes](themes)
-+ [Performing a SysCheck](syscheck)
-+ [Removing RSSMii](rssmii-remove)
++ [Tworzenie skrótów do gier Wii](wiigsc)
++ [Jak wykonać kopię zapasową gier z GameCube/Wii](dump-games)
++ [Jak wykonać kopię zapasową kanałów (pliki WAD)](dump-wads)
++ [Instalowanie RSSMii](rssmii)
++ [Instalowanie motywów (Themes) Wii](themes)
++ [Wykonywanie SysCheck'u](syscheck)
++ [Usuwanie RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 
-**Site**
-+ [Home](/)
-+ [Get Started](get-started)
-+ [FAQ](faq)
-+ [Donations](donations)
+**Strona**
++ [Strona główna](/)
++ [Wprowadzenie](get-started)
++ [Często zadawane pytania](faq)
++ [Datki](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
