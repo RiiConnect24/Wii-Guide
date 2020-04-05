@@ -17,18 +17,18 @@ Een van BootMii's meest handigste kenmerken is de mogelijkheid om een Back-Up te
 #### Instructies
 1. Open het Homebrew Kanaal op uw Wii.
 2. Druk op de HOME Knop en selecteer "BootMii Opstarten" (Launch BootMii).
-   - Navigeren in het BootMii menu is niet mogelijk met een Wii-afstandsbediening. U zult hiervoor de knoppen op uw Wii zelf moeten gebruiken of een GameCube controller die is ingeplugd in poort 1. To navigate between options, press POWER on your Wii (or the right +Control Pad button on a GameCube controller). Keep in mind that when using the wii buttons, you can only navigate right but when attempting to go past the last entry, it'll warp you to the first one. This is not a limitation on GameCube Controllers; You can navigate left and right. To select an option, hit RESET on your Wii or A on your GameCube controller.
-3. Press the Options button (the one with the gears).
-4. Press the BackupMii button (the one with the green arrow).
-- A NAND backup will start. You can watch the progress on the screen.
-- Do not Power Off your Nintendo Wii when backing up your Wii.
-- "Bad Blocks" are normal. Don't worry when you see one on a NAND backup
-- After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii Console.
-5. When the backup is fully complete, exit the NAND backup screen by pressing any button.
-6. To exit BootMii, press the Back button (the one with the arrow) and then you can press either the Wii Menu button or the Homebrew Channel button to exit where you want to.
+   - Navigeren in het BootMii menu is niet mogelijk met een Wii-afstandsbediening. U zult hiervoor de knoppen op uw Wii zelf moeten gebruiken of een GameCube controller die is ingeplugd in poort 1. Om te navigeren tussen de opties moet u de POWER knop gebruiken van uw Wii (of het rechter +bedieningspaneel van uw GameCube controller). Houdt in gedachten dat u met de Wii knoppen alleen naar rechts kunt bewegen maar als u op het meest rechter icoontje nog een keer de Power knop indrukt dan komt u weer helemaal links aan. Dit is niet van toepassing op een GameCube controller, u kunt daar gewoon naar links en naar rechts. Om een opties te selecteren moet u de RESET knop indrukken op uw Wii of de A knop indrukken op een GameCube controller.
+3. Klik op de opties knop (Degene met de tandwielen).
+4. Klik op de BackupMii knop (degene met de groene pijl).
+- Een NAND back-up zal nu beginnen (dit is een back-up van alle gegevens van uw Wii). U kunt de vordering volgen op het scherm.
+- Zet uw Wii niet uit wanneer er een back-up wordt gemaakt.
+- Zwarte blokjes ("Bad Blocks" genoemd) zijn normaal. Maakt u zich geen zorgen als u deze ziet wanneer u een NAND back-up maakt
+- Hierna zal de back-up geverifieerd worden. Hoewel dit wordt aangeraden te doen, kan dit ook geskipt worden door op de EJECT knop te drukken op uw Wii.
+5. Wanneer de back-up volledig compleet is gaat u automatisch hier weg door op een knop te drukken.
+6. Om BootMii te verlaten moet u de terug knop gebruiken (degene met de pijl), u kunt vervolgens het Wii Menu kiezen of het Homebrew Kanaal om naar toe te gaan.
 
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
+Om een NAND back-up terug te zetten op uw Wii kunt u dezelfde instructies gebruiken alleen in plaats van de groene pijl moet u nu de RestoreMii knop kiezen (degene met de rode pijl).
 {: .notice--info}
 
-[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it, especially if you only installed BootMii as an IOS.
+[Verder gaan naar de Priiloader Installatie](priiloader)<br> Priiloader geeft uw Wii een extra level of bescherming tegen een brick, we raden dit dan ook aan iedereen aan maar vooral als je alleen BootMii als IOS kon kiezen.
 {: .notice--info}
