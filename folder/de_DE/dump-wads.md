@@ -1,5 +1,5 @@
 ---
-title: "WADs kopieren"
+title: "WADs sichern"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -24,7 +24,7 @@ Diese Anleitung erklärt dir, wie du WADs vom Speicher deiner Wii-Konsole kopier
 
 2. Wähle `Installed Channel Titles`. ![Installed Channel Titles](/images/DumpWADS/3.jpg)
 
-3. Finde den Inhalt, den du kopieren möchtest, und drücke die 1-Taste. ![Find channel](/images/DumpWADS/4.jpg)
+3. Finde den Inhalt, den du sichern möchtest, und drücke die 1-Taste. ![Find channel](/images/DumpWADS/4.jpg)
 
 4. Wähle `Backup to WAD`.
 5. Bei der Anzeige `Fakesign the ticket` wähle `Yes`.
