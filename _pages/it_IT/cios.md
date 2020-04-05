@@ -2,27 +2,28 @@
 title: "cIOS"
 ---
 
-{% include toc title="Indice" %}
+{% include toc title="Table of Contents" %}
 
-Questo tutorial ti insegnerà ad installare i cIOS (custom IOS). Essi sono richiesti per usare i giochi con gli USB Loader. Alcuni homebrew potrebbero funzionare meglio usando i cIOS.
+This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
 
-![cIOS Logo](/images/cIOS.png)
+![d2x cIOS Installer](/images/cIOS.png)
 
-#### Ciò di cui hai bisogno
-* Una Wii con connessione Internet
-* Una Sd con un minimo di 128 MB liberi
+#### What you need
+
+* A Wii with an Internet connection
+* An SD card or USB drive
 * [d2x cIOS Installer](https://sites.google.com/site/completesg/backup-launchers/installation/d2x-cIOS-Installer-Wii.zip?attredirects=0&d=1)
 
-#### Istruzioni
+#### Instructions
 
-##### Sezione 1 - Scaricamento
+##### Section I - Downloading
 
-1. Estrai d2x cIOS Installer e mettilo nella cartella `apps` sulla SD.
-1. Inserisci la SD nella Wii, e lancia d2x cIOS Installer dall'Homebrew Channel.
+1. Extract d2x cIOS Installer and put it in the `apps` folder on your SD card or USB drive.
+1. Insert your SD card or USB drive into your Wii, and launch d2x cIOS Installer from the Homebrew Channel.
 
-##### Sezione 2 - Installazione
+##### Section II - Installing
 
-1. Premi continua, e imposta le voci come riportato sotto:
+1. Press continue, then set the options to the following:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 56
@@ -30,8 +31,8 @@ Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 ![Install cIOS 249](/images/Wii/Install249.png)
-1. Una volta fatto, premi A per installare.
-1. Quando è terminata l'installazione, premi A per ritornare, e imposta le voci come riportato sotto:
+1. Once set, press A to install.
+1. When done installing, press A to return, and set the options to the following:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 57
@@ -39,26 +40,23 @@ Select cIOS slot: 250
 Select cIOS version: 65535
 ```
 ![Install cIOS 250](/images/Wii/Install250.png)
-1. Una volta fatto, premi A per installare.
-1. Quando è terminata l'installazione, premi A per ritornare, e imposta le voci come riportato sotto:
+1. Once set, press A to install.
+1. When done installing, press A to return, and set the options to the following:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 58
 Select cIOS slot: 251
 Select cIOS version: 65535
 ```
-1. Eseguilo di nuovo, una volta fatto esci.
+1. Run it again, then exit once done.
 
-##### Una volta fatto
+##### Options once complete
 
-[Imposta RiiConnect24](riiconnect24)<br>
-RiiConnect24 ripristina tutte le vecchie feature di WiiConnect24, come Wii Mail e alcuni canali. L'installazione è opzionale.
+You can now use homebrew such as [USB Loader GX](usbloadergx).
 {: .notice--info}
 
-[Imposta Wiimmfi](wiimmfi)<br>
-Wiimmfi è in grado di farti giocare online dopo la chiusura della Nintendo Wi-Fi Connection. L'installazione è opzionale.
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
 {: .notice--info}
 
-[Continua a navigare altrove](site-navigation)<br>
-Abbiamo molti altri tutorial che potrebbero aiutarti.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
