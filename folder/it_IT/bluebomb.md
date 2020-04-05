@@ -11,20 +11,20 @@ Se hai bisogno di aiuto riguardo questo tutorial, unisciti a [the Wii Mini Hacki
 
 Bluebomb è un exploit per Wii Mini Modding che sfrutta un exploit dell’adattatore Bluetooth. È l’unico exploit per Wii mini ma può essere usato anche sulla Wii originale. Può essere usato per rimediare ad alcuni blocchi della Wii.
 
-For the original Wii, we recommend using [another exploit](/get-started) instead if you intend to install the Homebrew Channel
+Per la Wii originale, raccomandiamo l'utilizzo [ di un'altro exploit](/get-started) se vuoi installare l'Homebrew Channel
 {: .notice--info}
 
-If installing on the Wii Mini; BootMii can't be installed on the Wii Mini yet. Please don't attempt to install it. We won't be responsible if your device gets bricked.
+Se lo si vuole installare nella Wii Mini; BootMii non può ancora essere installato. Please don't attempt to install it. We won't be responsible if your device gets bricked.
 {: .notice--warning}
-This exploit will not work on a Wii U (vWii). Please follow [this guide instead](https://wiiuguide.xyz/#/vwii/).
+Questo exploit non funziona sulla Wii U (vWii). Per favore segui invece [questa guida](https://wiiuguide.xyz/#/vwii/).
 {: .notice--warning}
 
 #### What you need
-- A Linux machine with a Bluetooth adapter (an integrated one will work)
-  - If you are using a Chromebook, you do not need to install another Operating System. You can enable [Linux in ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en)
+- Un sistema operativo Linux con un adattatore Bluetooth (funziona anche quello integrato)
+  - Se stai usando Chromebook, non devi installare un altro Sistema Operativo. Puoi abilitare [Linux in ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en)
   - Using Windows Subsystem for Linux will not work, due to the inability to access `bluetoothctl`.
-  - If you do not have Linux, Ubuntu is the most user-friendly option
-    - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/)
+  - Se non hai Linux, Ubuntu è la opzione più intuitiva
+    - I Sistemi a 32-bit richiedono [Ubuntu 16.04](http://releases.ubuntu.com/16.04/)
     - We recommend the LTS edition due to its stability, but the current release works as well.
 - USB Drive
 
