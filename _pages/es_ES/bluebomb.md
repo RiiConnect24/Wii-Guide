@@ -64,7 +64,7 @@ Esta versión de cIOS es solo para Wii Mini. Si estás en una Wii, por favor, si
 {: .notice--warning}
 
 1. Descargue el archivo cIOS de [aquí](https://bluebomb.glitch.me/d2xl-cIOS/index.html)
-2. Open the archive and drag and drop the only folder to the `/apps/` folder on your USB Drive
+2. Abra el archivo y arrastre y suelte la única carpeta en la `/apps/` carpeta en su Unidad USB
 3. Abre el Homebrew Channel en tu Wii Mini
 4. Abre el d2x cIOS installer
 5. For `Select cIOS`, change the value to `d2xl-v1-beta2`
