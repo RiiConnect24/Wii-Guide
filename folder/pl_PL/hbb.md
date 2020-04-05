@@ -2,24 +2,24 @@
 title: "Homebrew Browser"
 ---
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/b4Y7jfD) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.).
 {: .notice--info}
 
-![HBC Logo](/images/hbc.png)
+![Logo HBC](/images/hbc.png)
 
-The Homebrew Browser is where you can go to get homebrew apps. It has been revived and is also now referred to as the "Open Shop Channel"
+Homebrew Browser jest miejscem, w którym możesz znaleźć aplikacje homebrew. Projekt został odnowiony i jest teraz nazywany "Open Shop Channel"
 
-#### What you need
-* An SD card or USB drive
+#### Będziesz potrzebował:
+* Karta SD lub urządzenie USB
 * [Homebrew Browser](/assets/files/homebrew_browser_v0.3.9e.zip)
 
-#### Instructions
+#### Instrukcje
 
-1. Extract the Homebrew Browser and put it in the `apps` folder on your SD card or USB drive.
-2. Insert your SD card or USB drive into your Wii. You can now launch the Homebrew Browser from the Homebrew Channel if you want to.
+1. Wypakuj Homebrew Browser oraz skopiuj go do folderu `apps` na Twojej karcie SD lub urządzeniu USB.
+2. Włóż kartę SD lub urządzenie USB do Twojego Wii. Jeżeli chcesz, możesz teraz uruchomić Homebrew Browser korzystając z Homebrew Channel.
 
-Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
+W pliku, który zawiera Homebrew Browser jest równiez dołączony poradnik dotyczący jak korzystać z Homebrew Browser.
 {: .notice--info}
 
-You can swap out ShopChannel.ogg with loop.ogg to have the Homebrew Browser play the Wii Shop Channel music.
+Możesz zamienić plik ShopChannel.ogg na plik loop.ogg aby Homebrew Browser odtwarzał muzykę z Wii Shop Channel.
 {: .notice--info}
