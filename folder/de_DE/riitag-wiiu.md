@@ -1,35 +1,35 @@
 ---
-title: RiiTag on Wii U
+title: RiiTag auf der Wii U
 ---
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD)(empfohlen) bei, oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You launch a plugin on your Wii U console, and the tag updates on-the-fly.
+RiiTag ist ein anpassbarer und dynamischer Gamertag. Durch Teilen deines Gamertags (ein dynamische Bild), kannst du Freunden zeigen was du gespielt hast! Du kannst ein Plugin auf deiner Wii U-Konsole ausführen und es aktualisiert sich selbstständig.
 
-#### What you need
+#### Voraussetzungen
 
-- A device capable of interacting with SD cards
-- Softmodded Wii U console
-   - If you have not softmodded your Wii U yet, [please do so](https://wiiuguide.xyz). You cannot proceed without.
-- A Discord account
-- The latest release of [Wii U Plugin Loader](https://github.com/Maschell/WiiUPluginLoader/releases)
-- The latest release of [UTag plugin](https://github.com/RiiConnect24/UTag/releases)
+- Ein Gerät mit der Möglichkeit, auf SD-Karten zuzugreifen
+- Über Software gemoddete Wii U-Konsole
+   - Falls du keine über Software gemoddete Wii U-Konsole hast, [modde sie](https://wiiuguide.xyz). Sonst kannst du nicht fortfahren.
+- Ein Discord-Konto
+- Die aktuellste Version des [Wii U Plugin Loaders](https://github.com/Maschell/WiiUPluginLoader/releases)
+- Die aktuellste Version des [UTag-Plugins](https://github.com/RiiConnect24/UTag/releases)
 
-#### Instructions
+#### Anleitung
 
 ##### Section I - Website instructions
 
-1. Go to the [RiiTag website](https://tag.rc24.xyz/).
-2. Click `Log In` and log in with your Discord account.
-3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Click `Authorize`.
-4. Click `Edit Your Tag` and customize it to how you like. You can add a background, overlay, flag, nickname, Wii Number, and manually enter in games to show on your tag (not needed if you're using a USB Loader).
-5. Click `Show Key` and make note of the key shown. This will be used later on in this guide.
-6. Click `Submit` to save your changes.
+1. Gehe auf die [RiiTag-Webseite](https://tag.rc24.xyz/).
+2. Gehe auf `Log In` und melde dich mit deinem Discord-Konto an.
+3. Ein Fenster wird auftauchen und dich fragen, ob du `RiiConnect24 Login` Zugriff auf Discord geben möchtest. Wähle `Autorisieren`.
+4. Wähle `Edit Your Tag` und passe ihn nach Belieben an. Du kannst einen Hintergrund, ein Overlay, ein Symbol, einen Spitzname, den Wii-Code hinzufügen, sowie von Hand die Spiele, die auf deinem Tag auftauchen sollen (bei der Verwendung eines USB-Loaders nicht erforderlich).
+5. Wähle `Show Key` und notiere dir den angezeigten Schlüssel. Dieser wird später in der Anleitung benutzt.
+6. Wähle `Submit` um deine Änderungen zu speichern.
 
-Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
+Teile deinen RiiTag-Schlüssel mit niemandem! Falls du das tust, können andere deinen Tag missbrauchen.
 {: .notice--warning}
 
 ##### Section II - Setting things up on the SD card
@@ -42,7 +42,7 @@ Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
    - We're all done with the SD card side of things.
 5. Insert your SD card into your Wii U.
 
-##### Section III - Running the plugin
+##### Abschnitt 3 - Ausführen des Plugins
 
 1. Using your preferred method (browser exploit, Haxchi, Homebrew Launcher application, etc.), launch the **Homebrew Launcher** on your Wii U console.
 2. Navigate to, and launch the homebrew application titled `Wii U Plugin Loader`.
@@ -51,6 +51,6 @@ Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
 You have now set up RiiTag on your Wii U! Note that you will have to launch the plugin with the above procedure every time you wish to launch the plugin, unless things change. In which case, this guide will be updated. Now go play some games, and watch them show up on your RiiTag!
 {: .notice--success}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continue to site navigation](site-navigation)<br> Wir haben viele weitere Anleitungen, die dir gefallen könnten.
 {: .notice--info}
 
