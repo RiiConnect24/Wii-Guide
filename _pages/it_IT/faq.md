@@ -4,35 +4,27 @@ title: "FAQ"
 
 ![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
 
-{% capture notice-1 %}
+### How risky is hacking my console?
+Bricks (a state where either some parts of your Wii software are not working, or your Wii is not working at all) are now *basically* impossible unless you ignore/circumvent all safety checks.
 
-<a name="faq_latestfw" />**Q:** *La mia Wii è aggiornata all'ultima versione. Posso moddarla?*
-**A:** Si.
+### Where should I go for support?
+Either email us at support@riiconnect24.net or join the [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD).
 
-<a name="faq_risky" />**Q:** *Quanto è rischioso moddare la mia Wii?*
-**A:** I bricks sono ora *fondamentalmente* impossibili a meno che ignori i controlli di sicurezza.
+### What are the SD card requirements and/or recommendations?
+You will need an SD card with at least 128MB to run an exploit.
 
-<a name="faq_support" />**Q:** *Dove dovrei andare per ottenere supporto?*
-**A:** Per il supporto mandaci una mail a [support@riiconnect24.net](mailto:support@riiconnect24.net). Oppure, se hai un account Discord, entra a far parte del nostro server [RiiConnect24 su Discord](https://discord.gg/b4Y7jfD).
+- If you are using the LetterBomb/Wilbrand exploit, your SD card should be no larger than 32 GB.
+- If you are using the Super Smash Bros Brawl exploit, your SD card should be no bigger than 2 GB.
 
-<a name="faq_le4gbsd" />**Q:** *Posso moddare la mia Wii con una SD minore di 4GB?*
-**A:** Si!
+To store homebrew applications, we recommend an SD card with atleast 2 GB.
 
-<a name="faq_ge128gbsd" />**Q:** *Posso usare una SD maggiore di 32GB?*
-**A:** Avrai bisogno di una SD da 32GB o meno se usi gli exploit LetterBomb/Wilbrand (a meno che usi FlashHax o str2hax), ma se usi una SD maggiore di 32GB dovrebbe andare bene.
+### I got error XXXXXX in Wiimmfi, how to fix it?
+In order to check what error that is, please visit the [Wiimmfi error page](https://wiimmfi.de/error).
 
-<a name="faq_nopc" />**Q:** *Posso fare tutto ciò senza un PC (con un cellulare Android, ad esempio)?*
-**A:** Devi solo essere in grado di mettere dei file su una SD!
-
-<a name="faq_error" />**Q:** *Ho l'errore XXXXXX, come lo risolvo??*
-**A:** Per controllare di cosa si tratta, visita la [pagina degli errori di Wiimmfi](https://wiimmfi.de/error).
-
-<a name="faq_wiimini" />**Q:** *Posso moddare la mia Wii Mini?*
-**A:** No, non puoi dato che non possiede ne uno slot SD ne una connessione ad internet.
-
-<a name="faq_dolphin" />**Q:** *Posso installare RiiConnect24 su Dolphin?*
-**A:** Sfortunatamente, RiiConnect24 non funziona Dolphin a causa di una mancanza di codice per emulare WiiConnect24. Sappiamo che le persone sono interessato sul funzionamento su Dolphin, quindi potrebbe funzionare in futuro!
-
-{% endcapture %}
-
-<div class="notice--info">{{ notice-1 | markdownify }}</div>
+### What are the limitations in vWii modding?
+The following is a list of things that can potentially **BRICK** your vWii (don't do these things!):
+* Installing IOS for a Wii console on vWii.
+* Installing Wii menu themes not formatted correctly for vWii and/or your region.
+* Installing BootMii and/or Priiloader/Preloader.
+* Failure during the install of crucial system/IOS titles (e.g. power outage).
+* Modifying the vWii NAND without knowing what you are doing.
