@@ -1,32 +1,32 @@
 ---
-title: "BlueBomb"
+title: "Bluebomb"
 ---
 
-{% include toc title="Tables des contenues" %}
+{% include toc title="Table of Contents" %}
 
-Si vous avons besoin d'aide pour quelque chose concernant ce tutoriel, s'il vous plaît rejoignez [le serveur du Discord Wii Mini Hacking](https://discord.gg/6ryxnkS) (recommandé)
+Si vous avez besoin d'aide lors de la lecture de ce tutoriel, nous vous invitons à rejoindre le [serveur Discord de hacking Wii Mini](https://discord.gg/6ryxnkS)
 {: .notice--info}
 
-![BlueBomb](/images/bluebomb.png)
+![Bluebomb](/images/bluebomb.png)
 
 Bluebomb est une faille destinée au modding de la Wii Mini qui utilise une faille de l'adaptateur Bluetooth. C'est la seule faille utilisable sur Wii Mini, cependant elle peut également être utilisée sur la Wii originale. Cette faille peut être utilisée pour restaurer la Wii de certains bricks.
 
 Pour la Wii originale, nous vous recommandons plutôt d'utiliser [une autre faille](/get-started) si vous prévoyez d'installer la chaîne Homebrew
 {: .notice--info}
 
-If installing on the Wii Mini; BootMii can't be installed on the Wii Mini yet. N'essayez pas de l'installer. Nous ne serions tenus responsables si votre Wii venait à être brickée.
+Dans le cadre d'une installation sur Wii Mini; BootMii ne peut pas être installé sur Wii Mini à l'heure actuelle. N'essayez pas de l'installer. Nous ne serions tenus responsables si votre Wii venait à être brickée.
 {: .notice--warning}
 Cette faille ne fonctionnera pas sur une Wii U (vWii). Veuillez plutôt suivre [ce guide](https://wiiuguide.xyz/#/vwii/).
 {: .notice--warning}
 
 #### Éléments requis
 - Un poste de travail sous Linux avec un adaptateur Bluetooth (intégré et fonctionnel de préférence)
-  - Si vous utiliser un Chromebook, vous n’avez pas besoin d’installer un autre système d’exploitation. Vous pouvez activer [Linux dans ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en)
-  - En utilisant WSS (Windows Subsystem pour les intimes) ceci ne vas pas marcher, il n’a pas accès au `bluetoothctl` (donc allez sur Linux les fréros)
-  - Si vous n’avez pas Linux, Ubuntu est l’option la plus simple à utiliser
-    - Les appareils 32-Bits devront avoir besoin de [Ubuntu 16.04](http://releases.ubuntu.com/16.04/)
-    - Nous vous recommandons d’utiliser l’édition LTS du a sa stabilité, mais la dernière version marche tout de même.
-- Clef USB
+  - Si vous utilisez un Chromebook, vous n'avez pas besoin d'installer un autre système d'exploitation. Vous pouvez activer [Linux dans ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en)
+  - Utiliser WSL (Windows Subsystem for Linux) ne fonctionnera pas, à cause de l'impossibilité d'accès à `bluetoothctl`.
+  - Si vous n’avez pas Linux, Ubuntu est la solution la plus simple
+    - Les postes 32-bit nécessiteront [Ubuntu 16.04](http://releases.ubuntu.com/16.04/)
+    - Nous recommandons l'édition LTS pour sa stabilité, mais la dernière version fonctionne également.
+- Clé USB
 
 #### Instructions
 ##### Partie I - Mettre en œuvre la faille
@@ -70,20 +70,20 @@ Cette version de cIOS est dédiée uniquement à la Wii Mini. Si vous êtes sur 
 5. Pour `Select cIOS`, paramétrez la valeur `d2xl-v1-beta2`
 6. Pour `Select cIOS base`, paramétrez la valeur à `57`
 7. Pour `Select cIOS slot`, paramétrez la valeur à `249`
-   - Dans la section "NOTES" se trouvera la section "Installation hors-ligne". Take a note of the exact version number (5 digits directly before the `.wad` extension).
-8. Press A to start the installation.
-   - If it fails with a weird "TMD version mismatch" error, that isn't a problem. Just try again, but this time, while selecting the cIOS base, press left/right on the Wiimote until the 5-digit number from earlier is different than when you tried before. This time, it should work - one of the two version numbers should work.
-9. After successfully installing the cIOS press B to exit.
+   - Dans la section "NOTES" se trouvera la section "Installation hors-ligne". Notez le numéro de version exact (5 derniers chiffres juste avant l'extension `.wad`).
+8. Appuyez sur A pour commencer l'installation.
+   - Si l'installation échoue avec l'erreur "TMD version mismatch", ce n'est pas un problème. Réessayez, cependant, en sélectionnant la base du cIOS, appuyez sur gauche/droite sur votre Wiimote jusqu'à ce que les 5 chiffres notés précédemment soient différents que ceux que vous avez essayé. Cette fois, cela devrait fonctionner - une des deux versions devrait fonctionner.
+9. Après avoir installé le cIOS, appuyez sur B pour quitter.
 
-Now you have cIOS installed.
+Vous avez installé le cIOS avec succès.
 
-##### Section III - Enabling Ethernet
+##### Partie III - Connectivité Ethernet
 
-Do not run this section if you're not on a Wii Mini. This section is **only** intended for Wii Mini owners.
+Ne suivez pas cette partie si vous n'êtes pas sur une Wii Mini. Cette section est **uniquement réservée** aux propriétaires de Wii Mini.
 {: .notice--warning}
 
-1. Download [the Wii Mini Ethernet Enable tool](/assets/files/Wii_Mini_Ethernet_Enable.zip).
-2. Add it to the `/apps/` folder on your USB.
-3. Run it from the Homebrew Channel.
+1. Téléchargez l'[outil d'activation Ethernet pour Wii Mini](/assets/files/Wii_Mini_Ethernet_Enable.zip).
+2. Ajoutez le au dossier `/apps/` de votre clé USB.
+3. Lancez-le depuis la chaîne Homebrew.
 
-Ethernet should work now.
+Vous devriez pouvoir bénéficier de la connectivité Ethernet.
