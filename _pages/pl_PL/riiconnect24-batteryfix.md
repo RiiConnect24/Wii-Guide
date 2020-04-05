@@ -2,42 +2,37 @@
 title: "RiiConnect24 Battery Fix"
 ---
 
-{% include toc title="Zawartość" %}
+{% include toc title="Table of Contents" %}
+
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-Wygląda na to że ten poradnik nie działa na NEWS0000006. Niestety, jeżeli dalej otrzymujesz ten błąd, formatowanie twojego Wii może być jedyn opcją na naprawienie tego.
+This tutorial doesn't seem to fix error NEWS0000006. Unfortunately, if that error persists, reformatting your Wii might be the only option to fix it.
 {: .notice--warning}
 
-Jeżeli dostajesz błąd FORE000006, najczęściej oznacza to "Nieprawidłowe dane". Czasami może to być coś od nas. W takich przypadkach zaczekaj kilka minut i spróbuj ponownie później.
+If you're getting error FORE000006, usually it means "invalid data". It could be something on our end although unlikely. Try waiting a few minutes and then try again.
 
-Jeżeli dalej dostajesz ten błąd, może to oznaczać że kalendarz i czas na Twoim Wii może być nieprawidłowe. Te instrukcje mogą Ci pomóc.
+If the error code still remains, the time on your Wii might be incorrect, confusing the Channels. These instructions might be worth a shot.
 
-#### Czego będziesz potrzebował
+#### What you need
 
-* Śróbokręt "krzyżak"
+* Crosshead Phillips #00 screwdriver ![Crosshead Phillips #00 Screwdriver](/images/RiiConnect24/clock/screwdriver.jpg)
 
-![Crosshead Phillips #00 Screwdriver](/images/RiiConnect24/clock/screwdriver.jpg)
+#### Instructions
 
-#### Instrukcje
+1. Set your Wii to the correct time in Wii Settings.
+2. Unplug your Wii AC adapter. You'll need to open up a battery cover on the side of your Wii, so you might want to remove everything plugged into your Wii. ![Unplug Wii AC Adapter](/images/RiiConnect24/clock/unplug.jpg)
+3. Locate the battery cover on the bottom of your Wii. ![Battery Cover](/images/RiiConnect24/clock/batterycover.jpg)
+4. Unscrew the battery cover with your screwdriver. ![Battery Unscrew](http://i.imgur.com/VRRAiSk.gif)
+5. Let your Wii sit unplugged for a little while, with the battery out. It's up to you how long it should be out for. An hour or two might be enough to leave it out for. ![Battery](/images/RiiConnect24/clock/battery.jpg)
+6. Screw the battery cover back in. ![Battery Screw](http://i.imgur.com/8MEy5Jo.gif)
+7. Plug in your Wii AC adapter. ![Plug Wii AC Adapter](/images/RiiConnect24/clock/plug.jpg)
+8. Try the News or Forecast Channel now. Hopefully it works now. If not, you might want to repeat this process one more time and it might fix it.
 
-1. Ustaw poprawny czas/datę w ustawieniach Wii
-1. Odłącz zasilacz od Twojej Wii. Będziesz musiał odkręcić pokrywę na baterię na boku Twojej Wii, więc będziesz raczej chciał odłączyć wszystko od Twojej Wii.
-![Unplug Wii AC Adapter](/images/RiiConnect24/clock/unplug.jpg)
-1. Zlokalizuj pokrywę na baterię na spodzie Twojej Wii.
-![Battery Cover](/images/RiiConnect24/clock/batterycover.jpg)
-1. Odkręć pokrywę na baterię korzystając ze śróbokręta.
-![Battery Unscrew](http://i.imgur.com/VRRAiSk.gif)
-1. Zostaw Twoje Wii odłączone na chwile z wyciągniętą baterią. Od Ciebie zależy jak długo bateria będzie wyciągnięta. Godzina lub dwie powinny starczyć.
-![Battery](/images/RiiConnect24/clock/battery.jpg)
-1. Włóż baterię z powrotem i zakręć pokrywę.
-![Battery Screw](http://i.imgur.com/8MEy5Jo.gif)
-1. Podłącz zasilacz do Twojej Wii.
-![Plug Wii AC Adapter](/images/RiiConnect24/clock/plug.jpg)
-1. Sprawdź czy News/Forecast Channel działa. Jeżeli nie działa, spróbuj powtórzyć ten cały proces.
-
-Dalej nie działa? Niestety wygląda na to że będziesz musiał wykonać format konsoli aby ten błąd znikł. Upewnij się że zrobisz kopię zapasową twoich plików i Mii korzystając z [SaveGame Manager GX](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download).
+Still no luck getting it to work? Unfortunately, you might have to reformat your Wii for it to go away. Just make sure to backup your save files and Miis with [SaveGame Manager GX](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download).
 {: .notice--info}
 
-[Powróć do instalacji RiiConnect24](riiconnect24)
+[Return to RiiConnect24 installation page](riiconnect24)
 {: .notice--info}
