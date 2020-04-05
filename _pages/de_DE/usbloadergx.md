@@ -38,17 +38,17 @@ Stelle sicher, dass dein USB-Laufwerk als FAT32 oder NTFS formatiert ist. Format
 
 ##### Einstieg
 
-There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
+Es gibt keine "Anleitung" zur Verwendung der USB Loader GX App. Dies soll dir dabei helfen helfen zu lernen, wie du die USB Loader GX App benutzen sollst. Du solltest in der Lage sein, alle großartigen Funktionen von USB Loader GX selbst herauszufinden, indem du es benutzen.
 {: .notice--info}
 
-* If USB Loader GX says "Waiting for HDD..." with a 20 seconds countdown, it's likely that it can't find the USB Drive. Try to exit out of the app, and then relaunch it after you put the USB Drive in the other port of the Wii.
-* You can press the 1 Button on your Wii Remote to open up a dialog to download game covers and artwork from [GameTDB](https://gametdb.com/). It might take a while to download the game covers and artwork, depending on how many games you have.
-* There are WADs that can open up USB Loader GX if you load it from the Wii Menu. This is called a forwarder WAD.
-* GameCube or "custom" Wii games may or may not have a custom banner that USB Loader GX uses. To enable this, find or write `CustomBannersURL = http://banner.rc24.xyz/` in config/GXGlobal.cfg on your USB Drive. Then you can use the "Custom Banner" download by pressing the 1 Button on your Wii Remote.
+* Wenn USB-Lader GX "Waiting for HDD..." mit einem Countdown von 20 Sekunden sagt, ist es wahrscheinlich, dass er das USB-Laufwerk nicht finden kann. Versuche, die App zu beenden und sie dann erneut zu starten, nachdem du das USB-Laufwerk in den anderen Anschluss der Wii gesteckt hast.
+* Du kannst den 1-Knopf auf deiner Wii-Fernbedienung drücken, um einen Dialog zum Herunterladen von Spiel-Covern und artworks von [GameTDB](https://gametdb.com/) zu öffnen. Es kann eine Weile dauern, die Spiel-Cover und artworks herunterzuladen, je nachdem, wie viele Spiele du hast.
+* Es gibt WADs, die USB Loader GX öffnen können, wenn du ihn über das Wii-Menü lädst. Dies wird als forwarder WAD bezeichnet.
+* GameCube or "custom" Wii games may or may not have a custom banner that USB Loader GX uses. Um dies zu aktivieren, suche oder schreibe `CustomBannersURL = http://banner.rc24.xyz/` in config/GXGlobal.cfg auf deinem USB-Laufwerk. Then you can use the "Custom Banner" download by pressing the 1 Button on your Wii Remote.
 
 ##### Benutzeroberfläche
 
-There are multiple buttons in the USB Loader GX interface.
+Es gibt mehrere Tasten in der USB Loader GX Benutzeroberfläche.
 
 ###### Hauptmenü
 
