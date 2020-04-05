@@ -1,40 +1,54 @@
 ---
 layout: splash
-title: "Wii Guide" #
+title: "Wii Guide"
 header:
-  overlay_color: "#5e616c" #
+  overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
-  cta_label: "Commençons" #
-  cta_url: "fr_FR/get-started" #
+  cta_label: "Commencer"
+  cta_url: "Commencer"
   caption:
-excerpt: "Un guide pour vous permettre de commencer à modder votre Wii.<br />"
+excerpt: "Le guide complet pour modder votre Nintendo Wii."
 ---
 
-## C'est quoi un "homebrew" ?
+Le guide est aussi disponible en Espagnol, Anglais, Italien, portugais et en Polonais! Pour changer la langue, s’il vous plait veuillez appuyer sur le bouton en haut à droite et changer votre language.
+{: .notice--info}
 
-Un [**Homebrew**](https://en.wikipedia.org/wiki/List_of_homebrew_video_games) est un programme ou jeu qui n'est pas autorisé par Nintendo. Ils peuvent vous permettre de jouer à des jeux hombrews, éditer et sauvegarder vous jeux, et émuler des consoles plus vielles.
+## C’est quoi le guide Wii?
 
-Dans la plupart des cas, utiliser des homebrews est totalemnt gratuit avec l'exploit LetterBomb ou Wilbrand. Il y a aussi des exploits dans les jeux commerciaux pour lancer des homebrews.
+Le guide wii est un guide maintenue par [L’équipe RiiConnect24](https://rc24.xyz)pour commencer dans le modding de la wii.
 
-## Qu'est-ce que je peux faire avec les homebrews ?
+Il y a plusieurs resources pour les modes et le dépannage de la wii qui peuvent aider:
 
-Voici une liste de ce que vous pouvez faire avec. Notre guide est fait pour que vous puissiez démarrer rapideùent à modder votre Wii (et installer [RiiConnect24](riiconnect24) et [Wiimmfi](wiimmfi), mais nous avons aussi des liens qui sont dans la liste i-dessous qui peuvent vous aider.
+- [Guide complet pour le softmod](https://sites.google.com/site/completesg/)
+- [ModMii](http://modmii.000webhostapp.com/)
+- [WiiBrew](https://wiibrew.org/)
+- [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
+- [Wii Hacking expliqué - par Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...et aussi ce site
 
-+ Utilisez des applixations homebrews;
-+ Jouez en ligne même après la coupe de la CFN avec [Wiimmfi](https://wiimmfi.de) (Fonctionne aussi avec des jeux DS) !;
-+ Utilisez à nouveau Wii Mail, avec aussi la Chaîne Météo, Infos et la Chaîne Votes, même après l'arêt de WiiConnect24 avec [RiiConnect24](https://rc24.xyz) !;
-+ Jouez à vos jeux Wii depuis une Clé USB avec un USB Loader;
-+ Jouez à des mods (versions modifiées) de jeux comme New Super Mario Bros. Wii ou Mario Kart Wii;
-+ Utilisez des cheats codes dans vos jeux;
-+ Changez le thème de votre Menu Wii;
-+ Jouez à des jeux rétros avec des émulateurs spécialements conçus pour la Wii - En voici trois bons : [FCE Ultra GX pour les jeux NES](https://github.com/dborth/fceugx/releases), [Snes9xGX pour les jeux SNES](https://github.com/dborth/snes9xgx/releases), and [VBA GX pour les jeux Game Boy (Color/Advance)](https://github.com/dborth/vbagx/releases);
-+ Savegardez vos Miis et vos sauvegardes avec [SaveGame Manager GX](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download), et restorez les sauvegardes de Miis d'autres gens;
-+ Jouez à des jeux GameCube depuis une clé USB ou une carte SD avec [Nintendont](https://gbatemp.net/threads/nintendont.349258/).
-+ Faites des sauvegardes de vos jeux avec [CleanRip](http://wiibrew.org/wiki/CleanRip).
-+ Sauvegardez et restorez votre mémoire Wii (NAND) avec [BootMii](http://bootmii.org);
-+ Protégez votre Wii contre les bricks avec [Priiloader](https://wii.guide/priiloader); [(Download)](/assets/files/Priiloader_v0_8_2.zip)
-+ Ecoutez de la musique, regardez des films ou des photos avec [WiiMC](http://www.wiimc.org/), et regardez des vidéos YouTube avec [une version spéciale](/assets/files/WiiMC.1.3.4.YT.zip);
-+ Lancez vos homebrews favoris depuis votre Menu Wii avec un "forwarder";
-+ Participezà nouveau à des compétitions Mario Kart Wii avec les [Copétitions Wiimmfi](https://competitions.wiimmfi.de)
-+ Et pleins d'autres qui ne peuvent êtres listés!
+Pour modder une Wii U, il existe plusieurs options:
+- [Le guide pour le hacking de la vWii définitive](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
+- [NH Wii U Guide](https://wiiuguide.xyz)
+
+## C’est quoi « homebrew »?
+
+[**Homebrew**](https://en.wikipedia.org/wiki/List_of_homebrew_video_games) est le fait d’installer des logiciels non officiel incluant jeu, outils, émulateurs etc.
+
+Lancer des homebrew sur votre Nintendo Wii est gratuit en utilisent, les failles, str2hax, LetterBomb et FlashHax. Il existe aussi des failles dans des jeux commerciaux pour lancer des applications homebrew.
+
+## Qu’est-ce que nous pouvons faire avec homebrew ?
+
+Voici une liste de chose que vous pouvez faire avec. Alors que c'est pas tout ce que vous pouvez faire avec homebrew, sa vous donne un point de démarrage pour les choses que vous pouvez faire. Notre guide est seulement fait pour que vous démarrer facilement, mais on a des liens associés avec les choses de la liste pour vous aidez à démarrer.
+
+- Lancer des applications homebrew comme [des lecteurs médias](http://www.wiimc.org/), [copieurs de disques](/dump-games), [gestionnaires de sauvegardes](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download), et plus.
+- Patch game disk contents (allowing you to load game modifications) using [Riivolution](http://www.wiibrew.org/wiki/Riivolution)
+- Personnaliser votre menu de Wii en utilisant [MyMenuify](/themes).
+- Installez un [menu tout-en-un](https://gbatemp.net/threads/wiiflow-lite.422685/) pour lancez tous vous jeux favoris.
+- Restore discontinued online services, such as [WiiConnect24](/riiconnect24) & [Nintendo WFC services](wiimmfi).
+- Backup and restore copies of your Wii system memory (NAND) using [BootMii](http://bootmii.org).
+- Protect your Wii from bricks using [Priiloader](https://wii.guide/priiloader)
+- Install applications to your System Menu
+   - Homebrew applications could use forwarders to launch the .elf file on the SD card.
+
+Get started by [choosing your exploit](get-started)!
+{: .notice--info}
