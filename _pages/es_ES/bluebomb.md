@@ -75,7 +75,7 @@ This version of cIOS is only for the Wii Mini. If you're on a Wii, please follow
    - If it fails with a weird "TMD version mismatch" error, that isn't a problem. Just try again, but this time, while selecting the cIOS base, press left/right on the Wiimote until the 5-digit number from earlier is different than when you tried before. This time, it should work - one of the two version numbers should work.
 9. After successfully installing the cIOS press B to exit.
 
-Now you have cIOS installed.
+Ahora tienes cIOS instalado.
 
 ##### Sección 3 - Habilitando el Ethernet
 
