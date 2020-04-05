@@ -28,8 +28,8 @@ Ten exploit nie zadziała na Wii U (vWIi). Zamiast tego, skorzystaj z [tego pora
     - Zalecamy wersję LTS z powodu jej stabilności. Najnowsze wersje również będą działać.
 - Dysk USB / Pendrive
 
-#### Instructions
-##### Section I - Performing the exploit
+#### Instrukcje
+##### Sekcja I - Wykonywanie exploitu
 1. Otwórz Linux'owy Terminal.
 2. Wyłącz serwis Bluetooth wpisując; `sudo systemctl disable --now bluetooth` oraz potwierdzając ENTER'em
 3. Stwórz nowy folder dla Bluebomb; `mkdir bluebomb`
