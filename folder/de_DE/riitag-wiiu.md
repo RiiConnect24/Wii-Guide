@@ -20,7 +20,7 @@ RiiTag ist ein anpassbarer und dynamischer Gamertag. Durch Teilen deines Gamerta
 
 #### Anleitung
 
-##### Section I - Website instructions
+##### Abschnitt 1 - Webseiten-Anleitung
 
 1. Gehe auf die [RiiTag-Webseite](https://tag.rc24.xyz/).
 2. Gehe auf `Log In` und melde dich mit deinem Discord-Konto an.
@@ -32,15 +32,15 @@ RiiTag ist ein anpassbarer und dynamischer Gamertag. Durch Teilen deines Gamerta
 Teile deinen RiiTag-Schlüssel mit niemandem! Falls du das tust, können andere deinen Tag missbrauchen.
 {: .notice--warning}
 
-##### Section II - Setting things up on the SD card
+##### Abschnitt 2 - Die Sachen auf der SD-Karte einrichten
 
-1. Extract the Wii U Plugin Loader `.zip` file to the root of your SD card
-   - You should see a folder titled `wiiupluginloader` in `/wiiu/apps/` on your SD.
-2. Place the `UTag.mod` file in the `/wiiu/plugins/` folder on your SD card.
-3. Create a new file titled `utag.txt` on the root of your SD card, and open it with a text editor.
-4. Paste the key you made note of earlier in Step 5 of [Section I - Getting Started](#section-i---getting-started) into this `utag.txt` file, and save it.
-   - We're all done with the SD card side of things.
-5. Insert your SD card into your Wii U.
+1. Entpacke die Wii U Plugin Loader `.zip`-Datei in das oberste Verzeichnis deiner SD-Karte
+   - Du solltest nun einen Ordner mit der Bezeichung `wiiupluginloader` im Verzeichnis `/wiiu/apps/` auf deiner SD-Karte sehen.
+2. Verschiebe die `UTag.mod`-Datei in das `/wiiu/plugins/`-Verzeichnis auf deiner SD-Karte.
+3. Erstelle eine Datei namens `utag.txt` im obersten Verzeichnis deiner SD-Karte und öffne sie mit einem Texteditor.
+4. Füge den Schlüssel in diese `utag.txt`-Datei ein, den du dir in Schritt 5 von [Abschnitt 1 - Webseiten-Anleitung](#section-i---website-instructions) notiert hast, und speichere sie ab.
+   - Wir sind fertig mit allem, was die SD-Karte betrifft.
+5. Verbinde deine SD-Karte mit deiner Wii U.
 
 ##### Abschnitt 3 - Ausführen des Plugins
 
