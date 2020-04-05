@@ -1,12 +1,15 @@
 ---
-title: "Risoluzione errori di RiiConnect24"
+title: "RiiConnect24 Troubleshooting"
 ---
 
-{% include toc title="Indice" %}
+{% include toc title="Table of Contents" %}
+
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-Se ricevi uno di questi errori (e non altri), dovresti essere in grado di risolverli cancellando il VFF.
+If you're getting one of these errors (and not any other error), you should be able to fix the Channel by deleting your VFF.
 
 + Discontinued Message
 + NEWS/FORE000001
@@ -14,11 +17,11 @@ Se ricevi uno di questi errori (e non altri), dovresti essere in grado di risolv
 + NEWS/FORE000005
 + NEWS/FORE000099
 
-#### Ciò di cui hai bisogno
-
+#### What you need
+* An SD card or USB drive
 * [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
 
-#### Cartelle da cancellare
+#### Folder to Delete
 
 + Forecast Channel
   + 48414645
@@ -30,14 +33,15 @@ Se ricevi uno di questi errori (e non altri), dovresti essere in grado di risolv
   + 4841474a
   + 48414750
 
-#### Istruzioni
+#### Instructions
 
-1. Lancia WiiXplorer.
-1. Vai su `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` e seleziona `Yes` per entrambi i dialoghi che appariranno sullo schermo.
-1. Premi Back finchè non hai raggiunto la schermata del file explorer.
-1. Seleziona la piccola icona blu della SD, e dopo clicca su `NAND`.
-1. Naviga in `title` -> `00010002` -> XXXXXXXX -> `data`, dove XXXXXXXX è una delle cartelle scritte sopra.
-1. Muoviti col puntatore sopra `wc24dl.vff` e premi il bottone + e seleziona `Delete`.
-1. Prova a lanciare il canale con cui avevi problemi. Dovrebbe funzionare bene ora. Altrimenti, entra nel nostro server Discord e proveremo ad aiutarti.
+1. Launch WiiXplorer.
+2. Go to `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` and then select `Yes` for both dialogs that appear on the screen.
+3. Press Back until you have reached the file explorer screen.
+4. Select the tiny blue SD Card icon, then select `NAND`.
+5. Navigate to `title` -> `00010002` -> XXXXXXXX -> `data`, where XXXXXXXX is one of the folders above.
+6. Hover over `wc24dl.vff` and press the + button and select `Delete`.
 
-[Ritorna alla pagina installazione di RiiConnect24](riiconnect24)
+Try to launch the Channel you were having trouble with now.
+
+[Return to RiiConnect24 installation page](riiconnect24)
