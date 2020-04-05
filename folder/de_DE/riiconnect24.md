@@ -100,11 +100,11 @@ Falls du Fehler 107245 erhälst, hast du wahrscheinlich deine IOS nicht richtig 
 Falls du Fehler 107304 erhälst, blockiert wahrscheinlich dein Internetanbieter die Nutzung alternativer DNS-Server. Eine Möglichkeit, dies zu umgehen, ist es deinen eigenen DNS-Server zu betreiben! Siehe [RiiConnect24 DNS Server auf GitHub](https://github.com/RiiConnect24/DNS-Server) und nutze dann die IP-Adresse deines PC an Stelle von unserer in Schritt 8.
 {: .notice--info}
 
-[Falls du den Fehler FORE000006 erhälst, kannst du zur Lösung dieses Tutorial befolgen. (This doesn't work with NEWS000006).](riiconnect24-batteryfix)
+[Falls du den Fehler FORE000006 erhälst, kannst du zur Lösung dieses Tutorial befolgen. (Dies funktioniert nicht mit NEWS0000006).](riiconnect24-batteryfix)
 {: .notice--warning}
 
-[If you're getting errors such as a `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, please go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
+[Wenn du Fehler bekommst, wie bspw. `WiiConnect24 sowie der Wii-Shop-Kanal stehen zur Zeit nicht zur Verfügung.`, gehe bitte in wie Wii-Systemeinstellungen -> Letzte Seite -> Land und ändere es zu Deutschland. Du erhälst diesen Fehler, wenn du ein Land eingestellt hast, dass wir nicht unterstützen. Kontaktiere uns unter [support@riiconnect24.net](mailto:support@riiconnect24.net), falls du mehr Hilfe benötigst.
 {: .notice--warning}
 
-[If you're getting errors such as a discontinued message when opening the News or Forecast Channel, we have some instructions that might fix it.](riiconnect24-troubleshooting)
+[Falls du beim Öffnen des Nachrichtenkanals oder Wetterkanals Fehler bekommst, wie bspw. eine Nachricht über die Einstellung der Kanäle, haben wir eine Anleitung, die das beheben kann.](riiconnect24-troubleshooting)
 {: .notice--warning}
