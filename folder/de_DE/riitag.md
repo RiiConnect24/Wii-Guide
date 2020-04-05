@@ -52,24 +52,24 @@ Die Schritte zur Verbindung von RiiTag mit deinem USB-Loader hängen von deinem 
 3. Suche nach `gamercards` und ersetze die Zeile mit `gamercards=wiinnertag`.
 4. Suche nach `wiinnertag_url` und ersetze die Zeile mit `wiinnertag_url=http://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
 5. Suche nach `wiinnertag_key` und ersetze die Zeile mit `wiinnertag_key=<key>`, wobei du `<key>` mit dem Schlüssel ersetzt, den du dir in Abschnitt 1 notiert hast.
-6. Search for `gamercards_enable` and replace that line with `gamercards_enable=yes`.
-7. Save the modified `wiiflow.ini` file.
-8. You have now set up RiiTag. You can try loading any game now to see if it works correctly.
+6. Suche nach `gamercards_enable` und ersetze die Zeile mit `gamercards_enable=yes`.
+7. Speichere die bearbeitete `wiiflow.ini`-Datei.
+8. Du hast jetzt RiiTag eingerichtet. Du kannst jetzt ein beliebiges Spiel starten, um zu sehen, dass es korrekt funktioniert.
 
 ###### Configurable USB Loader
 
-We do not offer support for Configurable USB Loader, as we are focused on USB Loader GX and WiiFlow.
+Wir bieten keine Unterstützung für den Configurable USB Loader, da wir uns auf USB Loader GX und WiiFlow konzentrieren.
 {: .notice--info}
 
-You can use the `CfgLoaderConfigurator.exe` program (Windows only) instead of editing the `config.txt` file mentioned below if you want to.
+Wenn du willst, kannst du das `CfgLoaderConfigurator.exe`-Programm (nur für Windows) verwenden, anstelle die `config.txt`-Datei wie unten erklärt zu bearbeiten.
 {: .notice--info}
 
-1. Take the SD Card or USB device where your Configurable USB Loader data is into your computer.
-2. Open `/usb-loader/config.txt` with a text editor.
-3. Replace (or add the line) starting with `gamercard_url` with `gamercard_url = http://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
-4. Replace (or add the line) startin with `gamercard_key` with `gamercard_key = <key>`, replacing `<key>` with the key you wrote down in Section 1.
-5. Save the modified `config.txt` file.
-6. You have now set up RiiTag. You can try loading any game now to see if it works correctly.
+1. Verbinde die SD-Karte bzw. das USB-Laufwerk mit deinen Configurable USB Loader-Daten mit deinem Computer.
+2. Öffne `/usb-loader/config.txt` mit einem Texteditor.
+3. Ersetze die Zeile (oder füge sie hinzu), die mit `gamercard_url` beginnt, mit `gamercard_url = http://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
+4. Ersetze die Zeile (oder füge sie hinzu), die mit `gamercard_key` beginnt, mit `gamercard_key = <key>`, wobei du `<key>` mit dem Schlüssel ersetzt, den du dir in Abschnitt 1 notiert hast.
+5. Speichere die bearbeitete `config.txt`-Datei.
+6. Du hast jetzt RiiTag eingerichtet. Du kannst jetzt ein beliebiges Spiel starten, um zu sehen, dass es korrekt funktioniert.
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continue to site navigation](site-navigation)<br> Wir haben viele weitere Anleitungen, die dir gefallen könnten.
 {: .notice--info}
