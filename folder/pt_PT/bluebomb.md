@@ -67,12 +67,12 @@ Esta versão do cIOS é só para a Wii Mini. Se estás numa Wii, por favor segue
 2. Abre o arquivo e arrasta e larga a única pasta para a pasta `/apps/` no teu Drive USB
 3. Abre o Homebrew Channel na tua Wii Mini
 4. Abre o d2x cIOS installer
-5. For `Select cIOS`, change the value to `d2xl-v1-beta2`
-6. For `Select cIOS base`, change the value to `57`
-7. For `Select cIOS slot` and change the value to `249`
-   - Under "NOTES" there will be a section "Offline installation". Take a note of the exact version number (5 digits directly before the `.wad` extension).
-8. Press A to start the installation.
-   - If it fails with a weird "TMD version mismatch" error, that isn't a problem. Just try again, but this time, while selecting the cIOS base, press left/right on the Wiimote until the 5-digit number from earlier is different than when you tried before. This time, it should work - one of the two version numbers should work.
+5. Para `Select cIOS`, muda o valor para `d2xl-v1-beta2`
+6. Para `Select cIOS base`, muda o valor para `57`
+7. Para `Select cIOS slot` e muda o valor para `249`
+   - Debaixo de "NOTES" estará uma secção "Offline installation". Anota o número exato da versão (5 digitos diretamente antes da extensão `.wad`).
+8. Clica A para começar a instalação.
+   - Se falhar com um estranho erro "TMD version mismatch", isso não é o problema. Just try again, but this time, while selecting the cIOS base, press left/right on the Wiimote until the 5-digit number from earlier is different than when you tried before. This time, it should work - one of the two version numbers should work.
 9. After successfully installing the cIOS press B to exit.
 
 Now you have cIOS installed.
