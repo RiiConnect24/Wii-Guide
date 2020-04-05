@@ -4,7 +4,7 @@ title: "cIOS"
 
 {% include toc title="Sumário" %}
 
-This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
+Este tutorial irá lhe ensinar a como instalar cIOS (IOS customizada). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
