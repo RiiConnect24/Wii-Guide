@@ -14,14 +14,14 @@ Bluebomb é uma vulnerabilidade destinada para a modificação do Wii Mini que t
 Para a Wii original, nós recomendamos utilizar [outra vulnerabilidade](/get-started) se pretenderes instalar o Homebrew Channel
 {: .notice--info}
 
-Se instalares no Wii Mini; BootMii ainda não pode ser instalado no Wii Mini. Por favor, não arrisques em instalá-lo. Nós não responsabilizamos se o teu dispositivo brickar.
+Se instalares no Wii Mini; BootMii ainda não pode ser instalado no Wii Mini. Por favor, não arrisques em instalá-lo. Nós não responsabilizamos se o teu dispositivo ficar inoperável.
 {: .notice--warning}
-This exploit will not work on a Wii U (vWii). Please follow [this guide instead](https://wiiuguide.xyz/#/vwii/).
+Esta vulnerabilidade não resultará na Wii U (vWii). Por favor segue [este guia](https://wiiuguide.xyz/#/vwii/).
 {: .notice--warning}
 
-#### What you need
-- A Linux machine with a Bluetooth adapter (an integrated one will work)
-  - If you are using a Chromebook, you do not need to install another Operating System. You can enable [Linux in ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en)
+#### O que precisas
+- Uma máquina Linux com adaptador Bluetooth (um integrado irá resultar)
+  - Se estás a usar um Chromebook, não precisas de instalar outro Sistema Operacional. You can enable [Linux in ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en)
   - Using Windows Subsystem for Linux will not work, due to the inability to access `bluetoothctl`.
   - If you do not have Linux, Ubuntu is the most user-friendly option
     - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/)
