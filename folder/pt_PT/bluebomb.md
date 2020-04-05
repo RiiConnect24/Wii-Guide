@@ -72,7 +72,7 @@ Esta versão do cIOS é só para a Wii Mini. Se estás numa Wii, por favor segue
 7. Para `Select cIOS slot` e muda o valor para `249`
    - Debaixo de "NOTES" estará uma secção "Offline installation". Anota o número exato da versão (5 digitos diretamente antes da extensão `.wad`).
 8. Clica A para começar a instalação.
-   - Se falhar com um estranho erro "TMD version mismatch", isso não é o problema. Just try again, but this time, while selecting the cIOS base, press left/right on the Wiimote until the 5-digit number from earlier is different than when you tried before. This time, it should work - one of the two version numbers should work.
+   - Se falhar com um estranho erro "TMD version mismatch", isso não é o problema. Só tenta outra vez, mas desta vez, enquanto selecionas a base cIOS, clica esquerda/direita no comando Wii até que número de 5 dígitos anterior seja diferente do que tentaste anteriormente. This time, it should work - one of the two version numbers should work.
 9. After successfully installing the cIOS press B to exit.
 
 Now you have cIOS installed.
