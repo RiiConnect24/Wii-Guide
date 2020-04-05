@@ -19,8 +19,8 @@ Se estiver instalando no Wii Mini; O BootMii ainda não pode ser instalado no Wi
 Esse exploit não funcionará no Wii U (vWii). Por favor siga [esse guia](https://wiiuguide.xyz/#/vwii/).
 {: .notice--warning}
 
-#### What you need
-- A Linux machine with a Bluetooth adapter (an integrated one will work)
+#### Você precisará de
+- Um computador Linux com um adaptador Bluetooth (um integrado funcionará)
   - Se estiver usando um Chromebook, não é preciso instalar outro sistema operacional. Você pode habilitar [Linux no ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en)
   - Usar um subsistema Windows para Linux não funcionará, devido à incapacidade de acessar `bluetoothctl`.
   - Caso não tenha Linux, o Ubuntu é a opção mais amigável
@@ -28,8 +28,8 @@ Esse exploit não funcionará no Wii U (vWii). Por favor siga [esse guia](https:
     - Recomendamos a edição LTS devido à sua estabilidade, mas a versão atual também funciona.
 - Pendrive
 
-#### Instructions
-##### Section I - Performing the exploit
+#### Instruções
+##### Parte I - Executando o exploit
 1. Abra o Terminal Linux.
 2. Desative o serviço bluetooth; `sudo systemctl disable --now bluetooth`
 3. Crie uma nova pasta para o Bluebomb; `mkdir bluebomb`
@@ -41,8 +41,8 @@ Esse exploit não funcionará no Wii U (vWii). Por favor siga [esse guia](https:
 9. Extraia o conteúdo da pasta `hackmii_installer_v1.2` para o USB
 10. Ejete o USB
    - Se você estiver no Wii normal com dois slots USB, conecte-o ao superior
-11. Turn the Wii on and do not pair a Wiimote. You can leave it on the Wii Heath and Safety Screen or System Menu
-12. In the terminal, type these commands to specific Wii Regions: `sudo ./bluebomb [a] ./stage0/MINI_SM_[b].bin stage1.bin`
+11. Ligue o Wii e não conecte um Wiimote. Você pode deixá-lo na tela Health and Safety do Wii ou no Menu do Sistema
+12. No terminal, digite esses comandos para especificar as regiões do Wii: `sudo ./bluebomb [a] ./stage0/MINI_SM_[b].bin stage1.bin`
   - If you are using an external USB Bluetooth Adapter (if the PC had Bluetooth built-in and you wish to use an external adapter instead), replace [a] with 1
     - Otherwise, leave it blank
   - If you use a PAL region, replace [b] with `PAL`. Likewise, if you use an NTSC console, replace [b] with `NTSC`
