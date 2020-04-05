@@ -4,7 +4,7 @@ title: "Wiimmfi"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD)(empfohlen) bei, oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
@@ -33,7 +33,7 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
 
 #### Was du benötigst
-* A Wii with an Internet connection
+* Eine Wii mit Internetverbindung
 
 #### Anleitung
 
@@ -68,7 +68,7 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 
 #### Was du benötigst
 
-- An SD card
+- Eine SD-Karte
 - Your copy of your game (in WAD format)
 - [Auto WiiWare Patcher](https://github.com/RiiConnect24/auto-wiiware-patcher/releases)
 - [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
@@ -88,15 +88,15 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
 #### Was du benötigst
 
-- An SD card or USB drive
+- Eine SD-Karte bzw. ein USB-Laufwerk
 - Mario Kart Wii Competition Patcher
    - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
    - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
 #### Instructions (for Wii)
 
-1. Extract Mario Kart Wii Competition Patcher and put it in the `apps` folder on your SD Card.
-2. Insert your SD card or USB drive into the Wii.
+1. Entpacke den Mario Kart Wii Competition Patcher und verschiebe ihn in den `apps`-Ordner auf deiner SD-Karte.
+2. Verbinde deine SD-Karte bzw. dein USB-Laufwerk mit der Wii.
 3. Launch the original Mario Kart Wii game (not Wiimmfi patched).
 4. Navigate to Settings -> Network Settings (or Nintendo WFC Connection) -> Message Service. If you turned the message service feature on, turn it off and turn it on again.
 5. Launch Mario Kart Wii Competition Patcher.
