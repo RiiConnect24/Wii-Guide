@@ -17,11 +17,11 @@ Um dos recursos mais importantes do BootMii é a capacidade de fazer backup e re
 #### Instruções
 1. Inicie o Homebrew Channel.
 2. Aperte o botão HOME e selecione "Launch BootMii".
-   - Não é possível navegar no BootMii usando um controle do Wii. You'd have to either use the buttons on your Wii console or a GameCube controller plugged into port 1. To navigate between options, press POWER on your Wii (or the right +Control Pad button on a GameCube controller). Keep in mind that when using the wii buttons, you can only navigate right but when attempting to go past the last entry, it'll warp you to the first one. This is not a limitation on GameCube Controllers; You can navigate left and right. To select an option, hit RESET on your Wii or A on your GameCube controller.
-3. Press the Options button (the one with the gears).
-4. Press the BackupMii button (the one with the green arrow).
-- A NAND backup will start. You can watch the progress on the screen.
-- Do not Power Off your Nintendo Wii when backing up your Wii.
+   - Não é possível navegar no BootMii usando um controle do Wii. Você terá que usar os botões do console ou um controle GameCube conectado à porta 1. Para navegar entre as opções, aperte POWER no seu Wii (ou o botão direito do D-Pad em um controle do GameCube). Tenha em mente que, ao usar os botões do Wii, você pode apenas navegar para a direita, mas ao passar pela última opção, ela será redirecionada para a primeira. Isso não é uma limitação nos controles do Gamecube; Você pode navegar para a esquerda e direita. Para selecionar uma opção, aperte RESET no seu Wii ou A no controle do GameCube.
+3. Selecione o botão de configuração (aquele com as engrenagens).
+4. Selecione o botão de backup do BootMii (aquele com a seta verde).
+- Um backup da NAND será iniciado. Você pode acompanhar o progresso na tela.
+- Não desligue o console ao fazer um backup do seu Wii.
 - "Bad Blocks" are normal. Don't worry when you see one on a NAND backup
 - After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii Console.
 5. When the backup is fully complete, exit the NAND backup screen by pressing any button.
