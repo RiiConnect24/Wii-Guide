@@ -53,7 +53,7 @@ Make sure that the console is close to the computer running the exploit, Ideally
 
 1. Turn on your console and **do not** connect any Wiimotes
 1. Press the Sync button repeatedly until the terminal shows `got connection handle`
-The console should now boot to the HackMii installer (If you are using a Wii mini do **not** install BootMii).
+The console should now boot to the HackMii installer.
 
 [Continue to Homebrew Channel and BootMii Installation](hbc)
 {: .notice--info}
