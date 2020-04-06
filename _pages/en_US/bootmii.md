@@ -9,6 +9,9 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 ![BootMii Logo](/images/bootmii.png)
 
+Do **NOT** install BootMii on a Wii mini. You will brick your console by doing so.
+{: .notice--warning}
+
 One of BootMii's most important features is the ability to backup and restore your Wii's NAND storage. We will be going over how to perform a NAND backup. You can then restore from that backup for whatever reason. We recommend making a NAND backup regularly or before you do something risky to your console (and if you know what you're doing, you won't have to do anything risky).
 
 #### Requirements
