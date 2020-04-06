@@ -18,7 +18,7 @@ Będziesz potrzebował karty SD z przynajmniej 128MB miejsca aby wykonać exploi
 
 Aby przechowywać aplikacje homebrew, zalecamy minimum 2GB miejsca na Twojej karcie SD.
 
-### I got error XXXXXX in Wiimmfi, how to fix it?
+### Otrzymałem błąd XXXXXX na Wiimmfi, jak go mogę naprawić?
 Aby sprawdzić co dany kod błędu oznacza, odwiedź [stronę z kodami błędów Wiimmfi](https://wiimmfi.de/error).
 
 ### Jakie są limity modowania vWii? (Tryb Wii na Wii U)
