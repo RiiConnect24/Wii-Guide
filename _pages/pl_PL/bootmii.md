@@ -15,6 +15,8 @@ Jedną z najważniejszych funkcji BootMii jest możliwość wykonania kopii zapa
 * Karta pamięci SD z przynajmniej 512MB wolnej przestrzeni.
 
 #### Instrukcje
+If you installed BootMii as Boot2 in the last step, you will need to launch BootMii by restarting the console. Skip steps 1-2 if this is the case.
+{: .notice--info}
 1. Uruchom Homebrew Channel.
 2. Naciśnij przycisk HOME oraz wybierz "Launch BootMii".
    - Nawigowanie interfejsu BootMii nie jest możliwe korzystając z kontrolera Wii Remote. Musisz korzystać z przycisków na Twoim Wii lub z kontrolera GameCube podłączonego do portu pierwszego. Aby nawigować pomiędzy opcjami, naciśnij przycisk POWER na Twoim Wii (lub prawo na kontrolerze GameCube). Pamiętaj, że podczas korzystania z przycisków na Wii, możesz nawigować tylko w prawo. Gdy na ostatniej opcji naciśniesz przycisk POWER, powrócisz do pierwszej opcji. Nie jest to limitacją na kontrolerze GameCube - możesz nawigować w lewo i w prawo. Aby wybrać opcję, naciśnij przycisk RESET na Twoim Wii lub przycisk A na kontrolerze GameCube.
@@ -27,8 +29,8 @@ Jedną z najważniejszych funkcji BootMii jest możliwość wykonania kopii zapa
 5. Po zakończeniu wykonywania kopii zapasowej, wyjdź z ekranu kopii zapasowej NAND poprzez naciśnięcie dowolnego przycisku.
 6. Aby wyjść z BootMii, wybierz ikonę cofania się (ze strzałką) oraz wybierz opcję Wii Menu lub Homebrew Channel aby wrócić tam gdzie chcesz.
 
-Aby przywrócić kopię zapasową z Twojej karty pamięci SD, podążaj za instrukcjami, które są podane w RestoreMii (ikona przy BackupMii z czerwoną strzałką).
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
 {: .notice--info}
 
-[Kontynuuj do instalacji Priiloader'a](priiloader)<br>. Priiloader jest jednym z zabezpieczeń przed brickiem, zalecamy instalację tego programu, szczególnie jeśli zainstalowałes BootMii tylko jako IOS.
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it, especially if you only installed BootMii as an IOS.
 {: .notice--info}
