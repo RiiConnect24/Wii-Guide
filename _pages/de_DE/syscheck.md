@@ -7,7 +7,7 @@ title: "SysCheck"
 Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD)(empfohlen) bei, oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-A SysCheck lists all the IOS and cIOS that are on your Wii, along with some information about each of them. It also gives you some other useful information. When you have IOS-related problems on your Wii, someone might ask you to do a SysCheck.
+Ein SysCheck listet alle IOSe und cIOSe auf die sich auf deiner Wii befinden mit Informationen zu ihnen. Es gibt dir auch weitere nützliche Informationen. Wenn du IOS verbundene Probleme auf deiner Wii hast, dann könnte dich jemand nach einem SysCheck fragen.
 
 #### Voraussetzungen
 
@@ -20,10 +20,10 @@ A SysCheck lists all the IOS and cIOS that are on your Wii, along with some info
 1. Entpacke SysCheck HacksDen Edition und verschiebe es in den `apps`-Ordner auf deiner SD-Karte bzw. deinem USB-Laufwerk.
 2. Verbinde deine SD-Karte oder dein USB-Laufwerk mit deiner Wii und starte SysCheck HacksDen Edition über den Homebrew-Kanal.
 
-##### Section II - Performing a SysCheck
+##### Abschnitt 2 - Einen SysCheck ausführen
 
-1. Wait for the program to get some information about your Wii.
-2. When "This IOS will be tested (Please select)" is shown on the screen, press A. ![Choose IOS](/images/SysCheck/1.png)
-3. Wait for the program to get information about your IOS.
-4. After it finishes, press the `A` Button if you want to view the log. ![Completed](/images/SysCheck/2.png)
-5. If you want to share the SysCheck, you can share the `sysCheck.csv` saved to the root of your SD Card. The `IOSsysCheck.log` file (saved to the root as well) contains additional information about IOS.
+1. Warte bis das Programm Informationen über deine Wii bekommt.
+2. Wenn "Dieses IOS wird getestet (Bitte auswählen)" auf dem Bildschirm erscheint dann Drücke A. ![Choose IOS](/images/SysCheck/1.png)
+3. Warte bis das Programm Informationen über dein IOS bekommt.
+4. Wenn es sich beendet dann drücke den `A` Knopf wenn du den Log sehen willst. ![Completed](/images/SysCheck/2.png)
+5. Wenn du den SysCheck teilen möchtest dann kannst du die `sysCheck.csv` Datei auf dem Anfang deiner SD-Karte teilen. Die `IOSsysCheck.log` Datei (auch auf dem Anfang der SD-Karte) beinhaltet weitere Informationen über IOS.
