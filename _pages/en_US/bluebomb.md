@@ -40,9 +40,11 @@ This exploit will not work on a Wii U's vWii. Please follow [this guide instead]
 ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 
 1. Start the Linux Operating System. If you do not have it installed on your computer, you can temporarily install and boot it from a flash drive (not the one used for the HackMii installer) You can follow [this guide](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) to create the bootable USB drive. Note that it will not make any permanent changes to your computer unless you select the installation option. As an ISO, provide  the ISO linked in Section I that fits your configuration.
-1. Open the Linux Terminal by pressing `Ctrl + Shift + T` or by opening it from the app menu and run these commands
+1. Open the Linux Terminal by pressing `Ctrl + Shift + T` or by opening it from the app menu and run these commands:
 ```
-wget https://github.com/RiiConnect24/Wii-Guide/tree/master/assets/files/bluebomb-helper.sh
+wget https://github.com/RiiConnect24/Wii-Guide/tree/master/assets/files/bluebomb-helper.zip
+unzip bluebomb-helper.zip
+rm bluebomb-helper.zip
 chmod a+x bluebomb-helper.sh
 ./bluebomb-helper.sh
 ```
