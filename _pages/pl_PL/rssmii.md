@@ -1,5 +1,5 @@
 ---
-title: "Installing RSSMii"
+title: "Instalowanie RSSMii"
 ---
 
 {% include toc title="Zawartość" %}
@@ -51,14 +51,14 @@ Zapisz feed, który zrobiłeś na głównym folderze w Twojej karcie SD.
 4. Naciśnij A aby potwierdzić, że chcesz zasubskrybować feedy. Zignoruj błąd o ES_GetTitleID, wszystko jest OK.
 5. Kiedy wszystko zostanie zakończone, naciśnij przycisk HOME aby powrócić do Homebrew Channel. Wkrótce, powinieneś otrzymać wiadomości z Twoich subskrypcji RSS. Miłego czytania!
 
-Not getting any feed updates? Try an RSS feed that updates more frequently, like a feed with news for example. If the RSS feed doesn't update often, then you won't get many updates.
+Nie otrzymujesz żadnych aktualizacji z feedów? Spróbuj skorzystać z feedu, który aktualizuje się częściej (na przykład: feed z wiadomościami). Jeżeli RSS feed nie aktualizuje się często, nie otrzymasz wiele wiadomości na Wii Message Board.
 {: .notice--warning}
 
-We recommend you use just a few feeds, because if you subscribe to a lot of feeds you can get a ton of mail on your Wii.
+Zalecamy jednak tylko zasubskrybowanie kilku feedów, poniważ jeżeli zasubskrybujesz wiele feedów, możesz otrzymać bardzo dużo wiadomości na Twoim Wii Message Board.
 {: .notice--info}
 
-If you're not receiving updates after a few days, you might need to subscribe to the RSS feeds again. Launch RSSMii from the Homebrew Channel again and it'll create brand new subscriptions.
+Jeżeli po kilku dniach nie otrzymujesz żadnych aktualizacji, być może musisz zasubskrybować jeszcze raz. W takim razie, uruchom RSSMii korzystając z Homebrew Channel a RSSMii zasubskrybuje dla Ciebie jeszcze raz.
 {: .notice--info}
 
-[Removing RSSMii](rssmii-remove)
+[Usuwanie RSSMii](rssmii-remove)
 {: .notice--info}
