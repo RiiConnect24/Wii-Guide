@@ -7,10 +7,10 @@ title: "str2hax"
 Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD)(empfohlen) bei, oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Note that if your ISP or networking environment prevents using custom DNS servers, str2hax will not work and you should [choose another exploit to use](get-started).
+Wenn dein Internetdienstanbieter oder deine Netzwerkumgebung die Nutzung eines Custom DNS Server's verhindert dann wird str2hax nicht funktionieren und du solltest [einen anderen Exploit wählen](get-started).
 {: .notice--info}
 
-str2hax is an exploit for the Wii that is triggered by loading the Wii's End User License Agreement. It requires nothing but an Internet connection that lets you change the DNS on your Wii.
+str2hax ist ein Exploit für die Wii, welcher ausgelöst wird mithilfe einer Sicherheitslücke in dem Endbenutzer-Lizenzvertrag. Es benötigt nichts anderes außer die Internetverbindung deiner Wii, die dich den DNS verändern lässt.
 
 #### Voraussetzungen
 
@@ -20,7 +20,7 @@ str2hax is an exploit for the Wii that is triggered by loading the Wii's End Use
 
 ##### Abschnitt 1 - Verbinden
 
-This exploit requires you to set your DNS in order to connect to a server that contains the exploit.
+Damit dieser Exploit funktioniert, musst du deine DNS Einstellungen bearbeiten, damit sich deine Wii zu einem Server verbinden kann, der den Exploit auslöst.
 
 1. Gehe in die `Wii-Optionen`. ![Wii Options](/images/RiiConnect24/Internet_1.png)
 2. Gehe in die `Wii-Systemeinstellungen`. ![Wii Settings](/images/RiiConnect24/Internet_2.png)
