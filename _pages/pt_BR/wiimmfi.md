@@ -16,28 +16,28 @@ Caso precise de ajuda com este tutorial, entre [no servidor do RiiConnect24 no D
 Existem muitos métodos diferentes para se conectar ao Wiimmfi.
 
 ### Aplicativo Homebrew (Disco)
-MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
+MrBean35000vr (criador do CTGP-R, um mod para o Mario Kart Wii) criou o Wiimmfi Disc Patcher, que permite que você insira um disco e jogue com patch do Wiimmfi rapidamente, o ponto negativo é que é necessário fazer isso toda vez que decidir jogar no Wiimmfi.
 
-#### What you need
-* An SD card or USB drive
+#### Você precisará de
+* Um cartão SD ou pendrive
 * [Auto Wiimmfi Patcher](/assets/files/autowiimmfipatcher-0.6.zip)
 
-#### Instructions
+#### Instruções
 
-1. Extract Auto Wiimmfi Patcher and put it in the `apps` folder on your SD card or USB drive.
-2. Insert your SD Card into your Wii, and launch Auto Wiimmfi Patcher from the Homebrew Channel.
-3. Insert your game disc (you can insert it before or after launch, it doesn't matter).
-4. Wait for patch to complete, and it'll begin!
+1. Extraia o Auto Wiimmfi Patcher e coloque dentro da pasta `apps `do seu Cartão SD ou USB.
+2. Insira seu Cartão SD ou USB no Wii e inicie o Auto Wiimmfi Patcher pelo Homebrew Channel.
+3. Insira o disco do jogo (você pode inseri-lo antes ou depois da inicialização, não importa).
+4. Aguarde o patch ser concluído e o jogo irá iniciar!
 
-### No-Homebrew (Disc)
-Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
+### Sem Homebrew (Disco)
+Graças ao exploit str2hax do Fullmetal5's, Leseratte foi capaz de adaptá-lo ao patcher do Wiimmfi, isso permite que você jogue no Wiimmfi sem ter nenhum homebrew no seu console.
 
-#### What you need
-* A Wii with an Internet connection
+#### Você precisará de
+* Um Wii conectado à internet
 
-#### Instructions
+#### Instruções
 
-1. Insert your game disc.
+1. Insira o disco do jogo.
 2. Go into your internet connection settings and set the DNS server of your console to 95.217.77.151.
 3. Go to the WC24 contract information (third button after clicking on "Internet" in the settings).
 4. Confirm that you do want to use WC24 and the shop channel
