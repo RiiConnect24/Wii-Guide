@@ -57,7 +57,7 @@ The Wii Mini should now boot to the HackMii installer (Do not attempt to install
 [Continue to Homebrew Channel and BootMii Installation](hbc)
 {: .notice--info}
 
-##### Section II - cIOS Installation
+##### Paragraaf II - cIOS Installatie
 cIOS is used for USB Loaders to play backups. Be warned that cIOS is still in the experimental stage.
 {: .notice--info}
 This version of cIOS is only for the Wii Mini. If you're on a Wii, please follow the [cIOS guide](/cios).
