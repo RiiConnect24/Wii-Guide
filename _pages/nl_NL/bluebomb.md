@@ -20,8 +20,8 @@ Deze exploit werkt niet op een Wii U (vWii). Volg in plaats daarvan [deze guide]
 {: .notice--waarschuwing}
 
 #### Benodigdheden
-- A Linux machine with a Bluetooth adapter (an integrated one will work)
-  - If you are using a Chromebook, you do not need to install another Operating System. You can enable [Linux in ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en)
+- Een computer met Linux en Bluetooth (u heeft een Bluetooth adapter nodig als dit niet standaard in uw Pc of laptop zit)
+  - Als u een Chromebook gebruikt hoeft u Linux niet te installeren. U kunt dan [Linux installeren op ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en)
   - Using Windows Subsystem for Linux will not work, due to the inability to access `bluetoothctl`.
   - If you do not have Linux, Ubuntu is the most user-friendly option
     - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/)
@@ -57,13 +57,13 @@ The Wii Mini should now boot to the HackMii installer (Do not attempt to install
 [Continue to Homebrew Channel and BootMii Installation](hbc)
 {: .notice--info}
 
-##### Paragraaf II - cIOS Installatie
-cIOS wordt gebruikt door USB Loaders om backups te spelen. Wees extra voorzichtig dat cIOS nog in de experimentele fase zit.
+##### Deel II - cIOS Installatie
+cIOS wordt gebruikt door USB Loaders om backups te spelen. Wees extra voorzichtig omdat cIOS nog in de experimentele fase is.
 {: .notice--info}
-Deze versie van cIOS is alleen bedoeld voor de Wii Mini. If you're on a Wii, please follow the [cIOS guide](/cios).
-{: .notice--warning}
+Deze versie van cIOS is alleen bedoeld voor de Wii Mini. Als u een normale Wii gebruikt volg dan [deze cIOS guide](/cios).
+{: .notice--waarschuwing}
 
-1. Download the cIOS File from [here](https://bluebomb.glitch.me/d2xl-cIOS/index.html)
+1. Download het cIOS bestand [hier](https://bluebomb.glitch.me/d2xl-cIOS/index.html) vandaan
 2. Open the archive and drag and drop the only folder to the `/apps/` folder on your USB Drive
 3. Open the Homebrew Channel on your Wii Mini
 4. Launch the d2x cIOS installer
