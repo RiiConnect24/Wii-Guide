@@ -47,18 +47,19 @@ chmod a+x bluebomb-helper.sh
 ./bluebomb-helper.sh
 ```
 1. The helper will then download the required files, and ask for information about your console.
-  - If you have selected a Wii mini you will be asked to provide your region. This can be found in the original packaging, the bottom of the console (RVL-201(EUR) for PAL or RVL-201(USA) for NTSC models) or can be determined by the last digit of 
+  - If you have selected a Wii mini you will be asked to provide your region. This can be found in the original packaging, the bottom of the console (RVL-201(EUR) for PAL or RVL-201(USA) for NTSC models) or can be determined by the last digit of
 Make sure that the console is close to the computer running the exploit, Ideally it should be less than 3 feet.
 {: .notice--info}
+  - If you have selected a Wii you will be asked to provide your System Menu Version that you took note of before.
 
-1. Turn on your console and **do not** connect any Wiimotes
+1. Turn on your console and **do not** connect any Wiimotes.
 1. Press the Sync button repeatedly until the terminal shows `got connection handle`
 The console should now boot to the HackMii installer.
 
 [Continue to Homebrew Channel and BootMii Installation](hbc)
 {: .notice--info}
 
-If you are using a Wii mini, you can follow [this guide](ciosmini) to install Leseratte's d2xl cIOS after installing the Homebrew channel.
+If you are using a Wii mini, follow [this guide](hbc-mini) to install the Homebrew channel instead
 {: .notice--info}
 
 If you wish to use Wiimmfi on a Wii mini, you have to run the [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip) app made by Fullmetal5. To run it, just unzip it in the `apps` folder in your USB drive and run it from the Homebrew channel. Please note that you will need a USB to LAN adapter as well as a low power USB 2.0 HUB.
