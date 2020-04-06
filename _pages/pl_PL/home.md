@@ -44,14 +44,14 @@ Rozpocznijmy od [wybrania exploitu](get-started)!
 
 ## Więcej zasobów
 
-There are also few more good resources for Wii modding and troubleshooting that can help:
+Istnieje również wiele innych zasobów zawierające poradniki dotyczące przerabiania Wii oraz naprawiania problemów:
 
 - [Complete Softmod Guide](https://sites.google.com/site/completesg/)
 - [ModMii](http://modmii.000webhostapp.com/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
-- [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...and of course, this site
+- [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...i oczywiście, ta strona
 
-For modding a Wii U, there are some more options:
+Dla poradników dotyczących Wii U, dostępne są poniższe opcje:
 - [The Definitive vWii Hacking Guide](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
 - [NH Wii U Guide](https://wiiuguide.xyz)
