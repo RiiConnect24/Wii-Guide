@@ -16,6 +16,8 @@ Una de les funcions més importants de BootMii és la habilitat de poder fer i r
 * Una tarjeta SD amb, com a mínim, 512MB d'espai lliure
 
 #### Instruccions
+If you installed BootMii as Boot2 in the last step, you will need to launch BootMii by restarting the console. Skip steps 1-2 if this is the case.
+{: .notice--info}
 1. Entreu al Homebrew Channel.
 2. Premeu el botó HOME i elegiu l'opció "Launch BootMii" (Llançar BootMii).
    - Navegar BootMii no és posible amb un mando de la Wii. Has d'utilitzar els botons de la teva Wii o un mando de GameCube connectat al port 1. Per a navegar entre les diferents opcions, premeu el botó POWER a la Wii (o bé el pad de control al mando de GameCube). Teniu en compte que amb el botó de la Wii només podeu anar cap a la dreta, i l'última opció us transportarà a la primera. No obstant, utilitzant un mando de GameCube pots anar cap a l'esquerra i la dreta. Per a elegir una opció, premeu RESET a la Wii o A al mando de GameCube.
@@ -28,8 +30,8 @@ Una de les funcions més importants de BootMii és la habilitat de poder fer i r
 5. Quan la còpia s'ha completat, eixiu d'eixa pantalla prement qualsevol botó.
 6. Per a eixir de BootMii, premeu el botó "Back" (enrere) i després podeu polsar el Botò Wii o Homebrew Channel per a elegir a quin menú eixir.
 
-Per a restaurar una copia de seguretat de la NAND des-de la teva tarjeta SD, seguiu aquestes instruccions amb RestoreMii (el botó justament al costat de BackupMii amb una fletxa roja.
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
 {: .notice--info}
 
-[Continuar a l'instalació de Priiloader.](priiloader)<br> Priiloader afegix in nivell extra de protecció a la teva Wii, sobre tot si només has instalat BootMii com a IOS.
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it, especially if you only installed BootMii as an IOS.
 {: .notice--info}
