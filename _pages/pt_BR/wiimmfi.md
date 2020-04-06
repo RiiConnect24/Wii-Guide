@@ -2,20 +2,20 @@
 title: "Wiimmfi"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sumário" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Caso precise de ajuda com este tutorial, entre [no servidor do RiiConnect24 no Discord](https://discord.gg/b4Y7jfD) (recomendado) ou [envie um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
 
-[Wiimmfi](https://wiimmfi.de) is a replacement service for the now-defunct Nintendo Wi-Fi Connection. It has been developed by Wiimm and Leseratte.
+[Wiimmfi](https://wiimmfi.de) é um serviço destinado a substituir o extinto Nintendo Wi-Fi Connection. Foi desenvolvido por Wiimm e Leseratte.
 
-## Different patchers
+## Tipos de patchers
 
-There are lots of different methods to connect to Wiimmfi.
+Existem muitos métodos diferentes para se conectar ao Wiimmfi.
 
-### Homebrew (Disc) Application
+### Aplicativo Homebrew (Disco)
 MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
 
 #### What you need
