@@ -4,7 +4,7 @@ title: "BlueBomb"
 
 {% include toc title="Inhoudsopgave" %}
 
-If you need help with anything regarding this tutorial, please join [the Wii Mini Hacking Discord server](https://discord.gg/6ryxnkS) (recommended)
+Als u hulp nodig heeft bij iets wat met deze tutorial te maken heeft, sluit je dan aan bij [de Wii Mini Hacking Discord server](https://discord.gg/6ryxnkS) (aanbevolen)
 {: .notice--info}
 
 ![BlueBomb](/images/bluebomb.png)
@@ -15,11 +15,11 @@ Voor de originele Wii raden we aan om een [andere exploit](/get-started) te gebr
 {: .notice--info}
 
 Als je installeert op de Wii Mini; BootMii kan hier nog niet op worden geïnstalleerd. Probeer het alsjeblieft niet te installeren. Wij zijn niet verantwoordelijk als je apparaat gebrickt wordt.
-{: .notice--warning}
-This exploit will not work on a Wii U (vWii). Please follow [this guide instead](https://wiiuguide.xyz/#/vwii/).
-{: .notice--warning}
+{: .notice--waarschuwing}
+Deze exploit werkt niet op een Wii U (vWii). Volg in plaats daarvan [deze guide](https://wiiuguide.xyz/#/vwii/).
+{: .notice--waarschuwing}
 
-#### What you need
+#### Benodigdheden
 - A Linux machine with a Bluetooth adapter (an integrated one will work)
   - If you are using a Chromebook, you do not need to install another Operating System. You can enable [Linux in ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en)
   - Using Windows Subsystem for Linux will not work, due to the inability to access `bluetoothctl`.
