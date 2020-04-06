@@ -22,7 +22,7 @@ This exploit will not work on a Wii U's vWii. Please follow [this guide instead]
 #### Section I - What you need
 - A Linux machine
   - If you are using a Chromebook, you do not need to install another Operating System. You can enable [Linux in ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en)
-  - If you have a raspberry Pi, you can use that instead as it most likely has Linux preinstalled.
+  - If you have a Raspberry Pi, you can use that instead as it most likely has Linux preinstalled.
   - Using Windows Subsystem for Linux will not work, due to the inability to access `bluetoothctl`.
   - If you do not have Linux, Ubuntu is the most user-friendly option
     - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/)
@@ -32,7 +32,7 @@ This exploit will not work on a Wii U's vWii. Please follow [this guide instead]
 
 
 #### Section II - Performing the exploit
-1. Download the HackMii installer from [t]he BootMii website](https://bootmii.org/download/).
+1. Download the HackMii installer from [the BootMii website](https://bootmii.org/download/).
 1. Unpack it and place the `boot.elf` file in your flash drive.
 1. Connect the flash drive to the console. For a Wii Mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright).
 1. Turn on your console and navigate to the settings menu. On the top right corner you should see a 4-digit code like the one in the picture below. This code is your System Menu version, take a note of this as you will need it later. Afterwards, tun your console off.
@@ -58,7 +58,7 @@ The console should now boot to the HackMii installer (If you are using a Wii min
 [Continue to Homebrew Channel and BootMii Installation](hbc)
 {: .notice--info}
 
-If you are using a Wii mini, you can follow [this guide](ciosmini) to install Leseratte's d2xl cIOS after installing the Homebrew channel.
+If you are using a Wii Mini, you can follow [this guide](ciosmini) to install Leseratte's d2xl cIOS after installing the Homebrew channel.
 {: .notice--info}
 
 If you wish to use Wiimmfi on a Wii mini, you have to run the [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip) app made by Fullmetal5. To run it, just unzip it in the `apps` folder in your USB drive and run it from the Homebrew channel. Please note that you will need a USB to LAN adapter as well as a low power USB 2.0 HUB.
