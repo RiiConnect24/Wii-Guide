@@ -2,24 +2,24 @@
 title: "Installing RSSMii"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Zawartość" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/b4Y7jfD) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.).
 {: .notice--info}
 
-Do you want to get RSS feed updates on your Wii Message Board? This tutorial will tell you how to set RSSMii up.
+Chcesz otrzymywać aktualizacje z Twoich RSS Feed'ów na Twoim Wii Message Board? Ten poradnik wytłumaczy Ci, jak poprawnie skonfigurować RSSMii.
 
 ![RSSMii](/images/rssmii.png)
 
-#### What you need
+#### Będziesz potrzebował:
 
-* An SD card
+* Karta SD
 * [RSSMii](https://github.com/RiiConnect24/rssmii/releases)
 
-#### Instructions
-##### Section I - Downloading/Installing
+#### Instrukcje
+##### Sekcja I - Pobieranie/Instalowanie
 
-1. Extract RSSMii and put it in the `apps` folder on your SD card.
+1. Wypakuj RSSMii oraz skopiuj go do folderu `apps` na Twojej karcie SD lub urządzeniu USB.
 2. We need to create a `feeds.xml` on the root of the SD card so the app will know what feeds to subscribe you to.
 
 If you're using the Windows Operating System, you can use the RSS Feeds Creators program created by KcrPL. It will automatically create a `feeds.xml` file and will copy it to your SD card!
