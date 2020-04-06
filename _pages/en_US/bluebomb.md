@@ -34,7 +34,7 @@ This exploit will not work on a Wii U's vWii. Please follow [this guide instead]
 #### Section II - Performing the exploit
 1. Download the HackMii installer from [t]he BootMii website](https://bootmii.org/download/).
 1. Unpack it and place the `boot.elf` file in your flash drive.
-1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright).
+1. Connect the flash drive to the console. For a Wii Mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright).
 1. Turn on your console and navigate to the settings menu. On the top right corner you should see a 4-digit code like the one in the picture below. This code is your System Menu version, take a note of this as you will need it later. Afterwards, tun your console off.
 
 ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
@@ -47,11 +47,11 @@ chmod a+x bluebomb-helper.sh
 ./bluebomb-helper.sh
 ```
 1. The helper will then download the required files, and ask for information about your console.
-  - If you have selected a Wii mini you will be asked to provide your region. This can be found in the original packaging, the bottom of the console (RVL-201(EUR) for PAL or RVL-201(USA) for NTSC models) or can be determined by the last digit of 
+  - If you have selected a Wii Mini you will be asked to provide your region. This can be found in the original packaging, the bottom of the console (RVL-201(EUR) for PAL or RVL-201(USA) for NTSC models) or can be determined by the last digit of 
 Make sure that the console is close to the computer running the exploit, Ideally it should be less than 3Ft.
 {: .notice--info}
 
-1. Turn on your consoe and **do not** connect any Wiimotes
+1. Turn on your console and **do not** connect any Wiimotes
 1. Press the Sync button repeatedly until the terminal shows `got connection handle`
 The console should now boot to the HackMii installer (If you are using a Wii mini do **not** attempt to install BootMii).
 
