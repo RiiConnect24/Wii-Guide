@@ -2,44 +2,44 @@
 title: "WiiWare Patcher"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Zawartość" %}
 
-Want to patch WAD games (WiiWare) to work with Wiimmfi and you don't know how? This tutorial will explain you how WiiWare Patcher works. (This tutorial is only suitable for Windows operating system)
+Chcesz zastosować poprawkę na gry WAD (WiiWare), która pozwoli Ci na rozgrywkę online korzystając z serwisu Wiimmfi? Ten poradnik wytłumaczy Ci jak działa WiiWare Patcher. (Ten poradnik ma zastosowanie tylko dla użytkowników systemu operacyjnego Windows)
 
-![Using the WiiWare Patcher](/images/rc24_using_the_wiiware_patcher.jpg)
+![Korzystanie z WiiWare Patcher'a](/images/rc24_using_the_wiiware_patcher.jpg)
 
-This tutorial is only for Windows version of WiiWare Patcher.
+Ten poradnik jest tylko przeznaczony dla Windows'owej wersji WiiWare Patcher'a.
 {: .notice--info}
 
-#### What you need
+#### Będziesz potrzebował:
 
-* A Windows computer
+* Komputera z systemem operacyjnym Windows
 
-#### Downloading
+#### Pobieranie
 
-[If you want to download WiiWare Patcher without cmd.exe method, click here!](https://github.com/RiiConnect24/auto-wiiware-patcher/releases)
+[Jeżeli chcesz pobrać WiiWare Patcher bez metody z wykorzystaniem cmd.exe, naciśnij tutaj!](https://github.com/RiiConnect24/auto-wiiware-patcher/releases)
 {: .notice--info}
 
-If you are on Windows 7 or newer open cmd.exe (Run or press Windows Logo+R and type in cmd.exe) and type in `powershell -command "(new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/KcrPL/KcrPL.github.io/master/Patchers_Auto_Update/WiiWare-Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat`
+Jeżeli korzystasz z Windowsa 7 lub nowszego, otwórz cmd.exe (Uruchom lub naciśnij na klawiaturze Logo Windowsa + R i wpisz cmd.exe) oraz wpisz `powershell -command "(new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/KcrPL/KcrPL.github.io/master/Patchers_Auto_Update/WiiWare-Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat`
 {: .notice--info}
 
-Give it a few seconds because Powershell have to startup. After few seconds a new windows should open. ![Net Installer](/images/WiiWare-Patcher/netinstall.jpg)
+Poczekaj chwilę - Powershell musi się uruchomić. Po kilku sekundach, nowe okno się otworzy. ![Instalator sieciowy](/images/WiiWare-Patcher/netinstall.jpg)
 
-After it will finish downloading a folder called `WiiWare-Patcher` should appear on your Desktop. Open it and open file called `patcher.bat`
+Po ukończeniu pobierania, na pulpicie zostanie utworzony folder o nazwie `WiiWare-Patcher`. Otwórz ten folder oraz otwórz plik o nazwie `patcher.bat`
 
-![Main menu](/images/WiiWare-Patcher/wiiwarepatcher_mainscreen.jpg) (Main menu of WiiWare Patcher)
+![Główne menu](/images/WiiWare-Patcher/wiiwarepatcher_mainscreen.jpg) (Menu główne WiiWare Patcher'a)
 
-Press any button. If the update will be available, you must update the WiiWare Patcher to continue.
-> The update process takes about 10 to 15 seconds.
+Naciśnij dowolny przycisk. Jeżeli aktualizacja będzie dostępna, musisz zaktualizować WiiWare Patcher aby kontynuować.
+> Proces aktualizacji zajmie od 10 do 15 sekund.
 
-After that, you should see this. ![WiiWare Patcher 1st screen](/images/WiiWare-Patcher/wiiwarepatcher_1.jpg)
+Po ukończeniu, zobaczysz to. ![Pierwszy ekran WiiWare Patcher](/images/WiiWare-Patcher/wiiwarepatcher_1.jpg)
 
-Please copy your WADs files to the folder where WiiWare Patcher is. ![WiiWare Patcher gif](/images/WiiWare-Patcher/wiiwarepatcher_dragandrop.gif)
+Skopiuj Twoje pliki WAD do folderu gdzie WiiWare Patcher jest. ![GIF WiiWare Patcher](/images/WiiWare-Patcher/wiiwarepatcher_dragandrop.gif)
 
-If you will do that correctly, the patching will start. ![WiiWare Patcher 2nd screen](/images/WiiWare-Patcher/wiiwarepatcher_2.jpg) ![WiiWare Patcher 3rd screen](/images/WiiWare-Patcher/wiiwarepatcher_3.jpg)
+Jeżeli zrobisz to poprawnie, proces stosowania poprawki zostanie rozpoczęty. ![Drugi ekran WiiWare Patcher](/images/WiiWare-Patcher/wiiwarepatcher_2.jpg) ![Trzeci ekran WiiWare Patcher](/images/WiiWare-Patcher/wiiwarepatcher_3.jpg)
 
-After the patching will be done, press any button.
+Po ukończeniu stosowania poprawki, naciśnij dowolny przycisk.
 
-Basically, that's it! That's all you have to do to use WiiWare Patcher. ![WiiWare Patcher 4th screen](/images/WiiWare-Patcher/wiiwarepatcher_4.jpg)
+To wszystko! To jest wszystko co potrzebujesz, żeby korzystać z WiiWare Patcher'a. ![Czwarty ekran WiiWare Patcher](/images/WiiWare-Patcher/wiiwarepatcher_4.jpg)
 
-[Return to Wiimmfi installation page](wiimmfi)
+[Powróć do strony dotyczącej instalacji Wiimmfi](wiimmfi)
