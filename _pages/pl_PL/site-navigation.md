@@ -33,6 +33,7 @@ sitemap: false
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
 + [str2hax](str2hax)
++ [BlueBomb](bluebomb)
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
@@ -47,10 +48,15 @@ sitemap: false
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 
-**Strona**
-+ [Strona główna](/)
-+ [Wprowadzenie](get-started)
-+ [Często zadawane pytania](faq)
-+ [Datki](donations)
+**Wii mini**
++ [Installing The Homebrew Channel on the Wii mini](hbc-mini)
++ [Installing cIOS on the Wii mini](cios-mini)
+
+
+**Site**
++ [Home](/)
++ [Get Started](get-started)
++ [FAQ](faq)
++ [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
