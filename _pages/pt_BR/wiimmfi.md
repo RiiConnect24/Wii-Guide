@@ -38,14 +38,14 @@ Graças ao exploit str2hax do Fullmetal5's, Leseratte foi capaz de adaptá-lo ao
 #### Instruções
 
 1. Insira o disco do jogo.
-2. Go into your internet connection settings and set the DNS server of your console to 95.217.77.151.
-3. Go to the WC24 contract information (third button after clicking on "Internet" in the settings).
-4. Confirm that you do want to use WC24 and the shop channel
-5. The Wiimmfi patcher page should show up. If it doesn't, and you still see the default license agreement, your router might not be compatible with this method.
-6. Wait for about 1 minute and 30 seconds for the patcher to load
-7. The game should now start with the Wiimmfi patch included
+2. Vá até as configurações de internet do console e defina o servidor DNS para 95.217.77.151.
+3. Vá para as informações do contrato do WC24 (terceiro botão depois de clicar em "Internet" nas configurações).
+4. Confirme que você deseja usar o WC24 e o canal da loja do Wii
+5. A página de patch do Wiimmfi deve aparecer. Caso contrário, e você ainda veja o contrato de licença padrão, seu roteador pode ser incompatível com este método.
+6. Espera por volta de 1 minuto e 30 segundos até que o patcher carregue
+7. O jogo agora deve começar com o patch Wiimmfi incluído
 
-### ISO Patching
+### Patch da IOS
 You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
 
 #### What you need
