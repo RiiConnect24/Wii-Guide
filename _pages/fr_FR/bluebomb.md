@@ -4,86 +4,58 @@ title: "Bluebomb"
 
 {% include toc title="Table of Contents" %}
 
-Si vous avez besoin d'aide lors de la lecture de ce tutoriel, nous vous invitons à rejoindre le [serveur Discord de hacking Wii Mini](https://discord.gg/6ryxnkS)
+If you need help with anything regarding this tutorial, please join [the Wii mini Hacking Discord server](https://discord.gg/6ryxnkS) (recommended)
 {: .notice--info}
 
 ![Bluebomb](/images/bluebomb.png)
 
-Bluebomb est une faille destinée au modding de la Wii Mini qui utilise une faille de l'adaptateur Bluetooth. C'est la seule faille utilisable sur Wii Mini, cependant elle peut également être utilisée sur la Wii originale. Cette faille peut être utilisée pour restaurer la Wii de certains bricks.
+Bluebomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Although it is the only exploit that works for the Wii mini, BlueBomb can run on the original Wii as well. This exploit also enables recovery from certain bricks, such as a banner brick.
 
-Pour la Wii originale, nous vous recommandons plutôt d'utiliser [une autre faille](/get-started) si vous prévoyez d'installer la chaîne Homebrew
+For the original Wii, we recommend using [another exploit](/get-started) instead if you intend to install the Homebrew Channel and/or BootMii.
 {: .notice--info}
 
-Dans le cadre d'une installation sur Wii Mini; BootMii ne peut pas être installé sur Wii Mini à l'heure actuelle. N'essayez pas de l'installer. Nous ne serions tenus responsables si votre Wii venait à être brickée.
-{: .notice--warning}
-Cette faille ne fonctionnera pas sur une Wii U (vWii). Veuillez plutôt suivre [ce guide](https://wiiuguide.xyz/#/vwii/).
+This exploit will not work on a Wii U's vWii. Please follow [this guide](https://wiiuguide.xyz/#/vwii/) instead.
 {: .notice--warning}
 
-#### Éléments requis
-- Un poste de travail sous Linux avec un adaptateur Bluetooth (intégré et fonctionnel de préférence)
-  - Si vous utilisez un Chromebook, vous n'avez pas besoin d'installer un autre système d'exploitation. Vous pouvez activer [Linux dans ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en)
-  - Utiliser WSL (Windows Subsystem for Linux) ne fonctionnera pas, à cause de l'impossibilité d'accès à `bluetoothctl`.
-  - Si vous n’avez pas Linux, Ubuntu est la solution la plus simple
-    - Les postes 32-bit nécessiteront [Ubuntu 16.04](http://releases.ubuntu.com/16.04/)
-    - Nous recommandons l'édition LTS pour sa stabilité, mais la dernière version fonctionne également.
-- Clé USB
+#### Section I - What you need
+- A Linux machine
+  - If you are using a Chromebook, you do not need to install another Operating System; instead, enable [Linux in ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en).
+  - If you have a Raspberry Pi, you can use that instead as it most likely has Linux preinstalled.
+  - Using Windows Subsystem for Linux will **not** work, due to the inability to access `systemctl`.
+  - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option
+    - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/)
+    - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
+  - You can [flash a Linux install to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) if you'd not like to install it to your computer.
+- A Bluetooth adapter.
+  - An internal Bluetooth adapter will work.
+  - If you do not have one, make sure to get one compatible with Linux.
+- A USB flash Drive formatted as FAT32.
+  - This cannot be the same flash drive used for your Linux Machine
 
-#### Instructions
-##### Partie I - Mettre en œuvre la faille
-1. Ouvrez le terminal Linux.
-2. Désactivez le service Bluetooth; `sudo systemctl disable --now bluetooth`
-3. Créez un nouveau dossier pour Bluebomb; `mkdir bluebomb`
-4. Naviguez jusqu'à ce dossier dans le terminal; `cd bluebomb`
-5. Téléchargez les exécutables; `wget https://github.com/Fullmetal5/bluebomb/releases/download/1.5/bluebomb1.5.zip`
-6. Extrayez les fichiers de l'archive; `unzip bluebomb1.5.zip`
-7. Insérez une clé USB dans votre ordinateur
-8. Téléchargez les fichiers depuis [le site BootMii](https://bootmii.org/download/)
-9. Extrayez le contenu du dossier `hackmii_installer_v1.2` sur la clé USB
-10. Éjectez la clé USB de l'ordinateur et insérez-là dans la Wii
-   - Si vous possédez une Wii originale (2 ports USB), insérez-là dans le port du haut
-11. Allumez la Wii sans connecter de Wiimote. Vous pouvez la laisser sur l'écran "Attention-Santé et Sécurité" ou sur le Menu Wii
-12. Dans le terminal, exécutez cette commande spécifique à la région de votre Wii: `sudo ./bluebomb [a] ./stage0/MINI_SM_[b].bin stage1.bin`
-  - Si vous utilisez un adaptateur Bluetooth externe, remplacez [a] par 1
-    - Sinon, ne rentrez rien
-  - Si vous possédez une console PAL, remplacez [b] avec `PAL`. De même, si vous possédez une console NTSC, remplacez [b] avec `NTSC`
+#### Section II - Performing the exploit
+1. Download the HackMii installer from [the BootMii website](https://bootmii.org/download/).
+2. Unpack it and place the `boot.elf` file in your flash drive.
+3. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright).
+4. Turn on your console and navigate to the settings menu. On the top right corner you should see a 4-digit code like the one in the picture below. This code is your System Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+5. Launch your Linux Distro
+6. Open the Linux Terminal by pressing `Ctrl + Shift + T`.
+7. Run the following commands:
+- `wget https://raw.githubusercontent.com/RiiConnect24/Wii-Guide/master/assets/files/bluebomb-helper.sh`
+- `chmod +x bluebomb-helper.sh`
+- `./bluebomb-helper.sh`
+8. The helper will then download the required files, and ask for information about your console.
+  - If you have selected a Wii mini you will be asked to provide your region. This can be found in the original packaging, the bottom of the console (RVL-201(EUR) for PAL or RVL-201(USA) for NTSC models) or can be determined by the last digit of the System Menu version (U for NTSC and E for PAL models).
+  - If you have selected a Wii you will be asked to provide your System Menu Version that you took note of before.
+9. Turn on your console and **do not** connect any Wiimotes.
+10. Press the Sync button repeatedly until the terminal shows `got connection handle`
 
-Le terminal devrait afficher "Waiting to accept". L'ordinateur attend désormais la connexion de votre Wii Mini.
-
-13. Maintenez le bouton `Sync` de votre Wii (il se trouve sur la partie gauche; sur une Wii originale, il se situe juste après la fente pour carte SD)
-   - Maintenez la pression jusqu'à ce que le terminal affiche "Got connection handle".
-
-La Wii Mini devrait maintenant démarrer l'installeur HackMii (n'essayez pas d'installer BootMii)
-
-[Continuez avec l'installation de la chaîne Homebrew](hbc)
+Make sure that the console is close to the computer running the exploit, Ideally it should be less than 3 feet.
 {: .notice--info}
 
-##### Partie II - Installation des cIOS
-Les cIOS sont utilisés par les USB Loaders pour lancer des backups de jeux. Attention, les cIOS sont encore à un stade expérimental.
+The console should now boot to the HackMii installer. You can now shutdown your Linux computer if you are not planning to use it later.
+
+[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
 {: .notice--info}
-Cette version de cIOS est dédiée uniquement à la Wii Mini. Si vous êtes sur une Wii, veuillez suivre le [guide cIOS](/cios).
-{: .notice--warning}
 
-1. Téléchargez les fichiers cIOS depuis [ce lien](https://bluebomb.glitch.me/d2xl-cIOS/index.html)
-2. Ouvrez l'archive et déposez le dossier de l'archive dans le dossier `/apps/` présent sur votre clé USB
-3. Ouvrez la chaîne Homebrew sur votre Wii Mini
-4. Lancez l'installateur cIOS d2x
-5. Pour `Select cIOS`, paramétrez la valeur `d2xl-v1-beta2`
-6. Pour `Select cIOS base`, paramétrez la valeur à `57`
-7. Pour `Select cIOS slot`, paramétrez la valeur à `249`
-   - Dans la section "NOTES" se trouvera la section "Installation hors-ligne". Notez le numéro de version exact (5 derniers chiffres juste avant l'extension `.wad`).
-8. Appuyez sur A pour commencer l'installation.
-   - Si l'installation échoue avec l'erreur "TMD version mismatch", ce n'est pas un problème. Réessayez, cependant, en sélectionnant la base du cIOS, appuyez sur gauche/droite sur votre Wiimote jusqu'à ce que les 5 chiffres notés précédemment soient différents que ceux que vous avez essayé. Cette fois, cela devrait fonctionner - une des deux versions devrait fonctionner.
-9. Après avoir installé le cIOS, appuyez sur B pour quitter.
-
-Vous avez installé le cIOS avec succès.
-
-##### Partie III - Connectivité Ethernet
-
-Ne suivez pas cette partie si vous n'êtes pas sur une Wii Mini. Cette section est **uniquement réservée** aux propriétaires de Wii Mini.
-{: .notice--warning}
-
-1. Téléchargez l'[outil d'activation Ethernet pour Wii Mini](/assets/files/Wii_Mini_Ethernet_Enable.zip).
-2. Ajoutez le au dossier `/apps/` de votre clé USB.
-3. Lancez-le depuis la chaîne Homebrew.
-
-Vous devriez pouvoir bénéficier de la connectivité Ethernet.
+[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
+{: .notice--info}
