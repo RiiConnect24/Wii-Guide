@@ -22,11 +22,11 @@ Wii Guide ist eine Anleitung von [RiiConnect24](https://rc24.xyz) die dich mit W
 
 [**Der Begriff Homebrew**](https://de.wikipedia.org/wiki/Homebrew) bezeichnet meistens von Privatpersonen erstellte Software für Konsolen sowie Handheld-Systeme, die vom Hersteller nicht zur Ausführung selbst erstellter Programme gedacht sind.
 
-Running homebrew on your Nintendo Wii is free using various exploits.
+Das Ausführen von Homebrew auf deiner Nintendo Wii ist Kostenlos und wird mit dem benutzen von Exploits ausgeführt.
 
 ## Was kann ich mit Homebrew machen?
 
-Hier ist eine Liste mit Dingen, die du damit machen kannst. While these aren't all the things you can do with homebrew, it should give you a starting point for things you can do. Our guide will help you easily get started.
+Hier ist eine Liste mit Dingen, die du damit machen kannst. Zwar sind das nicht alle Dinge, die du mit Homebrew machen kannst, es sollte dir aber eine guten Überblick darüber verschaffen, was du machen kannst. Unsere Anleitung wird dir helfen leicht anzufangen.
 
 - Patch game disc contents (allowing you to load game modifications) using [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
 - Install themes to your Wii Menu using [MyMenuify](/themes).
@@ -34,24 +34,24 @@ Hier ist eine Liste mit Dingen, die du damit machen kannst. While these aren't a
 - Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](/dump-wads)
 - Back up and restore your save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
 - Download new homebrew apps with the [Homebrew Browser](/hbb)
-- Restore discontinued online services, such as [WiiConnect24](/riiconnect24) & [Nintendo WFC services](/wiimmfi).
-- Backup and restore copies of your Wii system memory (NAND) using [BootMii](http://bootmii.org).
-- Protect your Wii from bricks using [Priiloader](/priiloader) and BootMii.
-- Turn your Wii into a media player with [WiiMC](http://www.wiimc.org/).
+- Stelle eingestellte Online-Dienste wieder her, wie [WiiConnect24](/riiconnect24) & die [Nintendo WFC Dienste](/wiimmfi).
+- Sichere und Benutze Kopien des Speichers deiner Wii (NAND) mit [BootMii](http://bootmii.org).
+- Schütze deine Wii vor Bricks mit [Priiloader](/priiloader) und BootMii.
+- Wandle deine Wii in einen Media Player um mit [WiiMC](http://www.wiimc.org/).
 
-Get started by [choosing your exploit](get-started)!
+Beginne mit der [Auswahl eines Exploits](get-started)!
 {: .notice--info}
 
 ## Weitere Quellen
 
-There are also few more good resources for Wii modding and troubleshooting that can help:
+Es gibt auch einige gute Quellen für Wii-Modding und Fehlerbehebung, die dir helfen können:
 
 - [Vollständige Softmod-Anleitung](https://sites.google.com/site/completesg/)
 - [ModMii](http://modmii.000webhostapp.com/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
-- [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...and of course, this site
+- [Wii Hacking Erklärt - von Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...und natürlich diese Seite
 
-For modding a Wii U, there are some more options:
-- [The Definitive vWii Hacking Guide](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
-- [NH Wii U Guide](https://wiiuguide.xyz)
+Zum Modden einer Wii U gibt es auch Optionen:
+- [Die Definitive vWii Hacking Anleitung](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
+- [NH Wii U Anleitung](https://wiiuguide.xyz)
