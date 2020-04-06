@@ -20,14 +20,14 @@ Jest to jeden z wielu explitów. Sprawdź [wprowadzenie](/get-started) aby spraw
 #### Instrukcje
 
 1. W Twoim Wii, przejdź do `ustawień Wii` -&#062 `Internet` -&#062 `Console Information` oraz zapisz Twój adres MAC konsoli.
-2. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure `Bundle the HackMii Installer for me!` is checked*, and cut either wire
-   - Whichever wire you choose to cut doesn't matter. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
-3. Extract the contents of the downloaded ZIP to your SD card.
-4. On your Wii, return to the Wii Menu and then open the Message Board.
-5. Load the red letter with a bomb icon.
-   - In various scenarios, you may need to look at the previous or next day to find it.
+2. Odwiedź [please.hackmii.com](https://please.hackmii.com), wpisz twój adres MAC konsoli oraz region Twojej konsoli, ukończ CAPTCHA oraz *upewnij się, że `Bundle the HackMii Installer` jest zaznaczone.* oraz naciśnij `cut the XXX wire`
+   - Nie ma znaczenie czy wybierzesz `cut the blue wire` lub `cut the red wire`. ![Ekran HackMii](/images/Wii/LetterBomb-PC.png)
+3. Wypakuj pliki z pobranego pliku ZIP na Twoją kartę SD.
+4. Na Twoim Wii, powróć do menu głównego oraz wejdź do Wii Message Board.
+5. Naciśnij w czerwoną kopertę z ikoną bomby.
+   - W różnych przypadkach, będziesz musiał czasami spojrzeć na dzień poprzedni lub następny aby znaleźć kopertę.
 
 ![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[Przejdź do instalacji Homebrew Channel oraz BootMii](hbc)
 {: .notice--info}
