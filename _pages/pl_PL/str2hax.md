@@ -22,26 +22,26 @@ str2hax jest exploitem przeznaczonym dla Wii, który można wykonać poprzez za�
 
 Ten exploit wymaga od Ciebie zmiany adresu DNS. Pozwoli Ci to połączenie z serwerem, który zawiera exploit.
 
-1. Wejdź do `ustawień Wii` ![Wii Options](/images/RiiConnect24/Internet_1.png)
-2. Przejdź do `Wii Settings` ![Wii Settings](/images/RiiConnect24/Internet_2.png)
+1. Wejdź do `ustawień Wii` ![Opcje Wii](/images/RiiConnect24/Internet_1.png)
+2. Przejdź do `Wii Settings` ![Ustawienia Wii](/images/RiiConnect24/Internet_2.png)
 3. Przejdź do `drugiej strony`, oraz wybierz `Internet`. ![Internet](/images/RiiConnect24/Internet_3.png)
-4. Przejdź do `Connection Settings`. ![Connection Settings](/images/RiiConnect24/Internet_4.png)
-5. Wybierz twoje obecne połączenie. ![Current Connection](/images/RiiConnect24/Internet_5.png)
-6. Przejdź do `Change Settings`. ![Change Settings](/images/RiiConnect24/Internet_6.png)
-7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`. ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
-8. Type in `97.74.103.14` as the primary DNS.
-9. Type in `173.201.71.14` as the secondary DNS.
-10. Select `Confirm`, then select `Save`. ![Save DNS](/images/RiiConnect24/Internet_10.png)
-11. Select `OK` to perform a connection test. ![Connection Test](/images/RiiConnect24/Internet_11.png)
-   - If the connection test was successful, select `No` to skip the Wii System Update. ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)
-   - If it was unsuccessful, then please use [another exploit](get-started).
+4. Przejdź do `Connection Settings`. ![Ustawienia połączenia](/images/RiiConnect24/Internet_4.png)
+5. Wybierz twoje obecne połączenie. ![Obecne połączenie](/images/RiiConnect24/Internet_5.png)
+6. Przejdź do `Change Settings`. ![Zmień ustawienia](/images/RiiConnect24/Internet_6.png)
+7. Przejdź do `Auto-Obtain DNS` (Nie IP Address) oraz wybierz `No`, oraz kliknij na `Advanced Settings`. ![Automatycznie uzyskaj adres DNS](/images/RiiConnect24/Internet_7.png)
+8. Wpisz `97.74.103.14` jako Primary DNS.
+9. Wpisz `173.201.71.14` jako Secondary DNS.
+10. Wybierz `Confirm`, oraz wybierz `Save`. ![Zapisz adres DNS](/images/RiiConnect24/Internet_10.png)
+11. Wybierz `OK` aby przeprowadzić test połączenia Internetowego. ![Przeprowadź test połączenia Internetowego](/images/RiiConnect24/Internet_11.png)
+   - Jeżeli połączenie było pomyślne, wybierz `No` aby pominąć sprawdzenie aktualizacji systemu. ![Test połączenia Internetowego zakończony sukcesem](/images/RiiConnect24/Internet_12.png)
+   - Jeżeli test połączenia Internetowego ukończył się niepomyślnie, wybierz [inny exploit](get-started) oraz z niego skorzystaj. Pamiętaj aby przywrócić powyższe ustawienia Internetu.
 
-##### Section II - Triggering the Exploit
+##### Sekcja II - Uruchamianie exploitu
 
-1. Go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`.
-2. If you see a pony on the screen on a light blue background, you have set it up correctly. Wait 1-2 minutes for the exploit to trigger (it should take about 1 minute and 25 seconds). The exploit will download the HackMii Installer so you can continue.
+1. Przejdź do `Internet` oraz naciśnij na `User Agreements`lub `Agreement/Contact` oraz `Yes`.
+2. Jeżeli na ekranie zobaczysz kucyka na jasnoniebieskim ekranie, wszystko zostało skonfigurowane poprawnie. Poczekaj od 1 do 2 minut na uruchomienie exploitu (powinno to zająć około minuty i 25 sekund). Exploit pobierze Instalator HackMi abyś mógł kontynuować z instalacją.
 
-If the HackMii Installer doesn't load and it instead freezes (you can't move your cursor) or it doesn't take 1-2 minutes to trigger, please restart your Wii and retry the exploit.
+Jeżeli exploitowi str2hax nie uda się uruchomić exploitu i konsola się zawiesi (nie możesz ruszyć kursorem) lub jeżeli zajmuje to więcej niż 1-2 minuty, proszę zrestartuj [przytrzymaj przycisk zasilania na konsoli, odłącz od prądu], Twoją konsolę oraz spróbuj uruchomić exploit ponownie.
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[Przejdź do instalacji Homebrew Channel](hbc)
 {: .notice--info}
