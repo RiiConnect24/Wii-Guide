@@ -15,6 +15,8 @@ Um dos recursos mais importantes do BootMii é a capacidade de fazer backup e re
 * Um cartão SD com pelo menos 512MB de espaço livre
 
 #### Instruções
+If you installed BootMii as Boot2 in the last step, you will need to launch BootMii by restarting the console. Skip steps 1-2 if this is the case.
+{: .notice--info}
 1. Inicie o Homebrew Channel.
 2. Aperte o botão HOME e selecione "Launch BootMii".
    - Não é possível navegar no BootMii usando um controle do Wii. Você terá que usar os botões do console ou um controle GameCube conectado à porta 1. Para navegar entre as opções, aperte POWER no seu Wii (ou o botão direito do D-Pad em um controle do GameCube). Tenha em mente que, ao usar os botões do Wii, você pode apenas navegar para a direita, mas ao passar pela última opção, ela será redirecionada para a primeira. Isso não é uma limitação nos controles do Gamecube; Você pode navegar para a esquerda e direita. Para selecionar uma opção, aperte RESET no seu Wii ou A no controle do GameCube.
@@ -27,8 +29,8 @@ Um dos recursos mais importantes do BootMii é a capacidade de fazer backup e re
 5. Quando o backup for finalizado, saia da tela de backup da NAND pressionando qualquer botão.
 6. Para sair do BootMii, pressione o botão voltar (aquele com a seta) e, em seguida, você pode pressionar o botão de Menu do Wii ou o Homebrew Channel para sair por onde deseja.
 
-Para restaurar um backup da NAND a partir do cartão SD, siga essas instruções usando o RestoreMii (o botão ao lado do BackupMii com uma seta vermelha).
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
 {: .notice--info}
 
-[Continuar para a instalação do Priiloader](priiloader)<br> O Priiloader adciona um nível de proteção contra bricks, e é recomendado, especialmente se você instalou o BootMii apenas como IOS.
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it, especially if you only installed BootMii as an IOS.
 {: .notice--info}
