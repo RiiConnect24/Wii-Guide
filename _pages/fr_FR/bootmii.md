@@ -15,6 +15,8 @@ BootMii est la chose la plus importante, car elle a labilité de pouvoir faire d
 * Une carte SD avec au moins 512MO d'espace libre
 
 #### Instructions
+If you installed BootMii as Boot2 in the last step, you will need to launch BootMii by restarting the console. Skip steps 1-2 if this is the case.
+{: .notice--info}
 1. Lancer la Chaîne Homebrew.
 2. Appuyer sur le bouton HOME, et choisissais "Launch BootMii" ou "Lancer BootMii".
    - Naviguer sur BootMii est impossible en utilisant une manette Wii. Vous devez utiliser les boutons de la Wii ou une manette gamecube branché au port 1. Pour naviguer dans les options, appuyer sur POWER ou le bouton droit + Control Pad sur une manette GameCube). Souvenez vous que quand vous utiliser les boutons de la wii, vous pouvez que naviguer sur la droite donc si vous voulez revenir en arrière il vas falloir revenir au début. Il n'y a pas de limitation sur les manettes GameCube; vous pouvez naviguer a gauche et a droite. Pour choisir une option, appuyez sur "RESET" sur votre Wii ou A sur une manette GameCube.
@@ -27,8 +29,8 @@ BootMii est la chose la plus importante, car elle a labilité de pouvoir faire d
 5. Quand la sauvegarde a totalement fini, quitter le menu de sauvegarde en appuyant sur n'importe quel bouton.
 6. Pour quitter BootMii, appuyer sur le bouton retour (celui avec la flèche) et après vous pouvez appuyer sur bouton du menu de la wii ou celui de la Chaîne Homebrew, comme vous le voulez.
 
-Pour restaurer une sauvegarde de votre carte SD, vous pouvez suivre les instructions en utilisant RestoreMii (Le bouton a droite de BackupMii avec la flèche rouge).
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
 {: .notice--info}
 
-[Continuer vers l'installation de Priiloader](priiloader)<br>.
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it, especially if you only installed BootMii as an IOS.
 {: .notice--info}
