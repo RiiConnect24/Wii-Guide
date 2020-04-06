@@ -8,7 +8,7 @@ This tutorial will tell you how to install Leseratte's d2xl Wii mini cIOS (custo
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-If you have a Wii, Install [this cIOS](cios) instead. Attempting to install this cIOS on a Wii may **brick your console!!**
+This guides is only intended for Wii mini users. If you have a Wii, Install [this cIOS](cios) instead.
 {: .notice--warning}
 
 If you need help with anything regarding this tutorial, please join [the Wii mini Hacking Discord server](https://discord.gg/6ryxnkS) (recommended)
@@ -41,7 +41,7 @@ Select cIOS slot: 249
 
 Take a note of the version number (either `v31776` or `v31775`)
 1. Once set, press A to install. Once done successfully, exit the installer.
-  - If the install fails with a `TMD version mismatch` error, move the dpad left or right in the `Select cIOS` option until the version number is different than the one you tried before.
+  - If the install fails with a `TMD version mismatch` error, move the +Control pad left or right in the `Select cIOS` option until the version number is different than the one you tried before.
 
 
 ##### Enabling Ethernet
