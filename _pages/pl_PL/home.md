@@ -31,18 +31,18 @@ Poniżej jest lista rzeczy, którą możesz zrobić wykorzystując homebrew. Nie
 - Stosowanie poprawek (patchowanie) na zasoby gry (pozwala Ci ładować modyfikacje do gier) używając [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
 - Zainstaluj motywy na system Wii Menu używając [MyMenufy](/themes).
 - Zainstaluj loader USB taki jak [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) lub [USB Loader GX](/usbloadergx) aby uruchomić Twoje ulubione kopie zapasowe gier z urządzenia USB oraz wiele więcej.
-- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](/dump-wads)
-- Back up and restore your save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
-- Download new homebrew apps with the [Homebrew Browser](/hbb)
-- Restore discontinued online services, such as [WiiConnect24](/riiconnect24) & [Nintendo WFC services](/wiimmfi).
-- Backup and restore copies of your Wii system memory (NAND) using [BootMii](http://bootmii.org).
-- Protect your Wii from bricks using [Priiloader](/priiloader) and BootMii.
-- Turn your Wii into a media player with [WiiMC](http://www.wiimc.org/).
+- Wykonaj kopię zapasowe Twoich gier korzystając z [CleanRip](/dump-games) oraz zainstalowanych gier/kanałów korzystając z [YABDM](/dump-wads)
+- Wykonaj kopię zapasową Twoich zapisów gier korzystając z [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
+- Pobieraj nowe homebrew korzystając z [Homebrew Browser](/hbb)
+- Przywróć funkcjonalność zamkniętych serwisów takich jak [WiiConnect24](/riiconnect24) oraz [Nintendo WFC](/wiimmfi).
+- Wykonaj kopię zapasową pamięci NAND konsoli Wii oraz przywróć ją korzystając z [BootMii](http://bootmii.org).
+- Broń swoje Wii przed brickami korzystając z [Priiloader'a](/priiloader) oraz BootMii.
+- Przeistocz swoje Wii w odtwarzacz multimedialny korzystając z [WiiMC](http://www.wiimc.org/).
 
-Get started by [choosing your exploit](get-started)!
+Rozpocznijmy od [wybrania exploitu](get-started)!
 {: .notice--info}
 
-## More Resources
+## Więcej zasobów
 
 There are also few more good resources for Wii modding and troubleshooting that can help:
 
