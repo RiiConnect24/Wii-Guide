@@ -15,6 +15,8 @@ Una delle funzioni più importanti di BootMii è la possibilità di eseguire un 
 * Una scheda SD con almeno 512MB di spazio disponibile
 
 #### Istruzioni
+If you installed BootMii as Boot2 in the last step, you will need to launch BootMii by restarting the console. Skip steps 1-2 if this is the case.
+{: .notice--info}
 1. Apri il canale Homebrew Channel.
 2. Premi il pulsante HOME e scegli "Launch BootMii".
    - Non puoi utilizzare un telecomando Wii. Per navigare tra le opzioni in BootMii dovrai utilizzare i tasti sulla tua console Wii (o un controller GameCube nella porta 1). Per navigare tra le opzioni, premi il pulsante POWER sulla tua Wii (o il pulsante destro del pad a + su un controller GameCube). Keep in mind that when using the wii buttons, you can only navigate right but when attempting to go past the last entry, it'll warp you to the first one. This is not a limitation on GameCube Controllers; You can navigate left and right. Per selezionare un'opzione, premi il pulsante RESET sulla tua Wii (o il pulsante A su un controller GameCube).
@@ -27,8 +29,8 @@ Una delle funzioni più importanti di BootMii è la possibilità di eseguire un 
 5. Quando il backup sarà finito, esso verrà verificato.
 6. Scegli l'opzione Indietro per uscire da BootMii (icona con una freccia) e potrai scegliere se tornare al Menù Wii o al canale Homebrew Channel.
 
-Per ripristinare un backup della NAND, puoi seguire queste istruzioni con RestoreMii (icona vicino a BackupMii, con una freccia rossa).
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
 {: .notice--info}
 
-[Vedi come installare Priiloader](priiloader)<br> Priiloader aggiunge un ulteriore livello di protezione, consigliato specialmente se hai installato BootMii come IOS.
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it, especially if you only installed BootMii as an IOS.
 {: .notice--info}
