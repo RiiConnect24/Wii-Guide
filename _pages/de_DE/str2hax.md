@@ -34,14 +34,14 @@ Damit dieser Exploit funktioniert, musst du deine DNS Einstellungen bearbeiten, 
 10. Wähle `Bestätigen`, dann `Speichern`. ![Save DNS](/images/RiiConnect24/Internet_10.png)
 11. Wähle `OK` um einen Verbindungstest durchzuführen. ![Connection Test](/images/RiiConnect24/Internet_11.png)
    - Wenn der Verbindungstest erfolgreich war, wähle `Nein`, um das Wii-Systemupdate zu überspringen. ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)
-   - If it was unsuccessful, then please use [another exploit](get-started).
+   - Wenn der Exploit nicht funktioniert hat, dann benutze bitte einen [anderen Exploit](get-started).
 
 ##### Abschnitt 2 - Ausführen des Exploits
 
 1. Gehe in den Bereich `Internet`, dann `Vertrag/Kontrakt`, dann `Ja`.
-2. If you see a pony on the screen on a light blue background, you have set it up correctly. Wait 1-2 minutes for the exploit to trigger (it should take about 1 minute and 25 seconds). The exploit will download the HackMii Installer so you can continue.
+2. Wenn du ein Pony auf einem leicht blauen Hintergrund siehst, dann hast du alles richtig gemacht. Warte 1-2 Minuten, bis sich der Exploit auslöst (es sollte 1 Minute und 25 Sekunden dauern). Dieser Exploit wird den HackMii Installer herunterladen damit du weiter machen kannst.
 
-If the HackMii Installer doesn't load and it instead freezes (you can't move your cursor) or it doesn't take 1-2 minutes to trigger, please restart your Wii and retry the exploit.
+Wenn der HackMii Installer nicht lädt und sich deine Wii aufhängt (Du kannst deinen Zeiger nicht bewegen) oder es nicht 1-2 Minuten zum auslösen braucht, dann solltest du deine Wii neustarten und den Exploit wieder versuchen.
 
 [Fahre nun fort mit der Homebrew-Kanal und BootMii-Installation](hbc)
 {: .notice--info}
