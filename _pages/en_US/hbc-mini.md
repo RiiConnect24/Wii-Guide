@@ -21,9 +21,6 @@ While it is possible to install BootMii on a Wii mini, you will not be able to u
 1. You will see a scam warning screen. Wait 30 seconds for the text "Press 1 to continue" to appear, then press 1.
 ![Scam Screen](/images/Wii/ScamScreen.png)
 
-1. When at the HackMii installer, you are only able to install the Homebrew Channel.
-![Results](/images/Wii/Results.png)
-
 1. Press Continue, then select Install The Homebrew Channel, and press install.
 ![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
