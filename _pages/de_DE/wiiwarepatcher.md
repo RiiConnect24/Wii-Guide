@@ -4,7 +4,7 @@ title: "WiiWare Patcher"
 
 {% include toc title="Table of Contents" %}
 
-Want to patch WAD games (WiiWare) to work with Wiimmfi and you don't know how? This tutorial will explain you how WiiWare Patcher works. (This tutorial is only suitable for Windows operating system)
+Möchtest du WAD Spiele (WiiWare) patchen damit sie mit Wiimmfi funktionieren und die weißt nicht wie? Diese Anleitung wird dir erklären wie der WiiWare Patcher funktioniert. (Diese Anleitung funktioniert nur mit Windows)
 
 ![Using the WiiWare Patcher](/images/rc24_using_the_wiiware_patcher.jpg)
 
@@ -15,9 +15,9 @@ Dieses Tutorial ist ausschliesslich für die Windows-Version des WiiWare Patcher
 
 * Einen Windows-PC
 
-#### Downloading
+#### Herunterladen
 
-[If you want to download WiiWare Patcher without cmd.exe method, click here!](https://github.com/RiiConnect24/auto-wiiware-patcher/releases)
+[Wenn du den WiiWare Patcher ohne die cmd.exe Methode downloaden möchtest dann klick hier!](https://github.com/RiiConnect24/auto-wiiware-patcher/releases)
 {: .notice--info}
 
 If you are on Windows 7 or newer open cmd.exe (Run or press Windows Logo+R and type in cmd.exe) and type in `powershell -command "(new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/KcrPL/KcrPL.github.io/master/Patchers_Auto_Update/WiiWare-Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat`
@@ -40,6 +40,6 @@ If you will do that correctly, the patching will start. ![WiiWare Patcher 2nd sc
 
 After the patching will be done, press any button.
 
-Basically, that's it! That's all you have to do to use WiiWare Patcher. ![WiiWare Patcher 4th screen](/images/WiiWare-Patcher/wiiwarepatcher_4.jpg)
+Das wars eigentlich! Das ist alles was du tun must um den WiiWare Patcher zu verwenden. ![WiiWare Patcher 4th screen](/images/WiiWare-Patcher/wiiwarepatcher_4.jpg)
 
 [Zurückkehren zur Wiimmfi Installationsseite](wiimmfi)
