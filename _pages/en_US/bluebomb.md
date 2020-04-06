@@ -4,17 +4,17 @@ title: "BlueBomb"
 
 {% include toc title="Table of Contents" %}
 
-If you need help with anything regarding this tutorial, please join [the Wii Mini Hacking Discord server](https://discord.gg/6ryxnkS) (recommended)
+If you need help with anything regarding this tutorial, please join [the Wii mini Hacking Discord server](https://discord.gg/6ryxnkS) (recommended)
 {: .notice--info}
 
 ![BlueBomb](/images/bluebomb.png)
 
-Bluebomb is an exploit intended for Wii and Wii Mini Modding that takes advantage of an exploit in the Bluetooth adapter. It's made by Fullmetal5 and it is the only exploit that works for the Wii Mini but it can be used on the original Wii as well. It can be used to recover from certain bricks on the Wii or Wii mini as well, such as BannerBrick.
+Bluebomb is an exploit intended for Wii and Wii mini Modding that takes advantage of an exploit in the Bluetooth adapter. It's made by Fullmetal5 and it is the only exploit that works for the Wii mini but it can be used on the original Wii as well. It can be used to recover from certain bricks on the Wii or Wii mini as well, such as a Banner brick.
 
 For the original Wii, we recommend using [another exploit](/get-started) instead if you intend to install the Homebrew Channel and/or BootMii.
 {: .notice--info}
 
-BootMii can't be installed on the Wii Mini yet. Please do **not** attempt to install it. We don't take any responsibility for bricking your console.
+BootMii can't be installed on the Wii mini yet. Please do **not** attempt to install it. We don't take any responsibility for bricking your console.
 {: .notice--warning}
 This exploit will not work on a Wii U's vWii. Please follow [this guide instead](https://wiiuguide.xyz/#/vwii/).
 {: .notice--warning}
@@ -34,12 +34,12 @@ This exploit will not work on a Wii U's vWii. Please follow [this guide instead]
 #### Section II - Performing the exploit
 1. Download the HackMii installer from [the BootMii website](https://bootmii.org/download/).
 1. Unpack it and place the `boot.elf` file in your flash drive.
-1. Connect the flash drive to the console. For a Wii Mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright).
+1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright).
 1. Turn on your console and navigate to the settings menu. On the top right corner you should see a 4-digit code like the one in the picture below. This code is your System Menu version, take a note of this as you will need it later. Afterwards, tun your console off.
 
 ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 
-1. Start the Linux Operating System. If you do not have it installed on your computer, you can temporarily install and boot it from a flash drive (not the one used for the HackMii installer) You can follow [this guide](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) to get help with that. As an ISO, provide  the ISO linked in Section I that fits your configuration.
+1. Start the Linux Operating System. If you do not have it installed on your computer, you can temporarily install and boot it from a flash drive (not the one used for the HackMii installer) You can follow [this guide](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) to create the bootable USB drive. Note that it will not make any permanent changes to your computer unless you select the installation option. As an ISO, provide  the ISO linked in Section I that fits your configuration.
 1. Open the Linux Terminal by pressing `Ctrl + Shift + T` or by opening it from the app menu and run these commands
 ```
 wget https://github.com/RiiConnect24/Wii-Guide/tree/master/assets/files/bluebomb-helper.sh
@@ -47,18 +47,18 @@ chmod a+x bluebomb-helper.sh
 ./bluebomb-helper.sh
 ```
 1. The helper will then download the required files, and ask for information about your console.
-  - If you have selected a Wii Mini you will be asked to provide your region. This can be found in the original packaging, the bottom of the console (RVL-201(EUR) for PAL or RVL-201(USA) for NTSC models) or can be determined by the last digit of 
-Make sure that the console is close to the computer running the exploit, Ideally it should be less than 3Ft.
+  - If you have selected a Wii mini you will be asked to provide your region. This can be found in the original packaging, the bottom of the console (RVL-201(EUR) for PAL or RVL-201(USA) for NTSC models) or can be determined by the last digit of 
+Make sure that the console is close to the computer running the exploit, Ideally it should be less than 3 feet.
 {: .notice--info}
 
 1. Turn on your console and **do not** connect any Wiimotes
 1. Press the Sync button repeatedly until the terminal shows `got connection handle`
-The console should now boot to the HackMii installer (If you are using a Wii mini do **not** attempt to install BootMii).
+The console should now boot to the HackMii installer (If you are using a Wii mini do **not** install BootMii).
 
 [Continue to Homebrew Channel and BootMii Installation](hbc)
 {: .notice--info}
 
-If you are using a Wii Mini, you can follow [this guide](ciosmini) to install Leseratte's d2xl cIOS after installing the Homebrew channel.
+If you are using a Wii mini, you can follow [this guide](ciosmini) to install Leseratte's d2xl cIOS after installing the Homebrew channel.
 {: .notice--info}
 
 If you wish to use Wiimmfi on a Wii mini, you have to run the [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip) app made by Fullmetal5. To run it, just unzip it in the `apps` folder in your USB drive and run it from the Homebrew channel. Please note that you will need a USB to LAN adapter as well as a low power USB 2.0 HUB.
