@@ -2,32 +2,32 @@
 title: "str2hax"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Zawartość" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/b4Y7jfD) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.)
 {: .notice--info}
 
-Note that if your ISP or networking environment prevents using custom DNS servers, str2hax will not work and you should [choose another exploit to use](get-started).
+Zauważ, że jeżeli twój dostawca internetu lub urządzenia zarządzające Twoją siecią lokalną blokują użycie niestandardowych serwerów DNS, str2hax nie zadziała. W takim przypadku, [wybierz inny exploit](get-started).
 {: .notice--info}
 
-str2hax is an exploit for the Wii that is triggered by loading the Wii's End User License Agreement. It requires nothing but an Internet connection that lets you change the DNS on your Wii.
+str2hax jest exploitem przeznaczonym dla Wii, który można wykonać poprzez załadowanie ekranu EULA (Umowy licencyjnej użytkownika końcowego). Wymaga to tylko aktywne połączenie Internetowe, które pozwala Ci zmienić adres DNS na Twoim Wii.
 
-#### What you need
+#### Będziesz potrzebował:
 
-* A Wii with an Internet connection on system version 4.3
+* Wii z aktywnym połączeniem Internetowym oraz systemem w wersji 4.3
 
-#### Instructions
+#### Instrukcje
 
-##### Section I - Connecting
+##### Sekcja I - Łączenie
 
-This exploit requires you to set your DNS in order to connect to a server that contains the exploit.
+Ten exploit wymaga od Ciebie zmiany adresu DNS. Pozwoli Ci to połączenie z serwerem, który zawiera exploit.
 
-1. Go to `Wii Options`. ![Wii Options](/images/RiiConnect24/Internet_1.png)
-2. Go to `Wii Settings`. ![Wii Settings](/images/RiiConnect24/Internet_2.png)
-3. Go to `Page 2`, then click on `Internet`. ![Internet](/images/RiiConnect24/Internet_3.png)
-4. Go to `Connection Settings`. ![Connection Settings](/images/RiiConnect24/Internet_4.png)
-5. Select your current connection. ![Current Connection](/images/RiiConnect24/Internet_5.png)
-6. Go to `Change Settings`. ![Change Settings](/images/RiiConnect24/Internet_6.png)
+1. Wejdź do `ustawień Wii` ![Wii Options](/images/RiiConnect24/Internet_1.png)
+2. Przejdź do `Wii Settings` ![Wii Settings](/images/RiiConnect24/Internet_2.png)
+3. Przejdź do `drugiej strony`, oraz wybierz `Internet`. ![Internet](/images/RiiConnect24/Internet_3.png)
+4. Przejdź do `Connection Settings`. ![Connection Settings](/images/RiiConnect24/Internet_4.png)
+5. Wybierz twoje obecne połączenie. ![Current Connection](/images/RiiConnect24/Internet_5.png)
+6. Przejdź do `Change Settings`. ![Change Settings](/images/RiiConnect24/Internet_6.png)
 7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`. ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
 8. Type in `97.74.103.14` as the primary DNS.
 9. Type in `173.201.71.14` as the secondary DNS.
