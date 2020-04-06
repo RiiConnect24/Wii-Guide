@@ -15,6 +15,8 @@ One of BootMii's most important features is the ability to backup and restore yo
 * An SD card with at least 512MB of free space
 
 #### Instructions
+If you installed BootMii as Boot2 in the last step, you will need to launch BootMii by restarting the console. Skip steps 1-2 if this is the case.
+{: .notice--info}
 1. Launch the Homebrew Channel.
 2. Press the HOME Button, then select "Launch BootMii".
    - Navigating BootMii is not possible using a Wii remote. You'd have to either use the buttons on your Wii console or a GameCube controller plugged into port 1. To navigate between options, press POWER on your Wii (or the right +Control Pad button on a GameCube controller). Keep in mind that when using the wii buttons, you can only navigate right but when attempting to go past the last entry, it'll warp you to the first one. This is not a limitation on GameCube Controllers; You can navigate left and right. To select an option, hit RESET on your Wii or A on your GameCube controller.
