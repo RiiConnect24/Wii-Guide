@@ -16,7 +16,7 @@ Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem
 Es gibt verschiedene Möglichkeiten, sich zu Wiimmfi zu verbinden.
 
 ### Homebrew (Disc) Patcher
-MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
+MrBean35000vr (Ersteller von CTGP-R, einem Mario Kart Wii Content Pack) hat einen Wiimmfi Disc Patcher erstellt, der es dir ermöglicht eine Disc zu patchen. Es muss allerdings jedes mal ausgeführt werden wenn du eine Disc startest.
 
 #### Was du benötigst
 * Eine SD-Karte oder ein USB-Laufwerk
@@ -24,13 +24,13 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 
 #### Anleitung
 
-1. Extract Auto Wiimmfi Patcher and put it in the `apps` folder on your SD card or USB drive.
-2. Insert your SD Card into your Wii, and launch Auto Wiimmfi Patcher from the Homebrew Channel.
-3. Insert your game disc (you can insert it before or after launch, it doesn't matter).
-4. Wait for patch to complete, and it'll begin!
+1. Entpacke den Auto Wiimmfi Patcher und verschiebe ihn in den `apps` Ordner deiner SD-Karte bzw. USB-Laufwerks.
+2. Verbinde deine SD-Karte in deine Wii und führe den Auto Wiimmfi Patcher im Homebrew-Kanal aus.
+3. Schiebe deine Spiel Disc in deine Wii (Du kannst das vor oder nach dem Start machen).
+4. Warte, bis der Patch sich beendet, und lass es beginnen!
 
-### No-Homebrew (Disc)
-Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
+### Kein Homebrew (Disc)
+Dank Fullmetal5's str2hax Eploit, welchen Leseratte für den Wiimmfi Patcher adaptiert hat kannst du den Wiimmfi Patch ohne Homebrew auf deiner Wii ausführen.
 
 #### Was du benötigst
 * Eine Wii mit Internetverbindung
