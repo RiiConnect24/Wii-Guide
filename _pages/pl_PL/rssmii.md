@@ -48,8 +48,8 @@ Zastąp część z "name" nazwą wpisu feed, którego chcesz dodać. Upewnij si�
 
 Zapisz feed, który zrobiłeś na głównym folderze w Twojej karcie SD.
 3. Uruchom RSSMii korzystając z Homebrew Channel.
-4. Press A to confirm you want to subscribe to the feeds. Ignore the error about ES_GetTitleID, everything is fine.
-5. Once everything is done, press HOME to go back to the Homebrew Channel. You should soon get RSS feed updates on your Wii, enjoy!
+4. Naciśnij A aby potwierdzić, że chcesz zasubskrybować feedy. Zignoruj błąd o ES_GetTitleID, wszystko jest OK.
+5. Kiedy wszystko zostanie zakończone, naciśnij przycisk HOME aby powrócić do Homebrew Channel. Wkrótce, powinieneś otrzymać wiadomości z Twoich subskrypcji RSS. Miłego czytania!
 
 Not getting any feed updates? Try an RSS feed that updates more frequently, like a feed with news for example. If the RSS feed doesn't update often, then you won't get many updates.
 {: .notice--warning}
