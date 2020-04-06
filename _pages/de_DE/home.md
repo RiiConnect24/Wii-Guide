@@ -28,12 +28,12 @@ Das Ausführen von Homebrew auf deiner Nintendo Wii ist Kostenlos und wird mit d
 
 Hier ist eine Liste mit Dingen, die du damit machen kannst. Zwar sind das nicht alle Dinge, die du mit Homebrew machen kannst, es sollte dir aber eine guten Überblick darüber verschaffen, was du machen kannst. Unsere Anleitung wird dir helfen leicht anzufangen.
 
-- Patch game disc contents (allowing you to load game modifications) using [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
-- Install themes to your Wii Menu using [MyMenuify](/themes).
-- Install a USB Loader like [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) or [USB Loader GX](/usbloadergx) to launch all your favorite titles from a USB storage device and more.
-- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](/dump-wads)
-- Back up and restore your save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
-- Download new homebrew apps with the [Homebrew Browser](/hbb)
+- Patche Spiele-Disc-Inhalte (was dir erlaubt Spiele Modifikationen zu laden) mit [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
+- Bearbeite und gestalte dein Wii-Menü mithilfe von [MyMenuify](/themes).
+- Installiere einen USB Loader wie [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) oder [USB Loader GX](/usbloadergx) um all deine Lieblings Spiele von einem USB-Speichergerät zu starten und mehr.
+- Sichere deine Discs mit [CleanRip](/dump-games) und installierte Spiele mit [YABDM](/dump-wads)
+- Sichere deine Speicherdateien mit [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
+- Downloade neue Homebrew Apps mit dem [Homebrew Browser](/hbb)
 - Stelle eingestellte Online-Dienste wieder her, wie [WiiConnect24](/riiconnect24) & die [Nintendo WFC Dienste](/wiimmfi).
 - Sichere und Benutze Kopien des Speichers deiner Wii (NAND) mit [BootMii](http://bootmii.org).
 - Schütze deine Wii vor Bricks mit [Priiloader](/priiloader) und BootMii.
