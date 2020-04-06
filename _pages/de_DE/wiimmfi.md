@@ -9,13 +9,13 @@ Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem
 
 ![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
 
-[Wiimmfi](https://wiimmfi.de) is a replacement service for the now-defunct Nintendo Wi-Fi Connection. Es wurde entwickelt von Wiimm und Leseratte.
+[Wiimmfi](https://wiimmfi.de) ist ein Ersatz zu der jetzt defekten Nintendo Wi-Fi Connection. Es wurde entwickelt von Wiimm und Leseratte.
 
-## Different patchers
+## Verschiedene Patcher
 
 Es gibt verschiedene Möglichkeiten, sich zu Wiimmfi zu verbinden.
 
-### Homebrew (Disc) Application
+### Homebrew (Disc) Patcher
 MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
 
 #### Was du benötigst
