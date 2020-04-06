@@ -33,7 +33,7 @@ This exploit will not work on a Wii U's vWii. Please follow [this guide instead]
 1. Download the HackMii installer from [the BootMii website](https://bootmii.org/download/).
 1. Unpack it and place the `boot.elf` file in your flash drive.
 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright).
-1. Turn on your console and navigate to the settings menu. On the top right corner you should see a 4-digit code like the one in the picture below. This code is your System Menu version, take a note of this as you will need it later. Afterwards, tun your console off.
+1. Turn on your console and navigate to the settings menu. On the top right corner you should see a 4-digit code like the one in the picture below. This code is your System Menu version, take a note of this as you will need it later. Afterwards, turn your console off.
 ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Start the Linux Operating System. If you do not have it installed on your computer, you can temporarily install and boot it from a flash drive (not the one used for the HackMii installer) You can follow [this guide](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) to create the bootable USB drive. Note that it will not make any permanent changes to your computer unless you select the installation option. As an ISO, provide  the ISO linked in Section I that fits your configuration.
 1. Open the Linux Terminal by pressing `Ctrl + Shift + T` or by opening it from the app menu and run these commands:
