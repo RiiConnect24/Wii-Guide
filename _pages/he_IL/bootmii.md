@@ -15,6 +15,8 @@ title: "גיבוי BootMii"
 * כרטיס SD עם לפחות 512MB זכרון פנוי
 
 #### הוראות
+If you installed BootMii as Boot2 in the last step, you will need to launch BootMii by restarting the console. Skip steps 1-2 if this is the case.
+{: .notice--info}
 1. הפעילו את הHomebrew Channel.
 2. לחצו על הכפתור HOME, ואז בחרו "Launch BootMii".
    - ניווט בBootMii לא אפשרי באמצעות השלט של הWii. תצטרכו להשתמש או בכפתורים על הקונסולה, או בשלט GameCube מחובר לport 1. To navigate between options, press POWER on your Wii (or the right +Control Pad button on a GameCube controller). Keep in mind that when using the wii buttons, you can only navigate right but when attempting to go past the last entry, it'll warp you to the first one. This is not a limitation on GameCube Controllers; You can navigate left and right. To select an option, hit RESET on your Wii or A on your GameCube controller.
