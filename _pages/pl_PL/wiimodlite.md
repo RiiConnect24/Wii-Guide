@@ -20,16 +20,16 @@ Nie zalecamy używania "WAD Manager" stworzonego przez Waninkoko.
 
 ##### Sekcja I - Pobieranie
 
-1. Wypakuj narzędzie Wii Mod Lite oraz skopiuj go do folderu `apps` na Twojej karcie SD lub urządzeniu USB. ![SD card Drag and Drop](/images/WiiModLite/1.gif)
-2. Insert your SD card or USB drive into your Wii, and launch Wii Mod Lite from the Homebrew Channel.
+1. Wypakuj narzędzie Wii Mod Lite oraz skopiuj go do folderu `apps` na Twojej karcie SD lub urządzeniu USB. ![Przeciągnij i upuść na kartę SD](/images/WiiModLite/1.gif)
+2. Podłącz Twoją kartę SD lub urządzenie USB do Twojego Wii oraz uruchom Wii Mod Lite korzystając z Homebrew Channel.
 
-##### Section II - Running
+##### Sekcja II - Instalacja
 
-You use the +Control Pad to use this tool.
+Możesz korzystać z +DPad'u na Twoim kontrolerze by korzystać z tego narzędzia.
 {: .notice--info}
 
-1. Choose `WAD Manager`. ![WAD Manager](/images/WiiModLite/2.png)
-2. Choose `Wii SD Slot`. ![Wii SD Slot](/images/WiiModLite/3.png)
-3. Select the WAD you want to install. In this example, we're installing the patched IOS needed for [RiiConnect24](riiconnect24). You can mark multiple WADs by pressing the + Button. ![Select them](/images/WiiModLite/4.gif)
-4. Press "A" twice to start installing. ![Install](/images/WiiModLite/5.png) ![Install](/images/WiiModLite/6.png)
-5. If `Finishing installation... OK!` is displayed, the WAD has installed successfully. ![Complete](/images/WiiModLite/7.png) 
+1. Wybierz `WAD Manager`. ![WAD Manager](/images/WiiModLite/2.png)
+2. Wybierz `Wii SD Slot`. ![Slot SD konsoli Wii](/images/WiiModLite/3.png)
+3. Wybierz plik WAD, który chcesz zainstalować. W tym przykładzie, instalujemy pliki IOS, które są potrzebne dla [RiiConnect24](riiconnect24). Możesz zaznaczyć wiele plików WAD naciskając przycisk `+`. ![Wybierz je](/images/WiiModLite/4.gif)
+4. Naciśnij "A" podwójnie aby rozpocząć instalację. ![Zainstaluj](/images/WiiModLite/5.png) ![Zainstaluj](/images/WiiModLite/6.png)
+5. Jeżeli zostanie wyświetlone `Finishing installation... OK!`, instalacja pliku WAD przebiegła pomyślnie. ![Ukończone](/images/WiiModLite/7.png) 
