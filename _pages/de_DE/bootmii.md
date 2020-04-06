@@ -15,6 +15,8 @@ Eines von BootMiis wichtigsten Features ist die Möglichkeit, den NAND-Speicher 
 * Eine SD-Karte mit mindestens 512MB freiem Speicher
 
 #### Anleitung
+If you installed BootMii as Boot2 in the last step, you will need to launch BootMii by restarting the console. Skip steps 1-2 if this is the case.
+{: .notice--info}
 1. Starte den Homebrew-Kanal.
 2. Drücke die HOME-Taste und wähle dann "Launch BootMii".
    - BootMii kann nicht mit der Wii-Fernbedienung gesteuert werden. Du musst entweder die Tasten an der Konsole oder einen an Port 1 angeschlossenen GameCube-Controller benutzen. Um zwischen den Optionen zu wechseln, drücke die POWER-Taste an deiner Wii (oder die rechte Steuerkreuztaste auf einem GameCube-Controller). Denk daran, dass wenn du die Wii-Tasten benutzt du nur nach rechts navigieren kannst, du aber wenn du auf dem letzten Eintrag bist, zurück zum ersten Eintrag springst. Diese Einschränkung gibt es auf GameCube-Controllern nicht; Du kannst nach links und nach rechts navigieren. Um eine Option auszuwählen, drücke die RESET-Taste an deiner Wii oder A auf deinem GameCube-Controller.
@@ -27,8 +29,8 @@ Eines von BootMiis wichtigsten Features ist die Möglichkeit, den NAND-Speicher 
 5. Wenn die Sicherung abgeschlossen ist, beende den NAND-Sicherungsbildschirm durch Drücken einer beliebigen Taste.
 6. Um BootMii zu beenden, wähle den Zurück-Eintrag aus (den mit dem Pfeil) und wähle je nachdem entweder den Eintrag für das Wii-Menü oder für den Homebrew-Kanal aus.
 
-Um eine NAND-Sicherung von deiner SD-Karte wiederherzustellen, kannst dieser Anleitung mit dem RestoreMii-Eintrag folgen (der Eintrag direkt neben dem für BackupMii mit dem roten Pfeil).
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
 {: .notice--info}
 
-[Fortfahren mit der Priiloader-Installation](priiloader)<br> Priiloader fügt eine Schutzebene vor Bricks hinzu, was wir empfehlen, insbesondere wenn du BootMii nur als IOS installiert hast.
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it, especially if you only installed BootMii as an IOS.
 {: .notice--info}
