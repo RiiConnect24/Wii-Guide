@@ -2,24 +2,24 @@
 title: "LetterBomb"
 ---
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/b4Y7jfD) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.).
 {: .notice--info}
 
 ![LetterBomb](/images/letterbomb.png)
 
-LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
+LetterBomb jest exploitem przeznaczonym dla Wii, który wykorzystuję dziurę w zabezpieczeniu Wii Message Board.
 
-This exploit is one of many. Check out the [Get Started](/get-started) page for other options.
+Jest to jeden z wielu explitów. Sprawdź [wprowadzenie](/get-started) aby sprawdzić inne opcje.
 {: .notice--info}
 
-#### What you need
-- An SD card
-- A Wii on system version 4.3
-   - This exploit will not work on a Wii Mini or vWii
+#### Będziesz potrzebował:
+- Karta SD
+- Konsola Wii z wersją 4.3 systemu operacyjnego.
+   - Ten exploit nie zadziała na Wii Mini lub vWii
 
-#### Instructions
+#### Instrukcje
 
-1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
+1. W Twoim Wii, przejdź do `ustawień Wii` -&#062 `Internet` -&#062 `Console Information` oraz zapisz Twój adres MAC konsoli.
 2. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure `Bundle the HackMii Installer for me!` is checked*, and cut either wire
    - Whichever wire you choose to cut doesn't matter. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
 3. Extract the contents of the downloaded ZIP to your SD card.
