@@ -79,7 +79,7 @@ Du kannst WiiWare Spiele patchen, damit sie mit Wiimmfi funktionieren.
 Schritte:
 1. Entpacke das ZIP Archiv der neusten Version des Auto WiiWare Patchers, und lege deine WAD Datei hinein.
 2. Starte das Patch Script für dein Betriebssystem: meistens wird es mit `.bat` für Windows und `.sh` für Mac/Linux enden.
-3. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
+3. Wenn es richtig ausgeführt worden ist, dann installiere die WAD Datei, die erstellt wurde in `wiiware-wads` mit Wii Mod Lite.
 
 ## Andere Sachen
 
@@ -97,22 +97,22 @@ Wiimmfi ermöglicht es dir, wieder an Mario Kart Wii-Wettbewerben teilzunehmen.
 
 1. Entpacke den Mario Kart Wii Competition Patcher und verschiebe ihn in den `apps`-Ordner auf deiner SD-Karte.
 2. Verbinde deine SD-Karte bzw. dein USB-Laufwerk mit der Wii.
-3. Launch the original Mario Kart Wii game (not Wiimmfi patched).
-4. Navigate to Settings -> Network Settings (or Nintendo WFC Connection) -> Message Service. If you turned the message service feature on, turn it off and turn it on again.
-5. Launch Mario Kart Wii Competition Patcher.
-6. The patcher will look for save files for Mario Kart Wii on your storage device in various places, and upload them. This is done in case a missing competition is found in your save file. It will also, of course, patch your Wii for competitions.
+3. Starte das originale Mario Kart Wii Spiel (nicht mit Wiimmfi gepatcht).
+4. Navigiere zu Einstellungen -> Netzwerk Einstellungen (oder Nintendo WFC Connection) -> Info-Service. Wenn du die Info-Service Option an hast, dann mache sie aus und dann wieder an.
+5. Starte den Mario Kart Wii Wettbewerbs-Patcher.
+6. Der Patcher wird nach den Speicherdaten für Mario Kart Wii suchen und sie dann hochladen. Dies wird gemacht um festzustellen ob ein fehlender Wettbewerb gefunden wurde in deiner Speicherdatei. Es wird auch, natürlich deine Wii für Wettbewerbe patchen.
 
-If you're using the Wii U, you will have to run the competitions patcher whenever you want to check for a competition, because WiiConnect24 is not enabled on the Wii U.
+Wenn du eine Wii U benutzt, dann musst du den Wettbewerbs Patcher immer ausführen um nach neuen Wettbewerben zu suchen, weil WiiConnect24 nicht auf der Wii U aktiviert ist.
 {: .notice--info}
 
 ### CTGP-R (Mario Kart Wii)
-MrBean35000vr and Chadderz have an amazing CTGP-R distribution, the application that allows you to use a set of custom tracks, has automatic Wiimmfi patching. Go to the [ChadSoft Website](http://chadsoft.co.uk) for the download and instructions.
+MrBean35000vr und Chadderz haben eine tolle CTGP-R distribution, die dir nicht nur Wiimmfi patcht sondern auch viele Custom Tracks in das Spiel hinzufügt. Gehe zu der [Chadsoft Webseite](http://chadsoft.co.uk) für den Download mit Anleitung.
 
 ### MKW Hack Pack (Mario Kart Wii)
-Huili has put together a really good collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. To learn how to set it up, go to the [wiki page](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+Huili hat eine sehr gute Kollektion von Custom Tracks und Hacks. Das Pack heißt MKW Hack Pack und es erlaubt eine Verbindung zu Wiimmfi. Damit du lernst, wie man es aufsetzt geh auf die [Wiki Seite](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
 
 ### Wiimms MKW Fun (Mario Kart Wii)
-Wiimm and Leseratte created a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte and contains a Wiimmfi patch and lots of other features. You can find out more about it on its [wiki page](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
+Wiimm und Leseratte haben eine Custom Track Distribution kreiert die sich "Wiimms MKW Fun" nennt, welche ungefähr drei mal im Jahr aktualisiert wird. Es basiert auf dem LE-Code Framework von Leseratte und enthält einen Wiimmfi Patch und viele andere Features. Du kannst mehr darüber herausfinden auf der [Wiki Seite](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
 
-[Klicke hier! We got many other tutorials that you can check out :)](site-navigation)
+[Klicke hier! Wir haben viele andere Anleitungen die du dir anschauen kannst :)](site-navigation)
 {: .notice--info}
