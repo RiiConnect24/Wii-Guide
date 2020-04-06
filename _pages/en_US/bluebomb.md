@@ -9,7 +9,7 @@ If you need help with anything regarding this tutorial, please join [the Wii min
 
 ![BlueBomb](/images/bluebomb.png)
 
-Bluebomb is an exploit intended for Wii and Wii mini Modding that takes advantage of an exploit in the Bluetooth adapter. It's made by Fullmetal5 and it is the only exploit that works for the Wii mini but it can be used on the original Wii as well. It can be used to recover from certain bricks on the Wii or Wii mini as well, such as a Banner brick.
+Bluebomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Although it is the only exploit that works for the Wii mini, BlueBomb can run on the original Wii as well. This exploit also enables recovery from certain bricks, such as a banner brick.
 
 For the original Wii, we recommend using [another exploit](/get-started) instead if you intend to install the Homebrew Channel and/or BootMii.
 {: .notice--info}
