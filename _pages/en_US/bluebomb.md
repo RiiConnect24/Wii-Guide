@@ -52,8 +52,8 @@ Make sure that the console is close to the computer running the exploit, Ideally
 
 The console should now boot to the HackMii installer. You can now shutdown your Linux computer if you are not planning to use it later.
 
-[Continue to Wii Homebrew Channel and BootMii Installation](hbc)
+[If using a Wii, follow this guide](hbc)
 {: .notice--info}
 
-[Continue to Wii mini Homebrew Channel Installation](hbc-mini)
+[If using a Wii mini, follow this guide](hbc-mini)
 {: .notice--info}
