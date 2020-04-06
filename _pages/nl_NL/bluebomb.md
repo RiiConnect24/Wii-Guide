@@ -58,9 +58,9 @@ The Wii Mini should now boot to the HackMii installer (Do not attempt to install
 {: .notice--info}
 
 ##### Paragraaf II - cIOS Installatie
-cIOS is used for USB Loaders to play backups. Be warned that cIOS is still in the experimental stage.
+cIOS wordt gebruikt door USB Loaders om backups te spelen. Wees extra voorzichtig dat cIOS nog in de experimentele fase zit.
 {: .notice--info}
-This version of cIOS is only for the Wii Mini. If you're on a Wii, please follow the [cIOS guide](/cios).
+Deze versie van cIOS is alleen bedoeld voor de Wii Mini. If you're on a Wii, please follow the [cIOS guide](/cios).
 {: .notice--warning}
 
 1. Download the cIOS File from [here](https://bluebomb.glitch.me/d2xl-cIOS/index.html)
