@@ -30,7 +30,7 @@ Select cIOS base: 56
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
-![Install cIOS 249](/images/Wii/Install249.png)
+![Zainstaluj cIOS 249](/images/Wii/Install249.png)
 1. Kiedy ustawisz tak jak powyżej, naciśnij A podwójnie aby zainstalować.
 1. Kiedy instalacja przebiegnie pomyślnie, naciśnij A aby powrócić i ustaw poniższe opcje:
 ```
@@ -39,7 +39,7 @@ Select cIOS base: 57
 Select cIOS slot: 250
 Select cIOS version: 65535
 ```
-![Install cIOS 250](/images/Wii/Install250.png)
+![Zainstaluj cIOS 250](/images/Wii/Install250.png)
 1. Kiedy ustawisz tak jak powyżej, naciśnij A podwójnie aby zainstalować.
 1. Kiedy instalacja przebiegnie pomyślnie, naciśnij A aby powrócić i ustaw poniższe opcje:
 ```
