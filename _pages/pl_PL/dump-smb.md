@@ -1,39 +1,39 @@
 ---
-title: "Dumping a game over a local network"
+title: "Wykonywanie kopii zapasowej gry poprzez siec lokalną"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Zawartość" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/b4Y7jfD) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.).
 {: .notice--info}
 
-Do you want to dump games through your local network? Follow this tutorial! This can be useful if you don't have an SD card or a USB drive that is large enough to dump a game to.
+Chcesz wykonać kopię zapasową gry przez Twoją sieć lokalną? Skorzystaj z tego poradnika! Może być to użyteczne jeżeli nie masz karty SD lub urządzenie USB, z którego korzystasz nie ma wystarczającej ilości miejsca aby zrzucić grę.
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![Logo RiiConnect24](/images/WiiRC24Logo.jpg)
 
-#### What you need
+#### Będziesz potrzebował
 
-* A Wii.
-* [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
+* Konsola Wii.
+* [Narzędzie DVD Dump](/assets/files/DVDDumpTool.zip)
 
-Your Wii and your computer must be connected to one local network
+Twoje Wii oraz Twój komputer muszą być podłączone do jednej sieci lokalnej
 {: .notice--warning}
 
-#### Instructions
+#### Instrukcje
 
-##### Section I - Downloading/Installing
+##### Sekcja I - Pobieranie/Instalowanie
 
-1. Extract DVD Dump Tool and put it in the `apps` folder on your SD card or USB drive.
-1. Insert your SD card into your Wii, and launch DVD Dump Tool from the Homebrew Channel.
+1. Wypakuj narzędzie DVD Dump (DVD Dump Tool) oraz skopiuj go do folderu `apps` na Twojej karcie SD lub urządzeniu USB.
+1. Podłącz Twoją kartę SD lub urządzenie USB do Twojego Wii oraz uruchom DVD Dump Tool korzystając z Homebrew Channel.
 
-##### Section II - Ripping
+##### Sekcja II - Wykonywanie kopii zapasowej
 
-1. Press the right button on the d-pad and press "A" ![2](/images/DumpDiscs_LAN/2.png)
-1. Choose the disc that you want to copy (The options are: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` and press "A" ![3](/images/DumpDiscs_LAN/3.png)
-1. Now put your game to your Wii. (If it's already in your wii, eject it and put it back) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
-1. Remember your Wii URL (IP address) ![5](/images/DumpDiscs_LAN/5.png)
-1. On your computer in your web browser, type in the Wii URL and hit ENTER. ![6](/images/DumpDiscs_LAN/6.png)
-1. You should see this. Click on `Click here to download XXXX.iso` ![7](/images/DumpDiscs_LAN/7.jpg)
-1. The transfer speed is not the fastest, but if you can't use anything else, it's better than nothing.
+1. Naciśnij `prawo` na D-Padzie na kontrolerze oraz naciśnij `A` ![2](/images/DumpDiscs_LAN/2.png)
+1. Wybierz typ płyty której wykonujesz kopię zapasową (opcje to: `GameCube Disc (Płyta GameCube)`, `Wii Single-Layer Disc (Płyta Wii jednowarstwowa)`, `Wii Dual-Layer Disc (Płyta Wii dwuwarstwowa)` i naciśnij `A` ![3](/images/DumpDiscs_LAN/3.png)
+1. Teraz, włóż płytę z grą do Twojego Wii. (Jeżeli gra już jest w Wii, wysuń ją i włóż spowrotem) ![Włóż Płytę](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
+1. Zapamiętaj adres Twojego Wii (Adres IP) ![5](/images/DumpDiscs_LAN/5.png)
+1. W przeglądarce Internetowej na Twoim komputerze, w adres strony wpisz URL / Adres IP Twojego Wii oraz naciśnij ENTER. ![6](/images/DumpDiscs_LAN/6.png)
+1. Powinieneś/Powinnaś zobaczyć to. Naciśnij na `Click here to download XXXX.iso` (Naciśnij tutaj, żeby pobrać plik XXXX.iso) ![7](/images/DumpDiscs_LAN/7.jpg)
+1. Prędkość przesyłania nie jest najszybsza ale jeżeli nie możesz użyć karty SD lub urządzenia USB, lepsze to niż nic.
 
 ![8](/images/DumpDiscs_LAN/8.PNG)
