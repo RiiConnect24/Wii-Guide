@@ -8,7 +8,7 @@ Diese Anleitung wird dir zeigen, wie du cIOS (custom IOS) installieren kannst. D
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-If you have a Wii mini, Install [this cIOS](ciosmini) instead. Attempting to install any other cIOS on a Wii mini may **brick your console!!**
+Wenn du eine Wii Mini besitzt, Installiere [dieses cIOS](ciosmini). Wenn du versuchst ein anderes cIOS als dieses auf deiner Wii Mini zu installieren dann könnte dies **deine Konsole bricken!!**
 {: .notice--info}
 
 #### Was du benötigst
@@ -55,11 +55,11 @@ Select cIOS version: 65535
 
 ##### Möglichkeiten nach Abschluss
 
-You can now use homebrew such as [USB Loader GX](usbloadergx).
+Du kannst nun Homebrew wie [USB Loader GX](usbloadergx) verwenden.
 {: .notice--info}
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
+[Fortfahren zum Homebrew Browser](hbb)<br> Der Homebrew Browser ist ein guter Ort um Homebrew für deine Wii zu bekommen. Dies ist optionell.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Fortfahren zur Seiten Navigation](site-navigation)<br> Wir haben andere Anleitungen haben die sie vielleicht mögen könnten.
 {: .notice--info}
