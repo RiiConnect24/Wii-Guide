@@ -18,7 +18,7 @@ Du brauchst eine SD-Karte mit mindestens 128MB um Exploits auszuführen.
 
 Um Homebrew-Anwendungen zu speichern, empfehlen wir eine SD-Karte mit mindestens 2GB.
 
-### I got error XXXXXX in Wiimmfi, how to fix it?
+### Ich erhalte den Fehler XXXXXX in Wiimmfi, wie behebe ich ihn?
 Um festzustellen was der Fehler bedeutet, besuche die [Wiimmfi-Fehlerseite](https://wiimmfi.de/error).
 
 ### Welche Einschränkungen gibt es beim Modden der vWii?
