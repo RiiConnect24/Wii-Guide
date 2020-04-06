@@ -14,8 +14,6 @@ Bluebomb is an exploit intended for Wii and Wii mini Modding that takes advantag
 For the original Wii, we recommend using [another exploit](/get-started) instead if you intend to install the Homebrew Channel and/or BootMii.
 {: .notice--info}
 
-BootMii can't be installed on the Wii mini yet. Please do **not** attempt to install it. We don't take any responsibility for bricking your console.
-{: .notice--warning}
 This exploit will not work on a Wii U's vWii. Please follow [this guide instead](https://wiiuguide.xyz/#/vwii/).
 {: .notice--warning}
 
@@ -23,7 +21,7 @@ This exploit will not work on a Wii U's vWii. Please follow [this guide instead]
 - A Linux machine
   - If you are using a Chromebook, you do not need to install another Operating System. You can enable [Linux in ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en)
   - If you have a Raspberry Pi, you can use that instead as it most likely has Linux preinstalled.
-  - Using Windows Subsystem for Linux will not work, due to the inability to access `bluetoothctl`.
+  - Using Windows Subsystem for Linux will **not** work, due to the inability to access `systemctl`.
   - If you do not have Linux, Ubuntu is the most user-friendly option
     - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/)
     - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well You can download both from the [Ubuntu website](https://ubuntu.com/download/desktop).
@@ -36,28 +34,26 @@ This exploit will not work on a Wii U's vWii. Please follow [this guide instead]
 1. Unpack it and place the `boot.elf` file in your flash drive.
 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright).
 1. Turn on your console and navigate to the settings menu. On the top right corner you should see a 4-digit code like the one in the picture below. This code is your System Menu version, take a note of this as you will need it later. Afterwards, tun your console off.
-
 ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
-
 1. Start the Linux Operating System. If you do not have it installed on your computer, you can temporarily install and boot it from a flash drive (not the one used for the HackMii installer) You can follow [this guide](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) to create the bootable USB drive. Note that it will not make any permanent changes to your computer unless you select the installation option. As an ISO, provide  the ISO linked in Section I that fits your configuration.
 1. Open the Linux Terminal by pressing `Ctrl + Shift + T` or by opening it from the app menu and run these commands:
-```
-wget https://raw.githubusercontent.com/RiiConnect24/Wii-Guide/master/assets/files/bluebomb-helper.sh
-chmod +x bluebomb-helper.sh
-./bluebomb-helper.sh
-```
+`wget https://raw.githubusercontent.com/RiiConnect24/Wii-Guide/master/assets/files/bluebomb-helper.sh`
+`chmod +x bluebomb-helper.sh`
+`./bluebomb-helper.sh`
 1. The helper will then download the required files, and ask for information about your console.
-  - If you have selected a Wii mini you will be asked to provide your region. This can be found in the original packaging, the bottom of the console (RVL-201(EUR) for PAL or RVL-201(USA) for NTSC models) or can be determined by the last digit of
-Make sure that the console is close to the computer running the exploit, Ideally it should be less than 3 feet.
-{: .notice--info}
+  - If you have selected a Wii mini you will be asked to provide your region. This can be found in the original packaging, the bottom of the console (RVL-201(EUR) for PAL or RVL-201(USA) for NTSC models) or can be determined by the last digit of the System Menu version (U for NTSC and E for PAL models).
   - If you have selected a Wii you will be asked to provide your System Menu Version that you took note of before.
-
 1. Turn on your console and **do not** connect any Wiimotes.
 1. Press the Sync button repeatedly until the terminal shows `got connection handle`
 The console should now boot to the HackMii installer.
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+Make sure that the console is close to the computer running the exploit, Ideally it should be less than 3 feet.
 {: .notice--info}
 
-If you are using a Wii mini, follow [this guide](hbc-mini) to install the Homebrew channel instead
+The console should now boot to the HackMii installer. You can now shutdown your Linux computer if you are not planning to use it later.
+
+[Continue to Wii Homebrew Channel and BootMii Installation](hbc)
+{: .notice--info}
+
+[Continue to Wii mini Homebrew Channel Installation](hbc-mini)
 {: .notice--info}

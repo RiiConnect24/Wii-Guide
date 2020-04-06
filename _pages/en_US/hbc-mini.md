@@ -12,8 +12,8 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 The Homebrew Channel is where you will go to launch homebrew applications.
 
 #### Instructions
-This page is only intended for users of the Wii mini. If you have a regular Wii, follow [this guide](hbc) instead.
-{: .notice--warning} 
+This page is **only** intended for users of the Wii mini. If you have a regular Wii, follow [this guide](hbc) instead.
+{: .notice--info}
 
 While it is possible to install BootMii on a Wii mini, you will not be able to utilize it unless you have soldered on an SD card slot.
 {: .notice--info}
@@ -21,16 +21,16 @@ While it is possible to install BootMii on a Wii mini, you will not be able to u
 1. You will see a scam warning screen. Wait 30 seconds for the text "Press 1 to continue" to appear, then press 1.
 ![Scam Screen](/images/Wii/ScamScreen.png)
 
-1. When at the HackMii installer, you are able to install the Homebrew Channel.
+1. When at the HackMii installer, you are only able to install the Homebrew Channel.
 ![Results](/images/Wii/Results.png)
 
-1. Press Continue, then select the Homebrew Channel, and press install.
+1. Press Continue, then select Install The Homebrew Channel, and press install.
 ![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
 1. Press Continue when finished.
 ![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
 
 
-1. Once done, select `Continue` to exit the HackMii installer.
+1. Once done, select `Exit` to exit the HackMii installer.
 
-[Continue to installing cios](ciosmini)
+[Continue to installing Wii mini cios](cios-mini)
