@@ -61,6 +61,3 @@ The console should now boot to the HackMii installer.
 
 If you are using a Wii mini, follow [this guide](hbc-mini) to install the Homebrew channel instead
 {: .notice--info}
-
-If you wish to use Wiimmfi on a Wii mini, you have to run the [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip) app made by Fullmetal5. To run it, just unzip it in the `apps` folder in your USB drive and run it from the Homebrew channel. Please note that you will need a USB to LAN adapter as well as a low power USB 2.0 HUB.
-{: .notice--info}

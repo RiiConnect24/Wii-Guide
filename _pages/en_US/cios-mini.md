@@ -11,7 +11,7 @@ This tutorial will tell you how to install Leseratte's d2xl Wii mini cIOS (custo
 If you have a Wii, Install [this cIOS](cios) instead. Attempting to install this cIOS on a Wii may **brick your console!!**
 {: .notice--warning}
 
-This d2x cIOS installer was been originally developed for the Wii U's vWii by DaveBaol and custom cIOS was created by Leseratte for the Wii mini. The original download page can be found [here](https://wii.leseratte10.de/d2xl-cIOS/). Github page can be found [here](https://github.com/Leseratte10/d2xl-cios). Please note that this cIOS is still experimental, though no problem with functionality has been reported.
+This d2x cIOS installer was originally developed for the Wii U's vWii by DaveBaol and custom cIOS was created by Leseratte for the Wii mini. The original download page can be found [here](https://wii.leseratte10.de/d2xl-cIOS/). Github page can be found [here](https://github.com/Leseratte10/d2xl-cios). Please note that this cIOS is still experimental, though no problem with functionality has been reported.
 {: .notice--info}
 
 #### What you need
@@ -41,7 +41,8 @@ Take a note of the version number (either v31776 or v31775)
   - If the install fails with a `TMD version mismatch` error, move the dpad left or right in the `Select cIOS` option until the version number is different than the one you tried before.
 
 
-##### Options once complete
+##### Enabling Ethernet
+If you wish to use Ethernet on a Wii mini, you have to run the [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip) app made by Fullmetal5. To run it, just unzip it in the `apps` folder in your USB drive and run it from the Homebrew Channel.
 
 You can now use homebrew such as [USB Loader GX](usbloadergx).
 {: .notice--info}
