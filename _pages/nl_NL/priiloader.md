@@ -27,16 +27,16 @@ Instaleer Priiloader **niet** op een vWii (Wiiu in Wii modus). Dat zal resultere
 ##### Deel II - Het installeren van Priiloader
 
 1. Open het Homebrew Kanaal op uw Wii.
-2. Open Priiloader. ![Priiloader vinden](/images/Priiloader/1.jpg)
-3. Druk de + knop in op uw Wii-afstandsbediening of de A knop op een GameCube controller. ![Priiloader installeren](/images/Priiloader/2.jpg) ![Installeren](/images/Priiloader/3.jpg)
+2. Launch Priiloader.
+3. Press the + Button on Wii Remote or the A Button on a GameCube controller. ![Install Priiloader](/images/Priiloader/2.png) ![Installing](/images/Priiloader/3.png)
 
 ##### Deel III - Openen en het Configureren van Priiloader
 
 1. Houd de RESET knop ingedrukt terwijl u uw Wii aanzet. ![Aan zetten](/images/Priiloader/5.jpg) ![Houd RESET ingedrukt](/images/Priiloader/4.jpg)
 
-2. U zou nou het Priiloader menu moeten zien. ![Menu](/images/Priiloader/6.jpg)
+2. U zou nou het Priiloader menu moeten zien. ![Menu](/images/Priiloader/6.png)
 3. Ga naar `System Menu Hacks`.
-4. Wij adviseren u om deze hacks aan te zetten: `Region Free EVERYTHING`, `Block Disc Updates` en `Block Online Updates`. ![Systeem Menu Hacks](/images/Priiloader/7.jpg)
+4. Wij adviseren u om deze hacks aan te zetten: `Region Free EVERYTHING`, `Block Disc Updates` en `Block Online Updates`. ![Systeem Menu Hacks](/images/Priiloader/7.png)
 
 ## Systeem Menu Hacks Lijst
 
