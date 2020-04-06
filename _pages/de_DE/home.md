@@ -16,11 +16,11 @@ Die Anleitung ist auch in anderen Sprachen verfügbar! Um die Sprache zu ändern
 
 ## Was ist Wii Guide?
 
-Wii Guide is a guide maintained by [RiiConnect24](https://rc24.xyz) to get you started with Wii modding.
+Wii Guide ist eine Anleitung von [RiiConnect24](https://rc24.xyz) die dich mit Wii Modding vertraut machen soll.
 
 ## Was ist "Homebrew"?
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to unofficial software including games, utilities, emulators and others.
+[**Der Begriff Homebrew**](https://de.wikipedia.org/wiki/Homebrew) bezeichnet meistens von Privatpersonen erstellte Software für Konsolen sowie Handheld-Systeme, die vom Hersteller nicht zur Ausführung selbst erstellter Programme gedacht sind.
 
 Running homebrew on your Nintendo Wii is free using various exploits.
 
