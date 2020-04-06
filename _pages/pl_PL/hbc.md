@@ -1,31 +1,31 @@
 ---
-title: "Homebrew Channel and BootMii Installation"
+title: "Przejdź do instalacji Homebrew Channel oraz BootMii"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Zawartość" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/b4Y7jfD) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.)
 {: .notice--info}
 
-![HBC Logo](/images/hbc.png)
+![Logo HBC](/images/hbc.png)
 
-The Homebrew Channel is where you will go to launch homebrew applications. BootMii is a piece of software that can backup and restore your Wii's NAND storage, and if installed in boot2, provides brick protection.
+Homebrew Channel jest miejscem, w którym możesz uruchamiać programy homebrew. BootMii jest programem dzięki któremu możesz wykonywać kopię zapasową oraz przywracać pamięć NAND Twojej Wii. Jeżeli BootMii jest zainstalowane jako boot2, zapewnia to całkowitą ochronę przed brickami.
 
-#### Instructions
+#### Instrukcje
 
-1. You will see a scam warning screen. Wait 30 seconds for the text "Press 1 to continue" to appear, then press 1. ![Scam Screen](/images/Wii/ScamScreen.png)
+1. Zobaczysz ekran, który ostrzega przed oszustwami. Poczekaj 30 sekund na pojawienie się tekstu "Press 1 to continue" oraz naciśnij 1. ![Ekran z informacją o oszustwach](/images/Wii/ScamScreen.png)
 
-2. When at the HackMii installer, you are able to install the Homebrew Channel and BootMii. ![Results](/images/Wii/Results.png)
+2. Kiedy jesteś w instalatorze HackMii, możesz zainstalować Homebrew Channel oraz BootMii. ![Wyniki](/images/Wii/Results.png)
 
-3. Press Continue, then select the Homebrew Channel, and press install. ![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
+3. Naciśnij kontynuuj oraz wybierz Homebrew Channel, następnie wybierz "Install". ![Zainstaluj Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
-4. Press Continue when finished. ![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
+4. Po ukończeniu, naciśnij na "Continue". ![Sukces podczas instalacji Homebrew Channel](/images/Wii/SuccessHBC.png)
 
-5. Once installed, press back and go to BootMii.
-6. If the main screen says you can install as boot2, do so. This gives you a level of brick protection that loads as part of the Wii's boot process, and lets you load homebrew to fix the brick or restore from a NAND backup.
-7. If it does not say you can install as boot2, install as IOS. While this doesn't give you brick protection compared to its boot2 counterpart, it will still allow you to make a NAND backup. ![BootMii Installation](/images/Wii/InstallBootMii.jpg)
+5. Po zainstalowaniu, naciśnij "Back" oraz przejdź do "BootMii".
+6. Jeżeli na ekranie wyświetli się informacja o możliwości zainstalowania jako boot2, zrób to. Daje Ci to poziom zabezpieczenia przed brickiem, który ładuje się jako część procesu bootowania Wii. Pozwala Ci to załadować homebrew aby naprawić brick lub przywrócić kopię zapasową pamięci NAND.
+7. Jeżeli na ekranie wyświetli się informacja o braku możliwości zainstalowania jako boot2, zainstaluj jako IOS. Nie daje Ci to całkowitej ochrony przed brickiem, tak jak instalacja jako boot2. Umożliwi Ci to dalej stworzenie kopii zapasowej pamięci NAND. ![Instalacja BootMii](/images/Wii/InstallBootMii.jpg)
 
-8. Once done, select `Continue` to exit the HackMii installer.
+8. Kiedy instalacja zostanie ukończona, wybierz `Continue` aby wyjść z instalatora HackMii.
 
-[Continue to BootMii Backup](bootmii)<br> Making a NAND backup with BootMii at this point is recommended.
+[Kontynuuj do wykonywania kopii zapasowej korzystając z BootMii](bootmii)</br>. Zalecamy teraz wykonanie kopii zapasowej pamięci NAND.
 {: .notice--info}
