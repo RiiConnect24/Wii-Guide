@@ -48,15 +48,15 @@ sitemap: false
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 
-**Wii mini**
-+ [Installing The Homebrew Channel on the Wii mini](hbc-mini)
-+ [Installing cIOS on the Wii mini](cios-mini)
+**Wii Mini**
++ [Instalowanie Homebrew Channel na Wii Mini](hbc-mini)
++ [Instalowanie cIOS na Wii Mini](cios-mini)
 
 
-**Site**
-+ [Home](/)
-+ [Get Started](get-started)
-+ [FAQ](faq)
-+ [Donations](donations)
+**Strona**
++ [Strona główna](/)
++ [Wprowadzenie](get-started)
++ [Często zadawane pytania](faq)
++ [Datki](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
