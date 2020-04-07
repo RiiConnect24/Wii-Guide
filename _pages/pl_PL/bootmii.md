@@ -15,7 +15,7 @@ Jedną z najważniejszych funkcji BootMii jest możliwość wykonania kopii zapa
 * Karta pamięci SD z przynajmniej 512MB wolnej przestrzeni.
 
 #### Instrukcje
-If you installed BootMii as Boot2 in the last step, you will need to launch BootMii by restarting the console. Skip steps 1-2 if this is the case.
+Jeżeli w ostatnim kroku zainstalowałeś BootMii jako boot2, musisz uruchomić BootMii poprzez zrestartowanie Twojej konsoli. W tym przypadku, pomiń krok 1 oraz 2.
 {: .notice--info}
 1. Uruchom Homebrew Channel.
 2. Naciśnij przycisk HOME oraz wybierz "Launch BootMii".
@@ -29,8 +29,8 @@ If you installed BootMii as Boot2 in the last step, you will need to launch Boot
 5. Po zakończeniu wykonywania kopii zapasowej, wyjdź z ekranu kopii zapasowej NAND poprzez naciśnięcie dowolnego przycisku.
 6. Aby wyjść z BootMii, wybierz ikonę cofania się (ze strzałką) oraz wybierz opcję Wii Menu lub Homebrew Channel aby wrócić tam gdzie chcesz.
 
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
+Aby przywrócić kopię zapasową z Twojej karty pamięci SD, podążaj za instrukcjami, które są podane w RestoreMii (ikona przy BackupMii z czerwoną strzałką).
 {: .notice--info}
 
-[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it, especially if you only installed BootMii as an IOS.
+[Kontynuuj do instalacji Priiloader'a](priiloader)<br>. Priiloader jest jednym z zabezpieczeń przed brickiem, zalecamy instalację tego programu, szczególnie jeśli zainstalowałes BootMii tylko jako IOS.
 {: .notice--info}
