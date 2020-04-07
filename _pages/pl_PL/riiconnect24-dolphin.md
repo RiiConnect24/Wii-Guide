@@ -2,56 +2,56 @@
 title: "RiiConnect24"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Zawartość" %}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![Logo RiiConnect24](/images/WiiRC24Logo.jpg)
 
-This guide will help you install RiiConnect24 on your Dolphin installation.
+Ten poradnik pomoże Ci zainstalować RiiConnect24 na Twoim Dolphin'ie.
 
-If you need help for anything regarding this tutorial, please directly contact KcrPL#4625 on Discord, join the [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, napisz bezpośrednio do KcrPL#4625 (po Polsku) lub dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/b4Y7jfD) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.).
 {: .notice--info}
 
-### What you need
-* A computer with Windows 7 or newer.
+### Czego będziesz potrzebował
+* Komputer z Windowsem 7 lub nowszym.
 * [.VFF-File-Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
 * [Dolphin](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-#### Instructions
+#### Instrukcje
 
-##### Section I - Installing Dolphin
+##### Sekcja I - Instalacja Dolphin
 
-If you have Dolphin already installed, skip to Section II
+Jeżeli już zainstalowałeś Dolphin'a, przejdź do sekcji drugiej.
 {: .notice--info}
 
-1. Download the latest Dolphin development version.
-2. Extract the .7z file using a program like 7Zip or WinRAR.
-3. Start Dolphin
-4. Press on `Tools` -> `Perform Online System Update` -> Choose your region ![Perform Online System Update](/images/Dolphin_RC24/1.jpg)
+1. Pobierz najnowszą wersję deweloperską Dolphin'a.
+2. Wypakuj plik .7z programem takim jak 7Zip lub WinRAR.
+3. Uruchom Dolphin'a
+4. Naciśnij na `Tools` -> `Perform Online System Update` -> Wybierz swój region ![Perform Online System Update](/images/Dolphin_RC24/1.jpg)
 
-##### Section II - Installing RiiConnect24.
+##### Sekcja II - Instalowanie RiiConnect24.
 
-1. Run Install.bat that you downloaded [here](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
-2. Press `1` and `ENTER` to start the program. ![Main Menu](/images/Dolphin_RC24/2.jpg)
-3. Proceed with the program configuration.
-4. It will ask you if you want to run the program manually every time you want to use RiiConnect24 on Dolphin or if you want to run it automatically on startup. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
+1. Uruchom Install.bat, który pobrałeś [stąd](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases).
+2. Naciśnij `1` oraz naciśnij `ENTER` aby uruchomić program. ![Główne menu](/images/Dolphin_RC24/2.jpg)
+3. Przejdź do konfiguracji programu.
+4. Program się Ciebie zapyta czy chcesz go uruchamiać za każdym razem kiedy chcesz skorzystać z RiiConnect24 lub czy chcesz automatycznie uruchomić program w tle po włączeniu komputera. ![Wybierz jak uruchomić program](/images/Dolphin_RC24/3.jpg)
 
-![Run once](/images/Dolphin_RC24/4.jpg)
+![Uruchom jeden raz](/images/Dolphin_RC24/4.jpg)
 
-If you choose to manually run it, keep Install.bat. There will be an option in menu to manually run it.
+Jeżeli wybierzesz, żeby manualnie uruchamiać program, zachowaj Install.bat. W głównym menu będzie opcja pozwalająca na jednorazowe uruchomienie programu.
 {: .notice--info}
 
-If you choose to run it on startup, you don't have to do anything. If you want to uninstall it in the future, come back to Install.bat and choose 4th option - Manage startup VFF Downloader.
+Jeżeli wybierzesz opcję, żeby uruchomić podczas włączania komputera, nie musisz nic robić. Jeżeli będziesz chciał odinstalować program w przyszłości, uruchom Install.bat oraz wybierz czwartą opcje - Manage startup VFF Downloader.
 {: .notice--info}
 
-##### Section III - Finalizing installation
+##### Sekcja III - Kończenie instalacji
 
-1. Run RiiConnect24Patcher.bat that you downloaded [here](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
-2. Start the patcher, select `Install RiiConnect24`. ![Select Custom](/images/Dolphin_RC24/5.jpg)
-3. Select `Custom`. ![Select Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
-4. Press `1` to select your region and only enable 5th option. Press `6` to start patching.
-5. After it's done, there will a be a `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` file in WAD folder next to RiiConnect24Patcher.bat
-6. In Dolphin, press `Tools` and then `Install WAD`. and select the `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
+1. Uruchom RiiConnect24Patcher.bat, który pobrałeś [stąd](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+2. Uruchom program oraz wybierz `Install RiiConnect24`. ![Wybierz "Custom"](/images/Dolphin_RC24/5.jpg)
+3. Wybierz `Custom`. ![Wybierz "Check Mii Out Channel"](/images/Dolphin_RC24/6.jpg)
+4. Wybierz `1` oraz wybierz Twój region i tylko włącz piątą opcję. Naciśnij `6` aby rozpocząć proces patchowania.
+5. Po ukończeniu, w folderze `WAD` przy RiiConnect24Patcher.bat zobaczysz plik o nazwie `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` lub `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`
+6. W Dolphin'ie, naciśnije na `Narzędzia (Tools)` a potem `Zainstaluj WAD (Install WAD)`. oraz wybierz `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` lub `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
 
-You're all done! Unfortunately, the Everybody Votes and Nintendo Channel don't work in Dolphin yet.
+To tyle! Niestety, Everybody Votes Channel oraz Nintendo Channel nie działają jeszcze w Dolphin'ie.
 {: .notice--info}
