@@ -60,26 +60,26 @@ Poniżej opisane są funkcje przycisków, które możesz znaleźć na samej gór
 * Platforma - Sortuje gry według platformy.
 * Kategoria - Sortuje gry według ich kategorii.
 * Lista - Pokazuje gry w układzie listy.
-* Multi-Cover View - Shows games in a multi-cover view.
-* Cover Carousel View - Shows games in a carousel view.
-* Wii Menu View - Shows games in a Wii Menu view.
-* Parental Control - Locks USB Loader GX.
-* Disc - Loads a game via disc.
+* Widok wielu okładek - Pokazuje kilka okładek na ekranie.
+* Karuzela - Pokazuje gry w stylu karuzeli.
+* Widok Wii Menu - Pokazuje gry według stylu Wii Menu.
+* Kontrola rodzicielska - Zablokowuje ustawienia USB Loader GX za hasłem.
+* Płyta - Pozwala Ci uruchomić grę z płyty.
 
-Pressing any game will allow you to play the game by pressing "Start".
+Aby uruchomić grę, naciśnij na okładkę/wpis oraz naciśnij na "Start".
 
-There are also other buttons:
+Istnieją również inne przyciski na interfejsie:
 
-* + Icon - "Install" a game, i.e. loading it from disc and dumping it.
-* Gears - Settings for USB Loader GX.
-* SD card - Remount the SD card.
-* Homebrew - Load homebrew apps.
-* Wii - Open up the HOME Menu, which can also be accessed by pressing the HOME Button on the Wii Remote.
-* Power Button - Turn off your Wii.
+* Ikona + - "Zainstaluj grę" - Pozwala wykonać kopię zapasową gry na urządzenie USB.
+* Koło zębate - Ustawienia USB Loader'a GX.
+* Karta SD - wymontuj oraz zamontuj kartę SD.
+* Homebrew - Załaduj listę aplikacji homebrew.
+* Wii - Otwiera menu HOME, które możesz również przywołać poprzez naciśnięcie przycisku HOME na Twoim kontrolerze.
+* Przycisk zasilania - Wyłącz Twoje Wii.
 
-On the middle of the bottom of the screen, you can see how much space is free on your USB Drive and how many games you have.
+Po środku na dole ekranu, możesz zobaczyć ile miejsca jest wolnego na Twoim urządzeniu USB i ile gier jest zainstalowanych.
 
-##### Options once complete
+##### Co można zrobić po ukończeniu?
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Przejdź do spisu stron](site-navigation)<br> Mamy wiele innych poradników, które mogą Ci się przydać.
 {: .notice--info}
