@@ -2,43 +2,43 @@
 title: "USB Loader GX"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Zawartość" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/b4Y7jfD) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.)
 {: .notice--info}
 
-This is a quick start guide on how to use USB Loader GX, a popular USB loader for the Wii that's used to play games from a USB Drive.
+To jest poradnik dotyczący USB Loader'a GX, popularnego loadera USB, który pozwala Ci na granie w gry z Twojego urządzenia USB (Dysk twardy, pendrive).
 
 ![USB Loader GX](/images/usbloadergx.png)
 
-#### What you need
+#### Będziesz potrzebował
 
-* A Wii
-* A USB Drive
+* Konsola Wii
+* Dysk USB / Pendrive
 * [USB Loader GX](https://sourceforge.net/projects/usbloadergx/files/latest/download)
 
-Make sure you have installed [cIOS](/cios) before following this!
+Upewnij się, że zainstalowałeś [cIOS](/cios) przed skorzystaniem z USB Loader'a GX.
 {: .notice--info}
 
-We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, or Witgui if you use macOS.
+Zalecamy użycie [Wii Backup Manager](/wiibackupmanager), żeby zainstalować gry na Twoim urządzeniu USB. Użyj `Witgui`, jeżeli korzystasz z macOS.
 {: .notice--info}
 
-To play multiple games, we recommend a USB-powered external hard drive for your Wii. We will refer to it as a "USB Drive" in this guide. Most of the ones you can find on the market should work fine if they have USB 2 backwards compatibility. Drives with 1 TB or more in capacity will work. A flash drive will also work, but due to the size of a flash drive, it won't be able to store as many games.
+Aby grać w wiele gier, zalecamy użycie dysku twardego na USB z zewnętrznym zasilaniem. Będziemy go nazywali "urządzeniem USB" w tym poradniku. Wiele dysków, które znajdziesz w sklepach powinny działać jeżeli posiadają wsparcie wsteczne dla USB 2.0. Dyski o pojemności 1TB lub więcej powinny zadziałać. Pendrive'y również powinny działać, jednak z powodu ich wielkości, nie będziesz mógł zmieścić na nich dużej ilości gier.
 {: .notice--info}
 
-Make sure your USB Drive is formatted as FAT32 or NTFS. Do not format it as other types such as extFS or WBFS, the latter is an old format of storing Wii games.
+Upewnij sie, że Twoje urządzenie USB jest sformatowane jako FAT32 lub NTFS. Nie formatuj go do innych systemów plików takich jak extFS lub WBFS. WBFS jest starym formatem przechowywania gier Wii.
 {: .notice--info}
 
-#### Instructions
+#### Instrukcje
 
-##### Downloading
+##### Pobieranie
 
-1. Extract USB Loader GX and put it in the `apps` folder on your USB drive or SD card.
-2. Insert your USB drive, and SD card if you're using one, into your Wii and launch USB Loader GX from the Homebrew Channel.
+1. Wypakuj USB Loader GX oraz skopiuj go do folderu `apps` na Twojej karcie SD lub urządzeniu USB.
+2. Włóż Twoje urządzenie USB lub kartę SD do Twojej Wii oraz uruchom USB Loader GX korzystając z Homebrew Channel.
 
-##### Getting Started
+##### Wprowadzenie
 
-There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
+Nie ma "poradnika" dotyczący tego jak korzystać z USB Loader GX. Poniższe informacje mają na celu nauczyć cię jak korzystać z interfejsu, aby zapewnić Ci szybki start. Powinieneś się dowiedzieć jak korzystać ze wszystkich funkcji USB Loader'a GX poprzez korzystanie z niego.
 {: .notice--info}
 
 * If USB Loader GX says "Waiting for HDD..." with a 20 seconds countdown, it's likely that it can't find the USB Drive. Try to exit out of the app, and then relaunch it after you put the USB Drive in the other port of the Wii.
