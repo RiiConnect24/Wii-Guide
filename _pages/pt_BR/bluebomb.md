@@ -9,18 +9,18 @@ Caso precise de ajuda com algo relacionado a este tutorial, entre no servidor do
 
 ![BlueBomb](/images/bluebomb.png)
 
-Bluebomb é um exploit que tira proveito de uma falha nas bibliotecas Bluetooth do Wii e do Wii Mini. Although it is the only exploit that works for the Wii Mini, BlueBomb can run on the original Wii as well. This exploit also enables recovery from certain bricks, such as a banner brick.
+Bluebomb é um exploit que tira proveito de uma falha nas bibliotecas Bluetooth do Wii e do Wii Mini. Embora seja o único exploit que funciona no Wii Mini, também pode ser usado no Wii original. Esse exploit também permite a recuperação de certos bricks, como um banner brick.
 
 Para o Wii Original, recomendamos que use [outro exploit](/get-started) se sua intenção for instalar o Homebrew Launcher e/ou BootMii.
 {: .notice--info}
 
-Esse exploit não funcionará no vWii do Wii U. Please follow [this guide](https://wiiuguide.xyz/#/vwii/vwii-modding) instead.
+Esse exploit não funcionará no vWii do Wii U. Por favor siga [esse guia](https://wiiuguide.xyz/#/vwii/vwii-modding).
 {: .notice--warning}
 
-#### Section I - What you need
-- A Linux machine
-  - If you are using a Chromebook, you do not need to install another Operating System; instead, enable [Linux in ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en).
-  - If you have a Raspberry Pi, you can use that instead as it most likely has Linux preinstalled.
+#### Parte I - Você precisará de
+- Um computador Linux
+  - Se você estiver usando um Chromebook, não será necessário instalar outro sistema operacional; em vez disso, ative o [Linux no ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=pt).
+  - Se você tem um Raspberry Pi, ele poderá ser usado, já que a maioria possui Linux pré-instalado.
   - Using Windows Subsystem for Linux will **not** work, due to the inability to access `systemctl`.
   - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option
     - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/)
