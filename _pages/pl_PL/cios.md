@@ -8,7 +8,7 @@ Ten poradnik nauczy Cię jak zainstalować cIOS (niestandardowe IOS). Jest to wy
 
 ![Instalator d2x cIOS](/images/cIOS.png)
 
-If you have a Wii mini, Install [this cIOS](ciosmini) instead. Attempting to install any other cIOS on a Wii mini may **brick your console!!**
+Jeżeli korzystasz z Wii Mini, skorzystaj z [tego poradnika](ciosmini). Próba zainstalowania cIOS z tego poradnika na Wii Mini może **zbrickować Twoją konsolę!!**
 {: .notice--info}
 
 #### Będziesz potrzebował:
@@ -33,7 +33,7 @@ Select cIOS base: 56
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
-![Install cIOS 249](/images/Wii/Install249.png)
+![Zainstaluj cIOS 249](/images/Wii/Install249.png)
 1. Kiedy ustawisz tak jak powyżej, naciśnij A podwójnie aby zainstalować.
 1. Kiedy instalacja przebiegnie pomyślnie, naciśnij A aby powrócić i ustaw poniższe opcje:
 ```
@@ -42,7 +42,7 @@ Select cIOS base: 57
 Select cIOS slot: 250
 Select cIOS version: 65535
 ```
-![Install cIOS 250](/images/Wii/Install250.png)
+![Zainstaluj cIOS 250](/images/Wii/Install250.png)
 1. Kiedy ustawisz tak jak powyżej, naciśnij A podwójnie aby zainstalować.
 1. Kiedy instalacja przebiegnie pomyślnie, naciśnij A aby powrócić i ustaw poniższe opcje:
 ```
@@ -55,11 +55,17 @@ Select cIOS version: 65535
 
 ##### Co można zrobić po ukończeniu?
 
-You can now use homebrew such as [USB Loader GX](usbloadergx).
-{: .notice--info}
+Możesz teraz korzystać z homebrew takiego jak [USB Loader GX](usbloadergx).
+{: .notice--info}Przejdź do instalacji Homebrew Browser<a><br> Homebrew Browser jest miejscem, z którego możesz pobrać homebrew na Twoje Wii. Jest to opcjonalny krok. </p> 
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
-{: .notice--info}
+<p spaces-before="0">
+  {: .notice--info}
+</p>
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
-{: .notice--info}
+<p spaces-before="0">
+  <a href="site-navigation">Przejdź do spisu stron</a><br> Mamy wiele innych poradników, które mogą Ci się przydać. 
+</p>
+
+<p spaces-before="0">
+  {: .notice--info}
+</p>
