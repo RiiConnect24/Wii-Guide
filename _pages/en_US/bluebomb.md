@@ -52,7 +52,7 @@ chmod +x bluebomb-helper.sh
 1. Turn on your console and **do not** connect any Wiimotes.
 1. Press the Sync button repeatedly until the terminal shows `got connection handle`
 
-Make sure that the console is close to the computer running the exploit, Ideally it should be less than 3 feet.
+Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
 {: .notice--info}
 
 The console should now boot to the HackMii installer. You can now shutdown your Linux computer if you are not planning to use it later.
