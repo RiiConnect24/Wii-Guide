@@ -1,21 +1,21 @@
 ---
-title: "BootMii Back-Up"
+title: "BootMii Back-up"
 ---
 
 {% include toc title="Table of Contents" %}
 
-Als u hulp nodig met deze tutorial, join [de RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (aanbevolen) of [e-mail ons op support@riiconnect24.net](mailto:support@riiconnect24.net).
+Als je hulp nodig hebt met deze tutorial, neem dan deel aan [de RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (aanbevolen) of [e-mail ons op support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![BootMii Logo](/images/bootmii.png)
 
-Een van BootMii's meest handigste kenmerken is de mogelijkheid om een Back-Up te maken en uw Wii's NAND opslag te herstellen. U gaat leren hoe u een NAND back-up kan maken. U kunt dan terug gaan naar die back-up voor maar elke reden. We raden aan om regelmatig een NAND back-up te maken of wanneer je iets riskants doet met uw spelcomputer (en als u weet wat u doet dan hoeft u niks riskants te doen).
+Een van BootMii's belangrijkste toepassingen is de mogelijkheid om een back-up te maken en je Wii's NAND opslag te herstellen. We zullen je laten zien hoe je zo'n NAND back-up maakt. Je kunt die back-up dan herstellen voor wat voor reden dan ook. We raden aan om regelmatig een NAND back-up te maken of wanneer je iets riskants doet met uw spelcomputer (en als u weet wat u doet dan hoeft u niks riskants te doen).
 
 #### Benodigheden
 * Een SD kaart met opzijnminst 512MB vrije ruimte
 
 #### Instructies
-If you installed BootMii as Boot2 in the last step, you will need to launch BootMii by restarting the console. Skip steps 1-2 if this is the case.
+Als u BootMii heeft geïnstalleerd als Boot2 dan moet u BootMii openen, u doet dit door de Wii op nieuw op te starten. Skip steps 1-2 if this is the case.
 {: .notice--info}
 1. Open het Homebrew Kanaal op uw Wii.
 2. Druk op de HOME Knop en selecteer "BootMii Opstarten" (Launch BootMii).
