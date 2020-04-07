@@ -36,7 +36,7 @@ Esse exploit não funcionará no vWii do Wii U. Por favor siga [esse guia](https
 1. Download the HackMii installer from [the BootMii website](https://bootmii.org/download/).
 1. Unpack it and place the `boot.elf` file in your flash drive.
 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright).
-1. Turn on your console and navigate to the settings menu. On the top right corner you should see a 4-digit code like the one in the picture below. This code is your System Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+1. Turn on your console and navigate to the settings menu. On the top right corner you should see a 4-character code like the one in the picture below. This code is your System Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Launch your Linux distro, and ensure you are connected to the internet.
 1. Open the Linux Terminal by pressing `CTRL + SHIFT + T`.
 1. Run the following commands:
@@ -46,12 +46,12 @@ chmod +x bluebomb-helper.sh
 ./bluebomb-helper.sh
 ```
 1. The helper will then download the required files, and ask for information about your console.
-  - If you have selected a Wii mini you will be asked to provide your region. This can be found in the original packaging, the bottom of the console (`RVL-201(EUR)` for **PAL** or `RVL-201(USA)` for **USA** models) or can be determined by the last digit of the System Menu version (`U` for **USA** and `E` for **PAL** models).
+  - If you have selected a Wii mini you will be asked to provide your region. This can be determined by the last letter of the System Menu version (`U` for **USA** and `E` for **PAL** models).
   - If you have selected a Wii you will be asked to provide your System Menu Version that you took note of before.
 1. Turn on your console and **do not** connect any Wiimotes.
 1. Press the Sync button repeatedly until the terminal shows `got connection handle`
 
-Make sure that the console is close to the computer running the exploit, Ideally it should be less than 3 feet.
+Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
 {: .notice--info}
 
 The console should now boot to the HackMii installer. You can now shutdown your Linux computer if you are not planning to use it later.
