@@ -7,7 +7,7 @@ title: "BlueBomb"
 Αν χρειάζεστε βοήθεια με οτιδήποτε σχετικά με αυτό τον οδηγό, επισκεφθείτε το [Wii mini Hacking Discord](https://discord.gg/6ryxnkS) (προτείνεται)
 {: .notice--info}
 
-![BlueBomb](/images/bluebomb.png)
+![Bluebomb](/images/bluebomb.png)
 
 Το Bluebomb είναι ένα πρόγραμμα που εκμεταλλεύεται ένα σφάλμα στην βιβλιοθήκη bluetooth των κονσολών Wii. Παρόλο που είναι το μοναδικό πρόγραμμα εκμετάλλευσης που δουλεύει στο Wii mini, μπορεί να χρησιμοποιηθεί και στο παλιό Wii χωρίς πρόβλημα. Αυτό το πρόγραμμα επίσης λειτουργεί ως μηχανισμός ανάκτησης από συγκεκριμένες καταστροφές στο Wii, όπως το banner brick.
 
@@ -49,15 +49,15 @@ chmod +x bluebomb-helper.sh
   - Αν έχετε Wii mini, θα ζητηθεί η περιοχή της κονσόλας. Αυτή μπορεί να βρεθεί στην αρχική συσκευασία, το κάτω μέρος της κονσόλας (`RVL-201(EUR)` για ** μοντέλα PAL** ή `RVL-201(USA)` για ** μοντέλα ΗΠΑ**) ή μπορεί να βρεθεί από το τελευταίο ψηφίο της έκδοσης Συστήματος Μενού (`U` για **ΗΠΑ** και `Ε` για ** μοντέλα PAL**).
   - Αν έχετε επιλέξει Wii θα σας ζητηθεί η έκδοση συστήματος που σημειώσατε πριν.
 1. Ενεργοποιήστε την κονσόλα σας και **μην** συνδέσετε κανένα χειριστήριο.
-1. Press the Sync button repeatedly until the terminal shows `got connection handle`
+1. Πατήστε το πλήκτρο συγχρονισμού επαναλαμβανόμενα έως ότου ο υπολογιστής δείξει `got connection handle`
 
-Make sure that the console is close to the computer running the exploit, Ideally it should be less than 3 feet.
+Σιγουρευτείτε πως η κονσόλα είναι κοντά στον υπολογιστή που τρέχει το πρόγραμμα, ιδανικά λιγότερο από 1 μέτρο.
 {: .notice--info}
 
-The console should now boot to the HackMii installer. You can now shutdown your Linux computer if you are not planning to use it later.
+Η κονσόλα πρέπει τώρα να εισέλθει στο HackMii installer. Μπορείτε τώρα να απενεργοποιήσετε τον υπολογιστή, αν δεν σκοπεύετε να τον χρησιμοποιήσετε αργότερα.
 
-[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
+[Αν χρησιμοποιείτε Wii, συνεχίστε στην εγκατάσταση του καναλιού Homebrew και του BootMii](hbc)
 {: .notice--info}
 
-[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
+[Αν χρησιμοποιείτε Wii mini, συνεχίστε στην εγκατάσταση του καναλιού Homebrew](hbc-mini)
 {: .notice--info}
