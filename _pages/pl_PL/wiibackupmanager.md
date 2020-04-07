@@ -4,46 +4,46 @@ title: "Wii Backup Manager"
 
 {% include toc title="Zawartość" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/b4Y7jfD) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.)
 {: .notice--info}
 
-Wii Backup Manager is a program to copy Wii games from your computer to a USB drive so you can play the games on your Wii. It also can download game covers from [GameTDB](https://gametdb.com/) and can be used to list what games you have. This tutorial will tell you how to copy over games from your computer to your USB drive. The other features are able to be used in the easy-to-use interface.
-#### What you need
+Wii Backup Manager jest programem, które kopiuje i instaluje gry Wii z Twojego komputera na urządzenia USB, tak abyś mógł w nie grać na Twoim Wii. Może on również pobrać okładki gier z [GameTDB](https://gametdb.com/) i użyć je aby wyświetlić Ci jakie gry posiadasz. Ten poradnik wytłumaczy Ci jak kopiować gry z Twojego komputera na Twoje urządzenie USB. Możesz również skorzystać z innych funkcji oferowanych przez łatwy do użycia interfejs.
+#### Będziesz potrzebował
 
-* A USB drive
+* Dysk USB / Pendrive
 * [Wii Backup Manager](https://static.wiidatabase.de/Wii-Backup-Manager.zip)
 
-We recommend you use Witgui if you use macOS. Wii Backup Manager doesn't work on macOS.
+Zalecamy użycie Witgui jeżeli korzystasz z macOS. Wii Backup Manager nie działa na macOS.
 {: .notice--info}
 
-To play multiple games, we recommend a USB-powered external hard drive for your Wii. We will refer to it as a "USB drive" in this guide. Most of the ones you can find on the market should work fine if they have USB 2 backwards compatibility. Drives with 1 TB or more in capacity will work. A flash drive will also work, but due to the size of a flash drive, it won't be able to store as many games.
+Aby grać w wiele gier, zalecamy użycie dysku twardego na USB z zewnętrznym zasilaniem. Będziemy go nazywali "urządzeniem USB" w tym poradniku. Wiele dysków, które znajdziesz w sklepach powinny działać jeżeli posiadają wsparcie wsteczne dla USB 2.0. Dyski o pojemności 1TB lub więcej powinny zadziałać. Pendrive'y również powinny działać, jednak z powodu ich wielkości, nie będziesz mógł zmieścić na nich dużej ilości gier.
 {: .notice--info}
 
-Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as extFS or WBFS, the latter is an old format of storing Wii games.
+Upewnij sie, że Twoje urządzenie USB jest sformatowane jako FAT32 lub NTFS. Nie formatuj go do innych systemów plików takich jak extFS lub WBFS. WBFS jest starym formatem przechowywania gier Wii.
 {: .notice--info}
 
-#### Instructions
+#### Instrukcje
 
-##### Section I - Downloading
+##### Sekcja I - Pobieranie
 
-1. Extract Wii Backup Manager, and launch the program.
-2. Insert your USB drive into your computer.
+1. Wypakuj Wii Backup Manager i uruchom go.
+2. Podłącz urządzenie USB do Twojego komputera.
 
-##### Section II - Copying Games Over
+##### Sekcja II - Kopiowanie gier
 
-1. Go to the `Drive 1` tab, then select `Drive`.
-2. Select the drive that you're using for the Wii games.
-3. Go to the `Files` tab, then select `Add`.
-4. Select `Files` to add multiple games to the program, or select `Folder` to add a whole folder of games.
-5. Select `Transfer`, then select `Drive 1` to transfer the games over. It might take a while for the games to copy over.
+1. Przejdź do zakładki `Drive 1` oraz wybierz `Drive`.
+2. Wybierz urządzenie USB, z którego korzystasz do przechowywania gier na Wii.
+3. Przejdź do zakładki `Files` oraz wybierz `Add`.
+4. Wybierz `Files` aby dodać wiele gier do programu lub wybierz `Folder` aby dodać cały folder z grami.
+5. Wybierz `Transfer` oraz wybierz `Drive 1` aby skopiować gry. Kopiowanie gier może chwilę potrwać.
 
-##### Options once complete
+##### Co można zrobić po ukończeniu?
 
-[Continue to cIOS](cios)<br> cIOS is needed for your Wii to use a USB Loader.
+[Kontynuuj do instalacji cIOS](cios)<br> cIOS jest potrzebne aby grać w gry korzystając z loaderów USB.
 {: .notice--info}
 
-[Continue to USB Loader GX](usbloadergx) USB Loader GX is a USB Loader so you can play games on your Wii from a USB drive.
+[Kontynuuj do instalacji USB Loader GX](usbloadergx) USB Loader GX jest loaderem USB. Dzięki niemu, możesz grać w kopie zapasowe Twoich gier korzystając z urządzenia USB.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Przejdź do spisu stron](site-navigation)<br> Mamy wiele innych poradników, które mogą Ci się przydać.
 {: .notice--info}
