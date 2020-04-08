@@ -28,12 +28,12 @@ We recommend you [install cIOS](cios) before continuing.
 
 * Eine Wii
 * Eine SD-Karte bzw. ein USB-Laufwerk
-* A computer with Windows on it (or using Mono or Wine on Mac/Linux)
+* Ein Computer mit Windows (oder nutze Mono oder Wine auf macOS/Linux)
 * [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
 * [Dieser GBAtemp-Beitrag](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
-MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
+LIES DIR AUF JEDEN FALL DIE WARNHINWEISE OBEN DURCH, BEVOR DU FORTFÄHRST!
 {: .notice--warning}
 
 #### Anleitung
