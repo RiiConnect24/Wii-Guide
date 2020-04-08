@@ -9,7 +9,7 @@ Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem
 
 ![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
 
-[Wiimmfi](https://wiimmfi.de) ist ein Ersatz zu der jetzt defekten Nintendo Wi-Fi Connection. Es wurde entwickelt von Wiimm und Leseratte.
+[Wiimmfi](https://wiimmfi.de) ist ein Ersatz für die jetzt abgeschaltete Nintendo Wi-Fi Connection. Es wurde entwickelt von Wiimm und Leseratte.
 
 ## Verschiedene Patcher
 
@@ -27,9 +27,9 @@ MrBean35000vr (Ersteller von CTGP-R, einem Mario Kart Wii Content Pack) hat eine
 1. Entpacke den Auto Wiimmfi Patcher und verschiebe ihn in den `apps` Ordner deiner SD-Karte bzw. USB-Laufwerks.
 2. Verbinde deine SD-Karte in deine Wii und führe den Auto Wiimmfi Patcher im Homebrew-Kanal aus.
 3. Schiebe deine Spiel Disc in deine Wii (Du kannst das vor oder nach dem Start machen).
-4. Warte, bis der Patch sich beendet, und lass es beginnen!
+4. Warte, bis der Patch sich beendet, und es startet!
 
-### Kein Homebrew (Disc)
+### Keine Homebrew (Disk)
 Dank Fullmetal5's str2hax Eploit, welchen Leseratte für den Wiimmfi Patcher adaptiert hat kannst du den Wiimmfi Patch ohne Homebrew auf deiner Wii ausführen.
 
 #### Was du benötigst
