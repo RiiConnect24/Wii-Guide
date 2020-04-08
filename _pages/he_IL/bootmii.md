@@ -1,25 +1,25 @@
 ---
-title: "גיבוי BootMii"
+title: "לגבות באמצעות BootMii"
 ---
 
 {% include toc title="Table of Contents" %}
 
-אם אתם זקקים לעזרה הקשורה למדריך זה, הצטרפו ל[שרת הדיסקורד של RiiConnect24](https://discord.gg/b4Y7jfD) (מומלץ) או [תשלחו מייל ל support@riiconnect24.net](mailto:support@riiconnect24.net).
+במקרה ונדרשת עזרה או תמיכה טכנית בנוגע למדריך, בבקשה הצטרפו לשרת הדיסקורד של [ RiiConnect24](https://discord.gg/b4Y7jfD), או [שלחו אלינו אי-מייל](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![BootMii Logo](/images/bootmii.png)
 
-אחת התכונות החשובות ביותר של BootMii היא היכולת לגבות ולשחזר את האחסון NAND של הWii שלכם. אנחנו נסביר איך לבצע גיבוי NAND. לאחר מכן ניתן יהיה לשחזר מגיבוי זה מכל סיבה אפשרית. אנחנו ממליצים לעשות גיבוי NAND באופן קבוע או לפני שאתם עושים משהו מסוכן לקונסולה שלכם (ואם אתם יודעים מה אתם עושים, לא תצטרכו לעשות משהו מסוכן).
+אחת התכונות החשובות ביותר של BootMii היא היכולת לגבות ולשחזר את האחסון והתוכנה של קונוסולת ה Wii שברשותך. במדריך זה נסביר כיצד מבצעים גיבוי לקונסולת ה Wii. לאחר התהליך, יהיה ניתן לשחזר את הקונסולה מהגיבוי מכל סיבה אפשרית. אנחנו ממליצים לעשות גיבוי באופן קבוע או לפני שאתם עושים משהו המסכן את הקונסולה שלכם (ואם אתם יודעים מה אתם עושים, לא תצטרכו לעשות משהו מסוכן).
 
-#### דרישות
+#### לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
 * כרטיס SD עם לפחות 512MB זכרון פנוי
 
 #### הוראות
-If you installed BootMii as Boot2 in the last step, you will need to launch BootMii by restarting the console. Skip steps 1-2 if this is the case.
+במקרה וכבר התקנת את BootMii כ Boot2 בצעד הקודם, יש להפעיל את BootMii על ידי הפעלה מחדש של הקונסולה. ניתן לדלג על צעדים 1-2 במקרה זה.
 {: .notice--info}
-1. הפעילו את הHomebrew Channel.
-2. לחצו על הכפתור HOME, ואז בחרו "Launch BootMii".
-   - ניווט בBootMii לא אפשרי באמצעות השלט של הWii. תצטרכו להשתמש או בכפתורים על הקונסולה, או בשלט GameCube מחובר לport 1. To navigate between options, press POWER on your Wii (or the right +Control Pad button on a GameCube controller). Keep in mind that when using the wii buttons, you can only navigate right but when attempting to go past the last entry, it'll warp you to the first one. This is not a limitation on GameCube Controllers; You can navigate left and right. To select an option, hit RESET on your Wii or A on your GameCube controller.
+1. יש להפעיל את ה Homebrew Channel.
+2. יש ללחוץ על כפתור הבית, ולבחור ב "Launch BootMii".
+   - ניווט ב BootMii לא אפשרי באמצעות השלט של קונסולת ה Wii. תצטרכו להשתמש או בכפתורים על הקונסולה, או בשלט GameCube מחובר לport 1. To navigate between options, press POWER on your Wii (or the right +Control Pad button on a GameCube controller). Keep in mind that when using the wii buttons, you can only navigate right but when attempting to go past the last entry, it'll warp you to the first one. This is not a limitation on GameCube Controllers; You can navigate left and right. To select an option, hit RESET on your Wii or A on your GameCube controller.
 3. Press the Options button (the one with the gears).
 4. Press the BackupMii button (the one with the green arrow).
 - A NAND backup will start. You can watch the progress on the screen.
