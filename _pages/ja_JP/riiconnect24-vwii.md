@@ -46,8 +46,8 @@ If you use GNU/Linux or macOS on your PC, or use a smartphone, please [follow th
 Using the RiiConnect24 Patcher you should've downloaded earlier in [What you need](#what-you-need), you will be downloading and patching IOS31, News, Everybody Votes, Nintendo and Check Mii Out Channels for use on your vWii.
 
 1. Run `RiiConnect24Patcher.bat` on your PC, and follow the on-screen instructions.
-2. Confirm that after running through the patcher, you have 3 folders. Either in the same folder as `RiiConnect24Patcher.bat`, or on your SD card (depending on what options you selected in the patcher).
-   - If they are in the same folder as the `RiiConnect24Patcher.bat` file, move the folders to the root of your SD card.
+2. Confirm that after running through the patcher, you have 3 folders. They will be in the same folder where `RiiConnect24Patcher.bat` is and on your SD Card (of course, only if you selected an option in the patcher to do so).
+   - If the patcher did not move the file to the SD Card, move these 3 folders to the root of your SD card.
 
 ##### Section II - Installing the newly patched WADs
 
