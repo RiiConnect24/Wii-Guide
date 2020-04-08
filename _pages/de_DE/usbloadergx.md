@@ -17,13 +17,13 @@ Dies ist eine Kurzanleitung zur Verwendung von USB Loader GX, eines beliebten US
 * Ein USB-Laufwerk
 * [USB Loader GX](https://sourceforge.net/projects/usbloadergx/files/latest/download)
 
-Make sure you have installed [cIOS](/cios) before following this!
+Stelle sicher, dass du vorher [cIOS](/cios) installiert hast!
 {: .notice--info}
 
-We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, or Witgui if you use macOS.
+Wir empfehlen dir die Spiele mit [Wii Backup Manager](/wiibackupmanager) zu kopieren, wenn Windows benutzt, oder Witgui, falls du macOS benutzt.
 {: .notice--info}
 
-Um mehrere Spiele zu spielen, empfehlen wir eine externe USB-Festplatte für Ihre Wii. We will refer to it as a "USB Drive" in this guide. Most of the ones you can find on the market should work fine if they have USB 2 backwards compatibility. Laufwerke mit einer Kapazität von 1 TB oder mehr werden funktionieren. Ein Usb-Stick wird auch funktionieren, aber aufgrund der Größe eines Usb-Sticks wird es nicht so viele Spiele speichern können.
+Um mehrere Spiele zu spielen, empfehlen wir eine externe USB-Festplatte für Ihre Wii. Wir bezeichnen sie als "USB-Laufwerk" in dieser Anleitung. Viele von denen, die auf dem Markt zu finden sind, sollten problemlos funktionieren, falls sie mit USB 2.0 abwärtskompatibel sind. Laufwerke mit einer Kapazität von 1 TB oder mehr werden funktionieren. Ein Usb-Stick wird auch funktionieren, aber aufgrund der Größe eines Usb-Sticks wird es nicht so viele Spiele speichern können.
 {: .notice--info}
 
 Stelle sicher, dass dein USB-Laufwerk als FAT32 oder NTFS formatiert ist. Formatiere keine anderen Dateisysteme wie zum Beispiel extFS oder WBFS, letzteres ist ein altes Format zum Speichern von Wii-Spielen.
@@ -44,7 +44,7 @@ Es gibt keine "Anleitung" zur Verwendung der USB Loader GX App. Dies soll dir da
 * Wenn USB-Lader GX "Waiting for HDD..." mit einem Countdown von 20 Sekunden sagt, ist es wahrscheinlich, dass er das USB-Laufwerk nicht finden kann. Versuche, die App zu beenden und sie dann erneut zu starten, nachdem du das USB-Laufwerk in den anderen Anschluss der Wii gesteckt hast.
 * Du kannst den 1-Knopf auf deiner Wii-Fernbedienung drücken, um einen Dialog zum Herunterladen von Spiel-Covern und artworks von [GameTDB](https://gametdb.com/) zu öffnen. Es kann eine Weile dauern, die Spiel-Cover und artworks herunterzuladen, je nachdem, wie viele Spiele du hast.
 * Es gibt WADs, die USB Loader GX öffnen können, wenn du ihn über das Wii-Menü lädst. Dies wird als forwarder WAD bezeichnet.
-* GameCube or "custom" Wii games may or may not have a custom banner that USB Loader GX uses. Um dies zu aktivieren, suche oder schreibe `CustomBannersURL = http://banner.rc24.xyz/` in config/GXGlobal.cfg auf deinem USB-Laufwerk. Then you can use the "Custom Banner" download by pressing the 1 Button on your Wii Remote.
+* GameCube oder "custom" Wii-Spiele haben eventuell einen Custom-Banner, den USB Loader GX benutzt. Um dies zu aktivieren, suche oder schreibe `CustomBannersURL = http://banner.rc24.xyz/` in config/GXGlobal.cfg auf deinem USB-Laufwerk. Dann kannst du den "Custom Banner" herunterladen, indem du die 1-Taste auf deiner Wii-Fernbedienung drückst.
 
 ##### Benutzeroberfläche
 
@@ -52,34 +52,34 @@ Es gibt mehrere Tasten in der USB Loader GX Benutzeroberfläche.
 
 ###### Hauptmenü
 
-These are the functions the buttons found on the top of the main menu do, from left to right:
+Dies sind die Funktionen der Schaltflächen oben im Hauptmenü, von links nach rechts aufgeführt:
 
-* Star - Shows games that you have marked as "favorites".
-* Search - Lets you search for games by name.
-* Sort - Cycles through sorting methods for games.
-* Platform - Choose to sort games by platform.
-* Category - Sorts games by category.
-* List - Shows games in a list view.
-* Multi-Cover View - Shows games in a multi-cover view.
-* Cover Carousel View - Shows games in a carousel view.
-* Wii Menu View - Shows games in a Wii Menu view.
-* Parental Control - Locks USB Loader GX.
-* Disc - Loads a game via disc.
+* Stern - Zeigt Spiele, die du als Favoriten markiert hast.
+* Suche - Erlaubt es dir, Spiele über ihren Namen zu suchen.
+* Sortieren - Wählt zwischen Möglichkeit, nach denen die Spiele sortiert werden.
+* Plattform - Wählt aus, Spiele nach der Plattform zu sortieren.
+* Kategorien - Sortiert Spiele nach Kategorien.
+* Liste - Zeigt Spiele in einer Listenansicht.
+* Multi-Cover-Ansicht - Zeigt Spiele in einer Multi-Cover-Ansicht.
+* Cover-Karussell-Ansicht - Zeigt Spiele wie in einem Karusell aufgereiht.
+* Wii-Menü-Ansicht - Zeigt Spiele wie das Wii-Menü.
+* Altersbeschränkung - Sperrt den USB Loader GX.
+* Disk - Lädt Spiel vom Diskschacht.
 
 Wenn du auf ein beliebiges Spiel drückst, kannst du das Spiel durch Drücken von "Start" spielen.
 
 Es gibt auch andere Knöpfe:
 
-* + Icon - "Install" a game, i.e. loading it from disc and dumping it.
-* Gears - Settings for USB Loader GX.
-* SD card - Remount the SD card.
-* Homebrew - Load homebrew apps.
-* Wii - Open up the HOME Menu, which can also be accessed by pressing the HOME Button on the Wii Remote.
-* Power Button - Turn off your Wii.
+* Plus-Symbol - Installiert ein Spiel, d. h. es wird gesichert.
+* Zahnräder - Einstellungen für USB Loader GX.
+* SD-Karte - Wirft SD-Karte aus und verbindet sich erneut mit ihr.
+* Homebrew - Lädt Homebrew-Anwendungen.
+* Wii - Öffnet das HOME-Menü, welches ebenfalls beim Drücken der HOME-Taste auf der Wii-Fernbedienung angezeigt wird.
+* Power-Taste - Schaltet deine Wii aus.
 
-On the middle of the bottom of the screen, you can see how much space is free on your USB Drive and how many games you have.
+In der Mitte des unteren Bildschirms siehst du, wie viel Speicher auf deinem USB-Laufwerk frei ist und wie viele Spiele du hast.
 
-##### Options once complete
+##### Möglichkeiten nach Abschluss
 
 [Continue to site navigation](site-navigation)<br> Wir haben viele weitere Anleitungen, die dir gefallen könnten.
 {: .notice--info}
