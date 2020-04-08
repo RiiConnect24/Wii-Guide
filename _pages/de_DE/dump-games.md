@@ -4,11 +4,11 @@ title: "Wii/GameCube-Spiele sichern"
 
 Möchtest du eine GameCube- oder Wii-Spiel legal sichern und es auf deiner Wii spielen? Mit dieser Anleitung erklären wir dir, wie man das macht.
 
-Please choose how you want to dump the disc.
+Bitte wähle, wie du die Disk sichern möchtest.
 {: .notice--warning}
 
-[I want to dump it to the SD card/USB device](cleanrip)
+[Ich möchte sie auf eine SD-Karte bzw. ein USB-Laufwerk sichern](cleanrip)
 {: .notice--info}
 
-[I want to dump it directly to my PC over a network](dump-smb)
+[Ich möchte sie direkt auf meinen PC über das Netzwerk sichern](dump-smb)
 {: .notice--info}
