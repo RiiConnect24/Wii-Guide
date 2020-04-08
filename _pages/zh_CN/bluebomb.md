@@ -47,9 +47,9 @@ chmod +x bluebomb-helper.sh
 ```
 1. The helper will then download the required files, and ask for information about your console.
   - If you have selected a Wii mini you will be asked to provide your region. This can be determined by the last letter of the System Menu version (`U` for **USA** and `E` for **PAL** models).
-  - If you have selected a Wii you will be asked to provide your System Menu Version that you took note of before.
+  - If you have selected a Wii you will be asked to provide your Wii System Menu Version (What you determined in step 4)
 1. Turn on your console and **do not** connect any Wiimotes.
-1. Press the Sync button repeatedly until the terminal shows `got connection handle`
+1. Press the Sync button repeatedly until the terminal shows `got connection handle`. This could take numerous attempts, so don't give up.
 
 Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
 {: .notice--info}
