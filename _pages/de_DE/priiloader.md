@@ -27,8 +27,8 @@ Bitte benutze den Priiloader **nicht** auf einer vWii (Wii-Modus auf der Wii U).
 ##### Abschnitt 2 - Priiloader installieren
 
 1. Starte den Homebrew-Kanal auf deiner Wii.
-2. Launch Priiloader.
-3. Press the + Button on Wii Remote or the A Button on a GameCube controller. ![Install Priiloader](/images/Priiloader/2.png) ![Installing](/images/Priiloader/3.png)
+2. Starte Priiloader.
+3. Drücke die Plus-Taste auf der Wii-Fernbedienung oder den A-Knopf auf einem GameCube-Controller. ![Install Priiloader](/images/Priiloader/2.png) ![Installing](/images/Priiloader/3.png)
 
 ##### Abschnitt 3 - Öffnen/Konfigurieren von Priiloader
 
