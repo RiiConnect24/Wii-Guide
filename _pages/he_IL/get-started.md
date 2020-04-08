@@ -4,20 +4,20 @@ title: "צעדים ראשונים"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+במקרה ונדרשת עזרה או תמיכה טכנית בנוגע למדריך, בבקשה הצטרפו לשרת הדיסקורד של [ RiiConnect24](https://discord.gg/b4Y7jfD), או [שלחו אלינו אי-מייל](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-These instructions will assume you're using an SD card to mod your Wii with, but you can use a USB storage device instead. However, the exploit LetterBomb requires a SD card due to how the Wii Message Board works.
+הוראות אלו מבוססות על שימוש בכרטיס SD כדי לפרוץ את קונסולת ה Wii, אבל ניתן להשתמש בדיסק-און-קי במקום. However, to use the exploits, LetterBomb requires a SD card, and BlueBomb requires a USB storage device.
 {: .notice--info}
 
-This guide is for the original Wii only, with the latest firmware (4.3). Do not use this on a Wii U (vWii)! If you want to install homebrew on vWii, [follow this tutorial](https://wiiuguide.xyz/#/vwii/).
+מדריך זה הוא לקונסולת ה Wii המקורית בלבד, עם גרסת התוכנה האחרונה ביותר (4.3). אין להשתמש במדריך זה כדי לפרוץ vWii או Wii U! אם את/ה מעוניינ/ת בלפרוץ את מערכת ה vWii, [יש לעקוב אחר מדריך זה במקום](https://wiiuguide.xyz/#/vwii/).
 {: .notice--warning}
 
-### בחרו את הפריצה
+### בחר/י פרצה שברצונך להשתמש בה
 
-- [str2hax](str2hax) - Exploit that uses the Wii EULA (Recommended, no SD card nor Channel required, but requires changing the DNS settings)
-- [FlashHax](flashhax) - Exploit that uses the Internet Channel (No SD card required)
-- [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board (SD card required)
-- [BlueBomb](bluebomb) - Exploit that uses Bluetooth (Neither SD card nor Wifi required)
-    * Requires a computer with Bluetooth and GNU/Linux, as well as a USB drive
-    * This is the only exploit that works on the **Wii mini**
+- [str2hax](str2hax) - פרצה שמנצלת את דף התקנון ותנאי השימוש של הקונסולה (מומלץ, לא נדרש כרטיס SD, אבל דורש לשנות את הגדרות ה DNS בקונסולת ה Wii)
+- [FlashHax](flashhax) - פרצה שמנצלת בעיה באדובי פלאש, ומתבצעת באמצעות ה Internet Channel (לא נדרש כרטיס SD)
+- [LetterBomb](letterbomb) - פרצה שמנצלת את לוח ההודעות של קונסולת ה Wii (כרטיס SD נדרש)
+- [BlueBomb](bluebomb) - פרצה שמנצלת בעיה ברכיב ה Bluetooth של קונסולת ה Wii (לא צריך כרטיס SD או WiFi)
+    * נדרש מחשב המצויד ברכיב Bluetooth ומריץ לינוקס, ונדרש דיסק-און-קי
+    * זו הפרצה היחדיה העובדת על קונסולת ה **Wii Mini**
