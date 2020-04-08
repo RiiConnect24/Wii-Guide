@@ -1,32 +1,32 @@
 ---
-title: "cIOS"
+title: "cIOS (προσαρμοσμένο IOS)"
 ---
 
 {% include toc title="Table of Contents" %}
 
-This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
+Αυτός ο οδηγός θα σας δείξει πως να εγκαταστήσετε τα cIOS (προσαρμοσμένα IOS). Αυτό απαιτείται αν θέλετε να φορτώνετε παιχνίδια με ένα USB Loader. Κάποια προγράμματα Homebrew ίσως λειτουργούν καλύτερα αν έχετε cIOS.
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-If you have a Wii mini, Install [this cIOS](ciosmini) instead. Attempting to install any other cIOS on a Wii mini may **brick your console!!**
+Αν έχετε Wii mini, αντ' αυτού εγκαταστήστε [αυτό το cIOS](ciosmini). Η απόπειρα εγκατάστασης οποιουδήποτε άλλου cIOS στο Wii mini μπορεί να προκαλέσει **ανεπανόρθωτη ζημιά στην κονσόλα σας!! (brick)**
 {: .notice--info}
 
-#### What you need
+#### Τι χρειάζεστε
 
-* A Wii with an Internet connection
-* An SD card or USB drive
-* [d2x cIOS Installer](https://sites.google.com/site/completesg/backup-launchers/installation/d2x-cIOS-Installer-Wii.zip?attredirects=0&d=1)
+* Ένα Wii με σύνδεση στο διαδίκτυο
+* Μία κάρτα SD ή μέσο αποθήκευσης USB
+* [Το d2x cIOS Installer](https://sites.google.com/site/completesg/backup-launchers/installation/d2x-cIOS-Installer-Wii.zip?attredirects=0&d=1)
 
-#### Instructions
+#### Οδηγίες
 
-##### Section I - Downloading
+##### Μέρος I - Λήψη
 
-1. Extract d2x cIOS Installer and put it in the `apps` folder on your SD card or USB drive.
-1. Insert your SD card or USB drive into your Wii, and launch d2x cIOS Installer from the Homebrew Channel.
+1. Εξάγετε το d2x cIOS Installer και τοποθετήστε το στον φάκελο `apps` στο αποθηκευτικό σας μέσο.
+1. Εισάγετε το αποθηκευτικό σας μέσο στο Wii και εκκινήστε το d2x cIOS Installer από το Κανάλι Homebrew.
 
-##### Section II - Installing
+##### Μέρος II - Εγκατάσταση
 
-1. Press continue, then set the options to the following:
+1. Πατήστε continue, και θέστε τις επιλογές στα παρακάτω:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 56
@@ -34,8 +34,8 @@ Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 ![Install cIOS 249](/images/Wii/Install249.png)
-1. Once set, press A to install.
-1. When done installing, press A to return, and set the options to the following:
+1. Μόλις τις θέσετε σωστά, πατήστε Α για εγκατάσταση.
+1. Όταν ολοκληρωθεί η εγκατάσταση, πατήστε Α για να επιστρέψετε και θέστε τις επιλογές στα παρακάτω:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 57
@@ -43,23 +43,23 @@ Select cIOS slot: 250
 Select cIOS version: 65535
 ```
 ![Install cIOS 250](/images/Wii/Install250.png)
-1. Once set, press A to install.
-1. When done installing, press A to return, and set the options to the following:
+1. Μόλις τις θέσετε σωστά, πατήστε Α για εγκατάσταση.
+1. Όταν ολοκληρωθεί η εγκατάσταση, πατήστε Α για να επιστρέψετε και θέστε τις επιλογές στα παρακάτω:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 58
 Select cIOS slot: 251
 Select cIOS version: 65535
 ```
-1. Run it again, then exit once done.
+1. Τρέξτε ξανά την διαδικασία, ύστερα εξέλθετε από το πρόγραμμα.
 
-##### Options once complete
+##### Επιλογές μετά την ολοκλήρωση
 
-You can now use homebrew such as [USB Loader GX](usbloadergx).
+Μπορείτε τώρα να χρησιμοποιήσετε Homebrew σαν το [ USB Loader GX](usbloadergx).
 {: .notice--info}
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
+[Συνέχεια στον Περιηγητή Homebrew](hbb)<br> Ο Περιηγητής Homebrew είναι ένα καλό μέρος για να βρίσκετε homebrew στο Wii σας. Αυτό είναι προαιρετικό.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Συνεχίστε στην περιήγηση ιστοσελίδας](site-navigation)<br> Έχουμε πολλούς άλλους οδηγούς που μπορεί να σας αρέσουν.
 {: .notice--info}
