@@ -11,46 +11,46 @@ RiiTag jest łatwo konfigurowalnym oraz dynamicznym gamertag'iem. Udostępniają
 
 #### Będziesz potrzebował:
 
-- A device capable of interacting with SD cards
-- Softmodded Wii U console
-   - If you have not softmodded your Wii U yet, [please do so](https://wiiuguide.xyz). You cannot proceed without.
-- A Discord account
-- The latest release of [Wii U Plugin Loader](https://github.com/Maschell/WiiUPluginLoader/releases)
-- The latest release of [UTag plugin](https://github.com/RiiConnect24/UTag/releases)
+- Urządzenie, które może uzyskać dostęp do Twojej karty SD
+- Przerobiona konsola Wii U
+   - Jeżeli jeszcze nie przerobiłeś Twojego Wii U, [skorzystaj z tego poradnika](https://wiiuguide.xyz). Bez przeróbki, nic nie zdziałasz.
+- Konto Discord
+- Najnowsza wersja [Wii U Plugin Loader](https://github.com/Maschell/WiiUPluginLoader/releases)
+- Najnowsza wersja [UTag plugin](https://github.com/RiiConnect24/UTag/releases)
 
-#### Instructions
+#### Instrukcje
 
-##### Section I - Website instructions
+##### Sekcja I - Strona RiiTag
 
-1. Go to the [RiiTag website](https://tag.rc24.xyz/).
-2. Click `Log In` and log in with your Discord account.
-3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Click `Authorize`.
-4. Click `Edit Your Tag` and customize it to how you like. You can add a background, overlay, flag, nickname, Wii Number, and manually enter in games to show on your tag (not needed if you're using a USB Loader).
-5. Click `Show Key` and make note of the key shown. This will be used later on in this guide.
-6. Click `Submit` to save your changes.
+1. Otwórz [stronę RiiTag'u](https://tag.rc24.xyz/).
+2. Wejdź w `Log In` (Zaloguj się) oraz zaloguj się korzystając z Twojego konta Discord.
+3. Na ekranie pojawi się okno pytające się czy chcesz zautoryzować aplikację `RiiConnect24` z Twoim kontem Discordem. Naciśnij na `Authorize` (Autoryzuj).
+4. Naciśnij na `Edit Your Tag` oraz skonfiguruj tag według Twoich preferencji. Możesz zmienić tło, nakładkę, nick, numer Twojego Wii oraz manualnie wprowadzić gry, które mają się pokazywać na Twoim tag'u (nie jest to potrzebne jeżeli korzystasz z USB Loader'a).
+5. Naciśnij na `Show Key` (Pokaż klucz)</code> oraz sobie go zapisz. Będzie on przydatny później w tym poradniku.
+6. Naciśnij na `Submit` aby zapisać zmiany.
 
-Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
+Nie udostępniaj nikomu Twój klucz RiiTag! Jeżeli tak zrobisz, ludzie będą mogli nadużywać Twojego tagu.
 {: .notice--warning}
 
-##### Section II - Setting things up on the SD card
+##### Sekcja II - Instalacja plików na karcie SD
 
-1. Extract the Wii U Plugin Loader `.zip` file to the root of your SD card
-   - You should see a folder titled `wiiupluginloader` in `/wiiu/apps/` on your SD.
-2. Place the `UTag.mod` file in the `/wiiu/plugins/` folder on your SD card.
-3. Create a new file titled `utag.txt` on the root of your SD card, and open it with a text editor.
-4. Paste the key you made note of earlier in Step 5 of [Section I - Getting Started](#section-i---getting-started) into this `utag.txt` file, and save it.
-   - We're all done with the SD card side of things.
-5. Insert your SD card into your Wii U.
+1. Wypakuj archiwum `Wii U Plugin Loader` do głównego katalogu Twojej karty SD
+   - Powinieneś zobaczyć folder nazwany `wiiupluginloader` w `/wiiu/apps/` na Twojej karcie SD.
+2. Skopiuj plik `UTag.mod` do folderu `/wiiu/plugins/` na Twojej karcie SD.
+3. Stwórz plik nazwany `utag.txt` na głównym folderze w Twojej karcie SD oraz otwórz go w edytorze tekstowym.
+4. Wklej klucz, który zapisałeś sobie w kroku piątym w [Pierwszej sekcji - Wprowadzenia](#section-i---getting-started) do pliku `utag.txt` oraz go zapisz.
+   - Kiedy już to zrobisz, to tyle jeżeli chodzi o pracowanie z kartą SD.
+5. Włóż kartę SD do Twojej konsoli Wii U.
 
-##### Section III - Running the plugin
+##### Sekcja III - Uruchamianie pluginu
 
-1. Using your preferred method (browser exploit, Haxchi, Homebrew Launcher application, etc.), launch the **Homebrew Launcher** on your Wii U console.
-2. Navigate to, and launch the homebrew application titled `Wii U Plugin Loader`.
-3. You should be greeted with a menu, including a toggle for `UTag`. Enable `UTag`, and then press + on the Wii U GamePad. You should now be kicked back to the Wii U Menu.
+1. Korzystając z Twojego preferowanego sposobu (exploit z użyciem przeglądarki, Haxchi, Homebrew Launcher, itp.) uruchom **Homebrew Launcher** na Twojej konsoli Wii U.
+2. Uruchom aplikację homebrew o nazwie `Wii U Plugin Loader`.
+3. Powinieneś ujrzeć menu wraz z funkcją włączenia `UTag`. Włącz `UTag` oraz naciśnij przycisk + na Twoim GamePad'zie. Powinieneś teraz powrócić do menu Wii U.
 
-You have now set up RiiTag on your Wii U! Note that you will have to launch the plugin with the above procedure every time you wish to launch the plugin, unless things change. In which case, this guide will be updated. Now go play some games, and watch them show up on your RiiTag!
+Ukończyłeś właśnie konfigurację RiiTag na Twoim Wii U! Pamiętaj, że będziesz musiał uruchomić plugin za każdym razem kiedy będziesz chciał skorzystać z RiiTag'u, dopóki coś się nie zmieni. W tym przypadku, ten poradnik zostanie zaktualizowany. Teraz, zagraj w coś i zobacz jak gry się pojawiają na Twoim RiiTag'u!
 {: .notice--success}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Przejdź do spisu stron](site-navigation)<br> Mamy wiele innych poradników, które mogą Ci się przydać.
 {: .notice--info}
 
