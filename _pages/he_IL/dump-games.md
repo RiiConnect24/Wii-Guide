@@ -1,14 +1,14 @@
 ---
-title: "Dumping Wii/GameCube games"
+title: "חילוץ משחקי Wii / GameCube"
 ---
 
-Want to legally dump a GameCube or a Wii game and play it on your Wii? With this tutorial we will explain how to do it.
+רוצים לחלץ ולהעתיק משחק GameCube או Wii ולשחק בו ב Wii שלכם? במדריך זה, נסביר בדיוק כיצד זה אפשרי.
 
-Please choose how you want to dump the disc.
+יש לבחור איך ברצונך לחלץ ולהעתיק את המשחק.
 {: .notice--warning}
 
-[I want to dump it to the SD card/USB device](cleanrip)
+[אני רוצה לחלץ את המשחק ולהעתיק אותו לכרטיס SD או דיסק-און-קי](cleanrip)
 {: .notice--info}
 
-[I want to dump it directly to my PC over a network](dump-smb)
+[אני רוצה לחלץ את המשחק ולהעתיק אותו ישירות למחשב דרך הרשת](dump-smb)
 {: .notice--info}
