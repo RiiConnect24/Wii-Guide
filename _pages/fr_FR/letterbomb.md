@@ -7,15 +7,15 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 ![LetterBomb](/images/letterbomb.png)
 
-LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
+LetterBomb est un exploit pour la Wii qui utilise une faille du bureau Wii.
 
-This exploit is one of many. Check out the [Get Started](/get-started) page for other options.
+Cet exploit est l'un parmi de nombreux. Veuillez regarder la page [Commencer](/get-started) pour d'autres options.
 {: .notice--info}
 
-#### What you need
-- An SD card
-- A Wii on system version 4.3
-   - This exploit will not work on a Wii Mini or vWii
+#### Ce dont vous avez besoin
+- Une carte SD
+- Une Wii avec la version 4.3 du menu Wii
+   - Cet exploit ne fonctionne pas sur une Wii Mini ou une vWii (Wii U)
 
 #### Instructions
 
