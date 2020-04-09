@@ -2,7 +2,7 @@
 title: "BootMii Back-up"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Inhoudsopgave" %}
 
 Als je hulp nodig hebt met deze tutorial, neem dan deel aan [de RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (aanbevolen) of [e-mail ons op support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -15,7 +15,7 @@ Een van BootMii's belangrijkste toepassingen is de mogelijkheid om een back-up t
 * Een SD kaart met opzijnminst 512MB vrije ruimte
 
 #### Instructies
-Als u BootMii heeft geïnstalleerd als Boot2 dan moet u BootMii openen, u doet dit door de Wii op nieuw op te starten. Skip steps 1-2 if this is the case.
+Als u BootMii heeft geïnstalleerd als Boot2 dan moet u BootMii openen, u doet dit door de Wii op nieuw op te starten. Skip stap 1 en 2 als dit het geval is.
 {: .notice--info}
 1. Open het Homebrew Kanaal op uw Wii.
 2. Druk op de HOME Knop en selecteer "BootMii Opstarten" (Launch BootMii).
@@ -29,8 +29,8 @@ Als u BootMii heeft geïnstalleerd als Boot2 dan moet u BootMii openen, u doet d
 5. Wanneer de back-up volledig compleet is gaat u automatisch hier weg door op een knop te drukken.
 6. Om BootMii te verlaten moet u de terug knop gebruiken (degene met de pijl), u kunt vervolgens het Wii Menu kiezen of het Homebrew Kanaal om naar toe te gaan.
 
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
+Om een NAND back-up terug op uw Wii te zetten moet u dezelfde instructies volgen alleen moet u dan bij stap 4 niet op de BackupMii knop drukken maar op de RestoreMii knop drukken (degene met de rode pijl).
 {: .notice--info}
 
-[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it, especially if you only installed BootMii as an IOS.
+[Verder gaan naar de Priiloader Installatie](priiloader)<br> Priiloader geeft uw Wii een extra bescherming tegen een brick, we raden dit daarom ook aan iedereen aan, maar vooral als u alleen BootMii als IOS hebt geïnstalleerd op uw Wii.
 {: .notice--info}
