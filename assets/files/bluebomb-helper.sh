@@ -194,6 +194,11 @@ execute() {
     printf "\n* Executing BlueBomb...\n"
     printf "$sudo0 ./bluebomb-$arch ./stage0/$arg1$arg2.bin stage1.bin\n"
     $sudo0 ./bluebomb-$arch ./stage0/$arg1$arg2.bin stage1.bin
+    printf "* Enabling the Bluetooth service... (you may be prompted for your password)\n"
+    case "$init" in
+        "systemd" ) $sudo0 systemctl enable --now bluetooth.service ;;
+        "openrc" ) $sudo0 rc-service bluetooth start ;;
+    esac
     credit
 }
 
