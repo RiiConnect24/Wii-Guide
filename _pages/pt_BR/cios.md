@@ -6,9 +6,9 @@ title: "cIOS"
 
 Este tutorial irá lhe ensinar a como instalar cIOS (IOS customizada). Isso é necessário caso queira jogar em USB Loaders. Alguns aplicativos homebrew podem funcionar melhor com o uso de cIOS.
 
-![d2x cIOS Installer](/images/cIOS.png)
+![Instalador d2x cIOS](/images/cIOS.png)
 
-If you have a Wii mini, Install [this cIOS](ciosmini) instead. Attempting to install any other cIOS on a Wii mini may **brick your console!!**
+Se você tem um Wii mini, instale [essa cIOS](ciosmini). Tentar instalar qualquer outra cIOS em um Wii mini pode **causar um brick no seu console!!**
 {: .notice--info}
 
 #### Você precisará de
@@ -33,7 +33,7 @@ Select cIOS base: 56
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
-![Install cIOS 249](/images/Wii/Install249.png)
+![Instalar cIOS 249](/images/Wii/Install249.png)
 1. Quando feito, pressione A para instalar.
 1. Quando a instalação for concluída, pressione A para retornar, e defina as opções dessa forma:
 ```
@@ -42,7 +42,7 @@ Select cIOS base: 57
 Select cIOS slot: 250
 Select cIOS version: 65535
 ```
-![Install cIOS 250](/images/Wii/Install250.png)
+![Instalar cIOS 250](/images/Wii/Install250.png)
 1. Quando feito, pressione A para instalar.
 1. Quando a instalação for concluída, pressione A para retornar, e defina as opções dessa forma:
 ```
@@ -53,13 +53,13 @@ Select cIOS version: 65535
 ```
 1. Execute-o novamente e saia depois de ser concluído.
 
-##### Options once complete
+##### O que fazer depois de terminar
 
-You can now use homebrew such as [USB Loader GX](usbloadergx).
+Agora você pode usar aplicativos homebrew como [USB Loader GX](usbloadergx).
 {: .notice--info}
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
+[Continuar para Homebrew Browser](hbb)<br> O Homebrew Browser é um bom lugar para obter mais aplicativos homebrew. Instalar isso é opcional.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continuar para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
 {: .notice--info}
