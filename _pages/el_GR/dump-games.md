@@ -1,14 +1,14 @@
 ---
-title: "Dumping Wii/GameCube games"
+title: "Αποθήκευση παιχνιδιών Wii/GameCube"
 ---
 
-Want to legally dump a GameCube or a Wii game and play it on your Wii? With this tutorial we will explain how to do it.
+Θέλετε να αποθηκεύετε νόμιμα ένα παιχνίδι GameCube ή Wii και να το παίξετε στο Wii σας χωρίς τον δίσκο; Σε αυτόν τον οδηγό θα σας εξηγήσουμε πώς.
 
-Please choose how you want to dump the disc.
+Παρακαλούμε επιλέξτε πως θέλετε να αποθηκεύσετε τον δίσκο.
 {: .notice--warning}
 
-[I want to dump it to the SD card/USB device](cleanrip)
+[Θέλω να τον αποθηκεύσω σε κάρτα SD/συσκευή USB](cleanrip)
 {: .notice--info}
 
-[I want to dump it directly to my PC over a network](dump-smb)
+[Θέλω να το αποθηκεύσω κατευθείαν στον υπολογιστή μου μέσω του δικτύου](dump-smb)
 {: .notice--info}
