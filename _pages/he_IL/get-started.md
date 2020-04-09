@@ -7,7 +7,7 @@ title: "צעדים ראשונים"
 במקרה ונדרשת עזרה או תמיכה טכנית בנוגע למדריך, בבקשה הצטרפו לשרת הדיסקורד של [ RiiConnect24](https://discord.gg/b4Y7jfD), או [שלחו אלינו אי-מייל](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-הוראות אלו מבוססות על שימוש בכרטיס SD כדי לפרוץ את קונסולת ה Wii, אבל ניתן להשתמש בדיסק-און-קי במקום. However, to use the exploits, LetterBomb requires a SD card, and BlueBomb requires a USB storage device.
+הוראות אלו מבוססות על שימוש בכרטיס SD כדי לפרוץ את קונסולת ה Wii, אבל ניתן להשתמש בדיסק-און-קי במקום. למרות זאת, כדי להשתמש בפרצות, LetterBomb דורש כרטיס SD ו BlueBomb דורש דיסק-און-קי.
 {: .notice--info}
 
 מדריך זה הוא לקונסולת ה Wii המקורית בלבד, עם גרסת התוכנה האחרונה ביותר (4.3). אין להשתמש במדריך זה כדי לפרוץ vWii או Wii U! אם את/ה מעוניינ/ת בלפרוץ את מערכת ה vWii, [יש לעקוב אחר מדריך זה במקום](https://wiiuguide.xyz/#/vwii/).
