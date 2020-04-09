@@ -8,16 +8,16 @@ Als u hulp nodig heeft bij iets wat met deze tutorial te maken heeft, sluit je d
 De Homebrew Browser is een applicatie waarvan je andere homebrew applicaties kunt downloaden. Het is opnieuw opgestart en er wordt nu naar gerefereerd als de "Open Shop Channel"
 
 #### Benodigdheden
-* Een SD-kaart of USB stick
+* Een SD-kaart of USB-stick
 * [Homebrew Browser](/assets/files/homebrew_browser_v0.3.9e.zip)
 
 #### Instructies
 
-1. Pak het Homebrew Browser bestand uit in de `apps` folder op uw SD-kaart of USB stick.
-2. Stop de SD-kaart of USB stick in uw Wii. U kunt nu de Homebrew Browser openen via het Homebrew Kanaal wanneer u dat wilt.
+1. Pak het Homebrew Browser-bestand uit in de `apps` map op je SD-kaart of USB-stick.
+2. Stop de SD-kaart of USB-stick in je Wii. U kunt nu de Homebrew Browser openen via het Homebrew Kanaal wanneer u dat wilt.
 
 Bij de het Homebrew Browser Zip bestand zit een guide met instructies hoe je het Homebrew Browser kunt gebruiken.
 {: .notice--info}
 
-U kunt de ShopChannel.ogg vervangen door loop.ogg om de originele Wii Shop Kanaal muziek te horen terwijl u de Homebrew Browser gebruikt.
+Je kunt de ShopChannel.ogg vervangen door loop.ogg om de originele Wii-winkekanaalmuziek te horen terwijl je de Homebrew Browser gebruikt.
 {: .notice--info}
