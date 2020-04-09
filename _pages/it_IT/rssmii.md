@@ -19,8 +19,8 @@ Do you want to get RSS feed updates on your Wii Message Board? This tutorial wil
 #### Instructions
 ##### Section I - Downloading/Installing
 
-1. Extract RSSMii and put it in the `apps` folder on your SD card.
-2. We need to create a `feeds.xml` on the root of the SD card so the app will know what feeds to subscribe you to.
+1. Estrai RSSMii mettilo nella cartella `apps` sulla SD.
+2. Hai bisogno di creare il file `feeds.xml` nella root della SD in modo che l’app sappia da quali siti ti deve mandare i feed.
 
 If you're using the Windows Operating System, you can use the RSS Feeds Creators program created by KcrPL. It will automatically create a `feeds.xml` file and will copy it to your SD card!
 {: .notice--info}
@@ -46,12 +46,12 @@ Replace the "name" portion with the title you want to put for the feed. Make sur
 </rss>
 ```
 
-Save the feed you made to the root of your SD Card.
-3. Launch RSSMii from the Homebrew Channel.
-4. Press A to confirm you want to subscribe to the feeds. Ignore the error about ES_GetTitleID, everything is fine.
-5. Once everything is done, press HOME to go back to the Homebrew Channel. You should soon get RSS feed updates on your Wii, enjoy!
+Salva il file che hai appena fatto nella root della tua SD.
+3. Lancia RSSMii dall'Homebrew Channel.
+4. Premi A per confermare che vuoi sottoscrivere ai feed Rss. Ignora l'errore ES_GetTitleID.
+5. Una volta che ha terminato, premi HOME per tornare all'Homebrew Channel. Presto dovresti ricevere dei feed RSS sulla tua Wii, divertiti!
 
-Not getting any feed updates? Try an RSS feed that updates more frequently, like a feed with news for example. If the RSS feed doesn't update often, then you won't get many updates.
+Non ti è ancora arrivato niente? Prova un feed RSS che si aggiorna più frequentemente, come una pagina di notizie. Se il feed RSS non si aggiorna spesso, allora non riceverai molti feed.
 {: .notice--warning}
 
 We recommend you use just a few feeds, because if you subscribe to a lot of feeds you can get a ton of mail on your Wii.
