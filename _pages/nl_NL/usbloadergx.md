@@ -26,15 +26,15 @@ We bevelen u aan om een kopie te maken van uw games met [Wii Backup Manager](/wi
 Om meerdere spellen te spelen, bevelen we u een USB-aangedreven externe harde schijf aan voor uw Wii. We noemen het "USB schijf" in deze guide. De meeste van deze op de markt werken prima als ze USB 2 terugwaartse compatibiliteit hebben. Schijven met een capaciteit van 1 TB of meer zullen werken. Een USB stick zal ook werken, maar vanwege de grootte van een USB stick zal het niet zoveel spellen kunnen opslaan.
 {: .notice--info}
 
-Zorg dat uw USB-schijf geformatteerd is als FAT32 of NTFS. Formatteer deze niet in andere formaten zoals extFS of WBFS, de laatste is een oud formaat voor het opslaan van Wii-spellen.
+Zorg dat je USB-schijf geformatteerd is als FAT32 of NTFS. Formatteer deze niet in andere formaten zoals extFS of WBFS, de laatste is een oud formaat voor het opslaan van Wii-spellen.
 {: .notice--info}
 
 #### Instructies
 
 ##### Downloaden
 
-1. Pak USB Loader GX uit en plaats deze in de `apps` map van uw USB schijf of SD-kaart.
-2. Plaats uw USB schijf, en SD-kaart als u deze gebruikt, in uw Wii en start USB Loader GX vanuit de Homebrew Channel.
+1. Pak USB Loader GX uit en plaats deze in de `apps` map van je USB-schijf of SD-kaart.
+2. Plaats je USB-schijf en eventueel een SD-kaart in je Wii en start USB Loader GX vanuit het Homebrew-kanaal.
 
 ##### Aan de slag
 
@@ -48,7 +48,7 @@ Er is geen "gids" om de USB Loader GX app te gebruiken. Dit is bedoeld om u te h
 
 ##### Gebruikersomgeving
 
-Er zijn meerdere knoppen in de USB Loader GX interface.
+Er zijn meerdere knoppen in de USB Loader GX-interface.
 
 ###### Hoofdmenu
 
@@ -64,7 +64,7 @@ Dit zijn de functies die de knoppen bovenaan het hoofdmenu doen, van links naar 
 * Cover Carousel View - Toont spellen in een carrouselweergave.
 * Wii Menu View - Toont games in een Wii-menuweergave.
 * Parental Control - Vergrendelt USB Loader GX.
-* Disc - Laadt een spel via CD.
+* Disc - Laadt een spel vanaf een disc.
 
 Als u op een spel klikt, kunt u het spel spelen door op "Start" te drukken.
 
@@ -81,5 +81,5 @@ In het midden van de onderkant van het scherm kunt u zien hoeveel ruimte er vrij
 
 ##### Opties eenmaal voltooid
 
-[Ga door naar sitenavigatie](site-navigation)<br> We hebben veel andere tutorials die u misschien leuk vindt.
+[Ga door naar de sitenavigatie](site-navigation)<br> We hebben vele andere tutorials die je wellicht interessant vindt.
 {: .notice--info}
