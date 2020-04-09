@@ -7,15 +7,15 @@ title: "{% include toc title=\"Table of Contents\" %}\nSe você precisar de ajud
 Caso precise de ajuda com este tutorial, entre [no servidor do RiiConnect24 no Discord](https://discord.gg/b4Y7jfD) (recomendado) ou [envie um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![BootMii Logo](/images/bootmii.png)
+![Logo BootMii](/images/bootmii.png)
 
-Um dos recursos mais importantes do BootMii é a capacidade de fazer backup e restaurar o armazenamento NAND do seu Wii. Você verá como executar um backup de sua NAND. Você pode restaurá-la a partir desse backup por qualquer motivo. Recomendamos fazer um backup da sua NAND regularmente ou antes de realizar modificações perigosas no seu console (e se você souber o que está fazendo, não precisará fazer nada arriscado).
+Um dos recursos mais importantes do BootMii é a capacidade de fazer backup e restaurar o armazenamento NAND do seu Wii. Você verá como executar um backup de sua NAND. É possível restaurar a partir desse backup por qualquer motivo. Recomendamos fazer um backup da sua NAND regularmente ou antes de realizar modificações perigosas no seu console (e se você souber o que está fazendo, não precisará fazer nada arriscado).
 
 #### Requisitos
 * Um cartão SD com pelo menos 512MB de espaço livre
 
 #### Instruções
-If you installed BootMii as Boot2 in the last step, you will need to launch BootMii by restarting the console. Skip steps 1-2 if this is the case.
+Se você instalou o BootMii como Boot2 na última etapa, será necessário iniciar o BootMii reiniciando o console. Pule as etapas 1-2 se esse for o caso.
 {: .notice--info}
 1. Inicie o Homebrew Channel.
 2. Aperte o botão HOME e selecione "Launch BootMii".
@@ -29,8 +29,8 @@ If you installed BootMii as Boot2 in the last step, you will need to launch Boot
 5. Quando o backup for finalizado, saia da tela de backup da NAND pressionando qualquer botão.
 6. Para sair do BootMii, pressione o botão voltar (aquele com a seta) e, em seguida, você pode pressionar o botão de Menu do Wii ou o Homebrew Channel para sair por onde deseja.
 
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
+Para restaurar um backup da NAND a partir do cartão SD, siga essas instruções usando o RestoreMii (o botão ao lado do BackupMii com uma seta vermelha).
 {: .notice--info}
 
-[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it, especially if you only installed BootMii as an IOS.
+[Continuar para a instalação do Priiloader](priiloader)<br> O Priiloader adciona um nível de proteção contra bricks, e é recomendado especialmente se você instalou o BootMii apenas como IOS.
 {: .notice--info}
