@@ -7,10 +7,10 @@ title: "str2hax"
 Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD)(empfohlen) bei, oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Wenn dein Internetdienstanbieter oder deine Netzwerkumgebung die Nutzung eines Custom DNS Server's verhindert dann wird str2hax nicht funktionieren und du solltest [einen anderen Exploit wählen](get-started).
+Wenn dein Internetdienstanbieter oder deine Netzwerkumgebung die Nutzung eines alternativen DNS Servers verhindert, wird str2hax nicht funktionieren und du solltest [einen anderen Exploit wählen](get-started).
 {: .notice--info}
 
-str2hax ist ein Exploit für die Wii, welcher ausgelöst wird mithilfe einer Sicherheitslücke in dem Endbenutzer-Lizenzvertrag. Es benötigt nichts anderes außer die Internetverbindung deiner Wii, die dich den DNS verändern lässt.
+str2hax ist ein Exploit für die Wii, welcher beim Laden des Endbenutzer-Lizenzvertrags (EULA) ausgelöst wird. Es nichts benötigt nichts außer einer Internetverbindung an deiner Wii, deren DNS sich verändern lässt.
 
 #### Voraussetzungen
 
@@ -20,7 +20,7 @@ str2hax ist ein Exploit für die Wii, welcher ausgelöst wird mithilfe einer Sic
 
 ##### Abschnitt 1 - Verbinden
 
-Damit dieser Exploit funktioniert, musst du deine DNS Einstellungen bearbeiten, damit sich deine Wii zu einem Server verbinden kann, der den Exploit auslöst.
+Damit dieser Exploit funktioniert, musst du deine DNS Einstellungen bearbeiten, damit sich deine Wii zu einem Server verbinden kann, der den Exploit beinhaltet.
 
 1. Gehe in die `Wii-Optionen`. ![Wii Options](/images/RiiConnect24/Internet_1.png)
 2. Gehe in die `Wii-Systemeinstellungen`. ![Wii Settings](/images/RiiConnect24/Internet_2.png)
@@ -39,9 +39,9 @@ Damit dieser Exploit funktioniert, musst du deine DNS Einstellungen bearbeiten, 
 ##### Abschnitt 2 - Ausführen des Exploits
 
 1. Gehe in den Bereich `Internet`, dann `Vertrag/Kontrakt`, dann `Ja`.
-2. Wenn du ein Pony auf einem leicht blauen Hintergrund siehst, dann hast du alles richtig gemacht. Warte 1-2 Minuten, bis sich der Exploit auslöst (es sollte 1 Minute und 25 Sekunden dauern). Dieser Exploit wird den HackMii Installer herunterladen damit du weiter machen kannst.
+2. Wenn du ein Pony auf einem hellblauen Hintergrund siehst, hast du alles richtig gemacht. Warte 1-2 Minuten, bis der Exploit ausgelöst wird (es sollte etwa 1 Minute und 25 Sekunden dauern). Dieser Exploit wird den HackMii Installer herunterladen damit du weiter machen kannst.
 
-Wenn der HackMii Installer nicht lädt und sich deine Wii aufhängt (Du kannst deinen Zeiger nicht bewegen) oder es nicht 1-2 Minuten zum auslösen braucht, dann solltest du deine Wii neustarten und den Exploit wieder versuchen.
+Wenn der HackMii Installer nicht lädt und sich deine Wii aufhängt (Du kannst deinen Zeiger nicht bewegen) oder es nicht 1-2 Minuten zum auslösen braucht, solltest du deine Wii neustarten und den Exploit erneut starten.
 
 [Fahre nun fort mit der Homebrew-Kanal und BootMii-Installation](hbc)
 {: .notice--info}
