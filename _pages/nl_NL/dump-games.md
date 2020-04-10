@@ -1,14 +1,14 @@
 ---
-title: "Dumping Wii/GameCube games"
+title: "Een Wii/GameCube cd-rom kopiëren"
 ---
 
-Want to legally dump a GameCube or a Wii game and play it on your Wii? With this tutorial we will explain how to do it.
+Wilt u legaal een GameCube of Wii cd-rom's kopiëren en spelen op uw Wii? Deze tutorial zal u uitleggen hoe dat moet.
 
-Please choose how you want to dump the disc.
-{: .notice--warning}
+Kies alstublieft een manier hoe u uw cd-rom wilt kopiëren.
+{: .notice--waarschuwing}
 
-[I want to dump it to the SD card/USB device](cleanrip)
+[Ik wil mijn cd-rom naar een SD-kaart of USB-stick /harde schijf kopiëren](cleanrip)
 {: .notice--info}
 
-[I want to dump it directly to my PC over a network](dump-smb)
+[Ik wil mijn cd-rom direct naar mijn PC kopiëren over het internet](dump-smb)
 {: .notice--info}
