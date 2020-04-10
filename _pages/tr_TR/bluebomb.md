@@ -1,5 +1,5 @@
 ---
-title: "BlueBomb"
+title: "Mavi Bomba"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -7,7 +7,7 @@ title: "BlueBomb"
 If you need help with anything regarding this tutorial, please join [the Wii mini Hacking Discord server](https://discord.gg/6ryxnkS) (recommended)
 {: .notice--info}
 
-![BlueBomb](/images/bluebomb.png)
+![Mavi Bomba](/images/bluebomb.png)
 
 Bluebomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Although it is the only exploit that works for the Wii mini, BlueBomb can run on the original Wii as well. This exploit also enables recovery from certain bricks, such as a banner brick.
 
@@ -17,7 +17,7 @@ For the original Wii, we recommend using [another exploit](/get-started) instead
 This exploit will not work on a Wii U's vWii. Please follow [this guide](https://wiiuguide.xyz/#/vwii/vwii-modding) instead.
 {: .notice--warning}
 
-#### Section I - What you need
+#### Bölüm I - Neye ihtiyacın var?
 - A Linux machine
   - If you are using a Chromebook, you do not need to install another Operating System; instead, enable [Linux in ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en).
   - If you have a Raspberry Pi, you can use that instead as it most likely has Linux preinstalled.
