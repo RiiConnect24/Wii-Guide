@@ -49,7 +49,7 @@ sitemap: false
 + [Wii Backup Manager](wiibackupmanager)
 
 **Wii Mini**
-+ [Installation des Homebrew Kanal's auf der Wii Mini](hbc-mini)
++ [Installation des Homebrew Kanals auf der Wii Mini](hbc-mini)
 + [Installation von cIOS auf der Wii Mini](cios-mini)
 
 
@@ -59,4 +59,4 @@ sitemap: false
 + [Häufig gestellte Fragen (FAQ)](faq)
 + [Spenden](donations)
 {% endcapture %}
-<div class="notice--primary">{ notice-2 | markdownify }</div>
+<div class="notice--primary">{{ notice-2 | markdownify }}</div>
