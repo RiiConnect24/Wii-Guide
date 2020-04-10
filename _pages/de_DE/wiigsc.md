@@ -7,26 +7,26 @@ title: "Verknüpfungen für Wii-Spiele erstellen"
 Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD)(empfohlen) bei, oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Do you use a USB Loader and want to create game shortcuts to launch them on your Wii Menu? Then try WiiGSC (Wii Game Shortcut Creator), previously known as Crap.
+Verwendest du einen USB-Loader und möchtest Spiele-Verknüpfungen zum Starten in deinem Wii-Menü erstellen? Probiere dann WiiGSC (Wii Game Shortcut Creator), früher auch Crap genannt, aus.
 
-In the case of a brick, [installing Priiloader is a must](/priiloader). Also, install BootMii (as Boot2 if you have an early Wii). Installing brick protection along with following the guide correctly should keep you safe from bricks. DO NOT CONTINUE UNTIL YOU HAVE INSTALLED PRIILOADER AND BOOTMII!
+Für den Fall eines Bricks [ist die Installation von Priiloader ein Muss](/priiloader). Installiere außerdem BootMii (als boot2, falls du eine ältere Wii hast). Die Installation von Brick-Schutz, sowie das richtige Befolgen der Anleitung sollte dich sicher vor Bricks bewahren. FAHRE NICHT FORT, BIS DU PRIILOADER UND BOOTMII INSTALLIERT HAST!
 {: .notice--warning}
 
-#### Was du benötigst
+#### Voraussetzungen
 
 * Eine Wii
 * Ein USB-Laufwerk.
-* Einen WAD-Manager (Wii Mod Lite ist empfohlen).
-* Einen Windows-PC.
+* Einen WAD-Manager (Wii Mod Lite wird empfohlen).
+* Ein Windows-Computer.
 * [WiiGSC](https://wiidatabase.de/downloads/pc-tools/wiigsc-ehemals-crap/)
 
 #### Anleitung
 
 1. Installiere WiiGSC und öffne es.
-2. Select the path to the ISO or WBFS file on your USB Drive, and select the USB Loader you use. The other options should be fine the way thy are.
-3. If you're using USB Loader GX, you cannot use revision 1272 to use shortcuts. You need to use revision 1271 (or an earlier version if you need to use one for some reason).
-4. Do not make game shortcuts for "A Boy and His Blob" or "Mario Party 9". Those will brick your Wii.
-5. Install the generated WAD with a WAD Manager, we recommend Wii Mod Lite.
+2. Wähle den Pfad zur ISO oder WBFS-Datei auf deinem USB-Laufwerk und den USB-Loader den du verwendest. Die anderen Einträge sollten, so wie sie sind, in Ordnung sein.
+3. Falls du USB Loader GX verwendest, kannst du für Verknüpfungen nicht Revision 1272 verwenden. Du musst Revision 1271 (oder eine ältere Version, falls du die aus irgendeinem Grund brauchst) verwenden.
+4. Erstelle keine Spiele-Verknüpfungen für "A Boy and His Blob" oder "Mario Party 9". Sie werden deine Wii bricken.
+5. Installiere die erstellte WAD mit einem WAD-Manager, wir empfehlen Wii Mod Lite.
 
-If you get an error saying "The system files are corrupted", don't panic as long as you installed Priiloader. Turn off your Wii, then hold down the RESET button down and turn on your Wii. You should be able to boot into the Priiloader menu, where you have some options to fix your Wii Menu. One of the options is to launch the Homebrew Channel.
+Falls du den Fehler "The system files are corrupted" bekommst, gerate nicht in Panik, solange du Priiloader installiert hast. Schalte deine Wii aus und halte dann die RESET-Taste, während du deine Wii anschaltest. Du solltest nun im Priiloader-Menü landen, wo du einige Möglichkeiten hast, um dein Wii-Menü zu reparieren. Einer der Einträge ist das Starten des Homebrew-Kanals.
 {: .notice--info}
