@@ -11,7 +11,7 @@ RiiTag ist ein anpassbarer und dynamischer Gamertag. Durch Teilen deines Gamerta
 
 #### Voraussetzungen
 
-* A computer
+* Ein Computer
 * Einen Texteditor
 * Einen USB-Loader
 
