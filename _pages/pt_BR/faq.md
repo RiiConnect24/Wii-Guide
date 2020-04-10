@@ -4,21 +4,21 @@ title: "FAQ"
 
 ![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
 
-### How risky is hacking my console?
-Bricks (a state where either some parts of your Wii software are not working, or your Wii is not working at all) are now *basically* impossible unless you ignore/circumvent all safety checks.
+### Quais são os riscos de hackear meu console?
+Bricks (um estado em que algumas partes do software do Wii, ou o Wii todo param de funcionar) são agora *basicamente* impossíveis, a não ser que você ignore todas as verificações de segurança.
 
-### Where should I go for support?
-Either email us at support@riiconnect24.net or join the [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD).
+### Onde devo procurar suporte?
+Envie um email para nós em support@riiconnect24.net ou entre no [Discord do RiiConnect24](https://discord.gg/b4Y7jfD).
 
-### What are the SD card requirements and/or recommendations?
-You will need an SD card with at least 128MB to run an exploit.
+### Quais são os requisitos e/ou recomendações de cartão SD?
+Você precisará de um cartão SD com pelo menos 128MB para executar um exploit.
 
-- If you are using the LetterBomb/Wilbrand exploit, your SD card should be no larger than 32 GB.
-- If you are using the Super Smash Bros Brawl exploit, your SD card should be no bigger than 2 GB.
+- Se você estiver usando o exploit LetterBomb/Wilbrand, seu cartão SD não pode ter mais de 32 GB.
+- Se você estiver usando o exploit Super Smash Bros Brawl, seu cartão SD não pode ter mais de 2 GB.
 
-To store homebrew applications, we recommend an SD card with atleast 2 GB.
+Para armazenar aplicativos homebrew, recomendamos que o cartão SD tenha pelo menos 2 GB.
 
-### I got error XXXXXX in Wiimmfi, how to fix it?
+### Recebi o erro XXXXXX no Wiimmfi, como consertar?
 In order to check what error that is, please visit the [Wiimmfi error page](https://wiimmfi.de/error).
 
 ### What are the limitations in vWii modding?
