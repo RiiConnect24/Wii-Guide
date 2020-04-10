@@ -23,10 +23,10 @@ Stelle sicher, dass du vorher [cIOS](/cios) installiert hast!
 Wir empfehlen dir die Spiele mit [Wii Backup Manager](/wiibackupmanager) zu kopieren, wenn Windows benutzt, oder Witgui, falls du macOS benutzt.
 {: .notice--info}
 
-Um mehrere Spiele zu spielen, empfehlen wir eine externe USB-Festplatte für Ihre Wii. Wir bezeichnen sie als "USB-Laufwerk" in dieser Anleitung. Viele von denen, die auf dem Markt zu finden sind, sollten problemlos funktionieren, falls sie mit USB 2.0 abwärtskompatibel sind. Laufwerke mit einer Kapazität von 1 TB oder mehr werden funktionieren. Ein Usb-Stick wird auch funktionieren, aber aufgrund der Größe eines Usb-Sticks wird es nicht so viele Spiele speichern können.
+Um mehrere Spiele zu spielen, empfehlen wir eine externe Festplatte für Ihre Wii, die über USB mit Strom versorgt wird. Wir bezeichnen sie als "USB-Laufwerk" in dieser Anleitung. Viele von denen, die auf dem Markt zu finden sind, sollten problemlos funktionieren, falls sie mit USB 2.0 abwärtskompatibel sind. Laufwerke mit einer Kapazität von 1 TB oder mehr werden funktionieren. Ein USB-Stick wird auch funktionieren, aber aufgrund dessen Größe wird es nicht in der Lage sein, so viele Spiele zu speichern.
 {: .notice--info}
 
-Stelle sicher, dass dein USB-Laufwerk als FAT32 oder NTFS formatiert ist. Formatiere keine anderen Dateisysteme wie zum Beispiel extFS oder WBFS, letzteres ist ein altes Format zum Speichern von Wii-Spielen.
+Stelle sicher, dass dein USB-Laufwerk als FAT32 oder NTFS formatiert ist. Formatiere es mit keine anderen Dateisysteme wie zum Beispiel extFS oder WBFS, welches ein altes Format zum Speichern von Wii-Spielen ist.
 {: .notice--info}
 
 #### Anleitung
@@ -34,21 +34,21 @@ Stelle sicher, dass dein USB-Laufwerk als FAT32 oder NTFS formatiert ist. Format
 ##### Herunterladen
 
 1. Entpacke USB Loader GX und verschiebe es in den `apps`-Ordner auf deinem USB-Laufwerk bzw. deiner SD-Karte.
-2. Stecke dein USB-Laufwerk und deine SD-Karte (falls du eine benutzt) in deine Wii und starte USB Loader GX über den Homebrew Kanal.
+2. Verbinde dein USB-Laufwerk und deine SD-Karte (falls du eine benutzt) mit deiner Wii und starte USB Loader GX über den Homebrew-Kanal.
 
 ##### Einstieg
 
-Es gibt keine "Anleitung" zur Verwendung der USB Loader GX App. Dies soll dir dabei helfen helfen zu lernen, wie du die USB Loader GX App benutzen sollst. Du solltest in der Lage sein, alle großartigen Funktionen von USB Loader GX selbst herauszufinden, indem du es benutzen.
+Es gibt keine Anleitung zum Nutzen der USB Loader GX-Anwendung. Dies soll dir den Einstieg erleichtern, um dir dabei zu helfen, zu lernen, wie man sie verwendet. Du solltest in der Lage sein, alle großartigen Funktionen von USB Loader GX selbst herauszufinden, indem du es benutzen.
 {: .notice--info}
 
-* Wenn USB-Lader GX "Waiting for HDD..." mit einem Countdown von 20 Sekunden sagt, ist es wahrscheinlich, dass er das USB-Laufwerk nicht finden kann. Versuche, die App zu beenden und sie dann erneut zu starten, nachdem du das USB-Laufwerk in den anderen Anschluss der Wii gesteckt hast.
-* Du kannst den 1-Knopf auf deiner Wii-Fernbedienung drücken, um einen Dialog zum Herunterladen von Spiel-Covern und artworks von [GameTDB](https://gametdb.com/) zu öffnen. Es kann eine Weile dauern, die Spiel-Cover und artworks herunterzuladen, je nachdem, wie viele Spiele du hast.
-* Es gibt WADs, die USB Loader GX öffnen können, wenn du ihn über das Wii-Menü lädst. Dies wird als forwarder WAD bezeichnet.
+* Wenn USB-Lader GX "Waiting for HDD..." mit einem Countdown von 20 Sekunden anzeigt, ist es wahrscheinlich, dass er das USB-Laufwerk nicht finden kann. Versuche, die Anwendung zu beenden und sie dann erneut zu starten, nachdem du das USB-Laufwerk mit dem anderen Anschluss der Wii verbunden hast.
+* Du kannst die 1-Taste auf deiner Wii-Fernbedienung drücken, um einen Dialog zum Herunterladen von Spiel-Covern und Artwork von [GameTDB](https://gametdb.com/) zu öffnen. Es kann eine Weile dauern, die Spiel-Cover und Artwork herunterzuladen, je nachdem, wie viele Spiele du hast.
+* Es gibt WADs, die USB Loader GX öffnen können, um ihn über das Wii-Menü zu laden. Diese werden als Forwarder bezeichnet.
 * GameCube oder "custom" Wii-Spiele haben eventuell einen Custom-Banner, den USB Loader GX benutzt. Um dies zu aktivieren, suche oder schreibe `CustomBannersURL = http://banner.rc24.xyz/` in config/GXGlobal.cfg auf deinem USB-Laufwerk. Dann kannst du den "Custom Banner" herunterladen, indem du die 1-Taste auf deiner Wii-Fernbedienung drückst.
 
 ##### Benutzeroberfläche
 
-Es gibt mehrere Tasten in der USB Loader GX Benutzeroberfläche.
+Es gibt mehrere Schaltflächen in der USB Loader GX-Oberfläche.
 
 ###### Hauptmenü
 
@@ -66,9 +66,9 @@ Dies sind die Funktionen der Schaltflächen oben im Hauptmenü, von links nach r
 * Altersbeschränkung - Sperrt den USB Loader GX.
 * Disk - Lädt Spiel vom Diskschacht.
 
-Wenn du auf ein beliebiges Spiel drückst, kannst du das Spiel durch Drücken von "Start" spielen.
+Wenn du auf ein beliebiges Spiel auswählst, kannst du das Spiel durch Drücken von "Start" spielen.
 
-Es gibt auch andere Knöpfe:
+Es gibt auch andere Schaltflächen:
 
 * Plus-Symbol - Installiert ein Spiel, d. h. es wird gesichert.
 * Zahnräder - Einstellungen für USB Loader GX.
