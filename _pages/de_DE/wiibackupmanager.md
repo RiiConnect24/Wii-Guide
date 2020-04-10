@@ -7,16 +7,16 @@ title: "Wii Backup Manager"
 Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD)(empfohlen) bei, oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Wii Backup Manager is a program to copy Wii games from your computer to a USB drive so you can play the games on your Wii. It also can download game covers from [GameTDB](https://gametdb.com/) and can be used to list what games you have. This tutorial will tell you how to copy over games from your computer to your USB drive. The other features are able to be used in the easy-to-use interface.
+Wii Backup Manager ist ein Programm mit dem du deine Wii-Spiele von einem Computer auf ein USB-Laufwerk kopieren kannst, damit du die Spiele auf deiner Wii spielen kannst. Es kann auch Spiele-Covers von [GameTDB](https://gametdb.com/) herunterladen und dafür verwendet werden, anzuzeigen, welche Spiele du hast. Diese Anleitung erklärt dir, wie du Spiele von deinem Computer auf dein USB-Laufwerk kopieren kannst. Die anderen Funktionen können in der einfach gestalteten Oberfläche verwendet werden.
 #### Voraussetzungen
 
 * Ein USB-Laufwerk
 * [Wii Backup Manager](https://static.wiidatabase.de/Wii-Backup-Manager.zip)
 
-Wir empfehlen dir, unter macOS Witgui zu benutzen. Wii Backup Manager doesn't work on macOS.
+Wir empfehlen dir, unter macOS Witgui zu benutzen. Der Wii Backup Manager funktioniert nicht auf macOS.
 {: .notice--info}
 
-To play multiple games, we recommend a USB-powered external hard drive for your Wii. We will refer to it as a "USB drive" in this guide. Most of the ones you can find on the market should work fine if they have USB 2 backwards compatibility. Drives with 1 TB or more in capacity will work. A flash drive will also work, but due to the size of a flash drive, it won't be able to store as many games.
+Um mehrere Spiele zu spielen, empfehlen wir eine externe Festplatte für Ihre Wii, die über USB mit Strom versorgt wird. Wir bezeichnen sie als "USB-Laufwerk" in dieser Anleitung. Viele von denen, die auf dem Markt zu finden sind, sollten problemlos funktionieren, falls sie mit USB 2.0 abwärtskompatibel sind. Laufwerke mit einer Kapazität von 1 TB oder mehr werden funktionieren. Ein USB-Stick wird auch funktionieren, aber aufgrund dessen Größe wird es nicht in der Lage sein, so viele Spiele zu speichern.
 {: .notice--info}
 
 Stelle sicher, dass dein USB-Laufwerk als FAT32 oder NTFS formatiert ist. Formatiere es mit keine anderen Dateisysteme wie zum Beispiel extFS oder WBFS, welches ein altes Format zum Speichern von Wii-Spielen ist.
