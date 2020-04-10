@@ -46,8 +46,8 @@ Falls du GNU/Linux oder macOS auf deinem PC benutzt, oder ein Smartphone benutzt
 Mithilfe des RiiConnect24 Patchers den du bereits bei den [Voraussetzungen](#what-you-need) heruntergeladen hast, wirst du IOS31, den Nachrichtenkanal, Meinungskanal, Nintendo-Kanal und Mii-Wettbewerbskanal für die Verwendung auf deiner vWii herunterladen und patchen.
 
 1. Führe die `RiiConnect24Patcher.bat` auf deinem PC aus und folge den angezeigten Anweisungen.
-2. Stelle sicher, dass du nach Ausführen des Patchers drei Ordner hast. They will be in the same folder where `RiiConnect24Patcher.bat` is and on your SD Card (of course, only if you selected an option in the patcher to do so).
-   - If the patcher did not move the file to the SD Card, move these 3 folders to the root of your SD card.
+2. Stelle sicher, dass du nach Ausführen des Patchers drei Ordner hast. Sie werden in dem selben Ordner wie die `RiiConnect24Patcher.bat`, sowie auf deiner SD-Karte sein (natürlich nur, wenn du diese Auswahl im Patcher getroffen hast).
+   - Falls der Patcher die Dateien nicht auf die SD-Karte verschoben hat, verschiebe diese drei Ordner in das oberste Verzeichnis deiner SD-Karte.
 
 ##### Abschnitt 2 - Installieren der neuen gepatchten WADs
 
