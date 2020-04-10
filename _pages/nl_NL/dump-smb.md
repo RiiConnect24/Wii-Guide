@@ -1,27 +1,27 @@
 ---
-title: "Dumping a game over a local network"
+title: "Een cd-rom kopiëren via uw eigen internet connectie"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Inhoudsopgave" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Als u hulp nodig heeft bij iets wat met deze tutorial te maken heeft, sluit je dan aan bij [de RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (aanbevolen) of [e-mail ons via support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Do you want to dump games through your local network? Follow this tutorial! This can be useful if you don't have an SD card or a USB drive that is large enough to dump a game to.
+Wilt u uw spel(len) kopiëren over uw eigen netwerk? Volg dan deze tutorial! Dit kan heel handig zijn omdat u zo geen SD-kaart of USB-stick nodig heeft met genoeg ruimte om een cd-rom op te zetten (kopiëren).
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-#### What you need
+#### Benodigdheden
 
-* A Wii.
+* Een Wii.
 * [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
 
-Your Wii and your computer must be connected to one local network
-{: .notice--warning}
+Uw Wii en uw computer moeten hiervoor wel aan hetzelfde netwerk zijn gekoppeld
+{: .notice--waarschuwing}
 
-#### Instructions
+#### Instructies
 
-##### Section I - Downloading/Installing
+##### Deel I - Downloaden/Installeren
 
 1. Extract DVD Dump Tool and put it in the `apps` folder on your SD card or USB drive.
 1. Insert your SD card into your Wii, and launch DVD Dump Tool from the Homebrew Channel.
