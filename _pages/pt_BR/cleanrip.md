@@ -23,7 +23,7 @@ Deseja fazer um backup dos seus jogos? Este tutorial explica como usar o CleanRi
 1. Extraia o CleanRip e coloque dentro da pasta `apps `do seu Cartão SD ou USB.
 1. Insira seu Cartão SD no Wii e inicie o CleanRip pelo Homebrew Channel.
 
-##### Section II - Fazer o Backup
+##### Parte II - Fazer o Backup
 
 1. Selecione o dispositivo para o qual será armazenado o backup do jogo - sua unidade USB ou cartão SD. ![Tipo de dispositivo](/images/CleanRip/2.png)
 1. Nesta tela, será perguntado se você deseja baixar um arquivo com somas de verificação para verificar se o backup criado é uma cópia bem-sucedida. Fica a seu critério escolher `Yes` ou `No` para baixar esse arquivo. ![DAT](/images/CleanRip/3.png)
