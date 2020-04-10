@@ -36,10 +36,10 @@ Diese Exploit wird nicht auf der vWii einer Wii U funktionieren. Bitte folge sta
 1. Lade den HackMii Installer von [der BootMii-Webseite](https://bootmii.org/download/) herunter.
 1. Entpacke ihn und verschiebe die `boot.elf`-Datei auf dein Laufwerk.
 1. Verbinde das Laufwerk mit deiner Konsole. Bei einer Wii Mini befindet sich der USB-Anschluss auf der Rückseite. Benutze bei einer normalen Wii den unteren Anschluss (oder den rechten Port bei senkrechter Aufstellung).
-1. Turn on your console and navigate to the settings menu. On the top right corner you should see a 4-character code like the one in the picture below. This code is your System Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
-1. Launch your Linux distro, and ensure you are connected to the internet.
-1. Open the Linux Terminal by pressing `CTRL + SHIFT + T`.
-1. Run the following commands:
+1. Schalte deine Konsole an und navigiere in die Systemeinstellungen. In der oberen rechten Ecke solltest du ein vierstelliges Kürzel, wie das im Bild unten, sehen. Dieses Kürzel ist deine System-Menü-Version, notiere sie dir, da du sie später brauchen wirst. Schalte danach deine Konsole aus. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+1. Starte deine Linux-Distribution und stelle sicher, dass du mit dem Internet verbunden bist.
+1. Öffne das Linux-Terminal, indem du `Strg + Umschalttaste + T` drückst.
+1. Führe folgende Befehle aus:
 ```bash
 wget https://raw.githubusercontent.com/RiiConnect24/Wii-Guide/master/assets/files/bluebomb-helper.sh
 chmod +x bluebomb-helper.sh
@@ -47,14 +47,14 @@ chmod +x bluebomb-helper.sh
 ```
 1. Der Helper beginnt dann mit dem Herunterladen der benötigten Dateien und wird dich über Informationen zu deiner Konsole befragen.
   - Falls du eine Wii Mini ausgewählt hast, wirst du danach gefragt, deine Region anzugeben. Dies kann über den letzten Buchstaben der System-Menü-Version festgestellt werden (`U` bei **USA** und `E` für **PAL**-Modelle).
-  - If you have selected a Wii you will be asked to provide your Wii System Menu Version (What you determined in step 4)
+  - Falls du eine Wii Mini ausgewählt hast, wirst du danach gefragt, deine Wii-System-Menü-Version (die du in Schritt 4 herausgefunden hast) anzugeben
 1. Schalte deine Konsole ein und verbinde **keine** Wii-Fernbedienungen.
 1. Drücke die Sync-Taste wiederholt, bis das Terminal `got connection handle` anzeigt. Dies kann mehrere Versuche brauchen, gib daher nicht auf.
 
 Stelle sicher, dass die Konsole sich in der Nähe von dem Computer befindet, der den Exploit ausführt, was idealerweise weniger als ein Meter sein sollten.
 {: .notice--info}
 
-Die Konsole sollte nun den HackMii Installer starten. You can now shutdown your Linux computer if you are not planning to use it later.
+Die Konsole sollte nun den HackMii Installer starten. Du kannst nun deinen Linux-Computer herunterfahren, falls du nicht vorhast, ihn nachher noch zu benutzen.
 
 [Falls du eine Wii hast, fahre nun fort mit der Homebrew-Kanal und BootMii-Installation](hbc)
 {: .notice--info}
