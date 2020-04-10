@@ -1,14 +1,14 @@
 ---
-title: "Dumping Wii/GameCube games"
+title: "Extrair jogos do Wii/GameCube"
 ---
 
-Want to legally dump a GameCube or a Wii game and play it on your Wii? With this tutorial we will explain how to do it.
+Quer fazer backup de um jogo do GameCube ou Wii legalmente, a fim de jogar ele no seu console? Com este tutorial, explicaremos como fazer.
 
-Please choose how you want to dump the disc.
+Por favor, escolha como deseja extrair o disco.
 {: .notice--warning}
 
-[I want to dump it to the SD card/USB device](cleanrip)
+[Quero fazer o backup no cartão SD/dispositivo USB](cleanrip)
 {: .notice--info}
 
-[I want to dump it directly to my PC over a network](dump-smb)
+[Quero fazer o backup diretamente no meu PC através de uma rede](dump-smb)
 {: .notice--info}
