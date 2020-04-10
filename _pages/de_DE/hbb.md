@@ -5,7 +5,7 @@ title: "Homebrew Browser"
 Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD)(empfohlen) bei, oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-In dem Homebrew Browser kannst du Homebrew Apps herunterladen. Er wurde wieder funktionell gemacht und wird auch der "Open Shop Channel" genannt
+In dem Homebrew Browser kannst du Homebrew Apps herunterladen. Er wurde wiederbelebt und wird nun auch als "Open Shop Channel" bezeichnet
 
 #### Voraussetzungen
 * Eine SD-Karte bzw. ein USB-Laufwerk
@@ -16,8 +16,8 @@ In dem Homebrew Browser kannst du Homebrew Apps herunterladen. Er wurde wieder f
 1. Entpacke den Homebrew Browser und verschiebe es in den `apps`-Ordner auf deiner SD-Karte bzw. deinem USB-Laufwerk.
 2. Verbinde deine SD-Karte bzw. dein USB-Laufwerk mit deiner Wii. Wenn du möchtest, kannst du nun den Homebrew Browser vom Homebrew-Kanal starten.
 
-Anbei dem Homebrew Browser ist eine Anleitung zur Verwendung des Homebrew Browsers enthalten.
+Im Homebrew Browser-Download ist eine Anleitung zur Verwendung des Homebrew Browsers enthalten.
 {: .notice--info}
 
-Du kannst die ShopChannel.ogg Datei mit der loop.ogg Datei austauschen, damit der Homebrew Browser die Wii Shop Kanal Musik abspielt.
+Du kannst die `ShopChannel.ogg`-Datei mit der `loop.ogg`-Datei austauschen, damit der Homebrew Browser die Wii-Shop-Kanal-Musik abspielt.
 {: .notice--info}
