@@ -22,7 +22,7 @@ Möchtest du RSS-Feed-Updates auf deiner Wii-Pinnwand erhalten? Diese Anleitung 
 1. Entpacke RSSMii und verschiebe es in den `apps`-Ordner auf deiner SD-Karte.
 2. Wir müssen eine `feeds.xml`-Datei im obersten Verzeichnis der SD-Karte erstellen, damit die Anwendung weiß, welche Feeds du abonnieren möchtest.
 
-Falls du Windows als Betriebssystem nutzt, kannst du das RSS Feeds Creators Programm von KcrPL nutzen. Es wird automatisch eine `feeds.xml`-Datei erstellen und sie in das oberste Verzeichnis deiner SD-Karte kopieren!
+Falls du Windows als Betriebssystem nutzt, kannst du das RSS Feeds Creators-Programm von KcrPL nutzen. Es wird automatisch eine `feeds.xml`-Datei erstellen und sie in das oberste Verzeichnis deiner SD-Karte kopieren!
 {: .notice--info}
 
 <b>Falls du keinen Windows-Computer hast, benutze diese Vorlage und erstelle mit deinem bevorzugten Texteditor eine <code>feeds.xml</code>.</b>
@@ -46,18 +46,18 @@ Ersetze den `name`-Teil mit dem Titel, den dein Feed haben soll. Stelle sicher, 
 </rss>
 ```
 
-Speichere den erstellten Feed im Root-Verzeichnis deiner SD-Karte.
+Speichere den erstellten Feed im obersten Verzeichnis deiner SD-Karte.
 3. Starte RSSMii vom Homebrew-Kanal.
-4. Drücke A um das Abonnieren der Feeds zu bestätigen. Ignoriere den Fehler von ES_GetTitleID, es ist alles gut.
-5. Wenn alles erledigt ist, drücke HOME um zum Homebrew-Kanal zurückzukehren. Du solltest bald RSS-Feed-Updates auf deiner Wii erhalten, viel Spaß!
+4. Drücke A um das Abonnieren der Feeds zu bestätigen. Ignoriere den Fehler von ES_GetTitleID, es ist alles in Ordnung.
+5. Wenn alles erledigt ist, drücke die HOME-Taste um zum Homebrew-Kanal zurückzukehren. Du solltest bald RSS-Feed-Updates auf deiner Wii erhalten, viel Spaß!
 
-Keine Feed-Updates erhalten? Versuche einen RSS-Feed, der öfters aktualisiert wird, wie bspw. ein Feed mit Nachrichten. Falls der RSS-Feed nicht allzu oft aktualisiert wird, erhälst du auch nicht viele Aktualisierungen.
+Keine Feed-Updates erhalten? Versuche einen RSS-Feed, der öfters aktualisiert wird, wie bspw. einen Feed mit Nachrichten. Falls der RSS-Feed nicht allzu oft aktualisiert wird, erhälst du auch nicht viele Aktualisierungen.
 {: .notice--warning}
 
-Wir empfehlen es, nur wenige Feeds zu verwenden. Wenn du viele Feeds abonniert hast, könntest deine Wii sehr viele Nachrichten erhalten.
+Wir empfehlen es, nur wenige Feeds zu verwenden, da, wenn du viele Feeds abonniert hast, du auf deiner Wii sehr viele Nachrichten erhalten wirst.
 {: .notice--info}
 
-Wenn du keine Updates nach ein paar Tagen bekommen solltest, müsstest du den RSS-Feed nochmal abonnieren. Führe RSSMii wieder über den Homebrew-Kanal aus und es erstellt brandneue Abonnements.
+Wenn du keine Updates nach ein paar Tagen bekommen solltest, müsstest du die RSS-Feeds nochmal abonnieren. Führe RSSMii wieder über den Homebrew-Kanal aus und es erstellt brandneue Abonnements.
 {: .notice--info}
 
 [RSSMii entfernen](rssmii-remove)
