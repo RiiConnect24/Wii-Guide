@@ -13,8 +13,8 @@ Kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riico
 ### Welche Voraussetzungen bzw. Empfehlungen gelten für SD-Karten?
 Du brauchst eine SD-Karte mit mindestens 128MB um Exploits auszuführen.
 
-- Wenn du den LetterBomb-/Wilbrand-Exploit benutzt, sollte deine SD-Karte nicht größer als 32GB sein.
-- Wenn du den Super Smash Bros. Brawl-Exploit benutzt, sollte deine SD-Karte nicht größer als 2GB sein.
+- Wenn du den LetterBomb-Exploit benutzt, sollte deine SD-Karte nicht größer als 32GB sein.
+- Wenn du den BlueBomb-Exploit benutzt, brauchst du nicht zwingend eine SD-Karte
 
 Um Homebrew-Anwendungen zu speichern, empfehlen wir eine SD-Karte mit mindestens 2GB.
 
