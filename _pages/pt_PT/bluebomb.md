@@ -4,60 +4,60 @@ title: "BlueBomb"
 
 {% include toc title="Table of Contents" %}
 
-If you need help with anything regarding this tutorial, please join [the Wii mini Hacking Discord server](https://discord.gg/6ryxnkS) (recommended)
+Se tu precisas de ajuda com alguma coisa relacionada a este tutorial, por favor entra no [server Wii Mini Hacking no Discord](https://discord.gg/6ryxnkS) (recomendado)
 {: .notice--info}
 
 ![BlueBomb](/images/bluebomb.png)
 
-Bluebomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Although it is the only exploit that works for the Wii mini, BlueBomb can run on the original Wii as well. This exploit also enables recovery from certain bricks, such as a banner brick.
+Bluebomb é uma vulnerabilidade que tira proveito de uma falha nas bibliotecas Bluetooth da Wii e da Wii Mini. Apesar de ser a única vulnerabilidade que funciona para o Wii Mini, Bluebomb também funciona na Wii original. Esta vulnerabilidade também ativa a recuperação de certos bricks, como os bricks de banner.
 
-For the original Wii, we recommend using [another exploit](/get-started) instead if you intend to install the Homebrew Channel and/or BootMii.
+Para a Wii original, nós recomendamos utilizar [outra vulnerabilidade](/get-started) se pretenderes instalar o Homebrew Channel e/ou BootMii.
 {: .notice--info}
 
-This exploit will not work on a Wii U's vWii. Please follow [this guide](https://wiiuguide.xyz/#/vwii/vwii-modding) instead.
+Esta vulnerabilidade não resultará na vWii da Wii U. Por favor segue [este guia](https://wiiuguide.xyz/#/vwii/vwii-modding).
 {: .notice--warning}
 
-#### Section I - What you need
-- A Linux machine
-  - If you are using a Chromebook, you do not need to install another Operating System; instead, enable [Linux in ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en).
-  - If you have a Raspberry Pi, you can use that instead as it most likely has Linux preinstalled.
-  - Using Windows Subsystem for Linux will **not** work, due to the inability to access `systemctl`.
-  - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option
-    - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/)
-    - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
-  - You can [flash a Linux install to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) if you'd not like to install it to your computer.
-- A Bluetooth adapter.
-  - An internal Bluetooth adapter will work.
-  - If you do not have one, make sure to get one compatible with Linux.
-- A USB flash drive formatted as FAT32.
-  - This cannot be the same flash drive used for your Linux Machine
+#### Secção I - O que precisas
+- Uma máquina Linux
+  - Se estás a utilizar um Chromebook, não precisas de instalar outro Sistema Operacional; em vez disto, ativa [ Linux no ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en).
+  - Se tens um Raspberry Pi, podes utilizá-lo porque ele tem o Linux pré-instalado.
+  - Utilizando um subsistema Windows para Linux ** não ** ira funcionar, devido à inabilidade em aceder `systemctl`.
+  - Se tu não tens Linux, [Ubuntu](https://ubuntu.com/download/desktop) é a opção mais amigável
+    - Dispositivos de 32-bit requerem [Ubuntu 16.04](http://releases.ubuntu.com/16.04/)
+    - Para dispositivos 64-bit é recomendado que utilizes a edição LTS devido à estabilidade, mas a versão mais recente também funciona.
+  - Tu podes [instalar Linux para um USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) se não preferires instalá-lo no teu computador.
+- Um adaptador Bluetooth.
+  - Um adaptador Bluetooth interno irá funcionar.
+  - Se não tiveres um, certifica-te que arranjas um com compatibilidade com Linux.
+- Um USB flash drive formatado como FAT32.
+  - Isto não pode ser o mesmo flash drive utilizado para a tua máquina Linux
 
-#### Section II - Performing the exploit
-1. Download the HackMii installer from [the BootMii website](https://bootmii.org/download/).
-1. Unpack it and place the `boot.elf` file in your flash drive.
-1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright).
-1. Turn on your console and navigate to the settings menu. On the top right corner you should see a 4-character code like the one in the picture below. This code is your System Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
-1. Launch your Linux distro, and ensure you are connected to the internet.
-1. Open the Linux Terminal by pressing `CTRL + SHIFT + T`.
-1. Run the following commands:
+#### Secção II - Executando a vulnerabilidade
+1. Descarrega o instalador HackMii a partir do [site do BootMii](https://bootmii.org/download/).
+1. Extrai-o e coloca o ficheiro `boot.elf` no teu flash drive.
+1. Conecta o flash drive na consola. Para a Wii Mini, a entrada USB está na parte de trás. Para a Wii normal, utiliza a entrada debaixo. (ou a entrada da direita se estiver de pé).
+1. Liga a tua consola e navega até ao menu das definições. No canto superior direito deverás ver um código de 4 caracteres como o da imagem debaixo. Este código é a tua versão do Sistema Menu, anota isso já que irás precisá-lo mais tarde. Depois disso, desliga a tua consola. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+1. Inicia a tua distribuição do Linux, e certifica que estás conectado à internet.
+1. Abre o Terminal do Linux pressionando `CTRL + SHIFT + T`.
+1. Executa os seguintes comandos:
 ```bash
 wget https://raw.githubusercontent.com/RiiConnect24/Wii-Guide/master/assets/files/bluebomb-helper.sh
 chmod +x bluebomb-helper.sh
 ./bluebomb-helper.sh
 ```
-1. The helper will then download the required files, and ask for information about your console.
-  - If you have selected a Wii mini you will be asked to provide your region. This can be determined by the last letter of the System Menu version (`U` for **USA** and `E` for **PAL** models).
-  - If you have selected a Wii you will be asked to provide your Wii System Menu Version (What you determined in step 4)
-1. Turn on your console and **do not** connect any Wiimotes.
-1. Press the Sync button repeatedly until the terminal shows `got connection handle`. This could take numerous attempts, so don't give up.
+1. O ajudante descarregará os ficheiros necessários; e perguntará por informações sobre a tua consola.
+  - Se tu selecionaste a Wii Mini, serás solicitado a fornecer a tua região. Isto pode ser determinado pela ultima letra da versão do Sistema Menu (`U` para **EUA** e `E` para ** PAL** modelos).
+  - Se selecionaste a Wii serás solicitado a fornecer a tua versão do Sistema Menu (O que anotaste no passo 4)
+1. Liga a tua consola e **não** conectes nenhum Wiimote.
+1. Pressiona o botão Sync repetidamente até ao terminal mostrar `got connection handle`. Poderá levar a numerosas tentativa, por isso não desistas.
 
-Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
+Certifica-te que a consola está perto do computador executando o exploit, idealmente deve ser inferior a 3 pés.
 {: .notice--info}
 
-The console should now boot to the HackMii installer. You can now shutdown your Linux computer if you are not planning to use it later.
+A consola deverá agora abrir o instalador HackMii. Tu podes desligar o teu computador Linux se não estiveres a planear em utilizá-lo mais tarde.
 
-[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
+[Se estiveres a utilizar a Wii, procede à instalação do Homebrew Channel e BootMii](hbc)
 {: .notice--info}
 
-[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
+[Se estiveres a utilizar a Wii Mini, procede à instalação do Homebrew Channel](hbc-mini)
 {: .notice--info}
