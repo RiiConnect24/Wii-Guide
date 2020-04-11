@@ -42,9 +42,7 @@ This exploit will not work on a Wii U's vWii. Please follow [this guide](https:/
 1. Open the Linux Terminal by pressing `CTRL + SHIFT + T`.
 1. Run the following commands:
 ```bash
-wget https://raw.githubusercontent.com/RiiConnect24/Wii-Guide/master/assets/files/bluebomb-helper.sh
-chmod +x bluebomb-helper.sh
-./bluebomb-helper.sh
+curl -s "https://raw.githubusercontent.com/RiiConnect24/Wii-Guide/master/assets/files/bluebomb-helper.sh" | bash -s --
 ```
 1. The helper will then download the required files, and ask for information about your console.
   - If you have selected a Wii mini you will be asked to provide your region. This can be determined by the last letter of the System Menu version (`U` for **USA** and `E` for **PAL** models).
