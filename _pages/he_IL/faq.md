@@ -13,10 +13,10 @@ title: "שאלות נפוצות"
 ### מהן ההמלצות והדרישות לכרטיס SD?
 נדרש כרטיס SD עם לפחות 128GB כדי לנצל פרצה.
 
-- אם קיים שימוש בפרצת LetterBomb או Wilbrand, כרטיס ה SD לא יכול להיות עם נפח יותר גדול מ 32GB.
-- אם קיים שימוש בפרצת ה Super Smash Bros Brawl, כרטיס ה SD לא יכול להיות עם נפח יותר גדול מ 2GB.
+- If you are using the LetterBomb exploit, your SD card should be no larger than 32 GB.
+- If you are using the BlueBomb exploit, you do not need an SD card
 
-כדי לאכסן אפליקציות Homebrew, מומלץ כרטיס SD עם לפחות 2GB של נפח.
+To store homebrew applications, we recommend an SD card with at least 2 GB.
 
 ### קיבלתי שגיאה XXXXXX כשהשתמשתי ב Wiimmfi, איך אפשר לתקן אותה?
 כדי לבדוק מה קוד השגיאה אומר, יש לבקר באתר [השגיאות של Wiimmfi](https://wiimmfi.de/error).
