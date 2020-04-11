@@ -4,7 +4,7 @@ layout: single
 sitemap: false
 ---
 
-![WiiTutoriais](/images/WiiTutorials.jpg)
+![WiiTutorials](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
 **Destaque**
@@ -48,15 +48,15 @@ sitemap: false
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 
-**Wii mini**
-+ [Installing The Homebrew Channel on the Wii mini](hbc-mini)
-+ [Installing cIOS on the Wii mini](cios-mini)
+**Wii Mini**
++ [Instalando The Homebrew Channel na Wii Mini](hbc-mini)
++ [Instalando cIOS na Wii Mini](cios-mini)
 
 
 **Site**
-+ [Home](/)
-+ [Get Started](get-started)
++ [Início](/)
++ [Vamos Começar](get-started)
 + [FAQ](faq)
-+ [Donations](donations)
++ [Doações](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
