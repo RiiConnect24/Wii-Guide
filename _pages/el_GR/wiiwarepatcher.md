@@ -4,20 +4,20 @@ title: "WiiWare Patcher"
 
 {% include toc title="Table of Contents" %}
 
-Want to patch WAD games (WiiWare) to work with Wiimmfi and you don't know how? This tutorial will explain you how WiiWare Patcher works. (This tutorial is only suitable for Windows operating system)
+Θέλετε να κάνετε τα παιχνίδια WAD (WiiWare) να λειτουργήσουν με το Wiimmfi και δεν ξέρετε πως; Αυτός ο οδηγός θα σας εξηγήσει πως λειτουργεί το WiiWare Patcher. (Αυτός ο οδηγός είναι κατάλληλος μόνο για το λειτουργικό σύστημα Windows)
 
 ![Using the WiiWare Patcher](/images/rc24_using_the_wiiware_patcher.jpg)
 
-This tutorial is only for Windows version of WiiWare Patcher.
+Αυτός ο οδηγός είναι μόνο για την έκδοση του WiiWare Patcher για Windows.
 {: .notice--info}
 
-#### What you need
+#### Τι χρειάζεστε
 
-* A Windows computer
+* Έναν υπολογιστή με Windows
 
-#### Downloading
+#### Κατέβασμα
 
-[If you want to download WiiWare Patcher without cmd.exe method, click here!](https://github.com/RiiConnect24/auto-wiiware-patcher/releases)
+[Εάν θέλετε να κατεβάσετε το WiiWare Patcher χωρίς την μέθοδο cmd.exe, κάντε κλικ εδώ!](https://github.com/RiiConnect24/auto-wiiware-patcher/releases)
 {: .notice--info}
 
 If you are on Windows 7 or newer open cmd.exe (Run or press Windows Logo+R and type in cmd.exe) and type in `powershell -command "(new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/KcrPL/KcrPL.github.io/master/Patchers_Auto_Update/WiiWare-Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat`
