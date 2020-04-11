@@ -4,27 +4,27 @@ title: "FAQ"
 
 ![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
 
-### How risky is hacking my console?
-Bricks (a state where either some parts of your Wii software are not working, or your Wii is not working at all) are now *basically* impossible unless you ignore/circumvent all safety checks.
+### Quão arriscado é hackear a minha consola?
+Bricks (um estado em que algumas partes do software da tua Wii não estão a funcionar, ou a tua Wii não está a funcionar de todo) são agora *basicamente* impossíveis, a menos que ignores todas as verificações de segurança.
 
-### Where should I go for support?
-Either email us at support@riiconnect24.net or join the [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD).
+### Para onde devo ir para suporte?
+Ou envia-nos um email para support@riiconnect24.net ou entra no [server RiiConnect24 no Discord](https://discord.gg/b4Y7jfD).
 
-### What are the SD card requirements and/or recommendations?
-You will need an SD card with at least 128MB to run an exploit.
+### Quais são os requisitos e/ou recomendações do cartão SD?
+Necessitarás de um cartão SD com, pelo menos, 128MB para executar uma vulnerabilidade.
 
-- If you are using the LetterBomb/Wilbrand exploit, your SD card should be no larger than 32 GB.
-- If you are using the Super Smash Bros Brawl exploit, your SD card should be no bigger than 2 GB.
+- Se estiveres a utilizar a vulnerabilidade LetterBomb, o teu cartão SD não deve ser maior que 32 GB.
+- Se estiveres a utilizar a vulnerabilidade BlueBomb, não precisas de cartão SD
 
-To store homebrew applications, we recommend an SD card with atleast 2 GB.
+Para armazenar aplicações homebrew, nós recomendamos um cartão SD com pelo menos 2 GB.
 
-### I got error XXXXXX in Wiimmfi, how to fix it?
-In order to check what error that is, please visit the [Wiimmfi error page](https://wiimmfi.de/error).
+### Obtive um erro XXXXXX no Wiimmfi, como posso resolvê-lo?
+Para verificares que erro é, por favor visita o [site de erros Wiimmfi](https://wiimmfi.de/error).
 
-### What are the limitations in vWii modding?
-The following is a list of things that can potentially **BRICK** your vWii (don't do these things!):
-* Installing IOS for a Wii console on vWii.
-* Installing Wii menu themes not formatted correctly for vWii and/or your region.
-* Installing BootMii and/or Priiloader/Preloader.
-* Failure during the install of crucial system/IOS titles (e.g. power outage).
-* Modifying the vWii NAND without knowing what you are doing.
+### Quais são as limitações na modificação do vWii?
+A seguir está uma lista de coisas que podem potencialmente **BRICKAR** a tua vWii (não faças estas coisas!):
+* Instalar IOS para uma consola Wii numa vWii.
+* Instalar temas para o menu Wii não formatados para vWii e/ou para a tua região.
+* Instalar BootMii e/ou Priiloader/Preloader.
+* Falha durante a instalação de títulos cruciais do sistema/IOS (ex. falta de energia).
+* Modificar a vWii NAND sem saber o que estás a fazer.
