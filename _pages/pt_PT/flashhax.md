@@ -2,24 +2,24 @@
 title: "FlashHax"
 ---
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor entra no [server do RiiConnect24 no Discord](https://discord.gg/b4Y7jfD) (recomendado) ou [envia-nos um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-FlashHax is an exploit for the Wii that is triggered by using the Internet Channel. Unlike other exploits, this doesn't require an SD card.
+FlashHax é uma vulnerabilidade para a Wii que é atingido utilizando o Internet Channel. Diferente das outras vulnerabilidades, este não requer um cartão SD.
 
-#### What you need
+#### O que precisas
 
-- A Wii with an Internet connection on system version 4.3
-- The Internet Channel
-   - This will not be installed on a vWii or a Wii Mini. Check out the other guides listed in [Get Started](/get-started) instead.
+- Uma Wii com conexão à Internet na versão de sistema 4.3
+- O Internet Channel
+   - Isto não será instalado numa vWii ou uma Wii Mini. Verifica outros guias listados no [Vamos Começar](/get-started) em vez disto.
 
-#### Instructions
+#### Instruções
 
-1. Open up the Internet Channel on your Wii.
-2. Go to flashhax.com in the browser and bookmark the page.
-3. Open the site from the bookmark. It'll then proceed to download and load the HackMii Installer. It may take some time as it is downloading the installer over the internet.
+1. Abre o Internet Channel na tua Wii.
+2. Vai a flashhax.com no teu browser e coloca nos favoritos.
+3. Abre o site pelos favoritos. Isto irá depois proceder ao descarregamento e carregamento do instalador HackMii. Pode levar algum tempo para que descarregue o instalador pela internet.
 
-If the HackMii Installer doesn't load and it instead freezes (you can't move your cursor), please restart your Wii and repeat step 3 until it works. It might take multiple tries, be persistent!
+Se o instalador HackMii não carregar e, em vez disso, congelar (não consegues mover o cursor), por favor reinicia a tua Wii e repete o passo 3 até funcionar. Poderá levar a múltiplas tentativas, sê persistente!
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[Continua para a Instalação do Homebrew Channel e BootMii](hbc)
 {: .notice--info}
