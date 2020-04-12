@@ -1,31 +1,31 @@
 ---
-title: "Homebrew Channel - for Wii mini only"
+title: "Homebrew Channel - só para a Wii Mini"
 ---
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor entra no [server do RiiConnect24 no Discord](https://discord.gg/b4Y7jfD) (recomendado) ou [envia-nos um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![HBC Logo](/images/hbc.png)
 
-The Homebrew Channel is where you will go to launch homebrew applications.
+O Homebrew Channel é onde tu irás abrir aplicações homebrew.
 
-#### Instructions
-This page is **only** intended for users of the Wii mini. If you have a regular Wii, follow [this guide](hbc) instead.
+#### Instruções
+Esta página é **só** para utilizadores da Wii Mini. Se tens uma Wii regular, segue [este guia](hbc) em vez disto.
 {: .notice--info}
 
-While it is possible to install BootMii on a Wii mini, you will not be able to utilize it unless you have soldered on an SD card slot.
+Embora seja possível instalar o BootMii num Wii Mini, não poderás utilizá-lo, a menos que tenhas soldado em um slot para cartão SD.
 {: .notice--info}
 
-1. You will see a scam warning screen. Wait 30 seconds for the text "Press 1 to continue" to appear, then press 1. ![Scam Screen](/images/Wii/ScamScreen.png)
+1. Irás ver um ecrã de aviso de scam. Espera 30 segundos para o texto "Press 1 to continue" aparecer, depois pressiona 1. ![Scam Screen](/images/Wii/ScamScreen.png)
 
-1. Press Continue, then select Install The Homebrew Channel, and press install. ![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
+1. Clica em Continue, depois seleciona Install The Homebrew Channel, e pressiona install. ![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
-1. Press Continue when finished. ![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
+1. Pressiona Continue quando acabares. ![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
 
 
-1. Once done, select `Exit` to exit the HackMii installer.
+1. Uma vez feito, seleciona `Exit` para saires do instalador HackMii.
 
 {: .notice--info}
-[Continue to installing Wii mini cios](cios-mini)
+[Continua para a instalação dos cIOS do Wii Mini](cios-mini)
