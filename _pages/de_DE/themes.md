@@ -27,7 +27,7 @@ Wie empfehlen dir, vor dem Fortfahren [cIOS zu installieren](cios).
 #### Voraussetzungen
 
 * Eine Wii
-* Eine SD-Karte bzw. ein USB-Laufwerk
+* Eine SD-Karte oder ein USB-Laufwerk
 * Ein Computer mit Windows (oder nutze Mono oder Wine auf macOS/Linux)
 * [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
