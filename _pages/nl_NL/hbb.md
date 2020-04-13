@@ -2,7 +2,7 @@
 title: "Homebrew Browser"
 ---
 
-Als u hulp nodig heeft bij iets wat met deze tutorial te maken heeft, sluit je dan aan bij <0>de RiiConnect24 Discord server</0> (aanbevolen) of <1>e-mail ons op support@riiconnect24.net</1>.
+Als u hulp nodig heeft bij iets wat met deze tutorial te maken heeft, sluit u dan aan bij [de RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (aanbevolen) of [e-mail ons via support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 De Homebrew Browser is een applicatie waarvan je andere homebrew applicaties kunt downloaden. Het is opnieuw opgestart en er wordt nu naar gerefereerd als de "Open Shop Channel"
