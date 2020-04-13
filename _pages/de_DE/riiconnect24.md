@@ -7,7 +7,7 @@ title: "RiiConnect24"
 Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD)(empfohlen) bei, oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![RiiConnect24-Logo](/images/WiiRC24Logo.jpg)
 
 [RiiConnect24](https://rc24.xyz/) erlaubt es dir, eingestellte Dienste von WiiConnect24 zu benutzen, was den Nachrichtenkanal, Wetterkanal, Meinungskanal, Nintendo-Kanal und Mii-Wettbewerbskanal, sowie Wii Mail beinhaltet.
 
@@ -27,7 +27,7 @@ Um Wii Mail zu benutzen, muss sie auf Wii-Systemmenuversion 4.3 sei, sonst funkt
 
 #### Voraussetzungen
 
-* Eine SD-Karte bzw. ein USB-Laufwerk
+* Eine SD-Karte oder ein USB-Laufwerk
 * Eine Wii mit Internetverbindung
 * Ein Computer
 * [RiiConnect24 Patcher (nur für Windows)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
