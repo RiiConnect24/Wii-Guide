@@ -1,5 +1,5 @@
 ---
-title: "Seitenverzeichnis"
+title: "Seitennavigation"
 layout: single
 sitemap: false
 ---
@@ -18,14 +18,14 @@ sitemap: false
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
 + [RiiConnect24](riiconnect24)
-+ [RiiConnect24 Batterie Fix](riiconnect24-batteryfix)
++ [RiiConnect24 Batterie-Fix](riiconnect24-batteryfix)
 + [RiiConnect24 Fehlerbehebung](riiconnect24-troubleshooting)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
 
 **Modding-Einmaleins**
-* [BootMii Sicherung](bootmii)
+* [BootMii-Sicherung](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
