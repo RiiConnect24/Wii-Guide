@@ -4,7 +4,7 @@ title: "Een cd-rom kopiëren via uw eigen internet connectie"
 
 {% include toc title="Inhoudsopgave" %}
 
-Als u hulp nodig heeft bij iets wat met deze tutorial te maken heeft, sluit je dan aan bij [de RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (aanbevolen) of [e-mail ons via support@riiconnect24.net](mailto:support@riiconnect24.net).
+Als u hulp nodig heeft bij iets wat met deze tutorial te maken heeft, sluit u dan aan bij [de RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (aanbevolen) of [e-mail ons via support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Wilt u uw spel(len) kopiëren over uw eigen netwerk? Volg dan deze tutorial! Dit kan heel handig zijn omdat u zo geen SD-kaart of USB-stick nodig heeft met genoeg ruimte om een cd-rom op te zetten (kopiëren).
