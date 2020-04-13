@@ -1,34 +1,34 @@
 ---
 layout: splash
-title: "Wii Guide"
+title: "Guia Wii"
 header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
-  cta_label: "Get Started"
+  cta_label: "Introdução"
   cta_url: "get-started"
   caption:
-excerpt: "The complete guide to modding your Nintendo Wii."
+excerpt: "O guia completo para modificar seu Nintendo Wii."
 ---
 
-The guide is also available in other languages! To change the language, please press the icon at top right and change your language.
+O guia também está disponível em outros idiomas! Para alterar a língua, pressione no ícone do canto superior direito e mude seu idioma.
 {: .notice--info}
 
-## What is Wii Guide?
+## O que é o Guia Wii?
 
-Wii Guide is a guide maintained by [RiiConnect24](https://rc24.xyz) to get you started with Wii modding.
+O Guia Wii é um guia mantido pelo [RiiConnect24](https://rc24.xyz) para você começar a modificar seu Wii.
 
-## What is "homebrew"?
+## O que é "homebrew"?
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to unofficial software including games, utilities, emulators and others.
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refere-se a software não oficial, incluindo jogos, utilitários, emuladores e outros.
 
-Running homebrew on your Nintendo Wii is free using various exploits.
+Executar homebrew no seu Nintendo Wii é grátis, através de vários exploits.
 
-## What can I do with homebrew?
+## O que eu posso fazer com homebrew?
 
-Here's a list of things you can do with it. While these aren't all the things you can do with homebrew, it should give you a starting point for things you can do. Our guide will help you easily get started.
+Aqui está uma lista de coisas que você pode fazer. Embora essas não sejam todas as coisas que você pode fazer com o homebrew, ela oferece um ponto de partida para o que você pode fazer. Nosso guia te ajudará a começar facilmente.
 
-- Patch game disc contents (allowing you to load game modifications) using [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
+- Aplicar patches no conteúdo do disco dos jogos (permitindo que você jogue com modificações) usando [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
 - Install themes to your Wii Menu using [MyMenuify](/themes).
 - Install a USB Loader like [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) or [USB Loader GX](/usbloadergx) to launch all your favorite titles from a USB storage device and more.
 - Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](/dump-wads)
