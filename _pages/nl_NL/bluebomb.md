@@ -4,7 +4,7 @@ title: "BlueBomb"
 
 {% include toc title="Inhoudsopgave" %}
 
-If you need help with anything regarding this tutorial, please join [the Wii mini Hacking Discord server](https://discord.gg/6ryxnkS) (recommended)
+Als u hulp nodig heeft bij iets wat met deze tutorial te maken heeft, sluit u dan aan bij [de Wii Mini Hacking Discord server](https://discord.gg/6ryxnkS) (aanbevolen)
 {: .notice--info}
 
 ![BlueBomb](/images/bluebomb.png)
