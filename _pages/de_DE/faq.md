@@ -1,5 +1,5 @@
 ---
-title: "Häufig gestellte Fragen (FAQ)"
+title: "FAQ (Häufig gestellte Fragen)"
 ---
 
 ![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
