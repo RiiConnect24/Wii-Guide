@@ -77,42 +77,42 @@ Tu podes fazer patch em jogos WiiWare para jogares no Wiimmfi.
 {: .notice--info}
 
 Passos:
-1. Extract the .zip of the latest version of Auto WiiWare Patcher, and put your WAD in it.
-2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux.
-3. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
+1. Extrai o ficheiro .zip da ultima versão do Auto WiiWare Patcher, e coloca a tua WAD lá.
+2. Executa o script do patch para o teu sistema operacional: é usual acabar em `.bat` para Windows e `.sh` para Mac/Linux.
+3. Se completou com sucesso, instala a WAD que foi feito em `wiiware-wads` com o Wii Mod Lite.
 
-## Other stuff
+## Outras coisas
 
-### Mario Kart Wii Competitions
-Wiimmfi allows you to participate in Mario Kart Wii competitions again.
+### Competições Mario Kart Wii
+Wiimmfi permite que participes outra vez em competições no Mario Kart Wii.
 
-#### What you need
+#### O que precisas
 
-- An SD card or USB drive
-- Mario Kart Wii Competition Patcher
+- Um cartão SD ou USB drive
+- Patcher de competições Mario Kart Wii
    - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
    - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
-#### Instructions (for Wii)
+#### Instruções (para Wii)
 
-1. Extract Mario Kart Wii Competition Patcher and put it in the `apps` folder on your SD Card.
-2. Insert your SD card or USB drive into the Wii.
-3. Launch the original Mario Kart Wii game (not Wiimmfi patched).
-4. Navigate to Settings -> Network Settings (or Nintendo WFC Connection) -> Message Service. If you turned the message service feature on, turn it off and turn it on again.
-5. Launch Mario Kart Wii Competition Patcher.
-6. The patcher will look for save files for Mario Kart Wii on your storage device in various places, and upload them. This is done in case a missing competition is found in your save file. It will also, of course, patch your Wii for competitions.
+1. Extrai o Patcher de Competições Mario Kart Wii e coloca-o na pasta `apps` no teu cartão SD.
+2. Insere o teu cartão SD ou USB drive na Wii.
+3. Abre o jogo original Mario Kart Wii (não modificado com Wiimmfi).
+4. Navega até Settings -> Network Settings (ou Nintendo WFC Connection) -> Message Service. Se já tinhas o message service ligado, desliga e liga novamente.
+5. Abre o Patcher de competições Mario Kart Wii.
+6. O patcher irá procurar por save files para Mario Kart Wii no teu armazenamento em vários lugares, e carrega-o. Isto é feito caso uma competição ausente seja encontrada no teu save file. Isto irá também, claramente, modificar a tua Wii para competições.
 
-If you're using the Wii U, you will have to run the competitions patcher whenever you want to check for a competition, because WiiConnect24 is not enabled on the Wii U.
+Se estás a utilizar a Wii U, irás ter que executar o patcher de competições todas as vezes que quiseres verificar uma competição, porque o WiiConnect24 não está ativado para Wii U.
 {: .notice--info}
 
 ### CTGP-R (Mario Kart Wii)
-MrBean35000vr and Chadderz have an amazing CTGP-R distribution, the application that allows you to use a set of custom tracks, has automatic Wiimmfi patching. Go to the [ChadSoft Website](http://chadsoft.co.uk) for the download and instructions.
+MrBean35000vr e Chadderz têm uma fantástica distribuição CTGP-R, a aplicação que permite que utilizes um conjunto de pistas personalizadas, tem modificação Wiimmfi automática. Vai ao [site ChadSoft](http://chadsoft.co.uk) para o descarregamento e instruções.
 
-### MKW Hack Pack (Mario Kart Wii)
-Huili has put together a really good collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. To learn how to set it up, go to the [wiki page](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+### Pacote de Hack MKW (Mario Kart Wii)
+Huili juntou realmente uma boa coleção de pistas personalizadas e hacks chamado MKW Hack Pack e permite conexões com Wiimmfi. Para aprenderes como configurar, vai à [página wiki](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
 
 ### Wiimms MKW Fun (Mario Kart Wii)
-Wiimm and Leseratte created a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte and contains a Wiimmfi patch and lots of other features. You can find out more about it on its [wiki page](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
+Wiimm e Leseratte criaram uma distribuição de pista personalizada chamada "Wiimms MKW Fun", que é atualizado cerca de três vezes por ano. É baseado na estrutura LE-CODE feito por Leseratte e contém um patch Wiimmfi e muitos outros destaques. Podes ver mais sobre isto nesta [página wiki](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
 
-[Click here! We got many other tutorials that you can check out :)](site-navigation)
+[Clica aqui! Nós temos mais outros tutoriais que podes ver :)](site-navigation)
 {: .notice--info}
