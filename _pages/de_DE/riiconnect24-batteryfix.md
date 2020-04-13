@@ -28,7 +28,7 @@ Falls der Fehler weiterhin besteht, könnte die Zeit auf deiner Wii falsch einge
 4. Schraube die Batteriehalterung mit deinem Schraubendreher ab. ![Battery Unscrew](http://i.imgur.com/VRRAiSk.gif)
 5. Lass deine Wii eine Weile getrennt liegen, während die Batterie entfernt ist. Es ist deine Entscheidung, wie lang sie getrennt sein soll. Eine Stunde oder zwei dürften ausreichend sein. ![Battery](/images/RiiConnect24/clock/battery.jpg)
 6. Schraube die Batteriehalterung wieder rein. ![Battery Screw](http://i.imgur.com/8MEy5Jo.gif)
-7. Verbinde dein Wii-Netzteil. ![Plug Wii AC Adapter](/images/RiiConnect24/clock/plug.jpg)
+7. Schließ dein Wii-Netzteil an.![Plug Wii AC Adapter](/images/RiiConnect24/clock/plug.jpg)
 8. Probiere nun den Nachrichten- oder Wetter-Kanal aus. Hoffentlich funktioniert es nun. Falls nicht, kannst du den Vorgang einmal wiederholen und es könnte funktionieren.
 
 Immer noch kein Glück? Unglücklicherweise müsstest du deine Wii initialisieren, damit der Fehler verschwindet. Mache vorher einfach eine Sicherung deiner Speicherdaten und Miis mit dem [SaveGame Manager GX](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download).
