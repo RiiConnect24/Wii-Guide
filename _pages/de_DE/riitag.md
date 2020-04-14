@@ -19,7 +19,7 @@ RiiTag ist ein anpassbarer und dynamischer Gamertag. Durch Teilen deines Gamerta
 
 ##### Schritt 1 - Einstieg
 
-1. [Gehe auf die RiiTag-Webseite.](https://tag.rc24.xyz/)
+1. [Gehe auf die RiiTag-Website.](https://tag.rc24.xyz/)
 2. Gehe auf `Log In` und melde dich mit deinem Discord-Konto an.
 3. Ein Fenster wird auftauchen und dich fragen, ob du `RiiConnect24 Login` Zugriff auf Discord geben möchtest. Wähle `Autorisieren`.
 4. Wähle `Edit Your Tag` und passe ihn nach Belieben an. Du kannst einen Hintergrund, ein Overlay, ein Symbol, einen Spitzname, den Wii-Code hinzufügen, sowie von Hand die Spiele, die auf deinem Tag auftauchen sollen (bei der Verwendung eines USB-Loaders nicht erforderlich).
@@ -71,5 +71,5 @@ Wenn du willst, kannst du das `CfgLoaderConfigurator.exe`-Programm (nur für Win
 5. Speichere die bearbeitete `config.txt`-Datei.
 6. Du hast jetzt RiiTag eingerichtet. Du kannst jetzt ein beliebiges Spiel starten, um zu sehen, dass es korrekt funktioniert.
 
-[Continue to site navigation](site-navigation)<br> Wir haben viele weitere Anleitungen, die dir gefallen könnten.
+[Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
 {: .notice--info}
