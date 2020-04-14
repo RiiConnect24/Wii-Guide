@@ -4,7 +4,7 @@ title: RiiTag auf der Wii U
 
 {% include toc title="Table of Contents" %}
 
-Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD)(empfohlen) bei, oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
+Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [RiiConnect24 Discord-Server](https://discord.gg/b4Y7jfD) bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 RiiTag ist ein anpassbarer und dynamischer Gamertag. Durch Teilen deines Gamertags (ein dynamische Bild), kannst du Freunden zeigen was du gespielt hast! Du kannst ein Plugin auf deiner Wii U-Konsole ausführen und es aktualisiert sich selbstständig.
@@ -51,6 +51,6 @@ Teile deinen RiiTag-Schlüssel mit niemandem! Falls du das tust, können andere 
 Du hast nun RiiTag auf deiner Wii U eingerichtet! Denk daran, dass du das Plugin jedes Mal über den oben beschriebenen Weg ausführen musst, wenn du es benötigst, falls sich daran nichts ändert. In dem Fall wird diese Anleitung angepasst. Jetzt kannst du ein paar Spiele spielen und sehen, wie sie in deinem RiiTag auftauchen!
 {: .notice--success}
 
-[Continue to site navigation](site-navigation)<br> Wir haben viele weitere Anleitungen, die dir gefallen könnten.
+[Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
 {: .notice--info}
 
