@@ -11,10 +11,10 @@ Diese Anleitung wird dir zeigen, wie du cIOS (custom IOS) installieren kannst. D
 Wenn du eine Wii Mini besitzt, installiere stattdessen [dieses cIOS](cios-mini). Wenn du versuchst ein anderes cIOS als dieses auf deiner Wii Mini zu installieren dann könnte dies **deine Konsole bricken!!**
 {: .notice--info}
 
-#### Was du benötigst
+#### Voraussetzungen
 
 * Eine Wii mit einer Internetverbindung
-* Eine SD Karte oder ein USB Laufwerk
+* Eine SD-Karte oder ein USB-Laufwerk
 * [d2x cIOS Installer](https://sites.google.com/site/completesg/backup-launchers/installation/d2x-cIOS-Installer-Wii.zip?attredirects=0&d=1)
 
 #### Anleitung
@@ -26,7 +26,7 @@ Wenn du eine Wii Mini besitzt, installiere stattdessen [dieses cIOS](cios-mini).
 
 ##### Abschnitt 2 - Installieren
 
-1. Drücke zum Fortfahren, stelle dann folgende Optionen ein:
+1. Drücke auf Fortfahren, stelle dann folgende Optionen ein:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 56
@@ -34,7 +34,7 @@ Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 ![Install cIOS 249](/images/Wii/Install249.png)
-1. Sobald dies eingestellt ist, drücke A zum installieren.
+1. Wenn du damit fertig bist, drücke zweimal auf A um die Installation zu starten.
 1. Wenn die Installation abgeschlossen ist, drücke A um zurückzugehen und stelle dann folgende Optionen ein:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
@@ -43,7 +43,7 @@ Select cIOS slot: 250
 Select cIOS version: 65535
 ```
 ![Install cIOS 250](/images/Wii/Install250.png)
-1. Sobald dies eingestellt ist, drücke A zum installieren.
+1. Wenn du damit fertig bist, drücke zweimal auf A um die Installation zu starten.
 1. Wenn die Installation abgeschlossen ist, drücke A um zurückzugehen und stelle dann folgende Optionen ein:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
@@ -61,5 +61,5 @@ Du kannst nun Homebrew wie den [USB Loader GX](usbloadergx) benutzen.
 [Fortfahren zum Homebrew Browser](hbb)<br> Der Homebrew Browser ist ein guter Ort um Homebrew für deine Wii zu bekommen. Dies zu installieren ist nicht zwingend erforderlich.
 {: .notice--info}
 
-[Fortfahren im Seitenverzeichnis](site-navigation)<br> Wir haben viele weitere Anleitungen, die dir gefallen könnten.
+[Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
 {: .notice--info}
