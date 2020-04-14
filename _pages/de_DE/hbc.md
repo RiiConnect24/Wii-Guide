@@ -15,7 +15,7 @@ Mit dem Homebrew-Kanal kannst du Homebrew-Anwendungen ausführen. BootMii ist ei
 
 1. Du wirst eine Betrugswarnung sehen. Warte 30 Sekunden, bis der Text "Press 1 to continue" auftaucht und drücke dann die 1-Taste. ![Scam Screen](/images/Wii/ScamScreen.png)
 
-2. Wenn du im HackMii Installer bist, kannst du denn Homebrew-Kanal und BootMii installieren. ![Results](/images/Wii/Results.png)
+2. Wenn du im HackMii Installer bist, kannst du den Homebrew-Kanal und BootMii installieren.![Results](/images/Wii/Results.png)
 
 3. Wähle "Continue" aus und dann "Install The Homebrew Channel". ![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
