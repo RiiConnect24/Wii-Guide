@@ -11,7 +11,7 @@ Möchtest du WAD-Spiele (WiiWare) patchen, damit sie mit Wiimmfi funktionieren u
 Diese Anleitung ist ausschliesslich für die Windows-Version des WiiWare Patcher.
 {: .notice--info}
 
-#### Was du benötigst
+#### Voraussetzungen
 
 * Einen Windows-Computer
 
@@ -27,7 +27,7 @@ Gib dem ganzen ein paar Sekunden weil Powershell starten muss. Nach ein paar Sek
 
 Nachdem der Download abgeschlossen ist, sollte ein Ordner mit dem Namen `WiiWare-Patcher` auf deinem Desktop erscheinen. Öffne ihn und öffne die Datei mit dem Namen `patcher.bat`
 
-![Main menu](/images/WiiWare-Patcher/wiiwarepatcher_mainscreen.jpg) (Hauptmenü des WiiWare Patchers)
+![Hauptmenü](/images/WiiWare-Patcher/wiiwarepatcher_mainscreen.jpg) (Hauptmenü des WiiWare Patchers)
 
 Drücke irgendeine Taste. Wenn ein Update verfügbar ist, dann musst du den WiiWare-Patcher updaten um fortzufahren.
 > Der Update-Vorgang sollte ungefähr 10 bis 15 Sekunden dauern.
