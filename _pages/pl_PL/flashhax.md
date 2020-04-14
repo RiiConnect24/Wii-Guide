@@ -2,20 +2,24 @@
 title: "FlashHax"
 ---
 
-{% include toc title="Zawartość" %}
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/b4Y7jfD) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.).
+{: .notice--info}
 
-FlashHax jest exploitów dla Wii który jest uruchamiany korzystając z Internet Channel. W przeciwieństwie do innych exploitów, to nie wymaga karty SD.
+FlashHax jest exploitem przeznaczonym dla Wii, który wykorzystuje dziurę w zabezpieczeniach Internet Channel'u. W przeciwieństwie do innych exploitów, ten nie wymaga karty SD.
 
-#### Czego potrzebujesz?
-* Wii z wersją systemu 4.3
-* Połączenia internetowego.
+#### Będziesz potrzebował:
+
+- Wii z aktywnym połączeniem Internetowym oraz systemem w wersji 4.3
+- Internet Channel
+   - Nie będzie on zainstalowany na vWii lub Wii Mini. Sprawdź inne poradniki, które są opisane we [wprowadzeniu](/get-started).
 
 #### Instrukcje
 
-1. Otwórz Internet Channel na Twojej Wii. Jeśli go nie masz, pobierz go z Wii Shop Channel.
-1. Otwórz flashhax.com w przeglądarce i dodaj stronę do zakładek.
-1. Otwórz stronę z zakładek. Wtedy HackMii Installer pobierze się oraz uruchomi. Może to chwilę potrwać ponieważ instalator pobiera się z internetu.
+1. Otwórz Internet Channel na Twoim Wii.
+2. Otwórz stronę flashhax.com w przeglądarce oraz dodaj ją do zakładek.
+3. Otwórz tą stronę z zakładek. Rozpocznie się proces pobierania i uruchamiania instalatora HackMii. Może to chwilę potrwać, ponieważ instalator jest pobierany przez Internet.
 
-Jeżeli instalator nie uruchamia się a Internet Channels się zawiesi (nie możesz ruszyć kursorem), uruchom ponownie Wii i powtórz krok 3 dopóki nie będzie działało. Może to wymagać kilku prób.
-[Kontynuuj do instalacji Homebrew Channel](hbc)
+Jeżeli instalator HackMii nie ładuje się a twoja konsola się zawiesza (nie możesz ruszyć kursorem), zrestartuj konsolę [przytrzymaj przycisk/odłącz z prądu] oraz powtarzaj krok 3 dopóki się nie uda. Może to wymagać kilku prób, bądź wytrwały!
+
+[Przejdź do instalacji Homebrew Channel oraz BootMii](hbc)
 {: .notice--info}

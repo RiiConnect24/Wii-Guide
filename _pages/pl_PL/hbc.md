@@ -1,39 +1,33 @@
 ---
-title: "Instalator Homebrew Channel"
+title: "Przejdź do instalacji Homebrew Channel oraz BootMii"
 ---
 
 {% include toc title="Zawartość" %}
 
-![HBC Logo](/images/hbc.png)
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/b4Y7jfD) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.)
+{: .notice--info}
 
-Homebrew Channel jest aplikacją dzięki której będziesz mógł uruchamiać aplikacje Homebrew.
+![Logo HBC](/images/hbc.png)
+
+Homebrew Channel jest miejscem, w którym możesz uruchamiać programy homebrew. BootMii jest programem dzięki któremu możesz wykonywać kopię zapasową oraz przywracać pamięć NAND Twojej Wii. Jeżeli BootMii jest zainstalowane jako boot2, zapewnia to całkowitą ochronę przed brickami.
 
 #### Instrukcje
 
-1. Zobaczysz ekran o ostrzeżeniu. Poczekaj 30 sekund a kiedy ujrzysz "Press 1 to continue", naciśnij "1".
-<br>
-![Scam Screen](/images/Wii/ScamScreen.png)
+1. Zobaczysz ekran, który ostrzega przed oszustwami. Poczekaj 30 sekund na pojawienie się tekstu "Press 1 to continue" oraz naciśnij 1. ![Ekran z informacją o oszustwach](/images/Wii/ScamScreen.png)
 
-2. Kiedy będziesz w HackMii Installer, będziesz mógł zainstalować Homebrew Channel i/lub BootMii.
-<br>
-![Results](/images/Wii/Results.png)
+2. Kiedy jesteś w instalatorze HackMii, możesz zainstalować Homebrew Channel oraz BootMii. ![Wyniki](/images/Wii/Results.png)
 
-3. Naciśnij `Continue` i wybierz `Homebrew Channel` i naciśnij `Install`.
-<br>
-![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
+3. Naciśnij kontynuuj oraz wybierz Homebrew Channel, następnie wybierz "Install". ![Zainstaluj Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
-4. Kiedy ukończone, naciśnij `Continue`.
-<br>
-![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
+4. Po ukończeniu, naciśnij na "Continue". ![Sukces podczas instalacji Homebrew Channel](/images/Wii/SuccessHBC.png)
 
-5. Kiedy instalacja zostanie ukończona, wciśnij `Back` i idź do `BootMii`.
-6. Na głównym ekranie jeśli piszę `Install as Boot2`, wybierz tą opcje.
-7. Jeśli nie możesz zainstalować jako Boot2, zainstaluj jako IOS
-<br>
-![BootMii Installation](/images/Wii/InstallBootMii.jpg)
+5. Po zainstalowaniu, naciśnij "Back" oraz przejdź do "BootMii".
+6. Jeżeli na ekranie wyświetli się informacja o możliwości zainstalowania jako boot2, zrób to. Daje Ci to poziom zabezpieczenia przed brickiem, który ładuje się jako część procesu bootowania Wii. Pozwala Ci to załadować homebrew aby naprawić brick lub przywrócić kopię zapasową pamięci NAND.
+7. Jeżeli na ekranie wyświetli się informacja o braku możliwości zainstalowania jako boot2, zainstaluj jako IOS. Nie daje Ci to całkowitej ochrony przed brickiem, tak jak instalacja jako boot2. Umożliwi Ci to dalej stworzenie kopii zapasowej pamięci NAND.
 
-8. Kiedy ukończone, wyjdź.
+![Instalacja BootMii](/images/Wii/InstallBootMii.jpg)
 
-[Kontynuuj do instalacji Priiloader'a](priiloader)<br>
-Priiloader dodaje warstwę ochrony na popuscie (brick) konsoli więc zalecamy jego instalację.
+8. Kiedy instalacja zostanie ukończona, wybierz `Continue` aby wyjść z instalatora HackMii.
+
+[Kontynuuj do wykonywania kopii zapasowej korzystając z BootMii](bootmii)</br>. Zalecamy teraz wykonanie kopii zapasowej pamięci NAND.
 {: .notice--info}

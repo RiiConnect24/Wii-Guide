@@ -2,35 +2,29 @@
 title: "Często zadawane pytania"
 ---
 
-![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
+![Żółte logo RiiConnect24](/images/Wii_Yellow_Gray.jpg)
 
-{% capture notice-1 %}
+### Jak niebezpieczne jest przerabianie mojej konsoli?
+Brick (stan, w którym niektóre części oprogramowania systemu Wii nie działają, lub kiedy Twoje Wii kompletnie nie działa) są teraz <em x-iid="3">praktycznie</em> niemożliwe, dopóki nie zignorujesz/pominiesz wszystkie zabezpieczenia.
 
-<a name="faq_latestfw" />**P:** *Jestem na najnowszej wersji systemu. Czy moją konsolę można przerobić?*
-**O:** Tak
+### Gdzie mam szukać wsparcia?
+Napisz do nas na support@riiconnect24.net lub dołącz do [serwera Discord RiiConnect24](https://discord.gg/b4Y7jfD). I tu, i tu oferujemy pomoc po Polsku.
 
-<a name="faq_risky" />**Q:** *Jak bardzo niebezpieczne jest przerabianie mojej konsoli?*
-**A:** Bricks are now *basically* impossible unless you ignore/circumvent all safety checks.
-**A:** Zapesucie konsoli jest już *praktycznie* nie możliwe dopóki nie zignorujesz/ominiesz wszystkie zabezpieczenia.
+### Jakie są wymagania i/lub zalecenia dotyczące karty SD?
+Będziesz potrzebował karty SD z przynajmniej 128MB miejsca aby wykonać exploit.
 
-<a name="faq_support" />**Q:** *Gdzie powinienem się zapytać o pomoc?*
-**A:** Jeśli masz email, napisz do nas na support@riiconnect24.net (pomoc dostępna po polsku). Lub jeśli masz konto Discord, dołącz do [serwera RiiConnect24 na Discordzie](https://discord.gg/b4Y7jfD).
+- Jeżeli będziesz korzystał z exploitu LetterBomb/Wiibrand, Twoja karta SD nie powinna być większa niż 32GB.
+- Jeżeli korzystasz z exploitu w Super Smash Bros Brawl, Twoja karta SD nie powinna być większa niż 2GB.
 
-<a name="faq_le4gbsd" />**Q:** *Czy mogę to zrobić z kartą SD która ma mniej niż 4GB?*
-**A:** Tak!
+Aby przechowywać aplikacje homebrew, zalecamy minimum 2GB miejsca na Twojej karcie SD.
 
-<a name="faq_nopc" />**Q:** *Czy mogę to zrobić bez komputera? (np. z telefonem z Androidem)*
-**A:** Jedynie czego potrzebujesz to tylko możliwość umieszczenia plików na karcie SD!
+### Otrzymałem błąd XXXXXX na Wiimmfi, jak go mogę naprawić?
+Aby sprawdzić co dany kod błędu oznacza, odwiedź [stronę z kodami błędów Wiimmfi](https://wiimmfi.de/error).
 
-<a name="faq_error" />**Q:** *Dostałem błąd XXXXXX, jak go naprawić??*
-**A:** Aby sprawdzić jaki błąd otrzymałeś, sprawdź [stronę z błędami Wiimmfi](https://wiimmfi.de/error).
-
-<a name="faq_wiimini" />**Q:** *Czy mogę przerobić Wii Mini?*
-**A:** Nie możesz przerobić Wii Mini ponieważ nie posiada ona wejścia SD oraz brakuje jej kilka ważnych rzeczy.
-
-<a name="faq_dolphin" />**Q:** *Czy mogę zainstalować RiiConnect24 na Dolphin?*
-**A:** Niestety RiiConnect24 nie działa na Dolphin'ie z powodu braku kodu wymaganego do emulacji WiiConnect24. Wiemy że ludzie którzy pracują nad Dolphin'em są zainteresowani tą funkcją dlatego być może będzie ona dostępna w przyszłości.
-
-{% endcapture %}
-
-<div class="notice--info">{{ notice-1 | markdownify }}</div>
+### Jakie są limity modowania vWii? (Tryb Wii na Wii U)
+Poniższa lista przedstawia listę rzeczy, które mogą potencjalnie **ZBRICKOWAĆ** Twoje vWii (nie rób tych rzeczy!):
+* Instalacja IOS z konsoli Wii na vWii.
+* Instalowanie motywów z Wii niepoprawnie sformatowanych dla vWii i Twojego regionu.
+* Instalowanie BootMii i/lub Priiloadera/Preloadera.
+* Błąd podczas instalacji ważnych elementów systemu/plików IOS (np. awaria prądu)
+* Modyfikowanie pamięci NAND vWii bez wiedzy co robisz.
