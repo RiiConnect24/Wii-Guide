@@ -2,12 +2,12 @@
 title: "Wii/GameCube-Spiele sichern"
 ---
 
-Möchtest du eine GameCube- oder Wii-Spiel legal sichern und es auf deiner Wii spielen? Mit dieser Anleitung erklären wir dir, wie man das macht.
+Du möchtest ein GameCube- oder Wii-Spiel legal sichern und auf deiner Wii spielen? In diesem Tutorial erklären wir dir, was dafür zu tun ist.
 
-Bitte wähle, wie du die Disk sichern möchtest.
+Bitte wähle, wie du die Disc sichern möchtest.
 {: .notice--warning}
 
-[Ich möchte sie auf eine SD-Karte bzw. ein USB-Laufwerk sichern](cleanrip)
+[Ich möchte sie auf einer SD-Karte oder einem USB-Laufwerk sichern](cleanrip)
 {: .notice--info}
 
 [Ich möchte sie direkt auf meinen PC über das Netzwerk sichern](dump-smb)
