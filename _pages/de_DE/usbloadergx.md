@@ -4,7 +4,7 @@ title: "USB Loader GX"
 
 {% include toc title="Table of Contents" %}
 
-Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD)(empfohlen) bei, oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
+Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [RiiConnect24 Discord-Server](https://discord.gg/b4Y7jfD) bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Dies ist eine Kurzanleitung zur Verwendung von USB Loader GX, eines beliebten USB-Loaders für die Wii, der verwendet wird um Spiele von einem USB-Laufwerk zu spielen.
@@ -20,7 +20,7 @@ Dies ist eine Kurzanleitung zur Verwendung von USB Loader GX, eines beliebten US
 Stelle sicher, dass du vorher [cIOS](/cios) installiert hast!
 {: .notice--info}
 
-Wir empfehlen dir die Spiele mit [Wii Backup Manager](/wiibackupmanager) zu kopieren, wenn Windows benutzt, oder Witgui, falls du macOS benutzt.
+Wir empfehlen dir Spiele mithilfe des [Wii Backup Manager](/wiibackupmanager) zu kopieren wenn Windows nutzt, oder mithilfe von Witgui falls du macOS nutzt.
 {: .notice--info}
 
 Um mehrere Spiele zu spielen, empfehlen wir eine externe Festplatte für Ihre Wii, die über USB mit Strom versorgt wird. Wir bezeichnen sie als "USB-Laufwerk" in dieser Anleitung. Viele von denen, die auf dem Markt zu finden sind, sollten problemlos funktionieren, falls sie mit USB 2.0 abwärtskompatibel sind. Laufwerke mit einer Kapazität von 1 TB oder mehr werden funktionieren. Ein USB-Stick wird auch funktionieren, aber aufgrund dessen Größe wird es nicht in der Lage sein, so viele Spiele zu speichern.
@@ -63,23 +63,23 @@ Dies sind die Funktionen der Schaltflächen oben im Hauptmenü, von links nach r
 * Multi-Cover-Ansicht - Zeigt Spiele in einer Multi-Cover-Ansicht.
 * Cover-Karussell-Ansicht - Zeigt Spiele wie in einem Karusell aufgereiht.
 * Wii-Menü-Ansicht - Zeigt Spiele wie das Wii-Menü.
-* Altersbeschränkung - Sperrt den USB Loader GX.
-* Disk - Lädt Spiel vom Diskschacht.
+* Altersbeschränkungen - Sperrt den USB Loader GX.
+* Disc - Lädt ein Spiel von der Disc.
 
 Wenn du auf ein beliebiges Spiel auswählst, kannst du das Spiel durch Drücken von "Start" spielen.
 
 Es gibt auch andere Schaltflächen:
 
-* Plus-Symbol - Installiert ein Spiel, d. h. es wird gesichert.
+* Plus-Symbol - Installiert ein Spiel, d. h. es wird von der Disc geladen und gesichert.
 * Zahnräder - Einstellungen für USB Loader GX.
-* SD-Karte - Wirft SD-Karte aus und verbindet sich erneut mit ihr.
+* SD-Karte - Trennt und erneuert den Zugriff auf die SD-Karte.
 * Homebrew - Lädt Homebrew-Anwendungen.
 * Wii - Öffnet das HOME-Menü, welches ebenfalls beim Drücken der HOME-Taste auf der Wii-Fernbedienung angezeigt wird.
 * Power-Taste - Schaltet deine Wii aus.
 
-In der Mitte des unteren Bildschirms siehst du, wie viel Speicher auf deinem USB-Laufwerk frei ist und wie viele Spiele du hast.
+Mittig unten auf dem Bildschirm siehst du, wieviel Speicher auf deinem USB-Laufwerk frei ist und wieviele Spiele du hast.
 
 ##### Möglichkeiten nach Abschluss
 
-[Continue to site navigation](site-navigation)<br> Wir haben viele weitere Anleitungen, die dir gefallen könnten.
+[Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
 {: .notice--info}
