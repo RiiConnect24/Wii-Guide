@@ -4,13 +4,13 @@ title: "WADs sichern"
 
 {% include toc title="Table of Contents" %}
 
-Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD)(empfohlen) bei, oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
+Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [RiiConnect24 Discord-Server](https://discord.gg/b4Y7jfD) bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Diese Anleitung erklärt dir, wie du WADs vom Speicher deiner Wii-Konsole kopieren kannst.
 
 #### Voraussetzungen
-* Eine SD-Karte bzw. ein USB-Laufwerk
+* Eine SD-Karte oder ein USB-Laufwerk
 * [Yet Another BlueDump MOD](/assets/files/YABDM.zip)
 
 #### Anleitung
@@ -20,7 +20,7 @@ Diese Anleitung erklärt dir, wie du WADs vom Speicher deiner Wii-Konsole kopier
 2. Verbinde deine SD-Karte bzw. dein USB-Laufwerk mit deiner Wii und starte Yet Another BlueDump MOD über den Homebrew-Kanal.
 
 ##### Abschnitt 2 - Kopieren
-1. Drücke die A-Taste. ![Press A](/images/DumpWADS/2.jpg)
+1. Drücke den A-Knopf.![Press A](/images/DumpWADS/2.jpg)
 
 2. Wähle `Installed Channel Titles`. ![Installed Channel Titles](/images/DumpWADS/3.jpg)
 
