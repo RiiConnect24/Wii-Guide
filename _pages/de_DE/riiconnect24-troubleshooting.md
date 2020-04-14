@@ -4,10 +4,10 @@ title: "RiiConnect24 Fehlerbehebung"
 
 {% include toc title="Table of Contents" %}
 
-Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD)(empfohlen) bei, oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
+Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [RiiConnect24 Discord-Server](https://discord.gg/b4Y7jfD) bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![RiiConnect24-Logo](/images/WiiRC24Logo.jpg)
 
 Falls du einen der folgenden Fehler erhälst (und keine anderen Fehler), solltest du in der Lage sein, die Kanäle zu reparieren, indem du deine VFF löschst.
 
@@ -18,17 +18,17 @@ Falls du einen der folgenden Fehler erhälst (und keine anderen Fehler), solltes
 + NEWS/FORE000099
 
 #### Voraussetzungen
-* Eine SD-Karte bzw. ein USB-Laufwerk
+* Eine SD-Karte oder ein USB-Laufwerk
 * [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
 
-#### Zu löschender Ordner
+#### Zu löschende Ordner
 
-+ Wetter-Kanal
++ Wetterkanal
   + 48414645
   + 4841464a
   + 48414650
 
-+ Nachrichten-Kanal
++ Nachrichtenkanal
   + 48414745
   + 4841474a
   + 48414750
