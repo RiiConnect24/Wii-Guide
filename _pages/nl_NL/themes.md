@@ -1,5 +1,5 @@
 ---
-title: "Installing Wii Menu Themes"
+title: "Wii Menu Thema's Installeren"
 ---
 
 {% include toc title="Inhoudsopgave" %}
@@ -24,21 +24,21 @@ Do not use any other version of ThemeMii than the one linked here, as ThemeMii M
 We recommend you [install cIOS](cios) before continuing.
 {: .notice--info}
 
-#### What you need
+#### Benodigdheden
 
-* A Wii
-* An SD card or USB drive
-* A computer with Windows on it (or using Mono or Wine on Mac/Linux)
+* Een Wii
+* Een SD-kaart of USB-stick/ harde schijf
+* Een computer met Windows (of gebruik Mono of Wine op Mac/Linux)
 * [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
-* [This GBAtemp post](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
+* [Deze GBAtemp post](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
-MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
-{: .notice--warning}
+ZORG DAT U ALLE WAARSCHUWINGEN VAN HIERBOVEN HEBT GELEZEN VOORDAT U VERDERGAAT!
+{: .notice--waarschuwing}
 
-#### Instructions
+#### Instructies
 
-##### Section I - Finding a Theme
+##### Deel I - Een Thema vinden
 
 * Peruse the GBAtemp post, finding a theme you want to install. Some have YouTube videos to show what the theme looks like, unfortunately some of them are unavailable.
 * Once you found one you like, click the download link corresponding to your Wii Menu version. **It is very important to pick the right one to avoid bricks.**
