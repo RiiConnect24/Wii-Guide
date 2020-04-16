@@ -43,16 +43,16 @@ Assicurati di leggere questi avvertimenti prima di continuare!
 * Peruse the GBAtemp post, finding a theme you want to install. Alcuni hanno video su YouTube per mostrare com’è il tema, purtroppo alcuni non sono disponibili.
 * Trovato quello che ti piace, scarica la versione corrispondente al tuo Wii Menu. **È molto importante prendere quello giusto per evitare blocchi.**
 * Probabilmente scaricherai il link che dice 4.X, cioè il tema che funziona sulla versione 4.1, 4.2 e 4.3 del Wii Menu.
-* Some themes have different links for different regions, so pick the one corresponding to your Wii's region.
-* There are other resources for Wii Menu themes, but they might be in csm form (ready to install on the Wii). If the csm doesn't match the version and region of your Wii Menu, try to convert it to mym with ThemeMii, and then convert it back to csm with the instructions here using the version and region of your Wii Menu.
-* Once you downloaded the theme you want and double-checked you got the right one, open up ThemeMii Mod.
+* Alcuni temi hanno diversi link per diversi paesi, quindi seleziona quello corrispondente al paese della tua Wii.
+* Ci sono altre risorse per i temi del Wii Menu, ma devono essere in formato csm (per poterlo installare sulla Wii). Se il csm non corrisponde alla versione e al paese del tuo Wii Menu, prova a convertirlo in mym con ThemeMii, poi riconvertilo in csm con queste istruzioni usando la versione e il paese del tuo Wii Menu.
+* Una volta scaricato il tema che vuoi e controllato due volte che sia quello giusto, apri la modalità ThemeMii.
 
-##### Section II - Building the Theme
+##### Sezione II - Costruire il tema
 
-1. A dialog box will pop up telling you to only install themes if you have brick protection. If you installed Priiloader and/or BootMii (see the warning at the start of this guide), press OK.
-2. Go to `Tools` > `Download Base App` > Version of your Wii Menu > Region of your Wii Menu
-3. A dialog box will pop up asking you to enter in a value to create a key. Enter in what it says, it will create a key that will be used to decrypt the Wii Menu from Nintendo's servers.
-4. A file selection box will ask you where to save the .app file (that is the Wii Menu file it downloaded). Save it to the directory where ThemeMii is in.
+1. Apparirà una finestra avvisandoti di installare temi solo se hai la protezione dal blocco. Se hai installato Priiloader e/o BootMii (vedi l’avviso all’inizio di questa guida), premi ok.
+2. Vai su `Strumenti` > `Download Base App` > Versione del tuo Wii Menu > Paese del tuo Wii Menu
+3. Apparirà una finestra chiedendoti di inserire un valore per creare una chiave. Inserisce quel che dice, creerà una chiave che servirà a decriptare il Wii Menu dai server di Nintendo.
+4. Una finestra di selezione file ti chiederà dove salvare il file .app (che sarebbe il file Wii Menu scaricato). Salvalo nella directory dove c’è ThemeMii.
 5. Go to `Options` > `Standard System Menu` > Version of your Wii Menu > Region of your Wii Menu
 6. Go to `File` > `Open`, then browse for where your .mym file is.
 7. Press `Create csm`, then browse for a directory you want to save the theme in. Give it a moment to build the theme.
