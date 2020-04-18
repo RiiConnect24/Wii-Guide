@@ -1,38 +1,38 @@
 ---
-title: "RiiConnect24 Battery Fix"
+title: "Solucionar error NEWS/FORE000006"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Tabla de contenido" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si necesitas ayuda con alguna cosa relacionada con esta guía, puedes unirte a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [enviarnos un correo electrónico](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
 {: .notice--info}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![Logotipo de RiiConnect24](/images/WiiRC24Logo.jpg)
 
-This tutorial doesn't seem to fix error NEWS0000006. Unfortunately, if that error persists, reformatting your Wii might be the only option to fix it.
+Esta guía parece no arreglar el código de error NEWS000006 del Canal Noticias. Desafortunadamente, si ese error persiste, formatear tu consola podría ser la única forma de arreglarlo.
 {: .notice--warning}
 
-If you're getting error FORE000006, usually it means "invalid data". It could be something on our end although unlikely. Try waiting a few minutes and then try again.
+Si te aparece el error NEWS/FORE000006 en el Canal Noticias y Tiempo respectivamente, esto quiere decir que el canal ha descargado datos inválidos. Esto podría ser causado debido a un error en nuestros servidores, aunque es algo poco probable. Espera unos minutos e inténtalo de nuevo.
 
-If the error code still remains, the time on your Wii might be incorrect, confusing the Channels. These instructions might be worth a shot.
+Si el error persiste, la hora de la consola podría ser incorrecta, lo cual confunde a los canales. Seguir estas instrucciones puede ayudar a solucionar el problema.
 
-#### What you need
+#### Requisitos
 
-* Crosshead Phillips #00 screwdriver ![Crosshead Phillips #00 Screwdriver](/images/RiiConnect24/clock/screwdriver.jpg)
+* Desarmador de cruz Phillips #00 ![Desarmador de cruz Phillips #00](/images/RiiConnect24/clock/screwdriver.jpg)
 
-#### Instructions
+#### Instrucciones
 
-1. Set your Wii to the correct time in Wii Settings.
-2. Unplug your Wii AC adapter. You'll need to open up a battery cover on the side of your Wii, so you might want to remove everything plugged into your Wii. ![Unplug Wii AC Adapter](/images/RiiConnect24/clock/unplug.jpg)
-3. Locate the battery cover on the bottom of your Wii. ![Battery Cover](/images/RiiConnect24/clock/batterycover.jpg)
-4. Unscrew the battery cover with your screwdriver. ![Battery Unscrew](http://i.imgur.com/VRRAiSk.gif)
-5. Let your Wii sit unplugged for a little while, with the battery out. It's up to you how long it should be out for. An hour or two might be enough to leave it out for. ![Battery](/images/RiiConnect24/clock/battery.jpg)
-6. Screw the battery cover back in. ![Battery Screw](http://i.imgur.com/8MEy5Jo.gif)
-7. Plug in your Wii AC adapter. ![Plug Wii AC Adapter](/images/RiiConnect24/clock/plug.jpg)
-8. Try the News or Forecast Channel now. Hopefully it works now. If not, you might want to repeat this process one more time and it might fix it.
+1. Ajusta correctamente la hora de la consola en Configuración de Wii.
+2. Desconecta el adaptador de corriente de la consola Wii. Ahora tendrás que abrir la tapa de la batería que se encuentra en la parte de abajo de la consola (si está en posición vertical) o al lado derecho (si está en posición horizontal). ![Desconecta el adaptador de corriente de la consola](/images/RiiConnect24/clock/unplug.jpg)
+3. Localiza la tapa de la batería en la parte de abajo de la consola. ![Tapa de la batería](/images/RiiConnect24/clock/batterycover.jpg)
+4. Desatornilla la tapa de la batería con tu desarmador. ![Abriendo la tapa](http://i.imgur.com/VRRAiSk.gif)
+5. Deja reposar la consola desconectada y con la batería de fuera por un rato. Tú decides cuánto tiempo quieres esperar. Es recomendable dejarlo reposar de una a dos horas. ![La batería](/images/RiiConnect24/clock/battery.jpg)
+6. Atornilla la tapa de la batería nuevamente. ![Atornillando la tapa](http://i.imgur.com/8MEy5Jo.gif)
+7. Conecta nuevamente el adaptador de corriente a la consola. ![Conectando el adaptador de corriente](/images/RiiConnect24/clock/plug.jpg)
+8. Intenta usar el Canal Tiempo o el Canal Noticias. Esperamos que ahora sí funcione. Si no ha funcionado, entonces intenta repetir éste proceso una vez más.
 
-Still no luck getting it to work? Unfortunately, you might have to reformat your Wii for it to go away. Just make sure to backup your save files and Miis with [SaveGame Manager GX](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download).
+¿Aún no has tenido suerte arreglando el problema? Si has llegado hasta éste punto, desafortunadamente la única forma de solucionar el error es formatear tu consola. Antes de hacerlo, por favor asegúrate de hacer respaldos de tus datos de guardado y personajes Mii usando [SaveGame Manager GX](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download).
 {: .notice--info}
 
-[Return to RiiConnect24 installation page](riiconnect24)
+[Volver a la guía de instalación de RiiConnect24](riiconnect24)
 {: .notice--info}
