@@ -1,31 +1,33 @@
 ---
-title: "Instalación de Homebrew Channel y BootMii"
+title: "Instalar Canal Homebrew y BootMii"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Tabla de contenido" %}
 
-Si necesita ayuda para algo relacionado con este tutorial, únase a [es el servidor de Discord de RiiConnect24](https://discord.gg/b4Y7jfD) (recomendado) o [Envíanos un email a support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si necesitas ayuda con alguna cosa relacionada con esta guía, puedes unirte a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [enviarnos un correo electrónico](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
 {: .notice--info}
 
-![HBC Logo](/images/hbc.png)
+![Logotipo del Canal Homebrew](/images/hbc.png)
 
-El Homebrew Channel es el lugar al que irás para iniciar las aplicaciones homebrew. BootMii es un software que puede respaldar y restaurar la memoria NAND de su consola Wii, y si está instalado en boot2, proporcionara una protección en caso de brickeo.
+El Canal Homebrew es desde donde iniciarás tus aplicaciones homebrew. BootMii es un software que puede respaldar y restaurar la memoria interna de tu Wii, y si está instalado como boot2, brinda protección contra bricks.
 
 #### Instrucciones
 
-1. Verá una pantalla de advertencia contra estafa. Espere 30 segundos para que aparezca el texto "Presione 1 para continuar", luego presione 1. ![Scam Screen](/images/Wii/ScamScreen.png)
+1. Verás una pantalla de advertencia contra estafa. Espera 30 segundos hasta que aparezca el texto "Press 1 to continue", después oprime 1. ![Pantalla de advertencia contra estafa](/images/Wii/ScamScreen.png)
 
-2. Cuando esté en el instalador de HackMii, podrá instalar Homebrew Channel y BootMii.![Resultados](/images/Wii/Results.png)
+2. Cuando estés en el HackMii Installer, podrás instalar el Canal Homebrew y BootMii.![Resultados](/images/Wii/Results.png)
 
-3. Presione Continuar, luego seleccione el Homebrew Channel y presione instalar. ![Instalar el Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
+3. Presiona `Continue`, luego selecciona `Homebrew Channel` y elige `Install`. ![Instalar el Canal Homebrew](/images/Wii/InstallHomebrewChannel.png)
 
-4. Presiona Continuar cuando haya finalizado. ![Instalación exitosa del Homebrew Channel](/images/Wii/SuccessHBC.png)
+4. Presiona `Continue` cuando haya finalizado. ![Instalación exitosa del Canal Homebrew](/images/Wii/SuccessHBC.png)
 
-5. Una vez instalado, presione hacia atrás y vaya a BootMii.
-6. Si la pantalla principal dice que puede instalar como boot2, hágalo. Esto le brinda un nivel de protección de brickeo que se carga como parte del proceso de arranque de Wii, y le permite cargar homebrew para arreglar el brick o restaurar desde una copia de seguridad de la NAND.
-7. Si no dice que puedes instalar boot2, instalalo como un IOS. Si bien esto no te dara proteccion contra brickeos comparado a su contraparte boot2, te permitira hacerle un backup a la NAND. ![Instalacion de BootMii](/images/Wii/InstallBootMii.jpg)
+5. Una vez instalado, presiona `Back` y selecciona `BootMii`.
+6. Si en la pantalla dice que puede ser instalado como boot2, hazlo. Esto te brinda un nivel adicional de protección contra bricks que se carga como parte del proceso de arranque de la consola y te permite cargar homebrew para reparar el brick o restaurar un respaldo de la NAND.
+7. If it does not say you can install as boot2, install as IOS. While this doesn't give you brick protection compared to its boot2 counterpart, it will still allow you to make a NAND backup.
 
-8. Una vez terminado, selecciona `Continue` para salir del HackMii installer.
+![BootMii Installation](/images/Wii/InstallBootMii.jpg)
 
-[ Continuar con la copia de seguridad de BootMii ](bootmii) <br> Se recomienda hacer una copia de seguridad de la NAND con BootMii en este punto.
+8. Once done, select `Continue` to exit the HackMii installer.
+
+[Continue to BootMii Backup](bootmii)<br> Making a NAND backup with BootMii at this point is recommended.
 {: .notice--info}
