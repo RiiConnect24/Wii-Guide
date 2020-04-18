@@ -11,22 +11,22 @@ header:
 excerpt: "The complete guide to modding your Nintendo Wii."
 ---
 
-The guide is also available in other languages! Om de taal te veranderen, kunt u op het icoontje rechts boven in beeld klikken en dan kunt u een taal kiezen.
+Deze guide is ook beschikbaar in andere talen! Om de taal te veranderen, kunt u op het icoontje rechts boven in beeld klikken en dan kunt u een taal kiezen.
 {: .notice--info}
 
 ## Wat is Wii Guide?
 
-Wii Guide is a guide maintained by [RiiConnect24](https://rc24.xyz) to get you started with Wii modding.
+Wii Guide wordt onderhouden door [RiiConnect24](https://rc24.xyz) om u te helpen met het modificeren van uw Wii.
 
 ## Wat is "homebrew"?
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to unofficial software including games, utilities, emulators and others.
+[**Homebrew**](https://nl.wikipedia.org/wiki/Homebrew_(software)) is een term die wordt gekoppeld aan computerspellen of overige software geproduceerd door consumenten voor gepatenteerde hardware. Onder homebrew vallen programma's of spellen die zijn ontwikkeld met officiële Sdk's (Software Development Kits).
 
-Running homebrew on your Nintendo Wii is free using various exploits.
+Homebrew gebruiken op een Wii is gratis dankzij verschillende exploits.
 
 ## Wat kan ik doen met homebrew?
 
-Here's a list of things you can do with it. While these aren't all the things you can do with homebrew, it should give you a starting point for things you can do. Our guide will help you easily get started.
+Hier onderstaat een lijst met dingen die ermee kunt doen. Hoewel dit niet alle dingen zijn die u kunt doen met een homebrewed Wii, geeft dit u alvast een idee wat allemaal mogelijk is. Onze guide zal u hierbij in het begin begeleiden.
 
 - Patch game disc contents (allowing you to load game modifications) using [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
 - Install themes to your Wii Menu using [MyMenuify](/themes).
@@ -42,9 +42,9 @@ Here's a list of things you can do with it. While these aren't all the things yo
 Get started by [choosing your exploit](get-started)!
 {: .notice--info}
 
-## More Resources
+## Andere Guides
 
-There are also few more good resources for Wii modding and troubleshooting that can help:
+Er zijn ook andere goede guide die u kunt volgen om uw Wii te modificeren of die u kunnen helpen met problemen (deze zullen wel bijna allemaal in het Engels zijn):
 
 - [Complete Softmod Guide](https://sites.google.com/site/completesg/)
 - [ModMii](http://modmii.000webhostapp.com/)
@@ -52,6 +52,6 @@ There are also few more good resources for Wii modding and troubleshooting that 
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
 - [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...and of course, this site
 
-For modding a Wii U, there are some more options:
+Voor het modificeren van een Wii U zijn er andere opties (deze zijn wel bijna allemaal in het Engels):
 - [The Definitive vWii Hacking Guide](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
 - [NH Wii U Guide](https://wiiuguide.xyz)
