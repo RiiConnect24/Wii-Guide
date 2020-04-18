@@ -1,75 +1,75 @@
 ---
-title: "RiiTag on Wii"
+title: "Instalar RiiTag"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Tabla de contenido" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si necesitas ayuda con alguna cosa relacionada con esta guía, puedes unirte a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [enviarnos un correo electrónico](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
 {: .notice--info}
 
-RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You connect it to a USB Loader, and the tag updates on-the-fly. You need a Discord account in order to start using RiiTag.
+RiiTag es un gamertag personalizable y dinámico. Al compartir tu gamertag (una imagen dinámica), ¡podrás mostrar a tus amigos lo que has estado jugando! Solo tienes que conectarlo a un USB loader en tu Wii, y el tag se actualizará automáticamente. Necesitarás una cuenta de Discord para poder comenzar a usar RiiTag.
 
-#### What you need
+#### Requisitos
 
-* A computer
-* A text editor
-* A USB Loader
+* Una computadora
+* Un editor de texto
+* Un USB loader
 
-#### Instructions
+#### Instrucciones
 
-##### Section I - Getting Started
+##### Sección I - Instrucciones para el sitio web
 
-1. [Go to the RiiTag site.](https://tag.rc24.xyz/)
-2. Click `Log In` and log in with your Discord account.
-3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Click `Authorize`.
-4. Click `Edit Your Tag` and customize it to how you like. You can add a background, overlay, flag, nickname, Wii Number, and manually enter in games to show on your tag (not needed if you're using a USB Loader).
-5. Click `Show Key` and make note of the key shown. This is not needed if you're using USB Loader GX, as the key will be in a downloadable file.
-6. Click `Submit` to save your changes.
+1. [Visita el sitio web de RiiTag.](https://tag.rc24.xyz/)
+2. Haz clic en `Log In` e inicia sesión con tu cuenta de Discord.
+3. Aparecerá un diálogo que te preguntará si deseas autorizar a `RiiConnect24 Login` con Discord. Haz clic en `Autorizar`.
+4. Haz clic en `Edit Your Tag` y personalízalo como más te guste. Puedes cambiar el fondo, diseño, bandera, apodo y clave Wii, así como añadir juegos manualmente para mostrar en tu tag (esto no es necesario si usas un USB loader).
+5. Haz clic en `Show Key` y apunta la clave que se muestra. Esto no es necesario si usas USB Loader GX, ya que la clave estará en un archivo descargable.
+6. Haz clic en `Submit` para guardar los cambios.
 
-Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
+¡No compartas la clave de tu RiiTag con nadie! Si lo haces, otras personas podrían abusar tu tag.
 {: .notice--warning}
 
-##### Section II - Connecting Your USB Loader
+##### Sección II - Conectando tu USB loader
 
-The steps to connect RiiTag to your USB Loader depend on what USB Loader you use.
+Los pasos para conectar RiiTag con tu USB loader dependen del USB loader que uses.
 
 ###### USB Loader GX
 
-1. Load USB Loader GX on your Wii.
-2. Go to `Settings` > `Features` and turn `Wiinnertag` on. Press `Yes` or `OK` to any dialogs that show up.
-3. Ensure that `Initialize Network` is turned on.
-4. Exit USB Loader GX.
-5. Insert the SD Card or USB device where your USB Loader GX data is into your computer.
-6. [Go to this page.](https://tag.rc24.xyz/Wiinnertag.xml)
-7. On your browser, right click, and click `Save As`.
-8. Save the XML to the `config` folder on your SD Card or USB device, replacing the existing `Wiinnertag.xml`.
-9. You have now set up RiiTag. You can try loading any game now to see if it works correctly.
+1. Inicia USB Loader GX en tu Wii.
+2. Ve hacia `Settings` > `Features` y activa la opción `Wiinnertag`. Elige `Yes` u `OK` en todos los diálogos que aparezcan.
+3. Asegúrate de que `Initialize Network` esté encendido.
+4. Regresa al menú de Wii y apaga tu consola.
+5. Inserta en tu computadora la tarjeta SD o unidad USB donde tengas guardada la configuración de USB Loader GX.
+6. [Abre esta página.](https://tag.rc24.xyz/Wiinnertag.xml)
+7. Haz clic derecho y selecciona `Guardar como`.
+8. Guarda el archivo XML en la carpeta `/apps/usbloader_gx/lt;/code> en la tarjeta SD o unidad USB, reemplazando el archivo <code>Wiinnertag.xml` ya existente.
+9. Ya has terminado de instalar RiiTag. Intenta cargar algún juego para verificar que esté funcionando correctamente.
 
 ###### WiiFlow
 
-1. Take the SD Card or USB device where your WiiFlow data is into your computer.
-2. Open `/apps/wiiflow/wiiflow.ini` with a text editor. (If you use WiiFlow Lite, the path might have `wiiflow_lite` instead of `wiiflow`.)
-3. Search for `gamercards` and replace that line with `gamercards=wiinnertag`.
-4. Search for `wiinnertag_url` and replace that line with `wiinnertag_url=http://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
-5. Search for `wiinnertag_key` and replace that line with `wiinnertag_key=<key>`, replacing `<key>` with the key you wrote down in Section 1.
-6. Search for `gamercards_enable` and replace that line with `gamercards_enable=yes`.
-7. Save the modified `wiiflow.ini` file.
-8. You have now set up RiiTag. You can try loading any game now to see if it works correctly.
+1. Inserta en tu computadora la tarjeta SD o unidad USB donde tengas guardada la configuración de WiiFlow.
+2. Abre el archivo `wiiflow.ini` ubicado en `/apps/wiiflow/` con un editor de texto. (Si usas WiiFlow Lite, la carpeta se llamará `wiiflow_lite` en lugar de `wiiflow`.)
+3. Busca `gamercards` y reemplaza esa línea con `gamercards=wiinnertag`.
+4. Busca `wiinnertag_url` y reemplaza esa línea con `wiinnertag_url=http://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
+5. Busca `wiinnertag_key` y reemplaza esa línea con `wiinnertag_key=<key>`, reemplazando `<key>` con la clave que apuntaste en la sección I.
+6. Busca `gamercards_enable` y reemplaza esa línea con `gamercards_enable=yes`.
+7. Guarda el archivo `wiiflow.ini` modificado.
+8. Ya has terminado de instalar RiiTag. Intenta cargar algún juego para verificar que esté funcionando correctamente.
 
 ###### Configurable USB Loader
 
-We do not offer support for Configurable USB Loader, as we are focused on USB Loader GX and WiiFlow.
+De momento no ofrecemos soporte para Configurable USB Loader, debido a que estamos más enfocados en USB Loader GX y WiiFlow.
 {: .notice--info}
 
-You can use the `CfgLoaderConfigurator.exe` program (Windows only) instead of editing the `config.txt` file mentioned below if you want to.
+Si así lo deseas, puedes usar un programa llamado `CfgLoaderConfigurator.exe` (sólo para Windows) en lugar de editar el archivo `config.txt` de forma manual.
 {: .notice--info}
 
-1. Take the SD Card or USB device where your Configurable USB Loader data is into your computer.
-2. Open `/usb-loader/config.txt` with a text editor.
-3. Replace (or add the line) starting with `gamercard_url` with `gamercard_url = http://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
-4. Replace (or add the line) startin with `gamercard_key` with `gamercard_key = <key>`, replacing `<key>` with the key you wrote down in Section 1.
-5. Save the modified `config.txt` file.
-6. You have now set up RiiTag. You can try loading any game now to see if it works correctly.
+1. Inserta en tu computadora la tarjeta SD o unidad USB donde tengas guardada la configuración de Configurable USB Loader.
+2. Abre el archivo `config.txt` ubicado en `/usb-loader/` con un editor de texto.
+3. Reemplaza (o añade) la línea que empieza en `gamercard_url` con `gamercard_url = http://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
+4. Reemplaza (o añade) la línea que empieza en `gamercard_key` con `gamercard_key = <key>`, reemplazando `<key>` con la clave que apuntaste en la sección I.
+5. Guarda el archivo `config.txt` modificado.
+6. Ya has terminado de instalar RiiTag. Intenta cargar algún juego para verificar que esté funcionando correctamente.
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Echa un vistazo a nuestras demás guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
 {: .notice--info}
