@@ -68,5 +68,5 @@ This is a list of the hacks you can enable with Priiloader.
 [Continue to cIOS](cios)<br> cIOS are used to play games with a USB Loader. Even if you don't want to do that, it's useful for many homebrew apps.
 {: .notice--info}
 
-If you have a Wii mini, follow [this guide](ciosmini) to install cIOS instead.
+If you have a Wii mini, follow [this guide](cios-mini) to install cIOS instead.
 {: .notice--info}
