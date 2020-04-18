@@ -68,5 +68,5 @@ Dit is een lijst met hacks die u aan kunt zetten met Priiloader.
 [Verder gaan naar cIOS](cios)<br> cIOS wordt gebruikt om games te spelen vanaf een USB stick. Zelfs wanneer u dit niet wilt, het is ook handig voor veel andere homebrew apps.
 {: .notice--info}
 
-If you have a Wii mini, follow [this guide](ciosmini) to install cIOS instead.
+If you have a Wii mini, follow [this guide](cios-mini) to install cIOS instead.
 {: .notice--info}
