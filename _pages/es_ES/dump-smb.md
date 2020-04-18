@@ -1,39 +1,39 @@
 ---
-title: "Dumping a game over a local network"
+title: "Copiar juegos a través de una red local"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Tabla de contenido" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si necesitas ayuda con alguna cosa relacionada con esta guía, puedes unirte a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [enviarnos un correo electrónico](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
 {: .notice--info}
 
-Do you want to dump games through your local network? Follow this tutorial! This can be useful if you don't have an SD card or a USB drive that is large enough to dump a game to.
+¿Te gustaría hacer una copia de tus juegos de Wii y GameCube a través de tu red local? En esta guía te explicaremos cómo hacerlo. Esto puede ser útil si no tienes una tarjeta SD o unidad USB con suficiente espacio libre para copiar los juegos.
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![Logotipo de RiiConnect24](/images/WiiRC24Logo.jpg)
 
-#### What you need
+#### Requisitos
 
-* A Wii.
+* Un Wii.
 * [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
 
-Your Wii and your computer must be connected to one local network
+Tanto tu consola Wii como tu computadora deben estar conectadas a la misma red local.
 {: .notice--warning}
 
-#### Instructions
+#### Instrucciones
 
-##### Section I - Downloading/Installing
+##### Sección I - Descarga/instalación
 
-1. Extract DVD Dump Tool and put it in the `apps` folder on your SD card or USB drive.
-1. Insert your SD card into your Wii, and launch DVD Dump Tool from the Homebrew Channel.
+1. Extrae DVD Dump Tool a la carpeta `apps` en tu tarjeta SD o unidad USB.
+1. Inserta la tarjeta SD o unidad USB en tu Wii e inicia DVD Dump Tool desde el Canal Homebrew.
 
-##### Section II - Ripping
+##### Sección II - Copiando un juego
 
-1. Press the right button on the d-pad and press "A" ![2](/images/DumpDiscs_LAN/2.png)
-1. Choose the disc that you want to copy (The options are: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` and press "A" ![3](/images/DumpDiscs_LAN/3.png)
-1. Now put your game to your Wii. (If it's already in your wii, eject it and put it back) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
-1. Remember your Wii URL (IP address) ![5](/images/DumpDiscs_LAN/5.png)
-1. On your computer in your web browser, type in the Wii URL and hit ENTER. ![6](/images/DumpDiscs_LAN/6.png)
-1. You should see this. Click on `Click here to download XXXX.iso` ![7](/images/DumpDiscs_LAN/7.jpg)
-1. The transfer speed is not the fastest, but if you can't use anything else, it's better than nothing.
+1. Presiona el botón derecho en la cruz de control y después oprime A. ![Iniciando DVD Dump Tool](/images/DumpDiscs_LAN/2.png)
+1. Elige el tipo de disco que quieres copiar, ya sea un disco normal, de doble capa o de GameCube, y después oprime A. ![Seleccionando un tipo de disco](/images/DumpDiscs_LAN/3.png)
+1. Ahora inserta el disco que quieres copiar en tu Wii. (Si ya está insertado, expúlsalo y vuelve a insertarlo) ![Inserta el disco](/images/DumpDiscs_LAN/insertthedisc.jpg) ![Preparando la transferencia](/images/DumpDiscs_LAN/4.png)
+1. Toma nota de la dirección IP de tu Wii que aparece en pantalla. ![Toma nota de la IP de tu Wii](/images/DumpDiscs_LAN/5.png)
+1. Abre el navegador en tu computadora, escribe la IP de tu Wii en la barra de dirección y presiona ENTER. ![Ingresando la IP en la PC](/images/DumpDiscs_LAN/6.png)
+1. Debería de cargarse esta página. Ahora sólo haz clic en `Click here to download XXXX.iso` para comenzar la transferencia ![Página de DVD Dump Tool](/images/DumpDiscs_LAN/7.jpg)
+1. La velocidad de transferencia no es la más rápida, pero es mejor que no tener nada si no puedes copiar tus juegos usando CleanRip.
 
 ![8](/images/DumpDiscs_LAN/8.PNG)
