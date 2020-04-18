@@ -1,51 +1,57 @@
 ---
-title: "Site Navigation"
+title: "Todas las guías"
 layout: single
 sitemap: false
 ---
 
-![WiiTutorials](/images/WiiTutorials.jpg)
+![Tutoriales](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
-**Featured**
+**Destacados**
 
-+ [cIOS](cios)
-+ [RiiConnect24](riiconnect24)
-+ [Wiimmfi](wiimmfi)
++ [Instalar cIOS](cios)
++ [Instalar RiiConnect24](riiconnect24)
++ [Conectar a Wiimmfi](wiimmfi)
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
-+ [RiiConnect24](riiconnect24)
-+ [RiiConnect24 Battery Fix](riiconnect24-batteryfix)
-+ [RiiConnect24 Troubleshooting](riiconnect24-troubleshooting)
-+ [RiiConnect24 vWii](riiconnect24-vwii)
-+ [Wiimmfi](wiimmfi)
-+ [WiiWare Patcher](wiiwarepatcher)
++ [Instalar RiiConnect24](riiconnect24)
++ [Solucionar error NEWS/FORE000006](riiconnect24-batteryfix)
++ [Solucionar errores de RiiConnect24](riiconnect24-troubleshooting)
++ [Instalar RiiConnect24 en vWii](riiconnect24-vwii)
++ [Conectar a Wiimmfi](wiimmfi)
++ [Parchear WiiWare para Wiimmfi](wiiwarepatcher)
 
 **Modding 101**
-* [BootMii Backup](bootmii)
-+ [cIOS](cios)
+* [Respaldo de BootMii](bootmii)
++ [Instalar cIOS](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
-+ [Homebrew Channel](hbc)
++ [Instalar Canal Homebrew y BootMii](hbc)
 + [LetterBomb](letterbomb)
-+ [Priiloader](priiloader)
++ [Instalar Priiloader](priiloader)
 + [str2hax](str2hax)
++ [BlueBomb](bluebomb)
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Creating Wii Game Shortcuts](wiigsc)
-+ [How to dump GameCube/Wii games](dump-games)
-+ [How to dump Channels (WADs)](dump-wads)
-+ [Installing RSSMii](rssmii)
-+ [Installing Wii Themes](themes)
-+ [Performing a SysCheck](syscheck)
-+ [Removing RSSMii](rssmii-remove)
-+ [RiiTag](riitag)
++ [Crear accesos directos para juegos de Wii](wiigsc)
++ [Respaldar juegos de Wii y GameCube](dump-games)
++ [Respaldar canales instalados en la consola](dump-wads)
++ [Instalar RSSMii](rssmii)
++ [Instalar temas para el menú de Wii](themes)
++ [Realizar un SysCheck](syscheck)
++ [Desinstalar RSSMii](rssmii-remove)
++ [Instalar RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
+
+**Wii mini**
++ [Installing The Homebrew Channel on the Wii mini](hbc-mini)
++ [Installing cIOS on the Wii mini](cios-mini)
+
 
 **Site**
 + [Home](/)
