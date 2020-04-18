@@ -1,7 +1,7 @@
 ---
 main:
   - 
-    title: Guia de Wii
+    title: Guía Wii
     url: /
   - 
     title: FAQ
@@ -14,13 +14,13 @@ main:
     url: wiimmfi
 bottom:
   - 
-    title: Para soporte en Inglés, pide ayuda en <a href="https://discord.gg/b4Y7jfD">RiiConnect24 en Discord</a>.
+    title: Si necesitas ayuda con alguna cosa relacionada con esta guía, puedes unirte a nuestro <a href="https://discord.gg/b4Y7jfD">servidor de Discord</a> (recomendado) o <a href="mailto:support@riiconnect24.net">enviarnos un correo electrónico</a> (soporte disponible sólo en Inglés).
 footer:
   - 
-    title: Fuente
+    title: Código fuente
     url: https://github.com/RiiConnect24/Wii-Guide/
   - 
-    title: Navegacion de la pagina
+    title: Todas las guías
     url: navegacion de la pagina
   - 
     title: Donaciones
@@ -30,7 +30,7 @@ sidebar_title:
     title: Progreso General
 sidebar_pages:
   - 
-    title: Guia de Wii
+    title: Guía Wii
     url: /
   - 
     title: FAQ
