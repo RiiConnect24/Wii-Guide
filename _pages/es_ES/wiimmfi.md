@@ -2,117 +2,117 @@
 title: "Wiimmfi"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Tabla de contenido" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si necesitas ayuda con alguna cosa relacionada con esta guía, puedes unirte a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [enviarnos un correo electrónico](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
 {: .notice--info}
 
-![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
+![Logotipo de Wiimmfi](/images/WiiWiimmfiLogo.jpg)
 
-[Wiimmfi](https://wiimmfi.de) is a replacement service for the now-defunct Nintendo Wi-Fi Connection. It has been developed by Wiimm and Leseratte.
+[Wiimmfi](https://wiimmfi.de) es un servicio que reemplaza a la Conexión Wi-Fi de Nintendo. Ha sido desarrollado por Wiimm y Leseratte.
 
-## Different patchers
+## Diferentes métodos para conectarse
 
-There are lots of different methods to connect to Wiimmfi.
+Hay muchos métodos diferentes para conectarte a Wiimmfi.
 
-### Homebrew (Disc) Application
-MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
+### Aplicación homebrew (sólo para discos)
+MrBean35000vr (creador de CTGP-R, un paquete de contenido para Mario Kart Wii) creó Auto Wiimmfi Patcher, una aplicación que te permite parchear de forma temporal un juego de disco para poder conectarte a Wiimmfi. Sin embargo, deberás usar esta aplicación cada vez que quieras iniciar el disco.
 
-#### What you need
-* An SD card or USB drive
+#### Requisitos
+* Una tarjeta SD o unidad USB
 * [Auto Wiimmfi Patcher](/assets/files/autowiimmfipatcher-0.6.zip)
 
-#### Instructions
+#### Instrucciones
 
-1. Extract Auto Wiimmfi Patcher and put it in the `apps` folder on your SD card or USB drive.
-2. Insert your SD Card into your Wii, and launch Auto Wiimmfi Patcher from the Homebrew Channel.
-3. Insert your game disc (you can insert it before or after launch, it doesn't matter).
-4. Wait for patch to complete, and it'll begin!
+1. Extrae Auto Wiimmfi Patcher a la carpeta `apps` en tu tarjeta SD o unidad USB.
+2. Inserta la tarjeta SD o unidad USB en tu Wii e inicia Auto Wiimmfi Patcher desde el Canal Homebrew.
+3. Inserta el disco en la consola (también puedes insertarlo antes de iniciar la aplicación).
+4. Espera unos segundos y tu juego se iniciará. ¡Ahora puedes conectarte a Wiimmfi!
 
-### No-Homebrew (Disc)
-Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
+### Método sin homebrew (sólo para discos)
+Gracias al exploit str2hax creado por Fullmetal5, el cual Leseratte fue capaz de adaptar para el parche de Wiimmfi, puedes ejecutar el parche incluso si no tienes modificada tu consola.
 
-#### What you need
-* A Wii with an Internet connection
+#### Requisitos
+* Un Wii con conexión a internet
 
-#### Instructions
+#### Instrucciones
 
-1. Insert your game disc.
-2. Go into your internet connection settings and set the DNS server of your console to 95.217.77.151.
-3. Go to the WC24 contract information (third button after clicking on "Internet" in the settings).
-4. Confirm that you do want to use WC24 and the shop channel
-5. The Wiimmfi patcher page should show up. If it doesn't, and you still see the default license agreement, your router might not be compatible with this method.
-6. Wait for about 1 minute and 30 seconds for the patcher to load
-7. The game should now start with the Wiimmfi patch included
+1. Inserta el disco en la consola.
+2. Ve a los ajustes de internet en la configuración de la consola, selecciona la red actual, y en los ajustes de DNS añade `95.217.77.151` como el DNS primario y secundario.
+3. Ahora selecciona `Documentos legales/Contacto` en los ajustes de internet
+4. Confirma que quieres usar el Canal Tienda Wii y WiiConnect24
+5. Ahora debería mostrarse la página del parche de Wiimmfi. Si dicha página no aparece y en su lugar se muestra el contraro de uso de Nintendo, entonces esto quiere decir que tu ISP (proveedor de servicios de internet) no permite el uso de DNS alternativos. Desafortunadamente en este caso no podrás usar este método.
+6. Espera durante alrededor de un minuto y medio hasta que el parche termine de cargarse
+7. Al cabo de unos segundos después de que se inicie el parche, tu juego se iniciará y estarás listo para conectarte a Wiimmfi.
 
-### ISO Patching
-You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
+### Parchear copias de juegos
+Tal vez no quieras tener que iniciar el parche cada vez que desees jugar en Wiimmfi, y tal vez ya estés usando un USB loader. Por esta razón, también es posible parchear los juegos guardados en una unidad USB.
 
-#### What you need
-- Your copy of your game (WBFS, ISO, cISO, and other forms that a Wii can use are supported).
+#### Requisitos
+- La copia de tu juego (los formatos WBFS, ISO y cISO están soportados).
 - Wiimm's Disc Patcher
-   - [Mario Kart Wii edition](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip)
-   - [Non-Mario Kart Wii edition](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z)
-- A USB Loader, cIOS, and a USB to store the game on (you should already have these if you're using a USB Loader)
+   - [Versión para Mario Kart Wii](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip)
+   - [Versión para otros juegos](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z)
+- Un USB loader, cIOS, y una unidad USB para guardar el juego (ya deberías de tener estas cosas si estás usando un USB loader).
 
-#### Instructions
-1. Extract the patcher of your choice to a folder, and place your copy of the game in it.
-2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux.
-3. Once it's finished, get the version out of the `wiimmfi-images` folder (it may be in the folder before the patcher - ../wiimmfi-images) and copy it back to your USB.
+#### Instrucciones
+1. Extrae el parche de tu elección y después coloca la copia del juego en la misma carpeta.
+2. Ejecuta el script del parche apropiado para tu sistema operativo: el archivo `.bat` es para Windows y el `.sh` es para Mac/Linux.
+3. Una vez terminado el proceso, copia a tu unidad USB el juego parcheado que está ubicado en la carpeta `wiimmfi-images`.
 
-### Automatic patching using an USB-Loader
-If you are already using an USB-Loader like the USB-Loader GX or WiiFlow Lite, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB-Loader automatically patch every game you start to work with Wiimmfi.
+### Parchear automáticamente usando un USB loader
+Si ya estás usando un USB loader como USB Loader GX o WiiFlow Lite, es posible parchear tus juegos de forma automática con sólo activar una opción. Este método es el más sencillo y eficiente de todos. Sólo tienes ir a los ajustes globales del USB loader, buscar una opción llamada "Servidor privado" y ajustarla en "Wiimmfi" para hacer que todos tus juegos sean parcheados automáticamente antes de iniciarse.
 
-### WiiWare Patching
-You can patch WiiWare games in order to play them on Wiimmfi.
+### Parchear WiiWare
+También es posible parchear juegos WiiWare para jugarlos en Wiimmfi.
 
-#### What you need
+#### Requisitos
 
-- An SD card
-- Your copy of your game (in WAD format)
+- Una tarjeta SD
+- Una copia de tu juego (en formato WAD)
 - [Auto WiiWare Patcher](https://github.com/RiiConnect24/auto-wiiware-patcher/releases)
 - [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
-[If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
+[Si quieres saber cómo usar Auto WiiWare Patcher, ¡haz clic aquí!](wiiwarepatcher)
 {: .notice--info}
 
-Steps:
-1. Extract the .zip of the latest version of Auto WiiWare Patcher, and put your WAD in it.
-2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux.
-3. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
+Instrucciones:
+1. Extrae Auto WiiWare Patcher y después coloca tu WAD en la misma carpeta.
+2. Ejecuta el script del parche apropiado para tu sistema operativo: el archivo `.bat` es para Windows y el `.sh` es para Mac/Linux.
+3. Una vez que el proceso haya finalizado, instala el WAD parcheado ubicado en la carpeta `wiiware-wads` usando Wii Mod Lite.
 
-## Other stuff
+## Otras cosas
 
-### Mario Kart Wii Competitions
-Wiimmfi allows you to participate in Mario Kart Wii competitions again.
+### Torneos de Mario Kart Wii
+Wiimmfi también te permite participar nuevamente en torneos de Mario Kart Wii.
 
-#### What you need
+#### Requisitos
 
-- An SD card or USB drive
+- Una tarjeta SD o unidad USB
 - Mario Kart Wii Competition Patcher
-   - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
-   - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
+   - [Versión para Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
+   - [Versión para vWii (Wii U)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
-#### Instructions (for Wii)
+#### Instrucciones
 
-1. Extract Mario Kart Wii Competition Patcher and put it in the `apps` folder on your SD Card.
-2. Insert your SD card or USB drive into the Wii.
-3. Launch the original Mario Kart Wii game (not Wiimmfi patched).
-4. Navigate to Settings -> Network Settings (or Nintendo WFC Connection) -> Message Service. If you turned the message service feature on, turn it off and turn it on again.
-5. Launch Mario Kart Wii Competition Patcher.
-6. The patcher will look for save files for Mario Kart Wii on your storage device in various places, and upload them. This is done in case a missing competition is found in your save file. It will also, of course, patch your Wii for competitions.
+1. Extrae Mario Kart Wii Competition Patcher a la carpeta `apps` en tu tarjeta SD o unidad USB.
+2. Inserta la tarjeta SD o unidad USB en la consola.
+3. Inicia el juego original de Mario Kart Wii (sin el parche de Wiimmfi).
+4. Selecciona Ajustes -> CWF de Nintendo -> Servicio de mensajes. Si el servicio de mensajes ya está activado, desactívalo y después vuelve a activarlo.
+5. Inicia Mario Kart Wii Competition Patcher desde el Canal Homebrew.
+6. El parche buscará datos de guardado de Mario Kart Wii en tus dispositivos de almacenamiento insertados y los enviará a los servidores de Wiimmfi. Esto se hace en caso de que en tus datos de guardado llegaras a tener uno de los torneos faltantes. También, por supuesto, registrará tu Wii para que puedas recibir los torneos.
 
-If you're using the Wii U, you will have to run the competitions patcher whenever you want to check for a competition, because WiiConnect24 is not enabled on the Wii U.
+Si estás usando un Wii U, tendrás que iniciar el parche cada vez que quieras buscar un torneo nuevo, debido a que WiiConnect24 está desactivado en el Wii U.
 {: .notice--info}
 
 ### CTGP-R (Mario Kart Wii)
-MrBean35000vr and Chadderz have an amazing CTGP-R distribution, the application that allows you to use a set of custom tracks, has automatic Wiimmfi patching. Go to the [ChadSoft Website](http://chadsoft.co.uk) for the download and instructions.
+MrBean35000vr y Chadderz tienen una increíble distribución de circuitos personalizados llamada CTGP-R, que además incluye un parche de Wiimmfi automático. Visita el [sitio web de ChadSoft](http://chadsoft.co.uk) para descarga e instrucciones.
 
 ### MKW Hack Pack (Mario Kart Wii)
-Huili has put together a really good collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. To learn how to set it up, go to the [wiki page](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+Huili ha creado una muy buena colección de circuitos personalizados y hacks llamada MKW Hack Pack, y también permite conectarse a Wiimmfi. Para más información, visita la [wiki](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
 
-### Wiimms MKW Fun (Mario Kart Wii)
-Wiimm and Leseratte created a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte and contains a Wiimmfi patch and lots of other features. You can find out more about it on its [wiki page](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
+### Wiimm's MKW Fun (Mario Kart Wii)
+Wiimm y Leseratte tienen una distribución de circuitos personalizados llamada "Wiimm's MKW Fun", la cual es actualizada alrededor de tres veces al año. Está basada en el sistema LE-CODE de Leseratte y de igual manera permite conectarse a Wiimmfi, además de muchas otras características. Pues leer más visitando la [wiki](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
 
-[Click here! We got many other tutorials that you can check out :)](site-navigation)
+[Echa un vistazo a nuestras demás guías Tenemos muchos otros tutoriales que podrían interesarte.](site-navigation)
 {: .notice--info}
