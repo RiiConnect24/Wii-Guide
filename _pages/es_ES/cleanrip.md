@@ -4,7 +4,7 @@ title: "CleanRip"
 
 {% include toc title="Tabla de contenido" %}
 
-Si necesitas ayuda con alguna cosa relacionada con esta guía, puedes unirte a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [enviarnos un correo electrónico](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
+En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por favor únete a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [envíanos un e-mail](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
 {: .notice--info}
 
 ¿Te gustaría hacer una copia de tus juegos de Wii y GameCube? En esta guía te explicaremos cómo hacerlo usando CleanRip.
