@@ -10,7 +10,7 @@ Caso precise de ajuda com este tutorial, entre [no servidor do RiiConnect24 no D
 Essas instruções assumem que você está usando um cartão SD para modificar seu Wii, mas você também pode usar um dispositivo USB. Entretanto, para usar exploits, LetterBomb requer um cartão SD, e BlueBomb requer um dispositivo USB.
 {: .notice--info}
 
-Este guia é apenas para o Wii original, na versão do sistema mais recente (4.3). Não tente fazer isso em um Wii U (vWii)! If you want to install homebrew on vWii, [follow this tutorial](https://wiiuguide.xyz/#/vwii/vwii-modding).
+Este guia é apenas para o Wii original, na versão do sistema mais recente (4.3). Não tente fazer isso em um Wii U (vWii)! Se você quer instalar homebrew em um vWii, [siga esse guia](https://wiiuguide.xyz/#/vwii/vwii-modding).
 {: .notice--warning}
 
 ### Escolha um exploit
