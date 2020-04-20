@@ -4,14 +4,14 @@ title: "Instalar Priiloader"
 
 {% include toc title="Tabla de contenido" %}
 
-Si necesitas ayuda con alguna cosa relacionada con esta guía, puedes unirte a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [enviarnos un correo electrónico](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
+En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por favor únete a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [envíanos un e-mail](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
 {: .notice--info}
 
-Priiloader proporciona un nivel adicional de protección contra un brick a tu consola Wii. Se carga antes del menú de Wii (de ahí el nombre). La herramienta también te permite activar hacks para el menú de Wii, así como lanzar el Canal Homebrew, BootMii o cualquier homebrew rápidamente.
+Priiloader proporciona un nivel adicional de protección contra bricks a tu consola Wii. Se carga antes del menú de Wii (de ahí el nombre). La herramienta también te permite activar hacks para el menú de Wii, así como lanzar el Canal Homebrew, BootMii o cualquier homebrew rápidamente.
 
 ![Priiloader](/images/priiloader.jpg)
 
-Por favor **no** intentes instalar Priiloader en el modo Wii de un Wii U (vWii). Si lo haces, tu vWii quedará en estado de brick.
+Por favor **no** intentes instalar Priiloader en el modo Wii de un Wii U (vWii). Si lo haces, tu vWii quedará brickeado.
 {: .notice--warning}
 
 #### Requisitos
@@ -26,9 +26,9 @@ Por favor **no** intentes instalar Priiloader en el modo Wii de un Wii U (vWii).
 
 ##### Sección II - Instalación
 
-1. Lanza el Canal Homebrew en tu Wii.
-2. Launch Priiloader.
-3. Press the + Button on Wii Remote or the A Button on a GameCube controller. ![Install Priiloader](/images/Priiloader/2.png) ![Installing](/images/Priiloader/3.png)
+1. Inicia el Canal Homebrew en tu Wii.
+2. Ejecuta Priiloader.
+3. Presiona el botón + en tu Wiimote o el botón A en un control de GameCube. ![Menú principal](/images/Priiloader/2.png) ![Actualizando Priiloader](/images/Priiloader/3.png)
 
 ##### Sección III - Configurando Priiloader
 
@@ -65,8 +65,8 @@ Esta es una lista de los hacks que puedes activar con Priiloader.
 | Move Disc Channel (Mover el Canal Disco)                                                                        | Permite mover el Canal Disco a cualquier parte del menú de Wii. Normalmente está fijado en la parte superior izquierda de la primera pantalla de canales.          |
 | Block Online Updates (Bloquear actualizaciones en línea)                                                        | Evita que la consola se actualize a través de Internet.                                                                                                            |
 
-[Continuar a la instalación de cIOS](cios)<br> Los cIOS (IOS personalizados) son usados para cargar juegos a través de un USB loader. Incluso si no quieres instalarlos, son necesarios para usar algunas otras aplicaciones homebrew.
+[Continuar a la instalación de cIOS](cios)<br> El cIOS (IOS personalizado) es usado para cargar juegos a través de un USB loader. Incluso si no deseas instalarlo, es necesario para usar algunas otras aplicaciones homebrew.
 {: .notice--info}
 
-If you have a Wii mini, follow [this guide](cios-mini) to install cIOS instead.
+Si tienes un Wii Mini, por favor sigue [esta guía](cios-mini) para instalar el cIOS.
 {: .notice--info}
