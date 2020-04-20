@@ -4,7 +4,7 @@ title: Instalar RiiConnect24 en vWii
 
 {% include toc title="Tabla de contenido" %}
 
-Si necesitas ayuda con alguna cosa relacionada con esta guía, puedes unirte a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [enviarnos un correo electrónico](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
+En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por favor únete a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [envíanos un e-mail](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
 {: .notice--info}
 
 ![Logotipo de RiiConnect24](/images/WiiRC24Logo.jpg)
@@ -16,7 +16,7 @@ Debido a que algunas funciones encontradas en el Wii original no están presente
 
 #### Advertencias
 
-**NO** nos haremos responsables si brickeas o dañas tu consola de cualquier otra forma. Si sigues los pasos de esta guía de forma exacta, no deberías tener ningún tipo de problema.
+**NO** nos haremos responsables si tu consola se brickea o la dañas de cualquier otra forma. Si sigues los pasos de esta guía de forma exacta, no deberías tener ningún tipo de problema.
 {: .notice--warning}
 
 **NO** uses esta guía en ninguna otra consola que no sea el vWii (modo Wii de Wii U). Si estás buscando instalar RiiConnect24 en un Wii original, por favor sigue [esta guía](riiconnect24). Si deseas usar RiiConnect24 en el emulador Dolphin, por favor sigue [esta guía](/riiconnect24-dolphin).
@@ -38,7 +38,7 @@ Después de seguir la guía anteriormente mencionada, deberías de tener:
 
 #### Instrucciones
 
-Si usas GNU/Linux o macOS en tu PC, o si vas a usar un dispositivo móvil, por favor sigue la [guía manual](https://pad.snopyta.org/s/rJ2N0B1XU) para instalar RiiConnect24 (sólo disponible en Inglés). RiiConnect24 Patcher de momento sólo está disponible para Windows. El resultado final será el mismo sin importar el método que hayas usado.
+Si usas Linux o macOS en tu PC, o si vas a usar un dispositivo móvil, por favor sigue la [guía manual](https://pad.snopyta.org/s/rJ2N0B1XU) para instalar RiiConnect24. RiiConnect24 Patcher de momento sólo está disponible para Windows. El resultado final será el mismo sin importar el método que hayas usado.
 {: .notice--info}
 
 ##### Sección I - Ejecutando el parche
@@ -46,8 +46,8 @@ Si usas GNU/Linux o macOS en tu PC, o si vas a usar un dispositivo móvil, por f
 Usando el RiiConnect24 Patcher que has descargado en [los requisitos](#requisitos), estarás descargando y parcheando el IOS 31, así como los canales Noticias, Opiniones, Nintendo y Miirame para poder usarlos en tu vWii.
 
 1. Ejecuta el archivo `RiiConnect24Patcher.bat` en tu PC y sigue las instrucciones en pantalla.
-2. Asegúrate de tener 3 carpetas nuevas después de haber ejecutado el parche. They will be in the same folder where `RiiConnect24Patcher.bat` is and on your SD Card (of course, only if you selected an option in the patcher to do so).
-   - If the patcher did not move the file to the SD Card, move these 3 folders to the root of your SD card.
+2. Asegúrate de tener tres carpetas nuevas después de haber ejecutado el parche. Estarán en la misma carpeta donde se encuentra `RiiConnect24Patcher.bat` y en tu tarjeta SD (esto último sólo si elegiste copiar los archivos automáticamente a la tarjeta SD).
+   - Si el parche no ha copiado los archivos a la tarjeta SD, por favor copia las tres carpetas anteriormente mencionadas a la raíz de tu tarjeta SD.
 
 ##### Sección II - Instalando los WADs parcheados
 
