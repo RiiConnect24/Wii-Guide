@@ -4,7 +4,7 @@ title: "str2hax"
 
 {% include toc title="Tabla de contenido" %}
 
-Si necesitas ayuda con alguna cosa relacionada con esta guía, puedes unirte a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [enviarnos un correo electrónico](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
+En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por favor únete a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [envíanos un e-mail](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
 {: .notice--info}
 
 Ten en cuenta que si tu ISP (proveedor de servicios de internet) o entorno de red evitan el uso de DNS alternativos, str2hax no funcionará y tendrás que [usar otro exploit](get-started).
@@ -24,7 +24,7 @@ Este exploit requiere que cambies tu configuración de DNS para poder conectarte
 
 1. Selecciona `Opciones de Wii` en el menú de Wii. ![Opciones de Wii](/images/RiiConnect24/Internet_1.png)
 2. Selecciona `Configuración de Wii`. ![Configuración de Wii](/images/RiiConnect24/Internet_2.png)
-3. Pasa a la segunda página y después selecciona `Internet`. ![Internet](/images/RiiConnect24/Internet_3.png)
+3. Pasa a la segunda página y después selecciona `Internet`. ![Selecciona Internet](/images/RiiConnect24/Internet_3.png)
 4. Selecciona `Ajustes de conexión`. ![Ajustes de conexión](/images/RiiConnect24/Internet_4.png)
 5. Selecciona tu conexión actual. ![Conexión actual](/images/RiiConnect24/Internet_5.png)
 6. Selecciona `Modificar`. ![Modificar](/images/RiiConnect24/Internet_6.png)
