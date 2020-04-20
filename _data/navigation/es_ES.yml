@@ -14,7 +14,7 @@ main:
     url: wiimmfi
 bottom:
   - 
-    title: Si necesitas ayuda con alguna cosa relacionada con esta guía, puedes unirte a nuestro <a href="https://discord.gg/b4Y7jfD">servidor de Discord</a> (recomendado) o <a href="mailto:support@riiconnect24.net">enviarnos un correo electrónico</a> (soporte disponible sólo en Inglés).
+    title: En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por favor únete a nuestro <a href="https://discord.gg/b4Y7jfD">servidor de Discord</a> (recomendado) o <a href="mailto:support@riiconnect24.net">envíanos un e-mail</a> (soporte disponible sólo en Inglés).
 footer:
   - 
     title: Código fuente
