@@ -1,13 +1,13 @@
 ---
-title: "Respaldar canales instalados en la consola"
+title: "Copiar canales instalados en formato WAD"
 ---
 
 {% include toc title="Tabla de contenido" %}
 
-Si necesitas ayuda con alguna cosa relacionada con esta guía, puedes unirte a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [enviarnos un correo electrónico](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
+En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por favor únete a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [envíanos un e-mail](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
 {: .notice--info}
 
-En esta guía te explicaremos cómo hacer copias de los canales instalados en la memoria de tu consola.
+En esta guía te explicaremos cómo extraer canales instalados en la memoria del sistema en forma de WADs.
 
 #### Requisitos
 * Una tarjeta SD o unidad USB
