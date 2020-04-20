@@ -4,7 +4,7 @@ title: "Copiar juegos a través de una red local"
 
 {% include toc title="Tabla de contenido" %}
 
-Si necesitas ayuda con alguna cosa relacionada con esta guía, puedes unirte a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [enviarnos un correo electrónico](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
+En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por favor únete a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [envíanos un e-mail](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
 {: .notice--info}
 
 ¿Te gustaría hacer una copia de tus juegos de Wii y GameCube a través de tu red local? En esta guía te explicaremos cómo hacerlo. Esto puede ser útil si no tienes una tarjeta SD o unidad USB con suficiente espacio libre para copiar los juegos.
@@ -36,4 +36,4 @@ Tanto tu consola Wii como tu computadora deben estar conectadas a la misma red l
 1. Debería de cargarse esta página. Ahora sólo haz clic en `Click here to download XXXX.iso` para comenzar la transferencia ![Página de DVD Dump Tool](/images/DumpDiscs_LAN/7.jpg)
 1. La velocidad de transferencia no es la más rápida, pero es mejor que no tener nada si no puedes copiar tus juegos usando CleanRip.
 
-![8](/images/DumpDiscs_LAN/8.PNG)
+![Transfiriendo un juego](/images/DumpDiscs_LAN/8.PNG)
