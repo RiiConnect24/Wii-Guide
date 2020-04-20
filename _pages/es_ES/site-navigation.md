@@ -11,7 +11,7 @@ sitemap: false
 
 + [Instalar cIOS](cios)
 + [Instalar RiiConnect24](riiconnect24)
-+ [Conectar a Wiimmfi](wiimmfi)
++ [Conectarse a Wiimmfi](wiimmfi)
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
@@ -21,8 +21,8 @@ sitemap: false
 + [Solucionar error NEWS/FORE000006](riiconnect24-batteryfix)
 + [Solucionar errores de RiiConnect24](riiconnect24-troubleshooting)
 + [Instalar RiiConnect24 en vWii](riiconnect24-vwii)
-+ [Conectar a Wiimmfi](wiimmfi)
-+ [Parchear WiiWare para Wiimmfi](wiiwarepatcher)
++ [Conectarse a Wiimmfi](wiimmfi)
++ [Parchear WiiWare para jugar en Wiimmfi](wiiwarepatcher)
 
 **Modding 101**
 * [Respaldo de BootMii](bootmii)
@@ -38,8 +38,8 @@ sitemap: false
 
 **Homebrew**
 + [Crear accesos directos para juegos de Wii](wiigsc)
-+ [Respaldar juegos de Wii y GameCube](dump-games)
-+ [Respaldar canales instalados en la consola](dump-wads)
++ [Copiar juegos de Wii/GameCube](dump-games)
++ [Copiar canales instalados en formato WAD](dump-wads)
 + [Instalar RSSMii](rssmii)
 + [Instalar temas para el menú de Wii](themes)
 + [Realizar un SysCheck](syscheck)
@@ -48,15 +48,15 @@ sitemap: false
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 
-**Wii mini**
-+ [Installing The Homebrew Channel on the Wii mini](hbc-mini)
-+ [Installing cIOS on the Wii mini](cios-mini)
+**Guías para Wii Mini**
++ [Instalar el Canal Homebrew en Wii Mini](hbc-mini)
++ [Instalar cIOS en Wii mini](cios-mini)
 
 
-**Site**
-+ [Home](/)
-+ [Get Started](get-started)
+**Sitio**
++ [Inicio](/)
++ [Comenzar](get-started)
 + [FAQ](faq)
-+ [Donations](donations)
++ [Donaciones](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
