@@ -1,5 +1,5 @@
 ---
-title: "Respaldar juegos de Wii y GameCube"
+title: "Copiar juegos de Wii/GameCube"
 ---
 
 ¿Quieres copiar un juego de Wii o GameCube y jugarlo en tu consola sin necesidad de usar el disco? En esta guía te explicaremos cómo hacerlo.
