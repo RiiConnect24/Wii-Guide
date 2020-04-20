@@ -4,7 +4,7 @@ title: "Instalar RSSMii"
 
 {% include toc title="Tabla de contenido" %}
 
-Si necesitas ayuda con alguna cosa relacionada con esta guía, puedes unirte a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [enviarnos un correo electrónico](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
+En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por favor únete a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [envíanos un e-mail](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
 {: .notice--info}
 
 ¿Te gustaría recibir actualizaciones RSS en tu tablón de Wii? En esta guía te explicaremos cómo instalar RSSMii.
@@ -40,9 +40,9 @@ Reemplaza el nombre con el título que quieras poner a la fuente. Asegúrate de 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <rss>
-  <feed name="RiiConnect24 Medium"><![CDATA[https://medium.com/feed/riiconnect24]]></feed>
-  <feed name="RiiConnect24 Twitter"><![CDATA[https://twitrss.me/twitter_user_to_rss/?user=RiiConnect24]]></feed>
-  <feed name="Nintendo News"><![CDATA[https://www.nintendo.com/feed]]></feed>
+  <feed name="RiiConnect24 en Medium"><![CDATA[https://medium.com/feed/riiconnect24]]></feed>
+  <feed name="RiiConnect24 en Twitter"><![CDATA[https://twitrss.me/twitter_user_to_rss/?user=RiiConnect24]]></feed>
+  <feed name="Noticias de Nintendo"><![CDATA[https://www.nintendo.com/feed]]></feed>
 </rss>
 ```
 
