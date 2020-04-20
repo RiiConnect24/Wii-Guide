@@ -14,9 +14,9 @@ excerpt: "La guía completa para modificar tu consola Nintendo Wii."
 Esta guía también está disponible en otros idiomas. (Traducción al Español por Antonio231102) Para ver la página en otro idioma, por favor presiona el icono en la esquina superior derecha y elige un idioma.
 {: .notice--info}
 
-## ¿Qué es la Guía Wii?
+## ¿Qué es la Wii Guide?
 
-La Guía Wii es una guía mantenida por [RiiConnect24](https://rc24.xyz) para ayudarte a modificar tu consola Wii.
+La Wii Guide es una guía mantenida por [RiiConnect24](https://rc24.xyz) para ayudarte a modificar tu consola Wii.
 
 ## ¿Qué es "homebrew"?
 
@@ -54,4 +54,4 @@ También hay otras fuentes y guías relacionadas con la modificación del Wii qu
 
 Para modificar una Wii U, hay algunas opciones adicionales:
 - [La Guía Definitiva del Hacking de vWii](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
-- [Guía Wii U de NH](https://wiiuguide.xyz)
+- [Wii Guide U de NH](https://wiiuguide.xyz)
