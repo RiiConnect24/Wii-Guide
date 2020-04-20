@@ -4,7 +4,7 @@ title: "Instalar RiiConnect24"
 
 {% include toc title="Tabla de contenido" %}
 
-Si necesitas ayuda con alguna cosa relacionada con esta guía, puedes unirte a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [enviarnos un correo electrónico](mailto:support@riiconnect24.net) (soporte sólo disponible en Inglés).
+En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por favor únete a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [envíanos un e-mail](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
 {: .notice--info}
 
 ![Logotipo de RiiConnect24](/images/WiiRC24Logo.jpg)
@@ -39,7 +39,7 @@ Para poder utilizar el correo de Wii, debes tener la versión de sistema 4.3, de
 [Si quieres ver instrucciones detalladas sobre cómo instalar los WADs, ¡haz clic aquí!](wiimodlite)
 {: .notice--info}
 
-Si utilizas Linux o macOS, por favor [envíanos un correo electrónico](mailto:support@riiconnect24.net) y te daremos los archivos necesarios para instalar RiiConnect24 (soporte disponible sólo en Inglés). RiiConnect24 Patcher de momento sólo está disponible para Windows.
+Si usas Linux o macOS, por favor [envíanos un e-mail](mailto:support@riiconnect24.net) y te daremos los archivos necesarios para instalar RiiConnect24 (soporte disponible sólo en Inglés). RiiConnect24 Patcher de momento sólo está disponible para Windows.
 {: .notice--info}
 
 Ahora vas a parchear los IOS `31` y `80`. Esto lo que hace es cambiar una clave RSA usada para firmar los archivos, y es requerido para poder utilizar los canales que soportamos. También descargarás versiones parcheadas de los canales.
@@ -66,7 +66,7 @@ Ahora vas a parchear el archivo `nwc24msg.cfg` de tu consola, lo cual es necesar
 Si el paso anterior ha fallado y recibiste el error "net_get_status: -24 - Couldn't request the data: -24", por favor revisa los ajustes de Internet de tu consola.
 {: .notice--warning}
 
-Si fuiste incapaz de parchear tu archivo nwc24msg.cfg correctamente, por favor [envíanos un correo electrónico](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
+Si fuiste incapaz de parchear tu archivo nwc24msg.cfg correctamente, por favor [envíanos un e-mail](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
 {: .notice--info}
 
 ##### Sección III - Conectándose al servicio
@@ -103,7 +103,7 @@ Si por otra parte recibes el error 107304, entonces eso significa que tu ISP (pr
 [Si te aparece el error FORE000006, puedes seguir esta guía para intentar solucionarlo. (Esto no funciona con el error NEWS000006).](riiconnect24-batteryfix)
 {: .notice--warning}
 
-Si estás recibiendo un error que diga que los servicios de WiiConnect24 y el Canal Tienda Wii no están disponibles en tu país, por favor ve hacia ->Configuración de Wii-> en ->Opciones de Wii->, pasa hasta la última página, elige ->País->, y selecciona ->Reino Unido->. Este error aparece si tu consola está configurada con un país que no soportamos. Si necesitas más ayuda, por favor [contáctanos](mailto:support@riiconnect24.net).
+Si estás recibiendo un error que diga que los servicios de WiiConnect24 y el Canal Tienda Wii no están disponibles en tu país, por favor ve hacia ->Configuración de Wii-> en ->Opciones de Wii->, pasa hasta la última página, elige ->País->, y selecciona ->Reino Unido->. Este error aparece si tu consola está configurada con un país que no soportamos. En caso de que necesites más ayuda, por favor [envíanos un e-mail](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
 {: .notice--warning}
 
 [Si has recibido un error en el Canal Tiempo o Noticias que dice que el servicio ha sido descontinuado, tenemos algunas instrucciones que podrían ayudarte a solucionar el problema.](riiconnect24-troubleshooting)
