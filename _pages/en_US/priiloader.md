@@ -28,10 +28,9 @@ Please do **not** install Priiloader on a vWii (Wii mode on Wii U). You will bri
 
 1. Launch the Homebrew Channel on your Wii.
 2. Launch Priiloader.
-![Find Priiloader](/images/Priiloader/1.jpg)
 3. Press the + Button on Wii Remote or the A Button on a GameCube controller.
-![Install Priiloader](/images/Priiloader/2.jpg)
-![Installing](/images/Priiloader/3.jpg)
+![Install Priiloader](/images/Priiloader/2.png)
+![Installing](/images/Priiloader/3.png)
 
 ##### Section III - Entering/Configuring Priiloader
 
@@ -40,10 +39,10 @@ Please do **not** install Priiloader on a vWii (Wii mode on Wii U). You will bri
 ![Hold RESET](/images/Priiloader/4.jpg)
 
 2. You should see the Priiloader menu.
-![Menu](/images/Priiloader/6.jpg)
+![Menu](/images/Priiloader/6.png)
 3. Go to `System Menu Hacks`.
 4. We recommend you turn on these hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`.
-![System Menu Hacks](/images/Priiloader/7.jpg)
+![System Menu Hacks](/images/Priiloader/7.png)
 
 ## System Menu Hacks List
 
@@ -74,4 +73,7 @@ This is a list of the hacks you can enable with Priiloader.
 
 [Continue to cIOS](cios)<br>
 cIOS are used to play games with a USB Loader. Even if you don't want to do that, it's useful for many homebrew apps.
+{: .notice--info}
+
+If you have a Wii mini, follow [this guide](cios-mini) to install cIOS instead.
 {: .notice--info}
