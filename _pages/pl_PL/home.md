@@ -6,7 +6,7 @@ header:
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
   cta_label: "Wprowadzenie"
-  cta_url: "get-started"
+  cta_url: "/pl_PL/get-started"
   caption:
 excerpt: "Wszystko w pigułce o modowaniu Twojej konsoli Nintendo Wii."
 ---
