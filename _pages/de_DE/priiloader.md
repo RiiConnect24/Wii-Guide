@@ -4,24 +4,24 @@ title: "Priiloader"
 
 {% include toc title="Table of Contents" %}
 
-Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD)(empfohlen) bei, oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
+Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [RiiConnect24 Discord-Server](https://discord.gg/b4Y7jfD) bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Priiloader fügt eine Schutzebene vor Bricks zu deiner Wii hinzu. Es lädt vor dem Wii-Menü (daher der Name). Diese Werkzeug kann auch Hacks für dein Wii-Menü aktivieren und kann genutzt werden, um den Homebrew-Kanal schnell zu starten, oder eine Homebrew, die du starten möchtest!
 
 ![Priiloader](/images/priiloader.jpg)
 
-Bitte benutze den Priiloader **nicht** auf einer vWii (Wii-Modus auf der Wii U). Du wirst deine vWii dadurch bricken.
+Bitte installiere den Priiloader **nicht** auf einer vWii (Wii-Modus auf der Wii U). Du wirst deine vWii dadurch bricken.
 {: .notice--warning}
 
 #### Voraussetzungen
-* Eine SD-Karte bzw. ein USB-Laufwerk
+* Eine SD-Karte oder ein USB-Laufwerk
 * [Priiloader](/assets/files/Priiloader_v0_8_2.zip)
 
 #### Anleitung
 ##### Abschnitt 1 - Herunterladen/Installieren
 
-1. Lade Priiloader herunter und entpacke es in das oberste Verzeichnis deiner SD-Karte bzw. deines USB-Laufwerks.
+1. Lade Priiloader herunter und entpacke es in das oberste Verzeichnis deiner SD-Karte oder deines USB-Laufwerks.
 2. Verbinde deine SD-Karte oder dein USB-Laufwerk mit deiner Wii und starte Priiloader über den Homebrew-Kanal.
 
 ##### Abschnitt 2 - Priiloader installieren
