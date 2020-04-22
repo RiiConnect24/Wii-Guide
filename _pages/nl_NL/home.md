@@ -14,19 +14,15 @@ excerpt: "The complete guide to modding your Nintendo Wii."
 Deze guide is ook beschikbaar in andere talen! Om de taal te veranderen, kunt u op het icoontje rechts boven in beeld klikken en dan kunt u een taal kiezen.
 {: .notice--info}
 
-## Wat is Wii Guide?
+## What is "homebrew"?
 
-Wii Guide wordt onderhouden door [RiiConnect24](https://rc24.xyz) om u te helpen met het modificeren van uw Wii.
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to unofficial software including games, utilities, emulators and others.
 
-## Wat is "homebrew"?
+Running homebrew on your Nintendo Wii is free using various exploits.
 
-[**Homebrew**](https://nl.wikipedia.org/wiki/Homebrew_(software)) is een term die wordt gekoppeld aan computerspellen of overige software geproduceerd door consumenten voor gepatenteerde hardware. Onder homebrew vallen programma's of spellen die zijn ontwikkeld met officiële Sdk's (Software Development Kits).
+## What can I do with homebrew?
 
-Homebrew gebruiken op een Wii is gratis dankzij verschillende exploits.
-
-## Wat kan ik doen met homebrew?
-
-Hier onderstaat een lijst met dingen die ermee kunt doen. Hoewel dit niet alle dingen zijn die u kunt doen met een homebrewed Wii, geeft dit u alvast een idee wat allemaal mogelijk is. Onze guide zal u hierbij in het begin begeleiden.
+Here's a list of things you can do with it. While these aren't all the things you can do with homebrew, it should give you a starting point for things you can do. Our guide will help you easily get started.
 
 - Uw cd-rom spellen patchen (zorgt dat u het spel kan spelen met modificaties) door middel van [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
 - Eigen Wii Menu Thema's installeren via [MyMenuify](/themes).
@@ -39,12 +35,12 @@ Hier onderstaat een lijst met dingen die ermee kunt doen. Hoewel dit niet alle d
 - Uw Wii beschermen tegen een "brick" (Wanneer een deel van uw Wii of zelfs de hele Wii niet meer functioneert) door het gebruik van [Priiloader](/priiloader) en BootMii.
 - Uw Wii omtoveren tot een mediaspeler met [WiiMC](http://www.wiimc.org/).
 
-Begin met het [kiezen van een exploit](get-started)!
+Get started by [choosing your exploit](get-started)!
 {: .notice--info}
 
-## Andere Guides
+## More Resources
 
-Er zijn ook andere goede guide die u kunt volgen om uw Wii te modificeren of die u kunnen helpen met problemen (deze zullen wel bijna allemaal in het Engels zijn):
+There are also few more good resources for Wii modding and troubleshooting that can help:
 
 - [Complete Softmod Guide](https://sites.google.com/site/completesg/)
 - [ModMii](http://modmii.000webhostapp.com/)
@@ -52,6 +48,6 @@ Er zijn ook andere goede guide die u kunt volgen om uw Wii te modificeren of die
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
 - [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...and of course, this site
 
-Voor het modificeren van een Wii U zijn er andere opties (deze zijn wel bijna allemaal in het Engels):
+For modding a Wii U, there are some more options:
 - [The Definitive vWii Hacking Guide](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
 - [NH Wii U Guide](https://wiiuguide.xyz)
