@@ -6,7 +6,7 @@ header:
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
   cta_label: "Wprowadzenie"
-  cta_url: "/pl_PL/get-started"
+  cta_url: "get-started"
   caption:
 excerpt: "Wszystko w pigułce o modowaniu Twojej konsoli Nintendo Wii."
 ---
@@ -14,19 +14,15 @@ excerpt: "Wszystko w pigułce o modowaniu Twojej konsoli Nintendo Wii."
 Ten poradnik jest również dostępny w innych językach! Aby zmienić język, naciśnij ikonę na górze po prawej oraz zmień język.
 {: .notice--info}
 
-## Czym jest Wii Guide?
+## What is "homebrew"?
 
-Wii Guide jest poradnikiem utrzymywany przez [RiiConnect24](https://rc24.xyz). Poradnik wprowadzi Cię do świata modowania Wii!
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to unofficial software including games, utilities, emulators and others.
 
-## Czym jest "homebrew"?
+Running homebrew on your Nintendo Wii is free using various exploits.
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) odnosi się do nieoficjalnego oraz niepodpisanego oprogramowania. Są to gry, narzędzia, emulatory i inne.
+## What can I do with homebrew?
 
-Uruchamianie homebrew na konsoli Nintendo Wii jest darmowe za pomocą darmowych exploitów.
-
-## Co mogę zrobić z homebrew?
-
-Poniżej jest lista rzeczy, którą możesz zrobić wykorzystując homebrew. Nie opisaliśmy wszystkiego co możesz zrobić z homebrew ale powinno Ci to przedstawić podstawowe rzeczy, które możesz za pomocą niego zrobić. Nasz poradnik z łatwością wprowadzi Cię do świata homebrew.
+Here's a list of things you can do with it. While these aren't all the things you can do with homebrew, it should give you a starting point for things you can do. Our guide will help you easily get started.
 
 - Stosowanie poprawek (patchowanie) na zasoby gry (pozwala Ci ładować modyfikacje do gier) używając [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
 - Zainstaluj motywy na system Wii Menu używając [MyMenufy](/themes).
@@ -39,12 +35,12 @@ Poniżej jest lista rzeczy, którą możesz zrobić wykorzystując homebrew. Nie
 - Broń swoje Wii przed brickami korzystając z [Priiloader'a](/priiloader) oraz BootMii.
 - Przeistocz swoje Wii w odtwarzacz multimedialny korzystając z [WiiMC](http://www.wiimc.org/).
 
-Rozpocznijmy od [wybrania exploitu](get-started)!
+Get started by [choosing your exploit](get-started)!
 {: .notice--info}
 
-## Więcej zasobów
+## More Resources
 
-Istnieje również wiele innych zasobów zawierające poradniki dotyczące przerabiania Wii oraz naprawiania problemów:
+There are also few more good resources for Wii modding and troubleshooting that can help:
 
 - [Complete Softmod Guide](https://sites.google.com/site/completesg/)
 - [ModMii](http://modmii.000webhostapp.com/)
@@ -52,6 +48,6 @@ Istnieje również wiele innych zasobów zawierające poradniki dotyczące przer
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
 - [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...i oczywiście, ta strona
 
-Dla poradników dotyczących Wii U, dostępne są poniższe opcje:
+For modding a Wii U, there are some more options:
 - [The Definitive vWii Hacking Guide](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
 - [NH Wii U Guide](https://wiiuguide.xyz)
