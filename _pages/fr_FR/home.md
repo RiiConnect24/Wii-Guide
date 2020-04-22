@@ -14,17 +14,13 @@ excerpt: "Le guide complet pour modder votre Nintendo Wii."
 The guide is also available in other languages! Pour changer la langue, s’il vous plait veuillez appuyer sur le bouton en haut à droite et changer votre language.
 {: .notice--info}
 
-## C’est quoi le guide Wii?
-
-Wii Guide is a guide maintained by [RiiConnect24](https://rc24.xyz) to get you started with Wii modding.
-
-## C’est quoi « homebrew »?
+## What is "homebrew"?
 
 [**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to unofficial software including games, utilities, emulators and others.
 
 Running homebrew on your Nintendo Wii is free using various exploits.
 
-## Qu’est-ce que nous pouvons faire avec homebrew ?
+## What can I do with homebrew?
 
 Here's a list of things you can do with it. While these aren't all the things you can do with homebrew, it should give you a starting point for things you can do. Our guide will help you easily get started.
 
