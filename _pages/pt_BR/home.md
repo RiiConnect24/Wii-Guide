@@ -14,19 +14,15 @@ excerpt: "O guia completo para modificar seu Nintendo Wii."
 O guia também está disponível em outros idiomas! Para alterar a língua, pressione no ícone do canto superior direito e mude seu idioma.
 {: .notice--info}
 
-## O que é o Guia Wii?
+## What is "homebrew"?
 
-O Guia Wii é um guia mantido pelo [RiiConnect24](https://rc24.xyz) para você começar a modificar seu Wii.
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to unofficial software including games, utilities, emulators and others.
 
-## O que é "homebrew"?
+Running homebrew on your Nintendo Wii is free using various exploits.
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refere-se a software não oficial, incluindo jogos, utilitários, emuladores e outros.
+## What can I do with homebrew?
 
-Executar homebrew no seu Nintendo Wii é grátis, através de vários exploits.
-
-## O que eu posso fazer com homebrew?
-
-Aqui está uma lista de coisas que você pode fazer. Embora essas não sejam todas as coisas que você pode fazer com o homebrew, ela oferece um ponto de partida para o que você pode fazer. Nosso guia te ajudará a começar facilmente.
+Here's a list of things you can do with it. While these aren't all the things you can do with homebrew, it should give you a starting point for things you can do. Our guide will help you easily get started.
 
 - Aplicar patches no conteúdo do disco dos jogos (permitindo que você jogue com modificações) usando [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
 - Instalar temas no Wii Menu usando [MyMenuify](/themes).
@@ -39,12 +35,12 @@ Aqui está uma lista de coisas que você pode fazer. Embora essas não sejam tod
 - Proteger seu Wii de bricks usando [Priiloader](/priiloader) e BootMii.
 - Transformar seu Wii em um reprodutor de mídia com [WiiMC](http://www.wiimc.org/).
 
-Comece [escolhendo seu exploit](get-started)!
+Get started by [choosing your exploit](get-started)!
 {: .notice--info}
 
-## Mais Recursos
+## More Resources
 
-Existem mais recursos úteis para modificar o Wii e solucionar problemas:
+There are also few more good resources for Wii modding and troubleshooting that can help:
 
 - [Guia Completo de Softmod](https://sites.google.com/site/completesg/)
 - [ModMii](http://modmii.000webhostapp.com/)
@@ -52,6 +48,6 @@ Existem mais recursos úteis para modificar o Wii e solucionar problemas:
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
 - [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...e claro, esse site
 
-Para modificar seu Wii U, há outras opções:
+For modding a Wii U, there are some more options:
 - [O Guia Definitivo Para Hackear o vWii](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
 - [Guia NH Wii U](https://wiiuguide.xyz)
