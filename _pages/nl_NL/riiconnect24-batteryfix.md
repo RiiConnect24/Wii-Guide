@@ -34,5 +34,5 @@ Als de foutcode zich blijft voordoen dan kan het zijn dat de tijd in uw Wii syst
 Still no luck getting it to work? Unfortunately, you might have to reformat your Wii for it to go away. Just make sure to backup your save files and Miis with [SaveGame Manager GX](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download).
 {: .notice--info}
 
-[Return to RiiConnect24 installation page](riiconnect24)
+[Terug naar de RiiConnect24 Installatie pagina](riiconnect24)
 {: .notice--info}
