@@ -1,42 +1,39 @@
 ---
-title: "Wykonywanie kopii zapasowej korzystając z WiFi/Ethernet"
+title: "Wykonywanie kopii zapasowej gry poprzez siec lokalną"
 ---
 
 {% include toc title="Zawartość" %}
-Chcesz wykonać kopię gry przez twoją sieć lokalną? Podążaj za tym poradnikiem! To może być przydatne jeżeli nie masz karty SD lub Pendrive na który twoja gra nie może się zmieścić.
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/b4Y7jfD) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.).
+{: .notice--info}
 
-#### Czego będziesz potrzebował
+Chcesz wykonać kopię zapasową gry przez Twoją sieć lokalną? Skorzystaj z tego poradnika! Może być to użyteczne jeżeli nie masz karty SD lub urządzenie USB, z którego korzystasz nie ma wystarczającej ilości miejsca aby zrzucić grę.
 
-* Konsole Nintendo Wii
-* [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
+![Logo RiiConnect24](/images/WiiRC24Logo.jpg)
 
-Twoje Wii musi być podłączone do Twojej sieci lokalnej
+#### Będziesz potrzebował
+
+* Konsola Wii.
+* [Narzędzie DVD Dump](/assets/files/DVDDumpTool.zip)
+
+Twoje Wii oraz Twój komputer muszą być podłączone do jednej sieci lokalnej
 {: .notice--warning}
 
 #### Instrukcje
 
 ##### Sekcja I - Pobieranie/Instalowanie
 
-1. Wypakuj DVD Dump Tool i skopiuj go do folderu `apps` na Twojej karcie SD.
-1. Włóż Twoją kartę SD do Wii, uruchom DVD Dump Tool używając Homebrew Channel
-![1](/images/DumpDiscs_LAN/1.jpg)
+1. Wypakuj narzędzie DVD Dump (DVD Dump Tool) oraz skopiuj go do folderu `apps` na Twojej karcie SD lub urządzeniu USB.
+1. Podłącz Twoją kartę SD lub urządzenie USB do Twojego Wii oraz uruchom DVD Dump Tool korzystając z Homebrew Channel.
 
-##### Sekcja II - Wykonywanie kopii
+##### Sekcja II - Wykonywanie kopii zapasowej
 
-1. Naciśnij prawy przycisk na D-Pad i wciśnij "A"
-![2](/images/DumpDiscs_LAN/2.jpg)
-1. Wybierz typ płyty którą chcesz skopiować (Opcje to: `GameCube Disc (Płyta GameCube)`, `Wii Single-Layer Disc (Płyta Wii jednowarstwowa)`, `Wii Dual-Layer Disc (Płyta Wii dwuwarstwowa)` oraz wciśnij "A"
-![3](/images/DumpDiscs_LAN/3.jpg)
-1. Teraz włóż płytę do twojej Wii. (Jeśli już jest w twojej Wii, wyciągnij ją i włóż z powrotem)
-![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg)
-![4](/images/DumpDiscs_LAN/4.jpg)
-1. Zapamiętaj adres URL Twojej Wii (adres IP)
-![5](/images/DumpDiscs_LAN/5.jpg)
-1. Na twoim komputerze, w przeglądarce intenretowej, w pasek URL wpisz adres IP Twojej Wii i wciśnij ENTER.
-![6](/images/DumpDiscs_LAN/6.jpg)
-1. Powinieneś widzieć to. Naciśnij na `Click here to download XXXX.iso`.
-![7](/images/DumpDiscs_LAN/7.jpg)
-1. Prędkość transferu nie jest najszybsza, jednak jeśli nie możesz użyć niczego innego, lepsze to niż nic.
+1. Naciśnij `prawo` na D-Padzie na kontrolerze oraz naciśnij `A` ![2](/images/DumpDiscs_LAN/2.png)
+1. Wybierz typ płyty której wykonujesz kopię zapasową (opcje to: `GameCube Disc (Płyta GameCube)`, `Wii Single-Layer Disc (Płyta Wii jednowarstwowa)`, `Wii Dual-Layer Disc (Płyta Wii dwuwarstwowa)` i naciśnij `A` ![3](/images/DumpDiscs_LAN/3.png)
+1. Teraz, włóż płytę z grą do Twojego Wii. (Jeżeli gra już jest w Wii, wysuń ją i włóż spowrotem) ![Włóż Płytę](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
+1. Zapamiętaj adres Twojego Wii (Adres IP) ![5](/images/DumpDiscs_LAN/5.png)
+1. W przeglądarce Internetowej na Twoim komputerze, w adres strony wpisz URL / Adres IP Twojego Wii oraz naciśnij ENTER. ![6](/images/DumpDiscs_LAN/6.png)
+1. Powinieneś/Powinnaś zobaczyć to. Naciśnij na `Click here to download XXXX.iso` (Naciśnij tutaj, żeby pobrać plik XXXX.iso) ![7](/images/DumpDiscs_LAN/7.jpg)
+1. Prędkość przesyłania nie jest najszybsza ale jeżeli nie możesz użyć karty SD lub urządzenia USB, lepsze to niż nic.
+
 ![8](/images/DumpDiscs_LAN/8.PNG)

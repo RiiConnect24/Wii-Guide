@@ -1,37 +1,34 @@
 ---
-title: "Wykonywanie kopii zapasowej WAD'ów/Kanałów"
+title: "Wykonywanie kopii zapasowej WAD'ów"
 ---
 
 {% include toc title="Zawartość" %}
 
-Ten poradnik wyjaśni Ci jak wykonać kopię zapasową WAD'ów z Twojej pamięci konsoli Wii.
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/b4Y7jfD) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.)
+{: .notice--info}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+Ten poradnik wyjaśni Ci jak wykonywać kopię zapasową WAD'ów z Twojej pamięci konsoli Wii.
 
-#### Czego będziesz potrzebował
-* Karty SD z przynajmniej 128MB wolnej pamięci.
-* Dostęp do internetu na Twoim komputerze.
+#### Wymagania
+* Karta SD lub urządzenie USB.
 * [Yet Another BlueDump MOD](/assets/files/YABDM.zip)
 
+#### Instrukcje
 ##### Sekcja I - Pobieranie/Instalowanie
 
-1. Wypakuj Yet Another BlueDump MOD i skopiuj go do folderu `apps` na Twojej karcie SD.
-1. Włóż kartę SD do twojej Wii oraz uruchom Yet Another BlueDump MOD korzystając z Homebrew Channel.
+1. Wypakuj Yet Another BlueDump MOD oraz skopiuj go do folderu `apps` na Twojej karcie SD lub urządzeniu USB.
+2. Podłącz Twoją kartę SD lub urządzenie USB do Twojego Wii oraz uruchom Yet Another BlueDump MOD korzystając z Homebrew Channel.
 
 ##### Sekcja II - Wykonywanie kopii zapasowej
-1. Naciśnij "A".
-![Naciśnij A](/images/DumpWADS/2.jpg)
+1. Naciśnij `A`. ![Naciśnij <code>A</code>](/images/DumpWADS/2.jpg)
 
-1. Wybierz `Installed Channel Titles`.
-![Installed Channel Titles](/images/DumpWADS/3.jpg)
+2. Wybierz `Installed Channel Titles`. ![Zainstalowane kanały](/images/DumpWADS/3.jpg)
 
-1. Znajdź to czemu chcesz wykonać kopię zapasową i naciśnij "1".
-![Find channel](/images/DumpWADS/4.jpg)
+3. Wybierz zawartość, której chcesz wykonać kopię zapasową oraz naciśnij przycisk `1`. ![Znajdź kanał](/images/DumpWADS/4.jpg)
 
-1. Wybierz `Backup to WAD`.
-1. Kiedy zobaczysz `Fakesign the ticket`, naciśnij przycisk "A"
-1. Kiedy zobaczysz `Fakesign the TMD`, naciśnij przycisk "A"
-1. Kiedy zobaczysz `Change the output WAD region`, naciśnij przycisk "B"
+4. Wybierz `Backup to WAD`.
+5. Przy zapytaniu `Fakesign the ticket`, wybierz `Yes`.
+6. Przy zapytaniu `Fakesign the TMD`, wybierz `No`.
+7. Przy zapytaniu `Change the output WAD region<code>, naciśnij przycisk <code>B`.
 
-1. Gotowe!
-![Done](/images/DumpWADS/6.jpg)
+Właśnie wykonałeś kopię zapasową pliku WAD. Powinien on teraz znajdować się na Twojej karcie SD. ![Gotowe](/images/DumpWADS/6.jpg)

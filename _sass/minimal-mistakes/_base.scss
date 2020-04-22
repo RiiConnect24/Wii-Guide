@@ -149,6 +149,7 @@ td > code {
   border: 1px solid $border-color;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
+  white-space: nowrap;
 
   &:before, &:after {
     letter-spacing: -0.2em;

@@ -7,11 +7,11 @@ title: "Get Started"
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-These instructions will assume you're using an SD card to mod your Wii with, but you can use a USB storage device instead. However, the exploit LetterBomb requires a SD card due to how the Wii Message Board works.
+These instructions will assume you're using an SD card to mod your Wii with, but you can use a USB storage device instead. However, to use the exploits, LetterBomb requires a SD card, and BlueBomb requires a USB storage device.
 {: .notice--info}
 
 This guide is for the original Wii only, with the latest firmware (4.3). Do not use this on a Wii U (vWii)!
-If you want to install homebrew on vWii, [follow this tutorial](https://wiiuguide.xyz/#/vwii/).
+If you want to install homebrew on vWii, [follow this tutorial](https://wiiuguide.xyz/#/vwii/vwii-modding).
 {: .notice--warning}
 
 ### Choose an exploit to use

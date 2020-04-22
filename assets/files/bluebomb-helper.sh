@@ -15,7 +15,8 @@ error() {
     printf "An error has occurred.\n\n* Task: $task\n* Command: $BASH_COMMAND\n* Line: $1\n* Exit code: $2\n\n" | fold -s -w $(tput cols)
 
     case "$task" in
-        "Checking prerequisites - Internet connection" | "Download and extract BlueBomb" ) printf "NOTE: Please ensure that your PC has an active internet connection capable of reaching github.com.\n\n" | fold -s -w $(tput cols)
+        "Checking prerequisites - Internet connection" | "Download and extract BlueBomb" ) printf "* NOTE:\n\t* Please ensure that your PC has an active internet connection capable of reaching github.com.\n\n" | fold -s -w $(tput cols) ;;
+        "Execute BlueBomb" ) printf "* TROUBLESHOOTING NOTES:\n\t* If you get an error about the address/socket being already in use, try manually disabling the Bluetooth service on your PC. For systemd users, you would run 'sudo systemctl disable --now bluetooth.service', and for OpenRC users, you would run 'sudo rc-service bluetooth stop'.\n\t* If you get an error about the device failing to be powered on, try running the script as root.\n\n" | fold -s -w $(tput cols) ;;
     esac
 
     printf "$helpmsg\n" | fold -s -w $(tput cols)
@@ -28,13 +29,18 @@ set -o errtrace
 
 credit() {
     printf "Credits:\n
-    * Fullmetal5\t\tBlueBomb exploit
-    * urmum_69\t\t\tScript author
-    * twosecslater\t\tScript author
-    * Commandblock6417\t\tContributor
-    * Terry A. Davis\t\tMotivation\n\nHave fun running homebrew on your console!\n" | fold -s -w $(tput cols)
+    * Fullmetal5\t\t\tBlueBomb exploit
+    * urmum_69\t\t\t\tScript author
+    * twosecslater\t\t\tScript author
+    * Commandblock6417\t\t\tContributor
+    * Terry A. Davis\t\t\tMotivation\n\nHave fun running homebrew on your console!\n" | fold -s -w $(tput cols)
     exit
 }
+
+ex() {
+    printf "$1" && exit
+}
+
 
 # receive parameters given on command line
 while [[ "$1" =~ ^- && ! "$1" == "--" ]]; do case $1 in
@@ -48,6 +54,7 @@ while [[ "$1" =~ ^- && ! "$1" == "--" ]]; do case $1 in
     * -r --region <REGION>\t\tAllows you to select a region without needing to interact with the script.
     * -t --console <CONSOLE TYPE>\tAllows you to select a console type without needing to interact with the script.
     * -s --sysmenu <SYSMENU VERSION>\tAllows you to select a system menu version without needing to interact with the script.
+    * -c --credits\t\t\tDisplays the credits for this script.
     * -h --help\t\t\t\tDisplays this help message.\n\n$helpmsg\n" | fold -s -w $(tput cols); exit ;;
 esac; shift; done
 if [[ "$1" == '--' ]]; then shift; fi
@@ -72,24 +79,25 @@ fi
 printf "* Detected architecture: $arch\n\n"
 
 ## detect package manager
-[[ -z "$(command -v apt)" ]] && pm="apt"
-[[ -z "$(command -v emerge)" ]] && pm="portage"
-[[ -z "$(command -v pacman)" ]] && pm="pacman"
-[[ -z "$(command -v zypper)" ]] && pm="zyp"
-[[ -z "$(command -v dnf)" ]] && pm="dnf"
 
 dependencies=("unzip" "bluetoothctl" "wget")
 
+printf "Checking dependencies...\n"
+[[ -n "$(command -v pacman)" ]] && pm="pacman -S"
+[[ -n "$(command -v apt)" ]] && pm="apt install"
+[[ -n "$(command -v emerge)" ]] && pm="emerge -aqv"
+[[ -n "$(command -v brew)" ]] && pm="brew install"
+[[ -n "$(command -v zypper)" ]] && pm="zypper install"
+[[ -n "$(command -v dnf)" ]] && pm="dnf install"
+
 for i in "${dependencies[@]}"; do
-    if [[ -z "$(command -v ${dependencies[i]})" ]]; then case "$pm" in
-        "apt" ) $sudo0 apt -y install ${dependencies[i]} ;;
-        "portage" ) $sudo0 emerge -aqv ${dependencies[i]} ;;
-        "pacman" ) $sudo0 pacman -S ${dependencies[i]} ;;
-        "zyp" ) $sudo0 zypper install ${dependencies[i]} ;;
-        "dnf" ) $sudo0 dnf install ${dependencies[i]};;
-        * ) printf "${dependencies[i]} is not installed. Please install it using your preferred package manager.\n\n$helpmsg\n" ;;
-    esac fi
+    [[ -z "$(command -v $i)" ]] && missing+="$i"
 done
+for i in "${missing[@]}"; do
+    [[ -n $pm ]] && printf "\n* $i is missing! Attempting to install using detected package manager (you may be prompted for your password)...\n" | fold -s -w $(tput cols) && $sudo0 $pm $(indep $i) || ex "\n* $i is missing! Please install it using your preferred package manager.\n\n$helpmsg\n"
+done
+unset i
+
 
 ## detect init system
 if [[ -e "$(command -v systemctl)" ]]; then
@@ -103,7 +111,7 @@ fi
 printf "* Detected init system: $init\n\n"
 
 download() {
-    [ -e bluebomb ] && printf "BlueBomb exists. Not downloading.\n" && cd bluebomb && return
+    [[ -e ./bluebomb/bluebomb-$arch ]] && printf "BlueBomb executable exists. Not downloading.\n" && cd bluebomb && return
     task="Checking Prerequisites - Internet connection"
     printf "* Checking internet connection... "
     ping -c 3 github.com > /dev/null
@@ -185,6 +193,11 @@ execute() {
     printf "\n* Executing BlueBomb...\n"
     printf "$sudo0 ./bluebomb-$arch ./stage0/$arg1$arg2.bin stage1.bin\n"
     $sudo0 ./bluebomb-$arch ./stage0/$arg1$arg2.bin stage1.bin
+    printf "* Enabling the Bluetooth service... (you may be prompted for your password)\n"
+    case "$init" in
+        "systemd" ) $sudo0 systemctl enable --now bluetooth.service ;;
+        "openrc" ) $sudo0 rc-service bluetooth start ;;
+    esac
     credit
 }
 

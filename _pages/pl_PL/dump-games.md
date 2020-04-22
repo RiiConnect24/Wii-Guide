@@ -1,13 +1,14 @@
 ---
 title: "Wykonywanie kopii zapasowej gier z Wii/GameCube"
 ---
-Chcesz legalnie wykonać kopię zapasową gry z GameCube albo Wii i chcesz później grać w nią na twojej Wii? Ten poradnik wytłumaczy Ci jak to zrobić.
 
-Proszę wybrać sposób w jaki chcesz wykonać kopię gry.
+Chcesz legalnie wykonać kopię zapasową gry z Wii lub GameCube oraz zagrać w nie na Twojej Wii? Ten poradnik wytłumaczy Ci jak to zrobić.
+
+Wybierz jak chcesz wykonać kopię zapasową płyty.
 {: .notice--warning}
 
-[Chcę wykonać kopię na kartę SD/Pendrive](CleanRip)
+[Chcę wykonać kopię zapasową na kartę SD / urządzenie USB](cleanrip)
 {: .notice--info}
 
-[Chcę wykonać kopię bezpośrednio na mój komputer korzystając z WiFi lub Adaptera Ethernet](dump-smb)
+[Chcę wykonać kopię zapasową bezpośrednio do mojego komputera przez sieć](dump-smb)
 {: .notice--info}
