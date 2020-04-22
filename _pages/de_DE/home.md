@@ -14,19 +14,15 @@ excerpt: "Die vollständige Anleitung zum Modden deiner Nintendo Wii."
 Die Anleitung ist auch in anderen Sprachen verfügbar! Um die Sprache zu ändern, klicke bitte auf das Symbol oben rechts und ändere deine Sprache.
 {: .notice--info}
 
-## Was ist Wii Guide?
+## What is "homebrew"?
 
-Wii Guide ist eine Anleitung von [RiiConnect24](https://rc24.xyz), die dich mit Wii Modding vertraut machen soll.
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to unofficial software including games, utilities, emulators and others.
 
-## Was ist "Homebrew"?
+Running homebrew on your Nintendo Wii is free using various exploits.
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) bezieht sich auf inoffizielle Software inklusive Spielen, Werkzeuge, Emulatoren usw.
+## What can I do with homebrew?
 
-Das Ausführen von Homebrew auf deiner Nintendo Wii ist, mittels unterschiedlicher Exploits, kostenlos.
-
-## Was kann ich mit Homebrew machen?
-
-Hier ist eine Liste mit Dingen, die du damit machen kannst. Zwar sind das nicht alle Dinge, die du mit Homebrew machen kannst, es sollte dir aber eine guten Überblick darüber verschaffen, was du machen kannst. Unsere Anleitung wird mit dem einfachen Einstieg helfen.
+Here's a list of things you can do with it. While these aren't all the things you can do with homebrew, it should give you a starting point for things you can do. Our guide will help you easily get started.
 
 - Patche Spiele-Disk-Inhalte (was dir erlaubt Spiele Modifikationen zu laden) mit [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
 - Installiere Designs in deinem Wii-Menü mithilfe von [MyMenuify](/themes).
@@ -39,12 +35,12 @@ Hier ist eine Liste mit Dingen, die du damit machen kannst. Zwar sind das nicht 
 - Schütze deine Wii vor Bricks mit [Priiloader](/priiloader) und BootMii.
 - Verwende deine Wii als Media Player mit [WiiMC](http://www.wiimc.org/).
 
-Beginne mit der [Auswahl deines Exploits](get-started)!
+Get started by [choosing your exploit](get-started)!
 {: .notice--info}
 
-## Weitere Quellen
+## More Resources
 
-Es gibt auch einige gute Quellen für Wii-Modding und Fehlerbehebung, die dir helfen können:
+There are also few more good resources for Wii modding and troubleshooting that can help:
 
 - [Vollständige Softmodding-Anleitung](https://sites.google.com/site/completesg/)
 - [ModMii](http://modmii.000webhostapp.com/)
@@ -52,6 +48,6 @@ Es gibt auch einige gute Quellen für Wii-Modding und Fehlerbehebung, die dir he
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
 - [Wii Hacking Explained - von Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...und natürlich diese Seite
 
-Zum Modden einer Wii U gibt es zusätzlich noch diese Optionen:
+For modding a Wii U, there are some more options:
 - [The Definitive vWii Hacking Guide](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
 - [NH Wii U Guide](https://wiiuguide.xyz)
