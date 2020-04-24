@@ -4,10 +4,10 @@ title: "Wiimmfi"
 
 {% include toc title="Table of Contents" %}
 
-Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD)(empfohlen) bei, oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
+Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [RiiConnect24 Discord-Server](https://discord.gg/b4Y7jfD) bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
+![Wiimmfi-Logo](/images/WiiWiimmfiLogo.jpg)
 
 [Wiimmfi](https://wiimmfi.de) ist ein Ersatz für die jetzt abgeschaltete Nintendo Wi-Fi Connection. Es wurde von Wiimm und Leseratte entwickelt.
 
@@ -88,8 +88,8 @@ Wiimmfi ermöglicht es dir, wieder an Mario Kart Wii-Wettbewerben teilzunehmen.
 
 #### Voraussetzungen
 
-- Eine SD-Karte bzw. ein USB-Laufwerk
-- Mario Kart Wii Competition-Patcher
+- Eine SD-Karte oder ein USB-Laufwerk
+- Mario Kart Wii Competition Patcher
    - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
    - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
