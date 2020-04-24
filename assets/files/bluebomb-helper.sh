@@ -1,6 +1,6 @@
 #!/bin/bash
 
-version="v0.0.2"
+version="v1.0.0"
 helpmsg="Need further help? You can either join the Wii Mini Hacking Discord server (recommended) at https://discord.gg/6ryxnkS, the RiiConnect24 Discord server at https://discord.gg/b4Y7jfD or you can send an e-mail to support@riiconnect24.net and we'll try to assist. "
 
 # clear and greet
@@ -28,7 +28,6 @@ set -o pipefail
 set -o errtrace
 
 credit() {
-    clear
     printf "Credits:\n
     * Fullmetal5\t\t\tBlueBomb exploit
     * urmum_69\t\t\t\tScript author
