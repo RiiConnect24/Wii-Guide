@@ -4,7 +4,7 @@ title: "RiiConnect24"
 
 {% include toc title="Table of Contents" %}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![RiiConnect24-Logo](/images/WiiRC24Logo.jpg)
 
 Diese Anleitung wird dir dabei helfen, RiiConnect24 in deiner Dolphin-Installation zu installieren.
 
@@ -32,7 +32,7 @@ Falls du Dolphin bereits installiert hast, gehe direkt zu Abschnitt 2 über
 ##### Abschnitt 2 - RiiConnect24 installieren.
 
 1. Führe die `Install.bat` aus, die du [hier](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases) heruntergeladen hast
-2. Drücke `1` und dann `ENTER`, um das Programm zu starten. ![Main Menu](/images/Dolphin_RC24/2.jpg)
+2. Drücke `1` und dann `ENTER`, um das Programm zu starten. ![Hauptmenü](/images/Dolphin_RC24/2.jpg)
 3. Fahre mit der Einrichtung des Programmes fort.
 4. Du wirst gefragt, ob du das Programm jedes Mal, wenn du RiiConnect24 in Dolphin benutzen möchtest, von Hand ausführst oder ob es beim Hochfahren automatisch ausgeführt werden soll. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
 
