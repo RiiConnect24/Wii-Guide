@@ -14,17 +14,17 @@ excerpt: "Die vollständige Anleitung zum Modden deiner Nintendo Wii."
 Die Anleitung ist auch in anderen Sprachen verfügbar! Um die Sprache zu ändern, klicke bitte auf das Symbol oben rechts und ändere deine Sprache.
 {: .notice--info}
 
-## What is "homebrew"?
+## Was ist "Homebrew"?
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to unofficial software including games, utilities, emulators and others.
+Als [**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) wird inoffizielle Software bezeichnet, eingeschlossen Spiele, Hilfsprogramme, Emulatoren usw.
 
-Running homebrew on your Nintendo Wii is free using various exploits.
+Die Benutzung von Homebrew auf deiner Wii ist mithilfe verschiedener Exploits kostenlos.
 
-## What can I do with homebrew?
+## Was kann ich alles mit Homebrew machen?
 
-Here's a list of things you can do with it. While these aren't all the things you can do with homebrew, it should give you a starting point for things you can do. Our guide will help you easily get started.
+Hier eine Liste verschiedener Möglichkeiten. Auch wenn dies nicht alles ist, was man mit Homebrew machen kann, so sollte es dir einen Überblick darüber geben, was möglich ist. Unsere Anleitung wird dir dabei helfen, einen einfachen Einstieg zu finden.
 
-- Patche Spiele-Disk-Inhalte (was dir erlaubt Spiele Modifikationen zu laden) mit [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
+- Patche Spiele-Disc-Inhalte (was dir erlaubt, Spiele-Modifikationen zu laden) mit [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
 - Installiere Designs in deinem Wii-Menü mithilfe von [MyMenuify](/themes).
 - Installiere einen USB Loader wie [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) oder [USB Loader GX](/usbloadergx), um all deine Lieblings Spiele von einem USB-Speichergerät zu starten und mehr.
 - Sichere deine Disks mit [CleanRip](/dump-games) und installierte Spiele mit [YABDM](/dump-wads)
@@ -35,7 +35,7 @@ Here's a list of things you can do with it. While these aren't all the things yo
 - Schütze deine Wii vor Bricks mit [Priiloader](/priiloader) und BootMii.
 - Verwende deine Wii als Media Player mit [WiiMC](http://www.wiimc.org/).
 
-Get started by [choosing your exploit](get-started)!
+Beginne mit der [Auswahl deines Exploits](get-started)!
 {: .notice--info}
 
 ## More Resources
