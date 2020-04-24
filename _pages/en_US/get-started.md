@@ -11,7 +11,7 @@ These instructions will assume you're using an SD card to mod your Wii with, but
 {: .notice--info}
 
 This guide is for the original Wii only, with the latest firmware (4.3). Do not use this on a Wii U (vWii)!
-If you want to install homebrew on vWii, [follow this tutorial](https://wiiuguide.xyz/#/vwii/vwii-modding).
+If you want to install homebrew on vWii, [follow this tutorial](https://wiiuguide.xyz/#/vwii-modding).
 {: .notice--warning}
 
 ### Choose an exploit to use
