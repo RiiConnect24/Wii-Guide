@@ -10,7 +10,7 @@ title: "צעדים ראשונים"
 הוראות אלו מבוססות על שימוש בכרטיס SD כדי לפרוץ את קונסולת ה Wii, אבל ניתן להשתמש בדיסק-און-קי במקום. למרות זאת, כדי להשתמש בפרצות, LetterBomb דורש כרטיס SD ו BlueBomb דורש דיסק-און-קי.
 {: .notice--info}
 
-מדריך זה הוא לקונסולת ה Wii המקורית בלבד, עם גרסת התוכנה האחרונה ביותר (4.3). אין להשתמש במדריך זה כדי לפרוץ vWii או Wii U! If you want to install homebrew on vWii, [follow this tutorial](https://wiiuguide.xyz/#/vwii/vwii-modding).
+מדריך זה הוא לקונסולת ה Wii המקורית בלבד, עם גרסת התוכנה האחרונה ביותר (4.3). אין להשתמש במדריך זה כדי לפרוץ vWii או Wii U! If you want to install homebrew on vWii, [follow this tutorial](https://wiiuguide.xyz/#/vwii-modding).
 {: .notice--warning}
 
 ### בחר/י פרצה שברצונך להשתמש בה
