@@ -14,7 +14,7 @@ BlueBomb ist ein Exploit, welcher eine Lücke in der Bluetooth-Programmbibliothe
 Für die originale Wii empfehlen wir [einen anderen Exploit](/get-started) zu verwenden, wenn du vorhast den Homebrew-Kanal oder BootMii zu installieren.
 {: .notice--info}
 
-Dieser Exploit wird nicht auf der vWii einer Wii U funktionieren. Bitte folge stattdessen [dieser Anleitung](https://wiiuguide.xyz/#/vwii/vwii-modding).
+Dieser Exploit wird nicht auf der vWii einer Wii U funktionieren. Please follow [this guide](https://wiiuguide.xyz/#/vwii-modding) instead.
 {: .notice--warning}
 
 #### Abschnitt 1 - Voraussetzungen
