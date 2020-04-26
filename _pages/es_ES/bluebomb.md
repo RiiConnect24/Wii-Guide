@@ -14,7 +14,7 @@ BlueBomb es un exploit que aprovecha una vulnerabilidad en las librerías Blueto
 Para el Wii original, recomendamos usar [otro exploit](/get-started) si deseas instalar el Canal Homebrew y/o BootMii.
 {: .notice--info}
 
-Este exploit no funcionará en el modo Wii del Wii U (vWii). Por favor sigue [esta guía](https://wiiuguide.xyz/#/vwii/vwii-modding) si deseas modificar tu vWii.
+Este exploit no funcionará en el modo Wii del Wii U (vWii). Please follow [this guide](https://wiiuguide.xyz/#/vwii-modding) instead.
 {: .notice--warning}
 
 #### Sección I - Requisitos
