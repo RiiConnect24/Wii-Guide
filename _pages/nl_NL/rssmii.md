@@ -1,5 +1,5 @@
 ---
-title: "Installing RSSMii"
+title: "RSSMii installeren"
 ---
 
 {% include toc title="Table of Contents" %}
