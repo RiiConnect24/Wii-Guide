@@ -14,7 +14,7 @@ Bluebomb est un exploit se servant d'une faille présente dans les librairies Bl
 Si vous souhaitez installer la Chaîne Homebrew et/ou BootMii sur une Wii originale, nous vous recommandons d'utiliser [un autre exploit](/get-started).
 {: .notice--info}
 
-Cet exploit ne fonctionne pas dans le mode vWii de la Wii U. Veuillez suivre [ce guide](https://wiiuguide.xyz/#/vwii/vwii-modding) à la place.
+Cet exploit ne fonctionne pas dans le mode vWii de la Wii U. Please follow [this guide](https://wiiuguide.xyz/#/vwii-modding) instead.
 {: .notice--warning}
 
 #### Partie I - Ce dont vous avez besoin
