@@ -10,7 +10,7 @@ Si vous avez besoin d'aide avec quoique ce soit en rapport avec ce tutoriel, veu
 Ces instructions supposent que vous utilisez une carte SD pour modder votre Wii, mais vous pouvez également utliser une clé USB à la place. Seulement, pour utiliser les exploits, LetterBomb requiert une carte SD, et BlueBomb requiert une clé USB.
 {: .notice--info}
 
-Ce guide est pour la Wii originale seulement, avec la dernière version du menu Wii (4.3). Ne l'utilisez pas sur une Wii U (vWii) ! If you want to install homebrew on vWii, [follow this tutorial](https://wiiuguide.xyz/#/vwii/vwii-modding).
+Ce guide est pour la Wii originale seulement, avec la dernière version du menu Wii (4.3). Ne l'utilisez pas sur une Wii U (vWii) ! If you want to install homebrew on vWii, [follow this tutorial](https://wiiuguide.xyz/#/vwii-modding).
 {: .notice--warning}
 
 ### Choisissez un exploit
