@@ -14,7 +14,7 @@ BlueBomb הוא פרצה המנצלת חולשה ברכיב ה Bluetooth של ק
 For the original Wii, we recommend using [another exploit](/get-started) instead if you intend to install the Homebrew Channel and/or BootMii.
 {: .notice--info}
 
-This exploit will not work on a Wii U's vWii. Please follow [this guide](https://wiiuguide.xyz/#/vwii/vwii-modding) instead.
+This exploit will not work on a Wii U's vWii. Please follow [this guide](https://wiiuguide.xyz/#/vwii-modding) instead.
 {: .notice--warning}
 
 #### חלק א - לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
