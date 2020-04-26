@@ -10,7 +10,7 @@ En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por f
 En estas instrucciones se asume que estás usando un tarjeta SD para modificar tu Wii, pero también puedes usar una unidad USB. Sin embargo, para usar el exploit LetterBomb necesitas una tarjeta SD, y para utilizar BlueBomb necesitarás una unidad USB.
 {: .notice--info}
 
-Esta guía es sólo para consolas Wii originales que tengan la versión de sistema 4.3. ¡No uses esta guía en el modo Wii de Wii U (vWii)! Si deseas modificar un vWii, por favor sigue [esta guía](https://wiiuguide.xyz/#/vwii/vwii-modding).
+Esta guía es sólo para consolas Wii originales que tengan la versión de sistema 4.3. ¡No uses esta guía en el modo Wii de Wii U (vWii)! If you want to install homebrew on vWii, [follow this tutorial](https://wiiuguide.xyz/#/vwii-modding).
 {: .notice--warning}
 
 ### Elige el exploit que quieres usar
