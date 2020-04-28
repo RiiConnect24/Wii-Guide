@@ -2,7 +2,7 @@
 title: "LetterBomb"
 ---
 
-Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD)(empfohlen) bei, oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
+Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [RiiConnect24 Discord-Server](https://discord.gg/b4Y7jfD) bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![LetterBomb](/images/letterbomb.png)
@@ -15,7 +15,7 @@ Dieser Exploit ist einer von vielen. Gehe auf die [Einstiegs](/get-started)-Seit
 #### Voraussetzungen
 - Eine SD-Karte
 - Eine Wii mit Systemversion 4.3
-   - Diese Exploit wird nicht auf einer Wii Mini oder vWii funktionieren
+   - Diese Exploit wird nicht auf einer Wii mini oder vWii funktionieren
 
 #### Anleitung
 
