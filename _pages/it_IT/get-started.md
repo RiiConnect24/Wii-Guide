@@ -1,23 +1,23 @@
 ---
-title: "Get Started"
+title: "Iniziare"
 ---
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se hai bisogno di aiuto per questo tutorial, vai su [il server di Discors su RiiConnect24](https://discord.gg/b4Y7jfD) (raccomandato) oppure [scrivi una e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-These instructions will assume you're using an SD card to mod your Wii with, but you can use a USB storage device instead. However, to use the exploits, LetterBomb requires a SD card, and BlueBomb requires a USB storage device.
+Queste istruzioni assumono che stai usando una scheda SD per moddare la tua Wii, ma puoi anche usare un dispositivo USB. Però, per usare exploits, LetterBomb necessita di una scheda SD, e BlueBomb necessita di un dispositivo USB.
 {: .notice--info}
 
-This guide is for the original Wii only, with the latest firmware (4.3). Do not use this on a Wii U (vWii)! If you want to install homebrew on vWii, [follow this tutorial](https://wiiuguide.xyz/#/vwii-modding).
+Questa guida è solo per la Wii originale, col firmware più recente (4.3). Non usarlo su una Wii U (Wii virtuale)! Se vuoi installare homebrew su una Wii virtuale [segui questo tutorial](https://wiiuguide.xyz/#/vwii-modding).
 {: .notice--warning}
 
-### Choose an exploit to use
+### Scegli un exploit da usare
 
-- [str2hax](str2hax) - Exploit that uses the Wii EULA (Recommended, no SD card nor Channel required, but requires changing the DNS settings)
-- [FlashHax](flashhax) - Exploit that uses the Internet Channel (No SD card required)
-- [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board (SD card required)
-- [BlueBomb](bluebomb) - Exploit that uses Bluetooth (Neither SD card nor Wifi required)
-    * Requires a computer with Bluetooth and GNU/Linux, as well as a USB drive
-    * This is the only exploit that works on the **Wii mini**
+- [str2hax](str2hax) - Exploit che usa l'EULA Wii (Consigliato, nessuna scheda SD o Canale richiesto, ma serve solo cambiare le impostazioni DNS)
+- [FlashHax](flashhax) - Exploit che usa il Canale Internet (Nessuna scheda SD richiesta)
+- [LetterBomb](letterbomb) - Exploit che usa la Wii Message Board (Scheda SD richiesta)
+- [BlueBomb](bluebomb) - Exploit che utilizza il Bluethoot (ne scheda SD ne WiFi richiesti)
+    * Richiede un computer con Bluetooth e GNU/Linux, assieme ad un dispositivo USB
+    * Questo è l'unico exploit che funziona sulla **Wii mini**
