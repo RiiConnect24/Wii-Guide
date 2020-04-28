@@ -1,5 +1,5 @@
 ---
-title: "Creating Wii Game Shortcuts"
+title: "Creare Shortcuts per giochi Wii"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -28,5 +28,5 @@ In caso di brick, avere [Priiloader installato è obbligatorio](/priiloader). In
 4. Non creare una scorciatoia per "A Boy and His Blob" o "Mario Party 9". Essi brickeranno la tua Wii.
 5. Installa il WAD generato con un WAD Manager, (consigliamo Wii Mod Lite).
 
-Se ricevi l'errore "I file di sistema sono corrotti", non allammarti se hai installato Priiloader. Spegni la tua Wii, e accendila nuovamente mentre tieni premuto anche il pulsante RESET. Si aprirà il menù di BootMii, nel quale avrai una varietà di opzioni per aggiustare la tua Wii. One of the options is to launch the Homebrew Channel.
+Se ricevi l'errore "I file di sistema sono corrotti", non allammarti se hai installato Priiloader. Spegni la tua Wii, e accendila nuovamente mentre tieni premuto anche il pulsante RESET. Si aprirà il menù di BootMii, nel quale avrai una varietà di opzioni per aggiustare la tua Wii. Una delle opzioni è caricare l'Homebrew Channel.
 {: .notice--info}
