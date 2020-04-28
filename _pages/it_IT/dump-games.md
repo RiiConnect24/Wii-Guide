@@ -1,14 +1,14 @@
 ---
-title: "Dumping Wii/GameCube games"
+title: "Scaricare giochi Wii/Gamecube"
 ---
 
-Want to legally dump a GameCube or a Wii game and play it on your Wii? With this tutorial we will explain how to do it.
+Vuoi ottenere legalmente un gioco Wii o GameCube per giocarlo sulla tua Wii? Con questo Tutorial ti spiegheremo come fare.
 
-Please choose how you want to dump the disc.
+Per favore scegli come vuoi copiare i dati del disco.
 {: .notice--warning}
 
-[I want to dump it to the SD card/USB device](cleanrip)
+[Voglio copiarli sulla Scheda SD/chiavetta USB](cleanrip)
 {: .notice--info}
 
-[I want to dump it directly to my PC over a network](dump-smb)
+[Voglio copiarli direttamente sul mio PC tramite una connessione](dump-smb)
 {: .notice--info}
