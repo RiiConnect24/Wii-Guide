@@ -38,9 +38,9 @@ Hier eine Liste verschiedener Möglichkeiten. Auch wenn dies nicht alles ist, wa
 Beginne mit der [Auswahl deines Exploits](get-started)!
 {: .notice--info}
 
-## More Resources
+## Weitere Quellen
 
-There are also few more good resources for Wii modding and troubleshooting that can help:
+Es gibt weitere gute Quellen für Wii-Modding und zur Fehlerbehebung, die dir helfen können:
 
 - [Vollständige Softmodding-Anleitung](https://sites.google.com/site/completesg/)
 - [ModMii](http://modmii.000webhostapp.com/)
@@ -48,6 +48,6 @@ There are also few more good resources for Wii modding and troubleshooting that 
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
 - [Wii Hacking Explained - von Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...und natürlich diese Seite
 
-For modding a Wii U, there are some more options:
+Zum Modden einer Wii U gibt es weitere Möglichkeiten:
 - [The Definitive vWii Hacking Guide](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
 - [NH Wii U Guide](https://wiiuguide.xyz)
