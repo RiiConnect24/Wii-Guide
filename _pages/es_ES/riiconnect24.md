@@ -20,7 +20,7 @@ Esta guía es solo para el Wii original.
 No hay una guía para instalar RiiConnect24 en un Wii Mini, ya que el intento de instalar RiiConnect24 en un Wii Mini resultaría en un brick de la consola.
 {% endcapture %}
 
-<div class="notice--warning">{{ notice-1 | markdownify }}</div>
+<div class="notice--warning">{ notice-1 | markdownify }</div>
 
 Para poder utilizar el correo de Wii, debes tener la versión de sistema 4.3, de lo contrario no funcionará.
 {: .notice--info}

@@ -2,9 +2,9 @@
 title: "Ein Spiel über das lokale Netzwerk kopieren"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Inhaltsverzeichnis" %}
 
-Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD)(empfohlen) bei, oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
+Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [RiiConnect24 Discord-Server](https://discord.gg/b4Y7jfD) bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Möchtest du Spiele über dein lokales Netzwerk kopieren? Folge diesem Tutorial! Dies kann hilfreich sein, falls du keine SD-Karte bzw. kein USB-Laufwerk haben solltest, das groß genug ist, damit ein Spiel darauf kopiert werden kann.

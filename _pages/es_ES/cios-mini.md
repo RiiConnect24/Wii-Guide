@@ -34,9 +34,9 @@ Esta versión de d2x cIOS installer fue originalmente desarrollada para el vWii 
 
 1. Presiona un botón para continuar y después ajusta las opciones de la siguiente manera:
 ```
-Select cIOS: d2xl-v1-beta2
-Select cIOS base: 57
-Select cIOS slot: 249
+Seleccione cIOS: d2xl-v1-beta2
+Seleccione cIOS base: 57
+Seleccione cIOS espacio: 249
 ```
 
 Toma nota del número de versión (ya sea `v31776` o `v31775`)

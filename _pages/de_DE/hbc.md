@@ -2,14 +2,14 @@
 title: "Homebrew-Kanal und BootMii-Installation"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Inhaltsverzeichnis" %}
 
 Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [RiiConnect24 Discord-Server](https://discord.gg/b4Y7jfD) bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![HBC-Logo](/images/hbc.png)
 
-Mit dem Homebrew-Kanal kannst du Homebrew-Anwendungen ausführen. BootMii ist eine Software, mit der der NAND-Speicher deiner Wii gesichert und wiederhergestellt werden kann und die zusätzlichen Brick-Schutz bietet, wenn sie als boot2 installiert wird.
+Mit dem Homebrew-Kanal kannst du Homebrew-Anwendungen ausführen. BootMii ist eine Software durch die der NAND-Speicher deiner Wii gesichert und wiederhergestellt werden kann, und die zusätzlichen Brick-Schutz bietet, wenn sie als boot2 installiert wird.
 
 #### Anleitung
 

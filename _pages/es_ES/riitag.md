@@ -42,7 +42,7 @@ Los pasos para conectar RiiTag con tu USB loader dependen del USB loader que use
 5. Inserta en tu computadora la tarjeta SD o unidad USB donde tengas guardada la configuración de USB Loader GX.
 6. [Abre esta página.](https://tag.rc24.xyz/Wiinnertag.xml)
 7. Haz clic derecho y selecciona `Guardar como`.
-8. Save the XML to `/apps/usbloader_gx`  folder on your SD Card or USB device, replacing the existing `Wiinnertag.xml`.
+8. Guarde el XML a `/apps/usbloader_gx` carpeta en su tarjeta SD o dispositivo USB, reemplazando el existente `Wiinnertag.xml`.
 9. Ya has terminado de instalar RiiTag. Intenta cargar algún juego para verificar que esté funcionando correctamente.
 
 ###### WiiFlow

@@ -13,7 +13,7 @@ En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por f
 
 ### Requisitos
 * Una computadora con Windows 7 o superior.
-* [.VFF-File-Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
+* [.VVF-Descargador-de-Archivos-por-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
 * [Dolphin](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 

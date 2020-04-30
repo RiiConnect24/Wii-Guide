@@ -2,7 +2,7 @@
 title: "d2xl cIOS für die Wii mini (experimentell)"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Inhaltsverzeichnis" %}
 
 Dieses Tutorial wird dir zeigen, wie du Leserattes d2xl cIOS (custom IOS) für die Wii mini installieren kannst. Dies ist zwingend erforderlich, wenn du Spiele über einen USB-Loader starten möchtest. Einige Homebrew wird mittels cIOS möglicherweise besser funktionieren.
 

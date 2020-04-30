@@ -14,7 +14,7 @@ En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por f
 #### Requisitos
 
 * Un Wii.
-* [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
+* [Herramienta volcado de DVD](/assets/files/DVDDumpTool.zip)
 
 Tanto tu consola Wii como tu computadora deben estar conectadas a la misma red local.
 {: .notice--warning}
