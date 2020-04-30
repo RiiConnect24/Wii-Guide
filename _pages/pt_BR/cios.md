@@ -58,8 +58,8 @@ Select cIOS version: 65535
 Agora você pode usar aplicativos homebrew como [USB Loader GX](usbloadergx).
 {: .notice--info}
 
-[Continuar para Homebrew Browser](hbb)<br> O Homebrew Browser é um bom lugar para obter mais aplicativos homebrew. Instalar isso é opcional.
+[Continue para Homebrew Browser](hbb)<br> O Homebrew Browser é um bom lugar para obter mais aplicativos homebrew. Instalar isso é opcional.
 {: .notice--info}
 
-[Continuar para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
+[Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
 {: .notice--info}
