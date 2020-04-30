@@ -6,7 +6,7 @@ header:
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
   cta_label: "Comenzar"
-  cta_url: "comenzando"
+  cta_url: "/es_ES/get-started"
   caption:
 excerpt: "La guía completa para modificar tu consola Nintendo Wii."
 ---
