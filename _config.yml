@@ -115,7 +115,8 @@ include:
  - .htaccess
  - _pages
  - _pages/en_US
- - _pages/es_MX
+ - _pages/de_DE
+ - _pages/es_ES
  - _pages/fr_FR
  - _pages/it_IT
  - _pages/pl_PL
