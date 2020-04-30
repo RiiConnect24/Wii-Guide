@@ -14,7 +14,7 @@ BlueBomb jest exploitem, który korzysta z dziury w zabezpieczeniach bibliotek B
 Dla Wii U oraz oryginalnego Wii, zalecamy skorzystać z [innego exploitu](/get-started) jeżeli chcesz zainstalować Homebrew Launcher i/lub ModMii.
 {: .notice--info}
 
-Ten exploit nie zadziała na vWii (Tryb Wii w Wii U) Zamiast tego, skorzystaj z [tego poradnika](https://wiiuguide.xyz/#/vwii/vwii-modding).
+Ten exploit nie zadziała na vWii (Tryb Wii w Wii U) Zamiast tego, skorzystaj z [tego poradnika](https://wiiuguide.xyz/#/vwii-modding).
 {: .notice--warning}
 
 #### Sekcja I - Będziesz potrzebował:

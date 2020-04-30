@@ -2,72 +2,71 @@
 title: "Priiloader"
 ---
 
-{% include toc title="Sumário" %}
+{% include toc title="Table of Contents" %}
 
-Priiloader adciona uma camada de proteção para bricks em seu Wii. Ele carrega antes do Wii Menu (motivo do nome). A ferramente também pode habilitar hacks para seu Wii, e pode ser usado para abrir rapidamente o Homebrew Channel, BootMii, ou qualquer outro aplicativo homebrew!
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: .notice--info}
+
+Priiloader adds a level of brick protection to your Wii. It loads before the Wii Menu does (hence the name). The tool can also enable hacks for your Wii Menu, and be used to quickly launch the Homebrew Channel, BootMii, or whatever homebrew you want!
 
 ![Priiloader](/images/priiloader.jpg)
 
-#### Você precisará de
-* Um Cartão SD com pelo menos 128MB de espaço livre.
-* Acesso à internet em seu computador.
+Please do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your vWii by doing this.
+{: .notice--warning}
+
+#### What you need
+* An SD card or USB drive
 * [Priiloader](/assets/files/Priiloader_v0_8_2.zip)
 
-#### Instruções
+#### Instructions
+##### Section I - Downloading/Installing
 
-##### Parte I - Baixar/Instalar
+1. Download Priiloader and extract it to the root of your SD card or USB drive.
+2. Insert your SD card or USB drive into your Wii, and launch Priiloader from the Homebrew Channel.
 
-1. Extraia Priiloader e coloque dentro da pasta `apps` do seu Cartão SD.
-2. Insira seu Cartão SD no Wii, e abra Priiloader através do Homebrew Channel.
+##### Section II - Installing Priiloader
 
-##### Parte II - Instalar Priiloader
+1. Launch the Homebrew Channel on your Wii.
+2. Launch Priiloader.
+3. Press the + Button on Wii Remote or the A Button on a GameCube controller. ![Install Priiloader](/images/Priiloader/2.png) ![Installing](/images/Priiloader/3.png)
 
-1. Abra o Homebrew Channel no Wii.
-2. Abra o Priiloader.
-![Find Priiloader](/images/Priiloader/1.jpg)
-3. Aperte o botão + no Wii Remote ou o botão A em um controle GameCube.
-![Install Priiloader](/images/Priiloader/2.jpg)
-![Installing](/images/Priiloader/3.jpg)
+##### Section III - Entering/Configuring Priiloader
 
-##### Parte III - Entrando/Configurando Priiloader
+1. Hold the RESET button while turning on your Wii. ![Turn on](/images/Priiloader/5.jpg) ![Hold RESET](/images/Priiloader/4.jpg)
 
-1. Segure o botão RESET enquanto liga seu Wii.
-![Turn on](/images/Priiloader/5.jpg)
-![Hold RESET](/images/Priiloader/4.jpg)
+2. You should see the Priiloader menu. ![Menu](/images/Priiloader/6.png)
+3. Go to `System Menu Hacks`.
+4. We recommend you turn on these hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/7.png)
 
-2. Você deverá ver o menu de Priiloader.
-![Menu](/images/Priiloader/6.jpg)
-3. Vá até `System Menu Hacks`.
-4. É recomendado que você ative esses hacks: `Region Free EVERYTHING`, `Block Disc Updates` e `Block Online Updates`.
-![System Menu Hacks](/images/Priiloader/7.jpg)
+## System Menu Hacks List
 
-## Lista de Hacks dos Menus do Sistema
+This is a list of the hacks you can enable with Priiloader.
 
-Essa lista contém os hacks que podem ser usados com Priiloader.
+| Hack                                    | Description                                                                                                                  |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Replace Health Screen with Backmenu     | Changes the "Health and Safety" screen to the animation played when returning to the Wii menu.                               |
+| Re-Enable Bannerbomb v2                 | Enables the "Bannerbomb" exploit on the latest Wii version. Not needed when the Homebrew Channel is already installed.       |
+| Region Free EVERYTHING                  | Disables region locking for any Wii application, including downloaded ones.                                                  |
+| Block Disc Updates                      | Removes the "Wii System Update" screen that is included on some games forcing you to update them to play the game.           |
+| Region Free GC Games (No VM Patch)      | Disables region locking in GameCube disks.                                                                                   |
+| Region Free Wii Games                   | Disables region locking in Wii disks.                                                                                        |
+| Lock System Menu with Black Screen      | Makes your Wii Menu be stuck on a black screen, making you unable to use it.                                                 |
+| Remove Diagnostic Disc Check            | Removes a check in the Wii to see if an inserted game is the "Wii Startup Disc".                                             |
+| No System Menu Sounds AT ALL            | Disables all the Wii Menu sound effects.                                                                                     |
+| No System Menu Background Music         | Disables the Wii Menu background music.                                                                                      |
+| No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Re-enable channels with these title IDs (originally blocked in system updates due to them being exploits).                   |
+| Remove NoCopy Save File Protection      | Allows you to copy normally-disabled save files in the Data Management screen .                                              |
+| Region Free Channels                    | Removes region locking for Wii Channels.                                                                                     |
+| Force Disc Games to run under IOS249    | Make disc applications use cIOS 249 as the game's IOS.                                                                       |
+| Auto-Press A at Health Screen           | Automatically presses the A Button to get past the "Health and Safety" screen.                                               |
+| Force Standard Recovery Mode            | Automatically launches the console in recovery mode. Used to launch recovery discs, letting users unbrick their Wii systems. |
+| OSReport to UsbGecko(slot B)            | Sends Wii Menu logs to a debugging device in memory card slot B.                                                             |
+| OSReport to UsbGecko(GeckoOS,B)         | Sends Wii Menu logs to a debugging device in memory card slot B, if the Wii Menu is launched by Gecko OS.                    |
+| Move Disc Channel                       | Enables you to move the Disc Channel anywhere on the Wii Menu. It's normally locked to the top left entry on the first page. |
+| Block Online Updates                    | Disables updating your Wii.                                                                                                  |
 
-|                  Hack                                |                                                     Descrição                                                                    |
-|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| Substituir a tela de Segurança e Saúde para BackMenu | Muda a tela de Saúde e Segurança para a animação que você vê quando sai de um jogo e vai ao Wii Menu.                            |
-| Re-ativar Bannerbomb v2                              | Permite que o exploit "Bannerbomb" usado em versões antigas do Wii Menu seja usado na versão mais nova do Wii                    |
-| Deixar seu console sem trava de região               | Força seu Wii a ler jogos de qualquer região, incluindo jogos baixados.                                                          |
-| Bloquear atualizações de disco                       | Remove a tela que aparece em jogos pedindo para a atualizar o sistema, forçando que você atualize para jogar.                    |
-| Jogos de GC sem trava de região (sem VM Patch)       | Força seu Wii a ler jogos de GameCube de qualquer região.                                                                        |
-| Jogos do Wii sem trava de região                     | Força seu Wii a ler jogos de Wii de qualquer região.                                                                             |
-| Congelar o Menu do Sistema com uma tela preta        | Deixa o Menu do Wii congelado em uma tela preta, impossibilitando o uso.                                                         |
-| Remover Diagnostic Security Check                    | Remove um check de segurança do Wii que verifica se o jogo inserido é o "Wii Startup Disc".                                      |
-| Remover todos os sons do Menu                        | Desliga todos os sons e efeitos do Wii Menu.                                                                                     |
-| Remove a música de fundo do Menu                     | Desliga a música de fundo do Wii Menu.                                                                                           |
-| No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx              | Nintendo deletou canais com esses títulos nas atualizações de sistema pois eles eram exploits, você pode reativá-los.            |
-| Remover NoCopy Save File Protection                  | Permite que você copie saves nas configurações do Wii que não podem ser copiados.                                                |
-| Canais sem trava de região                           | Permite Canais do Wii sem trava de região.                                                                                       |
-| Forçar Discos a rodarem abaixo da IOS249             | Faz com que jogos em disco usem a cIOS 249.                                                                                      |
-| Aperta o botão A automaticamente ao ligar o Wii      | Pressiona o Botão A automaticamente para sair da tela de Saúde e Segurança ao ligar o Wii.                                       |
-| Forçar Standard Recovery Mode                        | Permite que você entre no modo de recuperação em que é possível rodar Recovery Discs. É usado para consertar bricks do Wii.      |
-| OSReport para UsbGecko(slot B)                       | Permite que você envie logs do Wii Menu para um dispositivo debugging no slot B do memory card.                                  |
-| OSReport para UsbGecko(GeckoOS,B)                    | Permite que você envie logs do Wii Menu para um dispositivo debugging no slot B do memory card, caso seja usado GeckoOS          |
-| Mover o Disc Channel                                 | Permite que você mova o Disc Channel para onde quiser no Wii Menu.                                                               |
-| Bloquear atualizações online                         | Bloqueia qualquer atualização para o Wii.                                                                                        |
+[Continue to cIOS](cios)<br> cIOS are used to play games with a USB Loader. Even if you don't want to do that, it's useful for many homebrew apps.
+{: .notice--info}
 
-[Continuar para cIOS](cios)<br>
-cIOS são usadas para jogar em USB Loaders. Mesmo que não queira, é útil para vários aplicativos homebrew.
+If you have a Wii mini, follow [this guide](cios-mini) to install cIOS instead.
 {: .notice--info}

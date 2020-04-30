@@ -10,7 +10,7 @@ Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz d
 Te instrukcje zakładają, że korzystasz z karty SD aby przerobić Twoją konsolę Wii, jednak możesz również skorzystać z urządzenia USB. Jednak, żeby skorzystać z exploitu LetterBomb, będziesz potrzebował karty SD. Aby skorzystać z BlueBomb, będziesz potrzebował urządzenia USB.
 {: .notice--info}
 
-Ten poradnik jest przeznaczony tylko dla oryginalnej konsoli Wii z najnowszą wersją oprogramowania (4.3). Nie próbuj tego robić na Wii U (vWii)! Jeżeli chcesz zainstalować homebrew na vWii, [podążaj za tym poradnikiem](https://wiiuguide.xyz/#/vwii/).
+Ten poradnik jest przeznaczony tylko dla oryginalnej konsoli Wii z najnowszą wersją oprogramowania (4.3). Nie próbuj tego robić na Wii U (vWii)! Jeżeli chcesz zainstalować homebrew na vWii, [podążaj za tym poradnikiem](https://wiiuguide.xyz/#/vwii-modding).
 {: .notice--warning}
 
 ### Wybierz z jakiego exploitu chcesz skorzystać:

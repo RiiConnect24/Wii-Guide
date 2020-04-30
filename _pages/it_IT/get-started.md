@@ -1,22 +1,23 @@
 ---
-title: "Cominciamo"
+title: "Iniziare"
 ---
 
-{% include toc title="Indice" %}
+{% include toc title="Table of Contents" %}
 
-Questi exploit sono fatti per essere eseguiti su SD, ma puoi anche usare un USB Drive. In ogni caso, LetterBomb richiede una SD a causa del funzionamento della Wii Message Board.
+Se hai bisogno di aiuto per questo tutorial, vai su [il server di Discors su RiiConnect24](https://discord.gg/b4Y7jfD) (raccomandato) oppure [scrivi una e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Questa guida è solo per Wii originali, con l'ultimo firmware (4.3). Non usarla su Wii U (vWii)!
-Se vuoi installare gli homebrew su vWii, [segui questo tutorial](https://wiiu.hacks.guide/it_IT/vwii-modding.html).
+Queste istruzioni assumono che stai usando una scheda SD per moddare la tua Wii, ma puoi anche usare un dispositivo USB. Però, per usare exploits, LetterBomb necessita di una scheda SD, e BlueBomb necessita di un dispositivo USB.
+{: .notice--info}
+
+Questa guida è solo per la Wii originale, col firmware più recente (4.3). Non usarlo su una Wii U (Wii virtuale)! Se vuoi installare homebrew su una Wii virtuale [segui questo tutorial](https://wiiuguide.xyz/#/vwii-modding).
 {: .notice--warning}
 
 ### Scegli un exploit da usare
 
-- [str2hax](str2hax) - Exploit che usa l'EULA Wii (Non serve una SD ne un canale)
-- [FlashHax](flashhax) - Exploit che usa l'Internet Channel (Non serve una SD)
-- [LetterBomb](letterbomb) - Exploit che usa la Wii Message Board (Serve una SD)
-
-
-Hai una Wii Mini e non hai paura di usare Bluetooth e Linux? [Prova Bluebomb](https://forum.wii-homebrew.com/index.php/Thread/59342-Installing-Homebrew-on-the-Wii-Mini/).
-{: .notice--info}
+- [str2hax](str2hax) - Exploit che usa l'EULA Wii (Consigliato, nessuna scheda SD o Canale richiesto, ma serve solo cambiare le impostazioni DNS)
+- [FlashHax](flashhax) - Exploit che usa il Canale Internet (Nessuna scheda SD richiesta)
+- [LetterBomb](letterbomb) - Exploit che usa la Wii Message Board (Scheda SD richiesta)
+- [BlueBomb](bluebomb) - Exploit che utilizza il Bluethoot (ne scheda SD ne WiFi richiesti)
+    * Richiede un computer con Bluetooth e GNU/Linux, assieme ad un dispositivo USB
+    * Questo è l'unico exploit che funziona sulla **Wii mini**

@@ -6,7 +6,7 @@ header:
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
   cta_label: "Wprowadzenie"
-  cta_url: "/pl_PL/get-started"
+  cta_url: "get-started"
   caption:
 excerpt: "Wszystko w pigułce o modowaniu Twojej konsoli Nintendo Wii."
 ---
@@ -14,15 +14,11 @@ excerpt: "Wszystko w pigułce o modowaniu Twojej konsoli Nintendo Wii."
 Ten poradnik jest również dostępny w innych językach! Aby zmienić język, naciśnij ikonę na górze po prawej oraz zmień język.
 {: .notice--info}
 
-## Czym jest Wii Guide?
-
-Wii Guide jest poradnikiem utrzymywany przez [RiiConnect24](https://rc24.xyz). Poradnik wprowadzi Cię do świata modowania Wii!
-
 ## Czym jest "homebrew"?
 
 [**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) odnosi się do nieoficjalnego oraz niepodpisanego oprogramowania. Są to gry, narzędzia, emulatory i inne.
 
-Uruchamianie homebrew na konsoli Nintendo Wii jest darmowe za pomocą darmowych exploitów.
+Uruchamianie homebrew na konsoli Nintendo Wii jest darmowe za pomocą różnych exploitów.
 
 ## Co mogę zrobić z homebrew?
 

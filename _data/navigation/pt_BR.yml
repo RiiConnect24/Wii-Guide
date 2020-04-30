@@ -1,49 +1,49 @@
 ---
 main:
-  -
+  - 
     title: Guia Wii
     url: /
-  -
+  - 
     title: FAQ
     url: faq
-  -
+  - 
     title: RiiConnect24
     url: riiconnect24
-  -
+  - 
     title: Wiimmfi
     url: wiimmfi
 bottom:
-  -
+  - 
     title: Para suporte em Inglês, peça ajuda em <a href="https://discord.gg/b4Y7jfD">RiiConnect24 no Discord</a>.
 footer:
-  -
+  - 
     title: Fonte
     url: https://github.com/RiiConnect24/Wii-Guide/
-  -
+  - 
     title: Navegação do Site
     url: site-navigation
-  -
+  - 
     title: Doações
-    url: donations
+    url: doações
 sidebar_title:
-  -
+  - 
     title: Progresso Geral
 sidebar_pages:
-  -
+  - 
     title: Guia Wii
     url: /
-  -
+  - 
     title: FAQ
     url: faq
-  -
+  - 
     title: Doações
-    url: donations
-  -
+    url: doações
+  - 
     title: Créditos
-    url: credits
-  -
+    url: créditos
+  - 
     title: RiiConnect24
     url: riiconnect24
-  -
+  - 
     title: Wiimmfi
     url: wiimmfi

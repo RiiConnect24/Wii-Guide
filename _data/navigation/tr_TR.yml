@@ -1,0 +1,49 @@
+---
+main:
+  - 
+    title: Wii rehberi
+    url: /
+  - 
+    title: Sıkça  Sorulan  Sorulan (S.S.S)
+    url: Sıkça Sorulan Sorular (S.S.S)
+  - 
+    title: RiiConnect24
+    url: riiconnect24
+  - 
+    title: Wiimmfi
+    url: wiimmfi
+bottom:
+  - 
+    title: İngilizce destek için, yardım isteyin <a href="https://discord.gg/b4Y7jfD">RiiConnect24 Discord'da </a>.
+footer:
+  - 
+    title: Kaynak
+    url: https://github.com/RiiConnect24/Wii-Guide/
+  - 
+    title: Site Haritası
+    url: site-haritasi
+  - 
+    title: Bağışlar
+    url: bağışlar
+sidebar_title:
+  - 
+    title: Bütün İşlemler
+sidebar_pages:
+  - 
+    title: Wii Rehberi
+    url: /
+  - 
+    title: Sıkça Sorulan Sorular (S.S.S)
+    url: S.S.S
+  - 
+    title: Bağışlar
+    url: bağışlar
+  - 
+    title: Credits
+    url: credits
+  - 
+    title: RiiConnect24
+    url: riiConnect24
+  - 
+    title: Wiimmfi
+    url: wiimmfi

@@ -68,5 +68,5 @@ Poniżej znajduje się lista hacków, które możesz włączyć w Priiloaderze.
 [Kontynuuj do instalacji cIOS](cios)<br> cIOS jest potrzebne aby grać w gry korzystając z loaderów USB. Nawet jeżeli nie będziesz to robił, jest to przydatne dla wielu aplikacji homebrew.
 {: .notice--info}
 
-Jeżeli masz Wii Mini, skorzystaj z [tego poradnika](ciosmini), żeby zainstalować cIOS.
+Jeżeli masz Wii Mini, skorzystaj z [tego poradnika](cios-mini), żeby zainstalować cIOS.
 {: .notice--info}

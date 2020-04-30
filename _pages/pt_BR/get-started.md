@@ -1,22 +1,23 @@
-﻿---
+---
 title: "Introdução"
 ---
 
 {% include toc title="Sumário" %}
 
-Essas instruções irão dizer que você usará um Cartão SD para modificar seu Wii, porém você pode usar um dispositivo USB. Apesar disso, tenha em mente que o exploit LetterBomb requer um Cartão SD pois será usado na Wii Message Board.
+Caso precise de ajuda com este tutorial, entre [no servidor do RiiConnect24 no Discord](https://discord.gg/b4Y7jfD) (recomendado) ou [envie um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Este guia funciona apenas com o Wii Original, com a versão do sistema mais nova (4.3). Não use isso em um Wii U (vWii)!
-Caso queira installar homebrew no Wii U (vWii) , [siga esse tutorial](https://wiiu.hacks.guide/vwii-modding).
+Essas instruções assumem que você está usando um cartão SD para modificar seu Wii, mas você também pode usar um dispositivo USB. Entretanto, para usar exploits, LetterBomb requer um cartão SD, e BlueBomb requer um dispositivo USB.
+{: .notice--info}
+
+Este guia é apenas para o Wii original, na versão do sistema mais recente (4.3). Não tente fazer isso em um Wii U (vWii)! If you want to install homebrew on vWii, [follow this tutorial](https://wiiuguide.xyz/#/vwii-modding).
 {: .notice--warning}
 
-### Escolha um exploit para usar
+### Escolha um exploit
 
-- [LetterBomb](letterbomb) - Exploit que usa o serviço de mensagens do Wii
-- [FlashHax](flashhax) - Exploit que usa o Canal da Internet do Wii
-
-
-Algumas alternativas para esse guia são [ModMii (Caso tenha um PC com Windows)](https://sourceforge.net/projects/modmii/) ou [SetMiiUp](https://gbatemp.net/threads/setmiiup-from-stock-to-latest-softmod-in-less-then-5-10-minutes.459416/).
-Ambos permitem você começar a hackear seu Wii, porém não instalarão outros serviços por padrão, já nesse guia, é mostrado como.
-{: .notice--info}
+- [str2hax](str2hax) - Exploit que usa a EULA do Wii (Recomendado, não requer canais e nem cartão SD, mas precisa de alteração das configurações de DNS)
+- [FlashHax](flashhax) - Exploit que usa o Internet Channel (Não requer cartão SD)
+- [LetterBomb](letterbomb) - Exploit que usa o Wii Message Board (Requer cartão SD)
+- [BlueBomb](bluebomb) - Exploit que usa Bluetooth (Não requer cartão SD e nem Wifi)
+    * Requer um computador com Bluetooth e GNU/Linux, além de um dispositivo USB
+    * Esse é o único exploit que funciona no **Wii mini**

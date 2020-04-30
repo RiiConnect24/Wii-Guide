@@ -1,0 +1,49 @@
+---
+main:
+  - 
+    title: Wii Guide
+    url: /
+  - 
+    title: FAQ
+    url: faq
+  - 
+    title: RiiConnect24
+    url: riiconnect24
+  - 
+    title: Wiimmfi
+    url: wiimmfi
+bottom:
+  - 
+    title: Als u hulp nodig heeft, sluit je dan aan bij <a href="https://discord.gg/b4Y7jfD">RiiConnect24 op Discord</a>.
+footer:
+  - 
+    title: Source
+    url: https://github.com/RiiConnect24/Wii-Guide/
+  - 
+    title: Site Navigation
+    url: site-navigation
+  - 
+    title: Donations
+    url: donations
+sidebar_title:
+  - 
+    title: Overall Progress
+sidebar_pages:
+  - 
+    title: Wii Guide
+    url: /
+  - 
+    title: FAQ
+    url: faq
+  - 
+    title: Donations
+    url: donations
+  - 
+    title: Credits
+    url: credits
+  - 
+    title: RiiConnect24
+    url: riiconnect24
+  - 
+    title: Wiimmfi
+    url: wiimmfi

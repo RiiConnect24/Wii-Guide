@@ -1,118 +1,110 @@
-﻿---
+---
 title: "RiiConnect24"
 ---
 
-{% include toc title="Sumário" %}
+{% include toc title="Table of Contents" %}
+
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-[RiiConnect24](https://rc24.xyz/) Permite que você use o canal de Tempo e Notícias, enviar e receber e-mails entre Wii e PCs, votar em enquetes, e outras funções do WiiConnect24. Serve para substituir as funções de WiiConnect24.
+[RiiConnect24](https://rc24.xyz/) allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail.
 
-No momento, RiiConnect24 ainda não tem suporte para o Wii U, então não instale em um Wii U por enquanto.
-<br>
-Até agora só o Canal de Notícias, Tempo, e Everybody Votes Channel funcionam, visite [a página de status](https://rc24.xyz/stats/index.html) para futuros desenvolvimentos.
+{% capture notice-1 %}
+This guide is for the original Wii only.
+
+- Follow [this tutorial](riiconnect24-vwii) if you'd like to install RiiConnect24 on a vWii (the Wii mode of your Wii U).
+- Follow [this tutorial](riiconnect24-dolphin) if you'd like to install RiiConnect24 on the Dolphin emulator.
+
+There is no guide to installing RiiConnect24 on a Wii Mini, as attempting to install RiiConnect24 on a Wii Mini will result in a console brick.
+{% endcapture %}
+
+<div class="notice--warning">{{ notice-1 | markdownify }}</div>
+
+In order to use Wii Mail you must be on Wii Menu version 4.3, otherwise it won't work.
+{: .notice--info}
+
+#### What you need
+
+* An SD card or USB drive
+* A Wii with an Internet connection
+* A computer
+* [RiiConnect24 Patcher (Windows only)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+
+#### Instructions
+
+##### Section I - Patching IOS
+
+[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+{: .notice--info}
+
+If you use Linux or macOS, please e-mail us and we will give you the things needed to install RiiConnect24. The patcher we provide is currently Windows-only.
+{: .notice--info}
+
+You will now patch your IOS, `IOS31` and `IOS80`. This is required to use the Channels we support to change an RSA key used to sign the files. You will also download patched versions of the Channels.
+
+1. Download the required files based on your OS. On Windows run `RiiConnect24Patcher.bat`.
+2. Follow the instructions it gives you.
+3. You should get the Channels that you want. They need to be installed **even if you already have them on your Wii, because you will need to install the patched WAD instead**.
+4. (`If RiiConnect24 Patcher copied everything to the SD card or USB drive, you can skip this step`) Copy the `apps` and `wad` folder to your SD card or USB drive.
+5. Put your SD card or USB drive in your Wii.
+6. Launch the Homebrew Channel on your Wii.
+7. Launch Wii Mod Lite.
+8. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+9. When `IOS31.wad` is highlighted, press +, then do the same for all the other WADs.
+10. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted WAD to uninstall it, then try installing it again.
+11. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+
+##### Section II - Patching nwc24msg.cfg
+
+You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
+
+1. Launch RiiConnect24 Mail Patcher.
+2. It should only take a few seconds to patch your nwc24msg.cfg. When it's done, press HOME to exit.
+
+If the previous step failed with an "net_get_status: -24 - Couldn't request the data: -24" error, please check the internet connection on your Wii.
 {: .notice--warning}
 
-Para instalar RiiConnect24 seu Wii deve estar na versão 4.3, caso contrário a Wii Message Board não irá funcionar.
+If you were unable to patch your nwc24msg.cfg correctly, e-mail us at [support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-#### Você precisará de
+##### Section III - Connecting
 
-* Um Wii com conexão à internet
-* Um Cartão SD com pelo menos 128MB de espaço livre
-* Um computador (qualquer SO)
+You need to set your DNS in order to get the Forecast and News Channel to point to our servers. This DNS is also useful if you want to play Wiimmfi.
 
-* [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+1. Go to `Wii Options`.
+2. Go to `Wii Settings`.
+3. Go to `Page 2`, then click on `Internet`.
+4. Go to `Connection Settings`.
+5. Select your current connection.
+6. Go to `Change Settings`.
+7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`.
+8. Type in `164.132.44.106` as the primary DNS.
+9. Type in `8.8.8.8` as the secondary DNS (or `1.1.1.1`).
+10. Select `Confirm`, then select `Save`.
+11. Select `OK` to perform a connection test.
+12. If the connection test was successful, select `No` to skip the Wii System Update.
+13. Go to `WiiConnect24`, then `WiiConnect24` again, and make sure it is enabled.
+14. Back on the WiiConnect24 menu, go to `Standby Connection` and make sure it is enabled.
+15. At `Slot Illumination`, we recommend you set the disc light to `Dim` or `Bright`, but this is optional.
+16. Finally, go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`. Please read through this.
 
-#### Instruções
 
-##### Parte I - Modificando a IOS
-
-[Está tendo problemas para instalar RiiConnect24 ou quer nos perguntar algo? Envie um e-mail para nós em: support@riiconnect24.net!](mailto:support@riiconnect24.net)
+[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
 {: .notice--info}
 
-[Caso queira instruções detalhadas em como instalar IOS customizadas e o Everybody Votes Channel com patch após baixar, clique aqui!](wiimodlite)
+If you get error 107245, then you probably have failed to patch your IOS correctly.
 {: .notice--info}
 
-Agorá você ira fazer patch na IOS, `IOS31` e `IOS80`. Isso é necessário para que os canais e a Wii Message Board funcionem. Você também precisará de uma versão modificada do Everybody Votes Channel.
+If you get error 107304, then perhaps your ISP blocks the use of custom DNS. A workaround for this can be running your own DNS server! See the [RiiConnect24 DNS Server on GitHub](https://github.com/RiiConnect24/DNS-Server), then use your PC's IP address in place of ours in Step 8.
+{: .notice--info}
 
-1. Faça download dos arquivos necessários para seu Sistema Operacional. No Windows abra `RiiConnect24Patcher.bat`, No Linux e MacOS abra `patch.sh`.
-1. Siga as intruções que o aplicativo dá. Ao terminar, copie a pasta `WAD` para seu Cartão SD.
-1. Você deverá baixar Everybody Votes Channel. É necessário ser instalado **mesmo que já tenha Everybody Votes Channel em seu Wii, pois você usará uma WAD modificada para funcionar com RiiConnect24**.
-1. (`Caso o Patcher de RiiConnect24 já tenha copiado tudo para seu Cartão SD, pule este passo`) Extraia Wii Mod Lite, e coloque na pasta `apps` do seu Cartão SD. Faça o mesmo para Mail-Patcher.
-1. Insira seu Cartão SD no Wii.
-1. Abra o Homebrew Channel no Wii.
-1. Abra Wii Mod Lite.
-1. Usando o Control Pad do seu Wii Remote, vá até `WAD Manager`, e então navegue até a pasta `WAD`.
-1. Quando `IOS31.wad` estiver marcado, pressione +, e faça o mesmo para `IOS80.wad` e o WAD de Everybody Votes Channel.
-1. Se você receber um erro dizendo que uma versão mais nova estiver instalada (erro -1035), volte até o menu de Seleção de WAD e pressione o botão - quando Everybody Votes Channel estiver marcado, depois tente instalar novamente.
-1. Após serem instalados corretamente, pressione o botão HOME para voltar ao Homebrew Channel.
-
-##### Parte II - Modificando nwc24msg.cfg
-
-Agora você irá fazer patch do arquivo `nwc24msg.cfg` que é necessário para usar Wii Mail.
-
-1. (`Se você usou RiiConnect24Patcher.bat, o arquivo já deverá estar no seu Cartão SD`) Baixe [RiiConnect24 Mail Patcher](https://github.com/RiiConnect24/Mail-Patcher/releases) e extraia no seu Cartão SD.
-1. Insira seu Cartão SD no Wii.
-1. Abra o Homebrew Channel no Wii.
-1. Abra o RiiConnect24 Mail Patcher.
-1. O processo leva alguns segundos. Quando concluído, aperte o botão HOME para sair.
-
-Se o processo anterior falhou com o erro `net_get_status: -24 - Couldn't request the data: -24` verifique sua conexão com a Internet no Wii.
+[If you get error FORE000006, you might want to follow this tutorial to fix it. (This doesn't work with NEWS000006).](riiconnect24-batteryfix)
 {: .notice--warning}
 
-
-Se você não conseguiu fazer o patch de nwc24msg.cfg corretamente, nos envie um e-mail em [support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: .notice--info}
-
-##### Parte III - Conectar
-
-1. Vá até `Wii Options`.
-![Wii Options](/images/RiiConnect24/Internet_1.png)
-1. Vá até `Wii Settings`.
-![Wii Settings](/images/RiiConnect24/Internet_2.png)
-1. Vá até `Page 2`, depois clique em `Internet`.
-![Internet](/images/RiiConnect24/Internet_3.png)
-1. Vá até `Connection Settings`.
-![Connection Settings](/images/RiiConnect24/Internet_4.png)
-1. Selecione a conexão sendo usada no momento.
-![Current Connection](/images/RiiConnect24/Internet_5.png)
-1. Vá até `Change Settings`.
-![Change Settings](/images/RiiConnect24/Internet_6.png)
-1. Vá até `Auto-Obtain DNS` (`Não confunda com IP Address`), depois selecione `No`, e então `Advanced Settings`.
-![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
-1. Digite `164.132.44.106` como o DNS primário.
-![Primary DNS](/images/RiiConnect24/Internet_8.png)
-1. Digite `8.8.8.8` como o DNS secundário (Você também pode usar `1.1.1.1`, porém pode causar problemas).
-![Secondary DNS](/images/RiiConnect24/Internet_9.png)
-1. Selecione `Confirm`, e então `Save`.
-![Save DNS](/images/RiiConnect24/Internet_10.png)
-1. Selecione `OK` para fazer um teste de conexão.
-![Connection Test](/images/RiiConnect24/Internet_11.png)
-1. Se o teste de conexão funcionou, selecione `No` para pular a atualização do sistema.
-![Connection Test Successful](/images/RiiConnect24/Internet_12.png)
-1. Vá até `WiiConnect24`, e então `WiiConnect24` novamente, tenha certeza de que está habilitado.
-![WiiConnect24 1](/images/RiiConnect24/Internet_13.png)
-![WiiConnect24 2](/images/RiiConnect24/Internet_14.png)
-![WiiConnect24 3](/images/RiiConnect24/Internet_15.png)
-1. De volta ao menu WiiConnect24, vá até `Standby Connection` e tenha certeza de que está ativado.
-![Standby Connection 1](/images/RiiConnect24/Internet_16.png)
-![Standby Connection 2](/images/RiiConnect24/Internet_17.png)
-![Standby Connection 3](/images/RiiConnect24/Internet_18.png)
-1. Em `Slot Illumination`, é recomendado que você selecione `Dim` ou `Bright`, porém é opcional.
-![Slot Illumination 1](/images/RiiConnect24/Internet_19.png)
-![Slot Illumination 2](/images/RiiConnect24/Internet_20.png)
-![Slot Illumination 3](/images/RiiConnect24/Internet_22.png)
-1. Por fim, Vá até a seção `Internet`, depois em `User Agreements or Agreement/Contact`, e então clique em `Yes`.<br>
-   Por favor leia por completo e não pule. Esse acordo contém informações importantes sobre RiiConnect24 como um serviço!
-![User Agreements 1](/images/RiiConnect24/Internet_23.png)
-![User Agreements 2](/images/RiiConnect24/Internet_24.png)
-
-Se você receber o erro 107245, você falhou ao fazer o patch correto da sua IOS.
-{: .notice--info}
-
-[Se você receber o erro FORE000006, siga esse tutorial para consertar.](riiconnect24-batteryfix)
+[If you're getting errors such as a `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, please go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
 {: .notice--warning}
 
-[Se você receber erros no canal de Tempo e Notícias dizendo que o canal foi descontinuado, nós temos algumas instruções que podem te ajudar.](riiconnect24-troubleshooting)
+[If you're getting errors such as a discontinued message when opening the News or Forecast Channel, we have some instructions that might fix it.](riiconnect24-troubleshooting)
 {: .notice--warning}

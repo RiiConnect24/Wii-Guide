@@ -13,10 +13,10 @@ Napisz do nas na support@riiconnect24.net lub dołącz do [serwera Discord RiiCo
 ### Jakie są wymagania i/lub zalecenia dotyczące karty SD?
 Będziesz potrzebował karty SD z przynajmniej 128MB miejsca aby wykonać exploit.
 
-- Jeżeli będziesz korzystał z exploitu LetterBomb/Wiibrand, Twoja karta SD nie powinna być większa niż 32GB.
-- Jeżeli korzystasz z exploitu w Super Smash Bros Brawl, Twoja karta SD nie powinna być większa niż 2GB.
+- Jeżeli będziesz korzystał z exploitu LetterBomb, Twoja karta SD nie powinna być większa niż 32GB.
+- Jeżeli korzystasz z exploitu BlueBomb, nie będziesz potrzebował karty SD
 
-Aby przechowywać aplikacje homebrew, zalecamy minimum 2GB miejsca na Twojej karcie SD.
+Zalecamy minimum 2GB miejsca na karcie SD na przechowywanie aplikacji homebrew.
 
 ### Otrzymałem błąd XXXXXX na Wiimmfi, jak go mogę naprawić?
 Aby sprawdzić co dany kod błędu oznacza, odwiedź [stronę z kodami błędów Wiimmfi](https://wiimmfi.de/error).

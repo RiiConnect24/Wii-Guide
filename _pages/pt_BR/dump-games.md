@@ -1,14 +1,14 @@
 ---
-title: "Fazendo backup de jogos Wii/GameCube"
+title: "Extrair jogos do Wii/GameCube"
 ---
 
-Quer legalmente fazer um backup de seus jogos do Wii ou do GameCube? Nesse tutorial você irá aprender como.
+Quer fazer backup de um jogo do GameCube ou Wii legalmente, a fim de jogar ele no seu console? Com este tutorial, explicaremos como fazer.
 
-Por favor escolha onde você irá realizar o backup.
+Por favor, escolha como deseja extrair o disco.
 {: .notice--warning}
 
-[Eu quero fazer o backup num dispositivo USB ou em um Cartão SD](CleanRip)
+[Quero fazer o backup no cartão SD/dispositivo USB](cleanrip)
 {: .notice--info}
 
-[Eu quero realizar o backup diretamente no meu PC usando Wi-Fi ou um adaptador Ethernet](dump-smb)
+[Quero fazer o backup diretamente no meu PC através de uma rede](dump-smb)
 {: .notice--info}
