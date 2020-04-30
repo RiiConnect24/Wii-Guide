@@ -8,7 +8,7 @@ title: "cIOS (προσαρμοσμένο IOS)"
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-Αν έχετε Wii mini, αντ' αυτού εγκαταστήστε [αυτό το cIOS](cios-mini). Η απόπειρα εγκατάστασης οποιουδήποτε άλλου cIOS στο Wii mini μπορεί να προκαλέσει **ανεπανόρθωτη ζημιά στην κονσόλα σας!! (brick)**
+Αν έχετε Wii mini, αντ' αυτού εγκαταστήστε [αυτό το cIOS](cios-mini). Attempting to install any other cIOS on a Wii mini won't work.
 {: .notice--info}
 
 #### Τι χρειάζεστε
