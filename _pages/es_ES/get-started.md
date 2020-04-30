@@ -20,4 +20,4 @@ Esta guía es sólo para consolas Wii originales que tengan la versión de siste
 - [LetterBomb](letterbomb) - Exploit que usa el tablón de Wii. (Requiere una tarjeta SD)
 - [BlueBomb](bluebomb) - Exploit que usa Bluetooth. No se requiere una tarjeta SD o conexión a internet.
     * Requiere una computadora con Bluetooth y Linux instalado, así como una unidad USB
-    * Este es el único exploit que funciona en el **Wii Mini**
+    * Este es el único exploit que funciona en el **Wii mini**
