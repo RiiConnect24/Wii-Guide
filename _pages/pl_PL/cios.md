@@ -8,7 +8,7 @@ Ten poradnik nauczy Cię jak zainstalować cIOS (niestandardowe IOS). Jest to wy
 
 ![Instalator d2x cIOS](/images/cIOS.png)
 
-Jeżeli korzystasz z Wii Mini, skorzystaj z [tego poradnika](cios-mini). Próba zainstalowania cIOS z tego poradnika na Wii Mini może **zbrickować Twoją konsolę!!**
+Jeżeli korzystasz z Wii Mini, skorzystaj z [tego poradnika](cios-mini). Próba instalacji innych cIOS na Wii Mini nie zadziała.
 {: .notice--info}
 
 #### Będziesz potrzebował:
