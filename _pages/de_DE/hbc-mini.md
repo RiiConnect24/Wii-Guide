@@ -1,18 +1,18 @@
 ---
-title: "Homebrew-Kanal - nur für die Wii Mini"
+title: "Homebrew-Kanal - nur für die Wii mini"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Inhaltsverzeichnis" %}
 
-Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, tritt bitte dem [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD)(empfohlen) bei, oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
+Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [RiiConnect24 Discord-Server](https://discord.gg/b4Y7jfD) bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![HBC Logo](/images/hbc.png)
+![HBC-Logo](/images/hbc.png)
 
 Mit dem Homebrew-Kanal kannst du Homebrew-Anwendungen ausführen.
 
 #### Anleitung
-Diese Seite ist **nur** für die Nutzer der Wii Mini vorgesehen. Falls du eine normale Wii hast, folge stattdessen [dieser Anleitung](hbc).
+Diese Seite ist **nur** für Nutzer der Wii mini vorgesehen. Falls du eine normale Wii hast, folge stattdessen [dieser Anleitung](hbc).
 {: .notice--info}
 
 Zwar ist es möglich, BootMii auf einer Wii Mini zu installieren, dies wirst du allerdings nicht nutzen können, außer wenn du einen SD-Kartenslot angelötet hast.
