@@ -1,33 +1,33 @@
 ---
-title: "Homebrew Channel and BootMii Installation"
+title: "Instalação do Homebrew Channel e BootMii"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sumário" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Caso precise de ajuda com este tutorial, entre [no servidor do RiiConnect24 no Discord](https://discord.gg/b4Y7jfD) (recomendado) ou [envie um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![HBC Logo](/images/hbc.png)
+![Logo HBC](/images/hbc.png)
 
-The Homebrew Channel is where you will go to launch homebrew applications. BootMii is a piece of software that can backup and restore your Wii's NAND storage, and if installed in boot2, provides brick protection.
+O Homebrew Channel é onde você irá abrir aplicativos homebrew. O BootMii é um software que pode fazer backup e restaurar o armazenamento NAND do seu Wii e, se for instalado no boot2, oferece proteção contra bricks.
 
-#### Instructions
+#### Instruções
 
-1. You will see a scam warning screen. Wait 30 seconds for the text "Press 1 to continue" to appear, then press 1. ![Scam Screen](/images/Wii/ScamScreen.png)
+1. Você verá uma tela de aviso de golpe. Espere 30 segundos para o texto "Press 1 to continue" aparecer, depois aperte 1. ![Aviso de Golpe](/images/Wii/ScamScreen.png)
 
-2. When at the HackMii installer, you are able to install the Homebrew Channel and BootMii. ![Results](/images/Wii/Results.png)
+2. Assim que estiver no instalador HackMii, você já poderá instalar o Homebrew Channel e BootMii. ![Resultados](/images/Wii/Results.png)
 
-3. Press Continue, then select the Homebrew Channel, and press install. ![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
+3. Aperte Continue, depois selecione o Homebrew Channel, e aperte instalar. ![Instalar o Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
-4. Press Continue when finished. ![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
+4. Aperte Continue quando terminar. ![Homebrew Channel Instalado com Sucesso](/images/Wii/SuccessHBC.png)
 
-5. Once installed, press back and go to BootMii.
-6. If the main screen says you can install as boot2, do so. This gives you a level of brick protection that loads as part of the Wii's boot process, and lets you load homebrew to fix the brick or restore from a NAND backup.
-7. If it does not say you can install as boot2, install as IOS. While this doesn't give you brick protection compared to its boot2 counterpart, it will still allow you to make a NAND backup.
+5. Depois de instalado, pressione o botão voltar e vá para o BootMii.
+6. Se a tela principal indicar que você pode instalar como boot2, instale-o. Isso te proporciona uma camada de proteção contra bricks que é  carregada assim que o Wii liga, além de te permitir abrir homebrew para consertar o brick ou restaurar um backup do armazenamento NAND.
+7. Se não indicar que você pode instalar como boot2, instale como IOS. Apesar de não oferecer proteção contra bricks da mesma forma como o boot2, você ainda poderá fazer backups do armazenamento NAND.
 
-![BootMii Installation](/images/Wii/InstallBootMii.jpg)
+![Instalação BootMii](/images/Wii/InstallBootMii.jpg)
 
-8. Once done, select `Continue` to exit the HackMii installer.
+8. Após concluído, selecione `Continue` para sair do instalador HackMii.
 
-[Continue to BootMii Backup](bootmii)<br> Making a NAND backup with BootMii at this point is recommended.
+[Continue para Backup BootMii](bootmii)<br> Neste momento, é recomendável fazer um backup do armazenamento NAND com o BootMii.
 {: .notice--info}
