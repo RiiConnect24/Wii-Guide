@@ -8,7 +8,7 @@ Este tutorial irá lhe ensinar a como instalar cIOS (IOS customizada). Isso é n
 
 ![Instalador d2x cIOS](/images/cIOS.png)
 
-Se você tem um Wii mini, instale [essa cIOS](cios-mini). Tentar instalar qualquer outra cIOS em um Wii mini pode **causar um brick no seu console!!**
+Se você tem um Wii mini, instale [essa cIOS](cios-mini). Attempting to install any other cIOS on a Wii mini won't work.
 {: .notice--info}
 
 #### Você precisará de
