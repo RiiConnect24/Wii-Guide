@@ -113,6 +113,7 @@ author:
 # Reading Files
 include:
  - .htaccess
+ - _pages
  - _pages/en_US
  - _pages/de_DE
  - _pages/es_ES
