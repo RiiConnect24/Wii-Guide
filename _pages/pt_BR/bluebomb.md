@@ -14,7 +14,7 @@ Bluebomb é um exploit que tira proveito de uma falha nas bibliotecas Bluetooth 
 Para o Wii Original, recomendamos que use [outro exploit](/get-started) se sua intenção for instalar o Homebrew Launcher e/ou BootMii.
 {: .notice--info}
 
-Esse exploit não funcionará no vWii do Wii U. Please follow [this guide](https://wiiuguide.xyz/#/vwii-modding) instead.
+Esse exploit não funcionará no vWii do Wii U. Por favor siga [esse guia](https://wiiuguide.xyz/#/vwii-modding).
 {: .notice--warning}
 
 #### Parte I - Você precisará de
