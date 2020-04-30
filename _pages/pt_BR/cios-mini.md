@@ -53,5 +53,5 @@ Não tente instalar uma IOS ou o System Menu do Wii em um Wii mini. Se fizer, se
 Agora você pode usar aplicativos homebrew como [USB Loader GX](usbloadergx).
 {: .notice--info}
 
-[Continuar para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
+[Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
 {: .notice--info}
