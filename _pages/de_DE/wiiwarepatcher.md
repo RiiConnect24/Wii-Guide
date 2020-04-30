@@ -2,7 +2,7 @@
 title: "WiiWare Patcher"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Inhaltsverzeichnis" %}
 
 Möchtest du WAD-Spiele (WiiWare) patchen, damit sie mit Wiimmfi funktionieren und weißt nicht wie? Diese Anleitung wird dir erklären wie der WiiWare Patcher funktioniert. (Diese Anleitung funktioniert nur mit Windows)
 
