@@ -117,10 +117,10 @@ include:
  - _pages/en_US
  - _pages/de_DE
  - _pages/es_ES
- - _pages/fr_FR
- - _pages/it_IT
+ # - _pages/fr_FR
+ # - _pages/it_IT
  - _pages/pl_PL
- - _pages/pt_BR
+ # - _pages/pt_BR
 exclude: [
   "*.sublime-project",
   "*.sublime-workspace",

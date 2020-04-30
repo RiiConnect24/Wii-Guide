@@ -2,7 +2,7 @@
 title: "BlueBomb (Bomba Blava)"
 ---
 
-{% incloure títol toc="Taula de Continguts" %}
+{% include toc title="Table of Contents" %}
 
 If you need help with anything regarding this tutorial, please join [the Wii mini Hacking Discord server](https://discord.gg/6ryxnkS) (recommended)
 {: .notice--info}
