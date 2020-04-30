@@ -40,7 +40,7 @@ Assicurati di leggere questi avvertimenti prima di continuare!
 
 ##### Sezione I - Trovare un Tema
 
-* Peruse the GBAtemp post, finding a theme you want to install. Alcuni hanno video su YouTube per mostrare com’è il tema, purtroppo alcuni non sono disponibili.
+* Ricerca il post su GBAtemp, trova il tema che vuoi installare. Alcuni hanno video su YouTube per mostrare com’è il tema, purtroppo alcuni non sono disponibili.
 * Trovato quello che ti piace, scarica la versione corrispondente al tuo Wii Menu. **È molto importante prendere quello giusto per evitare blocchi.**
 * Probabilmente scaricherai il link che dice 4.X, cioè il tema che funziona sulla versione 4.1, 4.2 e 4.3 del Wii Menu.
 * Alcuni temi hanno diversi link per diversi paesi, quindi seleziona quello corrispondente al paese della tua Wii.
