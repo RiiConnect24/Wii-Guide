@@ -2,7 +2,7 @@
 title: "RiiTag auf der Wii"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Inhaltsverzeichnis" %}
 
 Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [RiiConnect24 Discord-Server](https://discord.gg/b4Y7jfD) bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -42,7 +42,7 @@ Die Schritte zur Verbindung von RiiTag mit deinem USB-Loader hängen von deinem 
 5. Verbinde die SD-Karte bzw. das USB-Laufwerk mit deinen USB Loader GX-Daten mit deinem Computer.
 6. [Gehe auf diese Seite.](https://tag.rc24.xyz/Wiinnertag.xml)
 7. Ruf in deinem Webbrowser das Kontextmenü auf und wähle `Seite speichern unter...`.
-8. Save the XML to `/apps/usbloader_gx`  folder on your SD Card or USB device, replacing the existing `Wiinnertag.xml`.
+8. Speichere die XML-Datei im `/apps/usbloader_gx` -Ordner auf deiner SD-Karte bzw. deinem USB-Laufwerk, und ersetze mit ihr die vorhandene `Wiinnertag.xml`.
 9. Du hast jetzt RiiTag eingerichtet. Du kannst jetzt ein beliebiges Spiel starten, um zu sehen, dass es korrekt funktioniert.
 
 ###### WiiFlow
