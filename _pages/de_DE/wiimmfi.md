@@ -52,14 +52,14 @@ Du möchtest nicht jedes mal einen Patcher ausführen, wenn du auf Wiimmfi spiel
 - Eine Kopie von deinem Spiel (WBFS, ISO, cISO, und andere Formate, die auf einer Wii verwendet werden können, werden unterstützt).
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (nur für Windows)  
 **oder**
-- Wiimm's Disc Patcher (plattformübergreifend)
-   - [Mario Kart Wii edition](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip)
-   - [Non-Mario Kart Wii edition](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z)
-- A USB Loader, cIOS, and a USB to store the game on (you should already have these if you're using a USB Loader)
+- Wiimms Disc Patcher (plattformübergreifend)
+   - [Mario Kart Wii Edition](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip)
+   - [Nicht-Mario Kart Wii-Edition](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z)
+- Einen USB-Loader, cIOS und ein USB-Laufwerk zum Sichern des Spiels (Du solltest diese bereits haben, wenn du einen USB-Loader verwendest)
 
 #### Anleitung
 1. Entpacke den Patcher deiner Wahl in einen Ordner und platziere eine Kopie deines Spieles in ihm.
-2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the patcher for your game.
+2. Führe das Patch-Skript für dein Betriebssystem aus: meistens endet es auf `.bat` für Windows und `.sh` für macOS/Linux. Falls du den RiiConnect24 Patcher verwendest, wähle dein Gerät (Wii, vWii oder Dolphin) und den Patcher für dein Spiel aus.
 3. Wenn es beendet ist, dann kopiere dir die Version aus dem `wiimmfi-images` Ordner (Er könnte in dem Ordner oberhalb von dem mit dem Patcher sein - ../wiimmfi-images) zurück auf dein USB-Laufwerk.
 
 ### Automatisches Patchen mithilfe eines USB-Loaders
@@ -82,7 +82,7 @@ Du kannst WiiWare-Spiele patchen, um mit ihnen auf Wiimmfi zu spielen.
 
 Schritte:
 1. Entpacke die `.zip` der neusten Version des Auto WiiWare Patchers, und kopiere deine WAD in den Ordner, in den du entpackt hast.
-2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
+2. Führe das Patch-Skript für dein Betriebssystem aus: meistens endet es auf `.bat` für Windows und `.sh` für macOS/Linux. Falls du den RiiConnect24 Patcher verwendest, wähle dein Gerät (Wii, vWii oder Dolphin) und den WiiWare Patcher aus.
 3. Wenn es richtig ausgeführt worden ist, dann installiere die WAD Datei, die erstellt wurde in `wiiware-wads` mit Wii Mod Lite.
 
 ## Andere Sachen
