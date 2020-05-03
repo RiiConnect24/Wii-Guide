@@ -43,5 +43,6 @@ If you're getting one of these errors (and not any other error), you should be a
 6. Hover over `wc24dl.vff` and press the + button and select `Delete`.
 
 Try to launch the Channel you were having trouble with now.
-{: .notice--info}
+
 [Return to RiiConnect24 installation page](riiconnect24)
+{: .notice--info}
