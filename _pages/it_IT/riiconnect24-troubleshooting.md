@@ -45,3 +45,4 @@ Se stai avendo uno di questi errori (e nessun altro errore), dovresti essere cap
 Prova a caricare il Canale con cui stavi avendo problemi adesso.
 
 [Ritorna alla pagina di installazione di RiiConnect24](riiconnect24)
+{: .notice--info}
