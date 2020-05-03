@@ -45,3 +45,4 @@ Jeżeli otrzymujesz któryś z poniższych problemów (tylko te, nie inne), powi
 Spróbuj uruchomić kanał z którym miałeś/miałaś problem.
 
 [Powróć do strony dotyczącej instalacji RiiConnect24](riiconnect24)
+{: .notice--info}
