@@ -14,7 +14,7 @@ Bluebomb é uma vulnerabilidade que tira proveito de uma falha nas bibliotecas B
 Para a Wii original, nós recomendamos utilizar [outra vulnerabilidade](/get-started) se pretenderes instalar o Homebrew Channel e/ou BootMii.
 {: .notice--info}
 
-Esta vulnerabilidade não resultará na vWii da Wii U. Please follow [this guide](https://wiiuguide.xyz/#/vwii-modding) instead.
+Esta vulnerabilidade não resultará na vWii da Wii U. Por favor segue [este guia](https://wiiuguide.xyz/#/vwii-modding).
 {: .notice--warning}
 
 #### Secção I - O que precisas
