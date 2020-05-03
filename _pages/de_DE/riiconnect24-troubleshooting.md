@@ -45,3 +45,4 @@ Falls du einen der folgenden Fehler erhälst (und keine anderen Fehler), solltes
 Versuche jetzt den Kanal zu starten, mit dem du Probleme hattest.
 
 [Zurückkehren zur RiiConnect24 Installationsseite](riiconnect24)
+{: .notice--info}
