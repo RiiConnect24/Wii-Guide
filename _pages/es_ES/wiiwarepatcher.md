@@ -20,7 +20,10 @@ Esta guía es sólo para la versión de Windows de WiiWare Patcher.
 [Si deseas descargar WiiWare Patcher sin usar CMD, ¡haz clic aquí!.](https://github.com/RiiConnect24/auto-wiiware-patcher/releases)
 {: .notice--info}
 
-Si estás usando Windows 7 o superior, ejecuta cmd.exe (oprime al mismo tiempo las teclas Windows + R, escribe cmd en la ventana que aparecerá y presiona ENTER) y después copia y pega el siguiente comando (CTRL + V no funcionará, haz clic derecho en la ventana de CMD y selecciona Pegar): `powershell -command "(new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/KcrPL/KcrPL.github.io/master/Patchers_Auto_Update/WiiWare-Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat`
+Si estás usando Windows 7 o superior, ejecuta cmd.exe (oprime al mismo tiempo las teclas Windows + R, escribe cmd en la ventana que aparecerá y presiona ENTER) y después copia y pega el siguiente comando (CTRL + V no funcionará, haz clic derecho en la ventana de CMD y selecciona Pegar): 
+```powershell
+powershell -command "(new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/KcrPL/KcrPL.github.io/master/Patchers_Auto_Update/WiiWare-Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat
+```
 {: .notice--info}
 
 Espera unos instantes para que Powershell pueda iniciarse. Después de unos segundos, se abrirá una nueva ventana. ![Network Installer](/images/WiiWare-Patcher/netinstall.jpg)
