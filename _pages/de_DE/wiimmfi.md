@@ -52,7 +52,7 @@ Du möchtest nicht jedes mal einen Patcher ausführen, wenn du auf Wiimmfi spiel
 - Eine Kopie von deinem Spiel (WBFS, ISO, cISO, und andere Formate, die auf einer Wii verwendet werden können, werden unterstützt).
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (nur für Windows)  
 **oder**
-- Wiimm's Disc Patcher (plattformübergreifend)
+- Wiimm's ISO Patcher (plattformübergreifend)
    - [Mario Kart Wii edition](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip)
    - [Non-Mario Kart Wii edition](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z)
 - A USB Loader, cIOS, and a USB to store the game on (you should already have these if you're using a USB Loader)
