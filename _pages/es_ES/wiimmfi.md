@@ -9,14 +9,14 @@ En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por f
 
 ![Logotipo de Wiimmfi](/images/WiiWiimmfiLogo.jpg)
 
-[Wiimmfi](https://wiimmfi.de) es un servicio que reemplaza a la Conexión Wi-Fi de Nintendo. Ha sido desarrollado por Wiimm y Leseratte.
+[Wiimmfi](https://wiimmfi.de) es un servicio que reemplaza a la Conexión Wi-Fi de Nintendo, el cual ha sido desarrollado por Wiimm y Leseratte.
 
-## Diferentes métodos para conectarse
+## Métodos para conectarse
 
-Hay muchos métodos diferentes para conectarte a Wiimmfi.
+Estos son los diferentes métodos para conectarse a Wiimmfi:
 
 ### Aplicación homebrew (sólo para discos)
-MrBean35000vr (creador de CTGP-R, un paquete de contenido para Mario Kart Wii) creó Auto Wiimmfi Patcher, una aplicación que te permite parchear de forma temporal un juego de disco para poder conectarte a Wiimmfi. Sin embargo, deberás usar esta aplicación cada vez que quieras iniciar el disco.
+MrBean35000vr (creador de CTGP-R, un paquete de contenido para Mario Kart Wii) creó Auto Wiimmfi Patcher, una aplicación que te permite parchear de forma temporal un juego de disco para poder conectarte a Wiimmfi. Sin embargo, deberás usar esta aplicación cada vez que quieras jugar en línea dicho juego.
 
 #### Requisitos
 * Una tarjeta SD o unidad USB
@@ -30,7 +30,7 @@ MrBean35000vr (creador de CTGP-R, un paquete de contenido para Mario Kart Wii) c
 4. Espera unos segundos y tu juego se iniciará. ¡Ahora puedes conectarte a Wiimmfi!
 
 ### Método sin homebrew (sólo para discos)
-Gracias al exploit str2hax creado por Fullmetal5, el cual Leseratte fue capaz de adaptar para el parche de Wiimmfi, puedes ejecutar el parche incluso si no tienes modificada tu consola.
+Gracias al exploit str2hax creado por Fullmetal5, el cual Leseratte fue capaz de adaptar para el parche de Wiimmfi, podrás ejecutar el parche incluso si no tienes modificada tu consola.
 
 #### Requisitos
 * Un Wii con conexión a internet
@@ -49,32 +49,32 @@ Gracias al exploit str2hax creado por Fullmetal5, el cual Leseratte fue capaz de
 Tal vez no quieras tener que iniciar el parche cada vez que desees jugar en Wiimmfi, y tal vez ya estés usando un USB loader. Por esta razón, también es posible parchear los juegos guardados en una unidad USB.
 
 #### Requisitos
-- La copia de tu juego (los formatos WBFS, ISO y cISO están soportados).
-- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows only)  
+- La copia de tu juego (es formato WBFS, ISO o cISO).
+- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (sólo para Windows)  
 **or**
-- Wiimm's Disc Patcher (cross platform)
-   - [Mario Kart Wii edition](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip)
-   - [Non-Mario Kart Wii edition](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z)
-- A USB Loader, cIOS, and a USB to store the game on (you should already have these if you're using a USB Loader)
+- Wiimm's Disc Patcher
+   - [Versión para Mario Kart Wii](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip)
+   - [Versión para otros juegos](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z)
+- USB loader, cIOS, y una unidad USB para guardar el juego (ya deberías de tener estas cosas si ya estás usando un USB loader)
 
 #### Instrucciones
 1. Extrae el parche de tu elección y después coloca la copia del juego en la misma carpeta.
-2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the patcher for your game.
+2. Ejecuta la versión del parche apropiada para tu sistema operativo: el archivo `.bat` es para Windows y el archivo `.sh` es para Mac/Linux. Si estás usando el RiiConnect24 Patcher, selecciona tu consola (Wii, vWii o Dolphin) y después elige el parche adecuado.
 3. Una vez terminado el proceso, copia a tu unidad USB el juego parcheado que está ubicado en la carpeta `wiimmfi-images`.
 
 ### Parchear automáticamente usando un USB loader
-Si ya estás usando un USB loader como USB Loader GX o WiiFlow Lite, es posible parchear tus juegos de forma automática con sólo activar una opción. Este método es el más sencillo y eficiente de todos. Sólo tienes ir a los ajustes globales del USB loader, buscar una opción llamada "Servidor privado" y ajustarla en "Wiimmfi" para hacer que todos tus juegos sean parcheados automáticamente antes de iniciarse.
+Si ya estás usando un USB loader como USB Loader GX o WiiFlow Lite, es posible parchear tus juegos de forma automática con sólo activar una opción. Este método es el más sencillo y eficiente de todos, además también funciona con discos. Sólo tienes ir a los ajustes globales del USB loader, buscar una opción llamada "Servidor privado" y ajustarla en "Wiimmfi" para hacer que todos tus juegos sean parcheados automáticamente antes de iniciarse.
 
 ### Parchear WiiWare
-También es posible parchear juegos WiiWare para jugarlos en Wiimmfi.
+También es posible parchear juegos de WiiWare para jugarlos en Wiimmfi.
 
 #### Requisitos
 
 - Una tarjeta SD
-- Una copia de tu juego (en formato WAD)
-- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows only)  
+- Una copia de tu juego en formato WAD
+- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (sólo para Windows)  
 **or**
-- [Auto WiiWare Patcher](https://github.com/RiiConnect24/auto-wiiware-patcher/releases) (cross platform)
+- [Auto WiiWare Patcher](https://github.com/RiiConnect24/auto-wiiware-patcher/releases)
 - [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
 [Si quieres saber cómo usar Auto WiiWare Patcher, ¡haz clic aquí!](wiiwarepatcher)
@@ -82,7 +82,7 @@ También es posible parchear juegos WiiWare para jugarlos en Wiimmfi.
 
 Instrucciones:
 1. Extrae Auto WiiWare Patcher y después coloca tu WAD en la misma carpeta.
-2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
+2. Ejecuta la versión del parche apropiada para tu sistema operativo: el archivo `.bat` es para Windows y el archivo `.sh` es para Mac/Linux. Si estás usando el RiiConnect24 Patcher, selecciona tu consola (Wii, vWii o Dolphin) y después elige `WiiWare Patcher`.
 3. Una vez que el proceso haya finalizado, instala el WAD parcheado ubicado en la carpeta `wiiware-wads` usando Wii Mod Lite.
 
 ## Otras cosas
@@ -106,7 +106,7 @@ Wiimmfi también te permite participar nuevamente en torneos de Mario Kart Wii.
 5. Inicia Mario Kart Wii Competition Patcher desde el Canal Homebrew.
 6. El parche buscará datos de guardado de Mario Kart Wii en tus dispositivos de almacenamiento insertados y los enviará a los servidores de Wiimmfi. Esto se hace en caso de que en tus datos de guardado llegaras a tener uno de los torneos faltantes. También, por supuesto, registrará tu Wii para que puedas recibir los torneos.
 
-Si estás usando un Wii U, tendrás que iniciar el parche cada vez que quieras buscar un torneo nuevo, debido a que WiiConnect24 está desactivado en el Wii U.
+Si estás usando un Wii U, tendrás que iniciar el parche cada vez que quieras buscar un torneo nuevo, debido a que WiiConnect24 está desactivado en el vWii.
 {: .notice--info}
 
 ### CTGP-R (Mario Kart Wii)
@@ -118,5 +118,5 @@ Huili ha creado una muy buena colección de circuitos personalizados y hacks lla
 ### Wiimm's MKW Fun (Mario Kart Wii)
 Wiimm y Leseratte tienen una distribución de circuitos personalizados llamada "Wiimm's MKW Fun", la cual es actualizada alrededor de tres veces al año. Está basada en el sistema LE-CODE de Leseratte y de igual manera permite conectarse a Wiimmfi, además de muchas otras características. Pues leer más visitando la [wiki](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
 
-[Echa un vistazo a nuestras demás guías Tenemos muchos otros tutoriales que podrían interesarte.](site-navigation)
+[Echa un vistazo a nuestras demás guías. Tenemos muchos otros tutoriales que podrían interesarte.](site-navigation)
 {: .notice--info}
