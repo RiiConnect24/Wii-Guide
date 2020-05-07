@@ -9,7 +9,7 @@ En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por f
 
 ¿Estás cansado del aburrido tema blanco del menú de Wii y te gustaría cambiarlo por uno mejor? En esta guía te explicaremos cómo instalar un tema nuevo para tu menú de Wii
 
-En caso de un brick, para repararlo es necesario tener instalado [Priiloader](/priiloader). También es recomendable instalar BootMii (si es posible, como boot2). Tener algún tipo de protección contra bricks instalada junto con seguir la guía de forma correcta te mantendrá protegido contra bricks. ¡NO CONTINÚES SI NO TIENES PRIILOADER Y BOOTMII INSTALADOS!
+En caso de un brick, para repararlo es necesario tener instalado [Priiloader](priiloader). También es recomendable instalar BootMii (si es posible, como boot2). Tener algún tipo de protección contra bricks instalada junto con seguir la guía de forma correcta te mantendrá protegido contra bricks. ¡NO CONTINÚES SI NO TIENES PRIILOADER Y BOOTMII INSTALADOS!
 {: .notice--warning}
 
 ¡No instales un tema en el modo Wii del Wii U (vWii)! Si lo haces, tu vWii quedará brickeado.
