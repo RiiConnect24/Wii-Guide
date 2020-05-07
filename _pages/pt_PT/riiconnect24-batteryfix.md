@@ -1,5 +1,5 @@
 ---
-title: "RiiConnect24 Battery Fix"
+title: "Reparação da bateria RiiConnect24"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -16,7 +16,7 @@ If you're getting error FORE000006, usually it means "invalid data". It could be
 
 If the error code still remains, the time on your Wii might be incorrect, confusing the Channels. These instructions might be worth a shot.
 
-#### What you need
+#### O que precisas
 
 * Crosshead Phillips #00 screwdriver ![Crosshead Phillips #00 Screwdriver](/images/RiiConnect24/clock/screwdriver.jpg)
 
