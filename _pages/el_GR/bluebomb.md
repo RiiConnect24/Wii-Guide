@@ -14,7 +14,7 @@ title: "BlueBomb"
 Για το παλιό Wii, προτείνουμε να χρησιμοποιήσετε μία [άλλη εκμετάλλευση](/get-started) για την εγκατάσταση του καναλιού Homebrew και/ή του BootMii.
 {: .notice--info}
 
-Αυτή η εκμετάλλευση δεν λειτουργεί στην λειτουργία Wii ενός Wii U. Please follow [this guide](https://wiiuguide.xyz/#/vwii-modding) instead.
+Αυτή η εκμετάλλευση δεν λειτουργεί στην λειτουργία Wii ενός Wii U. Παρακαλώ ακολουθήστε [αυτόν τον οδηγό](https://wiiuguide.xyz/#/vwii-modding) αντί για αυτόν.
 {: .notice--warning}
 
 #### Μέρος I - Τι χρειάζεστε
