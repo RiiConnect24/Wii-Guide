@@ -25,14 +25,14 @@ Puedes ejecutar homebrew en tu Nintendo Wii de forma gratuita usando uno de los 
 La siguiente es una lista de cosas que puedes hacer con homebrew. Estas no son las únicas cosas que puedes hacer con homebrew, sin embargo, te dará una idea de lo que puedes hacer. Nuestra guía te ayudará a modificar tu consola de forma sencilla y segura.
 
 - Cargar modificaciones personalizadas de juegos de Wii usando [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
-- Instalar temas para el menú de Wii usando [MyMenuify](/themes).
+- Instalar temas para el menú de Wii usando [MyMenuify](themes).
 - Instalar un USB loader como [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) o [USB Loader GX](/usbloadergx) para cargar títulos desde una unidad USB y más.
-- Hacer copias de juegos de Wii y GameCube con [CleanRip](/dump-games) y de canales instalados con [YABDM](/dump-wads)
+- Hacer copias de juegos de Wii y GameCube con [CleanRip](dump-games) y de canales instalados con [YABDM](/dump-wads)
 - Respaldar y restaurar datos de guardado con [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
-- Descargar nuevas aplicaciones homebrew con el [Homebrew Browser](/hbb)
-- Usar nuevamente los servicios descontinuados [WiiConnect24](/riiconnect24) y la [CWF de Nintendo](/wiimmfi).
+- Descargar nuevas aplicaciones homebrew con el [Homebrew Browser](hbb)
+- Usar nuevamente los servicios descontinuados [WiiConnect24](riiconnect24) y la [CWF de Nintendo](wiimmfi).
 - Respaldar y restaurar copias de la memoria interna de la consola usando [BootMii](http://bootmii.org).
-- Proteger tu consola de bricks usando [Priiloader](/priiloader) y BootMii.
+- Proteger tu consola de bricks usando [Priiloader](priiloader) y BootMii.
 - Convertir tu consola en un reproductor multimedia con [WiiMC](http://www.wiimc.org/).
 
 Comienza por [elegir un exploit](get-started)!
