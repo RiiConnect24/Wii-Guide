@@ -50,11 +50,11 @@ Tal vez no quieras tener que iniciar el parche cada vez que desees jugar en Wiim
 
 #### Requisitos
 - La copia de tu juego (los formatos WBFS, ISO y cISO están soportados).
-- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows only)  
-**or**
-- Wiimm's Disc Patcher (cross platform)
-   - [Mario Kart Wii edition](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip)
-   - [Non-Mario Kart Wii edition](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z)
+- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (sólo para Windows)  
+**o**
+- Wiimm's ISO Patcher (multiplatforma)
+   - [Parche para Mario Kart Wii](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip)
+   - [Parche para otros juegos](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z)
 - A USB Loader, cIOS, and a USB to store the game on (you should already have these if you're using a USB Loader)
 
 #### Instrucciones
