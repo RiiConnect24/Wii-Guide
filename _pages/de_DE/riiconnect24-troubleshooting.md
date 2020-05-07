@@ -1,5 +1,5 @@
 ---
-title: "RiiConnect24 Fehlerbehebung"
+title: "Riiconnect24-troubleshooting"
 ---
 
 {% include toc title="Inhaltsverzeichnis" %}
