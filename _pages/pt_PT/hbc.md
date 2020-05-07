@@ -15,7 +15,7 @@ The Homebrew Channel is where you will go to launch homebrew applications. BootM
 
 1. You will see a scam warning screen. Wait 30 seconds for the text "Press 1 to continue" to appear, then press 1. ![Scam Screen](/images/Wii/ScamScreen.png)
 
-2. When at the HackMii installer, you are able to install the Homebrew Channel and BootMii. ![Results](/images/Wii/Results.png)
+2. When at the HackMii installer, you are able to install the Homebrew Channel and BootMii. ![Resultados](/images/Wii/Results.png)
 
 3. Press Continue, then select the Homebrew Channel, and press install. ![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
