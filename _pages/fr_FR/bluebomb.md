@@ -21,7 +21,7 @@ Cet exploit ne fonctionne pas dans le mode vWii de la Wii U. Please follow [this
 - Un ordinateur sous Linux
   - SI vous utilisez un Chromebook, vous n'avez pas besoin d'installer un autre système d'exploitation ; à la place, activez [Linux dans ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en) (lien en anglais).
   - Si vous avez un Raspberry Pi, vous pouvez l'utiliser puisque Linux y est la plupart du temps préinstallé.
-  - Le Sous-système Linux pour Windows ne fonctionnera **pas**, car il ne peut pas accéder à `systemctl`.
+  - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports
   - SI vous n'avez pas Linux, [Ubuntu](https://ubuntu.com/download/desktop) est l'option la plus simple d'utilisation.
     - Les appareils 32-bit doivent installer [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
     - Pour les appareils 64-bit, il est recommandé d'utiliser l'édition LTS pour sa stabilité, mais la dernière version marche également.
