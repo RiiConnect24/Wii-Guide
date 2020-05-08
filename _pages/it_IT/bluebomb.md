@@ -1,5 +1,5 @@
 ---
-title: "BombaBlu"
+title: "BlueBomb"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -21,7 +21,7 @@ Questo exploit non funziona sulla Wii virtuale della Wii U. Per favore segui [ q
 - Una macchina Linux
   - Se stai usando un Chromebook, non hai bisogno di installare un altro Sistema Operativo; invece, attiva [Linux in ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en).
   - Se possiedi un Raspberry Pi, puoi usarlo siccome ha molto probabilmente Linux per-installato.
-  - Usando il Windows Subsystem per Linux non**potrà**funzionare, per via della impossibilità di accedere a`systemctl`.
+  - Il Windows Subsystem per Linux *non funzionerà * perché non ha accessp diretto ad un adattatore Bluetooth o porte USB
   - Se non hai un Linux,[Ubuntu](https://ubuntu.com/download/desktop)è l'opzione più semplice da usare
     - I Sistemi a 32-bit richiedono [Ubuntu 16.04](http://releases.ubuntu.com/16.04/)
     - Per sistemi 64-bit è consigliato usare l'edizione LTS per via della sua stabilità, ma anche le versioni future funzioneranno.
