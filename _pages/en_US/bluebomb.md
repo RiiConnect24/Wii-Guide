@@ -21,7 +21,7 @@ This exploit will not work on a Wii U's vWii. Please follow [this guide](https:/
 - A Linux machine
   - If you are using a Chromebook, you do not need to install another Operating System; instead, enable [Linux in ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en).
   - If you have a Raspberry Pi, you can use that instead as it most likely has Linux preinstalled.
-  - Using Windows Subsystem for Linux will **not** work, due to the inability to access `systemctl`.
+  - Using Windows Subsystem for Linux will **not** work, due to WSL's inability to utilize the bluetooth adapter.
   - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option
     - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/)
     - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
