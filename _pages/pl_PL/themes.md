@@ -9,7 +9,7 @@ Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz d
 
 Jesteś znudzony nudnym, białym wyglądem Wii Menu i chcesz zainstalować jakiś fajny motyw? Ten poradnik pomoże Ci zainstalować nowy motyw dla Twojego Wii Menu!
 
-W przypadku bricka, [instalacja Priiloadera jest wymogiem](/priiloader). Również, zainstaluj BootMii (jako boot2 jeżeli masz starsze Wii). Zainstalowanie ochrony przed brickiem oraz poprawne podążenie za tym poradnikiem ochroni Cię przed zbrickowaniem Twojej konsoli. NIE KONTYNUUJ DOPÓKI NIE ZAINSTALUJESZ PRIILOADERA I BOOTMII!
+In the case of a brick, [installing Priiloader is a must](priiloader). Również, zainstaluj BootMii (jako boot2 jeżeli masz starsze Wii). Zainstalowanie ochrony przed brickiem oraz poprawne podążenie za tym poradnikiem ochroni Cię przed zbrickowaniem Twojej konsoli. NIE KONTYNUUJ DOPÓKI NIE ZAINSTALUJESZ PRIILOADERA I BOOTMII!
 {: .notice--warning}
 
 Nie instaluj żadnego motywu na vWii (Wii U)! Zrobienie tego, zbrickuje Twoją konsolę.
@@ -63,7 +63,7 @@ UPEWNIJ SIĘ, ŻE PRZECZYTASZ WSZYSTKIE OSTRZEŻENIA PRZED KONTYNUOWANIEM!
 1. Wypakuj MyMenuify Mod oraz skopiuj go do folderu `apps` na Twojej karcie SD lub urządzeniu USB.
 2. Skopiuj plik .csm, który własnie zapisałeś do folderu `modthemes` na Twojej karcie SD lub urządzeniu USB.
 3. Podłącz Twoją kartę SD lub urządzenie USB do Twojego Wii oraz uruchom MyMenuify Mod korzystając z Homebrew Channel.
-4. Po wiadomości powitalnej, zostaniesz zapytany jakie IOS chcesz użyć dla tej aplikacji. Jeżeli masz [zainstalowane cIOS](/pages/cios), użyj `IOS249`, inaczej - użyj `IOS58`. Jeżeli pokaże się błąd `Exception DSI occurred!`, naciśnij RESET na Twojej konsoli, uruchom program ponownie oraz użyj `IOS250`.
+4. After an introduction message, it will ask you what IOS you want to use in the app. If you have [installed cIOS](cios), use `IOS249`, or else use `IOS58`. Jeżeli pokaże się błąd `Exception DSI occurred!`, naciśnij RESET na Twojej konsoli, uruchom program ponownie oraz użyj `IOS250`.
 5. Podświetl motyw, który chcesz zainstalować oraz naciśnij A. Poczekaj chwilę aż motyw się zainstaluje oraz naciśnij dowolny przycisk aby powrócić do Wii Menu. Miejmy nadzieję, że motyw został zainstalowany pomyślnie.
 
 Jeżeli otrzymasz błąd o treści "The system files are corrupted", nie panikuj - masz zainstalowanego Priiloadera. Wyłącz Twoją konsolę Wii, przytrzymaj przycisk RESET oraz włącz Twoją konsolę. Powinieneś się pojawić w menu Priiloadera. Są tam opcje przydatne do odzyskania Twojej konsoli. Jedną z opcji jest uruchomienie Homebrew Launcher. Możesz w nim uruchomić MyMenuify Mod i nacisnąć przycisk aby pobrać i zainstalować oryginalny motyw Wii Menu.
