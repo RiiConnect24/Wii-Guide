@@ -9,7 +9,7 @@ Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [Rii
 
 Bist du das langweilige, triste, weiße Design deines Wii-Menüs satt und hättest stattdessen ein cooles Design? Diese Anleitung hilft dir ein neues Design für dein Wii-Menü zu bekommen!
 
-Für den Fall eines Bricks [ist die Installation von Priiloader ein Muss](/priiloader). Installiere außerdem BootMii (als boot2, falls du eine ältere Wii hast). Die Installation von Brick-Schutz, sowie das richtige Befolgen der Anleitung sollte dich sicher vor Bricks bewahren. FAHRE NICHT FORT, BIS DU PRIILOADER UND BOOTMII INSTALLIERT HAST!
+In the case of a brick, [installing Priiloader is a must](priiloader). Installiere außerdem BootMii (als boot2, falls du eine ältere Wii hast). Die Installation von Brick-Schutz, sowie das richtige Befolgen der Anleitung sollte dich sicher vor Bricks bewahren. FAHRE NICHT FORT, BIS DU PRIILOADER UND BOOTMII INSTALLIERT HAST!
 {: .notice--warning}
 
 Installiere kein alternatives Design auf deiner vWii (Wii U)! Das wird es bricken.
@@ -63,7 +63,7 @@ LIES DIR AUF JEDEN FALL DIE WARNHINWEISE OBEN DURCH, BEVOR DU FORTFÄHRST!
 1. Entpacke MyMenuify Mod und verschiebe es in den `apps`-Ordner auf deiner SD-Karte bzw. deinem USB-Laufwerk.
 2. Verschiebe die `.csm`-Datei, die du gespeichert hast, in einen Ordner namens `modthemes` auf deiner SD-Karte bzw. deinem USB-Laufwerk.
 3. Verbinde deine SD-Karte bzw. dein USB-Laufwerk mit deiner Wii und starte MyMenuify Mod über den Homebrew-Kanal.
-4. Nach einer Meldung beim Start wirst du gefragt, welches IOS du in der Anwendung verwenden möchtest. Falls du [cIOS installiert hast](/pages/cios), nutze `IOS249`, andernfalls `IOS58`. Falls dir erstgenanntes einen `Exception DSI occurred!`-Fehler liefern sollte, drücke die RESET-Taste an der Wii-Konsole, starte es erneut und wähle diesmal jedoch `IOS250`.
+4. After an introduction message, it will ask you what IOS you want to use in the app. If you have [installed cIOS](cios), use `IOS249`, or else use `IOS58`. Falls dir erstgenanntes einen `Exception DSI occurred!`-Fehler liefern sollte, drücke die RESET-Taste an der Wii-Konsole, starte es erneut und wähle diesmal jedoch `IOS250`.
 5. Markiere das Design welches du installieren möchtest und drücke den A-Knopf. Warte einen Moment, bis das Design installiert ist und drücke anschliessend eine beliebige Taste, um zum Wii-Menü zurückzukehren. Hoffentlich wurde das Design korrekt installiert.
 
 Falls du den Fehler "The system files are corrupted" bekommst, gerate nicht in Panik, solange du Priiloader installiert hast. Schalte deine Wii aus und halte dann die RESET-Taste, während du deine Wii anschaltest. Du solltest nun im Priiloader-Menü landen, wo du einige Möglichkeiten hast, um dein Wii-Menü zu reparieren. Einer der Einträge ist das Starten des Homebrew-Kanals, von wo aus du MyMenuify Mod starten kannst und einen Taste zum Herunterladen und Installieren des ursprünglichen Wii-Menü-Designs drücken kannst.
