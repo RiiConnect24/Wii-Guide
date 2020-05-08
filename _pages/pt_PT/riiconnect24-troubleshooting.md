@@ -40,9 +40,9 @@ SE estás a obter um destes erros (e não outro erro qualquer), deves corrigir o
 3. Pressiona Back até chegares ao ecrã do explorador de ficheiros.
 4. Seleciona o pequeno ícone azul do cartão SD, depois seleciona `NAND`.
 5. Navega até `title` -> `00010002` -> XXXXXXXX -> `data`, onde XXXXXXXX é uma das pastas acima.
-6. Hover over `wc24dl.vff` and press the + button and select `Delete`.
+6. Passa o `wc24dl.vff` e pressiona o botão + e seleciona `Delete`.
 
-Try to launch the Channel you were having trouble with now.
+Tenta abrir o canal que estavas a ter problemas até agora.
 
-[Return to RiiConnect24 installation page](riiconnect24)
+[Volta para a página de instalação do RiiConnect24](riiconnect24)
 {: .notice--info}
