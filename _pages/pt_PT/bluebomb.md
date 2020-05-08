@@ -21,7 +21,7 @@ Esta vulnerabilidade não resultará na vWii da Wii U. Por favor segue [este gui
 - Uma máquina Linux
   - Se estás a utilizar um Chromebook, não precisas de instalar outro Sistema Operacional; em vez disto, ativa [ Linux no ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en).
   - Se tens um Raspberry Pi, podes utilizá-lo porque ele tem o Linux pré-instalado.
-  - Utilizando um subsistema Windows para Linux ** não ** ira funcionar, devido à inabilidade em aceder `systemctl`.
+  - Subsistema Windows para Linux *não funcionará* pois não tem acesso direto ao adaptador Bluetooth ou entradas USB
   - Se tu não tens Linux, [Ubuntu](https://ubuntu.com/download/desktop) é a opção mais amigável
     - Dispositivos de 32-bit requerem [Ubuntu 16.04](http://releases.ubuntu.com/16.04/)
     - Para dispositivos 64-bit é recomendado que utilizes a edição LTS devido à estabilidade, mas a versão mais recente também funciona.
@@ -46,7 +46,7 @@ chmod +x bluebomb-helper.sh
 ./bluebomb-helper.sh
 ```
 1. O ajudante descarregará os ficheiros necessários; e perguntará por informações sobre a tua consola.
-  - Se tu selecionaste a Wii Mini, serás solicitado a fornecer a tua região. Isto pode ser determinado pela ultima letra da versão do Sistema Menu (`U` para **EUA** e `E` para ** PAL** modelos).
+  - Se tu selecionaste a Wii Mini, serás solicitado a fornecer a tua região. Isto pode ser determinado pela ultima letra da versão do Sistema Menu (`U` para **EUA** e `E` para modelos ** PAL**).
   - Se selecionaste a Wii serás solicitado a fornecer a tua versão do Sistema Menu (O que anotaste no passo 4)
 1. Liga a tua consola e **não** conectes nenhum Wiimote.
 1. Pressiona o botão Sync repetidamente até ao terminal mostrar `got connection handle`. Poderá levar a numerosas tentativa, por isso não desistas.
