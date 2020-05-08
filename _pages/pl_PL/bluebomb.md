@@ -21,7 +21,7 @@ Ten exploit nie zadziała na vWii (Tryb Wii w Wii U) Zamiast tego, skorzystaj z 
 - Komputera z systemem operacyjnym Linux
   - Jeżeli korzystasz z Chromebook'a, nie musisz instalować innego systemu operacjnego; zamiast tego, włącz [Trybu Linux'a w ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=pl).
   - Jeżeli masz Raspberry Pi, możesz z niego skorzystać, ponieważ prawdopodobnie masz na nim zainstalowanego Linux'a.
-  - **Nie** możesz skorzystać z Podsystemu Windows dla systemu Linux z powodu braku dostępu do `bluetoothctl`.
+  - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports
   - Jeżeli nie masz na komputerze Linux'a, [Ubuntu](https://ubuntu.com/download/desktop) jest najprzyjaźniejszą dla użytkownika opcją
     - Urządzenia 32 bitowy będą wymagały [Ubuntu 16.04](http://releases.ubuntu.com/16.04/)
     - Dla 64 bitowych urządzeń, zalecamy skorzystanie z edycji LTS z powodu jej stabilności. Najnowsza wersja również zadziała.
