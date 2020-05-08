@@ -21,7 +21,7 @@ title: "BlueBomb"
 - Έναν υπολογιστή Linux
   - Αν χρησιμοποιείτε Chromebook, δεν χρειάζεται να εγκαταστήσετε άλλο Λειτουργικό Σύστημα·αντίθετα, ενεργοποιήστε το [ Linux για ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en).
   - Αν έχετε Raspberry Pi, μπορείτε να χρησιμοποιήσετε αυτό καθώς είναι πολύ πιθανό να έχει Linux προεγκατεστημένο.
-  - Η χρήση του υποσυστήματος Linux για Windows **δεν** θα λειτουργήσει, λόγω της αδυναμίας χρήσης του `systemctl`.
+  - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports
   - Αν δεν έχετε Linux, το [Ubuntu](https://ubuntu.com/download/desktop) είναι η πιο φιλική προς τη χρήση επιλογή
     - Συσκευές 32-bit χρειάζονται το [Ubuntu 16.04](http://releases.ubuntu.com/16.04/)
     - Για συσκευές 64-bit προτείνεται η έκδοση μακράς διάρκειας για σταθερότητα, αλλά η τελευταία έκδοση λειτουργεί επίσης.
