@@ -20,7 +20,7 @@ If the error code still remains, the time on your Wii might be incorrect, confus
 
 * Crosshead Phillips #00 screwdriver ![Crosshead Phillips #00 Screwdriver](/images/RiiConnect24/clock/screwdriver.jpg)
 
-#### Instructions
+#### Instruções
 
 1. Set your Wii to the correct time in Wii Settings.
 2. Unplug your Wii AC adapter. You'll need to open up a battery cover on the side of your Wii, so you might want to remove everything plugged into your Wii. ![Unplug Wii AC Adapter](/images/RiiConnect24/clock/unplug.jpg)
