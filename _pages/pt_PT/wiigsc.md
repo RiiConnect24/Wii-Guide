@@ -1,10 +1,10 @@
 ---
-title: "Creating Wii Game Shortcuts"
+title: "Criando atalhos jogos Wii"
 ---
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor entra no [server do RiiConnect24 no Discord](https://discord.gg/b4Y7jfD) (recomendado) ou [envia-nos um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Do you use a USB Loader and want to create game shortcuts to launch them on your Wii Menu? Then try WiiGSC (Wii Game Shortcut Creator), previously known as Crap.
@@ -12,15 +12,15 @@ Do you use a USB Loader and want to create game shortcuts to launch them on your
 In the case of a brick, [installing Priiloader is a must](/priiloader). Also, install BootMii (as Boot2 if you have an early Wii). Installing brick protection along with following the guide correctly should keep you safe from bricks. DO NOT CONTINUE UNTIL YOU HAVE INSTALLED PRIILOADER AND BOOTMII!
 {: .notice--warning}
 
-#### What you need
+#### O que precisas
 
-* A Wii
-* A USB Drive.
+* Uma Wii
+* Um Drive USB.
 * A WAD Manager (Wii Mod Lite is recommended).
 * A Windows computer.
 * [WiiGSC](https://wiidatabase.de/downloads/pc-tools/wiigsc-ehemals-crap/)
 
-#### Instructions
+#### Instruções
 
 1. Install WiiGSC and then open it.
 2. Select the path to the ISO or WBFS file on your USB Drive, and select the USB Loader you use. The other options should be fine the way thy are.
