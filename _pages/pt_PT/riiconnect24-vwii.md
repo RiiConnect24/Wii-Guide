@@ -22,7 +22,7 @@ We are **NOT** responsible if you brick, or damage your console in any way whats
 Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on Wii U). If you're looking for instructions for a Nintendo Wii, use [wii.guide/riiconnect24](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [wii.guide/riiconnect24-dolphin](/riiconnect24-dolphin)
 {: .notice--warning}
 
-#### What you need
+#### O que precisas
 
 * A PC or mobile device with internet access and the ability to interact with SD cards.
 * An SD card formatted as FAT32 (at least 2GB) with enough available space. SDHC or SDXC cards formatted as FAT32 can be known to work.
@@ -36,7 +36,7 @@ After following the above linked guide, you should have:
 * IOS80 patched
 {: .notice--info}
 
-#### Instructions
+#### Instruções
 
 If you use GNU/Linux or macOS on your PC, or use a smartphone, please [follow the manual guide](https://pad.snopyta.org/s/rJ2N0B1XU), to install RiiConnect24. The patcher we provide is currently Windows-only. The end result is the same regardless of the method followed.
 {: .notice--info}
@@ -51,8 +51,8 @@ Using the RiiConnect24 Patcher you should've downloaded earlier in [What you nee
 
 ##### Section II - Installing the newly patched WADs
 
-1. Open the Homebrew Channel
-2. Launch Wii Mod Lite
+1. Abre o Homebrew Channel
+2. Abre o Wii Mod Lite
 3. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 4. When `IOS31.wad` is highlighted, press +, then do the same for all the other WADs.
 5. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel
