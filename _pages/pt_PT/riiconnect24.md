@@ -50,7 +50,7 @@ Irás agora fazer patch no teu IOS, `IOS31` e `IOS80`. Isto será necessário pa
 4. (`If RiiConnect24 Patcher copied everything to the SD card or USB drive, you can skip this step`) Copy the `apps` and `wad` folder to your SD card or USB drive.
 5. Put your SD card or USB drive in your Wii.
 6. Launch the Homebrew Channel on your Wii.
-7. Launch Wii Mod Lite.
+7. Abre o Wii Mod Lite.
 8. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 9. When `IOS31.wad` is highlighted, press +, then do the same for all the other WADs.
 10. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted WAD to uninstall it, then try installing it again.
@@ -91,7 +91,7 @@ You need to set your DNS in order to get the Forecast and News Channel to point 
 16. Finally, go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`. Please read through this.
 
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. Isto é opcional para instalar.
 {: .notice--info}
 
 If you get error 107245, then you probably have failed to patch your IOS correctly.
