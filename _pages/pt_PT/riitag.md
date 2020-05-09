@@ -13,11 +13,11 @@ RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynam
 
 * A computer
 * A text editor
-* A USB Loader
+* Um USB Loader
 
-#### Instructions
+#### Instruções
 
-##### Section I - Getting Started
+##### Secção I - Começando
 
 1. [Go to the RiiTag site.](https://tag.rc24.xyz/)
 2. Click `Log In` and log in with your Discord account.
@@ -40,7 +40,7 @@ The steps to connect RiiTag to your USB Loader depend on what USB Loader you use
 3. Ensure that `Initialize Network` is turned on.
 4. Exit USB Loader GX.
 5. Insert the SD Card or USB device where your USB Loader GX data is into your computer.
-6. [Go to this page.](https://tag.rc24.xyz/Wiinnertag.xml)
+6. [Vai a esta página.](https://tag.rc24.xyz/Wiinnertag.xml)
 7. On your browser, right click, and click `Save As`.
 8. Save the XML to `/apps/usbloader_gx`  folder on your SD Card or USB device, replacing the existing `Wiinnertag.xml`.
 9. You have now set up RiiTag. You can try loading any game now to see if it works correctly.
