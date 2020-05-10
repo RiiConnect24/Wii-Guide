@@ -28,5 +28,5 @@ Queres fazer uma cópia dos teus jogos? Este tutorial irá explicar-te como util
 1. Seleciona o teu dispositivo que irás guardar a tua cópia do jogo - o teu USB drive ou cartão SD. ![Device type](/images/CleanRip/2.png)
 1. Neste ecrã, irá te perguntar se queres descarregar um ficheiro com somas de verificação para verificar se a cópia criada foi bem-sucedida. Fica ao teu critério escolher `Yes` ou `No` para descarregar este ficheiro. ![DAT](/images/CleanRip/3.png)
 1. Agora insere o jogo que queres copiar. ![DVD](/images/CleanRip/4.png) ![Initialising Disc](/images/CleanRip/5.png)
-1. Set it as shown on the screen below.<br>If you know that you are dumping a game that uses a dual layer disc, like `Super Smash Bros. Brawl` or `Metroid: Other M`, set `Dual Layer` to `Yes`. ![Settings](/images/CleanRip/6.png)
-1. CleanRip will now dump your game. It can take a while, since it will dump the full 4.7GB disc contents (9.4 for dual layer discs). ![Copying](/images/CleanRip/7.png)
+1. Configura como está no ecrã abaixo.<br>Se sabes que o jogo que estás a copiar utiliza um disco dual layer, como `Super Smash Bros. Brawl` ou `Metroid: Other M`, configura `Dual Layer` para `Yes`. ![Settings](/images/CleanRip/6.png)
+1. CleanRip fará agora uma copia do teu jogo. Pode demorar um bocado, pois copiará todo o conteúdo do disco de 4.7GB (9.4 para discos dual layer). ![Copying](/images/CleanRip/7.png)
