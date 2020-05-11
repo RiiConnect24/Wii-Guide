@@ -21,7 +21,7 @@ Dieser Exploit wird nicht auf der vWii einer Wii U funktionieren. Bitte folge st
 - Ein Linux-Computer
   - Wenn du ein Chromebook benutzt, musst du nicht noch ein anderes Betriebssystem installieren; Aktiviere stattdessen [Linux auf ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=de).
   - Falls du einen Raspberry Pi besitzt, kannst du diesen stattdessen verwenden, da dort Linux wahrscheinlich bereits vorinstalliert ist.
-  - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports
+  - Das Windows Subsystem for Linux wird *nicht funktionieren*, da es keinen direkten Zugriff auf den Bluetooth-Adapter oder die USB-Ports hat
   - Falls du kein Linux besitzt, ist [Ubuntu](https://ubuntu.com/download/desktop) die benutzerfreundlichste Wahl
     - 32-Bit-Geräte werden [Ubuntu 16.04](http://releases.ubuntu.com/16.04/) benötigen
     - Für 64-Bit-Geräte wird aufgrund der Stabilität eine LTS-Version empfohlen, aber die aktuellsten Versionen funktionieren ebenfalls.
