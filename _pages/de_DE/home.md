@@ -25,14 +25,14 @@ Die Benutzung von Homebrew auf deiner Wii ist mithilfe verschiedener Exploits ko
 Hier eine Liste verschiedener Möglichkeiten. Auch wenn dies nicht alles ist, was man mit Homebrew machen kann, so sollte es dir einen Überblick darüber geben, was möglich ist. Unsere Anleitung wird dir dabei helfen, einen einfachen Einstieg zu finden.
 
 - Patche Spiele-Disc-Inhalte (was dir erlaubt, Spiele-Modifikationen zu laden) mit [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
-- Install themes to your Wii Menu using [MyMenuify](themes).
-- Install a USB Loader like [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
-- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](dump-wads)
+- Installiere Designs in deinem Wii-Menü mithilfe von [MyMenuify](themes).
+- Installiere einen USB Loader wie [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) oder [USB Loader GX](usbloadergx), um all deine Lieblings-Spiele von einem USB-Speichergerät zu starten und mehr.
+- Sichere deine Disks mit [CleanRip](/dump-games) und installierte Spiele mit [YABDM](dump-wads)
 - Sichere deine Speicherdateien mit [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
-- Download new homebrew apps with the [Homebrew Browser](hbb)
-- Restore discontinued online services, such as [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
+- Lade neue Homebrew-Anwendungen mit dem [Homebrew Browser](hbb) herunter
+- Stelle eingestellte Online-Dienste wieder her, wie [WiiConnect24](riiconnect24) & die [Nintendo WFC Dienste](wiimmfi).
 - Sichere Kopien des Speichers deiner Wii (NAND) und stelle sie wieder her mithilfe von [BootMii](http://bootmii.org).
-- Protect your Wii from bricks using [Priiloader](priiloader) and BootMii.
+- Schütze deine Wii vor Bricks mit [Priiloader](priiloader) und BootMii.
 - Verwende deine Wii als Media Player mit [WiiMC](http://www.wiimc.org/).
 
 Beginne mit der [Auswahl deines Exploits](get-started)!
