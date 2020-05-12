@@ -25,14 +25,14 @@ Puedes ejecutar homebrew en tu Nintendo Wii de forma gratuita usando uno de los 
 La siguiente es una lista de cosas que puedes hacer con homebrew. Estas no son las únicas cosas que puedes hacer con homebrew, sin embargo, te dará una idea de lo que puedes hacer. Nuestra guía te ayudará a modificar tu consola de forma sencilla y segura.
 
 - Parchear contenido de juegos físicos (permitiéndote así cargar modificaciones personalizadas) usando [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
-- Install themes to your Wii Menu using [MyMenuify](themes).
-- Install a USB Loader like [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
-- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](dump-wads)
+- Instalar temas a tu Menú de Wii usando [MyMenuify](themes).
+- Instalar un Cargador USB como [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) o [USB Loader GX](usbloadergx) para lanzar todos tus títulos favoritos desde un dispositivo de almacenamiento USB y más.
+- Haga una copia de seguridad de sus discos con [CleanRip](/dump-games) y juegos instalados y títulos con [YABDM](dump-wads)
 - Respaldar y restaurar tus datos de guardado con [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
-- Download new homebrew apps with the [Homebrew Browser](hbb)
-- Restore discontinued online services, such as [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
+- Descargar nueva aplicaciones de Homebrew con el [Homebrew Browser](hbb)
+- Restaurar servicios en línea descontinuados, como [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
 - Respaldar y restaurar copias de la memoria interna de la consola (NAND) usando [BootMii](http://bootmii.org).
-- Protect your Wii from bricks using [Priiloader](priiloader) and BootMii.
+- Protege tu Wii de bricks usando [Priiloader](priiloader) y BootMii.
 - Convertir tu consola en un reproductor multimedia con [WiiMC](http://www.wiimc.org/).
 
 Comienza por [elegir un exploit](get-started)!
