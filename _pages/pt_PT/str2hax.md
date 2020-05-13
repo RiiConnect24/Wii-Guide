@@ -41,7 +41,7 @@ Este exploit requer que configures o teu DNS para que conectes a um server que c
 1. Vai até à secção `Internet`, depois `User Agreements` ou `Agreement/Contact`, e depois `Yes`.
 2. Se tu vês um pónei no ecrã num fundo azul claro, tu configuraste corretamente. Espera 1-2 minutos para ativar o exploit (deve demorar cerca de 1 minuto e 25 segundos). O exploit irá descarregar o instalador HackMii para continuares.
 
-If the HackMii Installer doesn't load and it instead freezes (you can't move your cursor) or it doesn't take 1-2 minutes to trigger, please restart your Wii and retry the exploit.
+Se o Instalador HackMii não carregar e, em vez disso, congelar (não consegues mover o cursor) ou se passou mais de 2 minutos, por favor reinicia a Wii e tenta novamente o exploit.
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[Continua para a Instalação do Homebrew Channel e BootMii](hbc)
 {: .notice--info}
