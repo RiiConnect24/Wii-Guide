@@ -9,7 +9,7 @@ Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor 
 
 Este tutorial irá explicar-te como instalar WADs na tua Wii com Wii Mod Lite. O gerenciador WAD escolhido é o Wii Mod Lite, mas tem muitos outros como o YAWMM.
 
-We do not recommend using "WAD Manager" by Waninkoko.
+Nós não recomendamos utilizar o "WAD Manager" por Waninkoko.
 {: .notice--warning}
 
 #### O que precisas
@@ -20,16 +20,16 @@ We do not recommend using "WAD Manager" by Waninkoko.
 
 ##### Secção I - Descarregamento
 
-1. Extract Wii Mod Lite and put it in the `apps` folder on your SD card or USB drive. ![SD card Drag and Drop](/images/WiiModLite/1.gif)
-2. Insert your SD card or USB drive into your Wii, and launch Wii Mod Lite from the Homebrew Channel.
+1. Extrai o Wii Mod Lite e coloca-o na pasta `apps` no teu cartão SD ou USB drive. ![SD card Drag and Drop](/images/WiiModLite/1.gif)
+2. Insere o teu cartão SD ou USB drive na tua Wii, e abre o Wii Mod Lite a partir do Homebrew Channel.
 
-##### Section II - Running
+##### Section II - Executando
 
-You use the +Control Pad to use this tool.
+Utiliza o controlo direcional para esta ferramenta.
 {: .notice--info}
 
-1. Choose `WAD Manager`. ![WAD Manager](/images/WiiModLite/2.png)
-2. Choose `Wii SD Slot`. ![Wii SD Slot](/images/WiiModLite/3.png)
-3. Select the WAD you want to install. In this example, we're installing the patched IOS needed for [RiiConnect24](riiconnect24). You can mark multiple WADs by pressing the + Button. ![Select them](/images/WiiModLite/4.gif)
-4. Press "A" twice to start installing. ![Install](/images/WiiModLite/5.png) ![Install](/images/WiiModLite/6.png)
-5. If `Finishing installation... OK!` is displayed, the WAD has installed successfully. ![Complete](/images/WiiModLite/7.png) 
+1. Escolhe `WAD Manager`. ![WAD Manager](/images/WiiModLite/2.png)
+2. Escolhe `Wii SD Slot`. ![Wii SD Slot](/images/WiiModLite/3.png)
+3. Seleciona o WAD que queres instalar. Neste exemplo, nós iremos instalar o IOS patcheado para [RiiConnect24](riiconnect24). Podes marcar múltiplos WADs pressionando no botão +. ![Select them](/images/WiiModLite/4.gif)
+4. Pressiona "A" duas vezes para começar a instalar. ![Install](/images/WiiModLite/5.png) ![Install](/images/WiiModLite/6.png)
+5. Se aparecer `Finishing installation... OK!`, o WAD foi instalado com sucesso. ![Complete](/images/WiiModLite/7.png) 
