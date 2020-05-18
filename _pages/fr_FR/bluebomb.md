@@ -2,7 +2,7 @@
 title: "BlueBomb"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Table des matières" %}
 
 Si vous avez besoin d'aide concernant ce tutoriel, veuillez rejoindre [le serveur Discord "Wii Mini Hacking"](https://discord.gg/6ryxnkS) (recommandé, aide en anglais seulement)
 {: .notice--info}
@@ -14,7 +14,7 @@ Bluebomb est un exploit se servant d'une faille présente dans les librairies Bl
 Si vous souhaitez installer la Chaîne Homebrew et/ou BootMii sur une Wii originale, nous vous recommandons d'utiliser [un autre exploit](/get-started).
 {: .notice--info}
 
-Cet exploit ne fonctionne pas dans le mode vWii de la Wii U. Veuillez vous référer à [ce guide](https://wiiuguide.xyz/#/vwii-modding) à la place.
+Cet exploit ne fonctionnera pas dans le mode vWii de la Wii U. Veuillez vous référer à [ce guide](https://wiiuguide.xyz/#/vwii-modding) à la place.
 {: .notice--warning}
 
 #### Partie I - Ce dont vous avez besoin
