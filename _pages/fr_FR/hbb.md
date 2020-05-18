@@ -19,5 +19,5 @@ L'Homebrew Browser est un outil vous permettant de télécharger des application
 Dans le téléchargement pour l'Homebrew Browser vous trouverez un guide montrant comment l'utiliser.
 {: .notice--info}
 
-You can swap out ShopChannel.ogg with loop.ogg to have the Homebrew Browser play the Wii Shop Channel music.
+Vous pouvez changer le nom du fichier de ShopChannel.ogg à loop.ogg pour pouvoir entendre la musique de la Chaîne Boutique Wii dans l'Homebrew Browser.
 {: .notice--info}
