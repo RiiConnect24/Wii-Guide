@@ -18,7 +18,7 @@ BootMii est la chose la plus importante, car cet outil permet de faire des sauve
 Si vous avez installé BootMii en tant que Boot2 dans l'étape précédente, vous devrez lancer BootMii en redémarrant la console. Dans ce cas, sautez les étapes 1 et 2.
 {: .notice--info}
 1. Lancez la Chaîne Homebrew.
-2. Appuyer sur le bouton HOME, et choisissais "Launch BootMii" ou "Lancer BootMii".
+2. Appuyer sur le bouton HOME, et choisissez "Launch BootMii".
    - Vous ne pouvez pas utiliser BootMii avec une télécommande Wii. Vous devez soit utiliser les boutons de la Wii ou une manette GameCube branchée sur le port 1. Pour naviguer dans les options, appuyez sur POWER (ou sur le bouton droit de la croix directionnelle sur une manette GameCube). N'oubliez pas que lorsque vous utilisez les boutons de Wii, vous pouvez seulement naviguer à droite, si vous voulez revenir en arrière, il vous faudra donc revenir au début. Il n'y a pas de limitation sur les manettes GameCube; vous pouvez naviguer a gauche et a droite. Pour choisir une option, appuyez sur le bouton "RESET" de votre Wii ou sur le bouton A de votre manette GameCube.
 3. Sélectionnez le menu "Options" (celui avec des engrenages).
 4. Sélectionnez BackupMii (celui avec la flèche verte).
