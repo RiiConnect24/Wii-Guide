@@ -1,47 +1,47 @@
 ---
-title: "RiiTag on Wii"
+title: "RiiTag su Wii"
 ---
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se hai bisogno di aiuto per questo tutorial, unisciti a [il server Discord RiiConnect24 ](https://discord.gg/b4Y7jfD) (raccomandato) o [mandaci una e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You connect it to a USB Loader, and the tag updates on-the-fly. You need a Discord account in order to start using RiiTag.
+RiiTag è una gamertag dinamica e personalizzabile. Condividendo la tua gamertag (una immagine dinamica), puoi mostrare a cosa stai giocando ai tuoi amici! Connettilo a una porta USB, e il tag si aggiorna in tempo reale. Hai bisogno di un account Discord per iniziare ad usare RiiTag.
 
-#### What you need
+#### Di cosa hai bisogno
 
-* A computer
-* A text editor
-* A USB Loader
+* Un Computer
+* Un editor di testo
+* Una porta USB
 
-#### Instructions
+#### Istruzioni
 
-##### Section I - Getting Started
+##### Parte 1 - Per cominciare
 
-1. [Go to the RiiTag site.](https://tag.rc24.xyz/)
-2. Click `Log In` and log in with your Discord account.
-3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Click `Authorize`.
-4. Click `Edit Your Tag` and customize it to how you like. You can add a background, overlay, flag, nickname, Wii Number, and manually enter in games to show on your tag (not needed if you're using a USB Loader).
-5. Click `Show Key` and make note of the key shown. This is not needed if you're using USB Loader GX, as the key will be in a downloadable file.
-6. Click `Submit` to save your changes.
+1. [Vai al sito di RiiTag.](https://tag.rc24.xyz/)
+2. Clicca su `Log In` ed accedi col tuo account Discord.
+3. Una finestra apparirà chiedendoti se vuoi autorizzare `RiiConnect24 Login` con Discord. Clicca `Autorizza`.
+4. Clicca su `Modifica il tuo Tag` e personalizzalo come vuoi. Puoi aggiungere uno sfondo, decorazione, bandiera, nickname, numero Wii, e entrare manualmente nei giochi per mostrare il tuo tag (non necessario se si usa una porta USB).
+5. Clicca su `Mostra Chiave` e prendi nota della chiave mostrata. Questo non serve se usi un USB Loader GX, perchè la chiave sarà in un file scaricabile.
+6. Clicca su `Salva` per salvare i cambiamenti.
 
-Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
+Non condividere il tuo RiiTag con nessuno! Se lo fai, persone potrebbero abusare del tuo tag.
 {: .notice--warning}
 
-##### Section II - Connecting Your USB Loader
+##### Parte II - Connettere il tuo USB Loader
 
-The steps to connect RiiTag to your USB Loader depend on what USB Loader you use.
+I passi per connettere RiiTag al tuo USB loader dipendono da quale USB loader usi.
 
 ###### USB Loader GX
 
-1. Load USB Loader GX on your Wii.
-2. Go to `Settings` > `Features` and turn `Wiinnertag` on. Press `Yes` or `OK` to any dialogs that show up.
-3. Ensure that `Initialize Network` is turned on.
+1. Carica USB Loader GX sulla tua Wii.
+2. Vai a `Impostazioni` > `Funzionalità` and cambia `Wiinnertag` su acceso. Premi `Sì` o `OK` per ogni finestra che si apre.
+3. Assicurati che `Initialize Network` sia acceso.
 4. Exit USB Loader GX.
 5. Insert the SD Card or USB device where your USB Loader GX data is into your computer.
-6. [Go to this page.](https://tag.rc24.xyz/Wiinnertag.xml)
-7. On your browser, right click, and click `Save As`.
+6. [Vai a questa pagina.](https://tag.rc24.xyz/Wiinnertag.xml)
+7. Dal tuo browser, click destro, e clicca `salva come`.
 8. Save the XML to `/apps/usbloader_gx`  folder on your SD Card or USB device, replacing the existing `Wiinnertag.xml`.
 9. You have now set up RiiTag. You can try loading any game now to see if it works correctly.
 
