@@ -29,11 +29,11 @@ To play multiple games, we recommend a USB-powered external hard drive for your 
 Make sure your USB Drive is formatted as FAT32 or NTFS. Do not format it as other types such as extFS or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
-#### Instructions
+#### Instruções
 
-##### Downloading
+##### Descarregamento
 
-1. Extract USB Loader GX and put it in the `apps` folder on your USB drive or SD card.
+1. Extrai o USB Loader GX e coloca-o na pasta `apps` no teu cartão SD ou USB drive.
 2. Insert your USB drive, and SD card if you're using one, into your Wii and launch USB Loader GX from the Homebrew Channel.
 
 ##### Vamos Começar
@@ -46,7 +46,7 @@ There is no "guide" to use the USB Loader GX app. This is intended to help you l
 * There are WADs that can open up USB Loader GX if you load it from the Wii Menu. This is called a forwarder WAD.
 * GameCube or "custom" Wii games may or may not have a custom banner that USB Loader GX uses. To enable this, find or write `CustomBannersURL = http://banner.rc24.xyz/` in config/GXGlobal.cfg on your USB Drive. Then you can use the "Custom Banner" download by pressing the 1 Button on your Wii Remote.
 
-##### User Interface
+##### Interface de utilizador
 
 There are multiple buttons in the USB Loader GX interface.
 
@@ -79,7 +79,7 @@ There are also other buttons:
 
 On the middle of the bottom of the screen, you can see how much space is free on your USB Drive and how many games you have.
 
-##### Options once complete
+##### Opções uma vez terminado o processo
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continua para a navegação do site](site-navigation)<br> Nós temos mais outros tutoriais que poderás gostar.
 {: .notice--info}
