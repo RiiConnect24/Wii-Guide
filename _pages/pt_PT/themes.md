@@ -24,10 +24,10 @@ Do not use any other version of ThemeMii than the one linked here, as ThemeMii M
 We recommend you [install cIOS](cios) before continuing.
 {: .notice--info}
 
-#### What you need
+#### O que precisas
 
-* A Wii
-* An SD card or USB drive
+* Uma Wii
+* Um cartão SD ou USB drive
 * A computer with Windows on it (or using Mono or Wine on Mac/Linux)
 * [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
@@ -36,7 +36,7 @@ We recommend you [install cIOS](cios) before continuing.
 MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
 {: .notice--warning}
 
-#### Instructions
+#### Instruções
 
 ##### Section I - Finding a Theme
 
