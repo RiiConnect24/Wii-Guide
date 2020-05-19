@@ -8,7 +8,7 @@ header:
   cta_label: "Vamos Começar"
   cta_url: "get-started"
   caption:
-excerpt: "The complete guide to modding your Nintendo Wii."
+excerpt: "O guia completo para modificar a tua Nintendo Wii."
 ---
 
 The guide is also available in other languages! To change the language, please press the icon at top right and change your language.
@@ -35,7 +35,7 @@ Está aqui uma lista de coisas que podes fazer com isso. While these aren't all 
 - Protect your Wii from bricks using [Priiloader](priiloader) and BootMii.
 - Turn your Wii into a media player with [WiiMC](http://www.wiimc.org/).
 
-Get started by [choosing your exploit](get-started)!
+Vamos começar [escolhendo o teu exploit](get-started)!
 {: .notice--info}
 
 ## Mais Recursos
