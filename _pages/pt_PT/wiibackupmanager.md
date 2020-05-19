@@ -37,13 +37,13 @@ Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as othe
 4. Select `Files` to add multiple games to the program, or select `Folder` to add a whole folder of games.
 5. Select `Transfer`, then select `Drive 1` to transfer the games over. It might take a while for the games to copy over.
 
-##### Options once complete
+##### Opções uma vez terminado o processo
 
-[Continue to cIOS](cios)<br> cIOS is needed for your Wii to use a USB Loader.
+[Continua para cIOS](cios)<br> É necessário cIOS para utilizares um USB Loader na tua Wii.
 {: .notice--info}
 
 [Continue to USB Loader GX](usbloadergx) USB Loader GX is a USB Loader so you can play games on your Wii from a USB drive.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continua para a navegação do site](site-navigation)<br> Nós temos mais outros tutoriais que poderás gostar.
 {: .notice--info}
