@@ -4,29 +4,29 @@ title: "Reparação da bateria RiiConnect24"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor entra no [server do RiiConnect24 no Discord](https://discord.gg/b4Y7jfD) (recomendado) ou [envia-nos um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-This tutorial doesn't seem to fix error NEWS0000006. Unfortunately, if that error persists, reformatting your Wii might be the only option to fix it.
+Este tutorial não parece que corrija o erro NEWS0000006. Infelizmente, esse erro persiste, formatar a tua Wii poderá ser a unica opção para corrigir.
 {: .notice--warning}
 
-If you're getting error FORE000006, usually it means "invalid data". It could be something on our end although unlikely. Try waiting a few minutes and then try again.
+Se estás a obter o erro FORE000006, costuma significar "dados inválidos". Pode ser alguma coisa do nosso lado, embora seja improvável. Tenta esperar uns minutos e tenta outra vez.
 
-If the error code still remains, the time on your Wii might be incorrect, confusing the Channels. These instructions might be worth a shot.
+Se este erro persistir, as horas da tua Wii pode estar incorreta, confundindo os Canais. Estas instruções podes ajudar a resolver o problema.
 
 #### O que precisas
 
-* Crosshead Phillips #00 screwdriver ![Crosshead Phillips #00 Screwdriver](/images/RiiConnect24/clock/screwdriver.jpg)
+* Chave de fendas cruzada Phillips #00 ![Crosshead Phillips #00 Screwdriver](/images/RiiConnect24/clock/screwdriver.jpg)
 
 #### Instruções
 
-1. Set your Wii to the correct time in Wii Settings.
-2. Unplug your Wii AC adapter. You'll need to open up a battery cover on the side of your Wii, so you might want to remove everything plugged into your Wii. ![Unplug Wii AC Adapter](/images/RiiConnect24/clock/unplug.jpg)
-3. Locate the battery cover on the bottom of your Wii. ![Battery Cover](/images/RiiConnect24/clock/batterycover.jpg)
-4. Unscrew the battery cover with your screwdriver. ![Battery Unscrew](http://i.imgur.com/VRRAiSk.gif)
-5. Let your Wii sit unplugged for a little while, with the battery out. It's up to you how long it should be out for. An hour or two might be enough to leave it out for. ![Battery](/images/RiiConnect24/clock/battery.jpg)
+1. Configura as horas corretas nas definições da Wii.
+2. Desconecta o teu adaptador de corrente Wii. Tu terás que abrir a parte da bateria da tua Wii, então é necessário tirar tudo o que está ligado à tua Wii. ![Unplug Wii AC Adapter](/images/RiiConnect24/clock/unplug.jpg)
+3. Localiza a parte da bateria debaixo da tua Wii. ![Battery Cover](/images/RiiConnect24/clock/batterycover.jpg)
+4. Desaparafusa a parte da bateria com a tua chave de fendas. ![Battery Unscrew](http://i.imgur.com/VRRAiSk.gif)
+5. Deixa a tua Wii desconectada por uns momentos com a bateria de fora. Tu é que decides quanto tempo queres esperar. Uma hora ou duas deve ser chegar. ![Battery](/images/RiiConnect24/clock/battery.jpg)
 6. Screw the battery cover back in. ![Battery Screw](http://i.imgur.com/8MEy5Jo.gif)
 7. Plug in your Wii AC adapter. ![Plug Wii AC Adapter](/images/RiiConnect24/clock/plug.jpg)
 8. Try the News or Forecast Channel now. Hopefully it works now. If not, you might want to repeat this process one more time and it might fix it.
@@ -34,5 +34,5 @@ If the error code still remains, the time on your Wii might be incorrect, confus
 Still no luck getting it to work? Unfortunately, you might have to reformat your Wii for it to go away. Just make sure to backup your save files and Miis with [SaveGame Manager GX](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download).
 {: .notice--info}
 
-[Return to RiiConnect24 installation page](riiconnect24)
+[Volta para a página de instalação do RiiConnect24](riiconnect24)
 {: .notice--info}
