@@ -27,11 +27,11 @@ Se este erro persistir, as horas da tua Wii pode estar incorreta, confundindo os
 3. Localiza a parte da bateria debaixo da tua Wii. ![Battery Cover](/images/RiiConnect24/clock/batterycover.jpg)
 4. Desaparafusa a parte da bateria com a tua chave de fendas. ![Battery Unscrew](http://i.imgur.com/VRRAiSk.gif)
 5. Deixa a tua Wii desconectada por uns momentos com a bateria de fora. Tu é que decides quanto tempo queres esperar. Uma hora ou duas deve ser chegar. ![Battery](/images/RiiConnect24/clock/battery.jpg)
-6. Screw the battery cover back in. ![Battery Screw](http://i.imgur.com/8MEy5Jo.gif)
-7. Plug in your Wii AC adapter. ![Plug Wii AC Adapter](/images/RiiConnect24/clock/plug.jpg)
-8. Try the News or Forecast Channel now. Hopefully it works now. If not, you might want to repeat this process one more time and it might fix it.
+6. Aparafusa de volta a parte da bateria. ![Battery Screw](http://i.imgur.com/8MEy5Jo.gif)
+7. Conecta o teu adaptador de corrente Wii. ![Plug Wii AC Adapter](/images/RiiConnect24/clock/plug.jpg)
+8. Experimenta agora o News ou o Forecast Channel. Esperemos que agora funcione. Se não, podes repetir mais uma vez este processo que ele poderá corrigí-lo.
 
-Still no luck getting it to work? Unfortunately, you might have to reformat your Wii for it to go away. Just make sure to backup your save files and Miis with [SaveGame Manager GX](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download).
+Continuas sem sorte? Infelizmente, terás que formatar a tua Wii para resolver o problema. Certifica-te se tens a cópia dos teus ficheiros de dados e Miis com[SaveGame Manager GX ](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download).
 {: .notice--info}
 
 [Volta para a página de instalação do RiiConnect24](riiconnect24)
