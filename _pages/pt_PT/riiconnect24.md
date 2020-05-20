@@ -46,32 +46,32 @@ Irás agora fazer patch no teu IOS, `IOS31` e `IOS80`. Isto será necessário pa
 
 1. Descarrega os ficheiros necessários baseados no teu SO. No Windows executa `RiiConnect24Patcher.bat`.
 2. Segue as instruções que te damos.
-3. Deves obter os Canais que tu queres. They need to be installed **even if you already have them on your Wii, because you will need to install the patched WAD instead**.
-4. (`If RiiConnect24 Patcher copied everything to the SD card or USB drive, you can skip this step`) Copy the `apps` and `wad` folder to your SD card or USB drive.
-5. Put your SD card or USB drive in your Wii.
-6. Launch the Homebrew Channel on your Wii.
+3. Deves obter os Canais que tu queres. Eles precisam de ser instalados **mesmo que tu já os tenhas na tua Wii, porque necessitarás de instalar o WAD patcheado no seu lugar**.
+4. (`Se o RiiConnect24 Patcher copiou tudo para o cartão SD ou USB drive, podes saltar este passo`) Copia as pastas`apps` e `wad` para o teu cartão SD ou USB drive.
+5. Coloca o teu cartão SD ou USB drive na tua Wii.
+6. Abre o Homebrew Channel na tua Wii.
 7. Abre o Wii Mod Lite.
-8. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
-9. When `IOS31.wad` is highlighted, press +, then do the same for all the other WADs.
-10. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted WAD to uninstall it, then try installing it again.
-11. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+8. Utilizando o controlo direcional do teu Comando Wii, navega até `WAD Manager` e depois navega até à pasta `wad`.
+9. Quando o `IOS31.wad` estiver destacado, pressiona + e depois faz o mesmo para todas as outras WADs.
+10. Se tiveres um erro a dizer que um título com uma versão superior já está instalada (error -1035), volta ao menu de seleção de WAD e pressiona - no WAD destacado para desinstalá-lo, depois tenta instalá-lo novamente.
+11. Depois da instalação sucedida, pressiona o botão HOME para voltar ao Homebrew Channel.
 
-##### Section II - Patching nwc24msg.cfg
+##### Secção II - Patch no nwc24msg.cfg
 
-You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
+Irás agora patchear o teu ficheiro `nwc24msg.cfg` já que é necessário para utilizar o Wii Mail.
 
-1. Launch RiiConnect24 Mail Patcher.
-2. It should only take a few seconds to patch your nwc24msg.cfg. When it's done, press HOME to exit.
+1. Abre o RiiConnect24 Mail Patcher.
+2. Deve demorar só alguns segundos para patchear o teu nwc24msg.cfg. Quando estiver pronto, pressiona HOME para sair.
 
-If the previous step failed with an "net_get_status: -24 - Couldn't request the data: -24" error, please check the internet connection on your Wii.
+Se o passo anterior falhar com um erro "net_get_status: -24 - Couldn't request the data: -24", verifica a conexão de internet na tua Wii.
 {: .notice--warning}
 
-If you were unable to patch your nwc24msg.cfg correctly, e-mail us at [support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se não conseguires patchear corretamente o teu nwc24msg.cfg, envia-nos um e-mail para [upport@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-##### Section III - Connecting
+##### Secção III - Conectando
 
-You need to set your DNS in order to get the Forecast and News Channel to point to our servers. This DNS is also useful if you want to play Wiimmfi.
+Tu precisas de configurar o teu DNS para que o Forecast e News Channel utilizem os nossos servidores. Este DNS também é útil se quiseres jogar com Wiimmfi.
 
 1. Vai a `Wii Options`.
 2. Vai a `Wii Settings`.
@@ -79,7 +79,7 @@ You need to set your DNS in order to get the Forecast and News Channel to point 
 4. Vai a `Connection Settings`.
 5. Seleciona a conexão atual.
 6. Vai a `Change Settings`.
-7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`.
+7. Vai a `Auto-Obtain DNS` (não o endereço IP), depois seleciona `No` e depois `Advanced Settings`.
 8. Escreve `164.132.44.106` como DNS primário.
 9. Escreve `8.8.8.8` como DNS secundário (ou `1.1.1.1`).
 10. Select `Confirm`, then select `Save`.
