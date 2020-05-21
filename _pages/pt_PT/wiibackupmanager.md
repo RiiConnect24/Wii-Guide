@@ -19,23 +19,23 @@ Se utilizas macOS, recomendamos o Witgui. O Wii Backup Manager não funciona no 
 Para jogar múltiplos jogos, recomendamos que utilizes um disco externo com USB para a tua Wii. Nós iremos referir como "USB drive" neste guia. Maioria dos discos que encontras no mercado funcionam bem se tiverem compatibilidade com USB 2.0. Discos com 1 TB ou mais de armazenamento irão funcionar. Um flash drive também funcionará, mas devido ao espaço do flash drive, não vai ser capaz de armazenar vários jogos.
 {: .notice--info}
 
-Certifica-te que o teu USB drive está formatado como FAT32 ou NTFS. Do not format it as other types such as extFS or WBFS, the latter is an old format of storing Wii games.
+Certifica-te que o teu USB drive está formatado como FAT32 ou NTFS. Não formates em outros tipos como extFS ou WBFS, o último é um formato antigo de armazenar jogos Wii.
 {: .notice--info}
 
 #### Instruções
 
 ##### Secção I - Descarregamento
 
-1. Extract Wii Backup Manager, and launch the program.
-2. Insert your USB drive into your computer.
+1. Extrai o Wii Backup Manager e abre o programa.
+2. Insere o USB drive no teu computador.
 
-##### Section II - Copying Games Over
+##### Secção II - Copiando os jogos
 
-1. Go to the `Drive 1` tab, then select `Drive`.
-2. Select the drive that you're using for the Wii games.
-3. Go to the `Files` tab, then select `Add`.
-4. Select `Files` to add multiple games to the program, or select `Folder` to add a whole folder of games.
-5. Select `Transfer`, then select `Drive 1` to transfer the games over. It might take a while for the games to copy over.
+1. Vai até ao `Drive 1` e seleciona `Drive`.
+2. Seleciona o drive que vais utilizar para os jogos Wii.
+3. Vai até a `Files` e selecionar `Add`.
+4. Seleciona `Files` para adicionar múltiplos jogos no programa ou seleciona `Folder` para adicionar uma pasta inteira de jogos.
+5. Seleciona `Transfer` e depois seleciona `Drive 1` para transferir os jogos para lá. Pode demorar um pouco para que o jogos acabem copiar.
 
 ##### Opções uma vez terminado o processo
 
