@@ -1,5 +1,5 @@
 ---
-title: RiiConnect24 vWii Guide
+title: Guia RiiConnect24 vWii
 ---
 
 {% include toc title="Table of Contents" %}
