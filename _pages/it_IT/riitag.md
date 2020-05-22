@@ -38,38 +38,38 @@ I passi per connettere RiiTag al tuo USB loader dipendono da quale USB loader us
 1. Carica USB Loader GX sulla tua Wii.
 2. Vai a `Impostazioni` > `Funzionalità` and cambia `Wiinnertag` su acceso. Premi `Sì` o `OK` per ogni finestra che si apre.
 3. Assicurati che `Initialize Network` sia acceso.
-4. Exit USB Loader GX.
-5. Insert the SD Card or USB device where your USB Loader GX data is into your computer.
+4. Esci da USB Loader GX.
+5. Inserisci la Scheda SD o dispositivo USB dove si trovano i dati di USB Loader GX sul tuo computer.
 6. [Vai a questa pagina.](https://tag.rc24.xyz/Wiinnertag.xml)
 7. Dal tuo browser, click destro, e clicca `salva come`.
-8. Save the XML to `/apps/usbloader_gx`  folder on your SD Card or USB device, replacing the existing `Wiinnertag.xml`.
-9. You have now set up RiiTag. You can try loading any game now to see if it works correctly.
+8. Salva il XML sulla cartella `/apps/usbloader_gx`  della tua scheda SD o dispositivo USB, sostituendo l'esistente `Wiinnertag.xml`.
+9. Adesso hai impostato RiiTag. Puoi provare a caricare qualunque gioco per vedere se funziona.
 
 ###### WiiFlow
 
-1. Take the SD Card or USB device where your WiiFlow data is into your computer.
-2. Open `/apps/wiiflow/wiiflow.ini` with a text editor. (If you use WiiFlow Lite, the path might have `wiiflow_lite` instead of `wiiflow`.)
-3. Search for `gamercards` and replace that line with `gamercards=wiinnertag`.
-4. Search for `wiinnertag_url` and replace that line with `wiinnertag_url=http://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
-5. Search for `wiinnertag_key` and replace that line with `wiinnertag_key=<key>`, replacing `<key>` with the key you wrote down in Section 1.
-6. Search for `gamercards_enable` and replace that line with `gamercards_enable=yes`.
-7. Save the modified `wiiflow.ini` file.
-8. You have now set up RiiTag. You can try loading any game now to see if it works correctly.
+1. Porta la Scheda SD o dispositivo USB dove si trovano i dati per WiiFlow sul tuo computer.
+2. Apri `/apps/wiiflow/wiiflow.ini` con un text editor. (Se stai usando WiiFlow Lite, potresti avere `wiiflow_lite` invece di `wiiflow`.)
+3. Cerca per `gamecards` e sostituisci la linea con `gamercards=wiinnertag`.
+4. Cerca `wiinnertag_url` e sostituiscilo con `wiinnertag_url=http://tag.rc24.xyz/wii?game={ID6}&;key={KEY}`.
+5. Cerca `wiinnertag_key` e sostituisci la linea con `wiinnertag_key=<key>`, sostituendo `<key>` con la chiave che hai scritto nella Sezione 1.
+6. Cerca `gamercards_enable` e sostituisci la linea con `gamercards_enable=yes`.
+7. Salva il file modificato di `wiiflow.ini`.
+8. Adesso hai impostato RiiTag. Puoi provare a caricare qualunque gioco per vedere se funziona.
 
 ###### Configurable USB Loader
 
-We do not offer support for Configurable USB Loader, as we are focused on USB Loader GX and WiiFlow.
+Non offriamo supporto per Configurable USB Loader, dato che ci siamo concentrati su USB Loader GX e WiiFlow.
 {: .notice--info}
 
-You can use the `CfgLoaderConfigurator.exe` program (Windows only) instead of editing the `config.txt` file mentioned below if you want to.
+Puoi usare il programma `CfgLoaderConfigurator.exe` (solo per Windows) invece di editare il file menzionato prima `config.txt` se lo desideri.
 {: .notice--info}
 
-1. Take the SD Card or USB device where your Configurable USB Loader data is into your computer.
-2. Open `/usb-loader/config.txt` with a text editor.
-3. Replace (or add the line) starting with `gamercard_url` with `gamercard_url = http://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
-4. Replace (or add the line) startin with `gamercard_key` with `gamercard_key = <key>`, replacing `<key>` with the key you wrote down in Section 1.
-5. Save the modified `config.txt` file.
-6. You have now set up RiiTag. You can try loading any game now to see if it works correctly.
+1. Porta la Scheda SD o dispositivo USB dove si trovano i dati per Configurable USB Loader sul tuo computer.
+2. Apri `/usb-loader/config.txt` con un text editor.
+3. Sostituisci (o aggiungi la linea) che inizia con `gamercard_url` con `gamercard_url = http://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
+4. Sostituisci (o aggiungi la linea) che inizia con `gamercard_key` con `gamercard_key = <key>`, replacing `<key>` con la chiave che hai scritto nella Sezione 1.
+5. Salva il file modificato di `config.txt`.
+6. Adesso hai impostato RiiTag. Puoi provare a caricare qualunque gioco per vedere se funziona.
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
 {: .notice--info}
