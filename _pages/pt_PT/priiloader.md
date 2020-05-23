@@ -7,11 +7,11 @@ title: "Priiloader"
 Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor entra no [server do RiiConnect24 no Discord](https://discord.gg/b4Y7jfD) (recomendado) ou [envia-nos um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Priiloader adds a level of brick protection to your Wii. It loads before the Wii Menu does (hence the name). The tool can also enable hacks for your Wii Menu, and be used to quickly launch the Homebrew Channel, BootMii, or whatever homebrew you want!
+Priiloader adiciona um nível de proteção contra brick na tua Wii. Ele carrega antes do Wii Menu (daí o nome). A ferramenta também ativa hacks para o teu Wii Menu, assim como abre o Homebrew Channel, BootMii, ou qualquer homebrew que queiras!
 
 ![Priiloader](/images/priiloader.jpg)
 
-Please do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your vWii by doing this.
+Por favor **não** instales Priiloader numa vWii (modo Wii na Wii U). Vais brickar a Wii fazendo isto.
 {: .notice--warning}
 
 #### O que precisas
@@ -21,26 +21,26 @@ Please do **not** install Priiloader on a vWii (Wii mode on Wii U). You will bri
 #### Instruções
 ##### Secção I - Descarregando/Instalando
 
-1. Download Priiloader and extract it to the root of your SD card or USB drive.
-2. Insert your SD card or USB drive into your Wii, and launch Priiloader from the Homebrew Channel.
+1. Descarrega o Priiloader e extrai-o para a raíz do teu cartão SD ou USB drive.
+2. Insere o teu cartão SD ou USB drive na tua Wii e abre o Priiloader pelo Homebrew Channel.
 
-##### Section II - Installing Priiloader
+##### Secção II - Instalação do Priiloader
 
 1. Abre o Homebrew Channel na tua Wii.
 2. Abre o Priiloader.
-3. Press the + Button on Wii Remote or the A Button on a GameCube controller. ![Install Priiloader](/images/Priiloader/2.png) ![Installing](/images/Priiloader/3.png)
+3. Pressiona o botão + no comando Wii ou no botão A num controlador GameCube. ![Install Priiloader](/images/Priiloader/2.png) ![Installing](/images/Priiloader/3.png)
 
-##### Section III - Entering/Configuring Priiloader
+##### Secção III - Entrar/Configurar o Priiloader
 
-1. Hold the RESET button while turning on your Wii. ![Turn on](/images/Priiloader/5.jpg) ![Hold RESET](/images/Priiloader/4.jpg)
+1. Segura o botão RESET enquanto ligas a tua Wii. ![Turn on](/images/Priiloader/5.jpg) ![Hold RESET](/images/Priiloader/4.jpg)
 
-2. You should see the Priiloader menu. ![Menu](/images/Priiloader/6.png)
-3. Go to `System Menu Hacks`.
-4. We recommend you turn on these hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/7.png)
+2. Tu deverás ver o menu do Priiloader. ![Menu](/images/Priiloader/6.png)
+3. Vai a `System Menu Hacks`.
+4. Nós recomendamos que atives estes hacks: `Region Free EVERYTHING`, `Block Disc Updates` e `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/7.png)
 
-## System Menu Hacks List
+## Lista de Hacks para Menu do Sistema
 
-This is a list of the hacks you can enable with Priiloader.
+Esta é a lista de hacks que podes ativar com o Priiloader.
 
 | Hack                                    | Descrição                                                                                                                                                           |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -60,9 +60,9 @@ This is a list of the hacks you can enable with Priiloader.
 | Force Disc Games to run under IOS249    | Faz com que discos utilizem o cIOS 249 como IOS de jogo.                                                                                                            |
 | Auto-Press A at Health Screen           | Pressiona automaticamente o botão A para passar o ecrã "Health and Safety".                                                                                         |
 | Force Standard Recovery Mode            | Liga automaticamente a consola no modo de recuperação. Utilizado para executar discos de recuperação, deixando utilizadores reparar um brick nos seus sistemas Wii. |
-| OSReport to UsbGecko(slot B)            | Sends Wii Menu logs to a debugging device in memory card slot B.                                                                                                    |
-| OSReport to UsbGecko(GeckoOS,B)         | Sends Wii Menu logs to a debugging device in memory card slot B, if the Wii Menu is launched by Gecko OS.                                                           |
-| Move Disc Channel                       | Enables you to move the Disc Channel anywhere on the Wii Menu. It's normally locked to the top left entry on the first page.                                        |
+| OSReport to UsbGecko(slot B)            | Envia informações do Wii Menu para um dispositivo de depuração na ranhura B dos cartões de memória.                                                                 |
+| OSReport to UsbGecko(GeckoOS,B)         | Envia informações do Wii Menu para um dispositivo de depuração na ranhura B dos cartões de memória, se o Wii Menu for aberto pelo Gecko OS.                         |
+| Move Disc Channel                       | Permite que movas o Disc Channel para onde quiseres no teu Wii Menu. Normalmente está bloqueado no canto superior esquerdo na primeira página.                      |
 | Block Online Updates                    | Desativa as atualizações da tua Wii.                                                                                                                                |
 
 [Continua para cIOS](cios)<br> É necessário cIOS para utilizares um USB Loader na tua Wii. Mesmo que não queiras fazer aquilo, é muito útil para várias aplicações homebrew.
