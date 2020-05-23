@@ -54,9 +54,9 @@ There are multiple buttons in the USB Loader GX interface.
 
 These are the functions the buttons found on the top of the main menu do, from left to right:
 
-* Star - Shows games that you have marked as "favorites".
-* Search - Lets you search for games by name.
-* Sort - Cycles through sorting methods for games.
+* Estrela - Mostra os jogos que marcaste como favoritos.
+* Busca - Permite que procures jogos pelo nome.
+* Ordenar - Permite escolhe diferentes métodos de ordenação de jogos.
 * Platform - Choose to sort games by platform.
 * Category - Sorts games by category.
 * List - Shows games in a list view.
