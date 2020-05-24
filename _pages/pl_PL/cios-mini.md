@@ -47,7 +47,7 @@ Zapisz sobie numer wersji (będzie to albo `v31776`, albo `v31775`)
 ##### Włączanie Ethernet
 Jeżeli chcesz korzystać z serwisu Wiimmfi przez Ethernet na Twoim Wii Mini, musisz uruchomić aplikację homebrew [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip) stworzoną przez Fullmetal5. Aby uruchomić ten homebrew, po prostu go rozpakuj do folderu `apps` na Twoim urządzeniu USB i uruchom go korzystając z Homebrew Channel.
 
-Nie próbuj instalować IOS z Wii lub System Menu na Twoim Wii Mini. Zrobienie tego prawdopodobnie zbrickuje Twoją konsolę.
+Do not attempt to install a Wii IOS or System Menu on the Wii mini. Zrobienie tego prawdopodobnie zbrickuje Twoją konsolę.
 {: .notice--warning}
 
 Możesz teraz korzystać z homebrew takiego jak [USB Loader GX](usbloadergx).
