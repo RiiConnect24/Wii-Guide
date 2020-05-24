@@ -47,7 +47,7 @@ Schrijf uw versie nummer ergens op zodat u dit later terug kunt vinden. (dit is 
 ##### Een internetkabel activeren
 Als u Wiimmfi met een internetkabel wilt gebruiken op uw Wii dan moet u [deze](/assets/files/Wii_Mini_Ethernet_Enable.zip) homebrew applicatie installeren op uw Wii mini, deze applicatie is gemaakt door Fullmetal5. Om de aplicatie te insatlleren moet u het bestand uitpakken in de `apps` map op uw USB-stick of harde schijf, u kunt de applicatie nu openen via het Homebrew Kanaal op uw Wii mini.
 
-Probeer niet een Wii IOS of Systeem Menu te open op uw Wii mini. Als u dit doet hebt u een grootte kans dat u uw Wii mini brickt.
+Do not attempt to install a Wii IOS or System Menu on the Wii mini. Als u dit doet hebt u een grootte kans dat u uw Wii mini brickt.
 {: .notice--waarschuwing}
 
 U kunt nu homebrew applicaties gebruiken zoals [USB Loader GX](usbloadergx).
