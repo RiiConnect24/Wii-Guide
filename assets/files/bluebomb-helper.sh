@@ -1,6 +1,6 @@
 #!/bin/bash
 
-version="v1.0.0"
+version="v0.0.3"
 helpmsg="Need further help? You can either join the Wii Mini Hacking Discord server (recommended) at https://discord.gg/6ryxnkS, the RiiConnect24 Discord server at https://discord.gg/b4Y7jfD or you can send an e-mail to support@riiconnect24.net and we'll try to assist. "
 
 # clear and greet
@@ -28,6 +28,7 @@ set -o pipefail
 set -o errtrace
 
 credit() {
+    #clear
     printf "Credits:\n
     * Fullmetal5\t\t\tBlueBomb exploit
     * urmum_69\t\t\t\tScript author
@@ -193,11 +194,14 @@ execute() {
     printf "\n* Executing BlueBomb...\n"
     printf "$sudo0 ./bluebomb-$arch ./stage0/$arg1$arg2.bin stage1.bin\n"
     $sudo0 ./bluebomb-$arch ./stage0/$arg1$arg2.bin stage1.bin
-    printf "* Enabling the Bluetooth service... (you may be prompted for your password)\n"
-    case "$init" in
-        "systemd" ) $sudo0 systemctl enable --now bluetooth.service ;;
-        "openrc" ) $sudo0 rc-service bluetooth start ;;
-    esac
+    printf "* Do you with to re-enable the Bluetooth service...\n * If BlueBomb failed to run, say no, and run the script again. Be persistent, it may take multiple tries\n[y/n]\n"
+    read -r confirmation
+    if [[ "${confirmation^^}" == "Y" ]] || [[ "${confirmation^^}" == "YES" ]]; then
+        case "$init" in
+            "systemd" ) $sudo0 systemctl enable --now bluetooth.service ;;
+            "openrc" ) $sudo0 rc-service bluetooth start ;;
+        esac
+    fi
     credit
 }
 
