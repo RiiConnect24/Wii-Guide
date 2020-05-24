@@ -1,5 +1,5 @@
 ---
-title: "Installing Wii Menu Themes"
+title: "Instalando Temas para o Wii Menu"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -7,21 +7,21 @@ title: "Installing Wii Menu Themes"
 Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor entra no [server do RiiConnect24 no Discord](https://discord.gg/b4Y7jfD) (recomendado) ou [envia-nos um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Are you tired of the boring, plain white theme on your Wii Menu, and want a cool theme instead? This tutorial will help you get a new theme for your Wii Menu!
+Estás farto do tema branco aborrecido no teu Wii Menu e queres mudar para um tema melhor? Este tutorial irá ajudar-te a obter um novo tema para o teu Wii Menu!
 
-In the case of a brick, [installing Priiloader is a must](priiloader). Also, install BootMii (as Boot2 if you have an early Wii). Installing brick protection along with following the guide correctly should keep you safe from bricks. DO NOT CONTINUE UNTIL YOU HAVE INSTALLED PRIILOADER AND BOOTMII!
+Em caso de brick, [é necessário ter instalado o Priiloader](priiloader). Instala também o BootMii (como Boot2 se tiveres uma Wii mais antiga). Instalar uma proteção contra brick seguindo o guia corretamente deverá manter-te protegido de bricks. NÃO CONTINUES SE NÃO TIVERES O PRIILOADER E O BOOTMII INSTALADO!
 {: .notice--warning}
 
-Do not install a custom theme on vWii (Wii U)! That will brick it.
+Não instales temas personalizados no vWii (Wii U)! Isso irá brická-lo.
 {: .notice--warning}
 
-For safety purposes, please do not use any other version of MyMenuify than the one linked here, as MyMenuify Mod is the safest way to install a theme.
+Por razões de segurança, não utilizes qualquer outra versão do MyMenuify a não ser a que está aqui, já que o MyMenuify Mod é a maneira mais segura de instalar temas.
 {: .notice--info}
 
-Do not use any other version of ThemeMii than the one linked here, as ThemeMii Mod allows you to make a theme for Wii Menu version 4.3, other versions may not.
+Não utilizes qualquer outra versão do ThemeMii a não ser a que está aqui, já que o ThemeMii Mod permite que faças um tema para a versão 4.3 do Wii Menu, mas não para outras versões.
 {: .notice--info}
 
-We recommend you [install cIOS](cios) before continuing.
+Nós recomendamos que [instales cIOS](cios) antes de continuar.
 {: .notice--info}
 
 #### O que precisas
@@ -33,14 +33,14 @@ We recommend you [install cIOS](cios) before continuing.
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
 * [Este post no GBAtemp](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
-MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
+CERTIFICA-TE QUE LESTE OS AVISOS ACIMA ANTES DE CONTINUAR!
 {: .notice--warning}
 
 #### Instruções
 
-##### Section I - Finding a Theme
+##### Secção I - Procurar um Tema
 
-* Peruse the GBAtemp post, finding a theme you want to install. Some have YouTube videos to show what the theme looks like, unfortunately some of them are unavailable.
+* Lê o post do GBAtemp e procura um tema que queiras instalar. Alguns temas têm vídeos no YouTube que mostram como os temas são, mas infelizmente alguns deles estão indisponíveis.
 * Once you found one you like, click the download link corresponding to your Wii Menu version. **It is very important to pick the right one to avoid bricks.**
 * You probably will pick the download link that says 4.X, that means the theme will work on version 4.1, 4.2 and 4.3 of the Wii Menu.
 * Some themes have different links for different regions, so pick the one corresponding to your Wii's region.
