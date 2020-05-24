@@ -47,7 +47,7 @@ Select cIOS slot: 249
 ##### Ενεργοποίηση ενσύρματου δικτύου Ethernet
 Αν επιθυμείτε να χρησιμοποιήσετε το Wiimmfi με ethernet στο Wii mini, πρέπει να τρέξετε το πρόγραμμα [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip) φτιαγμένο από τον Fullmetal5. Για να το τρέξετε, εξάγετέ το στον φάκελο `apps` στο μέσο USB σας και εκτελέστε το από το Κανάλι Homebrew.
 
-Μην επιχειρήσετε να εγκαταστήσετε IOS ή Σύστημα Μενού για Wii στο Wii mini. Κάτι τέτοιο πιθανώς να καταστρέψει την κονσόλα σας.
+Do not attempt to install a Wii IOS or System Menu on the Wii mini. Κάτι τέτοιο πιθανώς να καταστρέψει την κονσόλα σας.
 {: .notice--warning}
 
 Μπορείτε τώρα να χρησιμοποιήσετε Homebrew σαν το [ USB Loader GX](usbloadergx).
