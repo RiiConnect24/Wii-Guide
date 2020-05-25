@@ -82,29 +82,29 @@ Tu precisas de configurar o teu DNS para que o Forecast e News Channel utilizem 
 7. Vai a `Auto-Obtain DNS` (não o endereço IP), depois seleciona `No` e depois `Advanced Settings`.
 8. Escreve `164.132.44.106` como DNS primário.
 9. Escreve `8.8.8.8` como DNS secundário (ou `1.1.1.1`).
-10. Select `Confirm`, then select `Save`.
-11. Select `OK` to perform a connection test.
-12. If the connection test was successful, select `No` to skip the Wii System Update.
-13. Go to `WiiConnect24`, then `WiiConnect24` again, and make sure it is enabled.
-14. Back on the WiiConnect24 menu, go to `Standby Connection` and make sure it is enabled.
-15. At `Slot Illumination`, we recommend you set the disc light to `Dim` or `Bright`, but this is optional.
-16. Finally, go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`. Please read through this.
+10. Seleciona `Confirm`, depois seleciona `Save`.
+11. Seleciona `OK` para efetuar um teste de conexão.
+12. Se o teste de conexão foi bem sucedido, seleciona `No` para saltar o Wii System Update.
+13. Vai a `WiiConnect24`, depois `WiiConnect24` outra vez e certifica-te que está ativado.
+14. Volta ao menu WiiConnect24, vai a `Standby Connection` e certifica que está ativado.
+15. Em `Slot Illumination`, nós recomendamos que configures o brilho do disco para `Dim` ou `Bright`, mas isso é opcional.
+16. Finalmente, vai até à secção `Internet`, depois `User Agreements` ou `Agreement/Contact`, e depois `Yes`. Por favor, lê sobre isto.
 
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. Isto é opcional para instalar.
+[Continua para Wiimmfi](wiimmfi)<br> Wiimmfi permite que jogues online depois da descontinuação do Nintendo Wi-Fi Connection. Isto é opcional para instalar.
 {: .notice--info}
 
-If you get error 107245, then you probably have failed to patch your IOS correctly.
+Se tiveres o erro 107245, provavelmente falhou o patch no teu IOS.
 {: .notice--info}
 
-If you get error 107304, then perhaps your ISP blocks the use of custom DNS. A workaround for this can be running your own DNS server! See the [RiiConnect24 DNS Server on GitHub](https://github.com/RiiConnect24/DNS-Server), then use your PC's IP address in place of ours in Step 8.
+Se tiveste o erro 107304, talvez o teu FAI bloqueia a utilização de DNS personalizados. Uma solução para este problema poderá ser executar o teu próprio servidor DNS! Vê o [RiiConnect24 DNS Server no GitHub](https://github.com/RiiConnect24/DNS-Server) e utiliza o IP do teu PC para substituir o nosso no Passo 8.
 {: .notice--info}
 
-[If you get error FORE000006, you might want to follow this tutorial to fix it. (This doesn't work with NEWS000006).](riiconnect24-batteryfix)
+[Se tiveres o erro FORE000006, terás que seguir este tutorial para resolvê-lo. (Isto não funciona com o NEWS000006).](riiconnect24-batteryfix)
 {: .notice--warning}
 
-[If you're getting errors such as a `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, please go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
+[Se tiveres a ter error como o `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, por favor vai a Wii Settings -> Ultima página -> Country e muda-o para United Kingdom. Tu terás este erro quando utilizas um País que nós não damos suporte. Contacta-nos em [support@riiconnect24.net](mailto:support@riiconnect24.net) se precisares de mais ajuda.
 {: .notice--warning}
 
-[If you're getting errors such as a discontinued message when opening the News or Forecast Channel, we have some instructions that might fix it.](riiconnect24-troubleshooting)
+[Se tiveres erros como uma mensagem de descontinuação quando abres o News ou Forecast Channel, nós temos algumas instruções que poderão resolver.](riiconnect24-troubleshooting)
 {: .notice--warning}
