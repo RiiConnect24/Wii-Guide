@@ -14,7 +14,7 @@ main:
     url: wiimmfi
 bottom:
   - 
-    title: For support in English, ask for help at <a href="https://discord.gg/b4Y7jfD">RiiConnect24 on Discord</a>.
+    title: 영어로 된 도움말을 원하시면 디스코드의 <a href="https://discord.gg/b4Y7jfD"> RiiConnect24에서 도움을 요청하세요.</a>
 footer:
   - 
     title: Source
@@ -27,7 +27,7 @@ footer:
     url: donations
 sidebar_title:
   - 
-    title: Overall Progress
+    title: 현재 진행상태
 sidebar_pages:
   - 
     title: Wii Guide
