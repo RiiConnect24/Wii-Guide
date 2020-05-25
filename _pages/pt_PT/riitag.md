@@ -1,5 +1,5 @@
 ---
-title: "RiiTag on Wii"
+title: "RiiTag na Wii"
 ---
 
 {% include toc title="Table of Contents" %}
