@@ -1,13 +1,13 @@
 ---
-title: "Installing RSSMii"
+title: "Instalando RSSMii"
 ---
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor entra no [server do RiiConnect24 no Discord](https://discord.gg/b4Y7jfD) (recomendado) ou [envia-nos um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Do you want to get RSS feed updates on your Wii Message Board? This tutorial will tell you how to set RSSMii up.
+Queres receber atualizações no RSS no teu Wii Message Board? Este tutorial irá te dizer como configurar o RSSMii.
 
 ![RSSMii](/images/rssmii.png)
 
@@ -19,13 +19,13 @@ Do you want to get RSS feed updates on your Wii Message Board? This tutorial wil
 #### Instruções
 ##### Secção I - Descarregando/Instalando
 
-1. Extract RSSMii and put it in the `apps` folder on your SD card.
-2. We need to create a `feeds.xml` on the root of the SD card so the app will know what feeds to subscribe you to.
+1. Extrai RSSMii e coloca-o na pasta `apps` no teu cartão SD.
+2. Nós precisamos de criar um ficheiro `feeds.xml` na raiz do teu cartão SD para que a aplicação possa saber que feeds tu subscreveste.
 
-If you're using the Windows Operating System, you can use the RSS Feeds Creators program created by KcrPL. It will automatically create a `feeds.xml` file and will copy it to your SD card!
+Se estiveres a utilizar um Sistema Operacional Windows, podes utilizar o programa RSS Feeds Creators criado pelo KcrPL. Isto criará automaticamente um ficheiro `feeds.xml` e irá copiá-lo para o teu cartão SD!
 {: .notice--info}
 
-<b>If you don't have a Windows computer, use this template and use your favorite text editor to make the `feeds.xml`.</b>
+<b>Se não tens um computador com Windows, copia este exemplo e utiliza o teu editor de texto favorito para criar o `feeds.xml`.</b>
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
