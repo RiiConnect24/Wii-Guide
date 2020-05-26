@@ -53,9 +53,9 @@ Using the RiiConnect24 Patcher you should've downloaded earlier in [What you nee
 
 1. Abre o Homebrew Channel
 2. Abre o Wii Mod Lite
-3. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
-4. When `IOS31.wad` is highlighted, press +, then do the same for all the other WADs.
-5. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel
+3. Utilizando o controlo direcional do teu Comando Wii, navega até `WAD Manager` e depois navega até à pasta `wad`.
+4. Quando o `IOS31.wad` estiver destacado, pressiona + e depois faz o mesmo para todas as outras WADs.
+5. Depois da instalação sucedida, pressiona o botão HOME para voltar ao Homebrew Channel
 
 ##### Section III - Using RiiConnect24
 
