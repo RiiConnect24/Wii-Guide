@@ -48,7 +48,7 @@ Não há nenhum "guia" para utilizar o USB Loader GX. Isto irá apenas ajudar-te
 
 ##### Interface de utilizador
 
-There are multiple buttons in the USB Loader GX interface.
+Há múltiplos botões na interface do USB Loader GX.
 
 ###### Menu Principal
 
@@ -58,8 +58,8 @@ These are the functions the buttons found on the top of the main menu do, from l
 * Busca - Permite que procures jogos pelo nome.
 * Ordenar - Permite escolhe diferentes métodos de ordenação de jogos.
 * Platform - Choose to sort games by platform.
-* Category - Sorts games by category.
-* List - Shows games in a list view.
+* Categoria - Organiza os jogos por categoria.
+* Lista - Mostra o jogos em forma de lista.
 * Multi-Cover View - Shows games in a multi-cover view.
 * Cover Carousel View - Shows games in a carousel view.
 * Wii Menu View - Shows games in a Wii Menu view.
@@ -70,14 +70,14 @@ Pressing any game will allow you to play the game by pressing "Start".
 
 There are also other buttons:
 
-* + Icon - "Install" a game, i.e. loading it from disc and dumping it.
-* Gears - Settings for USB Loader GX.
-* SD card - Remount the SD card.
-* Homebrew - Load homebrew apps.
-* Wii - Open up the HOME Menu, which can also be accessed by pressing the HOME Button on the Wii Remote.
-* Power Button - Turn off your Wii.
+* Ícone + - "Instala" um jogo, por ex., carregá-lo a partir do disco e copiá-lo.
+* Engrenagens - Definições do USB Loader GX.
+* Cartão SD - Remonta o cartão SD.
+* Homebrew - Carrega aplicações homebrew.
+* Wii - Abre o Menu HOME, ao qual pode ser aberto também pressionando o botão HOME no comando Wii.
+* Botão Desligar/Ligar - Desliga a tua Wii.
 
-On the middle of the bottom of the screen, you can see how much space is free on your USB Drive and how many games you have.
+No meio da parte inferior do ecrã, podes ver quanto espaço livre tens no teu USB Drive e quantos jogos tens.
 
 ##### Opções uma vez terminado o processo
 
