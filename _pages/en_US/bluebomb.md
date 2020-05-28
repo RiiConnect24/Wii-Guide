@@ -36,7 +36,7 @@ This exploit will not work on a Wii U's vWii. Please follow [this guide](https:/
 1. Download the HackMii installer from [the BootMii website](https://bootmii.org/download/).
 1. Unpack it and place the `boot.elf` file in your flash drive.
 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright).
-1. Turn on your console and navigate to the settings menu. On the top right corner you should see a 4-character code like the one in the picture below. This code is your System Menu version, take a note of this as you will need it later. Afterwards, turn your console off.
+1. Turn on your console and navigate to the settings menu. On the top right corner you should see a 4-character code like the one in the picture below. This code is your System Menu version, take a note of this as you will need it later. Afterwards, turn your console off. (If you're trying to use BlueBomb to recover from a brick, you can assume your Wii Menu version is 4.3.)
 ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Launch your Linux distro, and ensure you are connected to the internet.
 1. Open the Linux Terminal by pressing `CTRL + SHIFT + T`.
