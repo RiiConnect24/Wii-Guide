@@ -20,15 +20,15 @@ Questo Tutorial spiegherà come copiare WADs dalla Memora del tuo Sistema Wii.
 2. Inserisci la tua scheda SD o chiavetta USB nella tua Wii, e carica Yet Another BlueDump MOD dall'Homebrew Channel.
 
 ##### Sezione 2 - Copiare
-1. Premi il pulsante A. ![Premi A](/images/DumpWADS/2.jpg)
+1. Premi il pulsante A. ![Premi A](/images/DumpWADS/2.png)
 
-2. Scegli `Installed Channel Titles`. ![Titoli Canale Installati](/images/DumpWADS/3.jpg)
+2. Scegli `Installed Channel Titles`. ![Titoli Canale Installati](/images/DumpWADS/3.png)
 
-3. Seleziona ciò che vuoi copiare e premi il pulsante 1. ![Trova Canale](/images/DumpWADS/4.jpg)
+3. Seleziona ciò che vuoi copiare e premi il pulsante 1. ![Trova Canale](/images/DumpWADS/4.png)
 
 4. Seleziona `Backup to WAD`.
 5. Quando arriverà scritto `Fakesign the ticket`, seleziona `Yes`.
 6. Quando arriverà scritto `Fakesign the TMD`, seleziona `Yes`.
-7. Quando arriverà scritto `Change the output WAD region`, premi il pulsante B.
+7. Quando arriverà scritto `Change the output WAD region`, scegli `No`.
 
-Ora hai copiato il WAD. Dovrebbe apparire sulla tua scheda SD. ![Fatto](/images/DumpWADS/6.jpg)
+Ora hai copiato il WAD. Dovrebbe apparire sulla tua scheda SD. ![Fatto](/images/DumpWADS/5.png)
