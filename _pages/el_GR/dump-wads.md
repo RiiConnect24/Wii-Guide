@@ -20,15 +20,15 @@ title: "Αποθήκευση αρχείων WAD"
 2. Εισάγετε το αποθηκευτικό σας μέσο στο Wii και εκκινήστε το Yet Another BlueDump MOD από το Κανάλι Homebrew.
 
 ##### Μέρος II - Εξαγωγή
-1. Πατήστε το πλήκτρο Α. ![Press A](/images/DumpWADS/2.jpg)
+1. Πατήστε το πλήκτρο Α. ![Press A](/images/DumpWADS/2.png)
 
-2. Επιλέξτε `Installed Channel Titles`. ![Installed Channel Titles](/images/DumpWADS/3.jpg)
+2. Επιλέξτε `Installed Channel Titles`. ![Installed Channel Titles](/images/DumpWADS/3.png)
 
-3. Βρείτε την εφαρμογή που θέλετε να εξάγετε και πατήστε το πλήκτρο 1. ![Find channel](/images/DumpWADS/4.jpg)
+3. Βρείτε την εφαρμογή που θέλετε να εξάγετε και πατήστε το πλήκτρο 1. ![Find channel](/images/DumpWADS/4.png)
 
 4. Επιλέξτε `Backup to WAD`.
 5. Στην προτροπή `Fakesign the ticket`, επιλέξτε `Yes`.
 6. Στην προτροπή `Fakesign the TMD`, επιλέξτε `No`.
-7. Στην προτροπή `Change the output WAD region`, πατήστε το πλήκτρο Β.
+7. At the prompt to `Change the output WAD region`, choose `No`.
 
-You have now dumped that WAD. Θα εμφανιστεί στο μέσο αποθήκευσής σας. ![Done](/images/DumpWADS/6.jpg)
+You have now dumped that WAD. Θα εμφανιστεί στο μέσο αποθήκευσής σας. ![Done](/images/DumpWADS/5.png)
