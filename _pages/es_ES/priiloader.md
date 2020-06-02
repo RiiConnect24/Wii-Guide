@@ -68,5 +68,5 @@ Esta es una lista de los hacks que puedes activar con Priiloader.
 [Continuar a la instalación de cIOS](cios)<br> El cIOS (IOS personalizado) es usado para cargar juegos a través de un USB loader. Incluso si no deseas instalarlo, es necesario para usar algunas otras aplicaciones homebrew.
 {: .notice--info}
 
-Si tienes un Wii mini, por favor sigue [esta guía](cios-mini) para instalar el cIOS.
+Si tienes un Wii Mini, por favor sigue [esta guía](cios-mini) para instalar el cIOS.
 {: .notice--info}
