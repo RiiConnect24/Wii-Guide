@@ -21,22 +21,22 @@ Ten exploit nie zadziała na vWii (Tryb Wii w Wii U) Zamiast tego, skorzystaj z 
 - Komputera z systemem operacyjnym Linux
   - Jeżeli korzystasz z Chromebook'a, nie musisz instalować innego systemu operacjnego; zamiast tego, włącz [Trybu Linux'a w ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=pl).
   - Jeżeli masz Raspberry Pi, możesz z niego skorzystać, ponieważ prawdopodobnie masz na nim zainstalowanego Linux'a.
-  - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports.
-  - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
-    - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
+  - Podsystem Windows dla Linux'a * nie zadziała*, ponieważ nie ma bezpośredniego dostępu do adaptera Bluetooth oraz portów USB.
+  - Jeżeli nie masz komputera z systemem Linux [Ubuntu](https://ubuntu.com/download/desktop) jest łatwy w obsłudze oraz może zostać uruchomiony na komputerach z Windows'em lub Mac'iem.
+    - Urządzenia 32 bitowy będą wymagały [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
     - Dla 64 bitowych urządzeń, zalecamy skorzystanie z edycji LTS z powodu jej stabilności. Najnowsza wersja również zadziała.
-  - You can [flash a Linux install to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
+  - Możesz [stworzyć pendrive z Linux'em](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) jeżeli nie chcesz instalować tego systemu na Twoim komputerze.
 - Adapter Bluetooth.
   - Wbudowany adapter Bluetooth również zadziała.
   - Jeżeli nie masz adaptera, upewnij się, że zdobędziesz taki, który jest kompatybilny z Linux'em.
 - Pendrive USB sformatowany do FAT32.
-  - This cannot be the same flash drive used for your Linux Machine.
+  - Nie może być to ten sam pendrive, który wykorzystasz dla Twojej instalacji Linux'a.
 
 #### Sekcja II - Wykonywanie exploitu
-1. Download the HackMii installer from [the BootMii website](https://bootmii.org/download/). (If fixing a Wii brick, you can get a boot.elf of whatever app you want to use to fix the brick.)
+1. Pobierz instalator HackMii ze [strony BootMii](https://bootmii.org/download/). (Jeżeli naprawiasz bricka, możesz zdobyć plik boot.elf z jakiejkolwiek aplikacji, która posłuży ci do odzyskania konsoli)
 1. Wypakuj go oraz skopiuj plik `boot.elf` na Twój pendrive.
 1. Podłącz pendrive do Twojej konsoli. Na Wii Mini, port USB jest na tyle konsoli. Na oryginalnym Wii, użyj dolnego portu. (Lub portu po prawej, jeżeli konsola stoi).
-1. Włącz konsolę oraz przejdź do menu ustawień. W rogu u góry po prawej, powinieneś ujrzeć kod 4 znakowy, taki jak na zdjęciu poniżej. This code is your Wii Menu version, take a note of this as you will need it later. Po zrobieniu tego, wyłącz Twoją konsolę. (If you're trying to use BlueBomb to recover from a brick, you can assume your Wii Menu version is 4.3.) ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+1. Włącz konsolę oraz przejdź do menu ustawień. W rogu u góry po prawej, powinieneś ujrzeć kod 4 znakowy, taki jak na zdjęciu poniżej. Ten kod jest Twoją wersją systemu operacyjnego. Zapisz go, będziemy tego potrzebowali później. Po zrobieniu tego, wyłącz Twoją konsolę. (Jeżeli korzystasz z BlueBomb aby odzyskać konsolę z bricka, załóż, że wersja Twojego Wii Menu to 4.3.) ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Uruchom Twoją dystrybucję Linux'a oraz upewnij się, że jesteś podłączony do Internetu.
 1. Otwórz Terminal Linux'a poprzez naciśnięcie `CTRL + SHIFT + T`.
 1. Uruchom poniższą komendę:
@@ -46,8 +46,8 @@ chmod +x bluebomb-helper.sh
 ./bluebomb-helper.sh
 ```
 1. Skrypt pomocniczy pobierze teraz wymagane pliki oraz zapyta Cię o kilka pytań dotyczące Twojej konsoli.
-  - Jeżeli wybrałeś Wii Mini, zostaniesz zapytany o region Twojej konsoli. This can be determined by the last letter of the Wii Menu version (`U` for **USA** and `E` for **PAL** models).
-  - If you have selected a Wii you will be asked to provide your Wii Menu Version (What you determined in step 4)
+  - Jeżeli wybrałeś Wii Mini, zostaniesz zapytany o region Twojej konsoli. Może on zostać rozpoznany przez ostatnią literę wersji systemu Wii (`U` dla **USA** oraz `E` dla modelu w regionie **PAL**).
+  - Jeżeli wybrałeś Wii, zostanies zapytany o wersję systemu operacyjnego Wii (To, co zapisałeś w kroku czwartym)
 1. Włącz konsolą oraz **nie** podłączaj żadnych kontrolerów.
 1. Zacznij naciskać (nie przytrzymywać) przycisk synchronizacji, dopóki na terminalu nie zostanie wyświetlony `Got connection handle`. Może to wymagać kilku prób - nie poddawaj się!
 
