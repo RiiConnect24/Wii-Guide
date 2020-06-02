@@ -29,6 +29,6 @@ Ten poradnik wyjaśni Ci jak wykonywać kopię zapasową WAD'ów z Twojej pamię
 4. Wybierz `Backup to WAD`.
 5. Przy zapytaniu `Fakesign the ticket`, wybierz `Yes`.
 6. Przy zapytaniu `Fakesign the TMD`, wybierz `No`.
-7. At the prompt to `Change the output WAD region`, choose `No`.
+7. Przy zapytaniu `Change the output WAD region`, wybierz `No`.
 
 Właśnie wykonałeś kopię zapasową pliku WAD. Powinien on teraz znajdować się na Twojej karcie SD. ![Gotowe](/images/DumpWADS/5.png)
