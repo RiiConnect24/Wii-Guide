@@ -42,44 +42,44 @@ Non c'è nessuna "guida" per usare l'applicazione USB Loader GX. Noi vogliamo ai
 {: .notice--info}
 
 * Se USB Loader GX dice "Waiting for HDD..." con un conto alla rovescia di 20 secondi, e probabile che non riesce a trovare il dispositivo USB. Prova ad uscire dall'applicazione, poi caricala nuovamente dopo aver spostato il dispositivo USB nell'altra porta della Wii.
-* Puoi premere il pulsante 1 sul tuo telecomando Wii per aprire un dialogo per scaricare copertine ed artwork da [GameTDB](https://gametdb.com/). It might take a while to download the game covers and artwork, depending on how many games you have.
-* There are WADs that can open up USB Loader GX if you load it from the Wii Menu. This is called a forwarder WAD.
-* GameCube or "custom" Wii games may or may not have a custom banner that USB Loader GX uses. To enable this, find or write `CustomBannersURL = http://banner.rc24.xyz/` in config/GXGlobal.cfg on your USB Drive. Then you can use the "Custom Banner" download by pressing the 1 Button on your Wii Remote.
+* Puoi premere il pulsante 1 sul tuo telecomando Wii per aprire un dialogo per scaricare copertine ed artwork da [GameTDB](https://gametdb.com/). Potrebbe richiedere un po' di tempo per scaricare le copertine ed artwork, in base a quanti giochi hai.
+* Ci sono dei WAD che possono aprire USB Loader GX se lo carichi dal Menù Wii. Si chiama forwarder WAD.
+* Giochi Wii "personalizzati" e GameCube potrebbero non avere la copertina personalizzata che usa USB Loader GX. Per impostarle, cerca o scrivi `CustomBannersURL = http://banner.rc24.xyz/` in config/GXGlobal.cfg sul tuo dispositivo USB. Poi puoi usare il "Custom Banner" download premendo il pulsante 1 sul tuo telecomando Wii.
 
-##### User Interface
+##### Interfaccia
 
-There are multiple buttons in the USB Loader GX interface.
+Ci sono molteplici pulsanti nell'interfaccia di USB Loader GX.
 
-###### Main Menu
+###### Menù Principale
 
-These are the functions the buttons found on the top of the main menu do, from left to right:
+Questi sono i pulsanti di funzione che si trovano sopra il menù principale, da sinistra a destra:
 
-* Star - Shows games that you have marked as "favorites".
-* Search - Lets you search for games by name.
-* Sort - Cycles through sorting methods for games.
-* Platform - Choose to sort games by platform.
-* Category - Sorts games by category.
-* List - Shows games in a list view.
-* Multi-Cover View - Shows games in a multi-cover view.
-* Cover Carousel View - Shows games in a carousel view.
-* Wii Menu View - Shows games in a Wii Menu view.
-* Parental Control - Locks USB Loader GX.
-* Disc - Loads a game via disc.
+* Star - Mostra i giochi che hai scelto come "preferiti".
+* Search - Ti permette di cercare giochi dal nome.
+* Sort - Imposta il metodo per disporre i giochi.
+* Platform - Scegli di disporre giochi in base alla piattaforma.
+* Category - Dispone i giochi in base alla loro categoria.
+* List - Mostra i giochi tramite una lista.
+* Multi-Cover View - Mostra i giochi nella modalità multi-cover.
+* Cover Carousel View - Mostra i giochi nella modalità carousel.
+* Wii Menù View - Mostra i giochi nella modalità Menù Wii.
+* Parental Control - Blocca USB Loader GX.
+* Disc - Carica i giochi dal disco.
 
-Pressing any game will allow you to play the game by pressing "Start".
+Premendo su qualunque gioco ti permetterà di giocarlo premendo "Start".
 
-There are also other buttons:
+Ci sono anche altri pulsanti:
 
-* + Icon - "Install" a game, i.e. loading it from disc and dumping it.
-* Gears - Settings for USB Loader GX.
-* SD card - Remount the SD card.
-* Homebrew - Load homebrew apps.
-* Wii - Open up the HOME Menu, which can also be accessed by pressing the HOME Button on the Wii Remote.
-* Power Button - Turn off your Wii.
+* Icona + - "Installa" un gioco, ovvero lo carica da un disco e lo copia.
+* Ingranaggi - Impostazioni di USB Loader GX.
+* Scheda SD - Guarda la scheda SD.
+* Homebrew - Carica le applicazioni Homebrew.
+* Wii - Apre il Menù HOME, che è accessibile anche premendo il pulsante HOME sul telecomando Wii.
+* Pulsante di spegnimento - Spegne la tua Wii.
 
-On the middle of the bottom of the screen, you can see how much space is free on your USB Drive and how many games you have.
+Nel mezzo della schermata inferiore, puoi vedere quanto spazio è libero sul tuo dispositivo USB e quanti giochi hai.
 
-##### Options once complete
+##### Opzioni una volta completate
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
 {: .notice--info}
