@@ -12,7 +12,7 @@ Bist du das langweilige, triste, weiße Design deines Wii-Menüs satt und hätte
 Für den Fall eines Bricks [ist die Installation von Priiloader ein Muss](priiloader). Installiere außerdem BootMii (als boot2, falls du eine ältere Wii hast). Die Installation von Brick-Schutz, sowie das richtige Befolgen der Anleitung sollte dich sicher vor Bricks bewahren. FAHRE NICHT FORT, BIS DU PRIILOADER UND BOOTMII INSTALLIERT HAST!
 {: .notice--warning}
 
-Installiere kein alternatives Design auf deiner vWii (Wii U)! Das wird es bricken.
+Installiere kein alternatives Design auf deiner vWii (Wii U)! Das würde sie bricken.
 {: .notice--warning}
 
 Aus Sicherheitsgründen, verwende bitte keine andere Version von MyMenuify als die hier verlinkte, da MyMenuify Mod der sicherste Weg zum installieren eines Designs ist.
