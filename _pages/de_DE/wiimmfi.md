@@ -77,7 +77,7 @@ Du kannst WiiWare-Spiele patchen, um mit ihnen auf Wiimmfi zu spielen.
 - [Auto WiiWare Patcher](https://github.com/RiiConnect24/auto-wiiware-patcher/releases) (plattformübergreifend)
 - [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
-[Wenn du sehen willst, wie man den WiiWare Patcher verwendet, klicke hier!](wiiwarepatcher)
+[Wenn du sehen willst wie man den WiiWare Patcher verwendet, klicke hier!](wiiwarepatcher)
 {: .notice--info}
 
 Schritte:
