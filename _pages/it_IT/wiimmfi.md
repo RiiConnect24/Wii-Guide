@@ -4,62 +4,62 @@ title: "Wiimmfi"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se hai bisogno di aiuto per questo tutorial, unisciti a [il server Discord RiiConnect24 ](https://discord.gg/b4Y7jfD) (raccomandato) o [mandaci una e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
 
-[Wiimmfi](https://wiimmfi.de) is a replacement service for the now-defunct Nintendo Wi-Fi Connection. It has been developed by Wiimm and Leseratte.
+[Wimmfi](https://wiimmfi.de) è un servizio che sostituisce l'ormai defunta Nintendo Wi-Fi Connection. E' stato sviluppato da Wimm e Leseratte.
 
-## Different patchers
+## Vari Patchers
 
-There are lots of different methods to connect to Wiimmfi.
+Ci sono molti metodi di connettersi a Wiimmfi.
 
-### Homebrew (Disc) Application
-MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
+### Applicazione (Disco) Hombrew
+MrBean35000vr (creatore di CTGP-R, un pacchetto contenuti per Mario Kart Wii) ha creato un Wiimmfi Disc Patcher che ti permette di inserire un disco e patchare il gioco al volo per usare Wimmfi, però deve attivarsi tutte le volte che avvii il disco.
 
-#### What you need
-* An SD card or USB drive
-* [Auto Wiimmfi Patcher](/assets/files/autowiimmfipatcher-0.6.zip)
+#### Di cosa hai bisogno
+* Una scheda SD o dispositivo USB
+* [Auto Wimmfi Patcher](/assets/files/autowiimmfipatcher-0.6.zip)
 
-#### Instructions
+#### Istruzioni
 
-1. Extract Auto Wiimmfi Patcher and put it in the `apps` folder on your SD card or USB drive.
-2. Insert your SD Card into your Wii, and launch Auto Wiimmfi Patcher from the Homebrew Channel.
-3. Insert your game disc (you can insert it before or after launch, it doesn't matter).
-4. Wait for patch to complete, and it'll begin!
+1. Estrai Auto Wiimmfi Patcher e mettilo nella cartella`apps` sulla tua scheda SD o dispositivo USB.
+2. Inserisci la tua scheda SD dentro la tua Wii, e carica Auto Wiimmfi Patcher dall'Hombrew Channel.
+3. Inserisci il tuo disco (puoi anche inserirlo prima, non importa).
+4. Aspetta che la patch finisca, e potrai andare!
 
-### No-Homebrew (Disc)
-Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
+### No-Hombrew (Disco)
+Grazie all'exploit str2hax di Fullmetal5, che Leseratte ha adattato al Wiimmfi Patcher, puoi caricare la patch Wiimmfi anche senza homebrew sulla tua Wii.
 
-#### What you need
-* A Wii with an Internet connection
+#### Di cosa hai bisogno
+* Una Wii con connessione Internet
 
-#### Instructions
+#### Istruzioni
 
-1. Insert your game disc.
-2. Go into your internet connection settings and set the DNS server of your console to 95.217.77.151.
-3. Go to the WC24 contract information (third button after clicking on "Internet" in the settings).
-4. Confirm that you do want to use WC24 and the shop channel
-5. The Wiimmfi patcher page should show up. If it doesn't, and you still see the default license agreement, your router might not be compatible with this method.
-6. Wait for about 1 minute and 30 seconds for the patcher to load
-7. The game should now start with the Wiimmfi patch included
+1. Inserisci il tuo disco.
+2. Vai sulla tua connessione internet ed imposta il server DNS della tua console a 95.217.77.151.
+3. Vai sulle informazione del contratto WC24 (terzo bottone dopo aver cliccato su "Internet" nelle impostazioni).
+4. Conferma che vuoi usare WC24 e lo Shop Channel
+5. La pagina del Wiimmfi patcher dovrebbe mostrarsi. Se non lo fa, e vedi ancora il normale accordo di licenza, il tuo router potrebbe non essere compatibile con questo metodo.
+6. Aspetta circa 1 minuto e 30 secondi per caricare il patcher
+7. Il gioco adesso dovrebbe avviarsi con la patch Wiimmfi inclusa
 
 ### ISO Patching
-You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
+Magari vorresti non caricare un patcher ogni volta che vuoi giocare su Wimmfi, e magari utilizzi già un USB Loader. Per quello, gli ISO Patchers sono stati creati, per alcuni giochi specifici.
 
-#### What you need
-- Your copy of your game (WBFS, ISO, cISO, and other forms that a Wii can use are supported).
-- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows only)  
-**or**
-- Wiimm's ISO Patcher (cross platform)
-   - [Patcher for Mario Kart Wii](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip)
-   - [Patcher for all other games](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z)
-- A USB Loader, cIOS, and a USB to store the game on (you should already have these if you're using a USB Loader)
+#### Di cosa hai bisogno
+- La tua copia del gioco (WBFS, ISO, cISO, ed altri formati che la Wii può usare sono supportati).
+- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Solo per Windows)  
+**oppure**
+- L'ISO Patcher di Wimm (multi-piattaforma)
+   - [Patcher per Mario Kart Wii](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip)
+   - [Patcher per gli altri giochi](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z)
+- Un USB Loader, cIOS, ed un dispositivo USB dove mettere il gioco (dovresti già averli se stai usando un USB Loader)
 
-#### Instructions
-1. Extract the patcher of your choice to a folder, and place your copy of the game in it.
-2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the patcher for your game.
+#### Istruzioni
+1. Estrai il patcher di tua scelta in una cartella, e mettici la tua copia del gioco.
+2. Lancia il patch script per il tuo OS: solitamente finisce con `.bat` per Windows e `.sh` per Mac/Linux. Se stai usando RiiConnect24 Patcher, seleziona il tuo dispositivo (Wii, vWii o Dolphin) e scegli il patcher per il tuo gioco.
 3. Once it's finished, get the version out of the `wiimmfi-images` folder (it may be in the folder before the patcher - ../wiimmfi-images) and copy it back to your USB.
 
 ### Automatic patching using an USB-Loader
