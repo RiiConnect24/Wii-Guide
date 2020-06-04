@@ -23,7 +23,7 @@ Cet exploit ne fonctionnera pas dans le mode vWii de la Wii U. Veuillez vous ré
   - Si vous avez un Raspberry Pi, vous pouvez l'utiliser puisque Linux y est la plupart du temps préinstallé.
   - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports.
   - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
-    - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
+    - Les appareils 32-bit nécessiteront [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
     - Pour les appareils 64-bit, il est recommandé d'utiliser l'édition LTS pour sa stabilité, mais la dernière version fonctionnera également.
   - You can [flash a Linux install to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
 - Un adaptateur Bluetooth.
@@ -36,7 +36,7 @@ Cet exploit ne fonctionnera pas dans le mode vWii de la Wii U. Veuillez vous ré
 1. Download the HackMii installer from [the BootMii website](https://bootmii.org/download/). (If fixing a Wii brick, you can get a boot.elf of whatever app you want to use to fix the brick.)
 1. Extrayez-le et placez le fichier `boot.elf` sur votre clé USB.
 1. Branchez la clé USB sur la console. Sur une Wii Mini, le port USB se trouve à l'arrière. Sur une Wii normale, utilisez le port du bas. (ou le port de droite si votre Wii est à la verticale).
-1. Allumez votre Wii et allez dans le menu des paramètres. En haut à droite vous devriez voir une suite de 4 caractères comme dans l'image ci-dessous. This code is your Wii Menu version, take a note of this as you will need it later. Après cela, éteignez votre console. (If you're trying to use BlueBomb to recover from a brick, you can assume your Wii Menu version is 4.3.) ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+1. Allumez votre Wii et allez dans le menu des paramètres. En haut à droite vous devriez voir une suite de 4 caractères comme dans l'image ci-dessous. Ce code est la version de votre menu Wii, notez-le car vous en aurez besoin plus tard. Après cela, éteignez votre console. (If you're trying to use BlueBomb to recover from a brick, you can assume your Wii Menu version is 4.3.) ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Lancez votre distribution Linux assurez-vous d'être connectés à internet.
 1. Ouvrez le Terminal Linux en appuyant sur `CTRL + SHIFT + T`.
 1. Exécutez les commandes suivantes :
@@ -46,7 +46,7 @@ chmod +x bluebomb-helper.sh
 ./bluebomb-helper.sh
 ```
 1. Le script "helper" téléchargera alors les fichiers nécessaires et vous demandera des informations à propos de votre console.
-  - Si vous avez sélectionné "Wii Mini" votre région vous sera demandée. This can be determined by the last letter of the Wii Menu version (`U` for **USA** and `E` for **PAL** models).
+  - Si vous avez sélectionné "Wii Mini" votre région vous sera demandée. Elle peut être déterminée par la dernière lettre de la version du menu Wii (`U` pour les **USA** et `E` pour les modèles **PAL**).
   - If you have selected a Wii you will be asked to provide your Wii Menu Version (What you determined in step 4)
 1. Allumez la console et **ne connectez aucune** télécommande Wii.
 1. Appuyez de façon répétée sur le bouton Sync de la console jusqu'à ce que le terminal affiche `got connection handle`. Il vous faudra peut-être de nombreux essais, alors n'abandonnez pas.
