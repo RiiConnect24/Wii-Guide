@@ -25,7 +25,7 @@ Far girare Homebrew sulla tua Nintendo Wii è gratuito usando vari exploit.
 Qui c'è una lista di funzioni incluse negli homebrew. Anche se queste non saranno tutte le cose che puoi fare con Homebrew, dovrebbe darti un'idea iniziale di ciò che puoi fare. La nostra guida ti aiuterà ad iniziare facilmente.
 
 - Puoi patchare contenuti di un disco (permettendoti di modificare il gioco) usando [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
-- Installa temi sul tuo menù Wii usando [MeMenuify](themes).
+- Installa temi sul tuo menù Wii usando [MyMenuify](themes).
 - Installa un USB Loader come [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) o [USB Loader GX](usbloadergx) per caricare tutti i tuoi titoli preferiti da un dispositivo USB ed altro.
 - Effettua backup dei tuoi dischi con [CleanRip](/dump-games) ed installa giochi con [YABDM](dump-wads)
 - Effettua backup e ripristina dati di salvataggio con [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
