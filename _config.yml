@@ -148,7 +148,7 @@ exclude: [
   _pages/fi_FI,
   _pages/fr_FR,
   _pages/he_IL,
-  _pages/it_IT,
+  # _pages/it_IT,
   _pages/ja_JP,
   _pages/ko_KR,
   _pages/nl_NL,
