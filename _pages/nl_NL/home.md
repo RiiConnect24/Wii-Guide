@@ -25,14 +25,14 @@ Running homebrew on your Nintendo Wii is free using various exploits.
 Here's a list of things you can do with it. While these aren't all the things you can do with homebrew, it should give you a starting point for things you can do. Our guide will help you easily get started.
 
 - Uw cd-rom spellen patchen (zorgt dat u het spel kan spelen met modificaties) door middel van [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
-- Eigen Wii Menu Thema's installeren via [MyMenuify](/themes).
-- Een "USB Loader" installeren zoals [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) of [USB Loader GX](/usbloadergx) om zo u favoriete spellen te spelen vanaf een USB-stick / harde schijf of zelfs vanaf uw SD-kaart.
-- Uw spellen bewaren door middel van [CleanRip](/dump-games) en spellen installeren met behulp van [YABDM](/dump-wads)
+- Install themes to your Wii Menu using [MyMenuify](themes).
+- Install a USB Loader like [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
+- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](dump-wads)
 - Back up and restore your save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
-- Nieuwe homebrew applicaties installeren via het [Homebrew Browser](/hbb)
-- Opnieuw gebruik kunnen maken van stop gezetten online diensten zoals [WiiConnect24](/riiconnect24) & [Nintendo WFC](/wiimmfi).
+- Download new homebrew apps with the [Homebrew Browser](hbb)
+- Restore discontinued online services, such as [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
 - Uw Wii systeem geheugen (NAND genoemd) kopiëren naar uw SD-kaart of terug zetten op uw Wii via een SD-kaart met behulp van [BootMii](http://bootmii.org).
-- Uw Wii beschermen tegen een "brick" (Wanneer een deel van uw Wii of zelfs de hele Wii niet meer functioneert) door het gebruik van [Priiloader](/priiloader) en BootMii.
+- Protect your Wii from bricks using [Priiloader](priiloader) and BootMii.
 - Uw Wii omtoveren tot een mediaspeler met [WiiMC](http://www.wiimc.org/).
 
 Get started by [choosing your exploit](get-started)!

@@ -2,16 +2,16 @@
 title: "FlashHax"
 ---
 
-Si vous avez besoin d’aide pour quelconque chose dans ce tutoriel, veuillez rejoindre le discord [RiiConnect24](https://discord.gg/b4Y7jfD) (Recommandé) ou d’envoyer un [email](mailto:support@riiconnect24.net).
+Si vous avez besoin d'aide à propos de ce tutoriel, veuillez rejoindre [le serveur Discord de RiiConnect24](https://discord.gg/b4Y7jfD) (recommandé, aide en anglais) ou envoyez-nous un mail à [support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 FlashHax est une faille fait pour la chaîne internet Wii. Pas comme les autres, celui ci n’a pas besoin de carte SD.
 
 #### Qu’est-ce que vous avez besoin
 
-- Une Wii avec une connection internet et à la version 4.3
-- La chaîne internet
-   - Ne peut pas être installé sur une vWii ou une Wii mini. Regardez les autres guide listées dans [Commencer](/get-started).
+- Une Wii avec une connexion internet et qui se trouve en version système 4.3
+- La Chaîne Internet
+   - Ne peut pas être installé sur une vWii ou une Wii mini. Veuillez vous référer aux autres guide listés dans [Pour Débuter](/get-started).
 
 #### Instructions
 
@@ -21,5 +21,5 @@ FlashHax est une faille fait pour la chaîne internet Wii. Pas comme les autres,
 
 Si la faille HackMii ne charge pas ou ce gèle (vous ne pouvez pas bouger le curseur) veuillez relancer votre Wii et répéter la partit 3 jusqu’à que cela marche. Cela vas prendre pas mal d’essais, veuillez être persistant!
 
-[Continuer sur la chaîne homebrew et l’installation de BootMii](hbc)
+[Continuer vers l'installation de la Chaîne Homebrew et de BootMii](hbc)
 {: .notice--info}

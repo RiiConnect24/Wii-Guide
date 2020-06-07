@@ -9,39 +9,39 @@ Als u hulp nodig heeft bij iets wat met deze tutorial te maken heeft, sluit u da
 
 RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You connect it to a USB Loader, and the tag updates on-the-fly. You need a Discord account in order to start using RiiTag.
 
-#### What you need
+#### Benodigdheden
 
-* A computer
-* A text editor
-* A USB Loader
+* Een Computer
+* Een tekst bewerker
+* Een USB Loader
 
-#### Instructions
+#### Instructies
 
-##### Section I - Getting Started
+##### Deel I - Beginnen
 
-1. [Go to the RiiTag site.](https://tag.rc24.xyz/)
-2. Click `Log In` and log in with your Discord account.
-3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Click `Authorize`.
-4. Click `Edit Your Tag` and customize it to how you like. You can add a background, overlay, flag, nickname, Wii Number, and manually enter in games to show on your tag (not needed if you're using a USB Loader).
-5. Click `Show Key` and make note of the key shown. This is not needed if you're using USB Loader GX, as the key will be in a downloadable file.
-6. Click `Submit` to save your changes.
+1. [Ga naar de RiiTag website.](https://tag.rc24.xyz/)
+2. Klik op `Log In` en log in met uw Discord account.
+3. Een venster zal dan openen met de vraag of u `RiiConnect24 Login` wilt toestaan via Discord. Klik op `Authorize`.
+4. Klik op`Edit Your Tag` u kunt de opties die hier te vinden zijn naar keuze invullen. U kunt een achtergrond, overlay, vlag, bijnaam, Wii nummer en zelfs toevoegen om deze te laten zien op uw tag (dit is niet nodig als u een USB loader gebruikt).
+5. Klik op `Show Key` en kopieer deze cijfers (een key genoemd) ergens waar u makkelijk bij kunt. Dit is niet nodig als u USB Loader GX gebruikt want dan zal uw key een download baar bestand zijn.
+6. Klik op `Submit` om uw veranderingen op te slaan.
 
-Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
+Deel uw RiiTag key nooit met andere mensen! Als u dit wel doet kunnen met uw key misbruiken.
 {: .notice--warning}
 
-##### Section II - Connecting Your USB Loader
+##### Deel II - Aan sluiten op een USB Loader
 
-The steps to connect RiiTag to your USB Loader depend on what USB Loader you use.
+De stappen om RiiTag met uw USB Loader te connecten verschillen per USB Loader.
 
 ###### USB Loader GX
 
-1. Load USB Loader GX on your Wii.
-2. Go to `Settings` > `Features` and turn `Wiinnertag` on. Press `Yes` or `OK` to any dialogs that show up.
-3. Ensure that `Initialize Network` is turned on.
-4. Exit USB Loader GX.
-5. Insert the SD Card or USB device where your USB Loader GX data is into your computer.
-6. [Go to this page.](https://tag.rc24.xyz/Wiinnertag.xml)
-7. On your browser, right click, and click `Save As`.
+1. Laadt USB Loader GX op uw Wii.
+2. Ga naar `Settings` > `Features` en zet `Wiinnertag` aan. Klik op `Yes` of `OK` als er dialogen vensters openen.
+3. Check of `Initialize Network` aan staat, zo niet zet dit dan aan.
+4. Verlaat USB Loader GX.
+5. Stop uw SD-kaart of USB-stick / hardeschijf waar uw USB Loader GX data op staat in uw computer.
+6. [Ga naar deze pagina.](https://tag.rc24.xyz/Wiinnertag.xml)
+7. Op uw webbrowser, klik op uw rechtermuisknop en dan op `Opslaan als`.
 8. Save the XML to `/apps/usbloader_gx`  folder on your SD Card or USB device, replacing the existing `Wiinnertag.xml`.
 9. You have now set up RiiTag. You can try loading any game now to see if it works correctly.
 

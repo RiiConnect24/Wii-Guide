@@ -14,40 +14,40 @@ BlueBomb ist ein Exploit, welcher eine Lücke in der Bluetooth-Programmbibliothe
 Für die originale Wii empfehlen wir [einen anderen Exploit](/get-started) zu verwenden, wenn du vorhast den Homebrew-Kanal oder BootMii zu installieren.
 {: .notice--info}
 
-Dieser Exploit wird nicht auf der vWii einer Wii U funktionieren. Please follow [this guide](https://wiiuguide.xyz/#/vwii-modding) instead.
+Dieser Exploit wird nicht auf der vWii einer Wii U funktionieren. Bitte folge stattdessen [dieser Anleitung](https://wiiuguide.xyz/#/vwii-modding).
 {: .notice--warning}
 
 #### Abschnitt 1 - Voraussetzungen
 - Ein Linux-Computer
   - Wenn du ein Chromebook benutzt, musst du nicht noch ein anderes Betriebssystem installieren; Aktiviere stattdessen [Linux auf ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=de).
   - Falls du einen Raspberry Pi besitzt, kannst du diesen stattdessen verwenden, da dort Linux wahrscheinlich bereits vorinstalliert ist.
-  - Das Windows-Subsystem für Linux wird **nicht** funktionieren, da es nicht auf `systemctl` zugreifen kann.
-  - Falls du kein Linux besitzt, ist [Ubuntu](https://ubuntu.com/download/desktop) die benutzerfreundlichste Wahl
-    - 32-Bit-Geräte werden [Ubuntu 16.04](http://releases.ubuntu.com/16.04/) benötigen
+  - Das Windows Subsystem for Linux wird *nicht funktionieren*, da es keinen direkten Zugriff auf den Bluetooth-Adapter oder die USB-Ports hat.
+  - Falls du kein Linux hast, ist [Ubuntu](https://ubuntu.com/download/desktop) die nutzerfreundlichste Option und kann auf Computern ausgeführt werden, auf denen Windows oder macOS läuft.
+    - 32-Bit-Geräte erfordern [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
     - Für 64-Bit-Geräte wird aufgrund der Stabilität eine LTS-Version empfohlen, aber die aktuellsten Versionen funktionieren ebenfalls.
-  - Du kannst [Linux auf einem USB-Stick installieren](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview), falls du es nicht auf deinem Computer installieren möchtest.
+  - Du kannst  [Linux auch auf ein USB-Massenspeichergerät](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) anstatt auf deinem Computer installieren.
 - Ein Bluetooth-Adapter.
   - Ein interner Bluetooth-Adapter wird funktionieren.
   - Falls du keinen Bluetooth-Adapter besitzt, stelle sicher dass du einen erwirbst, welcher mit Linux kompatibel ist.
 - Ein USB-Stick, der mit FAT32 formatiert ist.
-  - Dies kann nicht derselbe Stick sein, der für dein Linux-System verwendet wird
+  - Dies kann nicht derselbe Stick sein, der für dein Linux-System verwendet wird.
 
 #### Abschnitt 2 - Ausführen des Exploits
-1. Lade den HackMii Installer von [der BootMii-Website](https://bootmii.org/download/) herunter.
+1. Lade den HackMii Installer von [der BootMii-Website](https://bootmii.org/download/) herunter. (Falls du einen Wii-Brick behebst, kannst du eine boot.elf von einer beliebigen Anwendung erhalten, die du zum Beheben des Bricks verwenden möchtest)
 1. Entpacke ihn und verschiebe die `boot.elf`-Datei auf dein Laufwerk.
 1. Verbinde das Laufwerk mit deiner Konsole. Bei einer Wii mini befindet sich der USB-Anschluss auf der Rückseite. Benutze bei einer normalen Wii den unteren Anschluss (oder den rechten Port bei senkrechter Aufstellung).
-1. Schalte deine Konsole an und navigiere in die Systemeinstellungen. In der oberen rechten Ecke solltest du ein vierstelliges Kürzel, wie das im Bild unten, sehen. Dieses Kürzel ist deine System-Menü-Version. Notiere sie, da du sie später benötigen wirst. Schalte danach deine Konsole aus. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+1. Schalte deine Konsole an und navigiere in die Systemeinstellungen. In der oberen rechten Ecke solltest du ein vierstelliges Kürzel, wie das im Bild unten, sehen. Dieses Kürzel ist deine Wii-Menü-Version. Notiere sie, da du sie später benötigen wirst. Schalte danach deine Konsole aus. (Falls du versuchst BlueBomb zu benutzen, um einen Brick zu beheben, kannst du annehmen, dass deine Wii-Menü-Version 4.3 ist.) ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Starte deine Linux-Distribution und stelle sicher, dass du mit dem Internet verbunden bist.
 1. Öffne das Linux-Terminal, indem du `Strg + Umschalttaste + T` drückst.
 1. Führe folgende Befehle aus:
 ```bash
-wget https://raw.githubusercontent.com/RiiConnect24/Wii-Guide/master/assets/files/bluebomb-helper.sh
+wget https://wii.guide/assets/files/bluebomb-helper.sh
 chmod +x bluebomb-helper.sh
 ./bluebomb-helper.sh
 ```
 1. Der Helper beginnt dann mit dem Herunterladen der benötigten Dateien und wird dich über Informationen zu deiner Konsole befragen.
-  - Falls du eine Wii mini ausgewählt hast, wirst du nach deiner Region gefragt. Diese kann über den letzten Buchstaben der Systemmenü-Version ermittelt werden (`U` für **US-** und `E` für **PAL**-Modelle).
-  - Falls du eine Wii ausgewählt hast, wirst du nach deiner Wii-Systemmenü-Version (die du in Schritt 4 herausgefunden hast) gefragt.
+  - Falls du eine Wii mini ausgewählt hast, wirst du nach deiner Region gefragt. Diese kann über den letzten Buchstaben der Wii-Menü-Version ermittelt werden (`U` für **US-** und `E` für **PAL**-Modelle).
+  - Falls du eine Wii ausgewählt hast, wirst du nach deiner Wii-Menü-Version gefragt (welche du in Schritt 4 herausgefunden hast)
 1. Schalte deine Konsole ein und verbinde **keine** Wii-Fernbedienungen.
 1. Drücke die Sync-Taste wiederholt, bis das Terminal `got connection handle` anzeigt. Dies kann mehrere Versuche benötigen, gib daher nicht auf.
 

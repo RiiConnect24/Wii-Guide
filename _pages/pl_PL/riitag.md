@@ -42,7 +42,7 @@ Poniższe kroki dotyczące konfiguracji RiiTag'u będą zależeć od USB Loader'
 5. Podłącz do Twojego komputera urządzenie (kartę SD lub USB) na którym znajduje się USB Loader GX.
 6. [Przejdź na tą stronę (kliknij tutaj).](https://tag.rc24.xyz/Wiinnertag.xml)
 7. W Twojej przeglądarce, naciśnij prawy przycisk oraz wybierz `Zapisz jako`.
-8. Save the XML to `/apps/usbloader_gx`  folder on your SD Card or USB device, replacing the existing `Wiinnertag.xml`.
+8. Zapisz plik XML do folderu `/apps/usbloader_gx`na Twojej karcie SD lub urządzeniu USB, zastępując istniejący tam plik `Wiinnertag.xml`.
 9. Ukończyłeś konfigurację RiiTag. Możesz teraz spróbować załadować jakąś grę oraz sprawdzić czy wszystko działa poprawnie.
 
 ###### WiiFlow

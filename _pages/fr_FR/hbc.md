@@ -17,17 +17,17 @@ La chaîne homebrew peut permettre de lancer des applications homebrew. BootMii 
 
 2. Quand l’installateur HackMii vas apparaître, vous pouvez installer la chaîne homebrew ainsi que BootMii.![Results](/images/Wii/Results.png)
 
-3. Appuyer sur « continue » et choisissez « Homebrew Channel » et appuyer sur « install ». ![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
+3. Appuyez sur `Continue`, choisissez `Homebrew Channel` puis sélectionnez `Install`.![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
-4. Appuyer sur « continuer » quand cela a fini. ![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
+4. Appuyez sur `Continue` une fois l'installation terminée.![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
 
-5. Quand cela a fini de s’installer appuyer en arrière et aller sur BootMii.
-6. Si l’écran vous dit que vous pouvez l’installer en tant que boot2, faite le. Ceci vas vous donner un niveau de protection de brick qui vas ce lancer au moment que la wii vas ce lancer. Ceci va vous permettre de fixer un brick ou de restaurer une sauvegarde de la console.
-7. If it does not say you can install as boot2, install as IOS. While this doesn't give you brick protection compared to its boot2 counterpart, it will still allow you to make a NAND backup.
+5. Revenez en arrière et sélectionnez `BootMii`.
+6. Si l’écran vous dit que vous pouvez installer BootMii en tant que boot2, faites-le. Cela vous donne un niveau de protection anti-brick lors du démarrage de la Wii, et vous permet de charger des homebrew pour réparer un brick ou de restaurer la console depuis une sauvegarde NAND.
+7. S'il ne dit pas que vous pouvez l'installer comme boot2, installez BootMii en tant qu'IOS. Bien que cette option ne permet pas de protection anti-brick contrairement à la première, elle vous permet toujours d'effectuer une sauvegarde de la NAND.
 
 ![BootMii Installation](/images/Wii/InstallBootMii.jpg)
 
-8. Once done, select `Continue` to exit the HackMii installer.
+8. Une fois terminé, sélectionnez `Continue` afin de quitter l'installateur HackMii.
 
-[Continue to BootMii Backup](bootmii)<br> Making a NAND backup with BootMii at this point is recommended.
+[Continuer vers la Sauvegarde BootMii](bootmii)<br> Créer une sauvegarde de la NAND de votre console à l’aide de BootMii est recommandé à ce stade.
 {: .notice--info}

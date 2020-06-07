@@ -52,8 +52,8 @@ Skorzystaj z tej metody jeżeli nie chcesz uruchamiać patchera za każdym razem
 - Twoja kopia gry (w formacie WBFS, ISO, cISO lub inne formaty, które Wii wspiera).
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Tylko dla Windows'a)</1> **lub**
 - Wiimm's ISO Patcher (na różnych platformach)
-   - [Dla gry Mario Kart Wii](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip)
-   - [Dla innych gier niż Mario Kart Wii](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z)
+   - [Patcher dla Mario Kart Wii](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip)
+   - [Patcher dla wszystkich innych gier](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z)
 - Zainstalowany USB Loader, cIOS oraz urządzenie USB, na którym będziesz przechowywał gry (powinieneś już to mieć jeżeli już korzystałeś z USB Loader'a)
 
 #### Instrukcje

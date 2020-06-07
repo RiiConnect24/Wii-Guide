@@ -45,3 +45,4 @@ Si has recibido alguno de los siguientes errores, deberías poder arreglar el re
 Intenta usar el canal que te estaba dando problemas.
 
 [Volver a la guía de instalación de RiiConnect24](riiconnect24)
+{: .notice--info}

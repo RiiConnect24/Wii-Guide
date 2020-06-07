@@ -6,7 +6,7 @@ header:
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
   cta_label: "Los geht's"
-  cta_url: "/de_DE/get-started"
+  cta_url: "get-started"
   caption:
 excerpt: "Die vollständige Anleitung zum Modden deiner Nintendo Wii."
 ---
@@ -26,8 +26,8 @@ Hier eine Liste verschiedener Möglichkeiten. Auch wenn dies nicht alles ist, wa
 
 - Patche Spiele-Disc-Inhalte (was dir erlaubt, Spiele-Modifikationen zu laden) mit [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
 - Installiere Designs in deinem Wii-Menü mithilfe von [MyMenuify](themes).
-- Installiere einen USB Loader wie [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) oder [USB Loader GX](usbloadergx), um all deine Lieblings Spiele von einem USB-Speichergerät zu starten und mehr.
-- Sichere deine Disks mit [CleanRip](dump-games) und installierte Spiele mit [YABDM](dump-wads)
+- Installiere einen USB Loader wie [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) oder [USB Loader GX](usbloadergx), um all deine Lieblings-Spiele von einem USB-Speichergerät zu starten und mehr.
+- Sichere deine Disks mit [CleanRip](/dump-games) und installierte Spiele mit [YABDM](dump-wads)
 - Sichere deine Speicherdateien mit [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
 - Lade neue Homebrew-Anwendungen mit dem [Homebrew Browser](hbb) herunter
 - Stelle eingestellte Online-Dienste wieder her, wie [WiiConnect24](riiconnect24) & die [Nintendo WFC Dienste](wiimmfi).

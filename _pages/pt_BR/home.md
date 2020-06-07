@@ -25,14 +25,14 @@ Running homebrew on your Nintendo Wii is free using various exploits.
 Here's a list of things you can do with it. While these aren't all the things you can do with homebrew, it should give you a starting point for things you can do. Our guide will help you easily get started.
 
 - Aplicar patches no conteúdo do disco dos jogos (permitindo que você jogue com modificações) usando [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
-- Instalar temas no Wii Menu usando [MyMenuify](/themes).
-- Instalar um USB Loader como [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) ou [USB Loader GX](/usbloadergx) para jogar seus títulos favoritos através de um dispositivo USB.
-- Fazer backup dos seus discos com [CleanRip](/dump-games) e jogos e títulos instalados com com [YABDM](/dump-wads)
+- Install themes to your Wii Menu using [MyMenuify](themes).
+- Install a USB Loader like [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
+- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](dump-wads)
 - Fazer backup e restaurar seus dados salvos de jogos com [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
-- Baixar novos aplicativos homebrew com [Homebrew Browser](/hbb)
-- Reativar serviços online descontinuados, como [WiiConnect24](/riiconnect24) e [Nintendo WFC](/wiimmfi).
+- Download new homebrew apps with the [Homebrew Browser](hbb)
+- Restore discontinued online services, such as [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
 - Fazer backup e restaurar cópias do armazenamento do Wii (NAND) usando [BootMii](http://bootmii.org).
-- Proteger seu Wii de bricks usando [Priiloader](/priiloader) e BootMii.
+- Protect your Wii from bricks using [Priiloader](priiloader) and BootMii.
 - Transformar seu Wii em um reprodutor de mídia com [WiiMC](http://www.wiimc.org/).
 
 Get started by [choosing your exploit](get-started)!

@@ -13,10 +13,10 @@ Vous pouvez soit envoyer un mail à support@riiconnect24.net ou rejoindre [le se
 ### Quelles sont les exigences et/ou les recommandations pour ma carte SD ?
 Vous avez besoin d'une carte SD de minimum 128 Mo pour exécuter un exploit.
 
-- If you are using the LetterBomb exploit, your SD card should be no larger than 32 GB.
-- If you are using the BlueBomb exploit, you do not need an SD card
+- Si vous utilisez l'exploit LetterBomb, votre carte SD ne doit pas dépasser les 32 Go.
+- Si vous utiliser l’exploit BlueBomb, vous n’avez pas besoin d’une carte SD.
 
-To store homebrew applications, we recommend an SD card with at least 2 GB.
+Afin de stocker des applications homebrew, nous vous recommandons une carte SD d’au moins 2 Go.
 
 ### J'ai eu une erreur XXXXXX sur Wiimmfi, comment réparer cela ?
 Afin de vérifier de quelle erreur il s'agit, veuillez visiter [la page d'erreur de Wiimmfi](https://wiimmfi.de/error) (site en anglais).

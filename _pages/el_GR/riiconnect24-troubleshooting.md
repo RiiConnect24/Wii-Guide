@@ -45,3 +45,4 @@ If you're getting one of these errors (and not any other error), you should be a
 Try to launch the Channel you were having trouble with now.
 
 [Return to RiiConnect24 installation page](riiconnect24)
+{: .notice--info}

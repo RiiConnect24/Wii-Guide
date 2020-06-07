@@ -6,7 +6,7 @@ header:
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
   cta_label: "Comenzar"
-  cta_url: "/es_ES/get-started"
+  cta_url: "comenzando"
   caption:
 excerpt: "La guía más completa para modificar tu consola Nintendo Wii."
 ---
@@ -46,8 +46,8 @@ Estas son algunas otras fuentes y guías relacionadas con la modificación de la
 - [ModMii](http://modmii.000webhostapp.com/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
-- [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/)
+- [Hacking del Wii Explicado - por Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/)
 
 Para modificar un Wii U, hay algunas opciones adicionales:
-- [The Definitive vWii Hacking Guide](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
-- [NH Wii U Guide](https://wiiuguide.xyz)
+- [La Guía Definitiva del Hacking de vWii](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
+- [Wii Guide U de NH](https://wiiuguide.xyz)

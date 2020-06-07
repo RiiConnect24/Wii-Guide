@@ -49,17 +49,17 @@ Gracias al exploit str2hax creado por Fullmetal5, el cual Leseratte fue capaz de
 Tal vez no quieras tener que iniciar el parche cada vez que desees jugar en Wiimmfi, y tal vez ya estés usando un USB loader. Por esta razón, también es posible parchear los juegos guardados en una unidad USB.
 
 #### Requisitos
-- La copia de tu juego (es formato WBFS, ISO o cISO).
+- La copia de tu juego (los formatos WBFS, ISO y cISO están soportados).
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (sólo para Windows)  
-**or**
-- Wiimm's Disc Patcher
-   - [Versión para Mario Kart Wii](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip)
-   - [Versión para otros juegos](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z)
-- USB loader, cIOS, y una unidad USB para guardar el juego (ya deberías de tener estas cosas si ya estás usando un USB loader)
+**o**
+- Wiimm's ISO Patcher (multiplatforma)
+   - [Parche para Mario Kart Wii](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip)
+   - [Parche para otros juegos](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z)
+- Un USB Loader, cIOS, y un USB para guardar los juegos en (ya debería tener estos si está usando un cargador USB)
 
 #### Instrucciones
 1. Extrae el parche de tu elección y después coloca la copia del juego en la misma carpeta.
-2. Ejecuta la versión del parche apropiada para tu sistema operativo: el archivo `.bat` es para Windows y el archivo `.sh` es para Mac/Linux. Si estás usando el RiiConnect24 Patcher, selecciona tu consola (Wii, vWii o Dolphin) y después elige el parche adecuado.
+2. Comience el script de patch por tu OS: generalmente, terminará en `.bat` para Windows y `.sh` para Mac/Linux. Si tu estás usando el RiiConnect24 Patcher, seleccione su dispositivo (Wii, vWii, o Dolphin) y seleccione el WiiWare patcher.
 3. Una vez terminado el proceso, copia a tu unidad USB el juego parcheado que está ubicado en la carpeta `wiimmfi-images`.
 
 ### Parchear automáticamente usando un USB loader
@@ -71,10 +71,10 @@ También es posible parchear juegos de WiiWare para jugarlos en Wiimmfi.
 #### Requisitos
 
 - Una tarjeta SD
-- Una copia de tu juego en formato WAD
-- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (sólo para Windows)  
-**or**
-- [Auto WiiWare Patcher](https://github.com/RiiConnect24/auto-wiiware-patcher/releases)
+- Una copia de tu juego (en formato WAD)
+- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (solo Windows)  
+**o**
+- [Auto WiiWare Patcher](https://github.com/RiiConnect24/auto-wiiware-patcher/releases) (plataforma cruzada)
 - [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
 [Si quieres saber cómo usar Auto WiiWare Patcher, ¡haz clic aquí!](wiiwarepatcher)
@@ -82,7 +82,7 @@ También es posible parchear juegos de WiiWare para jugarlos en Wiimmfi.
 
 Instrucciones:
 1. Extrae Auto WiiWare Patcher y después coloca tu WAD en la misma carpeta.
-2. Ejecuta la versión del parche apropiada para tu sistema operativo: el archivo `.bat` es para Windows y el archivo `.sh` es para Mac/Linux. Si estás usando el RiiConnect24 Patcher, selecciona tu consola (Wii, vWii o Dolphin) y después elige `WiiWare Patcher`.
+2. Comience el script de patch por tu OS: generalmente, terminará en `.bat` para Windows y `.sh` para Mac/Linux. Si tu estás usando el RiiConnect24 Patcher, seleccione su dispositivo (Wii, vWii, o Dolphin) y seleccione el WiiWare patcher.
 3. Una vez que el proceso haya finalizado, instala el WAD parcheado ubicado en la carpeta `wiiware-wads` usando Wii Mod Lite.
 
 ## Otras cosas

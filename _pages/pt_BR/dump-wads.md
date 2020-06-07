@@ -20,15 +20,15 @@ Este tutorial explica como fazer backup de WADs instaladas na memória do sistem
 2. Insira seu Cartão SD ou USB no Wii e inicie o Yet Another BlueDump MOD pelo Homebrew Channel.
 
 ##### Parte II - Fazer o Backup
-1. Pressione o botão A. ![Pressione A](/images/DumpWADS/2.jpg)
+1. Pressione o botão A. ![Pressione A](/images/DumpWADS/2.png)
 
-2. Selecione `Installed Channel Titles`. ![Canais Instalados](/images/DumpWADS/3.jpg)
+2. Selecione `Installed Channel Titles`. ![Canais Instalados](/images/DumpWADS/3.png)
 
-3. Encontre o conteúdo que deseja extrair e pressione o botão 1. ![Encontrar canal](/images/DumpWADS/4.jpg)
+3. Encontre o conteúdo que deseja extrair e pressione o botão 1. ![Encontrar canal](/images/DumpWADS/4.png)
 
 4. Selecione `Backup to WAD`.
 5. Quando aparecer `Fakesign the ticket`, selecione `Yes`.
 6. Quando aparecer `Fakesign the TMD`, selecione `No`.
-7. Quando aparecer `Change the output WAD region`, aperte o botão B.
+7. At the prompt to `Change the output WAD region`, choose `No`.
 
-Você acabou de extrair o arquivo WAD. Ele deve agora aparecer no seu cartão SD. ![Concluído](/images/DumpWADS/6.jpg)
+Você acabou de extrair o arquivo WAD. Ele deve agora aparecer no seu cartão SD. ![Concluído](/images/DumpWADS/5.png)
