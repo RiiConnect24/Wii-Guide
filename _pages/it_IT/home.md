@@ -6,7 +6,7 @@ header:
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
   cta_label: "Iniziare"
-  cta_url: "iniziare"
+  cta_url: "get-started"
   caption:
 excerpt: "La guida completa per moddare la tua Nintendo Wii."
 ---
@@ -30,7 +30,7 @@ Qui c'è una lista di funzioni incluse negli homebrew. Anche se queste non saran
 - Effettua backup dei tuoi dischi con [CleanRip](/dump-games) ed installa giochi con [YABDM](dump-wads)
 - Effettua backup e ripristina dati di salvataggio con [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
 - Scarica nuove applicazioni homebrew con [Homebrew Broser](hbb)
-- Ripristina servizi online terminati, come [WiiConnect24](riiconnect24)&[Nintendo WFC services](wiimmfi).
+- Ripristina servizi online terminati, come [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
 - Effettua backup e ripristina copie della memoria del tuo sistema Wii (NAND) usando [BootMii](http://bootmii.org).
 - Proteggi la tua Wii da brick usando [Priiloader](priiloader) e BootMii.
 - Trasforma la tua Wii in un video riproduttore con [WiiMC](http://www.wiimc.org/).
