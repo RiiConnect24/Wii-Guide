@@ -57,7 +57,7 @@ These are the functions the buttons found on the top of the main menu do, from l
 * Estrela - Mostra os jogos que marcaste como favoritos.
 * Busca - Permite que procures jogos pelo nome.
 * Ordenar - Permite escolhe diferentes métodos de ordenação de jogos.
-* Platform - Choose to sort games by platform.
+* Plataforma - Escolhe a organização de jogos por plataforma.
 * Categoria - Organiza os jogos por categoria.
 * Lista - Mostra o jogos em forma de lista.
 * Multi-Cover View - Shows games in a multi-cover view.
@@ -68,7 +68,7 @@ These are the functions the buttons found on the top of the main menu do, from l
 
 Pressing any game will allow you to play the game by pressing "Start".
 
-There are also other buttons:
+Também tens outros botões:
 
 * Ícone + - "Instala" um jogo, por ex., carregá-lo a partir do disco e copiá-lo.
 * Engrenagens - Definições do USB Loader GX.
