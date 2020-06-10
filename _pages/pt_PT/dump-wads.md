@@ -29,6 +29,6 @@ Este tutorial irá te explicar como copiar WADs da tua memória do sistema Wii.
 4. Escolhe `Backup to WAD`.
 5. No prompt para `Fakesign the ticket`, escolhe `Yes`.
 6. No prompt para `Fakesign the TMD`, escolhe `No`.
-7. At the prompt to `Change the output WAD region`, choose `No`.
+7. No prompt para `Change the output WAD region`, escolhe `No`.
 
 Agora tens o WAD copiado. Isto deve aparecer no teu cartão SD. ![Done](/images/DumpWADS/5.png)
