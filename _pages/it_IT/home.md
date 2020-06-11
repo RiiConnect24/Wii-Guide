@@ -40,7 +40,7 @@ Puoi iniziare [scegliendo il tuo exploit](get-started)!
 
 ## Altre risorse
 
-Ci sono anche altre buone risorse per moddare Wii e problemi vari che possono aiutare:
+Ci sono anche altre buone risorse per moddare Wii e soluzioni a problemi vari:
 
 - [Guida al Softmodding Completa](https://sites.google.com/site/completesg/)
 - [ModMii](http://modmii.000webhostapp.com/)
