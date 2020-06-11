@@ -38,7 +38,7 @@ Questo exploit ti richiede di impostare il tuo DNS per connettersi al servere ch
 
 ##### Sezione 2 - Eseguire l'Exploit
 
-1. Vai sulla sezione `Internet`, poi su ` Accordi User` o su `Accordi/Contatti`, poi `Si`.
+1. Vai sulla sezione `Internet`, poi su `Accordi User` o su `Accordi/Contatti`, poi `Si`.
 2. Se vedi un pony sulla schermata con uno sfondo celeste, hai impostato il tutto correttamente. Attendi 1-2 minuti per aspettare che l'exploit si attivi (dovrebbe richiedere circa 1 minuto e 25 secondi). L'exploit installerà l'HackMii Installer perrfarti continuare.
 
 Se l'HackMii Installer non carica e se frizza (non puoi muovere il tuo cursore) o non ci mette 1-2 minuti ad attivarsi, per favore riavvia la tua Wii e riprova l'exploit.
