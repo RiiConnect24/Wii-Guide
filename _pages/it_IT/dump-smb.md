@@ -4,7 +4,7 @@ title: "Copiare un gioco si rete locale"
 
 {% include toc title="Table of Contents" %}
 
-Se hai bisogno di aiuto per questo tutorial, vai su [il server di Discors su RiiConnect24](https://discord.gg/b4Y7jfD) (raccomandato) oppure [scrivi una e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se hai bisogno di aiuto per questo tutorial, vai sul [server Discord RiiConnect24](https://discord.gg/b4Y7jfD) (raccomandato, solo in inglese) oppure [scrivi una e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Vuoi copiare giochi tramite la tua rete locale? Segui questo tutorial! Questo può essere utile se non hai una scheda SS on un dispositivo USB abbatsanza grande su cui mettere il gioco.
