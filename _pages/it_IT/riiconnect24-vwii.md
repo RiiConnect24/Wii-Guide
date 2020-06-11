@@ -47,9 +47,9 @@ Usando il patcher RiiConnect24 che dovresti aver installato prima in [Di cosa ha
 
 1. Carica `RiiConnect24Patcher.bat` dal tuo PC, e segui le istruzioni sullo schermo.
 2. Dopo aver caricato le cose tramite il patcher, dovresti avere 3 cartelle. Dovrebbero essere nella stessa cartella dove `RiiConnect24Patcher.bat` si trova sulla tua scheda SD (ovviamente, solo se hai scelto un'opzione nel patcher per farlo).
-   - Se il patcher non ha spostato questi file sulla tua scheda SD, spostali alla base della tua scheda SD.
+   - Se il patcher non ha spostato questi file sulla tua scheda SD, spostali alla radice della tua scheda SD.
 
-##### Sezione 2 - Installare i nuovi WAS patchati
+##### Sezione 2 - Installare i nuovi WAD patchati
 
 1. Apri il canale Homebrew Channel
 2. Carica Wii Mod Lite
@@ -61,7 +61,7 @@ Usando il patcher RiiConnect24 che dovresti aver installato prima in [Di cosa ha
 
 Dopo aver seguito le istruzioni sopra, sarai quasi capace di usare RiiConnect24 sulla tua Wii U. Devi solo seguire questi step **dopo ogni riavvio Wii virtuale**.
 
-1. Nel **menù Wii** della Wii virtuale, carica **l'Homebre Channel** e carica l'applicazione Homebrew **ConnectMii**.
+1. Nel **menù Wii** della Wii virtuale, carica **l'Homebrew Channel** e carica l'applicazione Homebrew **ConnectMii**.
 * Questo abiliterà le Connessioni Standby di WiiConnect24 richieste dai canali WiiConnect24.
 2. Lancia i canali WiiConnect24
 *Ora dovresti poter utilizzare tutti i canali WiiConnect24 che hai installato!
@@ -69,7 +69,7 @@ Dopo aver seguito le istruzioni sopra, sarai quasi capace di usare RiiConnect24 
 #### Cosa funziona attualmente?
 I servizi RiiConnect24 che **funzionano** sulla Wii virtuale sono:
 * Canale News
-    * Questo canale è afflitto da problemi coi timestamp. L'"Ultimo Aggiornato" e l'articolo timestamp saranno sbagliati.
+    * Questo canale è afflitto da problemi coi timestamp. L "Ultimo Aggiornato" ed i timestamp dell'articolo saranno sbagliati.
     * Anche i dati del banner non funzionano, tornando `Impossibile di ottenere i dati.`
 * Canale Nintendo
 * Everybody Votes Channel
