@@ -2,7 +2,7 @@
 title: "LetterBomb"
 ---
 
-Se hai bisogno di aiuto per questo tutorial, vai su [il server di Discors su RiiConnect24](https://discord.gg/b4Y7jfD) (raccomandato) oppure [scrivi una e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se hai bisogno di aiuto per questo tutorial, vai sul [server Discord RiiConnect24](https://discord.gg/b4Y7jfD) (raccomandato, solo in inglese) oppure [scrivi una e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![LetterBomb](/images/letterbomb.png)
@@ -12,7 +12,7 @@ LetterBomb è un exploit per Wii attivabile usando la Wii Message Board.
 Questo exploit è uno dei tanti. Guarda la pagina [Iniziare](/get-started) per altre opzioni.
 {: .notice--info}
 
-#### Ciò di cui hai bisogno
+#### Di cosa hai bisogno
 - Una SD card
 - Una Wii aggiornata alla 4.3
    - Questo exploit non funziona sulla Wii virtuale o la Wii mini
@@ -20,7 +20,7 @@ Questo exploit è uno dei tanti. Guarda la pagina [Iniziare](/get-started) per a
 #### Istruzioni
 
 1. Vai nelle `Impostazioni della Wii` -> `Internet` -> `Informazioni sulla Console` e prendi nota del tuo MAC address.
-2. Vai su [please.hackmii.com](https://please.hackmii.com), Inserisci Wii MAC address e la tua regione, completa il CAPTCHA, *fai si che `Bundle the HackMii Installer for me!` sia attivato*, e tagliare entrambi i fili
+2. Vai su [please.hackmii.com](https://please.hackmii.com), Inserisci il tuo Wii MAC address e la tua regione, completa il CAPTCHA, *fai si che `Bundle the HackMii Installer for me!` sia attivato*, e taglia uno dei fili
    - Qualunque filo scegli di tagliare non importa. ![Schermata HackMii](/images/Wii/LetterBomb-PC.png)
 3. Estrai il contenuto dello ZIP sulla SD.
 4. Sulla tua Wii, ritorna al menu e apri la Message Board.
