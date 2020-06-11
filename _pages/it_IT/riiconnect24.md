@@ -9,7 +9,7 @@ Se hai bisogno di aiuto per questo tutorial, vai su [il server di Discord su Rii
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-[RiiConnect24](https://rc24.xyz/) ti permette di usare servizi terminati come WiiConnect24, che include i canali News, Forecast, Everybody Votes, Nintendo e Check Mii Iut, assieme a Wii Mail.
+[RiiConnect24](https://rc24.xyz/) ti permette di usare servizi terminati come WiiConnect24, che include i canali News, Forecast, Everybody Votes, Nintendo e Check Mii out, assieme a Wii Mail.
 
 {% capture notice-1 %}
 Questa guida è solo per la Wii originale.
@@ -46,12 +46,12 @@ Ora patcherai i tuoi IOS, `IOS31` e `IOS80`. Questo è necessario per usare i Ca
 
 1. Scarica i file richiesti basati sul tuo OS. Su Windows carica `RiiConnect24Patcher.bat`.
 2. Segui le istruzioni che ti dice.
-3. Dovresti prendere i canali che vuoi. Devono essere installari **anche se gli hai già sulla tua Wii, perché ne avrai bisogno di installare i WAD patchati**.
+3. Dovresti prendere i canali che vuoi. Devono essere installati **anche se gli hai già sulla tua Wii, perché ne avrai bisogno per installare i WAD patchati**.
 4. (`Se RiiConnect24 Patcher ha copiato tutto sulla scheda SD o dispositivo USB, puoi saltare questa parte`) Copia le cartelle `apps` e `wad` sulla tua scheda SD o dispositivo USB.
 5. Inserisci la tua scheda SD o dispositivo USB dentro la tua Wii.
 6. Carica l'Homebrew Channel sulla tua Wii.
 7. Carica Wii Mod Lite.
-8. Usando ul tuo +Control Pad sul telecomando Wii, naviga su `WAD Manager`, e poi naviga sulla cartella `wad`.
+8. Usando il tuo +Control Pad sul telecomando Wii, naviga su `WAD Manager`, e poi naviga sulla cartella `wad`.
 9. Quando `IOS31.wad` è in primo piano, premi +, poi fai lo stesso per gli altri WAD.
 10. Se ottieni un errore che dice che un titolo con una versione più alta è già installata (errore -1035), torna indietro sul menù selezione WAD e premi - sul WAD in primo piano per disinstallarlo, poi prova a re-installarlo.
 11. Dopo averli installati con successo, premi il pulsante HOME per uscire e tornare all'Homebrew Channel.
@@ -88,7 +88,7 @@ Devi impostare il tuo DNS per far puntare i nostri server ai Canali Forecast e N
 13. Vai su `WiiConnect24`, poi su `WiiConnect24` di nuovo, ed assicurati che sia attivato.
 14. Torna sul menù di WiiConnect24, vai su `Connessione Standby` ed assicurati che sia attivato.
 15. Su `Illuminazione Slot`, ti consigliamo di impostare le luci su `Dim` oppure `Accesso`, ma è opzionale.
-16. Infine, vai sulla sezione `Internet`, poi su ` Accordi User` o su `Accordi/Contatti`, poi `Si`. Per favore leggi attentamente.
+16. Infine, vai sulla sezione `Internet`, poi su `Accordi User` o su `Accordi/Contatti`, poi `Si`. Per favore leggi attentamente.
 
 
 [Continua su Wiimmfi](wiimmfi)<br> Wiimmfi ti permette di giocare giochi online dopo il termina della Nintendo Wi-Fi Connection. Questo è opzionale da installare.
