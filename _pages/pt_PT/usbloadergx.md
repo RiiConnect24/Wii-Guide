@@ -42,9 +42,9 @@ Não há nenhum "guia" para utilizar o USB Loader GX. Isto irá apenas ajudar-te
 {: .notice--info}
 
 * Se o USB Loader GX disser "Waiting for HDD..." com uma contagem regressiva de 20 segundos, quer dizer que não consegue encontrar o USB Drive. Tenta sair da app, e reabre-o depois de colocares o USB Drive na outra entrada da tua Wii.
-* You can press the 1 Button on your Wii Remote to open up a dialog to download game covers and artwork from [GameTDB](https://gametdb.com/). It might take a while to download the game covers and artwork, depending on how many games you have.
-* There are WADs that can open up USB Loader GX if you load it from the Wii Menu. This is called a forwarder WAD.
-* GameCube or "custom" Wii games may or may not have a custom banner that USB Loader GX uses. To enable this, find or write `CustomBannersURL = http://banner.rc24.xyz/` in config/GXGlobal.cfg on your USB Drive. Then you can use the "Custom Banner" download by pressing the 1 Button on your Wii Remote.
+* Podes pressionar o botão 1 do teu Comando Wii para abrir um diálogo para descarregar as capas dos jogos a partir do [GameTDB](https://gametdb.com/). Poderá demorar um pouco a descarregar as capas dos jogos, isto dependerá de quantos jogos tiveres.
+* Existem WADs que podem abrir o USB Loader GX se o carregares a partir do Wii Menu. Isto chama-se "forwarder WAD".
+* Jogos GameCube ou jogos Wii "personalizados" podem ter ou não ter um banner personalizado que o USB Loader GX utiliza. Para ativá-lo, encontra ou escreve `CustomBannersURL = http://banner.rc24.xyz/` em config/GXGlobal.cfg no teu USB Drive. Assim podes utilizar o "Custom Banner" pressionando o botão 1 no teu Comando Wii.
 
 ##### Interface de utilizador
 
@@ -52,7 +52,7 @@ Há múltiplos botões na interface do USB Loader GX.
 
 ###### Menu Principal
 
-These are the functions the buttons found on the top of the main menu do, from left to right:
+Estas são as funções dos botões que estão na parte superior, da direita para a esquerda:
 
 * Estrela - Mostra os jogos que marcaste como favoritos.
 * Busca - Permite que procures jogos pelo nome.
@@ -60,13 +60,13 @@ These are the functions the buttons found on the top of the main menu do, from l
 * Plataforma - Escolhe a organização de jogos por plataforma.
 * Categoria - Organiza os jogos por categoria.
 * Lista - Mostra o jogos em forma de lista.
-* Multi-Cover View - Shows games in a multi-cover view.
-* Cover Carousel View - Shows games in a carousel view.
-* Wii Menu View - Shows games in a Wii Menu view.
-* Parental Control - Locks USB Loader GX.
-* Disc - Loads a game via disc.
+* Vista de Múltiplas Capas - Mostra os jogos numa vista de múltiplas capas.
+* Vista de Capas em Carrossel - Mostra o jogos em vista de carrossel.
+* Vista de Wii Menu - Mostra jogos em vista do Wii Menu.
+* Controlo Parental - Bloqueia o USB Loader GX.
+* Disco - Carrega um jogo pelo disco.
 
-Pressing any game will allow you to play the game by pressing "Start".
+Ao pressionar qualquer jogo, poderás jogar o jogo pressionando em "Start".
 
 Também tens outros botões:
 
