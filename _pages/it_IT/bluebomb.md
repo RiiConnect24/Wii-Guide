@@ -4,14 +4,14 @@ title: "BlueBomb"
 
 {% include toc title="Table of Contents" %}
 
-Se hai bisogno di aiuto riguardo questo tutorial, unisciti a [the Wii Mini Hacking Discord server](https://discord.gg/6ryxnkS) (raccomandato)
+Se hai bisogno di aiuto riguardo questo tutorial, unisciti al [the Wii Mini Hacking Discord server](https://discord.gg/6ryxnkS) (raccomandato)
 {: .notice--info}
 
 ![BlueBomb](/images/bluebomb.png)
 
 Bluebomb è un exploit che si approfitta degli errori nelle librerie Bluetooth della Wii e Wii mini. Nonostante sia l'unico exploit che funzioni sulla Wii mini, Bluebomb funziona anche sulla Wii originale. Questo exploit può anche recuperarsi da alcuni bricks, come il banner brick.
 
-Per la Wii originale, consigliamo di usare [ un altro exploit ](/get-started) se invece lo intendi installare sull'Homebrew Channel e/o BootMii.
+Per la Wii originale, consigliamo di usare [un altro exploit](/get-started) se invece lo intendi installare sull'Homebrew Channel e/o BootMii.
 {: .notice--info}
 
 Questo exploit non funziona sulla Wii virtuale della Wii U. Per favore segui [ questa guida ](https://wiiuguide.xyz/#/vwii-modding) invece.
@@ -20,7 +20,7 @@ Questo exploit non funziona sulla Wii virtuale della Wii U. Per favore segui [ q
 #### Sezione 1 - Di cosa hai bisogno
 - Una macchina Linux
   - Se stai usando un Chromebook, non hai bisogno di installare un altro Sistema Operativo; invece, attiva [Linux in ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en).
-  - Se possiedi un Raspberry Pi, puoi usarlo siccome ha molto probabilmente Linux per-installato.
+  - Se possiedi un Raspberry Pi, puoi usarlo siccome ha molto probabilmente Linux pre-installato.
   - Il Windows Subsystem per Linux *non funzionerà* perché non ha accesso diretto ad un adattatore Bluetooth o porte USB.
   - Se non hai Linux [Ubuntu](https://ubuntu.com/download/desktop) è l'opzione più semplice ed è disponibile per computer Windows o Mac.
     - I Sistemi a 32-bit richiedono [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
