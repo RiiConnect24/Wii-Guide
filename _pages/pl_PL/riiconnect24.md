@@ -81,7 +81,7 @@ Musimy teraz ustawić serwer DNS aby przekierować Forecast oraz News Channel na
 6. Przejdź do `Change Settings`.
 7. Przejdź do `Auto-Obtain DNS` (Nie IP Address) oraz wybierz `No`, oraz kliknij na `Advanced Settings`.
 8. Wpisz `164.132.44.106` jako Primary DNS.
-9. Wpisz `8.8.8.8` jako secondary DNS (lub `1.1.1.1`).
+9. Type in `1.1.1.1` as the secondary DNS (if it gives you problems, try `8.8.8.8`).
 10. Wybierz `Confirm`, oraz wybierz `Save`.
 11. Wybierz `OK` aby przeprowadzić test połączenia Internetowego.
 12. Jeżeli połączenie było pomyślne, wybierz `No` aby pominąć sprawdzenie aktualizacji systemu.
@@ -97,13 +97,13 @@ Musimy teraz ustawić serwer DNS aby przekierować Forecast oraz News Channel na
 Jeżeli otrzymasz błąd 107245, prawdopodobnie nie udało Ci się poprawnie zainstalować plików IOS z poprawkami.
 {: .notice--info}
 
-Jeżeli otrzymasz błąd 107304, prawdopodobnie Twój dostawca Internetu blokuje możliwość korzystania z innych serwerów DNS. Obejściem tego problemu może być uruchomienie Twojego własnego serwera DNS! Zobacz nasz [serwer DNS RiiConnect24 na serwisie GitHub](https://github.com/RiiConnect24/DNS-Server). Po uruchomieniu serwera, w kroku ósmym - zamiast naszego adresu DNS, użyj adresu IP Twojego komputera.
+Jeżeli otrzymasz błąd 107304, prawdopodobnie Twój dostawca Internetu blokuje możliwość korzystania z innych serwerów DNS. Obejściem tego problemu może być uruchomienie Twojego własnego serwera DNS! See the [RiiConnect24 DNS Server on GitHub](https://github.com/RiiConnect24/DNS-Server), then use your PC's IP address in place of our DNS in Step 8.
 {: .notice--info}
 
 [Jeżeli otrzymasz błąd FORE000006, spróbuj skorzystać z naszego poradnika aby ten błąd naprawić. (Nie naprawi to błędu NEWS000006).](riiconnect24-batteryfix)
 {: .notice--warning}
 
-[Jeżeli otrzymujesz błąd `WiiConnect24 and Wii Shop Channel are currently not being offered in your country`, wejdź do Ustawień Wii -> Ostatnia strona -> Country i zmień wartość na United Kingdom [lub Poland, jeżeli czytasz ten poradnik po Polsku]. Otrzymasz ten błąd, jeżeli korzystasz z kraju, którego nie wspieramy. Napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net) jeżeli potrzebujesz więcej pomocy.
+[If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, please go to Wii Settings -> Last Page -> Country and change it to United Kingdom. Otrzymasz ten błąd, jeżeli korzystasz z kraju, którego nie wspieramy. Napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net) jeżeli potrzebujesz więcej pomocy.
 {: .notice--warning}
 
 [Jeżeli otrzymujesz błędy o zakończeniu wsparcia, które pojawiają się po otworzeniu News Channel lub Forecast Channel, mamy instrukcje, które mogą to naprawić.](riiconnect24-troubleshooting)
