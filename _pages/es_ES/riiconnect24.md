@@ -81,7 +81,7 @@ Necesitarás ajustar tu configuración de DNS para redirigir a los canales Tiemp
 6. Presiona en `Modificar`.
 7. Pasa hasta la cuarta página, donde está la opción `Obtener DNS automáticamente` (no es en Obtener drección IP automáticamente), elige `No` y después selecciona `Configuración avanzada`.
 8. Ingresa `164.132.44.106` como el DNS primario.
-9. Ingresa `8.8.8.8` como el DNS secundario (también puede ser `1.1.1.1`).
+9. Type in `1.1.1.1` as the secondary DNS (if it gives you problems, try `8.8.8.8`).
 10. Selecciona `Confirmar` y después elige `Guardar`.
 11. Selecciona `Aceptar` para realizar una prueba de conexión.
 12. Si la prueba de conexión ha sido exitosa, elige `No` para saltar la actualización de la consola Wii.
@@ -97,13 +97,13 @@ Necesitarás ajustar tu configuración de DNS para redirigir a los canales Tiemp
 Si te aparece el error 107245, entonces es probable que no hayas parcheado tus IOS correctamente.
 {: .notice--info}
 
-Si por otra parte recibes el error 107304, entonces eso significa que tu ISP (proveedor de servicios de internet) bloquea el uso de DNS alternativos. Una solución a este problema puede ser ejecutar tu propio servidor DNS Echa un vistazo a nuestro [servidor DNS en GitHub](https://github.com/RiiConnect24/DNS-Server) y coloca la dirección IP de tu PC en lugar de la nuestra en el paso 8.
+Si por otra parte recibes el error 107304, entonces eso significa que tu ISP (proveedor de servicios de internet) bloquea el uso de DNS alternativos. Una solución a este problema puede ser ejecutar tu propio servidor DNS See the [RiiConnect24 DNS Server on GitHub](https://github.com/RiiConnect24/DNS-Server), then use your PC's IP address in place of our DNS in Step 8.
 {: .notice--info}
 
 [Si te aparece el error FORE000006, puedes seguir esta guía para intentar solucionarlo. (Esto no funciona con el error NEWS000006).](riiconnect24-batteryfix)
 {: .notice--warning}
 
-Si estás recibiendo un error que diga que los servicios de WiiConnect24 y el Canal Tienda Wii no están disponibles en tu país, por favor ve hacia ->Configuración de Wii-> en ->Opciones de Wii->, pasa hasta la última página, elige ->País->, y selecciona ->Reino Unido->. Este error aparece si tu consola está configurada con un país que no soportamos. En caso de que necesites más ayuda, por favor [envíanos un e-mail](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
+[If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, please go to Wii Settings -> Last Page -> Country and change it to United Kingdom. Este error aparece si tu consola está configurada con un país que no soportamos. En caso de que necesites más ayuda, por favor [envíanos un e-mail](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
 {: .notice--warning}
 
 [Si has recibido un error en el Canal Tiempo o Noticias que dice que el servicio ha sido descontinuado, tenemos algunas instrucciones que podrían ayudarte a solucionar el problema.](riiconnect24-troubleshooting)
