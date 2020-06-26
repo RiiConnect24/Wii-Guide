@@ -43,7 +43,7 @@ CERTIFICA-TE QUE LESTE OS AVISOS ACIMA ANTES DE CONTINUAR!
 * Lê o post do GBAtemp e procura um tema que queiras instalar. Alguns temas têm vídeos no YouTube que mostram como os temas são, mas infelizmente alguns deles estão indisponíveis.
 * Uma vez que encontraste um tema que gostaste, clica no link correspondente à tua versão Wii Menu para descarregar. **É muito importante que obtenhas o corretor para evitar bricks.**
 * Provavelmente irás escolher um link que diz 4.X, isso significa que o tema que descarregaste funcionará na versão 4.1, 4.2 e 4.3 do Wii Menu.
-* Some themes have different links for different regions, so pick the one corresponding to your Wii's region.
+* Alguns temas têm diferentes links para diferentes regiões, por isso, entra no link que corresponde à região da tua Wii.
 * There are other resources for Wii Menu themes, but they might be in csm form (ready to install on the Wii). If the csm doesn't match the version and region of your Wii Menu, try to convert it to mym with ThemeMii, and then convert it back to csm with the instructions here using the version and region of your Wii Menu.
 * Once you downloaded the theme you want and double-checked you got the right one, open up ThemeMii Mod.
 
