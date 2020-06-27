@@ -69,17 +69,17 @@ Depois de seguires a secções acima, tu estás quase capaz de utilizar RiiConne
 #### O que está a funcionar?
 Os seguintes serviços RiiConnect24 estão **a funcionar** na vWii:
 * News Channel
-    * Este canal é afetado pelo problema do timestamp. The "Last Updated" and article timestamps will be incorrect.
-    * The banner data is also known to not work, returning `Unable to obtain data.`
+    * Este canal é afetado pelo problema do timestamp. O "Last Update" e os timestamps de artigos poderão estar incorretos.
+    * Os dados do banner também não funcionam, pois aparece um erro `Unable to obtain data.`
 * Nintendo Channel
 * Everybody Votes Channel
 * Check Mii Out Channel / Mii Contest Channel
 {: .notice--success}
 
-The following RiiConnect24 services are **not working** on the vWii:
-* Wii Mail (most functionality does not exist on vWii)
-    * This includes sending/receiving mail to/from friends. You can only receive global broadcast mail and posts from RSSMii feeds (if set up).
+Os seguintes serviços do RiiConnect24 **não funcionam** no vWii:
+* Wii Mail (maioria das funcionalidades não existem no vWii)
+    * Isto inclui enviar/receber mail para/de amigos. Apenas podes receber mensagens globais e publicações dos feeds do RSSMii (se estiver configurado).
 * Forecast Channel
-    * This channel is affected by the timestamp issue. This is preventing the channel from getting past the loading screen, returning the `FORE000006` error.
+    * Este canal é afetado pelo problema do timestamp. This is preventing the channel from getting past the loading screen, returning the `FORE000006` error.
 * Everything else that isn't working according to [RiiConnect24 stats](https://rc24.xyz/stats/index.html).
 {: .notice--warning}
