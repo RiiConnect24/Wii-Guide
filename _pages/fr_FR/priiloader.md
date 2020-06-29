@@ -57,7 +57,7 @@ Ci-dessous se trouve une liste des hacks qui peuvent être activés avec Priiloa
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Réactive les chaînes qui ont ces identifiants (et qui ont été bloquées par des mises à jours système car elles étaient des exploits).                          |
 | Remove NoCopy Save File Protection      | Autorise la copie de fichiers de sauvegarde normalement désactivés sur l'écran de gestion des données.                                                         |
 | Region Free Channels                    | Désactive le zonage pour les chaînes Wii.                                                                                                                      |
-| Force Disc Games to run under IOS249    | Force les applications disque à utiliser le cIOS 249 comme IOS du jeu.                                                                                         |
+| Force Disc Games to run under IOS249    | Make discs use cIOS 249 as the game's IOS. Do not enable this, as you will get Error 002 on most games with it.                                                |
 | Auto-Press A at Health Screen           | Appuie automatiquement sur le bouton A pour passer l'écran "Santé et Sécurité" au démarrage.                                                                   |
 | Force Standard Recovery Mode            | Lance automatiquement la console en mode récupération. Utilisé pour lancer des disques de récupération, laissant les utilisateurs débricker leurs Wii.         |
 | OSReport to UsbGecko(slot B)            | Envoie les logs du Menu Wii vers un appareil de débogage dans le slot de carte mémoire B.                                                                      |
