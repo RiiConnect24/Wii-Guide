@@ -57,7 +57,7 @@ Poniżej znajduje się lista hacków, które możesz włączyć w Priiloaderze.
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Kanały z tymi ID skasowane przez Nintendo są ponownie widoczne.                                                                                                  |
 | Remove NoCopy Save File Protection      | Pozwala Ci aby skopiować zapisy gier w Data Management które są zazwyczaj zablokowane.                                                                           |
 | Region Free Channels                    | Ustawia każdy kanał Wii na region free.                                                                                                                          |
-| Force Disc Games to run under IOS249    | Powoduje że gry na płytach uruchamiają się z cIOS 249.                                                                                                           |
+| Force Disc Games to run under IOS249    | Make discs use cIOS 249 as the game's IOS. Do not enable this, as you will get Error 002 on most games with it.                                                  |
 | Auto-Press A at Health Screen           | Automatycznie naciska A na ekranie "Health and Safety".                                                                                                          |
 | Force Standard Recovery Mode            | Daje Ci dostęp do trybu awaryjnego aby uruchomić płyty recovery. Ten tryb służy do odbrickowania konsoli.                                                        |
 | OSReport to UsbGecko(slot B)            | Pozwala na wysłanie logów Wii Menu do urządzenia debugującego w slocie B karty pamięci.                                                                          |
