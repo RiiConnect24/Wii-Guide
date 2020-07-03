@@ -19,13 +19,12 @@ Este exploit no funcionará en el modo Wii del Wii U (vWii). Por favor, siga [es
 
 #### Sección I - Requisitos
 - Una computadora con Linux
-  - Si estás usando una Chromebook, no necesitas instalar otro sistema operativo, sólo tienes que activar [Linux en ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=es).
-  - Tambien puedes usar una Raspberry Pi, ya que probablemente tiene Linux instalado por defecto.
-  - Subsistema de Windows para Linux será *no trabajará* porque eso no tiene acceso directo a la adaptador Bluetooth o puertos USB.
-  - Si no tienes Linux, [Ubuntu](https://ubuntu.com/download/desktop) es el más fácil de usar y puede ejecutar en computadores con Windows o Mac.
-    - Dispositivos de 32-bit necesitará [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
-    - En dispositivos de 64 bits, es recomendable usar la versión LTS debido a su estabilidad, pero la versión más reciente también funcionará.
-  - Puedes [flashear una instalación de Linux a una unidad flash USB](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) en vez de instalarlo en tu computadora.
+  - If you have a Raspberry Pi, you can use that instead as it most likely has Linux preinstalled.
+  - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports.
+  - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
+    - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
+    - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
+  - You can [flash a Linux install to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
 - Un adaptador Bluetooth.
   - Un adaptador Bluetooth interno también servirá.
   - Si no tienes uno, asegúrate de conseguir uno que sea compatible con Linux.
