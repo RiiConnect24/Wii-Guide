@@ -8,7 +8,7 @@ title: "d2xl cIOS για Wii mini (πειραματικό)"
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-Αυτός ο οδηγός είναι μόνο για κονσόλες Wii mini. Αν έχετε Wii, αντ' αυτού εγκαταστήστε [αυτό το cIOS](cios).
+Αυτός ο οδηγός είναι μόνο για κονσόλες Wii mini. If you have a Wii, install [this cIOS](cios) instead.
 {: .notice--warning}
 
 Αν χρειάζεστε βοήθεια με οτιδήποτε σχετικά με αυτό τον οδηγό, επισκεφθείτε το [Wii mini Hacking Discord](https://discord.gg/6ryxnkS) (προτείνεται)
