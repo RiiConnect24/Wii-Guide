@@ -8,7 +8,7 @@ Deze tutorial legt u uit hoe Leseratte's d2xl Wii mini u cIOS (custom IOS) insta
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-Deze tutorial is alleen gemaakt voor mensen met een Wii mini. Als u een normale Wii heeft moet u [deze cIOS](cios) installeren.
+Deze tutorial is alleen gemaakt voor mensen met een Wii mini. If you have a Wii, install [this cIOS](cios) instead.
 {: .notice--waarschuwing}
 
 Als u hulp nodig heeft bij iets wat met deze tutorial te maken heeft, sluit je dan aan bij [de Wii Mini Hacking Discord server](https://discord.gg/6ryxnkS) (aanbevolen)
