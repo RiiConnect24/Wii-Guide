@@ -19,7 +19,6 @@ This exploit will not work on a Wii U's vWii. Please follow [this guide](https:/
 
 #### Section I - What you need
 - A Linux machine
-  - If you are using a Chromebook, you do not need to install another Operating System; instead, enable [Linux in ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en).
   - If you have a Raspberry Pi, you can use that instead as it most likely has Linux preinstalled.
   - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports.
   - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
