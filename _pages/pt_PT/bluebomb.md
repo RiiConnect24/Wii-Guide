@@ -19,13 +19,12 @@ Esta vulnerabilidade não resultará na vWii da Wii U. Por favor segue [este gui
 
 #### Secção I - O que precisas
 - Uma máquina Linux
-  - Se estás a utilizar um Chromebook, não precisas de instalar outro Sistema Operacional; em vez disto, ativa [ Linux no ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en).
-  - Se tens um Raspberry Pi, podes utilizá-lo porque ele tem o Linux pré-instalado.
-  - Subsistema Windows para Linux *não funcionará* já que não tem acesso direto ao adaptador Bluetooth ou entradas USB.
-  - Se tu não tiveres Linux, [Ubuntu](https://ubuntu.com/download/desktop) é a opção mais recomendável e pode ser executado em computadores que utilizam Windows ou macOS.
-    - Dispositivos de 32-bit requerem [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
-    - Para dispositivos 64-bit é recomendado que utilizes a edição LTS devido à estabilidade, mas a versão mais recente também funciona.
-  - Tu podes [instalar Linux para um USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) em vez de instalá-lo no teu computador.
+  - If you have a Raspberry Pi, you can use that instead as it most likely has Linux preinstalled.
+  - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports.
+  - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
+    - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
+    - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
+  - You can [flash a Linux install to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
 - Um adaptador Bluetooth.
   - Um adaptador Bluetooth interno irá funcionar.
   - Se não tiveres um, certifica-te que arranjas um com compatibilidade com Linux.
