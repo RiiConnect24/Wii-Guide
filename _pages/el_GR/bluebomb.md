@@ -19,12 +19,11 @@ title: "BlueBomb"
 
 #### Μέρος I - Τι χρειάζεστε
 - Έναν υπολογιστή Linux
-  - Αν χρησιμοποιείτε Chromebook, δεν χρειάζεται να εγκαταστήσετε άλλο Λειτουργικό Σύστημα·αντίθετα, ενεργοποιήστε το [ Linux για ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=en).
-  - Αν έχετε Raspberry Pi, μπορείτε να χρησιμοποιήσετε αυτό καθώς είναι πολύ πιθανό να έχει Linux προεγκατεστημένο.
+  - If you have a Raspberry Pi, you can use that instead as it most likely has Linux preinstalled.
   - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports.
   - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
     - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
-    - Για συσκευές 64-bit προτείνεται η έκδοση μακράς διάρκειας για σταθερότητα, αλλά η τελευταία έκδοση λειτουργεί επίσης.
+    - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
   - You can [flash a Linux install to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
 - Έναν προσαρμογέα Bluetooth.
   - Ένας ενσωματωμένος προσαρμογέας πολύ πιθανώς να λειτουργήσει.
