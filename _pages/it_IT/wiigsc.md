@@ -22,7 +22,7 @@ In caso di brick, avere [Priiloader installato è obbligatorio](/priiloader). In
 
 #### Istruzioni
 
-1. Installa WiiGSC e aprilo.
+1. Install WiiGSC, then right click on it and choose **Run as administrator**. If you do not do this, WiiGSC will throw an error when you open it.
 2. Scegli il percorso per il file ISO o WBFS sul tuo dispositivo USB, e scegli il Loader USB che utilizzi. Le altre opzioni sono apposto così come sono.
 3. Se usi USB Loader GX, non puoi usare la revision 1272 per creare le scorciatoie. Devi usare la revision 1271 (o, se per caso ne hai bisogno, una versione ancora più vecchia).
 4. Non creare una scorciatoia per "A Boy and His Blob" o "Mario Party 9". Essi brickeranno la tua Wii.
