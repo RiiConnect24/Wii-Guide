@@ -22,7 +22,7 @@ W przypadku bricka, [instalacja Priiloadera jest wymogiem](/priiloader). Równie
 
 #### Instrukcje
 
-1. Zainstaluj WiiGSC oraz go uruchom.
+1. Install WiiGSC, then right click on it and choose **Run as administrator**. If you do not do this, WiiGSC will throw an error when you open it.
 2. Wybierz ścieżkę pliku ISO lub WBFS na Twoim urządzeniu USB oraz wybierz loader USB, z którego korzystasz. Inne opcje powinny działać tak jak obecnie są.
 3. Jeżeli korzystasz z USB Loader GX, nie możesz użyć wersji (revision) 1272 aby stworzyć skrót. Musisz skorzystać z wersji (revision) 1271) (lub wcześniejszej wersji jeżeli z jakiegoś powodu musisz z niej skorzystać).
 4. Nie twórz skrótów dla gier "A Boy and His Blob" oraz "Mario Party 9". Skróty tych gier zbrickują Twoje Wii.
