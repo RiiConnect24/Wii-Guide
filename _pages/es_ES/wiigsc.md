@@ -22,7 +22,7 @@ En caso de un brick, para repararlo es necesario tener instalado [Priiloader](/p
 
 #### Instrucciones
 
-1. Instala WiiGSC y ejecútalo como administrador.
+1. Install WiiGSC, then right click on it and choose **Run as administrator**. If you do not do this, WiiGSC will throw an error when you open it.
 2. Haz clic en el botón `...` que está a la derecha de `ISO/WBFS File` y selecciona el archivo ISO o WBFS ubicado en tu unidad USB, después haz clic en el botón a la derecha de `Loader` y elige el USB loader que usas. No hace falta que cambies el resto de las opciones.
 3. No podrás usar los accesos direcctos si tienes la versión 1272 de USB Loader GX. La última versión que funciona con los accesos directos en la versión 1271.
 4. No hagas accesos directos para los juegos "A Boy and His Blob" o "Mario Party 9". Si instalas alguno de esos dos, tu consola quedará brickeada debido a un banner brick.
