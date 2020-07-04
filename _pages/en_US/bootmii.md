@@ -23,6 +23,7 @@ If you installed BootMii as Boot2 in the last step, you will need to launch Boot
      To navigate between options, press POWER on your Wii (or the right +Control Pad button on a GameCube controller). Keep in mind that when using the wii buttons, you can only navigate right but when attempting to go past the last entry, it'll warp you to the first one. This is not a limitation on GameCube Controllers; You can navigate left and right.
 	 To select an option, hit RESET on your Wii or A on your GameCube controller.
 3. Press the Options button (the one with the gears).
+   - Having trouble getting Bootmii to load? open bootmii.ini in a text editor and uncomment the line #BOOTDELAY=5 by removing the # in front
 4. Press the BackupMii button (the one with the green arrow).
 - A NAND backup will start. You can watch the progress on the screen.
 - Do not Power Off your Nintendo Wii when backing up your Wii.
