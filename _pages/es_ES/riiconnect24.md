@@ -7,7 +7,7 @@ title: "Instalar RiiConnect24"
 En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por favor únete a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [envíanos un e-mail](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
 {: .notice--info}
 
-![Logotipo de RiiConnect24](/images/WiiRC24Logo.jpg)
+![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
 [RiiConnect24](https://rc24.xyz/) te permite utilizar nuevamente el servicio WiiConnect24, que incluye el Canal Noticias, Tiempo, Opiniones y Miirame, además del intercambio de mensajes y otros contenidos mediante el tablón de Wii (mejor conocido como correo Wii).
 
@@ -20,7 +20,7 @@ Esta guía es solo para el Wii original.
 No hay una guía para instalar RiiConnect24 en un Wii Mini, ya que el intento de instalar RiiConnect24 en un Wii Mini resultaría en un brick de la consola.
 {% endcapture %}
 
-<div class="notice--warning">{ notice-1 | markdownify }</div>
+<div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
 Para poder utilizar el correo de Wii, debes tener la versión de sistema 4.3, de lo contrario no funcionará.
 {: .notice--info}
