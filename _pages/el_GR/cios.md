@@ -8,7 +8,7 @@ title: "cIOS (προσαρμοσμένο IOS)"
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-Αν έχετε Wii mini, αντ' αυτού εγκαταστήστε [αυτό το cIOS](cios-mini). Attempting to install any other cIOS on a Wii mini won't work.
+Αν έχετε Wii mini, αντ' αυτού εγκαταστήστε [αυτό το cIOS](cios-mini). Η προσπάθεια εγκατάστασης οποιουδήποτε άλλου cIOS σε ένα Wii mini δεν θα λειτουργήσει.
 {: .notice--info}
 
 #### Τι χρειάζεστε
@@ -34,7 +34,7 @@ Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 ![Install cIOS 249](/images/Wii/Install249.png)
-1. Once set, press A twice to install.
+1. Μόλις τα ορίσετε σωστά, πατήστε δύο φορές Α για εγκατάσταση.
 1. Όταν ολοκληρωθεί η εγκατάσταση, πατήστε Α για να επιστρέψετε και θέστε τις επιλογές στα παρακάτω:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
@@ -43,7 +43,7 @@ Select cIOS slot: 250
 Select cIOS version: 65535
 ```
 ![Install cIOS 250](/images/Wii/Install250.png)
-1. Once set, press A twice to install.
+1. Μόλις τα ορίσετε σωστά, πατήστε δύο φορές Α για εγκατάσταση.
 1. Όταν ολοκληρωθεί η εγκατάσταση, πατήστε Α για να επιστρέψετε και θέστε τις επιλογές στα παρακάτω:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
