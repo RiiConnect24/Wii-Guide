@@ -8,7 +8,7 @@ title: "d2xl cIOS για Wii mini (πειραματικό)"
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-Αυτός ο οδηγός είναι μόνο για κονσόλες Wii mini. If you have a Wii, install [this cIOS](cios) instead.
+Αυτός ο οδηγός είναι μόνο για κονσόλες Wii mini. Αν έχετε Wii, αντί αυτού εγκαταστήστε [αυτό το cIOS](cios).
 {: .notice--warning}
 
 Αν χρειάζεστε βοήθεια με οτιδήποτε σχετικά με αυτό τον οδηγό, επισκεφθείτε το [Wii mini Hacking Discord](https://discord.gg/6ryxnkS) (προτείνεται)
@@ -47,7 +47,7 @@ Select cIOS slot: 249
 ##### Ενεργοποίηση ενσύρματου δικτύου Ethernet
 Αν επιθυμείτε να χρησιμοποιήσετε το Wiimmfi με ethernet στο Wii mini, πρέπει να τρέξετε το πρόγραμμα [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip) φτιαγμένο από τον Fullmetal5. Για να το τρέξετε, εξάγετέ το στον φάκελο `apps` στο μέσο USB σας και εκτελέστε το από το Κανάλι Homebrew.
 
-Do not attempt to install a Wii IOS or System Menu on the Wii mini. Κάτι τέτοιο πιθανώς να καταστρέψει την κονσόλα σας.
+Μην επιχειρήσετε να εγκαταστήσετε κάποιο IOS ή Σύστημα Μενού του Wii στο Wii mini. Κάτι τέτοιο πιθανώς να καταστρέψει την κονσόλα σας.
 {: .notice--warning}
 
 Μπορείτε τώρα να χρησιμοποιήσετε Homebrew σαν το [ USB Loader GX](usbloadergx).
