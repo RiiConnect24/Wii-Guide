@@ -29,6 +29,6 @@ title: "Αποθήκευση αρχείων WAD"
 4. Επιλέξτε `Backup to WAD`.
 5. Στην προτροπή `Fakesign the ticket`, επιλέξτε `Yes`.
 6. Στην προτροπή `Fakesign the TMD`, επιλέξτε `No`.
-7. At the prompt to `Change the output WAD region`, choose `No`.
+7. Στην προτροπή `Change the output WAD region`, επιλέξτε `No`.
 
-You have now dumped that WAD. Θα εμφανιστεί στο μέσο αποθήκευσής σας. ![Done](/images/DumpWADS/5.png)
+Κάνατε dump το WAD επιτυχώς. Θα εμφανιστεί στο μέσο αποθήκευσής σας. ![Done](/images/DumpWADS/5.png)
