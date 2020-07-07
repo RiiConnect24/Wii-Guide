@@ -31,7 +31,7 @@ Zalecamy [instalację cIOS](cios) przed kontynuowaniem.
 * Komputer z systemem operacyjnym Windows (lub możesz użyć Mono lub Wine jeżeli korzystasz z macOS/Linux'a)
 * [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
-* [Ten post na GBAtemp](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
+* [This GBAtemp post](https://gbatemp.net/threads/wii-theme-team-creations.260327/) or [our themes page](https://rc24.xyz/goodies/themes/)
 
 UPEWNIJ SIĘ, ŻE PRZECZYTASZ WSZYSTKIE OSTRZEŻENIA PRZED KONTYNUOWANIEM!
 {: .notice--warning}
@@ -40,7 +40,7 @@ UPEWNIJ SIĘ, ŻE PRZECZYTASZ WSZYSTKIE OSTRZEŻENIA PRZED KONTYNUOWANIEM!
 
 ##### Sekcja I - Znajdowanie motywu
 
-* Przeczytaj uważnie post na GBATemp, znajdując motyw, który chcesz zainstalować. Niektóre motywy mają załączony film na YouTube, pokazujące jak dany motyw wygląda - niestety, niektóre z nich są niedostępne.
+* Peruse the GBAtemp post or our themes page, finding a theme you want to install. Niektóre motywy mają załączony film na YouTube, pokazujące jak dany motyw wygląda - niestety, niektóre z nich są niedostępne.
 * Kiedy już znajdziesz motyw, który Ci się podoba, naciśnij na link do pobierania odpowiadający Twojej wersji systemu operacyjnego Wii. **Ważne jest wybranie odpowiedniego aby uniknąć bricków**
 * Prawdopodobnie wybierzesz link do pobierania o nazwie 4.X co oznacza, że motyw działa na wersji 4.1, 4.2 oraz 4.3 systemu operacyjnego Wii.
 * Niektóre motywy będą miały różne linki dla różnych regionów. Wybierz odpowiedni dla twojego regionu Wii.
