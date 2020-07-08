@@ -22,7 +22,7 @@ Für den Fall eines Bricks [ist die Installation von Priiloader ein Muss](/priil
 
 #### Anleitung
 
-1. Install WiiGSC, then right click on it and choose **Run as administrator**. If you do not do this, WiiGSC will throw an error when you open it.
+1. Installiere WiiGSC, mache einen Rechtsklick darauf und wähle **Als Administrator ausführen**. Falls du das nicht tust, zeigt WiiGSC, wenn du es öffnest, einen Fehler an.
 2. Wähle den Pfad zur ISO oder WBFS-Datei auf deinem USB-Laufwerk und den USB-Loader den du verwendest. Die anderen Einträge sollten, so wie sie sind, in Ordnung sein.
 3. Falls du USB Loader GX verwendest, kannst du für Verknüpfungen nicht Revision 1272 verwenden. Du musst Revision 1271 (oder eine ältere Version, falls du die aus irgendeinem Grund brauchst) verwenden.
 4. Erstelle keine Spiele-Verknüpfungen für "A Boy and His Blob" oder "Mario Party 9". Sie werden deine Wii bricken.
