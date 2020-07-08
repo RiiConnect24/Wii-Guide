@@ -81,7 +81,7 @@ Du musst deine DNS einrichten, damit der Wetterkanal und Nachrichtenkanal auf un
 6. Gehe auf `Ändern`.
 7. Gehe auf `DNS automatisch beziehen` (Nicht IP-Adresse), wähle dann `Nein` und gehe dann auf `Detaileinstellungen`.
 8. Gebe `164.132.44.106` als primärer DNS-Server an.
-9. Type in `1.1.1.1` as the secondary DNS (if it gives you problems, try `8.8.8.8`).
+9. Gebe `1.1.1.1` sekundären DNS-Server an (falls du Probleme hast, versuche `8.8.8.8`).
 10. Wähle `Bestätigen`, dann `Speichern`.
 11. Wähle `OK` um einen Verbindungstest durchzuführen.
 12. Wenn der Verbindungstest erfolgreich war, wähle `Nein`, um das Wii-Systemupdate zu überspringen.
@@ -97,13 +97,13 @@ Du musst deine DNS einrichten, damit der Wetterkanal und Nachrichtenkanal auf un
 Falls du Fehler 107245 erhälst, hast du wahrscheinlich deine IOS nicht richtig gepatcht.
 {: .notice--info}
 
-Falls du Fehler 107304 erhälst, blockiert wahrscheinlich dein Internetanbieter die Nutzung alternativer DNS-Server. Eine Möglichkeit, dies zu umgehen, ist es deinen eigenen DNS-Server zu betreiben! See the [RiiConnect24 DNS Server on GitHub](https://github.com/RiiConnect24/DNS-Server), then use your PC's IP address in place of our DNS in Step 8.
+Falls du Fehler 107304 erhälst, blockiert wahrscheinlich dein Internetanbieter die Nutzung alternativer DNS-Server. Eine Möglichkeit, dies zu umgehen, ist es deinen eigenen DNS-Server zu betreiben! Siehe [RiiConnect24 DNS Server auf GitHub](https://github.com/RiiConnect24/DNS-Server) und nutze dann die IP-Adresse deines PC an Stelle von unserem DNS in Schritt 8.
 {: .notice--info}
 
 [Falls du den Fehler FORE000006 erhälst, kannst du zur Lösung dieses Tutorial befolgen. (Dies funktioniert nicht mit NEWS0000006).](riiconnect24-batteryfix)
 {: .notice--warning}
 
-[If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, please go to Wii Settings -> Last Page -> Country and change it to United Kingdom. Du erhälst diesen Fehler, wenn du ein Land eingestellt hast, dass wir nicht unterstützen. Kontaktiere uns unter [support@riiconnect24.net](mailto:support@riiconnect24.net), falls du mehr Hilfe benötigst.
+[Wenn du Fehler bekommst, wie bspw. `WiiConnect24 sowie der Wii-Shop-Kanal stehen zur Zeit nicht zur Verfügung.`, gehe bitte in wie Wii-Systemeinstellungen -> Letzte Seite -> Land und ändere es zu Deutschland. Du erhälst diesen Fehler, wenn du ein Land eingestellt hast, dass wir nicht unterstützen. Kontaktiere uns unter [support@riiconnect24.net](mailto:support@riiconnect24.net), falls du mehr Hilfe benötigst.
 {: .notice--warning}
 
 [Falls du beim Öffnen des Nachrichtenkanals oder Wetterkanals Fehler bekommst, wie bspw. eine Nachricht über die Einstellung der Kanäle, haben wir eine Anleitung, die das beheben kann.](riiconnect24-troubleshooting)
