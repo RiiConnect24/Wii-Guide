@@ -51,7 +51,7 @@ Si decidiste ejecutarlo en el arranque, entonces no tienes que hacer nada. Si qu
 3. Selecciona `Custom` (Instalación personalizada). ![Selecciona <code>Check Mii Out Channel</code> (Canal Miirame)](/images/Dolphin_RC24/6.jpg)
 4. Presiona `1` para elegir la región de tu consola y sólo marca la quinta opción. Presiona `6` para comenzar el proceso.
 5. Una vez que el proceso haya finalizado, encontrarás un archivo llamado `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` o `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` (dependiendo de la región que hayas elegido) dentro de una carpeta llamada WAD en la misma carpeta en la que está el archivo RiiConnect24Patcher.bat
-6. Selecciona `Herramientas` y después `Instalar WAD`. Ahora sólo tienes que buscar y elegir el archivo `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` o `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
+6. In Dolphin, press `Tools` and then `Install WAD`, and select the `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
 
 ¡Ya has terminado! Desafortunadamente, el Canal Opiniones y el Canal Nintendo aún no funcionan en Dolphin.
 {: .notice--info}
