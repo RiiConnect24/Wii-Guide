@@ -20,7 +20,7 @@ Dieser Exploit ist einer von vielen. Gehe auf die [Einstiegs](/get-started)-Seit
 #### Anleitung
 
 1. Gehe auf deiner Wii in die `Wii-Systemeinstellungen` -> `Internet` -> `Konsoleninformationen` und notiere deine MAC-Adresse.
-2. Gehe auf [please.hackmii.com](https://please.hackmii.com), gib die MAC-Adresse und Region deiner Wii ein, löse das CAPTCHA, *stelle sicher, dass `Bundle the HackMii Installer for me!` ausgewählt ist* und drücke entweder `Cut the red wire` oder `Cut the blue wire`
+2. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure* `Bundle the HackMii Installer for me!` *is checked*, and cut either wire
    - Es ist egal, was auch immer du auswählst. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
 3. Entpacke die Inhalte der heruntergeladenen ZIP-Datei auf deine SD-Karte.
 4. Gehe auf deiner Wii zurück ins Wii-Menü und öffne dann die Pinnwand.
