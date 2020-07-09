@@ -36,7 +36,7 @@ I passi per connettere RiiTag al tuo USB loader dipendono da quale USB loader us
 ###### USB Loader GX
 
 1. Carica USB Loader GX sulla tua Wii.
-2. Vai a `Impostazioni` > `Funzionalità` and cambia `Wiinnertag` su acceso. Premi `Sì` o `OK` per ogni finestra che si apre.
+2. Vai a `Impostazioni` > `Funzionalità` and cambia `Wiinnertag` su acceso. Press `Yes` or `OK` to any dialogues that show up.
 3. Assicurati che `Initialize Network` sia acceso.
 4. Esci da USB Loader GX.
 5. Inserisci la Scheda SD o dispositivo USB dove si trovano i dati di USB Loader GX sul tuo computer.
@@ -67,7 +67,7 @@ Puoi usare il programma `CfgLoaderConfigurator.exe` (solo per Windows) invece di
 1. Porta la Scheda SD o dispositivo USB dove si trovano i dati per Configurable USB Loader sul tuo computer.
 2. Apri `/usb-loader/config.txt` con un text editor.
 3. Sostituisci (o aggiungi la linea) che inizia con `gamercard_url` con `gamercard_url = http://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
-4. Sostituisci (o aggiungi la linea) che inizia con `gamercard_key` con `gamercard_key = <key>`, replacing `<key>` con la chiave che hai scritto nella Sezione 1.
+4. Replace (or add the line) starting with `gamercard_key` with `gamercard_key = <key>`, replacing `<key>` with the key you wrote down in Section 1.
 5. Salva il file modificato di `config.txt`.
 6. Adesso hai impostato RiiTag. Puoi provare a caricare qualunque gioco per vedere se funziona.
 
