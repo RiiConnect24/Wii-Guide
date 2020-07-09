@@ -22,9 +22,6 @@ Non c'è nessuna guida per installare RiiConnect24 su una Wii Mini, perché prov
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-Per usare Wii Mail dovrai avere un menù di sistema di versione 4.3, altrimenti non funzionerà.
-{: .notice--info}
-
 #### Di cosa hai bisogno
 
 * Una scheda SD o dispositivo USB
@@ -36,13 +33,13 @@ Per usare Wii Mail dovrai avere un menù di sistema di versione 4.3, altrimenti 
 
 ##### Sezione 1 - Patchare l'IOS
 
-[Se vuoi vedere istruzioni dettagliate su come installare WAD, clicca qui!](wiimodlite)
+[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
 {: .notice--info}
 
-Se usi Linux o macOS, per favore mandaci una e-mail e ti daremo il necessario per installare RiiConnect24. Il Patcher che provvediamo è attualmente esclusivo a Windows.
+If you use Linux or macOS, please e-mail us and we will give you the things needed to install RiiConnect24. The patcher we provide is currently Windows-only.
 {: .notice--info}
 
-Ora patcherai i tuoi IOS, `IOS31` e `IOS80`. Questo è necessario per usare i Canali che supportiamo per cambiare una chiave RSA usata per segnare i file. Scaricherai anche versioni patchate dei Canali.
+You will now patch your IOS, `IOS31` and `IOS80`. This is required to use the Channels we support to change an RSA key used to sign the files. You will also download patched versions of the Channels.
 
 1. Scarica i file richiesti basati sul tuo OS. Su Windows carica `RiiConnect24Patcher.bat`.
 2. Segui le istruzioni che ti dice.
@@ -58,20 +55,20 @@ Ora patcherai i tuoi IOS, `IOS31` e `IOS80`. Questo è necessario per usare i Ca
 
 ##### Sezione 2 - Patchare nwc24msg.cfg
 
-Ora patcherai il tuo file `nwc24msg.cfg` che è richiesto per usare Wii Mail.
+You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
 
 1. Carica RiiConnect24 Mail Patcher.
 2. Servono solo pochi secondi per patchare il tuo nwc24msg.cfg. Quando ha finito, premi HOME per uscire.
 
-Se il passaggio precedente ha fallito con un errore "net_get_status: -24 - Couldn't request the data: -24", per favore controlla la connessione internet della tua Wii.
+If the previous step failed with an "net_get_status: -24 - Couldn't request the data: -24" error, please check the internet connection on your Wii.
 {: .notice--warning}
 
-Se non sei riuscito a patchare il tuo nwc24msg.cfg correttamente, mandaci una e-mail a [support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you were unable to patch your nwc24msg.cfg correctly, e-mail us at [support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ##### Sezione 3 - Connettere
 
-Devi impostare il tuo DNS per far puntare i nostri server ai Canali Forecast e News. Il DNS è utile anche se vuoi giocare con Wiimmfi.
+You need to set your DNS in order to get the Forecast and News Channel to point to our servers. This DNS is also useful if you want to play Wiimmfi.
 
 1. Vai su `Opzioni Wii`.
 2. Vai su `Impostazioni Wii`.
@@ -91,20 +88,20 @@ Devi impostare il tuo DNS per far puntare i nostri server ai Canali Forecast e N
 16. Infine, vai sulla sezione `Internet`, poi su `Accordi User` o su `Accordi/Contatti`, poi `Si`. Per favore leggi attentamente.
 
 
-[Continua su Wiimmfi](wiimmfi)<br> Wiimmfi ti permette di giocare giochi online dopo il termina della Nintendo Wi-Fi Connection. Questo è opzionale da installare.
+[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
 {: .notice--info}
 
-Se ottieni l'errore 107245, allora probabilmente hai fallito nel patchare il tuo IOS correttamente.
+If you get error 107245, then you probably have failed to patch your IOS correctly.
 {: .notice--info}
 
-Se ottieni l'errore 107304, allora forse il tuo ISP blocca l'uso di DNS particolari. Un modo di raggirarlo è quello di caricare il tuo server DNS personale! See the [RiiConnect24 DNS Server on GitHub](https://github.com/RiiConnect24/DNS-Server), then use your PC's IP address in place of our DNS in Step 8.
+If you get error 107304, then perhaps your ISP blocks the use of custom DNS. A workaround for this can be running your own DNS server! See the [RiiConnect24 DNS Server on GitHub](https://github.com/RiiConnect24/DNS-Server), then use your PC's IP address in place of our DNS in Step 8.
 {: .notice--info}
 
-[Se ottieni l'errore FORE000006, dovresti seguire questo tutorial per riparalo. (Questo non funziona con NEWS000006).](riiconnect24-batteryfix)
+[If you get error FORE000006, you might want to follow this tutorial to fix it. (This doesn't work with NEWS000006).](riiconnect24-batteryfix)
 {: .notice--warning}
 
-[If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, please go to Wii Settings -> Last Page -> Country and change it to United Kingdom. Otterrai questo errore quando userai un paese che non supportiamo. Contattaci su [support@riiconnect24.net](mailto:support@riiconnect24.net) se hai bisogno di altro aiuto.
+[If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, please go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
 {: .notice--warning}
 
-[Se stai avendo errori come un messaggio terminato quando apro i canali New o Forecast, abbiamo delle istruzioni che potrebbero ripararlo.](riiconnect24-troubleshooting)
+[If you're getting errors such as a discontinued message when opening the News or Forecast Channel, we have some instructions that might fix it.](riiconnect24-troubleshooting)
 {: .notice--warning}
