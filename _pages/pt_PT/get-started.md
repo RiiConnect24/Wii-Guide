@@ -15,9 +15,12 @@ Este guia é só para a Wii original, com a mais recente firmware (4.3). Não ut
 
 ### Escolhe uma vulnerabilidade para utilizar
 
-- [str2hax](str2hax) - Vulnerabilidade que utiliza o Wii EULA (Recomendado, não é necessário cartão SD nem Canal, mas requer uma mudança nas definições do DNS)
-- [FlashHax](flashhax) - Vulnerabilidade que utiliza o Internet Channel (não é necessário cartão SD)
-- [LetterBomb](letterbomb) - Vulnerabilidade que utiliza o Wii Message Board (é necessário cartão SD)
-- [BlueBomb](bluebomb) - Vulnerabilidade que utiliza o Bluetooth (não é necessário cartão SD nem Wi-Fi)
+- [str2hax](str2hax) - Exploit that uses the Wii EULA
+  :   (Requires an internet connection and changing the DNS server)
+- [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board
+  :   (Requires an SD card)
+- [FlashHax](flashhax) - Exploit that uses the Internet Channel
+  :   (Requires the Internet Channel installed, and an internet connection)
+- [BlueBomb](bluebomb) - Exploit that uses Bluetooth
     * Necessitas de um computador com Bluetooth e GNU/Linux, bem como um USB drive
     * Este é a única vulnerabilidade que funciona no **Wii mini**
