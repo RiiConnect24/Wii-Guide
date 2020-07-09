@@ -15,9 +15,12 @@ title: "צעדים ראשונים"
 
 ### בחר/י פרצה שברצונך להשתמש בה
 
-- [str2hax](str2hax) - פרצה שמנצלת את דף התקנון ותנאי השימוש של הקונסולה (מומלץ, לא נדרש כרטיס SD, אבל דורש לשנות את הגדרות ה DNS בקונסולת ה Wii)
-- [FlashHax](flashhax) - פרצה שמנצלת בעיה באדובי פלאש, ומתבצעת באמצעות ה Internet Channel (לא נדרש כרטיס SD)
-- [LetterBomb](letterbomb) - פרצה שמנצלת את לוח ההודעות של קונסולת ה Wii (כרטיס SD נדרש)
-- [BlueBomb](bluebomb) - פרצה שמנצלת בעיה ברכיב ה Bluetooth של קונסולת ה Wii (לא צריך כרטיס SD או WiFi)
+- [str2hax](str2hax) - Exploit that uses the Wii EULA
+  :   (Requires an internet connection and changing the DNS server)
+- [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board
+  :   (Requires an SD card)
+- [FlashHax](flashhax) - Exploit that uses the Internet Channel
+  :   (Requires the Internet Channel installed, and an internet connection)
+- [BlueBomb](bluebomb) - Exploit that uses Bluetooth
     * נדרש מחשב המצויד ברכיב Bluetooth ומריץ לינוקס, ונדרש דיסק-און-קי
     * זו הפרצה היחדיה העובדת על קונסולת ה **Wii Mini**
