@@ -32,7 +32,7 @@ Your Wii and your computer must be connected to one local network
 ![2](/images/DumpDiscs_LAN/2.png)
 1. Choose the disc that you want to copy (The options are: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` and press "A"
 ![3](/images/DumpDiscs_LAN/3.png)
-1. Now put your game to your Wii. (If it's already in your wii, eject it and put it back)
+1. Now put your game to your Wii. (If it's already in your Wii, eject it and put it back)
 ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg)
 ![4](/images/DumpDiscs_LAN/4.png)
 1. Remember your Wii URL (IP address)
