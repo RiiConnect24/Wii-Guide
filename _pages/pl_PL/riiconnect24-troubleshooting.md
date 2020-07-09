@@ -36,7 +36,7 @@ Jeżeli otrzymujesz któryś z poniższych problemów (tylko te, nie inne), powi
 #### Instrukcje
 
 1. Uruchom WiiXplorer.
-2. Przejdź do `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` i wybierz `Yes` dla obydwóch dialogów, które pojawią się na ekranie.
+2. Go to `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` and then select `Yes` for both dialogues that appear on the screen.
 3. Naciskaj "Back" (Wstecz) dopóki nie dojdziesz do ekranu przeglądarki plików.
 4. Naciśnij na mała niebieską ikonę karty SD oraz wybierz `NAND`.
 5. Przejdź do folderu `title` -> `00010002` -> XXXXXXXX -> `data`. Zamień XXXXXXXX na jeden z folderów ukazanych powyżej w podpunkcie `Foldery do usunięcia`.
