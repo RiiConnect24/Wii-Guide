@@ -9,7 +9,7 @@ title: "BlueBomb"
 
 ![Bluebomb](/images/bluebomb.png)
 
-Το Bluebomb είναι ένα πρόγραμμα που εκμεταλλεύεται ένα σφάλμα στην βιβλιοθήκη bluetooth των κονσολών Wii. Παρόλο που είναι η μοναδική ευπάθεια που δουλεύει στο Wii mini, μπορεί να χρησιμοποιηθεί και στο παλιό Wii χωρίς πρόβλημα. Αυτό το πρόγραμμα επίσης λειτουργεί ως μηχανισμός ανάκτησης από συγκεκριμένες καταστροφές στο Wii, όπως το banner brick.
+BlueBomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Παρόλο που είναι η μοναδική ευπάθεια που δουλεύει στο Wii mini, μπορεί να χρησιμοποιηθεί και στο παλιό Wii χωρίς πρόβλημα. Αυτό το πρόγραμμα επίσης λειτουργεί ως μηχανισμός ανάκτησης από συγκεκριμένες καταστροφές στο Wii, όπως το banner brick.
 
 Για το παλιό Wii, προτείνουμε να χρησιμοποιήσετε μία [άλλη ευπάθεια](/get-started) για την εγκατάσταση του καναλιού Homebrew και/ή του BootMii.
 {: .notice--info}
@@ -19,7 +19,7 @@ title: "BlueBomb"
 
 #### Μέρος I - Τι χρειάζεστε
 - Έναν υπολογιστή Linux
-  - Αν έχετε Raspberry Pi, μπορείτε να χρησιμοποιήσετε αυτό καθώς είναι πολύ πιθανό να έχει Linux προεγκατεστημένα.
+  - If you have a Raspberry Pi, you can use that instead as it most likely has Linux installed already.
   - Το υποσύστημα των Windows για Linux *δεν θα λειτουργήσει* διότι δεν έχει απευθείας πρόσβαση στον αντάπτορα Bluetooth ή τις θύρες USB.
   - Εάν δεν έχετε Linux, [τα Ubuntu](https://ubuntu.com/download/desktop) είναι η πιο φιλική ως προς το χρήστη επιλογή και μπορεί να τρέξει σε υπολογιστές που τρέχουν Windows ή Mac.
     - Συσκευές 32-bit χρειάζονται την έκδοση [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
@@ -32,23 +32,24 @@ title: "BlueBomb"
   - Δεν γίνεται να είναι το ίδιο στικάκι με αυτό που χρησιμοποιείται στο μηχάνημα Linux.
 
 #### Μέρος II - Εκτέλεση του προγράμματος
-1. Κατεβάστε το HackMii installer από [την ιστοσελίδα BootMii](https://bootmii.org/download/). (Εάν φτιάχνετε ένα Wii brick, μπορείτε να πάρετε ένα boot.elf ή οποιαδήποτε άλλη εφαρμογή θέλετε να χρησιμοποιήσετε για να φτιάξετε το brick.)
-1. Ξεπακετάρετέ το και τοποθετήστε το αρχείο `boot.elf` στο φλασάκι σας.
-1. Συνδέστε το φλασάκι στην κονσόλα. Για το Wii mini, η θύρα USB είναι στο πίσω μέρος. Για το παλιό Wii, χρησιμοποιήστε την κάτω θύρα. (ή την δεξιά αν είναι κάθετο).
-1. Ενεργοποιήστε την κονσόλα σας και πηγαίνετε στις ρυθμίσεις. Στην πάνω δεξιά γωνία θα δείτε έναν 4-ψήφιο κωδικό σαν αυτόν στην παρακάτω εικόνα. Αυτός ο κωδικός είναι η έκδοση Μενού Συστήματος του Wii σας, σημειώστε τον καθώς θα τον χρειαστείτε αργότερα. Ύστερα, απενεργοποιήστε την κονσόλα σας. (Εάν προσπαθείτε να χρησιμοποιήσετε το BlueBomb για να επαναφέρετε ένα σύστημα από brick, μπορείτε να υποθέσετε ότι η έκδοση του μενού Wii σας είναι 4.3.) ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
-1. Ξεκινήστε την συσκευή Linux, και σιγουρευτείτε πως έχετε σύνδεση στο διαδίκτυο.
-1. Ανοίξτε το Τερματικό Linux πατώντας `CTRL + SHIFT + T`.
-1. Εκτελέστε τις παρακάτω εντολές:
+1. Download the HackMii installer from [the BootMii website](https://bootmii.org/download/).
+- (If attempting to fix a brick, you should also copy the homebrew app you wish to use to /apps/)
+1. Unpack it and place the `boot.elf` file in your flash drive.
+1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright).
+1. Turn on your console and navigate to the settings menu. On the top right corner you should see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. (If you're trying to use BlueBomb to recover from a brick, you can assume your Wii Menu version is 4.3.) ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+1. Start your Linux distro, and ensure you are connected to the internet.
+1. Open the Terminal
+1. Run the following commands:
 ```bash
 wget https://wii.guide/assets/files/bluebomb-helper.sh
 chmod +x bluebomb-helper.sh
 ./bluebomb-helper.sh
 ```
-1. Το πρόγραμμα θα κατεβάσει τα απαραίτητα αρχεία και θα ζητήσει πληροφορίες για την κονσόλα σας.
-  - Αν έχετε Wii mini, θα ζητηθεί η περιοχή της κονσόλας. Αυτό μπορεί να βρεθεί από το τελευταίο ψηφίο της έκδοσης του Μενού Συστήματος Wii (`U` για **ΗΠΑ** και `E` για **PAL** ευρωπαϊκά μοντέλα).
-  - Αν έχετε επιλέξει κάποιο Wii θα σας ζητηθεί να δώσετε την έκδοση μενού του Wii (που βρήκατε πριν στο βήμα 4)
-1. Ενεργοποιήστε την κονσόλα σας και **μην** συνδέσετε κανένα χειριστήριο.
-1. Πατήστε το πλήκτρο συγχρονισμού επαναλαμβανόμενα έως ότου ο υπολογιστής δείξει `got connection handle`. Αυτό μπορεί να πάρει αρκετές προσπάθειες, οπότε μην παραιτηθείτε.
+1. The helper will then download the required files, and ask for information about your console.
+  - If you have selected a Wii mini you will be asked to provide your region. This can be determined by the last letter of the Wii Menu version (`U` for **USA** and `E` for **PAL** models).
+  - If you have selected a Wii you will be asked to provide your Wii Menu Version (What you determined in step 4)
+1. Turn on your console and **do not** connect any Wiimotes.
+1. Press the Sync button repeatedly until the terminal shows `got connection handle`. This could take numerous attempts, so don't give up.
 
 Σιγουρευτείτε πως η κονσόλα είναι κοντά στον υπολογιστή που τρέχει το πρόγραμμα, ιδανικά λιγότερο από 1 μέτρο.
 {: .notice--info}
