@@ -23,11 +23,11 @@ title: "Συνέχεια στην εγκατάσταση του καναλιού
 
 5. Μόλις εγκατασταθεί, πατήστε back και πηγαίνετε στο BootMii.
 6. Εάν η αρχική οθόνη γράφει ('you can install as boot2') δηλαδή ότι μπορεί να εγκατασταθεί ως boot2 κάντε το. Αυτό σας δίνει ένα επίπεδο προστασίας από brick διότι φορτώνει ως μέρος της διεργασίας του boot (εκκίνησης) του Wii σας, οπότε σας επιτρέπει να ανοίξετε κάποιο homebrew ώστε να φτιάξετε το brick ή να επαναφέρετε το Wii σας από ένα αντίγραφο ασφαλείας NAND.
-7. Εάν δεν γράφει you can install as boot2, εγκαταστήστε το ως IOS (install as IOS). Ενώ αυτό δεν σας δίνει προστασία κατά των brick σε σύγκριση με την μέθοδο εγκατάστασης boot2, ακόμα θα σας αφήνει να κάνετε αντίγραφα ασφαλείας της NAND σας.
+7. Εάν δεν γράφει you can install as boot2, εγκαταστήστε το ως IOS (install as IOS). While this doesn't give you any brick protection, you will still be able to make a NAND backup.
 
 ![Εγκατάσταση του BootMii](/images/Wii/InstallBootMii.jpg)
 
 8. Μόλις τελειώσετε, επιλέξτε `Continue` για έξοδο από το πρόγραμμα εγκατάστασης HackMii.
 
-[Συνέχεια στο Αντίγραφο Ασφαλείας BootMii](bootmii)<br> Σε αυτό το σημείο συνιστάτε να κάνετε ένα αντίγραφο ασφαλείας NAND μέσω του BootMii.
+[Continue to making a NAND Backup using BootMii](bootmii) Making a NAND backup with BootMii at this point is highly recommended.
 {: .notice--info}
