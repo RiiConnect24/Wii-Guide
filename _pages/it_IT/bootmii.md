@@ -32,5 +32,5 @@ Se hai installato BootMii come Boot2 nell'ultimo passaggio, dovrai far partire B
 Per ripristinare dati da un backup NAND sulla scheda SD, puoi seguire queste istruzioni usando RestoreMii (il pulsante accanto a BackupMii con una freccia rossa).
 {: .notice--info}
 
-[Continua su Priiloader Installation](priiloader)<br> Priiloader aggiunge un livello di protezione da brick, e lo consigliamo, specialmente se hai installato solo BootMii come IOS.
+[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
 {: .notice--info}
