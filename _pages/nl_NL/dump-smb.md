@@ -32,7 +32,7 @@ Uw Wii en uw computer moeten hiervoor wel aan hetzelfde netwerk zijn gekoppeld
 <img src="/images/DumpDiscs_LAN/2.png" alt="2" /></p></li>
 <li><p spaces-before="0">Kies de cd-rom die u wilt kopiëren (De opties zijn: <code>GameCube cd-rom`, `Wii enkele laag cd-rom`, `Wii dubbele laag cd-rom`) klik dan op `A<code>
 <img src="/images/DumpDiscs_LAN/3.png" alt="3" /></p></li>
-<li><p spaces-before="0">Stop nu de cd-rom in uw Wii die u wilt kopiëren. (Als de cd-rom al in uw Wii zit, moet u hem eruit halen en hem er opnieuw in doen)
+<li><p spaces-before="0">Stop nu de cd-rom in uw Wii die u wilt kopiëren. (If it's already in your Wii, eject it and put it back)
 <img src="/images/DumpDiscs_LAN/insertthedisc.jpg" alt="Stop de Disc in uw Wii" />
 <img src="/images/DumpDiscs_LAN/4.png" alt="4" /></p></li>
 <li><p spaces-before="0">Onthoudt uw Wii's URL (IP adres)
