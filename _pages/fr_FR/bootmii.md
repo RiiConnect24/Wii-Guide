@@ -32,5 +32,5 @@ Si vous avez installé BootMii en tant que Boot2 dans l'étape précédente, vou
 Afin de restaurer votre NAND depuis une sauvegarde présente sur votre carte SD, suivez ces instructions afin d'utiliser RestoreMii (le bouton juste après BackupMii avec une flèche bleue).
 {: .notice--info}
 
-[Continuer vers l'installation de Priiloader](priiloader)<br> Priiloader ajoute un niveau de protection contre les les bricks et son installation est recommandée, surtout si vous avez installé BootMii seulement en tant qu'IOS.
+[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
 {: .notice--info}
