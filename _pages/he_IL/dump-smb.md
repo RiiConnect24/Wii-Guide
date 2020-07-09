@@ -30,7 +30,7 @@ title: "חילוץ והעתקת משחק דרך רשת מקומית"
 
 1. לחצ/י על כפתור חץ ימני ולאחר מכן, לחצ/י על "A" ![2](/images/DumpDiscs_LAN/2.png)
 1. בחר/י את הדיסק שברצונך לחלץ ולהעתיק (האפשרויות הם: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc`) ולחצ/י על "A" ![3](/images/DumpDiscs_LAN/3.png)
-1. כעת, יש להכניס את המשחק לקונסולת ה Wii. (אם המשחק כבר בתוך קונסולת ה Wii, יש להוציא אותו ולהחזיר) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
+1. כעת, יש להכניס את המשחק לקונסולת ה Wii. (If it's already in your Wii, eject it and put it back) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
 1. יש לזכור את כתובת ה IP של קונסולת ה Wii ![5](/images/DumpDiscs_LAN/5.png)
 1. במחשב, יש לפתוח דפדפן אינטרנט ולהקליד את כתובת ה IP ממקודם. ![6](/images/DumpDiscs_LAN/6.png)
 1. את/ה אמור/ה לראות את זה. לחצ/י על `Click here to download XXXX.iso` ![7](/images/DumpDiscs_LAN/7.jpg)
