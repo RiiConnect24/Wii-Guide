@@ -32,5 +32,5 @@ title: "לגבות באמצעות BootMii"
 כדי לשחזר מגיבוי שעל כרטיס ה SD שלך, ניתן לעקוב אחר הוראות אלו בשימוש עם RestoreMii (האפשרות שליד BackupMii עם החץ האדום).
 {: .notice--info}
 
-[חזרה להתקנת Priiloader](priiloader)<br> Priiloader מוסיף שכבה של הגנה מפני כשל בהפעלה של הקונסולה, והוא מומלץ מאוד, במיוחד אם BootMii מותקן רק כ IOS.
+[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
 {: .notice--info}
