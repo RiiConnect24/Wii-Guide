@@ -32,5 +32,5 @@ Als u BootMii heeft geïnstalleerd als Boot2 dan moet u BootMii openen, u doet d
 Om een NAND back-up terug op uw Wii te zetten moet u dezelfde instructies volgen alleen moet u dan bij stap 4 niet op de BackupMii knop drukken maar op de RestoreMii knop drukken (degene met de rode pijl).
 {: .notice--info}
 
-[Verder gaan naar de Priiloader Installatie](priiloader)<br> Priiloader geeft uw Wii een extra bescherming tegen een brick, we raden dit daarom ook aan iedereen aan, maar vooral als u alleen BootMii als IOS hebt geïnstalleerd op uw Wii.
+[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
 {: .notice--info}
