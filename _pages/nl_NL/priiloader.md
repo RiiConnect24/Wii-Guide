@@ -36,7 +36,7 @@ Instaleer Priiloader **niet** op een vWii (Wiiu in Wii modus). Dat zal resultere
 
 2. U zou nou het Priiloader menu moeten zien. ![Menu](/images/Priiloader/6.png)
 3. Ga naar `System Menu Hacks`.
-4. Wij adviseren u om deze hacks aan te zetten: `Region Free EVERYTHING`, `Block Disc Updates` en `Block Online Updates`. ![Systeem Menu Hacks](/images/Priiloader/7.png)
+4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![Systeem Menu Hacks](/images/Priiloader/7.png)
 
 ## Systeem Menu Hacks Lijst
 
@@ -57,16 +57,12 @@ Dit is een lijst met hacks die u aan kunt zetten met Priiloader.
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Re-enable channels with these title IDs (originally blocked in system updates due to them being exploits).                                                                                                                            |
 | Remove NoCopy Save File Protection      | Zorgt ervoor dat het mogelijk wordt om normaal onmogelijke save files te kopiëren naar je SD-kaart op het geheugenbeheer scherm.                                                                                                      |
 | Region Free Channels                    | Verwijderd de regio locking voor Wii Kanalen.                                                                                                                                                                                         |
-| Force Disc Games to run under IOS249    | Make discs use cIOS 249 as the game's IOS. Do not enable this, as you will get Error 002 on most games with it.                                                                                                                       |
 | Auto-Press A at Health Screen           | Automatically presses the A Button to get past the "Health and Safety" screen.                                                                                                                                                        |
 | Force Standard Recovery Mode            | Automatically launches the console in recovery mode. Used to launch recovery discs, letting users unbrick their Wii systems.                                                                                                          |
 | OSReport to UsbGecko(slot B)            | Sends Wii Menu logs to a debugging device in memory card slot B.                                                                                                                                                                      |
 | OSReport to UsbGecko(GeckoOS,B)         | Sends Wii Menu logs to a debugging device in memory card slot B, if the Wii Menu is launched by Gecko OS.                                                                                                                             |
-| Move Disc Channel                       | Zorgt ervoor dat u het cd kanaal overal naartoe kunt verplaatsen op het Wii Menu. Normaal is dit niet mogelijk omdat dit kanaal links boven op de eerste pagina vast zit.                                                             |
-| Block Online Updates                    | Zorgt ervoor dat u uw Wii niet kan updaten.                                                                                                                                                                                           |
+| Move Disc Channel                       | Enables you to move the Disc Channel anywhere on the Wii Menu. It's normally locked to the top left entry on the first page.                                                                                                          |
+| Block Online Updates                    | Disables updating your Wii.                                                                                                                                                                                                           |
 
 [Verder gaan naar cIOS](cios)<br> cIOS wordt gebruikt om games te spelen vanaf een USB stick. Zelfs wanneer u dit niet wilt, het is ook handig voor veel andere homebrew apps.
-{: .notice--info}
-
-If you have a Wii mini, follow [this guide](cios-mini) to install cIOS instead.
 {: .notice--info}
