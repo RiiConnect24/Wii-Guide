@@ -15,9 +15,12 @@ Esta guía es sólo para consolas Wii originales que tengan la versión de siste
 
 ### Elige el exploit que quieres usar
 
-- [str2hax](str2hax) - Exploit que usa los términos del servicio de Wii. (Recomendado, no requiere una tarjeta SD ni un canal específico, pero requiere cambiar los ajustes de DNS)
-- [FlashHax](flashhax) - Exploit que usa el Canal Internet. (No requiere una tarjeta SD)
-- [LetterBomb](letterbomb) - Exploit que usa el tablón de Wii. (Requiere una tarjeta SD)
-- [BlueBomb](bluebomb) - Exploit que usa Bluetooth. No se requiere una tarjeta SD o conexión a internet.
+- [str2hax](str2hax) - Exploit that uses the Wii EULA
+  :   (Requires an internet connection and changing the DNS server)
+- [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board
+  :   (Requires an SD card)
+- [FlashHax](flashhax) - Exploit that uses the Internet Channel
+  :   (Requires the Internet Channel installed, and an internet connection)
+- [BlueBomb](bluebomb) - Exploit that uses Bluetooth
     * Requiere una computadora con Bluetooth y GNU/Linux instalado, así como una unidad USB
     * Este es el único exploit que funciona en el **Wii Mini**
