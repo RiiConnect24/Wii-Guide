@@ -20,7 +20,7 @@ Questo exploit è uno dei tanti. Guarda la pagina [Iniziare](/get-started) per a
 #### Istruzioni
 
 1. Vai nelle `Impostazioni della Wii` -> `Internet` -> `Informazioni sulla Console` e prendi nota del tuo MAC address.
-2. Vai su [please.hackmii.com](https://please.hackmii.com), Inserisci il tuo Wii MAC address e la tua regione, completa il CAPTCHA, *fai si che `Bundle the HackMii Installer for me!` sia attivato*, e taglia uno dei fili
+2. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure* `Bundle the HackMii Installer for me!` *is checked*, and cut either wire
    - Qualunque filo scegli di tagliare non importa. ![Schermata HackMii](/images/Wii/LetterBomb-PC.png)
 3. Estrai il contenuto dello ZIP sulla SD.
 4. Sulla tua Wii, ritorna al menu e apri la Message Board.
