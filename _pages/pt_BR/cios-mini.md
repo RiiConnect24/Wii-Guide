@@ -8,7 +8,7 @@ Este tutorial irá lhe ensinar a como instalar d2xl cIOS por Leseratte para Wii 
 
 ![Instalador d2x cIOS](/images/cIOS.png)
 
-Esse tutorial é destinado apenas para donos de Wii Mini. If you have a Wii, install [this cIOS](cios) instead.
+Esse tutorial é destinado apenas para donos de Wii Mini. If you have a Wii, Install [this cIOS](cios) instead.
 {: .notice--warning}
 
 Caso precise de ajuda com algo relacionado a este tutorial, entre no servidor do Discord dedicado para hacks do Wii mini:[](https://discord.gg/6ryxnkS)(recomendado)
