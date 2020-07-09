@@ -28,4 +28,4 @@ title: "Κανάλι Homebrew - μόνο για το Wii mini"
 1. Μόλις τελειώσετε, επιλέξτε `Exit` για έξοδο από το πρόγραμμα εγκατάστασης HackMii.
 
 {: .notice--info}
-[Συνέχεια στην εγκατάσταση του Priiloader](priiloader)
+[Continue to installing cIOS](cios-mini)
