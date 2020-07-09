@@ -22,9 +22,6 @@ There is no guide to installing RiiConnect24 on a Wii Mini, as attempting to ins
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-In order to use Wii Mail you must be on Wii Menu version 4.3, otherwise it won't work.
-{: .notice--info}
-
 #### What you need
 
 * An SD card or USB drive
