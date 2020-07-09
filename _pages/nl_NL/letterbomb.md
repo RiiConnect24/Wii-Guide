@@ -20,7 +20,7 @@ Dit is een van de vele exploits. Check [Get Started](/get-started) pagina voor a
 #### Instructies
 
 1. Op uw Wii, ga naar `Wii Opties` -> `Wii Instellingen` -> `Internet` -> `Systeeminformatie` en noteer uw MAC adres.
-2. Ga naar [please.hackmii.com](https://please.hackmii.com). Vul het MAC-adres en de regio van de Wii in. Voltooi de CAPTCHA en *zorg dat `Bundle the HackMii Installer for me!` is aangevinkt*. Druk daarna op `Cut the red wire` of `Cut the blue wire`
+2. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure* `Bundle the HackMii Installer for me!` *is checked*, and cut either wire
    - Het maakt niet uit welke van de twee knoppen u kiest. ![HackMii Scherm](/images/Wii/LetterBomb-PC.png)
 3. Pak de content van de gedownloade ZIP uit op uw SD-kaart.
 4. Op uw Wii, ga terug naar het Wii Menu en open het Wii-prikbord.
