@@ -36,7 +36,7 @@ Si has recibido alguno de los siguientes errores, deberías poder arreglar el re
 #### Instrucciones
 
 1. Lanza WiiXplorer.
-2. Ve hacia `Start` (Inicio) -> `Settings` (Ajustes) -> `Boot Settings` (Ajustes de arranque) -> `Enable NAND write access` (Activar permiso de escritura a NAND) y después elige `Yes` en los dos diálogos que aparecerán.
+2. Go to `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` and then select `Yes` for both dialogues that appear on the screen.
 3. Presiona Back (Volver) hasta que hayas vuelto a la pantalla del explorador de archivos.
 4. Presiona sobre el icono azul de la tarjeta SD y después selecciona `NAND`.
 5. Ve hacia la carpeta `title` -> `00010002` -> XXXXXXXX -> `data`, donde XXXXXXXX es una de las carpetas mencionadas arriba. Elige la carpeta del canal que quieras reparar.
