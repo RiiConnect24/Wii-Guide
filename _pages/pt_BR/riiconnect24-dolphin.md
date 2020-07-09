@@ -51,7 +51,7 @@ If you choose to run it on startup, you don't have to do anything. If you want t
 3. Select `Custom`. ![Select Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
 4. Press `1` to select your region and only enable 5th option. Press `6` to start patching.
 5. After it's done, there will a be a `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` file in WAD folder next to RiiConnect24Patcher.bat
-6. In Dolphin, press `Tools` and then `Install WAD`. and select the `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
+6. In Dolphin, press `Tools` and then `Install WAD`, and select the `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
 
 You're all done! Unfortunately, the Everybody Votes and Nintendo Channel don't work in Dolphin yet.
 {: .notice--info}
