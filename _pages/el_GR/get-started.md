@@ -15,9 +15,12 @@ title: "Ξεκινώντας"
 
 ### Επιλέξτε ποιά ευπάθεια θα χρησιμοποιείσετε
 
-- [str2hax](str2hax) - Ευπάθεια που χρησιμοποιούμε μέσω του Wii EULA (Συνιστάται, δεν απαιτείται ούτε κάρτα SD ούτε κάποιο κανάλι, αλλά απαιτείται να αλλάξετε τις ρυθμίσεις του DNS)
-- [FlashHax](flashhax) - Ευπάθεια που χρησιμοποιούμε μέσω του Καναλιού Internet (Δεν απαιτείται κάρτα SD)
-- [LetterBomb](letterbomb) - Ευπάθεια που χρησιμοποιούμε μέσω του Πίνακα Μηνυμάτων του Wii (Απαιτείται κάρτα SD)
-- [BlueBomb](bluebomb) - Ευπάθεια που χρησιμοποιούμε το Bluetooth (Δεν απαιτείται ούτε κάρτα SD ούτε Wifi)
+- [str2hax](str2hax) - Exploit that uses the Wii EULA
+  :   (Requires an internet connection and changing the DNS server)
+- [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board
+  :   (Requires an SD card)
+- [FlashHax](flashhax) - Exploit that uses the Internet Channel
+  :   (Requires the Internet Channel installed, and an internet connection)
+- [BlueBomb](bluebomb) - Exploit that uses Bluetooth
     * Απαιτεί έναν υπολογιστή με Bluetooth και GNU/Linux, όπως και ένα USB μέσο αποθήκευσης
     * Αυτή είναι η μόνη ευπάθεια που μπορούμε να χρησιμοποιήσουμε στο **Wii mini**
