@@ -30,7 +30,7 @@ La tua Wii ed il tuo computer devono essere collegati ad una rete locale
 
 1. Premi i pulsante destra sul d-pad e premi "A" ![2](/images/DumpDiscs_LAN/2.png)
 1. Scegli il disco che vuoi copiare (Le opzioni sono: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` e premi "A" ![3](/images/DumpDiscs_LAN/3.png)
-1. Ora metti il tuo gioco nella Wii. (Se è già dentro, estrailo e rimettilo) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
+1. Ora metti il tuo gioco nella Wii. (If it's already in your Wii, eject it and put it back) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
 1. Ricordati il tuo URL Wii (Indirizzo IP) ![5](/images/DumpDiscs_LAN/5.png)
 1. Sul tuo computer nel tuo browser, inserisci il tuo URL Wii e premi INVIO. ![6](/images/DumpDiscs_LAN/6.png)
 1. Dovresti vedere questo. Clicca su ` Clicca qui per scaricare XXXX.ios` ![7](/images/DumpDiscs_LAN/7.jpg)
