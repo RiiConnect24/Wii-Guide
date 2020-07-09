@@ -30,7 +30,7 @@ title: "Αποθήκευση παιχνιδιού με το τοπικό δίκ�
 
 1. Πατήστε το δεξί πλήκτρο στο +Σταυρό κατεύθυνσης και πατήστε το πλήκτρο Α ![2](/images/DumpDiscs_LAN/2.png)
 1. Επιλέξετε τον δίσκο που θέλετε να αντιγράψετε (Οι επιλογές είναι: `Δίσκος GameGube`, `, <code>Wii δίσκος απλού όγκου`, ` Wii δίσκος διπλού όγκου`) και πατήστε Α ![3](/images/DumpDiscs_LAN/3.png)
-1. Τώρα τοποθετήστε τον δίσκο σας στο Wii. (Αν είναι ήδη τοποθετημένος, εξάγετέ τον και τοποθετήστε τον πάλι) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
+1. Τώρα τοποθετήστε τον δίσκο σας στο Wii. (If it's already in your Wii, eject it and put it back) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
 1. Σημειώστε το URL του Wii σας (διεύθυνση IP) ![5](/images/DumpDiscs_LAN/5.png)
 1. Στον υπολογιστή σας, ανοίξτε ένα web browser, πληκτρολογήστε το URL του Wii και πατήστε Enter. ![6](/images/DumpDiscs_LAN/6.png)
 1. Πρέπει να δείτε αυτό. Πατήστε στο `Click here to download XXXX.iso` ![7](/images/DumpDiscs_LAN/7.jpg)
