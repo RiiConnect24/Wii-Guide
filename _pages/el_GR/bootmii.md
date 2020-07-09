@@ -32,5 +32,5 @@ title: "Αντίγραφο ασφαλείας με το BootMii"
 Για να επαναφέρετε ένα αντίγραφο ασφαλείας NAND από την κάρτα SD σας, μπορείτε να ακολουθήσετε αυτές τις οδηγίές χρησιμοποιώντας το RestoreMii (η επιλογή δίπλα στο BackupMii με το κόκκινο βέλος).
 {: .notice--info}
 
-[Συνεχίστε στην εγκατάσταση του Priiloader](priiloader)<br> Το Priiloader προσθέτει ένα επίπεδο προστασίας από Bricks και το προτείνουμε, ειδικά αν εγκαταστήσατε το BootMii μόνο ως IOS.
+[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
 {: .notice--info}
