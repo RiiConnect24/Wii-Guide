@@ -30,7 +30,7 @@ Tanto tu consola Wii como tu computadora deben estar conectadas a la misma red l
 
 1. Presiona el botón derecho en la cruz de control y después oprime A. ![Iniciando DVD Dump Tool](/images/DumpDiscs_LAN/2.png)
 1. Elige el tipo de disco que quieres copiar, ya sea un disco normal, de doble capa o de GameCube, y después oprime A. ![Seleccionando un tipo de disco](/images/DumpDiscs_LAN/3.png)
-1. Ahora inserta el disco que quieres copiar en tu Wii. (Si ya está insertado, expúlsalo y vuelve a insertarlo) ![Inserta el disco](/images/DumpDiscs_LAN/insertthedisc.jpg) ![Preparando la transferencia](/images/DumpDiscs_LAN/4.png)
+1. Ahora inserta el disco que quieres copiar en tu Wii. (If it's already in your Wii, eject it and put it back) ![Inserta el disco](/images/DumpDiscs_LAN/insertthedisc.jpg) ![Preparando la transferencia](/images/DumpDiscs_LAN/4.png)
 1. Toma nota de la dirección IP de tu Wii que aparece en pantalla. ![Toma nota de la IP de tu Wii](/images/DumpDiscs_LAN/5.png)
 1. Abre el navegador en tu computadora, escribe la IP de tu Wii en la barra de dirección y presiona ENTER. ![Ingresando la IP en la PC](/images/DumpDiscs_LAN/6.png)
 1. Debería de cargarse esta página. Ahora sólo haz clic en `Click here to download XXXX.iso` para comenzar la transferencia ![Página de DVD Dump Tool](/images/DumpDiscs_LAN/7.jpg)
