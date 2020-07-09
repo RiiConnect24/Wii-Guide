@@ -28,4 +28,4 @@ While it is possible to install BootMii on a Wii mini, you will not be able to u
 1. Once done, select `Exit` to exit the HackMii installer.
 
 {: .notice--info}
-[Continue to installing Priiloader](priiloader)
+[Continue to installing cIOS](cios-mini)
