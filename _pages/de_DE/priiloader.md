@@ -57,12 +57,13 @@ Dies ist eine Liste der Hacks, die du mit Priiloader aktivieren kannst.
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Reaktiviert Kanäle mit diesen Title-IDs (ursprünglich durch System-Updates blockiert, da sie Exploits sind).                                 |
 | Remove NoCopy Save File Protection      | Erlaubt es in der Datenverwaltung Speicherdaten zu kopieren, bei denen dies normalerweise deaktiviert ist.                                   |
 | Region Free Channels                    | Entfernt Region-Lock bei Wii-Kanälen.                                                                                                        |
+| Force Disc Games to run under IOS249    | Make discs use cIOS 249 as the game's IOS. Do not enable this, as you will get Error 002 on most games with it.                              |
 | Auto-Press A at Health Screen           | Automatically presses the A Button to get past the "Health and Safety" screen.                                                               |
 | Force Standard Recovery Mode            | Automatically launches the console in recovery mode. Used to launch recovery discs, letting users unbrick their Wii systems.                 |
 | OSReport to UsbGecko(slot B)            | Sends Wii Menu logs to a debugging device in memory card slot B.                                                                             |
 | OSReport to UsbGecko(GeckoOS,B)         | Sends Wii Menu logs to a debugging device in memory card slot B, if the Wii Menu is launched by Gecko OS.                                    |
 | Move Disc Channel                       | Enables you to move the Disc Channel anywhere on the Wii Menu. It's normally locked to the top left entry on the first page.                 |
-| Block Online Updates                    | Disables updating your Wii.                                                                                                                  |
+| Block Online Updates                    | Disables updating your Wii. Updates will fail with error 32007.                                                                              |
 
 [Fahre nun fort mit cIOS](cios)<br> cIOS werden für USB-Loader benötigt um Spiele zu spielen. Selbst wenn du das nicht vorhast, ist es für viele Homebrew-Anwendungen nützlich.
 {: .notice--info}
