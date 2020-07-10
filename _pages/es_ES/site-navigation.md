@@ -18,45 +18,45 @@ sitemap: false
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
 + [Instalar RiiConnect24](riiconnect24)
-+ [Solucionar error NEWS/FORE000006](riiconnect24-batteryfix)
-+ [Solucionar errores de RiiConnect24](riiconnect24-troubleshooting)
-+ [Instalar RiiConnect24 en vWii](riiconnect24-vwii)
-+ [Conectarse a Wiimmfi](wiimmfi)
-+ [Parchear WiiWare para jugar en Wiimmfi](wiiwarepatcher)
-
-**Modding 101**
-* [Respaldo de BootMii](bootmii)
-+ [Instalar cIOS](cios)
++ [RiiConnect24 vWii](riiconnect24-vwii)
++ [RiiConnect24 Dolphin](riiconnect24-dolphin)
++ [Wiimmfi](wiimmfi)
++ [WiiWare Patcher](wiiwarepatcher)
++ [Deleting VFFs](deleting-vffs)
++ [Fixing FORE000006](riiconnect24-batteryfix)
++ [Fixing NEWS000006](news000006) **Modding 101**
+* [BootMii Backup](bootmii)
++ [cIOS](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
-+ [Instalar Canal Homebrew y BootMii](hbc)
++ [Homebrew Channel](hbc)
 + [LetterBomb](letterbomb)
-+ [Instalar Priiloader](priiloader)
++ [Priiloader](priiloader)
 + [str2hax](str2hax)
 + [BlueBomb](bluebomb)
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Crear accesos directos para juegos de Wii](wiigsc)
-+ [Copiar juegos de Wii/GameCube](dump-games)
-+ [Copiar canales instalados en formato WAD](dump-wads)
-+ [Instalar RSSMii](rssmii)
-+ [Instalar temas para el menú de Wii](themes)
-+ [Realizar un SysCheck](syscheck)
-+ [Desinstalar RSSMii](rssmii-remove)
-+ [Instalar RiiTag](riitag)
++ [Creating Wii Game Shortcuts](wiigsc)
++ [How to dump GameCube/Wii games](dump-games)
++ [How to dump Channels (WADs)](dump-wads)
++ [Installing RSSMii](rssmii)
++ [Installing Wii Themes](themes)
++ [Performing a SysCheck](syscheck)
++ [Removing RSSMii](rssmii-remove)
++ [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 
-**Guías para Wii Mini**
-+ [Instalar el Canal Homebrew en Wii Mini](hbc-mini)
-+ [Instalar cIOS en Wii mini](cios-mini)
+**Wii mini**
++ [Installing The Homebrew Channel on the Wii mini](hbc-mini)
++ [Installing cIOS on the Wii mini](cios-mini)
 
 
-**Sitio**
-+ [Inicio](/)
-+ [Comenzar](get-started)
+**Site**
++ [Home](/)
++ [Get Started](get-started)
 + [FAQ](faq)
-+ [Donaciones](donations)
++ [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
