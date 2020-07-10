@@ -18,18 +18,18 @@ sitemap: false
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
 + [RiiConnect24](riiconnect24)
-+ [RiiConnect24 Batterij Fix](riiconnect24-batteryfix)
-+ [RiiConnect24 Troubleshooting](riiconnect24-troubleshooting)
 + [RiiConnect24 vWii](riiconnect24-vwii)
++ [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
-
-**Modding 101**
-* [BootMii Back-up](bootmii)
++ [Deleting VFFs](deleting-vffs)
++ [Fixing FORE000006](riiconnect24-batteryfix)
++ [Fixing NEWS000006](news000006) **Modding 101**
+* [BootMii Backup](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
-+ [Homebrew Kanaal](hbc)
++ [Homebrew Channel](hbc)
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
 + [str2hax](str2hax)
@@ -38,10 +38,10 @@ sitemap: false
 
 **Homebrew**
 + [Creating Wii Game Shortcuts](wiigsc)
-+ [Hoe je Wii/GameCube spellen kunt kopiëren](dump-games)
-+ [Hoe je Kanalen (WADs) kunt installeren](dump-wads)
-+ [RSSMii installeren](rssmii)
-+ [Wii Menu Thema's Installeren](themes)
++ [How to dump GameCube/Wii games](dump-games)
++ [How to dump Channels (WADs)](dump-wads)
++ [Installing RSSMii](rssmii)
++ [Installing Wii Themes](themes)
 + [Performing a SysCheck](syscheck)
 + [Removing RSSMii](rssmii-remove)
 + [RiiTag](riitag)
@@ -49,14 +49,14 @@ sitemap: false
 + [Wii Backup Manager](wiibackupmanager)
 
 **Wii mini**
-+ [Het Homebrew Kanaal installeren op een Wii mini](hbc-mini)
-+ [cIOS installeren op een Wii mini](cios-mini)
++ [Installing The Homebrew Channel on the Wii mini](hbc-mini)
++ [Installing cIOS on the Wii mini](cios-mini)
 
 
 **Site**
 + [Home](/)
 + [Get Started](get-started)
 + [FAQ](faq)
-+ [Donaties](donations)
++ [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
