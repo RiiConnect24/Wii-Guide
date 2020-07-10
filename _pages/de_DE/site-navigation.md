@@ -18,18 +18,18 @@ sitemap: false
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
 + [RiiConnect24](riiconnect24)
-+ [RiiConnect24 Batterie-Fix](riiconnect24-batteryfix)
-+ [RiiConnect24 Fehlerbehebung](riiconnect24-troubleshooting)
 + [RiiConnect24 vWii](riiconnect24-vwii)
++ [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
-
-**Modding-Einmaleins**
-* [BootMii-Sicherung](bootmii)
++ [Deleting VFFs](deleting-vffs)
++ [Fixing FORE000006](riiconnect24-batteryfix)
++ [Fixing NEWS000006](news000006) **Modding 101**
+* [BootMii Backup](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
-+ [Homebrew-Kanal](hbc)
++ [Homebrew Channel](hbc)
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
 + [str2hax](str2hax)
@@ -37,26 +37,26 @@ sitemap: false
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Verknüpfungen für Wii-Spiele erstellen](wiigsc)
-+ [Wie man Wii/GameCube-Spiele sichert](dump-games)
-+ [Wie man Kanäle (WADs) sichert](dump-wads)
-+ [RSSMii installieren](rssmii)
-+ [Wii-Designs installieren](themes)
-+ [Einen SysCheck durchführen](syscheck)
-+ [RSSMii entfernen](rssmii-remove)
++ [Creating Wii Game Shortcuts](wiigsc)
++ [How to dump GameCube/Wii games](dump-games)
++ [How to dump Channels (WADs)](dump-wads)
++ [Installing RSSMii](rssmii)
++ [Installing Wii Themes](themes)
++ [Performing a SysCheck](syscheck)
++ [Removing RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 
 **Wii mini**
-+ [Installation des Homebrew Kanals auf der Wii Mini](hbc-mini)
-+ [Installation von cIOS auf der Wii Mini](cios-mini)
++ [Installing The Homebrew Channel on the Wii mini](hbc-mini)
++ [Installing cIOS on the Wii mini](cios-mini)
 
 
-**Seite**
-+ [Start](/)
-+ [Einstieg](get-started)
-+ [Häufig gestellte Fragen (FAQ)](faq)
-+ [Spenden](donations)
+**Site**
++ [Home](/)
++ [Get Started](get-started)
++ [FAQ](faq)
++ [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
