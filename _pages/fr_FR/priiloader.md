@@ -57,12 +57,13 @@ Ci-dessous se trouve une liste des hacks qui peuvent être activés avec Priiloa
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Réactive les chaînes qui ont ces identifiants (et qui ont été bloquées par des mises à jours système car elles étaient des exploits). |
 | Remove NoCopy Save File Protection      | Autorise la copie de fichiers de sauvegarde normalement désactivés sur l'écran de gestion des données.                                |
 | Region Free Channels                    | Désactive le zonage pour les chaînes Wii.                                                                                             |
+| Force Disc Games to run under IOS249    | Make discs use cIOS 249 as the game's IOS. Do not enable this, as you will get Error 002 on most games with it.                       |
 | Auto-Press A at Health Screen           | Automatically presses the A Button to get past the "Health and Safety" screen.                                                        |
 | Force Standard Recovery Mode            | Automatically launches the console in recovery mode. Used to launch recovery discs, letting users unbrick their Wii systems.          |
 | OSReport to UsbGecko(slot B)            | Sends Wii Menu logs to a debugging device in memory card slot B.                                                                      |
 | OSReport to UsbGecko(GeckoOS,B)         | Sends Wii Menu logs to a debugging device in memory card slot B, if the Wii Menu is launched by Gecko OS.                             |
 | Move Disc Channel                       | Enables you to move the Disc Channel anywhere on the Wii Menu. It's normally locked to the top left entry on the first page.          |
-| Block Online Updates                    | Disables updating your Wii.                                                                                                           |
+| Block Online Updates                    | Disables updating your Wii. Updates will fail with error 32007.                                                                       |
 
 [Continuer vers les cIOS](cios)<br> Les cIOS sont utilisés pour lancer des jeux avec un USB Loader. Même si vous ne comptez pas le faire, ils sont utiles pour de nombreuses applications homebrew.
 {: .notice--info}
