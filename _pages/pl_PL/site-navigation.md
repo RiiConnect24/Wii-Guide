@@ -18,14 +18,14 @@ sitemap: false
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
 + [RiiConnect24](riiconnect24)
-+ ["Naprawa baterią" RiiConnect24 ](riiconnect24-batteryfix)
-+ [Rozwiązywanie problemów z RiiConnect24](riiconnect24-troubleshooting)
-+ [RiiConnec24 na vWii](riiconnect24-vwii)
++ [RiiConnect24 vWii](riiconnect24-vwii)
++ [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
-
-**Modowanie w pigułce**
-* [Wykonywanie kopii zapasowej korzystając z BootMii](bootmii)
++ [Deleting VFFs](deleting-vffs)
++ [Fixing FORE000006](riiconnect24-batteryfix)
++ [Fixing NEWS000006](news000006) **Modding 101**
+* [BootMii Backup](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
@@ -37,26 +37,26 @@ sitemap: false
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Tworzenie skrótów do gier Wii](wiigsc)
-+ [Jak wykonać kopię zapasową gier z GameCube/Wii](dump-games)
-+ [Jak wykonać kopię zapasową kanałów (pliki WAD)](dump-wads)
-+ [Instalowanie RSSMii](rssmii)
-+ [Instalowanie motywów (Themes) Wii](themes)
-+ [Wykonywanie SysCheck'u](syscheck)
-+ [Usuwanie RSSMii](rssmii-remove)
++ [Creating Wii Game Shortcuts](wiigsc)
++ [How to dump GameCube/Wii games](dump-games)
++ [How to dump Channels (WADs)](dump-wads)
++ [Installing RSSMii](rssmii)
++ [Installing Wii Themes](themes)
++ [Performing a SysCheck](syscheck)
++ [Removing RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 
-**Wii Mini**
-+ [Instalowanie Homebrew Channel na Wii Mini](hbc-mini)
-+ [Instalowanie cIOS na Wii Mini](cios-mini)
+**Wii mini**
++ [Installing The Homebrew Channel on the Wii mini](hbc-mini)
++ [Installing cIOS on the Wii mini](cios-mini)
 
 
-**Strona**
-+ [Strona główna](/)
-+ [Wprowadzenie](get-started)
-+ [Często zadawane pytania](faq)
-+ [Datki](donations)
+**Site**
++ [Home](/)
++ [Get Started](get-started)
++ [FAQ](faq)
++ [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
