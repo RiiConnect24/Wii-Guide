@@ -2,32 +2,32 @@
 title: "LetterBomb"
 ---
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Εάν χρειάζεστε οποιαδήποτε βοήθεια όσο αφορά αυτόν τον οδηγό, παρακαλώ μπείτε στον [RiiConnect24 διακομιστή Discord](https://discord.gg/b4Y7jfD) (προτείνεται) ή [στείλτε μας e-mail στη διεύθυνση support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![LetterBomb](/images/letterbomb.png)
 
-LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
+Το LetterBomb είναι μια ευπάθεια που χρησιμοποιούμε μέσω του Πίνακα Μηνυμάτων (Message Board) του Wii.
 
-This exploit is one of many. Check out the [Get Started](/get-started) page for other options.
+Αυτή η ευπάθεια είναι μια από τις πολλές. Δείτε στη σελίδα [Ξεκινώντας](/get-started) για άλλες επιλογές.
 {: .notice--info}
 
-#### What you need
-- An SD card
-- A Wii on system version 4.3
-   - This exploit will not work on a Wii Mini or vWii
+#### Τι χρειάζεστε
+- Μια κάρτα SD
+- Ένα Wii με έκδοση συστήματος 4.3
+   - Αυτή η ευπάθεια δεν θα λειτουργήσει σε ένα Wii Mini ή ένα vWii
 
-#### Instructions
+#### Οδηγίες
 
-1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
-2. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure* `Bundle the HackMii Installer for me!` *is checked*, and cut either wire
-   - Whichever wire you choose to cut doesn't matter. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
-3. Extract the contents of the downloaded ZIP to your SD card.
-4. On your Wii, return to the Wii Menu and then open the Message Board.
-5. Load the red letter with a bomb icon.
-   - In various scenarios, you may need to look at the previous or next day to find it.
+1. Στο Wii σας, πηγαίνετε `Wii Settings` - > `Internet` -> `Console Information` και καταγράψτε την φυσική διεύθυνσή (MAC address) σας.
+2. Επισκεφθείτε την ιστοσελίδα [please.hackmii.com](https://please.hackmii.com), βάλτε την φυσική διεύθυνση (MAC) και την περιοχή του Wii σας, ολοκληρώστε το CAPTCHA, *ελέγξτε ότι το* `Bundle the HackMii Installer for me!` *είναι επιλεγμένο*, και κόψτε οποιοδήποτε καλώδιο (μεταφορικά μιλώντας)
+   - Δεν έχει σημασία όποιο από τα δύο επιλέξετε. ![Οθόνη HackMii](/images/Wii/LetterBomb-PC.png)
+3. Εξάγετε τα δεδομένα του ZIP που κατεβάσατε στην κάρτα SD σας.
+4. Στο Wii σας, επιστρέψτε στο Μενού του Wii και ανοίξτε τον Πίνακα Μηνυμάτων.
+5. Πατήστε στο κόκκινο γράμμα με το εικονίδιο βόμβας.
+   - Μερικές φορές, πρέπει να κοιτάξετε σε προηγούμενες ή επόμενες μέρες για να το βρείτε.
 
-![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
+![LetterBomb μενού του Wii](/images/Wii/LetterBomb-Wii.png)
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[Συνέχεια στην εγκατάσταση του καναλιού Homebrew και του BootMii](hbc)
 {: .notice--info}
