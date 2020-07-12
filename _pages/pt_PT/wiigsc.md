@@ -22,7 +22,7 @@ Em caso de brick, [é necessário ter instalado o Priiloader](/priiloader). Inst
 
 #### Instruções
 
-1. Install WiiGSC, then right click on it and choose **Run as administrator**. If you do not do this, WiiGSC will throw an error when you open it.
+1. Instala o WiiGSC, com o botão direito do rato, clica nele e seleciona **Executar como administrador**. Se não o fizeres, WiiGSC irá apresentar um erro quando o abrires.
 2. Seleciona o caminho para o ficheiro ISO ou WBFS no teu USB Drive, e seleciona o USB Loader que utilizas. Deixa as outras opções como estão.
 3. Se estás a utilizar o USB Loader GX, não podes utilizar a revision 1272 para shortcuts. Tens de utilizar a revision 1271 (ou versão anterior).
 4. Não faças shortcuts para "A Boy and His Blob" ou "Mario Party 9". Estes irão brickar a tua Wii.
