@@ -8,7 +8,7 @@ Este tutorial irá te contar como instalar d2xl Wii mini cIOS (IOS personalizada
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-Este guia é apenas para utilizadores de Wii Mini. If you have a Wii, Install [this cIOS](cios) instead.
+Este guia é apenas para utilizadores de Wii Mini. Se tens uma Wii, instala [este cIOS](cios).
 {: .notice--warning}
 
 Se tu precisas de ajuda com alguma coisa relacionada a este tutorial, por favor entra no [server Wii Mini Hacking no Discord](https://discord.gg/6ryxnkS) (recomendado)
