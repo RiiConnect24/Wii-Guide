@@ -20,7 +20,7 @@ Esta vulnerabilidade é uma de muitas. Vê a página [Vamos começar](/get-start
 #### Instruções
 
 1. Na tua Wii, vai até `Wii Settings` -> `Internet` -> `Console Information` e anota o teu endereço MAC.
-2. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure* `Bundle the HackMii Installer for me!` *is checked*, and cut either wire
+2. Visita [please.hackmii.com](https://please.hackmii.com), coloca o teu Wii MAC e região, completa o CAPTCHA, *certifica* `Bundle the HackMii Installer for me!` *tem um visto*, e corta qualquer um dos fios
    - Não importa qual o fio que escolhas para cortar. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
 3. Extrai os conteúdos do ZIP descarregado para o teu cartão SD.
 4. Na tua Wii, volta para o Wii menu e depois abre o Message Board.
