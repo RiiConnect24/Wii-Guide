@@ -7,7 +7,7 @@ title: "Διαγραφή του VFFS"
 Εάν χρειάζεστε οποιαδήποτε βοήθεια όσο αφορά αυτόν τον οδηγό, παρακαλώ μπείτε στον [RiiConnect24 διακομιστή Discord](https://discord.gg/b4Y7jfD) (προτείνεται) ή [στείλτε μας e-mail στη διεύθυνση support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![Εικονίδιο RiiConnect24](/images/WiiRC24Logo.jpg)
 
 Εάν συμβαίνει ένα τέτοιο σφάλμα (και όχι οποιοδήποτε άλλο), λογικά μπορείτε να φτιάξετε το Κανάλι διαγράφοντας το VFF σας.
 
@@ -39,10 +39,10 @@ title: "Διαγραφή του VFFS"
 2. Πατήστε `Start` -> `Settings` -> `Boot Settings` -> `Ενεργοποιήστε το NAND write access` και μετά πατήστε `Yes` και στις δύο προειδοποιήσεις που θα εμφανιστούν στην οθόνη.
 3. Πατήστε Back μέχρι να φτάσετε στην αρχική σελίδα με τα αρχεία.
 4. Πατήστε το μικρό μπλε εικονίδιο με την κάρτα SD, και μετά πατήστε `NAND`.
-5. Navigate to `title` -> `00010002` -> XXXXXXXX -> `data`, where XXXXXXXX is one of the folders above.
-6. Hover over `wc24dl.vff` and press the + button and select `Delete`.
+5. Πηγαίνετε στη διαδρομή `title` -> `00010002` -> XXXXXXXX -> `data`, όπου XXXXXXXX είναι ένας από τους παραπάνω φακέλους.
+6. Στοχεύστε στο `wc24dl.vff`, πατήστε το κουμπί + και πατήστε `Delete` για διαγραφή.
 
-Try to launch the Channel you were having trouble with now.
+Προσπαθείστε τώρα να ανοίξετε το κανάλι που είχατε πρόβλημα.
 
-[Return to RiiConnect24 installation page](riiconnect24)
+[Επιστροφή στη σελίδα εγκατάστασης RiiConnect24](riiconnect24)
 {: .notice--info}
