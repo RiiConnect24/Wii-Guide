@@ -8,7 +8,7 @@ Dieses Tutorial wird dir zeigen, wie du Leserattes d2xl cIOS (custom IOS) für d
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-Dieser Abschnitt ist ausschließlich für Wii mini-Nutzer vorgesehen. If you have a Wii, Install [this cIOS](cios) instead.
+Dieser Abschnitt ist ausschließlich für Wii mini-Nutzer vorgesehen. Wenn du eine Wii besitzt, installiere stattdessen [dieses cIOS](cios).
 {: .notice--warning}
 
 Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [Wii mini Hacking-Discordserver](https://discord.gg/6ryxnkS) bei (empfohlen)
