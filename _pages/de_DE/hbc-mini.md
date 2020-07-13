@@ -28,4 +28,4 @@ Zwar ist es möglich, BootMii auf einer Wii Mini zu installieren, dies wirst du 
 1. Sobald abgeschlossen, wähle `Exit`, um den HackMii Installer zu beenden.
 
 {: .notice--info}
-[Continue to installing cIOS](cios-mini)
+[Fortfahren mit der cIOS-Installation](cios-mini)
