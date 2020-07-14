@@ -97,14 +97,14 @@ Se tiveres o erro 107245, provavelmente falhou o patch no teu IOS.
 Se tiveste o erro 107304, talvez o teu FAI esteja a bloquear a utilização de DNS personalizados. Uma solução para este problema poderá ser executar o teu próprio servidor DNS! Vê o [RiiConnect24 DNS Server no GitHub](https://github.com/RiiConnect24/DNS-Server) e utiliza o IP do teu PC para substituir o nosso no Passo 8.
 {: .notice--info}
 
-[If you get error FORE000006, following this tutorial should fix it.](riiconnect24-batteryfix)
+[Se tiveres o erro FORE000006, seguir este tutorial poderá corrigi-lo.](riiconnect24-batteryfix)
 {: .notice--warning}
 
-[If you get error NEWS000006, following this tutorial should fix it.](news000006)
+[Se tiveres o erro NEWS000006, seguir este tutorial poderá corrigi-lo.](news000006)
 {: .notice--warning}
 
 [Se tiveres a ter error como o `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, por favor vai a Wii Settings -> Ultima página -> Country e muda-o para United Kingdom. Tu terás este erro quando utilizas um país que nós não damos suporte. Contacta-nos em [support@riiconnect24.net](mailto:support@riiconnect24.net) se precisares de mais ajuda.
 {: .notice--warning}
 
-[If you're getting a discontinued message when opening the News or Forecast Channel, then following this tutorial should fix it.](deleting-vffs)
+[Se estás a receber uma mensagem de descontinuidade quando abres o News ou Forecast Channel, então segue este guia para corrigí-lo.](deleting-vffs)
 {: .notice--warning}
