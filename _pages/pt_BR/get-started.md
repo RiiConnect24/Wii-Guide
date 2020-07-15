@@ -18,8 +18,8 @@ Este guia é apenas para o Wii original, na versão do sistema mais recente (4.3
 - [str2hax](str2hax) - Exploit that uses the Wii EULA
   :   (Requires an internet connection and changing the DNS server)
 - [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board
-  :   (Requires an SD card)
-- [FlashHax](flashhax) - Exploit that uses the Internet Channel
+  :   (Requer um cartão SD)
+- [FlashHax](flashhax) - Exploit que usa o Internet Channel
   :   (Requires the Internet Channel installed, and an internet connection)
 - [BlueBomb](bluebomb) - Exploit that uses Bluetooth
     * Requer um computador com Bluetooth e GNU/Linux, além de um dispositivo USB
