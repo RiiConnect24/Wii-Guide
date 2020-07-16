@@ -31,7 +31,7 @@ Te recomendamos que [instales cIOS](cios) antes de continuar.
 * Una computadora con Windows (o usando Mono o Wine en Mac/Linux)
 * [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
-* [This GBAtemp post](https://gbatemp.net/threads/wii-theme-team-creations.260327/) or [our themes page](https://rc24.xyz/goodies/themes/)
+* [Este publicación de GBAtemp](https://gbatemp.net/threads/wii-theme-team-creations.260327/) o [nuestras páginas temáticas](https://rc24.xyz/goodies/themes/)
 
 ¡ASEGÚRATE DE HABER LEÍDO TODAS LAS ADVERTENCIAS ANTES DE CONTINUAR!
 {: .notice--warning}
@@ -40,7 +40,7 @@ Te recomendamos que [instales cIOS](cios) antes de continuar.
 
 ##### Sección I - Encontrando un tema
 
-* Peruse the GBAtemp post or our themes page, finding a theme you want to install. Algunos de los temas incluso tienen un video de YouTube para que puedas ver cómo son, pero desafortunadamente varios de los videos ya no están disponibles
+* Mire la publicación de GBAtemp o nuestras páginas de temas y encuentre el tema que quieres instalar. Algunos de los temas incluso tienen un video de YouTube para que puedas ver cómo son, pero desafortunadamente varios de los videos ya no están disponibles
 * Una vez que encuentres un tema que te guste, haz clic en el enlace de descarga correspondiente a la versión de sistema de tu Wii. **Es muy importante que elijas la versión correcta para evitar un brick.**
 * En la mayoría de los casos, tendrás que elegir el enlace que dice 4.X, lo cual quiere decir que el tema funcionará en las versiones de sistema 4.1, 4.2 y 4.3.
 * Algunos temas tienen enlaces para diferentes regiones, así que elige el que corresponda con la región de tu consola.
