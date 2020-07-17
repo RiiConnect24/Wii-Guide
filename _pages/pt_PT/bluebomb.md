@@ -14,24 +14,24 @@ BlueBomb é um exploit que tira proveito de uma falha nas bibliotecas Bluetooth 
 Para a Wii original, nós recomendamos utilizar [outro exploit](/get-started) se pretenderes instalar o Homebrew Channel e/ou BootMii.
 {: .notice--info}
 
-Esta vulnerabilidade não resultará na vWii da Wii U. Por favor segue [este guia](https://wiiuguide.xyz/#/vwii-modding).
+Este exploit não resultará na vWii da Wii U. Por favor segue [este guia](https://wiiuguide.xyz/#/vwii-modding).
 {: .notice--warning}
 
 #### Secção I - O que precisas
 - Uma máquina Linux
   - Se tens um Raspberry Pi, podes utilizá-lo, já que ele tem o Linux pré-instalado.
-  - Subsistema Windows para Linux *não funcionará* já que não tem acesso direto ao adaptador Bluetooth ou entradas USB.
-  - Se tu não tiveres Linux, [Ubuntu](https://ubuntu.com/download/desktop) é a opção mais recomendável e pode ser executado em computadores que utilizam Windows ou macOS.
+  - O Subsistema Windows para Linux *não funcionará* já que este não tem acesso direto ao adaptador Bluetooth ou entradas USB.
+  - Se tu não tiveres Linux, [Ubuntu](https://ubuntu.com/download/desktop) é a melhor opção e pode ser executado em computadores que utilizam Windows ou macOS.
     - Dispositivos de 32-bit requerem [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
     - Para dispositivos 64-bit é recomendado que utilizes a edição LTS devido à estabilidade, mas a versão mais recente também funciona.
-  - Tu podes [instalar Linux para um USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) em vez de instalá-lo no teu computador.
+  - Tu podes [instalar Linux num USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) em vez de instalá-lo no teu computador.
 - Um adaptador Bluetooth.
-  - Um adaptador Bluetooth interno irá funcionar.
+  - Um adaptador Bluetooth interno funcionará.
   - Se não tiveres um, certifica-te que arranjas um com compatibilidade com Linux.
 - Um USB flash drive formatado como FAT32.
   - Isto não pode ser o mesmo flash drive utilizado para a tua máquina Linux.
 
-#### Secção II - Executando a vulnerabilidade
+#### Secção II - Executar o exploit
 1. Descarrega o instalador HackMii a partir do [site do BootMii](https://bootmii.org/download/).
 - (Se estiveres a corrigir um brick, tu também podes copiar a aplicação homebrew que desejas utilizar em /apps/)
 1. Extrai-o e coloca o ficheiro `boot.elf` no teu flash drive.
