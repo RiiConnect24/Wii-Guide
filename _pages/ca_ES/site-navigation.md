@@ -24,7 +24,9 @@ sitemap: fals
 + [WiiWare Patcher](wiiwarepatcher)
 + [Deleting VFFs](deleting-vffs)
 + [Fixing FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006) **Modding 101**
++ [Fixing NEWS000006](news000006)
+
+**Modding 101**
 * [BootMii Backup](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
