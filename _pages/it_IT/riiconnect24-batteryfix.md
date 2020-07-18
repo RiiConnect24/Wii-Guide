@@ -9,7 +9,7 @@ Se ti serve aiuto riguardo questa guida, entra nel [server Discord di RiiConnect
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-Questo tutorial non sembra correggere l'errore NEWS0000006. Sfortunatamente, se l'errore persiste, riformattare la tua Wii potrebbe essere l'unica opzione per risolverlo.
+Questo tutorial non sembra correggere l'errore NEWS0000006. [If you get error NEWS000006, following this tutorial should fix it.](news000006)
 {: .notice--warning}
 
 Se ricevi l'errore FORE000006, in genere significa "dati non validi". Potrebbe essere qualcosa da parte nostra anche se improbabile. Prova ad aspettare qualche minuto e poi riprova.
