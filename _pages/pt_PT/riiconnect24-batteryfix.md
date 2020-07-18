@@ -9,7 +9,7 @@ Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor 
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-Este tutorial não parece que corrija o erro NEWS0000006. Infelizmente, esse erro persiste, formatar a tua Wii poderá ser a unica opção para corrigir.
+Este tutorial não parece que corrija o erro NEWS0000006. [Se tiveres o erro NEWS000006, seguir este tutorial poderá corrigi-lo.](news000006)
 {: .notice--warning}
 
 Se estás a obter o erro FORE000006, costuma significar "dados inválidos". Pode ser alguma coisa do nosso lado, embora seja improvável. Tenta esperar uns minutos e tenta outra vez.
