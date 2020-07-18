@@ -24,8 +24,10 @@ sitemap: false
 + [WiiWare Patcher](wiiwarepatcher)
 + [Deletar VFFs](deleting-vffs)
 + [Corrigir o erro FORE000006](riiconnect24-batteryfix)
-+ [Corrigir NEWS000006](news000006) **Modificação para novatos**
-* [Cópia de segurança BootMii](bootmii)
++ [Fixing NEWS000006](news000006)
+
+**Modding 101**
+* [BootMii Backup](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
@@ -37,26 +39,26 @@ sitemap: false
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Criar atalhos para jogos Wii](wiigsc)
-+ [Como extrair jogos GameCube/Wii](dump-games)
-+ [Como extrair canais (WADs)](dump-wads)
-+ [Instalar RSSMii](rssmii)
-+ [Instalar Temas Wii](themes)
-+ [Realizar um SysCheck](syscheck)
-+ [Remover RSSMii](rssmii-remove)
++ [Creating Wii Game Shortcuts](wiigsc)
++ [How to dump GameCube/Wii games](dump-games)
++ [How to dump Channels (WADs)](dump-wads)
++ [Installing RSSMii](rssmii)
++ [Installing Wii Themes](themes)
++ [Performing a SysCheck](syscheck)
++ [Removing RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 
 **Wii mini**
-+ [Instalar The Homebrew Channel na Wii Mini](hbc-mini)
-+ [Instalar cIOS na Wii Mini](cios-mini)
++ [Installing The Homebrew Channel on the Wii mini](hbc-mini)
++ [Installing cIOS on the Wii mini](cios-mini)
 
 
 **Site**
-+ [Início](/)
-+ [Vamos Começar](get-started)
++ [Home](/)
++ [Get Started](get-started)
 + [FAQ](faq)
-+ [Doações](donations)
++ [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
