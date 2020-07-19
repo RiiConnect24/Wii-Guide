@@ -24,10 +24,10 @@ sitemap: false
 + [WiiWare Patcher](wiiwarepatcher)
 + [Deletar VFFs](deleting-vffs)
 + [Corrigir o erro FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [Corrigir NEWS000006](news000006)
 
-**Modding 101**
-* [BootMii Backup](bootmii)
+**Modificação 101**
+* [Copia de segurança BootMii](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
@@ -39,13 +39,13 @@ sitemap: false
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Creating Wii Game Shortcuts](wiigsc)
-+ [How to dump GameCube/Wii games](dump-games)
-+ [How to dump Channels (WADs)](dump-wads)
-+ [Installing RSSMii](rssmii)
-+ [Installing Wii Themes](themes)
-+ [Performing a SysCheck](syscheck)
-+ [Removing RSSMii](rssmii-remove)
++ [Criar atalhos para jogos Wii](wiigsc)
++ [Como extrair jogos GameCube/Wii](dump-games)
++ [Como extrair canais (WADs)](dump-wads)
++ [Instalar RSSMii](rssmii)
++ [Instalar Temas Wii](themes)
++ [Realizar um SysCheck](syscheck)
++ [Remover RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
