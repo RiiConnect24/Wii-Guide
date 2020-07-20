@@ -8,7 +8,7 @@ Ten poradnik nauczy Cię jak zainstalować Leseratte d2xl Wii mini cIOS (niestan
 
 ![instalator d2x cIOS](/images/cIOS.png)
 
-Ta sekcja jest przeznaczona tylko dla posiadaczy Wii Mini. If you have a Wii, Install [this cIOS](cios) instead.
+Ta sekcja jest przeznaczona tylko dla posiadaczy Wii Mini. Jeżeli korzystasz z oryginalnego Wii, zamiast tego - skorzystaj z [tego poradnika](cios).
 {: .notice--warning}
 
 Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołączy do [serwera Discord dotyczącego przerabiania Wii Mini](https://discord.gg/6ryxnkS)
