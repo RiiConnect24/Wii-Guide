@@ -4,7 +4,7 @@ layout: single
 sitemap: false
 ---
 
-![PoradnikiWii](/images/WiiTutorials.jpg)
+![WiiTutorials](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
 **Wyróżnione**
@@ -22,12 +22,12 @@ sitemap: false
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
-+ [Deleting VFFs](deleting-vffs)
-+ [Fixing FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [Kasowanie plików .VFF](deleting-vffs)
++ [Naprawianie błędu FORE000006](riiconnect24-batteryfix)
++ [Naprawianie błędu NEWS000006](news000006)
 
-**Modding 101**
-* [BootMii Backup](bootmii)
+**Modowanie w pigułce**
+* [Wykonywanie kopii zapasowej korzystając z BootMii](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
@@ -39,26 +39,26 @@ sitemap: false
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Creating Wii Game Shortcuts](wiigsc)
-+ [How to dump GameCube/Wii games](dump-games)
-+ [How to dump Channels (WADs)](dump-wads)
-+ [Installing RSSMii](rssmii)
-+ [Installing Wii Themes](themes)
-+ [Performing a SysCheck](syscheck)
-+ [Removing RSSMii](rssmii-remove)
++ [Tworzenie skrótów do gier Wii](wiigsc)
++ [Jak wykonać kopię zapasową gier z GameCube/Wii](dump-games)
++ [Jak wykonać kopię zapasową kanałów (pliki WAD)](dump-wads)
++ [Instalowanie RSSMii](rssmii)
++ [Instalowanie motywów (Themes) Wii](themes)
++ [Wykonywanie SysCheck'u](syscheck)
++ [Usuwanie RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 
-**Wii mini**
-+ [Installing The Homebrew Channel on the Wii mini](hbc-mini)
-+ [Installing cIOS on the Wii mini](cios-mini)
+**Wii Mini**
++ [Instalowanie Homebrew Channel na Wii Mini](hbc-mini)
++ [Instalowanie cIOS na Wii Mini](cios-mini)
 
 
-**Site**
-+ [Home](/)
-+ [Get Started](get-started)
-+ [FAQ](faq)
-+ [Donations](donations)
+**Strona**
++ [Strona główna](/)
++ [Wprowadzenie](get-started)
++ [Często zadawane pytania](faq)
++ [Datki](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
