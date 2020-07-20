@@ -28,4 +28,4 @@ Kiedy w teorii możliwe jest zainstalowanie BootMii na Wii Mini, nie będziesz m
 1. Kiedy instalacja zostanie ukończona, wybierz `Exit` aby wyjść z instalatora HackMii.
 
 {: .notice--info}
-[Continue to installing cIOS](cios-mini)
+[Kontynuuj do instalacji cIOS](cios-mini)
