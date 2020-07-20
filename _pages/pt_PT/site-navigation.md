@@ -51,14 +51,14 @@ sitemap: false
 + [Wii Backup Manager](wiibackupmanager)
 
 **Wii mini**
-+ [Installing The Homebrew Channel on the Wii mini](hbc-mini)
-+ [Installing cIOS on the Wii mini](cios-mini)
++ [Instalar The Homebrew Channel na Wii Mini](hbc-mini)
++ [Instalar cIOS na Wii Mini](cios-mini)
 
 
 **Site**
-+ [Home](/)
-+ [Get Started](get-started)
++ [Início](/)
++ [Vamos Começar](get-started)
 + [FAQ](faq)
-+ [Donations](donations)
++ [Doações](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
