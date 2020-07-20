@@ -9,7 +9,7 @@ Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz d
 
 ![Logo RiiConnect24](/images/WiiRC24Logo.jpg)
 
-Wygląda na to, że ten poradnik nie naprawia błędu NEWS0000006. [If you get error NEWS000006, following this tutorial should fix it.](news000006)
+Wygląda na to, że ten poradnik nie naprawia błędu NEWS0000006. [Jeżeli otrzymujesz błąd NEWS000006, skorzystaj z tego poradnika. Powinien Ci on pomóc naprawić ten błąd.](news000006)
 {: .notice--warning}
 
 Jeżeli otrzymujesz błąd FORE000006, zazwyczaj oznacza to "niepoprawne dane". Może być to coś po naszej stronie. Poczekać kilka minut i spróbuj ponownie.
