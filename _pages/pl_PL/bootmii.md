@@ -32,5 +32,5 @@ Jeżeli w ostatnim kroku zainstalowałeś BootMii jako boot2, musisz uruchomić 
 Aby przywrócić kopię zapasową z Twojej karty pamięci SD, podążaj za instrukcjami, które są podane w RestoreMii (ikona przy BackupMii z czerwoną strzałką).
 {: .notice--info}
 
-[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
+[Kontynuuj do instalacji Priiloader'a](priiloader). Priiloader jest jednym z zabezpieczeń przed brickiem, zalecamy instalację tego programu, szczególnie jeśli tylko mogłeś zainstalowałeś BootMii jako IOS.
 {: .notice--info}
