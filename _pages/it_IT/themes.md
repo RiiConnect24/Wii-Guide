@@ -12,7 +12,7 @@ Stanco del noioso, piatto tema bianco del Wii Menu, e vuoi invece un tema figo? 
 In caso di blocco, [Installare Priiloader è necessario](priiloader). Installare anche BootMii (come Boot2 se hai già una Wii) Installare la protezione dai blocchi e seguire correttamente la guida ti tiene al sicuro da blocchi. NON CONTINUARE FINO A CHE NON HAI PRIILOADER E BOOTMII INSTALLATI!
 {: .notice--warning}
 
-Non installare un tema personale su vWii (Wii U)! Questo lo bloccherà.
+Do not install a custom theme on vWii (Wii U), unless it has been formatted specifically for the vWii and your Wii U's region! Check out [this GBATemp post](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) for more on vWii themes.
 {: .notice--warning}
 
 Per sicurezza, non usare altre versioni di MyMenuify fuorché quella indicata qui, MyMenuify Mod è il modo più sicuro per installare un tema.
