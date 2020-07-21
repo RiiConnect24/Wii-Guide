@@ -12,7 +12,7 @@ Jesteś znudzony nudnym, białym wyglądem Wii Menu i chcesz zainstalować jaki�
 W przypadku bricka, [instalacja Priiloadera jest wymogiem](priiloader). Również, zainstaluj BootMii (jako boot2 jeżeli masz starsze Wii). Zainstalowanie ochrony przed brickiem oraz poprawne podążenie za tym poradnikiem ochroni Cię przed zbrickowaniem Twojej konsoli. NIE KONTYNUUJ DOPÓKI NIE ZAINSTALUJESZ PRIILOADERA I BOOTMII!
 {: .notice--warning}
 
-Nie instaluj żadnego motywu na vWii (Wii U)! Zrobienie tego, zbrickuje Twoją konsolę.
+Nie instaluj motywów na Twoim vWii (Wii U) chyba, że zostały odpowiednio przygotowane do użycia na vWii oraz dla Twojego regionu Wii U. Sprawdź [ten post na GBATemp](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) jeśli chcesz się dowiedzieć więcej o motywach dla vWii.
 {: .notice--warning}
 
 Z powodu bezpieczeństwa, nie używaj żadnej innej wersji MyMenuify, niż ta, która jest podlinkowana poniżej. MyMenuify Mod jest najbezpieczniejszą aplikacją do instalowania motywów.
