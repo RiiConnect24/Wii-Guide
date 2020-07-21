@@ -9,6 +9,9 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You connect it to a USB Loader, and the tag updates on-the-fly. You need a Discord account in order to start using RiiTag.
 
+Want to install RiiTag on your Wii U? See [this guide](riitag-wiiu) on how to connect it to your Wii U Menu.
+{: .notice--info}
+
 #### What you need
 
 * A computer
