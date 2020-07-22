@@ -1,7 +1,3 @@
----
-title: "CleanRip"
----
-
 #### What you need
 
 * An SD card or USB drive with at least 4.7 GB of free space

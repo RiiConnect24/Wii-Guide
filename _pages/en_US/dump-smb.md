@@ -1,7 +1,3 @@
----
-title: "Dumping a game over a local network"
----
-
 #### What you need
 
 * A Wii.
