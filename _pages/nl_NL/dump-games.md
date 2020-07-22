@@ -2,13 +2,25 @@
 title: "Een Wii/GameCube cd-rom kopiëren"
 ---
 
-Wilt u legaal een GameCube of Wii cd-rom's kopiëren en spelen op uw Wii? Deze tutorial zal u uitleggen hoe dat moet.
+Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
 
-Kies alstublieft een manier hoe u uw cd-rom wilt kopiëren.
-{: .notice--waarschuwing}
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">To a PC over the network</button>
 
-[Ik wil mijn cd-rom naar een SD-kaart of USB-stick /harde schijf kopiëren](cleanrip)
-{: .notice--info}
+{% capture cleanripInstructions %}
+### Cleanrip guide
+{% include_relative cleanrip.md %}
+{% endcapture %}
 
-[Ik wil mijn cd-rom direct naar mijn PC kopiëren over het internet](dump-smb)
-{: .notice--info}
+{% capture networkInstructions %}
+### Dumping a game over a local network
+{% include_relative dump-smb.md %}
+{% endcapture %}
+
+<div id="cleanrip" class="blanktabcontent">{{ cleanripInstructions | markdownify }}</div>
+<div id="network" class="blanktabcontent">{{ networkInstructions | markdownify }}</div>
+
+<script>
+    let tabcontent = document.getElementsByClassName("blanktabcontent");
+    let tablinks = document.getElementsByClassName("tablinks");!!crwd_CB_1_BC_dwrc!!</script>
+
