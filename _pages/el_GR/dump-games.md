@@ -2,13 +2,25 @@
 title: "Αποθήκευση παιχνιδιών Wii/GameCube"
 ---
 
-Θέλετε να αποθηκεύετε νόμιμα ένα παιχνίδι GameCube ή Wii και να το παίξετε στο Wii σας χωρίς τον δίσκο; Σε αυτόν τον οδηγό θα σας εξηγήσουμε πώς.
+Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
 
-Παρακαλούμε επιλέξτε πως θέλετε να αποθηκεύσετε τον δίσκο.
-{: .notice--warning}
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">To a PC over the network</button>
 
-[Θέλω να τον αποθηκεύσω σε κάρτα SD/συσκευή USB](cleanrip)
-{: .notice--info}
+{% capture cleanripInstructions %}
+### Cleanrip guide
+{% include_relative cleanrip.md %}
+{% endcapture %}
 
-[Θέλω να το αποθηκεύσω κατευθείαν στον υπολογιστή μου μέσω του δικτύου](dump-smb)
-{: .notice--info}
+{% capture networkInstructions %}
+### Dumping a game over a local network
+{% include_relative dump-smb.md %}
+{% endcapture %}
+
+<div id="cleanrip" class="blanktabcontent">{{ cleanripInstructions | markdownify }}</div>
+<div id="network" class="blanktabcontent">{{ networkInstructions | markdownify }}</div>
+
+<script>
+    let tabcontent = document.getElementsByClassName("blanktabcontent");
+    let tablinks = document.getElementsByClassName("tablinks");!!crwd_CB_1_BC_dwrc!!</script>
+
