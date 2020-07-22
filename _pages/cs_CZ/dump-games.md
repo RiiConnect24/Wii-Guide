@@ -2,13 +2,25 @@
 title: "Dumping Wii/GameCube games"
 ---
 
-Want to legally dump a GameCube or a Wii game and play it on your Wii? With this tutorial we will explain how to do it.
+Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
 
-Please choose how you want to dump the disc.
-{: .notice--warning}
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">To a PC over the network</button>
 
-[I want to dump it to the SD card/USB device](cleanrip)
-{: .notice--info}
+{% capture cleanripInstructions %}
+### Cleanrip guide
+{% include_relative cleanrip.md %}
+{% endcapture %}
 
-[I want to dump it directly to my PC over a network](dump-smb)
-{: .notice--info}
+{% capture networkInstructions %}
+### Dumping a game over a local network
+{% include_relative dump-smb.md %}
+{% endcapture %}
+
+<div id="cleanrip" class="blanktabcontent">{{ cleanripInstructions | markdownify }}</div>
+<div id="network" class="blanktabcontent">{{ networkInstructions | markdownify }}</div>
+
+<script>
+    let tabcontent = document.getElementsByClassName("blanktabcontent");
+    let tablinks = document.getElementsByClassName("tablinks");!!crwd_CB_1_BC_dwrc!!</script>
+
