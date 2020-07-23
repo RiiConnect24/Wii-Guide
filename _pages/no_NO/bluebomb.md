@@ -4,17 +4,17 @@ title: "BlueBomb"
 
 {% include toc title="Table of Contents" %}
 
-If you need help with anything regarding this tutorial, please join [the Wii mini Hacking Discord server](https://discord.gg/6ryxnkS) (recommended)
+Hvis du trenger hjelp med noe om denne inføringen, bli med i [Wii Mini-hacking Discord serveren.](https://discord.gg/6ryxnkS) (anbefalt)
 {: .notice--info}
 
 ![BlueBomb](/images/bluebomb.png)
 
-BlueBomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Although it is the only exploit that works for the Wii mini, BlueBomb can run on the original Wii as well. This exploit also enables recovery from certain bricks, such as a banner brick.
+BlueBomb er en bragd (exploit, for å være riktig hvis det ikke lager mening) som tar utnyttelse av en feil i Wii og Wii mini sine Bluetooth programbiblioteker. Selv om det er den eneste bragden (igjen, exploit hvis det ikke lager mening) for Wii mini, kan BlueBomb kjøre på den originiale Wiien i tillegg. Denne bragden lager også muligheten til å gjennopprette fra noen ødeleggelser, som en bannerødeleggelse (Hvis dette ikke lagde noen mening i det heletatt, en brick istedetfor ødeleggelse.).
 
-For the original Wii, we recommend using [another exploit](/get-started) instead if you intend to install the Homebrew Channel and/or BootMii.
+For den originale Wiien, anbefaler vi at du [bruker en annen utnyttelse](/get-started) istedetfor hvis du har lyst til å installere Homebrew kanalen og/eller BootMii.
 {: .notice--info}
 
-This exploit will not work on a Wii U's vWii. Please follow [this guide](https://wiiuguide.xyz/#/vwii-modding) instead.
+Denne utnyttelsen funker ikke på en Wii U sin vWii (virtuellisert Wii). Vennligst bruk [denne innføringen](https://wiiuguide.xyz/#/vwii-modding) istedetfor.
 {: .notice--warning}
 
 #### Section I - What you need
@@ -48,8 +48,8 @@ chmod +x bluebomb-helper.sh
 1. The helper will then download the required files, and ask for information about your console.
   - If you have selected a Wii mini you will be asked to provide your region. This can be determined by the last letter of the Wii Menu version (`U` for **USA** and `E` for **PAL** models).
   - If you have selected a Wii you will be asked to provide your Wii Menu Version (What you determined in step 4)
-1. Turn on your console and **do not** connect any Wiimotes.
-1. Press the Sync button repeatedly until the terminal shows `got connection handle`. This could take numerous attempts, so don't give up.
+1. Skru på din konsoll og **ikke** koble til noen Wiimoter.
+1. Trykk på Sync knappen flere ganger helt til Linux-terminalen viser `got connection handle`. Dette kan ta flere forsøk, så ikke gi opp.
 
 Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
 {: .notice--info}
