@@ -42,11 +42,10 @@ Puoi iniziare [scegliendo il tuo exploit](get-started)!
 
 Ci sono anche altre buone risorse per moddare Wii e soluzioni a problemi vari:
 
-- [Guida al Softmodding Completa](https://sites.google.com/site/completesg/)
-- [ModMii](http://modmii.000webhostapp.com/)
+- [ModMii](http://xflak.com/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
-- [Wii Hacking Explained - da Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/)...ed ovviamente, questo sito
+- [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...and of course, this site
 
 Per moddare una Wii U, ci sono altre opzioni:
 - [La guida definitiva all'Hacking di una Wii virtuale](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
