@@ -42,11 +42,10 @@ excerpt: "Ο ολοκληρομένος οδηγός για να τροποπο�
 
 Υπάρχουν μερικές καλές πηγές για τροποποιήσεις Wii και για αντιμετώπιση προβλημάτων που μπορεί να βοηθήσουν:
 
-- [Ολοκληρομένος Οδηγός Softmod](https://sites.google.com/site/completesg/)
-- [ModMii](http://modmii.000webhostapp.com/)
+- [ModMii](http://xflak.com/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
-- [Επεξήγηση Wii Χακ - από Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...και φυσικά, αυτήν την ιστοσελίδα
+- [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...and of course, this site
 
 Για να τροποποιήσετε ένα Wii U, υπάρχουν μερικές επιπλέον επιλογές:
 - [Ο Απόλυτος Οδηγός vWii Χακ](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
