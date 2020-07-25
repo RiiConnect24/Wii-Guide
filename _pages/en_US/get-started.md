@@ -24,4 +24,4 @@ If you want to install homebrew on vWii, [follow this tutorial](https://wiiuguid
 :    (Requires the Internet Channel installed, and an internet connection)
 - [BlueBomb](bluebomb) - Exploit that uses Bluetooth
     * Requires a computer with Bluetooth and GNU/Linux, as well as a USB drive
-    * This is the only exploit that works on the **Wii mini**, and while it does work on regular Wiis, in most situations, it is easier to use a different exploit for the Wii
+    * This is the only exploit that works on the **Wii mini**
