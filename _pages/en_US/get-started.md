@@ -7,7 +7,7 @@ title: "Get Started"
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you may not be able to use some homebrew.
+Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
 {: .notice--info}
 
 This guide is for the original Wii only, with the latest firmware (4.3), and the Wii mini. Do not use this on a Wii U (vWii)!
