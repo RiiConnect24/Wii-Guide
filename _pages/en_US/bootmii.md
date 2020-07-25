@@ -15,7 +15,7 @@ One of BootMii's most important features is the ability to backup and restore yo
 * An SD card with at least 512MB of free space
 
 #### Instructions
-If you installed BootMii as Boot2 in the last step, you will need to launch BootMii by restarting the console. Skip steps 1-2 if this is the case. 
+If you installed BootMii as boot2 in the last step, you will need to launch BootMii by restarting the console. Skip steps 1-2 if this is the case. 
 {: .notice--info}
 1. Launch the Homebrew Channel.
 2. Press the HOME Button, then select "Launch BootMii".
@@ -31,7 +31,7 @@ If you installed BootMii as Boot2 in the last step, you will need to launch Boot
 5. When the backup is fully complete, exit the NAND backup screen by pressing any button.
 6. To exit BootMii, press the Back button (the one with the arrow) and then you can press either the Wii Menu button or the Homebrew Channel button to exit where you want to.
 
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii. (the button right next to BackupMii with a red arrow). However, if you only have BootMii as IOS and/or the NAND backup you are trying to restore is not from the same Wii, you will need a GameCube controller to input the KONAMI code before you will be able to restore. If you have a Wii Family Edition with no GameCube ports, there is currently no way to use RestoreMii without soldering on a GameCube port.
 {: .notice--info}
 
 [Continue to Priiloader Installation](priiloader)
