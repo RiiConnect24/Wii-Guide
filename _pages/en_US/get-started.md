@@ -7,7 +7,7 @@ title: "Get Started"
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-These instructions will assume you're using an SD card to mod your Wii with, and while you can use a USB storage device instead, there are some situations where you may have to use an SD card. To use the exploits, LetterBomb requires a SD card, and BlueBomb requires a USB storage device.
+Although you can follow this guide without an SD card, you will not be able to create or restore a nand backup using BootMii.
 {: .notice--info}
 
 This guide is for the original Wii only, with the latest firmware (4.3), and the Wii mini. Do not use this on a Wii U (vWii)!
