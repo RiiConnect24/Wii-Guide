@@ -11,7 +11,7 @@ Hvis du trenger hjelp med noe om denne inføringen, bli med i [Wii Mini-hacking 
 
 BlueBomb er en bragd (exploit, for å være riktig hvis det ikke lager mening) som tar utnyttelse av en feil i Wii og Wii mini sine Bluetooth programbiblioteker. Selv om det er den eneste bragden (igjen, exploit hvis det ikke lager mening) for Wii mini, kan BlueBomb kjøre på den originiale Wiien i tillegg. Denne bragden lager også muligheten til å gjennopprette fra noen ødeleggelser, som en bannerødeleggelse (Hvis dette ikke lagde noen mening i det heletatt, en brick istedetfor ødeleggelse.).
 
-For den originale Wiien, anbefaler vi at du [bruker en annen utnyttelse](/get-started) istedetfor hvis du har lyst til å installere Homebrew kanalen og/eller BootMii.
+For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
 {: .notice--info}
 
 Denne utnyttelsen funker ikke på en Wii U sin vWii (virtuellisert Wii). Vennligst bruk [denne innføringen](https://wiiuguide.xyz/#/vwii-modding) istedetfor.
