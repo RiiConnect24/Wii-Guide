@@ -9,7 +9,10 @@ Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor 
 
 ![BootMii Logo](/images/bootmii.png)
 
-Um dos destaques mais importantes do BootMii é a habilidade de copiar e restaurar o armazenamento NAND da tua Wii. Veremos como executar uma cópia de segurança da NAND. Podes restaurar a partir dessa cópia para qualquer razão. Recomendamos fazer uma cópia da NAND regularmente ou antes de fazer algo arriscado para a tua consola (e se souberes o que estás a fazer, tu não farás nada arriscado).
+Tu precisas de um **cartão SD** para criar uma cópia NAND utilizando BootMii. Se não tiveres um cartão, podes passar esta página, embora seja muito recomendado criar uma cópia.
+{: .notice--warning}
+
+Um dos destaques mais importantes do BootMii é a habilidade de copiar e restaurar o armazenamento NAND da tua Wii. Vamos ver como se executa uma cópia de segurança da NAND. Podes restaurar a partir dessa cópia para qualquer razão. Recomendamos fazer uma cópia da NAND regularmente ou antes de fazer algo arriscado para a tua consola (e se souberes o que estás a fazer, tu não farás nada arriscado).
 
 #### Requisitos
 * Um cartão SD com. pelo menos, 512MB de espaço livre
