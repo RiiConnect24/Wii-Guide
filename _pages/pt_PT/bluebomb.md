@@ -11,7 +11,7 @@ Se tu precisas de ajuda com alguma coisa relacionada a este tutorial, por favor 
 
 BlueBomb é um exploit que tira proveito de uma falha nas bibliotecas Bluetooth da Wii e da Wii Mini. Apesar de ser o único exploit que funciona para o Wii Mini, BlueBomb também funciona na Wii original. Este exploit também ativa a recuperação de certos bricks, como os bricks de banner.
 
-Para a Wii original, nós recomendamos utilizar [outro exploit](/get-started) se pretenderes instalar o Homebrew Channel e/ou BootMii.
+Para a Wii original, nós não recomendamos a utilização do BlueBomb se pretendes instalar o Homebrew Channel e BootMii, já que há mais exploits disponíveis para isso.
 {: .notice--info}
 
 Este exploit não resultará na vWii da Wii U. Por favor segue [este guia](https://wiiuguide.xyz/#/vwii-modding).
