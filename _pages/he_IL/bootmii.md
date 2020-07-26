@@ -9,13 +9,16 @@ title: "לגבות באמצעות BootMii"
 
 ![BootMii Logo](/images/bootmii.png)
 
-אחת התכונות החשובות ביותר של BootMii היא היכולת לגבות ולשחזר את האחסון והתוכנה של קונוסולת ה Wii שברשותך. במדריך זה נסביר כיצד מבצעים גיבוי לקונסולת ה Wii. לאחר התהליך, יהיה ניתן לשחזר את הקונסולה מהגיבוי מכל סיבה אפשרית. אנחנו ממליצים לעשות גיבוי באופן קבוע או לפני שאתם עושים משהו המסכן את הקונסולה שלכם (ואם אתם יודעים מה אתם עושים, לא תצטרכו לעשות משהו מסוכן).
+You need an **SD card** to create a NAND backup using BootMii. If you do not have one, you can skip this page, although it is highly recommended to create one if you can.
+{: .notice--warning}
+
+One of BootMii's most important features is the ability to backup and restore your Wii's NAND storage. We will be going over how to perform a NAND backup. You can then restore from that backup for whatever reason. We recommend making a NAND backup regularly or before you do something risky to your console (and if you know what you're doing, you won't have to do anything risky).
 
 #### לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
 * כרטיס SD עם לפחות 512MB זכרון פנוי
 
 #### הוראות
-במקרה וכבר התקנת את BootMii כ Boot2 בצעד הקודם, יש להפעיל את BootMii על ידי הפעלה מחדש של הקונסולה. ניתן לדלג על צעדים 1-2 במקרה זה.
+If you installed BootMii as Boot2 in the last step, you will need to launch BootMii by restarting the console. Skip steps 1-2 if this is the case.
 {: .notice--info}
 1. יש להפעיל את ה Homebrew Channel.
 2. יש ללחוץ על כפתור הבית, ולבחור ב "Launch BootMii".
@@ -29,7 +32,7 @@ title: "לגבות באמצעות BootMii"
 5. כשהגיבוי הושלם לחלוטין, צא/י ממסך הגיבוי על ידי לחיצה על כפתור אקראי.
 6. כדי לצאת מ BootMii, לחצ/י על אפשרות ה"חזור" (האפשרות עם החץ לחזור) ולאחר מכן אפשר ללחוץ על אפשרות ה Wii Menu או אפשרות ה Homebrew Channel כדי לצאת.
 
-כדי לשחזר מגיבוי שעל כרטיס ה SD שלך, ניתן לעקוב אחר הוראות אלו בשימוש עם RestoreMii (האפשרות שליד BackupMii עם החץ האדום).
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
 {: .notice--info}
 
 [Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
