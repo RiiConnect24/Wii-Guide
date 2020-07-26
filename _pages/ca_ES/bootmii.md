@@ -10,7 +10,10 @@ Si necessiteu ajuda per a qualsevol cosa relacionada amb aquest tutorial, per fa
 ![Logo de BootMii
 ](/images/bootmii.png)
 
-Una de les funcions més importants de BootMii és la habilitat de poder fer i restaurar còpies de seguretat de la NAND de la consola Wii. Anem a vore com crear una còpia de seguretat de la NAND. Sempre podràs revertir a eixa còpia per qualsevol raó. Recomanem fer una còpia de seguretat de la NAND regularment o just abans de fer algo arriscat amb la teva consola (si saps el que fas, mai no faràs gens cosa arriscada).
+You need an **SD card** to create a NAND backup using BootMii. If you do not have one, you can skip this page, although it is highly recommended to create one if you can.
+{: .notice--warning}
+
+One of BootMii's most important features is the ability to backup and restore your Wii's NAND storage. We will be going over how to perform a NAND backup. You can then restore from that backup for whatever reason. We recommend making a NAND backup regularly or before you do something risky to your console (and if you know what you're doing, you won't have to do anything risky).
 
 #### Requeriments
 * Una tarjeta SD amb, com a mínim, 512MB d'espai lliure
