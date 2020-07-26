@@ -11,7 +11,7 @@ title: "BlueBomb"
 
 To BlueBomb πρόκειται για ένα πρόγραμμα το οποίο εκμεταλλεύεται ένα σφάλμα στην βιβλιοθήκη bluetooth των κονσόλων Wii και Wii mini. Παρόλο που είναι το μοναδικό πρόγραμμα εκμετάλλευσης που δουλεύει στο Wii mini, μπορεί να χρησιμοποιηθεί και στο παλιό Wii χωρίς πρόβλημα. Αυτό το πρόγραμμα λειτουργεί επίσης ως μηχανισμός ανάκτησης από συγκεκριμένες καταστροφές στο Wii, όπως το banner brick.
 
-Για το παλιό Wii, προτείνουμε να χρησιμοποιήσετε μία [άλλη ευπάθεια](/get-started) για την εγκατάσταση του καναλιού Homebrew και/ή του BootMii.
+For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
 {: .notice--info}
 
 Αυτή η ευπάθεια δεν λειτουργεί στο Wii U. Παρακαλώ ακολουθήστε [αυτόν τον οδηγό](https://wiiuguide.xyz/#/vwii-modding) αντί για αυτόν.
