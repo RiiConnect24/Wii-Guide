@@ -7,10 +7,10 @@ title: "Comenzar"
 En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por favor únete a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [envíanos un e-mail](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
 {: .notice--info}
 
-En estas instrucciones se asume que estás usando un tarjeta SD para modificar tu Wii, pero también puedes usar una unidad USB. Sin embargo, para usar el exploit LetterBomb necesitas una tarjeta SD, y para utilizar BlueBomb necesitarás una unidad USB.
+Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
 {: .notice--info}
 
-Esta guía es sólo para consolas Wii originales que tengan la versión de sistema 4.3. ¡No uses esta guía en el modo Wii de Wii U (vWii)! Si quieres modificar un vWii, por favor sigue [esta guía](https://wiiuguide.xyz/#/vwii-modding).
+This guide is for the original Wii only, with the latest firmware (4.3), and the Wii mini. ¡No uses esta guía en el modo Wii de Wii U (vWii)! Si quieres modificar un vWii, por favor sigue [esta guía](https://wiiuguide.xyz/#/vwii-modding).
 {: .notice--warning}
 
 ### Elige el exploit que quieres usar
