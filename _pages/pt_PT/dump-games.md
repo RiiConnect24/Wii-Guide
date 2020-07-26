@@ -2,18 +2,18 @@
 title: "Copiar jogos Wii/GameCube"
 ---
 
-Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
+Queres copiar um disco GameCube ou disco Wii? Existem duas maneiras para o fazê-lo, dependendo das ferramentas disponíveis que tens contigo.
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">To a PC over the network</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">Para o cartão SD/USB drive</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">Para um PC pela rede</button>
 
 {% capture cleanripInstructions %}
-### Cleanrip guide
+### Guia Cleanrip
 {% include_relative cleanrip.md %}
 {% endcapture %}
 
 {% capture networkInstructions %}
-### Dumping a game over a local network
+### Copiando um jogo pela rede local
 {% include_relative dump-smb.md %}
 {% endcapture %}
 
