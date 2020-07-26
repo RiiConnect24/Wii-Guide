@@ -7,10 +7,10 @@ title: "Ξεκινώντας"
 Εάν χρειάζεστε οποιαδήποτε βοήθεια όσο αφορά αυτόν τον οδηγό, παρακαλώ μπείτε στον [RiiConnect24 διακομιστή Discord](https://discord.gg/b4Y7jfD) (προτείνεται) ή [στείλτε μας e-mail στη διεύθυνση support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Αυτές οι οδηγίες προϋποθέτουν ότι χρησιμοποιείτε μια κάρτα SD για να τροποποιήσετε το Wii σας, αλλά εναλλακτικά μπορείτε να χρησιμοποιήσετε και μια συσκευή αποθήκευσης USB. Ωστόσο, για την εκμετάλλευση ευπαθειών συστήματος, το LetterBomb απαιτεί μια κάρτα SD, και το BlueBomb απαιτεί μια συσκευή αποθήκευσης USB.
+Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
 {: .notice--info}
 
-Αυτός ο οδηγός ισχύει μόνο για το αρχικό Wii, με την τελευταία έκδοση λογισμικού (4.3). Μην το χρησιμοποιήσετε σε ένα Wii U (vWii)! Εάν θέλετε να εγκαταστήσετε το homebrew σε ένα vWii, [ακολουθείστε αυτόν τον οδηγό](https://wiiuguide.xyz/#/vwii-modding).
+This guide is for the original Wii only, with the latest firmware (4.3), and the Wii mini. Μην το χρησιμοποιήσετε σε ένα Wii U (vWii)! Εάν θέλετε να εγκαταστήσετε το homebrew σε ένα vWii, [ακολουθείστε αυτόν τον οδηγό](https://wiiuguide.xyz/#/vwii-modding).
 {: .notice--warning}
 
 ### Επιλέξτε ποιά ευπάθεια θα χρησιμοποιείσετε
