@@ -1,11 +1,11 @@
 ---
-title: "Dumping Wii/GameCube games"
+title: "Dumping Wii/Gamecube spill"
 ---
 
-Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
+Har du lyst på en digital kopi av en GameCube eller en Wii disk? Det er to veier til å gjøre så, som handler om hva slags type verktøy du har akkurat nå.
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">To a PC over the network</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">Til SD-kort/USB pinne</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">Til PC over nettverket</button>
 
 {% capture cleanripInstructions %}
 ### Cleanrip guide
@@ -13,7 +13,7 @@ Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending
 {% endcapture %}
 
 {% capture networkInstructions %}
-### Dumping a game over a local network
+### Kopier et spill over lokalnettverket
 {% include_relative dump-smb.md %}
 {% endcapture %}
 
