@@ -31,7 +31,7 @@ Zalecamy [instalację cIOS](cios) przed kontynuowaniem.
 * Komputer z systemem operacyjnym Windows (lub możesz użyć Mono lub Wine jeżeli korzystasz z macOS/Linux'a)
 * [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
-* [Ten post na GBAtemp](https://gbatemp.net/threads/wii-theme-team-creations.260327/) lub [nasza strona z motywami](https://rc24.xyz/goodies/themes/)
+* [This GBAtemp post](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/) or [our themes page](https://rc24.xyz/goodies/themes/)
 
 UPEWNIJ SIĘ, ŻE PRZECZYTASZ WSZYSTKIE OSTRZEŻENIA PRZED KONTYNUOWANIEM!
 {: .notice--warning}
