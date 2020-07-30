@@ -7,7 +7,7 @@ title: "Vamos Começar"
 Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor entra no [server do RiiConnect24 no Discord](https://discord.gg/b4Y7jfD) (recomendado) ou [envia-nos um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
+Embora tu possas seguir este guia sem um cartão SD, tu não poderás criar ou restaurar uma cópia NAND utilizando BootMii e não poderás utilizar algumas aplicações homebrew.
 {: .notice--info}
 
 Este guia é só para a Wii original, com a mais recente firmware (4.3), e para Wii mini. Não utilizes isto numa Wii U (vWii)! Se queres instalar homebrew no vWii, [segue este tutorial](https://wiiuguide.xyz/#/vwii-modding).
