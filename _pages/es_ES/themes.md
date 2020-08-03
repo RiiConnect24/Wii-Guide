@@ -12,7 +12,7 @@ En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por f
 En el caso de un brick, [instalando PriiLoader es una necesidad](priiloader). También es recomendable instalar BootMii (si es posible, como boot2). Tener algún tipo de protección contra bricks instalada junto con seguir la guía de forma correcta te mantendrá protegido contra bricks. ¡NO CONTINÚES SI NO TIENES PRIILOADER Y BOOTMII INSTALADOS!
 {: .notice--warning}
 
-Do not install a custom theme on vWii (Wii U), unless it has been formatted specifically for the vWii and your Wii U's region! Check out [this GBATemp post](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) for more on vWii themes.
+No instales un tema personalizado en vWii (Wii U), a menos que haya sido formateado para vWii y su región de Wii U! Revisa [este publicación de GBATemp](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) para más información sobre temas vWii.
 {: .notice--warning}
 
 Por la seguridad de tu consola, por favor no uses ninguna otra versión de MyMenuify que no sea MyMenuify Mod, ya que esta es la forma más segura de instalar temas.
@@ -63,7 +63,7 @@ Te recomendamos que [instales cIOS](cios) antes de continuar.
 1. Extrae MyMenuify Mod a la carpeta `apps` en tu tarjeta SD o unidad USB.
 2. Crea una carpeta llamada `modthemes` en la raíz de la tarjeta SD o unidad USB y copia el archivo csm que guardaste antes a dicha carpeta.
 3. Inserta la tarjeta SD o unidad USB en tu Wii e inicia MyMenuify Mod desde el Canal Homebrew.
-4. Después de un mensaje de introducción, te preguntará qué IOS quieres usar en la aplicación. Si tienes [CIOS instalado](cios), usar `IOS249`, o bien, usar `IOS58`. Si después de elegir el primero, te aparece un error que dice `Exception DSI occurred!`, oprime el botón RESET en la consola, inicia la aplicación de nuevo e intenta usar el `IOS250`.
+4. Después de un mensaje de introducción, te preguntará qué IOS quieres usar en la aplicación. Si tienes [cIOS instalado](cios), usar `IOS249`, si no, usar `IOS58`. Si después de elegir el primero, te aparece un error que dice `Exception DSI occurred!`, oprime el botón RESET en la consola, inicia la aplicación de nuevo e intenta usar el `IOS250`.
 5. Selecciona el tema que quieras instalar y después oprime A. Espera un momento para que se instale el tema, después oprime cualquier botón para volver al menú de Wii Esperamos que el tema se haya instalado correctamente.
 
 Si te aparece un mensaje que dice "Los archivos del sistema están dañados", no tienes nada de que preocuparte siempre y cuando hayas instalado Priiloader. Apaga la consola, después oprime el botón POWER mientras mantienes presionado RESET. Priiloader debería de iniciarse. Desde aquí tienes algunas opciones para reparar tu menú de Wii. Una de las opciones es lanzar el Canal Homebrew, donde puedes lanzar MyMenuify Mod y descargar e instalar el tema orignal del menú de Wii.
