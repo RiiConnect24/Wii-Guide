@@ -60,15 +60,12 @@ You will now patch your `nwc24msg.cfg` file which is required in order to use Wi
 1. Launch RiiConnect24 Mail Patcher.
 2. It should only take a few seconds to patch your nwc24msg.cfg. When it's done, press HOME to exit.
 
-If the previous step failed with an "net_get_status: -24 - Couldn't request the data: -24" error, please check the internet connection on your Wii.
-{: .notice--warning}
-
 If you were unable to patch your nwc24msg.cfg correctly, e-mail us at [support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ##### Section III - Connecting
 
-You need to set your DNS in order to get the Forecast and News Channel to point to our servers. This DNS is also useful if you want to play Wiimmfi.
+You need to set your DNS in order to get the Forecast and News Channel to point to our servers. This DNS also enhances the use of Wiimmfi and RiiConnect24.
 
 1. Go to `Wii Options`.
 2. Go to `Wii Settings`.
