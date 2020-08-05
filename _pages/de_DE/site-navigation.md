@@ -24,14 +24,14 @@ sitemap: false
 + [WiiWare Patcher](wiiwarepatcher)
 + [VFFs löschen](deleting-vffs)
 + [FORE000006 beheben](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [NEWS000006 beheben](news000006)
 
-**Modding 101**
+**Modding 1x1**
 * [BootMii Backup](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
-+ [Homebrew Browser](hbb)
-+ [Homebrew Channel](hbc)
++ [Homebrew-Browser](hbb)
++ [Homebrew-Kanal](hbc)
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
 + [str2hax](str2hax)
