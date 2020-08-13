@@ -57,7 +57,15 @@ Using the RiiConnect24 Patcher you should've downloaded earlier in [What you nee
 4. When `IOS31.wad` is highlighted, press +, then do the same for all the other WADs.
 5. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel
 
-##### Section III - Using RiiConnect24
+##### Section III - Patching 43db for 16:9 (optional)
+
+1. Open the Homebrew Channel
+2. Launch the ww-43db-patcher 
+
+If you install a theme, you will have to run the ww-43db-patcher once more
+{: .notice--info}
+
+##### Section IV - Using RiiConnect24
 
 After following the above sections, you're almost able to utilize RiiConnect24 on your Wii U. You just need to perform the following steps **after every vWii reboot**.
 
