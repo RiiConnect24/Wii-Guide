@@ -57,17 +57,25 @@ Usando el RiiConnect24 Patcher que has descargado en [los requisitos](#requisito
 4. Cuando `IOS31.wad` esté resaltado, oprime el botón +, y después haz lo mismo con el resto de WADs.
 5. Una vez que se hayan instalado correctamente, oprime el botón HOME para volver al Canal Homebrew
 
-##### Sección III - Usando RiiConnect24
+##### Section III - Patching 43db for 16:9 (optional)
 
-Después de haber seguido los pasos anteriores, ya casi estás listo para empezar a usar RiiConnect24. Sólo tienes que seguir los siguientes pasos **cada vez que inicies el vWii**.
+1. Open the Homebrew Channel
+2. Launch the ww-43db-patcher
 
-1. En el **menú de Wii** del vWii, lanza el **Canal Homebrew**, y después la aplicación homebrew **ConnectMii**.
+If you install a theme, you will have to run the ww-43db-patcher once more
+{: .notice--info}
+
+##### Section IV - Using RiiConnect24
+
+After following the above sections, you're almost able to utilize RiiConnect24 on your Wii U. You just need to perform the following steps **after every vWii reboot**.
+
+1. On the vWii's **Wii Menu**, launch the **Homebrew Channel** and launch the **ConnectMii** homebrew application.
 * Esto forzará la activación de los ajustes de WiiConnect24 y de la conexión en modo de espera que se desactivan cada vez que sales del vWii, y que son requeridos por los canales que usan WiiConnect24.
-2. Intenta lanzar los canales que usan WiiConnect24
-¡Ahora deberías poder usar todos los canales WiiConnect24 que acabas de instalar!
+2. Launch the WiiConnect24 Channels
+* You should now be able to utilize all of the WiiConnect24 Channels you have installed!
 
 #### Servicios soportados
-Los siguientes servicios de RiiConnect24 actualmente **están funcionando** en el vWii:
+The following RiiConnect24 services are **working** on the vWii:
 * Canal Noticias
     * Éste canal se ve afectado por el error de las fechas. La hora que aparece en "Actualizado hace" y las fechas de los arículos serán incorrectas.
     * Los encabezados en el banner no se mostrarán, apareciendo el error `No se han podido descargar las noticias.` en su lugar.
@@ -76,7 +84,7 @@ Los siguientes servicios de RiiConnect24 actualmente **están funcionando** en e
 * Canal Miirame
 {: .notice--success}
 
-Los siguientes servicios de RiiConnect24 actualmente **no funcionan** en el vWii:
+The following RiiConnect24 services are **not working** on the vWii:
 * Intercambio de mensajes mediante el tablón de Wii (la mayoría de la funcionalidad necesaria no está presente en el vWii)
     * Esto incluye enviar o recibir mensajes de amigos. Sólo podrás recibir mensajes globales y publicaciones de fuentes RSS mediante RSSMii (si lo tienes instalado).
 * Canal Tiempo
