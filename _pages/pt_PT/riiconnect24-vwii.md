@@ -57,17 +57,25 @@ Utilizando o RiiConnect24 Patcher que descarregaste em [O que precisas](#what-yo
 4. Quando o `IOS31.wad` estiver destacado, pressiona + e depois faz o mesmo para todas as outras WADs.
 5. Depois da instalação sucedida, pressiona o botão HOME para voltar ao Homebrew Channel
 
-##### Secção III - Utilizando o RiiConnect24
+##### Section III - Patching 43db for 16:9 (optional)
 
-Depois de seguires a secções acima, tu estás quase capaz de utilizar RiiConnect24 na tua Wii U. Tu só precisas é se fazer alguns passos **cada vez que inicias o vWii**.
+1. Open the Homebrew Channel
+2. Launch the ww-43db-patcher
 
-1. No **Wii Menu** do vWii, abre o **Homebrew Channel** e abre a aplicação **ConnectMii**.
+If you install a theme, you will have to run the ww-43db-patcher once more
+{: .notice--info}
+
+##### Section IV - Using RiiConnect24
+
+After following the above sections, you're almost able to utilize RiiConnect24 on your Wii U. You just need to perform the following steps **after every vWii reboot**.
+
+1. On the vWii's **Wii Menu**, launch the **Homebrew Channel** and launch the **ConnectMii** homebrew application.
 * Isto irá ativar o WiiConnect24 e o Standby Connection já que é necessário para os canais que contêm WiiConnect24.
-2. Abre os canais que utilizam WiiConnect24
-* Agora serás capaz de utilizar todos os canais que contêm WiiConnect24!
+2. Launch the WiiConnect24 Channels
+* You should now be able to utilize all of the WiiConnect24 Channels you have installed!
 
 #### O que está a funcionar?
-Os seguintes serviços RiiConnect24 estão **a funcionar** na vWii:
+The following RiiConnect24 services are **working** on the vWii:
 * News Channel
     * Este canal é afetado pelo problema do timestamp. O "Last Update" e os timestamps de artigos poderão estar incorretos.
     * Os dados do banner também não funcionam, pois aparece um erro `Unable to obtain data.`
@@ -76,7 +84,7 @@ Os seguintes serviços RiiConnect24 estão **a funcionar** na vWii:
 * Check Mii Out Channel / Mii Contest Channel
 {: .notice--success}
 
-Os seguintes serviços do RiiConnect24 **não funcionam** no vWii:
+The following RiiConnect24 services are **not working** on the vWii:
 * Wii Mail (maioria das funcionalidades não existem no vWii)
     * Isto inclui enviar/receber mail para/de amigos. Apenas podes receber mensagens globais e publicações dos feeds do RSSMii (se estiver configurado).
 * Forecast Channel
