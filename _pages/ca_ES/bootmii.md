@@ -19,7 +19,7 @@ One of BootMii's most important features is the ability to backup and restore yo
 * Una tarjeta SD amb, com a mínim, 512MB d'espai lliure
 
 #### Instruccions
-If you installed BootMii as Boot2 in the last step, you will need to launch BootMii by restarting the console. Skip steps 1-2 if this is the case.
+If you installed BootMii as boot2 in the last step, you will need to launch BootMii by restarting the console. Skip steps 1-2 if this is the case.
 {: .notice--info}
 1. Entreu al Homebrew Channel.
 2. Premeu el botó HOME i elegiu l'opció "Launch BootMii" (Llançar BootMii).
