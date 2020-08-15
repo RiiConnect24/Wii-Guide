@@ -18,7 +18,7 @@ Um dos destaques mais importantes do BootMii é a habilidade de copiar e restaur
 * Um cartão SD com. pelo menos, 512MB de espaço livre
 
 #### Instruções
-Se instalaste o BootMii como Boot2 no último passo, precisarás de abrir o BootMii reiniciando a consola. Salta os passos 1-2 se este for o caso.
+If you installed BootMii as boot2 in the last step, you will need to launch BootMii by restarting the console. Salta os passos 1-2 se este for o caso.
 {: .notice--info}
 1. Abre o Homebrew Channel.
 2. Pressiona o botão HOME, depois seleciona "Launch BootMii".
