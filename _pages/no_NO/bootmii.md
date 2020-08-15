@@ -18,7 +18,7 @@ En av BootMii's mest viktige funksjoner er muligheten til å backuppe og gjenopp
 * En SD-kort med minst 512MB av ledig plass
 
 #### Instruksjoner
-Hvis du installerte BootMii som Boot2 i det forrige skritt, må du åpne BootMii med å starte konsollen på nytt. Hopp over skritt 1-2 hvis dette er tilfelle.
+If you installed BootMii as boot2 in the last step, you will need to launch BootMii by restarting the console. Hopp over skritt 1-2 hvis dette er tilfelle.
 {: .notice--info}
 1. Åpne Homebrewkanelen.
 2. Trykk på HOME knappen, og da velg "Launch BootMii".
