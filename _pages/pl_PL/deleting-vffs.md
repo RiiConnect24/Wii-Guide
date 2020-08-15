@@ -1,5 +1,5 @@
 ---
-title: "Kasowanie plików .VFF"
+title: "Deleting VFFs"
 ---
 
 {% include toc title="Zawartość" %}
