@@ -18,7 +18,7 @@ One of BootMii's most important features is the ability to backup and restore yo
 * An SD card with at least 512MB of free space
 
 #### Instructions
-If you installed BootMii as Boot2 in the last step, you will need to launch BootMii by restarting the console. Skip steps 1-2 if this is the case.
+If you installed BootMii as boot2 in the last step, you will need to launch BootMii by restarting the console. Skip steps 1-2 if this is the case.
 {: .notice--info}
 1. Launch the Homebrew Channel.
 2. Press the HOME Button, then select "Launch BootMii".
