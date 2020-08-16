@@ -9,7 +9,7 @@ En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por f
 
 ![Logotipo de RiiConnect24](/images/WiiRC24Logo.jpg)
 
-Esta guía parece no arreglar el código de error NEWS000006 del Canal Noticias. [If you get error NEWS000006, following this tutorial should fix it.](news000006)
+Esta guía parece no arreglar el código de error NEWS000006 del Canal Noticias. [Si obtiene un error NEWS000006, usando este tutorial debería solucionar el problema.](news000006)
 {: .notice--warning}
 
 Si te aparece el error NEWS/FORE000006 en el Canal Noticias y Tiempo respectivamente, esto quiere decir que el canal ha descargado datos inválidos. Esto podría ser causado debido a un error en nuestros servidores, aunque es algo poco probable. Espera unos minutos e inténtalo de nuevo.
