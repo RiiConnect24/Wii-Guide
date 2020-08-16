@@ -26,7 +26,7 @@ sitemap: false
 + [Fixing FORE000006](riiconnect24-batteryfix)
 + [Fixing NEWS000006](news000006)
 
-**Modding 101**
+**Modificación 101**
 * [BootMii Backup](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
@@ -55,10 +55,10 @@ sitemap: false
 + [Installing cIOS on the Wii mini](cios-mini)
 
 
-**Site**
-+ [Home](/)
-+ [Get Started](get-started)
+**Sitio**
++ [Casa](/)
++ [Empezar](get-started)
 + [FAQ](faq)
-+ [Donations](donations)
++ [Donaciones](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
