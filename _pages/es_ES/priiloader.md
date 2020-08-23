@@ -36,7 +36,7 @@ Por favor **no** intentes instalar Priiloader en el modo Wii de un Wii U (vWii).
 
 2. Deberías de ver el menú de Priiloader. ![Menú de Priiloader](/images/Priiloader/6.png)
 3. Selecciona `System Menu Hacks` (Hacks para el menú de Wii).
-4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![Hacks para el menú de Wii](/images/Priiloader/7.png)
+4. Le recomendamos que habilite los siguientes trucos: `Region Free EVERYTHING`, `Block Disc Updates` y `Block Online Updates`. ![Hacks para el menú de Wii](/images/Priiloader/7.png)
 
 ## Lista de hacks para el menú de Wii
 
@@ -57,8 +57,8 @@ Esta es una lista de los hacks que puedes activar con Priiloader.
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx (No borrar HAXX,JODI,DVDX,DISC,DISK,RZDx)                               | Permite de nuevo canales con estas IDs de título, originalmente bloqueados en actualizaciones del sistema, debido a que esos canales contenían exploits. |
 | Remove NoCopy Save File Protection (Eliminar protección de datos de guardado)                                   | Permite copiar datos de guardado que normalmente no pueden ser copiados en la pantalla "Gestión de datos".                                               |
 | Region Free Channels (Región libre en los canales)                                                              | Elimina el bloqueo regional en los canales Wii.                                                                                                          |
-| Force Disc Games to run under IOS249                                                                            | Make discs use cIOS 249 as the game's IOS. Do not enable this, as you will get Error 002 on most games with it.                                          |
-| Auto-Press A at Health Screen                                                                                   | Automatically presses the A Button to get past the "Health and Safety" screen.                                                                           |
+| Force Disc Games to run under IOS249 (Forzar los juegos de disco para que se ejecuten bajo IOS249)              | Hacer que los discos usan cIOS 249 como el IOS del juego. No habilite esto, ya que obtendrá el Error 002 en muchos juegos con eso.                       |
+| Auto-Press A at Health Screen (Presione automáticamente A en la pantalla de salud)                              | Presiona automáticamente el botón A para pasar la pantalla "Salud y seguridad".                                                                          |
 | Force Standard Recovery Mode                                                                                    | Automatically launches the console in recovery mode. Used to launch recovery discs, letting users unbrick their Wii systems.                             |
 | OSReport to UsbGecko(slot B)                                                                                    | Sends Wii Menu logs to a debugging device in memory card slot B.                                                                                         |
 | OSReport to UsbGecko(GeckoOS,B)                                                                                 | Sends Wii Menu logs to a debugging device in memory card slot B, if the Wii Menu is launched by Gecko OS.                                                |
