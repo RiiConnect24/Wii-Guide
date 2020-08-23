@@ -9,7 +9,7 @@ En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por f
 
 RiiTag es un gamertag personalizable y dinámico. Al compartir tu gamertag (una imagen dinámica), ¡podrás mostrar a tus amigos lo que has estado jugando! Solo tienes que conectarlo a un USB loader en tu Wii, y el tag se actualizará automáticamente. Necesitarás una cuenta de Discord para poder comenzar a usar RiiTag.
 
-Want to install RiiTag on your Wii U? See [this guide](riitag-wiiu) on how to connect it to your Wii U Menu.
+¿Quieres instalar RiiTag en tu Wii U? Ver [esta guía](riitag-wiiu) sobre cómo conectarlo a tu Menú de Wii U.
 {: .notice--info}
 
 #### Requisitos
@@ -29,12 +29,12 @@ Want to install RiiTag on your Wii U? See [this guide](riitag-wiiu) on how to co
 5. Haz clic en `Show Key` y apunta la clave que se muestra. Esto no es necesario si usas USB Loader GX, ya que la clave estará en un archivo descargable.
 6. Haz clic en `Submit` para guardar los cambios.
 
-Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
+¡No comparta su clave RiiTag con nadie! Si lo hace, la gente puede meterse con usted y su código.
 {: .notice--warning}
 
 ##### Sección II - Conectando tu USB loader
 
-The steps to connect RiiTag to your USB Loader depend on what USB Loader you use.
+Los pasos para conectar el RiiTag a su Cargador USB dependen del Cargador USB que utilice.
 
 ###### USB Loader GX
 
@@ -61,10 +61,10 @@ The steps to connect RiiTag to your USB Loader depend on what USB Loader you use
 
 ###### Configurable USB Loader
 
-We do not offer support for Configurable USB Loader, as we are focused on USB Loader GX and WiiFlow.
+No tenemos soporte para Configurable USB Loader, ya que estamos enfocados en USB Loader GX y WiiFlow.
 {: .notice--info}
 
-You can use the `CfgLoaderConfigurator.exe` program (Windows only) instead of editing the `config.txt` file mentioned below if you want to.
+Puedes usar el programa `CfgLoaderConfigurator.exe` (solo Windows) en lugar de editar el archivo `config.txt` mencionado a continuación si desea.
 {: .notice--info}
 
 1. Inserta en tu computadora la tarjeta SD o unidad USB donde tengas guardada la configuración de Configurable USB Loader.
@@ -74,5 +74,5 @@ You can use the `CfgLoaderConfigurator.exe` program (Windows only) instead of ed
 5. Guarda el archivo `config.txt` modificado.
 6. Ya has terminado de instalar RiiTag. Intenta cargar algún juego para verificar que esté funcionando correctamente.
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continuar con la navegación del sitio](site-navigation)<br>Tenemos otros tutoriales que te pueden gustar.
 {: .notice--info}
