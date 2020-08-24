@@ -14,39 +14,39 @@ excerpt: "O guia completo para modificar seu Nintendo Wii."
 O guia também está disponível em outros idiomas! Para alterar a língua, pressione no ícone do canto superior direito e mude seu idioma.
 {: .notice--info}
 
-## What is "homebrew"?
+## O que é "homebrew"?
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to unofficial software including games, utilities, emulators and others.
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) se refere a software não oficial como jogos, ferramentas, emuladores e outros.
 
-Running homebrew on your Nintendo Wii is free using various exploits.
+Executar homebrew no seu Nintendo Wii é grátis usando vários exploits.
 
-## What can I do with homebrew?
+## O que eu posso fazer com homebrew?
 
-Here's a list of things you can do with it. While these aren't all the things you can do with homebrew, it should give you a starting point for things you can do. Our guide will help you easily get started.
+Aqui está uma lista de coisas que você pode fazer. Embora essas não sejam todas as coisas que você pode fazer com o homebrew, ela oferece um ponto de partida para o que você pode fazer. Nosso guia te ajudará a começar facilmente.
 
 - Aplicar patches no conteúdo do disco dos jogos (permitindo que você jogue com modificações) usando [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
-- Install themes to your Wii Menu using [MyMenuify](themes).
-- Install a USB Loader like [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
-- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](dump-wads)
+- Instalar temas no Wii Menu usando [MyMenuify](themes).
+- Instalar um USB Loader como [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) ou [USB Loader GX](usbloadergx) para jogar os seus jogos favoritos através de um dispositivo USB.
+- Fazer backup dos seus discos com [CleanRip](/dump-games) e jogos e títulos instalados com com [YABDM](dump-wads)
 - Fazer backup e restaurar seus dados salvos de jogos com [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
-- Download new homebrew apps with the [Homebrew Browser](hbb)
-- Restore discontinued online services, such as [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
+- Baixar novos aplicativos homebrew com [Homebrew Browser](hbb)
+- Reativar serviços online descontinuados, como [WiiConnect24](riiconnect24) & [serviços do Nintendo WFC](wiimmfi).
 - Fazer backup e restaurar cópias do armazenamento do Wii (NAND) usando [BootMii](http://bootmii.org).
-- Protect your Wii from bricks using [Priiloader](priiloader) and BootMii.
+- Proteger seu Wii de bricks usando [Priiloader](priiloader) e BootMii.
 - Transformar seu Wii em um reprodutor de mídia com [WiiMC](http://www.wiimc.org/).
 
-Get started by [choosing your exploit](get-started)!
+Comece [escolhendo seu exploit](get-started)!
 {: .notice--info}
 
-## More Resources
+## Mais Recursos
 
-There are also few more good resources for Wii modding and troubleshooting that can help:
+Existem mais recursos úteis para modificar o Wii e solucionar problemas:
 
 - [ModMii](http://xflak.com/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
-- [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...and of course, this site
+- [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...e claro, esse site
 
-For modding a Wii U, there are some more options:
+Para modificar seu Wii U, há outras opções:
 - [O Guia Definitivo Para Hackear o vWii](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
 - [Guia NH Wii U](https://wiiuguide.xyz)
