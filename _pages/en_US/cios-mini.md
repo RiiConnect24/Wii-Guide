@@ -8,7 +8,7 @@ This tutorial will tell you how to install Leseratte's d2xl Wii mini cIOS (custo
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-This guides is only intended for Wii mini users. If you have a Wii, Install [this cIOS](cios) instead.
+This guide is only intended for Wii mini users. If you have a Wii, follow [this guide](cios) instead.
 {: .notice--warning}
 
 If you need help with anything regarding this tutorial, please join [the Wii mini Hacking Discord server](https://discord.gg/6ryxnkS) (recommended)
@@ -27,7 +27,7 @@ This d2x cIOS installer was originally developed for the Wii U's vWii by DaveBao
 
 ##### Section I - Downloading
 
-1. Extract the d2xl cIOS Installer and put it in the `apps` folder on your USB drive. If you do not have one already, please make a folder named `apps` in the main directory of your flash drive. You will need it afterwards for other Homebrew too.
+1. Extract the d2xl cIOS Installer and put it in the `apps` folder on your USB drive. If you do not have one already, please make a folder named `apps` in the root of your USB drive.
 1. Insert your USB drive into your Wii mini and load The d2xl cIOS Installer from the Homebrew Channel.
 
 ##### Section II - Installing
