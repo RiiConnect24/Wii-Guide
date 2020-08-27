@@ -18,20 +18,20 @@ sitemap: false
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
 + [Instalar RiiConnect24](riiconnect24)
-+ [RiiConnect24 vWii](riiconnect24-vwii)
-+ [RiiConnect24 Dolphin](riiconnect24-dolphin)
++ [RiiXOnnect24 para vWii](riiconnect24-vwii)
++ [RiiConnect24 para Dolphin](riiconnect24-dolphin)
 + [Wiimmfi](wiimmfi)
-+ [WiiWare Patcher](wiiwarepatcher)
-+ [Deleting VFFs](deleting-vffs)
-+ [Fixing FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [Patcher de WiiWare](wiiwarepatcher)
++ [Eliminando VFFs](deleting-vffs)
++ [Resolución de error FORE000006](riiconnect24-batteryfix)
++ [Resolución de error NEWS000006](news000006)
 
 **Modificación 101**
-* [BootMii Backup](bootmii)
+* [Respaldo de BootMii](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
-+ [Homebrew Channel](hbc)
++ [El Canal Homebrew](hbc)
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
 + [str2hax](str2hax)
@@ -39,20 +39,20 @@ sitemap: false
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Creating Wii Game Shortcuts](wiigsc)
-+ [How to dump GameCube/Wii games](dump-games)
-+ [How to dump Channels (WADs)](dump-wads)
-+ [Installing RSSMii](rssmii)
-+ [Installing Wii Themes](themes)
-+ [Performing a SysCheck](syscheck)
-+ [Removing RSSMii](rssmii-remove)
++ [Creación de accesos directos a juegos de Wii](wiigsc)
++ [Cómo descargar juegos de GameCube / Wii](dump-games)
++ [Cómo volcar canales (WAD)](dump-wads)
++ [Instalando RSSMii](rssmii)
++ [Instalando Temas de Wii](themes)
++ [Realización de un SysCheck](syscheck)
++ [Eliminando RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 
 **Wii mini**
-+ [Installing The Homebrew Channel on the Wii mini](hbc-mini)
-+ [Installing cIOS on the Wii mini](cios-mini)
++ [Instalación El Canal Homebrew en el Wii Mini](hbc-mini)
++ [Instalación de cIOS en el Wii Mini](cios-mini)
 
 
 **Sitio**
