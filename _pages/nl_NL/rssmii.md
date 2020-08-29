@@ -41,8 +41,7 @@ Replace the "name" portion with the title you want to put for the feed. Make sur
 <?xml version="1.0" encoding="utf-8"?>
 <rss>
   <feed name="RiiConnect24 Medium"><![CDATA[https://medium.com/feed/riiconnect24]]></feed>
-  <feed name="RiiConnect24 Twitter"><![CDATA[https://twitrss.me/twitter_user_to_rss/?user=RiiConnect24]]></feed>
-  <feed name="Nintendo News"><![CDATA[https://www.nintendo.com/feed]]></feed>
+  <feed name="RiiConnect24 Twitter"><![CDATA[https://nitter.net/riiconnect24/rss]]></feed>
 </rss>
 ```
 
