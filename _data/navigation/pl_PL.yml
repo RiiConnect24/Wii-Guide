@@ -4,7 +4,10 @@ main:
     title: Wii Guide
     url: /
   - 
-    title: Często zadawane pytania
+    title: Start Here
+    url: get-started
+  - 
+    title: FAQ
     url: faq
   - 
     title: RiiConnect24
