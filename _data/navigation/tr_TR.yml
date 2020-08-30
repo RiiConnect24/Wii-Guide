@@ -4,8 +4,11 @@ main:
     title: Wii rehberi
     url: /
   - 
-    title: Sıkça  Sorulan  Sorulan (S.S.S)
-    url: Sıkça Sorulan Sorular (S.S.S)
+    title: Start Here
+    url: get-started
+  - 
+    title: FAQ
+    url: faq
   - 
     title: RiiConnect24
     url: riiconnect24
