@@ -4,6 +4,9 @@ main:
     title: Guide wii
     url: /
   - 
+    title: Start Here
+    url: get-started
+  - 
     title: FAQ
     url: faq
   - 
