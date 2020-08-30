@@ -4,11 +4,14 @@ main:
     title: Guida Wii
     url: /
   - 
-    title: Faq
+    title: Start Here
+    url: get-started
+  - 
+    title: FAQ
     url: faq
   - 
     title: RiiConnect24
-    url: riiConnect24
+    url: riiconnect24
   - 
     title: Wiimmfi
     url: wiimmfi
