@@ -57,25 +57,25 @@ Mithilfe des RiiConnect24 Patchers den du bereits bei den [Voraussetzungen](#wha
 4. Wenn `IOS31.wad` ausgewählt ist, drücke die Plus-Taste und mache das mit allen anderen WADS.
 5. Nachdem sie erfolgreich installiert sind, drücke die HOME-Taste um in den Homebrew-Kanal zurückzukehren
 
-##### Section III - Patching 43db for 16:9 (optional)
+##### Abschnitt 3 - 43db für 16:9 patchen (optional)
 
-1. Open the Homebrew Channel
-2. Launch the ww-43db-patcher
+1. Öffne den Homebrew-Kanal
+2. Starte den ww-43db-patcher
 
-If you install a theme, you will have to run the ww-43db-patcher once more
+Falls du ein Design installierst, musst du den ww-43db-patcher ein weiteres Mal ausführen
 {: .notice--info}
 
-##### Section IV - Using RiiConnect24
+##### Abschnitt 4 - RiiConnect24 benutzen
 
-After following the above sections, you're almost able to utilize RiiConnect24 on your Wii U. You just need to perform the following steps **after every vWii reboot**.
+Nachdem du den obrigen Abschnitten gefolgt bist, bist du fast fertig, um RiiConnect24 auf deiner Wii U zu verwenden. Du musst nur den folgenden Schritten **nach jedem Neustart der vWii** folgen.
 
-1. On the vWii's **Wii Menu**, launch the **Homebrew Channel** and launch the **ConnectMii** homebrew application.
+1. Im **Wii-Menü** der vWii, starte den **Homebrew-Kanal** und starte die **ConnectMii** Homebrew-Anwendung.
 * Dies aktiviert das Zeichen für WiiConnect24 und Verbindung im Standby, welche für die WiiConnect24-Kanäle erforderlich sind.
-2. Launch the WiiConnect24 Channels
-* You should now be able to utilize all of the WiiConnect24 Channels you have installed!
+2. Führe die WiiConnect24-Kanäle aus
+* Du solltest nun in der Lage sein, alle WiiConnect24-Kanäle, die du installiert hast, zu verwenden!
 
 #### Was funktioniert derzeit?
-The following RiiConnect24 services are **working** on the vWii:
+Die folgenden RiiConnect24-Dienste **funktionieren** auf der vWii:
 * Nachrichtenkanal
     * Dieser Kanal hat ein Problem mit Zeitstempeln. Der "Aktuell seit:" und die Artikel-Zeitstempel sind falsch.
     * Die Daten im Banner funktionieren auch nicht, weshalb dort `Die Nachrichten konnten nicht abgerufen werden.` steht.
@@ -84,7 +84,7 @@ The following RiiConnect24 services are **working** on the vWii:
 * Mii-Wettbewerbskanal
 {: .notice--success}
 
-The following RiiConnect24 services are **not working** on the vWii:
+Die folgenden RiiConnect24-Dienste **funktionieren nicht** auf der vWii:
 * Wii Mail (ein Großteil der Funktionen existiert gar nicht auf der vWii)
     * Dies beinhaltet auch das Senden/Empfangen von E-Mails an/von Freunden. Du kannst nur global-versendete E-Mails und Inhalte von RSSMii-Feeds (falls eingerichtet) erhalten.
 * Wetterkanal
