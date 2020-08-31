@@ -53,5 +53,5 @@ Se scegli di caricarlo all'avvio, non devi fare niente. Se vuoi disinstallarlo i
 5. Una volta fatto, ci sarà un file `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` oppure `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` in una cartella WAD accanto a RiiConnect24Patcher.bat
 6. In Dolphin, press `Tools` and then `Install WAD`, and select the `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
 
-E fine! Sfortunatamente, i canali Everybody Votes e Nintendo Channel non funzionano ancora su Dolphin.
+E fine! Unfortunately, Nintendo Channel and Wii Mail don't work in Dolphin yet.
 {: .notice--info}
