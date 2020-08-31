@@ -45,7 +45,7 @@ Es gibt weitere gute Quellen für Wii-Modding und zur Fehlerbehebung, die dir he
 - [ModMii](http://xflak.com/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
-- [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...and of course, this site
+- [Wii Hacking Explained - von Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...und natürlich diese Seite
 
 Zum Modden einer Wii U gibt es weitere Möglichkeiten:
 - [The Definitive vWii Hacking Guide](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
