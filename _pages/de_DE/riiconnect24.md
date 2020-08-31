@@ -60,12 +60,12 @@ Du wirst nun deine `nwc24msg.cfg`-Datei patchen, was für die Benutzung von Wii 
 1. Starte den RiiConnect24 Mail Patcher.
 2. Es sollte nur wenige Sekunden dauern, um deine nwc24msg.cfg zu patchen. Wenn es abgeschlossen ist, drücke die HOME-Taste zum beenden.
 
-If you were unable to patch your nwc24msg.cfg correctly, e-mail us at [support@riiconnect24.net](mailto:support@riiconnect24.net).
+Falls du nicht in der Lage warst, deine nwc24msg.cfg zu patchen, kontaktiere uns per E-Mail unter [support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ##### Abschnitt 3 - Verbinden
 
-You need to set your DNS in order to get the Forecast and News Channel to point to our servers. This DNS also enhances the use of Wiimmfi and RiiConnect24.
+Du musst deine DNS einrichten, damit der Wetterkanal und Nachrichtenkanal auf unsere Server verweisen. Dieser DNS verbessert auch die Nutzung von Wiimmfi und RiiConnect24.
 
 1. Gehe in die `Wii-Optionen`.
 2. Gehe in die `Wii-Systemeinstellungen`.
@@ -85,23 +85,23 @@ You need to set your DNS in order to get the Forecast and News Channel to point 
 16. Abschließend, gehe in den Bereich `Internet`, dann `Vertrag/Kontrakt`, dann `Ja`. Bitte lies es dir durch.
 
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+[Fahre nun fort mit Wiimmfi](wiimmfi)<br> Wiimmfi erlaubt es dir, Spiele auch nach Abschaltung der Nintendo Wi-Fi Connection online zu spielen. Dies zu installieren ist nicht zwingend erforderlich.
 {: .notice--info}
 
-If you get error 107245, then you probably have failed to patch your IOS correctly.
+Falls du Fehler 107245 erhälst, hast du wahrscheinlich deine IOS nicht richtig gepatcht.
 {: .notice--info}
 
-If you get error 107304, then perhaps your ISP blocks the use of custom DNS. A workaround for this can be running your own DNS server! See the [RiiConnect24 DNS Server on GitHub](https://github.com/RiiConnect24/DNS-Server), then use your PC's IP address in place of our DNS in Step 8.
+Falls du Fehler 107304 erhälst, blockiert wahrscheinlich dein Internetanbieter die Nutzung alternativer DNS-Server. Eine Möglichkeit, dies zu umgehen, ist es deinen eigenen DNS-Server zu betreiben! Siehe [RiiConnect24 DNS Server auf GitHub](https://github.com/RiiConnect24/DNS-Server) und nutze dann die IP-Adresse deines PC an Stelle von unserem DNS in Schritt 8.
 {: .notice--info}
 
-[If you get error FORE000006, following this tutorial should fix it.](riiconnect24-batteryfix)
+[Falls du den Fehler FORE000006 erhalten solltest, sollte dies durch das Befolgen dieser Anleitung behoben werden.](riiconnect24-batteryfix)
 {: .notice--warning}
 
-[If you get error NEWS000006, following this tutorial should fix it.](news000006)
+[Falls du den Fehler NEWS000006 erhalten solltest, sollte dies durch das Befolgen dieser Anleitung behoben werden.](news000006)
 {: .notice--warning}
 
-[If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, please go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
+[Wenn du Fehler bekommst, wie bspw. `WiiConnect24 sowie der Wii-Shop-Kanal stehen zur Zeit nicht zur Verfügung.`, gehe bitte in wie Wii-Systemeinstellungen -> Letzte Seite -> Land und ändere es zu Deutschland. Du erhälst diesen Fehler, wenn du ein Land eingestellt hast, dass wir nicht unterstützen. Kontaktiere uns unter [support@riiconnect24.net](mailto:support@riiconnect24.net), falls du mehr Hilfe benötigst.
 {: .notice--warning}
 
-[If you're getting a discontinued message when opening the News or Forecast Channel, then following this tutorial should fix it.](deleting-vffs)
+[Falls du beim Öffnen des Nachrichtenkanals oder Wetterkanals eine Nachricht über die Einstellung der Kanäle bekommst, sollte dies durch das Befolgen dieser Anleitung behoben werden.](deleting-vffs)
 {: .notice--warning}
