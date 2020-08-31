@@ -39,26 +39,26 @@ sitemap: false
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Creating Wii Game Shortcuts](wiigsc)
-+ [How to dump GameCube/Wii games](dump-games)
-+ [How to dump Channels (WADs)](dump-wads)
-+ [Installing RSSMii](rssmii)
-+ [Installing Wii Themes](themes)
-+ [Performing a SysCheck](syscheck)
-+ [Removing RSSMii](rssmii-remove)
++ [Verknüpfungen für Wii-Spiele erstellen](wiigsc)
++ [Wie man Wii/GameCube-Spiele sichert](dump-games)
++ [Wie man Kanäle (WADs) sichert](dump-wads)
++ [RSSMii installieren](rssmii)
++ [Wii-Designs installieren](themes)
++ [Einen SysCheck durchführen](syscheck)
++ [RSSMii entfernen](rssmii-remove)
 + [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 
 **Wii mini**
-+ [Installing The Homebrew Channel on the Wii mini](hbc-mini)
-+ [Installing cIOS on the Wii mini](cios-mini)
++ [Installation des Homebrew-Kanals auf der Wii Mini](hbc-mini)
++ [Installation von cIOS auf der Wii Mini](cios-mini)
 
 
-**Site**
-+ [Home](/)
-+ [Get Started](get-started)
-+ [FAQ](faq)
-+ [Donations](donations)
+**Seite**
++ [Start](/)
++ [Einstieg](get-started)
++ [FAQ (Häufig gestellte Fragen)](faq)
++ [Spenden](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
