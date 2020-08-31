@@ -2,18 +2,18 @@
 title: "Wii/GameCube-Spiele sichern"
 ---
 
-Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
+Möchtest du ein GameCube- oder Wii-Spiel sichern? Es gibt zwei Wege dies zu tun, abhängig von den Werkzeugen, die dir zu Verfügung stehen.
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">To a PC over the network</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">Auf die SD-Karte/ein USB-Laufwerk</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">Auf einen PC über das Netwerk</button>
 
 {% capture cleanripInstructions %}
-### Cleanrip guide
+### CleanRip-Anleitung
 {% include_relative cleanrip.md %}
 {% endcapture %}
 
 {% capture networkInstructions %}
-### Dumping a game over a local network
+### Ein Spiel über das lokale Netzwerk kopieren
 {% include_relative dump-smb.md %}
 {% endcapture %}
 
