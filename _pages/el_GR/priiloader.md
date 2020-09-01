@@ -15,14 +15,17 @@ title: "Priiloader"
 {: .notice--warning}
 
 #### Τι χρειάζεστε
-* Μια κάρτα SD ή ένα αποθηκευτικό μέσο USB
+* An SD card
 * [Το Priiloader](/assets/files/Priiloader_v0_8_2.zip)
+
+Unfortunately, Priiloader is not able to read the hacks list from USB Drives. It can only load them from an SD Card.
+{: .notice--warning}
 
 #### Οδηγίες
 ##### Μέρος I - Κατέβασμα/Εγκατάσταση
 
-1. Κατεβάστε το Priiloader και εξάγετε το στην αρχική διαδρομή της κάρτας SD ή του αποθηκευτικού σας μέσου USB.
-2. Εισάγετε την κάρτα SD ή το αποθηκευτικό μέσο USB στο Wii σας, και ανοίξτε το Priiloader από το Κανάλι Homebrew.
+1. Download Priiloader and extract it to the root of your SD card.
+2. Insert your SD card into your Wii, and launch Priiloader from the Homebrew Channel.
 
 ##### Μέρος II - Εγκαθιστώντας το Priiloader
 
@@ -40,7 +43,7 @@ title: "Priiloader"
 
 ## Λίστα των Χακ Μενού Συστήματος
 
-Αυτή είναι η λίστα με τα χακ που μπορείτε να ενεργοποιήσετε με το Priiloader.
+This is a list of the hacks you can enable with Priiloader.
 
 | Χακ                                     | Περιγραφή                                                                                                                                                                      |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -65,5 +68,5 @@ title: "Priiloader"
 | Move Disc Channel                       | Σας επιτρέπει να βάλετε το κανάλι δίσκων οπουδήποτε στο μενού του Wii. Κανονικά είναι κλειδωμένο πάνω αριστερά στην πρώτη σελίδα.                                              |
 | Block Online Updates                    | Αποτρέπει το Wii σας από το να κάνει ενημέρωση. Οι ενημερώσεις θα αποτυγχάνουν με το σφάλμα 32007.                                                                             |
 
-[Συνέχεια στο cIOS](cios)<br> Τα cIOS χρησιμοποιούνται για να παίζετε παιχνίδια με κάποιο USB Loader. Ακόμα και εάν δεν έχετε σκοπό να το κάνετε αυτό, είναι χρήσιμο για μερικές εφαρμογές homebrew.
+[Continue to cIOS](cios)<br> cIOS are used to play games with a USB Loader. Even if you don't want to do that, it's useful for many homebrew apps.
 {: .notice--info}
