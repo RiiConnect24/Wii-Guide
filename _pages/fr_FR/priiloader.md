@@ -15,14 +15,17 @@ Veuillez ne **pas** installer Priiloader sur une vWii (mode Wii de la Wii U). Le
 {: .notice--warning}
 
 #### Ce dont vous avez besoin
-* Une carte SD ou une clé USB
+* An SD card
 * [Priiloader](/assets/files/Priiloader_v0_8_2.zip)
+
+Unfortunately, Priiloader is not able to read the hacks list from USB Drives. It can only load them from an SD Card.
+{: .notice--warning}
 
 #### Instructions
 ##### Section I - Téléchargement et installation
 
-1. Téléchargez Priiloader et extrayez le dossier vers la racine de votre carte SD ou clé USB.
-2. Insérez votre carte SD ou clé USB dans votre Wii, et lancez Priiloader depuis la Chaîne Homebrew.
+1. Download Priiloader and extract it to the root of your SD card.
+2. Insert your SD card into your Wii, and launch Priiloader from the Homebrew Channel.
 
 ##### Section II - Installation de Priiloader
 
@@ -40,7 +43,7 @@ Veuillez ne **pas** installer Priiloader sur une vWii (mode Wii de la Wii U). Le
 
 ## Liste des hacks du menu système
 
-Ci-dessous se trouve une liste des hacks qui peuvent être activés avec Priiloader.
+This is a list of the hacks you can enable with Priiloader.
 
 | Hack                                    | Description                                                                                                                           |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -65,5 +68,5 @@ Ci-dessous se trouve une liste des hacks qui peuvent être activés avec Priiloa
 | Move Disc Channel                       | Enables you to move the Disc Channel anywhere on the Wii Menu. It's normally locked to the top left entry on the first page.          |
 | Block Online Updates                    | Disables updating your Wii. Updates will fail with error 32007.                                                                       |
 
-[Continuer vers les cIOS](cios)<br> Les cIOS sont utilisés pour lancer des jeux avec un USB Loader. Même si vous ne comptez pas le faire, ils sont utiles pour de nombreuses applications homebrew.
+[Continue to cIOS](cios)<br> cIOS are used to play games with a USB Loader. Even if you don't want to do that, it's useful for many homebrew apps.
 {: .notice--info}
