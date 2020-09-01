@@ -15,14 +15,17 @@ Instaleer Priiloader **niet** op een vWii (Wiiu in Wii modus). Dat zal resultere
 {: .notice--warning}
 
 #### Benodigdheden
-* Een SD-kaart of USB stick
+* An SD card
 * [Priiloader](/assets/files/Priiloader_v0_8_2.zip)
+
+Unfortunately, Priiloader is not able to read the hacks list from USB Drives. It can only load them from an SD Card.
+{: .notice--warning}
 
 #### Instructies
 ##### Deel I - Downloaden/Installeren
 
-1. Download Priiloader en pak het bestand uit op u SD kaart of USB stick (Niet in een map, deze bevat het bestand al).
-2. Stop uw SD kaart of USB stick in u Wii, en open Priiloader vanuit het Homebrew Kanaal.
+1. Download Priiloader and extract it to the root of your SD card.
+2. Insert your SD card into your Wii, and launch Priiloader from the Homebrew Channel.
 
 ##### Deel II - Het installeren van Priiloader
 
@@ -40,7 +43,7 @@ Instaleer Priiloader **niet** op een vWii (Wiiu in Wii modus). Dat zal resultere
 
 ## Systeem Menu Hacks Lijst
 
-Dit is een lijst met hacks die u aan kunt zetten met Priiloader.
+This is a list of the hacks you can enable with Priiloader.
 
 | Hack                                    | Omschrijving                                                                                                                                                                                                                          |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -65,5 +68,5 @@ Dit is een lijst met hacks die u aan kunt zetten met Priiloader.
 | Move Disc Channel                       | Enables you to move the Disc Channel anywhere on the Wii Menu. It's normally locked to the top left entry on the first page.                                                                                                          |
 | Block Online Updates                    | Disables updating your Wii. Updates will fail with error 32007.                                                                                                                                                                       |
 
-[Verder gaan naar cIOS](cios)<br> cIOS wordt gebruikt om games te spelen vanaf een USB stick. Zelfs wanneer u dit niet wilt, het is ook handig voor veel andere homebrew apps.
+[Continue to cIOS](cios)<br> cIOS are used to play games with a USB Loader. Even if you don't want to do that, it's useful for many homebrew apps.
 {: .notice--info}
