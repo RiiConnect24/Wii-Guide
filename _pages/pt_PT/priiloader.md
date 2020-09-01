@@ -15,14 +15,17 @@ Por favor **não** instales Priiloader numa vWii (modo Wii na Wii U). Vais brick
 {: .notice--warning}
 
 #### O que precisas
-* Um cartão SD ou USB drive
+* An SD card
 * [Priiloader](/assets/files/Priiloader_v0_8_2.zip)
+
+Unfortunately, Priiloader is not able to read the hacks list from USB Drives. It can only load them from an SD Card.
+{: .notice--warning}
 
 #### Instruções
 ##### Secção I - Descarregando/Instalando
 
-1. Descarrega o Priiloader e extrai-o para a raíz do teu cartão SD ou USB drive.
-2. Insere o teu cartão SD ou USB drive na tua Wii e abre o Priiloader pelo Homebrew Channel.
+1. Download Priiloader and extract it to the root of your SD card.
+2. Insert your SD card into your Wii, and launch Priiloader from the Homebrew Channel.
 
 ##### Secção II - Instalação do Priiloader
 
@@ -40,7 +43,7 @@ Por favor **não** instales Priiloader numa vWii (modo Wii na Wii U). Vais brick
 
 ## Lista de Hacks para Menu do Sistema
 
-Esta é a lista de hacks que podes ativar com o Priiloader.
+This is a list of the hacks you can enable with Priiloader.
 
 | Hack                                    | Descrição                                                                                                                                                           |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -65,5 +68,5 @@ Esta é a lista de hacks que podes ativar com o Priiloader.
 | Move Disc Channel                       | Permite que movas o Disc Channel para onde quiseres no teu Wii Menu. Normalmente está bloqueado no canto superior esquerdo na primeira página.                      |
 | Block Online Updates                    | Desativa as atualizações da tua Wii. As atualizações irão falhar com o erro 32007.                                                                                  |
 
-[Continua para cIOS](cios)<br> É necessário cIOS para utilizares um USB Loader na tua Wii. Mesmo que não queiras fazer aquilo, é muito útil para várias aplicações homebrew.
+[Continue to cIOS](cios)<br> cIOS are used to play games with a USB Loader. Even if you don't want to do that, it's useful for many homebrew apps.
 {: .notice--info}
