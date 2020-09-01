@@ -15,14 +15,17 @@ Per favore **non** installare Priiloader su una Wii virtuale (la modalità Wii s
 {: .notice--warning}
 
 #### Di cosa hai bisogno
-* Una scheda SD o dispositivo USB
+* An SD card
 * [Priiloader](/assets/files/Priiloader_v0_8_2.zip)
+
+Unfortunately, Priiloader is not able to read the hacks list from USB Drives. It can only load them from an SD Card.
+{: .notice--warning}
 
 #### Istruzioni
 ##### Sezione 1 - Scaricando/Installando
 
-1. Scarica Priiloader ed estrailo nella tua scheda SD o dispositivo USB.
-2. Inserisci la tua scheda SD o dispositivo USB dentro la tua Wii, e carica Priiloader dall'Homebrew Channel.
+1. Download Priiloader and extract it to the root of your SD card.
+2. Insert your SD card into your Wii, and launch Priiloader from the Homebrew Channel.
 
 ##### Sezione 2 - Installare Priiloader
 
@@ -40,7 +43,7 @@ Per favore **non** installare Priiloader su una Wii virtuale (la modalità Wii s
 
 ## Lista dei System Menu Hacks
 
-Questa è una lista di hack che puoi attivare con Priiloader.
+This is a list of the hacks you can enable with Priiloader.
 
 | Hack                                    | Descrizione                                                                                                                   |
 | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -65,5 +68,5 @@ Questa è una lista di hack che puoi attivare con Priiloader.
 | Move Disc Channel                       | Enables you to move the Disc Channel anywhere on the Wii Menu. It's normally locked to the top left entry on the first page.  |
 | Block Online Updates                    | Disables updating your Wii. Updates will fail with error 32007.                                                               |
 
-[Continue to cIOS](cios)<br> cIOS sono usati per giocare a giochi con un USB Loader. Anche se non vuoi farlo, è utile per molte applicazioni homebrew.
+[Continue to cIOS](cios)<br> cIOS are used to play games with a USB Loader. Even if you don't want to do that, it's useful for many homebrew apps.
 {: .notice--info}
