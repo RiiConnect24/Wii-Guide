@@ -15,14 +15,17 @@ Por favor **no** intentes instalar Priiloader en el modo Wii de un Wii U (vWii).
 {: .notice--warning}
 
 #### Requisitos
-* Una tarjeta SD o unidad USB
+* An SD card
 * [Priiloader](/assets/files/Priiloader_v0_8_2.zip)
+
+Unfortunately, Priiloader is not able to read the hacks list from USB Drives. It can only load them from an SD Card.
+{: .notice--warning}
 
 #### Instrucciones
 ##### Sección I - Descarga/instalación
 
-1. Descarga Priiloader y extrae el contenido del archivo a la raíz de tu tarjeta SD o unidad USB.
-2. Inserta la tarjeta SD o unidad USB en tu Wii e inicia Priiloader desde el Canal Homebrew.
+1. Download Priiloader and extract it to the root of your SD card.
+2. Insert your SD card into your Wii, and launch Priiloader from the Homebrew Channel.
 
 ##### Sección II - Instalación
 
@@ -40,7 +43,7 @@ Por favor **no** intentes instalar Priiloader en el modo Wii de un Wii U (vWii).
 
 ## Lista de hacks para el menú de Wii
 
-Esta es una lista de los hacks que puedes activar con Priiloader.
+This is a list of the hacks you can enable with Priiloader.
 
 | El hack                                                                                                         | Descripción                                                                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -65,5 +68,5 @@ Esta es una lista de los hacks que puedes activar con Priiloader.
 | Mover canal de disco                                                                                            | Te permite mover el canal del disco a cualquier parte del menú de Wii (¡Qué radical es eso!). Normalmente está bloqueado en la entrada superior izquierda de la primera página. |
 | Bloquear actualizaciones en línea                                                                               | Desactiva las actualizaciones para tu Wii. Las actualizaciones no funcionarán con el error 32007.                                                                               |
 
-[Continuar a la instalación de cIOS](cios)<br> El cIOS (IOS personalizado) es usado para cargar juegos a través de un USB loader. Incluso si no deseas instalarlo, es necesario para usar algunas otras aplicaciones homebrew.
+[Continue to cIOS](cios)<br> cIOS are used to play games with a USB Loader. Even if you don't want to do that, it's useful for many homebrew apps.
 {: .notice--info}
