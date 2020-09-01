@@ -15,14 +15,17 @@ Priiloader dodaje dodatkowy poziom ochrony przez brickiem na Twoje Wii. Ładuje 
 {: .notice--warning}
 
 #### Będziesz potrzebował
-* Karta SD lub urządzenie USB
+* An SD card
 * [Priiloader](/assets/files/Priiloader_v0_8_2.zip)
+
+Unfortunately, Priiloader is not able to read the hacks list from USB Drives. It can only load them from an SD Card.
+{: .notice--warning}
 
 #### Instrukcje
 ##### Sekcja I - Pobieranie/Instalowanie
 
-1. Pobierz Priiloader'a oraz wypakuj do do folderu głównego na Twojej karcie SD lub urządzeniu USB.
-2. Podłącz Twoją kartę SD lub urządzenie USB do Twojego Wii oraz uruchom Priiloader korzystając z Homebrew Channel.
+1. Download Priiloader and extract it to the root of your SD card.
+2. Insert your SD card into your Wii, and launch Priiloader from the Homebrew Channel.
 
 ##### Sekcja II - Instalowanie Priiloader'a
 
@@ -40,7 +43,7 @@ Priiloader dodaje dodatkowy poziom ochrony przez brickiem na Twoje Wii. Ładuje 
 
 ## Lista hacków System Menu
 
-Poniżej znajduje się lista hacków, które możesz włączyć w Priiloaderze.
+This is a list of the hacks you can enable with Priiloader.
 
 | Hack                                    | Opis                                                                                                                                                             |
 | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -65,5 +68,5 @@ Poniżej znajduje się lista hacków, które możesz włączyć w Priiloaderze.
 | Move Disc Channel                       | Pozwala Ci na przesuwanie Disc Channel gdziekolwiek chcesz. Normalnie, Disc Channel jest zablokowany w pierwszym miejscu u góry po lewej.                        |
 | Block Online Updates                    | Blokuje wykonywania aktualizacji Twojej konsoli. Próby aktualizacji kończą się błędem 32007.                                                                     |
 
-[Kontynuuj do instalacji cIOS](cios)<br> cIOS jest potrzebne aby grać w gry korzystając z loaderów USB. Nawet jeżeli nie będziesz to robił, jest to przydatne dla wielu aplikacji homebrew.
+[Continue to cIOS](cios)<br> cIOS are used to play games with a USB Loader. Even if you don't want to do that, it's useful for many homebrew apps.
 {: .notice--info}
