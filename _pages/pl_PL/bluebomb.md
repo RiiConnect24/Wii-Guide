@@ -36,7 +36,7 @@ Ten exploit nie zadziała na vWii (Tryb Wii w Wii U) Zamiast tego, skorzystaj z 
 - (Jeżeli próbujesz naprawić bricka, powinieneś również skopiować aplikację homebrew z której chcesz skorzystać do /apps/)
 1. Wypakuj go oraz skopiuj plik `boot.elf` na Twój pendrive.
 1. Podłącz pendrive do Twojej konsoli. Na Wii Mini, port USB jest na tyle konsoli. Na oryginalnym Wii, użyj dolnego portu. (Lub portu po prawej, jeżeli konsola stoi).
-1. Włącz konsolę oraz przejdź do menu ustawień. W rogu u góry po prawej, powinieneś ujrzeć kod 4 znakowy, taki jak na zdjęciu poniżej. Ten kod jest Twoją wersją systemu operacyjnego. Zapisz go, będziemy tego potrzebowali później. Po zrobieniu tego, wyłącz Twoją konsolę. (Jeżeli korzystasz z BlueBomb aby odzyskać konsolę z bricka, załóż, że wersja Twojego Wii Menu to 4.3.) ![Wersja System Menu](/images/Wii/SystemMenuVersion.png)
+1. Włącz konsolę oraz przejdź do menu ustawień. On the top right corner you will see a 4-character code like the one in the picture below. Ten kod jest Twoją wersją systemu operacyjnego. Zapisz go, będziemy tego potrzebowali później. Po zrobieniu tego, wyłącz Twoją konsolę. ![Wersja System Menu](/images/Wii/SystemMenuVersion.png)
 1. Uruchom Twoją dystrybucję Linux'a oraz upewnij się, że jesteś podłączony do Internetu.
 1. Otwórz Linux'owy Terminal
 1. Uruchom poniższą komendę:
