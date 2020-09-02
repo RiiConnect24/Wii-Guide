@@ -36,7 +36,7 @@ Denne utnyttelsen funker ikke på en Wii U sin vWii (virtuellisert Wii). Vennlig
 - (Hvis du prøver å fikse en ødelagt Wii Mini, bør du kopiere homebrew appen du har lyst til å bruke til /apps/)
 1. Pakk den ut og plasser `boot.elf` filen i din USB pinne.
 1. Koble til USB pinnen til konsollen. For en Wii mini, er USB porten på baksiden. For en normal Wii, bruk porten på bunnen. (eller høyreporten hvis den er oppreist).
-1. Skru på din konsoll og naviger til innstillings menyen. På den topperste høyre hjørnet skal du se et 4-karakter kode som den i bilde nede. Denne koden er din Wii-meny versjon, ta en note av dette fordi du kommer til å trenge det senere. Etter det, skru av din konsoll. (Hvis du prøver å bruke BlueBomb til å reparere en ødeleggelse, kan du si at din Wii-meny versjon er 4.3.) ![SystemMenyVersjon](/images/Wii/SystemMenuVersion.png)
+1. Skru på din konsoll og naviger til innstillings menyen. On the top right corner you will see a 4-character code like the one in the picture below. Denne koden er din Wii-meny versjon, ta en note av dette fordi du kommer til å trenge det senere. Etter det, skru av din konsoll. ![SystemMenyVersjon](/images/Wii/SystemMenuVersion.png)
 1. Start din Linux distribusjon, og vær sikker på at du er koblet til Internett.
 1. Åpne Terminal
 1. Kjør de følgende kommandoer:
