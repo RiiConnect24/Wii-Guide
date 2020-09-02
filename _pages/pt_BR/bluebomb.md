@@ -36,7 +36,7 @@ Esse exploit não funcionará no vWii do Wii U. Por favor siga [esse guia](https
 - (If attempting to fix a brick, you should also copy the homebrew app you wish to use to /apps/)
 1. Unpack it and place the `boot.elf` file in your flash drive.
 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright).
-1. Turn on your console and navigate to the settings menu. On the top right corner you should see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. (If you're trying to use BlueBomb to recover from a brick, you can assume your Wii Menu version is 4.3.) ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+1. Turn on your console and navigate to the settings menu. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Start your Linux distro, and ensure you are connected to the internet.
 1. Open the Terminal
 1. Run the following commands:
