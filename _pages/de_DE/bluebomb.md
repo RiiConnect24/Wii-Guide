@@ -36,7 +36,7 @@ Dieser Exploit wird nicht auf der vWii einer Wii U funktionieren. Bitte folge st
 - (Falls du versuchst, einen Brick zu beheben, solltest du auch die Homebrew-Anwendung, die du nutzen möchtest, nach /apps/ kopieren)
 1. Entpacke ihn und verschiebe die `boot.elf`-Datei auf dein Laufwerk.
 1. Verbinde das Laufwerk mit deiner Konsole. Bei einer Wii mini befindet sich der USB-Anschluss auf der Rückseite. Benutze bei einer normalen Wii den unteren Anschluss (oder den rechten Port bei senkrechter Aufstellung).
-1. Schalte deine Konsole an und navigiere in die Systemeinstellungen. In der oberen rechten Ecke solltest du ein vierstelliges Kürzel, wie das im Bild unten, sehen. Dieses Kürzel ist deine Wii-Menü-Version. Notiere sie, da du sie später benötigen wirst. Schalte danach deine Konsole aus. (Falls du versuchst BlueBomb zu benutzen, um einen Brick zu beheben, kannst du annehmen, dass deine Wii-Menü-Version 4.3 ist.) ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+1. Schalte deine Konsole an und navigiere in die Systemeinstellungen. On the top right corner you will see a 4-character code like the one in the picture below. Dieses Kürzel ist deine Wii-Menü-Version. Notiere sie, da du sie später benötigen wirst. Schalte danach deine Konsole aus. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Starte deine Linux-Distribution und stelle sicher, dass du mit dem Internet verbunden bist.
 1. Öffne das Terminal
 1. Führe folgende Befehle aus:
