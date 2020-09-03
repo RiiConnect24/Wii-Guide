@@ -15,7 +15,7 @@ If you have a Wii mini, Install [this cIOS](cios-mini) instead. Attempting to in
 
 * A Wii with an Internet connection
 * An SD card or USB drive
-* [d2x cIOS Installer](/assets/d2x-cIOS-Installer-Wii.zip)
+* [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
 #### Instructions
 
