@@ -15,7 +15,7 @@ Se invece hai una Wii mini, installa[questo cIOS](cios-mini). Provare ad install
 
 * Una Wii con connessione Internet
 * Una scheda SD o una chiavetta USB
-* [d2x cIOS Installer](https://sites.google.com/site/completesg/backup-launchers/installation/d2x-cIOS-Installer-Wii.zip?attredirects=0&d=1)
+* [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
 #### Istruzioni
 
