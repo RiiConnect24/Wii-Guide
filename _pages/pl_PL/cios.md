@@ -15,7 +15,7 @@ Jeżeli korzystasz z Wii Mini, skorzystaj z [tego poradnika](cios-mini). Próba 
 
 * Konsola Wii z połączeniem Internetowym
 * Karta SD lub urządzenie USB
-* [Instalator d2x cIOS](https://sites.google.com/site/completesg/backup-launchers/installation/d2x-cIOS-Installer-Wii.zip?attredirects=0&d=1)
+* [Instalator d2x cIOS](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
 #### Instrukcje
 
