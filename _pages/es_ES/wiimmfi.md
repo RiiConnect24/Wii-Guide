@@ -55,15 +55,15 @@ Tal vez no quieras tener que iniciar el parche cada vez que desees jugar en Wiim
 - Wiimm's ISO Patcher (multiplatforma)
    - [Parche para Mario Kart Wii](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip)
    - [Parche para otros juegos](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z)
-- A USB Loader, [cIOS](cios), and a USB to store the game on (you should already have these if you're using a USB Loader)
+- Un cargador USB, [ cIOS,](cios) y un USB para almacenar el juego (ya debería tenerlos si está usando un cargador USB)
 
 #### Instrucciones
 1. Extrae el parche de tu elección y después coloca la copia del juego en la misma carpeta.
 2. Comience el script de patch por tu OS: generalmente, terminará en `.bat` para Windows y `.sh` para Mac/Linux. Si tu estás usando el RiiConnect24 Patcher, seleccione su dispositivo (Wii, vWii, o Dolphin) y seleccione el WiiWare patcher.
-3. Once it's finished, get the version out of the `wiimmfi-images` folder (it may be in the folder outside of the patcher - ../wiimmfi-images) and copy it back to your USB.
+3. Cuando haya terminado, obtenga la versión de la carpeta ` wiimmfi-images ` (puede estar en la carpeta fuera del parche - ../wiimmfi-images) y cópiela de nuevo a su USB.
 
 ### Parchear automáticamente usando un USB loader
-If you are already using USB Loader GX, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
+Si ya está utilizando USB Loader GX, intente actualizarlo a la versión más reciente. Luego, debería haber una configuración de "servidor privado" (tanto en las opciones del cargador global como en las opciones del juego) que puede configurar en "Wiimmfi" para que el cargador USB parche automáticamente cada juego que comience a trabajar con Wiimmfi.
 
 ### Parchear WiiWare
 También es posible parchear juegos WiiWare para jugarlos en Wiimmfi.
@@ -109,17 +109,17 @@ Wiimmfi también te permite participar nuevamente en torneos de Mario Kart Wii.
 Si estás usando un Wii U, tendrás que iniciar el parche cada vez que quieras buscar un torneo nuevo, debido a que WiiConnect24 está desactivado en el Wii U.
 {: .notice--info}
 
-### DS Games
+### Juegos DS
 Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks to an exploit called nds-constraint, you can play DS games without patching your games.
 
-#### What you need
+#### Que necesitas
 
-- A Wi-Fi network with WEP or no security
+- Una red Wi-Fi con WEP o sin seguridad
 
 Getting a Wi-Fi network with WEP or no security is the hardest part, because DS games don't support newer Wi-Fi security types (unless it's one of the few games that are "DSi Enhanced" and can use your Wi-Fi configuration on your DSi or 3DS, like Pokémon Black/White). However, many routers support creating a guest Wi-Fi connection, or you can make a hotspot on your phone or your computer. There are plenty of resources on the Internet that have information on this, so use your favorite search engine to find them.
 {: .notice--info}
 
-#### Instructions
+#### Instrucciones
 
 1. Go in the Nintendo DS Wi-Fi settings. This can be accessed inside the game you want to play online with.
 2. Set up a connection.
@@ -130,11 +130,11 @@ Getting a Wi-Fi network with WEP or no security is the hardest part, because DS 
 ### CTGP-R (Mario Kart Wii)
 MrBean35000vr and Chadderz have an amazing CTGP-R distribution, the application that allows you to use a set of custom tracks, has automatic Wiimmfi patching. Go to the [ChadSoft Website](http://chadsoft.co.uk) for the download and instructions.
 
-### MKW Hack Pack (Mario Kart Wii)
+### Paquete MKW Hack (Mario Kart Wii)
 Huili has put together a really good collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. To learn how to set it up, go to the [wiki page](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
 
 ### Wiimms MKW Fun (Mario Kart Wii)
 Wiimm and Leseratte created a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte and contains a Wiimmfi patch and lots of other features. You can find out more about it on its [wiki page](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
 
-[Click here! We got many other tutorials that you can check out :)](site-navigation)
+[ ¡Hacer clic aquí! Tenemos muchos otros tutoriales que puedes consultar :)](site-navigation)
 {: .notice--info}
