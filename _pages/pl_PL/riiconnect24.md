@@ -39,23 +39,29 @@ Nie ma jeszcze poradnika dotyczącego instalacji RiiConnect24 na Wii Mini. Prób
 Jeżeli korzystasz z komputerem z systemem Linux lub macOS, napisz do nas maila (po Polsku) a podeślemy Ci pliki, które potrzebujesz aby zainstalować RiiConnect24. Nasz patcher jest obecnie dostępny tylko w wersji na Windows'a.
 {: .notice--info}
 
-Zastosujemy teraz poprawkę na `IOS31` oraz `IOS80`. Jest to wymagane aby korzystać z różnych kanałów, które wspieramy, ponieważ musimy zmienić klucz RSA, z którego korzystamy by podpisać nasze pliki. Zastosujemy również poprawkę na kanały.
-
 1. Pobierz wymagane pliki w zależności od Twojego systemu operacyjnego. Na Windows'ie, uruchom `RiiConnect24Patcher.bat`.
-2. Podążaj za instrukcjami, które Ci poda.
-3. Powinieneś otrzymać wszystkie kanały. Powinny zostać zainstalowane **nawet jeżeli masz je już zainstalowany na Twoim Wii, ponieważ musisz zainstalować wersję z poprawką**.
-4. (`Jeżeli RiiConnect24 Patcher skopiował wszystko na Twoją kartę SD lub urządzenie USB, możesz pominać ten krok`) Skopiuj folder `apps` oraz `wad` na Twoją kartę SD lub urządzenie USB.
-5. Włóż kartę SD lub urządzenie USB do Twojego Wii.
-6. Otwórz Homebrew Channel na Twoim Wii.
-7. Uruchom Wii Mod Lite.
-8. Używając Twojego kontrolera, przejdź do `WAD Manager` oraz wejdź do folderu `wad`.
-9. Kiedy `IOS31.wad` będzie podświetlone, naciśnij +. Zrób to dla wszystkich innych plików WAD.
-10. Jeżeli otrzymasz błąd mówiący, że jest już zainstalowany ten program z wyższym numerem wersji (błąd -1035), cofnij się do ekranu wybierania plików WAD, oraz naciśnij - na pliku WAD, który się nie zainstalował aby go całkowicie usunąć z pamięci. Po zrobieniu tego, spróbuj go ponownie zainstalować.
-11. Po ukońzconej pomyślnie instalacji, naciśnij przycisk HOME aby wyjść do Homebrew Channel.
+2. Press 1 to choose "`Start`". ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/2.PNG)
+3. Select the device you're patching for. ![Select your device](/images/RC24_Patcher/2.PNG)
+4. For this guide, choose "`Install RiiConnect24 on your Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.PNG)
+5. Choose "`Express (Recommended)`". It will give you everything you need. ![Express Settings](/images/RC24_Patcher/4.PNG)
+6. Select your region. ![Select your region](/images/RC24_Patcher/5.PNG)
+7. Connect the SD Card or USB Drive to your computer and select "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/6.PNG)
+8. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again. ![Successfully detected](/images/RC24_Patcher/7.PNG)
+9. Be patient... ![It's patching!](/images/RC24_Patcher/8.PNG)
+10. Once it's done, you can now safely close the patcher. All of the files are ready on your SD Card. ![It's done!](/images/RC24_Patcher/9.PNG) ![Files copied](/images/RC24_Patcher/10.PNG)
+
+11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24 Patcher.bat` to your SD Card or USB Device.
+12. Put your SD card or USB drive in your Wii.
+13. Launch the Homebrew Channel on your Wii.
+14. Launch Wii Mod Lite.
+15. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+16. When `IOS31.wad` is highlighted, press +, then do the same for all the other WADs.
+17. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted WAD to uninstall it, then try installing it again.
+18. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
 ##### Sekcja II - Stosowanie poprawki na nwc24msg.cfg
 
-Zastosujemy teraz poprawkę na plik `nwc24msg.cfg`, który jest wymagany do działania Wii Mail.
+You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
 
 1. Korzystając z Homebrew Channel, uruchom RiiConnect24 Mail Patcher.
 2. Stosowanie poprawki na nwc24msg.cfg powinno potrwać tylko kilka sekund. Po ukończeniu, naciśnij przycisk HOME aby wyjść.
@@ -65,7 +71,7 @@ If you were unable to patch your nwc24msg.cfg correctly, e-mail us at [support@r
 
 ##### Sekcja III - Łączenie
 
-You need to set your DNS in order to get the Forecast and News Channel to point to our servers. This DNS also enhances the use of Wiimmfi and RiiConnect24.
+You need to set your DNS in order to get the Forecast and News Channel to point to our servers. This DNS is also useful if you want to play Wiimmfi.
 
 1. Wejdź do `ustawień Wii`.
 2. Przejdź do `Wii Settings`.
