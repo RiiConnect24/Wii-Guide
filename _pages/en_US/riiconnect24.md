@@ -41,7 +41,7 @@ If you use Linux or macOS, please e-mail us and we will give you the things need
 
 1. Download the required files based on your OS. On Windows run `RiiConnect24Patcher.bat`.
 2. Press 1 to choose "`Start`".
-![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/2.PNG)
+![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.PNG)
 3. Select the device you're patching for.
 ![Select your device](/images/RC24_Patcher/2.PNG)
 4. For this guide, choose "`Install RiiConnect24 on your Wii`"
