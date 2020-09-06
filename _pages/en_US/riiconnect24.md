@@ -39,19 +39,35 @@ There is no guide to installing RiiConnect24 on a Wii Mini, as attempting to ins
 If you use Linux or macOS, please e-mail us and we will give you the things needed to install RiiConnect24. The patcher we provide is currently Windows-only.
 {: .notice--info}
 
-You will now patch your IOS, `IOS31` and `IOS80`. This is required to use the Channels we support to change an RSA key used to sign the files. You will also download patched versions of the Channels.
-
 1. Download the required files based on your OS. On Windows run `RiiConnect24Patcher.bat`.
-2. Follow the instructions it gives you.
-3. You should get the Channels that you want. They need to be installed **even if you already have them on your Wii, because you will need to install the patched WAD instead**.
-4. (`If RiiConnect24 Patcher copied everything to the SD card or USB drive, you can skip this step`) Copy the `apps` and `wad` folder to your SD card or USB drive.
-5. Put your SD card or USB drive in your Wii.
-6. Launch the Homebrew Channel on your Wii.
-7. Launch Wii Mod Lite.
-8. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
-9. When `IOS31.wad` is highlighted, press +, then do the same for all the other WADs.
-10. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted WAD to uninstall it, then try installing it again.
-11. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+2. Press 1 to choose "`Start`".
+![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/2.jpg)
+3. Select the device you're patching for.
+![Select your device](/images/RC24_Patcher/2.png)
+4. For this guide, choose "`Install RiiConnect24 on your Wii`"
+![Install RiiConnect24](/images/RC24_Patcher/3.png)
+5. Choose "`Express (Recommended)`". It will give you everything you need.
+![Express Settings](/images/RC24_Patcher/4.png)
+6. Select your region.
+![Select your region](/images/RC24_Patcher/5.png)
+7. Connect the SD Card or USB Drive to your computer and select "`1`".
+![Enable copying to SD Card](/images/RC24_Patcher/6.png)
+8. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
+![Successfully detected](/images/RC24_Patcher/7.png)
+9. Be patient...
+![It's patching!](/images/RC24_Patcher/8.png)
+10. Once it's done, you can now safely close the patcher. All of the files are ready on your SD Card.
+![It's done!](/images/RC24_Patcher/9.png)
+![Files copied](/images/RC24_Patcher/10.png)
+
+11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24 Patcher.bat` to your SD Card or USB Device.
+12. Put your SD card or USB drive in your Wii.
+13. Launch the Homebrew Channel on your Wii.
+14. Launch Wii Mod Lite.
+15. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+16. When `IOS31.wad` is highlighted, press +, then do the same for all the other WADs.
+17. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted WAD to uninstall it, then try installing it again.
+18. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
 ##### Section II - Patching nwc24msg.cfg
 
@@ -59,9 +75,6 @@ You will now patch your `nwc24msg.cfg` file which is required in order to use Wi
 
 1. Launch RiiConnect24 Mail Patcher.
 2. It should only take a few seconds to patch your nwc24msg.cfg. When it's done, press HOME to exit.
-
-If the previous step failed with an "net_get_status: -24 - Couldn't request the data: -24" error, please check the internet connection on your Wii.
-{: .notice--warning}
 
 If you were unable to patch your nwc24msg.cfg correctly, e-mail us at [support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
