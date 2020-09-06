@@ -81,7 +81,7 @@ If you were unable to patch your nwc24msg.cfg correctly, e-mail us at [support@r
 
 ##### Section III - Connecting
 
-You need to set your DNS in order to get the Forecast and News Channel to point to our servers. This DNS is also useful if you want to play Wiimmfi.
+It's recommended to set your DNS to enhance the use of RiiConnect24 and Wiimmfi services.
 
 1. Go to `Wii Options`.
 2. Go to `Wii Settings`.
