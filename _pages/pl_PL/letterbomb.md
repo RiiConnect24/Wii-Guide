@@ -15,7 +15,7 @@ Jest to jeden z wielu explitów. Sprawdź [wprowadzenie](/get-started) aby spraw
 #### Będziesz potrzebował:
 - Karta SD
 - Konsola Wii z wersją 4.3 systemu operacyjnego.
-   - Ten exploit nie zadziała na Wii Mini lub vWii
+   - This exploit will not work on a Wii mini or vWii
 
 #### Instrukcje
 
