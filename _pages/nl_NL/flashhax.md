@@ -11,7 +11,7 @@ FlashHax is een exploit voor de Wii dat gebruik maakt van het Internet Kanaal. A
 
 - Een Wii met een internet connectie op software versie 4.3
 - Het Internet Kanaal
-   - Dit kan niet geïnstalleerd worden op een vWii (Wii U in Wii mode) of Wii mini. Check in plaats daarvan een andere tutorial via [Beginnen](/get-started).
+   - This will not be installed on a vWii or a Wii mini. Check in plaats daarvan een andere tutorial via [Beginnen](/get-started).
 
 #### Instructies
 
