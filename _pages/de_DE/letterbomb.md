@@ -15,7 +15,7 @@ Dieser Exploit ist einer von vielen. Gehe auf die [Einstiegs](/get-started)-Seit
 #### Voraussetzungen
 - Eine SD-Karte
 - Eine Wii mit Systemversion 4.3
-   - Diese Exploit wird nicht auf einer Wii mini oder vWii funktionieren
+   - This exploit will not work on a Wii mini or vWii
 
 #### Anleitung
 
