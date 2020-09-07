@@ -15,7 +15,7 @@ Dit is een van de vele exploits. Check [Get Started](/get-started) pagina voor a
 #### Benodigdheden
 - Een SD-kaart
 - Een Wii met software versie 4.3
-   - Deze exploit werkt niet op een Wii Mini of vWii
+   - This exploit will not work on a Wii mini or vWii
 
 #### Instructies
 
