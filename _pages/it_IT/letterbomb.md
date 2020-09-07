@@ -15,7 +15,7 @@ Questo exploit è uno dei tanti. Guarda la pagina [Iniziare](/get-started) per a
 #### Di cosa hai bisogno
 - Una SD card
 - Una Wii aggiornata alla 4.3
-   - Questo exploit non funziona sulla Wii virtuale o la Wii mini
+   - This exploit will not work on a Wii mini or vWii
 
 #### Istruzioni
 
