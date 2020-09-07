@@ -15,7 +15,7 @@ En caso de un brick, para repararlo es necesario tener instalado [Priiloader](/p
 #### Requisitos
 
 * Un Wii
-* Una unidad USB.
+* A USB drive.
 * Un instalador de WADs (se recomienda Wii Mod Lite).
 * Una computadora con Windows.
 * [WiiGSC](https://wiidatabase.de/downloads/pc-tools/wiigsc-ehemals-crap/)
@@ -23,7 +23,7 @@ En caso de un brick, para repararlo es necesario tener instalado [Priiloader](/p
 #### Instrucciones
 
 1. Instalar WiiGSC, luego haga clic derecho sombre él y seleccione **Run as administrator**. Si no haces esto, WiiGSC da un error cuando lo abres.
-2. Haz clic en el botón `...` que está a la derecha de `ISO/WBFS File` y selecciona el archivo ISO o WBFS ubicado en tu unidad USB, después haz clic en el botón a la derecha de `Loader` y elige el USB loader que usas. No hace falta que cambies el resto de las opciones.
+2. Select the path to the ISO or WBFS file on your USB drive, and select the USB Loader you use. No hace falta que cambies el resto de las opciones.
 3. No podrás usar los accesos direcctos si tienes la versión 1272 de USB Loader GX. La última versión que funciona con los accesos directos en la versión 1271.
 4. No hagas accesos directos para los juegos "A Boy and His Blob" o "Mario Party 9". Si instalas alguno de esos dos, tu consola quedará brickeada debido a un banner brick.
 5. Instala el WAD generado con un instalador de WADs, recomendamos usar Wii Mod Lite.
