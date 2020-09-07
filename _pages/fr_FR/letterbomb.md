@@ -15,7 +15,7 @@ Cet exploit est l'un des nombreux existants. Veuillez regarder la page [Pour dé
 #### Ce dont vous avez besoin
 - Une carte SD
 - Une Wii avec la version 4.3 du menu Wii
-   - Cet exploit ne fonctionne pas sur une Wii Mini ou une vWii (Wii U)
+   - This exploit will not work on a Wii mini or vWii
 
 #### Instructions
 
