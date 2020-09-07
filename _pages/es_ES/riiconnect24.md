@@ -17,7 +17,7 @@ Esta guía es solo para el Wii original.
 - Sigue [esta guía](riiconnect24-vwii) si estás buscando instalar RiiConnect24 en un vWii (el modo Wii de la consola Wii U).
 - Si deseas instalar RiiConnect24 en el emulador Dolphin, sigue [esta guía](riiconnect24-vwii).
 
-No hay una guía para instalar RiiConnect24 en un Wii Mini, ya que el intento de instalar RiiConnect24 en un Wii Mini resultaría en un brick de la consola.
+There is no guide to installing RiiConnect24 on a Wii mini, as attempting to install RiiConnect24 on a Wii mini will result in a console brick.
 {% endcapture %}
 
 <div class="notice--warning">{ notice-1 | markdownify }</div>
@@ -40,17 +40,17 @@ If you use Linux or macOS, please e-mail us and we will give you the things need
 {: .notice--info}
 
 1. Descarga los archivos necesarios según tu sistema operativo. En Windows, ejecuta el archivo `RiiConnect24Patcher.bat`.
-2. Press 1 to choose "`Start`". ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/2.PNG)
-3. Select the device you're patching for. ![Select your device](/images/RC24_Patcher/2.PNG)
-4. For this guide, choose "`Install RiiConnect24 on your Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.PNG)
-5. Choose "`Express (Recommended)`". It will give you everything you need. ![Express Settings](/images/RC24_Patcher/4.PNG)
-6. Select your region. ![Select your region](/images/RC24_Patcher/5.PNG)
-7. Connect the SD Card or USB Drive to your computer and select "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/6.PNG)
-8. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again. ![Successfully detected](/images/RC24_Patcher/7.PNG)
-9. Be patient... ![It's patching!](/images/RC24_Patcher/8.PNG)
-10. Once it's done, you can now safely close the patcher. All of the files are ready on your SD Card. ![It's done!](/images/RC24_Patcher/9.PNG) ![Files copied](/images/RC24_Patcher/10.PNG)
+2. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`. ![Pantalla Principal de RiiConnect24 Patcher](/images/RC24_Patcher/1.PNG)
+3. Select the device you're patching for. ![Seleccione su dispositivo](/images/RC24_Patcher/2.PNG)
+4. For this guide, choose "`Install RiiConnect24 on your Wii`" ![Instalar RiiConnect24](/images/RC24_Patcher/3.PNG)
+5. Choose "`Express (Recommended)`". It will give you everything you need. ![Configuración Express](/images/RC24_Patcher/4.PNG)
+6. Select your region. ![Seleccione su región](/images/RC24_Patcher/5.PNG)
+7. Connect the SD card or USB drive to your computer and select "`1`". ![Enable copying to SD card](/images/RC24_Patcher/6.PNG)
+8. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD card or USB Device and try again. ![Detectado con éxito](/images/RC24_Patcher/7.PNG)
+9. Be patient... ![¡Está parcheando!](/images/RC24_Patcher/8.PNG)
+10. Once it's done, you can now safely close the patcher. All of the files are ready on your SD card. ![¡Está hecho!](/images/RC24_Patcher/9.PNG) ![Archivos copiados](/images/RC24_Patcher/10.PNG)
 
-11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24 Patcher.bat` to your SD Card or USB Device.
+11. If it did not copy everything automatically to your SD card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24 Patcher.bat` to your SD card or USB Device.
 12. Put your SD card or USB drive in your Wii.
 13. Launch the Homebrew Channel on your Wii.
 14. Launch Wii Mod Lite.
@@ -71,7 +71,7 @@ If you were unable to patch your nwc24msg.cfg correctly, e-mail us at [support@r
 
 ##### Sección III - Conectándose al servicio
 
-You need to set your DNS in order to get the Forecast and News Channel to point to our servers. This DNS is also useful if you want to play Wiimmfi.
+It's recommended to set your DNS to enhance the use of RiiConnect24 and Wiimmfi services.
 
 1. Selecciona `Opciones de Wii` en el menú de Wii.
 2. Elige `Configuración de Wii`.
@@ -81,7 +81,7 @@ You need to set your DNS in order to get the Forecast and News Channel to point 
 6. Presiona en `Modificar`.
 7. Pasa hasta la cuarta página, donde está la opción `Obtener DNS automáticamente` (no es en Obtener drección IP automáticamente), elige `No` y después selecciona `Configuración avanzada`.
 8. Ingresa `164.132.44.106` como el DNS primario.
-9. Type in `1.1.1.1` as the secondary DNS (if it gives you problems, try `8.8.8.8`).
+9. Escriba `1.1.1.1` como DNS secundario (si le da problemas, intente `8.8.8.8`).
 10. Selecciona `Confirmar` y después elige `Guardar`.
 11. Selecciona `Aceptar` para realizar una prueba de conexión.
 12. Si la prueba de conexión ha sido exitosa, elige `No` para saltar la actualización de la consola Wii.
