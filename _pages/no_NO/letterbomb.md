@@ -15,7 +15,7 @@ This exploit is one of many. Check out the [Get Started](/get-started) page for 
 #### What you need
 - An SD card
 - A Wii on system version 4.3
-   - This exploit will not work on a Wii Mini or vWii
+   - This exploit will not work on a Wii mini or vWii
 
 #### Instructions
 
