@@ -15,7 +15,7 @@ title: "LetterBomb"
 #### Τι χρειάζεστε
 - Μια κάρτα SD
 - Ένα Wii με έκδοση συστήματος 4.3
-   - Αυτή η ευπάθεια δεν θα λειτουργήσει σε ένα Wii Mini ή ένα vWii
+   - This exploit will not work on a Wii mini or vWii
 
 #### Οδηγίες
 
