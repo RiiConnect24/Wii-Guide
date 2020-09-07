@@ -15,7 +15,7 @@ In caso di brick, avere [Priiloader installato è obbligatorio](/priiloader). In
 #### Cosa ti servirà
 
 * Una Wii
-* Un dispositivo USB.
+* A USB drive.
 * Un WAD Manager (noi consigliamo Wii Mod Lite).
 * Un computer con Windows.
 * [WiiGSC](https://wiidatabase.de/downloads/pc-tools/wiigsc-ehemals-crap/)
@@ -23,7 +23,7 @@ In caso di brick, avere [Priiloader installato è obbligatorio](/priiloader). In
 #### Istruzioni
 
 1. Install WiiGSC, then right click on it and choose **Run as administrator**. If you do not do this, WiiGSC will throw an error when you open it.
-2. Scegli il percorso per il file ISO o WBFS sul tuo dispositivo USB, e scegli il Loader USB che utilizzi. Le altre opzioni sono apposto così come sono.
+2. Select the path to the ISO or WBFS file on your USB drive, and select the USB Loader you use. Le altre opzioni sono apposto così come sono.
 3. Se usi USB Loader GX, non puoi usare la revision 1272 per creare le scorciatoie. Devi usare la revision 1271 (o, se per caso ne hai bisogno, una versione ancora più vecchia).
 4. Non creare una scorciatoia per "A Boy and His Blob" o "Mario Party 9". Essi brickeranno la tua Wii.
 5. Installa il WAD generato con un WAD Manager, (consigliamo Wii Mod Lite).
