@@ -12,11 +12,11 @@ This page lists the differences between the two we recommend, so you can choose 
 
 #### Choose a USB loader
 
-- [USB Loader GX](usbloadergx)<!-- This page sucks, it needs some pretty large changes --!>
+- [USB Loader GX](usbloadergx)<!-- This page sucks, it needs some pretty large changes -->
     * Supports FAT32, NTFS and Ext2/3/4 filesystems
     * Can only load games from a USB drive
     * Can patch games on-the-fly for use with Wiimmfi
-- [WiiFlow](wiiflow) <!-- page not written yet --!>
-    * Supports FAT32 filesystem only <!-- I don't know if this is true, someone else please confirm --!>
+- [WiiFlow](wiiflow) <!-- page not written yet -->
+    * Supports FAT32 filesystem only <!-- I don't know if this is true, someone else please confirm -->
     * Can load games from both a USB drive or SD card
     * Can patch games on-the-fly for use with Wiimmfi
