@@ -15,7 +15,7 @@ W przypadku bricka, [instalacja Priiloadera jest wymogiem](/priiloader). Równie
 #### Będziesz potrzebował
 
 * Konsola Wii
-* Dysk USB / Pendrive.
+* A USB drive.
 * Menedżer WAD (zalecamy Wii Mod Lite).
 * Komputera z systemem operacyjnym Windows.
 * [WiiGSC](https://wiidatabase.de/downloads/pc-tools/wiigsc-ehemals-crap/)
@@ -23,7 +23,7 @@ W przypadku bricka, [instalacja Priiloadera jest wymogiem](/priiloader). Równie
 #### Instrukcje
 
 1. Zainstaluj WiiGSC, naciśnij na program prawym przyciskiem oraz wybierz **Uruchom jako administrator**. Jeśli tego nie zrobisz, WiiGSC pokaże Ci błąd podczas uruchamiania.
-2. Wybierz ścieżkę pliku ISO lub WBFS na Twoim urządzeniu USB oraz wybierz loader USB, z którego korzystasz. Inne opcje powinny działać tak jak obecnie są.
+2. Select the path to the ISO or WBFS file on your USB drive, and select the USB Loader you use. Inne opcje powinny działać tak jak obecnie są.
 3. Jeżeli korzystasz z USB Loader GX, nie możesz użyć wersji (revision) 1272 aby stworzyć skrót. Musisz skorzystać z wersji (revision) 1271) (lub wcześniejszej wersji jeżeli z jakiegoś powodu musisz z niej skorzystać).
 4. Nie twórz skrótów dla gier "A Boy and His Blob" oraz "Mario Party 9". Skróty tych gier zbrickują Twoje Wii.
 5. Zainstaluj wygenerowane pliki WAD korzystając z WAD Manager'a. Zalecamy Wii Mod Lite.
