@@ -15,7 +15,7 @@ Für den Fall eines Bricks [ist die Installation von Priiloader ein Muss](/priil
 #### Voraussetzungen
 
 * Eine Wii
-* Ein USB-Laufwerk.
+* A USB drive.
 * Einen WAD-Manager (Wii Mod Lite wird empfohlen).
 * Ein Windows-Computer.
 * [WiiGSC](https://wiidatabase.de/downloads/pc-tools/wiigsc-ehemals-crap/)
@@ -23,7 +23,7 @@ Für den Fall eines Bricks [ist die Installation von Priiloader ein Muss](/priil
 #### Anleitung
 
 1. Installiere WiiGSC, mache einen Rechtsklick darauf und wähle **Als Administrator ausführen**. Falls du das nicht tust, zeigt WiiGSC, wenn du es öffnest, einen Fehler an.
-2. Wähle den Pfad zur ISO oder WBFS-Datei auf deinem USB-Laufwerk und den USB-Loader den du verwendest. Die anderen Einträge sollten, so wie sie sind, in Ordnung sein.
+2. Select the path to the ISO or WBFS file on your USB drive, and select the USB Loader you use. Die anderen Einträge sollten, so wie sie sind, in Ordnung sein.
 3. Falls du USB Loader GX verwendest, kannst du für Verknüpfungen nicht Revision 1272 verwenden. Du musst Revision 1271 (oder eine ältere Version, falls du die aus irgendeinem Grund brauchst) verwenden.
 4. Erstelle keine Spiele-Verknüpfungen für "A Boy and His Blob" oder "Mario Party 9". Sie werden deine Wii bricken.
 5. Installiere die erstellte WAD mit einem WAD-Manager, wir empfehlen Wii Mod Lite.
