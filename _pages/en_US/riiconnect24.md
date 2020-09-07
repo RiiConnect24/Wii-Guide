@@ -17,7 +17,7 @@ This guide is for the original Wii only.
 - Follow [this tutorial](riiconnect24-vwii) if you'd like to install RiiConnect24 on a vWii (the Wii mode of your Wii U).
 - Follow [this tutorial](riiconnect24-dolphin) if you'd like to install RiiConnect24 on the Dolphin emulator.
 
-There is no guide to installing RiiConnect24 on a Wii Mini, as attempting to install RiiConnect24 on a Wii Mini will result in a console brick.
+There is no guide to installing RiiConnect24 on a Wii mini, as attempting to install RiiConnect24 on a Wii mini will result in a console brick.
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
@@ -50,17 +50,17 @@ If you use Linux or macOS, please e-mail us and we will give you the things need
 ![Express Settings](/images/RC24_Patcher/4.PNG)
 6. Select your region.
 ![Select your region](/images/RC24_Patcher/5.PNG)
-7. Connect the SD Card or USB Drive to your computer and select "`1`".
-![Enable copying to SD Card](/images/RC24_Patcher/6.PNG)
-8. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
+7. Connect the SD card or USB drive to your computer and select "`1`".
+![Enable copying to SD card](/images/RC24_Patcher/6.PNG)
+8. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD card or USB Device and try again.
 ![Successfully detected](/images/RC24_Patcher/7.PNG)
 9. Be patient...
 ![It's patching!](/images/RC24_Patcher/8.PNG)
-10. Once it's done, you can now safely close the patcher. All of the files are ready on your SD Card.
+10. Once it's done, you can now safely close the patcher. All of the files are ready on your SD card.
 ![It's done!](/images/RC24_Patcher/9.PNG)
 ![Files copied](/images/RC24_Patcher/10.PNG)
 
-11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24 Patcher.bat` to your SD Card or USB Device.
+11. If it did not copy everything automatically to your SD card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24 Patcher.bat` to your SD card or USB Device.
 12. Put your SD card or USB drive in your Wii.
 13. Launch the Homebrew Channel on your Wii.
 14. Launch Wii Mod Lite.
