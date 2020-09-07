@@ -17,6 +17,6 @@ This page lists the differences between the two we recommend, so you can choose 
     * Can only load games from a USB drive
     * Can patch games on-the-fly for use with Wiimmfi
 - [WiiFlow](wiiflow) <!-- page not written yet -->
-    * Supports FAT32 filesystem only <!-- I don't know if this is true, someone else please confirm -->
+    * Supports FAT32 and NTFS filesystems <!-- Still check if it supports more -->
     * Can load games from both a USB drive or SD card
     * Can patch games on-the-fly for use with Wiimmfi
