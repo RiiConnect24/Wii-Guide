@@ -54,7 +54,7 @@ chmod +x bluebomb-helper.sh
 Σιγουρευτείτε πως η κονσόλα είναι κοντά στον υπολογιστή που τρέχει το πρόγραμμα, ιδανικά λιγότερο από 1 μέτρο.
 {: .notice--info}
 
-Η κονσόλα πρέπει τώρα να εισέλθει στο HackMii installer. Μπορείτε τώρα να απενεργοποιήσετε το Linux, αν δεν σκοπεύετε να το χρησιμοποιήσετε αργότερα.
+Η κονσόλα πρέπει τώρα να εισέλθει στο HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
 
 [Αν χρησιμοποιείτε Wii, συνεχίστε στην εγκατάσταση του καναλιού Homebrew και του BootMii](hbc)
 {: .notice--info}
