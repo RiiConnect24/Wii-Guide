@@ -54,7 +54,7 @@ chmod +x bluebomb-helper.sh
 Vær sikker på at konsollen er nærme til datamaskinen som kjører exploiten, det bør være mindre enn 91.44 centimeter.
 {: .notice--info}
 
-Konsollen bør nå starte til HackMii installeringsprogrammet. Du kan gjærne skru av Linux datamaskinen hvis du ikke skal bruke den senere.
+Konsollen bør nå starte til HackMii installeringsprogrammet. You can now shut down your Linux computer if you are not planning to use it later.
 
 [Hvis du bruker en Wii, gå til å installere Homebrewkanelen og BootMii](hbc)
 {: .notice--info}
