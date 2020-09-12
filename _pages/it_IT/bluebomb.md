@@ -4,14 +4,14 @@ title: "BlueBomb"
 
 {% include toc title="Table of Contents" %}
 
-Se hai bisogno di aiuto riguardo questo tutorial, unisciti al [the Wii Mini Hacking Discord server](https://discord.gg/6ryxnkS) (raccomandato)
+Se hai bisogno di aiuto riguardo questo tutorial, unisciti al [Wii Mini Hacking Discord server](https://discord.gg/6ryxnkS) (raccomandato)
 {: .notice--info}
 
 ![BlueBomb](/images/bluebomb.png)
 
-BlueBomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Nonostante sia l'unico exploit che funzioni sulla Wii mini, Bluebomb funziona anche sulla Wii originale. Questo exploit può anche recuperarsi da alcuni bricks, come il banner brick.
+BlueBomb è un exploit che si approffitta di un errore nelle librerie Bluetooth della Wii e della Wii Mini. Nonostante sia l'unico exploit che funzioni sulla Wii mini, Bluebomb funziona anche sulla Wii originale. Questo exploit può anche recuperarsi da alcuni bricks, come il banner brick.
 
-For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
+Per la Wii originale, non è raccomandato usare BlueBomb se vuoi installare l'Homebrew Channel e BootMii, visto che esistono exploit più convenienti.
 {: .notice--info}
 
 Questo exploit non funziona sulla Wii virtuale della Wii U. Per favore segui [ questa guida ](https://wiiuguide.xyz/#/vwii-modding) invece.
@@ -19,11 +19,11 @@ Questo exploit non funziona sulla Wii virtuale della Wii U. Per favore segui [ q
 
 #### Sezione 1 - Di cosa hai bisogno
 - Una macchina Linux
-  - If you have a Raspberry Pi, you can use that instead as it most likely has Linux installed already.
-  - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports.
-  - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
-    - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
-    - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
+  - Se hai un Raspberry Pi, puoi usarlo visto che molto probabilmente ha Linux preinstallato.
+  - Il sottosistema di Linux su Windows * non funzionerà * visto che non ha accesso diretto all'adattatore Bluetooth o alle porte USB.
+  - Se non hai Linux, [ Ubuntu](https://ubuntu.com/download/desktop) è l'opzione più semplice ed è disponibile per PC Windows o Mac.
+    - I sistemi a 32 bit richiedono [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
+    - Per i sistemi a 64-bit è consigliabile usare l'edizione LTS per la sua stabilità, ma l'ultima versione funziona.
   - You can [flash a Linux install to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
 - Un'adattatore Bluetooth.
   - Un'adattatore Bluetooth interno funzionerà.
