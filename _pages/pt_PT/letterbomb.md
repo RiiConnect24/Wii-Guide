@@ -15,7 +15,7 @@ Esta vulnerabilidade é uma de muitas. Vê a página [Vamos começar](/get-start
 #### O que precisas
 - Um cartão SD
 - Uma Wii na versão do sistema 4.3
-   - This exploit will not work on a Wii mini or vWii
+   - Este exploit não funcionará numa Wii Mini ou vWii
 
 #### Instruções
 
