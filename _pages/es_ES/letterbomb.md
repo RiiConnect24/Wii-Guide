@@ -15,7 +15,7 @@ Este exploit es uno de los muchos que hay disponibles. Revisa la página [Comenz
 #### Requisitos
 - Una tarjeta SD
 - Una Wii con versión de sistema 4.3
-   - This exploit will not work on a Wii mini or vWii
+   - Este exploit no funciona en un Wii mini o vWii
 
 #### Instrucciones
 
