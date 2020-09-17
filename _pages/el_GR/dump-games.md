@@ -2,18 +2,17 @@
 title: "Αποθήκευση παιχνιδιών Wii/GameCube"
 ---
 
-Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
+Θα ήθελες να αποθυκεύσεις έναν δίσκο GameCube ή Wii; Υπάρχουν δύο τρόποι να το κάνεις αυτό σε συνάρτηση με τα εργαλεία που διαθέτεις.
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">To a PC over the network</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">Στην κάρτα μνήμης SD/USB Drive</button><button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">Στον υπολογιστή μέσω του δικτύου</button>
 
 {% capture cleanripInstructions %}
-### Cleanrip guide
+### Οδηγός Cleanrip
 {% include_relative cleanrip.md %}
 {% endcapture %}
 
 {% capture networkInstructions %}
-### Dumping a game over a local network
+### Αποθήκευση παιχνιδιού με το τοπικό δίκτυο
 {% include_relative dump-smb.md %}
 {% endcapture %}
 
