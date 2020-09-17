@@ -2,18 +2,18 @@
 title: "Wykonywanie kopii zapasowej gier z Wii/GameCube"
 ---
 
-Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
+Chcesz wykonać kopię zapasową płyty z grą na Wii lub GameCube? W zależności od narzędzi jakimi dysponujesz, istnieją dwa sposoby aby to zrobić.
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">To a PC over the network</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">Na kartę SD lub urządzenie USB</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">Na komputer za pomocą sieci</button>
 
 {% capture cleanripInstructions %}
-### Cleanrip guide
+### Poradnik CleanRip
 {% include_relative cleanrip.md %}
 {% endcapture %}
 
 {% capture networkInstructions %}
-### Dumping a game over a local network
+### Wykonywanie kopii zapasowej gry poprzez siec lokalną
 {% include_relative dump-smb.md %}
 {% endcapture %}
 
