@@ -11,7 +11,7 @@ Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołączy 
 
 Bluebomb jest exploitem, który korzysta z dziury w zabezpieczeniach bibliotek Bluetooth'a w Wii oraz Wii Mini. Jest to jedyny exploit, który działa na Wii Mini, aczkolwiek może również zostać użyty na oryginalnym Wii. Ten exploit może również pomóc naprawić niektóre bricki - na przykład banner brick.
 
-For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
+Jeżeli korzystasz z oryginalnego Wii, nie zalecamy używania BlueBomb. Istnieją inne wygodne exploity jeśli chcesz zainstalować Homebrew Channel lub BootMii.
 {: .notice--info}
 
 Ten exploit nie zadziała na vWii (Tryb Wii w Wii U) Zamiast tego, skorzystaj z [tego poradnika](https://wiiuguide.xyz/#/vwii-modding).
@@ -36,7 +36,7 @@ Ten exploit nie zadziała na vWii (Tryb Wii w Wii U) Zamiast tego, skorzystaj z 
 - (Jeżeli próbujesz naprawić bricka, powinieneś również skopiować aplikację homebrew z której chcesz skorzystać do /apps/)
 1. Wypakuj go oraz skopiuj plik `boot.elf` na Twój pendrive.
 1. Podłącz pendrive do Twojej konsoli. Na Wii Mini, port USB jest na tyle konsoli. Na oryginalnym Wii, użyj dolnego portu. (Lub portu po prawej, jeżeli konsola stoi).
-1. Włącz konsolę oraz przejdź do menu ustawień. On the top right corner you will see a 4-character code like the one in the picture below. Ten kod jest Twoją wersją systemu operacyjnego. Zapisz go, będziemy tego potrzebowali później. Po zrobieniu tego, wyłącz Twoją konsolę. ![Wersja System Menu](/images/Wii/SystemMenuVersion.png)
+1. Włącz konsolę oraz przejdź do menu ustawień. W górnym prawym rogu ujrzysz 4 znakowy kod, taki jak na zdjęciu poniżej. Ten kod jest Twoją wersją systemu operacyjnego. Zapisz go, będziemy tego potrzebowali później. Po zrobieniu tego, wyłącz Twoją konsolę. ![Wersja System Menu](/images/Wii/SystemMenuVersion.png)
 1. Uruchom Twoją dystrybucję Linux'a oraz upewnij się, że jesteś podłączony do Internetu.
 1. Otwórz Linux'owy Terminal
 1. Uruchom poniższą komendę:
@@ -54,7 +54,7 @@ chmod +x bluebomb-helper.sh
 Upewnij się, że konsola jest blisko komputera podczas wykonywania exploitu. Najlepiej, żeby odległość wynosiła mniej niż metr.
 {: .notice--info}
 
-Konsola powinna teraz uruchomić instalator HackMii. You can now shut down your Linux computer if you are not planning to use it later.
+Konsola powinna teraz uruchomić instalator HackMii. Możesz teraz wyłączyć Twój komputer z Linux'em, jeżeli nie będziesz z niego korzystał.
 
 [Jeżeli używasz Wii, przejdź do instalacji Homebrew Channel oraz BootMii](hbc)
 {: .notice--info}
