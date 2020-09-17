@@ -53,5 +53,5 @@ Jeżeli wybierzesz opcję, żeby uruchomić podczas włączania komputera, nie m
 5. Po ukończeniu, w folderze `WAD` przy RiiConnect24Patcher.bat zobaczysz plik o nazwie `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` lub `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`
 6. W Dolphin'ie, naciśnij na `Narzędzia`, `Zainstaluj WAD` oraz wybierz `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` lub `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
 
-To tyle! Unfortunately, Nintendo Channel and Wii Mail don't work in Dolphin yet.
+To tyle! Niestety, Nintendo Channel i Wii Mail jeszcze nie działają w Dolphinie.
 {: .notice--info}
