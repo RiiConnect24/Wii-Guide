@@ -1,5 +1,5 @@
 ---
-title: "Deleting VFFs"
+title: "Διαγραφή VFF"
 ---
 
 {% include toc title="Table of Contents" %}
