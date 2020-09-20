@@ -24,7 +24,7 @@ Unfortunately, Priiloader is not able to read the hacks list from USB drives. It
 #### Instructions
 ##### Section I - Downloading/Installing
 
-1. Download Priiloader and extract it to the root of your SD card.
+1. Download Priiloader and extract it to the `apps` folder on your SD card or USB drive.
 2. Insert your SD card into your Wii, and launch Priiloader from the Homebrew Channel.
 
 ##### Section II - Installing Priiloader
