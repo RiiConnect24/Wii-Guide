@@ -38,6 +38,9 @@ Unfortunately, Priiloader is not able to read the hacks list from USB drives. It
 ##### Section III - Entering/Configuring Priiloader
 
 1. Hold the RESET button while turning on your Wii.
+:   If you are using a Wii mini, plug in a USB keyboard and hold escape while turning it on
+
+
 ![Turn on](/images/Priiloader/5.jpg)
 ![Hold RESET](/images/Priiloader/4.jpg)
 
@@ -76,6 +79,14 @@ This is a list of the hacks you can enable with Priiloader.
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Re-enable channels with these title IDs (originally blocked in system updates due to them being exploits).                   |
 | Force Disc Games to run under IOS249    | Make discs use cIOS 249 as the game's IOS. Can be used to play burned games if there is a cios present in that slot          |
 
-[Continue to cIOS](cios)<br>
-cIOS are used to play games with a USB Loader. Even if you don't want to do that, it's useful for many homebrew apps.
+Continue to installing cIOS<br>
+{: .notice--info}
+
+cIOS are used to play games with a USB Loader. Even if that's not something you want to do, it's useful for many homebrew apps.
+{: .notice--info}
+
+If using a Wii mini, follow [this guide](cios-mini) to install cIOS
+{: .notice--info}
+
+If using a normal Wii, follow [this guide](cios) to install cIOS
 {: .notice--info}
