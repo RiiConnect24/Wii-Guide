@@ -21,7 +21,7 @@ title: "cIOS (προσαρμοσμένο IOS)"
 
 ##### Μέρος I - Λήψη
 
-1. Εξάγετε το d2x cIOS Installer και τοποθετήστε το στον φάκελο `apps` στο αποθηκευτικό σας μέσο.
+1. Download d2x cIOS Installer and extract it to the `apps` folder on your SD card or USB drive.
 1. Εισάγετε το αποθηκευτικό σας μέσο στο Wii και εκκινήστε το d2x cIOS Installer από το Κανάλι Homebrew.
 
 ##### Μέρος II - Εγκατάσταση
