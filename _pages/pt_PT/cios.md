@@ -21,7 +21,7 @@ Se tens uma Wii mini, instala [este cIOS](cios-mini). Tentar instalar qualquer o
 
 ##### Secção I - Descarregamento
 
-1. Extrai o Instalador d2x cIOS e coloca-o na pasta `apps` no teu cartão SD ou USB drive.
+1. Download d2x cIOS Installer and extract it to the `apps` folder on your SD card or USB drive.
 1. Insere o teu cartão SD ou USB drive na tua Wii, e abre o Instalador d2x cIOS a partir do Homebrew Channel.
 
 ##### Secção II - Instalação
