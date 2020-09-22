@@ -62,7 +62,21 @@ You may not want to run a patcher each time you want to play on Wiimmfi, and may
 2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the patcher for your game.
 3. Once it's finished, get the version out of the `wiimmfi-images` folder (it may be in the folder outside of the patcher - ../wiimmfi-images) and copy it back to your USB.
 
-### Automatic patching using an USB-Loader
+### Automatic patching from the Disc Channel using Priiloader
+
+#### What you need
+- A Wii with Priiloader 0.9 or later installed
+
+If you have an older version of Priiloader, follow [this guide](priiloader) to update.
+{: .notice--info}
+
+#### Instructions
+1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
+2. Go to `System Menu Hacks`.
+3. Make sure the `Wiimmfi patch v2` hack is enabled.
+4. Save settings and exit.
+
+### Automatic patching using a USB-Loader
 If you are already using USB Loader GX, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi. 
 
 ### WiiWare Patching
