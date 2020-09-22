@@ -62,51 +62,65 @@ Magari vorresti non caricare un patcher ogni volta che vuoi giocare su Wimmfi, e
 2. Lancia il patch script per il tuo OS: solitamente finisce con `.bat` per Windows e `.sh` per Mac/Linux. Se stai usando RiiConnect24 Patcher, seleziona il tuo dispositivo (Wii, vWii o Dolphin) e scegli il patcher per il tuo gioco.
 3. Once it's finished, get the version out of the `wiimmfi-images` folder (it may be in the folder outside of the patcher - ../wiimmfi-images) and copy it back to your USB.
 
-### Patching automatico usando un USB-Loader
+### Automatic patching from the Disc Channel using Priiloader
+
+#### Di cosa hai bisogno
+- A Wii with Priiloader 0.9 or later installed
+
+If you have an older version of Priiloader, follow [this guide](priiloader) to update.
+{: .notice--info}
+
+#### Instructions
+1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
+2. Go to `System Menu Hacks`.
+3. Make sure the `Wiimmfi patch v2` hack is enabled.
+4. Save settings and exit.
+
+### Automatic patching using a USB-Loader
 If you are already using USB Loader GX, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
 
 ### WiiWare Patching
-Puoi patchare giochi WiiWare per giocarli su Wimmfi.
+You can patch WiiWare games in order to play them on Wiimmfi.
 
-#### Di cosa hai bisogno
+#### What you need
 
-- Una scheda SD
-- Una copia del tuo gioco (in formato WAD)
-- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Solo per Windows)  
-**oppure**
-- [Auto WiiWare Patcher](https://github.com/RiiConnect24/auto-wiiware-patcher/releases) (multi-piattaforma)
+- An SD card
+- Your copy of your game (in WAD format)
+- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows only)  
+**or**
+- [Auto WiiWare Patcher](https://github.com/RiiConnect24/auto-wiiware-patcher/releases) (cross platform)
 - [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
-[Se vuoi vedere come usare il WiiWare Patcher, clicca qui!](wiiwarepatcher)
+[If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
 {: .notice--info}
 
-Passaggi:
-1. Estrai la .zip della versione più recente di Auto WiiWare Patcher, ed inseriscici il tuo WAD dentro.
-2. Lancia il patch script per il tuo OS: solitamente finisce con `.bat` per Windows e `.sh` per Mac/Linux. Se stai usando RiiConnect24 Patcher, seleziona il tuo dispositivo (Wii, vWii o Dolphin) e scegli il WiiWare patcher.
-3. Se si completa con successo, installa il WAD che si è generato in `wiiware-wads` con Wii Mod Lite.
+Steps:
+1. Extract the .zip of the latest version of Auto WiiWare Patcher, and put your WAD in it.
+2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
+3. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
 
 ## Altre cose
 
-### Competizioni di Mario Kart Wii
-Wimmfi ti permette di giocare a competizioni di Mario Kart Wii nuovamente.
+### Mario Kart Wii Competitions
+Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
-#### Di cosa hai bisogno
+#### What you need
 
-- Una scheda SD o dispositivo USB
+- An SD card or USB drive
 - Mario Kart Wii Competition Patcher
    - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
    - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
-#### Istruzioni (per Wii)
+#### Instructions (for Wii)
 
-1. Estrai Mario Kart Wii Competition Patcher e mettilo nella cartella `apps` della tua scheda SD.
-2. Inserisci la tua scheda SD o dispositivo USB dentro la tua Wii.
-3. Carica il Mario Kart Wii originale (non patchato da Wiimmfi).
-4. Naviga su Impostazioni -> Impostazioni Network (o Nintendo WFC) -> Servizio Messaggi. Se hai attivato l'opzione del servizio messaggi, disattivala e riattivala nuovamente.
-5. Carica Mario Kart Wii Competition Patcher.
-6. Il patcher cercherà dei salvataggi per Mario Kart Wii nella memoria in vari posti, e gli uploaderà. Questo viene fatto in caso una competizione mancante è trovata nei tuoi salvataggi. Ed inoltre, ovviamente, patcherà la tua Wii per le competizioni.
+1. Extract Mario Kart Wii Competition Patcher and put it in the `apps` folder on your SD Card.
+2. Insert your SD card or USB drive into the Wii.
+3. Launch the original Mario Kart Wii game (not Wiimmfi patched).
+4. Navigate to Settings -> Network Settings (or Nintendo WFC Connection) -> Message Service. If you turned the message service feature on, turn it off and turn it on again.
+5. Launch Mario Kart Wii Competition Patcher.
+6. The patcher will look for save files for Mario Kart Wii on your storage device in various places, and upload them. This is done in case a missing competition is found in your save file. It will also, of course, patch your Wii for competitions.
 
-Se stai usando una Wii U, dovrai lanciare il patcher competizioni ogni volta che vuoi vedere se c'è una competizione, perché WiiConnect24 non è attivato sulla Wii U.
+If you're using the Wii U, you will have to run the competitions patcher whenever you want to check for a competition, because WiiConnect24 is not enabled on the Wii U.
 {: .notice--info}
 
 ### DS Games
