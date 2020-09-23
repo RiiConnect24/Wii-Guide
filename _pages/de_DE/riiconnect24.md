@@ -90,6 +90,8 @@ It's recommended to set your DNS to enhance the use of RiiConnect24 and Wiimmfi 
 15. Bei `Blinksignal`, empfehlen wir, die Beleuchtung entweder auf `Schwach` oder `Stark` zu setzen, dies ist aber nicht zwingend erforderlich.
 16. Abschließend, gehe in den Bereich `Internet`, dann `Vertrag/Kontrakt`, dann `Ja`. Bitte lies es dir durch.
 
+If it shows `WiiConnect24 and Wii Shop Channel service is not currently being offered in your country` while trying to accept the user agreement, go to Wii Settings -> Last Page -> Country and change it to United Kingdom or United States. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
+{: .notice--warning}
 
 [Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
 {: .notice--info}
@@ -106,8 +108,6 @@ If you get error 107304, then perhaps your ISP blocks the use of custom DNS. A w
 [If you get error NEWS000006, following this tutorial should fix it.](news000006)
 {: .notice--warning}
 
-[If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, please go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
-{: .notice--warning}
 
 [If you're getting a discontinued message when opening the News or Forecast Channel, then following this tutorial should fix it.](deleting-vffs)
 {: .notice--warning}
