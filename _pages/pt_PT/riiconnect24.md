@@ -90,11 +90,13 @@ It's recommended to set your DNS to enhance the use of RiiConnect24 and Wiimmfi 
 15. Em `Slot Illumination`, nós recomendamos que configures o brilho do disco para `Dim` ou `Bright`, mas isso é opcional.
 16. Finalmente, vai até à secção `Internet`, depois `User Agreements` ou `Agreement/Contact`, e depois `Yes`. Por favor, lê sobre isto.
 
+If it shows `WiiConnect24 and Wii Shop Channel service is not currently being offered in your country` while trying to accept the user agreement, go to Wii Settings -> Last Page -> Country and change it to United Kingdom or United States. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
+{: .notice--warning}
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. Esta instalação é opcional.
+[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
 {: .notice--info}
 
-Se obtiveres o erro 107245, provavelmente o patch falhou no teu IOS.
+If you get error 107245, then you probably have failed to patch your IOS correctly.
 {: .notice--info}
 
 If you get error 107304, then perhaps your ISP blocks the use of custom DNS. A workaround for this can be running your own DNS server! See the [RiiConnect24 DNS Server on GitHub](https://github.com/RiiConnect24/DNS-Server), then use your PC's IP address in place of our DNS in Step 8.
@@ -103,11 +105,9 @@ If you get error 107304, then perhaps your ISP blocks the use of custom DNS. A w
 [If you get error FORE000006, following this tutorial should fix it.](riiconnect24-batteryfix)
 {: .notice--warning}
 
-[Se estiveres a obter o erro NEWS000006, seguir este tutorial poderá corrigi-lo.](news000006)
+[If you get error NEWS000006, following this tutorial should fix it.](news000006)
 {: .notice--warning}
 
-[Se estiveres a obter erros como `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, por favor vai a Wii Settings -> Ultima página -> Country e muda para United Kingdom. Tu obterás este erro quando utilizas um país que nós não temos suporte. Contacta-nos em [support@riiconnect24.net](mailto:support@riiconnect24.net) se precisares de mais ajuda.
-{: .notice--warning}
 
 [Se estiveres a obter uma mensagem de descontinuação ao abrir o News ou Forecast Channel, então segue este guia para corrigi-lo.](deleting-vffs)
 {: .notice--warning}
