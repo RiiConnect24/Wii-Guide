@@ -55,11 +55,11 @@ Select cIOS version: 65535
 
 ##### Options disponibles une fois terminé
 
-Vous pouvez maintenant utiliser des homebrews comme [USB Loader GX](usbloadergx).
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
 {: .notice--info}
 
-[Continuer vers l'Homebrew Browser](hbb)<br> L'Homebrew Browser est un bon endroit pour télécharger des homebrew pour votre Wii. Ceci est facultatif à installer.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 
-[Continuer vers la navigation du site](site-navigation)<br> Nous proposons beaucoup d'autres tutoriels que vous pourriez sûrement aimer.
+You can now use homebrew such as [USB Loader GX](usbloadergx).
 {: .notice--info}
