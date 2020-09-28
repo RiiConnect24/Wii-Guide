@@ -18,9 +18,6 @@ Por favor **não** instales Priiloader numa vWii (modo Wii na Wii U). Vais brick
 * Um cartão SD
 * [Priiloader](/assets/files/Priiloader_v0_9.zip)
 
-Infelizmente, o Priiloader não é capaz de ler a lista de hacks a partir de USB drives. Ele só pode carregar a partir de um Cartão SD.
-{: .notice--warning}
-
 #### Instruções
 ##### Secção I - Descarregando/Instalando
 
