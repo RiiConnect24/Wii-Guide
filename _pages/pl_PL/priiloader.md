@@ -18,9 +18,6 @@ Priiloader dodaje dodatkowy poziom ochrony przez brickiem na Twoje Wii. Ładuje 
 * Karta SD
 * [Priiloader](/assets/files/Priiloader_v0_9.zip)
 
-Niestety, Priiloader nie może odczytywać listy hacków z urządzeń USB. Może je tylko załadować z karty SD.
-{: .notice--warning}
-
 #### Instrukcje
 ##### Sekcja I - Pobieranie/Instalowanie
 
