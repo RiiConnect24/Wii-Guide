@@ -18,9 +18,6 @@ Bitte installiere den Priiloader **nicht** auf einer vWii (Wii-Modus auf der Wii
 * An SD card
 * [Priiloader](/assets/files/Priiloader_v0_9.zip)
 
-Unfortunately, Priiloader is not able to read the hacks list from USB drives. It can only load them from an SD Card.
-{: .notice--warning}
-
 #### Anleitung
 ##### Abschnitt 1 - Herunterladen/Installieren
 
