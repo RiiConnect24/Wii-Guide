@@ -18,9 +18,6 @@ title: "Priiloader"
 * An SD card
 * [Το Priiloader](/assets/files/Priiloader_v0_9.zip)
 
-Unfortunately, Priiloader is not able to read the hacks list from USB drives. It can only load them from an SD Card.
-{: .notice--warning}
-
 #### Οδηγίες
 ##### Μέρος I - Κατέβασμα/Εγκατάσταση
 
