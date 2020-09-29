@@ -39,7 +39,7 @@ Requires at least 3GB of RAM. Ethernet connection required. Works on VM's.
 {% endcapture %}
 <div class="notice--info">{{ notice-2 | markdownify }}</div>
 
-<i class="fa fa-magnet" aria-hidden="true" title="This is a magnet link. Use a torrent client to download the file."></i>
+<i class="fa fa-magnet" aria-hidden="true" title="Este es un enlace magnético. Use a torrent client to download the file."></i>
 **Bootable image with RiiConnect24 Patcher:**
 
 - [BitTorrent - RiiConnect24 Patcher Windows PE_x86.iso](magnet:?xt=urn:btih:a76a17999ba6cb7f528bea9dc39ad4cfcac2d62a&dn=RiiConnect24%20Patcher%20Windows%20PE%5Fx86.iso&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://p4p.arenabg.ch:1337/announce&tr=http://p4p.arenabg.com:1337/announce&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://tracker3.itzmx.com:6961/announce&tr=http://tracker4.itzmx.com:2710/announce&tr=http://tracker1.itzmx.com:8080/announce&tr=udp://tracker.moeking.me:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://bt2.archive.org:6969/announce&tr=udp://bt1.archive.org:6969/announce&tr=udp://explodie.org:6969/announce)
@@ -50,7 +50,7 @@ Requires at least 3GB of RAM. Ethernet connection required. Works on VM's.
 If you still can't run RiiConnect24 Patcher, please send us a mail at support@riiconnect24.net
 {: .notice--info}
 
-#### Instructions
+#### Instrucciones
 
 ##### Sección I - Parcheando los IOS
 
@@ -63,7 +63,7 @@ If you still can't run RiiConnect24 Patcher, please send us a mail at support@ri
 4. For this guide, choose "`Install RiiConnect24 on your Wii`" ![Instalar RiiConnect24](/images/RC24_Patcher/3.PNG)
 5. Choose "`Express (Recommended)`". It will give you everything you need. ![Configuración Express](/images/RC24_Patcher/4.PNG)
 6. Select your region. ![Seleccione su región](/images/RC24_Patcher/5.PNG)
-7. Connect the SD Card or USB Drive to your computer and select "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/6.PNG)
+7. Connect the SD Card or USB Drive to your computer and select "`1`". ![Habilitar la copiando a la tarjeta SD](/images/RC24_Patcher/6.PNG)
 8. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again. ![Detectado con éxito](/images/RC24_Patcher/7.PNG)
 9. Be patient... ![¡Está parcheando!](/images/RC24_Patcher/8.PNG)
 10. Once it's done, you can now safely close the patcher. All of the files are ready on your SD Card. ![¡Está hecho!](/images/RC24_Patcher/9.PNG) ![Archivos copiados](/images/RC24_Patcher/10.PNG)
