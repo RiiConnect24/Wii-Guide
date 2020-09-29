@@ -70,7 +70,7 @@ Tal vez no quieras tener que iniciar el parche cada vez que desees jugar en Wiim
 If you have an older version of Priiloader, follow [this guide](priiloader) to update.
 {: .notice--info}
 
-#### Instructions
+#### Instrucciones
 1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
 2. Go to `System Menu Hacks`.
 3. Make sure the `Wiimmfi patch v2` hack is enabled.
@@ -84,7 +84,7 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 
 #### What you need
 
-- An SD card
+- Un tarjeta SD
 - Your copy of your game (in WAD format)
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows only)  
 **or**
@@ -106,12 +106,12 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
 #### Que necesitas
 
-- An SD card or USB drive
+- Un tarjeta SD o unidad USB
 - Mario Kart Wii Competition Patcher
    - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
    - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
-#### Instructions (for Wii)
+#### Instrucciones (para Wii)
 
 1. Extract Mario Kart Wii Competition Patcher and put it in the `apps` folder on your SD Card.
 2. Insert your SD card or USB drive into the Wii.
@@ -123,10 +123,10 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 If you're using the Wii U, you will have to run the competitions patcher whenever you want to check for a competition, because WiiConnect24 is not enabled on the Wii U.
 {: .notice--info}
 
-### DS Games
+### Juegos de DS
 Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks to an exploit called nds-constraint, you can play DS games without patching your games.
 
-#### What you need
+#### Que necesitas
 
 - A Wi-Fi network with WEP or no security
 
