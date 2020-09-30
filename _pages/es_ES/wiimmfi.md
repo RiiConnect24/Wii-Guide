@@ -102,7 +102,7 @@ Steps:
 ## Otras cosas
 
 ### Mario Kart Wii Competitions
-Wiimmfi allows you to participate in Mario Kart Wii competitions again.
+Wiimmfi te permite volver a participar en competiciones de Mario Kart Wii.
 
 #### Que necesitas
 
@@ -124,7 +124,7 @@ If you're using the Wii U, you will have to run the competitions patcher wheneve
 {: .notice--info}
 
 ### Juegos de DS
-Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks to an exploit called nds-constraint, you can play DS games without patching your games.
+Wiimmfi no solo soporta juegos de Wii, también soporta un montón de juegos de Nintendo DS. Gracias a un exploit llamado nds-constraint, también puedes jugar a juegos de la DS sin tener que parchearlos.
 
 #### Que necesitas
 
