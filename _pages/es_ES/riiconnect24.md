@@ -31,11 +31,11 @@ There is no guide to installing RiiConnect24 on a Wii Mini, as attempting to ins
 
 #### What if I'm not a Windows user?
 {% capture notice-2 %}
-Are you a Linux or macOS user and can't use the Windows version of the patcher?
+¿Eres un usuario de Linux o macOS y no puedes usar la versión de Windows del parcheador?
 
-We've prepared a bootable .ISO image for you that will boot you to Windows PE - a minimal version of Windows that will allow you to use the patcher. This is not required if you use Windows.
+Hemos preparado una imagen ISO arrancable que te permitira usar Windows PE - Una version ligera de Windows que te permitirá usar el parcheador. This is not required if you use Windows.
 
-Requires at least 3GB of RAM. Ethernet connection required. Works on VM's.
+Requires at least 3GB of RAM. Requiere conexión por Ethernet. Funciona en maquinas virtuales.
 {% endcapture %}
 <div class="notice--info">{{ notice-2 | markdownify }}</div>
 
