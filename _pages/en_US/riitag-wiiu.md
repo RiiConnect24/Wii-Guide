@@ -18,7 +18,7 @@ RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynam
 - The latest release of [Wii U Plugin Loader](https://github.com/Maschell/WiiUPluginLoader/releases)
 - The latest release of [UTag plugin](https://github.com/RiiConnect24/UTag/releases)
 - The latest release of [Flump's Coldboot Haxchi Mod](https://www.dropbox.com/sh/gxkf72jia1adpyg/AACPMfGU2AyWUZmhU2awjSsca/Haxchi-CBHC%20Flump%20Mod.zip?dl=1)
-   - This Coldboot Haxchi mod is used in Section IV. You do not need to download it if you can't use Coldboot Haxchi, or you do not want Wii U Plugin Loader loading on startup.
+   - This Coldboot Haxchi mod is used in Section III. You do not need to download it if you can't use Coldboot Haxchi, or you do not want Wii U Plugin Loader loading on startup.
 
 #### Instructions
 
@@ -66,7 +66,7 @@ We will now setup Wii U Plugin Loader to run on startup with your Wii U. **This 
 7. Use the D-Pad to navigate the cursor to the game you previously installed Haxchi to and press the A button to install the Coldboot Haxchi mod.
 8. Turn off your Wii U, and restart it.
 9. At the `Autobooting...` screen, press Home to open the Coldboot Haxchi menu.
-10. Use the + Control Pad on the Wii U GamePad to navigate to `Autoboot:`. Change it to SDCafiine.
+10. Use the +Control Pad on the Wii U GamePad to navigate to `Autoboot:`. Change it to SDCafiine.
 11. Finally, navigate to `WiiU System Menu`, and press A to be kicked to the Wii U Menu.
 
 You have now set up RiiTag on your Wii U! Now go play some games, and watch them show up on your RiiTag!
