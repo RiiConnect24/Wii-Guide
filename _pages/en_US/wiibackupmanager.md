@@ -13,7 +13,7 @@ Wii Backup Manager is a program to copy Wii games from your computer to a USB dr
 * A USB drive
 * [Wii Backup Manager](https://static.wiidatabase.de/Wii-Backup-Manager.zip)
 
-We recommend you use Witgui if you use macOS. Wii Backup Manager doesn't work on macOS.
+We recommend you use [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS. Wii Backup Manager doesn't work on macOS.
 {: .notice--info}
 
 To play multiple games, we recommend a USB-powered external hard drive for your Wii. We will refer to it as a "USB drive" in this guide. Most of the ones you can find on the market should work fine if they have USB 2 backwards compatibility. Drives with 1 TB or more in capacity will work. A flash drive will also work, but due to the size of a flash drive, it won't be able to store as many games.
