@@ -15,15 +15,15 @@ In the case of a brick, [installing Priiloader is a must](/priiloader). Also, in
 #### What you need
 
 * A Wii
-* A USB Drive.
+* A USB drive.
 * A WAD Manager (Wii Mod Lite is recommended).
 * A Windows computer.
 * [WiiGSC](https://wiidatabase.de/downloads/pc-tools/wiigsc-ehemals-crap/)
 
 #### Instructions
 
-1. Install WiiGSC and then open it.
-2. Select the path to the ISO or WBFS file on your USB Drive, and select the USB Loader you use. The other options should be fine the way thy are.
+1. Install WiiGSC, then right click on it and choose **Run as administrator**. If you do not do this, WiiGSC will throw an error when you open it.
+2. Select the path to the ISO or WBFS file on your USB drive, and select the USB Loader you use. The other options should be fine the way thy are.
 3. If you're using USB Loader GX, you cannot use revision 1272 to use shortcuts. You need to use revision 1271 (or an earlier version if you need to use one for some reason).
 4. Do not make game shortcuts for "A Boy and His Blob" or "Mario Party 9". Those will brick your Wii.
 5. Install the generated WAD with a WAD Manager, we recommend Wii Mod Lite.

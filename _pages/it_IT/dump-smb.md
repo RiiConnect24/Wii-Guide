@@ -4,7 +4,7 @@ title: "Copiare un gioco si rete locale"
 
 {% include toc title="Table of Contents" %}
 
-Se hai bisogno di aiuto per questo tutorial, vai su [il server di Discors su RiiConnect24](https://discord.gg/b4Y7jfD) (raccomandato) oppure [scrivi una e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se hai bisogno di aiuto per questo tutorial, vai sul [server Discord RiiConnect24](https://discord.gg/b4Y7jfD) (raccomandato, solo in inglese) oppure [scrivi una e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Vuoi copiare giochi tramite la tua rete locale? Segui questo tutorial! Questo può essere utile se non hai una scheda SS on un dispositivo USB abbatsanza grande su cui mettere il gioco.
@@ -30,7 +30,7 @@ La tua Wii ed il tuo computer devono essere collegati ad una rete locale
 
 1. Premi i pulsante destra sul d-pad e premi "A" ![2](/images/DumpDiscs_LAN/2.png)
 1. Scegli il disco che vuoi copiare (Le opzioni sono: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` e premi "A" ![3](/images/DumpDiscs_LAN/3.png)
-1. Ora metti il tuo gioco nella Wii. (Se è già dentro, estrailo e rimettilo) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
+1. Ora metti il tuo gioco nella Wii. (If it's already in your Wii, eject it and put it back) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
 1. Ricordati il tuo URL Wii (Indirizzo IP) ![5](/images/DumpDiscs_LAN/5.png)
 1. Sul tuo computer nel tuo browser, inserisci il tuo URL Wii e premi INVIO. ![6](/images/DumpDiscs_LAN/6.png)
 1. Dovresti vedere questo. Clicca su ` Clicca qui per scaricare XXXX.ios` ![7](/images/DumpDiscs_LAN/7.jpg)

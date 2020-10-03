@@ -4,7 +4,7 @@ layout: single
 sitemap: false
 ---
 
-![PoradnikiWii](/images/WiiTutorials.jpg)
+![WiiTutorials](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
 **Wyróżnione**
@@ -18,11 +18,13 @@ sitemap: false
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
 + [RiiConnect24](riiconnect24)
-+ ["Naprawa baterią" RiiConnect24 ](riiconnect24-batteryfix)
-+ [Rozwiązywanie problemów z RiiConnect24](riiconnect24-troubleshooting)
-+ [RiiConnec24 na vWii](riiconnect24-vwii)
++ [RiiConnect24 vWii](riiconnect24-vwii)
++ [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
++ [Kasowanie plików .VFF](deleting-vffs)
++ [Naprawianie błędu FORE000006](riiconnect24-batteryfix)
++ [Naprawianie błędu NEWS000006](news000006)
 
 **Modowanie w pigułce**
 * [Wykonywanie kopii zapasowej korzystając z BootMii](bootmii)

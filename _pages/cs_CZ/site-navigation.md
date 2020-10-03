@@ -18,11 +18,13 @@ sitemap: false
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
 + [RiiConnect24](riiconnect24)
-+ [RiiConnect24 Battery Fix](riiconnect24-batteryfix)
-+ [RiiConnect24 Troubleshooting](riiconnect24-troubleshooting)
 + [RiiConnect24 vWii](riiconnect24-vwii)
++ [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
++ [Deleting VFFs](deleting-vffs)
++ [Fixing FORE000006](riiconnect24-batteryfix)
++ [Fixing NEWS000006](news000006)
 
 **Modding 101**
 * [BootMii Backup](bootmii)

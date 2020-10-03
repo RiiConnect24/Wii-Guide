@@ -9,7 +9,7 @@ Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [Rii
 
 ![RiiConnect24-Logo](/images/WiiRC24Logo.jpg)
 
-Dieses Tutorial scheint den Fehler NEWS0000006 nicht zu beheben. Sollte dieser Fehler weiterhin bestehen, könnte die einzige Möglichkeit ihn zu beheben sein, deine Wii zu initialisieren.
+Dieses Tutorial scheint den Fehler NEWS0000006 nicht zu beheben. [Falls du den Fehler NEWS000006 erhalten solltest, sollte dies durch das Befolgen dieser Anleitung behoben werden.](news000006)
 {: .notice--warning}
 
 Falls du den Fehler FORE000006 erhälst, bedeutet er normalerweise, dass die Daten ungültig sind. Auch wenn es unwahrscheinlich ist, kann es sein, dass es etwas auf unserer Seite sein könnte. Warte einige Minuten und versuche es dann erneut.

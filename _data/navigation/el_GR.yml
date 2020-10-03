@@ -4,11 +4,14 @@ main:
     title: Οδηγός Wii
     url: /
   - 
-    title: Συχνές ερωτήσεις
-    url: συχνές ερωτήσεις
+    title: Start Here
+    url: get-started
+  - 
+    title: FAQ
+    url: faq
   - 
     title: RiiConnect24
-    url: riiConnect24
+    url: riiconnect24
   - 
     title: Wiimmfi
     url: wiimmfi

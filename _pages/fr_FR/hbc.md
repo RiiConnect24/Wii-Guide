@@ -23,11 +23,11 @@ La chaîne homebrew peut permettre de lancer des applications homebrew. BootMii 
 
 5. Revenez en arrière et sélectionnez `BootMii`.
 6. Si l’écran vous dit que vous pouvez installer BootMii en tant que boot2, faites-le. Cela vous donne un niveau de protection anti-brick lors du démarrage de la Wii, et vous permet de charger des homebrew pour réparer un brick ou de restaurer la console depuis une sauvegarde NAND.
-7. S'il ne dit pas que vous pouvez l'installer comme boot2, installez BootMii en tant qu'IOS. Bien que cette option ne permet pas de protection anti-brick contrairement à la première, elle vous permet toujours d'effectuer une sauvegarde de la NAND.
+7. S'il ne dit pas que vous pouvez l'installer comme boot2, installez BootMii en tant qu'IOS. While this doesn't give you any brick protection, you will still be able to make a NAND backup.
 
 ![BootMii Installation](/images/Wii/InstallBootMii.jpg)
 
 8. Une fois terminé, sélectionnez `Continue` afin de quitter l'installateur HackMii.
 
-[Continuer vers la Sauvegarde BootMii](bootmii)<br> Créer une sauvegarde de la NAND de votre console à l’aide de BootMii est recommandé à ce stade.
+[Continue to making a NAND Backup using BootMii](bootmii) Making a NAND backup with BootMii at this point is highly recommended.
 {: .notice--info}

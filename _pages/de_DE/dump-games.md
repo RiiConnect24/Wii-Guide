@@ -2,13 +2,25 @@
 title: "Wii/GameCube-Spiele sichern"
 ---
 
-Du möchtest ein GameCube- oder Wii-Spiel legal sichern und auf deiner Wii spielen? In diesem Tutorial erklären wir dir, was dafür zu tun ist.
+Möchtest du ein GameCube- oder Wii-Spiel sichern? Es gibt zwei Wege dies zu tun, abhängig von den Werkzeugen, die dir zu Verfügung stehen.
 
-Bitte wähle, wie du die Disc sichern möchtest.
-{: .notice--warning}
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">Auf die SD-Karte/ein USB-Laufwerk</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">Auf einen PC über das Netwerk</button>
 
-[Ich möchte sie auf einer SD-Karte oder einem USB-Laufwerk sichern](cleanrip)
-{: .notice--info}
+{% capture cleanripInstructions %}
+### CleanRip-Anleitung
+{% include_relative cleanrip.md %}
+{% endcapture %}
 
-[Ich möchte sie direkt auf meinen PC über das Netzwerk sichern](dump-smb)
-{: .notice--info}
+{% capture networkInstructions %}
+### Ein Spiel über das lokale Netzwerk kopieren
+{% include_relative dump-smb.md %}
+{% endcapture %}
+
+<div id="cleanrip" class="blanktabcontent">{{ cleanripInstructions | markdownify }}</div>
+<div id="network" class="blanktabcontent">{{ networkInstructions | markdownify }}</div>
+
+<script>
+    let tabcontent = document.getElementsByClassName("blanktabcontent");
+    let tablinks = document.getElementsByClassName("tablinks");!!crwd_CB_1_BC_dwrc!!</script>
+

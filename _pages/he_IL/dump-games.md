@@ -2,13 +2,25 @@
 title: "חילוץ משחקי Wii / GameCube"
 ---
 
-רוצים לחלץ ולהעתיק משחק GameCube או Wii ולשחק בו ב Wii שלכם? במדריך זה, נסביר בדיוק כיצד זה אפשרי.
+Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
 
-יש לבחור איך ברצונך לחלץ ולהעתיק את המשחק.
-{: .notice--warning}
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">To a PC over the network</button>
 
-[אני רוצה לחלץ את המשחק ולהעתיק אותו לכרטיס SD או דיסק-און-קי](cleanrip)
-{: .notice--info}
+{% capture cleanripInstructions %}
+### Cleanrip guide
+{% include_relative cleanrip.md %}
+{% endcapture %}
 
-[אני רוצה לחלץ את המשחק ולהעתיק אותו ישירות למחשב דרך הרשת](dump-smb)
-{: .notice--info}
+{% capture networkInstructions %}
+### Dumping a game over a local network
+{% include_relative dump-smb.md %}
+{% endcapture %}
+
+<div id="cleanrip" class="blanktabcontent">{{ cleanripInstructions | markdownify }}</div>
+<div id="network" class="blanktabcontent">{{ networkInstructions | markdownify }}</div>
+
+<script>
+    let tabcontent = document.getElementsByClassName("blanktabcontent");
+    let tablinks = document.getElementsByClassName("tablinks");!!crwd_CB_1_BC_dwrc!!</script>
+

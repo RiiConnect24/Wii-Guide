@@ -2,13 +2,25 @@
 title: "Wykonywanie kopii zapasowej gier z Wii/GameCube"
 ---
 
-Chcesz legalnie wykonać kopię zapasową gry z Wii lub GameCube oraz zagrać w nie na Twojej Wii? Ten poradnik wytłumaczy Ci jak to zrobić.
+Chcesz wykonać kopię zapasową płyty z grą na Wii lub GameCube? W zależności od narzędzi jakimi dysponujesz, istnieją dwa sposoby aby to zrobić.
 
-Wybierz jak chcesz wykonać kopię zapasową płyty.
-{: .notice--warning}
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">Na kartę SD lub urządzenie USB</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">Na komputer za pomocą sieci</button>
 
-[Chcę wykonać kopię zapasową na kartę SD / urządzenie USB](cleanrip)
-{: .notice--info}
+{% capture cleanripInstructions %}
+### Poradnik CleanRip
+{% include_relative cleanrip.md %}
+{% endcapture %}
 
-[Chcę wykonać kopię zapasową bezpośrednio do mojego komputera przez sieć](dump-smb)
-{: .notice--info}
+{% capture networkInstructions %}
+### Wykonywanie kopii zapasowej gry poprzez siec lokalną
+{% include_relative dump-smb.md %}
+{% endcapture %}
+
+<div id="cleanrip" class="blanktabcontent">{{ cleanripInstructions | markdownify }}</div>
+<div id="network" class="blanktabcontent">{{ networkInstructions | markdownify }}</div>
+
+<script>
+    let tabcontent = document.getElementsByClassName("blanktabcontent");
+    let tablinks = document.getElementsByClassName("tablinks");!!crwd_CB_1_BC_dwrc!!</script>
+

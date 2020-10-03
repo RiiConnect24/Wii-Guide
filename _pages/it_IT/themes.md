@@ -12,7 +12,7 @@ Stanco del noioso, piatto tema bianco del Wii Menu, e vuoi invece un tema figo? 
 In caso di blocco, [Installare Priiloader è necessario](priiloader). Installare anche BootMii (come Boot2 se hai già una Wii) Installare la protezione dai blocchi e seguire correttamente la guida ti tiene al sicuro da blocchi. NON CONTINUARE FINO A CHE NON HAI PRIILOADER E BOOTMII INSTALLATI!
 {: .notice--warning}
 
-Non installare un tema personale su vWii (Wii U)! Questo lo bloccherà.
+Do not install a custom theme on vWii (Wii U), unless it has been formatted specifically for the vWii and your Wii U's region! Check out [this GBATemp post](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) for more on vWii themes.
 {: .notice--warning}
 
 Per sicurezza, non usare altre versioni di MyMenuify fuorché quella indicata qui, MyMenuify Mod è il modo più sicuro per installare un tema.
@@ -31,7 +31,7 @@ Raccomandiamo [installa cIOS](cios) prima di continuare.
 * Un computer con Windows (oppure usare Mono o Wine su un Mac/Linux)
 * [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
-* [Questo post di GBAtemp](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
+* [This GBAtemp post](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/) or [our themes page](https://rc24.xyz/goodies/themes/)
 
 Assicurati di leggere questi avvertimenti prima di continuare!
 {: .notice--warning}
@@ -40,7 +40,7 @@ Assicurati di leggere questi avvertimenti prima di continuare!
 
 ##### Sezione I - Trovare un Tema
 
-* Ricerca il post su GBAtemp, trova il tema che vuoi installare. Alcuni hanno video su YouTube per mostrare com’è il tema, purtroppo alcuni non sono disponibili.
+* Peruse the GBAtemp post or our themes page, finding a theme you want to install. Alcuni hanno video su YouTube per mostrare com’è il tema, purtroppo alcuni non sono disponibili.
 * Trovato quello che ti piace, scarica la versione corrispondente al tuo Wii Menu. **È molto importante prendere quello giusto per evitare blocchi.**
 * Probabilmente scaricherai il link che dice 4.X, cioè il tema che funziona sulla versione 4.1, 4.2 e 4.3 del Wii Menu.
 * Alcuni temi hanno diversi link per diversi paesi, quindi seleziona quello corrispondente al paese della tua Wii.

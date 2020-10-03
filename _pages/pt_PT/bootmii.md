@@ -9,13 +9,16 @@ Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor 
 
 ![BootMii Logo](/images/bootmii.png)
 
-Um dos destaques mais importantes do BootMii é a habilidade de copiar e restaurar o armazenamento NAND da tua Wii. Veremos como executar uma cópia de segurança da NAND. Podes restaurar a partir dessa cópia para qualquer razão. Recomendamos fazer uma cópia da NAND regularmente ou antes de fazer algo arriscado para a tua consola (e se souberes o que estás a fazer, tu não farás nada arriscado).
+Tu precisas de um **cartão SD** para criar uma cópia NAND utilizando BootMii. Se não tiveres um cartão, podes passar esta página, embora seja muito recomendado criar uma cópia.
+{: .notice--warning}
+
+Um dos destaques mais importantes do BootMii é a habilidade de copiar e restaurar o armazenamento NAND da tua Wii. Vamos ver como se executa uma cópia de segurança da NAND. Podes restaurar a partir dessa cópia para qualquer razão. Recomendamos fazer uma cópia da NAND regularmente ou antes de fazer algo arriscado para a tua consola (e se souberes o que estás a fazer, tu não farás nada arriscado).
 
 #### Requisitos
 * Um cartão SD com. pelo menos, 512MB de espaço livre
 
 #### Instruções
-Se instalaste o BootMii como Boot2 no último passo, precisarás de abrir o BootMii reiniciando a consola. Salta os passos 1-2 se este for o caso.
+Se instalaste o BootMii como boot2 no último passo, precisarás de abrir o BootMii reiniciando a consola. Salta os passos 1-2 se este for o caso.
 {: .notice--info}
 1. Abre o Homebrew Channel.
 2. Pressiona o botão HOME, depois seleciona "Launch BootMii".
@@ -32,5 +35,5 @@ Se instalaste o BootMii como Boot2 no último passo, precisarás de abrir o Boot
 Para restaurar a partir de uma cópia NAND do teu cartão SD, podes seguir estas instruções utilizando o RestoreMii (o botão direito a seguir ao BackupMii com uma seta vermelha).
 {: .notice--info}
 
-[Continua para a instalação do Priiloader](priiloader)<br> Priiloader adiciona um nível de proteção para bricks, e nós recomendamos isso, especialmente se só tens o BootMii instalado como IOS.
+[Continua para a instalação do Priiloader](priiloader) Priiloader adiciona um nível de proteção para bricks, e nós recomendamos isso, especialmente se tiveres o BootMii instalado como IOS.
 {: .notice--info}

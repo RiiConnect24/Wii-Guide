@@ -9,6 +9,9 @@ Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz d
 
 ![Logo BootMii](/images/bootmii.png)
 
+Będziesz potrzebował **Karty SD**, aby utworzyć kopię zapasową NAND korzystając z BootMii. Jeżeli jej nie masz, możesz pominąć tą stronę, jednak zalecamy aby wykonać kopię jeżeli możesz.
+{: .notice--warning}
+
 Jedną z najważniejszych funkcji BootMii jest możliwość wykonania kopii zapasowej pamięci NAND Twojej konsoli Wii oraz przywrócenie jej. W tym poradniku, przedstawimy jak wykonać kopię zapasową pamięci NAND. Możesz ją później przywrócić z jakiegokolwiek powodu. Zalecamy utworzenie kopii zapasowej często lub przed tym jak będziesz robił coś niebezpiecznego Twojej konsoli.
 
 #### Wymagania
@@ -32,5 +35,5 @@ Jeżeli w ostatnim kroku zainstalowałeś BootMii jako boot2, musisz uruchomić 
 Aby przywrócić kopię zapasową z Twojej karty pamięci SD, podążaj za instrukcjami, które są podane w RestoreMii (ikona przy BackupMii z czerwoną strzałką).
 {: .notice--info}
 
-[Kontynuuj do instalacji Priiloader'a](priiloader)<br>. Priiloader jest jednym z zabezpieczeń przed brickiem, zalecamy instalację tego programu, szczególnie jeśli zainstalowałes BootMii tylko jako IOS.
+[Kontynuuj do instalacji Priiloader'a](priiloader). Priiloader jest jednym z zabezpieczeń przed brickiem, zalecamy instalację tego programu, szczególnie jeśli tylko mogłeś zainstalowałeś BootMii jako IOS.
 {: .notice--info}

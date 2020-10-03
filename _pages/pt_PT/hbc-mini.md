@@ -15,7 +15,7 @@ O Homebrew Channel é onde tu irás abrir aplicações homebrew.
 Esta página é **só** para utilizadores da Wii Mini. Se tens uma Wii regular, segue [este guia](hbc) em vez disto.
 {: .notice--info}
 
-Embora seja possível instalar o BootMii num Wii Mini, não poderás utilizá-lo, a menos que tenhas soldado em um slot para cartão SD.
+While it is possible to install BootMii on a Wii mini, you will need to solder an SD card slot.
 {: .notice--info}
 
 1. Irás ver um ecrã de aviso de scam. Espera 30 segundos para o texto "Press 1 to continue" aparecer, depois pressiona 1. ![Scam Screen](/images/Wii/ScamScreen.png)
@@ -27,5 +27,5 @@ Embora seja possível instalar o BootMii num Wii Mini, não poderás utilizá-lo
 
 1. Uma vez feito, seleciona `Exit` para saires do instalador HackMii.
 
+[Continue to installing Priiloader](priiloader) Priiloader offers protection from bricks, and is highly recommended to install.
 {: .notice--info}
-[Continua para a instalação dos cIOS do Wii Mini](cios-mini)

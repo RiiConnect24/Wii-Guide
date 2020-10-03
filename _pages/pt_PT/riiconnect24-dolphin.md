@@ -51,7 +51,7 @@ Se escolheste para executar no arranque, tu não precisas de fazer nada. Se quis
 3. Seleciona `Custom`. ![Select Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
 4. Pressiona `1` para selecionar a tua região e ativa só a 5ª opção. Pressiona `6` para começar o patch.
 5. Depois de acabar, terás um ficheiro na pasta WAD chamado `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` ou `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` depois do RiiConnect24Patcher.bat
-6. No Dolphin, pressiona `Tools` e depois `Install WAD`. e seleciona o `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` ou `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
+6. No Dolphin, clica em `Tools`, depois em `Install WAD` e seleciona o `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` ou `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
 
-E está terminado! Infelizmente, o Everybody Votes e Nintendo Channel ainda não funciona no Dolphin.
+E está terminado! Infelizmente, o Nintendo Channel e o Wii Mail ainda não funcionam no Dolphin.
 {: .notice--info}

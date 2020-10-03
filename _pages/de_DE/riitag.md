@@ -9,6 +9,9 @@ Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [Rii
 
 RiiTag ist ein anpassbarer und dynamischer Gamertag. Durch Teilen deines Gamertags (ein dynamische Bild), kannst du Freunden zeigen was du gespielt hast! Du kannst es mit einem USB-Loader verbinden und es aktualisiert sich selbstständig. Du brauchst ein Discord-Konto, um mit der Benutzung von RiiTag anzufangen.
 
+Möchtest du RiiTag auf deiner Wii U installieren? Siehe [diesen Guide](riitag-wiiu) um es mit deinem Wii U-Menü zu verbinden.
+{: .notice--info}
+
 #### Voraussetzungen
 
 * Ein Computer
@@ -71,5 +74,5 @@ Wenn du willst, kannst du das `CfgLoaderConfigurator.exe`-Programm (nur für Win
 5. Speichere die bearbeitete `config.txt`-Datei.
 6. Du hast jetzt RiiTag eingerichtet. Du kannst jetzt ein beliebiges Spiel starten, um zu sehen, dass es korrekt funktioniert.
 
-[Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
+[Fortfahren zur Seitennavigation](site-navigation)<br> Wir haben viele weitere Anleitungen, die dir gefallen könnten.
 {: .notice--info}

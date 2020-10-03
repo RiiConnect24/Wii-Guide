@@ -23,7 +23,7 @@ Het Homebrew Kanaal is de plek waarvan je al jouw homebrew applicaties kunt open
 
 5. Klik nu op `BootMii . . .`
 6. Als er nu `Install BootMii as boot2`, doe dit dan. Of dit kan of niet hangt ervan af hoe oud uw Wii is. Dit geeft uw Wii een extra bescherming tegen een "brick" omdat boot2 tegelijkertijd laad met het opstart proces van uw Wii. Dit zorgt ervoor dat u homebrew kunt laden om een "brick" te fixen door bijvoorbeeld een NAND back-up terug op uw Wii te zetten.
-7. Wij raden aan iedereen aan om `BootMii as IOS<code> te installeren. Dit al helemaal als u boot2 niet kon installeren. Hoewel alleen "BootMii as IOS" u niet de "brick" beveiliging geeft als boot2 en "BootMii as IOS", zal dit u nog steeds de optie geven om een NAND back-up (Een back-up van alle interne gegevens va uw Wii) te maken en /of terug te zetten.</li>
+7. Wij raden aan iedereen aan om `BootMii as IOS<code> te installeren. Dit al helemaal als u boot2 niet kon installeren. While this doesn't give you any brick protection, you will still be able to make a NAND backup.</li>
 </ol>
 
 <p spaces-before="0"><img src="/images/Wii/InstallBootMii.jpg" alt="BootMii installatie" /></p>
@@ -31,5 +31,5 @@ Het Homebrew Kanaal is de plek waarvan je al jouw homebrew applicaties kunt open
 <ol start="8">
 <li>Wanneer dit allemaal is geïnstalleerd klik dan op <code>Continue` en daarna op `Return to the main menu` om de HackMii installer te verlaten.
 
-[Verder gaan naar de BootMii Backup](bootmii)<br> Het maken van een NAND backup (Een backup van alle Wii software) met BootMii wordt op dit moment aangeraden.
+[Continue to making a NAND Backup using BootMii](bootmii) Making a NAND backup with BootMii at this point is highly recommended.
 {: .notice--info}

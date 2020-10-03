@@ -9,7 +9,7 @@ Als u hulp nodig heeft bij iets wat met deze tutorial te maken heeft, sluit u da
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-Deze tutorial lost de foutcode NEWS0000006 niet oplost. Helaas, als u dit probleem heeft, uw Wii formatteren zal dan de enige oplossing zijn om dit op te lossen.
+Deze tutorial lost de foutcode NEWS0000006 niet oplost. [If you get error NEWS000006, following this tutorial should fix it.](news000006)
 {: .notice--warning}
 
 Als u foutcode FORE000006 krijgt dan betekent dit meestal "onjuiste data". Het zou ook kunnen zijn dat er een fout zit aan onze kant maar deze kans schatten wij heel klein. Wacht een paar minuten en probeer het daarna opnieuw.

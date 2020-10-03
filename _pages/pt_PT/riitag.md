@@ -9,6 +9,9 @@ Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor 
 
 RiiTag é um gamertag dinâmico e personalizável. Ao partilhar a tua gamertag (uma imagem dinâmica), tu podes mostrar o que estiveste a jogar aos teus amigos! Conectas ao USB Loader e a tag atualiza-se automaticamente. Tu precisas de uma conta Discord para começares a utilizar o RiiTag.
 
+Queres instalar RiiTag na tua Wii U? Vê [este guia](riitag-wiiu) de como conectá-lo ao teu Menu Wii U.
+{: .notice--info}
+
 #### O que precisas
 
 * Um computador
@@ -26,7 +29,7 @@ RiiTag é um gamertag dinâmico e personalizável. Ao partilhar a tua gamertag (
 5. Clica em `Show Key` e anota a chave mostrada. Isto não é necessário se utilizas USB Loader GX, já que a chave será um ficheiro descarregável.
 6. Clica em `Submit` para guardar as mudanças.
 
-Não partilhes a tua chave RiiTag a ninguém! Se fizeres, as pessoas podem abusar da tua tag.
+Não partilhes a tua chave RiiTag a ninguém! Se o fizeres, as pessoas podem abusar da tua tag.
 {: .notice--warning}
 
 ##### Secção II - Conectar o teu USB Loader

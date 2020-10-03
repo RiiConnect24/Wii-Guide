@@ -30,7 +30,7 @@ Seu Wii e seu computador devem estar conectados à mesma rede local
 
 1. Pressione o botão direito no D-Pad e aperte "A" ![2](/images/DumpDiscs_LAN/2.png)
 1. Escolha o disco que deseja fazer backup (As opções são: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` e depois aperte "A" ![3](/images/DumpDiscs_LAN/3.png)
-1. Insira o disco no Wii. (Caso já esteja no console, ejete o disco e insira novamente) ![Insira o Disco](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
+1. Insira o disco no Wii. (Caso já esteja no Wii, ejete o disco e insira novamente) ![Insira o Disco](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
 1. Lembre-se da sua URL do Wii (endereço IP) ![5](/images/DumpDiscs_LAN/5.png)
 1. No navegador do seu computador, digite a URL do Wii / Endereço IP e aperte ENTER. ![6](/images/DumpDiscs_LAN/6.png)
 1. Você deverá ver isso. Clique em `Click here to download XXXX.iso` ![7](/images/DumpDiscs_LAN/7.jpg)

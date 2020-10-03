@@ -4,6 +4,9 @@ main:
     title: Wii Guide
     url: /
   - 
+    title: Start Here
+    url: get-started
+  - 
     title: FAQ
     url: faq
   - 
@@ -14,20 +17,20 @@ main:
     url: wiimmfi
 bottom:
   - 
-    title: For support in English, ask for help at <a href="https://discord.gg/b4Y7jfD">RiiConnect24 on Discord</a>.
+    title: For støtte i Engelsk, spør for hjelp i <a href="https://discord.gg/b4Y7fD">RiiConnect24 sin Discord</a>.
 footer:
   - 
-    title: Source
+    title: Kilde
     url: https://github.com/RiiConnect24/Wii-Guide/
   - 
-    title: Site Navigation
+    title: Side Navigasjon
     url: site-navigation
   - 
-    title: Donations
+    title: Donasjoner
     url: donations
 sidebar_title:
   - 
-    title: Overall Progress
+    title: All i all progress
 sidebar_pages:
   - 
     title: Wii Guide
@@ -36,10 +39,10 @@ sidebar_pages:
     title: FAQ
     url: faq
   - 
-    title: Donations
+    title: Donasjoner
     url: donations
   - 
-    title: Credits
+    title: Kreditt
     url: credits
   - 
     title: RiiConnect24

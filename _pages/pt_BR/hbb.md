@@ -16,8 +16,14 @@ O Homebrew Browser é onde você pode obter aplicativos homebrew. Ele foi reativ
 1. Extraia o Homebrew Browser e coloque dentro da pasta `apps `do seu Cartão SD ou USB.
 2. Insira o cartão SD ou USB no Wii. Agora você pode abrir o Homebrew Browser pelo Homebrew Channel.
 
-Incluído no download do Homebrew Browser, há um guia sobre como usar o Homebrew Browser.
+[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
 {: .notice--info}
 
-Você pode trocar o ShopChannel.ogg por loop.ogg para que o Homebrew Browser toque a música do Wii Shop Channel.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+{: .notice--info}
+
+Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
+{: .notice--info}
+
+You can swap out ShopChannel.ogg with loop.ogg to have the Homebrew Browser play the Wii Shop Channel music.
 {: .notice--info}

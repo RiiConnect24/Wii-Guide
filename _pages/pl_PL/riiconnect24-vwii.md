@@ -57,14 +57,22 @@ Używając RiiConnect24 Patcher'a, który już pobrałeś korzystając z [linku 
 4. Kiedy `IOS31.wad` będzie podświetlone, naciśnij +. Zrób to dla wszystkich innych plików WAD.
 5. Po ukończonej pomyślnie instalacji, naciśnij przycisk HOME aby wyjść do Homebrew Channel
 
-##### Sekcja III - Używanie RiiConnect24
+##### Sekcja III - Patchowanie 43db dla 16:9 (opcjonalnie)
 
-Po ukończeniu powyższych kroków, prawie ukończyłeś konfigurację RiiConnect24 na Twoim Wii U. Musisz jedynie wykonać poniższe kroki, **za każdym razem jak uruchomić vWii**.
+1. Uruchom Homebrew Channel
+2. Uruchom ww-43db-patcher
 
-1. W **menu głównym** vWii, uruchom **Homebrew Channel** oraz uruchom aplikację **ConnectMii**.
+Jeżeli zainstalujesz motyw, będziesz musiał ponownie uruchomić ww-43db-patcher
+{: .notice--info}
+
+##### Sekcja IV - Korzystanie z RiiConnect24
+
+Po wykonaniu powyższych czynności, jesteś prawie gotowy do korzystania z RiiConnect24 na Twoim Wii U. Będziesz musiał wykonać poniższe kroki **za każdym razem, kiedy uruchomisz vWii**.
+
+1. W vWii **Wii Menu**, uruchom **Homebrew Channel** oraz uruchom aplikację homebrew **ConnectMii**.
 * To umożliwi korzystanie z funkcji WiiConnect24 oraz Standby Connection, które są wymagane przez WiiConnect24.
 2. Uruchom jakiś kanał, który korzysta z WiiConnect24
-Powinieneś teraz być w stanie korzystać ze wszystkich kanałów, które są na Twoim Wii oraz korzystają z WiiConnect24.
+Powinieneś teraz być w stanie korzystać ze wszystkich kanałów, które są na Twoim Wii oraz korzystają z WiiConnect24!
 
 #### Co obecnie działa?
 Poniższe serwisy RiiConnect24 **działają** na vWii:

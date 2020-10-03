@@ -18,44 +18,46 @@ sitemap: false
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
 + [Instalar RiiConnect24](riiconnect24)
-+ [Solucionar error NEWS/FORE000006](riiconnect24-batteryfix)
-+ [Solucionar errores de RiiConnect24](riiconnect24-troubleshooting)
-+ [Instalar RiiConnect24 en vWii](riiconnect24-vwii)
-+ [Conectarse a Wiimmfi](wiimmfi)
-+ [Parchear WiiWare para jugar en Wiimmfi](wiiwarepatcher)
++ [RiiXOnnect24 para vWii](riiconnect24-vwii)
++ [RiiConnect24 para Dolphin](riiconnect24-dolphin)
++ [Wiimmfi](wiimmfi)
++ [Patcher de WiiWare](wiiwarepatcher)
++ [Eliminando VFFs](deleting-vffs)
++ [Resolución de error FORE000006](riiconnect24-batteryfix)
++ [Resolución de error NEWS000006](news000006)
 
-**Modding 101**
+**Modificación 101**
 * [Respaldo de BootMii](bootmii)
-+ [Instalar cIOS](cios)
++ [cIOS](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
-+ [Instalar Canal Homebrew y BootMii](hbc)
++ [El Canal Homebrew](hbc)
 + [LetterBomb](letterbomb)
-+ [Instalar Priiloader](priiloader)
++ [Priiloader](priiloader)
 + [str2hax](str2hax)
 + [BlueBomb](bluebomb)
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Crear accesos directos para juegos de Wii](wiigsc)
-+ [Copiar juegos de Wii/GameCube](dump-games)
-+ [Copiar canales instalados en formato WAD](dump-wads)
-+ [Instalar RSSMii](rssmii)
-+ [Instalar temas para el menú de Wii](themes)
-+ [Realizar un SysCheck](syscheck)
-+ [Desinstalar RSSMii](rssmii-remove)
-+ [Instalar RiiTag](riitag)
++ [Creación de accesos directos a juegos de Wii](wiigsc)
++ [Cómo descargar juegos de GameCube / Wii](dump-games)
++ [Cómo volcar canales (WAD)](dump-wads)
++ [Instalando RSSMii](rssmii)
++ [Instalando Temas de Wii](themes)
++ [Realización de un SysCheck](syscheck)
++ [Eliminando RSSMii](rssmii-remove)
++ [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 
-**Guías para Wii Mini**
-+ [Instalar el Canal Homebrew en Wii Mini](hbc-mini)
-+ [Instalar cIOS en Wii mini](cios-mini)
+**Wii mini**
++ [Instalación El Canal Homebrew en el Wii Mini](hbc-mini)
++ [Instalación de cIOS en el Wii Mini](cios-mini)
 
 
 **Sitio**
-+ [Inicio](/)
-+ [Comenzar](get-started)
++ [Casa](/)
++ [Empezar](get-started)
 + [FAQ](faq)
 + [Donaciones](donations)
 {% endcapture %}

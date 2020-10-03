@@ -12,7 +12,7 @@ Are you tired of the boring, plain white theme on your Wii Menu, and want a cool
 In the case of a brick, [installing Priiloader is a must](priiloader). Also, install BootMii (as Boot2 if you have an early Wii). Installing brick protection along with following the guide correctly should keep you safe from bricks. DO NOT CONTINUE UNTIL YOU HAVE INSTALLED PRIILOADER AND BOOTMII!
 {: .notice--warning}
 
-Do not install a custom theme on vWii (Wii U)! That will brick it.
+Do not install a custom theme on vWii (Wii U), unless it has been formatted specifically for the vWii and your Wii U's region! Check out [this GBATemp post](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) for more on vWii themes.
 {: .notice--warning}
 
 For safety purposes, please do not use any other version of MyMenuify than the one linked here, as MyMenuify Mod is the safest way to install a theme.
@@ -31,7 +31,7 @@ We recommend you [install cIOS](cios) before continuing.
 * Een computer met Windows (of gebruik Mono of Wine op Mac/Linux)
 * [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
-* [Deze GBAtemp post](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
+* [This GBAtemp post](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/) or [our themes page](https://rc24.xyz/goodies/themes/)
 
 ZORG DAT U ALLE WAARSCHUWINGEN VAN HIERBOVEN HEBT GELEZEN VOORDAT U VERDERGAAT!
 {: .notice--waarschuwing}
@@ -40,7 +40,7 @@ ZORG DAT U ALLE WAARSCHUWINGEN VAN HIERBOVEN HEBT GELEZEN VOORDAT U VERDERGAAT!
 
 ##### Deel I - Een Thema vinden
 
-* Peruse the GBAtemp post, finding a theme you want to install. Some have YouTube videos to show what the theme looks like, unfortunately some of them are unavailable.
+* Peruse the GBAtemp post or our themes page, finding a theme you want to install. Some have YouTube videos to show what the theme looks like, unfortunately some of them are unavailable.
 * Once you found one you like, click the download link corresponding to your Wii Menu version. **It is very important to pick the right one to avoid bricks.**
 * You probably will pick the download link that says 4.X, that means the theme will work on version 4.1, 4.2 and 4.3 of the Wii Menu.
 * Some themes have different links for different regions, so pick the one corresponding to your Wii's region.

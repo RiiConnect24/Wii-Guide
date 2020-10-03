@@ -9,9 +9,9 @@ Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołączy 
 
 ![BlueBomb](/images/bluebomb.png)
 
-BlueBomb jest exploitem, który korzysta z dziury w zabezpieczeniach bibliotek Bluetooth'a w Wii oraz Wii Mini. Jest to jedyny exploit, który działa na Wii Mini, aczkolwiek może również zostać użyty na oryginalnym Wii. Ten exploit może również pomóc naprawić niektóre bricki - na przykład banner brick.
+Bluebomb jest exploitem, który korzysta z dziury w zabezpieczeniach bibliotek Bluetooth'a w Wii oraz Wii Mini. Jest to jedyny exploit, który działa na Wii Mini, aczkolwiek może również zostać użyty na oryginalnym Wii. Ten exploit może również pomóc naprawić niektóre bricki - na przykład banner brick.
 
-Dla Wii U oraz oryginalnego Wii, zalecamy skorzystać z [innego exploitu](/get-started) jeżeli chcesz zainstalować Homebrew Launcher i/lub ModMii.
+Jeżeli korzystasz z oryginalnego Wii, nie zalecamy używania BlueBomb. Istnieją inne wygodne exploity jeśli chcesz zainstalować Homebrew Channel lub BootMii.
 {: .notice--info}
 
 Ten exploit nie zadziała na vWii (Tryb Wii w Wii U) Zamiast tego, skorzystaj z [tego poradnika](https://wiiuguide.xyz/#/vwii-modding).
@@ -19,7 +19,6 @@ Ten exploit nie zadziała na vWii (Tryb Wii w Wii U) Zamiast tego, skorzystaj z 
 
 #### Sekcja I - Będziesz potrzebował:
 - Komputera z systemem operacyjnym Linux
-  - Jeżeli korzystasz z Chromebook'a, nie musisz instalować innego systemu operacjnego; zamiast tego, włącz [Trybu Linux'a w ChromeOS](https://support.google.com/chromebook/answer/9145439?hl=pl).
   - Jeżeli masz Raspberry Pi, możesz z niego skorzystać, ponieważ prawdopodobnie masz na nim zainstalowanego Linux'a.
   - Podsystem Windows dla Linux'a * nie zadziała*, ponieważ nie ma bezpośredniego dostępu do adaptera Bluetooth oraz portów USB.
   - Jeżeli nie masz komputera z systemem Linux [Ubuntu](https://ubuntu.com/download/desktop) jest łatwy w obsłudze oraz może zostać uruchomiony na komputerach z Windows'em lub Mac'iem.
@@ -33,12 +32,13 @@ Ten exploit nie zadziała na vWii (Tryb Wii w Wii U) Zamiast tego, skorzystaj z 
   - Nie może być to ten sam pendrive, który wykorzystasz dla Twojej instalacji Linux'a.
 
 #### Sekcja II - Wykonywanie exploitu
-1. Pobierz instalator HackMii ze [strony BootMii](https://bootmii.org/download/). (Jeżeli naprawiasz bricka, możesz zdobyć plik boot.elf z jakiejkolwiek aplikacji, która posłuży ci do odzyskania konsoli)
+1. Pobierz instalator HackMii ze [strony BootMii](https://bootmii.org/download/).
+- (Jeżeli próbujesz naprawić bricka, powinieneś również skopiować aplikację homebrew z której chcesz skorzystać do /apps/)
 1. Wypakuj go oraz skopiuj plik `boot.elf` na Twój pendrive.
 1. Podłącz pendrive do Twojej konsoli. Na Wii Mini, port USB jest na tyle konsoli. Na oryginalnym Wii, użyj dolnego portu. (Lub portu po prawej, jeżeli konsola stoi).
-1. Włącz konsolę oraz przejdź do menu ustawień. W rogu u góry po prawej, powinieneś ujrzeć kod 4 znakowy, taki jak na zdjęciu poniżej. Ten kod jest Twoją wersją systemu operacyjnego. Zapisz go, będziemy tego potrzebowali później. Po zrobieniu tego, wyłącz Twoją konsolę. (Jeżeli korzystasz z BlueBomb aby odzyskać konsolę z bricka, załóż, że wersja Twojego Wii Menu to 4.3.) ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+1. Włącz konsolę oraz przejdź do menu ustawień. W górnym prawym rogu ujrzysz 4 znakowy kod, taki jak na zdjęciu poniżej. Ten kod jest Twoją wersją systemu operacyjnego. Zapisz go, będziemy tego potrzebowali później. Po zrobieniu tego, wyłącz Twoją konsolę. ![Wersja System Menu](/images/Wii/SystemMenuVersion.png)
 1. Uruchom Twoją dystrybucję Linux'a oraz upewnij się, że jesteś podłączony do Internetu.
-1. Otwórz Terminal Linux'a poprzez naciśnięcie `CTRL + SHIFT + T`.
+1. Otwórz Linux'owy Terminal
 1. Uruchom poniższą komendę:
 ```bash
 wget https://wii.guide/assets/files/bluebomb-helper.sh

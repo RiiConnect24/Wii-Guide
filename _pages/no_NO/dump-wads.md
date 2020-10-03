@@ -1,5 +1,5 @@
 ---
-title: "Dumping WADs"
+title: "Kopiere WADer"
 ---
 
 {% include toc title="Table of Contents" %}

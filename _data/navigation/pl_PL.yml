@@ -4,6 +4,9 @@ main:
     title: Wii Guide
     url: /
   - 
+    title: Rozpocznij tutaj
+    url: get-started
+  - 
     title: Często zadawane pytania
     url: faq
   - 

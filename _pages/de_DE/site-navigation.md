@@ -18,17 +18,19 @@ sitemap: false
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
 + [RiiConnect24](riiconnect24)
-+ [RiiConnect24 Batterie-Fix](riiconnect24-batteryfix)
-+ [RiiConnect24 Fehlerbehebung](riiconnect24-troubleshooting)
 + [RiiConnect24 vWii](riiconnect24-vwii)
++ [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
++ [VFFs löschen](deleting-vffs)
++ [FORE000006 beheben](riiconnect24-batteryfix)
++ [NEWS000006 beheben](news000006)
 
-**Modding-Einmaleins**
-* [BootMii-Sicherung](bootmii)
+**Modding 1x1**
+* [BootMii Backup](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
-+ [Homebrew Browser](hbb)
++ [Homebrew-Browser](hbb)
 + [Homebrew-Kanal](hbc)
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
@@ -49,14 +51,14 @@ sitemap: false
 + [Wii Backup Manager](wiibackupmanager)
 
 **Wii mini**
-+ [Installation des Homebrew Kanals auf der Wii Mini](hbc-mini)
++ [Installation des Homebrew-Kanals auf der Wii Mini](hbc-mini)
 + [Installation von cIOS auf der Wii Mini](cios-mini)
 
 
 **Seite**
 + [Start](/)
 + [Einstieg](get-started)
-+ [Häufig gestellte Fragen (FAQ)](faq)
++ [FAQ (Häufig gestellte Fragen)](faq)
 + [Spenden](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>

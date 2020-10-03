@@ -9,13 +9,16 @@ En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por f
 
 ![Logotipo de BootMii](/images/bootmii.png)
 
-Una de las características más importantes de BootMii es la capacidad de respaldar y restaurar la memoria interna (NAND) de tu consola Wii. En esta guía te explicaremos cómo hacer un respaldo de la NAND. Así podrás restaurar ese respaldo en caso de ser necesario. Recomendamos hacer un respaldo de la NAND regularmente o antes de que hagas algo arriesgado con tu consola (si sabes lo que estás haciendo, no tendrás que hacer nada arriesgado).
+Necesitas una **Tarjeta SD** para crear una copia de seguridad NAND usando BootMii. Si no tiene una, puede ignorar esta página, pero es muy recomendable que cree una si puede.
+{: .notice--warning}
+
+Una de las características más importantes de BootMii es la capacidad de realizar copias de seguridad y restaurar el almacenamiento NAND de su Wii. Repasaremos cómo hacer una copia de seguridad NAND. Para que pueda usar esa copia de seguridad cuando lo desee. Recomendamos hacer una copia de seguridad NAND con regularidad o antes de hacerle algo malo a su consola (y si sabe lo que está haciendo, no tendrá que hacer nada, bueno... malo).
 
 #### Requisitos
 * Una tarjeta SD con al menos 512 MB de espacio libre
 
 #### Instrucciones
-Si has instalado BootMii como boot2 en la guía anterior, tendrás que iniciar BootMii reiniciando la consola. Ignora los siguientes dos pasos si este es tu caso.
+Si instaló BootMii como boot2 en el último paso, deberá iniciar BootMii reiniciando la consola. Ignorar los pasos 1-2 si este es el caso.
 {: .notice--info}
 1. Inicia el Canal Homebrew.
 2. Oprime el botón HOME y luego selecciona "Lanzar BootMii".
@@ -29,8 +32,8 @@ Si has instalado BootMii como boot2 en la guía anterior, tendrás que iniciar B
 5. Cuando el respaldo se haya completado, sal del menú de BackupMii oprimiendo cualquier botón.
 6. Para salir de BootMii, oprime el botón con la flecha. Luego puedes oprimir el botón del menú de Wii o del Canal Homebrew para salir a donde quieras.
 
-Para restaurar un respaldo de la NAND guardado en tu tarjeta SD, sigue estas misma instrucciones pero usando RestoreMii (el botón justo al lado de BackupMii con una flecha roja).
+Para restaurar desde una copia de seguridad NAND en su tarjeta SD, puede seguir estas instrucciones usando RestoreMii (el botón junto a BackupMii con una flecha roja).
 {: .notice--info}
 
-[Continuar a la instalación de Priiloader](priiloader)<br> Priiloader proporciona un nivel adicional de protección contra bricks, y lo recomendamos, especialmente si sólo pudiste instalar BootMii como un IOS.
+[Continuar con la instalación de Priiloader](priiloader) Priiloader inserta un nivel de protección de ladrillos, y lo recomendamos, especialmente si solo pudo instalar BootMii IOS.
 {: .notice--info}

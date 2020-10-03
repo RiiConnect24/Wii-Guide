@@ -15,15 +15,15 @@ Em caso de brick, [é necessário ter instalado o Priiloader](/priiloader). Inst
 #### O que precisas
 
 * Uma Wii
-* Um Drive USB.
+* Um USB drive.
 * Um WAD Manager (é recomendado o Wii Mod Lite).
 * Um computador Windows.
 * [WiiGSC](https://wiidatabase.de/downloads/pc-tools/wiigsc-ehemals-crap/)
 
 #### Instruções
 
-1. Instala o WiiGSC e abre-o.
-2. Seleciona o caminho para o ficheiro ISO ou WBFS no teu USB Drive, e seleciona o USB Loader que utilizas. Deixa as outras opções como estão.
+1. Instala o WiiGSC, com o botão direito do rato, clica nele e seleciona **Executar como administrador**. Se não o fizeres, WiiGSC irá apresentar um erro quando o abrires.
+2. Seleciona o caminho para o ficheiro ISO ou WBFS no teu USB drive, e seleciona o USB Loader que utilizas. Deixa as outras opções como estão.
 3. Se estás a utilizar o USB Loader GX, não podes utilizar a revision 1272 para shortcuts. Tens de utilizar a revision 1271 (ou versão anterior).
 4. Não faças shortcuts para "A Boy and His Blob" ou "Mario Party 9". Estes irão brickar a tua Wii.
 5. Instala o WAD generado com um WAD Manager, nós recomendamos Wii Mod Lite.

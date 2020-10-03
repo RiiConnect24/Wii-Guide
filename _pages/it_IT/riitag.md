@@ -9,6 +9,9 @@ Se hai bisogno di aiuto per questo tutorial, unisciti a [il server Discord RiiCo
 
 RiiTag è una gamertag dinamica e personalizzabile. Condividendo la tua gamertag (una immagine dinamica), puoi mostrare a cosa stai giocando ai tuoi amici! Connettilo a una porta USB, e il tag si aggiorna in tempo reale. Hai bisogno di un account Discord per iniziare ad usare RiiTag.
 
+Want to install RiiTag on your Wii U? See [this guide](riitag-wiiu) on how to connect it to your Wii U Menu.
+{: .notice--info}
+
 #### Di cosa hai bisogno
 
 * Un Computer
@@ -26,17 +29,17 @@ RiiTag è una gamertag dinamica e personalizzabile. Condividendo la tua gamertag
 5. Clicca su `Mostra Chiave` e prendi nota della chiave mostrata. Questo non serve se usi un USB Loader GX, perchè la chiave sarà in un file scaricabile.
 6. Clicca su `Salva` per salvare i cambiamenti.
 
-Non condividere il tuo RiiTag con nessuno! Se lo fai, persone potrebbero abusare del tuo tag.
+Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
 {: .notice--warning}
 
 ##### Parte II - Connettere il tuo USB Loader
 
-I passi per connettere RiiTag al tuo USB loader dipendono da quale USB loader usi.
+The steps to connect RiiTag to your USB Loader depend on what USB Loader you use.
 
 ###### USB Loader GX
 
 1. Carica USB Loader GX sulla tua Wii.
-2. Vai a `Impostazioni` > `Funzionalità` and cambia `Wiinnertag` su acceso. Premi `Sì` o `OK` per ogni finestra che si apre.
+2. Vai a `Impostazioni` > `Funzionalità` and cambia `Wiinnertag` su acceso. Press `Yes` or `OK` to any dialogues that show up.
 3. Assicurati che `Initialize Network` sia acceso.
 4. Esci da USB Loader GX.
 5. Inserisci la Scheda SD o dispositivo USB dove si trovano i dati di USB Loader GX sul tuo computer.
@@ -58,18 +61,18 @@ I passi per connettere RiiTag al tuo USB loader dipendono da quale USB loader us
 
 ###### Configurable USB Loader
 
-Non offriamo supporto per Configurable USB Loader, dato che ci siamo concentrati su USB Loader GX e WiiFlow.
+We do not offer support for Configurable USB Loader, as we are focused on USB Loader GX and WiiFlow.
 {: .notice--info}
 
-Puoi usare il programma `CfgLoaderConfigurator.exe` (solo per Windows) invece di editare il file menzionato prima `config.txt` se lo desideri.
+You can use the `CfgLoaderConfigurator.exe` program (Windows only) instead of editing the `config.txt` file mentioned below if you want to.
 {: .notice--info}
 
 1. Porta la Scheda SD o dispositivo USB dove si trovano i dati per Configurable USB Loader sul tuo computer.
 2. Apri `/usb-loader/config.txt` con un text editor.
 3. Sostituisci (o aggiungi la linea) che inizia con `gamercard_url` con `gamercard_url = http://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
-4. Sostituisci (o aggiungi la linea) che inizia con `gamercard_key` con `gamercard_key = <key>`, replacing `<key>` con la chiave che hai scritto nella Sezione 1.
+4. Replace (or add the line) starting with `gamercard_key` with `gamercard_key = <key>`, replacing `<key>` with the key you wrote down in Section 1.
 5. Salva il file modificato di `config.txt`.
 6. Adesso hai impostato RiiTag. Puoi provare a caricare qualunque gioco per vedere se funziona.
 
-[Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}

@@ -12,7 +12,7 @@ Bist du das langweilige, triste, weiße Design deines Wii-Menüs satt und hätte
 Für den Fall eines Bricks [ist die Installation von Priiloader ein Muss](priiloader). Installiere außerdem BootMii (als boot2, falls du eine ältere Wii hast). Die Installation von Brick-Schutz, sowie das richtige Befolgen der Anleitung sollte dich sicher vor Bricks bewahren. FAHRE NICHT FORT, BIS DU PRIILOADER UND BOOTMII INSTALLIERT HAST!
 {: .notice--warning}
 
-Installiere kein alternatives Design auf deiner vWii (Wii U)! Das würde sie bricken.
+Installiere kein alternatives Design auf einer vWii (Wii U), es sei denn es wurde speziell für die vWii und die Region deiner Wii U angefertigt! Schau dir [diesen GBAtemp-Beitrag](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) für mehr zu vWii-Designs an.
 {: .notice--warning}
 
 Aus Sicherheitsgründen, verwende bitte keine andere Version von MyMenuify als die hier verlinkte, da MyMenuify Mod der sicherste Weg zum installieren eines Designs ist.
@@ -31,7 +31,7 @@ Wie empfehlen dir, vor dem Fortfahren [cIOS zu installieren](cios).
 * Ein Computer mit Windows (oder nutze Mono oder Wine auf macOS/Linux)
 * [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
-* [Dieser GBAtemp-Beitrag](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
+* [Dieser GBAtemp-Beitrag](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/) oder [unsere Themes-Seite](https://rc24.xyz/goodies/themes/)
 
 LIES DIR AUF JEDEN FALL DIE WARNHINWEISE OBEN DURCH, BEVOR DU FORTFÄHRST!
 {: .notice--warning}
@@ -40,7 +40,7 @@ LIES DIR AUF JEDEN FALL DIE WARNHINWEISE OBEN DURCH, BEVOR DU FORTFÄHRST!
 
 ##### Abschnitt 1 - Ein Design finden
 
-* Gehe durch den GBAtemp-Beitrag, um ein Design zu finden, das du installieren möchtest. Einige haben YouTube-Videos um zu zeigen, wie das Design aussieht, leider sind einige davon nicht verfügbar.
+* Gehe durch den GBAtemp-Beitrag oder unsere Themes-Seite, um ein Design zu finden, das du installieren möchtest. Einige haben YouTube-Videos um zu zeigen, wie das Design aussieht, leider sind einige davon nicht verfügbar.
 * Sobald du eine gefunden hast, welches dir gefällt, gehe auf den Download-Link, der deiner Wii-Menü-Version entspricht. **Es ist sehr wichtig, die richtige zu wählen, um Bricks zu vermeiden.**
 * Du wirst wahrscheinlich den Download-Link mit der Bezeichung 4.X wählen, was bedeutet, dass das Design auf Version 4.1, 4.2 und 4.3 des Wii-Menüs funktioniert.
 * Einige Designs haben unterschiedliche Links für unterschiedliche Regionen, wähle den, der der Region deiner Wii entspricht.

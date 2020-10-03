@@ -14,7 +14,7 @@ str2hax est un exploit pour la Wii qui est déclenché par le chargement des Con
 
 #### Ce dont vous avez besoin
 
-* Une Wii avec une connexion internet et qui se trouve en version système 4.3
+* A Wii with an Internet connection
 
 #### Instructions
 

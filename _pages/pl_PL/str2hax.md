@@ -14,7 +14,7 @@ str2hax jest exploitem przeznaczonym dla Wii, który można wykonać poprzez za�
 
 #### Będziesz potrzebował:
 
-* Wii z aktywnym połączeniem Internetowym oraz systemem w wersji 4.3
+* Konsola Wii z połączeniem Internetowym
 
 #### Instrukcje
 

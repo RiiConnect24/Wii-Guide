@@ -23,7 +23,7 @@ Homebrew Channel jest miejscem, w którym możesz uruchamiać programy homebrew.
 
 5. Po zainstalowaniu, naciśnij "Back" oraz przejdź do "BootMii".
 6. Jeżeli na ekranie wyświetli się informacja o możliwości zainstalowania jako boot2, zrób to. Daje Ci to poziom zabezpieczenia przed brickiem, który ładuje się jako część procesu bootowania Wii. Pozwala Ci to załadować homebrew aby naprawić brick lub przywrócić kopię zapasową pamięci NAND.
-7. Jeżeli na ekranie wyświetli się informacja o braku możliwości zainstalowania jako boot2, zainstaluj jako IOS. Nie daje Ci to całkowitej ochrony przed brickiem, tak jak instalacja jako boot2. Umożliwi Ci to dalej stworzenie kopii zapasowej pamięci NAND.
+7. Jeżeli na ekranie wyświetli się informacja o braku możliwości zainstalowania jako boot2, zainstaluj jako IOS. Nie daje Ci to kompletnej ochrony przed brickiem, jednak będziesz mógł wykonać kopię zapasową pamięci NAND.
 
 ![Instalacja BootMii](/images/Wii/InstallBootMii.jpg)
 

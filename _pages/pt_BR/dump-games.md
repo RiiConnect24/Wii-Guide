@@ -2,13 +2,25 @@
 title: "Extrair jogos do Wii/GameCube"
 ---
 
-Quer fazer backup de um jogo do GameCube ou Wii legalmente, a fim de jogar ele no seu console? Com este tutorial, explicaremos como fazer.
+Você quer extrair um jogo de GameCube ou Wii? Existem duas maneiras de o fazer, depende das ferramenta que você tem.
 
-Por favor, escolha como deseja extrair o disco.
-{: .notice--warning}
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">Para o cartão SD/dispositivo USB</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">Para um computador através de rede</button>
 
-[Quero fazer o backup no cartão SD/dispositivo USB](cleanrip)
-{: .notice--info}
+{% capture cleanripInstructions %}
+### Guia Cleanrip
+{% include_relative cleanrip.md %}
+{% endcapture %}
 
-[Quero fazer o backup diretamente no meu PC através de uma rede](dump-smb)
-{: .notice--info}
+{% capture networkInstructions %}
+### Extraindo um jogo via rede local
+{% include_relative dump-smb.md %}
+{% endcapture %}
+
+<div id="cleanrip" class="blanktabcontent">{{ cleanripInstructions | markdownify }}</div>
+<div id="network" class="blanktabcontent">{{ networkInstructions | markdownify }}</div>
+
+<script>
+    let tabcontent = document.getElementsByClassName("blanktabcontent");
+    let tablinks = document.getElementsByClassName("tablinks");!!crwd_CB_1_BC_dwrc!!</script>
+

@@ -15,12 +15,12 @@ Este exploit es uno de los muchos que hay disponibles. Revisa la página [Comenz
 #### Requisitos
 - Una tarjeta SD
 - Una Wii con versión de sistema 4.3
-   - Este exploit no funcionará en una vWii o Wii Mini
+   - Este exploit no funciona en un Wii mini o vWii
 
 #### Instrucciones
 
 1. En tu Wii, ve a `Configuración de Wii` -> `Internet` -> `Información de la consola` y anota la dirección MAC que ves en pantalla.
-2. Visita [please.hackmii.com](https://please.hackmii.com), ingresa la dirección MAC y region de tu consola, completa el CAPTCHA, *asegúrate de que* `Bundle the HackMii Installer for me!` *esté marcado* y elige cortar cualquiera de los dos cables
+2. Visitar [please.hackmii.com](https://please.hackmii.com), ingrese su Wii MAC y región, complete el CAPTCHA, *asegurar* `Bundle the HackMii Installer for me!` *está chequeado*, y corta uno de los cables
    - No importa el cable que elijas cortar. ![Página de HackMii](/images/Wii/LetterBomb-PC.png)
 3. Extrae el contenido del archivo ZIP descargado a tu tarjeta SD.
 4. En tu consola, regresa al menú de Wii y después abre el tablón de Wii.

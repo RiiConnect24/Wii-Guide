@@ -14,7 +14,7 @@ str2hax é um exploit para a Wii que é atingido carregando o Acordo de Licença
 
 #### O que precisas
 
-* Uma Wii com conexão à Internet na versão de sistema 4.3
+* Uma Wii com conexão à Internet
 
 #### Instruções
 

@@ -36,7 +36,7 @@ SE estás a obter um destes erros (e não outro erro qualquer), deves corrigir o
 #### Instruções
 
 1. Abre o WiiXplorer.
-2. Vai a `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` e depois seleciona `Yes` para ambos os diálogos que aparecem no ecrã.
+2. Go to `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` and then select `Yes` for both dialogues that appear on the screen.
 3. Pressiona Back até chegares ao ecrã do explorador de ficheiros.
 4. Seleciona o pequeno ícone azul do cartão SD, depois seleciona `NAND`.
 5. Navega até `title` -> `00010002` -> XXXXXXXX -> `data`, onde XXXXXXXX é uma das pastas acima.

@@ -18,11 +18,13 @@ sitemap: false
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
 + [RiiConnect24](riiconnect24)
-+ [Reparação da bateria RiiConnect24](riiconnect24-batteryfix)
-+ [Solução de problemas RiiConnect24](riiconnect24-troubleshooting)
 + [RiiConnect24 vWii](riiconnect24-vwii)
++ [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
++ [Deletar VFFs](deleting-vffs)
++ [Corrigir o erro FORE000006](riiconnect24-batteryfix)
++ [Corrigir NEWS000006](news000006)
 
 **Modificação 101**
 * [Copia de segurança BootMii](bootmii)
@@ -37,20 +39,20 @@ sitemap: false
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Criando atalhos jogos Wii](wiigsc)
++ [Criar atalhos para jogos Wii](wiigsc)
 + [Como extrair jogos GameCube/Wii](dump-games)
 + [Como extrair canais (WADs)](dump-wads)
-+ [Instalando RSSMii](rssmii)
-+ [Instalando Temas Wii](themes)
-+ [Realizando um SysCheck](syscheck)
-+ [Removendo RSSMii](rssmii-remove)
++ [Instalar RSSMii](rssmii)
++ [Instalar Temas Wii](themes)
++ [Realizar um SysCheck](syscheck)
++ [Remover RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 
-**Wii Mini**
-+ [Instalando The Homebrew Channel na Wii Mini](hbc-mini)
-+ [Instalando cIOS na Wii Mini](cios-mini)
+**Wii mini**
++ [Instalar The Homebrew Channel na Wii Mini](hbc-mini)
++ [Instalar cIOS na Wii Mini](cios-mini)
 
 
 **Site**

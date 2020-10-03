@@ -12,7 +12,7 @@ Jesteś znudzony nudnym, białym wyglądem Wii Menu i chcesz zainstalować jaki�
 W przypadku bricka, [instalacja Priiloadera jest wymogiem](priiloader). Również, zainstaluj BootMii (jako boot2 jeżeli masz starsze Wii). Zainstalowanie ochrony przed brickiem oraz poprawne podążenie za tym poradnikiem ochroni Cię przed zbrickowaniem Twojej konsoli. NIE KONTYNUUJ DOPÓKI NIE ZAINSTALUJESZ PRIILOADERA I BOOTMII!
 {: .notice--warning}
 
-Nie instaluj żadnego motywu na vWii (Wii U)! Zrobienie tego, zbrickuje Twoją konsolę.
+Nie instaluj motywów na Twoim vWii (Wii U) chyba, że zostały odpowiednio przygotowane do użycia na vWii oraz dla Twojego regionu Wii U. Sprawdź [ten post na GBATemp](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) jeśli chcesz się dowiedzieć więcej o motywach dla vWii.
 {: .notice--warning}
 
 Z powodu bezpieczeństwa, nie używaj żadnej innej wersji MyMenuify, niż ta, która jest podlinkowana poniżej. MyMenuify Mod jest najbezpieczniejszą aplikacją do instalowania motywów.
@@ -31,7 +31,7 @@ Zalecamy [instalację cIOS](cios) przed kontynuowaniem.
 * Komputer z systemem operacyjnym Windows (lub możesz użyć Mono lub Wine jeżeli korzystasz z macOS/Linux'a)
 * [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
-* [Ten post na GBAtemp](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
+* [Ten post na GBAtemp](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/) lub [nasza strona z motywami](https://rc24.xyz/goodies/themes/)
 
 UPEWNIJ SIĘ, ŻE PRZECZYTASZ WSZYSTKIE OSTRZEŻENIA PRZED KONTYNUOWANIEM!
 {: .notice--warning}
@@ -40,7 +40,7 @@ UPEWNIJ SIĘ, ŻE PRZECZYTASZ WSZYSTKIE OSTRZEŻENIA PRZED KONTYNUOWANIEM!
 
 ##### Sekcja I - Znajdowanie motywu
 
-* Przeczytaj uważnie post na GBATemp, znajdując motyw, który chcesz zainstalować. Niektóre motywy mają załączony film na YouTube, pokazujące jak dany motyw wygląda - niestety, niektóre z nich są niedostępne.
+* Przeczytaj uważnie post na GBATemp lub na naszej stronie, znajdując motyw, który chcesz zainstalować. Niektóre motywy mają załączony film na YouTube, pokazujące jak dany motyw wygląda - niestety, niektóre z nich są niedostępne.
 * Kiedy już znajdziesz motyw, który Ci się podoba, naciśnij na link do pobierania odpowiadający Twojej wersji systemu operacyjnego Wii. **Ważne jest wybranie odpowiedniego aby uniknąć bricków**
 * Prawdopodobnie wybierzesz link do pobierania o nazwie 4.X co oznacza, że motyw działa na wersji 4.1, 4.2 oraz 4.3 systemu operacyjnego Wii.
 * Niektóre motywy będą miały różne linki dla różnych regionów. Wybierz odpowiedni dla twojego regionu Wii.

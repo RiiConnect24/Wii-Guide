@@ -9,6 +9,9 @@ Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [Rii
 
 ![BootMii-Logo](/images/bootmii.png)
 
+Du brauchst eine **SD-Karte** um ein NAND-Backup mittels BootMii zu erstellen. Falls du keine hast, kannst du diese Seite überspringen, jedoch wird es stark empfohlen, eins nach Möglichkeit zu erstellen.
+{: .notice--warning}
+
 Eines von BootMiis wichtigsten Features ist die Möglichkeit, den NAND-Speicher deiner Wii zu sichern und wiederherzustellen. Wir befassen uns nun mit der Durchführung einer NAND-Sicherung. Diese Sicherung kannst du dann, aus welchem Grund auch immer, wiederherstellen. Wir empfehlen dir NAND-Backups sowohl regelmäßig anzufertigen als auch bevor du etwas Gefährliches an deiner Konsole durchführst (und wenn du weißt was du tust, wirst du nichts machen müssen, was deine Konsole gefährdet).
 
 #### Voraussetzungen
@@ -32,5 +35,5 @@ Falls du BootMii im letzten Schritt als Boot2 installiert hast, musst du BootMii
 Um eine NAND-Sicherung von deiner SD-Karte wiederherzustellen, kannst dieser Anleitung mit dem RestoreMii-Eintrag folgen (der Eintrag direkt neben dem für BackupMii mit dem roten Pfeil).
 {: .notice--info}
 
-[Fortfahren mit der Priiloader-Installation](priiloader)<br> Priiloader fügt eine Schutzebene vor Bricks hinzu, was wir empfehlen, insbesondere wenn du BootMii nur als IOS installiert hast.
+[Fortfahren mit der Priiloader-Installation](priiloader) Priiloader fügt eine Schutzebene vor Bricks hinzu, was wir empfehlen, insbesondere wenn du BootMii nur als IOS installieren konntest.
 {: .notice--info}

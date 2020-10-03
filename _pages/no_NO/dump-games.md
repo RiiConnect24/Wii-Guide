@@ -1,14 +1,26 @@
 ---
-title: "Dumping Wii/GameCube games"
+title: "Dumping Wii/Gamecube spill"
 ---
 
-Want to legally dump a GameCube or a Wii game and play it on your Wii? With this tutorial we will explain how to do it.
+Har du lyst på en digital kopi av en GameCube eller en Wii disk? Det er to veier til å gjøre så, som handler om hva slags type verktøy du har akkurat nå.
 
-Please choose how you want to dump the disc.
-{: .notice--warning}
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">Til SD-kort/USB pinne</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">Til PC over nettverket</button>
 
-[I want to dump it to the SD card/USB device](cleanrip)
-{: .notice--info}
+{% capture cleanripInstructions %}
+### Cleanrip guide
+{% include_relative cleanrip.md %}
+{% endcapture %}
 
-[I want to dump it directly to my PC over a network](dump-smb)
-{: .notice--info}
+{% capture networkInstructions %}
+### Kopier et spill over lokalnettverket
+{% include_relative dump-smb.md %}
+{% endcapture %}
+
+<div id="cleanrip" class="blanktabcontent">{{ cleanripInstructions | markdownify }}</div>
+<div id="network" class="blanktabcontent">{{ networkInstructions | markdownify }}</div>
+
+<script>
+    let tabcontent = document.getElementsByClassName("blanktabcontent");
+    let tablinks = document.getElementsByClassName("tablinks");!!crwd_CB_1_BC_dwrc!!</script>
+

@@ -2,13 +2,25 @@
 title: "Copiar jogos Wii/GameCube"
 ---
 
-Queres copiar um jogo da GameCube ou Wii legalmente e jogá-lo na tua Wii? Com este tutorial nós iremos explicar como fazê-lo.
+Queres copiar um disco GameCube ou disco Wii? Existem duas maneiras para o fazê-lo, dependendo das ferramentas disponíveis que tens contigo.
 
-Por favor escolhe como queres copiar o disco.
-{: .notice--warning}
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">Para o cartão SD/USB drive</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">Para um PC pela rede</button>
 
-[Eu quero copiá-lo para o cartão SD/dispositivo USB](cleanrip)
-{: .notice--info}
+{% capture cleanripInstructions %}
+### Guia Cleanrip
+{% include_relative cleanrip.md %}
+{% endcapture %}
 
-[Eu quero copiá-lo diretamente para o meu PC pela internet](dump-smb)
-{: .notice--info}
+{% capture networkInstructions %}
+### Copiando um jogo pela rede local
+{% include_relative dump-smb.md %}
+{% endcapture %}
+
+<div id="cleanrip" class="blanktabcontent">{{ cleanripInstructions | markdownify }}</div>
+<div id="network" class="blanktabcontent">{{ networkInstructions | markdownify }}</div>
+
+<script>
+    let tabcontent = document.getElementsByClassName("blanktabcontent");
+    let tablinks = document.getElementsByClassName("tablinks");!!crwd_CB_1_BC_dwrc!!</script>
+
