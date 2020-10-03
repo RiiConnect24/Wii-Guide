@@ -20,7 +20,7 @@ This is a quick start guide on how to use USB Loader GX, a popular USB loader fo
 Assicurati di avere installato [cIOS](/cios) prima di seguire questa guida!
 {: .notice--info}
 
-Consigliamo di copiare i tuoi giochi con [Wii Backup Manager](/wiibackupmanager) se usi Windows, o Witgui se usi un macOS.
+We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, or [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS.
 {: .notice--info}
 
 Per giocare a vari giochi, consigliamo di usare un hard drive USB per la tua Wii. We will refer to it as a "USB drive" in this guide. La maggior parte che troverai dovrebbero andar bene finché possiedono la retro-compatibilità con la USB 2. Dispositivi con 1 TB di capacità o ancora di più funzioneranno. Anche un flash drive funzionerà, ma per via delle dimensioni non sarà capace di contenere molti giochi.
