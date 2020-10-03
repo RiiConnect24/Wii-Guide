@@ -20,7 +20,7 @@ Isto é um guia rápido de como utilizar o USB Loader GX, um USB loader popular 
 Certifica-te que instalaste [cIOS](/cios) antes de seguir!
 {: .notice--info}
 
-Nós recomendamos que copies o jogos pelo [Wii Backup Manager](/wiibackupmanager) se utilizas Windows, ou Witgui se tu utilizas macOS.
+We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, or [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS.
 {: .notice--info}
 
 Para jogar múltiplos jogos, recomendamos que utilizes um disco externo com USB para a tua Wii. Nós iremos referir como "USB drive" neste guia. Maioria dos discos que encontras no mercado funcionam bem se tiverem compatibilidade com USB 2.0. Discos com 1 TB ou mais de armazenamento irão funcionar. Um flash drive também funcionará, mas devido ao espaço do flash drive, não vai ser capaz de armazenar vários jogos.
