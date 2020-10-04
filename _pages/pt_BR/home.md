@@ -47,6 +47,5 @@ Existem mais recursos úteis para modificar o Wii e solucionar problemas:
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
 - [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...e claro, esse site
 
-Para modificar seu Wii U, há outras opções:
-- [O Guia Definitivo Para Hackear o vWii](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
-- [Guia NH Wii U](https://wiiuguide.xyz)
+For modding a Wii U, follow this guide:
+- [NH Wii U Guide](https://wiiu.hacks.guide)
