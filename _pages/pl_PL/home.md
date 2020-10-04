@@ -47,6 +47,5 @@ Istnieje również wiele innych zasobów zawierające poradniki dotyczące przer
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
 - [Wii Hacking Explained - stworzone przez Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...I oczywiście, ta strona
 
-Dla poradników dotyczących Wii U, dostępne są poniższe opcje:
-- [The Definitive vWii Hacking Guide](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
-- [NH Wii U Guide](https://wiiuguide.xyz)
+For modding a Wii U, follow this guide:
+- [NH Wii U Guide](https://wiiu.hacks.guide)
