@@ -6,7 +6,7 @@ header:
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
   cta_label: "Iniziare"
-  cta_url: "/it_IT/get-started"
+  cta_url: "iniziare"
   caption:
 excerpt: "La guida completa per moddare la tua Nintendo Wii."
 ---
@@ -25,12 +25,12 @@ Far girare Homebrew sulla tua Nintendo Wii è gratuito usando vari exploit.
 Qui c'è una lista di funzioni incluse negli homebrew. Anche se queste non saranno tutte le cose che puoi fare con Homebrew, dovrebbe darti un'idea iniziale di ciò che puoi fare. La nostra guida ti aiuterà ad iniziare facilmente.
 
 - Puoi patchare contenuti di un disco (permettendoti di modificare il gioco) usando [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
-- Installa temi sul tuo menù Wii usando [MyMenuify](themes).
+- Installa temi sul tuo menù Wii usando [MeMenuify](themes).
 - Installa un USB Loader come [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) o [USB Loader GX](usbloadergx) per caricare tutti i tuoi titoli preferiti da un dispositivo USB ed altro.
 - Effettua backup dei tuoi dischi con [CleanRip](/dump-games) ed installa giochi con [YABDM](dump-wads)
 - Effettua backup e ripristina dati di salvataggio con [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
 - Scarica nuove applicazioni homebrew con [Homebrew Broser](hbb)
-- Ripristina servizi online terminati, come [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
+- Ripristina servizi online terminati, come [WiiConnect24](riiconnect24)&[Nintendo WFC services](wiimmfi).
 - Effettua backup e ripristina copie della memoria del tuo sistema Wii (NAND) usando [BootMii](http://bootmii.org).
 - Proteggi la tua Wii da brick usando [Priiloader](priiloader) e BootMii.
 - Trasforma la tua Wii in un video riproduttore con [WiiMC](http://www.wiimc.org/).
@@ -47,6 +47,5 @@ Ci sono anche altre buone risorse per moddare Wii e soluzioni a problemi vari:
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
 - [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...and of course, this site
 
-Per moddare una Wii U, ci sono altre opzioni:
-- [La guida definitiva all'Hacking di una Wii virtuale](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
-- [Guida NH Wii U](https://wiiuguide.xyz)
+For modding a Wii U, follow this guide:
+- [NH Wii U Guide](https://wiiu.hacks.guide)
