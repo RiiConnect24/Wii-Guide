@@ -47,6 +47,5 @@ Il existe d'autres bonnes ressources (en anglais) sur la modification et le dép
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
 - [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...and of course, this site
 
-Pour modder une Wii U, il existe encore d'autres options :
-- [Le guide définitif du hacking vWii](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
-- [Le guide Wii U par Nintendo Homebrew](https://wiiuguide.xyz)
+For modding a Wii U, follow this guide:
+- [NH Wii U Guide](https://wiiu.hacks.guide)
