@@ -74,5 +74,8 @@ Wenn du willst, kannst du das `CfgLoaderConfigurator.exe`-Programm (nur für Win
 5. Speichere die bearbeitete `config.txt`-Datei.
 6. Du hast jetzt RiiTag eingerichtet. Du kannst jetzt ein beliebiges Spiel starten, um zu sehen, dass es korrekt funktioniert.
 
-[Fortfahren zur Seitennavigation](site-navigation)<br> Wir haben viele weitere Anleitungen, die dir gefallen könnten.
+[Check out RiiTag-RPC](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br> Now that you set up RiiTag, you can set up RiiTag-RPC to show your friends what you're playing on the Wii using Discord's rich presence.
+{: .notice--info}
+
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
