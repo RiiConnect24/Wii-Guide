@@ -4,7 +4,7 @@ title: "RiiTag on Wii"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Αν χρειάζεστε βοήθεια με οτιδήποτε σχετικά με αυτό τον οδηγό, επισκεφθείτε [το RiiConnect24 Discord](https://discord.gg/b4Y7jfD) (προτείνεται) ή [στείλτε μαε e-mail στο support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You connect it to a USB Loader, and the tag updates on-the-fly. You need a Discord account in order to start using RiiTag.
@@ -12,13 +12,13 @@ RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynam
 Want to install RiiTag on your Wii U? See [this guide](riitag-wiiu) on how to connect it to your Wii U Menu.
 {: .notice--info}
 
-#### What you need
+#### Τι χρειάζεστε
 
 * A computer
 * A text editor
 * A USB Loader
 
-#### Instructions
+#### Οδηγίες
 
 ##### Section I - Getting Started
 
