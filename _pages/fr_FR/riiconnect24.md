@@ -2,9 +2,9 @@
 title: "RiiConnect24"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Table des matières" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si vous avez besoin d’aide par rapport au tutoriel, veuillez rejoindre [le serveur Discord de RiiConnect24](https://discord.gg/b4Y7jfD) (recommandé) ou [envoyez un e-mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
@@ -22,7 +22,7 @@ There is no guide to installing RiiConnect24 on a Wii Mini, as attempting to ins
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-#### What you need
+#### Qu’est-ce que vous avez besoin
 
 * An SD card or USB drive
 * A Wii with an Internet connection
@@ -69,7 +69,7 @@ If you still can't run RiiConnect24 Patcher, please send us a mail at support@ri
 10. Once it's done, you can now safely close the patcher. All of the files are ready on your SD Card. ![It's done!](/images/RC24_Patcher/9.PNG) ![Files copied](/images/RC24_Patcher/10.PNG)
 11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24 Patcher.bat` to your SD Card or USB Device.
 12. Put your SD card or USB drive in your Wii.
-13. Launch the Homebrew Channel on your Wii.
+13. Lancez la Chaîne Homebrew sur votre Wii.
 14. Launch Wii Mod Lite.
 15. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 16. When `IOS31.wad` is highlighted, press +, then do the same for all the other WADs.
