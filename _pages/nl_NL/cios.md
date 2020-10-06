@@ -61,5 +61,5 @@ Select cIOS version: 65535
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx).
+U kunt nu homebrew applicaties gebruiken zoals [USB Loader GX](usbloadergx).
 {: .notice--info}
