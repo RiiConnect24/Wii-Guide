@@ -1,6 +1,6 @@
 ---
-title: "Site Navigation"
-layout: single
+title: "Site Haritası"
+layout: Yanlız
 sitemap: false
 ---
 
@@ -10,14 +10,14 @@ sitemap: false
 **Featured**
 
 + [cIOS](cios)
-+ [RiiConnect24](riiconnect24)
++ [RiiConnect24](riiConnect24)
 + [Wiimmfi](wiimmfi)
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
-+ [RiiConnect24](riiconnect24)
++ [RiiConnect24](riiConnect24)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [Wiimmfi](wiimmfi)
@@ -35,7 +35,7 @@ sitemap: false
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
 + [str2hax](str2hax)
-+ [BlueBomb](bluebomb)
++ [Mavi Bomba](bluebomb)
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
@@ -58,7 +58,7 @@ sitemap: false
 **Site**
 + [Home](/)
 + [Get Started](get-started)
-+ [FAQ](faq)
++ [Sıkça Sorulan Sorular (S.S.S)](S.S.S)
 + [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
