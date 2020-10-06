@@ -34,5 +34,5 @@ Se il codice di errore rimane, l'ora sulla tua Wii potrebbe essere errata, confo
 Ancora hai problemi a farlo funzionare? Sfortunatamente, potresti dover riformattare la tua Wii. Assicurati di fare il backup dei tuoi file di salvataggio e Mii con [SaveGame Manager GX](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download).
 {: .notice--info}
 
-[Ritorna alla pagina di installazione di RiiConnect24](riiconnect24)
+[Ritorna alla pagina di installazione di RiiConnect24](riiConnect24)
 {: .notice--info}
