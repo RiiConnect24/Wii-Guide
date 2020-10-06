@@ -57,7 +57,7 @@ sitemap: false
 
 **Sitio**
 + [Casa](/)
-+ [Empezar](get-started)
++ [Empezar](comenzando)
 + [FAQ](faq)
 + [Donaciones](donations)
 {% endcapture %}
