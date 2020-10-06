@@ -43,5 +43,5 @@ This exploit requires you to set your DNS in order to connect to a server that c
 
 If the HackMii Installer doesn't load and it instead freezes (you can't move your cursor) or it doesn't take 1-2 minutes to trigger, please restart your Wii and retry the exploit.
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[Συνέχεια στην εγκατάσταση του καναλιού Homebrew και του BootMii](hbc)
 {: .notice--info}
