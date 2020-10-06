@@ -4,16 +4,16 @@ title: "Dumping WADs"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: .notice--info}
+Si necessiteu ajuda per a qualsevol cosa relacionada amb aquest tutorial, per favor uniu-vos al [servidor de RiiConnect24](https://discord.gg/b4Y7jfD) (recomanat) o[envia'ns un e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: . notícia--informació}
 
 This tutorial will explain you how to dump WADs from your Wii System Memory.
 
-#### Requirements
+#### Requeriments
 * An SD card or USB drive
 * [Yet Another BlueDump MOD](/assets/files/YABDM.zip)
 
-#### Instructions
+#### Instruccions
 ##### Section I - Downloading/Installing
 
 1. Extract Yet Another BlueDump MOD and put it in the `apps` folder on your SD card or USB drive.
