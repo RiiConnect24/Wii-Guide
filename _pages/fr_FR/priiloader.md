@@ -15,7 +15,7 @@ Veuillez ne **pas** installer Priiloader sur une vWii (mode Wii de la Wii U). Le
 {: .notice--warning}
 
 #### Ce dont vous avez besoin
-* An SD card
+* Une carte SD
 * [Priiloader](/assets/files/Priiloader_v0_9.zip)
 
 #### Instructions
