@@ -4,8 +4,8 @@ title: "Wii Backup Manager"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: .notice--info}
+Si necessiteu ajuda per a qualsevol cosa relacionada amb aquest tutorial, per favor uniu-vos al [servidor de RiiConnect24](https://discord.gg/b4Y7jfD) (recomanat) o[envia'ns un e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: . notícia--informació}
 
 Wii Backup Manager is a program to copy Wii games from your computer to a USB drive so you can play the games on your Wii. It also can download game covers from [GameTDB](https://gametdb.com/) and can be used to list what games you have. This tutorial will tell you how to copy over games from your computer to your USB drive. The other features are able to be used in the easy-to-use interface.
 #### What you need
@@ -14,15 +14,15 @@ Wii Backup Manager is a program to copy Wii games from your computer to a USB dr
 * [Wii Backup Manager](https://static.wiidatabase.de/Wii-Backup-Manager.zip)
 
 We recommend you use [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS. Wii Backup Manager doesn't work on macOS.
-{: .notice--info}
+{: . notícia--informació}
 
 To play multiple games, we recommend a USB-powered external hard drive for your Wii. We will refer to it as a "USB drive" in this guide. Most of the ones you can find on the market should work fine if they have USB 2 backwards compatibility. Drives with 1 TB or more in capacity will work. A flash drive will also work, but due to the size of a flash drive, it won't be able to store as many games.
-{: .notice--info}
+{: . notícia--informació}
 
 Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as extFS or WBFS, the latter is an old format of storing Wii games.
-{: .notice--info}
+{: . notícia--informació}
 
-#### Instructions
+#### Instruccions
 
 ##### Section I - Downloading
 
@@ -40,10 +40,10 @@ Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as othe
 ##### Options once complete
 
 [Continue to cIOS](cios)<br> cIOS is needed for your Wii to use a USB Loader.
-{: .notice--info}
+{: . notícia--informació}
 
 [Continue to USB Loader GX](usbloadergx) USB Loader GX is a USB Loader so you can play games on your Wii from a USB drive.
-{: .notice--info}
+{: . notícia--informació}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
-{: .notice--info}
+{: . notícia--informació}
