@@ -4,20 +4,20 @@ title: "Installing RSSMii"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+במקרה ונדרשת עזרה או תמיכה טכנית בנוגע למדריך, בבקשה הצטרפו לשרת הדיסקורד של [ RiiConnect24](https://discord.gg/b4Y7jfD), או [שלחו אלינו אי-מייל](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Do you want to get RSS feed updates on your Wii Message Board? This tutorial will tell you how to set RSSMii up.
 
 ![RSSMii](/images/rssmii.png)
 
-#### What you need
+#### לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
 
 * An SD card
 * [RSSMii](https://github.com/RiiConnect24/rssmii/releases)
 
-#### Instructions
-##### Section I - Downloading/Installing
+#### הוראות
+##### חלק א - הורדה והתקנה
 
 1. Extract RSSMii and put it in the `apps` folder on your SD card.
 2. We need to create a `feeds.xml` on the root of the SD card so the app will know what feeds to subscribe you to.
