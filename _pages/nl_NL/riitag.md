@@ -30,7 +30,7 @@ Want to install RiiTag on your Wii U? See [this guide](riitag-wiiu) on how to co
 6. Klik op `Submit` om uw veranderingen op te slaan.
 
 Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
-{: .notice--warning}
+{: .notice--waarschuwing}
 
 ##### Deel II - Aan sluiten op een USB Loader
 
