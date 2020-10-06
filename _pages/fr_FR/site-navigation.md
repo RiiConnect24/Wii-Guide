@@ -1,7 +1,7 @@
 ---
 title: "Site Navigation"
 layout: single
-sitemap: false
+sitemap: faux
 ---
 
 ![WiiTutorials](/images/WiiTutorials.jpg)
@@ -27,7 +27,7 @@ sitemap: false
 + [Fixing NEWS000006](news000006)
 
 **Modding 101**
-* [BootMii Backup](bootmii)
+* [Sauvegarde BootMii](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
@@ -57,7 +57,7 @@ sitemap: false
 
 **Site**
 + [Home](/)
-+ [Get Started](get-started)
++ [Pour débuter](Commencer)
 + [FAQ](faq)
 + [Donations](donations)
 {% endcapture %}
