@@ -2,7 +2,7 @@
 title: "RiiConnect24"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Innholdsfortegnelse" %}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
@@ -17,7 +17,7 @@ If you need help for anything regarding this tutorial, please directly contact K
 * [Dolphin](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-#### Instructions
+#### Instruksjoner
 
 ##### Section I - Installing Dolphin
 
