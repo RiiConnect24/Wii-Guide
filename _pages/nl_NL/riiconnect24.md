@@ -2,7 +2,7 @@
 title: "RiiConnect24"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Inhoudsopgave" %}
 
 Als u hulp nodig heeft bij iets wat met deze tutorial te maken heeft, sluit u dan aan bij [de RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (aanbevolen) of [e-mail ons via support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -22,9 +22,9 @@ There is no guide to installing RiiConnect24 on a Wii Mini, as attempting to ins
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-#### What you need
+#### Benodigdheden
 
-* An SD card or USB drive
+* Een SD-kaart of USB-stick/ harde schijf
 * A Wii with an Internet connection
 * A computer
 * [RiiConnect24 Patcher (Windows only)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
@@ -50,7 +50,7 @@ Requires at least 3GB of RAM. Ethernet connection required. Works on VM's.
 If you still can't run RiiConnect24 Patcher, please send us a mail at support@riiconnect24.net
 {: .notice--info}
 
-#### Instructions
+#### Instructies
 
 ##### Section I - Patching IOS
 
@@ -69,7 +69,7 @@ If you still can't run RiiConnect24 Patcher, please send us a mail at support@ri
 10. Once it's done, you can now safely close the patcher. All of the files are ready on your SD Card. ![It's done!](/images/RC24_Patcher/9.PNG) ![Files copied](/images/RC24_Patcher/10.PNG)
 11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24 Patcher.bat` to your SD Card or USB Device.
 12. Put your SD card or USB drive in your Wii.
-13. Launch the Homebrew Channel on your Wii.
+13. Open het Homebrew Kanaal op uw Wii.
 14. Launch Wii Mod Lite.
 15. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 16. When `IOS31.wad` is highlighted, press +, then do the same for all the other WADs.
@@ -118,16 +118,16 @@ If you get error 107304, then perhaps your ISP blocks the use of custom DNS. A w
 {: .notice--info}
 
 [If you get error FORE000006, following this tutorial should fix it.](riiconnect24-batteryfix)
-{: .notice--warning}
+{: .notice--waarschuwing}
 
 [If you get error NEWS000006, following this tutorial should fix it.](news000006)
-{: .notice--warning}
+{: .notice--waarschuwing}
 
 [If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, please go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
-{: .notice--warning}
+{: .notice--waarschuwing}
 
 [If you're getting a discontinued message when opening the News or Forecast Channel, then following this tutorial should fix it.](deleting-vffs)
-{: .notice--warning}
+{: .notice--waarschuwing}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
