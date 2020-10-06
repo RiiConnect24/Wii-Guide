@@ -15,7 +15,7 @@ Per favore **non** installare Priiloader su una Wii virtuale (la modalità Wii s
 {: .notice--warning}
 
 #### Di cosa hai bisogno
-* An SD card
+* Una SD card
 * [Priiloader](/assets/files/Priiloader_v0_9.zip)
 
 #### Istruzioni
