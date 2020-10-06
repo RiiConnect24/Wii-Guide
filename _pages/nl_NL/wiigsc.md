@@ -10,17 +10,17 @@ Als u hulp nodig heeft bij iets wat met deze tutorial te maken heeft, sluit u da
 Do you use a USB Loader and want to create game shortcuts to launch them on your Wii Menu? Then try WiiGSC (Wii Game Shortcut Creator), previously known as Crap.
 
 In the case of a brick, [installing Priiloader is a must](/priiloader). Also, install BootMii (as Boot2 if you have an early Wii). Installing brick protection along with following the guide correctly should keep you safe from bricks. DO NOT CONTINUE UNTIL YOU HAVE INSTALLED PRIILOADER AND BOOTMII!
-{: .notice--warning}
+{: .notice--waarschuwing}
 
-#### What you need
+#### Benodigdheden
 
-* A Wii
+* Een Wii
 * A USB drive.
 * A WAD Manager (Wii Mod Lite is recommended).
 * A Windows computer.
 * [WiiGSC](https://wiidatabase.de/downloads/pc-tools/wiigsc-ehemals-crap/)
 
-#### Instructions
+#### Instructies
 
 1. Install WiiGSC, then right click on it and choose **Run as administrator**. If you do not do this, WiiGSC will throw an error when you open it.
 2. Select the path to the ISO or WBFS file on your USB drive, and select the USB Loader you use. The other options should be fine the way thy are.
