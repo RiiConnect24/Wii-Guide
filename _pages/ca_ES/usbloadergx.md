@@ -4,8 +4,8 @@ title: "USB Loader GX"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: .notice--info}
+Si necessiteu ajuda per a qualsevol cosa relacionada amb aquest tutorial, per favor uniu-vos al [servidor de RiiConnect24](https://discord.gg/b4Y7jfD) (recomanat) o[envia'ns un e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: . notícia--informació}
 
 This is a quick start guide on how to use USB Loader GX, a popular USB loader for the Wii that's used to play games from a USB drive.
 
@@ -18,18 +18,18 @@ This is a quick start guide on how to use USB Loader GX, a popular USB loader fo
 * [USB Loader GX](https://sourceforge.net/projects/usbloadergx/files/latest/download)
 
 Make sure you have installed [cIOS](/cios) before following this!
-{: .notice--info}
+{: . notícia--informació}
 
 We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, or [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS.
-{: .notice--info}
+{: . notícia--informació}
 
 To play multiple games, we recommend a USB-powered external hard drive for your Wii. We will refer to it as a "USB drive" in this guide. Most of the ones you can find on the market should work fine if they have USB 2 backwards compatibility. Drives with 1 TB or more in capacity will work. A flash drive will also work, but due to the size of a flash drive, it won't be able to store as many games.
-{: .notice--info}
+{: . notícia--informació}
 
 Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as extFS or WBFS, the latter is an old format of storing Wii games.
-{: .notice--info}
+{: . notícia--informació}
 
-#### Instructions
+#### Instruccions
 
 ##### Downloading
 
@@ -39,7 +39,7 @@ Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as othe
 ##### Getting Started
 
 There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
-{: .notice--info}
+{: . notícia--informació}
 
 * If USB Loader GX says "Waiting for HDD..." with a 20 seconds countdown, it's likely that it can't find the USB drive. Try to exit out of the app, and then relaunch it after you put the USB drive in the other port of the Wii.
 * You can press the 1 Button on your Wii Remote to open up a dialog to download game covers and artwork from [GameTDB](https://gametdb.com/). It might take a while to download the game covers and artwork, depending on how many games you have.
@@ -82,4 +82,4 @@ On the middle of the bottom of the screen, you can see how much space is free on
 ##### Options once complete
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
-{: .notice--info}
+{: . notícia--informació}
