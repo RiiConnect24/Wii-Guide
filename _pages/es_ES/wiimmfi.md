@@ -82,21 +82,21 @@ If you are already using USB Loader GX, try updating it to the most recent versi
 ### WiiWare Patching
 You can patch WiiWare games in order to play them on Wiimmfi.
 
-#### What you need
+#### Requisitos
 
 - Un tarjeta SD
 - Your copy of your game (in WAD format)
-- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows only)  
-**or**
+- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (sólo para Windows)  
+**o**
 - [Auto WiiWare Patcher](https://github.com/RiiConnect24/auto-wiiware-patcher/releases) (cross platform)
-- [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+- [Instalar WADs con Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
 [If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
 {: .notice--info}
 
 Steps:
 1. Extract the .zip of the latest version of Auto WiiWare Patcher, and put your WAD in it.
-2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
+2. Comience el script de patch por tu OS: generalmente, terminará en `.bat` para Windows y `.sh` para Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
 3. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
 
 ## Otras cosas
@@ -133,12 +133,12 @@ Wiimmfi no solo soporta juegos de Wii, también soporta un montón de juegos de 
 Getting a Wi-Fi network with WEP or no security is the hardest part, because DS games don't support newer Wi-Fi security types (unless it's one of the few games that are "DSi Enhanced" and can use your Wi-Fi configuration on your DSi or 3DS, like Pokémon Black/White). However, many routers support creating a guest Wi-Fi connection, or you can make a hotspot on your phone or your computer. There are plenty of resources on the Internet that have information on this, so use your favorite search engine to find them.
 {: .notice--info}
 
-#### Instructions
+#### Instrucciones
 
 1. Go in the Nintendo DS Wi-Fi settings. This can be accessed inside the game you want to play online with.
 2. Set up a connection.
-3. Type in `164.132.44.106` as the primary DNS.
-4. Type in `1.1.1.1` as the secondary DNS (if it gives you problems, try `8.8.8.8`).
+3. Ingresa `164.132.44.106` como el DNS primario.
+4. Escriba `1.1.1.1` como DNS secundario (si le da problemas, intente `8.8.8.8`).
 5. Save your connection settings and perform a connection test. If it's successful, then you're ready to play.
 
 ### CTGP-R (Mario Kart Wii)
@@ -150,5 +150,5 @@ Huili has put together a really good collection of custom tracks and hacks calle
 ### Wiimms MKW Fun (Mario Kart Wii)
 Wiimm and Leseratte created a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte and contains a Wiimmfi patch and lots of other features. You can find out more about it on its [wiki page](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Echa un vistazo a nuestras demás guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
 {: .notice--info}
