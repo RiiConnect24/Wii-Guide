@@ -4,8 +4,8 @@ title: RiiTag on Wii U
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: .notice--info}
+Si necessiteu ajuda per a qualsevol cosa relacionada amb aquest tutorial, per favor uniu-vos al [servidor de RiiConnect24](https://discord.gg/b4Y7jfD) (recomanat) o[envia'ns un e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: . notícia--informació}
 
 RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You launch a plugin on your Wii U console, and the tag updates on-the-fly.
 
@@ -18,7 +18,7 @@ RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynam
 - The latest release of [Wii U Plugin Loader](https://github.com/Maschell/WiiUPluginLoader/releases)
 - The latest release of [UTag plugin](https://github.com/RiiConnect24/UTag/releases)
 
-#### Instructions
+#### Instruccions
 
 ##### Section I - Website instructions
 
@@ -52,5 +52,5 @@ You have now set up RiiTag on your Wii U! Note that you will have to launch the 
 {: .notice--success}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
-{: .notice--info}
+{: . notícia--informació}
 
