@@ -2,9 +2,9 @@
 title: "Wiimmfi"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Table des matières" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si vous avez besoin d’aide par rapport au tutoriel, veuillez rejoindre [le serveur Discord de RiiConnect24](https://discord.gg/b4Y7jfD) (recommandé) ou [envoyez un e-mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
@@ -18,7 +18,7 @@ There are lots of different methods to connect to Wiimmfi.
 ### Homebrew (Disc) Application
 MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
 
-#### What you need
+#### Qu’est-ce que vous avez besoin
 * An SD card or USB drive
 * [Auto Wiimmfi Patcher](/assets/files/autowiimmfipatcher-0.6.zip)
 
@@ -32,7 +32,7 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 ### No-Homebrew (Disc)
 Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
 
-#### What you need
+#### Qu’est-ce que vous avez besoin
 * A Wii with an Internet connection
 
 #### Instructions
@@ -48,7 +48,7 @@ Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for th
 ### ISO Patching
 You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
 
-#### What you need
+#### Qu’est-ce que vous avez besoin
 - Your copy of your game (WBFS, ISO, cISO, and other forms that a Wii can use are supported).
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows only)  
 **or**
@@ -64,7 +64,7 @@ You may not want to run a patcher each time you want to play on Wiimmfi, and may
 
 ### Automatic patching from the Disc Channel using Priiloader
 
-#### What you need
+#### Qu’est-ce que vous avez besoin
 - A Wii with Priiloader 0.9 or later installed
 
 If you have an older version of Priiloader, follow [this guide](priiloader) to update.
@@ -82,9 +82,9 @@ If you are already using USB Loader GX, try updating it to the most recent versi
 ### WiiWare Patching
 You can patch WiiWare games in order to play them on Wiimmfi.
 
-#### What you need
+#### Qu’est-ce que vous avez besoin
 
-- An SD card
+- Une carte SD
 - Your copy of your game (in WAD format)
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows only)  
 **or**
@@ -104,7 +104,7 @@ Steps:
 ### Mario Kart Wii Competitions
 Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
-#### What you need
+#### Qu’est-ce que vous avez besoin
 
 - An SD card or USB drive
 - Mario Kart Wii Competition Patcher
@@ -126,7 +126,7 @@ If you're using the Wii U, you will have to run the competitions patcher wheneve
 ### DS Games
 Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks to an exploit called nds-constraint, you can play DS games without patching your games.
 
-#### What you need
+#### Qu’est-ce que vous avez besoin
 
 - A Wi-Fi network with WEP or no security
 
