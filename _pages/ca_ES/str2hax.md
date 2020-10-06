@@ -4,11 +4,11 @@ title: "str2hax"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: .notice--info}
+Si necessiteu ajuda per a qualsevol cosa relacionada amb aquest tutorial, per favor uniu-vos al [servidor de RiiConnect24](https://discord.gg/b4Y7jfD) (recomanat) o[envia'ns un e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: . notícia--informació}
 
 Note that if your ISP or networking environment prevents using custom DNS servers, str2hax will not work and you should [choose another exploit to use](get-started).
-{: .notice--info}
+{: . notícia--informació}
 
 str2hax is an exploit for the Wii that is triggered by loading the Wii's End User License Agreement. It requires nothing but an Internet connection that lets you change the DNS on your Wii.
 
@@ -16,7 +16,7 @@ str2hax is an exploit for the Wii that is triggered by loading the Wii's End Use
 
 * A Wii with an Internet connection
 
-#### Instructions
+#### Instruccions
 
 ##### Section I - Connecting
 
@@ -44,4 +44,4 @@ This exploit requires you to set your DNS in order to connect to a server that c
 If the HackMii Installer doesn't load and it instead freezes (you can't move your cursor) or it doesn't take 1-2 minutes to trigger, please restart your Wii and retry the exploit.
 
 [Continue to Homebrew Channel and BootMii Installation](hbc)
-{: .notice--info}
+{: . notícia--informació}
