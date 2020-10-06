@@ -15,7 +15,7 @@ Instaleer Priiloader **niet** op een vWii (Wiiu in Wii modus). Dat zal resultere
 {: .notice--warning}
 
 #### Benodigdheden
-* An SD card
+* Een SD-kaart
 * [Priiloader](/assets/files/Priiloader_v0_9.zip)
 
 #### Instructies
