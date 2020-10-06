@@ -8,7 +8,7 @@ Als u hulp nodig heeft bij iets wat met deze tutorial te maken heeft, sluit u da
 {: .notice--info}
 
 Wii Backup Manager is a program to copy Wii games from your computer to a USB drive so you can play the games on your Wii. It also can download game covers from [GameTDB](https://gametdb.com/) and can be used to list what games you have. This tutorial will tell you how to copy over games from your computer to your USB drive. The other features are able to be used in the easy-to-use interface.
-#### What you need
+#### Benodigdheden
 
 * A USB drive
 * [Wii Backup Manager](https://static.wiidatabase.de/Wii-Backup-Manager.zip)
@@ -16,13 +16,13 @@ Wii Backup Manager is a program to copy Wii games from your computer to a USB dr
 We recommend you use [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS. Wii Backup Manager doesn't work on macOS.
 {: .notice--info}
 
-To play multiple games, we recommend a USB-powered external hard drive for your Wii. We will refer to it as a "USB drive" in this guide. Most of the ones you can find on the market should work fine if they have USB 2 backwards compatibility. Drives with 1 TB or more in capacity will work. A flash drive will also work, but due to the size of a flash drive, it won't be able to store as many games.
+Om meerdere spellen te spelen, bevelen we u een USB-aangedreven externe harde schijf aan voor uw Wii. We will refer to it as a "USB drive" in this guide. De meeste van deze op de markt werken prima als ze USB 2 terugwaartse compatibiliteit hebben. Schijven met een capaciteit van 1 TB of meer zullen werken. Een USB stick zal ook werken, maar vanwege de grootte van een USB stick zal het niet zoveel spellen kunnen opslaan.
 {: .notice--info}
 
-Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as extFS or WBFS, the latter is an old format of storing Wii games.
+Make sure your USB drive is formatted as FAT32 or NTFS. Formatteer deze niet in andere formaten zoals extFS of WBFS, de laatste is een oud formaat voor het opslaan van Wii-spellen.
 {: .notice--info}
 
-#### Instructions
+#### Instructies
 
 ##### Section I - Downloading
 
@@ -37,7 +37,7 @@ Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as othe
 4. Select `Files` to add multiple games to the program, or select `Folder` to add a whole folder of games.
 5. Select `Transfer`, then select `Drive 1` to transfer the games over. It might take a while for the games to copy over.
 
-##### Options once complete
+##### Opties eenmaal voltooid
 
 [Continue to cIOS](cios)<br> cIOS is needed for your Wii to use a USB Loader.
 {: .notice--info}
