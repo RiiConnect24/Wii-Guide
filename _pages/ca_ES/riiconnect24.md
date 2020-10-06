@@ -1,11 +1,11 @@
 ---
-title: "RiiConnect24"
+title: "Riiconnect24"
 ---
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: .notice--info}
+Si necessiteu ajuda per a qualsevol cosa relacionada amb aquest tutorial, per favor uniu-vos al [servidor de RiiConnect24](https://discord.gg/b4Y7jfD) (recomanat) o[envia'ns un e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: . notícia--informació}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
@@ -48,14 +48,14 @@ Requires at least 3GB of RAM. Ethernet connection required. Works on VM's.
 - [Google Drive - RiiConnect24 Patcher Windows PE_AMD64.iso](https://drive.google.com/file/d/190fvktXtUDAhFogJnOEh2EgrCl5Dm_vP/view?usp=sharing)
 
 If you still can't run RiiConnect24 Patcher, please send us a mail at support@riiconnect24.net
-{: .notice--info}
+{: . notícia--informació}
 
-#### Instructions
+#### Instruccions
 
 ##### Section I - Patching IOS
 
 [If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
-{: .notice--info}
+{: . notícia--informació}
 
 1. Download the required files based on your OS. On Windows run `RiiConnect24Patcher.bat`.
 2. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`. ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.PNG)
@@ -84,7 +84,7 @@ You will now patch your `nwc24msg.cfg` file which is required in order to use Wi
 2. It should only take a few seconds to patch your nwc24msg.cfg. When it's done, press HOME to exit.
 
 If you were unable to patch your nwc24msg.cfg correctly, e-mail us at [support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: .notice--info}
+{: . notícia--informació}
 
 ##### Section III - Connecting
 
@@ -109,13 +109,13 @@ In this section, you will set your DNS to our servers. It's optional but recomme
 
 
 [Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
-{: .notice--info}
+{: . notícia--informació}
 
 If you get error 107245, then you probably have failed to patch your IOS correctly.
-{: .notice--info}
+{: . notícia--informació}
 
 If you get error 107304, then perhaps your ISP blocks the use of custom DNS. A workaround for this can be running your own DNS server! See the [RiiConnect24 DNS Server on GitHub](https://github.com/RiiConnect24/DNS-Server), then use your PC's IP address in place of our DNS in Step 8.
-{: .notice--info}
+{: . notícia--informació}
 
 [If you get error FORE000006, following this tutorial should fix it.](riiconnect24-batteryfix)
 {: .notice--warning}
@@ -130,4 +130,4 @@ If you get error 107304, then perhaps your ISP blocks the use of custom DNS. A w
 {: .notice--warning}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
-{: .notice--info}
+{: . notícia--informació}
