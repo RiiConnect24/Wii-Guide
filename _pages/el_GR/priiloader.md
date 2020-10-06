@@ -15,7 +15,7 @@ title: "Priiloader"
 {: .notice--warning}
 
 #### Τι χρειάζεστε
-* An SD card
+* Μια κάρτα SD
 * [Το Priiloader](/assets/files/Priiloader_v0_9.zip)
 
 #### Οδηγίες
