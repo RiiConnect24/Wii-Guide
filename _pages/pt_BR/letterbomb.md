@@ -2,7 +2,7 @@
 title: "LetterBomb"
 ---
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Caso precise de ajuda com este tutorial, entre [no servidor do RiiConnect24 no Discord](https://discord.gg/b4Y7jfD) (recomendado) ou [envie um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![LetterBomb](/images/letterbomb.png)
@@ -12,12 +12,12 @@ LetterBomb is an exploit for the Wii that is triggered using the Wii Message Boa
 This exploit is one of many. Check out the [Get Started](/get-started) page for other options.
 {: .notice--info}
 
-#### What you need
+#### Você precisará de
 - An SD card
 - A Wii on system version 4.3
    - This exploit will not work on a Wii mini or vWii
 
-#### Instructions
+#### Instruções
 
 1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
 2. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure* `Bundle the HackMii Installer for me!` *is checked*, and cut either wire
@@ -29,5 +29,5 @@ This exploit is one of many. Check out the [Get Started](/get-started) page for 
 
 ![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[Continue para a instalação do Homebrew Channel e BootMii](hbc)
 {: .notice--info}
