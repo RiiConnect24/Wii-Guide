@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Wii Guide"
+title: "Guía Wii"
 header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
@@ -12,7 +12,7 @@ excerpt: "The complete guide to modding your Nintendo Wii."
 ---
 
 The guide is also available in other languages! To change the language, please press the icon at top right and change your language.
-{: .notice--info}
+{: . notícia--informació}
 
 ## What is "homebrew"?
 
@@ -36,7 +36,7 @@ Here's a list of things you can do with it. While these aren't all the things yo
 - Turn your Wii into a media player with [WiiMC](http://www.wiimc.org/).
 
 Get started by [choosing your exploit](get-started)!
-{: .notice--info}
+{: . notícia--informació}
 
 ## More Resources
 
