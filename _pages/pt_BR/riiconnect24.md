@@ -2,9 +2,9 @@
 title: "RiiConnect24"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sumário" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Caso precise de ajuda com este tutorial, entre [no servidor do RiiConnect24 no Discord](https://discord.gg/b4Y7jfD) (recomendado) ou [envie um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
@@ -22,9 +22,9 @@ There is no guide to installing RiiConnect24 on a Wii Mini, as attempting to ins
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-#### What you need
+#### Você precisará de
 
-* An SD card or USB drive
+* Um cartão SD ou pendrive
 * A Wii with an Internet connection
 * A computer
 * [RiiConnect24 Patcher (Windows only)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
@@ -50,7 +50,7 @@ Requires at least 3GB of RAM. Ethernet connection required. Works on VM's.
 If you still can't run RiiConnect24 Patcher, please send us a mail at support@riiconnect24.net
 {: .notice--info}
 
-#### Instructions
+#### Instruções
 
 ##### Section I - Patching IOS
 
