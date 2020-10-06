@@ -2,9 +2,9 @@
 title: "CleanRip"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Innholdsfortegnelse" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Hvis du trenger hjelp med noe om denne inføringen, bli med i [RiiConnect24 Discord serveren](https://discord.gg/b4Y7jfD) (anbefalt) eller [e-mail oss på support@riiconnect24.net](mailto:support@riiconnect24.net). (Ikke send noe på Norsk, er du snill).
 {: .notice--info}
 
 Do you want to make a backup of your games? This tutorial will explain you how to use CleanRip.
@@ -16,7 +16,7 @@ Do you want to make a backup of your games? This tutorial will explain you how t
 * An SD card or USB drive with at least 4.7 GB of free space
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
-#### Instructions
+#### Instruksjoner
 
 ##### Section I - Downloading/Installing
 
