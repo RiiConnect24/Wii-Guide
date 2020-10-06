@@ -27,7 +27,7 @@ sitemap: false
 + [Fixing NEWS000006](news000006)
 
 **Modding 101**
-* [BootMii Backup](bootmii)
+* [BootMii Back-up](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
@@ -42,10 +42,10 @@ sitemap: false
 + [Creating Wii Game Shortcuts](wiigsc)
 + [How to dump GameCube/Wii games](dump-games)
 + [How to dump Channels (WADs)](dump-wads)
-+ [Installing RSSMii](rssmii)
++ [RSSMii installeren](rssmii)
 + [Installing Wii Themes](themes)
 + [Performing a SysCheck](syscheck)
-+ [Removing RSSMii](rssmii-remove)
++ [RSSMii verwijderen](rssmii-remove)
 + [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
@@ -57,7 +57,7 @@ sitemap: false
 
 **Site**
 + [Home](/)
-+ [Get Started](get-started)
++ [Beginnen](get-started)
 + [FAQ](faq)
 + [Donations](donations)
 {% endcapture %}
