@@ -1,5 +1,5 @@
 ---
-title: "Site Navigation"
+title: "ניווט באתר"
 layout: single
 sitemap: false
 ---
@@ -27,7 +27,7 @@ sitemap: false
 + [Fixing NEWS000006](news000006)
 
 **Modding 101**
-* [BootMii Backup](bootmii)
+* [לגבות באמצעות BootMii](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
@@ -35,7 +35,7 @@ sitemap: false
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
 + [str2hax](str2hax)
-+ [BlueBomb](bluebomb)
++ [Bluebomb](bluebomb)
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
@@ -57,8 +57,8 @@ sitemap: false
 
 **Site**
 + [Home](/)
-+ [Get Started](get-started)
-+ [FAQ](faq)
++ [צעדים ראשונים](get-started)
++ [שאלות נפוצות](faq)
 + [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
