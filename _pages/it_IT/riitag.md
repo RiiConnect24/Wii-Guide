@@ -29,7 +29,7 @@ Want to install RiiTag on your Wii U? See [this guide](riitag-wiiu) on how to co
 5. Clicca su `Mostra Chiave` e prendi nota della chiave mostrata. Questo non serve se usi un USB Loader GX, perchè la chiave sarà in un file scaricabile.
 6. Clicca su `Salva` per salvare i cambiamenti.
 
-Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
+Non condividere la tua Chiave RiiTag con nessuno! Se lo farai, le persone possono abusare la tua tag.
 {: .notice--warning}
 
 ##### Parte II - Connettere il tuo USB Loader
@@ -77,5 +77,5 @@ You can use the `CfgLoaderConfigurator.exe` program (Windows only) instead of ed
 [Check out RiiTag-RPC](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br> Now that you set up RiiTag, you can set up RiiTag-RPC to show your friends what you're playing on the Wii using Discord's rich presence.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
 {: .notice--info}
