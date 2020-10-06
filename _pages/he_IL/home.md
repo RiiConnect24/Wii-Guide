@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
-  cta_label: "Get Started"
+  cta_label: "צעדים ראשונים"
   cta_url: "get-started"
   caption:
 excerpt: "The complete guide to modding your Nintendo Wii."
