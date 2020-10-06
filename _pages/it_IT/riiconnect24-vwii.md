@@ -59,7 +59,7 @@ Usando il patcher RiiConnect24 che dovresti aver installato prima in [Di cosa ha
 
 ##### Section III - Patching 43db for 16:9 (optional)
 
-1. Open the Homebrew Channel
+1. Apri il canale Homebrew Channel
 2. Launch the ww-43db-patcher
 
 If you install a theme, you will have to run the ww-43db-patcher once more
