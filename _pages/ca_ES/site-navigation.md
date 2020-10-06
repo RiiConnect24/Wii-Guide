@@ -10,24 +10,24 @@ sitemap: fals
 **Featured**
 
 + [cIOS](cios)
-+ [RiiConnect24](riiconnect24)
++ [Riiconnect24](riiconnect24)
 + [Wiimmfi](wiimmfi)
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
-+ [RiiConnect24](riiconnect24)
++ [Riiconnect24](riiconnect24)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
-+ [Wiimmfi](wiimmfi)
++ [Wiimmifi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Deleting VFFs](deleting-vffs)
 + [Fixing FORE000006](riiconnect24-batteryfix)
 + [Fixing NEWS000006](news000006)
 
 **Modding 101**
-* [BootMii Backup](bootmii)
+* [Còpia de seguretat de BootMii](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
@@ -35,7 +35,7 @@ sitemap: fals
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
 + [str2hax](str2hax)
-+ [BlueBomb](bluebomb)
++ [BlueBomb (Bomba Blava)](bluebomb)
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
@@ -58,7 +58,7 @@ sitemap: fals
 **Site**
 + [Home](/)
 + [Get Started](get-started)
-+ [FAQ](faq)
++ [Preguntes Freqüents](preguntes freqüents)
 + [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
