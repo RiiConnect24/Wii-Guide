@@ -1,7 +1,7 @@
 ---
-title: "Site Navigation"
-layout: single
-sitemap: false
+title: "Πλοήγηση ιστοσελίδας"
+layout: μονή
+sitemap: λάθος
 ---
 
 ![WiiTutorials](/images/WiiTutorials.jpg)
@@ -9,7 +9,7 @@ sitemap: false
 {% capture notice-1 %}
 **Featured**
 
-+ [cIOS](cios)
++ [cIOS (προσαρμοσμένο IOS)](cios)
 + [RiiConnect24](riiconnect24)
 + [Wiimmfi](wiimmfi)
 {% endcapture %}
@@ -27,8 +27,8 @@ sitemap: false
 + [Fixing NEWS000006](news000006)
 
 **Modding 101**
-* [BootMii Backup](bootmii)
-+ [cIOS](cios)
+* [Αντίγραφο ασφαλείας με το BootMii](bootmii)
++ [cIOS (προσαρμοσμένο IOS)](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
 + [Homebrew Channel](hbc)
@@ -57,8 +57,8 @@ sitemap: false
 
 **Site**
 + [Home](/)
-+ [Get Started](get-started)
-+ [FAQ](faq)
++ [Ξεκινώντας](ξεκινώντας)
++ [Συχνές ερωτήσεις](συχνές ερωτήσεις)
 + [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
