@@ -12,6 +12,9 @@ LetterBomb is an exploit for the Wii that is triggered using the Wii Message Boa
 This exploit is one of many. Check out the [Get Started](/get-started) page for other options.
 {: .notice--info}
 
+LetterBomb's website, please.hackmii.com as well as bootmii.org are (hopefully temporarily) down. Please use [this mirror](https://letterbomb.andrewtech.net/) instead for the time being. Unfortunately there's no alternative for the bootmii website at the moment.
+{: .notice--warning}
+
 #### What you need
 - An SD card
 - A Wii on system version 4.3
