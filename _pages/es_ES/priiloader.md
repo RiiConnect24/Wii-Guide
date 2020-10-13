@@ -21,7 +21,7 @@ Por favor **no** intentes instalar Priiloader en el modo Wii de un Wii U (vWii).
 #### Instrucciones
 ##### Sección I - Descarga/instalación
 
-1. Download Priiloader and extract it to the `apps` folder on your SD card or USB drive.
+1. Descargue Priiloader y extráigalo a la carpeta ` aplicaciones ` en su tarjeta SD o unidad USB.
 2. Inserta tu tarjeta SD en tu Wii, y inicia Priiloader desde el Homebrew Channel.
 
 ##### Sección II - Instalación
@@ -38,8 +38,8 @@ Por favor **no** intentes instalar Priiloader en el modo Wii de un Wii U (vWii).
 ![Encender](/images/Priiloader/5.jpg) ![Mantener RESET](/images/Priiloader/4.jpg)
 
 2. Deberías ver el menú de Priiloader. ![Menú](/images/Priiloader/6.png)
-3. Go to `System Menu Hacks`.
-4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![Hacks del menú del sistema](/images/Priiloader/7.png)
+3. Vaya a `System Menu Hacks`.
+4. Le recomendamos que active los siguientes trucos: ` Region Free EVERYTHING`, ` Block Disc Updates ` y ` Block Online Updates `. ![Hacks del menú del sistema](/images/Priiloader/7.png)
 
 ## Lista de hacks para el menú de Wii
 
