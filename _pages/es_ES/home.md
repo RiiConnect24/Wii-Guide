@@ -47,5 +47,5 @@ Estas son algunas otras fuentes y guías relacionadas con la modificación de la
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
 - [Wii Hacking Explained - por Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/)...y por supuesto, este sitio web
 
-For modding a Wii U, follow this guide:
+Para modificando un Wii U, sigue esta guía:
 - [NH Wii U Guide](https://wiiu.hacks.guide)
