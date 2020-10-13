@@ -35,11 +35,11 @@ There is no guide to installing RiiConnect24 on a Wii Mini, as attempting to ins
 
 Hemos preparado una imagen ISO arrancable que te permitira usar Windows PE - Una version ligera de Windows que te permitirá usar el parcheador. This is not required if you use Windows.
 
-Requires at least 3GB of RAM. Requiere conexión por Ethernet. Funciona en maquinas virtuales.
+Requiere al menos 3 GB de RAM. Requiere conexión por Ethernet. Funciona en maquinas virtuales.
 {% endcapture %}
 <div class="notice--info">{{ notice-2 | markdownify }}</div>
 
-<i class="fa fa-magnet" aria-hidden="true" title="Este es un enlace magnético. Use a torrent client to download the file."></i>
+<i class="fa fa-magnet" aria-hidden="true" title="Este es un enlace magnético. Utilice un cliente de torrent para descargar el archivo."></i>
 **Bootable image with RiiConnect24 Patcher:**
 
 - [BitTorrent - RiiConnect24 Patcher Windows PE_x86.iso](magnet:?xt=urn:btih:a76a17999ba6cb7f528bea9dc39ad4cfcac2d62a&dn=RiiConnect24%20Patcher%20Windows%20PE%5Fx86.iso&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://p4p.arenabg.ch:1337/announce&tr=http://p4p.arenabg.com:1337/announce&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://tracker3.itzmx.com:6961/announce&tr=http://tracker4.itzmx.com:2710/announce&tr=http://tracker1.itzmx.com:8080/announce&tr=udp://tracker.moeking.me:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://bt2.archive.org:6969/announce&tr=udp://bt1.archive.org:6969/announce&tr=udp://explodie.org:6969/announce)
@@ -70,7 +70,7 @@ If you still can't run RiiConnect24 Patcher, please send us a mail at support@ri
 11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24 Patcher.bat` to your SD Card or USB Device.
 12. Put your SD card or USB drive in your Wii.
 13. Inicia el Canal Homebrew en tu Wii.
-14. Launch Wii Mod Lite.
+14. Inicie Wii Mod Lite.
 15. Usando la cruz de control en tu Wiimote, selecciona `WAD Manager` (Administrador de WADs), y luego abre la carpeta `wad`.
 16. Cuando `IOS31.wad` esté resaltado, oprime el botón +, y después haz lo mismo con el resto de WADs.
 17. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted WAD to uninstall it, then try installing it again.
