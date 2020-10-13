@@ -72,7 +72,7 @@ If you have an older version of Priiloader, follow [this guide](priiloader) to u
 
 #### Instrucciones
 1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
-2. Go to `System Menu Hacks`.
+2. Vaya a `System Menu Hacks`.
 3. Make sure the `Wiimmfi patch v2` hack is enabled.
 4. Save settings and exit.
 
@@ -101,13 +101,13 @@ Steps:
 
 ## Otras cosas
 
-### Mario Kart Wii Competitions
+### Competiciones de Mario Kart Wii
 Wiimmfi te permite volver a participar en competiciones de Mario Kart Wii.
 
 #### Que necesitas
 
 - Un tarjeta SD o unidad USB
-- Mario Kart Wii Competition Patcher
+- Patcher de Competición de Mario Kart Wii (Mario Kart Wii Competition Patcher)
    - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
    - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
