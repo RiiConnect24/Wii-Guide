@@ -22,7 +22,7 @@ Dieser Exploit ist einer von vielen. Gehe auf die [Einstiegs](/get-started)-Seit
 1. Gehe auf deiner Wii in die `Wii-Systemeinstellungen` -> `Internet` -> `Konsoleninformationen` und notiere deine MAC-Adresse.
 2. Gehe auf [please.hackmii.com](https://please.hackmii.com), gib die MAC-Adresse und Region deiner Wii ein, löse das CAPTCHA, *stelle sicher, dass* `Bundle the HackMii Installer for me!` *ausgewählt ist* und schneide einen von beiden Drähten durch
    - Es ist egal, was auch immer du auswählst. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
-3. Entpacke die Inhalte der heruntergeladenen ZIP-Datei auf deine SD-Karte.
+3. Extract the contents of the downloaded ZIP to the root of your SD card.
 4. Gehe auf deiner Wii zurück ins Wii-Menü und öffne dann die Pinnwand.
 5. Öffne den roten Brief mit dem Bombensymbol.
    - Manchmal musst du beim vorherigen oder nachfolgenden Tag suchen, um ihn zu finden.
