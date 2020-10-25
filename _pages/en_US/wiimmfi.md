@@ -14,6 +14,7 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 ## Different patchers
 
 There are lots of different methods to connect to Wiimmfi. 
+Choose the one that fits your needs best.
 
 ### Automatic patching from the Disc Channel using Priiloader
 
@@ -52,6 +53,9 @@ Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for th
 6. Wait for about 1 minute and 30 seconds for the patcher to load
 7. The game should now start with the Wiimmfi patch included
 
+### Automatic patching using a USB Loader
+If you are already using USB Loader GX, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi. 
+
 ### ISO Patching
 You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
 
@@ -68,10 +72,6 @@ You may not want to run a patcher each time you want to play on Wiimmfi, and may
 1. Extract the patcher of your choice to a folder, and place your copy of the game in it.
 2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the patcher for your game.
 3. Once it's finished, get the version out of the `wiimmfi-images` folder (it may be in the folder outside of the patcher - ../wiimmfi-images) and copy it back to your USB.
-
-
-### Automatic patching using a USB-Loader
-If you are already using USB Loader GX, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi. 
 
 
 #### Instructions
