@@ -13,27 +13,34 @@ Caso precise de ajuda com este tutorial, entre [no servidor do RiiConnect24 no D
 
 ## Tipos de patchers
 
-Existem muitos métodos diferentes para se conectar ao Wiimmfi.
+There are lots of different methods to connect to Wiimmfi. Choose the one that fits your needs best.
 
-### Aplicativo Homebrew (Disco)
-MrBean35000vr (criador do CTGP-R, um mod para o Mario Kart Wii) criou o Wiimmfi Disc Patcher, que permite que você insira um disco e jogue com patch do Wiimmfi rapidamente, o ponto negativo é que é necessário fazer isso toda vez que decidir jogar no Wiimmfi.
+### Automatic patching from the Disc Channel using Priiloader
+
+#### Você precisará de
+- A Wii with Priiloader 0.9 or later installed
+
+If you have an older version of Priiloader, follow [this guide](priiloader) to update.
+{: .notice--info}
+
+#### Instruções
+1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
+2. Go to `System Menu Hacks`.
+3. Make sure the `Wiimmfi patch v2` hack is enabled.
+4. Save settings and exit.
+
+### Homebrew (Disc) Application
+MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
 
 #### Você precisará de
 * Um cartão SD ou pendrive
 * [Auto Wiimmfi Patcher](/assets/files/autowiimmfipatcher-0.6.zip)
 
-#### Instruções
-
-1. Extraia o Auto Wiimmfi Patcher e coloque dentro da pasta `apps `do seu Cartão SD ou USB.
-2. Insira seu Cartão SD ou USB no Wii e inicie o Auto Wiimmfi Patcher pelo Homebrew Channel.
-3. Insira o disco do jogo (você pode inseri-lo antes ou depois da inicialização, não importa).
-4. Aguarde o patch ser concluído e o jogo irá iniciar!
-
-### Sem Homebrew (Disco)
-Graças ao exploit str2hax do Fullmetal5's, Leseratte foi capaz de adaptá-lo ao patcher do Wiimmfi, isso permite que você jogue no Wiimmfi sem ter nenhum homebrew no seu console.
+### No-Homebrew (Disc)
+Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
 
 #### Você precisará de
-* Um Wii conectado à internet
+* A Wii with an Internet connection
 
 #### Instruções
 
@@ -45,7 +52,10 @@ Graças ao exploit str2hax do Fullmetal5's, Leseratte foi capaz de adaptá-lo ao
 6. Espera por volta de 1 minuto e 30 segundos até que o patcher carregue
 7. O jogo agora deve começar com o patch Wiimmfi incluído
 
-### Patch da IOS
+### Automatic patching using a USB Loader
+If you are already using USB Loader GX, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
+
+### ISO Patching
 You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
 
 #### Você precisará de
@@ -62,22 +72,13 @@ You may not want to run a patcher each time you want to play on Wiimmfi, and may
 2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the patcher for your game.
 3. Once it's finished, get the version out of the `wiimmfi-images` folder (it may be in the folder outside of the patcher - ../wiimmfi-images) and copy it back to your USB.
 
-### Automatic patching from the Disc Channel using Priiloader
-
-#### Você precisará de
-- A Wii with Priiloader 0.9 or later installed
-
-If you have an older version of Priiloader, follow [this guide](priiloader) to update.
-{: .notice--info}
 
 #### Instruções
-1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
-2. Go to `System Menu Hacks`.
-3. Make sure the `Wiimmfi patch v2` hack is enabled.
-4. Save settings and exit.
 
-### Automatic patching using a USB-Loader
-If you are already using USB Loader GX, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
+1. Extract Auto Wiimmfi Patcher and put it in the `apps` folder on your SD card or USB drive.
+2. Insert your SD Card into your Wii, and launch Auto Wiimmfi Patcher from the Homebrew Channel.
+3. Insert your game disc (you can insert it before or after launch, it doesn't matter).
+4. Wait for patch to complete, and it'll begin!
 
 ### WiiWare Patching
 You can patch WiiWare games in order to play them on Wiimmfi.
