@@ -13,24 +13,31 @@ Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz d
 
 ## Różne patchery
 
-Istnieją różne metody łącznia się z Wiimmfi.
+There are lots of different methods to connect to Wiimmfi. Choose the one that fits your needs best.
 
-### Aplikacja Homebrew (dla płyt z grą)
-MrBean35000vr (twórca CTGP-R, jednej z paczek z zawartością gry) stworzył Wiimmfi Disc Patcher - pozwala on na włożenie płyty z grą do konsoli oraz zpatchowanie gry "w locie". Musisz jednak uruchomić ten patcher za każdym razem, jak uruchamiasz grę.
+### Automatic patching from the Disc Channel using Priiloader
 
 #### Będziesz potrzebował:
-* Karta SD lub urządzenie USB
-* [Auto Wiimmfi Patcher](/assets/files/autowiimmfipatcher-0.6.zip)
+- A Wii with Priiloader 0.9 or later installed
+
+If you have an older version of Priiloader, follow [this guide](priiloader) to update.
+{: .notice--info}
 
 #### Instrukcje
+1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
+2. Przejdź do `System Menu Hacks`.
+3. Make sure the `Wiimmfi patch v2` hack is enabled.
+4. Save settings and exit.
 
-1. Wypakuj Auto Wiimmfi Patcher oraz skopiuj go do folderu `apps` na Twojej karcie SD lub urządzeniu USB.
-2. Podłącz Twoją kartę SD lub urządzenie USB do Twojego Wii oraz uruchom Auto Wiimmfi Patcher korzystając z Homebrew Channel.
-3. Włóż płytę z grą (możesz ją włożyć przed uruchomieniem aplikacji lub po uruchomieniu - nie ma to znaczenia).
-4. Poczekaj aż ukończy się proces stosowania poprawki. Gra się uruchomi.
+### Homebrew (Disc) Application
+MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
 
-### Bez aplikacji Homebrew (dla płyt z grą)
-Dzięki exploitowi str2hax, stworzonemu przez Fullmetal2, Leseratte był w stanie przystosować go do użycia z Wiimmfi patcher'em. Możesz go uruchomić bez przerabiania Twojej konsoli.
+#### Będziesz potrzebował:
+* Karta SD lub urządzenie USB.
+* [Auto Wiimmfi Patcher](/assets/files/autowiimmfipatcher-0.6.zip)
+
+### No-Homebrew (Disc)
+Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
 
 #### Będziesz potrzebował:
 * Konsola Wii z połączeniem Internetowym
@@ -45,38 +52,32 @@ Dzięki exploitowi str2hax, stworzonemu przez Fullmetal2, Leseratte był w stani
 6. Poczekaj około półtorej minuty aż aplikacja się załaduje
 7. Gra powinna się teraz uruchomić wraz z poprawką Wiimmfi
 
-### Stosowanie poprawki na obraz ISO
-Skorzystaj z tej metody jeżeli nie chcesz uruchamiać patchera za każdym razem jak chcesz grać na Wiimmfi lub jeżeli korzystasz już z USB Loader'a. Dla tego celu, zostały stworzone ISO Patcher'y.
+### Automatic patching using a USB Loader
+If you are already using USB Loader GX, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
+
+### ISO Patching
+You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
 
 #### Będziesz potrzebował:
-- Twoja kopia gry (w formacie WBFS, ISO, cISO lub inne formaty, które Wii wspiera).
+- Your copy of your game (WBFS, ISO, cISO, and other forms that a Wii can use are supported).
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Tylko dla Windows'a)</1> **lub**
-- Wiimm's ISO Patcher (na różnych platformach)
-   - [Patcher dla Mario Kart Wii](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip)
-   - [Patcher dla wszystkich innych gier](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z)
-- Zainstalowany USB Loader, [cIOS](cios) oraz urządzenie USB, na którym będziesz przechowywał gry (powinieneś już to mieć jeżeli już korzystałeś z USB Loader'a)
+- Wiimm's ISO Patcher (cross platform)
+   - [Patcher for Mario Kart Wii](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip)
+   - [Patcher for all other games](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z)
+- A USB Loader, [cIOS](cios), and a USB to store the game on (you should already have these if you're using a USB Loader)
 
 #### Instrukcje
 1. Wypakuj patcher do jakiegoś folderu na Twoim komputerze oraz skopiuj tam Twoją kopię gry.
 2. Uruchom skrypt stworzony dla Twojego systemu operacyjnego: zazwyczaj plik ma rozszerzenie `.bat` dla Windows'a i `.sh` dla macOS oraz Linux'a. Jeżeli korzystasz z RiiConnect24 Patcher'a, wybierz swoje urządzenie (Wii, vWii lub Dolphin) oraz wybierz patcher dla Twojej gry.
 3. Po ukończeniu, skopiuj zpatchowaną wersję gry z folderu `wiimmfi-images` (może być w folderze wyżej tam gdzie jest patcher - ../wiimmfi-images) i skopiuj go spowrotem na Twoje urządzenie USB.
 
-### Automatyczne patchowanie gier z Disc Channel korzystając z Priiloader'a
-
-#### Będziesz potrzebował:
-- Konsola Wii z zainstalowanym Priiloaderem 0.9 lub nowszym
-
-Jeżeli masz starszą wersję Priiloader'a, podążaj [za tym poradnikiem](priiloader) aby wykonać aktualizację.
-{: .notice--info}
 
 #### Instrukcje
-1. Trzymaj przycisk RESET podczas włączania Twojej konsoli (Jeżeli masz Wii Mini, podłącz klawiaturę USB oraz naciśnij ESCAPE).
-2. Przejdź do `System Menu Hacks`.
-3. Upewnij się, że `Wiimmfi Patch v2` jest włączone.
-4. Zapisz ustawienia oraz wyjdź.
 
-### Automatycznie patchowanie korzystając z USB Loader'a
-Jeżeli już korzystasz z USB Loader GX, spróbuj zaktualizować go do najnowszej wersji. W ustawieniach, powinieneś ujrzeć opcję "private server" (i w "global loader options" i w "game options"). Ustaw to na "Wiimmfi" aby Twój USB Loader automatycznie patchował każdą grę, którą uruchamiasz, żeby działała z Wiimmfi.
+1. Extract Auto Wiimmfi Patcher and put it in the `apps` folder on your SD card or USB drive.
+2. Insert your SD Card into your Wii, and launch Auto Wiimmfi Patcher from the Homebrew Channel.
+3. Insert your game disc (you can insert it before or after launch, it doesn't matter).
+4. Wait for patch to complete, and it'll begin!
 
 ### Patchowanie WiiWare
 Możesz zpatchować gry WiiWare aby można w nie grać na Wiimmfi.
