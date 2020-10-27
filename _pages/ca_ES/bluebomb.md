@@ -4,7 +4,7 @@ title: "BlueBomb (Bomba Blava)"
 
 {% include toc title="Table of Contents" %}
 
-If you need help with anything regarding this tutorial, please join [the Wii mini Hacking Discord server](https://discord.gg/6ryxnkS) (recommended)
+Si necessites ajuda amb qualsevol cosa relacionada amb aquest tutorial, per favor uneix-te a [ el Discord de Hackejar la Wii Mini ](https://discord.gg/6ryxnkS) (recomanat)
 {: .notice--info}
 
 ![BlueBomb(Bomba Blava)](/images/bluebomb.png)
