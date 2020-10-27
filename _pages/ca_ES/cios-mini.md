@@ -11,7 +11,7 @@ This tutorial will tell you how to install Leseratte's d2xl Wii mini cIOS (custo
 This guide is only intended for Wii mini users. If you have a Wii, follow [this guide](cios) instead.
 {: .notice--warning}
 
-If you need help with anything regarding this tutorial, please join [the Wii mini Hacking Discord server](https://discord.gg/6ryxnkS) (recommended)
+Si necessites ajuda amb qualsevol cosa relacionada amb aquest tutorial, per favor uneix-te a [ el Discord de Hackejar la Wii Mini ](https://discord.gg/6ryxnkS) (recomanat)
 {: . notícia--informació}
 
 This d2x cIOS installer was originally developed for the Wii U's vWii by DaveBaol and custom cIOS was created by Leseratte for the Wii mini. The original download page can be found [here](https://wii.leseratte10.de/d2xl-cIOS/). Leseratte's Github page can be found [here](https://github.com/Leseratte10/d2xl-cios). Please note that this cIOS is still experimental, though no problem with functionality has been reported.
