@@ -1,11 +1,11 @@
 ---
 main:
   - 
-    title: Guía Wii
+    title: Guía per la Wii
     url: /
   - 
-    title: Start Here
-    url: get-started
+    title: Comença aquí
+    url: començar
   - 
     title: Preguntes Freqüents
     url: preguntes freqüents
