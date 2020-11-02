@@ -17,7 +17,7 @@ Esta guía es solo para el Wii original.
 - Sigue [esta guía](riiconnect24-vwii) si estás buscando instalar RiiConnect24 en un vWii (el modo Wii de la consola Wii U).
 - Si deseas instalar RiiConnect24 en el emulador Dolphin, sigue [esta guía](riiconnect24-vwii).
 
-There is no guide to installing RiiConnect24 on a Wii Mini, as attempting to install RiiConnect24 on a Wii Mini will result in a console brick.
+No hay una guía para instalar RiiConnect24 en un Wii Mini, ya que intentar instalar RiiConnect24 en un Wii Mini resultado en un ladrillo de consola.
 {% endcapture %}
 
 <div class="notice--warning">{ notice-1 | markdownify }</div>
@@ -29,25 +29,25 @@ There is no guide to installing RiiConnect24 on a Wii Mini, as attempting to ins
 * Una computadora
 * [RiiConnect24 Patcher (sólo disponible para Windows)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-#### What if I'm not a Windows user?
+#### ¿Y si no soy usuario de Windows?
 {% capture notice-2 %}
 ¿Eres un usuario de Linux o macOS y no puedes usar la versión de Windows del parcheador?
 
-Hemos preparado una imagen ISO arrancable que te permitira usar Windows PE - Una version ligera de Windows que te permitirá usar el parcheador. This is not required if you use Windows.
+Hemos preparado una imagen ISO arrancable que te permitira usar Windows PE - Una version ligera de Windows que te permitirá usar el parcheador. Esto no es necesario si usa Windows.
 
 Requiere al menos 3 GB de RAM. Requiere conexión por Ethernet. Funciona en maquinas virtuales.
 {% endcapture %}
 <div class="notice--info">{{ notice-2 | markdownify }}</div>
 
 <i class="fa fa-magnet" aria-hidden="true" title="Este es un enlace magnético. Utilice un cliente de torrent para descargar el archivo."></i>
-**Bootable image with RiiConnect24 Patcher:**
+**Imagen de arranque con RiiConnect24 Patcher:**
 
 - [BitTorrent - RiiConnect24 Patcher Windows PE_x86.iso](magnet:?xt=urn:btih:a76a17999ba6cb7f528bea9dc39ad4cfcac2d62a&dn=RiiConnect24%20Patcher%20Windows%20PE%5Fx86.iso&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://p4p.arenabg.ch:1337/announce&tr=http://p4p.arenabg.com:1337/announce&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://tracker3.itzmx.com:6961/announce&tr=http://tracker4.itzmx.com:2710/announce&tr=http://tracker1.itzmx.com:8080/announce&tr=udp://tracker.moeking.me:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://bt2.archive.org:6969/announce&tr=udp://bt1.archive.org:6969/announce&tr=udp://explodie.org:6969/announce)
 - [BitTorrent - RiiConnect24 Patcher Windows PE_AMD64.iso](magnet:?xt=urn:btih:aa1d759996834fcfa20f56b26c5beb105b2aec37&dn=RiiConnect24%20Patcher%20Windows%20PE%5FAMD64.iso&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://p4p.arenabg.ch:1337/announce&tr=http://p4p.arenabg.com:1337/announce&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://retracker.lanta-net.ru:2710/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=http://tracker1.itzmx.com:8080/announce&tr=udp://tracker3.itzmx.com:6961/announce&tr=http://tracker4.itzmx.com:2710/announce&tr=udp://tracker.moeking.me:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://bt2.archive.org:6969/announce&tr=udp://bt1.archive.org:6969/announce&tr=udp://explodie.org:6969/announce)
 - [Google Drive - RiiConnect24 Patcher Windows PE_x86.iso](https://drive.google.com/file/d/14YQlrjByLpuLPHLTg7GaqZscgYbsH7gN/view?usp=sharing)
 - [Google Drive - RiiConnect24 Patcher Windows PE_AMD64.iso](https://drive.google.com/file/d/190fvktXtUDAhFogJnOEh2EgrCl5Dm_vP/view?usp=sharing)
 
-If you still can't run RiiConnect24 Patcher, please send us a mail at support@riiconnect24.net
+Si tiene un problema con RiiConnect24 Patcher, envíenos un correo electrónico a support@riiconnect24.net
 {: .notice--info}
 
 #### Instrucciones
