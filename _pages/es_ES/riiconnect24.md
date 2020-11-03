@@ -54,7 +54,7 @@ Si tiene un problema con RiiConnect24 Patcher, envíenos un correo electrónico 
 
 ##### Sección I - Parcheando los IOS
 
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+[¡Si desea ver instrucciones detalladas sobre cómo instalar los WADs, haga clic aquí!](wiimodlite)
 {: .notice--info}
 
 1. Descarga los archivos necesarios según tu sistema operativo. En Windows, ejecuta el archivo `RiiConnect24Patcher.bat`.
