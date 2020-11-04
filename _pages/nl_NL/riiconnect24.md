@@ -129,5 +129,5 @@ If you get error 107304, then perhaps your ISP blocks the use of custom DNS. A w
 [If you're getting a discontinued message when opening the News or Forecast Channel, then following this tutorial should fix it.](deleting-vffs)
 {: .notice--waarschuwing}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Ga door naar de sitenavigatie](site-navigation)<br> We hebben vele andere tutorials die je wellicht interessant vindt.
 {: .notice--info}
