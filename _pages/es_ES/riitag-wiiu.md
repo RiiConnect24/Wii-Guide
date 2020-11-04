@@ -13,10 +13,12 @@ RiiTag es un gamertag personalizable y dinámico. Al compartir tu gamertag (una 
 
 - Un dispositivo con ranura para tarjetas SD
 - Una consola Wii U modificada
-   - Si aún no has modificado tu Wii U, por favor sigue [esta guía](https://wiiuguide.xyz). No podrás continuar sin
+   - If you have not softmodded your Wii U yet, [please do so](https://wiiu.hacks.guide). No podrás continuar sin
 - Una cuenta de Discord
 - La versión más reciente de [Wii U Plugin Loader](https://github.com/Maschell/WiiUPluginLoader/releases)
 - La versión más reciente de [UTag plugin](https://github.com/RiiConnect24/UTag/releases)
+- The latest release of [Flump's Coldboot Haxchi Mod](https://www.dropbox.com/sh/gxkf72jia1adpyg/AACPMfGU2AyWUZmhU2awjSsca/Haxchi-CBHC%20Flump%20Mod.zip?dl=1)
+   - This Coldboot Haxchi mod is used in Section IV. You do not need to download it if you can't use Coldboot Haxchi, or you do not want Wii U Plugin Loader loading on startup.
 
 #### Instrucciones
 
@@ -34,7 +36,7 @@ RiiTag es un gamertag personalizable y dinámico. Al compartir tu gamertag (una 
 
 ##### Sección II - Preparando archivos en la tarjeta SD
 
-1. Extrae el archivo `Wii U Plugin Loader.zip` a la raíz de tu tarjeta SD
+1. Extract the Wii U Plugin Loader `.zip` file to the root of your SD card.
    - Deberías tener una carpeta llamada `wiiupluginloader` dentro de `/wiiu/apps/`.
 2. Coloca el archivo `UTag.mod` en la carpeta `/wiiu/plugins/`.
 3. Crea un archivo nuevo llamado `utag.txt` en la raíz de la tarjeta SD y ábrelo con un editor de texto.
@@ -48,7 +50,26 @@ RiiTag es un gamertag personalizable y dinámico. Al compartir tu gamertag (una 
 2. Lanza la aplicación homebrew `Wii U Plugin Loader`.
 3. Deberías ser recibido por un menú, incluyendo un interruptor para `UTag`. Activa `UTag` y después oprime el botón + en el Wii U GamePad. Ahora deberías de ser devuelto al menu de Wii U.
 
-¡Ya has terminado de instalar RiiTag en tu Wii U! Toma en cuenta que tendrás que lanzar el complemento siguiendo el proceso anterior cada vez que quieras usarlo, al menos por ahora. En caso de que esto cambie en el futuro, esta guía será actualizada. ¡Ahora ve y juega algunos títulos y mira cómo aparecen en tu RiiTag!
+##### Section IV - Running on startup (optional)
+
+We will now setup Wii U Plugin Loader to run on startup with your Wii U. **This only works if you are using or willing to use Coldboot Haxchi.** You will still have to turn on UTag and press + on the Wii U GamePad to be kicked into the Wii U Menu on startup.
+{: .notice--info}
+
+1. Extract the Coldboot Haxchi mod `.zip` file to the root of your SD card.
+   - If your computer asks to replace, select Replace All.
+2. Navigate to `/wiiu/apps/` and open the `wiiupluginloader` folder.
+3. Rename `wiiupluginloader.elf` to `sdcafiine.elf`.
+4. Go back to `/wiiu/apps/` and rename the `wiiupluginloader` to `sdcafiine`.
+5. Inserta la tarjeta SD de vuelta en tu Wii U.
+6. Usando el método de tu preferencia (exploit del navegador, Haxchi, Homebrew Launcher, etc.), inicia el **Homebrew Launcher** en tu Wii U.
+6. Navigate to, and launch the Coldboot Haxchi app.
+7. Use the D-Pad to navigate the cursor to the game you previously installed Haxchi to and press the A button to install the Coldboot Haxchi mod.
+8. Turn off your Wii U, and restart it.
+9. At the `Autobooting...` screen, press Home to open the Coldboot Haxchi menu.
+10. Use the +Control Pad on the Wii U GamePad to navigate to `Autoboot:`. Change it to SDCafiine.
+11. Finally, navigate to `WiiU System Menu`, and press A to be kicked to the Wii U Menu.
+
+You have now set up RiiTag on your Wii U! Now go play some games, and watch them show up on your RiiTag!
 {: .notice--success}
 
 [Echa un vistazo a nuestras demás guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
