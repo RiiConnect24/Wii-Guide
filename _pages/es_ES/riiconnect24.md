@@ -17,7 +17,7 @@ Esta guía es solo para el Wii original.
 - Sigue [esta guía](riiconnect24-vwii) si estás buscando instalar RiiConnect24 en un vWii (el modo Wii de la consola Wii U).
 - Si deseas instalar RiiConnect24 en el emulador Dolphin, sigue [esta guía](riiconnect24-vwii).
 
-No hay una guía para instalar RiiConnect24 en un Wii Mini, ya que intentar instalar RiiConnect24 en un Wii Mini resultado en un ladrillo de consola.
+No hay una guía para instalar RiiConnect24 en un Wii Mini, ya que intentar instalar RiiConnect24 en un Wii Mini resultaría en un brick de la consola.
 {% endcapture %}
 
 <div class="notice--warning">{ notice-1 | markdownify }</div>
