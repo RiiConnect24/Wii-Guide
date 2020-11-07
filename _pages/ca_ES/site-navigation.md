@@ -35,7 +35,7 @@ sitemap: fals
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
 + [str2hax](str2hax)
-+ [BlueBomb (Bomba Blava)](bluebomb)
++ [BlueBomb](bluebomb)
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
