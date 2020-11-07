@@ -22,6 +22,7 @@ Por favor **não** instales Priiloader numa vWii (modo Wii na Wii U). Vais brick
 ##### Secção I - Descarregando/Instalando
 
 1. Download Priiloader and extract it to the `apps` folder on your SD card or USB drive.
+    * If this folder does not exist, create it.
 2. Insere o teu Cartão SD na tua Wii e abre o Priiloader a partir do Homebrew Channel.
 
 ##### Secção II - Instalação do Priiloader
