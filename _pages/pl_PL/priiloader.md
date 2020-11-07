@@ -21,7 +21,8 @@ Priiloader dodaje dodatkowy poziom ochrony przez brickiem na Twoje Wii. Ładuje 
 #### Instrukcje
 ##### Sekcja I - Pobieranie/Instalowanie
 
-1. Pobierz Priiloader oraz wypakuj go do folderu `apps` na Twojej karcie SD lub urządzeniu USB.
+1. Download Priiloader and extract it to the `apps` folder on your SD card or USB drive.
+    * If this folder does not exist, create it.
 2. Podłącz Twoją kartę SD lub urządzenie USB do Twojego Wii oraz uruchom Priiloader korzystając z Homebrew Channel.
 
 ##### Sekcja II - Instalowanie Priiloader'a
