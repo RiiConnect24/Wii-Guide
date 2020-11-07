@@ -22,6 +22,7 @@ title: "Priiloader"
 ##### Μέρος I - Κατέβασμα/Εγκατάσταση
 
 1. Download Priiloader and extract it to the `apps` folder on your SD card or USB drive.
+    * If this folder does not exist, create it.
 2. Insert your SD card into your Wii, and launch Priiloader from the Homebrew Channel.
 
 ##### Μέρος II - Εγκαθιστώντας το Priiloader
