@@ -1,5 +1,5 @@
 ---
-title: "Site Navigation"
+title: "Navigation du Site"
 layout: single
 sitemap: faux
 ---
