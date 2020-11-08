@@ -41,7 +41,7 @@ Select cIOS slot: 249
 
 Take a note of the version number under notes (`IOS57-64-` ending in either `v31776` or `v31775`)
 2. Once set, press A to install. Once done successfully, exit the installer.
-  - If the install fails with a `TMD version mismatch` error, move the +Control pad left or right in the `Select cIOS base` option until the version number is different than the one you tried before, the number 57 will not change.
+  - If the install fails with a `TMD version mismatch` error, move the +Control Pad left or right over the `Select cIOS base` option until the version number is different than the one you tried before. The number 57 will not change.
 
 
 ##### Enabling Ethernet
