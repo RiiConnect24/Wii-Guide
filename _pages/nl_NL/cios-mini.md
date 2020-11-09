@@ -27,21 +27,20 @@ Deze d2x cIOS was origineel gemaakt voor de vWii op de Wii U door DaveBaol. Deze
 
 ##### Deel I - Downloaden
 
-1. Pak d2xl cIOS Installer uit naar de `apps` folder op uw USB-stick of harde schijf. If you do not have one already, please make a folder named `apps` in the root of your USB drive.
-1. Stop de USB-stick of hardeschijf in uw Wii mini en open d2xl cIOS Installer via het Homebrew Kanaal.
+1. Extract the d2xl cIOS Installer to the `apps` folder on your USB drive.
+1. Insert your USB drive into your Wii mini and load the d2xl cIOS Installer from the Homebrew Channel.
 
 ##### Deel II - Installeren
 
-1. Klik op "continue" en zet de volgende opties dan aan:
-```
-Select cIOS: d2xl-v1-beta2
-Select cIOS base: 57
-Select cIOS slot: 249
-```
-
-Schrijf uw versie nummer ergens op zodat u dit later terug kunt vinden. (dit is `v31776` of `v31775`)
+1. Klik op "continue", zet daarna de opties precies zo:
+    ```
+    Select cIOS: d2xl-v1-beta2
+    Select cIOS base: 57
+    Select cIOS slot: 249
+    ```
+Take a note of the version number under notes (`IOS57-64-` ending in either `v31776` or `v31775`)
 1. Als u alles goed heeft staan, klik dan op A om het te installeren. Als dit succesvol is verlopen kunt u de applicatie verlaten door op "exit" te drukken.
-  - If the install fails with a `TMD version mismatch` error, move the +Control pad left or right in the `Select cIOS` option until the version number is different than the one you tried before.
+   - If the install fails with a `TMD version mismatch` error, press left or right on the +Control Pad over the `Select cIOS base` option until the version number is different than the one you tried before. The number 57 will not change.
 
 
 ##### Een internetkabel activeren
