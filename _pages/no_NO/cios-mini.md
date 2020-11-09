@@ -27,21 +27,20 @@ This d2x cIOS installer was originally developed for the Wii U's vWii by DaveBao
 
 ##### Section I - Downloading
 
-1. Extract the d2xl cIOS Installer and put it in the `apps` folder on your USB drive. If you do not have one already, please make a folder named `apps` in the root of your USB drive.
-1. Insert your USB drive into your Wii mini and load The d2xl cIOS Installer from the Homebrew Channel.
+1. Extract the d2xl cIOS Installer to the `apps` folder on your USB drive.
+1. Insert your USB drive into your Wii mini and load the d2xl cIOS Installer from the Homebrew Channel.
 
 ##### Del 2 - Installering
 
 1. Trykk fortsett, og sett valgene til de som følger:
-```
-Select cIOS: d2xl-v1-beta2
-Select cIOS base: 57
-Select cIOS slot: 249
-```
-
-Take a note of the version number (either `v31776` or `v31775`)
+    ```
+    Select cIOS: d2xl-v1-beta2
+    Select cIOS base: 57
+    Select cIOS slot: 249
+    ```
+Take a note of the version number under notes (`IOS57-64-` ending in either `v31776` or `v31775`)
 1. Once set, press A to install. Once done successfully, exit the installer.
-  - If the install fails with a `TMD version mismatch` error, move the +Control pad left or right in the `Select cIOS` option until the version number is different than the one you tried before.
+   - If the install fails with a `TMD version mismatch` error, press left or right on the +Control Pad over the `Select cIOS base` option until the version number is different than the one you tried before. The number 57 will not change.
 
 
 ##### Enabling Ethernet
