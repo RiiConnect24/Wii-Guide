@@ -27,21 +27,20 @@ Le d2x cIOS installer a été initialement développé pour le mode vWii de la W
 
 ##### Section I - Téléchargement
 
-1. Mettez le contenu du fichier .zip dans le dans le dossier `apps` de votre carte SD ou de votre clé USB. If you do not have one already, please make a folder named `apps` in the root of your USB drive.
-1. Insérez votre clé USB dans votre Wii mini puis lancez d2xl cIOS Installer depuis l'Homebrew Channel.
+1. Extract the d2xl cIOS Installer to the `apps` folder on your USB drive.
+1. Insert your USB drive into your Wii mini and load the d2xl cIOS Installer from the Homebrew Channel.
 
 ##### Section II - Installation
 
-1. Appuyez sur continuer, puis sélectionnez les options suivantes:
-```
-Select cIOS: d2xl-v1-beta2
-Select cIOS base: 57
-Select cIOS slot: 249
-```
-
-Prenez note du numéro de version (soit la `v31776` ou soit la `v31775`)
+1. Appuyez sur continuer, définissez ensuite les options suivantes:
+    ```
+    Select cIOS: d2xl-v1-beta2
+    Select cIOS base: 57
+    Select cIOS slot: 249
+    ```
+Take a note of the version number under notes (`IOS57-64-` ending in either `v31776` or `v31775`)
 1. Une fois défini, appuyez sur A pour installer. Une fois l'installation terminée avec succès, quittez l'installateur.
-  - Si l'installation échoue en renvoyant l'erreur `TMD version mismatch`, sélectionnez l'option `Select cIOS`, puis sélectionnez avec la croix directionnelle, le numéro de version jusqu'à qu'elle soit différente de celle que vous avez précédemment tenté d'installer.
+   - If the install fails with a `TMD version mismatch` error, press left or right on the +Control Pad over the `Select cIOS base` option until the version number is different than the one you tried before. The number 57 will not change.
 
 
 ##### Activation Ethernet
