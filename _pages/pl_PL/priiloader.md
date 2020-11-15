@@ -11,7 +11,7 @@ Priiloader dodaje dodatkowy poziom ochrony przez brickiem na Twoje Wii. Ładuje 
 
 ![Priiloader](/images/priiloader.jpg)
 
-**Nie** instaluj Priiloadera na vWii (Trybie Wii w Wii U). Zbrickujesz Twoje vWii przez zrobienie tego.
+Do **not** install Priiloader on a vWii (Wii mode on Wii U). Zbrickujesz Twoje vWii przez zrobienie tego.
 {: .notice--warning}
 
 #### Będziesz potrzebował
@@ -48,7 +48,7 @@ Poniżej znajduje się lista hacków, które możesz włączyć w Priiloaderze.
 
 | Hack                                    | Opis                                                                                                                                                             |
 | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Block Disc Updates                      | Wyłącza "Wii System Update" podczas uruchamiania gier które zmuszają Cię do aktualizacji oprogramowania.                                                         |
+| Block Disc Updates                      | Removes the "Wii System Update" screen that is included on some games forcing you to update the system to play the game.                                         |
 | Block Online Updates                    | Blokuje wykonywania aktualizacji Twojej konsoli. Próby aktualizacji kończą się błędem 32007.                                                                     |
 | Auto-Press A at Health Screen           | Automatycznie naciska A na ekranie "Health and Safety".                                                                                                          |
 | Replace Health Screen with Backmenu     | Zamienia ekran "Health and Safety" na aminację kiedy wychodzisz z gry i uruchamiasz Wii Menu.                                                                    |
@@ -57,8 +57,8 @@ Poniżej znajduje się lista hacków, które możesz włączyć w Priiloaderze.
 | 480p graphics fix in system menu        | Naprawia mały problem z rodzielczością 480p w Menu Wii.                                                                                                          |
 | Remove NoCopy Save File Protection      | Pozwala na kopiowanie zapisów gier na Kartę SD z ekranu zarządzania pamięcią, których normalnie nie mógłbyś przenieść                                            |
 | Region Free EVERYTHING                  | Włącza region free na wszystko co masz na Twoim Wii, łącznie z rzeczami pobranymi.                                                                               |
-| Region Free GC Games (No VM Patch)      | Włącza region free dla gier GameCube.                                                                                                                            |
-| Region Free Wii Games                   | Włącza region free dla gier Wii.                                                                                                                                 |
+| Region Free GC Games (No VM Patch)      | Disables region locking for GameCube discs.                                                                                                                      |
+| Region Free Wii Games                   | Disables region locking for Wii discs.                                                                                                                           |
 | Region Free Channels                    | Wyłącza blokadę regionową dla zainstalowanych kanałów                                                                                                            |
 | No System Menu Sounds AT ALL            | Wyłącza wszystkie efekty dźwiękowe Wii Menu.                                                                                                                     |
 | No System Menu Background Music         | Wyłącza muzyke w tle Wii Menu.                                                                                                                                   |
