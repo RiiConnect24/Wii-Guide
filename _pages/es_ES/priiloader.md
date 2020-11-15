@@ -11,7 +11,7 @@ Priiloader proporciona un nivel adicional de protección contra bricks a tu cons
 
 ![Priiloader](/images/priiloader.jpg)
 
-Por favor **no** intentes instalar Priiloader en el modo Wii de un Wii U (vWii). Si lo haces, tu vWii quedará brickeado.
+Do **not** install Priiloader on a vWii (Wii mode on Wii U). Si lo haces, tu vWii quedará brickeado.
 {: .notice--warning}
 
 #### Requisitos
@@ -48,7 +48,7 @@ Esta es una lista de los hacks que puedes activar con Priiloader.
 
 | Hack                                    | Descripción                                                                                                                                       |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Block Disc Updates                      | Removes the "Wii System Update" screen that is included on some games forcing you to update them to play the game.                                |
+| Block Disc Updates                      | Removes the "Wii System Update" screen that is included on some games forcing you to update the system to play the game.                          |
 | Block Online Updates                    | Disables updating your Wii. Updates will fail with error 32007.                                                                                   |
 | Auto-Press A at Health Screen           | Automatically presses the A Button to get past the "Health and Safety" screen.                                                                    |
 | Replace Health Screen with Backmenu     | Changes the "Health and Safety" screen to the animation played when returning to the Wii menu.                                                    |
@@ -57,8 +57,8 @@ Esta es una lista de los hacks que puedes activar con Priiloader.
 | 480p graphics fix in system menu        | Arregla un problema menor con el modo 480p en el Menú de Wii.                                                                                     |
 | Remove NoCopy Save File Protection      | Permite copiar archivos de guardado que normalmente estarían protegidos                                                                           |
 | Region Free EVERYTHING                  | Deshabilita el bloqueo regional de cualquier titulo de Wii, incluyendo títulos descargados.                                                       |
-| Region Free GC Games (No VM Patch)      | Deshabilita el bloqueo regional en los juegos de GameCube.                                                                                        |
-| Region Free Wii Games                   | Deshabilita el bloqueo regional en los discos de Wii.                                                                                             |
+| Region Free GC Games (No VM Patch)      | Disables region locking for GameCube discs.                                                                                                       |
+| Region Free Wii Games                   | Disables region locking for Wii discs.                                                                                                            |
 | Region Free Channels                    | Disables region locking for installed channels                                                                                                    |
 | No System Menu Sounds AT ALL            | Deshabilita todos los efectos de sonido del Menú de Wii.                                                                                          |
 | No System Menu Background Music         | Deshabilita la música de fondo del Menú de Wii.                                                                                                   |
