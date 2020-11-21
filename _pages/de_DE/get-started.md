@@ -7,10 +7,13 @@ title: "Einstieg"
 Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [RiiConnect24 Discord-Server](https://discord.gg/b4Y7jfD) bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Obwohl du diese Anleitung ohne eine SD-Karte befolgen kannst, wirst du nicht in der Lage sein, NAND-Sicherungen mittels BootMii zu erstellen oder wiederherzustellen und du wirst auch nicht in der Lage sein, einige Homebrew zu benutzen.
+All of the exploits run the HackMii Installer, and have the same end result.
 {: .notice--info}
 
-Diese Anleitung ist nur für die originale Wii mit der aktuellsten Systemversion (4.3) und die Wii mini. Nutze sie nicht auf einer Wii U (vWii)! Falls du Homebrew auf einer vWii installieren möchtest, folge [diesem Tutorial](https://wiiuguide.xyz/#/vwii-modding).
+Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
+{: .notice--info}
+
+This guide is for the original Wii only, with the latest firmware (4.3), and the Wii mini. Do not use this on a Wii U (vWii)! If you want to install homebrew on vWii, [follow this tutorial](https://wiiuguide.xyz/#/vwii-modding).
 {: .notice--warning}
 
 ### Wähle den zu verwendenden Exploit
