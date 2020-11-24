@@ -8,7 +8,7 @@ Ce tutoriel va vous montrer comment installer le d2xl cIOS de Leseratte sur la W
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-This guide is only intended for Wii mini users. If you have a Wii, follow [this guide](cios) instead.
+Ce guide est uniquement destiné aux utilisateurs Wii mini. Si vous possédez une Wii, suivez plutôt [ce guide](cios).
 {: .notice--warning}
 
 Si vous avez besoin d'aide à propos de ce tutoriel, rejoignez le [Discord de hacking pour Wii mini](https://discord.gg/6ryxnkS) (recommandé mais en anglais)
@@ -27,20 +27,20 @@ Le d2x cIOS installer a été initialement développé pour le mode vWii de la W
 
 ##### Section I - Téléchargement
 
-1. Extract the d2xl cIOS Installer to the `apps` folder on your USB drive.
-1. Insert your USB drive into your Wii mini and load the d2xl cIOS Installer from the Homebrew Channel.
+1. Extrayez le programme d'installation du d2xl cIOS dans le dossier `apps` de votre clé USB.
+1. Insérez votre clé USB dans votre Wii mini et chargez le programme d'installation d2xl cIOS à partir de la chaîne Homebrew.
 
 ##### Section II - Installation
 
 1. Appuyez sur continuer, définissez ensuite les options suivantes:
     ```
-    Select cIOS: d2xl-v1-beta2
-    Select cIOS base: 57
-    Select cIOS slot: 249
+    Sélectionnez cIOS: d2xl-v1-beta2 
+   Sélectionnez la base cIOS: 57 
+   Sélectionnez l'emplacement cIOS: 249
     ```
-Take a note of the version number under notes (`IOS57-64-` ending in either `v31776` or `v31775`)
+Notez le numéro de version sous les notes (` IOS57-64- ` se terminant par ` v31776 ` ou ` v31775 `)
 1. Une fois défini, appuyez sur A pour installer. Une fois l'installation terminée avec succès, quittez l'installateur.
-   - If the install fails with a `TMD version mismatch` error, press left or right on the +Control Pad over the `Select cIOS base` option until the version number is different than the one you tried before. The number 57 will not change.
+   - Si l'installation échoue avec une erreur ` TMD version mismatch `, appuyez à gauche ou à droite sur le + Control Pad sur l'option ` Select cIOS base ` jusqu'à ce que le numéro de version soit différent de celui que vous essayé avant. Le nombre 57 ne changera pas.
 
 
 ##### Activation Ethernet
