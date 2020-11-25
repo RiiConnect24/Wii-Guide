@@ -9,26 +9,26 @@ Si vous avez besoin d’aide par rapport au tutoriel, veuillez rejoindre [le ser
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-If you're getting one of these errors (and not any other error), you should be able to fix the Channel by deleting your VFF.
+Si vous obtenez l'une de ces erreurs (et aucune autre erreur), vous devriez être en mesure de réparer le canal en supprimant votre VFF.
 
-+ Discontinued Message
++ Message interrompu
 + NEWS/FORE000001
 + NEWS/FORE000003
 + NEWS/FORE000005
 + NEWS/FORE000099
 
 #### Qu’est-ce que vous avez besoin
-* An SD card or USB drive
+* Une carte SD ou une clé USB
 * [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
 
 #### Folder to Delete
 
-+ Forecast Channel
++ Chaîne météo
   + 48414645
   + 4841464a
   + 48414650
 
-+ News Channel
++ Chaîne infos
   + 48414745
   + 4841474a
   + 48414750
@@ -36,9 +36,9 @@ If you're getting one of these errors (and not any other error), you should be a
 #### Instructions
 
 1. Ouvrez WiiXplorer.
-2. Go to `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` and then select `Yes` for both dialogues that appear on the screen.
-3. Press Back until you have reached the file explorer screen.
-4. Select the tiny blue SD Card icon, then select `NAND`.
+2. Accédez à ` Démarrer ` -> ` Paramètres ` -> ` Paramètres de démarrage ` -> ` Activer l'accès en écriture NAND `, puis sélectionnez ` Oui ` pour les deux dialogues qui apparaissent à l'écran.
+3. Appuyez sur Retour jusqu'à ce que vous ayez atteint l'écran de l'explorateur de fichiers.
+4. Sélectionnez la petite icône bleue de la carte SD, puis sélectionnez ` NAND `.
 5. Navigate to `title` -> `00010002` -> XXXXXXXX -> `data`, where XXXXXXXX is one of the folders above.
 6. Hover over `wc24dl.vff` and press the + button and select `Delete`.
 
