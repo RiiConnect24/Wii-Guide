@@ -1,5 +1,5 @@
 ---
-title: "Deleting VFFs"
+title: "Suppression des VFF"
 ---
 
 {% include toc title="Table des matières" %}
@@ -21,7 +21,7 @@ Si vous obtenez l'une de ces erreurs (et aucune autre erreur), vous devriez êtr
 * Une carte SD ou une clé USB
 * [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
 
-#### Folder to Delete
+#### Dossier à supprimer
 
 + Chaîne météo
   + 48414645
@@ -39,10 +39,10 @@ Si vous obtenez l'une de ces erreurs (et aucune autre erreur), vous devriez êtr
 2. Accédez à ` Démarrer ` -> ` Paramètres ` -> ` Paramètres de démarrage ` -> ` Activer l'accès en écriture NAND `, puis sélectionnez ` Oui ` pour les deux dialogues qui apparaissent à l'écran.
 3. Appuyez sur Retour jusqu'à ce que vous ayez atteint l'écran de l'explorateur de fichiers.
 4. Sélectionnez la petite icône bleue de la carte SD, puis sélectionnez ` NAND `.
-5. Navigate to `title` -> `00010002` -> XXXXXXXX -> `data`, where XXXXXXXX is one of the folders above.
-6. Hover over `wc24dl.vff` and press the + button and select `Delete`.
+5. Accédez à ` title ` -> ` 00010002 ` -> XXXXXXXX -> ` data `, où XXXXXXXX est l'un des dossiers ci-dessus.
+6. Survolez ` wc24dl.vff `, appuyez sur le bouton + et sélectionnez ` Supprimer `.
 
-Try to launch the Channel you were having trouble with now.
+Essayez de lancer la chaîne avec laquelle vous rencontrez des problèmes.
 
-[Return to RiiConnect24 installation page](riiconnect24)
+[Retour à la page d'installation de RiiConnect24](riiconnect24)
 {: .notice--info}
