@@ -22,13 +22,12 @@ Si instaló BootMii como boot2 en el último paso, deberá iniciar BootMii reini
 {: .notice--info}
 1. Inicia el Canal Homebrew.
 2. Oprime el botón HOME y luego selecciona "Lanzar BootMii".
-   - No es posible navegar BootMii utilizando el Wiimote. Necesitarás usar los botones en tu conosla Wii o un control de GameCube conectado al puerto 1. Para navegar entre las opciones, oprime el botón POWER en tu consola Wii o el botón derecho en la cruz de control de tu control de GameCube. Recuerda que cuando usas los botones en la consola, sólo puedes navegar hacia la derecha, pero cuando trates de pasar la última opción, te devolverá a la primera. Esto no es un problema en los controles de GameCube, ya que puedes navegar hacia izquierda o derecha. Para seleccionar una opción, oprime el botón RESET en tu Wii, o el botón A en tu control de GameCube.
-3. Selecciona el botón de opciones (el que tiene unos engranajes).
-4. Oprime el botón de BackupMii (el que tiene una flecha verde).
+   - No es posible navegar BootMii utilizando el Wiimote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. Para navegar entre las opciones, oprime el botón POWER en tu consola Wii o el botón derecho en la cruz de control de tu control de GameCube. To select an option, hit RESET on your Wii or A on your GameCube controller.
+3. Select the Options button (the one with the gears).
+4. Select the BackupMii button (the one with the green arrow).
 - Se empezará a hacer un respaldo de la NAND. Puedes ver el progreso en pantalla.
-- No apagues tu consola Wii cuando estés haciendo un respaldo.
-- Los bloques malos ("bad blocks") son normales. No te preocupes si ves uno o varios mientras se está haciendo el respaldo.
-- Después de este paso, se va a verificar el respaldo. Este proceso es recomendable, pero se puede omitit si oprimes el botón EJECT en tu consola.
+- "Bad Blocks" are normal. Don't worry when you see one on a NAND backup
+- After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii.
 5. Cuando el respaldo se haya completado, sal del menú de BackupMii oprimiendo cualquier botón.
 6. Para salir de BootMii, oprime el botón con la flecha. Luego puedes oprimir el botón del menú de Wii o del Canal Homebrew para salir a donde quieras.
 
