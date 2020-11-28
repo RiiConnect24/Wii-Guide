@@ -22,13 +22,12 @@ Se instalaste o BootMii como boot2 no último passo, precisarás de abrir o Boot
 {: .notice--info}
 1. Abre o Homebrew Channel.
 2. Pressiona o botão HOME, depois seleciona "Launch BootMii".
-   - Não é possivel utilizar um comando Wii para navegar no BootMii. Terás que usar ou os botões na tua consola Wii ou um controlador GameCube ligado à entrada 1. Para navegar entre opções, pressiona POWER na tua Wii (ou o botão direcional direito num controlador GameCube). Mantém em mente que usando os botões da Wii, tu só podes navegar para a direita, mas ao tentar passar a ultima opção, ele redirecionará-te para a primeira opção. Isto não é uma limitação nos controladores da GameCube; Podes navegar para a direita e para a esquerda. Para selecionar uma opção, aperta RESET na tua Wii ou A no teu controlador GameCube.
-3. Pressiona o botão Opções (aquele com as engrenagens).
-4. Pressiona o botão BackupMii (aquele com a seta verde).
+   - Não é possivel utilizar um comando Wii para navegar no BootMii. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. Para navegar entre opções, pressiona POWER na tua Wii (ou o botão direcional direito num controlador GameCube). To select an option, hit RESET on your Wii or A on your GameCube controller.
+3. Select the Options button (the one with the gears).
+4. Select the BackupMii button (the one with the green arrow).
 - A cópia da NAND irá começar. Tu podes ver o progresso no ecrã.
-- Não desligues a Nintendo Wii quando está a fazer a cópia da tua Wii.
-- "Bad Blocks" são normais. Não te preocupes se vires um na tua cópia NAND
-- Depois deste passo, ele irá verificar a cópia de segurança. Mesmo que seja recomendado, podes passar isto pressionando o botão EJECT na tua consola Wii.
+- "Bad Blocks" are normal. Don't worry when you see one on a NAND backup
+- After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii.
 5. Quando a cópia estiver todo completo, sai do ecrã da cópia da NAND pressionando qualquer botão.
 6. Para sair do BootMii, pressiona o botão Back (aquele que tem a seta) e depois podes pressionar o botão Wii Menu ou Homebrew Channel para saires para onde quiseres.
 
