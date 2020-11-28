@@ -23,13 +23,12 @@ If you installed BootMii as boot2 in the last step, you will need to launch Boot
 {: .notice--info}
 1. Entreu al Homebrew Channel.
 2. Premeu el botó HOME i elegiu l'opció "Launch BootMii" (Llançar BootMii).
-   - Navegar BootMii no és posible amb un mando de la Wii. Has d'utilitzar els botons de la teva Wii o un mando de GameCube connectat al port 1. Per a navegar entre les diferents opcions, premeu el botó POWER a la Wii (o bé el pad de control al mando de GameCube). Teniu en compte que amb el botó de la Wii només podeu anar cap a la dreta, i l'última opció us transportarà a la primera. No obstant, utilitzant un mando de GameCube pots anar cap a l'esquerra i la dreta. Per a elegir una opció, premeu RESET a la Wii o A al mando de GameCube.
-3. Premeu el botó "Options" (Opcions) (El que conté els engranatges).
-4. Premeu el botó "BackupMii" (El que conté la fletxa verda).
+   - Navegar BootMii no és posible amb un mando de la Wii. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. Per a navegar entre les diferents opcions, premeu el botó POWER a la Wii (o bé el pad de control al mando de GameCube). To select an option, hit RESET on your Wii or A on your GameCube controller.
+3. Select the Options button (the one with the gears).
+4. Select the BackupMii button (the one with the green arrow).
 - El procés de crear una còpia de seguretat de la NAND començarà. Pots veure el procés a la pantalla.
-- No apagueu la vostra Wii mentre que feu una còpia de seguretat.
-- Els denominats "Bad Blocks" (Blocs Mals) són perfectament normals. No us preocupeu si trobeu un a la còpia de seguretat de la NAND
-- Després d'acabar, verificarà la còpia. Si bé és recomanable fer-ho, t'ho pots saltar prement el botó EJECT a la teva consola.
+- "Bad Blocks" are normal. Don't worry when you see one on a NAND backup
+- After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii.
 5. Quan la còpia s'ha completat, eixiu d'eixa pantalla prement qualsevol botó.
 6. Per a eixir de BootMii, premeu el botó "Back" (enrere) i després podeu polsar el Botò Wii o Homebrew Channel per a elegir a quin menú eixir.
 
