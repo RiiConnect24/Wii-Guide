@@ -22,13 +22,12 @@ If you installed BootMii as boot2 in the last step, you will need to launch Boot
 {: .notice--info}
 1. Ξεκινήστε το Κανάλι Homebrew.
 2. Πατήστε το πλήκτρο HOME, και επιλέξτε "Εκκίνηση BootMii".
-   - Η πλοήγηση στο BootMii δεν είναι δυνατή με τη χρήση χειριστηρίου Wii. Πρέπει ή να χρησιμοποιήσετε τα πλήκτρα στην κονσόλα σας ή ένα χειριστήριο GameCube συνδεδεμένο στην θύρα 1. Για να πλοηγηθείτε μεταξύ επιλογών, πατήστε το κουμπί POWER στο Wii σας (ή το δεξί +Σταυρό Ελέγχου στο χειριστήριο GameCube). Έχετε κατά νου πως όταν χρησιμοποιείτε τα πλήκτρα στην κονσόλα, είναι δυνατόν να πλοηγηθείτε μόνο δεξιά αλλά αν περάσετε την τελευταία επιλογή, θα γυρίσετε στην πρώτη. Αυτό δεν ισχύει στα χειριστήρια GameCube• Μπορείτε να κατευθυνθείτε αριστερά και δεξιά. Για να επιλέξετε μία επιλογή, πατήστε RESET στο Wii σας ή Α στο χειριστήριο GameCube.
-3. Επιλέξτε το μενού Επιλογές (αυτό με τα γρανάζια).
-4. Επιλέξτε το μενού BackupMii (αυτό με το πράσινο βέλος).
+   - Η πλοήγηση στο BootMii δεν είναι δυνατή με τη χρήση χειριστηρίου Wii. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. Για να πλοηγηθείτε μεταξύ επιλογών, πατήστε το κουμπί POWER στο Wii σας (ή το δεξί +Σταυρό Ελέγχου στο χειριστήριο GameCube). To select an option, hit RESET on your Wii or A on your GameCube controller.
+3. Select the Options button (the one with the gears).
+4. Select the BackupMii button (the one with the green arrow).
 - Το αντίγραφο ασφαλείας της μνήμης NAND θα ξεκινήσει. Μπορείτε να δείτε την πρόοδο στην οθόνη.
-- Μην Απενεργοποιήσετε την κονσόλα σας όταν κάνετε αντίγραφο ασφαλείας.
-- Τα "Bad Blocks" είναι φυσιολογικά. Μην ανησυχήσετε αν δείτε κάποια σε ένα αντίγραφο NAND
-- Μετά από αυτό το βήμα, το αντίγραφο θα επαληθευτεί. Ενώ προτείνεται, μπορεί να παρακαμφθεί πατώντας το πλήκτρο EJECT στην κονσόλα σας.
+- "Bad Blocks" are normal. Don't worry when you see one on a NAND backup
+- After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii.
 5. Όταν το αντίγραφο ολοκληρωθεί, βγείτε από την οθόνη αντιγράφου ασφαλείας πατώντας οποιοδήποτε κουμπί.
 6. Για να βγείτε από το BootMii, επιλέξτε την επιλογή Πίσω (αυτή με το βέλος) και ύστερα μπορείτε να επιλέξετε είτε την επιλογή Μενού Wii ή την επιλογή Κανάλι Homebrew για να επιστρέψετε εκεί που επιθυμείτε.
 
