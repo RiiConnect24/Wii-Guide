@@ -22,12 +22,12 @@ Si vous avez installé BootMii en tant que boot2 à la dernière étape, vous de
 {: .notice--info}
 1. Lancez la Chaîne Homebrew.
 2. Appuyer sur le bouton HOME, et choisissez "Launch BootMii".
-   - Vous ne pouvez pas utiliser BootMii avec une télécommande Wii. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. Pour naviguer dans les options, appuyez sur POWER (ou sur le bouton droit de la croix directionnelle sur une manette GameCube). To select an option, hit RESET on your Wii or A on your GameCube controller.
-3. Select the Options button (the one with the gears).
-4. Select the BackupMii button (the one with the green arrow).
+   - Vous ne pouvez pas utiliser BootMii avec une télécommande Wii. Vous devez utiliser les boutons POWER et RESET de votre console, ou un contrôleur GameCube branché sur le port 1. Pour naviguer dans les options, appuyez sur POWER (ou sur le bouton droit de la croix directionnelle sur une manette GameCube). Pour sélectionner une option, appuyez sur RESET sur votre Wii ou A sur votre manette GameCube.
+3. Sélectionnez le bouton Options (celui avec les engrenages).
+4. Sélectionnez le bouton BackupMii (celui avec la flèche verte).
 - Une sauvegarde complète de la mémoire de la console (NAND) va démarrer. Vous pouvez voir la progression sur votre écran.
-- "Bad Blocks" are normal. Don't worry when you see one on a NAND backup
-- After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii.
+- Les "Bad Blocks" sont normaux. Ne vous inquiétez pas lorsque vous en voyez un sur une sauvegarde NAND
+- Après cette étape, il vérifiera la sauvegarde. Bien qu'il soit recommandé, il peut être ignoré en appuyant sur le bouton EJECT de votre Wii.
 5. Lorsque la sauvegarde est complètement finie, quittez le menu de sauvegarde en appuyant sur n'importe quel bouton.
 6. Pour quitter BootMii, appuyer sur le bouton retour (celui avec la flèche) et après vous pouvez appuyer sur bouton du menu de la wii ou celui de la Chaîne Homebrew, comme vous le voulez.
 
