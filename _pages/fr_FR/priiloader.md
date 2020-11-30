@@ -11,7 +11,7 @@ Priiloader ajoute une couche de protection anti-brick à votre Wii. Il est charg
 
 ![Priiloader](/images/priiloader.jpg)
 
-Do **not** install Priiloader on a vWii (Wii mode on Wii U). Le faire brickera votre vWii.
+N'installez ** pas ** Priiloader sur un vWii (mode Wii sur Wii U). Le faire brickera votre vWii.
 {: .notice--warning}
 
 #### Ce dont vous avez besoin
@@ -21,9 +21,9 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). Le faire brickera v
 #### Instructions
 ##### Section I - Téléchargement et installation
 
-1. Download Priiloader and extract it to the `apps` folder on your SD card or USB drive.
-    * If this folder does not exist, create it.
-2. Insert your SD card into your Wii, and launch Priiloader from the Homebrew Channel.
+1. Téléchargez Priiloader et extrayez-le dans le dossier ` apps ` de votre carte SD ou clé USB.
+    * Si ce dossier n'existe pas, créez-le.
+2. Insérez votre carte SD dans votre Wii et lancez Priiloader depuis la chaîne Homebrew.
 
 ##### Section II - Installation de Priiloader
 
@@ -36,7 +36,7 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). Le faire brickera v
 1. Hold the RESET button while turning on your Wii. :   If you are using a Wii mini, plug in a USB keyboard and hold escape while turning it on
 
 
-![Turn on](/images/Priiloader/5.jpg) ![Hold RESET](/images/Priiloader/4.jpg)
+![Allumer](/images/Priiloader/5.jpg) ![Maintenez RESET](/images/Priiloader/4.jpg)
 
 2. You should see the Priiloader menu. ![Menu](/images/Priiloader/6.png)
 3. Go to `System Menu Hacks`.
