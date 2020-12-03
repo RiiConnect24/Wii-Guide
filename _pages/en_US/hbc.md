@@ -32,7 +32,7 @@ BootMii is a piece of software that can backup and restore your Wii's NAND stora
 
 ![BootMii Installation](/images/Wii/InstallBootMii.jpg)
 
-8. Once done, select `Continue` to exit the HackMii installer.
+8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
 
 [Continue to making a NAND Backup using BootMii](bootmii)
 Making a NAND backup with BootMii at this point is highly recommended.
