@@ -27,7 +27,7 @@ Mit dem Homebrew-Kanal kannst du Homebrew-Anwendungen ausführen. BootMii ist ei
 
 ![BootMii-Installation](/images/Wii/InstallBootMii.jpg)
 
-8. Sobald abgeschlossen, wähle `Continue` um den HackMii Installer zu beenden.
+8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
 
 [Fortfahren mit dem Erstellen einer NAND-Sicherung mithilfe von BootMii](bootmii) Die Erstellung einer NAND-Sicherung mit BootMii wird an diesem Punkt stark empfohlen.
 {: .notice--info}
