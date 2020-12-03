@@ -27,7 +27,7 @@ La chaîne homebrew peut permettre de lancer des applications homebrew. BootMii 
 
 ![BootMii Installation](/images/Wii/InstallBootMii.jpg)
 
-8. Une fois terminé, sélectionnez `Continue` afin de quitter l'installateur HackMii.
+8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
 
 [Continuer à faire une sauvegarde NAND à l'aide de BootMii](bootmii) Faire une sauvegarde NAND avec BootMii à ce stade est fortement recommandé.
 {: .notice--info}
