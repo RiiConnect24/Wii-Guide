@@ -22,7 +22,7 @@ En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por f
 1. Extrae RSSMii a la carpeta `apps` en tu tarjeta SD o unidad USB.
 2. Ahora necesitas crear un archivo llamado `feeds.xml` en la raíz de la tarjeta SD, para que de esta forma RSSMii pueda saber a qué fuentes quieres suscribirte.
 
-Si tienes una PC con Windows, puedes usar un programa llamado RSS Feeds Creator creado por KcrPL. El programa se encargará de crear el archivo `feeds.xml` y de copiarlo a tu tarjeta SD automáticamente
+If you're using the Windows Operating System, you can use the [RSS Feeds Creator](https://github.com/RiiConnect24/rssmii/releases/download/v1.4.1/RSSFeedsCreator.bat) program created by KcrPL. El programa se encargará de crear el archivo `feeds.xml` y de copiarlo a tu tarjeta SD automáticamente
 {: .notice--info}
 
 <b>Si no tienes una computadora con Windows, puedes copiar el siguiente ejemplo y usar un editor de texto para crear el archivo `feeds.xml`.</b>
