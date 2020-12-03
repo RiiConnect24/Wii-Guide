@@ -22,7 +22,7 @@ Queres receber atualizações no RSS no teu Wii Message Board? Este tutorial ir�
 1. Extrai RSSMii e coloca-o na pasta `apps` no teu cartão SD.
 2. Nós precisamos de criar um ficheiro `feeds.xml` na raiz do teu cartão SD para que a aplicação possa saber que feeds tu subscreveste.
 
-Se estiveres a utilizar um Sistema Operacional Windows, podes utilizar o programa RSS Feeds Creators criado pelo KcrPL. Isto criará automaticamente um ficheiro `feeds.xml` e irá copiá-lo para o teu cartão SD!
+If you're using the Windows Operating System, you can use the [RSS Feeds Creator](https://github.com/RiiConnect24/rssmii/releases/download/v1.4.1/RSSFeedsCreator.bat) program created by KcrPL. Isto criará automaticamente um ficheiro `feeds.xml` e irá copiá-lo para o teu cartão SD!
 {: .notice--info}
 
 <b>Se não tens um computador com Windows, copia este exemplo e utiliza o teu editor de texto favorito para criar o `feeds.xml`.</b>
