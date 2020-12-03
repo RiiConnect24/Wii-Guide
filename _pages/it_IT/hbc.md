@@ -27,7 +27,7 @@ L'Homebrew Channel è dove caricherai le applicazioni homebrew. BootMii è un pe
 
 ![Installazione BootMii](/images/Wii/InstallBootMii.jpg)
 
-8. Una volta fatto, seleziona `Exit` per uscire dall'installatore HackMii.
+8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
 
 [Continue to making a NAND Backup using BootMii](bootmii) Making a NAND backup with BootMii at this point is highly recommended.
 {: .notice--info}
