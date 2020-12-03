@@ -27,7 +27,7 @@ O Homebrew Channel é onde tu irás abrir aplicações homebrew. BootMii é um b
 
 ![BootMii Installation](/images/Wii/InstallBootMii.jpg)
 
-8. Uma vez feito, seleciona `Continue` para saires do instalador HackMii.
+8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
 
 [Continua para criação de uma cópia NAND utilizando BootMii](bootmii) Neste ponto, é recomendado fazer uma cópia da NAND com BootMii.
 {: .notice--info}
