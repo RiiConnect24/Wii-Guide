@@ -27,7 +27,7 @@ title: "Συνέχεια στην εγκατάσταση του καναλιού
 
 ![Εγκατάσταση του BootMii](/images/Wii/InstallBootMii.jpg)
 
-8. Μόλις τελειώσετε, επιλέξτε `Continue` για έξοδο από το πρόγραμμα εγκατάστασης HackMii.
+8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
 
 [Continue to making a NAND Backup using BootMii](bootmii) Making a NAND backup with BootMii at this point is highly recommended.
 {: .notice--info}
