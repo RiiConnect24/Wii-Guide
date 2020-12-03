@@ -27,7 +27,7 @@ Homebrew Channel jest miejscem, w którym możesz uruchamiać programy homebrew.
 
 ![Instalacja BootMii](/images/Wii/InstallBootMii.jpg)
 
-8. Kiedy instalacja zostanie ukończona, wybierz `Continue` aby wyjść z instalatora HackMii.
+8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
 
 [Kontynuuj do wykonywania kopii zapasowej korzystając z BootMii](bootmii)</br>. Zalecamy teraz wykonanie kopii zapasowej pamięci NAND.
 {: .notice--info}
