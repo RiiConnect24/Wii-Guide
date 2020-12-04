@@ -15,7 +15,7 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). Si lo haces, tu vWi
 {: .notice--warning}
 
 #### Requisitos
-* Una Tarjeta SD
+* Una tarjeta SD o unidad USB
 * [Priiloader](/assets/files/Priiloader_v0_9.zip)
 
 #### Instrucciones
@@ -48,7 +48,7 @@ Esta es una lista de los hacks que puedes activar con Priiloader.
 
 | Hack                                    | Descripción                                                                                                                                       |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Block Disc Updates                      | Removes the "Wii System Update" screen that is included on some games forcing you to update the system to play the game.                          |
+| Block Disc Updates                      | Removes the "Wii System Update" screen included with some games that forces you to update the system to play the game.                            |
 | Block Online Updates                    | Disables updating your Wii. Updates will fail with error 32007.                                                                                   |
 | Auto-Press A at Health Screen           | Automatically presses the A Button to get past the "Health and Safety" screen.                                                                    |
 | Replace Health Screen with Backmenu     | Changes the "Health and Safety" screen to the animation played when returning to the Wii menu.                                                    |
