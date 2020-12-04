@@ -15,7 +15,7 @@ Priiloader dodaje dodatkowy poziom ochrony przez brickiem na Twoje Wii. Ładuje 
 {: .notice--warning}
 
 #### Będziesz potrzebował
-* Karta SD
+* Karta SD lub urządzenie USB.
 * [Priiloader](/assets/files/Priiloader_v0_9.zip)
 
 #### Instrukcje
@@ -48,7 +48,7 @@ Poniżej znajduje się lista hacków, które możesz włączyć w Priiloaderze.
 
 | Hack                                    | Opis                                                                                                                                                             |
 | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Block Disc Updates                      | Wyłącza "Wii System Update" podczas uruchamiania gier które zmuszają Cię do aktualizacji oprogramowania.                                                         |
+| Block Disc Updates                      | Removes the "Wii System Update" screen included with some games that forces you to update the system to play the game.                                           |
 | Block Online Updates                    | Blokuje wykonywania aktualizacji Twojej konsoli. Próby aktualizacji kończą się błędem 32007.                                                                     |
 | Auto-Press A at Health Screen           | Automatycznie naciska A na ekranie "Health and Safety".                                                                                                          |
 | Replace Health Screen with Backmenu     | Zamienia ekran "Health and Safety" na aminację kiedy wychodzisz z gry i uruchamiasz Wii Menu.                                                                    |
