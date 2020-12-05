@@ -1,6 +1,6 @@
 #### What you need
 
-* An SD card or USB drive with at least 4.7 GB of free space (9.4 GB if dumping a dual layer disc) of free space.
+* An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc) of free space.
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
 #### Instructions
@@ -21,5 +21,5 @@
 ![Initialising Disc](/images/CleanRip/5.png)
 1. Set it as shown on the screen below.<br>If you know that you are dumping a game that uses a dual layer disc, like `Super Smash Bros. Brawl` or `Metroid: Other M`, set `Dual Layer` to `Yes`.
 ![Settings](/images/CleanRip/6.png)
-1. CleanRip will now dump your game. It can take a while, since it will dump the full 4.7GB disc contents (9.4 for dual layer discs).
+1. CleanRip will now dump your game. It can take a while, since it will dump the full 4.7 GB disc contents (8.5 GB for dual layer discs).
 ![Copying](/images/CleanRip/7.png)
