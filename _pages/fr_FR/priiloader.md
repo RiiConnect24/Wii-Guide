@@ -33,14 +33,14 @@ N'installez ** pas ** Priiloader sur un vWii (mode Wii sur Wii U). Le faire bric
 
 ##### Section III - Configuration de Priiloader
 
-1. Hold the RESET button while turning on your Wii. :   If you are using a Wii mini, plug in a USB keyboard and hold escape while turning it on
+1. Maintenez le bouton RESET enfoncé tout en allumant votre Wii. : Si vous utilisez une Wii mini, branchez un clavier USB et maintenez la touche Échap enfoncée tout en l'allumant
 
 
 ![Allumer](/images/Priiloader/5.jpg) ![Maintenez RESET](/images/Priiloader/4.jpg)
 
-2. You should see the Priiloader menu. ![Menu](/images/Priiloader/6.png)
-3. Go to `System Menu Hacks`.
-4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/7.png)
+2. Vous devriez voir le menu Priiloader. ![Menu](/images/Priiloader/6.png)
+3. Accédez à ` System Menu Hack `.
+4. Nous vous recommandons d'activer les hacks suivants: ` Region Free EVERYTHING `, ` Block Disc Updates ` et ` Block Online Updates`. ![System Menu Hacks](/images/Priiloader/7.png)
 
 ## Liste des hacks du menu système
 
