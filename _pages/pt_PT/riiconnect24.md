@@ -67,7 +67,7 @@ If you still can't run RiiConnect24 Patcher, please send us a mail at support@ri
 8. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again. ![Successfully detected](/images/RC24_Patcher/7.PNG)
 9. Be patient... ![It's patching!](/images/RC24_Patcher/8.PNG)
 10. Once it's done, you can now safely close the patcher. All of the files are ready on your SD Card. ![It's done!](/images/RC24_Patcher/9.PNG) ![Files copied](/images/RC24_Patcher/10.PNG)
-11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24 Patcher.bat` to your SD Card or USB Device.
+11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
 12. Put your SD card or USB drive in your Wii.
 13. Abre o Homebrew Channel na tua Wii.
 14. Launch Wii Mod Lite.
@@ -109,6 +109,9 @@ In this section, you will set your DNS to our servers. It's optional but recomme
 
 
 [Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+{: .notice--info}
+
+[Continue to WiiLink24](wiilink24)<br> WiiLink24 lets you use the Japanese-exclusive Wii no Ma channel. This is optional to install.
 {: .notice--info}
 
 If you get error 107245, then you probably have failed to patch your IOS correctly.
