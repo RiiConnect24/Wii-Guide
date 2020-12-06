@@ -4,7 +4,7 @@ title: "WiiLink24"
 
 {% include toc title="Table of Contents" %}
 
-WiiLink24 or any of its services, including Wii no Ma, are not Controlled nor Operated by RiiConnect24 or any of its developers.
+WiiLink24 or any of its services, including Wii no Ma, are not controlled or operated by RiiConnect24 or any of its developers.
 To get support on all issues relating this tutorial and service, join the [WiiLink24 Discord server](https://discord.gg/n4ta3w6)
 {: .notice--warning}
 
