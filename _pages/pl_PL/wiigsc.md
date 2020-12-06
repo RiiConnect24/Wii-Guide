@@ -12,6 +12,9 @@ Korzystasz z USB Loadera i chcesz stworzyć skrót do gry oraz umieścić go na 
 W przypadku bricka, [instalacja Priiloadera jest wymogiem](/priiloader). Również, zainstaluj BootMii (jako boot2 jeżeli masz starsze Wii). Zainstalowanie ochrony przed brickiem oraz poprawne podążenie za tym poradnikiem ochroni Cię przed zbrickowaniem Twojej konsoli. NIE KONTYNUUJ DOPÓKI NIE ZAINSTALUJESZ PRIILOADERA I BOOTMII!
 {: .notice--warning}
 
+Do NOT make a shortcut for the games "Mario Party 9" or "A Boy and His Blob". It will brick your Wii.
+{: .notice--warning}
+
 #### Będziesz potrzebował
 
 * Konsola Wii
@@ -25,8 +28,7 @@ W przypadku bricka, [instalacja Priiloadera jest wymogiem](/priiloader). Równie
 1. Zainstaluj WiiGSC, naciśnij na program prawym przyciskiem oraz wybierz **Uruchom jako administrator**. Jeśli tego nie zrobisz, WiiGSC pokaże Ci błąd podczas uruchamiania.
 2. Wybierz ścieżkę pliku ISO lub WBFS na Twoim urządzeniu USB oraz wybierz loader USB, z którego korzystasz. Inne opcje powinny działać tak jak obecnie są.
 3. Jeżeli korzystasz z USB Loader GX, nie możesz użyć wersji (revision) 1272 aby stworzyć skrót. Musisz skorzystać z wersji (revision) 1271) (lub wcześniejszej wersji jeżeli z jakiegoś powodu musisz z niej skorzystać).
-4. Nie twórz skrótów dla gier "A Boy and His Blob" oraz "Mario Party 9". Skróty tych gier zbrickują Twoje Wii.
-5. Zainstaluj wygenerowane pliki WAD korzystając z WAD Manager'a. Zalecamy Wii Mod Lite.
+4. Install the generated WAD with a WAD Manager, we recommend Wii Mod Lite.
 
-Jeżeli otrzymasz błąd o treści "The system files are corrupted", nie panikuj - masz zainstalowanego Priiloadera. Wyłącz Twoją konsolę Wii, przytrzymaj przycisk RESET oraz włącz Twoją konsolę. Powinieneś się pojawić w menu Priiloadera. Są tam opcje przydatne do odzyskania Twojej konsoli. Jedną z takich opcji jest uruchomienie Homebrew Channel.
+Jeżeli otrzymasz błąd o treści "The system files are corrupted", nie panikuj - masz zainstalowanego Priiloadera. Wyłącz Twoją konsolę Wii, przytrzymaj przycisk RESET oraz włącz Twoją konsolę. Powinieneś się pojawić w menu Priiloadera. Są tam opcje przydatne do odzyskania Twojej konsoli. One of the options is to launch the Homebrew Channel.
 {: .notice--info}
