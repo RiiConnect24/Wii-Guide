@@ -11,6 +11,7 @@ sitemap: false
 
 + [cIOS](cios)
 + [RiiConnect24](riiconnect24)
++ [WiiLink24](wiilink24)
 + [Wiimmfi](wiimmfi)
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
@@ -20,13 +21,15 @@ sitemap: false
 + [RiiConnect24](riiconnect24)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
++ [WiiLink24](wiilink24)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Deletando VFFs](deleting-vffs)
-+ [Corrigindo FORE000006](riiconnect24-batteryfix)
++ [Fixing FORE000006](riiconnect24-batteryfix)
 + [Fixing NEWS000006](news000006)
 
 **Modding 101**
++ [BlueBomb](bluebomb)
 * [{% include toc title="Table of Contents" %}
 Se você precisar de ajuda para qualquer coisa sobre este tutorial, por favor, junte-se ao servidor RiiConnect24 Discord (recomendado) ou envie-nos um e-mail para support@riiconnect24. net.
 {:. notice--info}
@@ -42,7 +45,6 @@ Um dos recursos mais importantes do BootMii é a capacidade de fazer backup e re
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
 + [str2hax](str2hax)
-+ [BlueBomb](bluebomb)
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
@@ -58,9 +60,8 @@ Um dos recursos mais importantes do BootMii é a capacidade de fazer backup e re
 + [Wii Backup Manager](wiibackupmanager)
 
 **Wii mini**
-+ [Installing The Homebrew Channel on the Wii mini](hbc-mini)
++ [Installing the Homebrew Channel on the Wii mini](hbc-mini)
 + [Installing cIOS on the Wii mini](cios-mini)
-
 
 **Site**
 + [Home](/)
