@@ -4,7 +4,7 @@ title: "WiiLink24"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the WiiLink24 Discord server](https://discord.gg/n4ta3w6) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+To get support on all issues relating this tutorial and service, join [the WiiLink24 Discord server](https://discord.gg/n4ta3w6)
 {: .notice--info}
 
 [WiiLink24](https://wiilink24.com/) lets you use the Japanese-exclusive Wii no Ma channel, and in the future will let you use the Digicam Print Channel and the Demae Channel again.
