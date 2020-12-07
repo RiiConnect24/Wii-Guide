@@ -4,8 +4,8 @@ title: "WiiLink24"
 
 {% include toc title="Zawartość" %}
 
-To get support on all issues relating this tutorial and service, join [the WiiLink24 Discord server](https://discord.gg/n4ta3w6)
-{: .notice--info}
+WiiLink24 and all of its services (such as Wii no Ma) are not controlled or operated by RiiConnect24. To get support on all issues relating this tutorial and service, join the [WiiLink24 Discord server](https://discord.gg/n4ta3w6).
+{: .notice--warning}
 
 [WiiLink24](https://wiilink24.com/) lets you use the Japanese-exclusive Wii no Ma channel, and in the future will let you use the Digicam Print Channel and the Demae Channel again.
 
@@ -14,7 +14,7 @@ To get support on all issues relating this tutorial and service, join [the WiiLi
 * Karta SD lub urządzenie USB.
 * Konsola Wii z połączeniem Internetowym
 * Komputer
-* [SaveGame Manager GX](https://static.wiidatabase.de/SaveGame-Manager-GX-Beta.zip)
+* [SaveGame Manager GX](https://static.wiidatabase.de/SaveGame-Manager-GX.zip)
 * [WiiLink24 Patcher (Windows only)](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 * [Wii no Ma Mii](https://cdn.discordapp.com/attachments/770353472024477727/784849286063718430/Mickey.miigx)
 * [Wii no Ma save file](https://cdn.discordapp.com/attachments/782800044830490664/782800227706732555/WiiRoomSave.bin)
@@ -26,14 +26,14 @@ To get support on all issues relating this tutorial and service, join [the WiiLi
 [Jeżeli potrzebujesz dokładnych instrukcji dotyczących instalacji plików WAD, naciśnij tutaj!](wiimodlite)
 {: .notice--info}
 
-1. Pobierz wymagane pliki w zależności od Twojego systemu operacyjnego. On Windows run `WiiLink24Patcher.bat`.
+1. Pobierz wymagane pliki w zależności od Twojego systemu operacyjnego. On Windows, run `WiiLink24Patcher.bat`.
 2. Naciśnij 1 aby wybrać "`Start`" oraz potwierdź swój wybór naciskając `ENTER`.
 3. For this guide, choose "`Install WiiLink24 on your Wii`"
 4. Select your region.
 5. Podłącz kartę SD lub urządzenie USB do komputera oraz wybierz "`1`".
 6. Jeżeli Twoje urządzenie zostało pomyślnie wykryte, wybierz "`1`". Jeśli nie, upewnij się, że istnieję folder o nazwie `apps<code> na Twojej karcie SD lub urządzeniu USB i spróbuj ponownie.</li>
 <li>Be patient...</li>
-<li>Po zakończeniu, możesz bezpiecznie zamknąć patcher. Wszystkie pliki są gotowe na Twojej karcie SD.</li>
+<li>Once it's done, you can safely close the patcher. Wszystkie pliki są gotowe na Twojej karcie SD.</li>
 <li>If it did not copy everything automatically to your SD Card or USB Device, copy the <code>WAD` and `apps` folder next to `WiiLink24Patcher.bat` to your SD Card or USB Device.
 10. Włóż kartę SD lub urządzenie USB do Twojego Wii.
 11. Otwórz Homebrew Channel na Twoim Wii.
