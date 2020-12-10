@@ -2,39 +2,39 @@
 title: "WiiLink24"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="目次" %}
 
-WiiLink24 and all of its services (such as Wii no Ma) are not controlled or operated by RiiConnect24. To get support on all issues relating this tutorial and service, join the [WiiLink24 Discord server](https://discord.gg/n4ta3w6).
+WiiLink24とそのすべてのサービス（Wiiの間とか）は、RiiConnect24によって制御または運用されていない。 このチュートリアルやサービスのサポートをもらうために、[WiiLink24のDiscordサーバー](https://discord.gg/n4ta3w6)に入ってください。
 {: .notice--warning}
 
-[WiiLink24](https://wiilink24.com/) lets you use the Japanese-exclusive Wii no Ma channel, and in the future will let you use the Digicam Print Channel and the Demae Channel again.
+[WiiLink24](https://wiilink24.com/)は日本限定のWiiの間チャネルを使えるようにしている。そして、将来にデジカメプリントチャネル、出前チャンネルがもう一度使えるようにする。
 
-#### What you need
+#### 必要なもの
 
-* An SD card or USB drive
-* A Wii with an Internet connection
-* A computer
+* SDカードまたはUSBドライブ
+* インターネット接続があるWii
+* パソコン
 * [SaveGame Manager GX](https://static.wiidatabase.de/SaveGame-Manager-GX.zip)
-* [WiiLink24 Patcher (Windows only)](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
-* [Wii no Ma Mii](https://cdn.discordapp.com/attachments/770353472024477727/784849286063718430/Mickey.miigx)
-* [Wii no Ma save file](https://cdn.discordapp.com/attachments/782800044830490664/782800227706732555/WiiRoomSave.bin)
+* [WiiLink24パッチャー（Windowsだけ）](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
+* [Wiiの間のMii](https://cdn.discordapp.com/attachments/770353472024477727/784849286063718430/Mickey.miigx)
+* [Wiiの間のセーブファイル](https://cdn.discordapp.com/attachments/782800044830490664/782800227706732555/WiiRoomSave.bin)
 
-#### Instructions
+#### 指示
 
-##### Section I - Patching Wii no Ma
+##### セクション１ - Wiiの間をパッチし方
 
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+[詳しいWADのインストールし方指示が見たいだったら、ここでクリクしてください。](wiimodlite)
 {: .notice--info}
 
-1. Download the required files based on your OS. On Windows, run `WiiLink24Patcher.bat`.
-2. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`.
-3. For this guide, choose "`Install WiiLink24 on your Wii`"
-4. Select your region.
-5. Connect the SD Card or USB Drive to your computer and select "`1`".
-6. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
-7. Be patient...
-8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
-9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLink24Patcher.bat` to your SD Card or USB Device.
+1. OSを所要のファイルをダウンロードして。 Windowsで、`WiiLink24Patcher.bat`を実行して
+2. 「`Start`」を選ぶために`1`を押してから、`ENTER`を押して。
+3. このガイドのために「`Install WiiLink24 on your Wii`」を選んで。
+4. 自分の地域を選んで。
+5. SDカードまたはUSBドライブを入れて、「`1`」を選んで。
+6. デバイスの検出は効果的だ時、「`1`」を選んで 効果的ではない時、SDカードまたはUSBドライブで`apps`というフォルダーがある確かめてから、も一度試みて。
+7. ちょっと待って・・・
+8. 終わった後、無事にパッチャーを出られる。 SDカードで全部のファイルは整う。
+9. 全部が独りでにコピーされていない場合は、`WAD`と`apps`というフォルダーをコピーして、SDカードまたはUSBドライブで`WiiLink24Patcher.bat`隣にペーストして。
 10. Put your SD card or USB drive in your Wii.
 11. Launch the Homebrew Channel on your Wii.
 12. Launch Wii Mod Lite.
