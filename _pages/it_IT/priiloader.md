@@ -41,6 +41,8 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). Brickerai la tua Wi
 2. You should see the Priiloader menu. ![Menu](/images/Priiloader/6.png)
 3. Go to `System Menu Hacks`.
 4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/7.png)
+1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
+1. Scroll to `Homebrew Channel` and press A to launch it.
 
 ## Lista dei System Menu Hacks
 
@@ -70,6 +72,7 @@ This is a list of the hacks you can enable with Priiloader.
 | Lock System Menu with Black Screen      | Makes your Wii Menu load to a black screen, making you unable to use it. (Do not enable this)                                |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Re-enable channels with these title IDs (originally blocked in system updates due to them being exploits).                   |
 | Force Disc Games to run under IOS249    | Make discs use cIOS 249 as the game's IOS. Can be used to play burned games if there is a cIOS present in that slot          |
+
 
 Continue to installing cIOS<br>
 {: .notice--info}
