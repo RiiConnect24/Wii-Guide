@@ -40,7 +40,9 @@ Priiloader dodaje dodatkowy poziom ochrony przez brickiem na Twoje Wii. Ładuje 
 
 2. Powinieneś zobaczyć menu główne Priiloader'a. ![Menu](/images/Priiloader/6.png)
 3. Przejdź do `System Menu Hacks`.
-4. Zalecamy włączenie następujących hacków: `Region Free EVERYTHING`, `Block Disc Updates` oraz `Block Online Updates`. ![Lista hacków System Menu](/images/Priiloader/7.png)
+4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/7.png)
+1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
+1. Scroll to `Homebrew Channel` and press A to launch it.
 
 ## Lista hacków System Menu
 
@@ -70,6 +72,7 @@ Poniżej znajduje się lista hacków, które możesz włączyć w Priiloaderze.
 | Lock System Menu with Black Screen      | Powoduje, że Twoje Wii Menu zacina się na czarnym ekranie, powodując, że nie możesz z niego korzystać. (Nie włączaj tego)                                        |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Kanały z tymi ID skasowane przez Nintendo są ponownie widoczne.                                                                                                  |
 | Force Disc Games to run under IOS249    | Powoduje że gry na płytach uruchamiają się z cIOS 249. Może zostać użyte do grania w wypalone gry jeżeli w tym slocie znajduje się cIOS                          |
+
 
 Kontynuuj do instalacji cIOS<br>
 {: .notice--info}
