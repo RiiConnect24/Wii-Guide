@@ -40,13 +40,14 @@ N'installez ** pas ** Priiloader sur un vWii (mode Wii sur Wii U). Le faire bric
 
 2. Vous devriez voir le menu Priiloader. ![Menu](/images/Priiloader/6.png)
 3. Accédez à ` System Menu Hack `.
-4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/7.png)
-1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
+4. Nous vous recommandons d'activer les hacks suivants: `Region Free EVERYTHING` , `Block Disc Updates` et `Block Online Updates<code>.
+<img src="/images/Priiloader/7.png" alt="System Menu Hacks" /></p></li>
+<li><p spaces-before="0">Scroll down to <code>save settings` and press A, then press B to go back to the main menu of Priiloader.
 1. Scroll to `Homebrew Channel` and press A to launch it.
 
 ## Liste des hacks du menu système
 
-This is a list of the hacks you can enable with Priiloader.
+Voici la liste des hacks que vous pouvez activer avec Priiloader.
 
 | Hack                                    | Description                                                                                                                  |
 | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
