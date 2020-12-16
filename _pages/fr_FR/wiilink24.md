@@ -4,7 +4,7 @@ title: "WiiLink24"
 
 {% include toc title="Table des matières" %}
 
-WiiLink24 and all of its services (such as Wii no Ma) are not controlled or operated by RiiConnect24. To get support on all issues relating this tutorial and service, join the [WiiLink24 Discord server](https://discord.gg/n4ta3w6).
+WiiLink24 et tous ses services (tels que Wii no Ma) ne sont ni contrôlés ni exploités par RiiConnect24. To get support on all issues relating this tutorial and service, join the [WiiLink24 Discord server](https://discord.gg/n4ta3w6).
 {: .notice--warning}
 
 [WiiLink24](https://wiilink24.com/) vous permet d'utiliser la chaîne Wii no Ma exclusive au Japon et, à l'avenir, vous permettra d'utiliser à nouveau la chaîne Digicam Print et la chaîne Demae.
@@ -21,9 +21,9 @@ WiiLink24 and all of its services (such as Wii no Ma) are not controlled or oper
 
 #### Instructions
 
-##### Section I - Patching Wii no Ma
+##### Section I - Patcher Wii no Ma
 
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+[Si vous souhaitez voir des instructions détaillées sur la façon d'installer les WAD, cliquez ici!](wiimodlite)
 {: .notice--info}
 
 1. Download the required files based on your OS. On Windows, run `WiiLink24Patcher.bat`.
@@ -59,7 +59,7 @@ You will now install a save file and Mii which are required in order to use Wii 
 11. Exit the Mii Channel.
 12. Launch Wii Room, and go to the settings, then video. Make sure quality is set to high. Wii no Ma is now installed on your Wii.
 
-[ Continuer vers RiiConnect24 ](riiconnect24) <br> RiiConnect24 vous permet d'utiliser les services interrompus de WiiConnect24, qui incluent la chaîne infos, la chaîne météo, la chaîne votes, la chaîne Nintendo et la chaîne Concours mii, ainsi que Wii Mail. This is optional to install.
+[ Continuer vers RiiConnect24 ](riiconnect24) <br> RiiConnect24 vous permet d'utiliser les services interrompus de WiiConnect24, qui incluent la chaîne infos, la chaîne météo, la chaîne votes, la chaîne Nintendo et la chaîne Concours mii, ainsi que Wii Mail. L'installation est facultative.
 {: .notice--info}
 
 [Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
