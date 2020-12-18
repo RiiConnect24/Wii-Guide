@@ -2,9 +2,9 @@
 title: "RiiConnect24"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sumário" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Caso precise de ajuda com este tutorial, entre [no servidor do RiiConnect24 no Discord](https://discord.gg/b4Y7jfD) (recomendado) ou [envie um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
@@ -22,9 +22,9 @@ There is no guide to installing RiiConnect24 on a Wii Mini, as attempting to ins
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-#### What you need
+#### Você precisará de
 
-* An SD card or USB drive
+* Um cartão SD ou pendrive
 * A Wii with an Internet connection
 * A computer
 * [RiiConnect24 Patcher (Windows only)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
@@ -50,7 +50,7 @@ Requires at least 3GB of RAM. Ethernet connection required. Works on VM's.
 If you still can't run RiiConnect24 Patcher, please send us a mail at support@riiconnect24.net
 {: .notice--info}
 
-#### Instructions
+#### Instruções
 
 ##### Section I - Patching IOS
 
@@ -67,12 +67,12 @@ If you still can't run RiiConnect24 Patcher, please send us a mail at support@ri
 8. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again. ![Successfully detected](/images/RC24_Patcher/7.PNG)
 9. Be patient... ![It's patching!](/images/RC24_Patcher/8.PNG)
 10. Once it's done, you can now safely close the patcher. All of the files are ready on your SD Card. ![It's done!](/images/RC24_Patcher/9.PNG) ![Files copied](/images/RC24_Patcher/10.PNG)
-11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24 Patcher.bat` to your SD Card or USB Device.
+11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
 12. Put your SD card or USB drive in your Wii.
 13. Launch the Homebrew Channel on your Wii.
 14. Launch Wii Mod Lite.
 15. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
-16. When `IOS31.wad` is highlighted, press +, then do the same for all the other WADs.
+16. When `IOS31.wad` is highlighted, press +, then do the same for all the other WADs. When all of them are selected, press A to install the WADs.
 17. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted WAD to uninstall it, then try installing it again.
 18. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
@@ -109,6 +109,9 @@ In this section, you will set your DNS to our servers. It's optional but recomme
 
 
 [Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+{: .notice--info}
+
+[Continue to WiiLink24](wiilink24)<br> WiiLink24 lets you use the Japanese-exclusive Wii no Ma channel. This is optional to install.
 {: .notice--info}
 
 If you get error 107245, then you probably have failed to patch your IOS correctly.

@@ -11,17 +11,18 @@ Priiloader proporciona un nivel adicional de protección contra bricks a tu cons
 
 ![Priiloader](/images/priiloader.jpg)
 
-Por favor **no** intentes instalar Priiloader en el modo Wii de un Wii U (vWii). Si lo haces, tu vWii quedará brickeado.
+Do **not** install Priiloader on a vWii (Wii mode on Wii U). Si lo haces, tu vWii quedará brickeado.
 {: .notice--warning}
 
 #### Requisitos
-* Una Tarjeta SD
+* Una tarjeta SD o unidad USB
 * [Priiloader](/assets/files/Priiloader_v0_9.zip)
 
 #### Instrucciones
 ##### Sección I - Descarga/instalación
 
 1. Download Priiloader and extract it to the `apps` folder on your SD card or USB drive.
+    * If this folder does not exist, create it.
 2. Inserta tu tarjeta SD en tu Wii, y inicia Priiloader desde el Homebrew Channel.
 
 ##### Sección II - Instalación
@@ -38,8 +39,10 @@ Por favor **no** intentes instalar Priiloader en el modo Wii de un Wii U (vWii).
 ![Encender](/images/Priiloader/5.jpg) ![Mantener RESET](/images/Priiloader/4.jpg)
 
 2. Deberías ver el menú de Priiloader. ![Menú](/images/Priiloader/6.png)
-3. Go to `System Menu Hacks`.
-4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![Hacks del menú del sistema](/images/Priiloader/7.png)
+3. Vaya a `System Menu Hacks`.
+4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/7.png)
+1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
+1. Scroll to `Homebrew Channel` and press A to launch it.
 
 ## Lista de hacks para el menú de Wii
 
@@ -47,7 +50,7 @@ Esta es una lista de los hacks que puedes activar con Priiloader.
 
 | Hack                                    | Descripción                                                                                                                                       |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Block Disc Updates                      | Removes the "Wii System Update" screen that is included on some games forcing you to update them to play the game.                                |
+| Block Disc Updates                      | Removes the "Wii System Update" screen included with some games that forces you to update the system to play the game.                            |
 | Block Online Updates                    | Disables updating your Wii. Updates will fail with error 32007.                                                                                   |
 | Auto-Press A at Health Screen           | Automatically presses the A Button to get past the "Health and Safety" screen.                                                                    |
 | Replace Health Screen with Backmenu     | Changes the "Health and Safety" screen to the animation played when returning to the Wii menu.                                                    |
@@ -56,8 +59,8 @@ Esta es una lista de los hacks que puedes activar con Priiloader.
 | 480p graphics fix in system menu        | Arregla un problema menor con el modo 480p en el Menú de Wii.                                                                                     |
 | Remove NoCopy Save File Protection      | Permite copiar archivos de guardado que normalmente estarían protegidos                                                                           |
 | Region Free EVERYTHING                  | Deshabilita el bloqueo regional de cualquier titulo de Wii, incluyendo títulos descargados.                                                       |
-| Region Free GC Games (No VM Patch)      | Deshabilita el bloqueo regional en los juegos de GameCube.                                                                                        |
-| Region Free Wii Games                   | Deshabilita el bloqueo regional en los discos de Wii.                                                                                             |
+| Region Free GC Games (No VM Patch)      | Disables region locking for GameCube discs.                                                                                                       |
+| Region Free Wii Games                   | Disables region locking for Wii discs.                                                                                                            |
 | Region Free Channels                    | Disables region locking for installed channels                                                                                                    |
 | No System Menu Sounds AT ALL            | Deshabilita todos los efectos de sonido del Menú de Wii.                                                                                          |
 | No System Menu Background Music         | Deshabilita la música de fondo del Menú de Wii.                                                                                                   |
@@ -69,6 +72,7 @@ Esta es una lista de los hacks que puedes activar con Priiloader.
 | Lock System Menu with Black Screen      | Makes your Wii Menu load to a black screen, making you unable to use it. (Do not enable this)                                                     |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Re-enable channels with these title IDs (originally blocked in system updates due to them being exploits).                                        |
 | Force Disc Games to run under IOS249    | Make discs use cIOS 249 as the game's IOS. Can be used to play burned games if there is a cIOS present in that slot                               |
+
 
 Continue to installing cIOS<br>
 {: .notice--info}

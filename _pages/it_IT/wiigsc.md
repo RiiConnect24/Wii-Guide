@@ -12,6 +12,9 @@ Hai un USB Loader e vuoi creare scorciatoie dei giochi da avviare dal Menù Wii?
 In caso di brick, avere [Priiloader installato è obbligatorio](/priiloader). Inoltre, installa anche BootMii (come Boot2 se possibile). Avere protezioni da brick e seguire correttamente la guida ti terrà al sicuro. NON CONTINUARE FINO A CHE NON HAI PRIILOADER E BOOTMII INSTALLATI!
 {: .notice--warning}
 
+Do NOT make a shortcut for the games "Mario Party 9" or "A Boy and His Blob". It will brick your Wii.
+{: .notice--warning}
+
 #### Cosa ti servirà
 
 * Una Wii
@@ -25,8 +28,7 @@ In caso di brick, avere [Priiloader installato è obbligatorio](/priiloader). In
 1. Install WiiGSC, then right click on it and choose **Run as administrator**. If you do not do this, WiiGSC will throw an error when you open it.
 2. Select the path to the ISO or WBFS file on your USB drive, and select the USB Loader you use. Le altre opzioni sono apposto così come sono.
 3. Se usi USB Loader GX, non puoi usare la revision 1272 per creare le scorciatoie. Devi usare la revision 1271 (o, se per caso ne hai bisogno, una versione ancora più vecchia).
-4. Non creare una scorciatoia per "A Boy and His Blob" o "Mario Party 9". Essi brickeranno la tua Wii.
-5. Installa il WAD generato con un WAD Manager, (consigliamo Wii Mod Lite).
+4. Install the generated WAD with a WAD Manager, we recommend Wii Mod Lite.
 
-Se ricevi l'errore "I file di sistema sono corrotti", non allammarti se hai installato Priiloader. Spegni la tua Wii, e accendila nuovamente mentre tieni premuto anche il pulsante RESET. Si aprirà il menù di BootMii, nel quale avrai una varietà di opzioni per aggiustare la tua Wii. Una delle opzioni è caricare l'Homebrew Channel.
+Se ricevi l'errore "I file di sistema sono corrotti", non allammarti se hai installato Priiloader. Spegni la tua Wii, e accendila nuovamente mentre tieni premuto anche il pulsante RESET. Si aprirà il menù di BootMii, nel quale avrai una varietà di opzioni per aggiustare la tua Wii. One of the options is to launch the Homebrew Channel.
 {: .notice--info}

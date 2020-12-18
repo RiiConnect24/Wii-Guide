@@ -29,7 +29,7 @@ Het Homebrew Kanaal is de plek waarvan je al jouw homebrew applicaties kunt open
 <p spaces-before="0"><img src="/images/Wii/InstallBootMii.jpg" alt="BootMii installatie" /></p>
 
 <ol start="8">
-<li>Wanneer dit allemaal is geïnstalleerd klik dan op <code>Continue` en daarna op `Return to the main menu` om de HackMii installer te verlaten.
+<li>Once done, select <code>Continue`, and then select `Exit` to go to the Homebrew Channel
 
 [Continue to making a NAND Backup using BootMii](bootmii) Making a NAND backup with BootMii at this point is highly recommended.
 {: .notice--info}

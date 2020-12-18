@@ -2,7 +2,7 @@
 title: "Homebrew Browser"
 ---
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Hvis du trenger hjelp med noe om denne inføringen, bli med i [RiiConnect24 Discord serveren](https://discord.gg/b4Y7jfD) (anbefalt) eller [e-mail oss på support@riiconnect24.net](mailto:support@riiconnect24.net). (Ikke send noe på Norsk, er du snill).
 {: .notice--info}
 
 The Homebrew Browser is where you can go to get homebrew apps. It has been revived and is also now referred to as the "Open Shop Channel"
@@ -11,7 +11,7 @@ The Homebrew Browser is where you can go to get homebrew apps. It has been reviv
 * An SD card or USB drive
 * [Homebrew Browser](/assets/files/homebrew_browser_v0.3.9e.zip)
 
-#### Instructions
+#### Instruksjoner
 
 1. Extract the Homebrew Browser and put it in the `apps` folder on your SD card or USB drive.
 2. Insert your SD card or USB drive into your Wii. You can now launch the Homebrew Browser from the Homebrew Channel if you want to.

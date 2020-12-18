@@ -2,7 +2,7 @@
 title: "LetterBomb"
 ---
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Hvis du trenger hjelp med noe om denne inføringen, bli med i [RiiConnect24 Discord serveren](https://discord.gg/b4Y7jfD) (anbefalt) eller [e-mail oss på support@riiconnect24.net](mailto:support@riiconnect24.net). (Ikke send noe på Norsk, er du snill).
 {: .notice--info}
 
 ![LetterBomb](/images/letterbomb.png)
@@ -17,12 +17,12 @@ This exploit is one of many. Check out the [Get Started](/get-started) page for 
 - A Wii on system version 4.3
    - This exploit will not work on a Wii mini or vWii
 
-#### Instructions
+#### Instruksjoner
 
 1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
 2. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure* `Bundle the HackMii Installer for me!` *is checked*, and cut either wire
    - Whichever wire you choose to cut doesn't matter. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
-3. Extract the contents of the downloaded ZIP to your SD card.
+3. Extract the contents of the downloaded ZIP to the root of your SD card.
 4. On your Wii, return to the Wii Menu and then open the Message Board.
 5. Load the red letter with a bomb icon.
    - In various scenarios, you may need to look at the previous or next day to find it.

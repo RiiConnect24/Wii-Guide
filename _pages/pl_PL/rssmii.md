@@ -22,7 +22,7 @@ Chcesz otrzymywać aktualizacje z Twoich RSS Feed'ów na Twoim Wii Message Board
 1. Wypakuj RSSMii oraz skopiuj go do folderu `apps` na Twojej karcie SD lub urządzeniu USB.
 2. Będziemy musieli stworzyć plik `feeds.xml` na folderze głównym Twojej karty SD. Jest to plik konfiguracyjny dla RSSMii.
 
-Jeżeli korzystasz z komputera z Windows'em, możesz użyć programu RSS Feeds Creator, który został stworzony przez KcrPL. Ten program automatycznie utworzy plik `feeds.xml` za Ciebie i skopiuje go na kartę SD!
+If you're using the Windows Operating System, you can use the [RSS Feeds Creator](https://github.com/RiiConnect24/rssmii/releases/download/v1.4.1/RSSFeedsCreator.bat) program created by KcrPL. Ten program automatycznie utworzy plik `feeds.xml` za Ciebie i skopiuje go na kartę SD!
 {: .notice--info}
 
 <b>Jeżeli nie masz komputera z Windows'em, użyj poniższego przykładu i użyj Twojego ulubionego edytora tekstu aby stworzyć plik `feeds.xml`.</b>

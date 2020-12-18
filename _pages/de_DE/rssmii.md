@@ -22,7 +22,7 @@ Möchtest du RSS-Feed-Updates auf deiner Wii-Pinnwand erhalten? Diese Anleitung 
 1. Entpacke RSSMii und verschiebe es in den `apps`-Ordner auf deiner SD-Karte.
 2. Wir müssen eine `feeds.xml`-Datei im obersten Verzeichnis der SD-Karte erstellen, damit die Anwendung weiß, welche Feeds du abonnieren möchtest.
 
-Falls du Windows als Betriebssystem nutzt, kannst du das RSS Feeds Creators-Programm von KcrPL nutzen. Es wird automatisch eine `feeds.xml`-Datei erstellen und sie in das oberste Verzeichnis deiner SD-Karte kopieren!
+If you're using the Windows Operating System, you can use the [RSS Feeds Creator](https://github.com/RiiConnect24/rssmii/releases/download/v1.4.1/RSSFeedsCreator.bat) program created by KcrPL. Es wird automatisch eine `feeds.xml`-Datei erstellen und sie in das oberste Verzeichnis deiner SD-Karte kopieren!
 {: .notice--info}
 
 <b>Falls du keinen Windows-Computer hast, benutze diese Vorlage und erstelle mit deinem bevorzugten Texteditor eine <code>feeds.xml</code>.</b>

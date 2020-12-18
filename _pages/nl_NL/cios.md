@@ -58,8 +58,8 @@ Select cIOS version: 65535
 [Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Ga door naar de sitenavigatie](site-navigation)<br> We hebben vele andere tutorials die je wellicht interessant vindt.
 {: .notice--info}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx).
+U kunt nu homebrew applicaties gebruiken zoals [USB Loader GX](usbloadergx).
 {: .notice--info}

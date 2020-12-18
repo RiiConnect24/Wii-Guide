@@ -12,6 +12,9 @@ En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por f
 En caso de un brick, para repararlo es necesario tener instalado [Priiloader](/priiloader). También es recomendable instalar BootMii (si es posible, como boot2). Tener algún tipo de protección contra bricks instalada junto con seguir la guía de forma correcta te mantendrá protegido contra bricks. ¡NO CONTINÚES SI NO TIENES PRIILOADER Y BOOTMII INSTALADOS!
 {: .notice--warning}
 
+Do NOT make a shortcut for the games "Mario Party 9" or "A Boy and His Blob". It will brick your Wii.
+{: .notice--warning}
+
 #### Requisitos
 
 * Un Wii
@@ -25,8 +28,7 @@ En caso de un brick, para repararlo es necesario tener instalado [Priiloader](/p
 1. Instalar WiiGSC, luego haga clic derecho sombre él y seleccione **Run as administrator**. Si no haces esto, WiiGSC da un error cuando lo abres.
 2. Seleccione la carpeta al archivo ISO o WBFS en su unidad USB y seleccione el cargador USB que usa. No hace falta que cambies el resto de las opciones.
 3. No podrás usar los accesos direcctos si tienes la versión 1272 de USB Loader GX. La última versión que funciona con los accesos directos en la versión 1271.
-4. No hagas accesos directos para los juegos "A Boy and His Blob" o "Mario Party 9". Si instalas alguno de esos dos, tu consola quedará brickeada debido a un banner brick.
-5. Instala el WAD generado con un instalador de WADs, recomendamos usar Wii Mod Lite.
+4. Install the generated WAD with a WAD Manager, we recommend Wii Mod Lite.
 
-Si te aparece un mensaje que dice "Los archivos del sistema están dañados", no tienes nada de que preocuparte siempre y cuando hayas instalado Priiloader. Apaga la consola, después oprime el botón POWER mientras mantienes presionado RESET.. Priiloader debería de iniciarse. Desde aquí tienes algunas opciones para reparar tu menú de Wii. Una de las opciones es iniciar el Canal Homebrew y después usar Wii Mod Lite para desinstalar el WAD que acabas de instalar.
+Si te aparece un mensaje que dice "Los archivos del sistema están dañados", no tienes nada de que preocuparte siempre y cuando hayas instalado Priiloader. Apaga la consola, después oprime el botón POWER mientras mantienes presionado RESET.. Priiloader debería de iniciarse. Desde aquí tienes algunas opciones para reparar tu menú de Wii. One of the options is to launch the Homebrew Channel.
 {: .notice--info}

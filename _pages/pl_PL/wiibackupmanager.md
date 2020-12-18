@@ -13,7 +13,7 @@ Wii Backup Manager jest programem, które kopiuje i instaluje gry Wii z Twojego 
 * Dysk USB / Pendrive
 * [Wii Backup Manager](https://static.wiidatabase.de/Wii-Backup-Manager.zip)
 
-We recommend you use [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS. Wii Backup Manager nie działa na macOS.
+Zalecamy korzystanie z [Witgui](https://desairem.com/wordpress/category/witgui-download/) jeżeli korzystasz z macOS'a. Wii Backup Manager nie działa na macOS.
 {: .notice--info}
 
 Aby grać w wiele gier, zalecamy użycie dysku twardego na USB z zewnętrznym zasilaniem. Będziemy go nazywali "urządzeniem USB" w tym poradniku. Wiele dysków, które znajdziesz w sklepach powinny działać jeżeli posiadają wsparcie wsteczne dla USB 2.0. Dyski o pojemności 1TB lub więcej powinny zadziałać. Pendrive'y również powinny działać, jednak z powodu ich wielkości, nie będziesz mógł zmieścić na nich dużej ilości gier.

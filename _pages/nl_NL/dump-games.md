@@ -13,7 +13,7 @@ Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending
 {% endcapture %}
 
 {% capture networkInstructions %}
-### Dumping a game over a local network
+### Een cd-rom kopiëren via uw eigen internet connectie
 {% include_relative dump-smb.md %}
 {% endcapture %}
 

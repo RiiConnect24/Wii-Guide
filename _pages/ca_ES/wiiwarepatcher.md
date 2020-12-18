@@ -9,7 +9,7 @@ Want to patch WAD games (WiiWare) to work with Wiimmfi and you don't know how? T
 ![Using the WiiWare Patcher](/images/rc24_using_the_wiiware_patcher.jpg)
 
 This tutorial is only for Windows version of WiiWare Patcher.
-{: .notice--info}
+{: . notícia--informació}
 
 #### What you need
 
@@ -18,13 +18,13 @@ This tutorial is only for Windows version of WiiWare Patcher.
 #### Downloading
 
 [If you want to download WiiWare Patcher without cmd.exe method, click here!](https://github.com/RiiConnect24/auto-wiiware-patcher/releases)
-{: .notice--info}
+{: . notícia--informació}
 
 If you are on Windows 7 or newer open cmd.exe (Run or press Windows Logo+R and type in cmd.exe) and run the command
 ```powershell
 powershell -command "(new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/KcrPL/KcrPL.github.io/master/Patchers_Auto_Update/WiiWare-Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat`
 ```
-{: .notice--info}
+{: . notícia--informació}
 
 Give it a few seconds because Powershell have to startup. After few seconds a new windows should open. ![Net Installer](/images/WiiWare-Patcher/netinstall.jpg)
 

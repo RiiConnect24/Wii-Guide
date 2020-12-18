@@ -22,13 +22,12 @@ If you installed BootMii as boot2 in the last step, you will need to launch Boot
 {: .notice--info}
 1. Apri il canale Homebrew Channel.
 2. Premi il pulsante HOME e scegli "Launch BootMii".
-   - Non puoi utilizzare un telecomando Wii. Per navigare tra le opzioni in BootMii dovrai utilizzare i tasti sulla tua console Wii (o un controller GameCube nella porta 1). Per navigare tra le opzioni, premi il pulsante POWER sulla tua Wii (o il pulsante destro del pad a + su un controller GameCube). Tieni a mente che mentre usi i pulsanti Wii, puoi solo navigare a destra ma quando provi ad andare oltre l'ultima opzione, verrai portato alla prima. Questo non è un problema su Controller del GameCube; puoi navigare sia a destra che a sinistra. Per selezionare un'opzione, premi il pulsante RESET sulla tua Wii (o il pulsante A su un controller GameCube).
-3. Premi l'opzione Opzioni (icona con le rotelle).
-4. Scegli l'opzione BootMii Backup (icona con la freccia verde).
+   - Non puoi utilizzare un telecomando Wii. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. Per navigare tra le opzioni, premi il pulsante POWER sulla tua Wii (o il pulsante destro del pad a + su un controller GameCube). To select an option, hit RESET on your Wii or A on your GameCube controller.
+3. Select the Options button (the one with the gears).
+4. Select the BackupMii button (the one with the green arrow).
 - Un backup della NAND inizierà. Puoi guardare il processo su schermo.
-- Non spegnere la tua Nintendo Wii mentre stai eseguendo il Backup.
-- "Blocchi Sbagliati" sono normali. Non ti preoccupare quando ne vedi uno su un backup NAND
-- Dopo questo passaggio, verificherà il backup. Se vuoi, puoi saltare il processo premendo il pulsante EJECT, ma non lo consigliamo.
+- "Bad Blocks" are normal. Don't worry when you see one on a NAND backup
+- After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii.
 5. Quando il backup sarà finito, esso verrà verificato.
 6. Scegli l'opzione Indietro per uscire da BootMii (icona con una freccia) e potrai scegliere se tornare al Menù Wii o al canale Homebrew Channel.
 

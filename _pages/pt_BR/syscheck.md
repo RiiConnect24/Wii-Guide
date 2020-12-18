@@ -4,18 +4,18 @@ title: "SysCheck"
 
 {% include toc title="Sumário" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Caso precise de ajuda com este tutorial, entre [no servidor do RiiConnect24 no Discord](https://discord.gg/b4Y7jfD) (recomendado) ou [envie um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 A SysCheck lists all the IOS and cIOS that are on your Wii, along with some information about each of them. It also gives you some other useful information. When you have IOS-related problems on your Wii, someone might ask you to do a SysCheck.
 
-#### What you need
+#### Você precisará de
 
-* An SD card or USB drive
+* Um cartão SD ou pendrive
 * [SysCheck HacksDen Edition](http://www.hacksden.com/downloads.php?do=file&id=149)
 
-#### Instructions
-##### Section I - Downloading/Installing
+#### Instruções
+##### Parte I - Baixar/Instalar
 
 1. Extract SysCheck HacksDen Edition and put it in the `apps` folder on your SD card or USB drive.
 2. Insert your SD card or USB drive into your Wii, and launch SysCheck HacksDen Edition from the Homebrew Channel.

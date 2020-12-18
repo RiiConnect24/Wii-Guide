@@ -7,11 +7,11 @@ main:
     title: Start Here
     url: get-started
   - 
-    title: FAQ
-    url: faq
+    title: Sıkça Sorulan Sorular (S.S.S)
+    url: S.S.S
   - 
     title: RiiConnect24
-    url: riiconnect24
+    url: riiConnect24
   - 
     title: Wiimmfi
     url: wiimmfi

@@ -1,19 +1,19 @@
 ---
 main:
   - 
-    title: Guía Wii
+    title: Guía per la Wii
     url: /
   - 
-    title: Start Here
-    url: get-started
+    title: Comença aquí
+    url: començar
   - 
-    title: FAQ
-    url: faq
+    title: Preguntes Freqüents
+    url: preguntes freqüents
   - 
-    title: RiiConnect24
+    title: Riiconnect24
     url: riiconnect24
   - 
-    title: Wiimmfi
+    title: Wiimmifi
     url: wiimmfi
 bottom:
   - 

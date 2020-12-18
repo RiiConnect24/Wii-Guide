@@ -11,18 +11,18 @@ Do you want to get RSS feed updates on your Wii Message Board? This tutorial wil
 
 ![RSSMii](/images/rssmii.png)
 
-#### What you need
+#### Benodigdheden
 
-* An SD card
+* Een SD-kaart
 * [RSSMii](https://github.com/RiiConnect24/rssmii/releases)
 
-#### Instructions
-##### Section I - Downloading/Installing
+#### Instructies
+##### Deel I - Downloaden/Installeren
 
 1. Extract RSSMii and put it in the `apps` folder on your SD card.
 2. We need to create a `feeds.xml` on the root of the SD card so the app will know what feeds to subscribe you to.
 
-If you're using the Windows Operating System, you can use the RSS Feeds Creators program created by KcrPL. It will automatically create a `feeds.xml` file and will copy it to your SD card!
+If you're using the Windows Operating System, you can use the [RSS Feeds Creator](https://github.com/RiiConnect24/rssmii/releases/download/v1.4.1/RSSFeedsCreator.bat) program created by KcrPL. It will automatically create a `feeds.xml` file and will copy it to your SD card!
 {: .notice--info}
 
 <b>If you don't have a Windows computer, use this template and use your favorite text editor to make the `feeds.xml`.</b>
@@ -51,7 +51,7 @@ Save the feed you made to the root of your SD Card.
 5. Once everything is done, press HOME to go back to the Homebrew Channel. You should soon get RSS feed updates on your Wii, enjoy!
 
 Not getting any feed updates? Try an RSS feed that updates more frequently, like a feed with news for example. If the RSS feed doesn't update often, then you won't get many updates.
-{: .notice--warning}
+{: .notice--waarschuwing}
 
 We recommend you use just a few feeds, because if you subscribe to a lot of feeds you can get a ton of mail on your Wii.
 {: .notice--info}
@@ -59,5 +59,5 @@ We recommend you use just a few feeds, because if you subscribe to a lot of feed
 If you're not receiving updates after a few days, you might need to subscribe to the RSS feeds again. Launch RSSMii from the Homebrew Channel again and it'll create brand new subscriptions.
 {: .notice--info}
 
-[Removing RSSMii](rssmii-remove)
+[RSSMii verwijderen](rssmii-remove)
 {: .notice--info}

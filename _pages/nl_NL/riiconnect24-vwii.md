@@ -2,7 +2,7 @@
 title: RiiConnect24 vWii Guide
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Inhoudsopgave" %}
 
 Als u hulp nodig heeft bij iets wat met deze tutorial te maken heeft, sluit u dan aan bij [de RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (aanbevolen) of [e-mail ons via support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -12,17 +12,17 @@ Als u hulp nodig heeft bij iets wat met deze tutorial te maken heeft, sluit u da
 Guide to installing [RiiConnect24](https://rc24.xyz) on your vWii (Virtual Wii on Wii U) with: CMOC/MCC, Nintendo Channel, EVC and News Channel along with forced 4:3 aspect ratio patching.
 
 Since certain features found in the original Wii are not present in the vWii, we can only partially utilize RiiConnect24. See [what's currently working](#whats-currently-working) for details.
-{: .notice--warning}
+{: .notice--waarschuwing}
 
 #### Warnings
 
 We are **NOT** responsible if you brick, or damage your console in any way whatsoever. If you follow this guide exactly, you shouldn't have any problems.
-{: .notice--warning}
+{: .notice--waarschuwing}
 
 Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on Wii U). If you're looking for instructions for a Nintendo Wii, use [wii.guide/riiconnect24](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [wii.guide/riiconnect24-dolphin](/riiconnect24-dolphin)
-{: .notice--warning}
+{: .notice--waarschuwing}
 
-#### What you need
+#### Benodigdheden
 
 * A PC or mobile device with internet access and the ability to interact with SD cards.
 * An SD card formatted as FAT32 (at least 2GB) with enough available space. SDHC or SDXC cards formatted as FAT32 can be known to work.
@@ -36,7 +36,7 @@ After following the above linked guide, you should have:
 * IOS80 patched
 {: .notice--info}
 
-#### Instructions
+#### Instructies
 
 If you use GNU/Linux or macOS on your PC, or use a smartphone, please [follow the manual guide](https://pad.snopyta.org/s/rJ2N0B1XU), to install RiiConnect24. The patcher we provide is currently Windows-only. The end result is the same regardless of the method followed.
 {: .notice--info}
@@ -90,4 +90,4 @@ The following RiiConnect24 services are **not working** on the vWii:
 * Forecast Channel
     * This channel is affected by the timestamp issue. This is preventing the channel from getting past the loading screen, returning the `FORE000006` error.
 * Everything else that isn't working according to [RiiConnect24 stats](https://rc24.xyz/stats/index.html).
-{: .notice--warning}
+{: .notice--waarschuwing}

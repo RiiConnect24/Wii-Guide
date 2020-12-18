@@ -1,11 +1,11 @@
 ---
 main:
   - 
-    title: Guide wii
+    title: Guide Wii
     url: /
   - 
-    title: Start Here
-    url: get-started
+    title: Commencer Ici
+    url: Commencer
   - 
     title: FAQ
     url: faq
@@ -23,17 +23,17 @@ footer:
     title: Source
     url: https://github.com/RiiConnect24/Wii-Guide/
   - 
-    title: Site Navigation
+    title: Navigation du Site
     url: site-navigation
   - 
     title: Donations
     url: donations
 sidebar_title:
   - 
-    title: Overall Progress
+    title: Progrès Général
 sidebar_pages:
   - 
-    title: Wii Guide
+    title: Guide Wii
     url: /
   - 
     title: FAQ

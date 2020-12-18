@@ -47,6 +47,5 @@ excerpt: "Ο ολοκληρομένος οδηγός για να τροποπο�
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
 - [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...and of course, this site
 
-Για να τροποποιήσετε ένα Wii U, υπάρχουν μερικές επιπλέον επιλογές:
-- [Ο Απόλυτος Οδηγός vWii Χακ](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
-- [Οδηγός NH Wii U](https://wiiuguide.xyz)
+For modding a Wii U, follow this guide:
+- [NH Wii U Guide](https://wiiu.hacks.guide)

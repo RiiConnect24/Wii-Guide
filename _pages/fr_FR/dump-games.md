@@ -2,18 +2,18 @@
 title: "Extraire des jeux Wii/GameCube"
 ---
 
-Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
+Vous voulez vider un disque GameCube ou un disque Wii? Il existe deux façons de le faire, selon les outils dont vous disposez.
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">To a PC over the network</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">Vers la carte SD / la clé USB</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">Vers un PC via le réseau</button>
 
 {% capture cleanripInstructions %}
-### Cleanrip guide
+### Guide Cleanrip
 {% include_relative cleanrip.md %}
 {% endcapture %}
 
 {% capture networkInstructions %}
-### Dumping a game over a local network
+### Extraire un jeu via un réseau local
 {% include_relative dump-smb.md %}
 {% endcapture %}
 

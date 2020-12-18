@@ -11,31 +11,33 @@ sitemap: false
 
 + [Instalar cIOS](cios)
 + [Instalar RiiConnect24](riiconnect24)
-+ [Conectarse a Wiimmfi](wiimmfi)
++ [WiiLink24](wiilink24)
++ [Wiimmfi](wiimmfi)
 {% endcapture %}
-<div class="notice--info">{{ notice-1 | markdownify }}</div>
+<div class="notice--info">{ notice-1 | markdownify }</div>
 
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
 + [Instalar RiiConnect24](riiconnect24)
 + [RiiXOnnect24 para vWii](riiconnect24-vwii)
 + [RiiConnect24 para Dolphin](riiconnect24-dolphin)
++ [WiiLink24](wiilink24)
 + [Wiimmfi](wiimmfi)
-+ [Patcher de WiiWare](wiiwarepatcher)
++ [WiiWare Patcher](wiiwarepatcher)
 + [Eliminando VFFs](deleting-vffs)
-+ [Resolución de error FORE000006](riiconnect24-batteryfix)
-+ [Resolución de error NEWS000006](news000006)
++ [Fixing FORE000006](riiconnect24-batteryfix)
++ [Fixing NEWS000006](news000006)
 
 **Modificación 101**
++ [BlueBomb](bluebomb)
 * [Respaldo de BootMii](bootmii)
-+ [cIOS](cios)
++ [Instalar cIOS](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
-+ [El Canal Homebrew](hbc)
++ [Homebrew Channel](hbc)
 + [LetterBomb](letterbomb)
-+ [Priiloader](priiloader)
++ [Instalar Priiloader](priiloader)
 + [str2hax](str2hax)
-+ [BlueBomb](bluebomb)
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
@@ -51,13 +53,12 @@ sitemap: false
 + [Wii Backup Manager](wiibackupmanager)
 
 **Wii mini**
-+ [Instalación El Canal Homebrew en el Wii Mini](hbc-mini)
++ [Installing the Homebrew Channel on the Wii mini](hbc-mini)
 + [Instalación de cIOS en el Wii Mini](cios-mini)
-
 
 **Sitio**
 + [Casa](/)
-+ [Empezar](get-started)
++ [Empezar](comenzando)
 + [FAQ](faq)
 + [Donaciones](donations)
 {% endcapture %}

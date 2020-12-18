@@ -11,6 +11,7 @@ sitemap: false
 
 + [cIOS](cios)
 + [RiiConnect24](riiconnect24)
++ [WiiLink24](wiilink24)
 + [Wiimmfi](wiimmfi)
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
@@ -20,22 +21,23 @@ sitemap: false
 + [RiiConnect24](riiconnect24)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
++ [WiiLink24](wiilink24)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
 + [VFFs löschen](deleting-vffs)
-+ [FORE000006 beheben](riiconnect24-batteryfix)
-+ [NEWS000006 beheben](news000006)
++ [Fixing FORE000006](riiconnect24-batteryfix)
++ [Fixing NEWS000006](news000006)
 
 **Modding 1x1**
-* [BootMii Backup](bootmii)
++ [BlueBomb](bluebomb)
+* [BootMii-Sicherung](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
-+ [Homebrew-Browser](hbb)
-+ [Homebrew-Kanal](hbc)
++ [Homebrew Browser](hbb)
++ [Homebrew Channel](hbc)
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
 + [str2hax](str2hax)
-+ [BlueBomb](bluebomb)
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
@@ -51,9 +53,8 @@ sitemap: false
 + [Wii Backup Manager](wiibackupmanager)
 
 **Wii mini**
-+ [Installation des Homebrew-Kanals auf der Wii Mini](hbc-mini)
++ [Installing the Homebrew Channel on the Wii mini](hbc-mini)
 + [Installation von cIOS auf der Wii Mini](cios-mini)
-
 
 **Seite**
 + [Start](/)

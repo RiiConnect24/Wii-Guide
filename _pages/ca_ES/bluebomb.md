@@ -1,28 +1,28 @@
 ---
-title: "BlueBomb (Bomba Blava)"
+title: "BlueBomb"
 ---
 
 {% include toc title="Table of Contents" %}
 
-If you need help with anything regarding this tutorial, please join [the Wii mini Hacking Discord server](https://discord.gg/6ryxnkS) (recommended)
+Si necessites ajuda amb qualsevol cosa relacionada amb aquest tutorial, per favor uneix-te a [ el Discord de Hackejar la Wii Mini ](https://discord.gg/6ryxnkS) (recomanat)
 {: .notice--info}
 
 ![BlueBomb(Bomba Blava)](/images/bluebomb.png)
 
-BlueBomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Although it is the only exploit that works for the Wii mini, BlueBomb can run on the original Wii as well. This exploit also enables recovery from certain bricks, such as a banner brick.
+BlueBomb és un exploit que aprofita un defecte de les biblioteques Bluetooth de la Wii i Wii mini. Tot i que és l'únic exploit que funciona per la Wii mini, BlueBomb també pot funcionar amb la Wii original. Aquest exploit també et permet recuperar-te de determinats boquejos, com ara el banner brick.
 
-For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
+Per la Wii original, no us recomanem que utilitzeu BlueBomb si teniu intenció d’instal·lar el Homebrew Channel o BootMii, ja que hi ha abusos més convenients i disponibles.
 {: .notice--info}
 
-This exploit will not work on a Wii U's vWii. Please follow [this guide](https://wiiuguide.xyz/#/vwii-modding) instead.
+Aquest exploit no funcionarà en la versió vWii d'una Wii U. Alternativament seguiu [ aquesta guia ](https://wiiuguide.xyz/#/vwii-modding).
 {: .notice--warning}
 
-#### Section I - What you need
-- A Linux machine
-  - If you have a Raspberry Pi, you can use that instead as it most likely has Linux installed already.
-  - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports.
-  - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
-    - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
+#### Secció I - El que es necessita
+- Un ordinador amb Linux
+  - Si teniu una Raspberry Pi, podeu utilitzar-la, ja que és probable que tingueu Linux instal·lat.
+  - El subsistema Windows per a Linux * no funcionarà * ja que no té accés directe a l'adaptador Bluetooth ni als ports USB.
+  - Si no teniu Linux, [ Ubuntu ](https://ubuntu.com/download/desktop) és l'opció més fàcil d'utilitzar i es pot executar en ordinadors amb Windows o Mac.
+    - Els dispositius de 32 bits requeriran [ Ubuntu 16.04 ](http://releases.ubuntu.com/16.04/).
     - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
   - You can [flash a Linux install to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
 - A Bluetooth adapter.
@@ -52,12 +52,12 @@ chmod +x bluebomb-helper.sh
 1. Press the Sync button repeatedly until the terminal shows `got connection handle`. This could take numerous attempts, so don't give up.
 
 Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
-{: .notice--info}
+{: . notícia--informació}
 
 The console should now boot to the HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
 
 [If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
-{: .notice--info}
+{: . notícia--informació}
 
 [If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
-{: .notice--info}
+{: . notícia--informació}

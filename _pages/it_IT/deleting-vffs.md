@@ -4,7 +4,7 @@ title: "Deleting VFFs"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se hai bisogno di aiuto per questo tutorial, vai sul [server Discord RiiConnect24](https://discord.gg/b4Y7jfD) (raccomandato, solo in inglese) oppure [scrivi una e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
@@ -17,8 +17,8 @@ If you're getting one of these errors (and not any other error), you should be a
 + NEWS/FORE000005
 + NEWS/FORE000099
 
-#### What you need
-* An SD card or USB drive
+#### Ciò di cui hai bisogno
+* Una scheda SD o chiavetta USB
 * [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
 
 #### Folder to Delete
@@ -28,12 +28,12 @@ If you're getting one of these errors (and not any other error), you should be a
   + 4841464a
   + 48414650
 
-+ News Channel
++ Canale News
   + 48414745
   + 4841474a
   + 48414750
 
-#### Instructions
+#### Istruzioni
 
 1. Launch WiiXplorer.
 2. Go to `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` and then select `Yes` for both dialogues that appear on the screen.
@@ -44,5 +44,5 @@ If you're getting one of these errors (and not any other error), you should be a
 
 Try to launch the Channel you were having trouble with now.
 
-[Return to RiiConnect24 installation page](riiconnect24)
+[Ritorna alla pagina di installazione di RiiConnect24](riiConnect24)
 {: .notice--info}

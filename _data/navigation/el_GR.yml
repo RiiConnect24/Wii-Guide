@@ -5,10 +5,10 @@ main:
     url: /
   - 
     title: Start Here
-    url: get-started
+    url: ξεκινώντας
   - 
-    title: FAQ
-    url: faq
+    title: Συχνές ερωτήσεις
+    url: συχνές ερωτήσεις
   - 
     title: RiiConnect24
     url: riiconnect24

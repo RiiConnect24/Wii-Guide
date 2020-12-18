@@ -22,13 +22,12 @@ If you installed BootMii as boot2 in the last step, you will need to launch Boot
 {: .notice--info}
 1. Åpne Homebrewkanelen.
 2. Trykk på HOME knappen, og da velg "Launch BootMii".
-   - Navigere BootMii er ikke mulig med en Wii fjernkontroll. Du må enten bruke knappene på din Wii konsoll eller en GameCube kontroller plugget inni port 1. Til å navigere mellom valg, trykk på POWER på din Wii (eller den høyre +Control Pad knapp på en GameCube kontroller). Husk at når du bruker wii knappene, kan du bare navigere til høyre men når du prøver å go foran den siste oppføring, kommer den til å sende deg til den første. Dette er ikke en begrensning av GameCube kontrollere; du kan bare gå venstre og høyre. Til å velge en valg, trykk på RESET på din Wii eller A på din GameCube kontroller.
-3. Trykk på Options knappen (den med tannhjulene).
-4. Trykk på BackupMii knappen (den med den grønne pilen).
+   - Navigere BootMii er ikke mulig med en Wii fjernkontroll. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. Til å navigere mellom valg, trykk på POWER på din Wii (eller den høyre +Control Pad knapp på en GameCube kontroller). To select an option, hit RESET on your Wii or A on your GameCube controller.
+3. Select the Options button (the one with the gears).
+4. Select the BackupMii button (the one with the green arrow).
 - En NAND backup vil starte. Du kan se på fremgangen på skjermen.
-- Ikke skru av din Nintendo Wii mens du backer den opp.
-- "Bad Blocks" er normale. Ikke vær bekymret når du ser en på en NAND backup
-- Etter dette, kommer den til å sjekke backuppen. Mens det er anbefalt, kan det bli hoppet over med å trykke på EJECT-knappen på din Wii konsoll.
+- "Bad Blocks" are normal. Don't worry when you see one on a NAND backup
+- After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii.
 5. Når backuppen er helt ferdig, gå ut av NAND backup skjermen med å trykke på hvilken som helst knapp.
 6. Til å gå ut av BootMii, trykk på Back knappen (den med pilen) og da kan du trykke på enten Wii Menu knappen eller Homebrew Channel knappen til å gå ut til hvorrenn du vil.
 

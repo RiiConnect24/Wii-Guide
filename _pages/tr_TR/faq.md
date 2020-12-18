@@ -1,5 +1,5 @@
 ---
-title: "FAQ"
+title: "Sıkça Sorulan Sorular (S.S.S)"
 ---
 
 ![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)

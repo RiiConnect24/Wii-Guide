@@ -11,7 +11,7 @@ FlashHax est une faille fait pour la chaîne internet Wii. Pas comme les autres,
 
 - Une Wii avec une connexion internet et qui se trouve en version système 4.3
 - La Chaîne Internet
-   - This will not be installed on a vWii or a Wii mini. Veuillez vous référer aux autres guide listés dans [Pour Débuter](/get-started).
+   - Cela ne sera pas installé sur un vWii ou une Wii mini. Veuillez vous référer aux autres guide listés dans [Pour Débuter](/get-started).
 
 #### Instructions
 

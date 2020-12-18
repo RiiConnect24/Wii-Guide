@@ -4,8 +4,8 @@ title: RiiConnect24 vWii Guide
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: .notice--info}
+Si necessiteu ajuda per a qualsevol cosa relacionada amb aquest tutorial, per favor uniu-vos al [servidor de RiiConnect24](https://discord.gg/b4Y7jfD) (recomanat) o[envia'ns un e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: . notícia--informació}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
@@ -34,12 +34,12 @@ After following the above linked guide, you should have:
 * The Homebrew Channel installed
 * d2x cIOS installed (IOS249, IOS250 and IOS251)
 * IOS80 patched
-{: .notice--info}
+{: . notícia--informació}
 
-#### Instructions
+#### Instruccions
 
 If you use GNU/Linux or macOS on your PC, or use a smartphone, please [follow the manual guide](https://pad.snopyta.org/s/rJ2N0B1XU), to install RiiConnect24. The patcher we provide is currently Windows-only. The end result is the same regardless of the method followed.
-{: .notice--info}
+{: . notícia--informació}
 
 ##### Section I - Running the patcher
 
@@ -63,7 +63,7 @@ Using the RiiConnect24 Patcher you should've downloaded earlier in [What you nee
 2. Launch the ww-43db-patcher
 
 If you install a theme, you will have to run the ww-43db-patcher once more
-{: .notice--info}
+{: . notícia--informació}
 
 ##### Section IV - Using RiiConnect24
 

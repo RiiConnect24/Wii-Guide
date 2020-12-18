@@ -1,5 +1,5 @@
 ---
-title: "RiiConnect24"
+title: "Riiconnect24"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -9,7 +9,7 @@ title: "RiiConnect24"
 This guide will help you install RiiConnect24 on your Dolphin installation.
 
 If you need help for anything regarding this tutorial, please directly contact KcrPL#4625 on Discord, join the [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: .notice--info}
+{: . notícia--informació}
 
 ### What you need
 * A computer with Windows 7 or newer.
@@ -17,12 +17,12 @@ If you need help for anything regarding this tutorial, please directly contact K
 * [Dolphin](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-#### Instructions
+#### Instruccions
 
 ##### Section I - Installing Dolphin
 
 If you have Dolphin already installed, skip to Section II
-{: .notice--info}
+{: . notícia--informació}
 
 1. Download the latest Dolphin development version.
 2. Extract the .7z file using a program like 7Zip or WinRAR.
@@ -39,10 +39,10 @@ If you have Dolphin already installed, skip to Section II
 ![Run once](/images/Dolphin_RC24/4.jpg)
 
 If you choose to manually run it, keep Install.bat. There will be an option in menu to manually run it.
-{: .notice--info}
+{: . notícia--informació}
 
 If you choose to run it on startup, you don't have to do anything. If you want to uninstall it in the future, come back to Install.bat and choose 4th option - Manage startup VFF Downloader.
-{: .notice--info}
+{: . notícia--informació}
 
 ##### Section III - Finalizing installation
 
@@ -54,4 +54,4 @@ If you choose to run it on startup, you don't have to do anything. If you want t
 6. In Dolphin, press `Tools` and then `Install WAD`, and select the `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
 
 You're all done! Unfortunately, Nintendo Channel and Wii Mail don't work in Dolphin yet.
-{: .notice--info}
+{: . notícia--informació}

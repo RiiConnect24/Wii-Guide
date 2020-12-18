@@ -2,9 +2,9 @@
 title: "Dumping a game over a local network"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Innholdsfortegnelse" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Hvis du trenger hjelp med noe om denne inføringen, bli med i [RiiConnect24 Discord serveren](https://discord.gg/b4Y7jfD) (anbefalt) eller [e-mail oss på support@riiconnect24.net](mailto:support@riiconnect24.net). (Ikke send noe på Norsk, er du snill).
 {: .notice--info}
 
 Do you want to dump games through your local network? Follow this tutorial! This can be useful if you don't have an SD card or a USB drive that is large enough to dump a game to.
@@ -19,7 +19,7 @@ Do you want to dump games through your local network? Follow this tutorial! This
 Your Wii and your computer must be connected to one local network
 {: .notice--warning}
 
-#### Instructions
+#### Instruksjoner
 
 ##### Section I - Downloading/Installing
 

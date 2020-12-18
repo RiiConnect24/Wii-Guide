@@ -14,7 +14,7 @@ str2hax ist ein Exploit für die Wii, welcher beim Laden des Endbenutzer-Lizenzv
 
 #### Voraussetzungen
 
-* A Wii with an Internet connection
+* Eine Wii mit Internetverbindung
 
 #### Anleitung
 

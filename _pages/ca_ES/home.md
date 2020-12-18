@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Wii Guide"
+title: "Guía per la Wii"
 header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
@@ -12,7 +12,7 @@ excerpt: "The complete guide to modding your Nintendo Wii."
 ---
 
 The guide is also available in other languages! To change the language, please press the icon at top right and change your language.
-{: .notice--info}
+{: . notícia--informació}
 
 ## What is "homebrew"?
 
@@ -36,7 +36,7 @@ Here's a list of things you can do with it. While these aren't all the things yo
 - Turn your Wii into a media player with [WiiMC](http://www.wiimc.org/).
 
 Get started by [choosing your exploit](get-started)!
-{: .notice--info}
+{: . notícia--informació}
 
 ## More Resources
 
@@ -47,6 +47,5 @@ There are also few more good resources for Wii modding and troubleshooting that 
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
 - [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...and of course, this site
 
-For modding a Wii U, there are some more options:
-- [The Definitive vWii Hacking Guide](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
-- [NH Wii U Guide](https://wiiuguide.xyz)
+For modding a Wii U, follow this guide:
+- [NH Wii U Guide](https://wiiu.hacks.guide)

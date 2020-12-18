@@ -8,7 +8,7 @@ Ce tutoriel va vous montrer comment installer le d2xl cIOS de Leseratte sur la W
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-This guide is only intended for Wii mini users. If you have a Wii, follow [this guide](cios) instead.
+Ce guide est uniquement destiné aux utilisateurs Wii mini. Si vous possédez une Wii, suivez plutôt [ce guide](cios).
 {: .notice--warning}
 
 Si vous avez besoin d'aide à propos de ce tutoriel, rejoignez le [Discord de hacking pour Wii mini](https://discord.gg/6ryxnkS) (recommandé mais en anglais)
@@ -27,21 +27,20 @@ Le d2x cIOS installer a été initialement développé pour le mode vWii de la W
 
 ##### Section I - Téléchargement
 
-1. Mettez le contenu du fichier .zip dans le dans le dossier `apps` de votre carte SD ou de votre clé USB. If you do not have one already, please make a folder named `apps` in the root of your USB drive.
-1. Insérez votre clé USB dans votre Wii mini puis lancez d2xl cIOS Installer depuis l'Homebrew Channel.
+1. Extrayez le programme d'installation du d2xl cIOS dans le dossier `apps` de votre clé USB.
+1. Insérez votre clé USB dans votre Wii mini et chargez le programme d'installation d2xl cIOS à partir de la chaîne Homebrew.
 
 ##### Section II - Installation
 
-1. Appuyez sur continuer, puis sélectionnez les options suivantes:
-```
-Select cIOS: d2xl-v1-beta2
-Select cIOS base: 57
-Select cIOS slot: 249
-```
-
-Prenez note du numéro de version (soit la `v31776` ou soit la `v31775`)
+1. Appuyez sur continuer, définissez ensuite les options suivantes:
+    ```
+    Sélectionnez cIOS: d2xl-v1-beta2 
+   Sélectionnez la base cIOS: 57 
+   Sélectionnez l'emplacement cIOS: 249
+    ```
+Notez le numéro de version sous les notes (` IOS57-64- ` se terminant par ` v31776 ` ou ` v31775 `)
 1. Une fois défini, appuyez sur A pour installer. Une fois l'installation terminée avec succès, quittez l'installateur.
-  - Si l'installation échoue en renvoyant l'erreur `TMD version mismatch`, sélectionnez l'option `Select cIOS`, puis sélectionnez avec la croix directionnelle, le numéro de version jusqu'à qu'elle soit différente de celle que vous avez précédemment tenté d'installer.
+   - Si l'installation échoue avec une erreur ` TMD version mismatch `, appuyez à gauche ou à droite sur le + Control Pad sur l'option ` Select cIOS base ` jusqu'à ce que le numéro de version soit différent de celui que vous essayé avant. Le nombre 57 ne changera pas.
 
 
 ##### Activation Ethernet

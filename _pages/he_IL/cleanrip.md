@@ -4,21 +4,21 @@ title: "CleanRip"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+במקרה ונדרשת עזרה או תמיכה טכנית בנוגע למדריך, בבקשה הצטרפו לשרת הדיסקורד של [ RiiConnect24](https://discord.gg/b4Y7jfD), או [שלחו אלינו אי-מייל](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Do you want to make a backup of your games? This tutorial will explain you how to use CleanRip.
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-#### What you need
+#### לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
 
 * An SD card or USB drive with at least 4.7 GB of free space
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
-#### Instructions
+#### הוראות
 
-##### Section I - Downloading/Installing
+##### חלק א - הורדה והתקנה
 
 1. Extract CleanRip and put it in the `apps` folder on your SD card or USB drive.
 1. Insert your SD card into your Wii, and launch CleanRip from the Homebrew Channel.

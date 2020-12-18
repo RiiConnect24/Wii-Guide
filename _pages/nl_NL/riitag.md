@@ -30,7 +30,7 @@ Want to install RiiTag on your Wii U? See [this guide](riitag-wiiu) on how to co
 6. Klik op `Submit` om uw veranderingen op te slaan.
 
 Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
-{: .notice--warning}
+{: .notice--waarschuwing}
 
 ##### Deel II - Aan sluiten op een USB Loader
 
@@ -74,5 +74,8 @@ You can use the `CfgLoaderConfigurator.exe` program (Windows only) instead of ed
 5. Save the modified `config.txt` file.
 6. You have now set up RiiTag. You can try loading any game now to see if it works correctly.
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Check out RiiTag-RPC](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br> Now that you set up RiiTag, you can set up RiiTag-RPC to show your friends what you're playing on the Wii using Discord's rich presence.
+{: .notice--info}
+
+[Ga door naar de sitenavigatie](site-navigation)<br> We hebben vele andere tutorials die je wellicht interessant vindt.
 {: .notice--info}

@@ -22,13 +22,12 @@ Falls du BootMii im letzten Schritt als Boot2 installiert hast, musst du BootMii
 {: .notice--info}
 1. Starte den Homebrew-Kanal.
 2. Drücke die HOME-Taste und wähle dann "Launch BootMii".
-   - BootMii kann nicht mit der Wii-Fernbedienung gesteuert werden. Du musst entweder die Tasten an der Konsole oder einen an Port 1 angeschlossenen GameCube-Controller benutzen. Um zwischen den Optionen zu wechseln, drücke die POWER-Taste an deiner Wii (oder die rechte Steuerkreuztaste auf einem GameCube-Controller). Denk daran, dass wenn du die Wii-Tasten benutzt du nur nach rechts navigieren kannst, du aber wenn du auf dem letzten Eintrag bist, zurück zum ersten Eintrag springst. Diese Einschränkung gibt es auf GameCube-Controllern nicht; Du kannst nach links und nach rechts navigieren. Um eine Option auszuwählen, drücke die RESET-Taste an deiner Wii oder A auf deinem GameCube-Controller.
-3. Wähle die Options-Schaltfläche aus (die mit den Zahnrädern).
-4. Wähle die BackupMii-Schaltfläche aus (die mit dem grünen Pfeil).
+   - BootMii kann nicht mit der Wii-Fernbedienung gesteuert werden. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. Um zwischen den Optionen zu wechseln, drücke die POWER-Taste an deiner Wii (oder die rechte Steuerkreuztaste auf einem GameCube-Controller). To select an option, hit RESET on your Wii or A on your GameCube controller.
+3. Select the Options button (the one with the gears).
+4. Select the BackupMii button (the one with the green arrow).
 - Die NAND-Sicherung startet. Du kannst den Fortschritt auf dem Bildschirm sehen.
-- Schalte deine Wii Nicht Aus, während die Sicherung deiner Wii läuft.
-- "Bad Blocks" sind normal. Mach dir keine Sorgen, wenn du welche während der NAND-Sicherung sehen solltest.
-- Nach diesem Schritt wird die Sicherung überprüft. Dies wird zwar empfohlen, kann aber auch durch Drücken der EJECT-Taste an der Wii-Konsole übersprungen werden.
+- "Bad Blocks" are normal. Don't worry when you see one on a NAND backup
+- After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii.
 5. Wenn die Sicherung abgeschlossen ist, beende den NAND-Sicherungsbildschirm durch Drücken einer beliebigen Taste.
 6. Um BootMii zu beenden, wähle die Zurück-Schaltfläche aus (die mit dem Pfeil) und anschließend entweder die Wii-Menü- oder die Homebrew-Kanal-Schaltfläche, je nachdem, wohin du möchtest.
 

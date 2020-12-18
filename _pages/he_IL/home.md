@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
-  cta_label: "Get Started"
+  cta_label: "צעדים ראשונים"
   cta_url: "get-started"
   caption:
 excerpt: "The complete guide to modding your Nintendo Wii."
@@ -47,6 +47,5 @@ There are also few more good resources for Wii modding and troubleshooting that 
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
 - [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...and of course, this site
 
-For modding a Wii U, there are some more options:
-- [The Definitive vWii Hacking Guide](https://gbatemp.net/threads/the-definitive-vwii-hacking-guide.425852/)
-- [NH Wii U Guide](https://wiiuguide.xyz)
+For modding a Wii U, follow this guide:
+- [NH Wii U Guide](https://wiiu.hacks.guide)

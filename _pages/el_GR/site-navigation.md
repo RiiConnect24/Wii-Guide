@@ -1,7 +1,7 @@
 ---
-title: "Site Navigation"
-layout: single
-sitemap: false
+title: "Πλοήγηση ιστοσελίδας"
+layout: μονή
+sitemap: λάθος
 ---
 
 ![WiiTutorials](/images/WiiTutorials.jpg)
@@ -9,8 +9,9 @@ sitemap: false
 {% capture notice-1 %}
 **Featured**
 
-+ [cIOS](cios)
++ [cIOS (προσαρμοσμένο IOS)](cios)
 + [RiiConnect24](riiconnect24)
++ [WiiLink24](wiilink24)
 + [Wiimmfi](wiimmfi)
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
@@ -20,22 +21,23 @@ sitemap: false
 + [RiiConnect24](riiconnect24)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
++ [WiiLink24](wiilink24)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
-+ [Deleting VFFs](deleting-vffs)
++ [Διαγραφή VFF](deleting-vffs)
 + [Fixing FORE000006](riiconnect24-batteryfix)
 + [Fixing NEWS000006](news000006)
 
 **Modding 101**
-* [BootMii Backup](bootmii)
-+ [cIOS](cios)
++ [BlueBomb](bluebomb)
+* [Αντίγραφο ασφαλείας με το BootMii](bootmii)
++ [cIOS (προσαρμοσμένο IOS)](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
 + [Homebrew Channel](hbc)
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
 + [str2hax](str2hax)
-+ [BlueBomb](bluebomb)
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
@@ -51,14 +53,13 @@ sitemap: false
 + [Wii Backup Manager](wiibackupmanager)
 
 **Wii mini**
-+ [Installing The Homebrew Channel on the Wii mini](hbc-mini)
++ [Installing the Homebrew Channel on the Wii mini](hbc-mini)
 + [Installing cIOS on the Wii mini](cios-mini)
-
 
 **Site**
 + [Home](/)
-+ [Get Started](get-started)
-+ [FAQ](faq)
++ [Ξεκινώντας](ξεκινώντας)
++ [Συχνές ερωτήσεις](συχνές ερωτήσεις)
 + [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>

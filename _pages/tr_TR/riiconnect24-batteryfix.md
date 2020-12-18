@@ -34,5 +34,5 @@ If the error code still remains, the time on your Wii might be incorrect, confus
 Still no luck getting it to work? Unfortunately, you might have to reformat your Wii for it to go away. Just make sure to backup your save files and Miis with [SaveGame Manager GX](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download).
 {: .notice--info}
 
-[Return to RiiConnect24 installation page](riiconnect24)
+[Return to RiiConnect24 installation page](riiConnect24)
 {: .notice--info}

@@ -22,13 +22,12 @@ Jeżeli w ostatnim kroku zainstalowałeś BootMii jako boot2, musisz uruchomić 
 {: .notice--info}
 1. Uruchom Homebrew Channel.
 2. Naciśnij przycisk HOME oraz wybierz "Launch BootMii".
-   - Nawigowanie interfejsu BootMii nie jest możliwe korzystając z kontrolera Wii Remote. Musisz korzystać z przycisków na Twoim Wii lub z kontrolera GameCube podłączonego do portu pierwszego. Aby nawigować pomiędzy opcjami, naciśnij przycisk POWER na Twoim Wii (lub prawo na kontrolerze GameCube). Pamiętaj, że podczas korzystania z przycisków na Wii, możesz nawigować tylko w prawo. Gdy na ostatniej opcji naciśniesz przycisk POWER, powrócisz do pierwszej opcji. Nie jest to limitacją na kontrolerze GameCube - możesz nawigować w lewo i w prawo. Aby wybrać opcję, naciśnij przycisk RESET na Twoim Wii lub przycisk A na kontrolerze GameCube.
-3. Wejdź do ustawień (ikona z kołem zębatym).
-4. Wybierz BackupMii (ikonka z zieloną strzałką).
+   - Nawigowanie interfejsu BootMii nie jest możliwe korzystając z kontrolera Wii Remote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. Aby nawigować pomiędzy opcjami, naciśnij przycisk POWER na Twoim Wii (lub prawo na kontrolerze GameCube). To select an option, hit RESET on your Wii or A on your GameCube controller.
+3. Select the Options button (the one with the gears).
+4. Select the BackupMii button (the one with the green arrow).
 - Rozpocznie się kopia zapasowa pamięci NAND. Możesz obserwować postęp na ekranie.
-- Nie wyłączaj Twojej konsoli Wii podczas wykonywania kopii zapasowej.
-- "Bad Blocks" (Uszkodzone bloki) są normalne. Nie przejmuj się gdy zobaczysz je podczas wykonywania kopii zapasowej.
-- Po tym kroku, BootMii automatycznie rozpocznie weryfikację kopii zapasowej. Zalecamy przeprowadzenie weryfikacji, jednak możesz ją pominąć przez naciśnięcie przycisku EJECT na Twojej konsoli Wii.
+- "Bad Blocks" are normal. Don't worry when you see one on a NAND backup
+- After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii.
 5. Po zakończeniu wykonywania kopii zapasowej, wyjdź z ekranu kopii zapasowej NAND poprzez naciśnięcie dowolnego przycisku.
 6. Aby wyjść z BootMii, wybierz ikonę cofania się (ze strzałką) oraz wybierz opcję Wii Menu lub Homebrew Channel aby wrócić tam gdzie chcesz.
 

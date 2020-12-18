@@ -4,14 +4,14 @@ title: "Homebrew Channel and BootMii Installation"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: .notice--info}
+Si necessiteu ajuda per a qualsevol cosa relacionada amb aquest tutorial, per favor uniu-vos al [servidor de RiiConnect24](https://discord.gg/b4Y7jfD) (recomanat) o[envia'ns un e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: . notícia--informació}
 
 ![HBC Logo](/images/hbc.png)
 
 The Homebrew Channel is where you will go to launch homebrew applications. BootMii is a piece of software that can backup and restore your Wii's NAND storage, and if installed in boot2, provides brick protection.
 
-#### Instructions
+#### Instruccions
 
 1. You will see a scam warning screen. Wait 30 seconds for the text "Press 1 to continue" to appear, then press 1. ![Scam Screen](/images/Wii/ScamScreen.png)
 
@@ -27,7 +27,7 @@ The Homebrew Channel is where you will go to launch homebrew applications. BootM
 
 ![BootMii Installation](/images/Wii/InstallBootMii.jpg)
 
-8. Once done, select `Continue` to exit the HackMii installer.
+8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
 
 [Continue to making a NAND Backup using BootMii](bootmii) Making a NAND backup with BootMii at this point is highly recommended.
-{: .notice--info}
+{: . notícia--informació}

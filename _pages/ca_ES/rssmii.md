@@ -4,8 +4,8 @@ title: "Installing RSSMii"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: .notice--info}
+Si necessiteu ajuda per a qualsevol cosa relacionada amb aquest tutorial, per favor uniu-vos al [servidor de RiiConnect24](https://discord.gg/b4Y7jfD) (recomanat) o[envia'ns un e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: . notícia--informació}
 
 Do you want to get RSS feed updates on your Wii Message Board? This tutorial will tell you how to set RSSMii up.
 
@@ -16,14 +16,14 @@ Do you want to get RSS feed updates on your Wii Message Board? This tutorial wil
 * An SD card
 * [RSSMii](https://github.com/RiiConnect24/rssmii/releases)
 
-#### Instructions
+#### Instruccions
 ##### Section I - Downloading/Installing
 
 1. Extract RSSMii and put it in the `apps` folder on your SD card.
 2. We need to create a `feeds.xml` on the root of the SD card so the app will know what feeds to subscribe you to.
 
-If you're using the Windows Operating System, you can use the RSS Feeds Creators program created by KcrPL. It will automatically create a `feeds.xml` file and will copy it to your SD card!
-{: .notice--info}
+If you're using the Windows Operating System, you can use the [RSS Feeds Creator](https://github.com/RiiConnect24/rssmii/releases/download/v1.4.1/RSSFeedsCreator.bat) program created by KcrPL. It will automatically create a `feeds.xml` file and will copy it to your SD card!
+{: . notícia--informació}
 
 <b>If you don't have a Windows computer, use this template and use your favorite text editor to make the `feeds.xml`.</b>
 
@@ -54,10 +54,10 @@ Not getting any feed updates? Try an RSS feed that updates more frequently, like
 {: .notice--warning}
 
 We recommend you use just a few feeds, because if you subscribe to a lot of feeds you can get a ton of mail on your Wii.
-{: .notice--info}
+{: . notícia--informació}
 
 If you're not receiving updates after a few days, you might need to subscribe to the RSS feeds again. Launch RSSMii from the Homebrew Channel again and it'll create brand new subscriptions.
-{: .notice--info}
+{: . notícia--informació}
 
 [Removing RSSMii](rssmii-remove)
-{: .notice--info}
+{: . notícia--informació}

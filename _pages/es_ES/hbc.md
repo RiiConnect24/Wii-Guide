@@ -27,7 +27,7 @@ El Canal Homebrew es desde donde iniciarás las aplicaciones homebrew. BootMii e
 
 ![Instalación de BootMii](/images/Wii/InstallBootMii.jpg)
 
-8. Una vez hecho esto, elige `Continue` para salir del HackMii Installer.
+8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
 
 [Continuar haciendo una copia de segruidad NAND usando BootMii](bootmii) Haciendo una copia de seguridad NAND con BootMii en este momento es muy recomendable.
 {: .notice--info}

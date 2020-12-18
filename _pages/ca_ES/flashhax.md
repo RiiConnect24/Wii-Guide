@@ -2,8 +2,8 @@
 title: "FlashHax"
 ---
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: .notice--info}
+Si necessiteu ajuda per a qualsevol cosa relacionada amb aquest tutorial, per favor uniu-vos al [servidor de RiiConnect24](https://discord.gg/b4Y7jfD) (recomanat) o[envia'ns un e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
+{: . notícia--informació}
 
 FlashHax is an exploit for the Wii that is triggered by using the Internet Channel. Unlike other exploits, this doesn't require an SD card.
 
@@ -13,7 +13,7 @@ FlashHax is an exploit for the Wii that is triggered by using the Internet Chann
 - The Internet Channel
    - This will not be installed on a vWii or a Wii mini. Check out the other guides listed in [Get Started](/get-started) instead.
 
-#### Instructions
+#### Instruccions
 
 1. Open up the Internet Channel on your Wii.
 2. Go to flashhax.com in the browser and bookmark the page.
@@ -22,4 +22,4 @@ FlashHax is an exploit for the Wii that is triggered by using the Internet Chann
 If the HackMii Installer doesn't load and it instead freezes (you can't move your cursor), please restart your Wii and repeat step 3 until it works. It might take multiple tries, be persistent!
 
 [Continue to Homebrew Channel and BootMii Installation](hbc)
-{: .notice--info}
+{: . notícia--informació}

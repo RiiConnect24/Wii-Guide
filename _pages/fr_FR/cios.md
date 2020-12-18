@@ -21,7 +21,7 @@ Si vous avez une Wii mini, installez [ce cIOS](cios-mini) au lieu de celui-ci. T
 
 ##### Section I - Téléchargement
 
-1. Download d2x cIOS Installer and extract it to the `apps` folder on your SD card or USB drive.
+1. Téléchargez le programme d'installation d2x cIOS et extrayez-le dans le dossier `apps` de votre carte SD ou clé USB.
 1. Insérez votre carte SD ou votre clé USB dans votre Wii, et lancez d2x cIOS Installer depuis l'Homebrew Channel.
 
 ##### Section II - Installation
@@ -55,11 +55,11 @@ Select cIOS version: 65535
 
 ##### Options disponibles une fois terminé
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
+[Passez au navigateur Homebrew](hbb)<br> Le navigateur Homebrew est un bon endroit pour obtenir des homebrew sur votre Wii. L'installation est facultative.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continuer vers la navigation sur le site](site-navigation)<br> Nous avons de nombreux autres tutoriels qui pourraient vous plaire.
 {: .notice--info}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx).
+Vous pouvez maintenant utiliser des homebrews comme [USB Loader GX](usbloadergx).
 {: .notice--info}
