@@ -27,8 +27,8 @@ Este instalador d2x cIOS foi originalmente desenvolvido pelo DaveBaol para o vWi
 
 ##### Secção I - Descarregamento
 
-1. Extract the d2xl cIOS Installer to the `apps` folder on your USB drive.
-1. Insert your USB drive into your Wii mini and load the d2xl cIOS Installer from the Homebrew Channel.
+1. Extrai o Instalador d2xl cIOS para a pasta `apps` no USB drive.
+1. Insere o teu USB drive na tua Wii mini, e abre o Instalador d2xl cIOS a partir do Homebrew Channel.
 
 ##### Secção II - Instalação
 
@@ -38,7 +38,7 @@ Este instalador d2x cIOS foi originalmente desenvolvido pelo DaveBaol para o vWi
     Select cIOS base: 57
     Select cIOS slot: 249
     ```
-Take a note of the version number under notes (`IOS57-64-` ending in either `v31776` or `v31775`)
+Toma nota do numero da versão (`IOS57-64-` ou termina em `v31776` ou em `v31775`)
 1. Uma vez configurado, pressiona A para instalar. Quando acabar, sai do instalador.
    - If the install fails with a `TMD version mismatch` error, press left or right on the +Control Pad over the `Select cIOS base` option until the version number is different than the one you tried before. The number 57 will not change.
 
