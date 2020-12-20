@@ -14,10 +14,7 @@ WiiLink24 and all of its services (such as Wii no Ma) are not controlled or oper
 * An SD card or USB drive
 * A Wii with an Internet connection
 * A computer
-* [SaveGame Manager GX](https://static.wiidatabase.de/SaveGame-Manager-GX.zip)
 * [WiiLink24 Patcher (Windows only)](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
-* [Wii no Ma Mii](https://cdn.discordapp.com/attachments/770353472024477727/784849286063718430/Mickey.miigx)
-* [Wii no Ma save file](https://cdn.discordapp.com/attachments/782800044830490664/782800227706732555/WiiRoomSave.bin)
 
 #### Instructions
 
@@ -41,23 +38,7 @@ WiiLink24 and all of its services (such as Wii no Ma) are not controlled or oper
 13. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 14. Select the Wii no Ma WAD and press A to install.
 15. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
-
-##### Section II - Installing Wii no Ma Save and Mii
-
-You will now install a save file and Mii which are required in order to use Wii no Ma.
-
-1. Extract SaveGame Manager GX and put it in the `apps` folder on your SD card or USB drive.
-2. Make a folder on the root of your SD Card named `wiinoma`, and put `WiiRoomSave.bin` and `Mickey.miigx` in it.
-3. Insert your SD card or USB drive into your Wii.
-4. Launch SaveGame Manager GX.
-5. Open the `wiinoma` folder on SaveGame Manager GX.
-6. Select `WiiRoomSave.bin`, and press `Install` to install it. When done, press `OK`.
-7. Select `Mickey.miigx`, and press `Install` to install it. When done, press `OK`.
-8. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
-9. Open the Mii Channel.
-10. Press OK on any popups that appear.
-11. Exit the Mii Channel.
-12. Launch Wii Room, and go to the settings, then video. Make sure quality is set to high. Wii no Ma is now installed on your Wii.
+16. Launch Wii no Ma and enjoy!
 
 [Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
 {: .notice--info}
