@@ -33,7 +33,8 @@ Priiloader dodaje dodatkowy poziom ochrony przez brickiem na Twoje Wii. Ładuje 
 
 ##### Sekcja III - Uruchamianie oraz konfigurowanie Priiloader'a
 
-1. Przytrzymaj przycisk RESET na Twoim Wii podczas uruchamiania konsoli. :   Jeżeli korzystasz z Wii Mini, podłącz klawiaturę USB oraz przytrzymaj ESCAPE podczas uruchamiania konsoli
+1. Hold the RESET button while turning on your Wii.
+    * If you are using a Wii mini, plug in a USB keyboard and hold escape while turning it on
 
 
 ![Włącz konsolę](/images/Priiloader/5.jpg) ![Przytrzymaj RESET](/images/Priiloader/4.jpg)
