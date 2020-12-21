@@ -36,7 +36,7 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your
 ##### Section III - Entering/Configuring Priiloader
 
 1. Hold the RESET button while turning on your Wii.
-:   If you are using a Wii mini, plug in a USB keyboard and hold escape while turning it on
+    * If you are using a Wii mini, plug in a USB keyboard and hold escape while turning it on
 
 
 ![Turn on](/images/Priiloader/5.jpg)
