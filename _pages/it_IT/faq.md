@@ -13,8 +13,7 @@ O una email a support@riiconnect24.net o puoi unirti al [ server Discord RiiConn
 ### Quali sono i requisiti e/o raccomandazioni per la scheda SD?
 Avrai bisogno di una scheda SD con almeno 128MB per far andare l'exploit.
 
-- Se stai usando l'exploit di LetterBomb, la tua scheda SD non dovrebbe essere più grande di 32 GB.
-- Se stai usando l'exploit di BlueBomb, non hai bisogno di una scheda SD
+- If you are using the BlueBomb exploit, you do not need an SD card
 
 Per conservare applicazioni Homebrew consigliamo una scheda SD con almeno 2 GB.
 
