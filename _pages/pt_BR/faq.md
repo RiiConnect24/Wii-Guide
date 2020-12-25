@@ -13,8 +13,7 @@ Envie um email para nós em support@riiconnect24.net ou entre no [Discord do Rii
 ### Quais são os requisitos e/ou recomendações de cartão SD?
 Você precisará de um cartão SD com pelo menos 128MB para executar um exploit.
 
-- Se você estiver usando o exploit LetterBomb, seu cartão SD não pode ter mais de 32 GB.
-- Se estiver usando o exploit BlueBomb, você não precisa de um cartão SD
+- If you are using the BlueBomb exploit, you do not need an SD card
 
 Para armazenar aplicativos homebrew, recomendamos que o cartão SD tenha pelo menos 2 GB.
 
