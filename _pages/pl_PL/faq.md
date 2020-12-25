@@ -13,8 +13,7 @@ Napisz do nas na support@riiconnect24.net lub dołącz do [serwera Discord RiiCo
 ### Jakie są wymagania i/lub zalecenia dotyczące karty SD?
 Będziesz potrzebował karty SD z przynajmniej 128MB miejsca aby wykonać exploit.
 
-- Jeżeli będziesz korzystał z exploitu LetterBomb, Twoja karta SD nie powinna być większa niż 32GB.
-- Jeżeli korzystasz z exploitu BlueBomb, nie będziesz potrzebował karty SD
+- If you are using the BlueBomb exploit, you do not need an SD card
 
 Zalecamy minimum 2GB miejsca na karcie SD na przechowywanie aplikacji homebrew.
 
