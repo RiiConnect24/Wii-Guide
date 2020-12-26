@@ -20,7 +20,7 @@ Istnieją różne metody łącznia się z Wiimmfi. Wybierz ten, który najlepiej
 #### Będziesz potrzebował:
 - Konsola Wii z zainstalowanym Priiloaderem 0.9 lub nowszym
 
-Jeżeli masz starszą wersję Priiloader'a, podążaj [za tym poradnikiem](priiloader) aby wykonać aktualizację.
+If you have an older version of Priiloader or don't have it installed, follow [this guide](priiloader) to update/install it.
 {: .notice--info}
 
 #### Instrukcje
