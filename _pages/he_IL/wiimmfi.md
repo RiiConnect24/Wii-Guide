@@ -20,7 +20,7 @@ There are lots of different methods to connect to Wiimmfi. Choose the one that f
 #### לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
 - A Wii with Priiloader 0.9 or later installed
 
-If you have an older version of Priiloader, follow [this guide](priiloader) to update.
+If you have an older version of Priiloader or don't have it installed, follow [this guide](priiloader) to update/install it.
 {: .notice--info}
 
 #### הוראות
