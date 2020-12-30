@@ -70,7 +70,7 @@ Ao pressionar qualquer jogo, poderás jogar o jogo pressionando em "Start".
 
 Também tens outros botões:
 
-* Ícone + - "Instala" um jogo, por ex., carregá-lo a partir do disco e copiá-lo.
+* (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
 * Engrenagens - Definições do USB Loader GX.
 * Cartão SD - Remonta o cartão SD.
 * Homebrew - Carrega aplicações homebrew.
