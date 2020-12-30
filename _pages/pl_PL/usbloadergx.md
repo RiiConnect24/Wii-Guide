@@ -70,7 +70,7 @@ Aby uruchomić grę, naciśnij na okładkę/wpis oraz naciśnij na "Start".
 
 Istnieją również inne przyciski na interfejsie:
 
-* Ikona + - "Zainstaluj grę" - Pozwala wykonać kopię zapasową gry na urządzenie USB.
+* (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
 * Koło zębate - Ustawienia USB Loader'a GX.
 * Karta SD - wymontuj oraz zamontuj kartę SD.
 * Homebrew - Załaduj listę aplikacji homebrew.
