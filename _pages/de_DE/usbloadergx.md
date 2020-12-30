@@ -70,7 +70,7 @@ Wenn du auf ein beliebiges Spiel auswählst, kannst du das Spiel durch Drücken 
 
 Es gibt auch andere Schaltflächen:
 
-* Plus-Symbol - Installiert ein Spiel, d. h. es wird von der Disc geladen und gesichert.
+* (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
 * Zahnräder - Einstellungen für USB Loader GX.
 * SD-Karte - Trennt und erneuert den Zugriff auf die SD-Karte.
 * Homebrew - Lädt Homebrew-Anwendungen.
