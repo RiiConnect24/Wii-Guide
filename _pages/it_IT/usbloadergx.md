@@ -70,7 +70,7 @@ Premendo su qualunque gioco ti permetterà di giocarlo premendo "Start".
 
 Ci sono anche altri pulsanti:
 
-* Icona + - "Installa" un gioco, ovvero lo carica da un disco e lo copia.
+* (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
 * Ingranaggi - Impostazioni di USB Loader GX.
 * Scheda SD - Guarda la scheda SD.
 * Homebrew - Carica le applicazioni Homebrew.
