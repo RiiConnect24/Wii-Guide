@@ -70,7 +70,7 @@ Pressing any game will allow you to play the game by pressing "Start".
 
 There are also other buttons:
 
-* + Icon - "Install" a game, i.e. loading it from disc and dumping it.
+* (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
 * Gears - Settings for USB Loader GX.
 * SD card - Remount the SD card.
 * Homebrew - Load homebrew apps.
