@@ -70,7 +70,7 @@ Al presionar sobre un juego podrás iniciar dicho juego seleccionando "Comenzar"
 
 También están los siguientes botones:
 
-* Botón + - Respaldar a la unidad USB un juego insertado en la ranura para discos.
+* (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
 * Engranajes - Configuración de USB Loader GX.
 * Tarjeta SD - Recargar la tarjeta SD.
 * Homebrew - Ejecutar aplicaciones homebrew.
