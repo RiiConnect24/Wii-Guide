@@ -70,7 +70,7 @@ Als u op een spel klikt, kunt u het spel spelen door op "Start" te drukken.
 
 Dit zijn de functies van andere knoppen:
 
-* + Icoon - "Installeer" een spel, d.w.z. het laden van CD en het dumpen.
+* (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
 * Tandwielen - Instellingen voor USB Loader GX.
 * SD-kaart - Koppelt de SD-kaart opnieuw aan.
 * Homebrew - Laad homebrew apps.
