@@ -49,7 +49,7 @@ Take a note of the version number under notes (`IOS57-64-` ending in either `v31
 Μην επιχειρήσετε να εγκαταστήσετε κάποιο IOS ή Σύστημα Μενού του Wii στο Wii mini. Κάτι τέτοιο πιθανώς να καταστρέψει την κονσόλα σας.
 {: .notice--warning}
 
-Μπορείτε τώρα να χρησιμοποιήσετε Homebrew σαν το [ USB Loader GX](usbloadergx).
+You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: .notice--info}
 
 [Συνεχίστε στην περιήγηση ιστοσελίδας](site-navigation)<br> Έχουμε πολλούς άλλους οδηγούς που μπορεί να σας αρέσουν.
