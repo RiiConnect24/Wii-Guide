@@ -1,5 +1,5 @@
 ---
-title: "WiiFlow Lite"
+title: "WiiFlow"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -7,15 +7,15 @@ title: "WiiFlow Lite"
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![WiiFlow Lite](/images/wiiflowlogo.png)
+![WiiFlow](/images/WiiFlowlogo.png)
 
-This is a quick start guide on how to use WiiFlow Lite, a USB loader for the Wii that's used to play games from a USB drive or SD Card.
+This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that's used to play games from a USB drive or SD Card.
 
 #### What you need
 
 * A Wii
 * A USB drive/SD Card
-* [WiiFlow Lite](https://github.com/Fledge68/WiiFlow_Lite/releases)
+* [WiiFlow](https://github.com/Fledge68/WiiFlow_Lite/releases)
 
 Make sure you have installed [cIOS](/cios) before following this!
 {: .notice--info}
@@ -26,7 +26,7 @@ We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if
 To play games, we recommend a using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games. 
 {: .notice--info}
 
-Unlike USB Loader GX, WiiFlow Lite can load games of an SD Card. 
+Unlike USB Loader GX, WiiFlow can load games of an SD Card. 
 {: .notice--info}
 
 Make sure your USB drive and/or SD Card is formatted as FAT32 or NTFS. Do not format it as other types such as extFS or WBFS, the latter is an old format of storing Wii games.
@@ -36,21 +36,21 @@ Make sure your USB drive and/or SD Card is formatted as FAT32 or NTFS. Do not fo
 
 ##### Downloading
 
-1. Extract WiiFlow Lite and put the `apps` and `wiiflow` folders on your USB drive or SD card.
-2. Insert your USB drive, and SD card if you're using one, into your Wii and launch WiiFlow Lite from the Homebrew Channel.
+1. Extract WiiFlow and put the `apps` and `WiiFlow` folders on your USB drive or SD card.
+2. Insert your USB drive, and SD card if you're using one, into your Wii and launch WiiFlow from the Homebrew Channel.
 
 ##### Getting Started
 
-This is not a full comprehensive guide on using WiiFlow Lite. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow Lite by using it.
+This is not a full comprehensive guide on using WiiFlow. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow by using it.
 {: .notice--info}
 
-* WiiFlow Lite by default is set to only find games on the SD Card. This can be changed by going in to settings, startup settings then turn off "Mount SD Only".
-* You can toggle between viewing Wii games, GC games, Wii Channels, Plugins, HBC apps by clicking the button second to last button on the right.
+* WiiFlow by default is set to only find games on the SD Card. This can be changed by going in to settings, startup settings then turn off "Mount SD Only".
+* You can toggle between viewing Wii games, GameCube games, Wii Channels, Plugins, Homebrew apps by clicking the button second to last button on the right.
 * You can download game covers by going to "Settings" then "Download Covers and Banners"
 
 ##### User Interface
 
-When WiiFlow Lite detects games, they are displayed in flow view. When you click on a game you are given these options:
+When WiiFlow detects games, they are displayed in flow view. When you click on a game you are given these options:
 
 * Star - Adds game to favorites.
 * Bookshelf - Adds the game to 1 of 6 categories of your choosing.
@@ -66,21 +66,21 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 * Disc - Loads game that is in disc drive.
 * House - Will open this menu. This menu can also be launched by pressing the home button.
 
-![WFL_menu](/images/WFLmenu.png)
+![WF_menu](images/WFmenu.png)
 
-* Help Guide - Shows all the controls you can use in WiiFlow Lite.
-* Reload Cache - Press this when WiiFlow Lite is not detecting a new game on the USB Drive/SD Card.
+* Help Guide - Shows all the controls you can use in WiiFlow.
+* Reload Cache - Press this when WiiFlow is not detecting a new game on the USB Drive/SD Card.
 * File Explorer - Allows you to boot games/apps from anywhere on your USB Drive/SD Card.
 * Select Plugins - Allows you to select plugins.
-* Credits - Shows the people who worked on WiiFlow Lite and the original WiiFlow.
+* Credits - Shows the people who worked on WiiFlow.
 * Shutdown - Allows you to either go into full shutdown, or Standby mode.
-* Exit To - Lets you exit to Wii Menu, HBC, neek2o, * Priiloader and Bootmii. (* If installed) 
-* Settings - Will open the WiiFlow Lite Settings menu
+* Exit To - Lets you exit to Wii Menu, HBC, neek2o, Priiloader and Bootmii.
+* Settings - Will open the WiiFlow Settings menu
 
 ##### Options once complete
 
-[WiiFloWiki](https://sites.google.com/site/wiiflowiki4/)<br>
-WiiFloWiki is a great resource with information about WiiFlow.
+[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br>
+WiiFlowiki is a great resource with information about WiiFlow.
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br>

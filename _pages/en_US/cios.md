@@ -63,5 +63,5 @@ The Homebrew Browser is a good place to get homebrew on your Wii. This is option
 We have many other tutorials that you might like.
 {: .notice--info}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow Lite](wiiflowlite).
+You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: .notice--info}

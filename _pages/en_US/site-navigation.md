@@ -50,7 +50,7 @@ sitemap: false
 + [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
-+ [WiiFlow Lite](wiiflowlite)
++ [WiiFlow](wiiflow)
 
 **Wii mini**
 + [Installing the Homebrew Channel on the Wii mini](hbc-mini)
