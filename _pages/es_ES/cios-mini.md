@@ -49,7 +49,7 @@ Si deseas jugar en Wiimmfi con tu Wii Mini, tendrás que hacerlo a través de Et
 No intente instalar un IOS de Wii o Menu del Sistema en el Wii Mini. Hacer esto podría brickear tu consola..
 {: .notice--warning}
 
-Ahora podrás usar aplicaciones homebrew como por ejemplo [USB Loader GX](usbloadergx).
+You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: .notice--info}
 
 [Echa un vistazo a nuestras demás guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
