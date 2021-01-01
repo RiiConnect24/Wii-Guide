@@ -49,7 +49,7 @@ Se você deseja usar o Wiimmfi com cabo Ethernet em um Wii mini, execute o aplic
 Do not attempt to install a Wii IOS or System Menu on the Wii mini. Se fizer, seu console pode sofrer brick.
 {: .notice--warning}
 
-Agora você pode usar aplicativos homebrew como [USB Loader GX](usbloadergx).
+You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: .notice--info}
 
 [Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
