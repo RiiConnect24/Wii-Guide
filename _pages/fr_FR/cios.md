@@ -61,5 +61,5 @@ Select cIOS version: 65535
 [Continuer vers la navigation sur le site](site-navigation)<br> Nous avons de nombreux autres tutoriels qui pourraient vous plaire.
 {: .notice--info}
 
-Vous pouvez maintenant utiliser des homebrews comme [USB Loader GX](usbloadergx).
+You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: .notice--info}
