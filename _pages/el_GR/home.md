@@ -26,12 +26,12 @@ excerpt: "Ο ολοκληρομένος οδηγός για να τροποπο�
 
 - Τροποποιήστε προσωρινά περιεχόμενα δίσκων παιχνιδιών (που σας αφήνει δηλαδή να φορτώνετε mods παιχνιδιών) με το[Riivolution](http://www.wiibrew.org/wiki/Riivolution).
 - Εγκαταστήστε θέματα στο Μενού του Wii σας χρησιμοποιόντας το [MyMenuify](themes).
-- Εγκαταστήστε έναν USB Loader όπως το [USB Loader GX](usbloadergx) ή το [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) για να ανοίξετε όλους τους αγαπημένους σας τίτλους από ένα USB αποθηκευτικό μέσο και περισσότερα.
+- Install a USB Loader like [WiiFlow](wiiflow) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
 - Κάντε αντίγραφο ασφαλείας των δίσκων παιχνιδιών σας με το [CleanRip](/dump-games) και αντίγραφο ασφαλείας εγκατεστημένων παιχνιδιών και τίτλων με το [YABDM](dump-wads)
 - Κάντε αντίγραφο ασφαλείας και επαναφορά των save αρχείων σας με το [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
 - Κατεβάστε νέες εφαρμογές homebrew με το [Homebrew Browser](hbb)
 - Επαναφέρετε αποσυνδεδεμένες διαδικτυακές υπηρεσίες, όπως τις [υπηρεσίες WiiConnect24](riiconnect24) & [ και Nintendo WFC](wiimmfi).
-- Κάντε αντίγραφο ασφαλείας και επαναφορά αντιγράφων της μνήμης του συστήματος Wii σας (NAND) χρησιμοποιόντας το [BootMii](http://bootmii.org).
+- Backup and restore copies of your Wii system memory (NAND) using [BootMii](bootmii).
 - Προστατέψτε το Wii σας από bricks χρησιμοποιόντας το [Priiloader](priiloader) και το BootMii.
 - Κάντε το Wii σας αναπαραγωγό μέσων (media player) με το [WiiMC](http://www.wiimc.org/).
 
