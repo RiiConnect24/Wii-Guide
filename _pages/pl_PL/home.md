@@ -26,12 +26,12 @@ Poniżej jest lista rzeczy, którą możesz zrobić wykorzystując homebrew. Nie
 
 - Stosowanie poprawek (patchowanie) na zasoby gry (pozwala Ci ładować modyfikacje do gier) używając [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
 - Zainstaluj motywy na system Wii Menu używając [MyMenufy](themes).
-- Zainstaluj loader USB taki jak [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) lub [USB Loader GX](usbloadergx) aby uruchomić Twoje ulubione kopie zapasowe gier z urządzenia USB oraz wiele więcej.
+- Install a USB Loader like [WiiFlow](wiiflow) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
 - Wykonaj kopię zapasowe Twoich gier korzystając z [CleanRip](/dump-games) oraz zainstalowanych gier/kanałów korzystając z [YABDM](dump-wads)
 - Wykonaj kopię zapasową Twoich zapisów gier korzystając z [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
 - Pobieraj nowe homebrew korzystając z [Homebrew Browser](hbb)
 - Przywróć funkcjonalność zamkniętych serwisów takich jak [WiiConnect24](riiconnect24) oraz [Nintendo WFC](wiimmfi).
-- Wykonaj kopię zapasową pamięci NAND konsoli Wii oraz przywróć ją korzystając z [BootMii](http://bootmii.org).
+- Backup and restore copies of your Wii system memory (NAND) using [BootMii](bootmii).
 - Broń swoje Wii przed brickami korzystając z [Priiloader'a](priiloader) oraz BootMii.
 - Przeistocz swoje Wii w odtwarzacz multimedialny korzystając z [WiiMC](http://www.wiimc.org/).
 
