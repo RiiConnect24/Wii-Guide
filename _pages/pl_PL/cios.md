@@ -68,7 +68,7 @@ Select cIOS version: 65535
 </p>
 
 <p spaces-before="0">
-  Możesz teraz korzystać z homebrew takiego jak <a href="usbloadergx">USB Loader GX</a>. 
+  You can now use homebrew such as <a href="usbloadergx">USB Loader GX</a> and <a href="wiiflow">WiiFlow</a>. 
 </p>
 
 <p spaces-before="0">
