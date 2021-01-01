@@ -14,7 +14,8 @@ This is a quick start guide on how to use USB Loader GX, a popular USB loader fo
 #### What you need
 
 * A Wii
-* A USB drive
+* A USB drive (For loading games and the app)
+* An SD Card (For loading the app)
 * [USB Loader GX](https://sourceforge.net/projects/usbloadergx/files/latest/download)
 
 Make sure you have installed [cIOS](/cios) before following this!
@@ -23,7 +24,7 @@ Make sure you have installed [cIOS](/cios) before following this!
 We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, or [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS.
 {: .notice--info}
 
-To play multiple games, we recommend a USB-powered external hard drive for your Wii. We will refer to it as a "USB drive" in this guide. Most of the ones you can find on the market should work fine if they have USB 2 backwards compatibility. Drives with 1 TB or more in capacity will work. A flash drive will also work, but due to the size of a flash drive, it won't be able to store as many games.
+To play multiple games, we recommend a USB-powered external hard drive for your Wii. A USB thumb stick will also work, but due to the size of it, it won't be able to store as many games as an HDD. We will refer to it as a "USB drive" in this guide. Drives with 1 TB or more in capacity will work. 
 {: .notice--info}
 
 Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as extFS or WBFS, the latter is an old format of storing Wii games.
