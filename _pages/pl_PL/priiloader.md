@@ -72,7 +72,7 @@ Poniżej znajduje się lista hacków, które możesz włączyć w Priiloaderze.
 | Remove Diagnostic Disc Check            | Wyłącza funkcje sprawdzającą czy w Wii jest włożona "Wii Startup Disc".                                                                                          |
 | Lock System Menu with Black Screen      | Powoduje, że Twoje Wii Menu zacina się na czarnym ekranie, powodując, że nie możesz z niego korzystać. (Nie włączaj tego)                                        |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Kanały z tymi ID skasowane przez Nintendo są ponownie widoczne.                                                                                                  |
-| Force Disc Games to run under IOS249    | Powoduje że gry na płytach uruchamiają się z cIOS 249. Może zostać użyte do grania w wypalone gry jeżeli w tym slocie znajduje się cIOS                          |
+| Force Disc Games to run under IOS249    | Powoduje że gry na płytach uruchamiają się z cIOS 249. While it cannot allow playing of burned games on its own, it is needed to play burned discs.              |
 
 
 Kontynuuj do instalacji cIOS<br>
