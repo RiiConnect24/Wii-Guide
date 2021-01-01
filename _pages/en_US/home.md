@@ -31,7 +31,7 @@ Here's a list of things you can do with it. While these aren't all the things yo
 - Back up and restore your save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
 - Download new homebrew apps with the [Homebrew Browser](hbb)
 - Restore discontinued online services, such as [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
-- Backup and restore copies of your Wii system memory (NAND) using [BootMii](http://bootmii.org).
+- Backup and restore copies of your Wii system memory (NAND) using [BootMii](bootmii).
 - Protect your Wii from bricks using [Priiloader](priiloader) and BootMii.
 - Turn your Wii into a media player with [WiiMC](http://www.wiimc.org/).
 
