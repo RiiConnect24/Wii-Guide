@@ -23,7 +23,7 @@ Make sure you have installed [cIOS](/cios) before following this!
 We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, or [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS.
 {: .notice--info}
 
-To play multiple games, we recommend a USB-powered external hard drive for your Wii. We will refer to it as a "USB drive" in this guide. Most of the ones you can find on the market should work fine if they have USB 2 backwards compatibility. Drives with 1 TB or more in capacity will work. A flash drive will also work, but due to the size of a flash drive, it won't be able to store as many games.
+To play games, we recommend a using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games. 
 {: .notice--info}
 
 Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as extFS or WBFS, the latter is an old format of storing Wii games.
