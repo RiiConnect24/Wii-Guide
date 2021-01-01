@@ -23,7 +23,7 @@ Upewnij się, że zainstalowałeś [cIOS](/cios) przed skorzystaniem z USB Loade
 Rekomendujemy instalację gier korzystając z [Wii Backup Manager](/wiibackupmanager) jeżeli korzystasz z Windowsa oraz [Witgui](https://desairem.com/wordpress/category/witgui-download/) jeżeli z macOS.
 {: .notice--info}
 
-Aby grać w wiele gier, zalecamy użycie dysku twardego na USB z zewnętrznym zasilaniem. Będziemy go nazywali "urządzeniem USB" w tym poradniku. Wiele dysków, które znajdziesz w sklepach powinny działać jeżeli posiadają wsparcie wsteczne dla USB 2.0. Dyski o pojemności 1TB lub więcej powinny zadziałać. Pendrive'y również powinny działać, jednak z powodu ich wielkości, nie będziesz mógł zmieścić na nich dużej ilości gier.
+To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
 {: .notice--info}
 
 Upewnij sie, że Twoje urządzenie USB jest sformatowane jako FAT32 lub NTFS. Nie formatuj go do innych systemów plików takich jak extFS lub WBFS. WBFS jest starym formatem przechowywania gier Wii.
