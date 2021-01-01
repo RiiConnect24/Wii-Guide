@@ -49,7 +49,7 @@ Falls du Wiimmfi über LAN auf einer Wii mini verwenden möchtest, musst du die 
 Versuchen Sie nicht, ein Wii-IOS oder ein Systemmenü auf der Wii mini zu installieren. Dies würde höchstwahrscheinlich deine Konsole bricken.
 {: .notice--warning}
 
-Du kannst nun Homebrew wie den [USB Loader GX](usbloadergx) nutzen.
+You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: .notice--info}
 
 [Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
