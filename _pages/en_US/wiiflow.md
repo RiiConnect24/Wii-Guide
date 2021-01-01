@@ -23,7 +23,7 @@ Make sure you have installed [cIOS](/cios) before following this!
 We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, or [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS.
 {: .notice--info}
 
-To play games, we recommend a using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games. 
+To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games. 
 {: .notice--info}
 
 Unlike USB Loader GX, WiiFlow can load games of an SD Card. 
