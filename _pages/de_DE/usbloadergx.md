@@ -23,7 +23,7 @@ Stelle sicher, dass du vorher [cIOS](/cios) installiert hast!
 We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, or [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS.
 {: .notice--info}
 
-Um mehrere Spiele zu spielen, empfehlen wir eine externe Festplatte für Ihre Wii, die über USB mit Strom versorgt wird. Wir bezeichnen sie als "USB-Laufwerk" in dieser Anleitung. Viele von denen, die auf dem Markt zu finden sind, sollten problemlos funktionieren, falls sie mit USB 2.0 abwärtskompatibel sind. Laufwerke mit einer Kapazität von 1 TB oder mehr werden funktionieren. Ein USB-Stick wird auch funktionieren, aber aufgrund dessen Größe wird es nicht in der Lage sein, so viele Spiele zu speichern.
+To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
 {: .notice--info}
 
 Stelle sicher, dass dein USB-Laufwerk als FAT32 oder NTFS formatiert ist. Formatiere es nicht mit einem anderen Dateisystem wie z.B. extFS oder WBFS, letzteres ist ein altes Format zum Speichern von Wii-Spielen.
