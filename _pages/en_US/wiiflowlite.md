@@ -36,9 +36,8 @@ Make sure your USB drive and/or SD Card is formatted as FAT32 or NTFS. Do not fo
 
 ##### Downloading
 
-1. Extract wiiflow_v5.zip and put the wiiflow folder located in `wiiflow_v5/apps/` on the `apps` folder on your USB drive or SD card.
-2. Put the wiiflow folder in `wiiflow_v5/` on the root of your USB drive or SD Card.
-3. Insert your USB drive, and SD card if you're using one, into your Wii and launch WiiFlow Lite from the Homebrew Channel.
+1. Extract WiiFlow Lite and put the `apps` and `wiiflow` folders on your USB drive or SD card.
+2. Insert your USB drive, and SD card if you're using one, into your Wii and launch WiiFlow Lite from the Homebrew Channel.
 
 ##### Getting Started
 
