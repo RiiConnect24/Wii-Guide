@@ -14,7 +14,7 @@ This is a quick start guide on how to use WiiFlow Lite, a USB loader for the Wii
 #### What you need
 
 * A Wii
-* A USB drive
+* A USB drive/SD Card
 * [WiiFlow Lite](https://github.com/Fledge68/WiiFlow_Lite/releases)
 
 Make sure you have installed [cIOS](/cios) before following this!
