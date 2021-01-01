@@ -23,7 +23,7 @@ Zorg ervoor dat u [cIOS](/cios) heeft geïnstalleerd voordat u dit volgt!
 We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, or [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS.
 {: .notice--info}
 
-Om meerdere spellen te spelen, bevelen we u een USB-aangedreven externe harde schijf aan voor uw Wii. We will refer to it as a "USB drive" in this guide. De meeste van deze op de markt werken prima als ze USB 2 terugwaartse compatibiliteit hebben. Schijven met een capaciteit van 1 TB of meer zullen werken. Een USB stick zal ook werken, maar vanwege de grootte van een USB stick zal het niet zoveel spellen kunnen opslaan.
+To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
 {: .notice--info}
 
 Make sure your USB drive is formatted as FAT32 or NTFS. Formatteer deze niet in andere formaten zoals extFS of WBFS, de laatste is een oud formaat voor het opslaan van Wii-spellen.
