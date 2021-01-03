@@ -32,7 +32,7 @@ If you have a Wii U (vWii), please follow [this guide](https://wiiu.hacks.guide/
 1. Press continue, then set the options to the following:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 56
+Select cIOS base: 57
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
@@ -41,7 +41,7 @@ Select cIOS version: 65535
 1. When done installing, press A to return, and set the options to the following:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 57
+Select cIOS base: 56
 Select cIOS slot: 250
 Select cIOS version: 65535
 ```
