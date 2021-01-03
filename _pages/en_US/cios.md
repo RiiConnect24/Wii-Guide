@@ -19,6 +19,21 @@ If you have a Wii mini, Install [this cIOS](cios-mini) instead. Attempting to in
 
 #### Instructions
 
+#### Optional - if you cannot use an Internet connection on your Wii
+
+Download [NUS Downloader](/assets/file/NUSD-Mod.zip)
+<!-- TODO - get screenshots of NUSD and fix shitty wording -->
+Make sure `Pack WAD` and `Keep Encrypted Contents` are checked
+
+Download the following IOS:
+
+IOS 56 v5661 (0000000100000038 v5661)
+IOS 57 v5918 (0000000100000039 v5918)
+IOS 58 v6175 (000000010000003A v6175)
+
+Click on `Extras` --> `Open NUSD Directory`.
+Open the `titles` folder and copy all the WAD files to the root of your SD card or USB drive.
+
 ##### Section I - Downloading
 
 1. Download d2x cIOS Installer and extract it to the `apps` folder on your SD card or USB drive.
