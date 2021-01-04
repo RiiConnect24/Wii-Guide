@@ -9,9 +9,8 @@ FlashHax è un exploit per Wii attivabile attraverso l'Internet Channel. A diffe
 
 #### Ciò di cui hai bisogno
 
-- Una Wii aggiornata alla versione 4.3
-- Una connessione Internet
-   - This will not be installed on a vWii or a Wii mini. Guarda invece le altre guide su [Iniziare](/get-started).
+- Una Wii con connessione Internet
+- The Internet Channel
 
 #### Istruzioni
 
