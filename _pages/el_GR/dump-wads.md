@@ -11,7 +11,7 @@ title: "Αποθήκευση αρχείων WAD"
 
 #### Απαιτήσεις
 * Μία κάρτα SD ή μέσο αποθήκευσης USB
-* [Το Yet Another BlueDump MOD](/assets/files/YABDM.zip)
+* [Το Yet Another BlueDump MOD](https://hbb1.oscwii.org/hbb/Yet-Another-BlueDump-Mod/Yet-Another-BlueDump-Mod.zip)
 
 #### Οδηγίες
 ##### Μέρος I - Λήψη/Εγκατάσταση
