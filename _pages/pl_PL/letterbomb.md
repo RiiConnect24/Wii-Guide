@@ -9,13 +9,9 @@ Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz d
 
 LetterBomb jest exploitem przeznaczonym dla Wii, który wykorzystuję dziurę w zabezpieczeniu Wii Message Board.
 
-Jest to jeden z wielu explitów. Sprawdź [wprowadzenie](/get-started) aby sprawdzić inne opcje.
-{: .notice--info}
-
 #### Będziesz potrzebował:
 - Karta SD
-- Konsola Wii z wersją 4.3 systemu operacyjnego.
-   - Ten exploit nie zadziała na Wii Mini lub vWii
+- A Wii on System Menu version 4.3
 
 #### Instrukcje
 
