@@ -12,7 +12,7 @@ Jeżeli nie chcesz korzystać z RSSMii (być może dlatego, ponieważ dostajesz 
 #### Będziesz potrzebował:
 
 * Karta SD
-* [RSSMii Remover](https://github.com/RiiConnect24/rssmii/releases)
+* [RSSMii Remover](https://hbb1.oscwii.org/hbb/rssmii-remover/rssmii-remover.zip)
 
 #### Instrukcje
 
