@@ -19,7 +19,7 @@ If you're getting one of these errors (and not any other error), you should be a
 
 #### לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
 * An SD card or USB drive
-* [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
+* [WiiXplorer](https://hbb1.oscwii.org/hbb/wiixplorer/wiixplorer.zip)
 
 #### Folder to Delete
 
