@@ -11,15 +11,12 @@ title: "BlueBomb"
 
 To BlueBomb πρόκειται για ένα πρόγραμμα το οποίο εκμεταλλεύεται ένα σφάλμα στην βιβλιοθήκη bluetooth των κονσόλων Wii και Wii mini. Παρόλο που είναι το μοναδικό πρόγραμμα εκμετάλλευσης που δουλεύει στο Wii mini, μπορεί να χρησιμοποιηθεί και στο παλιό Wii χωρίς πρόβλημα. Αυτό το πρόγραμμα λειτουργεί επίσης ως μηχανισμός ανάκτησης από συγκεκριμένες καταστροφές στο Wii, όπως το banner brick.
 
-For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
+Για το κλασσικό Wii δεν συστίνουμε να χρησιμοποιήσετε το BlueBomb αν θέλετε να κατεβάσετε το Homebrew Channel και το BootMii, διότι υπάρχουν πιο εύκολα προγράμμα εκμετάλλευσης.
 {: .notice--info}
-
-Αυτή η ευπάθεια δεν λειτουργεί στο Wii U. Παρακαλώ ακολουθήστε [αυτόν τον οδηγό](https://wiiuguide.xyz/#/vwii-modding) αντί για αυτόν.
-{: .notice--warning}
 
 #### Μέρος I - Τι χρειάζεστε
 - Έναν υπολογιστή Linux
-  - If you have a Raspberry Pi, you can use that instead as it most likely has Linux installed already.
+  - Αν έχετε Raspberry Pi, μπορείτε να χρησιμοποιήσετε αυτό καθώς είναι πολύ πιθανό να έχει Linux εγκατεστημένα.
   - Το υποσύστημα των Windows για Linux *δεν θα λειτουργήσει* διότι δεν έχει απευθείας πρόσβαση στον αντάπτορα Bluetooth ή τις θύρες USB.
   - Εάν δεν έχετε Linux, [τα Ubuntu](https://ubuntu.com/download/desktop) είναι η πιο φιλική ως προς το χρήστη επιλογή και μπορεί να τρέξει σε υπολογιστές που τρέχουν Windows ή Mac.
     - Συσκευές 32-bit χρειάζονται την έκδοση [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
@@ -35,8 +32,8 @@ For the original Wii, we do not recommend using BlueBomb if you intend to instal
 1. Κατεβάστε το HackMii installer απο [ την ιστοσελίδα BootMii](https://bootmii.org/download/).
 - (Σε περίπτωση προσπάθειας διόρθωσης brick, πρέπει επίσης να αντιγράψετε την επιλεγμένη προς χρήση Homebrew εφαρμογή στον φακελο /apps/)
 1. Ξεπακετάρετε το περιεχόμενο και τοποθετήστε το `boot.elf` στο φλασάκι σας.
-1. Συνδέστε το φλασάκι στην κονσόλα σας. For a Wii mini, the USB port is on the back. Για το κανονικό Wii, χρησιμοποιήστε την κάτω θύρα. (ή την δεξια θύρα αν είναι τοποθετημένο κάθετα).
-1. Ενεργοποιήστε την κονσόλα σας και περιηγηθείτε στις ρυθμίσεις. On the top right corner you will see a 4-character code like the one in the picture below. Αυτός ο κωδικός είναι η έκδοση του Wii σας. Σημειώστε τον καθώς θα σας χρειαστεί αργότερα. Στη συνέχεια, απενεργοποιήστε την κονσόλα σας. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+1. Συνδέστε το φλασάκι στην κονσόλα σας. Για το Wii mini, η θύρα USB είναι στο πίσω μέρος. Για το κανονικό Wii, χρησιμοποιήστε την κάτω θύρα. (ή την δεξια θύρα αν είναι τοποθετημένο κάθετα).
+1. Ενεργοποιήστε την κονσόλα σας και περιηγηθείτε στις ρυθμίσεις. Στην πάνω δεξιά γωνία θα δείτε έναν τετραψήφιο κωδικό παρόμοιο με αυτόν στην παρακάτω εικόνα. Αυτός ο κωδικός είναι η έκδοση του Wii σας. Σημειώστε τον καθώς θα σας χρειαστεί αργότερα. Στη συνέχεια, απενεργοποιήστε την κονσόλα σας. ![ΈκδοσηΣυστήματος](/images/Wii/SystemMenuVersion.png)
 1. Ξεκινήστε τη συσκευή Linux σας, και σιγουρευτείτε πως είστε συνδεδεμένοι στο διαδίκτυο.
 1. Ανοίξτε το terminal.
 1. Εκτελέστε τις παρακάτω εντολές:
@@ -47,17 +44,17 @@ chmod +x bluebomb-helper.sh
 ```
 1. Το πρόγραμμα θα κατεβάσει τα απαραίτητα αρχεία και θα ζητήσει πληροφορίες για την κονσόλα σας.
   - Αν έχετε Wii mini, θα ζητηθεί η περιοχή της κονσόλας. Αυτό μπορεί να βρεθεί από το τελευταίο ψηφίο της έκδοσης Wii (`U` για **ΗΠΑ** και `E` για **PAL** ευρωπαϊκά μοντέλα).
-  - If you have selected a Wii you will be asked to provide your Wii Menu Version (What you determined in step 4)
-1. Turn on your console and **do not** connect any Wiimotes.
-1. Press the Sync button repeatedly until the terminal shows `got connection handle`. This could take numerous attempts, so don't give up.
+  - Αν έχετε επιλέξει Wii θα σας ζητηθεί η έκδοση συστήματος (που σημειώσατε στο βήμα 4)
+1. Ενεργοποιήστε την κονσόλα σας και **μην** συνδέσετε κανένα χειριστήριο.
+1. Πατήστε το πλήκτρο συγχρονισμού επαναλαμβανόμενα έως ότου ο υπολογιστής δείξει `got connection handle`. Αυτό μπορεί να πάρει αρκετές προσπάθειες, οπότε μην παραιτηθείτε.
 
 Σιγουρευτείτε πως η κονσόλα είναι κοντά στον υπολογιστή που τρέχει το πρόγραμμα, ιδανικά λιγότερο από 1 μέτρο.
 {: .notice--info}
 
-Η κονσόλα πρέπει τώρα να εισέλθει στο HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
+Η κονσόλα πρέπει τώρα να εισέλθει στο HackMii installer. Μπορείτε τώρα να απενεργοποιήσετε τον Linux υπολογιστή, αν δεν σκοπεύετε να το χρησιμοποιήσετε αργότερα.
 
-[Αν χρησιμοποιείτε Wii, συνεχίστε στην εγκατάσταση του καναλιού Homebrew και του BootMii](hbc)
+[Αν χρησιμοποιείτε Wii, συνεχίστε στην εγκατάσταση του καναλιού Homebrew Channel και του BootMii](hbc)
 {: .notice--info}
 
-[Αν χρησιμοποιείτε Wii mini, συνεχίστε στην εγκατάσταση του καναλιού Homebrew](hbc-mini)
+[Αν χρησιμοποιείτε Wii mini, συνεχίστε στην εγκατάσταση του Homebrew Channel](hbc-mini)
 {: .notice--info}
