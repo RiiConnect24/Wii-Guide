@@ -9,13 +9,9 @@ En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por f
 
 LetterBomb es un exploit para el Wii que se activa mediante el tablón de Wii.
 
-Este exploit es uno de los muchos que hay disponibles. Revisa la página [Comenzar](/get-started) para otras opciones.
-{: .notice--info}
-
 #### Requisitos
 - Una tarjeta SD
-- Una Wii con versión de sistema 4.3
-   - Este exploit no funciona en un Wii mini o vWii
+- A Wii on System Menu version 4.3
 
 #### Instrucciones
 
@@ -27,7 +23,7 @@ Este exploit es uno de los muchos que hay disponibles. Revisa la página [Comenz
 5. Selecciona la carta roja con el icono de una bomba.
    - En algunos casos, podrías tener que buscar en los dias previos o posteriores para encontrarla.
 
-![Carta de LetterBomb en el tablón de Wii](/images/Wii/LetterBomb-Wii.png)
+![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
 
 [Continuar a la instalación del Canal Homebrew y BootMii](hbc)
 {: .notice--info}
