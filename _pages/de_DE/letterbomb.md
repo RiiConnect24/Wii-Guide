@@ -9,13 +9,9 @@ Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [Rii
 
 LetterBomb ist ein Exploit für die Wii, der durch die Wii-Pinnwand ausgelöst wird.
 
-Dieser Exploit ist einer von vielen. Gehe auf die [Einstiegs](/get-started)-Seite für andere Möglichkeiten.
-{: .notice--info}
-
 #### Voraussetzungen
 - Eine SD-Karte
-- Eine Wii mit Systemversion 4.3
-   - This exploit will not work on a Wii mini or vWii
+- A Wii on System Menu version 4.3
 
 #### Anleitung
 
@@ -29,5 +25,5 @@ Dieser Exploit ist einer von vielen. Gehe auf die [Einstiegs](/get-started)-Seit
 
 ![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
 
-[Fahre nun fort mit der Homebrew-Kanal und BootMii-Installation](hbc)
+[Fahre fort mit der Installation des Homebrew-Kanals und BootMii](hbc)
 {: .notice--info}
