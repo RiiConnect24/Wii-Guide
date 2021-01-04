@@ -16,19 +16,19 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). Si lo haces, tu vWi
 
 #### Requisitos
 * Una tarjeta SD o unidad USB
-* [Priiloader](/assets/files/Priiloader_v0_9.zip)
+* [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
 #### Instrucciones
 ##### Sección I - Descarga/instalación
 
-1. Download Priiloader and extract it to the `apps` folder on your SD card or USB drive.
+1. Download the Priiloader installer and extract it to the `apps` folder on your SD card or USB drive.
     * If this folder does not exist, create it.
-2. Inserta tu tarjeta SD en tu Wii, y inicia Priiloader desde el Homebrew Channel.
+2. Insert your SD card or USB drive into your Wii, and launch the Priiloader installer from the Homebrew Channel.
 
 ##### Sección II - Instalación
 
 1. Inicia el Canal Homebrew en tu Wii.
-2. Ejecuta Priiloader.
+2. Launch the Priiloader installer.
 3. Presiona el botón + en tu Wiimote o el botón A en un control de GameCube. ![Menú principal](/images/Priiloader/2.png) ![Actualizando Priiloader](/images/Priiloader/3.png)
 
 ##### Sección III - Configurando Priiloader
