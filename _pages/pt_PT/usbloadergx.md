@@ -15,7 +15,7 @@ Isto é um guia rápido de como utilizar o USB Loader GX, um USB loader popular 
 
 * Uma Wii
 * Um USB drive
-* [USB Loader GX](https://sourceforge.net/projects/usbloadergx/files/latest/download)
+* [USB Loader GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
 
 Certifica-te que instalaste [cIOS](/cios) antes de seguir!
 {: .notice--info}
