@@ -14,9 +14,6 @@ BlueBomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's 
 For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
 {: .notice--info}
 
-This exploit will not work on a Wii U's vWii. Please follow [this guide](https://wiiuguide.xyz/#/vwii-modding) instead.
-{: .notice--warning}
-
 #### Section I - What you need
 - A Linux machine
   - If you have a Raspberry Pi, you can use that instead as it most likely has Linux installed already.
