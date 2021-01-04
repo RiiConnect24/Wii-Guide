@@ -9,9 +9,8 @@ title: "FlashHax"
 
 #### Τι χρειάζεστε
 
-- Ένα Wii με σύνδεση στο διαδίκτυο με έκδοση συστήματος 4.3
-- Το κανάλι Internet
-   - Αυτό δεν θα εγκατασταθεί σε ένα vWii ή ένα Wii Mini. Ψάξτε για άλλους οδηγούς που αναφέρονται στο [Ξεκινώντας](/get-started) αντί για εδώ.
+- A Wii with an Internet connection
+- The Internet Channel
 
 #### Οδηγίες
 
