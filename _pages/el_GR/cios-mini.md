@@ -8,7 +8,7 @@ title: "d2xl cIOS για Wii mini (πειραματικό)"
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-Αυτός ο οδηγός είναι μόνο για χρήστες Wii mini. If you have a Wii, follow [this guide](cios) instead.
+Αυτός ο οδηγός είναι μόνο για χρήστες Wii mini. Εάν έχετε ένα κανονικό Wii, ακολουθήστε [αυτόν τον οδηγό](cios).
 {: .notice--warning}
 
 Αν χρειάζεστε βοήθεια με οτιδήποτε σχετικά με αυτό τον οδηγό, επισκεφθείτε το [Wii mini Hacking Discord](https://discord.gg/6ryxnkS) (προτείνεται)
@@ -27,20 +27,20 @@ title: "d2xl cIOS για Wii mini (πειραματικό)"
 
 ##### Μέρος I - Λήψη
 
-1. Extract the d2xl cIOS Installer to the `apps` folder on your USB drive.
-1. Insert your USB drive into your Wii mini and load the d2xl cIOS Installer from the Homebrew Channel.
+1. Εξάγετε το d2xl cIOS Installer και τοποθετήστε το στον φάκελο `apps` στο αποθηκευτικό σας μέσο.
+1. Εισάγετε το αποθηκευτικό σας μέσο στο Wii mini και εκκινήστε το d2xl cIOS Installer από το Homebrew Channel.
 
 ##### Μέρος II - Εγκατάσταση
 
 1. Πατήστε continue, και θέστε τις επιλογές στα παρακάτω:
     ```
     Select cIOS: d2xl-v1-beta2
-    Select cIOS base: 57
-    Select cIOS slot: 249
+Select cIOS base: 57
+Select cIOS slot: 249
     ```
-Take a note of the version number under notes (`IOS57-64-` ending in either `v31776` or `v31775`)
+Πάρτε ένα αντίγραφο του αρίθμου, κάτω από το notes (`IOS57-64-`που τελιώνει σε`v31776`ή`v31775`)
 1. Μόλις τις θέσετε σωστά, πατήστε Α για εγκατάσταση. Μόλις ολοκληρωθεί επιτυχώς, εξέλθετε από το πρόγραμμα.
-   - If the install fails with a `TMD version mismatch` error, press left or right on the +Control Pad over the `Select cIOS base` option until the version number is different than the one you tried before. The number 57 will not change.
+   - Αν η εγκατάσταση αποτύχει με σφάλμα `TMD version mismatch` πατήστε τον +Σταυρό κατύθυνσης αριστερά ή δεξιά στην επιλογή `Select cIOS` έως ότου ο αριθμός έκδοσης είναι διαφορετικός από αυτόν που δοκιμάσατε πριν. Ο αριθμός 57 δεν θα αλλάξει.
 
 
 ##### Ενεργοποίηση ενσύρματου δικτύου Ethernet
@@ -49,7 +49,7 @@ Take a note of the version number under notes (`IOS57-64-` ending in either `v31
 Μην επιχειρήσετε να εγκαταστήσετε κάποιο IOS ή Σύστημα Μενού του Wii στο Wii mini. Κάτι τέτοιο πιθανώς να καταστρέψει την κονσόλα σας.
 {: .notice--warning}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
+Τώρα μπορείτε να χρησιμοποιήσετε προγράμματα όπως το[USB Loader GX](usbloadergx)και[το WiiFlow](wiiflow).
 {: .notice--info}
 
 [Συνεχίστε στην περιήγηση ιστοσελίδας](site-navigation)<br> Έχουμε πολλούς άλλους οδηγούς που μπορεί να σας αρέσουν.
