@@ -8,14 +8,14 @@ Esta guía te mostrará cómo instalar los cIOS (IOS personalizados) . Esto es n
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-Si tienes un Wii Mini, por favor instala [este cIOS](cios-mini). Intentar instalar cualquier otro cIOS en un Wii mini no funcionará.
+If you have a Wii mini, install [this cIOS](cios-mini) instead. Intentar instalar cualquier otro cIOS en un Wii mini no funcionará.
 {: .notice--info}
 
 #### Requisitos
 
 * Una consola Wii con conexión a Internet
 * Una tarjeta SD o unidad USB
-* [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
+* [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
 #### Instrucciones
 
@@ -29,20 +29,20 @@ Si tienes un Wii Mini, por favor instala [este cIOS](cios-mini). Intentar instal
 1. Presiona continuar y después ajusta las opciones de la siguiente manera:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 56
+Select cIOS base: 57
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
-![Instalar cIOS 249](/images/Wii/Install249.png)
+![Install cIOS 249](/images/Wii/Install249.png)
 1. Una vez que todas las opciones hayan sido ajustadas correctamente, oprime A dos veces para comenzar a instalar.
 1. Una vez que la instalación haya finalizado, oprime A para volver y ajusta las opciones de la siguiente forma:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 57
+Select cIOS base: 56
 Select cIOS slot: 250
 Select cIOS version: 65535
 ```
-![Instalar cIOS 250](/images/Wii/Install250.png)
+![Install cIOS 250](/images/Wii/Install250.png)
 1. Una vez que todas las opciones hayan sido ajustadas correctamente, oprime A dos veces para comenzar a instalar.
 1. Una vez que la instalación haya finalizado, oprime A para volver y ajusta las opciones de la siguiente manera:
 ```
@@ -55,10 +55,10 @@ Select cIOS version: 65535
 
 ##### Opciones una vez terminado el proceso
 
-[Continuar a la Homebrew Browser ](hbb)<br> El Homebrew Browser es un buen lugar para obtener homebrew en tu Wii. Esto es opcional para instalar.
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
 {: .notice--info}
 
-[Continuar con la navegación del sitio](site-navigation)<br> Tenemos muchos otros tutoriales que le pueden gustar.
+[Echa un vistazo a nuestras demás guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
 {: .notice--info}
 
 You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
