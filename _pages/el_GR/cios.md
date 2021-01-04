@@ -15,13 +15,13 @@ title: "cIOS (προσαρμοσμένο IOS)"
 
 * Ένα Wii με σύνδεση στο διαδίκτυο
 * Μία κάρτα SD ή μέσο αποθήκευσης USB
-* [Το d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
+* [Το d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
 #### Οδηγίες
 
 ##### Μέρος I - Λήψη
 
-1. Download d2x cIOS Installer and extract it to the `apps` folder on your SD card or USB drive.
+1. Εξάγετε το d2x cIOS Installer και τοποθετήστε το στον φάκελο `apps` στο αποθηκευτικό σας μέσο.
 1. Εισάγετε το αποθηκευτικό σας μέσο στο Wii και εκκινήστε το d2x cIOS Installer από το Κανάλι Homebrew.
 
 ##### Μέρος II - Εγκατάσταση
@@ -29,7 +29,7 @@ title: "cIOS (προσαρμοσμένο IOS)"
 1. Πατήστε continue, και θέστε τις επιλογές στα παρακάτω:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 56
+Select cIOS base: 57
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
@@ -38,7 +38,7 @@ Select cIOS version: 65535
 1. Όταν ολοκληρωθεί η εγκατάσταση, πατήστε Α για να επιστρέψετε και θέστε τις επιλογές στα παρακάτω:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 57
+Select cIOS base: 56
 Select cIOS slot: 250
 Select cIOS version: 65535
 ```
@@ -55,11 +55,11 @@ Select cIOS version: 65535
 
 ##### Επιλογές μετά την ολοκλήρωση
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
+[Συνέχεια στον Περιηγητή Homebrew](hbb)<br> Ο Περιηγητής Homebrew είναι ένα καλό μέρος για να βρίσκετε homebrew στο Wii σας. This is optional to install.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Συνεχίστε στην περιήγηση ιστοσελίδας](site-navigation)<br> Έχουμε πολλούς άλλους οδηγούς που μπορεί να σας αρέσουν.
 {: .notice--info}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
+Τώρα μπορείτε να χρησιμοποιήσετε προγράμματα όπως το[USB Loader GX](usbloadergx)και[το WiiFlow](wiiflow).
 {: .notice--info}
