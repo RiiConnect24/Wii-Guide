@@ -11,7 +11,7 @@ Ten poradnik wyjaśni Ci jak wykonywać kopię zapasową WAD'ów z Twojej pamię
 
 #### Wymagania
 * Karta SD lub urządzenie USB.
-* [Yet Another BlueDump MOD](/assets/files/YABDM.zip)
+* [Yet Another BlueDump MOD](https://hbb1.oscwii.org/hbb/Yet-Another-BlueDump-Mod/Yet-Another-BlueDump-Mod.zip)
 
 #### Instrukcje
 ##### Sekcja I - Pobieranie/Instalowanie
