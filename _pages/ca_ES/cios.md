@@ -8,14 +8,14 @@ This tutorial will tell you how to install cIOS (custom IOS). This is required i
 
 ![instalador d2x cIOS](/images/cIOS.png)
 
-If you have a Wii mini, Install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
+If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
 {: . notícia--informació}
 
 #### What you need
 
 * A Wii with an Internet connection
 * An SD card or USB drive
-* [instalador d2x cIOS](/assets/files/d2x-cIOS-Installer-Wii.zip)
+* [instalador d2x cIOS](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
 #### Instruccions
 
@@ -29,7 +29,7 @@ If you have a Wii mini, Install [this cIOS](cios-mini) instead. Attempting to in
 1. Press continue, then set the options to the following:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 56
+Select cIOS base: 57
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
@@ -37,10 +37,10 @@ Select cIOS version: 65535
 1. Once set, press A twice to install.
 1. Quan hagueu acabat d'instalar, premeu A per a tornar, i poseu les opcions a les següents:
 ```
-Seleccioneu cIOS: v10 beta52 d2x-v10-beta52
-Seleccioneu cIOS base: 57
-Seleccioneu cIOS slot: 250
-Seleccioneu cIOS version: 65535
+Select cIOS: v10 beta52 d2x-v10-beta52
+Select cIOS base: 56
+Select cIOS slot: 250
+Select cIOS version: 65535
 ```
 ![Install cIOS 250](/images/Wii/Install250.png)
 1. Once set, press A twice to install.
