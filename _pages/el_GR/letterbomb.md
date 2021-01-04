@@ -9,13 +9,9 @@ title: "LetterBomb"
 
 Το LetterBomb είναι μια ευπάθεια που χρησιμοποιούμε μέσω του Πίνακα Μηνυμάτων (Message Board) του Wii.
 
-Αυτή η ευπάθεια είναι μια από τις πολλές. Δείτε στη σελίδα [Ξεκινώντας](/get-started) για άλλες επιλογές.
-{: .notice--info}
-
 #### Τι χρειάζεστε
 - Μια κάρτα SD
-- Ένα Wii με έκδοση συστήματος 4.3
-   - This exploit will not work on a Wii mini or vWii
+- A Wii on System Menu version 4.3
 
 #### Οδηγίες
 
@@ -27,7 +23,7 @@ title: "LetterBomb"
 5. Πατήστε στο κόκκινο γράμμα με το εικονίδιο βόμβας.
    - Μερικές φορές, πρέπει να κοιτάξετε σε προηγούμενες ή επόμενες μέρες για να το βρείτε.
 
-![LetterBomb μενού του Wii](/images/Wii/LetterBomb-Wii.png)
+![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
 
 [Συνέχεια στην εγκατάσταση του καναλιού Homebrew και του BootMii](hbc)
 {: .notice--info}
