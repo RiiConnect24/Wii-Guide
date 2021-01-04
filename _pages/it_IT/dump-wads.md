@@ -11,7 +11,7 @@ Questo Tutorial spiegherà come copiare WADs dalla Memora del tuo Sistema Wii.
 
 #### Requisiti
 * Una scheda SD o chiavetta USB
-* [Yet Another BlueDump MOD](/assets/files/YABDM.zip)
+* [Yet Another BlueDump MOD](https://hbb1.oscwii.org/hbb/Yet-Another-BlueDump-Mod/Yet-Another-BlueDump-Mod.zip)
 
 #### Istruzioni
 ##### Sezione 1 - Scaricando/Installando
