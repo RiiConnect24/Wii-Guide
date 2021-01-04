@@ -14,9 +14,6 @@ BlueBomb é um exploit que tira proveito de uma falha nas bibliotecas Bluetooth 
 Para a Wii original, nós não recomendamos a utilização do BlueBomb se pretendes instalar o Homebrew Channel e BootMii, já que há mais exploits disponíveis para isso.
 {: .notice--info}
 
-Este exploit não resultará na vWii da Wii U. Por favor segue [este guia](https://wiiuguide.xyz/#/vwii-modding).
-{: .notice--warning}
-
 #### Secção I - O que precisas
 - Uma máquina Linux
   - Se tens um Raspberry Pi, podes utilizá-lo, já que ele tem o Linux pré-instalado.
@@ -51,13 +48,13 @@ chmod +x bluebomb-helper.sh
 1. Liga a tua consola e **não** conectes nenhum Wiimote.
 1. Pressiona o botão Sync repetidamente até ao terminal mostrar `got connection handle`. Poderá levar a numerosas tentativa, por isso não desistas.
 
-Certifica-te que a consola está perto do computador executando o exploit, idealmente deve ser inferior a 3 pés.
+Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
 {: .notice--info}
 
-A consola deverá agora abrir o instalador HackMii. Agora podes desligar o teu computador Linux se não precisares de utilizá-lo mais tarde.
+The console should now boot to the HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
 
-[Se estiveres a utilizar a Wii, procede à instalação do Homebrew Channel e BootMii](hbc)
+[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
 {: .notice--info}
 
-[Se estiveres a utilizar a Wii Mini, procede à instalação do Homebrew Channel](hbc-mini)
+[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
 {: .notice--info}
