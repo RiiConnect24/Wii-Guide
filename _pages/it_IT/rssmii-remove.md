@@ -12,7 +12,7 @@ Se desideri smettere di usare RSSMii (magari perché ricevi troppe Mail sulla Wi
 #### Di cosa hai bisogno
 
 * Una scheda SD
-* [RSSMii Remover](https://github.com/RiiConnect24/rssmii/releases)
+* [RSSMii Remover](https://hbb1.oscwii.org/hbb/rssmii-remover/rssmii-remover.zip)
 
 #### Istruzioni
 
