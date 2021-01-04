@@ -9,13 +9,9 @@ Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor 
 
 LetterBomb é uma vulnerabilidade para a Wii que é desencadeado utilizando o Wii Message Board.
 
-Esta vulnerabilidade é uma de muitas. Vê a página [Vamos começar](/get-started) para outras opções.
-{: .notice--info}
-
 #### O que precisas
 - Um cartão SD
-- Uma Wii na versão do sistema 4.3
-   - Este exploit não funcionará numa Wii Mini ou vWii
+- A Wii on System Menu version 4.3
 
 #### Instruções
 
