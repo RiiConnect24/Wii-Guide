@@ -14,9 +14,6 @@ BlueBomb és un exploit que aprofita un defecte de les biblioteques Bluetooth de
 Per la Wii original, no us recomanem que utilitzeu BlueBomb si teniu intenció d’instal·lar el Homebrew Channel o BootMii, ja que hi ha abusos més convenients i disponibles.
 {: .notice--info}
 
-Aquest exploit no funcionarà en la versió vWii d'una Wii U. Alternativament seguiu [ aquesta guia ](https://wiiuguide.xyz/#/vwii-modding).
-{: .notice--warning}
-
 #### Secció I - El que es necessita
 - Un ordinador amb Linux
   - Si teniu una Raspberry Pi, podeu utilitzar-la, ja que és probable que tingueu Linux instal·lat.
