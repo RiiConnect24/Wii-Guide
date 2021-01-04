@@ -33,7 +33,7 @@ sitemap: λάθος
 * [Αντίγραφο ασφαλείας με το BootMii](bootmii)
 + [cIOS (προσαρμοσμένο IOS)](cios)
 + [FlashHax](flashhax)
-+ [Homebrew Browser](hbb)
++ [Το Homebrew Browser](hbb)
 + [Homebrew Channel](hbc)
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
