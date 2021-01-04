@@ -15,7 +15,7 @@ To jest poradnik dotyczący USB Loader'a GX, popularnego loadera USB, który poz
 
 * Konsola Wii
 * Dysk USB / Pendrive
-* [USB Loader GX](https://sourceforge.net/projects/usbloadergx/files/latest/download)
+* [USB Loader GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
 
 Upewnij się, że zainstalowałeś [cIOS](/cios) przed skorzystaniem z USB Loader'a GX.
 {: .notice--info}
