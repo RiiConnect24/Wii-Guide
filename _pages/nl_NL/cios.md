@@ -8,14 +8,14 @@ Deze tutorial legt u uit hoe u cIOS (custom IOS) installeert. Dit is nodig als u
 
 ![d2x cIOS Installatie](/images/cIOS.png)
 
-Als u een Wii mini heeft moet u [deze cIOS](cios-mini) installeren en niet degen die wordt vermeld in deze turorial. Attempting to install any other cIOS on a Wii mini won't work.
+If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
 {: .notice--info}
 
 #### Benodigdheden
 
 * Een Wii met een internet connectie
 * Een SD-kaart of USB stick
-* [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
+* [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
 #### Instructies
 
@@ -29,20 +29,20 @@ Als u een Wii mini heeft moet u [deze cIOS](cios-mini) installeren en niet degen
 1. Klik op "continue", zet daarna de opties precies zo:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 56
+Select cIOS base: 57
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
-![cIOS 249 Installeren](/images/Wii/Install249.png)
+![Install cIOS 249](/images/Wii/Install249.png)
 1. Once set, press A twice to install.
 1. Als het installeren klaar is, druk dan op A en zet de opties nu zo:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 57
+Select cIOS base: 56
 Select cIOS slot: 250
 Select cIOS version: 65535
 ```
-![cIOs 250 Installeren](/images/Wii/Install250.png)
+![Install cIOS 250](/images/Wii/Install250.png)
 1. Once set, press A twice to install.
 1. Als het installeren klaar is, druk dan op A en zet de opties nu zo:
 ```
