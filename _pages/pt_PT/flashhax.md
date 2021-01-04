@@ -9,9 +9,8 @@ FlashHax é uma vulnerabilidade para a Wii que é atingido utilizando o Internet
 
 #### O que precisas
 
-- Uma Wii com conexão à Internet na versão de sistema 4.3
-- O Internet Channel
-   - Isto não será instalado numa vWii ou uma Wii mini. Verifica outros guias listados no [Vamos Começar](/get-started) em vez disto.
+- Uma Wii com conexão à Internet
+- The Internet Channel
 
 #### Instruções
 
