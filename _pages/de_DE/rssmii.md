@@ -14,7 +14,7 @@ Möchtest du RSS-Feed-Updates auf deiner Wii-Pinnwand erhalten? Diese Anleitung 
 #### Voraussetzungen
 
 * Eine SD-Karte
-* [RSSMii](https://github.com/RiiConnect24/rssmii/releases)
+* [RSSMii](https://hbb1.oscwii.org/hbb/rssmii/rssmii.zip)
 
 #### Anleitung
 ##### Abschnitt 1 - Herunterladen/Installieren
