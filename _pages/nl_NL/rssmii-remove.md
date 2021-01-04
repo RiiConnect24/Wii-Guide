@@ -12,7 +12,7 @@ Als u RSMii niet meer wilt gebruiken (misschien omdat het u te veel mails verstu
 #### Benodigdheden
 
 * Een SD-kaart
-* [RSSMii Remover](https://github.com/RiiConnect24/rssmii/releases)
+* [RSSMii Remover](https://hbb1.oscwii.org/hbb/rssmii-remover/rssmii-remover.zip)
 
 #### Instructies
 
