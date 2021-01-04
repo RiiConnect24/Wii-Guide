@@ -8,14 +8,14 @@ Este tutorial irá te ensinar como instalar cIOS (IOS customizada). Isto é nece
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-Se tens uma Wii mini, instala [este cIOS](cios-mini). Tentar instalar qualquer outro de cIOS numa Wii mini não funcionará.
+If you have a Wii mini, install [this cIOS](cios-mini) instead. Tentar instalar qualquer outro de cIOS numa Wii mini não funcionará.
 {: .notice--info}
 
 #### O que precisas
 
 * Uma Wii com conexão à Internet
 * Um cartão SD ou USB drive
-* [Instalador d2x cIOS](/assets/files/d2x-cIOS-Installer-Wii.zip)
+* [Instalador d2x cIOS](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
 #### Instruções
 
@@ -29,7 +29,7 @@ Se tens uma Wii mini, instala [este cIOS](cios-mini). Tentar instalar qualquer o
 1. Pressiona continue, depois configura as opções a seguir:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 56
+Select cIOS base: 57
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
@@ -38,7 +38,7 @@ Select cIOS version: 65535
 1. Quando acabar de instalar, pressiona A para voltar e configura as opções a seguir:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 57
+Select cIOS base: 56
 Select cIOS slot: 250
 Select cIOS version: 65535
 ```
@@ -55,7 +55,7 @@ Select cIOS version: 65535
 
 ##### Opções uma vez terminado o processo
 
-[Continua para o Homebrew Browser](hbb)<br> O Homebrew Browser é um bom local para obter aplicações homebrew na tua Wii. Esta instalação é opcional.
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
 {: .notice--info}
 
 [Continua para a navegação do site](site-navigation)<br> Nós temos mais outros tutoriais que poderás gostar.
