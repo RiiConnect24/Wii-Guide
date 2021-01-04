@@ -11,7 +11,7 @@ Zijn tutorial zal u uitleggen hoe u WADs kunt kopiëren vanaf uw Wii systeem geh
 
 #### Benodigheden
 * Een SD-kaart of USB-stick/ harde schijf
-* [Yet Another BlueDump MOD](/assets/files/YABDM.zip)
+* [Yet Another BlueDump MOD](https://hbb1.oscwii.org/hbb/Yet-Another-BlueDump-Mod/Yet-Another-BlueDump-Mod.zip)
 
 #### Instructies
 ##### Deel I - Downloaden/Installeren
