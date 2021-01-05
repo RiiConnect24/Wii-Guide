@@ -23,6 +23,9 @@ Certifica-te que instalaste [cIOS](/cios) antes de seguir!
 We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, or [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS.
 {: .notice--info}
 
+If you are not copying games using Wii Backup Manager or Witgui, make a folder on the root of the USB drive named "wbfs" and put the games in there.
+{: .notice--info}
+
 To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
 {: .notice--info}
 
@@ -38,7 +41,7 @@ Certifica-te que o teu USB drive está formatado como FAT32 ou NTFS. Não format
 
 ##### Vamos Começar
 
-Não há nenhum "guia" para utilizar o USB Loader GX. Isto irá apenas ajudar-te a aprender como usá-lo, dando-te um começo rápido. Deverás descobrir todas as grandes funcionalidades do USB Loader GX ao utilizá-lo.
+There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
 {: .notice--info}
 
 * Se o USB Loader GX disser "Waiting for HDD..." com uma contagem regressiva de 20 segundos, quer dizer que não consegue encontrar o USB drive. Tenta sair da app, e reabre-o depois de colocares o USB drive na outra entrada da tua Wii.
@@ -48,11 +51,11 @@ Não há nenhum "guia" para utilizar o USB Loader GX. Isto irá apenas ajudar-te
 
 ##### Interface de utilizador
 
-Há múltiplos botões na interface do USB Loader GX.
+There are multiple buttons in the USB Loader GX interface.
 
 ###### Menu Principal
 
-Estas são as funções dos botões que estão na parte superior, da direita para a esquerda:
+These are the functions the buttons found on the top of the main menu do, from left to right:
 
 * Estrela - Mostra os jogos que marcaste como favoritos.
 * Busca - Permite que procures jogos pelo nome.
@@ -66,9 +69,9 @@ Estas são as funções dos botões que estão na parte superior, da direita par
 * Controlo Parental - Bloqueia o USB Loader GX.
 * Disco - Carrega um jogo pelo disco.
 
-Ao pressionar qualquer jogo, poderás jogar o jogo pressionando em "Start".
+Pressing any game will allow you to play the game by pressing "Start".
 
-Também tens outros botões:
+There are also other buttons:
 
 * (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
 * Engrenagens - Definições do USB Loader GX.
@@ -77,7 +80,7 @@ Também tens outros botões:
 * Wii - Abre o Menu HOME, ao qual pode ser aberto também pressionando o botão HOME no comando Wii.
 * Botão Desligar/Ligar - Desliga a tua Wii.
 
-No meio da parte inferior do ecrã, podes ver quanto espaço livre tens no teu USB drive e quantos jogos tens.
+On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
 
 ##### Opções uma vez terminado o processo
 
