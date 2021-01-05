@@ -44,7 +44,11 @@ cIOS is needed for your Wii to use a USB Loader.
 {: .notice--info}
 
 [Continue to USB Loader GX](usbloadergx)
-USB Loader GX is a USB Loader so you can play games on your Wii from a USB drive.
+USB Loader GX is a USB Loader that you can use to play games on your Wii from a USB drive.
+{: .notice--info}
+
+[Continue to WiiFlow](wiiflow)
+WiiFlow is a USB Loader that you can use to play games on your Wii from a USB drive or SD Card.
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br>
