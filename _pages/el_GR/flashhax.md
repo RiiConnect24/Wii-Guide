@@ -9,8 +9,8 @@ title: "FlashHax"
 
 #### Τι χρειάζεστε
 
-- A Wii with an Internet connection
-- The Internet Channel
+- Ένα Wii με σύνδεση στο διαδίκτυο
+- Το κανάλι Internet
 
 #### Οδηγίες
 
