@@ -14,7 +14,7 @@ This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that
 #### What you need
 
 * A Wii
-* A USB drive/SD card
+* A USB drive and/or SD card
 * [WiiFlow](https://github.com/Fledge68/WiiFlow_Lite/releases)
 
 Make sure you have installed [cIOS](/cios) before following this!
@@ -58,7 +58,7 @@ When WiiFlow detects games, they are displayed in flow view. When you click on a
 * Star - Adds game to favorites.
 * Bookshelf - Adds the game to 1 of 6 categories of your choosing.
 * Gears - Opens the settings menu for the specific game. Changing settings here will only effect the game you changed the settings for.
-* X - Deletes the game from the USB Drive/ SD card
+* X - Deletes the game from the USB drive or SD card
 
 When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
 
@@ -72,8 +72,8 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 ![WF_menu](images/WFmenu.png)
 
 * Help Guide - Shows all the controls you can use in WiiFlow.
-* Reload Cache - Press this when WiiFlow is not detecting a new game on the USB Drive/SD card.
-* File Explorer - Allows you to boot games/apps from anywhere on your USB Drive/SD card.
+* Reload Cache - Press this when WiiFlow is not detecting a new game on the USB drive or SD card.
+* File Explorer - Allows you to boot games/apps from anywhere on your USB drive or SD card.
 * Select Plugins - Allows you to select plugins.
 * Credits - Shows the people who worked on WiiFlow.
 * Shutdown - Allows you to either go into full shutdown, or Standby mode.
