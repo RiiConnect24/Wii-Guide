@@ -33,7 +33,7 @@ Select cIOS base: 57
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
-![Install cIOS 249](/images/Wii/Install249.png)
+![Εγκατασθήστε cIOS 249](/images/Wii/Install249.png)
 1. Μόλις τα ορίσετε σωστά, πατήστε δύο φορές Α για εγκατάσταση.
 1. Όταν ολοκληρωθεί η εγκατάσταση, πατήστε Α για να επιστρέψετε και θέστε τις επιλογές στα παρακάτω:
 ```
@@ -42,7 +42,7 @@ Select cIOS base: 56
 Select cIOS slot: 250
 Select cIOS version: 65535
 ```
-![Install cIOS 250](/images/Wii/Install250.png)
+![Εγκατασθήστε cIOS 250](/images/Wii/Install250.png)
 1. Μόλις τα ορίσετε σωστά, πατήστε δύο φορές Α για εγκατάσταση.
 1. Όταν ολοκληρωθεί η εγκατάσταση, πατήστε Α για να επιστρέψετε και θέστε τις επιλογές στα παρακάτω:
 ```
@@ -55,7 +55,7 @@ Select cIOS version: 65535
 
 ##### Επιλογές μετά την ολοκλήρωση
 
-[Συνέχεια στον Περιηγητή Homebrew](hbb)<br> Ο Περιηγητής Homebrew είναι ένα καλό μέρος για να βρίσκετε homebrew στο Wii σας. This is optional to install.
+[Συνέχεια στον Περιηγητή Homebrew](hbb)<br> Ο Περιηγητής Homebrew είναι ένα καλό μέρος για να βρίσκετε homebrew στο Wii σας. Αυτό είναι προαιρετικό.
 {: .notice--info}
 
 [Συνεχίστε στην περιήγηση ιστοσελίδας](site-navigation)<br> Έχουμε πολλούς άλλους οδηγούς που μπορεί να σας αρέσουν.
