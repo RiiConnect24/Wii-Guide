@@ -42,7 +42,10 @@ Assicurati che il tuo dispositivo USB sia formattato a FAT32 o NTFS. Non formatt
 [Continue to cIOS](cios)<br> cIOS è necessario alla tua Wii per un USB Loader.
 {: .notice--info}
 
-[Continua su USB Loader GX](usbloadergx) USB Loader GX è un USB Loader che ti permette di giocare i giochi sulla Wii dal dispositivo USB.
+[Continue to USB Loader GX](usbloadergx) USB Loader GX is a USB Loader that you can use to play games on your Wii from a USB drive.
+{: .notice--info}
+
+[Continue to WiiFlow](wiiflow) WiiFlow is a USB Loader that you can use to play games on your Wii from a USB drive or SD Card.
 {: .notice--info}
 
 [Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
