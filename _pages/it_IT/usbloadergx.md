@@ -23,6 +23,9 @@ Assicurati di avere installato [cIOS](/cios) prima di seguire questa guida!
 We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, or [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS.
 {: .notice--info}
 
+If you are not copying games using Wii Backup Manager or Witgui, make a folder on the root of the USB drive named "wbfs" and put the games in there.
+{: .notice--info}
+
 To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
 {: .notice--info}
 
@@ -38,7 +41,7 @@ Assicurati che il tuo dispositivo USB sia formattato a FAT32 o NTFS. Non formatt
 
 ##### Iniziare
 
-Non c'è nessuna "guida" per usare l'applicazione USB Loader GX. Noi vogliamo aiutarti ad imparare ad usarlo, dandoti una semplice partenza. Dovresti riuscire a capire tutte le fantastiche features di USB Loader GX semplicemente usandolo.
+There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
 {: .notice--info}
 
 * If USB Loader GX says "Waiting for HDD..." with a 20 seconds countdown, it's likely that it can't find the USB drive. Try to exit out of the app, and then relaunch it after you put the USB drive in the other port of the Wii.
@@ -48,11 +51,11 @@ Non c'è nessuna "guida" per usare l'applicazione USB Loader GX. Noi vogliamo ai
 
 ##### Interfaccia
 
-Ci sono molteplici pulsanti nell'interfaccia di USB Loader GX.
+There are multiple buttons in the USB Loader GX interface.
 
 ###### Menù Principale
 
-Questi sono i pulsanti di funzione che si trovano sopra il menù principale, da sinistra a destra:
+These are the functions the buttons found on the top of the main menu do, from left to right:
 
 * Star - Mostra i giochi che hai scelto come "preferiti".
 * Search - Ti permette di cercare giochi dal nome.
@@ -66,9 +69,9 @@ Questi sono i pulsanti di funzione che si trovano sopra il menù principale, da 
 * Parental Control - Blocca USB Loader GX.
 * Disc - Carica i giochi dal disco.
 
-Premendo su qualunque gioco ti permetterà di giocarlo premendo "Start".
+Pressing any game will allow you to play the game by pressing "Start".
 
-Ci sono anche altri pulsanti:
+There are also other buttons:
 
 * (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
 * Ingranaggi - Impostazioni di USB Loader GX.
