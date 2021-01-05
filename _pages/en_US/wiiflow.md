@@ -9,12 +9,12 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 ![WiiFlow](/images/wiiflowlogo.png)
 
-This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that's used to play games from a USB drive or SD Card.
+This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that's used to play games from a USB drive or SD card.
 
 #### What you need
 
 * A Wii
-* A USB drive/SD Card
+* A USB drive/SD card
 * [WiiFlow](https://github.com/Fledge68/WiiFlow_Lite/releases)
 
 Make sure you have installed [cIOS](/cios) before following this!
@@ -23,16 +23,16 @@ Make sure you have installed [cIOS](/cios) before following this!
 We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, or [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS.
 {: .notice--info}
 
-If you are not copying games using Wii Backup Manager or Witgui, make a folder on the root of the USB drive or SD Card named "wbfs" and put the games in there.
+If you are not copying games using Wii Backup Manager or Witgui, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
 {: .notice--info}
 
 To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
 {: .notice--info}
 
-Unlike USB Loader GX, WiiFlow can load games of an SD Card. 
+Unlike USB Loader GX, WiiFlow can load games of an SD card. 
 {: .notice--info}
 
-Make sure your USB drive and/or SD Card is formatted as FAT32 or NTFS. Do not format it as other types such as extFS or WBFS, the latter is an old format of storing Wii games.
+Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Do not format it as other types such as extFS or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
 #### Instructions
@@ -47,7 +47,7 @@ Make sure your USB drive and/or SD Card is formatted as FAT32 or NTFS. Do not fo
 This is not a full comprehensive guide on using WiiFlow. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow by using it.
 {: .notice--info}
 
-* WiiFlow by default is set to only find games on the SD Card. This can be changed by going in to settings, startup settings then turn off "Mount SD Only".
+* WiiFlow by default is set to only find games on the SD card. This can be changed by going in to settings, startup settings then turn off "Mount SD Only".
 * You can toggle between viewing Wii games, GameCube games, Wii Channels, Plugins, Homebrew apps by clicking the button second to last button on the right.
 * You can download game covers by going to "Settings" then "Download Covers and Banners"
 
@@ -58,7 +58,7 @@ When WiiFlow detects games, they are displayed in flow view. When you click on a
 * Star - Adds game to favorites.
 * Bookshelf - Adds the game to 1 of 6 categories of your choosing.
 * Gears - Opens the settings menu for the specific game. Changing settings here will only effect the game you changed the settings for.
-* X - Deletes the game from the USB Drive/ SD Card
+* X - Deletes the game from the USB Drive/ SD card
 
 When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
 
@@ -72,8 +72,8 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 ![WF_menu](images/WFmenu.png)
 
 * Help Guide - Shows all the controls you can use in WiiFlow.
-* Reload Cache - Press this when WiiFlow is not detecting a new game on the USB Drive/SD Card.
-* File Explorer - Allows you to boot games/apps from anywhere on your USB Drive/SD Card.
+* Reload Cache - Press this when WiiFlow is not detecting a new game on the USB Drive/SD card.
+* File Explorer - Allows you to boot games/apps from anywhere on your USB Drive/SD card.
 * Select Plugins - Allows you to select plugins.
 * Credits - Shows the people who worked on WiiFlow.
 * Shutdown - Allows you to either go into full shutdown, or Standby mode.
