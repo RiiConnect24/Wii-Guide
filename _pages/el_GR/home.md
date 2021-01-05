@@ -26,12 +26,12 @@ excerpt: "Ο ολοκληρομένος οδηγός για να τροποπο�
 
 - Τροποποιήστε προσωρινά περιεχόμενα δίσκων παιχνιδιών (που σας αφήνει δηλαδή να φορτώνετε mods παιχνιδιών) με το[Riivolution](http://www.wiibrew.org/wiki/Riivolution).
 - Εγκαταστήστε θέματα στο Μενού του Wii σας χρησιμοποιόντας το [MyMenuify](themes).
-- Install a USB Loader like [WiiFlow](wiiflow) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
+- Εγκαταστήστε έναν USB Loader όπως το [USB Loader GX](wiiflow) ή το [WiiFlow](usbloadergx) για να ανοίξετε όλους τους αγαπημένους σας τίτλους από ένα USB αποθηκευτικό μέσο και περισσότερα.
 - Κάντε αντίγραφο ασφαλείας των δίσκων παιχνιδιών σας με το [CleanRip](/dump-games) και αντίγραφο ασφαλείας εγκατεστημένων παιχνιδιών και τίτλων με το [YABDM](dump-wads)
 - Κάντε αντίγραφο ασφαλείας και επαναφορά των save αρχείων σας με το [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
 - Κατεβάστε νέες εφαρμογές homebrew με το [Homebrew Browser](hbb)
 - Επαναφέρετε αποσυνδεδεμένες διαδικτυακές υπηρεσίες, όπως τις [υπηρεσίες WiiConnect24](riiconnect24) & [ και Nintendo WFC](wiimmfi).
-- Backup and restore copies of your Wii system memory (NAND) using [BootMii](bootmii).
+- Κάντε αντίγραφο ασφαλείας και επαναφορά αντιγράφων της μνήμης του συστήματος Wii σας (NAND) χρησιμοποιόντας το [BootMii](bootmii).
 - Προστατέψτε το Wii σας από bricks χρησιμοποιόντας το [Priiloader](priiloader) και το BootMii.
 - Κάντε το Wii σας αναπαραγωγό μέσων (media player) με το [WiiMC](http://www.wiimc.org/).
 
@@ -45,7 +45,7 @@ excerpt: "Ο ολοκληρομένος οδηγός για να τροποπο�
 - [ModMii](http://xflak.com/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
-- [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...and of course, this site
+- [Επεξήγηση Wii Hack - από τον Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...και φυσικά, αυτήν την ιστοσελίδα
 
-For modding a Wii U, follow this guide:
-- [NH Wii U Guide](https://wiiu.hacks.guide)
+Για να μοντάρετε ένα Wii U ακολουθήστε αυτόν τον οδηγό:
+- [Οδηγός NH Wii U](https://wiiu.hacks.guide)
