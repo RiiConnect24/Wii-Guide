@@ -22,12 +22,18 @@ El Canal Homebrew es desde donde iniciarás las aplicaciones homebrew. BootMii e
 4. Selecciona `Continue` cuando la instalación haya finalizado. ![Instalación del Canal Homebrew exitosa](/images/Wii/SuccessHBC.png)
 
 5. Una vez instalado, presiona `Back` y selecciona `BootMii`.
-6. Si en la pantalla dice que puede ser instalado como boot2, hazlo. Esto te brinda un nivel adicional de protección contra bricks que se carga como parte del proceso de arranque de la consola y te permite cargar homebrew para reparar el brick o restaurar un respaldo de la NAND.
-7. Si no dice que puede ser instalado como boot2, entonces instálalo como IOS. Si bien esto no le brinda ninguna protección de ladrillos, puedes hacer una copia de seguridad NAND.
+6. If the main screen says you can install BootMii as boot2, do so. This offers the best possible brick protection you can have.
+7. If you cannot install BootMii as boot2 (like the Wii shown in step two), install BootMii as IOS instead. Si bien esto no le brinda ninguna protección de ladrillos, puedes hacer una copia de seguridad NAND.
 
-![Instalación de BootMii](/images/Wii/InstallBootMii.jpg)
+If you do not have an SD card, you cannot install or use BootMii, and therefore will not be able utilize any of the mentioned benefits. You can always install it at a later date.
+{: .notice--warning}
+
+![BootMii Installation](/images/Wii/InstallBootMii.jpg)
 
 8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
 
-[Continuar haciendo una copia de segruidad NAND usando BootMii](bootmii) Haciendo una copia de seguridad NAND con BootMii en este momento es muy recomendable.
+[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
+{: .notice--info}
+
+If you couldn't install BootMii, continue to [installing Priiloader](priiloader) instead.
 {: .notice--info}
