@@ -23,6 +23,9 @@ Upewnij się, że zainstalowałeś [cIOS](/cios) przed skorzystaniem z USB Loade
 Rekomendujemy instalację gier korzystając z [Wii Backup Manager](/wiibackupmanager) jeżeli korzystasz z Windowsa oraz [Witgui](https://desairem.com/wordpress/category/witgui-download/) jeżeli z macOS.
 {: .notice--info}
 
+If you are not copying games using Wii Backup Manager or Witgui, make a folder on the root of the USB drive named "wbfs" and put the games in there.
+{: .notice--info}
+
 To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
 {: .notice--info}
 
@@ -38,7 +41,7 @@ Upewnij sie, że Twoje urządzenie USB jest sformatowane jako FAT32 lub NTFS. Ni
 
 ##### Wprowadzenie
 
-Nie ma "poradnika" dotyczący tego jak korzystać z USB Loader GX. Poniższe informacje mają na celu nauczyć cię jak korzystać z interfejsu, aby zapewnić Ci szybki start. Powinieneś się dowiedzieć jak korzystać ze wszystkich funkcji USB Loader'a GX poprzez korzystanie z niego.
+There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
 {: .notice--info}
 
 * Jeżeli po uruchomieniu USB Loader'a GX na ekranie wyświetla się "Waiting for HDD..." z 20 sekundowym odlicznikiem czasu, prawdopodobnie USB Loader GX nie był w stanie znaleźć Twojego urządzenia USB. Spróbuj uruchomić program ponownie oraz włożyć urządzenie USB do innego portu w Twojej Wii.
@@ -48,11 +51,11 @@ Nie ma "poradnika" dotyczący tego jak korzystać z USB Loader GX. Poniższe inf
 
 ##### Interfejs graficzny
 
-Na interfejsie USB Loader'a GX znajdziesz wiele przycisków.
+There are multiple buttons in the USB Loader GX interface.
 
 ###### Menu główne
 
-Poniżej opisane są funkcje przycisków, które możesz znaleźć na samej górze interfejsu w kolejności od lewej do prawej:
+These are the functions the buttons found on the top of the main menu do, from left to right:
 
 * Ulubione - Pokazuje gry, które oznaczyłeś jako ulubione.
 * Wyszukaj - Pozwala Ci wyszukać gry po ich nazwie.
@@ -66,9 +69,9 @@ Poniżej opisane są funkcje przycisków, które możesz znaleźć na samej gór
 * Kontrola rodzicielska - Zablokowuje ustawienia USB Loader GX za hasłem.
 * Płyta - Pozwala Ci uruchomić grę z płyty.
 
-Aby uruchomić grę, naciśnij na okładkę/wpis oraz naciśnij na "Start".
+Pressing any game will allow you to play the game by pressing "Start".
 
-Istnieją również inne przyciski na interfejsie:
+There are also other buttons:
 
 * (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
 * Koło zębate - Ustawienia USB Loader'a GX.
@@ -77,7 +80,7 @@ Istnieją również inne przyciski na interfejsie:
 * Wii - Otwiera menu HOME, które możesz również przywołać poprzez naciśnięcie przycisku HOME na Twoim kontrolerze.
 * Przycisk zasilania - Wyłącz Twoje Wii.
 
-Po środku na dole ekranu, możesz zobaczyć ile miejsca jest wolnego na Twoim urządzeniu USB i ile gier jest zainstalowanych.
+On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
 
 ##### Co można zrobić po ukończeniu?
 
