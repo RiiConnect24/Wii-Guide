@@ -23,10 +23,13 @@ Esta es una guía de inicio rápido sobre cómo usar USB Loader GX, un popular c
 Te recomendamos copiar los juegos con [ Wii Backup Manager ](/wiibackupmanager) si usas Windows, o [ Witgui ](https://desairem.com/wordpress/category/witgui-download/) si usas macOS.
 {: .notice--info}
 
+If you are not copying games using Wii Backup Manager or Witgui, make a folder on the root of the USB drive named "wbfs" and put the games in there.
+{: .notice--info}
+
 To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
 {: .notice--info}
 
-Compruebe si su unidad USB está formateada como FAT32 o NTFS. No uses otros sistemas de archivos como extFS o WBFS; el segundo es un formato antiguo hecho para almacenar juegos de Wii.
+Asegúrate de que tu unidad USB esté formateada como FAT32 o NTFS. No uses otros sistemas de archivos como extFS o WBFS; el segundo es un formato antiguo hecho para almacenar juegos de Wii.
 {: .notice--info}
 
 #### Instrucciones
@@ -38,7 +41,7 @@ Compruebe si su unidad USB está formateada como FAT32 o NTFS. No uses otros sis
 
 ##### Comenzar
 
-No hay una "guía" específica para usar USB Loader GX. Esta página está pensada para ayudarte a aprender cómo usar las funciones básicas de la aplicación. Puedes descubrir todas las grandes funciones de USB Loader GX con simplemente empezar a usarlo.
+There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
 {: .notice--info}
 
 * Si USB Loader GX dice "Waiting for HDD..." con una cuenta regresiva de 20 segundos, es probable que no pueda encontrar la unidad USB. Sal de la aplicación y luego reiníciala después de colocar la unidad USB en el otro puerto de la Wii.
@@ -48,11 +51,11 @@ No hay una "guía" específica para usar USB Loader GX. Esta página está pensa
 
 ##### Interfaz de usuario
 
-Hay múltiples botones en la interfaz de USB Loader GX.
+There are multiple buttons in the USB Loader GX interface.
 
 ###### Menú principal
 
-Estas son las funciones que realizan los botones de la parte superior del menú principal, de izquierda a derecha:
+These are the functions the buttons found on the top of the main menu do, from left to right:
 
 * Mostrar sólo favoritos - Muestra los juegos que hayas marcado como favoritos.
 * Usar filtro de búsqueda - Permite buscar juegos por nombre.
@@ -66,9 +69,9 @@ Estas son las funciones que realizan los botones de la parte superior del menú 
 * Bloquear USB Loader GX - Permite bloquear USB Loader GX a modo de control parental.
 * Montar unidad DVD - Permite cargar un juego insertado en la ranura para discos.
 
-Al presionar sobre un juego podrás iniciar dicho juego seleccionando "Comenzar".
+Pressing any game will allow you to play the game by pressing "Start".
 
-También están los siguientes botones:
+There are also other buttons:
 
 * (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
 * Engranajes - Configuración de USB Loader GX.
@@ -77,7 +80,7 @@ También están los siguientes botones:
 * Wii - Abrir el menú HOME, el cual también puede ser accedido al oprimir el botón HOME.
 * Botón de apagado - Poner la consola en modo de espera o apagarla completamente.
 
-En el centro de la parte inferior de la pantalla, puede ver cuánto espacio hay libre en su unidad USB y cuántos juegos tiene.
+On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
 
 ##### Opciones una vez terminado
 
