@@ -9,7 +9,7 @@ Se hai bisogno di aiuto riguardo questo tutorial, unisciti al [Wii Mini Hacking 
 
 ![BlueBomb](/images/bluebomb.png)
 
-BlueBomb è un exploit che si approffitta di un errore nelle librerie Bluetooth della Wii e della Wii Mini. Nonostante sia l'unico exploit che funzioni sulla Wii mini, Bluebomb funziona anche sulla Wii originale. Questo exploit può anche recuperarsi da alcuni bricks, come il banner brick.
+BlueBomb è un exploit che si approffitta di un errore nelle librerie Bluetooth della Wii e della Wii Mini. Nonostante sia l'unico exploit che funzioni sulla Wii mini, Bluebomb funziona anche sulla Wii originale. Questo exploit può anche abilitare recuperi da alcuni brick, come il banner brick.
 
 Per la Wii originale, non è raccomandato usare BlueBomb se vuoi installare l'Homebrew Channel e BootMii, visto che esistono exploit più convenienti.
 {: .notice--info}
@@ -21,7 +21,7 @@ Per la Wii originale, non è raccomandato usare BlueBomb se vuoi installare l'Ho
   - Se non hai Linux, [ Ubuntu](https://ubuntu.com/download/desktop) è l'opzione più semplice ed è disponibile per PC Windows o Mac.
     - I sistemi a 32 bit richiedono [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
     - Per i sistemi a 64-bit è consigliabile usare l'edizione LTS per la sua stabilità, ma l'ultima versione funziona.
-  - You can [flash a Linux install to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
+  - Puoi [flashare un installazione Linux su un dispositivo USB](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) invece di installarlo sul tuo computer.
 - Un'adattatore Bluetooth.
   - Un'adattatore Bluetooth interno funzionerà.
   - Se non ne hai uno, assicurati di prenderne uno compatibile con Linux.
@@ -29,7 +29,7 @@ Per la Wii originale, non è raccomandato usare BlueBomb se vuoi installare l'Ho
   - Non può essere la stessa che usi per la tua Macchina Linux.
 
 #### Sezione 2 - Eseguire l'Exploit
-1. Download the HackMii installer from [the BootMii website](https://bootmii.org/download/).
+1. Scarica l'HackMii installer dal [sito internet di BootMii](https://bootmii.org/download/).
 - (If attempting to fix a brick, you should also copy the homebrew app you wish to use to /apps/)
 1. Unpack it and place the `boot.elf` file in your flash drive.
 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright).
