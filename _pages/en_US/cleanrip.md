@@ -1,7 +1,7 @@
 #### What you need
 
 * An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc) of free space.
-* [CleanRip](https://hbb1.oscwii.org/hbb/CleanRip/CleanRip.zip)
+* [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
 #### Instructions
 

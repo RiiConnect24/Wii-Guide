@@ -35,7 +35,7 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 
 #### What you need
 * An SD card or USB drive
-* [Auto Wiimmfi Patcher](https://hbb1.oscwii.org/hbb/wiimmfipatcher/wiimmfipatcher.zip)
+* [Auto Wiimmfi Patcher](/assets/files/autowiimmfipatcher-0.6.zip)
 
 ### No-Homebrew (Disc)
 Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
@@ -91,7 +91,7 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows only)  
    **or**  
 - [Auto WiiWare Patcher](https://github.com/RiiConnect24/auto-wiiware-patcher/releases) (cross platform)
-- [Wii Mod Lite](https://hbb1.oscwii.org/hbb/WiiModLite/WiiModLite.zip)
+- [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
 [If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
 {: .notice--info}
@@ -110,7 +110,7 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
 - An SD card or USB drive
 - Mario Kart Wii Competition Patcher
-   - [Wii](https://hbb1.oscwii.org/hbb/competition-tool-wii/competition-tool-wii.zip)
+   - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
    - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
 #### Instructions (for Wii)
