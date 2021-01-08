@@ -16,7 +16,7 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your
 
 #### What you need
 * An SD card or USB drive
-* [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+* [Priiloader installer](assets/files/Priiloader_v0_9.zip)
 
 #### Instructions
 ##### Section I - Downloading/Installing
