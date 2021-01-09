@@ -14,7 +14,7 @@ title: "Wii Mod Lite"
 
 #### Τι χρειάζεστε
 * Μια κάρτα SD ή ένα στικάκι (ή δίσκο) USB
-* [Wii Mod Lite](https://hbb1.oscwii.org/hbb/WiiModLite/WiiModLite.zip)
+* [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
 #### Οδηγίες
 
