@@ -19,7 +19,7 @@ Falls du einen der folgenden Fehler erhälst (und keine anderen Fehler), solltes
 
 #### Voraussetzungen
 * Eine SD-Karte bzw. ein USB-Laufwerk
-* [WiiXplorer](https://hbb1.oscwii.org/hbb/wiixplorer/wiixplorer.zip)
+* [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
 
 #### Zu löschende Ordner
 
