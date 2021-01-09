@@ -19,7 +19,7 @@ Si vous obtenez l'une de ces erreurs (et aucune autre erreur), vous devriez êtr
 
 #### Qu’est-ce que vous avez besoin
 * Une carte SD ou une clé USB
-* [WiiXplorer](https://hbb1.oscwii.org/hbb/wiixplorer/wiixplorer.zip)
+* [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
 
 #### Dossier à supprimer
 
