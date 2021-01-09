@@ -19,7 +19,7 @@ Jeżeli otrzymujesz któryś z poniższych problemów (tylko te, nie inne), powi
 
 #### Będziesz potrzebował:
 * Karta SD lub urządzenie USB
-* [WiiXplorer](https://hbb1.oscwii.org/hbb/wiixplorer/wiixplorer.zip)
+* [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
 
 #### Foldery do usunięcia:
 
