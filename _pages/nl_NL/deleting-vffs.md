@@ -19,7 +19,7 @@ If you're getting one of these errors (and not any other error), you should be a
 
 #### Benodigdheden
 * Een SD-kaart of USB-stick/ harde schijf
-* [WiiXplorer](https://hbb1.oscwii.org/hbb/wiixplorer/wiixplorer.zip)
+* [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
 
 #### Folder to Delete
 
