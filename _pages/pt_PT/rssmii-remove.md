@@ -12,7 +12,7 @@ Se não desejas utilizar o RSSMii (talvez porque te manda muitos Wii Mails), est
 #### O que precisas
 
 * Um cartão SD
-* [RSSMii Remover](https://hbb1.oscwii.org/hbb/rssmii-remover/rssmii-remover.zip)
+* [RSSMii Remover](https://github.com/RiiConnect24/rssmii/releases)
 
 #### Instruções
 
