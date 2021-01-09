@@ -29,7 +29,7 @@ Nós recomendamos que [instales cIOS](cios) antes de continuar.
 * Uma Wii
 * Um cartão SD ou USB drive
 * Um computador com Windows (ou com Mono ou Wine em Mac/Linux)
-* [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
+* [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
 
 #### Theme Links
