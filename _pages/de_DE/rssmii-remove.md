@@ -12,7 +12,7 @@ Falls du RSSMii nicht länger benutzen möchtest (vielleicht, weil du zu viel Wi
 #### Voraussetzungen
 
 * Eine SD-Karte
-* [RSSMii Remover](https://hbb1.oscwii.org/hbb/rssmii-remover/rssmii-remover.zip)
+* [RSSMii Remover](https://github.com/RiiConnect24/rssmii/releases)
 
 #### Anleitung
 
