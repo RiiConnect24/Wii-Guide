@@ -19,7 +19,7 @@ Se estás a obter um destes erros (e não outro erro qualquer), deves corrigir o
 
 #### O que precisas
 * Um cartão SD ou USB drive
-* [WiiXplorer](https://hbb1.oscwii.org/hbb/wiixplorer/wiixplorer.zip)
+* [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
 
 #### Pasta para deletar
 
