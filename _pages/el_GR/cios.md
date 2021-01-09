@@ -8,14 +8,14 @@ title: "cIOS (προσαρμοσμένο IOS)"
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-Αν έχετε Wii mini, αντ' αυτού εγκαταστήστε [αυτό το cIOS](cios-mini). Η προσπάθεια εγκατάστασης οποιουδήποτε άλλου cIOS σε ένα Wii mini δεν θα λειτουργήσει.
+If you have a Wii mini, Install [this cIOS](cios-mini) instead. Η προσπάθεια εγκατάστασης οποιουδήποτε άλλου cIOS σε ένα Wii mini δεν θα λειτουργήσει.
 {: .notice--info}
 
 #### Τι χρειάζεστε
 
 * Ένα Wii με σύνδεση στο διαδίκτυο
 * Μία κάρτα SD ή μέσο αποθήκευσης USB
-* [Το d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
+* [Το d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
 #### Οδηγίες
 
