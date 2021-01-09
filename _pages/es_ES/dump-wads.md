@@ -11,7 +11,7 @@ En esta guía te explicaremos cómo extraer canales instalados en la memoria del
 
 #### Requisitos
 * Una tarjeta SD o unidad USB
-* [Otra BlueDump MOD](https://hbb1.oscwii.org/hbb/Yet-Another-BlueDump-Mod/Yet-Another-BlueDump-Mod.zip)
+* [Otra BlueDump MOD](/assets/files/YABDM.zip)
 
 #### Instrucciones
 ##### Sección I - Descarga/instalación
