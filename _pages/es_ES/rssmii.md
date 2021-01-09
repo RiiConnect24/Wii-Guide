@@ -14,7 +14,7 @@ En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por f
 #### Requisitos
 
 * Una tarjeta SD
-* [RSSMii](https://hbb1.oscwii.org/hbb/rssmii/rssmii.zip)
+* [RSSMii](https://github.com/RiiConnect24/rssmii/releases)
 
 #### Instrucciones
 ##### Sección I - Descarga/instalación
