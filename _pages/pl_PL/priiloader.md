@@ -16,7 +16,7 @@ Priiloader dodaje dodatkowy poziom ochrony przez brickiem na Twoje Wii. Ładuje 
 
 #### Będziesz potrzebował
 * Karta SD lub urządzenie USB.
-* [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+* [Priiloader installer](assets/files/Priiloader_v0_9.zip)
 
 #### Instrukcje
 ##### Sekcja I - Pobieranie/Instalowanie
@@ -35,7 +35,6 @@ Priiloader dodaje dodatkowy poziom ochrony przez brickiem na Twoje Wii. Ładuje 
 
 1. Hold the RESET button while turning on your Wii.
     * If you are using a Wii mini, plug in a USB keyboard and hold escape while turning it on
-
 
 ![Włącz konsolę](/images/Priiloader/5.jpg) ![Przytrzymaj RESET](/images/Priiloader/4.jpg)
 
