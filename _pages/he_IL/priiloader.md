@@ -16,7 +16,7 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your
 
 #### לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
 * An SD card or USB drive
-* [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+* [Priiloader installer](assets/files/Priiloader_v0_9.zip)
 
 #### הוראות
 ##### חלק א - הורדה והתקנה
@@ -35,7 +35,6 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your
 
 1. Hold the RESET button while turning on your Wii.
     * If you are using a Wii mini, plug in a USB keyboard and hold escape while turning it on
-
 
 ![Turn on](/images/Priiloader/5.jpg) ![Hold RESET](/images/Priiloader/4.jpg)
 
