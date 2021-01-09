@@ -19,7 +19,7 @@ Si tiene uno de estos errores (solo estos errores), deberías poder arreglar el 
 
 #### Que necesitas
 * Una tarjeta SD o una unidad USB
-* [WiiXplorer](https://hbb1.oscwii.org/hbb/wiixplorer/wiixplorer.zip)
+* [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
 
 #### Carpeta a Borrar
 
