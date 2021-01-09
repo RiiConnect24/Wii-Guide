@@ -19,7 +19,7 @@ title: "Διαγραφή VFF"
 
 #### Τι χρειάζεστε
 * Μία κάρτα SD ή μέσο αποθήκευσης USB
-* [Το WiiXplorer](https://hbb1.oscwii.org/hbb/wiixplorer/wiixplorer.zip)
+* [Το WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
 
 #### Φάκελοι προς διαγραφή
 
