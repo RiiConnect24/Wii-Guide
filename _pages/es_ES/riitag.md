@@ -59,22 +59,32 @@ Los pasos para conectar el RiiTag a su Cargador USB dependen del Cargador USB qu
 7. Guarda el archivo `wiiflow.ini` modificado.
 8. Ya has terminado de instalar RiiTag. Intenta cargar algún juego para verificar que esté funcionando correctamente.
 
+###### Dolphin
+
+You need a Discord account for this to work.
+{: .notice--info}
+
+1. [Join the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) if you aren't already in there.
+2. Make sure `Show Current Game on Discord` is turned on in preferences.
+3. Make sure your Discord client is open.
+4. Play a game and RiiTag will automatically update your tag when you play a game.
+
 ###### Configurable USB Loader
 
-No tenemos soporte para Configurable USB Loader, ya que estamos enfocados en USB Loader GX y WiiFlow.
+We do not offer support for Configurable USB Loader, as we are focused on USB Loader GX and WiiFlow.
 {: .notice--info}
 
-Puedes usar el programa `CfgLoaderConfigurator.exe` (solo Windows) en lugar de editar el archivo `config.txt` mencionado a continuación si desea.
+You can use the `CfgLoaderConfigurator.exe` program (Windows only) instead of editing the `config.txt` file mentioned below if you want to.
 {: .notice--info}
 
-1. Inserta en tu computadora la tarjeta SD o unidad USB donde tengas guardada la configuración de Configurable USB Loader.
-2. Abre el archivo `config.txt` ubicado en `/usb-loader/` con un editor de texto.
-3. Reemplaza (o añade) la línea que empieza en `gamercard_url` con `gamercard_url = http://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
-4. Reemplazar (o agregar la línea) empezando con `gamercard_key` con `gamercard_key = <key>`, reemplazando `<key>` con la llave que escribiste en la Sección 1.
-5. Guarda el archivo `config.txt` modificado.
+1. Take the SD Card or USB device where your Configurable USB Loader data is into your computer.
+2. Open `/usb-loader/config.txt` with a text editor.
+3. Replace (or add the line) starting with `gamercard_url` with `gamercard_url = http://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
+4. Replace (or add the line) starting with `gamercard_key` with `gamercard_key = <key>`, replacing `<key>` with the key you wrote down in Section 1.
+5. Save the modified `config.txt` file.
 6. Ya has terminado de instalar RiiTag. Intenta cargar algún juego para verificar que esté funcionando correctamente.
 
-[Echa un vistazo a RiiTag-RPC](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br> Ahora que configuró RiiTag, puede configurar RiiTag-RPC para mostrar a sus amigos lo que está jugando en la Wii usando la rica presencia de Discord.
+[Check out RiiTag-RPC](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br> Now that you set up RiiTag, you can set up RiiTag-RPC to show your friends what you're playing on the Wii using Discord's rich presence.
 {: .notice--info}
 
 [Echa un vistazo a nuestras demás guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
