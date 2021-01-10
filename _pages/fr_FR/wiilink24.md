@@ -13,8 +13,8 @@ WiiLink24 et tous ses services (tels que Wii no Ma) ne sont ni contrôlés ni ex
 
 * Une carte SD ou une clé USB
 * D’une Wii avec une connexion internet
-* D’un ordinateur
-* [WiiLink24 Patcher (Windows only)](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
+* A Windows or Unix based computer
+* [WiiLink24 Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
 #### Instructions
 
@@ -23,7 +23,7 @@ WiiLink24 et tous ses services (tels que Wii no Ma) ne sont ni contrôlés ni ex
 [Si vous souhaitez voir des instructions détaillées sur la façon d'installer les WAD, cliquez ici!](wiimodlite)
 {: .notice--info}
 
-1. Download the required files based on your OS. On Windows, run `WiiLink24Patcher.bat`.
+1. Download the required files based on your OS. On Windows, run `WiiLink24Patcher.bat`. On Unix systems, launch terminal and type sh, then drag the `WiiLink24Patcher.sh` into the terminal and press enter.
 2. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`.
 3. For this guide, choose "`Install WiiLink24 on your Wii`"
 4. Select your region.
