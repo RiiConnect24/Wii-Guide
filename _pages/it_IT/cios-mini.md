@@ -8,7 +8,7 @@ Questo tutorial ti dirà come installare il d2xl Wii mini cIOS di Leseratte. E' 
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-This guide is only intended for Wii mini users. If you have a Wii, follow [this guide](cios) instead.
+Questa guida è fatta solo per coloro che hanno una Wii mini. Se hai una Wii normale, segui [questa guida](cios).
 {: .notice--warning}
 
 Se hai bisogno di aiuto riguardo questo tutorial, unisciti a [the Wii Mini Hacking Discord server](https://discord.gg/6ryxnkS) (raccomandato)
@@ -27,8 +27,8 @@ Questo d2x cIOS Installer è stato originariamente creato per la Wii virtuale de
 
 ##### Sezione 1 - Scaricare
 
-1. Extract the d2xl cIOS Installer to the `apps` folder on your USB drive.
-1. Insert your USB drive into your Wii mini and load the d2xl cIOS Installer from the Homebrew Channel.
+1. Estrai il d2xl cIOS Installer nella cartella `apps` del tuo dispositivo USB.
+1. Inserisci il tuo dispositivo USB nel tuo Wii mini a lancia il d2xl cIOS Installer dall'Hombrew Channel.
 
 ##### Sezione 2 - Installare
 
@@ -38,9 +38,9 @@ Questo d2x cIOS Installer è stato originariamente creato per la Wii virtuale de
     Select cIOS base: 57
     Select cIOS slot: 249
     ```
-Take a note of the version number under notes (`IOS57-64-` ending in either `v31776` or `v31775`)
+Prendi nota della versione sotto le note (`IOS57-64-` può finire sia in `v31776` che in `v31775`)
 1. Una volta fatto, premi A due volte per installare. Una volta finito, uscire dall'installer.
-   - If the install fails with a `TMD version mismatch` error, press left or right on the +Control Pad over the `Select cIOS base` option until the version number is different than the one you tried before. The number 57 will not change.
+   - Se l'installazione fallisce con un errore `TMD version mismtch`, premi sinistra o destra sul d-pad+ sull'opzione `Select cIOS base` finchè il numero non è differente da quello che hai inserito prima. Il numero 57 non cambierà.
 
 
 ##### Abilitare l'Ethernet
@@ -49,7 +49,7 @@ Se desideri usare Wiimmfi con cavo Ethernet sulla Wii mini, devi caricare l'app 
 Non provare ad installare un IOS Wii o Menù di Sistema su una Wii mini. Molto probabilmente brickeresti la tua console.
 {: .notice--warning}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
+Ora puoi usare app hombrew come [USB Loader GX](usbloadergx) e [WiiFlow](wiiflow).
 {: .notice--info}
 
 [Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
