@@ -8,7 +8,7 @@ Denne innføringen vil vise deg hvordan man installerer cIOS (custom IOS). Dette
 
 ![d2x cIOS installeringsprogram](/images/cIOS.png)
 
-If you have a Wii mini, Install [this cIOS](cios-mini) instead. Forsøk til å installere hvilken som helst andre cIOS på en Wii mini kommer ikke til å fungere.
+If you have a Wii mini, install [this cIOS](cios-mini) instead. Forsøk til å installere hvilken som helst andre cIOS på en Wii mini kommer ikke til å fungere.
 {: .notice--info}
 
 #### Hva du trenger
