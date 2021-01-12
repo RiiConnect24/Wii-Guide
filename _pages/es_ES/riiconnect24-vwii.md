@@ -87,7 +87,5 @@ Los siguientes servicios de RiiConnect24 son **funcionando** en el vWii:
 Los siguientes servicios de RiiConnect24 son **no funcionando** en el vWii:
 * Intercambio de mensajes mediante el tablón de Wii (la mayoría de la funcionalidad necesaria no está presente en el vWii)
     * Esto incluye enviar o recibir mensajes de amigos. Sólo podrás recibir mensajes globales y publicaciones de fuentes RSS mediante RSSMii (si lo tienes instalado).
-* Canal Tiempo
-    * Éste canal también se ve afectado por el error de las fechas. Esto previene al canal de pasar de la pantalla de carga, resultando en el código de error `FORE000006`.
-* Todos los demás servicios que aparecen como no soportados en las [estadísticas de RiiConnect24](https://rc24.xyz/stats/index.html).
+* Everything else that isn't working according to [RiiConnect24 stats](https://rc24.xyz/stats/index.html).
 {: .notice--warning}
