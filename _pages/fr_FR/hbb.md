@@ -1,11 +1,11 @@
 ---
-title: "Homebrew Browser"
+title: "Open Shop Channel (Homebrew Browser)"
 ---
 
 Si vous avez besoin d’aide par rapport au tutoriel veuillez rejoindre [le serveur discord RiiConnect24](https://discord.gg/b4Y7jfD) (recommandé) ou [Envoyer un email a support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-The Homebrew Browser is where you can go to get homebrew apps. It has been revived and is also now referred to as the "Open Shop Channel"
+The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
 
 #### Que-ce que vous avez besoin
 * Une carte SD ou une clef USB
