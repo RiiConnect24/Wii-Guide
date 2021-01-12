@@ -79,6 +79,7 @@ The following RiiConnect24 services are **working** on the vWii:
 * News Channel
     * This channel is affected by the timestamp issue. The "Last Updated" and article timestamps will be incorrect.
     * The banner data is also known to not work, returning `Unable to obtain data.`
+* Forecast Channel 
 * Nintendo Channel
 * Everybody Votes Channel
 * Check Mii Out Channel / Mii Contest Channel
