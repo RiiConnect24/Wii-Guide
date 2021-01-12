@@ -87,7 +87,5 @@ Poniższe serwisy RiiConnect24 **działają** na vWii:
 Poniższe serwisy RiiConnect24 **nie działają** na vWii:
 * Wii Mail (większość z funkcjonalności nie istnieje na vWii)
     * W to również wchodzi wysyłanie/otrzymywanie wiadomości do/od przyjaciół. Możesz jedynie otrzymywać aktualizacje z feedów RSSMii (jeżeli je ustawiłeś).
-* Forecast Channel
-    * Ten kanał ma problemy ze znacznikami czasu. To uniemożliwia kanałowi przejście przez ekran ładowania, zwracając błąd `FORE000006`.
-* Oraz wszystko inne co nie działa, zgodnie ze [statystykami serwisu RiiConnect24](https://rc24.xyz/stats/index.html).
+* Everything else that isn't working according to [RiiConnect24 stats](https://rc24.xyz/stats/index.html).
 {: .notice--warning}
