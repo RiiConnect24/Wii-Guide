@@ -87,7 +87,5 @@ The following RiiConnect24 services are **working** on the vWii:
 The following RiiConnect24 services are **not working** on the vWii:
 * Wii Mail (most functionality does not exist on vWii)
     * This includes sending/receiving mail to/from friends. You can only receive global broadcast mail and posts from RSSMii feeds (if set up).
-* Forecast Channel
-    * This channel is affected by the timestamp issue. This is preventing the channel from getting past the loading screen, returning the `FORE000006` error.
 * Everything else that isn't working according to [RiiConnect24 stats](https://rc24.xyz/stats/index.html).
 {: .notice--warning}
