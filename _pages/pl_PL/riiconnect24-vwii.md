@@ -54,8 +54,8 @@ Używając RiiConnect24 Patcher'a, który już pobrałeś korzystając z [linku 
 1. Uruchom Homebrew Channel
 2. Uruchom Wii Mod Lite
 3. Używając Twojego kontrolera, przejdź do `WAD Manager` oraz wejdź do folderu `wad`.
-4. Kiedy `IOS31.wad` będzie podświetlone, naciśnij +. Zrób to dla wszystkich innych plików WAD.
-5. Po ukończonej pomyślnie instalacji, naciśnij przycisk HOME aby wyjść do Homebrew Channel
+4. Highlight all WADs with `RiiConnect24` in the name, and press + to select them. When all of them are selected, press A twice to install the WADs.
+5. Po ukońzconej pomyślnie instalacji, naciśnij przycisk HOME aby wyjść do Homebrew Channel.
 
 ##### Sekcja III - Patchowanie 43db dla 16:9 (opcjonalnie)
 
@@ -69,7 +69,7 @@ Jeżeli zainstalujesz motyw, będziesz musiał ponownie uruchomić ww-43db-patch
 
 Po wykonaniu powyższych czynności, jesteś prawie gotowy do korzystania z RiiConnect24 na Twoim Wii U. Będziesz musiał wykonać poniższe kroki **za każdym razem, kiedy uruchomisz vWii**.
 
-1. W vWii **Wii Menu**, uruchom **Homebrew Channel** oraz uruchom aplikację homebrew **ConnectMii**.
+1. On the vWii's **Wii Menu**, launch the **ConnectMii** channel.
 * To umożliwi korzystanie z funkcji WiiConnect24 oraz Standby Connection, które są wymagane przez WiiConnect24.
 2. Uruchom jakiś kanał, który korzysta z WiiConnect24
 Powinieneś teraz być w stanie korzystać ze wszystkich kanałów, które są na Twoim Wii oraz korzystają z WiiConnect24!
@@ -79,6 +79,7 @@ Poniższe serwisy RiiConnect24 **działają** na vWii:
 * News Channel
     * Ten kanał ma problemy ze znacznikami czasu. Sekcja "Ostatnio zaktualizowano" przy artykułach będzie wyświetlała niepoprawne dane.
     * Dane wyświetlane na bannerach również nie działają, wyświetlając `Unable to obtain data.`
+* Forecast Channel
 * Nintendo Channel
 * Everybody Votes Channel
 * Check Mii Out Channel / Mii Contest Channel
