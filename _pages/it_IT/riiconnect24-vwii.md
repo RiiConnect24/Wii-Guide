@@ -54,8 +54,8 @@ Usando il patcher RiiConnect24 che dovresti aver installato prima in [Di cosa ha
 1. Apri il canale Homebrew Channel
 2. Carica Wii Mod Lite
 3. Usando ul tuo +Control Pad sul telecomando Wii, naviga su `WAD Manager`, e poi naviga sulla cartella `wad`.
-4. Quando `IOS31.wad` è in primo piano, premi +, poi fai lo stesso per gli altri WAD.
-5. Dopo averli installati con successo, premi il pulsante HOME per uscire e tornare all'Homebrew Channel
+4. Highlight all WADs with `RiiConnect24` in the name, and press + to select them. When all of them are selected, press A twice to install the WADs.
+5. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
 ##### Section III - Patching 43db for 16:9 (optional)
 
@@ -69,7 +69,7 @@ If you install a theme, you will have to run the ww-43db-patcher once more
 
 After following the above sections, you're almost able to utilize RiiConnect24 on your Wii U. You just need to perform the following steps **after every vWii reboot**.
 
-1. On the vWii's **Wii Menu**, launch the **Homebrew Channel** and launch the **ConnectMii** homebrew application.
+1. On the vWii's **Wii Menu**, launch the **ConnectMii** channel.
 * Questo abiliterà le Connessioni Standby di WiiConnect24 richieste dai canali WiiConnect24.
 2. Launch the WiiConnect24 Channels
 * You should now be able to utilize all of the WiiConnect24 Channels you have installed!
@@ -79,7 +79,8 @@ The following RiiConnect24 services are **working** on the vWii:
 * Canale News
     * Questo canale è afflitto da problemi coi timestamp. L "Ultimo Aggiornato" ed i timestamp dell'articolo saranno sbagliati.
     * Anche i dati del banner non funzionano, tornando `Impossibile di ottenere i dati.`
-* Canale Nintendo
+* Forecast Channel
+* Nintendo Channel
 * Everybody Votes Channel
 * Check Mii Out Channel / Mii Contest Channel
 {: .notice--success}
