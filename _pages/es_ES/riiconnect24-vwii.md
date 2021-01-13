@@ -54,8 +54,8 @@ Usando el RiiConnect24 Patcher que has descargado en [los requisitos](#requisito
 1. Abre el Canal Homebrew
 2. Lanza Wii Mod Lite
 3. Usando la cruz de control en tu Wiimote, selecciona `WAD Manager` (Administrador de WADs), y luego abre la carpeta `wad`.
-4. Cuando `IOS31.wad` esté resaltado, oprime el botón +, y después haz lo mismo con el resto de WADs.
-5. Una vez que se hayan instalado correctamente, oprime el botón HOME para volver al Canal Homebrew
+4. Highlight all WADs with `RiiConnect24` in the name, and press + to select them. When all of them are selected, press A twice to install the WADs.
+5. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
 ##### Sección III - Aplicación de parches a 43db para 16: 9 (opcional)
 
@@ -69,7 +69,7 @@ Si instala un tema, tendrá que ejecutar ww-43db-patcher una vez más
 
 Después de seguir las secciones anteriores, casi podrá usar RiiConnect24 en su Wii U. Solo necesita realizar los siguientes pasos **después de cada reinicio de vWii**.
 
-1. En el **Menú de Wii** del vWii, lanzar el **Homebrew Channel** y lanzar el Aplicación de Homebrew del **ConnectMii**.
+1. On the vWii's **Wii Menu**, launch the **ConnectMii** channel.
 * Esto forzará la activación de los ajustes de WiiConnect24 y de la conexión en modo de espera que se desactivan cada vez que sales del vWii, y que son requeridos por los canales que usan WiiConnect24.
 2. Abre los canales de WiiConnect24
 * ¡Ahora debería poder utilizar todos los canales de WiiConnect24 que ha instalado!
@@ -79,9 +79,10 @@ Los siguientes servicios de RiiConnect24 son **funcionando** en el vWii:
 * Canal Noticias
     * Éste canal se ve afectado por el error de las fechas. La hora que aparece en "Actualizado hace" y las fechas de los arículos serán incorrectas.
     * Los encabezados en el banner no se mostrarán, apareciendo el error `No se han podido descargar las noticias.` en su lugar.
-* Canal Nintendo
-* Canal Opiniones
-* Canal Miirame
+* Canal de Clima
+* Nintendo Channel
+* Everybody Votes Channel
+* Check Mii Out Channel / Mii Contest Channel
 {: .notice--success}
 
 Los siguientes servicios de RiiConnect24 son **no funcionando** en el vWii:
