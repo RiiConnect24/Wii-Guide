@@ -137,7 +137,7 @@ for i in "${dependencies[@]}"; do
     [[ -z "$(command -v "$i")" ]] && missing+=("$i")
 done
 for i in "${missing[@]}"; do
-    [[ -n $pm ]] && printf "\n* %s is missing! Attempting to install using detected package manager (you may be prompted for your password)...\n" "$i" | fold -s -w "$(tput cols)" && $sudo0 $pm $(indep $i) || ex "* $i is missing! Please install it using your preferred package manager."
+    [[ -n $pm ]] && printf "\n* %s is missing! Attempting to install using detected package manager (you may be prompted for your password)...\n" "$i" | fold -s -w "$(tput cols)" && $sudo0 $pmi $(indep $i) || ex "* $i is missing! Please install it using your preferred package manager."
 done; unset i
 
 ## detect init system
