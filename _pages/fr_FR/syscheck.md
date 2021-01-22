@@ -12,7 +12,7 @@ A SysCheck lists all the IOS and cIOS that are on your Wii, along with some info
 #### Qu’est-ce que vous avez besoin
 
 * Une carte SD ou une clé USB
-* [SysCheck HacksDen Edition](http://www.hacksden.com/downloads.php?do=file&id=149)
+* [SysCheck HacksDen Edition](/assets/files/SysCheckHDE.zip)
 
 #### Instructions
 ##### Section I - Téléchargement / Installation
