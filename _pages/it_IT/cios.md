@@ -8,7 +8,7 @@ Questo tutorial ti dirà come installare cIOS (Custom IOS). E' necessario se si 
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-If you have a Wii mini, install [this cIOS](cios-mini) instead. Provare ad installare altri cIOS su una Wii mini non funzionerà.
+Se hai una Wii mini, installa [questo cIOS](cios-mini). Provare ad installare altri cIOS su una Wii mini non funzionerà.
 {: .notice--info}
 
 #### Di cosa hai bisogno
@@ -21,7 +21,7 @@ If you have a Wii mini, install [this cIOS](cios-mini) instead. Provare ad insta
 
 ##### Sezione 1 - Scaricare
 
-1. Download d2x cIOS Installer and extract it to the `apps` folder on your SD card or USB drive.
+1. Scarica d2x cIOS Installer ed estrailo nella cartella `apps` sulla tua scheda SD o chiavetta USB.
 1. Inserisci la tua scheda SD o chiavetta USB nella tua Wii, e carica d2x cIOS Installer dall'Homebrew Channel.
 
 ##### Sezione 2 - Installare
@@ -55,7 +55,7 @@ Select cIOS version: 65535
 
 ##### Opzioni una volta completate
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
+[Continua nel Homebrew Browser](hbb)<br> L'Homebrew Browser è un ottimo posto da cui prendere homebrew sulla Wii. This is optional to install.
 {: .notice--info}
 
 [Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
