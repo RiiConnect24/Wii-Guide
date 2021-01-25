@@ -12,7 +12,7 @@ If you need help for anything regarding this tutorial, please directly contact K
 {: .notice--info}
 
 ### What you need
-* A computer with Windows 7 or newer.
+* A computer with either Windows 7 or newer or any Unix based system
 * [.VFF-File-Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
 * [Dolphin](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
@@ -31,17 +31,17 @@ If you have Dolphin already installed, skip to Section II
 
 ##### Section II - Installing RiiConnect24.
 
-1. Run Install.bat that you downloaded [here](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
+1. Run `VFF-Downloader-for-Dolphin.bat` on Windows or `VFF-Downloader-for-Dolphin.sh` on Unix systems which you downloaded [here](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
 2. Press `1` and `ENTER` to start the program. ![Main Menu](/images/Dolphin_RC24/2.jpg)
 3. Proceed with the program configuration.
 4. It will ask you if you want to run the program manually every time you want to use RiiConnect24 on Dolphin or if you want to run it automatically on startup. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
 
 ![Run once](/images/Dolphin_RC24/4.jpg)
 
-If you choose to manually run it, keep Install.bat. There will be an option in menu to manually run it.
+If you choose to manually run it, keep `VFF-Downloader-for-Dolphin.bat`. There will be an option in menu to manually run it.
 {: .notice--info}
 
-If you choose to run it on startup, you don't have to do anything. If you want to uninstall it in the future, come back to Install.bat and choose 4th option - Manage startup VFF Downloader.
+If you choose to run it on startup, you don't have to do anything. If you want to uninstall it in the future, come back to `VFF-Downloader-for-Dolphin.bat` or `VFF-Downloader-for-Dolphin.sh` and choose - Manage startup VFF Downloader.
 {: .notice--info}
 
 ##### Section III - Finalizing installation
