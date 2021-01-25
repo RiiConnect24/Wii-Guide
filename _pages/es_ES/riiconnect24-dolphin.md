@@ -12,7 +12,7 @@ En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por f
 {: .notice--info}
 
 ### Requisitos
-* Una computadora con Windows 7 o superior.
+* A computer with either Windows 7 or newer or any Unix based system
 * [.VVF-Descargador-de-Archivos-por-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
 * [Dolphin](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
@@ -31,17 +31,17 @@ Si ya tienes Dolphin instalado, puedes omitir éste paso
 
 ##### Sección II - Instalando RiiConnect24.
 
-1. Ejecuta el archivo Install.bat que descargaste desde [aquí](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
+1. Run `VFF-Downloader-for-Dolphin.bat` on Windows or `VFF-Downloader-for-Dolphin.sh` on Unix systems which you downloaded [here](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
 2. Presiona `1` y después `ENTER` para iniciar el programa. ![Menú principal](/images/Dolphin_RC24/2.jpg)
 3. Procede con la configuración del programa.
 4. Te preguntará si deseas iniciar el programa manualmente cada vez que quieras usar RiiConnect24 en Dolphin o si prefieres que sea ejecutado en el arranque de forma automática. ![Elige cómo quieres iniciar el programa](/images/Dolphin_RC24/3.jpg)
 
 ![Run once (Ejecutar una vez)](/images/Dolphin_RC24/4.jpg)
 
-Independientemente de la opción que hayas elegido, conserva el archivo Install.bat. Habrá una opción en el menú para ejecutar el programa manualmente.
+If you choose to manually run it, keep `VFF-Downloader-for-Dolphin.bat`. Habrá una opción en el menú para ejecutar el programa manualmente.
 {: .notice--info}
 
-Si decidiste ejecutarlo en el arranque, entonces no tienes que hacer nada. Si quieres desinstalar el programa, vuelve a ejecutar Install.bat y elige la cuarta opción - Manage startup VFF Downloader (Administrar configuración de arranque del VFF Downloader).
+Si decidiste ejecutarlo en el arranque, entonces no tienes que hacer nada. If you want to uninstall it in the future, come back to `VFF-Downloader-for-Dolphin.bat` or `VFF-Downloader-for-Dolphin.sh` and choose - Manage startup VFF Downloader.
 {: .notice--info}
 
 ##### Sección III - Finalizando la instalación
