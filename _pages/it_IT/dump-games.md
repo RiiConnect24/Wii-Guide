@@ -2,10 +2,9 @@
 title: "Scaricare giochi Wii/Gamecube"
 ---
 
-Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
+Vuoi copiare un gioco GameCube o Wii da un disco? Ci sono due modi per farlo, a seconda degli strumenti che hai a disposizione.
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">To a PC over the network</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">Su scheda SD/drive USB</button><button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">Su un PC online</button>
 
 {% capture cleanripInstructions %}
 ### Cleanrip guide
