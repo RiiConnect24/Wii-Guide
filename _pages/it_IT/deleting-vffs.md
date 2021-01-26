@@ -9,7 +9,7 @@ Se hai bisogno di aiuto per questo tutorial, vai sul [server Discord RiiConnect2
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-If you're getting one of these errors (and not any other error), you should be able to fix the Channel by deleting your VFF.
+Se stai ottenendo uno di questi errori (solo uno tra questi), dovresti riuscire a ripristinare il canale eliminando la tuo VFF.
 
 + Discontinued Message
 + NEWS/FORE000001
@@ -21,7 +21,7 @@ If you're getting one of these errors (and not any other error), you should be a
 * Una scheda SD o chiavetta USB
 * [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
 
-#### Folder to Delete
+#### Cartelle da Eliminare
 
 + Forecast Channel
   + 48414645
@@ -35,14 +35,14 @@ If you're getting one of these errors (and not any other error), you should be a
 
 #### Istruzioni
 
-1. Launch WiiXplorer.
-2. Go to `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` and then select `Yes` for both dialogues that appear on the screen.
-3. Press Back until you have reached the file explorer screen.
-4. Select the tiny blue SD Card icon, then select `NAND`.
-5. Navigate to `title` -> `00010002` -> XXXXXXXX -> `data`, where XXXXXXXX is one of the folders above.
-6. Hover over `wc24dl.vff` and press the + button and select `Delete`.
+1. Avvia WiiXplorer.
+2. Vai su `Start`->`Settings`>`Boot Settings`>`Enable NAND write access` e poi rispondi `Yes` ad entrambi i dialoghi che appaiono.
+3. Premi Back finchè non hai raggiunto la schermata del File Explorer.
+4. Seleziona l'icona della piccolo scheda SD blu, poi seleziona `NAND`.
+5. Naviga in `title`->`00010002`->XXXXXXXX ->`data`, dove XXXXXXXX è una delle cartelle sopra.
+6. Vai su `wc24dl.vff` a premi il tasto + e seleziona `Delete`.
 
-Try to launch the Channel you were having trouble with now.
+Prova ad avviare il Canale con cui stavi avendo problemi adesso.
 
 [Ritorna alla pagina di installazione di RiiConnect24](riiConnect24)
 {: .notice--info}
