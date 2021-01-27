@@ -13,24 +13,24 @@ Se hai bisogno di aiuto per questo tutorial, unisciti a [il server Discord RiiCo
 
 ## Vari Patchers
 
-There are lots of different methods to connect to Wiimmfi. Choose the one that fits your needs best.
+Ci sono tanti metodi per connettersi a Wiimmfi. Scegli quello che ti sembra migliore.
 
-### Automatic patching from the Disc Channel using Priiloader
+### Patchare automaticamente dal Canale Disco usando Priiloader
 
 #### Di cosa hai bisogno
-- A Wii with Priiloader 0.9 or later installed
+- Una Wii con Priiloader 0.9 o più recente installato
 
-If you have an older version of Priiloader or don't have it installed, follow [this guide](priiloader) to update/install it.
+Se hai una versione più vecchia di Priiloader o non lo hai installato, segui [questa guida](priiloader) per aggiornarlo/installarlo.
 {: .notice--info}
 
 #### Istruzioni
-1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
-2. Go to `System Menu Hacks`.
-3. Make sure the `Wiimmfi patch v2` hack is enabled.
-4. Save settings and exit.
+1. Tieni premuto reset mentre accendi la tua Wii (se stai usando una Wii Mini, inserisci una tastiera USB e premi esc).
+2. Vai su `System Menu Hacks`.
+3. Assicurati che l'opzione `Wiimmfi patch v2` è abiliata.
+4. Salva le impostazioni ed esci.
 
-### Homebrew (Disc) Application
-MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
+### Applicazione (Disco) Hombrew
+MrBean35000vr (creatore di CTGP-R, un pacchetto contenuti per Mario Kart Wii) ha creato un Wiimmfi Disc Patcher che ti permette di inserire un disco e patchare il gioco al volo per usare Wimmfi, però deve attivarsi tutte le volte che avvii il disco.
 
 #### Di cosa hai bisogno
 * Una scheda SD o chiavetta USB
@@ -38,22 +38,22 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 
 #### Istruzioni
 
-1. Extract Auto Wiimmfi Patcher and put it in the `apps` folder on your SD card or USB drive.
-2. Insert your SD Card into your Wii, and launch Auto Wiimmfi Patcher from the Homebrew Channel.
-3. Insert your game disc (you can insert it before or after launch, it doesn't matter).
-4. Wait for patch to complete, and it'll begin!
+1. Estrai Auto Wiimmfi Patcher e mettilo nella cartella`apps` sulla tua scheda SD o sul tuo dispositivo USB.
+2. Inserisci la tua scheda SD dentro la tua Wii, e carica Auto Wiimmfi Patcher dall'Hombrew Channel.
+3. Inserisci il tuo disco (puoi anche inserirlo prima, non importa).
+4. Aspetta che la patch finisca, e inizierà!
 
-### No-Homebrew (Disc)
-Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
+### No-Hombrew (Disco)
+Grazie all'exploit str2hax di Fullmetal5, che Leseratte ha adattato al Wiimmfi Patcher, puoi avviare la patch Wiimmfi anche senza homebrew sulla tua Wii.
 
 #### Ciò di cui hai bisogno
 * Una Wii con connessione Internet
 
 #### Istruzioni
 
-1. Insert your game disc.
-2. Go into your internet connection settings and set the DNS server of your console to 95.217.77.151.
-3. Go to the WC24 contract information (third button after clicking on "Internet" in the settings).
+1. Inserisci il tuo disco.
+2. Vai sulla tua connessione internet ed imposta il server DNS della tua console a 95.217.77.151.
+3. Vai sulle informazione del contratto WC24 (terzo bottone dopo aver cliccato su "Internet" nelle impostazioni).
 4. Confirm that you do want to use WC24 and the shop channel
 5. The Wiimmfi patcher page should show up. If it doesn't, and you still see the default license agreement, your router might not be compatible with this method.
 6. Wait for about 1 minute and 30 seconds for the patcher to load
@@ -138,7 +138,7 @@ Getting a Wi-Fi network with WEP or no security is the hardest part, because DS 
 1. Go in the Nintendo DS Wi-Fi settings. This can be accessed inside the game you want to play online with.
 2. Set up a connection.
 3. Scrivi `164.132.44.106` come DNS primario.
-4. Type in `1.1.1.1` as the secondary DNS (if it gives you problems, try `8.8.8.8`).
+4. Imposta `1.1.1.1` come DNS secondario (se ti da dei problemi, prova `8.8.8.8`).
 5. Save your connection settings and perform a connection test. If it's successful, then you're ready to play.
 
 ### CTGP-R (Mario Kart Wii)
