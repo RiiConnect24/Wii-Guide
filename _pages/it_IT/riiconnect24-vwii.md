@@ -55,7 +55,7 @@ Usando il patcher RiiConnect24 che dovresti aver installato prima in [Di cosa ha
 2. Carica Wii Mod Lite
 3. Usando ul tuo +Control Pad sul telecomando Wii, naviga su `WAD Manager`, e poi naviga sulla cartella `wad`.
 4. Highlight all WADs with `RiiConnect24` in the name, and press + to select them. When all of them are selected, press A twice to install the WADs.
-5. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+5. Dopo che ha installato con successo, premi il tasto HOME per tornare all'Hombrew Channel.
 
 ##### Section III - Patching 43db for 16:9 (optional)
 
