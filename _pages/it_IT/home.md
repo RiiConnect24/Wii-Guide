@@ -26,12 +26,12 @@ Qui c'è una lista di funzioni incluse negli homebrew. Anche se queste non saran
 
 - Puoi patchare contenuti di un disco (permettendoti di modificare il gioco) usando [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
 - Installa temi sul tuo menù Wii usando [MeMenuify](themes).
-- Install a USB Loader like [WiiFlow](wiiflow) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
+- Installare un USB Loader come [WiiFlow](wiiflow) o [USB Loader GX](usbloadergx) per avviare tutti i tuoi titoli preferiti da un dispositivo di archiviazione USB e altro.
 - Effettua backup dei tuoi dischi con [CleanRip](/dump-games) ed installa giochi con [YABDM](dump-wads)
 - Effettua backup e ripristina dati di salvataggio con [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
 - Scarica nuove applicazioni homebrew con [Homebrew Broser](hbb)
 - Ripristina servizi online terminati, come [WiiConnect24](riiconnect24)&[Nintendo WFC services](wiimmfi).
-- Backup and restore copies of your Wii system memory (NAND) using [BootMii](bootmii).
+- Effettuare e ripristinare copie della memoria della tua Wii (NAND) usando [BootMii](bootmii).
 - Proteggi la tua Wii da brick usando [Priiloader](priiloader) e BootMii.
 - Trasforma la tua Wii in un video riproduttore con [WiiMC](http://www.wiimc.org/).
 
@@ -45,7 +45,7 @@ Ci sono anche altre buone risorse per moddare Wii e soluzioni a problemi vari:
 - [ModMii](http://xflak.com/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
-- [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...and of course, this site
+- [Wii Hacking Explained - da Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/)...ed ovviamente, questo sito
 
-For modding a Wii U, follow this guide:
+Per modificare una Wii U, segui questa guida:
 - [NH Wii U Guide](https://wiiu.hacks.guide)
