@@ -20,21 +20,21 @@ WiiLink24 and all of its services (such as Wii no Ma) are not controlled or oper
 
 ##### Section I - Patching Wii no Ma
 
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+[Se vuoi vedere istruzioni dettagliate su come installare WAD, clicca qui!](wiimodlite)
 {: .notice--info}
 
 1. Scarica i file richiesti basati sul tuo OS. On Windows, run `WiiLink24Patcher.bat`. On Unix systems, launch terminal and type sh, then drag the `WiiLink24Patcher.sh` into the terminal and press enter.
-2. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`.
+2. Premi 1 per scegliere "`Start`" e conferma la tua scelta premendo `ENTER`.
 3. For this guide, choose "`Install WiiLink24 on your Wii`"
 4. Select your region.
-5. Connect the SD Card or USB Drive to your computer and select "`1`".
-6. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
+5. Collega la scheda SD o il tuo dispositivo USB al computer e seleziona "`1`".
+6. Se il tuo dispositivo è stato rilevato con successo, seleziona "`1`". Se non lo è stato, assicurati che una cartella chiamata `apps` esista sulla tua scheda SD o sul tuo dispositivo USB e riprova.
 7. Be patient...
-8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
+8. Once it's done, you can safely close the patcher. Tutti i files sono pronti sulla tua scheda SD.
 9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLink24Patcher.bat` to your SD Card or USB Device.
-10. Put your SD card or USB drive in your Wii.
+10. Metti la tua scheda SD o il tuo dispositivo USB nella tua WIi.
 11. Carica l'Homebrew Channel sulla tua Wii.
-12. Launch Wii Mod Lite.
+12. Avvia Wii Mod Lite.
 13. Usando ul tuo +Control Pad sul telecomando Wii, naviga su `WAD Manager`, e poi naviga sulla cartella `wad`.
 14. Select the Wii no Ma WAD and press A to install.
 15. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
@@ -43,7 +43,7 @@ WiiLink24 and all of its services (such as Wii no Ma) are not controlled or oper
 [Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
 {: .notice--info}
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+[Continua a Wiimmfi](wiimmfi)<br> Wiimmfi ti permette di giocare a giochi online dopo la discontinuazione del Nintendo Wi-Fi Connction. This is optional to install.
 {: .notice--info}
 
 [Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
