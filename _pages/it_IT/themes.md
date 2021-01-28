@@ -9,10 +9,10 @@ Se hai bisogno di aiuto per questo tutorial, vai su [il server di Discors su Rii
 
 Stanco del noioso, piatto tema bianco del Wii Menu, e vuoi invece un tema figo? Questo tutorial ti aiuterà ad ottenere un nuovo tema per il tuo Wii Menu!
 
-In caso di blocco, [Installare Priiloader è necessario](priiloader). Installare anche BootMii (come Boot2 se hai già una Wii) Installare la protezione dai blocchi e seguire correttamente la guida ti tiene al sicuro da blocchi. NON CONTINUARE FINO A CHE NON HAI PRIILOADER E BOOTMII INSTALLATI!
+In caso di brick, [Installare Priiloader è necessario](priiloader). Installare anche BootMii (come Boot2 se hai già una Wii) Installare la protezione dai blocchi e seguire correttamente la guida ti tiene al sicuro da blocchi. NON CONTINUARE FINO A CHE NON HAI PRIILOADER E BOOTMII INSTALLATI!
 {: .notice--warning}
 
-Do not install a custom theme on vWii (Wii U), unless it has been formatted specifically for the vWii and your Wii U's region! Check out [this GBATemp post](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) for more on vWii themes.
+Non installare un tema personalizzato su un vWii (Wii U), almeno che esso non sia stato formattato specificamente per la regione del vWii e della Wii U! Guarda [questo post su GBATemp](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) per più informazioni sui temi sul vWii.
 {: .notice--warning}
 
 Per sicurezza, non usare altre versioni di MyMenuify fuorché quella indicata qui, MyMenuify Mod è il modo più sicuro per installare un tema.
@@ -32,15 +32,15 @@ Raccomandiamo [installa cIOS](cios) prima di continuare.
 * [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
 
-#### Theme Links
+#### Link per dei Temi
 
-To find themes to install, here are 3 resources:
+Per trovare dei temi da installare, ecco qui 3 siti:
 
 * [Google Drive repository](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
 * [RiiConnect24 themes page](https://rc24.xyz/goodies/themes/)
 * [This GBAtemp post](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
-MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
+ASSICURATI DI LEGGERE GLI AVVISI DI SICUREZZA SOPRA PRIMA DI CONTINUARE!
 {: .notice--warning}
 
 #### Istruzioni
