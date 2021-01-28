@@ -34,8 +34,6 @@ If you do not have an SD card, you cannot install or use BootMii, and therefore 
 You can always install it at a later date.
 {: .notice--warning}
 
-![BootMii Installation](/images/Wii/InstallBootMii.jpg)
-
 8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
 
 [Continue to making a NAND Backup using BootMii](bootmii)<br>
