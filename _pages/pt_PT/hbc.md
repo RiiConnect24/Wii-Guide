@@ -28,8 +28,6 @@ O Homebrew Channel é onde tu irás abrir aplicações homebrew. BootMii é um b
 If you do not have an SD card, you cannot install or use BootMii, and therefore will not be able utilize any of the mentioned benefits. You can always install it at a later date.
 {: .notice--warning}
 
-![BootMii Installation](/images/Wii/InstallBootMii.jpg)
-
 8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
 
 [Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
