@@ -48,6 +48,7 @@ sitemap: false
 + [Performing a SysCheck](syscheck)
 + [Removing RSSMii](rssmii-remove)
 + [RiiTag](riitag)
++ [CleanRip](cleanrip)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 + [WiiFlow](wiiflow)
