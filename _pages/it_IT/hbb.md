@@ -1,11 +1,11 @@
 ---
-title: "Open Shop Channel (Homebrew Browser)"
+title: "Canale Open Shop (Hombrew Browser)"
 ---
 
 Se hai bisogno di aiuto per questo tutorial, vai sul [server Discord RiiConnect24](https://discord.gg/b4Y7jfD) (raccomandato, solo in inglese) oppure [scrivi una e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
+Il canale [Open Shop](https://oscwii.org/) è dove puoi andare per ottenere apps hombrew. Questo è un progetto di rinascita per un'applicazione chiamata Hombrew Browser.
 
 #### Di cosa hai bisogno
 * Una scheda SD o dispositivo USB
@@ -16,14 +16,14 @@ The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew
 1. Estrai l'Homebrew Browser e mettilo nella cartella `apps` sulla tua scheda SD o dispositivo USB.
 2. Inserisci la tua scheda SD o dispositivo USB dentro la tua Wii. Ora puoi caricare l'Homebrew Browser dall'Homebrew Channel se vuoi.
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
+[Continua su RiiConnect24](riiconnect24)<br> RiiConnect24 ti permette di usare servizi di WiiConnect24 che sono discontinuati, come i canali News, Forecast, Everybody Votes, Nintendo, Check Mii Out e anche Wii Mail. L'installazione di RiiConnect24 è facoltativa.
 {: .notice--info}
 
 [Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
 {: .notice--info}
 
-Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
+Insieme al download di Hombrew Browser è inclusa una guida su come usare Hombrew Browser.
 {: .notice--info}
 
-You can swap out ShopChannel.ogg with loop.ogg to have the Homebrew Browser play the Wii Shop Channel music.
+Puoi scambiare il file ShopChannel.ogg con loop.ogg per riprodurre la musica del canale Wii Shop nell'Hombrew Browser.
 {: .notice--info}
