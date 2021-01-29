@@ -9,8 +9,8 @@ FlashHax est une faille fait pour la chaîne internet Wii. Pas comme les autres,
 
 #### Qu’est-ce que vous avez besoin
 
-- A Wii with an Internet connection
-- The Internet Channel
+- Une Wii avec une connexion Internet
+- La Chaîne Internet
 
 #### Instructions
 
