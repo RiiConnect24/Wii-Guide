@@ -45,22 +45,14 @@ Select cIOS version: 65535
 ![Install cIOS 250](/images/Wii/Install250.png)
 1. Once set, press A twice to install.
 1. When done installing, press A to return, and set the options to the following:
-```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 58
-Select cIOS slot: 251
-Select cIOS version: 65535
-```
-1. Once set, press A twice to install.
-1. When done installing, press A to return, and set the options to the following:
+<!-- TODO add extra image for 251 -->
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 38
-Select cIOS slot: 252
+Select cIOS slot: 251
 Select cIOS version: 65535
-```
-1. Once set, press A twice to install.
-1. When done installing, exit the installer.
+``` 
+1. Once set, press A twice again to install, and then exit once done.
 
 ##### Options once complete
 
