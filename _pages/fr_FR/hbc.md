@@ -15,23 +15,23 @@ La chaîne homebrew peut permettre de lancer des applications homebrew. BootMii 
 
 1. Vous allez voir un avertissement contre les arnaques. Attendez 30secondes pour voir le texte « Press 1 to continue » apparaître, pressez le bouton 1. ![Scam Screen](/images/Wii/ScamScreen.png)
 
-2. Quand l’installateur HackMii vas apparaître, vous pouvez installer la chaîne homebrew ainsi que BootMii.![Results](/images/Wii/Results.png)
+2. Quand l’installateur HackMii apparaît, vous pouvez installer la chaîne Homebrew ainsi que BootMii. ![Results](/images/Wii/Results.png)
 
 3. Appuyez sur `Continue`, choisissez `Homebrew Channel` puis sélectionnez `Install`.![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
 4. Appuyez sur `Continue` une fois l'installation terminée.![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
 
 5. Revenez en arrière et sélectionnez `BootMii`.
-6. If the main screen says you can install BootMii as boot2, do so. This offers the best possible brick protection you can have.
-7. If you cannot install BootMii as boot2 (like the Wii shown in step two), install BootMii as IOS instead. Bien que cela ne vous donne aucune protection de brique, vous pourrez toujours effectuer une sauvegarde NAND.
+6. Si l’écran vous dit que vous pouvez installer BootMii en tant que boot2, faites-le. Cela offre la meilleur protection anti-brick possible.
+7. Si vous ne pouvez pas installer BootMii en tant que boot2 (comme la Wii montrée dans l'étape deux), installez BootMii en tant que IOS à la place. Bien que cela ne vous donne aucune protection de brique, vous pourrez toujours effectuer une sauvegarde NAND.
 
-If you do not have an SD card, you cannot install or use BootMii, and therefore will not be able utilize any of the mentioned benefits. You can always install it at a later date.
+Si vous n'avez pas de carte SD, vous ne pouvez pas installer ou utiliser BootMii, et par conséquent vous ne profiterez d'aucun des bénéfices mentionnés. Vous pourrez toujours l'installer plus tard.
 {: .notice--warning}
 
 8. Une fois terminé, sélectionnez ` Continuer `, puis sélectionnez ` Quitter ` pour accéder au canal Homebrew
 
-[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
+[Continuer à faire une sauvegarde NAND à l'aide de BootMii](bootmii)<br> Faire une sauvegarde NAND avec BootMii à ce stade est fortement recommandé.
 {: .notice--info}
 
-If you couldn't install BootMii, continue to [installing Priiloader](priiloader) instead.
+Si vous ne pouvez installer BootMii, installez [Priiloader](priiloader) à la place.
 {: .notice--info}
