@@ -36,9 +36,9 @@ Raccomandiamo [installa cIOS](cios) prima di continuare.
 
 Per trovare dei temi da installare, ecco qui 3 siti:
 
-* [Google Drive repository](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
-* [RiiConnect24 themes page](https://rc24.xyz/goodies/themes/)
-* [This GBAtemp post](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
+* [Repository di Google Drive](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
+* [Pagina di temi RiiConnect24](https://rc24.xyz/goodies/themes/)
+* [Questo post di GBAtemp](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
 ASSICURATI DI LEGGERE GLI AVVISI DI SICUREZZA SOPRA PRIMA DI CONTINUARE!
 {: .notice--warning}
@@ -47,19 +47,19 @@ ASSICURATI DI LEGGERE GLI AVVISI DI SICUREZZA SOPRA PRIMA DI CONTINUARE!
 
 ##### Sezione I - Trovare un Tema
 
-* Peruse the resources to get themes, finding a theme you want to install. Some have YouTube videos to show what the theme looks like, unfortunately some of them are unavailable.
-* Once you found one you like, click the download link corresponding to your Wii Menu version. **It is very important to pick the right one to avoid bricks.**
-* You probably will pick the download link that says 4.X, that means the theme will work on version 4.1, 4.2 and 4.3 of the Wii Menu.
-* Some themes have different links for different regions, so pick the one corresponding to your Wii's region.
-* There are other resources for Wii Menu themes, but they might be in csm form (ready to install on the Wii). If the csm doesn't match the version and region of your Wii Menu, try to convert it to mym with ThemeMii Mod, and then convert it back to csm with the instructions here using the version and region of your Wii Menu.
-* Once you downloaded the theme you want and double-checked you got the right one, open up ThemeMii Mod.
+* Esamina le risorse per ottenere temi, trovando un tema che desideri installare. Qualcuno ha dei video su YouTube che mostrano come sono i temi visivamente, sfortunatamente alcuni di questi non sono disponibili.
+* Una volta che hai trovato quello che ti piace, clicca sul link di download che corrisponde alla versione del tuo Menu Wii. **È molto importante scegliere quello giusto per evitare bricks.**
+* Probababilmente scegliera il link di download che dice 4.X, significa che il tema funzionerà sulle versioni 4.1, 4.2 e 4.3 del Menu Wii.
+* Alcuni temi hanno link differenti per regioni differenti, quidni scegli quello che corrisponde alla regione della tua Wii.
+* Ci sono altre risorse per i temi del Menu Wii, ma potrebbero essere in formato csm (pronti per essere installati sulla Wii). Se il file csm non combacia con la versione e la regione del tuo Menu Wii, prova a convertirlo in formato mym con ThemeWii Mod, e poi riconvertilo a csm con le istruzioni spiegate qui usando la versione e la regione del tuo Menu Wii.
+* Una volta che hai scaricato il tema che vuoi e aver ricontrollato che hai scelto quello giusto, avvia ThemeMii Mod.
 
 ##### Sezione II - Costruire il tema
 
 1. Apparirà una finestra avvisandoti di installare temi solo se hai la protezione dal blocco. Se hai installato Priiloader e/o BootMii (vedi l’avviso all’inizio di questa guida), premi ok.
 2. Vai su `Strumenti` > `Download Base App` > Versione del tuo Wii Menu > Paese del tuo Wii Menu
-3. Apparirà una finestra chiedendoti di inserire un valore per creare una chiave. Enter in what it says, it will create a key that will be used to decrypt the Wii Menu contents from Nintendo's servers.
-4. A file selection box will ask you where to save the .app file (that is the Wii Menu content file it downloaded). Salvalo nella directory dove c’è ThemeMii.
+3. Apparirà una finestra chiedendoti di inserire un valore per creare una chiave. Inserisci ciò che dice, creerà una chiave che verrà usata per decriptare il contenuto del Menu Wii dai server della Nintendo.
+4. Una casella di selezione del file ti chiederà dove salvare il file .app (cioè il file di contenuto del Menu Wii che ha scaricato). Salvalo nella directory dove c’è ThemeMii.
 5. Vai su `Opzioni`>`Standard System Menu`> Versione del tuo Menù Wii > Regione del tuo Menù Wii
 6. Vai su `File` > `Open`, poi cerca dove si trova il tuo file .mym.
 7. Premi `Create csm`, poi cerca un posto dove salvare il tema. Dagli un momento per creare il tema.
@@ -70,9 +70,9 @@ ASSICURATI DI LEGGERE GLI AVVISI DI SICUREZZA SOPRA PRIMA DI CONTINUARE!
 1. Estrai MyMenuify Mod e mettilo nella cartella `apps` della tua scheda SD o dispositivo USB.
 2. Metti il file .csm che hai salvato nella cartella chiamata `modthemes` sulla tua scheda SD o dispositivo USB.
 3. Inserisci la tua scheda SD o dispositivo USB dentro la tua Wii.
-4. Launch MyMenuify Mod from the Homebrew Channel.
-5. After an introduction message, it will ask you what IOS you want to use in the app. If you have [installed cIOS](cios), use `IOS249`, or else use `IOS58`. If the former gives an `Exception DSI occurred!` error, press Reset on the Wii console, launch it again, then try `IOS250`.
-6. Highlight the theme you want to install, then press A. Give it a moment to install the theme, then press any button to go to the Wii Menu. Hopefully, the theme installed correctly.
+4. Avvia MyMenuify Mod dall'Hombrew Channel.
+5. Dopo un messaggio di inttroduzione, ti chiederà quale IOS vuoi usare nell'app. Se hai [installato i cIOS](cios), usa l'`IOS249`, oppure usa `IOS58`. Se il primo dà un errore chiamato `Exception DSI occurred!`, premi Reset sulla Wii, avvialo ancora, e prova `IOS250`.
+6. Evidenzia il tema che vuoi installare, poi premi A. Dagli un momento per installare il tema, poi premi ogni tasto per tornare al Menu Wii. Si spera che il tema è stato installato correttamente.
 
-Se ricevi l'errore "I file di sistema sono corrotti", non allammarti se hai installato Priiloader. Spegni la tua Wii, e accendila nuovamente mentre tieni premuto anche il pulsante RESET. Si aprirà il menù di BootMii, nel quale avrai una varietà di opzioni per aggiustare la tua Wii. One of the options is to launch the Homebrew Channel, where you can launch MyMenuify Mod and press a button to download and install the original Wii Menu theme.
+Se ricevi l'errore "I file di sistema sono corrotti", non allammarti se hai installato Priiloader. Spegni la tua Wii, e accendila nuovamente mentre tieni premuto anche il pulsante RESET. Si aprirà il menù di BootMii, nel quale avrai una varietà di opzioni per aggiustare la tua Wii. Una delle opzioni è di avviare l'Hombrew Channel, da cui puoi avviare MyMenuify Mod e premere un tasto per scaricare il tema originale del Menu Wii.
 {: .notice--info}
