@@ -11,7 +11,7 @@ LetterBomb est un exploit pour la Wii qui utilise une faille du Bureau Wii.
 
 #### Ce dont vous avez besoin
 - Une carte SD
-- A Wii on System Menu version 4.3
+- Une Wii avec la version 4.3 du menu Wii
 
 #### Instructions
 
