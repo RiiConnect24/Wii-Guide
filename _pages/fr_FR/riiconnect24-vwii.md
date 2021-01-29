@@ -1,5 +1,5 @@
 ---
-title: RiiConnect24 vWii Guide
+title: Guide RiiConnect24 vWii
 ---
 
 {% include toc title="Table des matières" %}
@@ -9,7 +9,7 @@ Si vous avez besoin d’aide par rapport au tutoriel, veuillez rejoindre [le ser
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-Guide to installing [RiiConnect24](https://rc24.xyz) on your vWii (Virtual Wii on Wii U) with: CMOC/MCC, Nintendo Channel, EVC and News Channel along with forced 4:3 aspect ratio patching.
+Guide pour installer [RiiConnect24](https://rc24.xyz) sur votre vWii (Wii virtuelle sur Wii U) avec : CMOC/MCC, Chaîne Nintendo, EVC et Chaîne Infos avec correction forcée du ratio d'aspect 4:3.
 
 Since certain features found in the original Wii are not present in the vWii, we can only partially utilize RiiConnect24. See [what's currently working](#whats-currently-working) for details.
 {: .notice--warning}
