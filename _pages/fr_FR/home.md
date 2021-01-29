@@ -26,12 +26,12 @@ Voici une liste de choses que vous pouvez faire avec. Bien que cette liste ne so
 
 - Patcher le contenu de disques de jeu (vous permettant de lancer des modifications de jeu) en utilisant [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
 - Installer des thèmes sur votre Menu Wii en utilisant [MyMenuify](themes).
-- Install a USB Loader like [WiiFlow](wiiflow) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
+- Installer un USB Loader comme [WiiFlow Lite](wiiflow) ou encore [USB Loader GX](usbloadergx) afin de pouvoir lancer tous vos jeux favoris depuis un périphérique de stockage USB.
 - Faire une sauvegarde de vos disques avec [CleanRip](/dump-games) ainsi que de vos jeux et chaînes installées avec [YABDM](dump-wads).
 - Sauvegarder et restaurer vos fichiers de sauvegarde grâce à [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/).
 - Télécharger de nouvelles application homebrew en utilisant le [Homebrew Browser](hbb).
 - Utiliser à nouveau des services en ligne abandonnés, tels que [WiiConnect 24](riiconnect24) ou la [CWF Nintendo](wiimmfi).
-- Backup and restore copies of your Wii system memory (NAND) using [BootMii](bootmii).
+- Sauvegarder et restaurer des copies de la mémoire système (NAND) de votre Wii, grâce à [BootMii](bootmii).
 - Protéger votre Wii d'éventuels bricks en utilisant [Priiloader](priiloader) et BootMii.
 - Transformer votre Wii en lecteur multimédia avec [WiiMC](http://www.wiimc.org/).
 
