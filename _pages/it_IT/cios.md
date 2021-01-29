@@ -55,7 +55,7 @@ Select cIOS version: 65535
 
 ##### Opzioni una volta completate
 
-[Continua nel Homebrew Browser](hbb)<br> L'Homebrew Browser è un ottimo posto da cui prendere homebrew sulla Wii. This is optional to install.
+[Continua nel Homebrew Browser](hbb)<br> L'Homebrew Browser è un ottimo posto da cui prendere homebrew sulla Wii. L'installazione di RiiConnect24 è facoltativa.
 {: .notice--info}
 
 [Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
