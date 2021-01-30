@@ -11,7 +11,7 @@ WiiLink24 et tous ses services (tels que Wii no Ma) ne sont ni contrôlés ni ex
 
 #### Ce dont vous aurez besoin
 
-* Une carte SD ou une clé USB
+* Une carte SD ou un périphérique USB
 * D’une Wii avec une connexion internet
 * A Windows or Unix based computer
 * [WiiLink24 Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
@@ -33,14 +33,14 @@ WiiLink24 et tous ses services (tels que Wii no Ma) ne sont ni contrôlés ni ex
 8. Once it's done, you can safely close the patcher. Tous les fichiers sont prêts sur votre carte SD.
 9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLink24Patcher.bat` to your SD Card or USB Device.
 10. Put your SD card or USB drive in your Wii.
-11. Lancez la Chaîne Homebrew sur votre Wii.
+11. Lancez Homebrew Channel sur votre Wii.
 12. Démarrer Wii Mod Lite.
 13. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 14. Select the Wii no Ma WAD and press A to install.
 15. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 16. Launch Wii no Ma and enjoy!
 
-[ Continuer vers RiiConnect24 ](riiconnect24) <br> RiiConnect24 vous permet d'utiliser les services interrompus de WiiConnect24, qui incluent la chaîne infos, la chaîne météo, la chaîne votes, la chaîne Nintendo et la chaîne Concours mii, ainsi que Wii Mail. L'installation est facultative.
+[ Continuer vers RiiConnect24 ](riiconnect24) <br> RiiConnect24 vous permet d'utiliser les services interrompus de WiiConnect24, qui incluent la Chaîne Infos, la Chaîne Météo, la Chaîne Votes, la Chaîne Nintendo et la Chaîne Concours Mii, ainsi que Wii Mail. L'installation est facultative.
 {: .notice--info}
 
 [Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. L'installation est facultative.
