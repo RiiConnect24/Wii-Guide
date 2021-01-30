@@ -16,13 +16,13 @@ Esta guía también está disponible en otros idiomas. (Traducción al Español 
 
 ## ¿Qué es “homebrew”?
 
-[**Homebrew**](https://es.wikipedia.org/wiki/Homebrew) se refiere a software no oficial, como juegos, herramientas, emuladores, entre otros.
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to software not authorized by Nintendo. This can include games, utilities, emulators and much more!
 
-Puedes ejecutar homebrew en tu Nintendo Wii de forma gratuita usando uno de los múltiples exploits disponibles.
+Running homebrew on your Nintendo Wii can be done for free by exploiting bugs in Wii's software. The modifications installed by following this guide will give you easy and persistent access to Wii homebrew.
 
 ## ¿Qué puedo hacer con homebrew?
 
-La siguiente es una lista de cosas que puedes hacer con homebrew. Estas no son las únicas cosas que puedes hacer con homebrew, sin embargo, te dará una idea de lo que puedes hacer. Nuestra guía te ayudará a modificar tu consola de forma sencilla y segura.
+Here's a list of things you can do using homebrew. While this list is by no means totally comprehensive, you should have a good idea of what is possible, and the guide will help you easily get started.
 
 - Parchear contenido de juegos físicos (permitiéndote así cargar modificaciones personalizadas) usando [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
 - Instalar temas a tu Menú de Wii usando [MyMenuify](themes).
