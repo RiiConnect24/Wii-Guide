@@ -33,7 +33,7 @@ If you have an older version of Priiloader or don't have it installed, follow [t
 MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
 
 #### Qu’est-ce que vous avez besoin
-* Une carte SD ou une clé USB
+* Une carte SD ou un périphérique USB
 * [Auto Wiimmfi Patcher](/assets/files/autowiimmfipatcher-0.6.zip)
 
 #### Instructions
@@ -106,7 +106,7 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
 #### Qu’est-ce que vous avez besoin
 
-- Une carte SD ou une clé USB
+- Une carte SD ou un périphérique USB
 - Mario Kart Wii Competition Patcher
    - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
    - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
