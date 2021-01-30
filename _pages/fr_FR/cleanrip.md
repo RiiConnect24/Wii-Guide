@@ -2,31 +2,31 @@
 title: "CleanRip"
 ---
 
-{% include toc title="Table des contenues" %}
+{% include toc title="Table des matières" %}
 
 Si vous avez besoin d’aide par rapport au tutoriel, veuillez rejoindre [le serveur Discord de RiiConnect24](https://discord.gg/b4Y7jfD) (recommandé) ou [envoyez un e-mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Voulez-vous faire une sauvegarde de jeux? Ce tutoriel vas vous expliquer comment utiliser CleanRip.
+Voulez-vous créer une sauvegarde de vos jeux ? Ce tutoriel vous expliquera comment utiliser CleanRip.
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-#### Éléments requis
+#### Ce dont vous avez besoin
 
-* Une carte SD ou clef USB avec au moins de 4.7Go d'espace libre
+* Une carte SD ou un périphérique USB avec au moins de 4.7 Go d'espace libre
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
 #### Instructions
 
 ##### Section 1 - Téléchargement/installation
 
-1. Extrayez CleanRip et mettez-le dans le dossier `apps` sur votre carte SD ou votre clé USB.
-1. Insérez votre carte SD dans votre Wii et lancez CleanRip depuis la chaîne Homebrew.
+1. Décompressez CleanRip et mettez-le dans le dossier `apps` sur votre carte SD ou votre périphérique USB.
+1. Insérez votre carte SD dans votre Wii et lancez CleanRip depuis le Homebrew Channel.
 
-##### Section II - Ripping
+##### Section II - Extraction
 
-1. Sélectionnez votre appareil sur lequel vous déposerez le jeu - votre clé USB ou votre carte SD. ![Type d'appareil](/images/CleanRip/2.png)
-1. Sur cet écran, il vous demande si vous souhaitez télécharger un fichier avec les sommes de contrôle du jeu afin que vous puissiez vérifier que le vidage créé est une copie 1: 1 du disque. C'est à vous de choisir de dire ` Oui ` ou ` Non ` pour télécharger ce fichier. ![DAT](/images/CleanRip/3.png)
-1. Maintenant, insérez le jeu que vous souhaitez vider. ![DVD](/images/CleanRip/4.png) ![Initialisation du disque](/images/CleanRip/5.png)
-1. Définissez-le comme indiqué sur l'écran ci-dessous. <br> Si vous savez que vous videz un jeu qui utilise un disque double couche, comme ` Super Smash Bros. Brawl` ou `Metroid: Other M`, définir `Dual Layer` sur `Yes`. ![Paramètres](/images/CleanRip/6.png)
-1. CleanRip va maintenant vider votre jeu. Cela peut prendre un certain temps, car il videra le contenu complet du disque de 4,7 Go (9,4 pour les disques double couche). ![Copier](/images/CleanRip/7.png)
+1. Sélectionnez l'appareil sur lequel vous allez extraire le jeu - votre périphérique USB ou votre carte SD. ![Device type](/images/CleanRip/2.png)
+1. Sur cet écran, on vous demandera si vous voulez télécharger un fichier avec les sommes de contrôle du jeu pour vérifier si l'extraction créée est une copie conforme du disque. Vous pouvez choisir `Oui` ou `Non`pour télécharger le fichier. ![DAT](/images/CleanRip/3.png)
+1. Maintenant insérez le jeu que vous voulez copier. ![DVD](/images/CleanRip/4.png) ![Initialising Disc](/images/CleanRip/5.png)
+1. Réglez les options comme indiqué sur l'écran ci-dessous. Si vous savez que vous copiez un jeu qui utilise un disque double couche, comme `Super Smash Bros Brawl` ou `Metroid: Other M`, choisissez `Yes` sur le paramètre `Dual Layer`. ![Settings](/images/CleanRip/6.png)
+1. CleanRip va maintenant extraire votre jeu. Cela peut prendre un certain temps, car le contenu complet du disque de 4,7 Go (9,4 pour les disques double couche) sera copié. ![Copying](/images/CleanRip/7.png)
