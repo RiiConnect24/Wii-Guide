@@ -27,7 +27,7 @@ Debido a que algunas funciones encontradas en el Wii original no están presente
 * Una computadora o dispositivo móvil con conexión a Internet y que pueda leer tarjetas SD.
 * Una tarjeta SD de por lo menos 2GB formateada como FAT32. Las tarjetas SDXC formateadas como FAT32 también pueden funcionar.
 * Una consola Wii U que sea capaz de lanzar el Homebrew Launcher (ya sea mediante el exploit del navegador de Internet, Haxchi o Coldboot Haxchi). **Si tu Wii U no está modificado, por favor sigue[esta guía](https://wiiuguide.xyz), así como también la [guía de modificación de vWii](https://wiiuguide.xyz/#/vwii-modding) y después regresa a esta guía.**
-* [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases) (de momento sólo disponible para Windows)
+* [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 Después de seguir la guía anteriormente mencionada, deberías de tener:
 * Un respaldo de la NAND de tu vWii y sus respectivas claves (¡¡guarda estos archivos en un lugar seguro!!)
@@ -38,15 +38,16 @@ Después de seguir la guía anteriormente mencionada, deberías de tener:
 
 #### Instrucciones
 
-Si usas Linux o macOS en tu PC, o si vas a usar un dispositivo móvil, por favor sigue la [guía manual](https://pad.snopyta.org/s/rJ2N0B1XU) para instalar RiiConnect24. RiiConnect24 Patcher de momento sólo está disponible para Windows. El resultado final será el mismo sin importar el método que hayas usado.
+If you use cannot use the patcher, please [follow the manual guide](https://pad.snopyta.org/s/rJ2N0B1XU), to install RiiConnect24. The end result is the same regardless of the method followed.
 {: .notice--info}
 
 ##### Sección I - Ejecutando el parche
 
 Usando el RiiConnect24 Patcher que has descargado en [los requisitos](#requisitos), estarás descargando y parcheando el IOS 31, así como los canales Noticias, Opiniones, Nintendo y Miirame para poder usarlos en tu vWii.
 
-1. Ejecuta el archivo `RiiConnect24Patcher.bat` en tu PC y sigue las instrucciones en pantalla.
-2. Asegúrate de tener tres carpetas nuevas después de haber ejecutado el parche. Estarán en la misma carpeta donde se encuentra `RiiConnect24Patcher.bat` y en tu tarjeta SD (esto último sólo si elegiste copiar los archivos automáticamente a la tarjeta SD).
+1. Run `RiiConnect24Patcher.bat` on Windows or `RiiConnect24Patcher.sh` on Unix systems by typing bash then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this `bash RiiConnect24Patcher.sh`. Follow the on screen instructions
+
+2. Confirm that after running through the patcher, you have 3 folders. They will be in the same folder where `RiiConnect24Patcher.bat/sh` is and on your SD Card (of course, only if you selected an option in the patcher to do so).
    - Si el parche no ha copiado los archivos a la tarjeta SD, por favor copia las tres carpetas anteriormente mencionadas a la raíz de tu tarjeta SD.
 
 ##### Sección II - Instalando los WADs parcheados
