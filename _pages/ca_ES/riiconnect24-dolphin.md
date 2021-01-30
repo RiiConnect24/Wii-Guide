@@ -46,7 +46,7 @@ If you choose to run it on startup, you don't have to do anything. If you want t
 
 ##### Section III - Finalizing installation
 
-1. Run RiiConnect24Patcher.bat that you downloaded [here](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+1. On Windows run the `RiiConnect24Patcher.bat` or run the `RiiConnect24Patcher.sh` if you are on a Unix system that you downloaded [here](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 2. Start the patcher, select `Install RiiConnect24`. ![Select Custom](/images/Dolphin_RC24/5.jpg)
 3. Select `Custom`. ![Select Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
 4. Press `1` to select your region and only enable 5th option. Press `6` to start patching.
