@@ -59,7 +59,7 @@ sitemap: faux
 
 **Site**
 + [Home](/)
-+ [Pour débuter](Commencer)
++ [Commencer](Commencer)
 + [FAQ](faq)
 + [Donations](donations)
 {% endcapture %}
