@@ -12,7 +12,7 @@ Se hai bisogno di qualcosa riguardo questo tutorial, per favore contatta diretta
 {: .notice--info}
 
 ### Di cosa hai bisogno
-* A computer with either Windows 7 or newer or any Unix based system
+* Un computer con Windows 7 o più recente oppure un sistema operativo basato su Unix
 * [.VFF-File_Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
 * [Dolphin](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
@@ -31,27 +31,27 @@ Se hai Dolphin già installato salta alla sezione 2
 
 ##### Sezione 2 - Installare RiiConnect24.
 
-1. Run `VFF-Downloader-for-Dolphin.bat` on Windows or `VFF-Downloader-for-Dolphin.sh` on Unix systems which you downloaded [here](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
+1. Avvia `VFF-Downloader-for-Dolphin.bat` su Windows oppure `VFF-Downloader-for-Dolphin.sh` su un sistema Unix che hai scaricato [qui](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
 2. Premi `1` e `INVIO` per caricare il programma. ![Menù Principale](/images/Dolphin_RC24/2.jpg)
 3. Procedi con la configurazione del programma.
 4. Ti chiederà se vuoi caricare il programma manualmente ogni volta che vuoi usare RiiConnect24 su Dolphin o vuoi caricarlo all'avvio automaticamente. ![Scegli come caricare il programma](/images/Dolphin_RC24/3.jpg)
 
-![Carica una volta](/images/Dolphin_RC24/4.jpg)
+![Avvia una volta](/images/Dolphin_RC24/4.jpg)
 
-If you choose to manually run it, keep `VFF-Downloader-for-Dolphin.bat`. Così ci sarà un'opzione per caricarlo manualmente.
+Se scegli di avviarlo manualmente, tieni `VFF-Downloader-for-Dolphin.bat`. Così ci sarà un'opzione per avviarlo manualmente.
 {: .notice--info}
 
-Se scegli di caricarlo all'avvio, non devi fare niente. If you want to uninstall it in the future, come back to `VFF-Downloader-for-Dolphin.bat` or `VFF-Downloader-for-Dolphin.sh` and choose - Manage startup VFF Downloader.
+Se scegli di caricarlo all'avvio, non devi fare niente. Se vuoi disinstallarlo in futuro, torna su `VFF-Downloader-for-Dolphin.bat` o `VFF-Downloader-for-Dolphin.sh` e scegli - Manage startup VFF Downloader.
 {: .notice--info}
 
 ##### Sezione 3 - Finalizzare l'installazione
 
-1. Carica RiiConnect24Patcher.bat che hai scaricato da [qui](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+1. Su Windows avvia il `RiiConnect24Patcher.bat` oppure avvia il `RiiConnect24Patcher.sh` se sei su un sistema Unix che hai scaricato [qui](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 2. Carica il patcher, seleziona `Installa RiiConnect24`. ![Seleziona Custom](/images/Dolphin_RC24/5.jpg)
 3. Seleziona `Custom`. ![Seleziona Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
 4. Premi `1` per selezionare la tua regione ed abilitare solo la 5° opzione. Premi `6` per iniziare a patchare.
 5. Una volta fatto, ci sarà un file `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` oppure `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` in una cartella WAD accanto a RiiConnect24Patcher.bat
-6. In Dolphin, press `Tools` and then `Install WAD`, and select the `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
+6. In Dolphin, premi `Tools` e poi `Install WAD`, e seleziona il `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` oppure ` Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
 
-E fine! Unfortunately, Nintendo Channel and Wii Mail don't work in Dolphin yet.
+E hai finito! Sfortunatamente, il Canale Nintendo e Wii Mail non funzionano ancora su Dolphin.
 {: .notice--info}
