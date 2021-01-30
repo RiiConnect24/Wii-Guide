@@ -46,7 +46,7 @@ Si decidiste ejecutarlo en el arranque, entonces no tienes que hacer nada. If yo
 
 ##### Sección III - Finalizando la instalación
 
-1. Ejecuta el archivo RiiConnect24Patcher.bat que descargaste desde [aquí](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+1. On Windows run the `RiiConnect24Patcher.bat` or run the `RiiConnect24Patcher.sh` if you are on a Unix system that you downloaded [here](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 2. Inicia el programa y selecciona `Install RiiConnect24` (Instalar RiiConnect24). ![Selecciona Custom](/images/Dolphin_RC24/5.jpg)
 3. Selecciona `Custom` (Instalación personalizada). ![Selecciona <code>Check Mii Out Channel</code> (Canal Miirame)](/images/Dolphin_RC24/6.jpg)
 4. Presiona `1` para elegir la región de tu consola y sólo marca la quinta opción. Presiona `6` para comenzar el proceso.
