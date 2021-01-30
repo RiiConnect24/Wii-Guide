@@ -13,24 +13,24 @@ En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por f
 
 ## Diferentes métodos para conectarse
 
-There are lots of different methods to connect to Wiimmfi. Choose the one that fits your needs best.
+Hay muchos métodos diferentes para conectarte a la Wiimmfi. Elige la que satisfaga tus necesidades.
 
-### Automatic patching from the Disc Channel using Priiloader
+### Parcheo automático desde el Canal Disco usando Priiloader
 
 #### Requisitos
-- A Wii with Priiloader 0.9 or later installed
+- Una Wii con Priiloader 0.9 o posterior instalado
 
-If you have an older version of Priiloader or don't have it installed, follow [this guide](priiloader) to update/install it.
+Si tienes una versión antigua de Priiloader o no lo tienes instalado, sigue [esta guía](priiloader) para actualizarlo/instalarlo.
 {: .notice--info}
 
 #### Instrucciones
-1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
+1. Sostén RESET cuando enciendas tu Wii (si tienes una Wii mini, conecta un teclado USB y sostén escape).
 2. Ve a `System Menu Hacks`.
-3. Make sure the `Wiimmfi patch v2` hack is enabled.
-4. Save settings and exit.
+3. Asegúrate de que `Wiimmfi patch v2` está habilitado.
+4. Guarda cambios y sal.
 
-### Homebrew (Disc) Application
-MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
+### Aplicación Hombrew para Discos
+MrBean35000vr (creador de CTGP-R, un paquete de contenidos para Mario Kart Wii) creó un Parcheador de Discos para Wiimmfi que te permite insertar un disco y parchear el juego al vuelo para el uso con Wiimmfi, pese a que debe ser ejecutado cada vez que inicies el disco.
 
 #### Requisitos
 * Una tarjeta SD o unidad USB
@@ -38,35 +38,35 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 
 #### Instrucciones
 
-1. Extract Auto Wiimmfi Patcher and put it in the `apps` folder on your SD card or USB drive.
-2. Insert your SD Card into your Wii, and launch Auto Wiimmfi Patcher from the Homebrew Channel.
-3. Insert your game disc (you can insert it before or after launch, it doesn't matter).
-4. Wait for patch to complete, and it'll begin!
+1. Extrae Auto Wiimmfi Patcher y ponlo en tu carpeta `apps` en tu tarjeta SD o tu unidad USB.
+2. Inserta tu tarjeta SD en tu Wii, y lanza Auto Wiimmfi Patcher desde el Canal Homebrew.
+3. Inserta tu disco de juego (puedes insertarlo antes o después de lanzar la aplicación, no importa el orden).
+4. Espera por el parche para completar, y empezará!
 
-### No-Homebrew (Disc)
-Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
+### Sin Homebrew (Disco)
+Gracias al exploit str2hax de Fullmetal5, quien Leseratte pudo adaptar para el parcheador de Wiimmfi, tú puedes correr el parche de Wiimmfi sin tener homebrew en tu Wii.
 
 #### Requisitos
 * Un Wii con conexión a Internet
 
 #### Instrucciones
 
-1. Insert your game disc.
-2. Go into your internet connection settings and set the DNS server of your console to 95.217.77.151.
-3. Go to the WC24 contract information (third button after clicking on "Internet" in the settings).
-4. Confirm that you do want to use WC24 and the shop channel
-5. The Wiimmfi patcher page should show up. If it doesn't, and you still see the default license agreement, your router might not be compatible with this method.
-6. Wait for about 1 minute and 30 seconds for the patcher to load
-7. The game should now start with the Wiimmfi patch included
+1. Inserta tu disco de juego.
+2. Ve a la configuración de internet y pon el servidor DNS de tu consola a 95.217.77.151.
+3. Ve a la información de contrato de WiiConnect24 (tercer botón después de seleccionar "internet" en la configuración).
+4. Confirma de que quieres usar WiiConnect24 y el Canal Tienda Wii.
+5. La página del parcheador de Wiimmfi debería aparecer. Si no lo hace, y todavía puedes observar el EULA original, tu enrutador posiblemente no es compatible con este método.
+6. Espera entre 1 minuto y 30 segundos por el parcheador para que cargue.
+7. El juego debería empezar con el parche de Wiimmfi incluido.
 
-### Automatic patching using a USB Loader
-If you are already using USB Loader GX, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
+### Parcheo automático usando un USB Loader
+Si ya estás usando USB Loader GX, intenta actualizar a la versión más reciente. Entonces, debería haber una opción de "servidor privado" (ambos en la configuración global del loader y en las opciones del juego) la cual puedes asignar a "Wiimmfi" para que el USB Loader parchee automáticamente cada juego que quieras que funcione con Wiimmfi.
 
-### ISO Patching
-You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
+### Parcheo de ISOs
+Tú posiblemente no quieras lanzar un parcheador cada vez que quieras jugar en la Wiimmfi, y probablemente ya uses un USB Loader. Para ello, Parcheadores de ISOs fueron creados, algunos para juegos específicos.
 
 #### Requisitos
-- Your copy of your game (WBFS, ISO, cISO, and other forms that a Wii can use are supported).
+- Tu copia de tu juego (WBFS, ISO, cISO, y otros archivos que una Wii puede usar son soportadas.
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (sólo para Windows)  
 **o**
 - Wiimm's ISO Patcher (cross platform)
