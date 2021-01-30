@@ -12,7 +12,7 @@ Un SysCheck hace una lista de todos los IOS y cIOS que están instalados en tu c
 #### Requisitos
 
 * Una tarjeta SD o unidad USB
-* [SysCheck HacksDen Edición](/assets/files/SysCheckHDE.zip)
+* [SysCheck Edición HacksDen](/assets/files/SysCheckHDE.zip)
 
 #### Instrucciones
 ##### Section I - Descarga/instalación
