@@ -16,13 +16,13 @@ Questa guida è disponibile in altre lingue! Per cambiare lingua, premi l'icona 
 
 ## Cos'è un "homebrew"?
 
-Un [**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) è un software non ufficiale per la tua Wii. Ti permette di lanciare degli homebrew game e delle applicazioni, inclusi emulatori e strumenti vari.
+La parola [**Hombrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) si riferisce ad un qualsiasi software non autorizzato da Nintendo. Questo può includere giochi, applicazioni di utilità, emulatori e molto altro!
 
-Far girare Homebrew sulla tua Nintendo Wii è gratuito usando vari exploit.
+Puoi eseguire homebrew sulla tua Nintendo Wii gratuitamente sfruttando dei bug nel software della Wii. Le modifiche installate seguendo questa guida ti danno un accesso veloce e persistente agli homebrew della Wii.
 
 ## Cosa posso fare con un homebrew?
 
-Qui c'è una lista di funzioni incluse negli homebrew. Anche se queste non saranno tutte le cose che puoi fare con Homebrew, dovrebbe darti un'idea iniziale di ciò che puoi fare. La nostra guida ti aiuterà ad iniziare facilmente.
+Ecco una lista di cosa che puoi fare usando gli homebrew. Anche se questo elenco non è affatto completo, dovresti avere una buona idea di cosa è possibile fare e la guida ti aiuterà a iniziare facilmente.
 
 - Puoi patchare contenuti di un disco (permettendoti di modificare il gioco) usando [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
 - Installa temi sul tuo menù Wii usando [MeMenuify](themes).
@@ -48,4 +48,4 @@ Ci sono anche altre buone risorse per moddare Wii e soluzioni a problemi vari:
 - [Wii Hacking Explained - da Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/)...ed ovviamente, questo sito
 
 Per modificare una Wii U, segui questa guida:
-- [NH Wii U Guide](https://wiiu.hacks.guide)
+- [Guida NH Wii U](https://wiiu.hacks.guide)
