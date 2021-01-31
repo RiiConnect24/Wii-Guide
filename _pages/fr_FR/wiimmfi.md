@@ -47,7 +47,7 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
 
 #### Qu’est-ce que vous avez besoin
-* A Wii with an Internet connection
+* Une Wii avec une connexion Internet
 
 #### Instructions
 
