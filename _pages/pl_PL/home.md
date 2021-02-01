@@ -16,7 +16,7 @@ Ten poradnik jest również dostępny w innych językach! Aby zmienić język, n
 
 ## Czym jest "homebrew"?
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to software not authorized by Nintendo. This can include games, utilities, emulators and much more!
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) odnosi się do oprogramowania nieoficjalnego oraz niepodpisanego przez Nintendo. Odnosi się to do gier, narzędzi, emulatorów i innych rzeczy!
 
 Running homebrew on your Nintendo Wii can be done for free by exploiting bugs in Wii's software. The modifications installed by following this guide will give you easy and persistent access to Wii homebrew.
 
