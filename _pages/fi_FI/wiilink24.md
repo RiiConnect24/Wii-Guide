@@ -9,14 +9,14 @@ WiiLink24 and all of its services (such as Wii no Ma) are not controlled or oper
 
 [WiiLink24](https://wiilink24.com/) lets you use the Japanese-exclusive Wii no Ma channel, and in the future will let you use the Digicam Print Channel and the Demae Channel again.
 
-#### What you need
+#### Mitä tarvitset
 
-* An SD card or USB drive
-* A Wii with an Internet connection
-* A Windows or Unix based computer
+* SD-kortti tai USB-asema
+* Wii internetyhteydellä
+* Windows- tai Unix-pohjainen tietokone
 * [WiiLink24 Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
-#### Instructions
+#### Ohjeet
 
 ##### Section I - Patching Wii no Ma
 
@@ -33,7 +33,7 @@ WiiLink24 and all of its services (such as Wii no Ma) are not controlled or oper
 8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
 9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLink24Patcher.bat` to your SD Card or USB Device.
 10. Put your SD card or USB drive in your Wii.
-11. Launch the Homebrew Channel on your Wii.
+11. Käynnistä Homebrew Channel Wii:lläsi.
 12. Launch Wii Mod Lite.
 13. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 14. Select the Wii no Ma WAD and press A to install.
