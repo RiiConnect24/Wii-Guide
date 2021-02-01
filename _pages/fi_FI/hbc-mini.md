@@ -9,16 +9,16 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 ![HBC Logo](/images/hbc.png)
 
-The Homebrew Channel is where you will go to launch homebrew applications.
+Homebrew Channel on se, mihin menet käynnistääksesi homebrew-sovelluksia.
 
-#### Instructions
-This page is **only** intended for users of the Wii mini. If you have a regular Wii, follow [this guide](hbc) instead.
+#### Ohjeet
+Tämä sivu on tarkoitettu **vain** Wii mini:n käyttäjille. Jos sinulla on tavallinen Wii, seuraa [tätä opasta](hbc).
 {: .notice--info}
 
 While it is possible to install BootMii on a Wii mini, you will need to solder an SD card slot.
 {: .notice--info}
 
-1. You will see a scam warning screen. Wait 30 seconds for the text "Press 1 to continue" to appear, then press 1. ![Scam Screen](/images/Wii/ScamScreen.png)
+1. Näet huijausvaroitusnäytön. Odota 30 sekuntia "Press 1 to continue"-tekstin ilmestymistä, sitten paina 1. ![Scam Screen](/images/Wii/ScamScreen.png)
 
 1. Press Continue, then select Install The Homebrew Channel, and press install. ![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
