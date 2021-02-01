@@ -14,7 +14,7 @@ Se hai una Wii mini, installa [questo cIOS](cios-mini). Provare ad installare al
 #### Di cosa hai bisogno
 
 * Una Wii con connessione Internet
-* An SD card or USB drive (ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not see the correct cIOS option)
+* Una scheda SD o un'unità USB (se stai utilizzando una scheda SD, assicurati che l'interruttore di blocco sia nella posizione di sblocco, altrimenti non vedrai l'opzione cIOS corretta)
 * [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
 #### Istruzioni
@@ -51,7 +51,7 @@ Select cIOS base: 38
 Select cIOS slot: 251
 Select cIOS version: 65535
 ```
-1. Once set, press A twice again to install, and then exit once done.
+1. Impostato tutto correttamente, premere A due volte per installare, quando a terminato poi uscire.
 
 ##### Opzioni una volta completate
 
