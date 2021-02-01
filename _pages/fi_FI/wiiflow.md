@@ -11,10 +11,10 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that's used to play games from a USB drive or SD card.
 
-#### What you need
+#### Mitä tarvitset
 
-* A Wii
-* A USB drive and/or SD card
+* Wii
+* USB-asema ja/tai SD-kortti
 * [WiiFlow](https://github.com/Fledge68/WiiFlow_Lite/releases)
 
 Make sure you have installed [cIOS](/cios) before following this!
@@ -35,9 +35,9 @@ Unlike USB Loader GX, WiiFlow can load games of an SD card.
 Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Do not format it as other types such as extFS or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
-#### Instructions
+#### Ohjeet
 
-##### Downloading
+##### Lataaminen
 
 1. Extract WiiFlow and put the `apps` and `WiiFlow` folders on your USB drive or SD card.
 2. Insert your USB drive, and SD card if you're using one, into your Wii and launch WiiFlow from the Homebrew Channel.
