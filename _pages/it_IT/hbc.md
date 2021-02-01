@@ -28,12 +28,12 @@ L'Homebrew Channel è dove caricherai le applicazioni homebrew. BootMii è un pe
 Se non hai una scheda SD, non puoi installare BootMii, e quindi non potrai avere nessuno dei benefici citati sopra. Puoi sempre installarlo in un secondo momento.
 {: .notice--warning}
 
-![BootMii Installation](/images/Wii/InstallBootMii.jpg)
+![Installazione BootMii](/images/Wii/InstallBootMii.jpg)
 
 8. Una volta finito, seleziona `Continue`, e poi seleziona `Exit` per andare nell'Hombrew Channel
 
-[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
+[Continua con la creazione di una copia della NAND usando BootMii](bootmii)<br> La creazione di una copia della NAND con BootMii a questo punto è altamente consigliato.
 {: .notice--info}
 
-If you couldn't install BootMii, continue to [installing Priiloader](priiloader) instead.
+Se non hai potuto installare BootMii, continua invece per [Installare Priiloader](priiloader).
 {: .notice--info}
