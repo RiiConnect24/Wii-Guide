@@ -1,5 +1,5 @@
 ---
-title: "Homebrew Channel and BootMii Installation"
+title: "Homebrew Channel:n ja BootMii:n asentaminen"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -9,11 +9,11 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 ![HBC Logo](/images/hbc.png)
 
-The Homebrew Channel is where you will go to launch homebrew applications. BootMii is a piece of software that can backup and restore your Wii's NAND storage, and if installed in boot2, provides brick protection.
+Homebrew Channel on se, mihin menet käynnistääksesi homebrew-sovelluksia. BootMii on ohjelma, joka voi varmuuskopioida ja palauttaa Wii:si NAND-tallennustilan, ja jos asennettuna boot2:een, antaa suojan tiiliskiveksi muuttumista vastaan.
 
-#### Instructions
+#### Ohjeet
 
-1. You will see a scam warning screen. Wait 30 seconds for the text "Press 1 to continue" to appear, then press 1. ![Scam Screen](/images/Wii/ScamScreen.png)
+1. Näet huijausvaroitusnäytön. Odota 30 sekuntia "Press 1 to continue"-tekstin ilmestymistä, sitten paina 1. ![Scam Screen](/images/Wii/ScamScreen.png)
 
 2. When at the HackMii installer, you are able to install the Homebrew Channel and BootMii. ![Results](/images/Wii/Results.png)
 
