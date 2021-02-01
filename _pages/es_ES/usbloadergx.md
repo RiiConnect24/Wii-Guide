@@ -23,10 +23,10 @@ Esta es una guía de inicio rápido sobre cómo usar USB Loader GX, un popular c
 Te recomendamos copiar los juegos con [ Wii Backup Manager ](/wiibackupmanager) si usas Windows, o [ Witgui ](https://desairem.com/wordpress/category/witgui-download/) si usas macOS.
 {: .notice--info}
 
-If you are not copying games using Wii Backup Manager or Witgui, make a folder on the root of the USB drive named "wbfs" and put the games in there.
+Si no estas copiando juegos con Wii Backup Manager o Witgui, entonces haz una carpeta en la raíz del dispositivo USB o tarjeta SD llamada "wbfs" y pon los juegos ahí.
 {: .notice--info}
 
-To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
+Para jugar a juegos, te recomendamos usar un disco duro externo para tu Wii. Las unidades Flash también funcionan, pero se recomienda el uso de Discos duros externos, debido a que son mucho mas seguros, y pueden almacenar una mayor cantidad de juegos.
 {: .notice--info}
 
 Asegúrate de que tu unidad USB esté formateada como FAT32 o NTFS. No uses otros sistemas de archivos como extFS o WBFS; el segundo es un formato antiguo hecho para almacenar juegos de Wii.
@@ -41,7 +41,7 @@ Asegúrate de que tu unidad USB esté formateada como FAT32 o NTFS. No uses otro
 
 ##### Comenzar
 
-There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
+No hay una "guía" específica para usar USB Loader GX. Esta página está pensada para ayudarte a aprender cómo usar las funciones básicas de la aplicación. Podrás descubrir todas las grandes funciones de USB Loader GX con simplemente usarlo.
 {: .notice--info}
 
 * Si USB Loader GX dice "Waiting for HDD..." con una cuenta regresiva de 20 segundos, es probable que no pueda encontrar la unidad USB. Sal de la aplicación y luego reiníciala después de colocar la unidad USB en el otro puerto de la Wii.
@@ -51,11 +51,11 @@ There is no "guide" to use the USB Loader GX app. This is intended to help you l
 
 ##### Interfaz de usuario
 
-There are multiple buttons in the USB Loader GX interface.
+Hay múltiples botones en la interfaz de USB Loader GX.
 
 ###### Menú principal
 
-These are the functions the buttons found on the top of the main menu do, from left to right:
+Estas son las funciones que realizan los botones de la parte superior del menú principal, de izquierda a derecha:
 
 * Mostrar sólo favoritos - Muestra los juegos que hayas marcado como favoritos.
 * Usar filtro de búsqueda - Permite buscar juegos por nombre.
@@ -69,20 +69,20 @@ These are the functions the buttons found on the top of the main menu do, from l
 * Bloquear USB Loader GX - Permite bloquear USB Loader GX a modo de control parental.
 * Montar unidad DVD - Permite cargar un juego insertado en la ranura para discos.
 
-Pressing any game will allow you to play the game by pressing "Start".
+Al presionar sobre un juego podrás iniciar dicho juego seleccionando "Comenzar".
 
-There are also other buttons:
+También hay otros botones:
 
-* (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
+* Botón + - Respaldar a la unidad USB un juego insertado en la ranura para discos.
 * Engranajes - Configuración de USB Loader GX.
 * Tarjeta SD - Recargar la tarjeta SD.
 * Homebrew - Ejecutar aplicaciones homebrew.
 * Wii - Abrir el menú HOME, el cual también puede ser accedido al oprimir el botón HOME.
 * Botón de apagado - Poner la consola en modo de espera o apagarla completamente.
 
-On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
+En el centro de la parte inferior de la pantalla, puede ver cuánto espacio hay libre en su unidad USB y cuántos juegos tiene.
 
 ##### Opciones una vez terminado
 
-[Echa un vistazo a nuestras demás guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
+[Echa un vistazo a nuestras otras guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
 {: .notice--info}
