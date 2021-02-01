@@ -7,12 +7,12 @@ Vuoi copiare un gioco GameCube o Wii da un disco? Ci sono due modi per farlo, a 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">Su scheda SD/drive USB</button><button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">Su un PC online</button>
 
 {% capture cleanripInstructions %}
-### Cleanrip guide
+### Guida Cleanrip
 {% include_relative cleanrip.md %}
 {% endcapture %}
 
 {% capture networkInstructions %}
-### Copiare un gioco si rete locale
+### Copiare un gioco tramite la rete locale
 {% include_relative dump-smb.md %}
 {% endcapture %}
 
