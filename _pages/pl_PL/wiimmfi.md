@@ -39,7 +39,7 @@ MrBean35000vr (twórca CTGP-R, jednej z paczek z zawartością gry) stworzył Wi
 #### Instrukcje
 
 1. Extract Auto Wiimmfi Patcher and put it in the `apps` folder on your SD card or USB drive.
-2. Insert your SD Card into your Wii, and launch Auto Wiimmfi Patcher from the Homebrew Channel.
+2. Włóż swoją kartę SD do swojego Wii, i włącz aplikację Auto Wiimmfi Patcher z kanału Homebrew.
 3. Insert your game disc (you can insert it before or after launch, it doesn't matter).
 4. Wait for patch to complete, and it'll begin!
 
