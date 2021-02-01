@@ -1,17 +1,17 @@
 ---
-title: "Installing RSSMii"
+title: "Installer RSSMii"
 ---
 
 {% include toc title="Table des matières" %}
 
-Si vous avez besoin d’aide par rapport au tutoriel, veuillez rejoindre [le serveur Discord de RiiConnect24](https://discord.gg/b4Y7jfD) (recommandé) ou [envoyez un e-mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si vous avez besoin d’aide par rapport au tutoriel, veuillez rejoindre [le serveur Discord de RiiConnect24](https://discord.gg/b4Y7jfD) (recommandé, en anglais) ou [envoyez-nous un e-mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Do you want to get RSS feed updates on your Wii Message Board? This tutorial will tell you how to set RSSMii up.
+Voulez-vous recevoir les mises à jour des flux RSS sur votre Bureau Wii ? Ce tutoriel vous expliquera comment configurer RSSMii.
 
 ![RSSMii](/images/rssmii.png)
 
-#### Qu’est-ce que vous avez besoin
+#### Ce dont vous avez besoin
 
 * Une carte SD
 * [RSSMii](https://github.com/RiiConnect24/rssmii/releases)
@@ -19,23 +19,23 @@ Do you want to get RSS feed updates on your Wii Message Board? This tutorial wil
 #### Instructions
 ##### Section I - Téléchargement / Installation
 
-1. Extract RSSMii and put it in the `apps` folder on your SD card.
-2. We need to create a `feeds.xml` on the root of the SD card so the app will know what feeds to subscribe you to.
+1. Décompressez RSSMii et placez-le dans le dossier `apps` de votre carte SD.
+2. Nous devons créer un fichier `feeds.xml` à la racine de la carte SD afin que l'application sache à quels flux vous abonner.
 
-If you're using the Windows Operating System, you can use the [RSS Feeds Creator](https://github.com/RiiConnect24/rssmii/releases/download/v1.4.1/RSSFeedsCreator.bat) program created by KcrPL. It will automatically create a `feeds.xml` file and will copy it to your SD card!
+Si vous utilisez un système d'exploitation Windows, vous pouvez utiliser le programme [RSS Feeds Creator](https://github.com/RiiConnect24/rssmii/releases/download/v1.4.1/RSSFeedsCreator.bat) créé par KcrPL. Il créera automatiquement un fichier `feeds.xml` et le copiera sur votre carte SD !
 {: .notice--info}
 
-<b>If you don't have a Windows computer, use this template and use your favorite text editor to make the `feeds.xml`.</b>
+<b>Si vous n'avez pas d'ordinateur Windows, utilisez ce modèle et utilisez votre éditeur de texte favori pour créer le fichier <code>feeds.xml</code>.</b>
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <rss>
-  <feed name="Example-Feed"><![CDATA[http://example.com/rss-feed]]></feed>
-  <feed name="One more Example-Feed!"><![CDATA[http://example.com/another_rss-feed]]></feed>
+  <feed name="Exemple de flux"><![CDATA[http://example.com/rss-feed]]></feed>
+  <feed name="Autre exemple de flux"><![CDATA[http://example.com/another_rss-feed]]></feed>
 </rss>
 ```
 
-Replace the "name" portion with the title you want to put for the feed. Make sure it's not very long, since there's not that much space. Then, replace the link portion with the link to the RSS feed. You can put as many feeds as you want. Don't delete the "CDATA" part.
+Remplacez la partie `name` par le titre que vous voulez mettre pour le flux. Assurez-vous qu'il ne soit pas trop long, car le nombre de caractères est limité. Ensuite, remplacez le lien en exemple par le lien du flux RSS. Vous pouvez ajouter autant de flux que vous voulez. Ne supprimez pas la partie "CDATA".
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -45,19 +45,19 @@ Replace the "name" portion with the title you want to put for the feed. Make sur
 </rss>
 ```
 
-Save the feed you made to the root of your SD Card.
-3. Launch RSSMii from the Homebrew Channel.
-4. Press A to confirm you want to subscribe to the feeds. Ignore the error about ES_GetTitleID, everything is fine.
-5. Once everything is done, press HOME to go back to the Homebrew Channel. You should soon get RSS feed updates on your Wii, enjoy!
+Enregistrez le flux créé à la racine de votre carte SD.
+3. Lancez RSSMii depuis Homebrew Channel.
+4. Appuyez sur A pour confirmer que vous souhaitez vous abonner aux flux. Ignorez l'erreur `ES_GetTitleID`, tout va bien.
+5. Une fois terminé, appuyez sur le bouton HOME pour retourner au Homebrew Channel. Vous devriez bientôt recevoir les mises à jour des flux RSS sur votre Wii !
 
-Not getting any feed updates? Try an RSS feed that updates more frequently, like a feed with news for example. If the RSS feed doesn't update often, then you won't get many updates.
+Vous n'avez pas reçu de mise à jour de flux ? Essayez un flux RSS qui se met à jour plus fréquemment, comme un flux d'actualités par exemple. Si le flux RSS ne se met pas à jour souvent, alors vous n'aurez pas beaucoup de mises à jour.
 {: .notice--warning}
 
-We recommend you use just a few feeds, because if you subscribe to a lot of feeds you can get a ton of mail on your Wii.
+Nous vous recommandons de n'utiliser que quelques flux, car si vous vous abonnez à de nombreux flux, vous pouvez recevoir une tonne de courrier sur votre Wii.
 {: .notice--info}
 
-If you're not receiving updates after a few days, you might need to subscribe to the RSS feeds again. Launch RSSMii from the Homebrew Channel again and it'll create brand new subscriptions.
+Si vous ne recevez toujours pas de mises à jour après quelques jours, vous pourriez avoir besoin de vous abonner aux flux RSS à nouveau. Lancez RSSMii depuis Homebrew Channel à nouveau et il créera de nouvelles souscriptions.
 {: .notice--info}
 
-[Removing RSSMii](rssmii-remove)
+[Supprimer RSSMii](rssmii-remove)
 {: .notice--info}
