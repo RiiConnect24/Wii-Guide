@@ -59,7 +59,7 @@ If you still can't run RiiConnect24 Patcher, please send us a mail at support@ri
 10. Once it's done, you can now safely close the patcher. All of the files are ready on your SD Card. ![It's done!](/images/RC24_Patcher/9.PNG) ![Files copied](/images/RC24_Patcher/10.PNG)
 11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
 12. Put your SD card or USB drive in your Wii.
-13. Launch the Homebrew Channel on your Wii.
+13. Käynnistä Homebrew Channel Wii:lläsi.
 14. Launch Wii Mod Lite.
 15. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 16. Highlight all WADs with `RiiConnect24` in the name, and press + to select them. When all of them are selected, press A twice to install the WADs.
@@ -80,18 +80,18 @@ If you were unable to patch your nwc24msg.cfg correctly, e-mail us at [support@r
 
 In this section, you will set your DNS to our servers. It's optional but recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
 
-1. Go to `Wii Options`.
-2. Go to `Wii Settings`.
-3. Go to `Page 2`, then click on `Internet`.
-4. Go to `Connection Settings`.
+1. Mene `Wii Options`.
+2. Mene `Wii Settings`.
+3. Mene `Page 2`, sitten klikkaa `Internet`.
+4. Mene `Connection Settings`.
 5. Select your current connection.
-6. Go to `Change Settings`.
-7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`.
-8. Type in `164.132.44.106` as the primary DNS.
-9. Type in `1.1.1.1` as the secondary DNS (if it gives you problems, try `8.8.8.8`).
-10. Select `Confirm`, then select `Save`.
-11. Select `OK` to perform a connection test.
-12. If the connection test was successful, select `No` to skip the Wii System Update.
+6. Mene `Change Settings`.
+7. Mene `Auto-Obtain DNS` (Ei IP Address), sitten valitse `No`, sitten `Advanced Settings`.
+8. Syötä `164.132.44.106` kohtaan "Primary DNS".
+9. Syötä `1.1.1.1` kohtaan "Secondary DNS" (jos se aiheuttaa ongelmia, kokeile `8.8.8.8`).
+10. Valitse `Confirm`, sitten valitse `Save`.
+11. Valitse `OK` tehdäksesi yhteystestin.
+12. Jos yhteystesti onnistui, valitse `No` ohittaaksesi Wii-järjestelmäpäivityksen.
 13. Go to `WiiConnect24`, then `WiiConnect24` again, and make sure it is enabled.
 14. Back on the WiiConnect24 menu, go to `Standby Connection` and make sure it is enabled.
 15. At `Slot Illumination`, we recommend you set the disc light to `Dim` or `Bright`, but this is optional.
