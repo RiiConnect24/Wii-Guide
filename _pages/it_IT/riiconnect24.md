@@ -52,7 +52,7 @@ Se comunque non riesci ad avviare RiiConnect24 Patcher, perfavore mandaci un'ema
 3. Seleziona il dispositivo per cui stai patchando. ![Seleziona il tuo dispositivo](/images/RC24_Patcher/2.PNG)
 4. Per questa guida, scegli "`Install RiiConnect24 on your Wii`" ![Installa RiiConnect24](/images/RC24_Patcher/3.PNG)
 5. Scegli "`Express (Recommended)`". Ti darà tutto ciò di cui avrai bisogno. ![Express Settings](/images/RC24_Patcher/4.PNG)
-6. Select your region. ![Seleziona la tua regione](/images/RC24_Patcher/5.PNG)
+6. Seleziona la tua regione. ![Seleziona la tua regione](/images/RC24_Patcher/5.PNG)
 7. Collega la scheda SD o il tuo dispositivo USB al computer e seleziona "`1`". ![Abilita copiare nella tua scheda SD](/images/RC24_Patcher/6.PNG)
 8. Se il tuo dispositivo è stato rilevato con successo, seleziona "`1`". Se non lo è stato, assicurati che una cartella chiamata `apps` esista sulla tua scheda SD o sul tuo dispositivo USB e riprova. ![Rilevato con successo](/images/RC24_Patcher/7.PNG)
 9. Sii paziente... ![Sta patchando!](/images/RC24_Patcher/8.PNG)
