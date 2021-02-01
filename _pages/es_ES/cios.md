@@ -14,7 +14,7 @@ Si tienes un Wii mini, por favor instala [estos cIOS](cios-mini). Intentar insta
 #### Requisitos
 
 * Una consola Wii con conexión a Internet
-* An SD card or USB drive (ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not see the correct cIOS option)
+* Una tarjeta SD o dispositivo USB (asegúrate de que si usas una tarjeta SD, el switch de bloqueo esté en la posición desbloqueada, de lo contrario no verás la opción correcta del cIOS)
 * [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
 #### Instrucciones
@@ -46,19 +46,19 @@ Select cIOS version: 65535
 1. Una vez que todas las opciones hayan sido ajustadas correctamente, oprime A dos veces para comenzar la instalación.
 1. Una vez que la instalación haya finalizado exitosamente, oprime A para volver al menú anterior y esta vez ajusta las opciones de la siguiente forma:
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 38
-Select cIOS slot: 251
-Select cIOS version: 65535
+Seleccione el cIOS: v10 beta52 d2x-v10-beta52
+Seleccione el cIOS base: 38
+Seleccione el cIOS slot: 251
+Seleccione el cIOS: 65535
 ```
-1. Once set, press A twice again to install, and then exit once done.
+1. Una vez configurado, presiona A dos veces para instalar, después en salir una vez que haya terminado.
 
 ##### Opciones una vez terminado el proceso
 
 [Continuar a Homebrew Browser](hbb)<br> El Homebrew Browser es una herramienta que te permite descargar aplicaciones homebrew directamente a tu consola. Este proceso es opcional.
 {: .notice--info}
 
-[Echa un vistazo a nuestras demás guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
+[Echa un vistazo a nuestras otras guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
 {: .notice--info}
 
 Ahora puedes usar aplicaciones homebrew como [USB Loader GX](usbloadergx) y [WiiFlow](wiiflow).
