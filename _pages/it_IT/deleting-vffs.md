@@ -1,5 +1,5 @@
 ---
-title: "Deleting VFFs"
+title: "Eliminare VFFs"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -9,7 +9,7 @@ Se hai bisogno di aiuto per questo tutorial, vai sul [server Discord RiiConnect2
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-Se stai ottenendo uno di questi errori (solo uno tra questi), dovresti riuscire a ripristinare il canale eliminando la tuo VFF.
+Se stai ottenendo uno di questi errori (solo uno tra questi), dovresti riuscire a ripristinare il canale eliminando il tuo VFF.
 
 + Discontinued Message
 + NEWS/FORE000001
