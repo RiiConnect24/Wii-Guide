@@ -14,24 +14,24 @@ Priiloader adds a level of brick protection to your Wii. It loads before the Wii
 Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your vWii by doing this.
 {: .notice--warning}
 
-#### What you need
-* An SD card or USB drive
-* [Priiloader installer](assets/files/Priiloader_v0_9.zip)
+#### Mitä tarvitset
+* SD-kortti tai USB-asema
+* [Priiloader-asennusohjelma](assets/files/Priiloader_v0_9.zip)
 
-#### Instructions
-##### Section I - Downloading/Installing
+#### Ohjeet
+##### Osa I - Lataaminen/Asentaminen
 
-1. Download the Priiloader installer and extract it to the `apps` folder on your SD card or USB drive.
-    * If this folder does not exist, create it.
-2. Insert your SD card or USB drive into your Wii, and launch the Priiloader installer from the Homebrew Channel.
+1. Lataa Priiloader-asennusohjelma ja pura se `apps` kansioon SD-kortillasi tai USB-asemallasi.
+    * Jos tätä kansiota ei ole, luo se.
+2. Laita SD-korttisi tai USB-asemasi Wii-konsoliisi ja käynnistä Priiloader-asennusohjelma Homebrew Channel:sta.
 
-##### Section II - Installing Priiloader
+##### Osa II - Priiloader:n asentaminen
 
-1. Launch the Homebrew Channel on your Wii.
-2. Launch the Priiloader installer.
-3. Press the + Button on Wii Remote or the A Button on a GameCube controller. ![Install Priiloader](/images/Priiloader/2.png) ![Installing](/images/Priiloader/3.png)
+1. Käynnistä Homebrew Channel Wii:lläsi.
+2. Käynnistä Priiloader-asennusohjelma.
+3. Paina Wii Remote:n + nappia tai GameCube-ohjaimen A-nappia. ![Install Priiloader](/images/Priiloader/2.png) ![Installing](/images/Priiloader/3.png)
 
-##### Section III - Entering/Configuring Priiloader
+##### Osa III - Priiloader:iin meneminen/konfigurointi
 
 1. Hold the RESET button while turning on your Wii.
     * If you are using a Wii mini, plug in a USB keyboard and hold escape while turning it on
