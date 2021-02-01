@@ -1,11 +1,11 @@
 ---
-title: "Open Shop Channel (Homebrew Browser)"
+title: "Canal Open Shop (Homebrew Browser)"
 ---
 
 En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por favor únete a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [envíanos un e-mail](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
 {: .notice--info}
 
-The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
+El [Canal Open Shop](https://oscwii.org/) es donde puedes ir para obtener apps homebrew. Esto es un proyecto de resurrección de una aplicación llamada Homebrew Browser.
 
 #### Requisitos
 * Una tarjeta SD o unidad USB
@@ -19,7 +19,7 @@ The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew
 [ Continúe con RiiConnect24 ](riiconnect24) <br> RiiConnect24 le permite utilizar los servicios descontinuados de WiiConnect24, que incluyen Noticias, Pronóstico, Todos Votos, Nintendo y el Canal Check Mii Out, junto con Wii Mail. Esto es opcional a instalar.
 {: .notice--info}
 
-[Echa un vistazo a nuestras demás guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
+[Echa un vistazo a nuestras otras guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
 {: .notice--info}
 
 En la descarga del navegador Homebrew se incluye una guía sobre cómo usar el navegador Homebrew.
