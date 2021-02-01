@@ -11,20 +11,20 @@ This tutorial will tell you how to install cIOS (custom IOS). This is required i
 If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
 {: .notice--info}
 
-#### What you need
+#### Mitä tarvitset
 
-* A Wii with an Internet connection
+* Wii internetyhteydellä
 * An SD card or USB drive (ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not see the correct cIOS option)
 * [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
-#### Instructions
+#### Ohjeet
 
-##### Section I - Downloading
+##### Osa I - Lataaminen
 
 1. Download d2x cIOS Installer and extract it to the `apps` folder on your SD card or USB drive.
 1. Insert your SD card or USB drive into your Wii, and launch d2x cIOS Installer from the Homebrew Channel.
 
-##### Section II - Installing
+##### Osa II - Asentaminen
 
 1. Press continue, then set the options to the following:
 ```
