@@ -1,5 +1,5 @@
 ---
-title: "Instalar Canal Homebrew y BootMii"
+title: "Instalación del Canal Homebrew y de BootMii"
 ---
 
 {% include toc title="Tabla de contenido" %}
@@ -22,18 +22,18 @@ El Canal Homebrew es desde donde iniciarás las aplicaciones homebrew. BootMii e
 4. Selecciona `Continue` cuando la instalación haya finalizado. ![Instalación del Canal Homebrew exitosa](/images/Wii/SuccessHBC.png)
 
 5. Una vez instalado, presiona `Back` y selecciona `BootMii`.
-6. If the main screen says you can install BootMii as boot2, do so. This offers the best possible brick protection you can have.
-7. If you cannot install BootMii as boot2 (like the Wii shown in step two), install BootMii as IOS instead. Si bien esto no le brinda ninguna protección de ladrillos, puedes hacer una copia de seguridad NAND.
+6. Si en la pantalla dice que puede ser instalado como boot2, hazlo. Esto ofrece protección de brick en lo mejor posible que podrás tener.
+7. Si no puedes instalar el BootMii como boot2 (como se muestra en la Wii del paso dos), instale BootMii como IOS. Si bien esto no le brinda ninguna protección de ladrillos, puedes hacer una copia de seguridad NAND.
 
-If you do not have an SD card, you cannot install or use BootMii, and therefore will not be able utilize any of the mentioned benefits. You can always install it at a later date.
+Si no tienes una tarjeta SD, no puedes instalar o usar BootMii, y por lo tanto no podrás utilizar ninguno de los beneficios mencionados. Puedes instalarlo más tarde.
 {: .notice--warning}
 
-![BootMii Installation](/images/Wii/InstallBootMii.jpg)
+![Instalación de BootMii](/images/Wii/InstallBootMii.jpg)
 
-8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
+8. Una vez terminado, selecciona `Continue`, y luego selecciona `Exit` para ir al Canal Homebrew
 
-[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
+[Continuar a haciendo una copia de seguridad NAND usando BootMii](bootmii)<br> Hacer una copia de seguridad NAND con BootMii en este momento es muy recomendable.
 {: .notice--info}
 
-If you couldn't install BootMii, continue to [installing Priiloader](priiloader) instead.
+Si no pudiste instalar BootMii, continúa a [Instalar Priiloader](priiloader) en su lugar.
 {: .notice--info}
