@@ -12,29 +12,29 @@ Note that if your ISP or networking environment prevents using custom DNS server
 
 str2hax is an exploit for the Wii that is triggered by loading the Wii's End User License Agreement. It requires nothing but an Internet connection that lets you change the DNS on your Wii.
 
-#### What you need
+#### Mitä tarvitset
 
-* A Wii with an Internet connection
+* Wii internetyhteydellä
 
-#### Instructions
+#### Ohjeet
 
-##### Section I - Connecting
+##### Osa I - Yhdistäminen
 
 This exploit requires you to set your DNS in order to connect to a server that contains the exploit.
 
-1. Go to `Wii Options`. ![Wii Options](/images/RiiConnect24/Internet_1.png)
-2. Go to `Wii Settings`. ![Wii Settings](/images/RiiConnect24/Internet_2.png)
-3. Go to `Page 2`, then click on `Internet`. ![Internet](/images/RiiConnect24/Internet_3.png)
-4. Go to `Connection Settings`. ![Connection Settings](/images/RiiConnect24/Internet_4.png)
-5. Select your current connection. ![Current Connection](/images/RiiConnect24/Internet_5.png)
-6. Go to `Change Settings`. ![Change Settings](/images/RiiConnect24/Internet_6.png)
-7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`. ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
+1. Mene `Wii Options`. ![Wii Options](/images/RiiConnect24/Internet_1.png)
+2. Mene `Wii Settings`. ![Wii Settings](/images/RiiConnect24/Internet_2.png)
+3. Mene `Page 2`, sitten klikkaa `Internet`. ![Internet](/images/RiiConnect24/Internet_3.png)
+4. Mene `Connection Settings`. ![Connection Settings](/images/RiiConnect24/Internet_4.png)
+5. Valitse tämänhetkinen yhteytesi. ![Current Connection](/images/RiiConnect24/Internet_5.png)
+6. Mene `Change Settings`. ![Change Settings](/images/RiiConnect24/Internet_6.png)
+7. Mene `Auto-Obtain DNS` (Ei IP Address), sitten valitse `No`, sitten `Advanced Settings`. ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
 8. Type in `97.74.103.14` as the primary DNS.
 9. Type in `173.201.71.14` as the secondary DNS.
-10. Select `Confirm`, then select `Save`. ![Save DNS](/images/RiiConnect24/Internet_10.png)
-11. Select `OK` to perform a connection test. ![Connection Test](/images/RiiConnect24/Internet_11.png)
-   - If the connection test was successful, select `No` to skip the Wii System Update. ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)
-   - If it was unsuccessful, then please use [another exploit](get-started).
+10. Valitse `Confirm`, sitten valitse `Save`. ![Save DNS](/images/RiiConnect24/Internet_10.png)
+11. Valitse `OK` tehdäksesi yhteystestin. ![Connection Test](/images/RiiConnect24/Internet_11.png)
+   - Jos yhteystesti onnistui, valitse `No` ohittaaksesi Wii-järjestelmäpäivityksen. ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)
+   - Jos se ei onnistunut, käytä [toista exploitia](get-started).
 
 ##### Section II - Triggering the Exploit
 
