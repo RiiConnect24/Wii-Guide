@@ -42,14 +42,14 @@ Continuar a la instalación de cIOSlt;/a><br> Los cIOS son necesarios si quieres
 
 {: .notice--info}
 
-[Continue to USB Loader GX](usbloadergx) USB Loader GX is a USB Loader that you can use to play games on your Wii from a USB drive. 
+[Continuar a USB Loader GX](usbloadergx) USB Loader GX es un USB loader que puedes usar para cargar juegos desde una unidad USB. 
 
 {: .notice--info}
 
-[Continue to WiiFlow](wiiflow) WiiFlow is a USB Loader that you can use to play games on your Wii from a USB drive or SD Card. 
+[Continuar a WiiFlow](wiiflow) WiiFlow es un USB loader que puedes usar para cargar juegos desde una unidad USB o tarjeta SD. 
 
 {: .notice--info}
 
-[Echa un vistazo a nuestras demás guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte. 
+[Echa un vistazo a nuestras otras guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte. 
 
 {: .notice--info}
