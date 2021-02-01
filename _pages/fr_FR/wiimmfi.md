@@ -18,7 +18,7 @@ There are lots of different methods to connect to Wiimmfi. Choose the one that f
 ### Automatic patching from the Disc Channel using Priiloader
 
 #### Qu’est-ce que vous avez besoin
-- A Wii with Priiloader 0.9 or later installed
+- Un Wii avec Priiloader V0.9 installait
 
 If you have an older version of Priiloader or don't have it installed, follow [this guide](priiloader) to update/install it.
 {: .notice--info}
@@ -43,7 +43,7 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 3. Insert your game disc (you can insert it before or after launch, it doesn't matter).
 4. Wait for patch to complete, and it'll begin!
 
-### No-Homebrew (Disc)
+### Non-Homebrew (Disc)
 Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
 
 #### Qu’est-ce que vous avez besoin
