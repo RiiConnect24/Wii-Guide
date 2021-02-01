@@ -108,7 +108,7 @@ Wiimmfi ti permette di partecipare alle competizioni di Mario Kart Wii nuovament
 
 - Una scheda SD o chiavetta USB
 - Mario Kart Wii Competition Patcher
-   - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
+   - [Wi](https://competitions.wiimmfi.de/competition-tool-wii.zip)
    - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
 #### Instruzioni (per la Wii)
