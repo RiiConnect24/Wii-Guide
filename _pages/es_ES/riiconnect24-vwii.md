@@ -38,16 +38,16 @@ Después de seguir la guía anteriormente mencionada, deberías de tener:
 
 #### Instrucciones
 
-If you use cannot use the patcher, please [follow the manual guide](https://pad.snopyta.org/s/rJ2N0B1XU), to install RiiConnect24. The end result is the same regardless of the method followed.
+Si no puedes usar el parcheador, por favor [sigue la guía manual](https://pad.snopyta.org/s/rJ2N0B1XU), para instalar RiiConnect24. El resultado final será el mismo sin importar el método que hayas usado.
 {: .notice--info}
 
 ##### Sección I - Ejecutando el parche
 
 Usando el RiiConnect24 Patcher que has descargado en [los requisitos](#requisitos), estarás descargando y parcheando el IOS 31, así como los canales Noticias, Opiniones, Nintendo y Miirame para poder usarlos en tu vWii.
 
-1. Run `RiiConnect24Patcher.bat` on Windows or `RiiConnect24Patcher.sh` on Unix systems by typing bash then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this `bash RiiConnect24Patcher.sh`. Follow the on screen instructions
+1. Ejecuta `RiiConnect24Patcher.bat` en Windows o `RiiConnect24Patcher.sh` en sistemas Unix al escribir bash y luego arrastra el `RiiConnect24Patcher.sh` en el terminal, luego presiona enter. Debería verse así `bash RiiConnect24Patcher.sh`. Sigue las instrucciones en pantalla
 
-2. Confirm that after running through the patcher, you have 3 folders. They will be in the same folder where `RiiConnect24Patcher.bat/sh` is and on your SD Card (of course, only if you selected an option in the patcher to do so).
+2. Confirma que después de ejecutar el parcheador, tengas 3 carpetas. Estarán en la misma carpeta donde se encuentra `RiiConnect24Patcher.bat` y en tu tarjeta SD (por supuesto, si seleccionaste una opción para que el patcher lo haga).
    - Si el parche no ha copiado los archivos a la tarjeta SD, por favor copia las tres carpetas anteriormente mencionadas a la raíz de tu tarjeta SD.
 
 ##### Sección II - Instalando los WADs parcheados
@@ -55,8 +55,8 @@ Usando el RiiConnect24 Patcher que has descargado en [los requisitos](#requisito
 1. Abre el Canal Homebrew
 2. Lanza Wii Mod Lite
 3. Usando la cruz de control en tu Wiimote, selecciona `WAD Manager` (Administrador de WADs), y luego abre la carpeta `wad`.
-4. Highlight all WADs with `RiiConnect24` in the name, and press + to select them. When all of them are selected, press A twice to install the WADs.
-5. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+4. Señala todos los WADs con `RiiConnect24` en el nombre, y presiona + para seleccionarlos. Cuando todos estén seleccionados, presiona A dos veces para instalar los WADs.
+5. Una vez que se hayan instalado correctamente, oprime el botón HOME para volver al Canal Homebrew.
 
 ##### Sección III - Aplicación de parches a 43db para 16: 9 (opcional)
 
@@ -70,7 +70,7 @@ Si instala un tema, tendrá que ejecutar ww-43db-patcher una vez más
 
 Después de seguir las secciones anteriores, casi podrá usar RiiConnect24 en su Wii U. Solo necesita realizar los siguientes pasos **después de cada reinicio de vWii**.
 
-1. On the vWii's **Wii Menu**, launch the **ConnectMii** channel.
+1. En el **Menú de Wii** del vWii, inicia el canal **ConnectMii**.
 * Esto forzará la activación de los ajustes de WiiConnect24 y de la conexión en modo de espera que se desactivan cada vez que sales del vWii, y que son requeridos por los canales que usan WiiConnect24.
 2. Abre los canales de WiiConnect24
 * ¡Ahora debería poder utilizar todos los canales de WiiConnect24 que ha instalado!
@@ -81,13 +81,13 @@ Los siguientes servicios de RiiConnect24 son **funcionando** en el vWii:
     * Éste canal se ve afectado por el error de las fechas. La hora que aparece en "Actualizado hace" y las fechas de los arículos serán incorrectas.
     * Los encabezados en el banner no se mostrarán, apareciendo el error `No se han podido descargar las noticias.` en su lugar.
 * Canal de Clima
-* Nintendo Channel
-* Everybody Votes Channel
-* Check Mii Out Channel / Mii Contest Channel
+* Canal Nintendo
+* Canal Opiniones
+* Canal Concursos Mii
 {: .notice--success}
 
 Los siguientes servicios de RiiConnect24 son **no funcionando** en el vWii:
 * Intercambio de mensajes mediante el tablón de Wii (la mayoría de la funcionalidad necesaria no está presente en el vWii)
     * Esto incluye enviar o recibir mensajes de amigos. Sólo podrás recibir mensajes globales y publicaciones de fuentes RSS mediante RSSMii (si lo tienes instalado).
-* Everything else that isn't working according to [RiiConnect24 stats](https://rc24.xyz/stats/index.html).
+* Todos los demás servicios que aparecen como no soportados en las [estadísticas de RiiConnect24](https://rc24.xyz/stats/index.html).
 {: .notice--warning}
