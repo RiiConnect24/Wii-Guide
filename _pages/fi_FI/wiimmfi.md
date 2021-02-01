@@ -9,21 +9,21 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 ![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
 
-[Wiimmfi](https://wiimmfi.de) is a replacement service for the now-defunct Nintendo Wi-Fi Connection. It has been developed by Wiimm and Leseratte.
+[Wiimmfi](https://wiimmfi.de) on korvaava palvelu nyt-lakkautetulle Nintendo Wi-Fi Connection:lle. Sen ovat kehittäneet Wiimm ja Leseratte.
 
 ## Different patchers
 
-There are lots of different methods to connect to Wiimmfi. Choose the one that fits your needs best.
+On paljon erilaisia tapoja yhdistää Wiimmfi:in. Valitse se, joka sopii tarpeisiisi parhaiten.
 
 ### Automatic patching from the Disc Channel using Priiloader
 
-#### What you need
-- A Wii with Priiloader 0.9 or later installed
+#### Mitä tarvitset
+- Wii, jolla on Priiloader 0.9 tai uudempi asennettuna
 
-If you have an older version of Priiloader or don't have it installed, follow [this guide](priiloader) to update/install it.
+Jos sinulla on vanhempi Priiloader-versio tai sinulla ei ole sitä asennettuna, seuraa [tätä opasta](priiloader) päivittääksesi/asentaaksesi sen.
 {: .notice--info}
 
-#### Instructions
+#### Ohjeet
 1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
 2. Go to `System Menu Hacks`.
 3. Make sure the `Wiimmfi patch v2` hack is enabled.
@@ -32,13 +32,13 @@ If you have an older version of Priiloader or don't have it installed, follow [t
 ### Homebrew (Disc) Application
 MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
 
-#### What you need
-* An SD card or USB drive
+#### Mitä tarvitset
+* SD-kortti tai USB-asema
 * [Auto Wiimmfi Patcher](/assets/files/autowiimmfipatcher-0.6.zip)
 
-#### Instructions
+#### Ohjeet
 
-1. Extract Auto Wiimmfi Patcher and put it in the `apps` folder on your SD card or USB drive.
+1. Pura Auto Wiimmfi Patcher ja laita se `apps` kansioon SD-kortillasi tai USB-asemallasi.
 2. Insert your SD Card into your Wii, and launch Auto Wiimmfi Patcher from the Homebrew Channel.
 3. Insert your game disc (you can insert it before or after launch, it doesn't matter).
 4. Wait for patch to complete, and it'll begin!
@@ -46,10 +46,10 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 ### No-Homebrew (Disc)
 Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
 
-#### What you need
-* A Wii with an Internet connection
+#### Mitä tarvitset
+* Wii internetyhteydellä
 
-#### Instructions
+#### Ohjeet
 
 1. Insert your game disc.
 2. Go into your internet connection settings and set the DNS server of your console to 95.217.77.151.
@@ -65,16 +65,16 @@ If you are already using USB Loader GX, try updating it to the most recent versi
 ### ISO Patching
 You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
 
-#### What you need
+#### Mitä tarvitset
 - Your copy of your game (WBFS, ISO, cISO, and other forms that a Wii can use are supported).
-- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows only)  
-**or**
+- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (vain Windows)  
+**tai**
 - Wiimm's ISO Patcher (cross platform)
    - [Patcher for Mario Kart Wii](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip)
    - [Patcher for all other games](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z)
 - A USB Loader, [cIOS](cios), and a USB to store the game on (you should already have these if you're using a USB Loader)
 
-#### Instructions
+#### Ohjeet
 1. Extract the patcher of your choice to a folder, and place your copy of the game in it.
 2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the patcher for your game.
 3. Once it's finished, get the version out of the `wiimmfi-images` folder (it may be in the folder outside of the patcher - ../wiimmfi-images) and copy it back to your USB.
@@ -82,11 +82,11 @@ You may not want to run a patcher each time you want to play on Wiimmfi, and may
 ### WiiWare Patching
 You can patch WiiWare games in order to play them on Wiimmfi.
 
-#### What you need
+#### Mitä tarvitset
 
-- An SD card
-- Your copy of your game (in WAD format)
-- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows only)  
+- SD-kortti
+- Kopiosi pelistäsi (WAD-formaatissa)
+- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (vain Windows)  
 **or**
 - [Auto WiiWare Patcher](https://github.com/RiiConnect24/auto-wiiware-patcher/releases) (cross platform)
 - [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
@@ -99,19 +99,19 @@ Steps:
 2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
 3. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
 
-## Other stuff
+## Muita juttuja
 
 ### Mario Kart Wii Competitions
 Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
-#### What you need
+#### Mitä tarvitset
 
-- An SD card or USB drive
+- SD-kortti tai USB-asema
 - Mario Kart Wii Competition Patcher
    - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
    - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
-#### Instructions (for Wii)
+#### Ohjeet (Wii:lle)
 
 1. Extract Mario Kart Wii Competition Patcher and put it in the `apps` folder on your SD Card.
 2. Insert your SD card or USB drive into the Wii.
@@ -123,23 +123,23 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 If you're using the Wii U, you will have to run the competitions patcher whenever you want to check for a competition, because WiiConnect24 is not enabled on the Wii U.
 {: .notice--info}
 
-### DS Games
-Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks to an exploit called nds-constraint, you can play DS games without patching your games.
+### DS-pelit
+Wiimmfi ei tue vain Wii-pelejä, se tukee myös monia DS-pelejä. Thanks to an exploit called nds-constraint, you can play DS games without patching your games.
 
-#### What you need
+#### Mitä tarvitset
 
-- A Wi-Fi network with WEP or no security
+- Wi-Fi-verkon WEP-salauksella tai ilman salausta
 
 Getting a Wi-Fi network with WEP or no security is the hardest part, because DS games don't support newer Wi-Fi security types (unless it's one of the few games that are "DSi Enhanced" and can use your Wi-Fi configuration on your DSi or 3DS, like Pokémon Black/White). However, many routers support creating a guest Wi-Fi connection, or you can make a hotspot on your phone or your computer. There are plenty of resources on the Internet that have information on this, so use your favorite search engine to find them.
 {: .notice--info}
 
-#### Instructions
+#### Ohjeet
 
-1. Go in the Nintendo DS Wi-Fi settings. This can be accessed inside the game you want to play online with.
-2. Set up a connection.
-3. Type in `164.132.44.106` as the primary DNS.
-4. Type in `1.1.1.1` as the secondary DNS (if it gives you problems, try `8.8.8.8`).
-5. Save your connection settings and perform a connection test. If it's successful, then you're ready to play.
+1. Mene Nintendo DS:n Wi-Fi-asetuksiin. Tänne voi päästä sen pelin sisältä, jota haluat pelata netissä.
+2. Yhdistä verkkoon.
+3. Syötä `164.132.44.106` kohtaan "Primary DNS".
+4. Syötä `1.1.1.1` kohtaan "Secondary DNS" (jos se aiheuttaa ongelmia, kokeile `8.8.8.8`).
+5. Tallenna yhteysasetuksesi ja tee yhteystesti. Jos se onnistuu, olet valmis pelaamaan.
 
 ### CTGP-R (Mario Kart Wii)
 MrBean35000vr and Chadderz have an amazing CTGP-R distribution, the application that allows you to use a set of custom tracks, has automatic Wiimmfi patching. Go to the [ChadSoft Website](http://chadsoft.co.uk) for the download and instructions.
