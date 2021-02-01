@@ -4,11 +4,11 @@ main:
     title: Guia Wii
     url: /
   - 
-    title: Start Here
-    url: get-started
+    title: Comece aqui
+    url: Prepare-se
   - 
-    title: FAQ
-    url: faq
+    title: Perguntas frequentes
+    url: perguntas frequentes
   - 
     title: RiiConnect24
     url: riiconnect24
@@ -36,8 +36,8 @@ sidebar_pages:
     title: Guia Wii
     url: /
   - 
-    title: FAQ
-    url: faq
+    title: Perguntas frequentes
+    url: perguntas frequentes
   - 
     title: Doações
     url: doações
