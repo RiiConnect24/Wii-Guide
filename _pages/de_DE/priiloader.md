@@ -11,12 +11,12 @@ Priiloader fügt eine Schutzebene vor Bricks zu deiner Wii hinzu. Es lädt vor d
 
 ![Priiloader](/images/priiloader.jpg)
 
-Do **not** install Priiloader on a vWii (Wii mode on Wii U). Du wirst deine vWii dadurch bricken.
+Installiere den Priiloader nicht auf einer vWii (Wii Modus auf der Wii U). Du wirst deine vWii dadurch bricken.
 {: .notice--warning}
 
 #### Voraussetzungen
 * Eine SD-Karte oder ein USB-Laufwerk
-* [Priiloader installer](assets/files/Priiloader_v0_9.zip)
+* [Priiloader Installer](assets/files/Priiloader_v0_9.zip)
 
 #### Anleitung
 ##### Abschnitt 1 - Herunterladen/Installieren
@@ -28,7 +28,7 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). Du wirst deine vWii
 ##### Abschnitt 2 - Priiloader installieren
 
 1. Starte den Homebrew-Kanal auf deiner Wii.
-2. Launch the Priiloader installer.
+2. Starte den Priiloader Installer.
 3. Drücke die Plus-Taste auf der Wii-Fernbedienung oder den A-Knopf auf einem GameCube-Controller. ![Install Priiloader](/images/Priiloader/2.png) ![Installing](/images/Priiloader/3.png)
 
 ##### Abschnitt 3 - Öffnen/Konfigurieren von Priiloader
@@ -46,7 +46,7 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). Du wirst deine vWii
 
 ## Liste der System-Menü-Hacks
 
-This is a list of the hacks you can enable with Priiloader.
+Dies ist eine Liste von Hacks, die du mit Priiloader aktivieren kannst.
 
 | Hack                                    | Beschreibung                                                                                                                            |
 | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
