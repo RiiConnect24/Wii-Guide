@@ -4,7 +4,7 @@ title: "cIOS"
 
 {% include toc title="Table des matières" %}
 
-Ce tutoriel vous apprendra comment installer un cIOS (IOS customisé). Ceci est requis si vous souhaitez lancer des jeux en utilisant un Loader USB. Certains homebrew peuvent mieux fonctionner grâce à l'utilisation d'un cIOS.
+Ce tutoriel vous apprendra comment installer un cIOS (IOS customisé). C'est nécessaire si vous souhaitez lancer des jeux en utilisant un Loader USB. Certains homebrew peuvent mieux fonctionner grâce à l'utilisation d'un cIOS.
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
@@ -26,7 +26,7 @@ Si vous possédez une Wii classique, installez [ce cIOS](cios-mini) à la place.
 
 ##### Section II - Installation
 
-1. Appuyez sur continuer, définissez ensuite les options suivantes:
+1. Appuyez sur continuer, appliquez ensuite les options suivantes:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 57
@@ -34,8 +34,8 @@ Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 ![Install cIOS 249](/images/Wii/Install249.png)
-1. Une fois défini, appuyez deux fois sur A pour installer.
-1. Quand l'installation est terminée, appuyez sur A pour revenir à l'écran précédent, et définissez les options suivantes:
+1. Une fois appliqué, appuyez deux fois sur A pour installer.
+1. Quand l'installation est terminée, appuyez sur A pour revenir à l'écran précédent, et appliquez les options suivantes:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 56
@@ -43,8 +43,8 @@ Select cIOS slot: 250
 Select cIOS version: 65535
 ```
 ![Install cIOS 250](/images/Wii/Install250.png)
-1. Une fois défini, appuyez deux fois sur A pour installer.
-1. Quand l'installation est terminée, appuyez sur A pour revernir à l'écran précédent, et définissez les options suivantes :
+1. Une fois appliqué, appuyez deux fois sur A pour installer.
+1. Quand l'installation est terminée, appuyez sur A pour revenir à l'écran précédent, et appliquez les options suivantes :
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 38
