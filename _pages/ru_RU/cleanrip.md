@@ -18,7 +18,7 @@ Do you want to make a backup of your games? This tutorial will explain you how t
 
 #### Instructions
 
-##### Section I - Downloading/Installing
+##### Шаг I - Скачивание/Установка
 
 1. Extract CleanRip and put it in the `apps` folder on your SD card or USB drive.
 1. Insert your SD card into your Wii, and launch CleanRip from the Homebrew Channel.
