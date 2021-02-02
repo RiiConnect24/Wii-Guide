@@ -42,7 +42,7 @@ Priiloader proporciona un nivel adicional de protección contra bricks a tu cons
 3. Ve a `System Menu Hacks`.
 4. Recomendamos que actives los siguientes trucos: `Region Free EVERYTHING`, `Block Disc Updates` y `Block Online Updates`. ![Hacks del menú del sistema](/images/Priiloader/7.png)
 1. Baja hasta el botón `save settings` y presiona A, y presiona B para volver al menú principal de Priiloader.
-1. Baja hasta el botón `Homebrew Channel` y presiona A para lanzarlo.
+1. Baje hasta el botón `Canal Homebrew` y presione A para ejecutarlo.
 
 ## Lista de hacks para el menú de Wii
 
@@ -67,7 +67,7 @@ Esta es una lista de los hacks que puedes activar con Priiloader.
 | Re-Enable Bannerbomb v2 (Rehabilita Bannerbomb v2)                                                   | Activa el exploit de "Bannerbomb" en la última versión de la Wii. No hay necesidad de hacer esto cuando el Canal Homebrew ya está instalado.                                      |
 | OSReport to UsbGecko(slot B)                                                                         | Envía registros del Menú de Wii a un dispositivo de depuración en la ranura B de tarjetas de memoria.                                                                             |
 | OSReport to UsbGecko(GeckoOS,B)                                                                      | Envía los registros del Menú de Wii a un dispositivo de depuración en la ranura B de la tarjeta de memoria, si Gecko OS inicia el Menú de Wii.                                    |
-| Force Standard Recovery Mode (Forzar el modo de recuperación estándar)                               | Inicia automáticamente la consola en modo de recuperación. Se utiliza para lanzar discos de recuperación, lo que permite a los usuarios desbrickear sus Wiis.                     |
+| Force Standard Recovery Mode (Forzar el modo de recuperación estándar)                               | Inicia automáticamente la consola en modo de recuperación. Se utiliza para ejecutar discos de recuperación, lo que permite a los usuarios desbrickear sus Wiis.                   |
 | Remove Diagnostic Disc Check (Eliminar verificación de disco de diagnóstico)                         | Elimina una chequeo en la consola que verifica si un disco insertado es el disco de Wii Startup.                                                                                  |
 | Lock System Menu with Black Screen (Bloquea el menú de Wii con una pantalla negra)                   | Hace que el menú de Wii se quede atascado en una pantalla negra, lo que te impide usarlo. Puede ser usado a modo de control parental. (No habilites esto)                         |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx (No borrar HAXX,JODI,DVDX,DISC,DISK,RZDx)                    | Reactiva de nuevo canales con estas IDs de título, originalmente bloqueados en actualizaciones del sistema, debido a que esos canales contenían exploits.                         |
