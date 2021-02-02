@@ -46,7 +46,7 @@ Toma nota del número de versión en cuestión (`IOS57-64` terminando ya sea en 
 ##### Activar Ethernet
 Si deseas jugar en Wiimmfi con tu Wii Mini, tendrás que hacerlo a través de Ethernet, y para eso necesitarás ejecutar la aplicación homebrew [Wii Mini Ethernet Enabler](/assets/files/Wii_Mini_Ethernet_Enable.zip) creada por Fullmetal5. Extrae Wii Mini Ethernet Enabler a la carpeta `apps` en tu unidad USB y después inicia la aplicación desde el Canal Homebrew.
 
-No intentes instalar un IOS de Wii o un menú del sistema en la Wii Mini. Hacer esto podría romper tu consola.
+No intentes instalar un IOS de Wii o un menú del sistema en la Wii Mini. Hacer esto podría brickear tu consola.
 {: .notice--warning}
 
 Ahora puedes usar aplicaciones homebrew como [USB Loader GX](usbloadergx) y [WiiFlow](wiiflow).
