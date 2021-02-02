@@ -48,7 +48,7 @@ If you still can't run RiiConnect24 Patcher, please send us a mail at support@ri
 {: .notice--info}
 
 1. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open terminal and type bash, then drag `RiiConnect24Patcher.sh`into the terminal then press enter. It should look like this `bash RiiConnect24Patcher.sh`.
-2. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`. ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.PNG)
+2. Drücke 1 um "`Start`" auszuwählen und betstätige die Eingabe mit `ENTER`. ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.PNG)
 3. Select the device you're patching for. ![Select your device](/images/RC24_Patcher/2.PNG)
 4. For this guide, choose "`Install RiiConnect24 on your Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.PNG)
 5. Choose "`Express (Recommended)`". It will give you everything you need. ![Express Settings](/images/RC24_Patcher/4.PNG)
@@ -60,7 +60,7 @@ If you still can't run RiiConnect24 Patcher, please send us a mail at support@ri
 11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
 12. Put your SD card or USB drive in your Wii.
 13. Starte den Homebrew-Kanal auf deiner Wii.
-14. Launch Wii Mod Lite.
+14. Starte Wii Mod Lite.
 15. Mithilfe der rechten Steuerkreuztaste auf deiner Wii-Fernbedienung, wähle `WAD Manager` und wähle dann den `wad`-Ordner.
 16. Highlight all WADs with `RiiConnect24` in the name, and press + to select them. When all of them are selected, press A twice to install the WADs.
 17. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted WAD to uninstall it, then try installing it again.
@@ -98,7 +98,7 @@ In this section, you will set your DNS to our servers. It's optional but recomme
 16. Finally, go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`. Please read through this.
 
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+[Weiter zu Wimmfi](wiimmfi)<br> Wiimmfi lässt einen Spiele online spielen, nach der Abschaltung der Nintendo Wi-Fi Connection. This is optional to install.
 {: .notice--info}
 
 [Continue to WiiLink24](wiilink24)<br> WiiLink24 lets you use the Japanese-exclusive Wii no Ma channel. This is optional to install.
