@@ -7,8 +7,8 @@ main:
     title: Start Here
     url: get-started
   - 
-    title: FAQ
-    url: faq
+    title: Вопросы и Ответы
+    url: вопросы и ответы
   - 
     title: RiiConnect24
     url: riiconnect24
@@ -17,7 +17,7 @@ main:
     url: wiimmfi
 bottom:
   - 
-    title: For support in English, ask for help at <a href="https://discord.gg/b4Y7jfD">RiiConnect24 on Discord</a>.
+    title: Для помощи на английском, вы можете обратится к <a href="https://discord.gg/b4Y7jfD">дискорд серверу RiiConnect24</a>.
 footer:
   - 
     title: Source
@@ -36,8 +36,8 @@ sidebar_pages:
     title: Wii Guide
     url: /
   - 
-    title: FAQ
-    url: faq
+    title: Вопросы и Ответы
+    url: вопросы и ответы
   - 
     title: Donations
     url: donations
