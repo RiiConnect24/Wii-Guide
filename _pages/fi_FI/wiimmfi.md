@@ -25,9 +25,9 @@ Jos sinulla on vanhempi Priiloader-versio tai sinulla ei ole sitä asennettuna, 
 
 #### Ohjeet
 1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
-2. Go to `System Menu Hacks`.
-3. Make sure the `Wiimmfi patch v2` hack is enabled.
-4. Save settings and exit.
+2. Mene `System Menu Hacks`.
+3. Varmista, että `Wiimmfi patch v2` on päällä.
+4. Tallenna asetukset ja poistu.
 
 ### Homebrew (Disc) Application
 MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
@@ -51,7 +51,7 @@ Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for th
 
 #### Ohjeet
 
-1. Insert your game disc.
+1. Aseta pelilevykkeesi levyasemaan.
 2. Go into your internet connection settings and set the DNS server of your console to 95.217.77.151.
 3. Go to the WC24 contract information (third button after clicking on "Internet" in the settings).
 4. Confirm that you do want to use WC24 and the shop channel
@@ -91,7 +91,7 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 - [Auto WiiWare Patcher](https://github.com/RiiConnect24/auto-wiiware-patcher/releases) (cross platform)
 - [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
-[If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
+[Jos haluat nähdä, kuinka käyttää WiiWare Patcher:ia, klikkaa tästä!](wiiwarepatcher)
 {: .notice--info}
 
 Steps:
