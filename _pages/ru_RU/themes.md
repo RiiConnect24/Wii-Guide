@@ -27,7 +27,7 @@ We recommend you [install cIOS](cios) before continuing.
 #### What you need
 
 * A Wii
-* An SD card or USB drive
+* SD карта или USB флешка/жёсткий диск
 * A computer with Windows on it (or using Mono or Wine on Mac/Linux)
 * [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
