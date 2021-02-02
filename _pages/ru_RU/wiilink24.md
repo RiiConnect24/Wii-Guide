@@ -11,7 +11,7 @@ WiiLink24 and all of its services (such as Wii no Ma) are not controlled or oper
 
 #### What you need
 
-* An SD card or USB drive
+* SD карта или USB флешка/жёсткий диск
 * A Wii with an Internet connection
 * A Windows or Unix based computer
 * [WiiLink24 Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
