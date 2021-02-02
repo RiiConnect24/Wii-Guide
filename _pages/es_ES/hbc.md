@@ -23,7 +23,7 @@ El Canal Homebrew es desde donde iniciarás las aplicaciones homebrew. BootMii e
 
 5. Una vez instalado, presiona `Back` y selecciona `BootMii`.
 6. Si en la pantalla dice que puede ser instalado como boot2, hazlo. Esto ofrece protección de brick en lo mejor posible que podrás tener.
-7. Si no puedes instalar el BootMii como boot2 (como se muestra en la Wii del paso dos), instale BootMii como IOS. Si bien esto no le brinda ninguna protección de ladrillos, puedes hacer una copia de seguridad NAND.
+7. Si no puedes instalar el BootMii como boot2 (como se muestra en la Wii del paso dos), instale BootMii como IOS. Si bien esto no le brinda ninguna protección de brick, puedes hacer una copia de seguridad NAND.
 
 Si no tienes una tarjeta SD, no puedes instalar o usar BootMii, y por lo tanto no podrás utilizar ninguno de los beneficios mencionados. Puedes instalarlo más tarde.
 {: .notice--warning}
