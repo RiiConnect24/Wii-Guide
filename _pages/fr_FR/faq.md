@@ -4,10 +4,10 @@ title: "Foire au questions (FAQ)"
 
 ![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
 
-### Hacker ma console est-il risqué ?
+### Est-il risqué de hacker ma console ?
 Les bricks (un état où soit une partie de vos logiciels Wii ne fonctionnent pas, soit votre Wii ne fonctionne pas du tout) sont maintenant *pratiquement* impossibles sauf si vous ignorez les avertissements.
 
-### Où devrais-je aller pour obtenir de l'aide ?
+### Où puis-je obtenir de l'aide ?
 Vous pouvez soit envoyer un e-mail à support@riiconnect24.net ou rejoindre [le serveur Discord de RiiConnect24](https://discord.gg/b4Y7jfD).
 
 ### Quelles sont les exigences et/ou les recommandations pour ma carte SD ?
