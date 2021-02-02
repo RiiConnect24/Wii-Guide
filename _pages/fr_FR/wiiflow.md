@@ -4,7 +4,7 @@ title: "WiiFlow"
 
 {% include toc title="Table des matières" %}
 
-Si vous avez besoin d’aide par rapport au tutoriel, veuillez rejoindre [le serveur Discord de RiiConnect24](https://discord.gg/b4Y7jfD) (recommandé) ou [envoyez un e-mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si vous avez besoin d'aide concernant ce tutoriel, veuillez rejoindre [le serveur Discord de RiiConnect24](https://discord.gg/b4Y7jfD) (recommandé, en anglais) ou [envoyez-nous un mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![WiiFlow](/images/wiiflowlogo.png)
@@ -17,16 +17,16 @@ This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that
 * A USB drive and/or SD card
 * [WiiFlow](https://github.com/Fledge68/WiiFlow_Lite/releases)
 
-Make sure you have installed [cIOS](/cios) before following this!
+Assurez-vous d'avoir installé [cIOS](/cios) avant de continuer !
 {: .notice--info}
 
-We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, or [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS.
+Nous vous recommandons de copier les jeux avec [Wii Backup Manager](/wiibackupmanager) si vous utilisez Windows, ou [Witgui](https://desairem.com/wordpress/category/witgui-download/) si vous utilisez MacOS.
 {: .notice--info}
 
 If you are not copying games using Wii Backup Manager or Witgui, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
 {: .notice--info}
 
-To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
+Pour jouer à des jeux, nous vous recommandons d'utiliser un disque dur externe pour votre Wii. Les clés USB devraient également être utilisables, mais les disques durs externes sont recommandés car ils sont plus fiables et peuvent stocker plus de jeux.
 {: .notice--info}
 
 Unlike USB Loader GX, WiiFlow can load games of an SD card.
@@ -37,12 +37,12 @@ Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Do not fo
 
 #### Instructions
 
-##### Downloading
+##### Téléchargement
 
 1. Extract WiiFlow and put the `apps` and `WiiFlow` folders on your USB drive or SD card.
 2. Insert your USB drive, and SD card if you're using one, into your Wii and launch WiiFlow from the Homebrew Channel.
 
-##### Getting Started
+##### Commencer
 
 This is not a full comprehensive guide on using WiiFlow. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow by using it.
 {: .notice--info}
@@ -51,7 +51,7 @@ This is not a full comprehensive guide on using WiiFlow. This is intended to hel
 * You can toggle between viewing Wii games, GameCube games, Wii Channels, Plugins, Homebrew apps by clicking the button second to last button on the right.
 * You can download game covers by going to "Settings" then "Download Covers and Banners"
 
-##### User Interface
+##### Interface utilisateur
 
 When WiiFlow detects games, they are displayed in flow view. When you click on a game you are given these options:
 
@@ -80,7 +80,7 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 * Exit To - Lets you exit to Wii Menu, HBC, neek2o, Priiloader and Bootmii.
 * Settings - Will open the WiiFlow Settings menu
 
-##### Options once complete
+##### Options disponibles une fois le processus terminé
 
 [WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki is a great resource with information about WiiFlow.
 {: .notice--info}
