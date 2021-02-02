@@ -11,11 +11,11 @@ En caso de que necesites ayuda con alguna cosa relacionada con esta guía, puede
 
 BlueBomb es un exploit que se aprovecha de una falla en las bibliotecas Bluetooth de Wii y Wii mini. A pesar de que es el único exploit que funciona en el Wii Mini, BlueBomb también puede ser ejecutado en el Wii original. Este exploit además te permite reparar ciertos tipos de brick, como un banner brick.
 
-Para la Wii original, no recomendamos usar BlueBomb si tiene la intención de instalar Homebrew Channel y BootMii, ya que hay exploits más convenientes disponibles.
+Para la Wii original, no recomendamos usar BlueBomb si tiene la intención de instalar el Canal Homebrew y BootMii, ya que hay exploits más convenientes disponibles.
 {: .notice--info}
 
 #### Sección I - Requisitos
-- Una computadora con Linux
+- Un ordenador con Linux
   - Si tiene una Raspberry Pi, puede usarla en su lugar, ya que probablemente ya tenga Linux instalado.
   - El Subsistema de Windows para Linux *no funcionará * ya que no tiene acceso directo al adaptador Bluetooth o puertos USB.
   - Si no tiene Linux, [Ubuntu](https://ubuntu.com/download/desktop) es la opción más fácil de usar y se puede ejecutar en computadoras con Windows o Mac.
@@ -30,7 +30,7 @@ Para la Wii original, no recomendamos usar BlueBomb si tiene la intención de in
 
 #### Sección II - Ejecutando el exploit
 1. Descargue el instalador de HackMii del [sitio web de BootMii](https://bootmii.org/download/).
-- (Si intenta reparar un ladrillo, también debe copiar la aplicación homebrew que desea usar en /apps/)
+- (Si intentas reparar un brickeo, también debe copiar la aplicación homebrew que desea usar en /apps/)
 1. Descomprímalo y coloque el archivo `boot.elf` en su unidad flash.
 1. Conecte la unidad flash a la consola. Para una Wii mini, el puerto USB está en la parte posterior. Para una Wii normal, usa el puerto inferior. (o la puerta de la derecha si está en posición vertical).
 1. Enciende tu consola y navega al menú de configuración. En la esquina superior derecha verá un código de 4 caracteres como el de la imagen de abajo. Este código es tu versión del menú de Wii, toma nota de esto, ya que lo necesitarás más adelante. Luego, apague su consola. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
@@ -53,8 +53,8 @@ Asegúrate de que la consola esté cerca de la computadora que ejecute el exploi
 
 La consola debería de iniciar el HackMii Installer. Ahora puedes apagar tu computadora Linux si ya no deseas usarla más adelante.
 
-[Si estas usando una Wii, proceda a instalar el canal de Homebrew y BootMii](hbc)
+[Si estas usando una Wii, proceda a instalar el Canal Homebrew y BootMii](hbc)
 {: .notice--info}
 
-[Si estas usando una Wii mini, proceda a instalar el canal de Homebrew](hbc-mini)
+[Si estas usando una Wii mini, proceda a instalar el Canal Homebrew](hbc-mini)
 {: .notice--info}
