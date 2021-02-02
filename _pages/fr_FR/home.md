@@ -14,7 +14,7 @@ excerpt: "Le guide complet pour modder votre Nintendo Wii."
 Ce guide est aussi disponible dans d'autres langues ! Pour changer la langue, veuillez cliquer sur le bouton en haut à droite et choisir une option.
 {: .notice--info}
 
-## C’est quoi « homebrew »?
+## Le "homebrew", qu'est-ce que c'est ?
 
 Le terme [**homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) désigne des programmes non autorisés par Nintendo. Cela peut inclure des jeux, des utilitaires, des émulateurs et bien plus encore !
 
