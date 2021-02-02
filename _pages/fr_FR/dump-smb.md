@@ -4,7 +4,7 @@ title: "Extraire un jeu via un réseau local"
 
 {% include toc title="Table des matières" %}
 
-Si vous avez besoin d'aide pour quoi que ce soit concernant ce tutoriel, veuillez rejoindre [le serveur Discord RiiConnect24 ](https://discord.gg/b4Y7jfD) (recommandé) ou [envoyez-nous un e-mail à support@riiconnect24.net](mailto:support@riiconnect24.net) .
+Si vous avez besoin d'aide concernant ce tutoriel, veuillez rejoindre [le serveur Discord de RiiConnect24](https://discord.gg/b4Y7jfD) (recommandé, en anglais) ou [envoyez-nous un mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Vous voulez extraire des jeux en utilisant votre réseau local ? Suivez ce tutoriel ! Il peut être utile si vous n’avez ni carte SD ni périphérique USB avec suffisamment d'espace pour extraire un jeu.
