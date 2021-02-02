@@ -18,7 +18,7 @@ If you're getting one of these errors (and not any other error), you should be a
 + NEWS/FORE000099
 
 #### What you need
-* An SD card or USB drive
+* SD карта или USB флешка/жёсткий диск
 * [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
 
 #### Folder to Delete
