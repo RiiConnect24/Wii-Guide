@@ -11,7 +11,7 @@ If you no longer wish to use RSSMii (maybe because it gives you too much Wii Mai
 
 #### What you need
 
-* An SD card
+* SD карта
 * [RSSMii Remover](https://github.com/RiiConnect24/rssmii/releases)
 
 #### Instructions
