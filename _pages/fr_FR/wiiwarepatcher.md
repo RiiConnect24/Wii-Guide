@@ -15,7 +15,7 @@ This tutorial is only for Windows version of WiiWare Patcher.
 
 * A Windows computer
 
-#### Downloading
+#### Téléchargement
 
 [If you want to download WiiWare Patcher without cmd.exe method, click here!](https://github.com/RiiConnect24/auto-wiiware-patcher/releases)
 {: .notice--info}
