@@ -4,7 +4,7 @@ title: "BlueBomb"
 
 {% include toc title="Table des matières" %}
 
-Si vous avez besoin d'aide concernant ce tutoriel, veuillez rejoindre [le serveur Discord "Wii Mini Hacking"](https://discord.gg/6ryxnkS) (recommandé, aide en anglais seulement)
+Si vous avez besoin d'aide à propos de ce tutoriel, rejoignez le [serveur Discord "Wii Mini Hacking"](https://discord.gg/6ryxnkS) (recommandé mais en anglais)
 {: .notice--info}
 
 ![BlueBomb](/images/bluebomb.png)
