@@ -1,8 +1,8 @@
 ---
-title: "Comenzar"
+title: "Prepárate"
 ---
 
-{% include toc title="Tabla de contenido" %}
+{% include toc title="Tabla de contenidos" %}
 
 En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por favor únete a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [envíanos un e-mail](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
 {: .notice--info}
