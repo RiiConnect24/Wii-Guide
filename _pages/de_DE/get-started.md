@@ -22,7 +22,7 @@ This guide is for the original Wii only, with the latest firmware (4.3), and the
     * (Requires an internet connection and changing the DNS server)
 - [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board
     * (Requires an SD card)
-- [FlashHax](flashhax) - Exploit that uses the Internet Channel
+- [FlashHax](flashhax) - Exploit, der den Internt-Kanal nutzt
     * (Requires the Internet Channel installed, and an internet connection)
 - [BlueBomb](bluebomb) - Exploit that uses Bluetooth
     * Erfordert einen Computer mit Bluetooth und GNU/Linux, sowie ein USB-Laufwerk
