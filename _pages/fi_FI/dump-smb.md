@@ -19,7 +19,7 @@ Do you want to dump games through your local network? Follow this tutorial! This
 Your Wii and your computer must be connected to one local network
 {: .notice--warning}
 
-#### Instructions
+#### Ohjeet
 
 ##### Section I - Downloading/Installing
 
