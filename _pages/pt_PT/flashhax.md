@@ -10,7 +10,7 @@ FlashHax é uma vulnerabilidade para a Wii que é atingido utilizando o Internet
 #### O que precisas
 
 - Uma Wii com conexão à Internet
-- The Internet Channel
+- O Internet Channel
 
 #### Instruções
 
