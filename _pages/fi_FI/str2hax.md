@@ -4,13 +4,13 @@ title: "str2hax"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiConnect24:n Discord-palvelimelle](https://discord.gg/b4Y7jfD) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Note that if your ISP or networking environment prevents using custom DNS servers, str2hax will not work and you should [choose another exploit to use](get-started).
+Huomaa, että jos internetpalveluntarjoajasi tai verkkoympäristösi estää sinua käyttämästä mukautettuja DNS-palvelimia, str2hax ei toimi ja sinun pitää [valita toinen exploit](get-started).
 {: .notice--info}
 
-str2hax is an exploit for the Wii that is triggered by loading the Wii's End User License Agreement. It requires nothing but an Internet connection that lets you change the DNS on your Wii.
+str2hax on exploit Wii:lle, mikä laukaistaan lataamalla Wii:n käyttöehtosopimus. Se ei vaadi mitään muuta kuin internetyhteyden, joka sallii sinun vaihtaa DNS-osoitteen Wii:lläsi.
 
 #### Mitä tarvitset
 
@@ -36,12 +36,12 @@ This exploit requires you to set your DNS in order to connect to a server that c
    - Jos yhteystesti onnistui, valitse `No` ohittaaksesi Wii-järjestelmäpäivityksen. ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)
    - Jos se ei onnistunut, käytä [toista exploitia](get-started).
 
-##### Section II - Triggering the Exploit
+##### Osa II - Exploitin laukaisu
 
-1. Go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`.
-2. If you see a pony on the screen on a light blue background, you have set it up correctly. Wait 1-2 minutes for the exploit to trigger (it should take about 1 minute and 25 seconds). The exploit will download the HackMii Installer so you can continue.
+1. Mene `Internet` osioon, sitten `User Agreements` tai `Agreement/Contact`, sitten `Yes`.
+2. Jos näet näytöllä ponin vaaleansinisellä taustalla, asetuksesi ovat oikein. Odota 1-2 minuuttia exploitin laukeamista (sen pitäisi viedä noin 1 minuutin ja 25 sekuntia). Exploit lataa HackMii Installerin, jotta voit jatkaa.
 
-If the HackMii Installer doesn't load and it instead freezes (you can't move your cursor) or it doesn't take 1-2 minutes to trigger, please restart your Wii and retry the exploit.
+Jos HackMii Installer ei avaudu ja sen sijaan jäätyy (et voi liikuttaa kursoriasi) tai sillä ei mene 1-2 minuuttia laueta, käynnistä Wii:si uudelleen ja kokeile käynnistää exploit uudelleen.
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[Jatka Homebrew Channelin ja BootMiin asennukseen](hbc)
 {: .notice--info}
