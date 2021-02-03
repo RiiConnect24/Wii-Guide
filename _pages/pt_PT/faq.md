@@ -11,9 +11,9 @@ Bricks (um estado em que algumas partes do software da tua Wii não estão a fun
 Ou envia-nos um email para support@riiconnect24.net ou entra no [server RiiConnect24 no Discord](https://discord.gg/b4Y7jfD).
 
 ### Quais são os requisitos e/ou recomendações do cartão SD?
-Necessitarás de um cartão SD com, pelo menos, 128MB para executar uma vulnerabilidade.
+Necessitarás de um cartão SD com, pelo menos, 128MB para executar um exploit.
 
-- If you are using the BlueBomb exploit, you do not need an SD card
+- Se estiveres a utilizar o exploit BlueBomb, não precisas de cartão SD
 
 Para armazenar aplicações homebrew, nós recomendamos um cartão SD com pelo menos 2 GB.
 
