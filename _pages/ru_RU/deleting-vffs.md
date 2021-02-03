@@ -35,7 +35,7 @@ If you're getting one of these errors (and not any other error), you should be a
 
 #### Instructions
 
-1. Launch WiiXplorer.
+1. Запустите WiiXplorer.
 2. Go to `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` and then select `Yes` for both dialogues that appear on the screen.
 3. Press Back until you have reached the file explorer screen.
 4. Select the tiny blue SD Card icon, then select `NAND`.
