@@ -17,7 +17,7 @@ If you need help for anything regarding this tutorial, please directly contact K
 * [Dolphin](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-#### Instructions
+#### Ohjeet
 
 ##### Section I - Installing Dolphin
 
