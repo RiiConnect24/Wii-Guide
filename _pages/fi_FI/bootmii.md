@@ -9,20 +9,20 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 ![BootMii Logo](/images/bootmii.png)
 
-You need an **SD card** to create a NAND backup using BootMii. If you do not have one, you can skip this page, although it is highly recommended to create one if you can.
+Tarvitset **SD-kortin** luodaksesi NAND-varmuuskopion BootMii:n avulla. If you do not have one, you can skip this page, although it is highly recommended to create one if you can.
 {: .notice--warning}
 
 One of BootMii's most important features is the ability to backup and restore your Wii's NAND storage. We will be going over how to perform a NAND backup. You can then restore from that backup for whatever reason. We recommend making a NAND backup regularly or before you do something risky to your console (and if you know what you're doing, you won't have to do anything risky).
 
-#### Requirements
-* An SD card with at least 512MB of free space
+#### Vaatimukset
+* SD-kortti, jolla on vähintään 512mt vapaata tilaa
 
-#### Instructions
-If you installed BootMii as boot2 in the last step, you will need to launch BootMii by restarting the console. Skip steps 1-2 if this is the case.
+#### Ohjeet
+Jos asensit BootMii:n boot2:een edellisessä vaiheessa, sinun täytyy käynnistää BootMii käynnistämällä konsoli uudelleen. Tässä tapauksessa ohita vaiheet 1-2.
 {: .notice--info}
-1. Launch the Homebrew Channel.
-2. Press the HOME Button, then select "Launch BootMii".
-   - Navigating BootMii is not possible using a Wii remote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. To navigate between options, press POWER on your Wii (or the right +Control Pad button on a GameCube controller). To select an option, hit RESET on your Wii or A on your GameCube controller.
+1. Käynnistä Homebrew Channel.
+2. Paina HOME-nappia, sitten valitse "Launch BootMii".
+   - BootMii:ssa ei voi navigoida Wii remotea käyttämällä. Sinun täytyy käyttää konsolin POWER- ja RESET-nappeja, tai porttiin 1 liitettyä GameCube-ohjainta. To navigate between options, press POWER on your Wii (or the right +Control Pad button on a GameCube controller). To select an option, hit RESET on your Wii or A on your GameCube controller.
 3. Select the Options button (the one with the gears).
 4. Select the BackupMii button (the one with the green arrow).
 - A NAND backup will start. You can watch the progress on the screen.
