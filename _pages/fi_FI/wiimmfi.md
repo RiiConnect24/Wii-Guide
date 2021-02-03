@@ -43,7 +43,7 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 3. Insert your game disc (you can insert it before or after launch, it doesn't matter).
 4. Wait for patch to complete, and it'll begin!
 
-### No-Homebrew (Disc)
+### Ei homebrew:ta (Levy)
 Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
 
 #### Mitä tarvitset
