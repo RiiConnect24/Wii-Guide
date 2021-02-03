@@ -33,7 +33,7 @@ If you're getting one of these errors (and not any other error), you should be a
   + 4841474a
   + 48414750
 
-#### Instructions
+#### Ohjeet
 
 1. Launch WiiXplorer.
 2. Go to `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` and then select `Yes` for both dialogues that appear on the screen.
