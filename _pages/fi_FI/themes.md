@@ -43,7 +43,7 @@ To find themes to install, here are 3 resources:
 MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
 {: .notice--warning}
 
-#### Instructions
+#### Ohjeet
 
 ##### Section I - Finding a Theme
 
