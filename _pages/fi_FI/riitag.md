@@ -18,7 +18,7 @@ Want to install RiiTag on your Wii U? See [this guide](riitag-wiiu) on how to co
 * A text editor
 * A USB Loader
 
-#### Instructions
+#### Ohjeet
 
 ##### Section I - Getting Started
 
