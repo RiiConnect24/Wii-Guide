@@ -36,7 +36,7 @@ After following the above linked guide, you should have:
 * IOS80 patched
 {: .notice--info}
 
-#### Instructions
+#### Ohjeet
 
 If you use cannot use the patcher, please [follow the manual guide](https://pad.snopyta.org/s/rJ2N0B1XU), to install RiiConnect24. The end result is the same regardless of the method followed.
 {: .notice--info}
