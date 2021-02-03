@@ -35,7 +35,7 @@ There is no guide to installing RiiConnect24 on a Wii Mini, as attempting to ins
 If you still can't run RiiConnect24 Patcher, please send us a mail at support@riiconnect24.net
 {: .notice--info}
 
-#### Instructions
+#### Ohjeet
 
 ##### Section I - Downloading RiiConnect24 Patcher
 
