@@ -11,7 +11,7 @@ This guide will help you install RiiConnect24 on your Dolphin installation.
 If you need help for anything regarding this tutorial, please directly contact KcrPL#4625 on Discord, join the [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-### What you need
+### Mitä tarvitset
 * A computer with either Windows 7 or newer or any Unix based system
 * [.VFF-File-Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
 * [Dolphin](https://dolphin-emu.org/download/)
