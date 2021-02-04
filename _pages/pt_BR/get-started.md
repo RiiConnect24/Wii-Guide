@@ -7,7 +7,7 @@ title: "Introdução"
 Caso precise de ajuda com este tutorial, entre [no servidor do RiiConnect24 no Discord](https://discord.gg/b4Y7jfD) (recomendado) ou [envie um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-All of the exploits run the HackMii Installer, and have the same end result.
+Todos os exploits podem executar o instalador HackMii, e ter o mesmo resultado final.
 {: .notice--info}
 
 Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
