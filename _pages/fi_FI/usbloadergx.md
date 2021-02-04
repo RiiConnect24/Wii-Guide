@@ -11,7 +11,7 @@ This is a quick start guide on how to use USB Loader GX, a popular USB loader fo
 
 ![USB Loader GX](/images/usbloadergx.png)
 
-#### What you need
+#### Mitä tarvitset
 
 * A Wii
 * A USB drive
