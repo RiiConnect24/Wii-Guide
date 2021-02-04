@@ -7,7 +7,7 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
 
-#### What you need
+#### Mitä tarvitset
 * An SD card or USB drive
 * [Homebrew Browser](/assets/files/homebrew_browser_v0.3.9e.zip)
 
