@@ -11,7 +11,7 @@ Do you want to make a backup of your games? This tutorial will explain you how t
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-#### What you need
+#### Mitä tarvitset
 
 * An SD card or USB drive with at least 4.7 GB of free space
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
