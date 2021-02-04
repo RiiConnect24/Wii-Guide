@@ -4,26 +4,26 @@ title: "BlueBomb"
 
 {% include toc title="Table of Contents" %}
 
-If you need help with anything regarding this tutorial, please join [the Wii mini Hacking Discord server](https://discord.gg/6ryxnkS) (recommended)
+Jos tarvitset apua jonkin tähän oppaaseen liittyvän kanssa, liity [Wii mini Hacking Discord-palvelimelle](https://discord.gg/6ryxnkS) (suositeltavaa)
 {: .notice--info}
 
 ![BlueBomb](/images/bluebomb.png)
 
-BlueBomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Although it is the only exploit that works for the Wii mini, BlueBomb can run on the original Wii as well. This exploit also enables recovery from certain bricks, such as a banner brick.
+BlueBomb on exploit, joka käyttää hyödykseen virhettä Wiin ja Wii minin Bluetooth-kirjastoissa. Vaikka se onkin ainut Wii minillä toimiva exploit, BlueBombia voidaan käyttää myös alkuperäisellä Wiillä. Tämä exploit myös mahdollistaa tiettyjen konsolin käyttökelvottomaksi tekevien ongelmien, kuten banner brickin korjaamisen.
 
-For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
+Emme suosittele BlueBombia käytettävän alkuperäisellä Wiillä, jos tarkoituksenasi on asentaa Homebrew Channel ja BootMii, sillä on olemassa käytännöllisempiä exploiteja.
 {: .notice--info}
 
 #### Osa I - Mitä tarvitset
 - Linux-tietokone
   - Jos sinulla on Raspberry Pi, voit myös käyttää sitä, sillä siinä todennäköisesti on Linux valmiiksi asennettuna.
-  - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports.
+  - Linux-alijärjestelmä Windowsille *ei kelpaa*, sillä se ei pääse suoraan käsiksi tietokoneen Bluetooth-adapteriin tai USB-portteihin.
   - Jos sinulla ei ole Linuxia, [Ubuntu](https://ubuntu.com/download/desktop) on käyttäjäystävällisin vaihtoehto, ja sitä voidaan käyttää laitteilla, jotka käyttävät Windowsia tai Macia.
     - 32-bittiset laitteet vaativat [Ubuntu 16.04](http://releases.ubuntu.com/16.04/):n.
-    - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
+    - 64-bittisillä laitteilla on suositeltavaa käyttää LTS-versiota vakautensa vuoksi, mutta viimeisin julkaisu myös kelpaa.
   - You can [flash a Linux install to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
 - Bluetooth-adapteri.
-  - Sisäinen Bluetooth-adapteri toimii.
+  - Sisäinen Bluetooth-adapteri kelpaa.
   - Jos sinulla ei ole, varmista, että hankit sellaisen, joka on yhteensopiva Linuxin kanssa.
 - USB-massamuistilaite FAT32-formaatissa.
   - Tämä ei voi olla sama muistilaite, jota Linux-tietokoneesi käyttää.
