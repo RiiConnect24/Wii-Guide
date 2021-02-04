@@ -11,7 +11,7 @@ Do you want to dump games through your local network? Follow this tutorial! This
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-#### What you need
+#### Mitä tarvitset
 
 * A Wii.
 * [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
