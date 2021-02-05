@@ -34,27 +34,27 @@ Emme suosittele BlueBombia käytettävän alkuperäisellä Wiillä, jos tarkoitu
 1. Pura se ja laita `boot.elf` tiedosto muistitikullesi.
 1. Liitä muistitikku konsoliin. Wii minin USB-portti on konsolin takana. Tavallisella Wiillä, käytä alempaa porttia. (tai oikeanpuolimmaista porttia, jos se on pystyasennossa).
 1. Laita konsolisi päälle ja mene asetusvalikkoon. Oikeassa yläkulmassa näet nelimerkkisen koodin, kuten alla olevassa kuvassa. Tämä koodi on Wii Menu -versiosi, laita tämä muistiin, sillä tarvitset sitä myöhemmin. Sen jälkeen sammuta konsolisi. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
-1. Start your Linux distro, and ensure you are connected to the internet.
-1. Open the Terminal
+1. Käynnistä Linux-distrosi ja varmista, että olet yhdistettynä internetiin.
+1. Avaa terminaali
 1. Suorita seuraavat komennot:
 ```bash
 wget https://wii.guide/assets/files/bluebomb-helper.sh
 chmod +x bluebomb-helper.sh
 ./bluebomb-helper.sh
 ```
-1. The helper will then download the required files, and ask for information about your console.
+1. Apuohjelma lataa tarvittavat tiedostot ja kysyy tietoja konsolistasi.
   - If you have selected a Wii mini you will be asked to provide your region. This can be determined by the last letter of the Wii Menu version (`U` for **USA** and `E` for **PAL** models).
   - If you have selected a Wii you will be asked to provide your Wii Menu Version (What you determined in step 4)
 1. Laita konsolisi päälle, **äläkä** yhdistä Wiimoteja.
 1. Paina Sync-nappia toistuvasti, kunnes terminaali näyttää `got connection handle`. Tämä voi vaatia useita yrityksiä, joten älä luovuta.
 
-Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
+Varmista, että konsoli on lähellä tietokonetta, joka suorittaa exploitia. Ideaalisesti niiden tulisi olla alle metrin päässä toisistaan.
 {: .notice--info}
 
 Konsolin pitäisi nyt bootata HackMii installeriin. Voit nyt sammuttaa Linux-tietokoneesi, jos et aio käyttää sitä myöhemmin.
 
-[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
+[Jos käytössäsi on Wii, jatka Homebrew Channelin ja BootMiin asennukseen](hbc)
 {: .notice--info}
 
-[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
+[Jos käytössäsi on Wii mini, jatka Homebrew Channelin asennukseen](hbc-mini)
 {: .notice--info}
