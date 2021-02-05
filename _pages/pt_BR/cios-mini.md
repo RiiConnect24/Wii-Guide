@@ -4,17 +4,17 @@ title: "d2xl cIOS para Wii mini (experimental)"
 
 {% include toc title="Sumário" %}
 
-Este tutorial irá lhe ensinar a como instalar d2xl cIOS por Leseratte para Wii Mini (IOS customizada). Isso é necessário caso queira jogar em USB Loaders. Alguns aplicativos homebrew podem funcionar melhor com o uso de cIOS.
+Este tutorial irá lhe ensinar a como instalar d2xl cIOS feito pelo Leseratte para Wii Mini (IOS customizada). Isso é necessário caso queira jogar em USB Loaders. Alguns aplicativos homebrew podem funcionar melhor com o uso de cIOS.
 
 ![Instalador d2x cIOS](/images/cIOS.png)
 
-This guide is only intended for Wii mini users. If you have a Wii, follow [this guide](cios) instead.
+Esse guia é apenas com intenção para usuários de Wii Mini. Se você possuí um Wii, siga [este guia](cios) então.
 {: .notice--warning}
 
-Caso precise de ajuda com algo relacionado a este tutorial, entre no servidor do Discord dedicado para hacks do Wii mini:[](https://discord.gg/6ryxnkS)(recomendado)
+Caso precise de ajuda com algo relacionado a este tutorial, entre no servidor do Discord dedicado para hacks do Wii mini:[](https://discord.gg/6ryxnkS) (recomendado)
 {: .notice--info}
 
-O instalador d2x cIOS foi originalmente desenvolvido para o Wii U (vWii) por DaveBaol, e cIOS customizadas no Wii mini foram criadas por Leseratte. A página de download original pode ser encontrada [aqui](https://wii.leseratte10.de/d2xl-cIOS/). A página Github do criador Leseratte pode ser encontrada [aqui](https://github.com/Leseratte10/d2xl-cios). Note que ainda se encontra em estado experimental, embora não foram reportados problemas.
+O instalador d2x cIOS foi originalmente desenvolvido para o Wii U (vWii) por DaveBaol, e cIOS customizadas no Wii mini foram criadas por Leseratte. A página de download original pode ser encontrada [aqui](https://wii.leseratte10.de/d2xl-cIOS/). A página Github do criador Leseratte pode ser encontrada [aqui](https://github.com/Leseratte10/d2xl-cios). Note que esta cIOS ainda se encontra em estado experimental, embora não foram reportados problemas com a funcionalidade.
 {: .notice--info}
 
 #### Você precisará de
@@ -25,20 +25,20 @@ O instalador d2x cIOS foi originalmente desenvolvido para o Wii U (vWii) por Dav
 
 #### Instruções
 
-##### Parte I - Baixar
+##### Parte I - Baixando
 
-1. Extract the d2xl cIOS Installer to the `apps` folder on your USB drive.
-1. Insert your USB drive into your Wii mini and load the d2xl cIOS Installer from the Homebrew Channel.
+1. Extraia o instalador s2xl cIOS para a pasta `apps` na sua unidade USB.
+1. Insira a sua unidade USB no seu Wii Mini e carregue o instalador d2xl cIOS no Canal Homebrew.
 
-##### Parte II - Instalar
+##### Parte II - Instalando
 
 1. Pressione continuar e defina as opções dessa forma:
     ```
-    Select cIOS: d2xl-v1-beta2
-    Select cIOS base: 57
-    Select cIOS slot: 249
+    Selecione xIOS: d2xl-v1-beta2
+    Selecione cIOS base: 57
+    Selecione cIOS slot: 249
     ```
-Take a note of the version number under notes (`IOS57-64-` ending in either `v31776` or `v31775`)
+Tenha um lembrete do número da versão (`IOS57-64-` finalizando em ambos `v31776` ou `v31775`)
 1. Quando feito, pressione A para instalar. Assim que terminar, saia do instalador.
    - If the install fails with a `TMD version mismatch` error, press left or right on the +Control Pad over the `Select cIOS base` option until the version number is different than the one you tried before. The number 57 will not change.
 
