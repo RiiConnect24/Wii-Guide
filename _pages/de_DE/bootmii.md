@@ -22,12 +22,12 @@ Falls du BootMii im letzten Schritt als Boot2 installiert hast, musst du BootMii
 {: .notice--info}
 1. Starte den Homebrew-Kanal.
 2. Drücke die HOME-Taste und wähle dann "Launch BootMii".
-   - BootMii kann nicht mit der Wii-Fernbedienung gesteuert werden. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. Um zwischen den Optionen zu wechseln, drücke die POWER-Taste an deiner Wii (oder die rechte Steuerkreuztaste auf einem GameCube-Controller). To select an option, hit RESET on your Wii or A on your GameCube controller.
-3. Select the Options button (the one with the gears).
-4. Select the BackupMii button (the one with the green arrow).
+   - BootMii kann nicht mit der Wii-Fernbedienung gesteuert werden. Du musst entweder die EIN/AUS- und RESET-Tasten an deiner Konsole oder einen an Port 1 angeschlossenen GameCube-Controller verwenden. Um zwischen den Optionen zu wechseln, drücke die POWER-Taste an deiner Wii (oder die rechte Steuerkreuztaste auf einem GameCube-Controller). Um eine der Optionen auszuwählen, drücke die RESET-Taste an deiner Wii oder A auf dem GameCube-Controller.
+3. Wähle nun die Einstellungen aus (die Schaltfläche mit den Zahnrädern).
+4. Gehe auf BackupMii (die Schaltfläche mit dem grünen Pfeil).
 - Die NAND-Sicherung startet. Du kannst den Fortschritt auf dem Bildschirm sehen.
-- "Bad Blocks" are normal. Don't worry when you see one on a NAND backup
-- After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii.
+- "Bad Blocks" (kaputte Blöcke) sind normal. Mach dir also keine Sorgen, wenn du welche während der NAND-Sicherung sehen solltest
+- Nach diesem Schritt wird die Sicherung überprüft. Dies wird zwar empfohlen, kann aber auch durch Drücken der EJECT-Taste an der Wii-Konsole übersprungen werden.
 5. Wenn die Sicherung abgeschlossen ist, beende den NAND-Sicherungsbildschirm durch Drücken einer beliebigen Taste.
 6. Um BootMii zu beenden, wähle die Zurück-Schaltfläche aus (die mit dem Pfeil) und anschließend entweder die Wii-Menü- oder die Homebrew-Kanal-Schaltfläche, je nachdem, wohin du möchtest.
 
