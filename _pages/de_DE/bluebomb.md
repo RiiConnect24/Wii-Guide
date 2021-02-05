@@ -33,7 +33,7 @@ Für die originale Wii empfehlen wir dir nicht, BlueBomb zu verwenden, falls du 
 - (Falls du versuchst, einen Brick zu beheben, solltest du auch die Homebrew-Anwendung, die du nutzen möchtest, nach /apps/ kopieren)
 1. Entpacke ihn und verschiebe die `boot.elf`-Datei auf dein Laufwerk.
 1. Verbinde das Laufwerk mit deiner Konsole. Bei einer Wii mini befindet sich der USB-Anschluss auf der Rückseite. Benutze bei einer normalen Wii den unteren Anschluss (oder den rechten Port bei senkrechter Aufstellung).
-1. Schalte deine Konsole an und navigiere in die Systemeinstellungen. On the top right corner you will see a 4-character code like the one in the picture below. Dieses Kürzel ist deine Wii-Menü-Version. Notiere sie, da du sie später benötigen wirst. Schalte danach deine Konsole aus. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+1. Schalte deine Konsole an und navigiere in die Systemeinstellungen. In der oberen rechten Ecke wirst du einen vierstelligen Code, ähnlich dem im Bild unten, sehen. Dieses Kürzel ist deine Wii-Menü-Version. Notiere sie, da du sie später benötigen wirst. Schalte danach deine Konsole aus. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Starte deine Linux-Distribution und stelle sicher, dass du mit dem Internet verbunden bist.
 1. Öffne das Terminal
 1. Führe folgende Befehle aus:
@@ -48,13 +48,13 @@ chmod +x bluebomb-helper.sh
 1. Schalte deine Konsole ein und verbinde **keine** Wii-Fernbedienungen.
 1. Drücke die Sync-Taste wiederholt, bis das Terminal `got connection handle` anzeigt. Dies kann mehrere Versuche benötigen, gib daher nicht auf.
 
-Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
+Stelle sicher, dass die Konsole sich in der Nähe des Computers befindet, welcher den Exploit ausführt, der Abstand sollte idealerweise weniger als 1 Meter betragen.
 {: .notice--info}
 
-The console should now boot to the HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
+Die Konsole sollte nun den HackMii Installer starten. Falls du ihn nicht mehr benötigst, kannst du nun den Linux-Computer ausschalten.
 
-[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
+[Falls du eine Wii verwendest, fahre damit fort den Homebrew-Kanal und BootMii zu installieren](hbc)
 {: .notice--info}
 
-[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
+[Falls du eine Wii mini verwendest, fahre damit fort den Homebrew-Kanal zu installieren](hbc-mini)
 {: .notice--info}
