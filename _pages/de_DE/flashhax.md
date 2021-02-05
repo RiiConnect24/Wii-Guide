@@ -10,7 +10,7 @@ FlashHax ist ein Exploit für die Wii, der durch die Nutzung des Internet-Kanals
 #### Voraussetzungen
 
 - Eine Wii mit Internetverbindung
-- The Internet Channel
+- Der Internet-Kanal
 
 #### Anleitung
 
