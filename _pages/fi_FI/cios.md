@@ -4,29 +4,29 @@ title: "cIOS"
 
 {% include toc title="Table of Contents" %}
 
-This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
+Tämä opas kertoo sinulle, kuinka asentaa cIOS (custom IOS). Tämä vaaditaan, jos haluat käynnistää pelejä USB-lataajan kautta. Jotkut homebrew-ohjelmat saattavat toimia paremmin cIOS:ia käyttämällä.
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
+Jos sinulla on Wii mini, asenna [tämä cIOS](cios-mini). Muun cIOS:n asentaminen Wii minille ei tule toimimaan.
 {: .notice--info}
 
 #### Mitä tarvitset
 
 * Wii internetyhteydellä
-* An SD card or USB drive (ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not see the correct cIOS option)
+* SD-kortti tai USB-asema (jos käytät SD-korttia, varmista, että lukkokytkin on auki-asennossa tai muuten et näe oikeaa cIOS-vaihtoehtoa)
 * [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
 #### Ohjeet
 
 ##### Osa I - Lataaminen
 
-1. Download d2x cIOS Installer and extract it to the `apps` folder on your SD card or USB drive.
-1. Insert your SD card or USB drive into your Wii, and launch d2x cIOS Installer from the Homebrew Channel.
+1. Lataa d2x cIOS Installer ja pura se `apps` kansioon SD-kortillesi tai USB-asemallesi.
+1. Liitä SD-korttisi tai USB-asemasi Wii-konsoliisi ja käynnistä d2x cIOS Installer Homebrew Channelista.
 
 ##### Osa II - Asentaminen
 
-1. Press continue, then set the options to the following:
+1. Paina continue, sitten aseta vaihtoehdot seuraavasti:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 57
@@ -34,8 +34,8 @@ Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 ![Install cIOS 249](/images/Wii/Install249.png)
-1. Once set, press A twice to install.
-1. When done installing, press A to return, and set the options to the following:
+1. Kun asetettu, paina A:ta kahdesti asentaaksesi.
+1. Kun asennus on valmis, paina A:ta palataksesi ja aseta vaihtoehdot seuraavasti:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 56
@@ -43,23 +43,23 @@ Select cIOS slot: 250
 Select cIOS version: 65535
 ```
 ![Install cIOS 250](/images/Wii/Install250.png)
-1. Once set, press A twice to install.
-1. When done installing, press A to return, and set the options to the following:
+1. Kun asetettu, paina A:ta kahdesti asentaaksesi.
+1. Kun asennus on valmis, paina A:ta palataksesi ja aseta vaihtoehdot seuraavasti:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 38
 Select cIOS slot: 251
 Select cIOS version: 65535
 ```
-1. Once set, press A twice again to install, and then exit once done.
+1. Kun asetettu, paina A:ta kahdesti asentaaksesi ja sen jälkeen poistu, kun valmista.
 
-##### Options once complete
+##### Vaihtoehdot, kun valmista
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
+[Jatka Homebrew Browseriin](hbb)<br> Homebrew Browser on hyvä paikka hankkia homebrew-sovelluksia Wiillesi. Tämän asennus on vapaaehtoista.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Jatka sivun navigointiin](site-navigation)<br> Meillä on monia muita oppaita, joista saattaisit pitää.
 {: .notice--info}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
+Voit nyt käyttää homebrew-sovelluksia, kuten [USB Loader GX:ää](usbloadergx) ja [WiiFlowia](wiiflow).
 {: .notice--info}
