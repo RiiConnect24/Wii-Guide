@@ -40,10 +40,10 @@ WiiLink24 and all of its services (such as Wii no Ma) are not controlled or oper
 15. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 16. Starte Wii no Ma und schon kann's losgehen!
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
+[Weiter mit RiiConnect24](riiconnect24)<br> RiiConnect24 erlaubt es dir, eingestellte Dienste von WiiConnect24 zu benutzen, was den Nachrichtenkanal, Wetterkanal, Meinungskanal, Nintendo-Kanal und Mii-Wettbewerbskanal, sowie Wii Mail beinhaltet. Dies zu installieren ist nicht zwingend erforderlich.
 {: .notice--info}
 
-[Weiter zu Wimmfi](wiimmfi)<br> Wiimmfi lässt einen Spiele online spielen, nach der Abschaltung der Nintendo Wi-Fi Connection. This is optional to install.
+[Weiter zu Wimmfi](wiimmfi)<br> Wiimmfi lässt einen Spiele online spielen, nach der Abschaltung der Nintendo Wi-Fi Connection. Dies zu installieren ist nicht zwingend erforderlich.
 {: .notice--info}
 
 [Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
