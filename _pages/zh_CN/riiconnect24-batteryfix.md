@@ -4,7 +4,7 @@ title: "RiiConnect24 Battery Fix"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+译者注：如果你需要任何帮助，国内用户可以添加QQ群：417992332，国外用户可以加入[RiiConnect24 Discord群组](https://discord.gg/b4Y7jfD)，或者[发送电子邮件至support@riiconnect24.net](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
@@ -16,11 +16,11 @@ If you're getting error FORE000006, usually it means "invalid data". It could be
 
 If the error code still remains, the time on your Wii might be incorrect, confusing the Channels. These instructions might be worth a shot.
 
-#### What you need
+#### 你需要的是
 
 * Crosshead Phillips #00 screwdriver ![Crosshead Phillips #00 Screwdriver](/images/RiiConnect24/clock/screwdriver.jpg)
 
-#### Instructions
+#### 步骤
 
 1. Set your Wii to the correct time in Wii Settings.
 2. Unplug your Wii AC adapter. You'll need to open up a battery cover on the side of your Wii, so you might want to remove everything plugged into your Wii. ![Unplug Wii AC Adapter](/images/RiiConnect24/clock/unplug.jpg)
