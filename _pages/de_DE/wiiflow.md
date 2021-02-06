@@ -14,7 +14,7 @@ This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that
 #### Voraussetzungen
 
 * Eine Wii
-* Einen USB-Stick und/oder eine SD Karte
+* Ein USB-Laufwerk und/oder eine SD-Karte
 * [WiiFlow](https://github.com/Fledge68/WiiFlow_Lite/releases)
 
 Stelle sicher, dass du vorher [cIOS](/cios) installiert hast!
@@ -82,7 +82,7 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 
 ##### Möglichkeiten nach Abschluss
 
-[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki is a great resource with information about WiiFlow.
+[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki ist eine großartige Quelle mit Informationen rund um WiiFlow.
 {: .notice--info}
 
 [Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
