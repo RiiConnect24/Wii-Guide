@@ -13,7 +13,7 @@ Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [Rii
 
 ## Verschiedene Patcher
 
-There are lots of different methods to connect to Wiimmfi. Choose the one that fits your needs best.
+Es gibt viele verschiedene Möglichkeiten, sich mit Wiimmfi zu verbinden. Choose the one that fits your needs best.
 
 ### Automatic patching from the Disc Channel using Priiloader
 
@@ -88,21 +88,21 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 - Your copy of your game (in WAD format)
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (nur für Windows)  
 **oder**
-- [Auto WiiWare Patcher](https://github.com/RiiConnect24/auto-wiiware-patcher/releases) (cross platform)
+- [Auto WiiWare Patcher](https://github.com/RiiConnect24/auto-wiiware-patcher/releases) (plattformübergreifend)
 - [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
-[If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
+[Wenn du sehen möchtest wie man den WiiWare Patcher nutzt, klicke hier!](wiiwarepatcher)
 {: .notice--info}
 
-Steps:
+Schritte:
 1. Extract the .zip of the latest version of Auto WiiWare Patcher, and put your WAD in it.
 2. Führe das Patch-Skript für dein Betriebssystem aus: meistens endet es auf `.bat` für Windows und `.sh` für macOS/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
 3. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
 
 ## Andere Sachen
 
-### Mario Kart Wii Competitions
-Wiimmfi allows you to participate in Mario Kart Wii competitions again.
+### Mario Kart Wii-Wettbewerbe
+Wiimmfi ermöglicht es dir, wieder an Mario Kart Wii-Wettbewerben teilzunehmen.
 
 #### Voraussetzungen
 
@@ -123,8 +123,8 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 If you're using the Wii U, you will have to run the competitions patcher whenever you want to check for a competition, because WiiConnect24 is not enabled on the Wii U.
 {: .notice--info}
 
-### DS Games
-Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks to an exploit called nds-constraint, you can play DS games without patching your games.
+### DS-Spiele
+Wiimmfi unterstützt nicht nur Wii-Spiele, sondern außerdem auch eine Menge DS-Spiele. Thanks to an exploit called nds-constraint, you can play DS games without patching your games.
 
 #### Voraussetzungen
 
