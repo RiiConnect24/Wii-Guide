@@ -17,7 +17,7 @@ If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to in
 * An SD card or USB drive (ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not see the correct cIOS option)
 * [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
-#### Instructions
+#### Инструкции
 
 ##### Section I - Downloading
 
