@@ -4,14 +4,14 @@ title: "Dumping a game over a local network"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+译者注：如果你需要任何帮助，国内用户可以添加QQ群：417992332，国外用户可以加入[RiiConnect24 Discord群组](https://discord.gg/b4Y7jfD)，或者[发送电子邮件至support@riiconnect24.net](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
 Do you want to dump games through your local network? Follow this tutorial! This can be useful if you don't have an SD card or a USB drive that is large enough to dump a game to.
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-#### What you need
+#### 你需要的是
 
 * A Wii.
 * [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
@@ -19,7 +19,7 @@ Do you want to dump games through your local network? Follow this tutorial! This
 Your Wii and your computer must be connected to one local network
 {: .notice--warning}
 
-#### Instructions
+#### 步骤
 
 ##### Section I - Downloading/Installing
 
