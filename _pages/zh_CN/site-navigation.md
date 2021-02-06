@@ -1,13 +1,13 @@
 ---
-title: "Site Navigation"
+title: "网站导览"
 layout: single
 sitemap: false
 ---
 
-![WiiTutorials](/images/WiiTutorials.jpg)
+![Wii教程](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
-**Featured**
+**特色文章**
 
 + [cIOS](cios)
 + [RiiConnect24](riiconnect24)
@@ -24,43 +24,43 @@ sitemap: false
 + [WiiLink24](wiilink24)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
-+ [Deleting VFFs](deleting-vffs)
-+ [Fixing FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [删除VFF文件](deleting-vffs)
++ [修复FORE000006错误](riiconnect24-batteryfix)
++ [修复NEWS000006错误](news000006)
 
-**Modding 101**
-+ [BlueBomb](bluebomb)
-* [BootMii Backup](bootmii)
+**破解101**
++ [蓝牙炸弹](bluebomb)
+* [BootMii 备份](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
-+ [Homebrew Browser](hbb)
-+ [Homebrew Channel](hbc)
++ [Homebrew浏览器](hbb)
++ [Homebrew Channel频道](hbc)
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
 + [str2hax](str2hax)
 + [Wii Mod Lite](wiimodlite)
 
-**Homebrew**
-+ [Creating Wii Game Shortcuts](wiigsc)
-+ [How to dump GameCube/Wii games](dump-games)
-+ [How to dump Channels (WADs)](dump-wads)
-+ [Installing RSSMii](rssmii)
-+ [Installing Wii Themes](themes)
-+ [Performing a SysCheck](syscheck)
-+ [Removing RSSMii](rssmii-remove)
+**Homebrew 自制软件**
++ [制作Wii游戏的快捷方式](wiigsc)
++ [如何导出GameCube/Wii游戏](dump-games)
++ [如何导出频道（Wad）](dump-wads)
++ [安装RSSMii](rssmii)
++ [安装Wii主题](themes)
++ [进行系统检查](syscheck)
++ [卸载RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 + [WiiFlow](wiiflow)
 
 **Wii mini**
-+ [Installing the Homebrew Channel on the Wii mini](hbc-mini)
-+ [Installing cIOS on the Wii mini](cios-mini)
++ [在Wii mini安装Homebrew Channel](hbc-mini)
++ [在Wii mini安装cIOS](cios-mini)
 
-**Site**
-+ [Home](/)
-+ [Get Started](get-started)
+**站点**
++ [主页](/)
++ [开始](get-started)
 + [FAQ](faq)
-+ [Donations](donations)
++ [捐赠](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
