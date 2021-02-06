@@ -29,7 +29,7 @@ WiiLink24 and all of its services (such as Wii no Ma) are not controlled or oper
 4. Select your region.
 5. Connect the SD Card or USB Drive to your computer and select "`1`".
 6. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
-7. Warte ein wenig...
+7. Bitte hab etwas Geduld...
 8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
 9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLink24Patcher.bat` to your SD Card or USB Device.
 10. Put your SD card or USB drive in your Wii.
