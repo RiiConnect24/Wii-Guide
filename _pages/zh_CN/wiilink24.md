@@ -9,14 +9,14 @@ WiiLink24 and all of its services (such as Wii no Ma) are not controlled or oper
 
 [WiiLink24](https://wiilink24.com/) lets you use the Japanese-exclusive Wii no Ma channel, and in the future will let you use the Digicam Print Channel and the Demae Channel again.
 
-#### What you need
+#### 你需要的是
 
 * An SD card or USB drive
 * A Wii with an Internet connection
 * A Windows or Unix based computer
 * [WiiLink24 Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
-#### Instructions
+#### 步骤
 
 ##### Section I - Patching Wii no Ma
 
