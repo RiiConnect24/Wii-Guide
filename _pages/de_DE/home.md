@@ -11,7 +11,7 @@ header:
 excerpt: "Die vollständige Anleitung zum Modden deiner Nintendo Wii."
 ---
 
-Die Anleitung ist auch in anderen Sprachen verfügbar! Um die Sprache zu ändern, klicke bitte auf das Symbol oben rechts und ändere deine Sprache.
+Diese Anleitung ist auch in anderen Sprachen verfügbar! Um die Sprache zu ändern, klicke bitte auf das Symbol oben rechts und ändere deine Sprache.
 {: .notice--info}
 
 ## Was ist "Homebrew"?
@@ -20,7 +20,7 @@ Die Anleitung ist auch in anderen Sprachen verfügbar! Um die Sprache zu ändern
 
 Running homebrew on your Nintendo Wii can be done for free by exploiting bugs in Wii's software. The modifications installed by following this guide will give you easy and persistent access to Wii homebrew.
 
-## Was kann ich alles mit Homebrew machen?
+## Was kann ich mit Homebrew alles machen?
 
 Here's a list of things you can do using homebrew. While this list is by no means totally comprehensive, you should have a good idea of what is possible, and the guide will help you easily get started.
 
@@ -47,5 +47,5 @@ Es gibt weitere gute Quellen für Wii-Modding und zur Fehlerbehebung, die dir he
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
 - [Wii Hacking Explained - von Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...und natürlich diese Seite
 
-For modding a Wii U, follow this guide:
+Um eine Wii U zu modden, folge dieser Anleitung:
 - [NH Wii U Guide](https://wiiu.hacks.guide)
