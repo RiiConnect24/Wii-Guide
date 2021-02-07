@@ -84,5 +84,5 @@ On the middle of the bottom of the screen, you can see how much space is free on
 
 ##### Options once complete
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[继续 网站导览](site-navigation) 我们有许多你可能喜欢的其他教程。
 {: .notice--info}
