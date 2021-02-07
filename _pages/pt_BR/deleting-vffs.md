@@ -2,7 +2,7 @@
 title: "Deletando VFFs"
 ---
 
-{% include toc title="Sumário" %}
+{% include toc title="Table of Contents" %}
 
 Caso precise de ajuda com este tutorial, entre [no servidor do RiiConnect24 no Discord](https://discord.gg/b4Y7jfD) (recomendado) ou [envie um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
