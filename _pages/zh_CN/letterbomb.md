@@ -7,23 +7,23 @@ title: "LetterBomb"
 
 ![LetterBomb](/images/letterbomb.png)
 
-LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
+LetterBomb是Wii的一种漏洞，它是使用Wii留言板触发的。
 
 #### 你需要的是
-- An SD card
-- A Wii on System Menu version 4.3
+- 一张SD卡
+- 一台Wii，系统版本为4.3。
 
 #### 步骤
 
-1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
-2. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure* `Bundle the HackMii Installer for me!` *is checked*, and cut either wire
-   - Whichever wire you choose to cut doesn't matter. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
-3. Extract the contents of the downloaded ZIP to the root of your SD card.
-4. On your Wii, return to the Wii Menu and then open the Message Board.
-5. Load the red letter with a bomb icon.
-   - In various scenarios, you may need to look at the previous or next day to find it.
+1. 在你的Wii上，前往`Wii 设置` -> `Internet` -> `Console Information` 然后记下你的MAC地址。
+2. 前往 [please.hackmii.com](https://please.hackmii.com), 输入你的Wii MAC地址和Wii所属的区域, 完成验证码, *确保* `Bundle the HackMii Installer for me!` *已经勾选*, 然后点击下方任意一个按钮。
+   - 你选择剪断哪根线都没关系。![HackMii 屏幕](/images/Wii/LetterBomb-PC.png)
+3. 将下载的ZIP解压到到SD卡的根目录。
+4. 在Wii上，返回Wii菜单然后点击右下角的消息板。
+5. 加载上面有炸弹的红色的信。
+   - 在各种情况下，你可能需要翻到前一天或后一天才能找到它。
 
-![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
+![LetterBomb Wii 菜单](/images/Wii/LetterBomb-Wii.png)
 
 [继续到 安装Homebrew Channel和BootMii](hbc)
 {: .notice--info}
