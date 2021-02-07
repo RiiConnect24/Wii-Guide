@@ -1,19 +1,19 @@
 ---
-title: "Dumping Wii/GameCube games"
+title: "导出 Wii/GameCube 游戏"
 ---
 
-Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
+想要导出GameCube或者Wii光碟？ 这有两种方法，决定于你有什么工具。
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">To a PC over the network</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">导出到SD卡/U盘</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">通过网络导出到PC</button>
 
 {% capture cleanripInstructions %}
-### Cleanrip guide
+### Cleanrip 教程
 {% include_relative cleanrip.md %}
 {% endcapture %}
 
 {% capture networkInstructions %}
-### Dumping a game over a local network
+### 通过局域网导出游戏
 {% include_relative dump-smb.md %}
 {% endcapture %}
 
