@@ -6,7 +6,7 @@ title: "cIOS"
 
 This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
 
-![d2x cIOS Installer](/images/cIOS.png)
+![d2x cIOS Installer](/images/cios/cIOS.png)
 
 If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
 {: .notice--info}
@@ -14,8 +14,11 @@ If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to in
 #### What you need
 
 * A Wii with an Internet connection
-* An SD card or USB drive (ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not see the correct cIOS option)
+* An SD card or USB drive
 * [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
+
+Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
+{: .notice--warning}
 
 #### Instructions
 
@@ -33,7 +36,7 @@ Select cIOS base: 57
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
-![Install cIOS 249](/images/Wii/Install249.png)
+![Install cIOS 249](/images/cios/Install249.png)
 1. Once set, press A twice to install.
 1. When done installing, press A to return, and set the options to the following:
 ```
@@ -42,10 +45,10 @@ Select cIOS base: 56
 Select cIOS slot: 250
 Select cIOS version: 65535
 ```
-![Install cIOS 250](/images/Wii/Install250.png)
+![Install cIOS 250](/images/cios/Install250.png)
 1. Once set, press A twice to install.
 1. When done installing, press A to return, and set the options to the following:
-<!-- TODO add extra image for 251 -->
+![Install cIOS 251](/images/cios/Install251.png)
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 38
@@ -54,6 +57,19 @@ Select cIOS version: 65535
 ``` 
 1. Once set, press A twice again to install, and then exit once done.
 
+Although the majority of games should work straight away, some may require using a specific cIOS to function, or to utilize certain features within the game.
+To change the cIOS used for a specific game, follow these instructions:
+{: .notice--info}
+
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'usbloadergx')">USB Loader GX</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
+
+<div id="usbloadergx" class="blanktabcontent" markdown="1">
+insert usb loader gx instructions here
+</div>
+<div id="wiiflow" class="blanktabcontent" markdown="1">
+insert wiiflow instructions here
+</div>
 ##### Options once complete
 
 [Continue to the Homebrew Browser](hbb)<br>
@@ -66,3 +82,28 @@ We have many other tutorials that you might like.
 
 You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: .notice--info}
+
+<script>
+    let tabcontent = document.getElementsByClassName("blanktabcontent");
+    let tablinks = document.getElementsByClassName("tablinks");
+
+    function openTab(evt, tabName) {
+        let element;
+
+        for (element of tabcontent) {
+            element.style.display = "none";
+        }
+
+        for (element of tablinks) {
+            element.className = element.className.replace("btn--primary", "btn--info");
+            if (!element.className.includes('btn--info'))
+                element.className += " btn--info";
+        }
+
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className = evt.currentTarget.className.replace("btn--info", "btn--primary");
+    }
+
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpen").click();
+</script>
