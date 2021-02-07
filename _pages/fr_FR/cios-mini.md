@@ -32,7 +32,7 @@ Le d2x cIOS installer a été initialement développé pour le mode vWii de la W
 
 ##### Section II - Installation
 
-1. Appuyez sur continuer, définissez ensuite les options suivantes:
+1. Appuyez sur continuer, appliquez ensuite les options suivantes:
     ```
     Sélectionnez cIOS: d2xl-v1-beta2 
    Sélectionnez la base cIOS: 57 
