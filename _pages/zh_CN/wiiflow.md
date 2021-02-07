@@ -85,5 +85,5 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 [WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki is a great resource with information about WiiFlow.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[继续 网站导览](site-navigation) 我们有许多你可能喜欢的其他教程。
 {: .notice--info}
