@@ -1,5 +1,5 @@
 ---
-title: "Homebrew Channel - for Wii mini only"
+title: "Homebrew Channel - 仅供Wii mini"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -9,23 +9,23 @@ title: "Homebrew Channel - for Wii mini only"
 
 ![HBC Logo](/images/hbc.png)
 
-The Homebrew Channel is where you will go to launch homebrew applications.
+HBC是你可以启动自制应用的地方。
 
 #### 步骤
-This page is **only** intended for users of the Wii mini. If you have a regular Wii, follow [this guide](hbc) instead.
+本页面**只计划**给Wii mini用户。 如果你使用的是Wii，请前往[这个教程](hbc)。
 {: .notice--info}
 
-While it is possible to install BootMii on a Wii mini, you will need to solder an SD card slot.
+虽然可以在Wii mini上安装BootMii，但你需要焊接SD卡插槽。
 {: .notice--info}
 
-1. You will see a scam warning screen. Wait 30 seconds for the text "Press 1 to continue" to appear, then press 1. ![Scam Screen](/images/Wii/ScamScreen.png)
+1. 你会看见一个诈骗警告提醒。 等待30秒，直到"Press 1 to continue"出现，然后按1。 ![诈骗警告提醒](/images/Wii/ScamScreen.png)
 
-1. Press Continue, then select Install The Homebrew Channel, and press install. ![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
+1. 按下Continue，然后选择Install The Homebrew Channel，然后按下install。![安装Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
-1. Press Continue when finished. ![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
+1. 当完成时，按下继续。![成功安装Homebrew Channel](/images/Wii/SuccessHBC.png)
 
 
-1. Once done, select `Exit` to exit the HackMii installer.
+1. 当结束时，选择`Exit`来退出HackMii installer。
 
-[Continue to installing Priiloader](priiloader) Priiloader offers protection from bricks, and is highly recommended to install.
+[继续 安装Priiloader](priiloader) Priiloader提供防砖机保护，并且非常推荐你安装。
 {: .notice--info}
