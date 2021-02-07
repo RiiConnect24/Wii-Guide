@@ -1,5 +1,5 @@
 ---
-title: "Deleting VFFs"
+title: "删除VFF文件"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -9,40 +9,40 @@ title: "Deleting VFFs"
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-If you're getting one of these errors (and not any other error), you should be able to fix the Channel by deleting your VFF.
+如果你遇到了这些其中的一个错误（没有其他错误 ），你需要通过删除VFF文件来修复频道。
 
-+ Discontinued Message
++ “停止运营”信息
 + NEWS/FORE000001
 + NEWS/FORE000003
 + NEWS/FORE000005
 + NEWS/FORE000099
 
 #### 你需要的是
-* An SD card or USB drive
+* 一张SD卡或者U盘
 * [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
 
-#### Folder to Delete
+#### 需要删除的目录
 
-+ Forecast Channel
++ 天气频道
   + 48414645
   + 4841464a
   + 48414650
 
-+ News Channel
++ 新闻频道
   + 48414745
   + 4841474a
   + 48414750
 
 #### 步骤
 
-1. Launch WiiXplorer.
-2. Go to `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` and then select `Yes` for both dialogues that appear on the screen.
-3. Press Back until you have reached the file explorer screen.
-4. Select the tiny blue SD Card icon, then select `NAND`.
-5. Navigate to `title` -> `00010002` -> XXXXXXXX -> `data`, where XXXXXXXX is one of the folders above.
-6. Hover over `wc24dl.vff` and press the + button and select `Delete`.
+1. 启动WiiXplorer。
+2. 前往 `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access`然后在屏幕出现的两个提醒中选择`Yes`。
+3. 按下返回，直到你进入文件管理器。
+4. 选择小的蓝色SD卡图标，然后选择`NAND`。
+5. 浏览到 `title` -> `00010002` -> XXXXXXXX -> `data`，其中XXXXXXXX是上面的文件夹之一。
+6. 选中 `wc24dl.vff`然后按下+键，选择 `Delete`。
 
-Try to launch the Channel you were having trouble with now.
+现在去试试运行存在问题的频道是否还有问题。
 
-[Return to RiiConnect24 installation page](riiconnect24)
+[返回 RiiConnect24 安装页面](riiconnect24)
 {: .notice--info}
