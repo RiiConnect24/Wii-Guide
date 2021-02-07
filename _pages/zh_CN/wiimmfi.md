@@ -84,7 +84,7 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 
 #### 你需要的是
 
-- An SD card
+- 一张SD卡
 - Your copy of your game (in WAD format)
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows only)  
 **or**
@@ -150,5 +150,5 @@ Huili has put together a really good collection of custom tracks and hacks calle
 ### Wiimms MKW Fun (Mario Kart Wii)
 Wiimm and Leseratte created a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte and contains a Wiimmfi patch and lots of other features. You can find out more about it on its [wiki page](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[继续 网站导览](site-navigation) 我们有许多你可能喜欢的其他教程。
 {: .notice--info}
