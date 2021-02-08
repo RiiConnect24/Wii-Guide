@@ -59,16 +59,26 @@ Select cIOS version: 65535
 
 Although the majority of games should work straight away, some may require using a specific cIOS to function, or to utilize certain features within the game.
 To change the cIOS used for a specific game, follow these instructions:
-{: .notice--info}
+{: .notice--warning}
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'usbloadergx')">USB Loader GX</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
-insert usb loader gx instructions here
+1. Select the game that isn't working/
+1. Click Settings.
+1. Select `Game Load`.
+1. Scroll down to `Game IOS`.
+1. Enter the IOS slot to use.
+    - Try using 250 or 251, if 249 doesn't work.
+1. Press ok and try to load the game
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
-insert wiiflow instructions here
+1. Select the game that isn't working.
+1. Click the gear icon.
+1. Go to cIOS and use the arrows to select the IOS slot to use.
+    - Try using 250 or 251, if 249 doesn't work.
+1. Press ok and try to load the game.
 </div>
 ##### Options once complete
 
