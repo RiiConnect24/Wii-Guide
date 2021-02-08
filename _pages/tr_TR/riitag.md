@@ -59,6 +59,16 @@ The steps to connect RiiTag to your USB Loader depend on what USB Loader you use
 7. Save the modified `wiiflow.ini` file.
 8. You have now set up RiiTag. You can try loading any game now to see if it works correctly.
 
+###### Dolphin
+
+You need a Discord account for this to work.
+{: .notice--info}
+
+1. [Join the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) if you aren't already in there.
+2. Make sure `Show Current Game on Discord` is turned on in preferences.
+3. Make sure your Discord client is open.
+4. Play a game and RiiTag will automatically update your tag when you play a game.
+
 ###### Configurable USB Loader
 
 We do not offer support for Configurable USB Loader, as we are focused on USB Loader GX and WiiFlow.

@@ -15,7 +15,7 @@ This is a quick start guide on how to use USB Loader GX, a popular USB loader fo
 
 * Een Wii
 * A USB drive
-* [USB Loader GX](https://sourceforge.net/projects/usbloadergx/files/latest/download)
+* [USB Loader GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
 
 Zorg ervoor dat u [cIOS](/cios) heeft geïnstalleerd voordat u dit volgt!
 {: .notice--info}
@@ -23,7 +23,10 @@ Zorg ervoor dat u [cIOS](/cios) heeft geïnstalleerd voordat u dit volgt!
 We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, or [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS.
 {: .notice--info}
 
-Om meerdere spellen te spelen, bevelen we u een USB-aangedreven externe harde schijf aan voor uw Wii. We will refer to it as a "USB drive" in this guide. De meeste van deze op de markt werken prima als ze USB 2 terugwaartse compatibiliteit hebben. Schijven met een capaciteit van 1 TB of meer zullen werken. Een USB stick zal ook werken, maar vanwege de grootte van een USB stick zal het niet zoveel spellen kunnen opslaan.
+If you are not copying games using Wii Backup Manager or Witgui, make a folder on the root of the USB drive named "wbfs" and put the games in there.
+{: .notice--info}
+
+To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
 {: .notice--info}
 
 Make sure your USB drive is formatted as FAT32 or NTFS. Formatteer deze niet in andere formaten zoals extFS of WBFS, de laatste is een oud formaat voor het opslaan van Wii-spellen.
@@ -38,7 +41,7 @@ Make sure your USB drive is formatted as FAT32 or NTFS. Formatteer deze niet in 
 
 ##### Aan de slag
 
-Er is geen "gids" om de USB Loader GX app te gebruiken. Dit is bedoeld om u te helpen het te leren gebruiken door u een snelle start te geven. De beste manier om alle functies van USB Loader GX te ontdekken is simpelweg door het vaak te gebruiken.
+There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
 {: .notice--info}
 
 * If USB Loader GX says "Waiting for HDD..." with a 20 seconds countdown, it's likely that it can't find the USB drive. Try to exit out of the app, and then relaunch it after you put the USB drive in the other port of the Wii.
@@ -48,11 +51,11 @@ Er is geen "gids" om de USB Loader GX app te gebruiken. Dit is bedoeld om u te h
 
 ##### Gebruikersomgeving
 
-Er zijn meerdere knoppen in de USB Loader GX-interface.
+There are multiple buttons in the USB Loader GX interface.
 
 ###### Hoofdmenu
 
-Dit zijn de functies die de knoppen bovenaan het hoofdmenu doen, van links naar rechts:
+These are the functions the buttons found on the top of the main menu do, from left to right:
 
 * Star - Toont spellen die u hebt gemarkeerd als "favorites".
 * Search - Hiermee kunt u spellen zoeken op naam.
@@ -66,11 +69,11 @@ Dit zijn de functies die de knoppen bovenaan het hoofdmenu doen, van links naar 
 * Parental Control - Vergrendelt USB Loader GX.
 * Disc - Laadt een spel vanaf een disc.
 
-Als u op een spel klikt, kunt u het spel spelen door op "Start" te drukken.
+Pressing any game will allow you to play the game by pressing "Start".
 
-Dit zijn de functies van andere knoppen:
+There are also other buttons:
 
-* + Icoon - "Installeer" een spel, d.w.z. het laden van CD en het dumpen.
+* (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
 * Tandwielen - Instellingen voor USB Loader GX.
 * SD-kaart - Koppelt de SD-kaart opnieuw aan.
 * Homebrew - Laad homebrew apps.
@@ -81,5 +84,5 @@ On the middle of the bottom of the screen, you can see how much space is free on
 
 ##### Opties eenmaal voltooid
 
-[Ga door naar de sitenavigatie](site-navigation)<br> We hebben vele andere tutorials die je wellicht interessant vindt.
+[Ga door naar de sitenavigatie](site-navigation)<br> We hebben vele andere tutorials die u wellicht interessant vindt.
 {: .notice--info}

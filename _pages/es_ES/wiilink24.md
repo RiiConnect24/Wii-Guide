@@ -1,69 +1,50 @@
 ---
-title: "WiiLink24"
+title: "Instalar WiiLink24"
 ---
 
 {% include toc title="Tabla de contenido" %}
 
-WiiLink24 and all of its services (such as Wii no Ma) are not controlled or operated by RiiConnect24. To get support on all issues relating this tutorial and service, join the [WiiLink24 Discord server](https://discord.gg/n4ta3w6).
+WiiLink24 y todos sus servicios (como Wii no Ma) no son controlados u operados por RiiConnect24. Para obtener ayuda en todos los problemas con este tutorial y servicio, únete al [servidor de Discord de WiiLink24](https://discord.gg/n4ta3w6).
 {: .notice--warning}
 
-[WiiLink24](https://wiilink24.com/) lets you use the Japanese-exclusive Wii no Ma channel, and in the future will let you use the Digicam Print Channel and the Demae Channel again.
+[WiiLink24](https://wiilink24.com/) te permite usar el canal exclusivo de Japón Wii no Ma, y en el futuro te permitirá usar el canal Digicam Print y el canal Demae de nuevo.
 
 #### Requisitos
 
 * Una tarjeta SD o unidad USB
 * Un Wii con conexión a Internet
-* Una computadora
-* [SaveGame Manager GX](https://static.wiidatabase.de/SaveGame-Manager-GX.zip)
-* [WiiLink24 Patcher (Windows only)](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
-* [Wii no Ma Mii](https://cdn.discordapp.com/attachments/770353472024477727/784849286063718430/Mickey.miigx)
-* [Wii no Ma save file](https://cdn.discordapp.com/attachments/782800044830490664/782800227706732555/WiiRoomSave.bin)
+* Una computadora basada en Windows o Unix
+* [Parcheador de WiiLink24](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
 #### Instrucciones
 
-##### Section I - Patching Wii no Ma
+##### Sección I - Parcheando Wii no Ma
 
 [¡Si desea ver instrucciones detalladas sobre cómo instalar los WADs, haga clic aquí!](wiimodlite)
 {: .notice--info}
 
-1. Descarga los archivos necesarios según tu sistema operativo. On Windows, run `WiiLink24Patcher.bat`.
-2. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`.
-3. For this guide, choose "`Install WiiLink24 on your Wii`"
-4. Select your region.
-5. Connect the SD Card or USB Drive to your computer and select "`1`".
-6. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
-7. Be patient...
-8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
-9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLink24Patcher.bat` to your SD Card or USB Device.
-10. Put your SD card or USB drive in your Wii.
+1. Descarga los archivos necesarios según tu sistema operativo. En Windows, ejecuta el archivo `RiiConnect24Patcher.bat`. En sistemas Unix, abre el terminal y escribe sh, después arrastra el `WiiLink24Patcher.sh` en el terminal y presiona enter.
+2. Presiona 1 para elegir "`Comenzar`" y confirma tu selección presionado `ENTER`.
+3. Para esta guía, elige "`Instalar WiiLink24 en tu Wii`"
+4. Seleccione su región.
+5. Conecta la tarjeta SD o el dispositivo USB a tu computadora y selecciona "`1`".
+6. Si el dispositivo fue detectado con éxito, elige "`1`". Si no es así, asegúrate que haya una carpeta llamada `apps` en tu tarjeta SD o dispositivo USB y vuelve a intentarlo.
+7. Ten paciencia...
+8. Después de que este terminado, ya puedes cerrar el parcheador con seguridad. Todos los archivos están listos en tu tarjeta SD.
+9. Si no se copió todo automáticamente a tu tarjeta SD o dispositivo USB, copia las carpetas `WAD` y `apps` después de `WiiLinkt24Patcher.bat` a tu tarjeta SD o dispositivo USB.
+10. Inserta la tarjeta SD o unidad USB en tu Wii.
 11. Inicia el Canal Homebrew en tu Wii.
 12. Inicie Wii Mod Lite.
 13. Usando la cruz de control en tu Wiimote, selecciona `WAD Manager` (Administrador de WADs), y luego abre la carpeta `wad`.
-14. Select the Wii no Ma WAD and press A to install.
-15. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+14. Selecciona el WAD de Wii no Ma y presiona A para instalarlo.
+15. Una vez que se haya instalado correctamente, presiona el botón HOME para volver al Canal Homebrew.
+16. ¡Abra Wii no Ma y disfrute!
 
-##### Section II - Installing Wii no Ma Save and Mii
-
-You will now install a save file and Mii which are required in order to use Wii no Ma.
-
-1. Extract SaveGame Manager GX and put it in the `apps` folder on your SD card or USB drive.
-2. Make a folder on the root of your SD Card named `wiinoma`, and put `WiiRoomSave.bin` and `Mickey.miigx` in it.
-3. Conecta la tarjeta SD o unidad USB a tu Wii.
-4. Launch SaveGame Manager GX.
-5. Open the `wiinoma` folder on SaveGame Manager GX.
-6. Select `WiiRoomSave.bin`, and press `Install` to install it. When done, press `OK`.
-7. Select `Mickey.miigx`, and press `Install` to install it. When done, press `OK`.
-8. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
-9. Open the Mii Channel.
-10. Press OK on any popups that appear.
-11. Exit the Mii Channel.
-12. Launch Wii Room, and go to the settings, then video. Make sure quality is set to high. Wii no Ma is now installed on your Wii.
-
-[ Continúe con RiiConnect24 ](riiconnect24) <br> RiiConnect24 le permite utilizar los servicios descontinuados de WiiConnect24, que incluyen Noticias, Pronóstico, Todos Votos, Nintendo y el Canal Check Mii Out, junto con Wii Mail. This is optional to install.
+[ Continúe con RiiConnect24 ](riiconnect24) <br> RiiConnect24 le permite utilizar los servicios descontinuados de WiiConnect24, que incluyen Noticias, Pronóstico, Todos Votos, Nintendo y el Canal Check Mii Out, junto con Wii Mail. Esto es opcional a instalar.
 {: .notice--info}
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+[Continuar a Wiimmfi](wiimmfi)<br> Wiimmfi te permite disfrutar de juegos en línea después del cierre de la Conexión Wi-Fi de Nintendo. Esto es opcional a instalar.
 {: .notice--info}
 
-[Echa un vistazo a nuestras demás guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
+[Echa un vistazo a nuestras otras guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
 {: .notice--info}

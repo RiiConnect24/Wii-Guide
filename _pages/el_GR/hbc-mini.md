@@ -15,7 +15,7 @@ title: "Κανάλι Homebrew - μόνο για το Wii mini"
 Αυτή η σελίδα είναι **μόνο** για χρήστες του Wii mini. Εάν έχετε ένα κανονικό Wii, ακολουθήστε [αυτόν τον οδηγό](hbc).
 {: .notice--info}
 
-While it is possible to install BootMii on a Wii mini, you will need to solder an SD card slot.
+Ενώ είναι δυνατό να κάνετε εγκατάσταση του BootMii σε ένα Wii Mini, δεν θα μπορείτε να το χρησιμοποιήσετε μέχρι να κάνετε κόλληση μιας θύρας κάρτας SD στην μητρική πλακέτα του.
 {: .notice--info}
 
 1. Θα δείτε ένα μήνυμα προειδοποίησης για scam. Περιμένετε 30 δευτερόλεπτα για να εμφανιστεί το κείμενο "Press 1 to continue", και μετά πατήστε το 1. ![Οθόνη Scam](/images/Wii/ScamScreen.png)
@@ -27,5 +27,5 @@ While it is possible to install BootMii on a Wii mini, you will need to solder a
 
 1. Μόλις τελειώσετε, επιλέξτε `Exit` για έξοδο από το πρόγραμμα εγκατάστασης HackMii.
 
-[Continue to installing Priiloader](priiloader) Priiloader offers protection from bricks, and is highly recommended to install.
+[Συνεχίστε στην εγκατάσταση του Priiloader](priiloader) Το Priiloader δίνει προστασία από καταστροφές και συνιστάται να εγκατασθαθεί.
 {: .notice--info}

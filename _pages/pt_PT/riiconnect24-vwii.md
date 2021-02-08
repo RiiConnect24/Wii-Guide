@@ -27,7 +27,7 @@ Nós **NÃO** nos responsabilizamos se obteres um brick ou danificares a tua con
 * Um PC ou um dispositivo móvel com acesso à Internet e que lê cartões SD.
 * Um cartão SD formatado em FAT32 (pelo menos 2GB) com espaço disponível. Cartões SDHC ou SDXC formatados em FAT32 também funcionam.
 * Uma consola Wii U capaz de executar o Homebrew Launcher (pelo exploit do web browser, Haxchi ou Coldboot Haxchi). **Se não tens uma consola Wii U modificada, por favor segue o [wiiuguide.xyz](https://wiiuguide.xyz), também como o [guia de modificação para virtual Wii](https://wiiuguide.xyz/#/vwii-modding) e depois volta para cá.**
-* [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases) (Só para Windows, por enquanto...)
+* [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 Depois de seguires os links dos guias acima, deverás ter:
 * Uma cópia da NAND do vWii e as suas chaves (mantêm-os guardados num local seguro!!)
@@ -38,15 +38,16 @@ Depois de seguires os links dos guias acima, deverás ter:
 
 #### Instruções
 
-Se estás a utilizar GNU/Linux ou macOS no teu PC, ou utilizas um smartphone, por favor [segue o guia manual](https://pad.snopyta.org/s/rJ2N0B1XU) para instalar o RiiConnect24. O patcher que nós fornecemos é só para Windows. O resultado final será o mesmo, não importa o método que seguiste.
+If you use cannot use the patcher, please [follow the manual guide](https://pad.snopyta.org/s/rJ2N0B1XU), to install RiiConnect24. The end result is the same regardless of the method followed.
 {: .notice--info}
 
 ##### Secção I - Executando o patcher
 
 Utilizando o RiiConnect24 Patcher que descarregaste em [O que precisas](#what-you-need), irás descarregar e patchear o IOS31, News, Everybody Votes, Nintendo e Check Mii Out Channels para utilizares na ttua vWii.
 
-1. Executa o `RiiConnect24Patcher.bat` no teu PC e segue as instruções que estão no ecrã.
-2. Confirma que, depois da execução do patcher, tens 3 pastas. Eles estarão na mesma pasta onde `RiiConnect24Patcher.bat` está e no teu Cartão SD (só se selecionaste uma opção que copie os ficheiros para o cartão, obviamente).
+1. Run `RiiConnect24Patcher.bat` on Windows or `RiiConnect24Patcher.sh` on Unix systems by typing bash then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this `bash RiiConnect24Patcher.sh`. Follow the on screen instructions
+
+2. Confirm that after running through the patcher, you have 3 folders. They will be in the same folder where `RiiConnect24Patcher.bat/sh` is and on your SD Card (of course, only if you selected an option in the patcher to do so).
    - Se o patcher não copiou o ficheiro para o Cartão SD, move essas 3 pastas para a raíz do teu cartão SD.
 
 ##### Secção II - Instalando os novos WADs patcheados
@@ -54,8 +55,8 @@ Utilizando o RiiConnect24 Patcher que descarregaste em [O que precisas](#what-yo
 1. Abre o Homebrew Channel
 2. Abre o Wii Mod Lite
 3. Utilizando o controlo direcional do teu Comando Wii, navega até `WAD Manager` e depois navega até à pasta `wad`.
-4. Quando o `IOS31.wad` estiver destacado, pressiona + e depois faz o mesmo para todas as outras WADs.
-5. Depois da instalação sucedida, pressiona o botão HOME para voltar ao Homebrew Channel
+4. Highlight all WADs with `RiiConnect24` in the name, and press + to select them. When all of them are selected, press A twice to install the WADs.
+5. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
 ##### Secção III - Patchear 43db para 16:9 (opcional)
 
@@ -69,7 +70,7 @@ Se tu instalares um tema, tu terás que executar o ww-43db-patcher mais uma vez
 
 Depois de seguires a secções acima, tu estás quase capaz de utilizar RiiConnect24 na tua Wii U. Tu só precisas é se fazer alguns passos **cada vez que inicias o vWii**.
 
-1. No **Wii Menu** do vWii, abre o **Homebrew Channel** e abre a aplicação **ConnectMii**.
+1. On the vWii's **Wii Menu**, launch the **ConnectMii** channel.
 * Isto irá ativar o WiiConnect24 e o Standby Connection já que é necessário para os canais que contêm WiiConnect24.
 2. Abre os canais que utilizam WiiConnect24
 * Agora serás capaz de utilizar todos os canais que contêm WiiConnect24!
@@ -79,6 +80,7 @@ Os seguintes serviços RiiConnect24 estão **a funcionar** na vWii:
 * News Channel
     * Este canal é afetado pelo problema do timestamp. O "Last Update" e os timestamps de artigos poderão estar incorretos.
     * Os dados do banner também não funcionam, pois aparece um erro `Unable to obtain data.`
+* Forecast Channel
 * Nintendo Channel
 * Everybody Votes Channel
 * Check Mii Out Channel / Mii Contest Channel
@@ -87,7 +89,5 @@ Os seguintes serviços RiiConnect24 estão **a funcionar** na vWii:
 Os seguintes serviços do RiiConnect24 **não funcionam** no vWii:
 * Wii Mail (maioria das funcionalidades não existem no vWii)
     * Isto inclui enviar/receber mail para/de amigos. Apenas podes receber mensagens globais e publicações dos feeds do RSSMii (se estiver configurado).
-* Forecast Channel
-    * Este canal é afetado pelo problema do timestamp. Isto previne o canal de passar o ecrã de carregamento, o que resulta no erro `FORE000006`.
-* Tudo o resto que não funciona segundo as [estatísticas do RiiConnect24](https://rc24.xyz/stats/index.html).
+* Everything else that isn't working according to [RiiConnect24 stats](https://rc24.xyz/stats/index.html).
 {: .notice--warning}

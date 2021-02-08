@@ -59,12 +59,22 @@ Los pasos para conectar el RiiTag a su Cargador USB dependen del Cargador USB qu
 7. Guarda el archivo `wiiflow.ini` modificado.
 8. Ya has terminado de instalar RiiTag. Intenta cargar algún juego para verificar que esté funcionando correctamente.
 
-###### Configurable USB Loader
+###### Dolphin
 
-No tenemos soporte para Configurable USB Loader, ya que estamos enfocados en USB Loader GX y WiiFlow.
+Necesitas una cuenta de Discord para que funcione.
 {: .notice--info}
 
-Puedes usar el programa `CfgLoaderConfigurator.exe` (solo Windows) en lugar de editar el archivo `config.txt` mencionado a continuación si desea.
+1. [Únete al servidor de Discord de RiiConnect24](https://discord.gg/b4Y7jfD) si aun no lo has hecho.
+2. Asegúrate de que `Mostrar el juego en ejecución como mensaje de estado` esta activado en Actividad de juegos.
+3. Asegúrate de que tu cliente de Discord este abierto.
+4. Inicia un juego y RiiTag va a actualizar de forma automática tu tag cuando inicies algún juego.
+
+###### Configurable USB Loader
+
+De momento no ofrecemos soporte para Configurable USB Loader, debido a que estamos más enfocados en USB Loader GX y WiiFlow.
+{: .notice--info}
+
+Si así lo deseas, puedes usar un programa llamado `CfgLoaderConfigurator.exe` (sólo para Windows) en lugar de editar el archivo `config.txt` de forma manual.
 {: .notice--info}
 
 1. Inserta en tu computadora la tarjeta SD o unidad USB donde tengas guardada la configuración de Configurable USB Loader.
@@ -77,5 +87,5 @@ Puedes usar el programa `CfgLoaderConfigurator.exe` (solo Windows) en lugar de e
 [Echa un vistazo a RiiTag-RPC](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br> Ahora que configuró RiiTag, puede configurar RiiTag-RPC para mostrar a sus amigos lo que está jugando en la Wii usando la rica presencia de Discord.
 {: .notice--info}
 
-[Echa un vistazo a nuestras demás guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
+[Echa un vistazo a nuestras otras guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
 {: .notice--info}

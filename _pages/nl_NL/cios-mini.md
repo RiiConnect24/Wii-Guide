@@ -49,7 +49,7 @@ Als u Wiimmfi met een internetkabel wilt gebruiken op uw Wii dan moet u [deze](/
 Do not attempt to install a Wii IOS or System Menu on the Wii mini. Als u dit doet hebt u een grootte kans dat u uw Wii mini brickt.
 {: .notice--waarschuwing}
 
-U kunt nu homebrew applicaties gebruiken zoals [USB Loader GX](usbloadergx).
+You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: .notice--info}
 
 [Ga door naar de sitenavigatie](site-navigation)<br> We hebben vele andere tutorials die u wellicht interessant vindt.

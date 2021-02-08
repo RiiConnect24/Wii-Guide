@@ -1,33 +1,33 @@
 ---
-title: "BootMii Backup"
+title: "Бэкап BootMii"
 ---
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Если вам нужна помощь относительно этого туториала, пожалуйста присоединитесь к [дискорд серверу RiiConnect24](https://discord.gg/b4Y7jfD) (рекомендуется) или [напишите нам на support@riiconnect24.net](mailto:support@riiconnect24.net) (требуется знание английского языка).
 {: .notice--info}
 
 ![BootMii Logo](/images/bootmii.png)
 
-You need an **SD card** to create a NAND backup using BootMii. If you do not have one, you can skip this page, although it is highly recommended to create one if you can.
+Вам нужна **SD-карта**, чтобы создать NAND бэкап, используя BootMii. Если у вас ее нет, то можете пропустить эту страницу, хотя мы настоятельно рекомендуем, если вы можете.
 {: .notice--warning}
 
-One of BootMii's most important features is the ability to backup and restore your Wii's NAND storage. We will be going over how to perform a NAND backup. You can then restore from that backup for whatever reason. We recommend making a NAND backup regularly or before you do something risky to your console (and if you know what you're doing, you won't have to do anything risky).
+Одна из важнейших возможностей BottMii это способность делать бэкап и восстанавливать NAND хранилище вашей Wii. Далее рассмотрим, как делать NAND бэкап. После вы можете восстанавливать данные из бэкапа по любой причине. Мы рекомендуем регулярно делать NAND бэкап или перед рискованными действиями с консолью (хотя, если вы знаете, что делаете, то нет никаких рисков).
 
-#### Requirements
-* An SD card with at least 512MB of free space
+#### Требования
+* SD-карта с как минимум 512МБ свободного места
 
-#### Instructions
-If you installed BootMii as boot2 in the last step, you will need to launch BootMii by restarting the console. Skip steps 1-2 if this is the case.
+#### Инструкции
+Если вы установили BootMii как boot2 в последнем шаге, то нужно запустить BottMii с помощью рестарта консоли. Пропустите шаги 1 и 2, если вы сделали это.
 {: .notice--info}
-1. Launch the Homebrew Channel.
-2. Press the HOME Button, then select "Launch BootMii".
-   - Navigating BootMii is not possible using a Wii remote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. To navigate between options, press POWER on your Wii (or the right +Control Pad button on a GameCube controller). To select an option, hit RESET on your Wii or A on your GameCube controller.
-3. Select the Options button (the one with the gears).
-4. Select the BackupMii button (the one with the green arrow).
-- A NAND backup will start. You can watch the progress on the screen.
-- "Bad Blocks" are normal. Don't worry when you see one on a NAND backup
-- After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii.
+1. Запустите Homebrew Channel.
+2. Нажмите кнопку HOME, затем выберите "Launch BootMii".
+   - Нельзя управлять BootMii с помощью Wii remote. Вы должны использовать кнопки POWER и RESET на консоли, или контроллер GameCube, воткнутый в 1-ый порт. Для передвижения между опциями, нажмите POWER на Wii (или вправо +кнопка Control Pad на контроллере GameCube). Чтобы выбрать опцию, нажмите RESET на Wii или A на контроллере GameCube.
+3. Нажмите кнопку Options (та, что с шестеренками).
+4. Нажмите кнопку BackupMii (та, что с зеленой стрелкой).
+- Начнется процесс NAND бэкапа. Можете посмотреть на прогресс на экране.
+- "Плохие блоки" это нормально. Не беспокойтесь, когда увидите их в NAND бэкапе
+- После этого шага бэкап проверится. Его можно пропустить, нажав кнопку EJECT на Wii, но не рекомендуется.
 5. When the backup is fully complete, exit the NAND backup screen by pressing any button.
 6. To exit BootMii, press the Back button (the one with the arrow) and then you can press either the Wii Menu button or the Homebrew Channel button to exit where you want to.
 

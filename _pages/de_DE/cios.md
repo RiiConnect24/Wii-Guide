@@ -14,52 +14,52 @@ Wenn du eine Wii mini besitzt, installiere stattdessen [dieses cIOS](cios-mini).
 #### Voraussetzungen
 
 * Eine Wii mit Internetverbindung
-* Eine SD-Karte oder ein USB-Laufwerk
+* Eine SD-Karte oder ein USB-Stick (falls du eine SD-Karte verwendest, stelle sicher das sich der Schieber in entriegelter Stellung befindet; andernfalls wirst du die richtige cIOS-Einstellung nicht sehen)
 * [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
 #### Anleitung
 
 ##### Abschnitt 1 - Herunterladen
 
-1. Download d2x cIOS Installer and extract it to the `apps` folder on your SD card or USB drive.
+1. Lade den d2x cIOS Installer herunter und entpacke ihn im `apps`-Order auf deiner SD-Karte oder auf deinem USB-Stick.
 1. Verbinde deine SD-Karte oder dein USB-Laufwerk mit deiner Wii und starte den d2x cIOS Installer über den Homebrew-Kanal.
 
 ##### Abschnitt 2 - Installieren
 
 1. Drücke auf Fortfahren, stelle dann folgende Optionen ein:
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 56
-Select cIOS slot: 249
-Select cIOS version: 65535
+Wähle cIOS: v10 beta52 d2x-v10-beta52
+Wähle cIOS base: 57
+Wähle cIOS slot: 249
+Wähle cIOS version: 65535
 ```
-![Install cIOS 249](/images/Wii/Install249.png)
+![Installiere cIOS 249](/images/Wii/Install249.png)
 1. Wenn du damit fertig bist, drücke zweimal auf A um die Installation zu starten.
 1. Wenn die Installation abgeschlossen ist, drücke A um zurückzugehen und stelle dann folgende Optionen ein:
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 57
-Select cIOS slot: 250
-Select cIOS version: 65535
+Wähle cIOS: v10 beta52 d2x-v10-beta52
+Wähle cIOS base: 56
+Wähle cIOS slot: 250
+Wähle cIOS version: 65535
 ```
-![Install cIOS 250](/images/Wii/Install250.png)
+![Installiere cIOS 250](/images/Wii/Install250.png)
 1. Wenn du damit fertig bist, drücke zweimal auf A um die Installation zu starten.
 1. Wenn die Installation abgeschlossen ist, drücke A um zurückzugehen und stelle dann folgende Optionen ein:
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 58
-Select cIOS slot: 251
-Select cIOS version: 65535
+Wähle cIOS: v10 beta52 d2x-v10-beta52
+Wähle cIOS base: 38
+Wähle cIOS slot: 251
+Wähle cIOS version: 65535
 ```
-1. Starte es noch einmal und beende es, sobald es abgeschlossen ist.
+1. Nachdem alles eingestellt ist drücke noch zwei mal zum Installieren A und beende wenn es fertig ist.
 
 ##### Möglichkeiten nach Abschluss
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
+[Fortfahren zum Homebrew Browser](hbb)<br> Der Homebrew Browser ist ein guter Ort um Homebrew auf deine Wii zu bekommen. Dies zu installieren ist nicht zwingend erforderlich.
 {: .notice--info}
 
 [Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
 {: .notice--info}
 
-Du kannst nun Homebrew wie den [USB Loader GX](usbloadergx) nutzen.
+Du kannst nun Homebrew wie beispielsweise [USB Loader GX](usbloadergx) oder [WiiFlow](wiiflow) verwenden.
 {: .notice--info}

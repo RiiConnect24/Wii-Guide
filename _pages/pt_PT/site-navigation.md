@@ -25,8 +25,8 @@ sitemap: false
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Deletar VFFs](deleting-vffs)
-+ [Fixing FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [Corrigir o erro FORE000006](riiconnect24-batteryfix)
++ [Corrigir NEWS000006](news000006)
 
 **Modificação 101**
 + [BlueBomb](bluebomb)
@@ -51,9 +51,10 @@ sitemap: false
 + [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
++ [WiiFlow](wiiflow)
 
 **Wii mini**
-+ [Installing the Homebrew Channel on the Wii mini](hbc-mini)
++ [Instalar The Homebrew Channel na Wii Mini](hbc-mini)
 + [Instalar cIOS na Wii Mini](cios-mini)
 
 **Site**

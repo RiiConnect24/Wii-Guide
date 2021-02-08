@@ -22,17 +22,17 @@ Si instaló BootMii como boot2 en el último paso, deberá iniciar BootMii reini
 {: .notice--info}
 1. Inicia el Canal Homebrew.
 2. Oprime el botón HOME y luego selecciona "Lanzar BootMii".
-   - No es posible navegar BootMii utilizando el Wiimote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. Para navegar entre las opciones, oprime el botón POWER en tu consola Wii o el botón derecho en la cruz de control de tu control de GameCube. To select an option, hit RESET on your Wii or A on your GameCube controller.
-3. Select the Options button (the one with the gears).
-4. Select the BackupMii button (the one with the green arrow).
+   - No es posible navegar BootMii utilizando el Wiimote. Tienes que usar el botón POWER y RESET de tu consola, o un mando de GameCube conectado en el puerto 1. Para navegar entre las opciones, oprime el botón POWER en tu consola Wii o el botón derecho en la cruz de control de tu control de GameCube. Para seleccionar una opción, presione RESET en tu Wii o A en tu mando de GameCube.
+3. Selecciona el botón de Opciones (El que tiene unos engranajes).
+4. Seleccione el botón de BackupMii (el que tiene una flecha verde).
 - Se empezará a hacer un respaldo de la NAND. Puedes ver el progreso en pantalla.
-- "Bad Blocks" are normal. Don't worry when you see one on a NAND backup
-- After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii.
+- Los ''Bloques defectuosos'' son normales. No te preocupes si ves una en un backup de NAND
+- Después de este paso, se verificara el backup. Aunque es recomendable, se puede saltar pulsando el botón de EJECT en tu Wii.
 5. Cuando el respaldo se haya completado, sal del menú de BackupMii oprimiendo cualquier botón.
 6. Para salir de BootMii, oprime el botón con la flecha. Luego puedes oprimir el botón del menú de Wii o del Canal Homebrew para salir a donde quieras.
 
 Para restaurar desde una copia de seguridad NAND en su tarjeta SD, puede seguir estas instrucciones usando RestoreMii (el botón junto a BackupMii con una flecha roja).
 {: .notice--info}
 
-[Continuar con la instalación de Priiloader](priiloader) Priiloader inserta un nivel de protección de ladrillos, y lo recomendamos, especialmente si solo pudo instalar BootMii IOS.
+[Continuar con la instalación de Priiloader](priiloader) Priiloader inserta un nivel de protección de brickeos, y lo recomendamos, especialmente si solo pudo instalar BootMii IOS.
 {: .notice--info}

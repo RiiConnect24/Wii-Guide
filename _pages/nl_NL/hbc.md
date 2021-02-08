@@ -22,14 +22,18 @@ Het Homebrew Kanaal is de plek waarvan je al jouw homebrew applicaties kunt open
 4. Klik op "Continue" wanneer het downloaden klaar is. ![Het Homebrew Kanaal succesvol installeren](/images/Wii/SuccessHBC.png)
 
 5. Klik nu op `BootMii . . .`
-6. Als er nu `Install BootMii as boot2`, doe dit dan. Of dit kan of niet hangt ervan af hoe oud uw Wii is. Dit geeft uw Wii een extra bescherming tegen een "brick" omdat boot2 tegelijkertijd laad met het opstart proces van uw Wii. Dit zorgt ervoor dat u homebrew kunt laden om een "brick" te fixen door bijvoorbeeld een NAND back-up terug op uw Wii te zetten.
-7. Wij raden aan iedereen aan om `BootMii as IOS<code> te installeren. Dit al helemaal als u boot2 niet kon installeren. While this doesn't give you any brick protection, you will still be able to make a NAND backup.</li>
-</ol>
+6. If the main screen says you can install BootMii as boot2, do so. This offers the best possible brick protection you can have.
+7. If you cannot install BootMii as boot2 (like the Wii shown in step two), install BootMii as IOS instead. While this doesn't give you any brick protection, you will still be able to make a NAND backup.
 
-<p spaces-before="0"><img src="/images/Wii/InstallBootMii.jpg" alt="BootMii installatie" /></p>
+If you do not have an SD card, you cannot install or use BootMii, and therefore will not be able utilize any of the mentioned benefits. You can always install it at a later date.
+{: .notice--waarschuwing}
 
-<ol start="8">
-<li>Once done, select <code>Continue`, and then select `Exit` to go to the Homebrew Channel
+![BootMii Installation](/images/Wii/InstallBootMii.jpg)
 
-[Continue to making a NAND Backup using BootMii](bootmii) Making a NAND backup with BootMii at this point is highly recommended.
+8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
+
+[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
+{: .notice--info}
+
+If you couldn't install BootMii, continue to [installing Priiloader](priiloader) instead.
 {: .notice--info}

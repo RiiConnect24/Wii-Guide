@@ -15,7 +15,7 @@ This is a quick start guide on how to use USB Loader GX, a popular USB loader fo
 
 * Eine Wii
 * Ein USB-Laufwerk
-* [USB Loader GX](https://sourceforge.net/projects/usbloadergx/files/latest/download)
+* [USB Loader GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
 
 Stelle sicher, dass du vorher [cIOS](/cios) installiert hast!
 {: .notice--info}
@@ -23,10 +23,13 @@ Stelle sicher, dass du vorher [cIOS](/cios) installiert hast!
 We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, or [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS.
 {: .notice--info}
 
-Um mehrere Spiele zu spielen, empfehlen wir eine externe Festplatte für Ihre Wii, die über USB mit Strom versorgt wird. Wir bezeichnen sie als "USB-Laufwerk" in dieser Anleitung. Viele von denen, die auf dem Markt zu finden sind, sollten problemlos funktionieren, falls sie mit USB 2.0 abwärtskompatibel sind. Laufwerke mit einer Kapazität von 1 TB oder mehr werden funktionieren. Ein USB-Stick wird auch funktionieren, aber aufgrund dessen Größe wird es nicht in der Lage sein, so viele Spiele zu speichern.
+If you are not copying games using Wii Backup Manager or Witgui, make a folder on the root of the USB drive named "wbfs" and put the games in there.
 {: .notice--info}
 
-Stelle sicher, dass dein USB-Laufwerk als FAT32 oder NTFS formatiert ist. Formatiere es nicht mit einem anderen Dateisystem wie z.B. extFS oder WBFS, letzteres ist ein altes Format zum Speichern von Wii-Spielen.
+To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
+{: .notice--info}
+
+Stelle sicher, dass dein USB-Laufwerk als FAT32 oder NTFS formatiert ist. Formatiere es mit keine anderen Dateisysteme wie zum Beispiel extFS oder WBFS, welches ein altes Format zum Speichern von Wii-Spielen ist.
 {: .notice--info}
 
 #### Anleitung
@@ -38,7 +41,7 @@ Stelle sicher, dass dein USB-Laufwerk als FAT32 oder NTFS formatiert ist. Format
 
 ##### Einstieg
 
-Es gibt keine Anleitung zum Nutzen der USB Loader GX-Anwendung. Dies soll dir den Einstieg erleichtern, um dir dabei zu helfen, zu lernen, wie man sie verwendet. Du solltest in der Lage sein, alle großartigen Funktionen von USB Loader GX selbst herauszufinden, indem du es benutzen.
+There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
 {: .notice--info}
 
 * If USB Loader GX says "Waiting for HDD..." with a 20 seconds countdown, it's likely that it can't find the USB drive. Try to exit out of the app, and then relaunch it after you put the USB drive in the other port of the Wii.
@@ -48,11 +51,11 @@ Es gibt keine Anleitung zum Nutzen der USB Loader GX-Anwendung. Dies soll dir de
 
 ##### Benutzeroberfläche
 
-Es gibt mehrere Schaltflächen in der USB Loader GX-Oberfläche.
+There are multiple buttons in the USB Loader GX interface.
 
 ###### Hauptmenü
 
-Dies sind die Funktionen der Schaltflächen oben im Hauptmenü, von links nach rechts aufgeführt:
+These are the functions the buttons found on the top of the main menu do, from left to right:
 
 * Stern - Zeigt Spiele, die du als Favoriten markiert hast.
 * Suche - Erlaubt es dir, Spiele über ihren Namen zu suchen.
@@ -66,11 +69,11 @@ Dies sind die Funktionen der Schaltflächen oben im Hauptmenü, von links nach r
 * Altersbeschränkungen - Sperrt den USB Loader GX.
 * Disc - Lädt ein Spiel von der Disc.
 
-Wenn du auf ein beliebiges Spiel auswählst, kannst du das Spiel durch Drücken von "Start" spielen.
+Pressing any game will allow you to play the game by pressing "Start".
 
-Es gibt auch andere Schaltflächen:
+There are also other buttons:
 
-* Plus-Symbol - Installiert ein Spiel, d. h. es wird von der Disc geladen und gesichert.
+* (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
 * Zahnräder - Einstellungen für USB Loader GX.
 * SD-Karte - Trennt und erneuert den Zugriff auf die SD-Karte.
 * Homebrew - Lädt Homebrew-Anwendungen.

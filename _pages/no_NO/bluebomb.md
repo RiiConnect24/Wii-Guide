@@ -14,9 +14,6 @@ BlueBomb er en bragd (exploit, for å være riktig hvis det ikke lager mening) s
 For den originale Wii, anbefaler vi at du ikke bruker BlueBomb hvis du skal installere Homebrew-kanalen og BootMii, fordi det er mye mer nytigge bragder tilgjengelig.
 {: .notice--info}
 
-Denne utnyttelsen funker ikke på en Wii U sin vWii (virtuellisert Wii). Vennligst bruk [denne innføringen](https://wiiuguide.xyz/#/vwii-modding) istedetfor.
-{: .notice--warning}
-
 #### Del 1 - Hva du trenger
 - En Linux maskin
   - Hvis du har en Raspberry Pi, kan du bruke den fordi den har sikkert GNU/Linux installert allerede.
@@ -51,13 +48,13 @@ chmod +x bluebomb-helper.sh
 1. Skru på din konsoll og **ikke** koble til noen Wiimoter.
 1. Trykk på Sync knappen flere ganger helt til Linux-terminalen viser `got connection handle`. Dette kan ta flere forsøk, så ikke gi opp.
 
-Vær sikker på at konsollen er nærme til datamaskinen som kjører exploiten, det bør være mindre enn 91.44 centimeter.
+Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
 {: .notice--info}
 
-Konsollen bør nå starte til HackMii installeringsprogrammet. You can now shut down your Linux computer if you are not planning to use it later.
+The console should now boot to the HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
 
-[Hvis du bruker en Wii, gå til å installere Homebrewkanelen og BootMii](hbc)
+[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
 {: .notice--info}
 
-[Hvis du bruker en Wii mini, gå til å installere Homebrewkanalen](hbc-mini)
+[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
 {: .notice--info}

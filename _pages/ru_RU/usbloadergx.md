@@ -4,18 +4,18 @@ title: "USB Loader GX"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Если вам нужна помощь относительно этого туториала, пожалуйста присоединитесь к [дискорд серверу RiiConnect24](https://discord.gg/b4Y7jfD) (рекомендуется) или [напишите нам на support@riiconnect24.net](mailto:support@riiconnect24.net) (требуется знание английского языка).
 {: .notice--info}
 
 This is a quick start guide on how to use USB Loader GX, a popular USB loader for the Wii that's used to play games from a USB drive.
 
 ![USB Loader GX](/images/usbloadergx.png)
 
-#### What you need
+#### Что вам нужно
 
-* A Wii
-* A USB drive
-* [USB Loader GX](https://sourceforge.net/projects/usbloadergx/files/latest/download)
+* Wii
+* USB флешка/жёсткий диск
+* [USB Loader GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
 
 Make sure you have installed [cIOS](/cios) before following this!
 {: .notice--info}
@@ -23,13 +23,16 @@ Make sure you have installed [cIOS](/cios) before following this!
 We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, or [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS.
 {: .notice--info}
 
-To play multiple games, we recommend a USB-powered external hard drive for your Wii. We will refer to it as a "USB drive" in this guide. Most of the ones you can find on the market should work fine if they have USB 2 backwards compatibility. Drives with 1 TB or more in capacity will work. A flash drive will also work, but due to the size of a flash drive, it won't be able to store as many games.
+If you are not copying games using Wii Backup Manager or Witgui, make a folder on the root of the USB drive named "wbfs" and put the games in there.
+{: .notice--info}
+
+To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
 {: .notice--info}
 
 Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as extFS or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
-#### Instructions
+#### Инструкции
 
 ##### Downloading
 
@@ -50,7 +53,7 @@ There is no "guide" to use the USB Loader GX app. This is intended to help you l
 
 There are multiple buttons in the USB Loader GX interface.
 
-###### Main Menu
+###### Главное меню
 
 These are the functions the buttons found on the top of the main menu do, from left to right:
 
@@ -70,7 +73,7 @@ Pressing any game will allow you to play the game by pressing "Start".
 
 There are also other buttons:
 
-* + Icon - "Install" a game, i.e. loading it from disc and dumping it.
+* (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
 * Gears - Settings for USB Loader GX.
 * SD card - Remount the SD card.
 * Homebrew - Load homebrew apps.

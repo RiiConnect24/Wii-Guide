@@ -46,6 +46,10 @@ Continuar a la instalación de cIOSlt;/a><br> Los cIOS son necesarios si quieres
 
 {: .notice--info}
 
-[Echa un vistazo a nuestras demás guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte. 
+[Continuar a WiiFlow](wiiflow) WiiFlow es un USB loader que puedes usar para cargar juegos desde una unidad USB o tarjeta SD. 
+
+{: .notice--info}
+
+[Echa un vistazo a nuestras otras guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte. 
 
 {: .notice--info}

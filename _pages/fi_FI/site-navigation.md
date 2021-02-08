@@ -28,7 +28,7 @@ sitemap: false
 + [Fixing FORE000006](riiconnect24-batteryfix)
 + [Fixing NEWS000006](news000006)
 
-**Modding 101**
+**Modauksen 101**
 + [BlueBomb](bluebomb)
 * [BootMii Backup](bootmii)
 + [cIOS](cios)
@@ -44,22 +44,23 @@ sitemap: false
 + [Creating Wii Game Shortcuts](wiigsc)
 + [How to dump GameCube/Wii games](dump-games)
 + [How to dump Channels (WADs)](dump-wads)
-+ [Installing RSSMii](rssmii)
-+ [Installing Wii Themes](themes)
-+ [Performing a SysCheck](syscheck)
-+ [Removing RSSMii](rssmii-remove)
++ [RSSMii:n asentaminen](rssmii)
++ [Wii-teemojen asentaminen](themes)
++ [SysCheck:n tekeminen](syscheck)
++ [RSSMii:n poistaminen](rssmii-remove)
 + [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
++ [WiiFlow](wiiflow)
 
 **Wii mini**
-+ [Installing the Homebrew Channel on the Wii mini](hbc-mini)
-+ [Installing cIOS on the Wii mini](cios-mini)
++ [Homebrew Channel:n asentaminen Wii mini:lle](hbc-mini)
++ [cIOS:n asentaminen Wii mini:lle](cios-mini)
 
-**Site**
-+ [Home](/)
-+ [Get Started](get-started)
+**Sivu**
++ [Koti](/)
++ [Aloita](get-started)
 + [FAQ](faq)
-+ [Donations](donations)
++ [Lahjoitukset](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>

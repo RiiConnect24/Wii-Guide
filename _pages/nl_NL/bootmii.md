@@ -9,7 +9,7 @@ Als u hulp nodig heeft bij iets wat met deze tutorial te maken heeft, sluit u da
 
 ![BootMii Logo](/images/bootmii.png)
 
-You need an **SD card** to create a NAND backup using BootMii. If you do not have one, you can skip this page, although it is highly recommended to create one if you can.
+U heeft een **SD Kaart** nodig om een NAND backup te maken via BootMii. Als u er geen heeft dan kunt u deze pagina overslaan maar het is erg aangeraden om een NAND backup te maken als u het kunt.
 {: .notice--waarschuwing}
 
 One of BootMii's most important features is the ability to backup and restore your Wii's NAND storage. We will be going over how to perform a NAND backup. You can then restore from that backup for whatever reason. We recommend making a NAND backup regularly or before you do something risky to your console (and if you know what you're doing, you won't have to do anything risky).

@@ -1,13 +1,13 @@
 ---
-title: "Site Navigation"
+title: "Навигация по сайту"
 layout: single
 sitemap: false
 ---
 
-![WiiTutorials](/images/WiiTutorials.jpg)
+![WiiТуториалы](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
-**Featured**
+**Рекомендуемые разделы**
 
 + [cIOS](cios)
 + [RiiConnect24](riiconnect24)
@@ -23,43 +23,44 @@ sitemap: false
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [WiiLink24](wiilink24)
 + [Wiimmfi](wiimmfi)
-+ [WiiWare Patcher](wiiwarepatcher)
-+ [Deleting VFFs](deleting-vffs)
-+ [Fixing FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [WiiWare Патчер](wiiwarepatcher)
++ [Удаление VFF](deleting-vffs)
++ [Решение ошибки FORE000006](riiconnect24-batteryfix)
++ [Решение ошибки NEWS000006](news000006)
 
-**Modding 101**
+**Моддинг 101**
 + [BlueBomb](bluebomb)
-* [BootMii Backup](bootmii)
+* [BootMii Бэкап](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
-+ [Homebrew Browser](hbb)
-+ [Homebrew Channel](hbc)
++ [Homebrew Браузер](hbb)
++ [Homebrew Канал](hbc)
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
 + [str2hax](str2hax)
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Creating Wii Game Shortcuts](wiigsc)
-+ [How to dump GameCube/Wii games](dump-games)
-+ [How to dump Channels (WADs)](dump-wads)
-+ [Installing RSSMii](rssmii)
-+ [Installing Wii Themes](themes)
++ [Создание ярлыков игр Wii](wiigsc)
++ [Как сделать дамп игры GameCube/Wii](dump-games)
++ [Как сделать дамп канала (WADs)](dump-wads)
++ [Установка RSSMii](rssmii)
++ [Установка Wii тем](themes)
 + [Performing a SysCheck](syscheck)
 + [Removing RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
++ [WiiFlow](wiiflow)
 
 **Wii mini**
-+ [Installing the Homebrew Channel on the Wii mini](hbc-mini)
-+ [Installing cIOS on the Wii mini](cios-mini)
++ [Установка Homebrew Канала на Wii mini](hbc-mini)
++ [Установка cIOS на Wii mini](cios-mini)
 
-**Site**
-+ [Home](/)
-+ [Get Started](get-started)
-+ [FAQ](faq)
-+ [Donations](donations)
+**Cайт**
++ [Домашняя страница](/)
++ [Начало пути](get-started)
++ [Вопросы и Ответы](вопросы и ответы)
++ [Отправить донат](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>

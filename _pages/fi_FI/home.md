@@ -5,47 +5,47 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
-  cta_label: "Get Started"
+  cta_label: "Aloita"
   cta_url: "get-started"
   caption:
-excerpt: "The complete guide to modding your Nintendo Wii."
+excerpt: "Täydellinen opas Nintendo Wii:si modaamiseen."
 ---
 
-The guide is also available in other languages! To change the language, please press the icon at top right and change your language.
+Opas on saatavilla myös muilla kielillä! Vaihtaaksesi kieltä, paina kuvaketta yläoikealla ja vaihda kieltäsi.
 {: .notice--info}
 
-## What is "homebrew"?
+## Mitä on "homebrew"?
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to unofficial software including games, utilities, emulators and others.
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) viittaa ohjelmistoihin, joita Nintendo ei ole valtuuttanut. Tämä voi sisältää pelejä, apuohjelmia, emulaattoreita ja paljon muuta!
 
-Running homebrew on your Nintendo Wii is free using various exploits.
+Homebrew:ta voidaan suorittaa Nintendo Wii:lläsi ilmaiseksi käyttämällä hyödyksi bugeja Wii:n ohjelmistoissa. Muokkaukset, jotka asennetaan seuraamalla tätä opasta, antavat sinulle helpon ja pysyvän pääsyn Wii homebrew:hun.
 
-## What can I do with homebrew?
+## Mitä voin tehdä homebrew:lla?
 
-Here's a list of things you can do with it. While these aren't all the things you can do with homebrew, it should give you a starting point for things you can do. Our guide will help you easily get started.
+Tässä on lista asioista, joita voit tehdä käyttämällä homebrew:ta. Vaikka tämä lista ei missään nimessä ole kaiken kattava, sinun pitäisi saada hyvä idea siitä, mikä on mahdollista, ja tämä opas auttaa sinua pääsemään helposti alkuun.
 
-- Patch game disc contents (allowing you to load game modifications) using [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
-- Install themes to your Wii Menu using [MyMenuify](themes).
-- Install a USB Loader like [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
-- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](dump-wads)
-- Back up and restore your save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
-- Download new homebrew apps with the [Homebrew Browser](hbb)
-- Restore discontinued online services, such as [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
-- Backup and restore copies of your Wii system memory (NAND) using [BootMii](http://bootmii.org).
-- Protect your Wii from bricks using [Priiloader](priiloader) and BootMii.
-- Turn your Wii into a media player with [WiiMC](http://www.wiimc.org/).
+- Korvaa pelilevykkeen sisältöjä (sallii sinun ladata pelimuokkauksia) käyttämällä [Riivolution](http://www.wiibrew.org/wiki/Riivolution):ia.
+- Asenna teemoja Wii Menu:usi [MyMenuify](themes):n avulla.
+- Asenna USB-lataaja, kuten [WiiFlow](wiiflow) tai [USB Loader GX](usbloadergx) käynnistääksesi kaikki suosikkipelisi USB-asemalta ja muuta.
+- Varmuuskopioi levykkeitäsi [CleanRip](/dump-games):n avulla ja asennettuja pelejä ja sovelluksia [YABDM](dump-wads):n avulla.
+- Varmuuskopioi ja palauta tallennustiedostojasi [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/):n avulla.
+- Lataa uusia homebrew-sovelluksia [Homebrew Browser](hbb):n avulla.
+- Palauta lopetetut online-palvelut, kuten [WiiConnect24](riiconnect24) & [Nintendo WFC palvelut](wiimmfi).
+- Varmuuskopioi ja palauta kopioita Wii:si järjestelmämuistista (NAND) käyttämällä [BootMii](bootmii):ta.
+- Suojaa Wii:täsi muuttumasta tiiliskiveksi [Priiloader](priiloader):n ja BootMii:n avulla.
+- Muuta Wii:si mediasoittimeksi [WiiMC](http://www.wiimc.org/):n avulla.
 
-Get started by [choosing your exploit](get-started)!
+Aloita [valitsemalla exploit:isi](get-started)!
 {: .notice--info}
 
-## More Resources
+## Lisää Resursseja
 
-There are also few more good resources for Wii modding and troubleshooting that can help:
+Wii:n modaamiseen ja ongelmanratkaisuun on myös olemassa muutamia muita hyviä resursseja, jotka voivat auttaa:
 
 - [ModMii](http://xflak.com/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
-- [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...and of course, this site
+- [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...ja tietysti tämä sivu
 
-For modding a Wii U, follow this guide:
+Seuraa tätä opasta Wii U:n modaamiseen:
 - [NH Wii U Guide](https://wiiu.hacks.guide)

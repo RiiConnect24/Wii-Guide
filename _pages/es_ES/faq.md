@@ -13,8 +13,7 @@ Puedes unirte a nuestro<a href="https://discord.gg/b4Y7jfD"servidor de Discord><
 ### ¿Cuales son los requerimientos y/o recomendaciones para la tarjeta SD?
 Necesitarás una tarjeta SD de al menos 128 MB para ejecutar un exploit.
 
-- Si vas a usar el exploit LetterBomb, tu tarjeta SD no puede tener más de 32 GB de capacidad.
-- Si vas a utilizar el exploit BlueBomb, no necesitas una tarjeta SD
+- Si estas usando el exploit de BlueBomb, no necesitas usar una tarjeta SD
 
 Para almacenar aplicaciones homebrew, recomendamos usar una tarjeta SD de por lo menos 2 GB de capacidad.
 

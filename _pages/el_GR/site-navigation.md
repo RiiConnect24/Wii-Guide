@@ -33,7 +33,7 @@ sitemap: λάθος
 * [Αντίγραφο ασφαλείας με το BootMii](bootmii)
 + [cIOS (προσαρμοσμένο IOS)](cios)
 + [FlashHax](flashhax)
-+ [Homebrew Browser](hbb)
++ [Το Homebrew Browser](hbb)
 + [Homebrew Channel](hbc)
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
@@ -51,6 +51,7 @@ sitemap: λάθος
 + [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
++ [WiiFlow](wiiflow)
 
 **Wii mini**
 + [Installing the Homebrew Channel on the Wii mini](hbc-mini)

@@ -13,8 +13,7 @@ U kunt ons e-mailen via support@riiconnect24.net (In het engels) of onze [RiiCon
 ### Wat zijn SD-kaart vereisten en / of aanraders?
 U zult een SD-kaart nodig hebben met tenminste 128 MB ruimte om een exploit te kunnen gebruiken.
 
-- Als u de LetterBomb exploit gebruikt zou u SD-kaart niet groter moeten zijn dan 32 GB.
-- Als u de BlueBomb exploit gebruikt hebt u helemaal geen SD-kaart nodig
+- If you are using the BlueBomb exploit, you do not need an SD card
 
 Om homebrew applicaties op uw Wii te kunnen gebruiken raden bij een SD-kaart aan van tenminste 2 GB.
 

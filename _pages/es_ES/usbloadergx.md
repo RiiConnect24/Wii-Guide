@@ -15,7 +15,7 @@ Esta es una guía de inicio rápido sobre cómo usar USB Loader GX, un popular c
 
 * Un Wii
 * Una Unidad USB
-* [USB Loader GX](https://sourceforge.net/projects/usbloadergx/files/latest/download)
+* [USB Loader GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
 
 ¡Asegúrate de haber instalado [cIOS](/cios) antes de continuar!
 {: .notice--info}
@@ -23,10 +23,13 @@ Esta es una guía de inicio rápido sobre cómo usar USB Loader GX, un popular c
 Te recomendamos copiar los juegos con [ Wii Backup Manager ](/wiibackupmanager) si usas Windows, o [ Witgui ](https://desairem.com/wordpress/category/witgui-download/) si usas macOS.
 {: .notice--info}
 
-Si tienes planeado cargar multiples juegos, te recomendamos obtener un disco duro externo con fuente de alimentación USB para tu Wii. En esta guía nos referiremos a ella como una "unidad USB". La mayoría de los discos disponibles en el mercado deberían funcionar, siempre y cuando sean compatibles con USB 2.0. Los discos de 1 TB de capacidad o más también funcionan. Las memorias USB también funcionan, pero debido a su capacidad más reducida, no podrás guardar tantos juegos como en un disco USB.
+Si no estas copiando juegos con Wii Backup Manager o Witgui, entonces haz una carpeta en la raíz del dispositivo USB o tarjeta SD llamada "wbfs" y pon los juegos ahí.
 {: .notice--info}
 
-Compruebe si su unidad USB está formateada como FAT32 o NTFS. No uses otros sistemas de archivos como extFS o WBFS; el segundo es un formato antiguo hecho para almacenar juegos de Wii.
+Para jugar a juegos, te recomendamos usar un disco duro externo para tu Wii. Las unidades Flash también funcionan, pero se recomienda el uso de Discos duros externos, debido a que son mucho mas seguros, y pueden almacenar una mayor cantidad de juegos.
+{: .notice--info}
+
+Asegúrate de que tu unidad USB esté formateada como FAT32 o NTFS. No uses otros sistemas de archivos como extFS o WBFS; el segundo es un formato antiguo hecho para almacenar juegos de Wii.
 {: .notice--info}
 
 #### Instrucciones
@@ -38,7 +41,7 @@ Compruebe si su unidad USB está formateada como FAT32 o NTFS. No uses otros sis
 
 ##### Comenzar
 
-No hay una "guía" específica para usar USB Loader GX. Esta página está pensada para ayudarte a aprender cómo usar las funciones básicas de la aplicación. Puedes descubrir todas las grandes funciones de USB Loader GX con simplemente empezar a usarlo.
+No hay una "guía" específica para usar USB Loader GX. Esta página está pensada para ayudarte a aprender cómo usar las funciones básicas de la aplicación. Podrás descubrir todas las grandes funciones de USB Loader GX con simplemente usarlo.
 {: .notice--info}
 
 * Si USB Loader GX dice "Waiting for HDD..." con una cuenta regresiva de 20 segundos, es probable que no pueda encontrar la unidad USB. Sal de la aplicación y luego reiníciala después de colocar la unidad USB en el otro puerto de la Wii.
@@ -68,7 +71,7 @@ Estas son las funciones que realizan los botones de la parte superior del menú 
 
 Al presionar sobre un juego podrás iniciar dicho juego seleccionando "Comenzar".
 
-También están los siguientes botones:
+También hay otros botones:
 
 * Botón + - Respaldar a la unidad USB un juego insertado en la ranura para discos.
 * Engranajes - Configuración de USB Loader GX.
@@ -81,5 +84,5 @@ En el centro de la parte inferior de la pantalla, puede ver cuánto espacio hay 
 
 ##### Opciones una vez terminado
 
-[Echa un vistazo a nuestras demás guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
+[Echa un vistazo a nuestras otras guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
 {: .notice--info}

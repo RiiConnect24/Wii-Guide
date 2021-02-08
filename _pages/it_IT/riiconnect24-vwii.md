@@ -7,7 +7,7 @@ title: Guida a Riiconnect24 Wii virtuale
 Se ti serve aiuto riguardo questa guida, entra nel [server Discord di RiiConnect24](https://discord.gg/b4Y7jfD) (consigliato, solo in inglese) o [mandaci una e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![Logo di RiiConnect24](/images/WiiRC24Logo.jpg)
 
 Guida all'installazione di [RiiConnect24](https://rc24.xyz) sulla tua Wii virtuale (la Wii di Wii U) con: CMOC/MCC, Nintendo Channel, EVC e New Channel assieme a grandezza 4:3.
 
@@ -27,7 +27,7 @@ Noi **NON** siamo responsabili se bricki, o danneggi la tua console in un qualun
 * Un PC o dispositivo mobile con accesso ad internet e l'abilità di interagire con schede SD.
 * Una scheda SD formattata a FAT32 con abbastanza spazio disponibile (almeno 2GB). Schede SDHC o SDXC formattate a FAT32 potrebbero funzionare.
 * Una Wii U capace di caricare l'Homebrew Launcher (non importa se via l'exploit web, Haxci o Coldboot Haxchi). **Se non possiedi una Wii U softmoddata, per favore segui [wiiuguide.xyz](https://wiiuguide.xyz), assieme alla [guida al modding Wii virtuale](https://wiiuguide.xyz/#/vwii-modding) e poi torna indietro.**
-* [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases) (Esclusivo a Windows, per ora...)
+* [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 Dopo aver seguito le guide indicate sopra, dovresti avere:
 * Un backup Wii virtuale NAND e le sue chiavi (Conservali al sicuro!!)
@@ -38,15 +38,16 @@ Dopo aver seguito le guide indicate sopra, dovresti avere:
 
 #### Istruzioni
 
-Se usi GNU/Linux o macOS sul tuo PC, o usi uno smartphone, per favore [segui la guida manuale](https://pad.snopyta.org/s/rJ2N0B1XU), per installare RiiConnect24. Il Patcher che provvediamo è attualmente esclusivo a Windows. Il risulatato finale è lo stesso indipendentemente dal metodo seguito.
+Se non puoi usare il patcher, perfavore [segui il manuale guida](https://pad.snopyta.org/s/rJ2N0B1XU), per installare RiiConnect24. Il risulatato finale è lo stesso indipendentemente dal metodo seguito.
 {: .notice--info}
 
 ##### Sezione 1 - Caricare il patcher
 
 Usando il patcher RiiConnect24 che dovresti aver installato prima in [Di cosa hai bisogno](#what-you-need), dovresti scaricare e patchare IOS31, i canali News, Everybody Votes, Nintendo e Check Mii Out per usarli sulla tua Wii virtuale.
 
-1. Carica `RiiConnect24Patcher.bat` dal tuo PC, e segui le istruzioni sullo schermo.
-2. Dopo aver caricato le cose tramite il patcher, dovresti avere 3 cartelle. Dovrebbero essere nella stessa cartella dove `RiiConnect24Patcher.bat` si trova sulla tua scheda SD (ovviamente, solo se hai scelto un'opzione nel patcher per farlo).
+1. Avvia `RiiConnect24Patcher.bat` su Windows o `RiiConnect24Patcher.sh` sui sistemi Unix digitando bash e poi trascinare `RiiConnect24Patcher.sh` nel terminale e premi invio. Dovrebbe sembrare così `bash RiiConnect24Patcher.sh`. Segui le istruzioni che appaiono a schermo
+
+2. Conferma che dopo aver avviato il patcher, hai 3 cartelle. Dovrebbero essere nella stessa cartella dove `RiiConnect24Patcher.bat` si trova nella tua scheda SD (ovviamente, solo se hai scelto un'opzione nel patcher per farlo).
    - Se il patcher non ha spostato questi file sulla tua scheda SD, spostali alla radice della tua scheda SD.
 
 ##### Sezione 2 - Installare i nuovi WAD patchati
@@ -54,40 +55,39 @@ Usando il patcher RiiConnect24 che dovresti aver installato prima in [Di cosa ha
 1. Apri il canale Homebrew Channel
 2. Carica Wii Mod Lite
 3. Usando ul tuo +Control Pad sul telecomando Wii, naviga su `WAD Manager`, e poi naviga sulla cartella `wad`.
-4. Quando `IOS31.wad` è in primo piano, premi +, poi fai lo stesso per gli altri WAD.
-5. Dopo averli installati con successo, premi il pulsante HOME per uscire e tornare all'Homebrew Channel
+4. Evidenzia tutti i WAD che hanno nel nome `RiiConnect24` e premi + per selezionarli. Quando sono tutti selezionati, premi A due volte per installare tutti i WAD.
+5. Dopo che ha installato con successo, premi il tasto HOME per tornare all'Hombrew Channel.
 
-##### Section III - Patching 43db for 16:9 (optional)
+##### Sezione III - Patchare 43db per 16:9 (facoltativo)
 
 1. Apri il canale Homebrew Channel
-2. Launch the ww-43db-patcher
+2. Avvia il ww-43db-patcher
 
-If you install a theme, you will have to run the ww-43db-patcher once more
+Se installi un tema, dovrai avviare il ww-43db-patcher ancora una volta
 {: .notice--info}
 
-##### Section IV - Using RiiConnect24
+##### Sezione IV - Usare RiiConnect24
 
-After following the above sections, you're almost able to utilize RiiConnect24 on your Wii U. You just need to perform the following steps **after every vWii reboot**.
+Dopo aver seguito le sezioni sopra, potrai quasi utilizzare RiiConnect24 sulla tua Wii U. Hai solo bisogno di seguire questi passaggi **dopo ogni riavvio del Virtual Wii**.
 
-1. On the vWii's **Wii Menu**, launch the **Homebrew Channel** and launch the **ConnectMii** homebrew application.
+1. All'interno **del menu Wii** del Virtual Wii, avvia il canale **ConnectMii**.
 * Questo abiliterà le Connessioni Standby di WiiConnect24 richieste dai canali WiiConnect24.
-2. Launch the WiiConnect24 Channels
-* You should now be able to utilize all of the WiiConnect24 Channels you have installed!
+2. Avvia i canali di WiiConnect24
+* Ora dovresti poter utilizzare tutti i canali di WiiConnect24 che hai installato!
 
 #### Cosa funziona attualmente?
-The following RiiConnect24 services are **working** on the vWii:
+I seguenti servizi di RiiConnect24 **funzionano** sul Virtual Wii:
 * Canale News
     * Questo canale è afflitto da problemi coi timestamp. L "Ultimo Aggiornato" ed i timestamp dell'articolo saranno sbagliati.
     * Anche i dati del banner non funzionano, tornando `Impossibile di ottenere i dati.`
+* Forecast Channel
 * Canale Nintendo
-* Everybody Votes Channel
-* Check Mii Out Channel / Mii Contest Channel
+* Canale Everybody Votes
+* Canale Check Mii Out / Canale Mii Contest
 {: .notice--success}
 
-The following RiiConnect24 services are **not working** on the vWii:
+I seguenti servizi di RiiConnect24 **non funzionano** sul Virtual Wii:
 * Wii Mail (molte funzionalità non sono presenti sulla Wii virtuale)
     * Questi includono mandare/ricevere mail a/da amici. Puoi solo ricevere mail broadcast e post dall'RSSMii (se impostata così).
-* Forecast Channel
-    * Questo canale è afflitto da problemi coi timestamp. Questo impedisce al canale di andare oltre la schermata di caricamento, riportando l'errore `FORE000006`.
-* Tutto il resto che non funziona secondo [RiiConnect24 stats](https://rc24.xyz/stats/index.html).
+* Qualsiasi altro che non funziona secondo le [statistiche di RiiConnect24](https://rc24.xyz/stats/index.html).
 {: .notice--warning}

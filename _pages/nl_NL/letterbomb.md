@@ -9,13 +9,9 @@ Als u hulp nodig heeft bij iets wat met deze tutorial te maken heeft, sluit u da
 
 LetterBomb is een exploit voor de Wii die wordt getriggert door middel van het Wii Message Board.
 
-Dit is een van de vele exploits. Check [Get Started](/get-started) pagina voor andere opties.
-{: .notice--info}
-
 #### Benodigdheden
 - Een SD-kaart
-- Een Wii met software versie 4.3
-   - This exploit will not work on a Wii mini or vWii
+- A Wii on System Menu version 4.3
 
 #### Instructies
 

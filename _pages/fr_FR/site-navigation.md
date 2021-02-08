@@ -1,13 +1,13 @@
 ---
 title: "Navigation du Site"
 layout: single
-sitemap: faux
+sitemap: false
 ---
 
 ![WiiTutorials](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
-**Featured**
+**Populaire**
 
 + [cIOS](cios)
 + [RiiConnect24](riiconnect24)
@@ -25,8 +25,8 @@ sitemap: faux
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Suppression des VFF](deleting-vffs)
-+ [Fixing FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [Correction de l'erreur FORE000006](riiconnect24-batteryfix)
++ [Correction de l'erreur NEWS000006](news000006)
 
 **Modding 101**
 + [BlueBomb](bluebomb)
@@ -41,24 +41,25 @@ sitemap: faux
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Creating Wii Game Shortcuts](wiigsc)
-+ [How to dump GameCube/Wii games](dump-games)
-+ [How to dump Channels (WADs)](dump-wads)
-+ [Installing RSSMii](rssmii)
-+ [Installing Wii Themes](themes)
-+ [Performing a SysCheck](syscheck)
-+ [Removing RSSMii](rssmii-remove)
++ [Création de raccourcis pour jeux Wii](wiigsc)
++ [Comment extraire des jeux GameCube/Wii](dump-games)
++ [Comment extraire des chaînes (WADs)](dump-wads)
++ [Installer RSSMii](rssmii)
++ [Installer des thèmes pour le menu Wii](themes)
++ [Réaliser un SysCheck](syscheck)
++ [Supprimer RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
++ [WiiFlow](wiiflow)
 
-**Wii mini**
-+ [Installing the Homebrew Channel on the Wii mini](hbc-mini)
-+ [Installing cIOS on the Wii mini](cios-mini)
+**Wii Mini**
++ [Installer Homebrew Channel sur Wii Mini](hbc-mini)
++ [Installer des cIOS sur Wii Mini](cios-mini)
 
 **Site**
-+ [Home](/)
-+ [Pour débuter](Commencer)
++ [Accueil](/)
++ [Commencer](Commencer)
 + [FAQ](faq)
 + [Donations](donations)
 {% endcapture %}

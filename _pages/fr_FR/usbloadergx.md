@@ -4,82 +4,85 @@ title: "USB Loader GX"
 
 {% include toc title="Table des matières" %}
 
-Si vous avez besoin d’aide par rapport au tutoriel, veuillez rejoindre [le serveur Discord de RiiConnect24](https://discord.gg/b4Y7jfD) (recommandé) ou [envoyez un e-mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si vous avez besoin d'aide concernant ce tutoriel, veuillez rejoindre [le serveur Discord de RiiConnect24](https://discord.gg/b4Y7jfD) (recommandé, en anglais) ou [envoyez-nous un mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-This is a quick start guide on how to use USB Loader GX, a popular USB loader for the Wii that's used to play games from a USB drive.
+Ceci est un guide de démarrage rapide sur la façon d'utiliser USB Loader GX, un USB Loader populaire pour la Wii qui est utilisé pour jouer à des jeux à partir d'un périphérique USB.
 
 ![USB Loader GX](/images/usbloadergx.png)
 
-#### Qu’est-ce que vous avez besoin
+#### Ce dont vous avez besoin
 
 * Une Wii
-* A USB drive
-* [USB Loader GX](https://sourceforge.net/projects/usbloadergx/files/latest/download)
+* Un périphérique USB
+* [USB Loader GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
 
-Make sure you have installed [cIOS](/cios) before following this!
+Assurez-vous d'avoir installé [cIOS](/cios) avant de continuer !
 {: .notice--info}
 
-We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, or [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS.
+Nous vous recommandons de copier les jeux avec [Wii Backup Manager](/wiibackupmanager) si vous utilisez Windows, ou [Witgui](https://desairem.com/wordpress/category/witgui-download/) si vous utilisez MacOS.
 {: .notice--info}
 
-To play multiple games, we recommend a USB-powered external hard drive for your Wii. We will refer to it as a "USB drive" in this guide. Most of the ones you can find on the market should work fine if they have USB 2 backwards compatibility. Drives with 1 TB or more in capacity will work. A flash drive will also work, but due to the size of a flash drive, it won't be able to store as many games.
+Si vous ne copiez pas de jeux à l'aide de Wii Backup Manager ou de Witgui, créez un dossier à la racine du périphérique USB nommé `wbfs` et placez-y les jeux.
 {: .notice--info}
 
-Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as extFS or WBFS, the latter is an old format of storing Wii games.
+Pour jouer à des jeux, nous vous recommandons d'utiliser un disque dur externe pour votre Wii. Les clés USB devraient également être utilisables, mais les disques durs externes sont recommandés car ils sont plus fiables et peuvent stocker plus de jeux.
+{: .notice--info}
+
+Assurez-vous que votre périphérique USB est formaté en FAT32 ou NTFS. Ne le formatez pas comme d'autres types tels que extFS ou WBFS, ce dernier est un ancien format de stockage de jeux Wii.
 {: .notice--info}
 
 #### Instructions
 
-##### Downloading
+##### Téléchargement
 
-1. Extract USB Loader GX and put it in the `apps` folder on your USB drive or SD card.
-2. Insert your USB drive, and SD card if you're using one, into your Wii and launch USB Loader GX from the Homebrew Channel.
+1. Décompressez USB Loader GX et placez-le dans le dossier `apps` de votre carte SD ou votre périphérique USB.
+2. Insérez votre périphérique USB et votre carte SD (si vous en utilisez une) dans votre Wii et lancez USB Loader GX depuis Homebrew Channel.
 
-##### Getting Started
+##### Commencer
 
-There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
+Il n'y a pas de "guide" pour utiliser l'application USB Loader GX. Cette page va vous aider à utiliser les fonctions basiques de l'application. Vous devriez être en mesure de comprendre toutes les fonctionnalités intéressantes de USB Loader GX en l'utilisant.
 {: .notice--info}
 
-* If USB Loader GX says "Waiting for HDD..." with a 20 seconds countdown, it's likely that it can't find the USB drive. Try to exit out of the app, and then relaunch it after you put the USB drive in the other port of the Wii.
-* You can press the 1 Button on your Wii Remote to open up a dialog to download game covers and artwork from [GameTDB](https://gametdb.com/). It might take a while to download the game covers and artwork, depending on how many games you have.
-* There are WADs that can open up USB Loader GX if you load it from the Wii Menu. This is called a forwarder WAD. An official forwarder WAD can be found [here](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), and a version for the vWii (Wii U) can be found [here](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad).
-* GameCube or "custom" Wii games may or may not have a custom banner that USB Loader GX uses. To enable this, find or write `CustomBannersURL = http://banner.rc24.xyz/` in config/GXGlobal.cfg on your USB drive. Then you can use the "Custom Banner" download by pressing the 1 Button on your Wii Remote.
+* Si USB Loader GX affiche "Waiting for HDD..." avec un compte à rebours de 20 secondes, il est probable qu'il ne détecte pas votre périphérique USB. Essayez de quitter l'application, puis redémarrez-la après avoir mis votre périphérique USB dans l'autre port de la Wii.
+* Vous pouvez appuyer sur le bouton 1 de votre télécommande Wii pour ouvrir une boîte de dialogue permettant de télécharger des jaquettes de jeux et des illustrations depuis [ GameTDB ](https://gametdb.com/). Le téléchargement des jaquettes et des illustrations du jeu peut prendre un certain temps, en fonction du nombre de jeux dont vous disposez.
+* Il existe des WADs qui peuvent ouvrir USB Loader GX si vous le lancez à partir du Menu Wii. C'est ce qu'on appelle un forwarder WAD. Un forwarder WAD officiel peut être trouvé [ici](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), et une version pour la vWii (Wii U) peut être trouvé [ici](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad).
+* Il est possible que les jeux GameCube ou jeux Wii "customisés" aient une bannière personnalisée utilisée par USB Loader GX. Pour activer cela, recherchez ou écrivez `CustomBannersURL = http://banner.rc24.xyz/` dans le fichier config/GXGlobal.cfg sur votre périphérique USB. Après cela, l'option "Custom Banner" apparaîtra lorsque vous appuyez sur le bouton 1 et vous pourrez ensuite télécharger les bannières personnalisées.
 
-##### User Interface
+##### Interface utilisateur
 
-There are multiple buttons in the USB Loader GX interface.
+Il y a plusieurs boutons dans l'interface de USB Loader GX.
 
-###### Main Menu
+###### Menu principal
 
-These are the functions the buttons found on the top of the main menu do, from left to right:
+Voici les fonctions des boutons situés en haut du menu principal, de gauche à droite:
 
-* Star - Shows games that you have marked as "favorites".
-* Search - Lets you search for games by name.
-* Sort - Cycles through sorting methods for games.
-* Platform - Choose to sort games by platform.
-* Category - Sorts games by category.
-* List - Shows games in a list view.
-* Multi-Cover View - Shows games in a multi-cover view.
-* Cover Carousel View - Shows games in a carousel view.
-* Wii Menu View - Shows games in a Wii Menu view.
-* Parental Control - Locks USB Loader GX.
-* Disc - Loads a game via disc.
+* Étoile - Affiche les jeux que vous avez marqués comme "favoris".
+* Recherche - Vous permet de rechercher des jeux par nom.
+* Tri - Fait défiler les méthodes de tri des jeux.
+* Plateforme - Choisissez de trier les jeux par plateforme.
+* Catégorie - Trie les jeux par catégorie.
+* Liste - Affiche les jeux sous forme de liste.
+* Vue grille - Affiche les jeux sous forme de grille.
+* Vue carrousel - Affiche les jeux sous forme de carrousel.
+* Vue du Menu Wii - Affiche les jeux sous forme de Menu Wii.
+* Contrôle parental - Verrouille USB Loader GX.
+* Disque - Lance un jeu via le lecteur de disque.
 
-Pressing any game will allow you to play the game by pressing "Start".
+En appuyant sur n'importe quel jeu, vous pourrez y jouer en sélectionnant "Démarrer".
 
-There are also other buttons:
+Il y a également d'autres boutons:
 
-* + Icon - "Install" a game, i.e. loading it from disc and dumping it.
-* Gears - Settings for USB Loader GX.
-* SD card - Remount the SD card.
-* Homebrew - Load homebrew apps.
-* Wii - Open up the HOME Menu, which can also be accessed by pressing the HOME Button on the Wii Remote.
-* Power Button - Turn off your Wii.
+* Icône (+) - Copier un jeu inséré dans le lecteur de disque vers votre périphérique USB.
+* Engrenages - Paramètres pour USB Loader GX.
+* Carte SD - Redétecte la carte SD.
+* Homebrew - Exécute des applications homebrew.
+* Wii - Ouvre le menu HOME, auquel vous pouvez également accéder en appuyant sur le bouton HOME de la télécommande Wii.
+* Bouton Power - Éteint votre Wii.
 
-On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
+Au centre de la partie inférieure de l'écran, vous pouvez voir l'espace libre sur votre périphérique USB et le nombre de jeux dont vous disposez.
 
-##### Options once complete
+##### Options disponibles une fois le processus terminé
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continuer vers la navigation du site](site-navigation)<br> Nous avons de nombreux autres tutoriels que vous pourriez aimer.
 {: .notice--info}

@@ -16,25 +16,25 @@ Priiloader dodaje dodatkowy poziom ochrony przez brickiem na Twoje Wii. Ładuje 
 
 #### Będziesz potrzebował
 * Karta SD lub urządzenie USB.
-* [Priiloader](/assets/files/Priiloader_v0_9.zip)
+* [Priiloader installer](assets/files/Priiloader_v0_9.zip)
 
 #### Instrukcje
 ##### Sekcja I - Pobieranie/Instalowanie
 
-1. Pobierz Priiloader oraz wypakuj go do folderu `apps` na Twojej karcie SD lub urządzeniu USB.
+1. Download the Priiloader installer and extract it to the `apps` folder on your SD card or USB drive.
     * Jeżeli ten folder nie istnieje, utwórz go.
-2. Podłącz Twoją kartę SD lub urządzenie USB do Twojego Wii oraz uruchom Priiloader korzystając z Homebrew Channel.
+2. Insert your SD card or USB drive into your Wii, and launch the Priiloader installer from the Homebrew Channel.
 
 ##### Sekcja II - Instalowanie Priiloader'a
 
 1. Otwórz Homebrew Channel na Twoim Wii.
-2. Uruchom Priiloader.
+2. Launch the Priiloader installer.
 3. Naciśnij przycisk `+` na Twoim Wii Remote lub przycisk `A` na kontrolerze GameCube. ![Zainstaluj Priiloader'a](/images/Priiloader/2.png) ![Zainstaluj](/images/Priiloader/3.png)
 
 ##### Sekcja III - Uruchamianie oraz konfigurowanie Priiloader'a
 
-1. Przytrzymaj przycisk RESET na Twoim Wii podczas uruchamiania konsoli. :   Jeżeli korzystasz z Wii Mini, podłącz klawiaturę USB oraz przytrzymaj ESCAPE podczas uruchamiania konsoli
-
+1. Hold the RESET button while turning on your Wii.
+    * If you are using a Wii mini, plug in a USB keyboard and hold escape while turning it on
 
 ![Włącz konsolę](/images/Priiloader/5.jpg) ![Przytrzymaj RESET](/images/Priiloader/4.jpg)
 
@@ -71,7 +71,7 @@ Poniżej znajduje się lista hacków, które możesz włączyć w Priiloaderze.
 | Remove Diagnostic Disc Check            | Wyłącza funkcje sprawdzającą czy w Wii jest włożona "Wii Startup Disc".                                                                                          |
 | Lock System Menu with Black Screen      | Powoduje, że Twoje Wii Menu zacina się na czarnym ekranie, powodując, że nie możesz z niego korzystać. (Nie włączaj tego)                                        |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Kanały z tymi ID skasowane przez Nintendo są ponownie widoczne.                                                                                                  |
-| Force Disc Games to run under IOS249    | Powoduje że gry na płytach uruchamiają się z cIOS 249. Może zostać użyte do grania w wypalone gry jeżeli w tym slocie znajduje się cIOS                          |
+| Force Disc Games to run under IOS249    | Powoduje że gry na płytach uruchamiają się z cIOS 249. While it cannot allow playing of burned games on its own, it is needed to play burned discs.              |
 
 
 Kontynuuj do instalacji cIOS<br>

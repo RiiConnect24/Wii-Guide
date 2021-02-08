@@ -22,12 +22,18 @@ Mit dem Homebrew-Kanal kannst du Homebrew-Anwendungen ausführen. BootMii ist ei
 4. Drücke "Continue", wenn der Vorgang abgeschlossen ist. ![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
 
 5. Gehe nach der Installation zurück und gehe auf "BootMii...".
-6. Wenn auf dem Bildschirm steht, dass du es als boot2 installieren kannst, tust du das. Es bietet eine zusätzliche Ebene an Brick-Schutz, die während des Startvorgangs der Wii lädt, und es ermöglicht dir Homebrew zu starten, um den Brick zu beheben oder eine NAND-Sicherung wiederherzustellen.
-7. Wenn auf dem Bildschirm steht, dass du es nicht als boot2 installieren kannst, installierst du es als IOS. Obwohl dir dies keinen Brick-Schutz bietet, erlaubt es dir trotzdem NAND-Sicherungen zu erstellen.
+6. Wenn auf dem Bildschirm steht, dass du BootMii als boot2 installieren kannst, tue das. Das bietet dir den bestmöglichen Brick-Schutz den du haben kannst.
+7. Falls du BootMii nicht als boot2 installieren kannst (wie die in Schritt 2 gezeigte Wii), installiere BootMii stattdessen als IOS. Obwohl dir dies keinen Brick-Schutz bietet, erlaubt es dir trotzdem NAND-Sicherungen zu erstellen.
 
-![BootMii-Installation](/images/Wii/InstallBootMii.jpg)
+Wenn du keine SD-Karte hast, kannst du BootMii nicht installieren oder verwenden und kannst aufgrund dessen die erwähnten Vorteile nicht nutzen. You can always install it at a later date.
+{: .notice--warning}
+
+![BootMii Installation](/images/Wii/InstallBootMii.jpg)
 
 8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
 
-[Fortfahren mit dem Erstellen einer NAND-Sicherung mithilfe von BootMii](bootmii) Die Erstellung einer NAND-Sicherung mit BootMii wird an diesem Punkt stark empfohlen.
+[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
+{: .notice--info}
+
+If you couldn't install BootMii, continue to [installing Priiloader](priiloader) instead.
 {: .notice--info}

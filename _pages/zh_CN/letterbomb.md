@@ -2,32 +2,28 @@
 title: "LetterBomb"
 ---
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+译者注：如果你需要任何帮助，国内用户可以添加QQ群：417992332，国外用户可以加入[RiiConnect24 Discord群组](https://discord.gg/b4Y7jfD)，或者[发送电子邮件至support@riiconnect24.net](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
 ![LetterBomb](/images/letterbomb.png)
 
-LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
+LetterBomb是Wii的一种漏洞，它是使用Wii留言板触发的。
 
-This exploit is one of many. Check out the [Get Started](/get-started) page for other options.
-{: .notice--info}
+#### 你需要的是
+- 一张SD卡
+- 一台Wii，系统版本为4.3。
 
-#### What you need
-- An SD card
-- A Wii on system version 4.3
-   - This exploit will not work on a Wii mini or vWii
+#### 步骤
 
-#### Instructions
+1. 在你的Wii上，前往`Wii 设置` -> `Internet` -> `Console Information` 然后记下你的MAC地址。
+2. 前往 [please.hackmii.com](https://please.hackmii.com), 输入你的Wii MAC地址和Wii所属的区域, 完成验证码, *确保* `Bundle the HackMii Installer for me!` *已经勾选*, 然后点击下方任意一个按钮。
+   - 你选择剪断哪根线都没关系。![HackMii 屏幕](/images/Wii/LetterBomb-PC.png)
+3. 将下载的ZIP解压到到SD卡的根目录。
+4. 在Wii上，返回Wii菜单然后点击右下角的消息板。
+5. 加载上面有炸弹的红色的信。
+   - 在各种情况下，你可能需要翻到前一天或后一天才能找到它。
 
-1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
-2. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure* `Bundle the HackMii Installer for me!` *is checked*, and cut either wire
-   - Whichever wire you choose to cut doesn't matter. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
-3. Extract the contents of the downloaded ZIP to the root of your SD card.
-4. On your Wii, return to the Wii Menu and then open the Message Board.
-5. Load the red letter with a bomb icon.
-   - In various scenarios, you may need to look at the previous or next day to find it.
+![LetterBomb Wii 菜单](/images/Wii/LetterBomb-Wii.png)
 
-![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
-
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[继续到 安装Homebrew Channel和BootMii](hbc)
 {: .notice--info}

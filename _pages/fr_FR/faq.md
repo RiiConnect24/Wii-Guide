@@ -2,23 +2,22 @@
 title: "Foire au questions (FAQ)"
 ---
 
-![Logo Wii Jaune de Riiconnect24](/images/Wii_Yellow_Gray.jpg)
+![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
 
-### Hacker ma console est-il risqué ?
-Les bricks (un statut où soit une partie de vos logiciels Wii ne fonctionnent pas, soit votre Wii ne marche pas du tout) sont maintenant *pratiquement* impossible sauf si vous ignorez les avertissements.
+### Est-il risqué de hacker ma console ?
+Les bricks (un état où soit une partie de vos logiciels Wii ne fonctionnent pas, soit votre Wii ne fonctionne pas du tout) sont maintenant *pratiquement* impossibles sauf si vous ignorez les avertissements.
 
-### Où devrais-je aller pour obtenir de l'aide ?
-Vous pouvez soit envoyer un mail à support@riiconnect24.net ou rejoindre [le serveur Discord de RiiConnect24](https://discord.gg/b4Y7jfD).
+### Où puis-je obtenir de l'aide ?
+Vous pouvez soit envoyer un e-mail à support@riiconnect24.net ou rejoindre [le serveur Discord de RiiConnect24](https://discord.gg/b4Y7jfD).
 
 ### Quelles sont les exigences et/ou les recommandations pour ma carte SD ?
 Vous avez besoin d'une carte SD de minimum 128 Mo pour exécuter un exploit.
 
-- Si vous utilisez l'exploit LetterBomb, votre carte SD ne doit pas dépasser les 32 Go.
-- Si vous utiliser l’exploit BlueBomb, vous n’avez pas besoin d’une carte SD.
+- Si vous utilisez l’exploit BlueBomb, vous n’avez pas besoin d’une carte SD
 
 Afin de stocker des applications homebrew, nous vous recommandons une carte SD d’au moins 2 Go.
 
-### J'ai eu une erreur XXXXXX sur Wiimmfi, comment réparer cela ?
+### J'ai eu une erreur XXXXXX sur Wiimmfi, comment la corriger ?
 Afin de vérifier de quelle erreur il s'agit, veuillez visiter [la page d'erreur de Wiimmfi](https://wiimmfi.de/error) (site en anglais).
 
 ### Quelle sont les limitations du modding en mode vWii (Wii U) ?

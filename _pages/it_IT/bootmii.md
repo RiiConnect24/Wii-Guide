@@ -9,30 +9,30 @@ Se hai bisogno di aiuto per questo tutorial, vai sul [server Discord RiiConnect2
 
 ![BootMii Logo](/images/bootmii.png)
 
-You need an **SD card** to create a NAND backup using BootMii. If you do not have one, you can skip this page, although it is highly recommended to create one if you can.
+Hai bisogno di una **Scheda SD** per creare un backup della NAND mentre usi BootMii. Se non ne hai una, puoi saltare questa pagina, però è altamente consigliato di acquistarne una se puoi.
 {: .notice--warning}
 
-One of BootMii's most important features is the ability to backup and restore your Wii's NAND storage. We will be going over how to perform a NAND backup. You can then restore from that backup for whatever reason. We recommend making a NAND backup regularly or before you do something risky to your console (and if you know what you're doing, you won't have to do anything risky).
+Una delle funzioni più importanti di BootMii è di avere la possibilità di creare e ripristinare dei backup della NAND della tua Wii. Successivamente vedremo come creare un backup della NAND. Lo puoi ripristinare successivamente per qualsiasi motivo. Consigliamo di creare regolarmente dei backup della NAND o almeno prima di fare qualsiasi di rischioso alla tua console (e se sai ciò che stai facendo, non farai nulla di rischioso).
 
 #### Cosa ti servirà
 * Una scheda SD con almeno 512MB di spazio disponibile
 
 #### Istruzioni
-If you installed BootMii as boot2 in the last step, you will need to launch BootMii by restarting the console. Skip steps 1-2 if this is the case.
+Se hai installato BootMii su boot2 nel passaggio precedente, avrai bisogno di lanciare BootMii riavviando la console. Salta i passaggi 1-2 se questo è il tuo caso.
 {: .notice--info}
 1. Apri il canale Homebrew Channel.
 2. Premi il pulsante HOME e scegli "Launch BootMii".
-   - Non puoi utilizzare un telecomando Wii. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. Per navigare tra le opzioni, premi il pulsante POWER sulla tua Wii (o il pulsante destro del pad a + su un controller GameCube). To select an option, hit RESET on your Wii or A on your GameCube controller.
-3. Select the Options button (the one with the gears).
-4. Select the BackupMii button (the one with the green arrow).
+   - Non puoi utilizzare un telecomando Wii. Devi utilizzare i tasti POWER e RESET sulla tua console, opure un controller GameCube inserito nella porta 1. Per navigare tra le opzioni, premi il pulsante POWER sulla tua Wii (o il pulsante destro del pad a + su un controller GameCube). Per selezionare un'opzione, premi il tasto RESET sul tuo Wii o il tasto A sul tuo controller GameCube.
+3. Seleziona la sezione Opzioni (quella con i tre ingranaggi).
+4. Seleziona l'opzione BackupMii (quella con la feccia verde).
 - Un backup della NAND inizierà. Puoi guardare il processo su schermo.
-- "Bad Blocks" are normal. Don't worry when you see one on a NAND backup
-- After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii.
+- I "Blocchi Danneggiati" sono normali. Non ti preoccupare se ne vedi uno nel backup della NAND
+- Dopo questo passaggio, verificherà il backup. Se vuoi, puoi saltare il processo premendo il pulsante EJECT, ma non lo consigliamo.
 5. Quando il backup sarà finito, esso verrà verificato.
 6. Scegli l'opzione Indietro per uscire da BootMii (icona con una freccia) e potrai scegliere se tornare al Menù Wii o al canale Homebrew Channel.
 
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
+Per ripristinare un backup della NAND dalla tua scheda SD, puoi seguire queste istruzioni utilizzando RestorMii (il bottone vicino BackupMii con una freccia rossa).
 {: .notice--info}
 
-[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
+[Continua con l'installazione di Priiloader](priiloader) Priiloader aggiunge un ulteriore livello di protezione dal brick, e lo consigliamo, specialmente se sei riuscito ad installare BootMii solo su IOS.
 {: .notice--info}

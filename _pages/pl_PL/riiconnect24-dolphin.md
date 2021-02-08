@@ -12,7 +12,7 @@ Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, napisz bez
 {: .notice--info}
 
 ### Czego będziesz potrzebował
-* Komputer z Windowsem 7 lub nowszym.
+* A computer with either Windows 7 or newer or any Unix based system
 * [.VFF-File-Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
 * [Dolphin](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
@@ -31,22 +31,22 @@ Jeżeli już zainstalowałeś Dolphin'a, przejdź do sekcji drugiej.
 
 ##### Sekcja II - Instalowanie RiiConnect24.
 
-1. Uruchom Install.bat, który pobrałeś [stąd](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases).
+1. Run `VFF-Downloader-for-Dolphin.bat` on Windows or `VFF-Downloader-for-Dolphin.sh` on Unix systems which you downloaded [here](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
 2. Naciśnij `1` oraz naciśnij `ENTER` aby uruchomić program. ![Główne menu](/images/Dolphin_RC24/2.jpg)
 3. Przejdź do konfiguracji programu.
 4. Program się Ciebie zapyta czy chcesz go uruchamiać za każdym razem kiedy chcesz skorzystać z RiiConnect24 lub czy chcesz automatycznie uruchomić program w tle po włączeniu komputera. ![Wybierz jak uruchomić program](/images/Dolphin_RC24/3.jpg)
 
 ![Uruchom jeden raz](/images/Dolphin_RC24/4.jpg)
 
-Jeżeli wybierzesz, żeby manualnie uruchamiać program, zachowaj Install.bat. W głównym menu będzie opcja pozwalająca na jednorazowe uruchomienie programu.
+If you choose to manually run it, keep `VFF-Downloader-for-Dolphin.bat`. W głównym menu będzie opcja pozwalająca na jednorazowe uruchomienie programu.
 {: .notice--info}
 
-Jeżeli wybierzesz opcję, żeby uruchomić podczas włączania komputera, nie musisz nic robić. Jeżeli będziesz chciał odinstalować program w przyszłości, uruchom Install.bat oraz wybierz czwartą opcje - Manage startup VFF Downloader.
+Jeżeli wybierzesz opcję, żeby uruchomić podczas włączania komputera, nie musisz nic robić. If you want to uninstall it in the future, come back to `VFF-Downloader-for-Dolphin.bat` or `VFF-Downloader-for-Dolphin.sh` and choose - Manage startup VFF Downloader.
 {: .notice--info}
 
 ##### Sekcja III - Kończenie instalacji
 
-1. Uruchom RiiConnect24Patcher.bat, który pobrałeś [stąd](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+1. On Windows run the `RiiConnect24Patcher.bat` or run the `RiiConnect24Patcher.sh` if you are on a Unix system that you downloaded [here](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 2. Uruchom program oraz wybierz `Install RiiConnect24`. ![Wybierz "Custom"](/images/Dolphin_RC24/5.jpg)
 3. Wybierz `Custom`. ![Wybierz "Check Mii Out Channel"](/images/Dolphin_RC24/6.jpg)
 4. Wybierz `1` oraz wybierz Twój region i tylko włącz piątą opcję. Naciśnij `6` aby rozpocząć proces patchowania.

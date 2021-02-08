@@ -12,7 +12,7 @@ SysCheck pozwala na wyświetlenie całej listy zainstalowanych IOS oraz cIOS na 
 #### Będziesz potrzebował:
 
 * Karta SD lub urządzenie USB
-* [SysCheck HacksDen Edition](http://www.hacksden.com/downloads.php?do=file&id=149)
+* [SysCheck HacksDen Edition](/assets/files/SysCheckHDE.zip)
 
 #### Instrukcje
 ##### Sekcja I - Pobieranie/Instalowanie

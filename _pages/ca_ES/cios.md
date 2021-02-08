@@ -8,13 +8,13 @@ This tutorial will tell you how to install cIOS (custom IOS). This is required i
 
 ![instalador d2x cIOS](/images/cIOS.png)
 
-If you have a Wii mini, Install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
+If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
 {: . notícia--informació}
 
 #### What you need
 
 * A Wii with an Internet connection
-* An SD card or USB drive
+* An SD card or USB drive (ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not see the correct cIOS option)
 * [instalador d2x cIOS](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
 #### Instruccions
@@ -29,7 +29,7 @@ If you have a Wii mini, Install [this cIOS](cios-mini) instead. Attempting to in
 1. Press continue, then set the options to the following:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 56
+Select cIOS base: 57
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
@@ -37,21 +37,21 @@ Select cIOS version: 65535
 1. Once set, press A twice to install.
 1. Quan hagueu acabat d'instalar, premeu A per a tornar, i poseu les opcions a les següents:
 ```
-Seleccioneu cIOS: v10 beta52 d2x-v10-beta52
-Seleccioneu cIOS base: 57
-Seleccioneu cIOS slot: 250
-Seleccioneu cIOS version: 65535
+Select cIOS: v10 beta52 d2x-v10-beta52
+Select cIOS base: 56
+Select cIOS slot: 250
+Select cIOS version: 65535
 ```
 ![Install cIOS 250](/images/Wii/Install250.png)
 1. Once set, press A twice to install.
 1. Quan hagueu acabat d'instalar, premeu A per a tornar, i poseu les opcions a les següents:
 ```
-Seleccioneu cIOS: v10 beta52 d2x-v10-beta52
-Seleccioneu cIOS base: 58
-Seleccioneu cIOS slot: 251
-Seleccioneu cIOS version: 65535
+Select cIOS: v10 beta52 d2x-v10-beta52
+Select cIOS base: 38
+Select cIOS slot: 251
+Select cIOS version: 65535
 ```
-1. Run it again, then exit once done.
+1. Once set, press A twice again to install, and then exit once done.
 
 ##### Options once complete
 
@@ -61,5 +61,5 @@ Seleccioneu cIOS version: 65535
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: . notícia--informació}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx).
+You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: . notícia--informació}

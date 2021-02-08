@@ -9,9 +9,8 @@ FlashHax jest exploitem przeznaczonym dla Wii, który wykorzystuje dziurę w zab
 
 #### Będziesz potrzebował:
 
-- Wii z aktywnym połączeniem Internetowym oraz systemem w wersji 4.3
-- Internet Channel
-   - Nie będzie on zainstalowany na vWii lub Wii Mini. Sprawdź inne poradniki, które są opisane we [wprowadzeniu](/get-started).
+- Konsola Wii z połączeniem Internetowym
+- The Internet Channel
 
 #### Instrukcje
 

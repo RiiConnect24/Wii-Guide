@@ -15,7 +15,7 @@ This is a quick start guide on how to use USB Loader GX, a popular USB loader fo
 
 * A Wii
 * A USB drive
-* [USB Loader GX](https://sourceforge.net/projects/usbloadergx/files/latest/download)
+* [USB Loader GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
 
 Make sure you have installed [cIOS](/cios) before following this!
 {: . notícia--informació}
@@ -23,7 +23,10 @@ Make sure you have installed [cIOS](/cios) before following this!
 We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, or [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS.
 {: . notícia--informació}
 
-To play multiple games, we recommend a USB-powered external hard drive for your Wii. We will refer to it as a "USB drive" in this guide. Most of the ones you can find on the market should work fine if they have USB 2 backwards compatibility. Drives with 1 TB or more in capacity will work. A flash drive will also work, but due to the size of a flash drive, it won't be able to store as many games.
+If you are not copying games using Wii Backup Manager or Witgui, make a folder on the root of the USB drive named "wbfs" and put the games in there.
+{: . notícia--informació}
+
+To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
 {: . notícia--informació}
 
 Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as extFS or WBFS, the latter is an old format of storing Wii games.
@@ -70,7 +73,7 @@ Pressing any game will allow you to play the game by pressing "Start".
 
 There are also other buttons:
 
-* + Icon - "Install" a game, i.e. loading it from disc and dumping it.
+* (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
 * Gears - Settings for USB Loader GX.
 * SD card - Remount the SD card.
 * Homebrew - Load homebrew apps.

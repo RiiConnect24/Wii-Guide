@@ -16,22 +16,22 @@ Ten poradnik jest również dostępny w innych językach! Aby zmienić język, n
 
 ## Czym jest "homebrew"?
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) odnosi się do nieoficjalnego oraz niepodpisanego oprogramowania. Są to gry, narzędzia, emulatory i inne.
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) odnosi się do oprogramowania nieoficjalnego oraz niepodpisanego przez Nintendo. Odnosi się to do gier, narzędzi, emulatorów i innych rzeczy!
 
-Uruchamianie homebrew na konsoli Nintendo Wii jest darmowe za pomocą różnych exploitów.
+Running homebrew on your Nintendo Wii can be done for free by exploiting bugs in Wii's software. The modifications installed by following this guide will give you easy and persistent access to Wii homebrew.
 
 ## Co mogę zrobić z homebrew?
 
-Poniżej jest lista rzeczy, którą możesz zrobić wykorzystując homebrew. Nie opisaliśmy wszystkiego co możesz zrobić z homebrew ale powinno Ci to przedstawić podstawowe rzeczy, które możesz za pomocą niego zrobić. Nasz poradnik z łatwością wprowadzi Cię do świata homebrew.
+Here's a list of things you can do using homebrew. While this list is by no means totally comprehensive, you should have a good idea of what is possible, and the guide will help you easily get started.
 
 - Stosowanie poprawek (patchowanie) na zasoby gry (pozwala Ci ładować modyfikacje do gier) używając [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
 - Zainstaluj motywy na system Wii Menu używając [MyMenufy](themes).
-- Zainstaluj loader USB taki jak [WiiFlow Lite](https://gbatemp.net/threads/wiiflow-lite.422685/) lub [USB Loader GX](usbloadergx) aby uruchomić Twoje ulubione kopie zapasowe gier z urządzenia USB oraz wiele więcej.
+- Install a USB Loader like [WiiFlow](wiiflow) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
 - Wykonaj kopię zapasowe Twoich gier korzystając z [CleanRip](/dump-games) oraz zainstalowanych gier/kanałów korzystając z [YABDM](dump-wads)
 - Wykonaj kopię zapasową Twoich zapisów gier korzystając z [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
 - Pobieraj nowe homebrew korzystając z [Homebrew Browser](hbb)
 - Przywróć funkcjonalność zamkniętych serwisów takich jak [WiiConnect24](riiconnect24) oraz [Nintendo WFC](wiimmfi).
-- Wykonaj kopię zapasową pamięci NAND konsoli Wii oraz przywróć ją korzystając z [BootMii](http://bootmii.org).
+- Backup and restore copies of your Wii system memory (NAND) using [BootMii](bootmii).
 - Broń swoje Wii przed brickami korzystając z [Priiloader'a](priiloader) oraz BootMii.
 - Przeistocz swoje Wii w odtwarzacz multimedialny korzystając z [WiiMC](http://www.wiimc.org/).
 

@@ -14,42 +14,42 @@ Ce guide est uniquement destiné aux utilisateurs Wii mini. Si vous possédez un
 Si vous avez besoin d'aide à propos de ce tutoriel, rejoignez le [Discord de hacking pour Wii mini](https://discord.gg/6ryxnkS) (recommandé mais en anglais)
 {: .notice--info}
 
-Le d2x cIOS installer a été initialement développé pour le mode vWii de la Wii U par DaveBaol et le cIOS personnalisé a été crée par Leseratte pour la Wii mini. La page de téléchargement original peut-être trouvé [ici](https://wii.leseratte10.de/d2xl-cIOS/). La page Github de Leseratte se trouve [ici](https://github.com/Leseratte10/d2xl-cios). Notez que ce cIOS est toujours expérimental par contre aucun problème de fonctionnement n'a été signalé.
+Le d2x cIOS installer a été initialement développé pour le mode vWii de la Wii U par DaveBaol et le cIOS personnalisé a été crée par Leseratte pour la Wii mini. La page de téléchargement original peut-être trouvé [ici](https://wii.leseratte10.de/d2xl-cIOS/). La page Github de Leseratte se trouve [ici](https://github.com/Leseratte10/d2xl-cios). Notez que ce cIOS est toujours expérimental, cependant aucun problème de fonctionnement n'a été signalé.
 {: .notice--info}
 
-#### Vous aurez besoin
+#### Ce dont vous avez besoin
 
-* Une Wii mini avec la Chaîne Homebrew installée
-* Une clé USB
+* Une Wii mini avec Homebrew Channel installé
+* Un périphérique USB
 * Le [d2xl cIOS Installer](/assets/files/d2xl_wii_mini_cIOS_installer_v1_beta2.zip) par Leseratte
 
 #### Instructions
 
 ##### Section I - Téléchargement
 
-1. Extrayez le programme d'installation du d2xl cIOS dans le dossier `apps` de votre clé USB.
-1. Insérez votre clé USB dans votre Wii mini et chargez le programme d'installation d2xl cIOS à partir de la chaîne Homebrew.
+1. Décompressez le programme d'installation du d2xl cIOS dans le dossier `apps` de votre périphérique USB.
+1. Insérez votre périphérique USB dans votre Wii mini et chargez le programme d'installation d2xl cIOS à partir du Homebrew Channel.
 
 ##### Section II - Installation
 
-1. Appuyez sur continuer, définissez ensuite les options suivantes:
+1. Appuyez sur continuer, appliquez ensuite les options suivantes:
     ```
     Sélectionnez cIOS: d2xl-v1-beta2 
    Sélectionnez la base cIOS: 57 
    Sélectionnez l'emplacement cIOS: 249
     ```
 Notez le numéro de version sous les notes (` IOS57-64- ` se terminant par ` v31776 ` ou ` v31775 `)
-1. Une fois défini, appuyez sur A pour installer. Une fois l'installation terminée avec succès, quittez l'installateur.
-   - Si l'installation échoue avec une erreur ` TMD version mismatch `, appuyez à gauche ou à droite sur le + Control Pad sur l'option ` Select cIOS base ` jusqu'à ce que le numéro de version soit différent de celui que vous essayé avant. Le nombre 57 ne changera pas.
+1. Une fois défini, appuyez sur A pour installer. Une fois l'installation terminée avec succès, quittez le programme d'installation.
+   - Si l'installation échoue en renvoyant l'erreur `TMD version mismatch`, sélectionnez l'option `Select cIOS`, puis sélectionnez avec la croix directionnelle un numéro de version différent de celui que vous avez essayé avant. Le nombre 57 ne changera pas.
 
 
 ##### Activation Ethernet
-Si vous souhaitez utiliser Wiimmfi en Ethernet sur une Wii mini, vous devez exécuter une application faite par Fullmetal5 nommée [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip). Pour ce faire mettez le contenu du fichier .zip dans le dossier `apps` de votre clé USB puis démarrez-le depuis la Chaîne Homebrew.
+Si vous souhaitez utiliser Wiimmfi en Ethernet sur une Wii mini, vous devez exécuter l'application [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip) créée par Fullmetal5. Pour ce faire mettez le contenu du fichier .zip dans le dossier `apps` de votre clé USB puis démarrez-le depuis la Chaîne Homebrew.
 
-N’essayez pas d’installer un IOS d’une Wii ou un Menu Système sur la Wii mini. Cela pourrait potentiellement bloquer votre console.
+N’essayez pas d’installer un IOS d’une Wii ou un Menu Système sur la Wii mini. Cela pourrait potentiellement briquer votre console.
 {: .notice--warning}
 
-Vous pouvez maintenant utiliser des homebrews comme [USB Loader GX](usbloadergx).
+Vous pouvez maintenant utiliser des homebrew comme [USB Loader GX](usbloadergx) et [WiiFlow](wiiflow).
 {: .notice--info}
 
 [Continuer vers la navigation du site](site-navigation)<br> Nous avons de nombreux autres tutoriels que vous pourriez aimer.
