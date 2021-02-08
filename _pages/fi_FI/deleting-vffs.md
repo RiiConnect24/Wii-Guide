@@ -1,5 +1,5 @@
 ---
-title: "Deleting VFFs"
+title: "VFF:ien poistaminen"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -9,19 +9,19 @@ Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiCon
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-If you're getting one of these errors (and not any other error), you should be able to fix the Channel by deleting your VFF.
+Jos saat jonkin näistä virheistä (etkä mitään muuta virhettä), sinun pitäisi pystyä korjaamaan kanava poistamalla VFF:si.
 
-+ Discontinued Message
++ Lopetettu-viesti
 + NEWS/FORE000001
 + NEWS/FORE000003
 + NEWS/FORE000005
 + NEWS/FORE000099
 
 #### Mitä tarvitset
-* An SD card or USB drive
+* SD-kortti tai USB-asema
 * [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
 
-#### Folder to Delete
+#### Poistettava kansio
 
 + Forecast Channel
   + 48414645
@@ -35,14 +35,14 @@ If you're getting one of these errors (and not any other error), you should be a
 
 #### Ohjeet
 
-1. Launch WiiXplorer.
-2. Go to `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` and then select `Yes` for both dialogues that appear on the screen.
+1. Käynnistä WiiXplorer.
+2. Mene `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` ja sitten valitse `Yes` molemmissa dialogeissa, jotka ilmestyvät näytölle.
 3. Press Back until you have reached the file explorer screen.
-4. Select the tiny blue SD Card icon, then select `NAND`.
-5. Navigate to `title` -> `00010002` -> XXXXXXXX -> `data`, where XXXXXXXX is one of the folders above.
-6. Hover over `wc24dl.vff` and press the + button and select `Delete`.
+4. Valitse pieni sininen SD-kortin kuvake, sitten valitse `NAND`.
+5. Navigoi `title` -> `00010002` -> XXXXXXXX -> `data`, jossa XXXXXXXX on yksi ylläolevista kansioista.
+6. Vie kursori tiedoston `wc24dl.vff` päälle, paina + nappia ja valitse `Delete`.
 
-Try to launch the Channel you were having trouble with now.
+Kokeile nyt käynnistää se kanava, jonka kanssa sinulla oli ongelmia.
 
 [Palaa RiiConnect24:n asennussivulle](riiconnect24)
 {: .notice--info}
