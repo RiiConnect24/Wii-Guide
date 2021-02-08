@@ -67,7 +67,7 @@ Um dos recursos mais importantes do BootMii é a capacidade de fazer backup e re
 **Site**
 + [Home](/)
 + [Introdução](get-started)
-+ [FAQ](faq)
++ [Perguntas frequentes](perguntas frequentes)
 + [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
