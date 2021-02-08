@@ -65,7 +65,7 @@ To change the cIOS used for a specific game, follow these instructions:
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
-1. Select the game that isn't working/
+1. Select the game that isn't working.
 1. Click Settings.
 1. Select `Game Load`.
 1. Scroll down to `Game IOS`.
