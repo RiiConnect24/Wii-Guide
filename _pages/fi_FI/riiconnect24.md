@@ -15,10 +15,10 @@ The Unix Patcher is finally out! This means that users of macOS and all types of
 {: .notice--info}
 
 {% capture notice-1 %}
-This guide is for the original Wii only.
+Tämä opas on vain alkuperäistä Wiitä varten.
 
-- Follow [this tutorial](riiconnect24-vwii) if you'd like to install RiiConnect24 on a vWii (the Wii mode of your Wii U).
-- Follow [this tutorial](riiconnect24-dolphin) if you'd like to install RiiConnect24 on the Dolphin emulator.
+- Seuraa [tätä opasta](riiconnect24-vwii), jos haluaisit asentaa RiiConnect24:n vWiille (Wii U:n Wii-tilaan).
+- Seuraa [tätä opasta](riiconnect24-dolphin), jos haluaisit asentaa RiiConnect24:n Dolphin-emulaattorille.
 
 There is no guide to installing RiiConnect24 on a Wii Mini, as attempting to install RiiConnect24 on a Wii Mini will result in a console brick.
 {% endcapture %}
@@ -27,17 +27,17 @@ There is no guide to installing RiiConnect24 on a Wii Mini, as attempting to ins
 
 #### Mitä tarvitset
 
-* An SD card or USB drive
-* A Wii with an Internet connection
-* A computer
-* [RiiConnect24 Patcher (Windows and Unix)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+* SD-kortti tai USB-asema
+* Wii internetyhteydellä
+* Tietokone
+* [RiiConnect24 Patcher (Windows ja Unix)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 If you still can't run RiiConnect24 Patcher, please send us a mail at support@riiconnect24.net
 {: .notice--info}
 
 #### Ohjeet
 
-##### Section I - Downloading RiiConnect24 Patcher
+##### Osa I - RiiConnect24 Patcherin lataaminen
 
 1. Click the link above to go to the github page where the patcher is.
 2. Download `RiiConnect24Patcher.bat` if you are on Windows, and `RiiConnect24Patcher.sh` if you are on a Unix system
@@ -51,16 +51,16 @@ If you still can't run RiiConnect24 Patcher, please send us a mail at support@ri
 2. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`. ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.PNG)
 3. Select the device you're patching for. ![Select your device](/images/RC24_Patcher/2.PNG)
 4. For this guide, choose "`Install RiiConnect24 on your Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.PNG)
-5. Choose "`Express (Recommended)`". It will give you everything you need. ![Express Settings](/images/RC24_Patcher/4.PNG)
-6. Select your region. ![Select your region](/images/RC24_Patcher/5.PNG)
-7. Connect the SD Card or USB Drive to your computer and select "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/6.PNG)
-8. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again. ![Successfully detected](/images/RC24_Patcher/7.PNG)
-9. Be patient... ![It's patching!](/images/RC24_Patcher/8.PNG)
+5. Choose "`Express (Recommended)`". Se antaa sinulle kaiken, mitä tarvitset. ![Express Settings](/images/RC24_Patcher/4.PNG)
+6. Valitse alueesi. ![Select your region](/images/RC24_Patcher/5.PNG)
+7. Liitä SD-kortti tai USB-asema tietokoneeseesi ja valitse "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/6.PNG)
+8. Jos laitteesi tunnistettiin onnistuneesti, valitse "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again. ![Successfully detected](/images/RC24_Patcher/7.PNG)
+9. Ole kärsivällinen... ![It's patching!](/images/RC24_Patcher/8.PNG)
 10. Once it's done, you can now safely close the patcher. All of the files are ready on your SD Card. ![It's done!](/images/RC24_Patcher/9.PNG) ![Files copied](/images/RC24_Patcher/10.PNG)
 11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
-12. Put your SD card or USB drive in your Wii.
-13. Käynnistä Homebrew Channel Wii:lläsi.
-14. Launch Wii Mod Lite.
+12. Liitä SD-korttisi tai USB-asemasi Wii-konsoliisi.
+13. Käynnistä Homebrew Channel Wiilläsi.
+14. Käynnistä Wii Mod Lite.
 15. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 16. Highlight all WADs with `RiiConnect24` in the name, and press + to select them. When all of them are selected, press A twice to install the WADs.
 17. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted WAD to uninstall it, then try installing it again.
@@ -70,13 +70,13 @@ If you still can't run RiiConnect24 Patcher, please send us a mail at support@ri
 
 You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
 
-1. Launch RiiConnect24 Mail Patcher.
+1. Käynnistä RiiConnect24 Mail Patcher.
 2. It should only take a few seconds to patch your nwc24msg.cfg. When it's done, press HOME to exit.
 
 If you were unable to patch your nwc24msg.cfg correctly, e-mail us at [support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-##### Section IV - Connecting
+##### Osa IV - Yhdistäminen
 
 In this section, you will set your DNS to our servers. It's optional but recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
 
@@ -84,7 +84,7 @@ In this section, you will set your DNS to our servers. It's optional but recomme
 2. Mene `Wii Settings`.
 3. Mene `Page 2`, sitten klikkaa `Internet`.
 4. Mene `Connection Settings`.
-5. Select your current connection.
+5. Valitse tämänhetkinen yhteytesi.
 6. Mene `Change Settings`.
 7. Mene `Auto-Obtain DNS` (Ei IP Address), sitten valitse `No`, sitten `Advanced Settings`.
 8. Syötä `164.132.44.106` kohtaan "Primary DNS".
