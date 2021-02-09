@@ -78,7 +78,7 @@ To change the cIOS used for a specific game, follow these instructions:
 1. Click the gear icon.
 1. Go to cIOS and use the arrows to select the IOS slot to use.
     - Try using 250 or 251, if 249 doesn't work.
-1. Press ok and try to load the game.
+1. Press Save and try to load the game.
 </div>
 ##### Options once complete
 
