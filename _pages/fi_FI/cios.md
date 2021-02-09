@@ -81,7 +81,7 @@ Although the majority of games should work straight away, some may require using
   
   <ul>
     <li>
-      Try using 250 or 251, if 249 doesn't work. !!crwdP_32_Pdwrc!!Press ok and try to load the game.
+      Try using 250 or 251, if 249 doesn't work. !!crwdP_32_Pdwrc!!Press Save and try to load the game.
     </li>
   </ul>
 </div>
