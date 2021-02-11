@@ -45,6 +45,7 @@ There are also few more good resources for Wii modding and troubleshooting that 
 - [ModMii](http://xflak.com/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
+- [Complete Softmod Guide](https://www.sites.google.com/site/completesg/)
 - [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/)
 ...and of course, this site
 
