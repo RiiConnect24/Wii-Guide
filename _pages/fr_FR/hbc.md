@@ -30,7 +30,7 @@ Si vous n'avez pas de carte SD, vous ne pouvez pas installer ou utiliser BootMii
 
 ![BootMii Installation](/images/Wii/InstallBootMii.jpg)
 
-8. Une fois terminé, sélectionnez ` Continuer `, puis sélectionnez ` Quitter ` pour accéder au canal Homebrew
+8. Une fois terminé, sélectionnez `Continuer`, puis sélectionnez `Quitter` pour accéder au Homebrew Channel
 
 [Continuer vers la Sauvegarde BootMii](bootmii)<br> Créer une sauvegarde de la NAND de votre console à l’aide de BootMii à ce stade est fortement recommandé.
 {: .notice--info}
