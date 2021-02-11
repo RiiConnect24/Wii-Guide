@@ -8,7 +8,7 @@ Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">To a PC over the network</button>
 
 {% capture cleanripInstructions %}
-### Cleanrip guide
+### Cleanrip-opas
 {% include_relative cleanrip.md %}
 {% endcapture %}
 

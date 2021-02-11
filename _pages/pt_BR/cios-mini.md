@@ -40,16 +40,16 @@ O instalador d2x cIOS foi originalmente desenvolvido para o Wii U (vWii) por Dav
     ```
 Tenha um lembrete do número da versão (`IOS57-64-` finalizando em ambos `v31776` ou `v31775`)
 1. Quando feito, pressione A para instalar. Assim que terminar, saia do instalador.
-   - If the install fails with a `TMD version mismatch` error, press left or right on the +Control Pad over the `Select cIOS base` option until the version number is different than the one you tried before. The number 57 will not change.
+   - Se a instalação falhar com um erro `Versão TMD`, pressione esquerda ou direita no +Control Pad encima da `Selecione a base cIOS` opção até que o número da versão seja diferente do que você tentou antes. O número 57 não irá mudar.
 
 
 ##### Ativando Ethernet
 Se você deseja usar o Wiimmfi com cabo Ethernet em um Wii mini, execute o aplicativo [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip) por Fullmetal5. Para executar, basta extrair o arquivo na pasta `apps` da sua unidade USB e inicie pelo Homebrew Channel.
 
-Do not attempt to install a Wii IOS or System Menu on the Wii mini. Se fizer, seu console pode sofrer brick.
+Não tente instalar uma IOS Wii ou Menu do Sistema no Wii Mini. Se fizer, seu console pode sofrer brick.
 {: .notice--warning}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
+Você agora poderá usar homebrew como o [USB Loader GX](usbloadergx) e [WiiFlow](wiiflow).
 {: .notice--info}
 
 [Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.

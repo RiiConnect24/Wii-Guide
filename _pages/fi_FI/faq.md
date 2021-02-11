@@ -4,26 +4,26 @@ title: "FAQ"
 
 ![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
 
-### How risky is hacking my console?
-Bricks (a state where either some parts of your Wii software are not working, or your Wii is not working at all) are now *basically* impossible unless you ignore/circumvent all safety checks.
+### Kuinka riskialtista konsolini hakkerointi on?
+Brickit (tila, jossa joko jotkin osat Wiisi ohjelmistoista eivät toimi, tai Wiisi ei toimi ollenkaan) ovat nykyään *käytännössä* mahdottomia, paitsi jos jätät huomiotta/kierrät kaikki turvallisuusvarmistukset.
 
-### Where should I go for support?
-Either email us at support@riiconnect24.net or join the [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD).
+### Mistä saan apua?
+Joko lähetä meille sähköpostia osoitteeseen support@riiconnect24.net tai liity [RiiConnect24 -Discord-palvelimelle](https://discord.gg/b4Y7jfD).
 
-### What are the SD card requirements and/or recommendations?
-You will need an SD card with at least 128MB to run an exploit.
+### Mitkä ovat SD-korttivaatimukset ja/tai suositukset?
+Tarvitset SD-kortin, jolla on vähintään 128 Mt tilaa suorittaaksesi exploitin.
 
-- If you are using the BlueBomb exploit, you do not need an SD card
+- Jos käytät BlueBomb-exploitia, et tarvitse SD-korttia
 
-To store homebrew applications, we recommend an SD card with at least 2 GB.
+Homebrew-ohjelmien varastoimiseen suosittelemme SD-korttia, jolla on vähintään 2 Gt tilaa.
 
-### I got error XXXXXX in Wiimmfi, how to fix it?
-In order to check what error that is, please visit the [Wiimmfi error page](https://wiimmfi.de/error).
+### Sain virheen XXXXXX Wiimmfissä, kuinka korjata se?
+Katsoaksesi, mikä virhe se on, käy [Wiimmfin virhesivulla](https://wiimmfi.de/error).
 
-### What are the limitations in vWii modding?
+### Mitkä ovat rajat vWii-modauksessa?
 The following is a list of things that can potentially **BRICK** your vWii (don't do these things!):
-* Installing IOS for a Wii console on vWii.
+* Wiin IOS:n asentaminen vWiille.
 * Installing Wii menu themes not formatted correctly for vWii and/or your region.
-* Installing BootMii and/or Priiloader/Preloader.
+* BootMiin ja/tai Priiloaderin/Preloaderin asentaminen.
 * Failure during the install of crucial system/IOS titles (e.g. power outage).
-* Modifying the vWii NAND without knowing what you are doing.
+* vWiin NAND:in muokkaaminen tietämättä mitä teet.
