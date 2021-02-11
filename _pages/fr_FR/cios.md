@@ -17,7 +17,7 @@ Si vous possédez une Wii classique, installez [ce cIOS](cios-mini) à la place.
 * Une carte SD ou un périphérique USB
 * [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
-Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
+Si vous utilisez une carte SD, vérifiez que le loquet de verrouillage est bien en position déverrouillée, sinon vous ne pourrez pas sélectionner les bonnes options dans le programme d'installation
 {: .notice--warning}
 
 #### Instructions
@@ -47,7 +47,7 @@ Select cIOS version: 65535
 ```
 ![Install cIOS 250](/images/cios/Install250.png)
 1. Une fois appliqué, appuyez deux fois sur A pour installer.
-1. When done installing, press A to return, and set the options to the following: ![Install cIOS 251](/images/cios/Install251.png)
+1. Quand l'installation est terminée, appuyez sur A pour revenir à l'écran précédent, et appliquez les options suivantes : ![Install cIOS 251](/images/cios/Install251.png)
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 38
@@ -56,7 +56,7 @@ Select cIOS version: 65535
 ```
 1. Une fois ces paramètres définis, appuyez à nouveau sur A deux fois pour installer, puis quittez lorsque c'est terminé.
 
-Although the majority of games should work straight away, some may require using a specific cIOS to function, or to utilize certain features within the game. To change the cIOS used for a specific game, follow these instructions:
+Bien que la majorité des jeux devraient fonctionner immédiatement, certains peuvent nécessiter l'utilisation d'un cIOS spécifique pour fonctionner, ou pour utiliser certaines fonctionnalités du jeu. Pour modifier le cIOS utilisé pour un jeu spécifique, suivez ces instructions :
 {: .notice--warning}
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'usbloadergx')">USB Loader GX</button>
@@ -87,7 +87,7 @@ Although the majority of games should work straight away, some may require using
 </div>
 ##### Options disponibles une fois le processus terminé
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. L'installation est facultative.
+[Continuer vers Homebrew Browser](hbb)<br> Homebrew Browser est un l'endroit idéal pour obtenir des homebrew pour votre Wii. L'installation est facultative.
 {: .notice--info}
 
 [Continuer vers la navigation du site](site-navigation)<br> Nous avons de nombreux autres tutoriels que vous pourriez aimer.
