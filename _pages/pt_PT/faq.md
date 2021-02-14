@@ -13,7 +13,7 @@ Ou envia-nos um email para support@riiconnect24.net ou entra no [server RiiConne
 ### Quais são os requisitos e/ou recomendações do cartão SD?
 Necessitarás de um cartão SD com, pelo menos, 128MB para executar um exploit.
 
-- Se estiveres a utilizar o exploit BlueBomb, não precisas de cartão SD
+- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card
 
 Para armazenar aplicações homebrew, nós recomendamos um cartão SD com pelo menos 2 GB.
 
