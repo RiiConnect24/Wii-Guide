@@ -13,7 +13,7 @@ title: "שאלות נפוצות"
 ### מהן ההמלצות והדרישות לכרטיס SD?
 נדרש כרטיס SD עם לפחות 128GB כדי לנצל פרצה.
 
-- If you are using the BlueBomb exploit, you do not need an SD card
+- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card
 
 To store homebrew applications, we recommend an SD card with at least 2 GB.
 
