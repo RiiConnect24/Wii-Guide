@@ -13,7 +13,7 @@ Joko lähetä meille sähköpostia osoitteeseen support@riiconnect24.net tai lii
 ### Mitkä ovat SD-korttivaatimukset ja/tai suositukset?
 Tarvitset SD-kortin, jolla on vähintään 128 Mt tilaa suorittaaksesi exploitin.
 
-- Jos käytät BlueBomb-exploitia, et tarvitse SD-korttia
+- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card
 
 Homebrew-ohjelmien varastoimiseen suosittelemme SD-korttia, jolla on vähintään 2 Gt tilaa.
 
