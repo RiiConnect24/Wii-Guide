@@ -13,7 +13,7 @@ Napisz do nas na support@riiconnect24.net lub dołącz do [serwera Discord RiiCo
 ### Jakie są wymagania i/lub zalecenia dotyczące karty SD?
 Będziesz potrzebował karty SD z przynajmniej 128MB miejsca aby wykonać exploit.
 
-- If you are using the BlueBomb exploit, you do not need an SD card
+- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card
 
 Zalecamy minimum 2GB miejsca na karcie SD na przechowywanie aplikacji homebrew.
 
