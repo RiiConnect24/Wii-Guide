@@ -13,7 +13,7 @@ Either email us at support@riiconnect24.net or join the [RiiConnect24 Discord Se
 ### What are the SD card requirements and/or recommendations?
 You will need an SD card with at least 128MB to run an exploit.
 
-- If you are using the BlueBomb, str2hax, or FlashHax exploit, you do not need an SD card
+- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card
 
 To store homebrew applications, we recommend an SD card with at least 2 GB.
 
