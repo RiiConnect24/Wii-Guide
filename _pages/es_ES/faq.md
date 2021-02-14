@@ -13,7 +13,7 @@ Puedes unirte a nuestro<a href="https://discord.gg/b4Y7jfD"servidor de Discord><
 ### ¿Cuales son los requerimientos y/o recomendaciones para la tarjeta SD?
 Necesitarás una tarjeta SD de al menos 128 MB para ejecutar un exploit.
 
-- Si estas usando el exploit de BlueBomb, no necesitas usar una tarjeta SD
+- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card
 
 Para almacenar aplicaciones homebrew, recomendamos usar una tarjeta SD de por lo menos 2 GB de capacidad.
 
