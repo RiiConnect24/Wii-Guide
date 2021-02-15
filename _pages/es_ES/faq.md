@@ -13,14 +13,14 @@ Puedes unirte a nuestro<a href="https://discord.gg/b4Y7jfD"servidor de Discord><
 ### ¿Cuales son los requerimientos y/o recomendaciones para la tarjeta SD?
 Necesitarás una tarjeta SD de al menos 128 MB para ejecutar un exploit.
 
-- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card
+- Si vas a usar el método BlueBomb, str2hx o FlashHax, tú no necesitas una tarjeta SD
 
-Para almacenar aplicaciones homebrew, recomendamos usar una tarjeta SD de por lo menos 2 GB de capacidad.
+Para almacenar aplicaciones Homebrew, recomendamos usar una tarjeta SD de por lo menos 2 GB de capacidad.
 
-### Me ha aparecido el código de error XXXXX en Wiimmfi, ¿cómo lo arreglo?
-Para saber qué significa y cómo solucionar el error, por favor visita la [página de errores de Wiimmfi](https://wiimmfi.de/error).
+### Me ha aparecido un mensaje con el código de error XXXXX (código de ejemplo) en Wiimmfi, ¿cómo lo arreglo?
+Para saber qué significa y cómo solucionar el error, por favor visita la [página de errores de Wiimmfi (disponible sólo en inglés)](https://wiimmfi.de/error).
 
-### ¿Cuáles son las limitaciones en la modificación del vWii?
+### ¿Cuáles son las modificaciones/instalaciones que dejarían a tu vWii en un brick?
 La siguiente es una lista de acciones que pueden dejar tu vWii en un estado de **brick** (¡No intentes estas cosas!):
 * Instalar IOS diseñados para el Wii en vWii.
 * Instalar temas diseñados para el Wii que no han sido convertidos correctamente para el vWii y/o la región de tu consola.
