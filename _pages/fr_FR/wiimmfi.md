@@ -67,8 +67,8 @@ Vous ne voudrez peut-être pas exécuter un patcher à chaque fois que vous voul
 
 #### Ce dont vous avez besoin
 - La copie de votre jeu (WBFS, ISO, cISO et d'autres formes qu'une Wii peut utiliser sont prises en charge).
-- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
-**or**
+- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows et Unix)  
+**ou**
 - Wiimm's ISO Patcher (multi-platforme)
    - [Patcher pour Mario Kart Wii](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip)
    - [Patcher pour tous les autres jeux](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z)
@@ -86,8 +86,8 @@ Vous pouvez patcher des jeux WiiWare pour pouvoir y jouer avec Wiimmfi.
 
 - Une carte SD
 - La copie de votre jeu (au format WAD)
-- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
-**or**
+- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows et Unix)  
+**ou**
 - [Auto WiiWare Patcher](https://github.com/RiiConnect24/auto-wiiware-patcher/releases) (multi-platforme)
 - [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
