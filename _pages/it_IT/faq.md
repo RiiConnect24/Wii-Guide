@@ -2,7 +2,7 @@
 title: "FAQ"
 ---
 
-![Il Logo giallo di Wii RiiConnect24](/images/Wii_Yellow_Gray.jpg)
+![Logo giallo di Wii RiiConnect24](/images/Wii_Yellow_Gray.jpg)
 
 ### Quanto è rischioso hackerare la mia console?
 I bricks (uno stato dove alcune parti del software Wii non funzionano, o la tua Wii non funziona del tutto) sono adesso *praticamente* impossibili almeno che tu ignori/aggiri le misure di sicurezza.
@@ -13,7 +13,7 @@ O una email a support@riiconnect24.net o puoi unirti al [ server Discord RiiConn
 ### Quali sono i requisiti e/o raccomandazioni per la scheda SD?
 Avrai bisogno di una scheda SD con almeno 128MB per far andare l'exploit.
 
-- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card
+- Se stai usando gli exploit BlueBomb, str2hax o FlashHax non hai bisogno di una scheda SD
 
 Per conservare applicazioni Homebrew consigliamo una scheda SD con almeno 2 GB.
 
