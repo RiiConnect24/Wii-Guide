@@ -22,13 +22,13 @@ Homebrew Channel jest miejscem, w którym możesz uruchamiać programy homebrew.
 4. Po ukończeniu, naciśnij na "Continue". ![Sukces podczas instalacji Homebrew Channel](/images/Wii/SuccessHBC.png)
 
 5. Po zainstalowaniu, naciśnij "Back" oraz przejdź do "BootMii".
-6. If the main screen says you can install BootMii as boot2, do so. This offers the best possible brick protection you can have.
-7. If you cannot install BootMii as boot2 (like the Wii shown in step two), install BootMii as IOS instead. Nie daje Ci to kompletnej ochrony przed brickiem, jednak będziesz mógł wykonać kopię zapasową pamięci NAND.
+6. If the main screen says you can install BootMii as boot2, do so. This offers the best possible brick protection you can have. Skip this step if you cannot install BootMii as boot2.
+7. Install BootMii as IOS, even if you already installed BootMii boot2 in the previous step. If you couldn't install BootMii as boot2 in the previous step, this will still allow you to create a NAND backup.
 
 If you do not have an SD card, you cannot install or use BootMii, and therefore will not be able utilize any of the mentioned benefits. You can always install it at a later date.
 {: .notice--warning}
 
-![BootMii Installation](/images/Wii/InstallBootMii.jpg)
+![BootMii Installation](/images/Wii/InstallBootMii.png)
 
 8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
 
