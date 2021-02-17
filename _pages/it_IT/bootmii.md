@@ -12,17 +12,22 @@ Se hai bisogno di aiuto per questo tutorial, vai sul [server Discord RiiConnect2
 Hai bisogno di una **Scheda SD** per creare un backup della NAND mentre usi BootMii. Se non ne hai una, puoi saltare questa pagina, però è altamente consigliato di acquistarne una se puoi.
 {: .notice--warning}
 
-Una delle funzioni più importanti di BootMii è di avere la possibilità di creare e ripristinare dei backup della NAND della tua Wii. Successivamente vedremo come creare un backup della NAND. Lo puoi ripristinare successivamente per qualsiasi motivo. Consigliamo di creare regolarmente dei backup della NAND o almeno prima di fare qualsiasi di rischioso alla tua console (e se sai ciò che stai facendo, non farai nulla di rischioso).
+Una delle funzioni più importanti di BootMii è di avere la possibilità di creare e ripristinare dei backup della NAND della tua Wii. Successivamente vedremo come creare un backup della NAND. Lo puoi ripristinare successivamente per qualsiasi motivo. It's a good idea to make a NAND backup regularly or before doing something risky to your console (and if you know what you're doing, you won't have to do anything risky).
 
 #### Cosa ti servirà
 * Una scheda SD con almeno 512MB di spazio disponibile
 
 #### Istruzioni
-Se hai installato BootMii su boot2 nel passaggio precedente, avrai bisogno di lanciare BootMii riavviando la console. Salta i passaggi 1-2 se questo è il tuo caso.
-{: .notice--info}
 1. Apri il canale Homebrew Channel.
 2. Premi il pulsante HOME e scegli "Launch BootMii".
-   - Non puoi utilizzare un telecomando Wii. Devi utilizzare i tasti POWER e RESET sulla tua console, opure un controller GameCube inserito nella porta 1. Per navigare tra le opzioni, premi il pulsante POWER sulla tua Wii (o il pulsante destro del pad a + su un controller GameCube). Per selezionare un'opzione, premi il tasto RESET sul tuo Wii o il tasto A sul tuo controller GameCube.
+
+    Navigating BootMii is not possible using a Wii remote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. To navigate between options, press POWER on your Wii (or the right +Control Pad button on a GameCube controller). To select an option, hit RESET on your Wii or A on your GameCube controller.
+    {: .notice--info}
+
+
+    If the screen stays black and the blue disc drive light is blinking, you are missing the BootMii files on your SD card. Download [this zip](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
+    {: .notice--warning}
+
 3. Seleziona la sezione Opzioni (quella con i tre ingranaggi).
 4. Seleziona l'opzione BackupMii (quella con la feccia verde).
 - Un backup della NAND inizierà. Puoi guardare il processo su schermo.
@@ -31,8 +36,11 @@ Se hai installato BootMii su boot2 nel passaggio precedente, avrai bisogno di la
 5. Quando il backup sarà finito, esso verrà verificato.
 6. Scegli l'opzione Indietro per uscire da BootMii (icona con una freccia) e potrai scegliere se tornare al Menù Wii o al canale Homebrew Channel.
 
-Per ripristinare un backup della NAND dalla tua scheda SD, puoi seguire queste istruzioni utilizzando RestorMii (il bottone vicino BackupMii con una freccia rossa).
-{: .notice--info}
 
-[Continua con l'installazione di Priiloader](priiloader) Priiloader aggiunge un ulteriore livello di protezione dal brick, e lo consigliamo, specialmente se sei riuscito ad installare BootMii solo su IOS.
+<!---
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
+{: .notice--info}
+-->
+
+[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
 {: .notice--info}
