@@ -12,17 +12,22 @@ title: "BootMii 备份"
 你需要一张**SD卡**来使用BootMii创建一个NAND备份。 如果你没有，你可以跳过这一步，虽然非常推荐你创建一个备份，如果你可以的话。
 {: .notice--warning}
 
-BootMii其中一个最重要的特点就是能够备份并且还原你的Wii里的NAND存储。 我们将学习如何制作一个NAND备份。 你可以从备份中还原，无论是什么目的。 我们推荐你经常制作NAND备份，或者在你做一些危险的事情之前。（除了你知道你在干什么，那你做什么事都不会危险。）
+BootMii其中一个最重要的特点就是能够备份并且还原你的Wii里的NAND存储。 我们将学习如何制作一个NAND备份。 你可以从备份中还原，无论是什么目的。 It's a good idea to make a NAND backup regularly or before doing something risky to your console (and if you know what you're doing, you won't have to do anything risky).
 
 #### 需要
 * 一张SD卡，至少有512MB的空间。
 
 #### 步骤
-如果你已经在最后一个教程中，在boot2安装了BootMii，你需要在主机重启的时候启动BootMii。 如果你是这种情况，跳过步骤1和2。
-{: .notice--info}
 1. 启动Homebrew Channel。
 2. 按下Home按钮，选择"Launch BootMii"。
-   - 使用BootMii是不能用Wii手柄的。 你必须使用在Wii主机上的POWER按钮和RESET按钮，或者一个插在第一个口的GameCube手柄。 要对选项进行翻页，按下POWER按键。（或者GameCube手柄上的右十字键。） 要选择一个选项，按下RESET键，或者GameCube手柄上的A键。
+
+    Navigating BootMii is not possible using a Wii remote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. To navigate between options, press POWER on your Wii (or the right +Control Pad button on a GameCube controller). To select an option, hit RESET on your Wii or A on your GameCube controller.
+    {: .notice--info}
+
+
+    If the screen stays black and the blue disc drive light is blinking, you are missing the BootMii files on your SD card. Download [this zip](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
+    {: .notice--warning}
+
 3. 选择设置按钮。（带齿轮那个）
 4. 选择BackupMii按钮（绿色的那个）。
 - NAND备份会开始。 你可以观看屏幕上的过程。
@@ -31,8 +36,11 @@ BootMii其中一个最重要的特点就是能够备份并且还原你的Wii里�
 5. 当备份完全完成后，按任何按键退出NAND备份。
 6. 要退出BootMii，按下Back按钮（有箭头的那个）然后你可以按下Wii菜单按钮或者HBC按钮来退出。
 
-要从SD卡上恢复一个NAND备份，你可以跟随这些部分，然后在选择的时候点击RestoreMii按钮。（就是在BackupMii右边，有红色按钮的那个）
-{: .notice--info}
 
-[继续安装Priiloader](priiloader) Priiloader可以阻止你的Wii变砖。我们推荐这个工具，特别是如果你只把BootMii安装在iOS上。
+<!---
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
+{: .notice--info}
+-->
+
+[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
 {: .notice--info}
