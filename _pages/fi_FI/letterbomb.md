@@ -15,6 +15,7 @@ LetterBomb is an exploit for the Wii that is triggered using the Wii Message Boa
 
 #### Ohjeet
 
+
 1. Wii:lläsi, mene `Wii Settings` -> `Internet` -> `Console Information` ja merkitse MAC-osoitteesi muistiin.
 2. Mene osoitteeseen [please.hackmii.com](https://please.hackmii.com), syötä Wii:si MAC ja alue, läpäise CAPTCHA, *varmista*, että `Bundle the HackMii Installer for me!` * on valittu* ja paina jompaa kumpaa "Cut the..."-painikkeista
    - Ei ole väliä, kumpaa "Cut the..."-painiketta painat. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
@@ -23,7 +24,11 @@ LetterBomb is an exploit for the Wii that is triggered using the Wii Message Boa
 5. Avaa punainen kirje pommin kuvalla.
    - Monissa tapauksissa sinun saattaa täytyä katsoa edelliseen tai seuraavaan päivään löytääksesi sen.
 
+Ensure the date on your Wii is correct, otherwise you will be unable to find the letter.
+{: .notice--warning}
+
+
 ![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
 
-[Jatka Homebrew Channel:n ja BootMii:n asennukseen](hbc)
+[Continue to Homebrew Channel and BootMii Installation](hbc)
 {: .notice--info}
