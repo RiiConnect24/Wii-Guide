@@ -30,9 +30,9 @@ If you do not have an SD card, you cannot install or use BootMii, and therefore 
 
 ![BootMii Installation](/images/Wii/InstallBootMii.png)
 
-8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
+8. Uma vez terminado, seleciona `Continue` e depois seleciona `Exit` para ires para o Homebrew Channel
 
-[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
+[Continua para a criação de uma cópia NAND utilizando BootMii](bootmii)<br> Neste ponto, é recomendado fazer uma cópia da NAND com BootMii.
 {: .notice--info}
 
 If you couldn't install BootMii, continue to [installing Priiloader](priiloader) instead.
