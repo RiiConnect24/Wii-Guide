@@ -24,7 +24,7 @@ LetterBomb é uma vulnerabilidade para a Wii que é desencadeado utilizando o Wi
 5. Carrega na carta vermelha com um uma bomba.
    - Em alguns cenários, tu precisarás de ver o dia anterior ou o seguinte para encontrá-lo.
 
-Ensure the date on your Wii is correct, otherwise you will be unable to find the letter.
+Certifica se a data na tua Wii está correta, senão tu não encontrarás a carta.
 {: .notice--warning}
 
 
