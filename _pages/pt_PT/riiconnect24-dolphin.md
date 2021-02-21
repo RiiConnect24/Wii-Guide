@@ -31,17 +31,17 @@ Se já tens o Dolphin instalado, salta para a Secção II
 
 ##### Secção II - Instalação do RiiConnect24.
 
-1. Run `VFF-Downloader-for-Dolphin.bat` on Windows or `VFF-Downloader-for-Dolphin.sh` on Unix systems which you downloaded [here](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
+1. Executa `VFF-Downloader-for-Dolphin.bat` no Windows ou `VFF-Downloader-for-Dolphin.sh` nos sistemas Unix que tu podes descarregar [aqui](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
 2. Pressiona `1` e `ENTER` para começar o programa. ![Main Menu](/images/Dolphin_RC24/2.jpg)
 3. Procede com a configuração do programa.
 4. Vai-te perguntar se queres executar o programa manualmente todas as vezes que quiseres utilizar RiiConnect24 no Dolphin ou se queres executá-lo no arranque. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
 
 ![Run once](/images/Dolphin_RC24/4.jpg)
 
-If you choose to manually run it, keep `VFF-Downloader-for-Dolphin.bat`. Vai ter uma opção no menu para executar manualmente.
+Se escolheste para executar manualmente, `VFF-Downloader-for-Dolphin.bat`. Haverá uma opção no menu para executá-lo manualmente.
 {: .notice--info}
 
-Se escolheste para executar no arranque, tu não precisas de fazer nada. If you want to uninstall it in the future, come back to `VFF-Downloader-for-Dolphin.bat` or `VFF-Downloader-for-Dolphin.sh` and choose - Manage startup VFF Downloader.
+Se escolheste para executar no arranque, tu não precisas de fazer nada. Se quiseres desinstalá-lo no futuro, volta ao `VFF-Downloader-for-Dolphin.bat` ou `VFF-Downloader-for-Dolphin.sh` e escolhe - Manage startup VFF Downloader.
 {: .notice--info}
 
 ##### Secção III - Finalizar a instalação
