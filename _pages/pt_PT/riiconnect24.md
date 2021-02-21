@@ -47,7 +47,7 @@ If you still can't run RiiConnect24 Patcher, please send us a mail at support@ri
 [Se quiseres ver instruções detalhadas de como instalar os WADs, clica aqui!](wiimodlite)
 {: .notice--info}
 
-1. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open terminal and type bash, then drag `RiiConnect24Patcher.sh`into the terminal then press enter. It should look like this `bash RiiConnect24Patcher.sh`.
+1. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open terminal and type `bash`, then drag `RiiConnect24Patcher.sh`into the terminal then press enter. It should look like this `bash RiiConnect24Patcher.sh`.
 2. Pressiona 1 para escolher "`Start`" e confirma a tua seleção pressionando `ENTER`. ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.PNG)
 3. Select the device you're patching for. ![Select your device](/images/RC24_Patcher/2.PNG)
 4. For this guide, choose "`Install RiiConnect24 on your Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.PNG)
