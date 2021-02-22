@@ -8,7 +8,7 @@ Dieses Tutorial wird dir zeigen, wie du Leserattes d2xl cIOS (custom IOS) für d
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-Dieser Abschnitt ist ausschließlich für Wii mini-Nutzer vorgesehen. Falls du eine Wii hast, folge stattdessen [dieser Anleitung](cios).
+Diese Anleitung ist ausschließlich für Wii mini-Nutzer vorgesehen. Falls du eine Wii hast, folge stattdessen [dieser Anleitung](cios).
 {: .notice--warning}
 
 Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [Wii mini Hacking-Discordserver](https://discord.gg/6ryxnkS) bei (empfohlen)
@@ -27,8 +27,8 @@ Dieser d2x cIOS Installer wurde ursprünglich für die vWii der Wii U von DaveBa
 
 ##### Abschnitt 1 - Herunterladen
 
-1. Extract the d2xl cIOS Installer to the `apps` folder on your USB drive.
-1. Insert your USB drive into your Wii mini and load the d2xl cIOS Installer from the Homebrew Channel.
+1. Entpacke den d2xl cIOS Installer in den `apps`-Ordner auf dein USB-Laufwerk.
+1. Verbinde dein USB-Laufwerk mit deiner Wii mini und starte den d2xl cIOS Installer mit Hilfe des Homebrew-Kanal.
 
 ##### Abschnitt 2 - Installieren
 
@@ -38,9 +38,9 @@ Dieser d2x cIOS Installer wurde ursprünglich für die vWii der Wii U von DaveBa
     Select cIOS base: 57
     Select cIOS slot: 249
     ```
-Take a note of the version number under notes (`IOS57-64-` ending in either `v31776` or `v31775`)
+Beachte die Versionsnummer bei den Hinweisen (`IOS57-64-` endet entweder mit `v31776` oder `v31775`)
 1. Sobald dies eingestellt ist, drücke A zum installieren. Wenn der Vorgang erfolgreich abgeschlossen ist, beende den Installer.
-   - If the install fails with a `TMD version mismatch` error, press left or right on the +Control Pad over the `Select cIOS base` option until the version number is different than the one you tried before. The number 57 will not change.
+   - Falls die Installation mit `TMD version mismatch` fehlschlägt, wähle die `Select cIOS base`-Option aus und drücke nach links oder rechts auf dem +Steuerkreuz, bis du eine andere Version zur vorherigen ausgewählt hast. Die Nummer 57 wird sich nicht ändern.
 
 
 ##### LAN aktivieren
@@ -49,7 +49,7 @@ Falls du Wiimmfi über LAN auf einer Wii mini verwenden möchtest, musst du die 
 Versuchen Sie nicht, ein Wii-IOS oder ein Systemmenü auf der Wii mini zu installieren. Dies würde höchstwahrscheinlich deine Konsole bricken.
 {: .notice--warning}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
+Du kannst nun Homebrew wie beispielsweise [USB Loader GX](usbloadergx) oder [WiiFlow](wiiflow) verwenden.
 {: .notice--info}
 
 [Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
