@@ -13,7 +13,7 @@ Kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riico
 ### Welche Voraussetzungen bzw. Empfehlungen gelten für SD-Karten?
 Du benötigst eine SD-Karte mit mindestens 128MB um Exploits auszuführen.
 
-- Wenn du den BlueBomb-Exploit nutzt, benötigst du keine SD-Karte
+- Wenn du BlueBomb, str2hax, oder FlashHax exploits verwendest, benötigst du keine SD-Karte
 
 Um Homebrew-Anwendungen zu speichern, empfehlen wir eine SD-Karte mit mindestens 2GB.
 
