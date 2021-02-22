@@ -1,5 +1,5 @@
 ---
-title: "Respaldo de BootMii"
+title: "Hacer copia de seguridad con BootMii"
 ---
 
 {% include toc title="Tabla de contenido" %}
