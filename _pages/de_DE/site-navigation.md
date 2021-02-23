@@ -25,16 +25,16 @@ sitemap: false
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
 + [VFFs löschen](deleting-vffs)
-+ [Fixing FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [FORE000006 beheben](riiconnect24-batteryfix)
++ [NEWS000006 beheben](news000006)
 
 **Modding 1x1**
 + [BlueBomb](bluebomb)
 * [BootMii-Sicherung](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
-+ [Homebrew Browser](hbb)
-+ [Homebrew Channel](hbc)
++ [Homebrew-Browser](hbb)
++ [Homebrew-Kanal](hbc)
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
 + [str2hax](str2hax)
@@ -54,7 +54,7 @@ sitemap: false
 + [WiiFlow](wiiflow)
 
 **Wii mini**
-+ [Installing the Homebrew Channel on the Wii mini](hbc-mini)
++ [Installation des Homebrew-Kanal auf der Wii mini](hbc-mini)
 + [Installation von cIOS auf der Wii Mini](cios-mini)
 
 **Seite**
