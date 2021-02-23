@@ -20,7 +20,7 @@ This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that
 Stelle sicher, dass du vorher [cIOS](/cios) installiert hast!
 {: .notice--info}
 
-We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, or [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS.
+Wenn du Windows verwendest empfehlen wir dir deine Spiele mit [Wii Backup Manager](/wiibackupmanager) zu kopieren. Falls du macOS verwendest empfehlen wir dir [Witgui](https://desairem.com/wordpress/category/witgui-download/).
 {: .notice--info}
 
 If you are not copying games using Wii Backup Manager or Witgui, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
