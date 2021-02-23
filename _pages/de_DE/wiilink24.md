@@ -7,13 +7,13 @@ title: "WiiLink24"
 WiiLink24 and all of its services (such as Wii no Ma) are not controlled or operated by RiiConnect24. To get support on all issues relating this tutorial and service, join the [WiiLink24 Discord server](https://discord.gg/n4ta3w6).
 {: .notice--warning}
 
-[WiiLink24](https://wiilink24.com/) lets you use the Japanese-exclusive Wii no Ma channel, and in the future will let you use the Digicam Print Channel and the Demae Channel again.
+[WiiLink24](https://wiilink24.com/) lässt dich den Japan-exklusiven Wii-Kanal Wii no Ma verwenden. In Zukunft wirst du auch den Digicam Print-Kanal und den Demae-Kanal nutzen können.
 
 #### Voraussetzungen
 
 * Eine SD-Karte oder ein USB-Laufwerk
 * Eine Wii mit Internetverbindung
-* A Windows or Unix based computer
+* Ein Windows- oder Unix-basierender Computer
 * [WiiLink24 Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
 #### Anleitung
@@ -24,9 +24,9 @@ WiiLink24 and all of its services (such as Wii no Ma) are not controlled or oper
 {: .notice--info}
 
 1. Lade abhängig von deinem Betriebssystem die benötigten Dateien herunter. On Windows, run `WiiLink24Patcher.bat`. On Unix systems, launch terminal and type sh, then drag the `WiiLink24Patcher.sh` into the terminal and press enter.
-2. Drücke 1 um "`Start`" auszuwählen und betstätige die Eingabe mit `ENTER`.
+2. Drücke 1 um "`Start`" auszuwählen und bestätige die Eingabe mit `ENTER`.
 3. For this guide, choose "`Install WiiLink24 on your Wii`"
-4. Select your region.
+4. Wähle deine Region.
 5. Connect the SD Card or USB Drive to your computer and select "`1`".
 6. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
 7. Bitte hab etwas Geduld...
