@@ -81,9 +81,9 @@ Die folgenden RiiConnect24-Dienste **funktionieren** auf der vWii:
     * Dieser Kanal hat ein Problem mit Zeitstempeln. Der "Aktuell seit:" und die Artikel-Zeitstempel sind falsch.
     * Die Daten im Banner funktionieren auch nicht, weshalb dort `Die Nachrichten konnten nicht abgerufen werden.` steht.
 * Wetterkanal
-* Nintendo Channel
-* Everybody Votes Channel
-* Check Mii Out Channel / Mii Contest Channel
+* Nintendo-Kanal
+* Meinungskanal
+* Mii-Wettbewerbskanal
 {: .notice--success}
 
 Die folgenden RiiConnect24-Dienste **funktionieren nicht** auf der vWii:
