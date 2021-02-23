@@ -13,7 +13,7 @@ Wii Backup Manager ist ein Programm mit dem du deine Wii-Spiele von einem Comput
 * Ein USB-Laufwerk
 * [Wii Backup Manager](https://static.wiidatabase.de/Wii-Backup-Manager.zip)
 
-We recommend you use [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS. Der Wii Backup Manager funktioniert nicht auf macOS.
+Wir empfehlen die Verwendung von [Witgui](https://desairem.com/wordpress/category/witgui-download/) wenn du macOS nutzt. Der Wii Backup Manager funktioniert nicht auf macOS.
 {: .notice--info}
 
 Um mehrere Spiele zu spielen, empfehlen wir eine externe Festplatte für Ihre Wii, die über USB mit Strom versorgt wird. Wir bezeichnen sie als "USB-Laufwerk" in dieser Anleitung. Viele von denen, die auf dem Markt zu finden sind, sollten problemlos funktionieren, falls sie mit USB 2.0 abwärtskompatibel sind. Laufwerke mit einer Kapazität von 1 TB oder mehr werden funktionieren. Ein USB-Stick wird auch funktionieren, aber aufgrund dessen Größe wird es nicht in der Lage sein, so viele Spiele zu speichern.
@@ -42,10 +42,10 @@ Stelle sicher, dass dein USB-Laufwerk als FAT32 oder NTFS formatiert ist. Format
 [Fahre nun fort mit cIOS](cios)<br> cIOS werden für die Wii benötigt, um einen USB-Loader zu benutzen.
 {: .notice--info}
 
-[Continue to USB Loader GX](usbloadergx) USB Loader GX is a USB Loader that you can use to play games on your Wii from a USB drive.
+[Fortfahren mit USB Loader GX](usbloadergx) USB Loader GX ist ein USB-Loader welchen du nutzen kannst, um Spiele auf deiner Wii von einem USB-Laufwerk aus zu starten.
 {: .notice--info}
 
-[Continue to WiiFlow](wiiflow) WiiFlow is a USB Loader that you can use to play games on your Wii from a USB drive or SD Card.
+[Fortfahren mit WiiFlow](wiiflow) WiiFlow ist ein USB-Loader welchen du nutzen kannst, um Spiele auf deiner Wii von einem USB-Laufwerk oder einer SD-Karte aus zu starten.
 {: .notice--info}
 
 [Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
