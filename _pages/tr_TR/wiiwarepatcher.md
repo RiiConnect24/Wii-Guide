@@ -45,4 +45,4 @@ After the patching will be done, press any button.
 
 Basically, that's it! That's all you have to do to use WiiWare Patcher. ![WiiWare Patcher 4th screen](/images/WiiWare-Patcher/wiiwarepatcher_4.jpg)
 
-[Return to Wiimmfi installation page](wiimmfi)
+[Return to Wiimmfi installation page](yarak)
