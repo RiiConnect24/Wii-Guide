@@ -30,7 +30,7 @@ Solltest du eine ältere Version von Priiloader besitzen oder ihn nicht installi
 4. Sichere die Einstellungen und schließe die Anwendung.
 
 ### Homebrew (Disc)-Anwendung
-MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
+MrBean35000vr (Ersteller von CTGP-R, einem Mario Kart Wii Content Pack) hat den Wiimmfi Disc Patcher entwickelt welcher es dir erlaubt, deine Spiele on-the-fly zu patchen um Wiimmfi nutzen zu können. Jedoch muss dieser Vorgang jedes mal erfolgen wenn du ein Spiel startest.
 
 #### Voraussetzungen
 * Eine SD-Karte oder ein USB-Laufwerk
@@ -38,13 +38,13 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 
 #### Anleitung
 
-1. Extract Auto Wiimmfi Patcher and put it in the `apps` folder on your SD card or USB drive.
-2. Insert your SD Card into your Wii, and launch Auto Wiimmfi Patcher from the Homebrew Channel.
-3. Insert your game disc (you can insert it before or after launch, it doesn't matter).
-4. Wait for patch to complete, and it'll begin!
+1. Entpacke den Auto Wiimmfi Patcher und lege ihn in den `apps`-Ordner deiner SD-Karte oder deines USB-Laufwerks.
+2. Verbinde deine SD-Karte mit deiner Wii und starte den Auto Wiimmfi Patcher über den Homebrew-Kanal.
+3. Lege deine Spiele-Disc ein (du kannst sie auch vor oder nach dem Programmstart einlegen, dies spielt keine Rolle).
+4. Warte bis der Patchvorgang abgeschlossen ist, danach startet das Spiel!
 
 ### Kein-Homebrew (Disc)
-Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
+Dank des Fullmetal5's str2hax-Exploit, den Leseratte für den Wiimmfi Patcher eingerichtet hat, kannst du den Wiimmfi-Patch nutzen ohne Homebrew auf deiner Wii installiert haben zu müssen.
 
 #### Voraussetzungen
 * Eine Wii mit Internetverbindung
