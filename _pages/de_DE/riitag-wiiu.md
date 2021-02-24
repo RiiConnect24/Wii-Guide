@@ -50,9 +50,9 @@ Teile deinen RiiTag-Schlüssel mit niemandem! Falls du das tust, können andere 
 2. Gehe zu der Homebrew-Anwendung namens `Wii U Plugin Loader` und starte sie.
 3. Du solltest ein Menü vorfinden, in welchem du einen Schalter für `UTag` findest. Aktiviere `UTag` und drücke dann die Plus-Taste auf dem Wii U GamePad. Du solltest nun ins Wii U-Menü zurückkehren.
 
-##### Section IV - Running on startup (optional)
+##### Abschnitt 4 - Beim Systemstart ausführen (optional)
 
-We will now setup Wii U Plugin Loader to run on startup with your Wii U. **This only works if you are using or willing to use Coldboot Haxchi.** You will still have to turn on UTag and press + on the Wii U GamePad to be kicked into the Wii U Menu on startup.
+Wir werden nun den Wii U Plugin Loader für den Systemstart deiner Wii U einrichten. **Dies wird nur funktionieren wenn du Coldboot Haxchi nutzt bzw. bereit bist es einzusetzen.** Du musst weiterhin UTag aktivieren und + auf dem Wii U GamePad drücken, um nach dem Systemstart in das Wii U-Menü zu gelangen.
 {: .notice--info}
 
 1. Entpacke die Coldboot Haxchi Mod `.zip`-Datei in das Stammverzeichnis deiner SD-Karte.
@@ -63,13 +63,13 @@ We will now setup Wii U Plugin Loader to run on startup with your Wii U. **This 
 5. Verbinde deine SD-Karte mit deiner Wii U.
 6. Nutz den von dir bevorzugten Weg (Webbrowser-Exploit, Haxchi, Homebrew Launcher-Anwendung, usw.), um den **Homebrew Launcher** auf deiner Wii U-Konsole zu starten.
 6. Navigiere zur Coldboot Haxchi-Applikation und starte sie.
-7. Use the D-Pad to navigate the cursor to the game you previously installed Haxchi to and press the A button to install the Coldboot Haxchi mod.
+7. Nutze das Steuerkreuz um den Cursor auf das Spiel zu navigieren, für welches du zuvor Haxchi installiert hattest. Drücke den A-Knopf und installiere nun den Coldboot Haxchi-Mod.
 8. Schalte deine Wii U aus und starte sie anschließend erneut.
-9. At the `Autobooting...` screen, press Home to open the Coldboot Haxchi menu.
-10. Use the +Control Pad on the Wii U GamePad to navigate to `Autoboot:`. Change it to SDCafiine.
-11. Finally, navigate to `WiiU System Menu`, and press A to be kicked to the Wii U Menu.
+9. Drücke beim `Autobooting...`-Bildschirm den Home-Knopf, um das Coldboot Haxchi-Menü zu öffnen.
+10. Nutze das +Steuerkreuz auf dem Wii U GamePad und navigiere zu `Autoboot:`. Ändere es zu SDCafiine.
+11. Gehe schließlich zum Punkt `WiiU System Menu` und drücke A, um in das Wii U-Menü zu gelangen.
 
-Du hast nun RiiTag auf deiner Wii U eingerichtet! Now go play some games, and watch them show up on your RiiTag!
+Du hast nun RiiTag auf deiner Wii U eingerichtet! Geh nun und spiele einige deiner Spiele um zu sehen, wie sie in deinem RiiTag angezeigt werden!
 {: .notice--success}
 
 [Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
