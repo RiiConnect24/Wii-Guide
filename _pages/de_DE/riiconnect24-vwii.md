@@ -26,7 +26,7 @@ Verwende diese Anleitung **NICHT** auf irgendeiner anderen Konsole als der vWii 
 
 * Ein PC oder ein Mobilgerät mit Internetzugang und der Möglichkeit, auf SD-Karten zuzugreifen.
 * Eine FAT32 formatierte SD-Karte (mindestens 2GB) mit ausreichend freiem Speicher. SDHC- oder SDXC-Karte, die mit FAT32 formatiert wurde, können funktionieren.
-* Eine Wii U-Konsole, die in der Lage ist, den Homebrew Launcher zu starten (entweder über den Webbrowser-Exploit, Haxchi oder Coldboot Haxchi). **Falls du keine über Software gemoddete Wii U-Konsole hast, folge bitte [wiiuguide.xyz](https://wiiuguide.xyz), sowie [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) und komme zurück.**
+* Eine Wii U-Konsole, die in der Lage ist, den Homebrew Launcher zu starten (entweder über den Webbrowser-Exploit, Haxchi oder Coldboot Haxchi). **Falls du keine über Software gemoddete Wii U-Konsole hast, folge bitte [wiiuguide.xyz](https://wiiuguide.xyz), sowie [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) und kehre anschließend zurück.**
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 Nach du der oben verlinkten Anleitung gefolgt bist, solltest du nun folgendes haben:
@@ -38,16 +38,16 @@ Nach du der oben verlinkten Anleitung gefolgt bist, solltest du nun folgendes ha
 
 #### Anleitung
 
-If you use cannot use the patcher, please [follow the manual guide](https://pad.snopyta.org/s/rJ2N0B1XU), to install RiiConnect24. The end result is the same regardless of the method followed.
+Wenn du den Patcher nicht verwenden kannst, folge bitte [diesem Guide](https://pad.snopyta.org/s/rJ2N0B1XU), um RiiConnect24 zu installieren. Das Ergebnis ist dasselbe, egal welchem Weg du folgst.
 {: .notice--info}
 
 ##### Abschnitt 1 - Ausführen des Patchers
 
 Mithilfe des RiiConnect24 Patchers den du bereits bei den [Voraussetzungen](#what-you-need) heruntergeladen hast, wirst du IOS31, den Nachrichtenkanal, Meinungskanal, Nintendo-Kanal und Mii-Wettbewerbskanal für die Verwendung auf deiner vWii herunterladen und patchen.
 
-1. Run `RiiConnect24Patcher.bat` on Windows or `RiiConnect24Patcher.sh` on Unix systems by typing bash then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this `bash RiiConnect24Patcher.sh`. Follow the on screen instructions
+1. Starte `RiiConnect24Patcher.bat` unter Windows, oder `RiiConnect24Patcher.sh` auf Unix-Systemen. Öffne dort das Terminal, gib bash ein, zieh die `RiiConnect24Patcher.sh` auf das Terminal und drücke anschließend Enter. Es sollte folgendermaßen ausehen: `bash RiiConnect24Patcher.sh`. Folge den Anweisungen auf dem Bildschirm
 
-2. Confirm that after running through the patcher, you have 3 folders. They will be in the same folder where `RiiConnect24Patcher.bat/sh` is and on your SD Card (of course, only if you selected an option in the patcher to do so).
+2. Stelle sicher dass nach dem Ausführen des Patcher drei Ordner vorhanden sind. Es werden die identischen Ordner sein auf der sich `RiiConnect24Patcher.bat/sh` auf deiner SD-Karte befindet. (natürlich nur, wenn du die entsprechende Option im Patcher ausgewählt hattest).
    - Falls der Patcher die Dateien nicht auf die SD-Karte verschoben hat, verschiebe diese drei Ordner in das oberste Verzeichnis deiner SD-Karte.
 
 ##### Abschnitt 2 - Installieren der neuen gepatchten WADs
@@ -55,8 +55,8 @@ Mithilfe des RiiConnect24 Patchers den du bereits bei den [Voraussetzungen](#wha
 1. Öffne den Homebrew-Kanal
 2. Starte Wii Mod Lite
 3. Mithilfe der rechten Steuerkreuztaste auf deiner Wii-Fernbedienung, wähle `WAD Manager` und wähle dann den `wad`-Ordner.
-4. Highlight all WADs with `RiiConnect24` in the name, and press + to select them. When all of them are selected, press A twice to install the WADs.
-5. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+4. Markiere alle WADs, welche `RiiConnect24` im Namen enthalten und drücke anschließend +, um sie zu markieren. Hast du alle markiert, drücke zweimal A um die WADs zu installieren.
+5. Nach erfolgreicher Installation drücke den Home-Knopf um zum Homebrew-Kanal zurückzukehren.
 
 ##### Abschnitt 3 - 43db für 16:9 patchen (optional)
 
@@ -70,7 +70,7 @@ Falls du ein Design installierst, musst du den ww-43db-patcher ein weiteres Mal 
 
 Nachdem du den obrigen Abschnitten gefolgt bist, bist du fast fertig, um RiiConnect24 auf deiner Wii U zu verwenden. Du musst nur den folgenden Schritten **nach jedem Neustart der vWii** folgen.
 
-1. On the vWii's **Wii Menu**, launch the **ConnectMii** channel.
+1. Öffne im **Wii-Menü** der vWii den **ConnectMii**-Kanal.
 * Dies aktiviert das Zeichen für WiiConnect24 und Verbindung im Standby, welche für die WiiConnect24-Kanäle erforderlich sind.
 2. Führe die WiiConnect24-Kanäle aus
 * Du solltest nun in der Lage sein, alle WiiConnect24-Kanäle, die du installiert hast, zu verwenden!
@@ -89,5 +89,5 @@ Die folgenden RiiConnect24-Dienste **funktionieren** auf der vWii:
 Die folgenden RiiConnect24-Dienste **funktionieren nicht** auf der vWii:
 * Wii Mail (ein Großteil der Funktionen existiert gar nicht auf der vWii)
     * Dies beinhaltet auch das Senden/Empfangen von E-Mails an/von Freunden. Du kannst nur global-versendete E-Mails und Inhalte von RSSMii-Feeds (falls eingerichtet) erhalten.
-* Everything else that isn't working according to [RiiConnect24 stats](https://rc24.xyz/stats/index.html).
+* Alles weitere was laut den [RiiConnect24 stats](https://rc24.xyz/stats/index.html) nicht funktioniert.
 {: .notice--warning}
