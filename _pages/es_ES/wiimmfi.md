@@ -34,11 +34,11 @@ MrBean35000vr (creador de CTGP-R, un paquete de contenidos para Mario Kart Wii) 
 
 #### Requisitos
 * Una tarjeta SD o unidad USB
-* [Auto Wiimmfi Patcher](/assets/files/autowiimmfipatcher-0.6.zip)
+* [Auto Wiimmfi Patcher](http://download.wiimmfi.de/patcher/autowiimmfipatcher-0.7.zip)
 
 #### Instrucciones
 
-1. Extrae Auto Wiimmfi Patcher y ponlo en tu carpeta `apps` en tu tarjeta SD o tu unidad USB.
+1. Extract Auto Wiimmfi Patcher to the root of your SD card or USB drive.
 2. Inserta tu tarjeta SD en tu Wii, y lanza Auto Wiimmfi Patcher desde el Canal Homebrew.
 3. Inserta tu disco de juego (puedes insertarlo antes o después de lanzar la aplicación, no importa el orden).
 4. Espera por el parche para completar, y empezará!
@@ -69,9 +69,7 @@ Tú posiblemente no quieras lanzar un parcheador cada vez que quieras jugar en l
 - Tu copia de tu juego (WBFS, ISO, cISO, y otros archivos que una Wii puede usar son soportadas.
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
 **o puedes usar:**
-- Wiimm's ISO Patcher (multiplataforma)
-   - [Patcher para Mario Kart Wii](http://download.wiimm.de/wiimmfi/patcher/mkw-wiimmfi-patcher-v6.zip)
-   - [Patcher para todos los otros juegos](http://download.wiimm.de/wiimmfi/patcher/wiimmfi-patcher-v4.7z)
+- [Wiimms ISO patcher (cross-platform)](http://download.wiimmfi.de/patcher/wiimmfi-patcher-v7.zip)
 - Un USB Loader, [cIOS](cios) y un USB para almacenar el juego (si usas un USB Loader ya deberías tener uno)
 
 #### Instrucciones
