@@ -34,7 +34,7 @@ MrBean35000vr (creador de CTGP-R, un paquete de contenidos para Mario Kart Wii) 
 
 #### Requisitos
 * Una tarjeta SD o unidad USB
-* [Auto Wiimmfi Patcher](http://download.wiimmfi.de/patcher/autowiimmfipatcher-0.7.zip)
+* [Auto Wiimmfi Patcher](https://download.wiimmfi.de/patcher/autowiimmfipatcher-0.7.1.zip)
 
 #### Instrucciones
 
@@ -69,7 +69,7 @@ Tú posiblemente no quieras lanzar un parcheador cada vez que quieras jugar en l
 - Tu copia de tu juego (WBFS, ISO, cISO, y otros archivos que una Wii puede usar son soportadas.
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
 **o puedes usar:**
-- [Wiimms ISO patcher (cross-platform)](http://download.wiimmfi.de/patcher/wiimmfi-patcher-v7.zip)
+- [Wiimms ISO patcher (cross-platform)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-v7.2.zip)
 - Un USB Loader, [cIOS](cios) y un USB para almacenar el juego (si usas un USB Loader ya deberías tener uno)
 
 #### Instrucciones
