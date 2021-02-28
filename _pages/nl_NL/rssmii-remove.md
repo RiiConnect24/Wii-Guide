@@ -2,7 +2,7 @@
 title: "RSSMii verwijderen"
 ---
 
-Als u hulp nodig heeft bij iets wat met deze tutorial te maken heeft, sluit u dan aan bij [de RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (aanbevolen) of [e-mail ons via support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Als u RSMii niet meer wilt gebruiken (misschien omdat het u te veel mails verstuurt), dan is hier een tutorial om dat te doen.
