@@ -4,7 +4,7 @@ title: "USB Loader GX"
 
 {% include toc title="Table des matières" %}
 
-Si vous avez besoin d'aide concernant ce tutoriel, veuillez rejoindre [le serveur Discord de RiiConnect24](https://discord.gg/b4Y7jfD) (recommandé, en anglais) ou [envoyez-nous un mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Ceci est un guide de démarrage rapide sur la façon d'utiliser USB Loader GX, un USB Loader populaire pour la Wii qui est utilisé pour jouer à des jeux à partir d'un périphérique USB.
