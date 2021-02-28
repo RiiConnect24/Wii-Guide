@@ -54,6 +54,9 @@ Make sure that the console is close to the computer running the exploit, ideally
 
 The console should now boot to the HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
 
+[If using a wii mini, PLEASE DO NOT USE PIMP MY WII. IT WILL CAUSE ISSUES]
+{: .notice--info}
+
 [If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
 {: .notice--info}
 
