@@ -4,7 +4,7 @@ title: "Priiloader"
 
 {% include toc title="Table of Contents" %}
 
-Εάν χρειάζεστε οποιαδήποτε βοήθεια όσο αφορά αυτόν τον οδηγό, παρακαλώ μπείτε στον [ RiiConnect24 διακομιστή Discord](https://discord.gg/b4Y7jfD) (συνιστάται) ή[στείλτε μας e-mail στο support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Το Priiloader προσθέτει ένα επίπεδο ασφαλείας στο Wii σας. Ανοίγει πριν ανοίξει το Μενού του Wii (ως εκ τούτου και το όνομα). Αυτό το εργαλείο ενεργοποιεί επίσης χακ για το Μενού του Wii σας, και μπορεί να χρησιμοποιηθεί για να ανοίξετε γρήγορα το Κανάλι Homebrew, το BootMii, ή οποιαδήποτε homebrew θέλετε!
