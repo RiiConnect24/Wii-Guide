@@ -8,7 +8,7 @@ title: "RiiConnect24"
 
 Diese Anleitung wird dir dabei helfen, RiiConnect24 in deiner Dolphin-Installation zu installieren.
 
-Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, schreibe bitte direkt KcrPL#4625 auf Discord an, tritt dem [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD) bei, oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please directly contact KcrPL#4625 on Discord, join the [RiiConnect24 Discord Server](https://discord.gg/rc24) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ### Voraussetzungen
