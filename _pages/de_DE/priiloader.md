@@ -23,7 +23,6 @@ Installiere den Priiloader nicht auf einer vWii (Wii Modus auf der Wii U). Du wi
 
 1. Lade den Priiloader-Installer herunter und enpacke ihn in den `apps`-Ordner deiner SD-Karte oder deines USB-Laufwerks.
     * Fall der Ordner nicht vorhanden ist, erstelle ihn.
-2. Verbinde deine SD-Karte oder dein USB-Laufwerk mit deiner Wii, und starte den Priiloader-Installer über den Homebrew-Kanal.
 
 ##### Abschnitt 2 - Priiloader installieren
 
@@ -55,7 +54,7 @@ Dies ist eine Liste von Hacks, die du mit Priiloader aktivieren kannst.
 | Auto-Press A at Health Screen           | Drückt automatisch den A-Knopf um den "Gesundheits- und Sicherheitshinweise"-Bildschirm zu überspringen.                                                                              |
 | Replace Health Screen with Backmenu     | Tauscht den "Gesundheits- und Sicherheitshinweise"-Bildschirm gegen die Animation aus, wenn du in das Wii-Menü zurückkehrst.                                                          |
 | Move Disc Channel                       | Erlaubt das platzieren des Disc-Kanals überall im Wii-Menü. Er befindet sich normalerweise an fester Position oben links auf der ersten Seite.                                        |
-| Wiimmfi Patch v2                        | Aktualisiert automatisch alle Spiele welche du im Disc-Kanal startest um sie mit Wiimmfi nutzen zu können                                                                             |
+| Wiimmfi Patch v3                        | Aktualisiert automatisch alle Spiele welche du im Disc-Kanal startest um sie mit Wiimmfi nutzen zu können                                                                             |
 | 480p graphics fix in system menu        | Behebt einen kleinen Fehler des 480p-Modus im Wii-Menü.                                                                                                                               |
 | Remove NoCopy Save File Protection      | Erlaubt es dir, normalerweise gesperrte Speicherdateien aus der Datenverwaltung auf deine SD-Karte zu kopieren                                                                        |
 | Region Free EVERYTHING                  | Deaktiviert die Regionssperre für alle Wii-Anwendungen, inklusive der Heruntergeladenen.                                                                                              |
