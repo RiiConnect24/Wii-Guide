@@ -11,26 +11,32 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 [Wiimmfi](https://wiimmfi.de) é um serviço de substituição para a extinta Nintendo Wi-Fi Connection. Isto foi desenvolvido por Wiimm e Leseratte.
 
+If you get the error 23904 while connecting to Wiimmfi, then you are using an outdated patch.<br> Follow the steps below for the method you're using to connect to Wiimmfi again.<br> See [this page](https://wiimmfi.de/update) for more details.<br>
+{: .notice--warning}
+
 ## Patches diferentes
 
-Há muitos métodos diferentes para conectar ao Wiimmfi. Escolhe o que te adequa melhor.
+There are lots of different methods to connect to Wiimmfi. Choose the one that fits your needs best.
 
 ### Patch automático a partir do Disc Channel utilizando Priiloader
 
 #### O que precisas
 - Uma Wii com Priiloader 0.9 ou posterior instalado
 
-Se tens uma versão mais antiga do Priiloader ou não o tens instalado, segue [este guia](priiloader) para atualizar/instalar.
+If you have an older version of Priiloader or don't have it installed, follow [this guide](priiloader) to update/install it.
 {: .notice--info}
 
 #### Instruções
 1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
 2. Vai a `System Menu Hacks`.
-3. Make sure the `Wiimmfi patch v2` hack is enabled.
+3. Make sure the `Wiimmfi patch v3` hack is enabled.
 4. Guarda as definições e sai.
 
+If you see the hack `Wiimmfi patch v2` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
+{: .notice--warning}
+
 ### Aplicação Homebrew (Disco)
-MrBean35000vr (criador do CTGP-R, um pack de conteúdo para Mario Kart Wii) criou um Wiimmfi Disc Patcher que permite que tu insiras um disco e modifiques o jogo para o uso do Wiimmfi, embora isto seja executado todas as vezes que inicias o disco.
+MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
 
 #### O que precisas
 * Um cartão SD ou USB drive
@@ -44,7 +50,7 @@ MrBean35000vr (criador do CTGP-R, um pack de conteúdo para Mario Kart Wii) crio
 4. Aguarda que o patch complete e aquilo começará!
 
 ### Sem Homebrew (Disco)
-Graças ao exploit str2hax de Fullmetal5, que Leseratte conseguiu adaptar para o Wiimmfi patcher, tu podes executar o Wiimmfi patch sem precisares de ter algum homebrew na tua Wii.
+Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
 
 #### O que precisas
 * Uma Wii com conexão à Internet
@@ -60,10 +66,10 @@ Graças ao exploit str2hax de Fullmetal5, que Leseratte conseguiu adaptar para o
 7. O jogo deverá iniciar com o Wiimmfi patch incluído
 
 ### Patch automático utilizando um USB Loader
-Se já estás a utilizar o USB Loader GX, tenta atualizá-lo para a versão mais recente. A seguir, deve aparecer uma definição "private server" (nas opções globais do loader e nas opções do jogo) onde podes definir "Wiimmfi" para o USB Loader modificar automaticamente qualquer jogo que inicies para funcionar com Wiimmfi.
+If you are already using USB Loader GX, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
 
 ### Patch em ISO
-Tu provavelmente não queres executar o patcher cada vez que queres jogar no Wiimmfi, e talvez queiras usar o USB Loader. Para tal, ISO Patchers foram criados, alguns para jogos específicos.
+You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
 
 #### O que precisas
 - A cópia do teu jogo (WBFS, ISO, cISO, e outros formatos que a Wii suporta).
@@ -140,13 +146,13 @@ Getting a Wi-Fi network with WEP or no security is the hardest part, because DS 
 5. Save your connection settings and perform a connection test. If it's successful, then you're ready to play.
 
 ### CTGP-R (Mario Kart Wii)
-MrBean35000vr e Chadderz têm uma fantástica distribuição CTGP-R, a aplicação que permite que utilizes um conjunto de pistas personalizadas, tem modificação Wiimmfi automática. Vai ao [site ChadSoft](http://chadsoft.co.uk) para o descarregamento e instruções.
+MrBean35000vr and Chadderz have an amazing CTGP-R distribution, the application that allows you to use a set of custom tracks, has automatic Wiimmfi patching. Go to the [ChadSoft Website](http://chadsoft.co.uk) for the download and instructions.
 
 ### MKW Hack Pack (Mario Kart Wii)
-Huili juntou realmente uma boa coleção de pistas personalizadas e hacks chamado MKW Hack Pack e permite conexões com Wiimmfi. Para aprenderes como configurar, vai à [página wiki](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+Huili has put together a really good collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. To learn how to set it up, go to the [wiki page](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
 
 ### Wiimms MKW Fun (Mario Kart Wii)
-Wiimm e Leseratte criaram uma distribuição de pistas personalizadas chamada "Wiimms MKW Fun", que é atualizado cerca de três vezes por ano. É baseado na estrutura LE-CODE feito por Leseratte e contém um patch Wiimmfi e muitos outros destaques. Podes ver mais sobre isto nesta [página wiki](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
+Wiimm and Leseratte created a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte and contains a Wiimmfi patch and lots of other features. You can find out more about it on its [wiki page](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
 
 [Continua para a navegação do site](site-navigation)<br> Nós temos mais outros tutoriais que poderás gostar.
 {: .notice--info}
