@@ -11,6 +11,11 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 [Wiimmfi](https://wiimmfi.de) is a replacement service for the now-defunct Nintendo Wi-Fi Connection. It has been developed by Wiimm and Leseratte. 
 
+If you get the error 23904 while connecting to Wiimmfi, then you are using an outdated patch.<br>
+Follow the steps below for the method you're using to connect to Wiimmfi again.<br>
+See [this page](https://wiimmfi.de/update) for more details.<br>
+{: .notice--warning}
+
 ## Different patchers
 
 There are lots of different methods to connect to Wiimmfi. 
