@@ -23,7 +23,6 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your
 
 1. Lataa Priiloader-asennusohjelma ja pura se `apps` kansioon SD-kortillasi tai USB-asemallasi.
     * Jos tätä kansiota ei ole, luo se.
-2. Laita SD-korttisi tai USB-asemasi Wii-konsoliisi ja käynnistä Priiloader-asennusohjelma Homebrew Channel:sta.
 
 ##### Osa II - Priiloader:n asentaminen
 
@@ -55,7 +54,7 @@ This is a list of the hacks you can enable with Priiloader.
 | Auto-Press A at Health Screen           | Automatically presses the A Button to get past the "Health and Safety" screen.                                                          |
 | Replace Health Screen with Backmenu     | Changes the "Health and Safety" screen to the animation played when returning to the Wii menu.                                          |
 | Move Disc Channel                       | Enables moving the Disc Channel anywhere on the Wii Menu. It's normally stuck in the top left of the first page.                        |
-| Wiimmfi Patch v2                        | Automatically patches all games you run from the Disc Channel for use with Wiimmfi                                                      |
+| Wiimmfi Patch v3                        | Automatically patches all games you run from the Disc Channel for use with Wiimmfi                                                      |
 | 480p graphics fix in system menu        | Fixes a small issue with 480p on the Wii Menu.                                                                                          |
 | Remove NoCopy Save File Protection      | Allows you to copy normally disallowed save files to your SD card from data management                                                  |
 | Region Free EVERYTHING                  | Disables region locking for any Wii application, including downloaded ones.                                                             |
