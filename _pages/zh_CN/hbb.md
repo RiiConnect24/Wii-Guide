@@ -2,7 +2,7 @@
 title: "Open Shop 频道(Homebrew 浏览器)"
 ---
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the Open Shop Channel](https://discord.gg/osc) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 [Open Shop 频道](https://oscwii.org/)是你可以在上面下载自制程序的好地方。 这是一个名为Homebrew 浏览器的应用程序的复兴项目。
