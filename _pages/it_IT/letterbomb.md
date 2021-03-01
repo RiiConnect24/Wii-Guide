@@ -17,12 +17,13 @@ LetterBomb è un exploit per Wii attivabile usando la Wii Message Board.
 
 
 1. Vai nelle `Impostazioni della Wii` -> `Internet` -> `Informazioni sulla Console` e prendi nota del tuo MAC address.
-2. Visita [please.hackmii.com](https://please.hackmii.com), inserisci la regione del Menu di Sistema e l indirizzo Wii e completa il CAPTCHA *assicurati che* `Bundle the HackMii Installer for me!` *sia spuntato* poi clicca su un cut color wire qualsiasi
+1. Visita [please.hackmii.com](https://please.hackmii.com), inserisci la regione del Menu di Sistema e l indirizzo Wii e completa il CAPTCHA *assicurati che* `Bundle the HackMii Installer for me!` *sia spuntato* poi clicca su un cut color wire qualsiasi
    - Qualunque filo scegli di tagliare non importa. ![Schermata HackMii](/images/Wii/LetterBomb-PC.png)
-3. Dal ZIP scaricato, estrai il contenuto sulla tua SD.
-4. Sulla tua Wii, ritorna al menu e apri la Message Board.
-5. Apri la lettera con l'icona di una bomba.
-   - La maggior parte delle volte, è possibile che si trovi nella pagina del giorno precedente.
+1. Dal ZIP scaricato, estrai il contenuto sulla tua SD.
+1. Take out your SD card and insert it in your Wii.
+1. On your Wii, return to the Wii Menu and then open the Message Board.
+1. Load the red letter with a bomb icon.
+   - In various scenarios, you may need to look at the previous or next day to find it.
 
 Assicurati che la data sulla tua Wii è corretta, oppure non potrai visualizzare la lettera dopo.
 {: .notice--warning}
