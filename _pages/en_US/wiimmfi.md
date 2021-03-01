@@ -30,7 +30,7 @@ If you have an older version of Priiloader or don't have it installed, follow [t
 3. Make sure the `Wiimmfi patch v3` hack is enabled.
 4. Save settings and exit.
 
-If you see the hack "Wiimmfi patch v2 instead, then you do not have the latest version of the hacks_hash.ini file.<br>
+If you see the hack `Wiimmfi patch v2` instead, then you do not have the latest version of the hacks_hash.ini file.<br>
 Download it from [here](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br>
 Then, repeat the previous steps.
 {: .notice--warning}
