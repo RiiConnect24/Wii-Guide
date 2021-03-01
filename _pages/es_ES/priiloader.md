@@ -23,7 +23,6 @@ Priiloader proporciona un nivel adicional de protección contra bricks a tu cons
 
 1. Descarga el instalador de Priiloader y extráelo a la carpeta `apps` de tu tarjeta SD o tu disco USB.
     * Si esta carpeta no existe, créala.
-2. Inserta tu tarjeta SD o tu unidad USB a tu Wii, y lanza el instalador de Priiloader desde el Canal Homebrew.
 
 ##### Sección II - Instalación
 
@@ -55,7 +54,7 @@ Esta es una lista de los hacks que puedes activar con Priiloader.
 | Auto-Press A at Health Screen (Presionar Automáticamente A en la pantalla de Salud y Seguridad)      | Presiona automáticamente el botón A para pasar la pantalla de Salud y seguridad.                                                                                                  |
 | Replace Health Screen with Backmenu (Reemplazar la Pantalla de Salud y Seguridad con el Backmenu)    | Cambia la pantalla de Salud y Seguridad a la animación reproducida cuando se regresa al Menú de Wii.                                                                              |
 | Move Disc Channel (Mover Canal Disco)                                                                | Permite mover el Canal Disco a cualquier parte del Menú de Wii. Normalmente esta bloqueado en la esquina superior izquierda de la primera página.                                 |
-| Wiimmfi Patch v2                                                                                     | Parchea automáticamente todos los juegos que ejecutes desde el Canal Disco para poder usarlos con Wiimmfi.                                                                        |
+| Wiimmfi Patch v3                                                                                     | Parchea automáticamente todos los juegos que ejecutes desde el Canal Disco para poder usarlos con Wiimmfi.                                                                        |
 | 480p graphics fix in system menu (arreglo de gráficos en 480p en el Menú del Sistema)                | Arregla un problema menor con el modo 480p en el Menú de Wii.                                                                                                                     |
 | Remove NoCopy Save File Protection (Remover el bloqueo de copiar Archivos Guardados)                 | Permite copiar archivos de guardado a la tarjeta SD desde Gestión de Datos que normalmente estarían protegidos.                                                                   |
 | Region Free EVERYTHING (Liberar de región a TODO)                                                    | Deshabilita el bloqueo regional de cualquier titulo de Wii, incluyendo títulos descargados.                                                                                       |
