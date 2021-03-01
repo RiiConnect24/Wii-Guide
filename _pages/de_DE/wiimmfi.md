@@ -11,26 +11,32 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 [Wiimmfi](https://wiimmfi.de) ist ein Ersatz für die jetzt abgeschaltete Nintendo Wi-Fi Connection. Es wurde von Wiimm und Leseratte entwickelt.
 
+If you get the error 23904 while connecting to Wiimmfi, then you are using an outdated patch.<br> Follow the steps below for the method you're using to connect to Wiimmfi again.<br> See [this page](https://wiimmfi.de/update) for more details.<br>
+{: .notice--warning}
+
 ## Verschiedene Patcher
 
-Es gibt viele verschiedene Möglichkeiten, sich mit Wiimmfi zu verbinden. Wähle die Möglichkeit, welche deinen Vorstellungen entspricht.
+There are lots of different methods to connect to Wiimmfi. Choose the one that fits your needs best.
 
 ### Automatische Aktualisierung mit Hilfe des Disc-Kanals durch Priiloader
 
 #### Voraussetzungen
 - Eine Wii mit Priiloader 0.9 oder neuer installiert
 
-Solltest du eine ältere Version von Priiloader besitzen oder ihn nicht installiert haben, folge [dieser Anleitung](priiloader) um ihn zu aktualisieren bzw. zu installieren.
+If you have an older version of Priiloader or don't have it installed, follow [this guide](priiloader) to update/install it.
 {: .notice--info}
 
 #### Anleitung
 1. Halte RESET gedrückt während du die Wii einschaltest (wenn du eine Wii mini nutzt, schliesse eine USB-Tastatur an und dücke ESCAPE).
 2. Gehe zu `System Menu Hacks`.
-3. Stelle sicher dass der `Wiimmfi patch v2`-Hack aktiviert ist.
+3. Make sure the `Wiimmfi patch v3` hack is enabled.
 4. Sichere die Einstellungen und schließe die Anwendung.
 
+If you see the hack `Wiimmfi patch v2` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
+{: .notice--warning}
+
 ### Homebrew (Disc)-Anwendung
-MrBean35000vr (Ersteller von CTGP-R, einem Mario Kart Wii Content Pack) hat den Wiimmfi Disc Patcher entwickelt welcher es dir erlaubt, deine Spiele on-the-fly zu patchen um Wiimmfi nutzen zu können. Jedoch muss dieser Vorgang jedes mal erfolgen wenn du ein Spiel startest.
+MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
 
 #### Voraussetzungen
 * Eine SD-Karte oder ein USB-Laufwerk
@@ -44,7 +50,7 @@ MrBean35000vr (Ersteller von CTGP-R, einem Mario Kart Wii Content Pack) hat den 
 4. Warte bis der Patchvorgang abgeschlossen ist, danach startet das Spiel!
 
 ### Kein-Homebrew (Disc)
-Dank des Fullmetal5's str2hax-Exploit, den Leseratte für den Wiimmfi Patcher eingerichtet hat, kannst du den Wiimmfi-Patch nutzen ohne Homebrew auf deiner Wii installiert haben zu müssen.
+Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
 
 #### Voraussetzungen
 * Eine Wii mit Internetverbindung
@@ -78,7 +84,7 @@ You may not want to run a patcher each time you want to play on Wiimmfi, and may
 3. Once it's finished, get the version out of the `wiimmfi-images` folder (it may be in the folder outside of the patcher - ../wiimmfi-images) and copy it back to your USB.
 
 ### WiiWare Patching
-Du kannst WiiWare-Spiele aktualisieren um mit ihnen über Wiimmfi zu spielen.
+You can patch WiiWare games in order to play them on Wiimmfi.
 
 #### Voraussetzungen
 
@@ -89,10 +95,10 @@ Du kannst WiiWare-Spiele aktualisieren um mit ihnen über Wiimmfi zu spielen.
 - [Auto WiiWare Patcher](https://github.com/RiiConnect24/auto-wiiware-patcher/releases) (plattformübergreifend)
 - [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
-[Wenn du sehen möchtest wie man den WiiWare Patcher nutzt, klicke hier!](wiiwarepatcher)
+[If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
 {: .notice--info}
 
-Schritte:
+Steps:
 1. Entpacke die .zip der aktuellsten Version des Auto WiiWare Patcher und lege deine WAD in den selben Ordner.
 2. Führe das Patch-Skript für dein Betriebssystem aus: meistens endet es auf `.bat` für Windows und `.sh` für macOS/Linux. Falls du den RiiConnect24 Patcher verwendest, wähle dein Gerät (Wii, vWii oder Dolphin) und den WiiWare Patcher aus.
 3. Wenn der Vorgang erfolgreich abgeschlossen ist, installiere die WAD welche in `wiiware-wads` mit Wii Mod Lite erzeugt wurde.
@@ -100,7 +106,7 @@ Schritte:
 ## Andere Sachen
 
 ### Mario Kart Wii-Wettbewerbe
-Wiimmfi ermöglicht es dir, wieder an Mario Kart Wii-Wettbewerben teilzunehmen.
+Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
 #### Voraussetzungen
 
@@ -122,13 +128,13 @@ If you're using the Wii U, you will have to run the competitions patcher wheneve
 {: .notice--info}
 
 ### DS-Spiele
-Wiimmfi unterstützt nicht nur Wii-Spiele, sondern außerdem auch eine Menge DS-Spiele. Dank eines Exploits namens nds-constraint kannst du DS-Spiele spielen, ohne sie vorher patchen zu müssen.
+Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks to an exploit called nds-constraint, you can play DS games without patching your games.
 
 #### Voraussetzungen
 
 - Ein Wi-Fi-Netzwerk mit WEP oder ohne Verschlüsselung
 
-Ein Wi-Fi-Netzwerk mit WEP oder ohne Verschlüsselung einzurichten ist der schwerste Teil, da DS-Spiele keine neueren Sicherheitsprotokolle unterstützen (außer es ist eines der wenigen "DSi Enhanced"-Spiele, welche die Wi-Fi-Verbindungseinstellungen deines DSi oder 3DS nutzen können, wie beispielsweise Pokémon Schwarz/Weiß). However, many routers support creating a guest Wi-Fi connection, or you can make a hotspot on your phone or your computer. There are plenty of resources on the Internet that have information on this, so use your favorite search engine to find them.
+Getting a Wi-Fi network with WEP or no security is the hardest part, because DS games don't support newer Wi-Fi security types (unless it's one of the few games that are "DSi Enhanced" and can use your Wi-Fi configuration on your DSi or 3DS, like Pokémon Black/White). However, many routers support creating a guest Wi-Fi connection, or you can make a hotspot on your phone or your computer. There are plenty of resources on the Internet that have information on this, so use your favorite search engine to find them.
 {: .notice--info}
 
 #### Anleitung
