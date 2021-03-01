@@ -23,7 +23,6 @@ N'installez ** pas ** Priiloader sur une vWii (mode Wii sur Wii U). Cela se trad
 
 1. Téléchargez Priiloader et décompressez-le dans le dossier `apps` de votre carte SD ou périphérique USB.
     * Si ce dossier n'existe pas, créez-le.
-2. Insérez votre carte SD ou périphérique USB dans votre Wii, et lancez Priiloader depuis Homebrew Channel.
 
 ##### Section II - Installation de Priiloader
 
@@ -56,7 +55,7 @@ Voici la liste des hacks que vous pouvez activer avec Priiloader.
 | Auto-Press A at Health Screen           | Appuie automatiquement sur le bouton A pour passer l'écran "Santé et Sécurité" au démarrage.                                                                                            |
 | Replace Health Screen with Backmenu     | Remplace l'écran "Santé et Sécurité" par l'animation de retour au Menu Wii.                                                                                                             |
 | Move Disc Channel                       | Autorise le déplacement de la Chaîne Disque n'importe où sur le Menu Wii. Elle est normalement verrouillée dans la case en haut à gauche sur la première page.                          |
-| Wiimmfi Patch v2                        | Corrige automatiquement tous les jeux que vous exécutez à partir de Disc Channel pour une utilisation avec Wiimmfi                                                                      |
+| Wiimmfi Patch v3                        | Corrige automatiquement tous les jeux que vous exécutez à partir de Disc Channel pour une utilisation avec Wiimmfi                                                                      |
 | 480p graphics fix in system menu        | Corrige un petit problème avec l'affichage 480p sur le Menu Wii.                                                                                                                        |
 | Remove NoCopy Save File Protection      | Vous autorise à copier des fichiers de sauvegarde protégés sur votre carte SD depuis le menu de gestion des données                                                                     |
 | Region Free EVERYTHING                  | Désactive le verrouillage de région pour toutes les applications Wii, y compris les logiciels téléchargés.                                                                              |
