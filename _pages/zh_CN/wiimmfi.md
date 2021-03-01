@@ -11,6 +11,9 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 [Wiimmfi](https://wiimmfi.de) is a replacement service for the now-defunct Nintendo Wi-Fi Connection. It has been developed by Wiimm and Leseratte.
 
+If you get the error 23904 while connecting to Wiimmfi, then you are using an outdated patch.<br> Follow the steps below for the method you're using to connect to Wiimmfi again.<br> See [this page](https://wiimmfi.de/update) for more details.<br>
+{: .notice--warning}
+
 ## Different patchers
 
 There are lots of different methods to connect to Wiimmfi. Choose the one that fits your needs best.
@@ -26,8 +29,11 @@ If you have an older version of Priiloader or don't have it installed, follow [t
 #### 步骤
 1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
 2. Go to `System Menu Hacks`.
-3. Make sure the `Wiimmfi patch v2` hack is enabled.
+3. Make sure the `Wiimmfi patch v3` hack is enabled.
 4. Save settings and exit.
+
+If you see the hack `Wiimmfi patch v2` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
+{: .notice--warning}
 
 ### Homebrew (Disc) Application
 MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
