@@ -11,23 +11,29 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 [Wiimmfi](https://wiimmfi.de) on korvaava palvelu nyt-lakkautetulle Nintendo Wi-Fi Connection:lle. Sen ovat kehittäneet Wiimm ja Leseratte.
 
+If you get the error 23904 while connecting to Wiimmfi, then you are using an outdated patch.<br> Follow the steps below for the method you're using to connect to Wiimmfi again.<br> See [this page](https://wiimmfi.de/update) for more details.<br>
+{: .notice--warning}
+
 ## Different patchers
 
-On paljon erilaisia tapoja yhdistää Wiimmfi:in. Valitse se, joka sopii tarpeisiisi parhaiten.
+There are lots of different methods to connect to Wiimmfi. Choose the one that fits your needs best.
 
 ### Automatic patching from the Disc Channel using Priiloader
 
 #### Mitä tarvitset
 - Wii, jolla on Priiloader 0.9 tai uudempi asennettuna
 
-Jos sinulla on vanhempi Priiloader-versio tai sinulla ei ole sitä asennettuna, seuraa [tätä opasta](priiloader) päivittääksesi/asentaaksesi sen.
+If you have an older version of Priiloader or don't have it installed, follow [this guide](priiloader) to update/install it.
 {: .notice--info}
 
 #### Ohjeet
 1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
 2. Mene `System Menu Hacks`.
-3. Varmista, että `Wiimmfi patch v2` on päällä.
+3. Make sure the `Wiimmfi patch v3` hack is enabled.
 4. Tallenna asetukset ja poistu.
+
+If you see the hack `Wiimmfi patch v2` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
+{: .notice--warning}
 
 ### Homebrew (Disc) Application
 MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
@@ -89,7 +95,7 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 - [Auto WiiWare Patcher](https://github.com/RiiConnect24/auto-wiiware-patcher/releases) (cross platform)
 - [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
-[Jos haluat nähdä, kuinka käyttää WiiWare Patcher:ia, klikkaa tästä!](wiiwarepatcher)
+[If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
 {: .notice--info}
 
 Steps:
@@ -122,7 +128,7 @@ If you're using the Wii U, you will have to run the competitions patcher wheneve
 {: .notice--info}
 
 ### DS-pelit
-Wiimmfi ei tue vain Wii-pelejä, se tukee myös monia DS-pelejä. Thanks to an exploit called nds-constraint, you can play DS games without patching your games.
+Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks to an exploit called nds-constraint, you can play DS games without patching your games.
 
 #### Mitä tarvitset
 
