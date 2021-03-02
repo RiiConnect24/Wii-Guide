@@ -40,7 +40,7 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 
 #### O que precisas
 * Um cartão SD ou USB drive
-* [Auto Wiimmfi Patcher](https://download.wiimmfi.de/patcher/autowiimmfipatcher-0.7.1.zip)
+* [Auto Wiimmfi Patcher](https://download.wiimmfi.de/patcher/autowiimmfipatcher-latest.zip)
 
 #### Instruções
 
@@ -75,7 +75,7 @@ You may not want to run a patcher each time you want to play on Wiimmfi, and may
 - A cópia do teu jogo (WBFS, ISO, cISO, e outros formatos que a Wii suporta).
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows e Unix)  
 **ou**
-- [Wiimms ISO patcher (cross-platform)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-v7.2.zip)
+- [Wiimms ISO patcher (cross-platform)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
 - Um USB Loader, [cIOS](cios), e um USB para armazenar o jogo (já deves ter isto se utilizas USB Loader)
 
 #### Instruções
