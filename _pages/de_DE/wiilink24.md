@@ -40,6 +40,9 @@ WiiLink24 and all of its services (such as Wii no Ma) are not controlled or oper
 15. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 16. Starte Wii no Ma und schon kann's losgehen!
 
+For PAL(European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
+{: .notice--info}
+
 [Weiter mit RiiConnect24](riiconnect24)<br> RiiConnect24 erlaubt es dir, eingestellte Dienste von WiiConnect24 zu benutzen, was den Nachrichtenkanal, Wetterkanal, Meinungskanal, Nintendo-Kanal und Mii-Wettbewerbskanal, sowie Wii Mail beinhaltet. Dies zu installieren ist nicht zwingend erforderlich.
 {: .notice--info}
 
