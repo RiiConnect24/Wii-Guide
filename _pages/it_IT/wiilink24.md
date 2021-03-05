@@ -40,6 +40,9 @@ WiiLink24 e tutti i suoi servizi (come Wii no Ma) non sono controllati o operati
 15. Dopo che è stato installato correttamente, premi il tasto HOME per tornare all'Hombrew Channel.
 16. Avvia Wii no Ma e goditelo!
 
+For PAL(European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
+{: .notice--info}
+
 [Continua su RiiConnect24](riiconnect24)<br> RiiConnect24 ti permette di usare servizi di WiiConnect24 che sono discontinuati, come i canali News, Forecast, Everybody Votes, Nintendo, Check Mii Out e anche Wii Mail. L'installazione di RiiConnect24 è facoltativa.
 {: .notice--info}
 
