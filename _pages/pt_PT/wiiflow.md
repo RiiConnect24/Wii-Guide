@@ -4,12 +4,12 @@ title: "WiiFlow"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor entra no [server do RiiConnect24 no Discord](https://discord.gg/rc24) (recomendado) ou [envia-nos um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![WiiFlow](/images/wiiflowlogo.png)
 
-This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that's used to play games from a USB drive or SD card.
+Este é um guia rápido de como utilizar o WiiFlow, um USB Loader para a Wii que é util para jogar jogos a partir de um USB drive ou cartão SD.
 
 #### O que precisas
 
@@ -75,7 +75,7 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 * Reload Cache - Press this when WiiFlow is not detecting a new game on the USB drive or SD card.
 * File Explorer - Allows you to boot games/apps from anywhere on your USB drive or SD card.
 * Select Plugins - Allows you to select plugins.
-* Credits - Shows the people who worked on WiiFlow.
+* Créditos - Mostra as pessoas que trabalharam no WiiFlow.
 * Shutdown - Allows you to either go into full shutdown, or Standby mode.
 * Exit To - Lets you exit to Wii Menu, HBC, neek2o, Priiloader and Bootmii.
 * Settings - Will open the WiiFlow Settings menu
