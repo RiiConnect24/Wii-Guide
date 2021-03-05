@@ -4,7 +4,7 @@ title: "Wii Backup Manager"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor entra no [server do RiiConnect24 no Discord](https://discord.gg/rc24) (recomendado) ou [envia-nos um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Wii Backup Manager é um programa para copiar jogos Wii do teu computador para um USB drive para que possas jogar na tua Wii. Isto também pode descarregar capas de jogos a partir do [GameTDB](https://gametdb.com/) e pode ser utilizado para fazer uma lista de jogos que tens guardado. Este tutorial irá te explicar como copiar jogos a partir do teu computador para o teu USB drive. As outras funcionalidades podem ser utilizadas para uma interface fácil de utilizar.
