@@ -4,7 +4,7 @@ title: "Wii Mod Lite"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor entra no [server do RiiConnect24 no Discord](https://discord.gg/rc24) (recomendado) ou [envia-nos um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Este tutorial irá explicar-te como instalar WADs na tua Wii com Wii Mod Lite. O gerenciador WAD escolhido é o Wii Mod Lite, mas tem muitos outros como o YAWMM.
