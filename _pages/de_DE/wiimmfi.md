@@ -83,8 +83,8 @@ You may not want to run a patcher each time you want to play on Wiimmfi, and may
 2. Führe das Patch-Skript für dein Betriebssystem aus: meistens endet es auf `.bat` für Windows und `.sh` für macOS/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the patcher for your game.
 3. Once it's finished, get the version out of the `wiimmfi-images` folder (it may be in the folder outside of the patcher - ../wiimmfi-images) and copy it back to your USB.
 
-### WiiWare Patching
-You can patch WiiWare games in order to play them on Wiimmfi.
+### WiiWare Patchen
+Du kannst WiiWare-Spiele patchen, um mit ihnen über Wiimmfi zu spielen.
 
 #### Voraussetzungen
 
@@ -95,10 +95,10 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 - [Auto WiiWare Patcher](https://github.com/RiiConnect24/auto-wiiware-patcher/releases) (plattformübergreifend)
 - [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
-[If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
+[Wenn du sehen möchtest wie man den WiiWare Patcher nutzt, klicke hier!](wiiwarepatcher)
 {: .notice--info}
 
-Steps:
+Schritte:
 1. Entpacke die .zip der aktuellsten Version des Auto WiiWare Patcher und lege deine WAD in den selben Ordner.
 2. Führe das Patch-Skript für dein Betriebssystem aus: meistens endet es auf `.bat` für Windows und `.sh` für macOS/Linux. Falls du den RiiConnect24 Patcher verwendest, wähle dein Gerät (Wii, vWii oder Dolphin) und den WiiWare Patcher aus.
 3. Wenn der Vorgang erfolgreich abgeschlossen ist, installiere die WAD welche in `wiiware-wads` mit Wii Mod Lite erzeugt wurde.
@@ -106,7 +106,7 @@ Steps:
 ## Andere Sachen
 
 ### Mario Kart Wii-Wettbewerbe
-Wiimmfi allows you to participate in Mario Kart Wii competitions again.
+Wiimmfi ermöglicht es dir, wieder an Mario Kart Wii-Wettbewerben teilzunehmen.
 
 #### Voraussetzungen
 
