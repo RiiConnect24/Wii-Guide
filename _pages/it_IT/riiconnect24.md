@@ -116,7 +116,7 @@ Se ottieni l'errore 107304, allora forse il tuo ISP blocca l'uso di DNS particol
 [Se ottieni l'errore NEWS000006, seguire questa guida dovrebbe risolvere.](news000006)
 {: .notice--warning}
 
-[Se ottieni errori come `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, vai nella impostazioni della Wii -> Ultima Pagina -> Paese e cambialo a Regno Unito. Otterrai questo errore quando userai un paese che non supportiamo. Contattaci su [support@riiconnect24.net](mailto:support@riiconnect24.net) se hai bisogno di altro aiuto.
+If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. Otterrai questo errore quando userai un paese che non supportiamo. Contattaci su [support@riiconnect24.net](mailto:support@riiconnect24.net) se hai bisogno di altro aiuto.
 {: .notice--warning}
 
 [Se ottieni un messaggio di discontinuazione quando apri il Canale News o il Canale Forecast, seguire questa guida dovrebbe risolvere.](deleting-vffs)
