@@ -116,7 +116,7 @@ Falls du den Fehler 107304 erhälst, blockiert möglicherweise dein Internetanbi
 [Falls du den Fehler NEWS000006 erhälst, sollte das Befolgen dieser Anleitung das Problem beheben.](news000006)
 {: .notice--warning}
 
-[Solltest du Fehler erhalten wie `WiiConnect24 und der Wii-Shop-Kanal werden aktuell nicht in deinem Land unterstützt`, gehe bitte in die Wii-Systemeinstellungen -> letzte Seite -> Land und ändere es auf Vereinigtes Königreich. Du wirst diesen Fehler erhalten wenn du ein Land einstellst welches wir nicht unterstützen. Kantaktiere uns üner [support@riiconnect24.net](mailto:support@riiconnect24.net) falls du weitere Hilfe benötigst.
+If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. Du wirst diesen Fehler erhalten wenn du ein Land einstellst welches wir nicht unterstützen. Kantaktiere uns üner [support@riiconnect24.net](mailto:support@riiconnect24.net) falls du weitere Hilfe benötigst.
 {: .notice--warning}
 
 [Solltest du die Meldung erhalten dass der Nachtichten- oder Wetterkanal eingestellt wurden, sollte das Befolgen dieser Anleitung das Problem beheben.](deleting-vffs)
