@@ -1,5 +1,5 @@
 ---
-title: "RiiConnect24 Battery Fix"
+title: "RiiConnect24 FORE000006"
 ---
 
 {% include toc title="Table of Contents" %}
