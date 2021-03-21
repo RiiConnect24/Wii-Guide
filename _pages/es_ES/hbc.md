@@ -17,9 +17,9 @@ El Canal Homebrew es desde donde iniciarás las aplicaciones homebrew. BootMii e
 
 2. Cuando estés en el HackMii Installer, podrás instalar el Canal Homebrew y BootMii.![Resultados](/images/Wii/Results.png)
 
-3. Presiona `Continue`, luego selecciona `Install The Homebrew Channel` y elige `Install`. ![Instalar el Canal Homebrew](/images/Wii/InstallHomebrewChannel.png)
+3. Presiona `Continue`, luego selecciona `Install The Homebrew Channel` y elige `Install`.![Instalar el Canal Homebrew](/images/Wii/InstallHomebrewChannel.png)
 
-4. Selecciona `Continue` cuando la instalación haya finalizado. ![Instalación del Canal Homebrew exitosa](/images/Wii/SuccessHBC.png)
+4. Selecciona `Continue` cuando la instalación haya finalizado.![Instalación del Canal Homebrew exitosa](/images/Wii/SuccessHBC.png)
 
 5. Una vez instalado, presiona `Back` y selecciona `BootMii`.
 6. Si en la pantalla dice que puede ser instalado como boot2, hazlo. Esto ofrece protección de brick en lo mejor posible que podrás tener. Skip this step if you cannot install BootMii as boot2.
