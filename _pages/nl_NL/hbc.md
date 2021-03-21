@@ -9,7 +9,7 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 ![HBC Logo](/images/hbc.png)
 
-Het Homebrew Kanaal is de plek waarvan je al jouw homebrew applicaties kunt openen. De BootMii software laat u een NAND back-up maken en laat u ook een NAND back-up terug op uw Wii zetten. Als u boot2 installeert zorgt dit er ook voor dat u Wii veel beter beschermd is tegen een "brick". Een "brick" houdt in dat uw Wii onbruikbaar is (bijvoorbeeld altijd een zwartscherm).
+Het Homebrew Kanaal is de plek waarvan je al jouw homebrew applicaties kunt openen. De BootMii software laat u een NAND back-up maken en laat u ook een NAND back-up terug op uw Wii zetten. Als u boot2 installeert zorgt dit er ook voor dat u Wii veel beter beschermd is tegen een "brick".
 
 #### Instructies
 
@@ -17,7 +17,7 @@ Het Homebrew Kanaal is de plek waarvan je al jouw homebrew applicaties kunt open
 
 2. Wanneer u bij de HackMii installer bent aangekomen, u hebt nu de mogelijk om het Homebrew Kanaal en BootMii te installeren. ![Resultaten](/images/Wii/Results.png)
 
-3. Klik op `Continue`, klik dan op het volgende scherm op `Install The Homebrew Channel` en dan op `Yes, continue` om het Homebrew Kanaal te installeren. ![Homebrew Kanaal installeren](/images/Wii/InstallHomebrewChannel.png)
+3. Klik op `Continue`, klik dan op het volgende scherm op `Install The Homebrew Channel` en dan op `Yes, continue` om het Homebrew Kanaal te installeren.![Homebrew Kanaal installeren](/images/Wii/InstallHomebrewChannel.png)
 
 4. Klik op "Continue" wanneer het downloaden klaar is. ![Het Homebrew Kanaal succesvol installeren](/images/Wii/SuccessHBC.png)
 
