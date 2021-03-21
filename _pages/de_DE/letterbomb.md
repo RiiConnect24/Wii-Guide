@@ -17,7 +17,7 @@ LetterBomb ist ein Exploit für die Wii, der durch die Wii-Pinnwand ausgelöst w
 
 
 1. Gehe auf deiner Wii in die `Wii-Systemeinstellungen` -> `Internet` -> `Konsoleninformationen` und notiere deine MAC-Adresse.
-1. Gehe auf [please.hackmii.com](https://please.hackmii.com), gib die MAC-Adresse und Region deiner Wii ein, löse das CAPTCHA, *stelle sicher, dass* `Bundle the HackMii Installer for me!` *ausgewählt ist* und schneide einen von beiden Drähten durch
+1. Gehe auf [please.hackmii.com](https://please.hackmii.com), gib die MAC-Adresse und Region deiner Wii ein, löse das CAPTCHA, *stelle sicher, dass*
    - Es ist egal, was auch immer du auswählst. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
 1. Entpacke den Inhalt der heruntergeladenen ZIP in das Stammverzeichnis deiner SD-Karte.
 1. Entferne deine SD-Karte und stecke sie in deine Wii ein.
