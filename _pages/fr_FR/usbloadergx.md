@@ -4,7 +4,7 @@ title: "USB Loader GX"
 
 {% include toc title="Table des matières" %}
 
-Si vous avez besoin d'aide pour quoi que ce soit concernant ce didacticiel, veuillez rejoindre [ le serveur RiiConnect24 Discord ](https://discord.gg/rc24) (recommandé) ou [ envoyez-nous un e-mail à support@riiconnect24.net ](mailto: support @ riiconnect24 .net).
+Si vous avez besoin d'aide pour quoi que ce soit concernant ce didacticiel, veuillez rejoindre [ le serveur RiiConnect24 Discord ](https://discord.gg/rc24) (recommandé) ou \[ envoyez-nous un e-mail à support@riiconnect24.net \](mailto: support @ riiconnect24 .net).
 {: .notice--info}
 
 Ceci est un guide de démarrage rapide sur la façon d'utiliser USB Loader GX, un USB Loader populaire pour la Wii qui est utilisé pour jouer à des jeux à partir d'un périphérique USB.
@@ -41,7 +41,7 @@ Assurez-vous que votre périphérique USB est formaté en FAT32 ou NTFS. Ne le f
 
 ##### Commencer
 
-Il n'y a pas de "guide" pour utiliser l'application USB Loader GX. Cette page va vous aider à utiliser les fonctions basiques de l'application. Vous devriez être en mesure de comprendre toutes les fonctionnalités intéressantes de USB Loader GX en l'utilisant.
+Il n'y a pas de "guide" pour utiliser l'application USB Loader GX. Cette page va vous aider à utiliser les fonctions basiques de l'application. Vous devriez être en mesure de comprendre toutes les fonctionnalités intéressantes de USB Loader GX en l'utilisant. Vous devriez être en mesure de comprendre toutes les fonctionnalités intéressantes de USB Loader GX en l'utilisant.
 {: .notice--info}
 
 * Si USB Loader GX affiche "Waiting for HDD..." avec un compte à rebours de 20 secondes, il est probable qu'il ne détecte pas votre périphérique USB. Essayez de quitter l'application, puis redémarrez-la après avoir mis votre périphérique USB dans l'autre port de la Wii.
