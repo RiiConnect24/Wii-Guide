@@ -38,7 +38,7 @@ Le d2x cIOS installer a été initialement développé pour le mode vWii de la W
    Sélectionnez la base cIOS: 57 
    Sélectionnez l'emplacement cIOS: 249
     ```
-Notez le numéro de version sous les notes (` IOS57-64- ` se terminant par ` v31776 ` ou ` v31775 `)
+Notez le numéro de version sous les notes (`IOS57-64-` se terminant par `v31776` ou `v31775`)
 1. Une fois défini, appuyez sur A pour installer. Une fois l'installation terminée avec succès, quittez le programme d'installation.
    - Si l'installation échoue en renvoyant l'erreur `TMD version mismatch`, sélectionnez l'option `Select cIOS`, puis sélectionnez avec la croix directionnelle un numéro de version différent de celui que vous avez essayé avant. Le nombre 57 ne changera pas.
 
