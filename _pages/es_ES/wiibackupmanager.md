@@ -16,7 +16,7 @@ Wii Backup Manager es una herramienta para copiar juegos de Wii desde tu computa
 Te recomendamos que use [Witgui](https://desairem.com/wordpress/category/witgui-download/) si usas macOS. Wii Backup Manager sólo está disponible para Windows.
 {: .notice--info}
 
-Si tienes planeado cargar multiples juegos, te recomendamos obtener un disco duro externo con fuente de alimentación USB para tu Wii. En esta guía nos referiremos al disco duro externo y a la memoria USB simplemente como "unidad USB". La mayoría de los discos disponibles en el mercado deberían funcionar, siempre y cuando sean compatibles con USB 2.0. Los discos de 1 TB de capacidad o más también funcionan. Las memorias USB también funcionan, pero debido a su capacidad más reducida, no podrás guardar tantos juegos como en un disco USB.
+Si tienes planeado cargar multiples juegos, te recomendamos obtener un disco duro externo con fuente de alimentación USB para tu Wii. En esta guía nos referiremos al disco duro externo y a la memoria USB simplemente como "unidad USB". La mayoría de los discos disponibles en el mercado deberían funcionar, siempre y cuando sean compatibles con USB 2.0. Los discos de 1 TB de capacidad o más también funcionan. Los discos de 1 TB de capacidad o más también funcionan. Las memorias USB también funcionan, pero debido a su capacidad más reducida, no podrás guardar tantos juegos como en un disco USB.
 {: .notice--info}
 
 Asegúrate de que tu unidad USB esté formateada como FAT32 o NTFS. No uses otros sistemas de archivos como extFS o WBFS; el segundo es un formato antiguo hecho para almacenar juegos de Wii.
@@ -38,18 +38,15 @@ Asegúrate de que tu unidad USB esté formateada como FAT32 o NTFS. No uses otro
 5. Haz clic en `Transferir` y después en `Unidad 1` para comenzar a transferir los juegos. Puede que el proceso tarde un poco hasta que todos los juegos hayan terminado de copiarse.
 
 ##### Opciones una vez terminado
-Continuar a la instalación de cIOSlt;/a><br> Los cIOS son necesarios si quieres usar un USB loader. </p> 
 
+Continuar a la instalación de cIOSlt;/a><br> Los cIOS son necesarios si quieres usar un USB loader.
 {: .notice--info}
 
-[Continuar a USB Loader GX](usbloadergx) USB Loader GX es un USB loader que puedes usar para cargar juegos desde una unidad USB. 
-
+[Continuar a USB Loader GX](usbloadergx) USB Loader GX es un USB loader que puedes usar para cargar juegos desde una unidad USB.
 {: .notice--info}
 
-[Continuar a WiiFlow](wiiflow) WiiFlow es un USB loader que puedes usar para cargar juegos desde una unidad USB o tarjeta SD. 
-
+[Continuar a WiiFlow](wiiflow) WiiFlow es un USB loader que puedes usar para cargar juegos desde una unidad USB o tarjeta SD.
 {: .notice--info}
 
-[Echa un vistazo a nuestras otras guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte. 
-
+[Echa un vistazo a nuestras otras guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
 {: .notice--info}
