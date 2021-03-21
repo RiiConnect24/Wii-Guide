@@ -17,7 +17,7 @@ LetterBomb is een exploit voor de Wii die wordt getriggert door middel van het W
 
 
 1. Op uw Wii, ga naar `Wii Opties` -> `Wii Instellingen` -> `Internet` -> `Systeeminformatie` en noteer uw MAC adres.
-1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure* `Bundle the HackMii Installer for me!` *is checked*, and cut either wire
+1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure*
    - Het maakt niet uit welke van de twee knoppen u kiest. ![HackMii Scherm](/images/Wii/LetterBomb-PC.png)
 1. Extract the contents of the downloaded ZIP to the root of your SD card.
 1. Take out your SD card and insert it in your Wii.
