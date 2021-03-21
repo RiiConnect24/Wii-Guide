@@ -28,18 +28,18 @@ Ti preghiamo di **non** installare Priiloader su una Virtual Wii (modalità Wii 
 
 1. Carica l'Homebrew Channel sulla tua Wii.
 2. Avvia il Priiloader installer.
-3. Premi il pulsante + sul Wii Remote o il pulsante A su un controller GameCube. ![Installare Priiloader](/images/Priiloader/2.png) ![Installare](/images/Priiloader/3.png)
+3. Premi il pulsante + sul Wii Remote o il pulsante A su un controller GameCube. ![Installare Priiloader](/images/Priiloader/installer.png) ![Installare](/images/Priiloader/installing.png)
 
 ##### Sezione 3 - Entrare/Configurare Priiloader
 
 1. Tieni premuto il tasto RESET mentre stai avviando la tua Wii.
     * Se stai uando una WIi mini, inserisci una tastiera USB e premi premuto ESC mentre la stai avviando
 
-![Accendere](/images/Priiloader/5.jpg) ![Tenere premuto RESET](/images/Priiloader/4.jpg)
+![Accendere](/images/Priiloader/on.jpg) ![Tenere premuto RESET](/images/Priiloader/reset.jpg)
 
-2. Dovresti essere nel menu Priiloader. ![Menù](/images/Priiloader/6.png)
+2. Dovresti essere nel menu Priiloader. ![Menù](/images/Priiloader/mainmenu.png)
 3. Vai su `System Menu Hacks`.
-4. Consigliamo di attivare ognuna delle seguenti opioni: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/7.png)
+4. Consigliamo di attivare ognuna delle seguenti opioni: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
 1. Vai giù e seleziona `save settings` e premi A, poi premi B per tornare indietro nel menu principale di Priiloader.
 1. Vai giù e seleziona `Hombrew Channel` e premi A per avviarlo.
 
