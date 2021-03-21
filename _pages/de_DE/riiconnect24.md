@@ -110,7 +110,7 @@ Wenn du Fehler 107245 erhälst, hast du wahrscheinlich dein IOS nicht korrekt ge
 Falls du den Fehler 107304 erhälst, blockiert möglicherweise dein Internetanbieter die Nutzung alternativer DNS-Server. Eine Möglichkeit dies zu umgehen, ist es deinen eigenen DNS-Server zu betreiben! Schau hierzu unter [RiiConnect24 DNS Server on GitHub](https://github.com/RiiConnect24/DNS-Server), nutze anschließend die IP-Adresse deines PCs anstelle unserer DNS aus Schritt 8.
 {: .notice--info}
 
-[Falls du den Fehler FORE000006 erhälst, sollte das Befolgen dieser Anleitung das Problem beheben.](riiConnect24 Batterie-Fix)
+If you get error FORE000006, your Wii's clock is probably set incorrectly. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel should start working.
 {: .notice--warning}
 
 [Falls du den Fehler NEWS000006 erhälst, sollte das Befolgen dieser Anleitung das Problem beheben.](news000006)
