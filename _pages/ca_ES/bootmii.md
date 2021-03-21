@@ -7,8 +7,7 @@ title: "Còpia de seguretat de BootMii"
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![Logo de BootMii
-](/images/bootmii.png)
+![Logo de BootMii](/images/bootmii.png)
 
 You need an **SD card** to create a NAND backup using BootMii. If you do not have one, you can skip this page, although it is highly recommended to create one if you can.
 {: .notice--warning}
