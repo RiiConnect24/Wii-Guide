@@ -4,7 +4,7 @@ title: "Sauvegarde BootMii"
 
 {% include toc title="Table des matières" %}
 
-Si vous avez besoin d'aide pour quoi que ce soit concernant ce didacticiel, veuillez rejoindre [ le serveur RiiConnect24 Discord ](https://discord.gg/rc24) (recommandé) ou [ envoyez-nous un e-mail à support@riiconnect24.net ](mailto: support @ riiconnect24 .net).
+Si vous avez besoin d'aide pour quoi que ce soit concernant ce didacticiel, veuillez rejoindre [ le serveur RiiConnect24 Discord ](https://discord.gg/rc24) (recommandé) ou \[ envoyez-nous un e-mail à support@riiconnect24.net \](mailto: support @ riiconnect24 .net).
 {: .notice--info}
 
 ![BootMii Logo](/images/bootmii.png)
@@ -21,7 +21,7 @@ L'une des fonctionnalités les plus importantes de BootMii est la possibilité d
 1. Lancez la Chaîne Homebrew.
 2. Appuyer sur le bouton HOME, et choisissez "Launch BootMii".
 
-    La navigation dans BootMii n'est pas possible avec une télécommande Wii. Vous devez utiliser les boutons POWER et RESET de votre console, ou un contrôleur GameCube branché sur le port 1 Pour naviguer entre les options, appuyez sur POWER sur votre Wii (ou sur le bouton droit + Control Pad sur une manette GameCube). Pour sélectionner une option, appuyez sur RESET sur votre Wii ou A sur votre manette GameCube.
+    La navigation dans BootMii n'est pas possible avec une télécommande Wii. Vous devez utiliser les boutons POWER et RESET de votre console, ou un contrôleur GameCube branché sur le port 1 Pour naviguer entre les options, appuyez sur POWER sur votre Wii (ou sur le bouton droit + Control Pad sur une manette GameCube). Pour naviguer entre les options, appuyez sur POWER sur votre Wii (ou sur le bouton droit + Control Pad sur une manette GameCube). Pour sélectionner une option, appuyez sur RESET sur votre Wii ou A sur votre manette GameCube.
     {: .notice--info}
 
 
