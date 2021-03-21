@@ -1,22 +1,13 @@
 ---
-title: "通过局域网导出游戏"
+title: "Dumping Wii/GameCube games over local network"
 ---
-
-{% include toc title="Table of Contents" %}
-
-译者注：如果你需要任何帮助，国内用户可以添加QQ群：417992332，国外用户可以加入[RiiConnect24 Discord群组](https://discord.gg/b4Y7jfD)，或者[发送电子邮件至support@riiconnect24.net](mailto:support@riiconnect24.net)。
-{: .notice--info}
-
-你想要通过局域网导出游戏吗？ 跟着这个教程！ 如果你的SD卡和U盘没有足够的空间来导出游戏，这个方法就很有用。
-
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
 #### 你需要的是
 
 * 一台Wii。
 * [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
 
-你的Wii和你的电脑必须处于同一个局域网进行连接。
+Your Wii and your computer must be connected to one local network
 {: .notice--warning}
 
 #### 步骤
