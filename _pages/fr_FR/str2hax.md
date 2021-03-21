@@ -4,7 +4,7 @@ title: "str2hax"
 
 {% include toc title="Table des matières" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si vous avez besoin d'aide pour quoi que ce soit concernant ce didacticiel, veuillez rejoindre [ le serveur RiiConnect24 Discord ](https://discord.gg/rc24) (recommandé) ou [ envoyez-nous un e-mail à support@riiconnect24.net ](mailto: support @ riiconnect24 .net).
 {: .notice--info}
 
 Veuillez noter que si votre F.A.I. ou votre environnement réseau interdit l'utilisation de serveurs DNS personnalisés, str2hax ne fonctionnera pas et vous devez [choisir un autre exploit à utiliser](get-started).
