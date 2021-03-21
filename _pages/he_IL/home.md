@@ -5,8 +5,6 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
-  cta_label: "צעדים ראשונים"
-  cta_url: "get-started"
   caption:
 excerpt: "The complete guide to modding your Nintendo Wii."
 ---
@@ -34,6 +32,9 @@ Here's a list of things you can do using homebrew. While this list is by no mean
 - Backup and restore copies of your Wii system memory (NAND) using [BootMii](bootmii).
 - Protect your Wii from bricks using [Priiloader](priiloader) and BootMii.
 - Turn your Wii into a media player with [WiiMC](http://www.wiimc.org/).
+
+
+## Ready?
 
 Get started by [choosing your exploit](get-started)!
 {: .notice--info}
