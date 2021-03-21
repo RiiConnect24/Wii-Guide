@@ -35,7 +35,7 @@ Per la Wii originale, non è raccomandato usare BlueBomb se vuoi installare l'Ho
 1. Connetti la chiavetta alla console. Per una Wii mini, lo slot USB si trova sul retro. Per una Wii normale, usate lo slot in basso. (o quello a destra se è orizzontale).
 1. Accendi la tua console e vai sul menù delle impostazioni. Nell'angolo in alto a destra vedrai un codice di 4 caratteri come quello nell'immagine qua sotto. Questo codice è la tua versione del Menù Wii, scrivilo da qualche parte perché ci servirà dopo. Fatto questo, spegni la tua console. ![Versione del Menù di Sistema](/images/Wii/SystemMenuVersion.png)
 1. Avvia il tuo distro Linux, ed assicurati di essere connesso ad internet.
-1. Apri il terminale
+1. Accendi la tua console e**non**connettere nessun telecomando Wii.
 1. Esegui i seguenti comandi:
 ```bash
 wget https://wii.guide/assets/files/bluebomb-helper.sh

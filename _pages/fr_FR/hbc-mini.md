@@ -4,7 +4,7 @@ title: "Homebrew Channel - pour Wii Mini uniquement"
 
 {% include toc title="Table des matières" %}
 
-Si vous avez besoin d'aide concernant ce tutoriel, veuillez rejoindre [le serveur Discord de RiiConnect24](https://discord.gg/b4Y7jfD) (recommandé, en anglais) ou [envoyez-nous un mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si vous avez besoin d'aide pour quoi que ce soit concernant ce didacticiel, veuillez rejoindre [ le serveur RiiConnect24 Discord ](https://discord.gg/rc24) (recommandé) ou \[ envoyez-nous un e-mail à support@riiconnect24.net \](mailto: support @ riiconnect24 .net).
 {: .notice--info}
 
 ![HBC Logo](/images/hbc.png)
@@ -20,7 +20,7 @@ Bien qu'il soit possible d'installer BootMii sur une Wii mini, vous devrez soude
 
 1. Vous allez voir un avertissement contre les arnaques. Attendez 30 secondes pour voir le texte « Press 1 to continue » apparaître, puis appuyez sur le bouton 1. ![Scam Screen](/images/Wii/ScamScreen.png)
 
-1. Appuyez sur `Continue`, puis sélectionnez `Install The Homebrew Channel` et appuyez sur `Install`. ![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
+1. Appuyez sur `Continue`, puis sélectionnez `Install The Homebrew Channel` et appuyez sur `Install`.![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
 1. Appuyez sur `Continue` une fois l'installation terminée.![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
 

@@ -4,7 +4,7 @@ title: "RSSMii installieren"
 
 {% include toc title="Inhaltsverzeichnis" %}
 
-Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [RiiConnect24 Discord-Server](https://discord.gg/b4Y7jfD) bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
+Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [RiiConnect24 Discord-Server](https://discord.gg/rc24) bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Möchtest du RSS-Feed-Updates auf deiner Wii-Pinnwand erhalten? Diese Anleitung wird dir beim Einrichten von RSSMii helfen.
@@ -22,7 +22,7 @@ Möchtest du RSS-Feed-Updates auf deiner Wii-Pinnwand erhalten? Diese Anleitung 
 1. Entpacke RSSMii und verschiebe es in den `apps`-Ordner auf deiner SD-Karte.
 2. Wir müssen eine `feeds.xml`-Datei im obersten Verzeichnis der SD-Karte erstellen, damit die Anwendung weiß, welche Feeds du abonnieren möchtest.
 
-If you're using the Windows Operating System, you can use the [RSS Feeds Creator](https://github.com/RiiConnect24/rssmii/releases/download/v1.4.1/RSSFeedsCreator.bat) program created by KcrPL. Es wird automatisch eine `feeds.xml`-Datei erstellen und sie in das oberste Verzeichnis deiner SD-Karte kopieren!
+Wenn du ein Windows-Betriebssystem verwendest kannst du das Programm [RSS Feeds Creator](https://github.com/RiiConnect24/rssmii/releases/download/v1.4.1/RSSFeedsCreator.bat) (erstellt von KcrPL) verwenden. Es wird automatisch eine `feeds.xml`-Datei erstellen und sie in das oberste Verzeichnis deiner SD-Karte kopieren!
 {: .notice--info}
 
 <b>Falls du keinen Windows-Computer hast, benutze diese Vorlage und erstelle mit deinem bevorzugten Texteditor eine <code>feeds.xml</code>.</b>

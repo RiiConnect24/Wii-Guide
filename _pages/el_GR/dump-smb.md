@@ -1,22 +1,13 @@
 ---
-title: "Αποθήκευση παιχνιδιού με το τοπικό δίκτυο"
+title: "Dumping Wii/GameCube games over local network"
 ---
-
-{% include toc title="Table of Contents" %}
-
-Αν χρειάζεστε βοήθεια με οτιδήποτε σχετικά με αυτό τον οδηγό, επισκεφθείτε [το RiiConnect24 Discord](https://discord.gg/b4Y7jfD) (προτείνεται) ή [στείλτε μαε e-mail στο support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: .notice--info}
-
-Θέλετε να αποθηκεύσετε τα παιχνίδια σας στο τοπικό σας δίκτυο; Ακολουθήστε αυτό τον οδηγό! Αυτό μπορεί να είναι χρήσιμο αν δεν έχετε κάρτα SD ή μέσο αποθήκευσης USB με αρκετό αποθηκευτικό χώρο για να αποθηκέυσετε το παιχνίδι σας.
-
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
 #### Τι χρειάζεστε
 
 * Ένα Wii.
 * [To εργαλείο αποθηκευσης DVD](/assets/files/DVDDumpTool.zip)
 
-Το Wii και ο υπολογιστής σας πρέπει να είναι συνδεδεμένα στο τοπικό σας δίκτυο.
+Your Wii and your computer must be connected to one local network
 {: .notice--warning}
 
 #### Οδηγίες

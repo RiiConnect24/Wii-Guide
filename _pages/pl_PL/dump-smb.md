@@ -1,22 +1,13 @@
 ---
-title: "Wykonywanie kopii zapasowej gry poprzez siec lokalną"
+title: "Dumping Wii/GameCube games over local network"
 ---
-
-{% include toc title="Zawartość" %}
-
-Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/b4Y7jfD) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.).
-{: .notice--info}
-
-Chcesz wykonać kopię zapasową gry przez Twoją sieć lokalną? Skorzystaj z tego poradnika! Może być to użyteczne jeżeli nie masz karty SD lub urządzenie USB, z którego korzystasz nie ma wystarczającej ilości miejsca aby zrzucić grę.
-
-![Logo RiiConnect24](/images/WiiRC24Logo.jpg)
 
 #### Będziesz potrzebował
 
 * Konsola Wii.
 * [Narzędzie DVD Dump](/assets/files/DVDDumpTool.zip)
 
-Twoje Wii oraz Twój komputer muszą być podłączone do jednej sieci lokalnej
+Your Wii and your computer must be connected to one local network
 {: .notice--warning}
 
 #### Instrukcje

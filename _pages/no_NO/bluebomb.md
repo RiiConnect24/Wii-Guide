@@ -35,7 +35,7 @@ For den originale Wii, anbefaler vi at du ikke bruker BlueBomb hvis du skal inst
 1. Koble til USB pinnen til konsollen. For en Wii mini, er USB porten på baksiden. For en normal Wii, bruk porten på bunnen. (eller høyreporten hvis den er oppreist).
 1. Skru på din konsoll og naviger til innstillings menyen. On the top right corner you will see a 4-character code like the one in the picture below. Denne koden er din Wii-meny versjon, ta en note av dette fordi du kommer til å trenge det senere. Etter det, skru av din konsoll. ![SystemMenyVersjon](/images/Wii/SystemMenuVersion.png)
 1. Start din Linux distribusjon, og vær sikker på at du er koblet til Internett.
-1. Åpne Terminal
+1. Skru på din konsoll og **ikke** koble til noen Wiimoter.
 1. Kjør de følgende kommandoer:
 ```bash
 wget https://wii.guide/assets/files/bluebomb-helper.sh

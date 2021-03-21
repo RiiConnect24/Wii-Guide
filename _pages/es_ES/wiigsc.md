@@ -4,7 +4,7 @@ title: "Crear accesos directos para juegos de Wii"
 
 {% include toc title="Tabla de contenido" %}
 
-En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por favor únete a nuestro [servidor de Discord](https://discord.gg/b4Y7jfD) (recomendado) o [envíanos un e-mail](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ¿Usas un USB loader y te gustaría crear accesos directos a tus juegos para poder iniciarlos desde el menú de Wii? Entonces prueba WiiGSC (Wii Game Shortcut Creator), anteriormente conocido como Crap.
@@ -30,5 +30,5 @@ NO hagas un atajo para los juegos "Mario Party 9" o "A Boy and His Blob". Bricke
 3. No podrás usar los accesos direcctos si tienes la versión 1272 de USB Loader GX. La última versión que funciona con los accesos directos en la versión 1271.
 4. Instala el WAD generado con un instalador de WADs, recomendamos usar Wii Mod Lite.
 
-Si te aparece un mensaje que dice "Los archivos del sistema están dañados", no tienes nada de que preocuparte siempre y cuando hayas instalado Priiloader. Apaga la consola, después oprime el botón POWER mientras mantienes presionado RESET.. Priiloader debería de iniciarse. Desde aquí tienes algunas opciones para reparar tu menú de Wii. Una de las opciones es iniciar el Canal Homebrew.
+Si te aparece un mensaje que dice "Los archivos del sistema están dañados", no tienes nada de que preocuparte siempre y cuando hayas instalado Priiloader. Apaga la consola, después oprime el botón POWER mientras mantienes presionado RESET. El menú de Priiloader debería de iniciarse. Desde aquí tienes algunas opciones para reparar tu menú de Wii. Una de las opciones es iniciar el Canal Homebrew.
 {: .notice--info}

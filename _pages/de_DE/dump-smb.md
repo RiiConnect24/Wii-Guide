@@ -1,29 +1,20 @@
 ---
-title: "Ein Spiel über das lokale Netzwerk kopieren"
+title: "Dumping Wii/GameCube games over local network"
 ---
-
-{% include toc title="Inhaltsverzeichnis" %}
-
-Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [RiiConnect24 Discord-Server](https://discord.gg/b4Y7jfD) bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: .notice--info}
-
-Möchtest du Spiele über dein lokales Netzwerk kopieren? Folge diesem Tutorial! Dies kann hilfreich sein, falls du keine SD-Karte bzw. kein USB-Laufwerk haben solltest, das groß genug ist, damit ein Spiel darauf kopiert werden kann.
-
-![RiiConnect24-Logo](/images/WiiRC24Logo.jpg)
 
 #### Voraussetzungen
 
 * Eine Wii.
 * [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
 
-Deine Wii und dein Computer müssen sich im selben lokalen Netzwerk befinden
+Your Wii and your computer must be connected to one local network
 {: .notice--warning}
 
 #### Anleitung
 
 ##### Abschnitt 1 - Herunterladen/Installieren
 
-1. Entpacke DVD Dump Tool und verschiebe es in den `apps`-Ordner auf deiner SD-Karte bzw. deinem USB-Laufwerk.
+1. Entpacke DVD Dump Tool und verschiebe es in den `apps`-Ordner auf deiner SD-Karte bzw.
 1. Verbinde die SD-Karte mit deiner Wii und starte DVD Dump Tool vom Homebrew-Kanal.
 
 ##### Abschnitt 2 - Kopieren

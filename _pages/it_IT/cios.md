@@ -4,11 +4,11 @@ title: "cIOS"
 
 {% include toc title="Table of Contents" %}
 
-Questo tutorial ti dirà come installare cIOS (Custom IOS). E' necessario se si vogliono giocare giochi tramite un USB Loader. Alcuni Homebrew potrebbero funzionare meglio usando cIOS.
+Questo tutorial ti dirà come installare cIOS (Custom IOS). E' necessario se si vogliono giocare giochi tramite un USB Loader. Alcuni homebrew potrebbero funzionare meglio usando cIOS.
 
 ![d2x cIOS Installer](/images/cios/cIOS.png)
 
-Se hai una Wii mini, installa [questo cIOS](cios-mini). Provare ad installare altri cIOS su una Wii mini non funzionerà.
+Provare ad installare altri cIOS su una Wii mini non funzionerà. Se hai una Wii mini, installa [questo cIOS](cios-mini).
 {: .notice--info}
 
 #### Di cosa hai bisogno
@@ -17,7 +17,7 @@ Se hai una Wii mini, installa [questo cIOS](cios-mini). Provare ad installare al
 * Una scheda SD o chiavetta USB
 * [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
-Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
+Assicurati che, se stai usando una scheda SD, l'interruttore a lato sia in posizione di sblocco, altrimenti non riuscirai a selezionare l'opzione corretta nell' installer
 {: .notice--warning}
 
 #### Istruzioni
@@ -25,7 +25,7 @@ Ensure that if you are using an SD card, the lock switch is in the unlocked posi
 ##### Sezione 1 - Scaricare
 
 1. Scarica d2x cIOS Installer ed estrailo nella cartella `apps` sulla tua scheda SD o chiavetta USB.
-1. Inserisci la tua scheda SD o chiavetta USB nella tua Wii, e carica d2x cIOS Installer dall'Homebrew Channel.
+1. Inserisci la tua scheda SD o dispositivo USB nella tua Wii, e carica d2x cIOS Installer dall'Homebrew Channel.
 
 ##### Sezione 2 - Installare
 
@@ -36,7 +36,7 @@ Select cIOS base: 57
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
-![Install cIOS 249](/images/cios/Install249.png)
+![Installa cIOS 249](/images/cios/Install249.png)
 1. Una volta fatto, premi A due volte per installare.
 1. Quando è finita l'installazione, premere A per tornare, ed imposta le opzioni in questo modo:
 ```
@@ -45,49 +45,56 @@ Select cIOS base: 56
 Select cIOS slot: 250
 Select cIOS version: 65535
 ```
-![Install cIOS 250](/images/cios/Install250.png)
+![Installa cIOS 250](/images/cios/Install250.png)
 1. Una volta fatto, premere A due volte per installare.
-1. When done installing, press A to return, and set the options to the following: ![Install cIOS 251](/images/cios/Install251.png)
+1. Quando è finita l'installazione, premere A per tornare, ed imposta le opzioni in questo modo:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 38
 Select cIOS slot: 251
 Select cIOS version: 65535
 ```
+![Installa cIOS 251](/images/cios/Install251.png)
 1. Impostato tutto correttamente, premere A due volte per installare, quando a terminato poi uscire.
 
-Although the majority of games should work straight away, some may require using a specific cIOS to function, or to utilize certain features within the game. To change the cIOS used for a specific game, follow these instructions:
-{: .notice--warning}
+{% capture bruh %}
+Sebbene la maggior parte dei giochi dovrebbe funzionare direttamente con le opzioni predefinite, alcuni potrebbero richiedere l'utilizzo di cIOS specifici per funzionare, o per utilizzare alcune funzionalità di gioco.<br> Esempi includono:
+* Usare una tastiera in Animal Crossing: City Folk.
+* Giocare a SpongeBob's Boating Bash.
+
+È possibile trovare un elenco comprensivo (anche se ancora incompleto) [**qui**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> Per cambiare il cIOS utilizzato per un gioco specifico, segui queste istruzioni:
+{% endcapture %}
+<div class="notice--warning">{{ bruh | markdownify }}</div>
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'usbloadergx')">USB Loader GX</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
 <div id="usbloadergx" class="blanktabcontent">
   <p spaces-before="0">
-    !!crwdP_23_Pdwrc!!Select the game that isn't working. !!crwdP_24_Pdwrc!!Click Settings. !!crwdP_25_Pdwrc!!Select <code>Game Load</code>. !!crwdP_26_Pdwrc!!Scroll down to <code>Game IOS</code>. !!crwdP_27_Pdwrc!!Enter the IOS slot to use.
+    !!crwdP_24_Pdwrc!!Seleziona il gioco che non funziona. !!crwdP_25_Pdwrc!!Clicca Impostazioni. !!crwdP_26_Pdwrc!!Seleziona <code>Game Load</code>. !!crwdP_27_Pdwrc!!Scorri fino a <code>Game IOS</code>. !!crwdP_28_Pdwrc!!Seleziona lo slot IOS da usare.
   </p>
   
   <ul>
     <li>
-      Try using 250 or 251, if 249 doesn't work. !!crwdP_28_Pdwrc!!Press ok and try to load the game
+      Prova a usare 250 o 251, se 249 non funziona. !!crwdP_33_Pdwrc!!Premi Salva e prova a caricare il gioco.
     </li>
   </ul>
 </div>
 
 <div id="wiiflow" class="blanktabcontent">
   <p spaces-before="0">
-    !!crwdP_29_Pdwrc!!Select the game that isn't working. !!crwdP_30_Pdwrc!!Click the gear icon. !!crwdP_31_Pdwrc!!Go to cIOS and use the arrows to select the IOS slot to use.
+    !!crwdP_30_Pdwrc!!Seleziona il gioco che non funziona. !!crwdP_31_Pdwrc!!Clicca sull'icona con l'ingranaggio. !!crwdP_32_Pdwrc!!Vai su cIOS e usa le frecce per selezionare lo slot IOS da usare.
   </p>
   
   <ul>
     <li>
-      Try using 250 or 251, if 249 doesn't work. !!crwdP_32_Pdwrc!!Press Save and try to load the game.
+      Prova a usare 250 o 251, se 249 non funziona. Premi ok e prova a caricare il gioco.
     </li>
   </ul>
 </div>
 ##### Opzioni una volta completate
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. L'installazione di RiiConnect24 è facoltativa.
+[Continuare all' Homebrew Browser](hbb)<br> L' Homebrew Browser è un buon posto per ottenere homebrew sulla tua wii. L'installazione di RiiConnect24 è facoltativa.
 {: .notice--info}
 
 [Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.

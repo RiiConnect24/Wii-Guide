@@ -4,7 +4,7 @@ title: "RiiConnect24"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
@@ -47,14 +47,14 @@ If you still can't run RiiConnect24 Patcher, please send us a mail at support@ri
 [詳しいWADのインストールし方指示が見たいだったら、ここでクリクしてください。](wiimodlite)
 {: .notice--info}
 
-1. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open terminal and type bash, then drag `RiiConnect24Patcher.sh`into the terminal then press enter. It should look like this `bash RiiConnect24Patcher.sh`.
+1. On Windows run `RiiConnect24Patcher.bat`. It should look like this `bash RiiConnect24Patcher.sh`. On Unix systems, open terminal and type `bash`, then drag `RiiConnect24Patcher.sh`into the terminal then press enter.
 2. 「`Start`」を選ぶために`1`を押してから、`ENTER`を押して。 ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.PNG)
 3. Select the device you're patching for. ![Select your device](/images/RC24_Patcher/2.PNG)
 4. For this guide, choose "`Install RiiConnect24 on your Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.PNG)
 5. Choose "`Express (Recommended)`". It will give you everything you need. ![Express Settings](/images/RC24_Patcher/4.PNG)
 6. Select your region. ![Select your region](/images/RC24_Patcher/5.PNG)
 7. SDカードまたはUSBドライブを入れて、「`1`」を選んで。 ![Enable copying to SD Card](/images/RC24_Patcher/6.PNG)
-8. デバイスの検出は効果的だ時、「`1`」を選んで 効果的ではない時、SDカードまたはUSBドライブで`apps`というフォルダーがある確かめてから、も一度試みて。 ![Successfully detected](/images/RC24_Patcher/7.PNG)
+8. デバイスの検出は効果的だ時、「`1`」を選んで デバイスの検出は効果的だ時、「`1`」を選んで 効果的ではない時、SDカードまたはUSBドライブで`apps`というフォルダーがある確かめてから、も一度試みて。 ![Successfully detected](/images/RC24_Patcher/7.PNG)
 9. Be patient... ![It's patching!](/images/RC24_Patcher/8.PNG)
 10. Once it's done, you can now safely close the patcher. SDカードで全部のファイルは整う。 ![It's done!](/images/RC24_Patcher/9.PNG) ![Files copied](/images/RC24_Patcher/10.PNG)
 11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
@@ -110,13 +110,13 @@ If you get error 107245, then you probably have failed to patch your IOS correct
 If you get error 107304, then perhaps your ISP blocks the use of custom DNS. A workaround for this can be running your own DNS server! See the [RiiConnect24 DNS Server on GitHub](https://github.com/RiiConnect24/DNS-Server), then use your PC's IP address in place of our DNS in Step 8.
 {: .notice--info}
 
-[If you get error FORE000006, following this tutorial should fix it.](riiconnect24-batteryfix)
+If you get error FORE000006, your Wii's clock is probably set incorrectly. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel should start working.
 {: .notice--warning}
 
 [If you get error NEWS000006, following this tutorial should fix it.](news000006)
 {: .notice--warning}
 
-[If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, please go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
+If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
 {: .notice--warning}
 
 [If you're getting a discontinued message when opening the News or Forecast Channel, then following this tutorial should fix it.](deleting-vffs)

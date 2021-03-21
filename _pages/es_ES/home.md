@@ -5,13 +5,11 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
-  cta_label: "Comenzar"
-  cta_url: "comenzando"
   caption:
 excerpt: "La guía completa para modificar tu consola Nintendo Wii."
 ---
 
-Esta guía también está disponible en otros idiomas. (Traducción al Español por Antonio231102) Para ver la página en otro idioma, por favor presiona el icono en la esquina superior derecha y elige un idioma.
+Esta guía también está disponible en otros idiomas. Para ver la página en otro idioma, por favor presiona el icono en la esquina superior derecha y elige un idioma.
 {: .notice--info}
 
 ## ¿Qué es “homebrew”?
@@ -35,10 +33,13 @@ Aquí una lista de lo que puedes hacer con Homebrew. Dado a que esta lista no qu
 - Protege tu Wii de bricks usando [Priiloader](priiloader) y BootMii.
 - Convertir tu consola en un reproductor multimedia con [WiiMC](http://www.wiimc.org/).
 
+
+## Ready?
+
 Comienza por [elegir un exploit](get-started)!
 {: .notice--info}
 
-## Más recursos
+## More Resources
 
 Estas son algunas otras fuentes y guías relacionadas con la modificación de la consola Wii que pueden ayudarte:
 

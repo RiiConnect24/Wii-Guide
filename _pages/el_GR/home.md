@@ -5,8 +5,6 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
-  cta_label: "Ξεκινώντας"
-  cta_url: "ξεκινώντας"
   caption:
 excerpt: "Ο ολοκληρομένος οδηγός για να τροποποιήσετε το Nintendo Wii σας."
 ---
@@ -35,10 +33,13 @@ excerpt: "Ο ολοκληρομένος οδηγός για να τροποπο�
 - Προστατέψτε το Wii σας από bricks χρησιμοποιόντας το [Priiloader](priiloader) και το BootMii.
 - Κάντε το Wii σας αναπαραγωγό μέσων (media player) με το [WiiMC](http://www.wiimc.org/).
 
+
+## Ready?
+
 Ξεκινήστε επιλέγοντας [την ευπάθεια](get-started)που θα χρησιμοποιείσετε!
 {: .notice--info}
 
-## Περισσότερες Πηγές
+## More Resources
 
 Υπάρχουν μερικές καλές πηγές για τροποποιήσεις Wii και για αντιμετώπιση προβλημάτων που μπορεί να βοηθήσουν:
 

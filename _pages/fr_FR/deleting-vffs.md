@@ -4,7 +4,7 @@ title: "Suppression des VFF"
 
 {% include toc title="Table des matières" %}
 
-Si vous avez besoin d'aide concernant ce tutoriel, veuillez rejoindre [le serveur Discord de RiiConnect24](https://discord.gg/b4Y7jfD) (recommandé, en anglais) ou [envoyez-nous un mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si vous avez besoin d'aide pour quoi que ce soit concernant ce didacticiel, veuillez rejoindre [ le serveur RiiConnect24 Discord ](https://discord.gg/rc24) (recommandé) ou \[ envoyez-nous un e-mail à support@riiconnect24.net \](mailto: support @ riiconnect24 .net).
 {: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
@@ -38,9 +38,9 @@ Si vous obtenez l'une de ces erreurs (et aucune autre erreur), vous devriez êtr
 1. Ouvrez WiiXplorer.
 2. Accédez à `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` puis sélectionnez `Yes` pour les deux fenêtres de dialogue qui apparaissent à l'écran.
 3. Appuyez sur "Back" (retour) jusqu'à ce que vous ayez atteint l'écran de l'explorateur de fichiers.
-4. Sélectionnez la petite icône bleue de la carte SD, puis sélectionnez ` NAND `.
-5. Accédez à ` title ` -> ` 00010002 ` -> XXXXXXXX -> ` data `, où XXXXXXXX est l'un des dossiers ci-dessus.
-6. Survolez ` wc24dl.vff `, appuyez sur le bouton + et sélectionnez `Delete `.
+4. Sélectionnez la petite icône bleue de la carte SD, puis sélectionnez `NAND`.
+5. Accédez à `title` -> `00010002` -> XXXXXXXX -> `data`, où XXXXXXXX est l'un des dossiers ci-dessus.
+6. Survolez `wc24dl.vff`, appuyez sur le bouton + et sélectionnez `Delete`.
 
 Essayez de lancer la chaîne avec laquelle vous rencontrez des problèmes.
 

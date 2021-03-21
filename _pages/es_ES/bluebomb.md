@@ -35,7 +35,7 @@ Para la Wii original, no recomendamos usar BlueBomb si tiene la intención de in
 1. Conecte la unidad flash a la consola. Para una Wii mini, el puerto USB está en la parte posterior. Para una Wii normal, usa el puerto inferior. (o la puerta de la derecha si está en posición vertical).
 1. Enciende tu consola y navega al menú de configuración. En la esquina superior derecha verá un código de 4 caracteres como el de la imagen de abajo. Este código es tu versión del menú de Wii, toma nota de esto, ya que lo necesitarás más adelante. Luego, apague su consola. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Inicie su distribución de Linux y asegúrese de estar conectado a Internet.
-1. Abre la Terminal
+1. Enciende tu consola y **no** conectes ningún Wiimote.
 1. Ejecute los siguientes comandos:
 ```bash
 wget https://wii.guide/assets/files/bluebomb-helper.sh

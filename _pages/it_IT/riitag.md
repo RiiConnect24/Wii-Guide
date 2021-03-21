@@ -4,7 +4,7 @@ title: "RiiTag su Wii"
 
 {% include toc title="Table of Contents" %}
 
-Se hai bisogno di aiuto per questo tutorial, unisciti a [il server Discord RiiConnect24 ](https://discord.gg/b4Y7jfD) (raccomandato) o [mandaci una e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 RiiTag è una gamertag dinamica e personalizzabile. Condividendo la tua gamertag (una immagine dinamica), puoi mostrare a cosa stai giocando ai tuoi amici! Connettilo a una porta USB, e il tag si aggiorna in tempo reale. Hai bisogno di un account Discord per iniziare ad usare RiiTag.
@@ -64,7 +64,7 @@ I passaggi per connettere RiiTag sul tuo USB Loader dipende da che USB Loader us
 Hai bisogno di un account Discord per farlo funzionare.
 {: .notice--info}
 
-1. [Unisciti al server Discord di RiiConnect24](https://discord.gg/b4Y7jfD) se non ci sei ancora dentro.
+1. [Join the RiiConnect24 Discord server](https://discord.gg/rc24) if you aren't already in there.
 2. Assicurati che `Mostra il gioco corrente su Discord` sia attivato nelle preferenze.
 3. Assicurati che il tuo client Discord è aperto.
 4. Gioca ad un gioco e RiiTag aggiornerà automaticamente il tag quando giochera ad un gioco.

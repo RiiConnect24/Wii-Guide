@@ -4,14 +4,14 @@ title: "Priiloader"
 
 {% include toc title="Inhaltsverzeichnis" %}
 
-Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [RiiConnect24 Discord-Server](https://discord.gg/b4Y7jfD) bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
+Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [RiiConnect24 Discord-Server](https://discord.gg/rc24) bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Priiloader fügt eine Schutzebene vor Bricks zu deiner Wii hinzu. Es lädt vor dem Wii-Menü (daher der Name). Diese Werkzeug kann auch Hacks für dein Wii-Menü aktivieren und kann genutzt werden, um den Homebrew-Kanal schnell zu starten, oder eine Homebrew, die du starten möchtest!
 
 ![Priiloader](/images/priiloader.jpg)
 
-Installiere den Priiloader nicht auf einer vWii (Wii Modus auf der Wii U). Du wirst deine vWii dadurch bricken.
+Du wirst deine vWii dadurch bricken. Installiere den Priiloader nicht auf einer vWii (Wii Modus auf der Wii U).
 {: .notice--warning}
 
 #### Voraussetzungen
@@ -21,28 +21,27 @@ Installiere den Priiloader nicht auf einer vWii (Wii Modus auf der Wii U). Du wi
 #### Anleitung
 ##### Abschnitt 1 - Herunterladen/Installieren
 
-1. Download the Priiloader installer and extract it to the `apps` folder on your SD card or USB drive.
-    * If this folder does not exist, create it.
-2. Insert your SD card or USB drive into your Wii, and launch the Priiloader installer from the Homebrew Channel.
+1. Lade den Priiloader-Installer herunter und enpacke ihn in den `apps`-Ordner deiner SD-Karte oder deines USB-Laufwerks.
+    * Fall der Ordner nicht vorhanden ist, erstelle ihn.
 
 ##### Abschnitt 2 - Priiloader installieren
 
 1. Starte den Homebrew-Kanal auf deiner Wii.
 2. Starte den Priiloader Installer.
-3. Drücke die Plus-Taste auf der Wii-Fernbedienung oder den A-Knopf auf einem GameCube-Controller. ![Install Priiloader](/images/Priiloader/2.png) ![Installing](/images/Priiloader/3.png)
+3. Drücke die Plus-Taste auf der Wii-Fernbedienung oder den A-Knopf auf einem GameCube-Controller. ![Installiere Priiloader](/images/Priiloader/installer.png) ![Installiere](/images/Priiloader/installing.png)
 
 ##### Abschnitt 3 - Öffnen/Konfigurieren von Priiloader
 
-1. Hold the RESET button while turning on your Wii.
-    * If you are using a Wii mini, plug in a USB keyboard and hold escape while turning it on
+1. Halte den RESET-Knopf gedrückt während du deine Wii einschaltest.
+    * Wenn du eine Wii mini verwendest, schliesse eine USB-Tastatur an und halte die Escape-Taste gedrückt, während du die Konsole einschaltest
 
-![Turn on](/images/Priiloader/5.jpg) ![Halte RESET gedrückt](/images/Priiloader/4.jpg)
+![Einschalten](/images/Priiloader/on.jpg) ![Halte RESET gedrückt](/images/Priiloader/reset.jpg)
 
-2. You should see the Priiloader menu. ![Menü](/images/Priiloader/6.png)
-3. Go to `System Menu Hacks`.
-4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/7.png)
-1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
-1. Scroll to `Homebrew Channel` and press A to launch it.
+2. Du solltest nun das Priiloader-Menü sehen.![Menü](/images/Priiloader/mainmenu.png)
+3. Gehe zu `System Menu Hacks`.
+4. Wir empfehlen das aktivieren der folgenden Hacks: `Region Free EVERYTHING`, `Block Disc Updates` und `Block Online Updates`. ![System-Menü-Hacks](/images/Priiloader/hacks.png)
+1. Scrolle herunter zu `save settings` und drücke A, anschliessend drücke B und gehe zurück ins Hauptmenü von Priiloader.
+1. Scrolle zu `Homebrew Channel` und drücke A um ihn zu starten.
 
 ## Liste der System-Menü-Hacks
 
@@ -50,15 +49,15 @@ Dies ist eine Liste von Hacks, die du mit Priiloader aktivieren kannst.
 
 | Hack                                    | Beschreibung                                                                                                                                                                          |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Block Disc Updates                      | Removes the "Wii System Update" screen included with some games that forces you to update the system to play the game.                                                                |
-| Block Online Updates                    | Disables updating your Wii. Updates will fail with error 32007.                                                                                                                       |
-| Auto-Press A at Health Screen           | Automatically presses the A Button to get past the "Health and Safety" screen.                                                                                                        |
-| Replace Health Screen with Backmenu     | Changes the "Health and Safety" screen to the animation played when returning to the Wii menu.                                                                                        |
-| Move Disc Channel                       | Enables moving the Disc Channel anywhere on the Wii Menu. It's normally stuck in the top left of the first page.                                                                      |
-| Wiimmfi Patch v2                        | Automatically patches all games you run from the Disc Channel for use with Wiimmfi                                                                                                    |
-| 480p graphics fix in system menu        | Fixes a small issue with 480p on the Wii Menu.                                                                                                                                        |
-| Remove NoCopy Save File Protection      | Allows you to copy normally disallowed save files to your SD card from data management                                                                                                |
-| Region Free EVERYTHING                  | Disables region locking for any Wii application, including downloaded ones.                                                                                                           |
+| Block Disc Updates                      | Entfernt den "Wii System-Update"-Bildschirm welcher dich in einigen Spielen dazu auffordert, ein Systemupdate durchzuführen um das Spiel zu spielen.                                  |
+| Block Online Updates                    | Deaktiviert die Update-Funktion deiner Wii. Updates werden mit 32007 fehlschlagen.                                                                                                    |
+| Auto-Press A at Health Screen           | Drückt automatisch den A-Knopf um den "Gesundheits- und Sicherheitshinweise"-Bildschirm zu überspringen.                                                                              |
+| Replace Health Screen with Backmenu     | Tauscht den "Gesundheits- und Sicherheitshinweise"-Bildschirm gegen die Animation aus, wenn du in das Wii-Menü zurückkehrst.                                                          |
+| Move Disc Channel                       | Erlaubt das platzieren des Disc-Kanals überall im Wii-Menü. Er befindet sich normalerweise an fester Position oben links auf der ersten Seite.                                        |
+| Wiimmfi Patch v3                        | Aktualisiert automatisch alle Spiele welche du im Disc-Kanal startest um sie mit Wiimmfi nutzen zu können                                                                             |
+| 480p graphics fix in system menu        | Behebt einen kleinen Fehler des 480p-Modus im Wii-Menü.                                                                                                                               |
+| Remove NoCopy Save File Protection      | Erlaubt es dir, normalerweise gesperrte Speicherdateien aus der Datenverwaltung auf deine SD-Karte zu kopieren                                                                        |
+| Region Free EVERYTHING                  | Deaktiviert die Regionssperre für alle Wii-Anwendungen, inklusive der Heruntergeladenen.                                                                                              |
 | Region Free GC Games (No VM Patch)      | Deaktiviert die Regionalsperre für GameCube-Discs.                                                                                                                                    |
 | Region Free Wii Games                   | Deaktiviert die Regionalsperre für Wii-Discs.                                                                                                                                         |
 | Region Free Channels                    | Deaktiviert die Regionalsperre für installierte Kanäle                                                                                                                                |

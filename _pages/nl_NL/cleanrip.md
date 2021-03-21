@@ -7,7 +7,7 @@ title: "CleanRip"
 Als u hulp nodig heeft bij iets wat met deze tutorial te maken heeft, sluit u dan aan bij [de RiiConnect24 Discord server](https://discord.gg/b4Y7jfD) (aanbevolen) of [e-mail ons via support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Wilt u een back-up maken van uw spellen? In deze tutorial wordt het woord "dumpen" gebruikt om aan te duiden dat u een back-up van uw fysieke cd-rom maakt. Deze tutorial zal u uitleggen hoe CleanRip werkt.
+Wilt u een back-up maken van uw spellen? Deze tutorial zal u uitleggen hoe CleanRip werkt.
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
