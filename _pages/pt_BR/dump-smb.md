@@ -1,22 +1,13 @@
 ---
-title: "Extraindo um jogo via rede local"
+title: "Dumping Wii/GameCube games over local network"
 ---
-
-{% include toc title="Sumário" %}
-
-Caso precise de ajuda com este tutorial, entre [no servidor do RiiConnect24 no Discord](https://discord.gg/b4Y7jfD) (recomendado) ou [envie um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: .notice--info}
-
-Deseja fazer backup de jogos através da sua rede local? Siga esse tutorial! Ele pode ser útil caso não tenha um cartão SD ou dispositivo USB com espaço livre suficiente.
-
-![Logo RiiConnect24](/images/WiiRC24Logo.jpg)
 
 #### Você precisará de
 
 * Um Wii.
 * [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
 
-Seu Wii e seu computador devem estar conectados à mesma rede local
+Your Wii and your computer must be connected to one local network
 {: .notice--warning}
 
 #### Instruções
