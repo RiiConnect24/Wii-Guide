@@ -28,18 +28,18 @@ Priiloader proporciona un nivel adicional de protección contra bricks a tu cons
 
 1. Inicia el Canal Homebrew en tu Wii.
 2. Lanza el instalador de Priiloader.
-3. Presiona el botón + en tu Wiimote o el botón A en un control de GameCube. ![Menú principal](/images/Priiloader/2.png) ![Actualizando Priiloader](/images/Priiloader/3.png)
+3. Presiona el botón + en tu Wiimote o el botón A en un control de GameCube. ![Menú principal](/images/Priiloader/installer.png) ![Actualizando Priiloader](/images/Priiloader/installing.png)
 
 ##### Sección III - Configurando Priiloader
 
 1. Sostén el botón RESET cuando enciendas tu Wii.
     * Si estás usando una Wii mini, conecta un teclado USB y sostén Escape cuando la enciendas.
 
-![Encender](/images/Priiloader/5.jpg) ![Mantener RESET](/images/Priiloader/4.jpg)
+![Encender](/images/Priiloader/on.jpg) ![Mantener RESET](/images/Priiloader/reset.jpg)
 
-2. Deberías ver el menú de Priiloader. ![Menú](/images/Priiloader/6.png)
+2. Deberías ver el menú de Priiloader. ![Menú](/images/Priiloader/mainmenu.png)
 3. Ve a `System Menu Hacks`.
-4. Recomendamos que actives los siguientes trucos: `Region Free EVERYTHING`, `Block Disc Updates` y `Block Online Updates`. ![Hacks del menú del sistema](/images/Priiloader/7.png)
+4. Recomendamos que actives los siguientes trucos: `Region Free EVERYTHING`, `Block Disc Updates` y `Block Online Updates`. ![Hacks del menú del sistema](/images/Priiloader/hacks.png)
 1. Baja hasta el botón `save settings` y presiona A, y presiona B para volver al menú principal de Priiloader.
 1. Baje hasta el botón `Canal Homebrew` y presione A para ejecutarlo.
 
