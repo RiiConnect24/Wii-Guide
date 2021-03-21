@@ -4,7 +4,7 @@ title: "Priiloader"
 
 {% include toc title="Table of Contents" %}
 
-Εάν χρειάζεστε οποιαδήποτε βοήθεια όσο αφορά αυτόν τον οδηγό, παρακαλώ μπείτε στον [ RiiConnect24 διακομιστή Discord](https://discord.gg/b4Y7jfD) (συνιστάται) ή[στείλτε μας e-mail στο support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Το Priiloader προσθέτει ένα επίπεδο ασφαλείας στο Wii σας. Ανοίγει πριν ανοίξει το Μενού του Wii (ως εκ τούτου και το όνομα). Αυτό το εργαλείο ενεργοποιεί επίσης χακ για το Μενού του Wii σας, και μπορεί να χρησιμοποιηθεί για να ανοίξετε γρήγορα το Κανάλι Homebrew, το BootMii, ή οποιαδήποτε homebrew θέλετε!
@@ -23,24 +23,23 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). Θα κάνετε b
 
 1. Download the Priiloader installer and extract it to the `apps` folder on your SD card or USB drive.
     * If this folder does not exist, create it.
-2. Insert your SD card or USB drive into your Wii, and launch the Priiloader installer from the Homebrew Channel.
 
 ##### Μέρος II - Εγκαθιστώντας το Priiloader
 
 1. Ανοίξτε το κανάλι Internet στο Wii σας.
 2. Launch the Priiloader installer.
-3. Πατήστε το Κουμπί + στο Χειριστήριο του Wii ή το A στο χειριστήριο GameCube. ![Εγκαταστήστε το Priiloader](/images/Priiloader/2.png) ![Εγκαθιστώντας](/images/Priiloader/3.png)
+3. Πατήστε το Κουμπί + στο Χειριστήριο του Wii ή το A στο χειριστήριο GameCube. ![Εγκαταστήστε το Priiloader](/images/Priiloader/installer.png) ![Εγκαθιστώντας](/images/Priiloader/installing.png)
 
 ##### Μέρος II I - Είσοδος/Ρυθμίζοντας το Priiloader
 
 1. Hold the RESET button while turning on your Wii.
     * If you are using a Wii mini, plug in a USB keyboard and hold escape while turning it on
 
-![Turn on](/images/Priiloader/5.jpg) ![Hold RESET](/images/Priiloader/4.jpg)
+![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
 
-2. You should see the Priiloader menu. ![Menu](/images/Priiloader/6.png)
+2. You should see the Priiloader menu. ![Menu](/images/Priiloader/mainmenu.png)
 3. Go to `System Menu Hacks`.
-4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/7.png)
+4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
 1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
 1. Scroll to `Homebrew Channel` and press A to launch it.
 
@@ -55,7 +54,7 @@ This is a list of the hacks you can enable with Priiloader.
 | Auto-Press A at Health Screen           | Automatically presses the A Button to get past the "Health and Safety" screen.                                                          |
 | Replace Health Screen with Backmenu     | Changes the "Health and Safety" screen to the animation played when returning to the Wii menu.                                          |
 | Move Disc Channel                       | Enables moving the Disc Channel anywhere on the Wii Menu. It's normally stuck in the top left of the first page.                        |
-| Wiimmfi Patch v2                        | Automatically patches all games you run from the Disc Channel for use with Wiimmfi                                                      |
+| Wiimmfi Patch v3                        | Automatically patches all games you run from the Disc Channel for use with Wiimmfi                                                      |
 | 480p graphics fix in system menu        | Fixes a small issue with 480p on the Wii Menu.                                                                                          |
 | Remove NoCopy Save File Protection      | Allows you to copy normally disallowed save files to your SD card from data management                                                  |
 | Region Free EVERYTHING                  | Disables region locking for any Wii application, including downloaded ones.                                                             |

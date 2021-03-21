@@ -2,7 +2,7 @@
 title: "Canale Open Shop (Hombrew Browser)"
 ---
 
-Se hai bisogno di aiuto per questo tutorial, vai sul [server Discord RiiConnect24](https://discord.gg/b4Y7jfD) (raccomandato, solo in inglese) oppure [scrivi una e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the Open Shop Channel](https://discord.gg/osc) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Il canale [Open Shop](https://oscwii.org/) è dove puoi andare per ottenere apps hombrew. Questo è un progetto di rinascita per un'applicazione chiamata Hombrew Browser.

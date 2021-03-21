@@ -4,7 +4,7 @@ title: "Αντίγραφο ασφαλείας με το BootMii"
 
 {% include toc title="Table of Contents" %}
 
-Αν χρειάζεστε βοήθεια με οτιδήποτε σχετικά με αυτό τον οδηγό, επισκεφθείτε [το RiiConnect24 Discord](https://discord.gg/b4Y7jfD) (προτείνεται) ή [στείλτε μαε e-mail στο support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![BootMii Logo](/images/bootmii.png)
@@ -12,17 +12,22 @@ title: "Αντίγραφο ασφαλείας με το BootMii"
 Χρειάζεστε μια**κάρτα SD**για να κάνετε αντίγραφο ασφαλείας με το BootMii. Αν δεν έχετε ένα, μπορείτε να προσπεράσετε αυτήν τη σελίδα, αλλά συνηστάται να κάνετε ένα αν μπορείτε.
 {: .notice--warning}
 
-Μία από τις πιο σημαντικές δυνατότητες το BootMii είναι η ικανότητα αποθήκευσης και επαναφοράς αντιγράφου ασφαλείας του αποθηκευτικού χώρου του Wii. Θα σας εξηγήσουμε πώς να κάνετε τέτοιο αντίγραφο ασφαλείας. Αργότερα μπορείτε να επαναφέρετε αυτό το αντίγραφο για οποιοδήποτε λόγο. Προτείνουμε να δημιουργείτε αντίγραφα NAND τακτικά ή πριν κάνετε κάποια επικίνδυνη αλλαγή στην κονσόλα σας (και αν ξέρετε τι κάνετε, δεν θα χρειαστεί να κάνετε κάποια επικίνδυνη αλλαγή).
+Μία από τις πιο σημαντικές δυνατότητες το BootMii είναι η ικανότητα αποθήκευσης και επαναφοράς αντιγράφου ασφαλείας του αποθηκευτικού χώρου του Wii. Θα σας εξηγήσουμε πώς να κάνετε τέτοιο αντίγραφο ασφαλείας. Αργότερα μπορείτε να επαναφέρετε αυτό το αντίγραφο για οποιοδήποτε λόγο. It's a good idea to make a NAND backup regularly or before doing something risky to your console (and if you know what you're doing, you won't have to do anything risky).
 
 #### Απαιτήσεις
 * Μία κάρτα SD με τουλάχιστον 512MB ελεύθερου χώρου
 
 #### Οδηγίες
-Αν εγκαταστήσατε το BootMii ως boot2 στο προηγούμενο βήμα, θα χρειαστεί να ξεκινήσετε το BootMii επανεκκινώντας την κονσόλα. Προσπεράστε τα βήματα 1-2 αν αυτό ισχύει.
-{: .notice--info}
 1. Ξεκινήστε το Homebrew Channel.
 2. Πατήστε το πλήκτρο HOME, και επιλέξτε "Εκκίνηση BootMii".
-   - Η πλοήγηση στο BootMii δεν είναι δυνατή με τη χρήση χειριστηρίου Wii. Πρέπει ή να χρησιμοποιήσετε τα πλήκτρα POWER και RESET στην κονσόλα σας ή ένα χειριστήριο GameCube συνδεδεμένο στην θύρα 1. Για να πλοηγηθείτε μεταξύ επιλογών, πατήστε το κουμπί POWER στο Wii σας (ή το δεξί +Σταυρό Ελέγχου στο χειριστήριο GameCube). Για να επιλέξετε μία επιλογή, πατήστε RESET στο Wii σας ή Α στο χειριστήριο GameCube.
+
+    Navigating BootMii is not possible using a Wii remote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. To navigate between options, press POWER on your Wii (or the right +Control Pad button on a GameCube controller). To select an option, hit RESET on your Wii or A on your GameCube controller.
+    {: .notice--info}
+
+
+    If the screen stays black and the blue disc drive light is blinking, you are missing the BootMii files on your SD card. Download [this zip](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
+    {: .notice--warning}
+
 3. Επιλέξτε το μενού Επιλογές (αυτό με τα γρανάζια).
 4. Επιλέξτε το μενού BackupMii (αυτό με το πράσινο βέλος).
 - Το αντίγραφο ασφαλείας της μνήμης NAND θα ξεκινήσει. Μπορείτε να δείτε την πρόοδο στην οθόνη.
@@ -31,8 +36,11 @@ title: "Αντίγραφο ασφαλείας με το BootMii"
 5. Όταν το αντίγραφο ολοκληρωθεί, βγείτε από την οθόνη αντιγράφου ασφαλείας πατώντας οποιοδήποτε κουμπί.
 6. Για να βγείτε από το BootMii, επιλέξτε την επιλογή Πίσω (αυτή με το βέλος) και ύστερα μπορείτε να επιλέξετε είτε την επιλογή Μενού Wii ή την επιλογή Homebrew Channel για να επιστρέψετε εκεί που επιθυμείτε.
 
-Για να επαναφέρετε ένα αντίγραφο ασφαλείας NAND από την κάρτα SD σας, μπορείτε να ακολουθήσετε αυτές τις οδηγίές χρησιμοποιώντας το RestoreMii (η επιλογή δίπλα στο BackupMii με το κόκκινο βέλος).
-{: .notice--info}
 
-[Συνεχίστε στην εγκατάσταση του Priiloader](priiloader) Το Priiloader προσθέτει ένα επίπεδο προστασίας από καταστροφές και το προτείνουμε, ειδικά αν εγκαταστήσατε το BootMii μόνο ως IOS.
+<!---
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
+{: .notice--info}
+-->
+
+[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
 {: .notice--info}

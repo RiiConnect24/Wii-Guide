@@ -1,5 +1,5 @@
 ---
-title: "dx2xl cIOS per Wii mini (fase sperimentale)"
+title: "dx2xl cIOS per Wii mini (sperimentale)"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -21,7 +21,7 @@ Questo d2x cIOS Installer è stato originariamente creato per la Wii virtuale de
 
 * Una Wii mini con l'Homebrew Channel installato
 * Un dispositivo USB
-* Leseratte's [d2xl cIOS Installer](/assets/files/d2xl_wii_mini_cIOS_installer_v1_beta2.zip)
+* [d2xl cIOS Installer](/assets/files/d2xl_wii_mini_cIOS_installer_v1_beta2.zip), di Leseratte
 
 #### Istruzioni
 

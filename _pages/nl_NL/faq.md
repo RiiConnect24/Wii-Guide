@@ -8,12 +8,12 @@ title: "FAQ"
 Bricks (de staat van uw Wii wanneer een deel van uw Wii of de volledige Wii niet meer werkt) zijn in deze tijden *eigenlijk* onmogelijk tenzij u veiligheidsapplicaties niet installeert en / of de tutorial niet goed volgt.
 
 ### Waar kan ik naar toe voor hulp?
-U kunt ons e-mailen via support@riiconnect24.net (In het engels) of onze [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD) joinen (ook in het engels).
+Either email us at support@riiconnect24.net or join the [RiiConnect24 Discord Server](https://discord.gg/rc24).
 
 ### Wat zijn SD-kaart vereisten en / of aanraders?
 U zult een SD-kaart nodig hebben met tenminste 128 MB ruimte om een exploit te kunnen gebruiken.
 
-- If you are using the BlueBomb exploit, you do not need an SD card
+- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card
 
 Om homebrew applicaties op uw Wii te kunnen gebruiken raden bij een SD-kaart aan van tenminste 2 GB.
 

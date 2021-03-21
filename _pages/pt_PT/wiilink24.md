@@ -13,24 +13,24 @@ WiiLink24 e todos os outros serviços (como o Wii no Ma) não são controlados o
 
 * Um cartão SD ou USB drive
 * Uma Wii com conexão à Internet
-* A Windows or Unix based computer
+* Um computador baseado em Windows ou Unix
 * [WiiLink24 Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
 #### Instruções
 
-##### Section I - Patching Wii no Ma
+##### Secção I - Patch em Wii no Ma
 
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+[Se quiseres ver instruções detalhadas de como instalar os WADs, clica aqui!](wiimodlite)
 {: .notice--info}
 
-1. Descarrega os ficheiros necessários baseados no teu SO. On Windows, run `WiiLink24Patcher.bat`. On Unix systems, launch terminal and type sh, then drag the `WiiLink24Patcher.sh` into the terminal and press enter.
-2. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`.
-3. For this guide, choose "`Install WiiLink24 on your Wii`"
-4. Select your region.
-5. Connect the SD Card or USB Drive to your computer and select "`1`".
-6. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
-7. Be patient...
-8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
+1. Descarrega os ficheiros necessários baseados no teu SO. No Windows, executa o `WiiLink24Patcher.bat`. Em sistemas Unix, abre o terminal e escreve sh, depois arrasta o `WiiLink24Patcher.sh` para o terminal e pressiona enter.
+2. Pressiona 1 para escolher "`Start`" e confirma a tua seleção pressionando `ENTER`.
+3. Para este guia, escolhe "`Install WiiLink24 on your Wii`"
+4. Seleciona a tua região.
+5. Conecta o cartão SD ou USB Drive ao teu computador e seleciona "`1`".
+6. Se o teu dispositivo foi detetado com sucesso, seleciona "`1`". Se não, verifica se tens uma pasta chamada `apps` no teu Cartão SD ou dispositivo USB e tenta novamente.
+7. Sê paciente...
+8. Depois de estar completo, tu podes fechar o patcher com segurança. Todos os ficheiros estão prontos no teu Cartão SD.
 9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLink24Patcher.bat` to your SD Card or USB Device.
 10. Put your SD card or USB drive in your Wii.
 11. Abre o Homebrew Channel na tua Wii.
@@ -40,10 +40,13 @@ WiiLink24 e todos os outros serviços (como o Wii no Ma) não são controlados o
 15. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 16. Launch Wii no Ma and enjoy!
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
+For PAL(European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
 {: .notice--info}
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+[Continua para o RiiConnect24](riiconnect24)<br> O RiiConnect24 permite-te usar serviços do WiiConnect24 que estão descontinuados, incluindo o News, Forecast, Everybody Votes, Nintendo e o Check Mii Out Channel, juntamnete com o Wii Mail. Isto é opcional para instalares.
+{: .notice--info}
+
+[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. Isto é opcional para instalares.
 {: .notice--info}
 
 [Continua para a navegação do site](site-navigation)<br> Nós temos mais outros tutoriais que poderás gostar.

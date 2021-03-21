@@ -4,7 +4,7 @@ title: "Priiloader"
 
 {% include toc title="Table des matières" %}
 
-Si vous avez besoin d'aide concernant ce tutoriel, veuillez rejoindre [le serveur Discord de RiiConnect24](https://discord.gg/b4Y7jfD) (recommandé, en anglais) ou [envoyez-nous un mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si vous avez besoin d'aide pour quoi que ce soit concernant ce didacticiel, veuillez rejoindre [ le serveur RiiConnect24 Discord ](https://discord.gg/rc24) (recommandé) ou [ envoyez-nous un e-mail à support@riiconnect24.net ](mailto: support @ riiconnect24 .net).
 {: .notice--info}
 
 Priiloader ajoute une couche de protection contre le brick à votre Wii. Il se lance avant le Menu Wii (d'où son nom). L'outil peut aussi activer des hacks pour votre Menu Wii, et peut être utilisé pour lancer rapidement Homebrew Channel, BootMii, ou n'importe quel homebrew de votre choix !
@@ -23,25 +23,24 @@ N'installez ** pas ** Priiloader sur une vWii (mode Wii sur Wii U). Cela se trad
 
 1. Téléchargez Priiloader et décompressez-le dans le dossier `apps` de votre carte SD ou périphérique USB.
     * Si ce dossier n'existe pas, créez-le.
-2. Insérez votre carte SD ou périphérique USB dans votre Wii, et lancez Priiloader depuis Homebrew Channel.
 
 ##### Section II - Installation de Priiloader
 
 1. Lancez la Chaîne Homebrew sur votre Wii.
 2. Lancez le programme d'installation de Priiloader.
-3. Appuyez sur le bouton + sur votre télécommande Wii ou le bouton A sur une manette de GameCube.![Install Priiloader](/images/Priiloader/2.png) ![Installing](/images/Priiloader/3.png)
+3. Appuyez sur le bouton + sur votre télécommande Wii ou le bouton A sur une manette de GameCube.![Install Priiloader](/images/Priiloader/installer.png) ![Installing](/images/Priiloader/installing.png)
 
 ##### Section III - Configuration de Priiloader
 
 1. Maintenez le bouton RESET enfoncé tout en allumant votre Wii.
     * : Si vous utilisez une Wii Mini, branchez un clavier USB et maintenez la touche Échap tout en l'allumant
 
-![Turn on](/images/Priiloader/5.jpg) ![Hold RESET](/images/Priiloader/4.jpg)
+![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
 
-2. Vous devriez voir le menu Priiloader. ![Menu](/images/Priiloader/6.png)
+2. Vous devriez voir le menu Priiloader. ![Menu](/images/Priiloader/mainmenu.png)
 3. Accédez à ` System Menu Hack `.
 4. Nous vous recommandons d'activer les hacks suivants: `Region Free EVERYTHING` , `Block Disc Updates` et `Block Online Updates<code>.
-<img src="/images/Priiloader/7.png" alt="System Menu Hacks" /></p></li>
+<img src="/images/Priiloader/hacks.png" alt="System Menu Hacks" /></p></li>
 <li><p spaces-before="0">Défilez jusqu'à <code>save settings` et appuyez sur A, ensuite appuyez sur B pour revenir au menu principal de Priiloader.
 1. Défilez jusqu'à `Homebrew Channel` et appuyez sur A pour le lancer.
 
@@ -56,7 +55,7 @@ Voici la liste des hacks que vous pouvez activer avec Priiloader.
 | Auto-Press A at Health Screen           | Appuie automatiquement sur le bouton A pour passer l'écran "Santé et Sécurité" au démarrage.                                                                                            |
 | Replace Health Screen with Backmenu     | Remplace l'écran "Santé et Sécurité" par l'animation de retour au Menu Wii.                                                                                                             |
 | Move Disc Channel                       | Autorise le déplacement de la Chaîne Disque n'importe où sur le Menu Wii. Elle est normalement verrouillée dans la case en haut à gauche sur la première page.                          |
-| Wiimmfi Patch v2                        | Corrige automatiquement tous les jeux que vous exécutez à partir de Disc Channel pour une utilisation avec Wiimmfi                                                                      |
+| Wiimmfi Patch v3                        | Corrige automatiquement tous les jeux que vous exécutez à partir de Disc Channel pour une utilisation avec Wiimmfi                                                                      |
 | 480p graphics fix in system menu        | Corrige un petit problème avec l'affichage 480p sur le Menu Wii.                                                                                                                        |
 | Remove NoCopy Save File Protection      | Vous autorise à copier des fichiers de sauvegarde protégés sur votre carte SD depuis le menu de gestion des données                                                                     |
 | Region Free EVERYTHING                  | Désactive le verrouillage de région pour toutes les applications Wii, y compris les logiciels téléchargés.                                                                              |

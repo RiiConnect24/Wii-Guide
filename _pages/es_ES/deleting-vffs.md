@@ -4,7 +4,7 @@ title: "Eliminando VFFs"
 
 {% include toc title="Table of Contents" %}
 
-Si necesitas ayudar con este tutorial, por favor continúe al [RiiConnect24 Discord](https://discord.gg/b4Y7jfD) (recomendado) o [Envíanos un correo electrónico a support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)

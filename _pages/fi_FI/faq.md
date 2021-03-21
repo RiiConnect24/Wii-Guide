@@ -8,12 +8,12 @@ title: "FAQ"
 Brickit (tila, jossa joko jotkin osat Wiisi ohjelmistoista eivät toimi, tai Wiisi ei toimi ollenkaan) ovat nykyään *käytännössä* mahdottomia, paitsi jos jätät huomiotta/kierrät kaikki turvallisuusvarmistukset.
 
 ### Mistä saan apua?
-Joko lähetä meille sähköpostia osoitteeseen support@riiconnect24.net tai liity [RiiConnect24 -Discord-palvelimelle](https://discord.gg/b4Y7jfD).
+Either email us at support@riiconnect24.net or join the [RiiConnect24 Discord Server](https://discord.gg/rc24).
 
 ### Mitkä ovat SD-korttivaatimukset ja/tai suositukset?
 Tarvitset SD-kortin, jolla on vähintään 128 Mt tilaa suorittaaksesi exploitin.
 
-- Jos käytät BlueBomb-exploitia, et tarvitse SD-korttia
+- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card
 
 Homebrew-ohjelmien varastoimiseen suosittelemme SD-korttia, jolla on vähintään 2 Gt tilaa.
 

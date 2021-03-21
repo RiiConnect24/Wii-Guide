@@ -30,7 +30,7 @@ sitemap: false
 
 **Modificación 101**
 + [BlueBomb](bluebomb)
-* [Respaldo de BootMii](bootmii)
+* [Hacer copia de seguridad con BootMii](bootmii)
 + [Instalar cIOS](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)

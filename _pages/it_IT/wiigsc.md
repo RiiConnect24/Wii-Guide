@@ -4,7 +4,7 @@ title: "Creare Shortcuts per giochi Wii"
 
 {% include toc title="Table of Contents" %}
 
-Se ti serve aiuto riguardo questa guida, entra nel [server Discord di RiiConnect24](https://discord.gg/b4Y7jfD) (consigliato, solo in inglese) o [mandaci una e-mail a support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Hai un USB Loader e vuoi creare scorciatoie dei giochi da avviare dal Menù Wii? Se sì, prova WiiGSC (Wii Game Shortcut Creator), prima chiamatosi Crap.
