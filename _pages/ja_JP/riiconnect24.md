@@ -47,14 +47,14 @@ If you still can't run RiiConnect24 Patcher, please send us a mail at support@ri
 [詳しいWADのインストールし方指示が見たいだったら、ここでクリクしてください。](wiimodlite)
 {: .notice--info}
 
-1. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open terminal and type `bash`, then drag `RiiConnect24Patcher.sh`into the terminal then press enter. It should look like this `bash RiiConnect24Patcher.sh`.
+1. On Windows run `RiiConnect24Patcher.bat`. It should look like this `bash RiiConnect24Patcher.sh`. On Unix systems, open terminal and type `bash`, then drag `RiiConnect24Patcher.sh`into the terminal then press enter.
 2. 「`Start`」を選ぶために`1`を押してから、`ENTER`を押して。 ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.PNG)
 3. Select the device you're patching for. ![Select your device](/images/RC24_Patcher/2.PNG)
 4. For this guide, choose "`Install RiiConnect24 on your Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.PNG)
 5. Choose "`Express (Recommended)`". It will give you everything you need. ![Express Settings](/images/RC24_Patcher/4.PNG)
 6. Select your region. ![Select your region](/images/RC24_Patcher/5.PNG)
 7. SDカードまたはUSBドライブを入れて、「`1`」を選んで。 ![Enable copying to SD Card](/images/RC24_Patcher/6.PNG)
-8. デバイスの検出は効果的だ時、「`1`」を選んで 効果的ではない時、SDカードまたはUSBドライブで`apps`というフォルダーがある確かめてから、も一度試みて。 ![Successfully detected](/images/RC24_Patcher/7.PNG)
+8. デバイスの検出は効果的だ時、「`1`」を選んで デバイスの検出は効果的だ時、「`1`」を選んで 効果的ではない時、SDカードまたはUSBドライブで`apps`というフォルダーがある確かめてから、も一度試みて。 ![Successfully detected](/images/RC24_Patcher/7.PNG)
 9. Be patient... ![It's patching!](/images/RC24_Patcher/8.PNG)
 10. Once it's done, you can now safely close the patcher. SDカードで全部のファイルは整う。 ![It's done!](/images/RC24_Patcher/9.PNG) ![Files copied](/images/RC24_Patcher/10.PNG)
 11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
