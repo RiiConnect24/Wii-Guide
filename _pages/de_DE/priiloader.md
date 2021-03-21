@@ -11,7 +11,7 @@ Priiloader fügt eine Schutzebene vor Bricks zu deiner Wii hinzu. Es lädt vor d
 
 ![Priiloader](/images/priiloader.jpg)
 
-Installiere den Priiloader nicht auf einer vWii (Wii Modus auf der Wii U). Du wirst deine vWii dadurch bricken.
+Du wirst deine vWii dadurch bricken. Installiere den Priiloader nicht auf einer vWii (Wii Modus auf der Wii U).
 {: .notice--warning}
 
 #### Voraussetzungen
