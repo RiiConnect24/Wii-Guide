@@ -5,8 +5,6 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
-  cta_label: "Wprowadzenie"
-  cta_url: "get-started"
   caption:
 excerpt: "Wszystko w pigułce o modowaniu Twojej konsoli Nintendo Wii."
 ---
@@ -35,10 +33,13 @@ Here's a list of things you can do using homebrew. While this list is by no mean
 - Broń swoje Wii przed brickami korzystając z [Priiloader'a](priiloader) oraz BootMii.
 - Przeistocz swoje Wii w odtwarzacz multimedialny korzystając z [WiiMC](http://www.wiimc.org/).
 
+
+## Ready?
+
 Rozpocznijmy od [wybrania exploitu](get-started)!
 {: .notice--info}
 
-## Więcej zasobów
+## More Resources
 
 Istnieje również wiele innych zasobów zawierające poradniki dotyczące przerabiania Wii oraz naprawiania problemów:
 
