@@ -5,8 +5,6 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
-  cta_label: "Iniziare"
-  cta_url: "iniziare"
   caption:
 excerpt: "La guida completa per moddare la tua Nintendo Wii."
 ---
@@ -35,10 +33,13 @@ Ecco una lista di cosa che puoi fare usando gli homebrew. Anche se questo elenco
 - Proteggi la tua Wii dal brick usando [Priiloader](priiloader) e BootMii.
 - Trasforma la tua Wii in un video riproduttore con [WiiMC](http://www.wiimc.org/).
 
+
+## Ready?
+
 Puoi iniziare [scegliendo il tuo exploit](get-started)!
 {: .notice--info}
 
-## Altre risorse
+## More Resources
 
 Ci sono anche altre buone risorse per moddare Wii e soluzioni a problemi vari:
 
