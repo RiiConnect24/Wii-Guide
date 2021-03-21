@@ -8,7 +8,7 @@ Esta guía te ayudará a instalar los cIOS (IOS personalizados). Esto es necesar
 
 ![d2x cIOS Installer](/images/cios/cIOS.png)
 
-Si tienes un Wii mini, por favor instala [estos cIOS](cios-mini). Intentar instalar cualquier otro cIOS en un Wii mini no funcionará.
+Intentar instalar cualquier otro cIOS en un Wii mini no funcionará. Si tienes un Wii mini, por favor instala [estos cIOS](cios-mini).
 {: .notice--info}
 
 #### Requisitos
@@ -63,6 +63,7 @@ La mayoría de los juegos deberían funcionar con la configuración por defecto,
 * Jugando Spongebob's Boating Bash.
 
 Una lista de juegos (sólo disponible en inglés) que requieren un cIOS específico (lista aún incompleta) puede encontrarse [**aquí**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br>Para cambiar los cIOS para un juego en específico, sigue estos pasos
+{% endcapture %}
 <div class="notice--warning">{{ bruh | markdownify }}</div>
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'usbloadergx')">USB Loader GX</button>
