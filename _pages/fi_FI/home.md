@@ -5,8 +5,6 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
-  cta_label: "Aloita"
-  cta_url: "get-started"
   caption:
 excerpt: "Täydellinen opas Nintendo Wii:si modaamiseen."
 ---
@@ -35,10 +33,13 @@ Tässä on lista asioista, joita voit tehdä käyttämällä homebrew:ta. Vaikka
 - Suojaa Wii:täsi muuttumasta tiiliskiveksi [Priiloader](priiloader):n ja BootMii:n avulla.
 - Muuta Wii:si mediasoittimeksi [WiiMC](http://www.wiimc.org/):n avulla.
 
+
+## Ready?
+
 Aloita [valitsemalla exploit:isi](get-started)!
 {: .notice--info}
 
-## Lisää Resursseja
+## More Resources
 
 Wii:n modaamiseen ja ongelmanratkaisuun on myös olemassa muutamia muita hyviä resursseja, jotka voivat auttaa:
 
