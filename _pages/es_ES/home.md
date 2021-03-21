@@ -11,7 +11,7 @@ header:
 excerpt: "La guía completa para modificar tu consola Nintendo Wii."
 ---
 
-Esta guía también está disponible en otros idiomas. (Traducción al Español por Antonio231102) Para ver la página en otro idioma, por favor presiona el icono en la esquina superior derecha y elige un idioma.
+Esta guía también está disponible en otros idiomas. Para ver la página en otro idioma, por favor presiona el icono en la esquina superior derecha y elige un idioma.
 {: .notice--info}
 
 ## ¿Qué es “homebrew”?
