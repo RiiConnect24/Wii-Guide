@@ -1,15 +1,6 @@
 ---
-title: "Dumping a game over a local network"
+title: "Dumping Wii/GameCube games over local network"
 ---
-
-{% include toc title="Table of Contents" %}
-
-Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiConnect24:n Discord-palvelimelle](https://discord.gg/b4Y7jfD) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: .notice--info}
-
-Do you want to dump games through your local network? Follow this tutorial! This can be useful if you don't have an SD card or a USB drive that is large enough to dump a game to.
-
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
 #### Mitä tarvitset
 
