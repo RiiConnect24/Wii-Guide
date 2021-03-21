@@ -110,7 +110,7 @@ Si te aparece el error 107245, entonces es probable que no hayas parcheado tus I
 Si por otra parte recibes el error 107304, entonces eso significa que tu ISP (proveedor de servicios de internet) bloquea el uso de DNS alternativos. ¡Una solución a este problema puede ser ejecutar tu propio servidor DNS! Echa un vistazo a nuestro [servidor DNS en GitHub](https://github.com/RiiConnect24/DNS-Server) y coloca la dirección IP de tu PC en lugar de la nuestra en el paso 8.
 {: .notice--info}
 
-[Si obtienes un error NEWS000006, usando este tutorial debería solucionar el problema.](riiconnect24-batteryfix)
+If you get error FORE000006, your Wii's clock is probably set incorrectly. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel should start working.
 {: .notice--warning}
 
 [Si obtienes un error NEWS000006, usando este tutorial debería solucionar el problema.](news000006)
