@@ -4,7 +4,7 @@ title: "Priiloader"
 
 {% include toc title="Table des matières" %}
 
-Si vous avez besoin d'aide pour quoi que ce soit concernant ce didacticiel, veuillez rejoindre [ le serveur RiiConnect24 Discord ](https://discord.gg/rc24) (recommandé) ou [ envoyez-nous un e-mail à support@riiconnect24.net ](mailto: support @ riiconnect24 .net).
+Si vous avez besoin d'aide pour quoi que ce soit concernant ce didacticiel, veuillez rejoindre [ le serveur RiiConnect24 Discord ](https://discord.gg/rc24) (recommandé) ou \[ envoyez-nous un e-mail à support@riiconnect24.net \](mailto: support @ riiconnect24 .net).
 {: .notice--info}
 
 Priiloader ajoute une couche de protection contre le brick à votre Wii. Il se lance avant le Menu Wii (d'où son nom). L'outil peut aussi activer des hacks pour votre Menu Wii, et peut être utilisé pour lancer rapidement Homebrew Channel, BootMii, ou n'importe quel homebrew de votre choix !
@@ -38,10 +38,10 @@ N'installez ** pas ** Priiloader sur une vWii (mode Wii sur Wii U). Cela se trad
 ![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
 
 2. Vous devriez voir le menu Priiloader. ![Menu](/images/Priiloader/mainmenu.png)
-3. Accédez à ` System Menu Hack `.
+3. Accédez à `System Menu Hack`.
 4. Nous vous recommandons d'activer les hacks suivants: `Region Free EVERYTHING` , `Block Disc Updates` et `Block Online Updates<code>.
 <img src="/images/Priiloader/hacks.png" alt="System Menu Hacks" /></p></li>
-<li><p spaces-before="0">Défilez jusqu'à <code>save settings` et appuyez sur A, ensuite appuyez sur B pour revenir au menu principal de Priiloader.
+<li><p spaces-before="0">Défilez jusqu'à <code>Homebrew Channel` et appuyez sur A pour le lancer.
 1. Défilez jusqu'à `Homebrew Channel` et appuyez sur A pour le lancer.
 
 ## Liste des hacks du menu système
