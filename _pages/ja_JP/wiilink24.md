@@ -7,7 +7,7 @@ title: "WiiLink24"
 WiiLink24とそのすべてのサービス（Wiiの間とか）は、RiiConnect24によって制御または運用されていない。 このチュートリアルやサービスのサポートをもらうために、[WiiLink24のDiscordサーバー](https://discord.gg/n4ta3w6)に入ってください。
 {: .notice--warning}
 
-[WiiLink24](https://wiilink24.com/)は日本限定のWiiの間チャネルを使えるようにしている。そして、将来にデジカメプリントチャネル、出前チャンネルがもう一度使えるようにする。
+[WiiLink24](https://wiilink24.com/)は日本限定のWiiの間チャネルを使えるようにしている。 そして、将来にデジカメプリントチャネル、出前チャンネルがもう一度使えるようにする。
 
 #### 必要なもの
 
@@ -23,12 +23,12 @@ WiiLink24とそのすべてのサービス（Wiiの間とか）は、RiiConnect2
 [詳しいWADのインストールし方指示が見たいだったら、ここでクリクしてください。](wiimodlite)
 {: .notice--info}
 
-1. OSを所要のファイルをダウンロードして。 Windowsで、`WiiLink24Patcher.bat`を実行して On Unix systems, launch terminal and type sh, then drag the `WiiLink24Patcher.sh` into the terminal and press enter.
+1. OSを所要のファイルをダウンロードして。 Windowsで、`WiiLink24Patcher.bat`を実行して Windowsで、`WiiLink24Patcher.bat`を実行して On Unix systems, launch terminal and type sh, then drag the `WiiLink24Patcher.sh` into the terminal and press enter.
 2. 「`Start`」を選ぶために`1`を押してから、`ENTER`を押して。
 3. このガイドのために「`Install WiiLink24 on your Wii`」を選んで。
 4. 自分の地域を選んで。
 5. SDカードまたはUSBドライブを入れて、「`1`」を選んで。
-6. デバイスの検出は効果的だ時、「`1`」を選んで 効果的ではない時、SDカードまたはUSBドライブで`apps`というフォルダーがある確かめてから、も一度試みて。
+6. デバイスの検出は効果的だ時、「`1`」を選んで デバイスの検出は効果的だ時、「`1`」を選んで 効果的ではない時、SDカードまたはUSBドライブで`apps`というフォルダーがある確かめてから、も一度試みて。
 7. ちょっと待って・・・
 8. 終わった後、無事にパッチャーを出られる。 SDカードで全部のファイルは整う。
 9. 全部が独りでにコピーされていない場合は、`WAD`と`apps`というフォルダーをコピーして、SDカードまたはUSBドライブで`WiiLink24Patcher.bat`隣にペーストして。
