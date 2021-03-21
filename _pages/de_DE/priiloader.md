@@ -28,18 +28,18 @@ Installiere den Priiloader nicht auf einer vWii (Wii Modus auf der Wii U). Du wi
 
 1. Starte den Homebrew-Kanal auf deiner Wii.
 2. Starte den Priiloader Installer.
-3. Drücke die Plus-Taste auf der Wii-Fernbedienung oder den A-Knopf auf einem GameCube-Controller. ![Installiere Priiloader](/images/Priiloader/2.png) ![Installiere](/images/Priiloader/3.png)
+3. Drücke die Plus-Taste auf der Wii-Fernbedienung oder den A-Knopf auf einem GameCube-Controller. ![Installiere Priiloader](/images/Priiloader/installer.png) ![Installiere](/images/Priiloader/installing.png)
 
 ##### Abschnitt 3 - Öffnen/Konfigurieren von Priiloader
 
 1. Halte den RESET-Knopf gedrückt während du deine Wii einschaltest.
     * Wenn du eine Wii mini verwendest, schliesse eine USB-Tastatur an und halte die Escape-Taste gedrückt, während du die Konsole einschaltest
 
-![Einschalten](/images/Priiloader/5.jpg) ![Halte RESET gedrückt](/images/Priiloader/4.jpg)
+![Einschalten](/images/Priiloader/on.jpg) ![Halte RESET gedrückt](/images/Priiloader/reset.jpg)
 
-2. Du solltest nun das Priiloader-Menü sehen.![Menü](/images/Priiloader/6.png)
+2. Du solltest nun das Priiloader-Menü sehen.![Menü](/images/Priiloader/mainmenu.png)
 3. Gehe zu `System Menu Hacks`.
-4. Wir empfehlen das aktivieren der folgenden Hacks: `Region Free EVERYTHING`, `Block Disc Updates` und `Block Online Updates`. ![System-Menü-Hacks](/images/Priiloader/7.png)
+4. Wir empfehlen das aktivieren der folgenden Hacks: `Region Free EVERYTHING`, `Block Disc Updates` und `Block Online Updates`. ![System-Menü-Hacks](/images/Priiloader/hacks.png)
 1. Scrolle herunter zu `save settings` und drücke A, anschliessend drücke B und gehe zurück ins Hauptmenü von Priiloader.
 1. Scrolle zu `Homebrew Channel` und drücke A um ihn zu starten.
 
