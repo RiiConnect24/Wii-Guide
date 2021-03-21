@@ -81,7 +81,7 @@ You may not want to run a patcher each time you want to play on Wiimmfi, and may
 #### Instrucciones
 1. Extrae el parche de tu elección y después coloca la copia del juego en la misma carpeta.
 2. Comience el script de patch por tu OS: generalmente, terminará en `.bat` para Windows y `.sh` para Mac/Linux. Si tu estás usando el RiiConnect24 Patcher, seleccione su dispositivo (Wii, vWii, o Dolphin) y seleccione el patcher para tu juego.
-3. Cuando haya terminado, obtenga la versión de la carpeta ` wiimmfi-images ` (puede estar en la carpeta fuera del parche - ../wiimmfi-images) y cópiela de nuevo a su USB.
+3. Cuando haya terminado, obtenga la versión de la carpeta `wiimmfi-images` (puede estar en la carpeta fuera del parche - ../wiimmfi-images) y cópiela de nuevo a su USB.
 
 ### Parcheo de WiiWare
 You can patch WiiWare games in order to play them on Wiimmfi.
