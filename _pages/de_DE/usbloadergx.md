@@ -20,7 +20,7 @@ Die ist eine Kurzanleitung zur Verwendung des USB Loader GX, einem beliebten USB
 Stelle sicher, dass du vorher [cIOS](/cios) installiert hast!
 {: .notice--info}
 
-Wenn du Windows verwendest empfehlen wir dir Spiele mit [Wii Backup Manager](/wiibackupmanager) zu kopieren. Falls du macOS verwendest empfehlen wir dir [Witgui](https://desairem.com/wordpress/category/witgui-download/).
+Wenn du Windows verwendest empfehlen wir dir Spiele mit [Wii Backup Manager](/wiibackupmanager) zu kopieren.
 {: .notice--info}
 
 If you are not copying games using Wii Backup Manager or Witgui, make a folder on the root of the USB drive named "wbfs" and put the games in there.
