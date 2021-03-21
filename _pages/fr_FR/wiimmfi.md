@@ -4,7 +4,7 @@ title: "Wiimmfi"
 
 {% include toc title="Table des matières" %}
 
-Si vous avez besoin d'aide pour quoi que ce soit concernant ce didacticiel, veuillez rejoindre [ le serveur RiiConnect24 Discord ](https://discord.gg/rc24) (recommandé) ou [ envoyez-nous un e-mail à support@riiconnect24.net ](mailto: support @ riiconnect24 .net).
+Si vous avez besoin d'aide pour quoi que ce soit concernant ce didacticiel, veuillez rejoindre [ le serveur RiiConnect24 Discord ](https://discord.gg/rc24) (recommandé) ou \[ envoyez-nous un e-mail à support@riiconnect24.net \](mailto: support @ riiconnect24 .net).
 {: .notice--info}
 
 ![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
@@ -29,10 +29,10 @@ Si vous avez une ancienne version de Priiloader ou ne l'avez pas installé, suiv
 #### Instructions
 1. Maintenez la touche RESET pendant que vous démarrez votre Wii (si vous utilisez une Wii Mini, branchez un clavier USB et appuyez sur ECHAP).
 2. Sélectionnez `System Menu Hacks`.
-3. Assurez-vous que le  ` Wiimmfi patch v4 ` est activé.
+3. Assurez-vous que le  `Wiimmfi patch v4` est activé.
 4. Enregistrez les paramètres et quittez.
 
-Si vous voyez le ` Wiimmfi patch v2 ` ou ` Wiimmfi patch v3 ` à la place, vous ne disposez pas de la dernière version du fichier hacks_hash.ini. <br> Téléchargez-le sur [ ici ](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) et placez-le dans ` / apps / priiloader / hacks_hash. ini ` sur votre carte SD ou clé USB. <br> Ensuite, répétez les étapes précédentes.
+Si vous voyez le `Wiimmfi patch v2` ou `Wiimmfi patch v3` à la place, vous ne disposez pas de la dernière version du fichier hacks_hash.ini. <br> Téléchargez-le sur [ ici ](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) et placez-le dans `/ apps / priiloader / hacks_hash. ini` sur votre carte SD ou clé USB.
 {: .notice--warning}
 
 ### Application Homebrew (Disque)
