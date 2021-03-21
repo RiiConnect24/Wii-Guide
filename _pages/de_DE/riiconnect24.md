@@ -47,7 +47,7 @@ Sollte der RiiConnect24-Patcher bei dir weiterhin nicht funktionieren, sende uns
 [Falls du detaillierte Anweisungen zur Installation der WADs erhalten möchtest, klicke hier!](wiimodlite)
 {: .notice--info}
 
-1. Starte unter Windows die `RiiConnect24Patcher.bat`. Auf Unix-Systemen öffne das Terminal und gib `bash` ein, ziehe anschließend die `RiiConnect24Patcher.sh` auf das Terminal und drücke Enter. Es sollte folgendermaßen aussehen: `bash RiiConnect24Patcher.sh`.
+1. Starte unter Windows die `RiiConnect24Patcher.bat`. Es sollte folgendermaßen aussehen: `bash RiiConnect24Patcher.sh`. Auf Unix-Systemen öffne das Terminal und gib `bash` ein, ziehe anschließend die `RiiConnect24Patcher.sh` auf das Terminal und drücke Enter.
 2. Drücke 1 um "`Start`" auszuwählen und bestätige die Eingabe mit `ENTER`. ![Riiconnect24 Patcher Hauptbildschirm](/images/RC24_Patcher/1.PNG)
 3. Wähle das Gerät welchen du patchen möchtest. ![Wähle dein Gerät](/images/RC24_Patcher/2.PNG)
 4. Für diese Anleitung wähle "`Installiere RiiConnect24 auf deiner Wii`" aus ![Installiere RiiConnect24](/images/RC24_Patcher/3.PNG)
@@ -63,7 +63,7 @@ Sollte der RiiConnect24-Patcher bei dir weiterhin nicht funktionieren, sende uns
 14. Starte Wii Mod Lite.
 15. Mithilfe der rechten Steuerkreuztaste auf deiner Wii-Fernbedienung, wähle `WAD Manager` und wähle dann den `wad`-Ordner.
 16. Markiere alle WADs, welche `RiiConnect24` im Namen enthalten und drücke anschließend +, um sie zu markieren. Hast du alle markiert, drücke zweimal A um die WADs zu installieren.
-17. Falls du eine Fehlermeldung erhälst die besagt, dass bereits eine neuere Version installiert ist (Fehler -1035), gehe zurück in das WAD-Auswahlmenü und drücke den Minus-Knopf bei der markierten WAD um sie zu deinstallieren. Versuche anschließend sie erneut zu installieren.
+17. Falls du eine Fehlermeldung erhälst die besagt, dass bereits eine neuere Version installiert ist (Fehler -1035), gehe zurück in das WAD-Auswahlmenü und drücke den Minus-Knopf bei der markierten WAD um sie zu deinstallieren.
 18. Nach erfolgreicher Installation drücke den Home-Knopf um zum Homebrew-Kanal zurückzukehren.
 
 ##### Abschnitt 3 - nwc24msg.cfg patchen
