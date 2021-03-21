@@ -4,7 +4,7 @@ title: "Instalando Temas para o Wii Menu"
 
 {% include toc title="Table of Contents" %}
 
-Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor entra no [server do RiiConnect24 no Discord](https://discord.gg/b4Y7jfD) (recomendado) ou [envia-nos um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor entra no [server do RiiConnect24 no Discord](https://discord.gg/rc24) (recomendado) ou [envia-nos um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Estás farto do tema branco aborrecido no teu Wii Menu e queres mudar para um tema melhor? Este tutorial irá ajudar-te a obter um novo tema para o teu Wii Menu!
@@ -74,5 +74,5 @@ MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
 5. After an introduction message, it will ask you what IOS you want to use in the app. If you have [installed cIOS](cios), use `IOS249`, or else use `IOS58`. If the former gives an `Exception DSI occurred!` error, press Reset on the Wii console, launch it again, then try `IOS250`.
 6. Highlight the theme you want to install, then press A. Give it a moment to install the theme, then press any button to go to the Wii Menu. Hopefully, the theme installed correctly.
 
-Se obtiveres um erro a dizer "The system files are corrupted", não entres em pânico já que tens o Priiloader instalado. Desliga a tua Wii, segura no botão RESET e liga a tua Wii. Deverás dar boot no menu do Priiloader, onde tu tens algumas opções para corrigir o teu Menu Wii. One of the options is to launch the Homebrew Channel, where you can launch MyMenuify Mod and press a button to download and install the original Wii Menu theme.
+If you get an error saying "The system files are corrupted" or a black screen, don't panic as long as you installed Priiloader. Desliga a tua Wii, segura no botão RESET e liga a tua Wii. Deverás dar boot no menu do Priiloader, onde tu tens algumas opções para corrigir o teu Menu Wii. One of the options is to launch the Homebrew Channel, where you can launch MyMenuify Mod and press a button to download and install the original Wii Menu theme.
 {: .notice--info}

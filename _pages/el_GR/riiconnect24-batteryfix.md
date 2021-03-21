@@ -1,38 +1,15 @@
 ---
-title: "RiiConnect24 Διόρθωση Μπαταρίας"
+title: "RiiConnect24 FORE000006"
 ---
 
 {% include toc title="Table of Contents" %}
 
-Εάν χρειάζεστε οποιαδήποτε βοήθεια όσο αφορά αυτόν τον οδηγό, παρακαλώ μπείτε στον [ RiiConnect24 διακομιστή Discord](https://discord.gg/b4Y7jfD) (συνιστάται) ή[στείλτε μας e-mail στο support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![Εικονίδιο RiiConnect24](/images/WiiRC24Logo.jpg)
 
-Αυτός ο οδηγός δεν φτιάχνει το σφάλμα NEWS0000006. [Αν έχετε σφάλμα NEWS000006, ακολουθώντας αυτόν τον οδηγό πρέπει να διορθωθεί.](news000006)
-{: .notice--warning}
-
-Εάν έχετε σφάλμα FORE000006, αυτό σημαίνει "λανθασμένα δεδομένα". Μπορεί να φταίει κάτι από μεριά μας, αν και σπάνιο. Περιμένετε μερικά λεπτά και μετά προσπαθείστε ξανά.
-
-Εάν το σφάλμα επιμένει, η ώρα του Wii σας μπορεί να είναι λάθος, μπερδεύοντας τα Κανάλια. Αυτές οι οδηγίες μπορεί να αξίζουν να τις δοκιμάσετε.
-
-#### Τι χρειάζεστε
-
-* Σταυροκατσάβιδο Phillips #00 ![Σταυροκατσάβιδο Phillips #00](/images/RiiConnect24/clock/screwdriver.jpg)
-
-#### Οδηγίες
-
-1. Ρυθμίστε την σωστή ώρα για το Wii σας στις ρυθμίσεις.
-2. Αφαιρέστε το AC τροφοδοτικό του WII. Θα χρειαστεί να ανοίξετε ένα κάλυμμα μπαταρίας στο πλάι του Wii σας, οπότε θα χρειαστεί να αφαιρέσετε ότι είναι συνδεδεμένο στο Wii σας. ![Αφαιρέστε το AC τροφοδοτικό του WII](/images/RiiConnect24/clock/unplug.jpg)
-3. Βρείτε το κάλυμμα της μπαταρίας στο κάτω μέρος του Wii σας. ![Κάλυμμα Μπαταρίας](/images/RiiConnect24/clock/batterycover.jpg)
-4. Ξεβιδώστε το κάλυμμα μπαταρίας με το κατσαβίδι σας. ![Ξεβίδωμα Μπαταρίας](http://i.imgur.com/VRRAiSk.gif)
-5. Αφήστε το Wii σας αποσυνδεδεμένο από το ρεύμα για λίγη ώρα, με την μπαταρία εκτός. Είναι στην κρίση σας πόση ώρα θα το αφήσετε έτσι. Μια ωρίτσα η δυο μπορεί να'ναι αρκετές να το αφήσετε. ![Μπαταρία](/images/RiiConnect24/clock/battery.jpg)
-6. Βιδώστε πάλι το κάλυμμα μπαταρίας στο Wii. ![Βιδώμα Μπαταρίας](http://i.imgur.com/8MEy5Jo.gif)
-7. Συνδέστε το AC τροφοδοτικό στο Wii σας. ![Συνδέστε το AC τροφοδοτικό στο Wii](/images/RiiConnect24/clock/plug.jpg)
-8. Δοκιμάστε το Κανάλι Ειδήσεων ή του Καιρού. Ελπίζοντας πως θα λειτουργήσουν. Εάν δεν λειτουργήσουν, μπορεί να χρειαστεί να επαναλάβετε την διαδικασία και τότε μπορεί να φτιάξει.
-
-Καμία τύχη προσπαθώντας να το κάνετε να λειτουργήσει ακόμα; Δυστυχώς, μάλλον πρέπει να διαμορφώσετε το Wii σας για να φτιάξει. Απλώς κάνετε αντίγραφο ασφαλείας των αρχείων save και των Mii σας με το [SaveGame Manager GX](https://sourceforge.net/projects/savegame-manager-gx/files/HBC_SetUp_R127.zip/download).
-{: .notice--info}
+If you get error FORE000006, your Wii's clock is probably set incorrectly. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel should start working.
 
 [Επιστροφή στη σελίδα εγκατάστασης RiiConnect24](riiconnect24)
 {: .notice--info}

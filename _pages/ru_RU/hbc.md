@@ -1,39 +1,39 @@
 ---
-title: "Homebrew Channel and BootMii Installation"
+title: "Установка Homebrew Channel и BootMii"
 ---
 
 {% include toc title="Table of Contents" %}
 
-Если вам нужна помощь относительно этого туториала, пожалуйста присоединитесь к [дискорд серверу RiiConnect24](https://discord.gg/b4Y7jfD) (рекомендуется) или [напишите нам на support@riiconnect24.net](mailto:support@riiconnect24.net) (требуется знание английского языка).
+Если вам нужна помощь относительно этого руководства, пожалуйста присоединитесь [к дискорд-серверу RiiConnect24](https://discord.gg/rc24) (рекомендовано), или [напишите нам по адресу support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![HBC Logo](/images/hbc.png)
+![Логотип HBC](/images/hbc.png)
 
-The Homebrew Channel is where you will go to launch homebrew applications. BootMii is a piece of software that can backup and restore your Wii's NAND storage, and if installed in boot2, provides brick protection.
+Homebrew Channel - это место, где вы будете запускать homebrew-приложения. BootMii — программное обеспечение для резервного копирования и восстановления NAND-хранилища Wii, а если оно установлено в boot2, предотвращает консоль от превращения в кирпич.
 
 #### Инструкции
 
-1. You will see a scam warning screen. Wait 30 seconds for the text "Press 1 to continue" to appear, then press 1. ![Scam Screen](/images/Wii/ScamScreen.png)
+1. Вы увидите экран предупреждения о мошенничестве. Подождите 30 секунд, чтобы появился текст "Нажмите 1, чтобы продолжить", затем нажмите 1. ![Экран предупреждения о мошенничестве](/images/Wii/ScamScreen.png)
 
-2. When at the HackMii installer, you are able to install the Homebrew Channel and BootMii. ![Results](/images/Wii/Results.png)
+2. Когда вы находитесь в инсталляторе HackMi, вы можете установить Homebrew Channel и BootMii. ![Результаты](/images/Wii/Results.png)
 
-3. Press Continue, then select the Homebrew Channel, and press install. ![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
+3. Нажмите «Продолжить», затем выберите Homebrew Channel, и нажмите «Установить». ![Установите Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
-4. Press Continue when finished. ![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
+4. Нажмите "Продолжить", когда закончится установка. ![Успешная установка Homebrew Channel](/images/Wii/SuccessHBC.png)
 
-5. Once installed, press back and go to BootMii.
-6. If the main screen says you can install BootMii as boot2, do so. This offers the best possible brick protection you can have.
-7. If you cannot install BootMii as boot2 (like the Wii shown in step two), install BootMii as IOS instead. While this doesn't give you any brick protection, you will still be able to make a NAND backup.
+5. После установки, нажмите "Назад" и перейдите в BootMii.
+6. Если главный экран говорит, что вы можете установить BootMii в качестве boot2, сделайте это. Это обеспечивает наилучшую возможную защиту от превращения консоли в кирпич. Пропустите этот шаг, если вы не можете установить BootMii в качестве boot2.
+7. Установите BootMii как IOS, даже если вы уже установили BootMii в качестве boot2 на предыдущем этапе. Если вы не могли установить BootMii в качестве boot2 на предыдущем этапе, это все равно позволит вам создать резервную копию NAND.
 
-If you do not have an SD card, you cannot install or use BootMii, and therefore will not be able utilize any of the mentioned benefits. You can always install it at a later date.
+Если у вас нет SD-карты, вы не можете установить или использовать BootMii, и поэтому не сможете воспользоваться ни одним из вышеупомянутых преимуществ. Вы всегда можете установить его позже.
 {: .notice--warning}
 
-![BootMii Installation](/images/Wii/InstallBootMii.jpg)
+![Установка BootMii](/images/Wii/InstallBootMii.png)
 
-8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
+8. После этого, выберите `Продолжить`, затем выберите `Выйти` для перехода в Homebrew Channel.
 
-[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
+[Продолжить создание NAND резервной копии с помощью BootMii](bootmii)<br> Создание резервной копии NAND с BootMii в данный момент настоятельно рекомендуется.
 {: .notice--info}
 
-If you couldn't install BootMii, continue to [installing Priiloader](priiloader) instead.
+Если вы не смогли установить BootMii, перейдите вместо этого к [установке Priiloader](priiloader).
 {: .notice--info}

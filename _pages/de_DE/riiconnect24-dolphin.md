@@ -8,7 +8,7 @@ title: "RiiConnect24"
 
 Diese Anleitung wird dir dabei helfen, RiiConnect24 in deiner Dolphin-Installation zu installieren.
 
-Falls du irgendwelche Hilfe bezüglich der Anleitung benötigst, schreibe bitte direkt KcrPL#4625 auf Discord an, tritt dem [RiiConnect24 Discord Server](https://discord.gg/b4Y7jfD) bei, oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
+Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, kontaktiere bitte KcrPL#4625 auf Discord, tritt unserem [RiiConnect24 Discord-Server](https://discord.gg/rc24) bei, oder [sende uns eine E-Mail an support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ### Voraussetzungen
@@ -27,7 +27,7 @@ Falls du Dolphin bereits installiert hast, gehe direkt zu Abschnitt 2 über
 1. Lade die aktuellste Dolphin-Entwicklerversion herunter.
 2. Entpacke die `.7z`-Datei mit einem Programm wie 7Zip oder WinRAR.
 3. Starte Dolphin
-4. Wähle `Extras`-> `Online-Systemaktualisierung durchführen` -> Wähle dann deine Region ![Perform Online System Update](/images/Dolphin_RC24/1.jpg)
+4. Wähle `Extras`-> `Online-Systemaktualisierung durchführen` -> Wähle dann deine Region ![Starte Online-System-Update](/images/Dolphin_RC24/1.jpg)
 
 ##### Abschnitt 2 - RiiConnect24 installieren.
 
@@ -46,12 +46,12 @@ Wenn du es beim Hochfahren starten lässt, musst du gar nichts machen. Wenn du e
 
 ##### Abschließen der Installation
 
-1. On Windows run the `RiiConnect24Patcher.bat` or run the `RiiConnect24Patcher.sh` if you are on a Unix system that you downloaded [here](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+1. Starte in Windows die `RiiConnect24Patcher.bat`, oder starte die `RiiConnect24Patcher.sh` wenn du dich auf einem Unix-System befindest, welches du [hier](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases) heruntergeladen hast
 2. Starte den Patcher, wähle dann `Install RiiConnect24`. ![Select Custom](/images/Dolphin_RC24/5.jpg)
-3. Waähle dann `Custom`. ![Select Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
+3. Wähle `Custom`. ![Select Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
 4. Drücke `1` um deine Region auszuwählen und aktiviere nur den fünften Eintrag. Drücke `6`, um das Patchen zu starten.
 5. Nach Abschluss befindet sich eine `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad`- oder `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`-Datei im `WAD`-Ordner neben der `RiiConnect24Patcher.bat`
 6. In Dolphin, wähle `Extras` und dann `WAD installieren...`, und wähle `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` oder `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
 
-Du bist fertig! Unfortunately, Nintendo Channel and Wii Mail don't work in Dolphin yet.
+Du bist fertig! Leider werden der Nintendo-Kanal und Wii Mail momentan noch nicht für Dolphin unterstützt.
 {: .notice--info}

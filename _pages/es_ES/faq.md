@@ -8,19 +8,19 @@ title: "FAQ"
 Los bricks (un estado donde algunas partes del software de tu Wii no funcionan, o tu consola no funciona en absoluto) son *basicamente* imposibles a menos que ignores o evites todos los controles de seguridad.
 
 ### ¿En dónde puedo pedir asistencia?
-Puedes unirte a nuestro<a href="https://discord.gg/b4Y7jfD"servidor de Discord></a> (recomendado) o [enviarnos un e-mail](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
+Either email us at support@riiconnect24.net or join the [RiiConnect24 Discord Server](https://discord.gg/rc24).
 
 ### ¿Cuales son los requerimientos y/o recomendaciones para la tarjeta SD?
 Necesitarás una tarjeta SD de al menos 128 MB para ejecutar un exploit.
 
-- Si estas usando el exploit de BlueBomb, no necesitas usar una tarjeta SD
+- Si vas a usar el método BlueBomb, str2hx o FlashHax, tú no necesitas una tarjeta SD
 
-Para almacenar aplicaciones homebrew, recomendamos usar una tarjeta SD de por lo menos 2 GB de capacidad.
+Para almacenar aplicaciones Homebrew, recomendamos usar una tarjeta SD de por lo menos 2 GB de capacidad.
 
-### Me ha aparecido el código de error XXXXX en Wiimmfi, ¿cómo lo arreglo?
-Para saber qué significa y cómo solucionar el error, por favor visita la [página de errores de Wiimmfi](https://wiimmfi.de/error).
+### Me ha aparecido un mensaje con el código de error XXXXX (código de ejemplo) en Wiimmfi, ¿cómo lo arreglo?
+Para saber qué significa y cómo solucionar el error, por favor visita la [página de errores de Wiimmfi (disponible sólo en inglés)](https://wiimmfi.de/error).
 
-### ¿Cuáles son las limitaciones en la modificación del vWii?
+### ¿Cuáles son las modificaciones/instalaciones que dejarían a tu vWii en un brick?
 La siguiente es una lista de acciones que pueden dejar tu vWii en un estado de **brick** (¡No intentes estas cosas!):
 * Instalar IOS diseñados para el Wii en vWii.
 * Instalar temas diseñados para el Wii que no han sido convertidos correctamente para el vWii y/o la región de tu consola.

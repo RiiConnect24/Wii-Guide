@@ -8,7 +8,7 @@ Este tutorial irá te ensinar como instalar cIOS (IOS customizada). Isto é nece
 
 ![d2x cIOS Installer](/images/cios/cIOS.png)
 
-If you have a Wii mini, install [this cIOS](cios-mini) instead. Tentar instalar qualquer outro de cIOS numa Wii mini não funcionará.
+Se tens uma Wii mini, instala[esta cIOS](cios-mini). Tentar instalar qualquer outro de cIOS numa Wii mini não funcionará.
 {: .notice--info}
 
 #### O que precisas
@@ -17,7 +17,7 @@ If you have a Wii mini, install [this cIOS](cios-mini) instead. Tentar instalar 
 * Um cartão SD ou USB drive
 * [Instalador d2x cIOS](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
-Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
+Cerifica-te que estás a usar um cartão SD, que se encontra com a trava desbloqueada, senão não conseguirás selecionar as opções corretas no instalador
 {: .notice--warning}
 
 #### Instruções
@@ -31,63 +31,70 @@ Ensure that if you are using an SD card, the lock switch is in the unlocked posi
 
 1. Pressiona continue, depois configura as opções a seguir:
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 57
-Select cIOS slot: 249
-Select cIOS version: 65535
+Selecionar cIOS: v10 beta52 d2x-v10-beta52
+Selecionar cIOS base: 57
+Selecionar cIOS ranhura: 249
+Selecionar cIOS versão: 65535
 ```
-![Install cIOS 249](/images/cios/Install249.png)
+![Instala cIOS 249](/images/cios/Install249.png)
 1. Uma vez configurado, pressiona A duas vezes para instalar.
 1. Quando acabar de instalar, pressiona A para voltar e configura as opções a seguir:
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 56
-Select cIOS slot: 250
-Select cIOS version: 65535
+Selecionar cIOS: v10 beta52 d2x-v10-beta52
+Selecionar cIOS base: 56
+Selecionar cIOS ranhura: 250
+Selecionar cIOS versão: 65535
 ```
-![Install cIOS 250](/images/cios/Install250.png)
+![Instala cIOS 250](/images/cios/Install250.png)
 1. Uma vez configurado, pressiona A duas vezes para instalar.
-1. When done installing, press A to return, and set the options to the following: ![Install cIOS 251](/images/cios/Install251.png)
+1. Quando acabar de instalar, pressiona A para voltar e configura as opções a seguir:
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 38
-Select cIOS slot: 251
-Select cIOS version: 65535
+Selecionar cIOS: v10 beta52 d2x-v10-beta52
+Selecionar cIOS base: 38
+Selecionar cIOS ranhura: 251
+Selecionar cIOS versão: 65535
 ```
-1. Once set, press A twice again to install, and then exit once done.
+![Instala cIOS 251](/images/cios/Install251.png)
+1. Uma vez configurado, prime A duas outras vezes para instalar, e depois sair quando terminado.
 
-Although the majority of games should work straight away, some may require using a specific cIOS to function, or to utilize certain features within the game. To change the cIOS used for a specific game, follow these instructions:
-{: .notice--warning}
+{% capture bruh %}
+Embora a maioria dos jogos devam funcionar logo com as definições padrão, alguns podem requirir o uso de cIOS específicas para funcionar, ou para utilizar certas funcionalidades dentro do jogo.<br> Como por exemplo:
+* Usar um teclado no Animal Crossing: City Folk.
+* Jogar SpongeBob's Boating Bash.
+
+Uma mais compreensiva (ainda assim incompleta) lista pode ser encontrada[**aqui**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> Para mudar a cIOS usada para um jogo específico, segue estas instruções:
+{% endcapture %}
+<div class="notice--warning">{{ bruh | markdownify }}</div>
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'usbloadergx')">USB Loader GX</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
 <div id="usbloadergx" class="blanktabcontent">
   <p spaces-before="0">
-    !!crwdP_23_Pdwrc!!Select the game that isn't working. !!crwdP_24_Pdwrc!!Click Settings. !!crwdP_25_Pdwrc!!Select <code>Game Load</code>. !!crwdP_26_Pdwrc!!Scroll down to <code>Game IOS</code>. !!crwdP_27_Pdwrc!!Enter the IOS slot to use.
+    !!crwdP_24_Pdwrc!!Seleciona o jogo que não está a funcionar. !!crwdP_25_Pdwrc!!Clica em Settings. !!crwdP_26_Pdwrc!!Seleciona <code>Game Load</code>. !!crwdP_27_Pdwrc!!Desce até <code>Game IOS</code>. !!crwdP_28_Pdwrc!!Introduz a ranhura da IOS a usar.
   </p>
   
   <ul>
     <li>
-      Try using 250 or 251, if 249 doesn't work. !!crwdP_28_Pdwrc!!Press ok and try to load the game
+      Tenta usar 250 ou 251, se a 249 não funcionar. !!crwdP_29_Pdwrc!!Prime ok e tenta carregar o jogo.
     </li>
   </ul>
 </div>
 
 <div id="wiiflow" class="blanktabcontent">
   <p spaces-before="0">
-    !!crwdP_29_Pdwrc!!Select the game that isn't working. !!crwdP_30_Pdwrc!!Click the gear icon. !!crwdP_31_Pdwrc!!Go to cIOS and use the arrows to select the IOS slot to use.
+    !!crwdP_30_Pdwrc!!Seleciona o jogo que não está a funcionar. !!crwdP_30_Pdwrc!!Clica no ícone das engrenagens. !!crwdP_30_Pdwrc!!Vai para cIOS e usa as setas para selecionar a ranhura da IOS a usar.
   </p>
   
   <ul>
     <li>
-      Try using 250 or 251, if 249 doesn't work. !!crwdP_32_Pdwrc!!Press Save and try to load the game.
+      Tenta usar 250 ou 251, se a 249 não funcionar. !!crwdP_33_Pdwrc!!Prime Save e tenta carregar o jogo.
     </li>
   </ul>
 </div>
 ##### Opções uma vez terminado o processo
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
+[Continua para o Homebrew Browser](hbb)O Homebrew Browser é um bom logar para teres homebrew na tua Wii. Isto é opcional para instalares.
 {: .notice--info}
 
 [Continua para a navegação do site](site-navigation)<br> Nós temos mais outros tutoriais que poderás gostar.

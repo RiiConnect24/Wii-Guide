@@ -4,7 +4,7 @@ title: "RiiConnect24"
 
 {% include toc title="Table des matières" %}
 
-Si vous avez besoin d'aide concernant ce tutoriel, veuillez rejoindre [le serveur Discord de RiiConnect24](https://discord.gg/b4Y7jfD) (recommandé, en anglais) ou [envoyez-nous un mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si vous avez besoin d'aide pour quoi que ce soit concernant ce didacticiel, veuillez rejoindre [ le serveur RiiConnect24 Discord ](https://discord.gg/rc24) (recommandé) ou [ envoyez-nous un e-mail à support@riiconnect24.net ](mailto: support @ riiconnect24 .net).
 {: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
@@ -47,7 +47,7 @@ Si vous ne pouvez toujours pas exécuter RiiConnect24 Patcher, veuillez nous env
 [Si vous souhaitez voir des instructions détaillées sur la façon d'installer les WAD, cliquez ici!](wiimodlite)
 {: .notice--info}
 
-1. Sur Windows exécutez `RiiConnect24Patcher.bat`. Sur les systèmes Unix, ouvrez le terminal et tapez bash, puis faites glisser `RiiConnect24Patcher.sh` dans le terminal et appuyez sur Entrée. Cela devrait ressembler à ceci `bash RiiConnect24Patcher.sh`.
+1. Sur Windows exécutez `RiiConnect24Patcher.bat`. Sur les systèmes Unix, ouvrez le terminal et tapez `bash`, puis faites glisser `RiiConnect24Patcher.sh` dans le terminal et appuyez sur Entrée. Cela devrait ressembler à ceci `bash RiiConnect24Patcher.sh`.
 2. Tapez 1 pour choisir "`Démarrer`" et confirmez votre sélection en appuyant sur `Entrée`. ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.PNG)
 3. Sélectionnez l'appareil pour lequel vous appliquez le patch. ![Select your device](/images/RC24_Patcher/2.PNG)
 4. Pour ce guide, choisissez "`Installer RiiConnect24 sur votre Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.PNG)
@@ -110,13 +110,13 @@ Si vous obtenez l'erreur 107245, vous n'avez probablement pas réussi à patcher
 Si vous obtenez l'erreur 107304, votre FAI bloque peut-être l'utilisation du DNS personnalisé. Une solution de contournement peut être d'exécuter votre propre serveur DNS! Consultez [RiiConnect24 DNS Server sur GitHub ](https://github.com/RiiConnect24/DNS-Server), puis utilisez l'adresse IP de votre PC à la place de notre DNS à l'étape 8.
 {: .notice--info}
 
-[Si vous obtenez l'erreur FORE000006, suivre ce tutoriel devrait la corriger.](riiconnect24-batteryfix)
+If you get error FORE000006, your Wii's clock is probably set incorrectly. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel should start working.
 {: .notice--warning}
 
 [Si vous obtenez l'erreur NEWS000006, suivre ce tutoriel devrait la corriger.](news000006)
 {: .notice--warning}
 
-Si vous obtenez des erreurs telles que `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, veuillez accéder aux paramètres Wii -> Dernière page -> Pays et changez-le en Royaume-Uni. Vous obtiendrez cette erreur lors de l'utilisation d'un pays que nous ne prenons pas en charge. Contactez-nous à [support@riiconnect24.net](mailto:support@riiconnect24.net) si vous avez besoin d'aide.
+If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. Vous obtiendrez cette erreur lors de l'utilisation d'un pays que nous ne prenons pas en charge. Contactez-nous à [support@riiconnect24.net](mailto:support@riiconnect24.net) si vous avez besoin d'aide.
 {: .notice--warning}
 
 [Si vous recevez un message interrompu lors de l'ouverture de la Chaîne Infos ou de la Chaîne Météo, suivre ce tutoriel devrait résoudre le problème.](deleting-vffs)

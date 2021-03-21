@@ -8,12 +8,12 @@ title: "שאלות נפוצות"
 כשלים (ידועים כ Bricks) (מצב שבו חלקים מהתוכנה של הקונסולה לא מתפקדים כראוי, או שהקונסולה לא עובדת כלל) הם כעת *כמעט* בלתי אפשריים על עוד לא התעלמת מבדיקות הבטיחות בהוראות.
 
 ### לאן כדאי לי לפנות בשביל תמיכה טכנית?
-יש לשלוח לנו אי-מייל אל support@riiconnect24.net או להצטרף אל [שרת הדיסקורד](https://discord.gg/b4Y7jfD).
+Either email us at support@riiconnect24.net or join the [RiiConnect24 Discord Server](https://discord.gg/rc24).
 
 ### מהן ההמלצות והדרישות לכרטיס SD?
 נדרש כרטיס SD עם לפחות 128GB כדי לנצל פרצה.
 
-- If you are using the BlueBomb exploit, you do not need an SD card
+- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card
 
 To store homebrew applications, we recommend an SD card with at least 2 GB.
 

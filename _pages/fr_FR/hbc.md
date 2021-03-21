@@ -4,7 +4,7 @@ title: "Installation du Homebrew Channel et de BootMii"
 
 {% include toc title="Table des matières" %}
 
-Si vous avez besoin d'aide concernant ce tutoriel, veuillez rejoindre [le serveur Discord de RiiConnect24](https://discord.gg/b4Y7jfD) (recommandé, en anglais) ou [envoyez-nous un mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si vous avez besoin d'aide pour quoi que ce soit concernant ce didacticiel, veuillez rejoindre [ le serveur RiiConnect24 Discord ](https://discord.gg/rc24) (recommandé) ou [ envoyez-nous un e-mail à support@riiconnect24.net ](mailto: support @ riiconnect24 .net).
 {: .notice--info}
 
 ![HBC Logo](/images/hbc.png)
@@ -22,15 +22,15 @@ Homebrew Channel permet de lancer des applications homebrew. BootMii est un logi
 4. Appuyez sur `Continue` une fois l'installation terminée.![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
 
 5. Revenez en arrière et sélectionnez `BootMii`.
-6. Si l’écran vous dit que vous pouvez installer BootMii en tant que boot2, faites-le. Cela offre la meilleur protection possible contre le brick.
-7. Si vous ne pouvez pas installer BootMii en tant que boot2 (comme sur la capture de l'étape 2), installez BootMii en tant que IOS à la place. Bien que cela ne vous donne aucune protection contre le brick, vous pourrez toujours effectuer une sauvegarde NAND.
+6. Si l’écran vous dit que vous pouvez installer BootMii en tant que boot2, faites-le. Cela offre la meilleur protection possible contre le brick. Skip this step if you cannot install BootMii as boot2.
+7. Install BootMii as IOS, even if you already installed BootMii boot2 in the previous step. If you couldn't install BootMii as boot2 in the previous step, this will still allow you to create a NAND backup.
 
 Si vous n'avez pas de carte SD, vous ne pouvez pas installer ou utiliser BootMii, et par conséquent vous ne profiterez d'aucun des bénéfices mentionnés. Vous pourrez toujours l'installer plus tard.
 {: .notice--warning}
 
-![BootMii Installation](/images/Wii/InstallBootMii.jpg)
+![BootMii Installation](/images/Wii/InstallBootMii.png)
 
-8. Une fois terminé, sélectionnez ` Continuer `, puis sélectionnez ` Quitter ` pour accéder au canal Homebrew
+8. Une fois terminé, sélectionnez `Continuer`, puis sélectionnez `Quitter` pour accéder au Homebrew Channel
 
 [Continuer vers la Sauvegarde BootMii](bootmii)<br> Créer une sauvegarde de la NAND de votre console à l’aide de BootMii à ce stade est fortement recommandé.
 {: .notice--info}
