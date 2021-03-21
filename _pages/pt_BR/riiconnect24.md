@@ -110,7 +110,7 @@ If you get error 107245, then you probably have failed to patch your IOS correct
 If you get error 107304, then perhaps your ISP blocks the use of custom DNS. A workaround for this can be running your own DNS server! See the [RiiConnect24 DNS Server on GitHub](https://github.com/RiiConnect24/DNS-Server), then use your PC's IP address in place of our DNS in Step 8.
 {: .notice--info}
 
-[If you get error FORE000006, following this tutorial should fix it.](riiconnect24-batteryfix)
+If you get error FORE000006, your Wii's clock is probably set incorrectly. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel should start working.
 {: .notice--warning}
 
 [If you get error NEWS000006, following this tutorial should fix it.](news000006)
