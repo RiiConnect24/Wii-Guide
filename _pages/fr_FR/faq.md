@@ -8,7 +8,7 @@ title: "Foire au questions (FAQ)"
 Les bricks (un état où soit une partie de vos logiciels Wii ne fonctionnent pas, soit votre Wii ne fonctionne pas du tout) sont maintenant *pratiquement* impossibles sauf si vous ignorez les avertissements.
 
 ### Où puis-je obtenir de l'aide ?
-Either email us at support@riiconnect24.net or join the [RiiConnect24 Discord Server](https://discord.gg/rc24).
+Envoyez-nous un e-mail à support@riiconnect24.net ou rejoignez le [ RiiConnect24 Discord Server ](https://discord.gg/rc24).
 
 ### Quelles sont les exigences et/ou les recommandations pour ma carte SD ?
 Vous avez besoin d'une carte SD de minimum 128 Mo pour exécuter un exploit.
