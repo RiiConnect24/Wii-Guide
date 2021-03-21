@@ -5,8 +5,6 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
-  cta_label: "Начало пути"
-  cta_url: "get-started"
   caption:
 excerpt: "Полный гайд по моддингу Nintendo Wii."
 ---
@@ -35,10 +33,13 @@ Running homebrew on your Nintendo Wii can be done for free by exploiting bugs in
 - Защитить вашу Wii от "брика", используя [Priiloader](priiloader) и BootMii.
 - Превратить вашу Wii в медиаплеер с помощью [WiiMC](http://www.wiimc.org/).
 
+
+## Ready?
+
 Начните ваше путешествие с [выбора эксплойта](get-started)!
 {: .notice--info}
 
-## Другие Ресурсы
+## More Resources
 
 Здесь собраны несколько хороших ресурсов про моддинг Wii и решения различных проблем:
 
