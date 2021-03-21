@@ -1,22 +1,13 @@
 ---
-title: "חילוץ והעתקת משחק דרך רשת מקומית"
+title: "Dumping Wii/GameCube games over local network"
 ---
-
-{% include toc title="Table of Contents" %}
-
-במקרה ונדרשת עזרה או תמיכה טכנית בנוגע למדריך, בבקשה הצטרפו לשרת הדיסקורד של [ RiiConnect24](https://discord.gg/b4Y7jfD), או [שלחו אלינו אי-מייל](mailto:support@riiconnect24.net).
-{: .notice--info}
-
-רוצה לחלץ ולהעתיק משחקים למחשב דרך הרשת? המדריך הזה יעזור לך! זה יכול להיות מאוד שימושי במקרה ואין לך כרטיס SD או דיסק-און-קי עם מספיק נפח כדי להכיל את תוכן המשחק.
-
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
 #### לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
 
 * קונסולת Wii
 * [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
 
-קונסולת ה Wii ומחשבך האישי צריכים להיות מחוברים לרשת הביתית
+Your Wii and your computer must be connected to one local network
 {: .notice--warning}
 
 #### הוראות
