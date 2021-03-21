@@ -9,7 +9,7 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 Stanco del noioso, piatto tema bianco del Wii Menu, e vuoi invece un tema figo? Questo tutorial ti aiuterà ad ottenere un nuovo tema per il tuo Wii Menu!
 
-In caso di brick, [Installare Priiloader è necessario](priiloader). Installare anche BootMii (come Boot2 se hai già una Wii) Installare la protezione dai blocchi e seguire correttamente la guida ti tiene al sicuro da blocchi. NON CONTINUARE FINO A CHE NON HAI PRIILOADER E BOOTMII INSTALLATI!
+In caso di brick, [Installare Priiloader è necessario](priiloader). Installare anche BootMii (come Boot2 se hai già una Wii) Installare la protezione dai blocchi e seguire correttamente la guida ti tiene al sicuro da blocchi. Installare la protezione dai blocchi e seguire correttamente la guida ti tiene al sicuro da blocchi. NON CONTINUARE FINO A CHE NON HAI PRIILOADER E BOOTMII INSTALLATI!
 {: .notice--warning}
 
 Non installare un tema personalizzato su un vWii (Wii U), almeno che esso non sia stato formattato specificamente per la regione del vWii e della Wii U! Guarda [questo post su GBATemp](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) per più informazioni sui temi sul vWii.
