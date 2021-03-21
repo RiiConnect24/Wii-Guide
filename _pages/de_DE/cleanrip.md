@@ -25,7 +25,7 @@ Möchtest du ein Backup deiner Spiele machen? Diese Anleitung erklärt dir, wie 
 
 ##### Abschnitt 2 - Kopieren
 
-1. Wähle das Gerät auf das du das Spiel kopieren möchtest - dein USB-Laufwerk bzw. deine SD-Karte. ![Gerätetyp](/images/CleanRip/2.png)
+1. Wähle das Gerät auf das du das Spiel kopieren möchtest - dein USB-Laufwerk bzw. deine SD-Karte.![Gerätetyp](/images/CleanRip/2.png)
 1. Auf dem Bildschirm wirst du gefragt, ob du eine Datei mit Prüfsummen herunterladen möchtest, sodass du sicherstellen kannst, dass eine eins-zu-eins-Kopie der Disk erstellt wurde. Es ist deine Entscheidung, die Frage nach dem Download der Datei mit `Yes` oder `No` zu beantworten. ![DAT](/images/CleanRip/3.png)
 1. Schiebe nun die Disk, die du kopieren möchtest, ein. ![DVD](/images/CleanRip/4.png) ![Disc initialisieren](/images/CleanRip/5.png)
 1. Stelle alles so wie auf dem Bildschirm unten ein.<br>Wenn du weißt, dass du ein Spiel kopierst, welches eine Disk mit zwei Schichten nutzt, wie bspw. `Super Smash Bros. Brawl` oder `Metroid: Other M`, setze `Dual Layer` auf `Yes`. ![Einstellungen](/images/CleanRip/6.png)
