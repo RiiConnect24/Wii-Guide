@@ -38,10 +38,10 @@ Si Dolphin est déjà installé, allez directement à la Section II
 
 ![Run once](/images/Dolphin_RC24/4.jpg)
 
-Si vous choisissez de l'exécuter manuellement, conservez ` VFF-Downloader-for-Dolphin.bat `. Il y aura une option dans le menu pour l'exécuter manuellement.
+Si vous choisissez de l'exécuter manuellement, conservez `VFF-Downloader-for-Dolphin.bat`. Il y aura une option dans le menu pour l'exécuter manuellement.
 {: .notice--info}
 
-Si vous choisissez de l'exécuter au démarrage, vous n'avez rien à faire. Si vous souhaitez le désinstaller à l'avenir, revenez dans ` VFF-Downloader-for-Dolphin.bat ` ou ` VFF-Downloader-for-Dolphin.sh ` et choisissez `Manage startup VFF Downloader`.
+Si vous choisissez de l'exécuter au démarrage, vous n'avez rien à faire. Si vous souhaitez le désinstaller à l'avenir, revenez dans `VFF-Downloader-for-Dolphin.bat` ou `VFF-Downloader-for-Dolphin.sh` et choisissez `Manage startup VFF Downloader`.
 {: .notice--info}
 
 ##### Section III - Finaliser l'installation
