@@ -20,10 +20,10 @@ LetterBomb é uma vulnerabilidade para a Wii que é desencadeado utilizando o Wi
 1. Visita [please.hackmii.com](https://please.hackmii.com), coloca o teu Wii MAC e região, completa o CAPTCHA, *certifica* `Bundle the HackMii Installer for me!` *tem um visto*, e corta qualquer um dos fios
    - Não importa qual o fio que escolhas para cortar. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
 1. Extrai os conteúdos do ZIP descarregado para a raiz do teu cartão SD.
-1. Take out your SD card and insert it in your Wii.
-1. On your Wii, return to the Wii Menu and then open the Message Board.
-1. Load the red letter with a bomb icon.
-   - In various scenarios, you may need to look at the previous or next day to find it.
+1. Tira o teu cartão SD e coloca-o na tua Wii.
+1. Na tua Wii, regressa ao Wii Menu e depois abre o Message Board.
+1. Carrega na carta vermelha com o símbolo de uma bomba.
+   - Em vários cenários, poderás precisar de ver o dia anterior ou seguinte para a encontrares.
 
 Certifica se a data na tua Wii está correta, senão tu não encontrarás a carta.
 {: .notice--warning}
