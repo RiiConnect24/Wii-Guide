@@ -20,13 +20,13 @@ Este é um guia rápido de como utilizar o WiiFlow, um USB Loader para a Wii que
 Certifica-te que instalaste [cIOS](/cios) antes de seguir!
 {: .notice--info}
 
-We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, or [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS.
+Recomendamos que copies os jogos pelo [Wii Backup Manager](/wiibackupmanager) se usas Windows, ou [Wiitgui](https://desairem.com/wordpress/category/witgui-download/) se usas macOS.
 {: .notice--info}
 
 If you are not copying games using Wii Backup Manager or Witgui, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
 {: .notice--info}
 
-To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
+Para jogares os jogos, recomendamos que uses um disco externo Usb para a tua Wii. Os discos também devem ser utilizáveis, mas os discos rígidos são recomendados pois são mais confiáveis, podem armazenar mais jogos.
 {: .notice--info}
 
 Unlike USB Loader GX, WiiFlow can load games of an SD card.

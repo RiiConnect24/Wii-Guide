@@ -4,7 +4,7 @@ title: "USB Loader GX"
 
 {% include toc title="Zawartość" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.).
 {: .notice--info}
 
 To jest poradnik dotyczący USB Loader'a GX, popularnego loadera USB, który pozwala Ci na granie w gry z Twojego urządzenia USB (Dysk twardy, pendrive).
@@ -23,10 +23,10 @@ Upewnij się, że zainstalowałeś [cIOS](/cios) przed skorzystaniem z USB Loade
 Rekomendujemy instalację gier korzystając z [Wii Backup Manager](/wiibackupmanager) jeżeli korzystasz z Windowsa oraz [Witgui](https://desairem.com/wordpress/category/witgui-download/) jeżeli z macOS.
 {: .notice--info}
 
-If you are not copying games using Wii Backup Manager or Witgui, make a folder on the root of the USB drive named "wbfs" and put the games in there.
+Jeśli nie instalujesz gier korzystając z Wii Backup Manager lub Witgui, stwórz folder w głównym folderze Twojego dysku USB o nazwie "wbfs" i skopiuj tam gry.
 {: .notice--info}
 
-To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
+Aby grać w gry, zalecamy użycie dysku twardego zewnętrznego na USB. Napęd płomienia również powinien być użyteczny, ale zalecane są zewnętrzne dyski twarde, ponieważ są bardziej niezawodne i mogą przechowywać więcej gier.
 {: .notice--info}
 
 Upewnij sie, że Twoje urządzenie USB jest sformatowane jako FAT32 lub NTFS. Nie formatuj go do innych systemów plików takich jak extFS lub WBFS. WBFS jest starym formatem przechowywania gier Wii.
@@ -41,7 +41,7 @@ Upewnij sie, że Twoje urządzenie USB jest sformatowane jako FAT32 lub NTFS. Ni
 
 ##### Wprowadzenie
 
-There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
+Nie ma "poradnika" dotyczący tego jak korzystać z USB Loader GX. Poniższe informacje mają na celu nauczyć cię jak korzystać z interfejsu, aby zapewnić Ci szybki start. Powinieneś się dowiedzieć jak korzystać ze wszystkich funkcji USB Loader'a GX poprzez korzystanie z niego.
 {: .notice--info}
 
 * Jeżeli po uruchomieniu USB Loader'a GX na ekranie wyświetla się "Waiting for HDD..." z 20 sekundowym odlicznikiem czasu, prawdopodobnie USB Loader GX nie był w stanie znaleźć Twojego urządzenia USB. Spróbuj uruchomić program ponownie oraz włożyć urządzenie USB do innego portu w Twojej Wii.
@@ -51,11 +51,11 @@ There is no "guide" to use the USB Loader GX app. This is intended to help you l
 
 ##### Interfejs graficzny
 
-There are multiple buttons in the USB Loader GX interface.
+Na interfejsie USB Loader'a GX znajdziesz wiele przycisków.
 
 ###### Menu główne
 
-These are the functions the buttons found on the top of the main menu do, from left to right:
+Poniżej opisane są funkcje przycisków, które możesz znaleźć na samej górze interfejsu w kolejności od lewej do prawej:
 
 * Ulubione - Pokazuje gry, które oznaczyłeś jako ulubione.
 * Wyszukaj - Pozwala Ci wyszukać gry po ich nazwie.
@@ -69,18 +69,18 @@ These are the functions the buttons found on the top of the main menu do, from l
 * Kontrola rodzicielska - Zablokowuje ustawienia USB Loader GX za hasłem.
 * Płyta - Pozwala Ci uruchomić grę z płyty.
 
-Pressing any game will allow you to play the game by pressing "Start".
+Aby uruchomić grę, naciśnij na okładkę/wpis oraz naciśnij na "Start".
 
-There are also other buttons:
+Istnieją również inne przyciski na interfejsie:
 
-* (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
+* (+) Ikona - "Zainstaluj" grę, tzn. stworzenie jej kopii zapasowej.
 * Koło zębate - Ustawienia USB Loader'a GX.
 * Karta SD - wymontuj oraz zamontuj kartę SD.
 * Homebrew - Załaduj listę aplikacji homebrew.
 * Wii - Otwiera menu HOME, które możesz również przywołać poprzez naciśnięcie przycisku HOME na Twoim kontrolerze.
 * Przycisk zasilania - Wyłącz Twoje Wii.
 
-On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
+Po środku na dole ekranu, możesz zobaczyć ile miejsca jest wolnego na Twoim urządzeniu USB i ile gier jest zainstalowanych.
 
 ##### Co można zrobić po ukończeniu?
 

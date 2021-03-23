@@ -34,12 +34,12 @@ Eis uma lista de coisas que podes fazer usando homebrew. Enquanto esta lista nã
 - Tornar a tua Wii num reprodutor de mídia com o [WiiMC](http://www.wiimc.org/).
 
 
-## Ready?
+## Pronto?
 
 Vamos começar [escolhendo o teu exploit](get-started)!
 {: .notice--info}
 
-## More Resources
+## Mais Recursos
 
 Também tens mais alguns bons recursos para modificação e solução de problemas da Wii que te podem ajudar:
 

@@ -25,8 +25,8 @@ sitemap: false
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Kasowanie plików. VFF](deleting-vffs)
-+ [Fixing FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [Naprawianie błędu FORE000006](riiconnect24-batteryfix)
++ [Naprawianie błędu NEWS000006](news000006)
 
 **Modowanie w pigułce**
 + [BlueBomb](bluebomb)
@@ -54,7 +54,7 @@ sitemap: false
 + [WiiFlow](wiiflow)
 
 **Wii Mini**
-+ [Installing the Homebrew Channel on the Wii mini](hbc-mini)
++ [Instalowanie Homebrew Channel na Wii Mini](hbc-mini)
 + [Instalowanie cIOS na Wii Mini](cios-mini)
 
 **Strona**
