@@ -16,32 +16,32 @@ Priiloader dodaje dodatkowy poziom ochrony przez brickiem na Twoje Wii. Ładuje 
 
 #### Będziesz potrzebował
 * Karta SD lub urządzenie USB.
-* [Priiloader installer](assets/files/Priiloader_v0_9.zip)
+* [Instalator Priiloader'a](assets/files/Priiloader_v0_9.zip)
 
 #### Instrukcje
 ##### Sekcja I - Pobieranie/Instalowanie
 
-1. Download the Priiloader installer and extract it to the `apps` folder on your SD card or USB drive.
+1. Pobierz instalator Priiloader'a oraz wypakuj go do folderu `apps` na Twojej karcie SD lub urządzeniu USB.
     * Jeżeli ten folder nie istnieje, utwórz go.
 
 ##### Sekcja II - Instalowanie Priiloader'a
 
 1. Otwórz Homebrew Channel na Twoim Wii.
-2. Launch the Priiloader installer.
+2. Uruchom instalator Priiloader'a.
 3. Naciśnij przycisk `+` na Twoim Wii Remote lub przycisk `A` na kontrolerze GameCube. ![Zainstaluj Priiloader'a](/images/Priiloader/installer.png) ![Zainstaluj](/images/Priiloader/installing.png)
 
 ##### Sekcja III - Uruchamianie oraz konfigurowanie Priiloader'a
 
-1. Hold the RESET button while turning on your Wii.
-    * If you are using a Wii mini, plug in a USB keyboard and hold escape while turning it on
+1. Przytrzymaj przycisk RESET na Twoim Wii podczas uruchamiania konsoli.
+    * Jeżeli korzystasz z Wii Mini, podłącz klawiaturę USB oraz przytrzymaj przycisk ESCAPE podczas uruchamiania konsoli
 
 ![Włącz konsolę](/images/Priiloader/on.jpg) ![Przytrzymaj RESET](/images/Priiloader/reset.jpg)
 
 2. Powinieneś zobaczyć menu główne Priiloader'a. ![Menu](/images/Priiloader/mainmenu.png)
 3. Przejdź do `System Menu Hacks`.
-4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
-1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
-1. Scroll to `Homebrew Channel` and press A to launch it.
+4. Zalecamy włączenie następujących hacków: `Region Free EVERYTHING`, `Block Disc Updates` oraz `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
+1. Przewiń w dół, do `save settings` i naciśnij A, a następnie naciśnij B, aby wrócić do głównego menu Priiloadera.
+1. Przewiń do `Homebrew Channel` i naciśnij A, aby go uruchomić.
 
 ## Lista hacków System Menu
 
@@ -49,7 +49,7 @@ Poniżej znajduje się lista hacków, które możesz włączyć w Priiloaderze.
 
 | Hack                                    | Opis                                                                                                                                                             |
 | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Block Disc Updates                      | Removes the "Wii System Update" screen included with some games that forces you to update the system to play the game.                                           |
+| Block Disc Updates                      | Wyłącza ekran "Wii System Update" podczas uruchamiania gier które zmuszają Cię do aktualizacji oprogramowania.                                                   |
 | Block Online Updates                    | Blokuje wykonywania aktualizacji Twojej konsoli. Próby aktualizacji kończą się błędem 32007.                                                                     |
 | Auto-Press A at Health Screen           | Automatycznie naciska A na ekranie "Health and Safety".                                                                                                          |
 | Replace Health Screen with Backmenu     | Zamienia ekran "Health and Safety" na aminację kiedy wychodzisz z gry i uruchamiasz Wii Menu.                                                                    |
@@ -70,7 +70,7 @@ Poniżej znajduje się lista hacków, które możesz włączyć w Priiloaderze.
 | Remove Diagnostic Disc Check            | Wyłącza funkcje sprawdzającą czy w Wii jest włożona "Wii Startup Disc".                                                                                          |
 | Lock System Menu with Black Screen      | Powoduje, że Twoje Wii Menu zacina się na czarnym ekranie, powodując, że nie możesz z niego korzystać. (Nie włączaj tego)                                        |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Kanały z tymi ID skasowane przez Nintendo są ponownie widoczne.                                                                                                  |
-| Force Disc Games to run under IOS249    | Powoduje że gry na płytach uruchamiają się z cIOS 249. While it cannot allow playing of burned games on its own, it is needed to play burned discs.              |
+| Force Disc Games to run under IOS249    | Powoduje że gry na płytach uruchamiają się z cIOS 249. Chociaż nie pozwala Ci to na uruchomienie wypalonych płyt z grami, jest to wymagane aby w nie grać.       |
 
 
 Kontynuuj do instalacji cIOS<br>
