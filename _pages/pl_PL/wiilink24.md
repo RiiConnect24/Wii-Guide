@@ -4,43 +4,43 @@ title: "WiiLink24"
 
 {% include toc title="Zawartość" %}
 
-WiiLink24 and all of its services (such as Wii no Ma) are not controlled or operated by RiiConnect24. To get support on all issues relating this tutorial and service, join the [WiiLink24 Discord server](https://discord.gg/n4ta3w6).
+WiiLink24 i wszystkie jego usługi (takie jak Wii no Ma) nie są kontrolowane ani obsługiwane przez RiiConnect24. Aby uzyskać wsparcie we wszystkich kwestiach związanych z tym poradnikiem i usługą, dołącz do serwera [WiiLink24 Discord](https://discord.gg/n4ta3w6).
 {: .notice--warning}
 
-[WiiLink24](https://wiilink24.com/) lets you use the Japanese-exclusive Wii no Ma channel, and in the future will let you use the Digicam Print Channel and the Demae Channel again.
+[WiiLink24](https://wiilink24.com/) pozwala na skorzystanie z ekskluzywnych kanałów dla Japonii takich jak np. Wii no Ma Channel. W przyszłości będzie również oferował skorzystanie z Digicam Print Channel oraz Demae Channel.
 
 #### Będziesz potrzebował:
 
 * Karta SD lub urządzenie USB.
 * Konsola Wii z połączeniem Internetowym
-* A Windows or Unix based computer
+* Komputer oparty na systemie Windows lub Unix
 * [WiiLink24 Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
 #### Instrukcje
 
-##### Section I - Patching Wii no Ma
+##### Sekcja I – Patchowanie Wii no Ma
 
 [Jeżeli potrzebujesz dokładnych instrukcji dotyczących instalacji plików WAD, naciśnij tutaj!](wiimodlite)
 {: .notice--info}
 
-1. Pobierz wymagane pliki w zależności od Twojego systemu operacyjnego. On Windows, run `WiiLink24Patcher.bat`. On Unix systems, launch terminal and type sh, then drag the `WiiLink24Patcher.sh` into the terminal and press enter.
+1. Pobierz wymagane pliki w zależności od Twojego systemu operacyjnego. Na Windows, uruchom `WiiLink24Patcher.bat`. W systemach Unix otwórz terminal i wpisz bash, a następnie przeciągnij `RiiConnect24Patcher.sh`do terminalu, a następnie naciśnij ENTER.
 2. Naciśnij 1 aby wybrać "`Start`" oraz potwierdź swój wybór naciskając `ENTER`.
-3. For this guide, choose "`Install WiiLink24 on your Wii`"
-4. Select your region.
+3. Dla teog poradnika, wybierz "`Zainstaluj WiiLink24 na Twoim Wii`"
+4. Wybierz swój region.
 5. Podłącz kartę SD lub urządzenie USB do komputera oraz wybierz "`1`".
 6. Jeżeli Twoje urządzenie zostało pomyślnie wykryte, wybierz "`1`". Jeśli nie, upewnij się, że istnieję folder o nazwie `apps<code> na Twojej karcie SD lub urządzeniu USB i spróbuj ponownie.</li>
-<li>Be patient...</li>
-<li>Once it's done, you can safely close the patcher. Wszystkie pliki są gotowe na Twojej karcie SD.</li>
-<li>If it did not copy everything automatically to your SD Card or USB Device, copy the <code>WAD` and `apps` folder next to `WiiLink24Patcher.bat` to your SD Card or USB Device.
+<li>Bądź cierpliwy...</li>
+<li>Po zakończeniu, możesz bezpiecznie zamknąć patcher. Wszystkie pliki są gotowe na Twojej karcie SD.</li>
+<li>Jeżeli patcher nie skopiował wszystkiego automatycznie na Twoją kartę SD lub urządzenie USB, skopiuj folder <code>WAD` oraz `apps` (znajdują się w tym samym folderze co WiiLink24Patcher.bat) na Twoją kartę SD lub urządzenie USB.
 10. Włóż kartę SD lub urządzenie USB do Twojego Wii.
 11. Otwórz Homebrew Channel na Twoim Wii.
 12. Uruchom Wii Mod Lite.
 13. Używając Twojego kontrolera, przejdź do `WAD Manager` oraz wejdź do folderu `wad`.
-14. Select the Wii no Ma WAD and press A to install.
-15. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
-16. Launch Wii no Ma and enjoy!
+14. Wybierz plik WAD Wii no Ma i naciśnij A, aby zainstalować.
+15. Po ukońzconej pomyślnie instalacji, naciśnij przycisk HOME aby wyjść do Homebrew Channel.
+16. Miłego korzystania z Wii no Ma!
 
-For PAL(European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
+Dla regionu PAL(Europejskich Wii)<br> W Ustawieniach Wii ustaw rozdzielczość telewizora na 60 HZ (480p/480i). Możesz to znaleźć w `Screen -> TV Resolution` Jeśli tego nie zrobisz, różowy pasek pojawi się u dołu ekranu.
 {: .notice--info}
 
 [RiiConnect24](riiconnect24) jest serwisem, który pozwala Ci korzystać z już niewspieranego serwisu jakim jest WiiConnect24. Pozwala on korzystać z News Channel, Forecast Channel, Everybody Votes Channel jak i również Check Mii Out Channel oraz Wii Mail. Jest to opcjonalny krok.
