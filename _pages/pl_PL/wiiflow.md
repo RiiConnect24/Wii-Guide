@@ -32,57 +32,57 @@ Aby grać w gry, zalecamy użycie dysku twardego zewnętrznego na USB. Pendrivy 
 W przeciwieństwie do USB Loader GX, WiiFlow może uruchamiać gry z karty SD.
 {: .notice--info}
 
-Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Nie formatuj go do innych systemów plików takich jak extFS lub WBFS. WBFS jest starym formatem przechowywania gier Wii.
+Upewnij sie, że Twoje urządzenie USB lub karta SD jest sformatowana jako FAT32 lub NTFS. Nie formatuj go do innych systemów plików takich jak extFS lub WBFS. WBFS jest starym formatem przechowywania gier Wii.
 {: .notice--info}
 
 #### Instrukcje
 
 ##### Pobieranie
 
-1. Extract WiiFlow and put the `apps` and `WiiFlow` folders on your USB drive or SD card.
-2. Insert your USB drive, and SD card if you're using one, into your Wii and launch WiiFlow from the Homebrew Channel.
+1. Wyodrębnij WiiFlow i skopiuj folder `apps` i `WiiFlow` na Twój dysk USB lub na kartę SD.
+2. Włóż Twoje urządzenie USB lub kartę SD do Twojej Wii oraz uruchom Wii Flow Lite korzystając z Homebrew Channel.
 
 ##### Wprowadzenie
 
-This is not a full comprehensive guide on using WiiFlow. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow by using it.
+To nie jest wyczerpujący poradnik na temat korzystania z WiiFlow. Ma on Ci pomóc jak nauczyć się z niego korzystać, dając ci szybki start. Powinieneś się dowiedzieć jak korzystać ze wszystkich funkcji Wii Flow poprzez korzystanie z niego.
 {: .notice--info}
 
-* WiiFlow by default is set to only find games on the SD card. This can be changed by going in to settings, startup settings then turn off "Mount SD Only".
-* You can toggle between viewing Wii games, GameCube games, Wii Channels, Plugins, Homebrew apps by clicking the button second to last button on the right.
-* You can download game covers by going to "Settings" then "Download Covers and Banners"
+* WiiFlow domyślnie jest ustawione na znajdowanie gier tylko na karcie SD. Można to zmienić, przechodząc do ustawień, "Startup Settings", a następnie wyłączając "Mount SD Only".
+* Możesz przełączać się między przeglądaniem gier Wii i GameCube, Wii Channels, wtyczkami, aplikacjami Homebrew klikając na drugi od prawej na dole przycisk.
+* Możesz pobrać okładki gier przechodząc do ustawień, a następnie wybierając "Download Covers and Banners"
 
 ##### Interfejs graficzny
 
-When WiiFlow detects games, they are displayed in flow view. When you click on a game you are given these options:
+Gdy WiiFlow wykryje gry, są one wyświetlane w widoku flow. Po kliknięciu na grę otrzymujesz następujące opcje:
 
-* Star - Adds game to favorites.
-* Bookshelf - Adds the game to 1 of 6 categories of your choosing.
-* Gears - Opens the settings menu for the specific game. Changing settings here will only effect the game you changed the settings for.
-* X - Deletes the game from the USB drive or SD card
+* Gwiazdka - Dodaje grę do ulubionych.
+* Ikona półki na książki - Dodaje grę do 1 z 6 wybranych kategorii.
+* Koło zębate - Otwiera menu ustawień dla konkretnej gry. Zmiana ustawień tutaj zmieni je tylko dla tej jednej gry.
+* X - Kasuję grę z dysku USB lub karty SD
 
-When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
+Gdy przyniesiesz kursor na dole ekranu w widoku flow, powinieneś ujrzeć 6 ikon:
 
-* Bookshelf - View the games that are sorted in the categories you chose.
-* Star - View games you favorited.
-* Gears - Opens WiiFlow Settings.
-* Game Type - Toggles between different types of apps/games. The logo changes depending on what game type you have selected.
-* Disc - Loads game that is in disc drive.
-* House - Will open this menu. This menu can also be launched by pressing the home button.
+* Ikona półki na książki - Zobacz gry, które są posortowane w kategorii, którą wybrałeś.
+* Gwiazdka - Pokaż ulubione gry.
+* Koło zębate - wejdź do ustawień Wii Flow.
+* Typ gry - Przełącza pomiędzy różnymi typami aplikacji/gier. Logo zmienia się w zależności od wybranego typu gry.
+* Płyta - Ładuje grę z napędu optycznego.
+* Domek - Otworzy to menu. To menu może również zostać wywołane poprzez naciśnięcie HOME Button.
 
 ![WF_menu](images/WFmenu.png)
 
-* Help Guide - Shows all the controls you can use in WiiFlow.
-* Reload Cache - Press this when WiiFlow is not detecting a new game on the USB drive or SD card.
-* File Explorer - Allows you to boot games/apps from anywhere on your USB drive or SD card.
-* Select Plugins - Allows you to select plugins.
-* Credits - Shows the people who worked on WiiFlow.
-* Shutdown - Allows you to either go into full shutdown, or Standby mode.
-* Exit To - Lets you exit to Wii Menu, HBC, neek2o, Priiloader and Bootmii.
-* Settings - Will open the WiiFlow Settings menu
+* Help Guide - pokazuję wszystkie ustawienia sterowania Wii Flow.
+* Odśwież pamięć podręczną - wybierz tę opcję, gdy WiiFlow nie wykrywa nowych gier na dysku USB lub na karcie SD.
+* Eksplorator plików - Pozwala na uruchamianie gier/aplikacji z dowolnego miejsca na dysku USB lub karcie SD.
+* Wybierz wtyczki - Pozwala wybrać wtyczki.
+* Twórcy - Pokazuje ludzi, którzy pracowali nad WiiFlow.
+* Zamknięcie - Pozwala na pełne wyłączenie lub przejście tryb gotowości [Standby mode].
+* Wyjdź do - Pozwala wyjść do Wii Menu, HBC, neek2o, Priiloader lub Bootmii.
+* Ustawienia - otworzy menu ustawień WiiFlow
 
 ##### Co można zrobić po ukończeniu?
 
-[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki is a great resource with information about WiiFlow.
+[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki to świetny zasób informacji o WiiFlow.
 {: .notice--info}
 
 [Przejdź do spisu stron](site-navigation)<br> Mamy wiele innych poradników, które mogą Ci się przydać.
