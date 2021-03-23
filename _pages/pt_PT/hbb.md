@@ -2,7 +2,7 @@
 title: "Open Shop Channel (Homebrew Browser)"
 ---
 
-If you need help for anything regarding this tutorial, please join [the Open Shop Channel](https://discord.gg/osc) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se precisares de ajuda para algo relacionado a este tutorial, por favor junta-te [ o Open Shop Channel ](https://discord.gg/osc) (recomendado) ou [ manda-nos um email para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 O [ Open Shop Channel](https://oscwii.org/) é um lugar onde consegues ir para conseguires aplicações homebrew. É um projeto que renasceu para uma app chamada Homebrew Browser.
