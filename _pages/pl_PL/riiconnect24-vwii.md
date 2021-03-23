@@ -45,9 +45,9 @@ Jeśli nie możesz skorzystać z patchera, skorzystaj z [manualnego poradnika](h
 
 Używając RiiConnect24 Patcher'a, który już pobrałeś korzystając z [linku wyżej](#what-you-need), zastosujemy poprawkę na IOS31, News Channel, Everybody Votes Channel, Nintendo Channel oraz Check Mii Out Channel abyś mógł z nich korzystać na Twoim vWii.
 
-1. Run `RiiConnect24Patcher.bat` on Windows or `RiiConnect24Patcher.sh` on Unix systems by typing bash then drag `RiiConnect24Patcher.sh` into the terminal then press enter. Powinien wyglądać mniej więcej tak `bash RiiConnect24Patcher.sh`. Follow the on screen instructions
+1. Uruchom `RiiConnect24Patcher.bat` na Windows lub `RiiConnect24Patcher.sh` w systemach Unix wpisując bash i przeciągnij `RiiConnect24Patcher.sh` do terminalu, a następnie wciśnij ENTER. Powinien wyglądać mniej więcej tak `bash RiiConnect24Patcher.sh`. Postępuj zgodnie z instrukcjami na ekranie
 
-2. Confirm that after running through the patcher, you have 3 folders. They will be in the same folder where `RiiConnect24Patcher.bat/sh` is and on your SD Card (of course, only if you selected an option in the patcher to do so).
+2. Upewij się, że po zakończeniu korzystania z programu, będziesz widział 3 foldery. Będą one w tym samym folderze co `RiiConnect24Patcher.bat/sh` i na Twojej karcie SD (oczywiście, tylko jeżeli wybrałeś opcje w programie aby skopiował pliki).
    - Jeżeli program nie przeniósł tych plików na kartę SD, przenieś te 3 foldery na Twoją kartę SD.
 
 ##### Sekcja II - Instalowanie nowych zpatchowanych plików
@@ -55,7 +55,7 @@ Używając RiiConnect24 Patcher'a, który już pobrałeś korzystając z [linku 
 1. Uruchom Homebrew Channel
 2. Uruchom Wii Mod Lite
 3. Używając Twojego kontrolera, przejdź do `WAD Manager` oraz wejdź do folderu `wad`.
-4. Highlight all WADs with `RiiConnect24` in the name, and press + to select them. When all of them are selected, press A twice to install the WADs.
+4. Podświetl wszystkie WADy z `RiiConnect24` w nazwie, i naciśnij +, aby je zaznaczyć. Kiedy wybierzesz wszystkie z nich, naciśnij A aby zainstalować pliki WAD.
 5. Po ukońzconej pomyślnie instalacji, naciśnij przycisk HOME aby wyjść do Homebrew Channel.
 
 ##### Sekcja III - Patchowanie 43db dla 16:9 (opcjonalnie)
@@ -70,7 +70,7 @@ Jeżeli zainstalujesz motyw, będziesz musiał ponownie uruchomić ww-43db-patch
 
 Po wykonaniu powyższych czynności, jesteś prawie gotowy do korzystania z RiiConnect24 na Twoim Wii U. Będziesz musiał wykonać poniższe kroki **za każdym razem, kiedy uruchomisz vWii**.
 
-1. On the vWii's **Wii Menu**, launch the **ConnectMii** channel.
+1. W **menu głównym** vWii uruchom **ConnectMii** Channel.
 * To umożliwi korzystanie z funkcji WiiConnect24 oraz Standby Connection, które są wymagane przez WiiConnect24.
 2. Uruchom jakiś kanał, który korzysta z WiiConnect24
 Powinieneś teraz być w stanie korzystać ze wszystkich kanałów, które są na Twoim Wii oraz korzystają z WiiConnect24!
@@ -89,5 +89,5 @@ Poniższe serwisy RiiConnect24 **działają** na vWii:
 Poniższe serwisy RiiConnect24 **nie działają** na vWii:
 * Wii Mail (większość z funkcjonalności nie istnieje na vWii)
     * W to również wchodzi wysyłanie/otrzymywanie wiadomości do/od przyjaciół. Możesz jedynie otrzymywać aktualizacje z feedów RSSMii (jeżeli je ustawiłeś).
-* Everything else that isn't working according to [RiiConnect24 stats](https://rc24.xyz/stats/index.html).
+* Oraz wszystko inne co nie działa, zgodnie ze [statystykami serwisu RiiConnect24](https://rc24.xyz/stats/index.html).
 {: .notice--warning}
