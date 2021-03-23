@@ -38,14 +38,14 @@ Po skorzystaniu z powyższego poradnika, powinieneś mieć:
 
 #### Instrukcje
 
-If you use cannot use the patcher, please [follow the manual guide](https://pad.snopyta.org/s/rJ2N0B1XU), to install RiiConnect24. The end result is the same regardless of the method followed.
+Jeśli nie możesz skorzystać z patchera, skorzystaj z [manualnego poradnika](https://pad.snopyta.org/s/rJ2N0B1XU), aby zainstalować RiiConnect24. Efekt końcowy jest taki sam bez względu na to z jakiej metody skorzystasz.
 {: .notice--info}
 
 ##### Sekcja I - Uruchamianie patcher'a
 
 Używając RiiConnect24 Patcher'a, który już pobrałeś korzystając z [linku wyżej](#what-you-need), zastosujemy poprawkę na IOS31, News Channel, Everybody Votes Channel, Nintendo Channel oraz Check Mii Out Channel abyś mógł z nich korzystać na Twoim vWii.
 
-1. Run `RiiConnect24Patcher.bat` on Windows or `RiiConnect24Patcher.sh` on Unix systems by typing bash then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this `bash RiiConnect24Patcher.sh`. Follow the on screen instructions
+1. Run `RiiConnect24Patcher.bat` on Windows or `RiiConnect24Patcher.sh` on Unix systems by typing bash then drag `RiiConnect24Patcher.sh` into the terminal then press enter. Powinien wyglądać mniej więcej tak `bash RiiConnect24Patcher.sh`. Follow the on screen instructions
 
 2. Confirm that after running through the patcher, you have 3 folders. They will be in the same folder where `RiiConnect24Patcher.bat/sh` is and on your SD Card (of course, only if you selected an option in the patcher to do so).
    - Jeżeli program nie przeniósł tych plików na kartę SD, przenieś te 3 foldery na Twoją kartę SD.
