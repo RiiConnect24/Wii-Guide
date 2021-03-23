@@ -1,5 +1,5 @@
 ---
-title: "Dumping Wii/GameCube games over local network"
+title: "Tworzenie kopii zapasowej gier Wii/GameCube przez sieć lokalną"
 ---
 
 #### Będziesz potrzebował
@@ -7,7 +7,7 @@ title: "Dumping Wii/GameCube games over local network"
 * Konsola Wii.
 * [Narzędzie DVD Dump](/assets/files/DVDDumpTool.zip)
 
-Your Wii and your computer must be connected to one local network
+Twoje Wii oraz Twój komputer muszą być podłączone do jednej sieci lokalnej
 {: .notice--warning}
 
 #### Instrukcje
