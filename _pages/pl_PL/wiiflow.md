@@ -9,12 +9,12 @@ Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz d
 
 ![WiiFlow](/images/wiiflowlogo.png)
 
-This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that's used to play games from a USB drive or SD card.
+To jest poradnik dotyczący Wii Flow, popularnego loadera USB, który pozwala Ci na granie w gry z Twojego dysku USB lub karty SD.
 
 #### Będziesz potrzebował:
 
 * Konsola Wii
-* A USB drive and/or SD card
+* Urządzenie USB lub/i karta SD
 * [WiiFlow](https://github.com/Fledge68/WiiFlow_Lite/releases)
 
 Upewnij się, że zainstalowałeś [cIOS](/cios) przed skorzystaniem z USB Loader'a GX.
@@ -23,13 +23,13 @@ Upewnij się, że zainstalowałeś [cIOS](/cios) przed skorzystaniem z USB Loade
 Rekomendujemy instalację gier korzystając z [Wii Backup Manager](/wiibackupmanager) jeżeli korzystasz z Windowsa oraz [Witgui](https://desairem.com/wordpress/category/witgui-download/) jeżeli z macOS.
 {: .notice--info}
 
-If you are not copying games using Wii Backup Manager or Witgui, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
+Jeśli nie instalujesz gier korzystając z Wii Backup Manager lub Witgui, stwórz folder w głównym folderze Twojego dysku USB lub karty SD o nazwie "wbfs" i skopiuj tam gry.
 {: .notice--info}
 
-To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
+Aby grać w gry, zalecamy użycie dysku twardego zewnętrznego na USB. Pendrivy również powinny być użyteczne, ale zalecane są zewnętrzne dyski twarde, ponieważ są bardziej niezawodne i mogą przechowywać więcej gier.
 {: .notice--info}
 
-Unlike USB Loader GX, WiiFlow can load games of an SD card.
+W przeciwieństwie do USB Loader GX, WiiFlow może uruchamiać gry z karty SD.
 {: .notice--info}
 
 Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Nie formatuj go do innych systemów plików takich jak extFS lub WBFS. WBFS jest starym formatem przechowywania gier Wii.
