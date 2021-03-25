@@ -47,9 +47,9 @@ Sollte der RiiConnect24-Patcher bei dir weiterhin nicht funktionieren, sende uns
 [Falls du detaillierte Anweisungen zur Installation der WADs erhalten möchtest, klicke hier!](wiimodlite)
 {: .notice--info}
 
-1. Starte unter Windows die `RiiConnect24Patcher.bat`. Es sollte folgendermaßen aussehen: `bash RiiConnect24Patcher.sh`. Auf Unix-Systemen öffne das Terminal und gib `bash` ein, ziehe anschließend die `RiiConnect24Patcher.sh` auf das Terminal und drücke Enter.
+1. Starte unter Windows die `RiiConnect24Patcher.bat`. Auf Unix-Systemen öffne das Terminal und gib `bash` ein, ziehe anschließend die `RiiConnect24Patcher.sh` auf das Terminal und drücke Enter. Es sollte folgendermaßen aussehen: `bash RiiConnect24Patcher.sh`.
 2. Drücke 1 um "`Start`" auszuwählen und bestätige die Eingabe mit `ENTER`. ![Riiconnect24 Patcher Hauptbildschirm](/images/RC24_Patcher/1.PNG)
-3. Wähle das Gerät welchen du patchen möchtest. ![Wähle dein Gerät](/images/RC24_Patcher/2.PNG)
+3. Wähle das Gerät welches du patchen möchtest. ![Wähle dein Gerät](/images/RC24_Patcher/2.PNG)
 4. Für diese Anleitung wähle "`Installiere RiiConnect24 auf deiner Wii`" aus ![Installiere RiiConnect24](/images/RC24_Patcher/3.PNG)
 5. Wähle "`Express (Empfohlen)`". Hier wird alles installiert was du benötigst. ![Expresseinstellungen](/images/RC24_Patcher/4.PNG)
 6. Wähle deine Region. ![Wähle deine Region](/images/RC24_Patcher/5.PNG)
@@ -62,8 +62,8 @@ Sollte der RiiConnect24-Patcher bei dir weiterhin nicht funktionieren, sende uns
 13. Starte den Homebrew-Kanal auf deiner Wii.
 14. Starte Wii Mod Lite.
 15. Mithilfe der rechten Steuerkreuztaste auf deiner Wii-Fernbedienung, wähle `WAD Manager` und wähle dann den `wad`-Ordner.
-16. Markiere alle WADs, welche `RiiConnect24` im Namen enthalten und drücke anschließend +, um sie zu markieren. Hast du alle markiert, drücke zweimal A um die WADs zu installieren.
-17. Falls du eine Fehlermeldung erhälst die besagt, dass bereits eine neuere Version installiert ist (Fehler -1035), gehe zurück in das WAD-Auswahlmenü und drücke den Minus-Knopf bei der markierten WAD um sie zu deinstallieren.
+16. Markiere alle WADs, welche `RiiConnect24` im Namen enthalten und drücke anschließend +, um sie auszuwählen. Hast du alle markiert, drücke zweimal A um die WADs zu installieren.
+17. Falls du eine Fehlermeldung erhältst die besagt, dass bereits eine neuere Version installiert ist (Fehler -1035), gehe zurück in das WAD-Auswahlmenü und drücke den Minus-Knopf bei der markierten WAD um sie zu deinstallieren. Versuche anschließend sie erneut zu installieren.
 18. Nach erfolgreicher Installation drücke den Home-Knopf um zum Homebrew-Kanal zurückzukehren.
 
 ##### Abschnitt 3 - nwc24msg.cfg patchen
@@ -78,7 +78,7 @@ Falls es nicht geklappt hat deine nwc24msg.cfg zu patchen, sende uns eine E-Mail
 
 ##### Abschnitt 4 - Verbindung
 
-In dieser Anleitung wirst du den DNS zu unseren Servern einstellen. Dies ist Optional aber empfohlen, da es den Nutzen und einige Funktionen von RiiConnect24 und Wiimmfi erweitert.
+In diesem Abschnitt wirst du deinen DNS zu unseren Servern einstellen. Dies ist optional, aber empfohlen, da es den Nutzen und einige Funktionen von RiiConnect24 und Wiimmfi erweitert.
 
 1. Gehe in die `Wii-Optionen`.
 2. Gehe in die `Wii-Systemeinstellungen`.
@@ -87,8 +87,8 @@ In dieser Anleitung wirst du den DNS zu unseren Servern einstellen. Dies ist Opt
 5. Wähle deine derzeitige Verbindung aus.
 6. Gehe auf `Ändern`.
 7. Gehe auf `DNS automatisch beziehen` (Nicht IP-Adresse), wähle dann `Nein` und gehe dann auf `Detaileinstellungen`.
-8. Gebe `164.132.44.106` als primärer DNS-Server an.
-9. Gebe `1.1.1.1` sekundären DNS-Server an (falls du Probleme hast, versuche `8.8.8.8`).
+8. Gib `164.132.44.106` als primären DNS ein.
+9. Gib `1.1.1.1` als sekundären DNS ein (falls es Probleme verursacht, versuche `8.8.8.8`).
 10. Wähle `Bestätigen`, dann `Speichern`.
 11. Wähle `OK` um einen Verbindungstest durchzuführen.
 12. Wenn der Verbindungstest erfolgreich war, wähle `Nein`, um das Wii-Systemupdate zu überspringen.
