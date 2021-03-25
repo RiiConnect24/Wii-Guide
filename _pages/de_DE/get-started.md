@@ -22,7 +22,7 @@ Diese Anleitung ist nur für die originale Wii mit der aktuellsten Systemversion
     * (Benötigt eine Internet-Verbindung und die Änderung des DNS-Servers)
 - [LetterBomb](letterbomb) - Exploit, der die Wii-Pinnwand benutzt
     * (Benötigt eine SD-Karte)
-- [FlashHax](flashhax) - Exploit, der den Internt-Kanal nutzt
+- [FlashHax](flashhax) - Exploit, der den Internet-Kanal nutzt
     * (Benötigt einen installierten Internet-Kanal und eine Internet-Verbindung)
 - [BlueBomb](bluebomb) - Exploit, der Bluetooth benutzt
     * Erfordert einen Computer mit Bluetooth und GNU/Linux, sowie ein USB-Laufwerk
