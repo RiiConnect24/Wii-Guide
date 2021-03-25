@@ -93,33 +93,33 @@ In diesem Abschnitt wirst du deinen DNS zu unseren Servern einstellen. Dies ist 
 11. Wähle `OK` um einen Verbindungstest durchzuführen.
 12. Wenn der Verbindungstest erfolgreich war, wähle `Nein`, um das Wii-Systemupdate zu überspringen.
 13. Gehe auf `WiiConnect24`, anschließend erneut auf `WiiConnect24` und stelle sicher, dass es eingeschaltet ist.
-14. Zurück in das WiiConnect24-Menü, gehe auf `Verbindung bei Standby` und stelle sicher, dass dies eingeschaltet ist.
-15. Bei `Blinksignal` empfehlen wir dir die Heilligkeit auf `Schwach` oder `Stark` einzustellen, dies ist aber optional.
+14. Zurück im WiiConnect24-Menü, gehe auf `Verbindung bei Standby` und stelle sicher, dass dies eingeschaltet ist.
+15. Bei `Blinksignal` empfehlen wir dir, die Helligkeit auf `Schwach` oder `Stark` einzustellen, dies ist aber optional.
 16. Als letztes geht es in die `Internet`-Einstellungen, wähle anschließend `Nutzungsbedingungen` oder `Vertrag/Kontakt` und bestätige mit `Ja`. Bitte lies dir alles durch.
 
 
-[Weiter zu Wimmfi](wiimmfi)<br> Wiimmfi lässt einen Spiele online spielen, nach der Abschaltung der Nintendo Wi-Fi Connection. Dies zu installieren ist nicht zwingend erforderlich.
+[Weiter zu Wiimmfi](wiimmfi)<br> Wiimmfi ermöglicht es dir, Spiele online spielen zu können obwohl die Nintendo Wi-Fi Connection eingestellt wurde. Dies zu installieren ist nicht zwingend erforderlich.
 {: .notice--info}
 
-[Fortfahren mit WiiLink24](wiilink24)<br> WiiLink24 lässt dich Japan-exklusiven Wii no Ma-Kanal verwenden. Dies zu installieren ist nicht zwingend erforderlich.
+[Weiter zu WiiLink24](wiilink24)<br> WiiLink24 lässt dich den Japan-exklusiven Wii no Ma-Kanal verwenden. Dies zu installieren ist nicht zwingend erforderlich.
 {: .notice--info}
 
-Wenn du Fehler 107245 erhälst, hast du wahrscheinlich dein IOS nicht korrekt gepatcht.
+Falls du den Fehler 107245 erhältst, hast du wahrscheinlich dein IOS nicht korrekt gepatcht.
 {: .notice--info}
 
-Falls du den Fehler 107304 erhälst, blockiert möglicherweise dein Internetanbieter die Nutzung alternativer DNS-Server. Eine Möglichkeit dies zu umgehen, ist es deinen eigenen DNS-Server zu betreiben! Schau hierzu unter [RiiConnect24 DNS Server on GitHub](https://github.com/RiiConnect24/DNS-Server), nutze anschließend die IP-Adresse deines PCs anstelle unserer DNS aus Schritt 8.
+Falls du den Fehler 107304 erhältst, blockiert möglicherweise dein Internetanbieter die Nutzung alternativer DNS-Server. Eine Möglichkeit dies zu umgehen, ist es deinen eigenen DNS-Server zu betreiben! Schau hierzu unter [RiiConnect24 DNS Server on GitHub](https://github.com/RiiConnect24/DNS-Server), nutze anschließend die IP-Adresse deines PCs anstelle unserer DNS aus Schritt 8.
 {: .notice--info}
 
-If you get error FORE000006, your Wii's clock is probably set incorrectly. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel should start working.
+Falls du den Fehler FORE000006 erhältst, ist deine Wii-Uhr wahrscheinlich nicht korrekt eingestellt. Stelle Datum und Uhrzeit richtig ein, warte anschließend maximal eine Stunde und der Wetterkanal sollte funktionieren.
 {: .notice--warning}
 
-[Falls du den Fehler NEWS000006 erhälst, sollte das Befolgen dieser Anleitung das Problem beheben.](news000006)
+[Falls du den Fehler NEWS000006 erhältst, sollte das Befolgen dieser Anleitung das Problem beheben.](news000006)
 {: .notice--warning}
 
-If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. Du wirst diesen Fehler erhalten wenn du ein Land einstellst welches wir nicht unterstützen. Kantaktiere uns üner [support@riiconnect24.net](mailto:support@riiconnect24.net) falls du weitere Hilfe benötigst.
+Solltest du Fehlermeldungen erhalten wie z.B. `WiiConnect24 und Wii-Shop-Kanal sind zur Zeit nicht in deinem Land verfügbar`, gehe in die Wii-Einstellungen -> Letzte Seite -> Land und ändere es in "Vereinigtes Königreich". Du wirst diesen Fehler erhalten wenn du ein Land einstellst welches wir nicht unterstützen. Kontaktiere uns unter [support@riiconnect24.net](mailto:support@riiconnect24.net) falls du weitere Hilfe benötigst.
 {: .notice--warning}
 
-[Solltest du die Meldung erhalten dass der Nachtichten- oder Wetterkanal eingestellt wurden, sollte das Befolgen dieser Anleitung das Problem beheben.](deleting-vffs)
+[Solltest du beim Öffnen des Nachrichten- oder Wetterkanals eine Meldung bekommen, dass dieser eingestellt wurde, sollte das Befolgen dieser Anleitung das Problem beheben.](deleting-vffs)
 {: .notice--warning}
 
 [Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
