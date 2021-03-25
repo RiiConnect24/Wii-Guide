@@ -9,7 +9,7 @@ Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [Rii
 
 ![WiiFlow](/images/wiiflowlogo.png)
 
-This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that's used to play games from a USB drive or SD card.
+Dies ist eine Schnellstart-Anleitung zu WiiFlow, einem USB-Loader für die Wii um Spiele von einem USB-Laufwerk oder einer SD-Karte spielen zu können.
 
 #### Voraussetzungen
 
@@ -17,34 +17,34 @@ This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that
 * Ein USB-Laufwerk und/oder eine SD-Karte
 * [WiiFlow](https://github.com/Fledge68/WiiFlow_Lite/releases)
 
-Stelle sicher, dass du vorher [cIOS](/cios) installiert hast!
+Stelle sicher, dass du bereits [cIOS](/cios) installiert hast!
 {: .notice--info}
 
 Wenn du Windows verwendest empfehlen wir dir deine Spiele mit [Wii Backup Manager](/wiibackupmanager) zu kopieren. Falls du macOS verwendest empfehlen wir dir [Witgui](https://desairem.com/wordpress/category/witgui-download/).
 {: .notice--info}
 
-If you are not copying games using Wii Backup Manager or Witgui, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
+Um Spiele ohne Wii Backup Manager oder Witgui zu kopieren, erstelle einen Ordner namens "wbfs" im Stammverzeichnis deines USB-Laufwerks und kopiere die Spiele in diesen Ordner.
 {: .notice--info}
 
-To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
+Zum Spielen empfehlen wir die Verwendung einer externen Festplatte für deine Wii. USB-Sticks sollten zwar auch funktionieren, jedoch sind externe Festplatten empfehlenswert da sie zuverlässiger sind und auch mehr Spiele speichern können.
 {: .notice--info}
 
-Unlike USB Loader GX, WiiFlow can load games of an SD card.
+Im Gegensatz zu USB Loader GX kann WiiFlow Spiele auch von einer SD-Karte laden.
 {: .notice--info}
 
-Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Formatiere es mit keine anderen Dateisysteme wie zum Beispiel extFS oder WBFS, welches ein altes Format zum Speichern von Wii-Spielen ist.
+Stelle sicher, dass dein USB-Laufwerk und/oder SD-Karte als FAT32 oder NTFS formatiert ist. Formatiere es mit keinem anderen Dateisystem wie zum Beispiel extFS oder WBFS, letzteres ist ein altes Format zum Speichern von Wii-Spielen.
 {: .notice--info}
 
 #### Anleitung
 
 ##### Herunterladen
 
-1. Extract WiiFlow and put the `apps` and `WiiFlow` folders on your USB drive or SD card.
-2. Insert your USB drive, and SD card if you're using one, into your Wii and launch WiiFlow from the Homebrew Channel.
+1. Entpacke WiiFlow und kopiere die `apps`- und `WiiFlow`-Ordner auf dein USB-Laufwerk oder SD-Karte.
+2. Stecke dein USB-Laufwerk und SD-Karte (falls du eine benutzt) in deine Wii und starte WiiFlow über den Homebrew-Kanal.
 
 ##### Einstieg
 
-This is not a full comprehensive guide on using WiiFlow. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow by using it.
+Dies ist keine vollumfängliche Anleitung zu WiiFlow. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow by using it.
 {: .notice--info}
 
 * WiiFlow by default is set to only find games on the SD card. This can be changed by going in to settings, startup settings then turn off "Mount SD Only".
@@ -53,12 +53,12 @@ This is not a full comprehensive guide on using WiiFlow. This is intended to hel
 
 ##### Benutzeroberfläche
 
-When WiiFlow detects games, they are displayed in flow view. When you click on a game you are given these options:
+When WiiFlow detects games, they are displayed in flow view. Wenn du auf ein Spiel klickst, werden dir die folgenden Optionen angeboten:
 
-* Star - Adds game to favorites.
-* Bookshelf - Adds the game to 1 of 6 categories of your choosing.
-* Gears - Opens the settings menu for the specific game. Changing settings here will only effect the game you changed the settings for.
-* X - Deletes the game from the USB drive or SD card
+* Stern - Fügt Spiel den Favoriten hinzu.
+* Bücherregal - Fügt Spiel zu einer von 6 Kategorien deiner Wahl hinzu.
+* Zahnräder - Öffnet das Einstellungsmenü des gewählten Spiels. Changing settings here will only effect the game you changed the settings for.
+* X - Löscht das Spiel vom USB-Laufwerk oder SD-Karte
 
 When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
 
