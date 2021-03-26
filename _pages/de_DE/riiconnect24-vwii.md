@@ -29,7 +29,7 @@ Verwende diese Anleitung **NICHT** auf irgendeiner anderen Konsole als der vWii 
 * Eine Wii U-Konsole, die in der Lage ist, den Homebrew Launcher zu starten (entweder über den Webbrowser-Exploit, Haxchi oder Coldboot Haxchi). **Falls du keine über Software gemoddete Wii U-Konsole hast, folge bitte [wiiuguide.xyz](https://wiiuguide.xyz), sowie [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) und kehre anschließend zurück.**
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-Nach du der oben verlinkten Anleitung gefolgt bist, solltest du nun folgendes haben:
+Nachdem du der oben verlinkten Anleitung gefolgt bist, solltest du nun folgendes haben:
 * Eine NAND-Sicherung der vWii und Schlüssel (Speicher diese sicher ab!!)
 * Den installierten Homebrew-Kanal
 * Die installierten d2x cIOS (IOS249, IOS250 und IOS251)
