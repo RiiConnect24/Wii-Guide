@@ -1,5 +1,5 @@
 ---
-title: "Dumping Wii/GameCube games over local network"
+title: "Wii/GameCube-Spiele über ein lokales Netzwerk sichern"
 ---
 
 #### Voraussetzungen
