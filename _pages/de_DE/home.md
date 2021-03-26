@@ -34,12 +34,12 @@ Hier ist eine Liste mit Dingen die du mit Homebrew machen kannst. Auch wenn dies
 - Verwende deine Wii als Media Player mit [WiiMC](http://www.wiimc.org/).
 
 
-## Ready?
+## Bereit?
 
 Beginne mit der [Auswahl deines Exploits](get-started)!
 {: .notice--info}
 
-## More Resources
+## Weitere Quellen
 
 Es gibt weitere gute Quellen für Wii-Modding und zur Fehlerbehebung, die dir helfen können:
 
