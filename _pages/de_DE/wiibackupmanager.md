@@ -32,7 +32,7 @@ Stelle sicher, dass dein USB-Laufwerk als FAT32 oder NTFS formatiert ist. Format
 ##### Abschnitt 2 - Spiele kopieren
 
 1. Gehe in den Abschnitt `Drive 1` und wähle dann `Drive`.
-2. Wähle das Laufwerk, dass du für die Wii-Spiele verwendest.
+2. Wähle das Laufwerk, das du für die Wii-Spiele verwendest.
 3. Gehe in den Abschnitt `Files` und wähle dann `Add`.
 4. Wähle `Files` um mehrere Spiele zum Programm hinzuzufügen oder wähle `Folder` um einen Ordner mit Spielen hinzuzufügen.
 5. Wähle `Transfer` und dann `Drive 1` um die Spiele zu übertragen. Es kann eine Weile dauern, die Spiele zu kopieren.
