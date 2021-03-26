@@ -34,12 +34,12 @@ Voici une liste de choses que vous pouvez faire avec des homebrew. Bien que cett
 - Transformer votre Wii en lecteur multimédia avec [WiiMC](http://www.wiimc.org/).
 
 
-## Ready?
+## Prêt ?
 
 Commencez par [choisir votre exploit](get-started) !
 {: .notice--info}
 
-## More Resources
+## Plus de ressources
 
 Il existe d'autres bonnes ressources (en anglais) sur la modification et le dépannage de Wii qui pourront vous aider :
 
