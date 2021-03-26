@@ -55,10 +55,10 @@ Dies ist keine vollumfängliche Anleitung zu WiiFlow. This is intended to help y
 
 When WiiFlow detects games, they are displayed in flow view. Wenn du auf ein Spiel klickst, werden dir die folgenden Optionen angeboten:
 
-* Stern - Fügt Spiel den Favoriten hinzu.
-* Bücherregal - Fügt Spiel zu einer von 6 Kategorien deiner Wahl hinzu.
+* Stern - Fügt das Spiel den Favoriten hinzu.
+* Bücherregal - Fügt das Spiel zu einer von 6 Kategorien deiner Wahl hinzu.
 * Zahnräder - Öffnet das Einstellungsmenü des gewählten Spiels. Änderungen in den Einstellungen betreffen nur das Spiel für welches die Einstellungen geändert wurden.
-* X - Löscht das Spiel vom USB-Laufwerk oder SD-Karte
+* X - Löscht das Spiel vom USB-Laufwerk oder von der SD-Karte
 
 When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
 
