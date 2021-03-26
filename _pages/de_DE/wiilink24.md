@@ -13,7 +13,7 @@ WiiLink24 und alle zugehörigen Dienste (wie z. B. Wii no Ma) werden nicht von R
 
 * Eine SD-Karte oder ein USB-Laufwerk
 * Eine Wii mit Internetverbindung
-* Ein Windows- oder Unix-basierender Computer
+* Ein Windows- oder Unix-basierter Computer
 * [WiiLink24 Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
 #### Anleitung
