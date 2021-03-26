@@ -32,15 +32,15 @@ Zum Spielen empfehlen wir die Verwendung einer externen Festplatte für deine Wi
 Im Gegensatz zu USB Loader GX kann WiiFlow Spiele auch von einer SD-Karte laden.
 {: .notice--info}
 
-Stelle sicher, dass dein USB-Laufwerk und/oder SD-Karte als FAT32 oder NTFS formatiert ist. Formatiere es mit keinem anderen Dateisystem wie zum Beispiel extFS oder WBFS, letzteres ist ein altes Format zum Speichern von Wii-Spielen.
+Stelle sicher, dass dein USB-Laufwerk und/oder deine SD-Karte als FAT32 oder NTFS formatiert ist. Formatiere es mit keinem anderen Dateisystem wie zum Beispiel extFS oder WBFS, letzteres ist ein altes Format zum Speichern von Wii-Spielen.
 {: .notice--info}
 
 #### Anleitung
 
 ##### Herunterladen
 
-1. Entpacke WiiFlow und kopiere die `apps`- und `WiiFlow`-Ordner auf dein USB-Laufwerk oder SD-Karte.
-2. Stecke dein USB-Laufwerk und SD-Karte (falls du eine benutzt) in deine Wii und starte WiiFlow über den Homebrew-Kanal.
+1. Entpacke WiiFlow und kopiere die `apps`- und `WiiFlow`-Ordner auf dein USB-Laufwerk oder deine SD-Karte.
+2. Verbinde dein USB-Laufwerk und deine SD-Karte (falls du eine benutzt) mit deiner Wii und starte WiiFlow über den Homebrew-Kanal.
 
 ##### Einstieg
 
@@ -63,7 +63,7 @@ When WiiFlow detects games, they are displayed in flow view. Wenn du auf ein Spi
 When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
 
 * Bookshelf - View the games that are sorted in the categories you chose.
-* Star - View games you favorited.
+* Stern - Zeigt deine Favoriten an.
 * Zahnräder - Öffnet die WiiFlow-Einstellungen.
 * Game Type - Toggles between different types of apps/games. The logo changes depending on what game type you have selected.
 * Disc - Lädt das Spiel, welches sich im Laufwerk befindet.
