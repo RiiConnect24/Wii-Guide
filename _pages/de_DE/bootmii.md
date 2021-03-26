@@ -9,10 +9,10 @@ Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [Rii
 
 ![BootMii-Logo](/images/bootmii.png)
 
-Du brauchst eine **SD-Karte** um eine NAND-Sicherung mittels BootMii zu erstellen. Falls du keine hast, kannst du diese Seite überspringen, jedoch wird es stark empfohlen, eins nach Möglichkeit zu erstellen.
+Du brauchst eine **SD-Karte** um eine NAND-Sicherung mittels BootMii zu erstellen. Falls du keine hast, kannst du diese Seite überspringen, jedoch ist es sehr empfehlenswert, nach Möglichkeit eine Sicherung zu erstellen.
 {: .notice--warning}
 
-Eines von BootMiis wichtigsten Features ist die Möglichkeit, den NAND-Speicher deiner Wii zu sichern und wiederherzustellen. Wir befassen uns nun mit der Durchführung einer NAND-Sicherung. Diese Sicherung kannst du dann, aus welchem Grund auch immer, wiederherstellen. Es ist empfehlenswert eine NAND-Sicherung regelmäßig zu erstellen, bevor du etwas riskantes an deiner Konsole durchführst (wenn du weisst was du tust, wirst du nichts riskantes durchführen müssen).
+Eines von BootMiis wichtigsten Features ist die Möglichkeit, den NAND-Speicher deiner Wii zu sichern und wiederherzustellen. Wir befassen uns nun mit der Durchführung einer NAND-Sicherung. Diese Sicherung kannst du dann, aus welchem Grund auch immer, wiederherstellen. Es ist empfehlenswert eine NAND-Sicherung regelmäßig zu erstellen, oder bevor du etwas riskantes an deiner Konsole durchführst (wenn du weißt was du tust, wirst du nichts riskantes durchführen müssen).
 
 #### Voraussetzungen
 * Eine SD-Karte mit mindestens 512MB freiem Speicher
@@ -31,7 +31,7 @@ Eines von BootMiis wichtigsten Features ist die Möglichkeit, den NAND-Speicher 
 3. Wähle nun die Einstellungen aus (die Schaltfläche mit den Zahnrädern).
 4. Gehe auf BackupMii (die Schaltfläche mit dem grünen Pfeil).
 - Die NAND-Sicherung startet. Du kannst den Fortschritt auf dem Bildschirm sehen.
-- "Bad Blocks" (kaputte Blöcke) sind normal. Mach dir also keine Sorgen, wenn du welche während der NAND-Sicherung sehen solltest
+- "Bad Blocks" (defekte Blöcke) sind normal. Mach dir also keine Sorgen, wenn du welche während der NAND-Sicherung sehen solltest
 - Nach diesem Schritt wird die Sicherung überprüft. Dies wird zwar empfohlen, kann aber auch durch Drücken der EJECT-Taste an der Wii-Konsole übersprungen werden.
 5. Wenn die Sicherung abgeschlossen ist, beende den NAND-Sicherungsbildschirm durch Drücken einer beliebigen Taste.
 6. Um BootMii zu beenden, wähle die Zurück-Schaltfläche aus (die mit dem Pfeil) und anschließend entweder die Wii-Menü- oder die Homebrew-Kanal-Schaltfläche, je nachdem, wohin du möchtest.
