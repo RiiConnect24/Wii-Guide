@@ -110,13 +110,13 @@ Si vous obtenez l'erreur 107245, vous n'avez probablement pas réussi à patcher
 Si vous obtenez l'erreur 107304, votre FAI bloque peut-être l'utilisation du DNS personnalisé. Une solution de contournement peut être d'exécuter votre propre serveur DNS! Consultez [RiiConnect24 DNS Server sur GitHub ](https://github.com/RiiConnect24/DNS-Server), puis utilisez l'adresse IP de votre PC à la place de notre DNS à l'étape 8.
 {: .notice--info}
 
-If you get error FORE000006, your Wii's clock is probably set incorrectly. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel should start working.
+Si vous obtenez une erreur FORE000006, l'horloge de votre Wii est probablement mal réglée. Réglez-la à la date et à l'heure correctes, attendez moins d'une heure et la chaîne Météo devrait commencer à fonctionner.
 {: .notice--warning}
 
 [Si vous obtenez l'erreur NEWS000006, suivre ce tutoriel devrait la corriger.](news000006)
 {: .notice--warning}
 
-If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. Vous obtiendrez cette erreur lors de l'utilisation d'un pays que nous ne prenons pas en charge. Contactez-nous à [support@riiconnect24.net](mailto:support@riiconnect24.net) si vous avez besoin d'aide.
+Si vous obtenez des erreurs telles que `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, veuillez accéder aux paramètres Wii -> Dernière page -> Pays et changez-le en Royaume-Uni. Vous obtiendrez cette erreur lors de l'utilisation d'un pays que nous ne prenons pas en charge. Contactez-nous à [support@riiconnect24.net](mailto:support@riiconnect24.net) si vous avez besoin d'aide.
 {: .notice--warning}
 
 [Si vous recevez un message interrompu lors de l'ouverture de la Chaîne Infos ou de la Chaîne Météo, suivre ce tutoriel devrait résoudre le problème.](deleting-vffs)
