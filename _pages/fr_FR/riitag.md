@@ -64,7 +64,7 @@ Les étapes pour connecter RiiTag à votre USB Loader dépendent de l'USB Loader
 Vous avez besoin d'un compte Discord pour que cela fonctionne.
 {: .notice--info}
 
-1. [Join the RiiConnect24 Discord server](https://discord.gg/rc24) if you aren't already in there.
+1. [Rejoignez le serveur Discord RiiConnect24](https://discord.gg/rc24) si vous n'y êtes pas déjà.
 2. Vérifiez que `Afficher le jeu en cours en tant que message de statut` est activé dans les préférences.
 3. Assurez-vous que votre client Discord est ouvert.
 4. Jouez à un jeu et RiiTag mettra automatiquement à jour votre tag lorsque vous jouez à un jeu.
