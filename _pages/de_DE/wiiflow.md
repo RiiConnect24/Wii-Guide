@@ -57,17 +57,17 @@ When WiiFlow detects games, they are displayed in flow view. Wenn du auf ein Spi
 
 * Stern - Fügt Spiel den Favoriten hinzu.
 * Bücherregal - Fügt Spiel zu einer von 6 Kategorien deiner Wahl hinzu.
-* Zahnräder - Öffnet das Einstellungsmenü des gewählten Spiels. Changing settings here will only effect the game you changed the settings for.
+* Zahnräder - Öffnet das Einstellungsmenü des gewählten Spiels. Änderungen in den Einstellungen betreffen nur das Spiel für welches die Einstellungen geändert wurden.
 * X - Löscht das Spiel vom USB-Laufwerk oder SD-Karte
 
 When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
 
 * Bookshelf - View the games that are sorted in the categories you chose.
 * Star - View games you favorited.
-* Gears - Opens WiiFlow Settings.
+* Zahnräder - Öffnet die WiiFlow-Einstellungen.
 * Game Type - Toggles between different types of apps/games. The logo changes depending on what game type you have selected.
-* Disc - Loads game that is in disc drive.
-* House - Will open this menu. This menu can also be launched by pressing the home button.
+* Disc - Lädt das Spiel, welches sich im Laufwerk befindet.
+* Haus - Öffnet dieses Menü. Dieses Menü kann auch durch Drücken auf den Home-Knopf geöffnet werden.
 
 ![WF_menu](images/WFmenu.png)
 
