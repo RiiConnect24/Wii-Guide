@@ -20,7 +20,7 @@ WiiLink24 und alle zugehörigen Dienste (wie z. B. Wii no Ma) werden nicht von R
 
 ##### Abschnitt 1 - Patchen von Wii no Ma
 
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+[Wenn du detaillierte Anweisungen zur Installation von WADs sehen möchtest, klicke hier!](wiimodlite)
 {: .notice--info}
 
 1. Lade abhängig von deinem Betriebssystem die benötigten Dateien herunter. On Windows, run `WiiLink24Patcher.bat`. On Unix systems, launch terminal and type sh, then drag the `WiiLink24Patcher.sh` into the terminal and press enter.
