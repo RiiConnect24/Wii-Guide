@@ -45,9 +45,9 @@ Wenn du den Patcher nicht verwenden kannst, folge bitte [diesem Guide](https://p
 
 Mithilfe des RiiConnect24 Patchers den du bereits bei den [Voraussetzungen](#what-you-need) heruntergeladen hast, wirst du IOS31, den Nachrichtenkanal, Meinungskanal, Nintendo-Kanal und Mii-Wettbewerbskanal für die Verwendung auf deiner vWii herunterladen und patchen.
 
-1. Starte `RiiConnect24Patcher.bat` unter Windows, oder `RiiConnect24Patcher.sh` auf Unix-Systemen. Es sollte folgendermaßen ausehen: `bash RiiConnect24Patcher.sh`. Folge den Anweisungen auf dem Bildschirm
+1. Starte `RiiConnect24Patcher.bat` unter Windows, oder `RiiConnect24Patcher.sh` auf Unix-Systemen. Öffne dort das Terminal, gib bash ein, zieh die `RiiConnect24Patcher.sh` auf das Terminal und drücke anschließend Enter. Es sollte folgendermaßen aussehen: `bash RiiConnect24Patcher.sh`. Folge den Anweisungen auf dem Bildschirm
 
-2. Stelle sicher dass nach dem Ausführen des Patcher drei Ordner vorhanden sind. Es werden die identischen Ordner sein auf der sich `RiiConnect24Patcher.bat/sh` auf deiner SD-Karte befindet. (natürlich nur, wenn du die entsprechende Option im Patcher ausgewählt hattest).
+2. Stelle sicher dass nach dem Ausführen des Patchers drei Ordner vorhanden sind. Es werden die identischen Ordner sein auf der sich `RiiConnect24Patcher.bat/sh` auf deiner SD-Karte befindet. (natürlich nur, wenn du die entsprechende Option im Patcher ausgewählt hattest).
    - Falls der Patcher die Dateien nicht auf die SD-Karte verschoben hat, verschiebe diese drei Ordner in das oberste Verzeichnis deiner SD-Karte.
 
 ##### Abschnitt 2 - Installieren der neuen gepatchten WADs
@@ -68,7 +68,7 @@ Falls du ein Design installierst, musst du den ww-43db-patcher ein weiteres Mal 
 
 ##### Abschnitt 4 - RiiConnect24 benutzen
 
-Nachdem du den obrigen Abschnitten gefolgt bist, bist du fast fertig, um RiiConnect24 auf deiner Wii U zu verwenden. Du musst nur den folgenden Schritten **nach jedem Neustart der vWii** folgen.
+Nachdem du den obigen Abschnitten gefolgt bist, bist du fast fertig, um RiiConnect24 auf deiner Wii U zu verwenden. Du musst nur den folgenden Schritten **nach jedem Neustart der vWii** folgen.
 
 1. Öffne im **Wii-Menü** der vWii den **ConnectMii**-Kanal.
 * Dies aktiviert das Zeichen für WiiConnect24 und Verbindung im Standby, welche für die WiiConnect24-Kanäle erforderlich sind.
