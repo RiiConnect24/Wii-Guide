@@ -15,7 +15,7 @@ Ceci est un guide de démarrage rapide sur la façon d'utiliser WiiFlow, un USB 
 
 * Une Wii
 * Un périphérique USB et/ou une carte SD
-* [WiiFlow](https://github.com/Fledge68/WiiFlow_Lite/releases)
+* [WiiFlow Lite](https://hbb1.oscwii.org/hbb/wiiflow/wiiflow.zip)
 
 Assurez-vous d'avoir installé [cIOS](/cios) avant de continuer !
 {: .notice--info}
