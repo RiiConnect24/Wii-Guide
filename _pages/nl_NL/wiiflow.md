@@ -20,10 +20,13 @@ This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that
 Zorg ervoor dat u [cIOS](/cios) heeft geïnstalleerd voordat u dit volgt!
 {: .notice--info}
 
-We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, or [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS.
+We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux.
 {: .notice--info}
 
-If you are not copying games using Wii Backup Manager or Witgui, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
+If you want to play games that are in NKit format, use [this program](https://gbatemp.net/download/nkit.36157/) to convert them to ISO first. You can also use a development build of Dolphin, right click on a game, and use "Convert File" to convert it.
+{: .notice--info}
+
+If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fusion, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
 {: .notice--info}
 
 To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
