@@ -20,19 +20,22 @@ Dies ist eine Schnellstart-Anleitung zu WiiFlow, einem USB-Loader für die Wii u
 Stelle sicher, dass du bereits [cIOS](/cios) installiert hast!
 {: .notice--info}
 
-Wenn du Windows verwendest empfehlen wir dir deine Spiele mit [Wii Backup Manager](/wiibackupmanager) zu kopieren. Falls du macOS verwendest empfehlen wir dir [Witgui](https://desairem.com/wordpress/category/witgui-download/).
+We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux.
 {: .notice--info}
 
-Um Spiele ohne Wii Backup Manager oder Witgui zu kopieren, erstelle einen Ordner namens "wbfs" im Stammverzeichnis deines USB-Laufwerks und kopiere die Spiele in diesen Ordner.
+If you want to play games that are in NKit format, use [this program](https://gbatemp.net/download/nkit.36157/) to convert them to ISO first. You can also use a development build of Dolphin, right click on a game, and use "Convert File" to convert it.
+{: .notice--info}
+
+If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fusion, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
 {: .notice--info}
 
 Zum Spielen empfehlen wir die Verwendung einer externen Festplatte für deine Wii. USB-Sticks sollten zwar auch funktionieren, jedoch sind externe Festplatten empfehlenswert da sie zuverlässiger sind und auch mehr Spiele speichern können.
 {: .notice--info}
 
-Im Gegensatz zu USB Loader GX kann WiiFlow Spiele auch von einer SD-Karte laden.
+Unlike USB Loader GX, WiiFlow can load games of an SD card.
 {: .notice--info}
 
-Stelle sicher, dass dein USB-Laufwerk und/oder deine SD-Karte als FAT32 oder NTFS formatiert ist. Formatiere es mit keinem anderen Dateisystem wie zum Beispiel extFS oder WBFS, letzteres ist ein altes Format zum Speichern von Wii-Spielen.
+Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Formatiere es mit keine anderen Dateisysteme wie zum Beispiel extFS oder WBFS, welches ein altes Format zum Speichern von Wii-Spielen ist.
 {: .notice--info}
 
 #### Anleitung
@@ -44,7 +47,7 @@ Stelle sicher, dass dein USB-Laufwerk und/oder deine SD-Karte als FAT32 oder NTF
 
 ##### Einstieg
 
-Dies ist keine vollumfängliche Anleitung zu WiiFlow. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow by using it.
+This is not a full comprehensive guide on using WiiFlow. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow by using it.
 {: .notice--info}
 
 * WiiFlow by default is set to only find games on the SD card. This can be changed by going in to settings, startup settings then turn off "Mount SD Only".
@@ -53,7 +56,7 @@ Dies ist keine vollumfängliche Anleitung zu WiiFlow. This is intended to help y
 
 ##### Benutzeroberfläche
 
-When WiiFlow detects games, they are displayed in flow view. Wenn du auf ein Spiel klickst, werden dir die folgenden Optionen angeboten:
+When WiiFlow detects games, they are displayed in flow view. When you click on a game you are given these options:
 
 * Stern - Fügt das Spiel den Favoriten hinzu.
 * Bücherregal - Fügt das Spiel zu einer von 6 Kategorien deiner Wahl hinzu.
@@ -82,7 +85,7 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 
 ##### Möglichkeiten nach Abschluss
 
-[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki ist eine großartige Quelle mit Informationen rund um WiiFlow.
+[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki is a great resource with information about WiiFlow.
 {: .notice--info}
 
 [Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
