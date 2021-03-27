@@ -15,7 +15,7 @@ To jest poradnik dotyczący Wii Flow, popularnego loadera USB, który pozwala Ci
 
 * Konsola Wii
 * Urządzenie USB lub/i karta SD
-* [WiiFlow](https://github.com/Fledge68/WiiFlow_Lite/releases)
+* [WiiFlow Lite](https://hbb1.oscwii.org/hbb/wiiflow/wiiflow.zip)
 
 Upewnij się, że zainstalowałeś [cIOS](/cios) przed skorzystaniem z USB Loader'a GX.
 {: .notice--info}
