@@ -54,7 +54,7 @@ Esta é uma lista de hacks que podes ativar com o Priiloader.
 | Auto-Press A at Health Screen           | Automatically presses the A Button to get past the "Health and Safety" screen.                                                          |
 | Replace Health Screen with Backmenu     | Changes the "Health and Safety" screen to the animation played when returning to the Wii menu.                                          |
 | Move Disc Channel                       | Enables moving the Disc Channel anywhere on the Wii Menu. It's normally stuck in the top left of the first page.                        |
-| Wiimmfi Patch v3                        | Automatically patches all games you run from the Disc Channel for use with Wiimmfi                                                      |
+| Wiimmfi Patch v4                        | Automatically patches all games you run from the Disc Channel for use with Wiimmfi.                                                     |
 | 480p graphics fix in system menu        | Fixes a small issue with 480p on the Wii Menu.                                                                                          |
 | Remove NoCopy Save File Protection      | Allows you to copy normally disallowed save files to your SD card from data management                                                  |
 | Region Free EVERYTHING                  | Disables region locking for any Wii application, including downloaded ones.                                                             |
