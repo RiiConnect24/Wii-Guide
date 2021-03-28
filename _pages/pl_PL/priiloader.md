@@ -54,7 +54,7 @@ Poniżej znajduje się lista hacków, które możesz włączyć w Priiloaderze.
 | Auto-Press A at Health Screen           | Automatycznie naciska A na ekranie "Health and Safety".                                                                                                          |
 | Replace Health Screen with Backmenu     | Zamienia ekran "Health and Safety" na aminację kiedy wychodzisz z gry i uruchamiasz Wii Menu.                                                                    |
 | Move Disc Channel                       | Pozwala Ci na przesuwanie Disc Channel gdziekolwiek chcesz. Normalnie, Disc Channel jest zablokowany w pierwszym miejscu u góry po lewej.                        |
-| Wiimmfi Patch v3                        | Automatycznie patchuje wszystkie gry, które uruchamiasz za pomocą Disc Channel do użycia z Wiimmfi                                                               |
+| Wiimmfi Patch v4                        | Automatically patches all games you run from the Disc Channel for use with Wiimmfi.                                                                              |
 | 480p graphics fix in system menu        | Naprawia mały problem z rodzielczością 480p w Menu Wii.                                                                                                          |
 | Remove NoCopy Save File Protection      | Pozwala na kopiowanie zapisów gier na Kartę SD z ekranu zarządzania pamięcią, których normalnie nie mógłbyś przenieść                                            |
 | Region Free EVERYTHING                  | Włącza region free na wszystko co masz na Twoim Wii, łącznie z rzeczami pobranymi.                                                                               |
