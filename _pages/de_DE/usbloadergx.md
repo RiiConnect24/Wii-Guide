@@ -20,13 +20,13 @@ Die ist eine Kurzanleitung zur Verwendung des USB Loader GX, einem beliebten USB
 Stelle sicher, dass du vorher [cIOS](/cios) installiert hast!
 {: .notice--info}
 
-We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux.
+Wenn du Windows verwendest empfehlen wir dir Spiele mit [Wii Backup Manager](/wiibackupmanager) zu kopieren. Falls du macOS verwendest empfehlen wir dir [Witgui](https://desairem.com/wordpress/category/witgui-download/).
 {: .notice--info}
 
-If you want to play games that are in NKit format, use [this program](https://gbatemp.net/download/nkit.36157/) to convert them to ISO first. You can also use a development build of Dolphin, right click on a game, and use "Convert File" to convert it.
+Wenn Sie Spiele im NKit-Format spielen möchten, verwenden Sie [dieses Programm](https://gbatemp.net/download/nkit.36157/) um diese zuerst in eine ISO umzuwandeln. Sie können auch eine Entwicklungs-Build von Dolphin verwenden: Rechtsklick auf ein Spiel und "Convert File" anklicken um es zu konvertieren.
 {: .notice--info}
 
-If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fusion, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
+Um Spiele ohne Wii Backup Manager oder Witgui zu kopieren, erstelle einen Ordner namens "wbfs" im Stammverzeichnis deines USB-Laufwerks und kopiere die Spiele in diesen Ordner.
 {: .notice--info}
 
 Zum Spielen empfehlen wir die Verwendung einer externen Festplatte für deine Wii. USB-Sticks sollten zwar auch funktionieren, jedoch sind externe Festplatten empfehlenswert da sie zuverlässiger sind und auch mehr Spiele speichern können.
@@ -44,7 +44,7 @@ Stelle sicher, dass dein USB-Laufwerk als FAT32 oder NTFS formatiert ist. Format
 
 ##### Einstieg
 
-There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
+Es gibt keine Anleitung zum Nutzen der USB Loader GX-Anwendung. Dies soll dir den Einstieg erleichtern, um dir dabei zu helfen, zu lernen, wie man sie verwendet. Du solltest in der Lage sein, alle großartigen Funktionen von USB Loader GX selbst herauszufinden, indem du es benutzt.
 {: .notice--info}
 
 * Wenn USB Loader GX "Waiting for HDD..." mit einem 20-Sekunden-Countdown anzeigt, ist es wahrscheinlich, dass es das USB-Laufwerk nicht finden kann. Versuche, das Programm zu verlassen und erneut zu starten, nachdem du das USB-Laufwerk mit dem anderen Anschluss der Wii verbunden hast.
@@ -54,11 +54,11 @@ There is no "guide" to use the USB Loader GX app. This is intended to help you l
 
 ##### Benutzeroberfläche
 
-There are multiple buttons in the USB Loader GX interface.
+Es gibt mehrere Schaltflächen in der USB Loader GX-Oberfläche.
 
 ###### Hauptmenü
 
-These are the functions the buttons found on the top of the main menu do, from left to right:
+Dies sind die Funktionen der Schaltflächen oben im Hauptmenü, von links nach rechts aufgeführt:
 
 * Stern - Zeigt Spiele, die du als Favoriten markiert hast.
 * Suche - Erlaubt es dir, Spiele über ihren Namen zu suchen.
@@ -72,9 +72,9 @@ These are the functions the buttons found on the top of the main menu do, from l
 * Altersbeschränkungen - Sperrt den USB Loader GX.
 * Disc - Lädt ein Spiel von der Disc.
 
-Pressing any game will allow you to play the game by pressing "Start".
+Wenn du ein beliebiges Spiel auswählst, kannst du das Spiel durch Drücken von "Start" spielen.
 
-There are also other buttons:
+Es gibt auch andere Schaltflächen:
 
 * (+)-Symbol - "Installiert" ein Spiel, d.h. es wird von der Disc geladen und gesichert.
 * Zahnräder - Einstellungen für USB Loader GX.
@@ -83,7 +83,7 @@ There are also other buttons:
 * Wii - Öffnet das HOME-Menü, welches ebenfalls beim Drücken der HOME-Taste auf der Wii-Fernbedienung angezeigt wird.
 * Power-Taste - Schaltet deine Wii aus.
 
-On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
+Mittig am unteren Bildschirmrand kannst du sehen, wie viel Speicherplatz noch auf deinem USB-Laufwerk vorhanden ist, und wie viele Spiele zu besitzt.
 
 ##### Möglichkeiten nach Abschluss
 
