@@ -33,7 +33,7 @@ Ti preghiamo di **non** installare Priiloader su una Virtual Wii (modalità Wii 
 ##### Sezione 3 - Entrare/Configurare Priiloader
 
 1. Tieni premuto il tasto RESET mentre stai avviando la tua Wii.
-    * Se stai uando una WIi mini, inserisci una tastiera USB e premi premuto ESC mentre la stai avviando
+    * If you are using a Wii mini, plug in a USB keyboard and hold Escape on it while turning it on.
 
 ![Accendere](/images/Priiloader/on.jpg) ![Tenere premuto RESET](/images/Priiloader/reset.jpg)
 
@@ -47,40 +47,37 @@ Ti preghiamo di **non** installare Priiloader su una Virtual Wii (modalità Wii 
 
 Questa è una lista di hacks che puoi attivare con Priiloader.
 
-| Hack                                    | Descrizione                                                                                                                                                                        |
-| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Block Disc Updates                      | Rimuove lo schemo "Wii System Update" incluso in alcuni giochi che ti constringe ad aggiornare la console per giocarci.                                                            |
-| Block Online Updates                    | Disabilita gli aggiornamenti della tua Wii. Ogni aggiornamento fallirà con errore 32007.                                                                                           |
-| Auto-Press A at Health Screen           | Preme il tasto A automaticamente per oltrepassare la schermata "Salute e Sicurezza".                                                                                               |
-| Replace Health Screen with Backmenu     | Cambia la schemata "Salute e Sicurezza" con l'animazione riprodotta quando si ritorna nel Menu Wii.                                                                                |
-| Move Disc Channel                       | Ti permette dii spostare il Canale Disco dove vuoi nel Menu Wii. Normalmente è bloccato in alto a sinistra nella prima pagina.                                                     |
-| Wiimmfi Patch v4                        | Automatically patches all games you run from the Disc Channel for use with Wiimmfi.                                                                                                |
-| 480p graphics fix in system menu        | Risolve un piccolo problema con la definizione in 480p nel Menu Wii.                                                                                                               |
-| Remove NoCopy Save File Protection      | Consente di copiare i file di salvataggio normalmente non consentiti sulla scheda SD dalla gestione dei dati                                                                       |
-| Region Free EVERYTHING                  | Disabilita i blocchi regionali per ogni applicazione Wii, anche quelli scaricati.                                                                                                  |
-| Region Free GC Games (No VM Patch)      | Disabilita i blocchi regionali per i dischi GameCube.                                                                                                                              |
-| Region Free Wii Games                   | Disabilita i blocchi regionali per i dischi Wii.                                                                                                                                   |
-| Region Free Channels                    | Disabilita i blocchi regionali per i canali installati                                                                                                                             |
-| No System Menu Sounds AT ALL            | Disabilita tutti gli effetti sonori nel Menu Wii.                                                                                                                                  |
-| No System Menu Background Music         | Disabilita la musica di sottofondo nel Menu Wii.                                                                                                                                   |
-| Re-Enable Bannerbomb v2                 | Abilita l'exploit "Bannerbomb" nella versione più recente della Wii. Non è necessario se l'Homebrew Channel è già installato.                                                      |
-| OSReport to UsbGecko(slot B)            | Invia i log del Menu Wii ad un dispositivo di debugging nello slot delle memory card B.                                                                                            |
-| OSReport to UsbGecko(GeckoOS,B)         | Invia i log del Menu Wii ad un dispositivo di debugging nello slot delle memory card B, se il Menu Wii è avviato da Gecko OS.                                                      |
-| Force Standard Recovery Mode            | Avvia la console in modalità di recupero automaticamente. Viene usato per avviare dischi di recupero, permettendo agli utenti di unbrickare le loro Wii.                           |
-| Remove Diagnostic Disc Check            | Rimuove un controllo nella Wii che rileva se è il disco inserito è il "Wii Startup Disc".                                                                                          |
-| Lock System Menu with Black Screen      | Fa avviare il menu Wii con una schermata nera, rendendo impossibile utilizzarlo. (Non abilitare questa opzione)                                                                    |
-| No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Re-abilita l'utilizzo di canali con questi title ID (normalmente bloccati negli aggiornamenti della console per essere degli exploits).                                            |
-| Force Disc Games to run under IOS249    | Imposta il cIOS 249 come l'IOS del gioco avviato da un disco. Mentre questo non può abilitare giocare a giochi masterizzati in casa, è necessario per giocare dischi masterizzati. |
+| Hack                                    | Descrizione                                                                                                                                                                                                                      |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Block Disc Updates                      | Removes the "Wii System Update" screen included with some games that forces you to update the system before playing the game.                                                                                                    |
+| Block Online Updates                    | Disabilita gli aggiornamenti della tua Wii. Ogni aggiornamento fallirà con errore 32007.                                                                                                                                         |
+| Auto-Press A at Health Screen           | Automatically presses the A Button to get past the initial "Health and Safety" screen.                                                                                                                                           |
+| Replace Health Screen with Backmenu     | Changes the "Health and Safety" screen to the animation played when returning to the Wii Menu.                                                                                                                                   |
+| Move Disc Channel                       | Ti permette dii spostare il Canale Disco dove vuoi nel Menu Wii. Normalmente è bloccato in alto a sinistra nella prima pagina.                                                                                                   |
+| Wiimmfi Patch v4                        | Automatically patches all games you run from the Disc Channel for use with Wiimmfi.                                                                                                                                              |
+| 480p graphics fix in system menu        | Risolve un piccolo problema con la definizione in 480p nel Menu Wii.                                                                                                                                                             |
+| Remove NoCopy Save File Protection      | Allows you to copy normally disallowed save files to your SD card from Data Management                                                                                                                                           |
+| Region Free EVERYTHING                  | Disabilita i blocchi regionali per ogni applicazione Wii, anche quelli scaricati.                                                                                                                                                |
+| Region Free GC Games (No VM Patch)      | Disabilita i blocchi regionali per i dischi GameCube.                                                                                                                                                                            |
+| Region Free Wii Games                   | Disabilita i blocchi regionali per i dischi Wii.                                                                                                                                                                                 |
+| Region Free Channels                    | Disables region locking for installed Channels.                                                                                                                                                                                  |
+| No System Menu Sounds AT ALL            | Disabilita tutti gli effetti sonori nel Menu Wii.                                                                                                                                                                                |
+| No System Menu Background Music         | Disabilita la musica di sottofondo nel Menu Wii.                                                                                                                                                                                 |
+| Re-Enable Bannerbomb v2                 | Abilita l'exploit "Bannerbomb" nella versione più recente della Wii. Non è necessario se l'Homebrew Channel è già installato.                                                                                                    |
+| OSReport to UsbGecko(slot B)            | Invia i log del Menu Wii ad un dispositivo di debugging nello slot delle memory card B.                                                                                                                                          |
+| OSReport to UsbGecko(GeckoOS,B)         | Invia i log del Menu Wii ad un dispositivo di debugging nello slot delle memory card B, se il Menu Wii è avviato da Gecko OS.                                                                                                    |
+| Force Standard Recovery Mode            | Avvia la console in modalità di recupero automaticamente. Viene usato per avviare dischi di recupero, permettendo agli utenti di unbrickare le loro Wii.                                                                         |
+| Remove Diagnostic Disc Check            | Removes a check in the Wii to see if an inserted game matches the title ID of the "Wii Startup Disc".                                                                                                                            |
+| Lock System Menu with Black Screen      | Fa avviare il menu Wii con una schermata nera, rendendo impossibile utilizzarlo. (Non abilitare questa opzione)                                                                                                                  |
+| No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Re-abilita l'utilizzo di canali con questi title ID (normalmente bloccati negli aggiornamenti della console per essere degli exploits).                                                                                          |
+| Force Disc Games to run under IOS249    | Imposta il cIOS 249 come l'IOS del gioco avviato da un disco. Mentre questo non può abilitare giocare a giochi masterizzati in casa, è necessario per giocare dischi masterizzati. (Can give you Error 002 on a non-burned game) |
 
 
-Continua per installare i cIOS<br>
+Continue to installing cIOS<br> cIOS are used to play games with a USB Loader. It's also useful for many other homebrew apps.
 {: .notice--info}
 
-I cIOS sono utilizzati per giocare a giochi con uno USB Loader. Anche se non è ciò che vuoi fare, è utile per molte apps hombrew.
+If using a Wii mini, follow [this guide](cios-mini) to install cIOS
 {: .notice--info}
 
-Se stai usando una Wii Mini, segui [questa guida](cios-mini) per installare i cIOS
-{: .notice--info}
-
-Se stai usando un Wii, segui [questa guida](cios) per installare i cIOS
+If using a normal Wii, follow [this guide](cios) to install cIOS
 {: .notice--info}
