@@ -15,7 +15,7 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 Αυτή η σελίδα είναι **μόνο** για χρήστες του Wii mini. Εάν έχετε ένα κανονικό Wii, ακολουθήστε [αυτόν τον οδηγό](hbc).
 {: .notice--info}
 
-Ενώ είναι δυνατό να κάνετε εγκατάσταση του BootMii σε ένα Wii Mini, δεν θα μπορείτε να το χρησιμοποιήσετε μέχρι να κάνετε κόλληση μιας θύρας κάρτας SD στην μητρική πλακέτα του.
+While it is possible to install BootMii on a Wii mini, you will need to solder an SD card slot. That requires opening up your Wii mini and using special tools, so it is not recommended.
 {: .notice--info}
 
 1. Θα δείτε ένα μήνυμα προειδοποίησης για scam. Περιμένετε 30 δευτερόλεπτα για να εμφανιστεί το κείμενο "Press 1 to continue", και μετά πατήστε το 1. ![Οθόνη Scam](/images/Wii/ScamScreen.png)
@@ -23,7 +23,6 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 1. Πατήστε Continue, μετά επιλέξτε το Homebrew Channel, και πατήστε εγκατάσταση (install). ![Εγκαταστήσετε το Κανάλι Homebrew](/images/Wii/InstallHomebrewChannel.png)
 
 1. Πατήστε Continue όταν τελειώσει. ![Επιτυχία Εγκατάστασης του Καναλιού Homebrew](/images/Wii/SuccessHBC.png)
-
 
 1. Μόλις τελειώσετε, επιλέξτε `Exit` για έξοδο από το πρόγραμμα εγκατάστασης HackMii.
 
