@@ -31,7 +31,7 @@ Für die originale Wii empfehlen wir dir nicht, BlueBomb zu verwenden, falls du 
 #### Abschnitt 2 - Ausführen des Exploits
 1. Lade den HackMii Installer von [der BootMii-Website](https://bootmii.org/download/) herunter.
 - (Falls du versuchst, einen Brick zu beheben, solltest du auch die Homebrew-Anwendung, die du nutzen möchtest, nach /apps/ kopieren)
-1. Entpacke ihn und verschiebe die `boot.elf`-Datei auf dein Laufwerk.
+1. Extract it and place the `boot.elf` file in your flash drive.
 1. Verbinde das Laufwerk mit deiner Konsole. Bei einer Wii mini befindet sich der USB-Anschluss auf der Rückseite. Benutze bei einer normalen Wii den unteren Anschluss (oder den rechten Port bei senkrechter Aufstellung). (oder den rechten Port bei senkrechter Aufstellung).
 1. Schalte deine Konsole an und navigiere in die Systemeinstellungen. In der oberen rechten Ecke wirst du einen vierstelligen Code, ähnlich dem im Bild unten, sehen. Dieses Kürzel ist deine Wii-Menü-Version. Notiere sie, da du sie später benötigen wirst. Schalte danach deine Konsole aus. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Starte deine Linux-Distribution und stelle sicher, dass du mit dem Internet verbunden bist.
@@ -45,7 +45,7 @@ chmod +x bluebomb-helper.sh
 1. Der Helper beginnt dann mit dem Herunterladen der benötigten Dateien und wird dich über Informationen zu deiner Konsole befragen.
   - Falls du eine Wii mini ausgewählt hast, wirst du nach deiner Region gefragt. Diese kann über den letzten Buchstaben der Wii-Menü-Version ermittelt werden (`U` für **US-** und `E` für **PAL**-Modelle).
   - Falls du eine Wii ausgewählt hast, wirst du nach deiner Wii-Menü-Version gefragt (welche du in Schritt 4 herausgefunden hast)
-1. Schalte deine Konsole ein und verbinde **keine** Wii-Fernbedienungen.
+1. Turn on your console and **do not** connect any Wii Remotes.
 1. Drücke die Sync-Taste wiederholt, bis das Terminal `got connection handle` anzeigt. Dies kann mehrere Versuche benötigen, gib daher nicht auf.
 
 Stelle sicher, dass die Konsole sich in der Nähe des Computers befindet, welcher den Exploit ausführt, der Abstand sollte idealerweise weniger als 1 Meter betragen.
