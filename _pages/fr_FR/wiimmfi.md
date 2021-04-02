@@ -75,7 +75,7 @@ Vous ne voudrez peut-être pas exécuter un patcher à chaque fois que vous voul
 - La copie de votre jeu (WBFS, ISO, cISO et d'autres formes qu'une Wii peut utiliser sont prises en charge).
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows et Unix)  
 **ou**
-- [Wiimms ISO patcher (multi-plateforme)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
+- [Wiimmfi Patcher (cross-platform)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
 - Un USB Loader, [cIOS](cios) et un périphérique USB pour stocker le jeu (vous devriez déjà les avoir si vous utilisez un USB Loader)
 
 #### Instructions
@@ -128,7 +128,7 @@ Si vous utilisez la Wii U, vous devrez exécuter le patcher de compétitions cha
 {: .notice--info}
 
 ### Jeux DS
-Wiimmfi ne supporte pas seulement les jeux Wii, il supporte également beaucoup de jeux DS. Grâce à un exploit appellé nds-constraint, vous pouvez jouer à des jeux DS sans avoir besoin de les patcher.
+Wiimmfi ne supporte pas seulement les jeux Wii, il supporte également beaucoup de jeux DS. Thanks to an exploit called nds-constraint, you can play DS games online without patching your games.
 
 #### Ce dont vous avez besoin
 
@@ -145,14 +145,16 @@ Obtenir un réseau Wi-Fi avec WEP ou sans sécurité est la partie la plus diffi
 4. Entrez `1.1.1.1` comme DNS secondaire (si cela provoque des problèmes, essayez `8.8.8.8`).
 5. Enregistez vos paramètres et effectuez un test de connexion. Si le test réussi, alors vous êtes prêt à jouer.
 
-### CTGP-R (Mario Kart Wii)
-MrBean35000vr et Chadderz ont une incroyable distribution de pistes customisées pour CTGP-R, l'application qui vous permet d'utiliser un ensemble de pistes personnalisées, et dispose d'un patch Wiimmfi automatique. Accédez au [site web de ChadSoft](http://chadsoft.co.uk) pour le téléchargement et les instructions.
+### Mario Kart Wii Mods
 
-### MKW Hack Pack (Mario Kart Wii)
-Huili a rassemblé une très bonne collection de pistes et de hacks personnalisés appelés MKW Hack Pack, et permet des connexions à Wiimmfi. Pour savoir comment le configurer, accédez à la [ page wiki](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+#### CTGP-R
+MrBean35000vr and Chadderz have a custom track distribution called CTGP-R that allows you to use a set of custom tracks and has automatic Wiimmfi patching. Go to the [ChadSoft website](http://chadsoft.co.uk) for the download and instructions.
 
-### Wiimms MKW Fun (Mario Kart Wii)
-Wiimm et Leseratte ont créé une distribution de pistes personnalisées appelée "Wiimms MKW Fun", qui est mise à jour environ trois fois par an. Il est basé sur le framework LE-CODE de Leseratte et contient un patch Wiimmfi et de nombreuses autres fonctionnalités. Vous pouvez en savoir plus sur sa [page wiki](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
+#### MKW Hack Pack
+Huili has put together a collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. Pour savoir comment le configurer, accédez à la [ page wiki](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+
+#### Wiimms Mario Kart Fun
+Wiimm and Leseratte make a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte, has Wiimmfi support, and lots of other features. Vous pouvez en savoir plus sur sa [page wiki](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
 
 [Continuer vers la navigation du site](site-navigation)<br> Nous avons de nombreux autres tutoriels que vous pourriez aimer.
 {: .notice--info}
