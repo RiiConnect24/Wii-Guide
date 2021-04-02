@@ -35,5 +35,5 @@ Si no tienes una tarjeta SD, no puedes instalar o usar BootMii, y por lo tanto n
 [Continuar a haciendo una copia de seguridad NAND usando BootMii](bootmii)<br> Hacer una copia de seguridad NAND con BootMii en este momento es muy recomendable.
 {: .notice--info}
 
-Si no pudiste instalar BootMii, continúa a [Instalar Priiloader](priiloader) en su lugar.
+If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
 {: .notice--info}
