@@ -12,7 +12,10 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 你需要一张**SD卡**来使用BootMii创建一个NAND备份。 如果你没有，你可以跳过这一步，虽然非常推荐你创建一个备份，如果你可以的话。
 {: .notice--warning}
 
-BootMii其中一个最重要的特点就是能够备份并且还原你的Wii里的NAND存储。 我们将学习如何制作一个NAND备份。 你可以从备份中还原，无论是什么目的。 It's a good idea to make a NAND backup regularly or before doing something risky to your console (and if you know what you're doing, you won't have to do anything risky).
+BootMii as boot2 is recommended, but only available to install on early Wiis. Otherwise, it can be installed as an IOS.
+{: .notice--info}
+
+One of BootMii's most important features is the ability to backup and restore your Wii's NAND storage. We will be going over how to perform a NAND backup. You can then restore from that backup for whatever reason. It's a good idea to make a NAND backup regularly or before doing something risky to your console (and if you know what you're doing, you won't have to do anything risky).
 
 #### 需要
 * 一张SD卡，至少有512MB的空间。
@@ -21,7 +24,7 @@ BootMii其中一个最重要的特点就是能够备份并且还原你的Wii里�
 1. 启动Homebrew Channel。
 2. 按下Home按钮，选择"Launch BootMii"。
 
-    Navigating BootMii is not possible using a Wii remote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. To navigate between options, press POWER on your Wii (or the right +Control Pad button on a GameCube controller). To select an option, hit RESET on your Wii or A on your GameCube controller.
+    Navigating BootMii is not possible using a Wii Remote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. To navigate between options, press POWER on your Wii (or right on the +Control Pad on a GameCube controller). To select an option, hit RESET on your Wii or A on your GameCube controller.
     {: .notice--info}
 
 
@@ -31,7 +34,7 @@ BootMii其中一个最重要的特点就是能够备份并且还原你的Wii里�
 3. 选择设置按钮。（带齿轮那个）
 4. 选择BackupMii按钮（绿色的那个）。
 - NAND备份会开始。 你可以观看屏幕上的过程。
-- "损坏区域"是正常的。 当你在备份的时候看到不用担心。
+- "损坏区域"是正常的。 Don't worry when you see some on a NAND backup.
 - 在这一步后，它会验证这个备份。 即使是推荐的，但是你可以按EJECT按钮跳过。
 5. 当备份完全完成后，按任何按键退出NAND备份。
 6. 要退出BootMii，按下Back按钮（有箭头的那个）然后你可以按下Wii菜单按钮或者HBC按钮来退出。
