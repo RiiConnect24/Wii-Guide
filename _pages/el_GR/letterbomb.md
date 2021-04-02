@@ -21,11 +21,11 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
    - Δεν έχει σημασία όποιο από τα δύο επιλέξετε. ![Οθόνη HackMii](/images/Wii/LetterBomb-PC.png)
 1. Εξάγετε τα δεδομένα του ZIP που κατεβάσατε στην κάρτα SD σας.
 1. Take out your SD card and insert it in your Wii.
-1. On your Wii, return to the Wii Menu and then open the Message Board.
+1. On your Wii, return to the Wii Menu and then open the Wii Message Board.
 1. Load the red letter with a bomb icon.
    - In various scenarios, you may need to look at the previous or next day to find it.
 
-Ensure the date on your Wii is correct, otherwise you will be unable to find the letter.
+Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
 {: .notice--warning}
 
 
