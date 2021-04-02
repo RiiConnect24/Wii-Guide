@@ -35,5 +35,5 @@ If you do not have an SD card, you cannot install or use BootMii, and therefore 
 [Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
 {: .notice--info}
 
-If you couldn't install BootMii, continue to [installing Priiloader](priiloader) instead.
+If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
 {: .notice--info}
