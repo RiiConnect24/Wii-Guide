@@ -42,5 +42,5 @@ You can always install it at a later date.
 Making a NAND backup with BootMii at this point is highly recommended.
 {: .notice--info}
 
-If you couldn't install BootMii, continue to [installing Priiloader](priiloader) instead.
+If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
 {: .notice--info}
