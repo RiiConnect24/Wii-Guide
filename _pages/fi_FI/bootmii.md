@@ -12,7 +12,10 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 Tarvitset **SD-kortin** luodaksesi NAND-varmuuskopion BootMiin avulla. Jos sinulla ei ole sellaista, voit ohittaa tämän sivun, vaikka onkin erittäin suositeltavaa luoda varmuuskopio, jos pystyt.
 {: .notice--warning}
 
-Yksi BootMiin tärkeimmistä ominaisuuksista on kyky varmuuskopioida ja palauttaa Wiisi NAND-tallennustila. We will be going over how to perform a NAND backup. You can then restore from that backup for whatever reason. It's a good idea to make a NAND backup regularly or before doing something risky to your console (and if you know what you're doing, you won't have to do anything risky).
+BootMii as boot2 is recommended, but only available to install on early Wiis. Otherwise, it can be installed as an IOS.
+{: .notice--info}
+
+One of BootMii's most important features is the ability to backup and restore your Wii's NAND storage. We will be going over how to perform a NAND backup. You can then restore from that backup for whatever reason. It's a good idea to make a NAND backup regularly or before doing something risky to your console (and if you know what you're doing, you won't have to do anything risky).
 
 #### Vaatimukset
 * SD-kortti, jolla on vähintään 512mt vapaata tilaa
@@ -21,7 +24,7 @@ Yksi BootMiin tärkeimmistä ominaisuuksista on kyky varmuuskopioida ja palautta
 1. Käynnistä Homebrew Channel.
 2. Paina HOME-nappia, sitten valitse "Launch BootMii".
 
-    Navigating BootMii is not possible using a Wii remote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. To navigate between options, press POWER on your Wii (or the right +Control Pad button on a GameCube controller). To select an option, hit RESET on your Wii or A on your GameCube controller.
+    Navigating BootMii is not possible using a Wii Remote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. To navigate between options, press POWER on your Wii (or right on the +Control Pad on a GameCube controller). To select an option, hit RESET on your Wii or A on your GameCube controller.
     {: .notice--info}
 
 
@@ -31,7 +34,7 @@ Yksi BootMiin tärkeimmistä ominaisuuksista on kyky varmuuskopioida ja palautta
 3. Select the Options button (the one with the gears).
 4. Valitse BackupMii-nappi (vihreän nuolen kuvalla).
 - NAND-varmuuskopiointi alkaa. Voit seurata edistymistä näytöltä.
-- "Bad Blockit" ovat tavallisia. Älä huoli nähdessäsi sellaisen NAND-varmuuskopiossa
+- "Bad Blockit" ovat tavallisia. Don't worry when you see some on a NAND backup.
 - Tämän vaiheen jälkeen se tarkistaa varmuuskopion. Vaikka se on suositeltavaa, sen voi ohittaa painamalla Wiin EJECT-nappia.
 5. Kun varmuuskopio on täysin valmis, poistu NAND-varmuuskopionäytöltä painamalla mitä tahansa nappia.
 6. To exit BootMii, press the Back button (the one with the arrow) and then you can press either the Wii Menu button or the Homebrew Channel button to exit where you want to.
