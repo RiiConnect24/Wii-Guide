@@ -15,7 +15,7 @@ Homebrew Channel jest miejscem, w którym możesz uruchamiać programy homebrew.
 Ta strona jest przeznaczona **tylko** dla posiadaczy Wii Mini. Jeżeli korzystasz z normalnego Wii, podążaj za [tym poradnikiem](hbc).
 {: .notice--info}
 
-Kiedy w teorii możliwe jest zainstalowanie BootMii na Wii Mini, nie będziesz mógł/mogła z niego skorzystać dopóki nie przylutujesz slotu na kartę SD.
+While it is possible to install BootMii on a Wii mini, you will need to solder an SD card slot. That requires opening up your Wii mini and using special tools, so it is not recommended.
 {: .notice--info}
 
 1. Zobaczysz ekran, który ostrzega przed oszustwami. Poczekaj 30 sekund na pojawienie się tekstu "Press 1 to continue" oraz naciśnij 1. ![Ekran z informacją o oszustwach](/images/Wii/ScamScreen.png)
@@ -23,7 +23,6 @@ Kiedy w teorii możliwe jest zainstalowanie BootMii na Wii Mini, nie będziesz m
 1. Naciśnij kontynuuj oraz wybierz Homebrew Channel, oraz wybierz "Install". ![Zainstaluj Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
 1. Po ukończeniu, naciśnij na "Continue". ![Sukces podczas instalacji Homebrew Channel](/images/Wii/SuccessHBC.png)
-
 
 1. Kiedy instalacja zostanie ukończona, wybierz `Exit` aby wyjść z instalatora HackMii.
 
