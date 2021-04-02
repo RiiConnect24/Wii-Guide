@@ -21,11 +21,11 @@ LetterBomb是Wii的一种漏洞，它是使用Wii留言板触发的。
    - 你选择剪断哪根线都没关系。![HackMii 屏幕](/images/Wii/LetterBomb-PC.png)
 1. 将下载的ZIP解压到到SD卡的根目录。
 1. Take out your SD card and insert it in your Wii.
-1. On your Wii, return to the Wii Menu and then open the Message Board.
+1. On your Wii, return to the Wii Menu and then open the Wii Message Board.
 1. Load the red letter with a bomb icon.
    - In various scenarios, you may need to look at the previous or next day to find it.
 
-Ensure the date on your Wii is correct, otherwise you will be unable to find the letter.
+Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
 {: .notice--warning}
 
 
