@@ -40,7 +40,7 @@ WiiLink24 i wszystkie jego usługi (takie jak Wii no Ma) nie są kontrolowane an
 15. Po ukońzconej pomyślnie instalacji, naciśnij przycisk HOME aby wyjść do Homebrew Channel.
 16. Miłego korzystania z Wii no Ma!
 
-Dla regionu PAL(Europejskich Wii)<br> W Ustawieniach Wii ustaw rozdzielczość telewizora na 60 HZ (480p/480i). Możesz to znaleźć w `Screen -> TV Resolution` Jeśli tego nie zrobisz, różowy pasek pojawi się u dołu ekranu.
+For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). Możesz to znaleźć w `Screen -> TV Resolution` Jeśli tego nie zrobisz, różowy pasek pojawi się u dołu ekranu.
 {: .notice--info}
 
 [RiiConnect24](riiconnect24) jest serwisem, który pozwala Ci korzystać z już niewspieranego serwisu jakim jest WiiConnect24. Pozwala on korzystać z News Channel, Forecast Channel, Everybody Votes Channel jak i również Check Mii Out Channel oraz Wii Mail. Jest to opcjonalny krok.
