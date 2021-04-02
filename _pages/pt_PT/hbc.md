@@ -35,5 +35,5 @@ Se não tens um cartão SD, não podes instalar ou utilizar o BootMii e, consequ
 [Continua para a criação de uma cópia NAND utilizando BootMii](bootmii)<br> Neste ponto, é recomendado fazer uma cópia da NAND com BootMii.
 {: .notice--info}
 
-Se não pudeste instalar BootMii, continua para [Instalar Priiloader](priiloader).
+If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
 {: .notice--info}
