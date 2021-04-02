@@ -35,5 +35,5 @@ Jeśli nie masz karty SD, nie możesz zainstalować ani używać BootMii, i w zw
 [Przejdź do wykonywania kopii zapasowej korzystając z BootMii](bootmii)<br>. Zalecamy teraz wykonanie kopii zapasowej pamięci NAND.
 {: .notice--info}
 
-Jeśli nie można zainstalować BootMii, przejdź do instalacji [Priiloader'a](priiloader).
+If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
 {: .notice--info}
