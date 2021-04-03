@@ -148,13 +148,13 @@ Obtenir un réseau Wi-Fi avec WEP ou sans sécurité est la partie la plus diffi
 ### Mario Kart Wii Mods
 
 #### CTGP-R
-MrBean35000vr et Chadderz ont une distribution de piste personnalisée appelée CTGP-R qui vous permet d'utiliser un ensemble de pistes personnalisées et dispose d'un patch Wiimmfi automatique. Go to the [ChadSoft website](http://chadsoft.co.uk) for the download and instructions.
+MrBean35000vr et Chadderz ont une distribution de piste personnalisée appelée CTGP-R qui vous permet d'utiliser un ensemble de pistes personnalisées et dispose d'un patch Wiimmfi automatique. Accédez au [site Web ChadSoft](http://chadsoft.co.uk) pour le téléchargement et les instructions.
 
 #### MKW Hack Pack
-Huili has put together a collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. Pour savoir comment le configurer, accédez à la [ page wiki](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+Huili a rassemblé une collection de pistes et de hacks personnalisés appelés MKW Hack Pack, et permet les connexions à Wiimmfi. Pour savoir comment le configurer, accédez à la [ page wiki](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
 
 #### Wiimms Mario Kart Fun
-Wiimm and Leseratte make a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte, has Wiimmfi support, and lots of other features. Vous pouvez en savoir plus sur sa [page wiki](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
+Wiimm et Leseratte créent une distribution de pistes personnalisée appelée "Wiimms MKW Fun", qui est mise à jour environ trois fois par an. Il est basé sur le framework LE-CODE de Leseratte, prend en charge Wiimmfi et de nombreuses autres fonctionnalités. Vous pouvez en savoir plus sur sa [page wiki](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
 
 [Continuer vers la navigation du site](site-navigation)<br> Nous avons de nombreux autres tutoriels que vous pourriez aimer.
 {: .notice--info}
