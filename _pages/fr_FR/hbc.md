@@ -35,5 +35,5 @@ Si vous n'avez pas de carte SD, vous ne pouvez pas installer ou utiliser BootMii
 [Continuer vers la Sauvegarde BootMii](bootmii)<br> Créer une sauvegarde de la NAND de votre console à l’aide de BootMii à ce stade est fortement recommandé.
 {: .notice--info}
 
-If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
+Si vous ne parvenez pas à installer BootMii, continuez à [installer Priiloader](priiloader).
 {: .notice--info}
