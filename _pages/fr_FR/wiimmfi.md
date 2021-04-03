@@ -75,7 +75,7 @@ Vous ne voudrez peut-être pas exécuter un patcher à chaque fois que vous voul
 - La copie de votre jeu (WBFS, ISO, cISO et d'autres formes qu'une Wii peut utiliser sont prises en charge).
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows et Unix)  
 **ou**
-- [Wiimmfi Patcher (cross-platform)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
+- [Wiimmfi Patcher (multiplateforme)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
 - Un USB Loader, [cIOS](cios) et un périphérique USB pour stocker le jeu (vous devriez déjà les avoir si vous utilisez un USB Loader)
 
 #### Instructions
@@ -128,7 +128,7 @@ Si vous utilisez la Wii U, vous devrez exécuter le patcher de compétitions cha
 {: .notice--info}
 
 ### Jeux DS
-Wiimmfi ne supporte pas seulement les jeux Wii, il supporte également beaucoup de jeux DS. Thanks to an exploit called nds-constraint, you can play DS games online without patching your games.
+Wiimmfi ne supporte pas seulement les jeux Wii, il supporte également beaucoup de jeux DS. Grâce à un exploit appelé nds-constraint, vous pouvez jouer à des jeux DS en ligne sans patcher vos jeux.
 
 #### Ce dont vous avez besoin
 
@@ -148,7 +148,7 @@ Obtenir un réseau Wi-Fi avec WEP ou sans sécurité est la partie la plus diffi
 ### Mario Kart Wii Mods
 
 #### CTGP-R
-MrBean35000vr and Chadderz have a custom track distribution called CTGP-R that allows you to use a set of custom tracks and has automatic Wiimmfi patching. Go to the [ChadSoft website](http://chadsoft.co.uk) for the download and instructions.
+MrBean35000vr et Chadderz ont une distribution de piste personnalisée appelée CTGP-R qui vous permet d'utiliser un ensemble de pistes personnalisées et dispose d'un patch Wiimmfi automatique. Go to the [ChadSoft website](http://chadsoft.co.uk) for the download and instructions.
 
 #### MKW Hack Pack
 Huili has put together a collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. Pour savoir comment le configurer, accédez à la [ page wiki](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
