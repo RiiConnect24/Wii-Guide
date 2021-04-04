@@ -20,13 +20,13 @@ Ceci est un guide de démarrage rapide sur la façon d'utiliser USB Loader GX, u
 Assurez-vous d'avoir installé [cIOS](/cios) avant de continuer !
 {: .notice--info}
 
-We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux.
+Nous vous recommandons de copier des jeux avec [Wii Backup Manager](/wiibackupmanager) si vous utilisez Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) si vous utilisez macOS ou [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) pour Windows, macOS et Linux.
 {: .notice--info}
 
-If you want to play games that are in NKit format, use [this program](https://gbatemp.net/download/nkit.36157/) to convert them to ISO first. You can also use a development build of Dolphin, right click on a game, and use "Convert File" to convert it.
+Si vous voulez jouer à des jeux au format NKit, utilisez [ce programme](https://gbatemp.net/download/nkit.36157/) pour les convertir en ISO d'abord. Vous pouvez également utiliser une version de développement de Dolphin, faire un clic droit sur un jeu, et utiliser "Convertir un fichier" pour le convertir.
 {: .notice--info}
 
-If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fusion, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
+Si vous ne copiez pas de jeux à l'aide de Wii Backup Manager, Witgui, ou de Wii Backup Fusion, créez un dossier à la racine du périphérique USB ou de la carte SD nommé `wbfs` et placez-y les jeux.
 {: .notice--info}
 
 Pour jouer à des jeux, nous vous recommandons d'utiliser un disque dur externe pour votre Wii. Les clés USB devraient également être utilisables, mais les disques durs externes sont recommandés car ils sont plus fiables et peuvent stocker plus de jeux.
@@ -44,7 +44,7 @@ Assurez-vous que votre périphérique USB est formaté en FAT32 ou NTFS. N'utili
 
 ##### Commencer
 
-There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
+Il n'y a pas de "guide" pour utiliser l'application USB Loader GX. Cette page va vous aider à utiliser les fonctions basiques de l'application. Vous devriez être en mesure de comprendre toutes les fonctionnalités intéressantes de USB Loader GX en l'utilisant.
 {: .notice--info}
 
 * Si USB Loader GX affiche "Waiting for HDD..." avec un compte à rebours de 20 secondes, il est probable qu'il ne détecte pas votre périphérique USB. Essayez de quitter l'application, puis redémarrez-la après avoir mis votre périphérique USB dans l'autre port de la Wii.
@@ -54,11 +54,11 @@ There is no "guide" to use the USB Loader GX app. This is intended to help you l
 
 ##### Interface utilisateur
 
-There are multiple buttons in the USB Loader GX interface.
+Il y a plusieurs boutons dans l'interface de USB Loader GX.
 
 ###### Menu principal
 
-These are the functions the buttons found on the top of the main menu do, from left to right:
+Voici les fonctions des boutons situés en haut du menu principal, de gauche à droite:
 
 * Étoile - Affiche les jeux que vous avez marqués comme "favoris".
 * Recherche - Vous permet de rechercher des jeux par nom.
@@ -72,9 +72,9 @@ These are the functions the buttons found on the top of the main menu do, from l
 * Contrôle parental - Verrouille USB Loader GX.
 * Disque - Lance un jeu via le lecteur de disque.
 
-Pressing any game will allow you to play the game by pressing "Start".
+En appuyant sur n'importe quel jeu, vous pourrez y jouer en sélectionnant "Démarrer".
 
-There are also other buttons:
+Il y a également d'autres boutons:
 
 * Icône (+) - Copier un jeu inséré dans le lecteur de disque vers votre périphérique USB.
 * Engrenages - Paramètres pour USB Loader GX.
@@ -83,7 +83,7 @@ There are also other buttons:
 * Wii - Ouvre le menu HOME, auquel vous pouvez également accéder en appuyant sur le bouton HOME de la télécommande Wii.
 * Bouton Power - Éteint votre Wii.
 
-On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
+Au centre de la partie inférieure de l'écran, vous pouvez voir l'espace libre sur votre périphérique USB et le nombre de jeux dont vous disposez.
 
 ##### Options disponibles une fois le processus terminé
 
