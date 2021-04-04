@@ -16,7 +16,7 @@ Priiloader dodaje dodatkowy poziom ochrony przez brickiem na Twoje Wii. Ładuje 
 
 #### Będziesz potrzebował
 * Karta SD lub urządzenie USB.
-* [Instalator Priiloader'a](assets/files/Priiloader_v0_9.zip)
+* [Instalator Priiloader'a](assets/files/Priiloader_v0_9_1.zip)
 
 #### Instrukcje
 ##### Sekcja I - Pobieranie/Instalowanie
