@@ -16,7 +16,7 @@ Priiloader proporciona un nivel adicional de protección contra bricks a tu cons
 
 #### Requisitos
 * Una tarjeta SD o unidad USB
-* [Instalador de Priiloader](assets/files/Priiloader_v0_9.zip)
+* [Instalador de Priiloader](assets/files/Priiloader_v0_9_1.zip)
 
 #### Instrucciones
 ##### Sección I - Descarga/instalación
