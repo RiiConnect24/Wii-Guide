@@ -15,15 +15,18 @@ Ceci est un guide de démarrage rapide sur la façon d'utiliser WiiFlow, un USB 
 
 * Une Wii
 * Un périphérique USB et/ou une carte SD
-* [WiiFlow](https://github.com/Fledge68/WiiFlow_Lite/releases)
+* [WiiFlow Lite](https://hbb1.oscwii.org/hbb/wiiflow/wiiflow.zip)
 
 Assurez-vous d'avoir installé [cIOS](/cios) avant de continuer !
 {: .notice--info}
 
-Nous vous recommandons de copier les jeux avec [Wii Backup Manager](/wiibackupmanager) si vous utilisez Windows, ou [Witgui](https://desairem.com/wordpress/category/witgui-download/) si vous utilisez MacOS.
+Nous vous recommandons de copier des jeux avec [Wii Backup Manager](/wiibackupmanager) si vous utilisez Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) si vous utilisez macOS ou [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) pour Windows, macOS et Linux.
 {: .notice--info}
 
-Si vous ne copiez pas de jeux à l'aide de Wii Backup Manager ou de Witgui, créez un dossier à la racine du périphérique USB ou de la carte SD nommé `wbfs` et placez-y les jeux.
+Si vous voulez jouer à des jeux au format NKit, utilisez [ce programme](https://gbatemp.net/download/nkit.36157/) pour les convertir en ISO d'abord. Vous pouvez également utiliser une version de développement de Dolphin, faire un clic droit sur un jeu, et utiliser "Convertir un fichier" pour le convertir.
+{: .notice--info}
+
+Si vous ne copiez pas de jeux à l'aide de Wii Backup Manager, Witgui, ou de Wii Backup Fusion, créez un dossier à la racine du périphérique USB ou de la carte SD nommé wbfs et placez-y les jeux.
 {: .notice--info}
 
 Pour jouer à des jeux, nous vous recommandons d'utiliser un disque dur externe pour votre Wii. Les clés USB devraient également être utilisables, mais les disques durs externes sont recommandés car ils sont plus fiables et peuvent stocker plus de jeux.
@@ -44,7 +47,7 @@ Assurez-vous que votre périphérique USB et/ou votre carte SD est formaté(e) e
 
 ##### Commencer
 
-Ce n'est pas un guide complet complet sur l'utilisation de WiiFlow. Cette page va vous aider à utiliser les fonctions basiques de l'application. Vous devriez être en mesure de comprendre toutes les fonctionnalités intéressantes de WiiFlow en l'utilisant.
+Ce n'est pas un guide complet sur l'utilisation de WiiFlow. Cette page va vous aider à utiliser les fonctions basiques de l'application. Vous devriez être en mesure de comprendre toutes les fonctionnalités intéressantes de WiiFlow en l'utilisant.
 {: .notice--info}
 
 * WiiFlow est paramétré pour ne trouver que des jeux sur carte SD par défaut. Ceci peut être modifié en allant dans `Settings`, puis `Startup settings` puis en désactivant l'option `Mount SD Only`.

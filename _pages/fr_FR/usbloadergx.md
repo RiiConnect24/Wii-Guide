@@ -20,16 +20,19 @@ Ceci est un guide de démarrage rapide sur la façon d'utiliser USB Loader GX, u
 Assurez-vous d'avoir installé [cIOS](/cios) avant de continuer !
 {: .notice--info}
 
-Nous vous recommandons de copier les jeux avec [Wii Backup Manager](/wiibackupmanager) si vous utilisez Windows, ou [Witgui](https://desairem.com/wordpress/category/witgui-download/) si vous utilisez MacOS.
+Nous vous recommandons de copier des jeux avec [Wii Backup Manager](/wiibackupmanager) si vous utilisez Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) si vous utilisez macOS ou [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) pour Windows, macOS et Linux.
 {: .notice--info}
 
-Si vous ne copiez pas de jeux à l'aide de Wii Backup Manager ou de Witgui, créez un dossier à la racine du périphérique USB nommé `wbfs` et placez-y les jeux.
+Si vous voulez jouer à des jeux au format NKit, utilisez [ce programme](https://gbatemp.net/download/nkit.36157/) pour les convertir en ISO d'abord. Vous pouvez également utiliser une version de développement de Dolphin, faire un clic droit sur un jeu, et utiliser "Convertir un fichier" pour le convertir.
+{: .notice--info}
+
+Si vous ne copiez pas de jeux à l'aide de Wii Backup Manager, Witgui, ou de Wii Backup Fusion, créez un dossier à la racine du périphérique USB ou de la carte SD nommé `wbfs` et placez-y les jeux.
 {: .notice--info}
 
 Pour jouer à des jeux, nous vous recommandons d'utiliser un disque dur externe pour votre Wii. Les clés USB devraient également être utilisables, mais les disques durs externes sont recommandés car ils sont plus fiables et peuvent stocker plus de jeux.
 {: .notice--info}
 
-Assurez-vous que votre périphérique USB est formaté en FAT32 ou NTFS. Ne le formatez pas comme d'autres types tels que extFS ou WBFS, ce dernier est un ancien format de stockage de jeux Wii.
+Assurez-vous que votre périphérique USB est formaté en FAT32 ou NTFS. N'utilisez pas d'autres types de format comme extFS ou WBFS, ce dernier est un ancien format de stockage de jeux Wii.
 {: .notice--info}
 
 #### Instructions
@@ -41,7 +44,7 @@ Assurez-vous que votre périphérique USB est formaté en FAT32 ou NTFS. Ne le f
 
 ##### Commencer
 
-Il n'y a pas de "guide" pour utiliser l'application USB Loader GX. Cette page va vous aider à utiliser les fonctions basiques de l'application. Vous devriez être en mesure de comprendre toutes les fonctionnalités intéressantes de USB Loader GX en l'utilisant. Vous devriez être en mesure de comprendre toutes les fonctionnalités intéressantes de USB Loader GX en l'utilisant.
+Il n'y a pas de "guide" pour utiliser l'application USB Loader GX. Cette page va vous aider à utiliser les fonctions basiques de l'application. Vous devriez être en mesure de comprendre toutes les fonctionnalités intéressantes de USB Loader GX en l'utilisant.
 {: .notice--info}
 
 * Si USB Loader GX affiche "Waiting for HDD..." avec un compte à rebours de 20 secondes, il est probable qu'il ne détecte pas votre périphérique USB. Essayez de quitter l'application, puis redémarrez-la après avoir mis votre périphérique USB dans l'autre port de la Wii.

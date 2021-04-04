@@ -13,14 +13,14 @@ WiiLink24 und alle zugehörigen Dienste (wie z. B. Wii no Ma) werden nicht von R
 
 * Eine SD-Karte oder ein USB-Laufwerk
 * Eine Wii mit Internetverbindung
-* Ein Windows- oder Unix-basierender Computer
+* Ein Windows- oder Unix-basierter Computer
 * [WiiLink24 Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
 #### Anleitung
 
 ##### Abschnitt 1 - Patchen von Wii no Ma
 
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+[Wenn du detaillierte Anweisungen zur Installation von WADs sehen möchtest, klicke hier!](wiimodlite)
 {: .notice--info}
 
 1. Lade abhängig von deinem Betriebssystem die benötigten Dateien herunter. On Windows, run `WiiLink24Patcher.bat`. On Unix systems, launch terminal and type sh, then drag the `WiiLink24Patcher.sh` into the terminal and press enter.
@@ -40,7 +40,7 @@ WiiLink24 und alle zugehörigen Dienste (wie z. B. Wii no Ma) werden nicht von R
 15. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 16. Starte Wii no Ma und schon kann's losgehen!
 
-For PAL(European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
+For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
 {: .notice--info}
 
 [Weiter mit RiiConnect24](riiconnect24)<br> RiiConnect24 erlaubt es dir, eingestellte Dienste von WiiConnect24 zu benutzen, was den Nachrichtenkanal, Wetterkanal, Meinungskanal, Nintendo-Kanal und Mii-Wettbewerbskanal, sowie Wii Mail beinhaltet. Dies zu installieren ist nicht zwingend erforderlich.

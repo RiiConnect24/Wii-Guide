@@ -13,7 +13,7 @@ RiiTag é um gamertag dinâmico e personalizável. Ao partilhar a tua gamertag (
 
 - Um dispositivo capaz de interagir com cartões SD
 - Consola Wii U modificada
-   - If you have not softmodded your Wii U yet, [please do so](https://wiiu.hacks.guide). Não podes proceder sem modificar.
+   - Se ainda não modificaste a tua Wii U,[fá-lo](https://wiiu.hacks.guide). Não podes proceder sem modificar.
 - Uma conta Discord
 - A versão mais recente do [Wii U Plugin Loader](https://github.com/Maschell/WiiUPluginLoader/releases)
 - A versão mais recente do [UTag plugin](https://github.com/RiiConnect24/UTag/releases)

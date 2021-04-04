@@ -15,7 +15,7 @@ HBC是你可以启动自制应用的地方。
 本页面**只计划**给Wii mini用户。 如果你使用的是Wii，请前往[这个教程](hbc)。
 {: .notice--info}
 
-虽然可以在Wii mini上安装BootMii，但你需要焊接SD卡插槽。
+While it is possible to install BootMii on a Wii mini, you will need to solder an SD card slot. That requires opening up your Wii mini and using special tools, so it is not recommended.
 {: .notice--info}
 
 1. 你会看见一个诈骗警告提醒。 等待30秒，直到"Press 1 to continue"出现，然后按1。 ![诈骗警告提醒](/images/Wii/ScamScreen.png)
@@ -23,7 +23,6 @@ HBC是你可以启动自制应用的地方。
 1. 按下Continue，然后选择Install The Homebrew Channel，然后按下install。![安装Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
 1. 当完成时，按下继续。![成功安装Homebrew Channel](/images/Wii/SuccessHBC.png)
-
 
 1. 当结束时，选择`Exit`来退出HackMii installer。
 

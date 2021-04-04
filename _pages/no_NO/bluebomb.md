@@ -31,7 +31,7 @@ For den originale Wii, anbefaler vi at du ikke bruker BlueBomb hvis du skal inst
 #### Del 2 - Utføre exploiten
 1. Last ned HackMii installeren fra [BootMii siden](https://bootmii.org/download/).
 - (Hvis du prøver å fikse en ødelagt Wii Mini, bør du kopiere homebrew appen du har lyst til å bruke til /apps/)
-1. Pakk den ut og plasser `boot.elf` filen i din USB pinne.
+1. Extract it and place the `boot.elf` file in your flash drive.
 1. Koble til USB pinnen til konsollen. For en Wii mini, er USB porten på baksiden. For en normal Wii, bruk porten på bunnen. (eller høyreporten hvis den er oppreist).
 1. Skru på din konsoll og naviger til innstillings menyen. On the top right corner you will see a 4-character code like the one in the picture below. Denne koden er din Wii-meny versjon, ta en note av dette fordi du kommer til å trenge det senere. Etter det, skru av din konsoll. ![SystemMenyVersjon](/images/Wii/SystemMenuVersion.png)
 1. Start din Linux distribusjon, og vær sikker på at du er koblet til Internett.
@@ -45,7 +45,7 @@ chmod +x bluebomb-helper.sh
 1. Denne hjelperen kommer til å laste ned filene trengt, og vil spørre om informasjon om din konsoll.
   - Hvis du har valgt en Wii Mini blir du spørte om å si din region. Dette kan bli bestemt av den siste bokstaven fra Wii meny versjonen (`U` for <strong x id="1">USA</strong> og `E` for <strong x id="1">PAL</strong> modeller).
   - Hvis du har valgt en Wii blir du spørt om å gi din Wii-meny versjon (Hva du bestemte i skritt 4)
-1. Skru på din konsoll og **ikke** koble til noen Wiimoter.
+1. Turn on your console and **do not** connect any Wii Remotes.
 1. Trykk på Sync knappen flere ganger helt til Linux-terminalen viser `got connection handle`. Dette kan ta flere forsøk, så ikke gi opp.
 
 Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.

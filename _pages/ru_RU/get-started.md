@@ -13,17 +13,19 @@ title: "Начало пути"
 Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
 {: .notice--info}
 
-Это руководство предназначено только для Wii, с последней прошивкой (4.3) и Wii Mini. Не используйте это на Wii U (vWii)! Если вы хотите установить homebrew на Wii U, [следуйте этому руководству](https://wiiu.hacks.guide).
+This guide is for the original Wii and Wii mini only (including the Wii Family Edition), with the latest firmware (4.3). Не используйте это на Wii U (vWii)! Если вы хотите установить homebrew на Wii U, [следуйте этому руководству](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### Выберите Эксплойт
 
+These exploits are sorted by easiest to hardest difficulty of use.
+
 - [str2hax](str2hax) - Эксплойт, который использует пользовательское соглашение Wii
-    * (Нужен доступ в интернет и возможность ставить ДНС сервер)
+    * (Requires an Internet connection and changing the DNS server)
 - [LetterBomb](letterbomb) - Эксплойт, который использует доску объявлений Wii
     * (Нужна SD карта)
 - [FlashHax](flashhax) -Эксплойт, который использует Интернет канал
-    * (Нужен Интернет канал и доступ в интернет)
+    * (Requires the Internet Channel installed, and an Internet connection)
 - [BlueBomb](bluebomb) - Эксплойт, использующий Bluetooth
-    * Нужен компьютер с Bluetooth и GNU/Linux. Также нужна USB флешка
+    * Requires a computer with Bluetooth and GNU/Linux, as well as a USB storage device
     * Это единственный эксплойт, который работает на **Wii mini**

@@ -17,7 +17,7 @@ Próba instalacji innych cIOS na Wii Mini nie zadziała. Próba instalacji innyc
 * Karta SD lub urządzenie USB.
 * [Instalator d2x cIOS](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
-Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
+Upewnij się, że przełącznik blokady zapisu na Twojej karcie SD jest odblokowany, inaczej nie będziesz mógł wybrać poprawnych opcji z instalatorze.
 {: .notice--warning}
 
 #### Instrukcje
@@ -31,38 +31,38 @@ Ensure that if you are using an SD card, the lock switch is in the unlocked posi
 
 1. Naciśnij `Continue` i ustaw opcje na poniższe:
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 57
-Select cIOS slot: 249
-Select cIOS version: 65535
+Wybierz cIOS: v10 beta52 d2x-v10-beta52
+Wybierz cIOS base: 57
+Wybierz cIOS slot: 249
+Wybierz cIOS version: 65535
 ```
-![Install cIOS 249](/images/cios/Install249.png)
+![Zainstaluj cIOS 249](/images/cios/Install249.png)
 1. Kiedy ustawisz tak jak powyżej, naciśnij A podwójnie aby zainstalować.
 1. Kiedy instalacja przebiegnie pomyślnie, naciśnij A aby powrócić i ustaw poniższe opcje:
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 56
-Select cIOS slot: 250
-Select cIOS version: 65535
+Wybierz cIOS: v10 beta52 d2x-v10-beta52
+Wybierz cIOS base: 56
+Wybierz cIOS slot: 250
+Wybierz cIOS version: 65535
 ```
-![Install cIOS 250](/images/cios/Install250.png)
+![Zainstaluj cIOS 250](/images/cios/Install250.png)
 1. Kiedy ustawisz tak jak powyżej, naciśnij A podwójnie aby zainstalować.
 1. Kiedy instalacja przebiegnie pomyślnie, naciśnij A aby powrócić i ustaw poniższe opcje:
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 38
-Select cIOS slot: 251
-Select cIOS version: 65535
+Wybierz cIOS: v10 beta52 d2x-v10-beta52
+Wybierz cIOS base: 38
+Wybierz cIOS slot: 251
+Wybierz cIOS version: 65535
 ```
-![Install cIOS 251](/images/cios/Install251.png)
-1. Once set, press A twice again to install, and then exit once done.
+![Zainstaluj cIOS 251](/images/cios/Install251.png)
+1. Po ustawieniu, naciśnij przycisk A jeszcze raz, aby zainstalować, a następnie wyjdź po zakończeniu.
 
 {% capture bruh %}
-Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
-* Using a keyboard in Animal Crossing: City Folk.
-* Running SpongeBob's Boating Bash.
+Chociaż większość gier powinna działać od razu z domyślnymi ustawieniami, niektóre mogą wymagać użycia określonego cIOS do działania lub wykorzystania niektórych funkcji w grze.<br> Przykłady to m.in:
+* Używanie klawiatury w Animal Crossing: City Folk.
+* Uruchamianie SpongeBob Boating Bash.
 
-A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
+Bardziej obszerna lista (choć nadal niekompletna) znajduje się [**tutaj**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> Aby zmienić cIOS używany w konkretnej grze, postępuj zgodnie z poniższymi instrukcjami:
 {% endcapture %}
 <div class="notice--warning">{{ bruh | markdownify }}</div>
 
@@ -71,24 +71,24 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 
 <div id="usbloadergx" class="blanktabcontent">
   <p spaces-before="0">
-    !!crwdP_24_Pdwrc!!Select the game that isn't working. !!crwdP_25_Pdwrc!!Click Settings. !!crwdP_26_Pdwrc!!Select <code>Game Load</code>. !!crwdP_27_Pdwrc!!Scroll down to <code>Game IOS</code>. !!crwdP_28_Pdwrc!!Enter the IOS slot to use.
+    !!crwdP_24_Pdwrc!!Wybierz grę, która nie działa. !!crwdP_25_Pdwrc!!Kliknij na Ustawienia. !!crwdP_26_Pdwrc!!Wybierz <code>Załaduj gre</code>. !!crwdP_27_Pdwrc!!Przewiń w dół do <code>Game IOS</code>. !!crwdP_28_Pdwrc!!Wpisz slot IOS.
   </p>
   
   <ul>
     <li>
-      Try using 250 or 251, if 249 doesn't work. !!crwdP_29_Pdwrc!!Press ok and try to load the game.
+      Spróbuj użyć 250 lub 251, jeśli 249 nie działa. !!crwdP_29_Pdwrc!!Wybierz OK i spróbuj załadować gre.
     </li>
   </ul>
 </div>
 
 <div id="wiiflow" class="blanktabcontent">
   <p spaces-before="0">
-    !!crwdP_30_Pdwrc!!Select the game that isn't working. !!crwdP_31_Pdwrc!!Click the gear icon. !!crwdP_32_Pdwrc!!Go to cIOS and use the arrows to select the IOS slot to use.
+    !!crwdP_30_Pdwrc!!Wybierz grę, która nie działa. !!crwdP_31_Pdwrc!!Naciśnij na ikonę koła zębatego. !!crwdP_32_Pdwrc!!Wejdź do cIOS i użyj strzałki aby wybrać IOS, z którego chcesz skorzystać.
   </p>
   
   <ul>
     <li>
-      Try using 250 or 251, if 249 doesn't work. !!crwdP_33_Pdwrc!!Press Save and try to load the game.
+      Spróbuj użyć 250 lub 251, jeśli 249 nie działa. !!crwdP_33_Pdwrc!!Naciśnij Save i spróbuj załadować gre.
     </li>
   </ul>
 </div>
@@ -100,7 +100,7 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 [Przejdź do spisu stron](site-navigation)<br> Mamy wiele innych poradników, które mogą Ci się przydać.
 {: .notice--info}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
+Możesz już korzystać z takich homebrew jak [USB Loader GX](usbloadergx) lub [WiiFlow](wiiflow).
 {: .notice--info}
 
 <script>

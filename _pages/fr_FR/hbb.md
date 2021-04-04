@@ -25,5 +25,5 @@ La [Chaîne Open Shop](https://oscwii.org/) est l'endroit où vous pouvez obteni
 Le fichier de téléchargement de Homebrew Browser contient un guide sur l'utilisation de ce dernier.
 {: .notice--info}
 
-Vous pouvez remplacer ShopChannel.ogg par loop.ogg pour que le Homebrew Channel joue la musique de la Chaîne Boutique Wii.
+Vous pouvez remplacer ShopChannel.ogg par loop.ogg dans `/apps/homebrew_browser/` pour que le Homebrew Channel joue la musique de la Chaîne Boutique Wii.
 {: .notice--info}

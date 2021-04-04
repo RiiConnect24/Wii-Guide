@@ -31,20 +31,20 @@ Falls du Dolphin bereits installiert hast, gehe direkt zu Abschnitt 2 über
 
 ##### Abschnitt 2 - RiiConnect24 installieren.
 
-1. Führe `VFF-Downloader-for-Dolphin.bat` auf Windows oder `VFF-Downloader-for-Dolphin.sh` auf Unix-Systemen aus, welche du [here](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases) herunterlädst
+1. Führe `VFF-Downloader-for-Dolphin.bat` auf Windows oder `VFF-Downloader-for-Dolphin.sh` auf Unix-Systemen aus, welche du [hier](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases) herunterladen kannst.
 2. Drücke `1` und dann `ENTER`, um das Programm zu starten. ![Hauptmenü](/images/Dolphin_RC24/2.jpg)
-3. Fahre mit der Einrichtung des Programmes fort.
-4. Du wirst gefragt, ob du das Programm jedes Mal, wenn du RiiConnect24 in Dolphin benutzen möchtest, von Hand ausführst oder ob es beim Hochfahren automatisch ausgeführt werden soll. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
+3. Fahre mit der Einrichtung des Programms fort.
+4. Du wirst gefragt, ob du das Programm jedes Mal, wenn du RiiConnect24 in Dolphin benutzen möchtest, manuell ausführen möchtest oder ob es beim Hochfahren automatisch ausgeführt werden soll. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
 
 ![Run once](/images/Dolphin_RC24/4.jpg)
 
 Wenn du es manuell ausführen möchtest, behalte `VFF-Downloader-for-Dolphin.bat`. Es gibt einen Eintrag zum Ausführen im Menü.
 {: .notice--info}
 
-Wenn du es beim Hochfahren starten lässt, musst du gar nichts machen. Wenn du es in Zukunft deinstallieren möchtest führe `VFF-Downloader-for-Dolphin.bat` oder `VFF-Downloader-for-Dolphin.sh` erneut aus und wähle - Manage startup VFF Downloader.
+Wenn du es beim Hochfahren starten lässt, musst du gar nichts machen. Wenn du es in Zukunft deinstallieren möchtest, führe `VFF-Downloader-for-Dolphin.bat` oder `VFF-Downloader-for-Dolphin.sh` erneut aus und wähle - Manage startup VFF Downloader.
 {: .notice--info}
 
-##### Abschließen der Installation
+##### Abschnitt 3 - Abschließen der Installation
 
 1. Starte in Windows die `RiiConnect24Patcher.bat`, oder starte die `RiiConnect24Patcher.sh` wenn du dich auf einem Unix-System befindest, welches du [hier](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases) heruntergeladen hast
 2. Starte den Patcher, wähle dann `Install RiiConnect24`. ![Select Custom](/images/Dolphin_RC24/5.jpg)

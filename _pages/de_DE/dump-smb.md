@@ -1,5 +1,5 @@
 ---
-title: "Dumping Wii/GameCube games over local network"
+title: "Wii/GameCube-Spiele über ein lokales Netzwerk sichern"
 ---
 
 #### Voraussetzungen
@@ -7,15 +7,15 @@ title: "Dumping Wii/GameCube games over local network"
 * Eine Wii.
 * [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
 
-Your Wii and your computer must be connected to one local network
+Deine Wii und dein Computer müssen sich im selben lokalen Netzwerk befinden
 {: .notice--warning}
 
 #### Anleitung
 
 ##### Abschnitt 1 - Herunterladen/Installieren
 
-1. Entpacke DVD Dump Tool und verschiebe es in den `apps`-Ordner auf deiner SD-Karte bzw.
-1. Verbinde die SD-Karte mit deiner Wii und starte DVD Dump Tool vom Homebrew-Kanal.
+1. Entpacke DVD Dump Tool und verschiebe es in den `apps`-Ordner auf deiner SD-Karte bzw. deinem USB-Laufwerk.
+1. Stecke die SD-Karte in deine Wii und starte DVD Dump Tool vom Homebrew-Kanal.
 
 ##### Abschnitt 2 - Kopieren
 

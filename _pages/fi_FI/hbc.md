@@ -35,5 +35,5 @@ Jos sinulla ei ole SD-korttia, et voi asentaa tai käyttää BootMiita, etkä si
 [Jatka NAND-varmuuskopion tekemiseen BootMiita käyttämällä](bootmii)<br> NAND-varmuuskopion tekeminen BootMiin avulla on tässä vaiheessa erittäin suositeltavaa.
 {: .notice--info}
 
-Jos et voinut asentaa BootMiita, jatka sen sijaan [Priiloaderin asennukseen](priiloader).
+If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
 {: .notice--info}

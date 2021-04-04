@@ -25,5 +25,5 @@ If you need help for anything regarding this tutorial, please join [the Open Sho
 Homebrew浏览器中包含有关如何使用Homebrew浏览器的指南。
 {: .notice--info}
 
-你可以将Homebrew浏览器的shopChannel.ogg与loop.ogg换成Wii 商店频道的音乐。
+You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
 {: .notice--info}

@@ -13,7 +13,8 @@ Wii Backup Manager ist ein Programm mit dem du deine Wii-Spiele von einem Comput
 * Ein USB-Laufwerk
 * [Wii Backup Manager](https://static.wiidatabase.de/Wii-Backup-Manager.zip)
 
-Wir empfehlen die Verwendung von [Witgui](https://desairem.com/wordpress/category/witgui-download/) wenn du macOS nutzt. Der Wii Backup Manager funktioniert nicht auf macOS.
+
+We recommend you copy games over with [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux. Wii Backup Manager is only compatible with Windows.
 {: .notice--info}
 
 Um mehrere Spiele zu spielen, empfehlen wir eine externe Festplatte für Ihre Wii, die über USB mit Strom versorgt wird. Wir bezeichnen sie als "USB-Laufwerk" in dieser Anleitung. Viele von denen, die auf dem Markt zu finden sind, sollten problemlos funktionieren, falls sie mit USB 2.0 abwärtskompatibel sind. Laufwerke mit einer Kapazität von 1 TB oder mehr werden funktionieren. Ein USB-Stick wird auch funktionieren, aber aufgrund dessen Größe wird es nicht in der Lage sein, so viele Spiele zu speichern.
@@ -32,7 +33,7 @@ Stelle sicher, dass dein USB-Laufwerk als FAT32 oder NTFS formatiert ist. Format
 ##### Abschnitt 2 - Spiele kopieren
 
 1. Gehe in den Abschnitt `Drive 1` und wähle dann `Drive`.
-2. Wähle das Laufwerk, dass du für die Wii-Spiele verwendest.
+2. Wähle das Laufwerk, das du für die Wii-Spiele verwendest.
 3. Gehe in den Abschnitt `Files` und wähle dann `Add`.
 4. Wähle `Files` um mehrere Spiele zum Programm hinzuzufügen oder wähle `Folder` um einen Ordner mit Spielen hinzuzufügen.
 5. Wähle `Transfer` und dann `Drive 1` um die Spiele zu übertragen. Es kann eine Weile dauern, die Spiele zu kopieren.

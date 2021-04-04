@@ -16,9 +16,11 @@ FlashHax on exploit Wii:lle, mikä laukaistaan Internet Channel:ia käyttämäll
 
 1. Avaa Internet Channel Wii:lläsi.
 2. Mene selaimessa sivulle flashhax.com ja lisää sivu kirjanmerkkeihin.
-3. Avaa sivu kirjanmerkistä. Se sitten jatkaa HackMii Installer:in lataamiseen ja käynnistämiseen. Se voi viedä jonkin verran aikaa, sillä asennusohjelma ladataan internetin välityksellä.
+3. Avaa sivu kirjanmerkistä. Se sitten jatkaa HackMii Installer:in lataamiseen ja käynnistämiseen. It may take some time as it is downloading the installer over the Internet.
 
 If the HackMii Installer doesn't load and it instead freezes (you can't move your cursor), please restart your Wii and repeat step 3 until it works. It might take multiple tries, be persistent!
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+If you still can't get it to load, try deleting your cookies or save data for the Internet Channel.
+
+[Jatka Homebrew Channelin ja BootMiin asennukseen](hbc)
 {: .notice--info}

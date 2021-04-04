@@ -31,7 +31,7 @@ Emme suosittele BlueBombia käytettävän alkuperäisellä Wiillä, jos tarkoitu
 #### Osa II - Exploitin suorittaminen
 1. Lataa HackMii installer [BootMii:n nettisivulta](https://bootmii.org/download/).
 - (If attempting to fix a brick, you should also copy the homebrew app you wish to use to /apps/)
-1. Pura se ja laita `boot.elf` tiedosto muistitikullesi.
+1. Extract it and place the `boot.elf` file in your flash drive.
 1. Liitä muistitikku konsoliin. Wii minin USB-portti on konsolin takana. Tavallisella Wiillä, käytä alempaa porttia. (tai oikeanpuolimmaista porttia, jos se on pystyasennossa).
 1. Laita konsolisi päälle ja mene asetusvalikkoon. Oikeassa yläkulmassa näet nelimerkkisen koodin, kuten alla olevassa kuvassa. Tämä koodi on Wii Menu -versiosi, laita tämä muistiin, sillä tarvitset sitä myöhemmin. Sen jälkeen sammuta konsolisi. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Käynnistä Linux-distrosi ja varmista, että olet yhdistettynä internetiin.
@@ -45,7 +45,7 @@ chmod +x bluebomb-helper.sh
 1. Apuohjelma lataa tarvittavat tiedostot ja kysyy tietoja konsolistasi.
   - If you have selected a Wii mini you will be asked to provide your region. This can be determined by the last letter of the Wii Menu version (`U` for **USA** and `E` for **PAL** models).
   - If you have selected a Wii you will be asked to provide your Wii Menu Version (What you determined in step 4)
-1. Laita konsolisi päälle, **äläkä** yhdistä Wiimoteja.
+1. Turn on your console and **do not** connect any Wii Remotes.
 1. Paina Sync-nappia toistuvasti, kunnes terminaali näyttää `got connection handle`. Tämä voi vaatia useita yrityksiä, joten älä luovuta.
 
 Varmista, että konsoli on lähellä tietokonetta, joka suorittaa exploitia. Ideaalisesti niiden tulisi olla alle metrin päässä toisistaan.

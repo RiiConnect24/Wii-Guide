@@ -17,7 +17,7 @@ Diese Anleitung ist ausschliesslich für die Windows-Version des WiiWare Patcher
 
 #### Herunterladen
 
-[Wenn du den WiiWare Patcher ohne die `cmd.exe`-Methode downloaden möchtest, klick hier!](https://github.com/RiiConnect24/auto-wiiware-patcher/releases)
+[Wenn du den WiiWare Patcher ohne die `cmd.exe`-Methode herunterladen möchtest, klick hier!](https://github.com/RiiConnect24/auto-wiiware-patcher/releases)
 {: .notice--info}
 
 Falls du Windows 7 oder neuer hast, öffne cmd.exe (Ausführen oder drücke Windows Logo+R und gib cmd.exe ein) und führe den Befehl aus
@@ -37,7 +37,7 @@ Drücke irgendeine Taste. Wenn ein Update verfügbar ist, dann musst du den WiiW
 
 Danach solltest du das sehen. ![WiiWare Patcher 1st screen](/images/WiiWare-Patcher/wiiwarepatcher_1.jpg)
 
-Bitte kopiere deine WAD Dateien in den Ordner, in dem sich der WiiWare Patcher befindet. ![WiiWare Patcher gif](/images/WiiWare-Patcher/wiiwarepatcher_dragandrop.gif)
+Bitte kopiere deine WAD-Dateien in den Ordner, in dem sich der WiiWare Patcher befindet. ![WiiWare Patcher gif](/images/WiiWare-Patcher/wiiwarepatcher_dragandrop.gif)
 
 Wenn du alles korrekt gemacht hast, wird der Patch-Vorgang starten. ![WiiWare Patcher 2nd screen](/images/WiiWare-Patcher/wiiwarepatcher_2.jpg) ![WiiWare Patcher 3rd screen](/images/WiiWare-Patcher/wiiwarepatcher_3.jpg)
 

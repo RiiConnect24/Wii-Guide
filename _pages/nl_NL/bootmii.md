@@ -12,6 +12,9 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 U heeft een **SD Kaart** nodig om een NAND backup te maken via BootMii. Als u er geen heeft dan kunt u deze pagina overslaan maar het is erg aangeraden om een NAND backup te maken als u het kunt.
 {: .notice--waarschuwing}
 
+BootMii as boot2 is recommended, but only available to install on early Wiis. Otherwise, it can be installed as an IOS.
+{: .notice--info}
+
 One of BootMii's most important features is the ability to backup and restore your Wii's NAND storage. We will be going over how to perform a NAND backup. You can then restore from that backup for whatever reason. It's a good idea to make a NAND backup regularly or before doing something risky to your console (and if you know what you're doing, you won't have to do anything risky).
 
 #### Benodigheden
@@ -21,7 +24,7 @@ One of BootMii's most important features is the ability to backup and restore yo
 1. Open het Homebrew Kanaal op uw Wii.
 2. Druk op de HOME Knop en selecteer "BootMii Opstarten" (Launch BootMii).
 
-    Navigating BootMii is not possible using a Wii remote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. To navigate between options, press POWER on your Wii (or the right +Control Pad button on a GameCube controller). To select an option, hit RESET on your Wii or A on your GameCube controller.
+    Navigating BootMii is not possible using a Wii Remote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. To navigate between options, press POWER on your Wii (or right on the +Control Pad on a GameCube controller). To select an option, hit RESET on your Wii or A on your GameCube controller.
     {: .notice--info}
 
 
@@ -31,7 +34,7 @@ One of BootMii's most important features is the ability to backup and restore yo
 3. Select the Options button (the one with the gears).
 4. Select the BackupMii button (the one with the green arrow).
 - Een NAND back-up zal nu beginnen (dit is een back-up van alle gegevens van uw Wii). U kunt de vordering volgen op het scherm.
-- "Bad Blocks" are normal. Don't worry when you see one on a NAND backup
+- "Bad Blocks" are normal. Don't worry when you see some on a NAND backup.
 - After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii.
 5. Wanneer de back-up volledig compleet is gaat u automatisch hier weg door op een knop te drukken.
 6. Om BootMii te verlaten moet u de terug knop gebruiken (degene met de pijl), u kunt vervolgens het Wii Menu kiezen of het Homebrew Kanaal om naar toe te gaan.

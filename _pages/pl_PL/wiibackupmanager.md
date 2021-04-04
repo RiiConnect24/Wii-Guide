@@ -4,7 +4,7 @@ title: "Wii Backup Manager"
 
 {% include toc title="Zawartość" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.).
 {: .notice--info}
 
 Wii Backup Manager jest programem, które kopiuje i instaluje gry Wii z Twojego komputera na urządzenia USB, tak abyś mógł w nie grać na Twoim Wii. Może on również pobrać okładki gier z [GameTDB](https://gametdb.com/) i użyć je aby wyświetlić Ci jakie gry posiadasz. Ten poradnik wytłumaczy Ci jak kopiować gry z Twojego komputera na Twoje urządzenie USB. Możesz również skorzystać z innych funkcji oferowanych przez łatwy do użycia interfejs.
@@ -13,7 +13,8 @@ Wii Backup Manager jest programem, które kopiuje i instaluje gry Wii z Twojego 
 * Dysk USB / Pendrive
 * [Wii Backup Manager](https://static.wiidatabase.de/Wii-Backup-Manager.zip)
 
-Zalecamy korzystanie z [Witgui](https://desairem.com/wordpress/category/witgui-download/) jeżeli korzystasz z macOS'a. Wii Backup Manager nie działa na macOS.
+
+We recommend you copy games over with [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux. Wii Backup Manager is only compatible with Windows.
 {: .notice--info}
 
 Aby grać w wiele gier, zalecamy użycie dysku twardego na USB z zewnętrznym zasilaniem. Będziemy go nazywali "urządzeniem USB" w tym poradniku. Wiele dysków, które znajdziesz w sklepach powinny działać jeżeli posiadają wsparcie wsteczne dla USB 2.0. Dyski o pojemności 1TB lub więcej powinny zadziałać. Pendrive'y również powinny działać, jednak z powodu ich wielkości, nie będziesz mógł zmieścić na nich dużej ilości gier.
@@ -42,10 +43,10 @@ Upewnij sie, że Twoje urządzenie USB jest sformatowane jako FAT32 lub NTFS. Ni
 [Kontynuuj do instalacji cIOS](cios)<br> cIOS jest potrzebne aby grać w gry korzystając z loaderów USB.
 {: .notice--info}
 
-[Continue to USB Loader GX](usbloadergx) USB Loader GX is a USB Loader that you can use to play games on your Wii from a USB drive.
+[Kontynuuj do instalacji USB Loader GX](usbloadergx) USB Loader GX jest loaderem USB. Dzięki niemu, możesz grać w kopie zapasowe Twoich gier korzystając z urządzenia USB.
 {: .notice--info}
 
-[Continue to WiiFlow](wiiflow) WiiFlow is a USB Loader that you can use to play games on your Wii from a USB drive or SD Card.
+[Kontynuuj do instalacji Wii Flow](wiiflow) Wii Flow jest loaderem USB. Dzięki niemu, możesz grać w kopie zapasowe Twoich gier korzystając z urządzenia USB.
 {: .notice--info}
 
 [Przejdź do spisu stron](site-navigation)<br> Mamy wiele innych poradników, które mogą Ci się przydać.
