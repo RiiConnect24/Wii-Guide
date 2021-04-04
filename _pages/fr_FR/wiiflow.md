@@ -20,22 +20,22 @@ Ceci est un guide de démarrage rapide sur la façon d'utiliser WiiFlow, un USB 
 Assurez-vous d'avoir installé [cIOS](/cios) avant de continuer !
 {: .notice--info}
 
-We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux.
+Nous vous recommandons de copier des jeux avec [Wii Backup Manager](/wiibackupmanager) si vous utilisez Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) si vous utilisez macOS ou [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) pour Windows, macOS et Linux.
 {: .notice--info}
 
-If you want to play games that are in NKit format, use [this program](https://gbatemp.net/download/nkit.36157/) to convert them to ISO first. You can also use a development build of Dolphin, right click on a game, and use "Convert File" to convert it.
+Si vous voulez jouer à des jeux au format NKit, utilisez [ce programme](https://gbatemp.net/download/nkit.36157/) pour les convertir en ISO d'abord. Vous pouvez également utiliser une version de développement de Dolphin, faire un clic droit sur un jeu, et utiliser "Convertir un fichier" pour le convertir.
 {: .notice--info}
 
-If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fusion, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
+Si vous ne copiez pas de jeux à l'aide de Wii Backup Manager, Witgui, ou de Wii Backup Fusion, créez un dossier à la racine du périphérique USB ou de la carte SD nommé wbfs et placez-y les jeux.
 {: .notice--info}
 
 Pour jouer à des jeux, nous vous recommandons d'utiliser un disque dur externe pour votre Wii. Les clés USB devraient également être utilisables, mais les disques durs externes sont recommandés car ils sont plus fiables et peuvent stocker plus de jeux.
 {: .notice--info}
 
-Unlike USB Loader GX, WiiFlow can load games of an SD card.
+A l'inverse de USB Loader GX, WiiFlow peut charger des jeux depuis une carte SD.
 {: .notice--info}
 
-Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. N'utilisez pas d'autres types de format comme extFS ou WBFS, ce dernier est un ancien format de stockage de jeux Wii.
+Assurez-vous que votre périphérique USB et/ou votre carte SD est formaté(e) en FAT32 ou NTFS. N'utilisez pas d'autres types de format comme extFS ou WBFS, ce dernier est un ancien format de stockage de jeux Wii.
 {: .notice--info}
 
 #### Instructions
@@ -47,7 +47,7 @@ Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. N'utilise
 
 ##### Commencer
 
-This is not a full comprehensive guide on using WiiFlow. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow by using it.
+Ce n'est pas un guide complet sur l'utilisation de WiiFlow. Cette page va vous aider à utiliser les fonctions basiques de l'application. Vous devriez être en mesure de comprendre toutes les fonctionnalités intéressantes de WiiFlow en l'utilisant.
 {: .notice--info}
 
 * WiiFlow est paramétré pour ne trouver que des jeux sur carte SD par défaut. Ceci peut être modifié en allant dans `Settings`, puis `Startup settings` puis en désactivant l'option `Mount SD Only`.
@@ -56,14 +56,14 @@ This is not a full comprehensive guide on using WiiFlow. This is intended to hel
 
 ##### Interface utilisateur
 
-When WiiFlow detects games, they are displayed in flow view. When you click on a game you are given these options:
+Lorsque WiiFlow détecte des jeux, ils s'affichent en vue continue. Lorsque vous cliquez sur un jeu, ces options vous sont proposées:
 
 * Étoile - Ajoute un jeu aux favoris.
 * Bibliothèque : Ajoute le jeu à l'une des six catégories de votre choix.
 * Engrenages - Ouvre le menu des paramètres pour un jeu sélectionné. Modifier ces paramètres affectera uniquement le jeu sélectionné.
 * X - Supprime le jeu du périphérique USB ou de la carte SD
 
-When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
+Lorsque vous amenez le curseur au bas de l'écran en vue continue, il y a 6 icônes:
 
 * Bibliothèque - Affiche les jeux classés dans les catégories que vous avez choisies.
 * Étoile - Affiche les jeux ajoutés en favoris.
@@ -85,7 +85,7 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 
 ##### Options disponibles une fois le processus terminé
 
-[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki is a great resource with information about WiiFlow.
+[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki est une excellente source d'informations sur WiiFlow.
 {: .notice--info}
 
 [Continuer vers la navigation du site](site-navigation)<br> Nous avons de nombreux autres tutoriels que vous pourriez aimer.
