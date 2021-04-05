@@ -21,11 +21,11 @@ LetterBomb jest exploitem przeznaczonym dla Wii, który wykorzystuję dziurę w 
    - Nie ma znaczenie czy wybierzesz `cut the blue wire` lub `cut the red wire`. ![Ekran HackMii](/images/Wii/LetterBomb-PC.png)
 1. Wypakuj pliki z pobranego pliku ZIP na Twoją kartę SD.
 1. Wyciągnij kartę SD i włóż ją do Wii.
-1. On your Wii, return to the Wii Menu and then open the Wii Message Board.
+1. Wróć do menu głównego Wii oraz otwórz Wii Message Board.
 1. Naciśnij na czerwoną kopertę z ikoną bomby.
    - W różnych przypadkach, będziesz musiał czasami spojrzeć na dzień poprzedni lub następny aby znaleźć kopertę.
 
-Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
+Upewnij się, że data na Wii jest prawidłowa, w przeciwnym razie nie będziesz w stanie znaleźć czerwonej koperty.
 {: .notice--warning}
 
 

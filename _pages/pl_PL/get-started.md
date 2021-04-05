@@ -13,19 +13,19 @@ Wszystkie exploity uruchomią Instalator HackMii co powoduje ten sam rezultat.
 Pomimo tego, że możesz skorzystać z tego poradnika bez posiadania karty SD, nie będziesz mógł tworzyć lub przywracać kopię zapasową NAND korzystając z BootMi oraz nie będziesz mógł korzystać z niektórych aplikacji homebrew.
 {: .notice--info}
 
-This guide is for the original Wii and Wii mini only (including the Wii Family Edition), with the latest firmware (4.3). Nie próbuj tego robić na Wii U (vWii)! Jeżeli chcesz zainstalować homebrew na Wii U, [podążaj za tym poradnikiem](https://wiiu.hacks.guide).
+Ten przewodnik dotyczy oryginalnych wersji Wii i Wii mini (w tym wersji Wii Family Edition), z najnowszym oprogramowaniem (4.3). Nie próbuj tego robić na Wii U (vWii)! Jeżeli chcesz zainstalować homebrew na Wii U, [podążaj za tym poradnikiem](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### Wybierz z jakiego exploitu chcesz skorzystać:
 
-These exploits are sorted by easiest to hardest difficulty of use.
+Posortowaliśmy te exploity od najłatwiejszego do najtrudniejszego.
 
 - [str2hax](str2hax) - Exploit korzystający z umowy licencyjnej użytkownika końcowego. (EULA)
-    * (Requires an Internet connection and changing the DNS server)
+    * (Wymaga połączenia z Internetem oraz zmiany adresu serwera DNS)
 - [LetterBomb](letterbomb) - Exploit, który korzysta z Wii Message Board (Wymagana karta Sd)
     * (Wymaga karty SD)
 - [FlashHax](flashhax) - Exploit, który korzysta z Internet Channel
-    * (Requires the Internet Channel installed, and an Internet connection)
+    * (Wymaga zainstalowany Internet Channel oraz połączenie z Internetem)
 - [BlueBomb](bluebomb) - Exploit, który korzysta z Bluetooth'a
-    * Requires a computer with Bluetooth and GNU/Linux, as well as a USB storage device
+    * Powyższy exploit wymaga komputera z Bluetooth'em oraz systemem operacyjnym GNU/Linux, jak i również dysk USB / pendrive
     * To jest jedyny exploit, który działa na **Wii Mini**

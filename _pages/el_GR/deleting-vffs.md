@@ -4,7 +4,7 @@ title: "Διαγραφή VFF"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Εάν χρειάζεστε οποιαδήποτε βοήθεια όσο αφορά αυτόν τον οδηγό, παρακαλώ μπείτε στον [ RiiConnect24 διακομιστή Discord](https://discord.gg/rc24) (συνιστάται) ή[στείλτε μας e-mail στο support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![Εικονίδιο RiiConnect24](/images/WiiRC24Logo.jpg)

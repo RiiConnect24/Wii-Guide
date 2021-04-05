@@ -16,11 +16,11 @@ FlashHax jest exploitem przeznaczonym dla Wii, który wykorzystuje dziurę w zab
 
 1. Otwórz Internet Channel na Twoim Wii.
 2. Otwórz stronę flashhax.com w przeglądarce oraz dodaj ją do zakładek.
-3. Otwórz tą stronę z zakładek. Rozpocznie się proces pobierania i uruchamiania instalatora HackMii. It may take some time as it is downloading the installer over the Internet.
+3. Otwórz tą stronę z zakładek. Rozpocznie się proces pobierania i uruchamiania instalatora HackMii. Może to chwilę potrwać, ponieważ instalator jest pobierany przez Internet.
 
 Jeżeli instalator HackMii nie ładuje się a twoja konsola się zawiesza (nie możesz ruszyć kursorem), zrestartuj konsolę [przytrzymaj przycisk/odłącz z prądu] oraz powtarzaj krok 3 dopóki się nie uda. Może to wymagać kilku prób, bądź wytrwały!
 
-If you still can't get it to load, try deleting your cookies or save data for the Internet Channel.
+Jeśli Ci się dalej nie udaje, spróbuj skasować ciasteczka lub zapis Internet Channel'u.
 
 [Przejdź do instalacji Homebrew Channel](hbc)
 {: .notice--info}

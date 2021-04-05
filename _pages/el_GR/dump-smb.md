@@ -7,7 +7,7 @@ title: "Dumping Wii/GameCube games over local network"
 * Ένα Wii.
 * [To εργαλείο αποθηκευσης DVD](/assets/files/DVDDumpTool.zip)
 
-Your Wii and your computer must be connected to one local network
+Το Wii και ο υπολογιστής σας πρέπει να είναι συνδεδεμένα στο τοπικό σας δίκτυο
 {: .notice--warning}
 
 #### Οδηγίες

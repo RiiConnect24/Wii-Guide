@@ -16,7 +16,7 @@ Installiere den Priiloader nicht auf einer vWii (Wii Modus auf der Wii U). Du wi
 
 #### Voraussetzungen
 * Eine SD-Karte oder ein USB-Laufwerk
-* [Priiloader Installer](assets/files/Priiloader_v0_9.zip)
+* [Priiloader Installer](assets/files/Priiloader_v0_9_1.zip)
 
 #### Anleitung
 ##### Abschnitt 1 - Herunterladen/Installieren
