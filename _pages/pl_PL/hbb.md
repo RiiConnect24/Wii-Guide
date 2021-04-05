@@ -25,5 +25,5 @@ Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz d
 W pliku, który zawiera Homebrew Browser jest równiez dołączony poradnik dotyczący jak korzystać z Homebrew Browser.
 {: .notice--info}
 
-You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
+Możesz zamienić plik ShopChannel.ogg na plik loop.ogg w `/apps/homebrew_browser/` aby Homebrew Browser odtwarzał muzykę z Wii Shop Channel.
 {: .notice--info}
