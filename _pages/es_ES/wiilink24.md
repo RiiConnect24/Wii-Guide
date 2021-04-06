@@ -4,7 +4,7 @@ title: "Instalar WiiLink24"
 
 {% include toc title="Tabla de contenido" %}
 
-WiiLink24 y todos sus servicios (como Wii no Ma) no son controlados u operados por RiiConnect24. Para obtener ayuda en todos los problemas con este tutorial y servicio, únete al [servidor de Discord de WiiLink24](https://discord.gg/n4ta3w6).
+WiiLink24 and all of its services (such as Wii no Ma) are not controlled or operated by RiiConnect24.
 {: .notice--warning}
 
 [WiiLink24](https://wiilink24.com/) te permite usar el canal exclusivo de Japón Wii no Ma, y en el futuro te permitirá usar el canal Digicam Print y el canal Demae de nuevo.
