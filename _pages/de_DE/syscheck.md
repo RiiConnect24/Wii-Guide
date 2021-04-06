@@ -24,6 +24,6 @@ Ein SysCheck listet alle IOS und cIOS auf, die sich auf deiner Wii befinden, mit
 
 1. Warte, bis das Programm Informationen über deine Wii gesammelt hat.
 2. Wenn "This IOS will be tested (Please select)" auf dem Bildschirm erscheint, drücke den A-Knopf. ![IOS-Auswahl](/images/SysCheck/1.png)
-3. Wait for the program to get some information about your IOS.
+3. Warte, bis das Programm einige Informationen über deine IOS gesammelt hat.
 4. Nachdem es abgeschlossen ist, drücke die `A`-Taste, wenn du den Log sehen willst. ![Abgeschlossen](/images/SysCheck/2.png)
-5. If you want to share the SysCheck, you can press the `A` Button, which will upload it to [syscheck.rc24.xyz](https://syscheck.rc24.xyz/) and give you a link. You can also share the `sysCheck.csv` saved to the root of your SD Card. The `IOSsysCheck.log` file (saved to the root as well) contains additional information about your IOS.
+5. Wenn du den SysCheck teilen möchtest, kannst du die `A`-Taste drücken, wodurch er auf [syscheck.rc24.xyz](https://syscheck.rc24.xyz/) hochgeladen wird und du einen Link erhälst. Du kannst auch die `sysCheck.csv`-Datei im obersten Verzeichnis deiner SD-Karte teilen. Die `IOSsysCheck.log`-Datei (ebenfalls im obersten Verzeichnis deiner SD-Karte) beinhaltet weitere Informationen über deine IOS.
