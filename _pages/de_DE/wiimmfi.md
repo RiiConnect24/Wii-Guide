@@ -120,7 +120,7 @@ Wiimmfi ermöglicht es dir, wieder an Mario Kart Wii-Wettbewerben teilzunehmen.
 1. Entpacke den Mario Kart Wii Competition Patcher und verschiebe ihn in den `apps`-Ordner auf deiner SD-Karte.
 2. Verbinde deine SD-Karte oder dein USB-Laufwerk mit deiner Wii.
 3. Starte das originale Mario Kart Wii-Spiel (ohne den Wiimmfi-Patch).
-4. Navigate to Settings -> Network Settings (or Nintendo WFC Connection) -> Message Service. Wenn du die Info-Service Option an hast, dann mache sie aus und dann wieder an.
+4. Navigiere zu Optionen -> Nintendo Wi-Fi Connection -> Info-Service. Wenn du die Info-Service Option an hast, dann mache sie aus und dann wieder an.
 5. Starte den Mario Kart Wii Competition-Patcher.
 6. Der Patcher wird nach Speicherdaten für Mario Kart Wii auf unterschiedlichen Speichermedien suchen und sie dann hochladen. Dies wird für den Fall gemacht, das sich ein fehlender Wettbewerb in deinen Speicherdaten befindet. Es wird natürlich auch deine Wii für Wettbewerbe patchen.
 
