@@ -23,24 +23,24 @@ WiiLink24 und alle zugehörigen Dienste (wie z. B. Wii no Ma) werden nicht von R
 [Wenn du detaillierte Anweisungen zur Installation von WADs sehen möchtest, klicke hier!](wiimodlite)
 {: .notice--info}
 
-1. Lade abhängig von deinem Betriebssystem die benötigten Dateien herunter. On Windows, run `WiiLink24Patcher.bat`. On Unix systems, launch terminal and type sh, then drag the `WiiLink24Patcher.sh` into the terminal and press enter.
+1. Lade abhängig von deinem Betriebssystem die benötigten Dateien herunter. Unter Windows startest du die `WiiLink24Patcher.bat`. Auf Unix-Systemen, öffne das Terminal und gib sh ein, ziehe anschließend die `WiiLink24Patcher.sh` in das Terminal und drücke die Enter-Taste.
 2. Drücke 1 um "`Start`" auszuwählen und bestätige die Eingabe mit `ENTER`.
 3. Wähle für diese Anleitung "`Install WiiLink24 on your Wii`" aus
 4. Wähle deine Region.
-5. Connect the SD Card or USB Drive to your computer and select "`1`".
-6. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
+5. Verbinde deine SD-Karte oder dein USB-Laufwerk mit deinem Computer und wähle "`1`".
+6. Wenn dein Gerät erfolgreich erkannt wurde, wähle "`1`". Wenn nicht, stelle sicher, dass ein Ordner namens `apps` auf deiner SD-Karte oder deinem USB-Laufwerk vorhanden ist und versuche es erneut.
 7. Bitte hab etwas Geduld...
-8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
-9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLink24Patcher.bat` to your SD Card or USB Device.
-10. Put your SD card or USB drive in your Wii.
+8. Sobald es abgeschlossen ist, kannst du den Patcher schließen. Alle Dateien sind nun auf deiner SD-Karte bereit.
+9. Falls nicht alles automatisch auf deine SD-Karte bzw. dein USB-Laufwerk kopiert wurde, kopiere den `WAD`- und `apps`-Ordner direkt neben der `WiiLink24Patcher.bat` auf deine SD-Karte bzw. dein USB-Laufwerk.
+10. Verbinde deine SD-Karte bzw. dein USB-Laufwerk mit deiner Wii.
 11. Starte den Homebrew-Kanal auf deiner Wii.
 12. Starte Wii Mod Lite.
 13. Mithilfe der rechten Steuerkreuztaste auf deiner Wii-Fernbedienung, wähle `WAD Manager` und wähle dann den `wad`-Ordner.
-14. Select the Wii no Ma WAD and press A to install.
-15. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+14. Wähle die Wii no Ma-WAD-Datei aus und drücke A zum installieren.
+15. Nachdem sie erfolgreich installiert ist, drücke die HOME-Taste um in den Homebrew-Kanal zurückzukehren.
 16. Starte Wii no Ma und schon kann's losgehen!
 
-For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
+Für PAL (Europäische Wiis)<br> Bitte wähle in den Wii-Systemeinstellungen als Fernseherauflösung 60 HZ (480p/480i). Du findest diese unter `Bildschirm -> Fernseher`. Andernfalls verdeckt dir ein pinker Balken am unteren Teil der Bildschirms die Sicht.
 {: .notice--info}
 
 [Weiter mit RiiConnect24](riiconnect24)<br> RiiConnect24 erlaubt es dir, eingestellte Dienste von WiiConnect24 zu benutzen, was den Nachrichtenkanal, Wetterkanal, Meinungskanal, Nintendo-Kanal und Mii-Wettbewerbskanal, sowie Wii Mail beinhaltet. Dies zu installieren ist nicht zwingend erforderlich.
