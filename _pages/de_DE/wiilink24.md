@@ -4,7 +4,7 @@ title: "WiiLink24"
 
 {% include toc title="Inhaltsverzeichnis" %}
 
-WiiLink24 und alle zugehörigen Dienste (wie z. B. Wii no Ma) werden nicht von RiiConnect24 verwaltet oder betrieben. Um Unterstützung zu diesem Tutorial und weiteren Diensten zu erhalten, tritt dem [WiiLink24 Discord server](https://discord.gg/n4ta3w6) bei.
+WiiLink24 and all of its services (such as Wii no Ma) are not controlled or operated by RiiConnect24.
 {: .notice--warning}
 
 [WiiLink24](https://wiilink24.com/) lässt dich den Japan-exklusiven Wii-Kanal Wii no Ma verwenden. In Zukunft wirst du auch den Digicam Print-Kanal und den Demae-Kanal nutzen können.
