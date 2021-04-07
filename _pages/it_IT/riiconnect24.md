@@ -39,7 +39,7 @@ Se comunque non riesci ad avviare RiiConnect24 Patcher, perfavore mandaci un'ema
 
 ##### Sezioni I - Scaricare RiiConnect24 Patcher
 
-1. Clicca il link sopra per andare sulla pagina github dove si trova il patcher.
+1. Click the link above to go to the GitHub page where the patcher is.
 2. Scarica `RiiConnect24Patcher.bat` se sei su Windows, e `RiiConnect24Patcher.sh` se sei su un sistema Unix
 
 ##### Sezione II - Patchare IOS
@@ -48,22 +48,23 @@ Se comunque non riesci ad avviare RiiConnect24 Patcher, perfavore mandaci un'ema
 {: .notice--info}
 
 1. Su Windows avvia `RiiConnect24Patcher.bat`. Dovrebbe sembrare così `bash RiiConnect24Patcher.sh`. Sui sistemi Unix, avvia il terminale e digita bash, poi trascina `RiiConnect24Patcher.sh` nel terminale e premi invio.
-2. Premi 1 per scegliere "`Start`" e conferma la tua scelta premendo `ENTER`. ![Schermata principale di RiiConnect24 Patcher](/images/RC24_Patcher/1.PNG)
-3. Seleziona il dispositivo per cui stai patchando. ![Seleziona il tuo dispositivo](/images/RC24_Patcher/2.PNG)
-4. Per questa guida, scegli "`Install RiiConnect24 on your Wii`" ![Installa RiiConnect24](/images/RC24_Patcher/3.PNG)
-5. Scegli "`Express (Recommended)`". Ti darà tutto ciò di cui avrai bisogno. ![Express Settings](/images/RC24_Patcher/4.PNG)
-6. Seleziona la tua regione. ![Seleziona la tua regione](/images/RC24_Patcher/5.PNG)
-7. Collega la scheda SD o il tuo dispositivo USB al computer e seleziona "`1`". ![Abilita copiare nella tua scheda SD](/images/RC24_Patcher/6.PNG)
-8. Se il tuo dispositivo è stato rilevato con successo, seleziona "`1`". Se non lo è stato, assicurati che una cartella chiamata `apps` esista sulla tua scheda SD o sul tuo dispositivo USB e riprova. ![Rilevato con successo](/images/RC24_Patcher/7.PNG)
-9. Sii paziente... ![Sta patchando!](/images/RC24_Patcher/8.PNG)
-10. Una volta finito, puoi sicuramente chiudere il patcher. Tutti i files sono pronti sulla tua scheda SD. ![Finito!](/images/RC24_Patcher/9.PNG) ![Files copiati](/images/RC24_Patcher/10.PNG)
-11. Se non ha copiato tutto automaticamente nella tua scheda SD o nel tuo dispositivo USB, copia le cartelle `WAD` e `apps` vicino a `RiiConnect24Patcher.bat` nella tua scheda SD o dispositivo USB.
+2. Premi 1 per scegliere "`Start`" e conferma la tua scelta premendo `ENTER`. ![Schermata principale di RiiConnect24 Patcher](/images/RC24_Patcher/1.JPG)
+3. Seleziona il dispositivo per cui stai patchando. ![Seleziona il tuo dispositivo](/images/RC24_Patcher/2.JPG)
+4. Per questa guida, scegli "`Install RiiConnect24 on your Wii`" ![Installa RiiConnect24](/images/RC24_Patcher/3.JPG)
+5. Scegli "`Express (Recommended)`". Ti darà tutto ciò di cui avrai bisogno. ![Express Settings](/images/RC24_Patcher/4.JPG)
+6. Seleziona la tua regione. ![Seleziona la tua regione](/images/RC24_Patcher/5.JPG)
+7. While we're at it, RiiConnect24 Patcher can additionally download some other optional channels that are not RiiConnect24 oriented. `[X]` represents option selected. Just press 5 and `ENTER` if you're not interrested. ![Additional optional channels](/images/RC24_Patcher/6.JPG)
+7. Collega la scheda SD o il tuo dispositivo USB al computer e seleziona "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
+8. Se il tuo dispositivo è stato rilevato con successo, seleziona "`1`". Se non lo è stato, assicurati che una cartella chiamata `apps` esista sulla tua scheda SD o sul tuo dispositivo USB e riprova. ![Successfully detected](/images/RC24_Patcher/8.JPG)
+9. Be patient... ![It's patching!](/images/RC24_Patcher/9.JPG)
+10. After it's all done, take a minute to send feedback back to us. Make sure to attach a message, we read every one of them! It's anonymous. If not, close the patcher. All the files should already be on your SD Card. ![It's done!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
+11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
 12. Metti la tua scheda SD o il tuo dispositivo USB nella tua WIi.
 13. Carica l'Homebrew Channel sulla tua Wii.
 14. Avvia Wii Mod Lite.
 15. Usando ul tuo +Control Pad sul telecomando Wii, naviga su `WAD Manager`, e poi naviga sulla cartella `wad`.
-16. Evidenzia tutti i WAD che contengono `RiiConnect24` nel loro nome, e premi + per selezionarli. Quando sono tutti selezionati, premi A due volte per installare i WAD.
-17. Se ottieni un errore che dice che un titolo con una versiona maggiore è già installato (error -1035), torna indietro nel menu della selezizone dei WAD e premi - sul WAD evidenziato per disinstallarlo, poi prova a reinstallarlo.
+16. Evidenzia tutti i WAD che hanno nel nome `RiiConnect24` e premi + per selezionarli. Quando sono tutti selezionati, premi A due volte per installare tutti i WAD.
+17. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted WAD to uninstall it, then try installing it again.
 18. Dopo che ha installato con successo, premi il tasto HOME per tornare all'Hombrew Channel.
 
 ##### Sezione III - Patchare nwc24msg.cfg
