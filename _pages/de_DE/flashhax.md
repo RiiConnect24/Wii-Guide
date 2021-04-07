@@ -16,11 +16,11 @@ FlashHax ist ein Exploit für die Wii, der durch die Nutzung des Internet-Kanals
 
 1. Öffne den Internet-Kanal auf deiner Wii.
 2. Gehe im Browser auf [flashhax.com](https://www.flashhax.com) und füge die Seite den Favoriten hinzu.
-3. Öffne die Seite von den Favoriten aus. Der HackMii Installer wird anschließend heruntergeladen und ausgeführt. It may take some time as it is downloading the installer over the Internet.
+3. Öffne die Seite von den Favoriten aus. Der HackMii Installer wird anschließend heruntergeladen und ausgeführt. Dies kann einige Zeit dauern, da der Installer über das Internet heruntergeladen wird.
 
 Falls der HackMii Installer nicht ausgeführt wird und stattdessen einfriert (der Zeiger lässt sich nicht mehr bewegen), starte deine Wii neu und wiederhole Schritt 3, bis es funktioniert. Dies kann mehrere Versuche benötigen, bleib geduldig!
 
-If you still can't get it to load, try deleting your cookies or save data for the Internet Channel.
+Falls du ihn immer noch nicht zum Laden bekommst, versuche deine Cookies oder die Speicherdaten des Internet-Kanals zu löschen.
 
 [Fahre nun fort mit der Homebrew-Kanal und BootMii-Installation](hbc)
 {: .notice--info}

@@ -4,7 +4,7 @@ title: "WiiLink24"
 
 {% include toc title="目次" %}
 
-WiiLink24とそのすべてのサービス（Wiiの間とか）は、RiiConnect24によって制御または運用されていない。 このチュートリアルやサービスのサポートをもらうために、[WiiLink24のDiscordサーバー](https://discord.gg/n4ta3w6)に入ってください。
+WiiLink24 and all of its services (such as Wii no Ma) are not controlled or operated by RiiConnect24.
 {: .notice--warning}
 
 [WiiLink24](https://wiilink24.com/)は日本限定のWiiの間チャネルを使えるようにしている。 そして、将来にデジカメプリントチャネル、出前チャンネルがもう一度使えるようにする。
