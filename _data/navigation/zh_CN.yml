@@ -7,6 +7,9 @@ main:
     title: 从这里开始
     url: get-started
   - 
+    title: 网站导览
+    url: site-navigation
+  - 
     title: FAQ
     url: faq
   - 
