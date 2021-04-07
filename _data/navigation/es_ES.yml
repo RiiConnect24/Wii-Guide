@@ -7,6 +7,9 @@ main:
     title: Comenzar aquí
     url: comenzar
   - 
+    title: Navegación de la pagina
+    url: navegacion-de-la-pagina
+  - 
     title: Preguntas frecuentes
     url: preguntas-frecuentes
   - 
