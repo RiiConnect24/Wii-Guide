@@ -7,11 +7,14 @@ main:
     title: Comincia qui
     url: get-started
   - 
-    title: FAQ
+    title: Navigazione del sito
+    url: navigazione del sito
+  - 
+    title: Faq
     url: faq
   - 
     title: RiiConnect24
-    url: riiconnect24
+    url: riiConnect24
   - 
     title: Wiimmfi
     url: wiimmfi
