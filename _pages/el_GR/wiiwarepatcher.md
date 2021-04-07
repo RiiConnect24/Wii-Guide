@@ -14,35 +14,20 @@ title: "WiiWare Patcher"
 #### Τι χρειάζεστε
 
 * Έναν υπολογιστή με Windows
+* [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases)
 
-#### Κατέβασμα
+##### Section I - Downloading WiiWare Patcher
 
-[Εάν θέλετε να κατεβάσετε το WiiWare Patcher χωρίς την μέθοδο cmd.exe, κάντε κλικ εδώ!](https://github.com/RiiConnect24/auto-wiiware-patcher/releases)
-{: .notice--info}
+1. Click the link above to go to the GitHub page where the patcher is.
+2. Download `WiiWarePatcher.bat`.
 
-Εάν είστε στα Windows 7 ή νεότερα ανοίξτε το cmd.exe (Εκτέλεση ή πατήστε το εικονίδιο Windows μαζί με το R και γράψτε μέσα cmd.exe) και τρέξτε την εντολή
-```powershell
-powershell -command "(new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/KcrPL/KcrPL.github.io/master/Patchers_Auto_Update/WiiWare-Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat`
-```
-{: .notice--info}
+##### Section II - Patching WiiWare games
 
-Περιμένετε μερικά δευτερόλεπτα επειδή πρέπει να ανοίξει το Powershell. Μετά από μερικά δευτερόλεπτα ένα νέο παράθυρο πρέπει να ανοίξει. ![Πρόγραμμα εγκατάστασης Net](/images/WiiWare-Patcher/netinstall.jpg)
+1. On Windows, run `WiiWarePatcher.bat`. ![WiiWare Patcher Main Menu](/images/WiiWare-Patcher/1.JPG)
+2. Press any key to start the patcher.
+3. Select if you want to patch your games or if you want to download and patch `Wii Speak Channel`. ![Select patching mode](/images/WiiWare-Patcher/2.JPG)
+4. If you're patching your own games, copy them (.WAD files) to the folder where `WiiWarePatcher.bat` is, press `1` and hit ENTER.
+5. The patching process will start. Be patient. ![Patching...](/images/WiiWare-Patcher/3.JPG)
+6. It's done! Patched WAD's are in the `wiimmfi-wads` folder. Install them using Wii Mod Lite or other WAD Manager.
 
-Μόλις σταματήσει το κατέβασμα ένας φάκελος ονόματι `WiiWare-Patcher` θα πρέπει να εμφανιστεί στην Επιφάνεια Εργασίας σας. Ανοίξτε τον και ανοίξτε ένα φάκελο ονόματι `patcher.bat`
-
-![Αρχικό μενού](/images/WiiWare-Patcher/wiiwarepatcher_mainscreen.jpg) (Αρχικό μενού του WiiWare Patcher)
-
-Πατήστε οποιοδήποτε κουμπί. Εάν η υπάρχει διαθέσιμη ενημέρωση, πρέπει να ενημερώσετε το WiiWare Patcher για να συνεχίσετε.
-> Η διαδικασία της ενημέρωσης θα πάρει περίπου 10 με 15 δευτερόλεπτα.
-
-Μετά από αυτό, θα πρέπει να δείτε αυτό. ![WiiWare Patcher 1η οθόνη](/images/WiiWare-Patcher/wiiwarepatcher_1.jpg)
-
-Παρακαλώ αντιγράψτε τα αρχεία WADs στον φάκελο όπου βρίσκετε το WiiWare Patcher. ![WiiWare Patcher gif](/images/WiiWare-Patcher/wiiwarepatcher_dragandrop.gif)
-
-Εάν το κάνετε σωστά, θα ξεκινήσει η διαδικασία τροποποίησης. ![WiiWare Patcher 2η οθόνη](/images/WiiWare-Patcher/wiiwarepatcher_2.jpg) ![WiiWare Patcher 3η οθόνη](/images/WiiWare-Patcher/wiiwarepatcher_3.jpg)
-
-Μετά την διαδικασία τροποποίησης, πατήστε οποιοδήποτε κουμπί.
-
-Τελικά, αυτό ήταν όλο! Αυτά είναι που πρέπει να κάνετε για να χρησιμοποιείσετε το WiiWare Patcher. ![WiiWare Patcher 4η οθόνη](/images/WiiWare-Patcher/wiiwarepatcher_4.jpg)
-
-[Επιστροφή στη σελίδα εγκατάστασης Wiimmfi](wiimmfi)
+[Return to Wiimmfi installation page](wiimmfi)
