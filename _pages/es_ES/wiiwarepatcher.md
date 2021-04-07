@@ -14,35 +14,20 @@ Esta guía es sólo para la versión de Windows de WiiWare Patcher.
 #### Requisitos
 
 * Una computadora con Windows
+* [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases)
 
-#### Descargando
+##### Section I - Downloading WiiWare Patcher
 
-[Si deseas descargar WiiWare Patcher sin usar CMD, ¡haz clic aquí!.](https://github.com/RiiConnect24/auto-wiiware-patcher/releases)
-{: .notice--info}
+1. Click the link above to go to the GitHub page where the patcher is.
+2. Download `WiiWarePatcher.bat`.
 
-Si estás en Windows 7 o reciente, abrir cmd.exe (Ejecute o presione el logotipo de Windows + R y escribe cmd.exe) y ejecute el comando
-```powershell
-powershell -command "(new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/KcrPL/KcrPL.github.io/master/Patchers_Auto_Update/WiiWare-Patcher/net_install.bat', 'net_install.bat')" & start net_install.bat`
-```
-{: .notice--info}
+##### Section II - Patching WiiWare games
 
-Espera unos instantes para que Powershell pueda iniciarse. Después de unos segundos, se abrirá una nueva ventana. ![Network Installer](/images/WiiWare-Patcher/netinstall.jpg)
+1. On Windows, run `WiiWarePatcher.bat`. ![WiiWare Patcher Main Menu](/images/WiiWare-Patcher/1.JPG)
+2. Press any key to start the patcher.
+3. Select if you want to patch your games or if you want to download and patch `Wii Speak Channel`. ![Select patching mode](/images/WiiWare-Patcher/2.JPG)
+4. If you're patching your own games, copy them (.WAD files) to the folder where `WiiWarePatcher.bat` is, press `1` and hit ENTER.
+5. The patching process will start. Be patient. ![Patching...](/images/WiiWare-Patcher/3.JPG)
+6. It's done! Patched WAD's are in the `wiimmfi-wads` folder. Install them using Wii Mod Lite or other WAD Manager.
 
-Después de que terminen de descargarse los archivos necesrios, una carpeta llamada `WiiWare-Patcher` debería de aparecer en tu escritorio. Abre dicha carpeta y después ejecuta el archivo `patcher.bat`
-
-![Menú principal](/images/WiiWare-Patcher/wiiwarepatcher_mainscreen.jpg) (Menú principal de WiiWare Patcher)
-
-Oprime cualquier tecla para comenzar. Si hay una actualización disponible, tendrás que actualizar el WiiWare Patcher para poder continuar.
-> El proceso de actualización suele tardar de 10 a 15 segundos.
-
-Después de esa pantalla, debería de aparecer lo siguiente.![Pantalla inicial](/images/WiiWare-Patcher/wiiwarepatcher_1.jpg)
-
-Copia tus archivos WAD a la carpeta donde está el WiiWare Patcher.![Copia tus WADs](/images/WiiWare-Patcher/wiiwarepatcher_dragandrop.gif)
-
-Si lo haces correctamente, el WAD se comenzará a parchear.![Comenzando a parchear un WAD](/images/WiiWare-Patcher/wiiwarepatcher_2.jpg) ![Parcheando un WAD](/images/WiiWare-Patcher/wiiwarepatcher_3.jpg)
-
-Cuando el proceso haya terminado, oprime cualquier tecla
-
-¡Básicamente, eso es todo! Esto es todo lo que tienes que hacer para usar el WiiWare Patcher. ![Proceso finalizado](/images/WiiWare-Patcher/wiiwarepatcher_4.jpg)
-
-[Volver a la guía de Wiimmfi](wiimmfi)
+[Return to Wiimmfi installation page](wiimmfi)
