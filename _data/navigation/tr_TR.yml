@@ -4,8 +4,8 @@ main:
     title: Wii rehberi
     url: /
   - 
-    title: Start Here
-    url: get-started
+    title: Buradan başlayın
+    url: baslarken
   - 
     title: Site Haritası
     url: site-haritasi
@@ -17,7 +17,7 @@ main:
     url: riiConnect24
   - 
     title: Wiimmfi
-    url: "yarak\n"
+    url: wiimmfi
 bottom:
   - 
     title: İngilizce destek için, yardım isteyin <a href="https://discord.gg/b4Y7jfD">RiiConnect24 Discord'da </a>.
@@ -45,11 +45,11 @@ sidebar_pages:
     title: Bağışlar
     url: bağışlar
   - 
-    title: Credits
+    title: Emeği geçenler
     url: credits
   - 
     title: RiiConnect24
     url: riiConnect24
   - 
     title: Wiimmfi
-    url: "yarak\n"
+    url: wiimmfi
