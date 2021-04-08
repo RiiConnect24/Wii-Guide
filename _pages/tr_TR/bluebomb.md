@@ -1,10 +1,10 @@
 ---
-title: "bosna hersek#"
+title: "Mavi Bomba"
 ---
 
 {% include toc title="Table of Contents" %}
 
-allah belanisi versin
+Eğer bu öğretici ile alakalı herhangi bir sorunuz varsa, lütfen [ Wii Mini Hacking Discord serverımıza](https://discord.gg/6ryxnkS) katılın (önerilir)
 {: .notice--info}
 
 ![orusbular
