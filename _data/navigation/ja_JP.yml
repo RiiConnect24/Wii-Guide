@@ -7,6 +7,9 @@ main:
     title: 始める
     url: get-started
   - 
+    title: Site Navigation
+    url: site-navigation
+  - 
     title: FAQ
     url: faq
   - 

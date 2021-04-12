@@ -12,7 +12,7 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 Tarvitset **SD-kortin** luodaksesi NAND-varmuuskopion BootMiin avulla. Jos sinulla ei ole sellaista, voit ohittaa tämän sivun, vaikka onkin erittäin suositeltavaa luoda varmuuskopio, jos pystyt.
 {: .notice--warning}
 
-BootMii as boot2 is recommended, but only available to install on early Wiis. Otherwise, it can be installed as an IOS.
+BootMii as boot2 is recommended, but only available to install on early Wiis. Muussa tapauksessa se voidaan asentaa IOS:na.
 {: .notice--info}
 
 One of BootMii's most important features is the ability to backup and restore your Wii's NAND storage. We will be going over how to perform a NAND backup. You can then restore from that backup for whatever reason. It's a good idea to make a NAND backup regularly or before doing something risky to your console (and if you know what you're doing, you won't have to do anything risky).
@@ -34,7 +34,7 @@ One of BootMii's most important features is the ability to backup and restore yo
 3. Select the Options button (the one with the gears).
 4. Valitse BackupMii-nappi (vihreän nuolen kuvalla).
 - NAND-varmuuskopiointi alkaa. Voit seurata edistymistä näytöltä.
-- "Bad Blockit" ovat tavallisia. Don't worry when you see some on a NAND backup.
+- "Bad Blockit" ovat tavallisia. Älä huoli nähdessäsi muutamia NAND-varmuuskopiossa.
 - Tämän vaiheen jälkeen se tarkistaa varmuuskopion. Vaikka se on suositeltavaa, sen voi ohittaa painamalla Wiin EJECT-nappia.
 5. Kun varmuuskopio on täysin valmis, poistu NAND-varmuuskopionäytöltä painamalla mitä tahansa nappia.
 6. To exit BootMii, press the Back button (the one with the arrow) and then you can press either the Wii Menu button or the Homebrew Channel button to exit where you want to.

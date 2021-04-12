@@ -36,7 +36,7 @@ If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you d
 {: .notice--warning}
 
 ### Homebrew (Disc)-Anwendung
-MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
+MrBean35000vr (Ersteller von CTGP-R, einem Mario Kart Wii Content Pack) hat einen Wiimmfi Disc Patcher erstellt, welcher es dir ermöglicht, eine Disc "on-the-fly" für Wiimmfi zu patchen. Er muss allerdings jedes mal ausgeführt werden, wenn du eine Disc startest.
 
 #### Voraussetzungen
 * Eine SD-Karte oder ein USB-Laufwerk

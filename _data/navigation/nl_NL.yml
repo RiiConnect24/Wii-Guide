@@ -7,10 +7,13 @@ main:
     title: Begin Hier
     url: get-started
   - 
+    title: Site Navigation
+    url: site-navigation
+  - 
     title: FAQ
     url: faq
   - 
-    title: Riiconnect24
+    title: RiiConnect24
     url: riiconnect24
   - 
     title: Wiimmfi

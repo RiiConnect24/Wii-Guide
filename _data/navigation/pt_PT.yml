@@ -7,6 +7,9 @@ main:
     title: Começa aqui
     url: get-started
   - 
+    title: Navegação do Site
+    url: site-navigation
+  - 
     title: FAQ
     url: faq
   - 

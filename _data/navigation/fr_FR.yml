@@ -7,6 +7,9 @@ main:
     title: Commencer Ici
     url: Commencer
   - 
+    title: Navigation du Site
+    url: site-navigation
+  - 
     title: FAQ
     url: faq
   - 

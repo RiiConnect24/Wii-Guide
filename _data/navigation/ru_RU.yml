@@ -7,8 +7,11 @@ main:
     title: Начать здесь
     url: начать
   - 
-    title: FAQ
-    url: faq
+    title: Навигация по сайту
+    url: навигация по сайту
+  - 
+    title: Вопросы и Ответы
+    url: вопросы и ответы
   - 
     title: RiiConnect24
     url: riiconnect24
