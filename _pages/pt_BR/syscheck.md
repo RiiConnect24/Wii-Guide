@@ -4,7 +4,7 @@ title: "SysCheck"
 
 {% include toc title="Sumário" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 A SysCheck lists all the IOS and cIOS that are on your Wii, along with some information about each of them. It also gives you some other useful information. When you have IOS-related problems on your Wii, someone might ask you to do a SysCheck.
