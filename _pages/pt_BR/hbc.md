@@ -22,18 +22,18 @@ O Homebrew Channel é onde você irá abrir aplicativos homebrew. O BootMii é u
 4. Aperte Continue quando terminar. ![Homebrew Channel Instalado com Sucesso](/images/Wii/SuccessHBC.png)
 
 5. Depois de instalado, pressione o botão voltar e vá para o BootMii.
-6. If the main screen says you can install BootMii as boot2, do so. This offers the best possible brick protection you can have. Skip this step if you cannot install BootMii as boot2.
-7. Install BootMii as IOS, even if you already installed BootMii boot2 in the previous step. If you couldn't install BootMii as boot2 in the previous step, this will still allow you to create a NAND backup.
+6. Se a tela principal indicar que você pode instalar como boot2, então instale-o. Isto oferece a melhor proteção de brick possível que você pode ter. Ignore este passo se você não puder instalar o BootMii como boot2.
+7. Instale o BootMii como IOS, mesmo se você já instalou o BootMii boot2 na etapa anterior. Se você não pôde instalar o BootMii como boot2 na etapa anterior, isso ainda permitirá que você crie um backup da NAND.
 
-If you do not have an SD card, you cannot install or use BootMii, and therefore will not be able utilize any of the mentioned benefits. You can always install it at a later date.
+Se você não tem um cartão SD, você não pode instalar ou usar o BootMii, e, por consequência, não poderá utilizar nenhum dos benefícios referidos. Você pode instalar em qualquer momento posteriormente.
 {: .notice--warning}
 
-![BootMii Installation](/images/Wii/InstallBootMii.png)
+![Instalação do BootMii](/images/Wii/InstallBootMii.png)
 
-8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
+8. Uma vez feito, selecione `Continuar`e depois selecione `Sair` para ir ao Homebrew Channel
 
-[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
+[Continue para fazer Backup da NAND utilizando o BootMii](bootmii)<br> Neste momento, é recomendável fazer um backup do armazenamento NAND com o BootMii.
 {: .notice--info}
 
-If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
+Se você não conseguiu instalar o BootMii, continue [instalando o Priiloader](priiloader).
 {: .notice--info}
