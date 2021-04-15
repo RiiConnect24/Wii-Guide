@@ -4,18 +4,18 @@ title: "{% include toc title=\"Table of Contents\" %}\nSe você precisar de ajud
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![Logo BootMii](/images/bootmii.png)
 
-Você irá precisar de um **cartão SD** para criar o backup da NAND usando BootMii. Se você não possui um, você pode passar desta página, porém é muito recomendado que você crie um se puder.
+Você irá precisar de um **cartão SD** para criar o backup da NAND utilizando o BootMii. Se você não possui um, você pode passar desta página, porém é muito recomendado que você crie um se puder.
 {: .notice--warning}
 
-BootMii as boot2 is recommended, but only available to install on early Wiis. Otherwise, it can be installed as an IOS.
+BootMii como boot2 é recomendado, mas apenas disponível para instalação em Wiis antigos. Caso contrário, ele pode ser instalado como um IOS.
 {: .notice--info}
 
-One of BootMii's most important features is the ability to backup and restore your Wii's NAND storage. We will be going over how to perform a NAND backup. You can then restore from that backup for whatever reason. It's a good idea to make a NAND backup regularly or before doing something risky to your console (and if you know what you're doing, you won't have to do anything risky).
+Um dos recursos mais importantes do BootMii é a habilidade de backup e restaurar a memória NAND do seu Wii. Nós iremos te mostrar como fazer o backup da NAND. Você poderá então restaurar sobre aquele backup por quaisquer razões. É uma boa ideia que faça um backup da NAND regularmente ou antes de fazer algo arriscado no seu console (e se você sabe o que está fazendo, você não precisa fazer nada arriscado).
 
 #### Requisitos
 * Um cartão SD com pelo menos 512MB de espaço livre
@@ -24,20 +24,20 @@ One of BootMii's most important features is the ability to backup and restore yo
 1. Inicie o Homebrew Channel.
 2. Aperte o botão HOME e selecione "Launch BootMii".
 
-    Navigating BootMii is not possible using a Wii Remote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. To navigate between options, press POWER on your Wii (or right on the +Control Pad on a GameCube controller). To select an option, hit RESET on your Wii or A on your GameCube controller.
+    Não é possível navegar no BootMii utilizando o Wii Remote. Você deve utilizar os botões POWER e RESET do seu console, ou um controle de Gamecube conectado na porta 1. Para navegar entre as opções, pressione POWER no seu Wii (ou direita no D-Pad em um controle de Gamecube). Para selecionar uma opção, aperte RESET no seu Wii ou A no seu controle de Gamecube.
     {: .notice--info}
 
 
-    If the screen stays black and the blue disc drive light is blinking, you are missing the BootMii files on your SD card. Download [this zip](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
+    Se a tela ficar preta e a luz azul do disco estiver piscando, quer dizer que está faltando os arquivos BootMii no seu SD card. Baixe [este zip](https://static.hackmii.com/bootmii_sd_files.zip) e extraia-o para a raiz do seu cartão SD e tente novamente.
     {: .notice--warning}
 
 3. Selecione o botão de Opções (aquele com as engrenagens).
 4. Selecione o botão de BackupMii (aquele com uma seta verde).
 - Um backup da NAND será iniciado. Você pode acompanhar o progresso na tela.
-- "Bad Blocks" são normais. Don't worry when you see some on a NAND backup.
-- Depois deste passo, o backup irá ser verificado. Embora seja recomendado, pode ser pulado pressionando o botão EJECT no seu Wii.
-5. Quando o backup for finalizado, saia da tela de backup da NAND pressionando qualquer botão.
-6. Para sair do BootMii, pressione o botão voltar (aquele com a seta) e, em seguida, você pode pressionar o botão de Menu do Wii ou o Homebrew Channel para sair por onde deseja.
+- "Bad Blocks" são normais. Não se preocupe quando você ver um em uma backup da NAND.
+- Depois desta etapa, o backup irá ser verificado. Embora seja recomendado, você pode pular pressionando o botão EJECT no seu Wii.
+5. Quando o backup for totalmente finalizado, saia da tela de backup da NAND pressionando qualquer botão.
+6. Para sair do BootMii, pressione o botão voltar (aquele com a seta) e em seguida você pode pressionar o botão de Menu do Wii ou o Homebrew Channel para sair para onde deseja.
 
 
 <!---
@@ -45,5 +45,5 @@ To restore from a NAND backup on your SD card, you can follow these instructions
 {: .notice--info}
 -->
 
-[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
+[Continue para a instalação do Priiloader](priiloader) Priiloader adiciona um nível de proteção do brick, e nós recomendamos ele, especialmente se você apenas poder instalar o IOS BootMii.
 {: .notice--info}
