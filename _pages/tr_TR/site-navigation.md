@@ -22,14 +22,14 @@ sitemap: false
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [WiiLink24](wiilink24)
-+ [Wiimmfi](yarak)
++ [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Deleting VFFs](deleting-vffs)
 + [Fixing FORE000006](riiconnect24-batteryfix)
 + [Fixing NEWS000006](news000006)
 
 **Modding 101**
-+ [bosna hersek# ](bluebomb)
++ [Mavi Bomba](bluebomb)
 * [BootMii Backup](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
