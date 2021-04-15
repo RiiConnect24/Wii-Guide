@@ -10,22 +10,22 @@ Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [
 Todos os exploits podem executar o instalador HackMii, e ter o mesmo resultado final.
 {: .notice--info}
 
-Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
+Embora você possa seguir este guia sem um cartão SD, você não será capaz de criar ou restaurar um backup da NAND usando BootMii, e você não poderá usar algum homebrew.
 {: .notice--info}
 
-This guide is for the original Wii and Wii mini only (including the Wii Family Edition), with the latest firmware (4.3). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
+Este guia é apenas para o Wii original e Wii mini (incluindo a Edição Wii Família), com o firmware mais recente (4.3). Não tente fazer isso em um Wii U (vWii)! Se você quer instalar homebrew em um vWii, [siga esse guia](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### Escolha um exploit
 
-These exploits are sorted by easiest to hardest difficulty of use.
+Esses exploits são ordenadas pela dificuldade mais fácil de usar.
 
-- [str2hax](str2hax) - Exploit that uses the Wii EULA
-    * (Requires an Internet connection and changing the DNS server)
-- [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board
-    * (Requires an SD card)
-- [FlashHax](flashhax) - Exploit that uses the Internet Channel
-    * (Requires the Internet Channel installed, and an Internet connection)
-- [BlueBomb](bluebomb) - Exploit that uses Bluetooth
-    * Requires a computer with Bluetooth and GNU/Linux, as well as a USB storage device
+- [str2hax](str2hax) - Explorar que usa a EULA do Wii
+    * (Requer uma conexão com a Internet e alteração do servidor DNS)
+- [LetterBomb](letterbomb) - Exploit que usa o Wii Message Board (Requer cartão Sd
+    * (Requer um cartão SD)
+- [FlashHax](flashhax) - Exploit que usa o Canal da Internet
+    * (Requer o Canal de Internet instalado, e uma conexão de Internet)
+- [BlueBomb](bluebomb) - Exploit que utiliza o Bluetooth
+    * Requer um computador com Bluetooth e GNU/Linux, além de um dispositivo USB
     * Esse é o único exploit que funciona no **Wii mini**
