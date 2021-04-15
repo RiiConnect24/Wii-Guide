@@ -29,6 +29,6 @@ Este tutorial explica como fazer backup de WADs instaladas na memória do sistem
 4. Selecione `Backup to WAD`.
 5. Quando aparecer `Fakesign the ticket`, selecione `Yes`.
 6. Quando aparecer `Fakesign the TMD`, selecione `No`.
-7. At the prompt to `Change the output WAD region`, choose `No`.
+7. Quando aparecer `Change the output WAD region`, aperte o botão B.
 
 Você acabou de extrair o arquivo WAD. Ele deve agora aparecer no seu cartão SD. ![Concluído](/images/DumpWADS/5.png)
