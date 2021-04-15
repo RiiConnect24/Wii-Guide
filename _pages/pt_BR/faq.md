@@ -8,12 +8,12 @@ title: "FAQ"
 Bricks (um estado em que algumas partes do software do Wii, ou o Wii todo param de funcionar) são agora *basicamente* impossíveis, a não ser que você ignore todas as verificações de segurança.
 
 ### Onde devo procurar suporte?
-Either email us at support@riiconnect24.net or join the [RiiConnect24 Discord Server](https://discord.gg/rc24).
+Envie um email para nós em support@riiconnect24.net ou entre no [Discord do RiiConnect24](https://discord.gg/rc24).
 
 ### Quais são os requisitos e/ou recomendações de cartão SD?
 Você precisará de um cartão SD com pelo menos 128MB para executar um exploit.
 
-- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card
+- Se estiver usando os exploits BlueBomb, str2hax, ou FlashHax você não precisa de um cartão SD
 
 Para armazenar aplicativos homebrew, recomendamos que o cartão SD tenha pelo menos 2 GB.
 
