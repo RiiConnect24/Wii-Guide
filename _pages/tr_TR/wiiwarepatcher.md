@@ -30,4 +30,4 @@ This tutorial is only for Windows version of WiiWare Patcher.
 5. The patching process will start. Be patient. ![Patching...](/images/WiiWare-Patcher/3.JPG)
 6. It's done! Patched WAD's are in the `wiimmfi-wads` folder. Install them using Wii Mod Lite or other WAD Manager.
 
-[Return to Wiimmfi installation page](yarak)
+[Return to Wiimmfi installation page](wiimmfi)
