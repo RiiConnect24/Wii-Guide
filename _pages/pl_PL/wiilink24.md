@@ -4,7 +4,7 @@ title: "WiiLink24"
 
 {% include toc title="Zawartość" %}
 
-WiiLink24 and all of its services (such as Wii no Ma) are not controlled or operated by RiiConnect24.
+WiiLink24 i wszystkie jego usługi (takie jak Wii no Ma) nie są kontrolowane ani obsługiwane przez RiiConnect24.
 {: .notice--warning}
 
 [WiiLink24](https://wiilink24.com/) pozwala na skorzystanie z ekskluzywnych kanałów dla Japonii takich jak np. Wii no Ma Channel. W przyszłości będzie również oferował skorzystanie z Digicam Print Channel oraz Demae Channel.
