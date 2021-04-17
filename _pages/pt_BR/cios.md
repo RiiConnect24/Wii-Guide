@@ -60,7 +60,7 @@ Selecione cIOS version: 65535
 {% capture bruh %}
 Embora a maioria dos jogos deva funcionar de imediato com os padrões, alguns podem exigir o uso de um cIOS específico para funcionar ou para utilizar certos recursos dentro do jogo.<br> Os exemplos incluem:
 * Usando um teclado em Animal Crossing: City Folk.
-* Running SpongeBob's Boating Bash.
+* Rodar SpongeBob's Boating Bash.
 
 Uma lista mais completa (embora ainda incompleta) pode ser encontrada [**aqui**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> Para alterar o cIOS usado para um jogo específico, siga estas instruções:
 {% endcapture %}
