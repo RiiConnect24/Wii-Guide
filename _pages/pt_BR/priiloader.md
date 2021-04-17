@@ -7,27 +7,27 @@ title: "Priiloader"
 Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Priiloader adds a level of brick protection to your Wii. It loads before the Wii Menu does (hence the name). The tool can also enable hacks for your Wii Menu, and be used to quickly launch the Homebrew Channel, BootMii, or whatever homebrew you want!
+O Priiloader adiciona um nível de proteção contra brick ao seu Wii. Ele carrega antes que o Menu do Wii (daí o nome). A ferramenta também pode habilitar hacks para seu Menu Wii e pode ser usada para iniciar rapidamente o Homebrew Channel, BootMii ou qualquer homebrew que você quiser!
 
 ![Priiloader](/images/priiloader.jpg)
 
-Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your vWii by doing this.
+**Não** instale o Priiloader em um vWii (Modo Wii no Wii U). Você vai dar um brick no seu vWii fazendo isso.
 {: .notice--warning}
 
 #### Você precisará de
 * Um cartão SD ou pendrive
-* [Priiloader installer](assets/files/Priiloader_v0_9_1.zip)
+* [Instalador Priiloader](assets/files/Priiloader_v0_9_1.zip)
 
 #### Instruções
 ##### Parte I - Baixar/Instalar
 
-1. Download the Priiloader installer and extract it to the `apps` folder on your SD card or USB drive.
-    * If this folder does not exist, create it.
+1. Baixe o instalador Priiloader e extraia-o para a pasta `apps` do seu cartão SD ou na unidade USB.
+    * Se a pasta não existir, crie-a.
 
-##### Section II - Installing Priiloader
+##### Seção II - Instalando o Priiloader
 
-1. Launch the Homebrew Channel on your Wii.
-2. Launch the Priiloader installer.
+1. Inicie o Homebrew Channel no Wii.
+2. Inicie o instalador Priiloader.
 3. Press the + Button on Wii Remote or the A Button on a GameCube controller. ![Install Priiloader](/images/Priiloader/installer.png) ![Installing](/images/Priiloader/installing.png)
 
 ##### Section III - Entering/Configuring Priiloader
