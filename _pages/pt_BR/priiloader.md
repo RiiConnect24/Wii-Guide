@@ -7,41 +7,41 @@ title: "Priiloader"
 Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Priiloader adds a level of brick protection to your Wii. It loads before the Wii Menu does (hence the name). The tool can also enable hacks for your Wii Menu, and be used to quickly launch the Homebrew Channel, BootMii, or whatever homebrew you want!
+O Priiloader adiciona um nível de proteção contra brick ao seu Wii. Ele carrega antes que o Menu do Wii (daí o nome). A ferramenta também pode habilitar hacks para seu Menu Wii e pode ser usada para iniciar rapidamente o Homebrew Channel, BootMii ou qualquer homebrew que você quiser!
 
 ![Priiloader](/images/priiloader.jpg)
 
-Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your vWii by doing this.
+**Não** instale o Priiloader em um vWii (Modo Wii no Wii U). Você vai dar um brick no seu vWii fazendo isso.
 {: .notice--warning}
 
 #### Você precisará de
 * Um cartão SD ou pendrive
-* [Priiloader installer](assets/files/Priiloader_v0_9_1.zip)
+* [Instalador Priiloader](assets/files/Priiloader_v0_9_1.zip)
 
 #### Instruções
 ##### Parte I - Baixar/Instalar
 
-1. Download the Priiloader installer and extract it to the `apps` folder on your SD card or USB drive.
-    * If this folder does not exist, create it.
+1. Baixe o instalador Priiloader e extraia-o para a pasta `apps` do seu cartão SD ou na unidade USB.
+    * Se a pasta não existir, crie-a.
 
-##### Section II - Installing Priiloader
+##### Seção II - Instalando o Priiloader
 
-1. Launch the Homebrew Channel on your Wii.
-2. Launch the Priiloader installer.
-3. Press the + Button on Wii Remote or the A Button on a GameCube controller. ![Install Priiloader](/images/Priiloader/installer.png) ![Installing](/images/Priiloader/installing.png)
+1. Inicie o Homebrew Channel no Wii.
+2. Inicie o instalador Priiloader.
+3. Pressione o botão + no Controle Wii ou o botão A em um controle de GameCube. ![Instalando o Priiloader](/images/Priiloader/installer.png) ![Instalando](/images/Priiloader/installing.png)
 
-##### Section III - Entering/Configuring Priiloader
+##### Seção III - Entrando/Configurando o Priiloader
 
-1. Hold the RESET button while turning on your Wii.
-    * If you are using a Wii mini, plug in a USB keyboard and hold Escape on it while turning it on.
+1. Segure o botão RESET enquanto liga o seu Wii.
+    * Se você estiver usando um Wii mini, conecte um teclado USB e segure Escape nele enquanto ligá-lo.
 
-![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
+![Ligar](/images/Priiloader/on.jpg) ![Segurar RESET](/images/Priiloader/reset.jpg)
 
-2. You should see the Priiloader menu. ![Menu](/images/Priiloader/mainmenu.png)
-3. Go to `System Menu Hacks`.
-4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
-1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
-1. Scroll to `Homebrew Channel` and press A to launch it.
+2. Você deve ver o menu Priiloader. ![Menu](/images/Priiloader/mainmenu.png)
+3. Vá para `System Menu Hacks`.
+4. Recomendamos que você ative os seguintes hacks: `Region Free EVERYTHING`, `Block Disc Updates` e `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
+1. Ecolha para baixo até `save settings` e pressione A e depois pressione B para voltar ao menu principal do Priiloader.
+1. Selecione baixo até o `Homebrew Channel` e pressione A para iniciá-lo.
 
 ## System Menu Hacks List
 
@@ -73,11 +73,11 @@ This is a list of the hacks you can enable with Priiloader.
 | Force Disc Games to run under IOS249    | Make discs use cIOS 249 as the game's IOS. While it cannot allow playing of burned games on its own, it is needed to play burned discs. (Can give you Error 002 on a non-burned game) |
 
 
-Continue to installing cIOS<br> cIOS are used to play games with a USB Loader. It's also useful for many other homebrew apps.
+Continue instalando o cIOS<br> cIOS são usados para jogar jogos com um carregamento USB. Também é útil para muitos outros aplicativos homebrew.
 {: .notice--info}
 
-If using a Wii mini, follow [this guide](cios-mini) to install cIOS
+Se estiver usando um Wii mini, siga [este guia](cios-mini) para instalar o cIOS
 {: .notice--info}
 
-If using a normal Wii, follow [this guide](cios) to install cIOS
+Se estiver usando um Wii normal, siga [este guia](cios) para instalar o cIOS
 {: .notice--info}

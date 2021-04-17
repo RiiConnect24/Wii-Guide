@@ -4,44 +4,44 @@ title: "str2hax"
 
 {% include toc title="Table of Contents" %}
 
-Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
+Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor de Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Note that if your ISP or networking environment prevents using custom DNS servers, str2hax will not work and you should [choose another exploit to use](get-started).
+Observe que se o seu provedor de internet ou ambiente de rede impede o uso de servidores DNS personalizados, str2hax não funcionará e você deve [escolher outro exploit para usar](get-started).
 {: .notice--info}
 
-str2hax is an exploit for the Wii that is triggered by loading the Wii's End User License Agreement. It requires nothing but an Internet connection that lets you change the DNS on your Wii.
+str2hax é um exploit para o Wii que é acionado ao carregar o Contrato de Licença de Usuário Final do Wii. Isso requer nada além de uma conexão de Internet que permite alterar o DNS no seu Wii.
 
-#### Você precisará de
+#### Oque você precisa
 
-* A Wii with an Internet connection
+* Um Wii com conexão à Internet
 
 #### Instruções
 
-##### Section I - Connecting
+##### Seção I - Conectando
 
-This exploit requires you to set your DNS in order to connect to a server that contains the exploit.
+Este exploit exige que você configure seu DNS para se conectar a um servidor que contém o exploit.
 
-1. Go to `Wii Options`. ![Wii Options](/images/RiiConnect24/Internet_1.png)
-2. Go to `Wii Settings`. ![Wii Settings](/images/RiiConnect24/Internet_2.png)
-3. Go to `Page 2`, then click on `Internet`. ![Internet](/images/RiiConnect24/Internet_3.png)
-4. Go to `Connection Settings`. ![Connection Settings](/images/RiiConnect24/Internet_4.png)
-5. Select your current connection. ![Current Connection](/images/RiiConnect24/Internet_5.png)
-6. Go to `Change Settings`. ![Change Settings](/images/RiiConnect24/Internet_6.png)
-7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`. ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
-8. Type in `97.74.103.14` as the primary DNS.
-9. Type in `173.201.71.14` as the secondary DNS.
-10. Select `Confirm`, then select `Save`. ![Save DNS](/images/RiiConnect24/Internet_10.png)
-11. Select `OK` to perform a connection test. ![Connection Test](/images/RiiConnect24/Internet_11.png)
-   - If the connection test was successful, select `No` to skip the Wii System Update. ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)
-   - If it was unsuccessful, then please use [another exploit](get-started).
+1. Vá para as `Opções do Wii`. ![Opções do Wii](/images/RiiConnect24/Internet_1.png)
+2. Vá para as `Configurações do Wii`. ![Configurações do Wii](/images/RiiConnect24/Internet_2.png)
+3. Vá para a `Página 2` e clique em `Internet`. ![Internet](/images/RiiConnect24/Internet_3.png)
+4. Vá para `Configurações de conexão`. ![Configurações de conexão](/images/RiiConnect24/Internet_4.png)
+5. Selecione sua conexão atual. ![Conexão atual](/images/RiiConnect24/Internet_5.png)
+6. Vá para `Alterar configurações`. ![Alterar Configurações](/images/RiiConnect24/Internet_6.png)
+7. Vá para `Auto-Obter DNS` (não Endereço IP), então selecione `Não`, e então `Configurações Avançadas`. ![Auto-Obter DNS](/images/RiiConnect24/Internet_7.png)
+8. Digite `97.74.103.14` como DNS primário.
+9. Digite `173.201.71.14` como o DNS secundário.
+10. Selecione `Confirmar` e selecione `Salvar`. ![Salvar DNS](/images/RiiConnect24/Internet_10.png)
+11. Selecione `OK` para executar um teste de conexão. ![Teste de conexão](/images/RiiConnect24/Internet_11.png)
+   - Se o teste de conexão foi bem-sucedido, selecione `Não` para ignorar a atualização do sistema do Wii. ![Teste de conexão bem-sucedido](/images/RiiConnect24/Internet_12.png)
+   - Se não foi bem sucedido, use [outro exploit](get-started).
 
-##### Section II - Triggering the Exploit
+##### Seção II - Executando o Exploit
 
-1. Go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`.
-2. If you see a pony on the screen on a light blue background, you have set it up correctly. Wait 1-2 minutes for the exploit to trigger (it should take about 1 minute and 25 seconds). The exploit will download the HackMii Installer so you can continue.
+1. Vá para a seção `Internet` e depois `Contratos do Usuário` ou `Acordo/Contato`, depois `Sim`.
+2. Se você ver um pônei na tela em um fundo azul claro, você o configurou corretamente. Aguarde 1-2 minutos para o exploit ativar (deve levar cerca de 1 minuto e 25 segundos). O exploit irá baixar o Instalador HackMii para poder continuar.
 
-If the HackMii Installer doesn't load and it instead freezes (you can't move your cursor) or it doesn't take 1-2 minutes to trigger, please restart your Wii and retry the exploit.
+Se o Instalador HackMii não carregar e congelar (você não pode mover o seu cursor) ou não levar 1-2 minutos para ativar, por favor reinicie seu Wii e tente novamente o exploit.
 
 [Continue para a instalação do Homebrew Channel e BootMii](hbc)
 {: .notice--info}
