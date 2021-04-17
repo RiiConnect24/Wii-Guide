@@ -28,20 +28,20 @@ O Priiloader adiciona um nível de proteção contra brick ao seu Wii. Ele carre
 
 1. Inicie o Homebrew Channel no Wii.
 2. Inicie o instalador Priiloader.
-3. Press the + Button on Wii Remote or the A Button on a GameCube controller. ![Install Priiloader](/images/Priiloader/installer.png) ![Installing](/images/Priiloader/installing.png)
+3. Pressione o botão + no Controle Wii ou o botão A em um controle de GameCube. ![Instalando o Priiloader](/images/Priiloader/installer.png) ![Instalando](/images/Priiloader/installing.png)
 
-##### Section III - Entering/Configuring Priiloader
+##### Seção III - Entrando/Configurando o Priiloader
 
-1. Hold the RESET button while turning on your Wii.
-    * If you are using a Wii mini, plug in a USB keyboard and hold Escape on it while turning it on.
+1. Segure o botão RESET enquanto liga o seu Wii.
+    * Se você estiver usando um Wii mini, conecte um teclado USB e segure Escape nele enquanto ligá-lo.
 
-![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
+![Ligar](/images/Priiloader/on.jpg) ![Segurar RESET](/images/Priiloader/reset.jpg)
 
-2. You should see the Priiloader menu. ![Menu](/images/Priiloader/mainmenu.png)
-3. Go to `System Menu Hacks`.
-4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
-1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
-1. Scroll to `Homebrew Channel` and press A to launch it.
+2. Você deve ver o menu Priiloader. ![Menu](/images/Priiloader/mainmenu.png)
+3. Vá para `System Menu Hacks`.
+4. Recomendamos que você ative os seguintes hacks: `Region Free EVERYTHING`, `Block Disc Updates` e `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
+1. Ecolha para baixo até `save settings` e pressione A e depois pressione B para voltar ao menu principal do Priiloader.
+1. Selecione baixo até o `Homebrew Channel` e pressione A para iniciá-lo.
 
 ## System Menu Hacks List
 
@@ -73,11 +73,11 @@ This is a list of the hacks you can enable with Priiloader.
 | Force Disc Games to run under IOS249    | Make discs use cIOS 249 as the game's IOS. While it cannot allow playing of burned games on its own, it is needed to play burned discs. (Can give you Error 002 on a non-burned game) |
 
 
-Continue to installing cIOS<br> cIOS are used to play games with a USB Loader. It's also useful for many other homebrew apps.
+Continue instalando o cIOS<br> cIOS são usados para jogar jogos com um carregamento USB. Também é útil para muitos outros aplicativos homebrew.
 {: .notice--info}
 
-If using a Wii mini, follow [this guide](cios-mini) to install cIOS
+Se estiver usando um Wii mini, siga [este guia](cios-mini) para instalar o cIOS
 {: .notice--info}
 
-If using a normal Wii, follow [this guide](cios) to install cIOS
+Se estiver usando um Wii normal, siga [este guia](cios) para instalar o cIOS
 {: .notice--info}
