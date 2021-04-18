@@ -7,16 +7,16 @@ Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [
 
 ![LetterBomb](/images/letterbomb.png)
 
-LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
+LetterBomb é um exploit para o Wii que é acionado usando a Wii Message Board.
 
 #### Você precisará de
-- An SD card
-- A Wii on System Menu version 4.3
+- Um cartão SD
+- Um Wii no Menu do Sistema versão 4.3
 
 #### Instruções
 
 
-1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
+1. No seu Wii, ir para as `Configurações do Wii` -> `Internet` -> `Informações do Console` e anotar o seu endereço MAC.
 1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure* `Bundle the HackMii Installer for me!` *is checked*, and cut either wire
    - Whichever wire you choose to cut doesn't matter. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
 1. Extract the contents of the downloaded ZIP to the root of your SD card.
