@@ -26,8 +26,8 @@ Ce tutoriel est seulement pour les versions Windows du patcheur WiiWare.
 1. Sur Windows, exécutez `WiiLink24Patcher.bat`. ![Menu principal de WiiWare Patcher](/images/WiiWare-Patcher/1.JPG)
 2. Appuyez sur n'importe quelle touche pour démarrer le patcher.
 3. Sélectionnez si vous voulez patcher vos jeux ou si vous voulez télécharger et patcher `Wii Speak Channel`. ![Sélectionner le mode de mise à jour](/images/WiiWare-Patcher/2.JPG)
-4. If you're patching your own games, copy them (.WAD files) to the folder where `WiiWarePatcher.bat` is, press `1` and hit ENTER.
-5. The patching process will start. Be patient. ![Mise à jour...](/images/WiiWare-Patcher/3.JPG)
-6. It's done! Patched WAD's are in the `wiimmfi-wads` folder. Install them using Wii Mod Lite or other WAD Manager.
+4. Si vous patchez vos propres jeux, copiez-les (fichiers .WAD) dans le dossier où se trouve `WiiWarePatcher.bat` , appuyez sur `1` et appuyez sur ENTRÉE.
+5. Le processus de mise à jour va commencer. Soyez patient. ![Mise à jour...](/images/WiiWare-Patcher/3.JPG)
+6. C'est terminé ! Les WAD corrigés sont dans le dossier `wiimmfi-wads`. Installez les à l'aide de Wii Mod Lite ou d'un autre gestionnaire WAD.
 
-[Return to Wiimmfi installation page](wiimmfi)
+[Retourner à la page d'installation de Wiimmfi](wiimmfi)
