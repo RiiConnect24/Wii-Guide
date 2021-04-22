@@ -16,18 +16,18 @@ Ce tutoriel est seulement pour les versions Windows du patcheur WiiWare.
 * Un ordinateur sous Windows
 * [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases)
 
-##### Section I - Downloading WiiWare Patcher
+##### Section I - Téléchargement du Patch WiiWare
 
-1. Click the link above to go to the GitHub page where the patcher is.
-2. Download `WiiWarePatcher.bat`.
+1. Cliquez sur le lien ci-dessus pour accéder à la page GitHub où se trouve le patcher.
+2. Téléchargez `WiiWarePatcher.bat`.
 
-##### Section II - Patching WiiWare games
+##### Section II - Patch des jeux WiiWare
 
-1. On Windows, run `WiiWarePatcher.bat`. ![WiiWare Patcher Main Menu](/images/WiiWare-Patcher/1.JPG)
-2. Press any key to start the patcher.
-3. Select if you want to patch your games or if you want to download and patch `Wii Speak Channel`. ![Select patching mode](/images/WiiWare-Patcher/2.JPG)
+1. Sur Windows, exécutez `WiiLink24Patcher.bat`. ![Menu principal de WiiWare Patcher](/images/WiiWare-Patcher/1.JPG)
+2. Appuyez sur n'importe quelle touche pour démarrer le patcher.
+3. Sélectionnez si vous voulez patcher vos jeux ou si vous voulez télécharger et patcher `Wii Speak Channel`. ![Sélectionner le mode de mise à jour](/images/WiiWare-Patcher/2.JPG)
 4. If you're patching your own games, copy them (.WAD files) to the folder where `WiiWarePatcher.bat` is, press `1` and hit ENTER.
-5. The patching process will start. Be patient. ![Patching...](/images/WiiWare-Patcher/3.JPG)
+5. The patching process will start. Be patient. ![Mise à jour...](/images/WiiWare-Patcher/3.JPG)
 6. It's done! Patched WAD's are in the `wiimmfi-wads` folder. Install them using Wii Mod Lite or other WAD Manager.
 
 [Return to Wiimmfi installation page](wiimmfi)
