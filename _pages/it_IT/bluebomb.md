@@ -31,7 +31,7 @@ Per la Wii originale, non è raccomandato usare BlueBomb se vuoi installare l'Ho
 #### Sezione 2 - Eseguire l'Exploit
 1. Scarica l'HackMii installer dal [sito internet di BootMii](https://bootmii.org/download/).
 - (se stai cercando di riparare un brick, dovresti copiare l'applicazione homebrew che desideri usare in /apps/)
-1. Extract it and place the `boot.elf` file in your flash drive.
+1. Estrailo e metti il file `boot.elf` nella tua chiavetta.
 1. Connetti la chiavetta alla console. Per una Wii mini, lo slot USB si trova sul retro. Per una Wii normale, usate lo slot in basso. (o quello a destra se è orizzontale).
 1. Accendi la tua console e vai sul menù delle impostazioni. Nell'angolo in alto a destra vedrai un codice di 4 caratteri come quello nell'immagine qua sotto. Questo codice è la tua versione del Menù Wii, scrivilo da qualche parte perché ci servirà dopo. Fatto questo, spegni la tua console. ![Versione del Menù di Sistema](/images/Wii/SystemMenuVersion.png)
 1. Avvia il tuo distro Linux, ed assicurati di essere connesso ad internet.
@@ -45,7 +45,7 @@ chmod +x bluebomb-helper.sh
 1. L'Helper scaricherà i file necessari, e chiederà informazioni sulla tua console.
   - Se hai selezionato una Wii mini ti verrà chiesta la tua regione. Questo può essere determinato dall'ultima lettera della versione del Menù Wii (`U`per**USA**ed`E`per modelli**PAL**).
   - Se hai selezionato una Wii ti verrà chiesto di dare la tua versione del menù Wii (Che abbiamo scoperto nello step 4)
-1. Turn on your console and **do not** connect any Wii Remotes.
+1. Spegni la tua console e **non** collegare nessun telecomandi Wii.
 1. Premi il pulsante Sync ripetutamente finché il terminale mostra`got connection handle`. Questo potrebbe richiedere numerosi tentativi, quindi non ti arrendere.
 
 Assicurati che la console sia vicina al computer che sta mandando l'exploit, idealmente dovrebbe essere a meno di un metro di distanza.
