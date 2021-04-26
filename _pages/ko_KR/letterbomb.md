@@ -9,7 +9,7 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
 
-#### What you need
+#### 필요한 것
 - An SD card
 - A Wii on System Menu version 4.3
 
