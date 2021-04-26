@@ -2,25 +2,25 @@
 title: "BlueBomb"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="목차" %}
 
-If you need help with anything regarding this tutorial, please join [the Wii mini Hacking Discord server](https://discord.gg/6ryxnkS) (recommended)
+튜토리얼에 관한 질문이 있다면, [Wii Mini 해킹 디스코드 서버](https://discord.gg/6ryxnkS) 에 가입해 주세요.(권장)
 {: .notice--info}
 
 ![BlueBomb](/images/bluebomb.png)
 
-BlueBomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Although it is the only exploit that works for the Wii mini, BlueBomb can run on the original Wii as well. This exploit also enables recovery from certain bricks, such as a banner brick.
+BlueBomb은 Wii와 Wii mini의 블루투스 라이브러리의 약점을 이용합니다. Wii mini에서 작동하는 유일한 약점이지만, BlueBomb은 Wii에서도 작동합니다. 이 약점은 배너 벽돌과 같은 일부 벽돌을 복구하기도 합니다.
 
-For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
+오리지널 Wii에서는 홈브루 채널과 BootMii를 설치하기 위해 BlueBomb를 사용하지 않는 것을 권장합니다. 대신, 훨씬 편리한 다른 약점을 이용하셔도 됩니다.
 {: .notice--info}
 
-#### Section I - What you need
-- A Linux machine
-  - If you have a Raspberry Pi, you can use that instead as it most likely has Linux installed already.
-  - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports.
-  - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
-    - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
-    - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
+#### 섹션 I - 당신이 필요한 것
+- 리눅스 기기
+  - 라즈베리 파이가 있다면, 리눅스가 이미 설치되어 있으므로 대신 사용해도 됩니다.
+  - Windows의 리눅스 하위 시스템은 블루투스 어댑터나 USB 포트의 직접적인 접근이 불가능하므로 *작동하지 않습니다.*
+  - 리눅스가 없다면, [우분투](https://ubuntu.com/download/desktop)가 가장 이용자 친화적인 선택지이며 Windows 및 Mac 컴퓨터에서 작동시킬 수 있습니다.
+    - 32비트 장치는 [우분투 16.04](http://releases.ubuntu.com/16.04/)가 필요합니다.
+    - 64비트 장치는 안정성으로 인해 LTS를 권장하지만 최신 릴리즈도 작동하긴 합니다.
   - You can [flash a Linux install to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
 - A Bluetooth adapter.
   - An internal Bluetooth adapter will work.
