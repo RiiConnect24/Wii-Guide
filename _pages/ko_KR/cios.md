@@ -4,50 +4,50 @@ title: "cIOS"
 
 {% include toc title="목차" %}
 
-This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
+이 튜토리얼은 cIOS의 설치 방법을 알려줍니다 (커스텀 IOS). USB 로더로 게임을 실행하려면 필요합니다. 몇몇 홈브루는 cIOS가 있으면 더 잘 작동할 수 있습니다.
 
-![d2x cIOS Installer](/images/cios/cIOS.png)
+![d2x cIOS 설치기](/images/cios/cIOS.png)
 
 Attempting to install any other cIOS on a Wii mini won't work. If you have a Wii mini, install [this cIOS](cios-mini) instead.
 {: .notice--info}
 
-#### What you need
+#### 필요한 것
 
-* A Wii with an Internet connection
-* An SD card or USB drive
-* [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
+* 인터넷 연결이 있는 Wii
+* SD 카드 및 USB 드라이브
+* [d2x cIOS 설치기](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
-Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
+SD 카드 사용을 확인하고, 잠금 스위치가 잠금 해제 되어 있음을 확인하세요. 만약 아니라면 설치 마법사에서 올바른 선택지를 선택할 수 없습니다.
 {: .notice--warning}
 
 #### 방법
 
-##### Section I - Downloading
+##### 섹션 I - 다운로드 하기
 
-1. Download d2x cIOS Installer and extract it to the `apps` folder on your SD card or USB drive.
-1. Insert your SD card or USB drive into your Wii, and launch d2x cIOS Installer from the Homebrew Channel.
+1. D2x cIOS 설치 마법사를 다운로드하고 SD 카드 및 USB 드라이브의 `apps` 폴더에 붙여넣으세요.
+1. SD 카드 및 USB 드라이브를 Wii에 삽입하고, d2x cIOS 설치 마법사를 홈브루 채널에서 실행하세요.
 
-##### Section II - Installing
+##### 섹션 II - 설치하기
 
-1. Press continue, then set the options to the following:
+1. Continue를 누르고, 아래의 옵션을 선택하십시오:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 57
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
-![Install cIOS 249](/images/cios/Install249.png)
-1. Once set, press A twice to install.
-1. When done installing, press A to return, and set the options to the following:
+![cIOS 249 설치하기](/images/cios/Install249.png)
+1. 준비되었다면, A를 두번 눌러 설치하세요.
+1. 설치가 완료됐다면, A를 눌러 돌아가고, 아래의 옵션을 선택하세요:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 56
 Select cIOS slot: 250
 Select cIOS version: 65535
 ```
-![Install cIOS 250](/images/cios/Install250.png)
-1. Once set, press A twice to install.
-1. When done installing, press A to return, and set the options to the following:
+![cIOS 250 설치하기](/images/cios/Install250.png)
+1. 준비되었다면, A를 두번 눌러 설치하세요.
+1. 설치가 완료됐다면, A를 눌러 돌아가고, 아래의 옵션을 선택하세요:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 38
