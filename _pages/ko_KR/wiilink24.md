@@ -9,7 +9,7 @@ WiiLink24 and all of its services (such as Wii no Ma) are not controlled or oper
 
 [WiiLink24](https://wiilink24.com/) lets you use the Japanese-exclusive Wii no Ma channel, and in the future will let you use the Digicam Print Channel and the Demae Channel again.
 
-#### What you need
+#### 필요한 것
 
 * An SD card or USB drive
 * A Wii with an Internet connection
