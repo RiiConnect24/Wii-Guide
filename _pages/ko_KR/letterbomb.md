@@ -13,7 +13,7 @@ LetterBomb is an exploit for the Wii that is triggered using the Wii Message Boa
 - An SD card
 - A Wii on System Menu version 4.3
 
-#### Instructions
+#### 방법
 
 
 1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
