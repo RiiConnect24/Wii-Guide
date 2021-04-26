@@ -2,7 +2,7 @@
 title: "BootMii Backup"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="목차" %}
 
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -18,13 +18,13 @@ BootMii as boot2 is recommended, but only available to install on early Wiis. Ot
 One of BootMii's most important features is the ability to backup and restore your Wii's NAND storage. We will be going over how to perform a NAND backup. You can then restore from that backup for whatever reason. It's a good idea to make a NAND backup regularly or before doing something risky to your console (and if you know what you're doing, you won't have to do anything risky).
 
 #### Requirements
-* An SD card with at least 512MB of free space
+* 적어도 512MB 이상의 SD 카드
 
-#### Instructions
-1. Launch the Homebrew Channel.
-2. Press the HOME Button, then select "Launch BootMii".
+#### 방법
+1. 홈브루 채널을 실행하세요.
+2. HOME 버튼을 누르고, "Launch BootMii"를 선택하세요.
 
-    Navigating BootMii is not possible using a Wii Remote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. To navigate between options, press POWER on your Wii (or right on the +Control Pad on a GameCube controller). To select an option, hit RESET on your Wii or A on your GameCube controller.
+    BootMii 탐색은 Wii 리모트로 불가능합니다. 콘솔의 POWER 및 RESET를 사용하거나, 포트 1에 꽂힌 게임큐브 컨트롤러를 사용해야 합니다. 옵션 사이를 탐색하려면, Wii의 POWER 버튼을 누르십시오 (또는 게임큐브 컨트롤러의 +컨트롤 패드). 옵션을 선택하려면, Wii의 RESET 버튼이나 게임큐브 컨트롤러의 A를 누르십시오.
     {: .notice--info}
 
 
