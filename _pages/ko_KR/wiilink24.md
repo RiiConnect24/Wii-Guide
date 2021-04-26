@@ -2,7 +2,7 @@
 title: "WiiLink24"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="목차" %}
 
 WiiLink24 and all of its services (such as Wii no Ma) are not controlled or operated by RiiConnect24.
 {: .notice--warning}
@@ -16,7 +16,7 @@ WiiLink24 and all of its services (such as Wii no Ma) are not controlled or oper
 * A Windows or Unix based computer
 * [WiiLink24 Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
-#### Instructions
+#### 방법
 
 ##### Section I - Patching Wii no Ma
 
