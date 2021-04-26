@@ -28,16 +28,16 @@ One of BootMii's most important features is the ability to backup and restore yo
     {: .notice--info}
 
 
-    If the screen stays black and the blue disc drive light is blinking, you are missing the BootMii files on your SD card. Download [this zip](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
+    화면이 검정색으로 유지되고 파랑 디스크 드라이브 전등이 깜빡인다면, SD 카드에 BootMii 파일이 없는 겁니다. [이 zip](https://static.hackmii.com/bootmii_sd_files.zip) 파일을 다운로드하고 SD 카드의 루트에 압축 해제하고 다시 시도하세요.
     {: .notice--warning}
 
-3. Select the Options button (the one with the gears).
-4. Select the BackupMii button (the one with the green arrow).
-- A NAND backup will start. You can watch the progress on the screen.
-- "Bad Blocks" are normal. Don't worry when you see some on a NAND backup.
-- After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii.
-5. When the backup is fully complete, exit the NAND backup screen by pressing any button.
-6. To exit BootMii, press the Back button (the one with the arrow) and then you can press either the Wii Menu button or the Homebrew Channel button to exit where you want to.
+3. 옵션 버튼을 선택하십시오 (톱니바퀴가 있음).
+4. BackupMii 버튼을 선택하세요 (초록 화살표가 있음).
+- NAND 백업이 시작됩니다. 화면에서 진행 상황을 확인할 수 있습니다.
+- "배드 블록"은 정상적입니다. NAND 백업 중 뭔가 발견해도 걱정하지 마십시오.
+- 이 단계 이후, 백업을 확인합니다. 권장되긴 하지만, Wii의 EJECT 버튼으로 건너뛸 수 있습니다.
+5. 백업이 완료되면, NAND 백업 화면을 아무 버튼이나 눌러서 빠져나가세요.
+6. BootMii를 나가려면, 이전 버튼(화살표가 있음)을 누르고 Wii 메뉴 버튼 또는 홈브루 채널 둘 중 하나를 눌러 원하는 곳으로 이동하세요.
 
 
 <!---
@@ -45,5 +45,5 @@ To restore from a NAND backup on your SD card, you can follow these instructions
 {: .notice--info}
 -->
 
-[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
+[Priiloader 설치 계속하기](priiloader) Priiloader는 벽돌 보호 단계를 만들고, BootMii IOS만이 설치되는 경우 저희는 이것을 권장합니다.
 {: .notice--info}
