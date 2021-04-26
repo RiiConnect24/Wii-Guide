@@ -2,7 +2,7 @@
 title: "cIOS"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="목차" %}
 
 This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
 
@@ -20,7 +20,7 @@ Attempting to install any other cIOS on a Wii mini won't work. If you have a Wii
 Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
 {: .notice--warning}
 
-#### Instructions
+#### 방법
 
 ##### Section I - Downloading
 
