@@ -24,7 +24,7 @@ Do not use any other version of ThemeMii than the one linked here, as ThemeMii M
 We recommend you [install cIOS](cios) before continuing.
 {: .notice--info}
 
-#### What you need
+#### 필요한 것
 
 * A Wii
 * An SD card or USB drive
