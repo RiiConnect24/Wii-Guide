@@ -2,7 +2,7 @@
 title: "Priiloader"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="목차" %}
 
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -18,7 +18,7 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your
 * An SD card or USB drive
 * [Priiloader installer](assets/files/Priiloader_v0_9_1.zip)
 
-#### Instructions
+#### 방법
 ##### Section I - Downloading/Installing
 
 1. Download the Priiloader installer and extract it to the `apps` folder on your SD card or USB drive.
