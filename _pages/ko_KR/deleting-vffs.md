@@ -2,7 +2,7 @@
 title: "Deleting VFFs"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="목차" %}
 
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -33,7 +33,7 @@ If you're getting one of these errors (and not any other error), you should be a
   + 4841474a
   + 48414750
 
-#### Instructions
+#### 방법
 
 1. Launch WiiXplorer.
 2. Go to `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` and then select `Yes` for both dialogues that appear on the screen.
