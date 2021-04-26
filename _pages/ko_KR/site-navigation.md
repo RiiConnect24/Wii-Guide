@@ -1,5 +1,5 @@
 ---
-title: "Site Navigation"
+title: "사이트 탐색"
 layout: single
 sitemap: false
 ---
@@ -60,7 +60,7 @@ sitemap: false
 **Site**
 + [Home](/)
 + [Get Started](get-started)
-+ [FAQ](faq)
++ [자주 묻는 질문(FAQ)](faq)
 + [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
