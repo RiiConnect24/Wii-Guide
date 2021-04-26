@@ -59,7 +59,7 @@ sitemap: false
 
 **Site**
 + [Home](/)
-+ [Get Started](get-started)
++ [시작하기](get-started)
 + [자주 묻는 질문(FAQ)](faq)
 + [Donations](donations)
 {% endcapture %}
