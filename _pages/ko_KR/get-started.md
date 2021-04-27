@@ -20,12 +20,12 @@ SD 카드 없이 이 가이드를 따라할 수 있지만, BootMii로 NAND 백�
 
 이 약점들은 난이도가 쉬움에서 어려움순으로 구성되어 있습니다.
 
-- [str2hax](str2hax) - Exploit that uses the Wii EULA
-    * (Requires an Internet connection and changing the DNS server)
-- [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board
-    * (Requires an SD card)
-- [FlashHax](flashhax) - Exploit that uses the Internet Channel
-    * (Requires the Internet Channel installed, and an Internet connection)
-- [BlueBomb](bluebomb) - Exploit that uses Bluetooth
-    * Requires a computer with Bluetooth and GNU/Linux, as well as a USB storage device
-    * This is the only exploit that works on the **Wii mini**
+- [str2hax](str2hax) - Wii 이용약관을 이용한 취약점
+    * (인터넷 연결이 필요하고 DNS 서버를 변경해야 함)
+- [LetterBomb](letterbomb) - Wii 메시지 보드를 이용한 취약점
+    * (SD 카드가 필요함)
+- [FlashHax](flashhax) - 인터넷 채널을 이용한 취약점
+    * (인터넷 채널 설치가 필요하고 인터넷 연결이 필요함)
+- [BlueBomb](bluebomb) - 블루투스를 이용한 취약점
+    * 블루투스가 있는 GNU/Linux 컴퓨터가 필요하며 USB 저장 장치도 필요함.
+    * **Wii 미니**에서 유일하게 작동하는 취약점입니다.
