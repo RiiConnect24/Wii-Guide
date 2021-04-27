@@ -7,16 +7,16 @@ title: "Priiloader"
 튜토리얼에 관한 질문이 있다면, [Wii Mini 해킹 디스코드 서버](https://discord.gg/rc24) 에 가입하거나(권장) [support@riiconnect24.net에 이메일을 보내세요](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Priiloader adds a level of brick protection to your Wii. It loads before the Wii Menu does (hence the name). The tool can also enable hacks for your Wii Menu, and be used to quickly launch the Homebrew Channel, BootMii, or whatever homebrew you want!
+Priiloader는 Wii의 벽돌 보호를 한 단계 높입니다. Wii 메뉴가 실행되기 전에 불러와집니다 (이름이 설명하는 바와 같이). 이 도구는 Wii 메뉴의 핵을 활성화 시킬 수 있으며, 홈브루 채널, BootMii, 또는 당신이 원하는 어떠한 홈브루든 실행이 가능합니다!
 
 ![Priiloader](/images/priiloader.jpg)
 
-Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your vWii by doing this.
+vWii(Wii U의 Wii 모드) 에 Priiloader를 설치하지 **마세요**. 이것을 하면, vWii는 벽돌이 됩니다.
 {: .notice--warning}
 
 #### 필요한 것
 * SD 카드 및 USB 드라이브
-* [Priiloader installer](assets/files/Priiloader_v0_9_1.zip)
+* [Priiloader 설치 마법사](assets/files/Priiloader_v0_9_1.zip)
 
 #### 방법
 ##### 섹션 I - 다운로드/설치하기
