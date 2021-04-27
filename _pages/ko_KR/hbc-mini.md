@@ -1,5 +1,5 @@
 ---
-title: "Homebrew Channel - for Wii mini only"
+title: "홈브루 채널 - Wii 미니 전용"
 ---
 
 {% include toc title="목차" %}
@@ -9,10 +9,10 @@ title: "Homebrew Channel - for Wii mini only"
 
 ![HBC Logo](/images/hbc.png)
 
-The Homebrew Channel is where you will go to launch homebrew applications.
+홈브루 채널은 당신이 홈브루 앱을 실행하는 곳입니다.
 
 #### 방법
-This page is **only** intended for users of the Wii mini. If you have a regular Wii, follow [this guide](hbc) instead.
+이 페이지는 **오직** Wii 미니 사용자만을 위해 제작되었습니다. Wii가 있다면, 대신 [이](hbc) 가이드를 따르세요.
 {: .notice--info}
 
 While it is possible to install BootMii on a Wii mini, you will need to solder an SD card slot. That requires opening up your Wii mini and using special tools, so it is not recommended.
