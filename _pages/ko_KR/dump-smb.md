@@ -1,30 +1,30 @@
 ---
-title: "Dumping Wii/GameCube games over local network"
+title: "Wii/게임큐브 게임 로컬 네트워크로 덤프하기"
 ---
 
 #### 필요한 것
 
-* A Wii.
-* [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
+* Wii
+* [DVD 덤프 도구](/assets/files/DVDDumpTool.zip)
 
-Your Wii and your computer must be connected to one local network
+Wii와 컴퓨터는 한 로컬 네트워크에 연결되어 있어야 합니다
 {: .notice--warning}
 
 #### 방법
 
-##### Section I - Downloading/Installing
+##### 섹션 I - 다운로드/설치하기
 
-1. Extract DVD Dump Tool and put it in the `apps` folder on your SD card or USB drive.
-1. Insert your SD card into your Wii, and launch DVD Dump Tool from the Homebrew Channel.
+1. DVD 덤프 도구를 압축 해제하고 SD 카드 및 USB 드라이브의 `apps` 폴더에 붙여넣으세요.
+1. SD 카드를 Wii에 삽입하고, DVD 덤프 도구를 홈브루 채널에서 실행하세요.
 
 ##### 섹션 II - 리핑
 
-1. Press the right button on the d-pad and press "A" ![2](/images/DumpDiscs_LAN/2.png)
-1. Choose the disc that you want to copy (The options are: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` and press "A" ![3](/images/DumpDiscs_LAN/3.png)
-1. Now put your game to your Wii. (If it's already in your Wii, eject it and put it back) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
-1. Remember your Wii URL (IP address) ![5](/images/DumpDiscs_LAN/5.png)
-1. On your computer in your web browser, type in the Wii URL and hit ENTER. ![6](/images/DumpDiscs_LAN/6.png)
-1. You should see this. Click on `Click here to download XXXX.iso` ![7](/images/DumpDiscs_LAN/7.jpg)
-1. The transfer speed is not the fastest, but if you can't use anything else, it's better than nothing.
+1. D패드에서 오른쪽 버튼을 누르고 "A"를 누르세요 ![2](/images/DumpDiscs_LAN/2.png)
+1. 복사할 디스크를 선택하세요 (옵션: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` 중 선택하고 "A"를 누르세요 ![3](/images/DumpDiscs_LAN/3.png)
+1. Wii에 게임을 삽입하세요. (Wii에 이미 있다면 빼고 다시 삽입하세요) ![게임디스크삽입](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
+1. Wii URL (IP 주소)을 기억하세요 ![5](/images/DumpDiscs_LAN/5.png)
+1. 컴퓨터의 웹 브라우저에서 Wii URL을 입력하고 Enter↵ 키를 누르세요. ![6](/images/DumpDiscs_LAN/6.png)
+1. 이 화면이 나타나면 `Click here to download XXXX.iso`를 클릭하세요. ![7](/images/DumpDiscs_LAN/7.jpg)
+1. 교환 속도는 최고 속도가 아니지만, 다른 것을 사용할 수 없다면, 없는 것보단 낫습니다.
 
 ![8](/images/DumpDiscs_LAN/8.PNG)
