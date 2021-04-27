@@ -13,7 +13,7 @@ Do you want to get RSS feed updates on your Wii Message Board? This tutorial wil
 
 #### 필요한 것
 
-* An SD card
+* SD 카드
 * [RSSMii](https://github.com/RiiConnect24/rssmii/releases)
 
 #### 방법
