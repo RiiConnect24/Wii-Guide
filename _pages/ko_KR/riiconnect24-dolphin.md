@@ -4,32 +4,32 @@ title: "RiiConnect24"
 
 {% include toc title="목차" %}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![RiiConnect24 로고](/images/WiiRC24Logo.jpg)
 
-This guide will help you install RiiConnect24 on your Dolphin installation.
+이 가이드는 RiiConnect24를 돌핀 설치에 설치하는 방법을 알려줍니다.
 
-If you need help for anything regarding this tutorial, please directly contact KcrPL#4625 on Discord, join the [RiiConnect24 Discord Server](https://discord.gg/rc24) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+튜토리얼에 관한 질문이 있다면, KcrPL#4625를 직접 연락하거나, [RiiConnect24 디스코드 서버](https://discord.gg/rc24) 에 가입하거나 [support@riiconnect24.net에 이메일을 보내세요](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ### 필요한 것
-* A computer with either Windows 7 or newer or any Unix based system
+* Windows 7 이상의 컴퓨터나 Unix 기반의 아무 시스템
 * [.VFF-File-Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
-* [Dolphin](https://dolphin-emu.org/download/)
+* [돌핀 에뮬레이터](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### 방법
 
-##### Section I - Installing Dolphin
+##### 섹션 I - 돌핀 에뮬레이터 설치하기
 
-If you have Dolphin already installed, skip to Section II
+돌핀 에뮬레이터가 이미 설치되어 있다면, 섹션 II로 건너뛰세요
 {: .notice--info}
 
-1. Download the latest Dolphin development version.
-2. Extract the .7z file using a program like 7Zip or WinRAR.
-3. Start Dolphin
-4. Press on `Tools` -> `Perform Online System Update` -> Choose your region ![Perform Online System Update](/images/Dolphin_RC24/1.jpg)
+1. 최종 돌핀 에뮬레이터 개발 버전을 다운로드하세요.
+2. .7z 파일을 알집이나 반디집과 같은 프로그램으로 압축 해제하세요.
+3. 돌핀 에뮬레이터를 시작하세요
+4. `도구` -> `온라인 시스템 업데이트 실행` -> 당신의 국가를 선택하세요 ![Perform Online System Update](/images/Dolphin_RC24/1.jpg)
 
-##### Section II - Installing RiiConnect24.
+##### 섹션 II - RiiConnect24 설치하기
 
 1. Run `VFF-Downloader-for-Dolphin.bat` on Windows or `VFF-Downloader-for-Dolphin.sh` on Unix systems which you downloaded [here](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
 2. Press `1` and `ENTER` to start the program. ![Main Menu](/images/Dolphin_RC24/2.jpg)
