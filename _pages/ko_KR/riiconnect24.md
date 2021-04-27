@@ -60,7 +60,7 @@ If you still can't run RiiConnect24 Patcher, please send us a mail at support@ri
 10. After it's all done, take a minute to send feedback back to us. Make sure to attach a message, we read every one of them! It's anonymous. If not, close the patcher. All the files should already be on your SD Card. ![It's done!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
 11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
 12. Put your SD card or USB drive in your Wii.
-13. Launch the Homebrew Channel on your Wii.
+13. Wii에서 홈브루 채널을 실행하세요.
 14. Launch Wii Mod Lite.
 15. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 16. Highlight all WADs with `RiiConnect24` in the name, and press + to select them. When all of them are selected, press A twice to install the WADs.
