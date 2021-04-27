@@ -21,52 +21,52 @@ vWii(Wii U의 Wii 모드) 에 Priiloader를 설치하지 **마세요**. 이것�
 #### 방법
 ##### 섹션 I - 다운로드/설치하기
 
-1. Download the Priiloader installer and extract it to the `apps` folder on your SD card or USB drive.
-    * If this folder does not exist, create it.
+1. Priiloader 설치 마법사를 다운로드 한 뒤 압축을 풀고 SD 카드 및 USB 드라이브의 `apps`폴더에 붙여넣으세요.
+    * 폴더가 존재하지 않는다면, 만드세요.
 
-##### Section II - Installing Priiloader
+##### 섹션 II - Priiloader 설치하기
 
-1. Launch the Homebrew Channel on your Wii.
-2. Launch the Priiloader installer.
-3. Press the + Button on Wii Remote or the A Button on a GameCube controller. ![Install Priiloader](/images/Priiloader/installer.png) ![Installing](/images/Priiloader/installing.png)
+1. Wii에서 홈브루 채널을 실행하세요.
+2. Priiloader 설치 마법사를 실행하세요.
+3. Wii 리모컨의 + 버튼이나 게임큐브 컨트롤러의 A를 누르세요 ![Install Priiloader](/images/Priiloader/installer.png) ![Installing](/images/Priiloader/installing.png)
 
-##### Section III - Entering/Configuring Priiloader
+##### 섹션 III - Priiloader 실행/설정하기
 
-1. Hold the RESET button while turning on your Wii.
-    * If you are using a Wii mini, plug in a USB keyboard and hold Escape on it while turning it on.
+1. Wii를 켤 때 RESET 버튼을 꾹 누르세요.
+    * Wii 미니를 사용한다면, USB 키보드를 꽂고 켜지는 동안 Esc를 꾹 누르세요.
 
 ![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
 
-2. You should see the Priiloader menu. ![Menu](/images/Priiloader/mainmenu.png)
-3. Go to `System Menu Hacks`.
-4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
-1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
-1. Scroll to `Homebrew Channel` and press A to launch it.
+2. Priiloader 메뉴가 나타납니다. ![Menu](/images/Priiloader/mainmenu.png)
+3. `System Menu Hacks`로 이동합니다.
+4. 다음 핵을 추천드립니다: `Region Free EVERYTHING`, `Block Disc Updates`, `Block Online Updates` ![System Menu Hacks](/images/Priiloader/hacks.png)
+1. `save settings`까지 스크롤한 다음 A를 누르고 B를 눌러 Priiloader의 메인 메뉴로 나가세요.
+1. `Homebrew Channel`까지 스크롤한 다음 A로 실행하세요.
 
-## System Menu Hacks List
+## 시스템 메뉴 핵 목록
 
-This is a list of the hacks you can enable with Priiloader.
+Priiloader로 활성화 할 수 있는 핵의 목록입니다.
 
-| Hack                                    | Description                                                                                                                                                                           |
+| 핵                                       | 설명                                                                                                                                                                                    |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Block Disc Updates                      | Removes the "Wii System Update" screen included with some games that forces you to update the system before playing the game.                                                         |
-| Block Online Updates                    | Disables updating your Wii. Updates will fail with error 32007.                                                                                                                       |
-| Auto-Press A at Health Screen           | Automatically presses the A Button to get past the initial "Health and Safety" screen.                                                                                                |
-| Replace Health Screen with Backmenu     | Changes the "Health and Safety" screen to the animation played when returning to the Wii Menu.                                                                                        |
-| Move Disc Channel                       | Enables moving the Disc Channel anywhere on the Wii Menu. It's normally stuck in the top left of the first page.                                                                      |
-| Wiimmfi Patch v4                        | Automatically patches all games you run from the Disc Channel for use with Wiimmfi.                                                                                                   |
-| 480p graphics fix in system menu        | Fixes a small issue with 480p on the Wii Menu.                                                                                                                                        |
-| Remove NoCopy Save File Protection      | Allows you to copy normally disallowed save files to your SD card from Data Management                                                                                                |
-| Region Free EVERYTHING                  | Disables region locking for any Wii application, including downloaded ones.                                                                                                           |
-| Region Free GC Games (No VM Patch)      | Disables region locking for GameCube discs.                                                                                                                                           |
-| Region Free Wii Games                   | Disables region locking for Wii discs.                                                                                                                                                |
-| Region Free Channels                    | Disables region locking for installed Channels.                                                                                                                                       |
-| No System Menu Sounds AT ALL            | Disables all the Wii Menu sound effects.                                                                                                                                              |
-| No System Menu Background Music         | Disables the Wii Menu background music.                                                                                                                                               |
-| Re-Enable Bannerbomb v2                 | Enables the "Bannerbomb" exploit on the latest Wii version. Not needed when the Homebrew Channel is already installed.                                                                |
-| OSReport to UsbGecko(slot B)            | Sends Wii Menu logs to a debugging device in memory card slot B.                                                                                                                      |
-| OSReport to UsbGecko(GeckoOS,B)         | Sends Wii Menu logs to a debugging device in memory card slot B, if the Wii Menu is launched by Gecko OS.                                                                             |
-| Force Standard Recovery Mode            | Automatically launches the console in recovery mode. Used to launch recovery discs, letting users unbrick their Wii systems.                                                          |
+| Block Disc Updates                      | 게임을 플레이 하기 전 뜨는 "Wii 시스템 업데이트" 창의 제거, 몇몇 게임은 이 창을 포함하여 업데이트를 강행함.                                                                                                                     |
+| Block Online Updates                    | Wii 업데이트 비활성화. 업데이트는 오류 32007로 실패함.                                                                                                                                                   |
+| Auto-Press A at Health Screen           | "건강과 안전을 위하여" 창에서 자동으로 A 버튼을 누름.                                                                                                                                                      |
+| Replace Health Screen with Backmenu     | "건강과 안전을 위하여" 화면을 Wii 메뉴로 돌아갈 때 나오는 애니메이션으로 교체                                                                                                                                        |
+| Move Disc Channel                       | Wii 메뉴 아무 곳이나 디스크 채널 옮기기 활성화. 원래는 첫 페이지 좌측 상단에 고정됨.                                                                                                                                   |
+| Wiimmfi Patch v4                        | 모든 디스크 채널 게임을 Wiimmfi로 패치함.                                                                                                                                                           |
+| 480p graphics fix in system menu        | Wii 메뉴의 사소한 480p 오류 수정                                                                                                                                                                |
+| Remove NoCopy Save File Protection      | 데이터 관리에서 원래는 허가되지 않은 세이브 파일을 SD카드로 옮길수 있게 함.                                                                                                                                          |
+| Region Free EVERYTHING                  | 다운로드 된 파일 포함 모든 Wii 어플리케이션에서 국가 제한을 해제.                                                                                                                                               |
+| Region Free GC Games (No VM Patch)      | 게임큐브 디스크 국가 제한 해제.                                                                                                                                                                    |
+| Region Free Wii Games                   | Wii 디스크 국가 제한 해제.                                                                                                                                                                     |
+| Region Free Channels                    | 설치된 채널 국가 제한 해제.                                                                                                                                                                      |
+| No System Menu Sounds AT ALL            | Wii 메뉴 효과음 모두 비활성화.                                                                                                                                                                   |
+| No System Menu Background Music         | Wii 메뉴 배경음악 비활성화                                                                                                                                                                      |
+| Re-Enable Bannerbomb v2                 | 최종 Wii 버전에서 "Bannerbomb" 취약점 활성화. 홈브루 채널이 있다면 필요 없음.                                                                                                                                  |
+| OSReport to UsbGecko(slot B)            | 메모리 카드 슬롯 B에 Wii 메뉴 로그를 디버깅 장치로 전송.                                                                                                                                                   |
+| OSReport to UsbGecko(GeckoOS,B)         | 메모리 카드 슬롯 B에 Gecko OS로 실행된 Wii 메뉴 로그를 디버깅 장치로 전송.                                                                                                                                     |
+| Force Standard Recovery Mode            | 자동으로 복구 모드로 콘솔 실행. Used to launch recovery discs, letting users unbrick their Wii systems.                                                                                            |
 | Remove Diagnostic Disc Check            | Removes a check in the Wii to see if an inserted game matches the title ID of the "Wii Startup Disc".                                                                                 |
 | Lock System Menu with Black Screen      | Makes your Wii Menu load to a black screen, making you unable to use it. (Do not enable this)                                                                                         |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Re-enable channels with these title IDs (originally blocked in system updates due to them being exploits).                                                                            |
