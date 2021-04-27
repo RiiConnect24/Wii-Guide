@@ -15,11 +15,11 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your
 {: .notice--warning}
 
 #### 필요한 것
-* An SD card or USB drive
+* SD 카드 및 USB 드라이브
 * [Priiloader installer](assets/files/Priiloader_v0_9_1.zip)
 
 #### 방법
-##### Section I - Downloading/Installing
+##### 섹션 I - 다운로드/설치하기
 
 1. Download the Priiloader installer and extract it to the `apps` folder on your SD card or USB drive.
     * If this folder does not exist, create it.
