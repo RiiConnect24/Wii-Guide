@@ -24,13 +24,13 @@ sitemap: false
 + [WiiLink24](wiilink24)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
-+ [Deleting VFFs](deleting-vffs)
++ [VFF 제거하기](deleting-vffs)
 + [Fixing FORE000006](riiconnect24-batteryfix)
 + [Fixing NEWS000006](news000006)
 
 **Modding 101**
 + [BlueBomb](bluebomb)
-* [BootMii Backup](bootmii)
+* [BootMii 백업](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
