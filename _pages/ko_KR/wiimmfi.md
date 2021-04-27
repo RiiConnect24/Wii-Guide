@@ -39,7 +39,7 @@ If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you d
 MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
 
 #### 필요한 것
-* An SD card or USB drive
+* SD 카드 및 USB 드라이브
 * [Auto Wiimmfi Patcher](https://download.wiimmfi.de/patcher/autowiimmfipatcher-latest.zip)
 
 #### 방법
@@ -110,7 +110,7 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
 #### 필요한 것
 
-- An SD card or USB drive
+- SD 카드 및 USB 드라이브
 - Mario Kart Wii Competition Patcher
    - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
    - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
