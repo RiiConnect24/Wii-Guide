@@ -28,7 +28,7 @@ If you have an older version of Priiloader or don't have it installed, follow [t
 
 #### 방법
 1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
-2. Go to `System Menu Hacks`.
+2. `System Menu Hacks`로 이동합니다.
 3. Make sure the `Wiimmfi patch v4` hack is enabled.
 4. Save settings and exit.
 
