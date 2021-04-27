@@ -7,29 +7,29 @@ title: "LetterBomb"
 
 ![LetterBomb](/images/letterbomb.png)
 
-LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
+LetterBomb는 Wii 메시지 보드를 이용한 Wii의 취약점입니다.
 
 #### 필요한 것
-- An SD card
-- A Wii on System Menu version 4.3
+- SD 카드
+- 시스템 메뉴 4.3의 Wii
 
 #### 방법
 
 
-1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
-1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure*
-   - Whichever wire you choose to cut doesn't matter. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
-1. Extract the contents of the downloaded ZIP to the root of your SD card.
-1. Take out your SD card and insert it in your Wii.
-1. On your Wii, return to the Wii Menu and then open the Wii Message Board.
-1. Load the red letter with a bomb icon.
-   - In various scenarios, you may need to look at the previous or next day to find it.
+1. Wii에서 `Wii 설정` -> `인터넷` -> `장치 정보`에 들어가서 MAC 주소를 메모하세요.
+1. [please.hackmii.com](https://please.hackmii.com)를 방문하여 MAC 주소와 국가를 선택하고 캡차를 푸세요. *꼭* `Bundle the HackMii Installer for me!`가 *체크*되어 있는지 확인하고, 아무 줄이나 자르세요
+   - 어떤 줄을 잘라도 차이가 없습니다. ![HackMii 화면](/images/Wii/LetterBomb-PC.png)
+1. ZIP의 내용물을 SD 카드 최상단에 복사해 주세요.
+1. SD 카드를 빼고 Wii에 삽입하세요.
+1. Wii에서는, Wii 메뉴로 돌아간 뒤 메시지 보드를 여세요.
+1. 폭탄 아이콘이 있는 빨간 봉투를 여세요.
+   - 몇몇 상황에서는, 전날이나 다음날을 찾아야 합니다.
 
-Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
+Wii의 날짜가 맞는지 확인하세요. 만약 다르다면, 쪽지를 찾을 수 없습니다.
 {: .notice--warning}
 
 
-![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
+![LetterBomb Wii 메뉴](/images/Wii/LetterBomb-Wii.png)
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[홈브루 채널과 BootMii 설치로 계속하기](hbc)
 {: .notice--info}
