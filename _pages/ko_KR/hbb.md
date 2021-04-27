@@ -16,7 +16,7 @@ title: "오픈 쇼핑 채널 (Homebrew Browser)"
 1. Homebrew Browser의 압축을 풀고 SD 카드 및 USB 드라이브의 `apps`폴더에 붙여넣으세요.
 2. Wii에 SD 카드나 USB 드라이브를 삽입하십시오. 이제 당신은 원하는 경우 홈브루 채널에서 홈브루 브라우저를 실행할 수 있습니다.
 
-[RiiConnect24로 계속하기](riiconnect24)<br> RiiConnect24는 WiiConnect24의 서비스 종료된 서비스를 사용할 수 있게 합니다. 여기에는 뉴스, 날씨, 모두의 투표, 닌텐도, Mii 컨테스트 채널이 포함되며 Wii 메일 역시 포함됩니다. 설치는 선택입니다.
+[RiiConnect24로 계속하기](riiconnect24)<br> RiiConnect24는 WiiConnect24의 서비스 종료된 서비스를 사용할 수 있게 합니다. 여기에는 News, Forecast, Everybody Votes, Nintendo, Check Mii Out 채널 (대한민국 미출시) 이 포함되며 Wii 메일 역시 포함됩니다. 설치는 선택입니다.
 {: .notice--info}
 
 [사이트 네비게이션으로 계속하기](site-navigation)<br>당신이 좋아할만한 많은 튜토리얼이 있습니다.
