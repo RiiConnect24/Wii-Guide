@@ -27,7 +27,7 @@ We recommend you [install cIOS](cios) before continuing.
 #### 필요한 것
 
 * A Wii
-* An SD card or USB drive
+* SD 카드 및 USB 드라이브
 * A computer with Windows on it (or using Mono or Wine on Mac/Linux)
 * [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
@@ -69,7 +69,7 @@ MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
 
 1. Extract MyMenuify Mod and put it in the `apps` folder on your SD card or USB drive.
 2. Put the .csm file you saved in a folder called `modthemes` on your SD card or USB drive.
-3. Insert your SD card or USB drive into your Wii.
+3. Wii에 SD 카드나 USB 드라이브를 삽입하십시오.
 4. Launch MyMenuify Mod from the Homebrew Channel.
 5. After an introduction message, it will ask you what IOS you want to use in the app. If you have [installed cIOS](cios), use `IOS249`, or else use `IOS58`. If the former gives an `Exception DSI occurred!` error, press Reset on the Wii console, launch it again, then try `IOS250`.
 6. Highlight the theme you want to install, then press A. Give it a moment to install the theme, then press any button to go to the Wii Menu. Hopefully, the theme installed correctly.
