@@ -31,17 +31,17 @@ title: "RiiConnect24"
 
 ##### 섹션 II - RiiConnect24 설치하기
 
-1. Run `VFF-Downloader-for-Dolphin.bat` on Windows or `VFF-Downloader-for-Dolphin.sh` on Unix systems which you downloaded [here](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
-2. Press `1` and `ENTER` to start the program. ![Main Menu](/images/Dolphin_RC24/2.jpg)
-3. Proceed with the program configuration.
-4. It will ask you if you want to run the program manually every time you want to use RiiConnect24 on Dolphin or if you want to run it automatically on startup. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
+1. Windows에서 `VFF-Downloader-for-Dolphin.bat`을 실행하거나 Unix 시스템에서 `VFF-Downloader-for-Dolphin.sh`를 실행하세요. [여기](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)에서 다운로드한 파일입니다.
+2. 프로그램을 시작하기 위해 `1`과 `ENTER`를 눌러 주세요. ![Main Menu](/images/Dolphin_RC24/2.jpg)
+3. 프로그램 설정을 진행합니다.
+4. 매 시작마다 실행할지 RiiConnect24를 돌핀 에뮬레이터에서 쓰고 싶을 때만 수동으로 켤지 물어볼겁니다. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
 
 ![Run once](/images/Dolphin_RC24/4.jpg)
 
-If you choose to manually run it, keep `VFF-Downloader-for-Dolphin.bat`. There will be an option in menu to manually run it.
+수동으로 작동시킨다고 설정했다면, `VFF-Downloader-for-Dolphin.bat`을 유지하세요. 수동으로 작동시킬 수 있는 메뉴의 옵션이 있을 겁니다.
 {: .notice--info}
 
-If you choose to run it on startup, you don't have to do anything. If you want to uninstall it in the future, come back to `VFF-Downloader-for-Dolphin.bat` or `VFF-Downloader-for-Dolphin.sh` and choose - Manage startup VFF Downloader.
+실행 시 작동시킨다고 설정했다면, 아무것도 하지 않아도 됩니다. 나중에 삭제하고 싶다면, `VFF-Downloader-for-Dolphin.bat`나 `VFF-Downloader-for-Dolphin.sh`를 다시 방문해서 Manage startup VFF Downloader를 선택하세요.
 {: .notice--info}
 
 ##### Section III - Finalizing installation
