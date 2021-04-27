@@ -33,7 +33,7 @@ WiiLink24 and all of its services (such as Wii no Ma) are not controlled or oper
 8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
 9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLink24Patcher.bat` to your SD Card or USB Device.
 10. Put your SD card or USB drive in your Wii.
-11. Launch the Homebrew Channel on your Wii.
+11. Wii에서 홈브루 채널을 실행하세요.
 12. Launch Wii Mod Lite.
 13. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 14. Select the Wii no Ma WAD and press A to install.
