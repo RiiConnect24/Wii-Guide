@@ -12,7 +12,7 @@ WiiLink24 and all of its services (such as Wii no Ma) are not controlled or oper
 #### 필요한 것
 
 * SD 카드 및 USB 드라이브
-* A Wii with an Internet connection
+* 인터넷 연결이 있는 Wii
 * A Windows or Unix based computer
 * [WiiLink24 Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
@@ -35,7 +35,7 @@ WiiLink24 and all of its services (such as Wii no Ma) are not controlled or oper
 10. Put your SD card or USB drive in your Wii.
 11. Wii에서 홈브루 채널을 실행하세요.
 12. Launch Wii Mod Lite.
-13. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+13. Wii 리모컨의 +컨트롤 패드를 사용하여, `WAD Manager`를 찾으세요. 그 뒤 `wad` 폴더로 이동하세요.
 14. Select the Wii no Ma WAD and press A to install.
 15. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 16. Launch Wii no Ma and enjoy!
