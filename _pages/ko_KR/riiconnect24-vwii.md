@@ -47,47 +47,47 @@ vWii 외의 어떤 콘솔로든 이 방법을 시도하지 **마세요**. 닌텐
 
 1. Windows에서 `RiiConnect24`를 실행시키거나 Unix 시스템에서 `RiiConnect24Patcher.sh`를 bash를 입력하고 `RiiConnect24Patcher.sh`를 터미널에 드래그 한 뒤 엔터를 누릅니다. `bash RiiConnect24Patcher.sh`와 같이 나타나야 합니다. 화면에 나타나는 설명을 따르세요.
 
-2. 패쳐를 작동한 뒤 폴더가 3개인 것을 확인하세요. They will be in the same folder where `RiiConnect24Patcher.bat/sh` is and on your SD Card (of course, only if you selected an option in the patcher to do so).
-   - If the patcher did not move the file to the SD Card, move these 3 folders to the root of your SD card.
+2. 패쳐를 작동한 뒤 폴더가 3개인 것을 확인하세요. `RiiConnect24Patcher.bat/sh`와 같은 폴더에 있거나 SD 카드에 있을겁니다 (당연하게도 패쳐에서 해당 옵션을 선택한 경우)
+   - 패쳐가 SD 카드로 파일을 옮기지 않았다면, 세 폴더들을 SD 카드의 최상단 디렉토리로 옮기세요.
 
-##### Section II - Installing the newly patched WADs
+##### 섹션 II - 새롭게 패치된 WAD 설치하기
 
-1. Open the Homebrew Channel
-2. Launch Wii Mod Lite
-3. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
-4. Highlight all WADs with `RiiConnect24` in the name, and press + to select them. When all of them are selected, press A twice to install the WADs.
-5. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+1. 홈브루 채널을 실행하세요
+2. Wii Mod Lite를 실행하세요
+3. Wii 리모컨의 +컨트롤 패드를 사용하여, `WAD Manager`를 찾으세요. 그 뒤 `wad` 폴더로 이동하세요.
+4. `RiiConnect24`가 이름에 포함된 모든 WAD를 선택하고, +를 눌러 선택하세요. 모두가 선택되면, A를 두번 눌러 설치하세요.
+5. 설치가 완료되고 나면, HOME 버튼을 눌러 홈브루 런처로 되돌아가세요.
 
-##### Section III - Patching 43db for 16:9 (optional)
+##### 섹션 III - 16:9 화면비를 위한 43db 패치 (선택)
 
-1. Open the Homebrew Channel
-2. Launch the ww-43db-patcher
+1. 홈브루 채널을 실행하세요
+2. ww-43db-patcher를 실행하세요
 
-If you install a theme, you will have to run the ww-43db-patcher once more
+테마를 설치했다면, ww-43db-patcher를 한번 더 실행해야 합니다.
 {: .notice--info}
 
-##### Section IV - Using RiiConnect24
+##### 섹션 IV - RiiConnect24 사용하기
 
-After following the above sections, you're almost able to utilize RiiConnect24 on your Wii U. You just need to perform the following steps **after every vWii reboot**.
+상단 섹션을 따라 했다면, Wii U에서 RiiConnect24를 사용하는 것이 한층 가까워졌습니다. **매 vWii 재부팅마다** 아래 단계를 다 따르면 됩니다.
 
-1. On the vWii's **Wii Menu**, launch the **ConnectMii** channel.
-* This will enable the WiiConnect24 and Standby Connection flags required by the WiiConnect24 Channels.
-2. Launch the WiiConnect24 Channels
-* You should now be able to utilize all of the WiiConnect24 Channels you have installed!
+1. vWii의 **Wii 메뉴**에서, **ConnectMii** 채널을 실행하세요.
+* 이것은 WiiConnect24와 WiiConnect24 채널에 필요한 상시 연결 플래그를 활성화할겁니다.
+2. WiiConnect24 채널을 실행해보세요
+* 이제 당신은 설치한 모든 WiiConnect24 채널을 활용할 수 있게 됩니다!
 
-#### What's currently working?
-The following RiiConnect24 services are **working** on the vWii:
-* News Channel
-    * This channel is affected by the timestamp issue. The "Last Updated" and article timestamps will be incorrect.
-    * The banner data is also known to not work, returning `Unable to obtain data.`
+#### 무엇이 현재 작동하나요?
+아래 RiiConnect24 서비스는 vWii에서 **작동**합니다.
+* News Channel (대한민국 미출시)
+    * 이 채널은 타임스탬프 문제의 영향을 받습니다. "최종 업데이트"와 글의 타임스탬프가 틀릴겁니다.
+    * `Unable to obtain data.`를 내보내며 배너 데이터가 작동하지 않는 것으로 알려져 있습니다.
 * Forecast Channel (대한민국 미출시)
-* Nintendo Channel
-* Everybody Votes Channel
-* Check Mii Out Channel / Mii Contest Channel
+* Nintendo Channel (대한민국 미출시)
+* Everybody Votes Channel (대한민국 미출시)
+* Check Mii Out Channel / Mii Contest Channel (대한민국 미출시)
 {: .notice--success}
 
-The following RiiConnect24 services are **not working** on the vWii:
-* Wii Mail (most functionality does not exist on vWii)
-    * This includes sending/receiving mail to/from friends. You can only receive global broadcast mail and posts from RSSMii feeds (if set up).
-* Everything else that isn't working according to [RiiConnect24 stats](https://rc24.xyz/stats/index.html).
+아래 RiiConnect24 서비스는 vWii에서 작동하지 **않습니다**.
+* Wii 메일 (vWii에서는 대부분의 기능이 없음)
+    * 친구와 메일 수신/발신이 포함됩니다. 오직 글로벌 방송 메일과 RSSMii 피드 (설정된 경우) 포스트만 받을 수 있습니다.
+* [RiiConnect24 상태](https://rc24.xyz/stats/index.html)에서 작동하지 않는 모든 것.
 {: .notice--warning}
