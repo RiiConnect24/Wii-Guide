@@ -2,56 +2,56 @@
 title: "RiiConnect24"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="목차" %}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![RiiConnect24 로고](/images/WiiRC24Logo.jpg)
 
-This guide will help you install RiiConnect24 on your Dolphin installation.
+이 가이드는 RiiConnect24를 돌핀 설치에 설치하는 방법을 알려줍니다.
 
-If you need help for anything regarding this tutorial, please directly contact KcrPL#4625 on Discord, join the [RiiConnect24 Discord Server](https://discord.gg/rc24) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+튜토리얼에 관한 질문이 있다면, KcrPL#4625를 직접 연락하거나, [RiiConnect24 디스코드 서버](https://discord.gg/rc24) 에 가입하거나 [support@riiconnect24.net에 이메일을 보내세요](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-### What you need
-* A computer with either Windows 7 or newer or any Unix based system
+### 필요한 것
+* Windows 7 이상의 컴퓨터나 Unix 기반의 아무 시스템
 * [.VFF-File-Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
-* [Dolphin](https://dolphin-emu.org/download/)
+* [돌핀 에뮬레이터](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-#### Instructions
+#### 방법
 
-##### Section I - Installing Dolphin
+##### 섹션 I - 돌핀 에뮬레이터 설치하기
 
-If you have Dolphin already installed, skip to Section II
+돌핀 에뮬레이터가 이미 설치되어 있다면, 섹션 II로 건너뛰세요
 {: .notice--info}
 
-1. Download the latest Dolphin development version.
-2. Extract the .7z file using a program like 7Zip or WinRAR.
-3. Start Dolphin
-4. Press on `Tools` -> `Perform Online System Update` -> Choose your region ![Perform Online System Update](/images/Dolphin_RC24/1.jpg)
+1. 최종 돌핀 에뮬레이터 개발 버전을 다운로드하세요.
+2. .7z 파일을 알집이나 반디집과 같은 프로그램으로 압축 해제하세요.
+3. 돌핀 에뮬레이터를 시작하세요
+4. `도구` -> `온라인 시스템 업데이트 실행` -> 당신의 국가를 선택하세요 ![온라인 시스템 업데이트 하기](/images/Dolphin_RC24/1.jpg)
 
-##### Section II - Installing RiiConnect24.
+##### 섹션 II - RiiConnect24 설치하기
 
-1. Run `VFF-Downloader-for-Dolphin.bat` on Windows or `VFF-Downloader-for-Dolphin.sh` on Unix systems which you downloaded [here](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
-2. Press `1` and `ENTER` to start the program. ![Main Menu](/images/Dolphin_RC24/2.jpg)
-3. Proceed with the program configuration.
-4. It will ask you if you want to run the program manually every time you want to use RiiConnect24 on Dolphin or if you want to run it automatically on startup. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
+1. Windows에서 `VFF-Downloader-for-Dolphin.bat`을 실행하거나 Unix 시스템에서 `VFF-Downloader-for-Dolphin.sh`를 실행하세요. [여기](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)에서 다운로드한 파일입니다.
+2. 프로그램을 시작하기 위해 `1`과 `ENTER`를 눌러 주세요. ![메인 메뉴](/images/Dolphin_RC24/2.jpg)
+3. 프로그램 설정을 진행합니다.
+4. 매 시작마다 실행할지 RiiConnect24를 돌핀 에뮬레이터에서 쓰고 싶을 때만 수동으로 켤지 물어볼겁니다. ![프로그램 실행 방법을 선택하세요.](/images/Dolphin_RC24/3.jpg)
 
-![Run once](/images/Dolphin_RC24/4.jpg)
+![한번만 실행](/images/Dolphin_RC24/4.jpg)
 
-If you choose to manually run it, keep `VFF-Downloader-for-Dolphin.bat`. There will be an option in menu to manually run it.
+수동으로 작동시킨다고 설정했다면, `VFF-Downloader-for-Dolphin.bat`을 유지하세요. 수동으로 작동시킬 수 있는 메뉴의 옵션이 있을 겁니다.
 {: .notice--info}
 
-If you choose to run it on startup, you don't have to do anything. If you want to uninstall it in the future, come back to `VFF-Downloader-for-Dolphin.bat` or `VFF-Downloader-for-Dolphin.sh` and choose - Manage startup VFF Downloader.
+실행 시 작동시킨다고 설정했다면, 아무것도 하지 않아도 됩니다. 나중에 삭제하고 싶다면, `VFF-Downloader-for-Dolphin.bat`나 `VFF-Downloader-for-Dolphin.sh`를 다시 방문해서 Manage startup VFF Downloader를 선택하세요.
 {: .notice--info}
 
-##### Section III - Finalizing installation
+##### 섹션 III - 설정 완료하기
 
-1. On Windows run the `RiiConnect24Patcher.bat` or run the `RiiConnect24Patcher.sh` if you are on a Unix system that you downloaded [here](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
-2. Start the patcher, select `Install RiiConnect24`. ![Select Custom](/images/Dolphin_RC24/5.jpg)
-3. Select `Custom`. ![Select Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
-4. Press `1` to select your region and only enable 5th option. Press `6` to start patching.
-5. After it's done, there will a be a `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` file in WAD folder next to RiiConnect24Patcher.bat
-6. In Dolphin, press `Tools` and then `Install WAD`, and select the `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
+1. Windows에서 `VFF-Downloader-for-Dolphin.bat`을 실행하거나 Unix 시스템에서 `VFF-Downloader-for-Dolphin.sh`를 실행하세요. [여기](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)에서 다운로드한 파일입니다.
+2. 패치 프로그램을 시작하고, `Install RiiConnect24`를 선택하세요. ![Custom 선택](/images/Dolphin_RC24/5.jpg)
+3. `Custom`을 선택합니다. ![Check Mii Out Channel을 선택합니다](/images/Dolphin_RC24/6.jpg)
+4. `1`을 눌러 국가를 선택하고 5번 옵션만 활성화합니다. `6`을 눌러 패치를 시작합니다.
+5. 완료되면, Korea를 선택하지 않았다면 `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` 또는 `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` 파일이 RiiConnect24Patcher.bat이 있는 디렉토리의 WAD 폴더에 있을겁니다.
+6. 돌핀 에뮬레이터에서, `도구`를 누르고 `WAD 설치`를 누른 다음 `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad`나 `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`를 선택하세요.
 
-You're all done! Unfortunately, Nintendo Channel and Wii Mail don't work in Dolphin yet.
+모든 작업이 끝났습니다! 아쉽게도, Nintendo Channel (대한민국 미출시) 와 Wii 메일은 아직 돌핀 에뮬레이터에서 작동하지 않습니다.
 {: .notice--info}

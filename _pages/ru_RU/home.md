@@ -39,7 +39,7 @@ Running homebrew on your Nintendo Wii can be done for free by exploiting bugs in
 Начните ваше путешествие с [выбора эксплойта](get-started)!
 {: .notice--info}
 
-## More Resources
+## Дополнительные ресурсы
 
 Здесь собраны несколько хороших ресурсов про моддинг Wii и решения различных проблем:
 

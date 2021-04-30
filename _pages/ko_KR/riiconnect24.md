@@ -2,47 +2,47 @@
 title: "RiiConnect24"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="목차" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+튜토리얼에 관한 질문이 있다면, [Wii Mini 해킹 디스코드 서버](https://discord.gg/rc24) 에 가입하거나(권장) [support@riiconnect24.net에 이메일을 보내세요](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![RiiConnect24 로고](/images/WiiRC24Logo.jpg)
 
-[RiiConnect24](https://rc24.xyz/) allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail.
+[RiiConnect24](https://rc24.xyz/) RiiConnect24는 WiiConnect24의 서비스 종료된 서비스를 사용할 수 있게 합니다. 여기에는 News, Forecast, Everybody Votes, Nintendo, Check Mii Out 채널 (대한민국 미출시) 이 포함되며 Wii 메일 역시 포함됩니다.
 
-The Unix Patcher is finally out! This means that users of macOS and all types of Linux distributions are able to natively use the RiiConnect24 Patcher.
+Unix 패쳐가 드디어 나왔습니다! 이제 macOS와 모든 리눅스 배포판 사용자가 RiiConnect24 패쳐를 네이티브로 사용할 수 있단 뜻입니다.
 {: .notice--info}
 
 {% capture notice-1 %}
-This guide is for the original Wii only.
+이 가이드는 오리지널 Wii만을 위해 만들었습니다.
 
-- Follow [this tutorial](riiconnect24-vwii) if you'd like to install RiiConnect24 on a vWii (the Wii mode of your Wii U).
-- Follow [this tutorial](riiconnect24-dolphin) if you'd like to install RiiConnect24 on the Dolphin emulator.
+- RiiConnect24를 vWii (Wii U의 Wii 모드)에 설치하고 싶다면, [이 튜토리얼](riiconnect24-vwii)을 따르세요.
+- RiiConnect24를 돌핀 에뮬레이터에 설치하고 싶다면, [이 튜토리얼](riiconnect24-dolphin)을 따르세요.
 
-There is no guide to installing RiiConnect24 on a Wii Mini, as attempting to install RiiConnect24 on a Wii Mini will result in a console brick.
+Wii 미니에서 RiiConnect24를 설치하는 가이드는 없습니다. Wii 미니에서 RiiConnect24를 설치하는 것은 기기를 벽돌으로 만들기 때문입니다.
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-#### What you need
+#### 필요한 것
 
-* An SD card or USB drive
-* A Wii with an Internet connection
-* A computer
-* [RiiConnect24 Patcher (Windows and Unix)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+* SD 카드 및 USB 드라이브
+* 인터넷 연결이 있는 Wii
+* 컴퓨터
+* [RiiConnect24 Patcher (Windows 및 Unix)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-If you still can't run RiiConnect24 Patcher, please send us a mail at support@riiconnect24.net
+RiiConnect24 패쳐를 실행시킬 수 없다면, support@riiconnect24.net로 이메일을 보내세요.
 {: .notice--info}
 
-#### Instructions
+#### 방법
 
-##### Section I - Downloading RiiConnect24 Patcher
+##### 섹션 I - RiiConnect24 패쳐 다운로드
 
-1. Click the link above to go to the GitHub page where the patcher is.
-2. Download `RiiConnect24Patcher.bat` if you are on Windows, and `RiiConnect24Patcher.sh` if you are on a Unix system
+1. 상단의 링크를 클릭하여 패쳐가 있는 깃허브 페이지로 이동하세요.
+2. Windows에서 `RiiConnect24Patcher.bat`을 다운로드하거나 Unix 시스템에서 `RiiConnect24Patcher.sh`를 다운로드하세요
 
-##### Section II - Patching IOS
+##### 섹션 II - IOS 패치하기
 
 [If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
 {: .notice--info}
@@ -60,12 +60,12 @@ If you still can't run RiiConnect24 Patcher, please send us a mail at support@ri
 10. After it's all done, take a minute to send feedback back to us. Make sure to attach a message, we read every one of them! It's anonymous. If not, close the patcher. All the files should already be on your SD Card. ![It's done!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
 11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
 12. Put your SD card or USB drive in your Wii.
-13. Launch the Homebrew Channel on your Wii.
+13. Wii에서 홈브루 채널을 실행하세요.
 14. Launch Wii Mod Lite.
-15. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
-16. Highlight all WADs with `RiiConnect24` in the name, and press + to select them. When all of them are selected, press A twice to install the WADs.
+15. Wii 리모컨의 +컨트롤 패드를 사용하여, `WAD Manager`를 찾으세요. 그 뒤 `wad` 폴더로 이동하세요.
+16. `RiiConnect24`가 이름에 포함된 모든 WAD를 선택하고, +를 눌러 선택하세요. 모두가 선택되면, A를 두번 눌러 설치하세요.
 17. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted WAD to uninstall it, then try installing it again.
-18. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+18. 설치가 완료되고 나면, HOME 버튼을 눌러 홈브루 런처로 되돌아가세요.
 
 ##### Section III - Patching nwc24msg.cfg
 
@@ -99,10 +99,10 @@ In this section, you will set your DNS to our servers. It's optional but recomme
 16. Finally, go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`. Please read through this.
 
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. 설치는 선택입니다.
 {: .notice--info}
 
-[Continue to WiiLink24](wiilink24)<br> WiiLink24 lets you use the Japanese-exclusive Wii no Ma channel. This is optional to install.
+[Continue to WiiLink24](wiilink24)<br> WiiLink24 lets you use the Japanese-exclusive Wii no Ma channel. 설치는 선택입니다.
 {: .notice--info}
 
 If you get error 107245, then you probably have failed to patch your IOS correctly.

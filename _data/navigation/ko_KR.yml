@@ -1,16 +1,16 @@
 ---
 main:
   - 
-    title: Wii Guide
+    title: Wii 가이드
     url: /
   - 
-    title: Start Here
+    title: 여기서 시작하기
     url: get-started
   - 
-    title: Site Navigation
+    title: 사이트 탐색
     url: site-navigation
   - 
-    title: FAQ
+    title: 자주 묻는 질문(FAQ)
     url: faq
   - 
     title: RiiConnect24
@@ -23,29 +23,29 @@ bottom:
     title: 영어로 된 도움말을 원하시면 디스코드의 <a href="https://discord.gg/b4Y7jfD"> RiiConnect24에서 도움을 요청하세요.</a>
 footer:
   - 
-    title: Source
+    title: 소스 코드
     url: https://github.com/RiiConnect24/Wii-Guide/
   - 
-    title: Site Navigation
+    title: 사이트 탐색
     url: site-navigation
   - 
-    title: Donations
+    title: 기부
     url: donations
 sidebar_title:
   - 
     title: 현재 진행상태
 sidebar_pages:
   - 
-    title: Wii Guide
+    title: Wii 가이드
     url: /
   - 
-    title: FAQ
+    title: 자주 묻는 질문(FAQ)
     url: faq
   - 
-    title: Donations
+    title: 기부
     url: donations
   - 
-    title: Credits
+    title: 크레딧
     url: credits
   - 
     title: RiiConnect24

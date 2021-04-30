@@ -43,13 +43,13 @@ O Priiloader adiciona um nível de proteção contra brick ao seu Wii. Ele carre
 1. Ecolha para baixo até `save settings` e pressione A e depois pressione B para voltar ao menu principal do Priiloader.
 1. Selecione baixo até o `Homebrew Channel` e pressione A para iniciá-lo.
 
-## System Menu Hacks List
+## Lista de Hacks do Menu do Sistema
 
-This is a list of the hacks you can enable with Priiloader.
+Esta é uma lista dos hacks que você pode habilitar com Priiloader.
 
-| Hack                                    | Description                                                                                                                                                                           |
+| Hack                                    | Descrição                                                                                                                                                                             |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Block Disc Updates                      | Removes the "Wii System Update" screen included with some games that forces you to update the system before playing the game.                                                         |
+| Bloquear Atualizações de Disco          | Removes the "Wii System Update" screen included with some games that forces you to update the system before playing the game.                                                         |
 | Block Online Updates                    | Disables updating your Wii. Updates will fail with error 32007.                                                                                                                       |
 | Auto-Press A at Health Screen           | Automatically presses the A Button to get past the initial "Health and Safety" screen.                                                                                                |
 | Replace Health Screen with Backmenu     | Changes the "Health and Safety" screen to the animation played when returning to the Wii Menu.                                                                                        |

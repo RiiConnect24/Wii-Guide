@@ -7,25 +7,25 @@ Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [
 
 ![LetterBomb](/images/letterbomb.png)
 
-LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
+LetterBomb é um exploit para o Wii que é acionado usando a Wii Message Board.
 
 #### Você precisará de
-- An SD card
-- A Wii on System Menu version 4.3
+- Um cartão SD
+- Um Wii no Menu do Sistema versão 4.3
 
 #### Instruções
 
 
-1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
-1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure* `Bundle the HackMii Installer for me!` *is checked*, and cut either wire
-   - Whichever wire you choose to cut doesn't matter. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
-1. Extract the contents of the downloaded ZIP to the root of your SD card.
-1. Take out your SD card and insert it in your Wii.
-1. On your Wii, return to the Wii Menu and then open the Wii Message Board.
-1. Load the red letter with a bomb icon.
-   - In various scenarios, you may need to look at the previous or next day to find it.
+1. No seu Wii, ir para as `Configurações do Wii` -> `Internet` -> `Informações do Console` e anotar o seu endereço MAC.
+1. Visite [please.hackmii. com](https://please.hackmii.com), insira seu Wii MAC e região, complete o CAPTCHA, *assegure-se de* `pacote do HackMii Installer para mim!` *está marcado*, e cortar qualquer fio
+   - Qualquer que seja o fio que você escolher cortar não importa. ![Tela HackMii](/images/Wii/LetterBomb-PC.png)
+1. Extraia o conteúdo do ZIP baixado para a raiz do seu cartão SD.
+1. Pegue seu cartão SD e insira-o no seu Wii.
+1. No seu Wii, retorne ao Menu do Wii e então abra o Wii Message Board.
+1. Carregue a carta vermelha com um ícone de bomba.
+   - Em vários cenários, você pode precisar olhar para o dia anterior ou no dia seguinte para encontrá-lo.
 
-Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
+Verifique se a data no seu Wii está correta, caso contrário você pode não conseguir encontrar a carta.
 {: .notice--warning}
 
 
