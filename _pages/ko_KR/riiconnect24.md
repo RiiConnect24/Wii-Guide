@@ -44,52 +44,52 @@ RiiConnect24 패쳐를 실행시킬 수 없다면, support@riiconnect24.net로 �
 
 ##### 섹션 II - IOS 패치하기
 
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+[WAD 설치 방법에 대해 자세히 알아보려면, 여기를 클릭하세요!](wiimodlite)
 {: .notice--info}
 
-1. On Windows run `RiiConnect24Patcher.bat`. It should look like this `bash RiiConnect24Patcher.sh`. On Unix systems, open terminal and type `bash`, then drag `RiiConnect24Patcher.sh`into the terminal then press enter.
-2. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`. ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
-3. Select the device you're patching for. ![Select your device](/images/RC24_Patcher/2.JPG)
-4. For this guide, choose "`Install RiiConnect24 on your Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
-5. Choose "`Express (Recommended)`". It will give you everything you need. ![Express Settings](/images/RC24_Patcher/4.JPG)
-6. Select your region. ![Select your region](/images/RC24_Patcher/5.JPG)
-7. While we're at it, RiiConnect24 Patcher can additionally download some other optional channels that are not RiiConnect24 oriented. `[X]` represents option selected. Just press 5 and `ENTER` if you're not interrested. ![Additional optional channels](/images/RC24_Patcher/6.JPG)
-7. Connect the SD Card or USB Drive to your computer and select "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
-8. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again. ![Successfully detected](/images/RC24_Patcher/8.JPG)
-9. Be patient... ![It's patching!](/images/RC24_Patcher/9.JPG)
-10. After it's all done, take a minute to send feedback back to us. Make sure to attach a message, we read every one of them! It's anonymous. If not, close the patcher. All the files should already be on your SD Card. ![It's done!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
-11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
-12. Put your SD card or USB drive in your Wii.
+1. Windows에서 `RiiConnect24Patcher.bat`을 실행하세요. Unix 시스템에서는 터미널을 연 뒤 `bash`를 입력하고 `RiiConnect24Patcher.sh`를 터미널에 드래그 한 뒤 엔터를 누릅니다. `bash RiiConnect24Patcher.sh`와 같이 나타나야 합니다.
+2. 1을 눌러 "`Start`"을 선택하고 선택지를 `ENTER`키로 확인하세요. ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
+3. 패치할 기기를 선택하세요. ![Select your device](/images/RC24_Patcher/2.JPG)
+4. 이 가이드에서는, "`Install RiiConnect24 on your Wii`"를 선택하세요. ![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
+5. "`Express (Recommended)`"을 선택하세요. 당신이 필요한 모든 것을 줄 겁니다. ![Express Settings](/images/RC24_Patcher/4.JPG)
+6. 국가를 선택하세요. ![Select your region](/images/RC24_Patcher/5.JPG)
+7. 그 상태에서, RiiConnect24 패쳐는 RiiConnect24와 관련 없는 추가적인 선택 채널을 받을 수 있습니다. `[X]`는 옵션이 선택됨을 나타냅니다. 관심이 없다면, 5를 누르고 `ENTER`키를 누르세요. ![Additional optional channels](/images/RC24_Patcher/6.JPG)
+7. SD 카드나 USB 드라이브를 연결하고 "`1`"을 누르세요. ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
+8. 기기가 성공적으로 인식되면, "`1`"을 누르세요. 만약 아니라면, SD 카드나 USB 드라이브에 `apps` 폴더가 있는지 확인하고 다시 시도하세요. ![Successfully detected](/images/RC24_Patcher/8.JPG)
+9. 기다려주세요... ![It's patching!](/images/RC24_Patcher/9.JPG)
+10. 완료되면, 몇 분의 시간을 내어 저희에게 피드백을 보내세요. 메시지를 추가하세요. 저희가 모두 보거든요! 익명입니다. 아니면, 패쳐를 닫으세요. 모든 파일은 SD 카드에 있어야 합니다. ![It's done!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
+11. SD 카드나 USB 장치에 모든 것을 복사하지 않았다면, `RiiConnect24Patcher.bat` 옆에 있는 `WAD`와 `apps` 폴더를 SD 카드나 USB 장치에 복사하세요.
+12. Wii에 SD 카드나 USB 드라이브를 삽입하십시오.
 13. Wii에서 홈브루 채널을 실행하세요.
-14. Launch Wii Mod Lite.
+14. Wii Mod Lite를 실행하세요.
 15. Wii 리모컨의 +컨트롤 패드를 사용하여, `WAD Manager`를 찾으세요. 그 뒤 `wad` 폴더로 이동하세요.
 16. `RiiConnect24`가 이름에 포함된 모든 WAD를 선택하고, +를 눌러 선택하세요. 모두가 선택되면, A를 두번 눌러 설치하세요.
-17. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted WAD to uninstall it, then try installing it again.
+17. 더 높은 버전이 설치되었습니다 (오류 -1035) 라는 제목으로 오류가 뜨면, WAD 선택 창을 열고 선택된 WAD에 - 를 눌러 삭제한 다음 재설치 해보세요.
 18. 설치가 완료되고 나면, HOME 버튼을 눌러 홈브루 런처로 되돌아가세요.
 
-##### Section III - Patching nwc24msg.cfg
+##### 섹션 III - nwc24msg.cfg 패치하기
 
-You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
+이제 당신은 Wii 메일을 위한 `nwc24msg.cfg`을 패치할겁니다.
 
-1. Launch RiiConnect24 Mail Patcher.
-2. It should only take a few seconds to patch your nwc24msg.cfg. When it's done, press HOME to exit.
+1. RiiConnect24 메일 패쳐를 실행합니다.
+2. nwc24msg.cfg 패치까지 몇초 밖에 걸리지 않습니다. 완료되면, HOME을 눌러 나가세요.
 
-If you were unable to patch your nwc24msg.cfg correctly, e-mail us at [support@riiconnect24.net](mailto:support@riiconnect24.net).
+올바르게 nwc24msg.cfg 패치가 불가능하다면, [support@riiconnect24.net에 이메일을 보내세요](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-##### Section IV - Connecting
+##### 섹션 IV - 연결
 
-In this section, you will set your DNS to our servers. It's optional but recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
+이 섹션에서, 저희의 서버로 DNS를 설정하게 됩니다. 선택이지만 권장되며, RiiConnect24와 Wiimmfi의 몇몇 기능을 활성화하기 때문입니다.
 
-1. Go to `Wii Options`.
-2. Go to `Wii Settings`.
-3. Go to `Page 2`, then click on `Internet`.
-4. Go to `Connection Settings`.
-5. Select your current connection.
-6. Go to `Change Settings`.
-7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`.
-8. Type in `164.132.44.106` as the primary DNS.
-9. Type in `1.1.1.1` as the secondary DNS (if it gives you problems, try `8.8.8.8`).
+1. `Wii 옵션`으로 이동합니다.
+2. `Wii 설정`으로 이동합니다.
+3. `페이지 2`로 이동하고, `인터넷`을 클릭하세요.
+4. `연결 설정`으로 이동합니다.
+5. 현재 연결을 선택하세요.
+6. `설정 편집`으로 이동합니다.
+7. `DNS 자동 연결` (IP 주소가 아님) 으로 이동해서 `끄기`를 선택하고, `고급 설정`으로 들어갑니다.
+8. 주요 DNS를 `164.132.44.106`으로 입력합니다.
+9. 보조 DNS를 `1.1.1.1`으로 입력합니다 (문제가 있는 경우 `8.8.8.8` 시도).
 10. Select `Confirm`, then select `Save`.
 11. Select `OK` to perform a connection test.
 12. If the connection test was successful, select `No` to skip the Wii System Update.
