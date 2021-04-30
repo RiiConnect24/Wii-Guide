@@ -35,7 +35,7 @@ Windows 운영체제를 사용한다면 KcrPL의 [RSS Feeds Creator](https://git
 </rss>
 ```
 
-Replace the "name" portion with the title you want to put for the feed. Make sure it's not very long, since there's not that much space. Then, replace the link portion with the link to the RSS feed. You can put as many feeds as you want. Don't delete the "CDATA" part.
+"name" 부분을 피드에 넣을 제목으로 바꾸세요. 공간이 많이 없기 때문에 길지 않게 하세요. 그 다음 링크 부분을 RSS 피드의 주소로 바꾸세요. 피드를 원하는 만큼 추가할 수 있습니다. "CDATA" 부분을 지우세요.
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -45,7 +45,7 @@ Replace the "name" portion with the title you want to put for the feed. Make sur
 </rss>
 ```
 
-Save the feed you made to the root of your SD Card.
+SD 카드의 최상위 경로에 피드를 저장하세요.
 3. Launch RSSMii from the Homebrew Channel.
 4. Press A to confirm you want to subscribe to the feeds. Ignore the error about ES_GetTitleID, everything is fine.
 5. Once everything is done, press HOME to go back to the Homebrew Channel. You should soon get RSS feed updates on your Wii, enjoy!
