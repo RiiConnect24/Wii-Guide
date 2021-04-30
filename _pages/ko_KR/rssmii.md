@@ -46,8 +46,8 @@ Windows 운영체제를 사용한다면 KcrPL의 [RSS Feeds Creator](https://git
 ```
 
 SD 카드의 최상위 경로에 피드를 저장하세요.
-3. Launch RSSMii from the Homebrew Channel.
-4. Press A to confirm you want to subscribe to the feeds. Ignore the error about ES_GetTitleID, everything is fine.
+3. 홈브루 채널에서 RSSMii를 실행하세요.
+4. A를 눌러 피드 구독을 승인하세요. Ignore the error about ES_GetTitleID, everything is fine.
 5. Once everything is done, press HOME to go back to the Homebrew Channel. You should soon get RSS feed updates on your Wii, enjoy!
 
 Not getting any feed updates? Try an RSS feed that updates more frequently, like a feed with news for example. If the RSS feed doesn't update often, then you won't get many updates.
