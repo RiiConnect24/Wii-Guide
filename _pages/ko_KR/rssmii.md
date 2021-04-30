@@ -1,5 +1,5 @@
 ---
-title: "Installing RSSMii"
+title: "RssMii 설치"
 ---
 
 {% include toc title="목차" %}
@@ -7,7 +7,7 @@ title: "Installing RSSMii"
 튜토리얼에 관한 질문이 있다면, [Wii Mini 해킹 디스코드 서버](https://discord.gg/rc24) 에 가입하거나(권장) [support@riiconnect24.net에 이메일을 보내세요](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Do you want to get RSS feed updates on your Wii Message Board? This tutorial will tell you how to set RSSMii up.
+Wii 메시지 보드에서 RSS 피드 업데이트를 받고 싶나요? 이 튜토리얼은 RSSMii 설정법을 알려줍니다.
 
 ![RSSMii](/images/rssmii.png)
 
@@ -19,19 +19,19 @@ Do you want to get RSS feed updates on your Wii Message Board? This tutorial wil
 #### 방법
 ##### 섹션 I - 다운로드/설치하기
 
-1. Extract RSSMii and put it in the `apps` folder on your SD card.
-2. We need to create a `feeds.xml` on the root of the SD card so the app will know what feeds to subscribe you to.
+1. RSSMii를 압축 해제하고 SD 카드 및 USB 드라이브의 `apps` 폴더에 붙여넣으세요.
+2. `feeds.xml`을 SD 카드의 최상단 폴더에 만들어 앱이 어디를 구독할지 알려줘야 합니다.
 
-If you're using the Windows Operating System, you can use the [RSS Feeds Creator](https://github.com/RiiConnect24/rssmii/releases/download/v1.4.1/RSSFeedsCreator.bat) program created by KcrPL. It will automatically create a `feeds.xml` file and will copy it to your SD card!
+Windows 운영체제를 사용한다면 KcrPL의 [RSS Feeds Creator](https://github.com/RiiConnect24/rssmii/releases/download/v1.4.1/RSSFeedsCreator.bat)를 사용할 수 있습니다. 이것은 자동으로 `feeds.xml`을 만들고 SD 카드에 복사할겁니다!
 {: .notice--info}
 
-<b>If you don't have a Windows computer, use this template and use your favorite text editor to make the `feeds.xml`.</b>
+<b>Windows 컴퓨터가 없다면, 이 템플릿을 이용해서 원하는 텍스트 에디터로 `feeds.xml`을 만드세요.</b>
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <rss>
-  <feed name="Example-Feed"><![CDATA[http://example.com/rss-feed]]></feed>
-  <feed name="One more Example-Feed!"><![CDATA[http://example.com/another_rss-feed]]></feed>
+  <feed name="예시 피드"><![CDATA[http://example.com/rss-feed]]></feed>
+  <feed name="예시 피드 하나 더!"><![CDATA[http://example.com/another_rss-feed]]></feed>
 </rss>
 ```
 
@@ -59,5 +59,5 @@ We recommend you use just a few feeds, because if you subscribe to a lot of feed
 If you're not receiving updates after a few days, you might need to subscribe to the RSS feeds again. Launch RSSMii from the Homebrew Channel again and it'll create brand new subscriptions.
 {: .notice--info}
 
-[Removing RSSMii](rssmii-remove)
+[RSSMii 제거](rssmii-remove)
 {: .notice--info}
