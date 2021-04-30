@@ -40,9 +40,9 @@ RiiConnect24 패쳐를 실행시킬 수 없다면, support@riiconnect24.net로 �
 ##### 섹션 I - RiiConnect24 패쳐 다운로드
 
 1. 상단의 링크를 클릭하여 패쳐가 있는 깃허브 페이지로 이동하세요.
-2. Download `RiiConnect24Patcher.bat` if you are on Windows, and `RiiConnect24Patcher.sh` if you are on a Unix system
+2. Windows에서 `RiiConnect24Patcher.bat`을 다운로드하거나 Unix 시스템에서 `RiiConnect24Patcher.sh`를 다운로드하세요
 
-##### Section II - Patching IOS
+##### 섹션 II - IOS 패치하기
 
 [If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
 {: .notice--info}
