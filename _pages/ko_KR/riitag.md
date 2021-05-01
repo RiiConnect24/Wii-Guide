@@ -22,10 +22,10 @@ Wii U에 RiiTag을 설치하고 싶나요? Wii U 메뉴에 연결하는 방법�
 
 ##### 섹션 I - 시작하기
 
-1. [Go to the RiiTag site.](https://tag.rc24.xyz/)
-2. Click `Log In` and log in with your Discord account.
-3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Click `Authorize`.
-4. Click `Edit Your Tag` and customize it to how you like. You can add a background, overlay, flag, nickname, Wii Number, and manually enter in games to show on your tag (not needed if you're using a USB Loader).
+1. [RiiTag 사이트로 이동합니다.](https://tag.rc24.xyz/)
+2. `Log In`을 클릭하고 디스코드 계정으로 로그인합니다.
+3. Discord에서 `RiiConnect24 Login`을 허용할지 물어보는 창이 뜰겁니다. `승인`을 누릅니다.
+4. `Edit Your Tag`을 누르고 당신이 좋아하는 대로 개인화하세요. You can add a background, overlay, flag, nickname, Wii Number, and manually enter in games to show on your tag (not needed if you're using a USB Loader).
 5. Click `Show Key` and make note of the key shown. This is not needed if you're using USB Loader GX, as the key will be in a downloadable file.
 6. Click `Submit` to save your changes.
 
