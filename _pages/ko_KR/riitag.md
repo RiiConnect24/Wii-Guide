@@ -29,7 +29,7 @@ Wii U에 RiiTag을 설치하고 싶나요? Wii U 메뉴에 연결하는 방법�
 5. `Show Key`를 누르고 키를 메모하세요. This is not needed if you're using USB Loader GX, as the key will be in a downloadable file.
 6. `Submit`을 눌러 변경사항을 저장하세요.
 
-RiiTag 키는 누구와도 공유하지 마세요! If you do, people can abuse your tag.
+RiiTag 키는 누구와도 공유하지 마세요! 만약 공유한다면, 사람들이 태그를 악용할 수 있습니다.
 {: .notice--warning}
 
 ##### Section II - Connecting Your USB Loader
