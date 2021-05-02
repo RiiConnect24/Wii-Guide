@@ -1,5 +1,5 @@
 ---
-title: RiiTag on Wii U
+title: Wii U를 위한 RiiTag
 ---
 
 {% include toc title="목차" %}
@@ -7,31 +7,31 @@ title: RiiTag on Wii U
 튜토리얼에 관한 질문이 있다면, [Wii Mini 해킹 디스코드 서버](https://discord.gg/rc24) 에 가입하거나(권장) [support@riiconnect24.net에 이메일을 보내세요](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You launch a plugin on your Wii U console, and the tag updates on-the-fly.
+RiiTag는 사용자 설정 가능하고 복합적인 게이머태그입니다. 게이머태그 (이미지 파일) 를 공유해서 친구들에게 플레이하고 있는 게임을 보여줄 수 있습니다! Wii U에서 플러그인을 실행하면, 즉시 태그가 업데이트됩니다.
 
 #### 필요한 것
 
-- A device capable of interacting with SD cards
-- Softmodded Wii U console
-   - If you have not softmodded your Wii U yet, [please do so](https://wiiu.hacks.guide). You cannot proceed without.
-- A Discord account
-- The latest release of [Wii U Plugin Loader](https://github.com/Maschell/WiiUPluginLoader/releases)
-- The latest release of [UTag plugin](https://github.com/RiiConnect24/UTag/releases)
-- The latest release of [Flump's Coldboot Haxchi Mod](https://www.dropbox.com/sh/gxkf72jia1adpyg/AACPMfGU2AyWUZmhU2awjSsca/Haxchi-CBHC%20Flump%20Mod.zip?dl=1)
-   - This Coldboot Haxchi mod is used in Section IV. You do not need to download it if you can't use Coldboot Haxchi, or you do not want Wii U Plugin Loader loading on startup.
+- SD 카드와 상호작용이 가능한 장치
+- 소프트모딩된 Wii U 콘솔
+   - Wii U를 소프트모딩하지 않았다면, [해 주세요](https://wiiu.hacks.guide). 건너뛰고는 계속 할 수 없습니다.
+- Discord 계정
+- [Wii U Plugin Loader](https://github.com/Maschell/WiiUPluginLoader/releases) 최신버전
+- [UTag plugin](https://github.com/RiiConnect24/UTag/releases) 최신버전
+- [Flump's Coldboot Haxchi Mod](https://www.dropbox.com/sh/gxkf72jia1adpyg/AACPMfGU2AyWUZmhU2awjSsca/Haxchi-CBHC%20Flump%20Mod.zip?dl=1) 최신버전
+   - 이 Coldboot Haxchi 모드는 섹션 IV에서 사용됩니다. Coldboot Haxchi를 사용할 수 없거나 Wii U Plugin Loader가 부팅될 때 켜지게 하지 않게 하려면 다운로드하지 않아도 됩니다.
 
 #### 방법
 
-##### Section I - Website instructions
+##### 섹션 I - 웹사이트 설명
 
-1. Go to the [RiiTag website](https://tag.rc24.xyz/).
-2. Click `Log In` and log in with your Discord account.
-3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Click `Authorize`.
-4. Click `Edit Your Tag` and customize it to how you like. You can add a background, overlay, flag, nickname, Wii Number, and manually enter in games to show on your tag (not needed if you're using a USB Loader).
-5. Click `Show Key` and make note of the key shown. This will be used later on in this guide.
-6. Click `Submit` to save your changes.
+1. [RiiTag 웹사이트](https://tag.rc24.xyz/)로 이동합니다.
+2. `Log In`을 클릭하고 디스코드 계정으로 로그인합니다.
+3. Discord에서 `RiiConnect24 Login`을 허용할지 물어보는 창이 뜰겁니다. `승인`을 누릅니다.
+4. `Edit Your Tag`을 누르고 당신이 좋아하는 대로 개인화하세요. 배경, 오버레이, 국기, 별명, Wii 번호를 추가할 수 있으며 태그에 나타날 게임을 직접 입력할 수 있습니다 (USB 로더를 사용 시 필요 없음).
+5. `Show Key`를 누르고 키를 메모하세요. 이 가이드에서 나중에 사용됩니다.
+6. `Submit`을 눌러 변경사항을 저장하세요.
 
-Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
+RiiTag 키는 누구와도 공유하지 마세요! If you do, people can abuse your tag.
 {: .notice--warning}
 
 ##### Section II - Setting things up on the SD card
