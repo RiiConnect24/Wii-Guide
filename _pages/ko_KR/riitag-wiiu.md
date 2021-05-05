@@ -63,9 +63,9 @@ RiiTag 키는 누구와도 공유하지 마세요! 만약 공유한다면, 사�
 5. Wii U에 SD 카드를 삽입하세요.
 6. 원하는 방법을 이용하여 (브라우저 취약점, Haxchi, 홈브루 런처 어플리케이션 등), Wii U 콘솔에서 **홈브루 런처**를 실행하세요.
 6. Coldboot Haxchi 앱을 실행하세요.
-7. Use the D-Pad to navigate the cursor to the game you previously installed Haxchi to and press the A button to install the Coldboot Haxchi mod.
-8. Turn off your Wii U, and restart it.
-9. At the `Autobooting...` screen, press Home to open the Coldboot Haxchi menu.
+7. Haxchi를 기존에 설치한 게임을 D Pad를 이용해 탐색하고 A 버튼을 눌러 Coldboot Haxchi 모드를 설치하세요.
+8. Wii U를 끄고, 재시작하세요.
+9. `Autobooting...` 화면에서, HOME 버튼을 눌러 Coldboot Haxchi 메뉴를 여세요.
 10. Use the +Control Pad on the Wii U GamePad to navigate to `Autoboot:`. Change it to SDCafiine.
 11. Finally, navigate to `WiiU System Menu`, and press A to be kicked to the Wii U Menu.
 
