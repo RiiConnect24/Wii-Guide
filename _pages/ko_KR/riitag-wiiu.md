@@ -66,12 +66,12 @@ RiiTag 키는 누구와도 공유하지 마세요! 만약 공유한다면, 사�
 7. Haxchi를 기존에 설치한 게임을 D Pad를 이용해 탐색하고 A 버튼을 눌러 Coldboot Haxchi 모드를 설치하세요.
 8. Wii U를 끄고, 재시작하세요.
 9. `Autobooting...` 화면에서, HOME 버튼을 눌러 Coldboot Haxchi 메뉴를 여세요.
-10. Use the +Control Pad on the Wii U GamePad to navigate to `Autoboot:`. Change it to SDCafiine.
-11. Finally, navigate to `WiiU System Menu`, and press A to be kicked to the Wii U Menu.
+10. Wii U 게임패드의 +컨트롤 패드를 이용하여 `Autoboot:`를 탐색하세요. SDCafiine으로 바꾸세요.
+11. 마지막으로, `WiiU System Menu`를 찾고, A를 눌러 Wii U 메뉴로 돌아가세요.
 
-You have now set up RiiTag on your Wii U! Now go play some games, and watch them show up on your RiiTag!
+Wii U에 RiiTag가 설정되었습니다! 이제 게임을 플레이하고, RiiTag에 나타나게 해보세요!
 {: .notice--success}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[사이트 네비게이션으로 계속하기](site-navigation)<br>당신이 좋아할만한 많은 튜토리얼이 있습니다.
 {: .notice--info}
 
