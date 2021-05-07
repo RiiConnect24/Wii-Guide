@@ -22,5 +22,5 @@ Si le programme d'installation HackMii ne se charge pas et se bloque (vous ne po
 
 Si vous ne parvenez toujours pas à le charger, essayez de supprimer vos cookies ou d'enregistrer des données pour la Chaîne Internet.
 
-[Continuer vers l'installation de la Chaîne Homebrew et de BootMii](hbc)
+[Continuer vers l'installation du Homebrew Channel et de BootMii](hbc)
 {: .notice--info}
