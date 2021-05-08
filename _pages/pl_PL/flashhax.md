@@ -22,5 +22,5 @@ Jeżeli instalator HackMii nie ładuje się a twoja konsola się zawiesza (nie m
 
 Jeśli Ci się dalej nie udaje, spróbuj skasować ciasteczka lub zapis Internet Channel'u.
 
-[Przejdź do instalacji Homebrew Channel](hbc)
+[Przejdź do instalacji Homebrew Channel oraz BootMii](hbc)
 {: .notice--info}

@@ -43,5 +43,8 @@ Ten exploit wymaga od Ciebie zmiany adresu DNS. Pozwoli Ci to połączenie z ser
 
 Jeżeli exploitowi str2hax nie uda się uruchomić exploitu i konsola się zawiesi (nie możesz ruszyć kursorem) lub jeżeli zajmuje to więcej niż 1-2 minuty, proszę zrestartuj [przytrzymaj przycisk zasilania na konsoli, odłącz od prądu], Twoją konsolę oraz spróbuj uruchomić exploit ponownie.
 
-[Przejdź do instalacji Homebrew Channel](hbc)
+Remember to set the `Auto-Obtain DNS` optiton back to `Yes` when you are finished, otherwise your Wii will not be able to access the internet.
+{: .notice--warning}
+
+[Przejdź do instalacji Homebrew Channel oraz BootMii](hbc)
 {: .notice--info}

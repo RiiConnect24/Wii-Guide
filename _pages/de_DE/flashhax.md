@@ -22,5 +22,5 @@ Falls der HackMii Installer nicht ausgeführt wird und stattdessen einfriert (de
 
 Falls du ihn immer noch nicht zum Laden bekommst, versuche deine Cookies oder die Speicherdaten des Internet-Kanals zu löschen.
 
-[Fahre nun fort mit der Homebrew-Kanal und BootMii-Installation](hbc)
+[Fahre fort mit der Installation des Homebrew-Kanals und BootMii](hbc)
 {: .notice--info}

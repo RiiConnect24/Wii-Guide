@@ -25,26 +25,26 @@ Wii U에 RiiTag을 설치하고 싶나요? Wii U 메뉴에 연결하는 방법�
 1. [RiiTag 사이트로 이동합니다.](https://tag.rc24.xyz/)
 2. `Log In`을 클릭하고 디스코드 계정으로 로그인합니다.
 3. Discord에서 `RiiConnect24 Login`을 허용할지 물어보는 창이 뜰겁니다. `승인`을 누릅니다.
-4. `Edit Your Tag`을 누르고 당신이 좋아하는 대로 개인화하세요. You can add a background, overlay, flag, nickname, Wii Number, and manually enter in games to show on your tag (not needed if you're using a USB Loader).
-5. Click `Show Key` and make note of the key shown. This is not needed if you're using USB Loader GX, as the key will be in a downloadable file.
-6. Click `Submit` to save your changes.
+4. `Edit Your Tag`을 누르고 당신이 좋아하는 대로 개인화하세요. 배경, 오버레이, 국기, 별명, Wii 번호를 추가할 수 있으며 태그에 나타날 게임을 직접 입력할 수 있습니다 (USB 로더를 사용 시 필요 없음).
+5. `Show Key`를 누르고 키를 메모하세요. 키가 다운로드 파일로 제공되므로 USB 로더 GX를 사용한다면 필요 없습니다.
+6. `Submit`을 눌러 변경사항을 저장하세요.
 
-Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
+RiiTag 키는 누구와도 공유하지 마세요! 만약 공유한다면, 사람들이 태그를 악용할 수 있습니다.
 {: .notice--warning}
 
-##### Section II - Connecting Your USB Loader
+##### 섹션 II - USB 로더 연결하기
 
-The steps to connect RiiTag to your USB Loader depend on what USB Loader you use.
+당신이 사용하는 USB 로더에 따라 RiiTag를 USB 로더에 연결하는 단계입니다.
 
-###### USB Loader GX
+###### USB 로더 GX
 
-1. Load USB Loader GX on your Wii.
-2. Go to `Settings` > `Features` and turn `Wiinnertag` on. Press `Yes` or `OK` to any dialogues that show up.
-3. Ensure that `Initialize Network` is turned on.
-4. Exit USB Loader GX.
-5. Insert the SD Card or USB device where your USB Loader GX data is into your computer.
-6. [Go to this page.](https://tag.rc24.xyz/Wiinnertag.xml)
-7. On your browser, right click, and click `Save As`.
+1. Wii에서 USB Loader GX를 실행하세요.
+2. `Settings`으로 이동하여 > `Features`에서 `Wiinnertag`를 켜세요. 뜨는 아무 창에나 `Yes`나 `OK`를 누르세요.
+3. `Initialize Network`가 켜진 것을 확인하세요.
+4. USB 로더 GX를 나가세요.
+5. USB 로더 GX의 데이터가 있는 SD 카드나 USB 드라이브를 컴퓨터에 삽입하세요.
+6. [이 페이지로 이동하세요.](https://tag.rc24.xyz/Wiinnertag.xml)
+7. 브라우저에서, 오른쪽 클릭 하고, `다음으로 저장`을 누르세요.
 8. Save the XML to `/apps/usbloader_gx`  folder on your SD Card or USB device, replacing the existing `Wiinnertag.xml`.
 9. You have now set up RiiTag. You can try loading any game now to see if it works correctly.
 

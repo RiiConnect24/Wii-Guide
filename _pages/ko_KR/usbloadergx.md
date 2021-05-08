@@ -1,5 +1,5 @@
 ---
-title: "USB Loader GX"
+title: "USB 로더 GX"
 ---
 
 {% include toc title="목차" %}
@@ -9,13 +9,13 @@ title: "USB Loader GX"
 
 This is a quick start guide on how to use USB Loader GX, a popular USB loader for the Wii that's used to play games from a USB drive.
 
-![USB Loader GX](/images/usbloadergx.png)
+![USB 로더 GX](/images/usbloadergx.png)
 
 #### 필요한 것
 
 * A Wii
 * A USB drive
-* [USB Loader GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
+* [USB 로더 GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
 
 Make sure you have installed [cIOS](/cios) before following this!
 {: .notice--info}

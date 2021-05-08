@@ -43,5 +43,8 @@ Este exploit exige que você configure seu DNS para se conectar a um servidor qu
 
 Se o Instalador HackMii não carregar e congelar (você não pode mover o seu cursor) ou não levar 1-2 minutos para ativar, por favor reinicie seu Wii e tente novamente o exploit.
 
+Remember to set the `Auto-Obtain DNS` optiton back to `Yes` when you are finished, otherwise your Wii will not be able to access the internet.
+{: .notice--warning}
+
 [Continue para a instalação do Homebrew Channel e BootMii](hbc)
 {: .notice--info}
