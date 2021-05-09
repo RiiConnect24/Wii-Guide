@@ -7,13 +7,16 @@ title: "Vamos Começar"
 Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor entra no [server do RiiConnect24 no Discord](https://discord.gg/rc24) (recomendado) ou [envia-nos um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Todos os exploits executam o HackMii Installer, e têm a mesmo resultado final.
+Even if your Wii has already been softmodded in the past, following these steps can still ensure that your softmod is up to date.
 {: .notice--info}
 
-Embora possas seguir este guide sem um cartão SD, não poderás criar ou restauras uma cópia de segurança da NAND usando o BootMii, e não serás capaz de usar algumas homebrew.
+All of the exploits run the HackMii Installer, and have the same end result.
 {: .notice--info}
 
-This guide is for the original Wii and Wii mini only (including the Wii Family Edition), with the latest firmware (4.3). Não uses isto numa Wii U (vWii)! Se queres instalar homebrew na Wii U, [ segue este guide](https://wiiu.hacks.guide).
+Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
+{: .notice--info}
+
+This guide is for the original Wii and Wii mini only (including the Wii Family Edition), with the latest firmware (4.3). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### Escolhe uma vulnerabilidade para utilizar
