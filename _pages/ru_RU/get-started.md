@@ -7,13 +7,16 @@ title: "Начало пути"
 Если вам нужна помощь относительно этого руководства, пожалуйста присоединитесь [к дискорд-серверу RiiConnect24](https://discord.gg/rc24) (рекомендовано), или [напишите нам по адресу support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Все эксплойты запускают HackMii Installer, и имеют тот же конечный результат.
+Even if your Wii has already been softmodded in the past, following these steps can still ensure that your softmod is up to date.
+{: .notice--info}
+
+All of the exploits run the HackMii Installer, and have the same end result.
 {: .notice--info}
 
 Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
 {: .notice--info}
 
-This guide is for the original Wii and Wii mini only (including the Wii Family Edition), with the latest firmware (4.3). Не используйте это на Wii U (vWii)! Если вы хотите установить homebrew на Wii U, [следуйте этому руководству](https://wiiu.hacks.guide).
+This guide is for the original Wii and Wii mini only (including the Wii Family Edition), with the latest firmware (4.3). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### Выберите Эксплойт
