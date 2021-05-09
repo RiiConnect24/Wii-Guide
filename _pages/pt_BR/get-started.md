@@ -7,18 +7,21 @@ title: "Introdução"
 Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Todos os exploits podem executar o instalador HackMii, e ter o mesmo resultado final.
+Even if your Wii has already been softmodded in the past, following these steps can still ensure that your softmod is up to date.
 {: .notice--info}
 
-Embora você possa seguir este guia sem um cartão SD, você não será capaz de criar ou restaurar um backup da NAND usando BootMii, e você não poderá usar algum homebrew.
+All of the exploits run the HackMii Installer, and have the same end result.
 {: .notice--info}
 
-Este guia é apenas para o Wii original e Wii mini (incluindo a Edição Wii Família), com o firmware mais recente (4.3). Não tente fazer isso em um Wii U (vWii)! Se você quer instalar homebrew em um vWii, [siga esse guia](https://wiiu.hacks.guide).
+Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
+{: .notice--info}
+
+This guide is for the original Wii and Wii mini only (including the Wii Family Edition), with the latest firmware (4.3). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### Escolha um exploit
 
-Esses exploits são ordenadas pela dificuldade mais fácil de usar.
+These exploits are sorted by easiest to hardest difficulty of use.
 
 - [str2hax](str2hax) - Explorar que usa a EULA do Wii
     * (Requer uma conexão com a Internet e alteração do servidor DNS)
