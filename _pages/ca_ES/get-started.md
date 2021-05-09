@@ -7,6 +7,9 @@ title: "Get Started"
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: . notícia--informació}
 
+Even if your Wii has already been softmodded in the past, following these steps can still ensure that your softmod is up to date.
+{: . notícia--informació}
+
 All of the exploits run the HackMii Installer, and have the same end result.
 {: . notícia--informació}
 
