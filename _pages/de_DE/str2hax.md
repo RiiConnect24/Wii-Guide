@@ -43,8 +43,5 @@ Damit dieser Exploit funktioniert, musst du deine DNS Einstellungen bearbeiten, 
 
 Wenn der HackMii Installer nicht lädt und sich deine Wii aufhängt (Du kannst deinen Zeiger nicht bewegen) oder es nicht 1-2 Minuten zum auslösen braucht, solltest du deine Wii neustarten und den Exploit erneut starten.
 
-Remember to set the `Auto-Obtain DNS` option back to `Yes` when you are finished, otherwise your Wii will not be able to access the internet.
-{: .notice--warning}
-
 [Fahre fort mit der Installation des Homebrew-Kanals und BootMii](hbc)
 {: .notice--info}
