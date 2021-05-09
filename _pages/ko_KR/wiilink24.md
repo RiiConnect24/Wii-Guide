@@ -4,26 +4,26 @@ title: "WiiLink24"
 
 {% include toc title="목차" %}
 
-WiiLink24 and all of its services (such as Wii no Ma) are not controlled or operated by RiiConnect24.
+WiiLink24와 모든 서비스 (Wii 노마 등) 는 RiiConnect24가 운영 및 관리하지 않습니다.
 {: .notice--warning}
 
-[WiiLink24](https://wiilink24.com/) lets you use the Japanese-exclusive Wii no Ma channel, and in the future will let you use the Digicam Print Channel and the Demae Channel again.
+[WiiLink24](https://wiilink24.com/)는 일본 전용 Wii 노마 채널을 쓸 수 있도록 하며, 미래에는 디지캠 인쇄 채널과 데마에 채널을 다시 사용할 수 있게 합니다.
 
 #### 필요한 것
 
 * SD 카드 및 USB 드라이브
 * 인터넷 연결이 있는 Wii
-* A Windows or Unix based computer
+* Windows 및 Unix 기반 컴퓨터
 * [WiiLink24 Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
 #### 방법
 
-##### Section I - Patching Wii no Ma
+##### 섹션 I - Wii 노마 패치하기
 
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+[WAD 설치 방법을 자세하게 알고 싶다면, 여기를 누르세요!](wiimodlite)
 {: .notice--info}
 
-1. Download the required files based on your OS. On Windows, run `WiiLink24Patcher.bat`. On Unix systems, launch terminal and type sh, then drag the `WiiLink24Patcher.sh` into the terminal and press enter.
+1. OS에 따라 필요한 파일을 다운로드하세요. Windows에서 `WiiLink24Patcher.bat`을 실행하세요. On Unix systems, launch terminal and type sh, then drag the `WiiLink24Patcher.sh` into the terminal and press enter.
 2. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`.
 3. For this guide, choose "`Install WiiLink24 on your Wii`"
 4. Select your region.
