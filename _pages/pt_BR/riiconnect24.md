@@ -7,7 +7,7 @@ title: "RiiConnect24"
 Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![Logo RiiConnect24](/images/WiiRC24Logo.jpg)
 
 [RiiConnect24](https://rc24.xyz/) allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail.
 
