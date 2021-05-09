@@ -23,11 +23,11 @@ WiiLink24와 모든 서비스 (Wii 노마 등) 는 RiiConnect24가 운영 및 �
 [WAD 설치 방법을 자세하게 알고 싶다면, 여기를 누르세요!](wiimodlite)
 {: .notice--info}
 
-1. OS에 따라 필요한 파일을 다운로드하세요. Windows에서 `WiiLink24Patcher.bat`을 실행하세요. On Unix systems, launch terminal and type sh, then drag the `WiiLink24Patcher.sh` into the terminal and press enter.
-2. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`.
-3. For this guide, choose "`Install WiiLink24 on your Wii`"
-4. Select your region.
-5. Connect the SD Card or USB Drive to your computer and select "`1`".
+1. OS에 따라 필요한 파일을 다운로드하세요. Windows에서 `WiiLink24Patcher.bat`을 실행하세요. Unix 시스템에서는 터미널을 연 뒤 sh를 입력하고 `WiiLink24Patcher.sh`를 터미널에 드래그 한 뒤 엔터를 누릅니다.
+2. 1을 눌러 "`Start`"을 선택하고 선택지를 `ENTER`키로 확인하세요.
+3. 이 가이드에서는, "`Install WiiLink24 on your Wii`"를 선택하세요.
+4. 국가를 선택하세요.
+5. SD 카드나 USB 드라이브를 연결하고 "`1`"을 누르세요.
 6. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
 7. Be patient...
 8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
