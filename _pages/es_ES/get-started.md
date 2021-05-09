@@ -7,13 +7,16 @@ title: "Prepárate"
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Todos los exploits ejecutan el HackMii Installer, y tienen el mismo resultado final.
+Even if your Wii has already been softmodded in the past, following these steps can still ensure that your softmod is up to date.
 {: .notice--info}
 
-Aunque puedes seguir esta guía sin una tarjeta SD, no podrás crear o restaurar una copia de seguridad NAND usando BootMii, y no podrás usar algunos homebrew.
+All of the exploits run the HackMii Installer, and have the same end result.
 {: .notice--info}
 
-This guide is for the original Wii and Wii mini only (including the Wii Family Edition), with the latest firmware (4.3). ¡No uses esta guía en el modo Wii de Wii U (vWii)! Si quieres instalar homebrew en un vWii, por favor sigue [esta guía](https://wiiu.hacks.guide).
+Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
+{: .notice--info}
+
+This guide is for the original Wii and Wii mini only (including the Wii Family Edition), with the latest firmware (4.3). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### Elige el exploit que quieres usar
