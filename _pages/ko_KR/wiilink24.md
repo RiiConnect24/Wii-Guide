@@ -28,26 +28,26 @@ WiiLink24와 모든 서비스 (Wii 노마 등) 는 RiiConnect24가 운영 및 �
 3. 이 가이드에서는, "`Install WiiLink24 on your Wii`"를 선택하세요.
 4. 국가를 선택하세요.
 5. SD 카드나 USB 드라이브를 연결하고 "`1`"을 누르세요.
-6. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
-7. Be patient...
-8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
-9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLink24Patcher.bat` to your SD Card or USB Device.
-10. Put your SD card or USB drive in your Wii.
+6. 기기가 성공적으로 인식되면, "`1`"을 누르세요. 만약 아니라면, SD 카드나 USB 드라이브에 `apps` 폴더가 있는지 확인하고 다시 시도하세요.
+7. 기다려주세요...
+8. 끝났다면, 안전하게 패쳐를 닫을 수 있습니다. 모든 파일은 SD 카드에 있습니다.
+9. SD 카드나 USB 장치에 모든 것을 복사하지 않았다면, `WiiLink24Patcher.bat` 옆에 있는 `WAD`와 `apps` 폴더를 SD 카드나 USB 장치에 복사하세요.
+10. Wii에 SD 카드나 USB 드라이브를 삽입하십시오.
 11. Wii에서 홈브루 채널을 실행하세요.
-12. Launch Wii Mod Lite.
+12. Wii Mod Lite를 실행하세요.
 13. Wii 리모컨의 +컨트롤 패드를 사용하여, `WAD Manager`를 찾으세요. 그 뒤 `wad` 폴더로 이동하세요.
-14. Select the Wii no Ma WAD and press A to install.
-15. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
-16. Launch Wii no Ma and enjoy!
+14. Wii 노마 WAD를 선택한 뒤 A를 눌러 설치하세요.
+15. 설치가 완료되고 나면, HOME 버튼을 눌러 홈브루 런처로 되돌아가세요.
+16. Wii 노마를 실행하고 즐기세요!
 
-For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
+PAL (유럽 Wii) 를 위하여<br>Wii 설정에서 TV 해상도를 60 HZ (480p/480i) 로 설정하세요. `화면 -> TV 해상도`에서 찾을수 있습니다 만약 하지 않는다면, 시야를 방해하는 분홍색 줄이 화면 밑에 나타납니다.
 {: .notice--info}
 
 [RiiConnect24로 계속하기](riiconnect24)<br> RiiConnect24는 WiiConnect24의 서비스 종료된 서비스를 사용할 수 있게 합니다. 여기에는 News, Forecast, Everybody Votes, Nintendo, Check Mii Out 채널 (대한민국 미출시) 이 포함되며 Wii 메일 역시 포함됩니다. 설치는 선택입니다.
 {: .notice--info}
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. 설치는 선택입니다.
+[Wiimmfi로 계속하기](wiimmfi)<br> Wiimmfi는 닌텐도 Wi-Fi 커넥션의 서비스 종료 이후로도 게임을 온라인으로 플레이 할 수 있게 합니다. 설치는 선택입니다.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[사이트 네비게이션으로 계속하기](site-navigation)<br>당신이 좋아할만한 많은 튜토리얼이 있습니다.
 {: .notice--info}
