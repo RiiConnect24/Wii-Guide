@@ -4,30 +4,30 @@ title: "RiiConnect24"
 
 {% include toc title="Table of Contents" %}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![Logo RiiConnect24](/images/WiiRC24Logo.jpg)
 
-This guide will help you install RiiConnect24 on your Dolphin installation.
+Este guia irá ajudá-lo a instalar o RiiConnect24 em sua instalação de Dolphin.
 
-If you need help for anything regarding this tutorial, please directly contact KcrPL#4625 on Discord, join the [RiiConnect24 Discord Server](https://discord.gg/rc24) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre em contato diretamente com o KcrPL#4625 [no servidor de Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ### Você precisará de
-* A computer with either Windows 7 or newer or any Unix based system
+* Um computador com Windows 7 ou mais recente ou com qualquer sistema baseado em Unix
 * [.VFF-File-Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
 * [Dolphin](https://dolphin-emu.org/download/)
-* [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+* [Patcher RiiConnect24](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### Instruções
 
-##### Section I - Installing Dolphin
+##### Seção I - Instalando Dolphin
 
-If you have Dolphin already installed, skip to Section II
+Se você tiver o Dolphin já instalado, pule para a Seção II
 {: .notice--info}
 
-1. Download the latest Dolphin development version.
-2. Extract the .7z file using a program like 7Zip or WinRAR.
-3. Start Dolphin
-4. Press on `Tools` -> `Perform Online System Update` -> Choose your region ![Perform Online System Update](/images/Dolphin_RC24/1.jpg)
+1. Baixe a última versão de desenvolvimento do Dolphin.
+2. Extraia o arquivo .7z usando um programa como 7Zip ou WinRAR.
+3. Inicie o Dolphin
+4. Pressione em `Ferramentas` -> `Executar Atualização do Sistema Online` -> Escolha sua região ![Perform Online System Update](/images/Dolphin_RC24/1.jpg)
 
 ##### Section II - Installing RiiConnect24.
 
