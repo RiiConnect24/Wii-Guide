@@ -20,11 +20,11 @@ str2hax는 Wii의 최종 사용자 라이선스 동의서를 이용해서 실행
 
 ##### 섹션 I - 연결
 
-This exploit requires you to set your DNS in order to connect to a server that contains the exploit.
+이 취약점은 취약점을 포함하는 서버에 연결하기 위해 DNS를 연결해야 합니다.
 
-1. Go to `Wii Options`. ![Wii Options](/images/RiiConnect24/Internet_1.png)
-2. Go to `Wii Settings`. ![Wii Settings](/images/RiiConnect24/Internet_2.png)
-3. Go to `Page 2`, then click on `Internet`. ![Internet](/images/RiiConnect24/Internet_3.png)
+1. `Wii 옵션`으로 이동하세요. ![Wii Options](/images/RiiConnect24/Internet_1.png)
+2. `Wii 설정`으로 이동하세요. ![Wii Settings](/images/RiiConnect24/Internet_2.png)
+3. `페이지 2`로 이동하고, `인터넷`을 클릭하세요. ![Internet](/images/RiiConnect24/Internet_3.png)
 4. Go to `Connection Settings`. ![Connection Settings](/images/RiiConnect24/Internet_4.png)
 5. Select your current connection. ![Current Connection](/images/RiiConnect24/Internet_5.png)
 6. Go to `Change Settings`. ![Change Settings](/images/RiiConnect24/Internet_6.png)
