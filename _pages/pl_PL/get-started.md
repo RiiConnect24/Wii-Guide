@@ -7,18 +7,21 @@ title: "Wprowadzenie"
 Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.).
 {: .notice--info}
 
-Wszystkie exploity uruchomią Instalator HackMii co powoduje ten sam rezultat.
+Even if your Wii has already been softmodded in the past, following these steps can still ensure that your softmod is up to date.
 {: .notice--info}
 
-Pomimo tego, że możesz skorzystać z tego poradnika bez posiadania karty SD, nie będziesz mógł tworzyć lub przywracać kopię zapasową NAND korzystając z BootMi oraz nie będziesz mógł korzystać z niektórych aplikacji homebrew.
+All of the exploits run the HackMii Installer, and have the same end result.
 {: .notice--info}
 
-Ten przewodnik dotyczy oryginalnych wersji Wii i Wii mini (w tym wersji Wii Family Edition), z najnowszym oprogramowaniem (4.3). Nie próbuj tego robić na Wii U (vWii)! Jeżeli chcesz zainstalować homebrew na Wii U, [podążaj za tym poradnikiem](https://wiiu.hacks.guide).
+Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
+{: .notice--info}
+
+This guide is for the original Wii and Wii mini only (including the Wii Family Edition), with the latest firmware (4.3). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### Wybierz z jakiego exploitu chcesz skorzystać:
 
-Posortowaliśmy te exploity od najłatwiejszego do najtrudniejszego.
+These exploits are sorted by easiest to hardest difficulty of use.
 
 - [str2hax](str2hax) - Exploit korzystający z umowy licencyjnej użytkownika końcowego. (EULA)
     * (Wymaga połączenia z Internetem oraz zmiany adresu serwera DNS)
