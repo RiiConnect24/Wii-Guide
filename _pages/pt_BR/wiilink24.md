@@ -35,7 +35,7 @@ WiiLink24 and all of its services (such as Wii no Ma) are not controlled or oper
 10. Put your SD card or USB drive in your Wii.
 11. Inicie o Homebrew Channel no Wii.
 12. Launch Wii Mod Lite.
-13. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+13. Usando o +Control Pad no seu Controle Remoto do Wii, navegue para `WAD Manager`, depois navegue até a pasta `wad`.
 14. Select the Wii no Ma WAD and press A to install.
 15. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 16. Launch Wii no Ma and enjoy!
