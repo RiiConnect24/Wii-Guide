@@ -7,21 +7,21 @@ title: "Wprowadzenie"
 Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.).
 {: .notice--info}
 
-Even if your Wii has already been softmodded in the past, following these steps can still ensure that your softmod is up to date.
+Nawet jeśli już kiedyś przerabiałeś swoje Wii w przeszłości, ten poradnik pozwoli Ci się upewnić że twoja przeróbka jest aktualna.
 {: .notice--info}
 
-All of the exploits run the HackMii Installer, and have the same end result.
+Wszystkie exploity dają ten sam rezultat - uruchomienie instalatora HackMii.
 {: .notice--info}
 
-Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
+Pomimo tego, że możesz podążać za tym poradnikiem bez posiadania karty SD, nie będziesz mógł stworzyć lub przywrócić kopii zapasowej pamięci NAND korzystając z BootMii oraz nie będziesz mógł korzystać z każdego homebrew.
 {: .notice--info}
 
-This guide is for the original Wii and Wii mini only (including the Wii Family Edition), with the latest firmware (4.3). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
+Ten poradnik jest przeznaczony dla oryginalnych Wii oraz Wii Mini (również Wii Family Edition), na najnowszej wersji oprogramowania (4.3). Nie korzystaj z tego poradnika dla konsoli Wii U (vWii)! Jeżeli chcesz zainstalować homebrew na Wii U, [skorzystaj z tego poradnika](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### Wybierz z jakiego exploitu chcesz skorzystać:
 
-These exploits are sorted by easiest to hardest difficulty of use.
+Posortowaliśmy te exploity od najłatwiejszego do najtrudniejszego.
 
 - [str2hax](str2hax) - Exploit korzystający z umowy licencyjnej użytkownika końcowego. (EULA)
     * (Wymaga połączenia z Internetem oraz zmiany adresu serwera DNS)
