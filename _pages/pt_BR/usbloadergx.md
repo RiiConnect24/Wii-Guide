@@ -56,7 +56,7 @@ There is no "guide" to use the USB Loader GX app. This is intended to help you l
 
 There are multiple buttons in the USB Loader GX interface.
 
-###### Main Menu
+###### Menu Principal
 
 These are the functions the buttons found on the top of the main menu do, from left to right:
 
