@@ -48,37 +48,37 @@ Utilizando o RiiConnect24 Patcher que você deveria ter baixado antes de [O que 
 1. Execute `RiiConnect24Patcher.bat` no Windows ou `RiiConnect24Patcher. h` em sistemas Unix digitando bash e arraste `RiiConnect24Patcher.sh` no terminal e depois pressione enter. Deve se parecer com este `bash RiiConnect24Patcher.sh`. Siga as instruções na tela
 
 2. Confirme que depois de executar através do patcher, você tem 3 pastas. Eles estarão na mesma pasta onde o `RiiConnect24Patcher.bat/sh` está e no seu cartão SD (é claro, somente se você selecionou uma opção no patcher para o fazer).
-   - If the patcher did not move the file to the SD Card, move these 3 folders to the root of your SD card.
+   - Caso o patcher não moveu o arquivo para o cartão SD, mova essas 3 pastas para a raiz do seu cartão SD.
 
-##### Section II - Installing the newly patched WADs
+##### Seção II - Instalando os WADs recém patcheados
 
-1. Open the Homebrew Channel
-2. Launch Wii Mod Lite
-3. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
-4. Highlight all WADs with `RiiConnect24` in the name, and press + to select them. When all of them are selected, press A twice to install the WADs.
-5. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+1. Inicie o Homebrew Channel
+2. Inicie o Wii Mod Lite
+3. Usando o +Control Pad no seu Controle Remoto do Wii, navegue para `WAD Manager`, depois navegue até a pasta `wad`.
+4. Destaque todas as WADs com `RiiConnect24` no nome e pressione + para selecioná-las. Quando todos forem selecionados, pressione a duas vezes para instalar as WADs.
+5. Depois que eles forem instalados com sucesso, pressione o botão HOME para sair para o Homebrew Channel.
 
-##### Section III - Patching 43db for 16:9 (optional)
+##### Seção III - Patch 43db para 16:9 (opcional)
 
-1. Open the Homebrew Channel
-2. Launch the ww-43db-patcher
+1. Inicie o Homebrew Channel
+2. Inicie o ww-43db-patcher
 
-If you install a theme, you will have to run the ww-43db-patcher once more
+Se você instalar um tema, você terá que executar o ww-43db-patcher mais uma vez
 {: .notice--info}
 
-##### Section IV - Using RiiConnect24
+##### Seção II - Usando o RiiConnect24
 
-After following the above sections, you're almost able to utilize RiiConnect24 on your Wii U. You just need to perform the following steps **after every vWii reboot**.
+Depois de seguir as seções acima, você quase poderá utilizar o RiiConnect24 em seu Wii U. Você só precisa executar os seguintes passos **após cada reinicialização do vWii**.
 
-1. On the vWii's **Wii Menu**, launch the **ConnectMii** channel.
-* This will enable the WiiConnect24 and Standby Connection flags required by the WiiConnect24 Channels.
-2. Launch the WiiConnect24 Channels
-* You should now be able to utilize all of the WiiConnect24 Channels you have installed!
+1. No vWii **Wii Menu**, abra o canal **ConnectMii**.
+* Isto ativará as "flags" de WiiConnect24 e da Conexão em Standby, necessárias pelos canais WiiConnect24.
+2. Abra os canais WiiConnect24
+* Agora você poderá utilizar todos os canais WiiConnect24 que você instalou!
 
-#### What's currently working?
-The following RiiConnect24 services are **working** on the vWii:
+#### O que está funcionando atualmente?
+Os seguintes serviços RiiConnect24 estão **funcionando** no vWii:
 * News Channel
-    * This channel is affected by the timestamp issue. The "Last Updated" and article timestamps will be incorrect.
+    * Este canal é afetado pela questão do registro de data/hora. As datas da "última atualização" e do artigo estarão incorretas.
     * The banner data is also known to not work, returning `Unable to obtain data.`
 * Canal do Tempo
 * Nintendo Channel
