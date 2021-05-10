@@ -1,5 +1,5 @@
 ---
-title: RiiConnect24 vWii Guide
+title: Guia Riiconnect24 vWii
 ---
 
 {% include toc title="Table of Contents" %}
@@ -9,45 +9,45 @@ Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [
 
 ![Logo RiiConnect24](/images/WiiRC24Logo.jpg)
 
-Guide to installing [RiiConnect24](https://rc24.xyz) on your vWii (Virtual Wii on Wii U) with: CMOC/MCC, Nintendo Channel, EVC and News Channel along with forced 4:3 aspect ratio patching.
+Guia para instalação do [RiiConnect24](https://rc24.xyz) no seu vWii (Virtual Wii na Wii U) com: CMOC/MCC, Nintendo Channel, EVC e News Channel junto com correções forçadas de proporção 4:3.
 
-Since certain features found in the original Wii are not present in the vWii, we can only partially utilize RiiConnect24. See [what's currently working](#whats-currently-working) for details.
+Como certos recursos encontrados no Wii original não estão presentes no vWii, nós só podemos utilizar parcialmente o RiiConnect24. Veja [o que atualmente está funcionando](#whats-currently-working) para detalhes.
 {: .notice--warning}
 
-#### Warnings
+#### Avisos
 
-We are **NOT** responsible if you brick, or damage your console in any way whatsoever. If you follow this guide exactly, you shouldn't have any problems.
+Nós **NÃO** somos responsáveis se você brickar, ou danificar seu console de qualquer forma. Se você seguir este guia exatamente, não deve ter nenhum problema.
 {: .notice--warning}
 
-Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on Wii U). If you're looking for instructions for a Nintendo Wii, use [wii.guide/riiconnect24](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [wii.guide/riiconnect24-dolphin](/riiconnect24-dolphin)
+**NÃO** execute este guia em qualquer outro console que não seja o vWii (Virtual Wii no Wii U). Se você estiver procurando instruções para um Nintendo Wii, use o [wii.guide/riiconnect24](riiconnect24). Se você gostaria de realizar este guia no emulador Dolphin, use [wii.guide/riiconnect24-dolphin](/riiconnect24-dolphin)
 {: .notice--warning}
 
 #### Você precisará de
 
-* A PC or mobile device with internet access and the ability to interact with SD cards.
-* An SD card formatted as FAT32 (at least 2GB) with enough available space. SDHC or SDXC cards formatted as FAT32 can be known to work.
-* A Wii U console capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
+* Um PC ou dispositivo móvel com acesso à internet e capacidade de interagir com cartões SD.
+* Um cartão SD formatado como FAT32 (pelo menos 2GB) com espaço disponível suficiente. Cartões SDHC ou SDXC formatados como FAT32 são conhecidos por funcionar.
+* Um console Wii U capaz de iniciar o Homebrew Launcher (seja através do exploit do navegador web, Haxchi ou Coldboot Haxchi). **Se você não tiver um console Wii U modificado, por favor siga [wiiuguide.xyz](https://wiiuguide.xyz), bem como [o guia de modding virtual do Wii](https://wiiuguide.xyz/#/vwii-modding) e então volte.**
 * [Patcher RiiConnect24](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-After following the above linked guide, you should have:
-* A vWii NAND backup and keys (keep these stored safely!!)
-* The Homebrew Channel installed
-* d2x cIOS installed (IOS249, IOS250 and IOS251)
-* IOS80 patched
+Depois de seguir o guia vinculado acima, você deve ter:
+* Um backup da NAND do vWii (mantenha as chaves armazenadas de forma segura!!)
+* O Homebrew Channel instalado
+* d2x cIOS instalado (IOS249, IOS250 e IOS251)
+* IOS80 patcheado
 {: .notice--info}
 
 #### Instruções
 
-If you use cannot use the patcher, please [follow the manual guide](https://pad.snopyta.org/s/rJ2N0B1XU), to install RiiConnect24. The end result is the same regardless of the method followed.
+Se você não conseguir usar o patcher, por favor [siga o guia manual](https://pad.snopyta.org/s/rJ2N0B1XU)para instalar o RiiConnect24. O resultado final é o mesmo, independentemente do método seguido.
 {: .notice--info}
 
-##### Section I - Running the patcher
+##### Seção I - Executando o patcher
 
-Using the RiiConnect24 Patcher you should've downloaded earlier in [What you need](#what-you-need), you will be downloading and patching IOS31, News, Everybody Votes, Nintendo and Check Mii Out Channels for use on your vWii.
+Utilizando o RiiConnect24 Patcher que você deveria ter baixado antes de [O que você precisa](#what-you-need), você estará baixando e atualizando a IOS31, News, Everybody Votes, Nintendo e Check Mii Out Channels para uso no seu vWii.
 
-1. Run `RiiConnect24Patcher.bat` on Windows or `RiiConnect24Patcher.sh` on Unix systems by typing bash then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this `bash RiiConnect24Patcher.sh`. Follow the on screen instructions
+1. Execute `RiiConnect24Patcher.bat` no Windows ou `RiiConnect24Patcher. h` em sistemas Unix digitando bash e arraste `RiiConnect24Patcher.sh` no terminal e depois pressione enter. Deve se parecer com este `bash RiiConnect24Patcher.sh`. Siga as instruções na tela
 
-2. Confirm that after running through the patcher, you have 3 folders. They will be in the same folder where `RiiConnect24Patcher.bat/sh` is and on your SD Card (of course, only if you selected an option in the patcher to do so).
+2. Confirme que depois de executar através do patcher, você tem 3 pastas. Eles estarão na mesma pasta onde o `RiiConnect24Patcher.bat/sh` está e no seu cartão SD (é claro, somente se você selecionou uma opção no patcher para o fazer).
    - If the patcher did not move the file to the SD Card, move these 3 folders to the root of your SD card.
 
 ##### Section II - Installing the newly patched WADs
