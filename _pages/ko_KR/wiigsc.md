@@ -9,7 +9,7 @@ title: "Wii 게임 바로가기 만들기"
 
 USB 로더를 사용하시고 게임 바로가기가 Wii 메뉴에서 실행되길 원하시나요? 그렇다면 기존에 Crap이라고 불렸던 WiiGSC (Wii 게임 바로가기 생성기) 를 시도하세요.
 
-벽돌을 방지하기 위해 [Priiloader 설치는 필수입니다](/priiloader). 또한, BootMii도 설치하세요 (초기형 Wii인 경우 Boot2에). Installing brick protection along with following the guide correctly should keep you safe from bricks. DO NOT CONTINUE UNTIL YOU HAVE INSTALLED PRIILOADER AND BOOTMII!
+벽돌을 방지하기 위해 [Priiloader 설치는 필수입니다](/priiloader). 또한, BootMii도 설치하세요 (초기형 Wii인 경우 Boot2에). 이 가이드를 따르며 올바르게 벽돌 보호 기능을 설치하면 벽돌으로부터 안전해질 겁니다. BOOTMII와 PRIILOADER를 설치하지 않고 계속하지 마십시오!!
 {: .notice--warning}
 
 Do NOT make a shortcut for the games "Mario Party 9" or "A Boy and His Blob". It will brick your Wii.
@@ -17,7 +17,7 @@ Do NOT make a shortcut for the games "Mario Party 9" or "A Boy and His Blob". It
 
 #### 필요한 것
 
-* A Wii
+* Wii
 * A USB drive.
 * A WAD Manager (Wii Mod Lite is recommended).
 * A Windows computer.
