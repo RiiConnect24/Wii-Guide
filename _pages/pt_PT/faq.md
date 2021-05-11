@@ -38,3 +38,9 @@ A seguir está uma lista de coisas que podem potencialmente **BRICKAR** a tua vW
 * Instalar BootMii e/ou Priiloader/Preloader.
 * Falha durante a instalação de títulos cruciais do sistema/IOS (ex. falta de energia).
 * Modificar a vWii NAND sem saber o que estás a fazer.
+
+
+
+### How can I remove parental controls?
+
+The [mkey generator](https://mkey.salthax.org) can generate the code required to remove parental controls.
