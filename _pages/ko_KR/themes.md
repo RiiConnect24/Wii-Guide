@@ -4,7 +4,7 @@ title: "Wii 메뉴 테마 설치하기"
 
 {% include toc title="목차" %}
 
-튜토리얼에 관한 질문이 있다면, [Wii Mini 해킹 디스코드 서버](https://discord.gg/rc24) 에 가입하거나(권장) [support@riiconnect24.net에 이메일을 보내세요](mailto:support@riiconnect24.net).
+튜토리얼에 관한 질문이 있다면, [RiiConnect24 디스코드 서버](https://discord.gg/rc24) 에 가입하거나(권장) [support@riiconnect24.net에 이메일을 보내세요](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 지루하고 평범한 Wii 메뉴에 지쳐서 멋진 테마를 원하시나요? 이 튜토리얼은 Wii 메뉴에 새 테마를 적용하는 방법을 알려줍니다!
@@ -52,11 +52,11 @@ vWii와 Wii U의 국가만을 위해 만들지 않은 이상 vWii (Wii U) 에 �
 * 아마도 4.X라 적힌 링크를 고르셨을 겁니다. 그 말은 곧 이 테마는 Wii 메뉴 4.1, 4.2, 4.3에서 작동한단 뜻입니다.
 * 몇몇 테마는 국가에 따라 다른 링크가 있으므로 Wii의 국가에 맞는 것을 선택하세요.
 * Wii 메뉴에 관한 더 많은 리소스도 있으나, Csm 형태로 있을 수 있습니다 (Wii에 바로 설치 가능). CSM이 당신의 Wii 메뉴와 버전과 국가에 맞지 않는다면, ThemeMii 모드로 mym으로 변환한 뒤 이 가이드를 따라 당신의 Wii 메뉴 버전과 국가에 맞는 csm 파일로 변경하에요.
-* Once you downloaded the theme you want and double-checked you got the right one, open up ThemeMii Mod.
+* 테마를 받고 올바른지 확인했다면 ThemeMii 모드를 실행하세요.
 
-##### Section II - Building the Theme
+##### 섹션 II - 테마 빌드하기
 
-1. A dialog box will pop up telling you to only install themes if you have brick protection. If you installed Priiloader and/or BootMii (see the warning at the start of this guide), press OK.
+1. 벽돌 보호가 있을때만 테마를 설치하라는 창이 뜰겁니다. If you installed Priiloader and/or BootMii (see the warning at the start of this guide), press OK.
 2. Go to `Tools` > `Download Base App` > Version of your Wii Menu > Region of your Wii Menu
 3. A dialog box will pop up asking you to enter in a value to create a key. Enter in what it says, it will create a key that will be used to decrypt the Wii Menu contents from Nintendo's servers.
 4. A file selection box will ask you where to save the .app file (that is the Wii Menu content file it downloaded). Save it to the directory where ThemeMii is in.
