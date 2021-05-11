@@ -7,6 +7,9 @@ title: "Get Started"
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: . notícia--informació}
 
+Even if your Wii has already been softmodded in the past, following these steps can still ensure that your softmod is up to date.
+{: . notícia--informació}
+
 All of the exploits run the HackMii Installer, and have the same end result.
 {: . notícia--informació}
 
@@ -21,11 +24,11 @@ This guide is for the original Wii and Wii mini only (including the Wii Family E
 These exploits are sorted by easiest to hardest difficulty of use.
 
 - [str2hax](str2hax) - Exploit that uses the Wii EULA
-    * (Requires an Internet connection and changing the DNS server)
+    * Requires an Internet connection and changing the DNS server
 - [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board
-    * (Requires an SD card)
+    * Requires an SD card
 - [FlashHax](flashhax) - Exploit that uses the Internet Channel
-    * (Requires the Internet Channel installed, and an Internet connection)
+    * Requires the Internet Channel installed, and an Internet connection
 - [BlueBomb](bluebomb) - Exploit that uses Bluetooth
     * Requires a computer with Bluetooth and GNU/Linux, as well as a USB storage device
     * This is the only exploit that works on the **Wii mini**

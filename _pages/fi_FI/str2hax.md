@@ -43,8 +43,5 @@ This exploit requires you to set your DNS in order to connect to a server that c
 
 Jos HackMii Installer ei avaudu ja sen sijaan jäätyy (et voi liikuttaa kursoriasi) tai sillä ei mene 1-2 minuuttia laueta, käynnistä Wii:si uudelleen ja kokeile käynnistää exploit uudelleen.
 
-Remember to set the `Auto-Obtain DNS` optiton back to `Yes` when you are finished, otherwise your Wii will not be able to access the internet.
-{: .notice--warning}
-
 [Jatka Homebrew Channelin ja BootMiin asennukseen](hbc)
 {: .notice--info}

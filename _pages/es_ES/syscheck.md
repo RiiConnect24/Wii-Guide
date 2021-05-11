@@ -4,7 +4,7 @@ title: "Realizar un SysCheck"
 
 {% include toc title="Tabla de contenido" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si necesitas ayuda con cualquier cosa en este tutorial, por favor entras [el servidor Discord de RiiConnect24](https://discord.gg/rc24) (recomendado) o [envias un correo electronico a support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Un SysCheck hace una lista de todos los IOS y cIOS que están instalados en tu consola, junto con información acerca de cada uno de ellos. Tambien te proporciona otra información útil. Cuando tienes problemas con los IOS de tu consola, alguien podría pedirte que hagas un SysCheck.

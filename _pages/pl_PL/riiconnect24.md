@@ -55,14 +55,10 @@ Jeśli dalej nie możesz skorzystać z RiiConnect24 Patcher'a, napisz maila do n
 6. Wybierz swój region. ![Wybierz swój region](/images/RC24_Patcher/5.JPG)
 7. Skoro tu już jesteśmy, RiiConnect24 Patcher może opcjonalnie dodatkowo pobrać kilka innych kanałów, które nie korzystają z RiiConnect24. `[X]` reprezentuje wybraną opcję. Po prostu naciśnij 5 i `ENTER` , jeśli nie jesteś zainteresowany. ![Dodatkowe opcjonalne kanały](/images/RC24_Patcher/6.JPG)
 7. Podłącz kartę SD lub urządzenie USB do komputera oraz wybierz "`1`". ![Włącz kopiowanie na kartę SD](/images/RC24_Patcher/7.JPG)
-8. Jeżeli Twoje urządzenie zostało pomyślnie wykryte, wybierz "`1`". Jeśli nie, upewnij się, że istnieję folder o nazwie `apps<code> na Twojej karcie SD lub urządzeniu USB i spróbuj ponownie.
-<img src="/images/RC24_Patcher/8.JPG" alt="Pomyślne wykrycie" /></p></li>
-<li><p spaces-before="0">Bądź cierpliwy...
-<img src="/images/RC24_Patcher/9.JPG" alt="Patchuje się!" /></p></li>
-<li><p spaces-before="0">Po zakończeniu, prosimy o przesłanie opinii do nas. Zajmie to minutę. Upewnij się, że dołączysz wiadomość, czytamy każdą z nich! Jest to anonimowe. Jeśli nie, zamknij patcher. Wszystkie pliki powinny być już na Twojej karcie SD.
-<img src="/images/RC24_Patcher/10.JPG" alt="Gotowe!" />
-<img src="/images/RC24_Patcher/11.PNG" alt="Pliki skopiowane" /></p></li>
-<li><p spaces-before="0">Jeżeli patcher nie skopiował wszystkiego automatycznie na Twoją kartę SD lub urządzenie USB, skopiuj folder <code>WAD` oraz `apps` (znajdują się w tym samym folderze co RiiConnect24Patcher.bat) na Twoją kartę SD lub urządzenie USB.
+8. Jeżeli Twoje urządzenie zostało pomyślnie wykryte, wybierz "`1`". Jeśli nie, upewnij się, że istnieję folder o nazwie `apps` na Twojej karcie SD lub urządzeniu USB i spróbuj ponownie. ![Pomyślne wykrycie](/images/RC24_Patcher/8.JPG)
+9. Bądź cierpliwy... ![Patchuje się!](/images/RC24_Patcher/9.JPG)
+10. Po zakończeniu, prosimy o przesłanie opinii do nas. Zajmie to minutę. Upewnij się, że dołączysz wiadomość, czytamy każdą z nich! Jest to anonimowe. Jeśli nie, zamknij patcher. Wszystkie pliki powinny być już na Twojej karcie SD. ![Gotowe!](/images/RC24_Patcher/10.JPG) ![Pliki skopiowane](/images/RC24_Patcher/11.PNG)
+11. Jeżeli patcher nie skopiował wszystkiego automatycznie na Twoją kartę SD lub urządzenie USB, skopiuj folder `WAD` oraz `apps` (znajdują się w tym samym folderze co RiiConnect24Patcher.bat) na Twoją kartę SD lub urządzenie USB.
 12. Włóż kartę SD lub urządzenie USB do Twojego Wii.
 13. Otwórz Homebrew Channel na Twoim Wii.
 14. Uruchom Wii Mod Lite.
