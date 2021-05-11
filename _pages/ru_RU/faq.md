@@ -27,3 +27,6 @@ title: "Вопросы и Ответы"
 * Установка BootMii и/или Priiloader/Preloader.
 * Неудача во время установки ключевой системы/IOS программы (например отключение электричества).
 * Модифицировать vWii NAND без понятия того, что вы делаете.
+
+### How can I remove parental controls?
+The [mkey generator](https://mkey.salthax.org) can generate the code required to remove parental controls.
