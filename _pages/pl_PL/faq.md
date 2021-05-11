@@ -27,3 +27,6 @@ Poniższa lista przedstawia listę rzeczy, które mogą potencjalnie **ZBRICKOWA
 * Instalowanie BootMii i/lub Priiloadera/Preloadera.
 * Błąd podczas instalacji ważnych elementów systemu/plików IOS (np. awaria prądu)
 * Modyfikowanie pamięci NAND vWii bez wiedzy co robisz.
+
+### How can I remove parental controls?
+The [mkey generator](https://mkey.salthax.org) can generate the code required to remove parental controls.
