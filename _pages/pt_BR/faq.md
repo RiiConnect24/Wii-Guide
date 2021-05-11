@@ -27,3 +27,6 @@ A lista a seguir apresenta itens que podem provavelmente **BRICKAR** seu vWii (n
 * Instalar BootMii e/ou Priloader/Preloader.
 * Falha durante a instalação de títulos cruciais do sistema/IOS (falta de energia, por exemplo).
 * Modificar a NAND vWii sem saber o que está fazendo.
+
+### How can I remove parental controls?
+The [mkey generator](https://mkey.salthax.org) can generate the code required to remove parental controls.
