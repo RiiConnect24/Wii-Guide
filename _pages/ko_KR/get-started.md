@@ -24,11 +24,11 @@ This guide is for the original Wii and Wii mini only (including the Wii Family E
 These exploits are sorted by easiest to hardest difficulty of use.
 
 - [str2hax](str2hax) - Wii 이용약관을 이용한 취약점
-    * (인터넷 연결이 필요하고 DNS 서버를 변경해야 함)
+    * Requires an Internet connection and changing the DNS server
 - [LetterBomb](letterbomb) - Wii 메시지 보드를 이용한 취약점
-    * (SD 카드가 필요함)
+    * Requires an SD card
 - [FlashHax](flashhax) - Internet Channel (대한민국 미출시) 을 이용한 취약점
-    * (인터넷 채널 설치가 필요하고 인터넷 연결이 필요함)
+    * Requires the Internet Channel installed, and an Internet connection
 - [BlueBomb](bluebomb) - 블루투스를 이용한 취약점
     * 블루투스가 있는 GNU/Linux 컴퓨터가 필요하며 USB 저장 장치도 필요함.
     * **Wii 미니**에서 유일하게 작동하는 취약점입니다.
