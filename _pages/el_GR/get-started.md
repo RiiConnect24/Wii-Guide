@@ -24,11 +24,11 @@ This guide is for the original Wii and Wii mini only (including the Wii Family E
 These exploits are sorted by easiest to hardest difficulty of use.
 
 - [str2hax](str2hax) - Ευπάθεια που χρησιμοποιεί το EULA του Wii
-    * (Requires an Internet connection and changing the DNS server)
+    * Requires an Internet connection and changing the DNS server
 - [LetterBomb](letterbomb) - Ευπάθεια που χρησιμοποιούμε μέσω του Πίνακα Μηνυμάτων του Wii
-    * (Απαιτείται κάρτα SD)
+    * Requires an SD card
 - [FlashHax](flashhax) - Ευπάθεια που χρησιμοποιούμε μέσω του Καναλιού Internet
-    * (Requires the Internet Channel installed, and an Internet connection)
+    * Requires the Internet Channel installed, and an Internet connection
 - [BlueBomb](bluebomb) - Ευπάθεια που χρησιμοποίει Bluetooth
     * Requires a computer with Bluetooth and GNU/Linux, as well as a USB storage device
     * Αυτή είναι η μόνη ευπάθεια που μπορούμε να χρησιμοποιήσουμε στο **Wii mini**
