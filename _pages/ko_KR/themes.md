@@ -1,5 +1,5 @@
 ---
-title: "Installing Wii Menu Themes"
+title: "Wii 메뉴 테마 설치하기"
 ---
 
 {% include toc title="목차" %}
@@ -7,51 +7,51 @@ title: "Installing Wii Menu Themes"
 튜토리얼에 관한 질문이 있다면, [Wii Mini 해킹 디스코드 서버](https://discord.gg/rc24) 에 가입하거나(권장) [support@riiconnect24.net에 이메일을 보내세요](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Are you tired of the boring, plain white theme on your Wii Menu, and want a cool theme instead? This tutorial will help you get a new theme for your Wii Menu!
+지루하고 평범한 Wii 메뉴에 지쳐서 멋진 테마를 원하시나요? 이 튜토리얼은 Wii 메뉴에 새 테마를 적용하는 방법을 알려줍니다!
 
-In the case of a brick, [installing Priiloader is a must](priiloader). Also, install BootMii (as Boot2 if you have an early Wii). Installing brick protection along with following the guide correctly should keep you safe from bricks. DO NOT CONTINUE UNTIL YOU HAVE INSTALLED PRIILOADER AND BOOTMII!
+벽돌을 방지하기 위해 [Priiloader 설치는 필수입니다](priiloader). 또한, BootMii도 설치하세요 (초기형 Wii인 경우 Boot2에). 이 가이드를 따르며 올바르게 벽돌 보호 기능을 설치하면 벽돌으로부터 안전해질 겁니다. BOOTMII와 PRIILOADER를 설치하지 않고 계속하지 마십시오!!
 {: .notice--warning}
 
-Do not install a custom theme on vWii (Wii U), unless it has been formatted specifically for the vWii and your Wii U's region! Check out [this GBATemp post](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) for more on vWii themes.
+vWii와 Wii U의 국가만을 위해 만들지 않은 이상 vWii (Wii U) 에 커스텀 테마를 설치하지 마십시오! [이 GBATemp 글](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/)을 확인하여 vWii 테마에 관해 알아보세요.
 {: .notice--warning}
 
-For safety purposes, please do not use any other version of MyMenuify than the one linked here, as MyMenuify Mod is the safest way to install a theme.
+가장 안전한 테마 설치 방법은 MyMenuify 모드입니다. 안전을 위해, 여기에 링크된 MyMenuify 외의 버전을 사용하지 마십시오.
 {: .notice--info}
 
-Do not use any other version of ThemeMii than the one linked here, as ThemeMii Mod allows you to make a theme for Wii Menu version 4.3, other versions may not.
+이 버전의 ThemeMii 모드는 4.3 Wii 메뉴를 위한 테마를 만드므로, 여기에 링크된 ThemeMii 외의 버전을 설치하지 마세요. 타 버전은 그렇지 않을 수도 있습니다.
 {: .notice--info}
 
-We recommend you [install cIOS](cios) before continuing.
+계속하기 전에 [cIOS 설치](cios)를 추천합니다.
 {: .notice--info}
 
 #### 필요한 것
 
-* A Wii
+* Wii
 * SD 카드 및 USB 드라이브
-* A computer with Windows on it (or using Mono or Wine on Mac/Linux)
+* Windows가 설치된 컴퓨터 (맥이나 리눅스에서 Mono나 Wine 사용도 가능)
 * [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
 
-#### Theme Links
+#### 테마 링크
 
-To find themes to install, here are 3 resources:
+설치할 테마를 찾으려면, 세가지의 리소스가 있습니다.
 
-* [Google Drive repository](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
-* [RiiConnect24 themes page](https://rc24.xyz/goodies/themes/)
-* [This GBAtemp post](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
+* [구글 드라이브 레포지토리](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
+* [RiiConnect24 테마 페이지](https://rc24.xyz/goodies/themes/)
+* [이 GBATemp 글](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
-MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
+계속하기 전에 상단의 경고를 읽으시기 바랍니다!
 {: .notice--warning}
 
 #### 방법
 
-##### Section I - Finding a Theme
+##### 섹션 I - 테마 찾기
 
-* Peruse the resources to get themes, finding a theme you want to install. Some have YouTube videos to show what the theme looks like, unfortunately some of them are unavailable.
-* Once you found one you like, click the download link corresponding to your Wii Menu version. **It is very important to pick the right one to avoid bricks.**
-* You probably will pick the download link that says 4.X, that means the theme will work on version 4.1, 4.2 and 4.3 of the Wii Menu.
-* Some themes have different links for different regions, so pick the one corresponding to your Wii's region.
-* There are other resources for Wii Menu themes, but they might be in csm form (ready to install on the Wii). If the csm doesn't match the version and region of your Wii Menu, try to convert it to mym with ThemeMii Mod, and then convert it back to csm with the instructions here using the version and region of your Wii Menu.
+* 설치할 테마를 설치하기 위해 리소스를 사용하십시오. 테마가 어떻게 생겼는지 보여주는 유튜브 영상도 있으나, 몇몇은 사용할 수 없습니다.
+* 좋아하는 것을 찾았다면, Wii 메뉴 버전에 따라 다운로드 링크를 클릭하십시오. **벽돌을 방지하기 위해 올바른 것을 선택하는 것이 매우 중요합니다.**
+* 아마도 4.X라 적힌 링크를 고르셨을 겁니다. 그 말은 곧 이 테마는 Wii 메뉴 4.1, 4.2, 4.3에서 작동한단 뜻입니다.
+* 몇몇 테마는 국가에 따라 다른 링크가 있으므로 Wii의 국가에 맞는 것을 선택하세요.
+* Wii 메뉴에 관한 더 많은 리소스도 있으나, Csm 형태로 있을 수 있습니다 (Wii에 바로 설치 가능). CSM이 당신의 Wii 메뉴와 버전과 국가에 맞지 않는다면, ThemeMii 모드로 mym으로 변환한 뒤 이 가이드를 따라 당신의 Wii 메뉴 버전과 국가에 맞는 csm 파일로 변경하에요.
 * Once you downloaded the theme you want and double-checked you got the right one, open up ThemeMii Mod.
 
 ##### Section II - Building the Theme
