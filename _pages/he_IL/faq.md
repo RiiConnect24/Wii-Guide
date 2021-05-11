@@ -27,3 +27,6 @@ To store homebrew applications, we recommend an SD card with at least 2 GB.
 * להתקין BootMii או Priiloader.
 * תקלה בזמן התקנה של IOS או תוכנות נחוצות (דוגמה: הפסקת חשמל).
 * לשנות את התוכן של זיכרון ה vWii בלי לדעת ידע טכני.
+
+### How can I remove parental controls?
+The [mkey generator](https://mkey.salthax.org) can generate the code required to remove parental controls.
