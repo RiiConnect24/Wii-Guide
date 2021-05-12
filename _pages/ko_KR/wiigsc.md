@@ -30,5 +30,5 @@ Do NOT make a shortcut for the games "Mario Party 9" or "A Boy and His Blob". It
 3. If you're using USB Loader GX, you cannot use revision 1272 to use shortcuts. You need to use revision 1271 (or an earlier version if you need to use one for some reason).
 4. Install the generated WAD with a WAD Manager, we recommend Wii Mod Lite.
 
-If you get an error saying "The system files are corrupted", don't panic as long as you installed Priiloader. Turn off your Wii, then hold down the RESET button down and turn on your Wii. You should be able to boot into the Priiloader menu, where you have some options to fix your Wii Menu. One of the options is to launch the Homebrew Channel.
+If you get an error saying "The system files are corrupted", don't panic as long as you installed Priiloader. Wii를 끄고 RESET 버튼을 꾹 누른 뒤 Wii를 켜세요. You should be able to boot into the Priiloader menu, where you have some options to fix your Wii Menu. One of the options is to launch the Homebrew Channel.
 {: .notice--info}
