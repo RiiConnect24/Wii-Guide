@@ -56,12 +56,12 @@ vWii와 Wii U의 국가만을 위해 만들지 않은 이상 vWii (Wii U) 에 �
 
 ##### 섹션 II - 테마 빌드하기
 
-1. 벽돌 보호가 있을때만 테마를 설치하라는 창이 뜰겁니다. If you installed Priiloader and/or BootMii (see the warning at the start of this guide), press OK.
-2. Go to `Tools` > `Download Base App` > Version of your Wii Menu > Region of your Wii Menu
-3. A dialog box will pop up asking you to enter in a value to create a key. Enter in what it says, it will create a key that will be used to decrypt the Wii Menu contents from Nintendo's servers.
-4. A file selection box will ask you where to save the .app file (that is the Wii Menu content file it downloaded). Save it to the directory where ThemeMii is in.
-5. Go to `Options` > `Standard System Menu` > Version of your Wii Menu > Region of your Wii Menu
-6. Go to `File` > `Open`, then browse for where your .mym file is.
+1. 벽돌 보호가 있을때만 테마를 설치하라는 창이 뜰겁니다. Priiloader나 BootMii를 받으셨다면 (가이드 초반의 경고 읽기), OK를 누르세요.
+2. `Tools` > `Download Base App` > 당신의 Wii 메뉴 버전 > 당신의 Wii 메뉴 국가로 이동하세요
+3. 키를 생성하기 위한 값 입력 창이 뜰겁니다. 적힌 그대로 입력하시면, 닌텐도의 서버로부터 Wii 메뉴 내용들을 복호화하는데 사용될 키를 만들겁니다.
+4. 파일 입력 창이 어디에 .app 파일을 저장할지 물어볼 겁니다 (다운로드한 Wii 메뉴 내용 파일). ThemeMii가 있는 디렉토리에 저장합니다.
+5. `Options` > `Standard System Menu` > 당신의 Wii 메뉴 버전 > 당신의 Wii 메뉴 국가로 이동하세요
+6. `File` > `Open`으로 이동한 뒤 .mym 파일을 탐색합니다.
 7. Press `Create csm`, then browse for a directory you want to save the theme in. Give it a moment to build the theme.
 8. A dialog box will pop up hopefully saying it built the theme correctly, and it will ask you if you want to save the .mym. Press `No`.
 
@@ -74,5 +74,5 @@ vWii와 Wii U의 국가만을 위해 만들지 않은 이상 vWii (Wii U) 에 �
 5. After an introduction message, it will ask you what IOS you want to use in the app. If you have [installed cIOS](cios), use `IOS249`, or else use `IOS58`. If the former gives an `Exception DSI occurred!` error, press Reset on the Wii console, launch it again, then try `IOS250`.
 6. Highlight the theme you want to install, then press A. Give it a moment to install the theme, then press any button to go to the Wii Menu. Hopefully, the theme installed correctly.
 
-If you get an error saying "The system files are corrupted" or a black screen, don't panic as long as you installed Priiloader. Turn off your Wii, then hold down the RESET button down and turn on your Wii. You should be able to boot into the Priiloader menu, where you have some options to fix your Wii Menu. One of the options is to launch the Homebrew Channel, where you can launch MyMenuify Mod and press a button to download and install the original Wii Menu theme.
+Priiloader를 설치했기 때문에 검은 화면이나 일명 무지개 벽돌 "시스템 파일이 손상되었습니다"에 놀라지 마세요. Wii를 끄고 RESET 버튼을 꾹 누른 뒤 Wii를 켜세요. You should be able to boot into the Priiloader menu, where you have some options to fix your Wii Menu. One of the options is to launch the Homebrew Channel, where you can launch MyMenuify Mod and press a button to download and install the original Wii Menu theme.
 {: .notice--info}
