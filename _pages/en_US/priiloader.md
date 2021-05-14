@@ -43,8 +43,6 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your
 2. You should see the Priiloader menu.
 ![Menu](/images/Priiloader/mainmenu.png)
 3. Go to `System Menu Hacks`.
-If Priiloader doesn't load the hacks menu, download the [hacks_hash.ini](assets/files/hacks_hash.ini) file and put it in `SD:/apps/priiloader`.
-{: .notice--info}
 4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`.
 ![System Menu Hacks](/images/Priiloader/hacks.png)
 1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
