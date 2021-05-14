@@ -21,8 +21,6 @@ BootMii의 주요 기능 중 하나는 Wii의 NAND 저장소를 백업하고 복
 * 적어도 512MB 이상의 SD 카드
 
 #### 방법
-If you have BootMii installed as boot2 you will need to launch BootMii by restarting the console. Skip steps 1 and 2 if this is the case.
-{: .notice--info}
 1. 홈브루 채널을 실행하세요.
 2. HOME 버튼을 누르고, "Launch BootMii"를 선택하세요.
 
