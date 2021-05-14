@@ -21,8 +21,6 @@ Una delle features più importanti di BootMii è l'abilità di fare backup e rip
 * Una scheda SD con almeno 512MB di spazio disponibile
 
 #### Istruzioni
-If you have BootMii installed as boot2 you will need to launch BootMii by restarting the console. Skip steps 1 and 2 if this is the case.
-{: .notice--info}
 1. Apri il canale Homebrew Channel.
 2. Premi il pulsante HOME e scegli "Launch BootMii".
 
