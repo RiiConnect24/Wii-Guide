@@ -38,7 +38,8 @@ Priiloader proporciona un nivel adicional de protección contra bricks a tu cons
 ![Encender](/images/Priiloader/on.jpg) ![Mantener RESET](/images/Priiloader/reset.jpg)
 
 2. Deberías ver el menú de Priiloader. ![Menú](/images/Priiloader/mainmenu.png)
-3. Ve a `System Menu Hacks`.
+3. Ve a `System Menu Hacks`. If Priiloader doesn't load the hacks menu, download the [hacks_hash.ini](assets/files/hacks_hash.ini) file and put it in `SD:/apps/priiloader`.
+{: .notice--info}
 4. Recomendamos que actives los siguientes trucos: `Region Free EVERYTHING`, `Block Disc Updates` y `Block Online Updates`. ![Hacks del menú del sistema](/images/Priiloader/hacks.png)
 1. Baja hasta el botón `save settings` y presiona A, y presiona B para volver al menú principal de Priiloader.
 1. Baje hasta el botón `Canal Homebrew` y presione A para ejecutarlo.
