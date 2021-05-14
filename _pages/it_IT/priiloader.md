@@ -38,7 +38,8 @@ Ti preghiamo di **non** installare Priiloader su una Virtual Wii (modalità Wii 
 ![Accendere](/images/Priiloader/on.jpg) ![Tenere premuto RESET](/images/Priiloader/reset.jpg)
 
 2. Dovresti essere nel menu Priiloader. ![Menù](/images/Priiloader/mainmenu.png)
-3. Vai su `System Menu Hacks`.
+3. Vai su `System Menu Hacks`. If Priiloader doesn't load the hacks menu, download the [hacks_hash.ini](assets/files/hacks_hash.ini) file and put it in `SD:/apps/priiloader`.
+{: .notice--info}
 4. Consigliamo di attivare ognuna delle seguenti opioni: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
 1. Vai giù e seleziona `save settings` e premi A, poi premi B per tornare indietro nel menu principale di Priiloader.
 1. Vai giù e seleziona `Hombrew Channel` e premi A per avviarlo.
