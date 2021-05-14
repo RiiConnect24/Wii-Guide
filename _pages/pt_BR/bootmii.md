@@ -21,6 +21,8 @@ Um dos recursos mais importantes do BootMii é a habilidade de backup e restaura
 * Um cartão SD com pelo menos 512MB de espaço livre
 
 #### Instruções
+If you have BootMii installed as boot2 you will need to launch BootMii by restarting the console. Skip steps 1 and 2 if this is the case.
+{: .notice--info}
 1. Inicie o Homebrew Channel.
 2. Aperte o botão HOME e selecione "Launch BootMii".
 
@@ -45,5 +47,5 @@ To restore from a NAND backup on your SD card, you can follow these instructions
 {: .notice--info}
 -->
 
-[Continue para a instalação do Priiloader](priiloader) Priiloader adiciona um nível de proteção do brick, e nós recomendamos ele, especialmente se você apenas poder instalar o IOS BootMii.
+[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
 {: .notice--info}
