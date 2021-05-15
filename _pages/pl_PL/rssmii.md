@@ -4,7 +4,7 @@ title: "Instalowanie RSSMii"
 
 {% include toc title="Zawartość" %}
 
-Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.).
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Chcesz otrzymywać aktualizacje z Twoich RSS Feed'ów na Twoim Wii Message Board? Ten poradnik wytłumaczy Ci, jak poprawnie skonfigurować RSSMii.
@@ -20,7 +20,7 @@ Chcesz otrzymywać aktualizacje z Twoich RSS Feed'ów na Twoim Wii Message Board
 ##### Sekcja I - Pobieranie/Instalowanie
 
 1. Wypakuj RSSMii oraz skopiuj go do folderu `apps` na Twojej karcie SD lub urządzeniu USB.
-2. Będziemy musieli stworzyć plik `feeds.xml` na folderze głównym Twojej karty SD. Jest to plik konfiguracyjny dla RSSMii.
+2. Będziemy musieli stworzyć plik `feeds.xml` na folderze głównym Twojej karty SD.
 
 Jeśli używasz systemu operacyjnego Windows, możesz użyć [RSS Feeds Creator](https://github.com/RiiConnect24/rssmii/releases/download/v1.4.1/RSSFeedsCreator.bat) stworzonego przez KcrPL. Ten program automatycznie utworzy plik `feeds.xml` za Ciebie i skopiuje go na kartę SD!
 {: .notice--info}
