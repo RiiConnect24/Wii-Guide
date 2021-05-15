@@ -4,7 +4,7 @@ title: "str2hax"
 
 {% include toc title="Zawartość" %}
 
-Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.).
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Zauważ, że jeżeli twój dostawca internetu lub urządzenia zarządzające Twoją siecią lokalną blokują użycie niestandardowych serwerów DNS, str2hax nie zadziała. W takim przypadku, [wybierz inny exploit](get-started).
@@ -22,8 +22,8 @@ str2hax jest exploitem przeznaczonym dla Wii, który można wykonać poprzez za�
 
 Ten exploit wymaga od Ciebie zmiany adresu DNS. Pozwoli Ci to połączenie z serwerem, który zawiera exploit.
 
-1. Wejdź do `ustawień Wii` ![Opcje Wii](/images/RiiConnect24/Internet_1.png)
-2. Przejdź do `Wii Settings` ![Ustawienia Wii](/images/RiiConnect24/Internet_2.png)
+1. Przejdź do `Wii Settings` ![Opcje Wii](/images/RiiConnect24/Internet_1.png)
+2. Wejdź do `ustawień Wii` ![Ustawienia Wii](/images/RiiConnect24/Internet_2.png)
 3. Przejdź do `drugiej strony`, oraz wybierz `Internet`. ![Internet](/images/RiiConnect24/Internet_3.png)
 4. Przejdź do `Connection Settings`. ![Ustawienia połączenia](/images/RiiConnect24/Internet_4.png)
 5. Wybierz twoje obecne połączenie. ![Obecne połączenie](/images/RiiConnect24/Internet_5.png)
@@ -34,7 +34,7 @@ Ten exploit wymaga od Ciebie zmiany adresu DNS. Pozwoli Ci to połączenie z ser
 10. Wybierz `Confirm`, oraz wybierz `Save`. ![Zapisz adres DNS](/images/RiiConnect24/Internet_10.png)
 11. Wybierz `OK` aby przeprowadzić test połączenia Internetowego. ![Przeprowadź test połączenia Internetowego](/images/RiiConnect24/Internet_11.png)
    - Jeżeli połączenie było pomyślne, wybierz `No` aby pominąć sprawdzenie aktualizacji systemu. ![Test połączenia Internetowego zakończony sukcesem](/images/RiiConnect24/Internet_12.png)
-   - Jeżeli test połączenia Internetowego ukończył się niepomyślnie, wybierz [inny exploit](get-started) oraz z niego skorzystaj. Pamiętaj aby przywrócić powyższe ustawienia Internetu.
+   - W takim przypadku, [wybierz inny exploit](get-started).
 
 ##### Sekcja II - Uruchamianie exploitu
 
