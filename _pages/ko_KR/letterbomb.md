@@ -17,7 +17,7 @@ LetterBomb는 Wii 메시지 보드를 이용한 Wii의 취약점입니다.
 
 
 1. Wii에서 `Wii 설정` -> `인터넷` -> `장치 정보`에 들어가서 MAC 주소를 메모하세요.
-1. [please.hackmii.com](https://please.hackmii.com)를 방문하여 MAC 주소와 국가를 선택하고 캡차를 푸세요. *꼭* `Bundle the HackMii Installer for me!`가 *체크*되어 있는지 확인하고, 아무 줄이나 자르세요
+1. `Bundle the HackMii Installer for me!`가 *체크*되어 있는지 확인하고, 아무 줄이나 자르세요
    - 어떤 줄을 잘라도 차이가 없습니다. ![HackMii 화면](/images/Wii/LetterBomb-PC.png)
 1. ZIP의 내용물을 SD 카드 최상단에 복사해 주세요.
 1. SD 카드를 빼고 Wii에 삽입하세요.
