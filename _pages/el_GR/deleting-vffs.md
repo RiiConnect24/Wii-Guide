@@ -36,7 +36,7 @@ title: "Διαγραφή VFF"
 #### Οδηγίες
 
 1. Ανοίξτε το WiiXplorer.
-2. Πατήστε `Start` -> `Settings` -> `Boot Settings` -> `Ενεργοποιήστε το NAND write access` και μετά πατήστε `Yes` και στις δύο προειδοποιήσεις που θα εμφανιστούν στην οθόνη.
+2. Go to `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` and then select `Yes` for both dialogues that appear on the screen.
 3. Πατήστε Back μέχρι να φτάσετε στην αρχική σελίδα με τα αρχεία.
 4. Πατήστε το μικρό μπλε εικονίδιο με την κάρτα SD, και μετά πατήστε `NAND`.
 5. Πηγαίνετε στη διαδρομή `title` -> `00010002` -> XXXXXXXX -> `data`, όπου XXXXXXXX είναι ένας από τους παραπάνω φακέλους.
