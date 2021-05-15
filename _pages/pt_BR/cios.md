@@ -15,7 +15,7 @@ Se você possui um Wii Mini, instale [esta cIOS](cios-mini) então. Tentar insta
 
 * Um Wii conectado à internet
 * Um cartão SD ou pendrive
-* [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
+* [Instalador d2x cIOS](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
 Certifique-se de que se você estiver usando um cartão SD, a trava de bloqueio está na posição desbloqueada. caso contrário, você não será capaz de selecionar as opções corretas no instalador
 {: .notice--warning}
@@ -31,28 +31,19 @@ Certifique-se de que se você estiver usando um cartão SD, a trava de bloqueio 
 
 1. Pressione continuar e defina as opções dessa forma:
 ```
-Selecione cIOS: v10 beta52 d2x-v10-beta52
-Selecione cIOS base: 57
-Selecione cIOS slot: 249
-Selecione cIOS version: 65535
+Selecione cIOS: v10 beta52 d2x-v10-beta52 Selecione cIOS base: 57 Selecione cIOS slot: 249 Selecione cIOS version: 65535
 ```
 ![Instale cIOS 249](/images/cios/Install249.png)
 1. Quando feito, pressione A duas vezes para instalar.
 1. Quando a instalação for concluída, pressione A para retornar, e defina as opções dessa forma:
 ```
-Selecione cIOS: v10 beta52 d2x-v10-beta52
-Selecione cIOS base: 56
-Selecione cIOS slot: 250
-Selecione cIOS version: 65535
+Selecione cIOS: v10 beta52 d2x-v10-beta52 Selecione cIOS base: 56 Selecione cIOS slot: 250 Selecione cIOS version: 65535
 ```
 ![Instale cIOS 250](/images/cios/Install250.png)
 1. Quando feito, pressione A duas vezes para instalar.
 1. Quando a instalação for concluída, pressione A para retornar, e defina as opções dessa forma:
 ```
-Selecione cIOS: v10 beta52 d2x-v10-beta52
-Selecione cIOS base: 38
-Selecione cIOS slot: 251
-Selecione cIOS version: 65535
+Selecione cIOS: v10 beta52 d2x-v10-beta52 Selecione cIOS base: 38 Selecione cIOS slot: 251 Selecione cIOS version: 65535
 ```
 ![Instale cIOS 251](/images/cios/Install251.png)
 1. Quando terminado, pressione A duas vezes para instalar e então saia.
@@ -69,28 +60,21 @@ Uma lista mais completa (embora ainda incompleta) pode ser encontrada [**aqui**]
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'usbloadergx')">USB Loader GX</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
-<div id="usbloadergx" class="blanktabcontent">
-  <p spaces-before="0">
-    !!crwdP_24_Pdwrc!!Selecione o jogo que não está funcionando. !!crwdP_25_Pdwrc!!Clique em Configurações. !!crwdP_26_Pdwrc!!Selecione <code>Game Load</code>. !!crwdP_27_Pdwrc!!Role para baixo até <code>Game IOS</code>. !!crwdP_28_Pdwrc!!Digite o slot do IOS para usar.
-  </p>
-  
-  <ul>
-    <li>
-      Tente usar 250 ou 251, se 249 não funcionar. !!crwdP_29_Pdwrc!!Pressione ok e tente carregar o jogo.
-    </li>
-  </ul>
+<div id="usbloadergx" class="blanktabcontent" markdown="1">
+1. Selecione o jogo que não está funcionando.
+1. Click Settings.
+1. Selecione `Game Load`.
+1. Role para baixo até `Game IOS`.
+1. Enter the IOS slot to use.
+    - Tente usar 250 ou 251, se 249 não funcionar.
+1. Pressione ok e tente carregar o jogo.
 </div>
-
-<div id="wiiflow" class="blanktabcontent">
-  <p spaces-before="0">
-    !!crwdP_30_Pdwrc!!Selecione o jogo que não está funcionando. !!crwdP_31_Pdwrc!!Clique no ícone de engrenagem. !!crwdP_32_Pdwrc!!Vá para cIOS e use as setas para selecionar o slot do IOS a usar.
-  </p>
-  
-  <ul>
-    <li>
-      Tente usar 250 ou 251, se 249 não funcionar. !!crwdP_33_Pdwrc!!Pressione Salvar e tente carregar o jogo.
-    </li>
-  </ul>
+<div id="wiiflow" class="blanktabcontent" markdown="1">
+1. Selecione o jogo que não está funcionando.
+1. Click the gear icon.
+1. Vá para cIOS e use as setas para selecionar o slot do IOS a usar.
+    - Tente usar 250 ou 251, se 249 não funcionar.
+1. Pressione Salvar e tente carregar o jogo.
 </div>
 ##### Opções depois de completado
 
@@ -105,5 +89,25 @@ Você agora poderá usar homebrew como o [USB Loader GX](usbloadergx) e [WiiFlow
 
 <script>
     let tabcontent = document.getElementsByClassName("blanktabcontent");
-    let tablinks = document.getElementsByClassName("tablinks");!!crwd_CB_10_BC_dwrc!!</script>
+    let tablinks = document.getElementsByClassName("tablinks");
 
+    function openTab(evt, tabName) {
+        let element;
+
+        for (element of tabcontent) {
+            element.style.display = "none";
+        }
+
+        for (element of tablinks) {
+            element.className = element.className.replace("btn--primary", "btn--info");
+            if (!element.className.includes('btn--info'))
+                element.className += " btn--info";
+        }
+
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className = evt.currentTarget.className.replace("btn--info", "btn--primary");
+    }
+
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpen").click();
+</script>
