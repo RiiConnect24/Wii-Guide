@@ -50,7 +50,7 @@ Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Não form
 This is not a full comprehensive guide on using WiiFlow. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow by using it.
 {: .notice--info}
 
-* WiiFlow by default is set to only find games on the SD card. This can be changed by going in to settings, startup settings then turn off "Mount SD Only".
+* WiiFlow by default is set to only find games on the SD card. This can be changed by going in to settings, startup settings then turn off "Mount SD Only". This can be changed by going in to settings, startup settings then turn off "Mount SD Only".
 * You can toggle between viewing Wii games, GameCube games, Wii Channels, Plugins, Homebrew apps by clicking the button second to last button on the right.
 * You can download game covers by going to "Settings" then "Download Covers and Banners"
 
