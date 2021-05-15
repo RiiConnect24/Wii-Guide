@@ -1,5 +1,5 @@
 ---
-title: "FAQ"
+title: "Perguntas frequentes"
 ---
 
 ![Logo Amarela Wii Riconnect24](/images/Wii_Yellow_Gray.jpg)
