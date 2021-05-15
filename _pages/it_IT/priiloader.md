@@ -39,6 +39,10 @@ Ti preghiamo di **non** installare Priiloader su una Virtual Wii (modalità Wii 
 
 2. Dovresti essere nel menu Priiloader. ![Menù](/images/Priiloader/mainmenu.png)
 3. Vai su `System Menu Hacks`.
+
+    If you are using a usb to install Priiloader, make sure you do not have an sd card inserted at the same time. This will cause priiloader to be unable to find the hacks_hash.ini file.
+    {: .notice--info}
+
 4. Consigliamo di attivare ognuna delle seguenti opioni: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
 1. Vai giù e seleziona `save settings` e premi A, poi premi B per tornare indietro nel menu principale di Priiloader.
 1. Vai giù e seleziona `Hombrew Channel` e premi A per avviarlo.
