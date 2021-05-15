@@ -2,12 +2,12 @@
 title: "VFFs löschen"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Inhaltsverzeichnis" %}
 
 Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [RiiConnect24 Discord-Server](https://discord.gg/rc24) bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![RiiConnect24-Logo](/images/WiiRC24Logo.jpg)
 
 Falls du einen der folgenden Fehler erhälst (und keine anderen Fehler), solltest du in der Lage sein, die Kanäle zu reparieren, indem du deine VFF löschst.
 
