@@ -43,7 +43,7 @@ WiiLink24와 모든 서비스 (Wii 노마 등) 는 RiiConnect24가 운영 및 �
 PAL (유럽 Wii) 를 위하여<br>Wii 설정에서 TV 해상도를 60 HZ (480p/480i) 로 설정하세요. `화면 -> TV 해상도`에서 찾을수 있습니다 만약 하지 않는다면, 시야를 방해하는 분홍색 줄이 화면 밑에 나타납니다.
 {: .notice--info}
 
-[RiiConnect24로 계속하기](riiconnect24)<br> RiiConnect24는 WiiConnect24의 서비스 종료된 서비스를 사용할 수 있게 합니다. 여기에는 News, Forecast, Everybody Votes, Nintendo, Check Mii Out 채널 (대한민국 미출시) 이 포함되며 Wii 메일 역시 포함됩니다. 설치는 선택입니다.
+[Wiimmfi로 계속하기](wiimmfi)<br> Wiimmfi는 닌텐도 Wi-Fi 커넥션의 서비스 종료 이후로도 게임을 온라인으로 플레이 할 수 있게 합니다. 설치는 선택입니다.
 {: .notice--info}
 
 [Wiimmfi로 계속하기](wiimmfi)<br> Wiimmfi는 닌텐도 Wi-Fi 커넥션의 서비스 종료 이후로도 게임을 온라인으로 플레이 할 수 있게 합니다. 설치는 선택입니다.
