@@ -30,7 +30,7 @@ If you have BootMii installed as boot2 you will need to launch BootMii by restar
     {: .notice--info}
 
 
-    Se a tela ficar preta e a luz azul do disco estiver piscando, quer dizer que está faltando os arquivos BootMii no seu SD card. Baixe [este zip](https://static.hackmii.com/bootmii_sd_files.zip) e extraia-o para a raiz do seu cartão SD e tente novamente.
+    Se a tela ficar preta e a luz azul do disco estiver piscando, quer dizer que está faltando os arquivos BootMii no seu SD card. Baixe [este zip](https://static.hackmii.com/bootmii_sd_files.zip) e extraia-o para a raiz do seu cartão SD e tente novamente. Baixe [este zip](https://static.hackmii.com/bootmii_sd_files.zip) e extraia-o para a raiz do seu cartão SD e tente novamente.
     {: .notice--warning}
 
 3. Selecione o botão de Opções (aquele com as engrenagens).
