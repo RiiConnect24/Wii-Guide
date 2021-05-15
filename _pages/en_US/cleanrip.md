@@ -19,7 +19,11 @@
 1. Now insert the game you want to dump.
 ![DVD](/images/CleanRip/4.png)
 ![Initialising Disc](/images/CleanRip/5.png)
-1. Set it as shown on the screen below.<br>If you know that you are dumping a game that uses a dual layer disc, like `Super Smash Bros. Brawl` or `Metroid: Other M`, set `Dual Layer` to `Yes`.
+1. Set it as shown on the screen below.
+
+If you are dumping one of the 13 games on [this list](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games), set `Dual Layer` to `Yes`.
+{: .notice--info}
+
 ![Settings](/images/CleanRip/6.png)
 1. CleanRip will now dump your game. It can take a while, since it will dump the full 4.7 GB disc contents (8.5 GB for dual layer discs).
 ![Copying](/images/CleanRip/7.png)
