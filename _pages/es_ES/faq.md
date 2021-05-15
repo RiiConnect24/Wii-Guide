@@ -1,5 +1,5 @@
 ---
-title: "FAQ"
+title: "Preguntas frecuentes"
 ---
 
 ![Logotipo de RiiConnect24 amarillo](/images/Wii_Yellow_Gray.jpg)
