@@ -46,8 +46,8 @@ Si vous choisissez de l'exécuter au démarrage, vous n'avez rien à faire. Si v
 
 ##### Section III - Finaliser l'installation
 
-1. Sur Windows exécutez `RiiConnect24Patcher.bat` ou exécutez `RiiConnect24Patcher.sh` si vous êtes sur un système Unix. Téléchargez-le [ici](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
-2. Démarrez le patcher, sélectionnez `Install RiiConnect24`. ![Select Custom](/images/Dolphin_RC24/5.jpg)
+1. Démarrez le patcher, sélectionnez `Install RiiConnect24`.
+2. Sélectionnez `Custom`. ![Select Custom](/images/Dolphin_RC24/5.jpg)
 3. Sélectionnez `Custom`. ![Select Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
 4. Appuyez sur `1` pour sélectionner votre région et activez seulement la 5e option. Appuyez sur `6` pour démarrer le patch.
 5. Une fois terminé, il y aura un fichier `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` ou `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` dans le dossier WAD à côté de `RiiConnect24Patcher.bat`
