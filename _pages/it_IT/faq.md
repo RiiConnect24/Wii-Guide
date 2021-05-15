@@ -1,5 +1,5 @@
 ---
-title: "FAQ"
+title: "Faq"
 ---
 
 ![Logo giallo di Wii RiiConnect24](/images/Wii_Yellow_Gray.jpg)
