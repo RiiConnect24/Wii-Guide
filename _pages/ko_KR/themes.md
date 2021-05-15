@@ -18,7 +18,7 @@ vWii와 Wii U의 국가만을 위해 만들지 않은 이상 vWii (Wii U) 에 �
 가장 안전한 테마 설치 방법은 MyMenuify 모드입니다. 안전을 위해, 여기에 링크된 MyMenuify 외의 버전을 사용하지 마십시오.
 {: .notice--info}
 
-이 버전의 ThemeMii 모드는 4.3 Wii 메뉴를 위한 테마를 만드므로, 여기에 링크된 ThemeMii 외의 버전을 설치하지 마세요. 타 버전은 그렇지 않을 수도 있습니다.
+이 버전의 ThemeMii 모드는 4.3 Wii 메뉴를 위한 테마를 만드므로, 여기에 링크된 ThemeMii 외의 버전을 설치하지 마세요.
 {: .notice--info}
 
 계속하기 전에 [cIOS 설치](cios)를 추천합니다.
