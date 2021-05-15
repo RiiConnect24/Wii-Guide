@@ -4,7 +4,7 @@ title: "Priiloader"
 
 {% include toc title="Zawartość" %}
 
-Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.).
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Priiloader dodaje dodatkowy poziom ochrony przez brickiem na Twoje Wii. Ładuje się on przed Wii Menu. To narzędzie może również załadować hacki i może być użyte do uruchomienia Homebrew Channel, BootMii lub jakiegokolwiek homebrew chcesz uruchomić!
@@ -28,7 +28,7 @@ Priiloader dodaje dodatkowy poziom ochrony przez brickiem na Twoje Wii. Ładuje 
 
 1. Otwórz Homebrew Channel na Twoim Wii.
 2. Uruchom instalator Priiloader'a.
-3. Naciśnij przycisk `+` na Twoim Wii Remote lub przycisk `A` na kontrolerze GameCube. ![Zainstaluj Priiloader'a](/images/Priiloader/installer.png) ![Zainstaluj](/images/Priiloader/installing.png)
+3. Naciśnij przycisk `+` na Twoim Wii Remote lub przycisk `A` na kontrolerze GameCube.![Zainstaluj Priiloader'a](/images/Priiloader/installer.png) ![Zainstaluj](/images/Priiloader/installing.png)
 
 ##### Sekcja III - Uruchamianie oraz konfigurowanie Priiloader'a
 
@@ -70,7 +70,7 @@ This is a list of the hacks you can enable with Priiloader.
 | Re-Enable Bannerbomb v2                 | Pozwala na użycie exploitu "Bannerbomb" aby był używany w nowszych wersjach systemu Wii. Nie jest to potrzebne ponieważ masz już Homebrew Channel zainstalowane.                                             |
 | OSReport to UsbGecko(slot B)            | Pozwala na wysłanie logów Wii Menu do urządzenia debugującego w slocie B karty pamięci.                                                                                                                      |
 | OSReport to UsbGecko(GeckoOS,B)         | Pozwala na wysłanie logów Wii Menu do urządzenia debugującego w memory card slot B jeżeli system został uruchomiony przez Gecko OS.                                                                          |
-| Force Standard Recovery Mode            | Daje Ci dostęp do trybu awaryjnego aby uruchomić płyty recovery. Ten tryb służy do odbrickowania konsoli.                                                                                                    |
+| Force Standard Recovery Mode            | Ten tryb służy do odbrickowania konsoli. Ten tryb służy do odbrickowania konsoli.                                                                                                                            |
 | Remove Diagnostic Disc Check            | Wyłącza funkcje sprawdzającą czy w Wii jest włożona "Wii Startup Disc".                                                                                                                                      |
 | Lock System Menu with Black Screen      | Powoduje, że Twoje Wii Menu zacina się na czarnym ekranie, powodując, że nie możesz z niego korzystać. (Nie włączaj tego)                                                                                    |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Kanały z tymi ID skasowane przez Nintendo są ponownie widoczne.                                                                                                                                              |
