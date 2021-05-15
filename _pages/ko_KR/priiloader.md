@@ -39,6 +39,10 @@ vWii(Wii U의 Wii 모드) 에 Priiloader를 설치하지 **마세요**. 이것�
 
 2. Priiloader 메뉴가 나타납니다. ![메뉴](/images/Priiloader/mainmenu.png)
 3. `System Menu Hacks`로 이동합니다.
+
+    If you are using a usb to install Priiloader, make sure you do not have an sd card inserted at the same time. This will cause priiloader to be unable to find the hacks_hash.ini file.
+    {: .notice--info}
+
 4. 다음 핵을 추천드립니다: `Region Free EVERYTHING`, `Block Disc Updates`, `Block Online Updates` ![시스템 메뉴 핵](/images/Priiloader/hacks.png)
 1. `save settings`까지 스크롤한 다음 A를 누르고 B를 눌러 Priiloader의 메인 메뉴로 나가세요.
 1. `Homebrew Channel`까지 스크롤한 다음 A로 실행하세요.
