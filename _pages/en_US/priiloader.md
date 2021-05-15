@@ -44,9 +44,9 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your
 ![Menu](/images/Priiloader/mainmenu.png)
 3. Go to `System Menu Hacks`.
 
-    If you are using a usb to install Priiloader, make sure you do not have an sd card inserted at the same time.
-    This will cause priiloader to be unable to find the hacks_hash.ini file.
-    {: .notice--info}
+If you are using a USB drive to install Priiloader, make sure you do not have an SD card inserted at the same time.
+This will cause Priiloader to be unable to find the hacks_hash.ini file.
+{: .notice--info}
 
 4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`.
 ![System Menu Hacks](/images/Priiloader/hacks.png)
