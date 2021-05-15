@@ -40,16 +40,16 @@ Priiloader proporciona un nivel adicional de protección contra bricks a tu cons
 2. Deberías ver el menú de Priiloader. ![Menú](/images/Priiloader/mainmenu.png)
 3. Ve a `System Menu Hacks`.
 
-    If you are using a usb to install Priiloader, make sure you do not have an sd card inserted at the same time. This will cause priiloader to be unable to find the hacks_hash.ini file.
-    {: .notice--info}
+If you are using a USB drive to install Priiloader, make sure you do not have an SD card inserted at the same time. This will cause Priiloader to be unable to find the hacks_hash.ini file.
+{: .notice--info}
 
-4. Recomendamos que actives los siguientes trucos: `Region Free EVERYTHING`, `Block Disc Updates` y `Block Online Updates`. ![Hacks del menú del sistema](/images/Priiloader/hacks.png)
-1. Baja hasta el botón `save settings` y presiona A, y presiona B para volver al menú principal de Priiloader.
-1. Baje hasta el botón `Canal Homebrew` y presione A para ejecutarlo.
+4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
+1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
+1. Scroll to `Homebrew Channel` and press A to launch it.
 
 ## Lista de hacks para el menú de Wii
 
-Esta es una lista de los hacks que puedes activar con Priiloader.
+This is a list of the hacks you can enable with Priiloader.
 
 | Hack                                                                                                 | Descripción                                                                                                                                                                                                                     |
 | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
