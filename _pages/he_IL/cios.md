@@ -69,28 +69,21 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'usbloadergx')">USB Loader GX</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
-<div id="usbloadergx" class="blanktabcontent">
-  <p spaces-before="0">
-    !!crwdP_24_Pdwrc!!Select the game that isn't working. !!crwdP_25_Pdwrc!!Click Settings. !!crwdP_26_Pdwrc!!Select <code>Game Load</code>. !!crwdP_27_Pdwrc!!Scroll down to <code>Game IOS</code>. !!crwdP_28_Pdwrc!!Enter the IOS slot to use.
-  </p>
-  
-  <ul>
-    <li>
-      Try using 250 or 251, if 249 doesn't work. !!crwdP_29_Pdwrc!!Press ok and try to load the game.
-    </li>
-  </ul>
+<div id="usbloadergx" class="blanktabcontent" markdown="1">
+1. Select the game that isn't working.
+1. Click Settings.
+1. Select `Game Load`.
+1. Scroll down to `Game IOS`.
+1. Enter the IOS slot to use.
+    - Try using 250 or 251, if 249 doesn't work.
+1. Press ok and try to load the game.
 </div>
-
-<div id="wiiflow" class="blanktabcontent">
-  <p spaces-before="0">
-    !!crwdP_30_Pdwrc!!Select the game that isn't working. !!crwdP_31_Pdwrc!!Click the gear icon. !!crwdP_32_Pdwrc!!Go to cIOS and use the arrows to select the IOS slot to use.
-  </p>
-  
-  <ul>
-    <li>
-      Try using 250 or 251, if 249 doesn't work. !!crwdP_33_Pdwrc!!Press Save and try to load the game.
-    </li>
-  </ul>
+<div id="wiiflow" class="blanktabcontent" markdown="1">
+1. Select the game that isn't working.
+1. Click the gear icon.
+1. Go to cIOS and use the arrows to select the IOS slot to use.
+    - Try using 250 or 251, if 249 doesn't work.
+1. Press Save and try to load the game.
 </div>
 ##### Options once complete
 
@@ -105,5 +98,25 @@ You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiif
 
 <script>
     let tabcontent = document.getElementsByClassName("blanktabcontent");
-    let tablinks = document.getElementsByClassName("tablinks");!!crwd_CB_10_BC_dwrc!!</script>
+    let tablinks = document.getElementsByClassName("tablinks");
 
+    function openTab(evt, tabName) {
+        let element;
+
+        for (element of tabcontent) {
+            element.style.display = "none";
+        }
+
+        for (element of tablinks) {
+            element.className = element.className.replace("btn--primary", "btn--info");
+            if (!element.className.includes('btn--info'))
+                element.className += " btn--info";
+        }
+
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className = evt.currentTarget.className.replace("btn--info", "btn--primary");
+    }
+
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpen").click();
+</script>
