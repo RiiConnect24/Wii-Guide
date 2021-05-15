@@ -32,7 +32,7 @@ BlueBomb是一种利用Wii和Wii Mini的蓝牙库中漏洞的破解程序。 尽
 1. 从[BootMii网站](https://bootmii.org/download/)下载HackMii installer。
 - （如果尝试修复砖机，还应该将要使用的工具复制到/apps/）
 1. Extract it and place the `boot.elf` file in your flash drive.
-1. 把U盘插到主机上。 如果是Wii mini，USB端口在主机的后面。 如果是正常的Wii，横置的话使用最下面的端口， 竖置的话使用右边的端口。
+1. 把U盘插到主机上。 如果是Wii mini，USB端口在主机的后面。 如果是正常的Wii，横置的话使用最下面的端口， 竖置的话使用右边的端口。 竖置的话使用右边的端口。
 1. 把Wii开机，进入设置。 在右上角你会看见4个字母的代码，就像下面的图片。 这串代码是你的Wii菜单版本，记下来因为你之后会用到。 然后，关闭你的Wii。 ![系统彩蛋版本号](/images/Wii/SystemMenuVersion.png)
 1. 启动你的Linux环境，并且确定你已经连接到互联网。
 1. 打开Terminal。
