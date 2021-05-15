@@ -12,7 +12,7 @@ Si vous avez besoin d'aide pour quoi que ce soit concernant ce didacticiel, veui
 [Wiimmfi](https://wiimmfi.de) est un service qui remplace la connexion Wi-Fi Nintendo. Il a été développé par Wiimm et Leseratte.
 
 Si vous obtenez l'erreur 23904 lors de la connexion à Wiimmfi, vous utilisez un correctif obsolète. <br> Suivez les étapes ci-dessous pour la méthode que vous utilisez pour vous reconnecter à Wiimmfi. <br> Consultez [ cette page ](https://wiimmfi.de/update) pour plus de détails.<br>
-{: .notice - avertissement}
+{: .notice--warning}
 
 ## Types de patchers
 
@@ -74,7 +74,7 @@ Vous ne voudrez peut-être pas exécuter un patcher à chaque fois que vous voul
 #### Ce dont vous avez besoin
 - La copie de votre jeu (WBFS, ISO, cISO et d'autres formes qu'une Wii peut utiliser sont prises en charge).
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows et Unix)  
-**ou**
+  **ou**
 - [Wiimmfi Patcher (multiplateforme)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
 - Un USB Loader, [cIOS](cios) et un périphérique USB pour stocker le jeu (vous devriez déjà les avoir si vous utilisez un USB Loader)
 
@@ -91,7 +91,7 @@ Vous pouvez patcher des jeux WiiWare pour pouvoir y jouer avec Wiimmfi.
 - Une carte SD
 - La copie de votre jeu (au format WAD)
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows et Unix)  
-**ou**
+  **ou**
 - [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (multi-platforme)
 - [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
