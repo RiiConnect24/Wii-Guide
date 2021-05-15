@@ -7,10 +7,9 @@ title: "Mavi Bomba"
 Eğer bu öğretici ile alakalı herhangi bir sorunuz varsa, lütfen [ Wii Mini Hacking Discord serverımıza](https://discord.gg/6ryxnkS) katılın (önerilir)
 {: .notice--info}
 
-![orusbular
-](/images/bluebomb.png)
+![orusbular](/images/bluebomb.png)
 
-anani sikerim Obwohl er als einziger Exploit auf der Wii mini funktioniert, kann BlueBomb auch auf der originalen Wii ausgeführt werden. Er kann ebenfalls dazu genutzt werden um einige Bricks, wie bspw. einen Banner-Brick, zu beheben.
+anani sikerim anani sikerim Obwohl er als einziger Exploit auf der Wii mini funktioniert, kann BlueBomb auch auf der originalen Wii ausgeführt werden. Er kann ebenfalls dazu genutzt werden um einige Bricks, wie bspw. einen Banner-Brick, zu beheben.
 
 Für die originale Wii empfehlen wir dir nicht, BlueBomb zu verwenden, falls du vorhast den Homebrew Channel und BootMii zu installieren, da einfachere Exploits verfügbar sind.
 {: .notice--info}
@@ -34,8 +33,7 @@ Für die originale Wii empfehlen wir dir nicht, BlueBomb zu verwenden, falls du 
 - (If attempting to fix a brick, you should also copy the homebrew app you wish to use to /apps/)
 1. Extract it and place the `boot.elf` file in your flash drive.
 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright).
-1. Turn on your console and navigate to the settings menu. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![sende anne
-](/images/Wii/SystemMenuVersion.png)
+1. Turn on your console and navigate to the settings menu. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![sende anne](/images/Wii/SystemMenuVersion.png)
 1. Start your Linux distro, and ensure you are connected to the internet.
 1. Open the Terminal
 1. Run the following commands:
