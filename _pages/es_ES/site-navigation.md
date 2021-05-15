@@ -1,7 +1,7 @@
 ---
 title: "Todas las guías"
 layout: single
-sitemap: false
+sitemap: falso
 ---
 
 ![Tutoriales](/images/WiiTutorials.jpg)
@@ -38,7 +38,7 @@ sitemap: false
 + [LetterBomb](letterbomb)
 + [Instalar Priiloader](priiloader)
 + [str2hax](str2hax)
-+ [Wii Mod Lite](wiimodlite)
++ [Instalar WADs con Wii Mod Lite](wiimodlite)
 
 **Homebrew**
 + [Creación de accesos directos a juegos de Wii](wiigsc)
@@ -60,7 +60,7 @@ sitemap: false
 **Sitio**
 + [Casa](/)
 + [Empezar](comenzando)
-+ [FAQ](preguntas-frecuentes)
++ [Preguntas frecuentes](preguntas-frecuentes)
 + [Donaciones](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
