@@ -12,7 +12,7 @@ Priiloader zorgt voor een extra "level" veiligheid om uw Wii te beschermen tegen
 ![Priiloader](/images/priiloader.jpg)
 
 Do **not** install Priiloader on a vWii (Wii mode on Wii U). Dat zal resulteren in een Brick voor uw vWii.
-{: .notice--warning}
+{: .notice--waarschuwing}
 
 #### Benodigdheden
 * Een SD-kaart of USB-stick/ harde schijf
