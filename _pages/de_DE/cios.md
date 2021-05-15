@@ -69,28 +69,21 @@ Eine umfassendere (aber weiterhin unvollständige) Liste kann kann [**hier**](ht
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'usbloadergx')">USB Loader GX</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
-<div id="usbloadergx" class="blanktabcontent">
-  <p spaces-before="0">
-    !!crwdP_24_Pdwrc!!Wähle das Spiel welches nicht funktioniert. !!crwdP_25_Pdwrc!!Wähle Einstellungen. !!crwdP_26_Pdwrc!!Wähle <code>Game Load</code>. !!crwdP_27_Pdwrc!!Scrolle herunter zu <code>Game IOS</code>. !!crwdP_28_Pdwrc!!Gibt den IOS-Slot welchen du verwenden möchtest ein.
-  </p>
-  
-  <ul>
-    <li>
-      Versuche 250 oder 251, falls 249 nicht funktioniert. !!crwdP_29_Pdwrc!!Drücke auf ok und versuche das Spiel zu laden.
-    </li>
-  </ul>
+<div id="usbloadergx" class="blanktabcontent" markdown="1">
+1. !!crwdP_30_Pdwrc!!Wähle das Spiel welches nicht funktioniert.
+1. Click Settings.
+1. !!crwdP_26_Pdwrc!!Wähle `Game Load`.
+1. !!crwdP_27_Pdwrc!!Scrolle herunter zu `Game IOS`.
+1. Enter the IOS slot to use.
+    - Versuche 250 oder 251, falls 249 nicht funktioniert.
+1. !!crwdP_29_Pdwrc!!Drücke auf ok und versuche das Spiel zu laden.
 </div>
-
-<div id="wiiflow" class="blanktabcontent">
-  <p spaces-before="0">
-    !!crwdP_30_Pdwrc!!Wähle das Spiel welches nicht funktioniert. !!crwdP_31_Pdwrc!!Klicke auf das Zahnrad-Symbol. !!crwdP_32_Pdwrc!!Gehe zu cIOS und nutze die Pfeile um den zu verwendenden IOS-Slot auszuwählen.
-  </p>
-  
-  <ul>
-    <li>
-      Versuche 250 oder 251, falls 249 nicht funktioniert. !!crwdP_33_Pdwrc!!Drücke Speichern und versuche das Spiel zu laden.
-    </li>
-  </ul>
+<div id="wiiflow" class="blanktabcontent" markdown="1">
+1. !!crwdP_30_Pdwrc!!Wähle das Spiel welches nicht funktioniert.
+1. Click the gear icon.
+1. !!crwdP_32_Pdwrc!!Gehe zu cIOS und nutze die Pfeile um den zu verwendenden IOS-Slot auszuwählen.
+    - Versuche 250 oder 251, falls 249 nicht funktioniert.
+1. !!crwdP_33_Pdwrc!!Drücke Speichern und versuche das Spiel zu laden.
 </div>
 ##### Möglichkeiten nach Abschluss
 
@@ -105,5 +98,25 @@ Du kannst nun Homebrew wie beispielsweise [USB Loader GX](usbloadergx) oder [Wii
 
 <script>
     let tabcontent = document.getElementsByClassName("blanktabcontent");
-    let tablinks = document.getElementsByClassName("tablinks");!!crwd_CB_10_BC_dwrc!!</script>
+    let tablinks = document.getElementsByClassName("tablinks");
 
+    function openTab(evt, tabName) {
+        let element;
+
+        for (element of tabcontent) {
+            element.style.display = "none";
+        }
+
+        for (element of tablinks) {
+            element.className = element.className.replace("btn--primary", "btn--info");
+            if (!element.className.includes('btn--info'))
+                element.className += " btn--info";
+        }
+
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className = evt.currentTarget.className.replace("btn--info", "btn--primary");
+    }
+
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpen").click();
+</script>
