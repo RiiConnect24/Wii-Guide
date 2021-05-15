@@ -46,7 +46,7 @@ title: "RiiConnect24"
 
 ##### 섹션 III - 설정 완료하기
 
-1. Windows에서 `VFF-Downloader-for-Dolphin.bat`을 실행하거나 Unix 시스템에서 `VFF-Downloader-for-Dolphin.sh`를 실행하세요. [여기](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)에서 다운로드한 파일입니다.
+1. 패치 프로그램을 시작하고, `Install RiiConnect24`를 선택하세요.
 2. 패치 프로그램을 시작하고, `Install RiiConnect24`를 선택하세요. ![Custom 선택](/images/Dolphin_RC24/5.jpg)
 3. `Custom`을 선택합니다. ![Check Mii Out Channel을 선택합니다](/images/Dolphin_RC24/6.jpg)
 4. `1`을 눌러 국가를 선택하고 5번 옵션만 활성화합니다. `6`을 눌러 패치를 시작합니다.
