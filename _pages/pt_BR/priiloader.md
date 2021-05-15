@@ -39,6 +39,10 @@ O Priiloader adiciona um nível de proteção contra brick ao seu Wii. Ele carre
 
 2. Você deve ver o menu Priiloader. ![Menu](/images/Priiloader/mainmenu.png)
 3. Vá para `System Menu Hacks`.
+
+    If you are using a usb to install Priiloader, make sure you do not have an sd card inserted at the same time. This will cause priiloader to be unable to find the hacks_hash.ini file.
+    {: .notice--info}
+
 4. Recomendamos que você ative os seguintes hacks: `Region Free EVERYTHING`, `Block Disc Updates` e `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
 1. Ecolha para baixo até `save settings` e pressione A e depois pressione B para voltar ao menu principal do Priiloader.
 1. Selecione baixo até o `Homebrew Channel` e pressione A para iniciá-lo.
