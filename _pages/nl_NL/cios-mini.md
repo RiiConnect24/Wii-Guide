@@ -6,7 +6,7 @@ title: "d2xl cIOS voor de Wii mini (experimenteel)"
 
 Deze tutorial legt u uit hoe Leseratte's d2xl Wii mini u cIOS (custom IOS) installeert. Dit is nodig als u games wilt laden vanaf een USB stick of harde schijf. Sommige homebrew applicaties zullen beter werken met cIOS geïnstalleerd.
 
-![d2x cIOS Installer](/images/cIOS.png)
+![d2x cIOS Installatie](/images/cIOS.png)
 
 This guide is only intended for Wii mini users. If you have a Wii, follow [this guide](cios) instead.
 {: .notice--waarschuwing}
