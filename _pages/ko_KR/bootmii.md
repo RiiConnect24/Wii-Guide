@@ -21,7 +21,7 @@ BootMii의 주요 기능 중 하나는 Wii의 NAND 저장소를 백업하고 복
 * 적어도 512MB 이상의 SD 카드
 
 #### 방법
-If you have BootMii installed as boot2 you will need to launch BootMii by restarting the console. Skip steps 1 and 2 if this is the case.
+BootMii가 boot2로 설치되었다면 콘솔을 재시작하여 BootMii를 실행해야 합니다. 만약 그렇다면 1단계와 2단계를 건너 뛰세요.
 {: .notice--info}
 1. 홈브루 채널을 실행하세요.
 2. HOME 버튼을 누르고, "Launch BootMii"를 선택하세요.
@@ -47,5 +47,5 @@ To restore from a NAND backup on your SD card, you can follow these instructions
 {: .notice--info}
 -->
 
-[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
+[Priiloader 설치 계속하기](priiloader) Priiloader는 벽돌 보호 단계를 만들고, BootMii IOS만이 설치되는 경우 저희는 이것을 권장합니다.
 {: .notice--info}
