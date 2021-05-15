@@ -39,13 +39,17 @@ O Priiloader adiciona um nível de proteção contra brick ao seu Wii. Ele carre
 
 2. Você deve ver o menu Priiloader. ![Menu](/images/Priiloader/mainmenu.png)
 3. Vá para `System Menu Hacks`.
-4. Recomendamos que você ative os seguintes hacks: `Region Free EVERYTHING`, `Block Disc Updates` e `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
-1. Ecolha para baixo até `save settings` e pressione A e depois pressione B para voltar ao menu principal do Priiloader.
-1. Selecione baixo até o `Homebrew Channel` e pressione A para iniciá-lo.
+
+If you are using a USB drive to install Priiloader, make sure you do not have an SD card inserted at the same time. This will cause Priiloader to be unable to find the hacks_hash.ini file.
+{: .notice--info}
+
+4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
+1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
+1. Scroll to `Homebrew Channel` and press A to launch it.
 
 ## Lista de Hacks do Menu do Sistema
 
-Esta é uma lista dos hacks que você pode habilitar com Priiloader.
+This is a list of the hacks you can enable with Priiloader.
 
 | Hack                                                | Descrição                                                                                                                                                                                        |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -73,11 +77,11 @@ Esta é uma lista dos hacks que você pode habilitar com Priiloader.
 | Forçar jogos em disco a serem executados sob IOS249 | Faça os discos usarem cIOS 249 como IOS do jogo. Embora não possa permitir jogar jogos gravados, isto é necessário para jogar discos gravados. (Pode lhe dar um erro 002 em um jogo não gravado) |
 
 
-Continue instalando o cIOS<br> cIOS são usados para jogar jogos com um carregamento USB. Também é útil para muitos outros aplicativos homebrew.
+Continue to installing cIOS<br> cIOS are used to play games with a USB Loader. It's also useful for many other homebrew apps.
 {: .notice--info}
 
-Se estiver usando um Wii mini, siga [este guia](cios-mini) para instalar o cIOS
+If using a Wii mini, follow [this guide](cios-mini) to install cIOS
 {: .notice--info}
 
-Se estiver usando um Wii normal, siga [este guia](cios) para instalar o cIOS
+If using a normal Wii, follow [this guide](cios) to install cIOS
 {: .notice--info}

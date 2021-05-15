@@ -27,3 +27,6 @@ vWii를 **벽돌**시키는 것들의 리스트입니다 (제발 하지 마세�
 * BootMii 와/또는 Priiloader/Preloader 설치.
 * 중요한 시스템/IOS 타이틀 설치 중 실패 (예: 정전).
 * 무엇을 하는지 모르고 vWii NAND 수정하기.
+
+### 자녀 보호는 어떻게 해제하나요?
+청소년 보호 기능을 제거하기 위한 코드는 [mkey generator](https://mkey.salthax.org)로 생성할 수 있습니다.

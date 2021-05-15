@@ -27,3 +27,6 @@ Either email us at support@riiconnect24.net or join the [RiiConnect24 Discord Se
 * Εγκατάσταση BootMii ή/και Priiloader/Preloader.
 * Αναποδιά κατά την εγκατάσταση κρίσιμων τίτλων συστήματος/IOS (π.χ. διακοπή ρεύματος).
 * Τροποποίηση της μνήμης NAND του vWii χωρίς την επίγνωση του τι κάνετε.
+
+### How can I remove parental controls?
+The [mkey generator](https://mkey.salthax.org) can generate the code required to remove parental controls.

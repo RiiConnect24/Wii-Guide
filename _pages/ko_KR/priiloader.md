@@ -39,13 +39,17 @@ vWii(Wii U의 Wii 모드) 에 Priiloader를 설치하지 **마세요**. 이것�
 
 2. Priiloader 메뉴가 나타납니다. ![메뉴](/images/Priiloader/mainmenu.png)
 3. `System Menu Hacks`로 이동합니다.
-4. 다음 핵을 추천드립니다: `Region Free EVERYTHING`, `Block Disc Updates`, `Block Online Updates` ![시스템 메뉴 핵](/images/Priiloader/hacks.png)
-1. `save settings`까지 스크롤한 다음 A를 누르고 B를 눌러 Priiloader의 메인 메뉴로 나가세요.
-1. `Homebrew Channel`까지 스크롤한 다음 A로 실행하세요.
+
+If you are using a USB drive to install Priiloader, make sure you do not have an SD card inserted at the same time. This will cause Priiloader to be unable to find the hacks_hash.ini file.
+{: .notice--info}
+
+4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
+1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
+1. Scroll to `Homebrew Channel` and press A to launch it.
 
 ## 시스템 메뉴 핵 목록
 
-Priiloader로 활성화 할 수 있는 핵의 목록입니다.
+This is a list of the hacks you can enable with Priiloader.
 
 | 핵                                       | 설명                                                                                                            |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -73,11 +77,11 @@ Priiloader로 활성화 할 수 있는 핵의 목록입니다.
 | Force Disc Games to run under IOS249    | 게임의 iOS로 디스크가 cIOS 249를 사용하게 만들기. 구워진 게임을 스스로 실행시킬 순 없지만, 구워진 디스크의 실행에는 필수입니다. (구워지지 않은 게임에서는 002 오류를 줄 수 있음) |
 
 
-cIOS 설치로 계속하기<br> cIOS는 USB 로더로 게임을 플레이하기 위해 사용됩니다. 또한 다른 홈브루 앱에도 유용합니다.
+Continue to installing cIOS<br> cIOS are used to play games with a USB Loader. It's also useful for many other homebrew apps.
 {: .notice--info}
 
-Wii 미니를 사용한다면, [이 가이드](cios-mini)를 따라 cIOS를 설치하세요
+If using a Wii mini, follow [this guide](cios-mini) to install cIOS
 {: .notice--info}
 
-일반 Wii를 사용한다면, [이 가이드](cios)를 따라 cIOS를 설치하세요
+If using a normal Wii, follow [this guide](cios) to install cIOS
 {: .notice--info}

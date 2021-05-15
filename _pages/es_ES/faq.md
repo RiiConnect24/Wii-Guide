@@ -27,3 +27,6 @@ La siguiente es una lista de acciones que pueden dejar tu vWii en un estado de *
 * Instalar BootMii y/o Priiloader/Preloader.
 * Fallo durante la instalación de títulos o IOS cruciales del sistema (por ejemplo, debido a un apagón).
 * Modificar la NAND del vWii sin saber lo que estás haciendo.
+
+### How can I remove parental controls?
+The [mkey generator](https://mkey.salthax.org) can generate the code required to remove parental controls.

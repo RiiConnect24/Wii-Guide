@@ -13,7 +13,7 @@ This is a quick start guide on how to use USB Loader GX, a popular USB loader fo
 
 #### 필요한 것
 
-* A Wii
+* Wii
 * A USB drive
 * [USB 로더 GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
 

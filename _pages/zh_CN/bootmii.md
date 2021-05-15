@@ -21,6 +21,8 @@ One of BootMii's most important features is the ability to backup and restore yo
 * 一张SD卡，至少有512MB的空间。
 
 #### 步骤
+If you have BootMii installed as boot2 you will need to launch BootMii by restarting the console. Skip steps 1 and 2 if this is the case.
+{: .notice--info}
 1. 启动Homebrew Channel。
 2. 按下Home按钮，选择"Launch BootMii"。
 

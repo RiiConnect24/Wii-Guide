@@ -27,3 +27,6 @@ Questa è una lista di cose che potrebbero **BRICKARE** la tua Wii virtuale (non
 * Installare BootMii e/o Priiloadee/Preloader.
 * Fallimento durante le installazioni cruciali di sistemi/titoli IOS (es: interruzione di carica).
 * Modificare il NAND della Wii virtuale senza sapere cosa stai facendo.
+
+### How can I remove parental controls?
+The [mkey generator](https://mkey.salthax.org) can generate the code required to remove parental controls.

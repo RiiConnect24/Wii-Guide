@@ -39,13 +39,17 @@ Ti preghiamo di **non** installare Priiloader su una Virtual Wii (modalità Wii 
 
 2. Dovresti essere nel menu Priiloader. ![Menù](/images/Priiloader/mainmenu.png)
 3. Vai su `System Menu Hacks`.
-4. Consigliamo di attivare ognuna delle seguenti opioni: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
-1. Vai giù e seleziona `save settings` e premi A, poi premi B per tornare indietro nel menu principale di Priiloader.
-1. Vai giù e seleziona `Hombrew Channel` e premi A per avviarlo.
+
+If you are using a USB drive to install Priiloader, make sure you do not have an SD card inserted at the same time. This will cause Priiloader to be unable to find the hacks_hash.ini file.
+{: .notice--info}
+
+4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
+1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
+1. Scroll to `Homebrew Channel` and press A to launch it.
 
 ## Lista dei System Menu Hacks
 
-Questa è una lista di hacks che puoi attivare con Priiloader.
+This is a list of the hacks you can enable with Priiloader.
 
 | Hack                                    | Descrizione                                                                                                                                                                                                                      |
 | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

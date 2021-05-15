@@ -21,6 +21,8 @@ One of BootMii's most important features is the ability to backup and restore yo
 * Μία κάρτα SD με τουλάχιστον 512MB ελεύθερου χώρου
 
 #### Οδηγίες
+If you have BootMii installed as boot2 you will need to launch BootMii by restarting the console. Skip steps 1 and 2 if this is the case.
+{: .notice--info}
 1. Ξεκινήστε το Homebrew Channel.
 2. Πατήστε το πλήκτρο HOME, και επιλέξτε "Εκκίνηση BootMii".
 

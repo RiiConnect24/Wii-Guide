@@ -27,3 +27,6 @@ The following is a list of things that can potentially **BRICK** your vWii (don'
 * BootMiin ja/tai Priiloaderin/Preloaderin asentaminen.
 * Failure during the install of crucial system/IOS titles (e.g. power outage).
 * vWiin NAND:in muokkaaminen tietämättä mitä teet.
+
+### How can I remove parental controls?
+The [mkey generator](https://mkey.salthax.org) can generate the code required to remove parental controls.
