@@ -21,6 +21,8 @@ Jedną z najważniejszych funkcji BootMii jest możliwość wykonania kopii zapa
 * Karta pamięci SD z przynajmniej 512MB wolnej przestrzeni.
 
 #### Instrukcje
+If you have BootMii installed as boot2 you will need to launch BootMii by restarting the console. Skip steps 1 and 2 if this is the case.
+{: .notice--info}
 1. Uruchom Homebrew Channel.
 2. Naciśnij przycisk HOME oraz wybierz "Launch BootMii".
 
