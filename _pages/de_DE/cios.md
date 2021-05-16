@@ -71,16 +71,16 @@ Eine umfassendere (aber weiterhin unvollständige) Liste kann kann [**hier**](ht
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
 1. !!crwdP_30_Pdwrc!!Wähle das Spiel welches nicht funktioniert.
-1. Click Settings.
+1. Klicke Einstellungen.
 1. !!crwdP_26_Pdwrc!!Wähle `Game Load`.
 1. !!crwdP_27_Pdwrc!!Scrolle herunter zu `Game IOS`.
-1. Enter the IOS slot to use.
+1. Gib den zu verwendenden IOS-Slot ein.
     - Versuche 250 oder 251, falls 249 nicht funktioniert.
 1. !!crwdP_29_Pdwrc!!Drücke auf ok und versuche das Spiel zu laden.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. !!crwdP_30_Pdwrc!!Wähle das Spiel welches nicht funktioniert.
-1. Click the gear icon.
+1. Klicke auf das Zahnradsymbol.
 1. !!crwdP_32_Pdwrc!!Gehe zu cIOS und nutze die Pfeile um den zu verwendenden IOS-Slot auszuwählen.
     - Versuche 250 oder 251, falls 249 nicht funktioniert.
 1. !!crwdP_33_Pdwrc!!Drücke Speichern und versuche das Spiel zu laden.
