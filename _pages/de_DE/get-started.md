@@ -7,28 +7,28 @@ title: "Einstieg"
 Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [RiiConnect24 Discord-Server](https://discord.gg/rc24) bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Even if your Wii has already been softmodded in the past, following these steps can still ensure that your softmod is up to date.
+Auch wenn deine Wii in der Vergangenheit bereits einen Softmod erhalten hat, kann das Befolgen dieser Schritte dafür sorgen, dass dein Softmod aktuell ist.
 {: .notice--info}
 
-All of the exploits run the HackMii Installer, and have the same end result.
+Alle Exploits verwenden den HackMii-Installer und führen zum selben Endergebnis.
 {: .notice--info}
 
-Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
+Obwohl du diese Anleitung ohne eine SD-Karte befolgen kannst, wirst du nicht in der Lage sein, NAND-Sicherungen mittels BootMii zu erstellen oder wiederherzustellen und du wirst manchen Homebrew nicht benutzen können.
 {: .notice--info}
 
-This guide is for the original Wii and Wii mini only (including the Wii Family Edition), with the latest firmware (4.3). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
+Diese Anleitung ist für die originale Wii und Wii mini (inklusive der Wii Family Edition) mit der aktuellsten Systemversion (4.3) geeignet. Nutze sie nicht auf einer Wii U (vWii)! Falls du Homebrew auf einer Wii U installieren möchtest, [folge dieser Anleitung](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### Wähle den zu verwendenden Exploit
 
-These exploits are sorted by easiest to hardest difficulty of use.
+Diese Exploits sind von der einfachsten hin zur schwierigsten Handhabung sortiert.
 
 - [str2hax](str2hax) - Exploit, der die Wii EULA benutzt
-    * Requires an Internet connection and changing the DNS server
+    * Benötigt eine Internet-Verbindung und die Änderung des DNS-Servers
 - [LetterBomb](letterbomb) - Exploit, der die Wii-Pinnwand benutzt
-    * Requires an SD card
+    * Benötigt eine SD-Karte
 - [FlashHax](flashhax) - Exploit, der den Internet-Kanal nutzt
-    * Requires the Internet Channel installed, and an Internet connection
+    * Benötigt einen installierten Internet-Kanal und eine Internetverbindung
 - [BlueBomb](bluebomb) - Exploit, der Bluetooth benutzt
     * Erfordert einen Computer mit Bluetooth und GNU/Linux, sowie ein USB-Speichergerät
     * Dies ist der einzige Exploit, der auf der **Wii mini** funktioniert
