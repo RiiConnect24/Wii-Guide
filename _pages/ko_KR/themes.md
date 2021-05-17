@@ -18,7 +18,7 @@ vWii와 Wii U의 국가만을 위해 만들지 않은 이상 vWii (Wii U) 에 �
 가장 안전한 테마 설치 방법은 MyMenuify 모드입니다. 안전을 위해, 여기에 링크된 MyMenuify 외의 버전을 사용하지 마십시오.
 {: .notice--info}
 
-이 버전의 ThemeMii 모드는 4.3 Wii 메뉴를 위한 테마를 만드므로, 여기에 링크된 ThemeMii 외의 버전을 설치하지 마세요. 타 버전은 그렇지 않을 수도 있습니다.
+이 버전의 ThemeMii 모드는 4.3 Wii 메뉴를 위한 테마를 만드므로, 여기에 링크된 ThemeMii 외의 버전을 설치하지 마세요.
 {: .notice--info}
 
 계속하기 전에 [cIOS 설치](cios)를 추천합니다.
@@ -62,17 +62,17 @@ vWii와 Wii U의 국가만을 위해 만들지 않은 이상 vWii (Wii U) 에 �
 4. 파일 입력 창이 어디에 .app 파일을 저장할지 물어볼 겁니다 (다운로드한 Wii 메뉴 내용 파일). ThemeMii가 있는 디렉토리에 저장합니다.
 5. `Options` > `Standard System Menu` > 당신의 Wii 메뉴 버전 > 당신의 Wii 메뉴 국가로 이동하세요
 6. `File` > `Open`으로 이동한 뒤 .mym 파일을 탐색합니다.
-7. Press `Create csm`, then browse for a directory you want to save the theme in. Give it a moment to build the theme.
-8. A dialog box will pop up hopefully saying it built the theme correctly, and it will ask you if you want to save the .mym. Press `No`.
+7. `Create csm`을 클릭하고, 테마를 저장할 디렉토리를 탐색하세요. 테마를 빌드 할 때 까지 기다려 주세요.
+8. 아마도 창이 테마를 성공적으로 빌드했다고 뜰 것이며, .mym으로 저장할 지 물어볼 겁니다. `No`를 누르세요.
 
-##### Section III - Installing the Theme
+##### 섹션 III - 테마 설치하기
 
-1. Extract MyMenuify Mod and put it in the `apps` folder on your SD card or USB drive.
-2. Put the .csm file you saved in a folder called `modthemes` on your SD card or USB drive.
+1. MyMenuify 모드를 압축 해제하고 SD 카드 및 USB 드라이브의 `apps` 폴더에 붙여넣으세요.
+2. 저장된 .csm 파일을 SD 카드 및 USB 드라이브의 `modthemes` 폴더에 붙여넣으세요.
 3. Wii에 SD 카드나 USB 드라이브를 삽입하십시오.
-4. Launch MyMenuify Mod from the Homebrew Channel.
-5. After an introduction message, it will ask you what IOS you want to use in the app. If you have [installed cIOS](cios), use `IOS249`, or else use `IOS58`. If the former gives an `Exception DSI occurred!` error, press Reset on the Wii console, launch it again, then try `IOS250`.
-6. Highlight the theme you want to install, then press A. Give it a moment to install the theme, then press any button to go to the Wii Menu. Hopefully, the theme installed correctly.
+4. 홈브루 채널에서 MyMenuify Mod를 실행하세요.
+5. 소개 메시지 뒤에, 앱에서 사용할 IOS를 물어볼 겁니다. [cIOS를 설치](cios)했다면, `IOS249`를 사용하고 아니면 `IOS58`을 이용하세요. 전자가 `Exception DSI Occurred!` 오류를 띄운다면, Wii 콘솔의 RESET 버튼을 누르고, 재실행 한 뒤, `IOS250`을 시도해 보세요.
+6. 설치할 테마를 강조하고, A를 누르세요. 테마를 설치할 때 까지 시간을 기다리고, Wii 메뉴로 돌아가기 위해 아무 버튼을 눌러주세요. 아마도 테마는 올바르게 설치되었을 겁니다.
 
-Priiloader를 설치했기 때문에 검은 화면이나 일명 무지개 벽돌 "시스템 파일이 손상되었습니다"에 놀라지 마세요. Wii를 끄고 RESET 버튼을 꾹 누른 뒤 Wii를 켜세요. You should be able to boot into the Priiloader menu, where you have some options to fix your Wii Menu. One of the options is to launch the Homebrew Channel, where you can launch MyMenuify Mod and press a button to download and install the original Wii Menu theme.
+Priiloader를 설치했기 때문에 검은 화면이나 일명 무지개 벽돌 "시스템 파일이 손상되었습니다"에 놀라지 마세요. Wii를 끄고 RESET 버튼을 꾹 누른 뒤 Wii를 켜세요. Wii 메뉴를 고치는 기능이 있는 Priiloader 메뉴로 부팅됩니다. 홈브루 채널을 실행하는 옵션이 있는데, 여기에서 MyMenuify 모드를 실행하고 원본 Wii 메뉴 테마를 버튼을 눌러 받을 수 있습니다.
 {: .notice--info}
