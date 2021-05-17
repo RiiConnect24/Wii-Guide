@@ -8,7 +8,7 @@ title: "Faq"
 I bricks (uno stato dove alcune parti del software Wii non funzionano, o la tua Wii non funziona del tutto) sono adesso *praticamente* impossibili almeno che tu ignori/aggiri le misure di sicurezza.
 
 ### Dove dovrei andare per supporto?
-Either email us at support@riiconnect24.net or join the [RiiConnect24 Discord Server](https://discord.gg/rc24).
+Inviaci un'email a support@riiconnect24.net o unisciti al [ Server Discord RiiConnect24](https://discord.gg/rc24).
 
 ### Quali sono i requisiti e/o raccomandazioni per la scheda SD?
 Avrai bisogno di una scheda SD con almeno 128MB per far andare l'exploit.
@@ -28,5 +28,5 @@ Questa è una lista di cose che potrebbero **BRICKARE** la tua Wii virtuale (non
 * Fallimento durante le installazioni cruciali di sistemi/titoli IOS (es: interruzione di carica).
 * Modificare il NAND della Wii virtuale senza sapere cosa stai facendo.
 
-### How can I remove parental controls?
-The [mkey generator](https://mkey.salthax.org) can generate the code required to remove parental controls.
+### Come posso eliminare il filtro famiglia?
+Il [generatore di chiave principale](https://mkey.salthax.org) può generare il codice per rimuovere il filtro famiglia.
