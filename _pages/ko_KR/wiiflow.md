@@ -17,7 +17,7 @@ This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that
 * A USB drive and/or SD card
 * [WiiFlow Lite](https://hbb1.oscwii.org/hbb/wiiflow/wiiflow.zip)
 
-Make sure you have installed [cIOS](/cios) before following this!
+따르기 전에 [cIOS](/cios) 설치를 확인하세요!
 {: .notice--info}
 
 We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux.
