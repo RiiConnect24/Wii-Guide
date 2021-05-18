@@ -7,7 +7,7 @@ title: "USB 로더 GX"
 튜토리얼에 관한 질문이 있다면, [Wii Mini 해킹 디스코드 서버](https://discord.gg/rc24) 에 가입하거나(권장) [support@riiconnect24.net에 이메일을 보내세요](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-This is a quick start guide on how to use USB Loader GX, a popular USB loader for the Wii that's used to play games from a USB drive.
+이 가이드는 USB 드라이브에서 게임을 플레이 할 수 있는 기능으로 유명한 USB 로더인 USB Loader GX에 대해 설명합니다.
 
 ![USB 로더 GX](/images/usbloadergx.png)
 
@@ -17,7 +17,7 @@ This is a quick start guide on how to use USB Loader GX, a popular USB loader fo
 * A USB drive
 * [USB 로더 GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
 
-Make sure you have installed [cIOS](/cios) before following this!
+따르기 전에 [cIOS](/cios) 설치를 확인하세요!
 {: .notice--info}
 
 We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux.
