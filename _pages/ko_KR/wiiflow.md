@@ -40,12 +40,12 @@ Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Do not fo
 
 #### 방법
 
-##### Downloading
+##### 다운로드 하기
 
 1. Extract WiiFlow and put the `apps` and `WiiFlow` folders on your USB drive or SD card.
 2. Insert your USB drive, and SD card if you're using one, into your Wii and launch WiiFlow from the Homebrew Channel.
 
-##### Getting Started
+##### 시작하기
 
 This is not a full comprehensive guide on using WiiFlow. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow by using it.
 {: .notice--info}
