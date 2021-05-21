@@ -28,5 +28,5 @@ Voici une liste des choses pouvant potentiellement **BRICK** votre vWii (ne fait
 * Une erreur durant l’installation de fichiers système/IOS (ex : une panne de courant).
 * Modifier la mémoire de la vWii sans savoir ce que vous faites.
 
-### How can I remove parental controls?
-The [mkey generator](https://mkey.salthax.org) can generate the code required to remove parental controls.
+### Comment puis-je supprimer le contrôle parental?
+Le générateur [mkey](https://mkey.salthax.org) peut générer le code requis pour supprimer le contrôle parental.
