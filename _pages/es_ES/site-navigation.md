@@ -59,7 +59,7 @@ sitemap: falso
 
 **Sitio**
 + [Casa](/)
-+ [Empezar](comenzando)
++ [Empezar](comenzar)
 + [Preguntas frecuentes](preguntas-frecuentes)
 + [Donaciones](donations)
 {% endcapture %}
