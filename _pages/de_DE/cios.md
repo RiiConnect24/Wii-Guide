@@ -71,7 +71,7 @@ Eine umfassendere (aber weiterhin unvollständige) Liste kann kann [**hier**](ht
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
 1. !!crwdP_30_Pdwrc!!Wähle das Spiel welches nicht funktioniert.
-1. Klicke Einstellungen.
+1. Klicke auf Einstellungen.
 1. !!crwdP_26_Pdwrc!!Wähle `Game Load`.
 1. !!crwdP_27_Pdwrc!!Scrolle herunter zu `Game IOS`.
 1. Gib den zu verwendenden IOS-Slot ein.
