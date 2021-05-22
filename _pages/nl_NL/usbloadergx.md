@@ -14,7 +14,7 @@ This is a quick start guide on how to use USB Loader GX, a popular USB loader fo
 #### Benodigdheden
 
 * Een Wii
-* A USB drive
+* Een USB-stick of harde schijf
 * [USB Loader GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
 
 Zorg ervoor dat u [cIOS](/cios) heeft geïnstalleerd voordat u dit volgt!
