@@ -1,5 +1,5 @@
 ---
-title: "Creating Wii Game Shortcuts"
+title: "Создание ярлыков игр Wii"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -15,7 +15,7 @@ In the case of a brick, [installing Priiloader is a must](/priiloader). Also, in
 Do NOT make a shortcut for the games "Mario Party 9" or "A Boy and His Blob". It will brick your Wii.
 {: .notice--warning}
 
-#### What you need
+#### Что вам понадобится
 
 * A Wii
 * A USB drive.
