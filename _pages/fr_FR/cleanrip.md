@@ -15,7 +15,7 @@
 1. Sélectionnez l'appareil sur lequel vous allez extraire le jeu - votre périphérique USB ou votre carte SD. ![Device type](/images/CleanRip/2.png)
 1. Sur cet écran, on vous demandera si vous voulez télécharger un fichier avec les sommes de contrôle du jeu pour vérifier si l'extraction créée est une copie conforme du disque. Vous pouvez choisir `Oui` ou `Non`pour télécharger le fichier. ![DAT](/images/CleanRip/3.png)
 1. Maintenant insérez le jeu que vous voulez copier. ![DVD](/images/CleanRip/4.png) ![Initialising Disc](/images/CleanRip/5.png)
-1. Set it as shown on the screen below.
+1. Paramétrez comme sur l’image ci-dessous.
 
 title: "CleanRip"
 {: .notice--info}
