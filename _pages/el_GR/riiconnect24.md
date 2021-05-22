@@ -28,7 +28,7 @@ There is no guide to installing RiiConnect24 on a Wii Mini, as attempting to ins
 #### Τι χρειάζεστε
 
 * Μία κάρτα SD ή μέσο αποθήκευσης USB
-* A Wii with an Internet connection
+* Ένα Wii με σύνδεση στο διαδίκτυο
 * A computer
 * [RiiConnect24 Patcher (Windows and Unix)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
