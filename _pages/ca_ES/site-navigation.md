@@ -59,7 +59,7 @@ sitemap: fals
 
 **Site**
 + [Home](/)
-+ [Get Started](get-started)
++ [Get Started](començar)
 + [Preguntes Freqüents](preguntes freqüents)
 + [Donations](donations)
 {% endcapture %}
