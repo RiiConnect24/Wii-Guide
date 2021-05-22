@@ -25,7 +25,7 @@ There is no guide to installing RiiConnect24 on a Wii Mini, as attempting to ins
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-#### What you need
+#### Что вам понадобится
 
 * SD карта или USB флешка/жёсткий диск
 * A Wii with an Internet connection
