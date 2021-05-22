@@ -59,7 +59,7 @@ sitemap: false
 
 **Site**
 + [Home](/)
-+ [Get Started](get-started)
++ [Get Started](baslarken)
 + [Sıkça Sorulan Sorular (S.S.S)](S.S.S)
 + [Donations](donations)
 {% endcapture %}
