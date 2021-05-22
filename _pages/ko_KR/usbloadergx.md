@@ -14,7 +14,7 @@ title: "USB 로더 GX"
 #### 필요한 것
 
 * Wii
-* A USB drive
+* USB 드라이브
 * [USB 로더 GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
 
 따르기 전에 [cIOS](/cios) 설치를 확인하세요!
@@ -85,7 +85,7 @@ There are also other buttons:
 
 On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
 
-##### Options once complete
+##### 끝난 뒤 할 수 있는 것
 
 [사이트 네비게이션으로 계속하기](site-navigation)<br>당신이 좋아할만한 많은 튜토리얼이 있습니다.
 {: .notice--info}
