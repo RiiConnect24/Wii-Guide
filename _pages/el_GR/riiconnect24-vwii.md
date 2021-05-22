@@ -77,7 +77,7 @@ After following the above sections, you're almost able to utilize RiiConnect24 o
 
 #### What's currently working?
 The following RiiConnect24 services are **working** on the vWii:
-* News Channel
+* Κανάλι News (ειδήσεων)
     * This channel is affected by the timestamp issue. The "Last Updated" and article timestamps will be incorrect.
     * The banner data is also known to not work, returning `Unable to obtain data.`
 * Κανάλι Forecast (καιρού)
