@@ -71,7 +71,7 @@ Une liste plus complète (bien que toujours incomplète) peut être trouvée [**
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
 1. !!crwdP_24_Pdwrc!!Sélectionnez le jeu qui ne fonctionne pas.
-1. Click Settings.
+1. Cliquez sur `Settings`.
 1. !!crwdP_26_Pdwrc!!Sélectionnez `Game Load`.
 1. !!crwdP_27_Pdwrc!!Faites défiler jusqu'à `Game IOS`.
 1. !!crwdP_28_Pdwrc!!Entrez le slot IOS à utiliser.
@@ -80,7 +80,7 @@ Une liste plus complète (bien que toujours incomplète) peut être trouvée [**
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. !!crwdP_24_Pdwrc!!Sélectionnez le jeu qui ne fonctionne pas.
-1. Click the gear icon.
+1. Cliquez sur l’icône d’engrenage.
 1. !!crwdP_32_Pdwrc!!Allez dans `cIOS` et utilisez les flèches pour sélectionner le slot IOS désiré.
     - Essayez d'utiliser le 250 ou le 251, si le 249 ne fonctionne pas.
 1. !!crwdP_33_Pdwrc!!Appuyez sur `Save` et essayez de lancer le jeu.
