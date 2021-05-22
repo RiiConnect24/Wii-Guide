@@ -12,7 +12,7 @@ WiiLink and all of its services (such as Wii no Ma) are not controlled or operat
 #### What you need
 
 * An SD card or USB drive
-* A Wii with an Internet connection
+* En Wii med en Internett-tilkobling
 * A Windows or Unix based computer
 * [WiiLink Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
