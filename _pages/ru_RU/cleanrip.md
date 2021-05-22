@@ -1,4 +1,4 @@
-#### What you need
+#### Что вам понадобится
 
 * An SD card or USB drive with at least 4.7 GB of free space
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
