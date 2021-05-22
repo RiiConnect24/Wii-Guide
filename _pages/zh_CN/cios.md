@@ -4,7 +4,7 @@ title: "cIOS"
 
 {% include toc title="Table of Contents" %}
 
-This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS. This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
+This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS. 如果你想使用USB Loader加载游戏，你就需要这个。 有一些自制软件使用cIOS会运作的更好。
 
 ![d2x cIOS Installer](/images/cios/cIOS.png)
 
@@ -22,14 +22,14 @@ Ensure that if you are using an SD card, the lock switch is in the unlocked posi
 
 #### 步骤
 
-##### Section I - Downloading
+##### 第一章 - 下载
 
 1. Download d2x cIOS Installer and extract it to the `apps` folder on your SD card or USB drive.
 1. Insert your SD card or USB drive into your Wii, and launch d2x cIOS Installer from the Homebrew Channel.
 
-##### Section II - Installing
+##### 第二章 - 安装
 
-1. Press continue, then set the options to the following:
+1. 按下继续，然后按照以下设置设定：
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 57
