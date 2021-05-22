@@ -66,7 +66,7 @@ Um dos recursos mais importantes do BootMii é a capacidade de fazer backup e re
 
 **Site**
 + [Home](/)
-+ [Introdução](get-started)
++ [Introdução](Prepare-se)
 + [\[Perguntas frequentes\](perguntas frequentes)](perguntas frequentes)
 + [Donations](donations)
 {% endcapture %}
