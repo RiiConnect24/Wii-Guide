@@ -111,7 +111,7 @@ Se ottieni l'errore 107245, allora probabilmente hai fallito nel patchare il tuo
 Se ottieni l'errore 107304, allora forse il tuo ISP blocca l'uso di DNS particolari. Un modo di raggirarlo è quello di avviare il tuo server DNS personale! Vedi la guida [RiiConnect24 DNS Server on GitHub](https://github.com/RiiConnect24/DNS-Server), poi usa l'indirizzo IP del tuo PC al posto del nostro DNS nel passaggio 8.
 {: .notice--info}
 
-If you get error FORE000006, your Wii's clock is probably set incorrectly. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel should start working.
+Se hai l'errore FORE000006, il tuo orario della Wii potrebbe essere sbagliato. Impostalo alla data e ora corretta, poi aspetta non più di un ora e il Canale Meteo dovrebbe funzionare di nuovo.
 {: .notice--warning}
 
 [Se ottieni l'errore NEWS000006, seguire questa guida dovrebbe risolvere.](news000006)
