@@ -77,7 +77,7 @@ Depois de seguir as seções acima, você quase poderá utilizar o RiiConnect24 
 
 #### O que está funcionando atualmente?
 Os seguintes serviços RiiConnect24 estão **funcionando** no vWii:
-* News Channel
+* Canal de Notícias
     * Este canal é afetado pela questão do registro de data/hora. As datas da "última atualização" e do artigo estarão incorretas.
     * The banner data is also known to not work, returning `Unable to obtain data.`
 * Canal do Tempo
