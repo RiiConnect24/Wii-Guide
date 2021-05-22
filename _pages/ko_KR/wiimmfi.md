@@ -141,8 +141,8 @@ Getting a Wi-Fi network with WEP or no security is the hardest part, because DS 
 
 1. Go in the Nintendo DS Wi-Fi settings. This can be accessed inside the game you want to play online with.
 2. Set up a connection.
-3. Type in `164.132.44.106` as the primary DNS.
-4. Type in `1.1.1.1` as the secondary DNS (if it gives you problems, try `8.8.8.8`).
+3. 주요 DNS를 `164.132.44.106`으로 입력합니다.
+4. 보조 DNS를 `1.1.1.1`으로 입력합니다 (문제가 있는 경우 `8.8.8.8` 시도).
 5. Save your connection settings and perform a connection test. If it's successful, then you're ready to play.
 
 ### Mario Kart Wii Mods
