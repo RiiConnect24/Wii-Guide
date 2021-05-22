@@ -12,7 +12,7 @@ WiiLink and all of its services (such as Wii no Ma) are not controlled or operat
 #### Τι χρειάζεστε
 
 * Μία κάρτα SD ή μέσο αποθήκευσης USB
-* A Wii with an Internet connection
+* Ένα Wii με σύνδεση στο διαδίκτυο
 * A Windows or Unix based computer
 * [WiiLink Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
