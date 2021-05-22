@@ -7,7 +7,7 @@ title: "Homebrew Kanaal en BootMii Installatie"
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![HBC Logo](/images/hbc.png)
+![HBC-logo](/images/hbc.png)
 
 Het Homebrew Kanaal is de plek waarvan je al jouw homebrew applicaties kunt openen. De BootMii software laat u een NAND back-up maken en laat u ook een NAND back-up terug op uw Wii zetten. Als u boot2 installeert zorgt dit er ook voor dat u Wii veel beter beschermd is tegen een "brick".
 
