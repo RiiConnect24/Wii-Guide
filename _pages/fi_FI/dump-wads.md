@@ -10,7 +10,7 @@ Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiCon
 This tutorial will explain you how to dump WADs from your Wii System Memory.
 
 #### Vaatimukset
-* An SD card or USB drive
+* SD-kortti tai USB-asema
 * [Yet Another BlueDump MOD](/assets/files/YABDM.zip)
 
 #### Ohjeet
