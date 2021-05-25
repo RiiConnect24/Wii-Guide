@@ -7,7 +7,7 @@ title: "WiiLink"
 WiiLink and all of its services (such as Wii no Ma) are not controlled or operated by RiiConnect24.
 {: .notice--warning}
 
-[WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive Wii no Ma channel, and in the future will let you use the Digicam Print Channel and the Demae Channel again.
+[WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels Wii Room and Digicam Print Channel, and in the future will let you use the Demae Channel again.
 
 #### 필요한 것
 
@@ -18,7 +18,7 @@ WiiLink and all of its services (such as Wii no Ma) are not controlled or operat
 
 #### 방법
 
-##### 섹션 I - Wii 노마 패치하기
+##### Section I - Patching WADs
 
 [WAD 설치 방법을 자세하게 알고 싶다면, 여기를 누르세요!](wiimodlite)
 {: .notice--info}
@@ -36,14 +36,25 @@ WiiLink and all of its services (such as Wii no Ma) are not controlled or operat
 11. Wii에서 홈브루 채널을 실행하세요.
 12. Wii Mod Lite를 실행하세요.
 13. Wii 리모컨의 +컨트롤 패드를 사용하여, `WAD Manager`를 찾으세요. 그 뒤 `wad` 폴더로 이동하세요.
-14. Wii 노마 WAD를 선택한 뒤 A를 눌러 설치하세요.
-15. 설치가 완료되고 나면, HOME 버튼을 눌러 홈브루 런처로 되돌아가세요.
-16. Wii 노마를 실행하고 즐기세요!
+14. If your Wii is not a Japanese region, install WiiLink24_SPD.wad before anything else. This is required so that we know your email address to send files.
+15. Highlight all other WADs with `WiiLink24` in the name, and press + to select them. 모두가 선택되면, A를 두번 눌러 설치하세요.
+16. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
-PAL (유럽 Wii) 를 위하여<br>Wii 설정에서 TV 해상도를 60 HZ (480p/480i) 로 설정하세요. `화면 -> TV 해상도`에서 찾을수 있습니다 만약 하지 않는다면, 시야를 방해하는 분홍색 줄이 화면 밑에 나타납니다.
+##### Section II - Adding your email to SPD
+
+Adding your email to SPD will allow channels like Digicam and Demae to send files like images or links to you.
 {: .notice--info}
 
-[Wiimmfi로 계속하기](wiimmfi)<br> Wiimmfi는 닌텐도 Wi-Fi 커넥션의 서비스 종료 이후로도 게임을 온라인으로 플레이 할 수 있게 합니다. 설치는 선택입니다.
+1. Launch Digicam Print Channel from your Wii's home menu.
+2. On the bottom right, press `Address settings` and then `Yes`.
+3. Click on `Email Address` within SPD and type in your email address. (make sure you **put it in correctly** or it **will not work!**)
+4. Press `OK` and then `Done`.
+5. Once you are in the SPD main menu, choose `Digicam` in the `Choose Channel` menu. After you’ve done that, it should work!
+
+For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
+{: .notice--info}
+
+[RiiConnect24로 계속하기](riiconnect24)<br> RiiConnect24는 WiiConnect24의 서비스 종료된 서비스를 사용할 수 있게 합니다. 여기에는 News, Forecast, Everybody Votes, Nintendo, Check Mii Out 채널 (대한민국 미출시) 이 포함되며 Wii 메일 역시 포함됩니다. 설치는 선택입니다.
 {: .notice--info}
 
 [Wiimmfi로 계속하기](wiimmfi)<br> Wiimmfi는 닌텐도 Wi-Fi 커넥션의 서비스 종료 이후로도 게임을 온라인으로 플레이 할 수 있게 합니다. 설치는 선택입니다.
