@@ -40,7 +40,7 @@ Davebaol alunperin kehitti tämän d2x cIOS installerin Wii U:n vWiitä varten j
     ```
 Take a note of the version number under notes (`IOS57-64-` ending in either `v31776` or `v31775`)
 1. Kun asetettu, paina A:ta asentaaksesi. Kun tehty onnistuneesti, poistu asennusohjelmasta.
-   - If the install fails with a `TMD version mismatch` error, press left or right on the +Control Pad over the `Select cIOS base` option until the version number is different than the one you tried before. Numero 57 ei vaihdu.
+   - Jos asennus epäonnistuu `TMD version mismatch` virheellä, paina vasenta tai oikeaa ristiohjaimen painiketta `Select cIOS base` asetuksen kohdalla, kunnes versionumero on eri kuin se, jota aikaisemmin kokeilit. Numero 57 ei vaihdu.
 
 
 ##### Ethernetin käyttöönotto
