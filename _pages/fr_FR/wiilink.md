@@ -7,7 +7,7 @@ title: "WiiLink"
 WiiLink24 et tous ses services (tels que Wii no Ma) ne sont ni contrôlés ni exploités par RiiConnect24.
 {: .notice--warning}
 
-[WiiLink24](https://wiilink24.com/) vous permet d'utiliser la chaîne Wii no Ma exclusive au Japon et, à l'avenir, vous permettra d'utiliser à nouveau la chaîne Digicam Print et la chaîne Demae.
+[WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels Wii Room and Digicam Print Channel, and in the future will let you use the Demae Channel again.
 
 #### Ce dont vous aurez besoin
 
@@ -18,7 +18,7 @@ WiiLink24 et tous ses services (tels que Wii no Ma) ne sont ni contrôlés ni ex
 
 #### Instructions
 
-##### Section I - Patcher Wii no Ma
+##### Section I - Patching WADs
 
 [Si vous souhaitez voir des instructions détaillées sur la façon d'installer les WAD, cliquez ici!](wiimodlite)
 {: .notice--info}
@@ -36,11 +36,22 @@ WiiLink24 et tous ses services (tels que Wii no Ma) ne sont ni contrôlés ni ex
 11. Lancez Homebrew Channel sur votre Wii.
 12. Lancez Wii Mod Lite.
 13. À l'aide de la croix directionnelle de votre télécommande Wii, accédez à `WAD Manager`, puis accédez au dossier `wad`.
-14. Sélectionnez le WAD Wii no Ma et appuyez sur A pour l'installer.
-15. Une fois correctement installé, appuyez sur le bouton HOME pour revenir au Homebrew Channel.
-16. Lancez Wii no Ma et amusez-vous !
+14. If your Wii is not a Japanese region, install WiiLink24_SPD.wad before anything else. This is required so that we know your email address to send files.
+15. Highlight all other WADs with `WiiLink24` in the name, and press + to select them. Lorsqu'ils sont tous sélectionnés, appuyez deux fois sur A pour installer les WADs.
+16. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
-Pour PAL (Wiis européennes)<br> Dans les paramètres Wii, veuillez régler la résolution du téléviseur sur 60 HZ (480p/480i). Vous pouvez trouver ce paramètre dans `Écran -> Résolution TV`. Si vous ne le faites pas, une barre rose apparaîtra en bas de l'écran, gênant la vision.
+##### Section II - Adding your email to SPD
+
+Adding your email to SPD will allow channels like Digicam and Demae to send files like images or links to you.
+{: .notice--info}
+
+1. Launch Digicam Print Channel from your Wii's home menu.
+2. On the bottom right, press `Address settings` and then `Yes`.
+3. Click on `Email Address` within SPD and type in your email address. (make sure you **put it in correctly** or it **will not work!**)
+4. Press `OK` and then `Done`.
+5. Once you are in the SPD main menu, choose `Digicam` in the `Choose Channel` menu. After you’ve done that, it should work!
+
+For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
 {: .notice--info}
 
 [ Continuer vers RiiConnect24 ](riiconnect24) <br> RiiConnect24 vous permet d'utiliser les services interrompus de WiiConnect24, qui incluent la Chaîne Infos, la Chaîne Météo, la Chaîne Votes, la Chaîne Nintendo et la Chaîne Concours Mii, ainsi que Wii Mail. L'installation est facultative.
