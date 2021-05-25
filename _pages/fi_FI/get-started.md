@@ -21,14 +21,14 @@ This guide is for the original Wii and Wii mini only (including the Wii Family E
 
 ### Valitse käytettävä exploit
 
-These exploits are sorted by easiest to hardest difficulty of use.
+Nämä exploitit on lajiteltu käyttövaikeuden mukaan helpoimmasta vaikeimpaan.
 
 - [str2hax](str2hax) - Exploit, joka käyttää Wii EULA:a
-    * Requires an Internet connection and changing the DNS server
+    * Vaatii internetyhteyden ja DNS-palvelimen vaihtamisen
 - [LetterBomb](letterbomb) - Exploit, joka käyttää Wii Message Board:ia
-    * Requires an SD card
+    * Vaatii SD-kortin
 - [FlashHax](flashhax) - Exploit, joka käyttää Internet Channel:ia
-    * Requires the Internet Channel installed, and an Internet connection
+    * Vaatii Internet Channel -asennuksen ja internetyhteyden
 - [BlueBomb](bluebomb) - Exploit, joka käyttää Bluetoothia
-    * Requires a computer with Bluetooth and GNU/Linux, as well as a USB storage device
+    * Vaatii GNU/Linux-tietokoneen Bluetoothilla, sekä USB-aseman
     * Tämä on ainoa exploit, joka toimii **Wii minillä**
