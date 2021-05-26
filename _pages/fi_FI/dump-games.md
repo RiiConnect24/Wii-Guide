@@ -1,11 +1,11 @@
 ---
-title: "Dumping Wii/GameCube games"
+title: "Wii/GameCube-pelien kopiointi"
 ---
 
-Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
+Haluatko luoda kopion GameCube- tai Wii-levystä? Sen tekemiseen on olemassa kaksi tapaa, riippuen saatavillasi olevista työkaluista.
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">To a PC over the network</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">SD-kortille/USB-asemalle</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">Tietokoneelle verkon yli</button>
 
 {% capture cleanripInstructions %}
 ### Cleanrip-opas
@@ -13,7 +13,7 @@ Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending
 {% endcapture %}
 
 {% capture networkInstructions %}
-### Dumping a game over a local network
+### Levyn kopiointi lähiverkon yli
 {% include_relative dump-smb.md %}
 {% endcapture %}
 
