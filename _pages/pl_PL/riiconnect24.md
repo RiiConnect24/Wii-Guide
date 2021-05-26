@@ -102,7 +102,7 @@ W tej sekcji, ustawimy Twój adres DNS na nasze serwery. Jest to krok opcjonalny
 [Przejdź do strony przeznaczonej instalacji Wiimmfi](wiimmfi)<br> Wiimmfi pozwala Ci na granie w gry online po zakończeniu wsparcia serwisu Nintendo Wi-Fi Connection. Jest to opcjonalny krok.
 {: .notice--info}
 
-[Przejdź do instalacji WiiLink24](wiilink24)<br> WiiLink24 pozwala Ci korzystać z kanałów ekskluzywnych dla Japonii takich jak np. Wii no Ma Channel. Jest to opcjonalny krok.
+[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels Wii Room and Digicam Print Channel. Jest to opcjonalny krok.
 {: .notice--info}
 
 Jeżeli otrzymasz błąd 107245, prawdopodobnie nie udało Ci się poprawnie zainstalować plików IOS z poprawkami.
