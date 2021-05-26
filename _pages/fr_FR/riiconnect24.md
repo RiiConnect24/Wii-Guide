@@ -102,7 +102,7 @@ Dans cette section, vous allez paramétrer vos DNS sur notre serveur. C'est facu
 [Continuer vers Wiimmfi](wiimmfi)<br> Wiimmfi vous permet de jouer à des jeux en ligne après l'arrêt de la connexion Wi-Fi Nintendo. L'installation est facultative.
 {: .notice--info}
 
-[Continuer vers WiiLink24](wiilink24)<br> WiiLink24 vous permet d'utiliser la chaîne Wii no Ma exclusive au Japon. L'installation est facultative.
+[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels Wii Room and Digicam Print Channel. L'installation est facultative.
 {: .notice--info}
 
 Si vous obtenez l'erreur 107245, vous n'avez probablement pas réussi à patcher correctement votre IOS.
