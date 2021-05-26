@@ -2,10 +2,10 @@
 title: "Open Shop Channel (Homebrew Browser)"
 ---
 
-If you need help for anything regarding this tutorial, please join [the Open Shop Channel](https://discord.gg/osc) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [Open Shop Channelin Discord-palvelimelle](https://discord.gg/osc) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
+[Open Shop Channel](https://oscwii.org/) on paikka, josta voit hankkia homebrew-sovelluksia. Se on elvytysprojekti Homebrew Browser -nimiselle sovellukselle.
 
 #### Mitä tarvitset
 * SD-kortti tai USB-asema
@@ -13,17 +13,17 @@ The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew
 
 #### Ohjeet
 
-1. Extract the Homebrew Browser and put it in the `apps` folder on your SD card or USB drive.
-2. Insert your SD card or USB drive into your Wii. You can now launch the Homebrew Browser from the Homebrew Channel if you want to.
+1. Pura Homebrew Browser ja laita se `apps` kansioon SD-kortillesi tai USB-asemallesi.
+2. Laita SD-korttisi tai USB-asemasi Wii-konsoliisi. Voit nyt halutessasi käynnistää Homebrew Browserin Homebrew Channelista.
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
+[Jatka RiiConnect24:n asennukseen](riiconnect24)<br> RiiConnect24 sallii sinun käyttää lopetettuja WiiConnect24:n tarjoamia palveluita, joihin kuuluvat News, Forecast, Everybody Votes, Nintendo ja Mii Contest Channel, sekä Wii Mail. Tämän asentaminen on vapaaehtoista.
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 
-Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
+Homebrew Browserin latauksen mukana on Homebrew Browserin käyttöä koskeva opas.
 {: .notice--info}
 
-You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
+Voit vaihtaa ShopChannel.ogg:n loop.ogg:ksi kansiossa `/apps/homebrew_browser/` saadaksesi Homebrew Browserin soittamaan Wii Shop Channelin musiikkia.
 {: .notice--info}
