@@ -11,7 +11,7 @@ sitemap: falso
 
 + [Instalar cIOS](cios)
 + [Instalar RiiConnect24](riiconnect24)
-+ [Instalar WiiLink24](wiilink24)
++ [WiiLink](wiilink)
 + [Instalar Wiimmfi](wiimmfi)
 {% endcapture %}
 <div class="notice--info">{ notice-1 | markdownify }</div>
@@ -21,7 +21,7 @@ sitemap: falso
 + [Instalar RiiConnect24](riiconnect24)
 + [RiiXOnnect24 para vWii](riiconnect24-vwii)
 + [RiiConnect24 para Dolphin](riiconnect24-dolphin)
-+ [Instalar WiiLink24](wiilink24)
++ [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Eliminando VFFs](deleting-vffs)
