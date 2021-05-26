@@ -102,7 +102,7 @@ RiiConnect24 패쳐를 실행시킬 수 없다면, support@riiconnect24.net로 �
 [Wiimmfi로 계속하기](wiimmfi)<br> Wiimmfi는 닌텐도 Wi-Fi 커넥션의 서비스 종료 이후로도 게임을 온라인으로 플레이 할 수 있게 합니다. 설치는 선택입니다.
 {: .notice--info}
 
-[WiiLink24로 계속하기](wiilink24)<br> WiiLink24는 일본 전용 Wii no Ma 채널을 사용할 수 있게 합니다. 설치는 선택입니다.
+[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels Wii Room and Digicam Print Channel. 설치는 선택입니다.
 {: .notice--info}
 
 107245 오류를 받는다면, IOS 패치가 올바르게 되지 않았습니다.
