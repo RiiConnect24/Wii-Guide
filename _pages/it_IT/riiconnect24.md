@@ -102,7 +102,7 @@ In questa sezione, imposterai i tuoi DNS ai nostri server. Tieni presente che fa
 [Continua a Wiimmfi](wiimmfi)<br> Wiimmfi ti permette di giocare a giochi online dopo la discontinuazione del Nintendo Wi-Fi Connction. L'installazione di RiiConnect24 è facoltativa.
 {: .notice--info}
 
-[Continua a WiiLink24](wiilink24)<br> WiiLink24 ti permette di usare no Ma channel, un canale esclusivamente giapponese. L'installazione di RiiConnect24 è facoltativa.
+[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels Wii Room and Digicam Print Channel. L'installazione di RiiConnect24 è facoltativa.
 {: .notice--info}
 
 Se ottieni l'errore 107245, allora probabilmente hai fallito nel patchare il tuo IOS correttamente.
