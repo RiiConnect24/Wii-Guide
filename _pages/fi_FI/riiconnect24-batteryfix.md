@@ -9,7 +9,7 @@ Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiCon
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-If you get error FORE000006, your Wii's clock is probably set incorrectly. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel should start working.
+Jos saat virheen FORE000006, Wiisi kello on todennäköisesti asetettu väärin. Aseta se oikeaan päivämäärään ja aikaan, sitten odota enintään tunti ja Forecast Channelin pitäisi alkaa toimia.
 
 [Palaa RiiConnect24:n asennussivulle](riiconnect24)
 {: .notice--info}
