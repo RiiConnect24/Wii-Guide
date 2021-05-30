@@ -59,9 +59,9 @@ RiiTag 키는 누구와도 공유하지 마세요! 만약 공유한다면, 사�
 7. 수정된 `wiiflow.ini` 파일을 저장하세요.
 8. 이제 RiiTag가 설정되었습니다. 이제 올바르게 작동하는지 아무 게임이나 실행해서 확인할 수 있습니다.
 
-###### 돌핀 에뮬레이터
+###### Emulators
 
-사용하기 위해선 Discord 계정이 필요합니다.
+RiiTag supports Dolphin, Citra, and Cemu. You need a Discord account for this to work.
 {: .notice--info}
 
 1. 아직 있지 않다면 [RiiConnect24 디스코드 서버에 가입](https://discord.gg/rc24)하세요.
