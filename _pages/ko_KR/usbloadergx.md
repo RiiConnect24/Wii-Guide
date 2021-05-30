@@ -32,7 +32,7 @@ Wii Backup Manager, Witgui, Wii Backup Fusion으로 게임을 복사하지 않�
 게임을 플레이하기 위해선, Wii를 위한 외장하드를 권장드립니다. 플래시 드라이브도 사용할 수는 있지만, 외장하드가 더 안정적이고, 게임을 더 많이 보관할 수 있기 때문에 권장됩니다.
 {: .notice--info}
 
-Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as extFS or WBFS, the latter is an old format of storing Wii games.
+USB 드라이브가 FAT32나 NTFS로 포맷되었는지 확인하세요. WBFS나 extFS와 같은 다른 형태로 포맷하지 마세요. 전자는 게임을 저장하는 오래된 방법입니다.
 {: .notice--info}
 
 #### 방법
@@ -44,11 +44,11 @@ Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as othe
 
 ##### 시작하기
 
-There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. 사용하면서 USB Loader GX의 좋은 기능들을 알아낼 수 있을 겁니다.
+USB 로더 GX 앱에는 "가이드"가 없습니다. 이 글은 그저 간단한 시작을 위한 사용 방법을 알려주려고 만들었습니다. 사용하면서 USB Loader GX의 좋은 기능들을 알아낼 수 있을 겁니다.
 {: .notice--info}
 
-* USB Loader GX가 20초 카운트 다운과 함께 "Waiting for HDD..."라고 한다면, USB 드라이브를 찾지 못할 가능성이 큽니다. Try to exit out of the app, and then relaunch it after you put the USB drive in the other port of the Wii.
-* You can press the 1 Button on your Wii Remote to open up a dialog to download game covers and artwork from [GameTDB](https://gametdb.com/). It might take a while to download the game covers and artwork, depending on how many games you have.
+* USB Loader GX가 20초 카운트 다운과 함께 "Waiting for HDD..."라고 한다면, USB 드라이브를 찾지 못할 가능성이 큽니다. 앱에서 나가는 것을 시도해 보고, Wii의 다른 포트에 USB 드라이브를 삽입한 뒤에 재 실행 하세요.
+* Wii 리모컨 맨 위의 1 버튼을 눌러서 [GameTDB](https://gametdb.com/)에서 게임 커버와 아트워크를 받는 창을 열 수 있습니다. 게임 수에 따라 게임 커버 및 아트워크를 받는 시간이 걸릴 수 있습니다.
 * There are WADs that can open up USB Loader GX if you load it from the Wii Menu. This is called a forwarder WAD. An official forwarder WAD can be found [here](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), and a version for the vWii (Wii U) can be found [here](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad).
 * GameCube or "custom" Wii games may or may not have a custom banner that USB Loader GX uses. To enable this, find or write `CustomBannersURL = http://banner.rc24.xyz/` in config/GXGlobal.cfg on your USB drive. Then you can use the "Custom Banner" download by pressing the 1 Button on your Wii Remote.
 
