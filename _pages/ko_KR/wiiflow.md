@@ -35,7 +35,7 @@ Wii Backup Manager, Witgui, Wii Backup Fusion으로 게임을 복사하지 않�
 Unlike USB Loader GX, WiiFlow can load games of an SD card.
 {: .notice--info}
 
-Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Do not format it as other types such as extFS or WBFS, the latter is an old format of storing Wii games.
+Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. WBFS나 extFS와 같은 다른 형태로 포맷하지 마세요. 전자는 게임을 저장하는 오래된 방법입니다.
 {: .notice--info}
 
 #### 방법
@@ -47,7 +47,7 @@ Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Do not fo
 
 ##### 시작하기
 
-This is not a full comprehensive guide on using WiiFlow. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow by using it.
+This is not a full comprehensive guide on using WiiFlow. 이 글은 그저 간단한 시작을 위한 사용 방법을 알려주려고 만들었습니다. You should be able to figure out all the great features of WiiFlow by using it.
 {: .notice--info}
 
 * WiiFlow by default is set to only find games on the SD card. This can be changed by going in to settings, startup settings then turn off "Mount SD Only".
