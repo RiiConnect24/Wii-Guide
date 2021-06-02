@@ -102,7 +102,7 @@ In diesem Abschnitt wirst du deinen DNS zu unseren Servern einstellen. Dies ist 
 [Weiter zu Wiimmfi](wiimmfi)<br> Wiimmfi ermöglicht es dir, Spiele online spielen zu können obwohl die Nintendo Wi-Fi Connection eingestellt wurde. Dies zu installieren ist nicht zwingend erforderlich.
 {: .notice--info}
 
-[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels Wii Room and Digicam Print Channel. Dies zu installieren ist nicht zwingend erforderlich.
+[Weiter zu WiiLink](wiilink)<br> WiiLink ermöglicht es dir, die Japan-exklusiven Kanäle Wii Room und Digicam Print Channel zu nutzen. Dies zu installieren ist nicht zwingend erforderlich.
 {: .notice--info}
 
 Falls du den Fehler 107245 erhältst, hast du wahrscheinlich dein IOS nicht korrekt gepatcht.
