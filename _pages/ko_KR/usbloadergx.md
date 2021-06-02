@@ -49,7 +49,7 @@ USB 로더 GX 앱에는 "가이드"가 없습니다. 이 글은 그저 간단한
 
 * USB Loader GX가 20초 카운트 다운과 함께 "Waiting for HDD..."라고 한다면, USB 드라이브를 찾지 못할 가능성이 큽니다. 앱에서 나가는 것을 시도해 보고, Wii의 다른 포트에 USB 드라이브를 삽입한 뒤에 재 실행 하세요.
 * Wii 리모컨 맨 위의 1 버튼을 눌러서 [GameTDB](https://gametdb.com/)에서 게임 커버와 아트워크를 받는 창을 열 수 있습니다. 게임 수에 따라 게임 커버 및 아트워크를 받는 시간이 걸릴 수 있습니다.
-* There are WADs that can open up USB Loader GX if you load it from the Wii Menu. This is called a forwarder WAD. An official forwarder WAD can be found [here](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), and a version for the vWii (Wii U) can be found [here](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad).
+* Wii 메뉴에서 USB Loader GX를 실행할 수 있는 WAD가 있습니다. 이들은 포워더 WAD라 불립니다. An official forwarder WAD can be found [here](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), and a version for the vWii (Wii U) can be found [here](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad).
 * GameCube or "custom" Wii games may or may not have a custom banner that USB Loader GX uses. To enable this, find or write `CustomBannersURL = http://banner.rc24.xyz/` in config/GXGlobal.cfg on your USB drive. Then you can use the "Custom Banner" download by pressing the 1 Button on your Wii Remote.
 
 ##### User Interface
