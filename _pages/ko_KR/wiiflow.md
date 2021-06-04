@@ -54,7 +54,7 @@ This is not a full comprehensive guide on using WiiFlow. 이 글은 그저 간�
 * You can toggle between viewing Wii games, GameCube games, Wii Channels, Plugins, Homebrew apps by clicking the button second to last button on the right.
 * You can download game covers by going to "Settings" then "Download Covers and Banners"
 
-##### User Interface
+##### 사용자 인터페이스
 
 When WiiFlow detects games, they are displayed in flow view. When you click on a game you are given these options:
 
