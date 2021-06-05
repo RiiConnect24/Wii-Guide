@@ -78,12 +78,12 @@ USB Loader GX 인터페이스에는 여러 버튼이 있습니다.
 
 * (+) 아이콘 - 게임을 "설치"합니다. 예. 게임을 디스크에서 불러오고 덤프합니다.
 * 톱니바퀴 - USB Loader GX의 설정입니다.
-* SD card - Remount the SD card.
-* Homebrew - Load homebrew apps.
-* Wii - Open up the HOME Menu, which can also be accessed by pressing the HOME Button on the Wii Remote.
-* Power Button - Turn off your Wii.
+* SD 카드 - SD 카드 재 마운트
+* 홈브루 - 홈브루 앱 가져오기
+* Wii - 홈 메뉴를 불러옵니다. Wii 리모컨에서 HOME 버튼을 눌러서도 접근할 수 있습니다.
+* 전원 버튼 - Wii 종료.
 
-On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
+화면 가운데 밑에는 USB 드라이브의 남는 공간과 게임 수가 나타납니다.
 
 ##### 끝난 뒤 할 수 있는 것
 
