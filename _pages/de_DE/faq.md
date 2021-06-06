@@ -28,5 +28,5 @@ Folgendes ist eine Liste mit Dingen, die möglicherweise deine vWii **BRICKEN** 
 * Scheitern der Installation von essentiellen System-/IOS-Titeln (bspw. aufgrund von Stromausfall).
 * Modifikationen am NAND der vWii vornehmen ohne zu wissen, was du tust.
 
-### How can I remove parental controls?
-The [mkey generator](https://mkey.salthax.org) can generate the code required to remove parental controls.
+### Wie entferne ich eine Kindersicherung?
+Der [mkey generator](https://mkey.salthax.org) kann einen Code zum Entfernen der Kindersicherung generieren.

@@ -9,7 +9,7 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 你在使用USB Loader并且想创建个可以直接从Wii菜单启动的游戏快捷方式吗？ 那么可以试试WiiGSC (Wii Game Shortcut Creator)，也被称之为Crap。
 
-为了防止砖机，[你必须安装Priiloader](/priiloader)。 另外，安装BootMii（在Boot2上，如果你有早期版本的Wii） 安装砖机保护和正确跟随教程可以让你保持安全，远离砖机。 如果你没有安装PriiLoader和BootMii，请不要继续！
+为了防止砖机，[你必须安装Priiloader](/priiloader)。 另外，安装BootMii（在Boot2上，如果你有早期版本的Wii） 安装砖机保护和正确跟随教程可以让你保持安全，远离砖机。 Installing brick protection along with following the guide correctly should keep you safe from bricks. DO NOT CONTINUE UNTIL YOU HAVE INSTALLED PRIILOADER AND BOOTMII!
 {: .notice--warning}
 
 请不要制作《马里奥派对9》和《男孩与泡泡怪》游戏的快捷方式。 这会砖机。

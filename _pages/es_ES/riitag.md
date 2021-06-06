@@ -29,7 +29,7 @@ RiiTag es un gamertag personalizable y dinámico. Al compartir tu gamertag (una 
 5. Haz clic en `Show Key` y apunta la clave que se muestra. Esto no es necesario si usas USB Loader GX, ya que la clave estará en un archivo descargable.
 6. Haz clic en `Submit` para guardar los cambios.
 
-¡No comparta su clave RiiTag con nadie! Si lo hace, la gente puede meterse con usted y su código.
+¡No comparta su clave RiiTag con nadie! Si lo hace, la gente puede meterse con usted y su código. Si lo haces, otras personas podrían abusar tu tag.
 {: .notice--warning}
 
 ##### Sección II - Conectando tu USB loader
@@ -59,9 +59,9 @@ Los pasos para conectar el RiiTag a su Cargador USB dependen del Cargador USB qu
 7. Guarda el archivo `wiiflow.ini` modificado.
 8. Ya has terminado de instalar RiiTag. Intenta cargar algún juego para verificar que esté funcionando correctamente.
 
-###### Dolphin
+###### Emulators
 
-Necesitas una cuenta de Discord para que funcione.
+RiiTag supports Dolphin, Citra, and Cemu. You need a Discord account for this to work.
 {: .notice--info}
 
 1. [Join the RiiConnect24 Discord server](https://discord.gg/rc24) if you aren't already in there.

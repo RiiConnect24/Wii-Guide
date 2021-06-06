@@ -20,7 +20,7 @@ Wii 미니에 BootMii를 설치할 수는 있지만, SD 카드 슬롯을 납땜�
 
 1. 당신은 사기 경고 화면을 보게 됩니다. "Press 1 to continue"가 나타날 때 까지 30초를 기다리고, 1번을 누르세요. ![사기 경고 화면](/images/Wii/ScamScreen.png)
 
-1. Continue를 누르고, Install The Homebrew Channel을 선택합니다. 그 다음, Install을 누릅니다. ![홈브루 채널 설치하기](/images/Wii/InstallHomebrewChannel.png)
+1. Continue를 누르고, Install The Homebrew Channel을 선택합니다.![홈브루 채널 설치하기](/images/Wii/InstallHomebrewChannel.png)
 
 1. 완료되면 Continue를 누르세요. ![홈브루 채널 설치 성공](/images/Wii/SuccessHBC.png)
 

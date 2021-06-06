@@ -69,28 +69,21 @@ Sebbene la maggior parte dei giochi dovrebbe funzionare direttamente con le opzi
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'usbloadergx')">USB Loader GX</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
-<div id="usbloadergx" class="blanktabcontent">
-  <p spaces-before="0">
-    !!crwdP_24_Pdwrc!!Seleziona il gioco che non funziona. !!crwdP_25_Pdwrc!!Clicca Impostazioni. !!crwdP_26_Pdwrc!!Seleziona <code>Game Load</code>. !!crwdP_27_Pdwrc!!Scorri fino a <code>Game IOS</code>. !!crwdP_28_Pdwrc!!Seleziona lo slot IOS da usare.
-  </p>
-  
-  <ul>
-    <li>
-      Prova a usare 250 o 251, se 249 non funziona. !!crwdP_33_Pdwrc!!Premi Salva e prova a caricare il gioco.
-    </li>
-  </ul>
+<div id="usbloadergx" class="blanktabcontent" markdown="1">
+1. !!crwdP_30_Pdwrc!!Seleziona il gioco che non funziona.
+1. Click Settings.
+1. !!crwdP_26_Pdwrc!!Seleziona `Game Load`.
+1. !!crwdP_27_Pdwrc!!Scorri fino a `Game IOS`.
+1. !!crwdP_28_Pdwrc!!Seleziona lo slot IOS da usare.
+    - Prova a usare 250 o 251, se 249 non funziona.
+1. Premi ok e prova a caricare il gioco.
 </div>
-
-<div id="wiiflow" class="blanktabcontent">
-  <p spaces-before="0">
-    !!crwdP_30_Pdwrc!!Seleziona il gioco che non funziona. !!crwdP_31_Pdwrc!!Clicca sull'icona con l'ingranaggio. !!crwdP_32_Pdwrc!!Vai su cIOS e usa le frecce per selezionare lo slot IOS da usare.
-  </p>
-  
-  <ul>
-    <li>
-      Prova a usare 250 o 251, se 249 non funziona. Premi ok e prova a caricare il gioco.
-    </li>
-  </ul>
+<div id="wiiflow" class="blanktabcontent" markdown="1">
+1. !!crwdP_30_Pdwrc!!Seleziona il gioco che non funziona.
+1. Click the gear icon.
+1. !!crwdP_32_Pdwrc!!Vai su cIOS e usa le frecce per selezionare lo slot IOS da usare.
+    - Prova a usare 250 o 251, se 249 non funziona.
+1. !!crwdP_33_Pdwrc!!Premi Salva e prova a caricare il gioco.
 </div>
 ##### Opzioni una volta completate
 
@@ -105,5 +98,25 @@ Ora puoi usare app hombrew come [USB Loader GX](usbloadergx) e [WiiFlow](wiiflow
 
 <script>
     let tabcontent = document.getElementsByClassName("blanktabcontent");
-    let tablinks = document.getElementsByClassName("tablinks");!!crwd_CB_10_BC_dwrc!!</script>
+    let tablinks = document.getElementsByClassName("tablinks");
 
+    function openTab(evt, tabName) {
+        let element;
+
+        for (element of tabcontent) {
+            element.style.display = "none";
+        }
+
+        for (element of tablinks) {
+            element.className = element.className.replace("btn--primary", "btn--info");
+            if (!element.className.includes('btn--info'))
+                element.className += " btn--info";
+        }
+
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className = evt.currentTarget.className.replace("btn--info", "btn--primary");
+    }
+
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpen").click();
+</script>

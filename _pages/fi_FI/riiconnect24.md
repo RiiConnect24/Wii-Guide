@@ -4,12 +4,12 @@ title: "RiiConnect24"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiConnect24:n Discord-palvelimelle](https://discord.gg/rc24) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-[RiiConnect24](https://rc24.xyz/) allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail.
+[RiiConnect24](https://rc24.xyz/) sallii sinun käyttää lopetettuja WiiConnect24:n tarjoamia palveluita, joihin kuuluvat News, Forecast, Everybody Votes, Nintendo ja Mii Contest Channel, sekä Wii Mail.
 
 The Unix Patcher is finally out! This means that users of macOS and all types of Linux distributions are able to natively use the RiiConnect24 Patcher.
 {: .notice--info}
@@ -42,7 +42,7 @@ If you still can't run RiiConnect24 Patcher, please send us a mail at support@ri
 1. Click the link above to go to the GitHub page where the patcher is.
 2. Download `RiiConnect24Patcher.bat` if you are on Windows, and `RiiConnect24Patcher.sh` if you are on a Unix system
 
-##### Section II - Patching IOS
+##### Osa II - IOS:n muokkaaminen
 
 [If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
 {: .notice--info}
@@ -50,8 +50,8 @@ If you still can't run RiiConnect24 Patcher, please send us a mail at support@ri
 1. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open terminal and type `bash`, then drag `RiiConnect24Patcher.sh`into the terminal then press enter. It should look like this `bash RiiConnect24Patcher.sh`.
 2. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`. ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
 3. Select the device you're patching for. ![Select your device](/images/RC24_Patcher/2.JPG)
-4. For this guide, choose "`Install RiiConnect24 on your Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
-5. Choose "`Express (Recommended)`". Se antaa sinulle kaiken, mitä tarvitset. ![Express Settings](/images/RC24_Patcher/4.JPG)
+4. Valitse tätä opasta varten "`Install RiiConnect24 on your Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
+5. Valitse "`Express (Recommended)`". Se antaa sinulle kaiken, mitä tarvitset. ![Express Settings](/images/RC24_Patcher/4.JPG)
 6. Valitse alueesi. ![Select your region](/images/RC24_Patcher/5.JPG)
 7. While we're at it, RiiConnect24 Patcher can additionally download some other optional channels that are not RiiConnect24 oriented. `[X]` represents option selected. Just press 5 and `ENTER` if you're not interrested. ![Additional optional channels](/images/RC24_Patcher/6.JPG)
 7. Connect the SD Card or USB Drive to your computer and select "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
@@ -102,7 +102,7 @@ In this section, you will set your DNS to our servers. It's optional but recomme
 [Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
 {: .notice--info}
 
-[Continue to WiiLink24](wiilink24)<br> WiiLink24 lets you use the Japanese-exclusive Wii no Ma channel. This is optional to install.
+[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels Wii Room and Digicam Print Channel. This is optional to install.
 {: .notice--info}
 
 If you get error 107245, then you probably have failed to patch your IOS correctly.
@@ -111,7 +111,7 @@ If you get error 107245, then you probably have failed to patch your IOS correct
 If you get error 107304, then perhaps your ISP blocks the use of custom DNS. A workaround for this can be running your own DNS server! See the [RiiConnect24 DNS Server on GitHub](https://github.com/RiiConnect24/DNS-Server), then use your PC's IP address in place of our DNS in Step 8.
 {: .notice--info}
 
-If you get error FORE000006, your Wii's clock is probably set incorrectly. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel should start working.
+Jos saat virheen FORE000006, Wiisi kello on todennäköisesti asetettu väärin. Aseta se oikeaan päivämäärään ja aikaan, sitten odota enintään tunti ja Forecast Channelin pitäisi alkaa toimia.
 {: .notice--warning}
 
 [If you get error NEWS000006, following this tutorial should fix it.](news000006)

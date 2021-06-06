@@ -53,18 +53,18 @@ Sollte der RiiConnect24-Patcher bei dir weiterhin nicht funktionieren, sende uns
 4. Für diese Anleitung wähle "`Installiere RiiConnect24 auf deiner Wii`" aus ![Installiere RiiConnect24](/images/RC24_Patcher/3.JPG)
 5. Wähle "`Express (Empfohlen)`". Hier wird alles installiert was du benötigst. ![Expresseinstellungen](/images/RC24_Patcher/4.JPG)
 6. Wähle deine Region. ![Wähle deine Region](/images/RC24_Patcher/5.JPG)
-7. While we're at it, RiiConnect24 Patcher can additionally download some other optional channels that are not RiiConnect24 oriented. `[X]` represents option selected. Just press 5 and `ENTER` if you're not interrested. ![Zusätzliche optionale Kanäle](/images/RC24_Patcher/6.JPG)
+7. Während wir dabei sind, kann RiiConnect24 Patcher zusätzlich einige andere optionale Kanäle herunterladen, die nicht RiiConnect24-orientiert sind. `[X]` repräsentiert die gewählte Option. Drücke einfach 5 und `ENTER` wenn du nicht interessiert bist. ![Zusätzliche optionale Kanäle](/images/RC24_Patcher/6.JPG)
 7. Verbinde deine SD-Karte oder dein USB-Laufwerk mit deinem Computer und wähle "`1`". ![Aktiviere Kopiervorgang zur SD-Karte](/images/RC24_Patcher/7.JPG)
 8. Wenn dein Gerät erfolgreich erkannt wurde, wähle "`1`". Wenn nicht, stelle sicher, dass ein Ordner namens `apps` auf deiner SD-Karte oder deinem USB-Laufwerk vorhanden ist und versuche es erneut. ![Erfolgreich erkannt](/images/RC24_Patcher/8.JPG)
 9. Bitte hab etwas Geduld... ![Patchvorgang läuft!](/images/RC24_Patcher/9.JPG)
-10. After it's all done, take a minute to send feedback back to us. Make sure to attach a message, we read every one of them! It's anonymous. If not, close the patcher. All the files should already be on your SD Card. ![Fertig!](/images/RC24_Patcher/10.JPG) ![Dateien wurden kopiert](/images/RC24_Patcher/11.PNG)
-11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
+10. Nachdem alles erledigt ist, nimm dir eine Minute Zeit, um uns Feedback zu senden. Achte darauf, eine Nachricht anzuhängen, wir lesen jede einzelne von ihnen! Es ist anonym. Falls nicht, schließe den Patcher. Alle Dateien sollten bereits auf deiner SD-Karte sein. ![Fertig!](/images/RC24_Patcher/10.JPG) ![Dateien wurden kopiert](/images/RC24_Patcher/11.PNG)
+11. Falls nicht alles automatisch auf deine SD-Karte oder dein USB-Gerät kopiert wurde, kopiere die `WAD` und `apps` Ordner neben `RiiConnect24Patcher.bat` auf deine SD-Karte oder dein USB-Laufwerk.
 12. Verbinde deine SD-Karte bzw. dein USB-Laufwerk mit deiner Wii.
 13. Starte den Homebrew-Kanal auf deiner Wii.
 14. Starte Wii Mod Lite.
 15. Mithilfe der rechten Steuerkreuztaste auf deiner Wii-Fernbedienung, wähle `WAD Manager` und wähle dann den `wad`-Ordner.
 16. Markiere alle WADs, welche `RiiConnect24` im Namen enthalten und drücke anschließend +, um sie zu markieren. Hast du alle markiert, drücke zweimal A um die WADs zu installieren.
-17. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted WAD to uninstall it, then try installing it again.
+17. Falls du einen Fehler bekommst, der besagt, dass bereits ein Titel mit einer höheren Version installiert ist (error -1035), gehe zurück zum WAD-Auswahlmenü und drücke - auf der ausgewählten WAD, um sie zu deinstallieren, dann starte die Installation erneut.
 18. Nach erfolgreicher Installation drücke den Home-Knopf um zum Homebrew-Kanal zurückzukehren.
 
 ##### Abschnitt 3 - nwc24msg.cfg patchen
@@ -102,7 +102,7 @@ In diesem Abschnitt wirst du deinen DNS zu unseren Servern einstellen. Dies ist 
 [Weiter zu Wiimmfi](wiimmfi)<br> Wiimmfi ermöglicht es dir, Spiele online spielen zu können obwohl die Nintendo Wi-Fi Connection eingestellt wurde. Dies zu installieren ist nicht zwingend erforderlich.
 {: .notice--info}
 
-[Weiter zu WiiLink24](wiilink24)<br> WiiLink24 lässt dich den Japan-exklusiven Wii no Ma-Kanal verwenden. Dies zu installieren ist nicht zwingend erforderlich.
+[Weiter zu WiiLink](wiilink)<br> WiiLink ermöglicht es dir, die Japan-exklusiven Kanäle Wii Room und Digicam Print Channel zu nutzen. Dies zu installieren ist nicht zwingend erforderlich.
 {: .notice--info}
 
 Falls du den Fehler 107245 erhältst, hast du wahrscheinlich dein IOS nicht korrekt gepatcht.

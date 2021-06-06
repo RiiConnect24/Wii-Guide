@@ -12,7 +12,7 @@ Your Wii and your computer must be connected to one local network
 
 #### Instruccions
 
-##### Section I - Downloading/Installing
+##### Secció 1 - Descarregar/Instalar
 
 1. Extract DVD Dump Tool and put it in the `apps` folder on your SD card or USB drive.
 1. Insert your SD card into your Wii, and launch DVD Dump Tool from the Homebrew Channel.

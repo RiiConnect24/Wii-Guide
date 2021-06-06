@@ -2,7 +2,7 @@
 title: "Dumping Wii/GameCube games"
 ---
 
-Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
+Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you. There are two ways of doing so, depending on the tools you have available with you.
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">To a PC over the network</button>
@@ -22,5 +22,25 @@ Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending
 
 <script>
     let tabcontent = document.getElementsByClassName("blanktabcontent");
-    let tablinks = document.getElementsByClassName("tablinks");!!crwd_CB_1_BC_dwrc!!</script>
+    let tablinks = document.getElementsByClassName("tablinks");
 
+    function openTab(evt, tabName) {
+        let element;
+
+        for (element of tabcontent) {
+            element.style.display = "none";
+        }
+
+        for (element of tablinks) {
+            element.className = element.className.replace("btn--primary", "btn--info");
+            if (!element.className.includes('btn--info'))
+                element.className += " btn--info";
+        }
+
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className = evt.currentTarget.className.replace("btn--info", "btn--primary");
+    }
+
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpen").click();
+</script>

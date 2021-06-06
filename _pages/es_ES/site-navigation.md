@@ -1,7 +1,7 @@
 ---
 title: "Todas las guías"
 layout: single
-sitemap: false
+sitemap: falso
 ---
 
 ![Tutoriales](/images/WiiTutorials.jpg)
@@ -11,7 +11,7 @@ sitemap: false
 
 + [Instalar cIOS](cios)
 + [Instalar RiiConnect24](riiconnect24)
-+ [Instalar WiiLink24](wiilink24)
++ [WiiLink](wiilink)
 + [Instalar Wiimmfi](wiimmfi)
 {% endcapture %}
 <div class="notice--info">{ notice-1 | markdownify }</div>
@@ -21,7 +21,7 @@ sitemap: false
 + [Instalar RiiConnect24](riiconnect24)
 + [RiiXOnnect24 para vWii](riiconnect24-vwii)
 + [RiiConnect24 para Dolphin](riiconnect24-dolphin)
-+ [Instalar WiiLink24](wiilink24)
++ [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Eliminando VFFs](deleting-vffs)
@@ -38,7 +38,7 @@ sitemap: false
 + [LetterBomb](letterbomb)
 + [Instalar Priiloader](priiloader)
 + [str2hax](str2hax)
-+ [Wii Mod Lite](wiimodlite)
++ [Instalar WADs con Wii Mod Lite](wiimodlite)
 
 **Homebrew**
 + [Creación de accesos directos a juegos de Wii](wiigsc)
@@ -59,8 +59,8 @@ sitemap: false
 
 **Sitio**
 + [Casa](/)
-+ [Empezar](comenzando)
-+ [FAQ](preguntas-frecuentes)
++ [Empezar](comenzar)
++ [Preguntas frecuentes](preguntas-frecuentes)
 + [Donaciones](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>

@@ -11,7 +11,7 @@ sitemap: false
 
 + [cIOS](cios)
 + [RiiConnect24](riiconnect24)
-+ [WiiLink24](wiilink24)
++ [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
@@ -21,7 +21,7 @@ sitemap: false
 + [RiiConnect24](riiconnect24)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
-+ [WiiLink24](wiilink24)
++ [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Deletando VFFs](deleting-vffs)
@@ -66,8 +66,8 @@ Um dos recursos mais importantes do BootMii é a capacidade de fazer backup e re
 
 **Site**
 + [Home](/)
-+ [Introdução](get-started)
-+ [Perguntas frequentes](perguntas frequentes)
++ [Introdução](Prepare-se)
++ [\[Perguntas frequentes\](perguntas frequentes)](perguntas frequentes)
 + [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>

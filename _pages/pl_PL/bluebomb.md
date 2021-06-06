@@ -35,7 +35,7 @@ Jeżeli korzystasz z oryginalnego Wii, nie zalecamy używania BlueBomb. Istniej�
 1. Podłącz pendrive do Twojej konsoli. Na Wii Mini, port USB jest na tyle konsoli. Na oryginalnym Wii, użyj dolnego portu. (Lub portu po prawej, jeżeli konsola stoi).
 1. Włącz konsolę oraz przejdź do menu ustawień. W górnym prawym rogu ujrzysz 4 znakowy kod, taki jak na zdjęciu poniżej. Ten kod jest Twoją wersją systemu operacyjnego. Zapisz go, będziemy tego potrzebowali później. Po zrobieniu tego, wyłącz Twoją konsolę. ![Wersja System Menu](/images/Wii/SystemMenuVersion.png)
 1. Uruchom Twoją dystrybucję Linux'a oraz upewnij się, że jesteś podłączony do Internetu.
-1. Otwórz Linux'owy Terminal
+1. Włącz konsole oraz **nie** podłączaj żadnych Wii Remote'ów.
 1. Uruchom poniższą komendę:
 ```bash
 wget https://wii.guide/assets/files/bluebomb-helper.sh

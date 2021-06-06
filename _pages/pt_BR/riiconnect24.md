@@ -28,7 +28,7 @@ There is no guide to installing RiiConnect24 on a Wii Mini, as attempting to ins
 #### Você precisará de
 
 * Um cartão SD ou pendrive
-* A Wii with an Internet connection
+* Um Wii conectado à internet
 * A computer
 * [RiiConnect24 Patcher (Windows and Unix)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
@@ -47,7 +47,7 @@ If you still can't run RiiConnect24 Patcher, please send us a mail at support@ri
 [If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
 {: .notice--info}
 
-1. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open terminal and type `bash`, then drag `RiiConnect24Patcher.sh`into the terminal then press enter. It should look like this `bash RiiConnect24Patcher.sh`.
+1. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open terminal and type `bash`, then drag `RiiConnect24Patcher.sh`into the terminal then press enter. Deve se parecer com este `bash RiiConnect24Patcher.sh`.
 2. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`. ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
 3. Select the device you're patching for. ![Select your device](/images/RC24_Patcher/2.JPG)
 4. For this guide, choose "`Install RiiConnect24 on your Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
@@ -102,7 +102,7 @@ In this section, you will set your DNS to our servers. It's optional but recomme
 [Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. A instalação é opcional.
 {: .notice--info}
 
-[Continue to WiiLink24](wiilink24)<br> WiiLink24 lets you use the Japanese-exclusive Wii no Ma channel. A instalação é opcional.
+[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels Wii Room and Digicam Print Channel. A instalação é opcional.
 {: .notice--info}
 
 If you get error 107245, then you probably have failed to patch your IOS correctly.
@@ -111,7 +111,7 @@ If you get error 107245, then you probably have failed to patch your IOS correct
 If you get error 107304, then perhaps your ISP blocks the use of custom DNS. A workaround for this can be running your own DNS server! See the [RiiConnect24 DNS Server on GitHub](https://github.com/RiiConnect24/DNS-Server), then use your PC's IP address in place of our DNS in Step 8.
 {: .notice--info}
 
-If you get error FORE000006, your Wii's clock is probably set incorrectly. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel should start working.
+Se você receber o erro FORE000006, o relógio do seu Wii provavelmente está definido incorretamente. Defina-o com a data e a hora corretas e, em seguida, espere não mais do que uma hora e o Canal de Previsão deverá começar a funcionar.
 {: .notice--warning}
 
 [If you get error NEWS000006, following this tutorial should fix it.](news000006)

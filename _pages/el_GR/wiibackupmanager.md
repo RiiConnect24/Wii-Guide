@@ -10,7 +10,7 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 Wii Backup Manager is a program to copy Wii games from your computer to a USB drive so you can play the games on your Wii. It also can download game covers from [GameTDB](https://gametdb.com/) and can be used to list what games you have. This tutorial will tell you how to copy over games from your computer to your USB drive. The other features are able to be used in the easy-to-use interface.
 #### Τι χρειάζεστε
 
-* A USB drive
+* Ένα μέσο αποθήκευσης USB
 * [Wii Backup Manager](https://static.wiidatabase.de/Wii-Backup-Manager.zip)
 
 
@@ -25,7 +25,7 @@ Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as othe
 
 #### Οδηγίες
 
-##### Section I - Downloading
+##### Μέρος I - Λήψη
 
 1. Extract Wii Backup Manager, and launch the program.
 2. Insert your USB drive into your computer.
@@ -38,7 +38,7 @@ Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as othe
 4. Select `Files` to add multiple games to the program, or select `Folder` to add a whole folder of games.
 5. Select `Transfer`, then select `Drive 1` to transfer the games over. It might take a while for the games to copy over.
 
-##### Options once complete
+##### Επιλογές μετά την ολοκλήρωση
 
 [Continue to cIOS](cios)<br> cIOS is needed for your Wii to use a USB Loader.
 {: .notice--info}

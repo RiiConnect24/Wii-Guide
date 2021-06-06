@@ -69,28 +69,21 @@ Bardziej obszerna lista (choć nadal niekompletna) znajduje się [**tutaj**](htt
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'usbloadergx')">USB Loader GX</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
-<div id="usbloadergx" class="blanktabcontent">
-  <p spaces-before="0">
-    !!crwdP_24_Pdwrc!!Wybierz grę, która nie działa. !!crwdP_25_Pdwrc!!Kliknij na Ustawienia. !!crwdP_26_Pdwrc!!Wybierz <code>Załaduj gre</code>. !!crwdP_27_Pdwrc!!Przewiń w dół do <code>Game IOS</code>. !!crwdP_28_Pdwrc!!Wpisz slot IOS.
-  </p>
-  
-  <ul>
-    <li>
-      Spróbuj użyć 250 lub 251, jeśli 249 nie działa. !!crwdP_29_Pdwrc!!Wybierz OK i spróbuj załadować gre.
-    </li>
-  </ul>
+<div id="usbloadergx" class="blanktabcontent" markdown="1">
+1. Select the game that isn't working.
+1. Click Settings.
+1. Select `Game Load`.
+1. !!crwdP_27_Pdwrc!!Przewiń w dół do `Game IOS`.
+1. !!crwdP_28_Pdwrc!!Wpisz slot IOS.
+    - Spróbuj użyć 250 lub 251, jeśli 249 nie działa.
+1. !!crwdP_29_Pdwrc!!Wybierz OK i spróbuj załadować gre.
 </div>
-
-<div id="wiiflow" class="blanktabcontent">
-  <p spaces-before="0">
-    !!crwdP_30_Pdwrc!!Wybierz grę, która nie działa. !!crwdP_31_Pdwrc!!Naciśnij na ikonę koła zębatego. !!crwdP_32_Pdwrc!!Wejdź do cIOS i użyj strzałki aby wybrać IOS, z którego chcesz skorzystać.
-  </p>
-  
-  <ul>
-    <li>
-      Spróbuj użyć 250 lub 251, jeśli 249 nie działa. !!crwdP_33_Pdwrc!!Naciśnij Save i spróbuj załadować gre.
-    </li>
-  </ul>
+<div id="wiiflow" class="blanktabcontent" markdown="1">
+1. Select the game that isn't working.
+1. Click the gear icon.
+1. !!crwdP_32_Pdwrc!!Wejdź do cIOS i użyj strzałki aby wybrać IOS, z którego chcesz skorzystać.
+    - Spróbuj użyć 250 lub 251, jeśli 249 nie działa.
+1. !!crwdP_33_Pdwrc!!Naciśnij Save i spróbuj załadować gre.
 </div>
 ##### Co można zrobić po ukończeniu?
 
@@ -105,5 +98,25 @@ Możesz już korzystać z takich homebrew jak [USB Loader GX](usbloadergx) lub [
 
 <script>
     let tabcontent = document.getElementsByClassName("blanktabcontent");
-    let tablinks = document.getElementsByClassName("tablinks");!!crwd_CB_10_BC_dwrc!!</script>
+    let tablinks = document.getElementsByClassName("tablinks");
 
+    function openTab(evt, tabName) {
+        let element;
+
+        for (element of tabcontent) {
+            element.style.display = "none";
+        }
+
+        for (element of tablinks) {
+            element.className = element.className.replace("btn--primary", "btn--info");
+            if (!element.className.includes('btn--info'))
+                element.className += " btn--info";
+        }
+
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className = evt.currentTarget.className.replace("btn--info", "btn--primary");
+    }
+
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpen").click();
+</script>

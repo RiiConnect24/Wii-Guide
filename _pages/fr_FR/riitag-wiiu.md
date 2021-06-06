@@ -40,7 +40,7 @@ Ne partagez votre clé RiiTag avec personne ! Si vous le faites, des personnes p
    - Vous devriez voir un dossier intitulé `wiiupluginloader` dans `/wiiu/apps/` sur votre SD.
 2. Placez le fichier `UTag.mod` dans le dossier `/wiiu/plugins/` de votre carte SD.
 3. Créez un nouveau fichier intitulé `utag.txt` à la racine de votre carte SD, et ouvrez-le avec un éditeur de texte.
-4. Collez la clé dont vous avez pris note plus tôt à l'étape 5 de [Section I - Instructions pour le site web](#section-i---getting started) dans ce fichier `utag.txt`, et enregistrez-le.
+4. Collez la clé dont vous avez pris note plus tôt à l'étape 5 de \[Section I - Instructions pour le site web\](#section-i---getting started) dans ce fichier `utag.txt`, et enregistrez-le.
    - Nous en avons terminé avec la carte SD.
 5. Insérez votre carte SD dans votre Wii U.
 

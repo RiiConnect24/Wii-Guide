@@ -55,7 +55,7 @@ If you still can't run RiiConnect24 Patcher, please send us a mail at support@ri
 6. Select your region. ![Select your region](/images/RC24_Patcher/5.JPG)
 7. While we're at it, RiiConnect24 Patcher can additionally download some other optional channels that are not RiiConnect24 oriented. `[X]` represents option selected. Just press 5 and `ENTER` if you're not interrested. ![Additional optional channels](/images/RC24_Patcher/6.JPG)
 7. SDカードまたはUSBドライブを入れて、「`1`」を選んで。 ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
-8. デバイスの検出は効果的だ時、「`1`」を選んで デバイスの検出は効果的だ時、「`1`」を選んで 効果的ではない時、SDカードまたはUSBドライブで`apps`というフォルダーがある確かめてから、も一度試みて。 ![Successfully detected](/images/RC24_Patcher/8.JPG)
+8. デバイスの検出は効果的だ時、「`1`」を選んで デバイスの検出は効果的だ時、「`1`」を選んで デバイスの検出は効果的だ時、「`1`」を選んで 効果的ではない時、SDカードまたはUSBドライブで`apps`というフォルダーがある確かめてから、も一度試みて。 ![Successfully detected](/images/RC24_Patcher/8.JPG)
 9. Be patient... ![It's patching!](/images/RC24_Patcher/9.JPG)
 10. After it's all done, take a minute to send feedback back to us. Make sure to attach a message, we read every one of them! It's anonymous. If not, close the patcher. All the files should already be on your SD Card. ![It's done!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
 11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
@@ -102,7 +102,7 @@ In this section, you will set your DNS to our servers. It's optional but recomme
 [Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
 {: .notice--info}
 
-[Continue to WiiLink24](wiilink24)<br> WiiLink24 lets you use the Japanese-exclusive Wii no Ma channel. This is optional to install.
+[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels Wii Room and Digicam Print Channel. This is optional to install.
 {: .notice--info}
 
 If you get error 107245, then you probably have failed to patch your IOS correctly.

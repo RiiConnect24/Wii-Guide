@@ -7,7 +7,7 @@ title: "Bluebomb"
 במקרה ונדרשת עזרה או תמיכה טכנית עם מדריך זה, בבקשה הצטרפו [לשרת הדיסקורד של קהילת ה Wii Mini.](https://discord.gg/6ryxnkS) (מומלץ)
 {: .notice--info}
 
-![BlueBomb](/images/bluebomb.png)
+![Bluebomb](/images/bluebomb.png)
 
 BlueBomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. למרות שזו הפרצה היחידה שעובדת על ה Wii Mini, BlueBomb פועל גם על קונסולת ה Wii המקורית. פרצה זו גם מאפשרת השתקמות מכשלים מסוימים, כמו "Banner Brick".
 

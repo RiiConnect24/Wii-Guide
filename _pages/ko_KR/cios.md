@@ -8,7 +8,7 @@ title: "cIOS"
 
 ![d2x cIOS 설치 마법사](/images/cios/cIOS.png)
 
-Attempting to install any other cIOS on a Wii mini won't work. If you have a Wii mini, install [this cIOS](cios-mini) instead.
+Wii mini가 있다면, [이 cIOS](cios-mini)를 대신 설치하세요. Wii 미니에서 cIOS를 설치하려 시도하는 것은 작동하지 않습니다.
 {: .notice--info}
 
 #### 필요한 것
@@ -69,28 +69,21 @@ Select cIOS version: 65535
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'usbloadergx')">USB 로더 GX</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
-<div id="usbloadergx" class="blanktabcontent">
-  <p spaces-before="0">
-    !!crwdP_24_Pdwrc!!작동하지 않는 게임을 선택하세요. !!crwdP_25_Pdwrc!!Settings를 누르세요. !!crwdP_26_Pdwrc!!<code>Game Load</code>를 선택하세요. !!crwdP_27_Pdwrc!!<code>Game IOS</code>가 나타날 때 까지 스크롤하세요. !!crwdP_28_Pdwrc!!사용할 IOS 슬롯을 선택하세요.
-  </p>
-  
-  <ul>
-    <li>
-      249가 작동하지 않으면 250 또는 251을 사용해 보세요. !!crwdP_29_Pdwrc!!Ok를 누르고 게임을 로드해 보세요.
-    </li>
-  </ul>
+<div id="usbloadergx" class="blanktabcontent" markdown="1">
+1. !!crwdP_30_Pdwrc!!작동하지 않는 게임을 선택하세요.
+1. 설정을 클릭하세요.
+1. !!crwdP_26_Pdwrc!!`Game Load`를 선택하세요.
+1. !!crwdP_27_Pdwrc!!`Game IOS`가 나타날 때 까지 스크롤하세요.
+1. 사용할 IOS 슬롯을 선택하세요.
+    - 249가 작동하지 않으면 250 또는 251을 사용해 보세요.
+1. !!crwdP_29_Pdwrc!!Ok를 누르고 게임을 로드해 보세요.
 </div>
-
-<div id="wiiflow" class="blanktabcontent">
-  <p spaces-before="0">
-    !!crwdP_30_Pdwrc!!작동하지 않는 게임을 선택하세요. !!crwdP_31_Pdwrc!!톱니바퀴 아이콘을 누르세요. !!crwdP_32_Pdwrc!!cIOS로 들어가서 사용할 IOS 슬롯을 화살표로 선택하세요.
-  </p>
-  
-  <ul>
-    <li>
-      249가 작동하지 않으면 250 또는 251을 사용해 보세요. !!crwdP_33_Pdwrc!!Save를 누르고 게임을 로딩해 보세요.
-    </li>
-  </ul>
+<div id="wiiflow" class="blanktabcontent" markdown="1">
+1. !!crwdP_30_Pdwrc!!작동하지 않는 게임을 선택하세요.
+1. 톱니바퀴 아이콘을 클릭하세요.
+1. !!crwdP_32_Pdwrc!!cIOS로 들어가서 사용할 IOS 슬롯을 화살표로 선택하세요.
+    - 249가 작동하지 않으면 250 또는 251을 사용해 보세요.
+1. !!crwdP_33_Pdwrc!!Save를 누르고 게임을 로딩해 보세요.
 </div>
 ##### 끝난 뒤 할 수 있는 것
 
@@ -105,5 +98,25 @@ Select cIOS version: 65535
 
 <script>
     let tabcontent = document.getElementsByClassName("blanktabcontent");
-    let tablinks = document.getElementsByClassName("tablinks");!!crwd_CB_10_BC_dwrc!!</script>
+    let tablinks = document.getElementsByClassName("tablinks");
 
+    function openTab(evt, tabName) {
+        let element;
+
+        for (element of tabcontent) {
+            element.style.display = "none";
+        }
+
+        for (element of tablinks) {
+            element.className = element.className.replace("btn--primary", "btn--info");
+            if (!element.className.includes('btn--info'))
+                element.className += " btn--info";
+        }
+
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className = evt.currentTarget.className.replace("btn--info", "btn--primary");
+    }
+
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpen").click();
+</script>

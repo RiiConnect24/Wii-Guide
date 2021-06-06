@@ -18,7 +18,7 @@ Le Patcher Unix est enfin disponible! Cela signifie que les utilisateurs de macO
 Ce guide est pour la Wii originale uniquement.
 
 - Suivez [ce tutoriel](riiconnect24-vwii) si vous souhaitez installer RiiConnect24 sur une vWii (le mode Wii de votre Wii U).
-- Suivez [ce tutorielw](riiconnect24-dolphin) si vous souhaitez installer RiiConnect24 sur émulateur Dolphin.
+- Suivez [ce tutoriel](riiconnect24-dolphin) si vous souhaitez installer RiiConnect24 sur émulateur Dolphin.
 
 Il n'y a pas de guide pour installer RiiConnect24 sur une Wii Mini, car la tentative d'installer RiiConnect24 sur une Wii Mini entraînera un brick de la console.
 {% endcapture %}
@@ -57,14 +57,14 @@ Si vous ne pouvez toujours pas exécuter RiiConnect24 Patcher, veuillez nous env
 7. Connectez votre carte SD ou votre périphérique USB à votre ordinateur et sélectionnez "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
 8. Si votre périphérique est correctement détecté, sélectionnez "`1`". Sinon, vérifiez qu'il y a un dossier nommé `apps` sur votre carte SD ou votre périphérique USB et réessayez. ![Successfully detected](/images/RC24_Patcher/8.JPG)
 9. Soyez patient... ![It's patching!](/images/RC24_Patcher/9.JPG)
-10. After it's all done, take a minute to send feedback back to us. Make sure to attach a message, we read every one of them! It's anonymous. If not, close the patcher. All the files should already be on your SD Card. ![C'est fini!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
-11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
+10. Après tout cela, prenez une minute pour nous envoyer vos commentaires. N’oubliez pas de joindre un message, nous les lisons tous ! C'est anonyme. Si ce n'est pas le cas, fermez le patcher. Tous les fichiers devraient déjà être sur votre carte SD. ![C'est fini!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
+11. Si tout n'a pas été copié automatiquement sur votre carte SD ou votre périphérique USB, copiez les dossiers `WAD` et `apps` à côté de `RiiConnect24Patcher.bat`, et collez-les sur votre carte SD ou votre périphérique USB.
 12. Insérer la carte SD ou le périphérique USB dans votre Wii.
 13. Lancez la Chaîne Homebrew sur votre Wii.
 14. Lancez Wii Mod Lite.
 15. À l'aide de la croix directionnelle de votre télécommande Wii, accédez à `WAD Manager`, puis accédez au dossier `wad`.
 16. Mettez en surbrillance tous les WAD avec `RiiConnect24` dans le nom et appuyez sur + pour les sélectionner. Lorsqu'ils sont tous sélectionnés, appuyez deux fois sur A pour installer les WADs.
-17. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted WAD to uninstall it, then try installing it again.
+17. Si vous obtenez une erreur indiquant qu'un titre avec une version supérieure est déjà installé (erreur -1035), revenez au menu de sélection WAD et appuyez sur - sur le WAD en surbrillance pour le désinstaller, puis réessayez de l'installer.
 18. Une fois qu'ils sont tous correctement installés, appuyez sur le bouton HOME pour revenir au Homebrew Channel.
 
 ##### Section III - Patcher nwc24msg.cfg
@@ -102,7 +102,7 @@ Dans cette section, vous allez paramétrer vos DNS sur notre serveur. C'est facu
 [Continuer vers Wiimmfi](wiimmfi)<br> Wiimmfi vous permet de jouer à des jeux en ligne après l'arrêt de la connexion Wi-Fi Nintendo. L'installation est facultative.
 {: .notice--info}
 
-[Continuer vers WiiLink24](wiilink24)<br> WiiLink24 vous permet d'utiliser la chaîne Wii no Ma exclusive au Japon. L'installation est facultative.
+[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels Wii Room and Digicam Print Channel. L'installation est facultative.
 {: .notice--info}
 
 Si vous obtenez l'erreur 107245, vous n'avez probablement pas réussi à patcher correctement votre IOS.

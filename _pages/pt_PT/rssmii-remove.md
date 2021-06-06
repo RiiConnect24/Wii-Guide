@@ -7,7 +7,7 @@ Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor 
 
 Se não desejas utilizar o RSSMii (talvez porque te manda muitos Wii Mails), está aqui como removê-lo.
 
-![Removing RSSMii](/images/rssmii-remove.png)
+![Removendo RSSMii](/images/rssmii-remove.png)
 
 #### O que precisas
 

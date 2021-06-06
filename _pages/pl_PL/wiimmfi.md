@@ -4,7 +4,7 @@ title: "Wiimmfi"
 
 {% include toc title="Zawartość" %}
 
-Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.).
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![Logo Wiimmfi](/images/WiiWiimmfiLogo.jpg)
@@ -74,7 +74,7 @@ Skorzystaj z tej metody jeżeli nie chcesz uruchamiać patchera za każdym razem
 #### Będziesz potrzebował:
 - Twoja kopia gry (w formacie WBFS, ISO, cISO lub inne formaty, które Wii wspiera).
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows i Unix)  
-**lub**
+  **lub**
 - [Wiimm's ISO Patcher (na różnych platformach)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
 - Zainstalowany USB Loader, [cIOS](cios) oraz urządzenie USB, na którym będziesz przechowywał gry (powinieneś już to mieć jeżeli już korzystałeś z USB Loader'a)
 
@@ -91,7 +91,7 @@ Możesz spatchować gry WiiWare aby można w nie grać na Wiimmfi.
 - Karta SD
 - Kopia Twojej gry (w formacie WAD)
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
-**lub**
+  **lub**
 - [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (na różnych platformach)
 - [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 

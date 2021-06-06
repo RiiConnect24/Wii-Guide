@@ -7,7 +7,7 @@ title: "Wii Mod Lite"
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-This tutorial will explain you how to install WADs on your Wii with Wii Mod Lite. The WAD manager of choice is Wii Mod Lite, but there are others such as YAWMM.
+This tutorial will explain you how to install WADs on your Wii with Wii Mod Lite. The WAD manager of choice is Wii Mod Lite, but there are others such as YAWMM. The WAD manager of choice is Wii Mod Lite, but there are others such as YAWMM.
 
 We do not recommend using "WAD Manager" by Waninkoko.
 {: .notice--warning}
@@ -18,7 +18,7 @@ We do not recommend using "WAD Manager" by Waninkoko.
 
 #### 步骤
 
-##### Section I - Downloading
+##### 第一章 - 下载
 
 1. Extract Wii Mod Lite and put it in the `apps` folder on your SD card or USB drive. ![SD card Drag and Drop](/images/WiiModLite/1.gif)
 2. Insert your SD card or USB drive into your Wii, and launch Wii Mod Lite from the Homebrew Channel.
@@ -30,6 +30,6 @@ You use the +Control Pad to use this tool.
 
 1. Choose `WAD Manager`. ![WAD Manager](/images/WiiModLite/2.png)
 2. Choose `Wii SD Slot`. ![Wii SD Slot](/images/WiiModLite/3.png)
-3. Select the WAD you want to install. In this example, we're installing the patched IOS needed for [RiiConnect24](riiconnect24). You can mark multiple WADs by pressing the + Button. ![Select them](/images/WiiModLite/4.gif)
+3. Select the WAD you want to install. Select the WAD you want to install. In this example, we're installing the patched IOS needed for [RiiConnect24](riiconnect24). You can mark multiple WADs by pressing the + Button. You can mark multiple WADs by pressing the + Button. ![Select them](/images/WiiModLite/4.gif)
 4. Press "A" twice to start installing. ![Install](/images/WiiModLite/5.png) ![Install](/images/WiiModLite/6.png)
-5. If `Finishing installation... OK!` is displayed, the WAD has installed successfully. ![Complete](/images/WiiModLite/7.png) 
+5. If `Finishing installation... If <code>Finishing installation... OK!` is displayed, the WAD has installed successfully. ![Complete](/images/WiiModLite/7.png) 

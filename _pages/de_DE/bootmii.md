@@ -21,7 +21,7 @@ Eines von BootMiis wichtigsten Features ist die Möglichkeit, den NAND-Speicher 
 * Eine SD-Karte mit mindestens 512MB freiem Speicher
 
 #### Anleitung
-If you have BootMii installed as boot2 you will need to launch BootMii by restarting the console. Skip steps 1 and 2 if this is the case.
+Falls du BootMii als boot2 installiert hast, musst du BootMii durch einen Neustart der Konsole starten. Überspringe in diesem Fall die Schritte 1 und 2.
 {: .notice--info}
 1. Starte den Homebrew-Kanal.
 2. Drücke die HOME-Taste und wähle dann "Launch BootMii".

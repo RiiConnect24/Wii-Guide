@@ -4,7 +4,7 @@ title: "Wii Backup Manager"
 
 {% include toc title="Zawartość" %}
 
-Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.).
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Wii Backup Manager jest programem, które kopiuje i instaluje gry Wii z Twojego komputera na urządzenia USB, tak abyś mógł w nie grać na Twoim Wii. Może on również pobrać okładki gier z [GameTDB](https://gametdb.com/) i użyć je aby wyświetlić Ci jakie gry posiadasz. Ten poradnik wytłumaczy Ci jak kopiować gry z Twojego komputera na Twoje urządzenie USB. Możesz również skorzystać z innych funkcji oferowanych przez łatwy do użycia interfejs.
@@ -14,7 +14,7 @@ Wii Backup Manager jest programem, które kopiuje i instaluje gry Wii z Twojego 
 * [Wii Backup Manager](https://static.wiidatabase.de/Wii-Backup-Manager.zip)
 
 
-Rekomendujemy instalację gier korzystając [Witgui](https://desairem.com/wordpress/category/witgui-download/) jeżeli korzystasz z macOS lub <0>Wii Backup Fusion</a> jeżeli korzystasz z Windowsa, macOS lub Linuxa. Wii Backup Manager jest kompatybilny tylko z Windowsem.
+Wii Backup Fusion</a> jeżeli korzystasz z Windowsa, macOS lub Linuxa. Wii Backup Manager jest kompatybilny tylko z Windowsem.
 {: .notice--info}
 
 Aby grać w wiele gier, zalecamy użycie dysku twardego na USB z zewnętrznym zasilaniem. Będziemy go nazywali "urządzeniem USB" w tym poradniku. Wiele dysków, które znajdziesz w sklepach powinny działać jeżeli posiadają wsparcie wsteczne dla USB 2.0. Dyski o pojemności 1TB lub więcej powinny zadziałać. Pendrive'y również powinny działać, jednak z powodu ich wielkości, nie będziesz mógł zmieścić na nich dużej ilości gier.

@@ -4,7 +4,7 @@ title: "WiiFlow"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiConnect24:n Discord-palvelimelle](https://discord.gg/rc24) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![WiiFlow](/images/wiiflowlogo.png)
@@ -83,7 +83,7 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 * Exit To - Lets you exit to Wii Menu, HBC, neek2o, Priiloader and Bootmii.
 * Settings - Will open the WiiFlow Settings menu
 
-##### Options once complete
+##### Vaihtoehdot, kun valmista
 
 [WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki is a great resource with information about WiiFlow.
 {: .notice--info}

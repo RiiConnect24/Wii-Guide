@@ -16,27 +16,27 @@ If you get the error 23904 while connecting to Wiimmfi, then you are using an ou
 
 ## Vari Patchers
 
-There are lots of different methods to connect to Wiimmfi. Choose the one that fits your needs best.
+Ci sono molti metodi di connettersi a Wiimmfi. Scegli quello che ti sembra migliore.
 
 ### Patchare automaticamente dal Canale Disco usando Priiloader
 
 #### Di cosa hai bisogno
 - Una Wii con Priiloader 0.9 o più recente installato
 
-If you have an older version of Priiloader or don't have it installed, follow [this guide](priiloader) to update/install it.
+Se hai una versione più vecchia di Priiloader o non lo hai installato, segui [questa guida](priiloader) per aggiornarlo/installarlo.
 {: .notice--info}
 
 #### Istruzioni
 1. Tieni premuto reset mentre accendi la tua Wii (se stai usando una Wii Mini, inserisci una tastiera USB e premi esc).
 2. Vai su `System Menu Hacks`.
-3. Make sure the `Wiimmfi patch v4` hack is enabled.
+3. Assicurati che l'opzione `Wiimmfi patch v4` è abiliata.
 4. Salva le impostazioni ed esci.
 
 If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
 {: .notice--warning}
 
 ### Applicazione (Disco) Hombrew
-MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
+MrBean35000vr (creatore di CTGP-R, un pacchetto contenuti per Mario Kart Wii) ha creato un Patcher per Dischi su Wiimmfi che ti permette di inserire un disco e patchare il gioco al volo per usare Wimmfi, però deve attivarsi tutte le volte che avvii il disco.
 
 #### Di cosa hai bisogno
 * Una scheda SD o chiavetta USB
@@ -44,13 +44,13 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 
 #### Istruzioni
 
-1. Extract Auto Wiimmfi Patcher to the root of your SD card or USB drive.
+1. Estrai Auto Wiimmfi Patcher e mettilo nella cartella principale sulla tua scheda SD o dispositivo USB.
 2. Inserisci la tua scheda SD dentro la tua Wii, e carica Auto Wiimmfi Patcher dall'Hombrew Channel.
 3. Inserisci il tuo disco (puoi anche inserirlo prima, non importa).
 4. Aspetta che la patch finisca, e inizierà!
 
 ### No-Hombrew (Disco)
-Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
+Grazie all'exploit str2hax di Fullmetal5, che Leseratte ha adattato al Wiimmfi Patcher, puoi caricare la patch Wiimmfi anche senza homebrew sulla tua Wii.
 
 #### Ciò di cui hai bisogno
 * Una Wii con connessione Internet
@@ -66,7 +66,7 @@ Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for th
 7. Il gioco adesso dovrebbe avviarsi con la patch Wiimmfi inclusa
 
 ### Patchare automaticamente usando uno USB Loader
-If you are already using USB Loader GX, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
+Se stai già usando USB Loader GX, prova ad aggiornarlo alla versione più recente. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
 
 ### Patchare l'ISO
 You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
@@ -74,13 +74,13 @@ You may not want to run a patcher each time you want to play on Wiimmfi, and may
 #### Ciò di cui hai bisogno
 - La copia dei tuoi giochi (WBFS, ISO, cISO, e altre estensioni che la Wii può usare sono supportate).
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows e Unix)  
-**o**
+  **o**
 - [Wiimmfi Patcher (cross-platform)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
 - Un USB Loader, [cIOS](cios), e un dispositivo di archiviazione USB con all'interno il gioco (dovresti già avere tutto ciò se stai usando un USB Loader)
 
 #### Istruzioni
 1. Estrai il patcher che hai scelto in una cartella, e piazza la copia del gioco dentro quella cartella.
-2. Lancia il patch script per il tuo OS: solitamente finisce con `.bat` per Windows e `.sh` per Mac/Linux. Se stai usando RiiConnect24 Patcher, seziona il tuo dispositivo (Wii, vWii o Dolphin) o schegli il WiiWare patcher.
+2. Lancia il patch script per il tuo OS: solitamente finisce con `.bat` per Windows e `.sh` per Mac/Linux. Se stai usando RiiConnect24 Patcher, seleziona il tuo dispositivo (Wii, vWii o Dolphin) e scegli il patcher per il tuo gioco.
 3. Una volta finito, prendi la versione dalla cartella `wiimmfi-images` (potrebbe essere nella cartella prima del patcher - ../wiimmfi-images) e copiala nella tua USB.
 
 ### Patchare i titoli WiiWare
@@ -91,7 +91,7 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 - Una SD card
 - Una copia del tuo gioco (in formato WAD)
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows e Unix)  
-**o**
+  **o**
 - [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (cross platform)
 - [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
@@ -100,7 +100,7 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 
 Steps:
 1. Extract the .zip of the latest version of WiiWare Patcher, and put your WAD in it.
-2. Lancia il patch script per il tuo OS: solitamente finisce con `.bat` per Windows e `.sh` per Mac/Linux. Se stai usando RiiConnect24 Patcher, seleziona il tuo dispositivo (Wii, vWii o Dolphin) e scegli il patcher per il tuo gioco.
+2. Lancia il patch script per il tuo OS: solitamente finisce con `.bat` per Windows e `.sh` per Mac/Linux. Se stai usando RiiConnect24 Patcher, seziona il tuo dispositivo (Wii, vWii o Dolphin) o schegli il WiiWare patcher.
 3. Se il processo si è concluso con successo, installa il WAD che è stato creato in `wiiware-wads` con Wii Mod Lite.
 
 ## Altre cose

@@ -4,7 +4,7 @@ title: "Kasowanie plików. VFF"
 
 {% include toc title="Zawartość" %}
 
-Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.).
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![Logo RiiConnect24](/images/WiiRC24Logo.jpg)
@@ -39,7 +39,7 @@ Jeżeli otrzymujesz któryś z poniższych problemów (tylko te, nie inne), powi
 2. Przejdź do `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` i wybierz `Yes` dla obydwóch dialogów, które pojawią się na ekranie.
 3. Naciskaj "Back" (Wstecz) dopóki nie dojdziesz do ekranu przeglądarki plików.
 4. Naciśnij na mała niebieską ikonę karty SD oraz wybierz `NAND`.
-5. Przejdź do folderu `title` -> `00010002` -> XXXXXXXX -> `data`. Zamień XXXXXXXX na jeden z folderów ukazanych powyżej w podpunkcie `Foldery do usunięcia`.
+5. Przejdź do folderu `title` -> `00010002` -> XXXXXXXX -> `data`.
 6. Najedź na `wc24dl.vff` i naciśnij przycisk + i wybierz `Delete`.
 
 Spróbuj uruchomić kanał z którym miałeś/miałaś problem.

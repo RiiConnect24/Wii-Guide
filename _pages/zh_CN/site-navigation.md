@@ -11,7 +11,7 @@ sitemap: false
 
 + [cIOS](cios)
 + [RiiConnect24](riiconnect24)
-+ [WiiLink24](wiilink24)
++ [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
@@ -21,7 +21,7 @@ sitemap: false
 + [RiiConnect24](riiconnect24)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
-+ [WiiLink24](wiilink24)
++ [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
 + [删除VFF文件](deleting-vffs)

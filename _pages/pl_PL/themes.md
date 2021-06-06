@@ -4,7 +4,7 @@ title: "Instalowanie motywów (Themes) Wii"
 
 {% include toc title="Zawartość" %}
 
-Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.).
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Jesteś znudzony nudnym, białym wyglądem Wii Menu i chcesz zainstalować jakiś fajny motyw? Ten poradnik pomoże Ci zainstalować nowy motyw dla Twojego Wii Menu!
@@ -12,13 +12,13 @@ Jesteś znudzony nudnym, białym wyglądem Wii Menu i chcesz zainstalować jaki�
 W przypadku bricka, [instalacja Priiloadera jest wymogiem](priiloader). Również, zainstaluj BootMii (jako boot2 jeżeli masz starsze Wii). Zainstalowanie ochrony przed brickiem oraz poprawne podążenie za tym poradnikiem ochroni Cię przed zbrickowaniem Twojej konsoli. NIE KONTYNUUJ DOPÓKI NIE ZAINSTALUJESZ PRIILOADERA I BOOTMII!
 {: .notice--warning}
 
-Nie instaluj motywów na Twoim vWii (Wii U) chyba, że zostały odpowiednio przygotowane do użycia na vWii oraz dla Twojego regionu Wii U. Sprawdź [ten post na GBATemp](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) jeśli chcesz się dowiedzieć więcej o motywach dla vWii.
+Istnieją również inne zasoby posiadające motywy Wii, jednak mogą być w formacie csm (już gotowe do instalacji na Wii). Jeżeli plik csm nie pasuje do Twojej wersji systemu operacyjnego i/lub regionu Wii, spróbuj go przekonwertować korzystając z ThemeMii Mod a później, przekonwertuj go spowrotem do pliku csm według instrukcji tutaj dla Twojej wersji i regionu Wii Menu.
 {: .notice--warning}
 
 Z powodu bezpieczeństwa, nie używaj żadnej innej wersji MyMenuify, niż ta, która jest podlinkowana poniżej. MyMenuify Mod jest najbezpieczniejszą aplikacją do instalowania motywów.
 {: .notice--info}
 
-Nie używaj żadnych innych wersji ThemeMii, niż ta, którą tutaj podlinkowaliśmy. ThemeMii Mod pozwala na stworzenie motywu dla wersji systemu operacyjnego Wii 4.3, inne wersje mogą tego nie robić.
+Nie instaluj motywów na Twoim vWii (Wii U) chyba, że zostały odpowiednio przygotowane do użycia na vWii oraz dla Twojego regionu Wii U. Sprawdź [ten post na GBATemp](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) jeśli chcesz się dowiedzieć więcej o motywach dla vWii.
 {: .notice--info}
 
 Zalecamy [instalację cIOS](cios) przed kontynuowaniem.
@@ -51,7 +51,7 @@ UPEWNIJ SIĘ, ŻE PRZECZYTASZ WSZYSTKIE OSTRZEŻENIA PRZED KONTYNUOWANIEM!
 * Kiedy już znajdziesz motyw, który Ci się podoba, naciśnij na link do pobierania odpowiadający Twojej wersji systemu operacyjnego Wii. **Ważne jest wybranie odpowiedniego aby uniknąć bricków**
 * Prawdopodobnie wybierzesz link do pobierania o nazwie 4.X co oznacza, że motyw działa na wersji 4.1, 4.2 oraz 4.3 systemu operacyjnego Wii.
 * Niektóre motywy będą miały różne linki dla różnych regionów. Wybierz odpowiedni dla twojego regionu Wii.
-* Istnieją również inne zasoby posiadające motywy Wii, jednak mogą być w formacie csm (już gotowe do instalacji na Wii). Jeżeli plik csm nie pasuje do Twojej wersji systemu operacyjnego i/lub regionu Wii, spróbuj go przekonwertować korzystając z ThemeMii Mod a później, przekonwertuj go spowrotem do pliku csm według instrukcji tutaj dla Twojej wersji i regionu Wii Menu.
+* Nie używaj żadnych innych wersji ThemeMii, niż ta, którą tutaj podlinkowaliśmy. ThemeMii Mod pozwala na stworzenie motywu dla wersji systemu operacyjnego Wii 4.3, inne wersje mogą tego nie robić. Jeżeli plik csm nie pasuje do Twojej wersji systemu operacyjnego i/lub regionu Wii, spróbuj go przekonwertować korzystając z ThemeMii Mod a później, przekonwertuj go spowrotem do pliku csm według instrukcji tutaj dla Twojej wersji i regionu Wii Menu.
 * Po pobraniu motywu, który chcesz i po ponownym sprawdzeniu, że masz odpowiedni dla Twojego regionu i wersji, otwórz ThemeMii Mod.
 
 ##### Sekcja II - Tworzenie motywu

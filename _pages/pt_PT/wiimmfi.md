@@ -74,7 +74,7 @@ You may not want to run a patcher each time you want to play on Wiimmfi, and may
 #### O que precisas
 - A cópia do teu jogo (WBFS, ISO, cISO, e outros formatos que a Wii suporta).
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows e Unix)  
-**ou**
+  **ou**
 - [Wiimmfi Patcher (cross-platform)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
 - Um USB Loader, [cIOS](cios), e um USB para armazenar o jogo (já deves ter isto se utilizas USB Loader)
 
@@ -91,7 +91,7 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 - Um cartão SD
 - Your copy of your game (in WAD format)
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows e Unix)  
-**ou**
+  **ou**
 - [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (cross platform)
 - [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 

@@ -59,9 +59,9 @@ Os passos para conectar o RiiTag ao teu USB Loader depende de qual USB Loader ut
 7. Guarda o ficheiro modificado `wiiflow.ini`.
 8. Agora tens o RiiTag configurado. Tenta agora carregar algum jogo para ver se funciona corretamente.
 
-###### Dolphin
+###### Emulators
 
-You need a Discord account for this to work.
+RiiTag supports Dolphin, Citra, and Cemu. You need a Discord account for this to work.
 {: .notice--info}
 
 1. [Join the RiiConnect24 Discord server](https://discord.gg/rc24) if you aren't already in there.

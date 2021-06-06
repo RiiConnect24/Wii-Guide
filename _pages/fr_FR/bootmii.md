@@ -21,7 +21,7 @@ L'une des fonctionnalités les plus importantes de BootMii est la possibilité d
 * Une carte SD avec au moins 512 Mo d'espace libre
 
 #### Instructions
-If you have BootMii installed as boot2 you will need to launch BootMii by restarting the console. Skip steps 1 and 2 if this is the case.
+Si vous avez installé BootMii en tant que boot2, vous devrez lancer BootMii en redémarrant la console. Dans ce cas, sautez les étapes 1 et 2.
 {: .notice--info}
 1. Lancez la Chaîne Homebrew.
 2. Appuyer sur le bouton HOME, et choisissez "Launch BootMii".

@@ -17,7 +17,7 @@ title: "홈브루 채널과 BootMii 설치"
 
 2. HackMii 설치 마법사에서는 홈브루 채널과 BootMii를 설치할수 있습니다. ![결과](/images/Wii/Results.png)
 
-3. Continue를 누르고, Install The Homebrew Channel을 선택합니다. 그 다음, Install을 누릅니다. ![홈브루 채널 설치하기](/images/Wii/InstallHomebrewChannel.png)
+3. Continue를 누르고, Install The Homebrew Channel을 선택합니다.![홈브루 채널 설치하기](/images/Wii/InstallHomebrewChannel.png)
 
 4. 완료되면 Continue를 누르세요. ![홈브루 채널 설치 성공](/images/Wii/SuccessHBC.png)
 

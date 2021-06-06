@@ -35,7 +35,7 @@ Emme suosittele BlueBombia käytettävän alkuperäisellä Wiillä, jos tarkoitu
 1. Liitä muistitikku konsoliin. Wii minin USB-portti on konsolin takana. Tavallisella Wiillä, käytä alempaa porttia. (tai oikeanpuolimmaista porttia, jos se on pystyasennossa).
 1. Laita konsolisi päälle ja mene asetusvalikkoon. Oikeassa yläkulmassa näet nelimerkkisen koodin, kuten alla olevassa kuvassa. Tämä koodi on Wii Menu -versiosi, laita tämä muistiin, sillä tarvitset sitä myöhemmin. Sen jälkeen sammuta konsolisi. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Käynnistä Linux-distrosi ja varmista, että olet yhdistettynä internetiin.
-1. Avaa Terminaali
+1. Laita konsolisi päälle **äläkä** yhdistä lainkaan Wii Remoteja.
 1. Suorita seuraavat komennot:
 ```bash
 wget https://wii.guide/assets/files/bluebomb-helper.sh

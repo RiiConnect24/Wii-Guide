@@ -14,7 +14,7 @@ This is a quick start guide on how to use USB Loader GX, a popular USB loader fo
 #### Você precisará de
 
 * A Wii
-* A USB drive
+* Unidade USB / Pendrive
 * [USB Loader GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
 
 Make sure you have installed [cIOS](/cios) before following this!
@@ -85,7 +85,7 @@ There are also other buttons:
 
 On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
 
-##### Options once complete
+##### Opções depois de completado
 
 [Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
 {: .notice--info}

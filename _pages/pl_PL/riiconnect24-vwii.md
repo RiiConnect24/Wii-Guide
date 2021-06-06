@@ -4,7 +4,7 @@ title: RiiConnec24 na vWii
 
 {% include toc title="Zawartość" %}
 
-Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.).
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![Logo RiiConnect24](/images/WiiRC24Logo.jpg)
@@ -72,11 +72,11 @@ Po wykonaniu powyższych czynności, jesteś prawie gotowy do korzystania z RiiC
 
 1. W **menu głównym** vWii uruchom **ConnectMii** Channel.
 * To umożliwi korzystanie z funkcji WiiConnect24 oraz Standby Connection, które są wymagane przez WiiConnect24.
-2. Uruchom jakiś kanał, który korzysta z WiiConnect24
-Powinieneś teraz być w stanie korzystać ze wszystkich kanałów, które są na Twoim Wii oraz korzystają z WiiConnect24!
+2. Uruchom jakiś kanał, który korzysta z WiiConnect24 Powinieneś teraz być w stanie korzystać ze wszystkich kanałów, które są na Twoim Wii oraz korzystają z WiiConnect24!
+Poniższe serwisy RiiConnect24 **działają** na vWii:
 
 #### Co obecnie działa?
-Poniższe serwisy RiiConnect24 **działają** na vWii:
+Poniższe serwisy RiiConnect24 **nie działają** na vWii:
 * News Channel
     * Ten kanał ma problemy ze znacznikami czasu. Sekcja "Ostatnio zaktualizowano" przy artykułach będzie wyświetlała niepoprawne dane.
     * Dane wyświetlane na bannerach również nie działają, wyświetlając `Unable to obtain data.`

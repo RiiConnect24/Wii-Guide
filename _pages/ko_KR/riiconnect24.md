@@ -20,7 +20,7 @@ Unix 패쳐가 드디어 나왔습니다! 이제 macOS와 모든 리눅스 배�
 - RiiConnect24를 vWii (Wii U의 Wii 모드)에 설치하고 싶다면, [이 튜토리얼](riiconnect24-vwii)을 따르세요.
 - RiiConnect24를 돌핀 에뮬레이터에 설치하고 싶다면, [이 튜토리얼](riiconnect24-dolphin)을 따르세요.
 
-Wii 미니에서 RiiConnect24를 설치하는 가이드는 없습니다. Wii 미니에서 RiiConnect24를 설치하는 것은 기기를 벽돌으로 만들기 때문입니다.
+이 가이드에서는, "`Install RiiConnect24 on your Wii`"를 선택하세요.
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
@@ -50,9 +50,9 @@ RiiConnect24 패쳐를 실행시킬 수 없다면, support@riiconnect24.net로 �
 1. Windows에서 `RiiConnect24Patcher.bat`을 실행하세요. Unix 시스템에서는 터미널을 연 뒤 `bash`를 입력하고 `RiiConnect24Patcher.sh`를 터미널에 드래그 한 뒤 엔터를 누릅니다. `bash RiiConnect24Patcher.sh`와 같이 나타나야 합니다.
 2. 1을 눌러 "`Start`"을 선택하고 선택지를 `ENTER`키로 확인하세요. ![RiiConnect24 Patcher 초기화면](/images/RC24_Patcher/1.JPG)
 3. 패치할 기기를 선택하세요. ![장치를 선택](/images/RC24_Patcher/2.JPG)
-4. 이 가이드에서는, "`Install RiiConnect24 on your Wii`"를 선택하세요. ![RiiConnect24 설치](/images/RC24_Patcher/3.JPG)
+4. Wii 미니에서 RiiConnect24를 설치하는 가이드는 없습니다. ![RiiConnect24 설치](/images/RC24_Patcher/3.JPG)
 5. "`Express (Recommended)`"을 선택하세요. 당신이 필요한 모든 것을 줄 겁니다. ![기본 설정](/images/RC24_Patcher/4.JPG)
-6. 국가를 선택하세요. ![국가 설정](/images/RC24_Patcher/5.JPG)
+6. 국가를 선택하세요. ![국가를 선택하세요. ](/images/RC24_Patcher/5.JPG)
 7. 그 상태에서, RiiConnect24 패쳐는 RiiConnect24와 관련 없는 추가적인 선택 채널을 받을 수 있습니다. `[X]`는 옵션이 선택됨을 나타냅니다. 관심이 없다면, 5를 누르고 `ENTER`키를 누르세요. ![추가 선택 채널](/images/RC24_Patcher/6.JPG)
 7. SD 카드나 USB 드라이브를 연결하고 "`1`"을 누르세요. ![SD 카드로 복사 허용](/images/RC24_Patcher/7.JPG)
 8. 기기가 성공적으로 인식되면, "`1`"을 누르세요. 만약 아니라면, SD 카드나 USB 드라이브에 `apps` 폴더가 있는지 확인하고 다시 시도하세요. ![성공적으로 인식](/images/RC24_Patcher/8.JPG)
@@ -102,7 +102,7 @@ RiiConnect24 패쳐를 실행시킬 수 없다면, support@riiconnect24.net로 �
 [Wiimmfi로 계속하기](wiimmfi)<br> Wiimmfi는 닌텐도 Wi-Fi 커넥션의 서비스 종료 이후로도 게임을 온라인으로 플레이 할 수 있게 합니다. 설치는 선택입니다.
 {: .notice--info}
 
-[WiiLink24로 계속하기](wiilink24)<br> WiiLink24는 일본 전용 Wii no Ma 채널을 사용할 수 있게 합니다. 설치는 선택입니다.
+[WiiLink24로 계속하기](wiilink)<br> WiiLink24는 일본 전용 Wii 거실 및 디지캠 인쇄 채널을 사용할 수 있게 합니다. 설치는 선택입니다.
 {: .notice--info}
 
 107245 오류를 받는다면, IOS 패치가 올바르게 되지 않았습니다.

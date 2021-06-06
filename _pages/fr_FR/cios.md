@@ -69,28 +69,21 @@ Une liste plus complète (bien que toujours incomplète) peut être trouvée [**
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'usbloadergx')">USB Loader GX</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
-<div id="usbloadergx" class="blanktabcontent">
-  <p spaces-before="0">
-    !!crwdP_24_Pdwrc!!Sélectionnez le jeu qui ne fonctionne pas. Cliquez sur <code>Settings</code>. !!crwdP_26_Pdwrc!!Sélectionnez <code>Game Load</code>. !!crwdP_27_Pdwrc!!Faites défiler jusqu'à <code>Game IOS</code>. !!crwdP_28_Pdwrc!!Entrez le slot IOS à utiliser.
-  </p>
-  
-  <ul>
-    <li>
-      Essayez d'utiliser le 250 ou le 251, si le 249 ne fonctionne pas. !!crwdP_29_Pdwrc!!Appuyez sur ok et essayez de lancer le jeu.
-    </li>
-  </ul>
+<div id="usbloadergx" class="blanktabcontent" markdown="1">
+1. !!crwdP_24_Pdwrc!!Sélectionnez le jeu qui ne fonctionne pas.
+1. Cliquez sur `Settings`.
+1. !!crwdP_26_Pdwrc!!Sélectionnez `Game Load`.
+1. !!crwdP_27_Pdwrc!!Faites défiler jusqu'à `Game IOS`.
+1. !!crwdP_28_Pdwrc!!Entrez le slot IOS à utiliser.
+    - Essayez d'utiliser le 250 ou le 251, si le 249 ne fonctionne pas.
+1. !!crwdP_29_Pdwrc!!Appuyez sur ok et essayez de lancer le jeu.
 </div>
-
-<div id="wiiflow" class="blanktabcontent">
-  <p spaces-before="0">
-    !!crwdP_30_Pdwrc!!Sélectionnez le jeu qui ne fonctionne pas. !!crwdP_31_Pdwrc!!Cliquez sur l'icône engrenage. !!crwdP_32_Pdwrc!!Allez dans <code>cIOS</code> et utilisez les flèches pour sélectionner le slot IOS désiré.
-  </p>
-  
-  <ul>
-    <li>
-      Essayez d'utiliser le 250 ou le 251, si le 249 ne fonctionne pas. !!crwdP_33_Pdwrc!!Appuyez sur <code>Save</code> et essayez de lancer le jeu.
-    </li>
-  </ul>
+<div id="wiiflow" class="blanktabcontent" markdown="1">
+1. !!crwdP_24_Pdwrc!!Sélectionnez le jeu qui ne fonctionne pas.
+1. Cliquez sur l’icône d’engrenage.
+1. !!crwdP_32_Pdwrc!!Allez dans `cIOS` et utilisez les flèches pour sélectionner le slot IOS désiré.
+    - Essayez d'utiliser le 250 ou le 251, si le 249 ne fonctionne pas.
+1. !!crwdP_33_Pdwrc!!Appuyez sur `Save` et essayez de lancer le jeu.
 </div>
 ##### Options disponibles une fois le processus terminé
 
@@ -105,5 +98,25 @@ Vous pouvez maintenant utiliser des homebrew comme [USB Loader GX](usbloadergx) 
 
 <script>
     let tabcontent = document.getElementsByClassName("blanktabcontent");
-    let tablinks = document.getElementsByClassName("tablinks");!!crwd_CB_10_BC_dwrc!!</script>
+    let tablinks = document.getElementsByClassName("tablinks");
 
+    function openTab(evt, tabName) {
+        let element;
+
+        for (element of tabcontent) {
+            element.style.display = "none";
+        }
+
+        for (element of tablinks) {
+            element.className = element.className.replace("btn--primary", "btn--info");
+            if (!element.className.includes('btn--info'))
+                element.className += " btn--info";
+        }
+
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className = evt.currentTarget.className.replace("btn--info", "btn--primary");
+    }
+
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpen").click();
+</script>

@@ -4,7 +4,7 @@ title: "Wykonywanie kopii zapasowej WAD'ów"
 
 {% include toc title="Zawartość" %}
 
-Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net). (Wsparcie również dostępne po Polsku.).
+Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Ten poradnik wyjaśni Ci jak wykonywać kopię zapasową WAD'ów z Twojej pamięci konsoli Wii.
@@ -24,7 +24,7 @@ Ten poradnik wyjaśni Ci jak wykonywać kopię zapasową WAD'ów z Twojej pamię
 
 2. Wybierz `Installed Channel Titles`. ![Zainstalowane kanały](/images/DumpWADS/3.png)
 
-3. Wybierz zawartość, której chcesz wykonać kopię zapasową oraz naciśnij przycisk `1`. ![Znajdź kanał](/images/DumpWADS/4.png)
+3. Wybierz zawartość, której chcesz wykonać kopię zapasową oraz naciśnij przycisk `1`.![Znajdź kanał](/images/DumpWADS/4.png)
 
 4. Wybierz `Backup to WAD`.
 5. Przy zapytaniu `Fakesign the ticket`, wybierz `Yes`.
