@@ -60,28 +60,28 @@ WiiFlow가 게임을 감지하면, Flow 뷰로 나타납니다. 게임을 클릭
 
 * 별 - 게임을 즐겨찾기에 추가합니다.
 * 책장 - 선택에 따라 게임을 여섯 카테고리 중 하나에 추가합니다.
-* Gears - Opens the settings menu for the specific game. Changing settings here will only effect the game you changed the settings for.
-* X - Deletes the game from the USB drive or SD card
+* 톱니바퀴 - 특정 게임의 설정 메뉴를 엽니다. 여기서 바꾸는 설정은 설정을 바꾼 게임에만 적용됩니다.
+* X - USB 드라이브나 SD 카드에서 게임을 삭제합니다.
 
-When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
+Flow 뷰 상태에서 커서를 화면 맨 밑으로 가져다 대면, 여섯 아이콘이 있습니다:
 
-* Bookshelf - View the games that are sorted in the categories you chose.
-* Star - View games you favorited.
-* Gears - Opens WiiFlow Settings.
-* Game Type - Toggles between different types of apps/games. The logo changes depending on what game type you have selected.
-* Disc - Loads game that is in disc drive.
-* House - Will open this menu. This menu can also be launched by pressing the home button.
+* 책장 - 선택한 카테고리로 게임을 분류합니다.
+* 별 - "즐겨찾기"로 선택된 게임을 보여줍니다.
+* 톱니바퀴 - WiiFlow 설정을 엽니다.
+* 게임 타입 - 다른 형태의 앱/게임을 선택합니다. 선택한 게임 형태에 따라 로고가 변합니다.
+* 디스크 - 디스크 안에 있는 게임을 불러옵니다.
+* 집 - 이 메뉴를 열게 됩니다. 이 메뉴는 홈 버튼을 눌러서도 실행할 수 있습니다.
 
 ![WF_menu](images/WFmenu.png)
 
-* Help Guide - Shows all the controls you can use in WiiFlow.
-* Reload Cache - Press this when WiiFlow is not detecting a new game on the USB drive or SD card.
-* File Explorer - Allows you to boot games/apps from anywhere on your USB drive or SD card.
-* Select Plugins - Allows you to select plugins.
-* Credits - Shows the people who worked on WiiFlow.
-* Shutdown - Allows you to either go into full shutdown, or Standby mode.
-* Exit To - Lets you exit to Wii Menu, HBC, neek2o, Priiloader and Bootmii.
-* Settings - Will open the WiiFlow Settings menu
+* 도움말 - WiiFlow에서 사용할 수 있는 모든 컨트롤을 보여줍니다.
+* 캐시 리로드 - WiiFlow에서 SD 카드나 USB 드라이브의 새 게임을 불러오지 못하는 경우 누릅니다.
+* 파일 탐색기 - USB 드라이브나 SD 카드의 아무 곳에서나 게임/앱을 실행할 수 있게 합니다.
+* 플러그인 선택 - 플러그인을 선택할 수 있게 합니다.
+* 크레딧 - WiiFlow를 작업한 사람들을 나타납니다.
+* 셧다운 - 완전한 종료나 절전 모드 둘 중 하나로 갈 수 있도록 합니다.
+* 나가기 - Wii 메뉴, HBC, neek2o, Priiloader 또는 BootMii로 나갈 수 있게 합니다.
+* 설정 - WiiFlow 설정 메뉴를 열 겁니다.
 
 ##### 끝난 뒤 할 수 있는 것
 
