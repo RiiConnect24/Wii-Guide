@@ -75,7 +75,7 @@ GEM
     mercenary (0.3.6)
     minitest (5.14.4)
     multipart-post (2.1.1)
-    nokogiri (1.11.4-arm64-darwin)
+    nokogiri (1.11.4)
       racc (~> 1.4)
     octokit (4.21.0)
       faraday (>= 0.9)
