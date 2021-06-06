@@ -150,7 +150,7 @@ exclude: [
   _pages/he_IL,
   # _pages/it_IT,
   _pages/ja_JP,
-  _pages/ko_KR,
+  # _pages/ko_KR,
   _pages/nl_NL,
   _pages/no_NO,
   # _pages/pl_PL,
