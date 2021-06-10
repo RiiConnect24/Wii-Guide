@@ -63,7 +63,7 @@ Si tiene un problema con RiiConnect24 Patcher, envíenos un correo electrónico 
 13. Inicia el Canal Homebrew en tu Wii.
 14. Inicie Wii Mod Lite.
 15. Usando la cruz de control en tu Wiimote, selecciona `WAD Manager` (Administrador de WADs), y luego abre la carpeta `wad`.
-16. Señala todos los WADs con `RiiConnect24` en el nombre, y presiona + para seleccionarlos. Cuando todos estén seleccionados, presiona A dos veces para instalar los WADs.
+16. Highlight all the WADs in the folder by pressing the + Button to select them. Cuando todos estén seleccionados, presiona A dos veces para instalar los WADs.
 17. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted WAD to uninstall it, then try installing it again.
 18. Una vez que se hayan instalado correctamente, oprime el botón HOME para volver al Canal Homebrew.
 
