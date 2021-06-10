@@ -63,7 +63,7 @@ RiiConnect24 패쳐를 실행시킬 수 없다면, support@riiconnect24.net로 �
 13. Wii에서 홈브루 채널을 실행하세요.
 14. Wii Mod Lite를 실행하세요.
 15. Wii 리모컨의 +컨트롤 패드를 사용하여, `WAD Manager`를 찾으세요. 그 뒤 `wad` 폴더로 이동하세요.
-16. `RiiConnect24`가 이름에 포함된 모든 WAD를 선택하고, +를 눌러 선택하세요. 모두가 선택되면, A를 두번 눌러 설치하세요.
+16. Highlight all the WADs in the folder by pressing the + Button to select them. 모두가 선택되면, A를 두번 눌러 설치하세요.
 17. 더 높은 버전이 설치되었습니다 (오류 -1035) 라는 제목으로 오류가 뜨면, WAD 선택 창을 열고 선택된 WAD에 - 를 눌러 삭제한 다음 재설치 해보세요.
 18. 설치가 완료되고 나면, HOME 버튼을 눌러 홈브루 런처로 되돌아가세요.
 
