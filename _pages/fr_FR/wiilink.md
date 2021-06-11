@@ -7,7 +7,7 @@ title: "WiiLink"
 WiiLink24 et tous ses services (tels que Wii no Ma) ne sont ni contrôlés ni exploités par RiiConnect24.
 {: .notice--warning}
 
-[WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels Wii Room and Digicam Print Channel, and in the future will let you use the Demae Channel again.
+[WiiLink](https://wiilink24.com/) vous permet d'utiliser les chaînes japonaises exclusives Wii Room et Digicam Print Channel, et vous permettra à l'avenir d'utiliser à nouveau la chaîne Demae.
 
 #### Ce dont vous aurez besoin
 
@@ -18,7 +18,7 @@ WiiLink24 et tous ses services (tels que Wii no Ma) ne sont ni contrôlés ni ex
 
 #### Instructions
 
-##### Section I - Patching WADs
+##### Section I - Patch WADs
 
 [Si vous souhaitez voir des instructions détaillées sur la façon d'installer les WAD, cliquez ici!](wiimodlite)
 {: .notice--info}
@@ -36,22 +36,22 @@ WiiLink24 et tous ses services (tels que Wii no Ma) ne sont ni contrôlés ni ex
 11. Lancez Homebrew Channel sur votre Wii.
 12. Lancez Wii Mod Lite.
 13. À l'aide de la croix directionnelle de votre télécommande Wii, accédez à `WAD Manager`, puis accédez au dossier `wad`.
-14. If your Wii is not a Japanese region, install WiiLink24_SPD.wad before anything else. This is required so that we know your email address to send files.
-15. Highlight all other WADs with `WiiLink24` in the name, and press + to select them. Lorsqu'ils sont tous sélectionnés, appuyez deux fois sur A pour installer les WADs.
-16. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+14. Si votre Wii n'est pas une région japonaise, installez WiiLink24_SPD.wad avant toute autre chose. Ceci est nécessaire pour que nous connaissions votre adresse e-mail pour envoyer des fichiers.
+15. Surlignez tous les autres WAD avec `WiiLink24` dans le nom et appuyez sur + pour les sélectionner. Lorsqu'ils sont tous sélectionnés, appuyez deux fois sur A pour installer les WADs.
+16. Une fois l'installation terminée, appuyez sur le bouton HOME pour revenir à la chaîne Homebrew.
 
-##### Section II - Adding your email to SPD
+##### Section II - Ajouter votre e-mail à SPD
 
-Adding your email to SPD will allow channels like Digicam and Demae to send files like images or links to you.
+L'ajout de votre e-mail à SPD permettra à des chaînes comme Digicam et Demae de vous envoyer des fichiers comme des images ou des liens.
 {: .notice--info}
 
-1. Launch Digicam Print Channel from your Wii's home menu.
-2. On the bottom right, press `Address settings` and then `Yes`.
-3. Click on `Email Address` within SPD and type in your email address. (make sure you **put it in correctly** or it **will not work!**)
-4. Press `OK` and then `Done`.
-5. Once you are in the SPD main menu, choose `Digicam` in the `Choose Channel` menu. After you’ve done that, it should work!
+1. Lancez Digicam Print Channel depuis le menu d'accueil de votre Wii.
+2. En bas à droite, appuyez sur `Address settings`, puis sur `Yes`.
+3. Cliquez sur `Email Address` dans SPD et saisissez votre adresse e-mail. (assurez-vous de **le mettre correctement** ou il **ne fonctionnera pas !**)
+4. Appuyez sur `OK`, puis sur `Done`.
+5. Une fois que vous êtes dans le menu principal du SPD, choisissez `Digicam` dans le menu `Choose Channel`. Une fois que vous avez fait cela, cela devrait fonctionner!
 
-For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
+Pour PAL (Europe Wiis)<br> Dans les paramètres Wii, veuillez régler la résolution TV sur 60 Hz (480p/480i). Vous pouvez le trouver dans `Ecran -> TV Resolution` Si vous ne le faites pas, une barre rose apparaîtra au bas de l'écran pour masquer la vision.
 {: .notice--info}
 
 [ Continuer vers RiiConnect24 ](riiconnect24) <br> RiiConnect24 vous permet d'utiliser les services interrompus de WiiConnect24, qui incluent la Chaîne Infos, la Chaîne Météo, la Chaîne Votes, la Chaîne Nintendo et la Chaîne Concours Mii, ainsi que Wii Mail. L'installation est facultative.
