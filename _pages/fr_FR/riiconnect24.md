@@ -63,7 +63,7 @@ Si vous ne pouvez toujours pas exécuter RiiConnect24 Patcher, veuillez nous env
 13. Lancez la Chaîne Homebrew sur votre Wii.
 14. Lancez Wii Mod Lite.
 15. À l'aide de la croix directionnelle de votre télécommande Wii, accédez à `WAD Manager`, puis accédez au dossier `wad`.
-16. Highlight all the WADs in the folder by pressing the + Button to select them. Lorsqu'ils sont tous sélectionnés, appuyez deux fois sur A pour installer les WADs.
+16. Surlignez tous les WADs du dossier en appuyant sur le bouton + pour les sélectionner. Lorsqu'ils sont tous sélectionnés, appuyez deux fois sur A pour installer les WADs.
 17. Si vous obtenez une erreur indiquant qu'un titre avec une version supérieure est déjà installé (erreur -1035), revenez au menu de sélection WAD et appuyez sur - sur le WAD en surbrillance pour le désinstaller, puis réessayez de l'installer.
 18. Une fois qu'ils sont tous correctement installés, appuyez sur le bouton HOME pour revenir au Homebrew Channel.
 
@@ -102,7 +102,7 @@ Dans cette section, vous allez paramétrer vos DNS sur notre serveur. C'est facu
 [Continuer vers Wiimmfi](wiimmfi)<br> Wiimmfi vous permet de jouer à des jeux en ligne après l'arrêt de la connexion Wi-Fi Nintendo. L'installation est facultative.
 {: .notice--info}
 
-[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels Wii Room and Digicam Print Channel. L'installation est facultative.
+[Continuez vers WiiLink](wiilink)<br> WiiLink vous permet d'utiliser les chaînes exclusives au Japon de Wii Room et Digicam Print Channel. L'installation est facultative.
 {: .notice--info}
 
 Si vous obtenez l'erreur 107245, vous n'avez probablement pas réussi à patcher correctement votre IOS.
