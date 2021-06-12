@@ -27,7 +27,7 @@ NE CRÉEZ PAS de raccourci pour les jeux "Mario Party 9" ou "A Boy and His Blob"
 
 1. Installez WiiGSC, puis faites un clic-droit dessus et cliquez sur **Exécuter en tant qu'administrateur**. Si vous ne le faites pas, WiiGSC affichera une erreur lorsque vous l'ouvrirez.
 2. Sélectionnez le chemin d'accès au fichier ISO ou WBFS sur votre périphérique USB, puis sélectionnez le Loader USB que vous utilisez. Il n'est pas nécessaire de changer les autres options.
-3. Vous ne pouvez pas créer de raccourcis avec la version 1272 de USB Loader GX. Vous devrez utiliser la version 1271 (ou une version antérieure si vous en avez besoin pour une quelconque raison).
+3. If you're using USB Loader GX, make sure to use [this version](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip).
 4. Installez le WAD généré avec un WAD Manager, nous recommandons Wii Mod Lite.
 
 Si vous obtenez une erreur disant "The system files are corrupted", ne paniquez pas tant que vous avez installé Priiloader. Éteignez votre Wii, puis maintenez le bouton RESET enfoncé et allumez votre Wii. Vous devriez pouvoir démarrer dans le menu Priiloader, où vous avez quelques options pour réparer votre Menu Wii. L'une de ces options est de lancer Homebrew Channel.
