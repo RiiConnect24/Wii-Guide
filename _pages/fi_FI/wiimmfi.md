@@ -9,7 +9,7 @@ Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiCon
 
 ![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
 
-[Wiimmfi](https://wiimmfi.de) on korvaava palvelu nyt-lakkautetulle Nintendo Wi-Fi Connectionille. Sen ovat kehittäneet Wiimm ja Leseratte.
+[Wiimmfi](https://wiimmfi.de) on korvaava palvelu nykyään lakkautetulle Nintendo Wi-Fi Connection -palvelulle. Sen ovat kehittäneet Wiimm ja Leseratte.
 
 If you get the error 23904 while connecting to Wiimmfi, then you are using an outdated patch.<br> Follow the steps below for the method you're using to connect to Wiimmfi again.<br> See [this page](https://wiimmfi.de/update) for more details.<br>
 {: .notice--warning}
@@ -27,7 +27,7 @@ If you have an older version of Priiloader or don't have it installed, follow [t
 {: .notice--info}
 
 #### Ohjeet
-1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
+1. Pidä reset-painiketta pohjassa käynnistäessäsi WIi-konsolisi (mikäli käytössä on Wii mini, liitä USB-näppäimistö ja paina escape-näppäintä).
 2. Mene `System Menu Hacks`.
 3. Varmista, että `Wiimmfi patch v4` on päällä.
 4. Tallenna asetukset ja poistu.
@@ -79,8 +79,8 @@ Et välttämättä halua ajaa muokkainta joka kerta, kun haluat pelata Wiimmfiss
 - USB-lataaja, [cIOS](cios) ja USB-asema, jolle laittaa peli (sinulla pitäisi jo olla nämä, jos käytät USB-lataajaa)
 
 #### Ohjeet
-1. Extract the patcher of your choice to a folder, and place your copy of the game in it.
-2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the patcher for your game.
+1. Pura valitsemasi muokkaussovellus kansioon ja laita kopio pelistäsi sinne.
+2. Aja käyttöjärjestelmällesi sopiva muokkausskripti: yleensä tiedostopääte on Windowsilla `.bat` ja Macilla/Linuxilla `.sh`. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the patcher for your game.
 3. Once it's finished, get the version out of the `wiimmfi-images` folder (it may be in the folder outside of the patcher - ../wiimmfi-images) and copy it back to your USB.
 
 ### WiiWaren muokkaus
@@ -100,7 +100,7 @@ Voit muokata WiiWare-pelejä pelataksesi niitä Wiimmfissa.
 
 Vaiheet:
 1. Pura WiiWare Patcherin viimeisimmän version .zip ja laita WAD-tiedostosi siihen.
-2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
+2. Aja käyttöjärjestelmällesi sopiva muokkausskripti: yleensä tiedostopääte on Windowsilla `.bat` ja Macilla/Linuxilla `.sh`. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
 3. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
 
 ## Muita juttuja
