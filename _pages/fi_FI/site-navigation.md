@@ -1,5 +1,5 @@
 ---
-title: "Site Navigation"
+title: "Sivuston navigointi"
 layout: single
 sitemap: false
 ---
@@ -59,8 +59,8 @@ sitemap: false
 
 **Sivu**
 + [Koti](/)
-+ [Aloita](get-started)
-+ [FAQ](faq)
++ [Aloita](aloita)
++ [UKK](ukk)
 + [Lahjoitukset](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
