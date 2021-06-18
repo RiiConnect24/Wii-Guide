@@ -8,7 +8,10 @@ Diese Anleitung wird dir zeigen, wie du cIOS (custom IOS) installieren kannst. D
 
 ![d2x cIOS Installer](/images/cios/cIOS.png)
 
-Der Versuch ein anderes cIOS auf einer Wii mini zu installieren, wird nicht funktionieren. Wenn du eine Wii mini besitzt, installiere stattdessen [dieses cIOS](cios-mini).
+If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
+{: .notice--info}
+
+If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
 {: .notice--info}
 
 #### Voraussetzungen
@@ -17,7 +20,7 @@ Der Versuch ein anderes cIOS auf einer Wii mini zu installieren, wird nicht funk
 * Eine SD-Karte oder ein USB-Laufwerk
 * [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
-Wenn du eine SD-Karte verwendest stelle sicher, dass der Schieber für den Schreibschutz nicht aktiviert ist. Ansonsten wird es dir nicht möglich sein, die korrekten Optionen im Installer auszuwählen
+Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
 {: .notice--warning}
 
 #### Anleitung
@@ -36,7 +39,7 @@ Wähle cIOS base: 57
 Wähle cIOS slot: 249
 Wähle cIOS version: 65535
 ```
-![Installiere cIOS 249](/images/cios/Install249.png)
+![Install cIOS 249](/images/cios/Install249.png)
 1. Wenn du damit fertig bist, drücke zweimal auf A um die Installation zu starten.
 1. Wenn die Installation abgeschlossen ist, drücke A um zurückzugehen und stelle dann folgende Optionen ein:
 ```
@@ -45,7 +48,7 @@ Wähle cIOS base: 56
 Wähle cIOS slot: 250
 Wähle cIOS version: 65535
 ```
-![Installiere cIOS 250](/images/cios/Install250.png)
+![Install cIOS 250](/images/cios/Install250.png)
 1. Wenn du damit fertig bist, drücke zweimal auf A um die Installation zu starten.
 1. Wenn die Installation abgeschlossen ist, drücke A um zurückzugehen und stelle dann folgende Optionen ein:
 ```
@@ -54,15 +57,15 @@ Wähle cIOS base: 38
 Wähle cIOS slot: 251
 Wähle cIOS version: 65535
 ```
-![Installiere cIOS 251](/images/cios/Install251.png)
+![Install cIOS 251](/images/cios/Install251.png)
 1. Wenn du damit fertig bist, drücke zweimal auf A um die Installation zu starten, und verlasse nach Abschluss das Programm.
 
 {% capture bruh %}
-Auch wenn die meisten Spiele mit den Standardeinstellungen sofort funktionieren sollten, benötigen einige Spiele ein spezielles cIOS um zu funktionieren, oder bestimmte Eigenschaften innerhalb des Spiels zu nutzen.<br> Beispiele beinhalten:
+Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
 * Verwendung einer Tastatur in Animal Crossing: Let’s Go to the City.
 * Verwendung von SpongeBob's Boating Bash.
 
-Eine umfassendere (aber weiterhin unvollständige) Liste kann kann [**hier**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> gefunden werden. Um das cIOS für ein spezielles Spiel zu ändern, folge dieser Anleitung:
+A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
 {% endcapture %}
 <div class="notice--warning">{{ bruh | markdownify }}</div>
 
@@ -87,7 +90,7 @@ Eine umfassendere (aber weiterhin unvollständige) Liste kann kann [**hier**](ht
 </div>
 ##### Möglichkeiten nach Abschluss
 
-[Fortfahren zum Homebrew-Browser](hbb)<br> Der Homebrew-Browser ist ein guter Ort um Homebrew für deine Wii zu beziehen. Diesen zu installieren ist nicht zwingend erforderlich.
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. Dies zu installieren ist nicht zwingend erforderlich.
 {: .notice--info}
 
 [Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
