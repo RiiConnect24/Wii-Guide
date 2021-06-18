@@ -8,7 +8,10 @@ title: "cIOS"
 
 ![d2x cIOS 설치 마법사](/images/cios/cIOS.png)
 
-Wii mini가 있다면, [이 cIOS](cios-mini)를 대신 설치하세요. Wii 미니에서 cIOS를 설치하려 시도하는 것은 작동하지 않습니다.
+If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
+{: .notice--info}
+
+If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
 {: .notice--info}
 
 #### 필요한 것
@@ -17,7 +20,7 @@ Wii mini가 있다면, [이 cIOS](cios-mini)를 대신 설치하세요. Wii 미�
 * SD 카드 및 USB 드라이브
 * [d2x cIOS 설치 마법사](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
-SD 카드 사용을 확인하고, 잠금 스위치가 잠금 해제 되어 있음을 확인하세요. 만약 아니라면 설치 마법사에서 올바른 선택지를 선택할 수 없습니다.
+Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
 {: .notice--warning}
 
 #### 방법
@@ -36,7 +39,7 @@ Select cIOS base: 57
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
-![cIOS 249 설치하기](/images/cios/Install249.png)
+![Install cIOS 249](/images/cios/Install249.png)
 1. 준비되었다면, A를 두번 눌러 설치하세요.
 1. 설치가 완료됐다면, A를 눌러 돌아가고, 아래의 옵션을 선택하세요:
 ```
@@ -45,7 +48,7 @@ Select cIOS base: 56
 Select cIOS slot: 250
 Select cIOS version: 65535
 ```
-![cIOS 250 설치하기](/images/cios/Install250.png)
+![Install cIOS 250](/images/cios/Install250.png)
 1. 준비되었다면, A를 두번 눌러 설치하세요.
 1. 설치가 완료됐다면, A를 눌러 돌아가고, 아래의 옵션을 선택하세요:
 ```
@@ -54,19 +57,19 @@ Select cIOS base: 38
 Select cIOS slot: 251
 Select cIOS version: 65535
 ```
-![cIOS 251 설치하기](/images/cios/Install251.png)
+![Install cIOS 251](/images/cios/Install251.png)
 1. 준비되었다면, A를 두번 눌러 설치하고 완료되면 나가세요.
 
 {% capture bruh %}
-대부분의 게임은 기본값으로도 작동되지만, 몇몇은 특정한 cIOS를 사용해야 작동하거나 특정 기능을 작동시킬 수 있습니다.<br> 예시는 다음과 같습니다:
+Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
 * 『타운으로 놀러가요 동물의 숲』에서 키보드 사용
 * 『SpongeBob's Boating Bash』 실행
 
-더 객관적인 (아직 미완성이지만) 리스트는 [**여기**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)에서 볼 수 있습니다.<br> 특정 게임에서 cIOS를 변경하려면 다음 안내를 따르세요:
+A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
 {% endcapture %}
 <div class="notice--warning">{{ bruh | markdownify }}</div>
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'usbloadergx')">USB 로더 GX</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'usbloadergx')">USB Loader GX</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
@@ -87,7 +90,7 @@ Select cIOS version: 65535
 </div>
 ##### 끝난 뒤 할 수 있는 것
 
-[홈브루 브라우저로 계속하기](hbb)<br> 홈브루 브라우저는 Wii에서 홈브루를 얻기에 좋은 곳입니다. 설치는 선택입니다.
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. 설치는 선택입니다.
 {: .notice--info}
 
 [사이트 네비게이션으로 계속하기](site-navigation)<br>당신이 좋아할만한 많은 튜토리얼이 있습니다.
