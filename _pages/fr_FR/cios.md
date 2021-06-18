@@ -8,7 +8,10 @@ Ce tutoriel vous apprendra comment installer un cIOS (IOS customisé). C'est né
 
 ![d2x cIOS Installer](/images/cios/cIOS.png)
 
-Toute tentative d'installation de n'importe quel autre cIOS sur une Wii mini ne fonctionnera pas. Toute tentative d'installation de n'importe quel autre cIOS sur une Wii mini ne fonctionnera pas.
+If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
+{: .notice--info}
+
+If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
 {: .notice--info}
 
 #### Ce dont vous avez besoin
@@ -17,7 +20,7 @@ Toute tentative d'installation de n'importe quel autre cIOS sur une Wii mini ne 
 * Une carte SD ou un périphérique USB
 * [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
-Si vous utilisez une carte SD, vérifiez que le loquet de verrouillage est bien en position déverrouillée, sinon vous ne pourrez pas sélectionner les bonnes options dans le programme d'installation
+Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
 {: .notice--warning}
 
 #### Instructions
@@ -58,11 +61,11 @@ Select cIOS version: 65535
 1. Une fois ces paramètres définis, appuyez à nouveau sur A deux fois pour installer, puis quittez lorsque c'est terminé.
 
 {% capture bruh %}
-Bien que la majorité des jeux devraient fonctionner directement avec les valeurs par défaut, certains peuvent nécessiter l'utilisation d'un cIOS spécifique pour fonctionner, ou pour utiliser certaines fonctionnalités dans le jeu.<br> En voici quelques exemples :
+Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
 * Utilisation d'un clavier dans Animal Crossing : City Folk.
 * Jouer à SpongeBob's Boating Bash.
 
-Une liste plus complète (bien que toujours incomplète) peut être trouvée [**ici**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> Pour modifier le cIOS utilisé pour un jeu spécifique, suivez ces instructions :
+A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
 {% endcapture %}
 <div class="notice--warning">{{ bruh | markdownify }}</div>
 
@@ -87,7 +90,7 @@ Une liste plus complète (bien que toujours incomplète) peut être trouvée [**
 </div>
 ##### Options disponibles une fois le processus terminé
 
-[Continuer vers Homebrew Browser](hbb)<br> Homebrew Browser est un l'endroit idéal pour obtenir des homebrew pour votre Wii. L'installation est facultative.
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. L'installation est facultative.
 {: .notice--info}
 
 [Continuer vers la navigation du site](site-navigation)<br> Nous avons de nombreux autres tutoriels que vous pourriez aimer.
