@@ -1,17 +1,17 @@
 ---
 main:
   - 
-    title: Wii Guide
+    title: Ghid Wii
     url: /
   - 
-    title: Start Here
-    url: get-started
+    title: Începe aici
+    url: să începem
   - 
-    title: Site Navigation
-    url: site-navigation
+    title: Navigare Site
+    url: navigare-site
   - 
-    title: FAQ
-    url: faq
+    title: Întrebări frecvente
+    url: întrebări frecvente
   - 
     title: RiiConnect24
     url: riiconnect24
@@ -20,33 +20,33 @@ main:
     url: wiimmfi
 bottom:
   - 
-    title: For support in English, ask for help at <a href="https://discord.gg/b4Y7jfD">RiiConnect24 on Discord</a>.
+    title: Pentru suport în Engleză, cereți ajutor la <a href="https://discord.gg/b4Y7jfD">RiiConnect24 pe Discord</a>.
 footer:
   - 
-    title: Source
+    title: Sursă
     url: https://github.com/RiiConnect24/Wii-Guide/
   - 
-    title: Site Navigation
-    url: site-navigation
+    title: Navigare Site
+    url: navigare-site
   - 
-    title: Donations
-    url: donations
+    title: Donații
+    url: donații
 sidebar_title:
   - 
-    title: Overall Progress
+    title: Progres total
 sidebar_pages:
   - 
-    title: Wii Guide
+    title: Ghid Wii
     url: /
   - 
-    title: FAQ
-    url: faq
+    title: Întrebări frecvente
+    url: întrebări frecvente
   - 
-    title: Donations
-    url: donations
+    title: Donații
+    url: donații
   - 
-    title: Credits
-    url: credits
+    title: Credite
+    url: credite
   - 
     title: RiiConnect24
     url: riiconnect24
