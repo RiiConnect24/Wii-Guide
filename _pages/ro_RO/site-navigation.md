@@ -1,7 +1,7 @@
 ---
-title: "Site Navigation"
-layout: single
-sitemap: false
+title: "Navigare Site"
+layout: singur
+sitemap: fals
 ---
 
 ![WiiTutorials](/images/WiiTutorials.jpg)
@@ -59,8 +59,8 @@ sitemap: false
 
 **Site**
 + [Home](/)
-+ [Get Started](get-started)
-+ [FAQ](faq)
++ [Get Started](să începem)
++ [Întrebări frecvente](întrebări frecvente)
 + [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
