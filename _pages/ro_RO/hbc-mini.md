@@ -4,14 +4,14 @@ title: "Homebrew Channel - for Wii mini only"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![HBC Logo](/images/hbc.png)
 
 The Homebrew Channel is where you will go to launch homebrew applications.
 
-#### Instructions
+#### Instrucțiuni
 This page is **only** intended for users of the Wii mini. If you have a regular Wii, follow [this guide](hbc) instead.
 {: .notice--info}
 
