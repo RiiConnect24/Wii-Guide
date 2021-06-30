@@ -4,7 +4,7 @@ title: "Deleting VFFs"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
@@ -17,7 +17,7 @@ If you're getting one of these errors (and not any other error), you should be a
 + NEWS/FORE000005
 + NEWS/FORE000099
 
-#### What you need
+#### De ce ai nevoie
 * An SD card or USB drive
 * [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
 
@@ -33,7 +33,7 @@ If you're getting one of these errors (and not any other error), you should be a
   + 4841474a
   + 48414750
 
-#### Instructions
+#### Instrucțiuni
 
 1. Launch WiiXplorer.
 2. Go to `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` and then select `Yes` for both dialogues that appear on the screen.
