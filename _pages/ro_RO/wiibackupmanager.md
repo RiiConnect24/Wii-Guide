@@ -4,13 +4,13 @@ title: "Wii Backup Manager"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Wii Backup Manager is a program to copy Wii games from your computer to a USB drive so you can play the games on your Wii. It also can download game covers from [GameTDB](https://gametdb.com/) and can be used to list what games you have. This tutorial will tell you how to copy over games from your computer to your USB drive. The other features are able to be used in the easy-to-use interface.
-#### What you need
+#### De ce ai nevoie
 
-* A USB drive
+* O unitate USB
 * [Wii Backup Manager](https://static.wiidatabase.de/Wii-Backup-Manager.zip)
 
 
@@ -23,9 +23,9 @@ To play multiple games, we recommend a USB-powered external hard drive for your 
 Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as extFS or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
-#### Instructions
+#### Instrucțiuni
 
-##### Section I - Downloading
+##### Secțiunea I - Descărcare
 
 1. Extract Wii Backup Manager, and launch the program.
 2. Insert your USB drive into your computer.
@@ -43,10 +43,10 @@ Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as othe
 [Continue to cIOS](cios)<br> cIOS is needed for your Wii to use a USB Loader.
 {: .notice--info}
 
-[Continue to USB Loader GX](usbloadergx) USB Loader GX is a USB Loader that you can use to play games on your Wii from a USB drive.
+[Continuă la USB Loader GX](usbloadergx) USB Loader GX este un USB Loader pe care îl poți folosi pentru a juca jocuri pe Wii dintr-o unitate USB.
 {: .notice--info}
 
-[Continue to WiiFlow](wiiflow) WiiFlow is a USB Loader that you can use to play games on your Wii from a USB drive or SD Card.
+[Continuă la WiiFlow](wiiflow) WiiFlow este un USB Loader pe care îl poți folosi pentru a juca jocuri pe Wii dintr-o unitate USB sau un card SD.
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
