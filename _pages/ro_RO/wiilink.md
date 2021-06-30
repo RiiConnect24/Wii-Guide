@@ -9,14 +9,14 @@ WiiLink and all of its services (such as Wii no Ma) are not controlled or operat
 
 [WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels Wii Room and Digicam Print Channel, and in the future will let you use the Demae Channel again.
 
-#### What you need
+#### De ce ai nevoie
 
 * An SD card or USB drive
 * A Wii with an Internet connection
 * A Windows or Unix based computer
 * [WiiLink Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
-#### Instructions
+#### Instrucțiuni
 
 ##### Section I - Patching WADs
 
