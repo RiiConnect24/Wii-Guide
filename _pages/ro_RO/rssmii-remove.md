@@ -2,19 +2,19 @@
 title: "Removing RSSMii"
 ---
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 If you no longer wish to use RSSMii (maybe because it gives you too much Wii Mail), here's how to remove it.
 
 ![Removing RSSMii](/images/rssmii-remove.png)
 
-#### What you need
+#### De ce ai nevoie
 
 * An SD card
 * [RSSMii Remover](https://github.com/RiiConnect24/rssmii/releases)
 
-#### Instructions
+#### Instrucțiuni
 
 1. Extract RSSMii Remover and put it in the `apps` folder on your SD card.
 2. Delete the `feeds.xml` file on the root of your SD card.
