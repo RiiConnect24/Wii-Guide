@@ -30,7 +30,7 @@ sitemap: fals
 
 **Modding 101**
 + [BlueBomb](bluebomb)
-* [BootMii Backup](bootmii)
+* [Copie de rezerva BootMii](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
