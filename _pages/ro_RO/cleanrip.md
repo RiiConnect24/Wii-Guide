@@ -1,9 +1,9 @@
-#### What you need
+#### De ce ai nevoie
 
-* An SD card or USB drive with at least 4.7 GB of free space
+* Un card SD sau o unitate USB cu cel puțin 4.7 GB de spațiu liber.
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
-#### Instructions
+#### Instrucțiuni
 
 ##### Section I - Downloading/Installing
 
