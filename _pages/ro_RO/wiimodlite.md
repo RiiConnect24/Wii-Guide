@@ -13,7 +13,7 @@ We do not recommend using "WAD Manager" by Waninkoko.
 {: .notice--warning}
 
 #### De ce ai nevoie
-* An SD card or USB drive
+* Un card SD sau o unitate USB
 * [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
 #### Instrucțiuni
