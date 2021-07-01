@@ -14,7 +14,7 @@ str2hax is an exploit for the Wii that is triggered by loading the Wii's End Use
 
 #### De ce ai nevoie
 
-* A Wii with an Internet connection
+* Un Wii cu o conexiune la Internet
 
 #### Instrucțiuni
 
@@ -43,5 +43,5 @@ This exploit requires you to set your DNS in order to connect to a server that c
 
 If the HackMii Installer doesn't load and it instead freezes (you can't move your cursor) or it doesn't take 1-2 minutes to trigger, please restart your Wii and retry the exploit.
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[Continuă la Homebrew Channel și instalarea BootMii](hbc)
 {: .notice--info}
