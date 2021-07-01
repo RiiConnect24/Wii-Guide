@@ -1,5 +1,5 @@
 ---
-title: "Dumping WADs"
+title: "Extragere WAD-uri"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -7,28 +7,28 @@ title: "Dumping WADs"
 Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-This tutorial will explain you how to dump WADs from your Wii System Memory.
+Acest tutorial îți va explica cum să extragi WAD-uri din memoria internă a Wii-ului tău.
 
 #### Ai nevoie de
-* An SD card or USB drive
+* Un card SD sau o unitate USB
 * [Yet Another BlueDump MOD](/assets/files/YABDM.zip)
 
 #### Instrucțiuni
-##### Section I - Downloading/Installing
+##### Secțiunea I - Descărcare/Instalare
 
-1. Extract Yet Another BlueDump MOD and put it in the `apps` folder on your SD card or USB drive.
-2. Insert your SD card or USB drive into your Wii, and launch Yet Another BlueDump MOD from the Homebrew Channel.
+1. Extrage Yet Another BlueDump MOD și pune-l în fișierul `apps` din cardul tău SD sau unitatea ta USB.
+2. Introduce cardul tău SD sau unitatea ta USB în Wii, și pornește Yet Another BlueDump MOD din Homebrew Channel.
 
-##### Section II - Dumping
-1. Press the A Button. ![Press A](/images/DumpWADS/2.png)
+##### Secțiunea II - Extragere
+1. Apasă butonul A.![Press A](/images/DumpWADS/2.png)
 
-2. Choose `Installed Channel Titles`. ![Installed Channel Titles](/images/DumpWADS/3.png)
+2. Alege `Installed Channel Titles`. ![Installed Channel Titles](/images/DumpWADS/3.png)
 
-3. Find the content you want to dump and press the 1 Button. ![Find channel](/images/DumpWADS/4.png)
+3. Găsește conținutul pe care vrei să-l extragi și apasă butonul 1.![Find channel](/images/DumpWADS/4.png)
 
-4. Choose `Backup to WAD`.
-5. At the prompt to `Fakesign the ticket`, choose `Yes`.
-6. At the prompt to `Fakesign the TMD`, choose `No`.
-7. At the prompt to `Change the output WAD region`, choose `No`.
+4. Alege `Backup to WAD`.
+5. La solicitarea `Fakesign the ticket`, alege `Yes`.
+6. La solicitarea `Fakesign the TMD`, alege `No`.
+7. La solicitarea `Change the output WAD region`, alege `No`.
 
-You have now dumped that WAD. It should appear on your SD card. ![Done](/images/DumpWADS/5.png)
+Acum ai extras WAD-ul cu succes. Ar trebui să apară în cardul tău SD. ![Done](/images/DumpWADS/5.png)
