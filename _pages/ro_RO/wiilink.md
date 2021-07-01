@@ -11,8 +11,8 @@ WiiLink and all of its services (such as Wii no Ma) are not controlled or operat
 
 #### De ce ai nevoie
 
-* An SD card or USB drive
-* A Wii with an Internet connection
+* Un card SD sau o unitate USB
+* Un Wii cu o conexiune la Internet
 * A Windows or Unix based computer
 * [WiiLink Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
@@ -54,11 +54,11 @@ Adding your email to SPD will allow channels like Digicam and Demae to send file
 For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
 {: .notice--info}
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
+[Continuă la RiiConnect24](riiconnect24)<br> Riiconnect24 îți permite să folosești servicii întrerupte de la WiiConnect24, care includ Canalele de Știri, d de Vreme, Everybody Votes, Nintendo și Mii Contest Channel, împreună cu Wii Mail. Acesta este opțional de instalat.
 {: .notice--info}
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. Acesta este opțional de instalat.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continuă la navigarea site-ului](site-navigation)<br> Avem multe alte tutoriale care s-ar putea să-ți placă.
 {: .notice--info}
