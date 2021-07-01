@@ -39,7 +39,7 @@ Dacă vezi hack-ul `Wiimmfi patch v2` sau `Wiimmfi patch v3` în schimb, atunci 
 MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
 
 #### De ce ai nevoie
-* An SD card or USB drive
+* Un card SD sau o unitate USB
 * [Auto Wiimmfi Patcher](https://download.wiimmfi.de/patcher/autowiimmfipatcher-latest.zip)
 
 #### Instrucțiuni
@@ -53,7 +53,7 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
 
 #### De ce ai nevoie
-* A Wii with an Internet connection
+* Un Wii cu o conexiune la Internet
 
 #### Instrucțiuni
 
@@ -110,7 +110,7 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
 #### De ce ai nevoie
 
-- An SD card or USB drive
+- Un card SD sau o unitate USB
 - Mario Kart Wii Competition Patcher
    - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
    - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
