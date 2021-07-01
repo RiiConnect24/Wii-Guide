@@ -31,5 +31,5 @@ Ensure the date on your Wii is correct, otherwise you might be unable to find th
 
 ![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[Continuă la Homebrew Channel și instalarea BootMii](hbc)
 {: .notice--info}
