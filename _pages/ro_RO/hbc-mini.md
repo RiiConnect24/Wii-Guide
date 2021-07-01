@@ -1,5 +1,5 @@
 ---
-title: "Homebrew Channel - for Wii mini only"
+title: "Homebrew Channel - doar pentru Wii mini"
 ---
 
 {% include toc title="Table of Contents" %}
