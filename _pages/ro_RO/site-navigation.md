@@ -24,7 +24,7 @@ sitemap: fals
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
-+ [Deleting VFFs](deleting-vffs)
++ [Ștergerea VFF-urilor](deleting-vffs)
 + [Fixing FORE000006](riiconnect24-batteryfix)
 + [Fixing NEWS000006](news000006)
 
@@ -59,7 +59,7 @@ sitemap: fals
 
 **Site**
 + [Home](/)
-+ [Get Started](să începem)
++ [Să începem](să începem)
 + [Întrebări frecvente](întrebări frecvente)
 + [Donations](donations)
 {% endcapture %}
