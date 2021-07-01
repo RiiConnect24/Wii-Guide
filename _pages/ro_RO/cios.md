@@ -4,31 +4,31 @@ title: "cIOS"
 
 {% include toc title="Table of Contents" %}
 
-This tutorial will tell you how to install cIOS (custom IOS). Acesta este necesar dacă vrei să încarci jocuri printr-un USB Loader. Unele aplicații homebrew s-ar putea să funcționeze mai bine folosind cIOS.
+Acest tutorial îți va arăta cum să instalezi cIOS (IOS personalizat). Acesta este necesar dacă vrei să încarci jocuri printr-un USB Loader. Unele aplicații homebrew s-ar putea să funcționeze mai bine folosind cIOS.
 
 ![d2x cIOS Installer](/images/cios/cIOS.png)
 
-If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
+Dacă ai un Wii U (vWii), urmează [acest ghid](https://wiiu.hacks.guide/#/vwii-modding) în schimb pentru a instala cIOS. Orice alt cIOS nu va merge instalat pe vWii.
 {: .notice--info}
 
-If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
+Dacă ai un Wii mini, instalează [acest cIOS](cios-mini) în schimb. Orice alt cIOS nu va merge instalat pe Wii mini.
 {: .notice--info}
 
 #### De ce ai nevoie
 
-* A Wii with an Internet connection
-* An SD card or USB drive
+* Un Wii cu o conexiune la Internet
+* Un card SD sau o unitate USB
 * [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
-Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
+Asigură-te că dacă folosești un card SD, comutatorul de blocare este în poziția deblocată, altfel nu vei putea să selectezi opțiunile corecte în instalator
 {: .notice--warning}
 
 #### Instrucțiuni
 
 ##### Secțiunea I - Descărcare
 
-1. Download d2x cIOS Installer and extract it to the `apps` folder on your SD card or USB drive.
-1. Insert your SD card or USB drive into your Wii, and launch d2x cIOS Installer from the Homebrew Channel.
+1. Descarcă d2x cIOS Installer și extrage-l în fișierul `apps` din cardul tău SD sau unitatea ta USB.
+1. Introduce cardul tău SD sau unitatea ta USB în Wii, și pornește d2x cIOS Installer din Homebrew Channel.
 
 ##### Secțiunea II - Instalare
 
@@ -40,8 +40,8 @@ Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 ![Install cIOS 249](/images/cios/Install249.png)
-1. Once set, press A twice to install.
-1. When done installing, press A to return, and set the options to the following:
+1. Odată setat, apasă A de două ori pentru a instala.
+1. Când instalarea este gata, apasă A pentru a te întoarce, și setează opțiunile la următoarele:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 56
@@ -49,8 +49,8 @@ Select cIOS slot: 250
 Select cIOS version: 65535
 ```
 ![Install cIOS 250](/images/cios/Install250.png)
-1. Once set, press A twice to install.
-1. When done installing, press A to return, and set the options to the following:
+1. Odată setat, apasă A de două ori pentru a instala.
+1. Când instalarea este gata, apasă A pentru a te întoarce, și setează opțiunile la următoarele:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 38
@@ -58,14 +58,14 @@ Select cIOS slot: 251
 Select cIOS version: 65535
 ```
 ![Install cIOS 251](/images/cios/Install251.png)
-1. Once set, press A twice again to install, and then exit once done.
+1. Odată setat, apasă A de două ori din nou pentru a instala, apoi ieși după ce se termină.
 
 {% capture bruh %}
-Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
-* Using a keyboard in Animal Crossing: City Folk.
-* Running SpongeBob's Boating Bash.
+Cu toate că majoritatea jocurilor ar trebui să meargă direct cu implicitele, unele s-ar putea să necesite folosirea unui cIOS specific pentru a merge, sau să utilizeze anumite caracteristici din joc.<br> Exemple includ:
+* Folosirea unei tastaturi în Animal Crossing: City Folk.
+* Rularea jocului SpongeBob's Boating Bash.
 
-A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
+O lista mai vastă (deși incompoletă) poate fi găsita [**aici**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> Pentru a schimba cIOS-ul folosit pentru un joc specific, urmărește aceste instrucțiuni:
 {% endcapture %}
 <div class="notice--warning">{{ bruh | markdownify }}</div>
 
@@ -73,30 +73,30 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
-1. Select the game that isn't working.
-1. Click Settings.
-1. Select `Game Load`.
-1. Scroll down to `Game IOS`.
-1. Enter the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
-1. Press ok and try to load the game.
+1. Selectează jocul care nu merge.
+1. Apasă pe Settings.
+1. Selectează `Game Load`.
+1. Derulează jos la `Game IOS`.
+1. Introduce slotul IOS pe care vrei să-l folosești.
+    - Încearcă să folosești 250 sau 251, dacă 249 nu merge.
+1. Apasă ok și încearcă să rulezi jocul.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
-1. Select the game that isn't working.
-1. Click the gear icon.
-1. Go to cIOS and use the arrows to select the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
-1. Press Save and try to load the game.
+1. Selectează jocul care nu merge.
+1. Apasă iconița cu rotița.
+1. Du-te la cIOS și folosește săgețile pentru a selecta slotul IOS pe care vrei să-l folosești.
+    - Încearcă să folosești 250 sau 251, dacă 249 nu merge.
+1. Apasă Save și încearcă să rulezi jocul.
 </div>
-##### Options once complete
+##### Opțiuni după finalizare
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
+[Continuă la Navigatorul de Homebrew](hbb)<br> Navigatorul de Homebrew este un loc bun de unde să-ți iei homebrew pe Wii. Acesta este opțional de instalat.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continuă la navigarea site-ului](site-navigation)<br> Avem multe alte tutoriale care s-ar putea să-ți placă.
 {: .notice--info}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
+Acum poți folosi homebrew precum [USB Loader GX](usbloadergx) și [Wiiflow](wiiflow).
 {: .notice--info}
 
 <script>
