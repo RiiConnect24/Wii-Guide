@@ -1,5 +1,5 @@
 ---
-title: "Installing Wii Menu Themes"
+title: "Instalare Temelor de Fundal pentru Meniul Wii"
 ---
 
 {% include toc title="Table of Contents" %}
