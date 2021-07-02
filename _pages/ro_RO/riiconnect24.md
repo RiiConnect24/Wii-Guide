@@ -60,7 +60,7 @@ If you still can't run RiiConnect24 Patcher, please send us a mail at support@ri
 10. After it's all done, take a minute to send feedback back to us. Make sure to attach a message, we read every one of them! It's anonymous. If not, close the patcher. All the files should already be on your SD Card. ![It's done!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
 11. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
 12. Put your SD card or USB drive in your Wii.
-13. Launch the Homebrew Channel on your Wii.
+13. Pornește Homebrew Channel pe Wii.
 14. Launch Wii Mod Lite.
 15. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 16. Highlight all the WADs in the folder by pressing the + Button to select them. When all of them are selected, press A twice to install the WADs.
@@ -111,7 +111,7 @@ If you get error 107245, then you probably have failed to patch your IOS correct
 If you get error 107304, then perhaps your ISP blocks the use of custom DNS. A workaround for this can be running your own DNS server! See the [RiiConnect24 DNS Server on GitHub](https://github.com/RiiConnect24/DNS-Server), then use your PC's IP address in place of our DNS in Step 8.
 {: .notice--info}
 
-If you get error FORE000006, your Wii's clock is probably set incorrectly. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel should start working.
+Dacă primești eroarea FORE000006, ceasul Wii-ului tău este probabil setat incorect. Setează-l la data și ora corectă, apoi așteaptă nu mai mult de o oră și Canalul de Știri ar trebui să inceapă să funcționeze.
 {: .notice--warning}
 
 [If you get error NEWS000006, following this tutorial should fix it.](news000006)
