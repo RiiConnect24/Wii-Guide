@@ -1,5 +1,5 @@
 ---
-title: "Creating Wii Game Shortcuts"
+title: "Crearea Scurtăturilor de Jocuri Wii"
 ---
 
 {% include toc title="Table of Contents" %}
