@@ -7,55 +7,55 @@ title: "Priiloader"
 Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Priiloader adds a level of brick protection to your Wii. It loads before the Wii Menu does (hence the name). The tool can also enable hacks for your Wii Menu, and be used to quickly launch the Homebrew Channel, BootMii, or whatever homebrew you want!
+Priiloader adaugă un nivel de protecție anti-brick pe Wii-ul tău. El rulează înainte de Meniul Wii (de aici vine numele). Această unealtă poate de asemenea să activeze hack-uri pentru Meniul tău Wii, și poate fi utilizat să ruleze Homebrew Channel, BootMii, sau orice homebrew vrei rapid!
 
 ![Priiloader](/images/priiloader.jpg)
 
-Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your vWii by doing this.
+**Nu** instala Priiloader pe un vWii (modul Wii pe Wii U). O să cauzezi un brick vWii-ului făcând asta.
 {: .notice--warning}
 
 #### De ce ai nevoie
 * Un card SD sau o unitate USB
-* [Priiloader installer](assets/files/Priiloader_v0_9_1.zip)
+* [instalatorul Priiloader](assets/files/Priiloader_v0_9_1.zip)
 
 #### Instrucțiuni
 ##### Secțiunea I - Descărcare/Instalare
 
-1. Download the Priiloader installer and extract it to the `apps` folder on your SD card or USB drive.
-    * If this folder does not exist, create it.
+1. Descarcă instalatorul Priiloader și extrage-l în fișierul `apps` din cardul tău SD sau unitatea ta USB.
+    * Dacă acest fișier nu există, creează-l.
 
-##### Section II - Installing Priiloader
+##### Secțiunea II - Instalarea Priiloader
 
-1. Launch the Homebrew Channel on your Wii.
-2. Launch the Priiloader installer.
-3. Press the + Button on Wii Remote or the A Button on a GameCube controller. ![Install Priiloader](/images/Priiloader/installer.png) ![Installing](/images/Priiloader/installing.png)
+1. Pornește Homebrew Channel pe Wii.
+2. Lansează instalatorul Priiloader.
+3. Apasă Butonul + pe un Wii Remote sau Butonul A pe un controller Gamecube.![Install Priiloader](/images/Priiloader/installer.png) ![Installing](/images/Priiloader/installing.png)
 
-##### Section III - Entering/Configuring Priiloader
+##### Secțiunea III - Deschiderea/Configurarea Priiloader
 
-1. Hold the RESET button while turning on your Wii.
-    * If you are using a Wii mini, plug in a USB keyboard and hold Escape on it while turning it on.
+1. Ține apăsat butonul RESET în timp ce îți pornești Wii-ul.
+    * Dacă folosești un Wii mini, conectează o tastatură USB și ține apăsat Escape pe el în timp ce îl pornești.
 
 ![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
 
-2. You should see the Priiloader menu. ![Menu](/images/Priiloader/mainmenu.png)
-3. Go to `System Menu Hacks`.
+2. Ar trebui să vezi meniul Priiloader. ![Menu](/images/Priiloader/mainmenu.png)
+3. Du-te la `System Menu Hacks`.
 
-If you are using a USB drive to install Priiloader, make sure you do not have an SD card inserted at the same time. This will cause Priiloader to be unable to find the hacks_hash.ini file.
+Dacă folosești o unitate USB pentru a instala Priiloader, asigură-te că nu ai un card SD introdus în același timp. Asta va cauza Priiloader să nu găsească fișierul hacks_hash.ini.
 {: .notice--info}
 
-4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
-1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
-1. Scroll to `Homebrew Channel` and press A to launch it.
+4. Recomandăm sa pornești următoarele hack-uri: `Region Free EVERYTHING`, `Block Disc Updates` și `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
+1. Derulează în jos la `save settings` și apasă A, apoi apasă B pentru a te întoarce în meniul principal Priiloader.
+1. Derulează la `Homebrew Channel` și apasă A pentru a-l rula.
 
-## System Menu Hacks List
+## Lista de Hack-uri pentru System Menu
 
-This is a list of the hacks you can enable with Priiloader.
+Asta este o lista cu hack-urile care le poți activa cu Priiloader.
 
-| Hack                                    | Description                                                                                                                                                                           |
+| Hack                                    | Descriere                                                                                                                                                                             |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Block Disc Updates                      | Removes the "Wii System Update" screen included with some games that forces you to update the system before playing the game.                                                         |
-| Block Online Updates                    | Disables updating your Wii. Updates will fail with error 32007.                                                                                                                       |
-| Auto-Press A at Health Screen           | Automatically presses the A Button to get past the initial "Health and Safety" screen.                                                                                                |
+| Block Disc Updates                      | Dezactivează ecranul "Wii System Update" inclus cu unele jocuri care te forțează să actualizezi sistemul înainte de a juca jocul.                                                     |
+| Block Online Updates                    | Dezactivează posibilitatea de a actualiza Wii-ul tău. Actualizările vor eșua cu eroarea 32007.                                                                                        |
+| Auto-Press A at Health Screen           | Apasă A automat pentru a trece de ecranul inițial "Health and Safety".                                                                                                                |
 | Replace Health Screen with Backmenu     | Changes the "Health and Safety" screen to the animation played when returning to the Wii Menu.                                                                                        |
 | Move Disc Channel                       | Enables moving the Disc Channel anywhere on the Wii Menu. It's normally stuck in the top left of the first page.                                                                      |
 | Wiimmfi Patch v4                        | Automatically patches all games you run from the Disc Channel for use with Wiimmfi.                                                                                                   |
