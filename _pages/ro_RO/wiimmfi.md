@@ -28,7 +28,7 @@ If you have an older version of Priiloader or don't have it installed, follow [t
 
 #### Instrucțiuni
 1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
-2. Go to `System Menu Hacks`.
+2. Du-te la `System Menu Hacks`.
 3. Make sure the `Wiimmfi patch v4` hack is enabled.
 4. Save settings and exit.
 
@@ -88,7 +88,7 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 
 #### De ce ai nevoie
 
-- An SD card
+- Un card SD
 - Your copy of your game (in WAD format)
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
   **or**
