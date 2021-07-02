@@ -40,7 +40,7 @@ Dacă primești una dintre aceste erori (și nu altă eroare), ar trebui să po�
 3. Apasă Back până ai ajuns la ecranul de explorare a fișierelor.
 4. Selectează iconița de card SD mică și albastră, apoi selectază `NAND`.
 5. Navighează la `title` -> `00010002` -> XXXXXXXX -> `data`, unde XXXXXXXX este unul dintre fișierele de mai sus.
-6. Țineți cursorul peste `wc24dl.vff`, apăsați butonul + și selectează `Delete`.
+6. Ține cursorul peste `wc24dl.vff`, apasă butonul + și selectează `Delete`.
 
 Încearcă să pornești Canalul cu care aveai probleme acum.
 
