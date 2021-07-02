@@ -1,13 +1,13 @@
 ---
 title: "Navigare Site"
-layout: singur
-sitemap: fals
+layout: single
+sitemap: false
 ---
 
 ![WiiTutorials](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
-**Featured**
+**Recomandat**
 
 + [cIOS](cios)
 + [RiiConnect24](riiconnect24)
@@ -25,10 +25,10 @@ sitemap: fals
 + [Wiimmfi](wiimmfi)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Ștergerea VFF-urilor](deleting-vffs)
-+ [Fixing FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [Rezolvare FORE000006](riiconnect24-batteryfix)
++ [Rezolvare NEWS000006](news000006)
 
-**Modding 101**
+**Bazele Modificării**
 + [BlueBomb](bluebomb)
 * [Copie de rezerva BootMii](bootmii)
 + [cIOS](cios)
@@ -41,26 +41,26 @@ sitemap: fals
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Creating Wii Game Shortcuts](wiigsc)
-+ [How to dump GameCube/Wii games](dump-games)
-+ [How to dump Channels (WADs)](dump-wads)
-+ [Installing RSSMii](rssmii)
-+ [Installing Wii Themes](themes)
-+ [Performing a SysCheck](syscheck)
-+ [Removing RSSMii](rssmii-remove)
++ [Crearea Scurtăturilor de Jocuri Wii](wiigsc)
++ [Cum să extragi jocuri Wii/GameCube](dump-games)
++ [Cum să extragi Canale (WAD-uri)](dump-wads)
++ [Instalare RSSMii](rssmii)
++ [Instalare Temelor de Fundal Wii](themes)
++ [Efectuarea unui SysCheck](syscheck)
++ [Dezactivare RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 + [WiiFlow](wiiflow)
 
 **Wii mini**
-+ [Installing the Homebrew Channel on the Wii mini](hbc-mini)
-+ [Installing cIOS on the Wii mini](cios-mini)
++ [Instalare Homebrew Channel pe Wii mini](hbc-mini)
++ [Instalare cIOS pe Wii mini](cios-mini)
 
 **Site**
-+ [Home](/)
++ [Pagina Principală](/)
 + [Să începem](să începem)
 + [Întrebări frecvente](întrebări frecvente)
-+ [Donations](donations)
++ [Donații](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
