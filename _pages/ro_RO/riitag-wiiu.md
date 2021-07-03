@@ -1,5 +1,5 @@
 ---
-title: RiiTag on Wii U
+title: RiiTag pe Wii U
 ---
 
 {% include toc title="Table of Contents" %}
