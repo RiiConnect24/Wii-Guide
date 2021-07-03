@@ -11,5 +11,5 @@ Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te
 
 Dacă primești eroarea FORE000006, ceasul Wii-ului tău este probabil setat incorect. Setează-l la data și ora corectă, apoi așteaptă nu mai mult de o oră și Canalul de Știri ar trebui să inceapă să funcționeze.
 
-[Revino la pagina de instalare RiiConnect24](riiconnect24)
+[Revin-o la pagina de instalare RiiConnect24](riiconnect24)
 {: .notice--info}
