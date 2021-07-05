@@ -7,7 +7,7 @@ title: "str2hax"
 Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Ține cont că dacă ISP-ul tău sau mediul de rețea previne utilizarea serverelor DNS personalizate, str2hax nu va merge și va trebui să [alegi alt exploit](get-started).
+Ține cont că dacă furnizorul tău de internet sau mediul de rețea previne utilizarea serverelor DNS personalizate, str2hax nu va merge și va trebui să [alegi alt exploit](get-started).
 {: .notice--info}
 
 str2hax este un exploit pentru Wii care este declanșat prin încărcarea Acordului de Licență Pentru Utilizatorul Final (EULA). Nu necesită nimic dar o conexiune la Internet care permite să schimbi DNS-ul în Wii-ul tău.
