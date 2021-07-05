@@ -7,39 +7,39 @@ title: RiiTag pe Wii U
 Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You launch a plugin on your Wii U console, and the tag updates on-the-fly.
+RiiTag este un gamertag personalizabil şi dinamic. Prin împărtășirea gamertag-ului (o imagine dinamică), poți arată ce ai jucat recent prietenilor tăi! Lansezi un plugin pe consola ta Wii U, și tag-ul se actualizează în timp ce te joci.
 
 #### De ce ai nevoie
 
-- A device capable of interacting with SD cards
-- Softmodded Wii U console
-   - If you have not softmodded your Wii U yet, [please do so](https://wiiu.hacks.guide). You cannot proceed without.
-- A Discord account
-- The latest release of [Wii U Plugin Loader](https://github.com/Maschell/WiiUPluginLoader/releases)
-- The latest release of [UTag plugin](https://github.com/RiiConnect24/UTag/releases)
-- The latest release of [Flump's Coldboot Haxchi Mod](https://www.dropbox.com/sh/gxkf72jia1adpyg/AACPMfGU2AyWUZmhU2awjSsca/Haxchi-CBHC%20Flump%20Mod.zip?dl=1)
-   - This Coldboot Haxchi mod is used in Section IV. You do not need to download it if you can't use Coldboot Haxchi, or you do not want Wii U Plugin Loader loading on startup.
+- Un dispozitiv capabil să interacționeze cu carduri SD
+- O consolă Wii U Soft-modificată
+   - Dacă nu ți-ai soft-modificat consola Wii U încă, [te rugăm să faci asta](https://wiiu.hacks.guide). Nu poți continuă fără acesta.
+- Un cont de Discord
+- Ultima versiune de[Wii U Plugin Loader](https://github.com/Maschell/WiiUPluginLoader/releases)
+- Ultima versiune de [UTag plugin](https://github.com/RiiConnect24/UTag/releases)
+- Ultima versiune de[Flump's Coldboot Haxchi Mod](https://www.dropbox.com/sh/gxkf72jia1adpyg/AACPMfGU2AyWUZmhU2awjSsca/Haxchi-CBHC%20Flump%20Mod.zip?dl=1)
+   - Această modificație Coldboot Haxchi este folosită în Secțiunea IV. Nu trebuie să-l descarci dacă nu poți folosi Coldboot Haxchi, sau nu vrei ca Wii U Plugin Loader să se încarce la pornire.
 
 #### Instrucțiuni
 
-##### Section I - Website instructions
+##### Secțiunea I - Instrucțiuni pentru site
 
-1. Go to the [RiiTag website](https://tag.rc24.xyz/).
-2. Click `Log In` and log in with your Discord account.
-3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Click `Authorize`.
-4. Click `Edit Your Tag` and customize it to how you like. You can add a background, overlay, flag, nickname, Wii Number, and manually enter in games to show on your tag (not needed if you're using a USB Loader).
-5. Click `Show Key` and make note of the key shown. This will be used later on in this guide.
-6. Click `Submit` to save your changes.
+1. Du-te la [webstite-ul RiiTag](https://tag.rc24.xyz/).
+2. Apasă pe `Log In` și loghează-te cu contul de Discord.
+3. Un dialog te va întreba dacă vrei să autorizezi `RiiConnect24 Login` cu Discord. Apasă pe `Authorize`.
+4. Apasă pe `Edit Your Tag` și personalizează-l cum vrei. Poți adăuga un fundal, o suprapunere, un steag, un prenume, un Număr Wii, și poți să adaugi jocuri manual să apară pe tag-ul tău (nu este necesar dacă folosești un USB Loader).
+5. Apasă pe `Show Key` și notează cheia afișată. Aceasta va fi folosită mai târziu în acest ghid.
+6. Apasă pe `Submit` pentru a-ți salva modificările.
 
-Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
+Nu distribui cheia RiiTag cu nimeni! Dacă o faci, alte persoane îți pot abuza tag-ul.
 {: .notice--warning}
 
-##### Section II - Setting things up on the SD card
+##### Secțiunea II - Configurarea cardului SD
 
-1. Extract the Wii U Plugin Loader `.zip` file to the root of your SD card.
-   - You should see a folder titled `wiiupluginloader` in `/wiiu/apps/` on your SD.
-2. Place the `UTag.mod` file in the `/wiiu/plugins/` folder on your SD card.
-3. Create a new file titled `utag.txt` on the root of your SD card, and open it with a text editor.
+1. Extrage fișierul `.zip` Wii U Plugin Loader în rădăcina cardului tău SD.
+   - Ar trebui să vezi un folder numit `wiiupluginloader` în `/wiiu/apps/` pe cardul tău SD.
+2. Pune fișierul `UTag.mod` în folderul `/wiiu/plugins/` pe cardul tău SD.
+3. Creează un fișier nou numit `utag.txt` pe rădăcina cardului tău SD, și deschide-l cu un editor de text.
 4. Paste the key you made note of earlier in Step 5 of [Section I - Getting Started](#section-i---getting-started) into this `utag.txt` file, and save it.
    - We're all done with the SD card side of things.
 5. Insert your SD card into your Wii U.
