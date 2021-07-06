@@ -40,28 +40,28 @@ Nu distribui cheia RiiTag cu nimeni! Dacă o faci, alte persoane îți pot abuza
    - Ar trebui să vezi un folder numit `wiiupluginloader` în `/wiiu/apps/` pe cardul tău SD.
 2. Pune fișierul `UTag.mod` în folderul `/wiiu/plugins/` pe cardul tău SD.
 3. Creează un fișier nou numit `utag.txt` pe rădăcina cardului tău SD, și deschide-l cu un editor de text.
-4. Paste the key you made note of earlier in Step 5 of [Section I - Getting Started](#section-i---getting-started) into this `utag.txt` file, and save it.
-   - We're all done with the SD card side of things.
-5. Insert your SD card into your Wii U.
+4. Lipește cheia pe care ai notat-o mai devreme în Pasul 5 din [Secțiunea I - Instrucțiuni pentru site](#section-i---getting-started) în acest fișier `utag.txt`, și salvează-l.
+   - Suntem gata cu cardul SD, nu mai trebuie să pui nimic în el.
+5. Introduce-ți cardul SD în Wii U.
 
-##### Section III - Running the plugin
+##### Secțiunea III - Rularea plugin-ului
 
-1. Using your preferred method (browser exploit, Haxchi, Homebrew Launcher application, etc.), launch the **Homebrew Launcher** on your Wii U console.
-2. Navigate to, and launch the homebrew application titled `Wii U Plugin Loader`.
-3. You should be greeted with a menu, including a toggle for `UTag`. Enable `UTag`, and then press + on the Wii U GamePad. You should now be kicked back to the Wii U Menu.
+1. Folosind metoda ta preferată (exploit de browser, Haxchi, aplicația Homebrew Launcher, etc.), lansează **Homebrew Launcher** pe consola ta Wii U.
+2. Navighează la, și lansează aplicația homebrew numită `Wii U Plugin Loader`.
+3. Ar trebui să fi întâmpinat cu un meniu, care include o opțiune pentru `UTag`. Activează `UTag`, apoi apasă + pe GamePad-ul Wii U. Ar trebui să fi dat afară înapoi în Meniul Wii U.
 
-##### Section IV - Running on startup (optional)
+##### Secțiunea IV - Rularea la pornire (opțional)
 
-We will now setup Wii U Plugin Loader to run on startup with your Wii U. **This only works if you are using or willing to use Coldboot Haxchi.** You will still have to turn on UTag and press + on the Wii U GamePad to be kicked into the Wii U Menu on startup.
+Acum vom seta Wii U Plugin Loader să ruleze la pornirea consolei. **Asta merge doar dacă folosești sau vrei să folosești Coldboot Haxchi.** Tot va trebui să pornești UTag și să apeși + pe GamePad-ul Wii U pentru a fi dat afară în Meniul Wii U la pornire.
 {: .notice--info}
 
-1. Extract the Coldboot Haxchi mod `.zip` file to the root of your SD card.
-   - If your computer asks to replace, select Replace All.
+1. Extrage fișierul `.zip` de modificare Coldboot Haxchi în rădăcina cardului tău SD.
+   - Dacă calculatorul tău te întreabă dacă să înlocuiești, alege Înlocuiește Tot.
 2. Navigate to `/wiiu/apps/` and open the `wiiupluginloader` folder.
 3. Rename `wiiupluginloader.elf` to `sdcafiine.elf`.
 4. Go back to `/wiiu/apps/` and rename the `wiiupluginloader` to `sdcafiine`.
-5. Insert your SD card into your Wii U.
-6. Using your preferred method (browser exploit, Haxchi, Homebrew Launcher application, etc.), launch the **Homebrew Launcher** on your Wii U console.
+5. Introduce-ți cardul SD în Wii U.
+6. Folosind metoda ta preferată (exploit de browser, Haxchi, aplicația Homebrew Launcher, etc.), lansează **Homebrew Launcher** pe consola ta Wii U.
 6. Navigate to, and launch the Coldboot Haxchi app.
 7. Use the D-Pad to navigate the cursor to the game you previously installed Haxchi to and press the A button to install the Coldboot Haxchi mod.
 8. Turn off your Wii U, and restart it.
