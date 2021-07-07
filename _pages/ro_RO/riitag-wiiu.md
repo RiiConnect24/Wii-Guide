@@ -57,21 +57,21 @@ Acum vom seta Wii U Plugin Loader să ruleze la pornirea consolei. **Asta merge 
 
 1. Extrage fișierul `.zip` de modificare Coldboot Haxchi în rădăcina cardului tău SD.
    - Dacă calculatorul tău te întreabă dacă să înlocuiești, alege Înlocuiește Tot.
-2. Navigate to `/wiiu/apps/` and open the `wiiupluginloader` folder.
-3. Rename `wiiupluginloader.elf` to `sdcafiine.elf`.
-4. Go back to `/wiiu/apps/` and rename the `wiiupluginloader` to `sdcafiine`.
+2. Navighează la `/wiiu/apps/` și deschide folderul `wiiupluginloader`.
+3. Redenumește `wiiupluginloader.elf` la `sdcafiine.elf`.
+4. Du-te înapoi la `/wiiu/apps/` și redenumește `wiiupluginloader` la `sdcafiine`.
 5. Introduce-ți cardul SD în Wii U.
 6. Folosind metoda ta preferată (exploit de browser, Haxchi, aplicația Homebrew Launcher, etc.), lansează **Homebrew Launcher** pe consola ta Wii U.
-6. Navigate to, and launch the Coldboot Haxchi app.
-7. Use the D-Pad to navigate the cursor to the game you previously installed Haxchi to and press the A button to install the Coldboot Haxchi mod.
-8. Turn off your Wii U, and restart it.
-9. At the `Autobooting...` screen, press Home to open the Coldboot Haxchi menu.
-10. Use the +Control Pad on the Wii U GamePad to navigate to `Autoboot:`. Change it to SDCafiine.
-11. Finally, navigate to `WiiU System Menu`, and press A to be kicked to the Wii U Menu.
+6. Navighează la, și lansează aplicația Coldboot Haxchi.
+7. Folosește D-Pad-ul ca să navighezi cursorul la jocul unde ți-ai instalat Haxchi anterior și apasă butonul A pentru a instala modificația Coldboot Haxchi.
+8. Oprește Wii U-ul tău, și repornește-l.
+9. La ecranul `Autobooting...`, apasă Home pentru a deschide meniul Coldboot Haxchi.
+10. Folosește +Control Pad-ul pe GamePad-ul Wii U pentru a naviga la `Autoboot:`. Schimbă-l la SDCafiine.
+11. În final, navighează la `WiiU System Menu`, și apasă A pentru a fi dat afară în Meniul Wii U.
 
-You have now set up RiiTag on your Wii U! Now go play some games, and watch them show up on your RiiTag!
+Acum ai setat RiiTag pe Wii U-ul tău! Acum du-te să joci niște jocuri, și privește cum apar pe RiiTag-ul tău!
 {: .notice--success}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continuă la navigarea site-ului](site-navigation)<br> Avem multe alte tutoriale care s-ar putea să-ți placă.
 {: .notice--info}
 
