@@ -65,7 +65,7 @@ RiiTag unterstützt Dolphin, Citra und Cemu. Du benötigst einen Discord-Account
 {: .notice--info}
 
 1. [Tritt dem RiiConnect24 Discord-Server bei](https://discord.gg/rc24), falls du es nicht schon getan hast.
-2. Stelle sicher dass `Derzeit ausgeführtes Spiel als Statusmeldung anzeigen` in den Einstellungen aktiviert ist.
+2. Make sure you turn on Discord rich presence in the emulator preferences.
 3. Stelle sicher dass dein Discord-Client geöffnet ist.
 4. Spiele ein Spiel und RiiTag wird die Info automatisch in deiner Statusmeldung aktualisieren.
 
@@ -84,7 +84,19 @@ Wenn du möchtest kannst du das Programm `CfgLoaderConfigurator.exe` (nur für W
 5. Speichere die modifizierte `config.txt`-Datei.
 6. Du hast jetzt RiiTag eingerichtet. Du kannst jetzt ein beliebiges Spiel starten, um zu sehen, dass es korrekt funktioniert.
 
-[Entdecke RiiTag-RPC](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br> Jetzt wo du RiiTag eingerichtet hast, kannst du RiiTag-RPC einrichten um deinen Freunden auf der bekannten Plattform Discord anzuzeigen, was du gerade auf deiner Wii spielst.
+#### RiiTag Channel
+
+We have a RiiTag channel you can install on your Wii. When it is launched, it will open up the Internet Channel and show your RiiTag, making it easy to look at it when using your Wii.
+{: .notice--info}
+
+1. Log into RiiTag and go to your tag page.
+2. Click `Download Forwarder WAD`.
+3. Put the WAD on your SD Card or USB device.
+4. Install the WAD with your favorite WAD manager ([Wii Mod Lite](wiimodlite) is recommended).
+5. Make sure the Internet Channel is installed.
+6. The RiiTag Channel should now be available to use on your Wii Menu.
+
+[Check out RiiTag-RPC](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br> Now that you set up RiiTag, you can set up RiiTag-RPC to show your friends what you're playing on the Wii using Discord's rich presence.
 {: .notice--info}
 
 [Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
