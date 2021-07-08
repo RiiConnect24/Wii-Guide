@@ -65,7 +65,7 @@ RiiTag supports Dolphin, Citra, and Cemu. You need a Discord account for this to
 {: .notice--info}
 
 1. [Join the RiiConnect24 Discord server](https://discord.gg/rc24) if you aren't already in there.
-2. Make sure `Show Current Game on Discord` is turned on in preferences.
+2. Make sure you turn on Discord rich presence in the emulator preferences.
 3. Make sure your Discord client is open.
 4. Play a game and RiiTag will automatically update your tag when you play a game.
 
@@ -84,8 +84,20 @@ You can use the `CfgLoaderConfigurator.exe` program (Windows only) instead of ed
 5. Save the modified `config.txt` file.
 6. You have now set up RiiTag. You can try loading any game now to see if it works correctly.
 
+#### RiiTag Channel
+
+We have a RiiTag channel you can install on your Wii. When it is launched, it will open up the Internet Channel and show your RiiTag, making it easy to look at it when using your Wii.
+{: .notice--info}
+
+1. Log into RiiTag and go to your tag page.
+2. Click `Download Forwarder WAD`.
+3. Put the WAD on your SD Card or USB device.
+4. Install the WAD with your favorite WAD manager ([Wii Mod Lite](wiimodlite) is recommended).
+5. Make sure the Internet Channel is installed.
+6. The RiiTag Channel should now be available to use on your Wii Menu.
+
 [Check out RiiTag-RPC](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br> Now that you set up RiiTag, you can set up RiiTag-RPC to show your friends what you're playing on the Wii using Discord's rich presence.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continuă la navigarea site-ului](site-navigation)<br> Avem multe alte tutoriale care s-ar putea să-ți placă.
 {: .notice--info}
