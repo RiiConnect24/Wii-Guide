@@ -22,8 +22,8 @@ Un SysCheck listează toate IOS-urile și cIOS-urile care sunt pe Wii-ul tău, �
 
 ##### Secțiunea II - Efectuarea unui SysCheck
 
-1. Wait for the program to get some information about your Wii.
-2. When "This IOS will be tested (Please select)" is shown on the screen, press A. ![Choose IOS](/images/SysCheck/1.png)
-3. Wait for the program to get some information about your IOS.
-4. After it finishes, press the `A` Button if you want to view the log. ![Completed](/images/SysCheck/2.png)
-5. If you want to share the SysCheck, you can press the `A` Button, which will upload it to [syscheck.rc24.xyz](https://syscheck.rc24.xyz/) and give you a link. You can also share the `sysCheck.csv` saved to the root of your SD Card. The `IOSsysCheck.log` file (saved to the root as well) contains additional information about your IOS.
+1. Așteaptă ca programul să primească niște informații despre Wii-ul tău.
+2. Când "This IOS will be tested (Please select)" este afișat pe ecran, apasă A. ![Choose IOS](/images/SysCheck/1.png)
+3. Așteaptă ca programul să primească niște informații despre IOS-ul tău.
+4. După ce este gata, apasă Butonul `A` dacă vrei să vezi log-ul. ![Completed](/images/SysCheck/2.png)
+5. Dacă vrei să împărtășești SysCheck-ul, poți apasă Butonul `A`, care îl va încărca la [syscheck.rc24.xyz](https://syscheck.rc24.xyz/) și îți va da un link. Poți de asemenea să împărtășești fișierul `sysCheck.csv` salvat în rădăcina Cardului tău SD. Fișierul `IOSsysCheck.log` (salvat în rădăcină de asemenea) conține informații adiționale despre IOS-ul tău.
