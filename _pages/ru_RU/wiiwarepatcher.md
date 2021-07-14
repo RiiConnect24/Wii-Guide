@@ -13,7 +13,7 @@ This tutorial is only for Windows version of WiiWare Patcher.
 
 #### Что вам понадобится
 
-* A Windows computer
+* Компьютер с Windows
 * [WiiWare Патчер](https://github.com/RiiConnect24/WiiWare-Patcher/releases)
 
 ##### Section I - Downloading WiiWare Patcher
