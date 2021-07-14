@@ -1,27 +1,27 @@
 ---
-title: "Deleting VFFs"
+title: "Ștergerea VFF-urilor"
 ---
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-If you're getting one of these errors (and not any other error), you should be able to fix the Channel by deleting your VFF.
+Dacă primești una dintre aceste erori (și nu altă eroare), ar trebui să poți repara Canalul prin ștergerea VFF-ului tău.
 
-+ Discontinued Message
++ Mesaj de întrerupere a serviciilor (Discontinued)
 + NEWS/FORE000001
 + NEWS/FORE000003
 + NEWS/FORE000005
 + NEWS/FORE000099
 
-#### What you need
-* An SD card or USB drive
+#### De ce ai nevoie
+* Un card SD sau o unitate USB
 * [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
 
-#### Folder to Delete
+#### Fișier de Șters
 
 + Forecast Channel
   + 48414645
@@ -33,16 +33,16 @@ If you're getting one of these errors (and not any other error), you should be a
   + 4841474a
   + 48414750
 
-#### Instructions
+#### Instrucțiuni
 
-1. Launch WiiXplorer.
-2. Go to `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` and then select `Yes` for both dialogues that appear on the screen.
-3. Press Back until you have reached the file explorer screen.
-4. Select the tiny blue SD Card icon, then select `NAND`.
-5. Navigate to `title` -> `00010002` -> XXXXXXXX -> `data`, where XXXXXXXX is one of the folders above.
-6. Hover over `wc24dl.vff` and press the + button and select `Delete`.
+1. Pornește WiiXplorer.
+2. Du-te la `Start` > `Settings` > `Boot Settings` > `Enable NAND write access` iar apoi selectează `Yes` pentru ambele dialoguri care apar pe ecran.
+3. Apasă Back până ai ajuns la ecranul de explorare a fișierelor.
+4. Selectează iconița de card SD mică și albastră, apoi selectază `NAND`.
+5. Navighează la `title` -> `00010002` -> XXXXXXXX -> `data`, unde XXXXXXXX este unul dintre fișierele de mai sus.
+6. Ține cursorul peste `wc24dl.vff`, apasă butonul + și selectează `Delete`.
 
-Try to launch the Channel you were having trouble with now.
+Încearcă să pornești Canalul cu care aveai probleme acum.
 
-[Return to RiiConnect24 installation page](riiconnect24)
+[Revin-o la pagina de instalare RiiConnect24](riiconnect24)
 {: .notice--info}

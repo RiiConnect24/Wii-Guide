@@ -1,39 +1,39 @@
 ---
-title: "Homebrew Channel and BootMii Installation"
+title: "Homebrew Channel și Instalarea BootMii"
 ---
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![HBC Logo](/images/hbc.png)
 
-The Homebrew Channel is where you will go to launch homebrew applications. BootMii is a piece of software that can backup and restore your Wii's NAND storage, and if installed in boot2, provides brick protection.
+Homebrew Channel este locul unde vei porni aplicațiile homebrew. BootMii este o bucată de software care poate face copii de rezervă și poate restaura memoria NAND a consolei tale Wii, iar dacă este instalat în boot2, oferă protecție anti-brick.
 
-#### Instructions
+#### Instrucțiuni
 
-1. You will see a scam warning screen. Wait 30 seconds for the text "Press 1 to continue" to appear, then press 1. ![Scam Screen](/images/Wii/ScamScreen.png)
+1. Vei vedea un ecran de avertizare pentru înșelăciune. Așteaptă 30 de secunde pentru ca textul "Press 1 to continue" să apară, apoi apasă 1. ![Scam Screen](/images/Wii/ScamScreen.png)
 
-2. When at the HackMii installer, you are able to install the Homebrew Channel and BootMii. ![Results](/images/Wii/Results.png)
+2. Când ești în instalatorul HackMii, poți instala Homebrew Channel și BootMii.![Results](/images/Wii/Results.png)
 
-3. Press Continue, then select the Homebrew Channel, and press install. ![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
+3. Apasă Continue, apoi selectează Homebrew Channel, și apasă pe install.![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
-4. Press Continue when finished. ![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
+4. Apasă Continue după ce este gata.![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
 
-5. Once installed, press back and go to BootMii.
-6. If the main screen says you can install BootMii as boot2, do so. This offers the best possible brick protection you can have. Skip this step if you cannot install BootMii as boot2.
-7. Install BootMii as IOS, even if you already installed BootMii boot2 in the previous step. If you couldn't install BootMii as boot2 in the previous step, this will still allow you to create a NAND backup.
+5. Odată instalat, apasă back și mergi la BootMii.
+6. Dacă ecranul principal spune că poți instala BootMii ca boot2, fă acest lucru. Acesta oferă cea mai bună protecție anti-brick pe care o poți avea. Sari peste acest pas dacă nu poți instala BootMii ca boot2.
+7. Instalează BootMii ca IOS, chiar dacă deja ai instalat BootMii boo2 în pasul anterior. Dacă nu ai putut instala BootMii ca boot2 în pasul anterior, asta tot îți va permite să faci o copie de rezervă NAND.
 
-If you do not have an SD card, you cannot install or use BootMii, and therefore will not be able utilize any of the mentioned benefits. You can always install it at a later date.
+Dacă nu ai un card SD, nu poți instala sau folosi BootMii, iar, prin urmare, nu vei putea folosi niciuna dintre beneficiile menționate. Îl poți instala oricând mai târziu.
 {: .notice--warning}
 
 ![BootMii Installation](/images/Wii/InstallBootMii.png)
 
-8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
+8. După ce este gata, alege `Continue`, iar apoi selectează `Exit` pentru a te duce în Homebrew Channel
 
-[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
+[Continuă să faci o copie de rezerva NAND folosind BootMii](bootmii)<br> Este foarte recomandat să faci o copie de rezervă cu BootMii acum.
 {: .notice--info}
 
-If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
+Dacă nu ai putut instala BootMii, continuă la [instalarea Priiloader](priiloader).
 {: .notice--info}

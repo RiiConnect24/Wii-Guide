@@ -21,7 +21,7 @@ Um dos recursos mais importantes do BootMii é a habilidade de backup e restaura
 * Um cartão SD com pelo menos 512MB de espaço livre
 
 #### Instruções
-If you have BootMii installed as boot2 you will need to launch BootMii by restarting the console. Skip steps 1 and 2 if this is the case.
+Se você instalou o BootMii como Boot2 na última etapa, será necessário iniciar o BootMii reiniciando o console. Pule as etapas 1-2 se esse for o caso.
 {: .notice--info}
 1. Inicie o Homebrew Channel.
 2. Aperte o botão HOME e selecione "Launch BootMii".

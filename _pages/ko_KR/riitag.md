@@ -65,7 +65,7 @@ RiiTag는 돌핀, 시트라, Cemu를 지원합니다. 사용하기 위해선 Dis
 {: .notice--info}
 
 1. 아직 있지 않다면 [RiiConnect24 디스코드 서버에 가입](https://discord.gg/rc24)하세요.
-2. 설정에서 `Show Current Game on Discord`를 켠 것을 확인하세요.
+2. Make sure you turn on Discord rich presence in the emulator preferences.
 3. 디스코드 클라이언트가 열린 것을 확인하세요.
 4. 게임을 플레이하면 RiiTag는 자동으로 태그를 업데이트합니다.
 
@@ -84,7 +84,19 @@ RiiTag는 돌핀, 시트라, Cemu를 지원합니다. 사용하기 위해선 Dis
 5. 수정된 `config.txt` 파일을 저장하세요.
 6. 이제 RiiTag가 설정되었습니다. 이제 올바르게 작동하는지 아무 게임이나 실행해서 확인할 수 있습니다.
 
-[RiiTag-RPC 확인하기](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br> 이제 RiiTag를 설정했다면, Discord의 Rich Presence를 이용하는 RiiTag-RPC로 친구에게 무얼 플레이하고 있는지 보여줄 수 있습니다.
+#### RiiTag Channel
+
+We have a RiiTag channel you can install on your Wii. When it is launched, it will open up the Internet Channel and show your RiiTag, making it easy to look at it when using your Wii.
+{: .notice--info}
+
+1. Log into RiiTag and go to your tag page.
+2. Click `Download Forwarder WAD`.
+3. Put the WAD on your SD Card or USB device.
+4. Install the WAD with your favorite WAD manager ([Wii Mod Lite](wiimodlite) is recommended).
+5. Make sure the Internet Channel is installed.
+6. The RiiTag Channel should now be available to use on your Wii Menu.
+
+[Check out RiiTag-RPC](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br> Now that you set up RiiTag, you can set up RiiTag-RPC to show your friends what you're playing on the Wii using Discord's rich presence.
 {: .notice--info}
 
 [사이트 네비게이션으로 계속하기](site-navigation)<br>당신이 좋아할만한 많은 튜토리얼이 있습니다.

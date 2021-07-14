@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Wii Guide"
+title: "Ghid Wii"
 header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
@@ -9,44 +9,44 @@ header:
 excerpt: "The complete guide to modding your Nintendo Wii."
 ---
 
-The guide is also available in other languages! To change the language, please press the icon at top right and change your language.
+Ghidul este de asemenea disponibil în alte limbi! Pentru a schimba limba, apasă iconița din dreapta sus și schimba-ți limba.
 {: .notice--info}
 
-## What is "homebrew"?
+## Ce este "homebrew"?
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to software not authorized by Nintendo. This can include games, utilities, emulators and much more!
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) se referă la software neautorizat de Nintendo. Asta poate include jocuri, utilități, emulatoare și multe altele!
 
-Running homebrew on your Nintendo Wii can be done for free by exploiting bugs in Wii's software. The modifications installed by following this guide will give you easy and persistent access to Wii homebrew.
+Poți rula homebrew pe consola ta Nintendo Wii gratuit prin abuzarea bug-urilor în software-ul consolei. Modificațiile instalate prin urmarea acestui ghid îți vor oferi acces ușor și persistent la homebrew Wii.
 
-## What can I do with homebrew?
+## Ce pot face cu homebrew?
 
-Here's a list of things you can do using homebrew. While this list is by no means totally comprehensive, you should have a good idea of what is possible, and the guide will help you easily get started.
+Iată o listă de lucruri care le poți face cu homebrew. Chiar dacă această lista nu este foarte vastă, ar trebui să ai o idee bună la ce este posibil, iar ghidul te va ajuta să începi cu ușurință.
 
-- Patch game disc contents (allowing you to load game modifications) using [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
-- Install themes to your Wii Menu using [MyMenuify](themes).
-- Install a USB Loader like [WiiFlow](wiiflow) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
-- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](dump-wads)
-- Back up and restore your save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
-- Download new homebrew apps with the [Homebrew Browser](hbb)
-- Restore discontinued online services, such as [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
-- Backup and restore copies of your Wii system memory (NAND) using [BootMii](bootmii).
-- Protect your Wii from bricks using [Priiloader](priiloader) and BootMii.
-- Turn your Wii into a media player with [WiiMC](http://www.wiimc.org/).
+- Patch-ui conținutul discurilor de joc (permițându-te să rulezi modificații în joc) folosind [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
+- Instala teme de fundal pentru Meniul Wii folosing [MyMenufy](themes).
+- Instala un USB Loader precum [WiiFlow](wiiflow) sau [USB Loader GX](usbloadergx) pentru a rula toate jocurile tale favorite dintr-un dispozitiv de stocare USB și altele.
+- Face copii de rezervă a discurilor cu [CleanRip](/dump-games) și a jocurilor/titlurilor instalate cu [YABDM](dump-wads)
+- Face copii de rezervă și poți restaurează datele salvate cu [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
+- Descărca aplicații homebrew noi cu [Homebrew Browser](hbb)
+- Restaura servicii online întrerupte, precum [WiiConnect24](riiconnect24) & [serviciile Nintendo WFC](wiimmfi).
+- Face și restaura copii de rezervă ale memorii interne a Wii-ului tău (NAND) folosing [BootMii](bootmii).
+- Protejează-ți consola de brick-uri folosind [Priiloader](priiloader) și BootMii.
+- Transformă-ți consola într-un media player cu [WiiMC](http://www.wiimc.org/).
 
 
-## Ready?
+## Pregătit?
 
-Get started by [choosing your exploit](get-started)!
+Începe prin [alegerea exploit-ului](get-started)!
 {: .notice--info}
 
-## More Resources
+## Alte Resurse
 
-There are also few more good resources for Wii modding and troubleshooting that can help:
+Mai există de asemenea câteva resurse bune pentru modificarea Wii-ului și pentru depanare care pot ajuta:
 
 - [ModMii](http://xflak.com/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
-- [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...and of course, this site
+- [Hack-uirea Wii-ului Explicată - de Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...și desigur, acest site
 
-For modding a Wii U, follow this guide:
-- [NH Wii U Guide](https://wiiu.hacks.guide)
+Pentru modificarea unui Wii U, urmează acest ghid:
+- [Ghid NH Wii U](https://wiiu.hacks.guide)

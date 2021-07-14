@@ -8,7 +8,10 @@ Ten poradnik nauczy Cię jak zainstalować cIOS (niestandardowe IOS). Jest to wy
 
 ![Instalator d2x cIOS](/images/cios/cIOS.png)
 
-Próba instalacji innych cIOS na Wii Mini nie zadziała. Próba instalacji innych cIOS na Wii Mini nie zadziała.
+If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
+{: .notice--info}
+
+If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
 {: .notice--info}
 
 #### Będziesz potrzebował:
@@ -17,7 +20,7 @@ Próba instalacji innych cIOS na Wii Mini nie zadziała. Próba instalacji innyc
 * Karta SD lub urządzenie USB.
 * [Instalator d2x cIOS](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
-Upewnij się, że przełącznik blokady zapisu na Twojej karcie SD jest odblokowany, inaczej nie będziesz mógł wybrać poprawnych opcji z instalatorze.
+Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
 {: .notice--warning}
 
 #### Instrukcje
@@ -36,7 +39,7 @@ Wybierz cIOS base: 57
 Wybierz cIOS slot: 249
 Wybierz cIOS version: 65535
 ```
-![Zainstaluj cIOS 249](/images/cios/Install249.png)
+![Install cIOS 249](/images/cios/Install249.png)
 1. Kiedy ustawisz tak jak powyżej, naciśnij A podwójnie aby zainstalować.
 1. Kiedy instalacja przebiegnie pomyślnie, naciśnij A aby powrócić i ustaw poniższe opcje:
 ```
@@ -45,7 +48,7 @@ Wybierz cIOS base: 56
 Wybierz cIOS slot: 250
 Wybierz cIOS version: 65535
 ```
-![Zainstaluj cIOS 250](/images/cios/Install250.png)
+![Install cIOS 250](/images/cios/Install250.png)
 1. Kiedy ustawisz tak jak powyżej, naciśnij A podwójnie aby zainstalować.
 1. Kiedy instalacja przebiegnie pomyślnie, naciśnij A aby powrócić i ustaw poniższe opcje:
 ```
@@ -54,15 +57,15 @@ Wybierz cIOS base: 38
 Wybierz cIOS slot: 251
 Wybierz cIOS version: 65535
 ```
-![Zainstaluj cIOS 251](/images/cios/Install251.png)
+![Install cIOS 251](/images/cios/Install251.png)
 1. Po ustawieniu, naciśnij przycisk A jeszcze raz, aby zainstalować, a następnie wyjdź po zakończeniu.
 
 {% capture bruh %}
-Chociaż większość gier powinna działać od razu z domyślnymi ustawieniami, niektóre mogą wymagać użycia określonego cIOS do działania lub wykorzystania niektórych funkcji w grze.<br> Przykłady to m.in:
+Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
 * Używanie klawiatury w Animal Crossing: City Folk.
 * Uruchamianie SpongeBob Boating Bash.
 
-Bardziej obszerna lista (choć nadal niekompletna) znajduje się [**tutaj**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> Aby zmienić cIOS używany w konkretnej grze, postępuj zgodnie z poniższymi instrukcjami:
+A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
 {% endcapture %}
 <div class="notice--warning">{{ bruh | markdownify }}</div>
 

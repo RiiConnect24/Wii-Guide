@@ -27,7 +27,7 @@ NÃO FAÇAS um atalho para os jogos "Mario Party 9" ou "A Boy and His Blob". Est
 
 1. Instala o WiiGSC, com o botão direito do rato, clica nele e seleciona **Executar como administrador**. Se não o fizeres, WiiGSC irá apresentar um erro quando o abrires.
 2. Seleciona o caminho para o ficheiro ISO ou WBFS no teu USB drive, e seleciona o USB Loader que utilizas. Deixa as outras opções como estão.
-3. Se estás a utilizar o USB Loader GX, não podes utilizar a revision 1272 para shortcuts. Tens de utilizar a revision 1271 (ou versão anterior).
+3. If you're using USB Loader GX, make sure to use [this version](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip).
 4. Instala o WAD generado com um WAD Manager, nós recomendamos Wii Mod Lite.
 
 Se obtiveres um erro a dizer "The system files are corrupted", não entres em pânico já que tens o Priiloader instalado. Desliga a tua Wii, segura no botão RESET e liga a tua Wii. Deverás dar boot no menu do Priiloader, onde tu tens algumas opções para corrigir o teu Menu Wii. Uma das opções é abrir o Homebrew Channel.

@@ -1,19 +1,19 @@
 ---
-title: "Dumping Wii/GameCube games"
+title: "Extragerea jocurilor Wii/GameCube"
 ---
 
-Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
+Vrei să extragi un disc Wii sau GameCube? Există două metode de a face asta, în funcție de instrumentele pe care le ai la dispoziție.
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">To a PC over the network</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">La un card SD/o unitate USB</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">La un calculator printr-o rețea locală</button>
 
 {% capture cleanripInstructions %}
-### Cleanrip guide
+### Ghid Cleanrip
 {% include_relative cleanrip.md %}
 {% endcapture %}
 
 {% capture networkInstructions %}
-### Dumping a game over a local network
+### Extragerea unui joc printr-o rețea locală
 {% include_relative dump-smb.md %}
 {% endcapture %}
 

@@ -8,6 +8,9 @@ title: "cIOS"
 
 ![d2x cIOS 설치 마법사](/images/cios/cIOS.png)
 
+Wii U (vWii)를 사용한다면, [이 가이드](https://wiiu.hacks.guide/#/vwii-modding)를 따라 cIOS를 설치하세요. vWii에서 cIOS를 설치하려 시도하는 것은 작동하지 않습니다.
+{: .notice--info}
+
 Wii mini가 있다면, [이 cIOS](cios-mini)를 대신 설치하세요. Wii 미니에서 cIOS를 설치하려 시도하는 것은 작동하지 않습니다.
 {: .notice--info}
 

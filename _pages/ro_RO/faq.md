@@ -1,32 +1,32 @@
 ---
-title: "FAQ"
+title: "Întrebări frecvente"
 ---
 
 ![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
 
-### How risky is hacking my console?
-Bricks (a state where either some parts of your Wii software are not working, or your Wii is not working at all) are now *basically* impossible unless you ignore/circumvent all safety checks.
+### Cât de riscant este să-mi hack-uiesc consola?
+Brick-urile (o stare în care niște părți din software-ul din Wii nu merg, sau consola nu merge deloc) sunt acum *practic* imposibile dacă nu ignori/ocolești toate verificările de siguranță.
 
-### Where should I go for support?
-Either email us at support@riiconnect24.net or join the [RiiConnect24 Discord Server](https://discord.gg/rc24).
+### Unde ar trebui să mă duc pentru ajutor?
+Ori ne scrii un email la support@riiconnect24.net, ori te alături [serverului de discord Riconnect24](https://discord.gg/rc24).
 
-### What are the SD card requirements and/or recommendations?
-You will need an SD card with at least 128MB to run an exploit.
+### Care sunt cerințele pentru cardul SD și/sau recomandarile?
+Vei avea nevoie de un card SD cu cel puțin 128MB pentru a rula un exploit.
 
-- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card
+- Dacă folosești exploit-urile BlueBomb, str2hax sau FlashHax, nu ai nevoie de un card SD
 
-To store homebrew applications, we recommend an SD card with at least 2 GB.
+Pentru a stoca aplicații homebrew, recomandăm un card SD cu cel puțin 2 GB spațiu.
 
-### I got error XXXXXX in Wiimmfi, how to fix it?
-In order to check what error that is, please visit the [Wiimmfi error page](https://wiimmfi.de/error).
+### Am luat eroarea XXXXXX în Wiimmfi, cum o rezolv?
+Pentru a verifica ce eroare este, te rugăm să vizitezi [pagina de erori Wiimmfi](https://wiimmfi.de/error).
 
-### What are the limitations in vWii modding?
-The following is a list of things that can potentially **BRICK** your vWii (don't do these things!):
-* Installing IOS for a Wii console on vWii.
-* Installing Wii menu themes not formatted correctly for vWii and/or your region.
-* Installing BootMii and/or Priiloader/Preloader.
-* Failure during the install of crucial system/IOS titles (e.g. power outage).
-* Modifying the vWii NAND without knowing what you are doing.
+### Care sunt limitele în modificării vWii?
+Următoarea este o listă de lucruri care pot cauza un **BRICK** pe vWii (nu face aceste lucruri!):
+* Instalarea unui IOS pentru o consola Wii pe vWii.
+* Instalarea temelor de meniu Wii care nu sunt formatate corect pentru vWii și/sau regiunea ta.
+* Instalarea BootMii și/sau Priiloader/Preloader.
+* Eșec în timpul instalării de titluri cruciale de sistem/IOS (ex. pane de curent).
+* Modificarea NAND-ului vWii fără să știi ce faci.
 
-### How can I remove parental controls?
-The [mkey generator](https://mkey.salthax.org) can generate the code required to remove parental controls.
+### Cum pot dezactiva controlul parental?
+[Generatorul mkey](https://mkey.salthax.org) poate genera codul necesar dezactivării controlului parental.

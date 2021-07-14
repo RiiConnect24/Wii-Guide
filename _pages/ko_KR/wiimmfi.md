@@ -7,7 +7,7 @@ title: "Wiimmfi"
 튜토리얼에 관한 질문이 있다면, [Wii Mini 해킹 디스코드 서버](https://discord.gg/rc24) 에 가입하거나(권장) [support@riiconnect24.net에 이메일을 보내세요](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
+![Wiimmfi 로고](/images/WiiWiimmfiLogo.jpg)
 
 [Wiimmfi](https://wiimmfi.de)는 이제 작동하지 않는 닌텐도 Wi-Fi 커넥션의 대체 서비스입니다. Wiimm과 Leseratte가 제작하였습니다.
 
@@ -99,62 +99,62 @@ Wiimmfi에서 플레이하기 위해 WiiWare 게임을 패치할 수 있습니�
 {: .notice--info}
 
 단계:
-1. Extract the .zip of the latest version of WiiWare Patcher, and put your WAD in it.
-2. 당신의 OS를 위한 패치 스크립트를 실행하세요: Windows는 대부분 `.bat`, Mac/Linux는 `.sh`로 끝납니다. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
-3. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
+1. 최신버전의 WiiWare Patcher의 .zip 압축을 해제하고, WAD를 삽입하세요.
+2. 당신의 OS를 위한 패치 스크립트를 실행하세요: Windows는 대부분 `.bat`, Mac/Linux는 `.sh`로 끝납니다. RiiConnect24 패쳐를 사용한다면, WiiWare Patcher를 선택하고 기기를 선택 (Wii, vWii, 또는 돌핀) 하세요.
+3. 성공적으로 끝났다면, Wii Mod Lite로 `wiiware-wads`에 있는 WAD를 설치하세요.
 
-## Other stuff
+## 기타
 
-### Mario Kart Wii Competitions
-Wiimmfi allows you to participate in Mario Kart Wii competitions again.
+### 마리오 카트 Wii 대회
+Wiimmfi는 마리오 카트 Wii의 대회에 다시 참석할 수 있게 합니다.
 
 #### 필요한 것
 
 - SD 카드 및 USB 드라이브
-- Mario Kart Wii Competition Patcher
+- 마리오 카트 Wii 대회 패쳐
    - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
    - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
-#### Instructions (for Wii)
+#### 설명 (Wii)
 
-1. Extract Mario Kart Wii Competition Patcher and put it in the `apps` folder on your SD Card.
-2. Insert your SD card or USB drive into the Wii.
-3. Launch the original Mario Kart Wii game (not Wiimmfi patched).
-4. Navigate to Settings -> Network Settings (or Nintendo WFC Connection) -> Message Service. If you turned the message service feature on, turn it off and turn it on again.
-5. Launch Mario Kart Wii Competition Patcher.
-6. The patcher will look for save files for Mario Kart Wii on your storage device in various places, and upload them. This is done in case a missing competition is found in your save file. It will also, of course, patch your Wii for competitions.
+1. Mario Kart Wii Competition Patcher를 압축 해제하고 SD 카드의 `apps` 폴더에 붙여넣으세요.
+2. Wii에 SD 카드나 USB 드라이브를 삽입하십시오.
+3. 원본 마리오 카트 Wii를 실행하세요 (Wiimmfi 미 패치).
+4. 설정 -> 네트워크 설정 (또는 닌텐도 Wi-Fi 커넥션) -> 메시징 서비스로 이동하세요. 메시징 서비스가 켜져 있다면, 껐다 다시 켜세요.
+5. 마리오 카트 Wii 대회 패쳐를 실행하세요.
+6. 패쳐는 여러 저장장치의 공간에서 마리오 카트 Wii의 저장 파일을 찾고 업로드 할 겁니다. 저장 파일에 대회가 없는 경우에 대비하여 진행합니다. 당연하겠지만, 대회를 위해 Wii를 패치하기도 합니다.
 
-If you're using the Wii U, you will have to run the competitions patcher whenever you want to check for a competition, because WiiConnect24 is not enabled on the Wii U.
+Wii U를 사용한다면, Wii U에는 WiiConnect24가 비활성화 되어 있기 때문에 새 대회를 찾으려면 항상 대회 패쳐를 실행시켜야 합니다.
 {: .notice--info}
 
-### DS Games
-Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks to an exploit called nds-constraint, you can play DS games online without patching your games.
+### DS 게임
+Wiimmfi는 오직 Wii 게임만을 지원하지 않습니다. 많은 DS 게임도 지원합니다. 감사하게도 nds-constraint라는 취약점은 DS 게임을 패치하지 않고도 온라인으로 플레이 할 수 있게 합니다.
 
 #### 필요한 것
 
-- A Wi-Fi network with WEP or no security
+- WEP이나 아무 보안도 없는 Wi-Fi 네트워크
 
-Getting a Wi-Fi network with WEP or no security is the hardest part, because DS games don't support newer Wi-Fi security types (unless it's one of the few games that are "DSi Enhanced" and can use your Wi-Fi configuration on your DSi or 3DS, like Pokémon Black/White). However, many routers support creating a guest Wi-Fi connection, or you can make a hotspot on your phone or your computer. There are plenty of resources on the Internet that have information on this, so use your favorite search engine to find them.
+가장 어려운 부분은 WEP이나 보안이 없는 Wi-Fi 네트워크를 찾는 것인데, 왜냐하면 DS 게임들은 차세대 Wi-Fi 보안 형태를 지원하지 않기 때문입니다 ("DSi 향상" 게임이거나 DSi나 3DS의 Wi-Fi 설정을 지원하는 포켓몬스터 블랙/화이트 같은 게임인 경우를 제외합니다). 하지만, 많은 라우터는 게스트 Wi-Fi 연결을 지원하고, 휴대전화나 컴퓨터에서 핫스팟을 만들 수도 있습니다. 이것에 대한 정보가 인터넷에 충분하므로, 원하는 검색 엔진으로 찾아 보세요.
 {: .notice--info}
 
 #### 방법
 
-1. Go in the Nintendo DS Wi-Fi settings. This can be accessed inside the game you want to play online with.
-2. Set up a connection.
+1. 닌텐도 DS의 Wi-Fi 설정으로 이동합니다. 온라인으로 플레이하고자 하는 게임 내부에서 접근할 수 있습니다.
+2. 연결을 설정합니다.
 3. 주요 DNS를 `164.132.44.106`으로 입력합니다.
 4. 보조 DNS를 `1.1.1.1`으로 입력합니다 (문제가 있는 경우 `8.8.8.8` 시도).
-5. Save your connection settings and perform a connection test. If it's successful, then you're ready to play.
+5. 연결 설정을 저장하고 연결 테스트를 진행합니다. 성공적이였다면, 플레이 할 준비가 되었습니다.
 
-### Mario Kart Wii Mods
+### 마리오 카트 Wii 모드
 
 #### CTGP-R
-MrBean35000vr and Chadderz have a custom track distribution called CTGP-R that allows you to use a set of custom tracks and has automatic Wiimmfi patching. Go to the [ChadSoft website](http://chadsoft.co.uk) for the download and instructions.
+MrBean35000vr과 Chadderz는 여러 커스텀 트랙을 플레이 할 수 있게 하고 자동으로 Wiimmfi를 패치하는 커스텀 트랙 배포판인 CTGP-R을 배포했습니다. [ChadSoft 웹사이트](http://chadsoft.co.uk)를 방문해서 다운로드 및 설명을 확인하세요.
 
 #### MKW Hack Pack
-Huili has put together a collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. To learn how to set it up, go to the [wiki page](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+Huili는 커스텀 트랙과 핵의 모음집이면서 Wiimmfi에 연결할 수 있게 하는 MKW Hack Pack을 제작했습니다. 설정 방법이 궁금하다면, [위키 페이지](http://wiki.tockdom.com/wiki/MKW_Hack_Pack)를 방문하세요.
 
 #### Wiimms Mario Kart Fun
-Wiimm and Leseratte make a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte, has Wiimmfi support, and lots of other features. You can find out more about it on its [wiki page](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
+Wiimm과 Leseratte는 일 년에 세 번씩 업데이트 되는 커스텀 트랙 배포판인 "Wiimms MKW Fun"을 배포했습니다. Leseratte의 LE-CODE 프레임워크에 기반했으며, Wiimmfi를 지원하며, 여러 기능들이 있습니다. 자세한 정보는 이 [위키 페이지](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun)를 방문하세요.
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[사이트 네비게이션으로 계속하기](site-navigation)<br>당신이 좋아할만한 많은 튜토리얼이 있습니다.
 {: .notice--info}

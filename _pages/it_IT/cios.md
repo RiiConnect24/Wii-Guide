@@ -8,7 +8,10 @@ Questo tutorial ti dirà come installare cIOS (Custom IOS). E' necessario se si 
 
 ![d2x cIOS Installer](/images/cios/cIOS.png)
 
-Provare ad installare altri cIOS su una Wii mini non funzionerà. Se hai una Wii mini, installa [questo cIOS](cios-mini).
+If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
+{: .notice--info}
+
+If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
 {: .notice--info}
 
 #### Di cosa hai bisogno
@@ -17,7 +20,7 @@ Provare ad installare altri cIOS su una Wii mini non funzionerà. Se hai una Wii
 * Una scheda SD o chiavetta USB
 * [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
-Assicurati che, se stai usando una scheda SD, l'interruttore a lato sia in posizione di sblocco, altrimenti non riuscirai a selezionare l'opzione corretta nell' installer
+Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
 {: .notice--warning}
 
 #### Istruzioni
@@ -36,7 +39,7 @@ Select cIOS base: 57
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
-![Installa cIOS 249](/images/cios/Install249.png)
+![Install cIOS 249](/images/cios/Install249.png)
 1. Una volta fatto, premi A due volte per installare.
 1. Quando è finita l'installazione, premere A per tornare, ed imposta le opzioni in questo modo:
 ```
@@ -45,7 +48,7 @@ Select cIOS base: 56
 Select cIOS slot: 250
 Select cIOS version: 65535
 ```
-![Installa cIOS 250](/images/cios/Install250.png)
+![Install cIOS 250](/images/cios/Install250.png)
 1. Una volta fatto, premere A due volte per installare.
 1. Quando è finita l'installazione, premere A per tornare, ed imposta le opzioni in questo modo:
 ```
@@ -54,15 +57,15 @@ Select cIOS base: 38
 Select cIOS slot: 251
 Select cIOS version: 65535
 ```
-![Installa cIOS 251](/images/cios/Install251.png)
+![Install cIOS 251](/images/cios/Install251.png)
 1. Impostato tutto correttamente, premere A due volte per installare, quando a terminato poi uscire.
 
 {% capture bruh %}
-Sebbene la maggior parte dei giochi dovrebbe funzionare direttamente con le opzioni predefinite, alcuni potrebbero richiedere l'utilizzo di cIOS specifici per funzionare, o per utilizzare alcune funzionalità di gioco.<br> Esempi includono:
+Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
 * Usare una tastiera in Animal Crossing: City Folk.
 * Giocare a SpongeBob's Boating Bash.
 
-È possibile trovare un elenco comprensivo (anche se ancora incompleto) [**qui**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> Per cambiare il cIOS utilizzato per un gioco specifico, segui queste istruzioni:
+A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
 {% endcapture %}
 <div class="notice--warning">{{ bruh | markdownify }}</div>
 
@@ -87,7 +90,7 @@ Sebbene la maggior parte dei giochi dovrebbe funzionare direttamente con le opzi
 </div>
 ##### Opzioni una volta completate
 
-[Continuare all' Homebrew Browser](hbb)<br> L' Homebrew Browser è un buon posto per ottenere homebrew sulla tua wii. L'installazione di RiiConnect24 è facoltativa.
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. L'installazione di RiiConnect24 è facoltativa.
 {: .notice--info}
 
 [Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.

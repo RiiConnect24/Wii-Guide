@@ -1,45 +1,45 @@
 ---
-title: "BootMii Backup"
+title: "Copie de rezerva BootMii"
 ---
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![BootMii Logo](/images/bootmii.png)
+![Logo-ul BootMii](/images/bootmii.png)
 
-You need an **SD card** to create a NAND backup using BootMii. If you do not have one, you can skip this page, although it is highly recommended to create one if you can.
+Ai nevoie de un **card SD** pentru a crea o copie de rezervă NAND folosind BootMii. Dacă nu ai una, poți sări această pagină, însă este foarte recomandat să creezi una dacă poți.
 {: .notice--warning}
 
-BootMii as boot2 is recommended, but only available to install on early Wiis. Otherwise, it can be installed as an IOS.
+BootMii ca boot2 este recomandat, dar poate fi instalat doar pe build-uri vechi de Wii-uri. Altfel, poate fi instalat ca un IOS.
 {: .notice--info}
 
-One of BootMii's most important features is the ability to backup and restore your Wii's NAND storage. We will be going over how to perform a NAND backup. You can then restore from that backup for whatever reason. It's a good idea to make a NAND backup regularly or before doing something risky to your console (and if you know what you're doing, you won't have to do anything risky).
+Unele din cele mai importante caracteristici ale BootMii-ului este abilitatea de a face o copie de rezervă și de a restaura memoria NAND a consolei tale Wii. Vom trece peste cum să efectuezi o copie de rezervă NAND. Poți apoi să restaurezi din acea copie de rezervă pentru orice anume motiv. Este o idee bună să faci o copie de rezervă NAND în mod regulat sau înainte să faci ceva riscant cu consola ta (și dacă știi ce faci, nu va trebui să faci nimic riscant).
 
-#### Requirements
-* An SD card with at least 512MB of free space
+#### Ai nevoie de
+* Un card SD cu cel puțin 512MB de spațiu liber
 
-#### Instructions
-If you have BootMii installed as boot2 you will need to launch BootMii by restarting the console. Skip steps 1 and 2 if this is the case.
+#### Instrucțiuni
+Dacă ai BootMii instalat ca boot2 va trebui să porniți BootMii prin repornirea consolei. Sari peste pașii 1 și 2 dacă acesta este cazul.
 {: .notice--info}
-1. Launch the Homebrew Channel.
-2. Press the HOME Button, then select "Launch BootMii".
+1. Pornește Homebrew Channel.
+2. Apasă butonul HOME, apoi selectează "Launch BootMii" (Pornește BootMii).
 
-    Navigating BootMii is not possible using a Wii Remote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. To navigate between options, press POWER on your Wii (or right on the +Control Pad on a GameCube controller). To select an option, hit RESET on your Wii or A on your GameCube controller.
+    Navigarea prin BootMii nu este posibilă folosind un Wii Remote. Trebuie sa folosești butoanele POWER și RESET de pe consolă, sau un controller GameCube conectat în port 1. Pentru a naviga printre opțiuni, apasă butonul POWER de pe consola Wii (sau dreapta pe +Control Pad-ul pe un controller GameCube). Pentru a selecta o opțiune, apasă butonul RESET de pe consola Wii sau A pe controllerul tău GameCube.
     {: .notice--info}
 
 
-    If the screen stays black and the blue disc drive light is blinking, you are missing the BootMii files on your SD card. Download [this zip](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
+    Dacă ecranul rămâne negru și lumina albastră a cititorului de discuri clipește încontinuu, lipsesc fișierele BootMii din cardul tău SD. Descărcați [acest zip](https://static.hackmii.com/bootmii_sd_files.zip) și extrage-l în rădăcina cardului tău SD, iar apoi mai încearcă odată.
     {: .notice--warning}
 
-3. Select the Options button (the one with the gears).
-4. Select the BackupMii button (the one with the green arrow).
-- A NAND backup will start. You can watch the progress on the screen.
-- "Bad Blocks" are normal. Don't worry when you see some on a NAND backup.
-- After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii.
-5. When the backup is fully complete, exit the NAND backup screen by pressing any button.
-6. To exit BootMii, press the Back button (the one with the arrow) and then you can press either the Wii Menu button or the Homebrew Channel button to exit where you want to.
+3. Selectează butonul Opțiuni (cel cu rotițele).
+4. Selectează butonul BackupMii (cel cu săgeata verde).
+- Procesul de creere a unei copii de rezervă NAND va incepe. Poți urmări progresul pe ecran.
+- "Bad Block-urile" (Blocurile proaste) sunt normale. Nu te îngrijora dacă vezi unele într-o copie de rezervă NAND.
+- După acest pas, va verifica copia de rezervă. Chiar dacă este recomandat, poate fi omis prin apăsarea butonului EJECT de pe consola ta Wii.
+5. După ce copia de rezervă este gata, ieși din ecranul de backup NAND prin apăsarea oricărui buton.
+6. Pentru a ieși din BootMii, apasă butonul Înapoi (cel cu săgeata) iar apoi poți apasă ori butonul Wii Menu ori butonul Homebrew Channel pentru a ieși unde vrei.
 
 
 <!---

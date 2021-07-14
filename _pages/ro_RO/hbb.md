@@ -1,29 +1,29 @@
 ---
-title: "Open Shop Channel (Homebrew Browser)"
+title: "Canalul Open Shop (Homebrew Browser)"
 ---
 
-If you need help for anything regarding this tutorial, please join [the Open Shop Channel](https://discord.gg/osc) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord Open Shop Channel](https://discord.gg/osc) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
+[Canalul Open Shop](https://oscwii.org/) este unde poți să te duci să iei aplicații homebrew. Este un proiect de reînviere pentru o aplicație numită Homebrew Browser.
 
-#### What you need
-* An SD card or USB drive
+#### De ce ai nevoie
+* Un card SD sau o unitate USB
 * [Homebrew Browser](/assets/files/homebrew_browser_v0.3.9e.zip)
 
-#### Instructions
+#### Instrucțiuni
 
-1. Extract the Homebrew Browser and put it in the `apps` folder on your SD card or USB drive.
-2. Insert your SD card or USB drive into your Wii. You can now launch the Homebrew Browser from the Homebrew Channel if you want to.
+1. Extrage Homebrew Browser și pune-l în fișierul `apps` din cardul tău SD sau unitatea ta USB.
+2. Introdu cardul tău SD sau unitatea ta USB în Wii. Acum poți porni Homebrew Browser din Homebrew Channel dacă vrei.
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
+[Continuă la RiiConnect24](riiconnect24)<br> Riiconnect24 îți permite să folosești servicii întrerupte de la WiiConnect24, care includ Canalele de Știri, de Vreme, Everybody Votes, Nintendo și Mii Contest Channel, împreună cu Wii Mail. Acesta este opțional de instalat.
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 
-Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
+Inclus în descărcarea Homebrew Browser este un ghid despre cum să folosești aplicația.
 {: .notice--info}
 
-You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
+Poți schimba ShopChannel.ogg cu loop.ogg în `/apps/homebrew_browser/` pentru a avea Homebrew Browser să ruleze muzica Wii Shop Channel.
 {: .notice--info}

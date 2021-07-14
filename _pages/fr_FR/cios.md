@@ -8,7 +8,10 @@ Ce tutoriel vous apprendra comment installer un cIOS (IOS customisé). C'est né
 
 ![d2x cIOS Installer](/images/cios/cIOS.png)
 
-Toute tentative d'installation de n'importe quel autre cIOS sur une Wii mini ne fonctionnera pas. Toute tentative d'installation de n'importe quel autre cIOS sur une Wii mini ne fonctionnera pas.
+Si vous avez une Wii U (vWii), suivez [ce guide](https://wiiu.hacks.guide/#/vwii-modding) pour installer cIOS à la place. Tenter d'installer tout autre cIOS sur vWii ne fonctionnera pas.
+{: .notice--info}
+
+Si vous avez une Wii mini, installez [ce cIOS](cios-mini) à la place. Tenter d'installer tout autre cIOS sur une Wii mini ne fonctionnera pas.
 {: .notice--info}
 
 #### Ce dont vous avez besoin
@@ -17,7 +20,7 @@ Toute tentative d'installation de n'importe quel autre cIOS sur une Wii mini ne 
 * Une carte SD ou un périphérique USB
 * [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
-Si vous utilisez une carte SD, vérifiez que le loquet de verrouillage est bien en position déverrouillée, sinon vous ne pourrez pas sélectionner les bonnes options dans le programme d'installation
+Assurez-vous que si vous utilisez une carte SD, le commutateur de verrouillage est en position de déverrouillage sinon vous ne serez pas en mesure de sélectionner les bonnes options dans l'installateur
 {: .notice--warning}
 
 #### Instructions
@@ -36,7 +39,7 @@ Select cIOS base: 57
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
-![Install cIOS 249](/images/cios/Install249.png)
+![Installer cIOS 249](/images/cios/Install249.png)
 1. Une fois appliqué, appuyez deux fois sur A pour installer.
 1. Quand l'installation est terminée, appuyez sur A pour revenir à l'écran précédent, et appliquez les options suivantes:
 ```
@@ -45,7 +48,7 @@ Select cIOS base: 56
 Select cIOS slot: 250
 Select cIOS version: 65535
 ```
-![Install cIOS 250](/images/cios/Install250.png)
+![Installer cIOS 250](/images/cios/Install250.png)
 1. Une fois appliqué, appuyez deux fois sur A pour installer.
 1. Quand l'installation est terminée, appuyez sur A pour revenir à l'écran précédent, et appliquez les options suivantes:
 ```
@@ -54,15 +57,15 @@ Select cIOS base: 38
 Select cIOS slot: 251
 Select cIOS version: 65535
 ```
-![Install cIOS 251](/images/cios/Install251.png)
+![Installer cIOS 251](/images/cios/Install251.png)
 1. Une fois ces paramètres définis, appuyez à nouveau sur A deux fois pour installer, puis quittez lorsque c'est terminé.
 
 {% capture bruh %}
-Bien que la majorité des jeux devraient fonctionner directement avec les valeurs par défaut, certains peuvent nécessiter l'utilisation d'un cIOS spécifique pour fonctionner, ou pour utiliser certaines fonctionnalités dans le jeu.<br> En voici quelques exemples :
+Même si la majorité des jeux devraient fonctionner immédiatement avec les valeurs par défaut, certains peuvent nécessiter l'utilisation d'un cIOS spécifique pour fonctionner, ou pour utiliser certaines fonctionnalités dans le jeu.<br> Les exemples comprennent :
 * Utilisation d'un clavier dans Animal Crossing : City Folk.
 * Jouer à SpongeBob's Boating Bash.
 
-Une liste plus complète (bien que toujours incomplète) peut être trouvée [**ici**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> Pour modifier le cIOS utilisé pour un jeu spécifique, suivez ces instructions :
+Une liste plus complète (bien que toujours incomplète) peut être trouvée [**ici**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> Pour modifier cIOS utilisé pour un jeu spécifique, suivez ces instructions :
 {% endcapture %}
 <div class="notice--warning">{{ bruh | markdownify }}</div>
 
@@ -87,7 +90,7 @@ Une liste plus complète (bien que toujours incomplète) peut être trouvée [**
 </div>
 ##### Options disponibles une fois le processus terminé
 
-[Continuer vers Homebrew Browser](hbb)<br> Homebrew Browser est un l'endroit idéal pour obtenir des homebrew pour votre Wii. L'installation est facultative.
+[Continuer vers le navigateur Homebrew](hbb)<br> Le navigateur Homebrew est un bon endroit pour obtenir des homebrew sur votre Wii. L'installation est facultative.
 {: .notice--info}
 
 [Continuer vers la navigation du site](site-navigation)<br> Nous avons de nombreux autres tutoriels que vous pourriez aimer.

@@ -8,7 +8,10 @@ This tutorial will tell you how to install cIOS (custom IOS). This is required i
 
 ![d2x cIOS Installer](/images/cios/cIOS.png)
 
-If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work. Attempting to install any other cIOS on a Wii mini won't work.
+If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
+{: .notice--info}
+
+If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
 {: .notice--info}
 
 #### 你需要的是
@@ -87,7 +90,7 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 </div>
 ##### Options once complete
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. 你可以选择来安装。 你可以选择来安装。
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. 你可以选择来安装。
 {: .notice--info}
 
 [继续 网站导览](site-navigation) 我们有许多你可能喜欢的其他教程。

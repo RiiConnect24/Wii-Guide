@@ -8,7 +8,10 @@ Tämä opas kertoo sinulle, kuinka asentaa cIOS (custom IOS). Tämä vaaditaan, 
 
 ![d2x cIOS Installer](/images/cios/cIOS.png)
 
-Jos sinulla on Wii mini, asenna [tämä cIOS](cios-mini). Muun cIOS:n asentaminen Wii minille ei tule toimimaan.
+If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
+{: .notice--info}
+
+If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
 {: .notice--info}
 
 #### Mitä tarvitset
@@ -17,7 +20,7 @@ Jos sinulla on Wii mini, asenna [tämä cIOS](cios-mini). Muun cIOS:n asentamine
 * SD-kortti tai USB-asema
 * [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
-Jos käytät SD-korttia, varmista, että lukituskytkin on auki-asennossa, tai muuten et pysty valitsemaan oikeita asetuksia asennusohjelmassa
+Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
 {: .notice--warning}
 
 #### Ohjeet
@@ -87,7 +90,7 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 </div>
 ##### Vaihtoehdot, kun valmista
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. Tämän asentaminen on vapaaehtoista.
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.

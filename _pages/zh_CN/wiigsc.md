@@ -27,7 +27,7 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 1. 安装WiiGSC，然后**以管理员权限打开**。 如果你不以管理员打开，就会发生错误。
 2. 选择U盘里放置WBFS和ISO文件的目录，然后选择你使用的USB Loader。 其他选择应该也一样。
-3. 如果你在使用USB Loader GX，你不能使用1272版来创建快捷方式。 你需要使用修订版1271（如果出于某种原因可以用早期版本）。
+3. If you're using USB Loader GX, make sure to use [this version](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip).
 4. 把已经生成的WAD用WAD Manager安装，我们建议使用Wii Mod Lite。
 
 如果收到错误消息“系统文件已损坏”，只要你安装了Priiloader就不用怕。 关闭Wii，然后按住RESET按钮并打开Wii。 你应该能够启动进入Priiloader菜单，在那里你可以选择一些选项来修复Wii菜单。 有一个选项是启动HBC。
