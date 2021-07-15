@@ -24,9 +24,9 @@ This guide is for the original Wii and Wii mini only (including the Wii Family E
 These exploits are sorted by easiest to hardest difficulty of use.
 
 - [str2hax](str2hax) - Эксплойт, который использует пользовательское соглашение Wii
-    * Requires an Internet connection and changing the DNS server
+    * Необходимо подключение к интернету и возможность менять DNS сервер
 - [LetterBomb](letterbomb) - Эксплойт, который использует доску объявлений Wii
-    * Requires an SD card
+    * Нужна SD карта
 - [FlashHax](flashhax) -Эксплойт, который использует Интернет канал
     * Requires the Internet Channel installed, and an Internet connection
 - [BlueBomb](bluebomb) - Эксплойт, использующий Bluetooth
