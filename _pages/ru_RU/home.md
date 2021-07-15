@@ -20,7 +20,7 @@ Running homebrew on your Nintendo Wii can be done for free by exploiting bugs in
 
 ## Что я могу делать с homebrew?
 
-Вот небольшой лист, что вы можете делать используя homebrew. While this list is by no means totally comprehensive, you should have a good idea of what is possible, and the guide will help you easily get started.
+Вот небольшой список того, что вы можете делать используя homebrew. While this list is by no means totally comprehensive, you should have a good idea of what is possible, and the guide will help you easily get started.
 
 - Patch game disc contents (allowing you to load game modifications) using [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
 - Устанавливать темы для меню Wii, используя [MyMenuify](themes).
@@ -34,7 +34,7 @@ Running homebrew on your Nintendo Wii can be done for free by exploiting bugs in
 - Превратить вашу Wii в медиаплеер с помощью [WiiMC](http://www.wiimc.org/).
 
 
-## Ready?
+## Готовы?
 
 Начните ваше путешествие с [выбора эксплойта](get-started)!
 {: .notice--info}
