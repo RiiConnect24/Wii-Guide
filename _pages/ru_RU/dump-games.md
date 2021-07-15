@@ -1,5 +1,5 @@
 ---
-title: "Dumping Wii/GameCube games"
+title: "Дампинг игр Wii/GameCube"
 ---
 
 Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
