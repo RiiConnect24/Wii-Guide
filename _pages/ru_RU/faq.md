@@ -28,5 +28,5 @@ title: "Вопросы и Ответы"
 * Неудача во время установки ключевой системы/IOS программы (например отключение электричества).
 * Модифицировать vWii NAND без понятия того, что вы делаете.
 
-### How can I remove parental controls?
+### Как я могу удалить родительский контроль?
 The [mkey generator](https://mkey.salthax.org) can generate the code required to remove parental controls.
