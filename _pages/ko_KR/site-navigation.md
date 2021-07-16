@@ -13,6 +13,7 @@ sitemap: false
 + [RiiConnect24](riiconnect24)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
++ [Kirby TV Channel](kirby-tv)
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
@@ -23,10 +24,11 @@ sitemap: false
 + [RiiConnect24 돌핀 에뮬레이터](riiconnect24-dolphin)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
++ [Kirby TV Channel](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
 + [VFF 제거하기](deleting-vffs)
-+ [FORE000006 오류 고치기](riiconnect24-batteryfix)
-+ [FORE000006 오류 고치기](news000006)
++ [Fixing FORE000006](riiconnect24-batteryfix)
++ [Fixing NEWS000006](news000006)
 
 **해킹 가이드**
 + [BlueBomb](bluebomb)
