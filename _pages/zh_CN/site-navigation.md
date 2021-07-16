@@ -13,6 +13,7 @@ sitemap: false
 + [RiiConnect24](riiconnect24)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
++ [Kirby TV Channel](kirby-tv)
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
@@ -23,10 +24,11 @@ sitemap: false
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
++ [Kirby TV Channel](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
 + [删除VFF文件](deleting-vffs)
-+ [修复FORE000006错误](riiconnect24-batteryfix)
-+ [修复NEWS000006错误](news000006)
++ [Fixing FORE000006](riiconnect24-batteryfix)
++ [Fixing NEWS000006](news000006)
 
 **破解101**
 + [蓝牙炸弹](bluebomb)
