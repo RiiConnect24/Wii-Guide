@@ -13,6 +13,7 @@ sitemap: false
 + [RiiConnect24](riiconnect24)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
++ [Kirby TV Channel](kirby-tv)
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
@@ -23,10 +24,11 @@ sitemap: false
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
++ [Kirby TV Channel](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Ștergerea VFF-urilor](deleting-vffs)
-+ [Rezolvare FORE000006](riiconnect24-batteryfix)
-+ [Rezolvare NEWS000006](news000006)
++ [Fixing FORE000006](riiconnect24-batteryfix)
++ [Fixing NEWS000006](news000006)
 
 **Bazele Modificării**
 + [BlueBomb](bluebomb)
