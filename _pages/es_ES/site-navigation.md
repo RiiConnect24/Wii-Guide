@@ -12,7 +12,8 @@ sitemap: falso
 + [Instalar cIOS](cios)
 + [Instalar RiiConnect24](riiconnect24)
 + [WiiLink](wiilink)
-+ [Instalar Wiimmfi](wiimmfi)
++ [Wiimmfi](wiimmfi)
++ [Kirby TV Channel](kirby-tv)
 {% endcapture %}
 <div class="notice--info">{ notice-1 | markdownify }</div>
 
@@ -23,10 +24,11 @@ sitemap: falso
 + [RiiConnect24 para Dolphin](riiconnect24-dolphin)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
++ [Kirby TV Channel](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Eliminando VFFs](deleting-vffs)
-+ [Resolución de error FORE000006](riiconnect24-batteryfix)
-+ [Resolución de error NEWS000006](news000006)
++ [Fixing FORE000006](riiconnect24-batteryfix)
++ [Fixing NEWS000006](news000006)
 
 **Modificación 101**
 + [BlueBomb](bluebomb)
