@@ -12,7 +12,8 @@ sitemap: fals
 + [cIOS](cios)
 + [Riiconnect24](riiconnect24)
 + [WiiLink](wiilink)
-+ [Wiimmfi](wiimmfi)
++ [Wiimmifi](wiimmfi)
++ [Kirby TV Channel](kirby-tv)
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
@@ -23,6 +24,7 @@ sitemap: fals
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [WiiLink](wiilink)
 + [Wiimmifi](wiimmfi)
++ [Kirby TV Channel](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Deleting VFFs](deleting-vffs)
 + [Fixing FORE000006](riiconnect24-batteryfix)
