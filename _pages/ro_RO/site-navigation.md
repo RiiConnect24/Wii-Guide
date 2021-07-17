@@ -24,11 +24,11 @@ sitemap: false
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
-+ [Kirby TV Channel](kirby-tv)
++ [Canalul Kirby TV](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Ștergerea VFF-urilor](deleting-vffs)
-+ [Fixing FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [Rezolvare FORE000006](riiconnect24-batteryfix)
++ [Rezolvare NEWS000006](news000006)
 
 **Bazele Modificării**
 + [BlueBomb](bluebomb)
