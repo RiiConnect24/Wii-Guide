@@ -1,19 +1,19 @@
 ---
-title: "Kirby TV Channel"
+title: "Canalul Kirby TV"
 ---
 
 {% include toc title="Table of Contents" %}
 
-The Kirby TV Channel is controlled and operated by Striim Network, not RiiConnect24. Join their Discord server [here](https://discord.gg/seCnzxnE75).
+Canalul Kirby TV este controlat și operat de Striim Network, nu RiiConnect24. Alătură-te serverului lor de Discord [aici](https://discord.gg/seCnzxnE75).
 {: .notice--warning}
 
-Striim Network is a service dedicated to bringing back the channels that support video playback, such as Kirby TV Channel and YouTube.
+Striim Network este un serviciu dedicat să readucă înapoi canalele care suportă redarea video, precum Canalul Kirby TV și Youtube.
 
 #### De ce ai nevoie
 
 * Un card SD sau o unitate USB
 * Un Wii cu o conexiune la Internet
-* A Windows or Unix based computer
+* Un calculator bazat pe Windows sau Linux
 * [Kirby TV Channel Patcher](https://github.com/StriimNetwork/Kirby-TV-Channel-Patcher/releases)
 
 #### Instrucțiuni
@@ -21,23 +21,23 @@ Striim Network is a service dedicated to bringing back the channels that support
 [Dacă vrei să vezi instrucțiuni detaliate despre cum să instalezi WAD-urile, apasă aici!](wiimodlite)
 {: .notice--info}
 
-1. Download the executable for your architecture and OS.
-2. Launch the executable then press `1` twice to start the patching process.
-3. When finished, the WAD will be in the `WAD` folder which is located in the same directory as the executable.
-4. Move the `WAD` folder to the root of your SD Card.
+1. Descarcă executabilul pentru arhitectura și sistemul tău de operare.
+2. Deschide executabilul apoi apasă `1` de două ori pentru a începe procesul de patch-uire.
+3. După ce este gata, WAD-ul va fi în fișierul `WAD` care se află în același folder ca și executabilul.
+4. Mută fișierul `WAD` în rădăcina Cardului tău SD.
 5. Introdu cardul tău SD sau unitatea ta USB în Wii.
 6. Pornește Homebrew Channel pe Wii.
 7. Lansează Wii Mod Lite.
 8. Folosind +Control Pad-ul pe Wii Remote-ul tău, navighează la `WAD Manager`, apoi du-te la folder-ul `wad`.
-9. Highlight the WAD named `Kirby-TV-Channel-Patched(Striim).wad`, then press the `A` button to install.
-10. When the WAD successfully installs, return to the Wii Menu and launch the channel.
+9. Evidențiază WAD-ul numit `Kirby-TV-Channel-Patched(Striim).wad`, apoi apasă butonul `A` pentru a-l instala.
+10. După ce WAD-ul este instalat cu succes, întoarce-te la Meniul Wii și lansează canalul.
 
 
 
 [Continuă la RiiConnect24](riiconnect24)<br> Riiconnect24 îți permite să folosești servicii întrerupte de la WiiConnect24, care includ Canalele de Știri, de Vreme, Everybody Votes, Nintendo și Mii Contest Channel, împreună cu Wii Mail. Acesta este opțional de instalat.
 {: .notice--info}
 
-[Continue to WiiLink](wiilink)<br> WiiLink allows you to use the discontinued Japanese channels, such as Wii no Ma and the Digicam Print Channel. Acesta este opțional de instalat.
+[Continuă la WiiLink](wiilink)<br> WiiLink îți permite să folosești canalele întrerupte japoneze, precum Wii Room și Digicam Print Channel. Acesta este opțional de instalat.
 {: .notice--info}
 
 [Continuă la Wiimmfi](wiimmfi)<br> Wiimmfi îți permite să joci jocuri online după întreruperea Conexiunii Nintendo Wi-Fi. Acesta este opțional de instalat.
