@@ -12,7 +12,7 @@ Oletko kyllästynyt tylsään, yksinkertaiseen valkoiseen Wii Menu -teemaasi, ja
 In the case of a brick, [installing Priiloader is a must](priiloader). Also, install BootMii (as Boot2 if you have an early Wii). Installing brick protection along with following the guide correctly should keep you safe from bricks. ÄLÄ JATKA ENNEN KUIN OLET ASENTANUT PRIILOADERIN JA BOOTMIIN!
 {: .notice--warning}
 
-Do not install a custom theme on vWii (Wii U), unless it has been formatted specifically for the vWii and your Wii U's region! Check out [this GBATemp post](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) for more on vWii themes.
+Do not install a custom theme on vWii (Wii U), unless it has been formatted specifically for the vWii and your Wii U's region! Check out [this guide on hedgedoc](https://demo.hedgedoc.org/s/2mYWv0YvK#) for more on vWii themes.
 {: .notice--warning}
 
 Turvallisuussyistä älä käytä mitään muuta MyMenuifyn versiota kuin sitä, mikä on tänne linkitetty, sillä MyMenuify Mod on turvallisin tapa asentaa teema.

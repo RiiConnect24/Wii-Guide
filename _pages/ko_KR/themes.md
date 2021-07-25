@@ -12,7 +12,7 @@ title: "Wii 메뉴 테마 설치하기"
 벽돌을 방지하기 위해 [Priiloader 설치는 필수입니다](priiloader). 또한, BootMii도 설치하세요 (초기형 Wii인 경우 Boot2에). 이 가이드를 따르며 올바르게 벽돌 보호 기능을 설치하면 벽돌으로부터 안전해질 겁니다. BOOTMII와 PRIILOADER를 설치하지 않고 계속하지 마십시오!!
 {: .notice--warning}
 
-vWii와 Wii U의 국가만을 위해 만들지 않은 이상 vWii (Wii U) 에 커스텀 테마를 설치하지 마십시오! [이 GBATemp 글](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/)을 확인하여 vWii 테마에 관해 알아보세요.
+vWii와 Wii U의 국가만을 위해 만들지 않은 이상 vWii (Wii U) 에 커스텀 테마를 설치하지 마십시오! [이 가이드는 hedgedoc](https://demo.hedgedoc.org/s/2mYWv0YvK#)을 확인하여 vWii 테마에 관해 알아보세요.
 {: .notice--warning}
 
 가장 안전한 테마 설치 방법은 MyMenuify 모드입니다. 안전을 위해, 여기에 링크된 MyMenuify 외의 버전을 사용하지 마십시오.

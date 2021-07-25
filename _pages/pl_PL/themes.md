@@ -18,7 +18,7 @@ Istnieją również inne zasoby posiadające motywy Wii, jednak mogą być w for
 Z powodu bezpieczeństwa, nie używaj żadnej innej wersji MyMenuify, niż ta, która jest podlinkowana poniżej. MyMenuify Mod jest najbezpieczniejszą aplikacją do instalowania motywów.
 {: .notice--info}
 
-Nie instaluj motywów na Twoim vWii (Wii U) chyba, że zostały odpowiednio przygotowane do użycia na vWii oraz dla Twojego regionu Wii U. Sprawdź [ten post na GBATemp](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) jeśli chcesz się dowiedzieć więcej o motywach dla vWii.
+Nie instaluj motywów na Twoim vWii (Wii U) chyba, że zostały odpowiednio przygotowane do użycia na vWii oraz dla Twojego regionu Wii U. Sprawdź [ten przewodnik po hedgedoc](https://demo.hedgedoc.org/s/2mYWv0YvK#) jeśli chcesz się dowiedzieć więcej o motywach dla vWii.
 {: .notice--info}
 
 Zalecamy [instalację cIOS](cios) przed kontynuowaniem.

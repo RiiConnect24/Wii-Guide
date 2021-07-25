@@ -12,7 +12,7 @@ Vous en avez marre de l’ennuyeux thème blanc sur votre menu Wii et voulez un 
 En cas de brick, [installer Priiloader est un must](priiloader). Installez également BootMii (en tant que Boot2 si vous avez une ancienne Wii). Installer des protections contre le brick et suivre correctement le guide devraient vous protéger du brick. NE PAS CONTINUER SI VOUS N'AVEZ PAS INSTALLÉ PRIILOADER ET BOOTMII!
 {: .notice--warning}
 
-N'installez pas de thème personnalisé sur vWii (Wii U), à moins qu'il n'ait été formaté spécifiquement pour la vWii et la région de votre Wii U! Consultez [ ce post GBATemp ](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) pour en savoir plus sur les thèmes vWii.
+N'installez pas de thème personnalisé sur vWii (Wii U), à moins qu'il n'ait été formaté spécifiquement pour la vWii et la région de votre Wii U! Consultez [ ce guide sur hedgedoc ](https://demo.hedgedoc.org/s/2mYWv0YvK#) pour en savoir plus sur les thèmes vWii.
 {: .notice--warning}
 
 Pour des raisons de sécurité, veuillez ne pas utiliser une autre version de MyMenuify que celle liée ici, car MyMenuify Mod est le moyen le plus sûr d'installer un thème.

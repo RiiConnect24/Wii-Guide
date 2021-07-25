@@ -12,7 +12,7 @@ Si necesitas ayuda con cualquier cosa en este tutorial, por favor entras [el ser
 En el caso de un brick, [instalando PriiLoader es una necesidad](priiloader). También es recomendable instalar BootMii (si es posible, como boot2). Tener algún tipo de protección contra bricks instalada junto con seguir la guía de forma correcta te mantendrá protegido contra bricks. ¡NO CONTINÚES SI NO TIENES PRIILOADER Y BOOTMII INSTALADOS!
 {: .notice--warning}
 
-No instales un tema personalizado en vWii (Wii U), a menos que haya sido formateado para vWii y su región de Wii U! Revisa [este publicación de GBATemp](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) para más información sobre temas vWii.
+No instales un tema personalizado en vWii (Wii U), a menos que haya sido formateado para vWii y su región de Wii U! Revisa [esta guía sobre hedgedoc](https://demo.hedgedoc.org/s/2mYWv0YvK#) para más información sobre temas vWii.
 {: .notice--warning}
 
 Por la seguridad de tu consola, por favor no uses ninguna otra versión de MyMenuify que no sea MyMenuify Mod, ya que esta es la forma más segura de instalar temas.
