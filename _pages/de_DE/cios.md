@@ -8,7 +8,7 @@ Diese Anleitung wird dir zeigen, wie du cIOS (custom IOS) installieren kannst. D
 
 ![d2x cIOS Installer](/images/cios/cIOS.png)
 
-If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
+Wenn du eine Wii U (vWii) hast, dann folge [dieser anleitung](https://wiiu.hacks.guide/#/vwii-modding) um cIOS stattdessen zu installieren. Attempting to install any other cIOS on vWii won't work.
 {: .notice--info}
 
 If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
@@ -39,7 +39,7 @@ Wähle cIOS base: 57
 Wähle cIOS slot: 249
 Wähle cIOS version: 65535
 ```
-![Install cIOS 249](/images/cios/Install249.png)
+![cIOS 249 Installieren](/images/cios/Install249.png)
 1. Wenn du damit fertig bist, drücke zweimal auf A um die Installation zu starten.
 1. Wenn die Installation abgeschlossen ist, drücke A um zurückzugehen und stelle dann folgende Optionen ein:
 ```
@@ -48,7 +48,7 @@ Wähle cIOS base: 56
 Wähle cIOS slot: 250
 Wähle cIOS version: 65535
 ```
-![Install cIOS 250](/images/cios/Install250.png)
+![cIOS 250 Installieren](/images/cios/Install250.png)
 1. Wenn du damit fertig bist, drücke zweimal auf A um die Installation zu starten.
 1. Wenn die Installation abgeschlossen ist, drücke A um zurückzugehen und stelle dann folgende Optionen ein:
 ```
@@ -57,7 +57,7 @@ Wähle cIOS base: 38
 Wähle cIOS slot: 251
 Wähle cIOS version: 65535
 ```
-![Install cIOS 251](/images/cios/Install251.png)
+![cIOS 251 Installieren](/images/cios/Install251.png)
 1. Wenn du damit fertig bist, drücke zweimal auf A um die Installation zu starten, und verlasse nach Abschluss das Programm.
 
 {% capture bruh %}
