@@ -10,6 +10,9 @@ title: "Installing Themes System Menu Themes on vWii"
 We are **NOT** responsible if you brick, or damage your console in any way whatsoever. If you follow this guide exactly, you shouldn't have any problems.
 {: .notice--danger}
 
+Do **NOT** install the themes made in this guide on an actual Wii. They are only compatible with the vWii system menu and Will brick an actual Wii.
+{: .notice--danger}
+
 WiiMotes with Wii motion Plus May not work on MyMenuify, unfortunately there isn't anything we can do about this at the moment and you'll have to use an older Wii remote.
 {: .notice--warning}
 
