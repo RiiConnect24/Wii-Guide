@@ -1,5 +1,5 @@
 ---
-title: "Instalare Temelor de Fundal pentru Meniul Wii"
+title: "Instalarea Temelor de Fundal pentru Meniul Wii"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -7,12 +7,12 @@ title: "Instalare Temelor de Fundal pentru Meniul Wii"
 Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Are you tired of the boring, plain white theme on your Wii Menu, and want a cool theme instead? This tutorial will help you get a new theme for your Wii Menu!
+Te-ai săturat de tema albă de fundal plictisitoare și simplă de pe Meniul tău Wii, și vrei o temă de fundal mai interesantă? Acest tutorial te va ajuta să obții o temă nouă de fundal pentru Meniul tău Wii!
 
-In the case of a brick, [installing Priiloader is a must](priiloader). Also, install BootMii (as Boot2 if you have an early Wii). Installing brick protection along with following the guide correctly should keep you safe from bricks. DO NOT CONTINUE UNTIL YOU HAVE INSTALLED PRIILOADER AND BOOTMII!
+În cazul unui brick, [instalarea Priiloader este extrem de importantă](priiloader). De asemenea, instalează BootMii (ca Boot2 dacă ai un build vechi de Wii). Instalarea protecției anti-brick împreună cu urmărirea corectă a ghidului ar trebui să te țină protejat de brick-uri. NU CONTINUA PÂNĂ AI INSTALAT PRIILOADER ȘI BOOTMII!
 {: .notice--warning}
 
-Do not install a custom theme on vWii (Wii U), unless it has been formatted specifically for the vWii and your Wii U's region! Check out [this GBATemp post](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) for more on vWii themes.
+Nu instala o tema personalizată pe vWii (Wii U), cu excepția cazului în care a fost formatată specific pentru vWii-ul tău și regiunea Wii U-ului tău! Vezi [această postare GBATemp](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) pentru mai multe despre temele de fundal vWii.
 {: .notice--warning}
 
 For safety purposes, please do not use any other version of MyMenuify than the one linked here, as MyMenuify Mod is the safest way to install a theme.
