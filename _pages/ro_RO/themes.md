@@ -15,10 +15,10 @@ Te-ai săturat de tema albă de fundal plictisitoare și simplă de pe Meniul t�
 Nu instala o tema personalizată pe vWii (Wii U), cu excepția cazului în care a fost formatată specific pentru vWii-ul tău și regiunea Wii U-ului tău! Vezi [această postare GBATemp](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) pentru mai multe despre temele de fundal vWii.
 {: .notice--warning}
 
-For safety purposes, please do not use any other version of MyMenuify than the one linked here, as MyMenuify Mod is the safest way to install a theme.
+Din motive de siguranță, te rugăm nu folosi nicio altă versiune de MyMenuify decât cea link-uită aici, pentru că MyMenuify Mod este cea mai sigură metoda de a instala o temă de fundal.
 {: .notice--info}
 
-Do not use any other version of ThemeMii than the one linked here, as ThemeMii Mod allows you to make a theme for Wii Menu version 4.3, other versions may not.
+Nu folosi nicio altă versiune de ThemeMii decât cea link-uită aici, pentru că ThemeMii Mod îți permite să faci o temă de fundal pentru versiunea 4.3 de Meniu, iar alte versiuni nu pot face asta.
 {: .notice--info}
 
 We recommend you [install cIOS](cios) before continuing.
