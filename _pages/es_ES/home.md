@@ -34,12 +34,12 @@ Aquí una lista de lo que puedes hacer con Homebrew. Dado a que esta lista no qu
 - Convertir tu consola en un reproductor multimedia con [WiiMC](http://www.wiimc.org/).
 
 
-## Ready?
+## ¿Listo?
 
 Comienza por [elegir un exploit](get-started)!
 {: .notice--info}
 
-## More Resources
+## Más recursos
 
 Estas son algunas otras fuentes y guías relacionadas con la modificación de la consola Wii que pueden ayudarte:
 
