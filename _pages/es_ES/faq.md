@@ -8,7 +8,7 @@ title: "Preguntas frecuentes"
 Los bricks (un estado donde algunas partes del software de tu Wii no funcionan, o tu consola no funciona en absoluto) son *basicamente* imposibles a menos que ignores o evites todos los controles de seguridad.
 
 ### ¿En dónde puedo pedir asistencia?
-Either email us at support@riiconnect24.net or join the [RiiConnect24 Discord Server](https://discord.gg/rc24).
+Puedes unirte a nuestro[servidor de Discord>](https://discord.gg/rc24) (recomendado) o enviarnos un e-mail a support@riiconnect24.net (soporte disponible sólo en Inglés).
 
 ### ¿Cuales son los requerimientos y/o recomendaciones para la tarjeta SD?
 Necesitarás una tarjeta SD de al menos 128 MB para ejecutar un exploit.
@@ -28,5 +28,5 @@ La siguiente es una lista de acciones que pueden dejar tu vWii en un estado de *
 * Fallo durante la instalación de títulos o IOS cruciales del sistema (por ejemplo, debido a un apagón).
 * Modificar la NAND del vWii sin saber lo que estás haciendo.
 
-### How can I remove parental controls?
-The [mkey generator](https://mkey.salthax.org) can generate the code required to remove parental controls.
+### ¿Cómo elimino el control parental?
+El[ generador de mkey](https://mkey.salthax.org) puede generar el codigo necesario para eliminar el control parental.
