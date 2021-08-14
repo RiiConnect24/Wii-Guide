@@ -15,7 +15,7 @@
 1. Elige el dispositivo de almacenamiento donde deseas copiar el juego, ya sea tu unidad USB o tarjeta SD. ![Seleccionar un dispositivo](/images/CleanRip/2.png)
 1. En esta pantalla se te preguntará si quieres descargar una base de datos con sumas de verificación, para que de esta forma puedas verificar que la copia recién creada sea idéntica al contenido del disco. Tú decides si deseas descargar el archivo o no. ![Descargar base de datos de Redump](/images/CleanRip/3.png)
 1. Ahora inserta el disco que quieres copiar (si aún no lo habías insertado). ![Inserta el disco](/images/CleanRip/4.png) ![Montando el disco](/images/CleanRip/5.png)
-1. Set it as shown on the screen below.
+1. Configúralo como en la foto de abajo.
 
 title: "CleanRip"
 {: .notice--info}
