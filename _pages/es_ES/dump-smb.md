@@ -1,5 +1,5 @@
 ---
-title: "Dumping Wii/GameCube games over local network"
+title: "Volcar juegos de Wii/GameCube a través de la red local"
 ---
 
 #### Requisitos
@@ -7,7 +7,7 @@ title: "Dumping Wii/GameCube games over local network"
 * Un Wii.
 * [Herramienta volcado de DVD](/assets/files/DVDDumpTool.zip)
 
-Your Wii and your computer must be connected to one local network
+Tu Wii y tu ordenador deben estar conectados a la misma red local
 {: .notice--warning}
 
 #### Instrucciones
