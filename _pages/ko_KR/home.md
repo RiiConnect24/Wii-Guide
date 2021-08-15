@@ -43,7 +43,7 @@ excerpt: "완벽힌 Wii 해킹 가이드."
 
 Wii 모딩과 문제 해결에 도움이 되는 좋은 자료들이 여기에 있어요.
 
-- [ModMii](http://xflak.com/)
+- [ModMii](https://modmii.github.io/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow 위키](https://sites.google.com/site/wiiflowiki4/)
 - [Cyan의 Wii 해킹 설명](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...그리고 당연하게도, 여기도요.
