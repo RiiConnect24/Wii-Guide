@@ -43,7 +43,7 @@ Commencez par [choisir votre exploit](get-started) !
 
 Il existe d'autres bonnes ressources (en anglais) sur la modification et le dépannage de Wii qui pourront vous aider :
 
-- [ModMii](http://xflak.com/)
+- [ModMii](https://modmii.github.io/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
 - [Explication du piratage Wii - par Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ... et bien sûr, ce site
