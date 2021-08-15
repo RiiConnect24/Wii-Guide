@@ -43,7 +43,7 @@ Comienza por [elegir un exploit](get-started)!
 
 Estas son algunas otras fuentes y guías relacionadas con la modificación de la consola Wii que pueden ayudarte:
 
-- [ModMii](http://xflak.com/)
+- [ModMii](https://modmii.github.io/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
 - [Wii Hacking Explained - por Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/)...y por supuesto, este sitio web
