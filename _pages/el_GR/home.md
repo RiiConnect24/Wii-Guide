@@ -43,7 +43,7 @@ excerpt: "Ο ολοκληρομένος οδηγός για να τροποπο�
 
 Υπάρχουν μερικές καλές πηγές για τροποποιήσεις Wii και για αντιμετώπιση προβλημάτων που μπορεί να βοηθήσουν:
 
-- [ModMii](http://xflak.com/)
+- [ModMii](https://modmii.github.io/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
 - [Επεξήγηση Wii Hack - από τον Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...και φυσικά, αυτήν την ιστοσελίδα
