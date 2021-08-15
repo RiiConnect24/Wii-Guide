@@ -43,7 +43,7 @@ Iată o listă de lucruri care le poți face cu homebrew. Chiar dacă această l
 
 Mai există de asemenea câteva resurse bune pentru modificarea Wii-ului și pentru depanare care pot ajuta:
 
-- [ModMii](http://xflak.com/)
+- [ModMii](https://modmii.github.io/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
 - [Hack-uirea Wii-ului Explicată - de Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...și desigur, acest site
