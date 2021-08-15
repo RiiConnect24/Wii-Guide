@@ -43,7 +43,7 @@ Running homebrew on your Nintendo Wii can be done for free by exploiting bugs in
 
 Здесь собраны несколько хороших ресурсов про моддинг Wii и решения различных проблем:
 
-- [ModMii](http://xflak.com/)
+- [ModMii](https://modmii.github.io/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
 - [Wii Хакинг - растолковано Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...ну и конечно-же этот сайт
