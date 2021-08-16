@@ -1,5 +1,5 @@
 ---
-title: "Suppression des VFF"
+title: "RiiConnect24 Clear Tool"
 ---
 
 {% include toc title="Table des matières" %}
@@ -9,40 +9,25 @@ Si vous avez besoin d'aide pour quoi que ce soit concernant ce didacticiel, veui
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-Si vous obtenez l'une de ces erreurs (et aucune autre erreur), vous devriez être en mesure de réparer la chaîne en supprimant votre VFF.
+RiiConnect24 Clear Tool is a homebrew application that can fix these specific errors and issues:
 
 + Discontinued Message
 + NEWS/FORE000001
 + NEWS/FORE000003
 + NEWS/FORE000005
 + NEWS/FORE000099
++ NEWS000006
++ Clears out Wii mailboxes in case they are full (this can fix Wii Mail)
 
 #### Ce dont vous avez besoin
 * Une carte SD ou un périphérique USB
-* [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
-
-#### Dossier à supprimer
-
-+ Chaîne météo
-  + 48414645
-  + 4841464a
-  + 48414650
-
-+ Chaîne infos
-  + 48414745
-  + 4841474a
-  + 48414750
+* [RiiConnect24 Clear Tool](https://oscwii.org/library/app/RC24-Clear-Tool)
 
 #### Instructions
 
-1. Ouvrez WiiXplorer.
-2. Accédez à `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` puis sélectionnez `Yes` pour les deux fenêtres de dialogue qui apparaissent à l'écran.
-3. Appuyez sur "Back" (retour) jusqu'à ce que vous ayez atteint l'écran de l'explorateur de fichiers.
-4. Sélectionnez la petite icône bleue de la carte SD, puis sélectionnez `NAND`.
-5. Accédez à `title` -> `00010002` -> XXXXXXXX -> `data`, où XXXXXXXX est l'un des dossiers ci-dessus.
-6. Survolez `wc24dl.vff`, appuyez sur le bouton + et sélectionnez `Delete`.
-
-Essayez de lancer la chaîne avec laquelle vous rencontrez des problèmes.
+1. Extract RiiConnect24 Clear Tool and put it in the `apps` folder on your SD card or USB drive.
+2. Insert your SD card or USB drive into your Wii, and launch RiiConnect24 Clear Tool from the Homebrew Channel.
+3. The app will help you resolve whatever problem you are having.
 
 [Retour à la page d'installation de RiiConnect24](riiconnect24)
 {: .notice--info}
