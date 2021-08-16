@@ -35,7 +35,7 @@ WiiLink and all of its services (such as Wii no Ma) are not controlled or operat
 10. Introdu cardul tău SD sau unitatea ta USB în Wii.
 11. Pornește Homebrew Channel pe Wii.
 12. Lansează Wii Mod Lite.
-13. Folosind +Control Pad-ul pe Wii Remote-ul tău, navighează la `WAD Manager`, apoi du-te la folder-ul `wad`.
+13. Folosind +Control Pad-ul pe Wii Remote-ul tău, navighează la `WAD Manager`, apoi du-te la folderul `wad`.
 14. If your Wii is not a Japanese region, install WiiLink24_SPD.wad before anything else. This is required so that we know your email address to send files.
 15. Highlight all other WADs with `WiiLink24` in the name, and press + to select them. Când toate din ele sunt evidențiate, apasă A de două ori pentru a instala WAD-urile.
 16. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
