@@ -105,22 +105,19 @@ Dans cette section, vous allez paramétrer vos DNS sur notre serveur. C'est facu
 [Continuez vers WiiLink](wiilink)<br> WiiLink vous permet d'utiliser les chaînes exclusives au Japon de Wii Room et Digicam Print Channel. L'installation est facultative.
 {: .notice--info}
 
-Si vous obtenez l'erreur 107245, vous n'avez probablement pas réussi à patcher correctement votre IOS.
+If you get error 107245, then you have failed to patch your IOS correctly.
 {: .notice--info}
 
-Si vous obtenez l'erreur 107304, votre FAI bloque peut-être l'utilisation du DNS personnalisé. Une solution de contournement peut être d'exécuter votre propre serveur DNS! Consultez [RiiConnect24 DNS Server sur GitHub ](https://github.com/RiiConnect24/DNS-Server), puis utilisez l'adresse IP de votre PC à la place de notre DNS à l'étape 8.
+If you get error 107304, then you cannot use our DNS. This will not affect your ability to use RiiConnect24. In this case, set Auto-obtain DNS to Yes.
 {: .notice--info}
 
 Si vous obtenez une erreur FORE000006, l'horloge de votre Wii est probablement mal réglée. Réglez-la à la date et à l'heure correctes, attendez moins d'une heure et la chaîne Météo devrait commencer à fonctionner.
 {: .notice--warning}
 
-[Si vous obtenez l'erreur NEWS000006, suivre ce tutoriel devrait la corriger.](news000006)
+[If you're experiencing issues with the Forecast Channel, News Channel, or Wii Mail then following this tutorial might fix your problem.](deleting-vffs)
 {: .notice--warning}
 
 Si vous obtenez des erreurs telles que `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, veuillez accéder aux paramètres Wii -> Dernière page -> Pays et changez-le en Royaume-Uni. Vous obtiendrez cette erreur lors de l'utilisation d'un pays que nous ne prenons pas en charge. Contactez-nous à [support@riiconnect24.net](mailto:support@riiconnect24.net) si vous avez besoin d'aide.
-{: .notice--warning}
-
-[Si vous recevez un message interrompu lors de l'ouverture de la Chaîne Infos ou de la Chaîne Météo, suivre ce tutoriel devrait résoudre le problème.](deleting-vffs)
 {: .notice--warning}
 
 [Continuer vers la navigation du site](site-navigation)<br> Nous avons de nombreux autres tutoriels que vous pourriez aimer.
