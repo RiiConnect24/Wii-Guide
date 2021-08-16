@@ -105,22 +105,19 @@ In diesem Abschnitt wirst du deinen DNS zu unseren Servern einstellen. Dies ist 
 [Weiter zu WiiLink](wiilink)<br> WiiLink ermöglicht es dir, die Japan-exklusiven Kanäle Wii Room und Digicam Print Channel zu nutzen. Dies zu installieren ist nicht zwingend erforderlich.
 {: .notice--info}
 
-Falls du den Fehler 107245 erhältst, hast du wahrscheinlich dein IOS nicht korrekt gepatcht.
+If you get error 107245, then you have failed to patch your IOS correctly.
 {: .notice--info}
 
-Falls du den Fehler 107304 erhältst, blockiert möglicherweise dein Internetanbieter die Nutzung alternativer DNS-Server. Eine Möglichkeit dies zu umgehen, ist es deinen eigenen DNS-Server zu betreiben! Schau hierzu unter [RiiConnect24 DNS Server on GitHub](https://github.com/RiiConnect24/DNS-Server), nutze anschließend die IP-Adresse deines PCs anstelle unserer DNS aus Schritt 8.
+If you get error 107304, then you cannot use our DNS. This will not affect your ability to use RiiConnect24. In this case, set Auto-obtain DNS to Yes.
 {: .notice--info}
 
 Falls du den Fehler FORE000006 erhältst, ist deine Wii-Uhr wahrscheinlich nicht korrekt eingestellt. Stelle Datum und Uhrzeit richtig ein, warte anschließend maximal eine Stunde und der Wetterkanal sollte funktionieren.
 {: .notice--warning}
 
-[Falls du den Fehler NEWS000006 erhältst, sollte das Befolgen dieser Anleitung das Problem beheben.](news000006)
+[If you're experiencing issues with the Forecast Channel, News Channel, or Wii Mail then following this tutorial might fix your problem.](deleting-vffs)
 {: .notice--warning}
 
 Solltest du Fehlermeldungen erhalten wie z.B. `WiiConnect24 und Wii-Shop-Kanal sind zur Zeit nicht in deinem Land verfügbar`, gehe in die Wii-Einstellungen -> Letzte Seite -> Land und ändere es in "Vereinigtes Königreich". Du wirst diesen Fehler erhalten wenn du ein Land einstellst welches wir nicht unterstützen. Kontaktiere uns unter [support@riiconnect24.net](mailto:support@riiconnect24.net) falls du weitere Hilfe benötigst.
-{: .notice--warning}
-
-[Solltest du beim Öffnen des Nachrichten- oder Wetterkanals eine Meldung bekommen, dass dieser eingestellt wurde, sollte das Befolgen dieser Anleitung das Problem beheben.](deleting-vffs)
 {: .notice--warning}
 
 [Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
