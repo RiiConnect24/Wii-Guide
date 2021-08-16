@@ -62,7 +62,7 @@ Dacă tot nu poți rula RiiConnect24 Patcher, te rugăm să ne trimiți un e-mai
 12. Introdu cardul tău SD sau unitatea ta USB în Wii.
 13. Pornește Homebrew Channel pe Wii.
 14. Lansează Wii Mod Lite.
-15. Folosind +Control Pad-ul pe Wii Remote-ul tău, navighează la `WAD Manager`, apoi du-te la folder-ul `wad`.
+15. Folosind +Control Pad-ul pe Wii Remote-ul tău, navighează la `WAD Manager`, apoi du-te la folderul `wad`.
 16. Evidențiază toate WAD-urile din folder apăsând Butonul + pentru a le selecta. Când toate din ele sunt evidențiate, apasă A de două ori pentru a instala WAD-urile.
 17. Dacă primești o eroare spunând că un titlu cu o versiune mai mare este deja instalat (eroare -1035), du-te înapoi la meniul de selecție a WAD-urilor și apasă - pe WAD-ul evidențiat pentru a-l dezinstala, apoi încearcă să-l instalezi din nou.
 18. După ce au fost instalate cu succes, apasă Butonul HOME pentru a ieși înapoi la Homebrew Channel.
@@ -105,22 +105,19 @@ Dacă nu ai reușit să-ți patch-uiești fișierul nwc24msg.cfg corect, trimite
 [Continuă la WiiLink](wiilink)<br> WiiLink îți permite să folosești canalele exclusiv-Japoneze Wii Room și Digicam Print Channel. Acesta este opțional de instalat.
 {: .notice--info}
 
-Dacă primești eroarea 107245, atunci probabil ai eșuat să-ți patch-uiești IOS-ul corect.
+If you get error 107245, then you have failed to patch your IOS correctly.
 {: .notice--info}
 
-Dacă primești eroarea 107304, atunci probabil furnizorul tău de internet blochează folosirea DNS-ului personalizat. O înlocuire pentru asta ar putea fi rularea propriului server DNS! Vezi [RiiConnect24 DNS Server pe GitHub](https://github.com/RiiConnect24/DNS-Server), apoi folosește adresa IP a calculatorului tău în loc de DNS-ul nostru în Pasul 8.
+If you get error 107304, then you cannot use our DNS. This will not affect your ability to use RiiConnect24. In this case, set Auto-obtain DNS to Yes.
 {: .notice--info}
 
 Dacă primești eroarea FORE000006, ceasul Wii-ului tău este probabil setat incorect. Setează-l la data și ora corectă, apoi așteaptă nu mai mult de o oră și Canalul de Știri ar trebui să înceapă să funcționeze.
 {: .notice--warning}
 
-[Dacă primiți eroarea NEWS000006, urmărirea acestui tutorial ar trebui să-l repare.](news000006)
+[If you're experiencing issues with the Forecast Channel, News Channel, or Wii Mail then following this tutorial might fix your problem.](deleting-vffs)
 {: .notice--warning}
 
 Dacă primești erori precum `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, du-te la Wii Settings -> Last Page -> Country și schimbă-l la United Kingdom. O să primești această eroare când folosești o țară pe care noi nu o sprijinim. Contacează-ne la [support@riiconnect24.net](mailto:support@riiconnect24.net) dacă ai nevoie de ajutor suplimentar.
-{: .notice--warning}
-
-[Dacă primești un mesaj de întrerupere a serviciilor când deschizi Canalul de Știri sau de Vreme, atunci urmărirea acestui tutorial ar trebui să-l rezolve.](deleting-vffs)
 {: .notice--warning}
 
 [Continuă la navigarea site-ului](site-navigation)<br> Avem multe alte tutoriale care s-ar putea să-ți placă.
