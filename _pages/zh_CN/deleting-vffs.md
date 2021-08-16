@@ -1,5 +1,5 @@
 ---
-title: "删除VFF文件"
+title: "RiiConnect24 Clear Tool"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -9,40 +9,25 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-如果你遇到了这些其中的一个错误（没有其他错误 ），你需要通过删除VFF文件来修复频道。
+RiiConnect24 Clear Tool is a homebrew application that can fix these specific errors and issues:
 
 + “停止运营”信息
 + NEWS/FORE000001
 + NEWS/FORE000003
 + NEWS/FORE000005
 + NEWS/FORE000099
++ NEWS000006
++ Clears out Wii mailboxes in case they are full (this can fix Wii Mail)
 
 #### 你需要的是
 * 一张SD卡或者U盘
-* [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
-
-#### 需要删除的目录
-
-+ 天气频道
-  + 48414645
-  + 4841464a
-  + 48414650
-
-+ 新闻频道
-  + 48414745
-  + 4841474a
-  + 48414750
+* [RiiConnect24 Clear Tool](https://oscwii.org/library/app/RC24-Clear-Tool)
 
 #### 步骤
 
-1. 启动WiiXplorer。
-2. 前往 `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access`然后在屏幕出现的两个提醒中选择`Yes`。
-3. 按下返回，直到你进入文件管理器。
-4. 选择小的蓝色SD卡图标，然后选择`NAND`。
-5. 浏览到 `title` -> `00010002` -> XXXXXXXX -> `data`，其中XXXXXXXX是上面的文件夹之一。
-6. 选中 `wc24dl.vff`然后按下+键，选择 `Delete`。
-
-现在去试试运行存在问题的频道是否还有问题。
+1. Extract RiiConnect24 Clear Tool and put it in the `apps` folder on your SD card or USB drive.
+2. Insert your SD card or USB drive into your Wii, and launch RiiConnect24 Clear Tool from the Homebrew Channel.
+3. The app will help you resolve whatever problem you are having.
 
 [返回 RiiConnect24 安装页面](riiconnect24)
 {: .notice--info}
