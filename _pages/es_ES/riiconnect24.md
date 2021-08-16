@@ -105,22 +105,19 @@ En esta sección, configurarás el DNS a nuestros servidores. Es opcional pero s
 [Continuar a WiiLink24](wiilink)<br> WiiLink24 te permite usar el canal exclusivo de japón Wii no Ma. Esto es opcional a instalar.
 {: .notice--info}
 
-Si te aparece el error 107245, entonces es probable que no hayas parcheado tus IOS correctamente.
+If you get error 107245, then you have failed to patch your IOS correctly.
 {: .notice--info}
 
-Si por otra parte recibes el error 107304, entonces eso significa que tu ISP (proveedor de servicios de internet) bloquea el uso de DNS alternativos. ¡Una solución a este problema puede ser ejecutar tu propio servidor DNS! Echa un vistazo a nuestro [servidor DNS en GitHub](https://github.com/RiiConnect24/DNS-Server) y coloca la dirección IP de tu PC en lugar de la nuestra en el paso 8.
+If you get error 107304, then you cannot use our DNS. This will not affect your ability to use RiiConnect24. In this case, set Auto-obtain DNS to Yes.
 {: .notice--info}
 
 Si recibes el error FORE000006, el reloj de tu Wii probablemente esté configurado incorrectamente. Establécelo a la fecha y hora correcta, espere un tiempo y el Canal Tiempo debería empezar a funcionar.
 {: .notice--warning}
 
-[Si obtienes un error NEWS000006, usando este tutorial debería solucionar el problema.](news000006)
+[If you're experiencing issues with the Forecast Channel, News Channel, or Wii Mail then following this tutorial might fix your problem.](deleting-vffs)
 {: .notice--warning}
 
 Si estás recibiendo un error que diga que los servicios de WiiConnect24 y el Canal Tienda Wii no están disponibles en tu país, por favor ve hacia -> Configuración de Wii-> en -> Opciones de Wii-> última página,-> País->, y cámbialo a -> Reino Unido->. Este error aparece si tu consola está configurada con un país que no soportamos. En caso de que necesites más ayuda, por favor [envíanos un e-mail](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
-{: .notice--warning}
-
-[Si tienes un mensaje de descontinuación cuando inicias el canal Noticias o Tiempo, seguir esta guía debería poder arreglarlo.](deleting-vffs)
 {: .notice--warning}
 
 [Echa un vistazo a nuestras otras guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
