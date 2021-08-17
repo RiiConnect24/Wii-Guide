@@ -16,7 +16,7 @@ Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te
 1. Extrage Homebrew Browser și pune-l în fișierul `apps` din cardul tău SD sau unitatea ta USB.
 2. Introdu cardul tău SD sau unitatea ta USB în Wii. Acum poți porni Homebrew Browser din Homebrew Channel dacă vrei.
 
-[Continuă la RiiConnect24](riiconnect24)<br> Riiconnect24 îți permite să folosești servicii întrerupte de la WiiConnect24, care includ Canalele de Știri, de Vreme, Everybody Votes, Nintendo și Mii Contest Channel, împreună cu Wii Mail. Acesta este opțional de instalat.
+[Continuă la RiiConnect24](riiconnect24)<br> Riiconnect24 îți permite să folosești servicii întrerupte de la WiiConnect24, care includ News, Forecast, Everybody Votes, Nintendo și Mii Contest Channel, împreună cu Wii Mail. Acesta este opțional de instalat.
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
