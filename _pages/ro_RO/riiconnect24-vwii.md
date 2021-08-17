@@ -9,7 +9,7 @@ Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-Ghid pentru instalarea [RiiConnect24](https://rc24.xyz) pe vWii (Wii Virtual pe Wii U) cu: CMOC/MCC, Nintendo Channel, EVC și Canalul de Știri împreună cu rezolvarea raportului de aspect 4:3 forțat.
+Ghid pentru instalarea [RiiConnect24](https://rc24.xyz) pe vWii (Wii Virtual pe Wii U) cu: CMOC/MCC, Nintendo Channel, EVC și News Channel împreună cu rezolvarea raportului de aspect 4:3 forțat.
 
 Fiindcă unele caracteristici găsite în Wii-ul original nu sunt prezente în vWii, putem folosi RiiConnect24 doar parțial. Vezi [ce funcționează în prezent](#whats-currently-working) pentru detalii.
 {: .notice--warning}
@@ -43,7 +43,7 @@ Dacă nu poți folosi patcher-ul, [urmează ghidul manual](https://pad.snopyta.o
 
 ##### Secțiunea I – Rularea patcher-ului
 
-Folosind Patcher-ul RiiConnect24 care ar fi trebuit să-l instalezi mai devreme în [De ce ai nevoie](#what-you-need), o să descarci și o să patch-uiești IOS31 și Canalele de Știri, Everybody Votes, Nintendo și Mii Contest pentru utilizare pe vWii.
+Folosind Patcher-ul RiiConnect24 care ar fi trebuit să-l instalezi mai devreme în [De ce ai nevoie](#what-you-need), o să descarci și o să patch-uiești IOS31 și Canalele News, Everybody Votes, Nintendo și Mii Contest pentru utilizare pe vWii.
 
 1. Rulează `RiiConnect24Patcher.bat` pe Windows sau `RiiConnect24Patcher.sh` pe sisteme Unix prin tastarea cuvântului "bash", tragerea fișierului `RiiConnect24Patcher.sh` în terminal și apăsarea tastei enter. Ar trebui să arate așa `bash RiiConnect24Patcher.sh`. Urmează instrucțiunile de pe ecran
 
@@ -77,10 +77,10 @@ După urmarea secțiunilor de mai sus, ești aproape gata să utilizezi RiiConne
 
 #### Ce funcționează în prezent?
 Următoarele servicii RiiConnect24 **funcționează** pe vWii:
-* Canalul de Știri (News Channel)
+* News Channel
     * Acest canal este afectat de problema marcajului de timp. Marcajele de timp "Last Updated" și ale articolelor vor fi incorecte.
     * Informațiile de banner de asemenea sunt știute să nu meargă, returnând `Unable to obtain data.`
-* Canalul de Vreme (Forecast Channel)
+* Forecast Channel
 * Nintendo Channel
 * Everybody Votes Channel
 * Check Mii Out Channel / Mii Contest Channel
