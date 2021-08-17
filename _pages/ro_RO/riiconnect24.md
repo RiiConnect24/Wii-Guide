@@ -9,7 +9,7 @@ Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-[Riiconnect24](https://rc24.xyz/) îți permite să folosești servicii întrerupte de la WiiConnect24, care includ Canalele de Știri, de Vreme, Everybody Votes, Nintendo și Mii Contest Channel, împreună cu Wii Mail.
+[Riiconnect24](https://rc24.xyz/) îți permite să folosești servicii întrerupte de la WiiConnect24, care includ News, Forecast, Everybody Votes, Nintendo și Mii Contest Channel, împreună cu Wii Mail.
 
 Patcher-ul Unix este în sfârșit lansat! Asta înseamnă că utilizatorii de macOS și orice tip de distribuții Linux pot folosi nativ Patcher-ul RiiConnect24.
 {: .notice--info}
@@ -105,16 +105,16 @@ Dacă nu ai reușit să-ți patch-uiești fișierul nwc24msg.cfg corect, trimite
 [Continuă la WiiLink](wiilink)<br> WiiLink îți permite să folosești canalele exclusiv-Japoneze Wii Room și Digicam Print Channel. Acesta este opțional de instalat.
 {: .notice--info}
 
-If you get error 107245, then you have failed to patch your IOS correctly.
+Dacă primești eroarea 107245, atunci ai eșuat să-ți patch-uiești IOS-ul corect.
 {: .notice--info}
 
-If you get error 107304, then you cannot use our DNS. This will not affect your ability to use RiiConnect24. In this case, set Auto-obtain DNS to Yes.
+Dacă primești eroarea 107304, atunci nu poți folosi DNS-ul nostru. Acest lucru nu va afecta abilitatea ta de a utiliza RiiConnect24. În acest caz, setează Auto-obtain DNS la Yes.
 {: .notice--info}
 
-Dacă primești eroarea FORE000006, ceasul Wii-ului tău este probabil setat incorect. Setează-l la data și ora corectă, apoi așteaptă nu mai mult de o oră și Canalul de Știri ar trebui să înceapă să funcționeze.
+Dacă primești eroarea FORE000006, ceasul Wii-ului tău este probabil setat incorect. Setează-l la data și ora corectă, apoi așteaptă nu mai mult de o oră și Forecast Channel ar trebui să înceapă să funcționeze.
 {: .notice--warning}
 
-[If you're experiencing issues with the Forecast Channel, News Channel, or Wii Mail then following this tutorial might fix your problem.](deleting-vffs)
+[Dacă întâmpini probleme cu Forecast Channel, News Channel, sau Wii Mail atunci urmărirea acestui tutorial îți poate rezolva problema.](deleting-vffs)
 {: .notice--warning}
 
 Dacă primești erori precum `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, du-te la Wii Settings -> Last Page -> Country și schimbă-l la United Kingdom. O să primești această eroare când folosești o țară pe care noi nu o sprijinim. Contacează-ne la [support@riiconnect24.net](mailto:support@riiconnect24.net) dacă ai nevoie de ajutor suplimentar.
