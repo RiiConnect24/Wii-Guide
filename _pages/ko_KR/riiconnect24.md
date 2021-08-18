@@ -105,16 +105,16 @@ RiiConnect24 패쳐를 실행시킬 수 없다면, support@riiconnect24.net로 �
 [WiiLink24로 계속하기](wiilink)<br> WiiLink24는 일본 전용 Wii 거실 및 디지캠 인쇄 채널을 사용할 수 있게 합니다. 설치는 선택입니다.
 {: .notice--info}
 
-If you get error 107245, then you have failed to patch your IOS correctly.
+107245 오류를 받는다면, IOS 패치가 올바르게 되지 않았습니다.
 {: .notice--info}
 
-If you get error 107304, then you cannot use our DNS. This will not affect your ability to use RiiConnect24. In this case, set Auto-obtain DNS to Yes.
+107304 오류를 받는다면, DNS를 사용할 수 없는 것 입니다. RiiConnect24의 사용 여부에 대해 영향은 미치지 않습니다. 이런 경우에는, DNS 자동 설정에서 예를 설정하세요.
 {: .notice--info}
 
 FORE000006 오류를 받는다면, Wii의 시간이 정확하지 않을 수 있습니다. 올바른 시간으로 설정하고, 1시간 안팎으로 기다리면 Forecast Channel (대한민국 미출시) 은 작동할 겁니다.
 {: .notice--warning}
 
-[If you're experiencing issues with the Forecast Channel, News Channel, or Wii Mail then following this tutorial might fix your problem.](deleting-vffs)
+[Forecast Channel, News Channel 또는 Wii 메일에서 문제가 생겼다면, 이 튜토리얼이 도움을 줄 수 있습니다.](deleting-vffs)
 {: .notice--warning}
 
 `WiiConnect24와 Wii 쇼핑 채널은 당신의 국가에서 지원되지 않습니다.`와 같은 오류를 받는다면, Wii 본체 설정 -> 마지막 페이지 -> 국가를 영국으로 바꾸세요. 저희가 지원하지 않는 국가에서 이 오류가 뜹니다. 더 많은 도움이 필요하다면 [support@riiconnect24.net](mailto:support@riiconnect24.net)으로 연락하세요.
