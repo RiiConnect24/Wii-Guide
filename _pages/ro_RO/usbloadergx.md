@@ -47,43 +47,43 @@ Asigură-te că unitatea USB este formatată ca FAT32 sau NTFS. Nu-l formata ca 
 Nu există un "ghid" pentru utilizarea aplicației USB Loader GX. Această pagină este destinată către a te învăța cum să-l folosești, oferindu-ți un început rapid. Ar trebui să poți să-ți dai seama de toate funcțiile minunate a aplicației USB Loader GX în timp ce îl folosești.
 {: .notice--info}
 
-* If USB Loader GX says "Waiting for HDD..." with a 20 seconds countdown, it's likely that it can't find the USB drive. Try to exit out of the app, and then relaunch it after you put the USB drive in the other port of the Wii.
-* You can press the 1 Button on your Wii Remote to open up a dialog to download game covers and artwork from [GameTDB](https://gametdb.com/). It might take a while to download the game covers and artwork, depending on how many games you have.
-* There are WADs that can open up USB Loader GX if you load it from the Wii Menu. This is called a forwarder WAD. An official forwarder WAD can be found [here](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), and a version for the vWii (Wii U) can be found [here](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad).
-* GameCube or "custom" Wii games may or may not have a custom banner that USB Loader GX uses. To enable this, find or write `CustomBannersURL = http://banner.rc24.xyz/` in config/GXGlobal.cfg on your USB drive. Then you can use the "Custom Banner" download by pressing the 1 Button on your Wii Remote.
+* Dacă USB Loader GX spune "Waiting for HDD..." cu o numărătoare de 20 de secunde, este posibil că nu poate găsi unitatea USB. Încearcă să ieși din aplicație, iar apoi redeschide-l după ce ai introdus unitatea USB în celălalt port USB al Wii-ului.
+* Poți apăsa Butonul 1 pe Wii Remote-ul tău pentru a deschide un dialog pentru descărcarea copertelor de joc și operelor de artă din [GameTDB](https://gametdb.com/). Poate dura ceva timp să descarce copertele de joc și operelor de artă, în funcție de câte jocuri ai.
+* Există WAD-uri care pot deschide USB Loader GX dacă le rulezi din Meniul Wii. Acesta se numește un "forwarder WAD" (WAD de redirecționare). Un forwarder WAD oficial poate fi găsit [aici](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), iar o versiune pentru vWii (Wii U) poate fi găsită [aici](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad).
+* Jocurile GameCube sau jocurile Wii "personalizate" ar putea sau nu ar putea să aibă un banner personalizat pe care USB Loader GX îl folosește. Pentru a activa acest lucru, găsește sau scrie `CustomBannersURL = http://banner.rc24.xyz/` în config/GXGlobal.cfg în unitatea ta USB. Apoi poți folosi descărcarea "Custom Banner" prin apăsarea Butonului 1 pe Wii Remote-ul tău.
 
-##### User Interface
+##### Interfață
 
-There are multiple buttons in the USB Loader GX interface.
+Exista multe butoane în interfața USB Loader GX.
 
-###### Main Menu
+###### Meniul Principal
 
-These are the functions the buttons found on the top of the main menu do, from left to right:
+Acestea sunt funcțiile butoanelor găsite în partea de sus a meniului principal, de la stânga la dreapta:
 
-* Star - Shows games that you have marked as "favorites".
-* Search - Lets you search for games by name.
-* Sort - Cycles through sorting methods for games.
-* Platform - Choose to sort games by platform.
-* Category - Sorts games by category.
-* List - Shows games in a list view.
-* Multi-Cover View - Shows games in a multi-cover view.
-* Cover Carousel View - Shows games in a carousel view.
-* Wii Menu View - Shows games in a Wii Menu view.
-* Parental Control - Locks USB Loader GX.
-* Disc - Loads a game via disc.
+* Stea - Arată jocurile pe care le-ai marcat ca "favorite".
+* Căutare - Îți permite să cauți jocuri după nume.
+* Sortare - Schimbă prin metode de sortare pentru jocuri.
+* Platformă - Alege să sortezi jocuri după platformă.
+* Categorie - Sortează jocurile după categorie.
+* Listă - Arată jocurile în format de listă.
+* Vizualizare Multi-Copertă - Arată jocurile în format multi-copertă.
+* Vizualizare Carusel de Coperte - Arată jocurile în format de carusel.
+* Vizualizare de Meniu Wii - Arată jocurile în formatul Meniului Wii.
+* Control Parental - Blochează USB Loader GX.
+* Disc - Rulează un joc prin disc.
 
-Pressing any game will allow you to play the game by pressing "Start".
+Apăsarea oricărui joc îți va permite să îl joci prin apăsarea butonului "Start".
 
-There are also other buttons:
+Există de asemenea și alte butoane:
 
-* (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
-* Gears - Settings for USB Loader GX.
-* SD card - Remount the SD card.
-* Homebrew - Load homebrew apps.
-* Wii - Open up the HOME Menu, which can also be accessed by pressing the HOME Button on the Wii Remote.
-* Power Button - Turn off your Wii.
+* Iconița (+) - "Instalează" un joc, adică rularea lui prin disc și extragerea lui.
+* Rotițele - Setările pentru USB Loader GX.
+* Cardul SD - Reintroduce cardul SD.
+* Homebrew - Încarcă aplicații homebrew.
+* Wii - Deschide Meniul HOME, care de asemenea poate fi accesat apăsând Butonul HOME pe Wii Remote.
+* Butonul de Pornire - Oprește Wii-ul tău.
 
-On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
+În mijlocul părții de jos a ecranului, poți vedea cât spațiu este liber în unitatea ta USB și câte jocuri ai.
 
 ##### Opțiuni după finalizare
 
