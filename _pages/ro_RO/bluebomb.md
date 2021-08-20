@@ -21,18 +21,18 @@ Pentru consola Wii originală, nu este recomandat să folosești BlueBomb dacă 
   - Dacă nu ai Linux, [Ubuntu](https://ubuntu.com/download/desktop) este cea mai ușor de utilizat opțiune și poate fi rulat pe calculatoarele care au instalat Windows sau Mac.
     - Dispozitivele 32-bit vor avea nevoie de [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
     - Pentru dispozitivele 64-bit este recomandat să folosești ediția LTS datorită stabilității sale, dar merge și cea mai nouă versiune.
-  - Poți [instala Linux pe o unitate USB](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) în loc să-l instalezi pe calculatorul tău.
+  - Poți [instala Linux pe un stick USB](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) în loc să-l instalezi pe calculatorul tău.
 - Un adaptor Bluetooth.
   - Un adaptor Bluetooth intern va merge de asemenea.
   - Dacă nu ai una, asigură-te să iei unul compatibil cu Linux.
 - O unitate USB formatată ca FAT32.
-  - Acesta nu poate fi același flash drive folosit și pentru sistemul de operare Linux.
+  - Acesta nu poate fi același unitate Usb folosită și pentru sistemul de operare Linux.
 
 #### Secțiunea II - Efectuarea exploitului
 1. Descarcă instalatorul HackMii din [site-ul BootMii](https://bootmii.org/download/).
 - (Dacă încercați să reparați un brick, ar trebui de asemenea să copiezi aplicația homebrew pe care vrei să o folosești în folderul /apps/)
-1. Extrage-l și plasează fișierul `boot.elf` în unitatea ta flash.
-1. Conectează unitatea flash în consolă. Pentru Wii mini, portul USB este în spate. Pentru un Wii normal, folosește portul de jos. (sau portul din dreapta dacă este vertical).
+1. Extrage-l și plasează fișierul `boot.elf` în stick-ul tău USB.
+1. Conectează stick-ul USB în consolă. Pentru Wii mini, portul USB este în spate. Pentru un Wii normal, folosește portul de jos. (sau portul din dreapta dacă este vertical).
 1. Pornește consolă și navighează către meniul de setări. În colțul din dreapta sus vei vedea un cod din 4 caractere ca cel din imaginea de mai jos. Acest cod este versiunea ta de Wii Menu, notează-l pentru că vei avea nevoie de el mai târziu. După aceea, oprește consola. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Pornește-ți distro-ul Linux, și asigura-te că ești conectat la internet.
 1. Pornește Terminal-ul
