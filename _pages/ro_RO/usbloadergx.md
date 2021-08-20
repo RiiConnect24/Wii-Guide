@@ -29,7 +29,7 @@ Dacă vrei să joci jocuri care sunt în format NKit, folosește [acest program]
 Dacă nu copiezi jocuri folosind Wii Backup Manager, Witgui, sau Wii Backup Fusion, creează un folder în rădăcina unității USB sau cardului SD numit "wbfs" și pune jocurile acolo.
 {: .notice--info}
 
-Pentru a juca jocuri, recomandăm să folosești un hard disk extern pentru Wii-ul tău. Unitățile flash ar trebui să fie de asemenea utilizabile, dar hard disk-urile externe sunt recomandate pentru că sunt mai fiabile, și pot stoca mai multe jocuri.
+Pentru a juca jocuri, recomandăm să folosești un hard disk extern pentru Wii-ul tău. Stick-urile USB ar trebui să fie de asemenea utilizabile, dar hard disk-urile externe sunt recomandate pentru că sunt mai fiabile, și pot stoca mai multe jocuri.
 {: .notice--info}
 
 Asigură-te că unitatea USB este formatată ca FAT32 sau NTFS. Nu-l formata ca alte tipuri precum extFS sau WBFS, cel dintâi fiind un format vechi pentru stocarea jocurilor Wii.
