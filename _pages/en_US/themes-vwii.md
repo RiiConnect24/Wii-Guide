@@ -10,13 +10,13 @@ title: "Installing Themes System Menu Themes on vWii"
 We are **NOT** responsible if you brick, or damage your console in any way whatsoever. If you follow this guide exactly, you shouldn't have any problems.
 {: .notice--danger}
 
-Do **NOT** install the themes made in this guide on an actual Wii. They are only compatible with the vWii system menu and Will brick an actual Wii.
+Do **NOT** install the themes made in this guide on an actual Wii. They are only compatible with the vWii system menu and will brick an actual Wii.
 {: .notice--danger}
 
-WiiMotes with Wii motion Plus May not work on MyMenuify, unfortunately there isn't anything we can do about this at the moment and you'll have to use an older Wii remote.
+WiiMotes with Wii MotionPlus will not work on MyMenuify, unfortunately there isn't anything we can do about this at the moment and you'll have to use an older Wii remote.
 {: .notice--warning}
 
-There are some themes that aren't compatible with the vWii system menu, they may result in anything from graphical glitches to a full theme brick. I recommend only using themes from [rc24.xyz/goodies/themes](https://rc24.xyz/goodies/themes/) since these are compatible with modern versions of the system menu.
+There are some themes that aren't compatible with the vWii system menu, they may result in anything from graphical glitches to a full theme brick. We recommend only using themes from [rc24.xyz/goodies/themes](https://rc24.xyz/goodies/themes/) since these are compatible with modern versions of the system menu.
 {: .notice--warning}
 
 If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329). ([Archive](https://web.archive.org/web/20200213194233/https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329/))
@@ -40,7 +40,7 @@ Below you may find some links to themes:
 * [RiiConnect24 themes page](https://rc24.xyz/goodies/themes/)
 
 Only themes from the Riiconnect24 Themes page have been tested on vWii.
-Themes found bellow may not be entirely compatible with vWii, use these at your own risk.
+Themes from other sources may not be entirely compatible with vWii, use these at your own risk.
 {: .notice--warning}
 
 * [Google Drive repository](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
@@ -85,7 +85,7 @@ The Database menu in NUS Downloader
 
 ![](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png =247x474)
 
-The Main menu of NUS downloader without the database menu open.
+The main menu of NUS downloader without the database menu open.
 
 After the download has finished do a search in the folder where NUS downloader is loacated for the .app file according to your region.
 
@@ -97,18 +97,18 @@ After the download has finished do a search in the folder where NUS downloader i
 
 If you can't find the .app file for your region in the search it's possible you have downloaded the wrong version of the system menu and you'll need to try again.
 
-After you Find the .app file copy it to the main directory of the Folder containing thememii, also copy a version of it to the theme folder in your SD card (We'll come back to that later).
+After you Find the .app file copy it to the main directory of the Folder containing Thememii, also copy a version of it to the theme folder in your SD card (We'll come back to that later).
 
 ##### Section III - Building the Theme
 
 Navigate to the Folder where you have ThemeMii Mod extracted and Launch ThemeMii Mod.
 
-Do Not click `Download  Base App`, ThemeMii does not have Base app files for vWii. If you do download a base app you must Delete it in order to use your .app file.
+Do not click `Download  Base App`, ThemeMii does not have Base app files for vWii. If you do download a base app you must delete it in order to use your .app file.
 {: .notice--warning}
 
-In ThemeMii select `File > Open` and navigate to the .mym theme you downloaded earlier. Then Click on `Create CSM` and select the .app file that you copied to the ThemeMii folder.
+In ThemeMii select `File > Open` and navigate to the .mym theme you downloaded earlier. Then click on `Create CSM` and select the .app file that you copied to the ThemeMii folder.
 
-Now navigate to the theme folder on your SD card and Save your theme with an easy to remember name with the .csm extension.
+Now navigate to the theme folder on your SD card and save your theme with an easy to remember name with the .csm extension.
 
 ![](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
 An image of the ThemeMii menu so you can better understand.
@@ -118,16 +118,16 @@ An image of the ThemeMii menu so you can better understand.
 
 Safely Eject your SD card from your PC and Put it into your Wii U.
 
-Start the Homebrew Channel and Launch MyMenuify.
+Start the Homebrew Channel and launch MyMenuify.
 
-After you have launched MyMenuify navigate to your theme folder and select the .csm file you just created, when it Prompts you to install the theme say yes, then wait for it to finish.
+After you have launched MyMenuify navigate to your theme folder and select the .csm file you just created, when it prompts you to install the theme say yes, then wait for it to finish.
 
 **Do Not** Power off your system until it finishes or you will brick your vWii.
 {: .notice--danger}
 
-After it has finished it will prompt you to either continue or exit, choose exit. When it exits you back to the Homebrew Channel press the Home button and exit to the system menu.
+After it has finished it will prompt you to either continue or exit, choose exit. When it exits you back to the Homebrew Channel press the Home button and exit to the System Menu.
 
-If you did everything correctly You should now have a different theme on your System menu.
+If you did everything correctly you should now have a different theme on your System menu.
 
 ##### Reverting to Stock theme
 
