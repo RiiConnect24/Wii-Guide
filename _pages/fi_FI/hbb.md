@@ -5,7 +5,10 @@ title: "Open Shop Channel (Homebrew Browser)"
 Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [Open Shop Channelin Discord-palvelimelle](https://discord.gg/osc) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-[Open Shop Channel](https://oscwii.org/) on paikka, josta voit hankkia homebrew-sovelluksia. Se on elvytysprojekti Homebrew Browser -nimiselle sovellukselle.
+Homebrew Browser, which is what the Open Shop Channel is based off on, does work but it can be buggy. You can also get homebrew using [https://github.com/dhtdht020/osc-dl/releases](osc-dl) and from the [Open Shop Channel website](https://oscwii.org/).
+{: .notice--info}
+
+The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
 
 #### Mitä tarvitset
 * SD-kortti tai USB-asema
@@ -22,8 +25,8 @@ Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [Open S
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 
-Homebrew Browserin latauksen mukana on Homebrew Browserin käyttöä koskeva opas.
+Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
 {: .notice--info}
 
-Voit vaihtaa ShopChannel.ogg:n loop.ogg:ksi kansiossa `/apps/homebrew_browser/` saadaksesi Homebrew Browserin soittamaan Wii Shop Channelin musiikkia.
+You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
 {: .notice--info}
