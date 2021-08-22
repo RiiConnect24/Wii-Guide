@@ -34,7 +34,7 @@ Striim Network este un serviciu dedicat să readucă înapoi canalele care supor
 
 
 
-[Continuă la RiiConnect24](riiconnect24)<br> Riiconnect24 îți permite să folosești servicii întrerupte de la WiiConnect24, care includ Canalele de Știri, de Vreme, Everybody Votes, Nintendo și Mii Contest Channel, împreună cu Wii Mail. Acesta este opțional de instalat.
+[Continuă la RiiConnect24](riiconnect24)<br> Riiconnect24 îți permite să folosești servicii întrerupte de la WiiConnect24, care includ News, Forecast, Everybody Votes, Nintendo și Mii Contest Channel, împreună cu Wii Mail. Acesta este opțional de instalat.
 {: .notice--info}
 
 [Continuă la WiiLink](wiilink)<br> WiiLink îți permite să folosești canalele întrerupte japoneze, precum Wii Room și Digicam Print Channel. Acesta este opțional de instalat.
