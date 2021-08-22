@@ -5,7 +5,10 @@ title: "Chaîne Open Shop (Homebrew Browser)"
 Si vous avez besoin d'aide pour quoi que ce soit concernant ce didacticiel, veuillez rejoindre [le serveur Discord WiiLink24 ](https://discord.gg/osc) (recommandé) ou [envoyez-nous un e-mail à support@riiconnect24.net](mailto:support@riiconnect24.net) .
 {: .notice--info}
 
-La [Chaîne Open Shop](https://oscwii.org/) est l'endroit où vous pouvez obtenir de nouvelles applications homebrew. C'est un projet de reprise pour une application appelée Homebrew Browser.
+Homebrew Browser, which is what the Open Shop Channel is based off on, does work but it can be buggy. You can also get homebrew using [https://github.com/dhtdht020/osc-dl/releases](osc-dl) and from the [Open Shop Channel website](https://oscwii.org/).
+{: .notice--info}
+
+The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
 
 #### Ce dont vous avez besoin
 * Une carte SD ou un périphérique USB
@@ -19,11 +22,11 @@ La [Chaîne Open Shop](https://oscwii.org/) est l'endroit où vous pouvez obteni
 [ Continuer vers RiiConnect24 ](riiconnect24) <br> RiiConnect24 vous permet d'utiliser les services interrompus de WiiConnect24, qui incluent la Chaîne Infos, la Chaîne Météo, la Chaîne Votes, la Chaîne Nintendo et la Chaîne Concours Mii, ainsi que Wii Mail. L'installation est facultative.
 {: .notice--info}
 
-[ Continuer vers la navigation sur le site ](site-navigation)<br> Nous avons de nombreux autres tutoriels qui pourraient vous plaire.
+[Continuer vers la navigation du site](site-navigation)<br> Nous avons de nombreux autres tutoriels que vous pourriez aimer.
 {: .notice--info}
 
-Le fichier de téléchargement de Homebrew Browser contient un guide sur l'utilisation de ce dernier.
+Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
 {: .notice--info}
 
-Vous pouvez remplacer ShopChannel.ogg par loop.ogg dans `/apps/homebrew_browser/` pour que le Homebrew Channel joue la musique de la Chaîne Boutique Wii.
+You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
 {: .notice--info}
