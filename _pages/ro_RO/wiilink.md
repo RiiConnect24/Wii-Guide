@@ -54,7 +54,7 @@ Adding your email to SPD will allow channels like Digicam and Demae to send file
 For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
 {: .notice--info}
 
-[Continuă la RiiConnect24](riiconnect24)<br> Riiconnect24 îți permite să folosești servicii întrerupte de la WiiConnect24, care includ Canalele de Știri, de Vreme, Everybody Votes, Nintendo și Mii Contest Channel, împreună cu Wii Mail. Acesta este opțional de instalat.
+[Continuă la RiiConnect24](riiconnect24)<br> Riiconnect24 îți permite să folosești servicii întrerupte de la WiiConnect24, care includ News, Forecast, Everybody Votes, Nintendo și Mii Contest Channel, împreună cu Wii Mail. Acesta este opțional de instalat.
 {: .notice--info}
 
 [Continuă la Wiimmfi](wiimmfi)<br> Wiimmfi îți permite să joci jocuri online după întreruperea Conexiunii Nintendo Wi-Fi. Acesta este opțional de instalat.
