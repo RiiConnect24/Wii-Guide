@@ -5,7 +5,10 @@ title: "Canalul Open Shop (Homebrew Browser)"
 Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord Open Shop Channel](https://discord.gg/osc) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-[Canalul Open Shop](https://oscwii.org/) este unde poți să te duci să iei aplicații homebrew. Este un proiect de reînviere pentru o aplicație numită Homebrew Browser.
+Homebrew Browser, which is what the Open Shop Channel is based off on, does work but it can be buggy. You can also get homebrew using [https://github.com/dhtdht020/osc-dl/releases](osc-dl) and from the [Open Shop Channel website](https://oscwii.org/).
+{: .notice--info}
+
+The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
 
 #### De ce ai nevoie
 * Un card SD sau o unitate USB
@@ -19,11 +22,11 @@ Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te
 [Continuă la RiiConnect24](riiconnect24)<br> Riiconnect24 îți permite să folosești servicii întrerupte de la WiiConnect24, care includ News, Forecast, Everybody Votes, Nintendo și Mii Contest Channel, împreună cu Wii Mail. Acesta este opțional de instalat.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continuă la navigarea site-ului](site-navigation)<br> Avem multe alte tutoriale care s-ar putea să-ți placă.
 {: .notice--info}
 
-Inclus în descărcarea Homebrew Browser este un ghid despre cum să folosești aplicația.
+Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
 {: .notice--info}
 
-Poți schimba ShopChannel.ogg cu loop.ogg în `/apps/homebrew_browser/` pentru a avea Homebrew Browser să ruleze muzica Wii Shop Channel.
+You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
 {: .notice--info}
