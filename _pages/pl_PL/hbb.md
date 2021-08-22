@@ -5,7 +5,10 @@ title: "Open Shop Channel (Homebrew Browser)"
 Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera Open Shop Channel na Discordzie](https://discord.gg/osc) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-[Open Shop Channel](https://oscwii.org/) to miejsce, w którym można pobrać aplikacje homebrew. Jest to projekt, który wskrzesza aplikację Homebrew Browser.
+Homebrew Browser, which is what the Open Shop Channel is based off on, does work but it can be buggy. You can also get homebrew using [https://github.com/dhtdht020/osc-dl/releases](osc-dl) and from the [Open Shop Channel website](https://oscwii.org/).
+{: .notice--info}
+
+The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
 
 #### Będziesz potrzebował:
 * Karta SD lub urządzenie USB
@@ -22,8 +25,8 @@ Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz d
 [Przejdź do spisu stron](site-navigation)<br> Mamy wiele innych poradników, które mogą Ci się przydać.
 {: .notice--info}
 
-W pliku, który zawiera Homebrew Browser jest równiez dołączony poradnik dotyczący jak korzystać z Homebrew Browser.
+Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
 {: .notice--info}
 
-Możesz zamienić plik ShopChannel.ogg na plik loop.ogg w `/apps/homebrew_browser/` aby Homebrew Browser odtwarzał muzykę z Wii Shop Channel.
+You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
 {: .notice--info}
