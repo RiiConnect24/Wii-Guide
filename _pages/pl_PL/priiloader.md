@@ -40,16 +40,16 @@ Priiloader dodaje dodatkowy poziom ochrony przez brickiem na Twoje Wii. Ładuje 
 2. Powinieneś zobaczyć menu główne Priiloader'a. ![Menu](/images/Priiloader/mainmenu.png)
 3. Przejdź do `System Menu Hacks`.
 
-If you are using a USB drive to install Priiloader, make sure you do not have an SD card inserted at the same time. This will cause Priiloader to be unable to find the hacks_hash.ini file.
+Jeśli używasz dysku USB do instalacji Priiloader, upewnij się, że nie masz karty SD w tym samym czasie. Spowoduje to, że Priiloader nie może znaleźć pliku hacks_hash.ini.
 {: .notice--info}
 
-4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
-1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
-1. Scroll to `Homebrew Channel` and press A to launch it.
+4. Zalecamy włączenie następujących hacków: `Region Free EVERYTHING`, `Block Disc Updates` oraz `Block Online Updates`. ![Lista hacków System Menu](/images/Priiloader/hacks.png)
+1. Przewiń w dół, do `save settings` i naciśnij A, a następnie naciśnij B, aby wrócić do głównego menu Priiloadera.
+1. Przewiń do `Homebrew Channel` i naciśnij A, aby go uruchomić.
 
 ## Lista hacków System Menu
 
-This is a list of the hacks you can enable with Priiloader.
+Poniżej znajduje się lista hacków, które możesz włączyć w Priiloaderze.
 
 | Hack                                    | Opis                                                                                                                                                                                                         |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -77,7 +77,7 @@ This is a list of the hacks you can enable with Priiloader.
 | Force Disc Games to run under IOS249    | Powoduje że gry na płytach uruchamiają się z cIOS 249. Chociaż nie pozwala Ci to na uruchomienie wypalonych płyt z grami, jest to wymagane aby w nie grać. (Możesz otrzymać Error 002 na oryginalnych grach) |
 
 
-Continue to installing cIOS<br> cIOS are used to play games with a USB Loader. It's also useful for many other homebrew apps.
+Continue to installing cIOS<br> cIOS are used to play games with a USB Loader. Jest również przydatny dla wielu innych aplikacji homebrew.
 {: .notice--info}
 
 If using a Wii mini, follow [this guide](cios-mini) to install cIOS
