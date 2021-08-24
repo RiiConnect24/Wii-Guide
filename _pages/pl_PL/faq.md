@@ -28,5 +28,5 @@ Poniższa lista przedstawia listę rzeczy, które mogą potencjalnie **ZBRICKOWA
 * Błąd podczas instalacji ważnych elementów systemu/plików IOS (np. awaria prądu)
 * Modyfikowanie pamięci NAND vWii bez wiedzy co robisz.
 
-### How can I remove parental controls?
-The [mkey generator](https://mkey.salthax.org) can generate the code required to remove parental controls.
+### Jak mogę usunąć kontrolę rodzicielską?
+[generator mkluczy](https://mkey.salthax.org) może wygenerować kod wymagany do usunięcia kontroli rodzicielskich.
