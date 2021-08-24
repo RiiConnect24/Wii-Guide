@@ -5,7 +5,7 @@ title: "Canalul Open Shop (Homebrew Browser)"
 Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord Open Shop Channel](https://discord.gg/osc) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Homebrew Browser, which is what the Open Shop Channel is based off on, does work but it can be buggy. You can also get homebrew using [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) and from the [Open Shop Channel website](https://oscwii.org/).
+Homebrew Browser, pe care se bazează Canalul Open Shop, funcționează dar poate malfuncționa. You can also get homebrew using [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) and from the [Open Shop Channel website](https://oscwii.org/).
 {: .notice--info}
 
 The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
