@@ -15,7 +15,7 @@
 1. Wybierz urządzenie do którego zapiszesz kopię - twój Pendrive lub karta SD.![Typ urządzenia](/images/CleanRip/2.png)
 1. Na tym ekranie, zostaniesz zapytany czy chcesz pobrać plik z sumami kontrolnymi gier której zaraz zrobisz kopię zapasową. Jeżeli chcesz, wybierz `Yes`, jeżeli nie, wybierz `No` - wybór należy do Ciebie. ![DAT](/images/CleanRip/3.png)
 1. Teraz włóż płytę z grą której chcesz zrobić kopię. ![DVD](/images/CleanRip/4.png) ![Inicjalizowanie płyty](/images/CleanRip/5.png)
-1. Set it as shown on the screen below.
+1. Ustaw jak pokazano na ekranie poniżej.
 
 title: "CleanRip"
 {: .notice--info}
