@@ -1,5 +1,5 @@
 ---
-title: "RiiConnect24 Clear Tool"
+title: "Narzędzie Wyczyszczenia RiiConnect24"
 ---
 
 {% include toc title="Zawartość" %}
@@ -9,7 +9,7 @@ Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz d
 
 ![Logo RiiConnect24](/images/WiiRC24Logo.jpg)
 
-RiiConnect24 Clear Tool is a homebrew application that can fix these specific errors and issues:
+Narzędzie Wyczyszczenia RiiConnect24 jest aplikacją hhomebrew, która może naprawić błędy i problemy niżej wymienione:
 
 + Discontinued Message
 + NEWS/FORE000001
@@ -17,17 +17,17 @@ RiiConnect24 Clear Tool is a homebrew application that can fix these specific er
 + NEWS/FORE000005
 + NEWS/FORE000099
 + NEWS000006
-+ Clears out Wii mailboxes in case they are full (this can fix Wii Mail)
++ Usuwa skrzynki pocztowe Wii na wypadek, gdyby były pełne (to może naprawić Wii Mail)
 
 #### Będziesz potrzebował:
 * Karta SD lub urządzenie USB
-* [RiiConnect24 Clear Tool](https://oscwii.org/library/app/RC24-Clear-Tool)
+* [Narzędzie Wyczyszczenia RiiConnect24](https://oscwii.org/library/app/RC24-Clear-Tool)
 
 #### Instrukcje
 
-1. Extract RiiConnect24 Clear Tool and put it in the `apps` folder on your SD card or USB drive.
-2. Insert your SD card or USB drive into your Wii, and launch RiiConnect24 Clear Tool from the Homebrew Channel.
-3. The app will help you resolve whatever problem you are having.
+1. Wypakuj Narzędzie Wyczyszczenia RiiConnect24 i umieść je w folderze `aplikacji` na karcie SD lub dysku USB.
+2. Podłącz Twoją kartę SD lub urządzenie USB do Twojego Wii oraz uruchom Narzędzie Wyczyszczenia RiiConnect24 korzystając z Homebrew Channel.
+3. Aplikacja pomoże Ci rozwiązać wszystkie problemy, które masz.
 
 [Powrót do strony instalacji RiiConnect24](riiconnect24)
 {: .notice--info}
