@@ -4,10 +4,10 @@ title: "Kirby TV Channel"
 
 {% include toc title="Zawartość" %}
 
-The Kirby TV Channel is controlled and operated by Striim Network, not RiiConnect24. Join their Discord server [here](https://discord.gg/seCnzxnE75).
+Kirby TV Channel jest kontrolowany i obsługiwany przez Striim Network, a nie RiiConnect24. Dołącz do ich serwera Discord [tutaj](https://discord.gg/seCnzxnE75).
 {: .notice--warning}
 
-Striim Network is a service dedicated to bringing back the channels that support video playback, such as Kirby TV Channel and YouTube.
+Striim Network to usługa służąca przywróceniu kanałów wspierających odtwarzanie wideo, takich jak Kirby TV Channel i YouTube.
 
 #### Będziesz potrzebował
 
@@ -21,9 +21,9 @@ Striim Network is a service dedicated to bringing back the channels that support
 [Jeżeli potrzebujesz dokładnych instrukcji dotyczących instalacji plików WAD, naciśnij tutaj!](wiimodlite)
 {: .notice--info}
 
-1. Download the executable for your architecture and OS.
-2. Launch the executable then press `1` twice to start the patching process.
-3. When finished, the WAD will be in the `WAD` folder which is located in the same directory as the executable.
+1. Pobierz plik wykonywalny dla twojej architektury i systemu operacyjnego.
+2. Uruchom plik wykonywalny, a następnie naciśnij `1` dwukrotnie, aby rozpocząć proces patchowania.
+3. Po zakończeniu WAD będzie w folderze `WAD`, który znajduje się w tym samym katalogu co plik wykonywalny.
 4. Move the `WAD` folder to the root of your SD Card.
 5. Włóż kartę SD lub urządzenie USB do Twojego Wii.
 6. Otwórz Homebrew Channel na Twoim Wii.
