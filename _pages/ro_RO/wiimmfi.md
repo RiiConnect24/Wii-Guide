@@ -9,9 +9,9 @@ Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te
 
 ![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
 
-[Wiimmfi](https://wiimmfi.de) is a replacement service for the now-defunct Nintendo Wi-Fi Connection. It has been developed by Wiimm and Leseratte.
+[Wiimmfi](https://wiimmfi.de) este un serviciu de înlocuire a acum-defunctului Nintendo Wi-Fi Connection. Acesta a fost dezvoltat de către Wiimm și Leseratte.
 
-If you get the error 23904 while connecting to Wiimmfi, then you are using an outdated patch.<br> Follow the steps below for the method you're using to connect to Wiimmfi again.<br> See [this page](https://wiimmfi.de/update) for more details.<br>
+Dacă primești eroarea 23904 în timp ce te conectezi la Wiimmfi, atunci înseamnă că folosești o modificare veche.<br> Urmează pașii de mai jos pentru metoda pe care o folosești să te conectezi la Wiimmfi din nou.<br> Vezi [această pagină](https://wiimmfi.de/update) pentru mai multe detalii.<br>
 {: .notice--warning}
 
 ## Different patchers
