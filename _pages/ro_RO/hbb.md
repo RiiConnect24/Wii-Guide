@@ -1,14 +1,14 @@
 ---
-title: "Canalul Open Shop (Homebrew Browser)"
+title: "Open Shop Channel (Homebrew Browser)"
 ---
 
 Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord Open Shop Channel](https://discord.gg/osc) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Homebrew Browser, pe care se bazează Canalul Open Shop, funcționează dar poate malfuncționa. You can also get homebrew using [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) and from the [Open Shop Channel website](https://oscwii.org/).
+Homebrew Browser, pe care se bazează Open Shop Channel, funcționează dar poate fi defect. Poți de asemenea să faci rost de homebrew folosind [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) și din [website-ul Open Shop Channel](https://oscwii.org/).
 {: .notice--info}
 
-The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
+[Open Shop Channel-ul](https://oscwii.org/) este unde poți să te duci să faci rost de aplicații homebrew. Este un proiect de reînviere pentru o aplicație numită Homebrew Browser.
 
 #### De ce ai nevoie
 * Un card SD sau o unitate USB
@@ -25,8 +25,8 @@ The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew
 [Continuă la navigarea site-ului](site-navigation)<br> Avem multe alte tutoriale care s-ar putea să-ți placă.
 {: .notice--info}
 
-Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
+Inclus în descărcarea Homebrew Browser este un ghid despre cum să folosești aplicația.
 {: .notice--info}
 
-You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
+Poți schimba ShopChannel.ogg cu loop.ogg în `/apps/homebrew_browser/` pentru a avea Homebrew Browser să ruleze muzica Wii Shop Channel.
 {: .notice--info}
