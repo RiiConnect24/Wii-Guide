@@ -30,7 +30,7 @@ There is no guide to installing RiiConnect24 on a Wii Mini. Attempting to instal
 * An SD card or USB drive
 * A Wii with an Internet connection
 * A computer
-* [RiiConnect24 Patcher (Windows and Unix)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+* [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### Instructions
 
@@ -60,18 +60,20 @@ If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord ser
 ![Successfully detected](/images/RC24_Patcher/8.JPG)
 12. Be patient...
 ![It's patching!](/images/RC24_Patcher/9.JPG)
-13. After it's all done, we would appreciate if you take a minute to send anonymous feedback to us.  If you don't want to, close the patcher. All the files should already be on your SD Card.
+13. After it's done, we would appreciate if you take a minute to send anonymous feedback to us.  If you don't want to, close the patcher. All the files should already be on your SD Card.
 ![It's done!](/images/RC24_Patcher/10.JPG)
 ![Files copied](/images/RC24_Patcher/11.PNG)
 14. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
 
 ##### Section II - Installing WADs
 
+In this section, you will install the patched IOS and Channel WADs that are required to use RiiConnect24.
+
 1. Put your SD card or USB drive in your Wii.
 2. Launch the Homebrew Channel on your Wii.
 3. Launch Wii Mod Lite.
 4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
-5. Highlight all the WADs in the folder by pressing the + Button to select them. When all of them are selected, press A twice to install the WADs.
+5. Highlight all the WADs in the folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
 6. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted WAD to uninstall it, then try installing it again.
 7. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
