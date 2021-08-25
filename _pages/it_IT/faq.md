@@ -5,20 +5,20 @@ title: "Faq"
 ![Logo giallo di Wii RiiConnect24](/images/Wii_Yellow_Gray.jpg)
 
 ### Quanto è rischioso hackerare la mia console?
-I bricks (uno stato dove alcune parti del software Wii non funzionano, o la tua Wii non funziona del tutto) sono adesso *praticamente* impossibili almeno che tu ignori/aggiri le misure di sicurezza.
+Bricks (a state where either some parts of your Wii software are not working, or your Wii is not working at all) are extremely rare unless you ignore/circumvent all safety checks, or do something risky or naive like installing an older version of the Wii Menu. Make sure you install [BootMii](bootmii) and [Priiloader](priiloader) to protect yourself from bricks!
 
 ### Dove dovrei andare per supporto?
-Inviaci un'email a support@riiconnect24.net o unisciti al [ Server Discord RiiConnect24](https://discord.gg/rc24).
+You can join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for assistance.
 
 ### Quali sono i requisiti e/o raccomandazioni per la scheda SD?
 Avrai bisogno di una scheda SD con almeno 128MB per far andare l'exploit.
 
-- Se stai usando gli exploit BlueBomb, str2hax o FlashHax non hai bisogno di una scheda SD
+- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card.
 
 Per conservare applicazioni Homebrew consigliamo una scheda SD con almeno 2 GB.
 
-### Ho un errore XXXXXX su Wiimmfi, come lo risolvo?
-Per poter vedere che errore è, per favore visita [la pagina errori di Wiimmfi](https://wiimmfi.de/error).
+### I got error code XXXXXX in Wiimmfi, how to fix it?
+In order to check what the reason for the error is, please visit the [Wiimmfi error page](https://wiimmfi.de/error).
 
 ### Quali sono le limitazioni nel modding di una Wii virtuale?
 Questa è una lista di cose che potrebbero **BRICKARE** la tua Wii virtuale (non fare queste cose!):
