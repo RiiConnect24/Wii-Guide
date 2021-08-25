@@ -7,7 +7,7 @@ title: "Să începem"
 Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Chiar dacă Wii-ul tău a fost deja soft-modificat în trecut, urmarea acestor pași poate asigura că soft-modificația este la zi.
+Chiar dacă Wii-ul tău a fost deja modificat în trecut, urmarea acestor pași poate asigura că modificația este la zi.
 {: .notice--info}
 
 Toate exploit-urile rulează Instalatorul HackMii, și au același rezultat final.
