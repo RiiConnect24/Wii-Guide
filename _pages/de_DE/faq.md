@@ -5,20 +5,20 @@ title: "FAQ (Häufig gestellte Fragen)"
 ![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
 
 ### Wie gefährlich ist es meine Konsole zu hacken?
-Bricks (ein Zustand, bei welchem die Wii-Software entweder teilweise oder gänzlich nicht mehr funktioniert) sind mittlerweile *grundsätzlich* unmöglich, es sei denn du ignorierst bzw. umgehst alle Sicherheitsabfragen.
+Bricks (a state where either some parts of your Wii software are not working, or your Wii is not working at all) are extremely rare unless you ignore/circumvent all safety checks, or do something risky or naive like installing an older version of the Wii Menu. Make sure you install [BootMii](bootmii) and [Priiloader](priiloader) to protect yourself from bricks!
 
 ### Wo kann ich Unterstützung erhalten?
-Sende uns entweder eine E-Mail an support@riiconnect24.net, oder tritt unserem [RiiConnect24 Discord-Server](https://discord.gg/rc24) bei.
+You can join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for assistance.
 
 ### Welche Voraussetzungen bzw. Empfehlungen gelten für SD-Karten?
 Du benötigst eine SD-Karte mit mindestens 128MB um Exploits auszuführen.
 
-- Wenn du BlueBomb, str2hax, oder FlashHax exploits verwendest, benötigst du keine SD-Karte
+- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card.
 
 Um Homebrew-Anwendungen zu speichern, empfehlen wir eine SD-Karte mit mindestens 2GB.
 
-### Ich erhalte Fehler XXXXXX in Wiimmfi, wie behebe ich ihn?
-Um festzustellen was dieser Fehler bedeutet, besuche die [Wiimmfi-Fehlerseite](https://wiimmfi.de/error).
+### I got error code XXXXXX in Wiimmfi, how to fix it?
+In order to check what the reason for the error is, please visit the [Wiimmfi error page](https://wiimmfi.de/error).
 
 ### Welche Einschränkungen gibt es beim Modden der vWii?
 Folgendes ist eine Liste mit Dingen, die möglicherweise deine vWii **BRICKEN** können (mache folgendes nicht!):
