@@ -25,9 +25,9 @@ Striim Network to usługa służąca przywróceniu kanałów wspierających odtw
 2. Uruchom plik wykonywalny, a następnie naciśnij `1` dwukrotnie, aby rozpocząć proces patchowania.
 3. Po zakończeniu WAD będzie w folderze `WAD`, który znajduje się w tym samym katalogu co plik wykonywalny.
 4. Move the `WAD` folder to the root of your SD Card.
-5. Włóż kartę SD lub urządzenie USB do Twojego Wii.
+5. Używając Twojego kontrolera, przejdź do `WAD Manager` oraz wejdź do folderu `wad`.
 6. Otwórz Homebrew Channel na Twoim Wii.
-7. Uruchom Wii Mod Lite.
+7. Po ukońzconej pomyślnie instalacji, naciśnij przycisk HOME aby wyjść do Homebrew Channel.
 8. Używając Twojego kontrolera, przejdź do `WAD Manager` oraz wejdź do folderu `wad`.
 9. Highlight the WAD named `Kirby-TV-Channel-Patched(Striim).wad`, then press the `A` button to install.
 10. When the WAD successfully installs, return to the Wii Menu and launch the channel.
