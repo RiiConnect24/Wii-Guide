@@ -5,20 +5,20 @@ title: "자주 묻는 질문(FAQ)"
 ![RiiConnect 24 노랑 Wii 로고](/images/Wii_Yellow_Gray.jpg)
 
 ### 콘솔 해킹의 위험성은 어느 정도 인가요?
-벽돌(Wii의 소프트웨어 일부가 작동하지 않거나 Wii가 완전히 작동하지 않는 상태)은 이제 *기본적으로* 모든 안전 확인을 건너뛰거나 우회하지 않는 한 불가능합니다.
+Bricks (a state where either some parts of your Wii software are not working, or your Wii is not working at all) are extremely rare unless you ignore/circumvent all safety checks, or do something risky or naive like installing an older version of the Wii Menu. Make sure you install [BootMii](bootmii) and [Priiloader](priiloader) to protect yourself from bricks!
 
 ### 지원을 위해 어떻게 해야 하나요?
-support@riiconnect24.net으로 이메일 하거나 [RiiConnect24 디스코드](https://discord.gg/rc24) 서버를 가입하세요.
+You can join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for assistance.
 
 ### SD 카드 요구사항이나 권장사항은 어떻게 되나요?
 128MB 이상의 SD 카드가 약점 실행에 필요합니다.
 
-- BlueBomb나 str2hax, 또는 FlashHax 약점을 실행한다면, SD카드가 필요 없습니다
+- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card.
 
 홈브루 어플리케이션을 저장하려면, 2GB 이상의 SD카드를 권장합니다.
 
-### 오류 XXXXXX를 Wiimmfi에서 발견했어요. 어떻게 고치나요?
-무슨 오류인지 확인하려면, [Wiimmfi 오류 페이지](https://wiimmfi.de/error)를 방문하세요.
+### I got error code XXXXXX in Wiimmfi, how to fix it?
+In order to check what the reason for the error is, please visit the [Wiimmfi error page](https://wiimmfi.de/error).
 
 ### vWii 모딩의 한계는 어디인가요?
 vWii를 **벽돌**시키는 것들의 리스트입니다 (제발 하지 마세요!):
