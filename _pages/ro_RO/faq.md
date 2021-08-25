@@ -4,21 +4,21 @@ title: "Întrebări frecvente"
 
 ![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
 
-### Cât de riscant este să-mi hack-uiesc consola?
-Brick-urile (o stare în care niște părți din software-ul din Wii nu merg, sau consola nu merge deloc) sunt acum *practic* imposibile dacă nu ignori/ocolești toate verificările de siguranță.
+### Cât de riscant este să-mi modific consola?
+Brick-urile (o stare unde niște părți din software-ul Wii-ului tău nu funcționează, sau Wii-ul tău nu funcționează deloc) sunt extrem de rare cu excepția cazului în care ignori/ocolești toate verificările de siguranță, sau faci ceva riscant sau naiv precum instalarea unei versiuni mai veche a Meniului Wii. Asigură0te că instalezi [BootMii](bootmii) și [Priiloader](priiloader) pentru a te proteja de brick-uri!
 
 ### Unde ar trebui să mă duc pentru ajutor?
-Ori ne scrii un email la support@riiconnect24.net, ori te alături [serverului de discord Riconnect24](https://discord.gg/rc24).
+Te poți alătura [serverului de Discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un e-mail la support@riiconnect24.net](mailto:support@riiconnect24.net) pentru asistență.
 
 ### Care sunt cerințele pentru cardul SD și/sau recomandarile?
 Vei avea nevoie de un card SD cu cel puțin 128MB pentru a rula un exploit.
 
-- Dacă folosești exploit-urile BlueBomb, str2hax sau FlashHax, nu ai nevoie de un card SD
+- Dacă folosești exploit-urile BlueBomb, str2hax sau FlashHax, nu ai nevoie de un card SD.
 
 Pentru a stoca aplicații homebrew, recomandăm un card SD cu cel puțin 2 GB spațiu.
 
-### Am luat eroarea XXXXXX în Wiimmfi, cum o rezolv?
-Pentru a verifica ce eroare este, te rugăm să vizitezi [pagina de erori Wiimmfi](https://wiimmfi.de/error).
+### Am primit codul de eroare XXXXXX în Wiimmfi, cum o rezolv?
+Pentru a verifica care este motivul erorii, te rugăm să vizitezi [pagina de erori Wiimmfi](https://wiimmfi.de/error).
 
 ### Care sunt limitele în modificării vWii?
 Următoarea este o listă de lucruri care pot cauza un **BRICK** pe vWii (nu face aceste lucruri!):
