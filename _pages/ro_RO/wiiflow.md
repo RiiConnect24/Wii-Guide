@@ -51,37 +51,37 @@ Acesta nu este un ghid complet pentru utilizarea WiiFlow. Această pagină este 
 {: .notice--info}
 
 * WiiFlow în mod implicit este setat să caute jocuri numai în cardul SD. Acest lucru poate fi schimbat prin intrarea în setări, unde te ve duce în "Startup settings" și vei dezactiva "Mount SD Only".
-* You can toggle between viewing Wii games, GameCube games, Wii Channels, Plugins, Homebrew apps by clicking the button second to last button on the right.
-* You can download game covers by going to "Settings" then "Download Covers and Banners"
+* Poți schimba între vizualizarea jocurilor Wii, jocurilor GameCube, Canalelor Wii, Plugin-urilor și a aplicaților Homebrew apăsând penultimul buton din dreapta.
+* Poți descărca coperte de joc mergând la "Settings" apoi "Download Covers and Banners"
 
 ##### Interfață
 
-When WiiFlow detects games, they are displayed in flow view. When you click on a game you are given these options:
+Când WiiFlow detectează jocuri, acestea sunt afișate în vizualizare tip flow. Când apeși pe un joc ți se vor dau următoarele opțiuni:
 
-* Star - Adds game to favorites.
-* Bookshelf - Adds the game to 1 of 6 categories of your choosing.
-* Gears - Opens the settings menu for the specific game. Changing settings here will only effect the game you changed the settings for.
-* X - Deletes the game from the USB drive or SD card
+* Stea - Adaugă jocul la favorite.
+* Bibliotecă - Adaugă jocul în una dintre cele 6 categorii aleasă de tine.
+* Rotițe - Deschide meniul de setări pentru jocul ales. Schimbarea setărilor aici va afecta numai jocul pentru care ai schimbat setările.
+* X - Șterge jocul din unitatea USB sau cardul SD
 
-When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
+Când aduci cursorul în partea de jos a ecranului în timp ce ești în vizualizarea tip flux, sunt 6 iconițe:
 
-* Bookshelf - View the games that are sorted in the categories you chose.
-* Star - View games you favorited.
-* Gears - Opens WiiFlow Settings.
-* Game Type - Toggles between different types of apps/games. The logo changes depending on what game type you have selected.
-* Disc - Loads game that is in disc drive.
-* House - Will open this menu. This menu can also be launched by pressing the home button.
+* Bibliotecă - Vezi jocurile care sunt sortate în categoriile pe care le-ai ales.
+* Stea - Vezi jocurile pe care le-ai marcat ca favorite.
+* Rotițe - Deschide Setările WiiFlow.
+* Tipul de Joc - Schimbă între tipuri diferite de aplicații/jocuri. Logo-ul se schimbă în funcție de ce tip de joc ai ales.
+* Disc - Rulează jocul care este în cititorul de discuri.
+* Casă - Va deschide acest meniu. Acest meniu poate de asemenea să fie deschis prin apăsarea Butonului HOME.
 
 ![WF_menu](images/WFmenu.png)
 
-* Help Guide - Shows all the controls you can use in WiiFlow.
-* Reload Cache - Press this when WiiFlow is not detecting a new game on the USB drive or SD card.
-* File Explorer - Allows you to boot games/apps from anywhere on your USB drive or SD card.
-* Select Plugins - Allows you to select plugins.
-* Credits - Shows the people who worked on WiiFlow.
-* Shutdown - Allows you to either go into full shutdown, or Standby mode.
-* Exit To - Lets you exit to Wii Menu, HBC, neek2o, Priiloader and Bootmii.
-* Settings - Will open the WiiFlow Settings menu
+* Help Guide - Arată toate controalele pe care le poți folosi în WiiFlow.
+* Reload Cache - Apasă asta când WiiFlow nu detectează un joc nou în unitatea USB sau cardul SD.
+* File Explorer - Îți permite să rulezi jocuri/aplicații de oriunde din unitatea ta USB sau cardul tău SD.
+* Select Plugins - Îți permite să selectezi plugin-uri.
+* Credits - Arată persoanele care au lucrat la crearea aplicației WiiFlow.
+* Shutdown - Îți permite să intri într-o oprire completă a consolei, sau în modul Standby.
+* Exit To - Îți permite să ieși în Meniul Wii, HBC, neek2o, Priiloader și Bootmii.
+* Settings - Va deschide meniul de Setari WiiFlow
 
 ##### Opțiuni după finalizare
 
