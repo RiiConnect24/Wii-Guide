@@ -4,15 +4,12 @@ title: "RiiConnect24"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help with anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
 [RiiConnect24](https://rc24.xyz/) allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail.
-
-The Unix Patcher is finally out! This means that users of macOS and all types of Linux distributions are able to natively use the RiiConnect24 Patcher.
-{: .notice--info}
 
 {% capture notice-1 %}
 This guide is for the original Wii only.
@@ -41,7 +38,7 @@ If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord ser
 
 1. Click the link above to go to the GitHub page where the patcher is.
 2. Download `RiiConnect24Patcher.bat` if you are on Windows, and `RiiConnect24Patcher.sh` if you are on a Unix system
-3. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open terminal and type `bash`, then drag `RiiConnect24Patcher.sh`into the terminal then press enter. It should look like this `bash RiiConnect24Patcher.sh`.
+3. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open Terminal and type `bash`, then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this: `bash RiiConnect24Patcher.sh`.
 4. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`. (NOTE: These screenshots are from the Windows version of the patcher.)
 ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
 5. Select the device you're patching for.
@@ -67,14 +64,14 @@ If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord ser
 
 ##### Section II - Installing WADs
 
-In this section, you will install the patched IOS and Channel WADs that are required to use RiiConnect24.
+You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
 1. Put your SD card or USB drive in your Wii.
 2. Launch the Homebrew Channel on your Wii.
 3. Launch Wii Mod Lite.
 4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 5. Highlight all the WADs in the folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
-6. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press - on the highlighted WAD to uninstall it, then try installing it again.
+6. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press the - Button on the highlighted WAD to uninstall it, then try installing it again.
 7. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
 ##### Section III - Patching nwc24msg.cfg
@@ -89,7 +86,7 @@ If you were unable to patch your nwc24msg.cfg correctly, please join [the RiiCon
 
 ##### Section IV - Connecting
 
-In this section, you will set your DNS to our servers. It's optional but recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
+You will now set your DNS to our servers. This is optional but it's recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
 
 1. Go to `Wii Options`.
 2. Go to `Wii Settings`.
