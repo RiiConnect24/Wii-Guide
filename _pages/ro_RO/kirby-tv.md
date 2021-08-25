@@ -13,7 +13,7 @@ Striim Network este un serviciu dedicat să readucă înapoi canalele care supor
 
 * Un card SD sau o unitate USB
 * Un Wii cu o conexiune la Internet
-* Un calculator bazat pe Windows sau Linux
+* Un calculator Windows sau unul bazat pe Unix
 * [Kirby TV Channel Patcher](https://github.com/StriimNetwork/Kirby-TV-Channel-Patcher/releases)
 
 #### Instrucțiuni
@@ -22,7 +22,7 @@ Striim Network este un serviciu dedicat să readucă înapoi canalele care supor
 {: .notice--info}
 
 1. Descarcă executabilul pentru arhitectura și sistemul tău de operare.
-2. Deschide executabilul apoi apasă `1` de două ori pentru a începe procesul de patch-uire.
+2. Deschide executabilul apoi apasă `1` de două ori pentru a începe procesul de modificare.
 3. După ce este gata, WAD-ul va fi în folderul `WAD` care se află în același folder ca și executabilul.
 4. Mută fișierul `WAD` în rădăcina Cardului tău SD.
 5. Introdu cardul tău SD sau unitatea ta USB în Wii.
