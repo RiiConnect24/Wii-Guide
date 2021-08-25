@@ -22,7 +22,7 @@ Poți rula homebrew pe consola ta Nintendo Wii gratuit prin abuzarea bug-urilor 
 
 Iată o listă de lucruri care le poți face cu homebrew. Chiar dacă această lista nu este foarte vastă, ar trebui să ai o idee bună la ce este posibil, iar ghidul te va ajuta să începi cu ușurință.
 
-- Patch-ui conținutul discurilor de joc (permițându-te să rulezi modificații în joc) folosind [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
+- Modifică conținutul discurilor de joc (permițându-te să rulezi modificații în joc) folosind [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
 - Instala teme de fundal pentru Meniul Wii folosing [MyMenufy](themes).
 - Instala un USB Loader precum [WiiFlow](wiiflow) sau [USB Loader GX](usbloadergx) pentru a rula toate jocurile tale favorite dintr-un dispozitiv de stocare USB și altele.
 - Face copii de rezervă a discurilor cu [CleanRip](/dump-games) și a jocurilor/titlurilor instalate cu [YABDM](dump-wads)
