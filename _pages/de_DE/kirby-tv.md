@@ -18,7 +18,7 @@ Striim Network is a service dedicated to bringing back the channels that support
 
 #### Anleitung
 
-[Falls du detaillierte Anweisungen zur Installation der WADs erhalten möchtest, klicke hier!](wiimodlite)
+[Wenn du detaillierte Anweisungen zur Installation von WADs sehen möchtest, klicke hier!](wiimodlite)
 {: .notice--info}
 
 1. Download the executable for your architecture and OS.
