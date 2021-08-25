@@ -15,7 +15,7 @@ Ai nevoie de un **card SD** pentru a crea o copie de rezervă NAND folosind Boot
 BootMii ca boot2 este recomandat, dar poate fi instalat doar pe build-uri vechi de Wii-uri. Altfel, poate fi instalat ca un IOS.
 {: .notice--info}
 
-Unele din cele mai importante caracteristici ale BootMii-ului este abilitatea de a face o copie de rezervă și de a restaura memoria NAND a consolei tale Wii. Vom trece peste cum să efectuezi o copie de rezervă NAND. Poți apoi să restaurezi din acea copie de rezervă pentru orice anume motiv. Este o idee bună să faci o copie de rezervă NAND în mod regulat sau înainte să faci ceva riscant cu consola ta (și dacă știi ce faci, nu va trebui să faci nimic riscant).
+Unele din cele mai importante funcții ale BootMii-ului este abilitatea de a face o copie de rezervă și de a restaura memoria NAND a consolei tale Wii. Vom trece peste cum să efectuezi o copie de rezervă NAND. Poți apoi să restaurezi din acea copie de rezervă pentru orice anume motiv. Este o idee bună să faci o copie de rezervă NAND în mod regulat sau înainte să faci ceva riscant cu consola ta (și dacă știi ce faci, nu va trebui să faci nimic riscant).
 
 #### Ai nevoie de
 * Un card SD cu cel puțin 512MB de spațiu liber
