@@ -61,7 +61,7 @@ sitemap: false
 
 **Site**
 + [Home](/)
-+ [Get Started](get-started)
++ [始めよう](get-started)
 + [FAQ](faq)
 + [Donations](donations)
 {% endcapture %}
