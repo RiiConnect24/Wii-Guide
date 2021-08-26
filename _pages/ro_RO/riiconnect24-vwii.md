@@ -9,9 +9,9 @@ Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-Ghid pentru instalarea [RiiConnect24](https://rc24.xyz) pe vWii (Wii Virtual pe Wii U) cu: CMOC/MCC, Nintendo Channel, EVC și Canalul de Știri împreună cu rezolvarea raportului de aspect 4:3 forțat.
+Ghid pentru instalarea [RiiConnect24](https://rc24.xyz) pe vWii (Wii Virtual pe Wii U) cu: CMOC/MCC, Nintendo Channel, EVC și News Channel împreună cu rezolvarea raportului de aspect 4:3 forțat.
 
-Fiindcă unele caracteristici găsite în Wii-ul original nu sunt prezente în vWii, putem folosi RiiConnect24 doar parțial. Vezi [ce funcționează în prezent](#whats-currently-working) pentru detalii.
+Pentru că unele funcții găsite în Wii-ul original nu sunt prezente în vWii, putem folosi RiiConnect24 doar parțial. Vezi [ce funcționează în prezent](#whats-currently-working) pentru detalii.
 {: .notice--warning}
 
 #### Atenție
@@ -26,14 +26,14 @@ Noi **NU** suntem responsabili dacă îți brick-uiești, sau îți deteriorezi 
 
 * Un calculator sau telefon cu o conexiune la internet și abilitatea de a interacționa cu un card SD.
 * Un card SD formatat ca FAT32 (cel puțin 2GB) cu suficient spațiu disponibil. Cardurile SDHC sau SDXC formatate ca FAT32 pot fi cunoscute ca funcționale.
-* O consola Wii U capabilă să lanseze Homebrew Channel (fie prin exploit-ul din web browser, Haxchi sau Coldboot Haxchi). **Dacă nu ai o consola Wii U soft-modificată, urmează [wiiuguide.xyz](https://wiiuguide.xyz), precum și [ghidul de modificare a Wii-ului virtual](https://wiiuguide.xyz/#/vwii-modding) și apoi întoarce-te.**
+* O consola Wii U capabilă să lanseze Homebrew Channel (fie prin exploit-ul din web browser, Haxchi sau Coldboot Haxchi). **Dacă nu ai o consola Wii U modificată, urmează [wiiuguide.xyz](https://wiiuguide.xyz), precum și [ghidul de modificare a Wii-ului virtual](https://wiiuguide.xyz/#/vwii-modding) și apoi întoarce-te.**
 * [Patcher-ul RiiConnect24](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 După ce ai urmat ghidul atașat mai sus, ar trebui să ai:
 * O copie de rezervă a NAND-ului vWii și chei (păstrează-le în siguranță!!)
 * Homebrew Channel instalat
 * d2x cIOS instalat (IOS249, IOS250 și IOS251)
-* IOS80 patch-uit
+* IOS80 modificat
 {: .notice--info}
 
 #### Instrucțiuni
@@ -43,22 +43,22 @@ Dacă nu poți folosi patcher-ul, [urmează ghidul manual](https://pad.snopyta.o
 
 ##### Secțiunea I – Rularea patcher-ului
 
-Folosind Patcher-ul RiiConnect24 care ar fi trebuit să-l instalezi mai devreme în [De ce ai nevoie](#what-you-need), o să descarci și o să patch-uiești IOS31 și Canalele de Știri, Everybody Votes, Nintendo și Mii Contest pentru utilizare pe vWii.
+Folosind RiiConnect24 Patcher pe care ar fi trebuit să-l instalezi mai devreme în [De ce ai nevoie](#what-you-need), o să descarci și o să modifici IOS31 și Canalele News, Everybody Votes, Nintendo și Mii Contest pentru utilizare pe vWii.
 
 1. Rulează `RiiConnect24Patcher.bat` pe Windows sau `RiiConnect24Patcher.sh` pe sisteme Unix prin tastarea cuvântului "bash", tragerea fișierului `RiiConnect24Patcher.sh` în terminal și apăsarea tastei enter. Ar trebui să arate așa `bash RiiConnect24Patcher.sh`. Urmează instrucțiunile de pe ecran
 
 2. Confirmă că după trecerea prin patcher, ai 3 foldere. Ele vor fi în același folder unde se află `RiiConnect24Patcher.bat/sh` și pe Cardul tău SD (desigur, numai dacă ai selectat o opțiune în patcher de a face asta).
    - Dacă patcher-ul nu a mutat fișierul în Cardul SD, mută aceste 3 foldere în rădăcina cardului tău SD.
 
-##### Secțiunea II – Instalarea WAD-urilor noi patch-uite
+##### Secțiunea II – Instalarea WAD-urilor noi modificate
 
 1. Deschide Homebrew Channel
 2. Lansează Wii Mod Lite
-3. Folosind +Control Pad-ul pe Wii Remote-ul tău, navighează la `WAD Manager`, apoi du-te la folder-ul `wad`.
+3. Folosind +Control Pad-ul pe Wii Remote-ul tău, navighează la `WAD Manager`, apoi du-te la folderul `wad`.
 4. Evidențiază toate WAD-urile cu `RiiConnect24` în nume, apoi apasă + pentru a le selecta. Când toate din ele sunt evidențiate, apasă A de două ori pentru a instala WAD-urile.
 5. După ce au fost instalate cu succes, apasă Butonul HOME pentru a ieși înapoi la Homebrew Channel.
 
-##### Secțiunea III – Patch-uirea 43db pentru 16:9 (opțional)
+##### Secțiunea III – Modificarea 43db pentru 16:9 (opțional)
 
 1. Deschide Homebrew Channel
 2. Lansează ww-43db-patcher
@@ -77,10 +77,10 @@ După urmarea secțiunilor de mai sus, ești aproape gata să utilizezi RiiConne
 
 #### Ce funcționează în prezent?
 Următoarele servicii RiiConnect24 **funcționează** pe vWii:
-* Canalul de Știri (News Channel)
+* News Channel
     * Acest canal este afectat de problema marcajului de timp. Marcajele de timp "Last Updated" și ale articolelor vor fi incorecte.
     * Informațiile de banner de asemenea sunt știute să nu meargă, returnând `Unable to obtain data.`
-* Canalul de Vreme (Forecast Channel)
+* Forecast Channel
 * Nintendo Channel
 * Everybody Votes Channel
 * Check Mii Out Channel / Mii Contest Channel

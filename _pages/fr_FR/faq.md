@@ -5,20 +5,20 @@ title: "Foire au questions (FAQ)"
 ![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
 
 ### Est-il risqué de hacker ma console ?
-Les bricks (un état où soit une partie de vos logiciels Wii ne fonctionnent pas, soit votre Wii ne fonctionne pas du tout) sont maintenant *pratiquement* impossibles sauf si vous ignorez les avertissements.
+Bricks (a state where either some parts of your Wii software are not working, or your Wii is not working at all) are extremely rare unless you ignore/circumvent all safety checks, or do something risky or naive like installing an older version of the Wii Menu. Make sure you install [BootMii](bootmii) and [Priiloader](priiloader) to protect yourself from bricks!
 
 ### Où puis-je obtenir de l'aide ?
-Envoyez-nous un e-mail à support@riiconnect24.net ou rejoignez le [ RiiConnect24 Discord Server ](https://discord.gg/rc24).
+You can join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for assistance.
 
 ### Quelles sont les exigences et/ou les recommandations pour ma carte SD ?
 Vous avez besoin d'une carte SD de minimum 128 Mo pour exécuter un exploit.
 
-- Si vous utilisez les exploits BlueBomb, str2hax ou FlashHax, vous n'avez pas besoin de carte SD
+- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card.
 
 Afin de stocker des applications homebrew, nous vous recommandons une carte SD d’au moins 2 Go.
 
-### J'ai eu une erreur XXXXXX sur Wiimmfi, comment la corriger ?
-Afin de vérifier de quelle erreur il s'agit, veuillez visiter [la page d'erreur de Wiimmfi](https://wiimmfi.de/error) (site en anglais).
+### I got error code XXXXXX in Wiimmfi, how to fix it?
+In order to check what the reason for the error is, please visit the [Wiimmfi error page](https://wiimmfi.de/error).
 
 ### Quelle sont les limitations du modding en mode vWii (Wii U) ?
 Voici une liste des choses pouvant potentiellement **BRICK** votre vWii (ne faites pas ça !) :

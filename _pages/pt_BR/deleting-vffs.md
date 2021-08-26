@@ -1,5 +1,5 @@
 ---
-title: "Deletando VFFs"
+title: "RiiConnect24 Clear Tool"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -9,40 +9,25 @@ Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [
 
 ![Logo RiiConnect24](/images/WiiRC24Logo.jpg)
 
-Se você está recebendo algum desses erros (e não qualquer outro erro), você deve ser capaz de consertar o Canal excluindo seu VFF.
+RiiConnect24 Clear Tool is a homebrew application that can fix these specific errors and issues:
 
 + Recursos Descontinuados
 + NEWS/FORE000001
 + NEWS/FORE000003
 + NEWS/FORE000005
 + NEWS/FORE000099
++ NEWS000006
++ Clears out Wii mailboxes in case they are full (this can fix Wii Mail)
 
 #### Você precisará de
 * Um cartão SD ou pendrive
-* [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
-
-#### Pasta para excluir
-
-+ Canal do Tempo
-  + 48414645
-  + 4841464a
-  + 48414650
-
-+ Canal de Notícias
-  + 48414745
-  + 4841474a
-  + 48414750
+* [RiiConnect24 Clear Tool](https://oscwii.org/library/app/RC24-Clear-Tool)
 
 #### Instruções
 
-1. Inicie o WiiXplorer.
-2. Vá para `Iniciar` -> `Configurações` -> `Configurações de inicialização` -> `Ativar acesso de gravação da NAND` e depois selecionar `Sim` para os dois diálogos que aparecem na tela.
-3. Pressione Voltar até chegar à tela do explorador de arquivos.
-4. Selecione o pequeno ícone do cartão SD azul e, em seguida, selecione `NAND`.
-5. Navegue até o `título` -> `00010002` -> XXXXXXXX -> `data`, onde XXXXXXXX é uma das pastas acima.
-6. Aponte o mouse sobre `wc24dl.vff` e pressione o botão + e selecione `Delete`.
-
-Tente lançar o canal com o qual você estava tendo problemas agora.
+1. Extract RiiConnect24 Clear Tool and put it in the `apps` folder on your SD card or USB drive.
+2. Insert your SD card or USB drive into your Wii, and launch RiiConnect24 Clear Tool from the Homebrew Channel.
+3. The app will help you resolve whatever problem you are having.
 
 [Voltar à página de instalação do RiiConnect24](riiconnect24)
 {: .notice--info}

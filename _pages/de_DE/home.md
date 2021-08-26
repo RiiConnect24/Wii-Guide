@@ -43,7 +43,7 @@ Beginne mit der [Auswahl deines Exploits](get-started)!
 
 Es gibt weitere gute Quellen für Wii-Modding und zur Fehlerbehebung, die dir helfen können:
 
-- [ModMii](http://xflak.com/)
+- [ModMii](https://modmii.github.io/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
 - [Wii Hacking Explained - von Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...und natürlich diese Seite

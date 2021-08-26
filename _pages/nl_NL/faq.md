@@ -5,20 +5,20 @@ title: "FAQ"
 ![RiiConnect24 Wii Logo Geel](/images/Wii_Yellow_Gray.jpg)
 
 ### Hoe gevaarlijk is het hacken van mijn Wii?
-Bricks (de staat van uw Wii wanneer een deel van uw Wii of de volledige Wii niet meer werkt) zijn in deze tijden *eigenlijk* onmogelijk tenzij u veiligheidsapplicaties niet installeert en / of de tutorial niet goed volgt.
+Bricks (a state where either some parts of your Wii software are not working, or your Wii is not working at all) are extremely rare unless you ignore/circumvent all safety checks, or do something risky or naive like installing an older version of the Wii Menu. Make sure you install [BootMii](bootmii) and [Priiloader](priiloader) to protect yourself from bricks!
 
 ### Waar kan ik naar toe voor hulp?
-Either email us at support@riiconnect24.net or join the [RiiConnect24 Discord Server](https://discord.gg/rc24).
+You can join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for assistance.
 
 ### Wat zijn SD-kaart vereisten en / of aanraders?
 U zult een SD-kaart nodig hebben met tenminste 128 MB ruimte om een exploit te kunnen gebruiken.
 
-- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card
+- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card.
 
 Om homebrew applicaties op uw Wii te kunnen gebruiken raden bij een SD-kaart aan van tenminste 2 GB.
 
-### Ik heb foutcode XXXXXX gekregen op Wiimmfi, hoe kan ik dit fixen?
-Om te zien wat uw foutcode betekent en wat u kan doen om het te verhelpen moet u op de [Wiimmfi foutcode pagina](https://wiimmfi.de/error) kijken.
+### I got error code XXXXXX in Wiimmfi, how to fix it?
+In order to check what the reason for the error is, please visit the [Wiimmfi error page](https://wiimmfi.de/error).
 
 ### Wat zijn limitaties voor het hacken van mijn vWii?
 Onderstaande lijst van dingen kan potentieel uw vWii een **BRICK** bezorgen (Doe dit dus niet!):

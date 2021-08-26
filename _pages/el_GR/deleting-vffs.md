@@ -1,5 +1,5 @@
 ---
-title: "Διαγραφή VFF"
+title: "RiiConnect24 Clear Tool"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -9,40 +9,25 @@ title: "Διαγραφή VFF"
 
 ![Εικονίδιο RiiConnect24](/images/WiiRC24Logo.jpg)
 
-Εάν συμβαίνει ένα τέτοιο σφάλμα (και όχι οποιοδήποτε άλλο), λογικά μπορείτε να φτιάξετε το Κανάλι διαγράφοντας το VFF σας.
+RiiConnect24 Clear Tool is a homebrew application that can fix these specific errors and issues:
 
 + Μήνυμα Διακοπής Λειτουργίας
 + NEWS/FORE000001
 + NEWS/FORE000003
 + NEWS/FORE000005
 + NEWS/FORE000099
++ NEWS000006
++ Clears out Wii mailboxes in case they are full (this can fix Wii Mail)
 
 #### Τι χρειάζεστε
 * Μία κάρτα SD ή μέσο αποθήκευσης USB
-* [Το WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
-
-#### Φάκελοι προς διαγραφή
-
-+ Κανάλι Forecast (καιρού)
-  + 48414645
-  + 4841464a
-  + 48414650
-
-+ Κανάλι News (ειδήσεων)
-  + 48414745
-  + 4841474a
-  + 48414750
+* [RiiConnect24 Clear Tool](https://oscwii.org/library/app/RC24-Clear-Tool)
 
 #### Οδηγίες
 
-1. Ανοίξτε το WiiXplorer.
-2. Go to `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` and then select `Yes` for both dialogues that appear on the screen.
-3. Πατήστε Back μέχρι να φτάσετε στην αρχική σελίδα με τα αρχεία.
-4. Πατήστε το μικρό μπλε εικονίδιο με την κάρτα SD, και μετά πατήστε `NAND`.
-5. Πηγαίνετε στη διαδρομή `title` -> `00010002` -> XXXXXXXX -> `data`, όπου XXXXXXXX είναι ένας από τους παραπάνω φακέλους.
-6. Στοχεύστε στο `wc24dl.vff`, πατήστε το κουμπί + και πατήστε `Delete` για διαγραφή.
-
-Προσπαθείστε τώρα να ανοίξετε το κανάλι που είχατε πρόβλημα.
+1. Extract RiiConnect24 Clear Tool and put it in the `apps` folder on your SD card or USB drive.
+2. Insert your SD card or USB drive into your Wii, and launch RiiConnect24 Clear Tool from the Homebrew Channel.
+3. The app will help you resolve whatever problem you are having.
 
 [Επιστροφή στη σελίδα εγκατάστασης RiiConnect24](riiconnect24)
 {: .notice--info}

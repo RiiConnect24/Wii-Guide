@@ -8,10 +8,10 @@ Ten poradnik nauczy Cię jak zainstalować cIOS (niestandardowe IOS). Jest to wy
 
 ![Instalator d2x cIOS](/images/cios/cIOS.png)
 
-If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
+Jeżeli masz Wii U (vWii), skorzystaj z [tego poradnika](https://wiiu.hacks.guide/#/vwii-modding), żeby zainstalować cIOS. Próba instalacji innych cIOS na vWii nie zadziała.
 {: .notice--info}
 
-If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
+Jeżeli korzystasz z Wii Mini, zamiast tego zainstaluj [ten cIOS](cios-mini). Próba instalacji innych cIOS na Wii Mini nie zadziała.
 {: .notice--info}
 
 #### Będziesz potrzebował:
@@ -20,7 +20,7 @@ If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to in
 * Karta SD lub urządzenie USB.
 * [Instalator d2x cIOS](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
-Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
+Upewnij się, że przełącznik blokady zapisu na Twojej karcie SD jest odblokowany, inaczej nie będziesz mógł wybrać poprawnych opcji z instalatorze.
 {: .notice--warning}
 
 #### Instrukcje
@@ -39,7 +39,7 @@ Wybierz cIOS base: 57
 Wybierz cIOS slot: 249
 Wybierz cIOS version: 65535
 ```
-![Install cIOS 249](/images/cios/Install249.png)
+![Zainstaluj cIOS 249](/images/cios/Install249.png)
 1. Kiedy ustawisz tak jak powyżej, naciśnij A podwójnie aby zainstalować.
 1. Kiedy instalacja przebiegnie pomyślnie, naciśnij A aby powrócić i ustaw poniższe opcje:
 ```
@@ -48,7 +48,7 @@ Wybierz cIOS base: 56
 Wybierz cIOS slot: 250
 Wybierz cIOS version: 65535
 ```
-![Install cIOS 250](/images/cios/Install250.png)
+![Zainstaluj cIOS 250](/images/cios/Install250.png)
 1. Kiedy ustawisz tak jak powyżej, naciśnij A podwójnie aby zainstalować.
 1. Kiedy instalacja przebiegnie pomyślnie, naciśnij A aby powrócić i ustaw poniższe opcje:
 ```
@@ -57,15 +57,15 @@ Wybierz cIOS base: 38
 Wybierz cIOS slot: 251
 Wybierz cIOS version: 65535
 ```
-![Install cIOS 251](/images/cios/Install251.png)
+![Zainstaluj cIOS 251](/images/cios/Install251.png)
 1. Po ustawieniu, naciśnij przycisk A jeszcze raz, aby zainstalować, a następnie wyjdź po zakończeniu.
 
 {% capture bruh %}
-Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
+Chociaż większość gier powinna działać od razu z domyślnymi ustawieniami, niektóre mogą wymagać użycia określonego cIOS do działania lub wykorzystania niektórych funkcji w grze.<br> Przykłady to m.in:
 * Używanie klawiatury w Animal Crossing: City Folk.
 * Uruchamianie SpongeBob Boating Bash.
 
-A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
+Bardziej obszerna lista (choć nadal niekompletna) znajduje się [**tutaj**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> Aby zmienić cIOS używany w konkretnej grze, postępuj zgodnie z poniższymi instrukcjami:
 {% endcapture %}
 <div class="notice--warning">{{ bruh | markdownify }}</div>
 
@@ -73,24 +73,24 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
-1. Select the game that isn't working.
-1. Click Settings.
-1. Select `Game Load`.
+1. Wybierz grę, która nie działa.
+1. Kliknij Ustawienia.
+1. Wybierz `Wczytywanie Gry`.
 1. !!crwdP_27_Pdwrc!!Przewiń w dół do `Game IOS`.
 1. !!crwdP_28_Pdwrc!!Wpisz slot IOS.
     - Spróbuj użyć 250 lub 251, jeśli 249 nie działa.
 1. !!crwdP_29_Pdwrc!!Wybierz OK i spróbuj załadować gre.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
-1. Select the game that isn't working.
-1. Click the gear icon.
+1. Wybierz grę, która nie działa.
+1. Kliknij ikonę zębatki.
 1. !!crwdP_32_Pdwrc!!Wejdź do cIOS i użyj strzałki aby wybrać IOS, z którego chcesz skorzystać.
     - Spróbuj użyć 250 lub 251, jeśli 249 nie działa.
 1. !!crwdP_33_Pdwrc!!Naciśnij Save i spróbuj załadować gre.
 </div>
 ##### Co można zrobić po ukończeniu?
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. Jest to opcjonalny krok.
+[Przejdź do instalacji Homebrew Browser](hbb)<br> Homebrew Browser jest miejscem, z którego możesz pobrać homebrew na Twoje Wii. Jest to opcjonalny krok.
 {: .notice--info}
 
 [Przejdź do spisu stron](site-navigation)<br> Mamy wiele innych poradników, które mogą Ci się przydać.

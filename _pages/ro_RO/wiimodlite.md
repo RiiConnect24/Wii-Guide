@@ -30,6 +30,6 @@ Vei folosi +Control Pad-ul pentru a utiliza această unealtă.
 
 1. Alege `WAD Manager`. ![WAD Manager](/images/WiiModLite/2.png)
 2. Alege `Wii SD Slot`. ![Wii SD Slot](/images/WiiModLite/3.png)
-3. Selectează WAD-ul pe care vrei să-l instalezi. În acest exemplu, vom instala IOS-ul patch-uit necesar pentru [RiiConnect24](riiconnect24). Poți marca mai multe WAD-uri deodată apăsând Butonul +. ![Select them](/images/WiiModLite/4.gif)
+3. Selectează WAD-ul pe care vrei să-l instalezi. În acest exemplu, vom instala IOS-ul modificat necesar pentru [RiiConnect24](riiconnect24). Poți marca mai multe WAD-uri deodată apăsând Butonul +. ![Select them](/images/WiiModLite/4.gif)
 4. Apasă "A" de două ori pentru a începe instalarea. ![Install](/images/WiiModLite/5.png) ![Install](/images/WiiModLite/6.png)
 5. Dacă `Finishing installation... OK!` este afișat, WAD-ul a fost instalat cu succes. ![Complete](/images/WiiModLite/7.png) 

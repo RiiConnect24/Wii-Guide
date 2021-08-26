@@ -1,11 +1,14 @@
 ---
-title: "Canalul Open Shop (Homebrew Browser)"
+title: "Open Shop Channel (Homebrew Browser)"
 ---
 
 Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord Open Shop Channel](https://discord.gg/osc) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-[Canalul Open Shop](https://oscwii.org/) este unde poți să te duci să iei aplicații homebrew. Este un proiect de reînviere pentru o aplicație numită Homebrew Browser.
+Homebrew Browser, pe care se bazează Open Shop Channel, funcționează dar poate fi defect. Poți de asemenea să faci rost de homebrew folosind [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) și din [website-ul Open Shop Channel](https://oscwii.org/).
+{: .notice--info}
+
+[Open Shop Channel-ul](https://oscwii.org/) este unde poți să te duci să faci rost de aplicații homebrew. Este un proiect de reînviere pentru o aplicație numită Homebrew Browser.
 
 #### De ce ai nevoie
 * Un card SD sau o unitate USB
@@ -16,10 +19,10 @@ Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te
 1. Extrage Homebrew Browser și pune-l în fișierul `apps` din cardul tău SD sau unitatea ta USB.
 2. Introdu cardul tău SD sau unitatea ta USB în Wii. Acum poți porni Homebrew Browser din Homebrew Channel dacă vrei.
 
-[Continuă la RiiConnect24](riiconnect24)<br> Riiconnect24 îți permite să folosești servicii întrerupte de la WiiConnect24, care includ Canalele de Știri, de Vreme, Everybody Votes, Nintendo și Mii Contest Channel, împreună cu Wii Mail. Acesta este opțional de instalat.
+[Continuă la RiiConnect24](riiconnect24)<br> Riiconnect24 îți permite să folosești servicii întrerupte de la WiiConnect24, care includ News, Forecast, Everybody Votes, Nintendo și Mii Contest Channel, împreună cu Wii Mail. Acesta este opțional de instalat.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continuă la navigarea site-ului](site-navigation)<br> Avem multe alte tutoriale care s-ar putea să-ți placă.
 {: .notice--info}
 
 Inclus în descărcarea Homebrew Browser este un ghid despre cum să folosești aplicația.

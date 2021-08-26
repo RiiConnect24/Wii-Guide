@@ -13,6 +13,7 @@ sitemap: false
 + [RiiConnect24](riiconnect24)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
++ [Chaîne Kirby TV](kirby-tv)
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
@@ -23,6 +24,7 @@ sitemap: false
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
++ [Chaîne Kirby TV](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Suppression des VFF](deleting-vffs)
 + [Correction de l'erreur FORE000006](riiconnect24-batteryfix)

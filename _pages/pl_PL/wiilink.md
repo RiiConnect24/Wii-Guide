@@ -51,9 +51,9 @@ Adding your email to SPD will allow channels like Digicam and Demae to send file
 2. On the bottom right, press `Address settings` and then `Yes`.
 3. Click on `Email Address` within SPD and type in your email address. (make sure you **put it in correctly** or it **will not work!**)
 4. Press `OK` and then `Done`.
-5. Once you are in the SPD main menu, choose `Digicam` in the `Choose Channel` menu. After you’ve done that, it should work!
+5. Gdy znajdziesz się w głównym menu SPD, wybierz `Digicam` w menu `Wybierz kanał`. Po tym, jak to zrobisz, powinno działać!
 
-For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
+Dla regionu PAL (Europejskich Wii)<br> W Ustawieniach Wii ustaw rozdzielczość telewizora na 60 HZ (480p/480i). Możesz to znaleźć w `Screen -> TV Resolution` Jeśli tego nie zrobisz, różowy pasek pojawi się u dołu ekranu.
 {: .notice--info}
 
 [RiiConnect24](riiconnect24) jest serwisem, który pozwala Ci korzystać z już niewspieranego serwisu jakim jest WiiConnect24. Pozwala on korzystać z News Channel, Forecast Channel, Everybody Votes Channel jak i również Check Mii Out Channel oraz Wii Mail. Jest to opcjonalny krok.

@@ -20,7 +20,7 @@ main:
     url: wiimmfi
 bottom:
   - 
-    title: 'Für Unterstützung in englischer Sprache, frag unter folgendem Link nach Hilfe: <a href="https://discord.gg/b4Y7jfD">RiiConnect24 on Discord</a>.'
+    title: 'Für Unterstützung in englischer Sprache, frag unter folgendem Link nach Hilfe: <a href="https://discord.gg/b4Y7jfD">RiiConnect24 bei Discord</a>.'
 footer:
   - 
     title: Quellcode

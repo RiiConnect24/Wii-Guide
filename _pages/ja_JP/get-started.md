@@ -1,34 +1,34 @@
 ---
-title: "Get Started"
+title: "始めよう"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="目次" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24) (推奨) か[support@riiconnect24.netにメール](mailto:support@riiconnect24.net)してください。
 {: .notice--info}
 
-Even if your Wii has already been softmodded in the past, following these steps can still ensure that your softmod is up to date.
+Wiiがすでに改造されている場合でも、これらの手順に従って、改造が最新の状態になっていることを確認できます。
 {: .notice--info}
 
-All of the exploits run the HackMii Installer, and have the same end result.
+すべてのエクスプロイトは HackMii Installer を実行し、同じように改造できます。
 {: .notice--info}
 
-Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
+SDカードがなくてもこのガイドに従うことができますが、 BootMiiを使用してNANDのバックアップを作成したり復元したりすることはできず、Homebrewアプリを使用することもできません。
 {: .notice--info}
 
-This guide is for the original Wii and Wii mini only (including the Wii Family Edition), with the latest firmware (4.3). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
+このガイドはWiiとWii mini (Wiiファミリーエディションを含む) の最新のファームウェア (4.3) 用です。 Wii UのWiiメニュー (vWii) では使用しないでください！ Wii Uを改造したい場合は、[こちらのガイド](https://wiiu.hacks.guide)に従ってください。
 {: .notice--warning}
 
-### Choose an exploit to use
+### 使用するエクスプロイトを選択する
 
-These exploits are sorted by easiest to hardest difficulty of use.
+下記のエクスプロイトは、上から順に使いやすいものから使いにくいもので並べられています。
 
-- [str2hax](str2hax) - Exploit that uses the Wii EULA
-    * Requires an Internet connection and changing the DNS server
-- [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board
-    * Requires an SD card
-- [FlashHax](flashhax) - Exploit that uses the Internet Channel
-    * Requires the Internet Channel installed, and an Internet connection
-- [BlueBomb](bluebomb) - Exploit that uses Bluetooth
-    * Requires a computer with Bluetooth and GNU/Linux, as well as a USB storage device
-    * This is the only exploit that works on the **Wii mini**
+- [str2hax](str2hax) - Wiiの利用規約を使ったエクスプロイト
+    * インターネット接続とDNSサーバーの変更が必要です
+- [LetterBomb](letterbomb) - Wii伝言板を使ったエクスプロイト
+    * SDカードが必要です
+- [FlashHax](flashhax) - インターネットチャンネルを使ったエクスプロイト
+    * インターネットチャンネルとインターネット接続が必要です。
+- [BlueBomb](bluebomb) - Bluetoothを使ったエクスプロイト
+    * BluetoothとGNU/Linuxを搭載したコンピュータとUSBメモリが必要です。
+    * これは、 **Wii mini**でのみ動作するエクスプロイトです

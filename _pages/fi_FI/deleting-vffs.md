@@ -1,5 +1,5 @@
 ---
-title: "VFF:ien poistaminen"
+title: "RiiConnect24 Clear Tool"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -9,40 +9,25 @@ Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiCon
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-Jos saat jonkin näistä virheistä (etkä mitään muuta virhettä), sinun pitäisi pystyä korjaamaan kanava poistamalla VFF:si.
+RiiConnect24 Clear Tool is a homebrew application that can fix these specific errors and issues:
 
 + Lopetettu-viesti
 + NEWS/FORE000001
 + NEWS/FORE000003
 + NEWS/FORE000005
 + NEWS/FORE000099
++ NEWS000006
++ Clears out Wii mailboxes in case they are full (this can fix Wii Mail)
 
 #### Mitä tarvitset
 * SD-kortti tai USB-asema
-* [WiiXplorer](https://sourceforge.net/projects/wiixplorer/files/latest/download)
-
-#### Poistettava kansio
-
-+ Forecast Channel
-  + 48414645
-  + 4841464a
-  + 48414650
-
-+ News Channel
-  + 48414745
-  + 4841474a
-  + 48414750
+* [RiiConnect24 Clear Tool](https://oscwii.org/library/app/RC24-Clear-Tool)
 
 #### Ohjeet
 
-1. Käynnistä WiiXplorer.
-2. Mene `Start` -> `Settings` -> `Boot Settings` -> `Enable NAND write access` ja sitten valitse `Yes` molemmissa dialogeissa, jotka ilmestyvät näytölle.
-3. Press Back until you have reached the file explorer screen.
-4. Valitse pieni sininen SD-kortin kuvake, sitten valitse `NAND`.
-5. Navigoi `title` -> `00010002` -> XXXXXXXX -> `data`, jossa XXXXXXXX on yksi ylläolevista kansioista.
-6. Vie kursori tiedoston `wc24dl.vff` päälle, paina + nappia ja valitse `Delete`.
-
-Kokeile nyt käynnistää se kanava, jonka kanssa sinulla oli ongelmia.
+1. Extract RiiConnect24 Clear Tool and put it in the `apps` folder on your SD card or USB drive.
+2. Insert your SD card or USB drive into your Wii, and launch RiiConnect24 Clear Tool from the Homebrew Channel.
+3. The app will help you resolve whatever problem you are having.
 
 [Palaa RiiConnect24:n asennussivulle](riiconnect24)
 {: .notice--info}

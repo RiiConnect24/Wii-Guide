@@ -4,23 +4,20 @@ title: "RiiConnect24"
 
 {% include toc title="Table des matières" %}
 
-Si vous avez besoin d'aide pour quoi que ce soit concernant ce didacticiel, veuillez rejoindre [ le serveur RiiConnect24 Discord ](https://discord.gg/rc24) (recommandé) ou \[ envoyez-nous un e-mail à support@riiconnect24.net \](mailto: support @ riiconnect24 .net).
+If you need help with anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
 [RiiConnect24](https://rc24.xyz/) vous permet d'utiliser les services interrompus de WiiConnect24, qui incluent la Chaîne Infos, la Chaîne Météo, la Chaîne Votes, la Chaîne Nintendo et la Chaîne Concours Mii, ainsi que Wii Mail.
 
-Le Patcher Unix est enfin disponible! Cela signifie que les utilisateurs de macOS et de tous les types de distributions Linux peuvent utiliser nativement le RiiConnect24 Patcher.
-{: .notice--info}
-
 {% capture notice-1 %}
-Ce guide est pour la Wii originale uniquement.
+This guide is for the original Wii only.
 
-- Suivez [ce tutoriel](riiconnect24-vwii) si vous souhaitez installer RiiConnect24 sur une vWii (le mode Wii de votre Wii U).
-- Suivez [ce tutoriel](riiconnect24-dolphin) si vous souhaitez installer RiiConnect24 sur émulateur Dolphin.
+- Follow [this tutorial](riiconnect24-vwii) if you'd like to install RiiConnect24 on vWii (Wii Mode on Wii U).
+- Follow [this tutorial](riiconnect24-dolphin) if you'd like to install RiiConnect24 on Dolphin Emulator.
 
-Il n'y a pas de guide pour installer RiiConnect24 sur une Wii Mini, car la tentative d'installer RiiConnect24 sur une Wii Mini entraînera un brick de la console.
+There is no guide to installing RiiConnect24 on a Wii Mini. Attempting to install RiiConnect24 on a Wii Mini will result in a console brick.
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
@@ -30,56 +27,55 @@ Il n'y a pas de guide pour installer RiiConnect24 sur une Wii Mini, car la tenta
 * Une carte SD ou un périphérique USB
 * Une Wii avec une connexion Internet
 * Un ordinateur
-* [RiiConnect24 Patcher (Windows et Unix)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
-
-Si vous ne pouvez toujours pas exécuter RiiConnect24 Patcher, veuillez nous envoyer un e-mail à support@riiconnect24.net
-{: .notice--info}
+* [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### Instructions
 
-##### Section I - Télécharger RiiConnect24 Patcher
+##### Section I - Using RiiConnect24 Patcher
+
+If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
+{: .notice--info}
 
 1. Cliquez sur le lien ci-dessus pour accéder à la page GitHub où se trouve le patcher.
 2. Téléchargez `RiiConnect24Patcher.bat` si vous êtes sous Windows, et `RiiConnect24Patcher.sh` si vous êtes sur un système Unix
+3. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open Terminal and type `bash`, then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this: `bash RiiConnect24Patcher.sh`.
+4. Appuyez sur 1 pour choisir "`Start`" et confirmez votre sélection en appuyant sur `ENTER`. (NOTE: These screenshots are from the Windows version of the patcher.) ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
+5. Select the device you're patching for. ![Select your device](/images/RC24_Patcher/2.JPG)
+6. For this guide, choose "`Install RiiConnect24 on your Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
+7. Choose "`Express (Recommended)`". It will give you everything you need. ![Express Settings](/images/RC24_Patcher/4.JPG)
+8. Select your region. ![Select your region](/images/RC24_Patcher/5.JPG)
+9. While you're at it, RiiConnect24 Patcher can additionally download some other optional channels that do not use RiiConnect24. `[X]` represents the options that selected. Just press 5 and `ENTER` if you're not interested. ![Additional optional channels](/images/RC24_Patcher/6.JPG)
+10. Connect your SD Card or USB Drive to your computer and select "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
+11. Si votre périphérique est correctement détecté, sélectionnez "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Drive and try again. ![Successfully detected](/images/RC24_Patcher/8.JPG)
+12. Be patient... ![It's patching!](/images/RC24_Patcher/9.JPG)
+13. After it's done, we would appreciate if you take a minute to send anonymous feedback to us.  If you don't want to, close the patcher. All the files should already be on your SD Card. ![C'est terminé !](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
+14. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
 
-##### Section II - Patcher l'IOS
+##### Section II - Installing WADs
 
-[Si vous souhaitez voir des instructions détaillées sur la façon d'installer les WAD, cliquez ici!](wiimodlite)
-{: .notice--info}
+You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
-1. Sur Windows exécutez `RiiConnect24Patcher.bat`. Cela devrait ressembler à ceci `bash RiiConnect24Patcher.sh`. Sur les systèmes Unix, ouvrez le terminal et tapez `bash`, puis faites glisser `RiiConnect24Patcher.sh` dans le terminal et appuyez sur Entrée.
-2. Tapez 1 pour choisir "`Démarrer`" et confirmez votre sélection en appuyant sur `Entrée`. ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
-3. Sélectionnez l'appareil pour lequel vous appliquez le patch. ![Select your device](/images/RC24_Patcher/2.JPG)
-4. Pour ce guide, choisissez "`Installer RiiConnect24 sur votre Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
-5. Choisissez "`Express (Recommendé)`". Cela vous procurera tout ce dont vous aurez besoin. ![Express Settings](/images/RC24_Patcher/4.JPG)
-6. Sélectionnez votre région. ![Select your region](/images/RC24_Patcher/5.JPG)
-7. Pendant que nous y sommes, le patcher RiiConnect24 peut aussi télécharger d'autres chaines optionelles qui ne sont pas orientés vers RiiConnect24. `[X]` Représente l'option sélectionnée. Appuyez simplement sur 5 et `ENTRÉE` si vous n'êtes pas intéressé. ![Additional optional channels](/images/RC24_Patcher/6.JPG)
-7. Connectez votre carte SD ou votre périphérique USB à votre ordinateur et sélectionnez "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
-8. Si votre périphérique est correctement détecté, sélectionnez "`1`". Sinon, vérifiez qu'il y a un dossier nommé `apps` sur votre carte SD ou votre périphérique USB et réessayez. ![Successfully detected](/images/RC24_Patcher/8.JPG)
-9. Soyez patient... ![It's patching!](/images/RC24_Patcher/9.JPG)
-10. Après tout cela, prenez une minute pour nous envoyer vos commentaires. N’oubliez pas de joindre un message, nous les lisons tous ! C'est anonyme. Si ce n'est pas le cas, fermez le patcher. Tous les fichiers devraient déjà être sur votre carte SD. ![C'est fini!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
-11. Si tout n'a pas été copié automatiquement sur votre carte SD ou votre périphérique USB, copiez les dossiers `WAD` et `apps` à côté de `RiiConnect24Patcher.bat`, et collez-les sur votre carte SD ou votre périphérique USB.
-12. Insérer la carte SD ou le périphérique USB dans votre Wii.
-13. Lancez la Chaîne Homebrew sur votre Wii.
-14. Lancez Wii Mod Lite.
-15. À l'aide de la croix directionnelle de votre télécommande Wii, accédez à `WAD Manager`, puis accédez au dossier `wad`.
-16. Surlignez tous les WADs du dossier en appuyant sur le bouton + pour les sélectionner. Lorsqu'ils sont tous sélectionnés, appuyez deux fois sur A pour installer les WADs.
-17. Si vous obtenez une erreur indiquant qu'un titre avec une version supérieure est déjà installé (erreur -1035), revenez au menu de sélection WAD et appuyez sur - sur le WAD en surbrillance pour le désinstaller, puis réessayez de l'installer.
-18. Une fois qu'ils sont tous correctement installés, appuyez sur le bouton HOME pour revenir au Homebrew Channel.
+1. Insérer la carte SD ou le périphérique USB dans votre Wii.
+2. Lancez la Chaîne Homebrew sur votre Wii.
+3. Lancez Wii Mod Lite.
+4. À l'aide de la croix directionnelle de votre télécommande Wii, accédez à `WAD Manager`, puis accédez au dossier `wad`.
+5. Highlight all the WADs in the folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
+6. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press the - Button on the highlighted WAD to uninstall it, then try installing it again.
+7. Une fois qu'ils sont tous correctement installés, appuyez sur le bouton HOME pour revenir au Homebrew Channel.
 
 ##### Section III - Patcher nwc24msg.cfg
 
-Vous allez maintenant patcher votre fichier `nwc24msg.cfg` qui est nécessaire pour utiliser Wii Mail.
+You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
 
 1. Lancez RiiConnect24 Mail Patcher.
-2. Cela ne devrait prendre que quelques secondes pour patcher votre fichier nwc24msg.cfg. Une fois que c'est fait, appuyez sur le bouton HOME pour sortir.
+2. Cela ne devrait prendre que quelques secondes pour patcher votre fichier nwc24msg.cfg. When it's done, press the HOME Button to exit.
 
-Si vous n'avez pas pu patcher votre fichier nwc24msg.cfg correctement, envoyez-nous un e-mail à [support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you were unable to patch your nwc24msg.cfg correctly, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
 {: .notice--info}
 
 ##### Section IV - Se connecter
 
-Dans cette section, vous allez paramétrer vos DNS sur notre serveur. C'est facultatif mais recommandé, car cela améliore l'utilisation de RiiConnect24 et Wiimmfi en rendant certaines autres fonctionnalités disponibles.
+You will now set your DNS to our servers. This is optional but it's recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
 
 1. Allez dans les `Options Wii`.
 2. Allez dans `Paramètres Wii`.
@@ -102,25 +98,22 @@ Dans cette section, vous allez paramétrer vos DNS sur notre serveur. C'est facu
 [Continuer vers Wiimmfi](wiimmfi)<br> Wiimmfi vous permet de jouer à des jeux en ligne après l'arrêt de la connexion Wi-Fi Nintendo. L'installation est facultative.
 {: .notice--info}
 
-[Continuez vers WiiLink](wiilink)<br> WiiLink vous permet d'utiliser les chaînes exclusives au Japon de Wii Room et Digicam Print Channel. L'installation est facultative.
+[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. L'installation est facultative.
 {: .notice--info}
 
-Si vous obtenez l'erreur 107245, vous n'avez probablement pas réussi à patcher correctement votre IOS.
+If you get error 107245, then you have failed to patch your IOS correctly.
 {: .notice--info}
 
-Si vous obtenez l'erreur 107304, votre FAI bloque peut-être l'utilisation du DNS personnalisé. Une solution de contournement peut être d'exécuter votre propre serveur DNS! Consultez [RiiConnect24 DNS Server sur GitHub ](https://github.com/RiiConnect24/DNS-Server), puis utilisez l'adresse IP de votre PC à la place de notre DNS à l'étape 8.
+If you get error 107304, then you cannot use our DNS. This will not affect your ability to use RiiConnect24. In this case, set Auto-obtain DNS to Yes.
 {: .notice--info}
 
 Si vous obtenez une erreur FORE000006, l'horloge de votre Wii est probablement mal réglée. Réglez-la à la date et à l'heure correctes, attendez moins d'une heure et la chaîne Météo devrait commencer à fonctionner.
 {: .notice--warning}
 
-[Si vous obtenez l'erreur NEWS000006, suivre ce tutoriel devrait la corriger.](news000006)
+[If you're experiencing issues with the Forecast Channel, News Channel, or Wii Mail then following this tutorial might fix your problem.](deleting-vffs)
 {: .notice--warning}
 
-Si vous obtenez des erreurs telles que `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, veuillez accéder aux paramètres Wii -> Dernière page -> Pays et changez-le en Royaume-Uni. Vous obtiendrez cette erreur lors de l'utilisation d'un pays que nous ne prenons pas en charge. Contactez-nous à [support@riiconnect24.net](mailto:support@riiconnect24.net) si vous avez besoin d'aide.
-{: .notice--warning}
-
-[Si vous recevez un message interrompu lors de l'ouverture de la Chaîne Infos ou de la Chaîne Météo, suivre ce tutoriel devrait résoudre le problème.](deleting-vffs)
+If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
 {: .notice--warning}
 
 [Continuer vers la navigation du site](site-navigation)<br> Nous avons de nombreux autres tutoriels que vous pourriez aimer.

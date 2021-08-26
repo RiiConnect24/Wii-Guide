@@ -5,7 +5,10 @@ title: "오픈 쇼핑 채널 (Homebrew Browser)"
 튜토리얼에 관한 질문이 있다면, [오픈 쇼핑 채널](https://discord.gg/osc) 에 가입하거나(권장) [support@riiconnect24.net에 이메일을 보내세요](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-[Open Shop Channel](https://oscwii.org/)은 홈브루 앱을 받을 수 있는 곳입니다. 홈브루 브라우저의 부활 프로젝트입니다.
+Homebrew Browser, which is what the Open Shop Channel is based off on, does work but it can be buggy. You can also get homebrew using [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) and from the [Open Shop Channel website](https://oscwii.org/).
+{: .notice--info}
+
+The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
 
 #### 필요한 것
 * SD 카드 및 USB 드라이브
@@ -22,8 +25,8 @@ title: "오픈 쇼핑 채널 (Homebrew Browser)"
 [사이트 네비게이션으로 계속하기](site-navigation)<br>당신이 좋아할만한 많은 튜토리얼이 있습니다.
 {: .notice--info}
 
-Homebrew Browser에 포함된 파일은 홈브루 브라우저의 사용법을 다루고 있습니다.
+Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
 {: .notice--info}
 
-`/apps/homebrew_browser/`의 ShopChannel.ogg을 loop.ogg로 바꾸면 Homebrew Browser가 Wii 쇼핑 채널 음악을 재생합니다.
+You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
 {: .notice--info}

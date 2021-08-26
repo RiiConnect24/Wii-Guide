@@ -5,20 +5,20 @@ title: "שאלות נפוצות"
 ![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
 
 ### כמה מסוכן לפרוץ את הקונסולה שלי?
-כשלים (ידועים כ Bricks) (מצב שבו חלקים מהתוכנה של הקונסולה לא מתפקדים כראוי, או שהקונסולה לא עובדת כלל) הם כעת *כמעט* בלתי אפשריים על עוד לא התעלמת מבדיקות הבטיחות בהוראות.
+Bricks (a state where either some parts of your Wii software are not working, or your Wii is not working at all) are extremely rare unless you ignore/circumvent all safety checks, or do something risky or naive like installing an older version of the Wii Menu. Make sure you install [BootMii](bootmii) and [Priiloader](priiloader) to protect yourself from bricks!
 
 ### לאן כדאי לי לפנות בשביל תמיכה טכנית?
-Either email us at support@riiconnect24.net or join the [RiiConnect24 Discord Server](https://discord.gg/rc24).
+You can join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for assistance.
 
 ### מהן ההמלצות והדרישות לכרטיס SD?
 נדרש כרטיס SD עם לפחות 128GB כדי לנצל פרצה.
 
-- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card
+- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card.
 
 To store homebrew applications, we recommend an SD card with at least 2 GB.
 
-### קיבלתי שגיאה XXXXXX כשהשתמשתי ב Wiimmfi, איך אפשר לתקן אותה?
-כדי לבדוק מה קוד השגיאה אומר, יש לבקר באתר [השגיאות של Wiimmfi](https://wiimmfi.de/error).
+### I got error code XXXXXX in Wiimmfi, how to fix it?
+In order to check what the reason for the error is, please visit the [Wiimmfi error page](https://wiimmfi.de/error).
 
 ### מה הן המגבלות בפריצת vWii?
 זו רשימה של דברים שיכולות **לגרם לכשל** ב vWii (אל תעשו דברים כאלו!):

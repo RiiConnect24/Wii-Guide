@@ -65,7 +65,7 @@ RiiTag는 돌핀, 시트라, Cemu를 지원합니다. 사용하기 위해선 Dis
 {: .notice--info}
 
 1. 아직 있지 않다면 [RiiConnect24 디스코드 서버에 가입](https://discord.gg/rc24)하세요.
-2. Make sure you turn on Discord rich presence in the emulator preferences.
+2. 에뮬레이터 설정에서 Discord 고급 상태를 켰는지 확인하세요.
 3. 디스코드 클라이언트가 열린 것을 확인하세요.
 4. 게임을 플레이하면 RiiTag는 자동으로 태그를 업데이트합니다.
 
@@ -84,19 +84,19 @@ RiiTag는 돌핀, 시트라, Cemu를 지원합니다. 사용하기 위해선 Dis
 5. 수정된 `config.txt` 파일을 저장하세요.
 6. 이제 RiiTag가 설정되었습니다. 이제 올바르게 작동하는지 아무 게임이나 실행해서 확인할 수 있습니다.
 
-#### RiiTag Channel
+#### RiiTag 채널
 
-We have a RiiTag channel you can install on your Wii. When it is launched, it will open up the Internet Channel and show your RiiTag, making it easy to look at it when using your Wii.
+Wii에 설치할 수 있는 RiiTag 채널이 있습니다. 실행되면, Internet Channel (대한민국 미발매)이 실행되며 RiiTag를 보여줍니다. 이는 Wii를 사용할 때 보기 쉽게 합니다.
 {: .notice--info}
 
-1. Log into RiiTag and go to your tag page.
-2. Click `Download Forwarder WAD`.
-3. Put the WAD on your SD Card or USB device.
-4. Install the WAD with your favorite WAD manager ([Wii Mod Lite](wiimodlite) is recommended).
-5. Make sure the Internet Channel is installed.
-6. The RiiTag Channel should now be available to use on your Wii Menu.
+1. RiiTag로 로그인하고 태그 페이지를 방문하세요.
+2. `Download Forwarder WAD`를 누르세요.
+3. WAD를 SD 카드 및 USB 드라이브에 붙여넣으세요.
+4. WAD를 좋아하는 WAD 관리자로 설치하세요 ([Wii Mod Lite](wiimodlite)가 권장됩니다).
+5. Internet Channel (대한민국 미출시)이 설치되었는지 확인하세요.
+6. RiiTag 채널은 이제 Wii 메뉴에서 사용할 수 있습니다.
 
-[Check out RiiTag-RPC](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br> Now that you set up RiiTag, you can set up RiiTag-RPC to show your friends what you're playing on the Wii using Discord's rich presence.
+[RiiTag-RPC 확인하기](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br> 이제 RiiTag를 설정했다면, Discord의 Rich Presence를 이용하는 RiiTag-RPC로 친구에게 무얼 플레이하고 있는지 보여줄 수 있습니다.
 {: .notice--info}
 
 [사이트 네비게이션으로 계속하기](site-navigation)<br>당신이 좋아할만한 많은 튜토리얼이 있습니다.

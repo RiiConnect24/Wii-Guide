@@ -7,28 +7,28 @@ title: "Crearea Scurtăturilor de Jocuri Wii"
 Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Do you use a USB Loader and want to create game shortcuts to launch them on your Wii Menu? Then try WiiGSC (Wii Game Shortcut Creator), previously known as Crap.
+Folosești un USB Loader și vrei să creezi scurtături de jocuri pentru a le rula de pe Meniul Wii? Atunci încearcă WiiGSC (Wii Game Shortcut Creator), știut înainte cu numele Crap.
 
-In the case of a brick, [installing Priiloader is a must](/priiloader). Also, install BootMii (as Boot2 if you have an early Wii). Installing brick protection along with following the guide correctly should keep you safe from bricks. DO NOT CONTINUE UNTIL YOU HAVE INSTALLED PRIILOADER AND BOOTMII!
+În cazul unui brick, [instalarea Priiloader este extrem de importantă](/priiloader). De asemenea, instalează BootMii (ca Boot2 dacă ai un build vechi de Wii). Instalarea protecției anti-brick împreună cu urmărirea corectă a ghidului ar trebui să te țină protejat de brick-uri. NU CONTINUA PÂNĂ AI INSTALAT PRIILOADER ȘI BOOTMII!
 {: .notice--warning}
 
-Do NOT make a shortcut for the games "Mario Party 9" or "A Boy and His Blob". It will brick your Wii.
+NU face scurtături pentru jocurile "Mario Party 9" sau "A Boy and His Blob". O să-ți brick-uiască Wii-ul.
 {: .notice--warning}
 
 #### De ce ai nevoie
 
-* A Wii
-* A USB drive.
-* A WAD Manager (Wii Mod Lite is recommended).
-* A Windows computer.
+* Un Wii
+* O unitate USB.
+* Un Manager WAD (Wii Mod Lite este recomandat).
+* Un calculator Windows.
 * [WiiGSC](https://wiidatabase.de/downloads/pc-tools/wiigsc-ehemals-crap/)
 
 #### Instrucțiuni
 
-1. Install WiiGSC, then right click on it and choose **Run as administrator**. If you do not do this, WiiGSC will throw an error when you open it.
-2. Select the path to the ISO or WBFS file on your USB drive, and select the USB Loader you use. The other options should be fine the way thy are.
-3. If you're using USB Loader GX, make sure to use [this version](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip).
-4. Install the generated WAD with a WAD Manager, we recommend Wii Mod Lite.
+1. Instalează WiiGSC, apoi apasă click dreapta pe el și alege **Executare ca administrator**. Dacă nu faci asta, WiiGSC va da o eroare când îl deschizi.
+2. Selectează calea către fișierul ISO sau WBFS pe Unitatea ta USB, și selectează USB Loader-ul pe care îl folosești. Celelalte opțiuni ar trebui să fie bine așa cum sunt.
+3. Dacă folosești USB Loader GX, asigură-te că folosești [această versiune](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip).
+4. Instalează WAD-ul generat cu un Manager WAD, recomandăm Wii Mod Lite.
 
-If you get an error saying "The system files are corrupted", don't panic as long as you installed Priiloader. Turn off your Wii, then hold down the RESET button down and turn on your Wii. You should be able to boot into the Priiloader menu, where you have some options to fix your Wii Menu. One of the options is to launch the Homebrew Channel.
+Dacă primești o eroare spunând "The system files are corrupted", nu te panica cât timp ai instalat Priiloader. Închide-ți Wii-ul, apoi ține butonul RESET apăsat și pornește-ți consola. Ar trebui să te boot-ezi în meniul Priiloader, unde ai câteva opțiuni pentru a-ți repara Meniul Wii. Una dintre opțiuni este să lansezi Homebrew Channel.
 {: .notice--info}

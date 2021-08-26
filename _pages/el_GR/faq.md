@@ -5,20 +5,20 @@ title: "Συχνές ερωτήσεις"
 ![RiiConnect24 κίτρινο εικονίδιο Wii](/images/Wii_Yellow_Gray.jpg)
 
 ### Πόσο επικίνδυνο είναι να χακάρω την κονσόλα μου;
-Τα Bricks (κατάσταση όπου είτε κάποια μέρη είτε ολόκληρο το Wii σας δεν λειτουργεί) είναι *ουσιαστικά* αδύνατο να συμβούν αν ακολουθήσετε σωστά όλες τις διαδικασίες ασφαλείας.
+Bricks (a state where either some parts of your Wii software are not working, or your Wii is not working at all) are extremely rare unless you ignore/circumvent all safety checks, or do something risky or naive like installing an older version of the Wii Menu. Make sure you install [BootMii](bootmii) and [Priiloader](priiloader) to protect yourself from bricks!
 
 ### Που μπορώ να πάω για υποστήριξη;
-Either email us at support@riiconnect24.net or join the [RiiConnect24 Discord Server](https://discord.gg/rc24).
+You can join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for assistance.
 
 ### Ποιές είναι οι απαιτήσεις κάρτας SD και/ή προτάσεις;
 Θα χρειαστείτε μία κάρτα SD με τουλάχιστον 128ΜΒ για να τρέξετε μία εκμετάλλευση.
 
-- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card
+- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card.
 
 Για αποθήκευση εγαρμογών homebrew, συνιστάμε μια κάρτα SD με τουλάχιστον 2 GB.
 
-### Πήρα ένα σφάλμα XXXXXX στον Wiimmfi, πώς το διορθώνω;
-Για να ελέγξετε τι σφάλμα είναι, παρακαλούμε επισκεφτείτε την [Ιστοσελίδα σφαλμάτων Wiimmfi](https://wiimmfi.de/error).
+### I got error code XXXXXX in Wiimmfi, how to fix it?
+In order to check what the reason for the error is, please visit the [Wiimmfi error page](https://wiimmfi.de/error).
 
 ### Ποιοί είναι οι περιορισμοί στο vWii modding;
 Η παρακάτω λίστα απαριθμεί μερικές καταστάσεις που ενδέχετε να κάνουν **BRICK** το vWii σας (μην κάνετε τίποτα από αυτά!):
