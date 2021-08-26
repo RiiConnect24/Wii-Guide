@@ -40,7 +40,7 @@ Asigură-te că unitatea USB este formatată ca FAT32 sau NTFS. Nu-l formata ca 
 
 ##### Opțiuni după finalizare
 
-[Continue to cIOS](cios)<br> cIOS is needed for your Wii to use a USB Loader.
+[Continuă la cIOS](cios)<br> cIOS este necesar pentru ca Wii-ul tău să folosească un USB Loader.
 {: .notice--info}
 
 [Continuă la USB Loader GX](usbloadergx) USB Loader GX este un USB Loader pe care îl poți folosi pentru a juca jocuri pe Wii dintr-o unitate USB.
@@ -49,5 +49,5 @@ Asigură-te că unitatea USB este formatată ca FAT32 sau NTFS. Nu-l formata ca 
 [Continuă la WiiFlow](wiiflow) WiiFlow este un USB Loader pe care îl poți folosi pentru a juca jocuri pe Wii dintr-o unitate USB sau un card SD.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continuă la navigarea site-ului](site-navigation)<br> Avem multe alte tutoriale care s-ar putea să-ți placă.
 {: .notice--info}
