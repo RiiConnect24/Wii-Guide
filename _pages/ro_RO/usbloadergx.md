@@ -87,5 +87,5 @@ Există de asemenea și alte butoane:
 
 ##### Opțiuni după finalizare
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continuă la navigarea site-ului](site-navigation)<br> Avem multe alte tutoriale care s-ar putea să-ți placă.
 {: .notice--info}
