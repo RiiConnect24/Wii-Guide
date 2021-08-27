@@ -8,7 +8,7 @@ Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te
 Homebrew Browser, pe care se bazează Open Shop Channel, funcționează dar poate fi defect. Poți de asemenea să faci rost de homebrew folosind [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) și din [website-ul Open Shop Channel](https://oscwii.org/).
 {: .notice--info}
 
-[Open Shop Channel-ul](https://oscwii.org/) este unde poți să te duci să faci rost de aplicații homebrew. Este un proiect de reînviere pentru o aplicație numită Homebrew Browser.
+[Open Shop Channel](https://oscwii.org/) este unde poți să te duci să faci rost de aplicații homebrew. Este un proiect de reînviere pentru o aplicație numită Homebrew Browser.
 
 #### De ce ai nevoie
 * Un card SD sau o unitate USB
