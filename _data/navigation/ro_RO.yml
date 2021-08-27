@@ -5,13 +5,13 @@ main:
     url: /
   - 
     title: Începe aici
-    url: să începem
+    url: get-started
   - 
     title: Navigare Site
-    url: navigare-site
+    url: site-navigation
   - 
     title: Întrebări frecvente
-    url: întrebări frecvente
+    url: faq
   - 
     title: RiiConnect24
     url: riiconnect24
@@ -27,10 +27,10 @@ footer:
     url: https://github.com/RiiConnect24/Wii-Guide/
   - 
     title: Navigare Site
-    url: navigare-site
+    url: site-navigation
   - 
     title: Donații
-    url: donații
+    url: donations
 sidebar_title:
   - 
     title: Progres total
@@ -40,13 +40,13 @@ sidebar_pages:
     url: /
   - 
     title: Întrebări frecvente
-    url: întrebări frecvente
+    url: faq
   - 
     title: Donații
-    url: donații
+    url: donations
   - 
     title: Credite
-    url: credite
+    url: credits
   - 
     title: RiiConnect24
     url: riiconnect24
