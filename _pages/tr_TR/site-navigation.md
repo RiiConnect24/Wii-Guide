@@ -10,7 +10,7 @@ sitemap: false
 **Featured**
 
 + [cIOS](cios)
-+ [RiiConnect24](riiConnect24)
++ [RiiConnect24](riiconnect24)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 + [Kirby TV Channel](kirby-tv)
@@ -19,13 +19,13 @@ sitemap: false
 
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
-+ [RiiConnect24](riiConnect24)
++ [RiiConnect24](riiconnect24)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 + [Kirby TV Channel](kirby-tv)
-+ [WiiWare Patcher](wiiwarepatcher)
++ [WiiWare Yamalayıcısı](wiiwarepatcher)
 + [Deleting VFFs](deleting-vffs)
 + [Fixing FORE000006](riiconnect24-batteryfix)
 + [Fixing NEWS000006](news000006)
