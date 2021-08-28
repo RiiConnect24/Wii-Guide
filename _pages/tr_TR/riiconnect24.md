@@ -107,7 +107,7 @@ If you get error 107245, then you have failed to patch your IOS correctly.
 If you get error 107304, then you cannot use our DNS. This will not affect your ability to use RiiConnect24. In this case, set Auto-obtain DNS to Yes.
 {: .notice--info}
 
-If you get error FORE000006, your Wii's clock is probably set incorrectly. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel should start working.
+FORE000006 hata kodunu aldıysanız, muhtemelen Wii'nizin saati yanlış ayarlıdır. Zamanı ve tarihi doğru ayarladıktan sonra en fazla bir saat sonra Forecast Channel'ın çalışmaya başlamış olması gerekir.
 {: .notice--warning}
 
 [If you're experiencing issues with the Forecast Channel, News Channel, or Wii Mail then following this tutorial might fix your problem.](deleting-vffs)
