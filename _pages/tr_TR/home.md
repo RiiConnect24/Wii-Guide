@@ -1,30 +1,30 @@
 ---
 layout: splash
-title: "Wii rehberi"
+title: "Wii Rehberi"
 header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: "The complete guide to modding your Nintendo Wii."
+excerpt: "Nintendo Wii'nizi modlamanız için eksiksiz hazırlanmış rehber."
 ---
 
-The guide is also available in other languages! To change the language, please press the icon at top right and change your language.
+Bu rehber diğer dillerde de mevcuttur! Dili değiştirmek için sağ üstte bulunan simgeye tıklayarak dilinizi değiştirin.
 {: .notice--info}
 
-## What is "homebrew"?
+## "Homebrew" nedir?
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to software not authorized by Nintendo. This can include games, utilities, emulators and much more!
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) Nintendo tarafından izin almayan yazılım anlamına gelir. Bu oyunları, araçları, emulatörleri ve çok daha fazlasını içerir!
 
-Running homebrew on your Nintendo Wii can be done for free by exploiting bugs in Wii's software. The modifications installed by following this guide will give you easy and persistent access to Wii homebrew.
+Nintendo Wii’de homebrew çalıştırmak Wii’nin yazılımındaki açıklar sayesinde ücretsiz gerçekleştirilebilmektedir. Bu rehberi takip ederek yapacağınız modlama Wii homebrew’una kolayca ve kalıcı olarak erişebilmenizi sağlayacak.
 
-## What can I do with homebrew?
+## Homebrew ile ne yapabilirim?
 
-Here's a list of things you can do using homebrew. While this list is by no means totally comprehensive, you should have a good idea of what is possible, and the guide will help you easily get started.
+Homebrew’u kullanarak yapabileceklerinizin bir listesi aşağıda bulunmaktadır. Bu liste kapsayıcı olmamakla birlikte sizi muhtemel şeyler hakkında bir fikir verecek ve bu rehber bunlara kolaylıkla başlamanızı sağlayacak.
 
-- Patch game disc contents (allowing you to load game modifications) using [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
-- Install themes to your Wii Menu using [MyMenuify](themes).
-- Install a USB Loader like [WiiFlow](wiiflow) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
+- [Riivolution’u](http://www.wiibrew.org/wiki/Riivolution) kullanarak disk içeriklerini yamalayabilirsiniz (oyun modlamanıza olanak sağlar).
+- [MyMenuify](themes) kullanarak Wii Menü’nüze tema yükleyebilirsiniz.
+- [WiiFlow](wiiflow) ve [USB Loader GX](usbloadergx) gibi USB Çalıştırıcıları yükleyerek favori oyunlarınızı USB sürücünüzden çalıştırabileceksiniz.
 - Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](dump-wads)
 - Back up and restore your save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
 - Download new homebrew apps with the [Homebrew Browser](hbb)
@@ -34,19 +34,19 @@ Here's a list of things you can do using homebrew. While this list is by no mean
 - Turn your Wii into a media player with [WiiMC](http://www.wiimc.org/).
 
 
-## Ready?
+## Hazır mısınız?
 
-Get started by [choosing your exploit](get-started)!
+[Exploti’inizi seçerek](get-started) başlayın!
 {: .notice--info}
 
-## More Resources
+## Daha Fazla Kaynak
 
-There are also few more good resources for Wii modding and troubleshooting that can help:
+Wii’nizi modlamanıza ve karşılaşacağınız sorunlara yardımcı olabilecek birkaç iyi kaynak daha bulunmaktadır:
 
 - [ModMii](https://modmii.github.io/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
-- [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...and of course, this site
+- [Cyan tarafından Wii Hacking Explained](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...ve tabi ki bu site
 
-For modding a Wii U, follow this guide:
-- [NH Wii U Guide](https://wiiu.hacks.guide)
+Wii U’yu modlamak için bu rehbere bakın:
+- [NH Wii U Rehberi](https://wiiu.hacks.guide)
