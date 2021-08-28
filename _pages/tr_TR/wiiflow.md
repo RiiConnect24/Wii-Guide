@@ -56,36 +56,36 @@ Bu WiiFlow kullanımı üzerine tam kapsamlı bir rehber değildir. Sadece size 
 
 ##### Kullanıcı Arayüzü
 
-WiiFlow oyunları algıladığında, onları akış görünümünde görebilirsiniz. Oyunun üzerine bastığınız zaman size şu seçenekler verilir:
+WiiFlow oyunları algıladığında, onları akış görünümünde görebilirsiniz. Oyunun üzerine bastığınız zaman size şu seçenekler gösterilir:
 
-* Star - Adds game to favorites.
-* Bookshelf - Adds the game to 1 of 6 categories of your choosing.
-* Gears - Opens the settings menu for the specific game. Changing settings here will only effect the game you changed the settings for.
-* X - Deletes the game from the USB drive or SD card
+* Yıldız - Oyunu favorilere ekler.
+* Kitaplık - Oyunu seçtiğiniz 6 kategoriden birine ekler.
+* Dişli - Oyuna özel ayarlar menüsünü açar. Buradaki ayarları değiştirmek sadece ayarını değiştirdiğiniz oyunu etkiler.
+* X - Oyunu USB sürücüsünden veya SD Karttan siler.
 
-When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
+Akış görünümündeyken, imleci ekranın altına getirirseniz, şu 6 simgeyi görürsünüz:
 
-* Bookshelf - View the games that are sorted in the categories you chose.
-* Star - View games you favorited.
-* Gears - Opens WiiFlow Settings.
-* Game Type - Toggles between different types of apps/games. The logo changes depending on what game type you have selected.
-* Disc - Loads game that is in disc drive.
-* House - Will open this menu. This menu can also be launched by pressing the home button.
+* Kitaplık - Seçtiğiniz kategoriye eklenen oyunları gösterir.
+* Yıldız - Favorilere eklediğiniz oyunları gösterir.
+* Dişli - WiiFlow ayarlarını açar.
+* Oyun Türü - Birbirinden farklı türdeki oyunları/uygulamalar arasında geçiş yapar. Logo seçtiğiniz oyun türüne göre değişir.
+* Disk - Disk sürücüsündeki oyunu yükler.
+* Ev - Bu menüyü açar. Ev tuşuna basılarak da bu menü açılabilir.
 
 ![WF_menu](images/WFmenu.png)
 
-* Help Guide - Shows all the controls you can use in WiiFlow.
-* Reload Cache - Press this when WiiFlow is not detecting a new game on the USB drive or SD card.
-* File Explorer - Allows you to boot games/apps from anywhere on your USB drive or SD card.
-* Select Plugins - Allows you to select plugins.
-* Credits - Shows the people who worked on WiiFlow.
-* Shutdown - Allows you to either go into full shutdown, or Standby mode.
-* Exit To - Lets you exit to Wii Menu, HBC, neek2o, Priiloader and Bootmii.
-* Settings - Will open the WiiFlow Settings menu
+* Yardım Rehberi - WiiFlow'da kullanılabilecek bütün kontrolleri gösterir.
+* Önbelleği Yenile - WiiFlow USB sürücüsü veya SD Kartta bulunan yeni eklenmiş bir oyunu algılamazsa bu tuşa basın.
+* Dosya Gezgini - USB sürücüsü veya SD Kartta bulunan herhangi bir oyunun/uygulamanın çalıştırabilmesini sağlar.
+* Eklenti Seç - Eklenti seçilebilmesini sağlar.
+* Emeği Geçenler - WiiFlow'un geliştirilmesine katkı sağlayan kişileri gösterir.
+* Kapat - Bekleme moduna geçmenizi ya da tamamen kapatmanızı sağlar.
+* Şuraya Çık - Wii Menü, HBC, neek2o, Priiloader ya da BootMii'ye çıkmanızı sağlar.
+* Ayarlar - WiiFlow Ayarlar menüsünü açar
 
-##### Options once complete
+##### Gidebileceğiniz yerler
 
-[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki is a great resource with information about WiiFlow.
+[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki, WiiFlow hakkında bilgi edinilebilecek harika bir kaynaktır.
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
