@@ -2,18 +2,18 @@
 title: "LetterBomb"
 ---
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![LetterBomb](/images/letterbomb.png)
 
 LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
 
-#### What you need
+#### İhtiyacınız olan şeyler
 - An SD card
 - A Wii on System Menu version 4.3
 
-#### Instructions
+#### Talimatlar
 
 
 1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
@@ -31,5 +31,5 @@ Ensure the date on your Wii is correct, otherwise you might be unable to find th
 
 ![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[Homebrew Channel ve BootMii Yüklemesinden devam edin](hbc)
 {: .notice--info}
