@@ -4,10 +4,10 @@ title: RiiConnect24 vWii Guide
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![RiiConnect24 Logosu](/images/WiiRC24Logo.jpg)
 
 Guide to installing [RiiConnect24](https://rc24.xyz) on your vWii (Virtual Wii on Wii U) with: CMOC/MCC, Nintendo Channel, EVC and News Channel along with forced 4:3 aspect ratio patching.
 
@@ -22,7 +22,7 @@ We are **NOT** responsible if you brick, or damage your console in any way whats
 Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on Wii U). If you're looking for instructions for a Nintendo Wii, use [wii.guide/riiconnect24](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [wii.guide/riiconnect24-dolphin](/riiconnect24-dolphin)
 {: .notice--warning}
 
-#### What you need
+#### İhtiyacınız olan şeyler
 
 * A PC or mobile device with internet access and the ability to interact with SD cards.
 * An SD card formatted as FAT32 (at least 2GB) with enough available space. SDHC or SDXC cards formatted as FAT32 can be known to work.
@@ -36,7 +36,7 @@ After following the above linked guide, you should have:
 * IOS80 patched
 {: .notice--info}
 
-#### Instructions
+#### Talimatlar
 
 If you use cannot use the patcher, please [follow the manual guide](https://pad.snopyta.org/s/rJ2N0B1XU), to install RiiConnect24. The end result is the same regardless of the method followed.
 {: .notice--info}
