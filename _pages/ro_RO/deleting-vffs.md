@@ -17,7 +17,7 @@ RiiConnect24 Clear Tool este o aplicație homebrew care poate rezolva aceste ero
 + NEWS/FORE000005
 + NEWS/FORE000099
 + NEWS000006
-+ Curăță cutia poștală Wii în caz că sunt pline (asta poate repara Wii Mail)
++ Curăță cutiile poștale Wii în caz că sunt pline (asta poate repara Wii Mail)
 
 #### De ce ai nevoie
 * Un card SD sau o unitate USB
