@@ -7,7 +7,7 @@ title: "RiiConnect24"
 If you need help with anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![RiiConnect24 Logosu](/images/WiiRC24Logo.jpg)
 
 [RiiConnect24](https://rc24.xyz/) allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail.
 
@@ -22,14 +22,14 @@ There is no guide to installing RiiConnect24 on a Wii Mini. Attempting to instal
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-#### What you need
+#### İhtiyacınız olan şeyler
 
-* An SD card or USB drive
-* A Wii with an Internet connection
+* SD Kart veya USB sürücü
+* İnternet bağlantısına sahip bir Wii
 * A computer
 * [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-#### Instructions
+#### Talimatlar
 
 ##### Section I - Using RiiConnect24 Patcher
 
@@ -116,5 +116,5 @@ FORE000006 hata kodunu aldıysanız, muhtemelen Wii'nizin saati yanlış ayarlı
 If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
 {: .notice--warning}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Site haritasından devam edin](site-navigation)<br> Sevebileceğiniz pek çok öğreticiye daha sahibiz.
 {: .notice--info}
