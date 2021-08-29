@@ -9,14 +9,14 @@ WiiLink and all of its services (such as Wii no Ma) are not controlled or operat
 
 [WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels Wii Room and Digicam Print Channel, and in the future will let you use the Demae Channel again.
 
-#### What you need
+#### İhtiyacınız olan şeyler
 
-* An SD card or USB drive
-* A Wii with an Internet connection
+* SD Kart veya USB sürücü
+* İnternet bağlantısına sahip bir Wii
 * A Windows or Unix based computer
 * [WiiLink Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
-#### Instructions
+#### Talimatlar
 
 ##### Section I - Patching WADs
 
@@ -60,5 +60,5 @@ For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (4
 [Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Site haritasından devam edin](site-navigation)<br> Sevebileceğiniz pek çok öğreticiye daha sahibiz.
 {: .notice--info}
