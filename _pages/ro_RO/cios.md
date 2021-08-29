@@ -90,7 +90,7 @@ O lista mai vastă (deși incompoletă) poate fi găsita [**aici**](https://wiki
 </div>
 ##### Opțiuni după finalizare
 
-[Continuă la Navigatorul de Homebrew](hbb)<br> Navigatorul de Homebrew este un loc bun de unde să-ți iei homebrew pe Wii. Acesta este opțional de instalat.
+[Continuă la Homebrew Browser](hbb)<br> Homebrew Browser este un loc bun de unde să-ți faci rost de homebrew pe Wii. Acesta este opțional de instalat.
 {: .notice--info}
 
 [Continuă la navigarea site-ului](site-navigation)<br> Avem multe alte tutoriale care s-ar putea să-ți placă.
