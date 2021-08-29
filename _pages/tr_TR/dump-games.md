@@ -1,19 +1,19 @@
 ---
-title: "Dumping Wii/GameCube games"
+title: "Wii/GameCube oyunlarının dökümünü alma"
 ---
 
-Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
+GameCube veya Wii diskinin dökümünü mü almak istiyorsunuz? Kullanabileceğiniz araca bağlı olarak bunun iki yoku bulunmaktadır.
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">To a PC over the network</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">SD Karta/USB sürücüsüne</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">Ağ üzerinden bilgisayara</button>
 
 {% capture cleanripInstructions %}
-### Cleanrip guide
+### Cleanrip rehberi
 {% include_relative cleanrip.md %}
 {% endcapture %}
 
 {% capture networkInstructions %}
-### Dumping a game over a local network
+### Yerel ağ üzerinden oyunun dökümünü alma
 {% include_relative dump-smb.md %}
 {% endcapture %}
 
