@@ -25,13 +25,13 @@ Homebrew’u kullanarak yapabileceklerinizin bir listesi aşağıda bulunmaktad�
 - [Riivolution’u](http://www.wiibrew.org/wiki/Riivolution) kullanarak disk içeriklerini yamalayabilirsiniz (oyun modlamanıza olanak sağlar).
 - [MyMenuify](themes) kullanarak Wii Menü’nüze tema yükleyebilirsiniz.
 - [WiiFlow](wiiflow) ve [USB Loader GX](usbloadergx) gibi USB Çalıştırıcıları yükleyerek favori oyunlarınızı USB sürücünüzden çalıştırabileceksiniz.
-- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](dump-wads)
-- Back up and restore your save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
-- Download new homebrew apps with the [Homebrew Browser](hbb)
-- Restore discontinued online services, such as [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
-- Backup and restore copies of your Wii system memory (NAND) using [BootMii](bootmii).
-- Protect your Wii from bricks using [Priiloader](priiloader) and BootMii.
-- Turn your Wii into a media player with [WiiMC](http://www.wiimc.org/).
+- Disklerinizi [CleanRip](/dump-games), yüklü oyunlar veya diğer programlarınızı ise [YABDM](dump-wads) kullanarak yedekleyebilirsiniz.
+- [SaveGameManager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/) kullanarak kayıt dosyalarınızı yedekleyebilir veya geri getirebilirsiniz.
+- [Homebrew Browser](hbb) ile yeni homebrew uygulamaları indirebilirsiniz
+- [WiiConnect24](riiconnect24)&[Nintendo WFC hizmetleri](wiimmfi) gibi çevrimiçi servisleri geri getirebilirsiniz.
+- [BootMii](bootmii) ile Wii sistem hafızanızı (NAND) yedekleyebilir veya geri getirebilirsiniz.
+- [Priiloader](priiloader) ve BootMii kullanarak Wii’nizi brick modundan koruyabilirsiniz.
+- [WiiMC](http://www.wiimc.org/) kullanarak Wii’nizi medya oynatıcıya çevirebilirsiniz.
 
 
 ## Hazır mısınız?
