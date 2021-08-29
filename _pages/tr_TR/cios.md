@@ -4,68 +4,68 @@ title: "cIOS"
 
 {% include toc title="Table of Contents" %}
 
-This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
+Bu rehber size nasıl cIOS (özel IOS) yükleyeceğinizi gösterecek. Eğer bir USB Yükleyici üzerinden oyun oynamak istiyorsanız bu gereklidir. Ayrıca bazı homebrew uygulamaları cIOS kullanılarak daha iyi çalışır.
 
-![d2x cIOS Installer](/images/cios/cIOS.png)
+![d2x cIOS Yükleyici](/images/cios/cIOS.png)
 
-If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
+Eğer bir Wii U’ya (vWii) sahipseniz lütfen cIOS yüklemek için [bu rehberi](https://wiiu.hacks.guide/#/vwii-modding) takip edin. vWii’ye başka bir cIOS yüklemeye çalışmak işe yaramayacaktır.
 {: .notice--info}
 
-If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
+Eğer Wii mini’niz varsa [bu rehberi](cios-mini) takip edin. Wii mini’ye başka bir cIOS yüklemeye çalışmak işe yaramayacaktır.
 {: .notice--info}
 
-#### What you need
+#### İhtiyacınız olan şeyler
 
-* A Wii with an Internet connection
-* An SD card or USB drive
-* [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
+* İnternet bağlantısına sahip bir Wii
+* SD Kart veya USB sürücü
+* [d2x cIOS Yükleyici](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
-Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
+Eğer SD Kart kullanıyorsanız, SD Kartınızın kilidinin açık olduğundan emin olun. Öbür türlü yükleyici de doğru seçenekleri seçemezsiniz.
 {: .notice--warning}
 
-#### Instructions
+#### Talimatlar
 
-##### Section I - Downloading
+##### Bölüm I- İndirme
 
-1. Download d2x cIOS Installer and extract it to the `apps` folder on your SD card or USB drive.
-1. Insert your SD card or USB drive into your Wii, and launch d2x cIOS Installer from the Homebrew Channel.
+1. d2xl cIOS Yükleyici’yi indirin ve SD kart veya USB sürücünüzde bulunan `apps` klasörüne çıkartın.
+1. USB sürücünüzü veya SD Kartınızı Wii’nize takın ve d2xl cIOS Yükleyicisi’ni Homebrew Channel’dan başlatın.
 
-##### Section II - Installing
+##### Bölüm II - Yükleme
 
-1. Press continue, then set the options to the following:
+1. Devam et’e basın ve seçenekleri müteakip seçeneklere ayarlayın:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 57
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
-![Install cIOS 249](/images/cios/Install249.png)
-1. Once set, press A twice to install.
-1. When done installing, press A to return, and set the options to the following:
+![cIOS 249 yükle](/images/cios/Install249.png)
+1. Ayarlayınca yüklemek için iki kere A’ya basın.
+1. Ayarlar tamamlandığında dönmek için A’ya basın ve müteakip seçeneklere ayarlayın:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 56
 Select cIOS slot: 250
 Select cIOS version: 65535
 ```
-![Install cIOS 250](/images/cios/Install250.png)
-1. Once set, press A twice to install.
-1. When done installing, press A to return, and set the options to the following:
+![cIOS 250 yükle](/images/cios/Install250.png)
+1. Ayarlayınca yüklemek için iki kere A’ya basın.
+1. Ayarlar tamamlandığında dönmek için A’ya basın ve müteakip seçeneklere ayarlayın:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 38
 Select cIOS slot: 251
 Select cIOS version: 65535
 ```
-![Install cIOS 251](/images/cios/Install251.png)
-1. Once set, press A twice again to install, and then exit once done.
+![cIOS 251 yükle](/images/cios/Install251.png)
+1. Ayarlandığında yüklemek için iki kere Aa’ya basım ve çıkmak için bir kere basın.
 
 {% capture bruh %}
-Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
-* Using a keyboard in Animal Crossing: City Folk.
-* Running SpongeBob's Boating Bash.
+Oyunların ezici çoğunluğu varsayılan ile doğrudan çalışsa da bazı oyunlar spesifik cIOS’lar gerektirebilmektedir.<br>Misalen:
+* Animal Crossing: City Folk’da klavye kullanmak.
+* SpongeBob's Boating Bash’i çalıştırmak.
 
-A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
+Daha kapsayıcı bir liste (her ne kadar tamamlanmamış olsa da) [burada bulunulabilir.</strong>](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> Spesifik oyunlar için cIOS değiştirmek için şu talimatları takip edin:
 {% endcapture %}
 <div class="notice--warning">{{ bruh | markdownify }}</div>
 
@@ -73,30 +73,30 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
-1. !!crwdP_30_Pdwrc!!Select the game that isn't working.
-1. Click Settings.
-1. !!crwdP_26_Pdwrc!!Select `Game Load`.
-1. !!crwdP_27_Pdwrc!!Scroll down to `Game IOS`.
-1. !!crwdP_28_Pdwrc!!Enter the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
-1. !!crwdP_29_Pdwrc!!Press ok and try to load the game.
+1. Çalışmayan oyunu seçin.
+1. Ayarlara tıklayın.
+1. `Game Load` seçeneğini seçin.
+1. `Game IOS` seçeneğini bulana kadar aşağı inin.
+1. Kullanılacak IOS yuvasını seçin.
+    - 249 çalışmazsa 250’yi ya da 251’i deneyin.
+1. Tamam deyip oyunu yüklemeyi deneyin.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
-1. !!crwdP_30_Pdwrc!!Select the game that isn't working.
-1. Click the gear icon.
-1. !!crwdP_32_Pdwrc!!Go to cIOS and use the arrows to select the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
-1. !!crwdP_33_Pdwrc!!Press Save and try to load the game.
+1. Çalışmayan oyunu seçin.
+1. Dişli simgesine tıklayın.
+1. cIOS’a gidin ve ok tuşlarını kullanarak kullanmak istediğiniz IOS yuvasını seçin.
+    - 249 çalışmazsa 250’yi ya da 251’i deneyin.
+1. Kaydet deyip oyunu yüklemeyi deneyin.
 </div>
-##### Options once complete
+##### Gidebileceğiniz yerler
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
+[Homebrew Browser’dan devam edin](hbb)<br> Homebrew Browser, Wii’niz için bulabileceğiniz Homebrew uygulamaları için oldukça güzel bir yerdir. Bunu yüklemek opsiyoneldir.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Site haritasından devam edin](site-navigation)<br> Sevebileceğiniz pek çok öğreticiye daha sahibiz.
 {: .notice--info}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
+[USB Loader GX](usbloadergx) ve [WiiFlow](wiiflow) gibi herhangi bir homebrew uygulamasını kullanabilirsiniz.
 {: .notice--info}
 
 <script>
