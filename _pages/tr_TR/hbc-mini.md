@@ -1,5 +1,5 @@
 ---
-title: "Homebrew Channel - for Wii mini only"
+title: "Homebrew Channel - sadece Wii mini için"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -7,24 +7,24 @@ title: "Homebrew Channel - for Wii mini only"
 Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![HBC Logo](/images/hbc.png)
+![HBC Logosu](/images/hbc.png)
 
-The Homebrew Channel is where you will go to launch homebrew applications.
+Homebrew Channel, homebrew uygulamalarını başlatabileceğiniz yerdir.
 
 #### Talimatlar
-This page is **only** intended for users of the Wii mini. If you have a regular Wii, follow [this guide](hbc) instead.
+Bu sayfa **sadece ** Wii mini kullanıcıları içindir. Eğer normal bir Wii'niz varsa [bu rehberi](hbc) takip edin.
 {: .notice--info}
 
-While it is possible to install BootMii on a Wii mini, you will need to solder an SD card slot. That requires opening up your Wii mini and using special tools, so it is not recommended.
+Her ne kadar, Wii mini'nize BootMii yüklemek mümkün olsa da, bunun için SD Kart girişi lehimlemeniz gerekmektedir. Bunun için Wii mini'nizin içini açmanız ve özel araçları kullanmanız gerektiğinden bu yöntemi tavsiye etmiyoruz.
 {: .notice--info}
 
-1. You will see a scam warning screen. Wait 30 seconds for the text "Press 1 to continue" to appear, then press 1. ![Scam Screen](/images/Wii/ScamScreen.png)
+1. Sahte bir uyarı ekranı göreceksiniz. Metin için 30 saniye bekleyin ve "Press 1 to continue" gözükünce 1 tuşuna basın. ![Sahte Ekran](/images/Wii/ScamScreen.png)
 
-1. Press Continue, then select Install The Homebrew Channel, and press install. ![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
+1. ''Continue'' deyin, ardından ''Install The Homebrew Channel'' seçeneğini seçin ve yükle tuşuna basın. ![Homebrew Channel’ı Yüklemek](/images/Wii/InstallHomebrewChannel.png)
 
-1. Press Continue when finished. ![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
+1. Bittiğinde, ''Continue'' deyin. ![Homebrew Channel'ın Başarılı Olarak Yüklenmesi](/images/Wii/SuccessHBC.png)
 
-1. Once done, select `Exit` to exit the HackMii installer.
+1. Tamamlandığında HackMii yükleyicisinden çıkmak için `Exit` deyin.
 
-[Continue to installing Priiloader](priiloader) Priiloader offers protection from bricks, and is highly recommended to install.
+[Priiloader'ı yüklemeden devam edin](priiloader) Priiloader, brick modundan koruma sağlar; ve yüklemeniz şiddetle tavsiye edilir.
 {: .notice--info}
