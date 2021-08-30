@@ -7,29 +7,29 @@ Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen
 
 ![LetterBomb](/images/letterbomb.png)
 
-LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
+LetterBomb, Wii'nizi Wii Message Board'u tetikleyerek kullanabileceğiniz bir exploittir.
 
 #### İhtiyacınız olan şeyler
-- An SD card
-- A Wii on System Menu version 4.3
+- SD Kart
+- Sistem Menüsü 4.3 olan bir Wii
 
 #### Talimatlar
 
 
-1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
-1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure*
-   - Whichever wire you choose to cut doesn't matter. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
-1. Extract the contents of the downloaded ZIP to the root of your SD card.
-1. Take out your SD card and insert it in your Wii.
-1. On your Wii, return to the Wii Menu and then open the Wii Message Board.
-1. Load the red letter with a bomb icon.
-   - In various scenarios, you may need to look at the previous or next day to find it.
+1. Wii'nizde, `Wii Ayarları` -> `İnternet` -> `Konsol Bilgisi` kısmına gidip konsolunuzun MAC adresini not alın.
+1. [please.hackmii.com](https://please.hackmii.com) adresine gidip Wii'nizin MAC'i ve bölgesini girip CAPTCHA'yı geçin. `Bundle the HackMii Installer for me!` seçeneğinin *işaretli olduğundan* *emin olun* ve iki bağlatıyı da kesin.
+   - Hangi bağlantıyı kestiğinizin bir önemi yoktur. ![HackMii Ekranı](/images/Wii/LetterBomb-PC.png)
+1. İndirilen ZIP dosyasının içeriğini SD Kartınızın köküne çıkartın.
+1. SD Kartınızı çıkartıp Wii'nize takın.
+1. Wii'nizde, Wii Menü'yü açıp Wii Mesaj Tahtası'nı açın.
+1. Bomba simgeli kırmızı harfi yükleyin.
+   - Çeşitli durumlarda, daha önceki veya daha sonraki güne bakmanız gerekebilir.
 
-Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
+Wii'nizin tarihinin doğru olduğundan emin olun. Öbür türlü harfi bulamayabilirsiniz.
 {: .notice--warning}
 
 
-![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
+![LetterBomb Wii Menü](/images/Wii/LetterBomb-Wii.png)
 
 [Homebrew Channel ve BootMii Yüklemesinden devam edin](hbc)
 {: .notice--info}
