@@ -7,10 +7,10 @@ title: "str2hax"
 Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Note that if your ISP or networking environment prevents using custom DNS servers, str2hax will not work and you should [choose another exploit to use](get-started).
+Eğer İnternet Servis Sağlayıcı’nız veya ağ ortamınız, özel DNS sunucularını önlüyorsa str2hax’ın çalışmayacağıma ve [başka exploit kullanmanız gerektiğini](get-started) aklınızda bulundurun.
 {: .notice--info}
 
-str2hax is an exploit for the Wii that is triggered by loading the Wii's End User License Agreement. It requires nothing but an Internet connection that lets you change the DNS on your Wii.
+str2hax, Wii’nin Son Kullanıcı Lisans Anlaşması yüklenirken çalışan bir Wii exploitidir. Wii’nizi DNS’sini değiştirmeye izin veren bir İnternet bağlantısı dışında başka bir şey gerektirmez.
 
 #### İhtiyacınız olan şeyler
 
@@ -18,30 +18,30 @@ str2hax is an exploit for the Wii that is triggered by loading the Wii's End Use
 
 #### Talimatlar
 
-##### Section I - Connecting
+##### Bölüm I - Bağlanma
 
-This exploit requires you to set your DNS in order to connect to a server that contains the exploit.
+Exploit’i barındıran sunucuya erişebilmek için DNS’i ayarlamanız gerekmektedir.
 
-1. Go to `Wii Options`. ![Wii Options](/images/RiiConnect24/Internet_1.png)
-2. Go to `Wii Settings`. ![Wii Settings](/images/RiiConnect24/Internet_2.png)
-3. Go to `Page 2`, then click on `Internet`. ![Internet](/images/RiiConnect24/Internet_3.png)
-4. Go to `Connection Settings`. ![Connection Settings](/images/RiiConnect24/Internet_4.png)
-5. Select your current connection. ![Current Connection](/images/RiiConnect24/Internet_5.png)
-6. Go to `Change Settings`. ![Change Settings](/images/RiiConnect24/Internet_6.png)
-7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`. ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
-8. Type in `97.74.103.14` as the primary DNS.
-9. Type in `173.201.71.14` as the secondary DNS.
-10. Select `Confirm`, then select `Save`. ![Save DNS](/images/RiiConnect24/Internet_10.png)
-11. Select `OK` to perform a connection test. ![Connection Test](/images/RiiConnect24/Internet_11.png)
-   - If the connection test was successful, select `No` to skip the Wii System Update. ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)
-   - If it was unsuccessful, then please use [another exploit](get-started).
+1. `Wii Options` kısmına gidin. ![Wii Seçenekleri](/images/RiiConnect24/Internet_1.png)
+2. `Wii Settings` kısmına gidin. ![Wii Ayarları](/images/RiiConnect24/Internet_2.png)
+3. `2. Sayfaya` geçip `Internet’e` tıklayın. ![İnternet](/images/RiiConnect24/Internet_3.png)
+4. `Connection Settings` kısmına gidin. ![Bağlantı Ayarları](/images/RiiConnect24/Internet_4.png)
+5. Mevcut bağlantınızı seçin. ![Şu Anki Bağlantı](/images/RiiConnect24/Internet_5.png)
+6. `Change Settings` kısmına gidin. ![Ayarları Değiştir](/images/RiiConnect24/Internet_6.png)
+7. `Auto-Obtain DNS` kısmına (IP Address kısmına değil) gidip `No’yu` seçin, ardından `Advanced Settings` kısmına gidin. ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
+8. Birincil DNS’i ` 97.74.103.14` olarak girin.
+9. İkincil DNS’i ` 173.201.71.14` olarak girin.
+10. Önce `Confirm’i` ardından da `Save’i` seçin. ![DNS’i kaydet](/images/RiiConnect24/Internet_10.png)
+11. Bağlantı testi yapmak için `OK’i` seçin. ![Bağlantı Testi](/images/RiiConnect24/Internet_11.png)
+   - Eğer bağlantı testi başarılıysa `No’tu` seçip Wii Sistem Güncellemesi’ni geçin. ![Bağlantı Testi Başarılı](/images/RiiConnect24/Internet_12.png)
+   - Eğer başarısız olduysa lütfen [başka bir exploit](get-started) kullanın.
 
-##### Section II - Triggering the Exploit
+##### Section II - Exploit’i Çalıştırmak
 
-1. Go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`.
-2. If you see a pony on the screen on a light blue background, you have set it up correctly. Wait 1-2 minutes for the exploit to trigger (it should take about 1 minute and 25 seconds). The exploit will download the HackMii Installer so you can continue.
+1. Önce `Internet` ardından `User Agreements` veya `Agreement/Contact` kısmına gidip `Yes` deyin.
+2. Eğer açık mavi bir arkaplan önünde bir Midilli görüyorsanız, doğru ayarlamışsınız demektir. Exploit’in çalışması için 1-2 dakika bekleyin (genelde 1 dakika 25 saniye sürüyor). Exploit HackMii Installer’ı yükleyeceğinden devam edin.
 
-If the HackMii Installer doesn't load and it instead freezes (you can't move your cursor) or it doesn't take 1-2 minutes to trigger, please restart your Wii and retry the exploit.
+Eğer HackMii Installer çalışmazsa ve donarsa (imleci hareket ettiremezseniz) ya da 1-2 dakika olmasına rağmen exploit çalışmazsa, Wii’nizi yeniden başlatıp tekrar deneyin.
 
 [Homebrew Channel ve BootMii Yüklemesinden devam edin](hbc)
 {: .notice--info}
