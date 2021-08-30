@@ -14,29 +14,29 @@ Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen
 Eğer Wiimmfi’ye bağlanırken 23904 numaralı hata kodunu alıyorsanız, yamanız güncel değildir.<br> Wiimmfi’ye bağlanırken kullandığınız metod için lütfen aşağıdaki adımları takip edin. <br> Daha fazla bilgi için lütfen [bu sayfayı](https://wiimmfi.de/update) ziyaret edin.<br>
 {: .notice--warning}
 
-## Different patchers
+## Farklı yamalar
 
-There are lots of different methods to connect to Wiimmfi. Choose the one that fits your needs best.
+Wiimmfi’ye bağlanmak için pek çok yöntem bulunmaktadır. Size en uygun olanını seçiniz.
 
-### Automatic patching from the Disc Channel using Priiloader
+### Priiloader kullanarak otomatik olarak Disc Channel’dan yamalama
 
 #### İhtiyacınız olan şeyler
-- A Wii with Priiloader 0.9 or later installed
+- Priiloader 0.9 (daha sonraki sürümleri de olabilir) yüklü olan bir Wii
 
-If you have an older version of Priiloader or don't have it installed, follow [this guide](priiloader) to update/install it.
+Eğer Priiloader’ın daha önceki sürümlerinden birine sahipseniz [bu rehberi](priiloader) takip ederek güncelleyebilirsiniz/yükleyebilirsiniz.
 {: .notice--info}
 
 #### Talimatlar
-1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
-2. Go to `System Menu Hacks`.
-3. Make sure the `Wiimmfi patch v4` hack is enabled.
-4. Save settings and exit.
+1. Wii’nizi açarken RESET tuşuna basılı tutun (Eğer Wii mini’niz varsa USB klavyenizi bağlayıp ESC’ye basın).
+2. `System Menu Hacks` kısmına gidin.
+3. `Wiimmfi patch v4` hackinin aktif olduğundan emin olun.
+4. Ayarları kaydedip çıkış yapın.
 
-If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
+Eğer `Wiimmfi patch v2` ya da `Wiimmfi patch v3` hackini gördüyseniz, hacks_hash.ini dosyasının son sürümüne sahip değilsiniz demektir.<br> [Buradan](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) indirip SD Kartınız veya USB sürücünüzde `/apps/priiloader/hacks_hash.ini` şeklinde yerleştirin.<br> Ardından önceki adımları tekrar edin.
 {: .notice--warning}
 
-### Homebrew (Disc) Application
-MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
+### Homebrew (Disk) Uygulaması
+MrBean35000vr (Mario Kart Wii için oluşturulan içerik paketi CTGP-R’nin oluşturucusu), diski yerleştirip oyunu Wiimmfi için yamalamanızı sağlayan Wiimmfi Disc Patcher adındaki yamalayıcıyı oluşturdu (Disk her yerleştirildiğinde çalıştırılması gerekir).
 
 #### İhtiyacınız olan şeyler
 * SD Kart veya USB sürücü
@@ -44,64 +44,64 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 
 #### Talimatlar
 
-1. Extract Auto Wiimmfi Patcher to the root of your SD card or USB drive.
-2. Insert your SD Card into your Wii, and launch Auto Wiimmfi Patcher from the Homebrew Channel.
-3. Insert your game disc (you can insert it before or after launch, it doesn't matter).
-4. Wait for patch to complete, and it'll begin!
+1. Auto Wiimmfi Patcher’ı, SD Kartınızın ya da USB sürücünüzün köküne çıkartın.
+2. SD Kartınızı Wii’ye takın ve Auto Wiimmfi Patcher‘ı Homebrew Channel’dan başlatın.
+3. Diskinizi yerleştirin (uygulamayı başlatmadan önce veya sonra yerleştirmeniz bir önemi yoktur; istediğiniz zaman yerleştirebilirsiniz).
+4. Yamanın tamamlanmasını bekleyin ardından başlayacaktır!
 
-### No-Homebrew (Disc)
-Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
+### Homebrew (Disk) Olmadan
+Fullmetal5'in oluşturduğu Lesarette’nin Wiimmfi yamalayıcıya adapte ettiği str2hax exploit’i sayesinde, Wiimmfi yamasını Wii’nizde herhangi bir homebrew uygulaması olmadan yükleyebileceksiniz.
 
 #### İhtiyacınız olan şeyler
 * İnternet bağlantısına sahip bir Wii
 
 #### Talimatlar
 
-1. Insert your game disc.
-2. Go into your internet connection settings and set the DNS server of your console to 95.217.77.151.
-3. Go to the WC24 contract information (third button after clicking on "Internet" in the settings).
-4. Confirm that you do want to use WC24 and the shop channel
-5. The Wiimmfi patcher page should show up. If it doesn't, and you still see the default license agreement, your router might not be compatible with this method.
-6. Wait for about 1 minute and 30 seconds for the patcher to load
-7. The game should now start with the Wiimmfi patch included
+1. Oyun diskinizi yerleştirin.
+2. İnternet bağlantısı ayarlarına gidin ve konsolunuzun DNS sunucusunu 95.217.77.151. olarak ayarlayın.
+3. WC24 kontrat bilgisine gidin (Ayarlarda “Internet” seçeneğine gittikten sonraki üçüncü seçenek).
+4. WC24’ü ve Shop Channel’ı kullanmak istemediğinizi onaylayın.
+5. Wiimmfi yamalayıcı sayfası çıkacaktır. Eğer çıkmadıysa ve halen daha varsayılan lisans sözleşmesini görüyorsanız; yönlendiriciniz, bu metod ile uyumlu olmayabilir.
+6. Yamalayıcının yüklenmesi için 1 buçuk dakika bekleyin.
+7. Oyununuz Wiimmfi yaması ekli olarak başlayacaktır.
 
-### Automatic patching using a USB Loader
-If you are already using USB Loader GX, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
+### USB Loader ile Otomatik Yama
+Eğer USB Loader GX kullanıyorsanız, son sürümüne güncelleyiniz. Hem ''küresel yükleyici seçeneklerinde'' hem de ''oyun seçeneklerinde'', USB Loader'ın oyunları otomatik olarak Wiimmfi ile yamalayacağı ''özel sunucu'' seçeneği bulunmaktadır.
 
-### ISO Patching
-You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
+### ISO Yamalaması
+Belki Wiimmfi ile oynayacağınız her durumda yamayı kurmak istemiyorsunuzdur ve belki de USB Loader kullanıyorsunuzdur. Bu yüzden spesifik oyunlar için ISO Yamalayıcıları oluşturuldu.
 
 #### İhtiyacınız olan şeyler
-- Your copy of your game (WBFS, ISO, cISO, and other forms that a Wii can use are supported).
-- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
-  **or**
-- [Wiimmfi Patcher (cross-platform)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
-- A USB Loader, [cIOS](cios), and a USB to store the game on (you should already have these if you're using a USB Loader)
+- Oyununuzun bir kopyası (WBFS, ISO, cISO ya da Wii'nin desteklediği herhangi başka bir format).
+- [RiiConnect24 Yamalayıcısı](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows ve Unix için)  
+  **ya da**
+- [Wiimmfi Patcher (çapraz platform)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
+- Bir USB Loader, [cIOS](cios) ve oyunları depolayacak bir USB (eğer bir USB Loader kullanıyorsanız, halihazırda bunlara sahip olmanız gerekmektedir)
 
 #### Talimatlar
-1. Extract the patcher of your choice to a folder, and place your copy of the game in it.
-2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the patcher for your game.
-3. Once it's finished, get the version out of the `wiimmfi-images` folder (it may be in the folder outside of the patcher - ../wiimmfi-images) and copy it back to your USB.
+1. Yamalayıcıyı seçtiğiniz bir klasöre koyun. Ardından oyunuzun kopyasını da o klasöre koyun.
+2. İşletim sisteminize göre betiğinizi çalıştırın: dosyanın adı Windows için `.bat` ile Mac/Linux için `.sh` ile bitiyor. Eğer RiiConnect24 Yamalayıcısı kullanıyorsanız, cihazınızı belirleyip (Wii, vWii ya da Dolphin) oyununuz için yamalayıcıyı seçin.
+3. İşlem tamamlandığında, `wiimmfi-images` klasöründen sürümü alın (yamalayıcının bulunduğu klasörün dışında da olabilir -../wiimmfi-images) ve USB sürücünüze geri kopyalayın.
 
-### WiiWare Patching
-You can patch WiiWare games in order to play them on Wiimmfi.
+### WiiWare Yamalaması
+WiiWare oyunlarınızı Wiimmfi ile oynayabilmek için yamalayabilirsiniz.
 
 #### İhtiyacınız olan şeyler
 
-- An SD card
-- Your copy of your game (in WAD format)
-- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
-  **or**
-- [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (cross platform)
+- SD Kart
+- Oyununuzun bir kopyası (WAD formatında)
+- [RiiConnect24 Yamalayıcısı](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows ve Unix için)  
+  **ya da**
+- [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (çapraz platform)
 - [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
-[If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
+[Eğer WiiWare Yamalayıcısı’nı nasıl kullanabileceğinizi görmek istiyorsanız buraya tıklayın!](wiiwarepatcher)
 {: .notice--info}
 
-Steps:
-1. Extract the .zip of the latest version of WiiWare Patcher, and put your WAD in it.
-2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
-3. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
+Adımlar:
+1. WiiWare Yamalayıcısı’nın güncel sürümünün .zip dosyasını çıkartın ve WAD dosyanızı onun içine koyun.
+2. İşletim sisteminize göre betiğinizi çalıştırın: dosyanın adı Windows için `.bat` ile Mac/Linux için `.sh` ile bitiyor. Eğer RiiConnect24 Yamalayıcısı kullanıyorsanız, cihazınızı belirleyip (Wii, vWii ya da Dolphin) WiiWare Yamalayıcısı’nı seçin.
+3. Eğer işlem başarıyla tamamlandıysa, `wiiware_wads` klasöründe bulunan WAD dosyanızı Wii Mod Lite ile konsolunuza yükleyin.
 
 ## Diğer şeyler
 
