@@ -27,7 +27,7 @@ Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on
 * A PC or mobile device with internet access and the ability to interact with SD cards.
 * An SD card formatted as FAT32 (at least 2GB) with enough available space. SDHC or SDXC cards formatted as FAT32 can be known to work.
 * A Wii U console capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
-* [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+* [RiiConnect24 Yamalayıcısı](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 After following the above linked guide, you should have:
 * A vWii NAND backup and keys (keep these stored safely!!)
