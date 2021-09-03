@@ -7,14 +7,14 @@ title: "RiiTag on Wii"
 Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You connect it to a USB Loader, and the tag updates on-the-fly. You need a Discord account in order to start using RiiTag.
+RiiTag, özelleştirilebilir ve dinamik bir oyuncu etiketidir. Bu etiketi (dinamik bir resim) paylaşarak, arkadaşlarınıza neler oynadığınızı gösterebilirsiniz! You connect it to a USB Loader, and the tag updates on-the-fly. You need a Discord account in order to start using RiiTag.
 
 Want to install RiiTag on your Wii U? See [this guide](riitag-wiiu) on how to connect it to your Wii U Menu.
 {: .notice--info}
 
 #### İhtiyacınız olan şeyler
 
-* A computer
+* Bir bilgisayar
 * A text editor
 * A USB Loader
 
@@ -23,13 +23,13 @@ Want to install RiiTag on your Wii U? See [this guide](riitag-wiiu) on how to co
 ##### Section I - Getting Started
 
 1. [Go to the RiiTag site.](https://tag.rc24.xyz/)
-2. Click `Log In` and log in with your Discord account.
-3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Click `Authorize`.
-4. Click `Edit Your Tag` and customize it to how you like. You can add a background, overlay, flag, nickname, Wii Number, and manually enter in games to show on your tag (not needed if you're using a USB Loader).
-5. Click `Show Key` and make note of the key shown. This is not needed if you're using USB Loader GX, as the key will be in a downloadable file.
-6. Click `Submit` to save your changes.
+2. `Log In’e` tıklayarak Discord hesabınızla giriş yapın.
+3. Karşınıza, `RiiConnect24 Girişi’ni` Discord ile yapmak isteyip istemediğinize dair bir iletişim penceresi çıkacak. `Yetki ver’e` tıklayın.
+4. `Edit Your Tag` seçeneğine tıklayın etiketinizin nasıl görüneceğini şekillendirin. Arkaplan, kaplama, bayrak, rumuz, Wii Numarası, ve manuel olarak etiketinizde göstereceğiniz oyunları (Eğer USB Loader kullanıyorsanız buna gerek yok) ekleyin.
+5. `Show Key` seçeneğine tıklayıp çıkan anahtarı not alın. This is not needed if you're using USB Loader GX, as the key will be in a downloadable file.
+6. `Submit` diyerek değişiklikleri kaydedin.
 
-Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
+RiiTag anahtarınızı kimseyle paylaşmayın! Eğer paylaşırsanız, başkaları etiketinizi suistimal edebilir.
 {: .notice--warning}
 
 ##### Section II - Connecting Your USB Loader
