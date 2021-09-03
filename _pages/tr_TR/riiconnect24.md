@@ -4,20 +4,20 @@ title: "RiiConnect24"
 
 {% include toc title="Table of Contents" %}
 
-If you need help with anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![RiiConnect24 Logosu](/images/WiiRC24Logo.jpg)
 
-[RiiConnect24](https://rc24.xyz/) allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail.
+[RiiConnect24](https://rc24.xyz/), aralarında News, Forecast, Everybody Votes, Nintendo, Check Mii Out Channel ve Wii Mail’in bulunduğu durdurulmuş WiiConnect24 hizmetlerine yeniden erişebilmenizi sağlar.
 
 {% capture notice-1 %}
-This guide is for the original Wii only.
+Bu rehber, sadece orijinal Wii içindir.
 
-- Follow [this tutorial](riiconnect24-vwii) if you'd like to install RiiConnect24 on vWii (Wii Mode on Wii U).
-- Follow [this tutorial](riiconnect24-dolphin) if you'd like to install RiiConnect24 on Dolphin Emulator.
+- Eğer RiiConnect24’ü vWii’ye (Wii U’da bulunan Wii modu) yüklemek istiyorsanız [bu rehberi](riiconnect24-vwii) takip edin.
+- Eğer RiiConnnect24’ü Dolphin Emülatörüne yüklemek istiyorsanız [bu rehberi](riiconnect24-dolphin) takip edin.
 
-There is no guide to installing RiiConnect24 on a Wii Mini. Attempting to install RiiConnect24 on a Wii Mini will result in a console brick.
+RiiConnect24’ü Wii Mini’ye yükleyebilmek için herhangi bir rehber bulunmamaktadır. Wii Mini’ye RiiConnect24’ü yüklemeye çalışmak, konsolun brick moduna girmesiyle sonuçlanır.
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
@@ -26,94 +26,94 @@ There is no guide to installing RiiConnect24 on a Wii Mini. Attempting to instal
 
 * SD Kart veya USB sürücü
 * İnternet bağlantısına sahip bir Wii
-* A computer
-* [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+* Bir bilgisayar
+* [RiiConnect24 Yamalayıcısı (Windows, Mac ve Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### Talimatlar
 
-##### Section I - Using RiiConnect24 Patcher
+##### Bölüm I - RiiConnect24 Yamalayıcısı’nı kullanmak
 
-If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
+Eğer RiiConnect24 Yamalayıcısı’nı çalıştıramadıysanız lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-1. Click the link above to go to the GitHub page where the patcher is.
-2. Download `RiiConnect24Patcher.bat` if you are on Windows, and `RiiConnect24Patcher.sh` if you are on a Unix system
-3. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open Terminal and type `bash`, then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this: `bash RiiConnect24Patcher.sh`.
-4. 1 'e basarak "`Start`" deyin ve tercihlerinizi onaylamak için `ENTER` tuşuna basın. (NOTE: These screenshots are from the Windows version of the patcher.) ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
-5. Select the device you're patching for. ![Select your device](/images/RC24_Patcher/2.JPG)
-6. For this guide, choose "`Install RiiConnect24 on your Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
-7. Choose "`Express (Recommended)`". It will give you everything you need. ![Express Settings](/images/RC24_Patcher/4.JPG)
-8. Select your region. ![Select your region](/images/RC24_Patcher/5.JPG)
-9. While you're at it, RiiConnect24 Patcher can additionally download some other optional channels that do not use RiiConnect24. `[X]` represents the options that selected. Just press 5 and `ENTER` if you're not interested. ![Additional optional channels](/images/RC24_Patcher/6.JPG)
-10. Connect your SD Card or USB Drive to your computer and select "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
-11. Eğer sürücünüz başarıyla algılandıysa, "`1`"i seçin. If not, make sure there's a folder called `apps` on your SD Card or USB Drive and try again. ![Successfully detected](/images/RC24_Patcher/8.JPG)
-12. Be patient... ![It's patching!](/images/RC24_Patcher/9.JPG)
-13. After it's done, we would appreciate if you take a minute to send anonymous feedback to us.  If you don't want to, close the patcher. All the files should already be on your SD Card. ![Bitti!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
-14. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
+1. Yukarıdaki linke tıklayarak yamalayıcının bulunduğu GitHub sayfasına ulaşın.
+2. Windows kullanıyorsanız `RiiConnect24Patcher.bat` dosyasını, Unix kullanıyorsanız `RiiConnect24Patcher.sh` dosyasını indirin.
+3. Windows’da `RiiConnect24Patcher.bat` uygulamasını çalıştırın. Unix sistemlerinde, terminali başlatıp `bash` yazın, ardından `RiiConnect24Patcher.sh` dosyasını terminale taşıyıp ENTER’a basın. `bash RiiConnect24Patcher.sh` şeklinde görünmesi gerekmektedir.
+4. 1 'e basarak "`Start`" deyin ve tercihlerinizi onaylamak için `ENTER` tuşuna basın. (NOT: Ekran görüntüleri, yamalayıcının Windows sürümündendir.) ![RiiConnect24 Yamalayıcısı Ana Ekranı](/images/RC24_Patcher/1.JPG)
+5. Yamalayacağınız cihazı seçin. ![Cihazınızı seçin](/images/RC24_Patcher/2.JPG)
+6. Bu rehber için "`Install RiiConnect24 on your Wii`" seçeneğini seçin. ![RiiConnect24’ü yükleme](/images/RC24_Patcher/3.JPG)
+7. "`Express (Recommended)`" seçeneğini seçin. Size ihtiyacınız olan her şey verilecektir. ![Hızlı Ayarlar](/images/RC24_Patcher/4.JPG)
+8. Bölgenizi seçin. ![Bölgenizi seçin](/images/RC24_Patcher/5.JPG)
+9. Bunu yaparken, RiiConnect24 Yamalayıcısı, ek olarak RiiConnect24 kullanmayan opsiyonel kanallar da yükleyebilir. `[X]` seçilen opsiyonları temsil eder. Eğer ilgilenmiyorsanız, 5 ve `ENTER` tuşlarına basın. ![Tercihe bağlı ek kanallar](/images/RC24_Patcher/6.JPG)
+10. SD kartınızı ya da USB sürücünüzü bilgisayara bağlayın ve "`1`"i seçin. ![SD Karta kopyalamayı etkinleştir](/images/RC24_Patcher/7.JPG)
+11. Eğer sürücünüz başarıyla algılandıysa, "`1`"i seçin. Algılanmadıysa, SD Kartınız ya da USB sürücünüzde `apps` klasörü olduğundan emin olun. ![Başarıyla silindi](/images/RC24_Patcher/8.JPG)
+12. Sabırlı olun... ![Yamalanıyor!](/images/RC24_Patcher/9.JPG)
+13. İşlem tamamlandığında, bize bir dakikanızı ayırarak geribildirimde bulunursanız oldukça memnun oluruz.  İstemiyorsanız, yamalayıcıyı kapatabilirsiniz. Bütün dosyaların, SD Kartınızda hazır olmuş olması gerekir. ![Bitti!](/images/RC24_Patcher/10.JPG) ![Dosyalar kopyalandı](/images/RC24_Patcher/11.PNG)
+14. Eğer her şey otomatik olarak SD Kartınıza ya da USB sürücünüze kopyalanmadıysa, `WAD` dosyasını ve `apps` klasörünü SD Kartınızda ya da USB sürücünüzde bulunan `RiiConnect24Patcher.bat` dosyasının bulunduğu yere koyun.
 
-##### Section II - Installing WADs
+##### Bölüm II - WAD dosyalarını yükleme
 
-You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
+Şimdi, RiiConnect24’ü kullanabilmek için ihtiyacınız olan IOS ve kanal WAD’larını yükleyeceksiniz.
 
 1. SD Kartınızı veya USB sürücünüzü Wii’ye takın.
-2. Launch the Homebrew Channel on your Wii.
+2. Wii’nizde bulunan Homebrew Channel’ı başlatın.
 3. Wii Mod Lite’ı başlatın.
-4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
-5. Highlight all the WADs in the folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
-6. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press the - Button on the highlighted WAD to uninstall it, then try installing it again.
-7. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+4. Wii kumandanızda bulunan +Kontrol Tuşlarını kullanarak önce `WAD Manager`’ı daha sonra `wad` klasörünü seçin.
+5. + tuşuna basarak bütün WAD dosyalarını işaretleyin. Bütün WAD dosyaları seçildiğinde A'ya iki kere basarak WAD yüklemesine başlayın.
+6. Eğer bir dosyayı yüklerken, daha yüksek bir sürümün yüklendiğine dair bir hata (hata kodu -1035) alırsanız, WAD seçim kısmına geri dönüp - tuşuna basarak işaretlenen WAD dosyasını silin ve tekrar deneyin.
+7. Dosyalar başarıyla yüklendiği vakit, HOME tuşuna basarak Homebrew Channel'a geri dönün.
 
-##### Section III - Patching nwc24msg.cfg
+##### Bölüm III - nwc24msg.cfg dosyasını yamalama
 
-You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
+Wii Mail’i kullanabilmeniz için gerektiğinden `nwc24msg.cfg` dosyasını yamalayın.
 
-1. Launch RiiConnect24 Mail Patcher.
-2. It should only take a few seconds to patch your nwc24msg.cfg. When it's done, press the HOME Button to exit.
+1. RiiConnect24 Posta Yamalayıcısı’nı başlatın.
+2. nwc24msg.cfg dosyasını yamalamak sadece birkaç saniye sürecektir. İşlem tamamlandığında HOME tuşuna basarak çıkın.
 
-If you were unable to patch your nwc24msg.cfg correctly, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
+Eğer nwc24msg.cfg dosyasını doğru yamalayamadıysanız lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-##### Section IV - Connecting
+##### Bölüm IV - Bağlanma
 
-You will now set your DNS to our servers. This is optional but it's recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
+Şimdi, DNS’nizi sunucularımıza ayarlayacaksınız. Her ne kadar opsiyonel olda da bunu yapmanız, RiiConnect24 ve Wiimmfi’yi geliştirip bazı özellikleri etkinleştirdiğinden tavsiye edilir.
 
-1. Go to `Wii Options`.
-2. Go to `Wii Settings`.
-3. Go to `Page 2`, then click on `Internet`.
-4. Go to `Connection Settings`.
-5. Select your current connection.
-6. Go to `Change Settings`.
-7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`.
-8. Type in `164.132.44.106` as the primary DNS.
-9. Type in `1.1.1.1` as the secondary DNS (if it gives you problems, try `8.8.8.8`).
-10. Select `Confirm`, then select `Save`.
-11. Select `OK` to perform a connection test.
-12. If the connection test was successful, select `No` to skip the Wii System Update.
-13. Go to `WiiConnect24`, then `WiiConnect24` again, and make sure it is enabled.
-14. Back on the WiiConnect24 menu, go to `Standby Connection` and make sure it is enabled.
-15. At `Slot Illumination`, we recommend you set the disc light to `Dim` or `Bright`, but this is optional.
-16. Finally, go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`. Please read through this.
+1. `Wii Options` kısmına gidin.
+2. `Wii Settings` kısmına gidin.
+3. `2. Sayfaya` geçip `Internet’e` tıklayın.
+4. `Connection Settings` kısmına gidin.
+5. Mevcut bağlantınızı seçin.
+6. `Change Settings` kısmına gidin.
+7. `Auto-Obtain DNS` kısmına (IP Address kısmına değil) gidip `No’yu` seçin, ardından `Advanced Settings` kısmına gidin.
+8. Birincil DNS’i ` 164.132.44.106` olarak girin.
+9. İkincil DNS’i `1.1.1.1` olarak girin (problem çıkarsa, bu sefer `8.8.8.8` olarak girin).
+10. Önce `Confirm’i` ardından da `Save’i` seçin.
+11. Bağlantı testi yapmak için `OK’i` seçin.
+12. Eğer bağlantı testi başarılıysa `No’yu` seçip Wii Sistem Güncellemesi’ni geçin.
+13. Önce `WiiConnect24` kısmına ardından tekrar `WiiConnect24` kısmına giderek etkinleştirildiğinden emin olun.
+14. WiiConnect24 menüsüne gidip `Standby Connection` kısmından etkinleştirildiğinden emin olun.
+15. `Slot Illumination` kısmında, disk ışığını `Dim` ya da `Bright` yapmanızı her ne kadar tavsiye etsek de bu opsiyoneldir.
+16. Son olarak, önce `Internet` ardından `User Agreements` veya `Agreement/Contact` kısmına gidip `Yes` deyin. Lütfen bunu baştan sona okuyun.
 
 
-[Wiimmfi’den devam edin](wiimmfi)<br> Wiimmfi, Nintendo Wi-Fi Connection durdurulmasından sonra bile çevrimiçi oyunları oynayabilmenize olanak sağlar. Bunu yüklemek opsiyoneldir.
+[Wiimmfi’den devam edin](wiimmfi)<br> Wiimmfi, Nintendo Wi-Fi Connection’ın durdurulmasından sonra bile çevrimiçi oyunları oynayabilmenize olanak sağlar. Bunu yüklemek opsiyoneldir.
 {: .notice--info}
 
-[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. Bunu yüklemek opsiyoneldir.
+[WiiLink’ten devam edin](wiilink)<br> WiiLink, Wii no Ma ve Digicam Print Channel gibi durdurulmuş Japon kanallarına yeniden erişebilmenizi sağlar. Bunu yüklemek opsiyoneldir.
 {: .notice--info}
 
-If you get error 107245, then you have failed to patch your IOS correctly.
+Eğer 107245 nolu hata kodunu alırsanız, IOS’u yanlış yamalamışsınız demektir.
 {: .notice--info}
 
-If you get error 107304, then you cannot use our DNS. This will not affect your ability to use RiiConnect24. In this case, set Auto-obtain DNS to Yes.
+Eğer 107304 nolu hata kodunu alırsanız, bizim DNS’imizi kullanamazsanız demektir. Bu durum, RiiConnect24’ü kullanmanızda bir engel teşkil etmez. ‘’Auto-Obtain DNS’’ kısmını ‘’Yes’’ yapmanız yeterlidir.
 {: .notice--info}
 
 FORE000006 hata kodunu aldıysanız, muhtemelen Wii'nizin saati yanlış ayarlıdır. Zamanı ve tarihi doğru ayarladıktan sonra en fazla bir saat sonra Forecast Channel'ın çalışmaya başlamış olması gerekir.
 {: .notice--warning}
 
-[If you're experiencing issues with the Forecast Channel, News Channel, or Wii Mail then following this tutorial might fix your problem.](deleting-vffs)
+[Eğer Forecast Channel, News Channel veya Wii Mail’i kullanırken sorunlarla karşılaşıyorsanız; bu rehberi takip etmeniz sorunları çözebilir.](deleting-vffs)
 {: .notice--warning}
 
-If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
+Eğer `WiiConnect24 and Wii Shop Channel currently not being offered in your country` hatasını alıyorsanız, Wii Ayarlarına gidip -> Last Page -> Country kısmından ülkeyi Birleşik Krallık yapın. Bu hatayı, bizim desteklemediğimiz bir ülkeyi kullanıyorsanız alırsınız. Eğer daha fazla yardıma ihtiyaç duyuyorsanız [ support@riiconnect24.net](mailto:support@riiconnect24.net) adresinden iletişime geçin.
 {: .notice--warning}
 
 [Site haritasından devam edin](site-navigation)<br> Sevebileceğiniz pek çok öğreticiye daha sahibiz.
