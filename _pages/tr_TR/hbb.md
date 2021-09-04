@@ -5,7 +5,7 @@ title: "Open Shop Channel (Homebrew Tarayıcısı)"
 Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen [Open Shop Channel'ın Discord sunucusuna katılın](https://discord.gg/osc) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Open Shop Channel'ın üzerine kurulu olduğu Homebrew Tarayıcısı, çalışmaktadır ancak buglı olabilmektedir. Ayrıca [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) ile [Open Shop Channel'ın web sayfasından](https://oscwii.org/) homebrew uygulamaları elde edebilirsiniz.
+Open Shop Channel'ın üzerine kurulu olduğu Homebrew Tarayıcısı, her ne kadar çalışıyor olda da oldukça bug içermektedir. Ayrıca [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) ile [Open Shop Channel'ın web sayfasından](https://oscwii.org/) homebrew uygulamalarını elde edebilirsiniz.
 {: .notice--info}
 
 [Open Shop Channel](https://oscwii.org/), homebrew uygulamalarını elde edebileceğiniz yerdir. Ayrıca, Homebrew Tarayıcısı için yapılan bir diriltme projesidir.
@@ -25,7 +25,7 @@ Open Shop Channel'ın üzerine kurulu olduğu Homebrew Tarayıcısı, çalışma
 [Site haritasından devam edin](site-navigation)<br> Sevebileceğiniz pek çok öğreticiye daha sahibiz.
 {: .notice--info}
 
-Homebrew Tarayıcsı yüklemesinde, ayrıca tarayıcının nasıl kullanılacağına dair bir rehber bulunmaktadır.
+Homebrew Tarayıcısı yüklemesinde, tarayıcının nasıl kullanılacağına dair bir rehber de bulunmaktadır.
 {: .notice--info}
 
 `/apps/homebrew_browser/` konumundaki loop.ogg dosyasını ShopChannel.ogg dosyasıyla değiştirerek Homebrew Tarayıcısı'nın Wii Shop Channel müziğini çalmasını sağlayabilirsiniz.
