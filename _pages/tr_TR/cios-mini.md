@@ -14,7 +14,7 @@ Bu rehber sadece Wii mini kullanıcıları içindir. Eğer Wii’niz varsa [bu r
 Eğer bu öğretici ile alakalı herhangi bir sorunuz varsa, lütfen [ Wii Mini Hacking adlı Discord sunucumuza](https://discord.gg/6ryxnkS) katılın (önerilir)
 {: .notice--info}
 
-Bu d2x cIOS Yükleyici aslen DaveBaol tarafından Wii U’daki vWii için yapıldı. Özel cIOS ise Wii mini için Leseratte tarafından oluşturuldu. Orijinal indirme sayfasını [şuradan](https://wii.leseratte10.de/d2xl-cIOS/) bulabilirsiniz. Leseratte’nin GitHub sayfasını ise [şuradan](https://github.com/Leseratte10/d2xl-cios) bulabilirsiniz. Lütfen bu cIOS’un işlevinde herhangi bir sorun belirtilmemesine rağmen halen deneysel olduğunu aklınızda bulundurun.
+Bu d2x cIOS Yükleyici aslen DaveBaol tarafından Wii U’daki vWii için yapıldı. Özel cIOS ise Wii mini için Leseratte tarafından oluşturuldu. Orijinal indirme sayfasını [şuradan](https://wii.leseratte10.de/d2xl-cIOS/) bulabilirsiniz. Leseratte’nin GitHub sayfasını ise [şuradan](https://github.com/Leseratte10/d2xl-cios) bulabilirsiniz. Lütfen bu cIOS’un, işlevinde herhangi bir sorun belirtilmemesine rağmen halen deneysel olduğunu aklınızda bulundurun.
 {: .notice--info}
 
 #### İhtiyacınız olan şeyler
@@ -40,7 +40,7 @@ Bu d2x cIOS Yükleyici aslen DaveBaol tarafından Wii U’daki vWii için yapıl
     ```
 Notların altındaki sürüm numarasını not edin (`IOS57-64-` hem `v31776` hem de `v31775` ile bitebiliyor)
 1. Ayarlayınca yüklemek için A’ya basın. Başarıyla tamamlandığında yükleyiciyi kapatın.
-   - Eğer yükleme `TMD sürümü uyumsuz` hatasıyla başarısız olursa, `Select cIOS base` seçeneğine denediğiniz sürümden farklı bir sürümü +Control Pad üzerinden sağa sola basarak seçin ve tekrar deneyin. 57 sayısı değişmeyecektir.
+   - Eğer yükleme `TMD sürümü uyumsuz` hatasıyla başarısız olursa, `Select cIOS base` seçeneğine denediğiniz sürümden farklı bir sürümü +Kontrol Tuşları üzerinden sağa sola basarak seçin ve tekrar deneyin. 57 sayısı değişmeyecektir.
 
 
 ##### Etherneti Etkinleştirme
