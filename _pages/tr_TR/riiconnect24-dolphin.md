@@ -12,7 +12,7 @@ Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen
 {: .notice--info}
 
 ### İhtiyacınız olan şeyler
-* Windows 7 veya daha üstü Ya da Unix bazlı bir sistem
+* Windows 7 veya daha üstü ya da Unix bazlı bir sistem
 * [.VFF-File-Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
 * [Dolphin](https://dolphin-emu.org/download/)
 * [RiiConnect24 Yamalayıcısı](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
@@ -41,7 +41,7 @@ Eğer zaten Dolphin’e sahipseniz, Bölüm - II’ye geçin.
 Eğer manueli tercih ederseniz `VFF-Downloader-for-Dolphin.bat’ta` devam edin. Menüde manuel olarak çalıştırma seçeneği olacak.
 {: .notice--info}
 
-Eğer açılırken çalıştırmayı seçiyorsanız, herhangi bir şey yapmanıza gerek yok. Eğer ileride silmeyi düşünüyorsanız `VFF-Downloader-for-Dolphin.bat` ya da `VFF-Downloader-for-Dolphin.sh` dosyasına gidip “Manage startup VFF Downloader” seçeneğine gidin.
+Eğer açılırken çalıştırmayı seçiyorsanız, herhangi bir şey yapmanıza gerek yok. Eğer ileride kaldırmayı düşünüyorsanız `VFF-Downloader-for-Dolphin.bat` ya da `VFF-Downloader-for-Dolphin.sh` dosyasına gidip “Manage startup VFF Downloader” seçeneğine gidin.
 {: .notice--info}
 
 ##### Bölüm III - Yüklemeyi Bitirme
@@ -50,7 +50,7 @@ Eğer açılırken çalıştırmayı seçiyorsanız, herhangi bir şey yapmanız
 2. Yamalayıcıyı başlatıp `RiiConnext24’ü Yükle’yi` seçin. ![Özeli Seçin](/images/Dolphin_RC24/5.jpg)
 3. `Özel’i` seçin. ![Check Mii Out Channel’ı Seçin](/images/Dolphin_RC24/6.jpg)
 4. Bölgenizi seçmek için `1’e` basın ve sadece 5. seçeneği etkinleştirin. `6’ya` basarak yamalamayı başlatın.
-5. İşlem tamamlandığında RiiConnect24Patxher.bat dosyasının yanında bulunan WAD klasöründe `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` ya da `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` dosyası bulunacak.
+5. İşlem tamamlandığında RiiConnect24Patcher.bat dosyasının yanında bulunan WAD klasöründe `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` ya da `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` dosyası bulunacak.
 6. Dolphin’de, `Araçlar’ı` seçip önce `Install WAD` kısmını ardından da `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` veya `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` dosyasını seçin.
 
 İşleminiz tamamlandı! Maalesef ki Nintendo Channel ve Wii Mail, henüz Dolphin’de çalışmamaktadır.
