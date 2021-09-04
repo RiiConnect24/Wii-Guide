@@ -7,7 +7,7 @@ Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen
 
 ![LetterBomb](/images/letterbomb.png)
 
-LetterBomb, Wii'nizi Wii Message Board'u tetikleyerek kullanabileceğiniz bir exploittir.
+LetterBomb, Wii'nizdeki Wii Message Board'u tetikleyerek kullanabileceğiniz bir exploittir.
 
 #### İhtiyacınız olan şeyler
 - SD Kart
