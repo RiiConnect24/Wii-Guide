@@ -23,7 +23,7 @@ Syscheck, Wii'nizde bulunan bütün IOS ve cIOS dosyalarını bilgileriyle birli
 ##### Bölüm II - SysCheck Gerçekleştirme
 
 1. Wii'niz hakkında bilgi almak için programı bekleyin.
-2. "This IOS will be tested (Please select)" A'ya basın. ![IOS Seçimi](/images/SysCheck/1.png)
+2. Ekranda "This IOS will be tested (Please select)" gözüktüğünde A'ya basın. ![IOS Seçimi](/images/SysCheck/1.png)
 3. IOS'unuz hakkında bilgi almak için programı bekleyin.
 4. Tamamlandığında, dilerseniz `A` tuşuna basarak kaydı görüntüleyebilirsiniz. ![Tamamlandı](/images/SysCheck/2.png)
 5. Eğer SysCheck'inizi paylaşmak istiyorsanız, `A` tuşuna basarak [syscheck.rc24.xyz](https://syscheck.rc24.xyz/) sitesine yükler ve bir link alırsınız. Ayrıca SD Kartınızın köküne kaydedilen `sysCheck.csv` dosyasını paylaşabilirsiniz. `IOSsysCheck.log` dosyası (aynı şekilde bu da kökte) IOS'unuz hakkında ek bilgiler içerir.
