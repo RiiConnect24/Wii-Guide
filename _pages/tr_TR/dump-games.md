@@ -2,7 +2,7 @@
 title: "Wii/GameCube oyunlarının dökümünü alma"
 ---
 
-GameCube veya Wii diskinin dökümünü mü almak istiyorsunuz? Kullanabileceğiniz araca bağlı olarak bunun iki yoku bulunmaktadır.
+GameCube veya Wii diskinin dökümünü mü almak istiyorsunuz? Kullanabileceğiniz araca bağlı olarak bunun iki yolu bulunmaktadır.
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">SD Karta/USB sürücüsüne</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">Ağ üzerinden bilgisayara</button>
