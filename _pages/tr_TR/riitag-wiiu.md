@@ -24,7 +24,7 @@ RiiTag, özelleştirilebilir ve dinamik bir oyuncu etiketidir. Bu etiketi (dinam
 
 ##### Bölüm I - Web sayfası talimatları
 
-1. [TiiTag web sayfasına gidin](https://tag.rc24.xyz/).
+1. [RiiTag web sayfasına gidin](https://tag.rc24.xyz/).
 2. `Log In’e` tıklayarak Discord hesabınızla giriş yapın.
 3. Karşınıza, `RiiConnect24 Girişi’ni` Discord ile yapmak isteyip istemediğinize dair bir iletişim penceresi çıkacak. `Yetki ver’e` tıklayın.
 4. `Edit Your Tag` seçeneğine tıklayın etiketinizin nasıl görüneceğini şekillendirin. Arkaplan, kaplama, bayrak, rumuz, Wii Numarası, ve manuel olarak etiketinizde göstereceğiniz oyunları (Eğer USB Loader kullanıyorsanız buna gerek yok) ekleyin.
@@ -37,7 +37,7 @@ RiiTag anahtarınızı kimseyle paylaşmayın! Eğer paylaşırsanız, başkalar
 ##### Bölüm II - SD Kartınızı ayarlamak
 
 1. Wii U Plugin Loader `.zip` dosyasını SD Kartınızın köküne çıkartın.
-   - SD Kartınızın `/wiiu/apps/` konumunda `wiiupluginloader` dosyasını oluşmalı.
+   - SD Kartınızın `/wiiu/apps/` konumunda `wiiupluginloader` dosyası oluşmalı.
 2. `UTag.mod` dosyasını, SD Kartınızdaki `/wiiu/plugins/` klasörüne yerleştirin.
 3. SD Kartınızın kökünde `utag,txt` dosyasını oluşturun ve metin editörüyle birlikte açın.
 4. [Bölüm I’in](#section-i---getting-started) beşinci adımında aldığınız notu `utag.txt’ye` yapıştırın ve dosyayı kaydedin.
@@ -52,7 +52,7 @@ RiiTag anahtarınızı kimseyle paylaşmayın! Eğer paylaşırsanız, başkalar
 
 ##### Bölüm IV - Başlangıçtan çalıştırma (opsiyonel)
 
-Şimdi, Wii U Plugin Loader’ın Wii U’nuzun başlangıcından çalıştıracağız. **Bu yöntem sadece Coldboot Haxchi kullanıyorsanız işe yarar.** Yine başlangıçta UTag’i etkinleştirip Wii I GamePad’inizden + tuşuna basmanız gerekmektedir.
+Şimdi, Wii U Plugin Loader’ın Wii U’nuzun başlangıcından çalıştıracağız. **Bu yöntem sadece Coldboot Haxchi kullanıyorsanız işe yarar.** Yine başlangıçta UTag’i etkinleştirip Wii U GamePad’inizden + tuşuna basmanız gerekmektedir.
 {: .notice--info}
 
 1. Coldboot Haxchi mod `.zip` dosyasını SD Kartınızın köküne çıkartın.
