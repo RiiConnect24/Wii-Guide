@@ -23,13 +23,13 @@ Burayı takip etmeden önce [cIOS](/cios)‘u yüklediğinizden emin olun!
 Eğer Windows kullanıyorsanız [Wii Backup Manager](/wiibackupmanager)’ı, macOS kullanıyorsanız [Witgui](https://desairem.com/wordpress/category/witgui-download/)‘ı ya da Windows, macOS ile Linux’ta çalışabilen [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion)‘ı kullanmanızı öneririz.
 {: .notice--info}
 
-NKit formatında bulunan oyunları oynamak istiyorsanız önce[bu programı](https://gbatemp.net/download/nkit.36157/) kullanarak onları ISO formatına dönüştürmeniz lazım. Ayrıca Dolphin’in geliştirici yapımında, oyuna sağ tıktan “Convert File”’a tıklayarak da bu işlemi gerçekleştirebilirsiniz.
+NKit formatında bulunan oyunları oynamak istiyorsanız önce [bu programı](https://gbatemp.net/download/nkit.36157/) kullanarak onları ISO formatına dönüştürmeniz lazım. Ayrıca Dolphin’in geliştirici yapımında, oyuna sağ tıktan “Convert File”’a tıklayarak da bu işlemi gerçekleştirebilirsiniz.
 {: .notice--info}
 
 Wii Backup Manager, Witgui ya da Wii Backup Fusion ile oyun kopyalamıyorsanız, USB sürücünüz ya da SD Kartınızda "wbfs" isimli bir klasör oluşturup oyunları oraya atın.
 {: .notice--info}
 
-Oyunları oynamak için, Wii’niz için bir harici bellek kullanmanızı öneririz. Flaş bellekler de kullanılabilir. Ancak harici bellekler hem daha güvenilir olduğundan hem de daha fazla oyun depolayabileceğinden dolayı tavsiye edilir.
+Birden fazla oyun oynamak istiyorsanız, Wii’niz için bir harici bellek kullanmanızı öneririz. Flaş bellekler de kullanılabilir. Ancak harici bellekler hem daha güvenilir olduğundan hem de daha fazla oyun depolayabileceğinden dolayı tavsiye edilir.
 {: .notice--info}
 
 USB sürücünüzün FAT32 ya da NTFS formatında olduğundan emin olun. extFS ya da Wii oyunlarını depolayan eski bir format olan WBFS gibi farklı türde bir formatta olmamalı.
@@ -39,17 +39,17 @@ USB sürücünüzün FAT32 ya da NTFS formatında olduğundan emin olun. extFS y
 
 ##### İndirme
 
-1. USB Loader GX’i çıkartın ve SD Kart ya da USB sürücünüzde `apps` klasörüne koyun.
+1. USB Loader GX’i çıkartın ve SD Kart ya da USB sürücünüzdeki `apps` klasörüne koyun.
 2. USB sürücünüzü ve kullanıyorsanız SD Kartınızı Wii’ye takın ve USB Loader GX’i Homebrew Channel üzerinden başlatın.
 
 ##### Başlangıç
 
-USB Loader GX uygulamasının kullanımı üzerine herhangi bir ''rehber'' bulunmamaktadır. Sadece size kullanımı öğretmeyi amaçlayan hızlı bir başlangıçtır. USB Loader GX’in bütün güzelliklerini kullanarak öğrenebileceksiniz.
+USB Loader GX uygulamasının kullanımı üzerine herhangi bir ''rehber'' bulunmamaktadır. Bu, sadece size kullanımı öğretmeyi amaçlayan hızlı bir başlangıçtır. Bu şekilde USB Loader GX’in bütün güzelliklerini kullanarak rahatça öğrenebileceksiniz.
 {: .notice--info}
 
 * Eğer USB Loader GX 20 saniyeyi geri sayarken "Waiting for HDD..." diyorsa, USB sürücünüzü bulamamış demektir. Uygulamadan çıkın ve tekrar başlatmadan önce USB sürücünüzü Wii'nin başka bir girişinden takın.
 * Wii kumandanızdan 1 tuşuna basarak [GameTDB'den](https://gametdb.com/) oyun kapakları ve çizimler indirebileceğiniz bir pencere açabilirsiniz. Ne kadar oyununuz olduğuna göre, kapakları ve çizimleri yüklemek biraz zaman alabilir.
-* Wii Menü'den USB Loader GX'i açabilmenizi sağlayan WAD dosyaları mevcuttur. Bunlara taşıyıcı WAD denir. Resmi taşıyıcı WAD [buradan](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), vWii (Wii U) sürümü ise [buradan](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad) bulunabilir.
+* Wii Menü'den USB Loader GX'i açabilmenizi sağlayan WAD dosyaları mevcuttur. Bunlara taşıyıcı WAD denir. Resmî taşıyıcı WAD [buradan](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), vWii (Wii U) sürümü ise [buradan](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad) bulunabilir.
 * GameCube ya da ''özel'' oyunlar USB Loader GX'in kullandığı bir kapağa sahip olup olmayacağı belli değildir. Bunu etkinleştirmek için USB sürücünüzün config/GXGlobal.cfg konumunda `CustomBannersURL = http://banner.rc24.xyz/` yazabilirsiniz. Ardından Wii kumandanızdan 1 tuşuna basarak ''Özel Kapak'' seçeneğini kullanabilirsiniz.
 
 ##### Kullanıcı Arayüzü
