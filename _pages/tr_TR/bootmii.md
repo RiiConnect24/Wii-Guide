@@ -12,7 +12,7 @@ Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen
 BootMii kullanarak NAND yedeği alabilmek için **SD Karta** ihtiyacınız vardır. SD Kartınız yoksa bu sayfayı geçebilirsiniz. Ama eğer sahipseniz, yapmanız şiddetle tavsiye edilir.
 {: .notice--warning}
 
-BootMii, boot2 adındaki dosya ile kurulması önerilir. Ama bu sadece ilk Wii modellerinde mevcut. Öbür türlü IOS olarak yüklenebilir.
+BootMii’nin, boot2 adındaki dosya ile kurulması önerilir. Ama bu sadece ilk Wii modellerinde mevcut. Öbür türlü IOS olarak yüklenebilir.
 {: .notice--info}
 
 BootMii’nin en önemli özelliklerinden biri Wii’nin NAND’ını yedekleyebilmesi ve geri getirebilmesidir. Biz de, BootMii ile NAND yedekleme işleminin nasıl yapılacağını göstereceğiz. Daha sonra herhangi bir sebepten dolayı yedeği geri getirebilirsiniz. Düzenli olarak veya riskli bir şey yapmadan önce (ne yaptığınızın farkındaysanız, riskli bir durumla karşılaşmazsınız) NAND yedeği almanız tavsiye edilir.
@@ -21,12 +21,12 @@ BootMii’nin en önemli özelliklerinden biri Wii’nin NAND’ını yedekleyeb
 * Minimum 512 MB hafızaya sahip bir SD Kart
 
 #### Talimatlar
-Eğer BootMii’yi boot2 adıyla yüklediyseniz, BootMii’yi başlatabilmek için konsolunuzu yeniden başlatmalısınız. Eğer durum buysa ilk 2 adımı geçin.
+Eğer BootMii’yi boot2 olarak yüklediyseniz, BootMii’yi başlatabilmek için konsolunuzu yeniden başlatmalısınız. Eğer durum buysa ilk 2 adımı geçin.
 {: .notice--info}
 1. Homebrew Channel’ı başlatın.
-2. Önce HOME tuşuna ardından “Launch BootMii” seçeneğinr basın.
+2. Önce HOME tuşuna ardından “Launch BootMii” seçeneğine basın.
 
-    BootMii’de seçim yapmak Wii Kumandası ile mümkün değildir. Ya POWER ve RESET tuşlarını kullanacaksınız ya da 1. porta bağlanan bir GameCube kumandası kullanacaksınız. Seçenekler arasında geçiş yapabilmek için Wii’nizi POWER tuşuna (ya da GameCube kumandanızın +Kontrol Pad’inden sağ tuşa) basın. Seçim yapabilmek için ya Wii’nizden RESET tuşuna ya da GameCube kumandanızdan A tuşuna basın.
+    BootMii’de seçim yapmak Wii Kumandası ile mümkün değildir. Ya POWER ve RESET tuşlarını kullanacaksınız ya da 1. porta bağlanan bir GameCube kumandası kullanacaksınız. Seçenekler arasında geçiş yapabilmek için Wii’nizin POWER tuşuna (ya da GameCube kumandanızın +Kontrol Tuşlarınızdan sağ tuşa) basın. Seçim yapabilmek için ya Wii’nizden RESET tuşuna ya da GameCube kumandanızdan A tuşuna basın.
     {: .notice--info}
 
 
