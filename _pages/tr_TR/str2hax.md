@@ -7,10 +7,10 @@ title: "str2hax"
 Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Eğer İnternet Servis Sağlayıcı’nız veya ağ ortamınız, özel DNS sunucularını önlüyorsa str2hax’ın çalışmayacağıma ve [başka exploit kullanmanız gerektiğini](get-started) aklınızda bulundurun.
+Eğer İnternet Servis Sağlayıcı’nız veya ağ ortamınız, özel DNS sunucularını önlüyorsa str2hax’ın çalışmayacağını ve [başka exploit kullanmanız gerektiğini](get-started) aklınızda bulundurun.
 {: .notice--info}
 
-str2hax, Wii’nin Son Kullanıcı Lisans Anlaşması yüklenirken çalışan bir Wii exploitidir. Wii’nizi DNS’sini değiştirmeye izin veren bir İnternet bağlantısı dışında başka bir şey gerektirmez.
+str2hax, Wii’nin Son Kullanıcı Lisans Anlaşması yüklenirken çalışan bir Wii exploitidir. Wii’nizin DNS’sini değiştirmeye izin veren bir İnternet bağlantısı dışında başka bir şey gerektirmez.
 
 #### İhtiyacınız olan şeyler
 
@@ -20,7 +20,7 @@ str2hax, Wii’nin Son Kullanıcı Lisans Anlaşması yüklenirken çalışan bi
 
 ##### Bölüm I - Bağlanma
 
-Exploit’i barındıran sunucuya erişebilmek için DNS’i ayarlamanız gerekmektedir.
+Explioti barındıran sunucuya erişebilmek için DNS’i ayarlamanız gerekmektedir.
 
 1. `Wii Options` kısmına gidin. ![Wii Seçenekleri](/images/RiiConnect24/Internet_1.png)
 2. `Wii Settings` kısmına gidin. ![Wii Ayarları](/images/RiiConnect24/Internet_2.png)
@@ -33,13 +33,13 @@ Exploit’i barındıran sunucuya erişebilmek için DNS’i ayarlamanız gerekm
 9. İkincil DNS’i ` 173.201.71.14` olarak girin.
 10. Önce `Confirm’i` ardından da `Save’i` seçin. ![DNS’i kaydet](/images/RiiConnect24/Internet_10.png)
 11. Bağlantı testi yapmak için `OK’i` seçin. ![Bağlantı Testi](/images/RiiConnect24/Internet_11.png)
-   - Eğer bağlantı testi başarılıysa `No’tu` seçip Wii Sistem Güncellemesi’ni geçin. ![Bağlantı Testi Başarılı](/images/RiiConnect24/Internet_12.png)
+   - Eğer bağlantı testi başarılıysa `No’yu` seçip Wii Sistem Güncellemesi’ni geçin. ![Bağlantı Testi Başarılı](/images/RiiConnect24/Internet_12.png)
    - Eğer başarısız olduysa lütfen [başka bir exploit](get-started) kullanın.
 
-##### Section II - Exploit’i Çalıştırmak
+##### Bölüm II - Exploiti Çalıştırmak
 
 1. Önce `Internet` ardından `User Agreements` veya `Agreement/Contact` kısmına gidip `Yes` deyin.
-2. Eğer açık mavi bir arkaplan önünde bir Midilli görüyorsanız, doğru ayarlamışsınız demektir. Exploit’in çalışması için 1-2 dakika bekleyin (genelde 1 dakika 25 saniye sürüyor). Exploit HackMii Installer’ı yükleyeceğinden devam edin.
+2. Eğer açık mavi bir arkaplan önünde bir midilli görüyorsanız, doğru ayarlamışsınız demektir. Exploitin çalışması için 1-2 dakika bekleyin (genelde 1 dakika 25 saniye sürüyor). Exploit, HackMii Installer’ı yükleyeceğinden devam edin.
 
 Eğer HackMii Installer çalışmazsa ve donarsa (imleci hareket ettiremezseniz) ya da 1-2 dakika olmasına rağmen exploit çalışmazsa, Wii’nizi yeniden başlatıp tekrar deneyin.
 
