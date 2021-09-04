@@ -16,7 +16,7 @@ Orijinal Wii'de bulunan belirli özellikler vWii'de bulunmadığından dolayı, 
 
 #### Uyarılar
 
-Eğer konsolunuzu brick moduna sokar ya da konsolunuza başka bir hasar verirseniz; biz sorumlu **DEĞİLİZ**. Eğer bu rehberi tam olarak takip ederseniz, herhangi bir sorunla karşılaşmazsınız.
+Eğer konsolunuzu brick moduna sokar ya da konsolunuza başka bir hasar verirseniz; biz sorumlu **DEĞİLİZ**. Eğer bu rehberi tam olarak takip ederseniz, zaten herhangi bir sorunla karşılaşmazsınız.
 {: .notice--warning}
 
 Bu rehberi, vWii (Wii U'da bulunan Sanal Wii) dışında başka bir konsola **UYGULAMAYIN**. Eğer Nintendo Wii için talimat arıyorsanız, [wii.rehberi/riiconnect24](riiconnect24) sayfasına gidin. Eğer Dolphin emülatörü için talimat arıyorsanız, [wii.rehberi/riiconnect24-dolphin](/riiconnect24-dolphin) sayfasına gidin.
@@ -45,7 +45,7 @@ Eğer yamalayıcıyı kullanamazsanız [bu rehberi takip ederek](https://pad.sno
 
 Daha önceden [İhtiyacınız olan şeyler](#what-you-need) kısmından yüklemiş olduğunuz RiiConnect24 Yamalayıcı ile vWii’nizde kullanmak üzere IOS31, News, Everybody Votes, Nintendo ve Check Mii Out Channel’ı indireceksiniz.
 
-1. Windows için `RiiConnect24Patcher.bat` dosyasını çalıştırın. Unix için ise Bash’e basıp terminali açın ve `RiiConnect24Patcher.sh` dosyasını terminale sürükleyip ENTER’a basın. `bash RiiConnect24Patcher.sh` şeklinde görünmesi gerekmektedir. Ekrandaki talimatları izleyin.
+1. Windows için `RiiConnect24Patcher.bat` dosyasını çalıştırın. Unix için ise bash yasıp `RiiConnect24Patcher.sh` dosyasını terminale sürükleyip ENTER’a basın. `bash RiiConnect24Patcher.sh` şeklinde görünmesi gerekmektedir. Ekrandaki talimatları izleyin.
 
 2. Yamalayıcıyı çalıştırdıktan sonra, 3 klasörünüzün olduğunu teyit edin. `RiiConnect24Patcher.bat/sh` dosyasıyla aynı yerde ve eğer yamalayıcıda seçtiyseniz SD Kartınızında bulunacaktır.
    - Eğer yamalayıcı dosyaları SD Kartınıza taşımadıysa, bu 3 klasörü SD Kartınızın köküne taşıyın.
@@ -58,7 +58,7 @@ Daha önceden [İhtiyacınız olan şeyler](#what-you-need) kısmından yüklemi
 4. Arında `RiiConnect24` geçen bütün WAD dosyalarını + tuşuna basarak işaretleyin. Hepsi seçildiğinde A'ya iki kere basarak WAD yüklemesine başlayın.
 5. Dosyalar başarıyla yüklendiği vakit, HOME tuşuna basarak Homebrew Channel'a geri dönün.
 
-##### Bölüm III - 43db’ti 16:9 için yamalama (opsiyonel)
+##### Bölüm III - 43db’yi 16:9 oranı için yamalama (opsiyonel)
 
 1. Homebrew Channel’ı başlatın
 2. ww-43db-Patcher’ı başlatın
@@ -68,10 +68,10 @@ Eğer bir tema yüklerseniz, dosyayı yeniden çalıştırmanız gerekir
 
 ##### Bölüm IV - RiiConnect24’ü kullanmak
 
-Yukarıdaki adımları uyguladıktan sonra Wii U’nuzda RiiConnect 24’ün neredeyse bütün özelliklerinden faydalanabileceksiniz. Bunun için **her vWii’yi yeniden başlattığınızda** müteakip aşımları uygulamanız gerekmektedir.
+Yukarıdaki adımları uyguladıktan sonra Wii U’nuzda RiiConnect 24’ün neredeyse bütün özelliklerinden faydalanabileceksiniz. Bunun için **her vWii’yi yeniden başlattığınızda** müteakip adımları uygulamanız gerekmektedir.
 
-1. vWii’nin **Wii Menü’sünde** bulunan **ConnectMii** adlı kanalı başlatın.
-* Bu WiiConnect24’ü ve WiiConnect24 için gereken Bekleme Bağlantısı bayraklarını etkinleştirir.
+1. vWii’nin **Wii Menüsü’nde** bulunan **ConnectMii** adlı kanalı başlatın.
+* Bu, WiiConnect24’ü ve WiiConnect24 için gereken Bekleme Bağlantısı bayraklarını etkinleştirir.
 2. WiiConnect24 kanallarını başlatın.
 * Şu an, yüklemiş olduğunuz WiiConnect24 kanallarının hepsinden faydalanabileceksiniz!
 
@@ -89,5 +89,5 @@ Müteakip RiiConnect24 servisleri vWii'de **çalışmaktadır**:
 Müteakip RiiConnect24 servisleri vWii'de **çalışmayacaktır**:
 * Wii Mail (işlevlerinin büyük çoğunluğu vWii'de çalışmayacaktır)
     * Bu, arkadaşlarla mesajlaşmayı da içerir. Sadece küresel yayınları ve RSSMii beslemelerini (eğer ayarlıysa) alabilirsiniz.
-* [RiiConnect24](https://rc24.xyz/stats/index.html) istatisklerine göre diğer her şey çalışmaycaktır.
+* [RiiConnect24](https://rc24.xyz/stats/index.html) istatisklerine göre diğer her şey çalışmayacaktır.
 {: .notice--warning}
