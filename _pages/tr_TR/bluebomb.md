@@ -4,7 +4,7 @@ title: "BlueBomb"
 
 {% include toc title="Table of Contents" %}
 
-Eğer bu öğretici ile alakalı herhangi bir sorunuz varsa, lütfen [ Wii Mini Hacking Discord serverımıza](https://discord.gg/6ryxnkS) katılın (önerilir)
+Eğer bu öğretici ile alakalı herhangi bir sorunuz varsa, lütfen [ Wii Mini Hacking adlı Discord sunucumuza](https://discord.gg/6ryxnkS) katılın (önerilir)
 {: .notice--info}
 
 ![BlueBomb](/images/bluebomb.png)
@@ -20,7 +20,7 @@ Orijinal Wii için, Homebrew Channel ve BootMii gibi daha münasip exploit yükl
   - Linux için Windows Altsistemi, eğer Bluetooth adaptörü ve USB portuna direkt erişimi yoksa *çalışmayacaktır*.
   - Eğer Linux’unuz yoksa, Windows ve Mac bilgisayarlarda da çalışan kullanıcı dostu [Ubuntu’yu](https://ubuntu.com/download/desktop) seçebilirsiniz.
     - 32-bit cihazlar [Ubuntu 16.04’ü](http://releases.ubuntu.com/16.04/) gerektirir.
-    - 64-bit cihazlar için, stabil olmasından dolayı LTS edisyonu kullanılması tavsiye edilir. Ama diğer sürümler de kullanılabilir.
+    - 64-bit cihazlar için, stabil olmasından dolayı LTS sürümünün kullanılması tavsiye edilir. Ama diğer sürümler de kullanılabilir.
   - Bilgisayarınıza yüklemek yerine [USB flash belleğe Linux yükleyebilirsiniz](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview).
 - Bluetooth adaptörü.
   - Dahili Bluetooth adaptörü işe yarar.
@@ -32,17 +32,17 @@ Orijinal Wii için, Homebrew Channel ve BootMii gibi daha münasip exploit yükl
 1. [BootMii web sayfasından](https://bootmii.org/download/) HackMii Installer’ı indirin.
 - (Eğer bir brick’i düzeltmeye çalışıyorsanız, kullanmak istediğiniz homebrew uygulamasını /apps/ klasörüne kopyalayın)
 1. Dosyaları çıkartın ve `boot.elf` dosyasını flash belleğinize taşıyın.
-1. Flash belleği konsolunuza takın. Wii mini’de USB girişi arkadadır. Normal Wii’de ise alt taraftaki girişi kullanın. (ya da dikse sağdaki portu).
-1. Konsolunuzu açık ve ayarlar menüsüne gidin. Dağ üst köşede aşağıdaki resimdeki gibi 4 karakterlik bir kod göreceksiniz. Bu kod sizin Wii Menü’nüzün sürümüdür. Daha sonra ihtiyaç duyacağınızdan bunu not alın. Sonra, konsolunuzu kapatın. ![SistemMenüsüSürümü](/images/Wii/SystemMenuVersion.png)
+1. Flash belleği konsolunuza takın. Wii mini’de USB girişi arkadadır. Normal Wii’de ise alt taraftaki girişi kullanın. (ya da dikse sağdakini).
+1. Konsolunuzu açın ve ayarlar menüsüne gidin. Sağ üst köşede aşağıdaki resimdeki gibi 4 karakterlik bir kod göreceksiniz. Bu kod sizin Wii Menü’nüzün sürümüdür. Daha sonra ihtiyaç duyacağınızdan dolayı bunu not alın. Sonra, konsolunuzu kapatın. ![SistemMenüsüSürümü](/images/Wii/SystemMenuVersion.png)
 1. Linux dağıtımınızı başlatın ve internete bağlı olduğunuzdan emin olun.
-1. Terminal'i açın
+1. Terminali açın
 1. Müteakip komutları girin:
 ```bash
 wget https://wii.guide/assets/files/bluebomb-helper.sh
 chmod +x bluebomb-helper.sh
 ./bluebomb-helper.sh
 ```
-1. Yardımcı ihtiyacınız olan dosyaları indirecek ve sizden konsolunuz hakkında bilgi isteyecek.
+1. Yardımcı, ihtiyacınız olan dosyaları indirecek ve sizden konsolunuz hakkında bilgi isteyecek.
   - Eğer Wii mini’yi seçtiyseniz bölgenizi belirtmenizi isteyecektir. Bu, Wii Menü sürümünüzün son harfine göre seçilecek (**USA** için `U` ve **PAL** için `E`).
   - Eğer Wii’yi seçtiyseniz (4. adımda kaydetmiş olduğunuz) Wii Menü’nüzün sürümünü belirtmenizi isteyecektir
 1. Konsolunuzu açın ve herhangi bir Wii Kumandasını **bağlamayın**.
