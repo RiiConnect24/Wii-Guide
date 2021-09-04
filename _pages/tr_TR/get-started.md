@@ -7,7 +7,7 @@ title: "Başlangıç"
 Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Eğer yine de Wii’niz softmodlandıysa, müteakip adımlar softmodunuzun güncel olup olmadığını teyit edebilmenizi sağlayacaktır.
+Wii’niz halihazırda softlanmış olsa bile, müteakip adımlar softmodunuzun güncel olup olmadığını teyit edebilmenizi sağlayacaktır.
 {: .notice--info}
 
 Bütün exploitler HackMii Yükleyicisi’ni çalıştırabilir ve hepsinin sonucu aynıdır.
