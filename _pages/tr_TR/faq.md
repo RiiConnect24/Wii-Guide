@@ -5,7 +5,7 @@ title: "Sıkça Sorulan Sorular (S.S.S)"
 ![RiiConnect24 Wii Logosu Sarı](/images/Wii_Yellow_Gray.jpg)
 
 ### Konsolumu hacklemek ne kadar riskli?
-Brick modu (bazı Wii yazılımlarının veya tamamen Wii’nin çalışmadığı durumlar), verilen güvenlik kontrollerini umursamayıp atlamaz veya Wii Menü’nün eski sürümünü yüklemeye çalışmak gibi safça ve oldukça riskli bir işe girişmesisiniz sürece son derece nadirdir. Brick modundan korunmak için konsolunuza [BootMii](bootmii) ve [Priiloader](priiloader) yüklediğinizden emin olun!
+Brick modu (bazı Wii yazılımlarının veya tamamen Wii’nin çalışmadığı durumlar), verilen güvenlik kontrollerini umursamayıp atlamaz veya Wii Menü’nün eski sürümünü yüklemeye çalışmak gibi safça ve oldukça riskli bir işe girişmezseniz son derece nadirdir. Brick modundan korunmak için konsolunuza [BootMii](bootmii) ve [Priiloader](priiloader) yüklediğinizden emin olun!
 
 ### Destek için nereye gidebilirim?
 Destek için [RiiConnect24’ün Discord sunucusuna katılabilir](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atabilirsiniz](mailto:support@riiconnect24.net).
@@ -20,7 +20,7 @@ Homebrew uygulamalarını depolamak için minimum 2GB hafızaya sahip bir SD Kar
 ### Wiimmfi’de XXXXXX numaralı hata kodunu aldım. Bunu nasıl düzeltebilirim?
 Hatanın sebebini öğrenmek için lütfen [Wiimmfi hata sayfasını](https://wiimmfi.de/error) ziyaret edin.
 
-### vWii modlamadaki sınırlamalar nelerdir?
+### vWii modlamasındaki sınırlamalar nelerdir?
 Birazdan gelecek listedekiler vWii’nizi **BRICK MODUNA** sokma ihtimali yüksek olan şeylerdir (sakın yapmayın!):
 * vWii’ye Wii konsolu için geliştirilmiş bir IOS yüklemek.
 * vWii’nize ve(ya) bölgenize göre formatlanmayan Wii Menü teması yüklemek.
