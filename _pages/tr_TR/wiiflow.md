@@ -9,7 +9,7 @@ Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen
 
 ![WiiFlow](/images/wiiflowlogo.png)
 
-Bu, USB sürücüsü veya SD Kartta bulunan oyunları Wii’de oynayabilme olacağı saplayan WiiFlow’un nasıl kullanılacağına dair bir hızlı başlangıç rehberidir.
+Bu, USB sürücüsü veya SD Kartta bulunan oyunları Wii’de oynayabilme olanağı sağlayan WiiFlow’un nasıl kullanılacağına dair bir hızlı başlangıç rehberidir.
 
 #### İhtiyacınız olan şeyler
 
@@ -23,7 +23,7 @@ Burayı takip etmeden önce [cIOS](/cios)‘u yüklediğinizden emin olun!
 Eğer Windows kullanıyorsanız [Wii Backup Manager](/wiibackupmanager)’ı, macOS kullanıyorsanız [Witgui](https://desairem.com/wordpress/category/witgui-download/)‘ı ya da Windows, macOS ile Linux’ta çalışabilen [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion)‘ı kullanmanızı öneririz.
 {: .notice--info}
 
-NKit formatında bulunan oyunları oynamak istiyorsanız önce[bu programı](https://gbatemp.net/download/nkit.36157/) kullanarak onları ISO formatına dönüştürmeniz lazım. Ayrıca Dolphin’in geliştirici yapımında, oyuna sağ tıktan “Convert File”’a tıklayarak da bu işlemi gerçekleştirebilirsiniz.
+NKit formatında bulunan oyunları oynamak istiyorsanız önce [bu programı](https://gbatemp.net/download/nkit.36157/) kullanarak onları ISO formatına dönüştürmeniz lazım. Ayrıca Dolphin’in geliştirici yapımında, oyuna sağ tıktan “Convert File”’a tıklayarak da bu işlemi gerçekleştirebilirsiniz.
 {: .notice--info}
 
 Wii Backup Manager, Witgui ya da Wii Backup Fusion ile oyun kopyalamıyorsanız, USB sürücünüz ya da SD Kartınızda "wbfs" isimli bir klasör oluşturup oyunları oraya atın.
@@ -47,12 +47,12 @@ USB sürücünüzün ve(ya) SD Kartınızın FAT32 ya da NTFS formatında olduğ
 
 ##### Başlangıç
 
-Bu WiiFlow kullanımı üzerine tam kapsamlı bir rehber değildir. Sadece size kullanımı öğretmeyi amaçlayan hızlı bir başlangıçtır. WiiFlow’un bütün güzelliklerini kullanarak öğrenebileceksiniz.
+Bu WiiFlow kullanımı üzerine tam kapsamlı bir rehber değildir. Bu, sadece size kullanımı öğretmeyi amaçlayan hızlı bir başlangıçtır. WiiFlow’un bütün güzelliklerini kullanarak öğrenebileceksiniz.
 {: .notice--info}
 
 * WiiFlow, varsayılanda sadece SD Kartta bulunan oyunları algılamaya ayarlıdır. Bunu ayarlarda bulunan “startup settings” kısmında “Mount SD Only” seçeneğini kapatarak değiştirebilirsiniz.
-* Sağdaki sondan ikinci butona basarak Wii oyunları, GameCuve oyunları, Wii Kanalları, Eklentiler ve Homebrew uygulamaları arasında geçiş yapabilirsiniz.
-* Ayarlardan “Download Covers ABD Banner” seçeneğine basarak oyun kapaklarını yükleyebilirsiniz.
+* Sağdaki sondan ikinci butona basarak Wii oyunları, GameCube oyunları, Wii Kanalları, Eklentiler ve Homebrew uygulamaları arasında geçiş yapabilirsiniz.
+* Ayarlardan “Download Covers and Banner” seçeneğine basarak oyun kapaklarını yükleyebilirsiniz.
 
 ##### Kullanıcı Arayüzü
 
@@ -88,5 +88,5 @@ Akış görünümündeyken, imleci ekranın altına getirirseniz, şu 6 simgeyi 
 [WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki, WiiFlow hakkında bilgi edinilebilecek harika bir kaynaktır.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Site haritasından devam edin](site-navigation)<br> Sevebileceğiniz pek çok öğreticiye daha sahibiz.
 {: .notice--info}
