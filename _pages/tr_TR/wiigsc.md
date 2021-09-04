@@ -1,34 +1,34 @@
 ---
-title: "Creating Wii Game Shortcuts"
+title: "Wii Oyunu Kısayolu oluşturma"
 ---
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Do you use a USB Loader and want to create game shortcuts to launch them on your Wii Menu? Then try WiiGSC (Wii Game Shortcut Creator), previously known as Crap.
+USB Loader kullanıyor ve Wii Menü'nüzde çalıştırabileceğiniz bir kısayol mu oluşturmak istiyorsunuz? O zaman daha önce Crap adıyla bilinen WiiGSC'yi (Wii Game Shortcut Creator) deneyin.
 
-In the case of a brick, [installing Priiloader is a must](/priiloader). Also, install BootMii (as Boot2 if you have an early Wii). Installing brick protection along with following the guide correctly should keep you safe from bricks. DO NOT CONTINUE UNTIL YOU HAVE INSTALLED PRIILOADER AND BOOTMII!
+Brick modu gibi bir durumda [Priiloader'ı yüklemeniz gerekir](/priiloader). Ayrıca BootMii'yi (ilk Wiiler için Boot2) yükleyin. Bu rehberi takip ederken brick koruması yüklemek sizi brick modundan koruyacaktır. PRIILOADER VE BOOTMII'Yİ YÜKLEMEDEN SAKIN DEVAM ETMEYİN!
 {: .notice--warning}
 
-Do NOT make a shortcut for the games "Mario Party 9" or "A Boy and His Blob". It will brick your Wii.
+''Mario Party 9'' ve ''A BOY and His Blob'' oyunlarının kısayollarını SAKIN yapmayın. Bunu yapmak Wii'nizi brick moduna sokar.
 {: .notice--warning}
 
-#### What you need
+#### İhtiyacınız olan şeyler
 
-* A Wii
-* A USB drive.
-* A WAD Manager (Wii Mod Lite is recommended).
-* A Windows computer.
+* Wii
+* USB sürücü.
+* WAD yöneticisi (Wii Mod Lite tavsiye edilir).
+* Windows bilgisayar.
 * [WiiGSC](https://wiidatabase.de/downloads/pc-tools/wiigsc-ehemals-crap/)
 
-#### Instructions
+#### Talimatlar
 
-1. Install WiiGSC, then right click on it and choose **Run as administrator**. If you do not do this, WiiGSC will throw an error when you open it.
-2. Select the path to the ISO or WBFS file on your USB drive, and select the USB Loader you use. The other options should be fine the way thy are.
-3. If you're using USB Loader GX, make sure to use [this version](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip).
-4. Install the generated WAD with a WAD Manager, we recommend Wii Mod Lite.
+1. WiiGSC'yi yükleyince üzerine sağ tık yapıp **Yönetici olarak çalıştırın** seçeneğini seçin. Eğer böyle yapmazsanız, WiiGSC açılırken hata verecektir.
+2. USB sürücünüzdeki ISO ve WBFS dosyasının yolunu seçin ardından kullandığınız USB Loader'ı seçin. Diğer seçenekler sizinki gibi iyi olmalıdır.
+3. Eğer USB Loader GX kullanıyorsanız, [bu sürümü](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip) kullandığınızdan emin olun.
+4. WAD Yöneticiniz ile oluşturulmuş WAD dosyasını yükleyin. Wii Mod Lite'ı bulun.
 
-If you get an error saying "The system files are corrupted", don't panic as long as you installed Priiloader. Turn off your Wii, then hold down the RESET button down and turn on your Wii. You should be able to boot into the Priiloader menu, where you have some options to fix your Wii Menu. One of the options is to launch the Homebrew Channel.
+Eğer ''Sistem dosyaları bozuk'' adlı bir uyarı aldıysanız, Priiloader yüklediğinizden dolayı panik yapmanıza gerek yok. Wii'nizi kapatın ve RESET tuşuna basılı tutun ve Wii'nizi açın. Wii Menü'nüzü düzeltebileceğiniz Priiloader menüsünü açmış olmanız gerekir. Bu, Homebrew Channel'ı başlatabilmeniz için kullanabileceğiniz seçeneklerden biridir.
 {: .notice--info}

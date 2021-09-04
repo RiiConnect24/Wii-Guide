@@ -1,16 +1,16 @@
 ---
 title: "Site Haritası"
-layout: Yanlız
+layout: yalnız
 sitemap: false
 ---
 
-![WiiTutorials](/images/WiiTutorials.jpg)
+![WiiÖğreticileri](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
-**Featured**
+**Öne Çıkanlar**
 
 + [cIOS](cios)
-+ [RiiConnect24](riiConnect24)
++ [RiiConnect24](riiconnect24)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 + [Kirby TV Channel](kirby-tv)
@@ -19,23 +19,23 @@ sitemap: false
 
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
-+ [RiiConnect24](riiConnect24)
++ [RiiConnect24](riiconnect24)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 + [Kirby TV Channel](kirby-tv)
-+ [WiiWare Patcher](wiiwarepatcher)
-+ [Deleting VFFs](deleting-vffs)
-+ [Fixing FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [WiiWare Yamalayıcısı](wiiwarepatcher)
++ [VFF Dosyalarını Silme](deleting-vffs)
++ [FORE000006 Düzeltimi](riiconnect24-batteryfix)
++ [NEWS000006 Düzeltimi](news000006)
 
-**Modding 101**
-+ [Mavi Bomba](bluebomb)
-* [BootMii Backup](bootmii)
+**Modlama 101**
++ [BlueBomb](bluebomb)
+* [BootMii Yedekleme](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
-+ [Homebrew Browser](hbb)
++ [Homebrew Tarayıcısı](hbb)
 + [Homebrew Channel](hbc)
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
@@ -43,26 +43,25 @@ sitemap: false
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Creating Wii Game Shortcuts](wiigsc)
-+ [How to dump GameCube/Wii games](dump-games)
-+ [How to dump Channels (WADs)](dump-wads)
-+ [Installing RSSMii](rssmii)
-+ [Installing Wii Themes](themes)
-+ [Performing a SysCheck](syscheck)
-+ [Removing RSSMii](rssmii-remove)
++ [Wii Oyunu Kısayolu oluşturma](wiigsc)
++ [GameCube/Wii oyunlarının dökümü nasıl alınır](dump-games)
++ [Kanalların (WAD) dökümü nasıl alınır](dump-wads)
++ [RSSMii yükleme](rssmii)
++ [Wii Teması yükleme](themes)
++ [SysCheck yapma](syscheck)
++ [RSSMii'yi kaldırmak](rssmii-remove)
 + [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 + [WiiFlow](wiiflow)
 
 **Wii mini**
-+ [Installing the Homebrew Channel on the Wii mini](hbc-mini)
-+ [Installing cIOS on the Wii mini](cios-mini)
++ [Wii mini'ye Homebrew Channel yükleme](hbc-mini)
++ [Wii mini'ye cIOS yükleme](cios-mini)
 
 **Site**
-+ [Home](/)
-+ [Get Started](baslarken)
++ [Ana sayfa](/)
++ [Başlangıç](baslarken)
 + [Sıkça Sorulan Sorular (S.S.S)](S.S.S)
-+ [Donations](donations)
-{% endcapture %}
++ [Bağışlar](donations){% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>

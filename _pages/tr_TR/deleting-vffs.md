@@ -1,33 +1,33 @@
 ---
-title: "RiiConnect24 Clear Tool"
+title: "RiiConnect24 Temizleme Aracı"
 ---
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![RiiConnect24 Logosu](/images/WiiRC24Logo.jpg)
 
-RiiConnect24 Clear Tool is a homebrew application that can fix these specific errors and issues:
+RiiConnect24 Temizleme Aracı, müteakip hataları ve sorunları düzelten bir homebrew uygulamasıdır:
 
-+ Discontinued Message
++ Durdurulma Mesajı
 + NEWS/FORE000001
 + NEWS/FORE000003
 + NEWS/FORE000005
 + NEWS/FORE000099
 + NEWS000006
-+ Clears out Wii mailboxes in case they are full (this can fix Wii Mail)
++ Wii posta kutusunu dolu olduğu zaman temizler (bu aynı zamanda Wii Mail’i de düzeltir)
 
-#### What you need
-* An SD card or USB drive
-* [RiiConnect24 Clear Tool](https://oscwii.org/library/app/RC24-Clear-Tool)
+#### İhtiyacınız olan şeyler
+* SD Kart veya USB sürücü
+* [RiiConnect24 Temizleme Aracı](https://oscwii.org/library/app/RC24-Clear-Tool)
 
-#### Instructions
+#### Talimatlar
 
-1. Extract RiiConnect24 Clear Tool and put it in the `apps` folder on your SD card or USB drive.
-2. Insert your SD card or USB drive into your Wii, and launch RiiConnect24 Clear Tool from the Homebrew Channel.
-3. The app will help you resolve whatever problem you are having.
+1. RiiConnect24 Temizleme Aracı’nı çıkartın ve SD Kart ya da USB sürücünüzdeki `apps` klasörüne koyun.
+2. USB sürücünüzü veya SD Kartınızı Wii’nize takın ve RiiConnect24 Temizleme Aracı’nı Homebrew Channel’dan başlatın.
+3. Bu uygulama karşılaştığınız problemi çözecektir.
 
-[Return to RiiConnect24 installation page](riiConnect24)
+[RiiConnect24 indirme sayfasına dön](riiconnect24)
 {: .notice--info}
