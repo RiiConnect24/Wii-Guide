@@ -15,7 +15,7 @@ Homebrew Channel, homebrew uygulamalarını başlatabileceğiniz yerdir.
 Bu sayfa **sadece ** Wii mini kullanıcıları içindir. Eğer normal bir Wii'niz varsa [bu rehberi](hbc) takip edin.
 {: .notice--info}
 
-Her ne kadar, Wii mini'nize BootMii yüklemek mümkün olsa da, bunun için SD Kart girişi lehimlemeniz gerekmektedir. Bunun için Wii mini'nizin içini açmanız ve özel araçları kullanmanız gerektiğinden bu yöntemi tavsiye etmiyoruz.
+Her ne kadar, Wii mini'nize BootMii yüklemek mümkün olsa da, bunun için konsola bir SD Kart girişi lehimlemeniz gerekmektedir. Bunun için Wii mini'nizin içini açmanız ve özel araçları kullanmanız gerektiğinden bu yöntemi tavsiye etmiyoruz.
 {: .notice--info}
 
 1. Sahte bir uyarı ekranı göreceksiniz. Metin için 30 saniye bekleyin ve "Press 1 to continue" gözükünce 1 tuşuna basın. ![Sahte Ekran](/images/Wii/ScamScreen.png)
@@ -26,5 +26,5 @@ Her ne kadar, Wii mini'nize BootMii yüklemek mümkün olsa da, bunun için SD K
 
 1. Tamamlandığında HackMii yükleyicisinden çıkmak için `Exit` deyin.
 
-[Priiloader'ı yüklemeden devam edin](priiloader) Priiloader, brick modundan koruma sağlar; ve yüklemeniz şiddetle tavsiye edilir.
+[Priiloader'ı yüklemeye devam edin](priiloader) Priiloader, brick modundan koruma sağlar; ve yüklemeniz şiddetle tavsiye edilir.
 {: .notice--info}
