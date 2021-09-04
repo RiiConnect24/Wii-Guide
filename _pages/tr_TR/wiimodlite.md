@@ -25,7 +25,7 @@ Waninkoko tarafından yapılan “WAD Yöneticisi”ni kullanmanızı tavsiye et
 
 ##### Bölüm II - Çalıştırma
 
-Bu aracı kullanabilmek için +Kontrol Pad gereklidir.
+Bu aracı kullanabilmek için +Kontrol Tuşları gereklidir.
 {: .notice--info}
 
 1. `WAD Manager’ı` seçin. ![WAD Manager](/images/WiiModLite/2.png)
