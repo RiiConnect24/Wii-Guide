@@ -14,13 +14,13 @@ Bu rehber diğer dillerde de mevcuttur! Dili değiştirmek için sağ üstte bul
 
 ## "Homebrew" nedir?
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) Nintendo tarafından izin almayan yazılım anlamına gelir. Bu oyunları, araçları, emulatörleri ve çok daha fazlasını içerir!
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) Nintendo tarafından izin verilmeyen yazılım anlamına gelir. Bu, oyunları, araçları, emulatörleri ve çok daha fazlasını içerir!
 
 Nintendo Wii’de homebrew çalıştırmak Wii’nin yazılımındaki açıklar sayesinde ücretsiz gerçekleştirilebilmektedir. Bu rehberi takip ederek yapacağınız modlama Wii homebrew’una kolayca ve kalıcı olarak erişebilmenizi sağlayacak.
 
 ## Homebrew ile ne yapabilirim?
 
-Homebrew’u kullanarak yapabileceklerinizin bir listesi aşağıda bulunmaktadır. Bu liste kapsayıcı olmamakla birlikte sizi muhtemel şeyler hakkında bir fikir verecek ve bu rehber bunlara kolaylıkla başlamanızı sağlayacak.
+Homebrew’u kullanarak yapabileceklerinizin bir listesi aşağıda bulunmaktadır. Bu liste kapsayıcı olmamakla birlikte size muhtemel şeyler hakkında bir fikir verecek ve bu rehber bunlara kolaylıkla başlamanızı sağlayacak.
 
 - [Riivolution’u](http://www.wiibrew.org/wiki/Riivolution) kullanarak disk içeriklerini yamalayabilirsiniz (oyun modlamanıza olanak sağlar).
 - [MyMenuify](themes) kullanarak Wii Menü’nüze tema yükleyebilirsiniz.
@@ -36,7 +36,7 @@ Homebrew’u kullanarak yapabileceklerinizin bir listesi aşağıda bulunmaktad�
 
 ## Hazır mısınız?
 
-[Exploti’inizi seçerek](get-started) başlayın!
+[Explotinizi seçerek](get-started) başlayın!
 {: .notice--info}
 
 ## Daha Fazla Kaynak
@@ -46,7 +46,7 @@ Wii’nizi modlamanıza ve karşılaşacağınız sorunlara yardımcı olabilece
 - [ModMii](https://modmii.github.io/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
-- [Cyan tarafından Wii Hacking Explained](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...ve tabi ki bu site
+- [Cyan tarafından oluşturulan Wii Hacking Explained](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...ve tabi ki bu site
 
 Wii U’yu modlamak için bu rehbere bakın:
 - [NH Wii U Rehberi](https://wiiu.hacks.guide)
