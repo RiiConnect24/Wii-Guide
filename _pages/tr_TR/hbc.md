@@ -9,7 +9,7 @@ Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen
 
 ![HBC Logosu](/images/hbc.png)
 
-Homebrew Channel, homebrew uygulamalarını başlatabileceğiniz yerdir. BootMii, Wii'nizin NAND belleğini yedekleyip geri getirebilen bir yazılımdır. boot2 olarak yüklendiyse, sizi brick modundan da korur.
+Homebrew Channel, homebrew uygulamalarını başlatabileceğiniz yegane yerdir. BootMii ise, Wii'nizin NAND belleğini yedekleyip geri getirebilen bir yazılımdır. boot2 olarak yüklendiyse, sizi brick modundan da korur.
 
 #### Talimatlar
 
@@ -25,7 +25,7 @@ Homebrew Channel, homebrew uygulamalarını başlatabileceğiniz yerdir. BootMii
 6. Eğer ana ekran BootMii'yi boot2 olarak yükleyebileceğinizi söylüyorsa, öyle yükleyin. Bu, sahip olabileceğiniz en iyi brick korumasıdır. Eğer BootMii'yi, boot2 olarak yükleyemiyorsanız bu adımı geçin.
 7. BootMii'yi, önceki adımda BootMii'yi boot2 olarak yüklemiş olsanız bile, IOS olarak yükleyin. Eğer BootMii'yi boot2 olarak yükleyemediyseniz, bu adım yine de sizin için NAND yedeklemesi alacaktır.
 
-Eğer SD Kartınız yoksa, BootMii'yi yükleyemez ya da kullanamazsınız. Ayrıca belirtilen faydalı içeriklere de erişemezsiniz. Başka bir tarihte her zaman yükleyebilirsiniz.
+Eğer SD Kartınız yoksa, BootMii'yi yükleyemez ya da kullanamazsınız. Ayrıca belirtilen faydalı içeriklere de erişemezsiniz. Ancak daha sonra istediğiniz zaman yükleyebilirsiniz.
 {: .notice--warning}
 
 ![BootMii Yüklemesi](/images/Wii/InstallBootMii.png)
