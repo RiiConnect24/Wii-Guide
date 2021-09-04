@@ -7,7 +7,7 @@ title: "Wii Backup Manager"
 Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Wii Backup Manager, Wii oyunlarını bilgisayardan USB sürücüsüne kopyalayarak Wii’nizde oyun USB sürücüsü üzerinden oyun oynayabilmenizi sağlar. Ayrıca [GameTDB](https://gametdb.com/) üzerinden oyun kapağı yükleyebilmenizi sağlar ve sahip olduğunuz oyunların listesini yapar. Bu öğretici size bilgisayarınızdan USB sürücünüze nasıl oyun kopyalayabileceğinizi gösterecek. Diğer özellikler ise kolay kullanım sağlayan arayüz sayesinde öğreticiye ihtiyaç duyulmadan kullanılabilir.
+Wii Backup Manager, Wii oyunlarını bilgisayardan USB sürücüsüne kopyalayarak Wii’nizde USB sürücüsü üzerinden oyun oynayabilmenizi sağlar. Ayrıca [GameTDB](https://gametdb.com/) üzerinden oyun kapağı yükleyebilmenizi sağlar ve sahip olduğunuz oyunların listesini yapar. Bu öğretici size bilgisayarınızdan USB sürücünüze nasıl oyun kopyalayabileceğinizi gösterecek. Diğer özellikler ise kolay kullanım sağlayan arayüz sayesinde öğreticiye ihtiyaç duyulmadan kullanılabilir.
 #### İhtiyacınız olan şeyler
 
 * USB sürücü
