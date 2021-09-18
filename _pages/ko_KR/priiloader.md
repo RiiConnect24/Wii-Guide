@@ -16,7 +16,7 @@ vWii(Wii U의 Wii 모드) 에 Priiloader를 설치하지 **마세요**. 이것�
 
 #### 필요한 것
 * SD 카드 및 USB 드라이브
-* [Priiloader 설치 마법사](assets/files/Priiloader_v0_9_1.zip)
+* [Priiloader 설치 마법사](/assets/files/Priiloader_v0_9_1.zip)
 
 #### 방법
 ##### 섹션 I - 다운로드/설치하기

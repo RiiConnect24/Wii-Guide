@@ -16,7 +16,7 @@ Priiloader'ı **sakın** vWii'nize (Wii U'nun Wii modu) yüklemeyin. Bunu yapmak
 
 #### İhtiyacınız olan şeyler
 * SD Kart veya USB sürücü
-* [Priiloader Yükleyici](assets/files/Priiloader_v0_9_1.zip)
+* [Priiloader Yükleyici](/assets/files/Priiloader_v0_9_1.zip)
 
 #### Talimatlar
 ##### Bölüm I - İndirme/Yükleme
