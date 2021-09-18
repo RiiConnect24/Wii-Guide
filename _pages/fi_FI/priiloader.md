@@ -16,7 +16,7 @@ Priiloader adds a level of brick protection to your Wii. Se käynnistyy ennen Wi
 
 #### Mitä tarvitset
 * SD-kortti tai USB-asema
-* [Priiloader-asennusohjelma](assets/files/Priiloader_v0_9_1.zip)
+* [Priiloader-asennusohjelma](/assets/files/Priiloader_v0_9_1.zip)
 
 #### Ohjeet
 ##### Osa I - Lataaminen/Asentaminen
