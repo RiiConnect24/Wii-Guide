@@ -12,16 +12,19 @@ title: "Wii 메뉴 테마 설치하기"
 벽돌을 방지하기 위해 [Priiloader 설치는 필수입니다](priiloader). 또한, BootMii도 설치하세요 (초기형 Wii인 경우 Boot2에). 이 가이드를 따르며 올바르게 벽돌 보호 기능을 설치하면 벽돌으로부터 안전해질 겁니다. BOOTMII와 PRIILOADER를 설치하지 않고 계속하지 마십시오!!
 {: .notice--warning}
 
-vWii와 Wii U의 국가만을 위해 만들지 않은 이상 vWii (Wii U) 에 커스텀 테마를 설치하지 마십시오! [이 GBATemp 글](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/)을 확인하여 vWii 테마에 관해 알아보세요.
+This guide is intended for regular Wiis only. For installing themes on vWii (Wii U), follow [this page](themes-vwii).
 {: .notice--warning}
 
-가장 안전한 테마 설치 방법은 MyMenuify 모드입니다. 안전을 위해, 여기에 링크된 MyMenuify 외의 버전을 사용하지 마십시오.
+Only install themes on your vWii (Wii U) that have been formatted specifically for it, and its current region. Installing themes from a Wii or from the wrong region on your vWii (Wii U) will cause a brick.
+{: .notice--danger}
+
+For safety purposes, please do not use any other version of MyMenuify than the one linked here, as MyMenuify Mod is the safest way to install a theme.
 {: .notice--info}
 
-이 버전의 ThemeMii 모드는 4.3 Wii 메뉴를 위한 테마를 만드므로, 여기에 링크된 ThemeMii 외의 버전을 설치하지 마세요.
+Do not use any other version of ThemeMii than the one linked here, as ThemeMii Mod allows you to make a theme for Wii Menu version 4.3, other versions may not.
 {: .notice--info}
 
-계속하기 전에 [cIOS 설치](cios)를 추천합니다.
+We recommend you [install cIOS](cios) before continuing.
 {: .notice--info}
 
 #### 필요한 것
@@ -34,7 +37,7 @@ vWii와 Wii U의 국가만을 위해 만들지 않은 이상 vWii (Wii U) 에 �
 
 #### 테마 링크
 
-설치할 테마를 찾으려면, 세가지의 리소스가 있습니다.
+To find themes to install, here are 3 resources:
 
 * [구글 드라이브 레포지토리](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
 * [RiiConnect24 테마 페이지](https://rc24.xyz/goodies/themes/)
@@ -74,5 +77,5 @@ vWii와 Wii U의 국가만을 위해 만들지 않은 이상 vWii (Wii U) 에 �
 5. 소개 메시지 뒤에, 앱에서 사용할 IOS를 물어볼 겁니다. [cIOS를 설치](cios)했다면, `IOS249`를 사용하고 아니면 `IOS58`을 이용하세요. 전자가 `Exception DSI Occurred!` 오류를 띄운다면, Wii 콘솔의 RESET 버튼을 누르고, 재실행 한 뒤, `IOS250`을 시도해 보세요.
 6. 설치할 테마를 강조하고, A를 누르세요. 테마를 설치할 때 까지 시간을 기다리고, Wii 메뉴로 돌아가기 위해 아무 버튼을 눌러주세요. 아마도 테마는 올바르게 설치되었을 겁니다.
 
-Priiloader를 설치했기 때문에 검은 화면이나 일명 무지개 벽돌 "시스템 파일이 손상되었습니다"에 놀라지 마세요. Wii를 끄고 RESET 버튼을 꾹 누른 뒤 Wii를 켜세요. Wii 메뉴를 고치는 기능이 있는 Priiloader 메뉴로 부팅됩니다. 홈브루 채널을 실행하는 옵션이 있는데, 여기에서 MyMenuify 모드를 실행하고 원본 Wii 메뉴 테마를 버튼을 눌러 받을 수 있습니다.
+If you get an error saying "The system files are corrupted" or a black screen, don't panic as long as you installed Priiloader. Wii를 끄고 RESET 버튼을 꾹 누른 뒤 Wii를 켜세요. Wii 메뉴를 고치는 기능이 있는 Priiloader 메뉴로 부팅됩니다. One of the options is to launch the Homebrew Channel, where you can launch MyMenuify Mod and press a button to download and install the original Wii Menu theme.
 {: .notice--info}
