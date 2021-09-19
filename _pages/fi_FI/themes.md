@@ -12,16 +12,19 @@ Oletko kyllästynyt tylsään, yksinkertaiseen valkoiseen Wii Menu -teemaasi, ja
 In the case of a brick, [installing Priiloader is a must](priiloader). Also, install BootMii (as Boot2 if you have an early Wii). Installing brick protection along with following the guide correctly should keep you safe from bricks. ÄLÄ JATKA ENNEN KUIN OLET ASENTANUT PRIILOADERIN JA BOOTMIIN!
 {: .notice--warning}
 
-Do not install a custom theme on vWii (Wii U), unless it has been formatted specifically for the vWii and your Wii U's region! Check out [this GBATemp post](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) for more on vWii themes.
+This guide is intended for regular Wiis only. For installing themes on vWii (Wii U), follow [this page](themes-vwii).
 {: .notice--warning}
 
-Turvallisuussyistä älä käytä mitään muuta MyMenuifyn versiota kuin sitä, mikä on tänne linkitetty, sillä MyMenuify Mod on turvallisin tapa asentaa teema.
+Only install themes on your vWii (Wii U) that have been formatted specifically for it, and its current region. Installing themes from a Wii or from the wrong region on your vWii (Wii U) will cause a brick.
+{: .notice--danger}
+
+For safety purposes, please do not use any other version of MyMenuify than the one linked here, as MyMenuify Mod is the safest way to install a theme.
 {: .notice--info}
 
 Do not use any other version of ThemeMii than the one linked here, as ThemeMii Mod allows you to make a theme for Wii Menu version 4.3, other versions may not.
 {: .notice--info}
 
-Suosittelemme [cIOS:n asentamista](cios) ennen jatkamista.
+We recommend you [install cIOS](cios) before continuing.
 {: .notice--info}
 
 #### Mitä tarvitset
@@ -34,7 +37,7 @@ Suosittelemme [cIOS:n asentamista](cios) ennen jatkamista.
 
 #### Teemalinkkejä
 
-Löytääksesi asennettavia teemoja, tässä on 3 lähdettä:
+To find themes to install, here are 3 resources:
 
 * [Google Drive -arkisto](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
 * [RiiConnect24:n teemasivu](https://rc24.xyz/goodies/themes/)
