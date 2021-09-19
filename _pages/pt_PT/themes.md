@@ -12,16 +12,19 @@ Estás farto do tema branco aborrecido no teu Wii Menu e queres mudar para um te
 Em caso de brick, [é necessário ter instalado o Priiloader](priiloader). Instala também o BootMii (como Boot2 se tiveres uma Wii mais antiga). Instalar uma proteção contra brick seguindo o guia corretamente deverá manter-te protegido de bricks. NÃO CONTINUES SE NÃO TIVERES O PRIILOADER E O BOOTMII INSTALADO!
 {: .notice--warning}
 
-Não instales temas personalizados na vWii (Wii U), a menos que esteja formatado especificamente para vWii e para a região da tua Wii U! Vê [esta publicação no GBATemp](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) para mais temas vWii.
+This guide is intended for regular Wiis only. For installing themes on vWii (Wii U), follow [this page](themes-vwii).
 {: .notice--warning}
 
-Por razões de segurança, não utilizes qualquer outra versão do MyMenuify a não ser a que está aqui, já que o MyMenuify Mod é a maneira mais segura de instalar temas.
+Only install themes on your vWii (Wii U) that have been formatted specifically for it, and its current region. Installing themes from a Wii or from the wrong region on your vWii (Wii U) will cause a brick.
+{: .notice--danger}
+
+For safety purposes, please do not use any other version of MyMenuify than the one linked here, as MyMenuify Mod is the safest way to install a theme.
 {: .notice--info}
 
-Não utilizes qualquer outra versão do ThemeMii a não ser a que está aqui, já que o ThemeMii Mod permite que faças um tema para a versão 4.3 do Wii Menu, mas não para outras versões.
+Do not use any other version of ThemeMii than the one linked here, as ThemeMii Mod allows you to make a theme for Wii Menu version 4.3, other versions may not.
 {: .notice--info}
 
-Nós recomendamos que [instales cIOS](cios) antes de continuar.
+We recommend you [install cIOS](cios) before continuing.
 {: .notice--info}
 
 #### O que precisas
