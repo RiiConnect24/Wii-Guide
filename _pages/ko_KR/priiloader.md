@@ -80,8 +80,8 @@ Priiloader로 활성화 할 수 있는 핵의 목록입니다.
 Continue to installing cIOS<br> cIOS are used to play games with a USB Loader. 또한 다른 홈브루 앱에도 유용합니다.
 {: .notice--info}
 
-Wii 미니를 사용한다면, [이 가이드](cios-mini)를 따라 cIOS를 설치하세요
+If using a regular Wii, follow [this guide](cios) to install cIOS
 {: .notice--info}
 
-일반 Wii를 사용한다면, [이 가이드](cios)를 따라 cIOS를 설치하세요
+If using a Wii mini, follow [this guide](cios-mini) to install cIOS
 {: .notice--info}
