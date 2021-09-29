@@ -80,8 +80,8 @@ Tämä on lista muokkauksista, joita voit ottaa käyttöön Priiloaderin avulla.
 Jatka cIOS:n asennukseen<br> cIOS:ia käytetään pelien pelaamiseen USB-lataajan kautta. Se on myös hyödyllinen monille muille homebrew-sovelluksille.
 {: .notice--info}
 
-Jos käytät Wii miniä, seuraa [tätä opasta](cios-mini) asentaaksesi cIOS:n
+If using a regular Wii, follow [this guide](cios) to install cIOS
 {: .notice--info}
 
-Jos käytät tavallista Wiitä, seuraa [tätä opasta](cios) asentaaksesi cIOS:n
+If using a Wii mini, follow [this guide](cios-mini) to install cIOS
 {: .notice--info}
