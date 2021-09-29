@@ -80,8 +80,8 @@ Bu, Priiloader ile etkinleştirebileceğiniz hacklerin listesidir.
 cIOS yüklemeye devam edin<br> cIOS, USB Loader üzerinden oyun oynayabilmek için kullanılır. Diğer homebrew uygulamalarının çalışmasında da kolaylık sağlar.
 {: .notice--info}
 
-Eğer Wii mini kullanıyorsanız, cIOS yüklemek için [bu rehberi](cios-mini) takip edin.
+If using a regular Wii, follow [this guide](cios) to install cIOS
 {: .notice--info}
 
-Eğer Wii kullanıyorsanız, cIOS yüklemek için [bu rehberi](cios) takip edin.
+If using a Wii mini, follow [this guide](cios-mini) to install cIOS
 {: .notice--info}
