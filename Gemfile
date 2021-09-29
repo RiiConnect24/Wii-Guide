@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 3.9"
-gem "jekyll-paginate-v2", "~> 2.0"
+gem "jekyll-paginate-v2", "~> 3.0"
 gem "jekyll-sitemap", "~> 1.4"
 gem "jekyll-gist", "~> 1.5"
 gem "jekyll-feed", "~> 0.15.0"
