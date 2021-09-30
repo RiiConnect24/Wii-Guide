@@ -151,7 +151,7 @@ Cea mai dificilă parte este găsirea unei rețele Wi-Fi cu WEP sau nicio securi
 MrBean35000vr și Chadderz au o distribuție de "Custom Track-uri" numită CTGP-R care îți permite să folosești o serie de trasee personalizate și care are modificare pentru Wiimmfi automată. Accesează [website-ul ChadSoft](http://chadsoft.co.uk) pentru descărcare și instrucțiuni.
 
 #### MKW Hack Pack
-PhillyG has put together a collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. Pentru a învăța cum să îl configurezi, accesează [pagina de wiki](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+PhillyG a creat o colecție de trasee personalizate și hack-uri numită MKW Hack Pack care permite conexiuni la Wiimmfi. Pentru a învăța cum să îl configurezi, accesează [pagina de wiki](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
 
 #### Wiimms Mario Kart Fun
 Wiimm și Leseratte fac o distribuție de trasee personalizate numită "Wiimms MKW Fun", care este actualizată în jur de trei ori pe an. Este bazat pe cadrul LE-CODE creat de Leseratte, are suport Wiimmfi, și multe alte funcții. Poți afla mai multe despre aceasta pe [pagina lor de wiki](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
