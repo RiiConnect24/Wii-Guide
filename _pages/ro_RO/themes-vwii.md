@@ -1,5 +1,5 @@
 ---
-title: "Installing Themes System Menu Themes on vWii"
+title: "Instalarea Temelor de Fundal pentru System Menu pe vWii"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -10,22 +10,22 @@ title: "Installing Themes System Menu Themes on vWii"
 Noi **NU** suntem responsabili dacă îți brick-uiești, sau îți deteriorezi consola în orice fel. Dacă urmezi acest ghid cu exactitate, nu ar trebui să ai nicio problemă.
 {: .notice--danger}
 
-Do **NOT** install the themes made in this guide on an actual Wii. They are only compatible with the vWii System Menu and will brick an actual Wii.
+**NU** instala temele de fundal făcute în acest ghid pe un Wii actual. Acestea sunt compatibile numai cu System Menu-ul din vWii și vor brick-ui un Wii actual.
 {: .notice--danger}
 
-WiiMotes with Wii MotionPlus will not work on MyMenuify, unfortunately there isn't anything we can do about this at the moment and you'll have to use an older Wii remote.
+Wii Remote-urile cu Wii Motionplus nu vor merge pe MyMenuify, din păcate nu este nimic ce putem face despre asta în momentul de fața și va trebui să folosești un Wii Remote mai vechi.
 {: .notice--warning}
 
-There are some themes that aren't compatible with the vWii System Menu, they may result in anything from graphical glitches to a full theme brick. We recommend only using themes from [rc24.xyz/goodies/themes](https://rc24.xyz/goodies/themes/) since these are compatible with modern versions of the System Menu.
+Există unele teme care nu sunt compatibile cu System Menu-ul folosit de vWii, iar ele pot rezulta în orice de la erori grafice la un brick de tema complet. Recomandăm să folosești numai temele de la [rc24.xyz/goodies/themes](https://rc24.xyz/goodies/themes/) pentru că acestea sunt compatibile cu versiuni moderne ale System Menu-ului.
 {: .notice--warning}
 
-If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329). ([Archive](https://web.archive.org/web/20200213194233/https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329/))
+Dacă cumva reușești să cauzezi un brick pe vWii, [urmează acest ghid](https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329). ([Arhivă](https://web.archive.org/web/20200213194233/https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329/))
 {: .notice--info}
 
-#### What You Need
+#### De ce ai nevoie
 
-* A Wii U with the Homebrew Channel installed.
-* A Wiimote without Wii MotionPlus
+* Un Wii U cu Homebrew Channel instalat.
+* Un Wii Remote fără Wii MotionPlus
 * Un card SD
 * Un calculator cu Windows instalat (sau folosind Mono sau Wine pe Mac/Linux)
 * [MyMenuify](/assets/files/Mymenuify-Old-vWii.zip)
@@ -35,11 +35,11 @@ If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.ne
 
 #### Link-uri către teme de fundal
 
-Below you may find some links to themes:
+Mai jos poți găsi câteva link-uri către niște teme de fundal:
 
 * [Pagina de teme RiiConnect24](https://rc24.xyz/goodies/themes/)
 
-Only themes from the Riiconnect24 Themes page have been tested on vWii. Themes from other sources may not be entirely compatible with vWii, use these at your own risk.
+Doar temele de pe pagina de Teme RiiConnect24 au fost testate pe vWii. Temele din alte surse s-ar putea să nu fie complet compatibile cu vWii, folosește-le pe acestea la propriul risc.
 {: .notice--warning}
 
 * [Depozitul Google Drive](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
