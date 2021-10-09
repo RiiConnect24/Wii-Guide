@@ -15,7 +15,7 @@ Te-ai săturat de tema albă de fundal plictisitoare și simplă de pe Meniul t�
 Acest ghid este numai pentru consolele Wii clasice. Pentru instalarea temelor de fundal pe vWii (Wii U), urmărește [această pagină](themes-vwii).
 {: .notice--warning}
 
-Instalează pe vWii (Wii U) numai temele care au fost formatate specific pentru el și pentru regiunea lui. Instalarea temelor dintr-un Wii sau dintr-o regiune greșita pe vWii-ul (Wii U-ul) tău va cauza un brick.
+Only install themes on your Wii that have been formatted specifically for it, and its current region. Installing themes from the wrong region or version on your Wii will cause a brick. This tutorial will tell you how to create a csm that is safe to install.
 {: .notice--danger}
 
 Din motive de siguranță, te rugăm nu folosi nicio altă versiune de MyMenuify decât cea link-uită aici, pentru că MyMenuify Mod este cea mai sigură metoda de a instala o temă de fundal.
