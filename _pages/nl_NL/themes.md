@@ -15,7 +15,7 @@ In the case of a brick, [installing Priiloader is a must](priiloader). Also, ins
 This guide is intended for regular Wiis only. For installing themes on vWii (Wii U), follow [this page](themes-vwii).
 {: .notice--waarschuwing}
 
-Only install themes on your vWii (Wii U) that have been formatted specifically for it, and its current region. Installing themes from a Wii or from the wrong region on your vWii (Wii U) will cause a brick.
+Only install themes on your Wii that have been formatted specifically for it, and its current region. Installing themes from the wrong region or version on your Wii will cause a brick. This tutorial will tell you how to create a csm that is safe to install.
 {: .notice--danger}
 
 For safety purposes, please do not use any other version of MyMenuify than the one linked here, as MyMenuify Mod is the safest way to install a theme.
@@ -44,7 +44,7 @@ To find themes to install, here are 3 resources:
 * [This GBAtemp post](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
 MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
-{: .notice--waarschuwing}
+{: .notice--warning}
 
 #### Instructies
 
