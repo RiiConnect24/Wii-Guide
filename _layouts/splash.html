@@ -16,6 +16,7 @@ layout: default
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date: "%B %d, %Y" }}">{% endif %}
 
     <section class="page__content" itemprop="text">
+
       <hr>
 
       {% assign split_path = page.path | split: "/" %}
@@ -30,8 +31,16 @@ layout: default
         <div class ="notice"><b>{{ link.title }}</b></div>
       {% endfor %}
 
+      <hr>
+
       {{ content }}
     </section>
   </article>
+
+  <hr>
+
+  <center>
+    <div id="waldo-tag-4187"></div>
+  </center>
 
 </div>
