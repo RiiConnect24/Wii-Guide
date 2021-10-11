@@ -18,6 +18,9 @@ main:
   - 
     title: Wiimmfi
     url: wiimmfi
+top:
+  - 
+    title: This website uses cookies to display the current guide progress on the sidebar and otherwise enhance the site.
 bottom:
   - 
     title: Для помощи на английском, вы можете обратится к <a href="https://discord.gg/b4Y7jfD">дискорд серверу RiiConnect24</a>.
