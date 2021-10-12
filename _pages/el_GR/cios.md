@@ -60,6 +60,8 @@ Select cIOS version: 65535
 ![Install cIOS 251](/images/cios/Install251.png)
 1. Όταν τελιώσετε, πατήστε ξανά A δυο φορές και βγείτε όταν τελιώσετε.
 
+#### Troubleshooting
+
 {% capture bruh %}
 Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
 * Using a keyboard in Animal Crossing: City Folk.
