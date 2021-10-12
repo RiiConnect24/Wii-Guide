@@ -41,11 +41,8 @@ Dacă ai BootMii instalat ca boot2 va trebui să porniți BootMii prin repornire
 5. După ce copia de rezervă este gata, ieși din ecranul de backup NAND prin apăsarea oricărui buton.
 6. Pentru a ieși din BootMii, apasă butonul Înapoi (cel cu săgeata) iar apoi poți apasă ori butonul Wii Menu ori butonul Homebrew Channel pentru a ieși unde vrei.
 
-
-<!---
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
+Pentru a restaura dintr-o copie de rezervă NAND pe cardul tău SD, poți urmări aceste instrucțiuni folosind RestoreMii (butonul de lângă BackupMii cu o săgeată roșie). Acest lucru este util în cazul rar în care iți brick-uiești consola.
 {: .notice--info}
--->
 
 [Continuă la instalarea Priiloader](priiloader) Priiloader adaugă un nivel de protecție anti-brick, și îl recomandăm, în special dacă ai putut să instalezi numai BootMii IOS.
 {: .notice--info}
