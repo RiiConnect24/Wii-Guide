@@ -60,6 +60,8 @@ Select cIOS version: 65535
 ![cIOS 251 yükle](/images/cios/Install251.png)
 1. Ayarlandığında yüklemek için iki kere A’ya basın ve çıkmak için bir kere basın.
 
+#### Troubleshooting
+
 {% capture bruh %}
 Oyunların ezici çoğunluğu varsayılan ile doğrudan çalışsa da bazı oyunlar spesifik cIOS’lar gerektirebilmektedir.<br>Misalen:
 * Animal Crossing: City Folk’da klavye kullanmak.
