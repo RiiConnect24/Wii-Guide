@@ -60,6 +60,8 @@ Select cIOS version: 65535
 ![Install cIOS 251](/images/cios/Install251.png)
 1. Odată setat, apasă A de două ori din nou pentru a instala, apoi ieși după ce se termină.
 
+#### Depanare
+
 {% capture bruh %}
 Cu toate că majoritatea jocurilor ar trebui să meargă direct cu implicitele, unele s-ar putea să necesite folosirea unui cIOS specific pentru a merge, sau să utilizeze anumite funcții din joc.<br> Exemple includ:
 * Folosirea unei tastaturi în Animal Crossing: City Folk.
