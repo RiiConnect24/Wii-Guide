@@ -32,7 +32,26 @@ Homebrew Channel - это место, где вы будете запускат�
 
 8. После этого, выберите `Продолжить`, затем выберите `Выйти` для перехода в Homebrew Channel.
 
-[Продолжить создание NAND резервной копии с помощью BootMii](bootmii)<br> Создание резервной копии NAND с BootMii в данный момент настоятельно рекомендуется.
+#### Required Reading
+
+You can now use the Homebrew Channel to launch homebrew apps. Open Shop Channel is a one-stop shop for downloading homebrew, which you will learn how to install further in this guide.
+
+Here's a tip - when installing homebrew applications on your SD Card or USB drive, your folder structure should look like this:
+
+`💾sd or usb:
+ ┣ 📂apps
+ ┃ ┣ 📂AppName1
+ ┃ ┃ ┣ 📜boot.dol / boot.elf
+ ┃ ┃ ┣ 📜icon.png
+ ┃ ┃ ┗ 📜meta.xml
+ ┃ ┗ 📂AppName2
+ ┃   ┣ 📜boot.dol / boot.elf
+ ┃   ┣ 📜icon.png
+ ┃   ┗ 📜meta.xml`
+
+`AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
+
+[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
 {: .notice--info}
 
 If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
