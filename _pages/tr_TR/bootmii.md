@@ -41,11 +41,8 @@ Eğer BootMii’yi boot2 olarak yüklediyseniz, BootMii’yi başlatabilmek içi
 5. Yedekleme tamamlandığında, herhangi bir tuşa basarak NAND yedeklemesi ekranından çıkın.
 6. BootMii’den çıkmak için, lütfen Geri tuşuna (ok olan) basın ve dilerseniz Wii Menü’ye dilerseniz de Homebrew Channel’a çıkın.
 
-
-<!---
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow). This is useful in the unlikely case you brick your Wii.
 {: .notice--info}
--->
 
-[Priiloader Yüklemesi’nden devam edin](priiloader) Priiloader brick korumasına güç sağlar. Özellikle sadece BootMii IOS yükleyebiliyorsanız; bu adımı uygulamanızı kesinlikle öneririz.
+[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
 {: .notice--info}
