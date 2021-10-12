@@ -21,7 +21,7 @@ If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to in
 * [d2x cIOS Installatie](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
 Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
-{: .notice--waarschuwing}
+{: .notice--warning}
 
 #### Instructies
 
@@ -59,6 +59,8 @@ Select cIOS version: 65535
 ```
 ![Install cIOS 251](/images/cios/Install251.png)
 1. Once set, press A twice again to install, and then exit once done.
+
+#### Troubleshooting
 
 {% capture bruh %}
 Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
