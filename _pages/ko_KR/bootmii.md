@@ -41,11 +41,8 @@ BootMii가 boot2로 설치되었다면 콘솔을 재시작하여 BootMii를 실�
 5. 백업이 완료되면, NAND 백업 화면을 아무 버튼이나 눌러서 빠져나가세요.
 6. BootMii를 나가려면, 이전 버튼(화살표가 있음)을 누르고 Wii 메뉴 버튼 또는 홈브루 채널 둘 중 하나를 눌러 원하는 곳으로 이동하세요.
 
-
-<!---
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow). This is useful in the unlikely case you brick your Wii.
 {: .notice--info}
--->
 
-[Priiloader 설치 계속하기](priiloader) Priiloader는 벽돌 보호 단계를 만들고, BootMii IOS만이 설치되는 경우 저희는 이것을 권장합니다.
+[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
 {: .notice--info}
