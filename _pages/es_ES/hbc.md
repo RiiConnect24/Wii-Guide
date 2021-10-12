@@ -32,8 +32,27 @@ Si no tienes una tarjeta SD, no puedes instalar o usar BootMii, y por lo tanto n
 
 8. Una vez terminado, selecciona `Continue`, y luego selecciona `Exit` para ir al Canal Homebrew
 
-[Continuar a haciendo una copia de seguridad NAND usando BootMii](bootmii)<br> Hacer una copia de seguridad NAND con BootMii en este momento es muy recomendable.
+#### Required Reading
+
+You can now use the Homebrew Channel to launch homebrew apps. Open Shop Channel is a one-stop shop for downloading homebrew, which you will learn how to install further in this guide.
+
+Here's a tip - when installing homebrew applications on your SD Card or USB drive, your folder structure should look like this:
+
+`💾sd or usb:
+ ┣ 📂apps
+ ┃ ┣ 📂AppName1
+ ┃ ┃ ┣ 📜boot.dol / boot.elf
+ ┃ ┃ ┣ 📜icon.png
+ ┃ ┃ ┗ 📜meta.xml
+ ┃ ┗ 📂AppName2
+ ┃   ┣ 📜boot.dol / boot.elf
+ ┃   ┣ 📜icon.png
+ ┃   ┗ 📜meta.xml`
+
+`AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
+
+[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
 {: .notice--info}
 
-Si no pudiste instalar BootMii, continúa a [Instalar Priiloader](priiloader) en su lugar.
+If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
 {: .notice--info}
