@@ -60,6 +60,8 @@ Select cIOS version: 65535
 ![cIOS 251 설치하기](/images/cios/Install251.png)
 1. 준비되었다면, A를 두번 눌러 설치하고 완료되면 나가세요.
 
+#### Troubleshooting
+
 {% capture bruh %}
 대부분의 게임은 기본값으로도 작동되지만, 몇몇은 특정한 cIOS를 사용해야 작동하거나 특정 기능을 작동시킬 수 있습니다.<br> 예시는 다음과 같습니다:
 * 『타운으로 놀러가요 동물의 숲』에서 키보드 사용
