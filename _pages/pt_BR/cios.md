@@ -51,6 +51,8 @@ Selecione cIOS: v10 beta52 d2x-v10-beta52 Selecione cIOS base: 38 Selecione cIOS
 ![Install cIOS 251](/images/cios/Install251.png)
 1. Quando terminado, pressione A duas vezes para instalar e então saia.
 
+#### Troubleshooting
+
 {% capture bruh %}
 Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
 * Usando um teclado em Animal Crossing: City Folk.
