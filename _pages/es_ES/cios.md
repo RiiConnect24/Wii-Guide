@@ -60,6 +60,8 @@ Seleccione el cIOS: 65535
 ![Instala cIOS 251](/images/cios/Install251.png)
 1. Una vez configurado, presiona A dos veces para instalar, después en salir una vez que haya terminado.
 
+#### Troubleshooting
+
 {% capture bruh %}
 La mayoría de los juegos deberían funcionar con la configuración por defecto, pero algunos pueden requerir un cIOS especifico para funcionar o usar algunas opciones especificas de un juego. <br> Juegos que requieren cIOS específicos:
 * Usando un teclado Animal Crossing:
