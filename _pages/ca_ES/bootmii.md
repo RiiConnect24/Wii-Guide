@@ -41,11 +41,8 @@ If you have BootMii installed as boot2 you will need to launch BootMii by restar
 5. Quan la còpia s'ha completat, eixiu d'eixa pantalla prement qualsevol botó.
 6. Per a eixir de BootMii, premeu el botó "Back" (enrere) i després podeu polsar el Botò Wii o Homebrew Channel per a elegir a quin menú eixir.
 
-
-<!---
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
-{: .notice--info}
--->
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow). This is useful in the unlikely case you brick your Wii.
+{: . notícia--informació}
 
 [Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
 {: . notícia--informació}
