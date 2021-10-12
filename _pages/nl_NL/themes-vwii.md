@@ -14,10 +14,10 @@ Do **NOT** install the themes made in this guide on an actual Wii. They are only
 {: .notice--danger}
 
 WiiMotes with Wii MotionPlus will not work on MyMenuify, unfortunately there isn't anything we can do about this at the moment and you'll have to use an older Wii remote.
-{: .notice--waarschuwing}
+{: .notice--warning}
 
 There are some themes that aren't compatible with the vWii System Menu, they may result in anything from graphical glitches to a full theme brick. We recommend only using themes from [rc24.xyz/goodies/themes](https://rc24.xyz/goodies/themes/) since these are compatible with modern versions of the System Menu.
-{: .notice--waarschuwing}
+{: .notice--warning}
 
 If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329). ([Archive](https://web.archive.org/web/20200213194233/https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329/))
 {: .notice--info}
@@ -40,13 +40,13 @@ Below you may find some links to themes:
 * [RiiConnect24 themes page](https://rc24.xyz/goodies/themes/)
 
 Only themes from the Riiconnect24 Themes page have been tested on vWii. Themes from other sources may not be entirely compatible with vWii, use these at your own risk.
-{: .notice--waarschuwing}
+{: .notice--warning}
 
 * [Google Drive repository](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
 * [This GBAtemp post](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
 MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
-{: .notice--waarschuwing}
+{: .notice--warning}
 
 #### Instructies
 
@@ -62,7 +62,7 @@ MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
 
 
 This assumes your vWii is on the latest System Menu version.
-{: .notice--waarschuwing}
+{: .notice--warning}
 
 There are a couple of ways to get the .app files for your vWii System Menu, in this guide we'll be using the vWii version of NUSD.
 
@@ -100,7 +100,7 @@ After you Find the .app file copy it to the main directory of the Folder contain
 Navigate to the Folder where you have ThemeMii Mod extracted and Launch ThemeMii Mod.
 
 Do not click `Download  Base App`, ThemeMii does not have Base app files for vWii. If you do download a base app you must delete it in order to use your .app file.
-{: .notice--waarschuwing}
+{: .notice--warning}
 
 In ThemeMii select `File > Open` and navigate to the .mym theme you downloaded earlier. Then click on `Create CSM` and select the .app file that you copied to the ThemeMii folder.
 
