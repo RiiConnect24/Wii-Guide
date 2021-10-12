@@ -60,6 +60,8 @@ Select cIOS version: 65535
 ![Installer cIOS 251](/images/cios/Install251.png)
 1. Une fois ces paramètres définis, appuyez à nouveau sur A deux fois pour installer, puis quittez lorsque c'est terminé.
 
+#### Troubleshooting
+
 {% capture bruh %}
 Même si la majorité des jeux devraient fonctionner immédiatement avec les valeurs par défaut, certains peuvent nécessiter l'utilisation d'un cIOS spécifique pour fonctionner, ou pour utiliser certaines fonctionnalités dans le jeu.<br> Les exemples comprennent :
 * Utilisation d'un clavier dans Animal Crossing : City Folk.
