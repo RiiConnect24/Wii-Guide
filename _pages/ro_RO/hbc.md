@@ -32,6 +32,25 @@ Dacă nu ai un card SD, nu poți instala sau folosi BootMii, iar, prin urmare, n
 
 8. După ce este gata, alege `Continue`, iar apoi selectează `Exit` pentru a te duce în Homebrew Channel
 
+#### Lectură Obligatorie
+
+Acum poți folosi Homebrew Channel pentru a lansa aplicații homebrew. Open Shop Channel este un magazin rapid pentru descărcarea aplicațiilor homebrew, pe care le vei învăța cum să le instalezi mai departe în acest ghid.
+
+Uite un sfat - când instalezi aplicații homebrew pe Cardul tău SD sau unitatea ta USB, structura folder-ului tău ar trebui să arate așa:
+
+`💾sd sau usb:
+ ┣ 📂apps
+ ┃ ┣ 📂AppName1
+ ┃ ┃ ┣ 📜boot.dol / boot.elf
+ ┃ ┃ ┣ 📜icon.png
+ ┃ ┃ ┗ 📜meta.xml
+ ┃ ┗ 📂AppName2
+ ┃   ┣ 📜boot.dol / boot.elf
+ ┃   ┣ 📜icon.png
+ ┃   ┗ 📜meta.xml`
+
+`AppName1` și `AppName2` sunt nume substituente. Nu adaugă mai multe foldere `apps` în interiorul folder-ului `apps` propriu-zis.
+
 [Continuă să faci o copie de rezerva NAND folosind BootMii](bootmii)<br> Este foarte recomandat să faci o copie de rezervă cu BootMii acum.
 {: .notice--info}
 
