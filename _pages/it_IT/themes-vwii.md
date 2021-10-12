@@ -127,7 +127,7 @@ If you did everything correctly you should now have a different theme on your Sy
 
 ##### Reverting to Stock theme
 
-Apri il canale Homebrew Channel.
+Apri il Canale Homebrew.
 
 Next launch MyMenuify and navigate to your theme folder.
 
