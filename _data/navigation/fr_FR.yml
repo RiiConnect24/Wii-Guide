@@ -20,10 +20,10 @@ main:
     url: wiimmfi
 top:
   - 
-    title: This website uses cookies to display the current guide progress on the sidebar and otherwise enhance the site.
+    title: Ce website utilise les cookies pour afficher le progrès actuel sur la barre latérale et pour améliorer le site.
 bottom:
   - 
-    title: Pour un support en anglais, demander ici <a href="https://discord.gg/b4Y7jfD">discord</a>.
+    title: Pour un soutien en anglais, demander ici <a href="https://discord.gg/b4Y7jfD">Riiconnect24 sur discord</a>.
 footer:
   - 
     title: Source
