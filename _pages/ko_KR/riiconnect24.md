@@ -92,7 +92,7 @@ You will now set your DNS to our servers. This is optional but it's recommended,
 13. `WiiConnect24`로 이동해서 `WiiConnect24`로 다시 이동한 뒤 활성화 된 것을 확인하세요.
 14. WiiConnect24 메뉴로 돌아가서, `항상 연결`이 켜져있는지 확인하세요.
 15. `슬롯 밝히기`에서, 저희는 디스크 슬롯 전등을 `어둡게` 또는 `밝게`를 권장하지만, 선택입니다.
-16. 마지막으로, `인터넷` 섹션에 들어가서 `이용 약관` 또는 `약관/계약`에 들어가서, `예`를 누르세요. 전체 내용을 읽어 주세요.
+16. 마지막으로, `인터넷` 섹션에 들어가서 `이용 약관` 또는 `약관/계약`에 들어가서, `예`를 누르세요. 전체 내용을 읽어 주세요. (If you see User Agreements without RiiConnect24's logo, that means using our DNS won't work. You can set `Auto-Obtain` DNS to `On` if that's the case. RiiConnect24 will still work without it.)
 
 
 [Wiimmfi로 계속하기](wiimmfi)<br> Wiimmfi는 닌텐도 Wi-Fi 커넥션의 서비스 종료 이후로도 게임을 온라인으로 플레이 할 수 있게 합니다. 설치는 선택입니다.
