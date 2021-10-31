@@ -10,7 +10,7 @@ Bricks (a state where either some parts of your Wii software are not working, or
 ### Где я могу получить помощь?
 You can join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for assistance.
 
-### Какие требования/рекомендации к SD карте?
+### Какие требования/рекомендации к SD-карте?
 Вам нужна SD карта с 128МБ как минимум, чтобы запустить эксплойт.
 
 - If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card.
