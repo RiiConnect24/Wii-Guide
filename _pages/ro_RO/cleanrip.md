@@ -1,6 +1,6 @@
 #### De ce ai nevoie
 
-* Un card SD sau o unitate USB cu cel puțin 4.7 GB de spațiu liber.
+* Un card SD sau o unitate USB cu cel puțin 4.7 GB de spațiu liber (8.5 GB dacă extragi un disc cu dublu straturi).
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
 #### Instrucțiuni
