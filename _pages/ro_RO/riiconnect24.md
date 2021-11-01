@@ -92,7 +92,7 @@ Acum îți vei seta DNS-ul la serverele noastre. Acest lucru este opțional dar 
 13. Du-te la `WiiConnect24`, apoi `WiiConnect24` din nou, și asigură-te că este activat.
 14. Înapoi în meniul WiiConnect24, mergi la `Standby Connection` și asigură-te că este activat.
 15. La `Slot Illumination`, recomandăm să setezi lumina de disc la `Dim` sau `Bright`, dar asta este opțional.
-16. În final, mergi la secțiunea `Internet`, apoi `User Agreements` sau `Agreement/Contact`, apoi `Yes`. Te rugăm citește prin asta. (If you see User Agreements without RiiConnect24's logo, that means using our DNS won't work. You can set `Auto-Obtain` DNS to `On` if that's the case. RiiConnect24 will still work without it.)
+16. În final, mergi la secțiunea `Internet`, apoi `User Agreements` sau `Agreement/Contact`, apoi `Yes`. Te rugăm citește prin asta. (Dacă vezi User Agreements fără logo-ul RiiConnect24, asta înseamnă că folosirea DNS-ului nostru nu va merge. Poți seta `Auto-Obtain` DNS la `On` dacă acesta este cazul. RiiConnect24 va funcționa și fără acesta.)
 
 
 [Continuă la Wiimmfi](wiimmfi)<br> Wiimmfi îți permite să joci jocuri online după întreruperea Conexiunii Nintendo Wi-Fi. Acesta este opțional de instalat.
