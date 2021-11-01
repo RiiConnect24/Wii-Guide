@@ -1,6 +1,6 @@
 #### İhtiyacınız olan şeyler
 
-* 4.7 GB (Eğer çift katmanlı disk dökümü alınacaksa 8.5 GB) boş hafızaya sahip bir SD Kart ya da USB sürücü.
+* An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
 #### Talimatlar
