@@ -1,6 +1,6 @@
 #### Ce dont vous avez besoin
 
-* Une carte SD ou un périphérique USB avec au moins de 4.7 Go d'espace libre
+* An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
 #### Instructions
