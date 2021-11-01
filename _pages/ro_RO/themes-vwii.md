@@ -52,46 +52,46 @@ ASIGURĂ-TE CĂ AI CITIT AVERTISMENTELE DE DEASUPRA ÎNAINTE SĂ CONTINUI!
 
 ##### Secțiunea I - Găsirea unei teme de fundal
 
-* When choosing a theme it is important to make sure that your theme is compatible with the vWii System Menu.
+* Când alegi o temă de fundal este important să te asiguri că tema este compatibilă cu System Menu-ul vWii.
 
-* Older themes for 3.X or 2.X are **NOT** compatible with vWii and may cause a theme brick if used.
+* Temele vechi pentru 3.X sau 2.X **NU** sunt compatibile cu vWii și pot cauza un brick de temă dacă este folosit.
 
-* Most if not all of the themes on Riiconnect24's page have been tested on vWii and they work fine.
+* Majoritatea, dacă nu toate temele de pe pagina Riiconnect24 au fost testate pe vWii și funcționează bine.
 
-##### Section II - Downloading .app files
+##### Secțiunea II - Descărcarea fișierelor .app
 
 
-This assumes your vWii is on the latest System Menu version.
+Asta presupune că vWii-ul tău este pe cea mai nouă versiune de System Menu.
 {: .notice--warning}
 
-There are a couple of ways to get the .app files for your vWii System Menu, in this guide we'll be using the vWii version of NUSD.
+Există câteva modalități de a obține fișierele .app pentru System Menu-ul vWii al tău, în acest ghid vom folosi versiunea vWii de NUSD.
 
-Open the folder and launch NUS Downloader. Open the menu in NUS Downloader and click the database button, go to System > System Menu and select a version according to your region. Here's a table showing which versions corospond to which region.
+Deschide dosarul și lansează NUS Downloader. Deschide meniul în NUS Downloader și apasă pe butonul database, mergi la System > System Menu și alege o versiune în funcție de regiunea ta. Uite un tabel care îți arată care versiuni corespund cu care regiuni.
 
-| Region | vWii Menu version |
-| ------ | ----------------- |
-| Japan  | v608              |
-| USA    | v609              |
-| Europe | v610              |
+| Regiune | Versiunea de Meniu vWii |
+| ------- | ----------------------- |
+| Japonia | v608                    |
+| SUA     | v609                    |
+| Europa  | v610                    |
 
-After selecting the correct version to download check the box for `Create Decrypted Contents (*.app)` and press the `Start NUS Download` Button on the Top of the window.
+După selectarea versiunii corecte de descărcat bifează caseta pentru `Create Decrypted Contents (*.app)` și apasă Butonul `Start NUS Download` din partea de sus a ferestrei.
 
-!\[The database menu in NUS Downloader.\](/images/Themes-vWii/NUSD-vWii_preview-database.png =538x506)
-
-
-
-!\[The main menu of NUS downloader without the database menu open.\](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png =247x474)
+!\[Meniul de baze de date în NUS Downloader.\](/images/Themes-vWii/NUSD-vWii_preview-database.png =538x506)
 
 
-After the download has finished do a search in the folder where NUS downloader is loacated for the .app file according to your region.
 
-| Region | .app file for your region |
-| ------ | ------------------------- |
-| Japan  | 0000001c.app              |
-| USA    | 0000001f.app              |
-| Europe | 00000022.app              |
+!\[Meniul principal NUS Downloader fără meniul de baze de date deschis.\](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png =247x474)
 
-If you can't find the .app file for your region in the search it's possible you have downloaded the wrong version of the System Menu and you'll need to try again.
+
+După ce descărcarea s-a terminat începe o căutare în dosarul unde NUS Downloader se află pentru fișierul .app în funcție de regiunea ta.
+
+| Regiune | Fișierul .app pentru regiunea ta |
+| ------- | -------------------------------- |
+| Japonia | 0000001c.app                     |
+| SUA     | 0000001f.app                     |
+| Europa  | 00000022.app                     |
+
+Dacă nu poți găsi fișierul .app pentru regiunea ta în căutare este posibil să fi descărcat versiunea greșită a System Menu-ului și va trebui să încerci din nou.
 
 After you Find the .app file copy it to the main directory of the Folder containing ThemeMii, also copy a version of it to the theme folder in your SD card (We'll come back to that later).
 
