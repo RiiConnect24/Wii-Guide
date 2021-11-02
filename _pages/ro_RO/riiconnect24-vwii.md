@@ -47,14 +47,14 @@ Folosind RiiConnect24 Patcher pe care ar fi trebuit să-l instalezi mai devreme 
 
 1. Rulează `RiiConnect24Patcher.bat` pe Windows sau `RiiConnect24Patcher.sh` pe sisteme Unix prin tastarea cuvântului "bash", tragerea fișierului `RiiConnect24Patcher.sh` în terminal și apăsarea tastei enter. Ar trebui să arate așa `bash RiiConnect24Patcher.sh`. Urmează instrucțiunile de pe ecran
 
-2. Confirmă că după trecerea prin patcher, ai 3 foldere. Ele vor fi în același folder unde se află `RiiConnect24Patcher.bat/sh` și pe Cardul tău SD (desigur, numai dacă ai selectat o opțiune în patcher de a face asta).
-   - Dacă patcher-ul nu a mutat fișierul în Cardul SD, mută aceste 3 foldere în rădăcina cardului tău SD.
+2. Confirmă că după trecerea prin patcher, ai 3 dosare. Ele vor fi în același dosar unde se află `RiiConnect24Patcher.bat/sh` și pe Cardul tău SD (desigur, numai dacă ai selectat o opțiune în patcher de a face asta).
+   - Dacă patcher-ul nu a mutat fișierul în Cardul SD, mută aceste 3 dosare în rădăcina cardului tău SD.
 
 ##### Secțiunea II – Instalarea WAD-urilor noi modificate
 
 1. Deschide Homebrew Channel
 2. Lansează Wii Mod Lite
-3. Folosind +Control Pad-ul pe Wii Remote-ul tău, navighează la `WAD Manager`, apoi du-te la folderul `wad`.
+3. Folosind +Control Pad-ul pe Wii Remote-ul tău, navighează la `WAD Manager`, apoi du-te la dosarul `wad`.
 4. Evidențiază toate WAD-urile cu `RiiConnect24` în nume, apoi apasă + pentru a le selecta. Când toate din ele sunt evidențiate, apasă A de două ori pentru a instala WAD-urile.
 5. După ce au fost instalate cu succes, apasă Butonul HOME pentru a ieși înapoi la Homebrew Channel.
 
