@@ -62,16 +62,16 @@ ASIGURĂ-TE CĂ AI CITIT AVERTISMENTELE DE DEASUPRA ÎNAINTE SĂ CONTINUI!
 1. O casetă de dialog va apărea spunându-ți să instalezi teme doar dacă ai protecție anti-brick. Dacă ai instalat Priiloader și/sau BootMii (vezi avertismentul de la începutul acestui ghid), apasă OK.
 2. Du-te la `Tools` > `Download Base App` > Versiunea Meniului tău Wii > Regiunea Meniului tău Wii
 3. O căsuță de dialog va apărea spunându-ți să introduci o valoare pentru a crea o cheie. Introduce ce spune, el va crea o cheie care va fi folosită pentru a decripta conținuturile Meniului Wii din serverele Nintendo.
-4. O fereastră de selecție de fișiere te va întreba unde să salvezi fișierul .app (acela este fișierul de conținut a Meniului Wii pe care l-a descărcat). Salvează-l în folderul unde se află ThemeMii.
+4. O fereastră de selecție de fișiere te va întreba unde să salvezi fișierul .app (acela este fișierul de conținut a Meniului Wii pe care l-a descărcat). Salvează-l în dosarul unde se află ThemeMii.
 5. Du-te la `Options` > `Standard System Menu` > Versiunea Meniului tău Wii > Regiunea Meniului tău Wii
 6. Du-te la `File` > `Open`, apoi navighează către fișierul .mym.
-7. Apasă pe `Create csm`, apoi navighează către folderul unde vrei să salvezi tema. Dă-i un moment să construiască tema.
+7. Apasă pe `Create csm`, apoi navighează către dosarul unde vrei să salvezi tema. Dă-i un moment să construiască tema.
 8. O casetă de dialog va apărea spunând că a construit tema cu succes, și te va întreba dacă vrei să salvezi fișierul .mym. Apasă `No`.
 
 ##### Secțiunea III - Instalarea Temei de Fundal
 
-1. Extrage MyMenuify Mod și pune-l în fișierul `apps` din cardul tău SD sau unitatea ta USB.
-2. Pune fișierul .csm pe care l-ai salvat în folderul `modthemes` pe cardul tău SD sau unitatea ta USB.
+1. Extrage MyMenuify Mod și pune-l în dosarul `apps` din cardul tău SD sau unitatea ta USB.
+2. Pune fișierul .csm pe care l-ai salvat în dosarul `modthemes` pe cardul tău SD sau unitatea ta USB.
 3. Introdu cardul tău SD sau unitatea ta USB în Wii.
 4. Lansează MyMenuify Mod din Homebrew Channel.
 5. După un mesaj introductiv, te va întreba ce IOS vrei să folosești în aplicație. Dacă ai [instalat cIOS](cios), folosește `IOS249`, sau alternativ folosește `IOS58`. Dacă cel dintâi dă eroarea `Exception DSI occurred!`, apasă Reset pe consola Wii, lansează-l din nou, și încearcă `IOS250`.
