@@ -16,7 +16,7 @@ Acest tutorial îți va explica cum să extragi WAD-uri din memoria internă a W
 #### Instrucțiuni
 ##### Secțiunea I - Descărcare/Instalare
 
-1. Extrage Yet Another BlueDump MOD și pune-l în fișierul `apps` din cardul tău SD sau unitatea ta USB.
+1. Extrage Yet Another BlueDump MOD și pune-l în dosarul `apps` din cardul tău SD sau unitatea ta USB.
 2. Introduce cardul tău SD sau unitatea ta USB în Wii, și pornește Yet Another BlueDump MOD din Homebrew Channel.
 
 ##### Secțiunea II - Extragere
