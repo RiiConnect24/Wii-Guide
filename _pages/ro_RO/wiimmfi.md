@@ -79,9 +79,9 @@ Poate nu vrei să rulezi un patcher de fiecare dată când vrei să joci pe Wiim
 - Un USB Loader, [cIOS](cios), și un USB unde să stochezi jocul (ar trebui să ai aceste lucruri deja dacă folosești un USB Loader)
 
 #### Instrucțiuni
-1. Extrage patcher-ul ales de tine într-un folder, și pune-ți copia jocului în acel folder.
+1. Extrage patcher-ul ales de tine într-un dosar, și pune-ți copia jocului în acel folder.
 2. Rulează scriptul de patch pentru sistemul tău de operare: de obicei acesta se va termina în `.bat` pentru Windows și `.sh` pentru Mac/Linux. Dacă folosești RiiConnect24 Patcher, selectează-ți dispozitivul (Wii, vWii sau Dolphin) și alege patcher-ul pentru jocul tău.
-3. Odată ce este gata, scoate versiunea afară din folderul `wiimmfi-images` (poate fi în folderul din afara patcher-ului - ../wiimmfi-images) și copiază-l înapoi în USB-ul tău.
+3. Odată ce este gata, scoate versiunea afară din dosarul `wiimmfi-images` (poate fi în dosarul din afara patcher-ului - ../wiimmfi-images) și copiază-l înapoi în USB-ul tău.
 
 ### Modificare WiiWare
 Poți modifica jocurile WiiWare pentru a le juca pe Wiimmfi.
@@ -99,7 +99,7 @@ Poți modifica jocurile WiiWare pentru a le juca pe Wiimmfi.
 {: .notice--info}
 
 Pași:
-1. Extrage fișierul .zip al ultimei versiune de WiiWare Patcher, și pune-ți WAD-ul în folderul unde a fost extras patcher-ul.
+1. Extrage fișierul .zip al ultimei versiune de WiiWare Patcher, și pune-ți WAD-ul în dosarul unde a fost extras patcher-ul.
 2. Rulează scriptul de patch pentru sistemul tău de operare: de obicei acesta se va termina în `.bat` pentru Windows și `.sh` pentru Mac/Linux. Dacă folosești RiiConnect24 Patcher, selectează-ți dispozitivul (Wii, vWii sau Dolphin) și alege WiiWare patcher.
 3. Dacă a fost completat cu succes, instalează WAD-ul care a fost creat în `wiiware-wads` cu Wii Mod Lite.
 
@@ -117,7 +117,7 @@ Wiimmfi îți permite să participi în competiții de Mario Kart Wii din nou.
 
 #### Instrucțiuni (pentru Wii)
 
-1. Extrage Mario Kart Wii Competition Patcher și pune-l în fișierul `apps` din Cardul tău SD.
+1. Extrage Mario Kart Wii Competition Patcher și pune-l în dosarul `apps` din Cardul tău SD.
 2. Introdu cardul tău SD sau unitatea ta USB în Wii.
 3. Lansează jocul original Mario Kart Wii (fară patch-ul Wiimmfi).
 4. Navighează la Settings-> Network Settings (sau Nintendo WFC Connection) -> Message Service. Dacă ai activat funcția de serviciu mesaje, dezactiveaz-o și activeaz-o din nou.
