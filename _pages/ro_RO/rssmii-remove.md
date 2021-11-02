@@ -16,7 +16,7 @@ Dacă nu mai vrei să folosești RSSMii (poate pentru că îți dă prea mult Wi
 
 #### Instrucțiuni
 
-1. Extrage RSSMii Remover și pune-l în fișierul `apps` din cardul tău SD.
+1. Extrage RSSMii Remover și pune-l în dosarul `apps` din cardul tău SD.
 2. Șterge fișierul `feeds.xml` din rădăcina cardului tău SD.
 3. Rulează RSSMii Remover din Homebrew Channel. Acesta îți va elimina abonamentele la feed-urile RSS.
 
