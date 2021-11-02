@@ -17,7 +17,7 @@ Un SysCheck listează toate IOS-urile și cIOS-urile care sunt pe Wii-ul tău, �
 #### Instrucțiuni
 ##### Secțiunea I - Descărcare/Instalare
 
-1. Extrage SysCheck HacksDen Edition și pune-l în fișierul `apps` din cardul tău SD sau unitatea ta USB.
+1. Extrage SysCheck HacksDen Edition și pune-l în dosarul `apps` din cardul tău SD sau unitatea ta USB.
 2. Introduce cardul tău SD sau unitatea ta USB în Wii, și pornește SysCheck HacksDen Edition din Homebrew Channel.
 
 ##### Secțiunea II - Efectuarea unui SysCheck
