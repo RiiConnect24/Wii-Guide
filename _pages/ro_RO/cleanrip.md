@@ -7,7 +7,7 @@
 
 ##### Secțiunea I - Descărcare/Instalare
 
-1. Extrage CleanRip și pune-l în fișierul `apps` din cardul tău SD sau unitatea ta USB.
+1. Extrage CleanRip și pune-l în dosarul `apps` din cardul tău SD sau unitatea ta USB.
 1. Introduce cardul tău SD în Wii, și pornește CleanRip din Homebrew Channel.
 
 ##### Secțiunea II - Extragere
