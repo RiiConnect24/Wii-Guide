@@ -28,14 +28,14 @@ WiiLink și toate serviciile sale (precum Wii no Ma) nu sunt controlate sau admi
 3. Pentru acest ghid, alege "`Install WiiLink on your Wii`"
 4. Selectează-ți regiunea.
 5. Conectează Cardul SD sau Unitatea USB în calculatorul tău și selectează "`1`".
-6. Dacă dispozitivul tău a fost detectat cu succes, selectează "`1`". Dacă nu, asigură-te că există un folder numit `apps` pe Cardul tău SD sau Unitatea ta USB și mai încearcă odată.
+6. Dacă dispozitivul tău a fost detectat cu succes, selectează "`1`". Dacă nu, asigură-te că există un dosar numit `apps` pe Cardul tău SD sau Unitatea ta USB și mai încearcă odată.
 7. Așteaptă...
 8. Odată ce este gata, poți închide patcher-ul în siguranță. Toate fișierele sunt gata în Cardul tău SD.
-9. Dacă nu a copiat tot automat în Cardul tău SD sau Unitatea ta USB, copiază folderele `WAD` și `apps` de lângă `WiiLinkPatcher.bat` în Cardul tău SD sau Unitatea ta USB.
+9. Dacă nu a copiat tot automat în Cardul tău SD sau Unitatea ta USB, copiază dosarele `WAD` și `apps` de lângă `WiiLinkPatcher.bat` în Cardul tău SD sau Unitatea ta USB.
 10. Introdu cardul tău SD sau unitatea ta USB în Wii.
 11. Pornește Homebrew Channel pe Wii.
 12. Lansează Wii Mod Lite.
-13. Folosind +Control Pad-ul pe Wii Remote-ul tău, navighează la `WAD Manager`, apoi du-te la folderul `wad`.
+13. Folosind +Control Pad-ul pe Wii Remote-ul tău, navighează la `WAD Manager`, apoi du-te la dosarul `wad`.
 14. Dacă Wii-ul tău nu este din regiune Japoneză, instalează WiiLink24_SPD.wad înainte de orice altceva. Acesta este necesar pentru ca noi să putem cunoaște adresa ta de e-mail pentru a trimite fișierele.
 15. Evidențiază toate celelalte WAD-uri cu `WiiLink24` în nume, apoi apasă + pentru a le selecta. Când toate din ele sunt evidențiate, apasă A de două ori pentru a instala WAD-urile.
 16. După ce este instalat cu succes, apasă Butonul HOME pentru a ieși înapoi la Homebrew Channel.
