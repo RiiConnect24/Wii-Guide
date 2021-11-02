@@ -93,50 +93,50 @@ După ce descărcarea s-a terminat începe o căutare în dosarul unde NUS Downl
 
 Dacă nu poți găsi fișierul .app pentru regiunea ta în căutare este posibil să fi descărcat versiunea greșită a System Menu-ului și va trebui să încerci din nou.
 
-After you Find the .app file copy it to the main directory of the Folder containing ThemeMii, also copy a version of it to the theme folder in your SD card (We'll come back to that later).
+După ce găsești fișierul .app copiază-l în dosarul principal care conține ThemeMii, de asemenea copiază o versiune a ei în dosarul de teme în cardul tău SD (Vom reveni la asta mai târziu).
 
-##### Section III - Building the Theme
+##### Secțiunea III - Construirea Temei de Fundal
 
-Navigate to the Folder where you have ThemeMii Mod extracted and Launch ThemeMii Mod.
+Navighează la dosarul unde ai extras ThemeMii Mod și lansează ThemeMii Mod.
 
-Do not click `Download  Base App`, ThemeMii does not have Base app files for vWii. If you do download a base app you must delete it in order to use your .app file.
+Nu apăsa pe `Download  Base App`, ThemeMii nu are fișiere de aplicații de bază pentru vWii. Dacă descarci o aplicație de bază trebuie să o ștergi pentru a-ți putea folosi fișierul .app.
 {: .notice--warning}
 
-In ThemeMii select `File > Open` and navigate to the .mym theme you downloaded earlier. Then click on `Create CSM` and select the .app file that you copied to the ThemeMii folder.
+În ThemeMii alege `File > Open` și navighează la tema .mym pe care ai descărcat-o mai devreme. Apoi apasă pe `Create CSM` și selectează fișierul .app pe care l-ai copiat în dosarul ThemeMii.
 
-Now navigate to the theme folder on your SD card and save your theme with an easy to remember name with the .csm extension.
+Acum navighează la dosarul de teme de pe cardul tău SD și salvează-ți tema cu un nume ușor de reținut cu extensia .csm.
 
 ![An image of the ThemeMii menu so you can better understand.](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
 
 
 
-##### Section IV - Installing the Theme
+##### Secțiunea IV - Instalarea Temei de Fundal
 
-Safely Eject your SD card from your PC and Put it into your Wii U.
+Scoate în siguranță cardul tău SD din PC și introduce-l în Wii U.
 
-Start the Homebrew Channel and launch MyMenuify.
+Pornește Homebrew Channel și lansează MyMenuify.
 
-After you have launched MyMenuify navigate to your theme folder and select the .csm file you just created, when it prompts you to install the theme say yes, then wait for it to finish.
+După ce ai lansat MyMenuify navighează la dosarul tău de teme și selectează fișierul .csm pe care tocmai l-ai creat, când te întreabă dacă sa instalezi tema apasă pe "Yes", apoi așteaptă să se termine.
 
-**Do not** power off your system until it finishes or you will brick your vWii.
+**Nu** opri sistemul până când procesul este gata sau îți vei brick-ui vWii-ul.
 {: .notice--danger}
 
-After it has finished it will prompt you to either continue or exit, choose exit. When it exits you back to the Homebrew Channel press the Home button and exit to the System Menu.
+După ce este gata te va întreba dacă să continui sau să ieși, alege să ieși. Când te va da înapoi în Homebrew Channel apasă butonul Home și ieși în System Menu.
 
-If you did everything correctly you should now have a different theme on your System Menu.
+Dacă ai făcut totul corect, ar trebui să ai o temă de fundal diferită în System Menu.
 
-##### Reverting to Stock theme
+##### Revenirea la Tema de Fundal Implicită
 
 Pornește Homebrew Channel.
 
-Next launch MyMenuify and navigate to your theme folder.
+Apoi lansează MyMenuify și navighează către dosarul tău de teme.
 
-Select the .app file you copied to the SD card at the end of section 2 as if you were installing a theme.
+Alege fișierul .app pe care l-ai copiat în cardul SD la sfârșitul secțiunii 2 ca și cum ai instala o temă.
 
-Click install and wait until it finishes.
+Apasă pe install și așteaptă până se termină.
 
-When it is done you can exit MyMenuify.
+După ce este gata poți ieși din MyMenuify.
 
-Now your System Menu should be back to the stock theme.
+Acum System Menu-ul ar trebui să fie înapoi la tema de fundal implicită.
 
 
