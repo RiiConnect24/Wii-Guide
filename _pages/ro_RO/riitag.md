@@ -45,13 +45,13 @@ Acești pași pentru a conecta RiiTag cu USB Loader-ul tău depind de ce USB Loa
 5. Introduce Cardul SD sau unitatea USB unde se află datele USB Loader GX în calculatorul tău.
 6. [Accesează această pagină.](https://tag.rc24.xyz/Wiinnertag.xml)
 7. Pe browser-ul tău, apasă click dreapta și alege `Save As`.
-8. Salvează fișierul XML în folderul `/apps/usbloader_gx` din Cardul tău SD sau unitatea ta USB, înlocuind fișierul `Wiinnertag.xml` existent.
+8. Salvează fișierul XML în dosarul `/apps/usbloader_gx` din Cardul tău SD sau unitatea ta USB, înlocuind fișierul `Wiinnertag.xml` existent.
 9. Acum ai setat Riitag. Poți încerca să rulezi orice joc acum să vezi dacă funcționează corect.
 
 ###### WiiFlow
 
 1. Introduce Cardul SD sau unitatea USB unde se află datele WiiFlow în calculatorul tău.
-2. Deschide `/apps/wiiflow/wiiflow.ini` cu un editor de text. (Dacă folosești WiiFlow Lite, folderul poate avea `wiiflow_lite` în loc de `wiiflow`.)
+2. Deschide `/apps/wiiflow/wiiflow.ini` cu un editor de text. (Dacă folosești WiiFlow Lite, dosarul poate avea `wiiflow_lite` în loc de `wiiflow`.)
 3. Caută fraza `gamercards` și schimbă acea linie cu `gamercards=wiinnertag`.
 4. Caută fraza `wiinnertag_url` și schimbă acea linie cu `wiinnertag_url=http://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
 5. Caută fraza `wiinnertag_key` și schimbă acea linie cu `wiinnertag_key=<key>`, înlocuind `<key>` cu cheia pe care ai notat-o în Secțiunea 1.
