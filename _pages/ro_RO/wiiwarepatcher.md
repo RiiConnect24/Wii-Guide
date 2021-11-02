@@ -26,8 +26,8 @@ Acest tutorial este doar pentru versiunea Windows a WiiWare Patcher.
 1. Pe Windows, rulează `WiiWarePatcher.bat`. ![WiiWare Patcher Main Menu](/images/WiiWare-Patcher/1.JPG)
 2. Apăsați orice tastă pentru a începe patcher-ul.
 3. Alege dacă vrei să modifici jocurile tale proprii sau dacă vrei să descarci și să modifici `Wii Speak Channel`. ![Select patching mode](/images/WiiWare-Patcher/2.JPG)
-4. Dacă patch-uiești jocurile tale proprii, copiază-le (fișierele .WAD) în folderul unde se află `WiiWarePatcher.bat`, apasă `1` și apoi ENTER.
+4. Dacă patch-uiești jocurile tale proprii, copiază-le (fișierele .WAD) în dosarul unde se află `WiiWarePatcher.bat`, apasă `1` și apoi ENTER.
 5. Procesul de modificare va începe. Așteaptă. ![Patching...](/images/WiiWare-Patcher/3.JPG)
-6. Este gata! WAD-urile modificate sunt în folderul `wiimmfi-wads`. Instalează-le folosind Wii Mod Lite sau alt Manager WAD.
+6. Este gata! WAD-urile modificate sunt în dosarul `wiimmfi-wads`. Instalează-le folosind Wii Mod Lite sau alt Manager WAD.
 
 [Revin-o la pagina de instalare Wiimmfi](wiimmfi)
