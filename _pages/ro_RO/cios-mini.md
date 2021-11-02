@@ -27,7 +27,7 @@ Acest instalator d2x cIOS a fost creat inițial pentru vWii-ul din consola Wii U
 
 ##### Secțiunea I - Descărcare
 
-1. Extrage d2xl cIOS Installer în fișierul `apps` din unitatea USB.
+1. Extrage d2xl cIOS Installer în dosarul `apps` din unitatea USB.
 1. Introduce unitatea ta USB în Wii mini și rulează d2xl cIOS Installer din Homebrew Channel.
 
 ##### Secțiunea II - Instalare
@@ -44,7 +44,7 @@ Notează numărul versiunii sub notes (`IOS57-64` care se termină în `v31776` 
 
 
 ##### Activare Ethernet
-Dacă vrei să folosești Wiimmfi cu Ethernet pe un Wii mini, va trebui să rulezi aplicația [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip) făcută de Fullmetal5. Pentru a-l rula, doar extrage-l în fișierul `apps` din unitatea ta USB și rulează-l din Homebrew Channel.
+Dacă vrei să folosești Wiimmfi cu Ethernet pe un Wii mini, va trebui să rulezi aplicația [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip) făcută de Fullmetal5. Pentru a-l rula, doar extrage-l în dosarul `apps` din unitatea ta USB și rulează-l din Homebrew Channel.
 
 Nu încerca să instalezi un IOS sau System Menu a consolei Wii clasice pe Wii mini. Făcând asta cel mai probabil îți vei brick-ui consola.
 {: .notice--warning}
