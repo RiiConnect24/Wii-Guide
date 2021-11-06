@@ -5,10 +5,10 @@ title: "Open Shop Channel (Homebrew Browser)"
 Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [RiiConnect24 Discord-Server](https://discord.gg/osc) bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Homebrew Browser, which is what the Open Shop Channel is based off on, does work but it can be buggy. You can also get homebrew using [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) and from the [Open Shop Channel website](https://oscwii.org/).
+Der Homebrew Browser, welches auf dem Open Shop Channel basiert, funktioniert jedoch können buggs auftreten. Du kannst Homebrew ebenfalls durch den [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) und von der [Open Shop Channel](https://oscwii.org/) Webseite erhalten.
 {: .notice--info}
 
-The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
+Du kannst zum [Open Shop Channel](https://oscwii.org/) gehen, um Homebrew Apps zu erhalten. Es ist ein Wiederbelebungsprojekt für die App namens Homebrew Browser.
 
 #### Voraussetzungen
 * Eine SD-Karte oder ein USB-Laufwerk
@@ -25,8 +25,8 @@ The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew
 [Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
 {: .notice--info}
 
-Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
+Im Homebrew Browser Download befindet sich eine Anleitung, die erklärt, wie der Homebrew Browser verwendet wird.
 {: .notice--info}
 
-You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
+Du kannst die ShopChannel.ogg mit oop.ogg in `/apps/homebrew_browser/` austauschen, um die Wii Shop Channel Musik im Homebrew Browser abspielen zu lassen.
 {: .notice--info}
