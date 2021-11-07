@@ -70,12 +70,12 @@ Vous allez maintenant patchée votre `nwc24msg.cfg` qui est obligatoire pour uti
 1. Lancez RiiConnect24 Mail Patcher.
 2. Cela ne devrait prendre que quelques secondes pour patcher votre fichier nwc24msg.cfg. Quand il termine, appuyez sur le bouton HOME pour quitter.
 
-If you were unable to patch your nwc24msg.cfg correctly, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
+Si vous n'avez pas pus patché votre nwc24msg.cfg correctement, veuillez rejoindre [Le server Discord de Riiconnect24](https://discord.gg/rc24) (recommandé) ou [e-mailez nous vers support@riiconnect24.net](mailto:support@riiconnect24.net) pour assistance.
 {: .notice--info}
 
 ##### Section IV - Se connecter
 
-You will now set your DNS to our servers. This is optional but it's recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
+Vous allez maintenant configurer votre DNS vers nos serveurs. Cette option est facultative, mais elle est recommandée, car elle améliore l'utilisation de RiiConnect24 et Wiimmfi en rendant certaines autres fonctionnalités disponibles.
 
 1. Allez dans les `Options Wii`.
 2. Allez dans `Paramètres Wii`.
@@ -92,19 +92,19 @@ You will now set your DNS to our servers. This is optional but it's recommended,
 13. Allez sur `WiiConnect24`, puis `WiiConnect24` à nouveau, et vérifiez que c'est activé.
 14. De retour au menu WiiConnect24, allez sur `Standby Connection` et vérifiez que c'est activé.
 15. Dans `Slot Illumination`, nous recommandons de mettre le voyant du disque sur `Dim` ou `Bright`, mais c'est facultatif.
-16. Enfin, allez dans la section `Internet`, puis `User Agreements` ou `Agreement/Contact`, puis `Yes`. Veuillez lire le texte affiché. (If you see User Agreements without RiiConnect24's logo, that means using our DNS won't work. You can set `Auto-Obtain` DNS to `On` if that's the case. RiiConnect24 will still work without it.)
+16. Enfin, allez dans la section `Internet`, puis `User Agreements` ou `Agreement/Contact`, puis `Yes`. Veuillez lire le texte affiché. (Si vous voyez des Contrats Utilisateurs sans le logo de RiiConnect24, cela signifie que l'utilisation de notre DNS ne fonctionnera pas. Vous pouvez définir `Auto-Obtain` DNS à `On` si c'est le cas. Riiconnect24 va marcher sans ça.)
 
 
 [Continuer vers Wiimmfi](wiimmfi)<br> Wiimmfi vous permet de jouer à des jeux en ligne après l'arrêt de la connexion Wi-Fi Nintendo. L'installation est facultative.
 {: .notice--info}
 
-[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. L'installation est facultative.
+[Continué vers wiilink](wiilink)<br> Wiilinl vous permet d'utiliser les chaînes exclusive japonais comme Wii no Ma et la chaîne Digicam Print. L'installation est facultative.
 {: .notice--info}
 
-If you get error 107245, then you have failed to patch your IOS correctly.
+Si vous avez l'erreur 107245, alors vous avez échoué de patché vous IOS correctement.
 {: .notice--info}
 
-If you get error 107304, then you cannot use our DNS. This will not affect your ability to use RiiConnect24. In this case, set Auto-obtain DNS to Yes.
+Si vous recevez erreur 107304, alors vous ne pouvez pas utiliser notre DNS. Cela ne vas pas affecté votre utilisation de Riiconnect24. Dans ce cas, mettez Auto-obtain dns vers oui.
 {: .notice--info}
 
 Si vous obtenez une erreur FORE000006, l'horloge de votre Wii est probablement mal réglée. Réglez-la à la date et à l'heure correctes, attendez moins d'une heure et la chaîne Météo devrait commencer à fonctionner.
