@@ -110,10 +110,10 @@ Si vous recevez erreur 107304, alors vous ne pouvez pas utiliser notre DNS. Cela
 Si vous obtenez une erreur FORE000006, l'horloge de votre Wii est probablement mal réglée. Réglez-la à la date et à l'heure correctes, attendez moins d'une heure et la chaîne Météo devrait commencer à fonctionner.
 {: .notice--warning}
 
-[If you're experiencing issues with the Forecast Channel, News Channel, or Wii Mail then following this tutorial might fix your problem.](deleting-vffs)
+[Si vous rencontrez des problèmes avec la Chaîne Prévisionnelle, la Chaîne Infos ou le Mail Wii, suivre ce tutoriel pourrait résoudre votre problème.](deleting-vffs)
 {: .notice--warning}
 
-If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
+Si vous obtenez des erreurs come `Wiiconnect24 et la chaîne wii shop ne sont pas offerte dans votre pays`, allez vers Wii Settings -> La dernière page> pays et changez le vers the Royaume-Uni. Vous allez avoir cette error quant vous utilisez un pays que nous ne supporte pas. Contactez-nous à [support@riiconnect24.net](mailto:support@riiconnect24.net) si vous avez besoin d'aide.
 {: .notice--warning}
 
 [Continuer vers la navigation du site](site-navigation)<br> Nous avons de nombreux autres tutoriels que vous pourriez aimer.
