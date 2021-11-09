@@ -44,25 +44,25 @@ You can now use the Homebrew Channel to launch homebrew apps. Open Shop Channel 
 
 Here's a tip - when installing homebrew applications on your SD Card or USB drive, your folder structure should look like this:
 
-💾sd or usb:
+💾 sd or usb:
 
-┣ 📂apps
+┣ 📂 apps
 
-┃ ┣ 📂AppName1
+┃ ┣ 📂 AppName1
 
-┃ ┃ ┣ 📜boot.dol / boot.elf
+┃ ┃ ┣ 📄 boot.dol / boot.elf
 
-┃ ┃ ┣ 📜icon.png
+┃ ┃ ┣ 📄 icon.png
 
-┃ ┃ ┗ 📜meta.xml
+┃ ┃ ┗ 📄 meta.xml
 
 ┃ ┗ 📂AppName2
 
-┃   ┣ 📜boot.dol / boot.elf
+┃   ┣ 📄 boot.dol / boot.elf
 
-┃   ┣ 📜icon.png
+┃   ┣ 📄 icon.png
 
-┃   ┗ 📜meta.xml
+┃   ┗ 📄 meta.xml
 
 `AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
 
