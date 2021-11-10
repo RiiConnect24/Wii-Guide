@@ -38,21 +38,30 @@ Acum poți folosi Homebrew Channel pentru a lansa aplicații homebrew. Open Shop
 
 Uite un sfat - când instalezi aplicații homebrew pe Cardul tău SD sau unitatea ta USB, structura dosarului tău ar trebui să arate așa:
 
-`💾sd sau usb:
- ┣ 📂apps
- ┃ ┣ 📂AppName1
- ┃ ┃ ┣ 📜boot.dol / boot.elf
- ┃ ┃ ┣ 📜icon.png
- ┃ ┃ ┗ 📜meta.xml
- ┃ ┗ 📂AppName2
- ┃   ┣ 📜boot.dol / boot.elf
- ┃   ┣ 📜icon.png
- ┃   ┗ 📜meta.xml`
+💾 sd or usb:
 
-`AppName1` și `AppName2` sunt nume substituente. Nu adaugă mai multe dosare `apps` în interiorul dosarului `apps` propriu-zis.
+┣ 📂 apps
 
-[Continuă să faci o copie de rezerva NAND folosind BootMii](bootmii)<br> Este foarte recomandat să faci o copie de rezervă cu BootMii acum.
+┃ ┣ 📂 AppName1
+
+┃ ┃ ┣ 📄 boot.dol / boot.elf
+
+┃ ┃ ┣ 📄 icon.png
+
+┃ ┃ ┗ 📄 meta.xml
+
+┃ ┗ 📂AppName2
+
+┃ ┃ ┣ 📄 boot.dol / boot.elf
+
+┃ ┃ ┣ 📄 icon.png
+
+┃ ┃ ┗ 📄 meta.xml
+
+`AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
+
+[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
 {: .notice--info}
 
-Dacă nu ai putut instala BootMii, continuă la [instalarea Priiloader](priiloader).
+If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
 {: .notice--info}
