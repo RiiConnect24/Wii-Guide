@@ -93,45 +93,45 @@ Une fois le téléchargement terminé, faites une recherche dans le dossier où 
 
 Si ne vous pouvez pas trouver le fichier .app pour votre région, il est possible que vous avais téléchargé la version incorrect du System Menu et vous avez besion de réessayer.
 
-After you Find the .app file copy it to the main directory of the Folder containing ThemeMii, also copy a version of it to the theme folder in your SD card (We'll come back to that later).
+Après que vous trouvez le fichier .app copié le dans le dossier qui contains ThemeMii, et aussi copié une copie de ficher theme sur votre carde SD (on va retourner a cela plus tard).
 
-##### Section III - Building the Theme
+##### Section III - Construire le Theme
 
-Navigate to the Folder where you have ThemeMii Mod extracted and Launch ThemeMii Mod.
+Naviguez jusqu'au dossier où vous avez ThemeMii Mod extrait et lancez ThemeMii Mod.
 
-Do not click `Download  Base App`, ThemeMii does not have Base app files for vWii. If you do download a base app you must delete it in order to use your .app file.
+Ne cliquez pas sur `Télécharger l'application de base`, ThemeMii n'a pas de fichiers d'application de base pour vWii. Si vous téléchargez une application base vous devrez le supprimer pour utiliser votre fichier .app.
 {: .notice--warning}
 
-In ThemeMii select `File > Open` and navigate to the .mym theme you downloaded earlier. Then click on `Create CSM` and select the .app file that you copied to the ThemeMii folder.
+Dans ThemeMii, sélectionnez `Fichier > Ouvrir` et accédez au thème .mym que vous avez téléchargé précédemment. Puis cliquez sur `Créer CSM` et choisissez le fichier .app aue vous avez copié dans le dossier ThemeMii.
 
-Now navigate to the theme folder on your SD card and save your theme with an easy to remember name with the .csm extension.
+Naviguez maintenant dans le dossier thème de votre carte SD et enregistrez votre thème avec un nom facile à retenir avec l'extension .csm.
 
-![An image of the ThemeMii menu so you can better understand.](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
+![Une image du menu ThemeMii pour que vous puissiez mieux comprendre.](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
 
 
 
-##### Section IV - Installing the Theme
+##### Section IV - Installer le Theme
 
-Safely Eject your SD card from your PC and Put it into your Wii U.
+Éjectez votre card SD de votre pc et Ajoutez la dans votre Wii U.
 
-Start the Homebrew Channel and launch MyMenuify.
+Démarrez la chaîne Homebrew et ouverz MyMenuify.
 
-After you have launched MyMenuify navigate to your theme folder and select the .csm file you just created, when it prompts you to install the theme say yes, then wait for it to finish.
+Après avoir lancé MyMenuify naviguez dans le dossier de votre thème et sélectionnez le .csm que vous venez de créer, quand il vous invite à installer le thème disez oui, puis attendez qu'il se termine.
 
-**Do not** power off your system until it finishes or you will brick your vWii.
+**Ne pas** étendre votre system jusqu'à il termine ou vous allez brickez votre vWii.
 {: .notice--danger}
 
-After it has finished it will prompt you to either continue or exit, choose exit. When it exits you back to the Homebrew Channel press the Home button and exit to the System Menu.
+Une fois terminé, il vous demandera soit de continuer ou de quitter, soit de quitter. Quand il vous quitte vers la Chaîne Homebrew, appuyez sur le bouton Home et quittez vers le Menu Système.
 
-If you did everything correctly you should now have a different theme on your System Menu.
+Si vous avez tous fait correctement vous devrez maintenant avoir un thème différent sur votre Menu System.
 
-##### Reverting to Stock theme
+##### Retourner vers le menu original
 
 Lancez la Chaîne Homebrew.
 
-Next launch MyMenuify and navigate to your theme folder.
+Ensuite démarrer MyMenuify et naviguer vers votre dossier theme.
 
-Select the .app file you copied to the SD card at the end of section 2 as if you were installing a theme.
+Sélectionnez le fichier .app que vous avez copié sur la carte SD à la fin de la section 2 comme si vous installez un thème.
 
 Click install and wait until it finishes.
 
