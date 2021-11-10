@@ -38,16 +38,25 @@ Du kannst nun den Homebrew Channel nutzen, um Homebrew Apps auszuführen. Der Op
 
 Here's a tip - when installing homebrew applications on your SD Card or USB drive, your folder structure should look like this:
 
-`💾sd or usb:
- ┣ 📂apps
- ┃ ┣ 📂AppName1
- ┃ ┃ ┣ 📜boot.dol / boot.elf
- ┃ ┃ ┣ 📜icon.png
- ┃ ┃ ┗ 📜meta.xml
- ┃ ┗ 📂AppName2
- ┃   ┣ 📜boot.dol / boot.elf
- ┃   ┣ 📜icon.png
- ┃   ┗ 📜meta.xml`
+💾 sd or usb:
+
+┣ 📂 apps
+
+┃ ┣ 📂 AppName1
+
+┃ ┃ ┣ 📄 boot.dol / boot.elf
+
+┃ ┃ ┣ 📄 icon.png
+
+┃ ┃ ┗ 📄 meta.xml
+
+┃ ┗ 📂AppName2
+
+┃ ┃ ┣ 📄 boot.dol / boot.elf
+
+┃ ┃ ┣ 📄 icon.png
+
+┃ ┃ ┗ 📄 meta.xml
 
 `AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
 
