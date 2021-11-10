@@ -38,21 +38,30 @@ Vous pouvez maintenant utiliser la chaîne homebrew pour lancer des applications
 
 Voici une astuce - quand entrain d'installer des applications homebrew sur votre card SD or périphériques USB, votre structure des dossiers doit ressembler sa:
 
-`💾sd or usb:
-┣ 📂apps
-┃ ┣ 📂Application1
-┃ ┃ ┣ 📜boot.dol / boot.elf
-┃ ┃ ┣ 📜icon.png
-┃ ┃ ┗ 📜meta.xml
-┃ ┗ 📂Application2
-┃ ┣ 📜boot.dol / boot.elf
-┃ ┣ 📜icon.png
-┃ ┗ 📜meta.xml`
+💾 sd or usb:
 
-`application1` et `application2` sont des noms en place. Ne pas mettre multiple `apps` dossier dans le `apps` dossier lui-même.
+┣ 📂 apps
 
-[Continuer a faire une backup NAND avec BootMii](bootmii)<br> Faire une backup NAND avec bootmii sur se point est très recommandé.
+┃ ┣ 📂 AppName1
+
+┃ ┃ ┣ 📄 boot.dol / boot.elf
+
+┃ ┃ ┣ 📄 icon.png
+
+┃ ┃ ┗ 📄 meta.xml
+
+┃ ┗ 📂AppName2
+
+┃ ┃ ┣ 📄 boot.dol / boot.elf
+
+┃ ┃ ┣ 📄 icon.png
+
+┃ ┃ ┗ 📄 meta.xml
+
+`AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
+
+[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
 {: .notice--info}
 
-Si vous ne pouvez pas installé BootMii, continuez vers [installé Priiloader](priiloader).
+If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
 {: .notice--info}
