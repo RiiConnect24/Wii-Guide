@@ -38,11 +38,11 @@ Acum poți folosi Homebrew Channel pentru a lansa aplicații homebrew. Open Shop
 
 Uite un sfat - când instalezi aplicații homebrew pe Cardul tău SD sau unitatea ta USB, structura dosarului tău ar trebui să arate așa:
 
-💾 sd or usb:
+💾 sd sau usb:
 
 ┣ 📂 apps
 
-┃ ┣ 📂 AppName1
+┃ ┣ 📂 NumeleAplicației1
 
 ┃ ┃ ┣ 📄 boot.dol / boot.elf
 
