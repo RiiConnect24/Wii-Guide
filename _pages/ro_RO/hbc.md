@@ -50,7 +50,7 @@ Uite un sfat - când instalezi aplicații homebrew pe Cardul tău SD sau unitate
 
 ┃ ┃ ┗ 📄 meta.xml
 
-┃ ┗ 📂AppName2
+┃ ┗ 📂NumeleAplicației2
 
 ┃ ┃ ┣ 📄 boot.dol / boot.elf
 
@@ -58,10 +58,10 @@ Uite un sfat - când instalezi aplicații homebrew pe Cardul tău SD sau unitate
 
 ┃ ┃ ┗ 📄 meta.xml
 
-`AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
+`AppName1` și `AppName2` sunt nume substituente. Nu adaugă mai multe dosare `apps` în interiorul dosarului `apps` propriu-zis.
 
-[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
+[Continuă să faci o copie de rezerva NAND folosind BootMii](bootmii)<br> Este foarte recomandat să faci o copie de rezervă cu BootMii acum.
 {: .notice--info}
 
-If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
+Dacă nu ai putut instala BootMii, continuă la [instalarea Priiloader](priiloader).
 {: .notice--info}
