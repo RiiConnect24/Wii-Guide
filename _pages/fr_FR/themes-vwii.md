@@ -133,10 +133,10 @@ Ensuite démarrer MyMenuify et naviguer vers votre dossier theme.
 
 Sélectionnez le fichier .app que vous avez copié sur la carte SD à la fin de la section 2 comme si vous installez un thème.
 
-Click install and wait until it finishes.
+Appuyez sur installer et attendez qu'elle se termine.
 
-When it is done you can exit MyMenuify.
+Quand elle est terminé vous pouvez sortir MyMenuify.
 
-Now your System Menu should be back to the stock theme.
+Maintenant votre System Menu devrait être de retour vers le theme stock.
 
 
