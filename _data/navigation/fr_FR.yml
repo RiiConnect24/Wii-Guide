@@ -36,7 +36,7 @@ footer:
     url: donations
 sidebar_title:
   - 
-    title: Progrès Général
+    title: Progrès global
 sidebar_pages:
   - 
     title: Guide Wii
@@ -48,7 +48,7 @@ sidebar_pages:
     title: Dons
     url: donations
   - 
-    title: Credits
+    title: Crédits
     url: credits
   - 
     title: RiiConnect24
