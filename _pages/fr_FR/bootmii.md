@@ -4,7 +4,7 @@ title: "Sauvegarde BootMii"
 
 {% include toc title="Table des matières" %}
 
-Si vous avez besoin d'aide pour quoi que ce soit concernant ce tutoriel, veuillez rejoindre [ le serveur Discord RiiConnect24 ](https://discord.gg/rc24) (recommandé) ou \[ envoyez-nous un e-mail chez support@riiconnect24.net \](mailto: support @ riiconnect24 .net).
+Si vous avez besoin d'aide pour quoi que ce soit concernant ce tutoriel, veuillez rejoindre [le serveur Discord RiiConnect24](https://discord.gg/rc24) (recommandé) ou [nous envoyer un e-mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![BootMii Logo](/images/bootmii.png)
