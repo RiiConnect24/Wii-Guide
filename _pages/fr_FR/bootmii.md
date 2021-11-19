@@ -9,13 +9,13 @@ Si vous avez besoin d'aide pour quoi que ce soit concernant ce tutoriel, veuille
 
 ![BootMii Logo](/images/bootmii.png)
 
-Vous avez besoin d'une **Card SD** pour créer une backup NAND à l'aide de BootMii. Si vous n'en avez pas, vous pouvez sauter cette page, bien qu'il est fortement recommandé de créer une backup si vous pouvez.
+Vous avez besoin d'une **carte SD** pour créer une sauvegarde NAND en utilisant BootMii. Si vous n'en avez pas, vous pouvez sauter cette page, bien qu'il soit fortement recommandé d'en créer un si vous le pouvez.
 {: .notice--warning}
 
-BootMii en tant que boot2 est recommandé, mais uniquement disponible pour une installation sur les vieilles Wiis. Sinon, il peut être installé en tant qu'IOS.
+BootMii en tant que boot2 est recommandé, mais seulement disponible pour l'installation sur les premières Wiis. Sinon, il peut être installé comme un IOS.
 {: .notice--info}
 
-L'une des fonctionnalités les plus importantes de BootMii est la possibilité de sauvegarder et de restaurer le stockage NAND de votre Wii. Nous verrons comment effectuer une backup NAND. Vous pouvez ensuite restaurer à partir de cette backup pour n'importe quelle reason. C'est une bonne idée de faire une backup NAND régulièrement ou avant de faire quelque chose de risqué sur votre console (et si vous savez ce que vous faites, vous n'aurez rien à faire de risqué).
+L'une des fonctionnalités les plus importantes de BootMii est la possibilité de sauvegarder et de restaurer le stockage NAND de votre Wii. Nous verrons comment effectuer une sauvegarde NAND. Vous pouvez ensuite restaurer à partir de cette backup pour n'importe quelle reason. C'est une bonne idée de faire une backup NAND régulièrement ou avant de faire quelque chose de risqué sur votre console (et si vous savez ce que vous faites, vous n'aurez rien à faire de risqué).
 
 #### Ce dont vous avez besoin
 * Une carte SD avec au moins 512 Mo d'espace libre
