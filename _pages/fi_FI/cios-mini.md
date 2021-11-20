@@ -2,11 +2,11 @@
 title: "d2xl cIOS Wii minille (kokeellinen)"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sisällysluettelo" %}
 
 Tämä opas kertoo sinulle, kuinka asentaa Leseratten d2xl Wii mini cIOS (custom IOS). Tämä vaaditaan, jos haluat käynnistää pelejä USB-lataajan kautta. Jotkut homebrew-ohjelmat saattavat toimia paremmin cIOS:ia käyttämällä.
 
-![d2x cIOS Installer](/images/cIOS.png)
+![d2x cIOS Asentaja](/images/cIOS.png)
 
 Tämä opas on tarkoitettu vain Wii minin käyttäjille. Jos sinulla on Wii, seuraa [tätä opasta](cios).
 {: .notice--warning}
@@ -34,11 +34,11 @@ Davebaol alunperin kehitti tämän d2x cIOS installerin Wii U:n vWiitä varten j
 
 1. Paina continue, sitten aseta vaihtoehdot seuraavasti:
     ```
-    Select cIOS: d2xl-v1-beta2
-    Select cIOS base: 57
-    Select cIOS slot: 249
+    Valitse cIOS: d2xl-v1-beta2
+    cIOS base: 57
+    cIOS slot: 249
     ```
-Take a note of the version number under notes (`IOS57-64-` ending in either `v31776` or `v31775`)
+Ota alla oleva versionumero muistiin (`IOS57-64-` joka päättyy joko `v31776` tai `v31775`)
 1. Kun asetettu, paina A:ta asentaaksesi. Kun tehty onnistuneesti, poistu asennusohjelmasta.
    - Jos asennus epäonnistuu `TMD version mismatch` virheellä, paina vasenta tai oikeaa ristiohjaimen painiketta `Select cIOS base` asetuksen kohdalla, kunnes versionumero on eri kuin se, jota aikaisemmin kokeilit. Numero 57 ei vaihdu.
 
