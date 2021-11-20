@@ -18,7 +18,23 @@ WiiLink24 et tous ses services (tels que Wii no Ma) ne sont ni contrôlés ni ex
 
 #### Instructions
 
-##### Section I - Patch WADs
+##### Optionel: Wii Patcher
+Le Wii Patcher ne marchera pas sur Dolphin. Si vous êtes un utilisateur de Dolphin, utilisez lzs autres patchers.
+{: .notice--info}
+
+Si vous utilisez le Wii Patcher, vous n'aurez pas besoin d'utilisez nos autres patchers.
+{: .notice--info}
+
+1. Téléchargez le WAD basé sur votre console. Pour la Wii ce sera `WiiLink_Patcher_Wii.wad`. Pour la vWii ce sera `WiiLink_Patcher_vWii.wad`.
+2. Placez le WAD dans le dossier `WAD` sur votre carte SD/USB.
+3. Insérez votre carte SD dans votre Wii U
+4. Installez les à l'aide de Wii Mod Lite ou d'un autre WAD Manager.
+5. Lancez la chaîne `WiiLink Patcher` à partir du Menu Wii.
+6. Sélectionnez la chaîne que vous souhaitez télécharger.
+7. Sélectionnez la langue que vous souhaitez télécharger.
+8. Si tout a fonctionné, les chaînes devraient être sur votre Menu Wii.
+
+##### Section I - Patcher les WADs
 
 [Si vous souhaitez voir des instructions détaillées sur la façon d'installer les WAD, cliquez ici!](wiimodlite)
 {: .notice--info}
@@ -33,25 +49,25 @@ WiiLink24 et tous ses services (tels que Wii no Ma) ne sont ni contrôlés ni ex
 8. Une fois que c'est fait, vous pouvez fermer le patcher en toute sécurité. Tous les fichiers sont prêts sur votre carte SD.
 9. Si tout n'a pas été copié automatiquement sur votre carte SD ou votre périphérique USB, copiez les dossiers `WAD` et `apps` à côté de `WiiLinkPatcher.bat`, et collez-les sur votre carte SD ou votre périphérique USB.
 10. Insérer la carte SD ou le périphérique USB dans votre Wii.
-11. Lancez Homebrew Channel sur votre Wii.
+11. Lancez la Chaîne Homebrew sur votre Wii.
 12. Lancez Wii Mod Lite.
 13. À l'aide de la croix directionnelle de votre télécommande Wii, accédez à `WAD Manager`, puis accédez au dossier `wad`.
-14. Si votre Wii n'est pas une région japonaise, installez WiiLink24_SPD.wad avant toute autre chose. Ceci est nécessaire pour que nous connaissions votre adresse e-mail pour envoyer des fichiers.
+14. Si votre Wii n'est pas en région japonaise, installez WiiLink24_SPD.wad avant toute autre chose. Ceci est nécessaire pour que nous connaissions votre adresse e-mail pour envoyer des fichiers.
 15. Surlignez tous les autres WAD avec `WiiLink24` dans le nom et appuyez sur + pour les sélectionner. Lorsqu'ils sont tous sélectionnés, appuyez deux fois sur A pour installer les WADs.
-16. Une fois l'installation terminée, appuyez sur le bouton HOME pour revenir à la chaîne Homebrew.
+16. Une fois correctement installé, appuyez sur le bouton HOME pour revenir au Homebrew Channel.
 
-##### Section II - Ajouter votre e-mail à SPD
+##### Section II - Ajouter votre email a SPD
 
 L'ajout de votre e-mail à SPD permettra à des chaînes comme Digicam et Demae de vous envoyer des fichiers comme des images ou des liens.
 {: .notice--info}
 
-1. Lancez Digicam Print Channel depuis le menu d'accueil de votre Wii.
+1. Lancez Digicam Print Channel depuis le Menu HOME de votre Wii.
 2. En bas à droite, appuyez sur `Address settings`, puis sur `Yes`.
 3. Cliquez sur `Email Address` dans SPD et saisissez votre adresse e-mail. (assurez-vous de **le mettre correctement** ou il **ne fonctionnera pas !**)
 4. Appuyez sur `OK`, puis sur `Done`.
-5. Une fois que vous êtes dans le menu principal du SPD, choisissez `Digicam` dans le menu `Choose Channel`. Une fois que vous avez fait cela, cela devrait fonctionner!
+5. Une fois que vous êtes dans le menu principal de SPD, choisissez `Digicam` dans le menu `Choose Channel`. Une fois que vous avez fait cela, cela devrait fonctionner!
 
-Pour PAL (Europe Wiis)<br> Dans les paramètres Wii, veuillez régler la résolution TV sur 60 Hz (480p/480i). Vous pouvez le trouver dans `Ecran -> TV Resolution` Si vous ne le faites pas, une barre rose apparaîtra au bas de l'écran pour masquer la vision.
+Pour les PAL (Wiis Européenes)<br> Dans les Paramètres Wii, veuillez régler la résolution TV sur 60 Hz (480p/480i). Vous pouvez trouver ce paramètre dans `Écran -> Résolution TV`. Si vous ne le faites pas, une barre rose apparaîtra en bas de l'écran, gênant la vision.
 {: .notice--info}
 
 [ Continuer vers RiiConnect24 ](riiconnect24) <br> RiiConnect24 vous permet d'utiliser les services interrompus de WiiConnect24, qui incluent la Chaîne Infos, la Chaîne Météo, la Chaîne Votes, la Chaîne Nintendo et la Chaîne Concours Mii, ainsi que Wii Mail. L'installation est facultative.
