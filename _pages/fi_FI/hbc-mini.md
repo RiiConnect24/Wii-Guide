@@ -1,13 +1,13 @@
 ---
-title: "Homebrew Channel - for Wii mini only"
+title: "Homebrew Channel - vain Wii minille"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sisällysluettelo" %}
 
 Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiConnect24:n Discord-palvelimelle](https://discord.gg/rc24) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![HBC Logo](/images/hbc.png)
+![HBC:n Logo](/images/hbc.png)
 
 Homebrew Channel on se, mihin menet käynnistääksesi homebrew-sovelluksia.
 
