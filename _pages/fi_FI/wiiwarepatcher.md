@@ -2,7 +2,7 @@
 title: "WiiWare Patcher"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sisällysluettelo" %}
 
 Want to patch WAD games (WiiWare) to work with Wiimmfi and you don't know how? This tutorial will explain you how WiiWare Patcher works. (This tutorial is only suitable for Windows operating system)
 
@@ -18,7 +18,7 @@ This tutorial is only for Windows version of WiiWare Patcher.
 
 ##### Section I - Downloading WiiWare Patcher
 
-1. Click the link above to go to the GitHub page where the patcher is.
+1. Klikkaa yllä olevaa linkkiä mennäksesi GitHub sivulle, jossa patcher on.
 2. Download `WiiWarePatcher.bat`.
 
 ##### Section II - Patching WiiWare games
