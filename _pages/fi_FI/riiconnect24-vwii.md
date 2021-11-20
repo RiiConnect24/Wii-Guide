@@ -2,7 +2,7 @@
 title: RiiConnect24 vWii -opas
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sisällysluettelo" %}
 
 Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiConnect24:n Discord-palvelimelle](https://discord.gg/rc24) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -27,7 +27,7 @@ Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on
 * A PC or mobile device with internet access and the ability to interact with SD cards.
 * An SD card formatted as FAT32 (at least 2GB) with enough available space. SDHC or SDXC cards formatted as FAT32 can be known to work.
 * A Wii U console capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
-* [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+* [RiiConnect24 Patcheri](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 After following the above linked guide, you should have:
 * A vWii NAND-varmuuskopio ja avaimet (säilytä näitä turvallisesti!!)
@@ -76,18 +76,18 @@ After following the above sections, you're almost able to utilize RiiConnect24 o
 * You should now be able to utilize all of the WiiConnect24 Channels you have installed!
 
 #### What's currently working?
-The following RiiConnect24 services are **working** on the vWii:
+Seuraavat RiiConnect24 palvelut **toimivat** vWii:llä:
 * News Channel
     * This channel is affected by the timestamp issue. The "Last Updated" and article timestamps will be incorrect.
-    * The banner data is also known to not work, returning `Unable to obtain data.`
+    * Bannerin datan tiedetään myös olevan epäkunnossa, palauttavan `Unable to obtain data.`
 * Forecast Channel
 * Nintendo Channel
 * Everybody Votes Channel
 * Check Mii Out Channel / Mii Contest Channel
 {: .notice--success}
 
-The following RiiConnect24 services are **not working** on the vWii:
+Seuraavat RiiConnect24 palvelut ** EI toimi** vWii:llä:
 * Wii Mail (useimpia toimintoja ei ole vWiillä)
-    * This includes sending/receiving mail to/from friends. You can only receive global broadcast mail and posts from RSSMii feeds (if set up).
-* Everything else that isn't working according to [RiiConnect24 stats](https://rc24.xyz/stats/index.html).
+    * Tämä sisältää lähetettävän/vastaanottavan viestin ystäville/ystäville. Voit vastaanottaa globaaleja lähetyksiä ja viestejä vain RSSMii-feedeistä (jos asennettu).
+* Kaikki muu, joka ei toimi [RiiConnect24 tilastot](https://rc24.xyz/stats/index.html).
 {: .notice--warning}
