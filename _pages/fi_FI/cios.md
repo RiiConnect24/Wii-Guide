@@ -2,16 +2,16 @@
 title: "cIOS"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sisällysluettelo" %}
 
 Tämä opas kertoo sinulle, kuinka asentaa cIOS (custom IOS). Tämä vaaditaan, jos haluat käynnistää pelejä USB-lataajan kautta. Jotkut homebrew-ohjelmat saattavat toimia paremmin cIOS:ia käyttämällä.
 
-![d2x cIOS Installer](/images/cios/cIOS.png)
+![d2x cIOS Asentaja](/images/cios/cIOS.png)
 
-If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
+Jos sinulla on Wii U (vWii), seuraa [tätä opasta](https://wiiu.hacks.guide/#/vwii-modding) asentaaksesi cIOS:än. Jos yrität asentaa muita cIOS:iä vWii:lle se ei tule toimimaan.
 {: .notice--info}
 
-If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
+Jos sinulla on Wii mini, asenna [tämä cIOS](cios-mini). Jos yrität asentaa muita cIOS:ia Wii minille se ei tule toimimaan.
 {: .notice--info}
 
 #### Mitä tarvitset
@@ -20,7 +20,7 @@ If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to in
 * SD-kortti tai USB-asema
 * [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
 
-Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
+Jos käytät SD-korttia, varmista, että lukituskytkin on auki-asennossa, tai muuten et pysty valitsemaan oikeita asetuksia asennusohjelmassa
 {: .notice--warning}
 
 #### Ohjeet
@@ -34,12 +34,12 @@ Ensure that if you are using an SD card, the lock switch is in the unlocked posi
 
 1. Paina continue, sitten aseta vaihtoehdot seuraavasti:
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 57
-Select cIOS slot: 249
-Select cIOS version: 65535
+Valitse cIOS: v10 beta52 d2x-v10-beta52
+Valitse cIOS base: 57
+Valitse cIOS slot: 249
+Valitse cIOS versio: 65535
 ```
-![Install cIOS 249](/images/cios/Install249.png)
+![Asenna cIOS 249](/images/cios/Install249.png)
 1. Kun asetettu, paina A:ta kahdesti asentaaksesi.
 1. Kun asennus on valmis, paina A:ta palataksesi ja aseta vaihtoehdot seuraavasti:
 ```
