@@ -2,7 +2,7 @@
 title: "Installing Themes System Menu Themes on vWii"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sisällysluettelo" %}
 
 
 
