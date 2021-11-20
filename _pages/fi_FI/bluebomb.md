@@ -2,7 +2,7 @@
 title: "BlueBomb"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sisällysluettelo" %}
 
 Jos tarvitset apua jonkin tähän oppaaseen liittyvän kanssa, liity [Wii mini Hacking Discord-palvelimelle](https://discord.gg/6ryxnkS) (suositeltavaa)
 {: .notice--info}
@@ -33,7 +33,7 @@ Emme suosittele BlueBombia käytettävän alkuperäisellä Wiillä, jos tarkoitu
 - (Jos yrität korjata brickiä, sinun pitää myös kopioida se homebrew-sovellus, jota haluat käyttää kansioon /apps/)
 1. Pura se ja laita tiedosto `boot.elf` muistitikullesi.
 1. Liitä muistitikku konsoliin. Wii minin USB-portti on konsolin takana. Tavallisella Wiillä, käytä alempaa porttia. (tai oikeanpuolimmaista porttia, jos se on pystyasennossa).
-1. Laita konsolisi päälle ja mene asetusvalikkoon. Oikeassa yläkulmassa näet nelimerkkisen koodin, kuten alla olevassa kuvassa. Tämä koodi on Wii Menu -versiosi, laita tämä muistiin, sillä tarvitset sitä myöhemmin. Sen jälkeen sammuta konsolisi. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+1. Laita konsolisi päälle ja mene asetusvalikkoon. Oikeassa yläkulmassa näet nelimerkkisen koodin, kuten alla olevassa kuvassa. Tämä koodi on Wii Menu -versiosi, laita tämä muistiin, sillä tarvitset sitä myöhemmin. Sen jälkeen sammuta konsolisi. ![Järjestelmän Käyttöliittymän Versio](/images/Wii/SystemMenuVersion.png)
 1. Käynnistä Linux-distrosi ja varmista, että olet yhdistettynä internetiin.
 1. Laita konsolisi päälle **äläkä** yhdistä lainkaan Wii Remoteja.
 1. Suorita seuraavat komennot:
