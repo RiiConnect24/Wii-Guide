@@ -61,8 +61,8 @@ sitemap: false
 
 **Cайт**
 + [Домашняя страница](/)
-+ [Начало работы](начать)
-+ [Вопросы и Ответы](вопросы и ответы)
++ [Начало работы](get-started)
++ [Вопросы и Ответы](faq)
 + [Пожертвования](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
