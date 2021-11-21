@@ -1,7 +1,7 @@
 ---
 main:
   - 
-    title: Wii U Opas
+    title: Wii Opas
     url: /
   - 
     title: Aloita tästä
@@ -39,7 +39,7 @@ sidebar_title:
     title: Kokonaisedistyminen
 sidebar_pages:
   - 
-    title: Wii U Opas
+    title: Wii Opas
     url: /
   - 
     title: UKK
