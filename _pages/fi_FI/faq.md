@@ -15,7 +15,7 @@ Tarvitset SD-kortin, jolla on vähintään 128 Mt tilaa suorittaaksesi exploitin
 
 - Jos käytät BlueBombia, str2haxia tai FlashHaxia, et tarvitse SD-korttia exploittaamiseen.
 
-Homebrew-ohjelmien varastoimiseen suosittelemme SD-korttia, jolla on vähintään 2 Gt tilaa.
+Homebrew-ohjelmien varastoimiseen suosittelemme SD-korttia, jolla on vähintään 2 GB tilaa.
 
 ### Sain virheen XXXXXX Wiimmfissä, kuinka korjata se?
 Katsoaksesi, mikä virhe se on, käy [Wiimmfin virhesivulla](https://wiimmfi.de/error).
@@ -25,7 +25,7 @@ Seuraava luettelo on asioista, jotka voivat mahdollisesti **BRICKATA** sinun vWi
 * Wiin IOS:n asentaminen vWiille.
 * Asentaa Wii-valikon teemoja jotka ei ole alustettu oikein vWiille ja/tai alueellesi.
 * BootMiin ja/tai Priiloaderin/Preloaderin asentaminen.
-* Failure during the install of crucial system/IOS titles (e.g. power outage).
+* Virhe kesken järjestelmä/IOS-nimikkeiden asennuksen aikana (esim. virtakatko).
 * vWiin NAND:in muokkaaminen tietämättä mitä teet.
 
 ### Miten voin poistaa parental controls?
