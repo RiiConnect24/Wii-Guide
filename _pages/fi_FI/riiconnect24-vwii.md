@@ -7,11 +7,11 @@ title: RiiConnect24 vWii -opas
 Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiConnect24:n Discord-palvelimelle](https://discord.gg/rc24) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![RiiConnect24:in Logo](/images/WiiRC24Logo.jpg)
 
-Guide to installing [RiiConnect24](https://rc24.xyz) on your vWii (Virtual Wii on Wii U) with: CMOC/MCC, Nintendo Channel, EVC and News Channel along with forced 4:3 aspect ratio patching.
+Opas [RiiConnect24:in](https://rc24.xyz) asentamiseen vWiille (Virtual Wii Wii U:lla), johon kuuluu: CMOC/MCC, Nintendo Channel, EVC ja News Channel pakotetulla 4:3 kuvasuhde patchauksella.
 
-Since certain features found in the original Wii are not present in the vWii, we can only partially utilize RiiConnect24. See [what's currently working](#whats-currently-working) for details.
+Koska tietyt ominaisuudet alkuperäisessä Wii:ssä eivät ole vWii:llä, voimme vain osittain käyttää RiiConnect24:ia. Katso [Mitä tällä hetkellä toimii](#whats-currently-working) lisätiedoille.
 {: .notice--warning}
 
 #### Varoitukset
@@ -19,7 +19,7 @@ Since certain features found in the original Wii are not present in the vWii, we
 **EMME** ole vastuussa, jos teet konsolistasi tiiliskiven tai vahingoitat sitä millään tavalla. Jos noudatat tätä opasta tarkasti, sinulla ei pitäisi olla ongelmia.
 {: .notice--warning}
 
-Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on Wii U). If you're looking for instructions for a Nintendo Wii, use [wii.guide/riiconnect24](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [wii.guide/riiconnect24-dolphin](/riiconnect24-dolphin)
+**ÄLÄ** seuraa tätä opasta millään muulla konsolilla kuin vWii:llä (Virtual Wii on Wii U). Jos etsit ohjeita Nintendo Wiille, käytä [wii.guide/riiconnect24:ia](riiconnect24). Jos haluat asentaa RiiConnect24:in Dolphin emulaattorille, käytä [wii.guide/riiconnect24-dolphin:ia](/riiconnect24-dolphin)
 {: .notice--warning}
 
 #### Mitä tarvitset
