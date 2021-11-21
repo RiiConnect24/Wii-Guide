@@ -7,7 +7,7 @@ title: "Priiloader"
 Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiConnect24:n Discord-palvelimelle](https://discord.gg/rc24) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Priiloader adds a level of brick protection to your Wii. Se käynnistyy ennen Wii Menua (tästä nimitys). The tool can also enable hacks for your Wii Menu, and be used to quickly launch the Homebrew Channel, BootMii, or whatever homebrew you want!
+Priiloader lisää tason brick suojausta sinun Wiille. Se käynnistyy ennen Wii Menua (tästä nimitys). Työkalu voi myös mahdollistaa häckejä Wii Menulle, ja se pystyy myös käynnistämään Homebrew Channelin, BootMii:n, Levyn, tai mitä tahansa homebrew juttuja haluat!
 
 ![Priiloader](/images/priiloader.jpg)
 
@@ -28,14 +28,14 @@ Priiloader adds a level of brick protection to your Wii. Se käynnistyy ennen Wi
 
 1. Käynnistä Homebrew Channel Wii:lläsi.
 2. Käynnistä Priiloader-asennusohjelma.
-3. Paina Wii Remote:n + nappia tai GameCube-ohjaimen A-nappia. ![Install Priiloader](/images/Priiloader/installer.png) ![Installing](/images/Priiloader/installing.png)
+3. Paina Wii Remote:n + nappia tai GameCube-ohjaimen A-nappia. ![Asenna Priiloader](/images/Priiloader/installer.png) ![Asentaa](/images/Priiloader/installing.png)
 
 ##### Osa III - Priiloaderiin meneminen/konfigurointi
 
 1. Pidä RESET-painiketta pohjassa, käynnistäessä Wiisi.
     * Jos käytät Wii miniä, kytke USB-näppäimistö ja pidä Escape-näppäintä pohjassa käynnistäessäsi sen.
 
-![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
+![Ota käyttöön](/images/Priiloader/on.jpg) ![Pidä RESET nappia pohjassa](/images/Priiloader/reset.jpg)
 
 2. Sinun pitäisi nähdä Priiloader-valikko. ![Menu](/images/Priiloader/mainmenu.png)
 3. Mene `System Menu Hacks`.
@@ -51,30 +51,30 @@ Jos käytät USB-asemaa Priiloaderin asentamiseen, varmista, että sinulla ei ol
 
 Tämä on lista muokkauksista, joita voit ottaa käyttöön Priiloaderin avulla.
 
-| Hack                                               | Kuvaus                                                                                                                                                                                    |
-| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Levyn päivitysten estäminen                        | Poistaa "Wii System Update"-näytön, joka sisältyy joihinkin peleihin, jotka pakottavat sinut päivittämään järjestelmän ennen pelin pelaamista.                                            |
-| Online päivitysten estäminen                       | Poistaa Wiisi päivitykset käytöstä. Päivitykset epäonnistuvat virheellä 32007.                                                                                                            |
-| Paina A automaattisesti Health Screen:illä         | Painaa automaattisesti A-painiketta päästäkseen käynnistysvaiheen "Health and Safety"-näytön ohi.                                                                                         |
-| Replace Health Screen with Backmenu                | Vaihtaa "Health and Safety"-näytön Wii Menuun palaamisessa näytettävään animaatioon.                                                                                                      |
-| Hyväksy Levy Kanavan Liikuttaminen                 | Sallii Disc Channelin liikuttelun minne tahansa Wii Menussa. Se on tavallisesti jumissa ensimmäisen sivun ylävasemmalla.                                                                  |
-| Wiimmfi Patch v4                                   | Automaattisesti muokkaa kaikki Disc Channelin kautta käynnistämäsi pelit Wiimmfin käyttöä varten.                                                                                         |
-| 480p grafiikan korjaus järjestelmävalikossa        | Korjaa pienen ongelman 480p-tilassa Wii Menussa.                                                                                                                                          |
-| Remove NoCopy Save File Protection                 | Sallii sinun kopioida tavallisesti ei-kopioitavissa olevia tallennustiedostoja SD-kortillesi Data Managementista                                                                          |
-| Alue Vapaa KAIKKI                                  | Poistaa käytöstä aluelukituksen mille tahansa Wii-sovellukselle, mukaan lukien ladatut.                                                                                                   |
-| Alue Ilmaisia GameCube Pelit (Ei VM Patch)         | Poistaa käytöstä aluelukituksen GameCube-levyille.                                                                                                                                        |
-| Alue Ilmaisia Wii-pelejä                           | Poistaa käytöstä aluelukituksen Wii-levyille.                                                                                                                                             |
-| Alue Vapaat Channelit                              | Poistaa käytöstä aluelukituksen asennetuille kanaville.                                                                                                                                   |
-| Ei YHTÄÄN Järjestelmävalikon Ääniä                 | Poistaa käytöstä kaikki Wii Menu -äänitehosteet.                                                                                                                                          |
-| Ei Järjestelmävalikon Taustamusiikkia              | Poistaa käytöstä Wii Menu -taustamusiikin.                                                                                                                                                |
-| Ota Bannerbomb v2 uudelleen käyttöön               | Mahdollistaa "Bannerbomb"-exploitin käyttämisen viimeisimmässä Wii-versiossa. Ei tarvita, kun Homebrew Channel on jo asennettu.                                                           |
-| OSReport to UsbGecko(slot B)                       | Lähettää Wii Menun lokeja testauslaitteeseen muistikorttipaikassa B.                                                                                                                      |
-| OSReport to UsbGecko(GeckoOS,B)                    | Lähettää Wii Menun lokeja testauslaitteeseen muistikorttipaikassa B, jos Gecko OS käynnistää Wii Menun.                                                                                   |
-| Force Standard Recovery Mode                       | Automaattisesti käynnistää konsolin palautustilassa. Käytetään käynnistämään palautuslevyjä, antaen käyttäjien purkaa Wii-järjestelmiään.                                                 |
-| Poista Vianmäärityslevyn Tarkistus                 | Poistaa Wiin tarkistamasta "Wii Startup Disc":in id:n                                                                                                                                     |
-| Lukitse järjestelmävalikko mustalla näytöllä       | Tekee Wii Menun lataamaan mustaan ruutuun, jolloin et voi käyttää sitä. (Älä ota tätä käyttöön)                                                                                           |
-| No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx            | Re-enable channels with these title IDs (originally blocked in system updates due to them being exploits).                                                                                |
-| Pakota Levyllä Olevat Pelit pysymään IOS249:n alla | Tee levyt käyttämään cIOS 249:ää pelin IOS:nä. While it cannot allow playing of burned games on its own, it is needed to play burned discs. (Can give you Error 002 on a non-burned game) |
+| Hack                                               | Kuvaus                                                                                                                                                                                                          |
+| -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Levyn päivitysten estäminen                        | Poistaa "Wii System Update"-näytön, joka sisältyy joihinkin peleihin, jotka pakottavat sinut päivittämään järjestelmän ennen pelin pelaamista.                                                                  |
+| Online päivitysten estäminen                       | Poistaa Wiisi päivitykset käytöstä. Päivitykset epäonnistuvat virheellä 32007.                                                                                                                                  |
+| Paina A automaattisesti Health Screen:illä         | Painaa automaattisesti A-painiketta päästäkseen käynnistysvaiheen "Health and Safety"-näytön ohi.                                                                                                               |
+| Korvaa Health Screen Backmenu:lla                  | Vaihtaa "Health and Safety"-näytön Wii Menuun palaamisessa näytettävään animaatioon.                                                                                                                            |
+| Hyväksy Levy Kanavan Liikuttaminen                 | Sallii Disc Channelin liikuttelun minne tahansa Wii Menussa. Se on tavallisesti jumissa ensimmäisen sivun ylävasemmalla.                                                                                        |
+| Wiimmfi Patch v4                                   | Automaattisesti muokkaa kaikki Disc Channelin kautta käynnistämäsi pelit Wiimmfin käyttöä varten.                                                                                                               |
+| 480p grafiikan korjaus järjestelmävalikossa        | Korjaa pienen ongelman 480p-tilassa Wii Menussa.                                                                                                                                                                |
+| Remove NoCopy Save File Protection                 | Sallii sinun kopioida tavallisesti ei-kopioitavissa olevia tallennustiedostoja SD-kortillesi Data Managementista                                                                                                |
+| Alue Vapaa KAIKKI                                  | Poistaa käytöstä aluelukituksen mille tahansa Wii-sovellukselle, mukaan lukien ladatut.                                                                                                                         |
+| Alue Ilmaisia GameCube Pelit (Ei VM Patch)         | Poistaa käytöstä aluelukituksen GameCube-levyille.                                                                                                                                                              |
+| Alue Ilmaisia Wii-pelejä                           | Poistaa käytöstä aluelukituksen Wii-levyille.                                                                                                                                                                   |
+| Alue Vapaat Channelit                              | Poistaa käytöstä aluelukituksen asennetuille kanaville.                                                                                                                                                         |
+| Ei YHTÄÄN Järjestelmävalikon Ääniä                 | Poistaa käytöstä kaikki Wii Menu -äänitehosteet.                                                                                                                                                                |
+| Ei Järjestelmävalikon Taustamusiikkia              | Poistaa käytöstä Wii Menu -taustamusiikin.                                                                                                                                                                      |
+| Ota Bannerbomb v2 uudelleen käyttöön               | Mahdollistaa "Bannerbomb"-exploitin käyttämisen viimeisimmässä Wii-versiossa. Ei tarvita, kun Homebrew Channel on jo asennettu.                                                                                 |
+| OSReport to UsbGecko(slot B)                       | Lähettää Wii Menun lokeja testauslaitteeseen muistikorttipaikassa B.                                                                                                                                            |
+| OSReport to UsbGecko(GeckoOS,B)                    | Lähettää Wii Menun lokeja testauslaitteeseen muistikorttipaikassa B, jos Gecko OS käynnistää Wii Menun.                                                                                                         |
+| Pakota Normaali Palautustila                       | Automaattisesti käynnistää konsolin palautustilassa. Käytetään käynnistämään palautuslevyjä, antaen käyttäjien purkaa Wii-järjestelmiään.                                                                       |
+| Poista Vianmäärityslevyn Tarkistus                 | Poistaa Wiin tarkistamasta "Wii Startup Disc":in id:n                                                                                                                                                           |
+| Lukitse järjestelmävalikko mustalla näytöllä       | Tekee Wii Menun lataamaan mustaan ruutuun, jolloin et voi käyttää sitä. (Älä ota tätä käyttöön)                                                                                                                 |
+| No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx            | Hyväksy kanavat näillä ID:illä (blockattu system päivityksissä).                                                                                                                                                |
+| Pakota Levyllä Olevat Pelit pysymään IOS249:n alla | Tee levyt käyttämään cIOS 249:ää pelin IOS:nä. Vaikka se ei voi sallia käynnistää burnattuja pelejä yksin, se tarvitaan jotta voit käynnistää burnattuja levyjä. (Voi antaa virheen 002 ei-burnatuissa pelissä) |
 
 
 Jatka cIOS:n asennukseen<br> cIOS:ia käytetään pelien pelaamiseen USB-lataajan kautta. Se on myös hyödyllinen monille muille homebrew-sovelluksille.
