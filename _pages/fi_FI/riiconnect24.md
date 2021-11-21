@@ -44,10 +44,10 @@ Jos et voi käynnistää RiiConnect24 Patcheria liity [RiiConnect24:n Discord-pa
 6. Tätä opasta varten, valitse "`Install RiiConnect24 on your Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
 7. Valitse "`Express (Recommended)`". Se antaa sinulle kaiken, mitä tarvitset. ![Pika-Asetukset](/images/RC24_Patcher/4.JPG)
 8. Valitse alueesi. ![Valitse alueesi](/images/RC24_Patcher/5.JPG)
-9. Kun olet siellä, RiiConnect24 Patcher voi lisäksi ladata joitakin muita valinnaisia kanavia, jotka eivät käytä RiiConnect24:ia. `[X]` represents the options that selected. Just press 5 and `ENTER` if you're not interested. ![Vapaaehtoiset lisäkanavat](/images/RC24_Patcher/6.JPG)
-10. Connect your SD Card or USB Drive to your computer and select "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
-11. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Drive and try again. ![Successfully detected](/images/RC24_Patcher/8.JPG)
-12. Be patient... ![It's patching!](/images/RC24_Patcher/9.JPG)
+9. Kun olet siellä, RiiConnect24 Patcher voi lisäksi ladata joitakin muita valinnaisia kanavia, jotka eivät käytä RiiConnect24:ia. `[X]` kuvaa valittuja valintoja. Paina vain 5 ja `ENTER` jos et ole kiinnostunut. ![Vapaaehtoiset lisäkanavat](/images/RC24_Patcher/6.JPG)
+10. Liitä SD-kortti tai USB-asema tietokoneeseesi ja valitse "`1`". ![Ota kopiointi SD-kortille käyttöön](/images/RC24_Patcher/7.JPG)
+11. Jos laitteesi tunnistettiin onnistuneesti, valitse "`1`". Jos näin ei ole, varmista, että SD-kortilla tai USB-asemalla on kansio nimeltä `apps` ja yritä uudelleen. ![Onnistuneesti havaittu](/images/RC24_Patcher/8.JPG)
+12. Ole kärsivällinen... ![Se patchaa!](/images/RC24_Patcher/9.JPG)
 13. After it's done, we would appreciate if you take a minute to send anonymous feedback to us.  If you don't want to, close the patcher. All the files should already be on your SD Card. ![It's done!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
 14. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
 
