@@ -38,20 +38,20 @@ Jos sinulla on valmiiksi Dolphin asennettuna, hyppää osaan II
 
 ![Suorita kerran](/images/Dolphin_RC24/4.jpg)
 
-Jos päätät suorittaa sen manuaalisesti, pidä `VFF-Downloader-for-Dolphin.bat`. There will be an option in menu to manually run it.
+Jos päätät suorittaa sen manuaalisesti, pidä `VFF-Downloader-for-Dolphin.bat`. Valikossa on vaihtoehto, jonka avulla se voidaan suorittaa manuaalisesti.
 {: .notice--info}
 
-If you choose to run it on startup, you don't have to do anything. If you want to uninstall it in the future, come back to `VFF-Downloader-for-Dolphin.bat` or `VFF-Downloader-for-Dolphin.sh` and choose - Manage startup VFF Downloader.
+Jos päätät sen käynnistyvän käynnistyksessä, sinun ei tarvitse tehdä mitään. Jos haluat poistaa sen tulevaisuudessa, tule takaisin `VFF-Downloader-for-Dolphin.bat` tai `VFF-Downloader-for-Dolphin.sh` tiedostoihin ja valitse - Manage startup VFF Downloader.
 {: .notice--info}
 
 ##### Osa III - Asennuksen viimeistely
 
-1. On Windows run the `RiiConnect24Patcher.bat` or run the `RiiConnect24Patcher.sh` if you are on a Unix system that you downloaded [here](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
-2. Start the patcher, select `Install RiiConnect24`. ![Select Custom](/images/Dolphin_RC24/5.jpg)
-3. Valitse `Custom`. ![Select Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
-4. Press `1` to select your region and only enable 5th option. Press `6` to start patching.
-5. After it's done, there will a be a `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` file in WAD folder next to RiiConnect24Patcher.bat
-6. In Dolphin, press `Tools` and then `Install WAD`, and select the `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
+1. Windowsilla suorita`RiiConnect24Patcher.bat` tai suorita `RiiConnect24Patcher.sh` jos olet Unix pohjaisessa järjestelmässä, jonka latasit [täältä](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+2. Käynnistä patcher, valitse `Install RiiConnect24`. ![Valitse Custom](/images/Dolphin_RC24/5.jpg)
+3. Valitse `Custom`. ![Valitse Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
+4. Paina `1` valitaksesi alueesi ja ota käyttöön vain 5. vaihtoehto. Paina `6` aloittaaksesi patchaamisen.
+5. Kun se on valmis, siellä pitäisi olla`Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` tai `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` tiedosto WAD kansiossa RiiConnect24Patcher.batin vieressä
+6. Dolphinissä, paina `Tools` ja sitten `Install WAD`, ja valitse `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` tai `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
 
-You're all done! Valitettavasti Nintendo Channel ja Wii Mail eivät vielä toimi Dolphinilla.
+Olet valmis! Valitettavasti Nintendo Channel ja Wii Mail eivät vielä toimi Dolphinilla.
 {: .notice--info}
