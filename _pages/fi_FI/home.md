@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Wii U Opas"
+title: "Wii Opas"
 header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
@@ -34,12 +34,12 @@ Tässä on lista asioista, joita voit tehdä käyttämällä homebrew:ta. Vaikka
 - Muuta Wii:si mediasoittimeksi [WiiMC](http://www.wiimc.org/):n avulla.
 
 
-## Ready?
+## Oletko valmis?
 
 Aloita [valitsemalla exploit:isi](get-started)!
 {: .notice--info}
 
-## More Resources
+## Lisää Resursseja
 
 Wii:n modaamiseen ja ongelmanratkaisuun on myös olemassa muutamia muita hyviä resursseja, jotka voivat auttaa:
 
