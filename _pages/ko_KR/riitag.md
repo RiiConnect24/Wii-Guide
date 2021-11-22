@@ -53,7 +53,7 @@ RiiTag 키는 누구와도 공유하지 마세요! 만약 공유한다면, 사�
 1. WiIFlow의 데이터가 있는 SD 카드나 USB 드라이브를 컴퓨터에 삽입하세요.
 2. 텍스트 편집기로 `/apps/wiiflow/wiiflow.ini`를 실행하세요. (WiiFlow 라이트를 사용한다면, 위치는 `wiiflow_lite`로 `wiiflow`가 아닐 수 있습니다.)
 3. 검색을 통해 `gamercards`를 찾고 `gamercards=winnertag`로 대체하세요.
-4. 검색을 통해 `wiinnertag_url`을 찾고 `wiinnertag_url=http://tag.rc24.xyz/wii?game={ID6}&key={KEY}`로 대체하세요.
+4. Search for `wiinnertag_url` and replace that line with `wiinnertag_url=https://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
 5. 검색을 통해 `wiinnertag_key`를 찾고 `wiinnertag_key=<key>`로 대체합니다. `<key>`는 섹션 1에서 메모한 키로 바꿉니다.
 6. 검색을 통해 `gamercards_enable`를 찾고 `gamercards_enable=yes`로 대체하세요.
 7. 수정된 `wiiflow.ini` 파일을 저장하세요.
