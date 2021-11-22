@@ -24,12 +24,12 @@ Koska tietyt ominaisuudet alkuperäisessä Wii:ssä eivät ole vWii:llä, voimme
 
 #### Mitä tarvitset
 
-* A PC or mobile device with internet access and the ability to interact with SD cards.
-* An SD card formatted as FAT32 (at least 2GB) with enough available space. SDHC or SDXC cards formatted as FAT32 can be known to work.
-* A Wii U console capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
+* Tietokone tai mobiililaite, jossa on internetyhteys ja tapa vuorovaikuttaa SD Korttejen kanssa.
+* SD-kortti joka on formatoitu FAT32 (vähintään 2GB) formaattiin, jossa on riittävästi vapaata tilaa. SDHC tai SDXC kortit formatoitu FAT32 formaattiin pitäisi toimia.
+* Wii U konsoli, joka pystyy käynnistämään Homebrew Launcherin (joko web selain exploit, Haxchi tai Coldboot Haxchi). **Jos sinulla ei ole softmodattua Wii U konsolia, seuraa [wiiuguide.xyz](https://wiiuguide.xyz), sekä [the virtual Wii modding](https://wiiuguide.xyz/#/vwii-modding) ohjeita ja sitten palata takaisin.**
 * [RiiConnect24 Patcheri](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-After following the above linked guide, you should have:
+Kun olet seurannut yllä mainitut ohjeet, sinulla pitäisi olla:
 * A vWii NAND-varmuuskopio ja avaimet (säilytä näitä turvallisesti!!)
 * Homebrew Channel asennettuna
 * d2x cIOS asennettuna (IOS249, IOS250 ja IOS251)
@@ -38,12 +38,12 @@ After following the above linked guide, you should have:
 
 #### Ohjeet
 
-If you use cannot use the patcher, please [follow the manual guide](https://pad.snopyta.org/s/rJ2N0B1XU), to install RiiConnect24. The end result is the same regardless of the method followed.
+Jos et voi käyttää patcheria, [noudata tätä opasta](https://pad.snopyta.org/s/rJ2N0B1XU), asentaaksesi RiiConnect24:in. Lopputulos on sama riippumatta siitä, mitä menetelmää käytät.
 {: .notice--info}
 
 ##### Osa I - Muokkaimen ajaminen
 
-Using the RiiConnect24 Patcher you should've downloaded earlier in [What you need](#what-you-need), you will be downloading and patching IOS31, News, Everybody Votes, Nintendo and Check Mii Out Channels for use on your vWii.
+Käyttämällä RiiConnect24 Patcher sinun pitäisi olla aiemmin ladannut [Mitä tarvitset](#what-you-need), tulet lataamaan ja patchaamaan IOS31:sen, News, Everybody Votes, Nintendo ja Check Mii Out Channelit käytettäväksi vWiissä.
 
 1. Run `RiiConnect24Patcher.bat` on Windows or `RiiConnect24Patcher.sh` on Unix systems by typing bash then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this `bash RiiConnect24Patcher.sh`. Follow the on screen instructions
 
