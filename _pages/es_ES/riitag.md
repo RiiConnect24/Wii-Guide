@@ -53,7 +53,7 @@ Los pasos para conectar el RiiTag a su Cargador USB dependen del Cargador USB qu
 1. Inserta en tu computadora la tarjeta SD o unidad USB donde tengas guardada la configuración de WiiFlow.
 2. Abre el archivo `wiiflow.ini` ubicado en `/apps/wiiflow/` con un editor de texto. (Si usas WiiFlow Lite, la carpeta se llamará `wiiflow_lite` en lugar de `wiiflow`.)
 3. Busca `gamercards` y reemplaza esa línea con `gamercards=wiinnertag`.
-4. Busca `wiinnertag_url` y reemplaza esa línea con `wiinnertag_url=http://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
+4. Search for `wiinnertag_url` and replace that line with `wiinnertag_url=https://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
 5. Busca `wiinnertag_key` y reemplaza esa línea con `wiinnertag_key=<key>`, reemplazando `<key>` con la clave que apuntaste en la sección I.
 6. Busca `gamercards_enable` y reemplaza esa línea con `gamercards_enable=yes`.
 7. Guarda el archivo `wiiflow.ini` modificado.
