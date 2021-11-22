@@ -53,7 +53,7 @@ I passaggi per connettere RiiTag sul tuo USB Loader dipende da che USB Loader us
 1. Porta la Scheda SD o dispositivo USB dove si trovano i dati per WiiFlow sul tuo computer.
 2. Apri `/apps/wiiflow/wiiflow.ini` con un text editor. (Se stai usando WiiFlow Lite, potresti avere `wiiflow_lite` invece di `wiiflow`.)
 3. Cerca per `gamecards` e sostituisci la linea con `gamercards=wiinnertag`.
-4. Cerca `wiinnertag_url` e sostituiscilo con `wiinnertag_url=http://tag.rc24.xyz/wii?game={ID6}&;key={KEY}`.
+4. Search for `wiinnertag_url` and replace that line with `wiinnertag_url=https://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
 5. Cerca `wiinnertag_key` e sostituisci la linea con `wiinnertag_key=<key>`, sostituendo `<key>` con la chiave che hai scritto nella Sezione 1.
 6. Cerca `gamercards_enable` e sostituisci la linea con `gamercards_enable=yes`.
 7. Salva il file modificato di `wiiflow.ini`.
