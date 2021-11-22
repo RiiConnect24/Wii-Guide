@@ -53,7 +53,7 @@ Poniższe kroki dotyczące konfiguracji RiiTag'u będą zależeć od USB Loader'
 1. Podłącz do Twojego komputera urządzenie (kartę SD lub USB) na którym znajduje się Wii Flow.
 2. Otwórz plik `/apps/wiiflow/wiiflow.ini` w edytorze tekstu. (Jeżeli korzystasz z WiiFlow Lite, ścieżką może być `wiiflow_lite` zamiast `wiiflow`.)
 3. Poszukaj `gamercards` oraz zamień tą linijkę na `gamercards=wiinnertag`.
-4. Poszukaj `wiinnertag_url` i zamień tą linijkę na `wiinnertag_url=http://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
+4. Search for `wiinnertag_url` and replace that line with `wiinnertag_url=https://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
 5. Poszukaj `wiinnertag_key` i zamień tą linijkę na `wiinnertag_key=<key>`, zamieniając `<key>` na klucz, który zapisałeś w pierwszej sekcji.
 6. Poszukaj `gamercards_enable` oraz zamień tą linijkę na `gamercards_enable=yes`.
 7. Zapisz zmodyfikowany plik `wiiflow.ini`.
