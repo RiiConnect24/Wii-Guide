@@ -53,7 +53,7 @@ RiiTag'i USB Loader'a bağlama adımları, kullandığınız USB Loader'a göre 
 1. WiiFlow verilerinizin bulunduğu SD Kart ya da USB sürücüyü bilgisayara takın.
 2. `/apps/wiiflow/wiiflow.ini` dosyasını metin editörü ile birlikte açın. (Eğer WiiFlow Lite kullanıyorsanız, konum `wiiflow` yerine `wiiflow_lite` olacaktır)
 3. `gamercards` kısmını arayın ve bu kısmı `gamercards=wiinnertag` olacak şekilde değiştirin.
-4. `wiinnertag_url` kısmını arayın ve bu kısmı `wiinnertag_url=http://tag.rc24.xyz/wii?game={ID6}&key={KEY}` olacak şekilde değiştirin.
+4. Search for `wiinnertag_url` and replace that line with `wiinnertag_url=https://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
 5. `wiinnertag_key` kısmını arayın ve bu kısmı `wiinnertag_key=<key>` ile `<key>` kısmını Bölüm I'de not aldığınız anahtar ile değiştirin.
 6. `gamercards_enable` kısmını arayın ve bu kısmı `gamercards_enable=yes.` olacak şekilde değiştirin.
 7. Düzenlenen `wiiflow.ini` dosyasını kaydedin.
