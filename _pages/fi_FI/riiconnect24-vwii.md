@@ -45,9 +45,9 @@ Jos et voi käyttää patcheria, [noudata tätä opasta](https://pad.snopyta.org
 
 Käyttämällä RiiConnect24 Patcher sinun pitäisi olla aiemmin ladannut [Mitä tarvitset](#what-you-need), tulet lataamaan ja patchaamaan IOS31:sen, News, Everybody Votes, Nintendo ja Check Mii Out Channelit käytettäväksi vWiissä.
 
-1. Run `RiiConnect24Patcher.bat` on Windows or `RiiConnect24Patcher.sh` on Unix systems by typing bash then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this `bash RiiConnect24Patcher.sh`. Follow the on screen instructions
+1. Suorita `RiiConnect24Patcher.bat` jos olet Windowsissa tai `RiiConnect24Patcher.sh` Unix pohjaisissa järjestelmissä kirjoittamalla bash ja dragaa `RiiConnect24Patcher.sh` terminaaliin ja paina sitten enter. Sen pitäisi näyttää tältä `bash RiiConnect24Patcher.sh`. Seuraa näytöllä olevia ohjeita
 
-2. Confirm that after running through the patcher, you have 3 folders. They will be in the same folder where `RiiConnect24Patcher.bat/sh` is and on your SD Card (of course, only if you selected an option in the patcher to do so).
+2. Varmista, että kun olet suorittanut patcherin, sinulla on 3 kansiota. They will be in the same folder where `RiiConnect24Patcher.bat/sh` is and on your SD Card (of course, only if you selected an option in the patcher to do so).
    - If the patcher did not move the file to the SD Card, move these 3 folders to the root of your SD card.
 
 ##### Osa II - Vastamuokattujen WAD:ien asentaminen
