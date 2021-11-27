@@ -28,7 +28,7 @@ Striim Network is a service dedicated to bringing back the channels that support
 5. Put your SD card or USB drive in your Wii.
 6. Käynnistä Homebrew Channel Wii:lläsi.
 7. Launch Wii Mod Lite.
-8. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+8. Käyttämällä +Control Pad:ia Wii Remotella, navigoi kohtaan `WAD Manager`, ja siirry sitten `wad` -kansioon.
 9. Highlight the WAD named `Kirby-TV-Channel-Patched(Striim).wad`, then press the `A` button to install.
 10. When the WAD successfully installs, return to the Wii Menu and launch the channel.
 
