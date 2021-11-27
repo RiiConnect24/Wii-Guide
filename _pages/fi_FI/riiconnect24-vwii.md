@@ -47,16 +47,16 @@ Käyttämällä RiiConnect24 Patcher sinun pitäisi olla aiemmin ladannut [Mitä
 
 1. Suorita `RiiConnect24Patcher.bat` jos olet Windowsissa tai `RiiConnect24Patcher.sh` Unix pohjaisissa järjestelmissä kirjoittamalla bash ja dragaa `RiiConnect24Patcher.sh` terminaaliin ja paina sitten enter. Sen pitäisi näyttää tältä `bash RiiConnect24Patcher.sh`. Seuraa näytöllä olevia ohjeita
 
-2. Varmista, että kun olet suorittanut patcherin, sinulla on 3 kansiota. They will be in the same folder where `RiiConnect24Patcher.bat/sh` is and on your SD Card (of course, only if you selected an option in the patcher to do so).
-   - If the patcher did not move the file to the SD Card, move these 3 folders to the root of your SD card.
+2. Varmista, että kun olet suorittanut patcherin, sinulla on 3 kansiota. Ne ovat samassa kansiossa, jossa `RiiConnect24Patcher.bat/sh` on, ja SD-kortilla (tietenkin, vain jos olet valinnut valinnan patcherista kopioimaan automaattisesti SD-kortille).
+   - Jos patcher ei siirtänyt tiedostoa SD-kortille, siirrä nämä kolme kansiota SD-kortille.
 
 ##### Osa II - Vastamuokattujen WAD:ien asentaminen
 
 1. Avaa Homebrew Channel
 2. Käynnistä Wii Mod Lite
-3. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
-4. Highlight all WADs with `RiiConnect24` in the name, and press + to select them. When all of them are selected, press A twice to install the WADs.
-5. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+3. Käyttämällä +Control Pad:ia Wii Remotella, navigoi kohtaan `WAD Manager`, ja siirry sitten `wad` -kansioon.
+4. Korosta kaikki WAD:it jossa on `RiiConnect24` nimessä ja paina + valitaksesi ne. Kun kaikki ne on valittu, paina A kahdesti asentaaksesi WAD:it.
+5. Kun ne on asennettu onnistuneesti, paina HOME-painiketta poistuaksesi Homebrew Channeliin.
 
 ##### Osa III - 43db:n muokkaaminen 16:9 varten (vapaaehtoinen)
 
