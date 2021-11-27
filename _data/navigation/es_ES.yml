@@ -4,14 +4,14 @@ main:
     title: Guía de Wii
     url: /
   - 
-    title: Comenzar aquí
-    url: comenzar
+    title: Comenzar
+    url: get-started
   - 
-    title: Navegación de la pagina
-    url: navegacion-de-la-pagina
+    title: Todas las guías
+    url: site-navigation
   - 
     title: Preguntas frecuentes
-    url: preguntas-frecuentes
+    url: faq
   - 
     title: RiiConnect24
     url: riiconnect24
@@ -20,36 +20,36 @@ main:
     url: wiimmfi
 top:
   - 
-    title: This website uses cookies to display the current guide progress on the sidebar and otherwise enhance the site.
+    title: Este sitio web utiliza cookies para mostrar el progreso actual de la guía en la barra lateral y mejorar tu experiencia.
 bottom:
   - 
-    title: Si necesitas ayuda con alguna cosa relacionada con esta guía, puedes unirte a nuestro <a href="https://discord.gg/b4Y7jfD">servidor de Discord</a> (recomendado) o <a href="mailto:support@riiconnect24.net">enviarnos un correo electrónico</a> (soporte disponible sólo en Inglés).
+    title: Puedes solicitar ayuda adicional en el <a href="https://discord.gg/b4Y7jfD">Discord de RiiConnect24</a> (solo disponible en inglés).
 footer:
   - 
     title: Código fuente
     url: https://github.com/RiiConnect24/Wii-Guide/
   - 
-    title: Navegación de la pagina
-    url: navegacion-de-la-pagina
+    title: Todas las guías
+    url: site-navigation
   - 
     title: Donaciones
-    url: donaciones
+    url: donations
 sidebar_title:
   - 
-    title: Progreso general
+    title: Progreso total
 sidebar_pages:
   - 
     title: Guía de Wii
     url: /
   - 
     title: Preguntas frecuentes
-    url: preguntas-frecuentes
+    url: faq
   - 
     title: Donaciones
-    url: donaciones
+    url: donations
   - 
     title: Créditos
-    url: creditos
+    url: credits
   - 
     title: RiiConnect24
     url: riiconnect24
