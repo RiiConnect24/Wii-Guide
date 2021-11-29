@@ -30,14 +30,14 @@ Si has instalado BootMii como boot2, apaga y vuelve a encender la consola para i
     {: .notice--info}
 
 
-    Si después de seguir los pasos anteriores la pantalla se queda en negro y la luz de la ranura para discos comienza a parpadear, significa que faltan los archivos de BootMii que van en la tarjeta SD o están dañados. Para solucionarlo, extrae [este ZIP](https://static.hackmii.com/bootmii_sd_files.zip) a la raíz de la tarjeta SD.
+    Si después de seguir los pasos anteriores la pantalla se queda en negro y la luz de la ranura para discos comienza a parpadear, significa que faltan los archivos de BootMii que van en la tarjeta SD o están dañados. Para solucionarlo, extrae [este ZIP](https://static.hackmii.com/bootmii_sd_files.zip) a la raíz de la tarjeta SD, reemplazando cualquier archivo ya existente.
     {: .notice--warning}
 
 3. Selecciona el botón de que tiene dos engranajes.
 4. Elige el botón que tiene una flecha verde.
 - Se empezará a crear un respaldo de la NAND. Puedes ver el progreso en pantalla.
 - Los bloques defectuosos son normales, así que no te preocupes si ves alguno mientras se genera el respaldo de la NAND.
-- Después de este paso, se verificara el backup. Aunque es recomendable, se puede saltar pulsando el botón de EJECT en tu Wii.
+- Una vez que haya sido creado, el respaldo será verificado en busca de errores. Aunque se recomienda realizarlo, este paso es opcional y puedes saltarlo pulsando el botón EJECT en la consola.
 5. Cuando el respaldo se haya completado, sal del menú de BackupMii oprimiendo cualquier botón.
 6. Para salir de BootMii, oprime el botón con la flecha. Luego puedes oprimir el botón del menú de Wii o del Canal Homebrew para salir a donde quieras.
 
