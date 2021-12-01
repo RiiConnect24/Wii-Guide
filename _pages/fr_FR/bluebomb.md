@@ -51,7 +51,7 @@ chmod +x bluebomb-helper.sh
 Assurez-vous que la console est proche de l'ordinateur qui exécute l'exploit, idéalement à moins d'un mètre.
 {: .notice--info}
 
-La console devrait maintenant démarrer sur l'installateur HackMii. Vous pouvez à présent éteindre votre ordinateur Linux si vous ne comptez pas l'utiliser plus tard.
+La console devrait désormais démarrer sur l'installateur HackMii. Vous pouvez à présent éteindre votre ordinateur Linux si vous ne comptez pas l'utiliser plus tard.
 
 [Si vous utilisez une Wii, passez à l'installation de Homebrew Channel et de BootMii](hbc)
 {: .notice--info}
