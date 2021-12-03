@@ -15,7 +15,7 @@ Vous avez besoin d'une **carte SD** pour créer une sauvegarde NAND en utilisant
 BootMii en tant que boot2 est recommandé, mais seulement disponible pour l'installation sur les premières Wiis. Sinon, il peut être installé comme un IOS.
 {: .notice--info}
 
-L'une des fonctionnalités les plus importantes de BootMii est la possibilité de sauvegarder et de restaurer le stockage NAND de votre Wii. Nous verrons comment effectuer une sauvegarde NAND. Vous pouvez ensuite restaurer à partir de cette backup pour n'importe quelle reason. C'est une bonne idée de faire une backup NAND régulièrement ou avant de faire quelque chose de risqué sur votre console (et si vous savez ce que vous faites, vous n'aurez rien à faire de risqué).
+L'une des fonctions les plus importantes de BootMii est la possibilité de sauvegarder et de restaurer le stockage NAND de votre Wii. Nous allons voir comment effectuer une sauvegarde NAND. Vous pouvez ensuite restaurer à partir de cette sauvegarde pour n'importe quelle raison. C'est une bonne idée de faire une sauvegarde NAND régulièrement ou avant de faire quelque chose de risqué sur votre console (et si vous savez ce que vous faites, vous n'aurez pas à faire quelque chose de risqué).
 
 #### Ce dont vous avez besoin
 * Une carte SD avec au moins 512 Mo d'espace libre
@@ -41,8 +41,8 @@ Si vous avez installé BootMii en tant que boot2, vous devrez lancer BootMii en 
 5. Lorsque la sauvegarde est complètement finie, quittez le menu de sauvegarde en appuyant sur n'importe quel bouton.
 6. Pour quitter BootMii, appuyez sur le bouton Retour (celui avec la flèche) puis vous pouvez appuyer sur bouton Wii Menu ou celui de la Chaîne Homebrew pour retourner au menu de votre choix.
 
-Pour restorer d'une NAND backup de votre card SD, vous pouvez suivre les instructions en utilisant "RestoreMii" (le bouton à-côtés de "BackupMii" avec la flèche rouge). C'est utile dans un rare cas quand vous bricker votre Wii.
+Pour restaurer à partir d'une sauvegarde NAND sur votre carte SD, vous pouvez suivre ces instructions en utilisant RestoreMii (le bouton juste à côté de BackupMii avec une flèche rouge). C'est utile dans le cas improbable où vous brickez votre Wii.
 {: .notice--info}
 
-[Continué vers L'installation de Priiloader ](priiloader) Priiloader ajoute un niveau de protection de brick, et on le recommande, surtout si votre wii n'a pus installé que BootMii IOS.
+[Continuer vers l'installation de Priiloader](priiloader) Priiloader ajoute un niveau de protection contre les bricks et nous le recommandons, surtout si vous n'avez pu installer que BootMii IOS.
 {: .notice--info}
