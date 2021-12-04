@@ -18,7 +18,7 @@ If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to in
 
 * Een Wii met een internet connectie
 * Een SD-kaart of USB-stick/ harde schijf
-* [d2x cIOS Installatie](/assets/files/d2x-cIOS-Installer-Wii.zip)
+* [d2x cIOS Installatie](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
 Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
 {: .notice--warning}
@@ -27,7 +27,7 @@ Ensure that if you are using an SD card, the lock switch is in the unlocked posi
 
 ##### Deel I - Downloaden
 
-1. Download d2x cIOS Installer and extract it to the `apps` folder on your SD card or USB drive.
+1. Download d2x cIOS Installer and extract it to your SD card or USB drive.
 1. Stop de SD-kaart of USB stick in uw Wii en open d2x cIOS Installer vanuit het Homebrew Kanaal.
 
 ##### Deel II - Installeren
