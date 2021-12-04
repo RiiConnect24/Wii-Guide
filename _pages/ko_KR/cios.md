@@ -18,7 +18,7 @@ Wii mini가 있다면, [이 cIOS](cios-mini)를 대신 설치하세요. Wii 미�
 
 * 인터넷 연결이 있는 Wii
 * SD 카드 및 USB 드라이브
-* [d2x cIOS 설치 마법사](/assets/files/d2x-cIOS-Installer-Wii.zip)
+* [d2x cIOS 설치 마법사](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
 SD 카드 사용을 확인하고, 잠금 스위치가 잠금 해제 되어 있음을 확인하세요. 만약 아니라면 설치 마법사에서 올바른 선택지를 선택할 수 없습니다.
 {: .notice--warning}
@@ -27,7 +27,7 @@ SD 카드 사용을 확인하고, 잠금 스위치가 잠금 해제 되어 있�
 
 ##### 섹션 I - 다운로드 하기
 
-1. D2x cIOS 설치 마법사를 다운로드하고 SD 카드 및 USB 드라이브의 `apps` 폴더에 붙여넣으세요.
+1. Download d2x cIOS Installer and extract it to your SD card or USB drive.
 1. SD 카드 및 USB 드라이브를 Wii에 삽입하고, d2x cIOS 설치 마법사를 홈브루 채널에서 실행하세요.
 
 ##### 섹션 II - 설치하기
