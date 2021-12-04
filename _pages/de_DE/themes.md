@@ -32,7 +32,7 @@ We recommend you [install cIOS](cios) before continuing.
 * Eine Wii
 * Eine SD-Karte oder ein USB-Laufwerk
 * Ein Computer mit Windows (oder nutze Mono oder Wine auf macOS/Linux)
-* [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
+* [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
 
 #### Design-Links
@@ -70,7 +70,7 @@ LIES DIR AUF JEDEN FALL DIE WARNHINWEISE OBEN DURCH, BEVOR DU FORTFÄHRST!
 
 ##### Abschnitt 3 - Das Design installieren
 
-1. Entpacke MyMenuify Mod und verschiebe es in den `apps`-Ordner auf deiner SD-Karte bzw. deinem USB-Laufwerk.
+1. Extract MyMenuifyMod.zip to your SD card or USB drive.
 2. Verschiebe die `.csm`-Datei, die du gespeichert hast, in einen Ordner namens `modthemes` auf deiner SD-Karte bzw. deinem USB-Laufwerk.
 3. Verbinde deine SD-Karte oder dein USB-Laufwerk mit deiner Wii.
 4. Starte MyMenuify Mod über den Homebrew-Kanal.
