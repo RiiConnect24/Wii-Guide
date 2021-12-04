@@ -11,12 +11,12 @@ Tämä opas selittää sinulle, kuinka luoda WAD-asennuspaketteja Wiisi järjest
 
 #### Vaatimukset
 * SD-kortti tai USB-asema
-* [Yet Another BlueDump MOD](/assets/files/YABDM.zip)
+* [Yet Another BlueDump MOD](https://hbb1.oscwii.org/hbb/Yet-Another-BlueDump-Mod/Yet-Another-BlueDump-Mod.zip)
 
 #### Ohjeet
 ##### Osa I - Lataaminen/Asentaminen
 
-1. Pura Yet Another BlueDump MOD ja laita se `apps` kansioon SD-kortillesi tai USB-asemallesi.
+1. Extract Yet Another BlueDump MOD to your SD card or USB drive.
 2. Laita SD-korttisi tai USB-asemasi Wii-konsoliisi ja käynnistä Yet Another BlueDump MOD Homebrew Channelista.
 
 ##### Osa II - Kopion luominen
