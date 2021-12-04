@@ -11,12 +11,12 @@ Este tutorial explica como fazer backup de WADs instaladas na memória do sistem
 
 #### Requisitos
 * Um cartão SD ou pendrive
-* [Yet Another BlueDump MOD](/assets/files/YABDM.zip)
+* [Yet Another BlueDump MOD](https://hbb1.oscwii.org/hbb/Yet-Another-BlueDump-Mod/Yet-Another-BlueDump-Mod.zip)
 
 #### Instruções
 ##### Parte I - Baixar/Instalar
 
-1. Extraia o Yet Another BlueDump MOD e coloque dentro da pasta `apps`do seu Cartão SD ou USB.
+1. Extract Yet Another BlueDump MOD to your SD card or USB drive.
 2. Insira seu Cartão SD ou USB no Wii e inicie o Yet Another BlueDump MOD pelo Homebrew Channel.
 
 ##### Parte II - Fazer o Backup
