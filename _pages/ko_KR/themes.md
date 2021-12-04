@@ -32,7 +32,7 @@ We recommend you [install cIOS](cios) before continuing.
 * Wii
 * SD 카드 및 USB 드라이브
 * Windows가 설치된 컴퓨터 (맥이나 리눅스에서 Mono나 Wine 사용도 가능)
-* [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
+* [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
 
 #### 테마 링크
@@ -70,7 +70,7 @@ To find themes to install, here are 3 resources:
 
 ##### 섹션 III - 테마 설치하기
 
-1. MyMenuify 모드를 압축 해제하고 SD 카드 및 USB 드라이브의 `apps` 폴더에 붙여넣으세요.
+1. Extract MyMenuifyMod.zip to your SD card or USB drive.
 2. 저장된 .csm 파일을 SD 카드 및 USB 드라이브의 `modthemes` 폴더에 붙여넣으세요.
 3. Wii에 SD 카드나 USB 드라이브를 삽입하십시오.
 4. 홈브루 채널에서 MyMenuify Mod를 실행하세요.
