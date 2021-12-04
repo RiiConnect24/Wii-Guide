@@ -32,7 +32,7 @@ We recommend you [install cIOS](cios) before continuing.
 * Wii
 * SD-kortti tai USB-asema
 * Tietokone Windowsilla (tai Mono tai Wine Mac/Linux-tietokoneella)
-* [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
+* [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
 
 #### Teemalinkkejä
@@ -70,7 +70,7 @@ VARMISTA, ETTÄ LUET YLLÄ OLEVAT VAROITUKSET ENNEN JATKAMISTA!
 
 ##### Osa III - Teeman asentaminen
 
-1. Extract MyMenuify Mod and put it in the `apps` folder on your SD card or USB drive.
+1. Extract MyMenuifyMod.zip to your SD card or USB drive.
 2. Put the .csm file you saved in a folder called `modthemes` on your SD card or USB drive.
 3. Laita SD-korttisi tai USB-asemasi Wii-konsoliisi.
 4. Käynnistä MyMenuify Mod Homebrew Channelista.
