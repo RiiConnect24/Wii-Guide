@@ -18,7 +18,7 @@ title: "cIOS"
 
 * Wii с подключением к интернету
 * SD-карта или USB-накопитель
-* [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
+* [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
 Убедитесь, что если вы используете SD-карту, переключатель находится в разблокированной позиции иначе вы не сможете выбрать правильные параметры в установщике
 {: .notice--warning}
@@ -27,7 +27,7 @@ title: "cIOS"
 
 ##### Часть I - Загрузка
 
-1. Загрузите d2x cIOS Installer и извлеките его в папку `apps` на вашей SD-карте или USB-накопителе.
+1. Download d2x cIOS Installer and extract it to your SD card or USB drive.
 1. Вставьте SD-карту или USB-накопитель в свою Wii и запустите d2x cIOS Installer из Homebrew Channel.
 
 ##### Часть II - Установка
