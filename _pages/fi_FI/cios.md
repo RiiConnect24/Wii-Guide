@@ -18,7 +18,7 @@ Jos sinulla on Wii mini, asenna [tämä cIOS](cios-mini). Jos yrität asentaa mu
 
 * Wii internetyhteydellä
 * SD-kortti tai USB-asema
-* [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
+* [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
 Jos käytät SD-korttia, varmista, että lukituskytkin on auki-asennossa, tai muuten et pysty valitsemaan oikeita asetuksia asennusohjelmassa
 {: .notice--warning}
@@ -27,7 +27,7 @@ Jos käytät SD-korttia, varmista, että lukituskytkin on auki-asennossa, tai mu
 
 ##### Osa I - Lataaminen
 
-1. Lataa d2x cIOS Installer ja pura se `apps` kansioon SD-kortillesi tai USB-asemallesi.
+1. Download d2x cIOS Installer and extract it to your SD card or USB drive.
 1. Liitä SD-korttisi tai USB-asemasi Wii-konsoliisi ja käynnistä d2x cIOS Installer Homebrew Channelista.
 
 ##### Osa II - Asentaminen
