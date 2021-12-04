@@ -31,7 +31,7 @@ excerpt: "Ο ολοκληρομένος οδηγός για να τροποπο�
 - Επαναφέρετε αποσυνδεδεμένες διαδικτυακές υπηρεσίες, όπως τις [υπηρεσίες WiiConnect24](riiconnect24) & [ και Nintendo WFC](wiimmfi).
 - Κάντε αντίγραφο ασφαλείας και επαναφορά αντιγράφων της μνήμης του συστήματος Wii σας (NAND) χρησιμοποιόντας το [BootMii](bootmii).
 - Προστατέψτε το Wii σας από bricks χρησιμοποιόντας το [Priiloader](priiloader) και το BootMii.
-- Κάντε το Wii σας αναπαραγωγό μέσων (media player) με το [WiiMC](http://www.wiimc.org/).
+- Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
 
 
 ## Ready?
