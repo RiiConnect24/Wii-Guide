@@ -12,12 +12,12 @@ SysCheck pozwala na wyświetlenie całej listy zainstalowanych IOS oraz cIOS na 
 #### Będziesz potrzebował:
 
 * Karta SD lub urządzenie USB
-* [SysCheck HacksDen Edition](/assets/files/SysCheckHDE.zip)
+* [SysCheck HacksDen Edition](https://hbb1.oscwii.org/hbb/SysCheckHDE/SysCheckHDE.zip)
 
 #### Instrukcje
 ##### Sekcja I - Pobieranie/Instalowanie
 
-1. Wypakuj SysCheck HacksDen Edition oraz skopiuj go do folderu `apps` na Twojej karcie SD lub urządzeniu USB.
+1. Extract SysCheck HacksDen Edition to your SD card or USB drive.
 2. Podłącz Twoją kartę SD lub urządzenie USB do Twojego Wii oraz uruchom SysCheck HackDen Edition korzystając z Homebrew Channel.
 
 ##### Sekcja II - Przeprowadzenie SysCheck'u
