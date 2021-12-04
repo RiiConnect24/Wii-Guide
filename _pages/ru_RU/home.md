@@ -31,7 +31,7 @@ excerpt: "Полное руководство по моддингу Nintendo Wii
 - Восстановить онлайн сервисы, такие как [WiiConnect24](riiconnect24) и [Nintendo WFC services](wiimmfi).
 - Резервировать и восстанавливать копии памяти вашей Wii (NAND), используя [BootMi](bootmii).
 - Защитить вашу Wii от превращения в "кирпич", используя [Priiloader](priiloader) и BootMii.
-- Превратить вашу Wii в медиаплеер с помощью [WiiMC](http://www.wiimc.org/).
+- Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
 
 
 ## Готовы?
