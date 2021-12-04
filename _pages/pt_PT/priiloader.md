@@ -16,12 +16,12 @@ Priiloader adiciona um nível de proteção contra brick na tua Wii. Ele carrega
 
 #### O que precisas
 * Um cartão SD ou USB drive
-* [Instalador do Priiloader](/assets/files/Priiloader_v0_9_1.zip)
+* [Instalador do Priiloader](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
 #### Instruções
 ##### Secção I - Descarregando/Instalando
 
-1. Transfere o instalador do Priiloadere extrai-o para a pasta `apps` no teu cartão SD ou na USB drive.
+1. Download the Priiloader installer and extract it to your SD card or USB drive.
     * Se esta pasta não existir, cria-a.
 
 ##### Secção II - Instalação do Priiloader
