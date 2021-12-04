@@ -11,12 +11,12 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 #### Απαιτήσεις
 * Μία κάρτα SD ή μέσο αποθήκευσης USB
-* [Το Yet Another BlueDump MOD](/assets/files/YABDM.zip)
+* [Το Yet Another BlueDump MOD](https://hbb1.oscwii.org/hbb/Yet-Another-BlueDump-Mod/Yet-Another-BlueDump-Mod.zip)
 
 #### Οδηγίες
 ##### Μέρος I - Λήψη/Εγκατάσταση
 
-1. Εξάγετε το Yet Another BlueDump MOD και τοποθετήστε το στον φάκελο `apps` στο αποθηκευτικό σας μέσο.
+1. Extract Yet Another BlueDump MOD to your SD card or USB drive.
 2. Εισάγετε το αποθηκευτικό σας μέσο στο Wii και εκκινήστε το Yet Another BlueDump MOD από το Κανάλι Homebrew.
 
 ##### Μέρος II - Εξαγωγή
