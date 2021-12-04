@@ -31,7 +31,7 @@ Voici une liste de choses que vous pouvez faire avec des homebrew. Bien que cett
 - Utiliser à nouveau des services en ligne abandonnés, tels que [WiiConnect 24](riiconnect24) ou la [CWF Nintendo](wiimmfi) (Connexion Wi-Fi Nintendo).
 - Sauvegarder et restaurer des copies de la mémoire système (NAND) de votre Wii, grâce à [BootMii](bootmii).
 - Protéger votre Wii d'éventuels bricks en utilisant [Priiloader](priiloader) et BootMii.
-- Transformer votre Wii en lecteur multimédia avec [WiiMC](http://www.wiimc.org/).
+- Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
 
 
 ## Prêt ?
