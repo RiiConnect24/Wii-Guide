@@ -32,7 +32,7 @@ We recommend you [install cIOS](cios) before continuing.
 * Wii
 * SD Kart veya USB sürücü
 * Windows’u olan bir bilgisayar (ya da Mac/Linux için Mono veya Wine)
-* [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
+* [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
 
 #### Tema Bağlantıları
@@ -70,7 +70,7 @@ DEVAM ETMEDEN ÖNCE YUKARIDAKİ UYARILARI OKUDUĞUNUZDAN EMİN OLUN!
 
 ##### Bölüm III - Tema Yükleme
 
-1. MyMenuify Mod’u çıkartın ve SD Kart ya da USB sürücünüzdeki `apps` klasörüne koyun.
+1. Extract MyMenuifyMod.zip to your SD card or USB drive.
 2. Kaydettiğiniz .csm dosyasını SD Kart ya da USB sürücünüzdeki `modthemes` klasörüne koyun.
 3. SD Kartınızı veya USB sürücünüzü Wii’nize takın.
 4. Homebrew Channel’dan MyMenuify Mod’u başlatın.
