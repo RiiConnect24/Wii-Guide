@@ -32,7 +32,7 @@ We recommend you [install cIOS](cios) before continuing.
 * Konsola Wii
 * Karta SD lub urządzenie USB
 * Komputer z systemem operacyjnym Windows (lub możesz użyć Mono lub Wine jeżeli korzystasz z macOS/Linux'a)
-* [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
+* [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
 
 #### Linki do motywów
@@ -70,7 +70,7 @@ UPEWNIJ SIĘ, ŻE PRZECZYTASZ WSZYSTKIE OSTRZEŻENIA PRZED KONTYNUOWANIEM!
 
 ##### Sekcja III - Instalowanie motywu
 
-1. Wypakuj MyMenuify Mod oraz skopiuj go do folderu `apps` na Twojej karcie SD lub urządzeniu USB.
+1. Extract MyMenuifyMod.zip to your SD card or USB drive.
 2. Skopiuj plik .csm, który własnie zapisałeś do folderu `modthemes` na Twojej karcie SD lub urządzeniu USB.
 3. Włóż kartę SD lub urządzenie USB do Twojego Wii.
 4. Uruchom RSSMii korzystając z Homebrew Channel.
