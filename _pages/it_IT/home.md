@@ -31,7 +31,7 @@ Ecco una lista di cosa che puoi fare usando homebrew. Anche se questo elenco non
 - Ripristina servizi online terminati, come [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
 - Effettuare e ripristinare copie della memoria della tua memoria Wii (NAND) usando [BootMii](bootmii).
 - Proteggi la tua Wii dal brick usando [Priiloader](priiloader) e BootMii.
-- Trasforma la tua Wii in un video riproduttore con [WiiMC](http://www.wiimc.org/).
+- Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
 
 
 ## Pronto?
