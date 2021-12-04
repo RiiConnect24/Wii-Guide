@@ -18,7 +18,7 @@ Wenn du eine Wii mini hast, installiere [dieses cIOS](cios-mini) stattdessen. We
 
 * Eine Wii mit Internetverbindung
 * Eine SD-Karte oder ein USB-Laufwerk
-* [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
+* [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
 Vergewissere dich, dass bei Verwendung der SD-Karte der Sperrschalter in der entriegelten Position steht, da du sonst nicht die richtigen Optionen in der Installation auswählen kannst
 {: .notice--warning}
@@ -27,7 +27,7 @@ Vergewissere dich, dass bei Verwendung der SD-Karte der Sperrschalter in der ent
 
 ##### Abschnitt 1 - Herunterladen
 
-1. Lade den d2x cIOS Installer herunter und entpacke ihn in den `apps`-Order auf deiner SD-Karte oder deines USB-Laufwerks.
+1. Download d2x cIOS Installer and extract it to your SD card or USB drive.
 1. Verbinde deine SD-Karte oder dein USB-Laufwerk mit deiner Wii und starte den d2x cIOS Installer über den Homebrew-Kanal.
 
 ##### Abschnitt 2 - Installieren
