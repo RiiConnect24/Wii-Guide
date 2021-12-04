@@ -32,7 +32,7 @@ Recomandăm să [instalezi cIOS](cios) înainte de a continua.
 * Un Wii
 * Un card SD sau o unitate USB
 * Un calculator cu Windows instalat (sau folosind Mono sau Wine pe Mac/Linux)
-* [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
+* [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
 
 #### Link-uri către teme de fundal
@@ -70,7 +70,7 @@ ASIGURĂ-TE CĂ AI CITIT AVERTISMENTELE DE DEASUPRA ÎNAINTE SĂ CONTINUI!
 
 ##### Secțiunea III - Instalarea Temei de Fundal
 
-1. Extrage MyMenuify Mod și pune-l în dosarul `apps` din cardul tău SD sau unitatea ta USB.
+1. Extract MyMenuifyMod.zip to your SD card or USB drive.
 2. Pune fișierul .csm pe care l-ai salvat în dosarul `modthemes` pe cardul tău SD sau unitatea ta USB.
 3. Introdu cardul tău SD sau unitatea ta USB în Wii.
 4. Lansează MyMenuify Mod din Homebrew Channel.
