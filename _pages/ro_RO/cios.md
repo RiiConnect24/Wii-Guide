@@ -18,7 +18,7 @@ Dacă ai un Wii mini, instalează [acest cIOS](cios-mini) în schimb. Orice alt 
 
 * Un Wii cu o conexiune la Internet
 * Un card SD sau o unitate USB
-* [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
+* [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
 Asigură-te că dacă folosești un card SD, comutatorul de blocare este în poziția deblocată, altfel nu vei putea să selectezi opțiunile corecte în instalator
 {: .notice--warning}
@@ -27,7 +27,7 @@ Asigură-te că dacă folosești un card SD, comutatorul de blocare este în poz
 
 ##### Secțiunea I - Descărcare
 
-1. Descarcă d2x cIOS Installer și extrage-l în dosarul `apps` din cardul tău SD sau unitatea ta USB.
+1. Download d2x cIOS Installer and extract it to your SD card or USB drive.
 1. Introduce cardul tău SD sau unitatea ta USB în Wii, și pornește d2x cIOS Installer din Homebrew Channel.
 
 ##### Secțiunea II - Instalare
