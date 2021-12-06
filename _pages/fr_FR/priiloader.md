@@ -21,7 +21,7 @@ N'installez ** pas ** Priiloader sur une vWii (mode Wii sur Wii U). Cela se trad
 #### Instructions
 ##### Section I - Téléchargement et installation
 
-1. Download the Priiloader installer and extract it to your SD card or USB drive.
+1. Télécharger l'installer Priiloader et extraitez-le vers votre carde SD ou périphérique USB.
     * Si ce dossier n'existe pas, créez-le.
 
 ##### Section II - Installation de Priiloader
