@@ -70,7 +70,7 @@ ASSUREZ-VOUS D’AVOIR LU TOUS LES AVERTISSEMENTS AVANT DE CONTINUER !
 
 ##### Section III - Installer le Theme
 
-1. Extract MyMenuifyMod.zip to your SD card or USB drive.
+1. Extraitez MyMenuifyMod.zip vers votre carde SD ou périphérique USB.
 2. Créez un dossier appelé `modthemes` sur votre carte SD ou périphérique USB et placez-y le fichier .csm que vous avez enregistré.
 3. Insérez la carte SD ou le périphérique USB dans votre Wii.
 4. Lancez MyMenuify Mod depuis Homebrew Channel.
