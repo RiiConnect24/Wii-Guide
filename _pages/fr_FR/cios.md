@@ -27,7 +27,7 @@ Assurez-vous que si vous utilisez une carte SD, le commutateur de verrouillage e
 
 ##### Section I - Téléchargement
 
-1. Download d2x cIOS Installer and extract it to your SD card or USB drive.
+1. Télécharger d2x cIOS Installer et extraitez-le vers votre carde SD ou périphérique USB .
 1. Insérez votre carte SD ou votre périphérique USB dans votre Wii, et lancez d2x cIOS Installer depuis La chaîne homebrew.
 
 ##### Section II - Installation
