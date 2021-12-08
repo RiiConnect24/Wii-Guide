@@ -16,7 +16,7 @@ Ce tutoriel vous explique comment extraire les WAD de la mémoire de votre syst�
 #### Instructions
 ##### Section I - Téléchargement / Installation
 
-1. Extraitez Yet Another BlueDump MOD vers votre carde SD ou périphérique USB.
+1. Extrayez Yet Another BlueDump MOD sur votre carte SD ou votre clé USB.
 2. Insérez votre carte SD ou clé USB dans votre Wii et lancez Yet Another BlueDump MOD depuis la chaîne Homebrew.
 
 ##### Section II - Extraction
