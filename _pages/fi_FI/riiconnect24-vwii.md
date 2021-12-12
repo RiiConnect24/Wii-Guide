@@ -38,12 +38,9 @@ Kun olet seurannut yllä mainitut ohjeet, sinulla pitäisi olla:
 
 #### Ohjeet
 
-Jos et voi käyttää patcheria, [noudata tätä opasta](https://pad.snopyta.org/s/rJ2N0B1XU), asentaaksesi RiiConnect24:in. Lopputulos on sama riippumatta siitä, mitä menetelmää käytät.
-{: .notice--info}
-
 ##### Osa I - Muokkaimen ajaminen
 
-Käyttämällä RiiConnect24 Patcher sinun pitäisi olla aiemmin ladannut [Mitä tarvitset](#what-you-need), tulet lataamaan ja patchaamaan IOS31:sen, News, Everybody Votes, Nintendo ja Check Mii Out Channelit käytettäväksi vWiissä.
+Using the RiiConnect24 Patcher you should've downloaded earlier in [What you need](#what-you-need), you will be downloading and patching IOS31, News, Everybody Votes, Nintendo and Check Mii Out Channels for use on your vWii.
 
 1. Suorita `RiiConnect24Patcher.bat` jos olet Windowsissa tai `RiiConnect24Patcher.sh` Unix pohjaisissa järjestelmissä kirjoittamalla bash ja dragaa `RiiConnect24Patcher.sh` terminaaliin ja paina sitten enter. Sen pitäisi näyttää tältä `bash RiiConnect24Patcher.sh`. Seuraa näytöllä olevia ohjeita
 
@@ -63,7 +60,7 @@ Käyttämällä RiiConnect24 Patcher sinun pitäisi olla aiemmin ladannut [Mitä
 1. Avaa Homebrew Channel
 2. Käynnistä ww-43db-patcher
 
-Jos asennat teeman, sinun täytyy ajaa ww-43db-patcher vielä kerran
+If you install a theme, you will have to run the ww-43db-patcher once more
 {: .notice--info}
 
 ##### Osa IV - RiiConnect24:n käyttäminen
@@ -76,7 +73,7 @@ After following the above sections, you're almost able to utilize RiiConnect24 o
 * You should now be able to utilize all of the WiiConnect24 Channels you have installed!
 
 #### What's currently working?
-Seuraavat RiiConnect24 palvelut **toimivat** vWii:llä:
+The following RiiConnect24 services are **working** on the vWii:
 * News Channel
     * This channel is affected by the timestamp issue. The "Last Updated" and article timestamps will be incorrect.
     * Bannerin datan tiedetään myös olevan epäkunnossa, palauttavan `Unable to obtain data.`
@@ -86,7 +83,7 @@ Seuraavat RiiConnect24 palvelut **toimivat** vWii:llä:
 * Check Mii Out Channel / Mii Contest Channel
 {: .notice--success}
 
-Seuraavat RiiConnect24 palvelut ** EI toimi** vWii:llä:
+The following RiiConnect24 services are **not working** on the vWii:
 * Wii Mail (useimpia toimintoja ei ole vWiillä)
     * Tämä sisältää lähetettävän/vastaanottavan viestin ystäville/ystäville. Voit vastaanottaa globaaleja lähetyksiä ja viestejä vain RSSMii-feedeistä (jos asennettu).
 * Kaikki muu, joka ei toimi [RiiConnect24 tilastot](https://rc24.xyz/stats/index.html).
