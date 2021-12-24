@@ -33,15 +33,15 @@ Se hai BootMii installato come boot2 dovrai avviare BootMii riavviando la tua co
     Se lo schermo rimane nero e la luce del lettore disco lampeggia di blu, significa che ti mancano dei file di BootMii sulla tua scheda SD. Scarica [questo file zip](https://static.hackmii.com/bootmii_sd_files.zip) ed estrailo nella cartella principale della tua scheda SD, e riprova.
     {: .notice--warning}
 
-3. Seleziona la sezione Opzioni (quella con i tre ingranaggi).
-4. Seleziona l'opzione BackupMii (quella con la feccia verde).
+3. Select the Options button (the icon with the gears).
+4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left).
 - Un backup della NAND inizierà. Puoi guardare il processo su schermo.
 - I "Blocchi Danneggiati" sono normali. Non ti preoccupare se li vedi su un backup della NAND.
 - Dopo questo passaggio, verificherà il backup. Se vuoi, puoi saltare il processo premendo il pulsante EJECT, ma non lo consigliamo.
 5. Quando il backup sarà finito, esso verrà verificato.
 6. Scegli l'opzione Indietro per uscire da BootMii (icona con una freccia) e potrai scegliere se tornare al menu Wii o al Canale Homebrew.
 
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow). This is useful in the unlikely case you brick your Wii.
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). This is useful in the unlikely case you brick your Wii.
 {: .notice--info}
 
 [Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
