@@ -33,15 +33,15 @@ title: "Резервная копия BootMii"
     Если экран остаётся чёрным и разъём для диска мигает синим индикатором, значит на вашей SD-карте отсутствуют файлы BootMii. Скачайте [этот zip-архив](https://static.hackmii.com/bootmii_sd_files.zip) и извлеките его в корень вашей SD-карты, затем повторите попытку.
     {: .notice--warning}
 
-3. Выберите кнопку Options (та, что с шестерёнками).
-4. Выберите кнопку BackupMii (та, что с зелёной стрелкой).
+3. Select the Options button (the icon with the gears).
+4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left).
 - Начнётся процесс резервирования NAND. Можете следить за прогрессом на экране.
 - "Плохие Блоки" - это нормально. Не волнуйтесь, когда увидите их в резервной копии NAND.
 - После этого шага копия будет проверена. Проверку можно пропустить, нажав кнопку EJECT на вашей Wii, но это не рекомендуется.
 5. Когда резервное копирование полностью завершится, выйдите с экрана резервирования NAND, нажав любую кнопку.
 6. Чтобы выйти из BootMii, нажмите кнопку Back (та, что со стрелкой), затем вы можете нажать кнопку Wii Menu или кнопку Homebrew Channel, чтобы выйти куда вы хотите.
 
-Чтобы восстановиться с резервной копии NAND на вашей SD-карте, следуйте этой инструкции, используя RestoreMii (кнопка рядом с BackupMii с красной стрелкой). Это полезно в том случае если вы превратите свою Wii в "кирпич".
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). Это полезно в том случае если вы превратите свою Wii в "кирпич".
 {: .notice--info}
 
 [Перейти к Установке Priiloader](priiloader) Priiloader добавляет уровень защиты от создания "кирпича" и мы рекомендуем его, особенно если вы смогли установить только BootMii IOS.
