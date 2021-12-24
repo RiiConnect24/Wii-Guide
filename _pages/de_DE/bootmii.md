@@ -33,15 +33,15 @@ Falls du BootMii als boot2 installiert hast, musst du BootMii durch einen Neusta
     Bleibt der Bildschirm schwarz und das Laufwerk deiner Wii leuchtet blau, fehlen dir die BootMii-Dateien auf deiner SD-Karte. Lade [diese zip](https://static.hackmii.com/bootmii_sd_files.zip) herunter und extrahiere sie in das Stammverzeichnis deiner SD-Karte, versuche es dann erneut.
     {: .notice--warning}
 
-3. Wähle nun die Einstellungen aus (die Schaltfläche mit den Zahnrädern).
-4. Gehe auf BackupMii (die Schaltfläche mit dem grünen Pfeil).
+3. Select the Options button (the icon with the gears).
+4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left).
 - Die NAND-Sicherung startet. Du kannst den Fortschritt auf dem Bildschirm sehen.
 - "Bad Blocks" (defekte Blöcke) sind normal. Mach dir also keine Sorgen, wenn du welche während der NAND-Sicherung sehen solltest.
 - Nach diesem Schritt wird die Sicherung überprüft. Dies wird zwar empfohlen, kann aber auch durch Drücken der EJECT-Taste an der Wii-Konsole übersprungen werden.
 5. Wenn die Sicherung abgeschlossen ist, beende den NAND-Sicherungsbildschirm durch Drücken einer beliebigen Taste.
 6. Um BootMii zu beenden, wähle die Zurück-Schaltfläche aus (die mit dem Pfeil) und anschließend entweder die Wii-Menü- oder die Homebrew-Kanal-Schaltfläche, je nachdem, wohin du möchtest.
 
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow). This is useful in the unlikely case you brick your Wii.
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). This is useful in the unlikely case you brick your Wii.
 {: .notice--info}
 
 [Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
