@@ -33,15 +33,15 @@ Si has instalado BootMii como boot2, apaga y vuelve a encender la consola para i
     Si después de seguir los pasos anteriores la pantalla se queda en negro y la luz de la ranura para discos comienza a parpadear, significa que faltan los archivos de BootMii que van en la tarjeta SD o están dañados. Para solucionarlo, extrae [este ZIP](https://static.hackmii.com/bootmii_sd_files.zip) a la raíz de la tarjeta SD, reemplazando cualquier archivo existente.
     {: .notice--warning}
 
-3. Selecciona el botón de que tiene dos engranajes.
-4. Elige el botón de BackupMii (el que tiene una flecha verde).
+3. Select the Options button (the icon with the gears).
+4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left).
 - Se empezará a crear un respaldo de la NAND. Puedes ver el progreso en pantalla.
 - Los bloques defectuosos son normales, así que no te preocupes si ves alguno mientras se genera el respaldo.
 - Una vez que haya sido creado, el respaldo será verificado en busca de errores. Aunque se recomienda realizarlo, este paso es opcional y puedes saltarlo pulsando el botón EJECT en la consola.
 5. Cuando el respaldo se haya completado, sal del menú de BackupMii oprimiendo cualquier botón.
 6. Para salir de BootMii, selecciona el botón con la flecha y después el botón del menú de Wii o del Canal Homebrew para salir a donde desees.
 
-Puedes seguir estas mismas instrucciones para restaurar un respaldo desde la tarjeta SD usando RestoreMii (el botón con una flecha roja) en el improbable caso de que tu consola quede brickeada.
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). brickeada.
 {: .notice--info}
 
 [Proceder a la instalación de Priiloader](priiloader) Priiloader te permite reparar los bricks más comunes y es muy recomendable que lo instales en tu consola, especialmente si solo pudiste instalar BootMii como un IOS.
