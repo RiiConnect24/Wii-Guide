@@ -46,7 +46,10 @@ title: "Wii 미니를 위한 d2xl cIOS (실험)"
 ##### 이더넷 활성화
 Wii mini로 Wiimmfi를 이더넷으로 사용하고 싶다면 Fullmetal5의 [이더넷 활성화 홈브루](/assets/files/Wii_Mini_Ethernet_Enable.zip) 앱을 작동시켜야 합니다. 실행하려면 `apps` 폴더를 USB 드라이브에서 압축 해제하고 홈브루 채널에서 실행하세요.
 
-Wii 미니에 Wii IOS나 시스템 메뉴 설치를 시도하지 마세요. 하는 것은 콘솔을 벽돌시킬 겁니다.
+The Wii and Wii mini consoles are only known to work with Ethernet adapters using the AX88772 chip. Please check that the product is compatible before you buy. This one from UGREEN is known to be compatible: [Amazon Europe](https://www.amazon.de/dp/B00MYT481C), [Amazon US](https://www.amazon.com/dp/B08DRKYKMM/)
+{: .notice--info}
+
+Do not attempt to install a Wii IOS or System Menu on the Wii mini. Doing so will likely brick your console.
 {: .notice--warning}
 
 이제 당신은 [USB 로더 GX](usbloadergx) 및 [WiiFlow](wiiflow)와 같은 홈브루를 사용할 수 있습니다.
