@@ -46,7 +46,10 @@ Select cIOS slot: 249
 ##### Ενεργοποίηση ενσύρματου δικτύου Ethernet
 Αν επιθυμείτε να χρησιμοποιήσετε το Wiimmfi με ethernet στο Wii mini, πρέπει να τρέξετε το πρόγραμμα [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip) φτιαγμένο από τον Fullmetal5. Για να το τρέξετε, εξάγετέ το στον φάκελο `apps` στο μέσο USB σας και εκτελέστε το από το Κανάλι Homebrew.
 
-Μην επιχειρήσετε να εγκαταστήσετε κάποιο IOS ή Σύστημα Μενού του Wii στο Wii mini. Κάτι τέτοιο πιθανώς να καταστρέψει την κονσόλα σας.
+The Wii and Wii mini consoles are only known to work with Ethernet adapters using the AX88772 chip. Please check that the product is compatible before you buy. This one from UGREEN is known to be compatible: [Amazon Europe](https://www.amazon.de/dp/B00MYT481C), [Amazon US](https://www.amazon.com/dp/B08DRKYKMM/)
+{: .notice--info}
+
+Do not attempt to install a Wii IOS or System Menu on the Wii mini. Doing so will likely brick your console.
 {: .notice--warning}
 
 Τώρα μπορείτε να χρησιμοποιήσετε προγράμματα όπως το[USB Loader GX](usbloadergx)και[το WiiFlow](wiiflow).
