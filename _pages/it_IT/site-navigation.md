@@ -1,6 +1,6 @@
 ---
 title: "Navigazione del sito"
-layout: single
+layout: singolo
 sitemap: falso
 ---
 
