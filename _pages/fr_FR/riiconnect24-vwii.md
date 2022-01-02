@@ -65,15 +65,15 @@ Si vous installez un thème, vous devrez relancer ww-43db-patcher
 
 ##### Section IV - Utiliser RiiConnect24
 
-Après avoir suivi les sections ci-dessus, vous êtes presque capable d'utiliser RiiConnect24 sur votre Wii U. Il vous suffit d'effectuer les étapes suivantes **après chaque redémarrage de vWii**.
+Après avoir suivi les sections ci-dessus, vous êtes presque en mesure d'utiliser RiiConnect24 sur votre Wii U. Vous devez juste effectuer les étapes suivantes **après chaque redémarrage de la vWii**.
 
 1. Sur le **Menu Wii** de la vWii, lancez la chaîne **ConnectMii**.
 * Cela activera les indicateurs WiiConnect24 et Standby Connection requis par les canaux WiiConnect24.
 2. Lancez les chaînes WiiConnect24
-* Vous devriez maintenant pouvoir utiliser toutes les chaînes WiiConnect24 que vous avez installées !
+* Vous devriez maintenant être en mesure d'utiliser toutes les chaînes WiiConnect24 que vous avez installées !
 
 #### Qu'est-ce qui fonctionne actuellement ?
-Les services RiiConnect24 suivants **fonctionnent** sur vWii :
+Les services RiiConnect24 suivants sont **fonctionnels** sur la vWii :
 * Chaîne Infos
     * Cette chaîne est affectée par le problème d'horodatage. Les horodatages "Dernière mise à jour" et de l'article seront incorrects.
     * Les données de la bannière sont également connues pour ne pas fonctionner, renvoyant `Impossible d'obtenir les données.`
@@ -83,7 +83,7 @@ Les services RiiConnect24 suivants **fonctionnent** sur vWii :
 * Chaîne Concours Mii
 {: .notice--success}
 
-Les services RiiConnect24 suivants **ne fonctionnent pas** sur vWii :
+Les services RiiConnect24 suivants sont **non fonctionnels** sur la vWii :
 * Wii Mail (la plupart des fonctionnalités n'existent pas sur vWii)
     * Cela inclut envoyer/recevoir des mails à/depuis des amis. Vous ne pouvez recevoir que des messages et des messages diffusés globalement à partir des flux RSSMii (si configuré).
 * Tout le reste qui ne fonctionne pas selon les [stats RiiConnect24](https://rc24.xyz/stats/index.html).
