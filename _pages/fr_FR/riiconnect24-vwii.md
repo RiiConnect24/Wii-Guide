@@ -40,7 +40,7 @@ Après avoir suivi le guide mentionné ci-dessus, vous devriez avoir:
 
 ##### Section I - Exécuter le patcher
 
-En utilisant le Patcher RiiConnect24, que vous devriez avoir téléchargé plus tôt dans [Ce dont vous avez besoin](#what-you-need), vous allez télécharger et patcher l'IOS31 ainsi que les chaînes News, Everybody Votes, Nintendo et Check Mii Out pour une utilisation sur votre vWii.
+En utilisant le patcheur RiiConnect24 que vous avez dû télécharger plus tôt dans [Ce dont vous avez besoin](#what-you-need), vous allez télécharger et patcher les chaînes IOS31, infos, votes, Nintendo et concours Mii pour les utiliser sur votre vWii.
 
 1. Exécutez `RiiConnect24Patcher.bat` sur Windows, ou `RiiConnect24Patcher.sh` sur les systèmes Unix : tapez bash dans le terminal, faites glisser `RiiConnect24Patcher.sh` dans ce dernier et appuyez sur Entrée. Cela devrait ressembler à ceci `bash RiiConnect24Patcher.sh`. Suivez les instructions à l'écran
 
