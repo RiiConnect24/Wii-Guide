@@ -90,7 +90,7 @@ We have a RiiTag channel you can install on your Wii. When it is launched, it wi
 {: . notícia--informació}
 
 1. Log into RiiTag and go to your tag page.
-2. Click `Download Forwarder WAD`.
+2. Click `Download RiiTag Channel`.
 3. Put the WAD on your SD Card or USB device.
 4. Install the WAD with your favorite WAD manager ([Wii Mod Lite](wiimodlite) is recommended).
 5. Make sure the Internet Channel is installed.
