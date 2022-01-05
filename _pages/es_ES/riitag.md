@@ -90,7 +90,7 @@ Tenemos un canal RiiTag que puedes instalar en tu Wii. Cuando se lanza, abrirá 
 {: .notice--info}
 
 1. Inicie sesión en RiiTag y vaya a su página de etiquetas.
-2. Haga clic en `Download Forwarder WAD`.
+2. Click `Download RiiTag Channel`.
 3. Pon el WAD en su tarjeta SD o dispositivo USB.
 4. Instala el WAD con tu administrador de WAD favorito (se recomienda[Wii Mod Lite](wiimodlite)).
 5. Asegúrese de que el Canal Internet está instalado.
