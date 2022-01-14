@@ -4,30 +4,30 @@ title: "WiiWare Patcher"
 
 {% include toc title="Sisällysluettelo" %}
 
-Want to patch WAD games (WiiWare) to work with Wiimmfi and you don't know how? This tutorial will explain you how WiiWare Patcher works. (This tutorial is only suitable for Windows operating system)
+Haluatko muokata WAD-pelejä (WiiWare) toimimaan Wiimmfin kanssa ja et tiedä miten? Tämä opetusohjelma selittää sinulle, kuinka WiiWare Patcher toimii. (Tämä opetusohjelma soveltuu vain Windows-käyttöjärjestelmälle)
 
 ![Using the WiiWare Patcher](/images/rc24_using_the_wiiware_patcher.jpg)
 
-This tutorial is only for Windows version of WiiWare Patcher.
+Tämä opetusohjelma on vain WiiWare Patcherin Windows-versiolle.
 {: .notice--info}
 
 #### Mitä tarvitset
 
-* A Windows computer
+* Windows-tietokone
 * [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases)
 
-##### Section I - Downloading WiiWare Patcher
+##### Osa I - WiiWare Patcherin lataaminen
 
 1. Klikkaa yllä olevaa linkkiä mennäksesi GitHub sivulle, jossa patcher on.
-2. Download `WiiWarePatcher.bat`.
+2. Lataa `WiiWarePatcher.bat`.
 
-##### Section II - Patching WiiWare games
+##### Osa II - WiiWare-pelien muokkaaminen
 
-1. On Windows, run `WiiWarePatcher.bat`. ![WiiWare Patcher Main Menu](/images/WiiWare-Patcher/1.JPG)
-2. Press any key to start the patcher.
+1. Aja `WiiWarePatcher.bat` Windows-käyttöjärjestelmällä. ![WiiWare Patcher Main Menu](/images/WiiWare-Patcher/1.JPG)
+2. Paina mitä tahansa näppäintä käynnistääksesi muokkaustyökalu.
 3. Select if you want to patch your games or if you want to download and patch `Wii Speak Channel`. ![Select patching mode](/images/WiiWare-Patcher/2.JPG)
-4. If you're patching your own games, copy them (.WAD files) to the folder where `WiiWarePatcher.bat` is, press `1` and hit ENTER.
-5. The patching process will start. Be patient. ![Patching...](/images/WiiWare-Patcher/3.JPG)
-6. It's done! Patched WAD's are in the `wiimmfi-wads` folder. Install them using Wii Mod Lite or other WAD Manager.
+4. Jos haluat muokata omia pelejäsi, kopioi ne (.WAD-tiedostot) kansioon, jossa `WiiWarePatcher.bat` on, paina `1` ja paina ENTER.
+5. Muokkausprosessi alkaa. Ole kärsivällinen. ![Patching...](/images/WiiWare-Patcher/3.JPG)
+6. Valmista! Muokatut WAD-tiedostot ovat kansiossa `wiimmfi-wads`. Asenna ne Wii Mod Liten tai muun WAD-tiedostonhallintaohjelman avulla.
 
 [Return to Wiimmfi installation page](wiimmfi)
