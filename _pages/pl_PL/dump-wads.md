@@ -16,7 +16,7 @@ Ten poradnik wyjaśni Ci jak wykonywać kopię zapasową WAD'ów z Twojej pamię
 #### Instrukcje
 ##### Sekcja I - Pobieranie/Instalowanie
 
-1. Extract Yet Another BlueDump MOD to your SD card or USB drive.
+1. Wypakuj "Yet Another BlueDump MOD" do karty pamięci lub dysku USB.
 2. Podłącz Twoją kartę SD lub urządzenie USB do Twojego Wii oraz uruchom Yet Another BlueDump MOD korzystając z Homebrew Channel.
 
 ##### Sekcja II - Wykonywanie kopii zapasowej
