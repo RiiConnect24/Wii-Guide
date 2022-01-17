@@ -32,17 +32,17 @@ Jeśli nie masz karty SD, nie możesz zainstalować ani używać BootMii, i w zw
 
 8. Po zakończeniu wybierz `Continue`, a następnie wybierz `Exit` aby przejść do Homebrew Channel
 
-#### Required Reading
+#### Wymagane czytanie
 
-You can now use the Homebrew Channel to launch homebrew apps. Open Shop Channel is a one-stop shop for downloading homebrew, which you will learn how to install further in this guide.
+Teraz możesz użyć kanału Homebrew, by uruchamiać aplikacje Homebrew. Open Shop Channel jest punktem pobierania aplikacji Homebrew, który potem się dowiesz jak tam instalować dalej w tym poradniku.
 
-Here's a tip - when installing homebrew applications on your SD Card or USB drive, your folder structure should look like this:
+Taka wskazówka - kiedy instalujesz aplikacje Homebrew na twojej karcie pamięci lub dysku USB, twoja struktura folderów powinna wyglądać tak:
 
-💾 sd or usb:
+💾 karta pamięci lub usb:
 
 ┣ 📂 apps
 
-┃ ┣ 📂 AppName1
+┃ ┣ 📂 NazwaAplikacji1
 
 ┃ ┃ ┣ 📄 boot.dol / boot.elf
 
@@ -50,7 +50,7 @@ Here's a tip - when installing homebrew applications on your SD Card or USB driv
 
 ┃ ┃ ┗ 📄 meta.xml
 
-┃ ┗ 📂AppName2
+┃ ┗ 📂NazwaAplikacji2
 
 ┃ ┃ ┣ 📄 boot.dol / boot.elf
 
@@ -58,10 +58,10 @@ Here's a tip - when installing homebrew applications on your SD Card or USB driv
 
 ┃ ┃ ┗ 📄 meta.xml
 
-`AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
+`NazwaAplikacji1` i`NazwaAplikacji2` są nazwami zastępczymi. Nie zagnieżdżaj kilku `folderów` aplikacji w środku w tym samym folderze`apps`.
 
-[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
+[Kontynuuj robienie kopii zapasowej używając BootMii](bootmii)<br> Zrobienie kopii zapasowej pamięci NAND jest teraz bardzo zalecana.
 {: .notice--info}
 
-If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
+Jeśli nie mogłeś zainstalować BootMii, to kontynuuj [instalowanie priiloader](priiloader).
 {: .notice--info}
