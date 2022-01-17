@@ -13,7 +13,7 @@ sitemap: false
 + [RiiConnect24](riiconnect24)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
-+ [Kirby TV Channel](kirby-tv)
++ [Kanał TV Kirby](kirby-tv)
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
@@ -27,8 +27,8 @@ sitemap: false
 + [Kirby TV Channel](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Kasowanie plików. VFF](deleting-vffs)
-+ [Fixing FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [Naprawianie błędu FORE000006](riiconnect24-batteryfix)
++ [Naprawianie błędu NEWS000006](news000006)
 
 **Modowanie w pigułce**
 + [BlueBomb](bluebomb)
