@@ -1,6 +1,6 @@
 #### Będziesz potrzebował:
 
-* An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
+* Karta pamięci lub dysk USB z conajmiej 4.7 GB wolnego miejsca (8.5GB jeśli gra jest dyskiem dwuwarstwowym).
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
 #### Instrukcje
