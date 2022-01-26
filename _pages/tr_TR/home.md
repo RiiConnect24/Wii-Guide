@@ -31,7 +31,7 @@ Homebrew’u kullanarak yapabileceklerinizin bir listesi aşağıda bulunmaktad�
 - [WiiConnect24](riiconnect24)&[Nintendo WFC hizmetleri](wiimmfi) gibi çevrimiçi servisleri geri getirebilirsiniz.
 - [BootMii](bootmii) ile Wii sistem hafızanızı (NAND) yedekleyebilir veya geri getirebilirsiniz.
 - [Priiloader](priiloader) ve BootMii kullanarak Wii’nizi brick modundan koruyabilirsiniz.
-- [WiiMC](http://www.wiimc.org/) kullanarak Wii’nizi medya oynatıcıya çevirebilirsiniz.
+- Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
 
 
 ## Hazır mısınız?

@@ -16,12 +16,12 @@ vWii(Wii U의 Wii 모드) 에 Priiloader를 설치하지 **마세요**. 이것�
 
 #### 필요한 것
 * SD 카드 및 USB 드라이브
-* [Priiloader 설치 마법사](/assets/files/Priiloader_v0_9_1.zip)
+* [Priiloader 설치 마법사](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
 #### 방법
 ##### 섹션 I - 다운로드/설치하기
 
-1. Priiloader 설치 마법사를 다운로드 한 뒤 압축을 풀고 SD 카드 및 USB 드라이브의 `apps`폴더에 붙여넣으세요.
+1. Download the Priiloader installer and extract it to your SD card or USB drive.
     * 폴더가 존재하지 않는다면, 만드세요.
 
 ##### 섹션 II - Priiloader 설치하기
@@ -80,8 +80,8 @@ Priiloader로 활성화 할 수 있는 핵의 목록입니다.
 Continue to installing cIOS<br> cIOS are used to play games with a USB Loader. 또한 다른 홈브루 앱에도 유용합니다.
 {: .notice--info}
 
-Wii 미니를 사용한다면, [이 가이드](cios-mini)를 따라 cIOS를 설치하세요
+If using a regular Wii, follow [this guide](cios) to install cIOS
 {: .notice--info}
 
-일반 Wii를 사용한다면, [이 가이드](cios)를 따라 cIOS를 설치하세요
+If using a Wii mini, follow [this guide](cios-mini) to install cIOS
 {: .notice--info}

@@ -35,7 +35,7 @@ Asigură-te că unitatea USB este formatată ca FAT32 sau NTFS. Nu-l formata ca 
 1. Mergi la fila `Drive 1`, apoi alege `Drive`.
 2. Alege drive-ul pe care îl folosești pentru jocurile Wii.
 3. Mergi la fila `Files`, apoi alege `Add`.
-4. Alege `Files` pentru a adăuga mai multe jocuri în program, sau alege `Folder` pentru a adăuga un folder întreg de jocuri.
+4. Alege `Files` pentru a adăuga mai multe jocuri în program, sau alege `Folder` pentru a adăuga un dosar întreg de jocuri.
 5. Alege `Transfer`, apoi alege `Drive 1` pentru a transfera jocurile. S-ar putea să dureze ceva timp ca jocurile să se copieze.
 
 ##### Opțiuni după finalizare

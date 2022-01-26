@@ -1,6 +1,6 @@
 #### לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
 
-* An SD card or USB drive with at least 4.7 GB of free space
+* An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
 #### הוראות

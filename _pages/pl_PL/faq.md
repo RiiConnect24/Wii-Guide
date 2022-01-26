@@ -5,20 +5,20 @@ title: "Często zadawane pytania"
 ![Żółte logo RiiConnect24](/images/Wii_Yellow_Gray.jpg)
 
 ### Jak niebezpieczne jest przerabianie mojej konsoli?
-Bricks (a state where either some parts of your Wii software are not working, or your Wii is not working at all) are extremely rare unless you ignore/circumvent all safety checks, or do something risky or naive like installing an older version of the Wii Menu. Make sure you install [BootMii](bootmii) and [Priiloader](priiloader) to protect yourself from bricks!
+Brick (to stan kiedy jakieś części oprogramowania systemu Wii nie działa, albo jak twoje Wii wogule nie działa) to praktycznie niemożliwe, dopóki zignorujesz zabezpieczenia, albo jeśli zrobisz coś ryzykownego, albo coś niemądrego jak instalowanie starszej wersji Menu Wii. Pamiętaj aby zainstalować [BootMii](bootmii) i [Priiloader'a](priiloader) żeby ochronić się przed brickami!
 
 ### Gdzie mam szukać wsparcia?
-You can join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for assistance.
+Możesz dołączyć [do serwera Riiconnect24 na Discordzie](https://discord.gg/rc24) (zalecane) albo [skontaktować się do support@riiconnect24.net](mailto:support@riiconnect24.net) dla pomocy.
 
 ### Jakie są wymagania i/lub zalecenia dotyczące karty SD?
 Będziesz potrzebował karty SD z przynajmniej 128MB miejsca aby wykonać exploit.
 
-- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card.
+- Jeśli używasz z exploitu takie jak: BlueBomb, str2hax albo FlashHax, to nie potrzebujesz karty pamięci.
 
 Zalecamy minimum 2GB miejsca na karcie SD na przechowywanie aplikacji homebrew.
 
-### I got error code XXXXXX in Wiimmfi, how to fix it?
-In order to check what the reason for the error is, please visit the [Wiimmfi error page](https://wiimmfi.de/error).
+### Dostałem kod błędu XXXXXX w Wiimmfi, jak to naprawić?
+Aby sprawdzić co oznacza ten błąd, wejdź na[stronę błędów Wiimmfi](https://wiimmfi.de/error).
 
 ### Jakie są limity modowania vWii?
 Poniższa lista przedstawia listę rzeczy, które mogą potencjalnie **ZBRICKOWAĆ** Twoje vWii (nie rób tych rzeczy!):

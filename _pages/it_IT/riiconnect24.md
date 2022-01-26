@@ -56,7 +56,7 @@ If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord ser
 You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
 1. Metti la tua scheda SD o il tuo dispositivo USB nella tua WIi.
-2. Carica l'Homebrew Channel sulla tua Wii.
+2. Carica il Canale Homebrew sulla tua Wii.
 3. Avvia Wii Mod Lite.
 4. Usando ul tuo +Control Pad sul telecomando Wii, naviga su `WAD Manager`, e poi naviga sulla cartella `wad`.
 5. Highlight all the WADs in the folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
@@ -92,7 +92,7 @@ You will now set your DNS to our servers. This is optional but it's recommended,
 13. Vai su `WiiConnect24`, poi su `WiiConnect24` ancora, ed assicurati che sia attivato.
 14. Torna sul menù di WiiConnect24, vai su `Standby Connction` ed assicurati che sia attivato.
 15. Su `Slot Illumination`, consigliamo di impostare le luci su `Dim` oppure su `Accesso`, ma è facoltativo.
-16. Infine, vai sulla sezione `Internet`, poi su `User Agreement` o su `Agreement/Contact`, poi su `Yes`. Per favore leggi attentamente.
+16. Infine, vai sulla sezione `Internet`, poi su `User Agreement` o su `Agreement/Contact`, poi su `Yes`. Per favore leggi attentamente. (If you see User Agreements without RiiConnect24's logo, that means using our DNS won't work. You can set `Auto-Obtain` DNS to `On` if that's the case. RiiConnect24 will still work without it.)
 
 
 [Continua a Wiimmfi](wiimmfi)<br> Wiimmfi ti permette di giocare a giochi online dopo la discontinuazione del Nintendo Wi-Fi Connction. L'installazione di RiiConnect24 è facoltativa.

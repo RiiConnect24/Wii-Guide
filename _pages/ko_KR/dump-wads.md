@@ -11,12 +11,12 @@ title: "WAD 덤프"
 
 #### 필요한 것
 * SD 카드 및 USB 드라이브
-* [Yet Another BlueDump MOD](/assets/files/YABDM.zip)
+* [Yet Another BlueDump MOD](https://hbb1.oscwii.org/hbb/Yet-Another-BlueDump-Mod/Yet-Another-BlueDump-Mod.zip)
 
 #### 방법
 ##### 섹션 I - 다운로드/설치하기
 
-1. Yet Another BlueDump MOD의 압축을 풀고 SD 카드 및 USB 드라이브의 `apps` 폴더에 붙여넣으세요.
+1. Extract Yet Another BlueDump MOD to your SD card or USB drive.
 2. SD 카드 및 USB 드라이브를 Wii에 삽입하고, Yet Another BlueDump MOD를 홈브루 채널에서 실행하세요.
 
 ##### 섹션 II - 덤프하기

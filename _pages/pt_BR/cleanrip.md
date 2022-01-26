@@ -1,6 +1,6 @@
 #### Você precisará de
 
-* Um cartão SD ou unidade USB com pelo menos 4.7 GB de espaço livre
+* Um cartão SD ou unidade USB com pelo menos 4.7 GB de espaço livre.
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
 #### Instruções
@@ -15,9 +15,9 @@
 1. Selecione o dispositivo para o qual será armazenado o backup do jogo - sua unidade USB ou cartão SD. ![Tipo de dispositivo](/images/CleanRip/2.png)
 1. Nesta tela, será perguntado se você deseja baixar um arquivo com somas de verificação para verificar se o backup criado é uma cópia bem-sucedida. Fica a seu critério escolher `Yes` ou `No` para baixar esse arquivo. ![DAT](/images/CleanRip/3.png)
 1. Agora insira o jogo que você deseja copiar. ![DVD](/images/CleanRip/4.png) ![Iniciando Disco](/images/CleanRip/5.png)
-1. Set it as shown on the screen below.
+1. Defina como mostrado na tela abaixo.
 
-If you are dumping one of the 13 games on [this list](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games), set `Dual Layer` to `Yes`.
+Se você estiver fazendo backup de um dos 13 jogos na [lista](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games), defina `Dual Layer` para `Sim`.
 {: .notice--info}
 
 ![Configurações](/images/CleanRip/6.png)

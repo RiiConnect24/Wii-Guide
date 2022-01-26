@@ -1,5 +1,5 @@
 ---
-title: "Removing RSSMii"
+title: "RSSMii:n Poistaminen"
 ---
 
 Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiConnect24:n Discord-palvelimelle](https://discord.gg/rc24) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net).
@@ -7,7 +7,7 @@ Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiCon
 
 Jos et enää halua käyttää RSSMii:tä (ehkä siksi, koska se antaa sinulle liikaa Wii Mail:ia), tässä opastetaan, kuinka poistaa se.
 
-![Removing RSSMii](/images/rssmii-remove.png)
+![RSSMii:n poistaminen](/images/rssmii-remove.png)
 
 #### Mitä tarvitset
 

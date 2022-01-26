@@ -18,7 +18,7 @@ Jeżeli korzystasz z Wii Mini, zamiast tego zainstaluj [ten cIOS](cios-mini). Pr
 
 * Konsola Wii z połączeniem Internetowym
 * Karta SD lub urządzenie USB.
-* [Instalator d2x cIOS](/assets/files/d2x-cIOS-Installer-Wii.zip)
+* [Instalator d2x cIOS](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
 Upewnij się, że przełącznik blokady zapisu na Twojej karcie SD jest odblokowany, inaczej nie będziesz mógł wybrać poprawnych opcji z instalatorze.
 {: .notice--warning}
@@ -27,7 +27,7 @@ Upewnij się, że przełącznik blokady zapisu na Twojej karcie SD jest odblokow
 
 ##### Sekcja I - Pobieranie
 
-1. Pobierz instalator d2x cIOS oraz wypakuj go do folderu `apps` na Twojej karcie SD lub urządzeniu USB.
+1. Pobierz "d2x cIOS Installer" i wypakuj go do karty pamięci lub dysku USB.
 1. Podłącz Twoją kartę SD lub urządzenie USB do Twojego Wii oraz uruchom instalator d2x cIOS korzystając z Homebrew Channel.
 
 ##### Sekcja II - Instalacja
@@ -59,6 +59,8 @@ Wybierz cIOS version: 65535
 ```
 ![Zainstaluj cIOS 251](/images/cios/Install251.png)
 1. Po ustawieniu, naciśnij przycisk A jeszcze raz, aby zainstalować, a następnie wyjdź po zakończeniu.
+
+#### Rozwiązywanie problemów
 
 {% capture bruh %}
 Chociaż większość gier powinna działać od razu z domyślnymi ustawieniami, niektóre mogą wymagać użycia określonego cIOS do działania lub wykorzystania niektórych funkcji w grze.<br> Przykłady to m.in:

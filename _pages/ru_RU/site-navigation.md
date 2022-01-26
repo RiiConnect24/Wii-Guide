@@ -25,10 +25,10 @@ sitemap: false
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 + [Kirby TV Channel](kirby-tv)
-+ [WiiWare Патчер](wiiwarepatcher)
-+ [Deleting VFFs](deleting-vffs)
-+ [Fixing FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [WiiWare Patcher](wiiwarepatcher)
++ [Удаление VFF](deleting-vffs)
++ [Решение ошибки FORE000006](riiconnect24-batteryfix)
++ [Решение ошибки NEWS000006](news000006)
 
 **Моддинг 101**
 + [BlueBomb](bluebomb)
@@ -45,9 +45,9 @@ sitemap: false
 **Homebrew**
 + [Создание ярлыков игр Wii](wiigsc)
 + [Как сделать дамп игры GameCube/Wii](dump-games)
-+ [Как сделать дамп канала (WADs)](dump-wads)
++ [Как сделать дамп канала (WAD)](dump-wads)
 + [Установка RSSMii](rssmii)
-+ [Установка Wii тем](themes)
++ [Установка тем Wii](themes)
 + [Выполнение SysCheck](syscheck)
 + [Удаление RSSMii](rssmii-remove)
 + [RiiTag](riitag)
@@ -56,13 +56,13 @@ sitemap: false
 + [WiiFlow](wiiflow)
 
 **Wii mini**
-+ [Установка Homebrew Канала на Wii mini](hbc-mini)
++ [Установка Homebrew Channel на Wii mini](hbc-mini)
 + [Установка cIOS на Wii mini](cios-mini)
 
 **Cайт**
 + [Домашняя страница](/)
-+ [Начало пути](начать)
-+ [Вопросы и Ответы](вопросы и ответы)
-+ [Отправить донат](donations)
++ [Начало работы](get-started)
++ [Вопросы и Ответы](faq)
++ [Пожертвования](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>

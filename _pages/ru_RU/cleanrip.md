@@ -1,16 +1,16 @@
 #### Что вам понадобится
 
-* An SD card or USB drive with at least 4.7 GB of free space
+* An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
 #### Инструкции
 
-##### Шаг I - Скачивание/Установка
+##### Часть I - Загрузка/Установка
 
 1. Extract CleanRip and put it in the `apps` folder on your SD card or USB drive.
 1. Insert your SD card into your Wii, and launch CleanRip from the Homebrew Channel.
 
-##### Section II - Ripping
+##### Часть II - Дампинг
 
 1. Select your device that you will be dumping the game to - your USB drive or SD card. ![Device type](/images/CleanRip/2.png)
 1. On this screen, it asks you if you want to download a file with game checksums so you can verify the dump created is a 1:1 copy of the disc. It's your choice whether to say `Yes` or `No` to download this file. ![DAT](/images/CleanRip/3.png)

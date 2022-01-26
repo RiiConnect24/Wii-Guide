@@ -12,16 +12,19 @@ Estás farto do tema branco aborrecido no teu Wii Menu e queres mudar para um te
 Em caso de brick, [é necessário ter instalado o Priiloader](priiloader). Instala também o BootMii (como Boot2 se tiveres uma Wii mais antiga). Instalar uma proteção contra brick seguindo o guia corretamente deverá manter-te protegido de bricks. NÃO CONTINUES SE NÃO TIVERES O PRIILOADER E O BOOTMII INSTALADO!
 {: .notice--warning}
 
-Não instales temas personalizados na vWii (Wii U), a menos que esteja formatado especificamente para vWii e para a região da tua Wii U! Vê [esta publicação no GBATemp](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) para mais temas vWii.
+This guide is intended for regular Wiis only. For installing themes on vWii (Wii U), follow [this page](themes-vwii).
 {: .notice--warning}
 
-Por razões de segurança, não utilizes qualquer outra versão do MyMenuify a não ser a que está aqui, já que o MyMenuify Mod é a maneira mais segura de instalar temas.
+Only install themes on your Wii that have been formatted specifically for it, and its current region. Installing themes from the wrong region or version on your Wii will cause a brick. This tutorial will tell you how to create a csm that is safe to install.
+{: .notice--danger}
+
+For safety purposes, please do not use any other version of MyMenuify than the one linked here, as MyMenuify Mod is the safest way to install a theme.
 {: .notice--info}
 
-Não utilizes qualquer outra versão do ThemeMii a não ser a que está aqui, já que o ThemeMii Mod permite que faças um tema para a versão 4.3 do Wii Menu, mas não para outras versões.
+Do not use any other version of ThemeMii than the one linked here, as ThemeMii Mod allows you to make a theme for Wii Menu version 4.3, other versions may not.
 {: .notice--info}
 
-Nós recomendamos que [instales cIOS](cios) antes de continuar.
+We recommend you [install cIOS](cios) before continuing.
 {: .notice--info}
 
 #### O que precisas
@@ -29,7 +32,7 @@ Nós recomendamos que [instales cIOS](cios) antes de continuar.
 * Uma Wii
 * Um cartão SD ou USB drive
 * Um computador com Windows (ou com Mono ou Wine em Mac/Linux)
-* [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
+* [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
 
 #### Theme Links
@@ -67,7 +70,7 @@ MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
 
 ##### Secção III - Instalar o Tema
 
-1. Extrai o MyMenuify e coloca-o na pasta `apps` no teu cartão SD ou USB drive.
+1. Extract MyMenuifyMod.zip to your SD card or USB drive.
 2. Coloca o ficheiro .csm que guardaste numa pasta chamada `modthemes` no teu cartão SD ou USB drive.
 3. Insere o teu cartão SD ou USB drive na tua Wii.
 4. Launch MyMenuify Mod from the Homebrew Channel.

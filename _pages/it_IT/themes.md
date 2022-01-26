@@ -12,16 +12,19 @@ Stanco del noioso, piatto tema bianco del Wii Menu, e vuoi invece un tema figo? 
 In caso di brick, [Installare Priiloader è necessario](priiloader). Installare anche BootMii (come Boot2 se hai già una Wii) Installare la protezione dai blocchi e seguire correttamente la guida ti tiene al sicuro da blocchi. Installare la protezione dai blocchi e seguire correttamente la guida ti tiene al sicuro da blocchi. NON CONTINUARE FINO A CHE NON HAI PRIILOADER E BOOTMII INSTALLATI!
 {: .notice--warning}
 
-Non installare un tema personalizzato su un vWii (Wii U), almeno che esso non sia stato formattato specificamente per la regione del vWii e della Wii U! Guarda [questo post su GBATemp](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) per più informazioni sui temi sul vWii.
+This guide is intended for regular Wiis only. For installing themes on vWii (Wii U), follow [this page](themes-vwii).
 {: .notice--warning}
 
-Per sicurezza, non usare altre versioni di MyMenuify fuorché quella indicata qui, MyMenuify Mod è il modo più sicuro per installare un tema.
+Only install themes on your Wii that have been formatted specifically for it, and its current region. Installing themes from the wrong region or version on your Wii will cause a brick. This tutorial will tell you how to create a csm that is safe to install.
+{: .notice--danger}
+
+For safety purposes, please do not use any other version of MyMenuify than the one linked here, as MyMenuify Mod is the safest way to install a theme.
 {: .notice--info}
 
-Non usare altre versioni di ThemeMii fuorché quella indicata qui, ThemeMii Mod ti permette di creare temi per Wii Menu versione 4.3, non altre versioni.
+Do not use any other version of ThemeMii than the one linked here, as ThemeMii Mod allows you to make a theme for Wii Menu version 4.3, other versions may not.
 {: .notice--info}
 
-Raccomandiamo [installa cIOS](cios) prima di continuare.
+We recommend you [install cIOS](cios) before continuing.
 {: .notice--info}
 
 #### Ciò di cui hai bisogno
@@ -29,12 +32,12 @@ Raccomandiamo [installa cIOS](cios) prima di continuare.
 * Una Wii
 * Una scheda SD o una chiavetta USB
 * Un computer con Windows (oppure usare Mono o Wine su un Mac/Linux)
-* [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
+* [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
 
 #### Link per dei Temi
 
-Per trovare dei temi da installare, ecco qui 3 siti:
+To find themes to install, here are 3 resources:
 
 * [Repository di Google Drive](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
 * [Pagina di temi RiiConnect24](https://rc24.xyz/goodies/themes/)
@@ -67,12 +70,12 @@ ASSICURATI DI LEGGERE GLI AVVISI DI SICUREZZA SOPRA PRIMA DI CONTINUARE!
 
 ##### Sezione 3 - Installare il Tema
 
-1. Estrai MyMenuify Mod e mettilo nella cartella `apps` della tua scheda SD o dispositivo USB.
+1. Extract MyMenuifyMod.zip to your SD card or USB drive.
 2. Metti il file .csm che hai salvato nella cartella chiamata `modthemes` sulla tua scheda SD o dispositivo USB.
 3. Inserisci la tua scheda SD o dispositivo USB dentro la tua Wii.
 4. Avvia MyMenuify Mod dall'Hombrew Channel.
 5. Dopo un messaggio di inttroduzione, ti chiederà quale IOS vuoi usare nell'app. Se hai [installato i cIOS](cios), usa l'`IOS249`, oppure usa `IOS58`. Se il primo dà un errore chiamato `Exception DSI occurred!`, premi Reset sulla Wii, avvialo ancora, e prova `IOS250`.
 6. Evidenzia il tema che vuoi installare, poi premi A. Dagli un momento per installare il tema, poi premi ogni tasto per tornare al Menu Wii. Si spera che il tema è stato installato correttamente.
 
-Se ricevi l'errore "I file di sistema sono corrotti", non allarmarti se hai installato Priiloader. Spegni la tua Wii, e accendila nuovamente mentre tieni premuto anche il pulsante RESET. Si aprirà il menù di BootMii, nel quale avrai una varietà di opzioni per aggiustare la tua Wii. Una delle opzioni è di avviare l'Hombrew Channel, da cui puoi avviare MyMenuify Mod e premere un tasto per scaricare il tema originale del Menu Wii.
+If you get an error saying "The system files are corrupted" or a black screen, don't panic as long as you installed Priiloader. Spegni la tua Wii, e accendila nuovamente mentre tieni premuto anche il pulsante RESET. Si aprirà il menù di BootMii, nel quale avrai una varietà di opzioni per aggiustare la tua Wii. One of the options is to launch the Homebrew Channel, where you can launch MyMenuify Mod and press a button to download and install the original Wii Menu theme.
 {: .notice--info}

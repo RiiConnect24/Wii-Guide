@@ -2,70 +2,72 @@
 title: "cIOS"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sisällysluettelo" %}
 
 Tämä opas kertoo sinulle, kuinka asentaa cIOS (custom IOS). Tämä vaaditaan, jos haluat käynnistää pelejä USB-lataajan kautta. Jotkut homebrew-ohjelmat saattavat toimia paremmin cIOS:ia käyttämällä.
 
-![d2x cIOS Installer](/images/cios/cIOS.png)
+![d2x cIOS Asentaja](/images/cios/cIOS.png)
 
-If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
+Jos sinulla on Wii U (vWii), seuraa [tätä opasta](https://wiiu.hacks.guide/#/vwii-modding) asentaaksesi cIOS:än. Jos yrität asentaa muita cIOS:iä vWii:lle se ei tule toimimaan.
 {: .notice--info}
 
-If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
+Jos sinulla on Wii mini, asenna [tämä cIOS](cios-mini). Jos yrität asentaa muita cIOS:ia Wii minille se ei tule toimimaan.
 {: .notice--info}
 
 #### Mitä tarvitset
 
 * Wii internetyhteydellä
 * SD-kortti tai USB-asema
-* [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
+* [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
-Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
+Jos käytät SD-korttia, varmista, että lukituskytkin on auki-asennossa, tai muuten et pysty valitsemaan oikeita asetuksia asennusohjelmassa
 {: .notice--warning}
 
 #### Ohjeet
 
 ##### Osa I - Lataaminen
 
-1. Lataa d2x cIOS Installer ja pura se `apps` kansioon SD-kortillesi tai USB-asemallesi.
+1. Download d2x cIOS Installer and extract it to your SD card or USB drive.
 1. Liitä SD-korttisi tai USB-asemasi Wii-konsoliisi ja käynnistä d2x cIOS Installer Homebrew Channelista.
 
 ##### Osa II - Asentaminen
 
 1. Paina continue, sitten aseta vaihtoehdot seuraavasti:
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 57
-Select cIOS slot: 249
-Select cIOS version: 65535
+Valitse cIOS: v10 beta52 d2x-v10-beta52
+Valitse cIOS base: 57
+Valitse cIOS slot: 249
+Valitse cIOS versio: 65535
 ```
-![Install cIOS 249](/images/cios/Install249.png)
+![Asenna cIOS 249](/images/cios/Install249.png)
 1. Kun asetettu, paina A:ta kahdesti asentaaksesi.
 1. Kun asennus on valmis, paina A:ta palataksesi ja aseta vaihtoehdot seuraavasti:
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 56
-Select cIOS slot: 250
-Select cIOS version: 65535
+Valitse cIOS: v10 beta52 d2x-v10-beta52
+Valitse cIOS base: 56
+Valitse cIOS slot: 250
+Valitse cIOS versio: 65535
 ```
-![Install cIOS 250](/images/cios/Install250.png)
+![Asenna cIOS 250](/images/cios/Install250.png)
 1. Kun asetettu, paina A:ta kahdesti asentaaksesi.
 1. Kun asennus on valmis, paina A:ta palataksesi ja aseta vaihtoehdot seuraavasti:
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 38
-Select cIOS slot: 251
-Select cIOS version: 65535
+Valitse cIOS: v10 beta52 d2x-v10-beta52
+Valitse cIOS base: 38
+Valitse cIOS slot: 251
+Valitse cIOS versio: 65535
 ```
-![Install cIOS 251](/images/cios/Install251.png)
+![Asenna cIOS 251](/images/cios/Install251.png)
 1. Kun asetettu, paina A:ta kahdesti asentaaksesi ja sen jälkeen poistu, kun valmista.
 
+#### Vianmääritys
+
 {% capture bruh %}
-Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
+Vaikka suurin osa peleistä pitäisi toimia oletusarvoilla, jotkut saattavat vaatia tiettyä cIOS toimiakseen, tai käyttää tiettyjä ominaisuuksia pelin sisällä.<br> Esimerkkejä ovat seuraavat:
 * Näppäimistön käyttäminen Animal Crossing: Let’s Go to the Cityssä.
 * SpongeBob's Boating Bashin käynnistäminen.
 
-A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
+Kattavampi (vaikkakin vielä keskeneräinen) lista löytyy [**täältä**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> Muuttaaksesi tiettyä peliä varten käytettyä cIOS-järjestelmää, noudata näitä ohjeita:
 {% endcapture %}
 <div class="notice--warning">{{ bruh | markdownify }}</div>
 
@@ -74,23 +76,23 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
 1. Valitse peli, joka ei toimi.
-1. Click Settings.
-1. Select `Game Load`.
-1. Scroll down to `Game IOS`.
-1. Enter the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
-1. Press ok and try to load the game.
+1. Valitse Asetukset.
+1. Valitse `Game Load`.
+1. Scrollaa alas kohtaan `Game IOS`.
+1. Syötä IOS Slotti jota haluat käyttää.
+    - Kokeile käyttää 250 tai 251, jos 249 ei toimi.
+1. Paina ok ja yritä käynnistää peli.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. Valitse peli, joka ei toimi.
-1. Click the gear icon.
-1. Go to cIOS and use the arrows to select the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
-1. Press Save and try to load the game.
+1. Napsauta ratas kuvaketta.
+1. Mene cIOS kohtaan ja käytä nuolia valita IOS-slot jota haluat käyttää.
+    - Kokeile käyttää 250 tai 251, jos 249 ei toimi.
+1. Paina Save ja yritä käynnistää peli.
 </div>
 ##### Vaihtoehdot, kun valmista
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. Tämän asentaminen on vapaaehtoista.
+[Jatka Homebrew Browseriin](hbb)<br> Homebrew Browser on hyvä paikka hankkia homebrew-sovelluksia Wiillesi. Tämän asentaminen on vapaaehtoista.
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.

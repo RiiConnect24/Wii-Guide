@@ -12,12 +12,12 @@ Syscheck, Wii'nizde bulunan bütün IOS ve cIOS dosyalarını bilgileriyle birli
 #### İhtiyacınız olan şeyler
 
 * SD Kart veya USB sürücü
-* [SysCheck HacksDen Edition](/assets/files/SysCheckHDE.zip)
+* [SysCheck HacksDen Edition](https://hbb1.oscwii.org/hbb/SysCheckHDE/SysCheckHDE.zip)
 
 #### Talimatlar
 ##### Bölüm I - İndirme/Yükleme
 
-1. SysCheck HacksDen Edition'ı çıkartın ve SD Kart ya da USB sürücünüzdeki `apps` klasörüne koyun.
+1. Extract SysCheck HacksDen Edition to your SD card or USB drive.
 2. USB sürücünüzü veya SD Kartınızı Wii’nize takın ve SysCheck HacksDen Edition’ı Homebrew Channel’dan başlatın.
 
 ##### Bölüm II - SysCheck Gerçekleştirme

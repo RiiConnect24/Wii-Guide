@@ -1,6 +1,6 @@
 #### Będziesz potrzebował:
 
-* Kartę SD lub Dysk USB / pendrive z przynajmniej 4.7GB wolnej przestrzeni.
+* Karta pamięci lub dysk USB z conajmiej 4.7 GB wolnego miejsca (8.5GB jeśli gra jest dyskiem dwuwarstwowym).
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
 #### Instrukcje

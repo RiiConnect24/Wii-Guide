@@ -92,7 +92,7 @@ You will now set your DNS to our servers. This is optional but it's recommended,
 13. Go to `WiiConnect24`, then `WiiConnect24` again, and make sure it is enabled.
 14. Back on the WiiConnect24 menu, go to `Standby Connection` and make sure it is enabled.
 15. At `Slot Illumination`, we recommend you set the disc light to `Dim` or `Bright`, but this is optional.
-16. Finally, go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`. Please read through this.
+16. Finally, go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`. Please read through this. (If you see User Agreements without RiiConnect24's logo, that means using our DNS won't work. You can set `Auto-Obtain` DNS to `On` if that's the case. RiiConnect24 will still work without it.)
 
 
 [Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
@@ -108,13 +108,13 @@ If you get error 107304, then you cannot use our DNS. This will not affect your 
 {: .notice--info}
 
 If you get error FORE000006, your Wii's clock is probably set incorrectly. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel should start working.
-{: .notice--waarschuwing}
+{: .notice--warning}
 
 [If you're experiencing issues with the Forecast Channel, News Channel, or Wii Mail then following this tutorial might fix your problem.](deleting-vffs)
-{: .notice--waarschuwing}
+{: .notice--warning}
 
 If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
-{: .notice--waarschuwing}
+{: .notice--warning}
 
 [Ga door naar de sitenavigatie](site-navigation)<br> We hebben vele andere tutorials die u wellicht interessant vindt.
 {: .notice--info}

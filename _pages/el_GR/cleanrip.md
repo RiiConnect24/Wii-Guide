@@ -1,6 +1,6 @@
 #### Τι χρειάζεστε
 
-* Μία κάρτα SD/μέσο USB με τουλάχιστον 4.7 GB ελεύθερου χώρου
+* An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
 * [Το CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
 #### Οδηγίες

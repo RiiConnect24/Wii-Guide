@@ -18,7 +18,7 @@ Eğer Wii mini’niz varsa [bu rehberi](cios-mini) takip edin. Wii mini’ye ba�
 
 * İnternet bağlantısına sahip bir Wii
 * SD Kart veya USB sürücü
-* [d2x cIOS Yükleyici](/assets/files/d2x-cIOS-Installer-Wii.zip)
+* [d2x cIOS Yükleyici](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
 Eğer SD Kart kullanıyorsanız, SD Kartınızın kilidinin açık olduğundan emin olun. Öbür türlü yükleyici de doğru seçenekleri seçemezsiniz.
 {: .notice--warning}
@@ -27,7 +27,7 @@ Eğer SD Kart kullanıyorsanız, SD Kartınızın kilidinin açık olduğundan e
 
 ##### Bölüm I - İndirme
 
-1. d2xl cIOS Yükleyici’yi indirin ve SD kart veya USB sürücünüzde bulunan `apps` klasörüne çıkartın.
+1. Download d2x cIOS Installer and extract it to your SD card or USB drive.
 1. USB sürücünüzü veya SD Kartınızı Wii’nize takın ve d2xl cIOS Yükleyicisi’ni Homebrew Channel’dan başlatın.
 
 ##### Bölüm II - Yükleme
@@ -59,6 +59,8 @@ Select cIOS version: 65535
 ```
 ![cIOS 251 yükle](/images/cios/Install251.png)
 1. Ayarlandığında yüklemek için iki kere A’ya basın ve çıkmak için bir kere basın.
+
+#### Troubleshooting
 
 {% capture bruh %}
 Oyunların ezici çoğunluğu varsayılan ile doğrudan çalışsa da bazı oyunlar spesifik cIOS’lar gerektirebilmektedir.<br>Misalen:

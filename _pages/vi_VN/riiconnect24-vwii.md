@@ -38,9 +38,6 @@ After following the above linked guide, you should have:
 
 #### Instructions
 
-If you use cannot use the patcher, please [follow the manual guide](https://pad.snopyta.org/s/rJ2N0B1XU), to install RiiConnect24. The end result is the same regardless of the method followed.
-{: .notice--info}
-
 ##### Section I - Running the patcher
 
 Using the RiiConnect24 Patcher you should've downloaded earlier in [What you need](#what-you-need), you will be downloading and patching IOS31, News, Everybody Votes, Nintendo and Check Mii Out Channels for use on your vWii.

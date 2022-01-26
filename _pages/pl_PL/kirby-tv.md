@@ -24,20 +24,20 @@ Striim Network to usługa służąca przywróceniu kanałów wspierających odtw
 1. Pobierz plik wykonywalny dla twojej architektury i systemu operacyjnego.
 2. Uruchom plik wykonywalny, a następnie naciśnij `1` dwukrotnie, aby rozpocząć proces patchowania.
 3. Po zakończeniu WAD będzie w folderze `WAD`, który znajduje się w tym samym katalogu co plik wykonywalny.
-4. Move the `WAD` folder to the root of your SD Card.
+4. Przenieś folder `WAD` z folderu głównego na Twojej karcie pamięci.
 5. Używając Twojego kontrolera, przejdź do `WAD Manager` oraz wejdź do folderu `wad`.
 6. Otwórz Homebrew Channel na Twoim Wii.
 7. Po ukońzconej pomyślnie instalacji, naciśnij przycisk HOME aby wyjść do Homebrew Channel.
 8. Używając Twojego kontrolera, przejdź do `WAD Manager` oraz wejdź do folderu `wad`.
-9. Highlight the WAD named `Kirby-TV-Channel-Patched(Striim).wad`, then press the `A` button to install.
-10. When the WAD successfully installs, return to the Wii Menu and launch the channel.
+9. Podświetl WAD o nazwie `Kirby-TV-Channel-Patched(Striim).wad`, a następnie naciśnij przycisk `A`, aby zainstalować.
+10. Kiedy WAD zostanie pomyślnie zainstalowany, wróć do Wii Menu i uruchom kanał.
 
 
 
 [RiiConnect24](riiconnect24) jest serwisem, który pozwala Ci korzystać z już niewspieranego serwisu jakim jest WiiConnect24. Pozwala on korzystać z News Channel, Forecast Channel, Everybody Votes Channel jak i również Check Mii Out Channel oraz Wii Mail. Jest to opcjonalny krok.
 {: .notice--info}
 
-[Continue to WiiLink](wiilink)<br> WiiLink allows you to use the discontinued Japanese channels, such as Wii no Ma and the Digicam Print Channel. Jest to opcjonalny krok.
+[Kontynuuj do WiiLink'a](wiilink)<br> WiiLink umożliwi Ci używanie kanałów eksluzywnych do Japoni, takie jak: Wii No Ma i Digicam Print Channel. Jest to opcjonalny krok.
 {: .notice--info}
 
 [Przejdź do strony przeznaczonej instalacji Wiimmfi](wiimmfi)<br> Wiimmfi pozwala Ci na granie w gry online po zakończeniu wsparcia serwisu Nintendo Wi-Fi Connection. Jest to opcjonalny krok.

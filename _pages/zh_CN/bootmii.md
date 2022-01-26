@@ -33,19 +33,16 @@ If you have BootMii installed as boot2 you will need to launch BootMii by restar
     If the screen stays black and the blue disc drive light is blinking, you are missing the BootMii files on your SD card. Download [this zip](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again. Download [this zip](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
     {: .notice--warning}
 
-3. 选择设置按钮。 （带齿轮那个）
-4. 选择BackupMii按钮（绿色的那个）。
+3. Select the Options button (the icon with the gears).
+4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left).
 - NAND备份会开始。 你可以观看屏幕上的过程。
 - "损坏区域"是正常的。 Don't worry when you see some on a NAND backup.
 - 在这一步后，它会验证这个备份。 即使是推荐的，但是你可以按EJECT按钮跳过。
 5. 当备份完全完成后，按任何按键退出NAND备份。
 6. 要退出BootMii，按下Back按钮（有箭头的那个）然后你可以按下Wii菜单按钮或者HBC按钮来退出。
 
-
-<!---
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). This is useful in the unlikely case you brick your Wii.
 {: .notice--info}
--->
 
 [Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
 {: .notice--info}

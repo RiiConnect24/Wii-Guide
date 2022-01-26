@@ -32,8 +32,36 @@ Jeśli nie masz karty SD, nie możesz zainstalować ani używać BootMii, i w zw
 
 8. Po zakończeniu wybierz `Continue`, a następnie wybierz `Exit` aby przejść do Homebrew Channel
 
-[Przejdź do wykonywania kopii zapasowej korzystając z BootMii](bootmii)<br>. Zalecamy teraz wykonanie kopii zapasowej pamięci NAND.
+#### Wymagane czytanie
+
+Teraz możesz użyć kanału Homebrew, by uruchamiać aplikacje Homebrew. Open Shop Channel jest punktem pobierania aplikacji Homebrew, który potem się dowiesz jak tam instalować dalej w tym poradniku.
+
+Taka wskazówka - kiedy instalujesz aplikacje Homebrew na twojej karcie pamięci lub dysku USB, twoja struktura folderów powinna wyglądać tak:
+
+💾 karta pamięci lub usb:
+
+┣ 📂 apps
+
+┃ ┣ 📂 NazwaAplikacji1
+
+┃ ┃ ┣ 📄 boot.dol / boot.elf
+
+┃ ┃ ┣ 📄 icon.png
+
+┃ ┃ ┗ 📄 meta.xml
+
+┃ ┗ 📂NazwaAplikacji2
+
+┃ ┃ ┣ 📄 boot.dol / boot.elf
+
+┃ ┃ ┣ 📄 icon.png
+
+┃ ┃ ┗ 📄 meta.xml
+
+`NazwaAplikacji1` i`NazwaAplikacji2` są nazwami zastępczymi. Nie zagnieżdżaj kilku `folderów` aplikacji w środku w tym samym folderze`apps`.
+
+[Kontynuuj robienie kopii zapasowej używając BootMii](bootmii)<br> Zrobienie kopii zapasowej pamięci NAND jest teraz bardzo zalecana.
 {: .notice--info}
 
-Jeśli nie udało ci się zainstalować BootMii, przejdź do [instalacji Priiloader'a](priiloader).
+Jeśli nie mogłeś zainstalować BootMii, to kontynuuj [instalowanie priiloader](priiloader).
 {: .notice--info}

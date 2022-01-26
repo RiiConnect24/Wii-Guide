@@ -33,19 +33,16 @@ Se você instalou o BootMii como Boot2 na última etapa, será necessário inici
     Se a tela ficar preta e a luz azul do disco estiver piscando, quer dizer que está faltando os arquivos BootMii no seu SD card. Baixe [este zip](https://static.hackmii.com/bootmii_sd_files.zip) e extraia-o para a raiz do seu cartão SD e tente novamente. Baixe [este zip](https://static.hackmii.com/bootmii_sd_files.zip) e extraia-o para a raiz do seu cartão SD e tente novamente.
     {: .notice--warning}
 
-3. Selecione o botão de Opções (aquele com as engrenagens).
-4. Selecione o botão de BackupMii (aquele com uma seta verde).
+3. Select the Options button (the icon with the gears).
+4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left).
 - Um backup da NAND será iniciado. Você pode acompanhar o progresso na tela.
 - "Bad Blocks" são normais. Não se preocupe quando você ver um em uma backup da NAND.
 - Depois desta etapa, o backup irá ser verificado. Embora seja recomendado, você pode pular pressionando o botão EJECT no seu Wii.
 5. Quando o backup for totalmente finalizado, saia da tela de backup da NAND pressionando qualquer botão.
 6. Para sair do BootMii, pressione o botão voltar (aquele com a seta) e em seguida você pode pressionar o botão de Menu do Wii ou o Homebrew Channel para sair para onde deseja.
 
-
-<!---
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). Isso é útil caso seu wii esteja com brick.
 {: .notice--info}
--->
 
-[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
+[Continue para a instalação do priiloader](priiloader) Priiloader adiciona uma proteção a mais contra bricks, nós recomendamos ele, especialmente se você só pode instalar o bootmii como ios.
 {: .notice--info}

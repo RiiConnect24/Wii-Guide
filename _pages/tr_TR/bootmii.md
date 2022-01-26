@@ -33,19 +33,16 @@ Eğer BootMii’yi boot2 olarak yüklediyseniz, BootMii’yi başlatabilmek içi
     Eğer ekran siyah kalırsa ve mavi disk sürücüsü ışığı yanıp sönüyorsa SD Kartınızdaki BootMii dosyaları eksiktir. [Bu zip dosyasını](https://static.hackmii.com/bootmii_sd_files.zip) indirin ve dosyaları SD Kartınıza çıkartıp tekrar deneyin.
     {: .notice--warning}
 
-3. Seçenekler kısmını (dişli olan) seçin.
-4. BackupMii seçeneğini (yeşil ok olan) seçin.
+3. Select the Options button (the icon with the gears).
+4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left).
 - NAND yedeklemesi başlayacaktır. İlerlemeyi ekrandan takip edebilirsiniz.
 - “Bozuk kesimler” normaldir. NAND yedeklemesinde gördüğünüz zaman endişelenmeyin.
 - Bu adımdan sonra, yedekleme doğrulanacaktır. Her ne kadar tavsiye etsek de Wii’nizden EJECT tuşuna basarak bu adımı atlayabilirsiniz.
 5. Yedekleme tamamlandığında, herhangi bir tuşa basarak NAND yedeklemesi ekranından çıkın.
 6. BootMii’den çıkmak için, lütfen Geri tuşuna (ok olan) basın ve dilerseniz Wii Menü’ye dilerseniz de Homebrew Channel’a çıkın.
 
-
-<!---
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). This is useful in the unlikely case you brick your Wii.
 {: .notice--info}
--->
 
-[Priiloader Yüklemesi’nden devam edin](priiloader) Priiloader brick korumasına güç sağlar. Özellikle sadece BootMii IOS yükleyebiliyorsanız; bu adımı uygulamanızı kesinlikle öneririz.
+[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
 {: .notice--info}

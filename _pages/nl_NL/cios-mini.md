@@ -46,8 +46,11 @@ Take a note of the version number under notes (`IOS57-64-` ending in either `v31
 ##### Een internetkabel activeren
 Als u Wiimmfi met een internetkabel wilt gebruiken op uw Wii dan moet u [deze](/assets/files/Wii_Mini_Ethernet_Enable.zip) homebrew applicatie installeren op uw Wii mini, deze applicatie is gemaakt door Fullmetal5. Om de aplicatie te insatlleren moet u het bestand uitpakken in de `apps` map op uw USB-stick of harde schijf, u kunt de applicatie nu openen via het Homebrew Kanaal op uw Wii mini.
 
-Do not attempt to install a Wii IOS or System Menu on the Wii mini. Als u dit doet hebt u een grootte kans dat u uw Wii mini brickt.
-{: .notice--waarschuwing}
+The Wii and Wii mini consoles are only known to work with Ethernet adapters using the AX88772 chip. Please check that the product is compatible before you buy. This one from UGREEN is known to be compatible: [Amazon Europe](https://www.amazon.de/dp/B00MYT481C), [Amazon US](https://www.amazon.com/dp/B08DRKYKMM/)
+{: .notice--info}
+
+Do not attempt to install a Wii IOS or System Menu on the Wii mini. Doing so will likely brick your console.
+{: .notice--warning}
 
 You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: .notice--info}

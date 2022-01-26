@@ -7,33 +7,33 @@ title: "Priiloader"
 Se hai bisogno di qualsiasi informazione riguardante questo tutorial, entra nel [server discord di RiiConnect24 ](https://discord.gg/rc24)(raccomandato) oppure [scrivici una mail a support@riconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-PriiLoader aggiunge un livello di protezione da brick alla tua Wii. Si carica prima del menù Wii (da li il nome). Lo strumento può anche abilitare hack per il tuo Menù Wii, e può essere usato facilmente dall'Homebrew Channel, BootMii, o da qualunque altro homebrew!
+PriiLoader aggiunge un livello di protezione da brick alla tua Wii. Si carica prima del menù Wii (da li il nome). Lo strumento può anche abilitare hack per il tuo Menù Wii, e può essere usato facilmente dal Canale Homebrew, BootMii, o qualsiasi altra app homebrew!
 
 ![Priiloader](/images/priiloader.jpg)
 
-Ti preghiamo di **non** installare Priiloader su una Virtual Wii (modalità Wii su Wii U). Brickerai la tua Virtual Wii facendolo.
+Ti preghiamo di **non** installare Priiloader su una Virtual Wii (modalità Wii su Wii U). Briccerai la tua Virtual Wii facendolo.
 {: .notice--warning}
 
 #### Di cosa hai bisogno
 * Una scheda SD o chiavetta USB
-* [Priiloader installer](/assets/files/Priiloader_v0_9_1.zip)
+* [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
 #### Istruzioni
 ##### Sezione 1 - Scaricando/Installando
 
-1. Scarica Priiloader installer ed estrailo nella cartella `apps` nella tua scheda SD o nel tuo drive USB.
+1. Download the Priiloader installer and extract it to your SD card or USB drive.
     * Se questa cartella non esiste, creala.
 
 ##### Sezione 2 - Installare Priiloader
 
-1. Carica l'Homebrew Channel sulla tua Wii.
+1. Carica il Canale Homebrew sulla tua Wii.
 2. Avvia il Priiloader installer.
 3. Premi il pulsante + sul Wii Remote o il pulsante A su un controller GameCube. ![Installare Priiloader](/images/Priiloader/installer.png) ![Installare](/images/Priiloader/installing.png)
 
 ##### Sezione 3 - Entrare/Configurare Priiloader
 
 1. Tieni premuto il tasto RESET mentre stai avviando la tua Wii.
-    * Se stai uando una WIi mini, collega una tastiera USB e premi premuto ESC mentre la stai avviando.
+    * Se stai usando una Wii mini, collega una tastiera USB e premi premuto ESC mentre la stai avviando.
 
 ![Accendere](/images/Priiloader/on.jpg) ![Tenere premuto RESET](/images/Priiloader/reset.jpg)
 
@@ -44,8 +44,8 @@ Se stai utilizzando un'unità USB per installare Priiloader, assicurarsi di non 
 {: .notice--info}
 
 4. Consigliamo di attivare ognuna dei seguenti hack: `Region Free EVERYTHING`, `Block Disc Updates` e `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
-1. Vai giù e seleziona `save settings` e premi A, poi premi B per tornare indietro nel menu principale di Priiloader.
-1. Vai giù e seleziona `Hombrew Channel` e premi A per avviarlo.
+1. Vai giù e seleziona `Save settings` e premi A, poi premi B per tornare indietro nel menu principale di Priiloader.
+1. Vai giù e seleziona `Homebrew Channel` e premi A per avviarlo.
 
 ## Lista dei System Menu Hacks
 
@@ -77,11 +77,11 @@ Questa è una lista di hack che puoi attivare con Priiloader.
 | Force Disc Games to run under IOS249    | Imposta il cIOS 249 come l'IOS del gioco avviato da un disco. Mentre questo non può abilitare giocare a giochi masterizzati in casa, è necessario per giocare dischi masterizzati. (Può darti l'errore 002 su un gioco non masterizzato) |
 
 
-Continue to installing cIOS<br> cIOS are used to play games with a USB Loader. È utile anche per molte altre applicazioni homebrew.
+Continua con l'installazione di cIOS<br> cIOS è utilizzato per giocare a giochi con un USB Loader. È utile anche per molte altre applicazioni homebrew.
 {: .notice--info}
 
-Se stai usando una Wii Mini, segui [questa guida](cios-mini) per installare i cIOS
+If using a regular Wii, follow [this guide](cios) to install cIOS
 {: .notice--info}
 
-Se stau usando una Wii normale, segui [questa guida](cios) per installare cIOS
+If using a Wii mini, follow [this guide](cios-mini) to install cIOS
 {: .notice--info}

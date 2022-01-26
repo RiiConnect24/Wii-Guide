@@ -16,7 +16,7 @@ Homebrew Browser, pe care se bazează Open Shop Channel, funcționează dar poat
 
 #### Instrucțiuni
 
-1. Extrage Homebrew Browser și pune-l în fișierul `apps` din cardul tău SD sau unitatea ta USB.
+1. Extrage Homebrew Browser și pune-l în dosarul `apps` din cardul tău SD sau unitatea ta USB.
 2. Introdu cardul tău SD sau unitatea ta USB în Wii. Acum poți porni Homebrew Browser din Homebrew Channel dacă vrei.
 
 [Continuă la RiiConnect24](riiconnect24)<br> Riiconnect24 îți permite să folosești servicii întrerupte de la WiiConnect24, care includ News, Forecast, Everybody Votes, Nintendo și Mii Contest Channel, împreună cu Wii Mail. Acesta este opțional de instalat.

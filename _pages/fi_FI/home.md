@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Wii Guide"
+title: "Wii Opas"
 header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
@@ -31,15 +31,15 @@ Tässä on lista asioista, joita voit tehdä käyttämällä homebrew:ta. Vaikka
 - Palauta lopetetut online-palvelut, kuten [WiiConnect24](riiconnect24) & [Nintendo WFC palvelut](wiimmfi).
 - Varmuuskopioi ja palauta kopioita Wii:si järjestelmämuistista (NAND) käyttämällä [BootMii](bootmii):ta.
 - Suojaa Wii:täsi muuttumasta tiiliskiveksi [Priiloader](priiloader):n ja BootMii:n avulla.
-- Muuta Wii:si mediasoittimeksi [WiiMC](http://www.wiimc.org/):n avulla.
+- Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
 
 
-## Ready?
+## Oletko valmis?
 
 Aloita [valitsemalla exploit:isi](get-started)!
 {: .notice--info}
 
-## More Resources
+## Lisää Resursseja
 
 Wii:n modaamiseen ja ongelmanratkaisuun on myös olemassa muutamia muita hyviä resursseja, jotka voivat auttaa:
 

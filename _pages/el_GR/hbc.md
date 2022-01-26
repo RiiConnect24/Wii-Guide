@@ -32,6 +32,34 @@ If you do not have an SD card, you cannot install or use BootMii, and therefore 
 
 8. Όταν είστε έτοιμοι επιλέξτε`Continue`, και μετά επιλέξτε`Exit`για να πάτε στο Homebrew Channel
 
+#### Required Reading
+
+You can now use the Homebrew Channel to launch homebrew apps. Open Shop Channel is a one-stop shop for downloading homebrew, which you will learn how to install further in this guide.
+
+Here's a tip - when installing homebrew applications on your SD Card or USB drive, your folder structure should look like this:
+
+💾 sd or usb:
+
+┣ 📂 apps
+
+┃ ┣ 📂 AppName1
+
+┃ ┃ ┣ 📄 boot.dol / boot.elf
+
+┃ ┃ ┣ 📄 icon.png
+
+┃ ┃ ┗ 📄 meta.xml
+
+┃ ┗ 📂AppName2
+
+┃ ┃ ┣ 📄 boot.dol / boot.elf
+
+┃ ┃ ┣ 📄 icon.png
+
+┃ ┃ ┗ 📄 meta.xml
+
+`AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
+
 [Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
 {: .notice--info}
 

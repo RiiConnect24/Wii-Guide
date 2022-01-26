@@ -11,12 +11,12 @@ Bu öğretici, Wii Sistem Hafızasında bulunan WAD dosyalarının dökümünün
 
 #### Gereksinimler
 * SD Kart veya USB sürücü
-* [Yet Another BlueDump MOD](/assets/files/YABDM.zip)
+* [Yet Another BlueDump MOD](https://hbb1.oscwii.org/hbb/Yet-Another-BlueDump-Mod/Yet-Another-BlueDump-Mod.zip)
 
 #### Talimatlar
 ##### Bölüm I - İndirme/Yükleme
 
-1. Yet Another BlueDump MOD‘u çıkartın ve SD Kart ya da USB sürücünüzdeki `apps` klasörüne koyun.
+1. Extract Yet Another BlueDump MOD to your SD card or USB drive.
 2. USB sürücünüzü veya SD Kartınızı Wii’nize takın ve Yet Another BlueDump MOD‘u Homebrew Channel’dan başlatın.
 
 ##### Bölüm II - Döküm alımı

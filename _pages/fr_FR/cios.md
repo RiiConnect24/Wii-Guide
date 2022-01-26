@@ -18,7 +18,7 @@ Si vous avez une Wii mini, installez [ce cIOS](cios-mini) à la place. Tenter d'
 
 * Une Wii avec une connexion Internet
 * Une carte SD ou un périphérique USB
-* [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
+* [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
 Assurez-vous que si vous utilisez une carte SD, le commutateur de verrouillage est en position de déverrouillage sinon vous ne serez pas en mesure de sélectionner les bonnes options dans l'installateur
 {: .notice--warning}
@@ -27,12 +27,12 @@ Assurez-vous que si vous utilisez une carte SD, le commutateur de verrouillage e
 
 ##### Section I - Téléchargement
 
-1. Téléchargez le programme d'installation d2x cIOS et décompressez-le dans le dossier `apps` de votre carte SD ou périphérique USB.
-1. Insérez votre carte SD ou votre périphérique USB dans votre Wii, et lancez d2x cIOS Installer depuis Homebrew Channel.
+1. Téléchargez d2x cIOS Installer et extrayez-le sur votre carte SD ou votre lecteur USB.
+1. Insérez votre carte SD ou votre périphérique USB dans votre Wii, et lancez d2x cIOS Installer depuis La chaîne homebrew.
 
 ##### Section II - Installation
 
-1. Appuyez sur continuer, appliquez ensuite les options suivantes:
+1. Appuyez sur continuer, ensuite appliquez les options suivantes:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 57
@@ -60,6 +60,8 @@ Select cIOS version: 65535
 ![Installer cIOS 251](/images/cios/Install251.png)
 1. Une fois ces paramètres définis, appuyez à nouveau sur A deux fois pour installer, puis quittez lorsque c'est terminé.
 
+#### Dépannage
+
 {% capture bruh %}
 Même si la majorité des jeux devraient fonctionner immédiatement avec les valeurs par défaut, certains peuvent nécessiter l'utilisation d'un cIOS spécifique pour fonctionner, ou pour utiliser certaines fonctionnalités dans le jeu.<br> Les exemples comprennent :
 * Utilisation d'un clavier dans Animal Crossing : City Folk.
@@ -73,20 +75,20 @@ Une liste plus complète (bien que toujours incomplète) peut être trouvée [**
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
-1. !!crwdP_24_Pdwrc!!Sélectionnez le jeu qui ne fonctionne pas.
-1. Cliquez sur `Settings`.
-1. !!crwdP_26_Pdwrc!!Sélectionnez `Game Load`.
-1. !!crwdP_27_Pdwrc!!Faites défiler jusqu'à `Game IOS`.
-1. !!crwdP_28_Pdwrc!!Entrez le slot IOS à utiliser.
+1. Sélectionnez le jeu qui ne fonctionne pas.
+1. Cliquez sur Settings.
+1. Sélectionnez `Game Load`.
+1. Faites défiler jusqu'à `Game IOS`.
+1. Entrez le slot IOS à utiliser.
     - Essayez d'utiliser le 250 ou le 251, si le 249 ne fonctionne pas.
-1. !!crwdP_29_Pdwrc!!Appuyez sur ok et essayez de lancer le jeu.
+1. Appuyez sur ok et essayez de lancer le jeu.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
-1. !!crwdP_24_Pdwrc!!Sélectionnez le jeu qui ne fonctionne pas.
+1. Sélectionnez le jeu qui ne fonctionne pas.
 1. Cliquez sur l’icône d’engrenage.
-1. !!crwdP_32_Pdwrc!!Allez dans `cIOS` et utilisez les flèches pour sélectionner le slot IOS désiré.
+1. Allez dans cIOS et utilisez les flèches pour sélectionner le slot IOS désiré.
     - Essayez d'utiliser le 250 ou le 251, si le 249 ne fonctionne pas.
-1. !!crwdP_33_Pdwrc!!Appuyez sur `Save` et essayez de lancer le jeu.
+1. Appuyez sur Save et essayez de lancer le jeu.
 </div>
 ##### Options disponibles une fois le processus terminé
 

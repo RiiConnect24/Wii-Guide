@@ -2,21 +2,21 @@
 title: "Aloita"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sisällysluettelo" %}
 
 Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiConnect24:n Discord-palvelimelle](https://discord.gg/rc24) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Even if your Wii has already been softmodded in the past, following these steps can still ensure that your softmod is up to date.
+Vaikka Wii on jo softmodattu aiemmin, näiden vaiheiden seuraaminen voi silti varmistaa, että softmod on ajan tasalla.
 {: .notice--info}
 
-All of the exploits run the HackMii Installer, and have the same end result.
+Kaikki exploitit käynnistävät HackMii Installer:in, ja niillä on sama lopputulos.
 {: .notice--info}
 
-Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
+Vaikka voit seurata tätä opasta ilman SD-korttia, et voi tehdä tai palauttaa NAND-varmuuskopiota BootMii:n avulla, etkä voi käyttää joitain homebrew-sovelluksia.
 {: .notice--info}
 
-This guide is for the original Wii and Wii mini only (including the Wii Family Edition), with the latest firmware (4.3). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
+Tämä opas on vain alkuperäisille Wii ja Wii mini laitteille (sisältäen Wii Family Edition), jossa on uusin laiteohjelmisto (4.3). Älä käytä tätä Wii U:lla (vWii:llä)! Jos haluat softmodata Wii U:n, [seuraa tätä opasta](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### Valitse käytettävä exploit

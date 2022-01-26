@@ -26,7 +26,7 @@ Asigură-te că ai instalat [cIOS](/cios) înainte de a continua!
 Dacă vrei să joci jocuri care sunt în format NKit, folosește [acest program](https://gbatemp.net/download/nkit.36157/) pentru a le converti în format ISO întâi. Poți de asemenea să folosești o versiune de dezvoltator Dolphin, apăsând click-dreapta pe un joc, și folosind "Convert File" pentru a o converti.
 {: .notice--info}
 
-Dacă nu copiezi jocuri folosind Wii Backup Manager, Witgui, sau Wii Backup Fusion, creează un folder în rădăcina unității USB sau cardului SD numit "wbfs" și pune jocurile acolo.
+Dacă nu copiezi jocuri folosind Wii Backup Manager, Witgui, sau Wii Backup Fusion, creează un dosar în rădăcina unității USB sau cardului SD numit "wbfs" și pune jocurile acolo.
 {: .notice--info}
 
 Pentru a juca jocuri, recomandăm să folosești un hard disk extern pentru Wii-ul tău. Stick-urile USB ar trebui să fie de asemenea utilizabile, dar hard disk-urile externe sunt recomandate pentru că sunt mai fiabile, și pot stoca mai multe jocuri.
@@ -39,7 +39,7 @@ Asigură-te că unitatea USB este formatată ca FAT32 sau NTFS. Nu-l formata ca 
 
 ##### Descărcarea
 
-1. Extrage USB Loader GX și pune-l în fișierul `apps` din cardul tău SD sau unitatea ta USB.
+1. Extrage USB Loader GX și pune-l în dosarul `apps` din cardul tău SD sau unitatea ta USB.
 2. Introduce-ți unitatea ta USB, și cardul tău SD dacă folosești unul, în Wii-ul tău și pornește USB Loader GX din Homebrew Channel.
 
 ##### Noțiuni de bază

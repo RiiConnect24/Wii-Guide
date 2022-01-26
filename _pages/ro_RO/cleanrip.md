@@ -1,13 +1,13 @@
 #### De ce ai nevoie
 
-* Un card SD sau o unitate USB cu cel puțin 4.7 GB de spațiu liber.
+* Un card SD sau o unitate USB cu cel puțin 4.7 GB de spațiu liber (8.5 GB dacă extragi un disc cu dublu straturi).
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
 #### Instrucțiuni
 
 ##### Secțiunea I - Descărcare/Instalare
 
-1. Extrage CleanRip și pune-l în fișierul `apps` din cardul tău SD sau unitatea ta USB.
+1. Extrage CleanRip și pune-l în dosarul `apps` din cardul tău SD sau unitatea ta USB.
 1. Introduce cardul tău SD în Wii, și pornește CleanRip din Homebrew Channel.
 
 ##### Secțiunea II - Extragere

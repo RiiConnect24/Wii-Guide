@@ -12,8 +12,11 @@ Are you tired of the boring, plain white theme on your Wii Menu, and want a cool
 In the case of a brick, [installing Priiloader is a must](priiloader). Also, install BootMii (as Boot2 if you have an early Wii). Installing brick protection along with following the guide correctly should keep you safe from bricks. DO NOT CONTINUE UNTIL YOU HAVE INSTALLED PRIILOADER AND BOOTMII!
 {: .notice--waarschuwing}
 
-Do not install a custom theme on vWii (Wii U), unless it has been formatted specifically for the vWii and your Wii U's region! Check out [this GBATemp post](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) for more on vWii themes.
+This guide is intended for regular Wiis only. For installing themes on vWii (Wii U), follow [this page](themes-vwii).
 {: .notice--waarschuwing}
+
+Only install themes on your Wii that have been formatted specifically for it, and its current region. Installing themes from the wrong region or version on your Wii will cause a brick. This tutorial will tell you how to create a csm that is safe to install.
+{: .notice--danger}
 
 For safety purposes, please do not use any other version of MyMenuify than the one linked here, as MyMenuify Mod is the safest way to install a theme.
 {: .notice--info}
@@ -29,7 +32,7 @@ We recommend you [install cIOS](cios) before continuing.
 * Een Wii
 * Een SD-kaart of USB-stick/ harde schijf
 * Een computer met Windows (of gebruik Mono of Wine op Mac/Linux)
-* [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
+* [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
 
 #### Theme Links
@@ -41,7 +44,7 @@ To find themes to install, here are 3 resources:
 * [This GBAtemp post](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
 MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
-{: .notice--waarschuwing}
+{: .notice--warning}
 
 #### Instructies
 
@@ -67,7 +70,7 @@ MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
 
 ##### Section III - Installing the Theme
 
-1. Extract MyMenuify Mod and put it in the `apps` folder on your SD card or USB drive.
+1. Extract MyMenuifyMod.zip to your SD card or USB drive.
 2. Put the .csm file you saved in a folder called `modthemes` on your SD card or USB drive.
 3. Stop de SD-kaart of USB-stick in je Wii.
 4. Launch MyMenuify Mod from the Homebrew Channel.

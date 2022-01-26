@@ -38,12 +38,9 @@ Nachdem du der oben verlinkten Anleitung gefolgt bist, solltest du nun folgendes
 
 #### Anleitung
 
-Wenn du den Patcher nicht verwenden kannst, folge bitte [diesem Guide](https://pad.snopyta.org/s/rJ2N0B1XU), um RiiConnect24 zu installieren. Das Ergebnis ist dasselbe, egal welchem Weg du folgst.
-{: .notice--info}
-
 ##### Abschnitt 1 - Ausführen des Patchers
 
-Mithilfe des RiiConnect24 Patchers den du bereits bei den [Voraussetzungen](#what-you-need) heruntergeladen hast, wirst du IOS31, den Nachrichtenkanal, Meinungskanal, Nintendo-Kanal und Mii-Wettbewerbskanal für die Verwendung auf deiner vWii herunterladen und patchen.
+Using the RiiConnect24 Patcher you should've downloaded earlier in [What you need](#what-you-need), you will be downloading and patching IOS31, News, Everybody Votes, Nintendo and Check Mii Out Channels for use on your vWii.
 
 1. Starte `RiiConnect24Patcher.bat` unter Windows, oder `RiiConnect24Patcher.sh` auf Unix-Systemen. Es sollte folgendermaßen aussehen: `bash RiiConnect24Patcher.sh`. Folge den Anweisungen auf dem Bildschirm
 
@@ -63,20 +60,20 @@ Mithilfe des RiiConnect24 Patchers den du bereits bei den [Voraussetzungen](#wha
 1. Öffne den Homebrew-Kanal
 2. Starte den ww-43db-patcher
 
-Falls du ein Design installierst, musst du den ww-43db-patcher ein weiteres Mal ausführen
+If you install a theme, you will have to run the ww-43db-patcher once more
 {: .notice--info}
 
 ##### Abschnitt 4 - RiiConnect24 benutzen
 
-Nachdem du den obigen Abschnitten gefolgt bist, bist du fast fertig, um RiiConnect24 auf deiner Wii U zu verwenden. Du musst nur den folgenden Schritten **nach jedem Neustart der vWii** folgen.
+After following the above sections, you're almost able to utilize RiiConnect24 on your Wii U. You just need to perform the following steps **after every vWii reboot**.
 
 1. Öffne im **Wii-Menü** der vWii den **ConnectMii**-Kanal.
 * Dies aktiviert das Zeichen für WiiConnect24 und Verbindung im Standby, welche für die WiiConnect24-Kanäle erforderlich sind.
 2. Führe die WiiConnect24-Kanäle aus
-* Du solltest nun in der Lage sein, alle WiiConnect24-Kanäle, die du installiert hast, zu verwenden!
+* You should now be able to utilize all of the WiiConnect24 Channels you have installed!
 
 #### Was funktioniert derzeit?
-Die folgenden RiiConnect24-Dienste **funktionieren** auf der vWii:
+The following RiiConnect24 services are **working** on the vWii:
 * Nachrichtenkanal
     * Dieser Kanal hat ein Problem mit Zeitstempeln. Der "Aktuell seit:" und die Artikel-Zeitstempel sind falsch.
     * Die Daten im Banner funktionieren auch nicht, weshalb dort `Die Nachrichten konnten nicht abgerufen werden.` steht.
@@ -86,7 +83,7 @@ Die folgenden RiiConnect24-Dienste **funktionieren** auf der vWii:
 * Mii-Wettbewerbskanal
 {: .notice--success}
 
-Die folgenden RiiConnect24-Dienste **funktionieren nicht** auf der vWii:
+The following RiiConnect24 services are **not working** on the vWii:
 * Wii Mail (ein Großteil der Funktionen existiert gar nicht auf der vWii)
     * Dies beinhaltet auch das Senden/Empfangen von E-Mails an/von Freunden. Du kannst nur global-versendete E-Mails und Inhalte von RSSMii-Feeds (falls eingerichtet) erhalten.
 * Alles weitere was laut den [RiiConnect24 stats](https://rc24.xyz/stats/index.html) nicht funktioniert.

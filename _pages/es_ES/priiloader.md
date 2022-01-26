@@ -16,12 +16,12 @@ Priiloader proporciona un nivel adicional de protección contra bricks a tu cons
 
 #### Requisitos
 * Una tarjeta SD o unidad USB
-* [Instalador de Priiloader](/assets/files/Priiloader_v0_9_1.zip)
+* [Instalador de Priiloader](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
 #### Instrucciones
 ##### Sección I - Descarga/instalación
 
-1. Descarga el instalador de Priiloader y extráelo a la carpeta `apps` de tu tarjeta SD o tu disco USB.
+1. Download the Priiloader installer and extract it to your SD card or USB drive.
     * Si esta carpeta no existe, créala.
 
 ##### Sección II - Instalación
@@ -80,8 +80,8 @@ Esto es una Lista de los los hacks que puedes activar con Priiloader.
 Continue to installing cIOS<br> cIOS are used to play games with a USB Loader. También es útil para muchas otras aplicaciones Homebrew.
 {: .notice--info}
 
-Si estas usando un Wii Mini, por favor sigue [esta guía](cios-mini) para instalar los cIOS
+If using a regular Wii, follow [this guide](cios) to install cIOS
 {: .notice--info}
 
-Si estas usando una Wii normal, por favor sigue [esta guía](cios) para instalar los cIOS.
+If using a Wii mini, follow [this guide](cios-mini) to install cIOS
 {: .notice--info}

@@ -33,19 +33,16 @@ Dacă ai BootMii instalat ca boot2 va trebui să porniți BootMii prin repornire
     Dacă ecranul rămâne negru și lumina albastră a cititorului de discuri clipește încontinuu, lipsesc fișierele BootMii din cardul tău SD. Descărcați [acest zip](https://static.hackmii.com/bootmii_sd_files.zip) și extrage-l în rădăcina cardului tău SD, iar apoi mai încearcă odată.
     {: .notice--warning}
 
-3. Selectează butonul Opțiuni (cel cu rotițele).
-4. Selectează butonul BackupMii (cel cu săgeata verde).
+3. Select the Options button (the icon with the gears).
+4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left).
 - Procesul de creere a unei copii de rezervă NAND va incepe. Poți urmări progresul pe ecran.
 - "Bad Block-urile" (Blocurile proaste) sunt normale. Nu te îngrijora dacă vezi unele într-o copie de rezervă NAND.
 - După acest pas, va verifica copia de rezervă. Chiar dacă este recomandat, poate fi omis prin apăsarea butonului EJECT de pe consola ta Wii.
 5. După ce copia de rezervă este gata, ieși din ecranul de backup NAND prin apăsarea oricărui buton.
 6. Pentru a ieși din BootMii, apasă butonul Înapoi (cel cu săgeata) iar apoi poți apasă ori butonul Wii Menu ori butonul Homebrew Channel pentru a ieși unde vrei.
 
-
-<!---
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the button right next to BackupMii with a red arrow).
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). Acest lucru este util în cazul rar în care iți brick-uiești consola.
 {: .notice--info}
--->
 
 [Continuă la instalarea Priiloader](priiloader) Priiloader adaugă un nivel de protecție anti-brick, și îl recomandăm, în special dacă ai putut să instalezi numai BootMii IOS.
 {: .notice--info}

@@ -1,35 +1,35 @@
 ---
-title: "RiiTag on Wii"
+title: "RiiTag на Wii"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Оглавление" %}
 
-Если вам нужна помощь относительно этого руководства, пожалуйста присоединитесь [к дискорд-серверу RiiConnect24](https://discord.gg/rc24) (рекомендовано), или [напишите нам по адресу support@riiconnect24.net](mailto:support@riiconnect24.net).
+Если вам нужна помощь относительно этого руководства, пожалуйста присоединитесь [к дискорд-серверу RiiConnect24](https://discord.gg/rc24) (рекомендуется) или [напишите нам по адресу support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You connect it to a USB Loader, and the tag updates on-the-fly. You need a Discord account in order to start using RiiTag.
+RiiTag - это динамический настраиваемый игровой тег. Поделившись своим игровым тегом (динамическим изображением), вы можете показать своим друзьям во что вы играли! Вы подключаете его к USB-загрузчику и тег обновляется в режиме реального времени. Вам понадобится аккаунт Discord, чтобы начать использовать RiiTag.
 
-Want to install RiiTag on your Wii U? See [this guide](riitag-wiiu) on how to connect it to your Wii U Menu.
+Хотите установить RiiTag на своей Wii U? Перейдите к [этому руководству](riitag-wiiu) для подключения его к вашему Wii U Menu.
 {: .notice--info}
 
 #### Что вам понадобится
 
 * Компьютер
-* A text editor
-* A USB Loader
+* Текстовый редактор
+* USB-загрузчик
 
 #### Инструкции
 
-##### Section I - Getting Started
+##### Часть I - Начало работы
 
-1. [Go to the RiiTag site.](https://tag.rc24.xyz/)
-2. Click `Log In` and log in with your Discord account.
-3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Click `Authorize`.
-4. Click `Edit Your Tag` and customize it to how you like. You can add a background, overlay, flag, nickname, Wii Number, and manually enter in games to show on your tag (not needed if you're using a USB Loader).
-5. Click `Show Key` and make note of the key shown. This is not needed if you're using USB Loader GX, as the key will be in a downloadable file.
-6. Click `Submit` to save your changes.
+1. [Перейдите на сайт RiiTag.](https://tag.rc24.xyz/)
+2. Нажмите `Log In` и войдите с помощью своего аккаунта Discord.
+3. Появится диалоговое окно, справшивающее об авторизации в `RiiConnect24 Login` через Discord. Нажмите `Авторизовать`.
+4. Нажмите `Edit Your Tag` и настройте его как вам нравится. Вы можете добавить фон, оверлей, флаг, никнейм, номер Wii и вручную указать игры для показа в вашем теге (не требуется, если вы используете USB-загрузчик).
+5. Нажмите `Show Key` и запишите появившийся ключ. Он не понадобится, если вы используете USB Loader GX, так как ключ будет в загружаемом файле.
+6. Нажмите `Submit`, чтобы сохранить свои изменения.
 
-Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
+Никому не сообщайте ваш ключ RiiTag! Иначе люди смогут использовать ваш тег в собственных целях.
 {: .notice--warning}
 
 ##### Section II - Connecting Your USB Loader
@@ -53,13 +53,13 @@ The steps to connect RiiTag to your USB Loader depend on what USB Loader you use
 1. Take the SD Card or USB device where your WiiFlow data is into your computer.
 2. Open `/apps/wiiflow/wiiflow.ini` with a text editor. (If you use WiiFlow Lite, the path might have `wiiflow_lite` instead of `wiiflow`.)
 3. Search for `gamercards` and replace that line with `gamercards=wiinnertag`.
-4. Search for `wiinnertag_url` and replace that line with `wiinnertag_url=http://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
+4. Search for `wiinnertag_url` and replace that line with `wiinnertag_url=https://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
 5. Search for `wiinnertag_key` and replace that line with `wiinnertag_key=<key>`, replacing `<key>` with the key you wrote down in Section 1.
 6. Search for `gamercards_enable` and replace that line with `gamercards_enable=yes`.
 7. Save the modified `wiiflow.ini` file.
 8. You have now set up RiiTag. You can try loading any game now to see if it works correctly.
 
-###### Emulators
+###### Эмуляторы
 
 RiiTag supports Dolphin, Citra, and Cemu. You need a Discord account for this to work.
 {: .notice--info}
@@ -90,7 +90,7 @@ We have a RiiTag channel you can install on your Wii. When it is launched, it wi
 {: .notice--info}
 
 1. Log into RiiTag and go to your tag page.
-2. Click `Download Forwarder WAD`.
+2. Click `Download RiiTag Channel`.
 3. Put the WAD on your SD Card or USB device.
 4. Install the WAD with your favorite WAD manager ([Wii Mod Lite](wiimodlite) is recommended).
 5. Make sure the Internet Channel is installed.

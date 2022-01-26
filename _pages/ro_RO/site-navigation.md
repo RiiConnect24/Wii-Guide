@@ -61,8 +61,8 @@ sitemap: false
 
 **Site**
 + [Pagina Principală](/)
-+ [Să începem](să începem)
-+ [Întrebări frecvente](întrebări frecvente)
++ [Să începem](get-started)
++ [Întrebări frecvente](faq)
 + [Donații](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>

@@ -37,8 +37,8 @@ Nu distribui cheia RiiTag cu nimeni! Dacă o faci, alte persoane îți pot abuza
 ##### Secțiunea II - Configurarea cardului SD
 
 1. Extrage fișierul `.zip` Wii U Plugin Loader în rădăcina cardului tău SD.
-   - Ar trebui să vezi un folder numit `wiiupluginloader` în `/wiiu/apps/` pe cardul tău SD.
-2. Pune fișierul `UTag.mod` în folderul `/wiiu/plugins/` pe cardul tău SD.
+   - Ar trebui să vezi un dosar numit `wiiupluginloader` în `/wiiu/apps/` pe cardul tău SD.
+2. Pune fișierul `UTag.mod` în dosarul `/wiiu/plugins/` pe cardul tău SD.
 3. Creează un fișier nou numit `utag.txt` pe rădăcina cardului tău SD, și deschide-l cu un editor de text.
 4. Lipește cheia pe care ai notat-o mai devreme în Pasul 5 din [Secțiunea I - Instrucțiuni pentru site](#section-i---getting-started) în acest fișier `utag.txt`, și salvează-l.
    - Suntem gata cu cardul SD, nu mai trebuie să pui nimic în el.
@@ -57,7 +57,7 @@ Acum vom seta Wii U Plugin Loader să ruleze la pornirea consolei. **Asta merge 
 
 1. Extrage fișierul `.zip` de modificare Coldboot Haxchi în rădăcina cardului tău SD.
    - Dacă calculatorul tău te întreabă dacă să înlocuiești, alege Înlocuiește Tot.
-2. Navighează la `/wiiu/apps/` și deschide folderul `wiiupluginloader`.
+2. Navighează la `/wiiu/apps/` și deschide dosarul `wiiupluginloader`.
 3. Redenumește `wiiupluginloader.elf` la `sdcafiine.elf`.
 4. Du-te înapoi la `/wiiu/apps/` și redenumește `wiiupluginloader` la `sdcafiine`.
 5. Introduce-ți cardul SD în Wii U.

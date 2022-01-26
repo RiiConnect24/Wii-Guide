@@ -4,68 +4,70 @@ title: "cIOS"
 
 {% include toc title="Table of Contents" %}
 
-This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
+В этом руководстве мы расскажем вам, как установить cIOS (custom IOS). Это необходимо, если вы хотите загружать игры с помощью USB-загрузчика. Некоторые homebrew-приложения могут работать лучше при использовании cIOS.
 
 ![d2x cIOS Installer](/images/cios/cIOS.png)
 
-If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
+Если у вас Wii U (vWii), следуйте [этому руководству](https://wiiu.hacks.guide/#/vwii-modding) для установки cIOS. Попытки установки любой другой cIOS на vWii не сработают.
 {: .notice--info}
 
-If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
+Если у вас Wii mini, установите [эту cIOS](cios-mini). Попытки установки любой другой cIOS на Wii mini не сработают.
 {: .notice--info}
 
-#### Что вам нужно
+#### Что вам понадобится
 
-* A Wii with an Internet connection
-* SD карта или USB флешка/жёсткий диск
-* [d2x cIOS Installer](/assets/files/d2x-cIOS-Installer-Wii.zip)
+* Wii с подключением к интернету
+* SD-карта или USB-накопитель
+* [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
-Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
+Убедитесь, что если вы используете SD-карту, переключатель находится в разблокированной позиции иначе вы не сможете выбрать правильные параметры в установщике
 {: .notice--warning}
 
 #### Инструкции
 
-##### Section I - Downloading
+##### Часть I - Загрузка
 
-1. Download d2x cIOS Installer and extract it to the `apps` folder on your SD card or USB drive.
-1. Insert your SD card or USB drive into your Wii, and launch d2x cIOS Installer from the Homebrew Channel.
+1. Download d2x cIOS Installer and extract it to your SD card or USB drive.
+1. Вставьте SD-карту или USB-накопитель в свою Wii и запустите d2x cIOS Installer из Homebrew Channel.
 
-##### Section II - Installing
+##### Часть II - Установка
 
-1. Press continue, then set the options to the following:
+1. Нажмите "Continue", затем выберите следующие параметры:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 57
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
-![Install cIOS 249](/images/cios/Install249.png)
-1. Once set, press A twice to install.
-1. When done installing, press A to return, and set the options to the following:
+![Установка cIOS 249](/images/cios/Install249.png)
+1. Как выбрали, дважды нажмите A для установки.
+1. После установки, нажмите A, чтобы вернуться, и выберите следующие параметры:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 56
 Select cIOS slot: 250
 Select cIOS version: 65535
 ```
-![Install cIOS 250](/images/cios/Install250.png)
-1. Once set, press A twice to install.
-1. When done installing, press A to return, and set the options to the following:
+![Установка cIOS 250](/images/cios/Install250.png)
+1. Как выбрали, дважды нажмите A для установки.
+1. После установки, нажмите A, чтобы вернуться, и выберите следующие параметры:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 38
 Select cIOS slot: 251
 Select cIOS version: 65535
 ```
-![Install cIOS 251](/images/cios/Install251.png)
-1. Once set, press A twice again to install, and then exit once done.
+![Установка cIOS 251](/images/cios/Install251.png)
+1. Как выбрали, дважды нажмите A для установки и, по завершении, выйдите.
+
+#### Устранение проблем
 
 {% capture bruh %}
-Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
-* Using a keyboard in Animal Crossing: City Folk.
-* Running SpongeBob's Boating Bash.
+Хотя большинство игр должно работать с настройками по умолчанию, некоторые игры могут потребовать использования определённой cIOS для работы или использования определённых функций внутри игры.<br> Примеры включают:
+* Использование клавиатуры в Animal Crossing: City Folk.
+* Запуск SpongeBob's Boating Bash.
 
-A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
+Более полный (хотя и все еще неполный) список можно найти [**здесь**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> Для изменения cIOS, используемой для конкретной игры, следуйте этим инструкциям:
 {% endcapture %}
 <div class="notice--warning">{{ bruh | markdownify }}</div>
 
@@ -74,29 +76,29 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
 1. !!crwdP_30_Pdwrc!!Select the game that isn't working.
-1. Click Settings.
+1. Нажмите Settings.
 1. !!crwdP_26_Pdwrc!!Select `Game Load`.
 1. !!crwdP_27_Pdwrc!!Scroll down to `Game IOS`.
 1. !!crwdP_28_Pdwrc!!Enter the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
+    - Попробуйте использовать 250 или 251, если 249 не работает.
 1. !!crwdP_29_Pdwrc!!Press ok and try to load the game.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. !!crwdP_30_Pdwrc!!Select the game that isn't working.
-1. Click the gear icon.
+1. Нажмите на значок с шестернёй.
 1. !!crwdP_32_Pdwrc!!Go to cIOS and use the arrows to select the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
+    - Попробуйте использовать 250 или 251, если 249 не работает.
 1. !!crwdP_33_Pdwrc!!Press Save and try to load the game.
 </div>
-##### Options once complete
+##### Опции по завершении
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
+[Перейти к Homebrew Browser](hbb)<br> Homebrew Browser - хорошее место для получения homebrew-приложений для вашей Wii. Это необязательно для установки.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Перейти к Навигации по сайту](site-navigation)<br> У нас есть много других руководств, которые могут вам понравиться.
 {: .notice--info}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
+Теперь вы можете использовать homebrew-приложения, такие как [USB Loader GX](usbloadergx) и [WiiFlow](wiiflow).
 {: .notice--info}
 
 <script>

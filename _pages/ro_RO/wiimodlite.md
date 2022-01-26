@@ -20,7 +20,7 @@ Nu recomandăm să folosești "WAD Manager" de Waninkoko.
 
 ##### Secțiunea I - Descărcare
 
-1. Extrage Wii Mod Lite și pune-l în fișierul `apps` din cardul tău SD sau unitatea ta USB. ![SD card Drag and Drop](/images/WiiModLite/1.gif)
+1. Extrage Wii Mod Lite și pune-l în dosarul `apps` din cardul tău SD sau unitatea ta USB. ![SD card Drag and Drop](/images/WiiModLite/1.gif)
 2. Introduce cardul tău SD sau unitatea ta USB în Wii, și pornește Wii Mod Lite din Homebrew Channel.
 
 ##### Secțiunea II - Rularea

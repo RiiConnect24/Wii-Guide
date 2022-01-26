@@ -12,12 +12,12 @@ Ein SysCheck listet alle IOS und cIOS auf, die sich auf deiner Wii befinden, mit
 #### Voraussetzungen
 
 * Eine SD-Karte oder ein USB-Laufwerk
-* [SysCheck HacksDen Edition](/assets/files/SysCheckHDE.zip)
+* [SysCheck HacksDen Edition](https://hbb1.oscwii.org/hbb/SysCheckHDE/SysCheckHDE.zip)
 
 #### Anleitung
 ##### Abschnitt 1 - Herunterladen/Installieren
 
-1. Entpacke SysCheck HacksDen Edition und verschiebe es in den `apps`-Ordner auf deiner SD-Karte bzw. deinem USB-Laufwerk.
+1. Extract SysCheck HacksDen Edition to your SD card or USB drive.
 2. Verbinde deine SD-Karte oder dein USB-Laufwerk mit deiner Wii und starte SysCheck HacksDen Edition über den Homebrew-Kanal.
 
 ##### Abschnitt 2 - Einen SysCheck ausführen

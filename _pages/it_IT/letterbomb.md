@@ -16,20 +16,20 @@ LetterBomb è un exploit per Wii attivabile usando la Wii Message Board.
 #### Istruzioni
 
 
-1. Vai nelle `Impostazioni della Wii` -> `Internet` -> `Informazioni sulla Console` e prendi nota del tuo MAC address.
-1. Visita [please.hackmii.com](https://please.hackmii.com), inserisci la regione del Menu di Sistema e l indirizzo Wii e completa il CAPTCHA *assicurati che*
+1. Vai nelle `Impostazioni della Wii` -> `Internet` -> `Informazioni sulla Console` e prendi nota del tuo indirizzo MAC.
+1. Visita [please.hackmii.com](https://please.hackmii.com), inserisci la regione del menu di sistema e l'indirizzo MAC della tua Wii e completa il CAPTCHA *assicurati che*`Bundle the HackMii Installer for me!` *è spuntato*, e taglia uno dei cavi
    - Qualunque filo scegli di tagliare non importa. ![Schermata HackMii](/images/Wii/LetterBomb-PC.png)
 1. Dal ZIP scaricato, estrai il contenuto sulla tua SD.
-1. Take out your SD card and insert it in your Wii.
-1. On your Wii, return to the Wii Menu and then open the Wii Message Board.
-1. Load the red letter with a bomb icon.
-   - In various scenarios, you may need to look at the previous or next day to find it.
+1. Estrai la tua scheda SD e inseriscila nella tua Wii.
+1. Sulla tua Wii, ritorna al menu e apri la bacheca Wii.
+1. Apri la lettera con l'icona di una bomba.
+   - La maggior parte delle volte, è possibile che si trovi nella pagina del giorno precedente o successivo.
 
-Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
+Assicurati che la data sulla tua Wii sia corretta, altrimenti potresti non trovare la lettera.
 {: .notice--warning}
 
 
 ![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
 
-[Continua l'installazione dell'Homebrew Channel e di BootMii](hbc)
+[Continua l'installazione del Canale Homebrew e di BootMii](hbc)
 {: .notice--info}

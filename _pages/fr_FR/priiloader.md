@@ -16,12 +16,12 @@ N'installez ** pas ** Priiloader sur une vWii (mode Wii sur Wii U). Cela se trad
 
 #### Ce dont vous avez besoin
 * Une carte SD ou un périphérique USB
-* [Le programme d'installation de Priiloader](/assets/files/Priiloader_v0_9_1.zip)
+* [Le programme d'installation de Priiloader](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
 #### Instructions
 ##### Section I - Téléchargement et installation
 
-1. Téléchargez Priiloader et décompressez-le dans le dossier `apps` de votre carte SD ou périphérique USB.
+1. Téléchargez le programme d'installation de Priiloader et extrayez-le sur votre carte SD ou votre clé USB.
     * Si ce dossier n'existe pas, créez-le.
 
 ##### Section II - Installation de Priiloader
@@ -80,8 +80,8 @@ Voici la liste des hacks que vous pouvez activer avec Priiloader.
 Continue to installing cIOS<br> cIOS are used to play games with a USB Loader. C'est aussi utile pour de nombreuses autres applications homebrew.
 {: .notice--info}
 
-Si vous utilisez une Wii mini, suivez [ce guide](cios-mini) pour installer les cIOS
+Si vous utilisez une Wii ordinaire, suivez [se guide](cios) pour installer cIOS
 {: .notice--info}
 
-Si vous utilisez une Wii normale, suivez [ce guide](cios) pour installer les cIOS
+Si vous utilisez une Wii mini, suivez [ce guide](cios-mini) pour installer cIOS
 {: .notice--info}

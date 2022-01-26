@@ -2,7 +2,7 @@
 title: "USB Loader GX"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sisällysluettelo" %}
 
 Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiConnect24:n Discord-palvelimelle](https://discord.gg/rc24) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -56,7 +56,7 @@ There is no "guide" to use the USB Loader GX app. This is intended to help you l
 
 There are multiple buttons in the USB Loader GX interface.
 
-###### Main Menu
+###### Päävalikko
 
 These are the functions the buttons found on the top of the main menu do, from left to right:
 

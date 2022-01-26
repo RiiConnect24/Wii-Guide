@@ -2,7 +2,7 @@
 title: RiiTag on Wii U
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sisällysluettelo" %}
 
 Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiConnect24:n Discord-palvelimelle](https://discord.gg/rc24) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -14,21 +14,21 @@ RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynam
 - A device capable of interacting with SD cards
 - Softmodded Wii U console
    - If you have not softmodded your Wii U yet, [please do so](https://wiiu.hacks.guide). You cannot proceed without.
-- A Discord account
-- The latest release of [Wii U Plugin Loader](https://github.com/Maschell/WiiUPluginLoader/releases)
-- The latest release of [UTag plugin](https://github.com/RiiConnect24/UTag/releases)
-- The latest release of [Flump's Coldboot Haxchi Mod](https://www.dropbox.com/sh/gxkf72jia1adpyg/AACPMfGU2AyWUZmhU2awjSsca/Haxchi-CBHC%20Flump%20Mod.zip?dl=1)
-   - This Coldboot Haxchi mod is used in Section IV. You do not need to download it if you can't use Coldboot Haxchi, or you do not want Wii U Plugin Loader loading on startup.
+- Discord-tili
+- Viimeisin julkaisu [Wii U Plugin Loader:ista](https://github.com/Maschell/WiiUPluginLoader/releases)
+- Viimeisin julkaisu [UTag plugin:ista](https://github.com/RiiConnect24/UTag/releases)
+- Viimeisin julkaisu [Flump's Coldboot Haxchi Mod:ista](https://www.dropbox.com/sh/gxkf72jia1adpyg/AACPMfGU2AyWUZmhU2awjSsca/Haxchi-CBHC%20Flump%20Mod.zip?dl=1)
+   - Tätä Coldboot Haxchi -modia käytetään IV jaksossa. Sinun ei tarvitse ladata sitä, jos et voi käyttää Coldboot Haxchi:ia, tai et halua Wii U Plugin Loader:ia latautumassa käynnistyksessä.
 
 #### Ohjeet
 
-##### Section I - Website instructions
+##### Jakso I - Verkkosivujen ohjeet
 
-1. Go to the [RiiTag website](https://tag.rc24.xyz/).
-2. Click `Log In` and log in with your Discord account.
-3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Click `Authorize`.
-4. Click `Edit Your Tag` and customize it to how you like. You can add a background, overlay, flag, nickname, Wii Number, and manually enter in games to show on your tag (not needed if you're using a USB Loader).
-5. Click `Show Key` and make note of the key shown. This will be used later on in this guide.
+1. Mene [RiiTag:in nettisivuille](https://tag.rc24.xyz/).
+2. Klikkaa `Log In` ja kirjaudu sisään Discord-tilillesi.
+3. Dialogi ponnahtaa kysymään sinulta, haluatko sallia `RiiConnect24 Login` Discordilla. Klikkaa `Valtuuta`.
+4. Klikkaa `Edit Your Tag` ja muokkaa sitä haluamallasi tavalla. Voit lisätä taustan, tyylin, lipun, lempinimen, Wiin numeron, ja syöttää manuaalisesti pelejä jotka näkyy sinun tagistasi (ei tarvita, jos käytät USB Loaderia).
+5. Napsauta `Show Key` ja ota muistiin näkyvä avain. This will be used later on in this guide.
 6. Click `Submit` to save your changes.
 
 Do not share your RiiTag key with anyone! If you do, people can abuse your tag.

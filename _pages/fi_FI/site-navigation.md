@@ -1,7 +1,7 @@
 ---
 title: "Sivuston navigointi"
-layout: single
-sitemap: false
+layout: yksittäinen
+sitemap: epätosi
 ---
 
 ![WiiTutorials](/images/WiiTutorials.jpg)

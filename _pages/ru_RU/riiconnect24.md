@@ -25,7 +25,7 @@ There is no guide to installing RiiConnect24 on a Wii Mini. Attempting to instal
 #### Что вам понадобится
 
 * SD карта или USB флешка/жёсткий диск
-* A Wii with an Internet connection
+* Wii с подключением к интернету
 * Компьютер
 * [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
@@ -39,14 +39,14 @@ If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord ser
 1. Click the link above to go to the GitHub page where the patcher is.
 2. Download `RiiConnect24Patcher.bat` if you are on Windows, and `RiiConnect24Patcher.sh` if you are on a Unix system
 3. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open Terminal and type `bash`, then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this: `bash RiiConnect24Patcher.sh`.
-4. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`. (NOTE: These screenshots are from the Windows version of the patcher.) ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
+4. Нажмите 1 для выбора "`Start`" и подтвердите выбор нажатием `Enter`. (NOTE: These screenshots are from the Windows version of the patcher.) ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
 5. Select the device you're patching for. ![Select your device](/images/RC24_Patcher/2.JPG)
 6. For this guide, choose "`Install RiiConnect24 on your Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
 7. Choose "`Express (Recommended)`". It will give you everything you need. ![Express Settings](/images/RC24_Patcher/4.JPG)
 8. Select your region. ![Select your region](/images/RC24_Patcher/5.JPG)
 9. While you're at it, RiiConnect24 Patcher can additionally download some other optional channels that do not use RiiConnect24. `[X]` represents the options that selected. Just press 5 and `ENTER` if you're not interested. ![Additional optional channels](/images/RC24_Patcher/6.JPG)
 10. Connect your SD Card or USB Drive to your computer and select "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
-11. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Drive and try again. ![Successfully detected](/images/RC24_Patcher/8.JPG)
+11. Если ваше устройство было успешно обнаружено, выберите "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Drive and try again. ![Successfully detected](/images/RC24_Patcher/8.JPG)
 12. Be patient... ![It's patching!](/images/RC24_Patcher/9.JPG)
 13. After it's done, we would appreciate if you take a minute to send anonymous feedback to us.  If you don't want to, close the patcher. All the files should already be on your SD Card. ![It's done!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
 14. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
@@ -55,9 +55,9 @@ If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord ser
 
 You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
-1. Put your SD card or USB drive in your Wii.
+1. Вставьте свою SD-карту или USB-накопитель в Wii.
 2. Launch the Homebrew Channel on your Wii.
-3. Launch Wii Mod Lite.
+3. Запустите Wii Mod Lite.
 4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 5. Highlight all the WADs in the folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
 6. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press the - Button on the highlighted WAD to uninstall it, then try installing it again.
@@ -92,13 +92,13 @@ You will now set your DNS to our servers. This is optional but it's recommended,
 13. Go to `WiiConnect24`, then `WiiConnect24` again, and make sure it is enabled.
 14. Back on the WiiConnect24 menu, go to `Standby Connection` and make sure it is enabled.
 15. At `Slot Illumination`, we recommend you set the disc light to `Dim` or `Bright`, but this is optional.
-16. Finally, go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`. Please read through this.
+16. Finally, go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`. Please read through this. (If you see User Agreements without RiiConnect24's logo, that means using our DNS won't work. You can set `Auto-Obtain` DNS to `On` if that's the case. RiiConnect24 will still work without it.)
 
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+[Перейти к Wiimmfi](wiimmfi)<br> Wiimmfi позволяет вам играть в игры онлайн после отключения Nintendo Wi-Fi Connection. Это необязательно для установки.
 {: .notice--info}
 
-[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. This is optional to install.
+[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. Это необязательно для установки.
 {: .notice--info}
 
 If you get error 107245, then you have failed to patch your IOS correctly.
@@ -107,7 +107,7 @@ If you get error 107245, then you have failed to patch your IOS correctly.
 If you get error 107304, then you cannot use our DNS. This will not affect your ability to use RiiConnect24. In this case, set Auto-obtain DNS to Yes.
 {: .notice--info}
 
-If you get error FORE000006, your Wii's clock is probably set incorrectly. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel should start working.
+Если вы получаете ошибку FORE000006, часы вашей Wii скорее всего установлены некорректно. Установите правильную дату и время, затем подождите не более получаса и Forecast Channel должен начать работать.
 {: .notice--warning}
 
 [If you're experiencing issues with the Forecast Channel, News Channel, or Wii Mail then following this tutorial might fix your problem.](deleting-vffs)

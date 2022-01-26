@@ -45,15 +45,15 @@ Acești pași pentru a conecta RiiTag cu USB Loader-ul tău depind de ce USB Loa
 5. Introduce Cardul SD sau unitatea USB unde se află datele USB Loader GX în calculatorul tău.
 6. [Accesează această pagină.](https://tag.rc24.xyz/Wiinnertag.xml)
 7. Pe browser-ul tău, apasă click dreapta și alege `Save As`.
-8. Salvează fișierul XML în folderul `/apps/usbloader_gx` din Cardul tău SD sau unitatea ta USB, înlocuind fișierul `Wiinnertag.xml` existent.
+8. Salvează fișierul XML în dosarul `/apps/usbloader_gx` din Cardul tău SD sau unitatea ta USB, înlocuind fișierul `Wiinnertag.xml` existent.
 9. Acum ai setat Riitag. Poți încerca să rulezi orice joc acum să vezi dacă funcționează corect.
 
 ###### WiiFlow
 
 1. Introduce Cardul SD sau unitatea USB unde se află datele WiiFlow în calculatorul tău.
-2. Deschide `/apps/wiiflow/wiiflow.ini` cu un editor de text. (Dacă folosești WiiFlow Lite, folderul poate avea `wiiflow_lite` în loc de `wiiflow`.)
+2. Deschide `/apps/wiiflow/wiiflow.ini` cu un editor de text. (Dacă folosești WiiFlow Lite, dosarul poate avea `wiiflow_lite` în loc de `wiiflow`.)
 3. Caută fraza `gamercards` și schimbă acea linie cu `gamercards=wiinnertag`.
-4. Caută fraza `wiinnertag_url` și schimbă acea linie cu `wiinnertag_url=http://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
+4. Search for `wiinnertag_url` and replace that line with `wiinnertag_url=https://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
 5. Caută fraza `wiinnertag_key` și schimbă acea linie cu `wiinnertag_key=<key>`, înlocuind `<key>` cu cheia pe care ai notat-o în Secțiunea 1.
 6. Caută fraza `gamercards_enable` și schimbă acea linie cu `gamercards_enable=yes`.
 7. Salvează fișierul `wiiflow.ini` modificat.
@@ -90,7 +90,7 @@ Avem un canal RiiTag pe care îl poți instala pe Wii-ul tău. Când este lansat
 {: .notice--info}
 
 1. Loghează-te în RiiTag și du-te la pagina ta de tag.
-2. Apasă pe `Download Forwarder WAD`.
+2. Click `Download RiiTag Channel`.
 3. Pune WAD-ul pe Cardul tău SD sau unitatea ta USB.
 4. Instalează WAD-ul cu managerul tău WAD preferat ([Wii Mod Lite](wiimodlite) este recomandat).
 5. Asigură-te că Internet Channel este instalat.

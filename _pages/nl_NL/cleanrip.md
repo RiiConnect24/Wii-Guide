@@ -1,6 +1,6 @@
 #### Benodigdheden
 
-* Een SD-kaart of USB stick met tenminste 4.7 GB ruimte vrij
+* An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
 #### Instructies

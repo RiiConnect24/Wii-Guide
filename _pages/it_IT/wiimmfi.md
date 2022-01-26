@@ -98,8 +98,8 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 [If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
 {: .notice--info}
 
-Steps:
-1. Extract the .zip of the latest version of WiiWare Patcher, and put your WAD in it.
+Passaggi:
+1. Estrai il .zip della versione più recente di WiiWare Patcher, e inserisci il tuo WAD.
 2. Lancia il patch script per il tuo OS: solitamente finisce con `.bat` per Windows e `.sh` per Mac/Linux. Se stai usando RiiConnect24 Patcher, seziona il tuo dispositivo (Wii, vWii o Dolphin) o schegli il WiiWare patcher.
 3. Se il processo si è concluso con successo, installa il WAD che è stato creato in `wiiware-wads` con Wii Mod Lite.
 
@@ -124,17 +124,17 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 5. Avvia Mario Kart Wii Competition Patcher.
 6. Il patcher cercherà dei file di salvataggio per Mario Kart Wii nel tuo dispositivo di archiviazione, e li uploaderà. Questo viene fatto nel caso in cui venga trovata una competizione mancante nel file di salvataggio. Inoltre, ovviamente, patcherà la tua Wii per le competizioni.
 
-If you're using the Wii U, you will have to run the competitions patcher whenever you want to check for a competition, because WiiConnect24 is not enabled on the Wii U.
+Se stai usando il Wii U, dovrai avviare il Competition Patcher quando vuoi cercare una competizione, perchè WiiConnect24 non è abilitato sul Wii U.
 {: .notice--info}
 
 ### Giochi DS
-Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks to an exploit called nds-constraint, you can play DS games online without patching your games.
+Wiimmfi non supporta solamente giochi per Wii, supporta anche molti giochi per Nintendo DS. Grazie ad una falla chiamata nds-contraint, puoi giocare online con i giochi del Nintendo DS senza patcharli.
 
 #### Ciò di cui hai bisogno
 
 - Una connessione Wi-Fi con un sistema di sicurezza WEP oppure senza alcuna protezione
 
-Getting a Wi-Fi network with WEP or no security is the hardest part, because DS games don't support newer Wi-Fi security types (unless it's one of the few games that are "DSi Enhanced" and can use your Wi-Fi configuration on your DSi or 3DS, like Pokémon Black/White). However, many routers support creating a guest Wi-Fi connection, or you can make a hotspot on your phone or your computer. There are plenty of resources on the Internet that have information on this, so use your favorite search engine to find them.
+Ottenere una connessione Wi-Fi di tipo WEP, oppure senza alcuna misura di sicurezza è la parte più difficile, perchè i giochi per il Nintendo DS non supportano i tipi moderni di sicurezza nelle connessioni Wi-Fi (a meno che non è un gioco "DSi Enhanced" che è più recente e può utilizzare la configurazione Wi-Fi del tuo DSi o 3DS, come Pokèmon Bianco/Nero). Tuttavia, molti routers supportano la creazione di una connessione Wi-Fi ospite, puoi anche creare un hotspot sul tuo cellulare o computer. Ci sono tantissime informazioni su Internet, usa il tuo motore di ricerca preferito per trovarle.
 {: .notice--info}
 
 #### Istruzioni
@@ -145,16 +145,16 @@ Getting a Wi-Fi network with WEP or no security is the hardest part, because DS 
 4. Imposta `1.1.1.1` come DNS secondario (se ti da dei problemi, prova `8.8.8.8`).
 5. Salva le impostazioni della tua connessione ed esegui un test di connessione. Se ha avuto successo, allora sei pronto per giocare.
 
-### Mario Kart Wii Mods
+### Mod di Mario Kart Wii
 
 #### CTGP-R
-MrBean35000vr and Chadderz have a custom track distribution called CTGP-R that allows you to use a set of custom tracks and has automatic Wiimmfi patching. Go to the [ChadSoft website](http://chadsoft.co.uk) for the download and instructions.
+MrBean35000vr e Chardderz hanno una distribuzione di piste chiamata CTGP-R che ha un patch di Wiimmfi automatico e ti permette di utilizzare piste personalizzate. Vai sulla [pagina web di ChadSoft](http://chadsoft.co.uk)per i download e le istruzioni.
 
 #### MKW Hack Pack
-Huili has put together a collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. To learn how to set it up, go to the [wiki page](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+PhillyG ha messo insieme una collezione di piste personalizzate e hacks chiamata MKW Hack Pack, che permette le connessione a Wiimmfi. Per capire come configurarlo, recati sulla [pagina wiki](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
 
 #### Wiimms Mario Kart Fun
-Wiimm and Leseratte make a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte, has Wiimmfi support, and lots of other features. You can find out more about it on its [wiki page](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
+Wiimm e Leseratte hanno creato una distriubuzione di piste personalizzate chiamata "Wiimms MKW Fun", che viene aggiornata più o meno tre volte all'anno. È basato sul framework LE-CODE di Leseratte, che supporta Wiimmfi e molte altre funzioni. Puoi scoprire di più sulla [pagina wiki](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
 
 [Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
 {: .notice--info}

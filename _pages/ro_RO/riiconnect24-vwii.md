@@ -38,23 +38,20 @@ După ce ai urmat ghidul atașat mai sus, ar trebui să ai:
 
 #### Instrucțiuni
 
-Dacă nu poți folosi patcher-ul, [urmează ghidul manual](https://pad.snopyta.org/s/rJ2N0B1XU), pentru a instala RiiConnect24. Rezultatul final este același indiferent de metoda folosită.
-{: .notice--info}
-
 ##### Secțiunea I – Rularea patcher-ului
 
-Folosind RiiConnect24 Patcher pe care ar fi trebuit să-l instalezi mai devreme în [De ce ai nevoie](#what-you-need), o să descarci și o să modifici IOS31 și Canalele News, Everybody Votes, Nintendo și Mii Contest pentru utilizare pe vWii.
+Using the RiiConnect24 Patcher you should've downloaded earlier in [What you need](#what-you-need), you will be downloading and patching IOS31, News, Everybody Votes, Nintendo and Check Mii Out Channels for use on your vWii.
 
 1. Rulează `RiiConnect24Patcher.bat` pe Windows sau `RiiConnect24Patcher.sh` pe sisteme Unix prin tastarea cuvântului "bash", tragerea fișierului `RiiConnect24Patcher.sh` în terminal și apăsarea tastei enter. Ar trebui să arate așa `bash RiiConnect24Patcher.sh`. Urmează instrucțiunile de pe ecran
 
-2. Confirmă că după trecerea prin patcher, ai 3 foldere. Ele vor fi în același folder unde se află `RiiConnect24Patcher.bat/sh` și pe Cardul tău SD (desigur, numai dacă ai selectat o opțiune în patcher de a face asta).
-   - Dacă patcher-ul nu a mutat fișierul în Cardul SD, mută aceste 3 foldere în rădăcina cardului tău SD.
+2. Confirmă că după trecerea prin patcher, ai 3 dosare. Ele vor fi în același dosar unde se află `RiiConnect24Patcher.bat/sh` și pe Cardul tău SD (desigur, numai dacă ai selectat o opțiune în patcher de a face asta).
+   - Dacă patcher-ul nu a mutat fișierul în Cardul SD, mută aceste 3 dosare în rădăcina cardului tău SD.
 
 ##### Secțiunea II – Instalarea WAD-urilor noi modificate
 
 1. Deschide Homebrew Channel
 2. Lansează Wii Mod Lite
-3. Folosind +Control Pad-ul pe Wii Remote-ul tău, navighează la `WAD Manager`, apoi du-te la folderul `wad`.
+3. Folosind +Control Pad-ul pe Wii Remote-ul tău, navighează la `WAD Manager`, apoi du-te la dosarul `wad`.
 4. Evidențiază toate WAD-urile cu `RiiConnect24` în nume, apoi apasă + pentru a le selecta. Când toate din ele sunt evidențiate, apasă A de două ori pentru a instala WAD-urile.
 5. După ce au fost instalate cu succes, apasă Butonul HOME pentru a ieși înapoi la Homebrew Channel.
 
@@ -63,20 +60,20 @@ Folosind RiiConnect24 Patcher pe care ar fi trebuit să-l instalezi mai devreme 
 1. Deschide Homebrew Channel
 2. Lansează ww-43db-patcher
 
-Dacă instalezi o temă de fundal, va trebui să rulezi ww-43db-patcher din nou
+If you install a theme, you will have to run the ww-43db-patcher once more
 {: .notice--info}
 
 ##### Secțiunea IV – Utilizarea RiiConnect24
 
-După urmarea secțiunilor de mai sus, ești aproape gata să utilizezi RiiConnect24 pe Wii U. Trebuie doar să efectuezi următorii pași **după fiecare repornire de vWii**.
+After following the above sections, you're almost able to utilize RiiConnect24 on your Wii U. You just need to perform the following steps **after every vWii reboot**.
 
 1. În **Meniul Wii** din vWii, lansează canalul **ConnectMii**.
 * Acesta va activa steagurile WiiConnect24 și Standby Connection cerute de Canalele WiiConnect24.
 2. Lansează Canalele WiiConnect24
-* Ar trebui să poți utiliza toate Canalele WiiConnect24 pe care le-ai instalat!
+* You should now be able to utilize all of the WiiConnect24 Channels you have installed!
 
 #### Ce funcționează în prezent?
-Următoarele servicii RiiConnect24 **funcționează** pe vWii:
+The following RiiConnect24 services are **working** on the vWii:
 * News Channel
     * Acest canal este afectat de problema marcajului de timp. Marcajele de timp "Last Updated" și ale articolelor vor fi incorecte.
     * Informațiile de banner de asemenea sunt știute să nu meargă, returnând `Unable to obtain data.`
@@ -86,7 +83,7 @@ Următoarele servicii RiiConnect24 **funcționează** pe vWii:
 * Check Mii Out Channel / Mii Contest Channel
 {: .notice--success}
 
-Următoarele servicii RiiConnect24 **nu funcționează** pe vWii:
+The following RiiConnect24 services are **not working** on the vWii:
 * Wii Mail (majoritatea funcționalității nu există pe vWii)
     * Asta include trimiterea/primirea de mesaje la/de la prieteni. Poți primi numai mesaje globale de difuzare și postări de la feed-urile RSSMii (dacă este setat).
 * Orice altceva care nu funcționează conform [statisticilor RiiConnect24](https://rc24.xyz/stats/index.html).

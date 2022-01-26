@@ -2,7 +2,7 @@
 title: "Wii Menu -teemojen asentaminen"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sisällysluettelo" %}
 
 Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiConnect24:n Discord-palvelimelle](https://discord.gg/rc24) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -12,16 +12,19 @@ Oletko kyllästynyt tylsään, yksinkertaiseen valkoiseen Wii Menu -teemaasi, ja
 In the case of a brick, [installing Priiloader is a must](priiloader). Also, install BootMii (as Boot2 if you have an early Wii). Installing brick protection along with following the guide correctly should keep you safe from bricks. ÄLÄ JATKA ENNEN KUIN OLET ASENTANUT PRIILOADERIN JA BOOTMIIN!
 {: .notice--warning}
 
-Do not install a custom theme on vWii (Wii U), unless it has been formatted specifically for the vWii and your Wii U's region! Check out [this GBATemp post](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) for more on vWii themes.
+This guide is intended for regular Wiis only. For installing themes on vWii (Wii U), follow [this page](themes-vwii).
 {: .notice--warning}
 
-Turvallisuussyistä älä käytä mitään muuta MyMenuifyn versiota kuin sitä, mikä on tänne linkitetty, sillä MyMenuify Mod on turvallisin tapa asentaa teema.
+Only install themes on your Wii that have been formatted specifically for it, and its current region. Installing themes from the wrong region or version on your Wii will cause a brick. This tutorial will tell you how to create a csm that is safe to install.
+{: .notice--danger}
+
+For safety purposes, please do not use any other version of MyMenuify than the one linked here, as MyMenuify Mod is the safest way to install a theme.
 {: .notice--info}
 
 Do not use any other version of ThemeMii than the one linked here, as ThemeMii Mod allows you to make a theme for Wii Menu version 4.3, other versions may not.
 {: .notice--info}
 
-Suosittelemme [cIOS:n asentamista](cios) ennen jatkamista.
+We recommend you [install cIOS](cios) before continuing.
 {: .notice--info}
 
 #### Mitä tarvitset
@@ -29,12 +32,12 @@ Suosittelemme [cIOS:n asentamista](cios) ennen jatkamista.
 * Wii
 * SD-kortti tai USB-asema
 * Tietokone Windowsilla (tai Mono tai Wine Mac/Linux-tietokoneella)
-* [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
+* [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
 
 #### Teemalinkkejä
 
-Löytääksesi asennettavia teemoja, tässä on 3 lähdettä:
+To find themes to install, here are 3 resources:
 
 * [Google Drive -arkisto](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
 * [RiiConnect24:n teemasivu](https://rc24.xyz/goodies/themes/)
@@ -67,7 +70,7 @@ VARMISTA, ETTÄ LUET YLLÄ OLEVAT VAROITUKSET ENNEN JATKAMISTA!
 
 ##### Osa III - Teeman asentaminen
 
-1. Extract MyMenuify Mod and put it in the `apps` folder on your SD card or USB drive.
+1. Extract MyMenuifyMod.zip to your SD card or USB drive.
 2. Put the .csm file you saved in a folder called `modthemes` on your SD card or USB drive.
 3. Laita SD-korttisi tai USB-asemasi Wii-konsoliisi.
 4. Käynnistä MyMenuify Mod Homebrew Channelista.

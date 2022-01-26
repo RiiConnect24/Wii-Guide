@@ -25,7 +25,7 @@ RiiConnect24 Clear Tool este o aplicație homebrew care poate rezolva aceste ero
 
 #### Instrucțiuni
 
-1. Extrage RiiConnect24 Clear Tool și pune-l în fișierul `apps` din cardul tău SD sau unitatea ta USB.
+1. Extrage RiiConnect24 Clear Tool și pune-l în dosarul `apps` din cardul tău SD sau unitatea ta USB.
 2. Introduce cardul tău SD sau unitatea ta USB în Wii, și pornește RiiConnect24 Clear Tool din Homebrew Channel.
 3. Această aplicație te va ajuta să rezolvi orice problemă pe care o ai.
 

@@ -31,7 +31,7 @@ Oto lista rzeczy, które możesz zrobić za pomocą homebrew. Lista ta nie przed
 - Przywróć funkcjonalność zamkniętych serwisów takich jak [WiiConnect24](riiconnect24) oraz [Nintendo WFC](wiimmfi).
 - Wykonaj kopię zapasową pamięci NAND konsoli Wii oraz przywróć ją korzystając z [BootMii](bootmii).
 - Broń swoje Wii przed brickami korzystając z [Priiloader'a](priiloader) oraz BootMii.
-- Przeistocz swoje Wii w odtwarzacz multimedialny korzystając z [WiiMC](http://www.wiimc.org/).
+- Zmień swoje Wii w odtwarzacz multimediów z [WiiMC](https://oscwii.org/library/app/wiimc-ss).
 
 
 ## Gotowy?

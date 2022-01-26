@@ -38,12 +38,9 @@ vWii 외의 어떤 콘솔로든 이 방법을 시도하지 **마세요**. 닌텐
 
 #### 방법
 
-패쳐를 쓸 수 없다면, [수동 가이드를 따라서](https://pad.snopyta.org/s/rJ2N0B1XU) RiiConnect24를 설치하세요. 결과는 따라한 방법과 상관없이 같습니다.
-{: .notice--info}
-
 ##### 섹션 I - 패쳐 실행하기
 
-[당신이 필요한 것](#what-you-need)에서 이미 다운로드한 RiiConnect24 패쳐가 IOS31, News, Everybody Votes, Nintendo, Check Mii Out Channel (대한민국 미출시) 을 vWii에서 사용할 수 있도록 다운로드하게 됩니다.
+Using the RiiConnect24 Patcher you should've downloaded earlier in [What you need](#what-you-need), you will be downloading and patching IOS31, News, Everybody Votes, Nintendo and Check Mii Out Channels for use on your vWii.
 
 1. Windows에서 `RiiConnect24`를 실행시키거나 Unix 시스템에서 `RiiConnect24Patcher.sh`를 bash를 입력하고 `RiiConnect24Patcher.sh`를 터미널에 드래그 한 뒤 엔터를 누릅니다. `bash RiiConnect24Patcher.sh`와 같이 나타나야 합니다. 화면에 나타나는 설명을 따르세요.
 
@@ -63,20 +60,20 @@ vWii 외의 어떤 콘솔로든 이 방법을 시도하지 **마세요**. 닌텐
 1. 홈브루 채널을 실행하세요
 2. ww-43db-patcher를 실행하세요
 
-테마를 설치했다면, ww-43db-patcher를 한번 더 실행해야 합니다.
+If you install a theme, you will have to run the ww-43db-patcher once more
 {: .notice--info}
 
 ##### 섹션 IV - RiiConnect24 사용하기
 
-상단 섹션을 따라 했다면, Wii U에서 RiiConnect24를 사용하는 것이 한층 가까워졌습니다. **매 vWii 재부팅마다** 아래 단계를 다 따르면 됩니다.
+After following the above sections, you're almost able to utilize RiiConnect24 on your Wii U. You just need to perform the following steps **after every vWii reboot**.
 
 1. vWii의 **Wii 메뉴**에서, **ConnectMii** 채널을 실행하세요.
 * 이것은 WiiConnect24와 WiiConnect24 채널에 필요한 상시 연결 플래그를 활성화할겁니다.
 2. WiiConnect24 채널을 실행해보세요
-* 이제 당신은 설치한 모든 WiiConnect24 채널을 활용할 수 있게 됩니다!
+* You should now be able to utilize all of the WiiConnect24 Channels you have installed!
 
 #### 무엇이 현재 작동하나요?
-아래 RiiConnect24 서비스는 vWii에서 **작동**합니다.
+The following RiiConnect24 services are **working** on the vWii:
 * News Channel (대한민국 미출시)
     * 이 채널은 타임스탬프 문제의 영향을 받습니다. "최종 업데이트"와 글의 타임스탬프가 틀릴겁니다.
     * `Unable to obtain data.`를 내보내며 배너 데이터가 작동하지 않는 것으로 알려져 있습니다.
@@ -86,7 +83,7 @@ vWii 외의 어떤 콘솔로든 이 방법을 시도하지 **마세요**. 닌텐
 * Check Mii Out Channel / Mii Contest Channel (대한민국 미출시)
 {: .notice--success}
 
-아래 RiiConnect24 서비스는 vWii에서 작동하지 **않습니다**.
+The following RiiConnect24 services are **not working** on the vWii:
 * Wii 메일 (vWii에서는 대부분의 기능이 없음)
     * 친구와 메일 수신/발신이 포함됩니다. 오직 글로벌 방송 메일과 RSSMii 피드 (설정된 경우) 포스트만 받을 수 있습니다.
 * [RiiConnect24 상태](https://rc24.xyz/stats/index.html)에서 작동하지 않는 모든 것.

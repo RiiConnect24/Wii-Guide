@@ -38,12 +38,9 @@ Yukarıda bağlantıları verilen rehberleri uyguladıktan sonra, şunlar gerekl
 
 #### Talimatlar
 
-Eğer yamalayıcıyı kullanamazsanız [bu rehberi takip ederek](https://pad.snopyta.org/s/rJ2N0B1XU) RiiConnect24’ü indirebilirsiniz. Hangi metod uygulanırsa uygulansın sonuç yine aynı olacaktır.
-{: .notice--info}
-
 ##### Bölüm I - Yamalayıcıyı çalıştırmak
 
-Daha önceden [İhtiyacınız olan şeyler](#what-you-need) kısmından yüklemiş olduğunuz RiiConnect24 Yamalayıcı ile vWii’nizde kullanmak üzere IOS31, News, Everybody Votes, Nintendo ve Check Mii Out Channel’ı indireceksiniz.
+Using the RiiConnect24 Patcher you should've downloaded earlier in [What you need](#what-you-need), you will be downloading and patching IOS31, News, Everybody Votes, Nintendo and Check Mii Out Channels for use on your vWii.
 
 1. Windows için `RiiConnect24Patcher.bat` dosyasını çalıştırın. Unix için ise bash yasıp `RiiConnect24Patcher.sh` dosyasını terminale sürükleyip ENTER’a basın. `bash RiiConnect24Patcher.sh` şeklinde görünmesi gerekmektedir. Ekrandaki talimatları izleyin.
 
@@ -63,20 +60,20 @@ Daha önceden [İhtiyacınız olan şeyler](#what-you-need) kısmından yüklemi
 1. Homebrew Channel’ı başlatın
 2. ww-43db-Patcher’ı başlatın
 
-Eğer bir tema yüklerseniz, dosyayı yeniden çalıştırmanız gerekir
+If you install a theme, you will have to run the ww-43db-patcher once more
 {: .notice--info}
 
 ##### Bölüm IV - RiiConnect24’ü kullanmak
 
-Yukarıdaki adımları uyguladıktan sonra Wii U’nuzda RiiConnect 24’ün neredeyse bütün özelliklerinden faydalanabileceksiniz. Bunun için **her vWii’yi yeniden başlattığınızda** müteakip adımları uygulamanız gerekmektedir.
+After following the above sections, you're almost able to utilize RiiConnect24 on your Wii U. You just need to perform the following steps **after every vWii reboot**.
 
 1. vWii’nin **Wii Menüsü’nde** bulunan **ConnectMii** adlı kanalı başlatın.
 * Bu, WiiConnect24’ü ve WiiConnect24 için gereken Bekleme Bağlantısı bayraklarını etkinleştirir.
 2. WiiConnect24 kanallarını başlatın.
-* Şu an, yüklemiş olduğunuz WiiConnect24 kanallarının hepsinden faydalanabileceksiniz!
+* You should now be able to utilize all of the WiiConnect24 Channels you have installed!
 
 #### Şu an neler çalışıyor?
-Müteakip RiiConnect24 servisleri vWii'de **çalışmaktadır**:
+The following RiiConnect24 services are **working** on the vWii:
 * News Channel
     * Bu kanal zaman damgası durumundan muzdarip. ''Son güncellenen'' ve makale zaman damgaları yanlış olacaktır.
     * Kapak verileri de `Veri alınamadı` hatası vererek çalışmadığı bilinmektedir.
@@ -86,7 +83,7 @@ Müteakip RiiConnect24 servisleri vWii'de **çalışmaktadır**:
 * Check Mii Out Channel / Mii Contest Channel
 {: .notice--success}
 
-Müteakip RiiConnect24 servisleri vWii'de **çalışmayacaktır**:
+The following RiiConnect24 services are **not working** on the vWii:
 * Wii Mail (işlevlerinin büyük çoğunluğu vWii'de çalışmayacaktır)
     * Bu, arkadaşlarla mesajlaşmayı da içerir. Sadece küresel yayınları ve RSSMii beslemelerini (eğer ayarlıysa) alabilirsiniz.
 * [RiiConnect24](https://rc24.xyz/stats/index.html) istatisklerine göre diğer her şey çalışmayacaktır.

@@ -18,6 +18,22 @@ WiiLink and all of its services (such as Wii no Ma) are not controlled or operat
 
 #### 步骤
 
+##### Optional: Wii Patcher
+The Wii Patcher will not work on Dolphin. If you are a Dolphin user, please use the other patchers.
+{: .notice--info}
+
+If you use the Wii Patcher, you will not need to use our other patchers.
+{: .notice--info}
+
+1. Download the WAD based on your console. For Wii it will be `WiiLink_Patcher_Wii.wad`. For vWii it will be `WiiLink_Patcher_vWii.wad`.
+2. Place the WAD in the `WAD` folder on your SD Card/USB.
+3. Insert your SD Card/USB in your Wii
+4. Install the WAD using Wii Mod Lite or any other WAD Manager.
+5. Launch the `WiiLink Patcher` channel from the Wii Menu.
+6. Select the channel you would like to download.
+7. Select the language you would like to download.
+8. If all worked, the channels should be on your Wii Menu.
+
 ##### Section I - Patching WADs
 
 [If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
@@ -28,9 +44,9 @@ WiiLink and all of its services (such as Wii no Ma) are not controlled or operat
 3. For this guide, choose "`Install WiiLink on your Wii`"
 4. Select your region.
 5. Connect the SD Card or USB Drive to your computer and select "`1`".
-6. If your device was detected successfully, select "`1`". If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
+6. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
 7. Be patient...
-8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card. All of the files are ready on your SD Card.
+8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
 9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLinkPatcher.bat` to your SD Card or USB Device.
 10. Put your SD card or USB drive in your Wii.
 11. Launch the Homebrew Channel on your Wii.

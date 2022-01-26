@@ -59,13 +59,13 @@ Poniższe kroki dotyczące konfiguracji RiiTag'u będą zależeć od USB Loader'
 7. Zapisz zmodyfikowany plik `wiiflow.ini`.
 8. Ukończyłeś konfigurację RiiTag. Możesz teraz spróbować załadować jakąś grę oraz sprawdzić czy wszystko działa poprawnie.
 
-###### Emulators
+###### Emulatory
 
-RiiTag supports Dolphin, Citra, and Cemu. You need a Discord account for this to work.
+RiiTag wspiera Dolphina, Citrę i Cemu. Potrzebujesz do tego konta Discord.
 {: .notice--info}
 
 1. [Dołącz do serwera RiiConnect24 Discord](https://discord.gg/rc24), jeśli Cię tam jeszcze nie ma.
-2. Make sure you turn on Discord rich presence in the emulator preferences.
+2. Upewnij się, że włączyłeś status Discorda w ustawieniach emulatora.
 3. Upewnij się, że Twój klient Discorda jest otwarty.
 4. Zagraj w grę, a RiiTag automatycznie zaktualizuje Twój tag kiedy w nią grasz.
 
@@ -84,19 +84,19 @@ Możesz skorzystać z programu `CfgLoaderConfigurator.exe` (tylko dla Windowsa) 
 5. Zapisz zmodyfikowany plik `config.txt`.
 6. Ukończyłeś konfigurację RiiTag. Możesz teraz spróbować załadować jakąś grę oraz sprawdzić czy wszystko działa poprawnie.
 
-#### RiiTag Channel
+#### Kanał RiiTag
 
-We have a RiiTag channel you can install on your Wii. When it is launched, it will open up the Internet Channel and show your RiiTag, making it easy to look at it when using your Wii.
+Mamy kanał RiiTag, który możesz zainstalować na swoim Wii. Po uruchomieniu, otworzy on kanał Internetowy i pokaże Twój RiiTag, teraz możesz łatwo zobaczyć swoj RiiTag kiedy używasz Wii.
 {: .notice--info}
 
-1. Log into RiiTag and go to your tag page.
-2. Click `Download Forwarder WAD`.
-3. Put the WAD on your SD Card or USB device.
-4. Install the WAD with your favorite WAD manager ([Wii Mod Lite](wiimodlite) is recommended).
-5. Make sure the Internet Channel is installed.
-6. The RiiTag Channel should now be available to use on your Wii Menu.
+1. Zaloguj się do RiiTag i przejdź do swojej strony tagu.
+2. Kliknij `Pobierz Kanał RiiTag`.
+3. Umieść WAD na karcie pamięci lub dysku USB.
+4. Zainstaluj WAD'a z swoim ulubionym Menadżerem WAD ([Wii Mod Lite](wiimodlite) jest zalecany).
+5. Upewnij się że kanał Internetowy jest zainstalowany.
+6. Kanał RiiTag powinienien się znajdować w twoim Menu Wii.
 
-[Check out RiiTag-RPC](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br> Now that you set up RiiTag, you can set up RiiTag-RPC to show your friends what you're playing on the Wii using Discord's rich presence.
+[Sprawdź RiiTag-RPC](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br> Jako że masz RiiTaga, możesz zainstalować RiiTag-RPC żeby pokazać swoim kumplom co grasz na swoim Wii, używając statusu na Discordzie.
 {: .notice--info}
 
 [Przejdź do spisu stron](site-navigation)<br> Mamy wiele innych poradników, które mogą Ci się przydać.

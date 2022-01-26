@@ -16,13 +16,13 @@ Priiloader adaugă un nivel de protecție anti-brick pe Wii-ul tău. El rulează
 
 #### De ce ai nevoie
 * Un card SD sau o unitate USB
-* [instalatorul Priiloader](/assets/files/Priiloader_v0_9_1.zip)
+* [instalatorul Priiloader](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
 #### Instrucțiuni
 ##### Secțiunea I - Descărcare/Instalare
 
-1. Descarcă instalatorul Priiloader și extrage-l în fișierul `apps` din cardul tău SD sau unitatea ta USB.
-    * Dacă acest fișier nu există, creează-l.
+1. Download the Priiloader installer and extract it to your SD card or USB drive.
+    * Dacă acest dosar nu există, creează-l.
 
 ##### Secțiunea II - Instalarea Priiloader
 
@@ -80,8 +80,8 @@ Asta este o lista cu hack-urile care le poți activa cu Priiloader.
 Continuă la instalarea cIOS<br> cIOS este folosit pentru a juca jocuri cu un USB Loader. Este de asemenea folositor pentru multe alte aplicații homebrew.
 {: .notice--info}
 
-Dacă folosești un Wii mini, urmează [acest ghid](cios-mini) pentru a instala cIOS
+Dacă folosești un Wii clasic, urmează [acest ghid](cios) pentru a instala cIOS
 {: .notice--info}
 
-Dacă folosești un Wii normal, urmează [acest ghid](cios) pentru a instala cIOS
+Dacă folosești un Wii mini, urmează [acest ghid](cios-mini) pentru a instala cIOS
 {: .notice--info}

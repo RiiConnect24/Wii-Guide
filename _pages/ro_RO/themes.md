@@ -12,8 +12,11 @@ Te-ai săturat de tema albă de fundal plictisitoare și simplă de pe Meniul t�
 În cazul unui brick, [instalarea Priiloader este extrem de importantă](priiloader). De asemenea, instalează BootMii (ca Boot2 dacă ai un build vechi de Wii). Instalarea protecției anti-brick împreună cu urmărirea corectă a ghidului ar trebui să te țină protejat de brick-uri. NU CONTINUA PÂNĂ AI INSTALAT PRIILOADER ȘI BOOTMII!
 {: .notice--warning}
 
-Nu instala o tema personalizată pe vWii (Wii U), cu excepția cazului în care a fost formatată specific pentru vWii-ul tău și regiunea Wii U-ului tău! Vezi [această postare GBATemp](https://gbatemp.net/threads/tutorial-installing-custom-themes-in-vwii.476012/) pentru mai multe despre temele de fundal vWii.
+Acest ghid este numai pentru consolele Wii clasice. Pentru instalarea temelor de fundal pe vWii (Wii U), urmărește [această pagină](themes-vwii).
 {: .notice--warning}
+
+Instalează pe Wii numai temele care au fost formatate specific pentru el și pentru regiunea lui. Instalarea temelor din regiunea sau versiunea greșită a Wii-ului tău va cauza un brick. Acest tutorial îți va spune cum să creezi un csm care este sigur de instalat.
+{: .notice--danger}
 
 Din motive de siguranță, te rugăm nu folosi nicio altă versiune de MyMenuify decât cea link-uită aici, pentru că MyMenuify Mod este cea mai sigură metoda de a instala o temă de fundal.
 {: .notice--info}
@@ -29,7 +32,7 @@ Recomandăm să [instalezi cIOS](cios) înainte de a continua.
 * Un Wii
 * Un card SD sau o unitate USB
 * Un calculator cu Windows instalat (sau folosind Mono sau Wine pe Mac/Linux)
-* [MyMenuify Mod](/assets/files/MyMenuifyModv1.5.zip)
+* [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
 
 #### Link-uri către teme de fundal
@@ -59,16 +62,16 @@ ASIGURĂ-TE CĂ AI CITIT AVERTISMENTELE DE DEASUPRA ÎNAINTE SĂ CONTINUI!
 1. O casetă de dialog va apărea spunându-ți să instalezi teme doar dacă ai protecție anti-brick. Dacă ai instalat Priiloader și/sau BootMii (vezi avertismentul de la începutul acestui ghid), apasă OK.
 2. Du-te la `Tools` > `Download Base App` > Versiunea Meniului tău Wii > Regiunea Meniului tău Wii
 3. O căsuță de dialog va apărea spunându-ți să introduci o valoare pentru a crea o cheie. Introduce ce spune, el va crea o cheie care va fi folosită pentru a decripta conținuturile Meniului Wii din serverele Nintendo.
-4. O fereastră de selecție de fișiere te va întreba unde să salvezi fișierul .app (acela este fișierul de conținut a Meniului Wii pe care l-a descărcat). Salvează-l în folderul unde se află ThemeMii.
+4. O fereastră de selecție de fișiere te va întreba unde să salvezi fișierul .app (acela este fișierul de conținut a Meniului Wii pe care l-a descărcat). Salvează-l în dosarul unde se află ThemeMii.
 5. Du-te la `Options` > `Standard System Menu` > Versiunea Meniului tău Wii > Regiunea Meniului tău Wii
 6. Du-te la `File` > `Open`, apoi navighează către fișierul .mym.
-7. Apasă pe `Create csm`, apoi navighează către folderul unde vrei să salvezi tema. Dă-i un moment să construiască tema.
+7. Apasă pe `Create csm`, apoi navighează către dosarul unde vrei să salvezi tema. Dă-i un moment să construiască tema.
 8. O casetă de dialog va apărea spunând că a construit tema cu succes, și te va întreba dacă vrei să salvezi fișierul .mym. Apasă `No`.
 
 ##### Secțiunea III - Instalarea Temei de Fundal
 
-1. Extrage MyMenuify Mod și pune-l în fișierul `apps` din cardul tău SD sau unitatea ta USB.
-2. Pune fișierul .csm pe care l-ai salvat în folderul `modthemes` pe cardul tău SD sau unitatea ta USB.
+1. Extract MyMenuifyMod.zip to your SD card or USB drive.
+2. Pune fișierul .csm pe care l-ai salvat în dosarul `modthemes` pe cardul tău SD sau unitatea ta USB.
 3. Introdu cardul tău SD sau unitatea ta USB în Wii.
 4. Lansează MyMenuify Mod din Homebrew Channel.
 5. După un mesaj introductiv, te va întreba ce IOS vrei să folosești în aplicație. Dacă ai [instalat cIOS](cios), folosește `IOS249`, sau alternativ folosește `IOS58`. Dacă cel dintâi dă eroarea `Exception DSI occurred!`, apasă Reset pe consola Wii, lansează-l din nou, și încearcă `IOS250`.
