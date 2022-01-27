@@ -10,13 +10,13 @@ FlashHax is an exploit for the Wii that is triggered by using the Internet Chann
 #### Что вам понадобится
 
 - Wii с подключением к интернету
-- The Internet Channel
+- Internet Channel
 
 #### Инструкции
 
-1. Open up the Internet Channel on your Wii.
-2. Go to flashhax.com in the browser and bookmark the page.
-3. Open the site from the bookmark. It'll then proceed to download and load the HackMii Installer. It may take some time as it is downloading the installer over the Internet.
+1. Запустите Homebrew Channel на вашей Wii.
+2. Перейдите на сайт flashhax.com в браузере и добавьте эту страницу в закладки.
+3. Откройте сайт из закладок. Затем перейдите к загрузкам и загрузите HackMii Installer. Загрузка программы установки через Интернет может занять некоторое время.
 
 If the HackMii Installer doesn't load and it instead freezes (you can't move your cursor), please restart your Wii and repeat step 3 until it works. It might take multiple tries, be persistent!
 
