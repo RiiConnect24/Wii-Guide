@@ -1,5 +1,5 @@
 ---
-title: "Site Navigation"
+title: "Průvodce webem"
 layout: single
 sitemap: false
 ---
@@ -32,7 +32,7 @@ sitemap: false
 
 **Modding 101**
 + [BlueBomb](bluebomb)
-* [BootMii Backup](bootmii)
+* [BootMii Backup (zálohování)](bootmii)
 + [cIOS](cios)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
