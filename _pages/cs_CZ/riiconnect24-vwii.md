@@ -4,7 +4,7 @@ title: RiiConnect24 vWii Guide
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte se na [RiiConnect24 Discord server](https://discord.gg/rc24) (doporučeno) nebo [nám napište e-mail](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
