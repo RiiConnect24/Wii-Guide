@@ -59,5 +59,5 @@ We recommend you use just a few feeds, because if you subscribe to a lot of feed
 If you're not receiving updates after a few days, you might need to subscribe to the RSS feeds again. Launch RSSMii from the Homebrew Channel again and it'll create brand new subscriptions.
 {: .notice--info}
 
-[Removing RSSMii](rssmii-remove)
+[Удаление RSSMii](rssmii-remove)
 {: .notice--info}
