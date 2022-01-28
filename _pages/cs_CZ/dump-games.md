@@ -1,19 +1,19 @@
 ---
-title: "Dumping Wii/GameCube games"
+title: "Dumpování Wii/GameCubových her"
 ---
 
-Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
+Chcete dumpnout GameCube nebo Wii disk (vytvořit jeho přesnou kopii na přenosném úložišti)? Existují dva způsoby, jak to udělat, v závislosti na prostředcích, které máte k dispozici.
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">To a PC over the network</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">Vytvořit kopii na SD kartu/USB disk</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">Vytvořit kopii na počítači přes síť</button>
 
 {% capture cleanripInstructions %}
-### Cleanrip guide
+### Návod na Cleanrip
 {% include_relative cleanrip.md %}
 {% endcapture %}
 
 {% capture networkInstructions %}
-### Dumping a game over a local network
+### Návod na dumping přes místní síť
 {% include_relative dump-smb.md %}
 {% endcapture %}
 
