@@ -4,14 +4,17 @@ title: "BlueBomb"
 
 {% include toc title="Table of Contents" %}
 
+It is **strongly** advised against using **any** video guide for hacking your Wii mini console, as there is an extremely large chance of **bricking** it.
+{: .notice--warning}
+
 Eğer bu öğretici ile alakalı herhangi bir sorunuz varsa, lütfen [ Wii Mini Hacking adlı Discord sunucumuza](https://discord.gg/6ryxnkS) katılın (önerilir)
 {: .notice--info}
 
 ![BlueBomb](/images/bluebomb.png)
 
-BlueBomb, Wii ve Wii mini’nin Bluetooth kitaplığının bir kusurundan avantaj sağlayan bir exploittir. Her ne kadar Wii mini’de çalışabilen tek exploit olsa da, Bluebomb orijinal Wii’de de çalışabilmektedir. Ayrıca bu exploit, kapak sayfası brick’i gibi konsolu bazı bricklerden kurtarabilmektedir.
+BlueBomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Although it is the only exploit that works for the Wii mini, BlueBomb can run on the original Wii as well. This exploit also enables recovery from certain bricks, such as a banner brick.
 
-Orijinal Wii için, Homebrew Channel ve BootMii gibi daha münasip exploit yüklemeyi düşünüyorsanız BlueBomb’u yüklemenizi tavsiye etmiyoruz.
+For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
 {: .notice--info}
 
 #### Bölüm I - İhtiyacınız olan şeyler
@@ -48,13 +51,13 @@ chmod +x bluebomb-helper.sh
 1. Konsolunuzu açın ve herhangi bir Wii Kumandasını **bağlamayın**.
 1. Senkronizasyon tuşuna terminal `got connection handle` gösterene kadar defalarca basın. Bu pek çok denemeyi gerektirebilir, o yüzden pes etmeyin.
 
-Konsolunuzun exploit’i çalıştıran bilgisayara yeterince yakın olduğundan emin olun (ideal olarak 900 cm’den daha az olmalı).
+Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
 {: .notice--info}
 
-Konsolun şu an Hack Mii Installer’ın önyüklemesini yapması gerekir. Eğer daha sonra kullanmayı düşünmüyorsanız Linux bilgisayarınızı kapatabilirsiniz.
+The console should now boot to the HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
 
-[Eğer Wii kullanıyorsanız, Homebrew Channel ve BootMii yükleyerek devam edin.](hbc)
+[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
 {: .notice--info}
 
-[Eğer Wii mini kullanıyorsanız, Homebrew Channel yükleyerek devam edin.](hbc-mini)
+[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
 {: .notice--info}
