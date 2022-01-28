@@ -26,7 +26,7 @@ If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.ne
 
 * A Wii U with the Homebrew Channel installed.
 * A Wiimote without Wii MotionPlus
-* An SD card
+* SD karta
 * A computer with Windows on it (or using Mono or Wine on Mac/Linux)
 * [MyMenuify](/assets/files/Mymenuify-Old-vWii.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
@@ -48,7 +48,7 @@ Only themes from the Riiconnect24 Themes page have been tested on vWii. Themes f
 MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
 {: .notice--warning}
 
-#### Instructions
+#### Pokyny
 
 ##### Section I - Finding a Theme
 
@@ -127,7 +127,7 @@ If you did everything correctly you should now have a different theme on your Sy
 
 ##### Reverting to Stock theme
 
-Launch the Homebrew Channel.
+Spusťte Homebrew Channel.
 
 Next launch MyMenuify and navigate to your theme folder.
 
