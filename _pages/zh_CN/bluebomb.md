@@ -4,14 +4,17 @@ title: "蓝牙炸弹"
 
 {% include toc title="Table of Contents" %}
 
+It is **strongly** advised against using **any** video guide for hacking your Wii mini console, as there is an extremely large chance of **bricking** it.
+{: .notice--warning}
+
 如果你在本教程中需要任何帮助，请加入[Wii Mini破解 Discord群组](https://discord.gg/6ryxnkS)（推荐）
 {: .notice--info}
 
 ![蓝牙炸弹](/images/bluebomb.png)
 
-BlueBomb是一种利用Wii和Wii Mini的蓝牙库中漏洞的破解程序。 尽管BlueBomb是唯一适用于Wii mini的漏洞，但它也可以在原始Wii上运行。 此漏洞还可以从某些砖（例如banner砖）中进行恢复。
+BlueBomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Although it is the only exploit that works for the Wii mini, BlueBomb can run on the original Wii as well. This exploit also enables recovery from certain bricks, such as a banner brick.
 
-对于原始的Wii，如果您打算安装Homebrew Channel和BootMii，我们不建议您使用BlueBomb，因为有更多便捷的漏洞利用方法。
+For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
 {: .notice--info}
 
 #### 第一章 - 你需要的是
@@ -48,13 +51,13 @@ chmod +x bluebomb-helper.sh
 1. Turn on your console and **do not** connect any Wii Remotes.
 1. 重复按下Wii主机上的Sync同步按钮，直到Linux上的Terminal提醒已连接上主机。 这可能需要很多尝试，所以别放弃。
 
-确定主机离正在运行漏洞的电脑很近，至少应该在2m范围内。
+Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
 {: .notice--info}
 
-Wii主机现在应该会运行HackMii installer。 你现在可以关闭你的Linux电脑，如果你不想再用的话。
+The console should now boot to the HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
 
-[如果在使用Wii，请安装Homebrew Channel 和 BootMii。](hbc)
+[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
 {: .notice--info}
 
-[如果在使用Wii mini，请安装Homebrew Channel。](hbc-mini)
+[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
 {: .notice--info}
