@@ -22,14 +22,14 @@ There is no guide to installing RiiConnect24 on a Wii Mini. Attempting to instal
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-#### What you need
+#### Co budete potřebovat
 
-* An SD card or USB drive
-* A Wii with an Internet connection
+* SD karta nebo USB disk
+* Wii s připojením k internetu
 * A computer
 * [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-#### Instructions
+#### Pokyny
 
 ##### Section I - Using RiiConnect24 Patcher
 
@@ -48,16 +48,16 @@ If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord ser
 10. Connect your SD Card or USB Drive to your computer and select "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
 11. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Drive and try again. ![Successfully detected](/images/RC24_Patcher/8.JPG)
 12. Be patient... ![It's patching!](/images/RC24_Patcher/9.JPG)
-13. After it's done, we would appreciate if you take a minute to send anonymous feedback to us.  If you don't want to, close the patcher. All the files should already be on your SD Card. ![It's done!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
+13. After it's done, we would appreciate if you take a minute to send anonymous feedback to us.  If you don't want to, close the patcher. All the files should already be on your SD Card. ![Hotovo!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
 14. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
 
 ##### Section II - Installing WADs
 
 You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
-1. Put your SD card or USB drive in your Wii.
-2. Launch the Homebrew Channel on your Wii.
-3. Launch Wii Mod Lite.
+1. Vložte SD kartu nebo USB disk do svého Wii.
+2. Na svém Wii spusťte Homebrew Channel.
+3. Spusťte Wii Mod Lite.
 4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 5. Highlight all the WADs in the folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
 6. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press the - Button on the highlighted WAD to uninstall it, then try installing it again.
@@ -95,10 +95,10 @@ You will now set your DNS to our servers. This is optional but it's recommended,
 16. Finally, go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`. Please read through this. (If you see User Agreements without RiiConnect24's logo, that means using our DNS won't work. You can set `Auto-Obtain` DNS to `On` if that's the case. RiiConnect24 will still work without it.)
 
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+[Pokračujte na Wiimmfi](wiimmfi)<br> Wiimmfi vám umožní hrát hry online, a to i po vypnutí Nintendo Wi-Fi Connection. Zcela dobrovolné.
 {: .notice--info}
 
-[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. This is optional to install.
+[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. Zcela dobrovolné.
 {: .notice--info}
 
 If you get error 107245, then you have failed to patch your IOS correctly.
@@ -107,7 +107,7 @@ If you get error 107245, then you have failed to patch your IOS correctly.
 If you get error 107304, then you cannot use our DNS. This will not affect your ability to use RiiConnect24. In this case, set Auto-obtain DNS to Yes.
 {: .notice--info}
 
-If you get error FORE000006, your Wii's clock is probably set incorrectly. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel should start working.
+Pokud zjistíte chybu FORE000006, je pravděpodobně nesprávně nastaveno datum a čas vašeho Wii! Nastavte správné datum a čas, pak počkejte ne déle než hodinu a Forecast Channel by měl začít fungovat.
 {: .notice--warning}
 
 [If you're experiencing issues with the Forecast Channel, News Channel, or Wii Mail then following this tutorial might fix your problem.](deleting-vffs)
