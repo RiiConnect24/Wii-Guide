@@ -4,30 +4,30 @@ title: "WiiWare Patcher"
 
 {% include toc title="Table of Contents" %}
 
-Want to patch WAD games (WiiWare) to work with Wiimmfi and you don't know how? This tutorial will explain you how WiiWare Patcher works. (This tutorial is only suitable for Windows operating system)
+Chcete patchnout hry ve formátu WAD (WiiWare), aby fungovaly na Wiimmfi, ale nevíte, jak na to? Tento návod vám vysvětlí, jak WiiWare Patcher funguje. (Tento návod je vhodný pouze pro uživatele Windows)
 
 ![Using the WiiWare Patcher](/images/rc24_using_the_wiiware_patcher.jpg)
 
-This tutorial is only for Windows version of WiiWare Patcher.
+Tento návod je pouze pro WiiWare Patcher pro Windows.
 {: .notice--info}
 
-#### What you need
+#### Co budete potřebovat
 
-* A Windows computer
+* Počítač s Windows
 * [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases)
 
-##### Section I - Downloading WiiWare Patcher
+##### Část I - Stáhnutí WiiWare Patcheru
 
-1. Click the link above to go to the GitHub page where the patcher is.
-2. Download `WiiWarePatcher.bat`.
+1. Klikněte na link výše, abyste se dostali na GitHub s patcherem.
+2. Stáhněte `WiiWarePatcher.bat`.
 
-##### Section II - Patching WiiWare games
+##### Část II - Patching WiiWare her
 
-1. On Windows, run `WiiWarePatcher.bat`. ![WiiWare Patcher Main Menu](/images/WiiWare-Patcher/1.JPG)
-2. Press any key to start the patcher.
-3. Select if you want to patch your games or if you want to download and patch `Wii Speak Channel`. ![Select patching mode](/images/WiiWare-Patcher/2.JPG)
-4. If you're patching your own games, copy them (.WAD files) to the folder where `WiiWarePatcher.bat` is, press `1` and hit ENTER.
-5. The patching process will start. Be patient. ![Patching...](/images/WiiWare-Patcher/3.JPG)
-6. It's done! Patched WAD's are in the `wiimmfi-wads` folder. Install them using Wii Mod Lite or other WAD Manager.
+1. Ve Windows spusťte `WiiWarePatcher.bat`. ![WiiWare Patcher Main Menu](/images/WiiWare-Patcher/1.JPG)
+2. Patcher spusťte stisknutím libovolné klávesy.
+3. Vyberte, jestli chcete patchnout vaše hry, nebo jestli chcete stáhnout a patchnout `Wii Speak Channel`. ![Select patching mode](/images/WiiWare-Patcher/2.JPG)
+4. Pokud se chystáte patchnout vaše hry, vložte je (soubory .wad) do stejné složky, ze které jste spustili `WiiWarePatcher.bat`, stiskněte `1` a poté ENTER.
+5. Patching bude zahájen. Buďte trpěliví. ![Patching...](/images/WiiWare-Patcher/3.JPG)
+6. Hotovo! Patchnuté hry budou uloženy do složky `wiimmfi-wads`. Nainstalujte je pomocí utility Wii Mod Lite nebo jiné.
 
-[Return to Wiimmfi installation page](wiimmfi)
+[Zpět na stránku instalace RiiConnectu24](wiimmfi)
