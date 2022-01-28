@@ -4,6 +4,9 @@ title: "BlueBomb"
 
 {% include toc title="Table of Contents" %}
 
+Je **důrazně** doporučeno nenásledovat **jakékoliv** video návody při hackování vašeho Wii mini, protože existuje vysoké riziko, že si Wii mini **bricknete**.
+{: .notice--warning}
+
 Pokud potřebujete pomoct s čímkoliv, co se týká tohoto manuálu, připojte se prosím na [Wii mini Hacking Discord server](https://discord.gg/6ryxnkS) (doporučeno)
 {: .notice--info}
 
