@@ -4,14 +4,17 @@ title: "BlueBomb"
 
 {% include toc title="Table of Contents" %}
 
+It is **strongly** advised against using **any** video guide for hacking your Wii mini console, as there is an extremely large chance of **bricking** it.
+{: .notice--warning}
+
 Αν χρειάζεστε βοήθεια με οτιδήποτε σχετικά με αυτό τον οδηγό, επισκεφθείτε το [Wii mini Hacking Discord](https://discord.gg/6ryxnkS) (προτείνεται)
 {: .notice--info}
 
 ![BlueBomb](/images/bluebomb.png)
 
-To BlueBomb πρόκειται για ένα πρόγραμμα το οποίο εκμεταλλεύεται ένα σφάλμα στην βιβλιοθήκη bluetooth των κονσόλων Wii και Wii mini. Παρόλο που είναι το μοναδικό πρόγραμμα εκμετάλλευσης που δουλεύει στο Wii mini, μπορεί να χρησιμοποιηθεί και στο παλιό Wii χωρίς πρόβλημα. Αυτό το πρόγραμμα λειτουργεί επίσης ως μηχανισμός ανάκτησης από συγκεκριμένες καταστροφές στο Wii, όπως το banner brick.
+BlueBomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Although it is the only exploit that works for the Wii mini, BlueBomb can run on the original Wii as well. This exploit also enables recovery from certain bricks, such as a banner brick.
 
-Για το κλασσικό Wii δεν συστίνουμε να χρησιμοποιήσετε το BlueBomb αν θέλετε να κατεβάσετε το Homebrew Channel και το BootMii, διότι υπάρχουν πιο εύκολα προγράμμα εκμετάλλευσης.
+For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
 {: .notice--info}
 
 #### Μέρος I - Τι χρειάζεστε
@@ -48,13 +51,13 @@ chmod +x bluebomb-helper.sh
 1. Ενεργοποιήστε την κονσόλα σας και **μην** συνδέσετε κανένα χειριστήριο.
 1. Πατήστε το πλήκτρο συγχρονισμού επαναλαμβανόμενα έως ότου ο υπολογιστής δείξει `got connection handle`. Αυτό μπορεί να πάρει αρκετές προσπάθειες, οπότε μην παραιτηθείτε.
 
-Σιγουρευτείτε πως η κονσόλα είναι κοντά στον υπολογιστή που τρέχει το πρόγραμμα, ιδανικά λιγότερο από 1 μέτρο.
+Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
 {: .notice--info}
 
-Η κονσόλα πρέπει τώρα να εισέλθει στο HackMii installer. Μπορείτε τώρα να απενεργοποιήσετε τον Linux υπολογιστή, αν δεν σκοπεύετε να το χρησιμοποιήσετε αργότερα.
+The console should now boot to the HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
 
-[Αν χρησιμοποιείτε Wii, συνεχίστε στην εγκατάσταση του καναλιού Homebrew Channel και του BootMii](hbc)
+[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
 {: .notice--info}
 
-[Αν χρησιμοποιείτε Wii mini, συνεχίστε στην εγκατάσταση του Homebrew Channel](hbc-mini)
+[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
 {: .notice--info}
