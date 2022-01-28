@@ -7,7 +7,7 @@ sitemap: false
 ![WiiTutorials](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
-**Featured**
+**Oblíbené**
 
 + [cIOS](cios)
 + [RiiConnect24](riiconnect24)
@@ -26,11 +26,11 @@ sitemap: false
 + [Wiimmfi](wiimmfi)
 + [Kirby TV Channel](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
-+ [Deleting VFFs](deleting-vffs)
-+ [Fixing FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [Odstranění souborů VFF](deleting-vffs)
++ [Oprava chyby FORE000006](riiconnect24-batteryfix)
++ [Oprava chyby NEWS000006](news000006)
 
-**Modding 101**
+**Modding pro začátečníky**
 + [BlueBomb](bluebomb)
 * [BootMii Backup (zálohování)](bootmii)
 + [cIOS](cios)
@@ -43,26 +43,26 @@ sitemap: false
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Creating Wii Game Shortcuts](wiigsc)
-+ [How to dump GameCube/Wii games](dump-games)
-+ [How to dump Channels (WADs)](dump-wads)
-+ [Installing RSSMii](rssmii)
-+ [Installing Wii Themes](themes)
-+ [Performing a SysCheck](syscheck)
-+ [Removing RSSMii](rssmii-remove)
++ [Jak vytvořit zástupce Wii her ve Wii Menu](wiigsc)
++ [Jak provést dump GameCubových/Wiičkových her](dump-games)
++ [Jak provést dump kanálů (WAD)](dump-wads)
++ [Instalace RSSMii](rssmii)
++ [Instalace skinů](themes)
++ [Jak provést SysCheck](syscheck)
++ [Odinstalace RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 + [WiiFlow](wiiflow)
 
 **Wii mini**
-+ [Installing the Homebrew Channel on the Wii mini](hbc-mini)
-+ [Installing cIOS on the Wii mini](cios-mini)
++ [Instalace Homebrew Channelu na Wii mini](hbc-mini)
++ [Instalace cIOSu na Wii mini](cios-mini)
 
-**Site**
-+ [Home](/)
-+ [Get Started](get-started)
+**Web**
++ [Domů](/)
++ [Začínáme](get-started)
 + [FAQ](faq)
-+ [Donations](donations)
++ [Přispějte](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
