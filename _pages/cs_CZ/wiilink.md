@@ -9,14 +9,14 @@ WiiLink and all of its services (such as Wii no Ma) are not controlled or operat
 
 [WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels Wii Room and Digicam Print Channel, and in the future will let you use the Demae Channel again.
 
-#### What you need
+#### Co budete potřebovat
 
-* An SD card or USB drive
-* A Wii with an Internet connection
+* SD karta nebo USB disk
+* Wii s připojením k internetu
 * A Windows or Unix based computer
 * [WiiLink Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
-#### Instructions
+#### Pokyny
 
 ##### Optional: Wii Patcher
 The Wii Patcher will not work on Dolphin. If you are a Dolphin user, please use the other patchers.
@@ -36,7 +36,7 @@ If you use the Wii Patcher, you will not need to use our other patchers.
 
 ##### Section I - Patching WADs
 
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+[Pokud chcete zobrazit podrobné instrukce, jak nainstalovat soubor WAD, klikněte zde!](wiimodlite)
 {: .notice--info}
 
 1. Download the required files based on your OS. On Windows, run `WiiLinkPatcher.bat`. On Unix systems, launch terminal and type sh, then drag the `WiiLinkPatcher.sh` into the terminal and press enter.
@@ -48,9 +48,9 @@ If you use the Wii Patcher, you will not need to use our other patchers.
 7. Be patient...
 8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
 9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLinkPatcher.bat` to your SD Card or USB Device.
-10. Put your SD card or USB drive in your Wii.
-11. Launch the Homebrew Channel on your Wii.
-12. Launch Wii Mod Lite.
+10. Vložte SD kartu nebo USB disk do svého Wii.
+11. Na svém Wii spusťte Homebrew Channel.
+12. Spusťte Wii Mod Lite.
 13. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 14. If your Wii is not a Japanese region, install WiiLink24_SPD.wad before anything else. This is required so that we know your email address to send files.
 15. Highlight all other WADs with `WiiLink24` in the name, and press + to select them. When all of them are selected, press A twice to install the WADs.
@@ -70,10 +70,10 @@ Adding your email to SPD will allow channels like Digicam and Demae to send file
 For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
 {: .notice--info}
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
+[Pokračujte na RiiConnect24](riiconnect24)<br> RiiConnect24 umožňuje používat ukončené online služby WiiConnect24, které zahrnují News, Forecast, Everybody Votes, Nintendo a Check Mii Out Channel, spolu s Wii Mail. Zcela dobrovolné.
 {: .notice--info}
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+[Pokračujte na Wiimmfi](wiimmfi)<br> Wiimmfi vám umožní hrát hry online, a to i po vypnutí Nintendo Wi-Fi Connection. Zcela dobrovolné.
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
