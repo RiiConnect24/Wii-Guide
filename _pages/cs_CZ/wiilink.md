@@ -51,9 +51,9 @@ If you use the Wii Patcher, you will not need to use our other patchers.
 10. Vložte SD kartu nebo USB disk do svého Wii.
 11. Na svém Wii spusťte Homebrew Channel.
 12. Spusťte Wii Mod Lite.
-13. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+13. Pomocí D-Padu na Wii Remotu vyberte možnost `WAD Manager`, poté přejděte do složky `wad`.
 14. If your Wii is not a Japanese region, install WiiLink24_SPD.wad before anything else. This is required so that we know your email address to send files.
-15. Highlight all other WADs with `WiiLink24` in the name, and press + to select them. When all of them are selected, press A twice to install the WADs.
+15. Highlight all other WADs with `WiiLink24` in the name, and press + to select them. Až budou všechny zvýrazněné, dvakrát zmáčkněte tlačítko "A", abyste zahájili instalaci.
 16. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
 ##### Section II - Adding your email to SPD
