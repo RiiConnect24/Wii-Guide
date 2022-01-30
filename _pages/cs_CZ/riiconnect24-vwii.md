@@ -9,63 +9,63 @@ Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte s
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-Guide to installing [RiiConnect24](https://rc24.xyz) on your vWii (Virtual Wii on Wii U) with: CMOC/MCC, Nintendo Channel, EVC and News Channel along with forced 4:3 aspect ratio patching.
+Návod k instalaci [RiiConnectu24](https://rc24.xyz) na vašem vWii (virtuální Wii na Wii U) obsahující: Check Mii Out Channel/Mii Contest Channel, Nintendo Channel spolu s patchem vynucujícím poměr stran 4:3.
 
-Since certain features found in the original Wii are not present in the vWii, we can only partially utilize RiiConnect24. See [what's currently working](#whats-currently-working) for details.
+Protože některé funkce, které byly dostupné na původním Wii, nejsou u Wii U k dispozici, můžeme RiiConnect24 využít pouze částečně. Vizte [Co je v tuto chvíli podporováno](#whats-currently-working) pro více informací.
 {: .notice--warning}
 
-#### Warnings
+#### Varování
 
-We are **NOT** responsible if you brick, or damage your console in any way whatsoever. If you follow this guide exactly, you shouldn't have any problems.
+Neručíme **ŽÁDNÝM** způsobem za případné bricknutí nebo jakékoli poškození vaší konzole, vůbec. Pokud budete postupovat přesně podle tohoto návodu, neměli byste narazit na žádný problém.
 {: .notice--warning}
 
-Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on Wii U). If you're looking for instructions for a Nintendo Wii, use [wii.guide/riiconnect24](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [wii.guide/riiconnect24-dolphin](/riiconnect24-dolphin)
+**NEPROVÁDĚJTE** tento postup na jakékoli jiné konzoli než vWii (virtuální Wii na Wii U). Jestli hledáte návod pro Nintendo Wii, použijte [wii.guide/riiconnect24](riiconnect24). Jestli hledáte návod pro emulátor Dolphin, použijte [wii.guide/riiconnect24-dolphin](/riiconnect24-dolphin)
 {: .notice--warning}
 
 #### Co budete potřebovat
 
-* A PC or mobile device with internet access and the ability to interact with SD cards.
-* An SD card formatted as FAT32 (at least 2GB) with enough available space. SDHC or SDXC cards formatted as FAT32 can be known to work.
-* A Wii U console capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
+* Počítač nebo mobilní zařízení, které mají přístup na internet a umí pracovat s SD kartami.
+* SD karta naformátovaná jako FAT32 (alespoň 2GB) s dostatkem volného místa. Karty SDHC nebo SDXC naformátované jako FAT32 by měly také fungovat.
+* Wii U, které je schopné spouštět Homebrew Launcher (buď skrze exploit v prohlížeči, Haxchi nebo Coldboot Haxchi). **Jestliže nemáte hacknuté Wii U, použijte prosím [wiiuguide.xyz](https://wiiuguide.xyz) a také [návod na hacknutí vWii](https://wiiuguide.xyz/#/vwii-modding) a poté se sem vraťte.**
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-After following the above linked guide, you should have:
-* A vWii NAND backup and keys (keep these stored safely!!)
-* The Homebrew Channel installed
-* d2x cIOS installed (IOS249, IOS250 and IOS251)
-* IOS80 patched
+Po provedení postupu uvedeném v linku výše byste měli mít:
+* NAND zálohu vašeho vWii a klíče/kódy (bezpečně si je někam uložte!!)
+* Nainstalovaný Homebrew Channel
+* Nainstalovaný d2x cIOS (IOS249, IOS250 a IOS251)
+* Patchnutý IOS80
 {: .notice--info}
 
 #### Pokyny
 
-##### Section I - Running the patcher
+##### Část I - Spuštění patcheru
 
-Using the RiiConnect24 Patcher you should've downloaded earlier in [What you need](#what-you-need), you will be downloading and patching IOS31, News, Everybody Votes, Nintendo and Check Mii Out Channels for use on your vWii.
+Pomocí nástroje RiiConnect24 Patcher, který jste si měli stáhnout dříve v části [Co budete potřebovat](#what-you-need), budete stahovat a patchovat kanály IOS31, News, Everybody Votes, Nintendo a Check Mii Out pro použití na vašem vWii.
 
-1. Run `RiiConnect24Patcher.bat` on Windows or `RiiConnect24Patcher.sh` on Unix systems by typing bash then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this `bash RiiConnect24Patcher.sh`. Follow the on screen instructions
+1. Spusťte `RiiConnect24Patcher.bat`, pokud jste na Windows, nebo pokud jste na Unixovém systému, zadáním bash a přetáhnutím `RiiConnect24Patcher.sh` do okna terminálu a stisknutím ENTER. Mělo by to vypadat takto `bash RiiConnect24Patcher.sh`. Postupujte podle instrukcí na obrazovce
 
-2. Confirm that after running through the patcher, you have 3 folders. They will be in the same folder where `RiiConnect24Patcher.bat/sh` is and on your SD Card (of course, only if you selected an option in the patcher to do so).
-   - If the patcher did not move the file to the SD Card, move these 3 folders to the root of your SD card.
+2. Přesvědčte se, že po použití patcheru máte 3 složky. Jsou ve stejné složce, ve které je `RiiConnect24Patcher.bat/sh` a také na SD kartě (samozřejmě, pokud jste o zkopírování na SD kartu patcher požádali).
+   - Pokud je patcher nezkopíroval na SD kartu, přesuňte je do kořenového adresáře SD karty sami.
 
-##### Section II - Installing the newly patched WADs
+##### Část II - Instalace patchnutých souborů WAD
 
-1. Open the Homebrew Channel
-2. Launch Wii Mod Lite
-3. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
-4. Highlight all WADs with `RiiConnect24` in the name, and press + to select them. When all of them are selected, press A twice to install the WADs.
-5. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+1. Spusťte Homebrew Channel
+2. Spusťte Wii Mod Lite
+3. Pomocí D-Padu na Wii Remotu vyberte možnost `WAD Manager`, poté přejděte do složky `wad`.
+4. Zvýrazněte všechny WADy s `RiiConnect24` v názvu a stiskněte "+" pro jejich výběr. Až budou všechny zvýrazněné, dvakrát zmáčkněte tlačítko "A", abyste zahájili instalaci.
+5. Jakmile se úspěšně nainstalují, stiskněte tlačítko HOME, abyste se vrátili do Homebrew Channelu.
 
-##### Section III - Patching 43db for 16:9 (optional)
+##### Část III - Patchování 43db pro režim 16:9 (volitelné)
 
-1. Open the Homebrew Channel
-2. Launch the ww-43db-patcher
+1. Spusťte Homebrew Channel
+2. Spusťte ww-43db-patcher
 
-If you install a theme, you will have to run the ww-43db-patcher once more
+Pokud nainstalujete skin, budete muset znovu spustit ww-43db-patcher
 {: .notice--info}
 
-##### Section IV - Using RiiConnect24
+##### Část IV - Použití RiiConnectu24
 
-After following the above sections, you're almost able to utilize RiiConnect24 on your Wii U. You just need to perform the following steps **after every vWii reboot**.
+Po provedení výše uvedených kroků budete téměř schopni používat RiiConnect24 na svém Wii U. **Po každém restartu vWii** budete muset provést následující kroky.
 
 1. On the vWii's **Wii Menu**, launch the **ConnectMii** channel.
 * This will enable the WiiConnect24 and Standby Connection flags required by the WiiConnect24 Channels.
