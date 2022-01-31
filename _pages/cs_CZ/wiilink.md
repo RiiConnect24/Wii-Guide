@@ -40,11 +40,11 @@ If you use the Wii Patcher, you will not need to use our other patchers.
 {: .notice--info}
 
 1. Download the required files based on your OS. On Windows, run `WiiLinkPatcher.bat`. On Unix systems, launch terminal and type sh, then drag the `WiiLinkPatcher.sh` into the terminal and press enter.
-2. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`.
+2. Stiskněte 1, abyste zvolili možnost "`Start`" a potvrďte ENTERem.
 3. For this guide, choose "`Install WiiLink on your Wii`"
 4. Select your region.
 5. Connect the SD Card or USB Drive to your computer and select "`1`".
-6. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
+6. Pokud bylo přenosné úložiště úspěšně rozpoznáno, vyberte "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
 7. Be patient...
 8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
 9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLinkPatcher.bat` to your SD Card or USB Device.
