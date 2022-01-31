@@ -67,24 +67,24 @@ Pokud nainstalujete skin, budete muset znovu spustit ww-43db-patcher
 
 Po provedení výše uvedených kroků budete téměř schopni používat RiiConnect24 na svém Wii U. **Po každém restartu vWii** budete muset provést následující kroky.
 
-1. On the vWii's **Wii Menu**, launch the **ConnectMii** channel.
-* This will enable the WiiConnect24 and Standby Connection flags required by the WiiConnect24 Channels.
-2. Launch the WiiConnect24 Channels
-* You should now be able to utilize all of the WiiConnect24 Channels you have installed!
+1. Z **Wii Menu** na vWii spusťte kanál **ConnectMii**.
+* To povolí WiiConnect24 a Standby Connection flagy potřebné pro WiiConnect24 kanály.
+2. Spusťte WiiConnect24 kanály
+* Nyní byste měli být schopni používat všechny WiiConnect24 kanály, které jste nainstalovali!
 
-#### What's currently working?
-The following RiiConnect24 services are **working** on the vWii:
+#### Co je v tuto chvíli podporováno?
+Následující služby RiiConnect24 **fungují** na vWii:
 * News Channel
-    * This channel is affected by the timestamp issue. The "Last Updated" and article timestamps will be incorrect.
-    * The banner data is also known to not work, returning `Unable to obtain data.`
+    * Tento kanál je ovlivněn problémem s časovým razítkem. Čas v kolonce "Last Updated" a u článků nebude zobrazován správně.
+    * Přehled zpráv na banneru také nefunguje, bude se ukazovat `Unable to obtain data.`
 * Forecast Channel
 * Nintendo Channel
 * Everybody Votes Channel
 * Check Mii Out Channel / Mii Contest Channel
 {: .notice--success}
 
-The following RiiConnect24 services are **not working** on the vWii:
-* Wii Mail (most functionality does not exist on vWii)
-    * This includes sending/receiving mail to/from friends. You can only receive global broadcast mail and posts from RSSMii feeds (if set up).
-* Everything else that isn't working according to [RiiConnect24 stats](https://rc24.xyz/stats/index.html).
+Následující služby RiiConnect24 **nefungují** na vWii:
+* Wii Mail (některá funkcionalita na vWii neexistuje)
+    * To zahrnuje odesílání zpráv přátelům i příjem zpráv od přátel. Můžete přijímat pouze veřejné zprávy (např. přání do nového roku od RC24) a zprávy z RSSMii (pokud to máte nastaveno).
+* Všechno ostatní, co nefunguje podle [RiiConnect24 stats](https://rc24.xyz/stats/index.html).
 {: .notice--warning}
