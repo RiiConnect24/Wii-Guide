@@ -9,12 +9,12 @@ header:
 excerpt: "Kompletní návod na hacknutí vašeho Wiička."
 ---
 
-Průvodce je také k dispozici v jiných jazycích! Chcete-li změnit jazyk, stiskněte ikonu vpravo nahoře a změňte svůj jazyk.
+Průvodce je také k dispozici v jiných jazycích! Chcete-li změnit jazyk, zvolte ikonu vpravo nahoře a vyberte jazyk.
 {: .notice--info}
 
 ## Co to je "homebrew"?
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) označuje neoficiální software, který není autorizován společností Nintendo. To může zahrnovat hry, nástroje, emulátory a mnohem více!
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) označuje neoficiální software, který není autorizován společností Nintendo. To zahrnuje hry, nástroje, emulátory a mnohem více!
 
 Spuštění homebrew na Nintendu Wii lze provést zdarma využitím chyb v softwaru. Modifikace, kterých dosáhnete následováním tohoto návodu, vám umožní snadno spouštět homebrew.
 
@@ -36,17 +36,17 @@ Zde jsou věci, které můžete pomocí homebrew dělat. Přestože tento výče
 
 ## Jste ready?
 
-Záčněte výběrem [exploitu](get-started)!
+Začněte výběrem [exploitu](get-started)!
 {: .notice--info}
 
 ## Kam dál
 
-Existuje také pár dobrých zdrojů pro Wii modding a řešení problémů, které vám mohou pomoci:
+Pomoci vám také mohou tyto zdroje zaměřené na modding Wiička:
 
 - [ModMii](https://modmii.github.io/)
 - [WiiBrew](https://wiibrew.org/)
 - [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
-- [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...and of course, this site
+- [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...a samozřejmě i tento web
 
 Pro hacknutí Wii U použijte tento návod:
 - [NH Wii U Guide](https://wiiu.hacks.guide)
