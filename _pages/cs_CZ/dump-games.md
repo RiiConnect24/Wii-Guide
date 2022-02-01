@@ -1,5 +1,5 @@
 ---
-title: "Dumpování Wii/GameCubových her"
+title: "Tvorba kopií Wii/GameCubových her (dumping)"
 ---
 
 Chcete dumpnout GameCube nebo Wii disk (vytvořit jeho přesnou kopii na přenosném úložišti)? Existují dva způsoby, jak to udělat, v závislosti na prostředcích, které máte k dispozici.
