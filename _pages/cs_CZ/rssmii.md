@@ -1,5 +1,5 @@
 ---
-title: "Installing RSSMii"
+title: "Instalace RSSMii"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -7,7 +7,7 @@ title: "Installing RSSMii"
 Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte se na [RiiConnect24 Discord server](https://discord.gg/rc24) (doporučeno) nebo [nám napište e-mail](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Do you want to get RSS feed updates on your Wii Message Board? This tutorial will tell you how to set RSSMii up.
+Chcete dostávat aktualizace vašich oblíbených RSS kanálů do Wii Message Board? Tento návod vám poradí, jak zprovoznit RSSMii.
 
 ![RSSMii](/images/rssmii.png)
 
