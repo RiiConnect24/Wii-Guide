@@ -27,23 +27,23 @@ If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.ne
 * A Wii U with the Homebrew Channel installed.
 * A Wiimote without Wii MotionPlus
 * SD karta
-* A computer with Windows on it (or using Mono or Wine on Mac/Linux)
+* Počítač běžící na Windows (nebo Mono/Wine, pokud se jedná o Mac/Linux)
 * [MyMenuify](/assets/files/Mymenuify-Old-vWii.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
 * [NUSD (vWii)](/assets/files/NUSDownloader-vwii.zip)
 
 
-#### Theme Links
+#### Odkazy na skiny
 
 Below you may find some links to themes:
 
-* [RiiConnect24 themes page](https://rc24.xyz/goodies/themes/)
+* [Stránka s RiiConnect24 skiny](https://rc24.xyz/goodies/themes/)
 
 Only themes from the Riiconnect24 Themes page have been tested on vWii. Themes from other sources may not be entirely compatible with vWii, use these at your own risk.
 {: .notice--warning}
 
-* [Google Drive repository](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
-* [This GBAtemp post](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
+* [Repozitář na Google Disku](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
+* [Tento post na GBAtempu](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
 MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
 {: .notice--warning}
