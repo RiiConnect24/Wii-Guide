@@ -1,5 +1,5 @@
 ---
-title: "Dumpování souborů WAD"
+title: "Kopírování nainstalovaných souborů WAD (dumping)"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -7,7 +7,7 @@ title: "Dumpování souborů WAD"
 Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte se na [RiiConnect24 Discord server](https://discord.gg/rc24) (doporučeno) nebo [nám napište e-mail](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Tento tutoriál vám vysvětlí, jak provést dumpování (extrahování) souborů WAD ze systémové paměti Wiička.
+Tento tutoriál vám vysvětlí, jak kopírovat soubory WAD nainstalované v systémové paměti Wiička na přenosné úložiště.
 
 #### Požadavky
 * SD karta nebo USB disk
@@ -31,4 +31,4 @@ Tento tutoriál vám vysvětlí, jak provést dumpování (extrahování) soubor
 6. Při výzvě `Fakesign the TMD` vyberte `Yes`.
 7. Při výzvě `Change the output WAD region` vyberte `No`.
 
-Nyní jste požadovaný soubor WAD zkopírovali ze systémové paměti na přenosné úložiště. Měl by se zobrazovat na vaší SD kartě. ![Done](/images/DumpWADS/5.png)
+Nyní jste požadovaný soubor WAD zkopírovali ze systémové paměti na přenosné úložiště. Měl by se objevit na vaší SD kartě. ![Done](/images/DumpWADS/5.png)
