@@ -1,5 +1,5 @@
 ---
-title: "Installing Wii Menu Themes"
+title: "Instalace Wii Menu skinů"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -7,43 +7,43 @@ title: "Installing Wii Menu Themes"
 Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte se na [RiiConnect24 Discord server](https://discord.gg/rc24) (doporučeno) nebo [nám napište e-mail](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Are you tired of the boring, plain white theme on your Wii Menu, and want a cool theme instead? This tutorial will help you get a new theme for your Wii Menu!
+Chcete nahradit nudné bílé výchozí prostředí vašeho Wii Menu nečím neobyčejným? Tento návod vám pomůže aplikovat skin na vaše Wii Menu!
 
-In the case of a brick, [installing Priiloader is a must](priiloader). Also, install BootMii (as Boot2 if you have an early Wii). Installing brick protection along with following the guide correctly should keep you safe from bricks. DO NOT CONTINUE UNTIL YOU HAVE INSTALLED PRIILOADER AND BOOTMII!
+Mějte nejprve [nainstalovaný Priiloader](priiloader), pokud by došlo k bricknutí konzole. Také nainstalujte BootMii (nejlépe jako boot2, pokud máte starší Wii). Instalací ochrany před bricknutím a dodržením přesného postupu se nejspíše bricku vyhnete. NEPOKRAČUJTE, DOKUD NEMÁTE NAINSTALOVANÝ PRIILOADER A BOOTMII!
 {: .notice--warning}
 
-This guide is intended for regular Wiis only. For installing themes on vWii (Wii U), follow [this page](themes-vwii).
+Tento návod je určen pouze pro klasické Wii. Pokud se chystáte nainstalovat skin na vWii (Wii U), postupujte podle [tohoto návodu](themes-vwii).
 {: .notice--warning}
 
-Only install themes on your Wii that have been formatted specifically for it, and its current region. Installing themes from the wrong region or version on your Wii will cause a brick. This tutorial will tell you how to create a csm that is safe to install.
+Instalujte pouze skiny speciálně naformátované pro vaše Wii a určené pro region vaší konzole. Instalací skinů pro jiný region nebo verzi na vašem Wii způsobíte brick. Tento návod vám poradí, jak vytvořit soubor csm, který je bezpečný pro instalaci.
 {: .notice--danger}
 
-For safety purposes, please do not use any other version of MyMenuify than the one linked here, as MyMenuify Mod is the safest way to install a theme.
+Z bezpečnostních důvodů prosím nepoužívejte žádnou jinou verzi utility MyMenuify než tu, na kterou zde odkazujeme, neboť MyMenuify Mod je nejbezpečnější způsob, jak nainstalovat skin.
 {: .notice--info}
 
-Do not use any other version of ThemeMii than the one linked here, as ThemeMii Mod allows you to make a theme for Wii Menu version 4.3, other versions may not.
+Nepoužívejte jinou verzi utility ThemeMii než tu, na kterou zde odkazujeme, neboť ThemeMii Mod umožní vytvořit skin pro Wii Menu ve verzi 4.3, jiné verze nemusejí.
 {: .notice--info}
 
-We recommend you [install cIOS](cios) before continuing.
+Předtím, než budete pokračovat, doporučujeme [nainstalovat cIOS](cios).
 {: .notice--info}
 
 #### Co budete potřebovat
 
-* A Wii
+* Wii
 * SD karta nebo USB disk
-* A computer with Windows on it (or using Mono or Wine on Mac/Linux)
+* Počítač běžící na Windows (nebo Mono/Wine, pokud se jedná o Mac/Linux)
 * [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
 * [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
 
-#### Theme Links
+#### Odkazy na skiny
 
-To find themes to install, here are 3 resources:
+Zde jsou 3 zdroje, kde můžete najít skiny:
 
-* [Google Drive repository](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
-* [RiiConnect24 themes page](https://rc24.xyz/goodies/themes/)
-* [This GBAtemp post](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
+* [Repozitář na Google Disku](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
+* [Stránka s RiiConnect24 skiny](https://rc24.xyz/goodies/themes/)
+* [Tento post na GBAtempu](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
-MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
+UJISTĚTE SE, ŽE JSTE SI PŘEČETLI VEŠKERÁ VAROVÁNÍ VÝŠE PŘEDTÍM, NEŽ BUDETE POKRAČOVAT!
 {: .notice--warning}
 
 #### Pokyny
@@ -70,10 +70,10 @@ MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
 
 ##### Section III - Installing the Theme
 
-1. Extract MyMenuifyMod.zip to your SD card or USB drive.
+1. Extrahujte MyMenuifyMod.zip na SD kartu nebo USB disk.
 2. Put the .csm file you saved in a folder called `modthemes` on your SD card or USB drive.
 3. Vložte SD kartu nebo USB disk do svého Wii.
-4. Launch MyMenuify Mod from the Homebrew Channel.
+4. Z Homebrew Channelu spusťte MyMenuify Mod.
 5. After an introduction message, it will ask you what IOS you want to use in the app. If you have [installed cIOS](cios), use `IOS249`, or else use `IOS58`. If the former gives an `Exception DSI occurred!` error, press Reset on the Wii console, launch it again, then try `IOS250`.
 6. Highlight the theme you want to install, then press A. Give it a moment to install the theme, then press any button to go to the Wii Menu. Hopefully, the theme installed correctly.
 
