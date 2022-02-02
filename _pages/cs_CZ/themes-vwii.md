@@ -50,7 +50,7 @@ MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
 
 #### Pokyny
 
-##### Section I - Finding a Theme
+##### Část I - Vyhledání skinu
 
 * When choosing a theme it is important to make sure that your theme is compatible with the vWii System Menu.
 
