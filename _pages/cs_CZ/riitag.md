@@ -1,5 +1,5 @@
 ---
-title: "RiiTag on Wii"
+title: "RiiTag na Wii"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -7,24 +7,24 @@ title: "RiiTag on Wii"
 Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte se na [RiiConnect24 Discord server](https://discord.gg/rc24) (doporučeno) nebo [nám napište e-mail](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You connect it to a USB Loader, and the tag updates on-the-fly. You need a Discord account in order to start using RiiTag.
+RiiTag je dynamický a customizovatelný gamertag. Sdílením vašeho gamertagu (dynamického obrázku) můžete přátelům prozradit, co jste naposled hráli! Můžete ho propojit s USB Loaderem, aby se aktualizoval za běhu. Abyste mohli začít používat RiiTag, budete potřebovat účet Discord.
 
-Want to install RiiTag on your Wii U? See [this guide](riitag-wiiu) on how to connect it to your Wii U Menu.
+Chcete zprovoznit RiiTag na Wii U? Postupujte podle [tohoto návodu](riitag-wiiu) na instalaci RiiTagu na Wii U.
 {: .notice--info}
 
 #### Co budete potřebovat
 
 * Počítač
-* A text editor
-* A USB Loader
+* Textový editor
+* USB Loader
 
 #### Pokyny
 
-##### Section I - Getting Started
+##### Část I - Začínáme
 
-1. [Go to the RiiTag site.](https://tag.rc24.xyz/)
-2. Click `Log In` and log in with your Discord account.
-3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Click `Authorize`.
+1. [Navštivte webové stránky RiiTagu.](https://tag.rc24.xyz/)
+2. Klikněte na `Log In` a přihlaste se vaším účtem Discord.
+3. Objeví se dialog s dotazem, zda chcete autorizovat `RiiConnect24 Login` s Discordem. Klikněte na `Authorize`.
 4. Click `Edit Your Tag` and customize it to how you like. You can add a background, overlay, flag, nickname, Wii Number, and manually enter in games to show on your tag (not needed if you're using a USB Loader).
 5. Click `Show Key` and make note of the key shown. This is not needed if you're using USB Loader GX, as the key will be in a downloadable file.
 6. Click `Submit` to save your changes.
