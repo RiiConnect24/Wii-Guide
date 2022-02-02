@@ -9,7 +9,7 @@ Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte s
 
 Chcete nahradit nudné bílé výchozí prostředí vašeho Wii Menu nečím neobyčejným? Tento návod vám pomůže aplikovat skin na vaše Wii Menu!
 
-Mějte nejprve [nainstalovaný Priiloader](priiloader), pokud by došlo k bricknutí konzole. Také nainstalujte BootMii (nejlépe jako boot2, pokud máte starší Wii). Instalací ochrany před bricknutím a dodržením přesného postupu se nejspíše bricku vyhnete. NEPOKRAČUJTE, DOKUD NEMÁTE NAINSTALOVANÝ PRIILOADER A BOOTMII!
+Mějte nejprve [nainstalovaný Priiloader](priiloader), pomůže vám, pokud by došlo k bricknutí konzole. Také nainstalujte BootMii (nejlépe jako boot2, pokud máte starší Wii). Instalací ochrany před bricknutím a dodržením přesného postupu se nejspíše bricku vyhnete. NEPOKRAČUJTE, DOKUD NEMÁTE NAINSTALOVANÝ PRIILOADER A BOOTMII!
 {: .notice--warning}
 
 Tento návod je určen pouze pro klasické Wii. Pokud se chystáte nainstalovat skin na vWii (Wii U), postupujte podle [tohoto návodu](themes-vwii).
@@ -48,34 +48,34 @@ UJISTĚTE SE, ŽE JSTE SI PŘEČETLI VEŠKERÁ VAROVÁNÍ VÝŠE PŘEDTÍM, NEŽ
 
 #### Pokyny
 
-##### Section I - Finding a Theme
+##### Část I - Vyhledání skinu
 
-* Peruse the resources to get themes, finding a theme you want to install. Some have YouTube videos to show what the theme looks like, unfortunately some of them are unavailable.
-* Once you found one you like, click the download link corresponding to your Wii Menu version. **It is very important to pick the right one to avoid bricks.**
-* You probably will pick the download link that says 4.X, that means the theme will work on version 4.1, 4.2 and 4.3 of the Wii Menu.
-* Some themes have different links for different regions, so pick the one corresponding to your Wii's region.
-* There are other resources for Wii Menu themes, but they might be in csm form (ready to install on the Wii). If the csm doesn't match the version and region of your Wii Menu, try to convert it to mym with ThemeMii Mod, and then convert it back to csm with the instructions here using the version and region of your Wii Menu.
-* Once you downloaded the theme you want and double-checked you got the right one, open up ThemeMii Mod.
+* Prohlédněte si zdroje k získání skinů a najděte skin, který chcete nainstalovat. U některých skinů je i YouTube video ukazující, jak daný skin vypadá, bohužel některá videa jsou nedostupná.
+* Jakmile najdete takový skin, který se vám líbí, klikněte na download link s odpovídající verzí vašeho Wii Menu. **Je opravdu nesmírně důležité vybrat správný, abyste se vyvarovali bricknutí.**
+* Nejspíše budete vybírat download link, u kterého je uvedeno 4.X, což znamená, že daný skin je určen pro Wii Menu verze 4.1, 4.2 a 4.3.
+* Některé skiny mají různé odkazy pro různé regiony, takže vyberte ten, který odpovídá regionu vašeho Wii.
+* Existují i jiné stránky se skiny pro Wii, ale tam mohou být ve formátu csm (připraveny k instalaci přímo na Wii). Pokud daný soubor csm neodpovídá regionu nebo verzi vaší konzole, můžete ho zkusit překonvertovat do formátu mym použitím utility ThemeMii Mod a pak zpět do formátu csm pomocí tohoto návodu, za předpokladu dodržení verze a regionu vašeho Wii Menu.
+* Až stáhnete požadovaný skin a dvakrát zkontrolujete, že máte ten správný, spusťte ThemeMii Mod.
 
-##### Section II - Building the Theme
+##### Část II - Vytvoření skinu
 
-1. A dialog box will pop up telling you to only install themes if you have brick protection. If you installed Priiloader and/or BootMii (see the warning at the start of this guide), press OK.
-2. Go to `Tools` > `Download Base App` > Version of your Wii Menu > Region of your Wii Menu
-3. A dialog box will pop up asking you to enter in a value to create a key. Enter in what it says, it will create a key that will be used to decrypt the Wii Menu contents from Nintendo's servers.
-4. A file selection box will ask you where to save the .app file (that is the Wii Menu content file it downloaded). Save it to the directory where ThemeMii is in.
-5. Go to `Options` > `Standard System Menu` > Version of your Wii Menu > Region of your Wii Menu
-6. Go to `File` > `Open`, then browse for where your .mym file is.
-7. Press `Create csm`, then browse for a directory you want to save the theme in. Give it a moment to build the theme.
-8. A dialog box will pop up hopefully saying it built the theme correctly, and it will ask you if you want to save the .mym. Press `No`.
+1. Zobrazí se okno s výstrahou, že byste měli instalovat skiny pouze pokud máte nainstalovánu ochranu před bricknutím. Jestliže jste nainstalovali Priiloader a/nebo BootMii (vizte varování na začátku tohoto návodu), stiskněte OK.
+2. Přejděte do `Tools` > `Download Base App` > verze Wii Menu vašeho Wii > region vašeho Wii
+3. Zobrazí se okno, do kterého máte zadat nějakou hodnotu, abyste vytvořili klíč. Zadejte, co vidíte na obrazovce. Bude vytvořen klíč, kterým se zašifrují soubory Wii Menu stažené ze serverů Nintenda.
+4. Okno s výběrem souborů se vás zeptá, kam chcete uložit soubor .app, který obsahuje stažené Wii Menu. Uložte jej do stejné složky, ve které je ThemeMii.
+5. Přejděte do `Options` > `Standard System Menu` > verze Wii Menu vašeho Wii > region vašeho Wii
+6. Zvolte `File` > `Open`, pak vyhledejte vámi stažený skin ve formátu .mym.
+7. Zvolte `Create csm`, pak vyberte složku, do které chcete skin uložit. Chvilku počkejte, než se skin vytvoří.
+8. Vyskočí okno, které oznámí úspěšné vytvoření skinu a ptající se, zdali chcete soubor .mym uložit. Zvolte `No`.
 
-##### Section III - Installing the Theme
+##### Část III - Instalace skinu
 
 1. Extrahujte MyMenuifyMod.zip na SD kartu nebo USB disk.
-2. Put the .csm file you saved in a folder called `modthemes` on your SD card or USB drive.
+2. Vložte uložený soubor .csm do složky `modthemes` na vaší SD kartě nebo USB disku.
 3. Vložte SD kartu nebo USB disk do svého Wii.
 4. Z Homebrew Channelu spusťte MyMenuify Mod.
-5. After an introduction message, it will ask you what IOS you want to use in the app. If you have [installed cIOS](cios), use `IOS249`, or else use `IOS58`. If the former gives an `Exception DSI occurred!` error, press Reset on the Wii console, launch it again, then try `IOS250`.
-6. Highlight the theme you want to install, then press A. Give it a moment to install the theme, then press any button to go to the Wii Menu. Hopefully, the theme installed correctly.
+5. Po uvítacím okně se vás aplikace zeptá, pod kterým IOSem má běžet. Pokud máte [nainstalovaný cIOS](cios), použijte `IOS249`, jinak použijte `IOS58`. Pokud vám to vyhodí chybu `Exception DSI occurred!`, zmáčkněte tlačítko RESET na konzoli, spusťte program znovu a tentokrát zkuste použit `IOS250`.
+6. Zvýrazněte skin, který chcete nainstalovat, a zmáčkněte "A". Chvilku počkejte, než se skin nainstaluje. Poté stiskněte jakékoli tlačítko, abyste se vrátili do Wii Menu. Snad se skin nainstaloval správně.
 
-If you get an error saying "The system files are corrupted" or a black screen, don't panic as long as you installed Priiloader. Turn off your Wii, then hold down the RESET button down and turn on your Wii. You should be able to boot into the Priiloader menu, where you have some options to fix your Wii Menu. One of the options is to launch the Homebrew Channel, where you can launch MyMenuify Mod and press a button to download and install the original Wii Menu theme.
+Pokud se zobrazí chyba "The system files are corrupted" nebo se nezobrazí vůbec nic, nepropadejte panice, jestliže máte nainstalovaný Priiloader. Vypněte Wii, poté ho při stisknutém tlačítku RESET zapněte. Měli byste se dostat do Priiloaderu, ze kterého máte možnost problém opravit. Jednou z možností je spustit Homebrew Channel, ze kterého můžete spustit MyMenuify Mod a stisknout tlačítko, čímž stáhnete a nainstalujete původní skin Wii Menu.
 {: .notice--info}
