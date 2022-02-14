@@ -4,7 +4,7 @@ title: "BlueBomb"
 
 {% include toc title="Table des matières" %}
 
-It is **strongly** advised against using **any** video guide for hacking your Wii mini console, as there is an extremely large chance of **bricking** it.
+Il est **très fortement** déconseillé d'utiliser un **guide vidéo** pour hacker votre Wii Mini, car il y a une grande chance de la **bricker**.
 {: .notice--warning}
 
 Si vous avez besoin d'aide à propos de ce tutoriel, rejoignez le [Discord de hacking pour Wii mini](https://discord.gg/6ryxnkS) (recommandé mais en anglais)
@@ -12,9 +12,9 @@ Si vous avez besoin d'aide à propos de ce tutoriel, rejoignez le [Discord de ha
 
 ![BlueBomb](/images/bluebomb.png)
 
-BlueBomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Although it is the only exploit that works for the Wii mini, BlueBomb can run on the original Wii as well. This exploit also enables recovery from certain bricks, such as a banner brick.
+BlueBomb est un exploit qui utilise une faille dans la connexion Bluetooth de la Wii et de la Wii Mini. Même si c'est le seul exploit qui marche sur la Wii Mini, BlueBomb peut aussi être utilisé sur la Wii. Il permet la récupération de certains bricks, comme le Banner Brick.
 
-For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
+Pour la Wii, nous ne recommandons pas l'utilisation de BlueBomb pour installer la Homebrew Channel ou BootMii, car il y a des exploits bien plus faciles à mettre en place.
 {: .notice--info}
 
 #### Section I - Ce dont vous avez besoin
