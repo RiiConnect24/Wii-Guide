@@ -51,13 +51,13 @@ chmod +x bluebomb-helper.sh
 1. Allumez votre console et **ne connectez pas** de télécommandes Wii.
 1. Appuyez sur le bouton Sync à plusieurs reprises jusqu'à ce que le terminal affiche `got connection handle`. Cela peut prendre plusieurs essais, alors n'abandonnez pas.
 
-Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
+Vérifiez que la console est proche de l'ordinateur qui fait tourner l'exploit, idéallement moins d'1 mètre.
 {: .notice--info}
 
-The console should now boot to the HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
+La console devrait maintenant lancer l'installeur BootMii. Vous pouvez mainteant éteindre l'ordinateur si vous ne comptez pas l'utilisez plus tard.
 
-[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
+[Si vous utilisez une Wii, installez la Homebrew Channel et BootMii](hbc)
 {: .notice--info}
 
-[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
+[Si vous utilisez une Wii Mini, n'installez que la Homebrew Channel](hbc-mini)
 {: .notice--info}
