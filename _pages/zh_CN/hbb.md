@@ -2,17 +2,17 @@
 title: "Open Shop 频道(Homebrew 浏览器)"
 ---
 
-If you need help for anything regarding this tutorial, please join [the Open Shop Channel](https://discord.gg/osc) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+译者注：如果你需要任何帮助，国内用户可以添加QQ群：417992332，国外用户可以加入[RiiConnect24 Discord群组](https://discord.gg/osc)，或者[发送电子邮件至support@riiconnect24.net](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
-Homebrew Browser, which is what the Open Shop Channel is based off on, does work but it can be buggy. You can also get homebrew using [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) and from the [Open Shop Channel website](https://oscwii.org/).
+Homebrew Browser是Open Shop频道的基础，但可能有点毛病。 您也可以使用 [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) 并从 [开放商店频道网站](https://oscwii.org/) 获得自制程序。
 {: .notice--info}
 
-The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
+[Open Shop 频道](https://oscwii.org/)是你可以在上面下载自制程序的好地方。 这是一个名为Homebrew Browser的应用程序的复活项目。
 
-#### 你需要的是
+#### 你需要准备的东西…
 * 一张SD卡或者U盘
-* [Homebrew浏览器](/assets/files/homebrew_browser_v0.3.9e.zip)
+* [Homebrew Browser](/assets/files/homebrew_browser_v0.3.9e.zip)
 
 #### 步骤
 
@@ -25,8 +25,8 @@ The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew
 [继续 网站导览](site-navigation) 我们有许多你可能喜欢的其他教程。
 {: .notice--info}
 
-Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
+Homebrew Browser中包含有关如何使用它的指南。
 {: .notice--info}
 
-You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
+你可以将Homebrew Browser的shopChannel.ogg与loop.ogg换成Wii 商店频道的音乐。
 {: .notice--info}

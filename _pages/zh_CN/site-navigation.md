@@ -61,7 +61,7 @@ sitemap: false
 
 **站点**
 + [主页](/)
-+ [开始](get-started)
++ [开始](开始)
 + [FAQ](faq)
 + [捐赠](donations)
 {% endcapture %}

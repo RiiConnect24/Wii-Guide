@@ -1,7 +1,7 @@
 ---
 title: "Todas las guías"
 layout: single
-sitemap: falso
+sitemap: false
 ---
 
 ![Tutoriales](/images/WiiTutorials.jpg)
@@ -61,8 +61,8 @@ sitemap: falso
 
 **Sitio**
 + [Casa](/)
-+ [Empezar](comenzar)
-+ [Preguntas frecuentes](preguntas-frecuentes)
++ [Empezar](get-started)
++ [Preguntas frecuentes](faq)
 + [Donaciones](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>

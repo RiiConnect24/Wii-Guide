@@ -2,34 +2,34 @@
 title: "LetterBomb"
 ---
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte se na [RiiConnect24 Discord server](https://discord.gg/rc24) (doporučeno) nebo [nám napište e-mail](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![LetterBomb](/images/letterbomb.png)
 
-LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
+LetterBomb je exploit pro Wii, který využívá zranitelnosti ve Wii Message Board.
 
-#### What you need
-- An SD card
-- A Wii on System Menu version 4.3
+#### Co budete potřebovat
+- SD karta
+- Wii s verzí firmwaru 4.3
 
-#### Instructions
+#### Pokyny
 
 
-1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
-1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure* `Bundle the HackMii Installer for me!` *is checked*, and cut either wire
-   - Whichever wire you choose to cut doesn't matter. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
-1. Extract the contents of the downloaded ZIP to the root of your SD card.
-1. Take out your SD card and insert it in your Wii.
-1. On your Wii, return to the Wii Menu and then open the Wii Message Board.
-1. Load the red letter with a bomb icon.
-   - In various scenarios, you may need to look at the previous or next day to find it.
+1. Na svém Wii přejděte do `Wii Settings` -> `Internet` -> `Console Information` a zapište si zobrazenou MAC adresu.
+1. Navštivte [please.hackmii.com](https://please.hackmii.com), zadejte zjištěnou MAC adresu a region vaší konzole, dokončete CAPTCHu, *zajistěte*, aby byla možnost `Bundle the HackMii Installer for me!` *zafajfknuta* a "přeřízněte" jeden z drátů
+   - Nezáleží na tom, jaký drát "přeříznete". ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
+1. Stažený ZIP rozbalte do kořenového adresáře vaší SD karty.
+1. SD kartu vyjměte a vložte do vašeho Wii.
+1. Na Wiičku přejděte do Wii Menu a otevřete Wii Message Board.
+1. Otevřete červenou obálku s ikonkou bomby.
+   - Někdy se může stát, že červenou obálku najdete na stránce předešlého nebo následujícího dne.
 
-Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
+Také se ujistěte, že máte na vašem Wii správně nastavené datum a čas, jinak se může stát, že červenou obálku nenajdete.
 {: .notice--warning}
 
 
 ![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[Pokračujte instalací Homebrew Channelu a BootMii](hbc)
 {: .notice--info}

@@ -1,48 +1,48 @@
 ---
-title: "Homebrew Channel and BootMii Installation"
+title: "Instalace Homebrew Channelu a BootMii"
 ---
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte se na [RiiConnect24 Discord server](https://discord.gg/rc24) (doporučeno) nebo [nám napište e-mail](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![HBC Logo](/images/hbc.png)
 
-The Homebrew Channel is where you will go to launch homebrew applications. BootMii is a piece of software that can backup and restore your Wii's NAND storage, and if installed in boot2, provides brick protection.
+Homebrew Channel je program, ze kterého budete spouštět homebrew aplikace. BootMii je program, který umí zazálohovat a obnovit systémovou paměť NAND, a pokud je nainstalován jako boot2, poskytuje ochranu před bricknutím.
 
-#### Instructions
+#### Pokyny
 
-1. You will see a scam warning screen. Wait 30 seconds for the text "Press 1 to continue" to appear, then press 1. ![Scam Screen](/images/Wii/ScamScreen.png)
+1. Uvidíte obrazovku s varováním před potenciálním podvodem. Počkejte 30 sekund, než se objeví text "Press 1 to continue", pak tlačítko "1" stiskněte. ![Scam Screen](/images/Wii/ScamScreen.png)
 
-2. When at the HackMii installer, you are able to install the Homebrew Channel and BootMii. ![Results](/images/Wii/Results.png)
+2. Jakmile se dostanete do instalátoru BootMii, budete moci nainstalovat jak Homebrew Channel, tak BootMii. ![Results](/images/Wii/Results.png)
 
-3. Press Continue, then select the Homebrew Channel, and press install. ![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
+3. Zvolte "Continue" a pak vyberte "Homebrew Channel" a poté zahajte instalaci. ![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
-4. Press Continue when finished. ![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
+4. Zvolte "Continue", jakmile se instalace dokončí. ![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
 
-5. Once installed, press back and go to BootMii.
-6. If the main screen says you can install BootMii as boot2, do so. This offers the best possible brick protection you can have. Skip this step if you cannot install BootMii as boot2.
-7. Install BootMii as IOS, even if you already installed BootMii boot2 in the previous step. If you couldn't install BootMii as boot2 in the previous step, this will still allow you to create a NAND backup.
+5. Po dokončení instalace zvolte "Back" a poté zvolte "BootMii".
+6. Pokud v hlavní nabídce vidíte, že můžete nainstalovat BootMii jako boot2, učiňte tak. To nabízí nejlepší možnou ochranu před bricknutím, kterou můžete mít. Tento krok přeskočte, pokud nemůžete BootMii nainstalovat jako boot2.
+7. Nainstalujte BootMii jako IOS, a to i přesto, pokud jste již nainstalovali BootMii jako boot2 v předchozím kroku. Jestliže jste nemohli nainstalovat BootMii jakoboot2 v předchozím kroku, tento krok vám přesto umožní vytvořit NAND zálohu.
 
-If you do not have an SD card, you cannot install or use BootMii, and therefore will not be able utilize any of the mentioned benefits. You can always install it at a later date.
+Pokud nemáte SD kartu, nemůžete nainstalovat ani spouštět BootMii, proto nebudete moci využívat jeho zmíněné výhody. Vždy ho můžete nainstalovat později.
 {: .notice--warning}
 
 ![BootMii Installation](/images/Wii/InstallBootMii.png)
 
-8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
+8. Jakmile je vše hotovo, zvolte `Continue`, pak `Exit`, abyste přešli do Homebrew Channelu
 
-#### Required Reading
+#### Čtěte
 
-You can now use the Homebrew Channel to launch homebrew apps. Open Shop Channel is a one-stop shop for downloading homebrew, which you will learn how to install further in this guide.
+Nyní můžete používat Homebrew Channel ke spouštění homebrew aplikací. Open Shop Channel je univerzální místo ke stahování homebrew aplikací, o jeho instalaci se později v tomto tutoriálu dozvíte.
 
-Here's a tip - when installing homebrew applications on your SD Card or USB drive, your folder structure should look like this:
+Tady je rada - až budete instalovat homebrew aplikace na SD kartu nebo USB disk, zachovejte tuto strukturu adresářů:
 
-💾 sd or usb:
+💾 sd nebo usb:
 
 ┣ 📂 apps
 
-┃ ┣ 📂 AppName1
+┃ ┣ 📂 NázevAplikace1
 
 ┃ ┃ ┣ 📄 boot.dol / boot.elf
 
@@ -50,7 +50,7 @@ Here's a tip - when installing homebrew applications on your SD Card or USB driv
 
 ┃ ┃ ┗ 📄 meta.xml
 
-┃ ┗ 📂AppName2
+┃ ┗ 📂NázevAplikace2
 
 ┃ ┃ ┣ 📄 boot.dol / boot.elf
 
@@ -58,10 +58,10 @@ Here's a tip - when installing homebrew applications on your SD Card or USB driv
 
 ┃ ┃ ┗ 📄 meta.xml
 
-`AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
+`NázevAplikace1` a `NázevAplikace2` jsou jen příklady názvu aplikací. Dávejte si pozor, abyste nevkládali složky `apps` do složky `apps` samotné.
 
-[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
+[Pokračujte vytvořením NAND zálohy pomocí BootMii](bootmii)<br>Vytvoření NAND zálohy pomocí BootMii je v tuto chvíli silně doporučeno.
 {: .notice--info}
 
-If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
+Jestliže jste nemohli nainstalovat BootMii, pokračujte [instalací Priiloaderu](priiloader).
 {: .notice--info}

@@ -4,14 +4,17 @@ title: "BlueBomb"
 
 {% include toc title="Tabla de contenido" %}
 
+It is **strongly** advised against using **any** video guide for hacking your Wii mini console, as there is an extremely large chance of **bricking** it.
+{: .notice--warning}
+
 En caso de que necesites ayuda con alguna cosa relacionada con esta guía, puedes unirte al [servidor de Discord de Wii Mini Hacking](https://discord.gg/6ryxnkS) (recomendado).
 {: .notice--info}
 
 ![BlueBomb](/images/bluebomb.png)
 
-BlueBomb es un exploit que se aprovecha de una falla en las bibliotecas Bluetooth de Wii y Wii mini. A pesar de que es el único exploit que funciona en el Wii Mini, BlueBomb también puede ser ejecutado en el Wii original. Este exploit además te permite reparar ciertos tipos de brick, como un banner brick.
+BlueBomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Although it is the only exploit that works for the Wii mini, BlueBomb can run on the original Wii as well. This exploit also enables recovery from certain bricks, such as a banner brick.
 
-Para la Wii original, no recomendamos usar BlueBomb si tiene la intención de instalar el Canal Homebrew y BootMii, ya que hay exploits más convenientes disponibles.
+For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
 {: .notice--info}
 
 #### Sección I - Requisitos
@@ -48,13 +51,13 @@ chmod +x bluebomb-helper.sh
 1. Enciende Tu consola y ** no ** conectes ningún mando de Wii.
 1. Presione el botón Sync repetidamente hasta que el terminal tenga `got connection handle`. Esto podría requerir varios intentos, así que no se rinda.
 
-Asegúrate de que la consola esté cerca de la computadora que ejecute el exploit, de ser posible a un metro de distancia o menos.
+Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
 {: .notice--info}
 
-La consola debería de iniciar el HackMii Installer. Ahora puedes apagar tu computadora Linux si ya no deseas usarla más adelante.
+The console should now boot to the HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
 
-[Si estas usando una Wii, proceda a instalar el Canal Homebrew y BootMii](hbc)
+[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
 {: .notice--info}
 
-[Si estas usando una Wii mini, proceda a instalar el Canal Homebrew](hbc-mini)
+[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
 {: .notice--info}

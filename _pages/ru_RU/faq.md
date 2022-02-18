@@ -17,8 +17,8 @@ You can join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recomme
 
 Чтобы хранить homebrew программы, мы рекомендуем пользоваться SD картой с 2ГБ как минимум.
 
-### I got error code XXXXXX in Wiimmfi, how to fix it?
-In order to check what the reason for the error is, please visit the [Wiimmfi error page](https://wiimmfi.de/error).
+### У меня код ошибки XXXXXX в Wiimmfi, как это исправить?
+Чтобы понять причину ошибки, посетите [Wiimmfi error page](https://wiimmfi.de/error).
 
 ### Какие могут быть ограничения в моддинге vWii?
 Следующий список содержит действия, которые могут привести к **БРИКУ** вашей vWii (не делайте эти действия!):
@@ -29,4 +29,4 @@ In order to check what the reason for the error is, please visit the [Wiimmfi er
 * Модифицировать vWii NAND без понятия того, что вы делаете.
 
 ### Как я могу удалить родительский контроль?
-The [mkey generator](https://mkey.salthax.org) can generate the code required to remove parental controls.
+[mkey generator](https://mkey.salthax.org) может сгенерировать код, необходимый для удаления родительского контроля.

@@ -4,35 +4,35 @@ title: "cIOS"
 
 {% include toc title="Table of Contents" %}
 
-This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
+Tento návod vám řekne, jak nainstalovat cIOS (custom IOS). To je vyžadováno, pokud chcete spouštět hry s USB Loaderem. Některé homebrew aplikace mohou s cIOS fungovat lépe.
 
 ![d2x cIOS Installer](/images/cios/cIOS.png)
 
-If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
+Pokud máte Wii U (vWii), postupujte podle [tohoto průvodce](https://wiiu.hacks.guide/#/vwii-modding) pro instalaci cIOS. Pokus o instalaci jiného cIOS na vWii nebude fungovat.
 {: .notice--info}
 
-If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
+Pokud máte Wii mini, postupujte podle [tohoto tutoriálu](cios-mini). Pokus o instalaci jiného cIOS na Wii mini nebude fungovat.
 {: .notice--info}
 
-#### What you need
+#### Co budete potřebovat
 
-* A Wii with an Internet connection
-* An SD card or USB drive
+* Wii s připojením k internetu
+* SD karta nebo USB disk
 * [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
-Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
+Jestli používáte SD kartu, ujistěte se, že je její přepínač v odemčené poloze, jinak nebudete moci v instalátoru vybrat správné možnosti
 {: .notice--warning}
 
-#### Instructions
+#### Pokyny
 
-##### Section I - Downloading
+##### Část I - Stahování
 
-1. Download d2x cIOS Installer and extract it to your SD card or USB drive.
-1. Insert your SD card or USB drive into your Wii, and launch d2x cIOS Installer from the Homebrew Channel.
+1. Stáhněte d2x cIOS Installer a rozbalte jej na SD kartu nebo USB disk.
+1. Vložte SD kartu nebo USB disk do svého Wii a spusťte d2xl cIOS Installer z Homebrew Channelu.
 
-##### Section II - Installing
+##### Část II – Instalace
 
-1. Press continue, then set the options to the following:
+1. Zvolte pokračovat, poté nastavte možnosti na následující:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 57
@@ -40,8 +40,8 @@ Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 ![Install cIOS 249](/images/cios/Install249.png)
-1. Once set, press A twice to install.
-1. When done installing, press A to return, and set the options to the following:
+1. Po nastavení stiskněte dvakrát tlačítko A pro zahájení instalace.
+1. Po dokončené instalaci stiskněte tlačítko A, abyste se vrátili, a poté nastavte možnosti na následující:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 56
@@ -49,8 +49,8 @@ Select cIOS slot: 250
 Select cIOS version: 65535
 ```
 ![Install cIOS 250](/images/cios/Install250.png)
-1. Once set, press A twice to install.
-1. When done installing, press A to return, and set the options to the following:
+1. Po nastavení stiskněte dvakrát tlačítko A pro zahájení instalace.
+1. Po dokončené instalaci stiskněte tlačítko A, abyste se vrátili, a poté nastavte možnosti na následující:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 38
@@ -58,16 +58,16 @@ Select cIOS slot: 251
 Select cIOS version: 65535
 ```
 ![Install cIOS 251](/images/cios/Install251.png)
-1. Once set, press A twice again to install, and then exit once done.
+1. Po nastavení dvakrát stiskněte tlačítko A pro zahájení instalace a poté z instalátoru odejděte, jakmile se instalace dokončí.
 
-#### Troubleshooting
+#### Poradce při potížích
 
 {% capture bruh %}
-Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
-* Using a keyboard in Animal Crossing: City Folk.
-* Running SpongeBob's Boating Bash.
+Přestože by většina her měla fungovat přímo s výchozími nastaveními, některé mohou vyžadovat použití konkrétního cIOS ke správné funkci.<br> Například:
+* Použití klávesnice v Animal Crossing: Let's Go to the City.
+* Spuštění hry SpongeBob's Boating Bash.
 
-A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
+Podrobnější (ačkoli nedokončený) seznam naleznete [**zde**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List).<br> Chcete-li změnit cIOS používaný pro konkrétní hru, postupujte podle těchto pokynů:
 {% endcapture %}
 <div class="notice--warning">{{ bruh | markdownify }}</div>
 
@@ -75,30 +75,30 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
-1. Select the game that isn't working.
-1. Click Settings.
-1. Select `Game Load`.
-1. Scroll down to `Game IOS`.
-1. Enter the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
-1. Press ok and try to load the game.
+1. Vyberte hru, která nefunguje.
+1. Zvolte Settings.
+1. Zvolte `Game Load`.
+1. Přejděte dolů na `Game IOS`.
+1. Zadejte číslo slotu IOS, který chcete použít.
+    - Zkuste použít 250 nebo 251, pokud 249 nefunguje.
+1. Stiskněte OK a zkuste hru spustit.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
-1. Select the game that isn't working.
-1. Click the gear icon.
-1. Go to cIOS and use the arrows to select the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
-1. Press Save and try to load the game.
+1. Vyberte hru, která nefunguje.
+1. Zvolte ikonu ozubeného kola.
+1. Přejděte na cIOS a použijte šipky k výběru slotu IOS, který chcete použít.
+    - Zkuste použít 250 nebo 251, pokud 249 nefunguje.
+1. Stiskněte Save a zkuste hru spustit.
 </div>
-##### Options once complete
+##### Kam dál, jakmile máte hotovo
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
+[Pokračujte instalací Homebrew Browseru](hbb)<br> Homebrew Browser je dobrý způsob, jak stáhnout homebrew aplikace přímo z vašeho Wii. Zcela dobrovolné.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Pokračujte na rozcestník](site-navigation)<br> Naše další tutoriály by se vám mohly líbit.
 {: .notice--info}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
+Nyní můžete použít homebrew aplikace jako např. [USB Loader GX](usbloadergx) a [WiiFlow](wiiflow).
 {: .notice--info}
 
 <script>

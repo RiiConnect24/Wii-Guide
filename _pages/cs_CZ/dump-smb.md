@@ -1,30 +1,30 @@
 ---
-title: "Dumping Wii/GameCube games over local network"
+title: "Dumping hry na Wii/GameCube přes místní síť"
 ---
 
-#### What you need
+#### Co budete potřebovat
 
-* A Wii.
+* Wii.
 * [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
 
-Your Wii and your computer must be connected to one local network
+Vaše Wii a váš počítač musí být připojen ke stejné síti
 {: .notice--warning}
 
-#### Instructions
+#### Pokyny
 
-##### Section I - Downloading/Installing
+##### Část I
 
-1. Extract DVD Dump Tool and put it in the `apps` folder on your SD card or USB drive.
-1. Insert your SD card into your Wii, and launch DVD Dump Tool from the Homebrew Channel.
+1. Extrahujte DVD Dump Tool do složky `apps` na vaší SD kartě nebo USB disku.
+1. Vložte SD kartu do vašeho Wiička a spusťte DVD Dump Tool v Homebrew Channelu.
 
-##### Section II - Ripping
+##### Část II - Ripování disku
 
-1. Press the right button on the d-pad and press "A" ![2](/images/DumpDiscs_LAN/2.png)
-1. Choose the disc that you want to copy (The options are: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` and press "A" ![3](/images/DumpDiscs_LAN/3.png)
-1. Now put your game to your Wii. (If it's already in your Wii, eject it and put it back) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
-1. Remember your Wii URL (IP address) ![5](/images/DumpDiscs_LAN/5.png)
-1. On your computer in your web browser, type in the Wii URL and hit ENTER. ![6](/images/DumpDiscs_LAN/6.png)
-1. You should see this. Click on `Click here to download XXXX.iso` ![7](/images/DumpDiscs_LAN/7.jpg)
-1. The transfer speed is not the fastest, but if you can't use anything else, it's better than nothing.
+1. Stiskněte doprava na D-Padu a pak "A" ![2](/images/DumpDiscs_LAN/2.png)
+1. Zvolte disk, který chcete zkopírovat (možnosti: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` a stiskněte "A" ![3](/images/DumpDiscs_LAN/3.png)
+1. Nyní vložte danou hru do svého Wiička. (Pokud již ve vašem Wii hra je, vysuňte ji a vložte zpět) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
+1. Zapamatujte si URL vašeho Wii (IP adresa) ![5](/images/DumpDiscs_LAN/5.png)
+1. Na vašem počítači ve webovém prohlížeči zadejte URL z Wii a stiskněte ENTER. ![6](/images/DumpDiscs_LAN/6.png)
+1. Měli byste vidět toto. Klikněte na `Click here to download XXXX.iso` ![7](/images/DumpDiscs_LAN/7.jpg)
+1. Rychlost přenosu to nebude nejrychlejší, ale pokud nemůžete použít nic jiného, je to lepší než nic.
 
 ![8](/images/DumpDiscs_LAN/8.PNG)

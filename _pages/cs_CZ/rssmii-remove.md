@@ -1,24 +1,24 @@
 ---
-title: "Removing RSSMii"
+title: "Odinstalace RSSMii"
 ---
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte se na [RiiConnect24 Discord server](https://discord.gg/rc24) (doporučeno) nebo [nám napište e-mail](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-If you no longer wish to use RSSMii (maybe because it gives you too much Wii Mail), here's how to remove it.
+Pokud již nechcete používat RSSMii (třeba proto, že vám spamuje Wii Mail), zde je návod na odinstalaci.
 
-![Removing RSSMii](/images/rssmii-remove.png)
+![Odinstalace RSSMii](/images/rssmii-remove.png)
 
-#### What you need
+#### Co budete potřebovat
 
-* An SD card
+* SD karta
 * [RSSMii Remover](https://github.com/RiiConnect24/rssmii/releases)
 
-#### Instructions
+#### Pokyny
 
-1. Extract RSSMii Remover and put it in the `apps` folder on your SD card.
-2. Delete the `feeds.xml` file on the root of your SD card.
-3. Launch RSSMii Remover from the Homebrew Channel. It will remove your subscriptions to the RSS feeds.
+1. Extrahujte RSSMii Remover do složky `apps` na vaší SD kartě.
+2. Odstraňte soubor `feeds.xml` z kořenového adresáře vaší SD karty.
+3. Z Homebrew Channelu spusťte RSSMii Remover. To odebere odběry RSS kanálů.
 
-In case you would like to revert your decision, you can always [reinstall RSSMii](rssmii).
+V případě, že si to rozmyslíte, můžete RSSMii kdykoli [znovu nainstalovat](rssmii).
 {: .notice--info}

@@ -4,6 +4,9 @@ title: "BlueBomb"
 
 {% include toc title="Zawartość" %}
 
+**zdecydowanie**nie zaleca się stosowanie **dowolnego** poradnika do hakowania konsoli Wii mini ponieważ jest bardzo duża szansa na **bricka**.
+{: .notice--warning}
+
 Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołączy do [serwera Discord dotyczącego przerabiania Wii Mini](https://discord.gg/6ryxnkS)
 {: .notice--info}
 
@@ -11,7 +14,7 @@ Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołączy 
 
 Bluebomb jest exploitem, który korzysta z dziury w zabezpieczeniach bibliotek Bluetooth'a w Wii oraz Wii Mini. Jest to jedyny exploit, który działa na Wii Mini, aczkolwiek może również zostać użyty na oryginalnym Wii. Ten exploit może również pomóc naprawić niektóre bricki - na przykład banner brick.
 
-Jeżeli korzystasz z oryginalnego Wii, nie zalecamy używania BlueBomb. Istnieją inne wygodne exploity jeśli chcesz zainstalować Homebrew Channel lub BootMii.
+Dla oryginalnego Wii, nie zalecamy używania BlueBomb jeśli chcesz zainstalować Homebrew i BootMii, ponieważ są lepsze exploity do tego.
 {: .notice--info}
 
 #### Sekcja I - Będziesz potrzebował:
@@ -48,10 +51,10 @@ chmod +x bluebomb-helper.sh
 1. Włącz konsole oraz **nie** podłączaj żadnych Wii Remote'ów.
 1. Zacznij naciskać (nie przytrzymywać) przycisk synchronizacji, dopóki na terminalu nie zostanie wyświetlony `Got connection handle`. Może to wymagać kilku prób - nie poddawaj się!
 
-Upewnij się, że konsola jest blisko komputera podczas uruchamiania exploitu. Najlepiej, żeby odległość wynosiła mniej niż metr.
+Upewnij się, że konsola jest blisko komputera podczas wykonywania exploitu. Najlepiej, żeby odległość wynosiła mniej niż metr.
 {: .notice--info}
 
-Konsola powinna teraz uruchomić instalator HackMii. Możesz teraz wyłączyć Twój komputer z Linux'em, jeżeli nie będziesz z niego korzystał.
+Konsola powinna teraz uruchomić instalator HackMii. Możesz teraz wyłączyć Twój komputer z Linuxem, jeżeli nie będziesz z niego korzystał.
 
 [Jeżeli używasz Wii, przejdź do instalacji Homebrew Channel oraz BootMii](hbc)
 {: .notice--info}

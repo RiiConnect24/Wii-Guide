@@ -4,7 +4,10 @@ title: "BlueBomb"
 
 {% include toc title="Inhoudsopgave" %}
 
-Als u hulp nodig heeft bij iets wat met deze tutorial te maken heeft, sluit u dan aan bij [de Wii Mini Hacking Discord server](https://discord.gg/6ryxnkS) (aanbevolen)
+It is **strongly** advised against using **any** video guide for hacking your Wii mini console, as there is an extremely large chance of **bricking** it.
+{: .notice--warning}
+
+Als u hulp nodig heeft bij iets wat met deze tutorial te maken heeft, sluit je dan aan bij [de Wii Mini Hacking Discord server](https://discord.gg/6ryxnkS) (aanbevolen)
 {: .notice--info}
 
 ![BlueBomb](/images/bluebomb.png)

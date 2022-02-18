@@ -4,41 +4,41 @@ title: "Wii Backup Manager"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte se na [RiiConnect24 Discord server](https://discord.gg/rc24) (doporučeno) nebo [nám napište e-mail](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Wii Backup Manager is a program to copy Wii games from your computer to a USB drive so you can play the games on your Wii. It also can download game covers from [GameTDB](https://gametdb.com/) and can be used to list what games you have. This tutorial will tell you how to copy over games from your computer to your USB drive. The other features are able to be used in the easy-to-use interface.
-#### What you need
+Wii Backup Manager je program ke kopírování Wii her z vašeho počítače na USB disk, abyste mohli hrát tyto hry na Wii. Může také stahovat covery her z databáze [GameTDB](https://gametdb.com/). Tento tutoriál vám řekne, jak zkopírovat hry z počítače na USB disk. Ostatní funkce mohou být použity ve snadno použitelném rozhraní.
+#### Co budete potřebovat
 
-* A USB drive
+* USB disk
 * [Wii Backup Manager](https://static.wiidatabase.de/Wii-Backup-Manager.zip)
 
 
-We recommend you copy games over with [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux. Wii Backup Manager is only compatible with Windows.
+Doporučujeme vám kopírovat hry pomocí [Witgui](https://desairem.com/wordpress/category/witgui-download/), jestliže používáte macOS, nebo [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) pro Windows, macOS, and Linux. Wii Backup Manager je kompatibilní pouze s Windows.
 {: .notice--info}
 
-To play multiple games, we recommend a USB-powered external hard drive for your Wii. We will refer to it as a "USB drive" in this guide. Most of the ones you can find on the market should work fine if they have USB 2 backwards compatibility. Drives with 1 TB or more in capacity will work. A flash drive will also work, but due to the size of a flash drive, it won't be able to store as many games.
+Chcete-li hrát na Wiičku více her, doporučujeme použít externí USB pevný disk. V této příručce dále jako "USB disk". Většina z těch, které najdete na trhu, by měla bez problémů fungovat, pokud mají USB 2 zpětnou kompatibilitu. Jednotky s 1 TB a více budou fungovat. Flashdisk bude fungovat také, ale vzhledem k nižší kapacitě nepojme tolik her.
 {: .notice--info}
 
-Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as extFS or WBFS, the latter is an old format of storing Wii games.
+Ujistěte se, že je váš USB disk formátován jako FAT32 nebo NTFS. Neformátujte jej jako jiné typy, např. extFS nebo WBFS, WBFS je zastaralý formát ukládání Wii her.
 {: .notice--info}
 
-#### Instructions
+#### Pokyny
 
-##### Section I - Downloading
+##### Část I - Stahování
 
-1. Extract Wii Backup Manager, and launch the program.
-2. Insert your USB drive into your computer.
+1. Rozbalte Wii Backup Manager a spustťe ho.
+2. Vložte váš USB disk do počítače.
 
-##### Section II - Copying Games Over
+##### Část II - Kopírování her
 
-1. Go to the `Drive 1` tab, then select `Drive`.
-2. Select the drive that you're using for the Wii games.
-3. Go to the `Files` tab, then select `Add`.
-4. Select `Files` to add multiple games to the program, or select `Folder` to add a whole folder of games.
-5. Select `Transfer`, then select `Drive 1` to transfer the games over. It might take a while for the games to copy over.
+1. Přejděte na záložku `Drive1`, poté zvolte `Drive`.
+2. Vyberte disk, který používáte pro Wii hry.
+3. Přejděte na záložku `Files`, poté zvolte `Add`.
+4. Zvolte `Files`, abyste přidali několik her, nebo zvolte `Folders`, abyste přidali celou složku her.
+5. Zvolte `Transfer`, poté `Drive1`, abyste zahájili kopírování her. Kopírování může chvíli trvat.
 
-##### Options once complete
+##### Kam dál, jakmile máte hotovo
 
 [Continue to cIOS](cios)<br> cIOS is needed for your Wii to use a USB Loader.
 {: .notice--info}

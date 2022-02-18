@@ -127,7 +127,7 @@ Si vous avez tous fait correctement vous devrez maintenant avoir un thème diff�
 
 ##### Retourner vers le menu original
 
-Lancez la Chaîne Homebrew.
+Lancez l’Homebrew Channel.
 
 Ensuite démarrer MyMenuify et naviguer vers votre dossier theme.
 

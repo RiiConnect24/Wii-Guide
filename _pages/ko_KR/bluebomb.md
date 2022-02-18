@@ -4,14 +4,17 @@ title: "BlueBomb"
 
 {% include toc title="목차" %}
 
+It is **strongly** advised against using **any** video guide for hacking your Wii mini console, as there is an extremely large chance of **bricking** it.
+{: .notice--warning}
+
 튜토리얼에 관한 질문이 있다면, [Wii Mini 해킹 디스코드 서버](https://discord.gg/6ryxnkS) 에 가입해 주세요.(권장)
 {: .notice--info}
 
 ![BlueBomb](/images/bluebomb.png)
 
-BlueBomb은 Wii와 Wii mini의 블루투스 라이브러리의 약점을 이용합니다. Wii mini에서 작동하는 유일한 약점이지만, BlueBomb은 Wii에서도 작동합니다. 이 약점은 배너 벽돌과 같은 일부 벽돌을 복구하기도 합니다.
+BlueBomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Although it is the only exploit that works for the Wii mini, BlueBomb can run on the original Wii as well. This exploit also enables recovery from certain bricks, such as a banner brick.
 
-오리지널 Wii에서는 홈브루 채널과 BootMii를 설치하기 위해 BlueBomb를 사용하지 않는 것을 권장합니다.
+For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
 {: .notice--info}
 
 #### 섹션 I - 당신이 필요한 것
@@ -48,13 +51,13 @@ chmod +x bluebomb-helper.sh
 1. 콘솔을 켜고 어떤 리모컨도 연결하지 **마세요**.
 1. 터미널에서 `got connection handle`이 나타날 때 까지 SYNC 버튼을 계속 누르세요. 여러 시도가 필요할 수 있으니, 포기하지 마세요.
 
-콘솔이 취약점을 실행하는 컴퓨터와 가깝게 하세요. 3피트 (약 1m) 이하가 권장됩니다.
+Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
 {: .notice--info}
 
-콘솔은 이제 HackMii 설치 마법사로 부팅할 겁니다. 이제 사용할 계획이 없다면 리눅스 컴퓨터를 꺼도 됩니다.
+The console should now boot to the HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
 
-[Wii를 사용한다면, BootMii와 홈브루 채널 설치로 이동하세요](hbc)
+[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
 {: .notice--info}
 
-[Wii 미니를 사용한다면, 홈브루 채널 설치로 이동하세요](hbc-mini)
+[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
 {: .notice--info}
