@@ -27,7 +27,7 @@ Assicurati che, se stai usando una scheda SD, l'interruttore a lato sia in posiz
 
 ##### Sezione 1 - Scaricare
 
-1. Download d2x cIOS Installer and extract it to your SD card or USB drive.
+1. Scarica d2x cIOS Installer ed estrailo nella cartella apps sulla tua scheda SD o chiavetta USB.
 1. Inserisci la tua scheda SD o dispositivo USB nella tua Wii, e carica d2x cIOS Installer dall'Homebrew Channel.
 
 ##### Sezione 2 - Installare
@@ -60,7 +60,7 @@ Select cIOS version: 65535
 ![Installa cIOS 251](/images/cios/Install251.png)
 1. Impostato tutto correttamente, premere A due volte per installare, quando a terminato poi uscire.
 
-#### Troubleshooting
+#### Risoluzione dei problemi
 
 {% capture bruh %}
 Sebbene la maggior parte dei giochi dovrebbe funzionare direttamente con le opzioni predefinite, alcuni potrebbero richiedere l'utilizzo di un cIOS specifico per funzionare, o per utilizzare alcune funzionalità di gioco.<br> Esempi includono:
