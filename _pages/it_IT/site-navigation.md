@@ -24,7 +24,7 @@ sitemap: falso
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
-+ [Kirby TV Channel](kirby-tv)
++ [Canale Kirby TV](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Eliminare VFFs](deleting-vffs)
 + [Fixing FORE000006](riiconnect24-batteryfix)
