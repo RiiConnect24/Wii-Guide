@@ -32,9 +32,9 @@ Se non hai una scheda SD, non puoi installare o usare BootMii, e quindi non potr
 
 8. Una volta finito, seleziona `Continue`, e poi seleziona `Exit` per andare nel Canale Homebrew.
 
-#### Required Reading
+#### Lettura Necessaria
 
-You can now use the Homebrew Channel to launch homebrew apps. Open Shop Channel is a one-stop shop for downloading homebrew, which you will learn how to install further in this guide.
+Puoi usare il canale Homebrew per avviare app homebrew. Open Shop Channel is a one-stop shop for downloading homebrew, which you will learn how to install further in this guide.
 
 Here's a tip - when installing homebrew applications on your SD Card or USB drive, your folder structure should look like this:
 
