@@ -1,5 +1,5 @@
 ---
-title: "Kirby TV Channel"
+title: "Canale Kirby TV"
 ---
 
 {% include toc title="Table of Contents" %}
