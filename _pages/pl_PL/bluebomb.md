@@ -2,7 +2,7 @@
 title: "BlueBomb"
 ---
 
-{% include toc title="Zawartość" %}
+{% include toc title="Table of Contents" %}
 
 **zdecydowanie**nie zaleca się stosowanie **dowolnego** poradnika do hakowania konsoli Wii mini ponieważ jest bardzo duża szansa na **bricka**.
 {: .notice--warning}
