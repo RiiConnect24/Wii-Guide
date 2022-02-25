@@ -70,7 +70,7 @@ L'ajout de votre e-mail à SPD permettra à des chaînes comme Digicam et Demae 
 Pour les PAL (Wiis Européenes)<br> Dans les Paramètres Wii, veuillez régler la résolution TV sur 60 Hz (480p/480i). Vous pouvez trouver ce paramètre dans `Écran -> Résolution TV`. Si vous ne le faites pas, une barre rose apparaîtra en bas de l'écran, gênant la vision.
 {: .notice--info}
 
-[ Continuer vers RiiConnect24 ](riiconnect24) <br> RiiConnect24 vous permet d'utiliser les services interrompus de WiiConnect24, qui incluent la Chaîne Infos, la Chaîne Météo, la Chaîne Votes, la Chaîne Nintendo et la Chaîne Concours Mii, ainsi que Wii Mail. L'installation est facultative.
+[Continuer vers RiiConnect24](riiconnect24) <br> RiiConnect24 vous permet d'utiliser les services interrompus de WiiConnect24, qui incluent les chaînes infos, météo, votes, Nintendo et concours Mii, ainsi que Wii Mail. L'installation est facultative.
 {: .notice--info}
 
 [Continuer vers Wiimmfi](wiimmfi)<br> Wiimmfi vous permet de jouer à des jeux en ligne après l'arrêt de la connexion Wi-Fi Nintendo. L'installation est facultative.
