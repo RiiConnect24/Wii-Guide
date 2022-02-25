@@ -79,7 +79,7 @@ Les services RiiConnect24 suivants sont **fonctionnels** sur la vWii :
     * Les données de la bannière sont également connues pour ne pas fonctionner, renvoyant `Impossible d'obtenir les données.`
 * Chaîne météo
 * Chaîne Nintendo
-* Chaîne Votes
+* Chaîne votes
 * Chaîne Concours Mii
 {: .notice--success}
 
