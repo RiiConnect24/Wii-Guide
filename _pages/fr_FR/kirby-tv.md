@@ -34,7 +34,7 @@ Striim Network est un service dédié à ramener les chaînes qui prennent en ch
 
 
 
-[ Continuer vers RiiConnect24 ](riiconnect24) <br> RiiConnect24 vous permet d'utiliser les services interrompus de WiiConnect24, qui incluent la Chaîne Infos, la Chaîne Météo, la Chaîne Votes, la Chaîne Nintendo et la Chaîne Concours Mii, ainsi que Wii Mail. L'installation est facultative.
+[Continuer vers RiiConnect24](riiconnect24) <br> RiiConnect24 vous permet d'utiliser les services interrompus de WiiConnect24, qui incluent les chaînes infos, météo, votes, Nintendo et concours Mii, ainsi que Wii Mail. L'installation est facultative.
 {: .notice--info}
 
 [Continuer vers WiiLink](wiilink)<br> WiiLink vous permet d'utiliser les chaîne japonais arrêtés, comme Wii no Ma et Digicam Print Channel. L'installation est facultative.
