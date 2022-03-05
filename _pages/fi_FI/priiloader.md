@@ -77,11 +77,5 @@ Tämä on lista muokkauksista, joita voit ottaa käyttöön Priiloaderin avulla.
 | Pakota Levyllä Olevat Pelit pysymään IOS249:n alla | Tee levyt käyttämään cIOS 249:ää pelin IOS:nä. Vaikka se ei voi sallia käynnistää burnattuja pelejä yksin, se tarvitaan jotta voit käynnistää burnattuja levyjä. (Voi antaa virheen 002 ei-burnatuissa pelissä) |
 
 
-Jatka cIOS:n asennukseen<br> cIOS:ia käytetään pelien pelaamiseen USB-lataajan kautta. Se on myös hyödyllinen monille muille homebrew-sovelluksille.
-{: .notice--info}
-
-Jos käytät tavallista Wiitä, seuraa [tätä opasta](cios) asentaaksesi cIOS:n
-{: .notice--info}
-
-Jos käytät Wii miniä, seuraa [tätä opasta](cios-mini) asentaaksesi cIOS:n
+Continue to the Do's and Don'ts of Wii Modding<br> These are some guidelines to ensure you don't brick your Wii.
 {: .notice--info}
