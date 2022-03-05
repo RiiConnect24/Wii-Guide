@@ -77,11 +77,5 @@ Toto je výčet všech hacku a vylepšení, které může s pomocí Priiloaderu 
 | Force Disc Games to run under IOS249    | Donutí disky, aby se spouštěly pod cIOSem 249. To samo o sobě neumožní spouštění vypálených disků, ale je to pro jejich spouštění potřeba. (Může vyhodit kód chyby Error 002 u nevypálené hry) |
 
 
-Pokračujte instalací cIOSu<br> cIOS slouží ke spouštění her USB Loaderem. A také je užitečný pro mnoho jiných homebrew aplikací.
-{: .notice--info}
-
-Pokud máte klasické Wii, postupujte podle [tohoto tutoriálu](cios) na instalaci cIOSu
-{: .notice--info}
-
-Pokud máte Wii mini, postupujte podle [tohoto tutoriálu](cios-mini) na instalaci cIOSu
+Continue to the Do's and Don'ts of Wii Modding<br> These are some guidelines to ensure you don't brick your Wii.
 {: .notice--info}
