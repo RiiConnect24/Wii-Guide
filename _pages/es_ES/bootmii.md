@@ -9,13 +9,13 @@ Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayud
 
 ![Logotipo de BootMii](/images/bootmii.png)
 
-Necesitarás una **tarjeta SD** para crear un respaldo de la NAND con BootMii. Este procedimiento es opcional, pero se recomienda realizarlo.
+Necesitarás una **tarjeta SD** para crear un respaldo de la NAND con BootMii. If you do not have one, you can skip this page, although it is highly recommended to make a NAND backup if you can.
 {: .notice--warning}
 
-Es importante instalar BootMii como boot2 en caso de estar disponible para tu consola. De lo contrario, deberás instalarlo como un IOS.
+Es importante instalar BootMii como boot2 en caso de estar disponible para tu consola. Otherwise, it can only be installed as an IOS.
 {: .notice--info}
 
-Una de las funciones más importantes de BootMii es la capacidad de respaldar y restaurar la NAND (memoria interna) de la consola Wii. En esta guía aprenderás a crear un respaldo de la NAND que podrás restaurar en caso de ser necesario. Se recomienda crear un respaldo regularmente o antes de hacer algo arriesgado con tu consola.
+Una de las funciones más importantes de BootMii es la capacidad de respaldar y restaurar la NAND (memoria interna) de la consola Wii. En esta guía aprenderás a crear un respaldo de la NAND que podrás restaurar en caso de ser You can then restore from that backup for any reason. Se recomienda crear un respaldo regularmente o antes de hacer algo arriesgado con tu consola.
 
 #### Requisitos
 * Una tarjeta SD con al menos 512 MB de espacio libre
@@ -44,5 +44,8 @@ Si has instalado BootMii como boot2, apaga y vuelve a encender la consola para i
 To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). brickeada.
 {: .notice--info}
 
-[Proceder a la instalación de Priiloader](priiloader) Priiloader te permite reparar los bricks más comunes y es muy recomendable que lo instales en tu consola, especialmente si solo pudiste instalar BootMii como un IOS.
+To make sure you don’t lose the files, it's recommended to `nand.bin` and `keys.bin` from the root of your SD card to your computer.
+{: .notice--info}
+
+[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
 {: .notice--info}
