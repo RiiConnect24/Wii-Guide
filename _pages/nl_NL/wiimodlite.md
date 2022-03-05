@@ -29,7 +29,7 @@ Gebruik de + als indicatie waar u zich bevindt.
 {: .notice--info}
 
 1. Kies `WAD Manager`. ![WAD Manager](/images/WiiModLite/2.png)
-2. Kies `Wii SD Slot`. ![Wii SD Slot](/images/WiiModLite/3.png)
+2. Choose `Wii SD Slot` or `USB Mass Storage Device`, depending on whether you want to use an SD card or USB drive. ![Wii SD Slot](/images/WiiModLite/3.png)
 3. Selecteer het WAD bestand dat u wilt installeren. In dit voorbeeld installeren we de gemodificeerde IOS die nodig is voor [RiiConnect24](riiconnect24). U kunt meerdere WADs selecteren door middel van de + knop. ![Selecteer ze](/images/WiiModLite/4.gif)
 4. Druk twee keer op de "A" knop om te beginnen met installeren. ![Installeren](/images/WiiModLite/5.png) ![Installeren](/images/WiiModLite/6.png)
 5. Als `Finishing installation... OK!` verschijnt op het scherm dan is de WAD succesvol geïnstalleerd. ![Compleet](/images/WiiModLite/7.png) 
