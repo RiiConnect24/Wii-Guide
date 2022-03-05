@@ -10,10 +10,10 @@ sitemap: fals
 **Featured**
 
 + [cIOS](cios)
++ [Kirby TV Channel](kirby-tv)
 + [Riiconnect24](riiconnect24)
 + [WiiLink](wiilink)
-+ [Wiimmifi](wiimmfi)
-+ [Kirby TV Channel](kirby-tv)
++ [Wiimmfi](wiimmfi)
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
@@ -34,6 +34,7 @@ sitemap: fals
 + [BlueBomb](bluebomb)
 * [Còpia de seguretat de BootMii](bootmii)
 + [cIOS](cios)
++ [Do's and Don'ts of Wii Modding](dosanddonts)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
 + [Homebrew Channel](hbc)
