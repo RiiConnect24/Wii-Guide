@@ -77,11 +77,5 @@ This is a list of the hacks you can enable with Priiloader.
 | Force Disc Games to run under IOS249    | Make discs use cIOS 249 as the game's IOS. While it cannot allow playing of burned games on its own, it is needed to play burned discs. (Can give you Error 002 on a non-burned game) |
 
 
-Continue to installing cIOS<br> cIOS are used to play games with a USB Loader. It's also useful for many other homebrew apps.
-{: . notícia--informació}
-
-If using a regular Wii, follow [this guide](cios) to install cIOS
-{: . notícia--informació}
-
-If using a Wii mini, follow [this guide](cios-mini) to install cIOS
+Continue to the Do's and Don'ts of Wii Modding<br> These are some guidelines to ensure you don't brick your Wii.
 {: . notícia--informació}
