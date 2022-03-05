@@ -18,7 +18,7 @@ Esta guía es sólo para la versión de Windows de WiiWare Patcher.
 
 ##### Seccion I - Descargar el parcheador de WiiWare
 
-1. Haz clic en el link de arriba para ir a la pagina de Github donde esta el parcheador.
+1. Haz clic en el enlace de arriba para ir a la página de RiiConnect24 Patcher en GitHub.
 2. Descarga `WiiWarePatcher.bat`.
 
 ##### Sección I - Parcheando juegos de WiiWare
