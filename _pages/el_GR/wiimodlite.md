@@ -29,7 +29,7 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 {: .notice--info}
 
 1. Επιλέξτε `WAD Manager`. ![WAD Manager](/images/WiiModLite/2.png)
-2. Επιλέξτε `Wii SD Slot`. ![Θύρα SD του Wii](/images/WiiModLite/3.png)
+2. Choose `Wii SD Slot` or `USB Mass Storage Device`, depending on whether you want to use an SD card or USB drive. ![Θύρα SD του Wii](/images/WiiModLite/3.png)
 3. Επιλέξτε το WAD που θέλετε να εγκαταστήσετε. Σ'αυτό το παράδειγμα, εγκαθιστούμε ένα τροποποιημένο IOS που χρειάζεστε για το [RiiConnect24](riiconnect24). Μπορείτε να μαρκάρετε πολλαπλά WADs πατώντας το κουμπί + (συν). ![Επιλέξτε τα](/images/WiiModLite/4.gif)
 4. Πατήστε "Α" δύο φορές για να ξεκινήσει η εγκατάσταση. ![Εγκαταστήστε](/images/WiiModLite/5.png) ![Εγκαταστήστε](/images/WiiModLite/6.png)
 5. Εάν εμφανίζεται `Finishing installation... OK!`, τότε το WAD έχει εγκατασταθεί επιτυχώς. ![Τέλος](/images/WiiModLite/7.png) 
