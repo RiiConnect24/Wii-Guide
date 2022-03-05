@@ -2,7 +2,7 @@
 title: "Instalowanie motywów menu motywów na vWii"
 ---
 
-{% include toc title="Zawartość" %}
+{% include toc title="Table of Contents" %}
 
 
 
