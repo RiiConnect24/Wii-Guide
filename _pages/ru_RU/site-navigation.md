@@ -10,10 +10,10 @@ sitemap: false
 **Рекомендуемые разделы**
 
 + [cIOS](cios)
++ [Kirby TV Channel](kirby-tv)
 + [RiiConnect24](riiconnect24)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
-+ [Kirby TV Channel](kirby-tv)
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
@@ -34,9 +34,10 @@ sitemap: false
 + [BlueBomb](bluebomb)
 * [BootMii Бэкап](bootmii)
 + [cIOS](cios)
++ [Do's and Don'ts of Wii Modding](dosanddonts)
 + [FlashHax](flashhax)
-+ [Homebrew Браузер](hbb)
-+ [Homebrew Канал](hbc)
++ [Homebrew Browser](hbb)
++ [Homebrew Channel](hbc)
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
 + [str2hax](str2hax)
