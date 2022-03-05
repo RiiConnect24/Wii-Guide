@@ -40,7 +40,7 @@ If you use the Wii Patcher, you will not need to use our other patchers.
 {: .notice--info}
 
 1. Download the required files based on your OS. On Windows, run `WiiLinkPatcher.bat`. On Unix systems, launch terminal and type sh, then drag the `WiiLinkPatcher.sh` into the terminal and press enter.
-2. Presiona 1 para elegir "`Comenzar`" y confirma tu selección presionado `ENTER`.
+2. Presiona 1 y luego Enter para comenzar.
 3. For this guide, choose "`Install WiiLink on your Wii`"
 4. Select your region.
 5. Connect the SD Card or USB Drive to your computer and select "`1`".
