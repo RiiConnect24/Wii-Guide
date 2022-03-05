@@ -10,10 +10,10 @@ sitemap: false
 **추천**
 
 + [cIOS](cios)
++ [커비 TV 채널](kirby-tv)
 + [RiiConnect24](riiconnect24)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
-+ [커비 TV Channel](kirby-tv)
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
@@ -34,9 +34,10 @@ sitemap: false
 + [BlueBomb](bluebomb)
 * [BootMii 백업](bootmii)
 + [cIOS](cios)
++ [Do's and Don'ts of Wii Modding](dosanddonts)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
-+ [홈브루 채널](hbc)
++ [Homebrew Channel](hbc)
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
 + [str2hax](str2hax)
