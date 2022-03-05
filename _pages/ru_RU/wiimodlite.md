@@ -29,7 +29,7 @@ title: "Wii Mod Lite"
 {: .notice--info}
 
 1. Выберите `WAD Manager`. ![WAD Manager](/images/WiiModLite/2.png)
-2. Выберите `Wii SD Slot`. ![Wii SD Slot](/images/WiiModLite/3.png)
+2. Choose `Wii SD Slot` or `USB Mass Storage Device`, depending on whether you want to use an SD card or USB drive. ![Wii SD Slot](/images/WiiModLite/3.png)
 3. Выберите WAD, который хотите установить. В этом примере мы устанавливаем пропатченную IOS, необходимую для [RiiConnect24](riiconnect24). Вы можете выбрать несколько WAD-файлов, нажав кнопку +. ![Выберите их](/images/WiiModLite/4.gif)
 4. Дважды нажмите "A", чтобы начать установку. ![Установить](/images/WiiModLite/5.png) ![Установить](/images/WiiModLite/6.png)
 5. Если отображается `Finishing installation... OK!`, значит WAD был успешно установлен. ![Завершено](/images/WiiModLite/7.png) 
