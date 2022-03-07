@@ -86,7 +86,5 @@ The following RiiConnect24 services are **working** on the vWii:
 * Canale Check Mii Out / Canale Mii Contest
 {: .notice--success}
 
-The following RiiConnect24 services are **not working** on the vWii:
-* Wii Mail (molte funzionalità non sono presenti sulla Wii virtuale)
-    * This includes sending/receiving mail to/from friends. You can only receive global broadcast mail and posts from RSSMii feeds (if set up).
+Wii Mail generally does not work on vWii. This includes sending/receiving mail to/from friends. You can only receive global broadcast mail and posts from RSSMii feeds (if set up).
 {: .notice--warning}
