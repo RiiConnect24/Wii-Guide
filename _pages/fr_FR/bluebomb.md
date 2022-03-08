@@ -4,17 +4,17 @@ title: "BlueBomb"
 
 {% include toc title="Table des matières" %}
 
-Il est **très fortement** déconseillé d'utiliser un **guide vidéo** pour hacker votre Wii Mini, car il y a une grande chance de la **bricker**.
+Il est **fortement** déconseillé d'utiliser **tout** guide vidéo pour hacker votre console Wii mini, car il existe un risque extrêmement important de la **bricker**.
 {: .notice--warning}
 
-Si vous avez besoin d'aide à propos de ce tutoriel, rejoignez le [Discord de hacking pour Wii mini](https://discord.gg/6ryxnkS) (recommandé mais en anglais)
+Si vous avez besoin d'aide pour quoi que ce soit concernant ce tutoriel, veuillez rejoindre [le serveur Discord Wii mini Hacking](https://discord.gg/6ryxnkS) (recommandé, en anglais)
 {: .notice--info}
 
 ![BlueBomb](/images/bluebomb.png)
 
-BlueBomb est un exploit qui utilise une faille dans la connexion Bluetooth de la Wii et de la Wii Mini. Même si c'est le seul exploit qui marche sur la Wii Mini, BlueBomb peut aussi être utilisé sur la Wii. Il permet la récupération de certains bricks, comme le Banner Brick.
+BlueBomb est un exploit qui tire parti d'une faille dans les bibliothèques Bluetooth de la Wii et de la Wii mini. Bien que ce soit le seul exploit qui fonctionne pour la Wii mini, BlueBomb peut également fonctionner sur la Wii originale. Cet exploit permet également la récupération depuis certains bricks, comme le brick de bannière.
 
-Pour la Wii, nous ne recommandons pas l'utilisation de BlueBomb pour installer la Homebrew Channel ou BootMii, car il y a des exploits bien plus faciles à mettre en place.
+Pour la Wii originale, nous ne recommandons pas d'utiliser BlueBomb si vous avez l'intention d'installer la chaîne Homebrew et BootMii, car il existe des exploits plus pratiques.
 {: .notice--info}
 
 #### Section I - Ce dont vous avez besoin
@@ -31,7 +31,7 @@ Pour la Wii, nous ne recommandons pas l'utilisation de BlueBomb pour installer l
 - Une clé USB formatée en FAT32.
   - Il ne peut s'agir du même lecteur flash que celui utilisé pour votre machine Linux.
 
-#### Section II - Mise en œuvre de l'exploit
+#### Section II - Exécution de l'exploit
 1. Téléchargez le programme d'installation de HackMii depuis [le site Web de BootMii](https://bootmii.org/download/).
 - (Si vous essayez de réparer un brick, vous devez également copier l'application homebrew que vous souhaitez utiliser dans /apps/)
 1. Extrayez-le et placez le fichier `boot.elf` dans votre lecteur flash.
@@ -51,13 +51,13 @@ chmod +x bluebomb-helper.sh
 1. Allumez votre console et **ne connectez pas** de télécommandes Wii.
 1. Appuyez sur le bouton Sync à plusieurs reprises jusqu'à ce que le terminal affiche `got connection handle`. Cela peut prendre plusieurs essais, alors n'abandonnez pas.
 
-Vérifiez que la console est proche de l'ordinateur qui fait tourner l'exploit, idéallement moins d'1 mètre.
+Assurez-vous que la console est proche de l'ordinateur qui exécute l'exploit, idéalement à moins d'un mètre.
 {: .notice--info}
 
-La console devrait maintenant lancer l'installeur BootMii. Vous pouvez mainteant éteindre l'ordinateur si vous ne comptez pas l'utilisez plus tard.
+La console devrait désormais démarrer sur l'installateur HackMii. Vous pouvez à présent éteindre votre ordinateur Linux si vous ne comptez pas l'utiliser plus tard.
 
-[Si vous utilisez une Wii, installez la Homebrew Channel et BootMii](hbc)
+[Si vous utilisez une Wii, passez à l'installation de la chaîne Homebrew et de BootMii](hbc)
 {: .notice--info}
 
-[Si vous utilisez une Wii Mini, n'installez que la Homebrew Channel](hbc-mini)
+[Si vous utilisez une Wii mini, passez à l'installation de la chaîne Homebrew](hbc-mini)
 {: .notice--info}
