@@ -5,7 +5,7 @@ main:
     url: /
   - 
     title: Commencer ici
-    url: Commencer
+    url: get-started
   - 
     title: Navigation du site
     url: site-navigation
@@ -23,7 +23,7 @@ top:
     title: Ce site Web utilise des cookies pour afficher la progression du guide actuel avec la barre latérale et pour améliorer le site.
 bottom:
   - 
-    title: Pour une assistance en anglais, demandez de l'aide à <a href="https://discord.gg/b4Y7jfD">RiiConnect24 sur Discord</a>.
+    title: Pour une assistance en anglais, demandez de l'aide sur le <a href="https://discord.gg/b4Y7jfD">serveur Discord RiiConnect24</a>.
 footer:
   - 
     title: Source
@@ -36,7 +36,7 @@ footer:
     url: donations
 sidebar_title:
   - 
-    title: Progrès global
+    title: Progression globale
 sidebar_pages:
   - 
     title: Guide Wii
