@@ -79,12 +79,15 @@ After following the above sections, you're almost able to utilize RiiConnect24 o
 The following RiiConnect24 services are **working** on the vWii:
 * News Channel
     * This channel is affected by the timestamp issue. The "Last Updated" and article timestamps will be incorrect.
-    * The banner data is also known to not work, returning `Unable to obtain the news.`
+    * The banner data is also known to not work, returning `Unable to obtain data.`
 * Forecast Channel 
 * Nintendo Channel
 * Everybody Votes Channel
 * Check Mii Out Channel / Mii Contest Channel
 {: .notice--success}
 
-Wii Mail generally does not work on vWii. This includes sending/receiving mail to/from friends. You can only receive global broadcast mail and posts from RSSMii feeds (if set up).
+The following RiiConnect24 services are **not working** on the vWii:
+* Wii Mail (most functionality does not exist on vWii)
+    * This includes sending/receiving mail to/from friends. You can only receive global broadcast mail and posts from RSSMii feeds (if set up).
+* Everything else that isn't working according to [RiiConnect24 stats](https://rc24.xyz/stats/index.html).
 {: .notice--warning}
