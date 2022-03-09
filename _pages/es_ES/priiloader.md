@@ -77,5 +77,5 @@ Esto es una Lista de los los hacks que puedes activar con Priiloader.
 | Force Disc Games to run under IOS249 (Forzar los j¿Juegos de Disco para que se ejecuten bajo IOS249) | Hacer que los discos usan cIOS 249 como el IOS del juego. Si bien no puede permitir la reproducción de juegos grabados por sí solo, es necesario para reproducir discos grabados. (Puede darte el Error 002 en un juego original no quemado) |
 
 
-Continue to the Do's and Don'ts of Wii Modding<br> These are some guidelines to ensure you don't brick your Wii.
+[Continue to the Do's and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
 {: .notice--info}
