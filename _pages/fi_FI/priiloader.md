@@ -77,5 +77,5 @@ Tämä on lista muokkauksista, joita voit ottaa käyttöön Priiloaderin avulla.
 | Pakota Levyllä Olevat Pelit pysymään IOS249:n alla | Tee levyt käyttämään cIOS 249:ää pelin IOS:nä. Vaikka se ei voi sallia käynnistää burnattuja pelejä yksin, se tarvitaan jotta voit käynnistää burnattuja levyjä. (Voi antaa virheen 002 ei-burnatuissa pelissä) |
 
 
-Continue to the Do's and Don'ts of Wii Modding<br> These are some guidelines to ensure you don't brick your Wii.
+[Continue to the Do's and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
 {: .notice--info}
