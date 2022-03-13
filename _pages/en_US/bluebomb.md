@@ -34,7 +34,7 @@ For the original Wii, we do not recommend using BlueBomb if you intend to instal
 #### Section II - Performing the exploit
 1. Download the HackMii installer from [the BootMii website](https://bootmii.org/download/).
 - (If attempting to fix a brick, you should also copy the homebrew app you wish to use to /apps/)
-1. Extract it and place the `boot.elf` file in your flash drive.
+1. Extract it and place the `boot.elf` file in your flash drive. (Even for a Wii mini, bootmini.elf will **not** work, its purpose is entirely different and unrelated).
 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright).
 1. Turn on your console and navigate to the settings menu. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off.
 ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
