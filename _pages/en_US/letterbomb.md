@@ -10,7 +10,7 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
 
 #### What you need
-- An SD card
+- An SD card formatted as FAT32 with MBR partition tables
 - A Wii on System Menu version 4.3
 
 #### Instructions
