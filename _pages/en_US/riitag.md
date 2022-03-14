@@ -72,7 +72,7 @@ You need a Discord account for this to work.
 
 ###### Configurable USB Loader
 
-We do not offer support for Configurable USB Loader, as we are focused on USB Loader GX and WiiFlow.
+We do not offer support for Configurable USB Loader, as it's outdated compared to USB Loader GX and WiiFlow Lite.
 {: .notice--info}
 
 You can use the `CfgLoaderConfigurator.exe` program (Windows only) instead of editing the `config.txt` file mentioned below if you want to.
