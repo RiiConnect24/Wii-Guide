@@ -9,13 +9,13 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 ![BootMii Logo](/images/bootmii.png)
 
-Χρειάζεστε μια**κάρτα SD**για να κάνετε αντίγραφο ασφαλείας με το BootMii. Αν δεν έχετε ένα, μπορείτε να προσπεράσετε αυτήν τη σελίδα, αλλά συνηστάται να κάνετε ένα αν μπορείτε.
+Χρειάζεστε μια**κάρτα SD**για να κάνετε αντίγραφο ασφαλείας με το BootMii. If you do not have one, you can skip this page, although it is highly recommended to make a NAND backup if you can.
 {: .notice--warning}
 
-BootMii as boot2 is recommended, but only available to install on early Wiis. Otherwise, it can be installed as an IOS.
+BootMii as boot2 is recommended, but only available to install on early Wiis. Otherwise, it can only be installed as an IOS.
 {: .notice--info}
 
-One of BootMii's most important features is the ability to backup and restore your Wii's NAND storage. We will be going over how to perform a NAND backup. You can then restore from that backup for whatever reason. It's a good idea to make a NAND backup regularly or before doing something risky to your console (and if you know what you're doing, you won't have to do anything risky).
+One of BootMii's most important features is the ability to backup and restore your Wii's NAND storage. We will be going over how to perform a NAND backup. You can then restore from that backup for any reason. It's a good idea to make a NAND backup regularly or before doing something risky to your console (and if you know what you're doing, you won't have to do anything risky).
 
 #### Απαιτήσεις
 * Μία κάρτα SD με τουλάχιστον 512MB ελεύθερου χώρου
@@ -42,6 +42,9 @@ If you have BootMii installed as boot2 you will need to launch BootMii by restar
 6. Για να βγείτε από το BootMii, επιλέξτε την επιλογή Πίσω (αυτή με το βέλος) και ύστερα μπορείτε να επιλέξετε είτε την επιλογή Μενού Wii ή την επιλογή Homebrew Channel για να επιστρέψετε εκεί που επιθυμείτε.
 
 To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). This is useful in the unlikely case you brick your Wii.
+{: .notice--info}
+
+To make sure you don’t lose the files, it's recommended to `nand.bin` and `keys.bin` from the root of your SD card to your computer.
 {: .notice--info}
 
 [Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.

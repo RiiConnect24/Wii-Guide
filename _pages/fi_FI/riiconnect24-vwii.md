@@ -9,9 +9,9 @@ Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiCon
 
 ![RiiConnect24:in Logo](/images/WiiRC24Logo.jpg)
 
-Opas [RiiConnect24:in](https://rc24.xyz) asentamiseen vWiille (Virtual Wii Wii U:lla), johon kuuluu: CMOC/MCC, Nintendo Channel, EVC ja News Channel pakotetulla 4:3 kuvasuhde patchauksella.
+Guide to installing [RiiConnect24](https://rc24.xyz) on your vWii (Virtual Wii on Wii U) with: CMOC/MCC, Nintendo Channel, EVC and News Channel along with forced 4:3 aspect ratio patching.
 
-Koska tietyt ominaisuudet alkuperäisessä Wii:ssä eivät ole vWii:llä, voimme vain osittain käyttää RiiConnect24:ia. Katso [Mitä tällä hetkellä toimii](#whats-currently-working) lisätiedoille.
+Since certain features found in the original Wii are not present in the vWii, we can only partially utilize RiiConnect24. See [what's currently working](#whats-currently-working) for details.
 {: .notice--warning}
 
 #### Varoitukset
@@ -19,21 +19,21 @@ Koska tietyt ominaisuudet alkuperäisessä Wii:ssä eivät ole vWii:llä, voimme
 **EMME** ole vastuussa, jos teet konsolistasi tiiliskiven tai vahingoitat sitä millään tavalla. Jos noudatat tätä opasta tarkasti, sinulla ei pitäisi olla ongelmia.
 {: .notice--warning}
 
-**ÄLÄ** seuraa tätä opasta millään muulla konsolilla kuin vWii:llä (Virtual Wii on Wii U). Jos etsit ohjeita Nintendo Wiille, käytä [wii.guide/riiconnect24:ia](riiconnect24). Jos haluat asentaa RiiConnect24:in Dolphin emulaattorille, käytä [wii.guide/riiconnect24-dolphin:ia](/riiconnect24-dolphin)
+Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on Wii U). If you're looking for instructions for a Nintendo Wii, use [wii.guide/riiconnect24](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [wii.guide/riiconnect24-dolphin](/riiconnect24-dolphin)
 {: .notice--warning}
 
 #### Mitä tarvitset
 
 * Tietokone tai mobiililaite, jossa on internetyhteys ja tapa vuorovaikuttaa SD Korttejen kanssa.
 * SD-kortti joka on formatoitu FAT32 (vähintään 2GB) formaattiin, jossa on riittävästi vapaata tilaa. SDHC tai SDXC kortit formatoitu FAT32 formaattiin pitäisi toimia.
-* Wii U konsoli, joka pystyy käynnistämään Homebrew Launcherin (joko web selain exploit, Haxchi tai Coldboot Haxchi). **Jos sinulla ei ole softmodattua Wii U konsolia, seuraa [wiiuguide.xyz](https://wiiuguide.xyz), sekä [the virtual Wii modding](https://wiiuguide.xyz/#/vwii-modding) ohjeita ja sitten palata takaisin.**
+* Wii U konsoli, joka pystyy käynnistämään Homebrew Launcherin (joko web selain exploit, Haxchi tai Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
 * [RiiConnect24 Patcheri](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-Kun olet seurannut yllä mainitut ohjeet, sinulla pitäisi olla:
+After following the above linked guide, you should have:
 * A vWii NAND-varmuuskopio ja avaimet (säilytä näitä turvallisesti!!)
 * Homebrew Channel asennettuna
 * d2x cIOS asennettuna (IOS249, IOS250 ja IOS251)
-* Muokattu IOS80
+* IOS80 patched
 {: .notice--info}
 
 #### Ohjeet
@@ -76,7 +76,7 @@ After following the above sections, you're almost able to utilize RiiConnect24 o
 The following RiiConnect24 services are **working** on the vWii:
 * News Channel
     * This channel is affected by the timestamp issue. The "Last Updated" and article timestamps will be incorrect.
-    * Bannerin datan tiedetään myös olevan epäkunnossa, palauttavan `Unable to obtain data.`
+    * The banner data is also known to not work, returning `Unable to obtain data.`
 * Forecast Channel
 * Nintendo Channel
 * Everybody Votes Channel
@@ -84,7 +84,7 @@ The following RiiConnect24 services are **working** on the vWii:
 {: .notice--success}
 
 The following RiiConnect24 services are **not working** on the vWii:
-* Wii Mail (useimpia toimintoja ei ole vWiillä)
-    * Tämä sisältää lähetettävän/vastaanottavan viestin ystäville/ystäville. Voit vastaanottaa globaaleja lähetyksiä ja viestejä vain RSSMii-feedeistä (jos asennettu).
-* Kaikki muu, joka ei toimi [RiiConnect24 tilastot](https://rc24.xyz/stats/index.html).
+* Wii Mail (most functionality does not exist on vWii)
+    * This includes sending/receiving mail to/from friends. You can only receive global broadcast mail and posts from RSSMii feeds (if set up).
+* Everything else that isn't working according to [RiiConnect24 stats](https://rc24.xyz/stats/index.html).
 {: .notice--warning}

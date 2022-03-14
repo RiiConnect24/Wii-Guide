@@ -10,10 +10,10 @@ sitemap: falso
 **Abbiamo**
 
 + [cIOS](cios)
++ [Canale Kirby TV](kirby-tv)
 + [RiiConnect24](riiConnect24)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
-+ [Kirby TV Channel](kirby-tv)
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
@@ -24,7 +24,7 @@ sitemap: falso
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
-+ [Kirby TV Channel](kirby-tv)
++ [Canale Kirby TV](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Eliminare VFFs](deleting-vffs)
 + [Fixing FORE000006](riiconnect24-batteryfix)
@@ -34,9 +34,10 @@ sitemap: falso
 + [BlueBomb](bluebomb)
 * [Backup di BootMii](bootmii)
 + [cIOS](cios)
++ [Do's and Don'ts of Wii Modding](dosanddonts)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
-+ [Canale Homebrew](hbc)
++ [Homebrew Channel](hbc)
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
 + [str2hax](str2hax)

@@ -9,13 +9,13 @@ Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te
 
 ![Logo-ul BootMii](/images/bootmii.png)
 
-Ai nevoie de un **card SD** pentru a crea o copie de rezervă NAND folosind BootMii. Dacă nu ai una, poți sări această pagină, însă este foarte recomandat să creezi una dacă poți.
+Ai nevoie de un **card SD** pentru a crea o copie de rezervă NAND folosind BootMii. If you do not have one, you can skip this page, although it is highly recommended to make a NAND backup if you can.
 {: .notice--warning}
 
-BootMii ca boot2 este recomandat, dar poate fi instalat doar pe build-uri vechi de Wii-uri. Altfel, poate fi instalat ca un IOS.
+BootMii ca boot2 este recomandat, dar poate fi instalat doar pe build-uri vechi de Wii-uri. Otherwise, it can only be installed as an IOS.
 {: .notice--info}
 
-Unele din cele mai importante funcții ale BootMii-ului este abilitatea de a face o copie de rezervă și de a restaura memoria NAND a consolei tale Wii. Vom trece peste cum să efectuezi o copie de rezervă NAND. Poți apoi să restaurezi din acea copie de rezervă pentru orice anume motiv. Este o idee bună să faci o copie de rezervă NAND în mod regulat sau înainte să faci ceva riscant cu consola ta (și dacă știi ce faci, nu va trebui să faci nimic riscant).
+Unele din cele mai importante funcții ale BootMii-ului este abilitatea de a face o copie de rezervă și de a restaura memoria NAND a consolei tale Wii. Vom trece peste cum să efectuezi o copie de rezervă NAND. You can then restore from that backup for any reason. Este o idee bună să faci o copie de rezervă NAND în mod regulat sau înainte să faci ceva riscant cu consola ta (și dacă știi ce faci, nu va trebui să faci nimic riscant).
 
 #### Ai nevoie de
 * Un card SD cu cel puțin 512MB de spațiu liber
@@ -44,5 +44,8 @@ Dacă ai BootMii instalat ca boot2 va trebui să porniți BootMii prin repornire
 To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). Acest lucru este util în cazul rar în care iți brick-uiești consola.
 {: .notice--info}
 
-[Continuă la instalarea Priiloader](priiloader) Priiloader adaugă un nivel de protecție anti-brick, și îl recomandăm, în special dacă ai putut să instalezi numai BootMii IOS.
+To make sure you don’t lose the files, it's recommended to `nand.bin` and `keys.bin` from the root of your SD card to your computer.
+{: .notice--info}
+
+[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
 {: .notice--info}

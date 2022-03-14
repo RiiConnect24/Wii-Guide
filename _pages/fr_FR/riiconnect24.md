@@ -9,7 +9,7 @@ Si vous avez besoin d'aide pour quoi que ce soit concernant ce tutoriel, veuille
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-[RiiConnect24](https://rc24.xyz/) vous permet d'utiliser les services interrompus de WiiConnect24, qui incluent la Chaîne Infos, la Chaîne Météo, la Chaîne Votes, la Chaîne Nintendo et la Chaîne Concours Mii, ainsi que Wii Mail.
+[RiiConnect24](https://rc24.xyz/) vous permet d'utiliser les services interrompus de WiiConnect24, qui incluent les chaînes infos, météo, votes, Nintendo et concours Mii, ainsi que Wii Mail.
 
 {% capture notice-1 %}
 Ce guide est pour la Wii ordinaire seulement.

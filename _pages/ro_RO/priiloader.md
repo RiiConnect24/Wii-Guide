@@ -77,11 +77,5 @@ Asta este o lista cu hack-urile care le poți activa cu Priiloader.
 | Force Disc Games to run under IOS249    | Forțează discurile să folosească cIOS 249 ca IOS-ul jocului. Deși nu poate permite jucarea jocurilor inscripționate, este necesar pentru a juca discuri cu jocuri inscripționate. (Îți poate da Eroarea 002 pe un joc ne-inscripționat) |
 
 
-Continuă la instalarea cIOS<br> cIOS este folosit pentru a juca jocuri cu un USB Loader. Este de asemenea folositor pentru multe alte aplicații homebrew.
-{: .notice--info}
-
-Dacă folosești un Wii clasic, urmează [acest ghid](cios) pentru a instala cIOS
-{: .notice--info}
-
-Dacă folosești un Wii mini, urmează [acest ghid](cios-mini) pentru a instala cIOS
+[Continue to the Do's and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
 {: .notice--info}

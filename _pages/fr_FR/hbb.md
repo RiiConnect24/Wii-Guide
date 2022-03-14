@@ -19,7 +19,7 @@ L'[Open Shop Channel](https://oscwii.org/) est où vous pouvez aller pour avoir 
 1. Décompressez Homebrew Browser et placez le contenu dans le dossier `apps` sur votre carte SD ou sur votre périphérique USB.
 2. Insérer la carte SD ou le périphérique USB dans votre Wii. Vous pouvez maintenant lancer Homebrew Browser dans la Homebrew Channel si vous le voulez.
 
-[ Continuer vers RiiConnect24 ](riiconnect24) <br> RiiConnect24 vous permet d'utiliser les services interrompus de WiiConnect24, qui incluent la Chaîne Infos, la Chaîne Météo, la Chaîne Votes, la Chaîne Nintendo et la Chaîne Concours Mii, ainsi que Wii Mail. L'installation est facultative.
+[Continuer vers RiiConnect24](riiconnect24) <br> RiiConnect24 vous permet d'utiliser les services interrompus de WiiConnect24, qui incluent les chaînes infos, météo, votes, Nintendo et concours Mii, ainsi que Wii Mail. L'installation est facultative.
 {: .notice--info}
 
 [Continuer vers la navigation du site](site-navigation)<br> Nous avons de nombreux autres tutoriels que vous pourriez aimer.

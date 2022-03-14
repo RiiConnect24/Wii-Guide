@@ -12,7 +12,7 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 Guide to installing [RiiConnect24](https://rc24.xyz) on your vWii (Virtual Wii on Wii U) with: CMOC/MCC, Nintendo Channel, EVC and News Channel along with forced 4:3 aspect ratio patching.
 
 Since certain features found in the original Wii are not present in the vWii, we can only partially utilize RiiConnect24. See [what's currently working](#whats-currently-working) for details.
-{: .notice--waarschuwing}
+{: .notice--warning}
 
 #### Warnings
 
@@ -87,4 +87,4 @@ The following RiiConnect24 services are **not working** on the vWii:
 * Wii Mail (most functionality does not exist on vWii)
     * This includes sending/receiving mail to/from friends. You can only receive global broadcast mail and posts from RSSMii feeds (if set up).
 * Everything else that isn't working according to [RiiConnect24 stats](https://rc24.xyz/stats/index.html).
-{: .notice--waarschuwing}
+{: .notice--warning}

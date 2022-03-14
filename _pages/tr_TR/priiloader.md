@@ -77,11 +77,5 @@ Bu, Priiloader ile etkinleştirebileceğiniz hacklerin listesidir.
 | Force Disc Games to run under IOS249    | Disklerin, oyun IOS'u olarak cIOS 249'u kullanmasını sağlar. Burnlenen oyunların tek başına oynatılmasına izin veremese de, burnlenen diskleri oynatıyor olması gerekir. (Burnlenmemiş oyun, 002 hata kodunu verir) |
 
 
-cIOS yüklemeye devam edin<br> cIOS, USB Loader üzerinden oyun oynayabilmek için kullanılır. Diğer homebrew uygulamalarının çalışmasında da kolaylık sağlar.
-{: .notice--info}
-
-If using a regular Wii, follow [this guide](cios) to install cIOS
-{: .notice--info}
-
-If using a Wii mini, follow [this guide](cios-mini) to install cIOS
+[Continue to the Do's and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
 {: .notice--info}

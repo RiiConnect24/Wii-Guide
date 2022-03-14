@@ -10,12 +10,12 @@ sitemap: false
 **Destacados**
 
 + [Instalar cIOS](cios)
-+ [Instalar RiiConnect24](riiconnect24)
++ [Kirby TV Channel](kirby-tv)
++ [RiiConnect24](riiconnect24)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
-+ [Canal de Kirby TV](kirby-tv)
 {% endcapture %}
-<div class="notice--info">{ notice-1 | markdownify }</div>
+<div class="notice--info">{{ notice-1 | markdownify }}</div>
 
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
@@ -34,9 +34,10 @@ sitemap: false
 + [BlueBomb](bluebomb)
 * [Hacer copia de seguridad con BootMii](bootmii)
 + [Instalar cIOS](cios)
++ [Do's and Don'ts of Wii Modding](dosanddonts)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
-+ [Canal Homebrew](hbc)
++ [Homebrew Channel](hbc)
 + [LetterBomb](letterbomb)
 + [Instalar Priiloader](priiloader)
 + [str2hax](str2hax)

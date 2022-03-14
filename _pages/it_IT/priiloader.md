@@ -21,7 +21,7 @@ Ti preghiamo di **non** installare Priiloader su una Virtual Wii (modalità Wii 
 #### Istruzioni
 ##### Sezione 1 - Scaricando/Installando
 
-1. Download the Priiloader installer and extract it to your SD card or USB drive.
+1. Scarica Priiloader installer ed estrailo nella cartella apps nella tua scheda SD o nella tua USB.
     * Se questa cartella non esiste, creala.
 
 ##### Sezione 2 - Installare Priiloader
@@ -77,11 +77,5 @@ Questa è una lista di hack che puoi attivare con Priiloader.
 | Force Disc Games to run under IOS249    | Imposta il cIOS 249 come l'IOS del gioco avviato da un disco. Mentre questo non può abilitare giocare a giochi masterizzati in casa, è necessario per giocare dischi masterizzati. (Può darti l'errore 002 su un gioco non masterizzato) |
 
 
-Continua con l'installazione di cIOS<br> cIOS è utilizzato per giocare a giochi con un USB Loader. È utile anche per molte altre applicazioni homebrew.
-{: .notice--info}
-
-If using a regular Wii, follow [this guide](cios) to install cIOS
-{: .notice--info}
-
-If using a Wii mini, follow [this guide](cios-mini) to install cIOS
+[Continue to the Do's and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
 {: .notice--info}

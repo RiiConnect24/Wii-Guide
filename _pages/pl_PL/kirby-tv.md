@@ -2,7 +2,7 @@
 title: "Kirby TV Channel"
 ---
 
-{% include toc title="Zawartość" %}
+{% include toc title="Table of Contents" %}
 
 Kirby TV Channel jest kontrolowany i obsługiwany przez Striim Network, a nie RiiConnect24. Dołącz do ich serwera Discord [tutaj](https://discord.gg/seCnzxnE75).
 {: .notice--warning}
