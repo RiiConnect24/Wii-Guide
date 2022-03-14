@@ -19,12 +19,13 @@ BlueBomb是一种利用Wii和Wii Mini的蓝牙库中漏洞的破解程序。 尽
 
 #### 第一章 - 你需要的是
 - 一台搭载了Linux的电脑
-  - 如果你有一台树莓派，你可以改用它，因为很可能已经安装了Linux。
-  - Windows子系统的Linux将*不会*运作，因为它不会直接通过蓝牙设备和USB端口。
-  - 如果你没有Linux环境，可下载[Ubuntu](https://ubuntu.com/download/desktop)，它是对用户最友好的选项而且可以运行在有Windows和Mac的电脑。
-    - 32位的设备将需要[Ubuntu 16.04](http://releases.ubuntu.com/16.04/)。
-    - 对于64位设备，由于其稳定性，建议使用LTS版本，但是最新版本也可以使用。
-  - 你可以[在USB设备上刷Linux环境](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview)而不是将其安装到计算机上。
+  - A Virtual Machine may work, but it is not recommended due to its complexity in getting Bluetooth passthrough working. If possible, please use a LiveUSB as described below.
+  - If you have a Raspberry Pi, you can use that instead as it most likely has Linux installed already.
+  - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports.
+  - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
+    - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
+    - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
+  - You can [flash a Linux Live environment to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
 - 一个蓝牙适配器。
   - 内部的蓝牙适配器也可以用。
   - 如果你没有，去买一个并且确定它能适配Linux。
@@ -35,8 +36,7 @@ BlueBomb是一种利用Wii和Wii Mini的蓝牙库中漏洞的破解程序。 尽
 1. 从[BootMii网站](https://bootmii.org/download/)下载HackMii installer。
 - （如果尝试修复砖机，还应该将要使用的工具复制到/apps/）
 1. 提取，然后把`boot.elf`放在U盘的根目录。
-1. 把U盘插到主机上。 如果是Wii mini，USB端口在主机的后面。 如果是正常的Wii，横置的话使用最下面的端口， 竖置的话使用右边的端口。 竖置的话使用右边的端口。
-1. 把Wii开机，进入设置。 在右上角你会看见4个字母的代码，就像下面的图片。 这串代码是你的Wii菜单版本，记下来因为你之后会用到。 然后，关闭你的Wii。 ![系统彩蛋版本号](/images/Wii/SystemMenuVersion.png)
+- (Even for a Wii mini, bootmini.elf will **not** work, its purpose is entirely different and unrelated. Use boot.elf in all cases). 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright). 1. Turn on your console and navigate to the settings menu. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. 启动你的Linux环境，并且确定你已经连接到互联网。
 1. 打开Terminal。
 1. 执行以下命令：
@@ -51,13 +51,13 @@ chmod +x bluebomb-helper.sh
 1. 关闭你的Wii主机并且**务必不要**连接任何的Wii手柄。
 1. 重复按下Wii主机上的Sync同步按钮，直到Linux上的Terminal提醒已连接上主机。 这可能需要很多尝试，所以别放弃。
 
-确定主机离正在运行漏洞的电脑很近，至少应该在2m范围内。
+Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
 {: .notice--info}
 
-Wii主机现在应该会运行HackMii installer。 你现在可以关闭你的Linux电脑，如果你不想再用的话。
+The console should now boot to the HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
 
-[如果在使用Wii，请安装Homebrew Channel 和 BootMii。](hbc)
+[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
 {: .notice--info}
 
-[如果在使用Wii mini，请安装Homebrew Channel。](hbc-mini)
+[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
 {: .notice--info}
