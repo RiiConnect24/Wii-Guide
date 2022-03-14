@@ -62,7 +62,7 @@ sitemap: false
 
 **Site**
 + [Accueil](/)
-+ [Commencer](Commencer)
++ [Commencer](get-started)
 + [FAQ](faq)
 + [Donations](donations)
 {% endcapture %}
