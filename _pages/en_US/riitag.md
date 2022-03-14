@@ -98,7 +98,7 @@ We have a RiiTag channel you can install on your Wii. When it is launched, it wi
 6. The RiiTag Channel should now be available to use on your Wii Menu.
 
 [Check out RiiTag-RPC](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br>
-Now that you set up RiiTag, you can set up RiiTag-RPC to show your friends what you're playing on the Wii using Discord's rich presence.
+Now that you set up RiiTag, you can set up RiiTag-RPC to show your Discord friends what you're playing on the Wii using Discord's rich presence.
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br>
