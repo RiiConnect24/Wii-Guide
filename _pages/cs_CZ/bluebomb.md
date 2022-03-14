@@ -19,12 +19,13 @@ Máte-li v úmyslu instalovat Homebrew Channel a BootMii na původním Wii, nedo
 
 #### Část I - Co budete potřebovat
 - Počítač bežící na Linuxu
-  - Pokud máte Rasberry Pi, tak i to lze použít, protože na něm už jistě Linux máte.
-  - Windows Subsystem for Linux *nebude* fungovat, protože nemá přímý přístup k Bluetooth adaptéru nebo USB portům.
-  - Pokud nemáte Linux, [Ubuntu](https://ubuntu.com/download/desktop) je uživatelsky nejpřívětivější možnost a může být spuštěno na počítačích s Windows nebo Mac.
-    - 32bitová zařízení budou vyžadovat [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
-    - Pro 64bitová zařízení je doporučeno použít vydání LTS kvůli jeho stabilitě, ale funguje i nejnovější vydání.
-  - Můžete [nainstalovat Linux na USB flash disk](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) místo jeho instalace do vašeho počítače.
+  - A Virtual Machine may work, but it is not recommended due to its complexity in getting Bluetooth passthrough working. If possible, please use a LiveUSB as described below.
+  - If you have a Raspberry Pi, you can use that instead as it most likely has Linux installed already.
+  - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports.
+  - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
+    - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
+    - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
+  - You can [flash a Linux Live environment to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
 - Bluetooth adaptér.
   - Postačí vestavěný.
   - Jestli nemáte vestavěný, sežeňte si nějaký, který je kompatibilní s Linuxem.
@@ -35,8 +36,7 @@ Máte-li v úmyslu instalovat Homebrew Channel a BootMii na původním Wii, nedo
 1. Stáhněte si HackMii installer z [webu BootMii](https://bootmii.org/download/).
 - (Pokoušíte-li se opravit brick, měli byste také zkopírovat tu homebrew aplikaci, kterou chcete použít, do /apps/)
 1. Extrahujte a umístěte soubor `boot.elf` do kořenového adresáře vašeho flash disku.
-1. Zapojte flash disk do vaší konzole. Wii mini má USB port vzadu. U klasického Wii použijte spodní USB port. (pokud je Wii postaveno na výšku, použijte port napravo)
-1. Zapněte konzoli a přejděte do Wii Settings. V pravém horním rohu uvidíte čtyřmístný kód, tak jak jej vidíte na obrázku níže. Tento kód označuje verzi systému, zapamatujte si ji, budete ji později potřebovat. Nyní můžete konzoli vypnout. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+- (Even for a Wii mini, bootmini.elf will **not** work, its purpose is entirely different and unrelated. Use boot.elf in all cases). 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright). 1. Turn on your console and navigate to the settings menu. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Spusťte Linux a ujistěte se, že jste připojeni k internetu.
 1. Spusťte terminál
 1. Spusťte následující příkazy:
@@ -51,13 +51,13 @@ chmod +x bluebomb-helper.sh
 1. Zapněte konzoli a **ne**připojujte žádné Wii Remoty.
 1. Na konzoli opakovaně mačkejte tlačítko Sync, dokud terminál nezobrazí `got connection handle`. To může vyžadovat mnoho pokusů, takže to nevzdávejte.
 
-Ujistěte se, že konzole je blízko počítače špouštějícího exploit, v ideálním případě by to mělo být méně než 90 cm.
+Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
 {: .notice--info}
 
-Konzole by se nyní měla spustit do HackMii instalátoru. Pokud počítač neplánujete pozdějí používat, můžete ho nyní vypnout.
+The console should now boot to the HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
 
-[Pokud právě hackujete klasické Wii, pokračujte instalací Homebrew Channelu a BootMii](hbc)
+[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
 {: .notice--info}
 
-[Pokud právě hackujete Wii mini, pokračujte instalací Homebrew Channelu a BootMii](hbc-mini)
+[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
 {: .notice--info}
