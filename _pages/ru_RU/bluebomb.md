@@ -19,12 +19,13 @@ For the original Wii, we do not recommend using BlueBomb if you intend to instal
 
 #### Часть I - Что вам нужно
 - Linux машина
-  - Если у Вас есть Raspberry Pi, вы можете использовать его, так как в нем, скорее всего, уже установлен Linux.
-  - Подсистема Windows для Linux *не будет работать*, так как не имеет прямого доступа к адаптеру Bluetooth или портам USB.
-  - Если у вас нет Linux, [Ubuntu](https://ubuntu.com/download/desktop) - наиболее удобный вариант и он может быть запущен на компьютерах под управлением Windows или Mac.
-    - Для 32-битных устройств нужен [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
-    - Для 64-битных устройств рекомендуется использовать LTS версию в связи с ее стабильностью, но последние версии также работают.
-  - Вы можете [ установить Linux на USB флешку](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) вместо того, чтобы устанавливать его на компьютер.
+  - A Virtual Machine may work, but it is not recommended due to its complexity in getting Bluetooth passthrough working. If possible, please use a LiveUSB as described below.
+  - If you have a Raspberry Pi, you can use that instead as it most likely has Linux installed already.
+  - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports.
+  - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
+    - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
+    - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
+  - You can [flash a Linux Live environment to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
 - Bluetooth адаптер.
   - Встроенный Bluetooth адаптер будет работать.
   - Если у вас его нет, при выборе убедитесь, что он совместим с Linux.
@@ -35,8 +36,7 @@ For the original Wii, we do not recommend using BlueBomb if you intend to instal
 1. Скачайте установщик HackMii с [сайта BootMii ](https://bootmii.org/download/).
 - (Если вы пытаетесь починить кирпич, скопируйте homebrew (менеджер пакетов, работающий в командной строке) приложения, которые хотите использовать в разделе /apps/)
 1. Распакуйте и поместите файл `boot.elf` на вашу флешку.
-1. Подсоедините установочную флешку к консоли. У Wii mini USB порт расположен сзади. Для обычной Wii используйте нижний порт. (или правый порт, если он вертикальный).
-1. Включите консоль и переместитесь к меню настроек. В правом верхнем углу вы увидите 4-значный код, как на картинке ниже. Этот код - ваша версия Wii Menu. Запишите его, он понадобится позже. После этого выключите консоль. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+- (Even for a Wii mini, bootmini.elf will **not** work, its purpose is entirely different and unrelated. Use boot.elf in all cases). 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright). 1. Turn on your console and navigate to the settings menu. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Запустите ваш дистрибутив Linux и убедитесь, что вы подключены к интернету.
 1. Откройте Терминал.
 1. Запустите следующие комманды:
