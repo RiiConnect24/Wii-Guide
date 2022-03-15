@@ -22,10 +22,10 @@ Homebrew Channel - это место, откуда вы будете запус�
 4. Нажмите "Продолжить", когда закончится установка. ![Успешная установка Homebrew Channel](/images/Wii/SuccessHBC.png)
 
 5. После установки, нажмите "Назад" и перейдите в BootMii.
-6. Если главный экран говорит, что вы можете установить BootMii в качестве boot2, сделайте это. Это обеспечивает наилучшую возможную защиту от превращения консоли в кирпич. Пропустите этот шаг, если вы не можете установить BootMii в качестве boot2.
-7. Установите BootMii как IOS, даже если вы уже установили BootMii в качестве boot2 на предыдущем этапе. Если вы не могли установить BootMii в качестве boot2 на предыдущем этапе, это все равно позволит вам создать резервную копию NAND.
+6. Если главный экран говорит, что вы можете установить BootMii в качестве boot2, сделайте это. Это обеспечивает наилучшую возможную защиту от превращения консоли в кирпич. Skip this step if the option doesn't show up, in that case your Wii is not one of the earlier models that supports it.
+7. Install BootMii as IOS, even if you already installed BootMii as boot2 in the previous step. If you couldn't install BootMii as boot2, this will still allow you to create a NAND backup.
 
-Если у вас нет SD-карты, вы не можете установить или использовать BootMii, и поэтому не сможете воспользоваться ни одним из вышеупомянутых преимуществ. Вы всегда можете установить его позже.
+If you do not have an SD card, you cannot install nor use BootMii, and therefore will not be able to utilize any of the mentioned benefits. Вы всегда можете установить его позже.
 {: .notice--warning}
 
 ![Установка BootMii](/images/Wii/InstallBootMii.png)
@@ -64,4 +64,7 @@ Here's a tip - when installing homebrew applications on your SD Card or USB driv
 {: .notice--info}
 
 If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
+{: .notice--info}
+
+Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
 {: .notice--info}
