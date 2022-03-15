@@ -92,8 +92,7 @@ Eğer nwc24msg.cfg dosyasını doğru yamalayamadıysanız lütfen [RiiConnect24
 13. Önce `WiiConnect24` kısmına ardından tekrar `WiiConnect24` kısmına giderek etkinleştirildiğinden emin olun.
 14. WiiConnect24 menüsüne gidip `Standby Connection` kısmından etkinleştirildiğinden emin olun.
 15. `Slot Illumination` kısmında, disk ışığını `Dim` ya da `Bright` yapmanızı her ne kadar tavsiye etsek de bu opsiyoneldir.
-16. Son olarak, önce `Internet` ardından `User Agreements` veya `Agreement/Contact` kısmına gidip `Yes` deyin. Lütfen bunu baştan sona okuyun. (If you see User Agreements without RiiConnect24's logo, that means using our DNS won't work. You can set `Auto-Obtain` DNS to `On` if that's the case. RiiConnect24 will still work without it.)
-
+16. Son olarak, önce `Internet` ardından `User Agreements` veya `Agreement/Contact` kısmına gidip `Yes` deyin. Lütfen bunu baştan sona okuyun.
 
 [Wiimmfi’den devam edin](wiimmfi)<br> Wiimmfi, Nintendo Wi-Fi Connection’ın durdurulmasından sonra bile çevrimiçi oyunları oynayabilmenize olanak sağlar. Bunu yüklemek opsiyoneldir.
 {: .notice--info}
@@ -101,19 +100,22 @@ Eğer nwc24msg.cfg dosyasını doğru yamalayamadıysanız lütfen [RiiConnect24
 [WiiLink’ten devam edin](wiilink)<br> WiiLink, Wii no Ma ve Digicam Print Channel gibi durdurulmuş Japon kanallarına yeniden erişebilmenizi sağlar. Bunu yüklemek opsiyoneldir.
 {: .notice--info}
 
-Eğer 107245 nolu hata kodunu alırsanız, IOS’u yanlış yamalamışsınız demektir.
+If you get error 107245, then you have not installed the patched IOS.
 {: .notice--info}
 
-Eğer 107304 nolu hata kodunu alırsanız, bizim DNS’imizi kullanamazsanız demektir. Bu durum, RiiConnect24’ü kullanmanızda bir engel teşkil etmez. ‘’Auto-Obtain DNS’’ kısmını ‘’Yes’’ yapmanız yeterlidir.
+If you get error 107304 or you see Nintendo's User Agreement without RiiConnect24's logo, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
 {: .notice--info}
 
-FORE000006 hata kodunu aldıysanız, muhtemelen Wii'nizin saati yanlış ayarlıdır. Zamanı ve tarihi doğru ayarladıktan sonra en fazla bir saat sonra Forecast Channel'ın çalışmaya başlamış olması gerekir.
+FORE000006 hata kodunu aldıysanız, muhtemelen Wii'nizin saati yanlış ayarlıdır. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel may start working.
 {: .notice--warning}
 
-[Eğer Forecast Channel, News Channel veya Wii Mail’i kullanırken sorunlarla karşılaşıyorsanız; bu rehberi takip etmeniz sorunları çözebilir.](deleting-vffs)
+[If you still get FORE000006 or if you get NEWS000006, you will need to delete your SYSCONF with rc24-clear-tool](https://github.com/RiiConnect24/rc24-clear-tool/releases/latest).
 {: .notice--warning}
 
-Eğer `WiiConnect24 and Wii Shop Channel currently not being offered in your country` hatasını alıyorsanız, Wii Ayarlarına gidip -> Last Page -> Country kısmından ülkeyi Birleşik Krallık yapın. Bu hatayı, bizim desteklemediğimiz bir ülkeyi kullanıyorsanız alırsınız. Eğer daha fazla yardıma ihtiyaç duyuyorsanız [ support@riiconnect24.net](mailto:support@riiconnect24.net) adresinden iletişime geçin.
+[If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with rc24-clear-tool.](deleting-vffs)
+{: .notice--warning}
+
+If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
 {: .notice--warning}
 
 [Site haritasından devam edin](site-navigation)<br> Sevebileceğiniz pek çok öğreticiye daha sahibiz.
