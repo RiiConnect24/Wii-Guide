@@ -10,22 +10,24 @@ Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te
 LetterBomb este un exploit pentru Wii care este declanșat folosind Wii Message Board.
 
 #### De ce ai nevoie
-- Un card SD
+- An SD card that is no more than 32GB in size
 - Un Wii pe versiunea 4.3 de System Menu
 
 #### Instrucțiuni
 
 
 1. În Wii, du-te la `Wii Settings` -> `Internet` -> `Console Information` și notează adresa ta MAC.
-1. Vizitează [please.hackmii.com](https://please.hackmii.com), introduce MAC-ul și regiunea consolei tale, completează CAPTCHA, *asigură-te că* `Bundle the HackMii Installer for me!` * este verificat*, și apasă pe butonul albastru sau roșu
+1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, ensure `Bundle the HackMii Installer for me!` is checked, and cut either wire
    - Nu contează pe care buton îl apeși. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
 1. Extrage conținutul arhivei ZIP descărcate în rădăcina cardului tău SD.
 1. Scoate cardul SD și introduce-l în Wii.
 1. În Wii, întoarce-te la Meniul Wii și apoi deschide Wii Message Board.
 1. Deschide scrisoarea roșie cu iconița cu bomba.
-   - În diverse scenarii, va trebui să te uiți la ziua anterioară sau viitoare pentru a găsi-o.
+   - Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
+   - In various scenarios, you may need to look at the previous or next day to find it.
+   - If you don't see the red letter, you may be using an unsupported SD card that's greater than 32GB in size.
 
-Asigură-te că data din Wii-ul tău este corectă, altfel este posibil să nu găsești scrisoarea.
+
 {: .notice--warning}
 
 
