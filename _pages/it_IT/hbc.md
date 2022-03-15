@@ -22,10 +22,10 @@ Il Canale Homebrew è dove caricherai le applicazioni homebrew. BootMii è un pe
 4. Premi continua quando ha finito. ![Installazione del Canale Homebrew completata](/images/Wii/SuccessHBC.png)
 
 5. Una volta installato, premi indietro e vai su BootMii.
-6. Se la schermata principale ti dice che puoi installare BootMii su boot2, fallo. Questo ti offre la migliore protezione dal brick che puoi avere. Salta questo passo se non hai potuto installare BootMii come boot2.
-7. Installa BootMii come IOS, anche se hai provato ad installare BootMii come boot 2 nello step precedente. Se non hai potuto installare BootMii come boot2 nel passo precedente, questo ti permetterà comunque di fare un backup della memoria NAND.
+6. Se la schermata principale ti dice che puoi installare BootMii su boot2, fallo. Questo ti offre la migliore protezione dal brick che puoi avere. Skip this step if the option doesn't show up, in that case your Wii is not one of the earlier models that supports it.
+7. Install BootMii as IOS, even if you already installed BootMii as boot2 in the previous step. If you couldn't install BootMii as boot2, this will still allow you to create a NAND backup.
 
-Se non hai una scheda SD, non puoi installare o usare BootMii, e quindi non potrai avere nessuno dei benefici citati sopra. Puoi sempre installarlo in un secondo momento.
+If you do not have an SD card, you cannot install nor use BootMii, and therefore will not be able to utilize any of the mentioned benefits. Puoi sempre installarlo in un secondo momento.
 {: .notice--warning}
 
 ![Installazione BootMii](/images/Wii/InstallBootMii.png)
@@ -64,4 +64,7 @@ Here's a tip - when installing homebrew applications on your SD Card or USB driv
 {: .notice--info}
 
 If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
+{: .notice--info}
+
+Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
 {: .notice--info}
