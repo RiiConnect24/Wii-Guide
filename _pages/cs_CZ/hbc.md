@@ -22,10 +22,10 @@ Homebrew Channel je program, ze kterého budete spouštět homebrew aplikace. Bo
 4. Zvolte "Continue", jakmile se instalace dokončí. ![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
 
 5. Po dokončení instalace zvolte "Back" a poté zvolte "BootMii".
-6. Pokud v hlavní nabídce vidíte, že můžete nainstalovat BootMii jako boot2, učiňte tak. To nabízí nejlepší možnou ochranu před bricknutím, kterou můžete mít. Tento krok přeskočte, pokud nemůžete BootMii nainstalovat jako boot2.
-7. Nainstalujte BootMii jako IOS, a to i přesto, pokud jste již nainstalovali BootMii jako boot2 v předchozím kroku. Jestliže jste nemohli nainstalovat BootMii jakoboot2 v předchozím kroku, tento krok vám přesto umožní vytvořit NAND zálohu.
+6. Pokud v hlavní nabídce vidíte, že můžete nainstalovat BootMii jako boot2, učiňte tak. To nabízí nejlepší možnou ochranu před bricknutím, kterou můžete mít. Skip this step if the option doesn't show up, in that case your Wii is not one of the earlier models that supports it.
+7. Install BootMii as IOS, even if you already installed BootMii as boot2 in the previous step. If you couldn't install BootMii as boot2, this will still allow you to create a NAND backup.
 
-Pokud nemáte SD kartu, nemůžete nainstalovat ani spouštět BootMii, proto nebudete moci využívat jeho zmíněné výhody. Vždy ho můžete nainstalovat později.
+If you do not have an SD card, you cannot install nor use BootMii, and therefore will not be able to utilize any of the mentioned benefits. Vždy ho můžete nainstalovat později.
 {: .notice--warning}
 
 ![BootMii Installation](/images/Wii/InstallBootMii.png)
@@ -64,4 +64,7 @@ Tady je rada - až budete instalovat homebrew aplikace na SD kartu nebo USB disk
 {: .notice--info}
 
 Jestliže jste nemohli nainstalovat BootMii, pokračujte [instalací Priiloaderu](priiloader).
+{: .notice--info}
+
+Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
 {: .notice--info}
