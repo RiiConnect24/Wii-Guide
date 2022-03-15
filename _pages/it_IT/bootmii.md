@@ -26,11 +26,11 @@ Se hai BootMii installato come boot2 dovrai avviare BootMii riavviando la tua co
 1. Apri il Canale Homebrew.
 2. Premi il pulsante HOME e scegli "Launch BootMii".
 
-    Non è possibile navigare in BootMii usando un telecomando Wii. Dovrai usare i pulsanti POWER o RESET sulla tua console, o un controller GameCube collegato nella porta 1. Per navigare tra le opzioni, premi il tasto POWER sulla Wii (o destra sulla +pulsantiera di comando su un controller GameCube). Per selezionare un opzione, clicca RESET sulla wii oppure A sul tuo controller GameCube.
+    Non è possibile navigare in BootMii usando un telecomando Wii. Dovrai usare i pulsanti POWER o RESET sulla tua console, o un controller GameCube collegato nella porta 1. Per navigare tra le opzioni, premi il tasto POWER sulla Wii (o destra sulla +pulsantiera di comando su un controller GameCube). To select an option, press RESET on your Wii or A on your GameCube controller.
     {: .notice--info}
 
 
-    Se lo schermo rimane nero e la luce del lettore disco lampeggia di blu, significa che ti mancano dei file di BootMii sulla tua scheda SD. Scarica [questo file zip](https://static.hackmii.com/bootmii_sd_files.zip) ed estrailo nella cartella principale della tua scheda SD, e riprova.
+    Se lo schermo rimane nero e la luce del lettore disco lampeggia di blu, significa che ti mancano dei file di BootMii sulla tua scheda SD. Download [this zip file](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
     {: .notice--warning}
 
 3. Select the Options button (the icon with the gears).
@@ -44,8 +44,8 @@ Se hai BootMii installato come boot2 dovrai avviare BootMii riavviando la tua co
 To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). This is useful in the unlikely case you brick your Wii.
 {: .notice--info}
 
-To make sure you don’t lose the files, it's recommended to `nand.bin` and `keys.bin` from the root of your SD card to your computer.
+To make sure you don’t lose the files, it's recommended to copy `nand.bin` and `keys.bin` from the root of your SD card to your computer.
 {: .notice--info}
 
-[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
+[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii as IOS.
 {: .notice--info}
