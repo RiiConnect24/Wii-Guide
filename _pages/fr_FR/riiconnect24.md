@@ -92,8 +92,7 @@ Vous allez maintenant configurer votre DNS vers nos serveurs. Cette option est f
 13. Allez sur `WiiConnect24`, puis `WiiConnect24` à nouveau, et vérifiez que c'est activé.
 14. De retour au menu WiiConnect24, allez sur `Standby Connection` et vérifiez que c'est activé.
 15. Dans `Slot Illumination`, nous recommandons de mettre le voyant du disque sur `Dim` ou `Bright`, mais c'est facultatif.
-16. Enfin, allez dans la section `Internet`, puis `User Agreements` ou `Agreement/Contact`, puis `Yes`. Veuillez lire le texte affiché. (Si vous voyez des Contrats Utilisateurs sans le logo de RiiConnect24, cela signifie que l'utilisation de notre DNS ne fonctionnera pas. Vous pouvez définir `Auto-Obtain` DNS à `On` si c'est le cas. Riiconnect24 va marcher sans ça.)
-
+16. Enfin, allez dans la section `Internet`, puis `User Agreements` ou `Agreement/Contact`, puis `Yes`. Veuillez lire le texte affiché.
 
 [Continuer vers Wiimmfi](wiimmfi)<br> Wiimmfi vous permet de jouer à des jeux en ligne après l'arrêt de la connexion Wi-Fi Nintendo. L'installation est facultative.
 {: .notice--info}
@@ -101,19 +100,22 @@ Vous allez maintenant configurer votre DNS vers nos serveurs. Cette option est f
 [Continué vers wiilink](wiilink)<br> Wiilinl vous permet d'utiliser les chaînes exclusive japonais comme Wii no Ma et la chaîne Digicam Print. L'installation est facultative.
 {: .notice--info}
 
-Si vous avez l'erreur 107245, alors vous avez échoué de patché vous IOS correctement.
+If you get error 107245, then you have not installed the patched IOS.
 {: .notice--info}
 
-Si vous recevez erreur 107304, alors vous ne pouvez pas utiliser notre DNS. Cela ne vas pas affecté votre utilisation de Riiconnect24. Dans ce cas, mettez Auto-obtain dns vers oui.
+If you get error 107304 or you see Nintendo's User Agreement without RiiConnect24's logo, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
 {: .notice--info}
 
-Si vous obtenez une erreur FORE000006, l'horloge de votre Wii est probablement mal réglée. Réglez-la à la date et à l'heure correctes, attendez moins d'une heure et la chaîne Météo devrait commencer à fonctionner.
+Si vous obtenez une erreur FORE000006, l'horloge de votre Wii est probablement mal réglée. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel may start working.
 {: .notice--warning}
 
-[Si vous rencontrez des problèmes avec la Chaîne Prévisionnelle, la Chaîne Infos ou le Mail Wii, suivre ce tutoriel pourrait résoudre votre problème.](deleting-vffs)
+[If you still get FORE000006 or if you get NEWS000006, you will need to delete your SYSCONF with rc24-clear-tool](https://github.com/RiiConnect24/rc24-clear-tool/releases/latest).
 {: .notice--warning}
 
-Si vous obtenez des erreurs come `Wiiconnect24 et la chaîne wii shop ne sont pas offerte dans votre pays`, allez vers Wii Settings -> La dernière page> pays et changez le vers the Royaume-Uni. Vous allez avoir cette error quant vous utilisez un pays que nous ne supporte pas. Contactez-nous à [support@riiconnect24.net](mailto:support@riiconnect24.net) si vous avez besoin d'aide.
+[If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with rc24-clear-tool.](deleting-vffs)
+{: .notice--warning}
+
+If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
 {: .notice--warning}
 
 [Continuer vers la navigation du site](site-navigation)<br> Nous avons de nombreux autres tutoriels que vous pourriez aimer.
