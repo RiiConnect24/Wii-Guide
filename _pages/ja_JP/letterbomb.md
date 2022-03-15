@@ -10,22 +10,24 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
 
 #### What you need
-- An SD card
+- An SD card that is no more than 32GB in size
 - A Wii on System Menu version 4.3
 
 #### Instructions
 
 
 1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
-1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, *ensure*
+1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, ensure `Bundle the HackMii Installer for me!` is checked, and cut either wire
    - Whichever wire you choose to cut doesn't matter. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
 1. Extract the contents of the downloaded ZIP to the root of your SD card.
 1. Take out your SD card and insert it in your Wii.
 1. On your Wii, return to the Wii Menu and then open the Wii Message Board.
 1. Load the red letter with a bomb icon.
+   - Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
    - In various scenarios, you may need to look at the previous or next day to find it.
+   - If you don't see the red letter, you may be using an unsupported SD card that's greater than 32GB in size.
 
-Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
+
 {: .notice--warning}
 
 
