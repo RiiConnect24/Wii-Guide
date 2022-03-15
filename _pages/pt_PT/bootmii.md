@@ -26,11 +26,11 @@ If you have BootMii installed as boot2 you will need to launch BootMii by restar
 1. Abre o Homebrew Channel.
 2. Pressiona o botão HOME, depois seleciona "Launch BootMii".
 
-    Navigating BootMii is not possible using a Wii Remote. Tens que usar os botões POWER e RESET na tua consola, ou um comando GameCube no port 1. To navigate between options, press POWER on your Wii (or right on the +Control Pad on a GameCube controller). Para selecionares uma opção, prime RESET na tua Wii ou o botão A no teu comando GameCube.
+    Navigating BootMii is not possible using a Wii Remote. Tens que usar os botões POWER e RESET na tua consola, ou um comando GameCube no port 1. To navigate between options, press POWER on your Wii (or right on the +Control Pad on a GameCube controller). To select an option, press RESET on your Wii or A on your GameCube controller.
     {: .notice--info}
 
 
-    Se o ecrã ficar preto e a luz azul do leitor de discos estiver a piscar, faltam-te ficheiros BootMii no teu cartão SD. Transfere este zip e extrai-o para a raíz do teu cartão SD, depois tenta de novo.
+    Se o ecrã ficar preto e a luz azul do leitor de discos estiver a piscar, faltam-te ficheiros BootMii no teu cartão SD. Download [this zip file](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
     {: .notice--warning}
 
 3. Select the Options button (the icon with the gears).
@@ -44,8 +44,8 @@ If you have BootMii installed as boot2 you will need to launch BootMii by restar
 To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). This is useful in the unlikely case you brick your Wii.
 {: .notice--info}
 
-To make sure you don’t lose the files, it's recommended to `nand.bin` and `keys.bin` from the root of your SD card to your computer.
+To make sure you don’t lose the files, it's recommended to copy `nand.bin` and `keys.bin` from the root of your SD card to your computer.
 {: .notice--info}
 
-[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
+[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii as IOS.
 {: .notice--info}
