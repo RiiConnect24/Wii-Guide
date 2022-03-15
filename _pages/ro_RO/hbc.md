@@ -22,10 +22,10 @@ Homebrew Channel este locul unde vei porni aplicațiile homebrew. BootMii este o
 4. Apasă Continue după ce este gata.![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
 
 5. Odată instalat, apasă back și mergi la BootMii.
-6. Dacă ecranul principal spune că poți instala BootMii ca boot2, fă acest lucru. Acesta oferă cea mai bună protecție anti-brick pe care o poți avea. Sari peste acest pas dacă nu poți instala BootMii ca boot2.
-7. Instalează BootMii ca IOS, chiar dacă deja ai instalat BootMii boo2 în pasul anterior. Dacă nu ai putut instala BootMii ca boot2 în pasul anterior, asta tot îți va permite să faci o copie de rezervă NAND.
+6. Dacă ecranul principal spune că poți instala BootMii ca boot2, fă acest lucru. Acesta oferă cea mai bună protecție anti-brick pe care o poți avea. Skip this step if the option doesn't show up, in that case your Wii is not one of the earlier models that supports it.
+7. Install BootMii as IOS, even if you already installed BootMii as boot2 in the previous step. If you couldn't install BootMii as boot2, this will still allow you to create a NAND backup.
 
-Dacă nu ai un card SD, nu poți instala sau folosi BootMii, iar, prin urmare, nu vei putea folosi niciuna dintre beneficiile menționate. Îl poți instala oricând mai târziu.
+If you do not have an SD card, you cannot install nor use BootMii, and therefore will not be able to utilize any of the mentioned benefits. Îl poți instala oricând mai târziu.
 {: .notice--warning}
 
 ![BootMii Installation](/images/Wii/InstallBootMii.png)
@@ -64,4 +64,7 @@ Uite un sfat - când instalezi aplicații homebrew pe Cardul tău SD sau unitate
 {: .notice--info}
 
 Dacă nu ai putut instala BootMii, continuă la [instalarea Priiloader](priiloader).
+{: .notice--info}
+
+Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
 {: .notice--info}
