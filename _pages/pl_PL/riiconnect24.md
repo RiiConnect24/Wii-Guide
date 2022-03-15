@@ -93,8 +93,7 @@ Teraz będziesz musiał ustawić DNS na nasze serwery. To jest opcjonalne, ale j
 13. Przejdź do `WiiConnect24` oraz potem `WiiConnect24` oraz upewnij się, że jest włączone.
 14. Cofnij się oraz przejdź do `Standby Connection` i upewnij się, że jest włączone.
 15. W menu `Slot Illumination`, zalecamy abyś ustawił to na `Dim (ciemne)` lub `Bright (jasne`, jest to jednak opcjonalne.
-16. Na koniec, przejdź do `Internet` oraz naciśnij na `User Agreements` lub `Agreement/Contact` oraz `Yes`. Przeczytaj ten dokument. (Jeśli zobaczysz że Umowy Użytkownika są bez loga RiiConnect24, oznacza to że używanie naszego DNS nie zadziała. Możesz ustawić `Auto-Uzyskiwanie` DNS na `Na` jeśli tak się stanie. RiiConnect24 wciąż będzie działał bez tego.)
-
+16. Na koniec, przejdź do `Internet` oraz naciśnij na `User Agreements` lub `Agreement/Contact` oraz `Yes`. Przeczytaj ten dokument.
 
 [Przejdź do strony przeznaczonej instalacji Wiimmfi](wiimmfi)<br> Wiimmfi pozwala Ci na granie w gry online po zakończeniu wsparcia serwisu Nintendo Wi-Fi Connection. Jest to opcjonalny krok.
 {: .notice--info}
@@ -102,19 +101,22 @@ Teraz będziesz musiał ustawić DNS na nasze serwery. To jest opcjonalne, ale j
 [Kontynuuj do WiiLink'a](wiilink)<br> WiiLink umożliwi Ci używanie kanałów eksluzywnych do Japoni, takie jak: Wii No Ma i Digicam Print Channel. Jest to opcjonalny krok.
 {: .notice--info}
 
-Jeśli otrzymasz błąd 107245, prawdopodobnie twoje IOS nie jest poprawnie zpatchowane.
+If you get error 107245, then you have not installed the patched IOS.
 {: .notice--info}
 
-Jeśli pojawi się błąd 107304, nie możesz użyć naszego DNS. Nie wpływa to na możność używania RiiConnect24. W takim przypadku ustaw automatyczne otrzymywanie DNS na Tak.
+If you get error 107304 or you see Nintendo's User Agreement without RiiConnect24's logo, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
 {: .notice--info}
 
-Jeśli otrzymujesz błąd FORE000006, Twój zegar w Wii jest prawdopodobnie ustawiony niepoprawnie. Ustaw właściwą datę i godzinę, a następnie poczekaj nie więcej niż godzinę, a Forecast Channel powinien zacząć działać.
+Jeśli otrzymujesz błąd FORE000006, Twój zegar w Wii jest prawdopodobnie ustawiony niepoprawnie. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel may start working.
 {: .notice--warning}
 
-[Jeśli występują problemy z kanałem Pogody, kanałem Wiadomości lub Wii Mail, to podążanie za tym samouczkiem może rozwiązać problem.](deleting-vffs)
+[If you still get FORE000006 or if you get NEWS000006, you will need to delete your SYSCONF with rc24-clear-tool](https://github.com/RiiConnect24/rc24-clear-tool/releases/latest).
 {: .notice--warning}
 
-Jeżeli otrzymujesz błąd `WiiConnect24 and Wii Shop Channel are currently not being offered in your country`, wejdź do Ustawień Wii -> Ostatnia strona -> Country i zmień kraj na Wielką Brytanię [lub Polskę, jeżeli czytasz ten poradnik po Polsku]. Otrzymasz ten błąd, jeżeli korzystasz z kraju, którego nie wspieramy. Napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net) jeżeli potrzebujesz więcej pomocy.
+[If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with rc24-clear-tool.](deleting-vffs)
+{: .notice--warning}
+
+If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
 {: .notice--warning}
 
 [Przejdź do spisu stron](site-navigation)<br> Mamy wiele innych poradników, które mogą Ci się przydać.
