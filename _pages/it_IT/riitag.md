@@ -71,7 +71,7 @@ RiiTag supports Dolphin, Citra, and Cemu. You need a Discord account for this to
 
 ###### Configurable USB Loader
 
-Non offriamo supporto per Configurable USB Loader, perchè siamo concentrati su USB Loader GX e WiiFlow.
+We do not offer support for Configurable USB Loader, as it's outdated compared to USB Loader GX and WiiFlow Lite.
 {: .notice--info}
 
 Puoi usare il programma `CfgLoaderConfigurator.exe` (solo per Windows) invece di modificare il file `config.txt` menzionato sotto se vuoi.
@@ -96,7 +96,7 @@ We have a RiiTag channel you can install on your Wii. When it is launched, it wi
 5. Make sure the Internet Channel is installed.
 6. The RiiTag Channel should now be available to use on your Wii Menu.
 
-[Check out RiiTag-RPC](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br> Now that you set up RiiTag, you can set up RiiTag-RPC to show your friends what you're playing on the Wii using Discord's rich presence.
+[Check out RiiTag-RPC](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br> Now that you set up RiiTag, you can set up RiiTag-RPC to show your Discord friends what you're playing on the Wii using Discord's rich presence.
 {: .notice--info}
 
 [Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
