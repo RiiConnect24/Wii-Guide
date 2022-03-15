@@ -92,8 +92,7 @@ You will now set your DNS to our servers. This is optional but it's recommended,
 13. `WiiConnect24`로 이동해서 `WiiConnect24`로 다시 이동한 뒤 활성화 된 것을 확인하세요.
 14. WiiConnect24 메뉴로 돌아가서, `항상 연결`이 켜져있는지 확인하세요.
 15. `슬롯 밝히기`에서, 저희는 디스크 슬롯 전등을 `어둡게` 또는 `밝게`를 권장하지만, 선택입니다.
-16. 마지막으로, `인터넷` 섹션에 들어가서 `이용 약관` 또는 `약관/계약`에 들어가서, `예`를 누르세요. 전체 내용을 읽어 주세요. (If you see User Agreements without RiiConnect24's logo, that means using our DNS won't work. You can set `Auto-Obtain` DNS to `On` if that's the case. RiiConnect24 will still work without it.)
-
+16. 마지막으로, `인터넷` 섹션에 들어가서 `이용 약관` 또는 `약관/계약`에 들어가서, `예`를 누르세요. 전체 내용을 읽어 주세요.
 
 [Wiimmfi로 계속하기](wiimmfi)<br> Wiimmfi는 닌텐도 Wi-Fi 커넥션의 서비스 종료 이후로도 게임을 온라인으로 플레이 할 수 있게 합니다. 설치는 선택입니다.
 {: .notice--info}
@@ -101,16 +100,19 @@ You will now set your DNS to our servers. This is optional but it's recommended,
 [Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. 설치는 선택입니다.
 {: .notice--info}
 
-If you get error 107245, then you have failed to patch your IOS correctly.
+If you get error 107245, then you have not installed the patched IOS.
 {: .notice--info}
 
-If you get error 107304, then you cannot use our DNS. This will not affect your ability to use RiiConnect24. In this case, set Auto-obtain DNS to Yes.
+If you get error 107304 or you see Nintendo's User Agreement without RiiConnect24's logo, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
 {: .notice--info}
 
-FORE000006 오류를 받는다면, Wii의 시간이 정확하지 않을 수 있습니다. 올바른 시간으로 설정하고, 1시간 안팎으로 기다리면 Forecast Channel (대한민국 미출시) 은 작동할 겁니다.
+FORE000006 오류를 받는다면, Wii의 시간이 정확하지 않을 수 있습니다. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel may start working.
 {: .notice--warning}
 
-[If you're experiencing issues with the Forecast Channel, News Channel, or Wii Mail then following this tutorial might fix your problem.](deleting-vffs)
+[If you still get FORE000006 or if you get NEWS000006, you will need to delete your SYSCONF with rc24-clear-tool](https://github.com/RiiConnect24/rc24-clear-tool/releases/latest).
+{: .notice--warning}
+
+[If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with rc24-clear-tool.](deleting-vffs)
 {: .notice--warning}
 
 If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
