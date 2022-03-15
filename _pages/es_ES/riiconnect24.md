@@ -114,7 +114,7 @@ You will now set your DNS to our servers. This is optional but it's recommended,
 13. Ve hacia `WiiConnect24`, luego `WiiConnect24` de nuevo, y asegúrate de que esté activado.
 14. Vuelve al menú de ajustes de WiiConnect24, selecciona `Conexión (modo de espera)`, y asegúrate de que también esté activado.
 15. En `Indicador de disco`, recomendamos que ajustes la luz de la ranura de disco en `Normal` o `Intenso`, pero esto es opcional.
-16. Finalmente, ve hacia la sección `Internet`, selecciona `Acuerdos de uso` o `Documentos legales/Contacto` y elige `Sí`. Por favor lee todo el contrato. (If you see User Agreements without RiiConnect24's logo, that means using our DNS won't work. You can set `Auto-Obtain` DNS to `On` if that's the case. RiiConnect24 will still work without it.)
+16. Finalmente, ve hacia la sección `Internet`, selecciona `Acuerdos de uso` o `Documentos legales/Contacto` y elige `Sí`. Por favor lee todo el contrato.
 
 [Continuar a Wiimmfi](wiimmfi)<br> Wiimmfi te permite disfrutar de juegos en línea después del cierre de la Conexión Wi-Fi de Nintendo. Esto es opcional a instalar. 
 
@@ -124,19 +124,23 @@ You will now set your DNS to our servers. This is optional but it's recommended,
 
 {: .notice--info}
 
-If you get error 107245, then you have failed to patch your IOS correctly. 
+If you get error 107245, then you have not installed the patched IOS. 
 
 {: .notice--info}
 
-If you get error 107304, then you cannot use our DNS. This will not affect your ability to use RiiConnect24. In this case, set Auto-obtain DNS to Yes. 
+If you get error 107304 or you see Nintendo's User Agreement without RiiConnect24's logo, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program. 
 
 {: .notice--info}
 
-Si recibes el error FORE000006, el reloj de tu Wii está (probablemente) configurado incorrectamente. Establécelo a la fecha y hora correcta, espera un tiempo y el Canal Tiempo debería empezar a funcionar. 
+Si recibes el error FORE000006, el reloj de tu Wii está (probablemente) configurado incorrectamente. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel may start working. 
 
 {: .notice--warning}
 
-[If you're experiencing issues with the Forecast Channel, News Channel, or Wii Mail then following this tutorial might fix your problem.](deleting-vffs) 
+[If you still get FORE000006 or if you get NEWS000006, you will need to delete your SYSCONF with rc24-clear-tool](https://github.com/RiiConnect24/rc24-clear-tool/releases/latest). 
+
+{: .notice--warning}
+
+[If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with rc24-clear-tool.](deleting-vffs) 
 
 {: .notice--warning}
 
