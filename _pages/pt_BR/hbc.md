@@ -22,10 +22,10 @@ O Homebrew Channel é onde você irá abrir aplicativos homebrew. O BootMii é u
 4. Aperte Continue quando terminar. ![Homebrew Channel Instalado com Sucesso](/images/Wii/SuccessHBC.png)
 
 5. Depois de instalado, pressione o botão voltar e vá para o BootMii.
-6. Se a tela principal indicar que você pode instalar como boot2, então instale-o. Isto oferece a melhor proteção de brick possível que você pode ter. Ignore este passo se você não puder instalar o BootMii como boot2.
-7. Instale o BootMii como IOS, mesmo se você já instalou o BootMii boot2 na etapa anterior. Se você não pôde instalar o BootMii como boot2 na etapa anterior, isso ainda permitirá que você crie um backup da NAND.
+6. Se a tela principal indicar que você pode instalar como boot2, então instale-o. Isto oferece a melhor proteção de brick possível que você pode ter. Skip this step if the option doesn't show up, in that case your Wii is not one of the earlier models that supports it.
+7. Install BootMii as IOS, even if you already installed BootMii as boot2 in the previous step. If you couldn't install BootMii as boot2, this will still allow you to create a NAND backup.
 
-Se você não tem um cartão SD, você não pode instalar ou usar o BootMii, e, por consequência, não poderá utilizar nenhum dos benefícios referidos. Você pode instalar em qualquer momento posteriormente.
+If you do not have an SD card, you cannot install nor use BootMii, and therefore will not be able to utilize any of the mentioned benefits. Você pode instalar em qualquer momento posteriormente.
 {: .notice--warning}
 
 ![Instalação do BootMii](/images/Wii/InstallBootMii.png)
@@ -64,4 +64,7 @@ Here's a tip - when installing homebrew applications on your SD Card or USB driv
 {: .notice--info}
 
 If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
+{: .notice--info}
+
+Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
 {: .notice--info}
