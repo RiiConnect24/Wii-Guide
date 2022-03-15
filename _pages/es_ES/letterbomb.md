@@ -10,26 +10,28 @@ Si necesitas ayuda con cualquier cosa en este tutorial, por favor entras [el ser
 LetterBomb es un exploit para el Wii que se activa mediante el tablón de Wii.
 
 #### Requisitos
-- Una tarjeta SD
+- An SD card that is no more than 32GB in size
 - Una Wii con la versión del sistema 4.3
 
 #### Instrucciones
 
 
 1. En tu Wii, ve a `Configuración de Wii` -> `Internet` -> `Información de la consola` y anota la dirección MAC que ves en pantalla.
-1. Visitar [please.hackmii.com](https://please.hackmii.com), ingrese su Wii MAC y región, complete el CAPTCHA, *asegurar*
+1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, ensure `Bundle the HackMii Installer for me!` is checked, and cut either wire
    - No importa el cable que elijas cortar. ![Página de HackMii](/images/Wii/LetterBomb-PC.png)
 1. Extrae los contenidos del ZIP descargado en la ruta de tu tarjeta SD.
 1. Saca tu tarjeta SD e insertala en tu Wii.
 1. En tu Wii, regresa al Menú Wii y abre el Tablón de Wii.
 1. Selecciona la carta roja con el icono de una bomba.
-   - En algunos casos, podrías tener que buscar en los dias previos o posteriores para encontrarla.
+   - Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
+   - In various scenarios, you may need to look at the previous or next day to find it.
+   - If you don't see the red letter, you may be using an unsupported SD card that's greater than 32GB in size.
 
-Asegúrate de que la fecha en tu Wii sea correcta, de lo contrario no podrás encontrar la carta.
+
 {: .notice--warning}
 
 
-![LetterBomb en el tablón de Wii](/images/Wii/LetterBomb-Wii.png)
+![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
 
 [Continuar a la instalación del Canal Homebrew y BootMii](hbc)
 {: .notice--info}
