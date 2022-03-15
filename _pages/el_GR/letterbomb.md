@@ -10,22 +10,24 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 Το LetterBomb είναι μια ευπάθεια που χρησιμοποιούμε μέσω του Πίνακα Μηνυμάτων (Message Board) του Wii.
 
 #### Τι χρειάζεστε
-- Μια κάρτα SD
+- An SD card that is no more than 32GB in size
 - Ένα Wii με έκδοση συστήματος 4.3
 
 #### Οδηγίες
 
 
 1. Στο Wii σας, πηγαίνετε `Wii Settings` - > `Internet` -> `Console Information` και καταγράψτε την φυσική διεύθυνσή (MAC address) σας.
-1. Επισκεφθείτε την ιστοσελίδα [please.hackmii.com](https://please.hackmii.com), βάλτε την φυσική διεύθυνση (MAC) και την περιοχή του Wii σας, ολοκληρώστε το CAPTCHA, *ελέγξτε ότι το* `Bundle the HackMii Installer for me!` *είναι επιλεγμένο*, και κόψτε οποιοδήποτε καλώδιο (μεταφορικά μιλώντας)
+1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, ensure `Bundle the HackMii Installer for me!` is checked, and cut either wire
    - Δεν έχει σημασία όποιο από τα δύο επιλέξετε. ![Οθόνη HackMii](/images/Wii/LetterBomb-PC.png)
 1. Εξάγετε τα δεδομένα του ZIP που κατεβάσατε στην κάρτα SD σας.
 1. Take out your SD card and insert it in your Wii.
 1. On your Wii, return to the Wii Menu and then open the Wii Message Board.
 1. Load the red letter with a bomb icon.
+   - Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
    - In various scenarios, you may need to look at the previous or next day to find it.
+   - If you don't see the red letter, you may be using an unsupported SD card that's greater than 32GB in size.
 
-Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
+
 {: .notice--warning}
 
 
