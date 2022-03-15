@@ -22,10 +22,10 @@ Homebrew Channel on se, mihin menet käynnistääksesi homebrew-sovelluksia. Boo
 4. Paina Continue, kun valmista. ![Homebrew Channelin asentaminen onnistui](/images/Wii/SuccessHBC.png)
 
 5. Kun se on asennettu, paina back ja mene BootMii:hin.
-6. Jos päänäyttö sanoo, että voit asentaa BootMiin boot2:na, tee niin. Tämä tarjoaa sinulle parhaan mahdollisen brick suojauksen mitä on. Ohita tämä vaihe, jos et voi asentaa BootMii:tä boot2:na.
-7. Asenna BootMii IOS:ksi, vaikka olisitkin jo asentanut BootMii:n boot2:seen edellisessä vaiheessa. Jos et pystynyt asentamaan BootMii:ta boot2:ksi edellisessä vaiheessa, voit silti luoda NAND-varmuuskopion.
+6. Jos päänäyttö sanoo, että voit asentaa BootMiin boot2:na, tee niin. Tämä tarjoaa sinulle parhaan mahdollisen brick suojauksen mitä on. Skip this step if the option doesn't show up, in that case your Wii is not one of the earlier models that supports it.
+7. Install BootMii as IOS, even if you already installed BootMii as boot2 in the previous step. If you couldn't install BootMii as boot2, this will still allow you to create a NAND backup.
 
-Jos sinulla ei ole SD-korttia, et voi asentaa tai käyttää BootMiita, etkä siksi voi käyttää mitään edellä mainittuja hyötyjä. Voit aina asentaa sen myöhempänä ajankohtana.
+If you do not have an SD card, you cannot install nor use BootMii, and therefore will not be able to utilize any of the mentioned benefits. Voit aina asentaa sen myöhempänä ajankohtana.
 {: .notice--warning}
 
 ![BootMiin Asennus](/images/Wii/InstallBootMii.png)
@@ -64,4 +64,7 @@ Tässä on vihje - kun asennat homebrew-sovelluksia SD-kortille tai USB-asemalle
 {: .notice--info}
 
 Jos et voinut asentaa BootMiitä, jatka sen sijaan [Priiloaderin asennukseen](priiloader).
+{: .notice--info}
+
+Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
 {: .notice--info}
