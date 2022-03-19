@@ -7,7 +7,7 @@ title: "Sauvegarde BootMii"
 Si vous avez besoin d'aide pour quoi que ce soit concernant ce tutoriel, veuillez rejoindre [le serveur Discord RiiConnect24](https://discord.gg/rc24) (recommandé) ou [nous envoyer un e-mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![BootMii Logo](/images/bootmii.png)
+![Logo BootMii](/images/bootmii.png)
 
 Vous avez besoin d'une **carte SD** pour créer une sauvegarde de la NAND en utilisant BootMii. Si vous n'en avez pas, vous pouvez sauter cette page, bien qu'il soit fortement recommandé de faire une sauvegarde de la NAND si vous le pouvez.
 {: .notice--warning}
@@ -44,8 +44,8 @@ Si vous avez installé BootMii en tant que boot2, vous devrez lancer BootMii en 
 Pour restaurer depuis une sauvegarde de la NAND sur votre carte SD, vous pouvez suivre ces instructions en utilisant RestoreMii (l'icône avec la flèche rouge, c'est-à-dire la deuxième icône à gauche). C'est utile dans le cas improbable où vous brickez votre Wii.
 {: .notice--info}
 
-To make sure you don’t lose the files, it's recommended to copy `nand.bin` and `keys.bin` from the root of your SD card to your computer.
+Pour être sûr de ne pas perdre les fichiers, il est recommandé de copier `nand.bin` et `keys.bin` depuis la racine de votre carte SD sur votre ordinateur.
 {: .notice--info}
 
-[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii as IOS.
+[Continuer vers l'installation de Priiloader](priiloader) Priiloader ajoute un niveau de protection contre les bricks, et nous le recommandons, surtout si vous n'avez pu installer BootMii en tant qu'IOS seulement.
 {: .notice--info}
