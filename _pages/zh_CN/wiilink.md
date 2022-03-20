@@ -4,39 +4,39 @@ title: "WiiLink"
 
 {% include toc title="Table of Contents" %}
 
-WiiLink and all of its services (such as Wii no Ma) are not controlled or operated by RiiConnect24.
+WiiLink 和所有提供的服务（如 Wii no Ma）均不受 RiiConnect24 的管理与运营。
 {: .notice--warning}
 
-[WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels Wii Room and Digicam Print Channel, and in the future will let you use the Demae Channel again.
+[WiiLink](https://wiilink24.com/) 能让你使用日本独占的频道如 Wii Room 和 Digicam Print 频道，并且在遥远的未来我们会让你再次用上点外卖频道。
 
 #### 你需要的是
 
-* An SD card or USB drive
-* A Wii with an Internet connection
-* A Windows or Unix based computer
-* [WiiLink Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
+* 一张 SD卡 或 U盘
+* 一台有互联网连接的Wii
+* 基于 Windows 或 Unix 的计算机
+* [WiiLink 补丁器](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
 #### 步骤
 
-##### Optional: Wii Patcher
-The Wii Patcher will not work on Dolphin. If you are a Dolphin user, please use the other patchers.
+##### 可选: 在Wii中运行的补丁器
+Wii 补丁器将无法在Dolphin模拟器上运行。 如果你使用Dolphin模拟器，请使用其他补丁器。
 {: .notice--info}
 
-If you use the Wii Patcher, you will not need to use our other patchers.
+如果你使用 Wii 补丁器，你就不再需要使用其他补丁器了。
 {: .notice--info}
 
-1. Download the WAD based on your console. For Wii it will be `WiiLink_Patcher_Wii.wad`. For vWii it will be `WiiLink_Patcher_vWii.wad`.
-2. Place the WAD in the `WAD` folder on your SD Card/USB.
-3. Insert your SD Card/USB in your Wii
-4. Install the WAD using Wii Mod Lite or any other WAD Manager.
-5. Launch the `WiiLink Patcher` channel from the Wii Menu.
-6. Select the channel you would like to download.
-7. Select the language you would like to download.
-8. If all worked, the channels should be on your Wii Menu.
+1. 下载WAD文件。 Wii请下载 `WiiLink_Patcher_Wii.wad`. 虚拟Wii（vWii）请下载 `WiiLink_Patcher_vWii.wad`.
+2. 把WAD文件放到在SD卡/U盘的 `WAD` 文件夹中
+3. 把你的SD卡或U盘插入Wii。
+4. 使用 Wii Mod Lite 或其他WAD安装程序来安装 WAD文件
+5. 从Wii 菜单启动 `WiLink Patcher` 频道。
+6. 选择你想要下载的频道。
+7. 选择你偏好的语言。
+8. 如果一切顺利，Wii 菜单上就能看到新的频道出现了。
 
-##### Section I - Patching WADs
+##### 第一步 - 安装 WAD 文件
 
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+[如果你想要看到如何安装WAD的详细说明，点击这里！](wiimodlite)
 {: .notice--info}
 
 1. Download the required files based on your OS. On Windows, run `WiiLinkPatcher.bat`. On Unix systems, launch terminal and type sh, then drag the `WiiLinkPatcher.sh` into the terminal and press enter.
