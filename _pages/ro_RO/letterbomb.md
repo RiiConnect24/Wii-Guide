@@ -18,14 +18,17 @@ LetterBomb este un exploit pentru Wii care este declanșat folosind Wii Message 
 
 1. În Wii, du-te la `Wii Settings` -> `Internet` -> `Console Information` și notează adresa ta MAC.
 1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, ensure `Bundle the HackMii Installer for me!` is checked, and cut either wire
-   - Nu contează pe care buton îl apeși. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
+   - By default, the selected region is 4.3E (Europe), so if you are in a different region, you will have to select the correct one.
+   - Whichever wire you choose to cut doesn't matter. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
 1. Extrage conținutul arhivei ZIP descărcate în rădăcina cardului tău SD.
-1. Scoate cardul SD și introduce-l în Wii.
+1. Take out your SD card and insert it in your Wii.
+   - The SD card must be inserted in the SD card slot located in the front of the Wii. Using a USB adapter plugged into the Wii's USB port will not work.
 1. În Wii, întoarce-te la Meniul Wii și apoi deschide Wii Message Board.
 1. Deschide scrisoarea roșie cu iconița cu bomba.
    - Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
    - In various scenarios, you may need to look at the previous or next day to find it.
    - If you don't see the red letter, you may be using an unsupported SD card that's greater than 32GB in size.
+   - If your Wii freezes after clicking on the letter, you probably chose the wrong region when downloading the exploit. Redo Step 2 and select the correct region.
 
 
 {: .notice--warning}
