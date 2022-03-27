@@ -1,5 +1,5 @@
 ---
-title: "RiiConnect24 Clear Tool"
+title: "Eina de neteja RiiConnect24"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -21,7 +21,7 @@ RiiConnect24 Clear Tool is a homebrew application that can fix these specific er
 
 #### What you need
 * An SD card or USB drive
-* [RiiConnect24 Clear Tool](https://oscwii.org/library/app/RC24-Clear-Tool)
+* [Eina de neteja RiiConnect24](https://oscwii.org/library/app/RC24-Clear-Tool)
 
 #### Instruccions
 
