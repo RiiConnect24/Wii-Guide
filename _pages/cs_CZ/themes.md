@@ -33,7 +33,7 @@ Předtím, než budete pokračovat, doporučujeme [nainstalovat cIOS](cios).
 * SD karta nebo USB disk
 * Počítač běžící na Windows (nebo Mono/Wine, pokud se jedná o Mac/Linux)
 * [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
-* [ThemeMii Mod](/assets/files/New_Thememii_MOD.zip)
+* [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 
 #### Odkazy na skiny
 
