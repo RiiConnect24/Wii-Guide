@@ -4,9 +4,6 @@ title: "Installing Themes System Menu Themes on vWii"
 
 {% include toc title="목차" %}
 
-
-
-
 저희는 어떤 방법으로든 기기를 벽돌시키거나 손상시키는데에 있어 책임이 **없습니다**. 이 가이드를 정확히 따르면 문제가 없을겁니다.
 {: .notice--danger}
 
@@ -29,7 +26,7 @@ If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.ne
 * SD 카드
 * Windows가 설치된 컴퓨터 (맥이나 리눅스에서 Mono나 Wine 사용도 가능)
 * [MyMenuify](/assets/files/Mymenuify-Old-vWii.zip)
-* [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
+* [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 * [NUSD (vWii)](/assets/files/NUSDownloader-vwii.zip)
 
 
@@ -38,12 +35,11 @@ If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.ne
 Below you may find some links to themes:
 
 * [RiiConnect24 테마 페이지](https://rc24.xyz/goodies/themes/)
-
-Only themes from the Riiconnect24 Themes page have been tested on vWii. Themes from other sources may not be entirely compatible with vWii, use these at your own risk.
-{: .notice--warning}
-
 * [구글 드라이브 레포지토리](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
 * [이 GBATemp 글](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
+
+Only themes from the RiiConnect24 Themes page have been tested on vWii. Themes from other sources may not be entirely compatible with vWii, use these at your own risk.
+{: .notice--warning}
 
 계속하기 전에 상단의 경고를 읽으시기 바랍니다!
 {: .notice--warning}
