@@ -33,7 +33,7 @@ Zalecamy [instalację cIOS'a](cios) przed kontynuowaniem.
 * Karta SD lub urządzenie USB
 * Komputer z systemem operacyjnym Windows (lub możesz użyć Mono lub Wine jeżeli korzystasz z macOS/Linux'a)
 * [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
-* [ThemeMii Mod](/assets/files/New_Thememii_MOD.zip)
+* [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 
 #### Linki do motywów
 
