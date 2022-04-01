@@ -33,7 +33,7 @@ We recommend you [install cIOS](cios) before continuing.
 * SD Kart veya USB sürücü
 * Windows’u olan bir bilgisayar (ya da Mac/Linux için Mono veya Wine)
 * [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
-* [ThemeMii Mod](/assets/files/New_Thememii_MOD.zip)
+* [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 
 #### Tema Bağlantıları
 
