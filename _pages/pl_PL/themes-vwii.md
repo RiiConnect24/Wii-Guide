@@ -4,9 +4,6 @@ title: "Instalowanie motywów menu motywów na vWii"
 
 {% include toc title="Table of Contents" %}
 
-
-
-
 **NIE** odpowiadamy za zbrickowanie lub uszkodzenie Twojej konsoli w żaden sposób. Jeżeli dokładnie będziesz podążał za tym poradnikiem, nic złego się nie stanie.
 {: .notice--danger}
 
@@ -29,7 +26,7 @@ Jeśli w jakiś sposób zbrickujesz swój vWii, [postępuj zgodnie z tym poradni
 * Karta SD
 * Komputer z systemem operacyjnym Windows (lub możesz użyć Mono lub Wine jeżeli korzystasz z macOS/Linux'a)
 * [MyMenuify](/assets/files/Mymenuify-Old-vWii.zip)
-* [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
+* [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 * [NUSD (vWii)](/assets/files/NUSDownloader-vwii.zip)
 
 
@@ -38,12 +35,11 @@ Jeśli w jakiś sposób zbrickujesz swój vWii, [postępuj zgodnie z tym poradni
 Poniżej znajdziesz kilka linków do motywów:
 
 * [Strona z motywami na stronie RiiConnect24](https://rc24.xyz/goodies/themes/)
-
-Tylko motywy z strony RiiConnect24 zostały przetestowane na vWii. Motywy z innych źródeł mogą nie być całkowicie kompatybilne z vWii, używaj ich na własne ryzyko.
-{: .notice--warning}
-
 * [Repozytorium na Dysku Google](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
 * [Ten post na GBATemp](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
+
+Only themes from the RiiConnect24 Themes page have been tested on vWii. Motywy z innych źródeł mogą nie być całkowicie kompatybilne z vWii, używaj ich na własne ryzyko.
+{: .notice--warning}
 
 UPEWNIJ SIĘ, ŻE PRZECZYTASZ WSZYSTKIE OSTRZEŻENIA PRZED KONTYNUOWANIEM!
 {: .notice--warning}
@@ -52,11 +48,11 @@ UPEWNIJ SIĘ, ŻE PRZECZYTASZ WSZYSTKIE OSTRZEŻENIA PRZED KONTYNUOWANIEM!
 
 ##### Sekcja I - Znajdowanie motywu
 
-* Podczas wybierania motywu ważne jest, aby upewnić się, że Twój motyw jest kompatybilny z menu systemu vWii.
+* When choosing a theme it is important to make sure that your theme is compatible with the vWii System Menu.
 
-* Starsze motywy dla 3.X lub 2.X są **NIE** kompatybilne z vWii i mogą spowodować bricka motywu, jeśli użyty.
+* Older themes for 3.X or 2.X are **NOT** compatible with vWii and may cause a theme brick if used.
 
-* Większość jeśli nie wszystkie motywy na stronie Riiconnect24 została przetestowana na vWii i działają dobrze.
+* Most if not all of the themes on Riiconnect24's page have been tested on vWii and they work fine.
 
 ##### Sekcja II - Pobieranie plików .app
 
