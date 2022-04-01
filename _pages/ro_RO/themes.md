@@ -33,7 +33,7 @@ Recomandăm să [instalezi cIOS](cios) înainte de a continua.
 * Un card SD sau o unitate USB
 * Un calculator cu Windows instalat (sau folosind Mono sau Wine pe Mac/Linux)
 * [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
-* [ThemeMii Mod](/assets/files/New_Thememii_MOD.zip)
+* [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 
 #### Link-uri către teme de fundal
 
