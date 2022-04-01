@@ -4,9 +4,6 @@ title: "Installing Themes System Menu Themes on vWii"
 
 {% include toc title="Sisällysluettelo" %}
 
-
-
-
 **EMME** ole vastuussa, jos teet konsolistasi tiiliskiven tai vahingoitat sitä millään tavalla. Jos noudatat tätä opasta tarkasti, sinulla ei pitäisi olla ongelmia.
 {: .notice--danger}
 
@@ -29,7 +26,7 @@ If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.ne
 * SD-kortti
 * Tietokone Windowsilla (tai Mono tai Wine Mac/Linux-tietokoneella)
 * [MyMenuify](/assets/files/Mymenuify-Old-vWii.zip)
-* [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
+* [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 * [NUSD (vWii)](/assets/files/NUSDownloader-vwii.zip)
 
 
@@ -38,12 +35,11 @@ If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.ne
 Below you may find some links to themes:
 
 * [RiiConnect24:n teemasivu](https://rc24.xyz/goodies/themes/)
-
-Only themes from the Riiconnect24 Themes page have been tested on vWii. Themes from other sources may not be entirely compatible with vWii, use these at your own risk.
-{: .notice--warning}
-
 * [Google Drive -arkisto](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
 * [Tämä GBAtemp-viesti](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
+
+Only themes from the RiiConnect24 Themes page have been tested on vWii. Themes from other sources may not be entirely compatible with vWii, use these at your own risk.
+{: .notice--warning}
 
 VARMISTA, ETTÄ LUET YLLÄ OLEVAT VAROITUKSET ENNEN JATKAMISTA!
 {: .notice--warning}
