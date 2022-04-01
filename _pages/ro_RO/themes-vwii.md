@@ -4,9 +4,6 @@ title: "Instalarea Temelor de Fundal pentru System Menu pe vWii"
 
 {% include toc title="Table of Contents" %}
 
-
-
-
 Noi **NU** suntem responsabili dacă îți brick-uiești, sau îți deteriorezi consola în orice fel. Dacă urmezi acest ghid cu exactitate, nu ar trebui să ai nicio problemă.
 {: .notice--danger}
 
@@ -29,7 +26,7 @@ Dacă cumva reușești să cauzezi un brick pe vWii, [urmează acest ghid](https
 * Un card SD
 * Un calculator cu Windows instalat (sau folosind Mono sau Wine pe Mac/Linux)
 * [MyMenuify](/assets/files/Mymenuify-Old-vWii.zip)
-* [ThemeMii Mod](/assets/files/New_Thememii_MOD.rar)
+* [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 * [NUSD (vWii)](/assets/files/NUSDownloader-vwii.zip)
 
 
@@ -38,12 +35,11 @@ Dacă cumva reușești să cauzezi un brick pe vWii, [urmează acest ghid](https
 Mai jos poți găsi câteva link-uri către niște teme de fundal:
 
 * [Pagina de teme RiiConnect24](https://rc24.xyz/goodies/themes/)
-
-Doar temele de pe pagina de Teme RiiConnect24 au fost testate pe vWii. Temele din alte surse s-ar putea să nu fie complet compatibile cu vWii, folosește-le pe acestea la propriul risc.
-{: .notice--warning}
-
 * [Depozitul Google Drive](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
 * [Această postare GBAtemp](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
+
+Only themes from the RiiConnect24 Themes page have been tested on vWii. Temele din alte surse s-ar putea să nu fie complet compatibile cu vWii, folosește-le pe acestea la propriul risc.
+{: .notice--warning}
 
 ASIGURĂ-TE CĂ AI CITIT AVERTISMENTELE DE DEASUPRA ÎNAINTE SĂ CONTINUI!
 {: .notice--warning}
@@ -52,11 +48,11 @@ ASIGURĂ-TE CĂ AI CITIT AVERTISMENTELE DE DEASUPRA ÎNAINTE SĂ CONTINUI!
 
 ##### Secțiunea I - Găsirea unei teme de fundal
 
-* Când alegi o temă de fundal este important să te asiguri că tema este compatibilă cu System Menu-ul vWii.
+* When choosing a theme it is important to make sure that your theme is compatible with the vWii System Menu.
 
-* Temele vechi pentru 3.X sau 2.X **NU** sunt compatibile cu vWii și pot cauza un brick de temă dacă este folosit.
+* Older themes for 3.X or 2.X are **NOT** compatible with vWii and may cause a theme brick if used.
 
-* Majoritatea, dacă nu toate temele de pe pagina Riiconnect24 au fost testate pe vWii și funcționează bine.
+* Most if not all of the themes on Riiconnect24's page have been tested on vWii and they work fine.
 
 ##### Secțiunea II - Descărcarea fișierelor .app
 
