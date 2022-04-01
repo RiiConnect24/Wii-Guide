@@ -33,7 +33,7 @@ We recommend you [install cIOS](cios) before continuing.
 * SD карта или USB флешка/жёсткий диск
 * A computer with Windows on it (or using Mono or Wine on Mac/Linux)
 * [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
-* [ThemeMii Mod](/assets/files/New_Thememii_MOD.zip)
+* [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 
 #### Theme Links
 
