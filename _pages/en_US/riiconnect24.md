@@ -21,7 +21,7 @@ This guide is for regular Wiis only.
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
 DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
-{: .notice--warning}
+{: .notice--danger}
 
 #### What you need
 
@@ -114,11 +114,15 @@ Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi C
 WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. This is optional to install.
 {: .notice--info}
 
-If you get error 107245, then you have not installed the patched IOS.
+[Continue to site navigation](site-navigation)<br>
+We have many other tutorials that you might like.
 {: .notice--info}
 
+If you get error 107245, then you have not installed the patched IOS.
+{: .notice--warning}
+
 If you get error 107304 or you see Nintendo's User Agreement without RiiConnect24's logo, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
-{: .notice--info}
+{: .notice--warning}
 
 If you get error FORE000006, your Wii's clock is probably set incorrectly. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel may start working.
 {: .notice--warning}
@@ -131,7 +135,3 @@ If you get error FORE000006, your Wii's clock is probably set incorrectly. Set i
 
 If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
 {: .notice--warning}
-
-[Continue to site navigation](site-navigation)<br>
-We have many other tutorials that you might like.
-{: .notice--info}
