@@ -12,15 +12,16 @@ Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte s
 [RiiConnect24](https://rc24.xyz/) vám umožňuje používat ukončené online služby WiiConnect24, které zahrnují News, Forecast, Everybody Votes, Nintendo a Check Mii Out Channel, spolu s Wii Mail.
 
 {% capture notice-1 %}
-Tento tutoriál je určen pouze pro klasické Wii.
+This guide is for regular Wiis only.
 
 - Použijte [tento tutoriál](riiconnect24-vwii), pokud se chystáte zprovoznit RiiConnect24 na vWii (Wii Mode na Wii U).
-- Použijte [tento tutoriál](riiconnect24-dolphin), pokud se chystáte zprovoznit RiiConnect24 na emulátoru Dolphin.
-
-Návod k instalaci RiiConnectu24 na Wii mini neexistuje. Pokud se pokusíte zprovoznit RiiConnect24 na Wii mini, konzoli si tím bricknete.
+- Follow [this tutorial](riiconnect24-dolphin) if you'd like to install RiiConnect24 on Dolphin Emulator.
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
+
+DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
+{: .notice--danger}
 
 #### Co budete potřebovat
 
@@ -100,11 +101,14 @@ Nyní nastavíte DNS na naše servery. Je to volitelné, ale doporučuje se to, 
 [Pokračujte na WiiLink](wiilink)<br> WiiLink umožňuje používat ukončené japonské kanály, např. Wii no Ma a Digicam Print Channel. Zcela dobrovolné.
 {: .notice--info}
 
-If you get error 107245, then you have not installed the patched IOS.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 
+If you get error 107245, then you have not installed the patched IOS.
+{: .notice--warning}
+
 If you get error 107304 or you see Nintendo's User Agreement without RiiConnect24's logo, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
-{: .notice--info}
+{: .notice--warning}
 
 Pokud zjistíte chybu FORE000006, je pravděpodobně nesprávně nastaveno datum a čas vašeho Wii! Set it to the correct date and time, then wait no more than an hour and the Forecast Channel may start working.
 {: .notice--warning}
@@ -117,6 +121,3 @@ Pokud zjistíte chybu FORE000006, je pravděpodobně nesprávně nastaveno datum
 
 If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
 {: .notice--warning}
-
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
-{: .notice--info}
