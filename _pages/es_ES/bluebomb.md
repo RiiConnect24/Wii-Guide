@@ -2,7 +2,7 @@
 title: "BlueBomb"
 ---
 
-{% include toc title="Tabla de contenido" %}
+{% include toc title="Table of Contents" %}
 
 Recomendamos **encarecidamente** no utilizar **ninguna** vídeo guía para hackear tu Wii mini, ya que hay un altísimo riesgo de **brickearla**.
 {: .notice--warning}
