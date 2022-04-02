@@ -34,7 +34,7 @@ sitemap: fals
 + [BlueBomb](bluebomb)
 * [Còpia de seguretat de BootMii](bootmii)
 + [cIOS](cios)
-+ [Do's and Don'ts of Wii Modding](dosanddonts)
++ [Dos and Don'ts of Wii Modding](dosanddonts)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
 + [Homebrew Channel](hbc)
@@ -45,10 +45,11 @@ sitemap: fals
 
 **Homebrew**
 + [Creating Wii Game Shortcuts](wiigsc)
-+ [How to dump GameCube/Wii games](dump-games)
 + [How to dump Channels (WADs)](dump-wads)
++ [How to dump GameCube/Wii Games](dump-games)
 + [Installing RSSMii](rssmii)
-+ [Installing Wii Themes](themes)
++ [Installing Wii Menu Themes](themes)
++ [Installing Wii Menu Themes on vWii](themes-vwii)
 + [Performing a SysCheck](syscheck)
 + [Removing RSSMii](rssmii-remove)
 + [RiiTag](riitag)
