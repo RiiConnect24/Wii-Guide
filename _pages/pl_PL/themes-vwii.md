@@ -1,22 +1,24 @@
 ---
-title: "Instalowanie motywów menu motywów na vWii"
+title: "Installing Wii Menu Themes on vWii"
 ---
 
 {% include toc title="Table of Contents" %}
 
+Jesteś znudzony nudnym, białym wyglądem Wii Menu i chcesz zainstalować jakiś fajny motyw? Ten poradnik pomoże Ci zainstalować nowy motyw dla Twojego Wii Menu!
+
 **NIE** odpowiadamy za zbrickowanie lub uszkodzenie Twojej konsoli w żaden sposób. Jeżeli dokładnie będziesz podążał za tym poradnikiem, nic złego się nie stanie.
 {: .notice--danger}
 
-**NIE** instaluj motywów stworzonych w tym poradniku na prawdziwym Wii. Są one kompatybilne tylko z menu systemu vWii i zbrickują prawdziwe Wii.
+Do **NOT** install the themes made in this guide on an actual Wii. They are only compatible with the vWii System Menu and will brick an actual Wii.
 {: .notice--danger}
 
-Wiiloty z Wii MotionPlus nie będą działać w MyMenuify, Niestety nie ma w tej chwili nic do zrobienia w tej chwili i będziesz musiał użyć starszego pilota Wii.
+WiiMotes with Wii MotionPlus will not work on MyMenuify, unfortunately there isn't anything we can do about this at the moment and you'll have to use an older Wii remote.
 {: .notice--warning}
 
-Istnieją motywy, które nie są kompatybilne z menu vWii System i które mogą spowodować cokolwiek od glitchów graficznych po brick pełnego motywu. Zalecamy tylko używanie motywów z [rc24.xyz/goodies/themes](https://rc24.xyz/goodies/themes/), ponieważ są one kompatybilne z nowoczesnymi wersjami menu Systemowego.
+There are some themes that aren't compatible with the vWii System Menu, they may result in anything from graphical glitches to a full theme brick. We recommend only using themes from [rc24.xyz/goodies/themes](https://rc24.xyz/goodies/themes/) since these are compatible with modern versions of the System Menu.
 {: .notice--warning}
 
-Jeśli w jakiś sposób zbrickujesz swój vWii, [postępuj zgodnie z tym poradnikiem](https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329). ([Archiwum](https://web.archive.org/web/20200213194233/https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329/))
+If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329). ([Archive](https://web.archive.org/web/20200213194233/https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329/))
 {: .notice--info}
 
 #### Co będziesz potrzebował
@@ -27,42 +29,44 @@ Jeśli w jakiś sposób zbrickujesz swój vWii, [postępuj zgodnie z tym poradni
 * Komputer z systemem operacyjnym Windows (lub możesz użyć Mono lub Wine jeżeli korzystasz z macOS/Linux'a)
 * [MyMenuify](/assets/files/Mymenuify-Old-vWii.zip)
 * [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
-* [NUSD (vWii)](/assets/files/NUSDownloader-vwii.zip)
-
+* [NUS Downloader (vWii)](/assets/files/NUSDownloader-vwii.zip)
 
 #### Linki do motywów
 
-Poniżej znajdziesz kilka linków do motywów:
+Below are some links to themes.
 
-* [Strona z motywami na stronie RiiConnect24](https://rc24.xyz/goodies/themes/)
-* [Repozytorium na Dysku Google](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
-* [Ten post na GBATemp](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
+* [RiiConnect24 Themes Page](https://rc24.xyz/goodies/themes/)
+* [Google Drive Repository](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
+* [Wii Theme Team Creations v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
-Only themes from the RiiConnect24 Themes page have been tested on vWii. Motywy z innych źródeł mogą nie być całkowicie kompatybilne z vWii, używaj ich na własne ryzyko.
+Only themes from the RiiConnect24 Themes page have been tested on vWii. Themes from other sources may not be entirely compatible with vWii, use these at your own risk.
 {: .notice--warning}
 
 UPEWNIJ SIĘ, ŻE PRZECZYTASZ WSZYSTKIE OSTRZEŻENIA PRZED KONTYNUOWANIEM!
-{: .notice--warning}
+{: .notice--danger}
 
 #### Instrukcje
 
 ##### Sekcja I - Znajdowanie motywu
 
-* When choosing a theme it is important to make sure that your theme is compatible with the vWii System Menu.
+* When choosing a theme, it is important to make sure that your theme is compatible with the vWii System Menu.
 
-* Older themes for 3.X or 2.X are **NOT** compatible with vWii and may cause a theme brick if used.
+* Older themes for 3.X or 2.X are **NOT** compatible with vWii and may cause a brick if used.
 
-* Most if not all of the themes on Riiconnect24's page have been tested on vWii and they work fine.
+* Most of the themes on RiiConnect24's theme page have been tested on vWii and they are known to work.
 
 ##### Sekcja II - Pobieranie plików .app
 
-
-To zakłada, że Twój vWii jest w najnowszej wersji Menu Systemowym.
+This assumes your vWii is on the latest Wii Menu version.
 {: .notice--warning}
 
-Jest kilka sposobów na zdobycie . Plików .app dla menu vWii System w tym poradniku będziemy używać wersji vWii NUSD.
+There are a couple of ways to get the .app files for your vWii System Menu, in this guide we'll be using the vWii version of NUS Downloader.
 
-Otwórz folder i uruchom NUS Downloader. Otwórz menu w NUS Downloader i kliknij przycisk bazy danych, przejdź do systemu > Menu systemowe i wybierz wersję w zależności od regionu. Oto tabela pokazująca, która wersja koresponduje dla którego regionu.
+1. Open the folder and launch NUS Downloader.
+2. Open the menu in NUS Downloader and click the database button.
+3. Go to System > System Menu and select a version according to your region.
+
+Here's a table showing which versions correspond to which region.
 
 | Region  | Wersja vWii Menu |
 | ------- | ---------------- |
@@ -70,16 +74,13 @@ Otwórz folder i uruchom NUS Downloader. Otwórz menu w NUS Downloader i kliknij
 | USA     | v609             |
 | Europa  | v610             |
 
-Po wybraniu poprawnej wersji do pobrania zaznacz pole `Create Decrypted Contents(*.app)` i naciśnij przycisk `Start Pobieranie NUS` na górze okna.
+After selecting the correct version to download, check the box for `Create Decrypted Contents (*.app)`. Then, press the `Start NUS Download` Button on the top of the window.
 
-!\[Menu bazy danych w NUS Downloader.\](/images/Themes-vWii/NUSD-vWii_preview-database.png =538x506)
+![The database menu in NUS Downloader.](/images/Themes-vWii/NUSD-vWii_preview-database.png)
 
+![The main menu of NUS downloader without the database menu open.](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
 
-
-!\[Główne menu pobierania NUS bez otwarcia menu bazy danych.\](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png =247x474)
-
-
-Po zakończeniu pobierania wykonaj wyszukiwanie w folderze, w którym pobranie NUS jest zlokalizowane dla pliku .app w zależności od Twojego regionu.
+After the download has finished, search for .app file corresponding to your region in the folder where NUS Downloader is.
 
 | Region  | Plik.app dla twojego regionu |
 | ------- | ---------------------------- |
@@ -87,52 +88,34 @@ Po zakończeniu pobierania wykonaj wyszukiwanie w folderze, w którym pobranie N
 | USA     | 0000001f.app                 |
 | Europa  | 00000022.app                 |
 
-Jeśli nie możesz znaleść pliku .app dla twojego regionu w wyszukiwarce, jest możliwe że pobrałeś złą wersje Menu Systemu, i będziesz musiał spróbować ponownie.
+If you can't find the .app file, it's possible you have downloaded the wrong version of the Wii Menu and you'll need to try again.
 
-Po odnalezieniu pliku .app skopiuj go do katalogu głównego folderu zawierającego ThemeMii, Skopiuj również wersję do folderu motywu na karcie pamięci (wrócimy do tego później).
+After you find the .app file, copy it to the main directory of the folder containing ThemeMii. Then, copy a version of it to the theme folder in your SD card.
 
 ##### Sekcja III - Tworzenie motywu
 
-Przejdź do folderu, w którym masz wypakowany Mod ThemeMii i uruchom ThemeMii Mod.
+1. Launch ThemeMii Mod.
+2. Do not click `Download Base App`, ThemeMii does not have base .app files for vWii. If you download a base app, you must delete it in order to use the vWii .app file.
+3. In ThemeMii select `File` -> `Open` and navigate to the .mym theme you downloaded earlier.
+4. Click on `Create CSM` and select the .app file that you copied to the ThemeMii folder.
+5. Now navigate to the theme folder on your SD card and save your theme with the .csm extension.
 
-Nie klikaj `Download Base App`, ThemeMii nie posiada podstawowych plików aplikacji dla vWii. Jeśli pobierzesz podstawową aplikację, musisz ją usunąć, aby użyć pliku .app.
-{: .notice--warning}
-
-W ThemeMii wybierz `Plik > Otwórz` i przejdź do motywu .mym pobranego wcześniej. Następnie kliknij `Utwórz CSM` i wybierz plik .app, który skopiowałeś do folderu ThemeMii.
-
-Teraz przejdź do folderu motywu na karcie pamięci i zapisz swój motyw z łatwą do zapamiętania nazwą z rozszerzeniem .csm.
-
-![Obraz menu ThemeMii pozwala lepiej zrozumieć.](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
-
-
+![ThemeMii Menu](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
 
 ##### Sekcja IV - Instalowanie motywu
 
-Bezpiecznie wyjmij kartę pamięci ze swojego komputera i umieść ją w Wii U.
+1. Eject your SD card from your PC and put it into your Wii U.
+2. Start the Homebrew Channel and launch MyMenuify.
+3. Navigate to your theme folder and select the .csm file you just created.
+4. When it prompts you to install the theme say `Yes`, and wait for it to finish.
+5. When it finishes installing, MyMenuify will prompt you to either `Continue` or `Exit`, choose `Exit`.
 
-Uruchom kanał Homebrew i uruchom MyMenuify.
+If you did everything correctly, you should now have your custom theme installed on your Wii Menu.
 
-Po uruchomieniu MyMenuify przejdź do folderu motywu i wybierz plik .csm w formacie który właśnie utworzyłeś, gdy wyświetla się informacja o zainstalowanie motywu "Tak", a następnie poczekaj na jego zakończenie.
+##### Reverting to Original Theme
 
-**Nie** wyłączaj swojego systemu dopóki nie zakończy się instalacja lub zbrickujesz vWii.
-{: .notice--danger}
-
-Po zakończeniu to pokaże, że kontynuujesz lub wyjdź, wybierz wyjdź. Kiedy wyjdziesz z powrotem do kanału Homebrew naciśnij przycisk Home i wyjdź z menu Systemowego.
-
-Jeśli zrobiłeś wszystko poprawnie, powinieneś teraz mieć inny motyw w menu systemowym.
-
-##### Przywracanie motywu oryginalnego
-
-Uruchom Homebrew Channel.
-
-Następnie uruchom MyMenuify i przejdź do folderu motywu.
-
-Wybierz plik .app, który skopiowałeś na kartę pamięci na końcu sekcji 2, tak jakbyś zainstalował motyw.
-
-Kliknij przycisk zainstaluj i poczekaj aż instalacja się skończy.
-
-Po zakończeniu możesz opuścić MyMenuify.
-
-Teraz menu systemowe powinno powrócić do domyślnego motywu.
-
-
+1. Uruchom Homebrew Channel.
+2. Launch MyMenuify and navigate to your theme folder.
+3. Select the .app file you copied to the SD card at the end of section 2 as if you were installing a theme.
+4. Select Install and wait until it finishes.
+5. When it's done, you can exit MyMenuify.
