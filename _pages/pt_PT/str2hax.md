@@ -29,8 +29,8 @@ Este exploit requer que configures o teu DNS para que conectes a um server que c
 5. Seleciona a conexão atual. ![Current Connection](/images/RiiConnect24/Internet_5.png)
 6. Vai a `Change Settings`. ![Change Settings](/images/RiiConnect24/Internet_6.png)
 7. Vai a `Auto-Obtain DNS` (não o endereço IP), depois seleciona `No` e depois `Advanced Settings`. ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
-8. Escreve `97.74.103.14` como DNS primário.
-9. Escreve `173.201.71.14` como DNS secundário.
+8. Type in `18.188.135.9` as the primary DNS.
+9. Type in `18.188.135.9` as the secondary DNS.
 10. Seleciona `Confirm`, depois seleciona `Save`. ![Save DNS](/images/RiiConnect24/Internet_10.png)
 11. Seleciona `OK` para efetuar um teste de conexão. ![Connection Test](/images/RiiConnect24/Internet_11.png)
    - Se o teste de conexão foi bem sucedido, seleciona `No` para saltar o Wii System Update. ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)
