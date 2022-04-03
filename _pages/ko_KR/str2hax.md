@@ -29,8 +29,8 @@ str2hax는 Wii의 최종 사용자 라이선스 동의서를 이용해서 실행
 5. 현재 연결을 선택하세요. ![현재 연결](/images/RiiConnect24/Internet_5.png)
 6. `설정 편집`으로 이동합니다. ![설정 변경](/images/RiiConnect24/Internet_6.png)
 7. `DNS 자동 연결` (IP 주소가 아님) 으로 이동해서 `끄기`를 선택하고, `고급 설정`으로 들어갑니다. ![DNS 자동 설정](/images/RiiConnect24/Internet_7.png)
-8. 주요 DNS를 `97.74.103.14`으로 입력합니다.
-9. 보조 DNS를 `173.201.71.14`으로 입력합니다.
+8. Type in `18.188.135.9` as the primary DNS.
+9. Type in `18.188.135.9` as the secondary DNS.
 10. `결정`을 선택하고, `저장`을 선택합니다. ![DNS 저장](/images/RiiConnect24/Internet_10.png)
 11. `OK`를 눌러 연결 테스트를 합니다. ![연결 테스트](/images/RiiConnect24/Internet_11.png)
    - 연결 테스트가 성공했다면, Wii 업데이트를 `아니요`를 눌러 건너뜁니다. ![연결 테스트 성공](/images/RiiConnect24/Internet_12.png)
