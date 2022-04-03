@@ -36,8 +36,8 @@ This exploit requires you to set your DNS in order to connect to a server that c
 ![Change Settings](/images/RiiConnect24/Internet_6.png)
 7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`.
 ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
-8. Type in `97.74.103.14` as the primary DNS.
-9. Type in `173.201.71.14` as the secondary DNS.
+8. Type in `18.188.135.9` as the primary DNS.
+9. Type in `18.188.135.9` as the secondary DNS.
 10. Select `Confirm`, then select `Save`.
 ![Save DNS](/images/RiiConnect24/Internet_10.png)
 11. Select `OK` to perform a connection test.
