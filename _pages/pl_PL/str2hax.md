@@ -29,8 +29,8 @@ Ten exploit wymaga od Ciebie zmiany adresu DNS. Pozwoli Ci to połączenie z ser
 5. Wybierz twoje obecne połączenie. ![Obecne połączenie](/images/RiiConnect24/Internet_5.png)
 6. Przejdź do `Change Settings`. ![Zmień ustawienia](/images/RiiConnect24/Internet_6.png)
 7. Przejdź do `Auto-Obtain DNS` (Nie IP Address) oraz wybierz `No`, oraz kliknij na `Advanced Settings`. ![Automatycznie uzyskaj adres DNS](/images/RiiConnect24/Internet_7.png)
-8. Wpisz `97.74.103.14` jako Primary DNS.
-9. Wpisz `173.201.71.14` jako Secondary DNS.
+8. Type in `18.188.135.9` as the primary DNS.
+9. Type in `18.188.135.9` as the secondary DNS.
 10. Wybierz `Confirm`, oraz wybierz `Save`. ![Zapisz adres DNS](/images/RiiConnect24/Internet_10.png)
 11. Wybierz `OK` aby przeprowadzić test połączenia Internetowego. ![Przeprowadź test połączenia Internetowego](/images/RiiConnect24/Internet_11.png)
    - Jeżeli połączenie było pomyślne, wybierz `No` aby pominąć sprawdzenie aktualizacji systemu. ![Test połączenia Internetowego zakończony sukcesem](/images/RiiConnect24/Internet_12.png)
