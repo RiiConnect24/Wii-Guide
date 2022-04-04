@@ -2,7 +2,7 @@
 title: "Installing Wii Menu Themes on vWii"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Tabla de contenido" %}
 
 ¿Estás cansado del aburrido tema blanco del menú de Wii y te gustaría cambiarlo por uno mejor? En esta guía te explicaremos cómo instalar un tema nuevo para tu menú de Wii
 
