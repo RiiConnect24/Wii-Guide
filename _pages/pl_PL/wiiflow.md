@@ -35,7 +35,7 @@ Aby grać w gry, zalecamy użycie dysku twardego zewnętrznego na USB. Napęd p�
 W przeciwieństwie do USB Loader GX, WiiFlow może uruchamiać gry z karty SD.
 {: .notice--info}
 
-Upewnij sie, że Twoje urządzenie USB lub karta SD jest sformatowana jako FAT32 lub NTFS. Nie formatuj go do innych systemów plików takich jak extFS lub WBFS. WBFS jest starym formatem przechowywania gier Wii.
+Upewnij sie, że Twoje urządzenie USB lub karta SD jest sformatowana jako FAT32 lub NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
 #### Instrukcje
