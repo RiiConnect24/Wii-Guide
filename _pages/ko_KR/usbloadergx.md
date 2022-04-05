@@ -32,7 +32,7 @@ Wii Backup Manager, Witgui, Wii Backup Fusion으로 게임을 복사하지 않�
 게임을 플레이하기 위해선, Wii를 위한 외장하드를 권장드립니다. 플래시 드라이브도 사용할 수는 있지만, 외장하드가 더 안정적이고, 게임을 더 많이 보관할 수 있기 때문에 권장됩니다.
 {: .notice--info}
 
-USB 드라이브가 FAT32나 NTFS로 포맷되었는지 확인하세요. WBFS나 extFS와 같은 다른 형태로 포맷하지 마세요. 전자는 게임을 저장하는 오래된 방법입니다.
+USB 드라이브가 FAT32나 NTFS로 포맷되었는지 확인하세요. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
 #### 방법
