@@ -32,7 +32,7 @@ Si vous ne copiez pas de jeux à l'aide de Wii Backup Manager, Witgui, ou de Wii
 Pour jouer à des jeux, nous vous recommandons d'utiliser un disque dur externe pour votre Wii. Les clés USB devraient également être utilisables, mais les disques durs externes sont recommandés car ils sont plus fiables et peuvent stocker plus de jeux.
 {: .notice--info}
 
-Assurez-vous que votre périphérique USB est formaté en FAT32 ou NTFS. N'utilisez pas d'autres types de format comme extFS ou WBFS, ce dernier est un ancien format de stockage de jeux Wii.
+Assurez-vous que votre périphérique USB est formaté en FAT32 ou NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
 #### Instructions
