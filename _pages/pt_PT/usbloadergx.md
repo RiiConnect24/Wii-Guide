@@ -32,7 +32,7 @@ If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fus
 Para jogares os jogos, recomendamos que uses um disco externo Usb para a tua Wii. Os discos também devem ser utilizáveis, mas os discos rígidos são recomendados pois são mais confiáveis, podem armazenar mais jogos.
 {: .notice--info}
 
-Certifica-te que o teu USB drive está formatado como FAT32 ou NTFS. Não formates em outros tipos como extFS ou WBFS, o último é um formato antigo de armazenar jogos Wii.
+Certifica-te que o teu USB drive está formatado como FAT32 ou NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
 #### Instruções
