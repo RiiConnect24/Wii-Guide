@@ -27,7 +27,7 @@ Asegurate de que estas utilizando una SD sin bloqueo (lock). EL boton de bloqueo
 
 ##### Sección I - Descarga
 
-1. Download d2x cIOS Installer and extract it to your SD card or USB drive.
+1. Descarga d2x cIOS Installer y extráelo en la raíz de tu tarjeta SD o memoria USB.
 1. Inserta la tarjeta SD o unidad USB en la consola e inicia d2x cIOS Installer desde el Canal Homebrew.
 
 ##### Sección II - Instalación
@@ -60,7 +60,7 @@ Seleccione el cIOS: 65535
 ![Instala cIOS 251](/images/cios/Install251.png)
 1. Una vez configurado, presiona A dos veces para instalar, después en salir una vez que haya terminado.
 
-#### Troubleshooting
+#### Resolución de problemas
 
 {% capture bruh %}
 La mayoría de los juegos deberían funcionar con la configuración por defecto, pero algunos pueden requerir un cIOS especifico para funcionar o usar algunas opciones especificas de un juego. <br> Juegos que requieren cIOS específicos:
