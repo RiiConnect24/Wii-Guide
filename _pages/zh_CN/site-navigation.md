@@ -34,7 +34,7 @@ sitemap: false
 + [蓝牙炸弹](bluebomb)
 * [BootMii 备份](bootmii)
 + [cIOS](cios)
-+ [Dos and Don'ts of Wii Modding](dosanddonts)
++ [Wii破解的注意事项](dosanddonts)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
 + [Homebrew Channel](hbc)
