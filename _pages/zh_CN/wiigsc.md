@@ -4,7 +4,7 @@ title: "创建Wii游戏快捷方式"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+如果你需要有关本教程的任何帮助, 请加入[RiiConnect24 Discord服务器](https://discord.gg/rc24) (推荐)或 [发送电子邮件到 support@riiconnect24.net](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
 你在使用USB Loader并且想创建个可以直接从Wii菜单启动的游戏快捷方式吗？ 那么可以试试WiiGSC (Wii Game Shortcut Creator)，也被称之为Crap。
