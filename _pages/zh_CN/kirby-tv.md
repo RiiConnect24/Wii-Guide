@@ -11,8 +11,8 @@ Striim Network is a service dedicated to bringing back the channels that support
 
 #### 你需要的是
 
-* An SD card or USB drive
-* A Wii with an Internet connection
+* 一张SD卡或U盘
+* 一台连接互联网的Wii
 * 基于 Windows 或 Unix 的计算机
 * [Kirby TV Channel Patcher](https://github.com/StriimNetwork/Kirby-TV-Channel-Patcher/releases)
 
@@ -34,13 +34,13 @@ Striim Network is a service dedicated to bringing back the channels that support
 
 
 
-[继续 RiiConnect24](riiconnect24)<br> RiiConnect24允许你使用WiiConnect24已经停止运营的服务，包含新闻、天气、大家一起投票、任天堂和Mii分享广场频道，还有Wii邮箱。 你可以选择来安装。
+[继续 RiiConnect24](riiconnect24)<br> RiiConnect24允许你使用WiiConnect24已经停止运营的服务，包含新闻、天气、大家一起投票、任天堂和Mii分享广场频道，还有Wii邮箱。 这是可选项。
 {: .notice--info}
 
-[Continue to WiiLink](wiilink)<br> WiiLink allows you to use the discontinued Japanese channels, such as Wii no Ma and the Digicam Print Channel. 你可以选择来安装。
+[Continue to WiiLink](wiilink)<br> WiiLink allows you to use the discontinued Japanese channels, such as Wii no Ma and the Digicam Print Channel. 这是可选项。
 {: .notice--info}
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. 你可以选择来安装。 你可以选择来安装。
+[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. 你可以选择来安装。 这是可选项。
 {: .notice--info}
 
 [继续 网站导览](site-navigation) 我们有许多你可能喜欢的其他教程。
