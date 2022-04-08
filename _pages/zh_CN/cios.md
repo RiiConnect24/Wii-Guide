@@ -4,70 +4,70 @@ title: "cIOS"
 
 {% include toc title="Table of Contents" %}
 
-This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS. 如果你想使用USB Loader加载游戏，你就需要这个。 有一些自制软件使用cIOS会运作的更好。
+本教程将告诉您如何安装 cIOS (custom IOS)。 如果你想使用USB Loader加载游戏，你就需要这个。 有一些自制软件使用cIOS会运作的更好。
 
 ![d2x cIOS Installer](/images/cios/cIOS.png)
 
-If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
+如果你有 Wii U (vWii), 请按照 [本指南](https://wiiu.hacks.guide/#/vwii-modding) 安装cIOS。 尝试在vWii上安装任何cIOS都将不起作用。
 {: .notice--info}
 
-If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
+如果你有 Wii mini, 安装 [此cIOS](cios-mini)。 尝试在Wii mini上安装任何cIOS都将不起作用。
 {: .notice--info}
 
 #### 你需要的是
 
-* A Wii with an Internet connection
-* An SD card or USB drive
+* 一台连接互联网的Wii
+* 一张SD卡或U盘
 * [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
-Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
+如果您使用SD卡，确保锁定开关位于解锁，否则您无法在安装程序中选择正确的选项。
 {: .notice--warning}
 
 #### 步骤
 
 ##### 第一章 - 下载
 
-1. Download d2x cIOS Installer and extract it to your SD card or USB drive.
-1. Insert your SD card or USB drive into your Wii, and launch d2x cIOS Installer from the Homebrew Channel.
+1. 下载d2x cIOS Installer并将其解压到 SD 卡或 U盘。
+1. 将SD卡或U盘插入Wii，从Homebrew Channel启动d2x cIOS Installer
 
 ##### 第二章 - 安装
 
-1. 按下继续，然后按照以下设置设定：
+1. 按下继续，将选项设置为:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 57
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
-![Install cIOS 249](/images/cios/Install249.png)
-1. Once set, press A twice to install.
-1. When done installing, press A to return, and set the options to the following:
+![安装 cIOS 249](/images/cios/Install249.png)
+1. 设置完成后，按2次A安装。
+1. 安装完成后，按A返回，并将选项设置为:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 56
 Select cIOS slot: 250
 Select cIOS version: 65535
 ```
-![Install cIOS 250](/images/cios/Install250.png)
-1. Once set, press A twice to install.
-1. When done installing, press A to return, and set the options to the following:
+![安装 cIOS 250](/images/cios/Install250.png)
+1. 设置完成后，按2次A安装。
+1. 安装完成后，按A返回，并将选项设置为:
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 38
 Select cIOS slot: 251
 Select cIOS version: 65535
 ```
-![Install cIOS 251](/images/cios/Install251.png)
-1. Once set, press A twice again to install, and then exit once done.
+![安装 cIOS 251](/images/cios/Install251.png)
+1. 设置完成后，再按2次A安装，完成后退出。
 
-#### Troubleshooting
+#### 故障排除
 
 {% capture bruh %}
-Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
-* Using a keyboard in Animal Crossing: City Folk.
-* Running SpongeBob's Boating Bash.
+虽然大多数游戏都应该使用默认值，但某些游戏需要使用特定的cIOS才能运行，或使用游戏中的某些功能。<br> 示例包括:
+* 在《动物森友会: 城市大家庭》中使用键盘
+* 运行 SpongeBob's Boating Bash。
 
-A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
+可以 [**在此处**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> 找到更全面(尽管仍不完善)的列表，若要更改特定游戏的cIOS，请按以下说明操作:
 {% endcapture %}
 <div class="notice--warning">{{ bruh | markdownify }}</div>
 
@@ -75,24 +75,24 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
-1. Select the game that isn't working.
-1. Click Settings.
-1. Select `Game Load`.
-1. !!crwdP_24_Pdwrc!!Select the game that isn't working. !!crwdP_25_Pdwrc!!Click Settings. !!crwdP_26_Pdwrc!!Select `Game Load`. !!crwdP_27_Pdwrc!!Scroll down to `Game IOS`. !!crwdP_28_Pdwrc!!Enter the IOS slot to use.
-1. Enter the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work. !!crwdP_33_Pdwrc!!Press Save and try to load the game.
-1. Press ok and try to load the game.
+1. 选择无法工作的游戏。
+1. 点击设置。
+1. 选择 `Game Load`.
+1. 向下滚动到 `Game IOS`。
+1. 输入要使用的IOS。
+    - 如果249不工作，请使用250或251。
+1. 按确定并尝试打开游戏。
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
-1. Select the game that isn't working.
-1. Click the gear icon.
-1. !!crwdP_30_Pdwrc!!Select the game that isn't working. !!crwdP_31_Pdwrc!!Click the gear icon. !!crwdP_32_Pdwrc!!Go to cIOS and use the arrows to select the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work. !!crwdP_29_Pdwrc!!Press ok and try to load the game.
-1. Press Save and try to load the game.
+1. 选择无法工作的游戏。
+1. 点击齿轮图标。
+1. 转到 cIOS 并用光标选择要使用的IOS。
+    - 如果249不工作，请使用250或251。
+1. 按保存并尝试打开游戏。
 </div>
-##### Options once complete
+##### 一旦完成设置
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. 你可以选择来安装。
+[继续安装 Homebrew Browser](hbb)<br> Homebrew Browser是在Wii上获取自制软件的好地方。 这是可选项。
 {: .notice--info}
 
 [继续 网站导览](site-navigation) 我们有许多你可能喜欢的其他教程。
