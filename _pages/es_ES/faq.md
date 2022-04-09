@@ -5,20 +5,20 @@ title: "Preguntas frecuentes"
 ![Logotipo de RiiConnect24 amarillo](/images/Wii_Yellow_Gray.jpg)
 
 ### ¿Qué tan arriesgado es modificar mi consola?
-Bricks (a state where either some parts of your Wii software are not working, or your Wii is not working at all) are extremely rare unless you ignore/circumvent all safety checks, or do something risky or naive like installing an older version of the Wii Menu. Make sure you install [BootMii](bootmii) and [Priiloader](priiloader) to protect yourself from bricks!
+Los bricks (estado en el que alguna parte del software de tu Wii no funciona, o tu Wii no llega a funcionar) son poco frecuentes a menos que ignores o te saltes todas las comprobaciones de seguridad, o hagas algo arriesgado como instalar una versión más antigua del Menú de Wii. ¡Asegúrate de instalar [BootMii](bootmii) y [Priiloader](priiloader) para protegerte de los bricks!
 
 ### ¿En dónde puedo pedir asistencia?
-You can join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for assistance.
+Puedes unirte al [servidor de Discord de RiiConnect24](https://discord.gg/rc24) (recomendado) o [enviar un correo electrónico a support@riiconnect24.net](mailto:support@riiconnect24.net) para asistencia.
 
-### ¿Cuales son los requerimientos y/o recomendaciones para la tarjeta SD?
+### ¿Cuáles son los requerimientos y/o recomendaciones para la tarjeta SD?
 Necesitarás una tarjeta SD de al menos 128 MB para ejecutar un exploit.
 
-- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card.
+- Si vas a utilizar BlueBomb, str2hax o FlashHax, no necesitarás una tarjeta SD.
 
 Para almacenar aplicaciones Homebrew, recomendamos usar una tarjeta SD de por lo menos 2 GB de capacidad.
 
-### I got error code XXXXXX in Wiimmfi, how to fix it?
-In order to check what the reason for the error is, please visit the [Wiimmfi error page](https://wiimmfi.de/error).
+### He recibido el error XXXXXX en Wiimmfi, ¿cómo lo soluciono?
+Para ver cuál es la razón del error, por favor entra en la [Página de errores de Wiimmfi](https://wiimmfi.de/error).
 
 ### ¿Cuáles son las modificaciones/instalaciones que dejarían a tu vWii en un brick?
 La siguiente es una lista de acciones que pueden dejar tu vWii en un estado de **brick** (¡No intentes estas cosas!):
