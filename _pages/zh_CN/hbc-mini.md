@@ -15,7 +15,7 @@ HBC是你可以启动自制应用的地方。
 本页面**只计划**给Wii mini用户。 如果你使用的是Wii，请前往[这个教程](hbc)。
 {: .notice--info}
 
-While it is possible to install BootMii on a Wii mini, you will need to solder an SD card slot. That requires opening up your Wii mini and using special tools, so it is not recommended. That requires opening up your Wii mini and using special tools, so it is not recommended.
+虽然可以在Wii mini上安装BootMii，但您需要焊接SD卡槽。 这要求您使用特殊工具打开Wii mini，所以不推荐。
 {: .notice--info}
 
 1. 你会看见一个诈骗警告提醒。 等待30秒，直到"Press 1 to continue"出现，然后按1。 ![诈骗警告提醒](/images/Wii/ScamScreen.png)
