@@ -18,7 +18,7 @@ This tutorial is only for Windows version of WiiWare Patcher.
 
 ##### Section I - Downloading WiiWare Patcher
 
-1. Click the link above to go to the GitHub page where the patcher is.
+1. 点击上面的链接以转到修补程序所在的GitHub页面。
 2. Download `WiiWarePatcher.bat`.
 
 ##### Section II - Patching WiiWare games
