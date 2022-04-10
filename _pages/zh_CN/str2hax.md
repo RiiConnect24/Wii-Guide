@@ -22,18 +22,18 @@ str2hax is an exploit for the Wii that is triggered by loading the Wii's End Use
 
 This exploit requires you to set your DNS in order to connect to a server that contains the exploit.
 
-1. Go to `Wii Options`. ![Wii Options](/images/RiiConnect24/Internet_1.png)
-2. Go to `Wii Settings`. ![Wii Settings](/images/RiiConnect24/Internet_2.png)
-3. Go to `Page 2`, then click on `Internet`. ![Internet](/images/RiiConnect24/Internet_3.png)
-4. Go to `Connection Settings`. ![Connection Settings](/images/RiiConnect24/Internet_4.png)
+1. 转到 `Wii 选项`。 ![Wii Options](/images/RiiConnect24/Internet_1.png)
+2. 转到`Wii 设置`。 ![Wii Settings](/images/RiiConnect24/Internet_2.png)
+3. 转到`第2页`，然后点击`互联网`。 ![Internet](/images/RiiConnect24/Internet_3.png)
+4. 转到`连接设置`。 ![Connection Settings](/images/RiiConnect24/Internet_4.png)
 5. Select your current connection. ![Current Connection](/images/RiiConnect24/Internet_5.png)
-6. Go to `Change Settings`. ![Change Settings](/images/RiiConnect24/Internet_6.png)
-7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`. ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
+6. 转到`更改设置`。 ![Change Settings](/images/RiiConnect24/Internet_6.png)
+7. 转到`自动获取DNS` (不是IP地址)，然后选择`否`然后选择 `高级设置`。 ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
 8. Type in `18.188.135.9` as the primary DNS.
 9. Type in `18.188.135.9` as the secondary DNS.
-10. Select `Confirm`, then select `Save`. ![Save DNS](/images/RiiConnect24/Internet_10.png)
-11. Select `OK` to perform a connection test. ![Connection Test](/images/RiiConnect24/Internet_11.png)
-   - If the connection test was successful, select `No` to skip the Wii System Update. ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)
+10. 选择`确认`，然后选择`保存`。 ![Save DNS](/images/RiiConnect24/Internet_10.png)
+11. 选择`OK`进行连接测试。 ![Connection Test](/images/RiiConnect24/Internet_11.png)
+   - 如果连接测试成功，请选择`否`跳过Wii系统更新。 ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)
    - If it was unsuccessful, then please use [another exploit](get-started).
 
 ##### Section II - Triggering the Exploit
