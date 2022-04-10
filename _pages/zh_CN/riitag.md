@@ -7,14 +7,14 @@ title: "RiiTag on Wii"
 如果你需要有关本教程的任何帮助, 请加入[RiiConnect24 Discord服务器](https://discord.gg/rc24) (推荐)或 [发送电子邮件到 support@riiconnect24.net](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
-RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You connect it to a USB Loader, and the tag updates on-the-fly. You need a Discord account in order to start using RiiTag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You connect it to a USB Loader, and the tag updates on-the-fly. You need a Discord account in order to start using RiiTag.
+RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You connect it to a USB Loader, and the tag updates on-the-fly. You need a Discord account in order to start using RiiTag. 通过分享您的游戏标签(动态图片)，您可以向您的朋友展示您正在玩的游戏! You connect it to a USB Loader, and the tag updates on-the-fly. You need a Discord account in order to start using RiiTag.
 
 Want to install RiiTag on your Wii U? Want to install RiiTag on your Wii U? See [this guide](riitag-wiiu) on how to connect it to your Wii U Menu.
 {: .notice--info}
 
 #### 你需要的是
 
-* A computer
+* 一台电脑
 * A text editor
 * A USB Loader
 
@@ -23,13 +23,13 @@ Want to install RiiTag on your Wii U? Want to install RiiTag on your Wii U? See 
 ##### Section I - Getting Started
 
 1. [Go to the RiiTag site.](https://tag.rc24.xyz/)
-2. Click `Log In` and log in with your Discord account.
-3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Click `Authorize`. Click `Authorize`.
-4. Click `Edit Your Tag` and customize it to how you like. Click `Edit Your Tag` and customize it to how you like. You can add a background, overlay, flag, nickname, Wii Number, and manually enter in games to show on your tag (not needed if you're using a USB Loader).
-5. Click `Show Key` and make note of the key shown. This will be used later on in this guide. Click `Show Key` and make note of the key shown. This is not needed if you're using USB Loader GX, as the key will be in a downloadable file.
-6. Click `Submit` to save your changes.
+2. 点击`Log In`并使用Discord登陆。
+3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Click `Authorize`. 点击`Authorize`.
+4. 点击`Edit Your Tag`并按您喜欢的方式自定义。 Click `Edit Your Tag` and customize it to how you like. You can add a background, overlay, flag, nickname, Wii Number, and manually enter in games to show on your tag (not needed if you're using a USB Loader).
+5. 点击`Show Key` 并记下Key。 Click `Show Key` and make note of the key shown. This is not needed if you're using USB Loader GX, as the key will be in a downloadable file.
+6. 点击`Submit`保存更改。
 
-Do not share your RiiTag key with anyone! If you do, people can abuse your tag. If you do, people can abuse your tag.
+Do not share your RiiTag key with anyone! If you do, people can abuse your tag. 如果你这样做，人们可以滥用你的标签。
 {: .notice--warning}
 
 ##### Section II - Connecting Your USB Loader
