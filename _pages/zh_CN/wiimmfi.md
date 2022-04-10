@@ -28,7 +28,7 @@ If you have an older version of Priiloader or don't have it installed, follow [t
 
 #### 步骤
 1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
-2. Go to `System Menu Hacks`.
+2. 点击`System Menu Hacks`.
 3. Make sure the `Wiimmfi patch v4` hack is enabled.
 4. Save settings and exit.
 
@@ -141,8 +141,8 @@ Getting a Wi-Fi network with WEP or no security is the hardest part, because DS 
 
 1. Go in the Nintendo DS Wi-Fi settings. This can be accessed inside the game you want to play online with. This can be accessed inside the game you want to play online with.
 2. Set up a connection.
-3. Type in `164.132.44.106` as the primary DNS.
-4. Type in `1.1.1.1` as the secondary DNS (if it gives you problems, try `8.8.8.8`).
+3. 将`164.132.44.106`作为主要DNS。
+4. 将`1.1.1.1`作为次要DNS (如果有问题，试`8.8.8.8`)。
 5. Save your connection settings and perform a connection test. If it's successful, then you're ready to play. If it's successful, then you're ready to play.
 
 ### Mario Kart Wii Mods
