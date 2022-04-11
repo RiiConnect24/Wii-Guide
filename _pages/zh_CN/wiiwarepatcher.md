@@ -1,33 +1,33 @@
 ---
-title: "WiiWare Patcher"
+title: "WiiWare 修补程序"
 ---
 
 {% include toc title="Table of Contents" %}
 
-Want to patch WAD games (WiiWare) to work with Wiimmfi and you don't know how? This tutorial will explain you how WiiWare Patcher works. (This tutorial is only suitable for Windows operating system) This tutorial will explain you how WiiWare Patcher works. (This tutorial is only suitable for Windows operating system)
+想修补WAD游戏(WiiWare) 以便和Wiimmfi工作但您不知道怎么做? 此教程将告诉您WiiWare 修补程序如何工作。 (此教程仅适用Windows)
 
-![Using the WiiWare Patcher](/images/rc24_using_the_wiiware_patcher.jpg)
+![使用WiiWare 修补程序](/images/rc24_using_the_wiiware_patcher.jpg)
 
-This tutorial is only for Windows version of WiiWare Patcher.
+此教程仅适用于Windows版本的WiiWare 修补程序。
 {: .notice--info}
 
 #### 你需要的是
 
-* A Windows computer
-* [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases)
+* Windows电脑
+* [WiiWare 修补程序](https://github.com/RiiConnect24/WiiWare-Patcher/releases)
 
-##### Section I - Downloading WiiWare Patcher
+##### 第一节 - 下载WiiWare 修补程序
 
 1. 点击上面的链接以转到修补程序所在的GitHub页面。
-2. Download `WiiWarePatcher.bat`.
+2. 下载 `WiiWarePatcher.bat`.
 
-##### Section II - Patching WiiWare games
+##### 第二节 - 修补WiiWare游戏
 
-1. On Windows, run `WiiWarePatcher.bat`. ![WiiWare Patcher Main Menu](/images/WiiWare-Patcher/1.JPG)
-2. Press any key to start the patcher.
-3. Select if you want to patch your games or if you want to download and patch `Wii Speak Channel`. ![Select patching mode](/images/WiiWare-Patcher/2.JPG)
-4. If you're patching your own games, copy them (.WAD files) to the folder where `WiiWarePatcher.bat` is, press `1` and hit ENTER.
-5. The patching process will start. Be patient.  Be patient. ![Patching...](/images/WiiWare-Patcher/3.JPG)
-6. It's done! Patched WAD's are in the `wiimmfi-wads` folder. It's done! Patched WAD's are in the `wiimmfi-wads` folder. Install them using Wii Mod Lite or other WAD Manager.
+1. Windows运行`WiiWarePatcher.bat`。 ![WiiWare 修补程序主菜单](/images/WiiWare-Patcher/1.JPG)
+2. 按任意键以开始修补。
+3. 选择要修补游戏还是下载和修补`Wii Speak Channel`。 ![选择修补模式](/images/WiiWare-Patcher/2.JPG)
+4. 如果要修补游戏，将(.WAD) 复制到`WiiWarePatcher.bat`所在的文件夹，按`1`然后按Enter。
+5. 将开始修补。 请耐心等待。 ![正在修补...](/images/WiiWare-Patcher/3.JPG)
+6. 已完成! 修补过的WAD在`wiimmfi-wads`文件夹。 使用 Wii Mod Lite 或其他WAD安装程序来安装 WAD文件。
 
-[Return to Wiimmfi installation page](wiimmfi)
+[返回 Wiimmfi 安装页面](wiimmfi)
