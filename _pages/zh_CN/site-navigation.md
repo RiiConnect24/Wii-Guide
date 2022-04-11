@@ -25,10 +25,10 @@ sitemap: false
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 + [Kirby TV Channel](kirby-tv)
-+ [WiiWare Patcher](wiiwarepatcher)
++ [WiiWare 修补程序](wiiwarepatcher)
 + [删除VFF文件](deleting-vffs)
-+ [Fixing FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [修复FORE000006](riiconnect24-batteryfix)
++ [修复NEWS000006](news000006)
 
 **破解101**
 + [蓝牙炸弹](bluebomb)
@@ -45,12 +45,12 @@ sitemap: false
 
 **Homebrew 自制软件**
 + [制作Wii游戏的快捷方式](wiigsc)
-+ [How to dump Channels (WADs)](dump-wads)
-+ [How to dump GameCube/Wii Games](dump-games)
++ [如何导出频道(WAD)](dump-wads)
++ [如何导出GameCube/Wii 游戏](dump-games)
 + [安装RSSMii](rssmii)
-+ [Installing Wii Menu Themes](themes)
-+ [Installing Wii Menu Themes on vWii](themes-vwii)
-+ [Performing a SysCheck](syscheck)
++ [安装Wii菜单主题](themes)
++ [在vWii上安装Wii菜单主题](themes-vwii)
++ [进行系统检查](syscheck)
 + [卸载RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [USB Loader GX](usbloadergx)
