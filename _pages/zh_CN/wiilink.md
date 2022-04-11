@@ -39,35 +39,35 @@ Wii 补丁器将无法在Dolphin模拟器上运行。 如果你使用Dolphin模�
 [如果你想要看到如何安装WAD的详细说明，点击这里！](wiimodlite)
 {: .notice--info}
 
-1. Download the required files based on your OS. On Windows, run `WiiLinkPatcher.bat`. On Unix systems, launch terminal and type sh, then drag the `WiiLinkPatcher.sh` into the terminal and press enter.
+1. 下载适用于您的系统的文件。 Windows运行`WiiLinkPatcher.bat`。 Unix打开终端并输入sh，将`WiiLinkPatcher.sh`拖到终端按Enter。
 2. 按1选择"`Start`" 然后按`ENTER`确认选择。
-3. For this guide, choose "`Install WiiLink on your Wii`"
-4. Select your region.
-5. Connect the SD Card or USB Drive to your computer and select "`1`".
-6. 如果成功检测到您的设备，选择"`1`"。 If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
-7. Be patient...
-8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
-9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLinkPatcher.bat` to your SD Card or USB Device.
+3. 在本指南中，选择"`Install WiiLink on your Wii`"
+4. 选择您的区域。
+5. 将SD卡或U盘连接到电脑并选择"`1`"。
+6. 如果成功检测到您的设备，选择"`1`"。 如果没有，确保SD卡或U盘中有`apps`文件夹，然后再试一次。
+7. 请耐心等待...
+8. 一旦完成，您可以安全的关闭补丁器。 所有文件都应该在您的SD卡上。
+9. 如果它没有复制任何东西，将和`WiiLinkPatcher.bat`同一文件夹的 `WAD` 和 `apps` 文件夹移动到SD卡或U盘。
 10. 将SD卡或U盘插入Wii。
 11. 启动Wii上的Homebrew Channel。
 12. 启动Wii Mod Lite。
 13. 使用Wii遥控器上的十字键，移动到`WAD Manager`， 然后移动到`wad` 文件夹。
-14. If your Wii is not a Japanese region, install WiiLink24_SPD.wad before anything else. This is required so that we know your email address to send files.
-15. Highlight all other WADs with `WiiLink24` in the name, and press + to select them. 当全部被选中时，按2次A安装WAD。
-16. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+14. 如果您的Wii不是日本区域，请先安装WiiLink24_SPD。 这是必需的，以便我们向您的电子邮件地址发送文件。
+15. 选择带`WiiLink24`的WAD，按+选择。 当全部被选中时，按2次A安装WAD。
+16. 安装成功后，按HOME按钮返回Homebrew Channel。
 
-##### Section II - Adding your email to SPD
+##### 第二节 - 将电子邮件添加到SPD
 
-Adding your email to SPD will allow channels like Digicam and Demae to send files like images or links to you.
+将您的电子邮件添加到SPD以允许Digcam和Demae等频道向您发送文件、图片或链接。
 {: .notice--info}
 
-1. Launch Digicam Print Channel from your Wii's home menu.
-2. On the bottom right, press `Address settings` and then `Yes`.
-3. Click on `Email Address` within SPD and type in your email address. (make sure you **put it in correctly** or it **will not work!**)
-4. Press `OK` and then `Done`.
-5. Once you are in the SPD main menu, choose `Digicam` in the `Choose Channel` menu. After you’ve done that, it should work!
+1. 从Wii菜单启动Digicam Print Channel。
+2. 按右下角的`Address settings`，然后按`Yes`。
+3. 点击SPD中的`Email Address`并输入电子邮箱地址。 (请确保**正确输入**否则**无法工作!**)
+4. 按`OK`然后按`Done`。
+5. 一旦您位于SPD主菜单，选择 `Choose Channel`菜单里的`Digicam`。 完成后，它应该正常工作!
 
-For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
+关于PAL(欧洲Wii)<br> 请在Wii设置中将刷新率设置为60hz (480p/480i)。 你可以在`屏幕 -> 电视分辨率`里找到，如果不这样做，屏幕底部会出现粉条。
 {: .notice--info}
 
 [继续 RiiConnect24](riiconnect24)<br> RiiConnect24允许你使用WiiConnect24已经停止运营的服务，包含新闻、天气、大家一起投票、任天堂和Mii分享广场频道，还有Wii邮箱。 这是可选项。
