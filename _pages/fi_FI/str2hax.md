@@ -29,8 +29,8 @@ This exploit requires you to set your DNS in order to connect to a server that c
 5. Valitse tämänhetkinen yhteytesi. ![Current Connection](/images/RiiConnect24/Internet_5.png)
 6. Mene `Change Settings`. ![Change Settings](/images/RiiConnect24/Internet_6.png)
 7. Mene `Auto-Obtain DNS` (Ei IP Address), sitten valitse `No`, sitten `Advanced Settings`. ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
-8. Syötä `97.74.103.14` ensisijaiseksi DNS-osoitteeksi (primary DNS).
-9. Syötä `173.201.71.14` toissijaiseksi DNS-osoitteeksi (secondary DNS).
+8. Type in `18.188.135.9` as the primary DNS.
+9. Type in `18.188.135.9` as the secondary DNS.
 10. Valitse `Confirm`, sitten valitse `Save`. ![Save DNS](/images/RiiConnect24/Internet_10.png)
 11. Valitse `OK` tehdäksesi yhteystestin. ![Connection Test](/images/RiiConnect24/Internet_11.png)
    - Jos yhteystesti onnistui, valitse `No` ohittaaksesi Wii-järjestelmäpäivityksen. ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)

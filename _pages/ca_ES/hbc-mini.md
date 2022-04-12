@@ -2,9 +2,9 @@
 title: "Homebrew Channel - for Wii mini only"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Continguts" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si necessites ajuda amb qualsevol cosa relacionada amb aquesta guia, uneix-te al [servidor de Discord de RiiConnect24](https://discord.gg/rc24) (recomanat) o [envia un correu electrònic a support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: . notícia--informació}
 
 ![HBC Logo](/images/hbc.png)

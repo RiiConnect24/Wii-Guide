@@ -4,60 +4,60 @@ title: "BlueBomb"
 
 {% include toc title="Tabla de contenido" %}
 
-It is **strongly** advised against using **any** video guide for hacking your Wii mini console, as there is an extremely large chance of **bricking** it.
+Te recomendamos **encarecidamente** no utilizar **ningún** video tutorial para modificar tu consola Wii mini, pues existe un gran riesgo de que quede **brickeada**.
 {: .notice--warning}
 
-En caso de que necesites ayuda con alguna cosa relacionada con esta guía, puedes unirte al [servidor de Discord de Wii Mini Hacking](https://discord.gg/6ryxnkS) (recomendado).
+Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en el [servidor de Discord](https://discord.gg/6ryxnkS) de Wii mini Hacking. Soporte disponible solo en inglés.
 {: .notice--info}
 
 ![BlueBomb](/images/bluebomb.png)
 
-BlueBomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Although it is the only exploit that works for the Wii mini, BlueBomb can run on the original Wii as well. This exploit also enables recovery from certain bricks, such as a banner brick.
+BlueBomb es un exploit que aprovecha una falla en las librerías Bluetooth de la Wii y la Wii mini. Aunque es el único exploit que funciona en la Wii mini, BlueBomb también se puede ejecutar en la Wii original. Este exploit también te permite recuperar tu consola de ciertos tipos de brick, como un 'banner brick'.
 
-For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
+No es recomendable utilizar BlueBomb en la Wii original para instalar el Canal Homebrew y BootMii, pues existen otros exploits más fáciles de ejecutar.
 {: .notice--info}
 
 #### Sección I - Requisitos
-- Un ordenador con Linux
-  - A Virtual Machine may work, but it is not recommended due to its complexity in getting Bluetooth passthrough working. If possible, please use a LiveUSB as described below.
-  - If you have a Raspberry Pi, you can use that instead as it most likely has Linux installed already.
-  - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports.
-  - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
-    - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
-    - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
-  - You can [flash a Linux Live environment to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
-- Un adaptador Bluetooth.
-  - Un adaptador Bluetooth interno también servirá.
+- Una computadora con Linux
+  - Una máquina virtual podría funcionar, pero no es recomendable debido a la dificultad para configurar la conexión Bluetooth. De ser posible, utiliza una Live USB como se menciona más adelante.
+  - También puedes usar una Raspberry Pi, pues es muy probable que ya tenga Linux instalado.
+  - El Subsistema de Windows para Linux *no* funcionará, debido a que no tiene acceso directo al adaptador Bluetooth ni los puertos USB del equipo.
+  - Si no tienes Linux, [Ubuntu](https://ubuntu.com/download/desktop) es la opción más fácil de usar y se puede ejecutar en equipos que tengan Windows o macOS.
+    - Si tu equipo es de 32 bits, deberás descargar [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
+    - Para los equipos de 64 bits se recomienda usar la versión LTS por su estabilidad, aunque la última versión también funcionará.
+  - Puedes [crear una Live USB de Linux](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) y ejecutarlo sin necesidad de instalar nada en tu equipo.
+- Un adaptador Bluetooth
+  - Puedes usar el adaptador interno de tu equipo, en caso de que cuente con uno.
   - Si no tienes uno, asegúrate de conseguir uno que sea compatible con Linux.
-- Una unidad USB formateada como FAT32.
-  - Esta no puede ser la misma unidad flash utilizada para su Dispositivo Linux.
+- Una unidad USB formateada como FAT32
+  - Esta no puede ser la misma unidad USB que usarás para ejecutar Linux.
 
 #### Sección II - Ejecutando el exploit
-1. Descargue el instalador de HackMii del [sitio web de BootMii](https://bootmii.org/download/).
-- (Si intentas reparar un brickeo, también debe copiar la aplicación homebrew que desea usar en /apps/)
+1. Descarga el instalador HackMii del [sitio web de BootMii](https://bootmii.org/download/).
+- Si deseas recuperar tu consola de un brick, también deberás copiar la aplicación homebrew que deseas usar para repararla a `/apps/`.
 1. Extrae el archivo `boot.elf` a la raíz de tu unidad USB.
-- (Even for a Wii mini, bootmini.elf will **not** work, its purpose is entirely different and unrelated. Use boot.elf in all cases). 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright). 1. Turn on your console and navigate to the settings menu. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
-1. Inicie su distribución de Linux y asegúrese de estar conectado a Internet.
-1. Enciende tu consola y **no** conectes ningún Wiimote.
-1. Ejecute los siguientes comandos:
+- (Por favor **no** copies el archivo `bootmini.elf` aún si estás usando una Wii mini. Su propósito es completamente diferente y no está relacionado con esta guía. Usa `boot.elf` en todos los casos). 1. Conecta la unidad USB a la consola. En la Wii mini, el puerto USB se encuentra en la parte trasera. En la Wii original deberás usar el puerto inferior, o el derecho si la consola está en posición vertical. 2. Enciende la consola y ve a Opciones de Wii > Configuración de Wii. En la esquina superior derecha verás un código de cuatro caracteres como el que se muestra en la imagen de abajo. Dicho código es la versión del sistema de tu consola. Toma nota de este, pues lo necesitarás más adelante. A continuación, apaga la consola. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+1. Inicia la distribución Linux y asegúrate de estar conectado a Internet.
+1. Abre una Terminal.
+1. Ejecuta los siguientes comandos:
 ```bash
 wget https://wii.guide/assets/files/bluebomb-helper.sh
 chmod +x bluebomb-helper.sh
 ./bluebomb-helper.sh
 ```
-1. El ayudante luego descargar los archivos requeridos y le pedirá información sobre su consola.
-  - Si ha seleccionado una Wii mini, se le pedirá que proporcione su región. Esto se puede determinar mediante la última letra de la versión del menú de Wii (`U` para **USA** y `E` para modelos **PAL**).
-  - Si ha seleccionado una Wii, se le pedirá que proporcione su versión del menú de Wii (lo que determinó en el paso 4)
-1. Enciende Tu consola y ** no ** conectes ningún mando de Wii.
-1. Presione el botón Sync repetidamente hasta que el terminal tenga `got connection handle`. Esto podría requerir varios intentos, así que no se rinda.
+1. A continuación se descargarán los archivos necesarios y responderás algunas preguntas sobre tu consola.
+  - Si tu consola es una Wii mini, se te pedirá que indiques la región. Esta se determina mediante la letra al final de la versión del sistema: `U` para **USA** (América) y `E` para **PAL** (Europa).
+  - Si has seleccionado una Wii original, deberás indicar la versión del sistema.
+1. Enciende la consola y ** no ** conectes ningún Wii Remote.
+1. Presiona el botón SYNC de la consola repetidamente hasta que la Terminal muestre el mensaje `got connection handle`. En la Wii mini, este se ubica en el lado izquierdo de la consola, mientras que en la Wii original, enseguida de la ranura para tarjetas SD. Esto podría requerir múltiples intentos, por favor sé paciente.
 
-Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
+Asegúrate de que la consola se encuentre cerca de tu computadora al momento de ejecutar el exploit, preferiblemente a una distancia no mayor a un metro.
 {: .notice--info}
 
-The console should now boot to the HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
+A continuación, la consola debería de iniciar el instalador HackMii. Si todo ha salido bien, ahora puedes apagar tu computadora, si así lo deseas.
 
-[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
+[Si estás usando una Wii original, haz clic aquí para avanzar a la instalación del Canal Homebrew y BootMii.](hbc)
 {: .notice--info}
 
-[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
+[Si tu consola es una Wii mini, haz clic aquí para pasar a la instalación del Canal Homebrew.](hbc-mini)
 {: .notice--info}

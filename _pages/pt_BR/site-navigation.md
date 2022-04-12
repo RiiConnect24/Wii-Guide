@@ -41,7 +41,7 @@ Um dos recursos mais importantes do BootMii é a capacidade de fazer backup e re
  Continue para a instalação do Priiloader Priiloader adiciona um nível de proteção de tijolos, e recomendamos isso, especialmente se você só instalou bootMii como um Ios.
 {:. notice--info}](bootmii)
 + [cIOS](cios)
-+ [Do's and Don'ts of Wii Modding](dosanddonts)
++ [Dos and Don'ts of Wii Modding](dosanddonts)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
 + [Homebrew Channel](hbc)
@@ -52,10 +52,11 @@ Um dos recursos mais importantes do BootMii é a capacidade de fazer backup e re
 
 **Homebrew**
 + [Creating Wii Game Shortcuts](wiigsc)
-+ [How to dump GameCube/Wii games](dump-games)
 + [How to dump Channels (WADs)](dump-wads)
++ [How to dump GameCube/Wii Games](dump-games)
 + [Installing RSSMii](rssmii)
-+ [Installing Wii Themes](themes)
++ [Installing Wii Menu Themes](themes)
++ [Installing Wii Menu Themes on vWii](themes-vwii)
 + [Performing a SysCheck](syscheck)
 + [Removing RSSMii](rssmii-remove)
 + [RiiTag](riitag)

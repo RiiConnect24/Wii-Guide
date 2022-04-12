@@ -1,24 +1,24 @@
-#### 你需要的是
+#### 你需要
 
-* An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
+* 有至少4.7GB可用空间的SD卡或U盘(双层光盘为8.5G)。
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
 #### 步骤
 
-##### Section I - Downloading/Installing
+##### 第一节 - 下载/安装
 
-1. Extract CleanRip and put it in the `apps` folder on your SD card or USB drive.
-1. Insert your SD card into your Wii, and launch CleanRip from the Homebrew Channel.
+1. 解压 CleanRip 并将其放在SD卡或U盘的`apps`文件夹。
+1. 将SD卡插入Wii，然后从Homebrew Channel启动CleanRip。
 
-##### Section II - Ripping
+##### 第二节 - 翻录
 
-1. Select your device that you will be dumping the game to - your USB drive or SD card. ![Device type](/images/CleanRip/2.png)
-1. On this screen, it asks you if you want to download a file with game checksums so you can verify the dump created is a 1:1 copy of the disc. It's your choice whether to say `Yes` or `No` to download this file. It's your choice whether to say `Yes` or `No` to download this file. ![DAT](/images/CleanRip/3.png)
-1. Now insert the game you want to dump. ![DVD](/images/CleanRip/4.png) ![Initialising Disc](/images/CleanRip/5.png)
-1. Set it as shown on the screen below.
+1. 选择您要将游戏翻录到 - U盘或SD卡。 ![设备类型](/images/CleanRip/2.png)
+1. 在此屏幕，它会询问是否要下载带游戏校验的文件，以验证翻录是否与光盘1:1。 你可以选择 `Yes` 或 `No` 来下载此文件。 ![DAT](/images/CleanRip/3.png)
+1. 现在插入要翻录的游戏。 ![DVD](/images/CleanRip/4.png) ![初始化光盘](/images/CleanRip/5.png)
+1. 如下图所示来设置。
 
-title: "CleanRip"
+如果你想翻录 [此列表](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games)中的13个游戏之1， 请设置 `Dual Layer`为 `Yes`。
 {: .notice--info}
 
-![Settings](/images/CleanRip/6.png)
-1. CleanRip will now dump your game. CleanRip will now dump your game. It can take a while, since it will dump the full 4.7GB disc contents (9.4 for dual layer discs). ![Copying](/images/CleanRip/7.png)
+![设置](/images/CleanRip/6.png)
+1. CleanRip现在将翻录你的游戏。 这可能需要一段时间，因为它将翻录完整的4.7G光盘(双层光盘为8.5G)。 ![复制中](/images/CleanRip/7.png)

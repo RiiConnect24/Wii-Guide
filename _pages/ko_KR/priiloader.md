@@ -77,5 +77,5 @@ Priiloader로 활성화 할 수 있는 핵의 목록입니다.
 | Force Disc Games to run under IOS249    | 게임의 iOS로 디스크가 cIOS 249를 사용하게 만들기. 구워진 게임을 스스로 실행시킬 순 없지만, 구워진 디스크의 실행에는 필수입니다. (구워지지 않은 게임에서는 002 오류를 줄 수 있음) |
 
 
-[Continue to the Do's and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
+[Continue to the Dos and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
 {: .notice--info}

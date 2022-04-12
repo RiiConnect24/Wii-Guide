@@ -22,10 +22,10 @@ Homebrew Channel, homebrew uygulamalarını başlatabileceğiniz yegane yerdir. 
 4. Bittiğinde, ''Continue'' deyin. ![Homebrew Channel'ın Başarılı Olarak Yüklenmesi](/images/Wii/SuccessHBC.png)
 
 5. Yüklendiğinde, BootMii'ye dönmek için geri dönün.
-6. Eğer ana ekran BootMii'yi boot2 olarak yükleyebileceğinizi söylüyorsa, öyle yükleyin. Bu, sahip olabileceğiniz en iyi brick korumasıdır. Eğer BootMii'yi, boot2 olarak yükleyemiyorsanız bu adımı geçin.
-7. BootMii'yi, önceki adımda BootMii'yi boot2 olarak yüklemiş olsanız bile, IOS olarak yükleyin. Eğer BootMii'yi boot2 olarak yükleyemediyseniz, bu adım yine de sizin için NAND yedeklemesi alacaktır.
+6. Eğer ana ekran BootMii'yi boot2 olarak yükleyebileceğinizi söylüyorsa, öyle yükleyin. Bu, sahip olabileceğiniz en iyi brick korumasıdır. Skip this step if the option doesn't show up, in that case your Wii is not one of the earlier models that supports it.
+7. Install BootMii as IOS, even if you already installed BootMii as boot2 in the previous step. If you couldn't install BootMii as boot2, this will still allow you to create a NAND backup.
 
-Eğer SD Kartınız yoksa, BootMii'yi yükleyemez ya da kullanamazsınız. Ayrıca belirtilen faydalı içeriklere de erişemezsiniz. Ancak daha sonra istediğiniz zaman yükleyebilirsiniz.
+If you do not have an SD card, you cannot install nor use BootMii, and therefore will not be able to utilize any of the mentioned benefits. Ancak daha sonra istediğiniz zaman yükleyebilirsiniz.
 {: .notice--warning}
 
 ![BootMii Yüklemesi](/images/Wii/InstallBootMii.png)
@@ -64,4 +64,7 @@ Here's a tip - when installing homebrew applications on your SD Card or USB driv
 {: .notice--info}
 
 If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
+{: .notice--info}
+
+Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
 {: .notice--info}

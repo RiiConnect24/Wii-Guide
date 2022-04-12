@@ -1,48 +1,48 @@
 ---
-title: "Homebrew Channel and BootMii Installation"
+title: "安装Homebrew Channel和BootMii"
 ---
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+如果你需要有关本教程的任何帮助, 请加入[RiiConnect24 Discord服务器](https://discord.gg/rc24) (推荐)或 [发送电子邮件到 support@riiconnect24.net](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
 ![HBC Logo](/images/hbc.png)
 
-HBC是你可以启动自制应用的地方。 The Homebrew Channel is where you will go to launch homebrew applications. BootMii is a piece of software that can backup and restore your Wii's NAND storage, and if installed in boot2, provides brick protection.
+Homebrew Channel是您启动自制应用的地方。 BootMii可以备份和恢复Wii的NAND，如果安装在boot2，则可以提供变砖保护。
 
 #### 步骤
 
-1. 你会看见一个诈骗警告提醒。 You will see a scam warning screen. Wait 30 seconds for the text "Press 1 to continue" to appear, then press 1. ![诈骗警告提醒](/images/Wii/ScamScreen.png)
+1. 你会看见一个诈骗警告提醒。 等待30秒，当看见"Press 1 to continue"时，请按1。 ![诈骗警告提醒](/images/Wii/ScamScreen.png)
 
-2. When at the HackMii installer, you are able to install the Homebrew Channel and BootMii. ![Results](/images/Wii/Results.png)
+2. 在HackMii安装程序中，你可以安装Homebrew Channel和BootMii。 ![结果](/images/Wii/Results.png)
 
-3. Press Continue, then select the Homebrew Channel, and press install. ![安装Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
+3. 按Continue，选择Homebrew Channel，然后按Install。 ![安装Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
-4. Press Continue when finished. ![成功安装Homebrew Channel](/images/Wii/SuccessHBC.png)
+4. 完成后按Continue。 ![成功安装Homebrew Channel](/images/Wii/SuccessHBC.png)
 
-5. Once installed, press back and go to BootMii.
-6. If the main screen says you can install BootMii as boot2, do so. This offers the best possible brick protection you can have. Skip this step if you cannot install BootMii as boot2. This offers the best possible brick protection you can have. Skip this step if you cannot install BootMii as boot2.
-7. Install BootMii as IOS, even if you already installed BootMii boot2 in the previous step. Install BootMii as IOS, even if you already installed BootMii boot2 in the previous step. If you couldn't install BootMii as boot2 in the previous step, this will still allow you to create a NAND backup.
+5. 安装完成后，按back并回到BootMii。
+6. 如果屏幕告诉你可以安装BootMii到boot2，照做。 这提供最好地变砖保护。 如果未提示则跳过这一步，您的Wii不是支持它的早期型号之一。
+7. 将BootMii安装为IOS，即使您已在上一步将BootMii安装到boot2。 如果您无法将BootMii安装到boot2，它仍允许您创建NAND备份。
 
-If you do not have an SD card, you cannot install or use BootMii, and therefore will not be able utilize any of the mentioned benefits. You can always install it at a later date. You can always install it at a later date.
+如果您没有SD卡，您无法安装也不能使用BootMii，因此将无法利用上述好处。 您可以以后安装。
 {: .notice--warning}
 
-![BootMii Installation](/images/Wii/InstallBootMii.png)
+![安装BootMii](/images/Wii/InstallBootMii.png)
 
-8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
+8. 一旦完成，选择 `Continue`，然后选择`Exit`进入Homebrew Channel。
 
-#### Required Reading
+#### 必读
 
-You can now use the Homebrew Channel to launch homebrew apps. Open Shop Channel is a one-stop shop for downloading homebrew, which you will learn how to install further in this guide.
+您现在可以使用Homebrew Channel启动自制软件。 Open Shop Channel是下载自制软件的一站式商店，您将在本指南中学习如何进一步安装。
 
-Here's a tip - when installing homebrew applications on your SD Card or USB drive, your folder structure should look like this:
+这是一个提示 - 在您的SD卡或U盘上安装自制软件时，您的文件夹结构看起来像这样:
 
-💾 sd or usb:
+💾 Sd卡或U盘:
 
 ┣ 📂 apps
 
-┃ ┣ 📂 AppName1
+┃ ┣ 📂 应用名称1
 
 ┃ ┃ ┣ 📄 boot.dol / boot.elf
 
@@ -50,7 +50,7 @@ Here's a tip - when installing homebrew applications on your SD Card or USB driv
 
 ┃ ┃ ┗ 📄 meta.xml
 
-┃ ┗ 📂AppName2
+┃ ┗ 📂应用名称2
 
 ┃ ┃ ┣ 📄 boot.dol / boot.elf
 
@@ -58,10 +58,13 @@ Here's a tip - when installing homebrew applications on your SD Card or USB driv
 
 ┃ ┃ ┗ 📄 meta.xml
 
-`AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
+`应用名称1` 和 `应用名称2` 是占位符名称。 不要在`apps`文件夹里嵌套多个 `apps` 文件夹。
 
-[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
+[使用BootMii制作NAND备份](bootmii)<br> 强烈建议使用BootMii制作NAND备份。
 {: .notice--info}
 
-If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
+如果您无法安装BootMii，继续[安装Priiloader](priiloader)。
+{: .notice--info}
+
+提示: 如果您的光驱闪烁非常短，您可以通过是否仅在按下POWER按钮时光驱立刻闪光判断BootMii是否安装到boot2。
 {: .notice--info}

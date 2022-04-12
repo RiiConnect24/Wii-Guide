@@ -29,8 +29,8 @@ Acest exploit necesită să-ți setezi DNS-ul pentru a te conecta la un server c
 5. Selectează-ți conexiunea actuală. ![Current Connection](/images/RiiConnect24/Internet_5.png)
 6. Du-te la `Change Settings`. ![Change Settings](/images/RiiConnect24/Internet_6.png)
 7. Du-te la `Auto-Obtain DNS` (Nu IP Address), apoi alege `No`, apoi `Advanced Settings`. ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
-8. Scrie `97.74.103.14` ca DNS-ul primar.
-9. Scrie `173.201.71.14` ca DNS-ul secundar.
+8. Type in `18.188.135.9` as the primary DNS.
+9. Type in `18.188.135.9` as the secondary DNS.
 10. Selectează `Confirm`, apoi alege `Save`. ![Save DNS](/images/RiiConnect24/Internet_10.png)
 11. Apasă `OK` pentru a efectua un test de conexiune. ![Connection Test](/images/RiiConnect24/Internet_11.png)
    - Dacă testul de conexiune a reușit, alege `No` pentru a sări peste Actualizarea de Sistem Wii. ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)

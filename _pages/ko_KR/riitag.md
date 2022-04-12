@@ -71,7 +71,7 @@ RiiTag는 돌핀, 시트라, Cemu를 지원합니다. 사용하기 위해선 Dis
 
 ###### Configurable USB Loader
 
-저희는 USB 로더 GX와 WiiFlow에 집중하기 위해 Configurable USB Loader는 지원하지 않습니다.
+We do not offer support for Configurable USB Loader, as it's outdated compared to USB Loader GX and WiiFlow Lite.
 {: .notice--info}
 
 원하는 경우 `CfgLoaderConfigurator.exe` 프로그램 (Windows 전용) 을 통해 아래의 `config.txt` 수정을 대신할 수 있습니다.
@@ -96,7 +96,7 @@ Wii에 설치할 수 있는 RiiTag 채널이 있습니다. 실행되면, Interne
 5. Internet Channel (대한민국 미출시)이 설치되었는지 확인하세요.
 6. RiiTag 채널은 이제 Wii 메뉴에서 사용할 수 있습니다.
 
-[RiiTag-RPC 확인하기](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br> 이제 RiiTag를 설정했다면, Discord의 Rich Presence를 이용하는 RiiTag-RPC로 친구에게 무얼 플레이하고 있는지 보여줄 수 있습니다.
+[Check out RiiTag-RPC](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br> Now that you set up RiiTag, you can set up RiiTag-RPC to show your Discord friends what you're playing on the Wii using Discord's rich presence.
 {: .notice--info}
 
 [사이트 네비게이션으로 계속하기](site-navigation)<br>당신이 좋아할만한 많은 튜토리얼이 있습니다.

@@ -22,10 +22,10 @@ title: "홈브루 채널과 BootMii 설치"
 4. 완료되면 Continue를 누르세요. ![홈브루 채널 설치 성공](/images/Wii/SuccessHBC.png)
 
 5. 설치되면 이전을 누르고 BootMii로 이동하세요.
-6. 만약 메인 화면이 boot2에 BootMii를 설치할 수 있다 하면, 하세요. 당신이 가질 수 있는 최고의 벽돌 보호를 얻는 기회입니다. BootMii를 boot2에 설치할 수 없으면, 건너뛰세요.
-7. Boot2로 설치하셨더라도 BootMii를 IOS로 설치하세요. 이전 단계에서 BootMii를 boot2에 설치할 수 없었다면, NAND 백업은 여전히 지원됩니다.
+6. 만약 메인 화면이 boot2에 BootMii를 설치할 수 있다 하면, 하세요. 당신이 가질 수 있는 최고의 벽돌 보호를 얻는 기회입니다. Skip this step if the option doesn't show up, in that case your Wii is not one of the earlier models that supports it.
+7. Install BootMii as IOS, even if you already installed BootMii as boot2 in the previous step. If you couldn't install BootMii as boot2, this will still allow you to create a NAND backup.
 
-SD 카드가 없다면, BootMii를 설치하거나 사용할 수 없고, 그에 따라 위에 있는 어떠한 이점도 사용할 수 없습니다. 나중에 언제든지 설치가 가능합니다.
+If you do not have an SD card, you cannot install nor use BootMii, and therefore will not be able to utilize any of the mentioned benefits. 나중에 언제든지 설치가 가능합니다.
 {: .notice--warning}
 
 ![BootMii 설치](/images/Wii/InstallBootMii.png)
@@ -64,4 +64,7 @@ Here's a tip - when installing homebrew applications on your SD Card or USB driv
 {: .notice--info}
 
 If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
+{: .notice--info}
+
+Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
 {: .notice--info}

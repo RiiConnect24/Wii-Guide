@@ -35,7 +35,7 @@ Para jogares os jogos, recomendamos que uses um disco externo Usb para a tua Wii
 Unlike USB Loader GX, WiiFlow can load games of an SD card.
 {: .notice--info}
 
-Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Não formates em outros tipos como extFS ou WBFS, o último é um formato antigo de armazenar jogos Wii.
+Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
 #### Instruções

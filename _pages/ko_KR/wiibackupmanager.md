@@ -20,7 +20,7 @@ macOS를 사용한다면 [Witgui](https://desairem.com/wordpress/category/witgui
 게임을 플레이하기 위해선, Wii를 위한 USB 외장하드를 권장드립니다. 이 가이드에서는 "USB 드라이브"로 설명드리겠습니다. 시장에서 찾을 수 있는 대부분의 제품은 USB 2 하위 호환 기능이 있는 경우 잘 작동합니다. 1TB 이상의 용량의 드라이브도 작동합니다. 플래시 드라이브도 작동하나, 플래시 드라이브의 용량으로 인해 많은 게임을 담을 수 없을겁니다.
 {: .notice--info}
 
-USB 드라이브가 FAT32나 NTFS로 포맷되었는지 확인하세요. WBFS나 extFS와 같은 다른 형태로 포맷하지 마세요. 전자는 게임을 저장하는 오래된 방법입니다.
+USB 드라이브가 FAT32나 NTFS로 포맷되었는지 확인하세요. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
 #### 방법

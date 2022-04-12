@@ -22,10 +22,10 @@ La chaîne homebrew permet de lancer des applications homebrew. BootMii est un l
 4. Appuyez sur Continue une fois l'installation terminée. ![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
 
 5. Quand installé, appuyez sur "back" et allez vers Bootmii.
-6. Si l’écran vous dit que vous pouvez installer BootMii en tant que boot2, faites-le. Cela offre la meilleur protection possible contre le brick. Ignorez cette étape si vous ne pouvez pas installer BootMii en tant que boot2.
-7. Installez BootMii en tant qu'IOS, même si vous avez déjà installé BootMii boot2 à l'étape précédente. Si vous n'avez pas pu installer BootMii en tant que boot2 à l'étape précédente, cela vous permettra quand même de créer une backup de la NAND.
+6. Si l’écran vous dit que vous pouvez installer BootMii en tant que boot2, faites-le. Cela offre la meilleur protection possible contre le brick. Skip this step if the option doesn't show up, in that case your Wii is not one of the earlier models that supports it.
+7. Install BootMii as IOS, even if you already installed BootMii as boot2 in the previous step. If you couldn't install BootMii as boot2, this will still allow you to create a NAND backup.
 
-Si vous n'avez pas de carte SD, vous ne pouvez pas installer ou utiliser BootMii, et par conséquent vous ne profiterez d'aucun des bénéfices mentionnés. Vous pourrez toujours l'installer plus tard.
+If you do not have an SD card, you cannot install nor use BootMii, and therefore will not be able to utilize any of the mentioned benefits. Vous pourrez toujours l'installer plus tard.
 {: .notice--warning}
 
 ![BootMii Installation](/images/Wii/InstallBootMii.png)
@@ -64,4 +64,7 @@ Voici une astuce - quand entrain d'installer des applications homebrew sur votre
 {: .notice--info}
 
 Si vous ne pouvez pas installer BootMii, continuez a [installer Priiloader](priiloader).
+{: .notice--info}
+
+Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
 {: .notice--info}

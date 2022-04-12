@@ -20,7 +20,7 @@ Doporučujeme vám kopírovat hry pomocí [Witgui](https://desairem.com/wordpres
 Chcete-li hrát na Wiičku více her, doporučujeme použít externí USB pevný disk. V této příručce dále jako "USB disk". Většina z těch, které najdete na trhu, by měla bez problémů fungovat, pokud mají USB 2 zpětnou kompatibilitu. Jednotky s 1 TB a více budou fungovat. Flashdisk bude fungovat také, ale vzhledem k nižší kapacitě nepojme tolik her.
 {: .notice--info}
 
-Ujistěte se, že je váš USB disk formátován jako FAT32 nebo NTFS. Neformátujte jej jako jiné typy, např. extFS nebo WBFS, WBFS je zastaralý formát ukládání Wii her.
+Ujistěte se, že je váš USB disk formátován jako FAT32 nebo NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
 #### Pokyny

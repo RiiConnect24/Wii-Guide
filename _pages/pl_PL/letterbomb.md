@@ -10,22 +10,27 @@ Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz d
 LetterBomb jest exploitem przeznaczonym dla Wii, który wykorzystuję dziurę w zabezpieczeniu Wii Message Board.
 
 #### Będziesz potrzebował:
-- Karta SD
+- An SD card that is no more than 32GB in size
 - Konsola Nintendo Wii z wersją systemu operacyjnego 4.3.
 
 #### Instrukcje
 
 
 1. W Twoim Wii, przejdź do `ustawień Wii` -&#062 `Internet` -&#062 `Console Information` oraz zapisz Twój adres MAC konsoli.
-1. Odwiedź [please.hackmii.com](https://please.hackmii.com), wpisz twój adres MAC konsoli oraz region Twojej konsoli, ukończ CAPTCHA oraz *upewnij się, że `Bundle the HackMii Installer` jest zaznaczone.* oraz naciśnij `cut the XXX wire`
-   - Nie ma znaczenie czy wybierzesz `cut the blue wire` lub `cut the red wire`.![Ekran HackMii](/images/Wii/LetterBomb-PC.png)
+1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, ensure `Bundle the HackMii Installer for me!` is checked, and cut either wire
+   - By default, the selected region is 4.3E (Europe), so if you are in a different region, you will have to select the correct one.
+   - Whichever wire you choose to cut doesn't matter. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
 1. Wypakuj pliki z pobranego pliku ZIP na Twoją kartę SD.
-1. Wyciągnij kartę SD i włóż ją do Wii.
+1. Take out your SD card and insert it in your Wii.
+   - The SD card must be inserted in the SD card slot located in the front of the Wii. Using a USB adapter plugged into the Wii's USB port will not work.
 1. Wróć do menu głównego Wii oraz otwórz Wii Message Board.
 1. Naciśnij na czerwoną kopertę z ikoną bomby.
-   - W różnych przypadkach, będziesz musiał czasami spojrzeć na dzień poprzedni lub następny aby znaleźć kopertę.
+   - Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
+   - In various scenarios, you may need to look at the previous or next day to find it.
+   - If you don't see the red letter, you may be using an unsupported SD card that's greater than 32GB in size.
+   - If your Wii freezes after clicking on the letter, you probably chose the wrong region when downloading the exploit. Redo Step 2 and select the correct region.
 
-Upewnij się, że data na Wii jest prawidłowa, w przeciwnym razie nie będziesz w stanie znaleźć czerwonej koperty.
+
 {: .notice--warning}
 
 

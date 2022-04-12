@@ -26,11 +26,11 @@ title: "Резервная копия BootMii"
 1. Запустите Homebrew Channel.
 2. Нажмите кнопку HOME, затем выберите "Launch BootMii".
 
-    Управление BootMii невозможно с помощью контроллера Wii Remote. Вы должны использовать кнопки POWER и RESET на консоли, или контроллер GameCube, воткнутый в 1-ый порт. Для переключения между опциями нажмите POWER на вашей Wii (или вправо на крестовине контроллера GameCube). Чтобы выбрать опцию, нажмите RESET на вашей Wii или A на вашем контроллере GameCube.
+    Управление BootMii невозможно с помощью контроллера Wii Remote. Вы должны использовать кнопки POWER и RESET на консоли, или контроллер GameCube, воткнутый в 1-ый порт. Для переключения между опциями нажмите POWER на вашей Wii (или вправо на крестовине контроллера GameCube). To select an option, press RESET on your Wii or A on your GameCube controller.
     {: .notice--info}
 
 
-    Если экран остаётся чёрным и разъём для диска мигает синим индикатором, значит на вашей SD-карте отсутствуют файлы BootMii. Скачайте [этот zip-архив](https://static.hackmii.com/bootmii_sd_files.zip) и извлеките его в корень вашей SD-карты, затем повторите попытку.
+    Если экран остаётся чёрным и разъём для диска мигает синим индикатором, значит на вашей SD-карте отсутствуют файлы BootMii. Download [this zip file](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
     {: .notice--warning}
 
 3. Select the Options button (the icon with the gears).
@@ -44,8 +44,8 @@ title: "Резервная копия BootMii"
 To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). Это полезно в том случае если вы превратите свою Wii в "кирпич".
 {: .notice--info}
 
-To make sure you don’t lose the files, it's recommended to `nand.bin` and `keys.bin` from the root of your SD card to your computer.
+To make sure you don’t lose the files, it's recommended to copy `nand.bin` and `keys.bin` from the root of your SD card to your computer.
 {: .notice--info}
 
-[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii IOS.
+[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii as IOS.
 {: .notice--info}

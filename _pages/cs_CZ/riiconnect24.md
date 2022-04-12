@@ -12,15 +12,16 @@ Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte s
 [RiiConnect24](https://rc24.xyz/) vám umožňuje používat ukončené online služby WiiConnect24, které zahrnují News, Forecast, Everybody Votes, Nintendo a Check Mii Out Channel, spolu s Wii Mail.
 
 {% capture notice-1 %}
-Tento tutoriál je určen pouze pro klasické Wii.
+This guide is for regular Wiis only.
 
 - Použijte [tento tutoriál](riiconnect24-vwii), pokud se chystáte zprovoznit RiiConnect24 na vWii (Wii Mode na Wii U).
-- Použijte [tento tutoriál](riiconnect24-dolphin), pokud se chystáte zprovoznit RiiConnect24 na emulátoru Dolphin.
-
-Návod k instalaci RiiConnectu24 na Wii mini neexistuje. Pokud se pokusíte zprovoznit RiiConnect24 na Wii mini, konzoli si tím bricknete.
+- Follow [this tutorial](riiconnect24-dolphin) if you'd like to install RiiConnect24 on Dolphin Emulator.
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
+
+DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
+{: .notice--danger}
 
 #### Co budete potřebovat
 
@@ -92,8 +93,7 @@ Nyní nastavíte DNS na naše servery. Je to volitelné, ale doporučuje se to, 
 13. Přejděte do `WiiConnect24`, poté opět do `WiiConnect24`, abyste se ujistili, že je zapnuté.
 14. Zpět v nabídce WiiConnect24 přejděte na `Standby Connection` a ujistěte se, že je povoleno.
 15. V položce `Slot Illumination` (notifikace blikajícím slotem) doporučujeme mít nastaveno buď `Dim` (temnější) nebo `Bright` (jasné), ale to je volitelné.
-16. Nakonec přejděte do položky `Internet`, poté `User Agreements` nebo `Agreement/Contact`, poté zvolte `Yes`. Prosím pročtěte si podmínky. (Pokud uvidíte User Agreements bez loga RiiConnect24, znamená to, že použití našeho DNS nefungovalo. Pokud je tomu tak, můžete nastavit `Auto-Obtain DNS` na `On`. RiiConnect24 bude fungovat i bez toho.)
-
+16. Nakonec přejděte do položky `Internet`, poté `User Agreements` nebo `Agreement/Contact`, poté zvolte `Yes`. Prosím pročtěte si podmínky.
 
 [Pokračujte na Wiimmfi](wiimmfi)<br> Wiimmfi vám umožní hrát hry online, a to i po vypnutí Nintendo Wi-Fi Connection. Zcela dobrovolné.
 {: .notice--info}
@@ -101,20 +101,23 @@ Nyní nastavíte DNS na naše servery. Je to volitelné, ale doporučuje se to, 
 [Pokračujte na WiiLink](wiilink)<br> WiiLink umožňuje používat ukončené japonské kanály, např. Wii no Ma a Digicam Print Channel. Zcela dobrovolné.
 {: .notice--info}
 
-Pokud dostanete chybu 107245, nepodařilo se vám správně patchnout IOS.
-{: .notice--info}
-
-Pokud dostanete chybu 107304, nemůžete použít naše DNS. Nezabrání vám to v používání RiiConnectu24. V tomto případě nastavte Auto-Obtain DNS na Yes.
-{: .notice--info}
-
-Pokud zjistíte chybu FORE000006, je pravděpodobně nesprávně nastaveno datum a čas vašeho Wii! Nastavte správné datum a čas, pak počkejte ne déle než hodinu a Forecast Channel by měl začít fungovat.
-{: .notice--warning}
-
-[Pokud máte problém s kanály Forecast Channel, News Channel nebo Wii Mailem, postupujte podle tohoto návodu, který může problém vyřešit.](deleting-vffs)
-{: .notice--warning}
-
-Pokud dostáváte chyby jako např. `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, přejděte do Wii Settings -> poslední stránka -> Country a změňte na United Kingdom. Tato chyba se vám ukáže, pokud máte nastaveno na zemi, kterou nepodporujeme. Pokud potřebujete pomoci, kontaktujte nás na [support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: .notice--warning}
-
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
+
+If you get error 107245, then you have not installed the patched IOS.
+{: .notice--warning}
+
+If you get error 107304 or you see Nintendo's User Agreement without RiiConnect24's logo, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
+{: .notice--warning}
+
+Pokud zjistíte chybu FORE000006, je pravděpodobně nesprávně nastaveno datum a čas vašeho Wii! Set it to the correct date and time, then wait no more than an hour and the Forecast Channel may start working.
+{: .notice--warning}
+
+[If you still get FORE000006 or if you get NEWS000006, you will need to delete your SYSCONF with rc24-clear-tool](https://github.com/RiiConnect24/rc24-clear-tool/releases/latest).
+{: .notice--warning}
+
+[If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with rc24-clear-tool.](deleting-vffs)
+{: .notice--warning}
+
+If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
+{: .notice--warning}

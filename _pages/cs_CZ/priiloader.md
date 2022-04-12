@@ -77,5 +77,5 @@ Toto je výčet všech hacku a vylepšení, které může s pomocí Priiloaderu 
 | Force Disc Games to run under IOS249    | Donutí disky, aby se spouštěly pod cIOSem 249. To samo o sobě neumožní spouštění vypálených disků, ale je to pro jejich spouštění potřeba. (Může vyhodit kód chyby Error 002 u nevypálené hry) |
 
 
-[Continue to the Do's and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
+[Continue to the Dos and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
 {: .notice--info}

@@ -22,10 +22,10 @@ Homebrew Channel jest miejscem, w którym możesz uruchamiać programy homebrew.
 4. Po ukończeniu, naciśnij na "Continue". ![Sukces podczas instalacji Homebrew Channel](/images/Wii/SuccessHBC.png)
 
 5. Po zainstalowaniu, naciśnij "Back" oraz przejdź do "BootMii".
-6. Jeżeli na ekranie wyświetli się informacja o możliwości zainstalowania jako boot2, zrób to. Oferuje to najlepszą możliwą ochronę przed brickiem. Pomiń ten krok, jeśli nie możesz zainstalować BootMii jako boot2.
-7. Zainstaluj BootMii jako IOS, nawet jeśli już zainstalowałeś BootMii jako boot2 w poprzednim kroku. Jeśli nie mogłeś zainstalować BootMii jako boot2 w poprzednim kroku, pozwoli Ci to stworzyć kopię zapasową pamięci NAND.
+6. Jeżeli na ekranie wyświetli się informacja o możliwości zainstalowania jako boot2, zrób to. Oferuje to najlepszą możliwą ochronę przed brickiem. Skip this step if the option doesn't show up, in that case your Wii is not one of the earlier models that supports it.
+7. Install BootMii as IOS, even if you already installed BootMii as boot2 in the previous step. If you couldn't install BootMii as boot2, this will still allow you to create a NAND backup.
 
-Jeśli nie masz karty SD, nie możesz zainstalować ani używać BootMii, i w związku z tym nie będzie w stanie wykorzystać żadnej z wyżej wymienionych korzyści. Zawsze możesz zainstalować go kiedy indziej.
+If you do not have an SD card, you cannot install nor use BootMii, and therefore will not be able to utilize any of the mentioned benefits. Zawsze możesz zainstalować go kiedy indziej.
 {: .notice--warning}
 
 ![Instalacja BootMii](/images/Wii/InstallBootMii.png)
@@ -64,4 +64,7 @@ Taka wskazówka - kiedy instalujesz aplikacje Homebrew na twojej karcie pamięci
 {: .notice--info}
 
 Jeśli nie mogłeś zainstalować BootMii, to kontynuuj [instalowanie priiloader](priiloader).
+{: .notice--info}
+
+Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
 {: .notice--info}
