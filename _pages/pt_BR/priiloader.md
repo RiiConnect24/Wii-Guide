@@ -21,7 +21,7 @@ O Priiloader adiciona um nível de proteção contra brick ao seu Wii. Ele carre
 #### Instruções
 ##### Parte I - Baixar/Instalar
 
-1. Download the Priiloader installer and extract it to your SD card or USB drive.
+1. Baixe o instalador Priiloader e extraia-o para a pasta “apps” do seu cartão SD ou unidade USB.
     * Se a pasta não existir, crie-a.
 
 ##### Seção II - Instalando o Priiloader
@@ -40,16 +40,16 @@ O Priiloader adiciona um nível de proteção contra brick ao seu Wii. Ele carre
 2. Você deve ver o menu Priiloader. ![Menu](/images/Priiloader/mainmenu.png)
 3. Vá para `System Menu Hacks`.
 
-If you are using a USB drive to install Priiloader, make sure you do not have an SD card inserted at the same time. This will cause Priiloader to be unable to find the hacks_hash.ini file.
+Se você estiver usando uma unidade USB para instalar o Priiloader, certifique-se que você não tem um cartão SD inserido no seu Wii ao mesmo tempo. Isso fará com que o Priiloader não consiga encontrar o arquivo "hacks_hash.ini".
 {: .notice--info}
 
-4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
-1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
-1. Scroll to `Homebrew Channel` and press A to launch it.
+4. Nós recomendamos que você ative as seguintes opções: `Region Free EVERYTHING`, `Block Disc Updates` e `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
+1. Desça até achar `save settings` e pressione A, em seguida pressione B para retornar ao menu principal do Priiloader.
+1. Desça até `Homebrew Channel` e pressione A para iniciá-lo.
 
 ## Lista de Hacks do Menu do Sistema
 
-This is a list of the hacks you can enable with Priiloader.
+Esta é uma lista dos hacks que você pode ativar com o Priiloader.
 
 | Hack                                                | Descrição                                                                                                                                                                                        |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -77,5 +77,5 @@ This is a list of the hacks you can enable with Priiloader.
 | Forçar jogos em disco a serem executados sob IOS249 | Faça os discos usarem cIOS 249 como IOS do jogo. Embora não possa permitir jogar jogos gravados, isto é necessário para jogar discos gravados. (Pode lhe dar um erro 002 em um jogo não gravado) |
 
 
-[Continue to the Dos and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
+[Continue para o "Deve e NÃO Deve fazer" de modificações no Wii](dosanddonts)<br> Estas são algumas diretrizes para garantir que você não irá brickar seu Wii.
 {: .notice--info}
