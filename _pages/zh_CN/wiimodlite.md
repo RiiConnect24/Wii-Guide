@@ -32,4 +32,4 @@ title: "Wii Mod Lite"
 2. 选择 `Wii SD Slot` 或 `USB Mass Storage Device`，取决于您想使用SD卡还是U盘。 ![Wii SD卡槽](/images/WiiModLite/3.png)
 3. 选择你想要安装的WAD。 在此示例，我们使用[RiiConnect24](riiconnect24)需要的修补IOS。 您可以按 + 多选WAD。 ![选择它们](/images/WiiModLite/4.gif)
 4. 按两次 "A"开始安装。 ![安装](/images/WiiModLite/5.png) ![安装](/images/WiiModLite/6.png)
-5. 显示`Finishing installation... 如果显示 <code>Finishing installation... OK!`，已成功安装WAD。 ![完成](/images/WiiModLite/7.png) 
+5. 如果显示`Finishing installation... OK!`，表示已成功安装WAD。 ![完成](/images/WiiModLite/7.png) 
