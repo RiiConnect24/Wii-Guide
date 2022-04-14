@@ -21,7 +21,7 @@ Una de las funciones más importantes de BootMii es la capacidad de respaldar y 
 * Una tarjeta SD con al menos 512 MB de espacio libre
 
 #### Instrucciones
-Si has instalado BootMii como boot2, apaga y vuelve a encender la consola para iniciar BootMii y salta al paso 3.
+Si has instalado BootMii como boot2, apaga y vuelve a encender la consola para iniciarlo y salta al paso 3.
 {: .notice--info}
 1. Inicia el Canal Homebrew.
 2. Oprime el botón HOME y luego selecciona "Lanzar BootMii".
