@@ -14,7 +14,7 @@ excerpt: "破解任天堂Wii的完整指南。"
 
 ## 什么是 "自制"?
 
-[**自制**](https://en.wikipedia.org/wiki/Homebrew_(video_games))指未经任天堂授权的软件。 这包括游戏、软件、模拟器以及更多!
+[**自制**](https://en.wikipedia.org/wiki/Homebrew_(video_games))指未经任天堂授权的软件。 这包括游戏、实用工具、模拟器以及更多!
 
 通过Wii的漏洞可以免费在任天堂Wii中运行自制软件。 通过本指南破解将使您轻松和持续运行Wii自制软件。
 
