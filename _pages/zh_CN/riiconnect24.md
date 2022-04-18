@@ -9,10 +9,10 @@ title: "RiiConnect24"
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-[RiiConnect24](https://rc24.xyz/)允许您使用已停止服务的WiiConnect24，包括News、Forecast、Everybody Votes、Nintendo和Check Mii Out Channel以及Wii Mail。
+[RiiConnect24](https://rc24.xyz/) 允许你使用已经停止运营的 WiiConnect24 服务，包含新闻、天气、大家一起投票、大家的任天堂和Mii竞赛频道，还有Wii邮箱。
 
 {% capture notice-1 %}
-本指南仅适用于Wii。
+本指南仅适用于原版Wii。
 
 - 如果您想在vWii(WiiU上的Wii模式) 安装RiiConnect24，请遵循[此教程](riiconnect24-vwii)。
 - 如果你想在Dolphin模拟器安装RiiConnect24，请遵循[此教程](riiconnect24-dolphin)。
@@ -20,7 +20,7 @@ title: "RiiConnect24"
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-不要在WII MINI上安装RIICONNECT24! 他不会工作，还会使它变砖。
+不要在Wii Mini上安装Riiconnect24! 他不会工作，还会使它变砖。
 {: .notice--danger}
 
 #### 你需要的是
@@ -66,7 +66,7 @@ title: "RiiConnect24"
 
 ##### 第三节 - 修补 nwc24msg.cfg
 
-您现在将修补`nwc24msg.cfg`，这是使用Wii Mail必需的。
+您现在将修补`nwc24msg.cfg`，这是使用Wii 邮箱必需的。
 
 1. 启动 RiiConnect24 Mail 修补程序。
 2. 修补nwc24msg.cfg只需几秒钟。 完成后，按HOME退出。
@@ -95,7 +95,7 @@ title: "RiiConnect24"
 15. 在`Slot Illumination`，我们建议您将光驱灯设置为 `Dim` or `Bright`，但这是可选的。
 16. 最后，转到`互联网`，转到`User Agreements` 或 `Agreement/Contact`，点击 `Yes`。 请阅读此内容。
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. 你可以选择来安装。 这是可选项。
+[继续配置Wiimmfi](wiimmfi)<br> Wiimmfi 可以在不借助已经结束运营的 Nintendo Wi-Fi Connection 上进行在线联机游戏。 这是可选项。
 {: .notice--info}
 
 [继续WiiLink](wiilink)<br> WiiLink允许您使用已停止服务的日本频道，如Wii no Ma 何 Digicam Print Channel。 这是可选项。
