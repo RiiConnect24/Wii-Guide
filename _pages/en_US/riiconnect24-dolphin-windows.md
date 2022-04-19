@@ -4,7 +4,7 @@ title: "RiiConnect24"
 
 {% include toc title="Table of Contents" %}
 
-This guide is only intended for Windows users. If you have a Unix based device, follow [this guide](riiconnect24-dolphin-unix) instead.
+This guide is only intended for Windows users. If you have a Unix (macOS/Linux) based device, follow [this guide](riiconnect24-dolphin-unix) instead.
 {: .notice--warning}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
@@ -53,7 +53,7 @@ Performing Online System Updates is [not currently possible in Dolphin](https://
 If you choose to manually run it, keep `VFF-Downloader-for-Dolphin.bat`. There will be an option in menu to manually run it.
 {: .notice--info}
 
-If you choose to run it on startup, you don't have to do anything. If you want to uninstall it in the future, come back to `VFF-Downloader-for-Dolphin.bat` or `VFF-Downloader-for-Dolphin.sh` and choose - Manage startup VFF Downloader.
+If you choose to run it on startup, you don't have to do anything. If you want to uninstall it in the future, come back to `VFF-Downloader-for-Dolphin.bat` and choose - Manage startup VFF Downloader.
 {: .notice--info}
 8. Press any key to go back to the RiiConnect24 patcher.
 9. Once back in the RiiConnect24 Patcher, press `1` and then `Enter`.
