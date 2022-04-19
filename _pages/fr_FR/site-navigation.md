@@ -34,7 +34,7 @@ sitemap: false
 + [BlueBomb](bluebomb)
 * [Sauvegarde BootMii](bootmii)
 + [cIOS](cios)
-+ [Dos and Don'ts of Wii Modding](dosanddonts)
++ [Les choses à faire et à ne pas faire avec le Wii Modding](dosanddonts)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
 + [Homebrew Channel](hbc)
