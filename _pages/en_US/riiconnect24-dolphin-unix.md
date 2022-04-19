@@ -6,6 +6,9 @@ title: "RiiConnect24"
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
+This guide can work on any computer, but if you are on Windows, it is recommened to follow [this guide](riiconnect24-dolphin-windows) instead.
+{: .notice--warning}
+
 This guide will help you install RiiConnect24 on your Dolphin installation.
 
 If you need help for anything regarding this tutorial, please directly contact KcrPL#4625 on Discord, join the [RiiConnect24 Discord Server](https://discord.gg/rc24) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
