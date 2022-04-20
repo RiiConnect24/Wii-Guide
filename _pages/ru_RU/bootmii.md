@@ -26,7 +26,7 @@ title: "Резервная копия BootMii"
 1. Запустите Homebrew Channel.
 2. Нажмите кнопку HOME, затем выберите "Launch BootMii".
 
-    Управление BootMii невозможно с помощью контроллера Wii Remote. Вы должны использовать кнопки POWER и RESET на консоли, или контроллер GameCube, воткнутый в 1-ый порт. Для переключения между опциями нажмите POWER на вашей Wii (или вправо на крестовине контроллера GameCube). To select an option, press RESET on your Wii or A on your GameCube controller.
+    Управление BootMii невозможно с помощью контроллера Wii Remote. Вы должны использовать кнопки POWER и RESET на консоли, или контроллер GameCube, воткнутый в 1-ый порт. To navigate between options, press POWER on your Wii (or left/right on the +Control Pad on a GameCube controller). To select an option, press RESET on your Wii or A on your GameCube controller.
     {: .notice--info}
 
 
@@ -37,7 +37,7 @@ title: "Резервная копия BootMii"
 4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left).
 - Начнётся процесс резервирования NAND. Можете следить за прогрессом на экране.
 - "Плохие Блоки" - это нормально. Не волнуйтесь, когда увидите их в резервной копии NAND.
-- После этого шага копия будет проверена. Проверку можно пропустить, нажав кнопку EJECT на вашей Wii, но это не рекомендуется.
+- После этого шага копия будет проверена. Проверку можно пропустить, нажав кнопку EJECT на вашей Wii, но это не рекомендуется. Note that if you have a disc inserted in the disc drive, pressing EJECT will also eject the disc.
 5. Когда резервное копирование полностью завершится, выйдите с экрана резервирования NAND, нажав любую кнопку.
 6. Чтобы выйти из BootMii, нажмите кнопку Back (та, что со стрелкой), затем вы можете нажать кнопку Wii Menu или кнопку Homebrew Channel, чтобы выйти куда вы хотите.
 
