@@ -26,7 +26,7 @@ If you have BootMii installed as boot2 you will need to launch BootMii by restar
 1. Abre o Homebrew Channel.
 2. Pressiona o botão HOME, depois seleciona "Launch BootMii".
 
-    Navigating BootMii is not possible using a Wii Remote. Tens que usar os botões POWER e RESET na tua consola, ou um comando GameCube no port 1. To navigate between options, press POWER on your Wii (or right on the +Control Pad on a GameCube controller). To select an option, press RESET on your Wii or A on your GameCube controller.
+    Navigating BootMii is not possible using a Wii Remote. Tens que usar os botões POWER e RESET na tua consola, ou um comando GameCube no port 1. To navigate between options, press POWER on your Wii (or left/right on the +Control Pad on a GameCube controller). To select an option, press RESET on your Wii or A on your GameCube controller.
     {: .notice--info}
 
 
@@ -37,7 +37,7 @@ If you have BootMii installed as boot2 you will need to launch BootMii by restar
 4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left).
 - A cópia da NAND irá começar. Tu podes ver o progresso no ecrã.
 - "Bad Blocks" são normais. Don't worry when you see some on a NAND backup.
-- Depois deste passo, ele verificará a cópia de segurança. Mesmo que seja recomendado, podes ignorar pressionando o botão EJECT na tua Wii.
+- Depois deste passo, ele verificará a cópia de segurança. Mesmo que seja recomendado, podes ignorar pressionando o botão EJECT na tua Wii. Note that if you have a disc inserted in the disc drive, pressing EJECT will also eject the disc.
 5. Quando a cópia estiver todo completo, sai do ecrã da cópia da NAND pressionando qualquer botão.
 6. Para sair do BootMii, pressiona o botão Back (aquele que tem a seta) e depois podes pressionar o botão Wii Menu ou Homebrew Channel para saires para onde quiseres.
 
