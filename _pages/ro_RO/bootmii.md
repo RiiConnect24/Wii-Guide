@@ -26,7 +26,7 @@ Dacă ai BootMii instalat ca boot2 va trebui să porniți BootMii prin repornire
 1. Pornește Homebrew Channel.
 2. Apasă butonul HOME, apoi selectează "Launch BootMii" (Pornește BootMii).
 
-    Navigarea prin BootMii nu este posibilă folosind un Wii Remote. Trebuie sa folosești butoanele POWER și RESET de pe consolă, sau un controller GameCube conectat în port 1. Pentru a naviga printre opțiuni, apasă butonul POWER de pe consola Wii (sau dreapta pe +Control Pad-ul pe un controller GameCube). To select an option, press RESET on your Wii or A on your GameCube controller.
+    Navigarea prin BootMii nu este posibilă folosind un Wii Remote. Trebuie sa folosești butoanele POWER și RESET de pe consolă, sau un controller GameCube conectat în port 1. To navigate between options, press POWER on your Wii (or left/right on the +Control Pad on a GameCube controller). To select an option, press RESET on your Wii or A on your GameCube controller.
     {: .notice--info}
 
 
@@ -37,7 +37,7 @@ Dacă ai BootMii instalat ca boot2 va trebui să porniți BootMii prin repornire
 4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left).
 - Procesul de creere a unei copii de rezervă NAND va incepe. Poți urmări progresul pe ecran.
 - "Bad Block-urile" (Blocurile proaste) sunt normale. Nu te îngrijora dacă vezi unele într-o copie de rezervă NAND.
-- După acest pas, va verifica copia de rezervă. Chiar dacă este recomandat, poate fi omis prin apăsarea butonului EJECT de pe consola ta Wii.
+- După acest pas, va verifica copia de rezervă. Chiar dacă este recomandat, poate fi omis prin apăsarea butonului EJECT de pe consola ta Wii. Note that if you have a disc inserted in the disc drive, pressing EJECT will also eject the disc.
 5. După ce copia de rezervă este gata, ieși din ecranul de backup NAND prin apăsarea oricărui buton.
 6. Pentru a ieși din BootMii, apasă butonul Înapoi (cel cu săgeata) iar apoi poți apasă ori butonul Wii Menu ori butonul Homebrew Channel pentru a ieși unde vrei.
 
