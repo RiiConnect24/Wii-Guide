@@ -26,7 +26,7 @@ BootMii가 boot2로 설치되었다면 콘솔을 재시작하여 BootMii를 실�
 1. 홈브루 채널을 실행하세요.
 2. HOME 버튼을 누르고, "Launch BootMii"를 선택하세요.
 
-    BootMii 탐색은 Wii 리모트로 불가능합니다. 콘솔의 POWER 및 RESET를 사용하거나, 포트 1에 꽂힌 게임큐브 컨트롤러를 사용해야 합니다. 옵션 사이를 탐색하려면, Wii의 POWER 버튼을 누르십시오 (또는 게임큐브 컨트롤러의 +컨트롤 패드). To select an option, press RESET on your Wii or A on your GameCube controller.
+    BootMii 탐색은 Wii 리모트로 불가능합니다. 콘솔의 POWER 및 RESET를 사용하거나, 포트 1에 꽂힌 게임큐브 컨트롤러를 사용해야 합니다. To navigate between options, press POWER on your Wii (or left/right on the +Control Pad on a GameCube controller). To select an option, press RESET on your Wii or A on your GameCube controller.
     {: .notice--info}
 
 
@@ -37,7 +37,7 @@ BootMii가 boot2로 설치되었다면 콘솔을 재시작하여 BootMii를 실�
 4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left).
 - NAND 백업이 시작됩니다. 화면에서 진행 상황을 확인할 수 있습니다.
 - "배드 블록"은 정상적입니다. NAND 백업 중 뭔가 발견해도 걱정하지 마십시오.
-- 이 단계 이후, 백업을 확인합니다. 권장되긴 하지만, Wii의 EJECT 버튼으로 건너뛸 수 있습니다.
+- 이 단계 이후, 백업을 확인합니다. 권장되긴 하지만, Wii의 EJECT 버튼으로 건너뛸 수 있습니다. Note that if you have a disc inserted in the disc drive, pressing EJECT will also eject the disc.
 5. 백업이 완료되면, NAND 백업 화면을 아무 버튼이나 눌러서 빠져나가세요.
 6. BootMii를 나가려면, 이전 버튼(화살표가 있음)을 누르고 Wii 메뉴 버튼 또는 홈브루 채널 둘 중 하나를 눌러 원하는 곳으로 이동하세요.
 
