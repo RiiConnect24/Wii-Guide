@@ -26,7 +26,7 @@ Si vous avez installé BootMii en tant que boot2, vous devrez lancer BootMii en 
 1. Lancez la chaîne Homebrew.
 2. Appuyez sur le bouton HOME puis choisissez « Launch BootMii ».
 
-    La navigation dans BootMii n'est pas possible avec une télécommande Wii. Vous devez utiliser les boutons POWER et RESET de votre console, ou une manette GameCube branchée dans le port 1. Pour naviguer entre les options, appuyez sur la touche POWER de votre Wii (ou sur la touche droite de la croix directionnelle + d'une manette GameCube). Pour sélectionner une option, pressez RESET sur votre Wii ou A sur votre manette GameCube.
+    La navigation dans BootMii n'est pas possible avec une télécommande Wii. Vous devez utiliser les boutons POWER et RESET de votre console, ou une manette GameCube branchée dans le port 1. To navigate between options, press POWER on your Wii (or left/right on the +Control Pad on a GameCube controller). Pour sélectionner une option, pressez RESET sur votre Wii ou A sur votre manette GameCube.
     {: .notice--info}
 
 
@@ -37,7 +37,7 @@ Si vous avez installé BootMii en tant que boot2, vous devrez lancer BootMii en 
 4. Sélectionnez le bouton BackupMii (l'icône avec la flèche verte, c'est-à-dire la première icône à gauche).
 - Une sauvegarde de la NAND va démarrer. Vous pouvez voir la progression sur votre écran.
 - Les « mauvais blocks » (*bad blocks* en anglais) sont normaux. Ne vous inquiétez pas lorsque vous en voyez sur une sauvegarde de la NAND.
-- Après cette étape, l'outil va vérifier la sauvegarde. Bien que cela soit recommandé, vous pouvez sauter cette étape en appuyant sur le bouton « EJECT » de votre Wii.
+- Après cette étape, l'outil va vérifier la sauvegarde. Bien que cela soit recommandé, vous pouvez sauter cette étape en appuyant sur le bouton « EJECT » de votre Wii. Note that if you have a disc inserted in the disc drive, pressing EJECT will also eject the disc.
 5. Lorsque la sauvegarde est entièrement terminée, quittez l'écran de sauvegarde de la NAND en appuyant sur n'importe quel bouton.
 6. Pour quitter BootMii, appuyez sur le bouton Back (celui avec la flèche), puis vous pouvez appuyer sur le bouton du menu Wii ou sur le bouton de la chaîne Homebrew pour sortir où vous voulez.
 
