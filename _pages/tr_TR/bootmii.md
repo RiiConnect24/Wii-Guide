@@ -26,7 +26,7 @@ Eğer BootMii’yi boot2 olarak yüklediyseniz, BootMii’yi başlatabilmek içi
 1. Homebrew Channel’ı başlatın.
 2. Önce HOME tuşuna ardından “Launch BootMii” seçeneğine basın.
 
-    BootMii’de seçim yapmak Wii Kumandası ile mümkün değildir. Ya POWER ve RESET tuşlarını kullanacaksınız ya da 1. porta bağlanan bir GameCube kumandası kullanacaksınız. Seçenekler arasında geçiş yapabilmek için Wii’nizin POWER tuşuna (ya da GameCube kumandanızın +Kontrol Tuşlarınızdan sağ tuşa) basın. To select an option, press RESET on your Wii or A on your GameCube controller.
+    BootMii’de seçim yapmak Wii Kumandası ile mümkün değildir. Ya POWER ve RESET tuşlarını kullanacaksınız ya da 1. porta bağlanan bir GameCube kumandası kullanacaksınız. To navigate between options, press POWER on your Wii (or left/right on the +Control Pad on a GameCube controller). To select an option, press RESET on your Wii or A on your GameCube controller.
     {: .notice--info}
 
 
@@ -37,7 +37,7 @@ Eğer BootMii’yi boot2 olarak yüklediyseniz, BootMii’yi başlatabilmek içi
 4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left).
 - NAND yedeklemesi başlayacaktır. İlerlemeyi ekrandan takip edebilirsiniz.
 - “Bozuk kesimler” normaldir. NAND yedeklemesinde gördüğünüz zaman endişelenmeyin.
-- Bu adımdan sonra, yedekleme doğrulanacaktır. Her ne kadar tavsiye etsek de Wii’nizden EJECT tuşuna basarak bu adımı atlayabilirsiniz.
+- Bu adımdan sonra, yedekleme doğrulanacaktır. Her ne kadar tavsiye etsek de Wii’nizden EJECT tuşuna basarak bu adımı atlayabilirsiniz. Note that if you have a disc inserted in the disc drive, pressing EJECT will also eject the disc.
 5. Yedekleme tamamlandığında, herhangi bir tuşa basarak NAND yedeklemesi ekranından çıkın.
 6. BootMii’den çıkmak için, lütfen Geri tuşuna (ok olan) basın ve dilerseniz Wii Menü’ye dilerseniz de Homebrew Channel’a çıkın.
 
