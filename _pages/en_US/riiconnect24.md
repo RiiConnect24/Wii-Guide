@@ -15,7 +15,7 @@ If you need help with anything regarding this tutorial, please join [the RiiConn
 This guide is for regular Wiis only.
 
 - Follow [this tutorial](riiconnect24-vwii) if you'd like to install RiiConnect24 on vWii (Wii Mode on Wii U).
-- Follow [this tutorial](riiconnect24-dolphin-unix) if you'd like to install RiiConnect24 on Dolphin Emulator.
+- Follow [this tutorial](riiconnect24-dolphin) if you'd like to install RiiConnect24 on Dolphin Emulator.
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
