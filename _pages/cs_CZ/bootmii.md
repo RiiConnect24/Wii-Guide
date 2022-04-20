@@ -26,7 +26,7 @@ Pokud máte BootMii nainstalované jako boot2, budete muset spustit BootMii rest
 1. Spusťte Homebrew Channel.
 2. Stiskněte tlačítko HOME a poté vyberte "Launch BootMii".
 
-    Pohybovat se v menu BootMii nelze použitím Wii Remotu. Musíte použít tlačítka POWER a RESET na vaší konzoli nebo GameCube ovladač připojený do portu 1. Chcete-li přecházet mezi možnostmi, stiskněte POWER na Wii (nebo vpravo na D-Padu na GameCube ovladači). To select an option, press RESET on your Wii or A on your GameCube controller.
+    Pohybovat se v menu BootMii nelze použitím Wii Remotu. Musíte použít tlačítka POWER a RESET na vaší konzoli nebo GameCube ovladač připojený do portu 1. To navigate between options, press POWER on your Wii (or left/right on the +Control Pad on a GameCube controller). To select an option, press RESET on your Wii or A on your GameCube controller.
     {: .notice--info}
 
 
@@ -37,7 +37,7 @@ Pokud máte BootMii nainstalované jako boot2, budete muset spustit BootMii rest
 4. Vyberte tlačítko BackupMii (ikona se zelenou šipkou, tzv. první ikonu na levé straně).
 - Bude spuštěno zálohování paměti NAND. Na obrazovce můžete sledovat průběh.
 - Tzv. "špatné bloky" jsou normální. Nebojte se, když nějaké uvidíte.
-- Po tomto kroku proběhne kontrola zálohy. Přestože se kontrola doporučuje, lze ji přeskočit stisknutím tlačítka EJECT na vašem Wii.
+- Po tomto kroku proběhne kontrola zálohy. Přestože se kontrola doporučuje, lze ji přeskočit stisknutím tlačítka EJECT na vašem Wii. Note that if you have a disc inserted in the disc drive, pressing EJECT will also eject the disc.
 5. Po úplném dokončení zálohování opusťte obrazovku zálohy NAND stisknutím libovolného tlačítka.
 6. Pro opuštění BootMii vyberte tlačítko Zpět (menší tlačítko s šipkou) a pak můžete zvolit buď tlačítko s Wii Menu pro návrat do hlavní nabídky, nebo tlačítko s Homebrew Chanellem pro návrat do Homebrew Chanellu.
 
