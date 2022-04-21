@@ -60,13 +60,13 @@ ASSUREZ-VOUS D’AVOIR LU TOUS LES AVERTISSEMENTS AVANT DE CONTINUER !
 Cela suppose que votre Wii est sur la dernière version du menu Wii.
 {: .notice--warning}
 
-There are a couple of ways to get the .app files for your vWii System Menu, in this guide we'll be using the vWii version of NUS Downloader.
+Il existe plusieurs façons d'obtenir les fichiers .app pour votre menu système Wii. Dans ce guide, nous utiliserons la version Wii de NUS Downloader.
 
-1. Open the folder and launch NUS Downloader.
-2. Open the menu in NUS Downloader and click the database button.
-3. Go to System > System Menu and select a version according to your region.
+1. Ouvrez le dossier et lancez NUS Downloader.
+2. Ouvrez le menu dans NUS Downloader et cliquez sur le bouton de la base de données.
+3. Allez dans System > System Menu et sélectionnez une version selon votre région.
 
-Here's a table showing which versions correspond to which region.
+Voici un tableau montrant quelles versions correspondent à quelle région.
 
 | Région | Version du Menu vWii |
 | ------ | -------------------- |
@@ -74,13 +74,13 @@ Here's a table showing which versions correspond to which region.
 | USA    | v609                 |
 | Europe | v610                 |
 
-After selecting the correct version to download, check the box for `Create Decrypted Contents (*.app)`. Then, press the `Start NUS Download` Button on the top of the window.
+Après avoir sélectionné la bonne version à télécharger, cochez la case pour `Créer du contenu décrypté (*.app)`. Ensuite, appuyez sur le bouton `Démarrer le téléchargement NUS` en haut de la fenêtre.
 
 ![The database menu in NUS Downloader.](/images/Themes-vWii/NUSD-vWii_preview-database.png)
 
 ![The main menu of NUS downloader without the database menu open.](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
 
-After the download has finished, search for .app file corresponding to your region in the folder where NUS Downloader is.
+Une fois le téléchargement terminé, recherchez le fichier .app correspondant à votre région dans le dossier où se trouve NUS Downloader.
 
 | Région | Fichier .app pour votre région |
 | ------ | ------------------------------ |
@@ -88,15 +88,15 @@ After the download has finished, search for .app file corresponding to your regi
 | USA    | 0000001f.app                   |
 | Europe | 00000022.app                   |
 
-If you can't find the .app file, it's possible you have downloaded the wrong version of the Wii Menu and you'll need to try again.
+Si vous ne trouvez pas le fichier .app, il est possible que vous ayez téléchargé la mauvaise version du menu Wii et vous devrez réessayer.
 
-After you find the .app file, copy it to the main directory of the folder containing ThemeMii. Then, copy a version of it to the theme folder in your SD card.
+Après avoir trouvé le fichier .app, copiez-le dans le répertoire principal du dossier contenant ThemeMii. Ensuite, copiez-en une version dans le dossier du thème de votre carte SD.
 
 ##### Section III - Construire le Theme
 
-1. Launch ThemeMii Mod.
-2. Do not click `Download Base App`, ThemeMii does not have base .app files for vWii. If you download a base app, you must delete it in order to use the vWii .app file.
-3. In ThemeMii select `File` -> `Open` and navigate to the .mym theme you downloaded earlier.
+1. Lancez ThemeMii Mod.
+2. Ne cliquez pas sur `Télécharger l'application de base`, ThemeMii n'a pas de fichiers .app de base pour vWii. Si vous téléchargez une application de base, vous devez la supprimer pour pouvoir utiliser le fichier vWii .app.
+3. Dans ThemeMii, sélectionnez `Fichier` -> `Ouvrir` et accédez au thème .mym que vous avez téléchargé précédemment.
 4. Click on `Create CSM` and select the .app file that you copied to the ThemeMii folder.
 5. Now navigate to the theme folder on your SD card and save your theme with the .csm extension.
 
