@@ -26,26 +26,26 @@ Falls du BootMii als boot2 installiert hast, musst du BootMii durch einen Neusta
 1. Starte den Homebrew-Kanal.
 2. Drücke die HOME-Taste und wähle dann "Launch BootMii".
 
-    Die Navigation in BootMii ist mit einer Wii-Fernbedienung nicht möglich. Du musst den POWER-Schalter und RESET-Knopf deiner Konsole, oder einen GameCube-Controller, verbunden mit Anschlussbuchse 1, nutzen. To navigate between options, press POWER on your Wii (or left/right on the +Control Pad on a GameCube controller). To select an option, press RESET on your Wii or A on your GameCube controller.
+    Die Navigation in BootMii ist mit einer Wii-Fernbedienung nicht möglich. Du musst den POWER-Schalter und RESET-Knopf deiner Konsole, oder einen GameCube-Controller, verbunden mit Anschlussbuchse 1, nutzen. Um zwischen Optionen zu navigieren, drücke POWER auf deiner Wii (oder links/rechts auf dem Steuerkreuz eines GameCube Controllers). Um eine option auszuwählen, drücke RESET auf deine Wii oder A auf deinem GameCube Controller.
     {: .notice--info}
 
 
-    Bleibt der Bildschirm schwarz und das Laufwerk deiner Wii leuchtet blau, fehlen dir die BootMii-Dateien auf deiner SD-Karte. Download [this zip file](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
+    Bleibt der Bildschirm schwarz und das Laufwerk deiner Wii leuchtet blau, fehlen dir die BootMii-Dateien auf deiner SD-Karte. Lade [Diese Zip Datei](https://static.hackmii.com/bootmii_sd_files.zip) herunter und entpacke es auf dem Hauptverzeichnes deiner SD Karten, versuche es dann nochmal.
     {: .notice--warning}
 
-3. Select the Options button (the icon with the gears).
-4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left).
+3. Wähle den Optionen Knopf (das Bild mit dem Zahnrad).
+4. Wähle den BackupMii Knopf aus (das Bild mit dem grünen Pfeil, also das erste Bild auf der linken Seite).
 - Die NAND-Sicherung startet. Du kannst den Fortschritt auf dem Bildschirm sehen.
 - "Bad Blocks" (defekte Blöcke) sind normal. Mach dir also keine Sorgen, wenn du welche während der NAND-Sicherung sehen solltest.
-- Nach diesem Schritt wird die Sicherung überprüft. Dies wird zwar empfohlen, kann aber auch durch Drücken der EJECT-Taste an der Wii-Konsole übersprungen werden. Note that if you have a disc inserted in the disc drive, pressing EJECT will also eject the disc.
+- Nach diesem Schritt wird die Sicherung überprüft. Dies wird zwar empfohlen, kann aber auch durch Drücken der EJECT-Taste an der Wii-Konsole übersprungen werden. Beachte es, wenn du eine CD in dem CD Laufwerk eingesteckt hast, EJECT drücken wird auch die CD auswerfen.
 5. Wenn die Sicherung abgeschlossen ist, beende den NAND-Sicherungsbildschirm durch Drücken einer beliebigen Taste.
 6. Um BootMii zu beenden, wähle die Zurück-Schaltfläche aus (die mit dem Pfeil) und anschließend entweder die Wii-Menü- oder die Homebrew-Kanal-Schaltfläche, je nachdem, wohin du möchtest.
 
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). This is useful in the unlikely case you brick your Wii.
+Um eine NAND Sicherung von deiner SD-Karte zu wiederherstellen, dann kannst du die Anweisungen mit RestoreMii (das Bild mit dem roten Pfeil, also das zweite von links) folgen. Das ist nützlich, wenn du in einem unwahrscheinlichem Fall deine Wii Brickst.
 {: .notice--info}
 
-To make sure you don’t lose the files, it's recommended to copy `nand.bin` and `keys.bin` from the root of your SD card to your computer.
+Um sicherzustellen, dass du die Dateien nicht verlierst, ist es empfohlen `nand.bin` und `keys.bin` von deiner SD-Karte zu deinem Computer zu kopieren.
 {: .notice--info}
 
-[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii as IOS.
+[Fortfahren mit der Priiloader-Installation](priiloader) Priiloader fügt eine Schutzebene vor Bricks hinzu, was wir empfehlen, insbesondere wenn du BootMii nur als IOS installieren konntest.
 {: .notice--info}
