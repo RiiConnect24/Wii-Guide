@@ -26,7 +26,7 @@ BootMii最重要的功能之一就是能备份和恢复Wii的NAND。 我们将�
 1. 启动Homebrew Channel。
 2. 按下Home按钮，选择"Launch BootMii"。
 
-    BootMii无法使用Wii遥控器。 你必须使用主机上的POWER和RESET按钮，或插在第1个口的GameCube手柄。 To navigate between options, press POWER on your Wii (or left/right on the +Control Pad on a GameCube controller). 要选择一个选项，请按Wii上的RESET按钮，或按GameCube手柄的A键。
+    BootMii无法使用Wii遥控器。 你必须使用主机上的POWER和RESET按钮，或插在第1个口的GameCube手柄。 要在选项之间移动，请按Wii的POWER按钮(或GameCube手柄的左右十字键)。 要选择一个选项，请按Wii上的RESET按钮，或按GameCube手柄的A键。
     {: .notice--info}
 
 
@@ -37,7 +37,7 @@ BootMii最重要的功能之一就是能备份和恢复Wii的NAND。 我们将�
 4. 选择BackupMii按钮 (带有绿色箭头的图标，左侧的第一个图标)。
 - 将启动NAND备份 您可以在屏幕上看到进度。
 - "坏块"是正常的。 当您看到时不用担心。
-- 在这一步后，它会验证这个备份。 即使是推荐的，但是你可以按EJECT按钮跳过。 Note that if you have a disc inserted in the disc drive, pressing EJECT will also eject the disc.
+- 在这一步后，它会验证这个备份。 虽然推荐，但您可以按EJECT按钮跳过。 请注意，如果光驱里有光盘，按EJECT会同时弹出光盘。
 5. 当备份完全完成后，按任何按键退出NAND备份。
 6. 要退出BootMii，按下Back按钮（有箭头的那个）然后你可以按下Wii菜单按钮或者HBC按钮来退出。
 
