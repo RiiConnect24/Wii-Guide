@@ -21,7 +21,7 @@ Installiere den Priiloader nicht auf einer vWii (Wii Modus auf der Wii U). Du wi
 #### Anleitung
 ##### Abschnitt 1 - Herunterladen/Installieren
 
-1. Download the Priiloader installer and extract it to your SD card or USB drive.
+1. Lade den d2x cIOS Installer herunter und entpacke ihn in den apps-Order auf deiner SD-Karte oder deines USB-Laufwerks.
     * Fall der Ordner nicht vorhanden ist, erstelle ihn.
 
 ##### Abschnitt 2 - Priiloader installieren
@@ -77,5 +77,5 @@ Dies ist eine Liste der Hacks, die du mit Priiloader aktivieren kannst.
 | Force Disc Games to run under IOS249    | Zwingt Disk-Anwendungen dazu, cIOS 249 als IOS des Spiels zu benutzen. Auch wenn es allein nicht ausreicht um selbstgebrannte Discs zu spielen wird es benötigt um diese abzuspielen. (Kann dir Error 002 für nicht-gebrannte Spiele zeigen) |
 
 
-[Continue to the Dos and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
+[Weiter zum Mach und Mach nichts von Wii Modding](dosanddonts)<br> Dies sind einige Richtlinien, um sicherzustellen, dass du deine Wii nicht baust.
 {: .notice--info}
