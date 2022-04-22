@@ -22,10 +22,10 @@ Mit dem Homebrew-Kanal kannst du Homebrew-Anwendungen ausführen. BootMii ist ei
 4. Drücke "Continue", wenn der Vorgang abgeschlossen ist. ![Erfolgreiche Installation des Homebrew-Kanals](/images/Wii/SuccessHBC.png)
 
 5. Gehe nach der Installation zurück und gehe auf "BootMii...".
-6. Wenn auf dem Bildschirm steht, dass du BootMii als boot2 installieren kannst, tue das. Das bietet dir den bestmöglichen Brick-Schutz den du haben kannst. Skip this step if the option doesn't show up, in that case your Wii is not one of the earlier models that supports it.
-7. Install BootMii as IOS, even if you already installed BootMii as boot2 in the previous step. If you couldn't install BootMii as boot2, this will still allow you to create a NAND backup.
+6. Wenn auf dem Bildschirm steht, dass du BootMii als boot2 installieren kannst, tue das. Das bietet dir den bestmöglichen Brick-Schutz den du haben kannst. Überspringe diesen Schritt, wenn die Option nicht angezeigt wird, in diesem Fall ist deine Wii nicht eines der früheren Modelle, die sie unterstützen.
+7. Installiere BootMii als IOS, auch wenn du zuvor bereits BootMii als boot2 installiert hast. Falls du im vorherigen Schritt BootMii nicht als boot2 installieren konntest, kannst du trotzdem noch eine NAND-Sicherung erstellen.
 
-If you do not have an SD card, you cannot install nor use BootMii, and therefore will not be able to utilize any of the mentioned benefits. Du kannst es aber jederzeit zu einem späteren Zeitpunkt installieren.
+Wenn du keine SD-Karte hast, kannst du BootMii nicht installieren oder verwenden und kannst aufgrund dessen die erwähnten Vorteile nicht nutzen. Du kannst es aber jederzeit zu einem späteren Zeitpunkt installieren.
 {: .notice--warning}
 
 ![BootMii-Installation](/images/Wii/InstallBootMii.png)
@@ -36,9 +36,9 @@ If you do not have an SD card, you cannot install nor use BootMii, and therefore
 
 Du kannst nun den Homebrew Channel nutzen, um Homebrew Apps auszuführen. Der Open Shop Channel ist ein One-Stop-Shop für das Herunterladen von Homebrew, den Sie in diesem Guide zu installieren erfahren werden.
 
-Here's a tip - when installing homebrew applications on your SD Card or USB drive, your folder structure should look like this:
+Hier ist ein Tipp - Wenn Sie Homebrew Anwendungen auf Ihrer SD-Karte oder Ihrem USB-Laufwerk installieren, sollte Ihre Ordnerstruktur so aussehen:
 
-💾 sd or usb:
+💾 sd oder usb:
 
 ┣ 📂 apps
 
@@ -58,13 +58,13 @@ Here's a tip - when installing homebrew applications on your SD Card or USB driv
 
 ┃ ┃ ┗ 📄 meta.xml
 
-`AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
+`AppName1` und `AppName2` sind Platzhalternamen. Mehrere `apps` Ordner nicht im `apps` Ordner erstellen.
 
-[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
+[Fortfahren um eine NAND-Sicherung mit BootMii zu erstellen](bootmii)<br> Eine NAND-Sicherung mit BootMii zu erstellen wird an diesem Punkt ausdrücklich empfohlen.
 {: .notice--info}
 
-If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
+Falls du BootMii nicht installieren konntest, fahre mit der [Installation von Priiloader](priiloader) fort.
 {: .notice--info}
 
-Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
+Tipp: Du kannst sehen, ob eine Wii BootMii als boot2 installiert hat, wenn dein Laufwerk sehr kurz blinkt, nur nach dem sofortigen Blitz, dass wenn Sie den POWER Knopf drücken.
 {: .notice--info}
