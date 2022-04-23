@@ -19,13 +19,13 @@ BlueBomb是一种利用Wii和Wii Mini的蓝牙库中漏洞的破解程序。 尽
 
 #### 第一章 - 你需要的是
 - 一台搭载了Linux的电脑
-  - 虚拟机可能会工作，但不建议使用，因为虚拟机在蓝牙直通方面很复杂。 如果有可能，请使用下面描述的LiveUSB。
-  - 如果您有一台树莓派，你可以使用它，因为很可能已经安装了Linux。
-  - 适用于Linux的Windows子系统(WSL) 将 *不会工作*，因为它无法访问蓝牙或USB接口
-  - 如果你没有Linux, [Ubuntu](https://ubuntu.com/download/desktop) 对用户最友好，可以在运行Windows或Mac的电脑上运行
-    - 32位设备将需要[Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
-    - 对于64位设备，由于稳定性，建议使用LTS版本，但是最新版本也会正常工作。
-  - 你可以将[Linux Live环境安装到U盘](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) ，而不是安装到电脑。
+  - 虚拟机可能会工作，但不建议使用，因为虚拟机在蓝牙直通方面很复杂。 如果可以，请使用下面描述的LiveUSB.
+  - 你可以使用一台树莓派，因为它很可能已经安装了Linux.
+  - 适用于Linux的Windows子系统(WSL) 将 *不会工作*，因为它无法访问蓝牙或USB接口。
+  - 如果您没有安装Linux, [Ubuntu](https://ubuntu.com/download/desktop) 对用户最友好，而且可以在运行Windows或Mac的电脑上运行。
+    - 32位设备需要[Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
+    - 对于64位设备建议使用LTS，因为它最稳定，但是最新版本也会正常工作。
+  - 您可以将[Linux Live安装到U盘](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview)而不是电脑。
 - 一个蓝牙适配器。
   - 内部的蓝牙适配器也可以用。
   - 如果你没有，去买一个并且确定它能适配Linux。
@@ -36,7 +36,7 @@ BlueBomb是一种利用Wii和Wii Mini的蓝牙库中漏洞的破解程序。 尽
 1. 从[BootMii网站](https://bootmii.org/download/)下载HackMii installer。
 - （如果尝试修复砖机，还应该将要使用的工具复制到/apps/）
 1. 提取，然后把`boot.elf`放在U盘的根目录。
-- (即使对于Wii mini, bootmini.elf也**不** 工作, 其目的完全不同且不相关. 在所有情况下使用boot.elf)。 1. 将U盘连接到主机。 对于Wii mini，USB接口在背面 对于普通Wii，使用下面的接口。 (竖置时使用右边的接口)。 1. 打开主机并进入设置菜单。 在右上角，您将看到一个4个字的代码，如下图所示。 此代码是您的Wii菜单版本，记下来因为您之后会用到。 然后，关闭主机。 ![系统菜单版本](/images/Wii/SystemMenuVersion.png)
+- (即使是Wii mini,bootmini.elf也**不会** 工作, 其目的完全不同且不相关。 在所有情况下使用boot.elf)。 1. 将U盘连接到主机。 Wii mini的USB接口在背面。 普通Wii请使用下面的接口。 (竖置时使用右边的接口)。 1. 打开主机并进入设置。 在右上角，您将看到一个4个字的代码，如下图所示。 此代码是您的Wii菜单版本，记下来因为您之后会用到。 然后，关闭主机。 ![系统菜单版本](/images/Wii/SystemMenuVersion.png)
 1. 启动你的Linux环境，并且确定你已经连接到互联网。
 1. 打开Terminal。
 1. 执行以下命令：
@@ -54,7 +54,7 @@ chmod +x bluebomb-helper.sh
 请确认主机离利用漏洞的电脑很近，至少小于1米。
 {: .notice--info}
 
-主机现在应该启动到HackMii 安装程序。 如果您不打算稍后使用它，您现在可以关闭Linux电脑。
+主机现在应该启动到HackMii 安装程序。 如果您不打算继续使用，您现在可以关闭Linux电脑。
 
 [如果使用Wii，请继续安装Homebrew Channel和BootMii。](hbc)
 {: .notice--info}
