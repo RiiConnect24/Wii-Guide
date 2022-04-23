@@ -46,7 +46,7 @@ title: "供Wii mini安装的d2xl cIOS （实验性功能）"
 ##### 开启以太网
 如果你希望通过以太网（光纤）在Wii mini上使用Wiimmfi，你需要运行[Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip)，由Fullmetal5制作。 要运行它，只需要卸载它到U盘中的`apps`文件夹里，在HBC里启动它。
 
-Wii 和 Wii mini 主机仅与使用 AX88772 芯片的网络适配器工作。 请在购买之前检查该产品是否兼容。 已知这个Ugreen的产品兼容 [淘宝(China Mainland)](https://m.tb.cn/h.fOy9RJe?sm=c1379f?tk=2dfz23UWroC)
+Wii 和 Wii mini 主机仅与使用 AX88772 芯片的网络适配器工作。 请在购买之前检查该产品是否兼容。 已知这个产品兼容 [淘宝(中国大陆)](https://item.taobao.com/item.htm?spm=a230r.1.14.22.192d2855XlRzXF&id=13091925653&ns=1&abbucket=10#detail)。
 {: .notice--info}
 
 请不要在Wii mini尝试去安装只供Wii使用的iOS和系统菜单。 这样做会使你的Wii mini砖机。
