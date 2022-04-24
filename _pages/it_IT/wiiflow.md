@@ -85,7 +85,7 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 
 ##### Opzioni una volta completate
 
-[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki is a great resource with information about WiiFlow.
+[WiiFloWiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFloWiki is a great resource with information about WiiFlow.
 {: .notice--info}
 
 [Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
