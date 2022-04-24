@@ -85,7 +85,7 @@ Akış görünümündeyken, imleci ekranın altına getirirseniz, şu 6 simgeyi 
 
 ##### Gidebileceğiniz yerler
 
-[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki, WiiFlow hakkında bilgi edinilebilecek harika bir kaynaktır.
+[WiiFloWiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFloWiki is a great resource with information about WiiFlow.
 {: .notice--info}
 
 [Site haritasından devam edin](site-navigation)<br> Sevebileceğiniz pek çok öğreticiye daha sahibiz.
