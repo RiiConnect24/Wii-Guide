@@ -85,7 +85,7 @@ Când aduci cursorul în partea de jos a ecranului în timp ce ești în vizuali
 
 ##### Opțiuni după finalizare
 
-[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki este o resursă grozavă cu informații despre WiiFlow.
+[WiiFloWiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFloWiki is a great resource with information about WiiFlow.
 {: .notice--info}
 
 [Continuă la navigarea site-ului](site-navigation)<br> Avem multe alte tutoriale care s-ar putea să-ți placă.
