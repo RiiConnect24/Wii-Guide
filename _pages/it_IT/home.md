@@ -38,15 +38,3 @@ Ecco una lista di cosa che puoi fare usando homebrew. Anche se questo elenco non
 
 Puoi iniziare [scegliendo il tuo exploit](get-started)!
 {: .notice--info}
-
-## Altre risorse
-
-Ci sono anche altre buone risorse per moddare Wii e soluzioni a problemi vari:
-
-- [ModMii](https://modmii.github.io/)
-- [WiiBrew](https://wiibrew.org/)
-- [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
-- [Wii Hacking Explained - da Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...ed ovviamente, questo sito
-
-Per modificare una Wii U, segui questa guida:
-- [Guida NH Wii U](https://wiiu.hacks.guide)
