@@ -38,15 +38,3 @@ excerpt: "破解任天堂Wii的完整指南。"
 
 从[选择漏洞](get-started)开始!
 {: .notice--info}
-
-## 更多资源
-
-还有一些好资源可以用于Wii破解和故障排除:
-
-- [ModMii](https://modmii.github.io/)
-- [WiiBrew](https://wiibrew.org/)
-- [WiiFlow 维基](https://sites.google.com/site/wiiflowiki4/)
-- [Wii 破解解释 - 由 Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...当然，这个网站
-
-破解Wii U，请使用这个指南:
-- [NH Wii U 指南](https://wiiu.hacks.guide)
