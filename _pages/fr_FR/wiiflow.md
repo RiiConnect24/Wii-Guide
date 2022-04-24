@@ -85,7 +85,7 @@ Lorsque vous amenez le curseur au bas de l'écran en vue continue, il y a 6 icô
 
 ##### Options disponibles une fois le processus terminé
 
-[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki est une excellente source d'informations sur WiiFlow.
+[WiiFloWiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFloWiki is a great resource with information about WiiFlow.
 {: .notice--info}
 
 [Continuer vers la navigation du site](site-navigation)<br> Nous avons de nombreux autres tutoriels que vous pourriez aimer.
