@@ -85,7 +85,7 @@ Flow 뷰 상태에서 커서를 화면 맨 밑으로 가져다 대면, 여섯 �
 
 ##### 끝난 뒤 할 수 있는 것
 
-[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki는 WiiFlow에 대한 정보를 찾기 좋은 공간입니다.
+[WiiFloWiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFloWiki is a great resource with information about WiiFlow.
 {: .notice--info}
 
 [사이트 네비게이션으로 계속하기](site-navigation)<br>당신이 좋아할만한 많은 튜토리얼이 있습니다.
