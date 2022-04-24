@@ -11,7 +11,7 @@ sitemap: falso
 
 + [cIOS](cios)
 + [Canale Kirby TV](kirby-tv)
-+ [RiiConnect24](riiConnect24)
++ [RiiConnect24](riiconnect24)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 {% endcapture %}
@@ -19,7 +19,7 @@ sitemap: falso
 
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
-+ [RiiConnect24](riiConnect24)
++ [RiiConnect24](riiconnect24)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [WiiLink](wiilink)
