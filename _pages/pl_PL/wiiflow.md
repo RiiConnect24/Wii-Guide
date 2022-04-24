@@ -85,7 +85,7 @@ Gdy przyniesiesz kursor na dole ekranu w widoku flow, powinieneś ujrzeć 6 ikon
 
 ##### Co można zrobić po ukończeniu?
 
-[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki to świetny zasób informacji o WiiFlow.
+[WiiFloWiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFloWiki is a great resource with information about WiiFlow.
 {: .notice--info}
 
 [Przejdź do spisu stron](site-navigation)<br> Mamy wiele innych poradników, które mogą Ci się przydać.
