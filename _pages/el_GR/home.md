@@ -38,15 +38,3 @@ excerpt: "Ο ολοκληρομένος οδηγός για να τροποπο�
 
 Ξεκινήστε επιλέγοντας [την ευπάθεια](get-started)που θα χρησιμοποιείσετε!
 {: .notice--info}
-
-## More Resources
-
-Υπάρχουν μερικές καλές πηγές για τροποποιήσεις Wii και για αντιμετώπιση προβλημάτων που μπορεί να βοηθήσουν:
-
-- [ModMii](https://modmii.github.io/)
-- [WiiBrew](https://wiibrew.org/)
-- [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
-- [Επεξήγηση Wii Hack - από τον Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...και φυσικά, αυτήν την ιστοσελίδα
-
-Για να μοντάρετε ένα Wii U ακολουθήστε αυτόν τον οδηγό:
-- [Οδηγός NH Wii U](https://wiiu.hacks.guide)
