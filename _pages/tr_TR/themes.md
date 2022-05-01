@@ -55,7 +55,7 @@ DEVAM ETMEDEN ÖNCE YUKARIDAKİ UYARILARI OKUDUĞUNUZDAN EMİN OLUN!
 * Büyük ihtimalle 4.X yazan bir bağlantıyı indireceksiniz. Bu da, bu temanın Wii Menü'nün 4.1, 4.2 ve 4.3 sürümlerinde çalıştığı anlamına gelir.
 * Bazı temalar, bölgeye göre farklı bağlantılara sahiptir. O yüzden Wii'nizin bölgesine uygun olanını seçin.
 * Wii Menü temaları için başka kaynaklar da bulunmaktadır. Ancak scm formunda (Wii'ye yüklemeye hazır) olabilir. Eğer csm Wii Menü'nüzün sürümü ve bölgesi ile uyuşmuyorsa, ThemeMii Mod ile mym formuna dönüştürebilir ve buradaki sürüm ve bölge kullanımı talimatlarıyla tekrardan csm formuna dönüştürebilirsiniz.
-* Temayı yüklediğiniz zaman doğru dosya olduğunu kontrol etmek istiyorsanız ThemeMii Mod'u açın.
+* Once you downloaded the theme you want and double-checked you got the right one, extract the .zip file for ThemeMii Mod and open the application.
 
 ##### Bölüm I - Tema Yapımı
 
