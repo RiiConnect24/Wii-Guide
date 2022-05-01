@@ -93,7 +93,7 @@ Voit muokata WiiWare-pelejä pelataksesi niitä Wiimmfissa.
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
   **or**
 - [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (monialustainen)
-- [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+- [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 [Jos haluat nähdä, kuinka käyttää WiiWare Patcheria, klikkaa tästä!](wiiwarepatcher)
 {: .notice--info}
