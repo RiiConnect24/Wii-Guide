@@ -14,7 +14,7 @@ title: "Wii Mod Lite"
 
 #### 你需要的是
 * 一张SD卡或U盘
-* [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+* [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 #### 步骤
 
