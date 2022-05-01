@@ -93,7 +93,7 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows e Unix)  
   **o**
 - [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (cross platform)
-- [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+- [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 [If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
 {: .notice--info}
