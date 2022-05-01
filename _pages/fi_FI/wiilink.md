@@ -54,7 +54,7 @@ If you use the Wii Patcher, you will not need to use our other patchers.
 13. Käyttämällä +Control Pad:ia Wii Remotella, navigoi kohtaan `WAD Manager`, ja siirry sitten `wad` -kansioon.
 14. If your Wii is not a Japanese region, install WiiLink24_SPD.wad before anything else. This is required so that we know your email address to send files.
 15. Highlight all other WADs with `WiiLink24` in the name, and press + to select them. Kun kaikki ne on valittu, paina A kahdesti asentaaksesi WAD:it.
-16. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+16. Kun ne on asennettu onnistuneesti, paina HOME-painiketta poistuaksesi Homebrew Channeliin.
 
 ##### Section II - Adding your email to SPD
 
