@@ -16,12 +16,15 @@ title: "开始"
 尽管您可以在没有SD卡的情况下遵循本指南， 但是您将无法使用 BootMii创建或恢复NAND 备份，并且您将无法使用一些自制程序。
 {: .notice--info}
 
-本指南仅适用于最新系统（4.3）的Wii 和 Wii mini (包括Wii Family Edition) 不要在Wii U (vWii)上搞这个！ 如果你想要在Wii U上安装自制程序, [按照本指南](https://wiiu.hacks.guide)。
+If your Wii Menu is not on version 4.3, use str2hax or FlashHax to mod your Wii. When you are finished following the guide, follow [the update guide](update) to update your Wii Menu to version 4.3.
+{: .notice--info}
+
+This guide is for the original Wii and Wii mini only (including the Wii Family Edition). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### 选择要使用的漏洞。
 
-这些漏洞的使用从易到难排序。
+These exploits are sorted by easiest to hardest difficulty of use.
 
 - [str2hax](str2hax) - 利用Wii EULA的漏洞
     * 需要联上网，还要能改DNS！
