@@ -55,7 +55,7 @@ title: "安装Wii菜单主题"
 * 您可能看到下载链接显示4.X，那表示与Wii菜单4.1、4.2 和4.3工作。
 * 一些主题对不同区域有不同链接，选择与您的区域对应的链接。
 * Wii菜单主题还有其它资源，但它们可能是csm(准备安装到Wii)。 如果csm不与您的Wii菜单区域匹配，使用ThemeMii Mod转换为mym，然后选择您的Wii菜单和区域将其转换为csm，使用此处的说明转换为csm。
-* 一旦您下载并两次检查了您想要的主题，打开ThemeMii Mod。
+* Once you downloaded the theme you want and double-checked you got the right one, extract the .zip file for ThemeMii Mod and open the application.
 
 ##### 第二节 - 构建主题
 
