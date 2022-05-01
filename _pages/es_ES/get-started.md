@@ -16,12 +16,15 @@ Todos los exploits ejecutan el HackMii Installer, y tienen el mismo resultado fi
 Aunque puede seguir esta guía sin una tarjeta SD, no podrá crear o restaurar una copia de seguridad NAND usando BootMii, y no podrá usar algunos homebrew.
 {: .notice--info}
 
-Esta guía es para la wii mini y la Wii original (incluyendo la Wii Edición Familia), con el firmware más reciente (4.3). ¡No uses esta guía en el modo Wii de Wii U (vWii)! Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
+If your Wii Menu is not on version 4.3, use str2hax or FlashHax to mod your Wii. When you are finished following the guide, follow [the update guide](update) to update your Wii Menu to version 4.3.
+{: .notice--info}
+
+This guide is for the original Wii and Wii mini only (including the Wii Family Edition). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### Elige el exploit que quieres usar
 
-Estas vulnerabilidades están ordenadas por la dificultad de uso más fácil a la más difícil.
+These exploits are sorted by easiest to hardest difficulty of use.
 
 - [str2hax](str2hax) - Exploit que usa el EULA de Wii
     * Requiere una conexión a Internet y cambiar el servidor DNS
