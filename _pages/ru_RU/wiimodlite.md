@@ -14,7 +14,7 @@ title: "Wii Mod Lite"
 
 #### Что вам понадобится
 * SD-карта или USB-накопитель
-* [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+* [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 #### Инструкции
 
