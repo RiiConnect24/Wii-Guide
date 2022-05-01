@@ -16,12 +16,15 @@ title: "Начало пути"
 Хотя вы можете следовать данному руководству без SD-карты, вы не сможете создать или восстановить резервную копию NAND, используя BootMii и вы не сможете использовать некоторые homebrew.
 {: .notice--info}
 
-Это руководство написано только для оригинальной Wii и Wii Mini (включая Wii Family Edition) с последней версией прошивки (4.3). Не используйте это на Wii U (vWii)! Если вы хотите установить homebrew на Wii U, [следуйте этому руководству](https://wiiu.hacks.guide).
+If your Wii Menu is not on version 4.3, use str2hax or FlashHax to mod your Wii. When you are finished following the guide, follow [the update guide](update) to update your Wii Menu to version 4.3.
+{: .notice--info}
+
+This guide is for the original Wii and Wii mini only (including the Wii Family Edition). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### Выберите Эксплойт
 
-Эти эксплойты отсортированы от наиболее лёгкого к наиболее сложному в плане использования.
+These exploits are sorted by easiest to hardest difficulty of use.
 
 - [str2hax](str2hax) - Эксплойт, который использует пользовательское соглашение Wii
     * Требует подключения к интернету и смены DNS сервера
