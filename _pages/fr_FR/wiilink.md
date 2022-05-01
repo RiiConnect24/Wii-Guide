@@ -54,7 +54,7 @@ Si vous utilisez le Wii Patcher, vous n'aurez pas besoin d'utilisez nos autres p
 13. À l'aide de la croix directionnelle de votre télécommande Wii, accédez à `WAD Manager`, puis accédez au dossier `wad`.
 14. Si votre Wii n'est pas en région japonaise, installez WiiLink24_SPD.wad avant toute autre chose. Ceci est nécessaire pour que nous connaissions votre adresse e-mail pour envoyer des fichiers.
 15. Surlignez tous les autres WAD avec `WiiLink24` dans le nom et appuyez sur + pour les sélectionner. Lorsqu'ils sont tous sélectionnés, appuyez deux fois sur A pour installer les WADs.
-16. Une fois correctement installé, appuyez sur le bouton HOME pour revenir au Homebrew Channel.
+16. Une fois qu'ils sont tous correctement installés, appuyez sur le bouton HOME pour revenir au Homebrew Channel.
 
 ##### Section II - Ajouter votre email a SPD
 
