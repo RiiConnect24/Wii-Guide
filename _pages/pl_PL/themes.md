@@ -55,7 +55,7 @@ UPEWNIJ SIĘ, ŻE PRZECZYTASZ WSZYSTKIE OSTRZEŻENIA PRZED KONTYNUOWANIEM!
 * Prawdopodobnie wybierzesz link do pobierania o nazwie 4.X co oznacza, że motyw działa na wersji 4.1, 4.2 oraz 4.3 systemu operacyjnego Wii.
 * Niektóre motywy będą miały różne linki dla różnych regionów. Wybierz odpowiedni dla twojego regionu Wii.
 * Nie używaj żadnych innych wersji ThemeMii, niż ta, którą tutaj podlinkowaliśmy. ThemeMii Mod pozwala na stworzenie motywu dla wersji systemu operacyjnego Wii 4.3, inne wersje mogą tego nie robić. Jeżeli plik csm nie pasuje do Twojej wersji systemu operacyjnego i/lub regionu Wii, spróbuj go przekonwertować korzystając z ThemeMii Mod a później, przekonwertuj go spowrotem do pliku csm według instrukcji tutaj dla Twojej wersji i regionu Wii Menu.
-* Po pobraniu motywu, który chcesz i po ponownym sprawdzeniu, że masz odpowiedni dla Twojego regionu i wersji, otwórz ThemeMii Mod.
+* Once you downloaded the theme you want and double-checked you got the right one, extract the .zip file for ThemeMii Mod and open the application.
 
 ##### Sekcja II - Tworzenie motywu
 
