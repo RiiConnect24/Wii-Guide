@@ -93,7 +93,7 @@ Poți modifica jocurile WiiWare pentru a le juca pe Wiimmfi.
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows și Unix)  
   **sau**
 - [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (cross platform)
-- [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+- [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 [Dacă vrei să vezi cum să folosești WiiWare Patcher, apasă aici!](wiiwarepatcher)
 {: .notice--info}
