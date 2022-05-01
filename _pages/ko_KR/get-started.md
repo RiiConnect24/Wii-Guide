@@ -16,12 +16,15 @@ title: "시작하기"
 SD 카드 없이 이 가이드를 따라할 수 있지만, BootMii로 NAND 백업이 불가능하고 몇몇 홈브루의 실행이 불가능할겁니다.
 {: .notice--info}
 
-이 가이드는 최종 펌웨어 (4.3) 의 오리지널 Wii 및 Wii mini만 (Wii 가족 에디션 포함) 을 위해 만들었습니다. Wii U (vWii) 에서 사용하지 마십시오! Wii U에서 홈브루를 설치하려면, [이 가이드를 참고](https://wiiu.hacks.guide)하세요.
+If your Wii Menu is not on version 4.3, use str2hax or FlashHax to mod your Wii. When you are finished following the guide, follow [the update guide](update) to update your Wii Menu to version 4.3.
+{: .notice--info}
+
+This guide is for the original Wii and Wii mini only (including the Wii Family Edition). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### 사용할 취약점 선택하기
 
-이 취약점들은 난이도가 쉬움에서 어려움순으로 구성되어 있습니다.
+These exploits are sorted by easiest to hardest difficulty of use.
 
 - [str2hax](str2hax) - Wii 이용약관을 이용한 취약점
     * 인터넷 연결이 필요하고 DNS 서버를 변경해야 함
