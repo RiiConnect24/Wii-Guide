@@ -55,7 +55,7 @@ UJISTĚTE SE, ŽE JSTE SI PŘEČETLI VEŠKERÁ VAROVÁNÍ VÝŠE PŘEDTÍM, NEŽ
 * Nejspíše budete vybírat download link, u kterého je uvedeno 4.X, což znamená, že daný skin je určen pro Wii Menu verze 4.1, 4.2 a 4.3.
 * Některé skiny mají různé odkazy pro různé regiony, takže vyberte ten, který odpovídá regionu vašeho Wii.
 * Existují i jiné stránky se skiny pro Wii, ale tam mohou být ve formátu csm (připraveny k instalaci přímo na Wii). Pokud daný soubor csm neodpovídá regionu nebo verzi vaší konzole, můžete ho zkusit překonvertovat do formátu mym použitím utility ThemeMii Mod a pak zpět do formátu csm pomocí tohoto návodu, za předpokladu dodržení verze a regionu vašeho Wii Menu.
-* Až stáhnete požadovaný skin a dvakrát zkontrolujete, že máte ten správný, spusťte ThemeMii Mod.
+* Once you downloaded the theme you want and double-checked you got the right one, extract the .zip file for ThemeMii Mod and open the application.
 
 ##### Část II - Vytvoření skinu
 
