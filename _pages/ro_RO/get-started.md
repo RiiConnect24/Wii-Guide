@@ -16,12 +16,15 @@ Toate exploit-urile rulează Instalatorul HackMii, și au același rezultat fina
 Deși poți urma acest ghid fără un card SD, nu vei putea să creezi sau să restaurezi o copie de rezervă folosing BootMii, și nu vei putea să folosești unele aplicații homebrew.
 {: .notice--info}
 
-Acest ghid este doar pentru consola Wii originală și pentru Wii mini (inclusiv Wii Family Edition), cu cel mai recent firmware (4.3). Nu folosi acest ghid pe un Wii U (vWii)! Dacă vrei să instalezi homebrew pe un Wii U, [urmează acest ghid](https://wiiu.hacks.guide).
+If your Wii Menu is not on version 4.3, use str2hax or FlashHax to mod your Wii. When you are finished following the guide, follow [the update guide](update) to update your Wii Menu to version 4.3.
+{: .notice--info}
+
+This guide is for the original Wii and Wii mini only (including the Wii Family Edition). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### Alege un exploit de folosit
 
-Aceste exploit-uri sunt sortate de la cele mai ușoare la cele mai grele de făcut.
+These exploits are sorted by easiest to hardest difficulty of use.
 
 - [str2hax](str2hax) - Exploit care utilizează EULA-ul
     * Necesită o conexiune la Internet și schimbarea serverului DNS
