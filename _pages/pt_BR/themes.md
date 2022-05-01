@@ -55,7 +55,7 @@ CERTIFIQUE-SE QUE VOCÊ LEU OS AVISOS ACIMA ANTES DE CONTINUAR!
 * You probably will pick the download link that says 4. X, that means the theme will work on version 4.1, 4.2 and 4.3 of the Wii Menu.
 * Alguns temas têm links diferentes para diferentes regiões, então escolha o que corresponde à sua região do Wii.
 * Existem outros recursos para os temas do Wii Menu, mas eles podem estar no formato .csm (pronto para instalar no Wii). Se o .csm não coincidir com a versão e a região do seu Menu Wii, tente convertê-lo para .mym com o ThemeMii Mod, e, em seguida, convertê-lo de volta para csm com as instruções aqui usando a versão e a região do seu Menu Wii.
-* Depois de baixar o tema que deseja e ter certeza que você pegou o tema correto, abra o ThemeMii.
+* Once you downloaded the theme you want and double-checked you got the right one, extract the .zip file for ThemeMii Mod and open the application.
 
 ##### Seção II - Fazendo o Tema
 
