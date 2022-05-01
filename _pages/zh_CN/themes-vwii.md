@@ -62,11 +62,9 @@ vWii上仅测试了RiiConnect24 主题页面。 其它主题可能与vWii不兼�
 
 有几种方法可以获取用于vWii菜单的.app，在本指南中使用NUS Downloader的vWii版本。
 
-1. 打开文件夹并启动NUS Downloader。
-2. 点击NUS Downloader的menu，然后点击database。
-3. 转到 System > System Menu 并根据您的区域选择版本。
-
-下表显示了哪些区域对应哪些版本。
+1. Extract the .zip file for NUS Downloader vWii and open the application
+2. Click on `Database...`
+3. Go to `System` > `System Menu` and select the version corresponding to your region as shown in the table below.
 
 | 区域     | vWii菜单版本 |
 | ------ | -------- |
@@ -74,13 +72,13 @@ vWii上仅测试了RiiConnect24 主题页面。 其它主题可能与vWii不兼�
 | USA    | v609     |
 | Europe | v610     |
 
-选择正确的版本下载后，请检查`Create Decrypted Contents (*.app)`。 然后按位于窗口顶部的`Start NUS Download` 。
+After selecting the correct version to download, check the box for `Create Decrypted Contents (*.app)`. Then, press the `Start NUS Download` Button on the top of the window.
 
-![NUS Downloader中的database](/images/Themes-vWii/NUSD-vWii_preview-database.png)
+![The database menu in NUS Downloader.](/images/Themes-vWii/NUSD-vWii_preview-database.png)
 
-![未打开database的NUS downloader主菜单](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
+![The main menu of NUS downloader without the database menu open.](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
 
-下载完成后，在NUS Downloader文件夹搜索与您所在区域的.app。
+After the download has finished, search for the .app file corresponding to your region in the folder where NUS Downloader is.
 
 | 区域     | 您所在区域的.app   |
 | ------ | ------------ |
@@ -88,9 +86,9 @@ vWii上仅测试了RiiConnect24 主题页面。 其它主题可能与vWii不兼�
 | USA    | 0000001f.app |
 | Europe | 00000022.app |
 
-如果您找不到.app，您可能下载了错误的Wii菜单，请再试一次。
+If you can't find the .app file, it's possible you have downloaded the wrong version of the Wii Menu and you'll need to try again.
 
-找到.app后，将其复制到包含ThemeMii的文件夹。 然后将对应版本复制到SD卡的theme文件夹。
+After you find the .app file, copy it to the main directory of the folder containing ThemeMii. Then, copy a version of it to the theme folder in your SD card.
 
 ##### 第三节 - 构建主题
 
@@ -100,7 +98,7 @@ vWii上仅测试了RiiConnect24 主题页面。 其它主题可能与vWii不兼�
 4. 点击`Create CSM`并选择您复制到ThemeMii文件夹的.app。
 5. 移动到SD卡的theme文件夹，用.csm扩展保存主题。
 
-![ThemeMii 菜单](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
+![ThemeMii Menu](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
 
 ##### 第四节 - 安装主题
 
@@ -110,7 +108,7 @@ vWii上仅测试了RiiConnect24 主题页面。 其它主题可能与vWii不兼�
 4. 当它提示安装主题时选择`Yes`，等待安装完成。
 5. 安装完成后， MyMenuify会提示`Continue` 或 `Exit`，选择 `Exit`。
 
-如果成功，您应该会看见安装了的主题。
+If you did everything correctly, you should now have your custom theme installed on your Wii Menu.
 
 ##### 恢复主题
 
