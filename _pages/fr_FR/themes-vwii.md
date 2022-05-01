@@ -62,11 +62,9 @@ Cela suppose que votre Wii est sur la dernière version du menu Wii.
 
 Il existe plusieurs façons d'obtenir les fichiers .app pour votre menu système Wii. Dans ce guide, nous utiliserons la version Wii de NUS Downloader.
 
-1. Ouvrez le dossier et lancez NUS Downloader.
-2. Ouvrez le menu dans NUS Downloader et cliquez sur le bouton de la base de données.
-3. Allez dans System > System Menu et sélectionnez une version selon votre région.
-
-Voici un tableau montrant quelles versions correspondent à quelle région.
+1. Extract the .zip file for NUS Downloader vWii and open the application
+2. Click on `Database...`
+3. Go to `System` > `System Menu` and select the version corresponding to your region as shown in the table below.
 
 | Région | Version du Menu vWii |
 | ------ | -------------------- |
@@ -74,13 +72,13 @@ Voici un tableau montrant quelles versions correspondent à quelle région.
 | USA    | v609                 |
 | Europe | v610                 |
 
-Après avoir sélectionné la bonne version à télécharger, cochez la case pour `Créer du contenu décrypté (*.app)`. Ensuite, appuyez sur le bouton `Démarrer le téléchargement NUS` en haut de la fenêtre.
+After selecting the correct version to download, check the box for `Create Decrypted Contents (*.app)`. Then, press the `Start NUS Download` Button on the top of the window.
 
-![Le menu de la base de données dans NUS Downloader.](/images/Themes-vWii/NUSD-vWii_preview-database.png)
+![The database menu in NUS Downloader.](/images/Themes-vWii/NUSD-vWii_preview-database.png)
 
-![Le menu principal du téléchargeur NUS sans le menu de la base de données ouvert.](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
+![The main menu of NUS downloader without the database menu open.](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
 
-Une fois le téléchargement terminé, recherchez le fichier .app correspondant à votre région dans le dossier où se trouve NUS Downloader.
+After the download has finished, search for the .app file corresponding to your region in the folder where NUS Downloader is.
 
 | Région | Fichier .app pour votre région |
 | ------ | ------------------------------ |
@@ -88,9 +86,9 @@ Une fois le téléchargement terminé, recherchez le fichier .app correspondant 
 | USA    | 0000001f.app                   |
 | Europe | 00000022.app                   |
 
-Si vous ne trouvez pas le fichier .app, il est possible que vous ayez téléchargé la mauvaise version du menu Wii et vous devrez réessayer.
+If you can't find the .app file, it's possible you have downloaded the wrong version of the Wii Menu and you'll need to try again.
 
-Après avoir trouvé le fichier .app, copiez-le dans le répertoire principal du dossier contenant ThemeMii. Ensuite, copiez-en une version dans le dossier du thème de votre carte SD.
+After you find the .app file, copy it to the main directory of the folder containing ThemeMii. Then, copy a version of it to the theme folder in your SD card.
 
 ##### Section III - Construire le Theme
 
@@ -100,7 +98,7 @@ Après avoir trouvé le fichier .app, copiez-le dans le répertoire principal du
 4. Cliquez sur `Créer CSM` et sélectionnez le fichier .app que vous avez copié dans le dossier ThemeMii.
 5. Accédez maintenant au dossier de thème sur votre carte SD et enregistrez votre thème avec l'extension .csm.
 
-![Menu ThemeMii](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
+![ThemeMii Menu](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
 
 ##### Section IV - Installer le Theme
 
@@ -110,7 +108,7 @@ Après avoir trouvé le fichier .app, copiez-le dans le répertoire principal du
 4. Lorsqu'il vous invite à installer le thème, dites `Oui` et attendez qu'il se termine.
 5. Une fois l'installation terminée, MyMenuify vous demandera soit `Continuer` ou `Quitter`, choisissez `Quitter`.
 
-Si vous avez tout fait correctement, vous devriez maintenant avoir votre thème personnalisé installé sur votre menu Wii.
+If you did everything correctly, you should now have your custom theme installed on your Wii Menu.
 
 ##### Revenir au thème d'origine
 
