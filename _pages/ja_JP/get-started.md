@@ -16,12 +16,15 @@ Wiiがすでに改造されている場合でも、これらの手順に従っ�
 SDカードがなくてもこのガイドに従うことができますが、 BootMiiを使用してNANDのバックアップを作成したり復元したりすることはできず、Homebrewアプリを使用することもできません。
 {: .notice--info}
 
-このガイドはWiiとWii mini (Wiiファミリーエディションを含む) の最新のファームウェア (4.3) 用です。 Wii UのWiiメニュー (vWii) では使用しないでください！ Wii Uを改造したい場合は、[こちらのガイド](https://wiiu.hacks.guide)に従ってください。
+If your Wii Menu is not on version 4.3, use str2hax or FlashHax to mod your Wii. When you are finished following the guide, follow [the update guide](update) to update your Wii Menu to version 4.3.
+{: .notice--info}
+
+This guide is for the original Wii and Wii mini only (including the Wii Family Edition). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### 使用するエクスプロイトを選択する
 
-下記のエクスプロイトは、上から順に使いやすいものから使いにくいもので並べられています。
+These exploits are sorted by easiest to hardest difficulty of use.
 
 - [str2hax](str2hax) - Wiiの利用規約を使ったエクスプロイト
     * インターネット接続とDNSサーバーの変更が必要です
