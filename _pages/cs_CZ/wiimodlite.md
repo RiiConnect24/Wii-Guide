@@ -14,7 +14,7 @@ Nedoporučujeme používat "WAD Manager" vytvořený uživatelem Waninkoko.
 
 #### Co budete potřebovat
 * SD karta nebo USB disk
-* [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+* [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 #### Pokyny
 
