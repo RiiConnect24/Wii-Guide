@@ -60,6 +60,7 @@ Um dos recursos mais importantes do BootMii é a capacidade de fazer backup e re
 + [Performing a SysCheck](syscheck)
 + [Removendo o RSSMii](rssmii-remove)
 + [RiiTag](riitag)
++ [Updating Wii Menu to v4.3](update)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 + [WiiFlow](wiiflow)
