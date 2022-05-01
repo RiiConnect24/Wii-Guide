@@ -93,7 +93,7 @@ WiiWare oyunlarınızı Wiimmfi ile oynayabilmek için yamalayabilirsiniz.
 - [RiiConnect24 Yamalayıcısı](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows ve Unix için)  
   **ya da**
 - [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (çapraz platform)
-- [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+- [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 [Eğer WiiWare Yamalayıcısı’nı nasıl kullanabileceğinizi görmek istiyorsanız buraya tıklayın!](wiiwarepatcher)
 {: .notice--info}
