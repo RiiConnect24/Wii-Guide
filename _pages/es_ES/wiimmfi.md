@@ -93,7 +93,7 @@ También es posible parchear juegos de WiiWare para jugarlos en Wiimmfi.
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Disponible para sólo para Windows)  
   **o puedes usar:**
 - [Parcheador de Wiiware](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (multiplataforma)
-- [Instalar WADs con Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+- [Instalar WADs con Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 [Si quieres saber como usar el parcheador dew Wiiware, haz clic aqui!](wiiwarepatcher)
 {: .notice--info}
