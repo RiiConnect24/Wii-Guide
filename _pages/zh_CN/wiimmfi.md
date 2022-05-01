@@ -93,7 +93,7 @@ MrBean35000vr (CTGP-R的作者, 一个马里奥赛车Wii的内容包) 创建了W
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows和Unix)  
   **或**
 - [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (跨平台)
-- [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+- [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 [如果您想知道如何使用WiiWare Patcher，点这里!](wiiwarepatcher)
 {: .notice--info}
