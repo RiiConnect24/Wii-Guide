@@ -14,7 +14,7 @@ Waninkoko tarafından yapılan “WAD Yöneticisi”ni kullanmanızı tavsiye et
 
 #### İhtiyacınız olan şeyler
 * SD Kart veya USB sürücü
-* [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+* [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 #### Talimatlar
 
