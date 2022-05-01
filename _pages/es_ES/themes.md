@@ -55,7 +55,7 @@ Below are some links to themes.
 * En la mayoría de los casos, tendrás que elegir el enlace que dice 4.X, lo cual quiere decir que el tema funcionará en las versiones de sistema 4.1, 4.2 y 4.3.
 * Algunos temas tienen enlaces para diferentes regiones, así que elige el que corresponda con la región de tu consola.
 * También hay otras fuentes para descargar temas, pero podrían estar en formato csm (listos para instalar en el Wii). Si el csm no coincide con la versión de sistema y región de tu consola, intenta convertirlo a formato mym con ThemeMii Mod, y después conviértelo de vuelta a csm usando la versión y región de tu Wii. Sólo tienes que seguir las siguientes instrucciones.
-* Una vez que hayas descargado el tema que quieres instalar, y después de haberte asegurado de que descargaste la versión correcta, ejecuta ThemeMii Mod.
+* Once you downloaded the theme you want and double-checked you got the right one, extract the .zip file for ThemeMii Mod and open the application.
 
 ##### Sección II - Construyendo el tema
 
