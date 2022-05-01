@@ -53,6 +53,7 @@ sitemap: epätosi
 + [Performing a SysCheck](syscheck)
 + [RSSMii:n Poistaminen](rssmii-remove)
 + [RiiTag](riitag)
++ [Updating Wii Menu to v4.3](update)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 + [WiiFlow](wiiflow)
