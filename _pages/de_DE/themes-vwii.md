@@ -62,9 +62,9 @@ Dies setzt voraus, dass dein vWii auf der neuesten Wii-Menü-Version ist.
 
 Es gibt ein paar Wege, um die .app Dateien für dein vWii Systemmenü, in diesem Leitfaden verwenden wir die vWii Version von NUS Downloader.
 
-1. Extract the .zip file for NUS Downloader vWii and open the application
-2. Click on `Database...`
-3. Go to `System` > `System Menu` and select the version corresponding to your region as shown in the table below.
+1. Entpacken Sie die .zip Datei für NUS Downloader vWii und öffnen Sie die Anwendung
+2. Klicken Sie auf `Database...`
+3. Gehen Sie zu `System` > `Systemmenü` und wählen Sie die Version aus, die Ihrer Region entspricht, wie in der unten stehenden Tabelle angezeigt.
 
 | Region | vWii Menü Version |
 | ------ | ----------------- |
@@ -72,13 +72,13 @@ Es gibt ein paar Wege, um die .app Dateien für dein vWii Systemmenü, in diesem
 | USA    | v609              |
 | Europa | v610              |
 
-After selecting the correct version to download, check the box for `Create Decrypted Contents (*.app)`. Then, press the `Start NUS Download` Button on the top of the window.
+Nachdem Sie die richtige Version zum Download ausgewählt haben, markieren Sie das Kästchen `Entschlüsselte Inhalte erstellen (*.app)`. Drücken Sie dann den `Start NUS Download` Knopf oben im Fenster.
 
-![The database menu in NUS Downloader.](/images/Themes-vWii/NUSD-vWii_preview-database.png)
+![Das Datenbankmenü im NUS Downloader.](/images/Themes-vWii/NUSD-vWii_preview-database.png)
 
-![The main menu of NUS downloader without the database menu open.](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
+![Das Hauptmenü von NUS downloader ohne das Datenbankmenü zu öffnen.](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
 
-After the download has finished, search for the .app file corresponding to your region in the folder where NUS Downloader is.
+Nachdem der Download beendet ist, suchen Sie in dem Ordner, in dem sich NUS Downloader befindet, nach einer .app Datei, die Ihrer Region entspricht.
 
 | Region | .app Datei für deine Region |
 | ------ | --------------------------- |
@@ -86,9 +86,9 @@ After the download has finished, search for the .app file corresponding to your 
 | USA    | 0000001f.app                |
 | Europa | 00000022.app                |
 
-If you can't find the .app file, it's possible you have downloaded the wrong version of the Wii Menu and you'll need to try again.
+Wenn du die .app-Datei nicht findest, ist es möglich, dass du die falsche Version des Wii-Menüs heruntergeladen hast und du musst es erneut versuchen.
 
-After you find the .app file, copy it to the main directory of the folder containing ThemeMii. Then, copy a version of it to the theme folder in your SD card.
+Nachdem Sie die .app-Datei gefunden haben, kopieren Sie sie in das Hauptverzeichnis des Ordners mit ThemeMii. Kopieren Sie dann eine Version in den Theme-Ordner auf Ihrer SD-Karte.
 
 ##### Abschnitt III - das Design kreieren
 
@@ -108,7 +108,7 @@ After you find the .app file, copy it to the main directory of the folder contai
 4. Wenn Sie aufgefordert werden, das Theme zu installieren, sagen Sie `Ja`, und warten Sie, bis es beendet ist.
 5. Wenn die Installation beendet ist, fragt MyMenuify entweder `Weiter` oder `Beenden`und wählen `Beenden`.
 
-If you did everything correctly, you should now have your custom theme installed on your Wii Menu.
+Wenn du alles richtig gemacht hast, solltest du jetzt dein eigenes Theme auf deinem Wii Menü installiert haben.
 
 ##### Wiederherstellen des Original-Themas
 
