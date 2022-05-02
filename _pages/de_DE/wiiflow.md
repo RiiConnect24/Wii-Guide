@@ -85,7 +85,7 @@ Wenn du den Zeiger an den unteren Rand des Bildschirms in der Flow-Ansicht beweg
 
 ##### Möglichkeiten nach Abschluss
 
-[WiiFloWiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFloWiki is a great resource with information about WiiFlow.
+[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFloWiki ist eine großartige Quelle mit Informationen rund um WiiFlow.
 {: .notice--info}
 
 [Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
