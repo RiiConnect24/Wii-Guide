@@ -5,7 +5,7 @@ title: "Întrebări frecvente"
 ![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
 
 ### Cât de riscant este să-mi modific consola?
-Brick-urile (o stare unde niște părți din software-ul Wii-ului tău nu funcționează, sau Wii-ul tău nu funcționează deloc) sunt extrem de rare cu excepția cazului în care ignori/ocolești toate verificările de siguranță, sau faci ceva riscant sau naiv precum instalarea unei versiuni mai veche a Meniului Wii. Asigură-te că instalezi [BootMii](bootmii) și [Priiloader](priiloader) pentru a te proteja de brick-uri!
+Brick-urile (o stare unde niște părți din software-ul consolei tale Wii nu funcționează, sau consola ta nu funcționează deloc) sunt extrem de rare cu excepția cazului în care ignori/ocolești toate verificările de siguranță, sau faci ceva riscant sau naiv precum instalarea unei versiuni mai veche a Meniului Wii. Asigură-te că instalezi [BootMii](bootmii) și [Priiloader](priiloader) pentru a te proteja de brick-uri!
 
 ### Unde ar trebui să mă duc pentru ajutor?
 Te poți alătura [serverului de Discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un e-mail la support@riiconnect24.net](mailto:support@riiconnect24.net) pentru asistență.
