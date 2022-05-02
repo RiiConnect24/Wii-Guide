@@ -53,3 +53,7 @@ You use the +Control Pad to use this tool.
 4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 5. Press A to install the Wii Menu WAD (and the IOS80 WAD if necessary).
 6. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+
+[Continue to Priiloader Installation](priiloader)<br>
+Priiloader adds a level of brick protection, and we recommend it.
+{: .notice--info}
