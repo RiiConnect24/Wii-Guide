@@ -110,7 +110,7 @@ If you get error 107245, then you have not installed the patched IOS.
 If you get error 107304 or you see Nintendo's User Agreement without RiiConnect24's logo, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
 {: .notice--warning}
 
-Dacă primești eroarea FORE000006, ceasul Wii-ului tău este probabil setat incorect. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel may start working.
+Dacă primești eroarea FORE000006, ceasul consolei tale este probabil setat incorect. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel may start working.
 {: .notice--warning}
 
 [If you still get FORE000006 or if you get NEWS000006, you will need to delete your SYSCONF with rc24-clear-tool](https://github.com/RiiConnect24/rc24-clear-tool/releases/latest).
