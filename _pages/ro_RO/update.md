@@ -1,5 +1,5 @@
 ---
-title: "Updating Wii Menu to v4.3"
+title: "Actualizarea Meniului Wii la v4.3"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -7,40 +7,41 @@ title: "Updating Wii Menu to v4.3"
 Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-This tutorial will explain how to update your Wii Menu to version 4.3, as you can no longer use the updater built into the Wii Menu since the servers are no longer up.
+Acest ghid îți va spune cum să-ți actualizezi Meniul Wii la versiunea 4.3 pe motiv că nu mai poți folosi actualizatorul construit în Meniul Wii deoarece serverele nu mai sunt deschise.
 
 #### De ce ai nevoie
 * Un card SD sau o unitate USB
-* A computer with Windows on it
+* Un calculator cu Windows instalat
+* [IOS58 Installer](https://oscwii.org/library/app/ios58-installer)
 * [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest)
 * [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
-If you don't have a Windows computer, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Dacă nu ai un calculator Windows, te rugăm să te alături [serverului de Discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un e-mail la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 #### Instrucțiuni
 
 ##### Secțiunea I - Descărcare
 
-Your Wii must be modded in order to perform this. If it isn't, then it's best to follow [the guide](get-started) first before doing this.
+Consola ta trebuie să fie modificată pentru a face asta. Dacă nu este, atunci urmărește [ghidul](get-started) înainte de a face asta.
 {: .notice--info}
 
-To protect against bricks, [make sure you install Priiloader](priiloader). Also, install [BootMii](bootmii) (as Boot2 if you have an early Wii, otherwise IOS). Instalarea protecției anti-brick împreună cu urmărirea corectă a ghidului ar trebui să te țină protejat de brick-uri. NU CONTINUA PÂNĂ AI INSTALAT PRIILOADER ȘI BOOTMII!
+Pentru a te proteja împotriva brick-urilor, [asigură-te că instalezi Priiloader](priiloader). De asemenea, instalează [BootMii](bootmii) (ca Boot2 dacă ai un model de Wii compatibil, altfel ca IOS). Instalarea protecției anti-brick împreună cu urmărirea corectă a ghidului ar trebui să te țină protejat de brick-uri. NU CONTINUA PÂNĂ AI INSTALAT PRIILOADER ȘI BOOTMII!
 {: .notice--danger}
 
-1. Extract the .zip file for NUS Downloader vWii and open the application.
-2. Go to `Database...` > `System` > `0000000100000002 - System Menu` and select the version corresponding to your region as shown in the table below.
-3. Make sure `Pack WAD` is checked.
-4. Press `Start NUS Download!`.
-5. Open the `titles` -> `0000000100000002` -> (Wii Menu version) and copy the .wad file to a folder called `wad` on your SD Card or USB drive.
-6. (If you have [RiiConnect24](riiconnect24), you can skip this step) Repeat steps 2-5 with `IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
+1. Extrage fișierul .zip pentru NUS Downloader vWii și deschide aplicația.
+2. Mergi la `Database...` > `System` > `0000000100000002 - System Menu` și alege versiunea corespondentă regiunii tale cum este arătat și în tabelul de mai jos.
+3. Asigură-te că `Pack WAD` este bifat.
+4. Apasă pe `Start NUS Download!`.
+5. Deschide `titles` -> `0000000100000002` -> (versiunea Meniului Wii) și copiază fișierul .wad într-un dosar numit `wad` pe Cardul tău SD sau unitatea ta USB.
+6. (Dacă ai [RiiConnect24](riiconnect24), poți sări peste acest pas) Repetă pașii 2-5 cu `IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
 
-| Regiune | Wii Menu version |
-| ------- | ---------------- |
-| Japonia | v512 (4.3J)      |
-| SUA     | v513 (4.3U)      |
-| Europa  | v514 (4.3E)      |
-| Korea   | v518 (4.3K)      |
+| Regiune | Versiunea Meniului Wii |
+| ------- | ---------------------- |
+| Japonia | v512 (4.3J)            |
+| SUA     | v513 (4.3U)            |
+| Europa  | v514 (4.3E)            |
+| Coreea  | v518 (4.3K)            |
 
 ##### Secțiunea II - Instalare
 
@@ -51,5 +52,10 @@ Vei folosi +Control Pad-ul pentru a utiliza această unealtă.
 2. Pornește Homebrew Channel pe Wii.
 3. Lansează Wii Mod Lite.
 4. Folosind +Control Pad-ul pe Wii Remote-ul tău, navighează la `WAD Manager`, apoi du-te la dosarul `wad`.
-5. Press A to install the Wii Menu WAD (and the IOS80 WAD if necessary).
+5. Apasă A pentru a instala fișierul WAD care conține Meniul Wii (și fișierul WAD care conține IOS80 dacă este necesar).
 6. După ce au fost instalate cu succes, apasă Butonul HOME pentru a ieși înapoi la Homebrew Channel.
+7. Launch IOS58 Installer.
+8. Follow the instructions to install IOS58.
+
+[Continuă la Instalarea Priiloader](priiloader)<br> Priiloader adaugă un nivel de protecție anti-brick, și îl recomandăm.
+{: .notice--info}
