@@ -14,7 +14,7 @@ Acest ghid este destinat numai utilizatorilor Wii mini. Dacă ai un Wii, urmeaz�
 Dacă ai nevoie de ajutor cu orice legat de acest tutorial, te rugăm să te alături [ serverului de Discord Wii mini Hacking.](https://discord.gg/6ryxnkS) (recomandat)
 {: .notice--info}
 
-Acest instalator d2x cIOS a fost creat inițial pentru vWii-ul din consola Wii U de DaveBaol, iar cIOS personalizat a fost creat de Leseratte pentru Wii mini. Pagina originală de descărcare poate fi găsită [aici](https://wii.leseratte10.de/d2xl-cIOS/). Pagina de Github a lui Leseratte poate fi găsită [aici](https://github.com/Leseratte10/d2xl-cios). Reține că acest cIOS este încă experimental, deși nu a fost raportată nicio problemă cu funcționalitatea.
+Acest instalator d2x cIOS a fost creat inițial pentru vWii-ul consolei Wii U de DaveBaol, iar cIOS personalizat a fost creat de Leseratte pentru Wii mini. Pagina originală de descărcare poate fi găsită [aici](https://wii.leseratte10.de/d2xl-cIOS/). Pagina de Github a lui Leseratte poate fi găsită [aici](https://github.com/Leseratte10/d2xl-cios). Reține că acest cIOS este încă experimental, deși nu a fost raportată nicio problemă cu funcționalitatea.
 {: .notice--info}
 
 #### De ce ai nevoie
@@ -46,10 +46,10 @@ Notează numărul versiunii sub notes (`IOS57-64` care se termină în `v31776` 
 ##### Activare Ethernet
 Dacă vrei să folosești Wiimmfi cu Ethernet pe un Wii mini, va trebui să rulezi aplicația [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip) făcută de Fullmetal5. Pentru a-l rula, doar extrage-l în dosarul `apps` din unitatea ta USB și rulează-l din Homebrew Channel.
 
-The Wii and Wii mini consoles are only known to work with Ethernet adapters using the AX88772 chip. Please check that the product is compatible before you buy. This one from UGREEN is known to be compatible: [Amazon Europe](https://www.amazon.de/dp/B00MYT481C), [Amazon US](https://www.amazon.com/dp/B08DRKYKMM/)
+Consolele Wii și Wii mini sunt cunoscute să meargă numai cu adaptoarele de Ethernet care folosesc cipul AX88772. Te rugăm să verifici că produsul este compatibil până să cumperi. Acesta din UGREEN este cunoscut să fie compatibil: [Amazon Europe](https://www.amazon.de/dp/B00MYT481C), [Amazon US](https://www.amazon.com/dp/B08DRKYKMM/)
 {: .notice--info}
 
-Do not attempt to install a Wii IOS or System Menu on the Wii mini. Doing so will likely brick your console.
+Nu încerca să instalezi un IOS sau un Meniu de Sistem al consolei Wii clasice pe Wii mini. Făcând asta cel mai probabil îți vei brick-ui consola.
 {: .notice--warning}
 
 Acum poți folosi homebrew precum [USB Loader GX](usbloadergx) și [Wiiflow](wiiflow).
