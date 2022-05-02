@@ -27,7 +27,7 @@ Dacă ai o versiune mai veche de Priiloader sau nu îl ai instalat, urmează [ac
 {: .notice--info}
 
 #### Instrucțiuni
-1. Ține apăsat butonul RESET în timp ce îți pornești Wii-ul (dacă folosești un Wii mini, conectează o tastatură USB în consolă și apasă escape).
+1. Ține apăsat butonul RESET în timp ce îți pornești consola Wii (dacă folosești un Wii mini, conectează o tastatură USB în consolă și apasă escape).
 2. Du-te la `System Menu Hacks`.
 3. Asigură-te că hack-ul `Wiimmfi patch v4` este activat.
 4. Salvează setările și ieși.
@@ -50,7 +50,7 @@ MrBean35000vr (creatorul CTGP-R, un pachet de conținut pentru Mario Kart Wii) a
 4. Așteaptă ca modificarea să se finalizeze, și va începe!
 
 ### Fără Homebrew (Disc)
-Mulțumită exploit-ului str2hax a lui Fullmetal5, pe care Leseratte l-a putut adapta pentru patcher-ul Wiimmfi, poți rula patch-ul Wiimmfi fără să ai homebrew instalat pe Wii-ul tău.
+Mulțumită exploit-ului str2hax a lui Fullmetal5, pe care Leseratte l-a putut adapta pentru patcher-ul Wiimmfi, poți rula patch-ul Wiimmfi fără să ai homebrew instalat în consolă.
 
 #### De ce ai nevoie
 * Un Wii cu o conexiune la Internet
@@ -122,7 +122,7 @@ Wiimmfi îți permite să participi în competiții de Mario Kart Wii din nou.
 3. Lansează jocul original Mario Kart Wii (fară patch-ul Wiimmfi).
 4. Navighează la Settings-> Network Settings (sau Nintendo WFC Connection) -> Message Service. Dacă ai activat funcția de serviciu mesaje, dezactiveaz-o și activeaz-o din nou.
 5. Lansează Mario Kart Wii Competition Patcher.
-6. Patcher-ul va căuta datele salvate pentru Mario Kart Wii din dispozitivul tău de stocare în numeroase locuri, și le va trimite. Acest lucru este făcut în caz că o competiție pierdută este găsită în datele salvate. Desigur, va modifica și Wii-ul tău pentru competiții.
+6. Patcher-ul va căuta datele salvate pentru Mario Kart Wii din dispozitivul tău de stocare în numeroase locuri, și le va trimite. Acest lucru este făcut în caz că o competiție pierdută este găsită în datele salvate. Desigur, va modifica și consola ta pentru competiții.
 
 Dacă folosești Wii U, va trebui să rulezi patcher-ul de competiții de fiecare dată când vrei să verifici pentru o nouă competiție, pentru că WiiConnect24 nu este activat pe Wii U.
 {: .notice--info}
