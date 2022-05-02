@@ -12,6 +12,7 @@ This tutorial will explain how to update your Wii Menu to version 4.3, as you ca
 #### What you need
 * An SD card or USB drive
 * A computer with Windows on it
+* [IOS58 Installer](https://oscwii.org/library/app/ios58-installer)
 * [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest)
 * [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
@@ -53,3 +54,8 @@ You use the +Control Pad to use this tool.
 4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 5. Press A to install the Wii Menu WAD (and the IOS80 WAD if necessary).
 6. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+7. Launch IOS58 Installer.
+8. Follow the instructions to install IOS58.
+
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it.
+{: . notícia--informació}
