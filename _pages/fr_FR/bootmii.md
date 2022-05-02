@@ -47,5 +47,5 @@ Pour restaurer depuis une sauvegarde de la NAND sur votre carte SD, vous pouvez 
 Pour être sûr de ne pas perdre les fichiers, il est recommandé de copier `nand.bin` et `keys.bin` depuis la racine de votre carte SD sur votre ordinateur.
 {: .notice--info}
 
-[Continuer vers l'installation de Priiloader](priiloader) Priiloader ajoute un niveau de protection contre les bricks, et nous le recommandons, surtout si vous n'avez pu installer BootMii en tant qu'IOS seulement.
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii as IOS.
 {: .notice--info}
