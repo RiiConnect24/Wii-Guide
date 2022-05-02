@@ -7,7 +7,7 @@ title: "Extragere WAD-uri"
 Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Acest tutorial îți va explica cum să extragi WAD-uri din memoria internă a Wii-ului tău.
+Acest ghid îți va spune cum să extragi fișiere WAD din memoria internă a consolei tale Wii.
 
 #### Ai nevoie de
 * Un card SD sau o unitate USB
