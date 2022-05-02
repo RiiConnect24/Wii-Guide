@@ -53,7 +53,7 @@ ASIGURĂ-TE CĂ AI CITIT AVERTISMENTELE DE DEASUPRA ÎNAINTE SĂ CONTINUI!
 * Find a theme you want to install. Some themes have YouTube videos to show what the theme looks like, but unfortunately some of the videos are no longer available.
 * Odată ce ai găsit una care îți place, apasă pe link-ul de descărcare care corespunde cu versiunea ta de Meniu Wii. **It's very important to pick the correct version to avoid bricks.**
 * Probabil vei alege link-ul de descărcare pe care scrie 4.X, asta înseamnă că tema de fundal va merge pe versiunile de Meniu Wii 4.1, 4.2 și 4.3.
-* Unele teme au link-uri diferite pentru regiuni diferite, așa că alege-l pe cel corespunzător cu regiunea Wii-ului tău.
+* Unele teme au link-uri diferite pentru regiuni diferite, așa că alege-l pe cel corespunzător cu regiunea consolei tale.
 * Există și alte resurse pentru teme de fundal pentru Meniul Wii, dar acestea pot fi în format csm (gata să fie instalate pe Wii). Dacă fișierul csm nu se potrivește cu versiunea și regiunea Meniului tău Wii, încearcă să-l convertești în format mym cu ThemeMii Mod, apoi convertește-l înapoi în format csm cu instrucțiunile de aici folosind versiunea și regiunea Meniului tău Wii.
 * Once you downloaded the theme you want and double-checked you got the right one, extract the .zip file for ThemeMii Mod and open the application.
 
@@ -77,5 +77,5 @@ ASIGURĂ-TE CĂ AI CITIT AVERTISMENTELE DE DEASUPRA ÎNAINTE SĂ CONTINUI!
 5. După un mesaj introductiv, te va întreba ce IOS vrei să folosești în aplicație. Dacă ai [instalat cIOS](cios), folosește `IOS249`, sau alternativ folosește `IOS58`. Dacă cel dintâi dă eroarea `Exception DSI occurred!`, apasă Reset pe consola Wii, lansează-l din nou, și încearcă `IOS250`. It might take a couple attempts to reload the IOS.
 6. Evidențiază tema de fundal pe care vrei să o instalezi, apoi apasă A. Dă-i un moment să instaleze tema, apoi apasă orice buton pentru a te întoarce în Meniul Wii. Tema acum este instalată, sperăm, corect.
 
-Dacă primești o eroare spunând "The system files are corrupted" sau un ecran negru, nu te panica cât timp ai instalat Priiloader. Închide-ți Wii-ul, apoi ține butonul RESET apăsat și pornește-ți consola. Ar trebui să te boot-ezi în meniul Priiloader, unde ai câteva opțiuni pentru a-ți repara Meniul Wii. Una dintre opțiuni este să lansezi Homebrew Channel, unde vei lansa MyMenuify Mod și vei apasa un buton pentru a descărca și instala meniul original al Meniului Wii.
+Dacă primești o eroare spunând "The system files are corrupted" sau un ecran negru, nu te panica cât timp ai instalat Priiloader. Închide-ți consola, apoi ține butonul RESET apăsat și pornește-ți consola. Ar trebui să te boot-ezi în meniul Priiloader, unde ai câteva opțiuni pentru a-ți repara Meniul Wii. Una dintre opțiuni este să lansezi Homebrew Channel, unde vei lansa MyMenuify Mod și vei apasa un buton pentru a descărca și instala meniul original al Meniului Wii.
 {: .notice--info}
