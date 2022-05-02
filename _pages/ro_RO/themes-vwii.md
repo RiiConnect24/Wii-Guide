@@ -1,5 +1,5 @@
 ---
-title: "Installing Wii Menu Themes on vWii"
+title: "Instalarea Temelor de Fundal pentru Meniul Wii pe vWii"
 ---
 
 {% include toc title="Table of Contents" %}
