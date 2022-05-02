@@ -29,7 +29,7 @@ Iată o listă de lucruri care le poți face cu homebrew. Chiar dacă această l
 - Face copii de rezervă și poți restaurează datele salvate cu [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
 - Descărca aplicații homebrew noi cu [Homebrew Browser](hbb)
 - Restaura servicii online întrerupte, precum [WiiConnect24](riiconnect24) & [serviciile Nintendo WFC](wiimmfi).
-- Face și restaura copii de rezervă ale memorii interne a Wii-ului tău (NAND) folosing [BootMii](bootmii).
+- Face și restaura copii de rezervă ale memorii interne a consolei (NAND) folosind [BootMii](bootmii).
 - Proteja consola de brick-uri folosind [Priiloader](priiloader) și BootMii.
 - Transforma consola într-un player media cu [WiiMC](https://oscwii.org/library/app/wiimc-ss).
 
