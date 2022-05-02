@@ -47,5 +47,5 @@ Um eine NAND Sicherung von deiner SD-Karte zu wiederherstellen, dann kannst du d
 Um sicherzustellen, dass du die Dateien nicht verlierst, ist es empfohlen `nand.bin` und `keys.bin` von deiner SD-Karte zu deinem Computer zu kopieren.
 {: .notice--info}
 
-[Fortfahren mit der Priiloader-Installation](priiloader) Priiloader fügt eine Schutzebene vor Bricks hinzu, was wir empfehlen, insbesondere wenn du BootMii nur als IOS installieren konntest.
+[Fortfahren mit der Priiloader-Installation](priiloader)<br> Priiloader fügt eine Schutzebene vor Bricks hinzu, was wir empfehlen, insbesondere wenn du BootMii nur als IOS installieren konntest.
 {: .notice--info}
