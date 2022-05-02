@@ -47,5 +47,5 @@ Las instrucciones para restaurar un respaldo desde la tarjeta SD son las mismas,
 Es muy recomendable copiar el respaldo de NAND (los archivos `nand.bin` y `keys.bin` ubicados en la raíz de la tarjeta SD) a tu computadora o la nube.
 {: .notice--info}
 
-[Avanzar a la instalación de Priiloader](priiloader). Priiloader agrega una capa de protección al software de tu consola. Su instalación es muy recomendable, especialmente si solo pudiste instalar BootMii como IOS.
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii as IOS.
 {: .notice--info}
