@@ -47,5 +47,5 @@ BootMii最重要的功能之一就是能备份和恢复Wii的NAND。 我们将�
 为确保您不会丢失文件, 建议将 `nand.bin` 和 `keys.bin` 从SD卡复制到电脑。
 {: .notice--info}
 
-[继续安装 Priiloader](priiloader) Priiloader 添加了一定程度的变砖保护，我们建议这样做，尤其是您只能将BootMii 安装为IOS时。
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii as IOS.
 {: .notice--info}
