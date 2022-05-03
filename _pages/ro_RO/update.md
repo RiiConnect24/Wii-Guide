@@ -54,8 +54,8 @@ Vei folosi +Control Pad-ul pentru a utiliza această unealtă.
 4. Folosind +Control Pad-ul pe Wii Remote-ul tău, navighează la `WAD Manager`, apoi du-te la dosarul `wad`.
 5. Apasă A pentru a instala fișierul WAD care conține Meniul Wii (și fișierul WAD care conține IOS80 dacă este necesar).
 6. După ce au fost instalate cu succes, apasă Butonul HOME pentru a ieși înapoi la Homebrew Channel.
-7. Launch IOS58 Installer.
-8. Follow the instructions to install IOS58.
+7. Rulează IOS58 Installer.
+8. Urmează instrucțiunile pentru a instala IOS58.
 
 [Continuă la Instalarea Priiloader](priiloader)<br> Priiloader adaugă un nivel de protecție anti-brick, și îl recomandăm.
 {: .notice--info}
