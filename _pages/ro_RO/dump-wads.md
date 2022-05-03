@@ -16,7 +16,7 @@ Acest ghid îți va spune cum să extragi fișiere WAD din memoria internă a co
 #### Instrucțiuni
 ##### Secțiunea I - Descărcare/Instalare
 
-1. Extract Yet Another BlueDump MOD to your SD card or USB drive.
+1. Extrage Yet Another BlueDump MOD în cardul tău SD sau unitatea ta USB.
 2. Introduce cardul tău SD sau unitatea ta USB în Wii, și pornește Yet Another BlueDump MOD din Homebrew Channel.
 
 ##### Secțiunea II - Extragere
