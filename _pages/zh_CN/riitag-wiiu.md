@@ -18,7 +18,7 @@ RiiTag是一个可自定义的动态游戏标签 通过分享您的游戏标签(
 - 最新版本[Wii U Plugin Loader](https://github.com/Maschell/WiiUPluginLoader/releases)
 - 最新版本[UTag plugin](https://github.com/RiiConnect24/UTag/releases)
 - 最新版本[Flump's Coldboot Haxchi Mod](https://www.dropbox.com/sh/gxkf72jia1adpyg/AACPMfGU2AyWUZmhU2awjSsca/Haxchi-CBHC%20Flump%20Mod.zip?dl=1)
-   - Coldboot Haxchi用于第四节。 如果您不能使用Coldboot Haxchi则无需下载，或您不想再启动时加载Wii U Plugin Loader。
+   - Coldboot Haxchi用于第四节。 如果您不能使用Coldboot Haxchi则无需下载，或您不想在启动时加载Wii U Plugin Loader。
 
 #### 步骤
 
