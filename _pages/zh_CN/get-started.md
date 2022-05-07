@@ -24,7 +24,7 @@ title: "开始"
 
 ### 选择要使用的漏洞。
 
-These exploits are sorted by easiest to hardest difficulty of use.
+这些漏洞按从易到难排序。
 
 - [str2hax](str2hax) - 利用Wii EULA的漏洞
     * 需要联上网，还要能改DNS！
