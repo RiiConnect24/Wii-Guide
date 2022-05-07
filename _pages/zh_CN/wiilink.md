@@ -73,7 +73,7 @@ Wii 补丁器将无法在Dolphin模拟器上运行。 如果你使用Dolphin模�
 [继续 RiiConnect24](riiconnect24)<br> RiiConnect24允许你使用WiiConnect24已经停止运营的服务，包含新闻、天气、大家一起投票、任天堂和Mii分享广场频道，还有Wii邮箱。 这是可选项。
 {: .notice--info}
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. 你可以选择来安装。 这是可选项。
+[继续安装Wiimmfi](wiimmfi)<br> Wiimmfi让您在Nintendo Wi-Fi Connection停止服务后继续在线玩游戏。 这是可选项。
 {: .notice--info}
 
 [继续 网站导览](site-navigation) 我们有许多你可能喜欢的其他教程。
