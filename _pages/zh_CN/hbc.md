@@ -15,14 +15,14 @@ Homebrew Channel是您启动自制应用的地方。 BootMii可以备份和恢�
 
 1. 你会看见一个诈骗警告提醒。 等待30秒，当看见"Press 1 to continue"时，请按1。 ![诈骗警告提醒](/images/Wii/ScamScreen.png)
 
-2. 在HackMii安装程序中，你可以安装Homebrew Channel和BootMii。 ![结果](/images/Wii/Results.png)
+2. 您可以在HackMii安装程序中安装Homebrew Channel和BootMii。 ![结果](/images/Wii/Results.png)
 
 3. 按Continue，选择Homebrew Channel，然后按Install。 ![安装Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
 4. 完成后按Continue。 ![成功安装Homebrew Channel](/images/Wii/SuccessHBC.png)
 
 5. 安装完成后，按back并回到BootMii。
-6. 如果屏幕告诉你可以安装BootMii到boot2，照做。 这提供最好地变砖保护。 如果未提示则跳过这一步，您的Wii不是支持它的早期型号之一。
+6. 如果屏幕告诉你可以安装BootMii到boot2，照做。 这提供最好地变砖保护。 如果未提示则跳过此步，您的Wii不是支持它的早期型号之一。
 7. 将BootMii安装为IOS，即使您已在上一步将BootMii安装到boot2。 如果您无法将BootMii安装到boot2，它仍允许您创建NAND备份。
 
 如果您没有SD卡，您无法安装也不能使用BootMii，因此将无法利用上述好处。 您可以以后安装。
