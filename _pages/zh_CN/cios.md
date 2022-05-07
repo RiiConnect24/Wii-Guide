@@ -4,14 +4,14 @@ title: "cIOS"
 
 {% include toc title="Table of Contents" %}
 
-本教程将告诉您如何安装 cIOS (custom IOS)。 如果你想使用USB Loader加载游戏，你就需要这个。 有一些自制软件使用cIOS会运作的更好。
+本教程将告诉您如何安装 cIOS (自定义IOS). 如果你想使用USB Loader加载游戏，你就需要这个。 有一些自制软件使用cIOS会运作的更好。
 
 ![d2x cIOS Installer](/images/cios/cIOS.png)
 
-如果你有 Wii U (vWii), 请按照 [本指南](https://wiiu.hacks.guide/#/vwii-modding) 安装cIOS。 尝试在vWii上安装任何cIOS都将不起作用。
+如果你有 Wii U (vWii), 请按照 [本指南](https://wiiu.hacks.guide/#/vwii-modding) 安装cIOS。 尝试在vWii上安装其它cIOS都将不会工作。
 {: .notice--info}
 
-如果你有 Wii mini, 安装 [此cIOS](cios-mini)。 尝试在Wii mini上安装任何cIOS都将不起作用。
+如果你有 Wii mini, 安装 [此cIOS](cios-mini)。 尝试在Wii mini上安装其它何cIOS都将不起作用。
 {: .notice--info}
 
 #### 你需要的是
@@ -63,11 +63,11 @@ Select cIOS version: 65535
 #### 故障排除
 
 {% capture bruh %}
-虽然大多数游戏都应该使用默认值，但某些游戏需要使用特定的cIOS才能运行，或使用游戏中的某些功能。<br> 示例包括:
-* 在《动物森友会: 城市大家庭》中使用键盘
-* 运行 SpongeBob's Boating Bash。
+尽管大多数游戏可以使用默认设置，但某些游戏需要使用特定的cIOS才能运行或使用游戏中的某些功能。<br> 示例包括:
+* 在《动物森友会: 城市大家庭》中使用键盘。
+* 运行 SpongeBob's Boating Bash.
 
-可以 [**在此处**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> 找到更全面(尽管仍不完善)的列表，若要更改特定游戏的cIOS，请按以下说明操作:
+可以[**在此处**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)找到更全面(尽管仍不完善)的列表<br> 若要更改特定游戏的cIOS，请按以下说明操作:
 {% endcapture %}
 <div class="notice--warning">{{ bruh | markdownify }}</div>
 
