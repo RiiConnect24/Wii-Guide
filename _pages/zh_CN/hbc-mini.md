@@ -12,7 +12,7 @@ title: "Homebrew Channel - 仅供Wii mini"
 HBC是你可以启动自制应用的地方。
 
 #### 步骤
-本页面**只计划**给Wii mini用户。 如果你使用的是Wii，请前往[这个教程](hbc)。
+本页面**仅**适用于Wii mini. 如果您使用Wii，请访问[此指南](hbc)。
 {: .notice--info}
 
 虽然可以在Wii mini上安装BootMii，但您需要焊接SD卡槽。 这要求您使用特殊工具打开Wii mini，所以不推荐。
