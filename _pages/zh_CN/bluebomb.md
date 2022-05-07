@@ -27,7 +27,7 @@ BlueBomb是一种利用Wii和Wii Mini的蓝牙库中漏洞的破解程序。 尽
     - 对于64位设备建议使用LTS，因为它最稳定，但是最新版本也会正常工作。
   - 您可以将[Linux Live安装到U盘](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview)而不是电脑。
 - 一个蓝牙适配器。
-  - 内部的蓝牙适配器也可以用。
+  - 自带的蓝牙适配器也可以用。
   - 如果你没有，去买一个并且确定它能适配Linux。
 - 一个U盘，已被格式化为FAT32。
   - 它不能和你刷了Linux用的U盘是同一个。
@@ -36,7 +36,7 @@ BlueBomb是一种利用Wii和Wii Mini的蓝牙库中漏洞的破解程序。 尽
 1. 从[BootMii网站](https://bootmii.org/download/)下载HackMii installer。
 - （如果尝试修复砖机，还应该将要使用的工具复制到/apps/）
 1. 提取，然后把`boot.elf`放在U盘的根目录。
-- (即使是Wii mini,bootmini.elf也**不会** 工作, 其目的完全不同且不相关。 在所有情况下使用boot.elf)。 1. 将U盘连接到主机。 Wii mini的USB接口在背面。 普通Wii请使用下面的接口。 (竖置时使用右边的接口)。 1. 打开主机并进入设置。 在右上角，您将看到一个4个字的代码，如下图所示。 此代码是您的Wii菜单版本，记下来因为您之后会用到。 然后，关闭主机。 ![系统菜单版本](/images/Wii/SystemMenuVersion.png)
+- (即使是Wii mini,bootmini.elf也**不会**工作, 其目的完全不同且无关。 在所有情况下使用boot.elf)。 1. 将U盘连接到主机。 Wii mini的USB接口在背面。 普通Wii请使用下面的接口。 (竖置时使用右边的接口)。 1. 打开主机并进入设置。 在右上角，您将看到一个4个字的代码，如下图所示。 此代码是您的Wii菜单版本，记下来因为您之后会用到。 然后，关闭主机。 ![系统菜单版本](/images/Wii/SystemMenuVersion.png)
 1. 启动你的Linux环境，并且确定你已经连接到互联网。
 1. 打开Terminal。
 1. 执行以下命令：
