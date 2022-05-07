@@ -1,5 +1,5 @@
 ---
-title: "Updating Wii Menu to v4.3"
+title: "更新Wii菜单到4.3版本"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -7,41 +7,41 @@ title: "Updating Wii Menu to v4.3"
 如果你需要有关本教程的任何帮助, 请加入[RiiConnect24 Discord服务器](https://discord.gg/rc24) (推荐)或 [发送电子邮件到 support@riiconnect24.net](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
-This tutorial will explain how to update your Wii Menu to version 4.3, as you can no longer use the updater built into the Wii Menu since the servers are no longer up.
+本教程将告诉您如何将Wii菜单更新到4.3版本，由于Wii服务器不再工作，您无法使用Wii菜单内置的更新程序。
 
 #### 你需要的是
 * 一张SD卡或U盘
-* A computer with Windows on it
+* 运行Windows的电脑
 * [IOS58 Installer](https://oscwii.org/library/app/ios58-installer)
 * [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest)
 * [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
-If you don't have a Windows computer, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+如果您没有Windows电脑，请加入[RiiConnect24 Discord 服务器](https://discord.gg/rc24) (推荐) 或 [发邮件到support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 #### 步骤
 
 ##### 第一章 - 下载
 
-Your Wii must be modded in order to perform this. If it isn't, then it's best to follow [the guide](get-started) first before doing this.
+您的Wii必须破解才能执行此操作。 如果没有，最好先跟随[此指南](get-started)来破解。
 {: .notice--info}
 
 为防止变砖，[请安装 Priiloader](priiloader)。 同时，安装[BootMii](bootmii) (早期Wii安装到boot2，否则IOS)。 安装变砖保护并遵守指南可以防止变砖。 如果您没有安装PRIILOADER和BOOTMII请不要继续!
 {: .notice--danger}
 
-1. Extract the .zip file for NUS Downloader vWii and open the application.
-2. Go to `Database...` > `System` > `0000000100000002 - System Menu` and select the version corresponding to your region as shown in the table below.
-3. Make sure `Pack WAD` is checked.
-4. Press `Start NUS Download!`.
-5. Open the `titles` -> `0000000100000002` -> (Wii Menu version) and copy the .wad file to a folder called `wad` on your SD Card or USB drive.
-6. (If you have [RiiConnect24](riiconnect24), you can skip this step) Repeat steps 2-5 with `IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
+1. 解压NUS Downloader vWii.zip 然后打开应用。
+1. 转到`Database...` > `System` > `0000000100000002 - System Menu` 并选择与您所在区域相同的版本，如下表所示。
+1. 确保已勾选`Pack WAD`.
+1. 按`Start NUS Download!`.
+1. 打开`titles` -> `0000000100000002` -> (Wii菜单版本)并将.wad文件复制到SD卡或U盘的`wad`文件夹。
+1. (如果您有[RiiConnect24](riiconnect24), 您可以跳过此步) 重复步骤2-5并替换为`IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
 
-| 区域     | Wii Menu version |
-| ------ | ---------------- |
-| Japan  | v512 (4.3J)      |
-| USA    | v513 (4.3U)      |
-| Europe | v514 (4.3E)      |
-| Korea  | v518 (4.3K)      |
+| 区域 | Wii 菜单版本    |
+| -- | ----------- |
+| 日本 | v512 (4.3J) |
+| 美国 | v513 (4.3U) |
+| 欧洲 | v514 (4.3E) |
+| 韩国 | v518 (4.3K) |
 
 ##### 第二章 - 安装
 
@@ -49,13 +49,14 @@ Your Wii must be modded in order to perform this. If it isn't, then it's best to
 {: .notice--info}
 
 1. 将SD卡或U盘插入Wii。
-2. 启动Wii上的Homebrew Channel。
-3. 启动Wii Mod Lite。
-4. 使用Wii遥控器上的十字键，移动到`WAD Manager`， 然后移动到`wad` 文件夹。
-5. Press A to install the Wii Menu WAD (and the IOS80 WAD if necessary).
-6. 安装成功后，按HOME按钮返回Homebrew Channel。
-7. Launch IOS58 Installer.
-8. Follow the instructions to install IOS58.
+1. 启动Wii上的Homebrew Channel。
+1. 启动Wii Mod Lite。
+1. 使用Wii遥控器上的十字键，移动到`WAD Manager`， 然后移动到`wad` 文件夹。
+1. 按A安装IOS80. [`请确保安装成功，否则跳过。`]
+1. 按A安装Wii菜单 WAD.
+1. 安装成功后，按HOME按钮返回Homebrew Channel。
+1. 启动 IOS58 Installer.
+1. 按照说明安装IOS58.
 
-[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it.
+[继续安装Priiloader](priiloader)<br> Priiloader添加了一定程度的变砖保护，我们推荐它。
 {: .notice--info}
