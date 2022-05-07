@@ -85,7 +85,7 @@ WiiFlow的快速入门，Wii从U盘或SD卡玩游戏的USB Loader。
 
 ##### 一旦完成设置
 
-[WiiFloWiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFloWiki is a great resource with information about WiiFlow.
+[WiiFloWiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFloWiki在有关WiiFlow的信息中很有帮助。
 {: .notice--info}
 
 [继续 网站导览](site-navigation) 我们有许多你可能喜欢的其他教程。
