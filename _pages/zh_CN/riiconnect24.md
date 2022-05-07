@@ -43,9 +43,9 @@ title: "RiiConnect24"
 4. 按1选择"`Start`" 然后按`ENTER`确认选择。 (注意: 这些截图来自Windows修补程序。) ![RiiConnect24 修补程序 主屏幕](/images/RC24_Patcher/1.JPG)
 5. 选择您要修补的设备。 ![选择您的设备](/images/RC24_Patcher/2.JPG)
 6. 在本指南中，选择"`Install RiiConnect24 on your Wii`" ![安装 RiiConnect24](/images/RC24_Patcher/3.JPG)
-7. 选择"`Express (Recommended)`"。 它将为您提供所需的一切。 ![快速设置](/images/RC24_Patcher/4.JPG)
+7. 选择"`Express (Recommended)`". 它将为您提供所需的一切。 ![快速设置](/images/RC24_Patcher/4.JPG)
 8. 选择区域。 ![选择您的区域](/images/RC24_Patcher/5.JPG)
-9. 当您到这时，RiiConnect24 修补程序可以下载一些不常用的可选频道。 `[X]` 代表所选的选项。 如果您不感兴趣，按5和`ENTER`。 ![添加可选的频道](/images/RC24_Patcher/6.JPG)
+9. 当您到这时，RiiConnect24 修补程序可以下载一些不使用RiiConnect24的可选频道。 `[X]` 代表所选的选项。 如果您不感兴趣，按5和`ENTER`。 ![添加可选的频道](/images/RC24_Patcher/6.JPG)
 10. 将SD卡或U盘连接到电脑然后选择"`1`"。 ![启用复制到SD卡](/images/RC24_Patcher/7.JPG)
 11. 如果成功检测到您的设备，选择"`1`"。 如果没有，请确认SD卡或U盘上有名为`apps`的文件夹。 ![成功检测](/images/RC24_Patcher/8.JPG)
 12. 请耐心等待... ![正在打补丁!](/images/RC24_Patcher/9.JPG)
@@ -86,7 +86,7 @@ title: "RiiConnect24"
 6. 转到`更改设置`。
 7. 转到`自动获取DNS` (不是IP地址)，然后选择`否`然后选择 `高级设置`。
 8. 将`164.132.44.106`作为主要DNS。
-9. 将`1.1.1.1`作为次要DNS (如果有问题，试`8.8.8.8`)。
+9. 将`1.1.1.1`作为次要DNS (如果有问题，尝试`8.8.8.8`).
 10. 选择`确认`，然后选择`保存`。
 11. 选择`OK`进行连接测试。
 12. 如果连接测试成功，请选择`否`跳过Wii系统更新。
