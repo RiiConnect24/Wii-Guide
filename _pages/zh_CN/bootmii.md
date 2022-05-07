@@ -30,18 +30,18 @@ BootMii最重要的功能之一就是能备份和恢复Wii的NAND。 我们将�
     {: .notice--info}
 
 
-    如果一直黑屏并且光驱蓝灯闪烁，表示您丢失了SD卡上的BootMii文件。 下载 [此ZIP文件](https://static.hackmii.com/bootmii_sd_files.zip) 并将其解压到SD卡根目录，再试一次。
+    如果一直黑屏且光驱蓝灯闪烁，表示您丢失了SD卡上的BootMii文件。 下载 [此ZIP文件](https://static.hackmii.com/bootmii_sd_files.zip) 并将其解压到SD卡根目录，再试一次。
     {: .notice--warning}
 
 3. 选择设置按钮(带齿轮的图标)。
-4. 选择BackupMii按钮 (带有绿色箭头的图标，左侧的第一个图标)。
+4. 选择BackupMii按钮 (带有绿色箭头的图标，左侧起第一个图标)。
 - 将启动NAND备份。 您将在屏幕上看到进度。
 - "坏块"是正常的。 当您看到时不用担心。
 - 在这一步后，它会验证这个备份。 虽然推荐，但您可以按EJECT按钮跳过。 请注意，如果光驱里有光盘，按EJECT会同时弹出光盘。
 5. 当备份完全完成后，按任何按键退出NAND备份。
 6. 要退出BootMii，按下Back按钮（有箭头的那个）然后你可以按下Wii菜单按钮或者HBC按钮来退出。
 
-要从SD卡恢复NAND备份，你可以使用RestoreMii (带有红色箭头的图标，左侧的第二个图标) 这在您将Wii变砖的时候很有用。
+要从SD卡恢复NAND备份，你可以使用RestoreMii (带有红色箭头的图标，左侧起第二个图标). 这在您的Wii变砖时很有用。
 {: .notice--info}
 
 为确保您不会丢失文件, 建议将 `nand.bin` 和 `keys.bin` 从SD卡复制到电脑。
