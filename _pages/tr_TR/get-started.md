@@ -16,15 +16,15 @@ Bütün exploitler HackMii Yükleyicisi’ni çalıştırabilir ve hepsinin sonu
 Her ne kadar bu rehberi SD Karta sahip olmadan da takip edebilseniz de BootMii’yi kullanarak NAND yedeklemesi alamayacak ve bazı Homebrew uygulamalarına erişemeyeceksiniz.
 {: .notice--info}
 
-If your Wii Menu is not on version 4.3, use str2hax or FlashHax to mod your Wii. When you are finished following the guide, follow [the update guide](update) to update your Wii Menu to version 4.3.
+Wii menu sürümünüz 4.3 değil ise Wii'nizi modlamak için str2hax veya FlashHax kullanın. Rehberi bitirdiğinizde, Wii Menü'yü 4.3 sürümüne güncellemek için [güncelleme rehberi](update) 'ni takip edin.
 {: .notice--info}
 
-This guide is for the original Wii and Wii mini only (including the Wii Family Edition). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
+Bu rehber sadece orjinal Wii ve Wii mini için geçerlidir.(Wii Family Edition dahil). Wii U (vWii) üzerinde kullanmayınız! Wii U üzerine homebrew yüklemek istiyorsanız [bu rehberi takip edin](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### Kullanmak istediğiniz exploit’i seçin.
 
-These exploits are sorted by easiest to hardest difficulty of use.
+Bu metodlar en kolaydan zora göre sıralanmıştır.
 
 - [str2hax](str2hax) - Wii EULA kullanan exploit
     * İnternet bağlantısı ve DNS sunucusunun değişimini gerektirir.
