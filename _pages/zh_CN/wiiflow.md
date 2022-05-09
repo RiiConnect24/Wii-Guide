@@ -83,7 +83,7 @@ WiiFlow的快速入门，Wii从U盘或SD卡玩游戏的USB Loader。
 * Exit To - 让您退出到Wii菜单、HBC、neek2o、Priiloader和BootMii。
 * Settings - 将打开WiiFlow设置。
 
-##### 一旦完成设置
+##### 完成后的选项
 
 [WiiFloWiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFloWiki在有关WiiFlow的信息中很有帮助。
 {: .notice--info}
