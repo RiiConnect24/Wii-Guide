@@ -112,7 +112,7 @@ vWii上仅测试了RiiConnect24 主题页面。 其它主题可能与vWii不兼�
 
 ##### 恢复主题
 
-1. 启动Homebrew Channel。
+1. 启动Homebrew Channel.
 2. 启动MyMenuify并移动到theme文件夹。
 3. 选择第二节末尾复制到SD卡的.app，就像正在安装主题。
 4. 选择Install并等待完成。
