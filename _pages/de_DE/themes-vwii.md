@@ -1,5 +1,5 @@
 ---
-title: "Wii-Menü-Designs installieren"
+title: "Wii-Menü-Designs auf vWii installieren"
 ---
 
 {% include toc title="Inhaltsverzeichnis" %}
