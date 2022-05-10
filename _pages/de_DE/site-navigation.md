@@ -7,7 +7,7 @@ sitemap: false
 ![WiiTutorials](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
-**Vorgestellt**
+**Empfohlen**
 
 + [cIOS](cios)
 + [Kirby TV-Kanal](kirby-tv)
@@ -34,7 +34,7 @@ sitemap: false
 + [BlueBomb](bluebomb)
 * [BootMii-Sicherung](bootmii)
 + [cIOS](cios)
-+ [Mach und Mach nichts von Wii Modding](dosanddonts)
++ [Handlungsempfehlungen beim Wii Modding](dosanddonts)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
 + [Homebrew-Kanal](hbc)
@@ -46,10 +46,10 @@ sitemap: false
 **Homebrew**
 + [Verknüpfungen für Wii-Spiele erstellen](wiigsc)
 + [Wie man Kanäle (WADs) sichert](dump-wads)
-+ [Wie man Wii/GameCube-Spiele sichert](dump-games)
++ [Wie man GameCube/Wii-Spiele sichert](dump-games)
 + [RSSMii installieren](rssmii)
 + [Wii-Menü-Designs installieren](themes)
-+ [Wii-Menü-Designs installieren](themes-vwii)
++ [Wii-Menü-Designs auf vWii installieren](themes-vwii)
 + [Einen SysCheck durchführen](syscheck)
 + [RSSMii entfernen](rssmii-remove)
 + [RiiTag](riitag)
