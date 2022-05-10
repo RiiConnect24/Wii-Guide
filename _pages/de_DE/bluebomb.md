@@ -4,7 +4,7 @@ title: "BlueBomb"
 
 {% include toc title="Inhaltsverzeichnis" %}
 
-Es wird **dringend** empfohlen, **keine** Video-Anleitung zum Hacken deiner Wii mini-Konsole zu verwenden, da eine extrem große Chance dadurch besteht deine Konsole zu **Bricken**.
+Es wird **dringend** empfohlen, **keine** Video-Anleitung zum Hacken deiner Wii mini-Konsole zu verwenden, da hierdurch eine extrem große Chance besteht, deine Konsole zu **Bricken**.
 {: .notice--warning}
 
 Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [Wii mini Hacking-Discordserver](https://discord.gg/6ryxnkS) bei (empfohlen)
@@ -18,13 +18,13 @@ Für die originale Wii empfehlen wir dir nicht, BlueBomb zu verwenden, falls du 
 {: .notice--info}
 
 #### Abschnitt 1 - Voraussetzungen
-- Ein Linux-Computer
+- Ein Linux-System
   - Eine virtuelle Maschine kann funktionieren, wird aber aufgrund ihrer Komplexität beim Durchlaufen von Bluetooth nicht empfohlen. Wenn möglich, verwende bitte einen LiveUSB wie unten beschrieben.
   - Falls du einen Raspberry Pi besitzt, kannst du diesen stattdessen verwenden, weil dort Linux wahrscheinlich bereits installiert ist.
   - Das Windows Subsystem for Linux wird *nicht funktionieren*, da es keinen direkten Zugriff auf den Bluetooth-Adapter oder die USB-Ports hat.
   - Falls du kein Linux hast, ist [Ubuntu](https://ubuntu.com/download/desktop) die nutzerfreundlichste Option und kann auf Computern ausgeführt werden, auf denen Windows oder macOS läuft.
     - 32-Bit-Geräte erfordern [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
-    - Für 64-Bit-Geräte wird aufgrund der Stabilität eine LTS-Version empfohlen, aber die aktuellsten Versionen funktionieren ebenfalls.
+    - Für 64-Bit-Geräte wird aufgrund der Stabilität die LTS-Version empfohlen, aber die aktuellste Version funktioniert ebenfalls.
   - Du kannst [Linux auch auf ein USB](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) anstatt auf deinem Computer installieren.
 - Ein Bluetooth-Adapter.
   - Ein interner Bluetooth-Adapter wird funktionieren.
@@ -48,8 +48,8 @@ chmod +x bluebomb-helper.sh
 1. Der Helper beginnt dann mit dem Herunterladen der benötigten Dateien und wird dich über Informationen zu deiner Konsole befragen.
   - Falls du eine Wii mini ausgewählt hast, wirst du nach deiner Region gefragt. Diese kann über den letzten Buchstaben der Wii-Menü-Version ermittelt werden (`U` für **US-** und `E` für **PAL**-Modelle).
   - Falls du eine Wii ausgewählt hast, wirst du nach deiner Wii-Menü-Version gefragt (welche du in Schritt 4 herausgefunden hast)
-1. Schalte deine Konsole ein und verbinde **keine** Wii-Fernbedienungen.
-1. Drücke die Sync-Taste wiederholt, bis das Terminal `got connection handle` anzeigt. Dies kann mehrere Versuche benötigen, gib daher nicht auf.
+1. Schalte deine Konsole ein und verbinde **keine** Wii-Fernbedienungen mit ihr.
+1. Drücke den SYNCHRO-Knopf (SYNC.) wiederholt, bis das Terminal `got connection handle` anzeigt. Dies kann mehrere Versuche erfordern, gib also nicht auf.
 
 Stelle sicher, dass die Konsole sich in der Nähe des Computers befindet, welcher den Exploit ausführt, was idealerweise weniger als 1 Meter betragen sollte.
 {: .notice--info}
