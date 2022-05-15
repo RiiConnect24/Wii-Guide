@@ -30,11 +30,11 @@ title: "更新Wii菜单到4.3版本"
 {: .notice--danger}
 
 1. 解压NUS Downloader vWii.zip 然后打开应用。
-1. 转到`Database...` > `System` > `0000000100000002 - System Menu` 并选择与您所在区域相同的版本，如下表所示。
-1. 确保已勾选`Pack WAD`.
-1. 按`Start NUS Download!`.
-1. 打开`titles` -> `0000000100000002` -> (Wii菜单版本)并将.wad文件复制到SD卡或U盘的`wad`文件夹。
-1. (如果您有[RiiConnect24](riiconnect24), 您可以跳过此步) 重复步骤2-5并替换为`IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
+2. 转到`Database...` > `System` > `0000000100000002 - System Menu` 并选择与您所在区域相同的版本，如下表所示。
+3. 确保已勾选`Pack WAD`.
+4. 按`Start NUS Download!`.
+5. 打开`titles` -> `0000000100000002` -> (Wii菜单版本)并将.wad文件复制到SD卡或U盘的`wad`文件夹。
+6. (如果您有[RiiConnect24](riiconnect24), 您可以跳过此步) 重复步骤2-5并替换为`IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
 
 | 区域 | Wii 菜单版本    |
 | -- | ----------- |
@@ -49,14 +49,14 @@ title: "更新Wii菜单到4.3版本"
 {: .notice--info}
 
 1. 将SD卡或U盘插入Wii。
-1. 启动Wii上的Homebrew Channel。
-1. 启动Wii Mod Lite。
-1. 使用Wii遥控器上的十字键，移动到`WAD Manager`， 然后移动到`wad` 文件夹。
-1. 按A安装IOS80. [`请确保安装成功，否则跳过。`]
-1. 按A安装Wii菜单 WAD.
-1. 安装成功后，按HOME按钮返回Homebrew Channel。
-1. 启动 IOS58 Installer.
-1. 按照说明安装IOS58.
+2. 启动Wii上的Homebrew Channel。
+3. 启动Wii Mod Lite。
+4. 使用Wii遥控器上的十字键，移动到`WAD Manager`， 然后移动到`wad` 文件夹。
+5. 按A安装IOS80. [`请确保安装成功，否则跳过。`]
+6. Press A to install the Wii Menu WAD.7
+7. 安装成功后，按HOME按钮返回Homebrew Channel。
+8. 启动 IOS58 Installer.
+9. 按照说明安装IOS58.
 
 [继续安装Priiloader](priiloader)<br> Priiloader添加了一定程度的变砖保护，我们推荐它。
 {: .notice--info}
