@@ -30,11 +30,11 @@ To protect against bricks, [make sure you install Priiloader](priiloader). Also,
 {: .notice--danger}
 
 1. Extract the .zip file for NUS Downloader vWii and open the application.
-1. Go to `Database...` > `System` > `0000000100000002 - System Menu` and select the version corresponding to your region as shown in the table below.
-1. Make sure `Pack WAD` is checked.
-1. Press `Start NUS Download!`.
-1. Open the `titles` -> `0000000100000002` -> (Wii Menu version) and copy the .wad file to a folder called `wad` on your SD Card or USB drive.
-1. (If you have [RiiConnect24](riiconnect24), you can skip this step) Repeat steps 2-5 with `IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
+2. Go to `Database...` > `System` > `0000000100000002 - System Menu` and select the version corresponding to your region as shown in the table below.
+3. Make sure `Pack WAD` is checked.
+4. Press `Start NUS Download!`.
+5. Open the `titles` -> `0000000100000002` -> (Wii Menu version) and copy the .wad file to a folder called `wad` on your SD Card or USB drive.
+6. (If you have [RiiConnect24](riiconnect24), you can skip this step) Repeat steps 2-5 with `IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
 
 | Region | Wii Menu version |
 | ------ | ---------------- |
@@ -49,14 +49,14 @@ Gebruik de + als indicatie waar u zich bevindt.
 {: .notice--info}
 
 1. Put your SD card or USB drive in your Wii.
-1. Open het Homebrew Kanaal op uw Wii.
-1. Launch Wii Mod Lite.
-1. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
-1. Press A to install the IOS80. [`Make sure the installation is successful, otherwise abort.`]
-1. Press A to install the Wii Menu WAD.
-1. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
-1. Launch IOS58 Installer.
-1. Follow the instructions to install IOS58.
+2. Open het Homebrew Kanaal op uw Wii.
+3. Launch Wii Mod Lite.
+4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+5. Press A to install the IOS80. [`Make sure the installation is successful, otherwise abort.`]
+6. Press A to install the Wii Menu WAD.7
+7. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+8. Launch IOS58 Installer.
+9. Follow the instructions to install IOS58.
 
 [Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it.
 {: .notice--info}
