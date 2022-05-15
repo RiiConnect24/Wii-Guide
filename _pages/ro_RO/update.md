@@ -30,11 +30,11 @@ Pentru a te proteja împotriva brick-urilor, [asigură-te că instalezi Priiload
 {: .notice--danger}
 
 1. Extrage fișierul .zip pentru NUS Downloader vWii și deschide aplicația.
-1. Mergi la `Database...` > `System` > `0000000100000002 - System Menu` și alege versiunea corespondentă regiunii tale cum este arătat și în tabelul de mai jos.
-1. Asigură-te că `Pack WAD` este bifat.
-1. Apasă pe `Start NUS Download!`.
-1. Deschide `titles` -> `0000000100000002` -> (versiunea Meniului Wii) și copiază fișierul .wad într-un dosar numit `wad` pe Cardul tău SD sau unitatea ta USB.
-1. (Dacă ai [RiiConnect24](riiconnect24), poți sări peste acest pas) Repetă pașii 2-5 cu `IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
+2. Mergi la `Database...` > `System` > `0000000100000002 - System Menu` și alege versiunea corespondentă regiunii tale cum este arătat și în tabelul de mai jos.
+3. Asigură-te că `Pack WAD` este bifat.
+4. Apasă pe `Start NUS Download!`.
+5. Deschide `titles` -> `0000000100000002` -> (versiunea Meniului Wii) și copiază fișierul .wad într-un dosar numit `wad` pe Cardul tău SD sau unitatea ta USB.
+6. (Dacă ai [RiiConnect24](riiconnect24), poți sări peste acest pas) Repetă pașii 2-5 cu `IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
 
 | Regiune | Versiunea Meniului Wii |
 | ------- | ---------------------- |
@@ -49,14 +49,14 @@ Vei folosi +Control Pad-ul pentru a utiliza această unealtă.
 {: .notice--info}
 
 1. Introdu cardul tău SD sau unitatea ta USB în Wii.
-1. Pornește Homebrew Channel pe Wii.
-1. Lansează Wii Mod Lite.
-1. Folosind +Control Pad-ul pe Wii Remote-ul tău, navighează la `WAD Manager`, apoi du-te la dosarul `wad`.
-1. Press A to install the IOS80. [`Make sure the installation is successful, otherwise abort.`]
-1. Press A to install the Wii Menu WAD.
-1. După ce au fost instalate cu succes, apasă Butonul HOME pentru a ieși înapoi la Homebrew Channel.
-1. Launch IOS58 Installer.
-1. Follow the instructions to install IOS58.
+2. Pornește Homebrew Channel pe Wii.
+3. Lansează Wii Mod Lite.
+4. Folosind +Control Pad-ul pe Wii Remote-ul tău, navighează la `WAD Manager`, apoi du-te la dosarul `wad`.
+5. Press A to install the IOS80. [`Make sure the installation is successful, otherwise abort.`]
+6. Press A to install the Wii Menu WAD.7
+7. După ce au fost instalate cu succes, apasă Butonul HOME pentru a ieși înapoi la Homebrew Channel.
+8. Launch IOS58 Installer.
+9. Follow the instructions to install IOS58.
 
 [Continuă la Instalarea Priiloader](priiloader)<br> Priiloader adaugă un nivel de protecție anti-brick, și îl recomandăm.
 {: .notice--info}
