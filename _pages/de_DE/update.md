@@ -30,11 +30,11 @@ Um sicher vor bricks zu sein, [stell sicher, dass du Priiloader installierst](pr
 {: .notice--danger}
 
 1. Entpacken Sie die .zip Datei für NUS Downloader vWii und öffnen Sie die Anwendung.
-1. Gehe zur `Datenbank...` > `System` > `0000000100000002 - Systemmenü` und wählen Sie die Version aus, die Ihrer Region entspricht, wie in der unten stehenden Tabelle angezeigt.
-1. Stelle sicher, dass "`Pack WAD`" aktiviert ist.
-1. Drücke `Start NUS Download!`.
-1. Öffne `Titel` -> `0000000100000002` -> (Wii Menu Version) und kopiere die .wad Datei in einen Ordner namens `wad` auf Ihrer SD-Karte oder Ihrem USB-Laufwerk.
-1. (Wenn du [RiiConnect24 hast](riiconnect24), können Sie diesen Schritt überspringen) Wiederholen Sie Schritte 2-5 mit `IOS` -> `0000000100000050 - IOS80` -> `Aktuelle Version`.
+2. Gehe zur `Datenbank...` > `System` > `0000000100000002 - Systemmenü` und wählen Sie die Version aus, die Ihrer Region entspricht, wie in der unten stehenden Tabelle angezeigt.
+3. Stelle sicher, dass "`Pack WAD`" aktiviert ist.
+4. Drücke `Start NUS Download!`.
+5. Öffne `Titel` -> `0000000100000002` -> (Wii Menu Version) und kopiere die .wad Datei in einen Ordner namens `wad` auf Ihrer SD-Karte oder Ihrem USB-Laufwerk.
+6. (Wenn du [RiiConnect24 hast](riiconnect24), können Sie diesen Schritt überspringen) Wiederholen Sie Schritte 2-5 mit `IOS` -> `0000000100000050 - IOS80` -> `Aktuelle Version`.
 
 | Region | Wii Menü Version |
 | ------ | ---------------- |
@@ -49,14 +49,14 @@ Die Bedienung erfolgt über das Steuerkreuz.
 {: .notice--info}
 
 1. Verbinde deine SD-Karte bzw. dein USB-Laufwerk mit deiner Wii.
-1. Starte den Homebrew-Kanal auf deiner Wii.
-1. Starte Wii Mod Lite.
-1. Mithilfe der rechten Steuerkreuztaste auf deiner Wii-Fernbedienung, wähle `WAD Manager` und wähle dann den `wad`-Ordner.
-1. Drücke A um das ISO80 zu installieren. [`Stelle sicher, dass die Installation erfolgreich ist, brich ansonsten die Installation ab.`]
-1. Drücke A, um das Wii Menü-WAD zu installieren.
-1. Nach erfolgreicher Installation drücke den Home-Knopf um zum Homebrew-Kanal zurückzukehren.
-1. Starte den ISO58 Installer.
-1. Folge den Anweisungen um das ISO58 zu installieren.
+2. Starte den Homebrew-Kanal auf deiner Wii.
+3. Starte Wii Mod Lite.
+4. Mithilfe der rechten Steuerkreuztaste auf deiner Wii-Fernbedienung, wähle `WAD Manager` und wähle dann den `wad`-Ordner.
+5. Drücke A um das ISO80 zu installieren. [`Stelle sicher, dass die Installation erfolgreich ist, brich ansonsten die Installation ab.`]
+6. Press A to install the Wii Menu WAD.7
+7. Nach erfolgreicher Installation drücke den Home-Knopf um zum Homebrew-Kanal zurückzukehren.
+8. Starte den ISO58 Installer.
+9. Folge den Anweisungen um das ISO58 zu installieren.
 
 [Fahre fort mit der Priiloader Installation](priiloader)<br> Priiloader fügt ein Schutzniveau hinzu, und wir empfehlen ihn.
 {: .notice--info}
