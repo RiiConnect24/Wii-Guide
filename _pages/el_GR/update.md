@@ -53,7 +53,7 @@ To protect against bricks, [make sure you install Priiloader](priiloader). Also,
 3. Launch Wii Mod Lite.
 4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 5. Press A to install the IOS80. [`Make sure the installation is successful, otherwise abort.`]
-6. Press A to install the Wii Menu WAD.7
+6. Press A to install the Wii Menu WAD.
 7. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 8. Launch IOS58 Installer.
 9. Follow the instructions to install IOS58.
