@@ -53,7 +53,7 @@ To protect against bricks, [make sure you install Priiloader](priiloader). Also,
 3. Wii Mod Lite를 실행하세요.
 4. Wii 리모컨의 +컨트롤 패드를 사용하여, `WAD Manager`를 찾으세요. 그 뒤 `wad` 폴더로 이동하세요.
 5. Press A to install the IOS80. [`Make sure the installation is successful, otherwise abort.`]
-6. Press A to install the Wii Menu WAD.7
+6. Press A to install the Wii Menu WAD.
 7. 설치가 완료되고 나면, HOME 버튼을 눌러 홈브루 런처로 되돌아가세요.
 8. Launch IOS58 Installer.
 9. Follow the instructions to install IOS58.
