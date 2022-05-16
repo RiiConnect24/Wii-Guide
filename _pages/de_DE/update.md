@@ -53,7 +53,7 @@ Die Bedienung erfolgt über das Steuerkreuz.
 3. Starte Wii Mod Lite.
 4. Mithilfe der rechten Steuerkreuztaste auf deiner Wii-Fernbedienung, wähle `WAD Manager` und wähle dann den `wad`-Ordner.
 5. Drücke A um das ISO80 zu installieren. [`Stelle sicher, dass die Installation erfolgreich ist, brich ansonsten die Installation ab.`]
-6. Press A to install the Wii Menu WAD.7
+6. Press A to install the Wii Menu WAD.
 7. Nach erfolgreicher Installation drücke den Home-Knopf um zum Homebrew-Kanal zurückzukehren.
 8. Starte den ISO58 Installer.
 9. Folge den Anweisungen um das ISO58 zu installieren.
