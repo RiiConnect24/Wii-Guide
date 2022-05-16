@@ -53,7 +53,7 @@ You use the +Control Pad to use this tool.
 3. Launch Wii Mod Lite.
 4. Usando o +Control Pad no seu Controle Remoto do Wii, navegue para `WAD Manager`, depois navegue até a pasta `wad`.
 5. Press A to install the IOS80. [`Make sure the installation is successful, otherwise abort.`]
-6. Press A to install the Wii Menu WAD.7
+6. Press A to install the Wii Menu WAD.
 7. Depois que eles forem instalados com sucesso, pressione o botão HOME para sair para o Homebrew Channel.
 8. Launch IOS58 Installer.
 9. Follow the instructions to install IOS58.
