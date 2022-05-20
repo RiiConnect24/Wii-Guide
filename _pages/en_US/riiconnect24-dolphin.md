@@ -33,6 +33,10 @@ If you have Dolphin already installed, skip to Section II
 3. Start Dolphin
 4. Press on `Tools` -> `Perform Online System Update` -> Choose your region
 ![Perform Online System Update](/images/Dolphin_RC24/1.jpg)
+
+If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii) instead of installing the Wii System menu via this method.
+{: .notice--info}
+
 ##### Section II - Installing RiiConnect24
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'windows')">Windows</button>
