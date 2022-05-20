@@ -49,7 +49,7 @@ chmod +x bluebomb-helper.sh
   - Falls du eine Wii mini ausgewählt hast, wirst du nach deiner Region gefragt. Diese kann über den letzten Buchstaben der Wii-Menü-Version ermittelt werden (`U` für **US-** und `E` für **PAL**-Modelle).
   - Falls du eine Wii ausgewählt hast, wirst du nach deiner Wii-Menü-Version gefragt (welche du in Schritt 4 herausgefunden hast)
 1. Schalte deine Konsole ein und verbinde **keine** Wii-Fernbedienungen mit ihr.
-1. Drücke den SYNCHRO-Knopf (SYNC.) wiederholt, bis das Terminal `got connection handle` anzeigt. Dies kann mehrere Versuche erfordern, gib also nicht auf.
+1. Drücke wiederholt den SYNCHRO-Knopf (SYNC.), bis das Terminal `got connection handle` anzeigt. Dies kann mehrere Versuche erfordern, gib also nicht auf.
 
 Stelle sicher, dass die Konsole sich in der Nähe des Computers befindet, welcher den Exploit ausführt, was idealerweise weniger als 1 Meter betragen sollte.
 {: .notice--info}
