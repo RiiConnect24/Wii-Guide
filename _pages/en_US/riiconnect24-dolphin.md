@@ -33,10 +33,6 @@ If you have Dolphin already installed, skip to Section II
 3. Start Dolphin
 4. Press on `Tools` -> `Perform Online System Update` -> Choose your region
 ![Perform Online System Update](/images/Dolphin_RC24/1.jpg)
-
-Performing Online System Updates is [not currently possible in Dolphin](https://forums.dolphin-emu.org/Thread-perform-online-system-update?pid=524828#pid524828). You must use a [NAND dump from a real Wii](bootmii).
-{: .notice--warning}
-
 ##### Section II - Installing RiiConnect24
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'windows')">Windows</button>
