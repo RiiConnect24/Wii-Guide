@@ -34,7 +34,7 @@ If you have Dolphin already installed, skip to Section II
 4. Press on `Tools` -> `Perform Online System Update` -> Choose your region
 ![Perform Online System Update](/images/Dolphin_RC24/1.jpg)
 
-If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii) instead of installing the Wii System menu via this method.
+If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii) instead of installing the Wii System menu via this method. See [this page](https://wiki.dolphin-emu.org/index.php?title=NAND_Usage_Guide) for more information.
 {: .notice--info}
 
 ##### Section II - Installing RiiConnect24
@@ -85,7 +85,7 @@ If you choose to run it on startup, you don't have to do anything. If you want t
 7. Select `Custom`.
 ![Select Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
 8. Press `1` to select your region and only enable 5th option. Press `6` to start patching.
-9. After it's done, there will a be a `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` file in WAD folder next to RiiConnect24Patcher.bat
+9. After it's done, there will a be a `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` file in WAD folder next to `RiiConnect24Patcher.sh`
 10. In Dolphin, press `Tools` and then `Install WAD`, and select the `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
 
 </div>
