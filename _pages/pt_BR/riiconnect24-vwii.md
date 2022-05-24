@@ -19,7 +19,7 @@ Como certos recursos encontrados no Wii original não estão presentes no vWii, 
 Nós **NÃO** somos responsáveis se você brickar, ou danificar seu console de qualquer forma. Se você seguir este guia exatamente, não deve ter nenhum problema.
 {: .notice--warning}
 
-**NÃO** performe este guia em qualquer outro console que não seja o vWii (Wii Virtual no Wii U). Se você estiver procurando por instruções para um Nintendo Wii, utilize [wii.guide/riiconnect24](riiconnect24). Se você gostaria de realizar este guia no emulador Dolphin, use [wii.guide/riiconnect24-dolphin](/riiconnect24-dolphin)
+**NÃO** performe este guia em qualquer outro console que não seja o vWii (Wii Virtual no Wii U). If you're looking for instructions for a Nintendo Wii, use [this guide](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [this guide](riiconnect24-dolphin) instead.
 {: .notice--warning}
 
 #### Você precisará de
