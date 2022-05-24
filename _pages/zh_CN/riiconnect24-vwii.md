@@ -19,7 +19,7 @@ VWii(Wii U上的虚拟Wii)安装[RiiConnect24](https://rc24.xyz)指南:CMOC/MCC�
 如果您的主机变砖或损坏，我们**概不**负责。 如果您完全遵循此指南，您不会有任何问题。
 {: .notice--warning}
 
-**不要**在除 vWii (Wii U上的虚拟Wii) 以外的主机上使用本指南。 如果你在寻找有关任天堂Wii的教程，请使用[wii.guide/riiconnect24](riiconnect24)。 如果你想在Dolphin模拟器上使用，请使用 [wii.guide/riiconnect24-dolphin](/riiconnect24-dolphin)。
+**不要**在除 vWii (Wii U上的虚拟Wii) 以外的主机上使用本指南。 If you're looking for instructions for a Nintendo Wii, use [this guide](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [this guide](riiconnect24-dolphin) instead.
 {: .notice--warning}
 
 #### 你需要
