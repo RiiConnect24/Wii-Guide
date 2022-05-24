@@ -19,7 +19,7 @@ Da gewisse Funktionen der originalen Wii nicht in der vWii enthalten sind, könn
 Wir sind **NICHT** verantwortlich, falls du deine Konsole auf irgendeine Weise bricken oder beschädigen solltest. Wenn du diese Anleitung genau befolgst, solltest du keine Probleme haben.
 {: .notice--warning}
 
-Verwende diese Anleitung **NICHT** auf irgendeiner anderen Konsole als der vWii (Wii-Modus auf der Wii U). Falls du nach einer Anleitung für die Nintendo Wii suchst, verwende [wii.guide/riiconnect24](riiconnect24). Wenn du diese Anleitung im Dolphin-Emulator verwenden möchtest, benutze [wii.guide/riiconnect24-dolphin](/riiconnect24-dolphin)
+Verwende diese Anleitung **NICHT** auf irgendeiner anderen Konsole als der vWii (Wii-Modus auf der Wii U). If you're looking for instructions for a Nintendo Wii, use [this guide](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [this guide](riiconnect24-dolphin) instead.
 {: .notice--warning}
 
 #### Voraussetzungen
