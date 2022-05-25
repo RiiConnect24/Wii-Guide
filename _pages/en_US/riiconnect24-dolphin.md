@@ -40,7 +40,7 @@ If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii)
 ##### Section II - Installing RiiConnect24
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'windows')">Windows</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">Unix</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'unix')">Unix</button>
 
 <div id="windows" class="blanktabcontent" markdown="1">
 1. Run the `RiiConnect24Patcher.bat` that you downloaded [here](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
