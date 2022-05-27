@@ -36,27 +36,27 @@ Per proteggersi dal brick della console, [assicurati di installare Priiloader](p
 5. Apri `titles` -> `0000000100000002` -> (versione del Menu Wii) e copia il file .wad in una cartella chiamata `wad` sulla scheda SD o unità USB.
 6. (Se hai [RiiConnect24](riiconnect24), puoi saltare questo passaggio) Ripeti i passi 2-5 con `IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
 
-| Region | Wii Menu version |
-| ------ | ---------------- |
-| Japan  | v512 (4.3J)      |
-| USA    | v513 (4.3U)      |
-| Europe | v514 (4.3E)      |
-| Korea  | v518 (4.3K)      |
+| Region       | Versione del Menu Wii |
+| ------------ | --------------------- |
+| Giapponese   | v512 (4.3J)           |
+| Statunitense | v513 (4.3U)           |
+| Europea      | v514 (4.3E)           |
+| Coreana      | v518 (4.3K)           |
 
 ##### Sezione 2 - Installare
 
-Si usa il +Control Pad per usare questo strumento.
+Userai il tasto + del tuo controller/Wiimote per usare questo tool.
 {: .notice--info}
 
-1. Metti la tua scheda SD o il tuo dispositivo USB nella tua WIi.
-2. Carica il Canale Homebrew sulla tua Wii.
+1. Metti la tua scheda SD o il tuo dispositivo USB nel tuo WIi.
+2. Carica il Canale Homebrew sul tuo Wii.
 3. Avvia Wii Mod Lite.
-4. Usando ul tuo +Control Pad sul telecomando Wii, naviga su `WAD Manager`, e poi naviga sulla cartella `wad`.
-5. Press A to install the IOS80. [`Make sure the installation is successful, otherwise abort.`]
-6. Press A to install the Wii Menu WAD.
-7. Dopo che ha installato con successo, premi il tasto HOME per tornare all'Hombrew Channel.
-8. Launch IOS58 Installer.
-9. Follow the instructions to install IOS58.
+4. Usando il tasto + sul telecomando Wii, naviga su `WAD Manager`, e poi naviga sulla cartella `wad`.
+5. Premi A per installare IOS80. [`Assicurati che l'installazione sia riuscita, altrimenti interrompi.`]
+6. Premere A per installare il WAD del tuo Menu Wii.
+7. Dopo che ha installato con successo, premi il tasto HOME per tornare al Canale Homebrew.
+8. Avvia IOS58 Installer.
+9. Seguire le istruzioni a schermo per installare l'IOS58.
 
-[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it.
+[Continue con l'installazione di Priiloader](priiloader)<br> Priiloader aggiunge un livello in più per la protezione del brick della console, la consigliamo.
 {: .notice--info}
