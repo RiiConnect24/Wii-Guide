@@ -53,7 +53,7 @@ title: "更新Wii菜单到4.3版本"
 3. 启动Wii Mod Lite。
 4. 使用Wii遥控器上的十字键，移动到`WAD Manager`， 然后移动到`wad` 文件夹。
 5. 按A安装IOS80. [`请确保安装成功，否则跳过。`]
-6. Press A to install the Wii Menu WAD.
+6. 按A以安装Wii菜单 WAD.
 7. 安装成功后，按HOME按钮返回Homebrew Channel。
 8. 启动 IOS58 Installer.
 9. 按照说明安装IOS58.
