@@ -26,7 +26,7 @@ Jos sinulla on BootMii asennettuna boot2:ena, sinun täytyy käynnistää BootMi
 1. Käynnistä Homebrew Channel.
 2. Paina HOME-nappia, sitten valitse "Launch BootMii".
 
-    BootMiissa ei voi navigoida Wii Remotea käyttämällä. Sinun täytyy käyttää konsolin POWER- ja RESET-nappeja, tai porttiin 1 liitettyä GameCube-ohjainta. Navigoidaksesi asetusten välillä, paina Wiisi POWER-nappia (tai GameCube-ohjaimen ristiohjainta oikealle). To select an option, press RESET on your Wii or A on your GameCube controller.
+    BootMiissa ei voi navigoida Wii Remotea käyttämällä. Sinun täytyy käyttää konsolin POWER- ja RESET-nappeja, tai porttiin 1 liitettyä GameCube-ohjainta. To navigate between options, press POWER on your Wii (or left/right on the +Control Pad on a GameCube controller). To select an option, press RESET on your Wii or A on your GameCube controller.
     {: .notice--info}
 
 
@@ -37,7 +37,7 @@ Jos sinulla on BootMii asennettuna boot2:ena, sinun täytyy käynnistää BootMi
 4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left).
 - NAND-varmuuskopiointi alkaa. Voit seurata edistymistä näytöltä.
 - "Bad Blockit" ovat tavallisia. Älä huoli nähdessäsi muutamia NAND-varmuuskopiossa.
-- Tämän vaiheen jälkeen se tarkistaa varmuuskopion. Vaikka se on suositeltavaa, sen voi ohittaa painamalla Wiin EJECT-nappia.
+- Tämän vaiheen jälkeen se tarkistaa varmuuskopion. Vaikka se on suositeltavaa, sen voi ohittaa painamalla Wiin EJECT-nappia. Note that if you have a disc inserted in the disc drive, pressing EJECT will also eject the disc.
 5. Kun varmuuskopio on täysin valmis, poistu NAND-varmuuskopionäytöltä painamalla mitä tahansa nappia.
 6. Poistuaksesi BootMiista, paina Back-nappia (nuolen kuvalla) ja sitten voit painaa joko Wii Menu -nappia tai Homebrew Channel -nappia poistuaksesi minne haluat.
 
