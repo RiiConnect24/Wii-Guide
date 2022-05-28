@@ -1,5 +1,5 @@
 ---
-title: "FAQ"
+title: "الأسئلة الأكثر شيوعاً"
 ---
 
 ![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
