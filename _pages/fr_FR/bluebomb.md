@@ -36,9 +36,9 @@ Pour la Wii originale, nous ne recommandons pas d'utiliser BlueBomb si vous avez
 1. Téléchargez le programme d'installation de HackMii depuis [le site Web de BootMii](https://bootmii.org/download/).
 - (Si vous essayez de réparer un brick, vous devez également copier l'application homebrew que vous souhaitez utiliser dans /apps/)
 1. Extrayez-le et placez le fichier `boot.elf` dans votre lecteur flash.
-- (Même pour une Wii mini, bootmini.elf ne fonctionnera **pas**, son but est entièrement différent et sans rapport. Utilisez boot.elf dans tous les cas). 1. Connectez le lecteur flash à la console. Pour une Wii mini, le port USB se trouve à l'arrière. Pour une Wii normale, utilisez le port inférieur (ou le port de droite si votre Wii est à la verticale). 1. Allumez votre console et accédez au menu des paramètres. Dans le coin supérieur droit, vous verrez un code à 4 caractères comme celui de l'image ci-dessous. Ce code est la version de votre menu Wii, notez-le car vous en aurez besoin plus tard. Ensuite, éteignez votre console. ![VersionMenuSystème](/images/Wii/SystemMenuVersion.png)
+- (Même pour une Wii mini, bootmini.elf ne fonctionnera **pas**, son but est entièrement différent et sans rapport. Utilisez boot.elf dans tous les cas). 1. Connectez le lecteur flash à la console. Pour une Wii mini, le port USB se trouve à l'arrière. Pour une Wii normale, utilisez le port inférieur (ou le port de droite si votre Wii est à la verticale). (ou le port de droite si votre Wii est à la verticale). 1. Allumez votre console et accédez au menu des paramètres. Dans le coin supérieur droit, vous verrez un code à 4 caractères comme celui de l'image ci-dessous. Ce code est la version de votre menu Wii, notez-le car vous en aurez besoin plus tard. Ensuite, éteignez votre console. ![VersionMenuSystème](/images/Wii/SystemMenuVersion.png)
 1. Démarrez votre distribution Linux et assurez-vous d'être connecté à Internet.
-1. Ouvrez le terminal
+1. Allumez votre console et **ne connectez pas** de télécommandes Wii.
 1. Exécutez les commandes suivantes :
 ```bash
 wget https://wii.guide/assets/files/bluebomb-helper.sh
