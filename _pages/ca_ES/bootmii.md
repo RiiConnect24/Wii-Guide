@@ -26,7 +26,7 @@ Si tens BootMii instal·lat com a boot2, hauràs d'executar BootMii reiniciant l
 1. Entreu al Homebrew Channel.
 2. Premeu el botó HOME i elegiu l'opció "Launch BootMii" (Llançar BootMii).
 
-    Navegar dins BootMii no és possible amb un mando Wii. Has d'utilitzar els botons POWER i RESET a la teva consola, o un control GameCube connectat al port 1. Per a navegar entre les opcions, prem el botó POWER a la teva Wii (o dreta a la +Crosseta de Control a un control de GameCube). Per a seleccionar qualsevol opció, prem RESET a la teva Wii o A al teu control GameCube.
+    Navegar dins BootMii no és possible amb un mando Wii. Has d'utilitzar els botons POWER i RESET a la teva consola, o un control GameCube connectat al port 1. To navigate between options, press POWER on your Wii (or left/right on the +Control Pad on a GameCube controller). Per a seleccionar qualsevol opció, prem RESET a la teva Wii o A al teu control GameCube.
     {: .notice--info}
 
 
@@ -37,7 +37,7 @@ Si tens BootMii instal·lat com a boot2, hauràs d'executar BootMii reiniciant l
 4. Prem l'opció de BackupMii (el que mostra la fletxa verda/la primera opció a la teva esquerra).
 - El procés de crear una còpia de seguretat de la NAND començarà. Pots veure el procés a la pantalla.
 - Els anomenats "Bad Blocks" són normals. No et preocupis si veus alguns a una còpia de la NAND.
-- Després, es verificarà la còpia de seguretat. Es recomana verificar la còpia, però pots saltar aquest pas si prems el botó EJECT de la teva Wii.
+- Després, es verificarà la còpia de seguretat. Es recomana verificar la còpia, però pots saltar aquest pas si prems el botó EJECT de la teva Wii. Note that if you have a disc inserted in the disc drive, pressing EJECT will also eject the disc.
 5. Quan la còpia s'ha completat, eixiu d'eixa pantalla prement qualsevol botó.
 6. Per a eixir de BootMii, premeu el botó "Back" (enrere) i després podeu polsar el Botò Wii o Homebrew Channel per a elegir a quin menú eixir.
 
@@ -47,5 +47,5 @@ Per a recuperar des d'una còpia de la NAND que està a la teva targeta SD, pots
 Per a estar segur que no aniràs a perdre els arxius, es recomana copiar `nand.bin` i `keys.bin` des de l'arreu de la teva targeta SD al teu ordinador.
 {: .notice--info}
 
-[Continuar amb la instal·lació de Priiloader](priiloader) Priiloader agrega un nivell de protecció contra brickejos. Nosaltres ho recomanem, especialment si sol vas poder instal·lar BootMii com a IOS.
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii as IOS.
 {: .notice--info}
