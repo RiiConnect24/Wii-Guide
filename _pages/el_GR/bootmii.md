@@ -26,7 +26,7 @@ If you have BootMii installed as boot2 you will need to launch BootMii by restar
 1. Ξεκινήστε το Homebrew Channel.
 2. Πατήστε το πλήκτρο HOME, και επιλέξτε "Εκκίνηση BootMii".
 
-    Navigating BootMii is not possible using a Wii Remote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. To navigate between options, press POWER on your Wii (or right on the +Control Pad on a GameCube controller). To select an option, press RESET on your Wii or A on your GameCube controller.
+    Navigating BootMii is not possible using a Wii Remote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. To navigate between options, press POWER on your Wii (or left/right on the +Control Pad on a GameCube controller). To select an option, press RESET on your Wii or A on your GameCube controller.
     {: .notice--info}
 
 
@@ -37,7 +37,7 @@ If you have BootMii installed as boot2 you will need to launch BootMii by restar
 4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left).
 - Το αντίγραφο ασφαλείας της μνήμης NAND θα ξεκινήσει. Μπορείτε να δείτε την πρόοδο στην οθόνη.
 - Τα "Bad Blocks" είναι φυσιολογικά. Don't worry when you see some on a NAND backup.
-- Μετά από αυτό το βήμα, το αντίγραφο θα επαληθευτεί. Ενώ προτείνεται, μπορεί να παρακαμφθεί πατώντας το πλήκτρο EJECT στην κονσόλα σας.
+- Μετά από αυτό το βήμα, το αντίγραφο θα επαληθευτεί. Ενώ προτείνεται, μπορεί να παρακαμφθεί πατώντας το πλήκτρο EJECT στην κονσόλα σας. Note that if you have a disc inserted in the disc drive, pressing EJECT will also eject the disc.
 5. Όταν το αντίγραφο ολοκληρωθεί, βγείτε από την οθόνη αντιγράφου ασφαλείας πατώντας οποιοδήποτε κουμπί.
 6. Για να βγείτε από το BootMii, επιλέξτε την επιλογή Πίσω (αυτή με το βέλος) και ύστερα μπορείτε να επιλέξετε είτε την επιλογή Μενού Wii ή την επιλογή Homebrew Channel για να επιστρέψετε εκεί που επιθυμείτε.
 
