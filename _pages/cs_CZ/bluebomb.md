@@ -38,7 +38,7 @@ Máte-li v úmyslu instalovat Homebrew Channel a BootMii na původním Wii, nedo
 1. Extrahujte a umístěte soubor `boot.elf` do kořenového adresáře vašeho flash disku.
 - (Even for a Wii mini, bootmini.elf will **not** work, its purpose is entirely different and unrelated. Use boot.elf in all cases). 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright). 1. Turn on your console and navigate to the settings menu. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Spusťte Linux a ujistěte se, že jste připojeni k internetu.
-1. Spusťte terminál
+1. Zapněte konzoli a **ne**připojujte žádné Wii Remoty.
 1. Spusťte následující příkazy:
 ```bash
 wget https://wii.guide/assets/files/bluebomb-helper.sh
