@@ -4,7 +4,7 @@ title: "BlueBomb"
 
 {% include toc title="Table of Contents" %}
 
-It is **strongly** advised against using **any** video guide for hacking your Wii mini console, as there is an extremely large chance of **bricking** it.
+È **vivamente** consigliato di non usare **qualsiasi** video guida per moddare la tua Wii Mini, dato che c'è una'altissima probabilitá di **brickarla**.
 {: .notice--warning}
 
 Se hai bisogno di aiuto riguardo questo tutorial, unisciti a [the Wii Mini Hacking Discord server](https://discord.gg/6ryxnkS) (raccomandato)
@@ -12,7 +12,7 @@ Se hai bisogno di aiuto riguardo questo tutorial, unisciti a [the Wii Mini Hacki
 
 ![BlueBomb](/images/bluebomb.png)
 
-BlueBomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Although it is the only exploit that works for the Wii mini, BlueBomb can run on the original Wii as well. This exploit also enables recovery from certain bricks, such as a banner brick.
+BlueBomb è un exploit che usa una falla di sicurezza nelle librerie del Bluetooth della Wii e della Wii Mini. Nonostante sia l'unico exploit che funzioni sulla Wii Mini, BlueBomb funziona anche sulla Wii originale. This exploit also enables recovery from certain bricks, such as a banner brick.
 
 For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
 {: .notice--info}
@@ -38,7 +38,7 @@ For the original Wii, we do not recommend using BlueBomb if you intend to instal
 1. Estrailo e metti il file `boot.elf` nella tua chiavetta.
 - (Even for a Wii mini, bootmini.elf will **not** work, its purpose is entirely different and unrelated. Use boot.elf in all cases). 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright). 1. Turn on your console and navigate to the settings menu. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Avvia il tuo distro Linux, ed assicurati di essere connesso ad internet.
-1. Spegni la tua console e **non** collegare nessun telecomandi Wii.
+1. Accendi la tua console e **non** connettere nessun telecomando Wii.
 1. Esegui i seguenti comandi:
 ```bash
 wget https://wii.guide/assets/files/bluebomb-helper.sh
@@ -48,7 +48,7 @@ chmod +x bluebomb-helper.sh
 1. L'Helper scaricherà i file necessari, e chiederà informazioni sulla tua console.
   - Se hai selezionato una Wii mini ti verrà chiesta la tua regione. Questo può essere determinato dall'ultima lettera della versione del Menu Wii (`U` per **USA** ed `E` per modelli **PAL**).
   - Se hai selezionato una Wii ti verrà chiesto di dare la tua versione del menù Wii (Che abbiamo scoperto nello step 4)
-1. Accendi la tua console e **non** connettere nessun telecomando Wii.
+1. Spegni la tua console e **non** collegare nessun telecomandi Wii.
 1. Premi il pulsante Sync ripetutamente finché il terminale mostra `got connection handle`. Questo potrebbe richiedere numerosi tentativi, quindi non ti arrendere.
 
 Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
