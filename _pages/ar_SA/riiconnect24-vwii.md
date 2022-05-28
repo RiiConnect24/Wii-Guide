@@ -2,7 +2,7 @@
 title: RiiConnect24 vWii Guide
 ---
 
-{% include toc title="Table of Contents" %}
+{% تتضمن عنوان جدول المحتويات="جدول المحتويات" %}
 
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
