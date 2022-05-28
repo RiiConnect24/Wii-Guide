@@ -15,7 +15,7 @@ Vous avez besoin d'une **carte SD** pour créer une sauvegarde de la NAND en uti
 BootMii en tant que boot2 est recommandé, mais seulement disponible pour l'installation sur les premières Wiis. Sinon, il peut seulement être installé en tant qu'IOS.
 {: .notice--info}
 
-L'une des fonctions les plus importantes de BootMii est la possibilité de sauvegarder et de restaurer le stockage NAND de votre Wii. Nous allons voir comment effectuer une sauvegarde NAND. Vous pouvez ensuite restaurer à partir de cette sauvegarde pour n'importe quelle raison. C'est une bonne idée de faire une sauvegarde NAND régulièrement ou avant de faire quelque chose de risqué sur votre console (et si vous savez ce que vous faites, vous n'aurez pas à faire quelque chose de risqué).
+L'une des fonctions les plus importantes de BootMii est la possibilité de sauvegarder et de restaurer le stockage NAND de votre Wii. Nous allons voir comment effectuer une sauvegarde NAND. C'est une bonne idée de faire une sauvegarde NAND régulièrement ou avant de faire quelque chose de risqué sur votre console (et si vous savez ce que vous faites, vous n'aurez pas à faire quelque chose de risqué). Vous pouvez ensuite restaurer à partir de cette sauvegarde pour n'importe quelle raison.
 
 #### Ce dont vous avez besoin
 * Une carte SD avec au moins 512 Mo d'espace libre
@@ -26,7 +26,7 @@ Si vous avez installé BootMii en tant que boot2, vous devrez lancer BootMii en 
 1. Lancez la chaîne Homebrew.
 2. Appuyez sur le bouton HOME puis choisissez « Launch BootMii ».
 
-    La navigation dans BootMii n'est pas possible avec une télécommande Wii. Vous devez utiliser les boutons POWER et RESET de votre console, ou une manette GameCube branchée dans le port 1. Pour naviguer entre les options, appuyez sur la touche POWER de votre Wii (ou sur la touche droite de la croix directionnelle + d'une manette GameCube). Pour sélectionner une option, pressez RESET sur votre Wii ou A sur votre manette GameCube.
+    La navigation dans BootMii n'est pas possible avec une télécommande Wii. Vous devez utiliser les boutons POWER et RESET de votre console, ou une manette GameCube branchée dans le port 1. Pour sélectionner une option, pressez RESET sur votre Wii ou A sur votre manette GameCube. Pour naviguer entre les options, appuyez sur la touche POWER de votre Wii (ou sur la touche droite de la croix directionnelle + d'une manette GameCube).
     {: .notice--info}
 
 
@@ -37,7 +37,7 @@ Si vous avez installé BootMii en tant que boot2, vous devrez lancer BootMii en 
 4. Sélectionnez le bouton BackupMii (l'icône avec la flèche verte, c'est-à-dire la première icône à gauche).
 - Une sauvegarde de la NAND va démarrer. Vous pouvez voir la progression sur votre écran.
 - Les « mauvais blocks » (*bad blocks* en anglais) sont normaux. Ne vous inquiétez pas lorsque vous en voyez sur une sauvegarde de la NAND.
-- Après cette étape, l'outil va vérifier la sauvegarde. Bien que cela soit recommandé, vous pouvez sauter cette étape en appuyant sur le bouton « EJECT » de votre Wii.
+- Après cette étape, l'outil va vérifier la sauvegarde. Bien que cela soit recommandé, vous pouvez sauter cette étape en appuyant sur le bouton « EJECT » de votre Wii. Notez que si vous avez un disque inséré dans le lecteur de disque, appuyer sur EJECT éjectera également le disque.
 5. Lorsque la sauvegarde est entièrement terminée, quittez l'écran de sauvegarde de la NAND en appuyant sur n'importe quel bouton.
 6. Pour quitter BootMii, appuyez sur le bouton Back (celui avec la flèche), puis vous pouvez appuyer sur le bouton du menu Wii ou sur le bouton de la chaîne Homebrew pour sortir où vous voulez.
 
