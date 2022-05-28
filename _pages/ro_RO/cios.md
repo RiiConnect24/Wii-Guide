@@ -27,7 +27,7 @@ Asigură-te că dacă folosești un card SD, comutatorul de blocare este în poz
 
 ##### Secțiunea I - Descărcare
 
-1. Download d2x cIOS Installer and extract it to your SD card or USB drive.
+1. Descarcă d2x cIOS Installer și extrage-l în cardul tău SD sau unitatea ta USB.
 1. Introduce cardul tău SD sau unitatea ta USB în Wii, și pornește d2x cIOS Installer din Homebrew Channel.
 
 ##### Secțiunea II - Instalare
