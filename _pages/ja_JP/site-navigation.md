@@ -1,7 +1,7 @@
 ---
-title: "Site Navigation"
+title: "サイトナビゲーション"
 layout: single
-sitemap: false
+sitemap: いいえ
 ---
 
 ![WiiTutorials](/images/WiiTutorials.jpg)
@@ -11,7 +11,7 @@ sitemap: false
 
 + [cIOS](cios)
 + [Kirby TV Channel](kirby-tv)
-+ [RiiConnect24](riiconnect24)
++ [RiiConnect24](riiConnect24)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 {% endcapture %}
@@ -19,11 +19,11 @@ sitemap: false
 
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
-+ [RiiConnect24](riiconnect24)
++ [RiiConnect24](riiConnect24)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [WiiLink](wiilink)
-+ [Wiimmfi](wiimmfi)
++ [Wiimfi](wiimfi)
 + [Kirby TV Channel](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Deleting VFFs](deleting-vffs)
@@ -64,8 +64,8 @@ sitemap: false
 
 **Site**
 + [Home](/)
-+ [始めよう](get-started)
-+ [FAQ](faq)
++ [始めよう](はじめに)
++ [「よく尋ねられる質問」](faq)
 + [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
