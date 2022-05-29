@@ -29,14 +29,14 @@ Si tienes una version antigua de Priiloader o no lo tienes instalado, sigue [Est
 #### Instrucciones
 1. Sostén RESET cuando enciendas tu Wii (si tienes una Wii mini, conecta un teclado USB y sostén escape).
 2. Ve a `System Menu Hacks`.
-3. Asegurate de que el hack ` Wiimfi patch v4` esté activado.
+3. Asegurate de que el hack `Wiimfi patch v4` esté activado.
 4. Guarda cambios y sal.
 
 If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
 {: .notice--warning}
 
 ### Aplicación Hombrew para Discos
-MrBean35000vr (creador de CTGP-R, un paquete de contenido de Mario Kart Wii) creó el Parcheador de discos de Wiimmfi que te permite insertar un disco y parchearlo temporalmente para usar Wiimmfi. Sin embargo, necesitarás usar esta app cada vez que quieras iniciar el disco.
+MrBean35000vr (creador de CTGP-R, un paquete de contenido de Mario Kart Wii) creó el Parcheador de discos de Wiimmfi que te permite insertar un disco y parchearlo temporalmente para usar Wiimmfi.
 
 #### Requisitos
 * Una tarjeta SD o unidad USB
@@ -93,7 +93,7 @@ También es posible parchear juegos de WiiWare para jugarlos en Wiimmfi.
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Disponible para sólo para Windows)  
   **o puedes usar:**
 - [Parcheador de Wiiware](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (multiplataforma)
-- [Instalar WADs con Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+- [Instalar WADs con Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 [Si quieres saber como usar el parcheador dew Wiiware, haz clic aqui!](wiiwarepatcher)
 {: .notice--info}
