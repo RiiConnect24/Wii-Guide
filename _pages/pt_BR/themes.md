@@ -7,66 +7,66 @@ title: "Installing Wii Menu Themes"
 Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Are you tired of the boring, plain white theme on your Wii Menu, and want a cool theme instead? This tutorial will help you get a new theme for your Wii Menu!
+Você está cansado do tema chato e branco no seu Menu Wii e quer um tema legal? Este tutorial irá ajudá-lo a obter um novo tema para o seu Menu Wii!
 
-To protect against bricks, [make sure you install Priiloader](priiloader). Also, install [BootMii](bootmii) (as Boot2 if you have an early Wii, otherwise IOS). Installing brick protection along with following the guide correctly should keep you safe from bricks. DO NOT CONTINUE UNTIL YOU HAVE INSTALLED PRIILOADER AND BOOTMII!
+Para se proteger contra bricks, [certifique-se de instalar o Priiloader](priiloader). Além disso, instale [BootMii](bootmii) (como Boot2 se você tiver um modelo de Wii mais antigo, caso contrário IOS). Instalar proteção de bricks e seguir o guia corretamente deve mantê-lo seguro contra brick. NÃO CONTINUE COM O GUIA ATÉ VOCÊ TER INSTALADO PRIILOADER E BOOTMII!
 {: .notice--danger}
 
-Only install themes on your Wii that have been formatted specifically for it, and its current region. Installing themes from the wrong region or version on your Wii will cause a brick. This tutorial will tell you how to create a .csm file that is safe to install.
+Só instale temas em seu Wii que foram formatados especificamente para ele, e de sua região. Instalar temas da região ou versão errada em seu Wii causará um brick. Este tutorial irá lhe mostrar como criar um arquivo .csm que é seguro para instalar.
 {: .notice--danger}
 
-This guide is intended for regular Wiis only. For installing themes on vWii (Wii U), follow [this page](themes-vwii).
+Este guia é apenas para Wiis regulares. Para instalar temas no vWii (Wii U), siga [esta página](themes-vwii).
 {: .notice--warning}
 
-For safety purposes, please do not use any other version of MyMenuify than the one linked here, as MyMenuify Mod is the safest way to install a theme.
+Para fins de segurança, por favor, não use nenhuma outra versão do MyMenuify do que a que está linkada aqui, pois o mod do MyMenuify é a maneira mais segura de instalar um tema.
 {: .notice--warning}
 
-Do not use any other version of ThemeMii than the one linked here, as ThemeMii Mod allows you to make a theme for Wii Menu version 4.3, other versions may not.
+Não use nenhuma outra versão do ThemeMii além da versão vinculada, pois apesar do ThemeMii permitir que você faça um tema para o Menu Wii versão 4.3, pode ser que outras versões não o permita.
 {: .notice--warning}
 
-We recommend you [install cIOS](cios) before continuing.
+Recomendamos que você [instale o cIOS](cios) antes de continuar.
 {: .notice--info}
 
 #### Você precisará de
 
-* A Wii
+* Um Wii
 * Um cartão SD ou pendrive
-* A computer with Windows on it (or using Mono or Wine on Mac/Linux)
+* Um computador com Windows nele (ou usando Mono ou Wine no Mac/Linux)
 * [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
 * [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 
-#### Theme Links
+#### Links do Tema
 
-Below are some links to themes.
+Abaixo estão alguns links para temas.
 
-* [RiiConnect24 Themes Page](https://rc24.xyz/goodies/themes/)
-* [Google Drive Repository](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
+* [Página de temas RiiConnect24](https://rc24.xyz/goodies/themes/)
+* [Repositório do Google Drive](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
 * [Wii Theme Team Creations v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
-MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
+CERTIFIQUE-SE QUE VOCÊ LEU OS AVISOS ACIMA ANTES DE CONTINUAR!
 {: .notice--danger}
 
 #### Instruções
 
-##### Section I - Finding a Theme
+##### Seção I - Encontrando um Tema
 
-* Find a theme you want to install. Some themes have YouTube videos to show what the theme looks like, but unfortunately some of the videos are no longer available.
-* Once you found one you like, click the download link corresponding to your Wii Menu version. **It's very important to pick the correct version to avoid bricks.**
+* Encontre um tema que deseja instalar. Alguns temas têm vídeos do YouTube para mostrar como é o tema, mas infelizmente alguns dos vídeos não estão mais disponíveis.
+* Depois de encontrar uma que você goste, clique no link de download correspondente à sua versão do Menu Wii. **É BASTANTE importante selecionar a versão correta para evitar bricks.**
 * You probably will pick the download link that says 4. X, that means the theme will work on version 4.1, 4.2 and 4.3 of the Wii Menu.
-* Some themes have different links for different regions, so pick the one corresponding to your Wii's region.
-* There are other resources for Wii Menu themes, but they might be in csm form (ready to install on the Wii). If the csm doesn't match the version and region of your Wii Menu, try to convert it to mym with ThemeMii Mod, and then convert it back to csm with the instructions here using the version and region of your Wii Menu.
+* Alguns temas têm links diferentes para diferentes regiões, então escolha o que corresponde à sua região do Wii.
+* Existem outros recursos para os temas do Wii Menu, mas eles podem estar no formato .csm (pronto para instalar no Wii). Se o .csm não coincidir com a versão e a região do seu Menu Wii, tente convertê-lo para .mym com o ThemeMii Mod, e, em seguida, convertê-lo de volta para csm com as instruções aqui usando a versão e a região do seu Menu Wii.
 * Once you downloaded the theme you want and double-checked you got the right one, open up ThemeMii Mod.
 
-##### Section II - Building the Theme
+##### Seção II - Fazendo o Tema
 
-1. A dialog box will pop up telling you to only install themes if you have brick protection. If you installed Priiloader and/or BootMii (see the warning at the start of this guide), press OK.
-2. Go to `Tools` > `Download Base App` > Version of your Wii Menu > Region of your Wii Menu
-3. A dialog box will pop up asking you to enter in a value to create a key. Enter in what it says, it will create a key that will be used to decrypt the Wii Menu contents from Nintendo's servers.
-4. A file selection box will ask you where to save the .app file (that is the Wii Menu content file it downloaded). Save it to the directory where ThemeMii is in.
-5. Go to `Options` > `Standard System Menu` > Version of your Wii Menu > Region of your Wii Menu
-6. Go to `File` > `Open`, then browse for where your .mym file is.
-7. Press `Create csm`, then browse for a directory you want to save the theme in. Give it a moment to build the theme.
-8. A dialog box will pop up hopefully saying it built the theme correctly, and it will ask you if you want to save the .mym. Press `No`.
+1. Uma caixa de diálogo irá aparecer dizendo que você somente deve instalar temas se você tiver proteção de brick. Se você instalou o Priiloader e/ou o BootMii (veja o aviso no início deste guia), pressione OK.
+2. Vá para `Ferramentas` > `Baixar o Aplicativo base` > Versão do seu Menu do Wii > Região do seu Menu do Wii
+3. Uma caixa de diálogo irá aparecer pedindo que você insira um valor para criar uma chave. Digite o que disser, ele criará uma chave que será usada para descriptografar o conteúdo do Menu do Wii dos servidores da Nintendo.
+4. Uma caixa de seleção de arquivos irá perguntar onde salvar o arquivo .app (que é o arquivo de conteúdo do Menu Wii baixado). Salve-o no diretório em que o ThemeMii está.
+5. Vá para `Opções` > `Menu do Sistema Padrão` > Versão do Menu do seu Wii> Região do Menu do seu Wii
+6. Vá para `Arquivo` > `Abrir` e procure onde está seu arquivo .mym.
+7. Pressione `Criar .csm`, em seguida, procure por um diretório no qual você deseja salvar o tema. Espere um pouco para criar o tema.
+8. Uma caixa de diálogo aparecerá dizendo que o tema foi construído corretamente e perguntará se você quer salvar o .mym. Pressione `Não`.
 
 ##### Section III - Installing the Theme
 
