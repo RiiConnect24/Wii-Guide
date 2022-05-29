@@ -85,7 +85,7 @@ Eğer nwc24msg.cfg dosyasını doğru yamalayamadıysanız lütfen [RiiConnect24
 5. Mevcut bağlantınızı seçin.
 6. `Change Settings` kısmına gidin.
 7. `Auto-Obtain DNS` kısmına (IP Address kısmına değil) gidip `No’yu` seçin, ardından `Advanced Settings` kısmına gidin.
-8. Birincil DNS’i ` 164.132.44.106` olarak girin.
+8. Birincil DNS’i `164.132.44.106` olarak girin.
 9. İkincil DNS’i `1.1.1.1` olarak girin (problem çıkarsa, bu sefer `8.8.8.8` olarak girin).
 10. Önce `Confirm’i` ardından da `Save’i` seçin.
 11. Bağlantı testi yapmak için `OK’i` seçin.
