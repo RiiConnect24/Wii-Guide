@@ -43,7 +43,7 @@ N'installez ** pas ** Priiloader sur une vWii (mode Wii sur Wii U). Cela se trad
 Si vous utilisez un périphérique USB pour installer Priiloader, assurez-vous que vous n'avez pas de carte SD insérée en même temps. Cela empêchera Priiloader de trouver le fichier hacks_hash.ini.
 {: .notice--info}
 
-4. Nous vous recommandons d'activer les hacks suivants: ` Region Free EVERYTHING `, ` Block Disc Updates ` et ` Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
+4. Nous vous recommandons d'activer les hacks suivants: `Region Free EVERYTHING`, `Block Disc Updates` et `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
 1. Faites défiler vers `save settings` et appuyez sur A, puis appuyez sur B pour revenir au menu principal de Priiloader.
 1. Faites défiler jusqu'à `Homebrew Channel` et appuyez sur A pour le lancer.
 
