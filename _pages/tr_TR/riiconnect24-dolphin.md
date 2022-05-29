@@ -46,7 +46,7 @@ Eğer açılırken çalıştırmayı seçiyorsanız, herhangi bir şey yapmanız
 
 ##### Bölüm III - Yüklemeyi Bitirme
 
-1. [Buradan](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases) yüklediğiniz Windows için ` RiiConnect24Patcher.bat` dosyasını ya da Unix için ` RiiConnect24Patcher.sh` dosyasını çalıştırın.
+1. [Buradan](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases) yüklediğiniz Windows için `RiiConnect24Patcher.bat` dosyasını ya da Unix için `RiiConnect24Patcher.sh` dosyasını çalıştırın.
 2. Yamalayıcıyı başlatıp `RiiConnext24’ü Yükle’yi` seçin. ![Özeli Seçin](/images/Dolphin_RC24/5.jpg)
 3. `Özel’i` seçin. ![Check Mii Out Channel’ı Seçin](/images/Dolphin_RC24/6.jpg)
 4. Bölgenizi seçmek için `1’e` basın ve sadece 5. seçeneği etkinleştirin. `6’ya` basarak yamalamayı başlatın.
