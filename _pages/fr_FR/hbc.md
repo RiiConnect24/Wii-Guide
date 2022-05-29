@@ -22,10 +22,10 @@ La chaîne homebrew permet de lancer des applications homebrew. BootMii est un l
 4. Appuyez sur Continue une fois l'installation terminée. ![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
 
 5. Quand installé, appuyez sur "back" et allez vers Bootmii.
-6. Si l’écran vous dit que vous pouvez installer BootMii en tant que boot2, faites-le. Cela offre la meilleur protection possible contre le brick. Skip this step if the option doesn't show up, in that case your Wii is not one of the earlier models that supports it.
-7. Install BootMii as IOS, even if you already installed BootMii as boot2 in the previous step. If you couldn't install BootMii as boot2, this will still allow you to create a NAND backup.
+6. Si l’écran vous dit que vous pouvez installer BootMii en tant que boot2, faites-le. Cela offre la meilleur protection possible contre le brick. Ignorez cette étape si l'option ne s'affiche pas, dans ce cas, votre Wii n'est pas l'un des modèles précédents qui la prend en charge.
+7. Installez BootMii en tant qu'IOS, même si vous avez déjà installé BootMii en tant que boot2 à l'étape précédente. Si vous n'avez pas pu installer BootMii en tant que boot2, cela vous permettra toujours de créer une sauvegarde NAND.
 
-If you do not have an SD card, you cannot install nor use BootMii, and therefore will not be able to utilize any of the mentioned benefits. Vous pourrez toujours l'installer plus tard.
+Si vous n'avez pas de carte SD, vous ne pouvez pas installer ni utiliser BootMii et ne pourrez donc pas utiliser les avantages mentionnés. Vous pourrez toujours l'installer plus tard.
 {: .notice--warning}
 
 ![BootMii Installation](/images/Wii/InstallBootMii.png)
@@ -38,32 +38,14 @@ Vous pouvez maintenant utiliser la chaîne homebrew pour lancer des applications
 
 Voici une astuce - quand entrain d'installer des applications homebrew sur votre card SD or périphériques USB, votre structure des dossiers doit ressembler sa:
 
-💾 sd ou usb:
-
-┣ 📂 apps
-
-┃ ┣ 📂 AppName1
-
-┃ ┃ ┣ 📄 boot.dol / boot.elf
-
-┃ ┃ ┣ 📄 icon.png
-
-┃ ┃ ┗ 📄 meta.xml
-
-┃ ┗ 📂AppName2
-
-┃ ┃ ┣ 📄 boot.dol / boot.elf
-
-┃ ┃ ┣ 📄 icon.png
-
-┃ ┃ ┗ 📄 meta.xml
+![Proper SD Card Folder Structure](images/Wii/FolderStructure.png)
 
 `AppName1` et `AppName2` sont des noms marqueur. Ne pas mettre multiple `apps` dossier dans le dossier `apps` lui-même.
 
-[Continuer a faire une NAND backup avec Bootmii](bootmii)<br> Créer une NAND backup avec BootMii a ce point est fortement recommendé.
+┃ ┣ 📂 AppName1
 {: .notice--info}
 
-Si vous ne pouvez pas installer BootMii, continuez a [installer Priiloader](priiloader).
+┃ ┃ ┣ 📄 icon.png
 {: .notice--info}
 
 Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
