@@ -7,7 +7,7 @@ title: "Extragere WAD-uri"
 Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Acest tutorial îți va explica cum să extragi WAD-uri din memoria internă a Wii-ului tău.
+Acest ghid îți va spune cum să extragi fișiere WAD din memoria internă a consolei tale Wii.
 
 #### Ai nevoie de
 * Un card SD sau o unitate USB
@@ -16,7 +16,7 @@ Acest tutorial îți va explica cum să extragi WAD-uri din memoria internă a W
 #### Instrucțiuni
 ##### Secțiunea I - Descărcare/Instalare
 
-1. Extract Yet Another BlueDump MOD to your SD card or USB drive.
+1. Extrage Yet Another BlueDump MOD în cardul tău SD sau unitatea ta USB.
 2. Introduce cardul tău SD sau unitatea ta USB în Wii, și pornește Yet Another BlueDump MOD din Homebrew Channel.
 
 ##### Secțiunea II - Extragere
