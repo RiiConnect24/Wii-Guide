@@ -77,11 +77,11 @@ Select cIOS version: 65535
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
 1. !!crwdP_30_Pdwrc!!Select the game that isn't working.
 1. Нажмите Settings.
-1. !!crwdP_26_Pdwrc!!Select `Game Load`.
-1. !!crwdP_27_Pdwrc!!Scroll down to `Game IOS`.
-1. !!crwdP_28_Pdwrc!!Enter the IOS slot to use.
+1. ##### Часть I - ЗагрузкаSelect `Game Load`.
+1. ##### Часть II - УстановкаScroll down to `Game IOS`.
+1. #### Устранение проблемEnter the IOS slot to use.
     - Попробуйте использовать 250 или 251, если 249 не работает.
-1. !!crwdP_29_Pdwrc!!Press ok and try to load the game.
+1. ##### Опции по завершенииPress ok and try to load the game.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. !!crwdP_30_Pdwrc!!Select the game that isn't working.
