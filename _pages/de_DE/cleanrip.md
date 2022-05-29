@@ -1,6 +1,6 @@
 #### Voraussetzungen
 
-* An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
+* Eine SD-Karte oder ein USB-Laufwerk mit mindestens 4,7 GB freiem Speicherplatz (8.5 GB bei Dumping einer Doppelschicht-Disk).
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
 #### Anleitung
