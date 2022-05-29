@@ -78,10 +78,10 @@ Bardziej obszerna lista (choć nadal niekompletna) znajduje się [**tutaj**](htt
 1. Wybierz grę, która nie działa.
 1. Kliknij Ustawienia.
 1. Wybierz `Wczytywanie Gry`.
-1. !!crwdP_27_Pdwrc!!Przewiń w dół do `Game IOS`.
-1. !!crwdP_28_Pdwrc!!Wpisz slot IOS.
+1. #### InstrukcjePrzewiń w dół do `Game IOS`.
+1. ##### Sekcja I - PobieranieWpisz slot IOS.
     - Spróbuj użyć 250 lub 251, jeśli 249 nie działa.
-1. !!crwdP_29_Pdwrc!!Wybierz OK i spróbuj załadować gre.
+1. ##### Sekcja II - InstalacjaWybierz OK i spróbuj załadować gre.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. Wybierz grę, która nie działa.
