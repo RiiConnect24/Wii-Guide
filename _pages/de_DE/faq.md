@@ -11,9 +11,9 @@ Bricks (ein Zustand, bei welchem die Wii-Software entweder teilweise oder gänzl
 Du kannst den [RiiConnect24 Discord server](https://discord.gg/rc24) (empfohlen) beitreten, oder für weitere Unterstützung uns eine e-Mail an [ support@riiconnect24.net](mailto:support@riiconnect24.net) senden.
 
 ### Welche Voraussetzungen bzw. Empfehlungen gelten für SD-Karten?
-Du benötigst eine SD-Karte mit mindestens 128MB um Exploits auszuführen.
+Du benötigst eine SD-Karte mit mindestens 128MB, um Exploits auszuführen.
 
-- Wenn du BlueBomb, str2hax oder FlashHax exploit verwendest, benötigst du keine SD-Karte.
+- Wenn du den BlueBomb-, str2hax- oder FlashHax-Exploit verwendest, benötigst du keine SD-Karte.
 
 Um Homebrew-Anwendungen zu speichern, empfehlen wir eine SD-Karte mit mindestens 2GB.
 
