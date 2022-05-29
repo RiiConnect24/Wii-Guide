@@ -7,7 +7,7 @@ title: "Priiloader"
 Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Priiloader, Wii Menü'den daha önce açılabildiği için Wii'nizi brick modundan korumanızda büyük kolaylık sağlar. Ayrıca bu araç, Wii Menünüz için hackleri etkinleştirebilir ve Homebrew Channel, BootMii veya istediğiniz herhangi bir homebrew uygulamasını hızlı bir şekilde başlatmak için kullanılabilir!
+Priiloader, Wii Menü'den daha önce açılabildiği için Wii'nizi brick modundan korumanızda büyük kolaylık sağlar. Wii'nizi brick modundan korumanızda büyük kolaylık sağlar. Ayrıca bu araç, Wii Menünüz için hackleri etkinleştirebilir ve Homebrew Channel, BootMii veya istediğiniz herhangi bir homebrew uygulamasını hızlı bir şekilde başlatmak için kullanılabilir!
 
 ![Priiloader](/images/priiloader.jpg)
 
