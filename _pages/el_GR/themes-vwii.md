@@ -64,9 +64,7 @@ There are a couple of ways to get the .app files for your vWii System Menu, in t
 
 1. Open the folder and launch NUS Downloader.
 2. Open the menu in NUS Downloader and click the database button.
-3. Go to System > System Menu and select a version according to your region.
-
-Here's a table showing which versions correspond to which region.
+3. Go to `System` > `System Menu` and select the version corresponding to your region as shown in the table below.
 
 | Region | vWii Menu version |
 | ------ | ----------------- |
@@ -80,7 +78,7 @@ After selecting the correct version to download, check the box for `Create Decry
 
 ![The main menu of NUS downloader without the database menu open.](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
 
-After the download has finished, search for .app file corresponding to your region in the folder where NUS Downloader is.
+After the download has finished, search for the .app file corresponding to your region in the folder where NUS Downloader is.
 
 | Region | .app file for your region |
 | ------ | ------------------------- |
