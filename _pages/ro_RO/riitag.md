@@ -38,7 +38,7 @@ Acești pași pentru a conecta RiiTag cu USB Loader-ul tău depind de ce USB Loa
 
 ###### USB Loader GX
 
-1. Rulează USB Loader GX pe Wii-ul tău.
+1. Rulează USB Loader GX pe consola ta.
 2. Du-te la `Settings` > `Features` și pornește `Wiinnertag`. Apasă `Yes` sau `OK` la orice dialog care apare.
 3. Asigură-te că `Initialize Network` este pornit.
 4. Ieși din USB Loader GX.
@@ -53,7 +53,7 @@ Acești pași pentru a conecta RiiTag cu USB Loader-ul tău depind de ce USB Loa
 1. Introduce Cardul SD sau unitatea USB unde se află datele WiiFlow în calculatorul tău.
 2. Deschide `/apps/wiiflow/wiiflow.ini` cu un editor de text. (Dacă folosești WiiFlow Lite, dosarul poate avea `wiiflow_lite` în loc de `wiiflow`.)
 3. Caută fraza `gamercards` și schimbă acea linie cu `gamercards=wiinnertag`.
-4. Search for `wiinnertag_url` and replace that line with `wiinnertag_url=https://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
+4. Caută fraza `wiinnertag_url` și schimbă acea linie cu `wiinnertag_url=https://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
 5. Caută fraza `wiinnertag_key` și schimbă acea linie cu `wiinnertag_key=<key>`, înlocuind `<key>` cu cheia pe care ai notat-o în Secțiunea 1.
 6. Caută fraza `gamercards_enable` și schimbă acea linie cu `gamercards_enable=yes`.
 7. Salvează fișierul `wiiflow.ini` modificat.
@@ -71,7 +71,7 @@ Riitag sprijină Dolphin, Citra, și Cemu. Ai nevoie de un cont de Discord pentr
 
 ###### Configurable USB Loader
 
-We do not offer support for Configurable USB Loader, as it's outdated compared to USB Loader GX and WiiFlow Lite.
+Nu oferim ajutor pentru Configurable USB Loader deoarece este învechit comparat cu USB Loader GX și WiiFlow Lite.
 {: .notice--info}
 
 Poți folosi programul `CfgLoaderConfigurator.exe` (doar pentru Windows) în loc să editezi fișierul `config.txt` menționat mai jos dacă vrei.
@@ -86,11 +86,11 @@ Poți folosi programul `CfgLoaderConfigurator.exe` (doar pentru Windows) în loc
 
 #### Canalul RiiTag
 
-Avem un canal RiiTag pe care îl poți instala pe Wii-ul tău. Când este lansat, va deschide Internet Channel și îți va arăta RiiTag-ul, făcându-l ușor de văzut când îți folosești Wii-ul.
+Avem un canal RiiTag pe care îl poți instala în consola ta. Când este lansat, va deschide Internet Channel și îți va arăta RiiTag-ul, făcându-l ușor de văzut când îți folosești consola.
 {: .notice--info}
 
 1. Loghează-te în RiiTag și du-te la pagina ta de tag.
-2. Click `Download RiiTag Channel`.
+2. Apasă pe `Download RiiTag Channel`.
 3. Pune WAD-ul pe Cardul tău SD sau unitatea ta USB.
 4. Instalează WAD-ul cu managerul tău WAD preferat ([Wii Mod Lite](wiimodlite) este recomandat).
 5. Asigură-te că Internet Channel este instalat.
