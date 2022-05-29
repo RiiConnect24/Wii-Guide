@@ -22,45 +22,27 @@ O Homebrew Channel é onde você irá abrir aplicativos homebrew. O BootMii é u
 4. Aperte Continue quando terminar. ![Homebrew Channel Instalado com Sucesso](/images/Wii/SuccessHBC.png)
 
 5. Depois de instalado, pressione o botão voltar e vá para o BootMii.
-6. Se a tela principal indicar que você pode instalar como boot2, então instale-o. Isto oferece a melhor proteção de brick possível que você pode ter. Skip this step if the option doesn't show up, in that case your Wii is not one of the earlier models that supports it.
-7. Install BootMii as IOS, even if you already installed BootMii as boot2 in the previous step. If you couldn't install BootMii as boot2, this will still allow you to create a NAND backup.
+6. Se a tela principal indicar que você pode instalar como boot2, então instale-o. Isto oferece a melhor proteção de brick possível que você pode ter. Pule este passo se a opção não aparecer, nesse caso seu Wii não é um dos modelos mais antigos que o suporta.
+7. Instale o BootMii como IOS, mesmo que você já tenha instalado o BootMii como boot2 na etapa anterior. Se você não pôde instalar o BootMii como boot2 na etapa anterior, isso ainda permitirá que você crie um backup da NAND.
 
-If you do not have an SD card, you cannot install nor use BootMii, and therefore will not be able to utilize any of the mentioned benefits. Você pode instalar em qualquer momento posteriormente.
+Se você não tem um cartão SD, você não pode instalar ou usar o BootMii, e, por consequência, não poderá utilizar nenhum dos benefícios mencionados. Você pode instalar em qualquer momento posteriormente.
 {: .notice--warning}
 
 ![Instalação do BootMii](/images/Wii/InstallBootMii.png)
 
 8. Uma vez feito, selecione `Continuar`e depois selecione `Sair` para ir ao Homebrew Channel
 
-#### Required Reading
+#### Leitura Obrigatória
 
-You can now use the Homebrew Channel to launch homebrew apps. Open Shop Channel is a one-stop shop for downloading homebrew, which you will learn how to install further in this guide.
+Agora você pode usar o Homebrew Channel para iniciar aplicativos homebrew. O Open Shop Channel é uma loja para baixar aplicativos homebrew, que você aprenderá a instalar mais para frente neste guia.
 
-Here's a tip - when installing homebrew applications on your SD Card or USB drive, your folder structure should look like this:
+Aqui está uma dica - ao instalar aplicativos homebrew em seu cartão SD ou pendrive/unidade USB, a estrutura da pasta deve ficar assim:
 
-💾 sd or usb:
-
-┣ 📂 apps
-
-┃ ┣ 📂 AppName1
-
-┃ ┃ ┣ 📄 boot.dol / boot.elf
-
-┃ ┃ ┣ 📄 icon.png
-
-┃ ┃ ┗ 📄 meta.xml
-
-┃ ┗ 📂AppName2
-
-┃ ┃ ┣ 📄 boot.dol / boot.elf
-
-┃ ┃ ┣ 📄 icon.png
-
-┃ ┃ ┗ 📄 meta.xml
+![Proper SD Card Folder Structure](images/Wii/FolderStructure.png)
 
 `AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
 
-[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
+┃ ┣ 📂 AppName1
 {: .notice--info}
 
 If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
