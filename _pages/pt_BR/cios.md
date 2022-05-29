@@ -27,7 +27,7 @@ Certifique-se de que se você estiver usando um cartão SD, a trava de bloqueio 
 
 ##### Parte I - Baixando
 
-1. Download d2x cIOS Installer and extract it to your SD card or USB drive.
+1. Baixe o instalador d2x cIOS e o extraia para a pasta “apps” no seu cartão SD ou unidade USB.
 1. Insira seu Cartão SD ou USB no Wii e inicie o d2x cIOS Installer pelo Homebrew Channel.
 
 ##### Parte II - Instalando
