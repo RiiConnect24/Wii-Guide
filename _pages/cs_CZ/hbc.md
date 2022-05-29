@@ -38,32 +38,14 @@ Nyní můžete používat Homebrew Channel ke spouštění homebrew aplikací. O
 
 Tady je rada - až budete instalovat homebrew aplikace na SD kartu nebo USB disk, zachovejte tuto strukturu adresářů:
 
-💾 sd nebo usb:
+![Proper SD Card Folder Structure](images/Wii/FolderStructure.png)
 
-┣ 📂 apps
+`AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
 
 ┃ ┣ 📂 NázevAplikace1
-
-┃ ┃ ┣ 📄 boot.dol / boot.elf
-
-┃ ┃ ┣ 📄 icon.png
-
-┃ ┃ ┗ 📄 meta.xml
-
-┃ ┗ 📂NázevAplikace2
-
-┃ ┃ ┣ 📄 boot.dol / boot.elf
-
-┃ ┃ ┣ 📄 icon.png
-
-┃ ┃ ┗ 📄 meta.xml
-
-`NázevAplikace1` a `NázevAplikace2` jsou jen příklady názvu aplikací. Dávejte si pozor, abyste nevkládali složky `apps` do složky `apps` samotné.
-
-[Pokračujte vytvořením NAND zálohy pomocí BootMii](bootmii)<br>Vytvoření NAND zálohy pomocí BootMii je v tuto chvíli silně doporučeno.
 {: .notice--info}
 
-Jestliže jste nemohli nainstalovat BootMii, pokračujte [instalací Priiloaderu](priiloader).
+┃ ┃ ┣ 📄 icon.png
 {: .notice--info}
 
 Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
