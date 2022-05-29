@@ -25,7 +25,7 @@ Wii 补丁器将无法在Dolphin模拟器上运行。 如果你使用Dolphin模�
 如果你使用 Wii 补丁器，你就不再需要使用其他补丁器了。
 {: .notice--info}
 
-1. 下载WAD文件。 Wii请下载 `WiiLink_Patcher_Wii.wad`. 虚拟Wii（vWii）请下载 `WiiLink_Patcher_vWii.wad`.
+1. 下载适用于您的系统的文件。 Windows运行`WiiLinkPatcher.bat`。 Unix打开终端并输入sh，将`WiiLinkPatcher.sh`拖到终端按Enter。
 2. 把WAD文件放到在SD卡/U盘的 `WAD` 文件夹中
 3. 把你的SD卡或U盘插入Wii。
 4. 使用 Wii Mod Lite 或其他WAD安装程序来安装 WAD文件
@@ -39,7 +39,7 @@ Wii 补丁器将无法在Dolphin模拟器上运行。 如果你使用Dolphin模�
 [如果你想要看到如何安装WAD的详细说明，点击这里！](wiimodlite)
 {: .notice--info}
 
-1. 下载适用于您的系统的文件。 Windows运行`WiiLinkPatcher.bat`。 Unix打开终端并输入sh，将`WiiLinkPatcher.sh`拖到终端按Enter。
+1. 下载适用于您的系统的文件。 Wii请下载 `WiiLink_Patcher_Wii.wad`. 虚拟Wii（vWii）请下载 `WiiLink_Patcher_vWii.wad`. Unix打开终端并输入sh，将`WiiLinkPatcher.sh`拖到终端按Enter。
 2. 按1选择"`Start`" 然后按`ENTER`确认选择。
 3. 在本指南中，选择"`Install WiiLink on your Wii`"
 4. 选择您的区域。
