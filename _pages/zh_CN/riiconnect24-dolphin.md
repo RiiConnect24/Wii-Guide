@@ -53,5 +53,5 @@ title: "RiiConnect24"
 5. 完成后，RiiConnect24Patcher.bat旁边的WAD文件夹会有`Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` 或 `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`
 6. 在Dolphin中，按 `工具` 选择 `安装WAD`，然后选择`Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` 或 `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
 
-全部完成! 不幸的是，Nintendo Channel和Wii Mail不在Dolphin中工作。
+全部完成! 全部完成! 不幸的是，Nintendo Channel和Wii Mail不在Dolphin中工作。
 {: .notice--info}
