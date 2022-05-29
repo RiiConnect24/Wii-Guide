@@ -12,7 +12,7 @@ Folosești un USB Loader și vrei să creezi scurtături de jocuri pentru a le r
 În cazul unui brick, [instalarea Priiloader este extrem de importantă](/priiloader). De asemenea, instalează BootMii (ca Boot2 dacă ai un build vechi de Wii). Instalarea protecției anti-brick împreună cu urmărirea corectă a ghidului ar trebui să te țină protejat de brick-uri. NU CONTINUA PÂNĂ AI INSTALAT PRIILOADER ȘI BOOTMII!
 {: .notice--warning}
 
-NU face scurtături pentru jocurile "Mario Party 9" sau "A Boy and His Blob". O să-ți brick-uiască Wii-ul.
+NU face scurtături pentru jocurile "Mario Party 9" sau "A Boy and His Blob". O să-ți brick-uiască consola.
 {: .notice--warning}
 
 #### De ce ai nevoie
@@ -30,5 +30,5 @@ NU face scurtături pentru jocurile "Mario Party 9" sau "A Boy and His Blob". O 
 3. Dacă folosești USB Loader GX, asigură-te că folosești [această versiune](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip).
 4. Instalează WAD-ul generat cu un Manager WAD, recomandăm Wii Mod Lite.
 
-Dacă primești o eroare spunând "The system files are corrupted", nu te panica cât timp ai instalat Priiloader. Închide-ți Wii-ul, apoi ține butonul RESET apăsat și pornește-ți consola. Ar trebui să te boot-ezi în meniul Priiloader, unde ai câteva opțiuni pentru a-ți repara Meniul Wii. Una dintre opțiuni este să lansezi Homebrew Channel.
+Dacă primești o eroare spunând "The system files are corrupted", nu te panica cât timp ai instalat Priiloader. Închide-ți consola, apoi ține butonul RESET apăsat și pornește-ți consola. Ar trebui să te boot-ezi în meniul Priiloader, unde ai câteva opțiuni pentru a-ți repara Meniul Wii. Una dintre opțiuni este să lansezi Homebrew Channel.
 {: .notice--info}
