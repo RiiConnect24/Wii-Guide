@@ -80,7 +80,7 @@ Wiimmfi로 플레이 하고 싶을 때 마다 패쳐를 작동시키기 싫고, 
 
 #### 방법
 1. 원하는 폴더에 패쳐를 압축 해제하고, 그 폴더에 게임의 복사본을 넣으세요.
-2. 당신의 OS를 위한 패치 스크립트를 실행하세요: Windows는 대부분 `.bat`, Mac/Linux는 `.sh`로 끝납니다. RiiConnect24 패쳐를 사용한다면, 게임별 패쳐를 선택하고 기기를 선택 (Wii, vWii, 또는 돌핀) 하세요.
+2. 당신의 OS를 위한 패치 스크립트를 실행하세요: Windows는 대부분 `.bat`, Mac/Linux는 `.sh`로 끝납니다. RiiConnect24 패쳐를 사용한다면, WiiWare Patcher를 선택하고 기기를 선택 (Wii, vWii, 또는 돌핀) 하세요.
 3. 완료되면, `wiimmfi-images` 폴더에서 버전을 꺼내고 (패쳐 밖의 폴더일 수도 있습니다 - ../wiimmfi-images) USB로 다시 복사하세요
 
 ### WiiWare 패칭
@@ -93,14 +93,14 @@ Wiimmfi에서 플레이하기 위해 WiiWare 게임을 패치할 수 있습니�
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows와 Unix)  
   **또는**
 - [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (크로스 플랫폼)
-- [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+- [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 [WiiWare 패쳐의 사용법이 궁금하다면 클릭하세요!](wiiwarepatcher)
 {: .notice--info}
 
 단계:
 1. 최신버전의 WiiWare Patcher의 .zip 압축을 해제하고, WAD를 삽입하세요.
-2. 당신의 OS를 위한 패치 스크립트를 실행하세요: Windows는 대부분 `.bat`, Mac/Linux는 `.sh`로 끝납니다. RiiConnect24 패쳐를 사용한다면, WiiWare Patcher를 선택하고 기기를 선택 (Wii, vWii, 또는 돌핀) 하세요.
+2. 당신의 OS를 위한 패치 스크립트를 실행하세요: Windows는 대부분 `.bat`, Mac/Linux는 `.sh`로 끝납니다. RiiConnect24 패쳐를 사용한다면, 게임별 패쳐를 선택하고 기기를 선택 (Wii, vWii, 또는 돌핀) 하세요.
 3. 성공적으로 끝났다면, Wii Mod Lite로 `wiiware-wads`에 있는 WAD를 설치하세요.
 
 ## 기타
