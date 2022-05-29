@@ -77,16 +77,16 @@ Sebbene la maggior parte dei giochi dovrebbe funzionare direttamente con le opzi
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
 1. !!crwdP_30_Pdwrc!!Seleziona il gioco che non funziona.
 1. Clicca su Settings.
-1. !!crwdP_26_Pdwrc!!Seleziona `Game Load`.
-1. !!crwdP_27_Pdwrc!!Scorri fino a `Game IOS`.
-1. !!crwdP_28_Pdwrc!!Seleziona lo slot IOS da usare.
+1. ##### Sezione 1 - ScaricareSeleziona `Game Load`.
+1. ##### Sezione 2 - InstallareScorri fino a `Game IOS`.
+1. #### Risoluzione dei problemiSeleziona lo slot IOS da usare.
     - Prova a usare 250 o 251, se 249 non funziona.
 1. Premi Ok e prova a caricare il gioco.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. !!crwdP_30_Pdwrc!!Seleziona il gioco che non funziona.
 1. Clicca l'icona dell'ingranaggio.
-1. !!crwdP_32_Pdwrc!! Vai su cIOS e usa le frecce per selezionare lo slot IOS da usare.
+1. Vai su cIOS e usa le frecce per selezionare lo slot IOS da usare.
     - Prova a usare 250 o 251, se 249 non funziona.
 1. !!crwdP_33_Pdwrc!!Premi Salva e prova a caricare il gioco.
 </div>
