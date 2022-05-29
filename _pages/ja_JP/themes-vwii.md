@@ -2,7 +2,7 @@
 title: "Installing Wii Menu Themes on vWii"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="目次" %}
 
 Are you tired of the boring, plain white theme on your Wii Menu, and want a cool theme instead? This tutorial will help you get a new theme for your Wii Menu!
 
@@ -65,8 +65,6 @@ There are a couple of ways to get the .app files for your vWii System Menu, in t
 1. Open the folder and launch NUS Downloader.
 2. Open the menu in NUS Downloader and click the database button.
 3. Go to System > System Menu and select a version according to your region.
-
-Here's a table showing which versions correspond to which region.
 
 | Region | vWii Menu version |
 | ------ | ----------------- |
