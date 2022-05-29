@@ -9,7 +9,7 @@ Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen
 
 ![HBC Logosu](/images/hbc.png)
 
-Homebrew Channel, homebrew uygulamalarını başlatabileceğiniz yegane yerdir. BootMii ise, Wii'nizin NAND belleğini yedekleyip geri getirebilen bir yazılımdır. boot2 olarak yüklendiyse, sizi brick modundan da korur.
+You can now use the Homebrew Channel to launch homebrew apps. Open Shop Channel is a one-stop shop for downloading homebrew, which you will learn how to install further in this guide.
 
 #### Talimatlar
 
@@ -34,33 +34,15 @@ If you do not have an SD card, you cannot install nor use BootMii, and therefore
 
 #### Required Reading
 
-You can now use the Homebrew Channel to launch homebrew apps. Open Shop Channel is a one-stop shop for downloading homebrew, which you will learn how to install further in this guide.
+Homebrew Channel, homebrew uygulamalarını başlatabileceğiniz yegane yerdir. Open Shop Channel is a one-stop shop for downloading homebrew, which you will learn how to install further in this guide.
 
 Here's a tip - when installing homebrew applications on your SD Card or USB drive, your folder structure should look like this:
 
-💾 sd or usb:
-
-┣ 📂 apps
-
-┃ ┣ 📂 AppName1
-
-┃ ┃ ┣ 📄 boot.dol / boot.elf
-
-┃ ┃ ┣ 📄 icon.png
-
-┃ ┃ ┗ 📄 meta.xml
-
-┃ ┗ 📂AppName2
-
-┃ ┃ ┣ 📄 boot.dol / boot.elf
-
-┃ ┃ ┣ 📄 icon.png
-
-┃ ┃ ┗ 📄 meta.xml
+![Proper SD Card Folder Structure](images/Wii/FolderStructure.png)
 
 `AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
 
-[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
+┃ ┣ 📂 AppName1
 {: .notice--info}
 
 If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
