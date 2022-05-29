@@ -38,32 +38,14 @@ Voit nyt käyttää Homebrew Channel:ia käynnistääksesi homebrew sovelluksia.
 
 Tässä on vihje - kun asennat homebrew-sovelluksia SD-kortille tai USB-asemalle, kansiorakenteen pitäisi näyttää tältä:
 
-💾 sd tai usb:
+![Proper SD Card Folder Structure](images/Wii/FolderStructure.png)
 
-┣ 📂 apps
+`AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
 
 ┃ ┣ 📂 AppName1
-
-┃ ┃ ┣ 📄 boot.dol / boot.elf
-
-┃ ┃ ┣ 📄 icon.png
-
-┃ ┃ ┗ 📄 meta.xml
-
-┃ ┗ 📂AppName2
-
-┃ ┃ ┣ 📄 boot.dol / boot.elf
-
-┃ ┃ ┣ 📄 icon.png
-
-┃ ┃ ┗ 📄 meta.xml
-
-`AppName1` ja `AppName2` ovat esimerkki nimiä. Älä upota useita `apps`-kansioita `apps` kansion sisään.
-
-[Jatka NAND-varmuuskopion tekemiseen käyttämällä BootMiitä](bootmii)<br> NAND-varmuuskopion tekeminen BootMiin avulla on tässä vaiheessa erittäin suositeltavaa.
 {: .notice--info}
 
-Jos et voinut asentaa BootMiitä, jatka sen sijaan [Priiloaderin asennukseen](priiloader).
+┃ ┃ ┣ 📄 icon.png
 {: .notice--info}
 
 Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
