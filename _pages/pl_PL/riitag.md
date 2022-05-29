@@ -9,7 +9,7 @@ Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz d
 
 RiiTag jest łatwo konfigurowalnym oraz dynamicznym gamertag'iem. Udostępniając swój gamertag (statyczne zdjęcie), możesz pokazać innym w co ostatnio grałeś na Twoim Wii! Podłączasz RiiTag do Twojego USB Loadera a on się sam aktualizuje. Będziesz potrzebował konta Discord aby korzystać z RiiTag'u.
 
-Chcesz zainstalować RiiTag na Twoim Wii U? Sprawdź [ten poradnik](riitag-wiiu). Pomoże Ci on z integracją RiiTag'u z Twoim Wii U Menu.
+Mamy kanał RiiTag, który możesz zainstalować na swoim Wii. Po uruchomieniu, otworzy on kanał Internetowy i pokaże Twój RiiTag, teraz możesz łatwo zobaczyć swoj RiiTag kiedy używasz Wii.
 {: .notice--info}
 
 #### Będziesz potrzebował:
@@ -86,7 +86,7 @@ Możesz skorzystać z programu `CfgLoaderConfigurator.exe` (tylko dla Windowsa) 
 
 #### Kanał RiiTag
 
-Mamy kanał RiiTag, który możesz zainstalować na swoim Wii. Po uruchomieniu, otworzy on kanał Internetowy i pokaże Twój RiiTag, teraz możesz łatwo zobaczyć swoj RiiTag kiedy używasz Wii.
+Pomoże Ci on z integracją RiiTag'u z Twoim Wii U Menu. Po uruchomieniu, otworzy on kanał Internetowy i pokaże Twój RiiTag, teraz możesz łatwo zobaczyć swoj RiiTag kiedy używasz Wii.
 {: .notice--info}
 
 1. Zaloguj się do RiiTag i przejdź do swojej strony tagu.
