@@ -4,7 +4,7 @@ title: "Hacer y No hacer al modificar una Wii"
 
 {% include toc title="Tabla de contenidos" %}
 
-Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado), o envíanos un [correo electrónico](mailto:support@riiconnect24.net). Soporte disponible solo en inglés.
+Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado), o envíanos un [correo electrónico](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Aquí puedes encontrar una lista de cosas que deberías y no deberías hacer una vez que hayas modificado tu Wii, para evitar bricks.
@@ -19,7 +19,7 @@ Aquí puedes encontrar una lista de cosas que deberías y no deberías hacer una
 - **NO DEBES** modificar, renombrar o eliminar archivos aleatorios en la NAND de tu Wii a menos que sepas lo que estás haciendo.
 - **NO DEBES** usar la aplicación homebrew "KoreanKii" en una Wii no coreana.
 - **NO DEBES** instalar ningún IOS o Menú de Wii en una Wii mini distinto de [d2xl cIOS](cios-mini). Hacer esto brickeará tu consola si no hay una tarjeta Wi-Fi soldada a ella.
-- **NO DEBES** usar ningún servicio que reemplaze la Conexión Wi-Fi de Nintendo en tu Wii distinto de [Wiimmfi](wiimmfi). Por desgracia, otros servidores de reemplazamiento son vulnerables a exploits que pueden brickear tu Wii si los usas. [RiiConnect24](riiconnect24) también es seguro.
+- Por desgracia, otros servidores de reemplazamiento son vulnerables a exploits que pueden brickear tu Wii si los usas. **NO DEBES** usar ningún servicio que reemplaze la Conexión Wi-Fi de Nintendo en tu Wii distinto de [Wiimmfi](wiimmfi). [RiiConnect24](riiconnect24) también es seguro.
 
 Si sigues estas pautas, no tendrás que preocuparte por brickear tu Wii. La modificación de una Wii es segura, y los bricks suelen aparecer por algo hecho mencionado en esta lista.
 
