@@ -93,7 +93,7 @@ Możesz spatchować gry WiiWare aby można w nie grać na Wiimmfi.
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
   **lub**
 - [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (na różnych platformach)
-- [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+- [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 [Jeżeli chcesz się dowiedzieć jak korzystać z WiiWare Patcher'a, naciśnij tutaj!](wiiwarepatcher)
 {: .notice--info}
