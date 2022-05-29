@@ -34,10 +34,10 @@ Striim 네트워크는 유튜브나 커비 TV 채널과 같은 동영상 재생�
 
 
 
-[RiiConnect24로 계속하기](riiconnect24)<br> RiiConnect24는 WiiConnect24의 서비스 종료된 서비스를 사용할 수 있게 합니다. 여기에는 News, Forecast, Everybody Votes, Nintendo, Check Mii Out 채널 (대한민국 미출시) 이 포함되며 Wii 메일 역시 포함됩니다. 설치는 선택입니다.
+[WiiLink로 계속하기](wiilink)<br> WiiLink24는 일본 전용 Wii 거실 및 디지캠 인쇄 채널을 사용할 수 있게 합니다. 설치는 선택입니다.
 {: .notice--info}
 
-[WiiLink로 계속하기](wiilink)<br> WiiLink24는 일본 전용 Wii 거실 및 디지캠 인쇄 채널을 사용할 수 있게 합니다. 설치는 선택입니다.
+[Wiimmfi로 계속하기](wiimmfi)<br> Wiimmfi는 닌텐도 Wi-Fi 커넥션의 서비스 종료 이후로도 게임을 온라인으로 플레이 할 수 있게 합니다. 설치는 선택입니다.
 {: .notice--info}
 
 [Wiimmfi로 계속하기](wiimmfi)<br> Wiimmfi는 닌텐도 Wi-Fi 커넥션의 서비스 종료 이후로도 게임을 온라인으로 플레이 할 수 있게 합니다. 설치는 선택입니다.
