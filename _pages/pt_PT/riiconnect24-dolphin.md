@@ -32,7 +32,7 @@ Se já tens o Dolphin instalado, salta para a Secção II
 ##### Secção II - Instalação do RiiConnect24.
 
 1. Executa `VFF-Downloader-for-Dolphin.bat` no Windows ou `VFF-Downloader-for-Dolphin.sh` nos sistemas Unix que tu podes descarregar [aqui](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
-2. Pressiona `1` e `ENTER` para começar o programa. ![Main Menu](/images/Dolphin_RC24/2.jpg)
+2. Pressiona `1` e `ENTER` para começar o programa. ![Menu Principal](/images/Dolphin_RC24/2.jpg)
 3. Procede com a configuração do programa.
 4. Vai-te perguntar se queres executar o programa manualmente todas as vezes que quiseres utilizar RiiConnect24 no Dolphin ou se queres executá-lo no arranque. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
 
