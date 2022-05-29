@@ -44,7 +44,7 @@ If you use the Wii Patcher, you will not need to use our other patchers.
 3. For this guide, choose "`Install WiiLink on your Wii`"
 4. Select your region.
 5. Connect the SD Card or USB Drive to your computer and select "`1`".
-6. デバイスの検出は効果的だ時、「`1`」を選んで If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
+6. デバイスの検出は効果的だ時、「`1`」を選んで デバイスの検出は効果的だ時、「`1`」を選んで If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
 7. Be patient...
 8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
 9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLinkPatcher.bat` to your SD Card or USB Device.
