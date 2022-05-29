@@ -71,7 +71,7 @@ RiiTag prend en charge Dolphin, Citra et Cemu. Vous avez besoin d'un compte Disc
 
 ###### Configurable USB Loader
 
-We do not offer support for Configurable USB Loader, as it's outdated compared to USB Loader GX and WiiFlow Lite.
+Nous n'offrons pas de support pour Configurable USB Loader, car il est obsolète par rapport à USB Loader GX et WiiFlow Lite.
 {: .notice--info}
 
 Vous pouvez utiliser le programme `CfgLoaderConfigurator.exe` (Windows uniquement) au lieu d'éditer le fichier `config.txt` mentionné ci-dessous si vous voulez.
