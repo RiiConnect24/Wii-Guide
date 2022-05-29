@@ -32,7 +32,7 @@ Um Spiele ohne Wii Backup Manager oder Witgui zu kopieren, erstelle einen Ordner
 Zum Spielen empfehlen wir die Verwendung einer externen Festplatte für deine Wii. USB-Sticks sollten zwar auch funktionieren, jedoch sind externe Festplatten empfehlenswert da sie zuverlässiger sind und auch mehr Spiele speichern können.
 {: .notice--info}
 
-Stelle sicher, dass dein USB-Laufwerk als FAT32 oder NTFS formatiert ist. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
+Stelle sicher, dass dein USB-Laufwerk als FAT32 oder NTFS formatiert ist. Formatiere es nicht mit einem anderen Dateisystem wie z. B. extFS oder WBFS, letzteres ist ein altes Format zum Speichern von Wii-Spielen.
 {: .notice--info}
 
 #### Anleitung
