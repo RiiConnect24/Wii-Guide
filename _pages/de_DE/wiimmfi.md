@@ -93,7 +93,7 @@ Du kannst WiiWare-Spiele patchen, um sie über Wiimmfi zu spielen.
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows und Unix)  
   **oder**
 - [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (plattformübergreifend)
-- [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+- [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 [Wenn du sehen möchtest wie man den WiiWare Patcher nutzt, klicke hier!](wiiwarepatcher)
 {: .notice--info}
@@ -151,7 +151,7 @@ Ein WLAN-Netzwerk mit WEP oder ohne Verschlüsselung zu erstellen ist der schwer
 MrBean35000vr und Chadderz haben eine Custom-Track-Distribution namens CTGP-R, die es dir erlaubt, einen Sammlung von Custom Tracks zu verwenden und automatisch für Wiimmfi patcht. Gehe zu der [Chadsoft Webseite](http://chadsoft.co.uk) für den Download und die Anleitung.
 
 #### MKW Hack Pack
-PhillyG has put together a collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. Um zu erfahren, wie man es einrichtet, gehe auf die [Wiki-Seite](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+PhillyG hat eine Sammlung von Custom-Tracks und Hacks namens MKW Hack Pack erstellt und die Verbindungen zu Wiimmfi ermöglicht. Um zu erfahren, wie man es einrichtet, gehe auf die [Wiki-Seite](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
 
 #### Wiimms Mario Kart Fun
 Wiimm und Leseratte haben eine Custom Track-Distribution gemacht, die sich "Wiimms MKW Fun" nennt, welche ungefähr drei Mal im Jahr aktualisiert wird. Es basiert auf dem LE-Code-Framework von Leseratte, hat Wiimmfi-Unterstützung und viele weitere Funktionen. Du kannst mehr darüber auf der [Wiki-Seite](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun) erfahren.
