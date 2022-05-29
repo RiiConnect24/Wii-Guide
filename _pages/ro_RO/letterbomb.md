@@ -10,25 +10,23 @@ Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te
 LetterBomb este un exploit pentru Wii care este declanșat folosind Wii Message Board.
 
 #### De ce ai nevoie
-- An SD card that is no more than 32GB in size
+- Un card SD care nu are mai mult de 32GB mărime
 - Un Wii pe versiunea 4.3 de System Menu
 
 #### Instrucțiuni
 
 
 1. În Wii, du-te la `Wii Settings` -> `Internet` -> `Console Information` și notează adresa ta MAC.
-1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, ensure `Bundle the HackMii Installer for me!` is checked, and cut either wire
-   - By default, the selected region is 4.3E (Europe), so if you are in a different region, you will have to select the correct one.
-   - Whichever wire you choose to cut doesn't matter. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
+1. Vizitează [please.hackmii.com](https://please.hackmii.com), introduce MAC-ul și regiunea consolei tale, completează CAPTCHA-ul, asigură-te că `Bundle the HackMii Installer for me!` este bifat, și apasă pe oricare dintre butoane. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
 1. Extrage conținutul arhivei ZIP descărcate în rădăcina cardului tău SD.
-1. Take out your SD card and insert it in your Wii.
-   - The SD card must be inserted in the SD card slot located in the front of the Wii. Using a USB adapter plugged into the Wii's USB port will not work.
-1. În Wii, întoarce-te la Meniul Wii și apoi deschide Wii Message Board.
+1. Scoate cardul SD și introduce-l în consolă.
+   - Cardul SD trebuie introdus în slotul de card SD aflat în fața consolei. Utilizarea unui adaptor USB conectat în portul USB al consolei nu va merge.
+1. Pe Wii, întoarce-te la Meniul Wii și apoi deschide Wii Message Board.
 1. Deschide scrisoarea roșie cu iconița cu bomba.
-   - Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
-   - In various scenarios, you may need to look at the previous or next day to find it.
-   - If you don't see the red letter, you may be using an unsupported SD card that's greater than 32GB in size.
-   - If your Wii freezes after clicking on the letter, you probably chose the wrong region when downloading the exploit. Redo Step 2 and select the correct region.
+   - Asigură-te că data din consola ta este corectă, altfel este posibil să nu găsești scrisoarea.
+   - În diverse scenarii, va trebui să te uiți la ziua anterioară sau viitoare pentru a o găsi.
+   - Dacă nu vezi scrisoarea roșie, este posibil să utilizezi un card SD incompatibil care are o mărime mai mare de 32GB.
+   - În cazul în care consola ta îngheață după ce apeși pe scrisoare, probabil ai ales regiunea greșită când ai descărcat exploit-ul. Refă Pasul 2 și alege regiunea corectă.
 
 
 {: .notice--warning}
