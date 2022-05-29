@@ -14,7 +14,7 @@ Nie zalecamy używania "WAD Manager" stworzonego przez Waninkoko.
 
 #### Będziesz potrzebował:
 * Karta SD lub urządzenie USB.
-* [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+* [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 #### Instrukcje
 
