@@ -66,8 +66,6 @@ There are a couple of ways to get the .app files for your vWii System Menu, in t
 2. Open the menu in NUS Downloader and click the database button.
 3. Go to System > System Menu and select a version according to your region.
 
-Here's a table showing which versions correspond to which region.
-
 | Region | vWii Menu version |
 | ------ | ----------------- |
 | Japan  | v608              |
