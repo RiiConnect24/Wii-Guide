@@ -4,7 +4,7 @@ title: "Installing Wii Menu Themes on vWii"
 
 {% include toc title="Table of Contents" %}
 
-Are you tired of the boring, plain white theme on your Wii Menu, and want a cool theme instead? This tutorial will help you get a new theme for your Wii Menu!
+Você está cansado do tema chato e branco no seu Menu Wii e quer um tema legal? Este tutorial irá ajudá-lo a obter um novo tema para o seu Menu Wii!
 
 Nós **NÃO** somos responsáveis se você brickar, ou danificar seu console de qualquer forma. Se você seguir este guia exatamente, não deve ter nenhum problema.
 {: .notice--danger}
@@ -26,12 +26,12 @@ If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.ne
 * A Wii U with the Homebrew Channel installed.
 * A Wiimote without Wii MotionPlus
 * Um cartão SD
-* A computer with Windows on it (or using Mono or Wine on Mac/Linux)
+* Um computador com Windows nele (ou usando Mono ou Wine no Mac/Linux)
 * [MyMenuify](/assets/files/Mymenuify-Old-vWii.zip)
 * [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 * [NUS Downloader (vWii)](/assets/files/NUSDownloader-vwii.zip)
 
-#### Theme Links
+#### Links do Tema
 
 Below are some links to themes.
 
@@ -42,16 +42,16 @@ Below are some links to themes.
 Only themes from the RiiConnect24 Themes page have been tested on vWii. Themes from other sources may not be entirely compatible with vWii, use these at your own risk.
 {: .notice--warning}
 
-MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
+CERTIFIQUE-SE QUE VOCÊ LEU OS AVISOS ACIMA ANTES DE CONTINUAR!
 {: .notice--danger}
 
 #### Instruções
 
-##### Section I - Finding a Theme
+##### Seção I - Encontrando um Tema
 
 * When choosing a theme, it is important to make sure that your theme is compatible with the vWii System Menu.
 
-* Older themes for 3.X or 2.X are **NOT** compatible with vWii and may cause a brick if used.
+* Older themes for 3. X or 2. X are **NOT** compatible with vWii and may cause a brick if used.
 
 * Most of the themes on RiiConnect24's theme page have been tested on vWii and they are known to work.
 
@@ -65,8 +65,6 @@ There are a couple of ways to get the .app files for your vWii System Menu, in t
 1. Open the folder and launch NUS Downloader.
 2. Open the menu in NUS Downloader and click the database button.
 3. Go to System > System Menu and select a version according to your region.
-
-Here's a table showing which versions correspond to which region.
 
 | Region | vWii Menu version |
 | ------ | ----------------- |
