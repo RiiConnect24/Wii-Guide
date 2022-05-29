@@ -14,7 +14,7 @@ Wir empfehlen nicht die Nutzung des "WAD Managers" von Waninkoko.
 
 #### Voraussetzungen
 * Eine SD-Karte oder ein USB-Laufwerk
-* [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+* [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 #### Anleitung
 
@@ -29,7 +29,7 @@ Die Bedienung erfolgt über das Steuerkreuz.
 {: .notice--info}
 
 1. Wähle `WAD Manager`. ![WAD Manager](/images/WiiModLite/2.png)
-2. Choose `Wii SD Slot` or `USB Mass Storage Device`, depending on whether you want to use an SD card or USB drive. ![Wii SD Slot](/images/WiiModLite/3.png)
+2. Wählen Sie `Wii SD Slot` oder `USB`, je nachdem, ob Sie eine SD-Karte oder ein USB-Laufwerk verwenden möchten. ![Wii SD Slot](/images/WiiModLite/3.png)
 3. Wähle die WAD Datei, die du installieren möchtest. In diesem Beispiel installieren wir das gepatchte IOS, welches für [RiiConnect24](riiconnect24) gebraucht wird. Du kannst mehrere WADs markieren, indem du die Plus-Taste drückst. ![Select them](/images/WiiModLite/4.gif)
 4. Drücke "A" doppelt, um die Installation zu starten. ![Install](/images/WiiModLite/5.png) ![Install](/images/WiiModLite/6.png)
 5. Wenn `Finishing installation... OK!` angezeigt wird, wurde die WAD-Datei erfolgreich installiert. ![Complete](/images/WiiModLite/7.png) 
