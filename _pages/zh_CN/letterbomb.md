@@ -16,10 +16,8 @@ LetterBomb是Wii的一种漏洞，它是使用Wii留言板触发的。
 #### 步骤
 
 
-1. 在你的Wii上，前往`Wii Settings` -> `Internet` -> `Console Information` 然后记下你的MAC地址。
-1. 访问[please.hackmii.com](https://please.hackmii.com)，然后输入MAC地址和Wii区域, 完成人机验证，确保勾选`Bundle the HackMii Installer for me!`然后切断任意电线
-   - 默认区域是4.3E(欧洲)，如果您位于其它区域，请选择正确的区域。
-   - 切断哪根线都无关紧要。 ![HackMii 屏幕](/images/Wii/LetterBomb-PC.png)
+1. 在你的Wii上，前往`Wii设置` -> `互联网` -> `主机信息` 然后记下你的MAC地址。
+1. 访问[please.hackmii.com](https://please.hackmii.com)，然后输入MAC地址和Wii区域, 完成人机验证，确保勾选`Bundle the HackMii Installer for me!`然后切断任意电线 ![HackMii 屏幕](/images/Wii/LetterBomb-PC.png)
 1. 将下载的ZIP解压到到SD卡的根目录。
 1. 取出SD卡并将它插入Wii。
    - SD卡必须插入Wii前面的SD卡槽。 USB读卡器将不会工作。
@@ -28,7 +26,7 @@ LetterBomb是Wii的一种漏洞，它是使用Wii留言板触发的。
    - 确保Wii的日期正确，否则您可能找不到信。
    - 在各种情况下，您可能需要往前或往后翻几天才能找到它。
    - 如果您看不到红色信，您可能使用了大于32GB的SD卡。
-   - 如果Wii在点击信后卡住，您可能选择了错误的区域。 重做步骤2并选择正确的区域。
+   - 如果Wii在点击信后卡住，您可能选择了错误的区域。 重复步骤2并选择正确的区域。
 
 
 {: .notice--warning}
