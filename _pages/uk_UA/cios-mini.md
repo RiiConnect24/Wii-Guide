@@ -1,20 +1,20 @@
 ---
-title: "d2xl cIOS for Wii mini (experimental)"
+title: "d2xl cIOS для Wii mini (експериментальний)"
 ---
 
 {% include toc title="Table of Contents" %}
 
-This tutorial will tell you how to install Leseratte's d2xl Wii mini cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
+Цей посібник покаже вам, як встановити Лесератте d2xl Wii mini cIOS (користувацький IOS). Це необхідно, якщо ви хочете завантажити ігри за допомогою USB Loader. Деякі домашні пісні можуть працювати краще за допомогою cIOS.
 
-![d2x cIOS Installer](/images/cIOS.png)
+![d2x інсталятор cIOS](/images/cIOS.png)
 
-This guide is only intended for Wii mini users. If you have a Wii, follow [this guide](cios) instead.
+Це керівництво призначено лише для користувачів Wii min. Якщо у вас є Wii, виконайте [це керівництво](cios).
 {: .notice--warning}
 
-If you need help with anything regarding this tutorial, please join [the Wii mini Hacking Discord server](https://discord.gg/6ryxnkS) (recommended)
+Якщо вам потрібна допомога щодо цього посібника, будь ласка, приєднуйтесь до [сервера Wii mini Hacking Discord](https://discord.gg/6ryxnkS) (рекомендується)
 {: .notice--info}
 
-This d2x cIOS installer was originally developed for the Wii U's vWii by DaveBaol and custom cIOS was created by Leseratte for the Wii mini. The original download page can be found [here](https://wii.leseratte10.de/d2xl-cIOS/). Leseratte's Github page can be found [here](https://github.com/Leseratte10/d2xl-cios). Please note that this cIOS is still experimental, though no problem with functionality has been reported.
+Цей d2x cIOS інсталятор було спочатку розроблено для vWii U від DaveBaol та користувацьких cIOS від Лесератте для Wii mini. Оригінальну сторінку завантаження можна знайти [тут](https://wii.leseratte10.de/d2xl-cIOS/). Leseratte's Github page can be found [here](https://github.com/Leseratte10/d2xl-cios). Please note that this cIOS is still experimental, though no problem with functionality has been reported.
 {: .notice--info}
 
 #### What you need
@@ -23,7 +23,7 @@ This d2x cIOS installer was originally developed for the Wii U's vWii by DaveBao
 * A USB drive
 * Leseratte's [d2xl cIOS Installer](/assets/files/d2xl_wii_mini_cIOS_installer_v1_beta2.zip)
 
-#### Instructions
+#### Інструкції
 
 ##### Section I - Downloading
 
@@ -52,7 +52,7 @@ The Wii and Wii mini consoles are only known to work with Ethernet adapters usin
 Do not attempt to install a Wii IOS or System Menu on the Wii mini. Doing so will likely brick your console.
 {: .notice--warning}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
+Тепер ви можете використовувати homebrew, такий як [USB-завантажувач GX](usbloadergx) і [WiiFlow](wiiflow).
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
