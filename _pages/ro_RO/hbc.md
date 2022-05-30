@@ -38,9 +38,9 @@ Acum poți folosi Homebrew Channel pentru a lansa aplicații homebrew. Open Shop
 
 Uite un sfat - când instalezi aplicații homebrew pe Cardul tău SD sau unitatea ta USB, structura dosarului tău ar trebui să arate așa:
 
-![Proper SD Card Folder Structure](images/Wii/FolderStructure.png)
+![Structura corectă a folderului cardului SD](images/Wii/FolderStructure.png)
 
-`AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
+`AppName1` și `AppName2` sunt nume substituente. Nu adaugă mai multe dosare `apps` în interiorul dosarului `apps` propriu-zis.
 
 ┃ ┣ 📂 NumeleAplicației1
 {: .notice--info}
@@ -48,5 +48,5 @@ Uite un sfat - când instalezi aplicații homebrew pe Cardul tău SD sau unitate
 ┃ ┃ ┣ 📄 icon.png
 {: .notice--info}
 
-Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
+Sfat: Iți poți da seama dacă un Wii are BootMii instalat ca boot2 dacă cititorul de discuri luminează o perioadă foarte scurtă, doar după luminarea imediată care apare când apeși pe butonul POWER.
 {: .notice--info}
