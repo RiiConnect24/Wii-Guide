@@ -4,7 +4,7 @@ title: "BlueBomb"
 
 {% include toc title="Table of Contents" %}
 
-It is **strongly** advised against using **any** video guide for hacking your Wii mini console, as there is an extremely large chance of **bricking** it.
+Wii mini konsolunuzu hacklemek için **herhangi bir** video kılavuzunu kullanmamanız **şiddetle** tavsiye edilir, çünkü son derece büyük bir **bırakma** şansı.
 {: .notice--warning}
 
 Eğer bu öğretici ile alakalı herhangi bir sorunuz varsa, lütfen [ Wii Mini Hacking adlı Discord sunucumuza](https://discord.gg/6ryxnkS) katılın (önerilir)
