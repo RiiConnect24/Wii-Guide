@@ -1,5 +1,5 @@
 ---
-title: "Site Navigation"
+title: "Навігація по сайту"
 layout: single
 sitemap: false
 ---
@@ -64,7 +64,7 @@ sitemap: false
 
 **Site**
 + [Home](/)
-+ [Get Started](get-started)
++ [Get Started](розпочніть)
 + [FAQ](faq)
 + [Donations](donations)
 {% endcapture %}
