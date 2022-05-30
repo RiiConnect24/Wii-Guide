@@ -53,7 +53,7 @@ RiiTag'i USB Loader'a bağlama adımları, kullandığınız USB Loader'a göre 
 1. WiiFlow verilerinizin bulunduğu SD Kart ya da USB sürücüyü bilgisayara takın.
 2. `/apps/wiiflow/wiiflow.ini` dosyasını metin editörü ile birlikte açın. (Eğer WiiFlow Lite kullanıyorsanız, konum `wiiflow` yerine `wiiflow_lite` olacaktır)
 3. `gamercards` kısmını arayın ve bu kısmı `gamercards=wiinnertag` olacak şekilde değiştirin.
-4. Search for `wiinnertag_url` and replace that line with `wiinnertag_url=https://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
+4. `wiinnertag_url` kısmını arayın ve bu kısmı `wiinnertag_url=http://tag.rc24.xyz/wii?game={ID6}&key={KEY}` olacak şekilde değiştirin.
 5. `wiinnertag_key` kısmını arayın ve bu kısmı `wiinnertag_key=<key>` ile `<key>` kısmını Bölüm I'de not aldığınız anahtar ile değiştirin.
 6. `gamercards_enable` kısmını arayın ve bu kısmı `gamercards_enable=yes.` olacak şekilde değiştirin.
 7. Düzenlenen `wiiflow.ini` dosyasını kaydedin.
@@ -71,7 +71,7 @@ RiiTag Dolphin, Citra ve Cemu'yu destekler. Bunun için bir Discord hesabına sa
 
 ###### Configurable USB Loader
 
-We do not offer support for Configurable USB Loader, as it's outdated compared to USB Loader GX and WiiFlow Lite.
+Daha çok USB Loader GX ve WiiFlow üzerine odaklandığımızdan dolayı Configurable USB Loader için destek sağlamıyoruz.
 {: .notice--info}
 
 `CfgLoaderConfigurator.exe` programını (sadece Windows için) kullanarak aşağıda adı geçen `config.txt` dosyasını düzenlemeyi geçebilirsiniz.
@@ -90,7 +90,7 @@ Wii'nize yükleyebileceğiniz bir RiiTag kanalımız bulunmaktadır. Başlatıld
 {: .notice--info}
 
 1. RiiTag'e giriş yapıp etiket sayfanıza gidin.
-2. Click `Download RiiTag Channel`.
+2. `RiTag Kanalını İndir`'i tıklayın.
 3. WAD dosyasını SD Kartınıza ya da USB sürücünüze koyun.
 4. Favori WAD yöneticiniz ile (tavsiyemiz [Wii Mod Lite'dır](wiimodlite)) WAD dosyasını yükleyin.
 5. Internet Channel'ın yüklü olduğundan emin olun.
