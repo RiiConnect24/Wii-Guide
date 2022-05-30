@@ -12,15 +12,15 @@ Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te
 [Riiconnect24](https://rc24.xyz/) îți permite să folosești servicii întrerupte de la WiiConnect24, care includ News, Forecast, Everybody Votes, Nintendo și Mii Contest Channel, împreună cu Wii Mail.
 
 {% capture notice-1 %}
-This guide is for regular Wiis only.
+Acest ghid este numai pentru consolele Wii clasice.
 
 - Urmează [acest tutorial](riiconnect24-vwii) dacă vrei să instalezi RiiConnect24 pe un vWii (modul Wii pe Wii U).
-- Follow [this tutorial](riiconnect24-dolphin) if you'd like to install RiiConnect24 on Dolphin Emulator.
+- Urmează [acest tutorial](riiconnect24-dolphin) dacă vrei să instalezi RiiConnect24 pe Emulatorul Dolphin.
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
+NU INSTALAȚI RIICONECT24 PE UN MINI! Nu va funcţiona şi va căra sistemul.
 {: .notice--danger}
 
 #### De ce ai nevoie
@@ -104,20 +104,20 @@ Acum îți vei seta DNS-ul la serverele noastre. Acest lucru este opțional dar 
 [Continuă la navigarea site-ului](site-navigation)<br> Avem multe alte tutoriale care s-ar putea să-ți placă.
 {: .notice--info}
 
-If you get error 107245, then you have not installed the patched IOS.
+Dacă primiți eroare 107245, atunci nu ați instalat sistemul IOS modificat.
 {: .notice--warning}
 
-If you get error 107304 or you see Nintendo's User Agreement without RiiConnect24's logo, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
+Dacă primiți eroare 107304 sau vedeți Acordul de utilizare Nintendo fără logo-ul RiiConnect24, asta înseamnă că furnizorul dvs. de servicii de Internet sau rețeaua blochează utilizarea unui DNS. Poți seta `Auto-Obtain` DNS la `On` dacă acesta este cazul. RiiConnect24 va funcționa și fără acesta. Sau poți folosi programul nostru [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest).
 {: .notice--warning}
 
-Dacă primești eroarea FORE000006, ceasul consolei tale este probabil setat incorect. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel may start working.
+Dacă primești eroarea FORE000006, ceasul consolei tale este probabil setat incorect. Setează-l la data și ora corectă, apoi așteaptă nu mai mult de o oră și Forecast Channel ar trebui să înceapă să funcționeze.
 {: .notice--warning}
 
-[If you still get FORE000006 or if you get NEWS000006, you will need to delete your SYSCONF with rc24-clear-tool](https://github.com/RiiConnect24/rc24-clear-tool/releases/latest).
+[Dacă tot primiţi FORE000006 sau dacă primiţi NEWS000006, va trebui să ştergeţi SYSCONF cu unealta rc24-clear-tool](https://github.com/RiiConnect24/rc24-clear-tool/releases/latest).
 {: .notice--warning}
 
-[If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with rc24-clear-tool.](deleting-vffs)
+[Dacă primiți orice alte erori cu Forecast Channel sau cu Canalul Știrilor, cum ar fi un cod de eroare începând cu FORE sau NEWS sau un mesaj întrerupt, puteţi încerca să ştergeţi FFFV cu unealta de curățare rc24.](deleting-vffs)
 {: .notice--warning}
 
-If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
+Dacă primești erori precum `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, du-te la Wii Settings -> Last Page -> Country și schimbă-l la United Kingdom. O să primești această eroare când folosești o țară pe care noi nu o întreținem. Contacează-ne la [support@riiconnect24.net](mailto:support@riiconnect24.net) dacă ai nevoie de ajutor suplimentar.
 {: .notice--warning}
