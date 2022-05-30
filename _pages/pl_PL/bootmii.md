@@ -9,10 +9,10 @@ Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz d
 
 ![Logo BootMii](/images/bootmii.png)
 
-Będziesz potrzebował **Karty SD**, aby utworzyć kopię zapasową NAND korzystając z BootMii. If you do not have one, you can skip this page, although it is highly recommended to make a NAND backup if you can.
+Będziesz potrzebował **Karty SD**, aby utworzyć kopię zapasową NAND korzystając z BootMii. Jeżeli jej nie masz, możesz pominąć tą stronę, jednak zalecamy aby wykonać kopię jeżeli możesz.
 {: .notice--warning}
 
-Zalecamy zainstalowanie BootMii jako boot2, jednak dostępne to jest tylko na wczesnych modelach Wii. Otherwise, it can only be installed as an IOS.
+Zalecamy zainstalowanie BootMii jako boot2, jednak dostępne to jest tylko na wczesnych modelach Wii. W przeciwnym razie może być zainstalowany jako IOS.
 {: .notice--info}
 
 Jedną z najważniejszych funkcji BootMii jest możliwość wykonania kopii zapasowej pamięci NAND Twojej konsoli Wii oraz przywrócenie jej. W tym poradniku, przedstawimy jak wykonać kopię zapasową pamięci NAND. Zalecamy utworzenie kopii zapasowej często lub przed tym jak będziesz robił coś niebezpiecznego Twojej konsoli. You can then restore from that backup for any reason.
@@ -30,21 +30,21 @@ Jeżeli w ostatnim kroku zainstalowałeś BootMii jako boot2, musisz uruchomić 
     {: .notice--info}
 
 
-    Jeśli ekran pozostaje czarny, a światło napędu optycznego świeci się na niebiesko, na Twojej karcie SD brakuje plików BootMii. Download [this zip file](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
+    Jeśli ekran pozostaje czarny, a światło napędu optycznego świeci się na niebiesko, na Twojej karcie SD brakuje plików BootMii. Pobierz [ten plik. Zip](https://static.hackmii.com/bootmii_sd_files.zip) oraz wypakuj go do folderu głównego Twojej karty SD i spróbuj ponownie.
     {: .notice--warning}
 
 3. Wejdź do ustawień (ikona z kołem zębatym).
 4. Wybierz przycisk BackupMii (ikona z zieloną strzałką - pierwsza ikona po lewej stronie).
 - Rozpocznie się kopia zapasowa pamięci NAND. Możesz obserwować postęp na ekranie.
 - "Bad Blocks" (Uszkodzone bloki) są normalne. Nie przejmuj się gdy zobaczysz je podczas wykonywania kopii zapasowej.
-- Po tym kroku, BootMii automatycznie rozpocznie weryfikację kopii zapasowej. Zalecamy przeprowadzenie weryfikacji, jednak możesz ją pominąć przez naciśnięcie przycisku EJECT na Twojej konsoli Wii. Note that if you have a disc inserted in the disc drive, pressing EJECT will also eject the disc.
+- Po tym kroku, BootMii automatycznie rozpocznie weryfikację kopii zapasowej. Zalecamy przeprowadzenie weryfikacji, jednak możesz ją pominąć przez naciśnięcie przycisku EJECT na Twojej konsoli Wii. Zauważ, że jeśli masz płytkę umieszczoną w dysku, naciśnięcie EJECT spowoduje również wyrzucenie płytki.
 5. Po zakończeniu wykonywania kopii zapasowej, wyjdź z ekranu kopii zapasowej NAND poprzez naciśnięcie dowolnego przycisku.
 6. Aby wyjść z BootMii, wybierz ikonę cofania się (ze strzałką) oraz wybierz opcję Wii Menu lub Homebrew Channel aby wrócić tam gdzie chcesz.
 
 Aby przywrócić kopię zapasową z Twojej karty pamięci SD, podążaj za instrukcjami, które są podane w RestoreMii (ikona przy BackupMii z czerwoną strzałką). To będzie użyteczne w małopodobnym przypadku kiedy zbrickujesz swoje Wii.
 {: .notice--info}
 
-To make sure you don’t lose the files, it's recommended to copy `nand.bin` and `keys.bin` from the root of your SD card to your computer.
+Aby upewnić się, że nie utracisz plików, zaleca się skopiowanie `nand. w` i `keys.bin` od katalogu głównego karty SD do komputera.
 {: .notice--info}
 
 [Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii as IOS.
