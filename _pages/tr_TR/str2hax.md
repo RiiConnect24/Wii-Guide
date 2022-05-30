@@ -29,8 +29,8 @@ Explioti barındıran sunucuya erişebilmek için DNS’i ayarlamanız gerekmekt
 5. Mevcut bağlantınızı seçin. ![Şu Anki Bağlantı](/images/RiiConnect24/Internet_5.png)
 6. `Change Settings` kısmına gidin. ![Ayarları Değiştir](/images/RiiConnect24/Internet_6.png)
 7. `Auto-Obtain DNS` kısmına (IP Address kısmına değil) gidip `No’yu` seçin, ardından `Advanced Settings` kısmına gidin. ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
-8. Type in `18.188.135.9` as the primary DNS.
-9. Type in `18.188.135.9` as the secondary DNS.
+8. Birincil DNS’i ` 18.188.135.9` olarak girin.
+9. İkincil DNS’i ` 18.188.135.9` olarak girin.
 10. Önce `Confirm’i` ardından da `Save’i` seçin. ![DNS’i kaydet](/images/RiiConnect24/Internet_10.png)
 11. Bağlantı testi yapmak için `OK’i` seçin. ![Bağlantı Testi](/images/RiiConnect24/Internet_11.png)
    - Eğer bağlantı testi başarılıysa `No’yu` seçip Wii Sistem Güncellemesi’ni geçin. ![Bağlantı Testi Başarılı](/images/RiiConnect24/Internet_12.png)
