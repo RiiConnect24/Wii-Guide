@@ -32,7 +32,7 @@ Jeśli nie instalujesz gier korzystając z Wii Backup Manager lub Witgui, stwór
 Aby grać w gry, zalecamy użycie dysku twardego zewnętrznego na USB. Napęd płomienia również powinien być użyteczny, ale zalecane są zewnętrzne dyski twarde, ponieważ są bardziej niezawodne i mogą przechowywać więcej gier.
 {: .notice--info}
 
-Upewnij sie, że Twoje urządzenie USB jest sformatowane jako FAT32 lub NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
+Upewnij sie, że Twoje urządzenie USB jest sformatowane jako FAT32 lub NTFS. Nie formatuj go do innych systemów plików takich jak extFS lub WBFS. WBFS jest starym formatem przechowywania gier Wii.
 {: .notice--info}
 
 #### Instrukcje
