@@ -21,7 +21,7 @@ Priiloader'ı **sakın** vWii'nize (Wii U'nun Wii modu) yüklemeyin. Bunu yapmak
 #### Talimatlar
 ##### Bölüm I - İndirme/Yükleme
 
-1. Download the Priiloader installer and extract it to your SD card or USB drive.
+1. D2xl cIOS Yükleyici’yi indirin ve SD kart veya USB sürücünüzde bulunan apps klasörüne çıkartın.
     * Eğer böyle bir klasör yoksa kendiniz oluşturun.
 
 ##### Bölüm II - Priiloader’ı Yüklemek
