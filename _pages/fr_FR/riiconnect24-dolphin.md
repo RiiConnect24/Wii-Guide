@@ -34,9 +34,9 @@ Si Dolphin est déjà installé, allez directement à la Section II
 1. Exécutez `VFF-Downloader-for-Dolphin.bat` sur Windows ou `VFF-Downloader-for-Dolphin.sh` sur un système Unix, que vous aurez téléchargé [ici](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
 2. Appuyez sur `1` et `ENTER` pour démarrer le programme. ![Menu principal](/images/Dolphin_RC24/2.jpg)
 3. Procédez à la configuration du programme.
-4. Il vous sera demandé si vous souhaitez exécuter le programme manuellement chaque fois que vous souhaitez utiliser RiiConnect24 sur Dolphin ou si vous souhaitez l'exécuter automatiquement au démarrage. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
+4. Il vous sera demandé si vous souhaitez exécuter le programme manuellement chaque fois que vous souhaitez utiliser RiiConnect24 sur Dolphin ou si vous souhaitez l'exécuter automatiquement au démarrage. ![Choisissez comment démarrer le programme](/images/Dolphin_RC24/3.jpg)
 
-![Run once](/images/Dolphin_RC24/4.jpg)
+![Exécuter une fois](/images/Dolphin_RC24/4.jpg)
 
 Si vous choisissez de l'exécuter manuellement, conservez `VFF-Downloader-for-Dolphin.bat`. Il y aura une option dans le menu pour l'exécuter manuellement.
 {: .notice--info}
@@ -47,8 +47,8 @@ Si vous choisissez de l'exécuter au démarrage, vous n'avez rien à faire. Si v
 ##### Section III - Finaliser l'installation
 
 1. Démarrez le patcher, sélectionnez `Install RiiConnect24`.
-2. Sélectionnez `Custom`. ![Select Custom](/images/Dolphin_RC24/5.jpg)
-3. Sélectionnez `Custom`. ![Select Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
+2. Sélectionnez `Custom`. ![Choisir la période](/images/Dolphin_RC24/5.jpg)
+3. Sélectionnez `Custom`. ![Sélectionnez le canal de vérification Mii Out](/images/Dolphin_RC24/6.jpg)
 4. Appuyez sur `1` pour sélectionner votre région et activez seulement la 5e option. Appuyez sur `6` pour démarrer le patch.
 5. Une fois terminé, il y aura un fichier `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` ou `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` dans le dossier WAD à côté de `RiiConnect24Patcher.bat`
 6. Dans Dolphin, appuyez sur `Outils` puis `Installer un WAD...`, et sélectionnez `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` ou `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
