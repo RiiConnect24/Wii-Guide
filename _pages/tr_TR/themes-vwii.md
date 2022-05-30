@@ -1,5 +1,5 @@
 ---
-title: "Installing Wii Menu Themes on vWii"
+title: "Wii Menü Temaları yükleme"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -9,37 +9,37 @@ Wii Menü'nün beyaz teması canınızı oldukça sıkıp sizi yeni tema arayı�
 Eğer konsolunuzu brick moduna sokar ya da konsolunuza başka bir hasar verirseniz; biz sorumlu **DEĞİLİZ**. Eğer bu rehberi tam olarak takip ederseniz, zaten herhangi bir sorunla karşılaşmazsınız.
 {: .notice--danger}
 
-Do **NOT** install the themes made in this guide on an actual Wii. They are only compatible with the vWii System Menu and will brick an actual Wii.
+Bu kılavuzda yapılan temaları gerçek bir Wii'ye **YÜKLEMEYİN**. Yalnızca vWii Sistem Menüsü ile uyumludurlar ve gerçek bir Wii'yi tuğlalar.
 {: .notice--danger}
 
-WiiMotes with Wii MotionPlus will not work on MyMenuify, unfortunately there isn't anything we can do about this at the moment and you'll have to use an older Wii remote.
+Wii MotionPlus'lı WiiMotes, MyMenuify'da çalışmayacak, ne yazık ki şu anda bu konuda yapabileceğimiz bir şey yok ve daha eski bir Wii uzaktan kumanda kullanmanız gerekecek.
 {: .notice--warning}
 
-There are some themes that aren't compatible with the vWii System Menu, they may result in anything from graphical glitches to a full theme brick. We recommend only using themes from [rc24.xyz/goodies/themes](https://rc24.xyz/goodies/themes/) since these are compatible with modern versions of the System Menu.
+Vwii Sistem Menüsü ile uyumlu olmayan bazı temalar vardır, bunlar grafik hatalarından tam bir tema parçasına kadar her şeye neden olabilir. Sistem Menüsünün modern sürümleriyle uyumlu olduklarından, yalnızca [rc24.xyz/goodies/themes](https://rc24.xyz/goodies/themes/) adresindeki temaları kullanmanızı öneririz.
 {: .notice--warning}
 
-If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329). ([Archive](https://web.archive.org/web/20200213194233/https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329/))
+Vwii'nizi bir şekilde tuğlaya dökerseniz, [bu kılavuzu izleyin](https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329). ([Arşiv](https://web.archive.org/web/20200213194233/https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329/))
 {: .notice--info}
 
-#### What You Need
+#### İhtiyacınız olan şeyler
 
-* A Wii U with the Homebrew Channel installed.
-* A Wiimote without Wii MotionPlus
+* Homebrew Channel kurulu bir Wii mini.
+* Wii MotionPlus'sız bir Wiimote
 * SD kart
 * Windows’u olan bir bilgisayar (ya da Mac/Linux için Mono veya Wine)
 * [MyMenuify](/assets/files/Mymenuify-Old-vWii.zip)
 * [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
-* [NUS Downloader (vWii)](/assets/files/NUSDownloader-vwii.zip)
+* [NUS İndirici (vWii)](/assets/files/NUSDownloader-vwii.zip)
 
 #### Tema Bağlantıları
 
-Below are some links to themes.
+Aşağıda bazı tema linkleri bulunmaktadır.
 
-* [RiiConnect24 Themes Page](https://rc24.xyz/goodies/themes/)
-* [Google Drive Repository](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
-* [Wii Theme Team Creations v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
+* [RiiConnect24 tema sayfası](https://rc24.xyz/goodies/themes/)
+* [Google Drive deposu](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
+* [Wii Tema Ekibi Kreasyonları v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
-Only themes from the RiiConnect24 Themes page have been tested on vWii. Themes from other sources may not be entirely compatible with vWii, use these at your own risk.
+Yalnızca RiiConnect24 Temalar sayfasındaki temalar vWii'de test edilmiştir. Diğer kaynaklardan gelen temalar vWii ile tamamen uyumlu olmayabilir, bunları kendi sorumluluğunuzda kullanın.
 {: .notice--warning}
 
 DEVAM ETMEDEN ÖNCE YUKARIDAKİ UYARILARI OKUDUĞUNUZDAN EMİN OLUN!
@@ -49,13 +49,13 @@ DEVAM ETMEDEN ÖNCE YUKARIDAKİ UYARILARI OKUDUĞUNUZDAN EMİN OLUN!
 
 ##### Bölüm I - Tema Bulma
 
-* When choosing a theme, it is important to make sure that your theme is compatible with the vWii System Menu.
+* Bir tema seçerken, temanızın vWii Sistem Menüsü ile uyumlu olduğundan emin olmanız önemlidir.
 
-* Older themes for 3.X or 2.X are **NOT** compatible with vWii and may cause a brick if used.
+* 3.X veya 2.X için daha eski temalar vWii ile **Uyumlu DEĞİLDİR** ve kullanılırsa tuğla oluşmasına neden olabilir.
 
-* Most of the themes on RiiConnect24's theme page have been tested on vWii and they are known to work.
+* RiiConnect24'ün tema sayfasındaki temaların çoğu vWii üzerinde test edilmiştir ve çalıştıkları bilinmektedir.
 
-##### Section II - Downloading .app files
+##### Bölüm II - .app dosyalarını indirme
 
 This assumes your vWii is on the latest Wii Menu version.
 {: .notice--warning}
