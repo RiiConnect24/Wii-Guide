@@ -19,13 +19,13 @@ Dla oryginalnego Wii, nie zalecamy używania BlueBomb jeśli chcesz zainstalowa�
 
 #### Sekcja I - Będziesz potrzebował:
 - Komputera z systemem operacyjnym Linux
-  - A Virtual Machine may work, but it is not recommended due to its complexity in getting Bluetooth passthrough working. If possible, please use a LiveUSB as described below.
-  - If you have a Raspberry Pi, you can use that instead as it most likely has Linux installed already.
-  - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports.
-  - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
-    - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
-    - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
-  - You can [flash a Linux Live environment to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
+  - Urządzenie wirtualne może działać, ale nie jest zalecane ze względu na jego złożoność w działaniu przejścia Bluetooth. Jeśli to możliwe, użyj LiveUSB w sposób opisany poniżej.
+  - Jeżeli masz Raspberry Pi, możesz z niego skorzystać, ponieważ prawdopodobnie masz na nim zainstalowanego Linux'a.
+  - Podsystem Windows dla Linux'a * nie zadziała*, ponieważ nie ma bezpośredniego dostępu do adaptera Bluetooth oraz portów USB.
+  - Jeżeli nie masz komputera z systemem Linux [Ubuntu](https://ubuntu.com/download/desktop) jest łatwy w obsłudze oraz może zostać uruchomiony na komputerach z Windows'em lub Mac'iem.
+    - Urządzenia 32 bitowy będą wymagały [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
+    - Dla 64 bitowych urządzeń, zalecamy skorzystanie z edycji LTS z powodu jej stabilności. Najnowsza wersja również zadziała.
+  - Możesz [stworzyć pendrive z Linux'em](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) jeżeli nie chcesz instalować tego systemu na Twoim komputerze.
 - Adapter Bluetooth.
   - Wbudowany adapter Bluetooth również zadziała.
   - Jeżeli nie masz adaptera, upewnij się, że zdobędziesz taki, który jest kompatybilny z Linux'em.
@@ -36,7 +36,7 @@ Dla oryginalnego Wii, nie zalecamy używania BlueBomb jeśli chcesz zainstalowa�
 1. Pobierz instalator HackMii ze [strony BootMii](https://bootmii.org/download/).
 - (Jeżeli próbujesz naprawić bricka, powinieneś również skopiować aplikację homebrew z której chcesz skorzystać do /apps/)
 1. Wypakuj go oraz skopiuj plik `boot.elf` na Twój pendrive.
-- (Even for a Wii mini, bootmini.elf will **not** work, its purpose is entirely different and unrelated. Use boot.elf in all cases). 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright). (or the right port if it's upright). 1. Turn on your console and navigate to the settings menu. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+- (Nawet na Wii mini bootmini.elf **nie** zadziała, jego cel jest zupełnie inny i niepowiązany. Użyj boot.elf we wszystkich przypadkach). 1. Podłącz pendrive do Twojej konsoli. Na Wii Mini, port USB jest na tyle konsoli. For a normal Wii, use the bottom port. (or the right port if it's upright). (Lub portu po prawej, jeżeli konsola stoi). 1. Włącz konsolę i przejdź do menu ustawień. W górnym prawym rogu ujrzysz 4 znakowy kod, taki jak na zdjęciu poniżej. Ten kod jest Twoją wersją systemu operacyjnego. Zapisz go, będziemy tego potrzebowali później. Po zrobieniu tego, wyłącz Twoją konsolę. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Uruchom Twoją dystrybucję Linux'a oraz upewnij się, że jesteś podłączony do Internetu.
 1. Włącz konsole oraz **nie** podłączaj żadnych Wii Remote'ów.
 1. Uruchom poniższą komendę:
@@ -51,13 +51,13 @@ chmod +x bluebomb-helper.sh
 1. Włącz konsole oraz **nie** podłączaj żadnych Wii Remote'ów.
 1. Zacznij naciskać (nie przytrzymywać) przycisk synchronizacji, dopóki na terminalu nie zostanie wyświetlony `Got connection handle`. Może to wymagać kilku prób - nie poddawaj się!
 
-Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
+Upewnij się, że konsola jest blisko komputera podczas wykonywania exploitu. Najlepiej, żeby odległość wynosiła mniej niż metr.
 {: .notice--info}
 
-The console should now boot to the HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
+Konsola powinna teraz uruchomić instalator HackMii. Możesz teraz wyłączyć Twój komputer z Linuxem, jeżeli nie będziesz z niego korzystał.
 
-[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
+[Jeżeli używasz Wii, przejdź do instalacji Homebrew Channel oraz BootMii](hbc)
 {: .notice--info}
 
-[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
+[Jeżeli używasz Wii Mini, przejdź do instalacji Homebrew Channel](hbc-mini)
 {: .notice--info}
