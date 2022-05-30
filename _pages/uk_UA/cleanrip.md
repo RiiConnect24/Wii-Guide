@@ -1,24 +1,24 @@
-#### What you need
+#### Що вам потрібно
 
-* An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
+* An SD card or USB drive with at least 4.7 GB of free space.
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
-#### Instructions
+#### Інструкції
 
-##### Section I - Downloading/Installing
+##### Розділ I - Завантаження/Встановлення
 
-1. Extract CleanRip and put it in the `apps` folder on your SD card or USB drive.
-1. Insert your SD card into your Wii, and launch CleanRip from the Homebrew Channel.
+1. Розпакувати CleanRip і покласти його в папку `додатків` на SD-карті або USB-накопичувач.
+1. Вставте свою SD-карту в свої Wii і запустіть CleanRip із Homebrew Channel.
 
-##### Section II - Ripping
+##### Розділ ІІ
 
-1. Select your device that you will be dumping the game to - your USB drive or SD card. ![Device type](/images/CleanRip/2.png)
-1. On this screen, it asks you if you want to download a file with game checksums so you can verify the dump created is a 1:1 copy of the disc. It's your choice whether to say `Yes` or `No` to download this file. ![DAT](/images/CleanRip/3.png)
-1. Now insert the game you want to dump. ![DVD](/images/CleanRip/4.png) ![Initialising Disc](/images/CleanRip/5.png)
-1. Set it as shown on the screen below.
+1. Виберіть пристрій, в якому ви будете вивантажувати гру - USB-накопичувач або SD-карту. ![Тип пристрою](/images/CleanRip/2.png)
+1. На цьому екрані, він просить вас завантажити файл з контрольною сумою ігор, тому ви можете перевірити створену вивчення: 1:1 копія диску. Це ваш вибір, чи сказати `Так` чи `Ні` завантажити цей файл. ![DAT](/images/CleanRip/3.png)
+1. Вставте гру, яку ви хочете вивантажити. ![DVD](/images/CleanRip/4.png) ![Ініціалізація Rpc](/images/CleanRip/5.png)
+1. Встановіть його як показано на екрані нижче.
 
 title: "CleanRip"
 {: .notice--info}
 
-![Settings](/images/CleanRip/6.png)
-1. CleanRip will now dump your game. It can take a while, since it will dump the full 4.7 GB disc contents (8.5 GB for dual layer discs). ![Copying](/images/CleanRip/7.png)
+![Налаштування](/images/CleanRip/6.png)
+1. CleanRip тепер вивантажить свою гру. Це може зайняти деякий час, оскільки це скине повний диск 4,7 Гб (8.5 GB для подвійних шарових дисків). ![Копіювання](/images/CleanRip/7.png)
