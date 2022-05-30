@@ -4,7 +4,7 @@ title: "Wii Mod Lite"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Якщо Вам потрібна допомога до даного посібника, будь ласка, приєднайтеся до [сервер Discord](https://discord.gg/rc24) (рекомендовано) або [напишіть нам на support@riicont24. ет](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 This tutorial will explain you how to install WADs on your Wii with Wii Mod Lite. The WAD manager of choice is Wii Mod Lite, but there are others such as YAWMM.
@@ -16,7 +16,7 @@ We do not recommend using "WAD Manager" by Waninkoko.
 * An SD card or USB drive
 * [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
-#### Instructions
+#### Інструкції
 
 ##### Section I - Downloading
 
