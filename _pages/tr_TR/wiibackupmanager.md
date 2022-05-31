@@ -20,7 +20,7 @@ Eğer macOS kullanıyorsanız [Witgui](https://desairem.com/wordpress/category/w
 Birden fazla oyun oynamak isterseniz, Wii’niz için bir harici bellek kullanmanızı tavsiye ederiz. Bundan böyle rehberde bundan "USB sürücü" diye bahsedeceğiz. Eğer USB 2 geriye uyumluluğu varsa marketlerde bulacağımız herhangi bir bellek çalışır. 1TB veya daha fazla hafızası olanlar da çalışır. Ayrıca flash bellek de çalışır. Ancak belleğin kısıtlı depolamasından dolayı pek oyun depolayamaz.
 {: .notice--info}
 
-USB sürücünüzün FAT32 ya da NTFS formatında olduğundan emin olun. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
+USB sürücünüzün FAT32 ya da NTFS formatında olduğundan emin olun. ExtFS ya da Wii oyunlarını depolayan eski bir format olan WBFS gibi farklı türde bir formatta olmamalı.
 {: .notice--info}
 
 #### Talimatlar
