@@ -37,11 +37,11 @@ We recommend you [install cIOS](cios) before continuing.
 
 #### Enlaces de temas
 
-Below are some links to themes.
+A continuación hay algunos iconos y sus significados.
 
-* [RiiConnect24 Themes Page](https://rc24.xyz/goodies/themes/)
-* [Google Drive Repository](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
-* [Wii Theme Team Creations v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
+* [Página de temas de RiiConnect24](https://rc24.xyz/goodies/themes/)
+* [Repositorio de Google Drive](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
+* [Restringir la creación de equipos](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
 ¡ASEGURATE DE QUE HAS LEIDO TODAS LAS ADVERTENCIAS ANTES DE CONTINUAR!
 {: .notice--danger}
