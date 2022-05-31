@@ -57,7 +57,7 @@ Los siguientes servicios de RiiConnect24 actualmente están funcionando en el vW
 
 ##### Seccion I - Descargar el parcheador de WiiWare
 
-This assumes your vWii is on the latest Wii Menu version.
+Asegúrate de que tu amigo esté usando la última versión.
 {: .notice--warning}
 
 Hay un par de maneras de conseguir el . Los archivos de pp para el Menú de tu consola vWii, en esta guía usaremos la versión vWii del Descargador NUS.
@@ -74,9 +74,9 @@ Hay un par de maneras de conseguir el . Los archivos de pp para el Menú de tu c
 
 Después de seleccionar la versión correcta para descargar, marque la casilla `Crear Contenido Descifrado (*.app)`. A continuación, presione el botón Iniciar y se iniciará la ronda.
 
-![The database menu in NUS Downloader.](/images/Themes-vWii/NUSD-vWii_preview-database.png)
+![Extrae y ejecuta NUS Downloader.](/images/Themes-vWii/NUSD-vWii_preview-database.png)
 
-![The main menu of NUS downloader without the database menu open.](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
+![Los elementos principales son el Menú de usuario y el menú "Acerca de".](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
 
 Después de que la base de datos haya terminado de descargar, es una buena idea añadir un archivo limpio a él antes de iniciar el Relay.
 
@@ -98,22 +98,22 @@ Después de encontrar el archivo .app, cópielo al directorio principal de la ca
 4. Haz clic en `Create csm`, y después elige la carpeta donde quieres guardar el tema.
 5. Guarda el archivo XML en la carpeta /apps/usbloader_gx/lt;/code> en la tarjeta SD o unidad USB, reemplazando el archivo Wiinnertag.xml ya existente.
 
-![ThemeMii Menu](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
+![Menú ThemeMii](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
 
 ##### Sección III - Instalando el tema
 
-1. Eject your SD card from your PC and put it into your Wii U.
-2. Start the Homebrew Channel and launch MyMenuify.
-3. Navigate to your theme folder and select the .csm file you just created.
-4. When it prompts you to install the theme say `Yes`, and wait for it to finish.
-5. When it finishes installing, MyMenuify will prompt you to either `Continue` or `Exit`, choose `Exit`.
+1. Conecta la tarjeta SD o unidad USB a tu Wii.
+2. Abre el Homebrew Channel en tu Wii Mini.
+3. Navegue por los archivos de su ordenador y seleccione el archivo Zip para su nuevo tema.
+4. Presiona (Cross) sobre «Paste» (pegar) y espera a que termine el proceso.
+5. Cuando aparezca `Fakesign the ticket`, selecciona `Yes`.
 
-If you did everything correctly, you should now have your custom theme installed on your Wii Menu.
+Si hiciste todo correctamente, ejecuta Asf, y deberías ver.
 
-##### Reverting to Original Theme
+##### Restaurando tema original
 
 1. Inicia el Canal Homebrew.
-2. Launch MyMenuify and navigate to your theme folder.
-3. Select the .app file you copied to the SD card at the end of section 2 as if you were installing a theme.
-4. Select Install and wait until it finishes.
-5. When it's done, you can exit MyMenuify.
+2. Inicia MyMenuify Mod desde el Canal Homebrew.
+3. Selecciona el archivo .app que has copiado a la tarjeta SD al final de la sección 2 como si estuvieras instalando un tema.
+4. Espere hasta que haya terminado.
+5. Cuando termine, oirá un pitido.
