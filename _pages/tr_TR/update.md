@@ -1,5 +1,5 @@
 ---
-title: "Updating Wii Menu to v4.3"
+title: "Wii Menüsünü v4.3'e Güncelleme"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -7,41 +7,41 @@ title: "Updating Wii Menu to v4.3"
 Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-This tutorial will explain how to update your Wii Menu to version 4.3, as you can no longer use the updater built into the Wii Menu since the servers are no longer up.
+Bu öğretici, Wii Menüsünü sürüm 4.3'e nasıl güncelleyeceğinizi açıklayacaktır, çünkü sunucular artık çalışmadığından Wii Menüsünde yerleşik güncelleyiciyi artık kullanamazsınız.
 
 #### İhtiyacınız olan şeyler
 * SD Kart veya USB sürücü
-* A computer with Windows on it
-* [IOS58 Installer](https://oscwii.org/library/app/ios58-installer)
-* [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest)
+* Üzerinde Windows bulunan bir bilgisayar
+* [IOS58 Yükleyici](https://oscwii.org/library/app/ios58-installer)
+* [NUS İndirici (vWii](https://github.com/WiiDatabase/nusdownloader/releases/latest)
 * [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
-If you don't have a Windows computer, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 #### Talimatlar
 
 ##### Bölüm I- İndirme
 
-Your Wii must be modded in order to perform this. If it isn't, then it's best to follow [the guide](get-started) first before doing this.
+Bunu yapabilmek için Wii'nizin modlanmış olması gerekir. Değilse, bunu yapmadan önce [kılavuzu](get-started) takip etmek en iyisidir.
 {: .notice--info}
 
-To protect against bricks, [make sure you install Priiloader](priiloader). Also, install [BootMii](bootmii) (as Boot2 if you have an early Wii, otherwise IOS). Bu rehberi takip ederken brick koruması yüklemek sizi brick modundan koruyacaktır. PRIILOADER VE BOOTMII'Yİ YÜKLEMEDEN SAKIN DEVAM ETMEYİN!
+Tuğlalara karşı koruma sağlamak için [Priiloader'ı yüklediğinizden emin olun](priiloader). Ayrıca, [BootMii](bootmii)'yi yükleyin (erken bir Wii'niz varsa Boot2 olarak, aksi takdirde IOS olarak). Bu rehberi takip ederken brick koruması yüklemek sizi brick modundan koruyacaktır. PRIILOADER VE BOOTMII'Yİ YÜKLEMEDEN SAKIN DEVAM ETMEYİN!
 {: .notice--danger}
 
-1. Extract the .zip file for NUS Downloader vWii and open the application.
-2. Go to `Database...` > `System` > `0000000100000002 - System Menu` and select the version corresponding to your region as shown in the table below.
-3. Make sure `Pack WAD` is checked.
-4. Press `Start NUS Download!`.
-5. Open the `titles` -> `0000000100000002` -> (Wii Menu version) and copy the .wad file to a folder called `wad` on your SD Card or USB drive.
-6. (If you have [RiiConnect24](riiconnect24), you can skip this step) Repeat steps 2-5 with `IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
+1. NUS Downloader vWii için .zip dosyasını ayıklayın ve uygulamayı açın.
+2. `Veritabanına...` gidin > `Sistem` > `0000000100000002 - Sistem Menüsü` ve aşağıdaki tabloda gösterildiği gibi bölgenize karşılık gelen sürümü seçin.
+3. `WAD Paketi`'nin işaretli olduğundan emin olun.
+4. `NUS İndirmeyi Başlat!`'a basın.
+5. `başlıkları` -> `0000000100000002` -#062; (Wii Menü sürümü) ve .wad dosyasını SD Kartınız veya USB sürücünüzdeki `wad` adlı bir klasöre kopyalayın.
+6. ([RiiConnect24](riiconnect24)'e sahipseniz, bu adımı atlayabilirsiniz) 2-5 arasındaki adımları `IOS` ile tekrarlayın -> `0000000100000050 - IOS80` -#062; `Son Sürüm`.
 
-| Region | Wii Menu version |
-| ------ | ---------------- |
-| Japan  | v512 (4.3J)      |
-| USA    | v513 (4.3U)      |
-| Europe | v514 (4.3E)      |
-| Korea  | v518 (4.3K)      |
+| Bölge                       | Vwii Menü sürümü |
+| --------------------------- | ---------------- |
+| Japonya                     | v512 (4.3J)      |
+| Amerika Birleşik Devletleri | v513 (4.3U)      |
+| Avrupa                      | v514 (4.3E)      |
+| Kore                        | v518 (4.3K)      |
 
 ##### Bölüm II - Yükleme
 
@@ -52,11 +52,11 @@ Bu aracı kullanabilmek için +Kontrol Tuşları gereklidir.
 2. Wii’nizde bulunan Homebrew Channel’ı başlatın.
 3. Wii Mod Lite’ı başlatın.
 4. Wii kumandanızda bulunan +Kontrol Tuşlarını kullanarak önce `WAD Manager`’ı daha sonra `wad` klasörünü seçin.
-5. Press A to install the IOS80. [`Make sure the installation is successful, otherwise abort.`]
-6. Press A to install the Wii Menu WAD.
+5. IOS80'i kurmak için A'ya basın. [`Yüklemenin başarılı olduğundan emin olun, aksi takdirde iptal edin.`]
+6. Wii Menu WAD'ı kurmak için A'ya basın.
 7. Dosyalar başarıyla yüklendiği vakit, HOME tuşuna basarak Homebrew Channel'a geri dönün.
-8. Launch IOS58 Installer.
-9. Follow the instructions to install IOS58.
+8. IOS58 Installer'ı başlatın.
+9. IOS58'i yüklemek için talimatları izleyin.
 
-[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it.
+[Priiloader Kurulumuna Devam](priiloader)<br> Priiloader bir seviye tuğla koruması ekler ve bunu tavsiye ederiz.
 {: .notice--info}
