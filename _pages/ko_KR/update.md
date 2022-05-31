@@ -36,12 +36,12 @@ Windows 컴퓨터가 없는 경우 [RiConnect24 Discord 서버](https://discord.
 5. `제목` 열기 -> `0000000100000002` -> (Wii 메뉴 버전) .wad 파일을 SD 카드 또는 USB 드라이브의 `wad` 폴더에 복사합니다.
 6. ([RiiConnect24](riiconnect24)가 있는 경우 이 단계를 건너뛸 수 있습니다.) `IOS` -> `0000000100000050 - IOS80` -> `최신 버전`.
 
-| 영역    | Wii 메뉴 버전   |
-| ----- | ----------- |
-| 일본    | v512(4.3J)  |
-| 미국    | v513 (4.3U) |
-| 유럽    | v514 (4.3E) |
-| Korea | v518 (4.3K) |
+| 영역 | Wii 메뉴 버전   |
+| -- | ----------- |
+| 일본 | v512(4.3J)  |
+| 미국 | v513 (4.3U) |
+| 유럽 | v514 (4.3E) |
+| 한국 | v518 (4.3K) |
 
 ##### 섹션 II - 설치하기
 
@@ -52,11 +52,11 @@ Windows 컴퓨터가 없는 경우 [RiConnect24 Discord 서버](https://discord.
 2. Wii에서 홈브루 채널을 실행하세요.
 3. Wii Mod Lite를 실행하세요.
 4. Wii 리모컨의 +컨트롤 패드를 사용하여, `WAD Manager`를 찾으세요. 그 뒤 `wad` 폴더로 이동하세요.
-5. Press A to install the IOS80. [`Make sure the installation is successful, otherwise abort.`]
-6. Press A to install the Wii Menu WAD.
+5. A를 눌러 IOS80을 설치합니다. [`설치가 성공했는지 확인하고 그렇지 않으면 중단합니다.`]
+6. A를 눌러 Wii 메뉴 WAD를 설치합니다.
 7. 설치가 완료되고 나면, HOME 버튼을 눌러 홈브루 런처로 되돌아가세요.
-8. Launch IOS58 Installer.
-9. Follow the instructions to install IOS58.
+8. IOS58 설치 프로그램을 실행합니다.
+9. 지침에 따라 IOS58을 설치하십시오.
 
-[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it.
+[Priiloader 설치 계속](priiloader)<br> Priiloader는 벽돌 보호 수준을 추가하며 이를 권장합니다.
 {: .notice--info}
