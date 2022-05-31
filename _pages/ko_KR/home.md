@@ -31,7 +31,7 @@ excerpt: "완벽힌 Wii 해킹 가이드."
 - [WiiConnect24](riiconnect24)나 [Nintendo Wi-Fi 커넥션](wiimmfi)과 같은 서비스가 종료된 서비스를 되살려 보세요.
 - [BootMii](bootmii)로 Wii 시스템 저장공간 (NAND)를 백업하고 복원하세요.
 - [Priiloader](priiloader)와 BootMii로 벽돌을 막아보세요.
-- Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
+- [WiiMC](https://oscwii.org/library/app/wiimc-ss)로 Wii 미디어 플레이어를 만들어보세요.
 
 
 ## 준비됐나요?
