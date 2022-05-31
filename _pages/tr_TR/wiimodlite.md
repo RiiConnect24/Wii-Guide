@@ -29,7 +29,7 @@ Bu aracı kullanabilmek için +Kontrol Tuşları gereklidir.
 {: .notice--info}
 
 1. `WAD Manager’ı` seçin. ![WAD Manager](/images/WiiModLite/2.png)
-2. Choose `Wii SD Slot` or `USB Mass Storage Device`, depending on whether you want to use an SD card or USB drive. ![Wii SD Girişi](/images/WiiModLite/3.png)
+2. SD kart mı yoksa USB sürücü mü kullanmak istediğinize bağlı olarak `Wii SD Yuvası` veya `USB Yığın Depolama Aygıtı`'nı seçin. ![Wii SD Girişi](/images/WiiModLite/3.png)
 3. Yüklemek istediğiniz WAD dosyasını seçin. Misalen bunda, [RiiConnect24](riiconnect24) için gereken yamalanmış IOS dosyalarını yükleyeceğiz. + tuşuna basarak birden fazla WAD dosyası seçebilirsiniz. ![Bunları seç](/images/WiiModLite/4.gif)
 4. "A" tuşuna iki kere basarak yüklemeyi başlatın. ![Yükle](/images/WiiModLite/5.png) ![Yükle](/images/WiiModLite/6.png)
 5. Eğer `Finishing installation... OK!` göründüyse, WAD dosyası başarıyla yüklenmiştir. ![Tamamlandı](/images/WiiModLite/7.png) 
