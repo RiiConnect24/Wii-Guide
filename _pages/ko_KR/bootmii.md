@@ -9,10 +9,10 @@ title: "BootMii 백업"
 
 ![BootMii 로고](/images/bootmii.png)
 
-BootMii를 이용한 NAND 백업을 하려면, **SD카드**가 필요합니다. If you do not have one, you can skip this page, although it is highly recommended to make a NAND backup if you can.
+BootMii를 이용한 NAND 백업을 하려면, **SD카드**가 필요합니다. 없는 경우 이 페이지를 건너뛸 수 있지만 가능하면 NAND 백업을 만드는 것이 좋습니다.
 {: .notice--warning}
 
-Boot2를 이용하는 BootMii를 추천하지만, 초기 Wii에서만 설치할 수 있습니다. Otherwise, it can only be installed as an IOS.
+Boot2를 이용하는 BootMii를 추천하지만, 초기 Wii에서만 설치할 수 있습니다. 그렇지 않으면 IOS로만 설치할 수 있습니다.
 {: .notice--info}
 
 BootMii의 주요 기능 중 하나는 Wii의 NAND 저장소를 백업하고 복원하는 겁니다. 여기서는 NAND 백업 방법을 알아볼겁니다. 콘솔에 위험한 작업을 하기 전 또는 주기적으로 NAND 백업을 하는 것이 좋습니다 (무엇을 하는지 알고 있다면, 위험하진 않습니다). You can then restore from that backup for any reason.
@@ -30,21 +30,21 @@ BootMii가 boot2로 설치되었다면 콘솔을 재시작하여 BootMii를 실�
     {: .notice--info}
 
 
-    화면이 검정색으로 유지되고 파랑 디스크 드라이브 전등이 깜빡인다면, SD 카드에 BootMii 파일이 없는 겁니다. Download [this zip file](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
+    화면이 검정색으로 유지되고 파랑 디스크 드라이브 전등이 깜빡인다면, SD 카드에 BootMii 파일이 없는 겁니다. [이 zip 파일](https://static.hackmii.com/bootmii_sd_files.zip)을 다운로드하고 SD 카드의 루트에 압축을 푼 다음 다시 시도하세요.
     {: .notice--warning}
 
-3. Select the Options button (the icon with the gears).
-4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left).
+3. 옵션 버튼(기어가 있는 아이콘) 을 선택합니다.
+4. BackupMii 버튼(녹색 화살표가 있는 아이콘, 왼쪽의 첫 번째 아이콘이라고도 함) 을 선택합니다.
 - NAND 백업이 시작됩니다. 화면에서 진행 상황을 확인할 수 있습니다.
 - "배드 블록"은 정상적입니다. NAND 백업 중 뭔가 발견해도 걱정하지 마십시오.
-- 이 단계 이후, 백업을 확인합니다. 권장되긴 하지만, Wii의 EJECT 버튼으로 건너뛸 수 있습니다. Note that if you have a disc inserted in the disc drive, pressing EJECT will also eject the disc.
+- 이 단계 이후, 백업을 확인합니다. 권장되긴 하지만, Wii의 EJECT 버튼으로 건너뛸 수 있습니다. 디스크 드라이브에 디스크가 들어 있는 경우 EJECT를 눌러도 디스크가 꺼집니다.
 5. 백업이 완료되면, NAND 백업 화면을 아무 버튼이나 눌러서 빠져나가세요.
 6. BootMii를 나가려면, 이전 버튼(화살표가 있음)을 누르고 Wii 메뉴 버튼 또는 홈브루 채널 둘 중 하나를 눌러 원하는 곳으로 이동하세요.
 
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). This is useful in the unlikely case you brick your Wii.
+SD 카드의 NAND 백업에서 복원하려면 RestoreMii(빨간색 화살표가 있는 아이콘, 왼쪽의 두 번째 아이콘이라고도 함) 를 사용하여 이 지침을 따를 수 있습니다. 이것은 Wii를 벽돌로 만드는 경우에 유용합니다.
 {: .notice--info}
 
-To make sure you don’t lose the files, it's recommended to copy `nand.bin` and `keys.bin` from the root of your SD card to your computer.
+파일을 잃지 않도록 SD 카드의 루트에서 컴퓨터로 `nand.bin` 및 `keys.bin`을 복사하는 것이 좋습니다.
 {: .notice--info}
 
 [Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii as IOS.
