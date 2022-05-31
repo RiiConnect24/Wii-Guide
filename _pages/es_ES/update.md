@@ -36,12 +36,12 @@ En el caso de un brick, [instalando PriiLoader es una necesidad](priiloader). Ta
 5. Crea una carpeta llamada `modthemes` en la raíz de la tarjeta SD o unidad USB y copia el archivo csm que guardaste antes a dicha carpeta.
 6. En la barra superior del menú, selecciona `Image` -> `Mode` -> `Indexed...`.
 
-| Región | Wii Menu version |
-| ------ | ---------------- |
-| Japón  | v512 (4.3J)      |
-| USA    | v513 (4.3U)      |
-| Europa | v514 (4.3E)      |
-| Corea  | v518 (4.3K)      |
+| Región | Versión del Menú Wii |
+| ------ | -------------------- |
+| Japón  | v512 (4.3J)          |
+| USA    | v513 (4.3U)          |
+| Europa | v514 (4.3E)          |
+| Corea  | v518 (4.3K)          |
 
 ##### Sección II - Instalación
 
