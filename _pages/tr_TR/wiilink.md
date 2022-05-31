@@ -18,56 +18,56 @@ Wii Link ve bütün hizmetleri (Wii no Ma gibi), RiiConnect24 tarafından kontro
 
 #### Talimatlar
 
-##### Optional: Wii Patcher
-The Wii Patcher will not work on Dolphin. If you are a Dolphin user, please use the other patchers.
+##### İsteğe bağlı: Wii Yama
+Wii Patcher, Dolphin'de çalışmayacak. Dolphin kullanıcısıysanız, lütfen diğer yamaları kullanın.
 {: .notice--info}
 
-If you use the Wii Patcher, you will not need to use our other patchers.
+Wii Patcher kullanıyorsanız, diğer patcherlarımızı kullanmanıza gerek kalmayacak.
 {: .notice--info}
 
-1. Download the WAD based on your console. For Wii it will be `WiiLink_Patcher_Wii.wad`. For vWii it will be `WiiLink_Patcher_vWii.wad`.
-2. Place the WAD in the `WAD` folder on your SD Card/USB.
-3. Insert your SD Card/USB in your Wii
-4. Install the WAD using Wii Mod Lite or any other WAD Manager.
-5. Launch the `WiiLink Patcher` channel from the Wii Menu.
-6. Select the channel you would like to download.
-7. Select the language you would like to download.
-8. If all worked, the channels should be on your Wii Menu.
+1. Konsolunuza göre WAD'ı indirin. Wii için `WiiLink_Patcher_Wii.wad` olacaktır. Wii için `WiiLink_Patcher_Wii.wad` olacaktır.
+2. WAD'yi SD Kartınız/USB'nizdeki `WAD` klasörüne yerleştirin.
+3. SD Kartınızı Wii U’nuza takın
+4. Dosyaları Wii Mod Lite veya başka bir WAD Yöneticisi ile yükleyebilirsiniz.
+5. Wii Menüsünden `WiiLink Patcher` kanalını başlatın.
+6. Eklemek istediğiniz girişleri seçin.
+7. Eklemek istediğiniz girişleri seçin.
+8. Hepsi işe yaradıysa, kanallar Wii Menünüzde olmalıdır.
 
-##### Section I - Patching WADs
+##### Bölüm I - WAD dosyalarını yamalamak
 
 [WAD dosyalarının nasıl yükleneceğine dair daha detaylı bir talimat görmek istiyorsanız buraya tıklayın!](wiimodlite)
 {: .notice--info}
 
-1. Download the required files based on your OS. On Windows, run `WiiLinkPatcher.bat`. On Unix systems, launch terminal and type sh, then drag the `WiiLinkPatcher.sh` into the terminal and press enter.
+1. İşletim sisteminize göre gereken dosyaları indirin. Windows’da `WiiLinkPatcher.bat` uygulamasını çalıştırın. Unix sistemlerinde, terminali başlatıp ''sh'' yazın, `WiiLinkPatcher.sh` dosyasını terminale taşıyıp Enter'a basın.
 2. 1 'e basarak "`Start`" deyin ve tercihlerinizi onaylamak için `ENTER` tuşuna basın.
-3. For this guide, choose "`Install WiiLink on your Wii`"
-4. Select your region.
-5. Connect the SD Card or USB Drive to your computer and select "`1`".
-6. Eğer sürücünüz başarıyla algılandıysa, "`1`"i seçin. If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
-7. Be patient...
-8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
-9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLinkPatcher.bat` to your SD Card or USB Device.
+3. Bu rehber için "`Install WiiLink on your Wii`" seçeneğini seçin
+4. Bölgenizi seçin.
+5. SD kartınızı ya da USB sürücünüzü bilgisayara bağlayın ve "`1`"i seçin.
+6. Eğer sürücünüz başarıyla algılandıysa, "`1`"i seçin. Algılanmadıysa, SD Kartınız ya da USB sürücünüzde `apps` klasörü olduğundan emin olun.
+7. Sabırlı olun...
+8. Tamamlandığı vakit, yamalayıcıyı güvenle kapatabilirsiniz. Bütün dosyaların, SD Kartınızda hazır olmuş olması gerekir.
+9. Eğer her şey otomatik olarak SD Kartınıza ya da USB sürücünüze kopyalanmadıysa, `WAD` dosyasını ve `apps` klasörünü SD Kartınızda ya da USB sürücünüzde bulunan `WiiLinkPatcher.bat` dosyasının bulunduğu yere koyun.
 10. SD Kartınızı veya USB sürücünüzü Wii’ye takın.
 11. Wii’nizde bulunan Homebrew Channel’ı başlatın.
 12. Wii Mod Lite’ı başlatın.
 13. Wii kumandanızda bulunan +Kontrol Tuşlarını kullanarak önce `WAD Manager`’ı daha sonra `wad` klasörünü seçin.
-14. If your Wii is not a Japanese region, install WiiLink24_SPD.wad before anything else. This is required so that we know your email address to send files.
-15. Highlight all other WADs with `WiiLink24` in the name, and press + to select them. Hepsi seçildiğinde A'ya iki kere basarak WAD yüklemesine başlayın.
+14. Eğer Wii'nizin bölgesi Japonya değilse, ilk önce WiiLink24_SPD.wad dosyasını yükleyin. Dosyalarınızı e-posta adresinize gönderebilmemiz için bu gereklidir.
+15. `WiiLink24` ile birlikte diğer bütün WAD dosyalarını + tuşuna basarak işaretleyin. Hepsi seçildiğinde A'ya iki kere basarak WAD yüklemesine başlayın.
 16. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
-##### Section II - Adding your email to SPD
+##### Bölüm II - SPD'ye e-postanızı ekleyin
 
-Adding your email to SPD will allow channels like Digicam and Demae to send files like images or links to you.
+E-postanızı SPD'ye eklemek, Digicam ve Demae gibi kanalların size resim veya link gibi dosyalar gönderebilmesini sağlar.
 {: .notice--info}
 
-1. Launch Digicam Print Channel from your Wii's home menu.
-2. On the bottom right, press `Address settings` and then `Yes`.
-3. Click on `Email Address` within SPD and type in your email address. (make sure you **put it in correctly** or it **will not work!**)
-4. Press `OK` and then `Done`.
-5. Once you are in the SPD main menu, choose `Digicam` in the `Choose Channel` menu. After you’ve done that, it should work!
+1. Wii Menü'den Digicam Print Channel'ı başlatın.
+2. Sağ altta bulunan `Address settings` kısmına basıp `Evet`'i seçin.
+3. SPD dahilindeki `Email Address` kısmına girip e-postanızı girin. (**doğru girdiğinizden** emin olun, yoksa hizmet **çalışmaz!**)
+4. Önce `OK` sonra `Done` deyin.
+5. SPD ana menüsündeyken, `Choose Channel` menüsündeyken `Digicam`'ı seçin. Tamamlandığı vakit, çalışması gerekmektedir!
 
-For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
+PAL için (Avrupa Wiileri)<br> Wii Ayarları'nda lütfen TV Çözünürlüğü'nü 60 HZ (480P/480i) olarak seçin. Bu seçeneği `Ekran-> TV Çözünürlüğü` kısmından bulabilirsiniz. Eğer ayarlamazsanız, ekranın altında görüntüyü engelleyen bir pembe çizgi görünecektir.
 {: .notice--info}
 
 [RiiConnect24’ten devam edin](riiconnect24)<br> RiiConnect24, aralarında News, Forecast, Everybody Votes, Nintendo, Check Mii Out Channel ve Wii Mail’in bulunduğu durdurulmuş hizmetlere yeniden erişebilmenizi sağlar. Bunu yüklemek opsiyoneldir.
