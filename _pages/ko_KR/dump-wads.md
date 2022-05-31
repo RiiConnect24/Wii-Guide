@@ -16,7 +16,7 @@ title: "WAD 덤프"
 #### 방법
 ##### 섹션 I - 다운로드/설치하기
 
-1. Extract Yet Another BlueDump MOD to your SD card or USB drive.
+1. 일반 Wii를 사용하는 경우 [이 가이드](cios)에 따라 cIOS를 설치하세요.
 2. SD 카드 및 USB 드라이브를 Wii에 삽입하고, Yet Another BlueDump MOD를 홈브루 채널에서 실행하세요.
 
 ##### 섹션 II - 덤프하기
