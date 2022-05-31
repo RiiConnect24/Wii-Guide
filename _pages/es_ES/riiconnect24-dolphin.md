@@ -48,7 +48,7 @@ Si decidiste ejecutarlo en el arranque, entonces no tienes que hacer nada. Si qu
 
 1. En Windows ejecuta el `RiiConnect24Patcher.bat` o ejecuta el `RiiConnect24Patcher.sh` si estás en un sistema Unix que descargaste [aquí](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 2. Inicia el programa y selecciona `Install RiiConnect24` (Instalar RiiConnect24). ![Selecciona Custom](/images/Dolphin_RC24/5.jpg)
-3. Selecciona `Custom` (Instalación personalizada). ![Select Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
+3. Selecciona `Custom` (Instalación personalizada). ![Selecciona <code>Check Mii Out Channel</code> (Canal Miirame)](/images/Dolphin_RC24/6.jpg)
 4. Presiona `1` para elegir la región de tu consola y sólo marca la quinta opción. Presiona `6` para comenzar el proceso.
 5. Una vez que el proceso haya finalizado, encontrarás un archivo llamado `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` o `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` (dependiendo de la región que hayas elegido) dentro de una carpeta llamada WAD en la misma carpeta en la que está el archivo RiiConnect24Patcher.bat
 6. En Dolphin, presione `Tools` y luego `Install WAD`, y selecciona el `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` o `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
