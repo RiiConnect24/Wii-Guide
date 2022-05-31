@@ -151,7 +151,7 @@ Wiimmfi는 오직 Wii 게임만을 지원하지 않습니다. 많은 DS 게임�
 MrBean35000vr과 Chadderz는 여러 커스텀 트랙을 플레이 할 수 있게 하고 자동으로 Wiimmfi를 패치하는 커스텀 트랙 배포판인 CTGP-R을 배포했습니다. [ChadSoft 웹사이트](http://chadsoft.co.uk)를 방문해서 다운로드 및 설명을 확인하세요.
 
 #### MKW Hack Pack
-PhillyG has put together a collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. 설정 방법이 궁금하다면, [위키 페이지](http://wiki.tockdom.com/wiki/MKW_Hack_Pack)를 방문하세요.
+PhillyG는 MKW Hack Pack이라는 사용자 지정 트랙과 핵 모음을 모아 Wiimmfi에 연결할 수 있습니다. 설정 방법이 궁금하다면, [위키 페이지](http://wiki.tockdom.com/wiki/MKW_Hack_Pack)를 방문하세요.
 
 #### Wiimms Mario Kart Fun
 Wiimm과 Leseratte는 일 년에 세 번씩 업데이트 되는 커스텀 트랙 배포판인 "Wiimms MKW Fun"을 배포했습니다. Leseratte의 LE-CODE 프레임워크에 기반했으며, Wiimmfi를 지원하며, 여러 기능들이 있습니다. 자세한 정보는 이 [위키 페이지](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun)를 방문하세요.
