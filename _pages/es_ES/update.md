@@ -36,11 +36,11 @@ To protect against bricks, [make sure you install Priiloader](priiloader). Also,
 5. Open the `titles` -> `0000000100000002` -> (Wii Menu version) and copy the .wad file to a folder called `wad` on your SD Card or USB drive.
 6. (If you have [RiiConnect24](riiconnect24), you can skip this step) Repeat steps 2-5 with `IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
 
-| Region | Wii Menu version |
+| Región | Wii Menu version |
 | ------ | ---------------- |
-| Japan  | v512 (4.3J)      |
+| Japón  | v512 (4.3J)      |
 | USA    | v513 (4.3U)      |
-| Europe | v514 (4.3E)      |
+| Europa | v514 (4.3E)      |
 | Korea  | v518 (4.3K)      |
 
 ##### Sección II - Instalación
