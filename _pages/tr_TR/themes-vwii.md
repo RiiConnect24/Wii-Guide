@@ -57,63 +57,63 @@ DEVAM ETMEDEN ÖNCE YUKARIDAKİ UYARILARI OKUDUĞUNUZDAN EMİN OLUN!
 
 ##### Bölüm II - .app dosyalarını indirme
 
-This assumes your vWii is on the latest Wii Menu version.
+Bu, vWii'nizin en son Wii Menü sürümünde olduğunu varsayar.
 {: .notice--warning}
 
-There are a couple of ways to get the .app files for your vWii System Menu, in this guide we'll be using the vWii version of NUS Downloader.
+Wii Sistem Menünüz için .app dosyalarını almanın birkaç yolu vardır, bu kılavuzda NUS Downloader'ın Wii sürümünü kullanacağız.
 
 1. Open the folder and launch NUS Downloader.
 2. Open the menu in NUS Downloader and click the database button.
 3. Go to System > System Menu and select a version according to your region.
 
-| Region | vWii Menu version |
-| ------ | ----------------- |
-| Japan  | v608              |
-| USA    | v609              |
-| Europe | v610              |
+| Bölge                       | vWii Menü sürümü |
+| --------------------------- | ---------------- |
+| Japonya                     | v608             |
+| Amerika Birleşik Devletleri | v609             |
+| Avrupa                      | v610             |
 
-After selecting the correct version to download, check the box for `Create Decrypted Contents (*.app)`. Then, press the `Start NUS Download` Button on the top of the window.
+İndirmek için doğru sürümü seçtikten sonra, `Create Decrypted Contents (*.app)` kutusunu işaretleyin. Ardından, pencerenin üst kısmındaki `NUS İndirmeyi Başlat` Düğmesine basın.
 
-![The database menu in NUS Downloader.](/images/Themes-vWii/NUSD-vWii_preview-database.png)
+![NUS Downloader'daki veritabanı menüsü.](/images/Themes-vWii/NUSD-vWii_preview-database.png)
 
-![The main menu of NUS downloader without the database menu open.](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
+![Veritabanı menüsü açılmadan NUS indiricisinin ana menüsü.](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
 
-After the download has finished, search for .app file corresponding to your region in the folder where NUS Downloader is.
+İndirme işlemi tamamlandıktan sonra, NUS Downloader'ın bulunduğu klasörde bölgenize karşılık gelen .app dosyasını arayın.
 
-| Region | .app file for your region |
-| ------ | ------------------------- |
-| Japan  | 0000001c.app              |
-| USA    | 0000001f.app              |
-| Europe | 00000022.app              |
+| Bölge                       | bölgeniz için.app dosyası |
+| --------------------------- | ------------------------- |
+| Japonya                     | 0000001c.app              |
+| Amerika Birleşik Devletleri | 0000001f.app              |
+| Avrupa                      | 00000022.app              |
 
-If you can't find the .app file, it's possible you have downloaded the wrong version of the Wii Menu and you'll need to try again.
+.app dosyasını bulamıyorsanız, Wii Menüsünün yanlış sürümünü indirmiş olabilirsiniz ve tekrar denemeniz gerekebilir.
 
-After you find the .app file, copy it to the main directory of the folder containing ThemeMii. Then, copy a version of it to the theme folder in your SD card.
+.app dosyasını bulduktan sonra, onu ThemeMii'yi içeren klasörün ana dizinine kopyalayın. Ardından, bir sürümünü SD kartınızdaki tema klasörüne kopyalayın.
 
-##### Section III - Building the Theme
+##### Bölüm III - Tema Yükleme
 
-1. Launch ThemeMii Mod.
-2. Do not click `Download Base App`, ThemeMii does not have base .app files for vWii. If you download a base app, you must delete it in order to use the vWii .app file.
-3. In ThemeMii select `File` -> `Open` and navigate to the .mym theme you downloaded earlier.
-4. Click on `Create CSM` and select the .app file that you copied to the ThemeMii folder.
-5. Now navigate to the theme folder on your SD card and save your theme with the .csm extension.
+1. ThemeMii Mod'u başlatın.
+2. `Temel Uygulamayı İndir`'i tıklamayın, ThemeMii'de vWii için temel .app dosyaları yoktur. Bir temel uygulama indirirseniz, vWii .app dosyasını kullanmak için onu silmeniz gerekir.
+3. ThemeMii'de `Dosya` -> öğesini seçin. `Aç` ve daha önce indirdiğiniz .mym temasına gidin.
+4. `CSM Oluştur`'a tıklayın ve ThemeMii klasörüne kopyaladığınız .app dosyasını seçin.
+5. Şimdi SD kartınızdaki tema klasörüne gidin ve temanızı .csm uzantısıyla kaydedin.
 
-![ThemeMii Menu](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
+![TemaMii Menüsü](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
 
-##### Section IV - Installing the Theme
+##### Bölüm IV - Tema Yükleme
 
-1. Eject your SD card from your PC and put it into your Wii U.
-2. Start the Homebrew Channel and launch MyMenuify.
-3. Navigate to your theme folder and select the .csm file you just created.
-4. When it prompts you to install the theme say `Yes`, and wait for it to finish.
-5. When it finishes installing, MyMenuify will prompt you to either `Continue` or `Exit`, choose `Exit`.
+1. SD kartınızı PC'nizden çıkarın ve Wii U'nuza yerleştirin.
+2. Homebrew Kanalını başlatın ve MyMenuify'ı başlatın.
+3. Tema klasörünüze gidin ve az önce oluşturduğunuz .csm dosyasını seçin.
+4. Temayı yüklemenizi istediğinde `Yes` deyin ve bitmesini bekleyin.
+5. Yüklemeyi bitirdiğinde, MyMenuify sizden `Devam` veya `Çıkış` yapmanızı ister, `Çıkış` öğesini seçin.
 
-If you did everything correctly, you should now have your custom theme installed on your Wii Menu.
+Her şeyi doğru yaptıysanız, artık Wii Menünüzde özel temanızın kurulu olması gerekir.
 
-##### Reverting to Original Theme
+##### Orjinal tema geri yükleniyor
 
 1. Homebrew Channel’ı başlatın.
-2. Launch MyMenuify and navigate to your theme folder.
-3. Select the .app file you copied to the SD card at the end of section 2 as if you were installing a theme.
-4. Select Install and wait until it finishes.
-5. When it's done, you can exit MyMenuify.
+2. MyMenuify'ı başlatın ve tema klasörünüze gidin.
+3. 2. bölümün sonunda SD karta kopyaladığınız .app dosyasını bir tema yüklüyormuş gibi seçin.
+4. Yükle'yi seçin ve bitene kadar bekleyin.
+5. Bittiğinde MyMenuify'dan çıkabilirsiniz.
