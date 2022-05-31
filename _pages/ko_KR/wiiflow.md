@@ -35,7 +35,7 @@ Wii Backup Manager, Witgui, Wii Backup Fusion으로 게임을 복사하지 않�
 USB Loader GX와 달리, WiiFlow는 SD 카드에서 게임을 불러올 수 있습니다.
 {: .notice--info}
 
-USB 드라이브 또는/와 SD 카드가 FAT32나 NTFS로 포맷되었는지 확인하세요. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
+USB 드라이브 또는/와 SD 카드가 FAT32나 NTFS로 포맷되었는지 확인하세요. ExFAT, extFS 또는 WBFS와 같은 다른 형식으로 포맷하지 마십시오. 후자는 Wii 게임을 저장하는 오래된 형식입니다.
 {: .notice--info}
 
 #### 방법
