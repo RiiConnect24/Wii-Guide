@@ -17,7 +17,7 @@ SysCheck는 Wii에 있는 모든 IOS와 cIOS를 리스트화하고, 각각의 �
 #### 방법
 ##### 섹션 I - 다운로드/설치하기
 
-1. Extract SysCheck HacksDen Edition to your SD card or USB drive.
+1. SysCheck HacksDen Edition을 SD 카드 또는 USB 드라이브에 추출합니다.
 2. SD 카드 및 USB 드라이브를 Wii에 삽입하고, SysCheck HacksDen Edition을 홈브루 채널에서 실행하세요.
 
 ##### 섹션 II - SysCheck 실행하기
