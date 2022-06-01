@@ -5,7 +5,7 @@ title: "FAQ (Häufig gestellte Fragen)"
 ![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
 
 ### Wie gefährlich ist es meine Konsole zu hacken?
-Bricks (ein Zustand, in dem die Wii-Software ganz oder teilweise nicht mehr funktioniert) kommen extrem selten vor solange du keine Sicherheitsabfragen ignorierst, oder etwas riskantes und naives wie das Installieren einer älteren Wii-Menü-Version ausprobierst. Stelle daher sicher [BootMii](bootmii) und [Priiloader](priiloader) zu installieren, um dich vor Bricks zu schützen!
+Bricks (ein Zustand, bei dem deine Wii ganz oder teilweise nicht mehr funktioniert) kommen extrem selten vor, solange du keine Sicherheitsabfragen ignorierst oder riskante und naive Dinge tust, wie beispielsweise das Installieren einer älteren Wii-Menü-Version. Stelle daher sicher [BootMii](bootmii) und [Priiloader](priiloader) zu installieren, um dich vor Bricks zu schützen!
 
 ### Wo kann ich Unterstützung erhalten?
 Für weitere Unterstützung kannst du dem [RiiConnect24 Discord-Server](https://discord.gg/rc24) beitreten (empfohlen), oder uns eine E-Mail an [ support@riiconnect24.net](mailto:support@riiconnect24.net) senden.
