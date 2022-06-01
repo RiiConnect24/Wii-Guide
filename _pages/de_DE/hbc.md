@@ -32,13 +32,13 @@ Wenn du keine SD-Karte hast, kannst du BootMii nicht installieren oder verwenden
 
 8. Wenn erledigt, wähle `Continue`, und anschliessend `Exit` um zum Homebrew-Kanal zurückzukehren
 
-#### Lesen Erforderlich
+#### Wichtiger Hinweis
 
-Du kannst nun den Homebrew Channel nutzen, um Homebrew Apps auszuführen. Der Open Shop Channel ist ein One-Stop-Shop für das Herunterladen von Homebrew, den Sie in diesem Guide zu installieren erfahren werden.
+Du kannst nun den Homebrew-Kanal nutzen, um Homebrew-Apps auszuführen. Der Open Shop Channel ist ein One-Stop-Shop für das Herunterladen von Homebrew, den Sie in diesem Guide zu installieren erfahren werden.
 
-Hier ist ein Tipp - Wenn Sie Homebrew Anwendungen auf Ihrer SD-Karte oder Ihrem USB-Laufwerk installieren, sollte Ihre Ordnerstruktur so aussehen:
+Hier ist ein Tipp - Wenn du Homebrew-Anwendungen auf deiner SD-Karte oder deinem USB-Laufwerk installierst, sollte deine Ordnerstruktur wie folgt aussehen:
 
-![Richtige SD-Karte Ordnerstruktur](images/Wii/FolderStructure.png)
+![Korrekte Ordnerstruktur der SD-Karte](images/Wii/FolderStructure.png)
 
 `AppName1` und `AppName2` sind Platzhalternamen. Mehrere `apps` Ordner nicht im `apps` Ordner erstellen.
 
