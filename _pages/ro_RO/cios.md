@@ -67,7 +67,7 @@ Cu toate că majoritatea jocurilor ar trebui să meargă direct cu implicitele, 
 * Folosirea unei tastaturi în Animal Crossing: City Folk.
 * Rularea jocului SpongeBob's Boating Bash.
 
-O lista mai vastă (deși incompoletă) poate fi găsita [**aici**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> Pentru a schimba cIOS-ul folosit pentru un joc specific, urmărește aceste instrucțiuni:
+O lista vastă (deși incompletă) poate fi găsita [**aici**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> Pentru a schimba cIOS-ul folosit pentru un joc specific, urmărește aceste instrucțiuni:
 {% endcapture %}
 <div class="notice--warning">{{ bruh | markdownify }}</div>
 
