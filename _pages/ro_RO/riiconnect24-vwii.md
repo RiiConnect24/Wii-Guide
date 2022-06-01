@@ -19,7 +19,7 @@ Pentru că unele funcții găsite în Wii-ul original nu sunt prezente în vWii,
 Noi **NU** suntem responsabili dacă îți brick-uiești, sau îți deteriorezi consola în orice fel. Dacă urmezi acest ghid cu exactitate, nu ar trebui să ai nicio problemă.
 {: .notice--warning}
 
-**NU** urma acest ghid pe orice altă consolă în afară de vWii (Wii Virtual pe Wii U). Dacă cauți instrucțiuni pentru un Nintendo Wii, folosește [](riiconnect24). Dacă vrei să efectuezi acest ghid pe emulatorul Dolphin, folosește [](riiconnect24-dolphin).
+**NU** urma acest ghid pe orice altă consolă în afară de vWii (Wii Virtual pe Wii U). Dacă cauți instrucțiuni pentru un Nintendo Wii, folosește [acest ghid](riiconnect24). Dacă vrei să efectuezi acest ghid pe emulatorul Dolphin, folosește [acest ghid](riiconnect24-dolphin) în schimb.
 {: .notice--warning}
 
 #### De ce ai nevoie
