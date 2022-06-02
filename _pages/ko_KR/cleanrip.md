@@ -1,6 +1,6 @@
 #### 필요한 것
 
-* 최소 4.7GB의 여유 공간이 있는 SD 카드 또는 USB 드라이브(듀얼 레이어 디스크를 덤프하는 경우 8.5GB).
+* An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
 #### 방법
