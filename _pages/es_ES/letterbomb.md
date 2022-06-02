@@ -20,19 +20,19 @@ LetterBomb es un exploit para el Wii que se activa mediante el tablón de Wii.
 1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, ensure `Bundle the HackMii Installer for me!` is checked, and cut either wire ![Pantalla HackMii](/images/Wii/LetterBomb-PC.png)
 1. Extrae los contenidos del ZIP descargado en la ruta de tu tarjeta SD.
 1. Saca tu tarjeta SD e insértala en tu Wii.
-   - La tarjeta SD debe insertarse en la ranura para tarjetas SD ubicada en la parte frontal de la Wii. Usar un adaptador USB conectado al puerto USB del Wii no funcionará.
+   - La tarjeta SD debe insertarse en la ranura para tarjetas SD ubicada en la parte frontal de la Wii. Using a USB adapter plugged into the Wii's USB port will not work.
 1. En tu Wii, regresa al Menú Wii y abre el Tablón de Wii.
 1. Selecciona la carta roja con el icono de una bomba.
-   - Asegúrate de que la fecha en tu Wii sea correcta, de lo contrario no podrás encontrar la carta.
-   - En algunos casos, podrías tener que buscar en los dias previos o posteriores para encontrarla.
-   - Si vas a usar el exploit LetterBomb, tu tarjeta SD no puede tener más de 32 GB de capacidad.
-   - Si tu Wii se congela después de hacer clic en la carta, probablemente hayas elegido la región equivocada al descargar la explotación. Paso 2: Elige el tipo de papel y el tipo de impresión.
+   - Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
+   - In various scenarios, you may need to look at the previous or next day to find it.
+   - If you don't see the red letter, you may be using an unsupported SD card that's greater than 32GB in size.
+   - If your Wii freezes after clicking on the letter, you probably chose the wrong region when downloading the exploit. Redo Step 2 and select the correct region.
 
 
 {: .notice--warning}
 
 
-![Menú de Wii del LetterBomb](/images/Wii/LetterBomb-Wii.png)
+![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
 
 [Continuar a la instalación del Canal Homebrew y BootMii](hbc)
 {: .notice--info}
