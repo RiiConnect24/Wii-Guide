@@ -1,7 +1,7 @@
 ---
-title: "Навігація по сайту"
-layout: лінія
-sitemap: хиба
+title: "Site Navigation"
+layout: single
+sitemap: false
 ---
 
 ![WiiTutorials](/images/WiiTutorials.jpg)
@@ -23,7 +23,7 @@ sitemap: хиба
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [WiiLink](wiilink)
-+ [Wiimmfi](wiimmmfi)
++ [Wiimmfi](wiimmfi)
 + [Kirby TV Channel](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Deleting VFFs](deleting-vffs)
@@ -32,7 +32,7 @@ sitemap: хиба
 
 **Modding 101**
 + [BlueBomb](bluebomb)
-* [Резервна копія BootMii](bootmii)
+* [BootMii Backup](bootmii)
 + [cIOS](cios)
 + [Dos and Don'ts of Wii Modding](dosanddonts)
 + [FlashHax](flashhax)
@@ -64,8 +64,8 @@ sitemap: хиба
 
 **Site**
 + [Home](/)
-+ [Get Started](розпочніть)
-+ [ЧаПи](чапи)
++ [Get Started](get-started)
++ [FAQ](faq)
 + [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
