@@ -10,10 +10,10 @@ sitemap: false
 **Destacados**
 
 + [Instalar cIOS](cios)
-+ [Canal de TV de Kirby](kirby-tv)
++ [Kirby TV Channel](kirby-tv)
 + [RiiConnect24](riiconnect24)
 + [WiiLink](wiilink)
-+ [Conectarse a Wiimmfi](wiimmfi)
++ [Wiimmfi](wiimmfi)
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
@@ -37,7 +37,7 @@ sitemap: false
 + [Hacer y No hacer al modificar una Wii](dosanddonts)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
-+ [Canal Homebrew](hbc)
++ [Homebrew Channel](hbc)
 + [LetterBomb](letterbomb)
 + [Instalar Priiloader](priiloader)
 + [str2hax](str2hax)
@@ -45,15 +45,15 @@ sitemap: false
 
 **Homebrew**
 + [Creación de accesos directos a juegos de Wii](wiigsc)
-+ [Cómo volcar canales (WAD)](dump-wads)
-+ [Cómo descargar juegos de GameCube / Wii](dump-games)
++ [How to dump Channels (WADs)](dump-wads)
++ [How to dump GameCube/Wii Games](dump-games)
 + [Instalando RSSMii](rssmii)
 + [Instalar temas para el menú de Wii](themes)
-+ [Instalar temas para el menú de Wii](themes-vwii)
-+ [Realización de un SysCheck](syscheck)
++ [Installing Wii Menu Themes on vWii](themes-vwii)
++ [Performing a SysCheck](syscheck)
 + [Desinstalar RSSMii](rssmii-remove)
 + [RiiTag](riitag)
-+ [Actualizando Menú Wii a v4.3](update)
++ [Updating Wii Menu to v4.3](update)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 + [WiiFlow](wiiflow)
