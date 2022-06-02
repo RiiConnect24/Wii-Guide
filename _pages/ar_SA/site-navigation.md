@@ -1,5 +1,5 @@
 ---
-title: "التنقل في الموقع"
+title: "Site Navigation"
 layout: single
 sitemap: false
 ---
@@ -11,7 +11,7 @@ sitemap: false
 
 + [cIOS](cios)
 + [Kirby TV Channel](kirby-tv)
-+ [RiiConnect24](riiConnect24)
++ [RiiConnect24](riiconnect24)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 {% endcapture %}
@@ -19,11 +19,11 @@ sitemap: false
 
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
-+ [RiiConnect24](riiConnect24)
++ [RiiConnect24](riiconnect24)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [WiiLink](wiilink)
-+ [ويمفي](ويمفي)
++ [Wiimmfi](wiimmfi)
 + [Kirby TV Channel](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Deleting VFFs](deleting-vffs)
@@ -31,7 +31,7 @@ sitemap: false
 + [Fixing NEWS000006](news000006)
 
 **Modding 101**
-+ [قنبلة زرقاء](bluebomb)
++ [BlueBomb](bluebomb)
 * [BootMii Backup](bootmii)
 + [cIOS](cios)
 + [Dos and Don'ts of Wii Modding](dosanddonts)
@@ -64,8 +64,8 @@ sitemap: false
 
 **Site**
 + [Home](/)
-+ [Get Started](البدء)
-+ [الأسئلة الأكثر شيوعاً](الأسئلة الشائعة)
++ [Get Started](get-started)
++ [FAQ](faq)
 + [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
