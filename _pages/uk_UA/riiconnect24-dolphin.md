@@ -4,7 +4,7 @@ title: "RiiConnect24"
 
 {% include toc title="Table of Contents" %}
 
-![RiiConnect24](/images/WiiRC24Logo.jpg)
+![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
 This guide will help you install RiiConnect24 on your Dolphin installation.
 
@@ -17,7 +17,7 @@ If you need help for anything regarding this tutorial, please directly contact K
 * [Dolphin](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-#### Інструкції
+#### Instructions
 
 ##### Section I - Installing Dolphin
 
