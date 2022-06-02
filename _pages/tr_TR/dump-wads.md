@@ -16,7 +16,7 @@ Bu öğretici, Wii Sistem Hafızasında bulunan WAD dosyalarının dökümünün
 #### Talimatlar
 ##### Bölüm I - İndirme/Yükleme
 
-1. Yet Another BlueDump MOD'u SD kartınıza veya USB sürücünüze çıkarın.
+1. Extract Yet Another BlueDump MOD to your SD card or USB drive.
 2. USB sürücünüzü veya SD Kartınızı Wii’nize takın ve Yet Another BlueDump MOD‘u Homebrew Channel’dan başlatın.
 
 ##### Bölüm II - Döküm alımı
