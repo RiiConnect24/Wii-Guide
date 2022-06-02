@@ -32,7 +32,7 @@ Wii Backup Manager, Witgui ya da Wii Backup Fusion ile oyun kopyalamıyorsanız,
 Birden fazla oyun oynamak istiyorsanız, Wii’niz için bir harici bellek kullanmanızı öneririz. Flaş bellekler de kullanılabilir. Ancak harici bellekler hem daha güvenilir olduğundan hem de daha fazla oyun depolayabileceğinden dolayı tavsiye edilir.
 {: .notice--info}
 
-USB sürücünüzün FAT32 ya da NTFS formatında olduğundan emin olun. ExtFS ya da Wii oyunlarını depolayan eski bir format olan WBFS gibi farklı türde bir formatta olmamalı.
+USB sürücünüzün FAT32 ya da NTFS formatında olduğundan emin olun. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
 #### Talimatlar
