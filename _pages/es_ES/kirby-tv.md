@@ -1,36 +1,36 @@
 ---
-title: "Canal de TV de Kirby"
+title: "Kirby TV Channel"
 ---
 
 {% include toc title="Tabla de contenido" %}
 
-No se permite la operación porque la red no está conectada. Descargue el archivo cIOS de [aquí](https://discord.gg/seCnzxnE75).
+The Kirby TV Channel is controlled and operated by Striim Network, not RiiConnect24. Join their Discord server [here](https://discord.gg/seCnzxnE75).
 {: .notice--warning}
 
-Striim Network es un servicio dedicado a traer de vuelta los canales que soportan la reproducción de vídeo, como Kirby TV Channel y YouTube.
+Striim Network is a service dedicated to bringing back the channels that support video playback, such as Kirby TV Channel and YouTube.
 
 #### Requisitos
 
 * Una tarjeta SD o unidad USB de almacenamiento
 * Una consola Wii con conexión a Internet
 * Una computadora basada en Windows o Unix
-* [Canal de TV de Kirby](https://github.com/StriimNetwork/Kirby-TV-Channel-Patcher/releases)
+* [Kirby TV Channel Patcher](https://github.com/StriimNetwork/Kirby-TV-Channel-Patcher/releases)
 
 #### Instrucciones
 
 [¡Si desea ver instrucciones detalladas sobre cómo instalar los WADs, haga clic aquí!](wiimodlite)
 {: .notice--info}
 
-1. Descarga las aplicaciones ejecutables de creación.
-2. Presiona `1` para comenzar el proceso.
-3. Se ha terminado la codificación. El archivo WAV se encuentra en el mismo directorio que el archivo MP3.
-4. Copia la carpeta `_nds` a la raíz de tu tarjeta SD.
+1. Download the executable for your architecture and OS.
+2. Launch the executable then press `1` twice to start the patching process.
+3. When finished, the WAD will be in the `WAD` folder which is located in the same directory as the executable.
+4. Move the `WAD` folder to the root of your SD Card.
 5. Inserta la tarjeta SD o unidad USB en tu Wii.
 6. Inicia el Canal Homebrew en tu Wii.
 7. Inicie Wii Mod Lite.
 8. Usando la cruz de control en tu Wiimote, selecciona `WAD Manager` (Administrador de WADs), y luego abre la carpeta `wad`.
-9. Resalta el WAD llamado `Kirby-TV-Channel-Patched(Striim).wad`, luego presiona el botón `A` para instalar.
-10. Una vez que se hayan instalado correctamente, oprime el botón HOME para volver al Canal Homebrew.
+9. Highlight the WAD named `Kirby-TV-Channel-Patched(Striim).wad`, then press the `A` button to install.
+10. When the WAD successfully installs, return to the Wii Menu and launch the channel.
 
 
 
