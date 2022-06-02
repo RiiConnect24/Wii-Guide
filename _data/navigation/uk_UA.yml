@@ -1,55 +1,55 @@
 ---
 main:
   - 
-    title: Wii керівництво
+    title: Wii Guide
     url: /
   - 
-    title: Почати тут
-    url: розпочніть
+    title: Start Here
+    url: get-started
   - 
-    title: Навігація по сайту
-    url: Навігація по Сайту
+    title: Site Navigation
+    url: site-navigation
   - 
-    title: ЧаПи
-    url: чапи
+    title: FAQ
+    url: faq
   - 
     title: RiiConnect24
     url: riiconnect24
   - 
     title: Wiimmfi
-    url: wiimmmfi
+    url: wiimmfi
 top:
   - 
-    title: Цей сайт використовує файли cookie для відображення поточного прогресу в проходженні гайду на бічній панелі та інших способів покращення сайту.
+    title: This website uses cookies to display the current guide progress on the sidebar and otherwise enhance the site.
 bottom:
   - 
-    title: Для підтримки Англійською мовою, звертайтесь по допомогу за цим посиланням <a href="https://discord.gg/DthbZ7z">ReSwitched on Discord</a>.
+    title: For support in English, ask for help at <a href="https://discord.gg/b4Y7jfD">RiiConnect24 on Discord</a>.
 footer:
   - 
-    title: Джерело
+    title: Source
     url: https://github.com/RiiConnect24/Wii-Guide/
   - 
-    title: Навігація по сайту
-    url: Навігація по Сайту
+    title: Site Navigation
+    url: site-navigation
   - 
-    title: Пожертви
-    url: пожертви
+    title: Donations
+    url: donations
 sidebar_title:
   - 
-    title: Загальний прогрес
+    title: Overall Progress
 sidebar_pages:
   - 
-    title: Wii керівництво
+    title: Wii Guide
     url: /
   - 
-    title: ЧаПи
-    url: часи
+    title: FAQ
+    url: faq
   - 
-    title: Пожертви
-    url: пожертви
+    title: Donations
+    url: donations
   - 
-    title: Титри
-    url: титри
+    title: Credits
+    url: credits
   - 
     title: RiiConnect24
     url: riiconnect24
