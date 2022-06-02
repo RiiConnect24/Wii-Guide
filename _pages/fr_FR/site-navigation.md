@@ -53,7 +53,7 @@ sitemap: false
 + [Effectuer un SysCheck](syscheck)
 + [Supprimer RSSMii](rssmii-remove)
 + [RiiTag](riitag)
-+ [Mise à jour du menu Wii en v4.3](update)
++ [Updating Wii Menu to v4.3](update)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 + [WiiFlow](wiiflow)
