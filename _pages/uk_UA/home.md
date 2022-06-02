@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Wii керівництво"
+title: "Wii Guide"
 header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
