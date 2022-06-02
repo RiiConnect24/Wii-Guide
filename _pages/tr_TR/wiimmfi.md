@@ -151,7 +151,7 @@ WEP kodlu ya da güvenliksiz Wi-Fi ağı bulmak işin en zor kısmı. Çünkü D
 MrBean35000vr ve Chadderz, CTGP-R adında otomatik olarak Wiimmfi yaması yaparak özel yarış pisti kullanımına imkan sunan bir özel yarış pisti dağıtımı geliştirdi. Talimatlar ve yüklemek için [ChadSoft web sitesine](http://chadsoft.co.uk) gidin.
 
 #### MKW Hack Pack
-Huili özel yarışları ve hackleri birleştirerek Wiimmfi ile bağlantıya olanak sağlayan bir koleksiyon geliştirdi. Nasıl yapılacağını öğrenmek için [viki sayfasını](http://wiki.tockdom.com/wiki/MKW_Hack_Pack) ziyaret edin.
+PhillyG has put together a collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. Nasıl yapılacağını öğrenmek için [viki sayfasını](http://wiki.tockdom.com/wiki/MKW_Hack_Pack) ziyaret edin.
 
 #### Wiimms Mario Kart Fun
 Wiimm ve Leseratte, "Wiimms MKW Fun" adında üç yılda bir güncellenen bir özel yarış pisti dağıtımı geliştirdiler. Leseratte tarafından LE-CODE çerçevesi üzerine kurulmuş olup Wiimmfi desteği gibi pek çok özelliğe sahiptir. [Viki sayfasından](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun) daha fazla bilgi edinebilirsiniz.
