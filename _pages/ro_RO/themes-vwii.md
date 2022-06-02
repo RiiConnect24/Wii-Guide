@@ -106,14 +106,14 @@ După ce afli fișierul .app, copiază-l în directorul principal a dosarului ca
 2. Pornește Homebrew Channel și lansează MyMenuify.
 3. Navighează la dosarul de teme și alege fișierul .csm pe care tocmai l-ai creat.
 4. Când te solicită să instalezi tema apasă pe `Yes` și așteaptă să se finalizeze.
-5. When it finishes installing, MyMenuify will prompt you to either `Continue` or `Exit`, choose `Exit`.
+5. După ce termină de instalat, MyMenuify te va solicita să continui sau să ieși, alege `Exit`.
 
-If you did everything correctly, you should now have your custom theme installed on your Wii Menu.
+Dacă ai făcut totul corect, ar trebui să ai o temă de fundal instalata în Meniul Wii.
 
-##### Reverting to Original Theme
+##### Restaurarea Temei de Fundal Originale
 
 1. Pornește Homebrew Channel.
-2. Launch MyMenuify and navigate to your theme folder.
-3. Select the .app file you copied to the SD card at the end of section 2 as if you were installing a theme.
-4. Select Install and wait until it finishes.
-5. When it's done, you can exit MyMenuify.
+2. Lansează MyMenuify și navighează către dosarul tău de teme.
+3. Alege fișierul .app pe care l-ai copiat în cardul SD la sfârșitul secțiunii 2 ca și cum ai instala o temă.
+4. Apasă pe Install și așteaptă până se finalizează.
+5. După ce este gata, poți ieși din MyMenuify.
