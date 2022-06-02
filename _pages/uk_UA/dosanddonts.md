@@ -4,7 +4,7 @@ title: "Dos and Don'ts of Wii Modding"
 
 {% include toc title="Table of Contents" %}
 
-Якщо Вам потрібна допомога до даного посібника, будь ласка, приєднайтеся до [сервер Discord](https://discord.gg/rc24) (рекомендовано) або [напишіть нам на support@riicont24. ет](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Here's a list of things you should and should not do once you've modded your Wii, to make sure you don't brick it.
