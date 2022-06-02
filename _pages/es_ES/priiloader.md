@@ -21,7 +21,7 @@ Priiloader proporciona un nivel adicional de protección contra bricks a tu cons
 #### Instrucciones
 ##### Sección I - Descarga/instalación
 
-1. Descarga d2x cIOS Installer y extráelo en la raíz de tu tarjeta SD o memoria USB.
+1. Download the Priiloader installer and extract it to your SD card or USB drive.
     * Si esta carpeta no existe, créala.
 
 ##### Sección II - Instalación
