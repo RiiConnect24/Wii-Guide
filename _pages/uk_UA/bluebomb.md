@@ -4,10 +4,10 @@ title: "BlueBomb"
 
 {% include toc title="Table of Contents" %}
 
-Це **настійно** радий використовувати **будь-який** відео посібник для хакерства вашої консолі Wii mini mini оскільки є надзвичайно великий шанс у **цеглини**.
+It is **strongly** advised against using **any** video guide for hacking your Wii mini console, as there is an extremely large chance of **bricking** it.
 {: .notice--warning}
 
-Якщо вам потрібна допомога щодо цього посібника, будь ласка, приєднуйтесь до [сервера Wii mini Hacking Discord](https://discord.gg/6ryxnkS) (рекомендується)
+If you need help with anything regarding this tutorial, please join [the Wii mini Hacking Discord server](https://discord.gg/6ryxnkS) (recommended)
 {: .notice--info}
 
 ![BlueBomb](/images/bluebomb.png)
@@ -56,8 +56,8 @@ Make sure that the console is close to the computer running the exploit, ideally
 
 The console should now boot to the HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
 
-[Якщо використовується Wii, перейдіть до встановлення Homebrew Channel та BootMii](hbc)
+[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
 {: .notice--info}
 
-[Якщо використовується Wii mini, перейдіть до встановлення Homebrew Channel](hbc-mini)
+[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
 {: .notice--info}
