@@ -1,5 +1,5 @@
 ---
-title: "Nie ma Wii Modding"
+title: "Dos and Don'ts of Wii Modding"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -7,27 +7,27 @@ title: "Nie ma Wii Modding"
 Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Oto lista rzeczy, które powinieneś i nie powinieneś robić po modyfikacji Wii, aby upewnić się, że nie blokowałeś.
+Here's a list of things you should and should not do once you've modded your Wii, to make sure you don't brick it.
 
-#### Lista
+#### List
 
-- **DO** upewnij się, że zainstalowałeś [BootMii](bootmii) i [Priiloader](priiloader), aby upewnić się, że nie blokowałeś swojego Wii.
-- **DO** wykonaj kopię zapasową Wii NAND regularnie z [BootMii](bootmii), zwłaszcza przed wykonaniem czegoś ryzykownego.
-- **DO** zainstaluj szablony Wii Menu jeśli chcesz, ale używaj do tego tylko naszego samouczka. ([Wii](themes) / [vWii](themes-vwii)). Inne samouczki mogą wprowadzać w błąd i mogą spowodować blokowanie Wii.
-- **NIE** zainstaluj WADów losowego IOS, starszych wersji Wii Menu, itp. chyba że wiesz, co robisz, zwłaszcza na vWii lub Wii Mini.
-- **NIE** ani nie używaj starych wersji Wii homebrew. Jeśli obserwujesz samouczki z modelem Wii z Internetu, bądź ostrożny w korzystaniu ze starych samouczków (prawdopodobnie przed 2012 roku), zwłaszcza jeśli mają one związek z takimi sprawami, jak IOS.
-- **NIE** modyfikować, zmieniać nazwy ani usuwać losowych plików na Wii NAND, chyba że wiesz co robisz.
-- **NIE** używaj homebrew aplikacji "KoreanKii" na Wii spoza Korei.
-- **NIE** Zainstaluj żadnego IOS ani Wii Menu na Wii mini innym niż [d2xl cIOS](cios-mini). W ten sposób zblokuje się konsolę, jeśli karta Wi-Fi nie jest do niej podłączona.
-- Unfortunately, other replacement servers are vulnerable to an exploit that can brick your Wii if you use them. **DO NOT** use any Nintendo Wi-Fi Connection replacement on your Wii except for [Wiimmfi](wiimmfi). [RiiConnect24](riiconnect24) jest również bezpieczny.
+- **DO** make sure you've installed [BootMii](bootmii) and [Priiloader](priiloader) to make sure you don't brick your Wii.
+- **DO** make a backup of your Wii NAND regularly with [BootMii](bootmii), especially before doing something risky.
+- **DO** install Wii Menu themes if you wish, but only use our tutorial for it carefully. ([Wii](themes) / [vWii](themes-vwii)). Other tutorials might be misleading and can cause you to brick your Wii.
+- **DO NOT** install WADs of random IOS, older versions of the Wii Menu, etc. unless you know what you're doing, especially not on vWii or a Wii Mini.
+- **DO NOT** or use old versions of Wii homebrew. If you follow Wii modding tutorials from the Internet, be cautious about using old tutorials (likely pre-2012), especially if they have to do with things such as IOS.
+- **DO NOT** modify, rename, or delete random files on your Wii NAND unless you know what you are doing.
+- **DO NOT** use the homebrew app "KoreanKii" on a non-Korean Wii.
+- **DO NOT** Install any IOS or Wii Menu on a Wii mini other than [d2xl cIOS](cios-mini). Doing so will brick your console if a Wi-Fi card is not soldered to it.
+- Unfortunately, other replacement servers are vulnerable to an exploit that can brick your Wii if you use them. **DO NOT** use any Nintendo Wi-Fi Connection replacement on your Wii except for [Wiimmfi](wiimmfi). [RiiConnect24](riiconnect24) is safe to use as well.
 
-Jeśli przestrzegasz tych wytycznych, nie musisz się martwić o blokowanie Wii. Modyfikacje Wii są bezpieczne, a bloki zazwyczaj występują z powodu czegoś zrobionego przez użytkownika, który znajduje się na tej liście.
+If you follow these guidelines, you won't have to worry about bricking your Wii. Wii modding is safe, and bricks usually occur due to something done by the user that is on this list.
 
-Continue to installing cIOS<br> cIOS are used to play games with a USB Loader. Jest również przydatny dla wielu innych aplikacji homebrew.
+Continue to installing cIOS<br> cIOS are used to play games with a USB Loader. It's also useful for many other homebrew apps.
 {: .notice--info}
 
-Jeśli używasz z regularnego Wii, skorzystaj z [tego poradnika](cios) żeby zainstalować cIOS'a.
+If using a regular Wii, follow [this guide](cios) to install cIOS.
 {: .notice--info}
 
-Jeśli używasz Wii mini, skorzystaj z [tego poradnika](cios-mini) żeby zainstalować cIOS'a
+If using a Wii mini, follow [this guide](cios-mini) to install cIOS
 {: .notice--info}
