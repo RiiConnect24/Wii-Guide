@@ -2,7 +2,7 @@
 title: "RiiConnect24"
 ---
 
-{% تتضمن عنوان جدول المحتويات="جدول المحتويات" %}
+{% include toc title="Table of Contents" %}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
