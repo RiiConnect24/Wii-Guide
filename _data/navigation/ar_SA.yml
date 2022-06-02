@@ -1,35 +1,35 @@
 ---
 main:
   - 
-    title: دليل Wii
+    title: Wii Guide
     url: /
   - 
-    title: ابدأ هنا
-    url: البدء
+    title: Start Here
+    url: get-started
   - 
-    title: التنقل في الموقع
+    title: Site Navigation
     url: site-navigation
   - 
-    title: الأسئلة الأكثر شيوعاً
-    url: الأسئلة الشائعة
+    title: FAQ
+    url: faq
   - 
     title: RiiConnect24
-    url: riiConnect24
+    url: riiconnect24
   - 
-    title: ويمفي
-    url: ويمفي
+    title: Wiimmfi
+    url: wiimmfi
 top:
   - 
-    title: يستخدم موقع الويب هذا ملفات تعريف الارتباط لعرض تقدم الدليل الحالي على الشريط الجانبي وتحسين الموقع بطريقة أخرى.
+    title: This website uses cookies to display the current guide progress on the sidebar and otherwise enhance the site.
 bottom:
   - 
-    title: للدعم باللغة الإنجليزية، أطلب المساعدة في <a href="https://discord.gg/ZdqEhed"> ReSwitched على موقع Discord</a>.
+    title: For support in English, ask for help at <a href="https://discord.gg/b4Y7jfD">RiiConnect24 on Discord</a>.
 footer:
   - 
-    title: المصدر
+    title: Source
     url: https://github.com/RiiConnect24/Wii-Guide/
   - 
-    title: التنقل في الموقع
+    title: Site Navigation
     url: site-navigation
   - 
     title: Donations
@@ -39,11 +39,11 @@ sidebar_title:
     title: Overall Progress
 sidebar_pages:
   - 
-    title: دليل Wii
+    title: Wii Guide
     url: /
   - 
-    title: الأسئلة الأكثر شيوعاً
-    url: الأسئلة الشائعة
+    title: FAQ
+    url: faq
   - 
     title: Donations
     url: donations
@@ -52,7 +52,7 @@ sidebar_pages:
     url: credits
   - 
     title: RiiConnect24
-    url: riiConnect24
+    url: riiconnect24
   - 
-    title: ويمفي
-    url: ويمفي
+    title: Wiimmfi
+    url: wiimmfi
