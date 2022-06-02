@@ -1,11 +1,11 @@
 ---
-title: "ЧаПи"
+title: "FAQ"
 ---
 
-![RiiConnect24 Логотип Wii Жовтий](/images/Wii_Yellow_Gray.jpg)
+![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
 
-### Наскільки ризиковано зачепити мою консоль?
-Цегла (стан, де або деякі частини вашого програмного забезпечення не працюють, або ваше Wii взагалі не працює) є дуже рідкісними, якщо ви не проігнорувати/обійти всі перевірки безпеки, або робити щось ризиковане або наївний, як встановлення старішої версії Wii Menu. Переконайтеся, що ви встановили [BootMii](bootmii) та [Priiloader](priiloader) щоб захистити себе від цегли!
+### How risky is hacking my console?
+Bricks (a state where either some parts of your Wii software are not working, or your Wii is not working at all) are extremely rare unless you ignore/circumvent all safety checks, or do something risky or naive like installing an older version of the Wii Menu. Make sure you install [BootMii](bootmii) and [Priiloader](priiloader) to protect yourself from bricks!
 
 ### Where should I go for support?
 You can join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for assistance.
