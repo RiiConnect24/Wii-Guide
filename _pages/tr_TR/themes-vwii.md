@@ -1,5 +1,5 @@
 ---
-title: "Wii Menü Temaları yükleme"
+title: "Installing Wii Menu Themes on vWii"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -9,37 +9,37 @@ Wii Menü'nün beyaz teması canınızı oldukça sıkıp sizi yeni tema arayı�
 Eğer konsolunuzu brick moduna sokar ya da konsolunuza başka bir hasar verirseniz; biz sorumlu **DEĞİLİZ**. Eğer bu rehberi tam olarak takip ederseniz, zaten herhangi bir sorunla karşılaşmazsınız.
 {: .notice--danger}
 
-Bu kılavuzda yapılan temaları gerçek bir Wii'ye **YÜKLEMEYİN**. Yalnızca vWii Sistem Menüsü ile uyumludurlar ve gerçek bir Wii'yi tuğlalar.
+Do **NOT** install the themes made in this guide on an actual Wii. They are only compatible with the vWii System Menu and will brick an actual Wii.
 {: .notice--danger}
 
-Wii MotionPlus'lı WiiMotes, MyMenuify'da çalışmayacak, ne yazık ki şu anda bu konuda yapabileceğimiz bir şey yok ve daha eski bir Wii uzaktan kumanda kullanmanız gerekecek.
+WiiMotes with Wii MotionPlus will not work on MyMenuify, unfortunately there isn't anything we can do about this at the moment and you'll have to use an older Wii remote.
 {: .notice--warning}
 
-Vwii Sistem Menüsü ile uyumlu olmayan bazı temalar vardır, bunlar grafik hatalarından tam bir tema parçasına kadar her şeye neden olabilir. Sistem Menüsünün modern sürümleriyle uyumlu olduklarından, yalnızca [rc24.xyz/goodies/themes](https://rc24.xyz/goodies/themes/) adresindeki temaları kullanmanızı öneririz.
+There are some themes that aren't compatible with the vWii System Menu, they may result in anything from graphical glitches to a full theme brick. We recommend only using themes from [rc24.xyz/goodies/themes](https://rc24.xyz/goodies/themes/) since these are compatible with modern versions of the System Menu.
 {: .notice--warning}
 
-Vwii'nizi bir şekilde tuğlaya dökerseniz, [bu kılavuzu izleyin](https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329). ([Arşiv](https://web.archive.org/web/20200213194233/https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329/))
+If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329). ([Archive](https://web.archive.org/web/20200213194233/https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329/))
 {: .notice--info}
 
-#### İhtiyacınız olan şeyler
+#### What You Need
 
-* Homebrew Channel kurulu bir Wii mini.
-* Wii MotionPlus'sız bir Wiimote
+* A Wii U with the Homebrew Channel installed.
+* A Wiimote without Wii MotionPlus
 * SD kart
 * Windows’u olan bir bilgisayar (ya da Mac/Linux için Mono veya Wine)
 * [MyMenuify](/assets/files/Mymenuify-Old-vWii.zip)
 * [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
-* [NUS İndirici (vWii)](/assets/files/NUSDownloader-vwii.zip)
+* [NUS Downloader (vWii)](/assets/files/NUSDownloader-vwii.zip)
 
 #### Tema Bağlantıları
 
-Aşağıda bazı tema linkleri bulunmaktadır.
+Below are some links to themes.
 
-* [RiiConnect24 tema sayfası](https://rc24.xyz/goodies/themes/)
-* [Google Drive deposu](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
-* [Wii Tema Ekibi Kreasyonları v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
+* [RiiConnect24 Themes Page](https://rc24.xyz/goodies/themes/)
+* [Google Drive Repository](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
+* [Wii Theme Team Creations v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
-Yalnızca RiiConnect24 Temalar sayfasındaki temalar vWii'de test edilmiştir. Diğer kaynaklardan gelen temalar vWii ile tamamen uyumlu olmayabilir, bunları kendi sorumluluğunuzda kullanın.
+Only themes from the RiiConnect24 Themes page have been tested on vWii. Themes from other sources may not be entirely compatible with vWii, use these at your own risk.
 {: .notice--warning}
 
 DEVAM ETMEDEN ÖNCE YUKARIDAKİ UYARILARI OKUDUĞUNUZDAN EMİN OLUN!
@@ -49,71 +49,71 @@ DEVAM ETMEDEN ÖNCE YUKARIDAKİ UYARILARI OKUDUĞUNUZDAN EMİN OLUN!
 
 ##### Bölüm I - Tema Bulma
 
-* Bir tema seçerken, temanızın vWii Sistem Menüsü ile uyumlu olduğundan emin olmanız önemlidir.
+* When choosing a theme, it is important to make sure that your theme is compatible with the vWii System Menu.
 
-* 3.X veya 2.X için daha eski temalar vWii ile **Uyumlu DEĞİLDİR** ve kullanılırsa tuğla oluşmasına neden olabilir.
+* Older themes for 3.X or 2.X are **NOT** compatible with vWii and may cause a brick if used.
 
-* RiiConnect24'ün tema sayfasındaki temaların çoğu vWii üzerinde test edilmiştir ve çalıştıkları bilinmektedir.
+* Most of the themes on RiiConnect24's theme page have been tested on vWii and they are known to work.
 
-##### Bölüm II - .app dosyalarını indirme
+##### Section II - Downloading .app files
 
-Bu, vWii'nizin en son Wii Menü sürümünde olduğunu varsayar.
+This assumes your vWii is on the latest Wii Menu version.
 {: .notice--warning}
 
-Wii Sistem Menünüz için .app dosyalarını almanın birkaç yolu vardır, bu kılavuzda NUS Downloader'ın Wii sürümünü kullanacağız.
+There are a couple of ways to get the .app files for your vWii System Menu, in this guide we'll be using the vWii version of NUS Downloader.
 
 1. Open the folder and launch NUS Downloader.
 2. Open the menu in NUS Downloader and click the database button.
 3. Go to System > System Menu and select a version according to your region.
 
-| Bölge                       | vWii Menü sürümü |
-| --------------------------- | ---------------- |
-| Japonya                     | v608             |
-| Amerika Birleşik Devletleri | v609             |
-| Avrupa                      | v610             |
+| Region | vWii Menu version |
+| ------ | ----------------- |
+| Japan  | v608              |
+| USA    | v609              |
+| Europe | v610              |
 
-İndirmek için doğru sürümü seçtikten sonra, `Create Decrypted Contents (*.app)` kutusunu işaretleyin. Ardından, pencerenin üst kısmındaki `NUS İndirmeyi Başlat` Düğmesine basın.
+After selecting the correct version to download, check the box for `Create Decrypted Contents (*.app)`. Then, press the `Start NUS Download` Button on the top of the window.
 
-![NUS Downloader'daki veritabanı menüsü.](/images/Themes-vWii/NUSD-vWii_preview-database.png)
+![The database menu in NUS Downloader.](/images/Themes-vWii/NUSD-vWii_preview-database.png)
 
-![Veritabanı menüsü açılmadan NUS indiricisinin ana menüsü.](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
+![The main menu of NUS downloader without the database menu open.](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
 
-İndirme işlemi tamamlandıktan sonra, NUS Downloader'ın bulunduğu klasörde bölgenize karşılık gelen .app dosyasını arayın.
+After the download has finished, search for .app file corresponding to your region in the folder where NUS Downloader is.
 
-| Bölge                       | bölgeniz için.app dosyası |
-| --------------------------- | ------------------------- |
-| Japonya                     | 0000001c.app              |
-| Amerika Birleşik Devletleri | 0000001f.app              |
-| Avrupa                      | 00000022.app              |
+| Region | .app file for your region |
+| ------ | ------------------------- |
+| Japan  | 0000001c.app              |
+| USA    | 0000001f.app              |
+| Europe | 00000022.app              |
 
-.app dosyasını bulamıyorsanız, Wii Menüsünün yanlış sürümünü indirmiş olabilirsiniz ve tekrar denemeniz gerekebilir.
+If you can't find the .app file, it's possible you have downloaded the wrong version of the Wii Menu and you'll need to try again.
 
-.app dosyasını bulduktan sonra, onu ThemeMii'yi içeren klasörün ana dizinine kopyalayın. Ardından, bir sürümünü SD kartınızdaki tema klasörüne kopyalayın.
+After you find the .app file, copy it to the main directory of the folder containing ThemeMii. Then, copy a version of it to the theme folder in your SD card.
 
-##### Bölüm III - Tema Yükleme
+##### Section III - Building the Theme
 
-1. ThemeMii Mod'u başlatın.
-2. `Temel Uygulamayı İndir`'i tıklamayın, ThemeMii'de vWii için temel .app dosyaları yoktur. Bir temel uygulama indirirseniz, vWii .app dosyasını kullanmak için onu silmeniz gerekir.
-3. ThemeMii'de `Dosya` -> öğesini seçin. `Aç` ve daha önce indirdiğiniz .mym temasına gidin.
-4. `CSM Oluştur`'a tıklayın ve ThemeMii klasörüne kopyaladığınız .app dosyasını seçin.
-5. Şimdi SD kartınızdaki tema klasörüne gidin ve temanızı .csm uzantısıyla kaydedin.
+1. Launch ThemeMii Mod.
+2. Do not click `Download Base App`, ThemeMii does not have base .app files for vWii. If you download a base app, you must delete it in order to use the vWii .app file.
+3. In ThemeMii select `File` -> `Open` and navigate to the .mym theme you downloaded earlier.
+4. Click on `Create CSM` and select the .app file that you copied to the ThemeMii folder.
+5. Now navigate to the theme folder on your SD card and save your theme with the .csm extension.
 
-![TemaMii Menüsü](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
+![ThemeMii Menu](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
 
-##### Bölüm IV - Tema Yükleme
+##### Section IV - Installing the Theme
 
-1. SD kartınızı PC'nizden çıkarın ve Wii U'nuza yerleştirin.
-2. Homebrew Kanalını başlatın ve MyMenuify'ı başlatın.
-3. Tema klasörünüze gidin ve az önce oluşturduğunuz .csm dosyasını seçin.
-4. Temayı yüklemenizi istediğinde `Yes` deyin ve bitmesini bekleyin.
-5. Yüklemeyi bitirdiğinde, MyMenuify sizden `Devam` veya `Çıkış` yapmanızı ister, `Çıkış` öğesini seçin.
+1. Eject your SD card from your PC and put it into your Wii U.
+2. Start the Homebrew Channel and launch MyMenuify.
+3. Navigate to your theme folder and select the .csm file you just created.
+4. When it prompts you to install the theme say `Yes`, and wait for it to finish.
+5. When it finishes installing, MyMenuify will prompt you to either `Continue` or `Exit`, choose `Exit`.
 
-Her şeyi doğru yaptıysanız, artık Wii Menünüzde özel temanızın kurulu olması gerekir.
+If you did everything correctly, you should now have your custom theme installed on your Wii Menu.
 
-##### Orjinal tema geri yükleniyor
+##### Reverting to Original Theme
 
 1. Homebrew Channel’ı başlatın.
-2. MyMenuify'ı başlatın ve tema klasörünüze gidin.
-3. 2. bölümün sonunda SD karta kopyaladığınız .app dosyasını bir tema yüklüyormuş gibi seçin.
-4. Yükle'yi seçin ve bitene kadar bekleyin.
-5. Bittiğinde MyMenuify'dan çıkabilirsiniz.
+2. Launch MyMenuify and navigate to your theme folder.
+3. Select the .app file you copied to the SD card at the end of section 2 as if you were installing a theme.
+4. Select Install and wait until it finishes.
+5. When it's done, you can exit MyMenuify.
