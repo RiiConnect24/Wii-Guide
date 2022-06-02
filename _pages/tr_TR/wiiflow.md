@@ -35,7 +35,7 @@ Oyunları oynamak için, Wii’niz için bir harici bellek kullanmanızı öneri
 USB Loader GX’in aksine, WiiFlow SD Kartta bulunan oyunları da çalıştırabilir.
 {: .notice--info}
 
-USB sürücünüzün ve(ya) SD Kartınızın FAT32 ya da NTFS formatında olduğundan emin olun. ExtFS ya da Wii oyunlarını depolayan eski bir format olan WBFS gibi farklı türde bir formatta olmamalı.
+USB sürücünüzün ve(ya) SD Kartınızın FAT32 ya da NTFS formatında olduğundan emin olun. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
 #### Talimatlar
