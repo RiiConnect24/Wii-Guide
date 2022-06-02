@@ -4,31 +4,31 @@ title: "Dumping WADs"
 
 {% include toc title="Table of Contents" %}
 
-Якщо Вам потрібна допомога до даного посібника, будь ласка, приєднайтеся до [сервер Discord](https://discord.gg/rc24) (рекомендовано) або [напишіть нам на support@riicont24. ет](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Цей посібник пояснить вам, як скинути WAD, використовуючи вашу системну пам'ять Ві.
+This tutorial will explain you how to dump WADs from your Wii System Memory.
 
-#### Вимоги
-* SD-карта або носій USB
-* [Ще один BlueDump МОД](https://hbb1.oscwii.org/hbb/Yet-Another-BlueDump-Mod/Yet-Another-BlueDump-Mod.zip)
+#### Requirements
+* An SD card or USB drive
+* [Yet Another BlueDump MOD](https://hbb1.oscwii.org/hbb/Yet-Another-BlueDump-Mod/Yet-Another-BlueDump-Mod.zip)
 
-#### Інструкції
-##### Розділ I - Завантаження/Встановлення
+#### Instructions
+##### Section I - Downloading/Installing
 
-1. Видобути ще один мод BlueDump на SD-карту або USB-диск.
-2. Вставте SD-карту або USB диск до вашого Wii, і запустіть Ще один МОД BlueDump з Homebrew Channel.
+1. Extract Yet Another BlueDump MOD to your SD card or USB drive.
+2. Insert your SD card or USB drive into your Wii, and launch Yet Another BlueDump MOD from the Homebrew Channel.
 
-##### Розділ ІІ
-1. Press the A Button. ![Натисніть [А]](/images/DumpWADS/2.png)
+##### Section II - Dumping
+1. Press the A Button. ![Press A](/images/DumpWADS/2.png)
 
-2. Оберіть `заголовки встановленого каналу`. ![Назви встановлених каналів](/images/DumpWADS/3.png)
+2. Choose `Installed Channel Titles`. ![Installed Channel Titles](/images/DumpWADS/3.png)
 
-3. Find the content you want to dump and press the 1 Button. ![Пошук каналу](/images/DumpWADS/4.png)
+3. Find the content you want to dump and press the 1 Button. ![Find channel](/images/DumpWADS/4.png)
 
-4. Виберіть `Резервне копіювання до WAD`.
-5. У запиті `Відокремити квиток`, оберіть `Так`.
-6. У запиті `Відокремити квиток`, оберіть `Так`.
-7. У запиті `Відокремити квиток`, оберіть `Так`.
+4. Choose `Backup to WAD`.
+5. At the prompt to `Fakesign the ticket`, choose `Yes`.
+6. At the prompt to `Fakesign the TMD`, choose `No`.
+7. At the prompt to `Change the output WAD region`, choose `No`.
 
-Тепер ви покинули цю WAD. Він повинен з'явитися на SD-карті. ![Готово](/images/DumpWADS/5.png)
+You have now dumped that WAD. It should appear on your SD card. ![Done](/images/DumpWADS/5.png)
