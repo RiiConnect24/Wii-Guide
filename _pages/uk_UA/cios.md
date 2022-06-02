@@ -4,9 +4,9 @@ title: "cIOS"
 
 {% include toc title="Table of Contents" %}
 
-This tutorial will tell you how to install cIOS (custom IOS). Це необхідно, якщо ви хочете завантажити ігри за допомогою USB Loader. Деякі домашні пісні можуть працювати краще за допомогою cIOS.
+This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
 
-![d2x інсталятор cIOS](/images/cios/cIOS.png)
+![d2x cIOS Installer](/images/cios/cIOS.png)
 
 If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
 {: .notice--info}
@@ -18,12 +18,12 @@ If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to in
 
 * A Wii with an Internet connection
 * An SD card or USB drive
-* [d2x інсталятор cIOS](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
+* [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
 Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
 {: .notice--warning}
 
-#### Інструкції
+#### Instructions
 
 ##### Section I - Downloading
 
@@ -57,15 +57,15 @@ Select cIOS base: 38
 Select cIOS slot: 251
 Select cIOS version: 65535
 ```
-![Встановити cIOS 251](/images/cios/Install251.png)
-1. Після встановлення натисніть кнопку А ще двічі, щоб встановити, а потім вийдіть один раз.
+![Install cIOS 251](/images/cios/Install251.png)
+1. Once set, press A twice again to install, and then exit once done.
 
-#### Усунення проблем
+#### Troubleshooting
 
 {% capture bruh %}
 Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
-* Використання клавіатури в Animal Crossing: City Folk.
-* Біг човнового кошика, що SpongeBobe.
+* Using a keyboard in Animal Crossing: City Folk.
+* Running SpongeBob's Boating Bash.
 
 A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
 {% endcapture %}
@@ -75,30 +75,30 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
-1. Виберіть гру, що не працює.
-1. 1. Налаштування натиснення.
-1. Виберіть `Навантаження для гри`.
-1. Прокрутіть вниз до `ігрова ОС`.
-1. Введіть слот для IOS.
-    - Спробуйте використати 250 або 251, якщо 249 не працює.
-1. Натисніть в океані та спробуйте завантажити гру.
+1. Select the game that isn't working.
+1. Click Settings.
+1. Select `Game Load`.
+1. Scroll down to `Game IOS`.
+1. Enter the IOS slot to use.
+    - Try using 250 or 251, if 249 doesn't work.
+1. Press ok and try to load the game.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
-1. Виберіть гру, що не працює.
-1. Клацніть піктограму нові.
-1. Перейдіть до cIOS і виберіть слот IOS для використання.
-    - Спробуйте використати 250 або 251, якщо 249 не працює.
-1. Натисніть в океані та спробуйте завантажити гру.
+1. Select the game that isn't working.
+1. Click the gear icon.
+1. Go to cIOS and use the arrows to select the IOS slot to use.
+    - Try using 250 or 251, if 249 doesn't work.
+1. Press Save and try to load the game.
 </div>
-##### Варіанти після завершення
+##### Options once complete
 
-[Перейдіть до веб-переглядача Homebrew](hbb)<br> Браузер Homebrew є хорошим місцем для отримання домашнього господарства на вашому Wii. Це не обов'язкове для встановлення.
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 
-Тепер ви можете використовувати homebrew, такий як [USB-завантажувач GX](usbloadergx) і [WiiFlow](wiiflow).
+You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: .notice--info}
 
 <script>
