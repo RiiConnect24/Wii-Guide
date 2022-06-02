@@ -4,7 +4,7 @@ title: "str2hax"
 
 {% include toc title="Table of Contents" %}
 
-Якщо Вам потрібна допомога до даного посібника, будь ласка, приєднайтеся до [сервер Discord](https://discord.gg/rc24) (рекомендовано) або [напишіть нам на support@riicont24. ет](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Note that if your ISP or networking environment prevents using custom DNS servers, str2hax will not work and you should [choose another exploit to use](get-started).
@@ -16,7 +16,7 @@ str2hax is an exploit for the Wii that is triggered by loading the Wii's End Use
 
 * A Wii with an Internet connection
 
-#### Інструкції
+#### Instructions
 
 ##### Section I - Connecting
 
