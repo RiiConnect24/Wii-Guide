@@ -1,42 +1,42 @@
 ---
-title: "قنبلة زرقاء"
+title: "BlueBomb"
 ---
 
-{% تتضمن عنوان جدول المحتويات="جدول المحتويات" %}
+{% include toc title="Table of Contents" %}
 
-ينصح **بقوة** بعدم استخدام **أي دليل فيديو** لاختراق وحدة التحكم المصغرة Wii الخاصة بك، حيث توجد فرصة كبيرة للغاية ل **bricking**.
+It is **strongly** advised against using **any** video guide for hacking your Wii mini console, as there is an extremely large chance of **bricking** it.
 {: .notice--warning}
 
-إذا كنت بحاجة إلى مساعدة في أي شيء يتعلق بهذا البرنامج التعليمي، يرجى الانضمام إلى [خادم Wii المصغر لقرصنة ديسكورد](https://discord.gg/6ryxnkS) (مستحسن)
+If you need help with anything regarding this tutorial, please join [the Wii mini Hacking Discord server](https://discord.gg/6ryxnkS) (recommended)
 {: .notice--info}
 
-![قنبلة زرقاء](/images/bluebomb.png)
+![BlueBomb](/images/bluebomb.png)
 
-البلوبيل بلوبال هو استغلال يستغل عيباً في مكتبات البلوتوث المصغرة في Wii و Wii. على الرغم من أنه هو المستغل الوحيد الذي يعمل لشبكة Wii الصغيرة ، يمكن للقنبلة البلوانية أن تعمل على شبكة Wii الأصلية أيضاً. ويمكِّن هذا الاستغلال أيضاً من الاسترداد من بعض الطوب، مثل لبنة اللافتة.
+BlueBomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Although it is the only exploit that works for the Wii mini, BlueBomb can run on the original Wii as well. This exploit also enables recovery from certain bricks, such as a banner brick.
 
-بالنسبة للواي فاي الأصلي، نحن لا ننصح باستخدام بلو بلوبن إذا كنت تنوي تثبيت قناة Homebrew و BootMii، حيث أن هناك استغلالا أكثر ملاءمة.
+For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
 {: .notice--info}
 
-#### الفرع الأول - ما تحتاجه
-- آلة لينكس
-  - قد تعمل الآلة الافتراضية، ولكن لا يوصى بها بسبب تعقيدها في جعل البلوتوث يمرر عبر العمل. إن أمكن، يرجى استخدام LiveUSB على النحو المبين أدناه.
-  - إذا كان لديك Raspberry Pi ، فيمكنك استخدام ذلك بدلاً من ذلك لأنه على الأرجح تم تثبيت Linux بالفعل.
-  - لن يعمل نظام Windows الفرعي للينكس ** لأنه ليس لديه حق الوصول المباشر إلى محول البلوتوث أو منفذ USB.
-  - إذا لم يكن لديك لينوكس، [Ubuntu](https://ubuntu.com/download/desktop) هو الخيار الأكثر سهولة للمستخدمين ويمكن تشغيله على أجهزة الكمبيوتر التي تعمل بنظام Windows أو Mac.
-    - أجهزة 32 بت سوف تتطلب [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
-    - بالنسبة للأجهزة 64 بت يوصى باستخدام طبعة LTS بسبب استقرارها، ولكن أحدث إصدار يعمل كذلك.
-  - يمكنك [فلاش بيئة لينكس الحية على محرك أقراص USB](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) بدلا من تثبيته على جهاز الكمبيوتر الخاص بك.
-- محول بلوتوث.
-  - سيعمل محول بلوتوث داخلي.
-  - إذا لم يكن لديك واحد منها، تأكد من الحصول على واحد متوافق مع لينوكس.
-- تم تنسيق محرك أقراص فلاش USB كـ FAT32.
-  - لا يمكن أن يكون هذا نفس محرك الأقراص الفلاش المستخدم لماكينة لينوكس.
+#### Section I - What you need
+- A Linux machine
+  - A Virtual Machine may work, but it is not recommended due to its complexity in getting Bluetooth passthrough working. If possible, please use a LiveUSB as described below.
+  - If you have a Raspberry Pi, you can use that instead as it most likely has Linux installed already.
+  - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports.
+  - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
+    - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
+    - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
+  - You can [flash a Linux Live environment to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
+- A Bluetooth adapter.
+  - An internal Bluetooth adapter will work.
+  - If you do not have one, make sure to get one compatible with Linux.
+- A USB flash drive formatted as FAT32.
+  - This cannot be the same flash drive used for your Linux Machine.
 
-#### الفرع الثاني - تنفيذ الاستغلال
-1. تحميل مثبت HackMii من [موقع BootMii](https://bootmii.org/download/).
-- (إذا حاولت إصلاح الطوبة، فيجب عليك أيضا نسخ تطبيق homebrew الذي ترغب في استخدامه إلى /apps/)
-1. استخراجه ووضع ملف `boot.elf` في محرك الأقراص الفلاش.
-- (بالنسبة لـ Wii mini ، bootmini.elf لن يعمل **** ، غرضه مختلف تماما وغير متصل. استخدم boot.elf في جميع الحالات). 1. قم بتوصيل القرص الفلاش بوحدة التحكم. بالنسبة لـ Wii mini ، منفذ USB على الخلف. لشبكة Wii عادية، استخدم المنفذ السفلي. (أو المنفذ الصحيح إذا كان مستقيماً). 1. قم بتشغيل وحدة التحكم الخاصة بك وانتقل إلى قائمة الإعدادات. في الزاوية اليمنى العلوية سوف ترى رمز من 4 أحرف مثل الرمز الموجود في الصورة أدناه. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+#### Section II - Performing the exploit
+1. Download the HackMii installer from [the BootMii website](https://bootmii.org/download/).
+- (If attempting to fix a brick, you should also copy the homebrew app you wish to use to /apps/)
+1. Extract it and place the `boot.elf` file in your flash drive.
+- (Even for a Wii mini, bootmini.elf will **not** work, its purpose is entirely different and unrelated. Use boot.elf in all cases). 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright). 1. Turn on your console and navigate to the settings menu. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Start your Linux distro, and ensure you are connected to the internet.
 1. Open the Terminal
 1. Run the following commands:
