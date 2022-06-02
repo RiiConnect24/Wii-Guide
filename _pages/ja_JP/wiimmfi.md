@@ -1,8 +1,8 @@
 ---
-title: "Wiimfi"
+title: "Wiimmfi"
 ---
 
-{% include toc title="目次" %}
+{% include toc title="Table of Contents" %}
 
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
