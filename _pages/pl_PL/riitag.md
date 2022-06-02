@@ -71,7 +71,7 @@ RiiTag wspiera Dolphina, Citrę i Cemu. Potrzebujesz do tego konta Discord.
 
 ###### Configurable USB Loader
 
-Nie oferujemy wsparcia dla Configurable USB Loader. Skupiliśmy się na USB Loader GX oraz WiiFlow.
+We do not offer support for Configurable USB Loader, as it's outdated compared to USB Loader GX and WiiFlow Lite.
 {: .notice--info}
 
 Możesz skorzystać z programu `CfgLoaderConfigurator.exe` (tylko dla Windowsa) zamiast edytowania pliku `config.txt` ręcznie.
