@@ -2,7 +2,7 @@
 title: "WiiWare Patcher"
 ---
 
-{% include toc title="目次" %}
+{% include toc title="Table of Contents" %}
 
 Want to patch WAD games (WiiWare) to work with Wiimmfi and you don't know how? This tutorial will explain you how WiiWare Patcher works. (This tutorial is only suitable for Windows operating system)
 
@@ -30,4 +30,4 @@ This tutorial is only for Windows version of WiiWare Patcher.
 5. The patching process will start. Be patient. ![Patching...](/images/WiiWare-Patcher/3.JPG)
 6. It's done! Patched WAD's are in the `wiimmfi-wads` folder. Install them using Wii Mod Lite or other WAD Manager.
 
-[Return to Wiimmfi installation page](wiimfi)
+[Return to Wiimmfi installation page](wiimmfi)
