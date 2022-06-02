@@ -20,7 +20,7 @@ main:
     url: wiimmfi
 top:
   - 
-    title: Bu web sitesi kenar çubuğunda geçerli ilerleme durumunuzu göstermek ve siteyi daha iyi bir hale getirebilmek için çerezleri kullanır.
+    title: This website uses cookies to display the current guide progress on the sidebar and otherwise enhance the site.
 bottom:
   - 
     title: İngilizce destek için, <a href="https://discord.gg/b4Y7jfD">RiiConnect24 Discord'dan</a> yardım isteyebilirsiniz.
