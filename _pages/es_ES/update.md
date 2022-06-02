@@ -1,5 +1,5 @@
 ---
-title: "Actualizando Menú Wii a v4.3"
+title: "Updating Wii Menu to v4.3"
 ---
 
 {% include toc title="Tabla de contenido" %}
@@ -7,41 +7,41 @@ title: "Actualizando Menú Wii a v4.3"
 Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado), o envíanos un [correo electrónico](mailto:support@riiconnect24.net). Soporte disponible solo en inglés.
 {: .notice--info}
 
-Este tutorial explicará cómo actualizar tu Menú Wii a la versión 4., ya que ya no puedes usar el actualizador incluido en el Menú Wii ya que los servidores ya no están activos.
+This tutorial will explain how to update your Wii Menu to version 4.3, as you can no longer use the updater built into the Wii Menu since the servers are no longer up.
 
 #### Requisitos
 * Una tarjeta SD o unidad USB de almacenamiento
-* Una computadora con Windows o superior
-* [Instalador de IOS58](https://oscwii.org/library/app/ios58-installer)
-* [NUS Descargador](https://github.com/WiiDatabase/nusdownloader/releases/latest)
+* A computer with Windows on it
+* [IOS58 Installer](https://oscwii.org/library/app/ios58-installer)
+* [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest)
 * [Instalar WADs con Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
-Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en el [Discord de RiiConnect24](https://discord.gg/rc24) (recomendado) o envía un correo electrónico a [support@riiconnect24.net](mailto:support@riiconnect24.net) (soporte disponible solo en inglés).
+If you don't have a Windows computer, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 #### Instrucciones
 
 ##### Sección I - Descarga
 
-Debe **estar miembro** para poder realizar esta acción. Si tienes una Wii, entonces sigue [esta guía](get-started).
+Your Wii must be modded in order to perform this. If it isn't, then it's best to follow [the guide](get-started) first before doing this.
 {: .notice--info}
 
-En el caso de un brick, [instalando PriiLoader es una necesidad](priiloader). También es recomendable instalar BootMii (si es posible, como boot2). Tener algún tipo de protección contra bricks instalada junto con seguir la guía de forma correcta te mantendrá protegido contra bricks. ¡NO CONTINÚES SI NO TIENES PRIILOADER Y BOOTMII INSTALADOS!
+To protect against bricks, [make sure you install Priiloader](priiloader). Also, install [BootMii](bootmii) (as Boot2 if you have an early Wii, otherwise IOS). Tener algún tipo de protección contra bricks instalada junto con seguir la guía de forma correcta te mantendrá protegido contra bricks. ¡NO CONTINÚES SI NO TIENES PRIILOADER Y BOOTMII INSTALADOS!
 {: .notice--danger}
 
-1. Extraiga el contenido del archivo zip descargado y ejecute 'Ets5Setup.exe'.
-2. Haz clic en `Options` > `Standard System Menu` > Versión de sistema de tu Wii > Región de tu Wii.
-3. Asegurate de que "`Pack Wad`" este activado.
-4. Pulsa `Start`.
-5. Crea una carpeta llamada `modthemes` en la raíz de la tarjeta SD o unidad USB y copia el archivo csm que guardaste antes a dicha carpeta.
-6. En la barra superior del menú, selecciona `Image` -> `Mode` -> `Indexed...`.
+1. Extract the .zip file for NUS Downloader vWii and open the application.
+2. Go to `Database...` > `System` > `0000000100000002 - System Menu` and select the version corresponding to your region as shown in the table below.
+3. Make sure `Pack WAD` is checked.
+4. Press `Start NUS Download!`.
+5. Open the `titles` -> `0000000100000002` -> (Wii Menu version) and copy the .wad file to a folder called `wad` on your SD Card or USB drive.
+6. (If you have [RiiConnect24](riiconnect24), you can skip this step) Repeat steps 2-5 with `IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
 
-| Región | Versión del Menú Wii |
-| ------ | -------------------- |
-| Japón  | v512 (4.3J)          |
-| USA    | v513 (4.3U)          |
-| Europa | v514 (4.3E)          |
-| Corea  | v518 (4.3K)          |
+| Region | Wii Menu version |
+| ------ | ---------------- |
+| Japan  | v512 (4.3J)      |
+| USA    | v513 (4.3U)      |
+| Europe | v514 (4.3E)      |
+| Korea  | v518 (4.3K)      |
 
 ##### Sección II - Instalación
 
@@ -52,11 +52,11 @@ En esta aplicación usarás la cruz de control para desplazarte por las opciones
 2. Inicia el Canal Homebrew en tu Wii.
 3. Inicie Wii Mod Lite.
 4. Usando la cruz de control en tu Wiimote, selecciona `WAD Manager` (Administrador de WADs), y luego abre la carpeta `wad`.
-5. Pulse A para instalar el IOS80. Comprueba si la instalación fue exitosa ejecutando `cargo --version`
-6. Presiona A para instalar el menú Wii WAD.
+5. Press A to install the IOS80. [`Make sure the installation is successful, otherwise abort.`]
+6. Press A to install the Wii Menu WAD.
 7. Una vez que se hayan instalado correctamente, oprime el botón HOME para volver al Canal Homebrew.
-8. Iniciar el instalador IOS58.
-9. Siga las instrucciones para instalar IOS58.
+8. Launch IOS58 Installer.
+9. Follow the instructions to install IOS58.
 
-[Continuar con la instalación de Priiloader](priiloader)<br> Priiloader añade un nivel de protección de ladrillos, y lo recomendamos.
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it.
 {: .notice--info}
