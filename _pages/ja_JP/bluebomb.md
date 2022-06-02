@@ -2,7 +2,7 @@
 title: "BlueBomb"
 ---
 
-{% include toc title="目次" %}
+{% include toc title="Table of Contents" %}
 
 It is **strongly** advised against using **any** video guide for hacking your Wii mini console, as there is an extremely large chance of **bricking** it.
 {: .notice--warning}
