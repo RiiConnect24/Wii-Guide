@@ -2,7 +2,7 @@
 title: "RiiConnect24"
 ---
 
-{% include toc title="目次" %}
+{% include toc title="Table of Contents" %}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
