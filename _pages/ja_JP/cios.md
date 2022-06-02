@@ -2,7 +2,7 @@
 title: "cIOS"
 ---
 
-{% include toc title="目次" %}
+{% include toc title="Table of Contents" %}
 
 This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
 
