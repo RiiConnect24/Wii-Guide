@@ -32,7 +32,7 @@ Dacă nu copiezi jocuri folosind Wii Backup Manager, Witgui, sau Wii Backup Fusi
 Pentru a juca jocuri, recomandăm să folosești un hard disk extern pentru consola ta. Stick-urile USB ar trebui să fie de asemenea utilizabile, dar hard disk-urile externe sunt recomandate pentru că sunt mai fiabile, și pot stoca mai multe jocuri.
 {: .notice--info}
 
-Asigură-te că unitatea USB este formatată ca FAT32 sau NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
+Asigură-te că unitatea USB este formatată ca FAT32 sau NTFS. Nu-l formata ca alte tipuri precum exFAT, extFS sau WBFS, cel dintâi fiind un format vechi pentru stocarea jocurilor Wii.
 {: .notice--info}
 
 #### Instrucțiuni
