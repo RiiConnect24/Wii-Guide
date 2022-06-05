@@ -19,7 +19,7 @@ WiiLink și toate serviciile sale (precum Wii no Ma) nu sunt controlate sau admi
 #### Instrucțiuni
 
 ##### Opțional: Wii Patcher
-The Wii Patcher will not work on Dolphin. If you are a Dolphin user, please use the other patchers.
+Wii Patcher-ul nu va merge pe Dolphin. If you are a Dolphin user, please use the other patchers.
 {: .notice--info}
 
 If you use the Wii Patcher, you will not need to use our other patchers.
