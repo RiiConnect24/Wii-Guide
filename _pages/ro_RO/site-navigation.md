@@ -34,7 +34,7 @@ sitemap: false
 + [BlueBomb](bluebomb)
 * [Copie de rezerva BootMii](bootmii)
 + [cIOS](cios)
-+ [Dos and Don'ts of Wii Modding](dosanddonts)
++ [Recomandări și Greșeli în Modificarea Consolei Wii](dosanddonts)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
 + [Homebrew Channel](hbc)
