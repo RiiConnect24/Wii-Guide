@@ -21,7 +21,7 @@ Pentru a stoca aplicații homebrew, recomandăm un card SD cu cel puțin 2 GB sp
 Pentru a verifica care este motivul erorii, te rugăm să vizitezi [pagina de erori Wiimmfi](https://wiimmfi.de/error).
 
 ### Care sunt limitele în modificării vWii?
-Următoarea este o listă de lucruri care pot cauza un **BRICK** pe vWii (nu face aceste lucruri!):
+Mai jos se află o listă de lucruri care pot cauza un **BRICK** pe vWii (nu face aceste lucruri!):
 * Instalarea unui IOS pentru o consola Wii pe vWii.
 * Instalarea temelor de meniu Wii care nu sunt formatate corect pentru vWii și/sau regiunea ta.
 * Instalarea BootMii și/sau Priiloader/Preloader.
