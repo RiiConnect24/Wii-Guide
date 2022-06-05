@@ -20,7 +20,7 @@ Recomandăm să copiezi jocurile cu [Witgui](https://desairem.com/wordpress/cate
 Pentru a juca mai multe jocuri, recomandăm un hard disk extern USB pentru consola ta. Îl vom numi ca "unitate USB" în acest ghid. Majoritatea celor pe care le poți găsi pe piață ar trebui să funcționeze bine dacă au compatibilitate cu USB 2. Drive-uri cu capacitate de 1 TB sau mai mult va funcționa. Stick-urile USB vor funcționa, dar din cauza dimensiunii unui stick Usb, nu va putea să stocheze la fel de multe jocuri.
 {: .notice--info}
 
-Asigură-te că unitatea USB este formatată ca FAT32 sau NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
+Asigură-te că unitatea USB este formatată ca FAT32 sau NTFS. Nu-l formata ca alte tipuri precum exFAT, extFS sau WBFS, cel dintâi fiind un format vechi pentru stocarea jocurilor Wii.
 {: .notice--info}
 
 #### Instrucțiuni
