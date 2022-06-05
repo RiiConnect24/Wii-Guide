@@ -35,7 +35,7 @@ Pentru a juca jocuri, recomandăm să folosești un hard disk extern pentru cons
 Spre deosebire de USB Loader GX, WiiFlow poate rula jocuri de pe un card SD.
 {: .notice--info}
 
-Asigură-te că unitatea USB sau/și cardul SD este formatat/ă ca FAT32 sau NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
+Asigură-te că unitatea USB sau/și cardul SD este formatat/ă ca FAT32 sau NTFS. Nu-l formata ca alte tipuri precum exFAT, extFS sau WBFS, cel dintâi fiind un format vechi pentru stocarea jocurilor Wii.
 {: .notice--info}
 
 #### Instrucțiuni
