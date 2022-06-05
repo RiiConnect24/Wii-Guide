@@ -1,5 +1,5 @@
 ---
-title: "Dos and Don'ts of Wii Modding"
+title: "Recomandări și Greșeli în Modificarea Consolei Wii"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -7,14 +7,14 @@ title: "Dos and Don'ts of Wii Modding"
 Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Here's a list of things you should and should not do once you've modded your Wii, to make sure you don't brick it.
+Iată o listă de lucruri pe care ar trebui și nu ar trebui să le faci odată ce ți-ai modificat consola, pentru a te asigura că nu cauzezi un brick.
 
-#### List
+#### Lista
 
-- **DO** make sure you've installed [BootMii](bootmii) and [Priiloader](priiloader) to make sure you don't brick your Wii.
-- **DO** make a backup of your Wii NAND regularly with [BootMii](bootmii), especially before doing something risky.
-- **DO** install Wii Menu themes if you wish, but only use our tutorial for it carefully. ([Wii](themes) / [vWii](themes-vwii)). Other tutorials might be misleading and can cause you to brick your Wii.
-- **DO NOT** install WADs of random IOS, older versions of the Wii Menu, etc. unless you know what you're doing, especially not on vWii or a Wii Mini.
+- **RECOMANDARE:** Asigură-te că ai instalat [BootMii](bootmii) și [Priiloader](priiloader) pentru a te asigura că nu cauzezi un brick consolei tale Wii.
+- **RECOMANDARE:** Creează o copie de rezervă a NAND-ului Wii în mod regulat cu [BootMii](bootmii), în special înainte de a face ceva riscant.
+- **RECOMANDARE:** Poți instala teme de fundal pentru Meniul Wii dacă dorești, însă urmează cu grijă numai ghidul nostru. ([Wii](themes) / [vWii](themes-vwii)). Alte tutoriale pot fi incorecte și te pot face să cauzezi un brick consolei tale.
+- **GREȘEALĂ:** Instalarea fișierelor WAD de IOS-uri aleatorii, versiuni mai vechi ale Meniului Wii, etc. dacă nu știi ce faci, în special nu pe vWii sau pe Wii Mini.
 - **DO NOT** or use old versions of Wii homebrew. If you follow Wii modding tutorials from the Internet, be cautious about using old tutorials (likely pre-2012), especially if they have to do with things such as IOS.
 - **DO NOT** modify, rename, or delete random files on your Wii NAND unless you know what you are doing.
 - **DO NOT** use the homebrew app "KoreanKii" on a non-Korean Wii.
