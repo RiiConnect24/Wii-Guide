@@ -40,9 +40,9 @@ Hier ist ein Tipp - Wenn du Homebrew-Anwendungen auf deiner SD-Karte oder deinem
 
 ![Korrekte Ordnerstruktur der SD-Karte](images/Wii/FolderStructure.png)
 
-`AppName1` und `AppName2` sind Platzhalternamen. Do not nest multiple `apps` folders inside the `apps` folder itself.
+`AppName1` und `AppName2` sind Platzhalternamen. Erstelle nicht mehrere `apps`-Ordner innerhalb des `apps`-Ordners.
 
-┃ ┣ 📂 AppName1
+[Fortfahren mit der Erstellung eines NAND-Backup mittels BootMii](bootmii)<br> Die Erstellung eines NAND-Backup mittels BootMii wird an dieser Stelle ausdrücklich empfohlen.
 {: .notice--info}
 
 Falls du BootMii nicht installieren konntest, fahre mit der [Installation von Priiloader](priiloader) fort.
