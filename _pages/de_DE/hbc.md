@@ -40,12 +40,12 @@ Hier ist ein Tipp - Wenn du Homebrew-Anwendungen auf deiner SD-Karte oder deinem
 
 ![Korrekte Ordnerstruktur der SD-Karte](images/Wii/FolderStructure.png)
 
-`AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
+`AppName1` und `AppName2` sind Platzhalternamen. Do not nest multiple `apps` folders inside the `apps` folder itself.
 
 ┃ ┣ 📂 AppName1
 {: .notice--info}
 
-If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
+Falls du BootMii nicht installieren konntest, fahre mit der [Installation von Priiloader](priiloader) fort.
 {: .notice--info}
 
 Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
