@@ -18,13 +18,13 @@ WiiMotes mit Wii MotionPlus funktioniert nicht auf MyMenuify, Leider gibt es nic
 Es gibt einige Themes, die nicht mit dem vWii Systemmenü kompatibel sind, sie können alles von graphischen Fehlern bis hin zu einem vollständigen Theme-Baustein verursachen. Wir empfehlen nur die Verwendung von Themes von [rc24.xyz/goodies/themes/themes/](https://rc24.xyz/goodies/themes/), da diese mit modernen Versionen des Systemmenüs kompatibel sind.
 {: .notice--warning}
 
-Wenn du irgendwie deine vWii baust, folge [diesem Leitfaden](https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329). ([Archiv](https://web.archive.org/web/20200213194233/https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329/))
+Solltest du deine vWii bricken, folge [dieser Anleitung](https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329). ([Archiv](https://web.archive.org/web/20200213194233/https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329/))
 {: .notice--info}
 
 #### Voraussetzungen
 
 * Eine Wii U, auf welcher der Homebrew-Kanal installiert ist.
-* Eine Wiimote ohne Wii MotionPlus
+* Eine Wii-Fernbedienung ohne Wii MotionPlus
 * Eine SD-Karte
 * Ein Computer mit Windows (oder nutze Mono oder Wine auf macOS/Linux)
 * [MyMenuify](/assets/files/Mymenuify-Old-vWii.zip)
