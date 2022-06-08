@@ -26,7 +26,7 @@ Si has instalado BootMii como boot2, apaga y vuelve a encender la consola para i
 1. Inicia el Canal Homebrew.
 2. Oprime el botón HOME y selecciona "Lanzar BootMii".
 
-    BootMii no es compatible con el Wii Remote, por lo que deberás usar los botones POWER y RESET de la consola o un control de GameCube conectado en el puerto del jugador 1. To navigate between options, press POWER on your Wii (or left/right on the +Control Pad on a GameCube controller). Pulsa RESET en la consola o A en el control de GameCube para elegir una opción.
+    BootMii no es compatible con el Wii Remote, por lo que deberás usar los botones POWER y RESET de la consola o un control de GameCube conectado en el puerto del jugador 1. Para navegar entre las opciones, presiona el botón de encendido en tu Wii (o a la izquierda / derecha en la almohadilla de control en un controlador de GameCube). Pulsa RESET en la consola o A en el control de GameCube para elegir una opción.
     {: .notice--info}
 
 
