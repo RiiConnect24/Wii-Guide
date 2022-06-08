@@ -47,5 +47,5 @@ Pentru a restaura dintr-o copie de rezervă NAND pe cardul tău SD, poți urmăr
 Pentru a te asigura că nu pierzi fișierele, este recomandat să copiezi `nand.bin` și `keys.bin` din rădăcina cardului SD în calculator.
 {: .notice--info}
 
-[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii as IOS.
+[Continuă la instalarea Priiloader](priiloader) Priiloader adaugă un nivel de protecție anti-brick, și îl recomandăm, în special dacă ai putut să instalezi numai BootMii ca IOS.
 {: .notice--info}
