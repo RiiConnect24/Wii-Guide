@@ -24,7 +24,7 @@ Eines von BootMiis wichtigsten Features ist die Möglichkeit, den NAND-Speicher 
 Falls du BootMii als boot2 installiert hast, musst du BootMii durch einen Neustart der Konsole starten. Überspringe in diesem Fall die Schritte 1 und 2.
 {: .notice--info}
 1. Starte den Homebrew-Kanal.
-2. Drücke die HOME-Taste und wähle dann "Launch BootMii".
+2. Drücke den HOME-Knopf und wähle dann "Launch BootMii".
 
     Die Navigation in BootMii ist mit einer Wii-Fernbedienung nicht möglich. Du musst den POWER-Schalter und RESET-Knopf deiner Konsole, oder einen GameCube-Controller, verbunden mit Anschlussbuchse 1, nutzen. To select an option, press RESET on your Wii or A on your GameCube controller. Um zwischen den Optionen zu wechseln, drücke die POWER-Taste an deiner Wii (oder die rechte Steuerkreuztaste auf einem GameCube-Controller).
     {: .notice--info}
