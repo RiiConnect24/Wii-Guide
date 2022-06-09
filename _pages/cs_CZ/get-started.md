@@ -16,15 +16,15 @@ Všechny exploity vedou ke spuštění HackMii Installeru, mají tedy stejný ko
 Přestože můžete procházet těmito tutoriály bez SD karty, bez SD karty nebudete moci vytvořit zálohu úložiště NAND nebo ze zálohy obnovit a také nebudete moci spustit některé homebrew aplikace.
 {: .notice--info}
 
-If your Wii Menu is not on version 4.3, use str2hax or FlashHax to mod your Wii. When you are finished following the guide, follow [the update guide](update) to update your Wii Menu to version 4.3.
+Pokud vaše Wii Menu není ve verzi 4.3, použijte pro hacknutí vašeho Wii str2hax nebo FlashHax. Až dokončíte postup podle návodu, postupujte podle [průvodce aktualizací](update) pro aktualizaci vašeho Wii Menu na verzi 4.3.
 {: .notice--info}
 
-This guide is for the original Wii and Wii mini only (including the Wii Family Edition). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
+Tento tutoriál je určen pouze pro klasické Wii a Wii mini (včetně Wii Family Edition). Nepoužívejte tento tutoriál s Wii U (vWii)! Pokud chcete nainstalovat homebrew na Wii U, postupujte podle [tohoto průvodce](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### Vyberte, který exploit chcete použít
 
-These exploits are sorted by easiest to hardest difficulty of use.
+Tyto exploity jsou seřazeny podle obtížnosti, počínaje nejsnazším a konče nejobtížnějším.
 
 - [str2hax](str2hax) - Exploit využívající Wii EULA (licenční podmínky)
     * Vyžaduje připojení k Internetu a změnu DNS serveru
