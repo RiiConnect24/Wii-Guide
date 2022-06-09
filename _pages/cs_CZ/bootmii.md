@@ -9,13 +9,13 @@ Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte s
 
 ![BootMii Logo](/images/bootmii.png)
 
-Potřebujete **SD kartu**, abyste mohli vytvořit zálohu NAND pomocí BootMii. If you do not have one, you can skip this page, although it is highly recommended to make a NAND backup if you can.
+Potřebujete **SD kartu**, abyste mohli vytvořit zálohu NAND pomocí BootMii. Pokud ji nemáte, můžete tuto stránku přeskočit, přestože je vytvoření zálohy opravdu doporučováno.
 {: .notice--warning}
 
-Doporučuje se BootMii jako boot2, ale toto je možné pouze na těch nejstarších Wiičkách. Otherwise, it can only be installed as an IOS.
+Doporučuje se BootMii jako boot2, ale toto je možné pouze na těch nejstarších Wiičkách. V opačném případě může být BootMii nainstalováno pouze jako IOS.
 {: .notice--info}
 
-Jednou z nejdůležitějších funkcí je schopnost zálohovat a obnovit NAND úložiště. Budeme se zabývat tím, jak takovou NAND zálohu vytvořit. You can then restore from that backup for any reason. Je dobré zálohu provádět pravidelně, ale i předtím, než budete se svou konzolí dělat něco riskantního (a pokud víte, co děláte, nic riskantního neuděláte).
+Jednou z nejdůležitějších funkcí je schopnost zálohovat a obnovit NAND úložiště. Budeme se zabývat tím, jak takovou NAND zálohu vytvořit. Pak budete moci konzoli z této zálohy obnovit. Je dobré zálohu provádět pravidelně, ale i předtím, než budete se svou konzolí dělat něco riskantního (a pokud víte, co děláte, nic riskantního neuděláte).
 
 #### Předpoklad
 * SD karta s alespoň 512 MB volného místa
@@ -26,7 +26,7 @@ Pokud máte BootMii nainstalované jako boot2, budete muset spustit BootMii rest
 1. Spusťte Homebrew Channel.
 2. Stiskněte tlačítko HOME a poté vyberte "Launch BootMii".
 
-    Pohybovat se v menu BootMii nelze použitím Wii Remotu. Musíte použít tlačítka POWER a RESET na vaší konzoli nebo GameCube ovladač připojený do portu 1. To navigate between options, press POWER on your Wii (or left/right on the +Control Pad on a GameCube controller). To select an option, press RESET on your Wii or A on your GameCube controller.
+    Pohybovat se v menu BootMii nelze použitím Wii Remotu. Musíte použít tlačítka POWER a RESET na vaší konzoli nebo GameCube ovladač připojený do portu 1. Chcete-li přecházet mezi možnostmi, stiskněte POWER na Wii (nebo vpravo na D-Padu na GameCube ovladači). To select an option, press RESET on your Wii or A on your GameCube controller.
     {: .notice--info}
 
 
