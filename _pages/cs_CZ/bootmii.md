@@ -26,25 +26,25 @@ Pokud máte BootMii nainstalované jako boot2, budete muset spustit BootMii rest
 1. Spusťte Homebrew Channel.
 2. Stiskněte tlačítko HOME a poté vyberte "Launch BootMii".
 
-    Pohybovat se v menu BootMii nelze použitím Wii Remotu. Musíte použít tlačítka POWER a RESET na vaší konzoli nebo GameCube ovladač připojený do portu 1. Chcete-li přecházet mezi možnostmi, stiskněte POWER na Wii (nebo vpravo na D-Padu na GameCube ovladači). To select an option, press RESET on your Wii or A on your GameCube controller.
+    Pohybovat se v menu BootMii nelze použitím Wii Remotu. Musíte použít tlačítka POWER a RESET na vaší konzoli nebo GameCube ovladač připojený do portu 1. Chcete-li přecházet mezi možnostmi, stiskněte POWER na Wii (nebo vpravo na D-Padu na GameCube ovladači). Chcete-li potvrdit výběr, stiskněte RESET na vašem Wii nebo A na GameCube ovladači.
     {: .notice--info}
 
 
-    Pokud obrazovka zůstane černá a slot konzole bliká, chybí vám potřebné BootMii soubory na SD kartě. Download [this zip file](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
+    Pokud obrazovka zůstane černá a slot konzole bliká, chybí vám potřebné BootMii soubory na SD kartě. Stáhněte [tento zip](https://static.hackmii.com/bootmii_sd_files.zip) a rozbalte jej do kořenového adresáře vaší SD karty a zkuste to znovu.
     {: .notice--warning}
 
 3. Vyberte tlačítko Možnosti (ikona s ozubenými koly).
 4. Vyberte tlačítko BackupMii (ikona se zelenou šipkou, tzv. první ikonu na levé straně).
 - Bude spuštěno zálohování paměti NAND. Na obrazovce můžete sledovat průběh.
 - Tzv. "špatné bloky" jsou normální. Nebojte se, když nějaké uvidíte.
-- Po tomto kroku proběhne kontrola zálohy. Přestože se kontrola doporučuje, lze ji přeskočit stisknutím tlačítka EJECT na vašem Wii. Note that if you have a disc inserted in the disc drive, pressing EJECT will also eject the disc.
+- Po tomto kroku proběhne kontrola zálohy. Přestože se kontrola doporučuje, lze ji přeskočit stisknutím tlačítka EJECT na vašem Wii. Máte-li v konzoli vložen disk, stisknutím klávesy EJECT se také disk vysune.
 5. Po úplném dokončení zálohování opusťte obrazovku zálohy NAND stisknutím libovolného tlačítka.
 6. Pro opuštění BootMii vyberte tlačítko Zpět (menší tlačítko s šipkou) a pak můžete zvolit buď tlačítko s Wii Menu pro návrat do hlavní nabídky, nebo tlačítko s Homebrew Chanellem pro návrat do Homebrew Chanellu.
 
 Pro obnovení z NAND zálohy na SD kartě můžete následovat tyto instrukce pomocí RestoreMii (ikona s červenou šipkou - druhá ikona zleva). To se hodí ve velmi nepravděpodobném případě, že si Wii bricknete.
 {: .notice--info}
 
-To make sure you don’t lose the files, it's recommended to copy `nand.bin` and `keys.bin` from the root of your SD card to your computer.
+Abyste soubory neztratili, je doporučeno zkopírovat `nand.bin` a `keys.bin` z kořenového adresáře vaší SD karty do počítače.
 {: .notice--info}
 
 [Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii as IOS.
