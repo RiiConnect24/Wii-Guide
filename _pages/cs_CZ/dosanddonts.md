@@ -1,5 +1,5 @@
 ---
-title: "Dos and Don'ts of Wii Modding"
+title: "Jak se chovat k hacknutému Wii"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -7,27 +7,27 @@ title: "Dos and Don'ts of Wii Modding"
 Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte se na [RiiConnect24 Discord server](https://discord.gg/rc24) (doporučeno) nebo [nám napište e-mail](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Here's a list of things you should and should not do once you've modded your Wii, to make sure you don't brick it.
+Zde je seznam věcí, které byste měli nebo neměli dělat, jakmile hacknete své Wii, abyste se ujistili, že ho nezabrickujete.
 
-#### List
+#### Seznam
 
-- **DO** make sure you've installed [BootMii](bootmii) and [Priiloader](priiloader) to make sure you don't brick your Wii.
-- **DO** make a backup of your Wii NAND regularly with [BootMii](bootmii), especially before doing something risky.
-- **DO** install Wii Menu themes if you wish, but only use our tutorial for it carefully. ([Wii](themes) / [vWii](themes-vwii)). Other tutorials might be misleading and can cause you to brick your Wii.
-- **DO NOT** install WADs of random IOS, older versions of the Wii Menu, etc. unless you know what you're doing, especially not on vWii or a Wii Mini.
-- **DO NOT** or use old versions of Wii homebrew. If you follow Wii modding tutorials from the Internet, be cautious about using old tutorials (likely pre-2012), especially if they have to do with things such as IOS.
-- **DO NOT** modify, rename, or delete random files on your Wii NAND unless you know what you are doing.
-- **DO NOT** use the homebrew app "KoreanKii" on a non-Korean Wii.
-- **DO NOT** Install any IOS or Wii Menu on a Wii mini other than [d2xl cIOS](cios-mini). Doing so will brick your console if a Wi-Fi card is not soldered to it.
-- **DO NOT** use any Nintendo Wi-Fi Connection replacement on your Wii except for [Wiimmfi](wiimmfi). Unfortunately, other replacement servers are vulnerable to an exploit that can brick your Wii if you use them. [RiiConnect24](riiconnect24) is safe to use as well.
+- **Mějte** nainstalovány nástroje [BootMii](bootmii) a [Priiloader](priiloader), abyste snížili riziko briknutí své konzole na minimum.
+- **Vytvářejte** NAND zálohu vašeho Wii pomocí [BootMii](bootmii) pravidelně, zvláště před něčím riskantním.
+- Instalujte skiny Wii Menu, pokud chcete, ale používejte k tomu pouze náš tutoriál a postupujte **opatrně**. ([Wii](themes) / [vWii](themes-vwii)). Jiné tutoriály mohou být zavádějící a mohou způsobit bricknutí vašeho Wii.
+- **Neinstalujte** soubory WAD nahodilých IOSů, staré verze Wii Menu apod., pokud si nejste jisti tím, co děláte, zvláště na vWii nebo Wii Mini.
+- **Nepoužívejte** staré verze homebrew aplikací. Pokud postupujete podle starých Wii modding tutoriálů z internetu (zejména starších než 2012), buďte opatrní, a to hlavně pokud se týkají věcí jako např. IOS.
+- **Neměňte, nepřejmenovávejte ani neodstraňujte** náhodné soubory v paměti NAND, pokud si nejste jisti.
+- **Nepoužívejte** nástroj "KoreanKii" na nekorejských konzolích.
+- **Neinstalujte** žádný jiný IOS nebo Wii Menu na Wii Mini kromě [d2xl cIOS](cios-mini). Pokud tak učiníte, aniž byste ve svém Wii Mini měli připájenou WiFi kartu, konzoli si bricknete.
+- **Nepřipojujte se** k žádné jiné službě nahrazující Nintendo Wi-Fi Connection, než je [Wiimmfi](wiimmfi). Bohužel, jiné nahrazující servery jsou náchylné k exploitům, které můžou bricknout vaše Wii, pokud se k nim připojujete. [RiiConnect24](riiconnect24) je také bezpečný.
 
-If you follow these guidelines, you won't have to worry about bricking your Wii. Wii modding is safe, and bricks usually occur due to something done by the user that is on this list.
+Pokud se držíte těchto pravidel, nebudete se muset obávat bricknuti svého Wii. Hackování Wiička je bezpečné a k brickům obvykle dochází kvůli tomu, že uživatel poruší některou z výše uvedených zásad.
 
-Continue to installing cIOS<br> cIOS are used to play games with a USB Loader. It's also useful for many other homebrew apps.
+Pokračujte instalací cIOSu<br> cIOS slouží ke spouštění her USB Loaderem. A také je užitečný pro mnoho jiných homebrew aplikací.
 {: .notice--info}
 
-If using a regular Wii, follow [this guide](cios) to install cIOS.
+Pokud máte klasické Wii, postupujte podle [tohoto tutoriálu](cios) na instalaci cIOSu.
 {: .notice--info}
 
-If using a Wii mini, follow [this guide](cios-mini) to install cIOS
+Pokud máte Wii mini, postupujte podle [tohoto tutoriálu](cios-mini) na instalaci cIOSu
 {: .notice--info}
