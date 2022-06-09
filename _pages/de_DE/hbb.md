@@ -2,13 +2,13 @@
 title: "Open Shop Channel (Homebrew Browser)"
 ---
 
-Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [RiiConnect24 Discord-Server](https://discord.gg/osc) bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
+Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [The Open Shop Channel](https://discord.gg/osc) Discord-Server bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Der Homebrew Browser, welches auf dem Open Shop Channel basiert, funktioniert jedoch können buggs auftreten. Du kannst Homebrew ebenfalls durch den [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) und von der [Open Shop Channel](https://oscwii.org/) Webseite erhalten.
+Der Homebrew Browser, welcher auf dem Open Shop Channel basiert, funktioniert so weit, es können jedoch Bugs auftreten. Du kannst Homebrew ebenfalls bei [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) beziehen, oder auf der [Open Shop Channel-Webseite](https://oscwii.org/) erhalten.
 {: .notice--info}
 
-Du kannst zum [Open Shop Channel](https://oscwii.org/) gehen, um Homebrew Apps zu erhalten. Es ist ein Wiederbelebungsprojekt für die App namens Homebrew Browser.
+Der [Open Shop Channel](https://oscwii.org/) ist der Ort, an dem du Homebrew-Apps erhalten kannst. Es ist ein Projekt um die App namens Homebrew Browser wiederzubeleben.
 
 #### Voraussetzungen
 * Eine SD-Karte oder ein USB-Laufwerk
