@@ -11,7 +11,7 @@ Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [Rii
 
 [Wiimmfi](https://wiimmfi.de) ist ein Ersatzservice für die eingestellte Nintendo Wi-Fi Connection. Er wurde gemeinsam von Wiimm und Leseratte entwickelt.
 
-If you get the error 23904 while connecting to Wiimmfi, then you are using an outdated patch.<br> Follow the steps below for the method you're using to connect to Wiimmfi again.<br> See [this page](https://wiimmfi.de/update) for more details.<br>
+Wenn du den Fehler 23904 beim Verbinden mit Wiimmfi erhältst, verwendest du einen veralteten Patch.<br> Befolge die nachstehenden Schritte, um eine Methode auszuwählen, mit der du dich erneut mit Wiimmfi verbindest.<br> Auf [dieser Seite](https://wiimmfi.de/update) erhälst du dazu mehr Details.<br>
 {: .notice--warning}
 
 ## Verschiedene Patcher
