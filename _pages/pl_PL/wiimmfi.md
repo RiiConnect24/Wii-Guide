@@ -141,8 +141,8 @@ Znalezienie sieci WiFi z WEP lub bez zabezpieczeń jest najtrudniejszą części
 
 1. Wejdź do ustawień WiFi w Twoim Nintendo DS. Ten panel może również zostać otwarty z poziomu gry w którą będziesz grał online.
 2. Skonfiguruj połączenie.
-3. Wpisz `164.132.44.106` jako Primary DNS.
-4. Wpisz `1.1.1.1` jako secondary DNS (drugorzędny serwer DNS). (Jeśli masz problemy, spróbuj `8.8.8.8`).
+3. Type in `167.86.108.126` as the primary DNS.
+4. Type in `1.1.1.1` as the secondary DNS.
 5. Zapisz ustawienia oraz wykonaj test połączenia. Jeżeli zostanie ono ukończone pomyślnie, jesteś gotowy do grania online.
 
 ### Mody do Mario Kart Wii
