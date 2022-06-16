@@ -141,8 +141,8 @@ Cea mai dificilă parte este găsirea unei rețele Wi-Fi cu WEP sau nicio securi
 
 1. Mergi în setările Nintendo DS Wi-Fi. Acestea pot fi accesate din interiorul jocului pe care vrei să-l joci online.
 2. Setează o conexiune.
-3. Scrie `164.132.44.106` ca DNS-ul primar.
-4. Scrie `1.1.1.1` ca DNS-ul secundar (dacă îți da probleme, încearcă `8.8.8.8`).
+3. Type in `167.86.108.126` as the primary DNS.
+4. Type in `1.1.1.1` as the secondary DNS.
 5. Salvează-ți setările de conexiune și performă un test de conexiune. Dacă testul este un succes, atunci ești gata să joci.
 
 ### Mod-uri de Mario Kart Wii
