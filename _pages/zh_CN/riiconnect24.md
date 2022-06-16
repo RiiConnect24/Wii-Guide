@@ -76,7 +76,13 @@ title: "RiiConnect24"
 
 ##### 第四节 - 连接
 
-您现在需要将DNS设置为我们的服务器。 这是可选项但很推荐，因为它通过提供其它功能来增强RiiConnect24和Wiimmfi。
+{% capture notice-1 %}
+Starting June 16th, 2022 the RiiConnect24 DNS changes. Read more: [here.](riiconnect24-dns-update)
+{% endcapture %}
+
+<div class="notice--warning">{{ notice-1 | markdownify }}</div>
+
+You will now set your DNS to our servers. This is optional but it's recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
 
 1. 转到 `Wii 选项`。
 2. 转到`Wii 设置`。
@@ -85,8 +91,8 @@ title: "RiiConnect24"
 5. 选择当前连接。
 6. 转到`更改设置`。
 7. 转到`自动获取DNS` (不是IP地址)，然后选择`否`然后选择 `高级设置`。
-8. 将`164.132.44.106`作为主要DNS。
-9. 将`1.1.1.1`作为次要DNS (如果有问题，尝试`8.8.8.8`).
+8. Type in `167.86.108.126` as the primary DNS.
+9. Type in `1.1.1.1` as the secondary DNS.
 10. 选择`确认`，然后选择`保存`。
 11. 选择`OK`进行连接测试。
 12. 如果连接测试成功，请选择`否`跳过Wii系统更新。
@@ -95,29 +101,29 @@ title: "RiiConnect24"
 15. 在`Slot Illumination`，我们建议您将光驱灯设置为 `Dim` or `Bright`，但这是可选的。
 16. 最后，转到`互联网`，转到`User Agreements` 或 `Agreement/Contact`，点击 `Yes`。 请阅读此内容。
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. 你可以选择来安装。 这是可选项。
+[继续安装Wiimmfi](wiimmfi)<br> Wiimmfi让您在Nintendo Wi-Fi Connection停止服务后继续在线玩游戏。 这是可选项。
 {: .notice--info}
 
-[继续WiiLink](wiilink)<br> WiiLink允许您使用已停止服务的日本频道，如Wii no Ma 何 Digicam Print Channel。 这是可选项。
+[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. 这是可选项。
 {: .notice--info}
 
 [继续 网站导览](site-navigation) 我们有许多你可能喜欢的其他教程。
 {: .notice--info}
 
-如果得到错误107245，证明您还没有安装修补后的IOS。
+If you get error 107245, then you have not installed the patched IOS.
 {: .notice--warning}
 
-如果您遇到错误107304或您没看到带RiiConnect24 logo的任天堂用户协议，证明您的ISP或网络正在阻止DNS。 您可以将`自动获取DNS`设置为`是`来解决。 没有它，RiiConnect24仍然工作。 或者，您可以使用我们的[DNS服务器](https://github.com/RiiConnect24/DNS-Server/releases/latest) 应用。
+If you get error 107304 or you see Nintendo's User Agreement without RiiConnect24's logo, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
 {: .notice--warning}
 
-如果您得到错误 FORE000006，可能是您的Wii的时间错误。 设置正确的日期和时间，等待不超过一小时，Forecast Channel应该开始工作。
+如果您得到错误 FORE000006，可能是您的Wii的时间错误。 Set it to the correct date and time, then wait no more than an hour and the Forecast Channel may start working.
 {: .notice--warning}
 
-[如果您仍然得到FORE000006或NEWS000006错误，您需要rc24-clear-tool删除SYSCONF](https://github.com/RiiConnect24/rc24-clear-tool/releases/latest)。
+[If you still get FORE000006 or if you get NEWS000006, you will need to delete your SYSCONF with rc24-clear-tool](https://github.com/RiiConnect24/rc24-clear-tool/releases/latest).
 {: .notice--warning}
 
-[如果您在Forecast Channel和News Channel遇到其它错误，例如以FORE或NEWS开头的错误代码，您可以尝试使用rc24-clear-tool删除VFF。](deleting-vffs)
+[If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with rc24-clear-tool.](deleting-vffs)
 {: .notice--warning}
 
-如果得到`WiiConnect24 和 Wii Shop Channel 不在您所在的国家提供服务`，前往Wii设置 -> 最后一页 -> 将国家更改为United Kingdom. 当您使用不支持的国家时，会出现出错误。 当您使用不支持的国家时，会出现出错误。 联系[support@riiconnect24.net](mailto:support@riiconnect24.net)已获得更多帮助。
+If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
 {: .notice--warning}
