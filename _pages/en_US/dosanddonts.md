@@ -20,7 +20,7 @@ Here's a list of things you should and should not do once you've modded your Wii
 - **DO NOT** use the homebrew app "KoreanKii" on a non-Korean Wii.
 - **DO NOT** Install any IOS or Wii Menu on a Wii mini other than [d2xl cIOS](cios-mini). Doing so will brick your console if a Wi-Fi card is not soldered to it.
 - **DO NOT** use any Nintendo Wi-Fi Connection replacement on your Wii except for [Wiimmfi](wiimmfi). Unfortunately, other replacement servers are vulnerable to an exploit that can brick your Wii if you use them. [RiiConnect24](riiconnect24) is safe to use as well.
-- **DO NOT** install a Wii Startup Disc WAD to your Wii.
+- **DO NOT** install a Wii Startup Disc WAD to your Wii. Doing so will brick your Wii!
 
 If you follow these guidelines, you won't have to worry about bricking your Wii. Wii modding is safe, and bricks usually occur due to something done by the user that is on this list.
 
