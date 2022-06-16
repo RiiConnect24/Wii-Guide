@@ -141,8 +141,8 @@ WEP kodlu ya da güvenliksiz Wi-Fi ağı bulmak işin en zor kısmı. Çünkü D
 
 1. Nintendo DS Wi-Fi ayarlarına gidin. Buna çevrimiçi oynamak istediğiniz oyundan da ulaşılabilir.
 2. Bağlantı kurun.
-3. Birincil DNS’i `164.132.44.106` olarak girin.
-4. İkincil DNS’i `1.1.1.1` olarak girin (problem çıkarsa, bu sefer `8.8.8.8` olarak girin).
+3. Type in `167.86.108.126` as the primary DNS.
+4. Type in `1.1.1.1` as the secondary DNS.
 5. Bağlantı ayarlarınızı kaydedip bağlantı testi yapın. Eğer başarılı olursanız, oynamaya hazırsınızdır.
 
 ### Mario Kart Wii Modları
