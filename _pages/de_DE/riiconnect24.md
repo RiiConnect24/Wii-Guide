@@ -76,7 +76,13 @@ Du kannst den [RiiConnect24 Discord server](https://discord.gg/rc24) (empfohlen)
 
 ##### Abschnitt 4 - Verbindung
 
-Du wirst nun deinen DNS auf unsere Server setzen. Dies ist optional, aber empfohlen, da es den Nutzen und einige Funktionen von RiiConnect24 und Wiimmfi erweitert.
+{% capture notice-1 %}
+Starting June 16th, 2022 the RiiConnect24 DNS changes. Read more: [here.](riiconnect24-dns-update)
+{% endcapture %}
+
+<div class="notice--warning">{{ notice-1 | markdownify }}</div>
+
+You will now set your DNS to our servers. This is optional but it's recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
 
 1. Gehe in die `Wii-Optionen`.
 2. Gehe in die `Wii-Systemeinstellungen`.
@@ -85,8 +91,8 @@ Du wirst nun deinen DNS auf unsere Server setzen. Dies ist optional, aber empfoh
 5. Wähle deine derzeitige Verbindung aus.
 6. Gehe auf `Ändern`.
 7. Gehe auf `DNS automatisch beziehen` (Nicht IP-Adresse), wähle dann `Nein` und gehe dann auf `Detaileinstellungen`.
-8. Gib `164.132.44.106` als primären DNS ein.
-9. Gib `1.1.1.1` als sekundären DNS ein (falls es Probleme verursacht, versuche `8.8.8.8`).
+8. Type in `167.86.108.126` as the primary DNS.
+9. Type in `1.1.1.1` as the secondary DNS.
 10. Wähle `Bestätigen`, dann `Speichern`.
 11. Wähle `OK` um einen Verbindungstest durchzuführen.
 12. Wenn der Verbindungstest erfolgreich war, wähle `Nein`, um das Wii-Systemupdate zu überspringen.
@@ -104,20 +110,20 @@ Du wirst nun deinen DNS auf unsere Server setzen. Dies ist optional, aber empfoh
 [Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
 {: .notice--info}
 
-Wenn Sie einen Fehler 107245 erhalten, dann haben Sie das gepatchte IOS nicht installiert.
+If you get error 107245, then you have not installed the patched IOS.
 {: .notice--warning}
 
-Wenn du Fehler 107304 oder Nintendos Benutzervereinbarung ohne RiiConnect24's Logo siehst das heißt, Ihr ISP (Internet Service Provider) oder Ihr Netzwerk blockiert die Verwendung eines DNS. Du kannst `DNS Automatisch Beziehen` auf `An` stellen um dies zu Reparieren. RiiConnect24 funktioniert ohne ihn. Oder Sie können unser [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) Programm nutzen.
+If you get error 107304 or you see Nintendo's User Agreement without RiiConnect24's logo, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
 {: .notice--warning}
 
-Falls du den Fehler FORE000006 erhältst, ist deine Wii-Uhr wahrscheinlich nicht korrekt eingestellt. Stelle Datum und Uhrzeit richtig ein, warte anschließend maximal eine Stunde und der Wetterkanal sollte funktionieren.
+Falls du den Fehler FORE000006 erhältst, ist deine Wii-Uhr wahrscheinlich nicht korrekt eingestellt. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel may start working.
 {: .notice--warning}
 
-[Wenn Sie noch FORE000006 erhalten oder NEWS000006 erhalten, müssen Sie Ihr SYSCONF mit rc24-clear-tool](https://github.com/RiiConnect24/rc24-clear-tool/releases/latest) löschen.
+[If you still get FORE000006 or if you get NEWS000006, you will need to delete your SYSCONF with rc24-clear-tool](https://github.com/RiiConnect24/rc24-clear-tool/releases/latest).
 {: .notice--warning}
 
-[Wenn du weitere Fehler mit dem Prognosekanal oder dem News-Kanal erhältst, wie z. B. ein Fehlercode, der mit FORE oder NEWS beginnt, oder eine nicht fortgeführte Meldung, können Sie versuchen, Ihre VFFs mit rc24-clear-Tool zu löschen.](deleting-vffs)
+[If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with rc24-clear-tool.](deleting-vffs)
 {: .notice--warning}
 
-Solltest du Fehlermeldungen erhalten wie z. B. `WiiConnect24 und Wii-Shop-Kanal sind zur Zeit nicht in deinem Land verfügbar`, gehe in die Wii-Einstellungen -> Letzte Seite -> Land und ändere es in "Vereinigtes Königreich". Du erhälst diesen Fehler, wenn du ein Land eingestellt hast, dass wir nicht unterstützen. Kontaktiere uns unter [support@riiconnect24.net](mailto:support@riiconnect24.net), falls du mehr Hilfe benötigst.
+If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
 {: .notice--warning}
