@@ -77,7 +77,13 @@ Jeśli nie mogłeś poprawnie zpatchować nwc24msg.cfg, dołącz do [serwera Dis
 
 ##### Sekcja IV - Łączenie
 
-Teraz będziesz musiał ustawić DNS na nasze serwery. To jest opcjonalne, ale jednak zalecane, ponieważ wzbogaca użycie RiiConnect24 i Wiimmfi pozwalając niektórym funkcjom na działanie.
+{% capture notice-1 %}
+Starting June 16th, 2022 the RiiConnect24 DNS changes. Read more: [here.](riiconnect24-dns-update)
+{% endcapture %}
+
+<div class="notice--warning">{{ notice-1 | markdownify }}</div>
+
+You will now set your DNS to our servers. This is optional but it's recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
 
 1. Wejdź do `ustawień Wii`
 2. Przejdź do `Wii Settings`
@@ -86,8 +92,8 @@ Teraz będziesz musiał ustawić DNS na nasze serwery. To jest opcjonalne, ale j
 5. Wybierz twoje obecne połączenie.
 6. Przejdź do `Change Settings`.
 7. Przejdź do `Auto-Obtain DNS` (Nie IP Address) oraz wybierz `No`, oraz kliknij na `Advanced Settings`.
-8. Wpisz `164.132.44.106` jako Primary DNS.
-9. Wpisz `1.1.1.1` jako secondary DNS (drugorzędny serwer DNS). (Jeśli masz problemy, spróbuj `8.8.8.8`).
+8. Type in `167.86.108.126` as the primary DNS.
+9. Type in `1.1.1.1` as the secondary DNS.
 10. Wybierz `Confirm`, oraz wybierz `Save`.
 11. Wybierz `OK` aby przeprowadzić test połączenia Internetowego.
 12. Jeżeli połączenie było pomyślne, wybierz `No` aby pominąć sprawdzenie aktualizacji systemu.
@@ -99,7 +105,7 @@ Teraz będziesz musiał ustawić DNS na nasze serwery. To jest opcjonalne, ale j
 [Przejdź do strony przeznaczonej instalacji Wiimmfi](wiimmfi)<br> Wiimmfi pozwala Ci na granie w gry online po zakończeniu wsparcia serwisu Nintendo Wi-Fi Connection. Jest to opcjonalny krok.
 {: .notice--info}
 
-[Kontynuuj do WiiLink'a](wiilink)<br> WiiLink umożliwi Ci używanie kanałów eksluzywnych do Japoni, takie jak: Wii No Ma i Digicam Print Channel. Jest to opcjonalny krok.
+[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. Jest to opcjonalny krok.
 {: .notice--info}
 
 [Przejdź do spisu stron](site-navigation)<br> Mamy wiele innych poradników, które mogą Ci się przydać.
