@@ -15,8 +15,8 @@ The old address will be supported until it's `DEPRECATION` date. We will remind 
 
 Here are the new DNS settings that you should enter in your Wii and your DS:
 
-`167.86.108.126 should be your primary DNS.
-1.1.1.1 should be your secondary DNS.`
+- 167.86.108.126 should be your primary DNS.<br>
+- 1.1.1.1 should be your secondary DNS.
 
 Avoid using the old DNS, it will become `DEPRECATED` on June 1st, 2023.
 
