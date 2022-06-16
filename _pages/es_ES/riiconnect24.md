@@ -76,6 +76,12 @@ If you were unable to patch your nwc24msg.cfg correctly, please join [the RiiCon
 
 ##### Sección IV - Conectándose
 
+{% capture notice-1 %}
+Starting June 16th, 2022 the RiiConnect24 DNS changes. Read more: [here.](riiconnect24-dns-update)
+{% endcapture %}
+
+<div class="notice--warning">{{ notice-1 | markdownify }}</div>
+
 You will now set your DNS to our servers. This is optional but it's recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
 
 1. Selecciona `Opciones de Wii` en el menú de Wii.
@@ -85,8 +91,8 @@ You will now set your DNS to our servers. This is optional but it's recommended,
 5. Selecciona tu conexión actual.
 6. Selecciona `Modificar`.
 7. Pasa hasta la cuarta página, donde está la opción `Obtener DNS automáticamente` (no es en Obtener drección IP automáticamente), elige `No` y después selecciona `Configuración avanzada`.
-8. Ingresa `164.132.44.106` como el DNS primario.
-9. Escriba `1.1.1.1` como DNS secundario (si le da problemas, intente `8.8.8.8`).
+8. Type in `167.86.108.126` as the primary DNS.
+9. Type in `1.1.1.1` as the secondary DNS.
 10. Selecciona `Confirmar` y después elige `Guardar`.
 11. Selecciona `Aceptar` para realizar una prueba de conexión.
 12. Si la prueba de conexión ha sido exitosa, elige `No` para saltar la actualización de la consola Wii.
