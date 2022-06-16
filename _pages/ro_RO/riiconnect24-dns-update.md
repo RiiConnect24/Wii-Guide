@@ -1,5 +1,5 @@
 ---
-title: "RiiConnect24 DNS Update"
+title: "Actualizare a DNS-ului RiiConnect24"
 ---
 
 Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un e-mail la support@riiconnect24.net](mailto:support@riiconnect24.net).
@@ -7,17 +7,17 @@ Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-Starting June 16th, 2022, our official DNS Address changes!
+Începând cu 16 Iunie 2022, Adresa noastră DNS oficială se schimbă!
 
-About a year ago we bought a new VPS that allowed us to serve our service better to the ever so growing community. Our DNS was the last thing to update.
+În urmă cu un an am cumpărat un nou VPS (Virtual Private Server) care ne-a permis să ne oferim serviciul mai bine către comunitatea noastră crescătoare. DNS-ul nostru a fost ultimul lucru de actualizat.
 
-The old address will be supported until it's `DEPRECATION` date. We will remind you using Wii Mail or our [Discord server](https://discord.gg/rc24) about the need to change the DNS Address in the next few months.
+Adresa veche va fi sprijinită până la data de `SCOATERE DIN UZ`. Te vom reaminti folosind Wii Mail sau [serverul nostru de Discord](https://discord.gg/rc24) despre nevoia de schimbare a Adresei DNS în următoarele luni.
 
-Here are the new DNS settings that you should enter in your Wii and your DS:
+Acestea sunt setările DNS noi pe care ar trebui să le introduci în consola ta Wii și DS:
 
-`167.86.108.126 should be your primary DNS.
-1.1.1.1 should be your secondary DNS.`
+- 167.86.108.126 ar trebui să fie DNS-ul primar.<br>
+- 1.1.1.1 ar trebui să fie DNS-ul secundar.
 
-Avoid using the old DNS, it will become `DEPRECATED` on June 1st, 2023.
+Evită să folosești DNS-ul vechi, va fi `SCOS DIN UZ` pe data de 1 Iunie 2023.
 
-Thank you for your support, RiiConnect24 Team.
+Îți mulțumim pentru sprijinul tău, Echipa RiiConnect24.
