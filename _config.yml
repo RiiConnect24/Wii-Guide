@@ -197,7 +197,6 @@ sass:
 
 # Plugins
 plugins:
-  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -205,7 +204,6 @@ plugins:
 
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -505,7 +503,7 @@ defaults:
       permalink: /el_GR/index:output_ext
   - scope:
       path: "_pages/en_PT/home.md"
-      type: 
+      type:
     values:
       permalink: /en_PT/index:output_ext
   - scope:
