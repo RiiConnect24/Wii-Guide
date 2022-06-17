@@ -141,8 +141,8 @@ Ein WLAN-Netzwerk mit WEP oder ohne Verschlüsselung zu erstellen ist der schwer
 
 1. Gehe in die Nintendo DS Wi-Fi-Einstellungen. Diese können in dem Spiel aufgerufen werden, das du online spielen möchtest.
 2. Richte eine Verbindung ein.
-3. Type in `167.86.108.126` as the primary DNS.
-4. Type in `1.1.1.1` as the secondary DNS.
+3. Setze `167.86.108.126` als primäre DNS-Adresse.
+4. Setze `1.1.1.1` als sekundäre DNS-Adresse.
 5. Speichere deine Verbindungseinstellungen und führe einen Verbindungstest aus. Wenn dieser erfolgreich war, bist du bereit zum Spielen.
 
 ### Mario Kart Wii-Mods
