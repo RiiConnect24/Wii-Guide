@@ -1,5 +1,5 @@
 ---
-title: "RiiConnect24 DNS Update"
+title: "RiiConnect24 DNS-Aktualisierung"
 ---
 
 Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [RiiConnect24 Discord-Server](https://discord.gg/rc24) bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
@@ -7,17 +7,17 @@ Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [Rii
 
 ![RiiConnect24-Logo](/images/WiiRC24Logo.jpg)
 
-Starting June 16th, 2022, our official DNS Address changes!
+Ab dem 16. Juni 2022 ändert sich unsere offizielle DNS-Adresse!
 
-About a year ago we bought a new VPS that allowed us to serve our service better to the ever so growing community. Our DNS was the last thing to update.
+Vor ungefähr einem Jahr haben wir einen neuen VPS gekauft, welcher es uns erlaubt hat, unseren Service für die stetig wachsende Gemeinschaft weiter zu verbessern. Unser DNS war das Letzte, was noch aktualisiert werden musste.
 
-The old address will be supported until it's `DEPRECATION` date. We will remind you using Wii Mail or our [Discord server](https://discord.gg/rc24) about the need to change the DNS Address in the next few months.
+Die alte Adresse wird noch so lange unterstützt, bis das Datum der `ABSCHALTUNG` erreicht ist. Wir werden dich in den nächsten Monaten weiterhin durch Wii Mail und unseren [Discord-Server](https://discord.gg/rc24) an den Wechsel der DNS-Adresse erinnern.
 
-Here are the new DNS settings that you should enter in your Wii and your DS:
+Hier sind die neuen DNS-Einstellungen, welche du in deine Wii und deinen DS eingeben solltest:
 
-- 167.86.108.126 should be your primary DNS.<br>
-- 1.1.1.1 should be your secondary DNS.
+- 167.86.108.126 sollte die primäre DNS-Adresse sein.<br>
+- 1.1.1.1 sollte die sekundäre DNS-Adresse sein.
 
-Avoid using the old DNS, it will become `DEPRECATED` on June 1st, 2023.
+Vermeidet die Nutzung der alten DNS, diese wird ab dem 1. Juni 2023 `ABGESCHALTET`.
 
-Thank you for your support, RiiConnect24 Team.
+Vielen Dank für Eure Unterstützung, RiiConnect24-Team.
