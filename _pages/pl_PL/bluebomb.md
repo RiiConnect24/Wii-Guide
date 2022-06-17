@@ -4,7 +4,7 @@ title: "BlueBomb"
 
 {% include toc title="Table of Contents" %}
 
-**zdecydowanie**nie zaleca się stosowanie **dowolnego** poradnika do hakowania konsoli Wii mini ponieważ jest bardzo duża szansa na **bricka**.
+**Zdecydowanie** nie zaleca się stosowanie **żadnego** poradnika wideo do hakowania konsoli Wii Mini, ponieważ jest bardzo duża szansa na **zbrickowanie konsoli**.
 {: .notice--warning}
 
 Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołączy do [serwera Discord dotyczącego przerabiania Wii Mini](https://discord.gg/6ryxnkS)
