@@ -77,12 +77,12 @@ Du kannst den [RiiConnect24 Discord server](https://discord.gg/rc24) (empfohlen)
 ##### Abschnitt 4 - Verbindung
 
 {% capture notice-1 %}
-Starting June 16th, 2022 the RiiConnect24 DNS changes. Read more: [here.](riiconnect24-dns-update)
+Ab dem 16. Juni 2022 ändert sich die RiiConnect24-DNS. Genaueres dazu erfährst du [hier.](riiconnect24-dns-update)
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-You will now set your DNS to our servers. This is optional but it's recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
+Du wirst nun die DNS-Adressen zu unseren Servern einsetzen. Die ist optional aber empfohlen, da es den Funktionsumfang von RiiConnect24 und Wiimmfi erweitert.
 
 1. Gehe in die `Wii-Optionen`.
 2. Gehe in die `Wii-Systemeinstellungen`.
@@ -91,8 +91,8 @@ You will now set your DNS to our servers. This is optional but it's recommended,
 5. Wähle deine derzeitige Verbindung aus.
 6. Gehe auf `Ändern`.
 7. Gehe auf `DNS automatisch beziehen` (Nicht IP-Adresse), wähle dann `Nein` und gehe dann auf `Detaileinstellungen`.
-8. Type in `167.86.108.126` as the primary DNS.
-9. Type in `1.1.1.1` as the secondary DNS.
+8. Setze `167.86.108.126` als primäre DNS-Adresse.
+9. Setze `1.1.1.1` als sekundäre DNS-Adresse.
 10. Wähle `Bestätigen`, dann `Speichern`.
 11. Wähle `OK` um einen Verbindungstest durchzuführen.
 12. Wenn der Verbindungstest erfolgreich war, wähle `Nein`, um das Wii-Systemupdate zu überspringen.
@@ -104,16 +104,16 @@ You will now set your DNS to our servers. This is optional but it's recommended,
 [Weiter zu Wiimmfi](wiimmfi)<br> Wiimmfi ermöglicht es dir, Spiele online spielen zu können obwohl die Nintendo Wi-Fi Connection eingestellt wurde. Dies zu installieren ist nicht zwingend erforderlich.
 {: .notice--info}
 
-[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. Dies zu installieren ist nicht zwingend erforderlich.
+[Fortfahren mit WiiLink](wiilink)<br> Mit WiiLink kannst du die exklusiven japanischen Kanäle "Wii no Ma" und "Digicam Print Channel" nutzen. Dies zu installieren ist nicht zwingend erforderlich.
 {: .notice--info}
 
 [Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
 {: .notice--info}
 
-If you get error 107245, then you have not installed the patched IOS.
+Wenn du den Fehler 107245 erhälst, hast du nicht das aktualisierte IOS installiert.
 {: .notice--warning}
 
-If you get error 107304 or you see Nintendo's User Agreement without RiiConnect24's logo, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
+Erhältst du den Fehler 107304, oder es erscheint die Nintendo Nutzungsvereinbarung ohne RiiConnect24-Logo, bedeutet dies, dass dein ISP (Internetdienstanbieter) oder dein Netzwerk die Nutzung von DNS blockiert. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 wird auch ohne funktionieren. Alternativ kannst du auch unser [DNS-Server-Programm](https://github.com/RiiConnect24/DNS-Server/releases/latest) verwenden.
 {: .notice--warning}
 
 Falls du den Fehler FORE000006 erhältst, ist deine Wii-Uhr wahrscheinlich nicht korrekt eingestellt. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel may start working.
