@@ -141,8 +141,8 @@ Wiimmfi不仅支持Wii游戏，也支持DS游戏。 使用nds-constraint漏洞�
 
 1. 转到NDS Wi-Fi设置。 这可以在您想玩的游戏中访问。
 2. 设置连接
-3. Type in `167.86.108.126` as the primary DNS.
-4. Type in `1.1.1.1` as the secondary DNS.
+3. 将主要DNS设置为`167.86.108.126`.
+4. 将次要DNS设置为`1.1.1.1`.
 5. 保存连接并进行连接测试。 如果成功，您就可以玩了。
 
 ### 马里奥赛车Wii 模组
