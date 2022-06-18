@@ -1,5 +1,5 @@
 ---
-title: "RiiConnect24 DNS Update"
+title: "RiiConnect24 DNS 更新"
 ---
 
 如果你需要有关本教程的任何帮助，请加入[RiiConnect24 Discord 服务器](https://discord.gg/rc24)(推荐)或[发邮件到support@riiconnect24.net](mailto:support@riiconnect24.net).
@@ -7,9 +7,9 @@ title: "RiiConnect24 DNS Update"
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-Starting June 16th, 2022, our official DNS Address changes!
+自2022年6月16日起，我们将更改官方DNS地址!
 
-About a year ago we bought a new VPS that allowed us to serve our service better to the ever so growing community. Our DNS was the last thing to update.
+大约一年前，我们买了一台新VPS, 以使我们能为日益增长的社区提供更好的服务。 Our DNS was the last thing to update.
 
 The old address will be supported until it's `DEPRECATION` date. We will remind you using Wii Mail or our [Discord server](https://discord.gg/rc24) about the need to change the DNS Address in the next few months.
 
