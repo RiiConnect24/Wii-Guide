@@ -77,29 +77,29 @@ title: "RiiConnect24"
 ##### 第四节 - 连接
 
 {% capture notice-1 %}
-Starting June 16th, 2022 the RiiConnect24 DNS changes. Read more: [here.](riiconnect24-dns-update)
+自2022年6月16日起，我们将更改RiiConnect24 DNS. 点[这里](riiconnect24-dns-update)阅读更多。
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-You will now set your DNS to our servers. This is optional but it's recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
+您现在需要将DNS设置为我们的服务器。 这是可选项但很推荐，因为它通过提供其它功能来增强RiiConnect24和Wiimmfi.
 
-1. 转到 `Wii 选项`。
-2. 转到`Wii 设置`。
-3. 转到`第2页`，然后点击`互联网`。
-4. 转到`连接设置`。
+1. 转到 `Wii Options(Wii选项)`.
+2. 转到`Wii Settings(Wii设置)`.
+3. 转到`第2页`，然后点击`Internet(互联网)`.
+4. 转到`Connection Settings(连接设置)`.
 5. 选择当前连接。
-6. 转到`更改设置`。
-7. 转到`自动获取DNS` (不是IP地址)，然后选择`否`然后选择 `高级设置`。
-8. Type in `167.86.108.126` as the primary DNS.
-9. Type in `1.1.1.1` as the secondary DNS.
-10. 选择`确认`，然后选择`保存`。
+6. 转到`Change Settings(更改设置)`.
+7. 转到`Auto-Obtain DNS(自动获取DNS)` (不是IP地址), 然后选择`否`，然后选择`Advanced Settings(高级设置)`.
+8. 将主要DNS设置为`167.86.108.126`.
+9. 将次要DNS设置为`1.1.1.1`.
+10. 选择`Confirm(确认)`, 然后选择`Save(保存)`.
 11. 选择`OK`进行连接测试。
 12. 如果连接测试成功，请选择`否`跳过Wii系统更新。
 13. 转到`WiiConnect24`, 然后再次转到`WiiConnect24`，并确保它已启用。
-14. 返回WiiConnect24菜单，转到`待机连接`并确保已启用。
-15. 在`Slot Illumination`，我们建议您将光驱灯设置为 `Dim` or `Bright`，但这是可选的。
-16. 最后，转到`互联网`，转到`User Agreements` 或 `Agreement/Contact`，点击 `Yes`。 请阅读此内容。
+14. 返回WiiConnect24菜单，转到`Standby Connection(待机连接)`并确保已启用。
+15. 点击`Slot Illumination(插槽照明)(`, 我们建议您将光驱灯设置为 `暗` 或 `亮`，但这是可选项。
+16. 最后，转到`Internet(互联网)`，然后选择`User Agreements(用户协议)` 或 `Agreement/Contact(协议/联系)`，点击 `Yes(是)`. 请阅读此内容。
 
 [继续安装Wiimmfi](wiimmfi)<br> Wiimmfi让您在Nintendo Wi-Fi Connection停止服务后继续在线玩游戏。 这是可选项。
 {: .notice--info}
