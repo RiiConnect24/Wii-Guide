@@ -1,5 +1,5 @@
 ---
-title: "RiiConnect24 DNS Update"
+title: "Actualización del DNS de RiiConnect24"
 ---
 
 Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en el [Discord de RiiConnect24](https://discord.gg/rc24) (recomendado) o envía un correo electrónico a [support@riiconnect24.net](mailto:support@riiconnect24.net) (soporte disponible solo en inglés).
@@ -7,17 +7,17 @@ Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayud
 
 ![Logotipo de RiiConnect24](/images/WiiRC24Logo.jpg)
 
-Starting June 16th, 2022, our official DNS Address changes!
+A partir del 16 de junio de 2022, nuestra dirección DNS oficial cambiará!
 
-About a year ago we bought a new VPS that allowed us to serve our service better to the ever so growing community. Our DNS was the last thing to update.
+Hace aproximadamente un año compramos un nuevo VPS que nos permitió servir mejor nuestro servicio a la creciente comunidad. Nuestro DNS fue la última cosa que actualizar.
 
-The old address will be supported until it's `DEPRECATION` date. We will remind you using Wii Mail or our [Discord server](https://discord.gg/rc24) about the need to change the DNS Address in the next few months.
+La dirección antigua funcionará hasta la fecha de `DEPRECACIÓN`. Te recordaremos usando Wii Mail o nuestro [servidor de Discord](https://discord.gg/rc24) sobre la necesidad de cambiar la dirección DNS en los próximos meses.
 
-Here are the new DNS settings that you should enter in your Wii and your DS:
+Aquí están las nuevas configuraciones DNS que debes introducir en tu Wii y tu DS:
 
-- 167.86.108.126 should be your primary DNS.<br>
-- 1.1.1.1 should be your secondary DNS.
+- 167.86.108.126 debe ser tu DNS primario.<br>
+- 1.1.1.1 debe ser tu DNS secundario.
 
-Avoid using the old DNS, it will become `DEPRECATED` on June 1st, 2023.
+Evita usar el antiguo DNS, será `DEPRECADO` el 1 de junio de 2023.
 
-Thank you for your support, RiiConnect24 Team.
+Gracias por tu apoyo, El equipo de RiiConnect24.
