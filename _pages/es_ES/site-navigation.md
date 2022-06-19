@@ -22,7 +22,7 @@ sitemap: false
 + [Instalar RiiConnect24](riiconnect24)
 + [RiiXOnnect24 para vWii](riiconnect24-vwii)
 + [RiiConnect24 para Dolphin](riiconnect24-dolphin)
-+ [RiiConnect24 DNS Update](riiconnect24-dns-update)
++ [Actualización del DNS de RiiConnect24](riiconnect24-dns-update)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 + [Kirby TV Channel](kirby-tv)
