@@ -49,7 +49,7 @@ title: "RiiConnect24"
 10. 将SD卡或U盘连接到电脑然后选择"`1`"。 ![启用复制到SD卡](/images/RC24_Patcher/7.JPG)
 11. 如果成功检测到您的设备，选择"`1`"。 如果没有，请确认SD卡或U盘上有名为`apps`的文件夹。 ![成功检测](/images/RC24_Patcher/8.JPG)
 12. 请耐心等待... ![正在打补丁!](/images/RC24_Patcher/9.JPG)
-13. 完成后，我们希望您花一分钟向我们发送匿名反馈。  如果不想，关闭修补程序。 所有文件都应该已经在您的SD卡上。 ![已完成!](/images/RC24_Patcher/10.JPG) ![文件已复制](/images/RC24_Patcher/11.PNG)
+13. 完成后，我们希望您花一分钟向我们发送匿名反馈。  如果不想，关闭修补程序。 所有文件都应该已经在您的SD卡上。 ![已完成!](/images/RC24_Patcher/10.JPG) ![已复制文件](/images/RC24_Patcher/11.PNG)
 14. 如果它没有复制任何东西，将和`RiiConnect24Patcher.bat`同一文件夹的 `WAD` 和 `apps` 文件夹移动到SD卡或U盘。
 
 ##### 第二节 - 安装WAD
@@ -110,20 +110,20 @@ title: "RiiConnect24"
 [继续 网站导览](site-navigation) 我们有许多你可能喜欢的其他教程。
 {: .notice--info}
 
-If you get error 107245, then you have not installed the patched IOS.
+如果得到错误107245，证明您还没有安装修补后的IOS。
 {: .notice--warning}
 
-If you get error 107304 or you see Nintendo's User Agreement without RiiConnect24's logo, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
+如果得到错误107304或您没看到带RiiConnect24 logo的任天堂用户协议，证明您的ISP或网络正在阻止此DNS. 您可以将`Auto-Obtain DNS(自动获取DNS)`设置为`是`来解决。 没有它，RiiConnect24也会工作。 或者，您也可以使用我们的[DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) 程序。
 {: .notice--warning}
 
-如果您得到错误 FORE000006，可能是您的Wii的时间错误。 Set it to the correct date and time, then wait no more than an hour and the Forecast Channel may start working.
+如果您得到错误 FORE000006，您的Wii的时间可能错误。 设置正确的日期和时间，然后等待不超过一小时，Forecast Channel(天气频道) 应该开始工作。
 {: .notice--warning}
 
-[If you still get FORE000006 or if you get NEWS000006, you will need to delete your SYSCONF with rc24-clear-tool](https://github.com/RiiConnect24/rc24-clear-tool/releases/latest).
+[如果您仍然得到FORE000006或NEWS000006错误，您需要rc24-clear-tool删除SYSCONF](https://github.com/RiiConnect24/rc24-clear-tool/releases/latest).
 {: .notice--warning}
 
-[If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with rc24-clear-tool.](deleting-vffs)
+[如果您在Forecast Channel(天气频道) 或News Channel(新闻频道) 中遇到其它错误，例如以FORE或NEWS开头的错误代码或已停止服务的消息，您可以尝试使用rc24-clear-tool删除VFF.](deleting-vffs)
 {: .notice--warning}
 
-If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
+如果您得到例如`WiiConnect24 and Wii Shop Channel currently not being offered in your country(WiiConnect24和Wii商店频道不在您所在的国家提供服务)`的错误，转到Wii Settings(Wii设置) -> 最后一页 -> Country(国家) 并将其更改为United Kingdom(英国). 使用我们不支持的国家时会出现此错误。 如果您需要更多帮助，请联系[support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--warning}
