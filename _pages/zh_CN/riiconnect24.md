@@ -98,13 +98,13 @@ title: "RiiConnect24"
 12. 如果连接测试成功，请选择`否`跳过Wii系统更新。
 13. 转到`WiiConnect24`, 然后再次转到`WiiConnect24`，并确保它已启用。
 14. 返回WiiConnect24菜单，转到`Standby Connection(待机连接)`并确保已启用。
-15. 点击`Slot Illumination(插槽照明)(`, 我们建议您将光驱灯设置为 `暗` 或 `亮`，但这是可选项。
+15. 点击`Slot Illumination(插槽照明)`, 我们建议您将光驱灯设置为 `暗` 或 `亮`，但这是可选项。
 16. 最后，转到`Internet(互联网)`，然后选择`User Agreements(用户协议)` 或 `Agreement/Contact(协议/联系)`，点击 `Yes(是)`. 请阅读此内容。
 
 [继续安装Wiimmfi](wiimmfi)<br> Wiimmfi让您在Nintendo Wi-Fi Connection停止服务后继续在线玩游戏。 这是可选项。
 {: .notice--info}
 
-[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. 这是可选项。
+[继续安装WiiLink](wiilink)<br> WiiLink让您继续使用日本专用频道，例如Wii no Ma(Wii之间) 和 Digicam Print Channel(数码相机打印频道). 这是可选项。
 {: .notice--info}
 
 [继续 网站导览](site-navigation) 我们有许多你可能喜欢的其他教程。
