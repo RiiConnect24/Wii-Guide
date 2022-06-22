@@ -1,7 +1,7 @@
 ---
 title: "Πλοήγηση ιστοσελίδας"
-layout: μονή
-sitemap: λάθος
+layout: single
+sitemap: false
 ---
 
 ![WiiTutorials](/images/WiiTutorials.jpg)
