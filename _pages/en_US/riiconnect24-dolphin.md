@@ -25,9 +25,9 @@ If you need help for anything regarding this tutorial, please directly contact K
 If you have Dolphin already installed, skip to Section II
 {: .notice--info}
 
-1. Download the latest Dolphin beta version, but **not a stable version, as these are very outdated!**.
+1. Download the latest Dolphin beta version, but **not a stable version as these are very outdated!**
 2. Extract the .7z file using a program like 7Zip or WinRAR.
-3. Start Dolphin
+3. Start Dolphin.
 4. Press on `Tools` -> `Perform Online System Update` -> Choose your region
 ![Perform Online System Update](/images/Dolphin_RC24/1.jpg)
 
