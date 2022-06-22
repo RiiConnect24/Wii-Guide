@@ -18,7 +18,6 @@ If you need help for anything regarding this tutorial, please directly contact K
 * [Dolphin](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-The Unix tutorial will work on Windows, but it is recommended to use the Windows-only method instead if you have the option, since it is generally easier to understand.
 {: .notice--info}
 
 #### Instructions
