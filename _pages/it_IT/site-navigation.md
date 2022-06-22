@@ -1,7 +1,7 @@
 ---
 title: "Navigazione del sito"
-layout: singolo
-sitemap: falso
+layout: single
+sitemap: false
 ---
 
 ![WiiTutorials](/images/WiiTutorials.jpg)
