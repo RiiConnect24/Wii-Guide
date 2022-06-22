@@ -28,7 +28,7 @@ If you have Dolphin already installed, skip to Section II
 1. Download the latest Dolphin beta version, but **not a stable version as these are very outdated!**
 2. Extract the .7z file using a program like 7Zip or WinRAR.
 3. Start Dolphin.
-4. Press on `Tools` -> `Perform Online System Update` -> Choose your region
+4. Press on `Tools` -> `Perform Online System Update` -> Choose your region.
 ![Perform Online System Update](/images/Dolphin_RC24/1.jpg)
 
 If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii) instead of installing the Wii System menu via this method. See [this page](https://wiki.dolphin-emu.org/index.php?title=NAND_Usage_Guide) for more information.
@@ -49,11 +49,12 @@ If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii)
 7. It will ask you if you want to run the program manually every time you want to use RiiConnect24 on Dolphin or if you want to run it automatically on startup.
 ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
 
-If you choose to manually run it, keep `VFF-Downloader-for-Dolphin.bat`. There will be an option in the menu to manually run it.
+If you choose to manually run it, keep `RiiConnect24Patcher.bat`. There will be an option in the menu to manually run it.
 {: .notice--info}
 
-If you choose to run it on startup, you don't have to do anything. If you want to uninstall it in the future, come back to `VFF-Downloader-for-Dolphin.bat` and choose - Manage startup VFF Downloader.
+If you choose to run it on startup, you don't have to do anything. If you want to uninstall it in the future, come back to `RiiConnect24Patcher.bat` and choose Settings - Manage startup VFF Downloader.
 {: .notice--info}
+
 8. Press any key to go back to the RiiConnect24 patcher.
 9. Once back in the RiiConnect24 Patcher, press `1` and then `Enter`.
 10. Select your region (Europe or USA). The patcher will now begin to patch the WAD files.
