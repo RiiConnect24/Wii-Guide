@@ -14,6 +14,13 @@ If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-
 If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
 {: .notice--info}
 
+## Methods
+
+There are two ways you can install cIOSes onto your Wii.
+One having to download and install the required cIOSes directly to the Wii, and the other having to be downloaded on a PC and then installed to your Wii.
+
+### Internet connection to the Wii
+
 #### What you need
 
 * A Wii with an Internet connection
@@ -25,7 +32,7 @@ Ensure that if you are using an SD card, the lock switch is in the unlocked posi
 
 #### Instructions
 
-##### Section I - Downloading
+##### Section I - Downloading the d2x cIOS Installer
 
 1. Download d2x cIOS Installer and extract it to your SD card or USB drive.
 1. Insert your SD card or USB drive into your Wii, and launch d2x cIOS Installer from the Homebrew Channel.
@@ -60,6 +67,26 @@ Select cIOS version: 65535
 ![Install cIOS 251](/images/cios/Install251.png)
 1. Once set, press A twice again to install, and then exit once done.
 
+#### What you need
+
+* An SD card or USB drive
+* [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
+* [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/download/v1.9-mod-nusfix/NUSD-Mod-NUS-Fix.zip)
+
+Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
+{: .notice--warning}
+
+#### Instructions
+
+##### Section I - Downloading the d2x cIOS Installer
+
+1. Download d2x cIOS Installer and extract it to your SD card or USB drive.
+1. Insert your SD card or USB drive into your Wii, and launch d2x cIOS Installer from the Homebrew Channel.
+
+#### Section II - Downloading the cIOSes
+
+1. Extract and open the NUS Downloader.
+1.
 #### Troubleshooting
 
 {% capture bruh %}
