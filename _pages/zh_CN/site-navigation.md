@@ -27,9 +27,9 @@ sitemap: false
 + [Wiimmfi](wiimmfi)
 + [Kirby TV Channel](kirby-tv)
 + [WiiWare 修补程序](wiiwarepatcher)
-+ [Deleting VFFs](deleting-vffs)
-+ [Fixing FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [删除VFF](deleting-vffs)
++ [修复FORE000006](riiconnect24-batteryfix)
++ [修复NEWS000006](news000006)
 
 **破解101**
 + [蓝牙炸弹](bluebomb)
