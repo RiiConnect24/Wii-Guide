@@ -7,7 +7,7 @@ title: "蓝牙炸弹"
 **强烈** 建议不要使用 **任何** 视频教程来破解你的Wii mini。 这会大大增加你的Wii **变砖** 的概率。
 {: .notice--warning}
 
-如果你在本教程中需要任何帮助，请加入[Wii mini破解Discord服务器](https://discord.gg/6ryxnkS)（推荐）
+如果您需要有关本教程的任何帮助，请加入[Wii mini破解Discord服务器](https://discord.gg/6ryxnkS)（推荐）
 {: .notice--info}
 
 ![蓝牙炸弹](/images/bluebomb.png)
