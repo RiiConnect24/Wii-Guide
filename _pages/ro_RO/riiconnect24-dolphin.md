@@ -52,30 +52,30 @@ Dacă alegi să-l rulezi la pornire, nu trebuie să faci nimic. Dacă vrei să-l
 {: .notice--info}
 
 8. Apasă orice tastă pentru a te întoarce în patcher-ul RiiConnect24.
-9. Once back in the RiiConnect24 Patcher, press `1` and then `Enter`.
-10. Select your region (Europe or USA). The patcher will now begin to patch the WAD files.
-11. Once it's done, press 2, (this will close the patcher) and then go to the directory that `RiiConnect24Patcher.bat` is in. There should be be a `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`, as well as an `Everybody Votes Channel ([your-selected-region]) (Channel) (RiiConnect24).wad` file in the WAD folder there.
-12. In Dolphin, press `Tools` and then `Install WAD`, and select the `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`. Do the same for `Everybody Votes Channel ([your-selected-region]) (Channel) (RiiConnect24).wad`.
+9. Odată ce te întorci în Patcher-ul RiiConnect24, apasă `1` și apoi `Enter`.
+10. Alege-ți regiunea (Europa sau SUA). Patcher-ul acum va începe să modifice fișierele WAD.
+11. Odată ce este gata, apasă 2 (asta va închide patcher-ul) și apoi mergi la dosarul unde se află `RiiConnect24Patcher.bat`. Ar trebui să existe un `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` sau un `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`, precum și un fișier `Everybody Votes Channel ([your-selected-region]) (Channel) (RiiConnect24).wad` în dosarul WAD acolo.
+12. În Dolphin, apasă `Tools` și apoi `Install WAD` și alege `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` sau `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`. Procedează la fel pentru `Everybody Votes Channel ([your-selected-region]) (Channel) (RiiConnect24).wad`.
 </div>
 
 <div id="unix" class="blanktabcontent" markdown="1">
-1. Run `VFF-Downloader-for-Dolphin.sh`. ![Meniul Principal](/images/Dolphin_RC24/2.jpg)
+1. Rulează `VFF-Downloader-for-Dolphin.sh`. ![Meniul Principal](/images/Dolphin_RC24/2.jpg)
 3. Continuă cu configurarea programului.
 4. Te va întreba dacă vrei să rulezi programul manual de fiecare dată când vrei să folosești RiiConnect24 pe Dolphin sau dacă vrei să-l rulezi automat la pornire. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
 ![Run once](/images/Dolphin_RC24/4.jpg)
-If you choose to manually run it, keep `VFF-Downloader-for-Dolphin.sh`. There will be an option in menu to manually run it.
+Dacă alegi să-l rulezi manual, păstrează `VFF-Downloader-for-Dolphin.sh`. Va exista o opțiune în meniu să-l rulezi manual.
 {: .notice--info}
-Dacă alegi să-l rulezi la pornire, nu trebuie să faci nimic. If you want to uninstall it in the future, come back to `VFF-Downloader-for-Dolphin.sh` and choose - Manage startup VFF Downloader.
+Dacă alegi să-l rulezi la pornire, nu trebuie să faci nimic. Dacă vrei sa-l dezinstalezi în viitor, revino la `VFF-Downloader-for-Dolphin.sh` și alege - Manage startup VFF Downloader.
 {: .notice--info}
-5. Run `RiiConnect24Patcher.sh`.
-6. Start the patcher, select `Install RiiConnect24`. ![Select Custom](/images/Dolphin_RC24/5.jpg)
-7. Select `Custom`. ![Select Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
-8. Press `1` to select your region and only enable 5th option. Press `6` to start patching.
-9. After it's done, there will a be a `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` file in WAD folder next to `RiiConnect24Patcher.sh`
-10. In Dolphin, press `Tools` and then `Install WAD`, and select the `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
+5. Rulează `RiiConnect24Patcher.sh`.
+6. Începe patcher-ul și alege `Install RiiConnect24`. ![Select Custom](/images/Dolphin_RC24/5.jpg)
+7. Alege `Custom`. ![Select Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
+8. Apasă`1` pentru a-ți selecta regiunea și activează numai opțiunea a 5-a. Apasă `6` pentru a începe modificarea.
+9. După ce este gata, va exista un fișier `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` sau `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` în dosarul WAD de lângă `RiiConnect24Patcher.sh`
+10. În Dolphin, apasă `Tools` și apoi `Install WAD` și alege `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` sau `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
 </div>
 
-You're all done! Unfortunately, the Nintendo Channel and Wii Mail don't work in Dolphin yet.
+Totul este gata! Din păcate, Nintendo Channel și Wii Mail nu funcționează în Dolphin încă.
 {: .notice--info}
 
 <script>
