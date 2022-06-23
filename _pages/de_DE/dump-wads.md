@@ -16,7 +16,7 @@ Diese Anleitung erklärt dir, wie du WADs vom Speicher deiner Wii-Konsole kopier
 #### Anleitung
 ##### Abschnitt 1 - Herunterladen/Installieren
 
-1. Extract Yet Another BlueDump MOD to your SD card or USB drive.
+1. Extrahiere Yet Another BlueDump MOD auf deine SD-Karte oder USB Laufwerk.
 2. Verbinde deine SD-Karte bzw. dein USB-Laufwerk mit deiner Wii und starte Yet Another BlueDump MOD über den Homebrew-Kanal.
 
 ##### Abschnitt 2 - Kopieren

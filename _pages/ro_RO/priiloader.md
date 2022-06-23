@@ -7,7 +7,7 @@ title: "Priiloader"
 Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Priiloader adaugă un nivel de protecție anti-brick pe Wii-ul tău. El rulează înainte de Meniul Wii (de aici vine numele). Această unealtă poate de asemenea să activeze hack-uri pentru Meniul tău Wii, și poate fi utilizat să ruleze Homebrew Channel, BootMii, sau orice homebrew vrei rapid!
+Priiloader adaugă un nivel de protecție anti-brick consolei tale Wii. El rulează înainte de Meniul Wii (de aici vine numele). Această unealtă poate de asemenea să activeze hack-uri pentru Meniul tău Wii, și poate fi utilizat să ruleze Homebrew Channel, BootMii, sau orice homebrew vrei rapid!
 
 ![Priiloader](/images/priiloader.jpg)
 
@@ -21,7 +21,7 @@ Priiloader adaugă un nivel de protecție anti-brick pe Wii-ul tău. El rulează
 #### Instrucțiuni
 ##### Secțiunea I - Descărcare/Instalare
 
-1. Download the Priiloader installer and extract it to your SD card or USB drive.
+1. Descarcă instalatorul Priiloader și extrage-l în cardul tău SD sau unitatea ta USB.
     * Dacă acest dosar nu există, creează-l.
 
 ##### Secțiunea II - Instalarea Priiloader
@@ -54,7 +54,7 @@ Asta este o lista cu hack-urile care le poți activa cu Priiloader.
 | Hack                                    | Descriere                                                                                                                                                                                                                               |
 | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Block Disc Updates                      | Dezactivează ecranul "Wii System Update" inclus cu unele jocuri care te forțează să actualizezi sistemul înainte de a juca jocul.                                                                                                       |
-| Block Online Updates                    | Dezactivează posibilitatea de a actualiza Wii-ul tău. Actualizările vor eșua cu eroarea 32007.                                                                                                                                          |
+| Block Online Updates                    | Dezactivează posibilitatea de a actualiza consola. Actualizările vor eșua cu eroarea 32007.                                                                                                                                             |
 | Auto-Press A at Health Screen           | Apasă A automat pentru a trece de ecranul inițial "Health and Safety".                                                                                                                                                                  |
 | Replace Health Screen with Backmenu     | Schimbă ecranul "Health and Safety" cu animația redată când te întorci în Wii Menu.                                                                                                                                                     |
 | Move Disc Channel                       | Activează mutarea Disc Channel-ului oriunde în Meniul Wii. Este de obicei forțat în partea din stânga sus a primei pagini.                                                                                                              |

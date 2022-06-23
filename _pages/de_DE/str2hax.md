@@ -22,15 +22,15 @@ str2hax ist ein Exploit für die Wii, welcher beim Laden des Endbenutzer-Lizenzv
 
 Damit dieser Exploit funktioniert, musst du deine DNS Einstellungen bearbeiten, damit sich deine Wii zu einem Server verbinden kann, der den Exploit beinhaltet.
 
-1. Gehe in die `Wii-Optionen`. ![Wii Options](/images/RiiConnect24/Internet_1.png)
-2. Gehe in die `Wii-Systemeinstellungen`. ![Wii Settings](/images/RiiConnect24/Internet_2.png)
+1. Gehe in die `Wii-Optionen`. ![Wii-Optionen](/images/RiiConnect24/Internet_1.png)
+2. Gehe in die `Wii-Systemeinstellungen`. ![Wii-Systemeinstellungen](/images/RiiConnect24/Internet_2.png)
 3. Gehe auf `Seite 2`, wähle dann `Internet`. ![Internet](/images/RiiConnect24/Internet_3.png)
-4. Gehe auf `Verbindungseinstellungen`. ![Connection Settings](/images/RiiConnect24/Internet_4.png)
+4. Gehe auf `Verbindungseinstellungen`. ![Verbindungseinstellungen](/images/RiiConnect24/Internet_4.png)
 5. Wähle deine derzeitige Verbindung aus. ![Current Connection](/images/RiiConnect24/Internet_5.png)
 6. Gehe auf `Ändern`. ![Change Settings](/images/RiiConnect24/Internet_6.png)
 7. Gehe auf `DNS automatisch beziehen` (Nicht IP-Adresse), wähle dann `Nein` und gehe dann auf `Detaileinstellungen`. ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
-8. Type in `18.188.135.9` as the primary DNS.
-9. Type in `18.188.135.9` as the secondary DNS.
+8. Gebe `18.188.135.9` als primärer DNS-Server an.
+9. Gebe `18.188.135.9` als sekundärer DNS-Server an.
 10. Wähle `Bestätigen`, dann `Speichern`. ![Save DNS](/images/RiiConnect24/Internet_10.png)
 11. Wähle `OK` um einen Verbindungstest durchzuführen. ![Connection Test](/images/RiiConnect24/Internet_11.png)
    - Wenn der Verbindungstest erfolgreich war, wähle `Nein`, um das Wii-Systemupdate zu überspringen. ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)

@@ -30,9 +30,9 @@ Aquí puedes encontrar algunas aplicaciones recomendadas que puedes obtener en e
 - [SaveGame Manager GX](https://oscwii.org/library/app/savegame_manager_gx) - Es un gestor de partidas guardadas para tu Wii. Esto te permite copiar partidas guardadas y Miis de/a tu Wii.
 - [USB Loader Gx](https://oscwii.org/library/app/usbloader_gx) - Es un cargador USB para tu Wii. Visita [nuestra página](usbloadergx) para las instrucciones de uso.
 - [WiiFlow Lite](https://oscwii.org/library/app/wiiflow) - Es otro cargador USB para tu Wii. Visita [nuestra página](wiiflow) para las instrucciones de uso.
-- [WiiMC-SS](https://oscwii.org/library/app/wiimc-ss) - Esto es un reproductor multimedia para tu Wii. It supports movies, music, photos, radio stations, YouTube, and more.
-- [WiiXplorer-SS](https://oscwii.org/library/app/wiixplorer-ss) - This is a file manager for your Wii. It lets you access your files on your SD Card, USB Device, and more.
-- [YABDM](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod) - This is a tool to dump content installed on your Wii to WAD files. See [our page](dump-wads) for instructions on how to use it.
+- [WiiMC-SS](https://oscwii.org/library/app/wiimc-ss) - Esto es un reproductor multimedia para tu Wii. Soporta películas, música, fotos, emisoras de radio, YouTube, y más.
+- [WiiXplorer-SS](https://oscwii.org/library/app/wiixplorer-ss) - Este es un gestor de archivos para tu Wii. Te permite acceder a tus archivos en tu tarjeta SD, dispositivo USB y más.
+- [YABDM](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod) - Esta es una herramienta para volcar contenido instalado en tu Wii a archivos WAD. Consulta [nuestra página](dump-wads) para obtener instrucciones sobre cómo usarla.
 
 [ Continúe con RiiConnect24 ](riiconnect24) <br> RiiConnect24 le permite utilizar los servicios descontinuados de WiiConnect24, que incluyen Noticias, Pronóstico, Todos Votos, Nintendo y el Canal Check Mii Out, junto con Wii Mail. Esto es opcional a instalar.
 {: .notice--info}
@@ -40,8 +40,8 @@ Aquí puedes encontrar algunas aplicaciones recomendadas que puedes obtener en e
 [Echa un vistazo a nuestras otras guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
 {: .notice--info}
 
-Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
+Incluido en la descarga del Homebrew Browser hay una guía de como usar el Homebrew Browser.
 {: .notice--info}
 
-You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
+Puedes intercambiar ShopChannel.ogg con loop.ogg en `/apps/homebrew_browser` para que Homebrew Browser reproduzca la música del Canal Tienda Wii.
 {: .notice--info}

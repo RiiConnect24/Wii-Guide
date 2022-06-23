@@ -17,7 +17,7 @@ Dies ist eine Schnellstart-Anleitung zu WiiFlow, einem USB-Loader für die Wii u
 * Ein USB-Laufwerk und/oder eine SD-Karte
 * [WiiFlow Lite](https://hbb1.oscwii.org/hbb/wiiflow/wiiflow.zip)
 
-Stelle sicher, dass du bereits [cIOS](/cios) installiert hast!
+Stelle sicher, dass du bereits [cIOS](/cios) installiert hast bevor zu fortfährst!
 {: .notice--info}
 
 Wir empfehlen dir, Spiele mit dem [Wii Backup Manager](/wiibackupmanager) zu kopieren, falls du Windows nutzt, [Witgui](https://desairem.com/wordpress/category/witgui-download/), falls du macOS nutzt, oder [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) für Windows, macOS und Linux.
@@ -35,7 +35,7 @@ Zum Spielen empfehlen wir die Verwendung einer externen Festplatte für deine Wi
 Im Gegensatz zum USB Loader GX kann WiiFlow Spiele auch von einer SD-Karte laden.
 {: .notice--info}
 
-Stelle sicher, dass dein USB-Laufwerk und/oder deine SD-Karte als FAT32 oder NTFS formatiert ist. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
+Stelle sicher, dass dein USB-Laufwerk und/oder deine SD-Karte als FAT32 oder NTFS formatiert ist. Formatiere es nicht mit einem anderen Dateisystem wie z. B. extFS oder WBFS, letzteres ist ein altes Format zum Speichern von Wii-Spielen.
 {: .notice--info}
 
 #### Anleitung

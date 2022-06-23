@@ -7,7 +7,7 @@ title: "安装RSSMii"
 如果你需要有关本教程的任何帮助, 请加入[RiiConnect24 Discord服务器](https://discord.gg/rc24) (推荐)或 [发送电子邮件到 support@riiconnect24.net](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
-您想在Wii留言板上获取RSS吗? 本教程将告诉您如何设置RSSMii。
+您想在Wii留言板上获取RSS吗? 本教程将告诉您如何设置RSSMii。 本教程将告诉您如何设置RSSMii。
 
 ![RSSMii](/images/rssmii.png)
 

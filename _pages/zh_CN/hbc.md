@@ -22,7 +22,7 @@ Homebrew Channel是您启动自制应用的地方。 BootMii可以备份和恢�
 4. 完成后按Continue。 ![成功安装Homebrew Channel](/images/Wii/SuccessHBC.png)
 
 5. 安装完成后，按back并回到BootMii。
-6. 如果屏幕告诉你可以安装BootMii到boot2，照做。 这提供最好地变砖保护。 如果未提示则跳过这一步，您的Wii不是支持它的早期型号之一。
+6. 如果屏幕告诉你可以安装BootMii到boot2，照做。 这提供最好地变砖保护。 如果未提示则跳过此步，您的Wii不是支持它的早期型号之一。
 7. 将BootMii安装为IOS，即使您已在上一步将BootMii安装到boot2。 如果您无法将BootMii安装到boot2，它仍允许您创建NAND备份。
 
 如果您没有SD卡，您无法安装也不能使用BootMii，因此将无法利用上述好处。 您可以以后安装。
@@ -38,33 +38,15 @@ Homebrew Channel是您启动自制应用的地方。 BootMii可以备份和恢�
 
 这是一个提示 - 在您的SD卡或U盘上安装自制软件时，您的文件夹结构看起来像这样:
 
-💾 Sd卡或U盘:
-
-┣ 📂 apps
-
-┃ ┣ 📂 应用名称1
-
-┃ ┃ ┣ 📄 boot.dol / boot.elf
-
-┃ ┃ ┣ 📄 icon.png
-
-┃ ┃ ┗ 📄 meta.xml
-
-┃ ┗ 📂应用名称2
-
-┃ ┃ ┣ 📄 boot.dol / boot.elf
-
-┃ ┃ ┣ 📄 icon.png
-
-┃ ┃ ┗ 📄 meta.xml
+![适当的SD卡文件夹架构](images/Wii/FolderStructure.png)
 
 `应用名称1` 和 `应用名称2` 是占位符名称。 不要在`apps`文件夹里嵌套多个 `apps` 文件夹。
 
-[使用BootMii制作NAND备份](bootmii)<br> 强烈建议使用BootMii制作NAND备份。
+┃ ┣ 📂 应用名称1
 {: .notice--info}
 
-如果您无法安装BootMii，继续[安装Priiloader](priiloader)。
+┃ ┃ ┣ 📄 icon.png
 {: .notice--info}
 
-提示: 如果您的光驱闪烁非常短，您可以通过是否仅在按下POWER按钮时光驱立刻闪光判断BootMii是否安装到boot2。
+┃ ┗ 📂应用名称2
 {: .notice--info}

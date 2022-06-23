@@ -34,10 +34,10 @@ Striim Network to usługa służąca przywróceniu kanałów wspierających odtw
 
 
 
-[RiiConnect24](riiconnect24) jest serwisem, który pozwala Ci korzystać z już niewspieranego serwisu jakim jest WiiConnect24. Pozwala on korzystać z News Channel, Forecast Channel, Everybody Votes Channel jak i również Check Mii Out Channel oraz Wii Mail. Jest to opcjonalny krok.
+[Kontynuuj do WiiLink'a](wiilink)<br> WiiLink umożliwi Ci używanie kanałów eksluzywnych do Japoni, takie jak: Wii No Ma i Digicam Print Channel. Jest to opcjonalny krok.
 {: .notice--info}
 
-[Kontynuuj do WiiLink'a](wiilink)<br> WiiLink umożliwi Ci używanie kanałów eksluzywnych do Japoni, takie jak: Wii No Ma i Digicam Print Channel. Jest to opcjonalny krok.
+[Przejdź do strony przeznaczonej instalacji Wiimmfi](wiimmfi)<br> Wiimmfi pozwala Ci na granie w gry online po zakończeniu wsparcia serwisu Nintendo Wi-Fi Connection. Jest to opcjonalny krok.
 {: .notice--info}
 
 [Przejdź do strony przeznaczonej instalacji Wiimmfi](wiimmfi)<br> Wiimmfi pozwala Ci na granie w gry online po zakończeniu wsparcia serwisu Nintendo Wi-Fi Connection. Jest to opcjonalny krok.

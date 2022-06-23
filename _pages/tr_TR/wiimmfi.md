@@ -93,7 +93,7 @@ WiiWare oyunlarınızı Wiimmfi ile oynayabilmek için yamalayabilirsiniz.
 - [RiiConnect24 Yamalayıcısı](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows ve Unix için)  
   **ya da**
 - [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (çapraz platform)
-- [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+- [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 [Eğer WiiWare Yamalayıcısı’nı nasıl kullanabileceğinizi görmek istiyorsanız buraya tıklayın!](wiiwarepatcher)
 {: .notice--info}
@@ -141,8 +141,8 @@ WEP kodlu ya da güvenliksiz Wi-Fi ağı bulmak işin en zor kısmı. Çünkü D
 
 1. Nintendo DS Wi-Fi ayarlarına gidin. Buna çevrimiçi oynamak istediğiniz oyundan da ulaşılabilir.
 2. Bağlantı kurun.
-3. Birincil DNS’i ` 164.132.44.106` olarak girin.
-4. İkincil DNS’i `1.1.1.1` olarak girin (problem çıkarsa, bu sefer `8.8.8.8` olarak girin).
+3. Type in `167.86.108.126` as the primary DNS.
+4. Type in `1.1.1.1` as the secondary DNS.
 5. Bağlantı ayarlarınızı kaydedip bağlantı testi yapın. Eğer başarılı olursanız, oynamaya hazırsınızdır.
 
 ### Mario Kart Wii Modları

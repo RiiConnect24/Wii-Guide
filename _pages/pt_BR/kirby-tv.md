@@ -4,25 +4,25 @@ title: "Kirby TV Channel"
 
 {% include toc title="Table of Contents" %}
 
-The Kirby TV Channel is controlled and operated by Striim Network, not RiiConnect24. Join their Discord server [here](https://discord.gg/seCnzxnE75).
+O canal Kirby TV é controlado e operado por Striim Network, não por RiiConnect24. Entre no servidor do Discord [aqui](https://discord.gg/seCnzxnE75).
 {: .notice--warning}
 
-Striim Network is a service dedicated to bringing back the channels that support video playback, such as Kirby TV Channel and YouTube.
+Striim Network é um serviço dedicado a trazer de volta os canais que suportam a reprodução de vídeo, como Kirby TV Channel e YouTube.
 
 #### Você precisará de
 
 * Um cartão SD ou pendrive
 * Um Wii conectado à internet
-* A Windows or Unix based computer
+* Um computador baseado em Windows ou Unix
 * [Kirby TV Channel Patcher](https://github.com/StriimNetwork/Kirby-TV-Channel-Patcher/releases)
 
 #### Instruções
 
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+[Se você quer ver instruções detalhadas sobre como instalar o WADs, clique aqui!](wiimodlite)
 {: .notice--info}
 
-1. Download the executable for your architecture and OS.
-2. Launch the executable then press `1` twice to start the patching process.
+1. Baixe o executável para sua arquitetura e Sistema Operacional.
+2. Inicie o executável em seguida pressione `1` duas vezes para iniciar o processo de patch.
 3. When finished, the WAD will be in the `WAD` folder which is located in the same directory as the executable.
 4. Move the `WAD` folder to the root of your SD Card.
 5. Put your SD card or USB drive in your Wii.

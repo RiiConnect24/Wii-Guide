@@ -1,7 +1,7 @@
 ---
 title: "Πλοήγηση ιστοσελίδας"
-layout: μονή
-sitemap: λάθος
+layout: single
+sitemap: false
 ---
 
 ![WiiTutorials](/images/WiiTutorials.jpg)
@@ -22,11 +22,12 @@ sitemap: λάθος
 + [RiiConnect24](riiconnect24)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
++ [RiiConnect24 DNS Update](riiconnect24-dns-update)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 + [Kirby TV Channel](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
-+ [Διαγραφή VFF](deleting-vffs)
++ [Deleting VFFs](deleting-vffs)
 + [Fixing FORE000006](riiconnect24-batteryfix)
 + [Fixing NEWS000006](news000006)
 
@@ -53,6 +54,7 @@ sitemap: λάθος
 + [Performing a SysCheck](syscheck)
 + [Removing RSSMii](rssmii-remove)
 + [RiiTag](riitag)
++ [Updating Wii Menu to v4.3](update)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 + [WiiFlow](wiiflow)

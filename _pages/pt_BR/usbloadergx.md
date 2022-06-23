@@ -13,7 +13,7 @@ This is a quick start guide on how to use USB Loader GX, a popular USB loader fo
 
 #### Você precisará de
 
-* A Wii
+* Um Wii
 * Unidade USB / Pendrive
 * [USB Loader GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
 
@@ -63,27 +63,27 @@ These are the functions the buttons found on the top of the main menu do, from l
 * Star - Shows games that you have marked as "favorites".
 * Search - Lets you search for games by name.
 * Sort - Cycles through sorting methods for games.
-* Platform - Choose to sort games by platform.
-* Category - Sorts games by category.
-* List - Shows games in a list view.
-* Multi-Cover View - Shows games in a multi-cover view.
-* Cover Carousel View - Shows games in a carousel view.
-* Wii Menu View - Shows games in a Wii Menu view.
-* Parental Control - Locks USB Loader GX.
-* Disc - Loads a game via disc.
+* Plataforma - Escolhe organizar jogos por plataforma.
+* Categoria - Classifica jogos por categoria.
+* Lista - Mostra os jogos na visualização de lista.
+* Visualização de capa múltipla - Mostra jogos em um modo de exibição de várias capas.
+* Visualização de carrossel de capa - Mostra os jogos na vista de carrossel.
+* Exibição de Menu do Wii - Mostrar jogos na visualização do Menu do Wii.
+* Controle Parental - bloqueia o USB Loader GX.
+* Disco - Carrega um jogo via disco.
 
-Pressing any game will allow you to play the game by pressing "Start".
+Pressionar qualquer jogo permitirá que você jogue pressionando "Iniciar".
 
-There are also other buttons:
+Existem também outros botões:
 
-* (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
-* Gears - Settings for USB Loader GX.
-* SD card - Remount the SD card.
-* Homebrew - Load homebrew apps.
-* Wii - Open up the HOME Menu, which can also be accessed by pressing the HOME Button on the Wii Remote.
-* Power Button - Turn off your Wii.
+* Ícone (+) - "Instalar" um jogo, ou seja, carregá-lo do disco e descarregá-lo.
+* Engrenagens - Configurações para o USB Loader GX.
+* Cartão SD - Reconectar o cartão SD.
+* Homebrew - Carregar aplicativos do homebrew.
+* Wii - Inicie o Menu HOME, que também pode ser acessado pressionando o botão HOME no controle do Wii.
+* Botão POWER - desliga seu Wii.
 
-On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
+No meio da parte inferior da tela, você pode ver quanto espaço livre tem no seu dispositivo USB e quantos jogos você tem.
 
 ##### Opções depois de completado
 

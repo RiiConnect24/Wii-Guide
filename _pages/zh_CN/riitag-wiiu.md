@@ -7,7 +7,7 @@ title: Wii U上的RiiTag
 如果你需要有关本教程的任何帮助, 请加入[RiiConnect24 Discord服务器](https://discord.gg/rc24) (推荐)或 [发送电子邮件到 support@riiconnect24.net](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
-RiiTag是一个可自定义的动态游戏标签 通过分享您的游戏标签(动态图片)，您可以向您的朋友展示您正在玩的游戏! 您在Wii U上启动了插件，并且标签即时更新。
+RiiTag是一个可自定义的动态游戏标签 通过分享您的游戏标签(动态图片)，您可以向您的朋友展示您正在玩的游戏! RiiTag是一个可自定义的动态游戏标签 通过分享您的游戏标签(动态图片)，您可以向您的朋友展示您正在玩的游戏! 您在Wii U上启动了插件，并且标签即时更新。
 
 #### 你需要的是
 
@@ -18,7 +18,7 @@ RiiTag是一个可自定义的动态游戏标签 通过分享您的游戏标签(
 - 最新版本[Wii U Plugin Loader](https://github.com/Maschell/WiiUPluginLoader/releases)
 - 最新版本[UTag plugin](https://github.com/RiiConnect24/UTag/releases)
 - 最新版本[Flump's Coldboot Haxchi Mod](https://www.dropbox.com/sh/gxkf72jia1adpyg/AACPMfGU2AyWUZmhU2awjSsca/Haxchi-CBHC%20Flump%20Mod.zip?dl=1)
-   - Coldboot Haxchi用于第四节。 如果您不能使用Coldboot Haxchi则无需下载，或您不想再启动时加载Wii U Plugin Loader。
+   - Coldboot Haxchi用于第四节。 如果您不能使用Coldboot Haxchi则无需下载，或您不想在启动时加载Wii U Plugin Loader。
 
 #### 步骤
 
@@ -31,7 +31,7 @@ RiiTag是一个可自定义的动态游戏标签 通过分享您的游戏标签(
 5. 点击`Show Key` 并记下Key。 将在稍后的本指南中使用。
 6. 点击`Submit`保存更改。
 
-不要与任何人分享RiiTag key! 如果你这样做，人们可以滥用你的标签。
+不要与任何人分享RiiTag key! 如果你这样做，人们可以滥用你的标签。 如果你这样做，人们可以滥用你的标签。
 {: .notice--warning}
 
 ##### 第二节 - 在SD卡上设置
@@ -52,7 +52,7 @@ RiiTag是一个可自定义的动态游戏标签 通过分享您的游戏标签(
 
 ##### 第四节 - 启动时运行(可选)
 
-我们现在将设置 Wii U Plugin Loader启动时运行。**仅在使用Coldboot Haxchi时工作。**您仍然需要打开UTag，然后按Wii U GamePad的+以回到Wii U菜单。
+使用Wii U GamePad移动到`Autoboot:` 更改为SDCafiine。
 {: .notice--info}
 
 1. 解压Coldboot Haxchi mod `.zip`到SD卡根目录。
@@ -69,7 +69,7 @@ RiiTag是一个可自定义的动态游戏标签 通过分享您的游戏标签(
 10. 使用Wii U GamePad移动到`Autoboot:` 更改为SDCafiine。
 11. 最后，移动到`WiiU系统菜单`，按A回到WiiU菜单。
 
-您现在可以在WiiU上设置RiiTag! 现在开始玩游戏，然后看它们出现在RiiTag!
+您现在可以在WiiU上设置RiiTag! 现在开始玩游戏，然后看它们出现在RiiTag! 现在开始玩游戏，然后看它们出现在RiiTag!
 {: .notice--success}
 
 [继续 网站导览](site-navigation) 我们有许多你可能喜欢的其他教程。

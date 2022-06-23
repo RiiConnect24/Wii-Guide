@@ -1,7 +1,7 @@
 ---
 title: "Navigazione del sito"
-layout: singolo
-sitemap: falso
+layout: single
+sitemap: false
 ---
 
 ![WiiTutorials](/images/WiiTutorials.jpg)
@@ -11,7 +11,7 @@ sitemap: falso
 
 + [cIOS](cios)
 + [Canale Kirby TV](kirby-tv)
-+ [RiiConnect24](riiConnect24)
++ [RiiConnect24](riiconnect24)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 {% endcapture %}
@@ -19,14 +19,15 @@ sitemap: falso
 
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
-+ [RiiConnect24](riiConnect24)
++ [RiiConnect24](riiconnect24)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
++ [RiiConnect24 DNS Update](riiconnect24-dns-update)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 + [Canale Kirby TV](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
-+ [Eliminare VFFs](deleting-vffs)
++ [Deleting VFFs](deleting-vffs)
 + [Fixing FORE000006](riiconnect24-batteryfix)
 + [Fixing NEWS000006](news000006)
 
@@ -53,6 +54,7 @@ sitemap: falso
 + [Performing a SysCheck](syscheck)
 + [Rimuovere RSSMii](rssmii-remove)
 + [RiiTag](riitag)
++ [Aggiornamento del Menu Wii a v4.3](update)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 + [WiiFlow](wiiflow)

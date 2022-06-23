@@ -7,7 +7,7 @@ title: "Să începem"
 Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Chiar dacă Wii-ul tău a fost deja modificat în trecut, urmarea acestor pași poate asigura că modificația este la zi.
+Chiar dacă sistemul tău Wii a fost deja modificată în trecut, urmarea acestor pași poate asigura că modificația este la zi.
 {: .notice--info}
 
 Toate exploit-urile rulează Instalatorul HackMii, și au același rezultat final.
@@ -16,7 +16,10 @@ Toate exploit-urile rulează Instalatorul HackMii, și au același rezultat fina
 Deși poți urma acest ghid fără un card SD, nu vei putea să creezi sau să restaurezi o copie de rezervă folosing BootMii, și nu vei putea să folosești unele aplicații homebrew.
 {: .notice--info}
 
-Acest ghid este doar pentru consola Wii originală și pentru Wii mini (inclusiv Wii Family Edition), cu cel mai recent firmware (4.3). Nu folosi acest ghid pe un Wii U (vWii)! Dacă vrei să instalezi homebrew pe un Wii U, [urmează acest ghid](https://wiiu.hacks.guide).
+Dacă Meniul Wii nu este pe versiunea 4.3, folosește str2hax sau FlashHax pentru a-ți modifica sistemul Wii. Când ai terminat de urmat ghidul, urmează [ghidul de actualizare](update) pentru a-ți actualiza Meniul Wii la versiunea 4.3.
+{: .notice--info}
+
+Acest ghid este doar pentru consola Wii originală și pentru Wii mini (inclusiv Wii Family Edition). Nu folosi acest ghid pe un Wii U (vWii)! Dacă vrei să instalezi homebrew pe un Wii U, [urmează acest ghid](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### Alege un exploit de folosit

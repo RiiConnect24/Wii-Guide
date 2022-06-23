@@ -93,7 +93,7 @@ Vous pouvez patcher des jeux WiiWare pour pouvoir y jouer avec Wiimmfi.
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows et Unix)  
   **ou**
 - [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (multi-platforme)
-- [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+- [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 [Si vous souhaitez voir comment utiliser le patcher WiiWare, cliquez ici!](wiiwarepatcher)
 {: .notice--info}
@@ -141,8 +141,8 @@ Obtenir un réseau Wi-Fi avec WEP ou sans sécurité est la partie la plus diffi
 
 1. Allez dans les paramètres Wi-Fi de votre Nintendo DS. Vous pouvez y accéder depuis le jeu avec lequel vous souhaitez jouer en ligne.
 2. Configurez une connexion.
-3. Entrez `164.132.44.106` comme DNS primaire.
-4. Entrez `1.1.1.1` comme DNS secondaire (si cela provoque des problèmes, essayez `8.8.8.8`).
+3. Type in `167.86.108.126` as the primary DNS.
+4. Type in `1.1.1.1` as the secondary DNS.
 5. Enregistez vos paramètres et effectuez un test de connexion. Si le test réussi, alors vous êtes prêt à jouer.
 
 ### Mario Kart Wii Mods

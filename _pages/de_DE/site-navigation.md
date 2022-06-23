@@ -7,10 +7,10 @@ sitemap: false
 ![WiiTutorials](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
-**Vorgestellt**
+**Empfohlen**
 
 + [cIOS](cios)
-+ [Kirby TV Channel](kirby-tv)
++ [Kirby TV-Kanal](kirby-tv)
 + [RiiConnect24](riiconnect24)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
@@ -22,22 +22,23 @@ sitemap: false
 + [RiiConnect24](riiconnect24)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
++ [RiiConnect24 DNS-Aktualisierung](riiconnect24-dns-update)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
-+ [Kirby TV Channel](kirby-tv)
++ [Kirby TV-Kanal](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
 + [VFFs löschen](deleting-vffs)
-+ [Fixing FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [FORE000006 beheben](riiconnect24-batteryfix)
++ [NEWS000006 beheben](news000006)
 
 **Modding 1x1**
 + [BlueBomb](bluebomb)
 * [BootMii-Sicherung](bootmii)
 + [cIOS](cios)
-+ [Dos and Don'ts of Wii Modding](dosanddonts)
++ [Handlungsempfehlungen beim Wii Modding](dosanddonts)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
-+ [Homebrew Channel](hbc)
++ [Homebrew-Kanal](hbc)
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
 + [str2hax](str2hax)
@@ -45,14 +46,15 @@ sitemap: false
 
 **Homebrew**
 + [Verknüpfungen für Wii-Spiele erstellen](wiigsc)
-+ [How to dump Channels (WADs)](dump-wads)
-+ [How to dump GameCube/Wii Games](dump-games)
++ [Wie man Kanäle (WADs) sichert](dump-wads)
++ [Wie man GameCube/Wii-Spiele sichert](dump-games)
 + [RSSMii installieren](rssmii)
 + [Wii-Menü-Designs installieren](themes)
-+ [Installing Wii Menu Themes on vWii](themes-vwii)
-+ [Performing a SysCheck](syscheck)
++ [Wii-Menü-Designs auf vWii installieren](themes-vwii)
++ [Einen SysCheck durchführen](syscheck)
 + [RSSMii entfernen](rssmii-remove)
 + [RiiTag](riitag)
++ [Wii-Menü auf v4.3 aktualisieren](update)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 + [WiiFlow](wiiflow)

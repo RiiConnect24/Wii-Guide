@@ -75,7 +75,7 @@ DEVAM ETMEDEN ÖNCE YUKARIDAKİ UYARILARI OKUDUĞUNUZDAN EMİN OLUN!
 3. SD Kartınızı veya USB sürücünüzü Wii’nize takın.
 4. Homebrew Channel’dan MyMenuify Mod’u başlatın.
 5. Giriş mesajından sonra, size uygulama için hangi IOS'u kullanmak istediğinizi soracak. Eğer [yüklü cIOS'unuz](cios) varsa `IOS249'u` veya `IOS58'i` seçin. Eğer `Exception DSI occurred!` hatasını alırsanız, RESET'e basın ve uygulamayı tekrardan başlatıp bu sefer `IOS250'yi` deneyin. It might take a couple attempts to reload the IOS.
-6. Yüklemek istediğiniz temayı seçip A'ya basın. Temanın yüklenmesi için biraz bekleyin, ardından herhangi bir tuşa basarak Wii Menü'ye dönün. Umarız, tema doğru olarak yüklenmiştir.
+6. Yüklemek istediğiniz temayı seçip A'ya basın. Temanın yüklenmesi için biraz bekleyin, ardından herhangi bir tuşa basarak Wii Menü'ye dönün. Umarız, tema doğru olarak yüklenmiştir. Umarız, tema doğru olarak yüklenmiştir.
 
 If you get an error saying "The system files are corrupted" or a black screen, don't panic as long as you installed Priiloader. Wii'nizi kapatın ve RESET tuşuna basılı tutun ve Wii'nizi açın. Wii Menü'nüzü düzeltebileceğiniz Priiloader menüsünü açmış olmanız gerekir. One of the options is to launch the Homebrew Channel, where you can launch MyMenuify Mod and press a button to download and install the original Wii Menu theme.
 {: .notice--info}

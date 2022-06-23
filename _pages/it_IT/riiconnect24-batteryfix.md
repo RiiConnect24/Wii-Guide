@@ -11,5 +11,5 @@ Se hai bisogno di qualsiasi informazione riguardante questo tutorial, entra nel 
 
 Se hai l'errore FORE000006, il tuo orario della Wii potrebbe essere sbagliato. Impostalo alla data e ora corretta, poi aspetta non più di un ora e il Canale Meteo dovrebbe funzionare di nuovo.
 
-[Ritorna alla pagina di installazione di RiiConnect24](riiConnect24)
+[Ritorna alla pagina di installazione di RiiConnect24](riiconnect24)
 {: .notice--info}

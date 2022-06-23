@@ -31,22 +31,10 @@ Aquí una lista de lo que puedes hacer con Homebrew. Dado a que esta lista no qu
 - Restaurar servicios en línea descontinuados, como [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
 - Respaldar y restaurar copias de la memoria de tu Wii (NAND) usando [BootMii](bootmii).
 - Protege tu Wii de bricks usando [Priiloader](priiloader) y BootMii.
-- Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
+- Convierte tu Wii en un reproductor multimedia con [WiiMC](https://oscwii.org/library/app/wiimc-ss).
 
 
 ## ¿Listo?
 
 Comienza por [elegir un exploit](get-started)!
 {: .notice--info}
-
-## Más recursos
-
-Estas son algunas otras fuentes y guías relacionadas con la modificación de la consola Wii que pueden ayudarte:
-
-- [ModMii](https://modmii.github.io/)
-- [WiiBrew](https://wiibrew.org/)
-- [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
-- [Wii Hacking Explained - por Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/)...y por supuesto, este sitio web
-
-Para modificando un Wii U, sigue esta guía:
-- [NH Wii U Guide](https://wiiu.hacks.guide)

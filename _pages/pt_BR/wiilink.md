@@ -36,7 +36,7 @@ If you use the Wii Patcher, you will not need to use our other patchers.
 
 ##### Section I - Patching WADs
 
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+[Se você quer ver instruções detalhadas sobre como instalar o WADs, clique aqui!](wiimodlite)
 {: .notice--info}
 
 1. Download the required files based on your OS. On Windows, run `WiiLinkPatcher.bat`. On Unix systems, launch terminal and type sh, then drag the `WiiLinkPatcher.sh` into the terminal and press enter.

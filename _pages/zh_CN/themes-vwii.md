@@ -4,7 +4,7 @@ title: "在vWii上安装Wii菜单主题"
 
 {% include toc title="Table of Contents" %}
 
-您是否厌倦了Wii菜单上普通白色主题，希望有一个很酷的主题? 此教程将帮您为Wii菜单获取新主题!
+一些主题与vWii不兼容，可能导致从图形故障到主题砖的错误。 我们建议只使用[rc24.xyz/goodies/themes](https://rc24.xyz/goodies/themes/) 的主题，因为它们与现代Wii菜单兼容。
 
 如果您的主机变砖或损坏，我们**概不**负责。 如果您完全遵循此指南，您不会有任何问题。
 {: .notice--danger}
@@ -66,21 +66,19 @@ vWii上仅测试了RiiConnect24 主题页面。 其它主题可能与vWii不兼�
 2. 点击NUS Downloader的menu，然后点击database。
 3. 转到 System > System Menu 并根据您的区域选择版本。
 
-下表显示了哪些区域对应哪些版本。
-
 | 区域     | vWii菜单版本 |
 | ------ | -------- |
 | Japan  | v608     |
 | USA    | v609     |
 | Europe | v610     |
 
-选择正确的版本下载后，请检查`Create Decrypted Contents (*.app)`。 然后按位于窗口顶部的`Start NUS Download` 。
+选择正确的版本下载后，请检查`Create Decrypted Contents (*.app)`。 然后按位于窗口顶部的`Start NUS Download`.
 
-![NUS Downloader中的database](/images/Themes-vWii/NUSD-vWii_preview-database.png)
+![未打开database的NUS downloader主菜单](/images/Themes-vWii/NUSD-vWii_preview-database.png)
 
-![未打开database的NUS downloader主菜单](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
+![NUS Downloader中的database](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
 
-下载完成后，在NUS Downloader文件夹搜索与您所在区域的.app。
+下载完成后，在NUS Downloader文件夹中查找与您所在区域对应的.app文件。
 
 | 区域     | 您所在区域的.app   |
 | ------ | ------------ |
@@ -88,7 +86,7 @@ vWii上仅测试了RiiConnect24 主题页面。 其它主题可能与vWii不兼�
 | USA    | 0000001f.app |
 | Europe | 00000022.app |
 
-如果您找不到.app，您可能下载了错误的Wii菜单，请再试一次。
+下载完成后，在NUS Downloader文件夹搜索与您所在区域的.app。
 
 找到.app后，将其复制到包含ThemeMii的文件夹。 然后将对应版本复制到SD卡的theme文件夹。
 
@@ -110,7 +108,7 @@ vWii上仅测试了RiiConnect24 主题页面。 其它主题可能与vWii不兼�
 4. 当它提示安装主题时选择`Yes`，等待安装完成。
 5. 安装完成后， MyMenuify会提示`Continue` 或 `Exit`，选择 `Exit`。
 
-如果成功，您应该会看见安装了的主题。
+您是否厌倦了Wii菜单上普通白色主题，希望有一个很酷的主题? 此教程将帮您为Wii菜单获取新主题!
 
 ##### 恢复主题
 

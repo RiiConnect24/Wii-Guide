@@ -38,7 +38,7 @@ For the original Wii, we do not recommend using BlueBomb if you intend to instal
 1. Распакуйте и поместите файл `boot.elf` на вашу флешку.
 - (Even for a Wii mini, bootmini.elf will **not** work, its purpose is entirely different and unrelated. Use boot.elf in all cases). 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright). 1. Turn on your console and navigate to the settings menu. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Запустите ваш дистрибутив Linux и убедитесь, что вы подключены к интернету.
-1. Откройте Терминал.
+1. Включите консоль и **НЕ** нажимайте на кнопки контроллеров Wii Remote.
 1. Запустите следующие комманды:
 ```bash
 wget https://wii.guide/assets/files/bluebomb-helper.sh

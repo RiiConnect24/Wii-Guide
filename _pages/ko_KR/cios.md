@@ -77,11 +77,11 @@ Select cIOS version: 65535
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
 1. !!crwdP_30_Pdwrc!!작동하지 않는 게임을 선택하세요.
 1. 설정을 클릭하세요.
-1. !!crwdP_26_Pdwrc!!`Game Load`를 선택하세요.
-1. !!crwdP_27_Pdwrc!!`Game IOS`가 나타날 때 까지 스크롤하세요.
+1. ##### 섹션 I - 다운로드 하기`Game Load`를 선택하세요.
+1. ##### 섹션 II - 설치하기`Game IOS`가 나타날 때 까지 스크롤하세요.
 1. 사용할 IOS 슬롯을 선택하세요.
     - 249가 작동하지 않으면 250 또는 251을 사용해 보세요.
-1. !!crwdP_29_Pdwrc!!Ok를 누르고 게임을 로드해 보세요.
+1. ##### 끝난 뒤 할 수 있는 것Ok를 누르고 게임을 로드해 보세요.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. !!crwdP_30_Pdwrc!!작동하지 않는 게임을 선택하세요.

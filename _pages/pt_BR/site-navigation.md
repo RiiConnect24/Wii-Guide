@@ -22,11 +22,12 @@ sitemap: false
 + [RiiConnect24](riiconnect24)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
++ [RiiConnect24 DNS Update](riiconnect24-dns-update)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 + [Kirby TV Channel](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
-+ [Deletando VFFs](deleting-vffs)
++ [Deleting VFFs](deleting-vffs)
 + [Fixing FORE000006](riiconnect24-batteryfix)
 + [Fixing NEWS000006](news000006)
 
@@ -54,12 +55,13 @@ Um dos recursos mais importantes do BootMii é a capacidade de fazer backup e re
 + [Creating Wii Game Shortcuts](wiigsc)
 + [How to dump Channels (WADs)](dump-wads)
 + [How to dump GameCube/Wii Games](dump-games)
-+ [Installing RSSMii](rssmii)
++ [Instalando RSSMii](rssmii)
 + [Installing Wii Menu Themes](themes)
 + [Installing Wii Menu Themes on vWii](themes-vwii)
 + [Performing a SysCheck](syscheck)
-+ [Removing RSSMii](rssmii-remove)
++ [Removendo o RSSMii](rssmii-remove)
 + [RiiTag](riitag)
++ [Updating Wii Menu to v4.3](update)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 + [WiiFlow](wiiflow)
@@ -71,7 +73,7 @@ Um dos recursos mais importantes do BootMii é a capacidade de fazer backup e re
 **Site**
 + [Home](/)
 + [Introdução](Prepare-se)
-+ [\[Perguntas frequentes\](perguntas frequentes)](perguntas frequentes)
++ [\[\[Perguntas frequentes\\](perguntas frequentes)](perguntas frequentes)](perguntas frequentes)
 + [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>

@@ -76,7 +76,13 @@ Pokud se vám nwc24msg.cfg nedaří patchnout, přidejte se prosím na [RiiConne
 
 ##### Část IV - Připojení
 
-Nyní nastavíte DNS na naše servery. Je to volitelné, ale doporučuje se to, protože to vylepší používání RiiConnect24 a Wiimmfi zpřístupněním dalších funkcí.
+{% capture notice-1 %}
+Starting June 16th, 2022 the RiiConnect24 DNS changes. Read more: [here.](riiconnect24-dns-update)
+{% endcapture %}
+
+<div class="notice--warning">{{ notice-1 | markdownify }}</div>
+
+You will now set your DNS to our servers. This is optional but it's recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
 
 1. Přejděte do `Wii Options`.
 2. Přejděte do `Wii Settings`.
@@ -85,8 +91,8 @@ Nyní nastavíte DNS na naše servery. Je to volitelné, ale doporučuje se to, 
 5. Vyberte své aktuální připojení.
 6. Zvolte `Change Settings`.
 7. Přejděte do `Auto-Obtain DNS` (pozor, ne IP Address), poté zvolte `No`, poté `Advanced Settings`.
-8. Zadejte `164.132.44.106` jako primární DNS.
-9. Zadejte `1.1.1.1` jako sekundární DNS (pokud vám to působí problémy, zkuste `8.8.8.8`).
+8. Type in `167.86.108.126` as the primary DNS.
+9. Type in `1.1.1.1` as the secondary DNS.
 10. Potvrďte stisknutím `Confirm`, poté vyberte `Save`.
 11. Zvolte `OK`, aby se provedl test připojení.
 12. Pokud byl test připojení úspěšný, zvolte `No`, abyste odmítnuli Wii System Update.
@@ -98,7 +104,7 @@ Nyní nastavíte DNS na naše servery. Je to volitelné, ale doporučuje se to, 
 [Pokračujte na Wiimmfi](wiimmfi)<br> Wiimmfi vám umožní hrát hry online, a to i po vypnutí Nintendo Wi-Fi Connection. Zcela dobrovolné.
 {: .notice--info}
 
-[Pokračujte na WiiLink](wiilink)<br> WiiLink umožňuje používat ukončené japonské kanály, např. Wii no Ma a Digicam Print Channel. Zcela dobrovolné.
+[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. Zcela dobrovolné.
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.

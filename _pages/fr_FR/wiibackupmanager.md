@@ -20,7 +20,7 @@ Nous vous recommandons de copier des jeux avec [Witgui](https://desairem.com/wor
 Pour jouer à plusieurs jeux, nous vous recommandons d'utiliser un disque dur externe alimenté par USB pour votre Wii. Nous l'appellerons "périphérique USB" dans ce guide. La plupart de ceux que vous pouvez trouver sur le marché devraient fonctionner correctement s'ils ont une rétrocompatibilité USB 2. Les disques d'une capacité de 1 To ou plus fonctionneront. Une clé Usb fonctionnera également, mais en raison de la taille de celles-ci, elles ne pourront pas stocker autant de jeux.
 {: .notice--info}
 
-Assurez-vous que votre périphérique USB est formaté en FAT32 ou NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
+Assurez-vous que votre périphérique USB est formaté en FAT32 ou NTFS. Ne le formatez pas comme d'autres types tels que exFAT, extFS ou WBFS, ce dernier est un ancien format de stockage des jeux Wii.
 {: .notice--info}
 
 #### Instructions

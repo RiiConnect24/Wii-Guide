@@ -29,10 +29,10 @@ Dacă vrei să joci jocuri care sunt în format NKit, folosește [acest program]
 Dacă nu copiezi jocuri folosind Wii Backup Manager, Witgui, sau Wii Backup Fusion, creează un dosar în rădăcina unității USB sau cardului SD numit "wbfs" și pune jocurile acolo.
 {: .notice--info}
 
-Pentru a juca jocuri, recomandăm să folosești un hard disk extern pentru Wii-ul tău. Stick-urile USB ar trebui să fie de asemenea utilizabile, dar hard disk-urile externe sunt recomandate pentru că sunt mai fiabile, și pot stoca mai multe jocuri.
+Pentru a juca jocuri, recomandăm să folosești un hard disk extern pentru consola ta. Stick-urile USB ar trebui să fie de asemenea utilizabile, dar hard disk-urile externe sunt recomandate pentru că sunt mai fiabile, și pot stoca mai multe jocuri.
 {: .notice--info}
 
-Asigură-te că unitatea USB este formatată ca FAT32 sau NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
+Asigură-te că unitatea USB este formatată ca FAT32 sau NTFS. Nu-l formata ca alte tipuri precum exFAT, extFS sau WBFS, cel dintâi fiind un format vechi pentru stocarea jocurilor Wii.
 {: .notice--info}
 
 #### Instrucțiuni
@@ -40,14 +40,14 @@ Asigură-te că unitatea USB este formatată ca FAT32 sau NTFS. Do not format it
 ##### Descărcarea
 
 1. Extrage USB Loader GX și pune-l în dosarul `apps` din cardul tău SD sau unitatea ta USB.
-2. Introduce-ți unitatea ta USB, și cardul tău SD dacă folosești unul, în Wii-ul tău și pornește USB Loader GX din Homebrew Channel.
+2. Introduce-ți unitatea ta USB, și cardul tău SD dacă folosești unul, în consola ta și pornește USB Loader GX din Homebrew Channel.
 
 ##### Noțiuni de bază
 
 Nu există un "ghid" pentru utilizarea aplicației USB Loader GX. Această pagină este destinată către a te învăța cum să-l folosești, oferindu-ți un început rapid. Ar trebui să poți să-ți dai seama de toate funcțiile minunate a aplicației USB Loader GX în timp ce îl folosești.
 {: .notice--info}
 
-* Dacă USB Loader GX spune "Waiting for HDD..." cu o numărătoare de 20 de secunde, este posibil că nu poate găsi unitatea USB. Încearcă să ieși din aplicație, iar apoi redeschide-l după ce ai introdus unitatea USB în celălalt port USB al Wii-ului.
+* Dacă USB Loader GX spune "Waiting for HDD..." cu o numărătoare de 20 de secunde, este posibil că nu poate găsi unitatea USB. Încearcă să ieși din aplicație, iar apoi redeschide-l după ce ai introdus unitatea USB în celălalt port USB al consolei.
 * Poți apăsa Butonul 1 pe Wii Remote-ul tău pentru a deschide un dialog pentru descărcarea copertelor de joc și operelor de artă din [GameTDB](https://gametdb.com/). Poate dura ceva timp să descarce copertele de joc și operelor de artă, în funcție de câte jocuri ai.
 * Există WAD-uri care pot deschide USB Loader GX dacă le rulezi din Meniul Wii. Acesta se numește un "forwarder WAD" (WAD de redirecționare). Un forwarder WAD oficial poate fi găsit [aici](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), iar o versiune pentru vWii (Wii U) poate fi găsită [aici](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad).
 * Jocurile GameCube sau jocurile Wii "personalizate" ar putea sau nu ar putea să aibă un banner personalizat pe care USB Loader GX îl folosește. Pentru a activa acest lucru, găsește sau scrie `CustomBannersURL = http://banner.rc24.xyz/` în config/GXGlobal.cfg în unitatea ta USB. Apoi poți folosi descărcarea "Custom Banner" prin apăsarea Butonului 1 pe Wii Remote-ul tău.
@@ -81,7 +81,7 @@ Există de asemenea și alte butoane:
 * Cardul SD - Reintroduce cardul SD.
 * Homebrew - Încarcă aplicații homebrew.
 * Wii - Deschide Meniul HOME, care de asemenea poate fi accesat apăsând Butonul HOME pe Wii Remote.
-* Butonul de Pornire - Oprește Wii-ul tău.
+* Butonul de Pornire - Oprește consola ta.
 
 În mijlocul părții de jos a ecranului, poți vedea cât spațiu este liber în unitatea ta USB și câte jocuri ai.
 

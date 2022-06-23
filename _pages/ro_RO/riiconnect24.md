@@ -12,15 +12,15 @@ Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te
 [Riiconnect24](https://rc24.xyz/) îți permite să folosești servicii întrerupte de la WiiConnect24, care includ News, Forecast, Everybody Votes, Nintendo și Mii Contest Channel, împreună cu Wii Mail.
 
 {% capture notice-1 %}
-This guide is for regular Wiis only.
+Acest ghid este numai pentru consolele Wii clasice.
 
 - Urmează [acest tutorial](riiconnect24-vwii) dacă vrei să instalezi RiiConnect24 pe un vWii (modul Wii pe Wii U).
-- Follow [this tutorial](riiconnect24-dolphin) if you'd like to install RiiConnect24 on Dolphin Emulator.
+- Urmează [acest tutorial](riiconnect24-dolphin) dacă vrei să instalezi RiiConnect24 pe Emulatorul Dolphin.
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
+NU INSTALA RIICONNECT24 PE UN WII MINI! Nu va funcționa și îți va brick-ui consola.
 {: .notice--danger}
 
 #### De ce ai nevoie
@@ -76,6 +76,12 @@ Dacă nu ai putut să îți modifici fișierul nwc24msg.cfg corect, te rugăm s�
 
 ##### Secțiunea IV - Conectarea
 
+{% capture notice-1 %}
+Începând cu 16 Iunie 2022, DNS-ul RiiConnect24 se va schimba. Citește mai mult: [aici.](riiconnect24-dns-update)
+{% endcapture %}
+
+<div class="notice--warning">{{ notice-1 | markdownify }}</div>
+
 Acum îți vei seta DNS-ul la serverele noastre. Acest lucru este opțional dar recomandat, pentru că îți îmbunătățește folosirea RiiConnect24 și Wiimmfi prin activarea unor funcții.
 
 1. Mergi la `Wii Options`.
@@ -85,8 +91,8 @@ Acum îți vei seta DNS-ul la serverele noastre. Acest lucru este opțional dar 
 5. Selectează-ți conexiunea actuală.
 6. Du-te la `Change Settings`.
 7. Du-te la `Auto-Obtain DNS` (Nu IP Address), apoi alege `No`, apoi `Advanced Settings`.
-8. Scrie `164.132.44.106` ca DNS-ul primar.
-9. Scrie `1.1.1.1` ca DNS-ul secundar (dacă îți da probleme, încearcă `8.8.8.8`).
+8. Scrie `167.86.108.126` ca DNS-ul primar.
+9. Scrie `1.1.1.1` ca DNS-ul secundar.
 10. Selectează `Confirm`, apoi alege `Save`.
 11. Apasă `OK` pentru a efectua un test de conexiune.
 12. Dacă testul de conexiune a reușit, alege `No` pentru a sări peste Actualizarea de Sistem Wii.
@@ -104,20 +110,20 @@ Acum îți vei seta DNS-ul la serverele noastre. Acest lucru este opțional dar 
 [Continuă la navigarea site-ului](site-navigation)<br> Avem multe alte tutoriale care s-ar putea să-ți placă.
 {: .notice--info}
 
-If you get error 107245, then you have not installed the patched IOS.
+Dacă primești eroarea 107245, atunci nu ai instalat IOS-urile modificate.
 {: .notice--warning}
 
-If you get error 107304 or you see Nintendo's User Agreement without RiiConnect24's logo, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
+Dacă primești eroarea 107304 sau vezi Acordul Utilizatorului de la Nintendo fără logo-ul RiiConnect24, înseamnă că furnizorul tău de internet sau rețeaua blochează folosirea unui DNS. Poți seta `Auto-Obtain DNS` la `On` pentru a rezolva asta. RiiConnect24 va funcționa și fără acesta. Sau poți folosi programul nostru [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest).
 {: .notice--warning}
 
-Dacă primești eroarea FORE000006, ceasul Wii-ului tău este probabil setat incorect. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel may start working.
+Dacă primești eroarea FORE000006, ceasul consolei tale este probabil setat incorect. Setează-l la data și ora corectă, apoi așteaptă nu mai mult de o oră și Forecast Channel ar trebui să înceapă să funcționeze.
 {: .notice--warning}
 
-[If you still get FORE000006 or if you get NEWS000006, you will need to delete your SYSCONF with rc24-clear-tool](https://github.com/RiiConnect24/rc24-clear-tool/releases/latest).
+[Dacă primești FORE000006 în continuare sau dacă primești NEWS000006, va trebui să ștergi fișierul SYSCONF cu rc24-clear-tool](https://github.com/RiiConnect24/rc24-clear-tool/releases/latest).
 {: .notice--warning}
 
-[If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with rc24-clear-tool.](deleting-vffs)
+[Dacă primești orice altă eroare cu Forecast Channel sau News Channel, precum un cod de eroare care începe cu FORE sau NEWS sau un mesaj de întrerupere a serviciilor, poți încerca să ștergi VFF-urile cu rc24-clear-tool.](deleting-vffs)
 {: .notice--warning}
 
-If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
+Dacă primești erori precum `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, du-te la Wii Settings -> Last Page -> Country și schimbă-l la United Kingdom. O să primești această eroare când folosești o țară pe care noi nu o întreținem. Contacează-ne la [support@riiconnect24.net](mailto:support@riiconnect24.net) dacă ai nevoie de ajutor suplimentar.
 {: .notice--warning}

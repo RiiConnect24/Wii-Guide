@@ -22,11 +22,12 @@ sitemap: false
 + [RiiConnect24](riiconnect24)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
++ [RiiConnect24 DNS 更新](riiconnect24-dns-update)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 + [Kirby TV Channel](kirby-tv)
 + [WiiWare 修补程序](wiiwarepatcher)
-+ [删除VFF文件](deleting-vffs)
++ [删除VFF](deleting-vffs)
 + [修复FORE000006](riiconnect24-batteryfix)
 + [修复NEWS000006](news000006)
 
@@ -53,6 +54,7 @@ sitemap: false
 + [进行系统检查](syscheck)
 + [卸载RSSMii](rssmii-remove)
 + [RiiTag](riitag)
++ [更新Wii菜单到4.3版本](update)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 + [WiiFlow](wiiflow)
@@ -63,7 +65,7 @@ sitemap: false
 
 **站点**
 + [主页](/)
-+ [开始](开始)
++ [开始](get-started)
 + [FAQ](faq)
 + [捐赠](donations)
 {% endcapture %}

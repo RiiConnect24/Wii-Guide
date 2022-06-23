@@ -38,15 +38,3 @@ Zde jsou věci, které můžete pomocí homebrew dělat. Přestože tento výče
 
 Začněte výběrem [exploitu](get-started)!
 {: .notice--info}
-
-## Kam dál
-
-Pomoci vám také mohou tyto zdroje zaměřené na modding Wiička:
-
-- [ModMii](https://modmii.github.io/)
-- [WiiBrew](https://wiibrew.org/)
-- [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
-- [Wii Hacking Explained - by Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...a samozřejmě i tento web
-
-Pro hacknutí Wii U použijte tento návod:
-- [NH Wii U Guide](https://wiiu.hacks.guide)

@@ -1,5 +1,5 @@
 ---
-title: "Installing Wii Menu Themes on vWii"
+title: "Instalace Wii Menu skinů na vWii (Wii U)"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -66,8 +66,6 @@ There are a couple of ways to get the .app files for your vWii System Menu, in t
 2. Open the menu in NUS Downloader and click the database button.
 3. Go to System > System Menu and select a version according to your region.
 
-Here's a table showing which versions correspond to which region.
-
 | Region | vWii Menu version |
 | ------ | ----------------- |
 | Japan  | v608              |
@@ -80,7 +78,7 @@ After selecting the correct version to download, check the box for `Create Decry
 
 ![The main menu of NUS downloader without the database menu open.](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
 
-After the download has finished, search for .app file corresponding to your region in the folder where NUS Downloader is.
+After the download has finished, search for the .app file corresponding to your region in the folder where NUS Downloader is.
 
 | Region | .app file for your region |
 | ------ | ------------------------- |

@@ -46,10 +46,10 @@ Tenha um lembrete do número da versão (`IOS57-64-` finalizando em ambos `v3177
 ##### Ativando Ethernet
 Se você deseja usar o Wiimmfi com cabo Ethernet em um Wii mini, execute o aplicativo [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip) por Fullmetal5. Para executar, basta extrair o arquivo na pasta `apps` da sua unidade USB e inicie pelo Homebrew Channel.
 
-The Wii and Wii mini consoles are only known to work with Ethernet adapters using the AX88772 chip. Please check that the product is compatible before you buy. This one from UGREEN is known to be compatible: [Amazon Europe](https://www.amazon.de/dp/B00MYT481C), [Amazon US](https://www.amazon.com/dp/B08DRKYKMM/)
+Os consoles Wii e Wii Mini só funcionam com adaptadores de Ethernet que usam o chip AX88772. Por favor, verifique se o produto é compatível antes de comprar. Este de UGREEN é conhecido por ser compatível: [Amazon da Europa](https://www.amazon.de/dp/B00MYT481C), [Amazon dos EUA](https://www.amazon.com/dp/B08DRKYKMM/)
 {: .notice--info}
 
-Do not attempt to install a Wii IOS or System Menu on the Wii mini. Doing so will likely brick your console.
+Não tente instalar uma IOS do Wii ou um Menu do Sistema no Wii Mini. Se fizer isso irá provavelmente brickar seu console.
 {: .notice--warning}
 
 Você agora poderá usar homebrew como o [USB Loader GX](usbloadergx) e [WiiFlow](wiiflow).

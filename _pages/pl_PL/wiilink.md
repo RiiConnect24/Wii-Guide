@@ -63,14 +63,14 @@ Dodanie adresu e-mail do SPD pozwoli kanałom takim jak Digicam i Demae wysyła�
 
 1. Uruchom Digicam Print Channel z menu głównego Wii.
 2. Po prawej-dolnej stronie, naciśnij `Ustawienia adresu`, a następnie `Tak`.
-3. Kliknij na `Adres e-mail` w SPD i wpisz swój adres e-mail. (upewnij się, że **umieściłeś je poprawnie** lub **nie zadziała!**)
+3. Kliknij na `Adres e-mail` w SPD i wpisz swój adres e-mail. (upewnij się, że **umieściłeś je poprawnie** lub **nie zadziała!**) (upewnij się, że **umieściłeś je poprawnie** lub **nie zadziała!**)
 4. Naciśnij `OK`, a następnie `"Done"`.
 5. Gdy znajdziesz się w głównym menu SPD, wybierz `Digicam` w menu `Wybierz kanał`. Po tym, jak to zrobisz, powinno działać!
 
 Dla regionu PAL (Europejskich Wii)<br> W Ustawieniach Wii ustaw rozdzielczość telewizora na 60 HZ (480p/480i). Możesz to znaleźć w `Screen -> TV Resolution` Jeśli tego nie zrobisz, różowy pasek pojawi się u dołu ekranu.
 {: .notice--info}
 
-[RiiConnect24](riiconnect24) jest serwisem, który pozwala Ci korzystać z już niewspieranego serwisu jakim jest WiiConnect24. Pozwala on korzystać z News Channel, Forecast Channel, Everybody Votes Channel jak i również Check Mii Out Channel oraz Wii Mail. Jest to opcjonalny krok.
+[Przejdź do strony przeznaczonej instalacji Wiimmfi](wiimmfi)<br> Wiimmfi pozwala Ci na granie w gry online po zakończeniu wsparcia serwisu Nintendo Wi-Fi Connection. Jest to opcjonalny krok.
 {: .notice--info}
 
 [Przejdź do strony przeznaczonej instalacji Wiimmfi](wiimmfi)<br> Wiimmfi pozwala Ci na granie w gry online po zakończeniu wsparcia serwisu Nintendo Wi-Fi Connection. Jest to opcjonalny krok.

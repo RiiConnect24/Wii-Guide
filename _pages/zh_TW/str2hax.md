@@ -10,7 +10,7 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 Note that if your ISP or networking environment prevents using custom DNS servers, str2hax will not work and you should [choose another exploit to use](get-started).
 {: .notice--info}
 
-str2hax is an exploit for the Wii that is triggered by loading the Wii's End User License Agreement. It requires nothing but an Internet connection that lets you change the DNS on your Wii. It requires nothing but an Internet connection that lets you change the DNS on your Wii.
+str2hax is an exploit for the Wii that is triggered by loading the Wii's End User License Agreement. It requires nothing but an Internet connection that lets you change the DNS on your Wii. It requires nothing but an Internet connection that lets you change the DNS on your Wii. It requires nothing but an Internet connection that lets you change the DNS on your Wii.
 
 #### What you need
 

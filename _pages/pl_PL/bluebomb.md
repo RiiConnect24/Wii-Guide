@@ -4,7 +4,7 @@ title: "BlueBomb"
 
 {% include toc title="Table of Contents" %}
 
-**zdecydowanie**nie zaleca się stosowanie **dowolnego** poradnika do hakowania konsoli Wii mini ponieważ jest bardzo duża szansa na **bricka**.
+**Zdecydowanie** nie zaleca się stosowanie **żadnego** poradnika wideo do hakowania konsoli Wii Mini, ponieważ jest bardzo duża szansa na **zbrickowanie konsoli**.
 {: .notice--warning}
 
 Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołączy do [serwera Discord dotyczącego przerabiania Wii Mini](https://discord.gg/6ryxnkS)
@@ -36,7 +36,7 @@ Dla oryginalnego Wii, nie zalecamy używania BlueBomb jeśli chcesz zainstalowa�
 1. Pobierz instalator HackMii ze [strony BootMii](https://bootmii.org/download/).
 - (Jeżeli próbujesz naprawić bricka, powinieneś również skopiować aplikację homebrew z której chcesz skorzystać do /apps/)
 1. Wypakuj go oraz skopiuj plik `boot.elf` na Twój pendrive.
-- (Even for a Wii mini, bootmini.elf will **not** work, its purpose is entirely different and unrelated. Use boot.elf in all cases). 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright). 1. Turn on your console and navigate to the settings menu. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+- (Even for a Wii mini, bootmini.elf will **not** work, its purpose is entirely different and unrelated. Use boot.elf in all cases). 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright). (or the right port if it's upright). 1. Turn on your console and navigate to the settings menu. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Uruchom Twoją dystrybucję Linux'a oraz upewnij się, że jesteś podłączony do Internetu.
 1. Włącz konsole oraz **nie** podłączaj żadnych Wii Remote'ów.
 1. Uruchom poniższą komendę:

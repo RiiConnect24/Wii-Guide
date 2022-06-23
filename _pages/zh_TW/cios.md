@@ -4,14 +4,14 @@ title: "cIOS"
 
 {% include toc title="Table of Contents" %}
 
-This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS. This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
+This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS. This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS. This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
 
 ![d2x cIOS Installer](/images/cios/cIOS.png)
 
-If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
+If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work. Attempting to install any other cIOS on vWii won't work.
 {: .notice--info}
 
-If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
+If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work. Attempting to install any other cIOS on a Wii mini won't work.
 {: .notice--info}
 
 #### What you need
@@ -78,7 +78,7 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 1. Select the game that isn't working.
 1. Click Settings.
 1. Select `Game Load`.
-1. !!crwdP_24_Pdwrc!!Select the game that isn't working. !!crwdP_25_Pdwrc!!Click Settings. !!crwdP_26_Pdwrc!!Select `Game Load`. !!crwdP_27_Pdwrc!!Scroll down to `Game IOS`. !!crwdP_28_Pdwrc!!Enter the IOS slot to use.
+1. 1. Select the game that isn't working. 1. Click Settings. #### What you needSelect `Game Load`. #### InstructionsScroll down to `Game IOS`. ##### Section I - DownloadingEnter the IOS slot to use.
 1. Enter the IOS slot to use.
     - Try using 250 or 251, if 249 doesn't work. !!crwdP_33_Pdwrc!!Press Save and try to load the game.
 1. Press ok and try to load the game.
@@ -86,13 +86,13 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. Select the game that isn't working.
 1. Click the gear icon.
-1. !!crwdP_30_Pdwrc!!Select the game that isn't working. !!crwdP_31_Pdwrc!!Click the gear icon. !!crwdP_32_Pdwrc!!Go to cIOS and use the arrows to select the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work. !!crwdP_29_Pdwrc!!Press ok and try to load the game.
+1. #### TroubleshootingSelect the game that isn't working. ##### Options once completeClick the gear icon. !!crwdP_32_Pdwrc!!Go to cIOS and use the arrows to select the IOS slot to use.
+    - Try using 250 or 251, if 249 doesn't work. ##### Section II - InstallingPress ok and try to load the game.
 1. Press Save and try to load the game.
 </div>
 ##### Options once complete
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install. This is optional to install.
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.

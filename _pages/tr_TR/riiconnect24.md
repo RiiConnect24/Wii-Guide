@@ -76,7 +76,13 @@ Eğer nwc24msg.cfg dosyasını doğru yamalayamadıysanız lütfen [RiiConnect24
 
 ##### Bölüm IV - Bağlanma
 
-Şimdi, DNS’nizi sunucularımıza ayarlayacaksınız. Her ne kadar opsiyonel olda da bunu yapmanız, RiiConnect24 ve Wiimmfi’yi geliştirip bazı özellikleri etkinleştirdiğinden tavsiye edilir.
+{% capture notice-1 %}
+Starting June 16th, 2022 the RiiConnect24 DNS changes. Read more: [here.](riiconnect24-dns-update)
+{% endcapture %}
+
+<div class="notice--warning">{{ notice-1 | markdownify }}</div>
+
+You will now set your DNS to our servers. This is optional but it's recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
 
 1. `Wii Options` kısmına gidin.
 2. `Wii Settings` kısmına gidin.
@@ -85,8 +91,8 @@ Eğer nwc24msg.cfg dosyasını doğru yamalayamadıysanız lütfen [RiiConnect24
 5. Mevcut bağlantınızı seçin.
 6. `Change Settings` kısmına gidin.
 7. `Auto-Obtain DNS` kısmına (IP Address kısmına değil) gidip `No’yu` seçin, ardından `Advanced Settings` kısmına gidin.
-8. Birincil DNS’i ` 164.132.44.106` olarak girin.
-9. İkincil DNS’i `1.1.1.1` olarak girin (problem çıkarsa, bu sefer `8.8.8.8` olarak girin).
+8. Type in `167.86.108.126` as the primary DNS.
+9. Type in `1.1.1.1` as the secondary DNS.
 10. Önce `Confirm’i` ardından da `Save’i` seçin.
 11. Bağlantı testi yapmak için `OK’i` seçin.
 12. Eğer bağlantı testi başarılıysa `No’yu` seçip Wii Sistem Güncellemesi’ni geçin.
@@ -95,10 +101,10 @@ Eğer nwc24msg.cfg dosyasını doğru yamalayamadıysanız lütfen [RiiConnect24
 15. `Slot Illumination` kısmında, disk ışığını `Dim` ya da `Bright` yapmanızı her ne kadar tavsiye etsek de bu opsiyoneldir.
 16. Son olarak, önce `Internet` ardından `User Agreements` veya `Agreement/Contact` kısmına gidip `Yes` deyin. Lütfen bunu baştan sona okuyun.
 
-[Wiimmfi’den devam edin](wiimmfi)<br> Wiimmfi, Nintendo Wi-Fi Connection’ın durdurulmasından sonra bile çevrimiçi oyunları oynayabilmenize olanak sağlar. Bunu yüklemek opsiyoneldir.
+[Wiimmfi’den devam edin](wiimmfi)<br> Wiimmfi, Nintendo Wi-Fi Connection durdurulmasından sonra bile çevrimiçi oyunları oynayabilmenize olanak sağlar. Bunu yüklemek opsiyoneldir.
 {: .notice--info}
 
-[WiiLink’ten devam edin](wiilink)<br> WiiLink, Wii no Ma ve Digicam Print Channel gibi durdurulmuş Japon kanallarına yeniden erişebilmenizi sağlar. Bunu yüklemek opsiyoneldir.
+[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. Bunu yüklemek opsiyoneldir.
 {: .notice--info}
 
 [Site haritasından devam edin](site-navigation)<br> Sevebileceğiniz pek çok öğreticiye daha sahibiz.
