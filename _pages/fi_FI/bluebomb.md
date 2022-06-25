@@ -4,7 +4,7 @@ title: "BlueBomb"
 
 {% include toc title="Sisällysluettelo" %}
 
-It is **strongly** advised against using **any** video guide for hacking your Wii mini console, as there is an extremely large chance of **bricking** it.
+Se on **todella** suositeltua että **et** noudattaisi **mitään** video ohjestusta joka ohjeistaa miten hackata sinun Wii mini konsoli, sillä siinä on todella iso mahdollisuus että **brickaat** sen.
 {: .notice--warning}
 
 Jos tarvitset apua jonkin tähän oppaaseen liittyvän kanssa, liity [Wii mini Hacking Discord-palvelimelle](https://discord.gg/6ryxnkS) (suositeltavaa)
@@ -12,14 +12,14 @@ Jos tarvitset apua jonkin tähän oppaaseen liittyvän kanssa, liity [Wii mini H
 
 ![BlueBomb](/images/bluebomb.png)
 
-BlueBomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Although it is the only exploit that works for the Wii mini, BlueBomb can run on the original Wii as well. This exploit also enables recovery from certain bricks, such as a banner brick.
+BlueBomb on exploit, joka käyttää hyödykseen virhettä Wiin ja Wii minin Bluetooth-kirjastoissa. Vaikka se onkin ainut Wii minillä toimiva exploit, BlueBombia voidaan käyttää myös alkuperäisellä Wiillä. Tämä exploitti myös mahdollistaa tiettyjen brickauksen korjaamisen, kuten banner brickin.
 
-For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
+Emme suosittele BlueBombia käytettävän alkuperäisellä Wiillä, jos tarkoituksenasi on asentaa Homebrew Channel ja BootMii, sillä on olemassa käytännöllisempiä exploiteja.
 {: .notice--info}
 
 #### Osa I - Mitä tarvitset
 - Linux-tietokone
-  - A Virtual Machine may work, but it is not recommended due to its complexity in getting Bluetooth passthrough working. If possible, please use a LiveUSB as described below.
+  - Virtuaalikone voi toimia, mutta se ei ole suositeltavaa, koska sen kanssa Bluetooth yhteyden aikaan saaminen on hyvin monimutkaista. If possible, please use a LiveUSB as described below.
   - If you have a Raspberry Pi, you can use that instead as it most likely has Linux installed already.
   - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports.
   - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
