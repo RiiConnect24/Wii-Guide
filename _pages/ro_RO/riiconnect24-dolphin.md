@@ -59,13 +59,16 @@ Dacă alegi să-l rulezi la pornire, nu trebuie să faci nimic. Dacă vrei să-l
 </div>
 
 <div id="unix" class="blanktabcontent" markdown="1">
+The screenshots in this section are taken from Windows, but the same steps can be followed on your Unix-based machine.
+{: .notice--info}
+
 1. Rulează `VFF-Downloader-for-Dolphin.sh`. ![Meniul Principal](/images/Dolphin_RC24/2.jpg)
 3. Continuă cu configurarea programului.
 4. Te va întreba dacă vrei să rulezi programul manual de fiecare dată când vrei să folosești RiiConnect24 pe Dolphin sau dacă vrei să-l rulezi automat la pornire. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
 ![Run once](/images/Dolphin_RC24/4.jpg)
-Dacă alegi să-l rulezi manual, păstrează `VFF-Downloader-for-Dolphin.sh`. Va exista o opțiune în meniu să-l rulezi manual.
+If you choose to manually run it, keep `VFF-Downloader-for-Dolphin.sh`. There will be an option in menu to manually run it.
 {: .notice--info}
-Dacă alegi să-l rulezi la pornire, nu trebuie să faci nimic. Dacă vrei sa-l dezinstalezi în viitor, revino la `VFF-Downloader-for-Dolphin.sh` și alege - Manage startup VFF Downloader.
+Dacă alegi să-l rulezi la pornire, nu trebuie să faci nimic. If you want to uninstall it in the future, come back to `VFF-Downloader-for-Dolphin.sh` and choose - Manage startup VFF Downloader.
 {: .notice--info}
 5. Rulează `RiiConnect24Patcher.sh`.
 6. Începe patcher-ul și alege `Install RiiConnect24`. ![Select Custom](/images/Dolphin_RC24/5.jpg)
