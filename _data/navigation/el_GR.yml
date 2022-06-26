@@ -43,13 +43,13 @@ sidebar_pages:
     url: /
   - 
     title: Συχνές ερωτήσεις
-    url: συχνές ερωτήσεις
+    url: faq
   - 
     title: Δωρεές
     url: donations
   - 
     title: Ευχαριστίες
-    url: ευχαριστίες
+    url: credits
   - 
     title: RiiConnect24
     url: riiconnect24
