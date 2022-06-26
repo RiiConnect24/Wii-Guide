@@ -21,13 +21,13 @@ Ecco una lista di cose che dovresti e non dovresti fare una volta moddata la tua
 - **NON** Installare nessun IOS o Menù Wii su una Wii Mini a meno che non sia [d2xl cIOS](cios-mini). Così facendo romperesti la tua console se una scheda Wi-Fi non è saldata alla console.
 - **NON** utilizzare nessun rimpiazzo per la Nintendo Wi-Fi Connection oltre a [Wiimmfi](wiimmfi). Sfortunatamente, i server degli altri rimpiazzi sono vulnerabili a un exploit che romperebbe la tua Wii se li utilizzassi. [RiiConnect24](riiconnect24) è sicuro da utilizzare anch'esso.
 
-Se segui queste linee guida, non dovrai preoccuparti di rompere la tua Wii. Wii modding is safe, and bricks usually occur due to something done by the user that is on this list.
+Se segui queste linee guida, non dovrai preoccuparti di rompere la tua Wii. Moddare la Wii è sicuro, e la console si rompe solo a causa di qualcosa fatto dall'utente che è presente in questa lista.
 
-Continue to installing cIOS<br> cIOS are used to play games with a USB Loader. It's also useful for many other homebrew apps.
+Continua per installare cIOS<br> cIOS sono usati per giocare a dei giochi attraverso un Loader USB. È anche utile per molte altre app homebrew.
 {: .notice--info}
 
-If using a regular Wii, follow [this guide](cios) to install cIOS.
+Se utilizzi una Wii normale, segui [questa guida](cios) per installare cIOS.
 {: .notice--info}
 
-If using a Wii mini, follow [this guide](cios-mini) to install cIOS
+Se stai usando una Wii Mini, segui [questa guida](cios-mini) per installare cIOS
 {: .notice--info}
