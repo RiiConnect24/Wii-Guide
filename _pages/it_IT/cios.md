@@ -75,7 +75,7 @@ Sebbene la maggior parte dei giochi dovrebbe funzionare direttamente con le opzi
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
-1. !!crwdP_30_Pdwrc!!Seleziona il gioco che non funziona.
+1. Seleziona il gioco che non funziona.
 1. Clicca su Settings.
 1. ##### Sezione 1 - ScaricareSeleziona `Game Load`.
 1. ##### Sezione 2 - InstallareScorri fino a `Game IOS`.
