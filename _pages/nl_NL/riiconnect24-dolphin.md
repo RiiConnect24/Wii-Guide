@@ -59,6 +59,9 @@ If you choose to run it on startup, you don't have to do anything. If you want t
 </div>
 
 <div id="unix" class="blanktabcontent" markdown="1">
+The screenshots in this section are taken from Windows, but the same steps can be followed on your Unix-based machine.
+{: .notice--info}
+
 1. Run `VFF-Downloader-for-Dolphin.sh`. ![Hoofdmenu](/images/Dolphin_RC24/2.jpg)
 3. Proceed with the program configuration.
 4. It will ask you if you want to run the program manually every time you want to use RiiConnect24 on Dolphin or if you want to run it automatically on startup. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
