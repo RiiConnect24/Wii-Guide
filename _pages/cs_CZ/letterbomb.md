@@ -10,7 +10,7 @@ Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte s
 LetterBomb je exploit pro Wii, který využívá zranitelnosti ve Wii Message Board.
 
 #### Co budete potřebovat
-- An SD card that is no more than 32GB in size
+- SD kartu o velikosti nejvýše 32GB
 - Wii s verzí firmwaru 4.3
 
 #### Pokyny
