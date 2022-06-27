@@ -17,16 +17,16 @@ LetterBomb je exploit pro Wii, který využívá zranitelnosti ve Wii Message Bo
 
 
 1. Na svém Wii přejděte do `Wii Settings` -> `Internet` -> `Console Information` a zapište si zobrazenou MAC adresu.
-1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, ensure `Bundle the HackMii Installer for me!` is checked, and cut either wire. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
+1. Navštivte [please.hackmii.com](https://please.hackmii.com), zadejte zjištěnou MAC adresu a region vaší konzole, vyplňte CAPTCHu, zajistěte, aby byla možnost `Bundle the HackMii Installer for me!` zafajfknuta a "přeřízněte" jeden z drátů. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
 1. Stažený ZIP rozbalte do kořenového adresáře vaší SD karty.
-1. Take out your SD card and insert it in your Wii.
-   - The SD card must be inserted in the SD card slot located in the front of the Wii. Using a USB adapter plugged into the Wii's USB port will not work.
+1. SD kartu vyjměte a vložte ji do vašeho Wii.
+   - SD karta musí být vložena do SD slotu umístěného na přední straně Wii. SD adapér vložený do USB slotu nebude fungovat.
 1. Na Wiičku přejděte do Wii Menu a otevřete Wii Message Board.
 1. Otevřete červenou obálku s ikonkou bomby.
-   - Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
-   - In various scenarios, you may need to look at the previous or next day to find it.
-   - If you don't see the red letter, you may be using an unsupported SD card that's greater than 32GB in size.
-   - If your Wii freezes after clicking on the letter, you probably chose the wrong region when downloading the exploit. Redo Step 2 and select the correct region.
+   - Také se ujistěte, že máte na vašem Wii správně nastavené datum a čas, jinak se může stát, že červenou obálku nenajdete.
+   - Někdy se může stát, že červenou obálku najdete na stránce předešlého nebo následujícího dne.
+   - Pokud nevidíte červenou obálku, možná používáte nepodporovanou SD kartu o velikosti větší než 32GB.
+   - Pokud vaše Wii po kliknutí na obálku zamrzne, nejspíše jste zvolili špatný region při stahování exploitu. Opakujte krok 2 a vyberte správný region.
 
 
 {: .notice--warning}
