@@ -21,18 +21,18 @@ Il [Canale Open Shop](https://oscwii.org/) è dove puoi andare per ottenere app 
 
 #### Applicazioni consigliate
 
-Here are some recommended apps that you can get on the Open Shop Channel:
+Ecco delle applicazioni consigliate che puoi ottenere sul Canale Open Shop:
 
-- [CleanRip](https://oscwii.org/library/app/CleanRip) - This is a tool to dump Wii and GameCube games. See [our page](dump-games) for more details.
-- [GCMM](https://oscwii.org/library/app/gcmm) - This is a GameCube memory card manager for your Wii.
-- [MyMenuify Mod](https://oscwii.org/library/app/mymenuifymod) - This is a tool to install themes for your Wii Menu. See [our page](themes) for instructions on how to use it.
-- [Nintendont](https://oscwii.org/library/app/nintendont) - This is a GameCube game loader for your Wii. For more information, please see [this GBAtemp thread](https://gbatemp.net/threads/nintendont.349258/).
-- [SaveGame Manager GX](https://oscwii.org/library/app/savegame_manager_gx) - This is a save manager for your Wii. It allows you to copy save files and Miis to and from your Wii.
-- [USB Loader GX](https://oscwii.org/library/app/usbloader_gx) - This is a USB Loader for your Wii. See [our page](usbloadergx) for instructions on how to use it.
-- [WiiFlow Lite](https://oscwii.org/library/app/wiiflow) - This is another USB Loader for your Wii. See [our page](wiiflow) for instructions on how to use it.
-- [WiiMC-SS](https://oscwii.org/library/app/wiimc-ss) - This is a media player for your Wii. It supports movies, music, photos, radio stations, YouTube, and more.
-- [WiiXplorer-SS](https://oscwii.org/library/app/wiixplorer-ss) - This is a file manager for your Wii. It lets you access your files on your SD Card, USB Device, and more.
-- [YABDM](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod) - This is a tool to dump content installed on your Wii to WAD files. See [our page](dump-wads) for instructions on how to use it.
+- [CleanRip](https://oscwii.org/library/app/CleanRip) - Questo è un tool per dumpare i giochi Wii e GameCube. Visita[la nostra pagina](dump-games) per più dettagli.
+- [GCMM](https://oscwii.org/library/app/gcmm) - Questo è un manager di memory card per GameCube per la tua console Wii.
+- [MyMenuify Mod](https://oscwii.org/library/app/mymenuifymod) - Questo è un tool per installare temi per il tuo Menu Wii. Visita [la nostra pagina](themes) per istruzioni su come usarlo.
+- [Nintendont](https://oscwii.org/library/app/nintendont) - Questo è un game loader per la tua Wii. Per maggiori informazioni, vedi [questo thread GBAtemp](https://gbatemp.net/threads/nintendont.349258/).
+- [SaveGame Manager GX](https://oscwii.org/library/app/savegame_manager_gx) - Questo è un manager dei salvataggi per la tua Wii. Ti permette di copiare i file di salvataggio e Mii alla e dalla tua Wii.
+- [USB Loader GX](https://oscwii.org/library/app/usbloader_gx) - Questo è un USB Loader per la tua Wii. Visita [la nostra pagina](usbloadergx) per istruzioni su come usarlo.
+- [WiiFlow Lite](https://oscwii.org/library/app/wiiflow) - Questo è un altro USB Loader per la tua Wii. Visita [la nostra pagina](wiiflow) per istruzioni su come usarlo.
+- [WiiMC-SS](https://oscwii.org/library/app/wiimc-ss) - Questo è un lettore multimediale per la tua Wii. Supporta film, musica, foto, stazioni radio, YouTube, e altro ancora.
+- [WiiXplorer-SS](https://oscwii.org/library/app/wiixplorer-ss) - Questo è un manager di file per la tua Wii. Ti permette di accedere ai tuoi file sulla scheda SD, sul dispositivo USB e altro ancora.
+- [YABDM](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod) - Questo è un tool per dumpare i contenuti installati nella tua Wii su file WAD. Visita [la nostra pagina](dump-wads) per istruzioni su come usarlo.
 
 [Continua a RiiConnect24](riiconnect24)<br> RiiConnect24 ti permette di usare servizi di WiiConnect24 che sono discontinuati, come i canali News, Forecast, Everybody Votes, Nintendo, Check Mii Out e anche Wii Mail. L'installazione di RiiConnect24 è facoltativa.
 {: .notice--info}
@@ -40,8 +40,8 @@ Here are some recommended apps that you can get on the Open Shop Channel:
 [Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
 {: .notice--info}
 
-Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
+Insieme al download di Hombrew Browser è inclusa una guida su come usare Homebrew Browser.
 {: .notice--info}
 
-You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
+Puoi scambiare ShopChannel.ogg con loop.ogg in `/apps/homebrew_browser/` per far sì che l'Homebrew Browser riproduca la musica del Canale Wii Shop.
 {: .notice--info}
