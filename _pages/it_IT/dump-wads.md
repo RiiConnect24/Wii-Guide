@@ -4,7 +4,7 @@ title: "Copiare WADs"
 
 {% include toc title="Table of Contents" %}
 
-Se hai bisogno di qualsiasi informazione riguardante questo tutorial, entra nel [server discord di RiiConnect24 ](https://discord.gg/rc24)(raccomandato) oppure [scrivici una mail a support@riconnect24.net](mailto:support@riiconnect24.net).
+Se hai bisogno di qualsiasi informazione riguardante questo tutorial, entra nel [server discord di RiiConnect24 ](https://discord.gg/rc24)(consigliato) oppure [scrivici una mail a support@riconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Questo Tutorial spiegherà come copiare WADs dalla Memora del tuo Sistema Wii.
@@ -16,7 +16,7 @@ Questo Tutorial spiegherà come copiare WADs dalla Memora del tuo Sistema Wii.
 #### Istruzioni
 ##### Sezione 1 - Scaricando/Installando
 
-1. Extract Yet Another BlueDump MOD to your SD card or USB drive.
+1. Estrai Yet Another BlueDump MOD sulla tua scheda SD o chiavetta USB.
 2. Inserisci la tua scheda SD o chiavetta USB nella tua Wii, e carica Yet Another BlueDump MOD dall'Homebrew Channel.
 
 ##### Sezione 2 - Copiare
