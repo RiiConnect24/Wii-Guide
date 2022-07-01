@@ -19,7 +19,7 @@ Il [Canale Open Shop](https://oscwii.org/) è dove puoi andare per ottenere app 
 1. Estrai l'Homebrew Browser e mettilo nella cartella `apps` sulla tua scheda SD o dispositivo USB.
 2. Inserisci la tua scheda SD o dispositivo USB dentro la tua Wii. Ora puoi caricare l'Homebrew Browser dall'Homebrew Channel se vuoi.
 
-#### Recommended Apps
+#### Applicazioni consigliate
 
 Here are some recommended apps that you can get on the Open Shop Channel:
 
