@@ -62,18 +62,18 @@ If you choose to run it on startup, you don't have to do anything. If you want t
 The screenshots in this section are taken from Windows, but the same steps can be followed on your Unix-based machine.
 {: .notice--info}
 
-1. Run `VFF-Downloader-for-Dolphin.sh`. ![Hauptmenü](/images/Dolphin_RC24/2.jpg)
+1. Starte die `VFF-Downloader-for-Dolphin.sh`. ![Hauptmenü](/images/Dolphin_RC24/2.jpg)
 3. Fahre mit der Einrichtung des Programms fort.
 4. It will ask you if you want to run the program manually every time you want to use RiiConnect24 on Dolphin or if you want to run it automatically on startup. ![Wähle, wie das Programm gestartet werden soll](/images/Dolphin_RC24/3.jpg)
-![Run once](/images/Dolphin_RC24/4.jpg)
+![Einmal ausführen](/images/Dolphin_RC24/4.jpg)
 If you choose to manually run it, keep `VFF-Downloader-for-Dolphin.sh`. There will be an option in menu to manually run it.
 {: .notice--info}
 If you choose to run it on startup, you don't have to do anything. If you want to uninstall it in the future, come back to `VFF-Downloader-for-Dolphin.sh` and choose - Manage startup VFF Downloader.
 {: .notice--info}
-5. Run `RiiConnect24Patcher.sh`.
-6. Start the patcher, select `Install RiiConnect24`. ![Select Custom](/images/Dolphin_RC24/5.jpg)
-7. Select `Custom`. ![Wähle den Mii-Wettbewerbskanal](/images/Dolphin_RC24/6.jpg)
-8. Press `1` to select your region and only enable 5th option. Press `6` to start patching.
+5. Starte die `RiiConnect24Patcher.sh`.
+6. Starte den Patcher und wähle `Install RiiConnect24`. ![Wähle Custom](/images/Dolphin_RC24/5.jpg)
+7. Wähle `Custom`. ![Wähle den Mii-Wettbewerbskanal](/images/Dolphin_RC24/6.jpg)
+8. Drücke `1` um deine Region zu wählen und aktiviere nur die 5. Option. Drücke `6` um den Patchvorgang zu starten.
 9. After it's done, there will a be a `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` file in WAD folder next to `RiiConnect24Patcher.sh`
 10. In Dolphin, press `Tools` and then `Install WAD`, and select the `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
 </div>
