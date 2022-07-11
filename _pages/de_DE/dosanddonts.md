@@ -1,5 +1,5 @@
 ---
-title: "Mach und Mach nichts von Wii Modding"
+title: "Handlungsempfehlungen beim Wii Modding"
 ---
 
 {% include toc title="Inhaltsverzeichnis" %}
@@ -19,15 +19,15 @@ Hier ist eine Liste der Dinge, die du tun solltest und solltest nicht tun, sobal
 - **NICHT** zufällige Dateien in der Wii NAND ändern, umbenennen oder löschen, außer du weißt, was du tust.
 - **NICHT** die Homebrew App "KoreanKii" auf einer nicht-koreanischen Wii verwenden.
 - **NICHT** Irgend ein IOS oder Wii Menu auf einer Wii Mini installieren, außer [d2xl cIOS](cios-mini). Dies wird deine Konsole bricken, wenn eine Wlan-Karte nicht an sie verlötet wird.
-- Unfortunately, other replacement servers are vulnerable to an exploit that can brick your Wii if you use them. **DO NOT** use any Nintendo Wi-Fi Connection replacement on your Wii except for [Wiimmfi](wiimmfi). [RiiConnect24](riiconnect24) ist ebenfalls sicher zu benutzen.
+- Unfortunately, other replacement servers are vulnerable to an exploit that can brick your Wii if you use them. Leider sind andere Ersetzungsserver anfällig für einen Exploit, der deine Wii bricken kann, wenn du sie benutzt. [RiiConnect24](riiconnect24) ist ebenfalls sicher zu benutzen.
 
 Wenn du diesen Richtlinien folgst, musst du dir keine Sorgen um das Bricken deiner Wii machen. Wii-Modding ist sicher, und Bricks treten in der Regel auf, weil der Benutzer etwas getan hat, das auf dieser Liste steht.
 
-Continue to installing cIOS<br> cIOS are used to play games with a USB Loader. Es ist auch nützlich für viele weitere Homebrew-Anwendungen.
+Fahre fort mit der Installation von cIOS<br> cIOS werden genutzt, um mit einem USB-Loader Spiele zu spielen. Es ist auch nützlich für viele weitere Homebrew-Anwendungen.
 {: .notice--info}
 
 Wenn du eine normale Wii nutzt, folge [dieser Anleitung](cios), um cIOS zu installieren.
 {: .notice--info}
 
-Wenn du eine Wii Mini nutzt, folge [diesem Guide](cios-mini), um cIOS zu installieren
+Wenn du eine Wii mini nutzt, folge [dieser Anleitung](cios-mini), um cIOS zu installieren
 {: .notice--info}
