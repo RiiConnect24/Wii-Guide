@@ -13,8 +13,8 @@ Si vous avez besoin d'aide concernant ce tutoriel, veuillez contacter directemen
 
 ### Ce dont vous avez besoin
 
-* A computer with either Windows 7 or newer or any Unix-based system
-* [.VFF-File-Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases) if using a Unix-based system
+* Un ordinateur avec Windows 7 ou une version plus récente ou tout système basé sur Unix
+* [.VFF-File-Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases) si vous utilisez un système basé sur Unix
 * [Dolphin](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
@@ -25,22 +25,22 @@ Si vous avez besoin d'aide concernant ce tutoriel, veuillez contacter directemen
 Si Dolphin est déjà installé, allez directement à la Section II
 {: .notice--info}
 
-1. Download the latest Dolphin beta version, but **not a stable version as these are very outdated!**
+1. Téléchargez la dernière version bêta de Dolphin, mais **pas une version stable car elle est très obsolète !**
 2. Décompressez le fichier .7z en utilisant un programme comme 7Zip ou WinRAR.
-3. Start Dolphin.
-4. Press on `Tools` -> `Perform Online System Update` -> Choose your region. ![Perform Online System Update](/images/Dolphin_RC24/1.jpg)
+3. Lancez Dolphin.
+4. Appuyez sur `Outils` -> `Effectuer une mise à jour du système en ligne` -> Choisissez votre région. ![Perform Online System Update](/images/Dolphin_RC24/1.jpg)
 
-If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii) instead of installing the Wii System menu via this method. See [this page](https://wiki.dolphin-emu.org/index.php?title=NAND_Usage_Guide) for more information.
+Si vous avez une console Wii hacké, vous pouvez utiliser un [vidage BootMii NAND](bootmii) au lieu d'installer le menu Système Wii via cette méthode. Voir [cette page](https://wiki.dolphin-emu.org/index.php?title=NAND_Usage_Guide) pour plus d'informations.
 {: .notice--info}
 
-##### Section II - Installing RiiConnect24
+##### Section II - Installation de RiiConnect24
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'windows')">Windows</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'unix')">Unix</button>
 
 <div id="windows" class="blanktabcontent" markdown="1">
-1. Run `RiiConnect24Patcher.bat`.
-2. Start the patcher (by pressing `1`), then select `Install RiiConnect24`.
+1. Exécutez `RiiConnect24Patcher.bat`.
+2. Démarrez le patcher (en appuyant sur `1`), puis sélectionnez `Install RiiConnect24`.
 3. Select `Dolphin Emulator` (3).
 4. Select `Install RiiConnect24 on your Dolphin Emulator`.
 5. Press `1` and `Enter` to start the program.
