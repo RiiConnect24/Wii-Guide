@@ -7,9 +7,9 @@ title: "Wii上的RiiTag"
 如果你需要有关本教程的任何帮助, 请加入[RiiConnect24 Discord服务器](https://discord.gg/rc24) (推荐)或 [发送电子邮件到 support@riiconnect24.net](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
-RiiTag是一个可自定义的动态游戏标签。 通过分享您的游戏标签(动态图片)，您可以向您的朋友展示您正在玩的游戏! 您需要将其连接到USB Loader并且及时更新标签。 您需要Discord账号才能使用RiiTag。
+RiiTag是一个可自定义的动态游戏标签。 通过分享您的游戏标签(动态图片)，您可以向您的朋友展示您正在玩的游戏! 您需要将其连接到USB Loader并且及时更新标签。 您需要将其连接到USB Loader并且及时更新标签。 您需要Discord账号才能使用RiiTag。
 
-想在Wii U上安装RiiTag? 请看[此指南](riitag-wiiu)以了解如何连接到Wii U。
+您可以将RiiTag channel安装到Wii。 启动后，它将打开Internet Channel并显示RiiTag，使用Wii时可以轻松查看。
 {: .notice--info}
 
 #### 你需要的是
@@ -29,7 +29,7 @@ RiiTag是一个可自定义的动态游戏标签。 通过分享您的游戏标�
 5. 点击`Show Key` 并记下Key。 如果使用USB Loader GX则不需要，因为key是可下载文件。
 6. 点击`Submit`保存更改。
 
-不要与任何人分享RiiTag key! 如果你这样做，人们可以滥用你的标签。
+不要与任何人分享RiiTag key! 如果你这样做，人们可以滥用你的标签。 如果你这样做，人们可以滥用你的标签。
 {: .notice--warning}
 
 ##### 第二节 - 连接到USB Loader
@@ -51,7 +51,7 @@ RiiTag是一个可自定义的动态游戏标签。 通过分享您的游戏标�
 ###### WiiFlow
 
 1. 将存放有WiiFlow数据的SD卡或U盘插入电脑。
-2. 用文本编辑器打开`/apps/wiiflow/wiiflow.ini`。 (如果使用WiiFlow Lite，路径是`wiiflow_lite`而不是 `wiiflow`。)
+2. 用文本编辑器打开`/apps/wiiflow/wiiflow.ini`。 (如果使用WiiFlow Lite，路径是`wiiflow_lite`而不是 `wiiflow`。 )
 3. 搜索`gamercards`并将其替换为`gamercards=wiinnertag`。
 4. 搜索`wiinnertag_url`并将其替换为`wiinnertag_url=https://tag.rc24.xyz/wii?game={ID6}&key={KEY}`。
 5. 搜索`wiinnertag_key`并将其替换为`wiinnertag_key=<key>`, 将`<key>`替换为第一节中的key。
@@ -86,7 +86,7 @@ RiiTag支持Dolphin,、Citra和Cemu。 您需要Discord账号才能工作。
 
 #### RiiTag Channel
 
-您可以将RiiTag channel安装到Wii。 启动后，它将打开Internet Channel并显示RiiTag，使用Wii时可以轻松查看。
+想在Wii U上安装RiiTag? 请看[此指南](riitag-wiiu)以了解如何连接到Wii U。 启动后，它将打开Internet Channel并显示RiiTag，使用Wii时可以轻松查看。
 {: .notice--info}
 
 1. 登陆RiiTag并转到个人主页。

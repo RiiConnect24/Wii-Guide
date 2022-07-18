@@ -27,7 +27,7 @@ Erstelle KEINE Verknüpfung zu den Spielen "Mario Party 9" oder "A Boy and His B
 
 1. Installiere WiiGSC, mache einen Rechtsklick darauf und wähle **Als Administrator ausführen**. Falls du das nicht tust, zeigt WiiGSC, wenn du es öffnest, einen Fehler an.
 2. Wähle den Pfad zur ISO- oder WBFS-Datei auf deinem USB-Laufwerk, und wähle den USB-Loader den du verwenden möchstest. Die anderen Einträge sollten, so wie sie sind, in Ordnung sein.
-3. If you're using USB Loader GX, make sure to use [this version](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip).
+3. Wenn du den USB Loader GX verwendest, stelle sicher, dass du [diese Version](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip) verwendest.
 4. Installiere die generierte WAD mit einem WAD-Manager, wir empfehlen Wii Mod Lite.
 
 Falls du den Fehler "The system files are corrupted" bekommst, gerate nicht in Panik, solange du Priiloader installiert hast. Schalte deine Wii aus und halte dann die RESET-Taste, während du deine Wii anschaltest. Du solltest nun im Priiloader-Menü landen, wo du einige Möglichkeiten hast, um dein Wii-Menü zu reparieren. Eine der Möglichkeiten ist den Hombrew-Kanal zu starten.

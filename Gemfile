@@ -1,6 +1,10 @@
 source "https://rubygems.org"
-gem "jemoji", "~> 0.8"
-gem "jekyll-redirect-from", "~>0.16"
-gem "kramdown-parser-gfm", "~>1.1"
-gem "webrick", "~>1.7"
+
+gem "jekyll", "~> 3.9"
+gem "jekyll-sitemap", "~> 1.4"
+gem "jekyll-gist", "~> 1.5"
+gem "jekyll-feed", "~> 0.16.0"
+gem "jekyll-data", "~> 1.1"
+gem "kramdown-parser-gfm", "~> 1.1"
+gem "webrick", "~> 1.7"
 gemspec

@@ -9,9 +9,9 @@ Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [Rii
 
 ![Wiimmfi-Logo](/images/WiiWiimmfiLogo.jpg)
 
-[Wiimmfi](https://wiimmfi.de) ist ein Ersatz für die jetzt abgeschaltete Nintendo Wi-Fi Connection. Es wurde von Wiimm und Leseratte entwickelt.
+[Wiimmfi](https://wiimmfi.de) ist ein Ersatzservice für die eingestellte Nintendo Wi-Fi Connection. Er wurde gemeinsam von Wiimm und Leseratte entwickelt.
 
-If you get the error 23904 while connecting to Wiimmfi, then you are using an outdated patch.<br> Follow the steps below for the method you're using to connect to Wiimmfi again.<br> See [this page](https://wiimmfi.de/update) for more details.<br>
+Wenn du den Fehler 23904 beim Verbinden mit Wiimmfi erhältst, verwendest du einen veralteten Patch.<br> Befolge die nachstehenden Schritte, um eine Methode auszuwählen, mit der du dich erneut mit Wiimmfi verbindest.<br> Auf [dieser Seite](https://wiimmfi.de/update) erhälst du dazu mehr Details.<br>
 {: .notice--warning}
 
 ## Verschiedene Patcher
@@ -75,7 +75,7 @@ Du möchtest vielleicht nicht jedes Mal einen Patcher ausführen, wenn du über 
 - Eine Kopie von deinem Spiel (WBFS, ISO, cISO, und andere Formate, die von deiner Wii unterstützt werden).
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows und Unix)  
   **oder**
-- [Wiimmfi-Patcher (plattformübergreifend)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
+- [Wiimmfi Patcher (plattformübergreifend)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
 - Ein USB-Loader, [cIOS](cios), und ein USB-Laufwerk um dein Spiel darauf zu sichern (dieses solltest du bereits besitzen wenn du einen USB-Loader verwendest)
 
 #### Anleitung
@@ -93,7 +93,7 @@ Du kannst WiiWare-Spiele patchen, um sie über Wiimmfi zu spielen.
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows und Unix)  
   **oder**
 - [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (plattformübergreifend)
-- [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+- [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 [Wenn du sehen möchtest wie man den WiiWare Patcher nutzt, klicke hier!](wiiwarepatcher)
 {: .notice--info}
@@ -141,8 +141,8 @@ Ein WLAN-Netzwerk mit WEP oder ohne Verschlüsselung zu erstellen ist der schwer
 
 1. Gehe in die Nintendo DS Wi-Fi-Einstellungen. Diese können in dem Spiel aufgerufen werden, das du online spielen möchtest.
 2. Richte eine Verbindung ein.
-3. Gib `164.132.44.106` als primären DNS ein.
-4. Gib `1.1.1.1` als sekundären DNS ein (sollte es Probleme verursachen, versuche `8.8.8.8`).
+3. Setze `167.86.108.126` als primäre DNS-Adresse.
+4. Setze `1.1.1.1` als sekundäre DNS-Adresse.
 5. Speichere deine Verbindungseinstellungen und führe einen Verbindungstest aus. Wenn dieser erfolgreich war, bist du bereit zum Spielen.
 
 ### Mario Kart Wii-Mods
@@ -151,7 +151,7 @@ Ein WLAN-Netzwerk mit WEP oder ohne Verschlüsselung zu erstellen ist der schwer
 MrBean35000vr und Chadderz haben eine Custom-Track-Distribution namens CTGP-R, die es dir erlaubt, einen Sammlung von Custom Tracks zu verwenden und automatisch für Wiimmfi patcht. Gehe zu der [Chadsoft Webseite](http://chadsoft.co.uk) für den Download und die Anleitung.
 
 #### MKW Hack Pack
-PhillyG has put together a collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. Um zu erfahren, wie man es einrichtet, gehe auf die [Wiki-Seite](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+PhillyG hat eine Sammlung von Custom-Tracks und Hacks namens MKW Hack Pack erstellt und die Verbindungen zu Wiimmfi ermöglicht. Um zu erfahren, wie man es einrichtet, gehe auf die [Wiki-Seite](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
 
 #### Wiimms Mario Kart Fun
 Wiimm und Leseratte haben eine Custom Track-Distribution gemacht, die sich "Wiimms MKW Fun" nennt, welche ungefähr drei Mal im Jahr aktualisiert wird. Es basiert auf dem LE-Code-Framework von Leseratte, hat Wiimmfi-Unterstützung und viele weitere Funktionen. Du kannst mehr darüber auf der [Wiki-Seite](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun) erfahren.

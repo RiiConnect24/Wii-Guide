@@ -38,33 +38,15 @@ You can now use the Homebrew Channel to launch homebrew apps. Open Shop Channel 
 
 Here's a tip - when installing homebrew applications on your SD Card or USB drive, your folder structure should look like this:
 
-💾 sd or usb:
-
-┣ 📂 apps
-
-┃ ┣ 📂 AppName1
-
-┃ ┃ ┣ 📄 boot.dol / boot.elf
-
-┃ ┃ ┣ 📄 icon.png
-
-┃ ┃ ┗ 📄 meta.xml
-
-┃ ┗ 📂AppName2
-
-┃ ┃ ┣ 📄 boot.dol / boot.elf
-
-┃ ┃ ┣ 📄 icon.png
-
-┃ ┃ ┗ 📄 meta.xml
+![Proper SD Card Folder Structure](images/Wii/FolderStructure.png)
 
 `AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
 
-[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
-{: . notícia--informació}
+┃ ┣ 📂 AppName1
+┃ ┃ ┣ 📄 boot.dol / boot.elf
 
 If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
-{: . notícia--informació}
+┃ ┃ ┗ 📄 meta.xml
 
-Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
-{: . notícia--informació}
+┃ ┗ 📂AppName2
+┃ ┃ ┣ 📄 boot.dol / boot.elf

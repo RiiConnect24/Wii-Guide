@@ -11,7 +11,7 @@ title: "Wiimmfi"
 
 [Wiimmfi](https://wiimmfi.de)是已停止服务的Nintendo Wi-Fi Connection的替代品。 它由Wiimm和Leseratte开发。
 
-如果您在连接Wiimmfi时得到错误23904，证明您使用的是过时补丁。<br> 按照下列步骤操作以重新连接到Wiimmfi。<br> 看[此页面](https://wiimmfi.de/update)了解更多信息。<br>
+如果您在连接Wiimmfi时得到错误23904，证明您使用的是过时补丁。 <br> 按照下列步骤操作以重新连接到Wiimmfi。 <br> 看[此页面](https://wiimmfi.de/update)了解更多信息。<br>
 {: .notice--warning}
 
 ## 不同的补丁程序
@@ -93,7 +93,7 @@ MrBean35000vr (CTGP-R的作者, 一个马里奥赛车Wii的内容包) 创建了W
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows和Unix)  
   **或**
 - [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (跨平台)
-- [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+- [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 [如果您想知道如何使用WiiWare Patcher，点这里!](wiiwarepatcher)
 {: .notice--info}
@@ -105,8 +105,8 @@ MrBean35000vr (CTGP-R的作者, 一个马里奥赛车Wii的内容包) 创建了W
 
 ## 其它东西
 
-### 马里奥赛车Wii比赛
-Wiimmfi允许您再次参加马里奥赛车Wii比赛。
+### 马里奥赛车Wii大赛
+Wiimmfi允许您再次参加马里奥赛车Wii大赛。
 
 #### 你需要的是
 
@@ -122,27 +122,27 @@ Wiimmfi允许您再次参加马里奥赛车Wii比赛。
 3. 启动原始马里奥赛车Wii(没打Wiimmfi补丁)。
 4. 移动到设置 -> 网络设置 (或 Nintendo WFC Connection) -> 消息服务。 如果您已开启消息服务，请关闭并再次打开。
 5. 启动Mario Kart Wii Competition Patcher。
-6. 补丁将在各个设备查找马里奥赛车Wii的存档并上传它们。 如果您的存档缺失比赛就会修补。 同时也会为Wii修补。
+6. 补丁将在各个储存设备查找马里奥赛车Wii的存档并上传它们。 这会帮助我们找到服务器中缺失的大赛。 当然，它也会为你的Wii打上大赛补丁。
 
-如果您使用Wii U，您需要在每次运行比赛时都运行修补程序，因为Wii U未启用WiiConnect24。
+如果您使用Wii U，您需要在每次进行大赛时都要运行修补程序，因为Wii U没有WiiConnect24。
 {: .notice--info}
 
 ### DS游戏
-Wiimmfi不仅支持Wii游戏，也支持DS游戏。 感谢nds-constraint漏洞，您可以不打补丁就在线玩DS游戏。
+Wiimmfi不仅支持Wii游戏，也支持DS游戏。 使用nds-constraint漏洞，您可以不打补丁就在线玩DS游戏。
 
 #### 你需要的是
 
 - 具有WEP或无安全性的Wi-Fi
 
-获得具有WEP或无安全性的Wi-Fi是教程中最难的部分，因为DS游戏不支持更新的Wi-Fi标准(除非它是少数几个"DSi增强"游戏并且可以在DSi或3DS上使用Wi-Fi，例如宝可梦黑/白)。 然而，许多路由器支持创建访客Wi-Fi或在手机或电脑上创建热点。 网络上有大量关于此问题的信息，使用您喜爱的搜索引擎查找。
+获得具有WEP或无安全性的Wi-Fi是教程中最难的部分，因为DS游戏不支持更新的Wi-Fi标准(除非它是少数几个"DSi增强"游戏并且可以在DSi或3DS上使用Wi-Fi，例如宝可梦黑/白)。 然而，许多路由器支持创建访客Wi-Fi或在手机或电脑上创建热点。 网络上有大量关于此问题的信息，使用您喜爱的搜索引擎查找它们。
 {: .notice--info}
 
 #### 步骤
 
 1. 转到NDS Wi-Fi设置。 这可以在您想玩的游戏中访问。
 2. 设置连接
-3. 将`164.132.44.106`作为主要DNS。
-4. 将`1.1.1.1`作为次要DNS (如果有问题，试`8.8.8.8`)。
+3. 将主要DNS设置为`167.86.108.126`.
+4. 将次要DNS设置为`1.1.1.1`.
 5. 保存连接并进行连接测试。 如果成功，您就可以玩了。
 
 ### 马里奥赛车Wii 模组

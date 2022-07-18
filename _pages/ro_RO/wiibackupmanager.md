@@ -7,7 +7,7 @@ title: "Wii Backup Manager"
 Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Wii Backup Manager este un program care copiază jocuri Wii din calculatorul tău pe o unitate USB ca să poți juca jocurile pe Wii-ul tău. Poate de asemenea să descarce coperte de joc de pe [GameTDB](https://gametdb.com/) și poate fi folosit pentru a enumera ce jocuri ai. Acest tutorial îți va arăta cum să copiezi jocuri de pe calculator în unitatea ta USB. Celelalte funcții pot fi folosite în interfața ușor de utilizat.
+Wii Backup Manager este un program care copiază jocuri Wii din calculatorul tău pe o unitate USB ca să poți juca jocurile pe consola ta. Poate de asemenea să descarce coperte de joc de pe [GameTDB](https://gametdb.com/) și poate fi folosit pentru a enumera ce jocuri ai. Acest tutorial îți va arăta cum să copiezi jocuri de pe calculator în unitatea ta USB. Celelalte funcții pot fi folosite în interfața ușor de utilizat.
 #### De ce ai nevoie
 
 * O unitate USB
@@ -17,10 +17,10 @@ Wii Backup Manager este un program care copiază jocuri Wii din calculatorul tă
 Recomandăm să copiezi jocurile cu [Witgui](https://desairem.com/wordpress/category/witgui-download/) dacă folosești macOS, sau [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) pentru Windows, macOS, și Linux. Wii Backup Manager este compatibil numai cu Windows.
 {: .notice--info}
 
-Pentru a juca mai multe jocuri, recomandăm un hard disk extern USB pentru Wii-ul tău. Îl vom numi ca "unitate USB" în acest ghid. Majoritatea celor pe care le poți găsi pe piață ar trebui să funcționeze bine dacă au compatibilitate cu USB 2. Drive-uri cu capacitate de 1 TB sau mai mult va funcționa. Stick-urile USB vor funcționa, dar din cauza dimensiunii unui stick Usb, nu va putea să stocheze la fel de multe jocuri.
+Pentru a juca mai multe jocuri, recomandăm un hard disk extern USB pentru consola ta. Îl vom numi ca "unitate USB" în acest ghid. Majoritatea celor pe care le poți găsi pe piață ar trebui să funcționeze bine dacă au compatibilitate cu USB 2. Drive-uri cu capacitate de 1 TB sau mai mult va funcționa. Stick-urile USB vor funcționa, dar din cauza dimensiunii unui stick Usb, nu va putea să stocheze la fel de multe jocuri.
 {: .notice--info}
 
-Asigură-te că unitatea USB este formatată ca FAT32 sau NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
+Asigură-te că unitatea USB este formatată ca FAT32 sau NTFS. Nu-l formata ca alte tipuri precum exFAT, extFS sau WBFS, cel dintâi fiind un format vechi pentru stocarea jocurilor Wii.
 {: .notice--info}
 
 #### Instrucțiuni
@@ -40,7 +40,7 @@ Asigură-te că unitatea USB este formatată ca FAT32 sau NTFS. Do not format it
 
 ##### Opțiuni după finalizare
 
-[Continuă la cIOS](cios)<br> cIOS este necesar pentru ca Wii-ul tău să folosească un USB Loader.
+[Continuă la cIOS](cios)<br> cIOS este necesar pentru ca sistemul tău Wii să folosească un USB Loader.
 {: .notice--info}
 
 [Continuă la USB Loader GX](usbloadergx) USB Loader GX este un USB Loader pe care îl poți folosi pentru a juca jocuri pe Wii dintr-o unitate USB.

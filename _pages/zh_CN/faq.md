@@ -13,14 +13,14 @@ title: "FAQ"
 ### SD卡的要求和建议是什么?
 你需要至少128MB的SD卡来运行漏洞。
 
-- 如果你使用BlueBomb、str2hax、或FlashHax 漏洞, 则不需要SD卡。
+- 如果你使用BlueBomb、str2hax、或FlashHax 漏洞则不需要SD卡。
 
 要存储自制软件，我们建议使用至少2GB的SD卡。
 
 ### 我在Wiimmfi中收到错误代码XXXXXX，怎么修复?
-为了检查错误原因，请访问[Wiimmfi错误页面](https://wiimmfi.de/error)。
+为了检查错误原因，请访问[Wiimmfi错误代码查询页面](https://wiimmfi.de/error)。
 
-### Vwii 破解有哪些限制?
+### vWii 破解有哪些限制?
 以下是可能让你的vWii **变砖**的事情(不要做这些!):
 * 在vWii上安装为Wii设计的cIOS。
 * 安装未针对您所在地区的vWii正确格式化的Wii菜单主题。
@@ -28,5 +28,5 @@ title: "FAQ"
 * 安装关键系统/IOS期间出现故障(例如停电)。
 * 在不知道自己干什么的情况下修改vWii NAND。
 
-### 如何删除家长控制?
-[mkey generator](https://mkey.salthax.org) 可以生成删除家长控制所需的代码。
+### 如何移除亲子管理功能？
+[mkey 生成器（英文）](https://mkey.salthax.org) 可生成移除亲子管理功能所需要的代码

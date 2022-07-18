@@ -27,7 +27,7 @@ For the original Wii, we do not recommend using BlueBomb if you intend to instal
     - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
   - You can [flash a Linux Live environment to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
 - Έναν προσαρμογέα Bluetooth.
-  - Ένας ενσωματωμένος προσαρμογέας πιθανών να λειτουργήσει.
+  - Ένας ενσωματωμένος προσαρμογέας πιθανόν να λειτουργήσει.
   - Αν δεν έχετε έναν, προμηθευτείτε έναν συμβατό με Linux.
 - Ένα φλασάκι USB σε μορφή αρχείων FAT32.
   - Δεν γίνεται να είναι το ίδιο στικάκι με αυτό που χρησιμοποιείται στο μηχάνημα Linux.

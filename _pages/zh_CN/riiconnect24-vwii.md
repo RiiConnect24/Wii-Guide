@@ -11,7 +11,7 @@ title: RiiConnect24 vWii 指南
 
 VWii(Wii U上的虚拟Wii)安装[RiiConnect24](https://rc24.xyz)指南:CMOC/MCC、Nintendo Channel、EVC 和 News Channel 以及强制4:3修补。
 
-由于Wii中的部分功能不存在于vWii，我们只能使用有限的RiiConnect24功能。 请查看[什么目前工作](#whats-currently-working)。
+由于Wii中的部分功能不存在于vWii，我们只能使用有限的RiiConnect24功能。 请查看[什么正在工作](#whats-currently-working)。
 {: .notice--warning}
 
 #### 警告
@@ -26,7 +26,7 @@ VWii(Wii U上的虚拟Wii)安装[RiiConnect24](https://rc24.xyz)指南:CMOC/MCC�
 
 * 带互联网和SD卡访问能力的电脑或移动设备。
 * 格式化为FAT32并拥有至少2GB剩余空间的SD卡。 已知格式化为FAT32的SDHC或SDXC卡可以正常工作。
-* 可以启动Homebrew Launcher的Wii U(通过浏览器、HaxChi或Coldboot Haxchi漏洞)。 **如果您没有软破Wii U，请按照[wiiuguide.xyz](https://wiiuguide.xyz)以及[vWii破解指南](https://wiiuguide.xyz/#/vwii-modding)然后回来。**
+* 按照上述步骤操作后， 您几乎可以在Wii U上使用RiiConnect24的全部功能。 您只需在**每次vWii重启后**执行以下步骤。
 * [RiiConnect24 修补程序](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 按照上述链接操作后，您应该:
@@ -65,7 +65,7 @@ VWii(Wii U上的虚拟Wii)安装[RiiConnect24](https://rc24.xyz)指南:CMOC/MCC�
 
 ##### 第四节 - 使用RiiConnect24
 
-按照上述步骤操作后， 您几乎可以在Wii U上使用RiiConnect24的全部功能。 您只需在**每次vWii重启后**执行以下步骤。
+**如果您没有软破Wii U，请按照[wiiuguide.xyz](https://wiiuguide.xyz)以及[vWii破解指南](https://wiiuguide.xyz/#/vwii-modding)然后回来。</p>
 
 1. 在vWii的**Wii菜单**上，启动**ConnectMii** Channel。
 * 这将启用WiiConnect24频道所需的WiiConnect24和待机连接标志。
@@ -73,7 +73,7 @@ VWii(Wii U上的虚拟Wii)安装[RiiConnect24](https://rc24.xyz)指南:CMOC/MCC�
 * 您现在应该能用您安装的所有WiiConnect24频道!
 
 #### 什么在工作?
-以下RiiConnect24服务正在vWii上**工作**:
+以下RiiConnect24服务在vWii上**工作**:
 * News Channel
     * 此频道有时间戳问题。 "上次更新"和文章时间戳将不正确。
     * 横幅数据也无法工作，返回`Unable to obtain data.`
@@ -83,8 +83,8 @@ VWii(Wii U上的虚拟Wii)安装[RiiConnect24](https://rc24.xyz)指南:CMOC/MCC�
 * Check Mii Out Channel / Mii Contest Channel
 {: .notice--success}
 
-以下RiiConnect24服务正在vWii上**不工作**:
-* Wii Mail (大多数功能vWii都没有)
+以下RiiConnect24服务在vWii上**不工作**:
+* Wii Mail (大多数功能vWii没有)
     * 包括向朋友发送/接收邮件。 您只能从RSSMii源接收全球广播和帖子(如果已设置)。
 * 其它不工作的内容在[RiiConnect24状态](https://rc24.xyz/stats/index.html)。
 {: .notice--warning}

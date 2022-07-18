@@ -12,8 +12,9 @@ Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, kontaktiere bitte Kc
 {: .notice--info}
 
 ### Voraussetzungen
-* Ein Computer mit Windows 7 oder neuer oder ein Unix-basiertes System
-* [.VFF-File-Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
+
+* A computer with either Windows 7 or newer or any Unix-based system
+* [.VFF-File-Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases) if using a Unix-based system
 * [Dolphin](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
@@ -24,34 +25,80 @@ Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, kontaktiere bitte Kc
 Falls du Dolphin bereits installiert hast, gehe direkt zu Abschnitt 2 über
 {: .notice--info}
 
-1. Lade die aktuellste Dolphin-Entwicklerversion herunter.
+1. Download the latest Dolphin beta version, but **not a stable version as these are very outdated!**
 2. Entpacke die `.7z`-Datei mit einem Programm wie 7Zip oder WinRAR.
-3. Starte Dolphin
-4. Wähle `Extras`-> `Online-Systemaktualisierung durchführen` -> Wähle dann deine Region ![Starte Online-System-Update](/images/Dolphin_RC24/1.jpg)
+3. Start Dolphin.
+4. Press on `Tools` -> `Perform Online System Update` -> Choose your region. ![Starte Online-System-Update](/images/Dolphin_RC24/1.jpg)
 
-##### Abschnitt 2 - RiiConnect24 installieren.
+If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii) instead of installing the Wii System menu via this method. See [this page](https://wiki.dolphin-emu.org/index.php?title=NAND_Usage_Guide) for more information.
+{: .notice--info}
 
-1. Führe `VFF-Downloader-for-Dolphin.bat` auf Windows oder `VFF-Downloader-for-Dolphin.sh` auf Unix-Systemen aus, welche du [hier](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases) herunterladen kannst.
-2. Drücke `1` und dann `ENTER`, um das Programm zu starten. ![Hauptmenü](/images/Dolphin_RC24/2.jpg)
-3. Fahre mit der Einrichtung des Programms fort.
-4. Du wirst gefragt, ob du das Programm jedes Mal, wenn du RiiConnect24 in Dolphin benutzen möchtest, manuell ausführen möchtest oder ob es beim Hochfahren automatisch ausgeführt werden soll. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
+##### Section II - Installing RiiConnect24
 
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'windows')">Windows</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'unix')">Unix</button>
+
+<div id="windows" class="blanktabcontent" markdown="1">
+1. Run `RiiConnect24Patcher.bat`.
+2. Start the patcher (by pressing `1`), then select `Install RiiConnect24`.
+3. Select `Dolphin Emulator` (3).
+4. Select `Install RiiConnect24 on your Dolphin Emulator`.
+5. Press `1` and `Enter` to start the program.
+6. Proceed with the program configuration.
+7. It will ask you if you want to run the program manually every time you want to use RiiConnect24 on Dolphin or if you want to run it automatically on startup. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
+If you choose to manually run it, keep `RiiConnect24Patcher.bat`. There will be an option in the menu to manually run it.
+{: .notice--info}
+If you choose to run it on startup, you don't have to do anything. If you want to uninstall it in the future, come back to `RiiConnect24Patcher.bat` and choose Settings - Manage startup VFF Downloader.
+{: .notice--info}
+
+8. Press any key to go back to the RiiConnect24 patcher.
+9. Once back in the RiiConnect24 Patcher, press `1` and then `Enter`.
+10. Select your region (Europe or USA). The patcher will now begin to patch the WAD files.
+11. Once it's done, press 2, (this will close the patcher) and then go to the directory that `RiiConnect24Patcher.bat` is in. There should be be a `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`, as well as an `Everybody Votes Channel ([your-selected-region]) (Channel) (RiiConnect24).wad` file in the WAD folder there.
+12. In Dolphin, press `Tools` and then `Install WAD`, and select the `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`. Do the same for `Everybody Votes Channel ([your-selected-region]) (Channel) (RiiConnect24).wad`.
+</div>
+
+<div id="unix" class="blanktabcontent" markdown="1">
+1. Run `VFF-Downloader-for-Dolphin.sh`. ![Hauptmenü](/images/Dolphin_RC24/2.jpg)
+3. Proceed with the program configuration.
+4. It will ask you if you want to run the program manually every time you want to use RiiConnect24 on Dolphin or if you want to run it automatically on startup. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
 ![Run once](/images/Dolphin_RC24/4.jpg)
+If you choose to manually run it, keep `VFF-Downloader-for-Dolphin.sh`. There will be an option in menu to manually run it.
+{: .notice--info}
+If you choose to run it on startup, you don't have to do anything. If you want to uninstall it in the future, come back to `VFF-Downloader-for-Dolphin.sh` and choose - Manage startup VFF Downloader.
+{: .notice--info}
+5. Run `RiiConnect24Patcher.sh`.
+6. Start the patcher, select `Install RiiConnect24`. ![Select Custom](/images/Dolphin_RC24/5.jpg)
+7. Select `Custom`. ![Select Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
+8. Press `1` to select your region and only enable 5th option. Press `6` to start patching.
+9. After it's done, there will a be a `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` file in WAD folder next to `RiiConnect24Patcher.sh`
+10. In Dolphin, press `Tools` and then `Install WAD`, and select the `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
+</div>
 
-Wenn du es manuell ausführen möchtest, behalte `VFF-Downloader-for-Dolphin.bat`. Es gibt einen Eintrag zum Ausführen im Menü.
+You're all done! Unfortunately, the Nintendo Channel and Wii Mail don't work in Dolphin yet.
 {: .notice--info}
 
-Wenn du es beim Hochfahren starten lässt, musst du gar nichts machen. Wenn du es in Zukunft deinstallieren möchtest, führe `VFF-Downloader-for-Dolphin.bat` oder `VFF-Downloader-for-Dolphin.sh` erneut aus und wähle - Manage startup VFF Downloader.
-{: .notice--info}
+<script>
+    let tabcontent = document.getElementsByClassName("blanktabcontent");
+    let tablinks = document.getElementsByClassName("tablinks");
 
-##### Abschnitt 3 - Abschließen der Installation
+    function openTab(evt, tabName) {
+        let element;
 
-1. Starte in Windows die `RiiConnect24Patcher.bat`, oder starte die `RiiConnect24Patcher.sh` wenn du dich auf einem Unix-System befindest, welches du [hier](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases) heruntergeladen hast
-2. Starte den Patcher, wähle dann `Install RiiConnect24`. ![Select Custom](/images/Dolphin_RC24/5.jpg)
-3. Wähle `Custom`. ![Select Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
-4. Drücke `1` um deine Region auszuwählen und aktiviere nur den fünften Eintrag. Drücke `6`, um das Patchen zu starten.
-5. Nach Abschluss befindet sich eine `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad`- oder `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`-Datei im `WAD`-Ordner neben der `RiiConnect24Patcher.bat`
-6. In Dolphin, wähle `Extras` und dann `WAD installieren...`, und wähle `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` oder `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
+        for (element of tabcontent) {
+            element.style.display = "none";
+        }
 
-Du bist fertig! Leider werden der Nintendo-Kanal und Wii Mail momentan noch nicht für Dolphin unterstützt.
-{: .notice--info}
+        for (element of tablinks) {
+            element.className = element.className.replace("btn--primary", "btn--info");
+            if (!element.className.includes('btn--info'))
+                element.className += " btn--info";
+        }
+
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className = evt.currentTarget.className.replace("btn--info", "btn--primary");
+    }
+
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpen").click();
+</script>

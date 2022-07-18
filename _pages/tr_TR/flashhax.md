@@ -18,7 +18,7 @@ FlashHax Internet Channel kullanılırken devreye giren Wii için bir exploittir
 2. Tarayıcıdan flashhax.com sitesine gidin ve siteyi yer imlerine kaydedin.
 3. Siteyi yer imlerinden açın. Daha sonra, HackMii Yükleyici indirilip çalışmaya başlayacaktır. İnternet üzerinden indirileceğinden dolayı bu biraz vakit alabilir.
 
-Eğer HackMii Yükleyicisi çalışmayıp donarsa (imleç hareket etmezse), Wii’nizi yeniden başlatın ve 3. adımı çalışana kadar tekrar deneyin. Birden çok deneme gerekebilir, ısrarlı olun!
+Eğer HackMii Yükleyicisi çalışmayıp donarsa (imleç hareket etmezse), Wii’nizi yeniden başlatın ve 3. adımı çalışana kadar tekrar deneyin. Birden çok deneme gerekebilir, ısrarlı olun! Birden çok deneme gerekebilir, ısrarlı olun!
 
 Eğer yine de yükleyemiyorsunuz, Internet Channel’ın kayıt dosyalarını ve çerezleri silin.
 

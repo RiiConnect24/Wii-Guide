@@ -40,7 +40,7 @@ Priiloader向Wii添加了一定程度的变砖保护。 它在Wii菜单之前加
 2. 你应该看见Priiloader菜单。 ![菜单](/images/Priiloader/mainmenu.png)
 3. 点击`System Menu Hacks`.
 
-如果使用U盘安装Priiloader，请确保没有插入SD卡。 这将导致Priiloader找不到hacks_hash.ini。
+如果使用U盘安装Priiloader，请确保没有插入SD卡。 这将导致Priiloader找不到hacks_hash.ini.
 {: .notice--info}
 
 4. 我们推荐您打开: `Region Free EVERYTHING`, `Block Disc Updates` 和 `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
@@ -73,7 +73,7 @@ Priiloader向Wii添加了一定程度的变砖保护。 它在Wii菜单之前加
 | Force Standard Recovery Mode            | 启动时自动进入恢复模式。 用户救砖时用于启动恢复光盘。                          |
 | Remove Diagnostic Disc Check            | 移除Wii检查插入的光盘是否与"Wii启动光盘"的ID相同。                       |
 | Lock System Menu with Black Screen      | 将Wii菜单加载到黑屏，使您无法使用。 (不要启用)                           |
-| No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | 重新启用带这些ID的频道(由于被用于破解，系统更新后被阻止)。                      |
+| No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | 重新启用带这些ID的频道(由于被用于破解，系统更新后被禁用)。                      |
 | Force Disc Games to run under IOS249    | 让光盘使用cIOS249运行游戏。 虽然不能玩刻录游戏，但需要刻录光盘。 (未刻录游戏将提示错误002) |
 
 

@@ -38,7 +38,7 @@ Per la Wii original, no us recomanem que utilitzeu BlueBomb si teniu intenció d
 1. Extreu-la i còpia l'arxiu `boot.elf` a la teva memòria externa.
 - (Inclús per a una Wii mini, bootmini.elf **no** funcionarà, la seva funció és totalment diferent i no hi està relacionada. Utilitza boot.elf en tots els casos). 1. Connecta la memòria externa a la teva consola. Per a una Wii mini, el port USB està darrere. Per a una Wii normal, utilitza el port de sota. (o el port de la dreta si la consola està en vertical). 1. Encén la teva consola i navega al menú de configuració. A la cantonada d'amunt a la dreta veuràs un codi de 4 caràcters com el que pots veure a l'imatge de sota. Aquest codi és la teva versió del menú de la Wii, escriu el codi a un paper, ho necessitaràs més tard. Després, apaga la teva consola. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Encén la teva distribució de Linux, i assegura't que estiguis connectat a l'Internet.
-1. Obri el Terminal de Linux
+1. Encén la teva consola i **no** connectis cap Wii Remotes.
 1. Executa les següents ordres:
 ```bash
 wget https://wii.guide/assets/files/bluebomb-helper.sh

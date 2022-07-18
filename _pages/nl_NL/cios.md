@@ -77,11 +77,11 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
 1. !!crwdP_30_Pdwrc!!Select the game that isn't working.
 1. Click Settings.
-1. !!crwdP_26_Pdwrc!!Select `Game Load`.
-1. !!crwdP_27_Pdwrc!!Scroll down to `Game IOS`.
-1. !!crwdP_28_Pdwrc!!Enter the IOS slot to use.
+1. ##### Deel I - DownloadenSelect `Game Load`.
+1. ##### Deel II - InstallerenScroll down to `Game IOS`.
+1. #### TroubleshootingEnter the IOS slot to use.
     - Try using 250 or 251, if 249 doesn't work.
-1. !!crwdP_29_Pdwrc!!Press ok and try to load the game.
+1. ##### Opties wanneer dit gebeurt isPress ok and try to load the game.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. !!crwdP_30_Pdwrc!!Select the game that isn't working.

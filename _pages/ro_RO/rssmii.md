@@ -48,12 +48,12 @@ Dacă folosești Sistemul de Operare Windows, poți folosi programul [RSS Feeds 
 Salvează fluxul pe care l-ai făcut în rădăcina Cardului tău SD.
 3. Rulează RSSMii din Homebrew Channel.
 4. Apasă A pentru a confirma că vrei să te abonezi la fluxuri. Ignoră eroarea despre ES_GetTitleID, totul este în regulă.
-5. Odată ce totul este gata, apasă HOME pentru a te întoarce la Homebrew Channel. În curând ar trebui să primești actualizări de fluxuri RSS pe Wii-ul tău!
+5. Odată ce totul este gata, apasă HOME pentru a te întoarce la Homebrew Channel. În curând ar trebui să primești actualizări de fluxuri RSS pe consola ta Wii!
 
 Nu primești nicio actualizare de flux? Încearcă un flux RSS care se actualizează mai frecvent, de exemplu un flux cu știri. Dacă fluxul RSS nu se actualizează des, atunci nu vei primi multe actualizări.
 {: .notice--warning}
 
-Recomandăm să folosești doar câteva fluxuri, pentru că dacă te abonezi la multe fluxuri poți primi o mulțime de mesaje pe Wii-ul tău.
+Recomandăm să folosești doar câteva fluxuri, pentru că dacă te abonezi la multe fluxuri poți primi o mulțime de mesaje pe consola ta.
 {: .notice--info}
 
 Dacă nu primești actualizări după câteva zile, s-ar putea să trebuiască să te abonezi la fluxurile RSS din nou. Rulează RSSMii din Homebrew Channel din noi și el va crea abonamente noi.

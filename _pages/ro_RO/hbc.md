@@ -22,10 +22,10 @@ Homebrew Channel este locul unde vei porni aplicațiile homebrew. BootMii este o
 4. Apasă Continue după ce este gata.![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
 
 5. Odată instalat, apasă back și mergi la BootMii.
-6. Dacă ecranul principal spune că poți instala BootMii ca boot2, fă acest lucru. Acesta oferă cea mai bună protecție anti-brick pe care o poți avea. Skip this step if the option doesn't show up, in that case your Wii is not one of the earlier models that supports it.
-7. Install BootMii as IOS, even if you already installed BootMii as boot2 in the previous step. If you couldn't install BootMii as boot2, this will still allow you to create a NAND backup.
+6. Dacă ecranul principal spune că poți instala BootMii ca boot2, fă acest lucru. Acesta oferă cea mai bună protecție anti-brick pe care o poți avea. Sari peste acest pas dacă opțiunea nu apare, în acel caz consola ta nu este una dintre modele mai vechi care îl susține.
+7. Instalează BootMii ca IOS, chiar dacă deja ai instalat BootMii ca boot2 în pasul anterior. Dacă nu ai putut instala BootMii ca boot2, asta tot îți va permite să faci o copie de rezervă NAND.
 
-If you do not have an SD card, you cannot install nor use BootMii, and therefore will not be able to utilize any of the mentioned benefits. Îl poți instala oricând mai târziu.
+Dacă nu ai un card SD, nu poți instala sau folosi BootMii, iar, prin urmare, nu vei putea folosi niciuna dintre beneficiile menționate. Îl poți instala oricând mai târziu.
 {: .notice--warning}
 
 ![BootMii Installation](/images/Wii/InstallBootMii.png)
@@ -38,33 +38,15 @@ Acum poți folosi Homebrew Channel pentru a lansa aplicații homebrew. Open Shop
 
 Uite un sfat - când instalezi aplicații homebrew pe Cardul tău SD sau unitatea ta USB, structura dosarului tău ar trebui să arate așa:
 
-💾 sd sau usb:
+![Proper SD Card Folder Structure](images/Wii/FolderStructure.png)
 
-┣ 📂 apps
+`AppName1` și `AppName2` sunt nume de substituent. Nu adaugă mai multe dosare `apps` în interiorul dosarului `apps` propriu-zis.
 
 ┃ ┣ 📂 NumeleAplicației1
-
-┃ ┃ ┣ 📄 boot.dol / boot.elf
-
-┃ ┃ ┣ 📄 icon.png
-
-┃ ┃ ┗ 📄 meta.xml
-
-┃ ┗ 📂NumeleAplicației2
-
-┃ ┃ ┣ 📄 boot.dol / boot.elf
-
-┃ ┃ ┣ 📄 icon.png
-
-┃ ┃ ┗ 📄 meta.xml
-
-`AppName1` și `AppName2` sunt nume substituente. Nu adaugă mai multe dosare `apps` în interiorul dosarului `apps` propriu-zis.
-
-[Continuă să faci o copie de rezerva NAND folosind BootMii](bootmii)<br> Este foarte recomandat să faci o copie de rezervă cu BootMii acum.
 {: .notice--info}
 
-Dacă nu ai putut instala BootMii, continuă la [instalarea Priiloader](priiloader).
+┃ ┃ ┣ 📄 icon.png
 {: .notice--info}
 
-Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
+Sfat: Iți poți da seama dacă un Wii are BootMii instalat ca boot2 dacă cititorul de discuri luminează o perioadă foarte scurtă, doar după luminarea imediată care apare când apeși pe butonul POWER.
 {: .notice--info}

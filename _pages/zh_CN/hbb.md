@@ -5,10 +5,10 @@ title: "Open Shop Channel (Homebrew Browser)"
 译者注：如果你需要任何帮助，国内用户可以添加QQ群：417992332，国外用户可以加入[RiiConnect24 Discord群组](https://discord.gg/osc)，或者[发送电子邮件至support@riiconnect24.net](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
-Homebrew Browser是Open Shop Channel的基础，正常工作但可能会有问题。 您也可以使用 [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) 并从 [Open Shop Channel网站](https://oscwii.org/) 获得自制程序。
+Homebrew Browser是Open Shop Channel的根基，没有它可以正常工作但可能会有问题。 您也可以使用 [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) 并从 [Open Shop Channel网站](https://oscwii.org/) 获得自制程序。
 {: .notice--info}
 
-[Open Shop Channel](https://oscwii.org/)是你可以在上面下载自制程序的好地方。 这是一个名为Homebrew Browser应用程序的复兴计划。
+[Open Shop Channel](https://oscwii.org/)是您下载自制程序的好地方。 这是Homebrew Browser的复兴。
 
 #### 你需要准备的东西…
 * 一张SD卡或者U盘

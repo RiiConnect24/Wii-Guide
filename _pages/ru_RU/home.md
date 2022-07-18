@@ -38,15 +38,3 @@ excerpt: "Полное руководство по моддингу Nintendo Wii
 
 Начните с [выбора эксплойта](get-started)!
 {: .notice--info}
-
-## Дополнительные ресурсы
-
-Здесь собраны несколько хороших ресурсов по моддингу Wii и решению различных проблем:
-
-- [ModMii](https://modmii.github.io/)
-- [WiiBrew](https://wiibrew.org/)
-- [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
-- [Wii Hacking Explained - за авторством Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...ну и, конечно же, этот сайт
-
-Если вам нужно прошить Wii U, то следуйте этому руководству:
-- [NH Wii U Guide](https://wiiu.hacks.guide)

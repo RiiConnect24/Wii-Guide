@@ -24,7 +24,7 @@ Wii와 컴퓨터는 한 로컬 네트워크에 연결되어 있어야 합니다
 1. Wii에 게임을 삽입하세요. (Wii에 이미 있다면 빼고 다시 삽입하세요) ![게임디스크삽입](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
 1. Wii URL (IP 주소)을 기억하세요 ![5](/images/DumpDiscs_LAN/5.png)
 1. 컴퓨터의 웹 브라우저에서 Wii URL을 입력하고 Enter↵ 키를 누르세요. ![6](/images/DumpDiscs_LAN/6.png)
-1. 이 화면이 나타나면 이 화면이 나타나면 `Click here to download XXXX.iso`를 클릭하세요. ![7](/images/DumpDiscs_LAN/7.jpg)
+1. 이 화면이 나타나면 이 화면이 나타나면 이 화면이 나타나면 `Click here to download XXXX.iso`를 클릭하세요. ![7](/images/DumpDiscs_LAN/7.jpg)
 1. 교환 속도는 최고 속도가 아니지만, 다른 것을 사용할 수 없다면, 없는 것보단 낫습니다.
 
 ![8](/images/DumpDiscs_LAN/8.PNG)

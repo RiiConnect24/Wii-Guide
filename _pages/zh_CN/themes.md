@@ -7,7 +7,7 @@ title: "安装Wii菜单主题"
 如果你需要有关本教程的任何帮助, 请加入[RiiConnect24 Discord服务器](https://discord.gg/rc24) (推荐)或 [发送电子邮件到 support@riiconnect24.net](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
-您是否厌倦了Wii菜单上普通白色主题，希望有一个很酷的主题? 此教程将帮您为Wii菜单获取新主题!
+Wii菜单主题还有其它资源，但它们可能是csm(准备安装到Wii)。 如果csm不与您的Wii菜单区域匹配，使用ThemeMii Mod转换为mym，然后选择您的Wii菜单和区域将其转换为csm，使用此处的说明转换为csm。
 
 为防止变砖，[请安装 Priiloader](priiloader)。 同时，安装[BootMii](bootmii) (早期Wii安装到boot2，否则IOS)。 安装变砖保护并遵守指南可以防止变砖。 如果您没有安装PRIILOADER和BOOTMII请不要继续!
 {: .notice--danger}
@@ -51,7 +51,7 @@ title: "安装Wii菜单主题"
 ##### 第一节 - 寻找主题
 
 * 选择您想安装的主题。 一些主题有Youtube视频展示，不幸的是一些视频不再可用。
-* 一旦找到喜欢的主题，点击于您的Wii菜单版本相对应的下载链接。 **选择正确的版本避免变砖。**
+* 一旦找到喜欢的主题，点击于您的Wii菜单版本相对应的下载链接。 **选择正确的版本避免变砖。 **
 * 您可能看到下载链接显示4.X，那表示与Wii菜单4.1、4.2 和4.3工作。
 * 一些主题对不同区域有不同链接，选择与您的区域对应的链接。
 * Wii菜单主题还有其它资源，但它们可能是csm(准备安装到Wii)。 如果csm不与您的Wii菜单区域匹配，使用ThemeMii Mod转换为mym，然后选择您的Wii菜单和区域将其转换为csm，使用此处的说明转换为csm。
@@ -66,7 +66,7 @@ title: "安装Wii菜单主题"
 5. 转到`Options` > `Standard System Menu` > Wii菜单版本 > Wii菜单区域。
 6. 转到`File` > `Open`，选择您的.mym。
 7. 按 `Create csm`，选择您想保存主题的目录。 给它一点时间以构建主题。
-8. 希望它正确构建主题，对话框将弹出并询问您Do you want to save the mym file? 按 `否`。
+8. 希望它正确构建主题，对话框将弹出并询问您Do you want to save the mym file? 按 `否`。 按 `否`。
 
 ##### 第三节 - 安装主题
 

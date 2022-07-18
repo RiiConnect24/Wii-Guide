@@ -29,8 +29,8 @@ Tento exploit vyžaduje změnu DNS, abyste se připojili na server obsahující 
 5. Vyberte své aktuální připojení. ![Current Connection](/images/RiiConnect24/Internet_5.png)
 6. Zvolte `Change Settings`. ![Change Settings](/images/RiiConnect24/Internet_6.png)
 7. Přejděte do `Auto-Obtain DNS` (pozor, ne IP Address), poté zvolte `No`, poté `Advanced Settings`. ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
-8. Type in `18.188.135.9` as the primary DNS.
-9. Type in `18.188.135.9` as the secondary DNS.
+8. Zadejte `18.188.135.9` jako primární DNS.
+9. Zadejte `18.188.135.9` jako sekundární DNS.
 10. Potvrďte stisknutím `Confirm`, poté vyberte `Save`. ![Save DNS](/images/RiiConnect24/Internet_10.png)
 11. Zvolte `OK`, aby se provedl test připojení. ![Connection Test](/images/RiiConnect24/Internet_11.png)
    - Pokud byl test připojení úspěšný, zvolte `No`, abyste odmítnuli Wii System Update. ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)

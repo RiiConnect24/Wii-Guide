@@ -29,13 +29,13 @@ Dacă vrei să joci jocuri care sunt în format NKit, folosește [acest program]
 Dacă nu copiezi jocuri folosind Wii Backup Manager, Witgui, sau Wii Backup Fusion, creează un dosar în rădăcina unității USB sau cardului SD numit "wbfs" și pune jocurile acolo.
 {: .notice--info}
 
-Pentru a juca jocuri, recomandăm să folosești un hard disk extern pentru Wii-ul tău. Stick-urile USB ar trebui să fie de asemenea utilizabile, dar hard disk-urile externe sunt recomandate pentru că sunt mai fiabile, și pot stoca mai multe jocuri.
+Pentru a juca jocuri, recomandăm să folosești un hard disk extern pentru consola ta. Stick-urile USB ar trebui să fie de asemenea utilizabile, dar hard disk-urile externe sunt recomandate pentru că sunt mai fiabile, și pot stoca mai multe jocuri.
 {: .notice--info}
 
 Spre deosebire de USB Loader GX, WiiFlow poate rula jocuri de pe un card SD.
 {: .notice--info}
 
-Asigură-te că unitatea USB sau/și cardul SD este formatat/ă ca FAT32 sau NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
+Asigură-te că unitatea USB sau/și cardul SD este formatat/ă ca FAT32 sau NTFS. Nu-l formata ca alte tipuri precum exFAT, extFS sau WBFS, cel dintâi fiind un format vechi pentru stocarea jocurilor Wii.
 {: .notice--info}
 
 #### Instrucțiuni
@@ -43,7 +43,7 @@ Asigură-te că unitatea USB sau/și cardul SD este formatat/ă ca FAT32 sau NTF
 ##### Descărcarea
 
 1. Extrage WiiFlow și pune dosarele `apps` și `WiiFlow` în unitatea ta USB sau cardul tău SD.
-2. Introduce-ți unitatea ta USB, și cardul tău SD dacă folosești unul, în Wii-ul tău și pornește Wiiflow din Homebrew Channel.
+2. Introduce-ți unitatea ta USB, și cardul tău SD dacă folosești unul, în consola ta și pornește Wiiflow din Homebrew Channel.
 
 ##### Noțiuni de bază
 

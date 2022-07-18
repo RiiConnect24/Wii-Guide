@@ -38,15 +38,3 @@ Homebrew’u kullanarak yapabileceklerinizin bir listesi aşağıda bulunmaktad�
 
 [Explotinizi seçerek](get-started) başlayın!
 {: .notice--info}
-
-## Daha Fazla Kaynak
-
-Wii’nizi modlamanıza ve karşılaşacağınız sorunlara yardımcı olabilecek birkaç iyi kaynak daha bulunmaktadır:
-
-- [ModMii](https://modmii.github.io/)
-- [WiiBrew](https://wiibrew.org/)
-- [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
-- [Cyan tarafından oluşturulan Wii Hacking Explained](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...ve tabi ki bu site
-
-Wii U’yu modlamak için bu rehbere bakın:
-- [NH Wii U Rehberi](https://wiiu.hacks.guide)

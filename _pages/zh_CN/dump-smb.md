@@ -7,7 +7,7 @@ title: "通过本地网络导出WIi/GameCube 游戏"
 * 一台Wii。
 * [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
 
-您的Wii和电脑必须连接到同一个本地网络
+您的Wii和电脑必须连接到同一个本地网络。
 {: .notice--warning}
 
 #### 步骤
@@ -24,13 +24,13 @@ title: "通过本地网络导出WIi/GameCube 游戏"
 &lt;img src="/images/DumpDiscs_LAN/3.png" alt="3" /&gt;&lt;/p&gt;&lt;/li&gt;
 <li><p spaces-before="0">现在把游戏塞进Wii。
 <img src="/images/DumpDiscs_LAN/3.png" alt="3" /></p></li>
-<li><p spaces-before="0">现在把游戏塞进Wii。 (如果游戏已经在你的Wii里面，弹出它并放回去。
+<li><p spaces-before="0">现在把游戏塞进Wii。 (如果游戏已经插入您的Wii，弹出它并放回去)
 <img src="/images/DumpDiscs_LAN/insertthedisc.jpg" alt="插入光碟" />
 <img src="/images/DumpDiscs_LAN/4.png" alt="4" /></p></li>
-<li><p spaces-before="0">记住你的Wii URL （IP地址）。
+<li><p spaces-before="0">记住你的Wii 地址 (IP地址)。
 <img src="/images/DumpDiscs_LAN/5.png" alt="5" /></p></li>
-<li><p spaces-before="0"><img src="/images/DumpDiscs_LAN/5.png" alt="5" /></p></li>
-<li><p spaces-before="0">在你的电脑上打开网页浏览器，输入Wii URL然后回车。<img src="/images/DumpDiscs_LAN/6.png" alt="6" /></p></li>
+<li><p spaces-before="0">打开您的电脑中的浏览器，输入Wii地址并按回车。
+<img src="/images/DumpDiscs_LAN/6.png" alt="6" /></p></li>
 <li><p spaces-before="0">你应该会看见这个。 点击 <code>Click here to download XXXX.iso` ![7](/images/DumpDiscs_LAN/7.jpg)
 1. 传输速度肯定不是最快的，但如果你不能用其他东西，这比没有更好。
 

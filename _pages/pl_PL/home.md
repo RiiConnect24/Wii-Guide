@@ -38,15 +38,3 @@ Oto lista rzeczy, które możesz zrobić za pomocą homebrew. Lista ta nie przed
 
 Rozpocznijmy od [wybrania exploitu](get-started)!
 {: .notice--info}
-
-## Więcej zasobów
-
-Istnieje również wiele innych zasobów zawierające poradniki dotyczące przerabiania Wii oraz naprawiania problemów:
-
-- [ModMii](https://modmii.github.io/)
-- [WiiBrew](https://wiibrew.org/)
-- [WiiFlow Wiki](https://sites.google.com/site/wiiflowiki4/)
-- [Wii Hacking Explained - stworzone przez Cyan](https://gbatemp.net/threads/wii-hacking-explained.501605/) ...I oczywiście, ta strona
-
-Jeżeli modujesz Wii U, skorzystaj z tego poradnika:
-- [NH Wii U Guide](https://wiiu.hacks.guide)
