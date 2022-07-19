@@ -16,59 +16,88 @@ If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to in
 
 #### Hva du trenger
 
-* En Wii med en Internett-tilkobling
-* An SD card or USB drive
-* [d2x cIOS installeringsprogram](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
+- A Wii
+- An SD card or USB drive
+- [d2x cIOS installeringsprogram](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
 Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
 {: .notice--warning}
 
 #### Instruksjoner
 
-##### Del 1 - Nedlasting
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'with-connection')">With an Internet connection to the Wii</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'without-connection')">Without an Internet connection to the Wii</button>
 
-1. Download d2x cIOS Installer and extract it to your SD card or USB drive.
-1. Putt inn din SD-kort eller USB pinne inni din Wii, og start opp d2x cIOS Installer fra Homebrew-kanalen.
+<div id="with-connection" class="blanktabcontent" markdown="1">
+
+##### Section I - Downloading
+
+1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
+1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
+</div>
+<div id="without-connection" class="blanktabcontent" markdown="1">
+
+##### Section I - Downloading
+
+1. Download, extract, and run [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
+1. Select "Database", "IOS", then "IOS56", and select "Latest Version".
+   - Ensure that "Pack WAD" is checked and "Patch IOS" is unchecked.
+1. Repeat the previous step for "IOS57" and "IOS38".
+1. Once you have downloaded all three IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. Open the folder and navigate through them until you locate the three WAD files you downloaded. Place each of WAD files on the root of your SD card or USB drive.
+1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
+1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
+</div>
 
 ##### Del 2 - Installering
 
 1. Trykk fortsett, og sett valgene til de som følger:
+
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 57
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
+
 ![Install cIOS 249](/images/cios/Install249.png)
+
 1. Når innstilt, trykk på A to ganger til å installere.
 1. Når ferdig med å installere, trykk på A til å gå tilbake, og sett valgene til de som følger:
+
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 56
 Select cIOS slot: 250
 Select cIOS version: 65535
 ```
+
 ![Install cIOS 250](/images/cios/Install250.png)
+
 1. Når innstilt, trykk på A to ganger til å installere.
 1. Når ferdig med å installere, trykk på A til å gå tilbake, og sett valgene til de som følger:
+
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 38
 Select cIOS slot: 251
 Select cIOS version: 65535
 ```
+
 ![Install cIOS 251](/images/cios/Install251.png)
+
 1. Once set, press A twice again to install, and then exit once done.
 
 #### Troubleshooting
 
 {% capture bruh %}
 Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
-* Using a keyboard in Animal Crossing: City Folk.
-* Running SpongeBob's Boating Bash.
+
+- Using a keyboard in Animal Crossing: City Folk.
+- Running SpongeBob's Boating Bash.
 
 A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
 {% endcapture %}
+
 <div class="notice--warning">{{ bruh | markdownify }}</div>
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'usbloadergx')">USB Loader GX</button>
