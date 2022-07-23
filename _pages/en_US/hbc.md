@@ -42,7 +42,7 @@ You can always install it at a later date.
 
 You can now use the Homebrew Channel to launch homebrew apps. Open Shop Channel is a one-stop shop for downloading homebrew, which you will learn how to install further in this guide.
 
-Here's a tip - when installing homebrew applications on your SD Card or USB drive, your folder structure should look like this:
+Here's a tip - when installing homebrew applications on your SD Card or USB drive, your folder structure should look like this (It is recommended you format your usb using FAT32 and an MBR partition scheme):
 
 ![Proper SD Card Folder Structure](images/Wii/FolderStructure.png)
 
