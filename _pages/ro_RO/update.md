@@ -7,7 +7,7 @@ title: "Actualizarea Meniului Wii la v4.3"
 Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Acest ghid îți va spune cum să-ți actualizezi Meniul Wii la versiunea 4.3 pe motiv că nu mai poți folosi actualizatorul construit în Meniul Wii deoarece serverele nu mai sunt deschise.
+This tutorial will explain how to update your Wii Menu to version 4.3, if you have already homebrewed your Wii.
 
 #### De ce ai nevoie
 * Un card SD sau o unitate USB
