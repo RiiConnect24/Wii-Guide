@@ -16,7 +16,7 @@ Toate exploit-urile rulează Instalatorul HackMii, și au același rezultat fina
 Deși poți urma acest ghid fără un card SD, nu vei putea să creezi sau să restaurezi o copie de rezervă folosing BootMii, și nu vei putea să folosești unele aplicații homebrew.
 {: .notice--info}
 
-Dacă Meniul Wii nu este pe versiunea 4.3, folosește str2hax sau FlashHax pentru a-ți modifica sistemul Wii. Când ai terminat de urmat ghidul, urmează [ghidul de actualizare](update) pentru a-ți actualiza Meniul Wii la versiunea 4.3.
+If your Wii Menu is not on version 4.3, use the updater worked into the Wii Menu. If that doesn't work, use str2hax or FlashHax to mod your Wii, and follow the [update guide](update) to update to 4.3.
 {: .notice--info}
 
 Acest ghid este doar pentru consola Wii originală și pentru Wii mini (inclusiv Wii Family Edition). Nu folosi acest ghid pe un Wii U (vWii)! Dacă vrei să instalezi homebrew pe un Wii U, [urmează acest ghid](https://wiiu.hacks.guide).
