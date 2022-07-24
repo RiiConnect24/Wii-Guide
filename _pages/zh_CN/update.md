@@ -7,7 +7,7 @@ title: "更新Wii菜单到4.3版本"
 如果你需要有关本教程的任何帮助, 请加入[RiiConnect24 Discord服务器](https://discord.gg/rc24) (推荐)或 [发送电子邮件到 support@riiconnect24.net](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
-本教程将告诉您如何将Wii菜单更新到4.3版本，由于Wii服务器不再工作，您无法使用Wii菜单内置的更新程序。
+This tutorial will explain how to update your Wii Menu to version 4.3, if you have already homebrewed your Wii.
 
 #### 你需要的是
 * 一张SD卡或U盘
