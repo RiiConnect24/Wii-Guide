@@ -16,7 +16,7 @@ Bütün exploitler HackMii Yükleyicisi’ni çalıştırabilir ve hepsinin sonu
 Her ne kadar bu rehberi SD Karta sahip olmadan da takip edebilseniz de BootMii’yi kullanarak NAND yedeklemesi alamayacak ve bazı Homebrew uygulamalarına erişemeyeceksiniz.
 {: .notice--info}
 
-If your Wii Menu is not on version 4.3, use the updater worked into the Wii Menu. If that doesn't work, use str2hax or FlashHax to mod your Wii, and follow the [update guide](update) to update to 4.3.
+If your Wii Menu is not on version 4.3, use str2hax or FlashHax to install the Homebrew Channel, and then follow the [update guide](update) to update to 4.3.
 {: .notice--info}
 
 Bu rehber, sadece Wii ve Wii Mini (Wii Aile Sürümü de dahil) ile güncel sistem yazılımı (4.3) içindir. Sakın Wii U (vWii) için kullanmayın! Eğer Wii U’ya homebrew yüklemek istiyorsanız [bu rehberi](https://wiiu.hacks.guide) takip edin.
