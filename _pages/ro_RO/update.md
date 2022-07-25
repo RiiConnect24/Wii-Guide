@@ -58,5 +58,8 @@ Vei folosi +Control Pad-ul pentru a utiliza această unealtă.
 8. Rulează IOS58 Installer.
 9. Urmează instrucțiunile pentru a instala IOS58.
 
-[Continuă la Instalarea Priiloader](priiloader)<br> Priiloader adaugă un nivel de protecție anti-brick, și îl recomandăm.
+Installing a Wii Menu WAD will **remove** Priiloader. Do not reboot before you have installed it again, otherwise you could BRICK.
+{: .notice--danger}
+
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it.
 {: .notice--info}
