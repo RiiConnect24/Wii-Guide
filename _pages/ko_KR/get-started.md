@@ -16,7 +16,7 @@ title: "시작하기"
 SD 카드 없이 이 가이드를 따라할 수 있지만, BootMii로 NAND 백업이 불가능하고 몇몇 홈브루의 실행이 불가능할겁니다.
 {: .notice--info}
 
-If your Wii Menu is not on version 4.3, use the updater worked into the Wii Menu. If that doesn't work, use str2hax or FlashHax to mod your Wii, and follow the [update guide](update) to update to 4.3.
+If your Wii Menu is not on version 4.3, use str2hax or FlashHax to install the Homebrew Channel, and then follow the [update guide](update) to update to 4.3.
 {: .notice--info}
 
 이 가이드는 최종 펌웨어 (4.3) 의 오리지널 Wii 및 Wii mini만 (Wii 가족 에디션 포함) 을 위해 만들었습니다. Wii U (vWii) 에서 사용하지 마십시오! Wii U에서 홈브루를 설치하려면, [이 가이드를 참고](https://wiiu.hacks.guide)하세요.
