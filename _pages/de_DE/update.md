@@ -58,5 +58,8 @@ Die Bedienung erfolgt über das Steuerkreuz.
 8. Starte den ISO58 Installer.
 9. Folge den Anweisungen um das ISO58 zu installieren.
 
-[Fahre fort mit der Priiloader Installation](priiloader)<br> Priiloader fügt ein Schutzniveau hinzu, und wir empfehlen ihn.
+Installing a Wii Menu WAD will **remove** Priiloader. Do not reboot before you have installed it again, otherwise you could BRICK.
+{: .notice--danger}
+
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it.
 {: .notice--info}
