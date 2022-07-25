@@ -58,5 +58,8 @@ This tutorial will explain how to update your Wii Menu to version 4.3, if you ha
 8. 启动 IOS58 Installer.
 9. 按照说明安装IOS58.
 
-[继续安装Priiloader](priiloader)<br> Priiloader添加了一定程度的变砖保护，我们推荐它。
+Installing a Wii Menu WAD will **remove** Priiloader. Do not reboot before you have installed it again, otherwise you could BRICK.
+{: .notice--danger}
+
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it.
 {: .notice--info}
