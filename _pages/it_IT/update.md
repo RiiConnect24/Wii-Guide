@@ -58,5 +58,8 @@ Userai il tasto + del tuo controller/Wiimote per usare questo tool.
 8. Avvia IOS58 Installer.
 9. Seguire le istruzioni a schermo per installare l'IOS58.
 
-[Continue con l'installazione di Priiloader](priiloader)<br> Priiloader aggiunge un livello in più per la protezione del brick della console, la consigliamo.
+Installing a Wii Menu WAD will **remove** Priiloader. Do not reboot before you have installed it again, otherwise you could BRICK.
+{: .notice--danger}
+
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it.
 {: .notice--info}
