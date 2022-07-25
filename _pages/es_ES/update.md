@@ -58,5 +58,8 @@ En esta aplicación usarás la cruz de control para desplazarte por las opciones
 8. Launch IOS58 Installer.
 9. Follow the instructions to install IOS58.
 
+Installing a Wii Menu WAD will **remove** Priiloader. Do not reboot before you have installed it again, otherwise you could BRICK.
+{: .notice--danger}
+
 [Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it.
 {: .notice--info}
