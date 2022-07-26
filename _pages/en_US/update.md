@@ -7,7 +7,7 @@ title: "Updating Wii Menu to v4.3"
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-This tutorial will explain how to update your Wii Menu to version 4.3, as you can no longer use the updater built into the Wii Menu since the servers are no longer up.
+This tutorial will explain how to update your Wii Menu to version 4.3, if you have already homebrewed your Wii.
 
 #### What you need
 * An SD card or USB drive
@@ -57,6 +57,9 @@ You use the +Control Pad to use this tool.
 7. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 8. Launch IOS58 Installer.
 9. Follow the instructions to install IOS58.
+
+Installing a Wii Menu WAD will **remove** Priiloader. Do not reboot before you have installed it again, otherwise you could BRICK.
+{: .notice--danger}
 
 [Continue to Priiloader Installation](priiloader)<br>
 Priiloader adds a level of brick protection, and we recommend it.
