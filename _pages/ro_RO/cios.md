@@ -41,9 +41,9 @@ Asigură-te că dacă folosești un card SD, comutatorul de blocare este în poz
 
 1. Descarcă, extrage și deschide [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
 1. Alege "Database", "IOS", apoi "IOS57" și alege "v5918".
-   - Ensure that "Pack WAD" is checked and "Patch IOS" is unchecked.
-1. Repeat the previous step for IOS56 v5661 and IOS38 v4123.
-1. Once you have downloaded all three IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. Open the folder and navigate through them until you locate the three WAD files you downloaded. Place each of WAD files on the root of your SD card or USB drive.
+   - Asigură-te că "Pack WAD" este bifat și că "Patch IOS" nu este bifat.
+1. Repetă pasul anterior pentru IOS56 v5661 și IOS38 v4123.
+1. Odată ce ai descărcat toate cele trei IOS-uri, va exista un dosar numit `titles` în același dosar cu NUS Downloader. Deschide dosarul și navighează prin el până când găsești cele trei fișiere WAD pe care le-ai descărcat. Pune fiecare fișier WAD în rădăcina cardului tău SD sau unității tale USB.
 1. Descarcă d2x cIOS Installer și extrage-l în rădăcina cardului tău SD sau unității tale USB.
 1. Introduce cardul tău SD sau unitatea ta USB în Wii, și pornește d2x cIOS Installer din Homebrew Channel.
 </div>
@@ -85,17 +85,17 @@ Select cIOS version: 65535
 
 ![Install cIOS 251](/images/cios/Install251.png)
 
-1. Once set, press A twice again to install, and then exit once done.
+1. Odată ce este gata, apasă A de două ori din nou pentru a instala, apoi ieși după ce se termină.
 
 #### Depanare
 
 {% capture bruh %}
-Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
+Deși majoritatea jocurilor ar trebui să meargă direct cu implicitele, unele s-ar putea să necesite folosirea unui cIOS specific pentru a merge, sau să utilizeze anumite funcții din joc.<br> Exemple includ:
 
 - Folosirea unei tastaturi în Animal Crossing: City Folk.
 - Rularea jocului SpongeBob's Boating Bash.
 
-A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
+O lista vastă (deși incompletă) poate fi găsita [**aici**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> Pentru a schimba cIOS-ul folosit pentru un joc specific, urmărește aceste instrucțiuni:
 {% endcapture %}
 
 <div class="notice--warning">{{ bruh | markdownify }}</div>
@@ -104,24 +104,24 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
-1. Select the game that isn't working.
-1. Click Settings.
-1. Select `Game Load`.
-1. Scroll down to `Game IOS`.
-1. Enter the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
-1. Press ok and try to load the game.
+1. Alege jocul care nu merge.
+1. Apasă pe Settings.
+1. Alege `Game Load`.
+1. Derulează jos la `Game IOS`.
+1. Introduce slotul IOS pe care vrei să-l folosești.
+    - Încearcă să folosești 250 sau 251, dacă 249 nu merge.
+1. Apasă ok și încearcă să rulezi jocul.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
-1. Select the game that isn't working.
-1. Click the gear icon.
-1. Go to cIOS and use the arrows to select the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
-1. Press Save and try to load the game.
+1. Alege jocul care nu merge.
+1. Apasă iconița cu rotița.
+1. Du-te la cIOS și folosește săgețile pentru a selecta slotul IOS pe care vrei să-l folosești.
+    - Încearcă să folosești 250 sau 251, dacă 249 nu merge.
+1. Apasă Save și încearcă să rulezi jocul.
 </div>
 ##### Opțiuni după finalizare
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. Acesta este opțional de instalat.
+[Continuă la Homebrew Browser](hbb)<br> Homebrew Browser este un loc bun de unde să-ți faci rost de aplicații homebrew pe consola ta Wii. Acesta este opțional de instalat.
 {: .notice--info}
 
 [Continuă la navigarea site-ului](site-navigation)<br> Avem multe alte tutoriale care s-ar putea să-ți placă.
