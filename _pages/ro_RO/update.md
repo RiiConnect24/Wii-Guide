@@ -7,7 +7,7 @@ title: "Actualizarea Meniului Wii la v4.3"
 Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-This tutorial will explain how to update your Wii Menu to version 4.3, if you have already homebrewed your Wii.
+Acest ghid îți va explica cum să îți actualizezi Meniul Wii la versiunea 4.3, dacă deja ți-ai modificat consola.
 
 #### De ce ai nevoie
 * Un card SD sau o unitate USB
@@ -58,8 +58,8 @@ Vei folosi +Control Pad-ul pentru a utiliza această unealtă.
 8. Rulează IOS58 Installer.
 9. Urmează instrucțiunile pentru a instala IOS58.
 
-Installing a Wii Menu WAD will **remove** Priiloader. Do not reboot before you have installed it again, otherwise you could BRICK.
+Instalarea unui fișier WAD de Meniu Wii va **șterge** Priiloader. Nu reporni până nu l-ai instalat din nou, altfel ai putea cauza un BRICK.
 {: .notice--danger}
 
-[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it.
+[Continuă la Instalarea Priiloader](priiloader)<br> Priiloader adaugă un nivel de protecție anti-brick, și noi îl recomandăm.
 {: .notice--info}
