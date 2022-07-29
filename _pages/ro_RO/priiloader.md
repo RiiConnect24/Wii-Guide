@@ -23,7 +23,7 @@ Priiloader adaugă un nivel de protecție anti-brick consolei tale Wii. El rulea
 
 ##### Secțiunea I - Descărcare/Instalare
 
-1. Download the Priiloader installer and extract it to the root of your SD card or USB drive.
+1. Descarcă instalatorul Priiloader și extrage-l în rădăcina cardului tău SD sau unității tale USB.
 
 ##### Secțiunea II - Instalarea Priiloader
 
