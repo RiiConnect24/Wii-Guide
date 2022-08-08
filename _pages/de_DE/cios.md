@@ -25,8 +25,8 @@ Vergewissere dich, dass bei Verwendung der SD-Karte der Sperrschalter in der ent
 
 #### Anleitung
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'with-connection')">With an Internet connection to the Wii</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'without-connection')">Without an Internet connection to the Wii</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'with-connection')">Mit einer bestehenden Internetverbindung</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'without-connection')">Ohne einer bestehenden Internetverbindung</button>
 
 <div id="with-connection" class="blanktabcontent" markdown="1">
 
@@ -59,7 +59,7 @@ Wähle cIOS slot: 249
 Wähle cIOS version: 65535
 ```
 
-![Install cIOS 249](/images/cios/Install249.png)
+![cIOS 249 installieren](/images/cios/Install249.png)
 
 1. Wenn du damit fertig bist, drücke zweimal auf A um die Installation zu starten.
 1. Wenn die Installation abgeschlossen ist, drücke A um zurückzugehen und stelle dann folgende Optionen ein:
@@ -71,7 +71,7 @@ Wähle cIOS slot: 250
 Wähle cIOS version: 65535
 ```
 
-![Install cIOS 250](/images/cios/Install250.png)
+![cIOS 250 installieren](/images/cios/Install250.png)
 
 1. Wenn du damit fertig bist, drücke zweimal auf A um die Installation zu starten.
 1. Wenn die Installation abgeschlossen ist, drücke A um zurückzugehen und stelle dann folgende Optionen ein:
@@ -83,7 +83,7 @@ Wähle cIOS slot: 251
 Wähle cIOS version: 65535
 ```
 
-![Install cIOS 251](/images/cios/Install251.png)
+![cIOS 251 installieren](/images/cios/Install251.png)
 
 1. Once set, press A twice again to install, and then exit once done.
 
@@ -104,16 +104,16 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
-1. Select the game that isn't working.
-1. Click Settings.
-1. Select `Game Load`.
+1. Wähle das Spiel welches nicht funktioniert.
+1. Klicke auf Einstellungen.
+1. Wähle `Game Load`.
 1. Scroll down to `Game IOS`.
 1. Enter the IOS slot to use.
     - Try using 250 or 251, if 249 doesn't work.
 1. Press ok and try to load the game.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
-1. Select the game that isn't working.
+1. Wähle das Spiel welches nicht funktioniert.
 1. Click the gear icon.
 1. Go to cIOS and use the arrows to select the IOS slot to use.
     - Try using 250 or 251, if 249 doesn't work.
