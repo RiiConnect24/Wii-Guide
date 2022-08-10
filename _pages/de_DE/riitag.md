@@ -52,7 +52,7 @@ If your RiiTag is not updating, try going into your Wii's Internet Settings and 
 ###### WiiFlow
 
 1. Verbinde die SD-Karte bzw. das USB-Laufwerk mit deinen WiiFlow-Daten mit deinem Computer.
-2. Öffne `/apps/wiiflow/wiiflow.ini` mit einem Texteditor. (If you use WiiFlow Lite, the path should have `wiiflow_lite` instead of `wiiflow`.)
+2. Öffne `/apps/wiiflow/wiiflow.ini` mit einem Texteditor. (Wenn du WiiFlow Lite verwendest, sollte der Pfad `wiiflow_lite` anstelle `wiiflow` lauten.)
 3. Suche nach `gamercards` und ersetze die Zeile mit `gamercards=wiinnertag`.
 4. Suche nach `wiinnertag_url` und ersetze die Zeile mit `wiinnertag_url=https://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
 5. Suche nach `wiinnertag_key` und ersetze die Zeile mit `wiinnertag_key=<key>`, wobei du `<key>` mit dem Schlüssel ersetzt, den du dir in Abschnitt 1 notiert hast.
@@ -62,7 +62,7 @@ If your RiiTag is not updating, try going into your Wii's Internet Settings and 
 
 ###### Emulatoren
 
-RiiTag supports Dolphin, Citra, and Cemu. You need a Discord account for this to work.
+RiiTag unterstützt Dolphin, Citra und Cemu. Du benötigst ein Discord-Konto, damit dies funktioniert.
 {: .notice--info}
 
 1. [Tritt dem RiiConnect24 Discord-Server bei](https://discord.gg/rc24), falls du es nicht schon getan hast.
