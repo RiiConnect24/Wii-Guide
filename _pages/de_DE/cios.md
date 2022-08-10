@@ -107,21 +107,21 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 1. Wähle das Spiel welches nicht funktioniert.
 1. Klicke auf Einstellungen.
 1. Wähle `Game Load`.
-1. Scroll down to `Game IOS`.
+1. Scrolle herunter zu `Game IOS`.
 1. Enter the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
-1. Press ok and try to load the game.
+    - Verwende 250 oder 251, falls 249 nicht funktioniert.
+1. Drücke auf ok und versuche das Spiel zu laden.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. Wähle das Spiel welches nicht funktioniert.
-1. Click the gear icon.
+1. Klicke auf das Zahnradsymbol.
 1. Go to cIOS and use the arrows to select the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
-1. Press Save and try to load the game.
+    - Verwende 250 oder 251, falls 249 nicht funktioniert.
+1. Drücke auf Speichern und versuche das Spiel zu laden.
 </div>
 ##### Möglichkeiten nach Abschluss
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. Dies zu installieren ist nicht zwingend erforderlich.
+[Mit dem Homebrew-Browser fortfahren](hbb)<br> Der Homebrew-Browser ist ein guter Ort um Homebrew für deine Wii zu erhalten. Diese zu installieren ist nicht zwingend erforderlich.
 {: .notice--info}
 
 [Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
