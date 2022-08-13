@@ -46,9 +46,6 @@ Die Schritte zur Verbindung von RiiTag mit deinem USB-Loader hängen von deinem 
 7. Save the XML to `/apps/usbloader_gx`  folder on your SD Card or USB device, replacing the existing `Wiinnertag.xml`.
 8. Du hast jetzt RiiTag eingerichtet. Du kannst jetzt ein beliebiges Spiel starten, um zu sehen, dass es korrekt funktioniert.
 
-If your RiiTag is not updating, try going into your Wii's Internet Settings and fill in any unused connection slots with the Wi-Fi network you're currently using then, try again. Also, try to not use a wired connection. This happens because of a flaw with how USB Loader GX handles network connections and will hopefully be fixed eventually. If it still doesn't work, try waiting 30-60 seconds before loading a game.
-{: .notice--info}
-
 ###### WiiFlow
 
 1. Verbinde die SD-Karte bzw. das USB-Laufwerk mit deinen WiiFlow-Daten mit deinem Computer.
@@ -62,7 +59,7 @@ If your RiiTag is not updating, try going into your Wii's Internet Settings and 
 
 ###### Emulatoren
 
-RiiTag unterstützt Dolphin, Citra und Cemu. Du benötigst ein Discord-Konto, damit dies funktioniert.
+RiiTag supports Dolphin, Citra, and Cemu. You need a Discord account for this to work.
 {: .notice--info}
 
 1. [Tritt dem RiiConnect24 Discord-Server bei](https://discord.gg/rc24), falls du es nicht schon getan hast.
