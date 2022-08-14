@@ -46,9 +46,6 @@ RiiTag'i USB Loader'a bağlama adımları, kullandığınız USB Loader'a göre 
 7. Save the XML to `/apps/usbloader_gx`  folder on your SD Card or USB device, replacing the existing `Wiinnertag.xml`.
 8. Şu an RiiTag'i kurdunuz. Herhangi bir oyunu açarak doğru çalışıp çalışmadığını kontrol ediniz.
 
-If your RiiTag is not updating, try going into your Wii's Internet Settings and fill in any unused connection slots with the Wi-Fi network you're currently using then, try again. Also, try to not use a wired connection. This happens because of a flaw with how USB Loader GX handles network connections and will hopefully be fixed eventually. If it still doesn't work, try waiting 30-60 seconds before loading a game.
-{: .notice--info}
-
 ###### WiiFlow
 
 1. WiiFlow verilerinizin bulunduğu SD Kart ya da USB sürücüyü bilgisayara takın.
