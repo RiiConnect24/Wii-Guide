@@ -46,9 +46,6 @@ RiiTag是一个可自定义的动态游戏标签。 通过分享您的游戏标�
 7. Save the XML to `/apps/usbloader_gx`  folder on your SD Card or USB device, replacing the existing `Wiinnertag.xml`.
 8. 您已经设置RiiTag。 您可以尝试加载游戏，看它是否正常工作。
 
-If your RiiTag is not updating, try going into your Wii's Internet Settings and fill in any unused connection slots with the Wi-Fi network you're currently using then, try again. Also, try to not use a wired connection. This happens because of a flaw with how USB Loader GX handles network connections and will hopefully be fixed eventually. If it still doesn't work, try waiting 30-60 seconds before loading a game.
-{: .notice--info}
-
 ###### WiiFlow
 
 1. 将存放有WiiFlow数据的SD卡或U盘插入电脑。
