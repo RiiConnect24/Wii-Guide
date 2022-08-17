@@ -59,7 +59,7 @@ Die Schritte zur Verbindung von RiiTag mit deinem USB-Loader hängen von deinem 
 
 ###### Emulatoren
 
-RiiTag supports Dolphin, Citra, and Cemu. You need a Discord account for this to work.
+RiiTag unterstützt Dolphin, Citra, und Cemu. Du benötigst ein Discord-Konto, damit dies funktioniert.
 {: .notice--info}
 
 1. [Tritt dem RiiConnect24 Discord-Server bei](https://discord.gg/rc24), falls du es nicht schon getan hast.
@@ -95,7 +95,7 @@ We have a RiiTag Channel you can install on your Wii. When it is launched, it wi
 4. Click your profile at the top right of the screen, then `Profile`. Click `RiiTag Channel` to download the WAD.
 5. Put the WAD on your SD Card or USB device.
 6. Install the WAD with your favorite WAD manager ([Wii Mod Lite](wiimodlite) is recommended).
-7. Make sure the Internet Channel is installed.
+7. Stell sicher, dass der Internet-Kanal installiert ist.
 8. The RiiTag Channel should now be available to use on your Wii Menu.
 
 [Check out RiiTag-RPC](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br> Now that you set up RiiTag, you can set up RiiTag-RPC to show your Discord friends what you're playing on the Wii using Discord's rich presence.
