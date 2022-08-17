@@ -39,10 +39,10 @@ Vergewissere dich, dass bei Verwendung der SD-Karte der Sperrschalter in der ent
 
 ##### Abschnitt 1 - Herunterladen
 
-1. Download, extract, and run [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
-1. Select "Database", "IOS", then "IOS57", and select "v5918".
-   - Ensure that "Pack WAD" is checked and "Patch IOS" is unchecked.
-1. Repeat the previous step for IOS56 v5661 and IOS38 v4123.
+1. Lade herunter, extrahiere, und starte anschließend den [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
+1. Wähle "Database", "IOS", danach "IOS57", und wähle "v5918".
+   - Stelle sicher, dass "Pack WAD" ausgewählt und "Patch IOS" nicht ausgewählt ist.
+1. Wiederhole den vorherigen Schritt für IOS56 v5661 und IOS38 v4123.
 1. Once you have downloaded all three IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. Open the folder and navigate through them until you locate the three WAD files you downloaded. Place each of WAD files on the root of your SD card or USB drive.
 1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
 1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
