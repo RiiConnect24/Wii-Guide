@@ -32,8 +32,8 @@ Vergewissere dich, dass bei Verwendung der SD-Karte der Sperrschalter in der ent
 
 ##### Abschnitt 1 - Herunterladen
 
-1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
-1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
+1. Lade den d2x cIOS-Installer herunter und entpacke ihn in das Stammverzeichnis deiner SD-Karte oder deines USB-Laufwerks.
+1. Verbinde deine SD-Karte oder dein USB-Laufwerk mit deiner Wii und starte den d2x cIOS-Installer über den Homebrew-Kanal.
 </div>
 <div id="without-connection" class="blanktabcontent" markdown="1">
 
@@ -43,9 +43,9 @@ Vergewissere dich, dass bei Verwendung der SD-Karte der Sperrschalter in der ent
 1. Wähle "Database", "IOS", danach "IOS57", und wähle "v5918".
    - Stelle sicher, dass "Pack WAD" ausgewählt und "Patch IOS" nicht ausgewählt ist.
 1. Wiederhole den vorherigen Schritt für IOS56 v5661 und IOS38 v4123.
-1. Once you have downloaded all three IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. Open the folder and navigate through them until you locate the three WAD files you downloaded. Place each of WAD files on the root of your SD card or USB drive.
-1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
-1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
+1. Sobald du alle drei IOS heruntergeladen hast, wird sich ein Ordner `titles` im gleichen Ordner wie der NUS Downloader befinden. Durchsuche den Ordner bis du die drei heruntergeladenen WAD-Dateien gefunden hast. Platziere alle drei WAD-Dateien in das Stammverzeichnis deiner SD-Karte oder deines USB-Laufwerks.
+1. Lade den d2x cIOS-Installer herunter und entpacke ihn in das Stammverzeichnis deiner SD-Karte oder deines USB-Laufwerks.
+1. Verbinde deine SD-Karte oder dein USB-Laufwerk mit deiner Wii und starte den d2x cIOS-Installer über den Homebrew-Kanal.
 </div>
 
 ##### Abschnitt 2 - Installieren
@@ -85,17 +85,17 @@ Wähle cIOS version: 65535
 
 ![cIOS 251 installieren](/images/cios/Install251.png)
 
-1. Once set, press A twice again to install, and then exit once done.
+1. Hast du alles eingestellt, drücke zweimal auf A um die Installation zu starten, und verlasse nach Abschluss das Programm.
 
 #### Problembehandlung
 
 {% capture bruh %}
-Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
+Obwohl die meisten Spiele sofort mit den Standardeinstellungen funktionieren sollten, kann es sein, dass manche Spiele ein spezielles cIOS benötigen, um zu funktionieren oder um bestimmte Funktionen im Spiel zu nutzen.<br> Beispiele hierfür sind:
 
 - Verwendung einer Tastatur in Animal Crossing: Let’s Go to the City.
 - Verwendung von SpongeBob's Boating Bash.
 
-A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
+Eine weitaus umfassendere (wenn auch weiterhin unvollständige) Liste kannst du [**hier**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List) finden.<br> Um das cIOS für ein bestimmtes Spiel zu ändern, folge diesen Anweisungen:
 {% endcapture %}
 
 <div class="notice--warning">{{ bruh | markdownify }}</div>
@@ -108,14 +108,14 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 1. Klicke auf Einstellungen.
 1. Wähle `Game Load`.
 1. Scrolle herunter zu `Game IOS`.
-1. Enter the IOS slot to use.
+1. Gib den zu verwendenden IOS-Slot ein.
     - Verwende 250 oder 251, falls 249 nicht funktioniert.
 1. Drücke auf ok und versuche das Spiel zu laden.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. Wähle das Spiel welches nicht funktioniert.
 1. Klicke auf das Zahnradsymbol.
-1. Go to cIOS and use the arrows to select the IOS slot to use.
+1. Gehe zu cIOS und nutze die Pfeile um den zu verwendenden IOS-Slot auszuwählen.
     - Verwende 250 oder 251, falls 249 nicht funktioniert.
 1. Drücke auf Speichern und versuche das Spiel zu laden.
 </div>
