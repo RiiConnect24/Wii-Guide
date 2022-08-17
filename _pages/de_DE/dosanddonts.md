@@ -15,11 +15,11 @@ Hier ist eine Liste der Dinge, die du tun solltest und solltest nicht tun, sobal
 - **MACH** eine Sicherung deiner Wii NAND mit [BootMii](bootmii), besonders bevor du irgendetwas Riskantes tust.
 - **MACH** Installiere Wii-Menü-Themes, wenn du möchtest, aber nutze unser Tutorial nur sorgfältig. ([Wii](themes) / [vWii](themes-vwii)). Andere Anleitungen können irreführend sein und dazu führen, dass du deine Wii brickst.
 - **NICHT** WADs von zufälligen IOS, älteren Versionen des Wii-Menüs usw. es sei denn, du weißt, was du tust, besonders nicht auf vWii oder ein Wii Mini.
-- **DO NOT** use old versions of Wii homebrew. Wenn du den Wii-Modding-Tutorials aus dem Internet folgst, solltest du vorsichtig sein, alte Tutorials zu verwenden (wahrscheinlich vor 2012), vor allem, wenn sie mit Dingen wie IOS zu tun haben.
+- **NICHT** alte Versionen von Wii Homebrew verwenden. Wenn du den Wii-Modding-Tutorials aus dem Internet folgst, solltest du vorsichtig sein, alte Tutorials zu verwenden (wahrscheinlich vor 2012), vor allem, wenn sie mit Dingen wie IOS zu tun haben.
 - **NICHT** zufällige Dateien in der Wii NAND ändern, umbenennen oder löschen, außer du weißt, was du tust.
 - **NICHT** die Homebrew App "KoreanKii" auf einer nicht-koreanischen Wii verwenden.
 - **NICHT** Irgend ein IOS oder Wii Menu auf einer Wii Mini installieren, außer [d2xl cIOS](cios-mini). Dies wird deine Konsole bricken, wenn eine Wlan-Karte nicht an sie verlötet wird.
-- Unfortunately, other replacement servers are vulnerable to an exploit that can brick your Wii if you use them. Leider sind andere Ersetzungsserver anfällig für einen Exploit, der deine Wii bricken kann, wenn du sie benutzt. [RiiConnect24](riiconnect24) ist ebenfalls sicher zu benutzen.
+- **NICHT** andere Nintendo Wi-Fi Connection ersetzungen auf deiner Wii, außer [Wiimmfi](wiimmfi). Leider sind andere Ersetzungsserver anfällig für einen Exploit, der deine Wii bricken kann, wenn du sie benutzt. [RiiConnect24](riiconnect24) ist ebenfalls sicher zu benutzen.
 
 Wenn du diesen Richtlinien folgst, musst du dir keine Sorgen um das Bricken deiner Wii machen. Wii-Modding ist sicher, und Bricks treten in der Regel auf, weil der Benutzer etwas getan hat, das auf dieser Liste steht.
 
