@@ -10,9 +10,9 @@ Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te
 Acest ghid îți va explica cum să îți actualizezi Meniul Wii la versiunea 4.3, dacă deja ți-ai modificat consola.
 
 #### De ce ai nevoie
+
 * Un card SD sau o unitate USB
 * Un calculator cu Windows instalat
-* [IOS58 Installer](https://oscwii.org/library/app/ios58-installer)
 * [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest)
 * [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
@@ -34,7 +34,8 @@ Pentru a te proteja împotriva brick-urilor, [asigură-te că instalezi Priiload
 3. Asigură-te că `Pack WAD` este bifat.
 4. Apasă pe `Start NUS Download!`.
 5. Deschide `titles` -> `0000000100000002` -> (versiunea Meniului Wii) și copiază fișierul .wad într-un dosar numit `wad` pe Cardul tău SD sau unitatea ta USB.
-6. (Dacă ai [RiiConnect24](riiconnect24), poți sări peste acest pas) Repetă pașii 2-5 cu `IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
+6. Repeat steps 2-5 with `IOS` -> `000000010000003A` -> `Latest Version`.
+7. (If you have [RiiConnect24](riiconnect24), you can skip this step) Repeat steps 2-5 with `IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
 
 | Regiune | Versiunea Meniului Wii |
 | ------- | ---------------------- |
@@ -52,11 +53,10 @@ Vei folosi +Control Pad-ul pentru a utiliza această unealtă.
 2. Pornește Homebrew Channel pe Wii.
 3. Lansează Wii Mod Lite.
 4. Folosind +Control Pad-ul pe Wii Remote-ul tău, navighează la `WAD Manager`, apoi du-te la dosarul `wad`.
-5. Apasă A pentru a instala IOS80. [`Asigură-te că instalația a avut success, altfel abandonează.`]
+5. Press A to install the IOS80 `.wad` file. [`Asigură-te că instalația a avut success, altfel abandonează.`]
 6. Apasă A pentru a instala fișierul WAD a Meniului Wii.
-7. După ce au fost instalate cu succes, apasă Butonul HOME pentru a ieși înapoi la Homebrew Channel.
-8. Rulează IOS58 Installer.
-9. Urmează instrucțiunile pentru a instala IOS58.
+7. Press A to install the IOS58 `.wad` file. [`Asigură-te că instalația a avut success, altfel abandonează.`]
+8. După ce au fost instalate cu succes, apasă Butonul HOME pentru a ieși înapoi la Homebrew Channel.
 
 Instalarea unui fișier WAD de Meniu Wii va **șterge** Priiloader. Nu reporni până nu l-ai instalat din nou, altfel ai putea cauza un BRICK.
 {: .notice--danger}
