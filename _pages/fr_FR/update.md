@@ -10,9 +10,9 @@ Si vous avez besoin d'aide pour quoi que ce soit concernant ce tutoriel, veuille
 This tutorial will explain how to update your Wii Menu to version 4.3, if you have already homebrewed your Wii.
 
 #### Ce dont vous avez besoin
+
 * Une carte SD ou un périphérique USB
 * A computer with Windows on it
-* [IOS58 Installer](https://oscwii.org/library/app/ios58-installer)
 * [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest)
 * [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
@@ -34,7 +34,8 @@ Pour vous protéger contre les briques, [assurez-vous d'installer Priiloader](pr
 3. Make sure `Pack WAD` is checked.
 4. Press `Start NUS Download!`.
 5. Open the `titles` -> `0000000100000002` -> (Wii Menu version) and copy the .wad file to a folder called `wad` on your SD Card or USB drive.
-6. (If you have [RiiConnect24](riiconnect24), you can skip this step) Repeat steps 2-5 with `IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
+6. Repeat steps 2-5 with `IOS` -> `000000010000003A` -> `Latest Version`.
+7. (If you have [RiiConnect24](riiconnect24), you can skip this step) Repeat steps 2-5 with `IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
 
 | Région | Wii Menu version |
 | ------ | ---------------- |
@@ -52,11 +53,10 @@ Servez-vous de la croix directionnelle pour utiliser cet outil.
 2. Lancez la Chaîne Homebrew sur votre Wii.
 3. Lancez Wii Mod Lite.
 4. À l'aide de la croix directionnelle de votre télécommande Wii, accédez à `WAD Manager`, puis accédez au dossier `wad`.
-5. Press A to install the IOS80. [`Make sure the installation is successful, otherwise abort.`]
+5. Press A to install the IOS80 `.wad` file. [`Make sure the installation is successful, otherwise abort.`]
 6. Press A to install the Wii Menu WAD.
-7. Une fois qu'ils sont tous correctement installés, appuyez sur le bouton HOME pour revenir au Homebrew Channel.
-8. Launch IOS58 Installer.
-9. Follow the instructions to install IOS58.
+7. Press A to install the IOS58 `.wad` file. [`Make sure the installation is successful, otherwise abort.`]
+8. Une fois qu'ils sont tous correctement installés, appuyez sur le bouton HOME pour revenir au Homebrew Channel.
 
 Installing a Wii Menu WAD will **remove** Priiloader. Do not reboot before you have installed it again, otherwise you could BRICK.
 {: .notice--danger}
