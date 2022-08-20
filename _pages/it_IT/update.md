@@ -10,9 +10,9 @@ Se hai bisogno di qualsiasi informazione riguardante questo tutorial, entra nel 
 This tutorial will explain how to update your Wii Menu to version 4.3, if you have already homebrewed your Wii.
 
 #### Di cosa hai bisogno
+
 * Una scheda SD o dispositivo di archiviazione USB
 * Un computer con Windows installato
-* [IOS58 Installer](https://oscwii.org/library/app/ios58-installer)
 * [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest)
 * [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
@@ -34,7 +34,8 @@ Per proteggersi dal brick della console, [assicurati di installare Priiloader](p
 3. Assicurati che l'opzione `Pack WAD` sia spuntata.
 4. Premi `Start NUS Download!`.
 5. Apri `titles` -> `0000000100000002` -> (versione del Menu Wii) e copia il file .wad in una cartella chiamata `wad` sulla scheda SD o unità USB.
-6. (Se hai [RiiConnect24](riiconnect24), puoi saltare questo passaggio) Ripeti i passi 2-5 con `IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
+6. Repeat steps 2-5 with `IOS` -> `000000010000003A` -> `Latest Version`.
+7. (If you have [RiiConnect24](riiconnect24), you can skip this step) Repeat steps 2-5 with `IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
 
 | Region       | Versione del Menu Wii |
 | ------------ | --------------------- |
@@ -52,11 +53,10 @@ Userai il tasto + del tuo controller/Wiimote per usare questo tool.
 2. Carica il Canale Homebrew sul tuo Wii.
 3. Avvia Wii Mod Lite.
 4. Usando il tasto + sul telecomando Wii, naviga su `WAD Manager`, e poi naviga sulla cartella `wad`.
-5. Premi A per installare IOS80. [`Assicurati che l'installazione sia riuscita, altrimenti interrompi.`]
+5. Press A to install the IOS80 `.wad` file. [`Assicurati che l'installazione sia riuscita, altrimenti interrompi.`]
 6. Premere A per installare il WAD del tuo Menu Wii.
-7. Dopo che ha installato con successo, premi il tasto HOME per tornare al Canale Homebrew.
-8. Avvia IOS58 Installer.
-9. Seguire le istruzioni a schermo per installare l'IOS58.
+7. Press A to install the IOS58 `.wad` file. [`Assicurati che l'installazione sia riuscita, altrimenti interrompi.`]
+8. Dopo che ha installato con successo, premi il tasto HOME per tornare all'Hombrew Channel.
 
 Installing a Wii Menu WAD will **remove** Priiloader. Do not reboot before you have installed it again, otherwise you could BRICK.
 {: .notice--danger}
