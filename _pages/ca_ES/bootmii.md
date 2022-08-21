@@ -47,5 +47,5 @@ Per a recuperar des d'una còpia de la NAND que està a la teva targeta SD, pots
 Per a estar segur que no aniràs a perdre els arxius, es recomana copiar `nand.bin` i `keys.bin` des de l'arreu de la teva targeta SD al teu ordinador.
 {: .notice--info}
 
-[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii as IOS.
+[Continuar amb l'instal·lació de Priiloader](priiloader)<br> Priiloader afegeix un nivell de protecció contra brickejos, i ho recomanem, especialment si solament vas poder instal·lar BootMii com a IOS.
 {: .notice--info}
