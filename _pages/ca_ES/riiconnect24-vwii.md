@@ -5,7 +5,7 @@ title: RiiConnect24 vWii Guide
 {% include toc title="Continguts" %}
 
 Si necessites ajuda amb qualsevol cosa relacionada amb aquesta guia, uneix-te al [servidor de Discord de RiiConnect24](https://discord.gg/rc24) (recomanat) o [envia un correu electrònic a support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: . notícia--informació}
+{: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
@@ -22,7 +22,7 @@ We are **NOT** responsible if you brick, or damage your console in any way whats
 Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on Wii U). If you're looking for instructions for a Nintendo Wii, use [this guide](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [this guide](riiconnect24-dolphin) instead.
 {: .notice--warning}
 
-#### What you need
+#### Què necessitaràs?
 
 * A PC or mobile device with internet access and the ability to interact with SD cards.
 * An SD card formatted as FAT32 (at least 2GB) with enough available space. SDHC or SDXC cards formatted as FAT32 can be known to work.
@@ -34,7 +34,7 @@ After following the above linked guide, you should have:
 * The Homebrew Channel installed
 * d2x cIOS installed (IOS249, IOS250 and IOS251)
 * IOS80 patched
-{: . notícia--informació}
+{: .notice--info}
 
 #### Instruccions
 
@@ -61,7 +61,7 @@ Using the RiiConnect24 Patcher you should've downloaded earlier in [What you nee
 2. Launch the ww-43db-patcher
 
 If you install a theme, you will have to run the ww-43db-patcher once more
-{: . notícia--informació}
+{: .notice--info}
 
 ##### Section IV - Using RiiConnect24
 
