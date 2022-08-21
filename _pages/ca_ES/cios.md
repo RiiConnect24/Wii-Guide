@@ -4,15 +4,15 @@ title: "cIOS"
 
 {% include toc title="Tablof Contents" %}
 
-This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
+Aquest tutorial us ensenyarà a instalar cIOS (IOS costumizats). Açò és requerit si vols carregar jocs amb un "USB Loader". Alguns programes "homebrew" poden funcionar millor emprant cIOS.
 
 ![instalador d2x cIOS](/images/cios/cIOS.png)
 
-If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
-{: . notícia--informació}
+Si tens una Wii U (vWii), segueix [aquesta guia](https://wiiu.hacks.guide/#/vwii-modding)per a instal·lar cIOS. Intentar instal·lar qualsevol altre cIOS a la vWii no funcionarà.
+{: .notice--info}
 
 If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
-{: . notícia--informació}
+{: .notice--info}
 
 #### What you need
 
