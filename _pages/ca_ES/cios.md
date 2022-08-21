@@ -11,7 +11,7 @@ Aquest tutorial us ensenyarà a instalar cIOS (IOS costumizats). Açò és reque
 Si tens una Wii U (vWii), segueix [aquesta guia](https://wiiu.hacks.guide/#/vwii-modding)per a instal·lar cIOS. Intentar instal·lar qualsevol altre cIOS a la vWii no funcionarà.
 {: .notice--info}
 
-If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
+Si tens una Wii, aleshores segueix [aquesta guia](cios-mini). Intentar instal·lar qualsevol altre cIOS a la vWii no funcionarà.
 {: .notice--info}
 
 #### Què necessitaràs?
@@ -32,20 +32,20 @@ Assegurat que si estàs emprant una targeta SD, l'interruptor de bloqueig es tro
 
 ##### Secció I - Descarregar
 
-1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
-1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
+1. Descarrega l'instal·lador del cIOS d2x i extrau-lo al "root" de la tarjeta SD o Pendrive USB.
+1. Inserta la tarjeta SD o Penrive USB a la teva Wii, i inicia l'instal·lador del cIOS d2x des-del "Homebrew Channel".
 </div>
 <div id="without-connection" class="blanktabcontent" markdown="1">
 
 ##### Secció I - Descarregar
 
-1. Download, extract, and run [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
-1. Select "Database", "IOS", then "IOS57", and select "v5918".
-   - Ensure that "Pack WAD" is checked and "Patch IOS" is unchecked.
-1. Repeat the previous step for IOS56 v5661 and IOS38 v4123.
-1. Once you have downloaded all three IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. Open the folder and navigate through them until you locate the three WAD files you downloaded. Place each of WAD files on the root of your SD card or USB drive.
-1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
-1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
+1. Descarrega, extrau i inicia l'aplicació [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
+1. Selecciona "Database", "IOS", després "IOS57", i selecciona "v5918".
+   - Assegura't que "Pack WAD" està seleccionat però "Patch IOS" no ho està.
+1. Repeteix el pas anterior per a IOS56 v5661 i IOS38 v4123.
+1. Una vegada hagis descarregat els tres IOS, hi haurà una carpeta anomenada `titles` a la mateixa carpeta del "NUS Downloader". Obri la carpeta i navega a aquesta fins a trobar els tres arxius WAD que vas descarregar. Posa'ls al "root" de la targeta SD o Pendrive USB.
+1. Descarrega l'instal·lador del cIOS d2x i extrau-lo al "root" de la tarjeta SD o Pendrive USB.
+1. Inserta la tarjeta SD o Penrive USB a la teva Wii, i inicia l'instal·lador del cIOS d2x des-del "Homebrew Channel".
 </div>
 
 ##### Secció II - Instalant
@@ -61,7 +61,7 @@ Select cIOS version: 65535
 
 ![Install cIOS 249](/images/cios/Install249.png)
 
-1. Once set, press A twice to install.
+1. Una volta preparat, prem A dues vegades per a instal·lar.
 1. Quan hagueu acabat d'instalar, premeu A per a tornar, i poseu les opcions a les següents:
 
 ```
@@ -73,7 +73,7 @@ Select cIOS version: 65535
 
 ![Install cIOS 250](/images/cios/Install250.png)
 
-1. Once set, press A twice to install.
+1. Una volta preparat, prem A dues vegades per a instal·lar.
 1. Quan hagueu acabat d'instalar, premeu A per a tornar, i poseu les opcions a les següents:
 
 ```
@@ -85,9 +85,9 @@ Select cIOS version: 65535
 
 ![Install cIOS 251](/images/cios/Install251.png)
 
-1. Once set, press A twice again to install, and then exit once done.
+1. Una volta preparat, prem A dues vegades per a instal·lar, i ix una vegada acabat.
 
-#### Troubleshooting
+#### Resolució de problemes
 
 {% capture bruh %}
 Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
