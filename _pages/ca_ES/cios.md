@@ -14,30 +14,30 @@ Si tens una Wii U (vWii), segueix [aquesta guia](https://wiiu.hacks.guide/#/vwii
 If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
 {: .notice--info}
 
-#### What you need
+#### Què necessitaràs?
 
-- A Wii
-- An SD card or USB drive
-- [instalador d2x cIOS](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
+- Una Wii
+- Una tarjeta SD o Pendrive USB
+- [Instal·lador d2x cIOS](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
-Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
+Assegurat que si estàs emprant una targeta SD, l'interruptor de bloqueig es troba a la posició de "desbloqueig", d'altra forma no podràs seleccionar les opcions correctes a l'instal·lador.
 {: .notice--warning}
 
 #### Instruccions
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'with-connection')">With an Internet connection to the Wii</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'without-connection')">Without an Internet connection to the Wii</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'with-connection')">Amb internet a la Wii</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'without-connection')">Sense internet a la Wii</button>
 
 <div id="with-connection" class="blanktabcontent" markdown="1">
 
-##### Section I - Downloading
+##### Secció I - Descarregar
 
 1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
 1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
 </div>
 <div id="without-connection" class="blanktabcontent" markdown="1">
 
-##### Section I - Downloading
+##### Secció I - Descarregar
 
 1. Download, extract, and run [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
 1. Select "Database", "IOS", then "IOS57", and select "v5918".
@@ -48,9 +48,9 @@ Ensure that if you are using an SD card, the lock switch is in the unlocked posi
 1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
 </div>
 
-##### Section II - Installing
+##### Secció II - Instalant
 
-1. Press continue, then set the options to the following:
+1. Premeu continuar, després fixeu les opcions a les següents:
 
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
@@ -122,13 +122,13 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 ##### Options once complete
 
 [Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
-{: . notícia--informació}
+{: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
-{: . notícia--informació}
+{: .notice--info}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
-{: . notícia--informació}
+Ara pots utilitzar homebrew com [USB Loader GX](usbloadergx) i [WiiFlow](wiiflow).
+{: .notice--info}
 
 <script>
     let tabcontent = document.getElementsByClassName("blanktabcontent");
