@@ -46,7 +46,7 @@ To protect against bricks, [make sure you install Priiloader](priiloader). Also,
 
 ##### Secció II - Instalant
 
-You use the +Control Pad to use this tool.
+Utilitza la +Crosseta de Control per a utilitzar aquesta ferramenta.
 {: .notice--info}
 
 1. Put your SD card or USB drive in your Wii.
