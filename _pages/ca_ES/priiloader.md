@@ -5,7 +5,7 @@ title: "Priiloader"
 {% include toc title="Continguts" %}
 
 Si necessites ajuda amb qualsevol cosa relacionada amb aquesta guia, uneix-te al [servidor de Discord de RiiConnect24](https://discord.gg/rc24) (recomanat) o [envia un correu electrònic a support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: . notícia--informació}
+{: .notice--info}
 
 Priiloader adds a level of brick protection to your Wii. It loads before the Wii Menu does (hence the name). The tool can also enable hacks for your Wii Menu, and be used to quickly launch the Homebrew Channel, BootMii, or whatever homebrew you want!
 
@@ -14,9 +14,9 @@ Priiloader adds a level of brick protection to your Wii. It loads before the Wii
 Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your vWii by doing this.
 {: .notice--warning}
 
-#### What you need
+#### Què necessitaràs?
 
-- An SD card or USB drive
+- Una tarjeta SD o Pendrive USB
 - [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
 #### Instruccions
@@ -42,7 +42,7 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your
 3. Go to `System Menu Hacks`.
 
 If you are using a USB drive to install Priiloader, make sure you do not have an SD card inserted at the same time. This will cause Priiloader to be unable to find the hacks_hash.ini file.
-{: . notícia--informació}
+{: .notice--info}
 
 4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
 1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
@@ -78,4 +78,4 @@ This is a list of the hacks you can enable with Priiloader.
 | Force Disc Games to run under IOS249    | Make discs use cIOS 249 as the game's IOS. While it cannot allow playing of burned games on its own, it is needed to play burned discs. (Can give you Error 002 on a non-burned game) |
 
 [Continue to the Dos and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
-{: . notícia--informació}
+{: .notice--info}
