@@ -9,9 +9,9 @@ title: "Riiconnect24"
 This guide will help you install RiiConnect24 on your Dolphin installation.
 
 If you need help for anything regarding this tutorial, please directly contact KcrPL#4625 on Discord, join the [RiiConnect24 Discord Server](https://discord.gg/rc24) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: . notícia--informació}
+{: .notice--info}
 
-### What you need
+### Què necessitaràs?
 
 * A computer with either Windows 7 or newer or any Unix-based system
 * [.VFF-File-Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases) if using a Unix-based system
@@ -23,7 +23,7 @@ If you need help for anything regarding this tutorial, please directly contact K
 ##### Section I - Installing Dolphin
 
 If you have Dolphin already installed, skip to Section II
-{: . notícia--informació}
+{: .notice--info}
 
 1. Download the latest Dolphin beta version, but **not a stable version as these are very outdated!**
 2. Extract the .7z file using a program like 7Zip or WinRAR.
@@ -31,7 +31,7 @@ If you have Dolphin already installed, skip to Section II
 4. Press on `Tools` -> `Perform Online System Update` -> Choose your region. ![Perform Online System Update](/images/Dolphin_RC24/1.jpg)
 
 If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii) instead of installing the Wii System menu via this method. See [this page](https://wiki.dolphin-emu.org/index.php?title=NAND_Usage_Guide) for more information.
-{: . notícia--informació}
+{: .notice--info}
 
 ##### Section II - Installing RiiConnect24
 
@@ -47,9 +47,9 @@ If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii)
 6. Proceed with the program configuration.
 7. It will ask you if you want to run the program manually every time you want to use RiiConnect24 on Dolphin or if you want to run it automatically on startup. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
 If you choose to manually run it, keep `RiiConnect24Patcher.bat`. There will be an option in the menu to manually run it.
-{: . notícia--informació}
+{: .notice--info}
 If you choose to run it on startup, you don't have to do anything. If you want to uninstall it in the future, come back to `RiiConnect24Patcher.bat` and choose Settings - Manage startup VFF Downloader.
-{: . notícia--informació}
+{: .notice--info}
 
 8. Press any key to go back to the RiiConnect24 patcher.
 9. Once back in the RiiConnect24 Patcher, press `1` and then `Enter`.
@@ -60,16 +60,16 @@ If you choose to run it on startup, you don't have to do anything. If you want t
 
 <div id="unix" class="blanktabcontent" markdown="1">
 The screenshots in this section are taken from Windows, but the same steps can be followed on your Unix-based machine.
-{: . notícia--informació}
+{: .notice--info}
 
 1. Run `VFF-Downloader-for-Dolphin.sh`. ![Main Menu](/images/Dolphin_RC24/2.jpg)
 3. Proceed with the program configuration.
 4. It will ask you if you want to run the program manually every time you want to use RiiConnect24 on Dolphin or if you want to run it automatically on startup. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
 ![Run once](/images/Dolphin_RC24/4.jpg)
 If you choose to manually run it, keep `VFF-Downloader-for-Dolphin.sh`. There will be an option in menu to manually run it.
-{: . notícia--informació}
+{: .notice--info}
 If you choose to run it on startup, you don't have to do anything. If you want to uninstall it in the future, come back to `VFF-Downloader-for-Dolphin.sh` and choose - Manage startup VFF Downloader.
-{: . notícia--informació}
+{: .notice--info}
 5. Run `RiiConnect24Patcher.sh`.
 6. Start the patcher, select `Install RiiConnect24`. ![Select Custom](/images/Dolphin_RC24/5.jpg)
 7. Select `Custom`. ![Select Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
@@ -79,7 +79,7 @@ If you choose to run it on startup, you don't have to do anything. If you want t
 </div>
 
 You're all done! Unfortunately, the Nintendo Channel and Wii Mail don't work in Dolphin yet.
-{: . notícia--informació}
+{: .notice--info}
 
 <script>
     let tabcontent = document.getElementsByClassName("blanktabcontent");
