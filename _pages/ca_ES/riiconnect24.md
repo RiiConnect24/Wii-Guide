@@ -5,7 +5,7 @@ title: "Riiconnect24"
 {% include toc title="Continguts" %}
 
 If you need help with anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: . notícia--informació}
+{: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
@@ -23,9 +23,9 @@ This guide is for regular Wiis only.
 DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
-#### What you need
+#### Què necessitaràs?
 
-* An SD card or USB drive
+* Una tarjeta SD o Pendrive USB
 * A Wii with an Internet connection
 * A computer
 * [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
@@ -35,7 +35,7 @@ DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick th
 ##### Section I - Using RiiConnect24 Patcher
 
 If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
-{: . notícia--informació}
+{: .notice--info}
 
 1. Click the link above to go to the GitHub page where the patcher is.
 2. Download `RiiConnect24Patcher.bat` if you are on Windows, and `RiiConnect24Patcher.sh` if you are on a Unix system
@@ -72,7 +72,7 @@ You will now patch your `nwc24msg.cfg` file which is required in order to use Wi
 2. It should only take a few seconds to patch your nwc24msg.cfg. When it's done, press the HOME Button to exit.
 
 If you were unable to patch your nwc24msg.cfg correctly, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
-{: . notícia--informació}
+{: .notice--info}
 
 ##### Section IV - Connecting
 
@@ -102,13 +102,13 @@ You will now set your DNS to our servers. This is optional but it's recommended,
 16. Finally, go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`. Please read through this.
 
 [Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
-{: . notícia--informació}
+{: .notice--info}
 
 [Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. This is optional to install.
-{: . notícia--informació}
+{: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
-{: . notícia--informació}
+{: .notice--info}
 
 If you get error 107245, then you have not installed the patched IOS.
 {: .notice--warning}
