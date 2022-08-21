@@ -5,13 +5,13 @@ title: "SysCheck"
 {% include toc title="Continguts" %}
 
 Si necessites ajuda amb qualsevol cosa relacionada amb aquesta guia, uneix-te al [servidor de Discord de RiiConnect24](https://discord.gg/rc24) (recomanat) o [envia un correu electrònic a support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: . notícia--informació}
+{: .notice--info}
 
 A SysCheck lists all the IOS and cIOS that are on your Wii, along with some information about each of them. It also gives you some other useful information. When you have IOS-related problems on your Wii, someone might ask you to do a SysCheck.
 
-#### What you need
+#### Què necessitaràs?
 
-* An SD card or USB drive
+* Una tarjeta SD o Pendrive USB
 * [SysCheck HacksDen Edition](https://hbb1.oscwii.org/hbb/SysCheckHDE/SysCheckHDE.zip)
 
 #### Instruccions
