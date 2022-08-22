@@ -5,19 +5,19 @@ title: "Get Started"
 {% include toc title="Continguts" %}
 
 Si necessites ajuda amb qualsevol cosa relacionada amb aquesta guia, uneix-te al [servidor de Discord de RiiConnect24](https://discord.gg/rc24) (recomanat) o [envia un correu electrònic a support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: . notícia--informació}
+{: .notice--info}
 
 Even if your Wii has already been softmodded in the past, following these steps can still ensure that your softmod is up to date.
-{: . notícia--informació}
+{: .notice--info}
 
 All of the exploits run the HackMii Installer, and have the same end result.
-{: . notícia--informació}
+{: .notice--info}
 
 Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
-{: . notícia--informació}
+{: .notice--info}
 
 If your Wii Menu is not on version 4.3, use str2hax or FlashHax to install the Homebrew Channel, and then follow the [update guide](update) to update to 4.3.
-{: . notícia--informació}
+{: .notice--info}
 
 This guide is for the original Wii and Wii mini only (including the Wii Family Edition). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
 {: .notice--warning}
