@@ -23,7 +23,7 @@ Priiloader proporciona un nivel adicional de protección contra bricks a tu cons
 
 ##### Sección I - Descarga/instalación
 
-1. Download the Priiloader installer and extract it to the root of your SD card or USB drive.
+1. Descarga el instalador de Priiloader y extraelo a la raíz de tu tarjeta SD o memoria USB.
 
 ##### Sección II - Instalación
 
