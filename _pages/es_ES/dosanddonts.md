@@ -1,5 +1,5 @@
 ---
-title: "Hacer y No hacer al modificar una Wii"
+title: "Cosas que hacer y no hacer al modificar una consola Wii"
 ---
 
 {% include toc title="Tabla de contenidos" %}
@@ -15,7 +15,7 @@ Aquí puedes encontrar una lista de cosas que deberías y no deberías hacer una
 - **DEBES** hacer una copia de seguridad de la NAND de tu Wii regularmente con [BootMii](bootmii), especialmente antes de hacer algo arriesgado.
 - **DEBES** utilizar nuestro tutorial al instalar temas para el Menú de Wii. ([Wii](themes) / [vWii](themes-vwii)). Otros tutoriales pueden ser engañosos y causar un brick en tu consola Wii.
 - **NO DEBES** instalar WADs aleatorios de IOS, versiones antiguas del Menú de Wii, etc. a menos que sepas lo que estás haciendo, especialmente evita esto en una vWii o una Wii mini.
-- **DO NOT** use old versions of Wii homebrew. Si sigues tutoriales en línea para modificar tu Wii, ten cuidado al usar tutoriales viejos (normalmente antes del 2012), especialmente si tienen que modificar cosas como los IOS.
+- **NO DEBES** usar versiones anteriores de ningun software homebrew para tu consola Wii. Si sigues tutoriales en línea para modificar tu Wii, ten cuidado al usar tutoriales viejos (normalmente antes del 2012), especialmente si tienen que modificar cosas como los IOS.
 - **NO DEBES** modificar, renombrar o eliminar archivos aleatorios en la NAND de tu Wii a menos que sepas lo que estás haciendo.
 - **NO DEBES** usar la aplicación homebrew "KoreanKii" en una Wii no coreana.
 - **NO DEBES** instalar ningún IOS o Menú de Wii en una Wii mini distinto de [d2xl cIOS](cios-mini). Hacer esto brickeará tu consola si no hay una tarjeta Wi-Fi soldada a ella.
