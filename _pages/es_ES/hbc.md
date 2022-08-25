@@ -22,8 +22,8 @@ El Canal Homebrew es desde donde iniciarás las aplicaciones homebrew. BootMii e
 4. Selecciona `Continue` cuando la instalación haya finalizado.![Instalación del Canal Homebrew exitosa](/images/Wii/SuccessHBC.png)
 
 5. Una vez instalado, presiona `Back` y selecciona `BootMii`.
-6. Si en la pantalla dice que puede ser instalado como boot2, hazlo. Esto ofrece protección de brick en lo mejor posible que podrás tener. Skip this step if the option doesn't show up, in that case your Wii is not one of the earlier models that supports it.
-7. Install BootMii as IOS, even if you already installed BootMii as boot2 in the previous step. If you couldn't install BootMii as boot2, this will still allow you to create a NAND backup.
+6. Si en la pantalla dice que puede ser instalado como boot2, hazlo. Esto ofrece protección de brick en lo mejor posible que podrás tener. Salta este pasi si la opción no aparece, en ese caso tu Wii no es uno the los primeros modelos que son compatibles con la instalación como boot2.
+7. Instala BootMii como IOS, incluso si ya lo has instalado como boot2 en el paso anterior. Si no pudiste instalar BootMii como boot2 en el paso anterior, esto te seguira permitiendo crear un respaldo de la memoria NAND de tu consola Wii.
 
 If you do not have an SD card, you cannot install nor use BootMii, and therefore will not be able to utilize any of the mentioned benefits. Puedes instalarlo más tarde.
 {: .notice--warning}
