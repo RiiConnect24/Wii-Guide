@@ -17,22 +17,22 @@ LetterBomb es un exploit para el Wii que se activa mediante el tablón de Wii.
 
 
 1. En tu Wii, ve a `Configuración de Wii` -> `Internet` -> `Información de la consola` y anota la dirección MAC que ves en pantalla.
-1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, ensure `Bundle the HackMii Installer for me!` is checked, and cut either wire ![Pantalla HackMii](/images/Wii/LetterBomb-PC.png)
+1. Visita [please.hackmii.com](https://please.hackmii.com), introduce la dirección MAC de tu Wii y la región, completa el CAPTCHA, asegurate de que `Bundle the HackMii Installer for me!` esta marcado, y corta cualquier de los cables. ![Pantalla HackMii](/images/Wii/LetterBomb-PC.png)
 1. Extrae los contenidos del ZIP descargado en la ruta de tu tarjeta SD.
 1. Saca tu tarjeta SD e insértala en tu Wii.
-   - La tarjeta SD debe insertarse en la ranura para tarjetas SD ubicada en la parte frontal de la Wii. Using a USB adapter plugged into the Wii's USB port will not work.
+   - La tarjeta SD debe insertarse en la ranura para tarjetas SD ubicada en la parte frontal de la Wii. Usar una memoria USB en el puerto USB de tu consola Wii no funcionará.
 1. En tu Wii, regresa al Menú Wii y abre el Tablón de Wii.
 1. Selecciona la carta roja con el icono de una bomba.
-   - Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
-   - In various scenarios, you may need to look at the previous or next day to find it.
-   - If you don't see the red letter, you may be using an unsupported SD card that's greater than 32GB in size.
-   - If your Wii freezes after clicking on the letter, you probably chose the wrong region when downloading the exploit. Redo Step 2 and select the correct region.
+   - Asegurate de que la fecha de tu consola Wii es correcta. En caso contrario, puede ser que seas incapaz de encontrar la carta.
+   - En multiples casos puede que tengas que mirar en el dia anterior o el dia siguiente para encontrar la carta.
+   - Si no encuentras la carta roja, puede que estes usando una tarjeta SD no compatible o/y que sea de mas de 32GB.
+   - Si tu consola Wii se congela despues de hacer click en la carta, seguramenta hayas elegido la región equivocada al descargar los archivos necesarios. Simplemente vuelve a hacer el paso dos y selecciona la región correcta.
 
 
 {: .notice--warning}
 
 
-![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
+![LetterBomb en el menu Wii](/images/Wii/LetterBomb-Wii.png)
 
 [Continuar a la instalación del Canal Homebrew y BootMii](hbc)
 {: .notice--info}
