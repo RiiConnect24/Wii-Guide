@@ -10,7 +10,7 @@ sitemap: false
 **Destacados**
 
 + [Instalar cIOS](cios)
-+ [Kirby TV Channel](kirby-tv)
++ [Canal Kirby TV](kirby-tv)
 + [RiiConnect24](riiconnect24)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
@@ -25,7 +25,7 @@ sitemap: false
 + [Actualización del DNS de RiiConnect24](riiconnect24-dns-update)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
-+ [Kirby TV Channel](kirby-tv)
++ [Canal Kirby TV](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Deleting VFFs](deleting-vffs)
 + [Fixing FORE000006](riiconnect24-batteryfix)
