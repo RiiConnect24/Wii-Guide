@@ -11,22 +11,22 @@ Unsere offizielle DNS-Adresse wurde aktualisiert. Wir verlangen von allen Benutz
 
 Die alte Adresse wird noch so lange unterstützt, bis das Datum der `ABSCHALTUNG` erreicht ist. Wir werden dich in den nächsten Monaten weiterhin durch Wii Mail und unseren [Discord-Server](https://discord.gg/rc24) an den Wechsel der DNS-Adresse erinnern.
 
-We've restricted access to Forecast Channel and News Channel for users still using the old DNS Address. Users will also see a new EULA when trying to enable WiiConnect24 reminding them about the change. ![Die Benachrichtigung auf der EULA-Bestätigungsseite.](/images/eula_change_dns_notification.png) ![The notification on the Forecast Channel](/images/forecast_change_dns_notification.png) ![Die Benachrichtigung auf dem News-Kanal](/images/news_channel_change_dns_notification.png)
+Wir haben den Zugriff auf den Forecast Channel und News-Kanal für Benutzer, die noch die alte DNS-Adresse verwenden, eingeschränkt. Benutzer werden auch eine neue EULA sehen, wenn sie versuchen, WiiConnect24 zu aktivieren, um sie an die Änderung zu erinnern. ![Die Benachrichtigung auf der EULA-Bestätigungsseite.](/images/eula_change_dns_notification.png) ![Die Benachrichtigung auf dem Weterkanal](/images/forecast_change_dns_notification.png) ![Die Benachrichtigung auf dem Nachrichtenkanal](/images/news_channel_change_dns_notification.png)
 
-To update your entered DNS Address please follow these steps:
+Um Ihre eingegebene DNS-Adresse zu aktualisieren, folgen Sie bitte diesen Schritten:
 
 1. Gehe in die `Wii-Optionen`.
 2. Gehe in die `Wii-Systemeinstellungen`.
 3. Gehe auf `Seite 2`, wähle dann `Internet`.
 4. Gehe auf `Verbindungseinstellungen`
-5. Select your current connection
-6. Go to `Change Settings`
+5. Wähle deine derzeitige Verbindung aus
+6. Gehe zu `Einstellungen ändern`
 7. Gehe auf `DNS automatisch beziehen` (Nicht IP-Adresse), wähle dann `Nein` und gehe dann auf `Detaileinstellungen`.
 8. Setze `167.86.108.126` als primäre DNS-Adresse fest
 9. Setze `1.1.1.1` als sekundäre DNS-Adresse fest
 10. Wähle `Bestätigen`, dann `Speichern`
-11. Select `OK` to perform a connection
+11. Wähle `OK` um einen Verbindungstest durchzuführen
 12. Wenn der Verbindungstest erfolgreich war, wähle `Nein`, um das Wii-Systemupdate zu überspringen.
 
-The old DNS Server will stop working on `June 1st, 2023`.
+Der alte DNS-Server wird am `1. Juni 2023` nicht mehr funktionieren.
 {: .notice--warning}
