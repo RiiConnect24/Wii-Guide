@@ -86,5 +86,5 @@ Los siguientes servicios de RiiConnect24 **están funcionando** en la vWii:
 Los siguientes servicios de RiiConnect24 **no están funcionando** en la vWii:
 * Correo de Wii (la mayoría de las funciones no existen en vWii)
     * Esto incluye enviando/recibiendo correos para/de amigos. Solo puedes recivir correos de difusión global y posts de feeds RSSMii (si está configurado).
-* Everything else that isn't working according to [RiiConnect24 stats](https://rc24.xyz/stats/index.html).
+* Todo lo demás que no funciona según las estadísticas de [RiiConnect24](https://rc24.xyz/stats/index.html).
 {: .notice--warning}
