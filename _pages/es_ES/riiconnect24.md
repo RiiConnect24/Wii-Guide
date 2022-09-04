@@ -119,7 +119,7 @@ Si obtienes el error 107304 o ves el Acuerdo de Usuario de Nintendo sin el logo 
 Si recibes el error FORE000006, el reloj de tu Wii está (probablemente) configurado incorrectamente. Establece el reloj a la fecha y hora correcta, y luego espere poco menos de una hora, y el Canal del Clima podría funcionar.
 {: .notice--warning}
 
-[If you still get FORE000006 or if you get NEWS000006, you will need to delete your SYSCONF with rc24-clear-tool](https://github.com/RiiConnect24/rc24-clear-tool/releases/latest).
+[Si todavía obtienes FORE000006 o NEWS000006, tendrás que eliminar tu SYSCONF con rc24-clear-tool](https://github.com/RiiConnect24/rc24-clear-tool/releases/latest).
 {: .notice--warning}
 
 [If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with rc24-clear-tool.](deleting-vffs)
