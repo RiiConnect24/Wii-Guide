@@ -151,7 +151,7 @@ Tener una red Wi-Fi con seguridad WEP o sin seguridad es la parte más difícil,
 MrBean35000vr y Chadderz tienen una increíble distribución de circuitos personalizados llamada CTGP-R, que además incluye un parche de Wiimmfi automático incluido. Visita el [Sitio web de ChadSoft](http://chadsoft.co.uk) para la descarga y las instrucciones.
 
 #### MKW Hack Pack
-PhillyG has put together a collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. Para aprender a configurarlo, visita la [wiki](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+PhillyG ha reunido una colección de pistas personalizadas y hacks llamada MKW Hack Pack, y permite conexiones a Wiimmfi. Para aprender a configurarlo, visita la [wiki](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
 
 #### Wiimms Mario Kart Fun
 Wiimm y Leseratte tienen una Distribución de circuitos personalizados llamada "Wiimms MKW Fun", que se actualiza unas 3 veces al años. Esta basada en el sistema LE-CODE de Leseratte, tiene soporte para Wiimmfi, y muchas otras caracteristicas. Puedes encontrar mas informacion sobre esto en la [Wiki](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
