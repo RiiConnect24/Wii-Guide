@@ -4,10 +4,10 @@ title: "WiiLink"
 
 {% include toc title="Tabla de contenido" %}
 
-WiiLink and all of its services (such as Wii no Ma) are not controlled or operated by RiiConnect24.
+WiiLink y todos sus servicios (como Wii no Ma) no son controlados ni operados por RiiConnect24.
 {: .notice--warning}
 
-[WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels Wii Room and Digicam Print Channel, and in the future will let you use the Demae Channel again.
+[WiiLink](https://wiilink24.com/) te permite utilizar la sala Wii y el canal Digicam Print, exclusivos para japoneses, y en el futuro te permitirá utilizar el canal Demae.
 
 #### Requisitos
 
@@ -39,7 +39,7 @@ If you use the Wii Patcher, you will not need to use our other patchers.
 [¡Si desea ver instrucciones detalladas sobre cómo instalar los WADs, haga clic aquí!](wiimodlite)
 {: .notice--info}
 
-1. Download the required files based on your OS. On Windows, run `WiiLinkPatcher.bat`. On Unix systems, launch terminal and type sh, then drag the `WiiLinkPatcher.sh` into the terminal and press enter.
+1. Descargue los archivos necesarios en función de su sistema operativo. En Windows, ejecuta `WiiLinkPatcher.bat`. En los sistemas Unix, inicie el terminal y escriba sh, luego arrastre el `WiiLinkPatcher.sh` al terminal y presione enter.
 2. Presiona 1 y luego Enter para comenzar.
 3. For this guide, choose "`Install WiiLink on your Wii`"
 4. Select your region.
