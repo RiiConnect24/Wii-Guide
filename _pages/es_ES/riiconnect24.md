@@ -12,7 +12,7 @@ Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayud
 [RiiConnect24](https://rc24.xyz/) te permite utilizar nuevamente el servicio WiiConnect24, que incluye el Canal Noticias, Tiempo, Opiniones, Miirame y Nintendo, además del intercambio de mensajes y otros contenidos entre amigos Wii (mejor conocido como correo Wii).
 
 {% capture notice-1 %}
-This guide is for regular Wiis only.
+Esta guía es solo para Wiis normales.
 
 - Por favor sigue [esta guía](riiconnect24-vwii) si deseas instalar RiiConnect24 en el modo Wii de una consola Wii U (vWii).
 - Sigue [este tutorial](riiconnect24-dolphin) si quieres instalar RiiConnect24 en el emulador Dolphin.
@@ -20,7 +20,7 @@ This guide is for regular Wiis only.
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-¡NO INSTALE RIICONNECT24 EN UNA WII MINI! It will not work and it will brick the system.
+¡NO INSTALE RIICONNECT24 EN UNA WII MINI! No funcionará y hará que el sistema deje de funcionar.
 {: .notice--danger}
 
 #### Requisitos
@@ -28,7 +28,7 @@ This guide is for regular Wiis only.
 * Una tarjeta SD o unidad USB
 * Una consola Wii con conexión a internet
 * Una computadora
-* [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+* [Parcheador de RiiConnect24 (Windows, Mac y Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### Instrucciones
 
@@ -47,10 +47,10 @@ Si tienes problemas para ejecutar RiiConnect24 Patcher, por favor solicita ayuda
 8. Elige la región de tu consola. ![Select your region](/images/RC24_Patcher/5.JPG)
 9. Si lo deseas, también puedes instalar otros canales que no hacen uso de RiiConnect24. Las opciones que hayas seleccionado se marcarán con `[X]`. Presiona 5 y luego Enter si no estás interesado. ![Additional optional channels](/images/RC24_Patcher/6.JPG)
 10. Inserta la tarjeta SD o unidad USB en tu computadora y elige la opción 1. ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
-11. Si el dispositivo fue detectado con éxito, elige "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Drive and try again. ![Successfully detected](/images/RC24_Patcher/8.JPG)
-12. Be patient... ![It's patching!](/images/RC24_Patcher/9.JPG)
-13. After it's done, we would appreciate if you take a minute to send anonymous feedback to us.  If you don't want to, close the patcher. All the files should already be on your SD Card. ![¡Listo!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
-14. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
+11. Si el dispositivo fue detectado con éxito, elige "`1`". Si no, asegúrate que exista una carpeta llamada `apps` en tu tarjeta SD o memoria USB e intenta otra vez. ![Successfully detected](/images/RC24_Patcher/8.JPG)
+12. Sé paciente... ![It's patching!](/images/RC24_Patcher/9.JPG)
+13. Cuando termine, agradeceríamos si tomaba un minuto de su tiempo para enviar una opinión anónima a nosotros.  Si no quiere hacer eso, cierre el parcheador. Todos los archivos deberían ya estar en tu tarjeta SD. ![¡Listo!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
+14. Si la herramienta no copió los archivos a tu tarjeta SD o memoria USB automáticamente, copia las carpetas `WAD` y `apps` al lado de `RiiConnect24Patcher.bat` a tu tarjeta SD o memoria USB.
 
 ##### Sección II - Instalación de WADs
 
@@ -71,13 +71,13 @@ Ahora vas a parchear tu archivo `nwc24msg.cfg`, que es necesario para poder util
 1. Lanza el RiiConnect24 Mail Patcher.
 2. En unos segundos deberías tener parcheado tu archivo nwc24msg.cfg. Cuando termine, pulse el botón HOME para salir.
 
-If you were unable to patch your nwc24msg.cfg correctly, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
+Si no lograste parchear tu nwc24msg.cfg correctamente, por favor únase al [servidor de Discord de RiiConnect24](https://discord.gg/rc24) (recomendado) o [envíenos un e-mail a support@riiconnect24.net (solo en inglés)](mailto:support@riiconnect24.net) para más asistencia.
 {: .notice--info}
 
 ##### Sección IV - Conectándose
 
 {% capture notice-1 %}
-Starting June 16th, 2022 the RiiConnect24 DNS changes. Lea más: [aquí.](riiconnect24-dns-update)
+A partir del 16 de junio de 2022, el DNS de RiiConnect24 cambiará. Lea más: [aquí.](riiconnect24-dns-update)
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
@@ -113,10 +113,10 @@ Ahora establecerá sus DNS a nuestros servidores. Esto es opcional pero se recom
 Si obtiene el error 107245, entonces no ha instalado el IOS parcheado.
 {: .notice--warning}
 
-Si obtienes el error 107304 o ves el Acuerdo de Usuario de Nintendo sin el logo de RiiConnect24, eso significa que tu ISP (Proveedor de Servicios de Internet) o tu red están bloqueando el uso de un DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
+Si obtienes el error 107304 o ves el Acuerdo de Usuario de Nintendo sin el logo de RiiConnect24, eso significa que tu ISP (Proveedor de Servicios de Internet) o tu red están bloqueando el uso de un DNS. Puedes establecer `Obtener DNS automáticamente` a `Encendido` para arreglar esto. RiiConnect24 funcionará incluso sin la opción activada. O, puedes usar nuestro programa [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest).
 {: .notice--warning}
 
-Si recibes el error FORE000006, el reloj de tu Wii está (probablemente) configurado incorrectamente. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel may start working.
+Si recibes el error FORE000006, el reloj de tu Wii está (probablemente) configurado incorrectamente. Establece el reloj a la fecha y hora correcta, y luego espere poco menos de una hora, y el Canal del Clima podría funcionar.
 {: .notice--warning}
 
 [If you still get FORE000006 or if you get NEWS000006, you will need to delete your SYSCONF with rc24-clear-tool](https://github.com/RiiConnect24/rc24-clear-tool/releases/latest).
