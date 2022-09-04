@@ -108,7 +108,7 @@ After you find the .app file, copy it to the main directory of the folder contai
 4. Lorsqu'il vous invite à installer le thème, dites `Oui` et attendez qu'il se termine.
 5. Une fois l'installation terminée, MyMenuify vous demandera soit `Continuer` ou `Quitter`, choisissez `Quitter`.
 
-If you did everything correctly, you should now have your custom theme installed on your Wii Menu.
+Si vous avez tout fait correctement, votre thème personnalisé devrait maintenant être installé sur votre Wii Menu.
 
 ##### Revenir au thème d'origine
 
