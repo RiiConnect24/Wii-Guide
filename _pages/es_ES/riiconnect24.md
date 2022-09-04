@@ -40,16 +40,16 @@ Si tienes problemas para ejecutar RiiConnect24 Patcher, por favor solicita ayuda
 1. Haz clic en el enlace de arriba para ir a la página de RiiConnect24 Patcher en GitHub.
 2. Descarga `RiiConnect24Patcher.bat` si usas Windows, o `RiiConnect24Patcher.sh` en el caso de macOS y Linux.
 3. Si usas Windows, ejecuta `RiiConnect24Patcher.bat`. En macOS y Linux, abre una Terminal pulsando Ctrl + Alt + T, escribe `bash`, luego arrastra y suelta el archivo `RiiConnect24Patcher.sh` en la Terminal, y finalmente presiona Enter. El comando debería ser `bash RiiConnect24Patcher.sh`.
-4. Presiona 1 y luego Enter para comenzar. (Nota: Estas capturas de pantalla corresponden a la versión de Windows del programa.) ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
-5. Elige el tipo de consola que vas a modificar.![Select your device](/images/RC24_Patcher/2.JPG)
-6. Para esta guía, elige "`Instalar RiiConnect24 en tu Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
-7. Elija "`Express (Recomendado)`". Te dará todo lo que necesitas. ![Express Settings](/images/RC24_Patcher/4.JPG)
-8. Elige la región de tu consola. ![Select your region](/images/RC24_Patcher/5.JPG)
-9. Si lo deseas, también puedes instalar otros canales que no hacen uso de RiiConnect24. Las opciones que hayas seleccionado se marcarán con `[X]`. Presiona 5 y luego Enter si no estás interesado. ![Additional optional channels](/images/RC24_Patcher/6.JPG)
-10. Inserta la tarjeta SD o unidad USB en tu computadora y elige la opción 1. ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
-11. Si el dispositivo fue detectado con éxito, elige "`1`". Si no, asegúrate que exista una carpeta llamada `apps` en tu tarjeta SD o memoria USB e intenta otra vez. ![Successfully detected](/images/RC24_Patcher/8.JPG)
-12. Sé paciente... ![It's patching!](/images/RC24_Patcher/9.JPG)
-13. Cuando termine, agradeceríamos si tomaba un minuto de su tiempo para enviar una opinión anónima a nosotros.  Si no quiere hacer eso, cierre el parcheador. Todos los archivos deberían ya estar en tu tarjeta SD. ![¡Listo!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
+4. Presiona 1 y luego Enter para comenzar. (Nota: Estas capturas de pantalla corresponden a la versión de Windows del programa.) ![Pantalla principal de el Parcheador de RiiConnect24](/images/RC24_Patcher/1.JPG)
+5. Elige el tipo de consola que vas a modificar.![Selecciona tu disposiivo](/images/RC24_Patcher/2.JPG)
+6. Para esta guía, elige "`Instalar RiiConnect24 en tu Wii`" ![Instalar RiiConnect24](/images/RC24_Patcher/3.JPG)
+7. Elija "`Express (Recomendado)`". Te dará todo lo que necesitas. ![Ajustes Express](/images/RC24_Patcher/4.JPG)
+8. Elige la región de tu consola. ![Selecciona tu región](/images/RC24_Patcher/5.JPG)
+9. Si lo deseas, también puedes instalar otros canales que no hacen uso de RiiConnect24. Las opciones que hayas seleccionado se marcarán con `[X]`. Presiona 5 y luego Enter si no estás interesado. ![Canales adicionales opcionales](/images/RC24_Patcher/6.JPG)
+10. Inserta la tarjeta SD o unidad USB en tu computadora y elige la opción 1. ![Activar el copiar a la tarjeta SD](/images/RC24_Patcher/7.JPG)
+11. Si el dispositivo fue detectado con éxito, elige "`1`". Si no, asegúrate que exista una carpeta llamada `apps` en tu tarjeta SD o memoria USB e intenta otra vez. ![Detectado correctamente](/images/RC24_Patcher/8.JPG)
+12. Sé paciente... ![¡Está parcheando!](/images/RC24_Patcher/9.JPG)
+13. Cuando termine, agradeceríamos si tomaba un minuto de su tiempo para enviar una opinión anónima a nosotros.  Si no quiere hacer eso, cierre el parcheador. Todos los archivos deberían ya estar en tu tarjeta SD. ![¡Listo!](/images/RC24_Patcher/10.JPG) ![Archivos copiados](/images/RC24_Patcher/11.PNG)
 14. Si la herramienta no copió los archivos a tu tarjeta SD o memoria USB automáticamente, copia las carpetas `WAD` y `apps` al lado de `RiiConnect24Patcher.bat` a tu tarjeta SD o memoria USB.
 
 ##### Sección II - Instalación de WADs
@@ -122,8 +122,8 @@ Si recibes el error FORE000006, el reloj de tu Wii está (probablemente) configu
 [Si todavía obtienes FORE000006 o NEWS000006, tendrás que eliminar tu SYSCONF con rc24-clear-tool](https://github.com/RiiConnect24/rc24-clear-tool/releases/latest).
 {: .notice--warning}
 
-[If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with rc24-clear-tool.](deleting-vffs)
+[SI obtienes algún otro error con el Canal Clima o el Canal Noticias, como algún código de error empezando en FORE o NEWS o un mensaje de descontinuación, puedes intentar eliminar tus VFFs con rc24-clear-tool.](deleting-vffs)
 {: .notice--warning}
 
-If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
+Si obtienes errores como `WiiConnect24 y Wii Shop Channel actualmente no estando disponibles en tu país`, ve a Ajustes de Wii > Última página > País y cámbielo a Reino Unido. Obtendrás este error cuando usas un país que no soportamos. Contáctanos a [support@riiconnect24.net](mailto:support@riiconnect24.net) si necesitas más ayuda.
 {: .notice--warning}
