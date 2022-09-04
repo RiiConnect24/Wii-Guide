@@ -25,8 +25,8 @@ RiiTag es un gamertag personalizable y dinámico. Al compartir tu gamertag (una 
 1. [Visita el sitio web de RiiTag.](https://tag.rc24.xyz/)
 2. Haz clic en `Log In` e inicia sesión con tu cuenta de Discord.
 3. Aparecerá un diálogo que te preguntará si deseas autorizar a `RiiConnect24 Login` con Discord. Haz clic en `Autorizar`.
-4. Click your profile at the top right of the screen, then `Edit RiiTag` and customize it to how you like. You can add a background, overlay, flag, nickname, and Wii Number. Click the green Save icon in the corner to save your changes.
-5. Click your profile at the top right of the screen, then `Account`. Click `Copy` under `RiiTag Private Key`. This is not needed if you're using USB Loader GX, as the key will be in a downloadable file.
+4. Haga clic en su perfil en la parte superior derecha de la pantalla, y luego `Edit RiiTag` y personalizarlo a tu gusto. Puedes añadir un fondo, una superposición, una bandera, un apodo y un número Wii. Haga clic el icono verde de Guardar en la esquina para guardar los cambios.
+5. Haga clic en su perfil en la parte superior derecha de la pantalla, y luego `Account`. Click `Copy` under `RiiTag Private Key`. This is not needed if you're using USB Loader GX, as the key will be in a downloadable file.
 
 ¡No comparta su clave RiiTag con nadie! Si lo hace, la gente puede meterse con usted y su código. Si lo haces, otras personas podrían abusar tu tag.
 {: .notice--warning}
@@ -42,7 +42,7 @@ Los pasos para conectar el RiiTag a su Cargador USB dependen del Cargador USB qu
 3. Asegúrate de que `Initialize Network` esté encendido.
 4. Regresa al menú de Wii y apaga tu consola.
 5. Inserta en tu computadora la tarjeta SD o unidad USB donde tengas guardada la configuración de USB Loader GX.
-6. Click your profile at the top right of the screen, then `Account`. Click `You can also download your Wiinnertag.xml.` which will download the file needed to use RiiTag with USB Loader GX.
+6. Haga clic en su perfil en la parte superior derecha de la pantalla, y luego `Account`. Click `You can also download your Wiinnertag.xml.` which will download the file needed to use RiiTag with USB Loader GX.
 7. Save the XML to `/apps/usbloader_gx`  folder on your SD Card or USB device, replacing the existing `Wiinnertag.xml`.
 8. Ya has terminado de instalar RiiTag. Intenta cargar algún juego para verificar que esté funcionando correctamente.
 
@@ -59,15 +59,15 @@ Los pasos para conectar el RiiTag a su Cargador USB dependen del Cargador USB qu
 
 ###### Emuladores
 
-RiiTag supports Dolphin, Citra, and Cemu. You need a Discord account for this to work.
+RiiTag es compatible con Dolphin, Citra y Cemu. Necesitas una cuenta de Discord para que esto funcione.
 {: .notice--info}
 
 1. [Únete al servidor de Discord de RiiConnect24](https://discord.gg/rc24) si aun no lo has hecho.
 2. Asegúrate de activar Discord rich presence en los ajuste de los emuladores.
-3. Make sure your Discord client is open (not the web-based client, the standalone application)
+3. Asegúrate de que tu cliente de Discord está abierto (no el cliente basado en la web, la aplicación independiente)
 4. Inicia un juego y RiiTag va a actualizar de forma automática tu tag cuando inicies algún juego.
 
-A Discord bot is used to read your rich presence and update your RiiTag accordingly. If you want to invite the bot to your server, [use this link](https://discord.com/oauth2/authorize?client_id=596108891071447052&scope=bot).
+Se utiliza un bot de Discord para leer tu presencia rica y actualizar tu RiiTag en consecuencia. Si quieres invitar al bot a tu servidor, [utiliza este enlace](https://discord.com/oauth2/authorize?client_id=596108891071447052&scope=bot).
 
 ###### Configurable USB Loader
 
@@ -86,7 +86,7 @@ You can use the `CfgLoaderConfigurator.exe` program (Windows only) instead of ed
 
 #### Canal RiiTag
 
-We have a RiiTag Channel you can install on your Wii. When it is launched, it will open up the Internet Channel and show your RiiTag, making it easy to look at it when using your Wii. You must have the Internet Channel installed to use this.
+Tenemos un Canal RiiTag que puedes instalar en tu Wii. Cuando se inicie, abrirá el Canal Internet y mostrará tu RiiTag, facilitando su visualización cuando uses tu Wii. Para utilizarlo, debe tener instalado el Canal Internet.
 {: .notice--info}
 
 1. [Visita el sitio web de RiiTag.](https://tag.rc24.xyz/)
