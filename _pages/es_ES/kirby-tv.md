@@ -37,7 +37,7 @@ Striim Network es un servicio dedicado a traer de vuelta los canales que soporta
 [ Continúe con RiiConnect24 ](riiconnect24) <br> RiiConnect24 le permite utilizar los servicios descontinuados de WiiConnect24, que incluyen Noticias, Pronóstico, Todos Votos, Nintendo y el Canal Check Mii Out, junto con Wii Mail. Esto es opcional a instalar.
 {: .notice--info}
 
-[Continue to WiiLink](wiilink)<br> WiiLink allows you to use the discontinued Japanese channels, such as Wii no Ma and the Digicam Print Channel. Esto es opcional a instalar.
+[Continuar a WiiLink](wiilink)<br> WiiLink te permite los canales japoneses discontinuados, como Wii no Ma y el Digicam Print Channel. Esto es opcional a instalar.
 {: .notice--info}
 
 [Continuar a Wiimmfi](wiimmfi)<br> Wiimmfi te permite disfrutar de juegos en línea después del cierre de la Conexión Wi-Fi de Nintendo. Esto es opcional a instalar.
