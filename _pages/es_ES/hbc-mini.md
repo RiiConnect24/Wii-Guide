@@ -4,7 +4,7 @@ title: "Instalar Canal Homebrew para Wii Mini"
 
 {% include toc title="Tabla de contenido" %}
 
-Si necesitas ayuda con cualquier cosa en este tutorial, por favor entras [el servidor Discord de RiiConnect24](https://discord.gg/rc24) (recomendado) o [envias un correo electronico a support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si necesitas ayuda para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado) o [envíanos un correo electrónico a support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![Logotipo del Canal Homebrew](/images/hbc.png)
@@ -26,5 +26,5 @@ Es posible instalar BootMii en el Wii Mini, pero necesitarás soldar una ranura 
 
 1. Una vez hecho esto, elige `Exit` para salir del HackMii Installer.
 
-[ Continuar con la instalación de Priiloader ](priiloader) Priiloader ofrece protección de ladrillos y se recomienda encarecidamente instalarlo.
+[ Continuar con la instalación de Priiloader ](priiloader) Priiloader ofrece protección de bricks y es altamente recomendado instalarlo.
 {: .notice--info}
