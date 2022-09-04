@@ -4,7 +4,7 @@ title: "Cosas que hacer y no hacer al modificar una consola Wii"
 
 {% include toc title="Tabla de contenidos" %}
 
-Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado), o envíanos un [correo electrónico](mailto:support@riiconnect24.net).
+Si necesitas ayuda para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado) o [envíanos un correo electrónico a support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Aquí puedes encontrar una lista de cosas que deberías y no deberías hacer una vez que hayas modificado tu Wii, para evitar bricks.
