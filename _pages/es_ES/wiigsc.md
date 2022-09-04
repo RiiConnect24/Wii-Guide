@@ -27,7 +27,7 @@ NO hagas un atajo para los juegos "Mario Party 9" o "A Boy and His Blob". Bricke
 
 1. Instalar WiiGSC, luego haga clic derecho sombre él y seleccione **Run as administrator**. Si no haces esto, WiiGSC da un error cuando lo abres.
 2. Seleccione la carpeta al archivo ISO o WBFS en su unidad USB y seleccione el cargador USB que usa. No hace falta que cambies el resto de las opciones.
-3. If you're using USB Loader GX, make sure to use [this version](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip).
+3. Si está usando USB Loader GX, asegúrese de usar [esta versión](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip).
 4. Instala el WAD generado con un instalador de WADs, recomendamos usar Wii Mod Lite.
 
 Si te aparece un mensaje que dice "Los archivos del sistema están dañados", no tienes nada de que preocuparte siempre y cuando hayas instalado Priiloader. Apaga la consola, después oprime el botón POWER mientras mantienes presionado RESET. El menú de Priiloader debería de iniciarse. Desde aquí tienes algunas opciones para reparar tu menú de Wii. Una de las opciones es iniciar el Canal Homebrew.
