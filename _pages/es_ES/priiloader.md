@@ -4,14 +4,14 @@ title: "Instalar Priiloader"
 
 {% include toc title="Tabla de contenido" %}
 
-Si necesitas ayuda con cualquier cosa en este tutorial, por favor entras [el servidor Discord de RiiConnect24](https://discord.gg/rc24) (recomendado) o [envias un correo electronico a support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si necesitas ayuda para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado) o [envíanos un correo electrónico a support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Priiloader proporciona un nivel adicional de protección contra bricks a tu consola Wii. Se carga antes del menú de Wii (de ahí el nombre). La herramienta también te permite activar hacks para el menú de Wii, así como lanzar el Canal Homebrew, BootMii o cualquier homebrew rápidamente.
 
 ![Instalar Priiloader](/images/priiloader.jpg)
 
-**No** instales Priiloader en una vWii (Modo Wii en una Wii U). Si lo haces, tu vWii quedará brickeado.
+**No** instales Priiloader en una vWii (Modo Wii en una Wii U). Si lo haces, tu vWii dejará de funcionar.
 {: .notice--warning}
 
 #### Requisitos
