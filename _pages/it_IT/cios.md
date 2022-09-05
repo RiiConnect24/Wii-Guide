@@ -41,9 +41,9 @@ Assicurati che, se stai usando una scheda SD, l'interruttore a lato sia in posiz
 
 1. Scarica, estrai ed esegui [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
 1. Seleziona "Database", "IOS", poi "IOS57", e seleziona "v5918".
-   - Ensure that "Pack WAD" is checked and "Patch IOS" is unchecked.
-1. Repeat the previous step for IOS56 v5661 and IOS38 v4123.
-1. Once you have downloaded all three IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. Open the folder and navigate through them until you locate the three WAD files you downloaded. Place each of WAD files on the root of your SD card or USB drive.
+   - Assicurati che l'opzione "Pack WAD" sia selezionata e che "Patch IOS" sia deselezionata.
+1. Ripeti il passaggio precedente per IOS56 v5661 e IOS38 v4123.
+1. Una volta scaricati i tre IOS, ci sarà una cartella di nome `titles` nella stessa cartella del NUS Downloader. Apri la cartella e navigaci dentro finché non trovi i tre file WAD che hai scaricato. Piazza ciascuno dei file WAD sulla radice della tua scheda SD o unità USB.
 1. Scarica il d2x cIOS Installer ed estrailo sulla radice della tua scheda SD o unità USB.
 1. Inserisci la tua scheda SD o unità USB nella tua Wii, ed avvia il d2x cIOS Installer dal canale Homebrew.
 </div>
@@ -59,7 +59,7 @@ Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 
-![Install cIOS 249](/images/cios/Install249.png)
+![Installa cIOS 249](/images/cios/Install249.png)
 
 1. Una volta fatto, premi A due volte per installare.
 1. Quando è finita l'installazione, premere A per tornare, ed imposta le opzioni in questo modo:
@@ -71,7 +71,7 @@ Select cIOS slot: 250
 Select cIOS version: 65535
 ```
 
-![Install cIOS 250](/images/cios/Install250.png)
+![Installa cIOS 250](/images/cios/Install250.png)
 
 1. Una volta fatto, premi A due volte per installare.
 1. Quando è finita l'installazione, premere A per tornare, ed imposta le opzioni in questo modo:
@@ -85,17 +85,17 @@ Select cIOS version: 65535
 
 ![Install cIOS 251](/images/cios/Install251.png)
 
-1. Once set, press A twice again to install, and then exit once done.
+1. Una volta impostate, premi di nuovo A due volte per installare, e poi esci quando hai finito.
 
 #### Risoluzione dei problemi
 
 {% capture bruh %}
-Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
+Sebbene la maggior parte dei giochi dovrebbe funzionare direttamente con le opzioni predefinite, alcuni potrebbero richiedere l'utilizzo di un cIOS specifico per funzionare, o per utilizzare alcune funzionalità di gioco.<br> Esempi includono:
 
 - Usare una tastiera in Animal Crossing: City Folk.
 - Giocare a SpongeBob's Boating Bash.
 
-A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
+È possibile trovare un elenco comprensivo (anche se ancora incompleto) [**qui**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> Per cambiare il cIOS utilizzato per un gioco specifico, segui queste istruzioni:
 {% endcapture %}
 
 <div class="notice--warning">{{ bruh | markdownify }}</div>
@@ -104,24 +104,24 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
-1. Select the game that isn't working.
-1. Click Settings.
-1. Select `Game Load`.
-1. Scroll down to `Game IOS`.
-1. Enter the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
-1. Press ok and try to load the game.
+1. Seleziona il gioco che non funziona.
+1. Clicca su Settings.
+1. Seleziona `Game Load`.
+1. Scorri fino a `Game IOS`.
+1. Inserisci lo slot IOS da usare.
+    - Prova a usare 250 o 251, se 249 non funziona.
+1. Premi OK e prova ad avviare il gioco.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
-1. Select the game that isn't working.
-1. Click the gear icon.
-1. Go to cIOS and use the arrows to select the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
-1. Press Save and try to load the game.
+1. Seleziona il gioco che non funziona.
+1. Clicca l'icona dell'ingranaggio.
+1. Vai su cIOS e use le frecce per selezionare lo slot IOS da usare.
+    - Prova a usare 250 o 251, se 249 non funziona.
+1. Premi Salva e prova ad avviare il gioco.
 </div>
 ##### Opzioni una volta completate
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. L'installazione di RiiConnect24 è facoltativa.
+[Continua all'Homebrew Browser](hbb)<br> L'Homebrew Browser è un buon posto per scaricare software homebrew sulla tua Wii. L'installazione di RiiConnect24 è facoltativa.
 {: .notice--info}
 
 [Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
