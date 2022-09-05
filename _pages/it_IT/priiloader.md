@@ -23,7 +23,7 @@ Ti preghiamo di **non** installare Priiloader su una Virtual Wii (modalità Wii 
 
 ##### Sezione 1 - Scaricando/Installando
 
-1. Download the Priiloader installer and extract it to the root of your SD card or USB drive.
+1. Scarica l'installer di Priiloader ed estrailo sulla radice della tua scheda SD o unità USB.
 
 ##### Sezione 2 - Installare Priiloader
 
