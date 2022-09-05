@@ -15,7 +15,7 @@ Ecco una lista di cose che dovresti e non dovresti fare una volta moddata la tua
 - **FAI** un backup della tua NAND Wii regolarmente con [BootMii](bootmii), specialmente prima di fare qualcosa di rischioso.
 - **PUOI** installare temi per il menù Wii se lo desideri, ma utilizza unicamente il nostro tutorial con attenzione. ([Wii](themes) / [vWii](themes-vwii)). Altri tutorial potrebbero essere ingannevoli e potrebbero farti rompere la tua Wii.
 - **NON** installare WAD di IOS casuali, vecchie versioni del menù Wii, ecc. A meno che non sai cosa stai facendo, specialmente non su vWii o su una Wii Mini.
-- **DO NOT** use old versions of Wii homebrew. Se segui i tutorial del Modding Wii dall'internet, fai cautela utilizzando vecchi tutorial (probabilmente pre-2012), specialmente se hanno a che fare con cose del tipo un IOS.
+- **NON** usare versioni vecchie dell'Homebrew Wii. Se segui i tutorial del Modding Wii dall'internet, fai cautela utilizzando vecchi tutorial (probabilmente pre-2012), specialmente se hanno a che fare con cose del tipo un IOS.
 - **NON** modificare, rinominare o eliminare file a caso della Wii NAND a meno che tu non sai cosa stai facendo.
 - **NON** utilizzare la app homebrew "KoreannKii" su una Wii non coreana.
 - **NON** Installare nessun IOS o Menù Wii su una Wii Mini a meno che non sia [d2xl cIOS](cios-mini). Così facendo romperesti la tua console se una scheda Wi-Fi non è saldata alla console.
