@@ -5,7 +5,7 @@ title: "Dos and Don'ts of Wii Modding"
 {% include toc title="Continguts" %}
 
 Si necessites ajuda amb qualsevol cosa relacionada amb aquesta guia, uneix-te al [servidor de Discord de RiiConnect24](https://discord.gg/rc24) (recomanat) o [envia un correu electrònic a support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: . notícia--informació}
+{: .notice--info}
 
 Here's a list of things you should and should not do once you've modded your Wii, to make sure you don't brick it.
 
@@ -24,10 +24,10 @@ Here's a list of things you should and should not do once you've modded your Wii
 If you follow these guidelines, you won't have to worry about bricking your Wii. Wii modding is safe, and bricks usually occur due to something done by the user that is on this list.
 
 Continue to installing cIOS<br> cIOS are used to play games with a USB Loader. It's also useful for many other homebrew apps.
-{: . notícia--informació}
+{: .notice--info}
 
 If using a regular Wii, follow [this guide](cios) to install cIOS.
-{: . notícia--informació}
+{: .notice--info}
 
 If using a Wii mini, follow [this guide](cios-mini) to install cIOS
-{: . notícia--informació}
+{: .notice--info}
