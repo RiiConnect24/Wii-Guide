@@ -101,29 +101,26 @@ Acum îți vei seta DNS-ul la serverele noastre. Acest lucru este opțional dar 
 15. La `Slot Illumination`, recomandăm să setezi lumina de disc la `Dim` sau `Bright`, dar asta este opțional.
 16. În final, mergi la secțiunea `Internet`, apoi `User Agreements` sau `Agreement/Contact`, apoi `Yes`. Te rugăm citește prin asta.
 
+It's common to get error FORE000006 on the Forecast Channel after installing RiiConnect24. If you get it, make sure your Wii's to the correct date and time, then wait no more than an hour and it may start working. [If you still get error FORE000006 or if you get NEWS000006, you will need to delete your SYSCONF with RC24-Clear-Tool].
+{: .notice--warning}
+
+If you get error 107245, then you have not installed the patched IOS. Make sure you install IOS31 and IOS80 with Wii Mod Lite, along with any other patched WADs.
+{: .notice--warning}
+
+If you get error 107304 or you see Nintendo's User Agreement without RiiConnect24's logo, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
+{: .notice--warning}
+
+[If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with RC24-Clear-Tool](deleting-vffs).
+{: .notice--warning}
+
+If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
+{: .notice--warning}
+
 [Continuă la Wiimmfi](wiimmfi)<br> Wiimmfi îți permite să joci jocuri online după întreruperea Conexiunii Nintendo Wi-Fi. Acesta este opțional de instalat.
 {: .notice--info}
 
-[Continuă la WiiLink](wiilink)<br> WiiLink îți permite să folosești canalele exclusiv Japoneze știute ca Wii no Ma și Digicam Print Channel. Acesta este opțional de instalat.
+[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. Acesta este opțional de instalat.
 {: .notice--info}
 
 [Continuă la navigarea site-ului](site-navigation)<br> Avem multe alte tutoriale care s-ar putea să-ți placă.
 {: .notice--info}
-
-Dacă primești eroarea 107245, atunci nu ai instalat IOS-urile modificate.
-{: .notice--warning}
-
-Dacă primești eroarea 107304 sau vezi Acordul Utilizatorului de la Nintendo fără logo-ul RiiConnect24, înseamnă că furnizorul tău de internet sau rețeaua blochează folosirea unui DNS. Poți seta `Auto-Obtain DNS` la `On` pentru a rezolva asta. RiiConnect24 va funcționa și fără acesta. Sau poți folosi programul nostru [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest).
-{: .notice--warning}
-
-Dacă primești eroarea FORE000006, ceasul consolei tale este probabil setat incorect. Setează-l la data și ora corectă, apoi așteaptă nu mai mult de o oră și Forecast Channel ar trebui să înceapă să funcționeze.
-{: .notice--warning}
-
-[Dacă primești FORE000006 în continuare sau dacă primești NEWS000006, va trebui să ștergi fișierul SYSCONF cu rc24-clear-tool](https://github.com/RiiConnect24/rc24-clear-tool/releases/latest).
-{: .notice--warning}
-
-[Dacă primești orice altă eroare cu Forecast Channel sau News Channel, precum un cod de eroare care începe cu FORE sau NEWS sau un mesaj de întrerupere a serviciilor, poți încerca să ștergi VFF-urile cu rc24-clear-tool.](deleting-vffs)
-{: .notice--warning}
-
-Dacă primești erori precum `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, du-te la Wii Settings -> Last Page -> Country și schimbă-l la United Kingdom. O să primești această eroare când folosești o țară pe care noi nu o întreținem. Contacează-ne la [support@riiconnect24.net](mailto:support@riiconnect24.net) dacă ai nevoie de ajutor suplimentar.
-{: .notice--warning}
