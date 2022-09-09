@@ -66,7 +66,7 @@ Grazie all'exploit str2hax di Fullmetal5, che Leseratte ha adattato al Wiimmfi P
 7. Il gioco adesso dovrebbe avviarsi con la patch Wiimmfi inclusa
 
 ### Patchare automaticamente usando uno USB Loader
-Se stai già usando USB Loader GX, prova ad aggiornarlo alla versione più recente. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
+Se stai già usando USB Loader GX, prova ad aggiornarlo alla versione più recente. Dopodiché, ci dovrebbe essere un impostazione chiamata "private server" (sia nelle opzioni di caricamento globale che nelle opzioni del gioco) che puoi impostare a "Wiimmfi" per far patchare al USB Loader ogni gioco che avvii per farlo funzionare con Wiimmfi.
 
 ### Patchare l'ISO
 You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
@@ -75,7 +75,7 @@ You may not want to run a patcher each time you want to play on Wiimmfi, and may
 - La copia dei tuoi giochi (WBFS, ISO, cISO, e altre estensioni che la Wii può usare sono supportate).
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows e Unix)  
   **o**
-- [Wiimmfi Patcher (cross-platform)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
+- [Wiimmfi Patcher (multi-piattaforma)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
 - Un USB Loader, [cIOS](cios), e un dispositivo di archiviazione USB con all'interno il gioco (dovresti già avere tutto ciò se stai usando un USB Loader)
 
 #### Istruzioni
@@ -92,7 +92,7 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 - Una copia del tuo gioco (in formato WAD)
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows e Unix)  
   **o**
-- [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (cross platform)
+- [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (multi-piattaforma)
 - [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 [If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
@@ -141,8 +141,8 @@ Ottenere una connessione Wi-Fi di tipo WEP, oppure senza alcuna misura di sicure
 
 1. Vai nelle Impostazioni Wi-Fi Nintendo DS. Puoi entrarci dentro al gioco su cui vuoi giocare online.
 2. Configura una connessione.
-3. Type in `167.86.108.126` as the primary DNS.
-4. Type in `1.1.1.1` as the secondary DNS.
+3. Inserisci `167.86.108.126` come DNS primario.
+4. Inserisci `1.1.1.1` come DNS secondario.
 5. Salva le impostazioni della tua connessione ed esegui un test di connessione. Se ha avuto successo, allora sei pronto per giocare.
 
 ### Mod di Mario Kart Wii
