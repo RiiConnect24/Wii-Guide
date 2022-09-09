@@ -8,7 +8,7 @@ title: "RiiConnect24"
 
 Questa guida ti aiuterà ad installare RiiConnect sulla tua installazione Dolphin.
 
-If you need help for anything regarding this tutorial, please directly contact KcrPL#4625 on Discord, join the [RiiConnect24 Discord Server](https://discord.gg/rc24) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se hai bisogno di un aiuto per una qualsiasi parte di questa guida, contata direttamente KcrPL#4625 su Discord, entra nel [Server Discord RiiConnect24](https://discord.gg/rc24) o [scrivici per e-mail all'indirizzo support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ### Di cosa hai bisogno
@@ -25,10 +25,10 @@ If you need help for anything regarding this tutorial, please directly contact K
 Se hai Dolphin già installato salta alla sezione 2
 {: .notice--info}
 
-1. Download the latest Dolphin beta version, but **not a stable version as these are very outdated!**
+1. Scarica la versione beta più recente di Dolphin, ma **non scaricare la versione stable, perché queste sono assai obsolete!**
 2. Estrai il file .7z usando un programma come 7Zip o WinRAR.
-3. Start Dolphin.
-4. Press on `Tools` -> `Perform Online System Update` -> Choose your region. ![Performa Aggiornamenti di Sistema Online](/images/Dolphin_RC24/1.jpg)
+3. Avvia Dolphin.
+4. Clicca su `Strumenti` -> `Avviare Aggiornamento di Sistema Online` -> Scegli la tua regione. ![Performa Aggiornamenti di Sistema Online](/images/Dolphin_RC24/1.jpg)
 
 If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii) instead of installing the Wii System menu via this method. See [this page](https://wiki.dolphin-emu.org/index.php?title=NAND_Usage_Guide) for more information.
 {: .notice--info}
