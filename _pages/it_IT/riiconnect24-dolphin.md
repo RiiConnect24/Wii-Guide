@@ -13,8 +13,8 @@ If you need help for anything regarding this tutorial, please directly contact K
 
 ### Di cosa hai bisogno
 
-* A computer with either Windows 7 or newer or any Unix-based system
-* [.VFF-File-Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases) if using a Unix-based system
+* Un computer con Windows 7 o versioni successive oppure un qualsiasi sistema basato su Unix
+* [.VFF-File-Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases) se stai usando un sistema basato su Unix
 * [Dolphin](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
