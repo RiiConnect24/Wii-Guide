@@ -69,7 +69,7 @@ Grazie all'exploit str2hax di Fullmetal5, che Leseratte ha adattato al Wiimmfi P
 Se stai già usando USB Loader GX, prova ad aggiornarlo alla versione più recente. Dopodiché, ci dovrebbe essere un impostazione chiamata "private server" (sia nelle opzioni di caricamento globale che nelle opzioni del gioco) che puoi impostare a "Wiimmfi" per far patchare al USB Loader ogni gioco che avvii per farlo funzionare con Wiimmfi.
 
 ### Patchare l'ISO
-You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
+Forse non vorresti caricare un patcher ogni volta che vuoi giocare su Wimmfi, e forse utilizzi già un USB Loader. Perciò gli ISO Patcher sono stati creati, per alcuni giochi specifici.
 
 #### Ciò di cui hai bisogno
 - La copia dei tuoi giochi (WBFS, ISO, cISO, e altre estensioni che la Wii può usare sono supportate).
@@ -84,7 +84,7 @@ You may not want to run a patcher each time you want to play on Wiimmfi, and may
 3. Una volta finito, prendi la versione dalla cartella `wiimmfi-images` (potrebbe essere nella cartella prima del patcher - ../wiimmfi-images) e copiala nella tua USB.
 
 ### Patchare i titoli WiiWare
-You can patch WiiWare games in order to play them on Wiimmfi.
+Puoi patchare i giochi WiiWare per giocarli su Wiimmfi.
 
 #### Ciò di cui hai bisogno
 
@@ -95,7 +95,7 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 - [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (multi-piattaforma)
 - [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
-[If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
+[Se vuoi vedere come usare il WiiWare Patcher, clicca qui!](wiiwarepatcher)
 {: .notice--info}
 
 Passaggi:
@@ -106,7 +106,7 @@ Passaggi:
 ## Altre cose
 
 ### Competizioni di Mario Kart Wii
-Wiimmfi allows you to participate in Mario Kart Wii competitions again.
+Wiimmfi ti permette di partecipare di nuovo alle competizioni di Mario Kart Wii.
 
 #### Ciò di cui hai bisogno
 
