@@ -26,7 +26,7 @@ Se hai BootMii installato come boot2 dovrai avviare BootMii riavviando la tua co
 1. Apri il Canale Homebrew.
 2. Premi il pulsante HOME e scegli "Launch BootMii".
 
-    Non è possibile navigare in BootMii usando un telecomando Wii. Dovrai usare i pulsanti POWER o RESET sulla tua console, o un controller GameCube collegato nella porta 1. To select an option, press RESET on your Wii or A on your GameCube controller. Per navigare tra le opzioni, premi il tasto POWER sulla Wii (o destra sulla +pulsantiera di comando su un controller GameCube).
+    Non è possibile navigare in BootMii usando un telecomando Wii. Dovrai usare i pulsanti POWER o RESET sulla tua console, o un controller GameCube collegato nella porta 1. Per navigare tra le opzioni, premi POWER sul Wii (o sinistra/destra sulla croce direzionale di un controller del GameCube). Per navigare tra le opzioni, premi il tasto POWER sulla Wii (o destra sulla +pulsantiera di comando su un controller GameCube).
     {: .notice--info}
 
 
