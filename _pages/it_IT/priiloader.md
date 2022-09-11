@@ -77,5 +77,5 @@ Questa è una lista di hack che puoi attivare con Priiloader.
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Re-abilita l'utilizzo di canali con questi title ID (normalmente bloccati negli aggiornamenti della console per essere degli exploits).                                                                                                  |
 | Force Disc Games to run under IOS249    | Imposta il cIOS 249 come l'IOS del gioco avviato da un disco. Mentre questo non può abilitare giocare a giochi masterizzati in casa, è necessario per giocare dischi masterizzati. (Può darti l'errore 002 su un gioco non masterizzato) |
 
-[Continue to the Dos and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
+[Continua con le cose da fare e cose da non fare nel modding Wii](dosanddonts)<br> Queste sono alcune linee guida per assicurarti di non brickare il Wii.
 {: .notice--info}
