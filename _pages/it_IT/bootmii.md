@@ -15,7 +15,7 @@ Hai bisogno di una **Scheda SD** per creare un backup della NAND mentre usi Boot
 BootMii come boot2 è raccomandato, ma disponibile solo per l'installazione sui primi modelli della Wii. Altrimenti, può essere installato solo come un IOS.
 {: .notice--info}
 
-Una delle features più importanti di BootMii è l'abilità di fare backup e ripristinarli nella memoria NAND della Wii. Ora vedremo come fare il backup della NAND. È una buona idea fare un backup della NAND regolarmente o prima di fare qualcosa di rischioso alla tua console (e se sai cosa stai facendo, non farai nulla di rischioso). You can then restore from that backup for any reason.
+Una delle features più importanti di BootMii è l'abilità di fare backup e ripristinarli nella memoria NAND della Wii. Ora vedremo come fare il backup della NAND. È una buona idea fare un backup della NAND regolarmente o prima di fare qualcosa di rischioso alla tua console (e se sai cosa stai facendo, non farai nulla di rischioso). È una buona idea fare un backup della NAND regolarmente o prima di fare qualcosa di rischioso alla tua console (e se sai cosa stai facendo, non farai nulla di rischioso).
 
 #### Cosa ti servirà
 * Una scheda SD con almeno 512MB di spazio disponibile
@@ -47,5 +47,5 @@ Per ripristinare un backup della NAND sulla tua SD, puoi seguire queste istruzio
 Per essere sicuro che tu non perda questi file, è consigliato di copiare `nand.bin` e `keys.bin` dalla cartella principale della tua SD al tuo computer.
 {: .notice--info}
 
-[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii as IOS.
+[Continua con l'installazione di Priiloader](priiloader)<br> Priiloader aggiunge un livello di protezione da brick, e lo raccomandiamo, soprattutto se hai dovuto installare BootMii come IOS.
 {: .notice--info}
