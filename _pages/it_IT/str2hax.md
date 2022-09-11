@@ -18,7 +18,7 @@ str2hax è un exploit per la Wii che è attivato caricando la Licenza dell'Utent
 
 #### Istruzioni
 
-##### Sezione 1 Connettere
+##### Sezione 1 - Connettere
 
 Questo exploit ti richiede di impostare il tuo DNS per connettersi al servere che contiene l'exploit.
 
