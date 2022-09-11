@@ -46,43 +46,43 @@ Se non riesci a eseguire il RiiConnect24 Patcher, entra nel [server Discord di R
 7. Scegli "`Express (Recommended)`". Ti darà tutto ciò di cui hai bisogno. ![Express Settings](/images/RC24_Patcher/4.JPG)
 8. Seleziona la tua regione. ![Seleziona la tua regione](/images/RC24_Patcher/5.JPG)
 9. Già che c'è, RiiConnect24 Patcher può scaricare anche altri canali opzionali che non utilizzano RiiConnect24. `[X]` rappresenta l'opzione selezionata. Basta premere 5 e `INVIO` se non sei interessato. ![Canali opzionali aggiuntivi](/images/RC24_Patcher/6.JPG)
-10. Connect your SD Card or USB Drive to your computer and select "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
-11. Se il tuo dispositivo è stato rilevato con successo, seleziona "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Drive and try again. ![Rilevato con successo](/images/RC24_Patcher/8.JPG)
-12. Be patient... ![Sta patchando!](/images/RC24_Patcher/9.JPG)
-13. After it's done, we would appreciate if you take a minute to send anonymous feedback to us.  If you don't want to, close the patcher. All the files should already be on your SD Card. ![Fatto!](/images/RC24_Patcher/10.JPG) ![File copiati](/images/RC24_Patcher/11.PNG)
-14. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
+10. Connetti la scheda SD o l'unità USB al computer e seleziona "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
+11. Se il tuo dispositivo è stato rilevato con successo, seleziona "`1`". In caso contrario, assicurati che ci sia una cartella chiamata `apps` nella scheda SD o nell'unità USB e riprova. ![Rilevato con successo](/images/RC24_Patcher/8.JPG)
+12. Sii paziente... ![Sta patchando!](/images/RC24_Patcher/9.JPG)
+13. Al termine, apprezzeremmo se spendessi un minuto a inviarci un feedback anonimo.  Se non vuoi, chiudi il patcher. Tutti i file dovrebbero già essere sulla scheda SD. ![Fatto!](/images/RC24_Patcher/10.JPG) ![File copiati](/images/RC24_Patcher/11.PNG)
+14. Se non ha copiato tutto automaticamente nella scheda SD o nell'unità USB, copia il `WAD` e la cartella `apps` accanto a `RiiConnect24Patcher.bat` nella scheda SD o nell'unità USB.
 
 ##### Sezione 2 - Installare i WAD
 
-You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
+Ora installerai i WAD patchati di IOS e Canali che sono necessari per usare RiiConnect24.
 
-1. Metti la tua scheda SD o il tuo dispositivo USB nella tua WIi.
-2. Carica il Canale Homebrew sulla tua Wii.
+1. Inserisci la scheda SD o l'unità USB nel Wii.
+2. Avvia il Canale Homebrew sul Wii.
 3. Avvia Wii Mod Lite.
-4. Usando ul tuo +Control Pad sul telecomando Wii, naviga su `WAD Manager`, e poi naviga sulla cartella `wad`.
-5. Highlight all the WADs in the folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
-6. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press the - Button on the highlighted WAD to uninstall it, then try installing it again.
-7. Dopo che ha installato con successo, premi il tasto HOME per tornare all'Hombrew Channel.
+4. Usando la croce direzionale del Wii Remote, vai a `WAD Manager`, e poi vai alla cartella `wad`.
+5. Per selezionare tutti i WAD, evidenziali nella cartella premendo il Pulsante +. Quando tutti i WAD sono selezionati, premi A due volte per installare i WAD.
+6. Se ottieni un errore che dice che un titolo con una versione superiore è già installato (errore -1035), torna al menù di selezione WAD e premi il Pulsante - sul WAD evidenziato per disinstallarlo, quindi riprova a installarlo.
+7. Dopo averli installati con successo, premi il tasto HOME per tornare al Canale Homebrew.
 
-##### Sezione III - Patchare nwc24msg.cfg
+##### Sezione 3 - Patchare nwc24msg.cfg
 
-You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
+Adesso patcherai il file `nwc24msg.cfg` che è necessario per usare Wii Mail.
 
 1. Avvia RiiConnect24 Mail Patcher.
 2. Dovrebbero servire pochi secondi per patchare il tuo nwc24msg.cfg. Una volta finito, premi il pulsante HOME per uscire.
 
-If you were unable to patch your nwc24msg.cfg correctly, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
+Se non riesci a patchare correttamente nwc24msg.cfg, entra nel [server Discord di RiiConnect24 ](https://discord.gg/rc24)(raccomandato) oppure [scrivici una mail a support@riconnect24.net](mailto:support@riiconnect24.net) per ulteriore assistenza.
 {: .notice--info}
 
-##### Sezione IV Connettere
+##### Sezione 4 - Connettere
 
 {% capture notice-1 %}
-Starting June 16th, 2022 the RiiConnect24 DNS changes. Read more: [here.](riiconnect24-dns-update)
+Dal 16 giugno 2022 il DNS di RiiConnect24 cambia. Per saperne di più: [leggi qui.](riiconnect24-dns-update)
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-You will now set your DNS to our servers. This is optional but it's recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
+Ora imposterai il tuo DNS sui nostri server. Anche se facoltativo è consigliato, perché migliora l'uso di RiiConnect24 e Wiimmfi rendendo disponibili altre funzionalità.
 
 1. Vai su `Opzioni Wii`.
 2. Vai su `Impostazioni Wii`.
@@ -116,7 +116,7 @@ If you get error 107304 or you see Nintendo's User Agreement without RiiConnect2
 If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
 {: .notice--warning}
 
-[Continua a Wiimmfi](wiimmfi)<br> Wiimmfi ti permette di giocare a giochi online dopo la discontinuazione del Nintendo Wi-Fi Connction. L'installazione di RiiConnect24 è facoltativa.
+[Continua a Wiimmfi](wiimmfi)<br> Wiimmfi ti permette di giocare a giochi online dopo la discontinuazione del Nintendo Wi-Fi Connction. L'installazione è facoltativa.
 {: .notice--info}
 
 [Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. L'installazione di RiiConnect24 è facoltativa.
