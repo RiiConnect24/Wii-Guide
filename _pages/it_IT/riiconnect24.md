@@ -4,7 +4,7 @@ title: "RiiConnect24"
 
 {% include toc title="Table of Contents" %}
 
-If you need help with anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se hai bisogno di qualsiasi informazione riguardante questo tutorial, entra nel [server Discord di RiiConnect24](https://discord.gg/rc24) (raccomandato) oppure [scrivici una mail a support@riconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
@@ -34,7 +34,7 @@ NON INSTALLARE RIICONNECT24 SU UN WII MINI! Non funzionerà e brickerà il siste
 
 ##### Sezione 1 - Usare RiiConnect24 Patcher
 
-If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
+Se non riesci a eseguire il RiiConnect24 Patcher, entra nel [server Discord di RiiConnect24 ](https://discord.gg/rc24)(raccomandato) oppure [scrivici una mail a support@riconnect24.net](mailto:support@riiconnect24.net) per ulteriore assistenza.
 {: .notice--info}
 
 1. Clicca il link sopra per andare sulla pagina GitHub dove su trova il patcher.
@@ -45,7 +45,7 @@ If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord ser
 6. Per questa guida, scegli "`Install RiiConnect24 on your Wii`" ![Installa RiiConnect24](/images/RC24_Patcher/3.JPG)
 7. Scegli "`Express (Recommended)`". Ti darà tutto ciò di cui hai bisogno. ![Express Settings](/images/RC24_Patcher/4.JPG)
 8. Seleziona la tua regione. ![Seleziona la tua regione](/images/RC24_Patcher/5.JPG)
-9. While you're at it, RiiConnect24 Patcher can additionally download some other optional channels that do not use RiiConnect24. `[X]` represents the options that selected. Just press 5 and `ENTER` if you're not interested. ![Canali opzionali aggiuntivi](/images/RC24_Patcher/6.JPG)
+9. Già che c'è, RiiConnect24 Patcher può scaricare anche altri canali opzionali che non utilizzano RiiConnect24. `[X]` rappresenta l'opzione selezionata. Basta premere 5 e `INVIO` se non sei interessato. ![Canali opzionali aggiuntivi](/images/RC24_Patcher/6.JPG)
 10. Connect your SD Card or USB Drive to your computer and select "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
 11. Se il tuo dispositivo è stato rilevato con successo, seleziona "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Drive and try again. ![Rilevato con successo](/images/RC24_Patcher/8.JPG)
 12. Be patient... ![Sta patchando!](/images/RC24_Patcher/9.JPG)
