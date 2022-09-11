@@ -42,7 +42,7 @@ Ecco un suggerimento - quando si installano applicazioni homebrew sulla scheda S
 
 `NomeApp1` e `NomeApp2` sono dei placeholder. Non mettere più cartelle `apps` all'interno della cartella `apps` stessa.
 
-┃ ┣ 📂 AppName1
+[Continua con la creazione di un backup della NAND usando BootMii](bootmii)<br> Creare un backup della NAND con BootMii a questo punto è caldamente raccomandato.
 {: .notice--info}
 
 Se non sei riuscito a installare BootMii, continua con [l'installamento di Priiloader](priiloader).
