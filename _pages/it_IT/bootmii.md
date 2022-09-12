@@ -15,7 +15,7 @@ Hai bisogno di una **Scheda SD** per creare un backup della NAND mentre usi Boot
 BootMii come boot2 è raccomandato, ma disponibile solo per l'installazione sui primi modelli della Wii. Altrimenti, può essere installato solo come un IOS.
 {: .notice--info}
 
-Una delle features più importanti di BootMii è l'abilità di fare backup e ripristinarli nella memoria NAND della Wii. Ora vedremo come fare il backup della NAND. È una buona idea fare un backup della NAND regolarmente o prima di fare qualcosa di rischioso alla tua console (e se sai cosa stai facendo, non farai nulla di rischioso). È una buona idea fare un backup della NAND regolarmente o prima di fare qualcosa di rischioso alla tua console (e se sai cosa stai facendo, non farai nulla di rischioso).
+Una delle features più importanti di BootMii è l'abilità di fare backup e ripristinarli nella memoria NAND della Wii. Ora vedremo come fare il backup della NAND. Potrai eseguire un ripristino da questo backup in qualsiasi situazione. È una buona idea fare un backup della NAND regolarmente o prima di fare qualcosa di rischioso alla tua console (e se sai cosa stai facendo, non farai nulla di rischioso).
 
 #### Cosa ti servirà
 * Una scheda SD con almeno 512MB di spazio disponibile
@@ -26,7 +26,7 @@ Se hai BootMii installato come boot2 dovrai avviare BootMii riavviando la tua co
 1. Apri il Canale Homebrew.
 2. Premi il pulsante HOME e scegli "Launch BootMii".
 
-    Non è possibile navigare in BootMii usando un telecomando Wii. Dovrai usare i pulsanti POWER o RESET sulla tua console, o un controller GameCube collegato nella porta 1. Per navigare tra le opzioni, premi POWER sul Wii (o sinistra/destra sulla croce direzionale di un controller del GameCube). Per navigare tra le opzioni, premi il tasto POWER sulla Wii (o destra sulla +pulsantiera di comando su un controller GameCube).
+    Non è possibile navigare in BootMii usando un telecomando Wii. Dovrai usare i pulsanti POWER o RESET sulla tua console, o un controller GameCube collegato nella porta 1. Per navigare tra le opzioni, premi POWER sul Wii (o sinistra/destra sulla croce direzionale di un controller del GameCube). Per selezionare un opzione, premi RESET sul Wii o A sul controller del GameCube.
     {: .notice--info}
 
 
