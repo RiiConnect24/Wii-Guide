@@ -4,7 +4,7 @@ title: "Cose da fare e cose da non fare nel Modding Wii"
 
 {% include toc title="Table of Contents" %}
 
-Se hai bisogno di qualsiasi informazione riguardante questo tutorial, entra nel [server discord di RiiConnect24 ](https://discord.gg/rc24)(raccomandato) oppure [scrivici una mail a support@riconnect24.net](mailto:support@riiconnect24.net).
+Se hai bisogno di qualsiasi informazione riguardante questa guida, entra nel [server Discord di RiiConnect24](https://discord.gg/rc24)(raccomandato) oppure [scrivici una mail a support@riconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Ecco una lista di cose che dovresti e non dovresti fare una volta moddata la tua Wii, per essere sicuri che tu non la rompa.
