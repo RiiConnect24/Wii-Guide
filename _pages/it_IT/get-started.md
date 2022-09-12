@@ -19,12 +19,12 @@ Anche se è possibile seguire questa guida senza una scheda SD, non sarai in gra
 Se la versione del tuo menù Wii non è la 4.3, usa str2hax o FlashHax per installare il canale Homebrew, e poi segui la [guida per aggiornare](update) per aggiornare alla versione 4.3.
 {: .notice--info}
 
-Questa guida è solo per la Wii originale e Wii mini (compresa la Wii Family Edition), con l'ultimo firmware (4.3). Non usare questo su una Wii U (vWii)! Se vuoi installare l'hombrew su una Wii U, [segui questa guida](https://wiiu.hacks.guide).
+Questa guida è solo per il Wii originale e il Wii mini (compreso il Wii Family Edition). Non utilizzarla per il Wii U (vWii)! Se vuoi installare software hombrew su un Wii U, [segui questa guida](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### Scegli un exploit da usare
 
-Questi exploit sono ordinati dal più facile al più difficile.
+Questi exploit sono ordinati dal più facile al più difficile per difficoltà d'uso.
 
 - [str2hax](str2hax) - Sfrutta l'EULA della Wii
     * Richiede una connessione ad internet e cambiare i server DNS
