@@ -9,9 +9,9 @@ Se hai bisogno di qualsiasi informazione riguardante questo tutorial, entra nel 
 
 ![Logo di RiiConnect24](/images/WiiRC24Logo.jpg)
 
-Guide to installing [RiiConnect24](https://rc24.xyz) on your vWii (Virtual Wii on Wii U) with: CMOC/MCC, Nintendo Channel, EVC and News Channel along with forced 4:3 aspect ratio patching.
+Guida all'installazione di [RiiConnect24](https://rc24.xyz) sul tuo vWii (Wii Virtuale su Wii U) con: i canali Concorsi Mii, Nintendo, Vota Anche Tu e Notizie, e la patch per il rapporto d'immagine forzato a 4:3.
 
-Since certain features found in the original Wii are not present in the vWii, we can only partially utilize RiiConnect24. See [what's currently working](#whats-currently-working) for details.
+Poiché alcune caratteristiche del Wii originale non sono presenti nel Wii virtuale, possiamo utilizzare RiiConnect24 solo parzialmente. Vedi "[Cosa funziona attualmente?](#whats-currently-working)" per i dettagli.
 {: .notice--warning}
 
 #### Avvisi
@@ -19,21 +19,21 @@ Since certain features found in the original Wii are not present in the vWii, we
 Noi **NON** siamo responsabili se bricki, o danneggi la tua console in un qualunque modo. Se segui attentamente questa guida, non dovresti avere problemi.
 {: .notice--warning}
 
-Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on Wii U). If you're looking for instructions for a Nintendo Wii, use [wii.guide/riiconnect24](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [wii.guide/riiconnect24-dolphin](/riiconnect24-dolphin)
+**NON** seguire questa guida su qualsiasi console diversa dal vWii (Wii Virtuale su Wii U). Se stai cercando istruzioni per il Nintendo Wii, segui [questa guida](riiconnect24). Se vuoi usare RiiConnect24 sull'emulatore Dolphin, allora segui [questa guida](riiconnect24-dolphin).
 {: .notice--warning}
 
 #### Di cosa hai bisogno
 
 * Un PC o dispositivo mobile con accesso ad internet e l'abilità di interagire con schede SD.
 * Una scheda SD formattata a FAT32 con abbastanza spazio disponibile (almeno 2GB). Schede SDHC o SDXC formattate a FAT32 potrebbero funzionare.
-* Una Wii U capace di caricare l'Homebrew Launcher (non importa se via l'exploit web, Haxci o Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
+* Una Wii U capace di caricare l'Homebrew Launcher (non importa se via l'exploit web, Haxci o Coldboot Haxchi). **Se non hai un Wii U con soft-mod, continua su [wiiuguide.xyz](https://wiiuguide.xyz) e la sua [Guida sul modding vWii](https://wiiuguide.xyz/#/vwii-modding) e dopo torna qui.**
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-After following the above linked guide, you should have:
+Dopo aver seguito la guida indicata sopra, dovresti avere:
 * Un backup Wii virtuale NAND e le sue chiavi (Conservali al sicuro!!)
 * L'Homebrew Channel installato
 * d2x cIOS installato (IOS249, IOS250 and IOS251)
-* IOS80 patched
+* IOS80 patchato
 {: .notice--info}
 
 #### Istruzioni
