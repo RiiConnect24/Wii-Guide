@@ -11,9 +11,9 @@ Striim Network è un servizio dedicato a riportare i canali che supportano la ri
 
 #### Di cosa hai bisogno
 
-* Una scheda SD o chiavetta USB
-* Una Wii con connessione Internet
-* Un computer Windows o Unix
+* Una scheda SD o un'unità USB
+* Un Wii con connessione a Internet
+* Un computer con Windows o Unix
 * [Kirby TV Channel Patcher](https://github.com/StriimNetwork/Kirby-TV-Channel-Patcher/releases)
 
 #### Istruzioni
@@ -34,15 +34,15 @@ Striim Network è un servizio dedicato a riportare i canali che supportano la ri
 
 
 
-[Continua a RiiConnect24](riiconnect24)<br> RiiConnect24 ti permette di usare servizi di WiiConnect24 che sono discontinuati, come i canali News, Forecast, Everybody Votes, Nintendo, Check Mii Out e anche Wii Mail. L'installazione di RiiConnect24 è facoltativa.
+[Continua a RiiConnect24](riiconnect24)<br> RiiConnect24 ti permette di usare servizi di WiiConnect24 che sono discontinuati, come i canali News, Forecast, Everybody Votes, Nintendo, Check Mii Out e anche Wii Mail. L'installazione è facoltativa.
 {: .notice--info}
 
-[Continua a WiiLink](wiilink)<br> WiiLink ti permette di utilizzare i canali giapponesi discontinuati, come Wii no Ma e il Digicam Print Channel. L'installazione di RiiConnect24 è facoltativa.
+[Continua con WiiLink](wiilink)<br> WiiLink consente di utilizzare i canali giapponesi non più disponibili, come Wii no Ma e il Canale Digicam Print. L'installazione è facoltativa.
 {: .notice--info}
 
-[Continua a Wiimmfi](wiimmfi)<br> Wiimmfi ti permette di giocare a giochi online dopo la discontinuazione del Nintendo Wi-Fi Connction. L'installazione di RiiConnect24 è facoltativa.
+[Continua a Wiimmfi](wiimmfi)<br> Wiimmfi ti permette di giocare a giochi online dopo la discontinuazione del Nintendo Wi-Fi Connction. L'installazione è facoltativa.
 {: .notice--info}
 
-[Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
+[Continua a navigare nel sito](site-navigation)<br> Abbiamo molte altre guide che potrebbero interessarti.
 {: .notice--info}
 
