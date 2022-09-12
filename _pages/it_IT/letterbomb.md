@@ -17,7 +17,7 @@ LetterBomb è un exploit per Wii attivabile usando la Bacheca Wii.
 
 
 1. Vai nelle `Impostazioni della Wii` -> `Internet` -> `Informazioni sulla Console` e prendi nota del tuo indirizzo MAC.
-1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, ensure `Bundle the HackMii Installer for me!` is checked, and cut either wire ![Schermata HackMii](/images/Wii/LetterBomb-PC.png)
+1. Apri [please.hackmii.com](https://please.hackmii.com), inserisci il tuo Wii MAC e la tua regione, risolvi il CAPTCHA, assicurati che `Bundle the HackMii Installer for me!` sia selezionato e taglia un filo qualsiasi. ![Schermata HackMii](/images/Wii/LetterBomb-PC.png)
 1. Dal ZIP scaricato, estrai il contenuto sulla tua SD.
 1. Estrai la tua scheda SD e inseriscila nella tua Wii.
    - La scheda SD deve essere inserita nello slot della scheda SD situato nella parte anteriore della Wii. Utilizzare un adattatore USB collegato alla porta USB della Wii non funzionerà.
@@ -34,5 +34,5 @@ LetterBomb è un exploit per Wii attivabile usando la Bacheca Wii.
 
 ![Menu Wii LetterBomb](/images/Wii/LetterBomb-Wii.png)
 
-[Continua l'installazione del Canale Homebrew e di BootMii](hbc)
+[Continua con l'installazione del Canale Homebrew e di BootMii](hbc)
 {: .notice--info}
