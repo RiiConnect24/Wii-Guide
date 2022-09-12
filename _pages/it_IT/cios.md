@@ -83,14 +83,14 @@ Select cIOS slot: 251
 Select cIOS version: 65535
 ```
 
-![Install cIOS 251](/images/cios/Install251.png)
+![Installa cIOS 251](/images/cios/Install251.png)
 
 1. Una volta impostate, premi di nuovo A due volte per installare, e poi esci quando hai finito.
 
 #### Risoluzione dei problemi
 
 {% capture bruh %}
-Sebbene la maggior parte dei giochi dovrebbe funzionare direttamente con le opzioni predefinite, alcuni potrebbero richiedere l'utilizzo di un cIOS specifico per funzionare, o per utilizzare alcune funzionalità di gioco.<br> Esempi includono:
+Anche se la maggior parte dei giochi dovrebbe funzionare subito con le impostazioni predefinite, alcuni potrebbero richiedere l'uso di un cIOS specifico per funzionare o per utilizzare alcune funzioni del gioco.<br> Gli esempi includono:
 
 - Usare una tastiera in Animal Crossing: City Folk.
 - Giocare a SpongeBob's Boating Bash.
@@ -121,13 +121,13 @@ Sebbene la maggior parte dei giochi dovrebbe funzionare direttamente con le opzi
 </div>
 ##### Opzioni una volta completate
 
-[Continua all'Homebrew Browser](hbb)<br> L'Homebrew Browser è un buon posto per scaricare software homebrew sulla tua Wii. L'installazione di RiiConnect24 è facoltativa.
+[Continua all'Homebrew Browser](hbb)<br> L'Homebrew Browser è un buon posto per scaricare software homebrew sulla tua Wii. L'installazione è facoltativa.
 {: .notice--info}
 
 [Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
 {: .notice--info}
 
-Ora puoi usare app homebrew come [USB Loader GX](usbloadergx) e [WiiFlow](wiiflow).
+Adesso puoi usare software homebrew come [USB Loader GX](usbloadergx) e [WiiFlow](wiiflow).
 {: .notice--info}
 
 <script>
