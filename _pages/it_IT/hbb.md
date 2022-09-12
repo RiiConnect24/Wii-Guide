@@ -34,10 +34,10 @@ Ecco delle applicazioni consigliate che puoi ottenere sul Canale Open Shop:
 - [WiiXplorer-SS](https://oscwii.org/library/app/wiixplorer-ss) - Questo è un manager di file per la tua Wii. Ti permette di accedere ai tuoi file sulla scheda SD, sul dispositivo USB e altro ancora.
 - [YABDM](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod) - Questo è un tool per dumpare i contenuti installati nella tua Wii su file WAD. Visita [la nostra pagina](dump-wads) per istruzioni su come usarlo.
 
-[Continua a RiiConnect24](riiconnect24)<br> RiiConnect24 ti permette di usare servizi di WiiConnect24 che sono discontinuati, come i canali News, Forecast, Everybody Votes, Nintendo, Check Mii Out e anche Wii Mail. L'installazione di RiiConnect24 è facoltativa.
+[Continua con RiiConnect24](riiconnect24)<br> RiiConnect24 consente di utilizzare i servizi interrotti di WiiConnect24, tra cui i canali Notizie, Meteo, Vota Anche Tu, Nintendo e Concorsi Mii, oltre a Wii Mail. L'installazione è facoltativa.
 {: .notice--info}
 
-[Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
+[Continua a navigare nel sito](site-navigation)<br> Abbiamo molte altre guide che potrebbero interessarti.
 {: .notice--info}
 
 Insieme al download di Hombrew Browser è inclusa una guida su come usare Homebrew Browser.
