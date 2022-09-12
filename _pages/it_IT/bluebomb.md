@@ -7,7 +7,7 @@ title: "BlueBomb"
 È **vivamente** consigliato di non usare **qualsiasi** video guida per moddare la tua Wii Mini, dato che c'è una'altissima probabilitá di **brickarla**.
 {: .notice--warning}
 
-Se hai bisogno di aiuto riguardo questo tutorial, unisciti a [the Wii Mini Hacking Discord server](https://discord.gg/6ryxnkS) (raccomandato)
+Se hai bisogno di aiuto con questa guida, unisciti al [server Discord Wii mini Hacking](https://discord.gg/6ryxnkS) (raccomandato)
 {: .notice--info}
 
 ![BlueBomb](/images/bluebomb.png)
@@ -48,7 +48,7 @@ chmod +x bluebomb-helper.sh
 1. L'Helper scaricherà i file necessari, e chiederà informazioni sulla tua console.
   - Se hai selezionato una Wii mini ti verrà chiesta la tua regione. Questo può essere determinato dall'ultima lettera della versione del Menu Wii (`U` per **USA** ed `E` per modelli **PAL**).
   - Se hai selezionato una Wii ti verrà chiesto di dare la tua versione del menù Wii (Che abbiamo scoperto nello step 4)
-1. Spegni la tua console e **non** collegare nessun telecomandi Wii.
+1. Accendi la tua console e **non** connettere nessun telecomando Wii.
 1. Premi il pulsante Sync ripetutamente finché il terminale mostra `got connection handle`. Questo potrebbe richiedere numerosi tentativi, quindi non ti arrendere.
 
 Assicurati che la console sia vicina al computer che sta eseguendo l'exploit, idealmente dovrebbe essere meno di un metro.
