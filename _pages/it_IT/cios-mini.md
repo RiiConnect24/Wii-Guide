@@ -52,8 +52,8 @@ Le console Wii e Wii Mini sono note funzionare solo con Adattatori Ethernet util
 Non provare ad installare un IOS per la Wii o un Menù di sistema sulla Wii mini. Facendo ciò, brickerebbe la tua console.
 {: .notice--warning}
 
-Ora puoi usare app homebrew come [USB Loader GX](usbloadergx) e [WiiFlow](wiiflow).
+Adesso puoi usare software homebrew come [USB Loader GX](usbloadergx) e [WiiFlow](wiiflow).
 {: .notice--info}
 
-[Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
+[Continua a navigare nel sito](site-navigation)<br> Abbiamo molte altre guide che potrebbero interessarti.
 {: .notice--info}
