@@ -54,11 +54,11 @@ Non c'è alcuna "guida" per utilizzare l'app USB Loader GX. Questa guida è inte
 
 ##### Interfaccia
 
-There are multiple buttons in the USB Loader GX interface.
+Ci sono vari pulsanti nell'interfaccia di USB Loader GX.
 
 ###### Menù Principale
 
-These are the functions the buttons found on the top of the main menu do, from left to right:
+Questi sono le funzioni dei pulsanti che si trovano sopra il menù principale, da sinistra a destra:
 
 * Star - Mostra i giochi che hai scelto come "preferiti".
 * Search - Ti permette di cercare giochi dal nome.
@@ -72,9 +72,9 @@ These are the functions the buttons found on the top of the main menu do, from l
 * Parental Control - Blocca USB Loader GX.
 * Disc - Carica i giochi dal disco.
 
-Pressing any game will allow you to play the game by pressing "Start".
+La selezione di un qualunque gioco ti permetterà di giocarlo premendo "Start".
 
-There are also other buttons:
+Ci sono anche altri pulsanti:
 
 * (+) Icon - "Installa" un gioco, cioè lo carica dal disco copiandolo.
 * Ingranaggi - Impostazioni di USB Loader GX.
@@ -83,7 +83,7 @@ There are also other buttons:
 * Wii - Apre il Menù HOME, che è accessibile anche premendo il pulsante HOME sul telecomando Wii.
 * Pulsante di spegnimento - Spegne la tua Wii.
 
-On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
+Nel mezzo della schermata inferiore, puoi vedere la quantità di spazio libero nell'unità USB e quanti di giochi hai.
 
 ##### Opzioni una volta completate
 
