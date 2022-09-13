@@ -32,10 +32,10 @@ Se non stai copiando i giochi con Wii Backup Manager, Witgui, o Wii Backup Fusio
 Per giocare a vari giochi, consigliamo di usare un hard drive esterno per la tua Wii. Anche i flash drives dovrebbero essere compatibili, ma gli hard drives esterni sono consigliati perchè sono più affidabili, e possono conservare più giochi.
 {: .notice--info}
 
-Unlike USB Loader GX, WiiFlow can load games of an SD card.
+A differenza di USB Loader GX, WiiFlow può avviare giochi da una scheda SD.
 {: .notice--info}
 
-Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Non formattarlo con altri tipi di formato come exFAT, extFS o WBFS, quest'ultimo è un vecchio formato di archiviazione dei giochi Wii.
+Assicurati che l'unità USB e/o scheda SD sia formattata in FAT32 o NTFS. Non formattarlo con altri tipi di formato come exFAT, extFS o WBFS, quest'ultimo è un vecchio formato di archiviazione dei giochi Wii.
 {: .notice--info}
 
 #### Istruzioni
@@ -47,7 +47,7 @@ Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Non forma
 
 ##### Iniziare
 
-This is not a full comprehensive guide on using WiiFlow. Questa guida è intesa per aiutarti a capire come usarlo, dandoti un rapido avvio. You should be able to figure out all the great features of WiiFlow by using it.
+Questa non è una guida completa sull'utilizzo di WiiFlow. Questa guida è intesa per aiutarti a capire come usarlo, dandoti un rapido avvio. Dovresti essere capace di capire tutte le grandi caratteristiche di WiiFlow semplicemente usandolo.
 {: .notice--info}
 
 * Normalmente WiiFlow è impostato per trovare giochi solo sulla scheda SD. Questo può essere cambiato andando nelle impostazioni, startup settings e disabilitare "Mount SD Only".
@@ -56,7 +56,7 @@ This is not a full comprehensive guide on using WiiFlow. Questa guida è intesa 
 
 ##### Interfaccia
 
-When WiiFlow detects games, they are displayed in flow view. When you click on a game you are given these options:
+When WiiFlow detects games, they are displayed in flow view. Quando clicchi su un gioco vengono fornite queste opzioni:
 
 * Stella - Aggiunge il gioco ai preferiti.
 * Scaffale - Aggiunge il gioco da 1 a 6 categorie a tua scelta.
@@ -85,7 +85,7 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 
 ##### Opzioni una volta completate
 
-[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki is a great resource with information about WiiFlow.
+[WiiFloWiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFloWiki è una fantastica risora di informazione su WiiFlow.
 {: .notice--info}
 
 [Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
