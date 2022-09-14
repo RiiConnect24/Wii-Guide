@@ -48,7 +48,7 @@ ASSICURATI DI LEGGERE GLI AVVISI DI SICUREZZA SOPRA PRIMA DI CONTINUARE!
 
 #### Istruzioni
 
-##### Sezione I - Trovare un Tema
+##### Sezione 1 - Trovare un Tema
 
 * Trova un tema che vuoi installare. Alcuni temi hanno dei video su YouTube che mostrano come sono visivamente, sfortunatamente alcuni di questi non sono disponibili.
 * Una volta che hai trovato quello che ti piace, clicca sul link di download che corrisponde alla versione del tuo Menu Wii. **È molto importante scegliere la verioe correta per evitare un brick della console.**
@@ -57,7 +57,7 @@ ASSICURATI DI LEGGERE GLI AVVISI DI SICUREZZA SOPRA PRIMA DI CONTINUARE!
 * Ci sono altre risorse per i temi del Menu Wii, ma potrebbero essere in formato csm (pronti per essere installati sulla Wii). Se il file csm non combacia con la versione e la regione del tuo Menu Wii, prova a convertirlo in formato mym con ThemeWii Mod, e poi riconvertilo a csm con le istruzioni spiegate qui usando la versione e la regione del tuo Menu Wii.
 * Dopo aver scaricato il tema che vuoi e aver ricontrollato di aver scelto quello giusto, estrai il file .zip per ThemeMii Mod e apri l'applicazione.
 
-##### Sezione II - Costruire il tema
+##### Sezione 2 - Creare il Tema
 
 1. Apparirà una finestra avvisandoti di installare temi solo se hai la protezione dal blocco. Se hai installato Priiloader e/o BootMii (vedi l’avviso all’inizio di questa guida), premi ok.
 2. Vai su `Strumenti` > `Download Base App` > Versione del tuo Wii Menu > Paese del tuo Wii Menu
