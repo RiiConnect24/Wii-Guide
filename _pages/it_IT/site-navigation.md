@@ -7,7 +7,7 @@ sitemap: false
 ![WiiTutorials](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
-**Abbiamo**
+**In primo piano**
 
 + [cIOS](cios)
 + [Canale Kirby TV](kirby-tv)
@@ -47,11 +47,11 @@ sitemap: false
 **Homebrew**
 + [Creare Shortcuts per giochi Wii](wiigsc)
 + [Come copiare i Canali (WAD)](dump-wads)
-+ [Come copiare i Giochi GameCube/Wii](dump-games)
++ [Come copiare i giochi GameCube/Wii](dump-games)
 + [Installare RSSMii](rssmii)
-+ [Installazione temi per Wii Menu](themes)
-+ [Installing Wii Menu Themes on vWii](themes-vwii)
-+ [Performing a SysCheck](syscheck)
++ [Installazione temi del Menu Wii](themes)
++ [Installazione temi del Menu Wii su vWii](themes-vwii)
++ [Eseguire un SysCheck](syscheck)
 + [Rimuovere RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [Aggiornamento del Menu Wii a v4.3](update)
