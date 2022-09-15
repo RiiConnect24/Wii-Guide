@@ -12,7 +12,7 @@ Se hai bisogno di qualsiasi informazione riguardante questo tutorial, entra nel 
 Hai bisogno di una **Scheda SD** per creare un backup della NAND mentre usi BootMii. Se non ne hai una, puoi saltare questa pagine, anche se è fortemente consigliato fare un backup della NAND.
 {: .notice--warning}
 
-BootMii come boot2 è raccomandato, ma disponibile solo per l'installazione sui primi modelli della Wii. Altrimenti, può essere installato solo come un IOS.
+BootMii come boot2 è raccomandato, ma disponibile solo per l'installazione sui primi modelli del Wii. Altrimenti, può essere installato solo come un IOS.
 {: .notice--info}
 
 Una delle features più importanti di BootMii è l'abilità di fare backup e ripristinarli nella memoria NAND della Wii. Ora vedremo come fare il backup della NAND. Potrai eseguire un ripristino da questo backup in qualsiasi situazione. È una buona idea fare un backup della NAND regolarmente o prima di fare qualcosa di rischioso alla tua console (e se sai cosa stai facendo, non farai nulla di rischioso).
