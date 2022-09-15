@@ -46,7 +46,7 @@ Se non riesci a eseguire il RiiConnect24 Patcher, entra nel [server Discord di R
 7. Scegli "`Express (Recommended)`". Ti darà tutto ciò di cui hai bisogno. ![Express Settings](/images/RC24_Patcher/4.JPG)
 8. Seleziona la tua regione. ![Seleziona la tua regione](/images/RC24_Patcher/5.JPG)
 9. Già che c'è, RiiConnect24 Patcher può scaricare anche altri canali opzionali che non utilizzano RiiConnect24. `[X]` rappresenta l'opzione selezionata. Basta premere 5 e `INVIO` se non sei interessato. ![Canali opzionali aggiuntivi](/images/RC24_Patcher/6.JPG)
-10. Connetti la scheda SD o l'unità USB al computer e seleziona "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
+10. Connetti la scheda SD o l'unità USB al computer e seleziona "`1`". ![Abilita la copia sull scheda SD](/images/RC24_Patcher/7.JPG)
 11. Se il tuo dispositivo è stato rilevato con successo, seleziona "`1`". In caso contrario, assicurati che ci sia una cartella chiamata `apps` nella scheda SD o nell'unità USB e riprova. ![Rilevato con successo](/images/RC24_Patcher/8.JPG)
 12. Sii paziente... ![Sta patchando!](/images/RC24_Patcher/9.JPG)
 13. Al termine, apprezzeremmo se spendessi un minuto a inviarci un feedback anonimo.  Se non vuoi, chiudi il patcher. Tutti i file dovrebbero già essere sulla scheda SD. ![Fatto!](/images/RC24_Patcher/10.JPG) ![File copiati](/images/RC24_Patcher/11.PNG)
@@ -119,7 +119,7 @@ If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently no
 [Continua a Wiimmfi](wiimmfi)<br> Wiimmfi ti permette di giocare a giochi online dopo la discontinuazione del Nintendo Wi-Fi Connction. L'installazione è facoltativa.
 {: .notice--info}
 
-[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. L'installazione di RiiConnect24 è facoltativa.
+[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. L'installazione è facoltativa.
 {: .notice--info}
 
 [Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
