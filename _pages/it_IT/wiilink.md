@@ -18,31 +18,31 @@ WiiLink24 e tutti i suoi servizi (come Wii no Ma) non sono controllati o operati
 
 #### Istruzioni
 
-##### Optional: Wii Patcher
-The Wii Patcher will not work on Dolphin. If you are a Dolphin user, please use the other patchers.
+##### Facoltativo: Wii Patcher
+Wii Patcher non funzionerà su Dolphin. Se utilizzo Dolphin, usa altri patcher.
 {: .notice--info}
 
-If you use the Wii Patcher, you will not need to use our other patchers.
+Se usi Patcher Wii, non sarà necessario l'utilizzo di ulteriori patcher.
 {: .notice--info}
 
-1. Download the WAD based on your console. For Wii it will be `WiiLink_Patcher_Wii.wad`. For vWii it will be `WiiLink_Patcher_vWii.wad`.
-2. Place the WAD in the `WAD` folder on your SD Card/USB.
-3. Insert your SD Card/USB in your Wii
-4. Install the WAD using Wii Mod Lite or any other WAD Manager.
-5. Launch the `WiiLink Patcher` channel from the Wii Menu.
-6. Select the channel you would like to download.
-7. Select the language you would like to download.
-8. If all worked, the channels should be on your Wii Menu.
+1. Scarica il WAD in base alla tua console. Per il Wii sarà `WiiLink_Patcher_Wii.wad`. Per il vWii sarà `WiiLink_Patcher_vWii.wad`.
+2. Posiziona il WAD nella cartella `WAD` della scheda SD o dell'unità USB.
+3. Inserisci la scheda SD o l'unità USB nel Wii
+4. Installa il WAD con Wii Mod Lite o un altro gestore di WAD.
+5. Avvia il canale `WiiLink Patcher` dal Menu Wii.
+6. Seleziona il canele che desideri scaricare.
+7. Seleziona la lingua che desideri scaricare.
+8. Se tutto ha funzionato, il canale dovrebbe apparire nel Menu Wii.
 
-##### Section I - Patching WADs
+##### Sezione 1 - Patchare i WAD
 
-[Se vuoi vedere istruzioni dettagliate su come installare WAD, clicca qui!](wiimodlite)
+[Se vuoi vedere istruzioni dettagliate su come installare i WAD, clicca qui!](wiimodlite)
 {: .notice--info}
 
-1. Download the required files based on your OS. On Windows, run `WiiLinkPatcher.bat`. On Unix systems, launch terminal and type sh, then drag the `WiiLinkPatcher.sh` into the terminal and press enter.
-2. Premi 1 per scegliere "`Start`" e conferma la tua scelta premendo `ENTER`.
-3. For this guide, choose "`Install WiiLink on your Wii`"
-4. Select your region.
+1. Scarica i file richiesti basati sul tuo sistema operativo. Su Windows, avvia `WiiLinkPatcher.bat`. Sui sistemi Unix, avvia il terminale e scrivi sh, poi trascina il file `WiiLink24Patcher.sh` nel terminale e premi invio.
+2. Premi 1 per scegliere "`Start`" e conferma la tua scelta premendo `INVIO`.
+3. Per questa guida, scegli "`Install WiiLink24 on your Wii`"
+4. Seleziona la tua regione.
 5. Connect the SD Card or USB Drive to your computer and select "`1`".
 6. Se il tuo dispositivo è stato rilevato con successo, seleziona "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
 7. Be patient...
