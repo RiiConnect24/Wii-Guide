@@ -39,12 +39,12 @@ Se hai BootMii installato come boot2 dovrai avviare BootMii riavviando la tua co
 - I "Blocchi Danneggiati" sono normali. Non ti preoccupare se li vedi su un backup della NAND.
 - Dopo questo passaggio, verificherà il backup. Se vuoi, puoi saltare il processo premendo il pulsante EJECT, ma non lo consigliamo. Nota bene che se hai un disco inserito nell'lettore dischi, premendo il tasto EJECT, espellerà anche il disco.
 5. Quando il backup sarà finito, esso verrà verificato.
-6. Scegli l'opzione Indietro per uscire da BootMii (icona con una freccia) e potrai scegliere se tornare al menu Wii o al Canale Homebrew.
+6. Scegli l'opzione Indietro per uscire da BootMii (icona con una freccia) e potrai scegliere se tornare al Menu Wii o al Canale Homebrew.
 
-Per ripristinare un backup della NAND sulla tua SD, puoi seguire queste istruzioni utilizzando RestoreMii (l'icona con la freccia rossa, alias la seconda icona sulla tua sinistra). Questo è utile nell'improbabile caso che tu rompa la tua Wii.
+Per ripristinare un backup della NAND sulla tua SD, puoi seguire queste istruzioni utilizzando RestoreMii (l'icona con la freccia rossa, alias la seconda icona sulla tua sinistra). Questo è utile nell'improbabile caso che il Wii entri in stato di brick.
 {: .notice--info}
 
-Per essere sicuro che tu non perda questi file, è consigliato di copiare `nand.bin` e `keys.bin` dalla cartella principale della tua SD al tuo computer.
+Per essere sicuro che tu non perda questi file, è consigliato di copiare `nand.bin` e `keys.bin` dalla cartella principale della scheda SD al tuo computer.
 {: .notice--info}
 
 [Continua con l'installazione di Priiloader](priiloader)<br> Priiloader aggiunge un livello di protezione da brick, e lo raccomandiamo, soprattutto se hai dovuto installare BootMii come IOS.
