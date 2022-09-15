@@ -4,7 +4,7 @@ title: "BlueBomb"
 
 {% include toc title="Table of Contents" %}
 
-È **vivamente** consigliato di non usare **qualsiasi** video guida per moddare la tua Wii Mini, dato che c'è una'altissima probabilitá di **brickarla**.
+È **vivamente** consigliato di non seguire **alcun** video per modificare il Wii Mini, dato che c'è una'altissima probabilità di **brick**.
 {: .notice--warning}
 
 Se hai bisogno di aiuto con questa guida, unisciti al [server Discord Wii mini Hacking](https://discord.gg/6ryxnkS) (raccomandato)
@@ -12,9 +12,9 @@ Se hai bisogno di aiuto con questa guida, unisciti al [server Discord Wii mini H
 
 ![BlueBomb](/images/bluebomb.png)
 
-BlueBomb è un exploit che usa una falla di sicurezza nelle librerie del Bluetooth della Wii e della Wii Mini. Nonostante sia l'unico exploit che funzioni sulla Wii Mini, BlueBomb funziona anche sulla Wii originale. Questo exploit permette anche il recupero da certi brick, come ad esempio un banner brick.
+BlueBomb è un exploit che usa una falla di sicurezza nelle librerie del Bluetooth del Wii e del Wii Mini. Nonostante sia l'unico exploit che funzioni sul Wii Mini, BlueBomb funziona anche sul Wii originale. Questo exploit permette anche il recupero da certi brick, come ad esempio un banner brick.
 
-Per la Wii originale, non è raccomandato usare BlueBomb se volete installare l'Homebrew Channel e BootMii, dato che ci sono exploit più convenienti.
+Per il Wii originale, non è raccomandato usare BlueBomb se volete installare l'Homebrew Channel e BootMii, poiché esistono exploit più convenienti.
 {: .notice--info}
 
 #### Sezione 1 - Di cosa hai bisogno
@@ -36,7 +36,7 @@ Per la Wii originale, non è raccomandato usare BlueBomb se volete installare l'
 1. Scarica l'installer HackMii dal [sito internet di BootMii](https://bootmii.org/download/).
 - (Se stai cercando di riparare un brick, dovresti anche copiare l'applicazione homebrew che desideri usare in /apps/)
 1. Estrailo e metti il file `boot.elf` nella tua chiavetta.
--(Anche per una Wii Mini, bootmini.elf non **funzionerà**, la sua funzione è completamente diversa e non correlata. Usa boot.elf in ogni caso). 1. Connetti la chiavetta alla console. Per una Wii mini, lo slot USB si trova sul retro. Per una Wii normale, usate lo slot in basso. (o quello a destra se è posta orizzontalmente). 1. Accendi la tua console e vai sul menù delle impostazioni. Nell'angolo in alto a destra dovresti vedere un codice di 4 caratteri come quello nell'immagine qua sotto. Questo codice è la tua versione del Menù Wii, scrivilo da qualche parte perché ci servirà dopo. Dopo di ché, spegni la tua console. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+- (Anche per un Wii Mini, bootmini.elf non **funzionerà**, la sua funzione è completamente diversa e non correlata. Usa boot.elf in ogni caso). 1. Connetti la chiavetta alla console. Per un Wii Mini, lo slot USB si trova sul retro. Per un Wii normale, usate lo slot in basso. (o quello a destra se è posta orizzontalmente). 1. Accendi la console e vai al menu delle impostazioni. Nell'angolo in alto a destra dovresti vedere un codice di 4 caratteri come quello nell'immagine qua sotto. Questo codice è la tua versione del Menu Wii, scrivilo da qualche parte perché ci servirà dopo. Dopo di ché, spegni la console. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Avvia la tua distro Linux, ed assicurati di essere connesso ad internet.
 1. Apri il terminale
 1. Esegui i seguenti comandi:
@@ -46,8 +46,8 @@ chmod +x bluebomb-helper.sh
 ./bluebomb-helper.sh
 ```
 1. L'Helper scaricherà i file necessari, e chiederà informazioni sulla tua console.
-  - Se hai selezionato una Wii mini ti verrà chiesta la tua regione. Questo può essere determinato dall'ultima lettera della versione del Menu Wii (`U` per **USA** ed `E` per modelli **PAL**).
-  - Se hai selezionato una Wii ti verrà chiesto di dare la tua versione del menù Wii (Che abbiamo scoperto nello step 4)
+  - Se hai selezionato un Wii Mini ti verrà chiesta la tua regione. Questo può essere determinato dall'ultima lettera della versione del Menu Wii (`U` per **USA** ed `E` per modelli **PAL**).
+  - Se hai selezionato un Wii ti verrà chiesto di dare la tua versione del Menu Wii (Che abbiamo scoperto al passaggio 4)
 1. Accendi la tua console e **non** connettere nessun telecomando Wii.
 1. Premi il pulsante Sync ripetutamente finché il terminale mostra `got connection handle`. Questo potrebbe richiedere numerosi tentativi, quindi non ti arrendere.
 
@@ -56,8 +56,8 @@ Assicurati che la console sia vicina al computer che sta eseguendo l'exploit, id
 
 La console dovrebbe far partire l'installer di HackMii. Puoi ora spegnere il tuo computer Linux se non devi usarlo in seguito.
 
-[Se stai utilizzando una Wii, procedi ad installare l'Homebrew Channel e BootMii](hbc)
+[Se stai utilizzando un Wii, procedi ad installare il Canale Homebrew e BootMii](hbc)
 {: .notice--info}
 
-[Se stai utilizzando una Wii Mini, procedi ad installare l'Homebrew Channel](hbc-mini)
+[Se stai utilizzando un Wii Mini, procedi ad installare il Canale Homebrew](hbc-mini)
 {: .notice--info}
