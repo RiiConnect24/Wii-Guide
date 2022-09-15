@@ -43,38 +43,38 @@ Se usi Patcher Wii, non sarà necessario l'utilizzo di ulteriori patcher.
 2. Premi 1 per scegliere "`Start`" e conferma la tua scelta premendo `INVIO`.
 3. Per questa guida, scegli "`Install WiiLink24 on your Wii`"
 4. Seleziona la tua regione.
-5. Connect the SD Card or USB Drive to your computer and select "`1`".
-6. Se il tuo dispositivo è stato rilevato con successo, seleziona "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
-7. Be patient...
-8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
-9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLinkPatcher.bat` to your SD Card or USB Device.
-10. Metti la tua scheda SD o il tuo dispositivo USB nella tua WIi.
-11. Carica il Canale Homebrew sulla tua Wii.
+5. Collega la scheda SD o l'unità USB al computer e seleziona "`1`".
+6. Se il tuo dispositivo è stato rilevato con successo, seleziona "`1`". In caso contrario, assicurati che esista una cartella chiamata `apps` nulla scheda SD o nell'unità USB e riprova.
+7. Sii paziente...
+8. Una volta finito, puoi tranquillamente chiudere il patcher. Tutti i file sono pronti nella scheda SD o nell'unità USB.
+9. Se non sono stati copiati automaticamente nella scheda SD o nell'unità USB, copia le cartelle `WAD` e `apps` vicino a `WiiLink24Patcher.bat` nulla scheda SD o nell'unità USB.
+10. Collega la scheda SD o l'unità USB al WIi.
+11. Avvia il Canale Homebrew dal Wii.
 12. Avvia Wii Mod Lite.
-13. Usando ul tuo +Control Pad sul telecomando Wii, naviga su `WAD Manager`, e poi naviga sulla cartella `wad`.
-14. If your Wii is not a Japanese region, install WiiLink24_SPD.wad before anything else. This is required so that we know your email address to send files.
-15. Highlight all other WADs with `WiiLink24` in the name, and press + to select them. Quando sono tutti selezionati, premi A due volte per installare tutti i WAD.
-16. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+13. Con la croce direzionale del telecomando Wii, vai a `WAD Manager`, e poi alla cartella `wad`.
+14. Se il tuo Wii non è della regione giapponese, installa WiiLink24_SPD.wad prima di qualsiasi altra cosa. È necessario per conoscere l'Indirizzo email a cui inviare i file.
+15. Evidenzia tutti i WAD che hanno `WiiLink24` nel nome, e premi + per selezionarli. Quando sono tutti selezionati, premi A due volte per installare tutti i WAD.
+16. Dopo averli installati con successo, premi il tasto HOME per tornare al Canale Homebrew.
 
-##### Section II - Adding your email to SPD
+##### Sezione 2 - aggiungere la tua email a SPD
 
-Adding your email to SPD will allow channels like Digicam and Demae to send files like images or links to you.
+L'aggiunta della tua email a SPD permetterà a canali come Digicam e Demae d'inviarti file come immagini o link.
 {: .notice--info}
 
-1. Launch Digicam Print Channel from your Wii's home menu.
-2. On the bottom right, press `Address settings` and then `Yes`.
-3. Click on `Email Address` within SPD and type in your email address. (make sure you **put it in correctly** or it **will not work!**)
-4. Press `OK` and then `Done`.
-5. Once you are in the SPD main menu, choose `Digicam` in the `Choose Channel` menu. After you’ve done that, it should work!
+1. Avvia Digicam Print Channel dal Menu del Wii.
+2. In basso a destra, premi `Address settings` e poi `Yes`.
+3. Clicca su `Email Address` all'interno di SPD e digita il tuo indirizzo email. (assicurati che **inserirlo correttamente** o **non funzionerà!**)
+4. Premi `OK` e poi `Done`.
+5. Una volta che sei nel menu principale di SPD, scegli `Digicam` nel menu `Choose Channel`. Adesso dovrebbe funzionare!
 
-For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
+Per le Wii PAL (europee)<br> Nelle impostazioni del Wii imposta la risoluzione TV su 60Hz (480p/480i). Puoi trovarlo in `Schermo -> Risoluzione TV` Se non lo farai, una barra rosa apparirà nella parte inferiore dello schermo oscurando la visione.
 {: .notice--info}
 
-[Continua a RiiConnect24](riiconnect24)<br> RiiConnect24 ti permette di usare servizi di WiiConnect24 che sono discontinuati, come i canali News, Forecast, Everybody Votes, Nintendo, Check Mii Out e anche Wii Mail. L'installazione di RiiConnect24 è facoltativa.
+[Continua con RiiConnect24](riiconnect24)<br> RiiConnect24 consente di utilizzare i servizi interrotti di WiiConnect24, tra cui i canali Notizie, Meteo, Vota Anche Tu, Nintendo e Concorsi Mii, oltre a Wii Mail. L'installazione è facoltativa.
 {: .notice--info}
 
-[Continua a Wiimmfi](wiimmfi)<br> Wiimmfi ti permette di giocare a giochi online dopo la discontinuazione del Nintendo Wi-Fi Connction. L'installazione di RiiConnect24 è facoltativa.
+[Continua con Wiimmfi](wiimmfi)<br> Wiimmfi ti permette di giocare online dopo la discontinuazione del Nintendo Wi-Fi Connction. L'installazione è facoltativa.
 {: .notice--info}
 
-[Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
+[Continua a navigare nel sito](site-navigation)<br> Abbiamo molte altre guide che potrebbero interessarti.
 {: .notice--info}
