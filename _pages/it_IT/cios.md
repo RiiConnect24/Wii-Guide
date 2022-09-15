@@ -8,16 +8,16 @@ Questo tutorial ti dirà come installare cIOS (Custom IOS). È necessario se si 
 
 ![d2x cIOS Installer](/images/cios/cIOS.png)
 
-Se hai una Wii U (vWii), segui [questa guida](https://wiiu.hacks.guide/#/vwii-modding) per installare cIOS. Provare ad installare cIOS su vWii non funzionerà.
+Se hai un Wii U (vWii), segui [questa guida](https://wiiu.hacks.guide/#/vwii-modding) per installare cIOS. Provare ad installare cIOS su vWii non funzionerà.
 {: .notice--info}
 
-Se hai una Wii mini, installa [questo cIOS](cios-mini). Provare ad installare cIOS su una Wii Mini non funzionerà.
+Se hai un Wii Mini, installa [questo cIOS](cios-mini). Provare ad installare cIOS su un Wii Mini non funzionerà.
 {: .notice--info}
 
 #### Di cosa hai bisogno
 
-- Una Wii
-- Una scheda SD o chiavetta USB
+- Un Wii
+- Una scheda SD o un'unità USB
 - [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
 Assicurati che, se stai usando una scheda SD, l'interruttore a lato sia in posizione di sblocco, altrimenti non riuscirai a selezionare l'opzione corretta nell'installer
@@ -33,7 +33,7 @@ Assicurati che, se stai usando una scheda SD, l'interruttore a lato sia in posiz
 ##### Sezione 1 - Scaricare
 
 1. Scarica il d2x cIOS Installer ed estrailo sulla radice della tua scheda SD o unità USB.
-1. Inserisci la tua scheda SD o unità USB nella tua Wii, ed avvia il d2x cIOS Installer dal canale Homebrew.
+1. Inserisci la scheda SD o unità USB nel Wii, ed avvia il d2x cIOS Installer dal Canale Homebrew.
 </div>
 <div id="without-connection" class="blanktabcontent" markdown="1">
 
@@ -45,7 +45,7 @@ Assicurati che, se stai usando una scheda SD, l'interruttore a lato sia in posiz
 1. Ripeti il passaggio precedente per IOS56 v5661 e IOS38 v4123.
 1. Una volta scaricati i tre IOS, ci sarà una cartella di nome `titles` nella stessa cartella del NUS Downloader. Apri la cartella e navigaci dentro finché non trovi i tre file WAD che hai scaricato. Piazza ciascuno dei file WAD sulla radice della tua scheda SD o unità USB.
 1. Scarica il d2x cIOS Installer ed estrailo sulla radice della tua scheda SD o unità USB.
-1. Inserisci la tua scheda SD o unità USB nella tua Wii, ed avvia il d2x cIOS Installer dal canale Homebrew.
+1. Inserisci la scheda SD o unità USB nel Wii, ed avvia il d2x cIOS Installer dal Canale Homebrew.
 </div>
 
 ##### Sezione 2 - Installare
