@@ -49,11 +49,11 @@ ASSICURATI DI LEGGERE GLI AVVISI DI SICUREZZA SOPRA PRIMA DI CONTINUARE!
 
 ##### Sezione 1 - Trovare un Tema
 
-* When choosing a theme, it is important to make sure that your theme is compatible with the vWii System Menu.
+* Quando scegli un tema, assicurarti che sia compatibile con il vWii.
 
-* Older themes for 3.X or 2.X are **NOT** compatible with vWii and may cause a brick if used.
+* I vecchi temi per 3.X o 2.X **NON** sono compatibili con il vWii e possono causare brick se utilizzati.
 
-* Most of the themes on RiiConnect24's theme page have been tested on vWii and they are known to work.
+* La maggior parte dei temi nella pagina dei temi di RiiConnect24 sono stati testati su vWii e risultano funzionanti.
 
 ##### Sezione 2- Scaricare i file .app
 
