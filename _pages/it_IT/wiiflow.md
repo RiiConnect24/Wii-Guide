@@ -56,14 +56,14 @@ Questa non è una guida completa sull'utilizzo di WiiFlow. Questa guida è intes
 
 ##### Interfaccia
 
-When WiiFlow detects games, they are displayed in flow view. Quando clicchi su un gioco vengono fornite queste opzioni:
+Quando WiiFlow rileva dei giochi, vengono mostrati in visualizzazione a flusso. Quando clicchi su un gioco vengono fornite queste opzioni:
 
 * Stella - Aggiunge il gioco ai preferiti.
 * Scaffale - Aggiunge il gioco da 1 a 6 categorie a tua scelta.
 * Ingranaggi - Apre le impostazioni per il gioco specifico. Cambiare le impostazioni qui avrà effetto solo sul gioco per cui hai cambiato le impostazioni.
 * X - Elimina il gioco dal dispositivo USB o dalla scheda SD
 
-When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
+Quando porti il cursore nella parte inferiore dello schermo con la visualizzazione a flusso, ci sono 6 icone:
 
 * Scaffale - Visualizza i giochi che sono ordinati in base alle categorie che scegli.
 * Stella - Visualizza i tuoi giochi preferiti.
