@@ -39,7 +39,7 @@ Di seguito sono riportati alcuni collegamenti ai temi.
 * [Cartella di Google Drive](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
 * [Wii Theme Team Creations v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
-Only themes from the RiiConnect24 Themes page have been tested on vWii. Themes from other sources may not be entirely compatible with vWii, use these at your own risk.
+Solo i temi dalla pagina dei temi di RiiConnect24 sono stati testati su vWii. I temi provenienti da altre fonti potrebbero non essere totalmente compatibili con il vWii, usali a tuo rischio.
 {: .notice--warning}
 
 ASSICURATI DI LEGGERE GLI AVVISI DI SICUREZZA SOPRA PRIMA DI CONTINUARE!
@@ -57,14 +57,14 @@ ASSICURATI DI LEGGERE GLI AVVISI DI SICUREZZA SOPRA PRIMA DI CONTINUARE!
 
 ##### Sezione 2- Scaricare i file .app
 
-This assumes your vWii is on the latest Wii Menu version.
+È presupposto che il tuo vWii sia all'ultima versione del Wii Menu.
 {: .notice--warning}
 
-There are a couple of ways to get the .app files for your vWii System Menu, in this guide we'll be using the vWii version of NUS Downloader.
+Ci sono un paio di modi per ottenere i file .app per il Menu di Sistema del vWii, in questa guida utilizzeremo la versione vWii di NUS Downloader.
 
-1. Open the folder and launch NUS Downloader.
-2. Open the menu in NUS Downloader and click the database button.
-3. Go to System > System Menu and select a version according to your region.
+1. Estrai il file .zip di NUS Downloader per vWii e apri l'applicazione
+2. Clicca su `Database...`
+3. Vai su `System` > `System Menu` e seleziona la versione corrispondente alla regione come mostrato nella tabella sottostante.
 
 | Regione  | Versione Menu vWii |
 | -------- | ------------------ |
@@ -72,7 +72,7 @@ There are a couple of ways to get the .app files for your vWii System Menu, in t
 | USA      | v609               |
 | Europa   | v610               |
 
-After selecting the correct version to download, check the box for `Create Decrypted Contents (*.app)`. Then, press the `Start NUS Download` Button on the top of the window.
+Dopo aver selezionato la versione corretta da scaricare, seleziona la casella `Create Decrypted Contents (*.app)`. Premi il pulsante `Start NUS Download` nella parte superiore della finestra.
 
 ![The database menu in NUS Downloader.](/images/Themes-vWii/NUSD-vWii_preview-database.png)
 
@@ -86,13 +86,13 @@ After the download has finished, search for .app file corresponding to your regi
 | USA      | 0000001f.app             |
 | Europa   | 00000022.app             |
 
-If you can't find the .app file, it's possible you have downloaded the wrong version of the Wii Menu and you'll need to try again.
+Se non riesci a trovare il file .app, è possibile che tu abbia scaricato la versione sbagliata del Menu Wii e dovrai riprovare.
 
-After you find the .app file, copy it to the main directory of the folder containing ThemeMii. Then, copy a version of it to the theme folder in your SD card.
+Dopo aver trovato il file .app, copialo nella directory principale della cartella contenente ThemeMii. Dopodiché, creane una copia nella cartella dei temi nella scheda SD.
 
 ##### Sezione 3 - Creare il Tema
 
-1. Launch ThemeMii Mod.
+1. Avvia ThemeMii Mod.
 2. Do not click `Download Base App`, ThemeMii does not have base .app files for vWii. If you download a base app, you must delete it in order to use the vWii .app file.
 3. In ThemeMii select `File` -> `Open` and navigate to the .mym theme you downloaded earlier.
 4. Click on `Create CSM` and select the .app file that you copied to the ThemeMii folder.
@@ -113,7 +113,7 @@ If you did everything correctly, you should now have your custom theme installed
 ##### Reverting to Original Theme
 
 1. Apri il Canale Homebrew.
-2. Launch MyMenuify and navigate to your theme folder.
-3. Select the .app file you copied to the SD card at the end of section 2 as if you were installing a theme.
-4. Select Install and wait until it finishes.
-5. When it's done, you can exit MyMenuify.
+2. Avvia MyMenuify e vai alla cartella dei temi.
+3. Seleziona il file .app copiato sulla scheda SD alla fine della sezione 2 come se stessi installando un tema.
+4. Selezione Install e attendi che finisca.
+5. Quando ha finito, puoi uscire da MyMenuify.
