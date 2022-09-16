@@ -18,7 +18,7 @@ I WiiMote con Wii MotionPlus non fonziuneranno con MyMenuify, purtroppo non c'è
 Ci sono alcuni temi che non sono compatibili con il menu di sistema del vWii, possono avre effetti inaspettati, da problemi grafici al brick. Si consiglia di usare solo temi provenienti da [rc24.xyz/goodies/themes](https://rc24.xyz/goodies/themes/) poiché sono compatibili con le versioni moderne del Menu di Sistema.
 {: .notice--warning}
 
-If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329). ([Versione archiviata](https://web.archive.org/web/20200213194233/https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329/))
+Se il vWii entra in stato di brick, [segui questa guida](https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329). ([Versione archiviata](https://web.archive.org/web/20200213194233/https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329/))
 {: .notice--info}
 
 #### Ciò di cui hai bisogno
@@ -74,9 +74,9 @@ Ci sono un paio di modi per ottenere i file .app per il Menu di Sistema del vWii
 
 Dopo aver selezionato la versione corretta da scaricare, seleziona la casella `Create Decrypted Contents (*.app)`. Premi il pulsante `Start NUS Download` nella parte superiore della finestra.
 
-![The database menu in NUS Downloader.](/images/Themes-vWii/NUSD-vWii_preview-database.png)
+![Il menu dei database in NUS Downloader.](/images/Themes-vWii/NUSD-vWii_preview-database.png)
 
-![The main menu of NUS downloader without the database menu open.](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
+![Il menu principale di NUS Downloader senza il menu dei database aperto.](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
 
 After the download has finished, search for .app file corresponding to your region in the folder where NUS Downloader is.
 
@@ -93,24 +93,24 @@ Dopo aver trovato il file .app, copialo nella directory principale della cartell
 ##### Sezione 3 - Creare il Tema
 
 1. Avvia ThemeMii Mod.
-2. Do not click `Download Base App`, ThemeMii does not have base .app files for vWii. If you download a base app, you must delete it in order to use the vWii .app file.
-3. In ThemeMii select `File` -> `Open` and navigate to the .mym theme you downloaded earlier.
-4. Click on `Create CSM` and select the .app file that you copied to the ThemeMii folder.
-5. Now navigate to the theme folder on your SD card and save your theme with the .csm extension.
+2. Non selezionare `Download Base App`, ThemeMii non ha alcun file base .app per il vWii. Se scarichi una base app, è necessario eliminarla per utilizzare il file .app per vWii.
+3. In ThemeMii seleziona `File` -> `Open` e vai al tema in formato .mym che hai scaricato prima.
+4. Clicca su `Create CSM` e seleziona il file .app che hai copiato nella cartella ThemeMii.
+5. Adesso vai alla cartella dei temi sulla scheda SD e salva il tema con l'estensione .csm.
 
 ![Menu ThemeMii](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
 
 ##### Sezione 4 - Installare il Tema
 
-1. Eject your SD card from your PC and put it into your Wii U.
-2. Start the Homebrew Channel and launch MyMenuify.
-3. Navigate to your theme folder and select the .csm file you just created.
-4. When it prompts you to install the theme say `Yes`, and wait for it to finish.
-5. When it finishes installing, MyMenuify will prompt you to either `Continue` or `Exit`, choose `Exit`.
+1. Espelli la scheda SD dal PC e inseriscila nel Wii U.
+2. Avvia il Canale Homebrew e apri MyMenuify.
+3. Vai alla cartella dei temi e seleziona il file .csm che hai appena creato.
+4. Quando ti viene chiesto di installare il rema conferma con `Yes` e attendi che finisca.
+5. A installazione finita, MyMenuify ti farà scegliere tra `Continue` ed `Exit`, scegli `Exit`.
 
-If you did everything correctly, you should now have your custom theme installed on your Wii Menu.
+Se hai fatto tutto correttamente, dovresti avere il tuo tema personalizzato installato nel Menu Wii.
 
-##### Reverting to Original Theme
+##### Ripristinare il tema originale
 
 1. Apri il Canale Homebrew.
 2. Avvia MyMenuify e vai alla cartella dei temi.
