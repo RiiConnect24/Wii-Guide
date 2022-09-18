@@ -104,6 +104,9 @@ title: "RiiConnect24"
 It's common to get error FORE000006 on the Forecast Channel after installing RiiConnect24. If you get it, make sure your Wii's to the correct date and time, then wait no more than an hour and it may start working. [If you still get error FORE000006 or if you get NEWS000006, you will need to delete your SYSCONF with RC24-Clear-Tool].
 {: .notice--warning}
 
+You will get error 268503 when loading the Nintendo Channel. This is normal. You can bypass the error by pressing OK.
+{: .notice--warning}
+
 If you get error 107245, then you have not installed the patched IOS. Make sure you install IOS31 and IOS80 with Wii Mod Lite, along with any other patched WADs.
 {: .notice--warning}
 
