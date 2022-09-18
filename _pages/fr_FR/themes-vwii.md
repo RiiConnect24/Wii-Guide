@@ -72,11 +72,11 @@ Il existe plusieurs façons d'obtenir les fichiers .app pour votre menu système
 | USA    | v609                 |
 | Europe | v610                 |
 
-After selecting the correct version to download, check the box for `Create Decrypted Contents (*.app)`. Then, press the `Start NUS Download` Button on the top of the window.
+Après avoir sélectionné la bonne version à télécharger, cochez la case pour `Créer du contenu décrypté (*.app)`. Ensuite, appuyez sur le bouton `Démarrer le téléchargement NUS` en haut de la fenêtre.
 
-![The database menu in NUS Downloader.](/images/Themes-vWii/NUSD-vWii_preview-database.png)
+![Le menu de la base de données dans NUS Downloader.](/images/Themes-vWii/NUSD-vWii_preview-database.png)
 
-![The main menu of NUS downloader without the database menu open.](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
+![Le menu principal du téléchargeur NUS sans le menu de la base de données ouvert.](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
 
 After the download has finished, search for .app file corresponding to your region in the folder where NUS Downloader is.
 
@@ -86,9 +86,9 @@ After the download has finished, search for .app file corresponding to your regi
 | USA    | 0000001f.app                   |
 | Europe | 00000022.app                   |
 
-If you can't find the .app file, it's possible you have downloaded the wrong version of the Wii Menu and you'll need to try again.
+Si vous ne trouvez pas le fichier .app, il est possible que vous ayez téléchargé la mauvaise version du menu Wii et vous devrez réessayer.
 
-After you find the .app file, copy it to the main directory of the folder containing ThemeMii. Then, copy a version of it to the theme folder in your SD card.
+Après avoir trouvé le fichier .app, copiez-le dans le répertoire principal du dossier contenant ThemeMii. Ensuite, copiez-en une version dans le dossier du thème de votre carte SD.
 
 ##### Section III - Construire le Theme
 
@@ -98,7 +98,7 @@ After you find the .app file, copy it to the main directory of the folder contai
 4. Cliquez sur `Créer CSM` et sélectionnez le fichier .app que vous avez copié dans le dossier ThemeMii.
 5. Accédez maintenant au dossier de thème sur votre carte SD et enregistrez votre thème avec l'extension .csm.
 
-![ThemeMii Menu](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
+![Menu ThemeMii](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
 
 ##### Section IV - Installer le Theme
 
