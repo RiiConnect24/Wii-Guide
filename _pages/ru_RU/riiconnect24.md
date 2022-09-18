@@ -9,18 +9,18 @@ If you need help with anything regarding this tutorial, please join [the RiiConn
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-[RiiConnect24](https://rc24.xyz/) allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail.
+[RiiConnect24](https://rc24.xyz/) позволяет вам использовать отключенные сервисы от WiiConnect24, в которые входят News, Forecast, Everybody Votes, Nintendo и Check Mii Out Channel, вместе с Wii Mail.
 
 {% capture notice-1 %}
-This guide is for regular Wiis only.
+Этот гайд только для обычных Wii.
 
-- Follow [this tutorial](riiconnect24-vwii) if you'd like to install RiiConnect24 on vWii (Wii Mode on Wii U).
-- Follow [this tutorial](riiconnect24-dolphin) if you'd like to install RiiConnect24 on Dolphin Emulator.
+- Прочитайте [этот гайд](riiconnect24-vwii), если вы хотите установить RiiConnect24 на vWii (Wii режим на Wii U).
+- Прочитайте [этот гайд](riiconnect24-dolphin), если вы хотите установить RiiConnect24 на эмулятор Dolphin.
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
+НЕ УСТАНАВЛИВАЙТЕ RIICONNECT24 НА WII MINI! Это не сработает, и вы брикнете её.
 {: .notice--danger}
 
 #### Что вам понадобится
@@ -28,25 +28,25 @@ DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick th
 * SD карта или USB флешка/жёсткий диск
 * Wii с подключением к интернету
 * Компьютер
-* [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+* [RiiConnect24 Patcher (Windows, Mac и Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### Инструкции
 
-##### Section I - Using RiiConnect24 Patcher
+##### Раздел I - Использование RiiConnect24 Patcher
 
-If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
+Если вы не можете запустить RiiConnect24 Patcher, пожалуйста, зайдите на [Дискорд сервер RiiConnect24](https://discord.gg/rc24) (рекомендуется) или [напишите нам на емейл](mailto:support@riiconnect24.net) для дальнейшей помощи.
 {: .notice--info}
 
-1. Click the link above to go to the GitHub page where the patcher is.
-2. Download `RiiConnect24Patcher.bat` if you are on Windows, and `RiiConnect24Patcher.sh` if you are on a Unix system
-3. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open Terminal and type `bash`, then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this: `bash RiiConnect24Patcher.sh`.
-4. Нажмите 1 для выбора "`Start`" и подтвердите выбор нажатием `Enter`. (NOTE: These screenshots are from the Windows version of the patcher.) ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
-5. Select the device you're patching for. ![Select your device](/images/RC24_Patcher/2.JPG)
-6. For this guide, choose "`Install RiiConnect24 on your Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
-7. Choose "`Express (Recommended)`". It will give you everything you need. ![Express Settings](/images/RC24_Patcher/4.JPG)
-8. Select your region. ![Select your region](/images/RC24_Patcher/5.JPG)
-9. While you're at it, RiiConnect24 Patcher can additionally download some other optional channels that do not use RiiConnect24. `[X]` represents the options that selected. Just press 5 and `ENTER` if you're not interested. ![Additional optional channels](/images/RC24_Patcher/6.JPG)
-10. Connect your SD Card or USB Drive to your computer and select "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
+1. Нажмите на ссылку выше, чтобы перейти на страницу GitHub, где и находится патчер.
+2. Скачайте `RiiConnect24Patcher.bat` если вы на Windows, и `RiiConnect24Patcher.sh` если вы на Unix системе.
+3. На Windows запустите `RiiConnect24Patcher.bat`. На Unix системах, откройте Терминал и введите `bash`, потом закиньте `RiiConnect24Patcher.sh` в Терминал и нажмите Enter. Это должно выглядеть так: `bash RiiConnect24Patcher.sh`.
+4. Нажмите 1 для выбора "`Start`" и подтвердите выбор нажатием `Enter`. (ПРИМЕЧАНИЕ: Эти скриншоты из Windows версии патчера.) ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
+5. Выберите устройство, которое вы собираетесь патчить.![Select your device](/images/RC24_Patcher/2.JPG)
+6. В нашем случае, выберете "`Install RiiConnect24 on your Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
+7. Выберите "`Express (Recommended)`". It will give you everything you need. ![Express Settings](/images/RC24_Patcher/4.JPG)
+8. Выберите ваш регион.![Select your region](/images/RC24_Patcher/5.JPG)
+9. RiiConnect24 Patcher может также скачать некоторые другие ченелы, которые не используют RiiConnect24. `[X]` показывает опции, которые вы выбрали. Просто нажмите 5 и `ENTER` если вас не интересует. ![Additional optional channels](/images/RC24_Patcher/6.JPG)
+10. Подключите вашу SD карту или флешку к вашему компьютеру и выберите "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
 11. Если ваше устройство было успешно обнаружено, выберите "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Drive and try again. ![Successfully detected](/images/RC24_Patcher/8.JPG)
 12. Be patient... ![It's patching!](/images/RC24_Patcher/9.JPG)
 13. After it's done, we would appreciate if you take a minute to send anonymous feedback to us.  If you don't want to, close the patcher. All the files should already be on your SD Card. ![It's done!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
