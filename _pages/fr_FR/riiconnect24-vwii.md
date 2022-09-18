@@ -9,9 +9,9 @@ Si vous avez besoin d'aide pour quoi que ce soit concernant ce didacticiel, veui
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-Guide to installing [RiiConnect24](https://rc24.xyz) on your vWii (Virtual Wii on Wii U) with: CMOC/MCC, Nintendo Channel, EVC and News Channel along with forced 4:3 aspect ratio patching.
+Guide pour installer [RiiConnect24](https://rc24.xyz) sur votre vWii (Wii virtuelle sur Wii U) avec : CMOC/MCC, Chaîne Nintendo, EVC et Chaîne Infos avec correction forcée du ratio d'aspect 4:3.
 
-Since certain features found in the original Wii are not present in the vWii, we can only partially utilize RiiConnect24. See [what's currently working](#whats-currently-working) for details.
+Since certain features found in the original Wii are not present in the vWii, we can only partially utilize RiiConnect24. Voir [ce qui fonctionne actuellement](#whats-currently-working) pour plus de détails.
 {: .notice--warning}
 
 #### Avertissement
@@ -19,7 +19,7 @@ Since certain features found in the original Wii are not present in the vWii, we
 Nous ne sommes **PAS** responsables si vous brickez ou endommagez votre console de quelque manière que ce soit. Si vous suivez ce guide à la lettre, vous ne devriez pas avoir de problème.
 {: .notice--warning}
 
-Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on Wii U). If you're looking for instructions for a Nintendo Wii, use [wii.guide/riiconnect24](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [wii.guide/riiconnect24-dolphin](/riiconnect24-dolphin)
+N'effectuez **PAS** les instructions de ce guide sur une autre console que la vWii (Virtual Wii sur Wii U). If you're looking for instructions for a Nintendo Wii, use [wii.guide/riiconnect24](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [wii.guide/riiconnect24-dolphin](/riiconnect24-dolphin)
 {: .notice--warning}
 
 #### Ce dont vous avez besoin
@@ -29,18 +29,18 @@ Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on
 * Une console Wii U capable de lancer le Hombrew Launcher (soit via l'exploit de navigateur internet, Haxchi ou Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-After following the above linked guide, you should have:
+Après avoir suivi le guide mentionné ci-dessus, vous devriez avoir:
 * Une sauvegarde et des clés NAND de la vWii (conservez-les en toute sécurité !!)
 * Homebrew Channel installé
 * d2x cIOS installé (IOS249, IOS250 et IOS251)
-* IOS80 patched
+* IOS80 patché
 {: .notice--info}
 
 #### Instructions
 
 ##### Section I - Exécuter le patcher
 
-Using the RiiConnect24 Patcher you should've downloaded earlier in [What you need](#what-you-need), you will be downloading and patching IOS31, News, Everybody Votes, Nintendo and Check Mii Out Channels for use on your vWii.
+En utilisant le patcheur RiiConnect24 que vous avez dû télécharger plus tôt dans [Ce dont vous avez besoin](#what-you-need), vous allez télécharger et patcher les chaînes IOS31, infos, votes, Nintendo et concours Mii pour les utiliser sur votre vWii.
 
 1. Exécutez `RiiConnect24Patcher.bat` sur Windows, ou `RiiConnect24Patcher.sh` sur les systèmes Unix : tapez bash dans le terminal, faites glisser `RiiConnect24Patcher.sh` dans ce dernier et appuyez sur Entrée. Cela devrait ressembler à ceci `bash RiiConnect24Patcher.sh`. Suivez les instructions à l'écran
 
@@ -60,7 +60,7 @@ Using the RiiConnect24 Patcher you should've downloaded earlier in [What you nee
 1. Ouvrez Homebrew Channel
 2. Lancez ww-43db-patcher
 
-If you install a theme, you will have to run the ww-43db-patcher once more
+Si vous installez un thème, vous devrez relancer ww-43db-patcher
 {: .notice--info}
 
 ##### Section IV - Utiliser RiiConnect24
