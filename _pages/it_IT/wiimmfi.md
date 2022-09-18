@@ -9,9 +9,9 @@ Se hai bisogno di qualsiasi informazione riguardante questo tutorial, entra nel 
 
 ![Logo di Wiimmfi](/images/WiiWiimmfiLogo.jpg)
 
-[Wimmfi](https://wiimmfi.de) è un servizio che sostituisce l'ormai defunta Nintendo Wi-Fi Connection. E' stato sviluppato da Wimm e Leseratte.
+[Wimmfi](https://wiimmfi.de) è un servizio che sostituisce l'ormai defunta Nintendo Wi-Fi Connection. È stato sviluppato da Wimm e Leseratte.
 
-If you get the error 23904 while connecting to Wiimmfi, then you are using an outdated patch.<br> Follow the steps below for the method you're using to connect to Wiimmfi again.<br> See [this page](https://wiimmfi.de/update) for more details.<br>
+Se ottieni l'errore 23904 durante la connessione a Wiimmfi, allora stai utilizzando una patch obsoleta.<br> Segui i passaggi seguenti per il metodo che stai usando per connetterti nuovamente a Wiimmfi.<br> Vai a [questa pagina](https://wiimmfi.de/update) per maggiori dettagli.<br>
 {: .notice--warning}
 
 ## Vari Patchers
@@ -21,13 +21,13 @@ Ci sono molti metodi di connettersi a Wiimmfi. Scegli quello che ti sembra migli
 ### Patchare automaticamente dal Canale Disco usando Priiloader
 
 #### Di cosa hai bisogno
-- Una Wii con Priiloader 0.9 o più recente installato
+- Un Wii con Priiloader 0.9 o più recente installato
 
-Se hai una versione più vecchia di Priiloader o non lo hai installato, segui [questa guida](priiloader) per aggiornarlo/installarlo.
+Se hai una versione più vecchia di Priiloader o non lo hai installato, segui [questa guida](priiloader) per aggiornarlo o installarlo.
 {: .notice--info}
 
 #### Istruzioni
-1. Tieni premuto reset mentre accendi la tua Wii (se stai usando una Wii Mini, inserisci una tastiera USB e premi esc).
+1. Tieni premuto reset mentre accendi il Wii (se stai usando un Wii Mini, inserisci una tastiera USB e premi Esc).
 2. Vai su `System Menu Hacks`.
 3. Assicurati che l'opzione `Wiimmfi patch v4` è abiliata.
 4. Salva le impostazioni ed esci.
