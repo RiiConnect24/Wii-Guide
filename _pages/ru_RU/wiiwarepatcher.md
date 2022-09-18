@@ -18,7 +18,7 @@ Want to patch WAD games (WiiWare) to work with Wiimmfi and you don't know how? T
 
 ##### Section I - Downloading WiiWare Patcher
 
-1. Click the link above to go to the GitHub page where the patcher is.
+1. Нажмите на ссылку выше, чтобы перейти на страницу GitHub, где и находится патчер.
 2. Download `WiiWarePatcher.bat`.
 
 ##### Section II - Patching WiiWare games
