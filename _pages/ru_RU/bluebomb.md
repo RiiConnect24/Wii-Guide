@@ -14,12 +14,12 @@ title: "BlueBomb"
 
 BlueBomb - это эксплойт, который используюет уязвимость Bluetooth библиотек в Wii и Wii mini. Хоть это и единственный эксплойт, который работает на Wii mini, BlueBomb так же может работать и на обычной Wii. Этот эксплойт так же помогает восстановить устройство из состояния брика.
 
-For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
+Для оригинальной Wii мы не рекомендуем использовать BlueBomb, если вы собираетесь установить Homebrew Channel или BootMii, так как существуют более удобнее эксплойты.
 {: .notice--info}
 
 #### Часть I - Что вам нужно
 - Linux машина
-  - A Virtual Machine may work, but it is not recommended due to its complexity in getting Bluetooth passthrough working. If possible, please use a LiveUSB as described below.
+  - Виртуальная машина может сработать, но не рекомендуется из за сложностями с Bluetooth. Если возможно, используте LiveUSB, как описано ниже.
   - If you have a Raspberry Pi, you can use that instead as it most likely has Linux installed already.
   - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports.
   - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
@@ -56,8 +56,8 @@ Make sure that the console is close to the computer running the exploit, ideally
 
 The console should now boot to the HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
 
-[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
+[Если используете Wii, продолжите к установке Homebrew Channel и BootMii](hbc)
 {: .notice--info}
 
-[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
+[Если используете Wii mini, продолжите к установке Homebrew Channel](hbc-mini)
 {: .notice--info}
