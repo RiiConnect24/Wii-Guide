@@ -32,32 +32,32 @@ Se hai una versione più vecchia di Priiloader o non lo hai installato, segui [q
 3. Assicurati che l'opzione `Wiimmfi patch v4` è abiliata.
 4. Salva le impostazioni ed esci.
 
-If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
+Se invece vedi l'hack `Wiimmfi patch v2` o `Wiimmfi patch v3`, allora non hai l'ultima versione del file hacks_hash.ini.<br> Scaricalo da [qui](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) e mettilo in `/apps/priiloader/hacks_hash.ini` sulla scheda SD o sull'unità USB.<br> Poi, ripeti i passaggi precedenti.
 {: .notice--warning}
 
 ### Applicazione (Disco) Hombrew
 MrBean35000vr (creatore di CTGP-R, un pacchetto contenuti per Mario Kart Wii) ha creato un Patcher per Dischi su Wiimmfi che ti permette di inserire un disco e patchare il gioco al volo per usare Wimmfi, però deve attivarsi tutte le volte che avvii il disco.
 
 #### Di cosa hai bisogno
-* Una scheda SD o chiavetta USB
+* Una scheda SD o un'unità USB
 * [Auto Wiimmfi Patcher](https://download.wiimmfi.de/patcher/autowiimmfipatcher-latest.zip)
 
 #### Istruzioni
 
-1. Estrai Auto Wiimmfi Patcher e mettilo nella cartella principale sulla tua scheda SD o dispositivo USB.
+1. Estrai Auto Wiimmfi Patcher e mettilo nella cartella principale sulla scheda SD o sulla unità USB.
 2. Inserisci la tua scheda SD dentro la tua Wii, e carica Auto Wiimmfi Patcher dall'Hombrew Channel.
-3. Inserisci il tuo disco (puoi anche inserirlo prima, non importa).
+3. Inserisci il disco (puoi anche inserirlo prima, non importa).
 4. Aspetta che la patch finisca, e inizierà!
 
 ### No-Hombrew (Disco)
-Grazie all'exploit str2hax di Fullmetal5, che Leseratte ha adattato al Wiimmfi Patcher, puoi caricare la patch Wiimmfi anche senza homebrew sulla tua Wii.
+Grazie all'exploit str2hax di Fullmetal5, che Leseratte ha adattato al Wiimmfi Patcher, puoi caricare la patch Wiimmfi anche senza alcun homebrew installato sul tuo Wii.
 
 #### Ciò di cui hai bisogno
-* Una Wii con connessione Internet
+* Un Wii con connessione Internet
 
 #### Istruzioni
 
-1. Inserisci il tuo disco.
+1. Inserisci il disco.
 2. Vai sulla tua connessione internet ed imposta il server DNS della tua console a 95.217.77.151.
 3. Vai sulle informazione del contratto WC24 (terzo bottone dopo aver cliccato su "Internet" nelle impostazioni).
 4. Conferma che vuoi usare WC24 e lo shop channel
@@ -72,11 +72,11 @@ Se stai già usando USB Loader GX, prova ad aggiornarlo alla versione più recen
 Forse non vorresti caricare un patcher ogni volta che vuoi giocare su Wimmfi, e forse utilizzi già un USB Loader. Perciò gli ISO Patcher sono stati creati, per alcuni giochi specifici.
 
 #### Ciò di cui hai bisogno
-- La copia dei tuoi giochi (WBFS, ISO, cISO, e altre estensioni che la Wii può usare sono supportate).
+- La copia dei tuoi giochi (WBFS, ISO, cISO e altre estensioni che il Wii può usare sono supportate).
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows e Unix)  
   **o**
 - [Wiimmfi Patcher (multi-piattaforma)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
-- Un USB Loader, [cIOS](cios), e un dispositivo di archiviazione USB con all'interno il gioco (dovresti già avere tutto ciò se stai usando un USB Loader)
+- Un USB Loader, [cIOS](cios) e un dispositivo di archiviazione USB con all'interno il gioco (dovresti già avere tutto ciò se stai usando un USB Loader)
 
 #### Istruzioni
 1. Estrai il patcher che hai scelto in una cartella, e piazza la copia del gioco dentro quella cartella.
@@ -118,7 +118,7 @@ Wiimmfi ti permette di partecipare di nuovo alle competizioni di Mario Kart Wii.
 #### Instruzioni (per la Wii)
 
 1. Estrai Mario Kart Wii Competition Patcher e mettilo nella cartella `apps` nella tua scheda SD.
-2. Inserisci la tua scheda SD o il tuo dispositivo USB nella tua Wii.
+2. Inserisci la scheda SD o l'unità USB nel Wii.
 3. Avvia il gioco originale di Mario Kart Wii (non quello patchato da Wiimmfi).
 4. Vai in Impostazioni -> Impostazioni Network (o Impostazioni Nintendo WFC) -> Servizio Messaggi. Se hai attivato il servizio messaggi, disattivalo e poi riattivalo.
 5. Avvia Mario Kart Wii Competition Patcher.
