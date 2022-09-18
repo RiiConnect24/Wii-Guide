@@ -13,7 +13,7 @@ Sconsigliamo di usare "WAD Manager" di Waninkoko.
 {: .notice--warning}
 
 #### Di cosa hai bisogno
-* Una scheda SD o dispositivo USB
+* Una scheda SD o un'unità USB
 * [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 #### Istruzioni
@@ -21,7 +21,7 @@ Sconsigliamo di usare "WAD Manager" di Waninkoko.
 ##### Sezione 1 - Scaricare
 
 1. Estrai Wii Mod Lite e mettila nella cartella `apps` sulla tua scheda SD o dispositivo USB. ![Spostare e Lasciare scheda SD](/images/WiiModLite/1.gif)
-2. Inserisci la tua scheda SD o dispositivo USB dentro la tua Wii, e carica Wii Mod Lite dall'Homebrew Channel.
+2. Inserisci la scheda SD o l'unità USB nel Wii e avvia Wii Mod Lite dal Canale Homebrew.
 
 ##### Sezione 2 - Caricare
 
