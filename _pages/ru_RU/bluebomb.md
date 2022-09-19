@@ -24,7 +24,7 @@ BlueBomb - это эксплойт, который используюет уяз
   - Windows Subsystem for Linux *не будет* работать, так как не будет иметь прямой доступ к Bluetooth или USB.
   - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
     - Для 32 битных систем необходим [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
-    - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
+    - Для 64 систем рекомендуется использовать LTS ревизию, потому что она самая стабильная, но и обычные релизы не плохи.
   - You can [flash a Linux Live environment to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
 - Bluetooth адаптер.
   - Встроенный Bluetooth адаптер будет работать.
