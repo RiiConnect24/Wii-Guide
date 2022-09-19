@@ -20,10 +20,10 @@ BlueBomb - это эксплойт, который используюет уяз
 #### Часть I - Что вам нужно
 - Linux машина
   - Виртуальная машина может сработать, но не рекомендуется из за сложностями с Bluetooth. Если возможно, используте LiveUSB, как описано ниже.
-  - If you have a Raspberry Pi, you can use that instead as it most likely has Linux installed already.
-  - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports.
+  - Если у вас есть Raspberry Pi, вы так же можете использовать его, так как на нем, скорее всего, уже установлен Linux.
+  - Windows Subsystem for Linux *не будет* работать, так как не будет иметь прямой доступ к Bluetooth или USB.
   - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
-    - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
+    - Для 32 битных систем необходим [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
     - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
   - You can [flash a Linux Live environment to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
 - Bluetooth адаптер.
