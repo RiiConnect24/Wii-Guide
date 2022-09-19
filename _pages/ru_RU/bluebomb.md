@@ -25,7 +25,7 @@ BlueBomb - это эксплойт, который используюет уяз
   - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
     - Для 32 битных систем необходим [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
     - Для 64 систем рекомендуется использовать LTS ревизию, потому что она самая стабильная, но и обычные релизы не плохи.
-  - You can [flash a Linux Live environment to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
+  - Вы можете [загрузить Linux Live на ваше USB устройство](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) вместо установки на ваш компьютер.
 - Bluetooth адаптер.
   - Встроенный Bluetooth адаптер будет работать.
   - Если у вас его нет, при выборе убедитесь, что он совместим с Linux.
@@ -51,10 +51,10 @@ chmod +x bluebomb-helper.sh
 1. Включите консоль и **НЕ** нажимайте на кнопки контроллеров Wii Remote.
 1. Нажмите кнопку синхронизации до тех пор, пока терминал не покажет `got connection handle`. Может потребоваться много попыток, так что не сдавайтесь.
 
-Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
+Убедитесь, что консоль находится близко к компьютеру во время запущенного эксплоита, в идеале это должно быть менее метра.
 {: .notice--info}
 
-The console should now boot to the HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
+Консоль должна загрузится в HackMii installer. Теперь вы можете выключить ваш компьютер.
 
 [Если используете Wii, продолжите к установке Homebrew Channel и BootMii](hbc)
 {: .notice--info}
