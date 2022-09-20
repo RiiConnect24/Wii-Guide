@@ -104,25 +104,25 @@ Ora imposterai il tuo DNS sui nostri server. Anche se facoltativo è consigliato
 È comune ottenere l'errore FORE000006 sul Canale Meteo dopo l'installazione di RiiConnect24. Se lo ottieni, assicurati che la data e l'ora del Wii siano corrette, dopo un'ora al massimo dovrebbe iniziare a funzionare. [Se ottieni ancora l'errore FORE000006 o se ottieni NEWS000006, è necessario eliminare il SYSCONF con RC24-Clear-Tool].
 {: .notice--warning}
 
-You will get error 268503 when loading the Nintendo Channel. This is normal. You can bypass the error by pressing OK.
+Otterrai l'errore 268503 durante il caricamento del Canale Nintendo. È normale. È possibile ignorare l'errore premendo OK.
 {: .notice--warning}
 
-If you get error 107245, then you have not installed the patched IOS. Make sure you install IOS31 and IOS80 with Wii Mod Lite, along with any other patched WADs.
+Se ottieni l'errore 107245, allora non hai installato l'IOS patchato. Assicurati d'installare IOS31 e IOS80 con Wii Mod Lite, insieme a qualsiasi altro WAD patchato.
 {: .notice--warning}
 
-If you get error 107304 or you see Nintendo's User Agreement without RiiConnect24's logo, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
+Se ottieni l'errore 107304 o vedi l'accordo con l'utente di Nintendo senza il logo di RiiConnect24, allora significa che il tuo ISP (Internet Service Provider) o la rete sta bloccando l'uso di un DNS. Puoi impostare `Ottieni automaticamente DNS` su `Sì` per risolvere questo problema. RiiConnect24 funzionerà anche senza. Oppure puoi usare il nostro programma [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest).
 {: .notice--warning}
 
-[If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with RC24-Clear-Tool](deleting-vffs).
+[Se stai ricevendo altri errori con il Canale Meteo o il Canale Notizie, come un codice di errore che inizia con FORE o NEWS oppure un messaggio di discontinuità, puoi provare a eliminare i VFFs con RC24-Clear-Tool](deleting-vffs).
 {: .notice--warning}
 
-If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
+Se ottieni errori come `I canali WiiConnect24 e Wii Shop non sono disponibili nel tuo paese`, allora vai sulle Impostazioni Wii -> Ultima Pagina -> Paese e impostalo come Regno Unito. Questo errore è ottenuto quando usi un paese che non supportiamo. Contattaci all'indirizzo [support@riiconnect24.net](mailto:support@riiconnect24.net) se hai bisogno di altro aiuto.
 {: .notice--warning}
 
 [Continua a Wiimmfi](wiimmfi)<br> Wiimmfi ti permette di giocare a giochi online dopo la discontinuazione del Nintendo Wi-Fi Connction. L'installazione è facoltativa.
 {: .notice--info}
 
-[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. L'installazione è facoltativa.
+[Continua con WiiLink](wiilink)<br> WiiLink ti permette di usufruire i canali esclusivi giapponesi "Wii no Ma" e "Digicam Print Channel". L'installazione è facoltativa.
 {: .notice--info}
 
 [Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
