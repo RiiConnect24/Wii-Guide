@@ -7,7 +7,7 @@ title: "Aggiornamento del Menu Wii a v4.3"
 Se hai bisogno di qualsiasi informazione riguardante questo tutorial, entra nel [server discord di RiiConnect24 ](https://discord.gg/rc24)(raccomandato) oppure [scrivici una mail a support@riconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Questa guida ti spiegherà come aggiornare il Menù Wii alla versione 4.3, se hai già modificato il tuo Wii.
+Questa guida ti spiegherà come aggiornare il Menu Wii alla versione 4.3, se hai già modificato il tuo Wii.
 
 #### Di cosa hai bisogno
 
@@ -58,7 +58,7 @@ Userai il tasto + del tuo controller/Wiimote per usare questo tool.
 7. Premi A per installare il file `.wad` IOS58. [`Assicurati che l'installazione sia riuscita, altrimenti interrompi.`]
 8. Dopo che ha installato con successo, premi il tasto HOME per tornare all'Hombrew Channel.
 
-L'installazione del WAD del Menù Wii **rimuoverà** Priiloader. Non riavviare prima di averlo installato di nuovo, altrimenti potresti BRICKARLO.
+L'installazione del WAD del Menu Wii **rimuoverà** Priiloader. Non riavviare prima di averlo installato di nuovo, altrimenti potresti BRICKARLO.
 {: .notice--danger}
 
 [Continua con l'installazione di Priiloader](priiloader)<br> Priiloader aggiunge un livello di protezione da brick, e lo consigliamo.
