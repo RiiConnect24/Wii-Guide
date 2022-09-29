@@ -22,7 +22,7 @@ BlueBomb - это эксплойт, который используюет уяз
   - Виртуальная машина может сработать, но не рекомендуется из за сложностями с Bluetooth. Если возможно, используте LiveUSB, как описано ниже.
   - Если у вас есть Raspberry Pi, вы так же можете использовать его, так как на нем, скорее всего, уже установлен Linux.
   - Windows Subsystem for Linux *не будет* работать, так как не будет иметь прямой доступ к Bluetooth или USB.
-  - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
+  - Если у вас нет Linux, [Ubuntu](https://ubuntu.com/download/desktop) самый дружелюбный к пользователю дистрибутив, который может запускаться на компьютерах Windows или Mac.
     - Для 32 битных систем необходим [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
     - Для 64 систем рекомендуется использовать LTS ревизию, потому что она самая стабильная, но и обычные релизы не плохи.
   - Вы можете [загрузить Linux Live на ваше USB устройство](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) вместо установки на ваш компьютер.
@@ -36,7 +36,7 @@ BlueBomb - это эксплойт, который используюет уяз
 1. Скачайте установщик HackMii с [сайта BootMii ](https://bootmii.org/download/).
 - (Если вы пытаетесь починить кирпич, скопируйте homebrew (менеджер пакетов, работающий в командной строке) приложения, которые хотите использовать в разделе /apps/)
 1. Распакуйте и поместите файл `boot.elf` на вашу флешку.
-- (Even for a Wii mini, bootmini.elf will **not** work, its purpose is entirely different and unrelated. Use boot.elf in all cases). 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright). 1. Turn on your console and navigate to the settings menu. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+- (Even for a Wii mini, bootmini.elf will **not** work, its purpose is entirely different and unrelated. Use boot.elf in all cases). 1. Подключите флешку к консоли. У Wii mini USB порт расположен сзади. For a normal Wii, use the bottom port. (or the right port if it's upright). 1. Turn on your console and navigate to the settings menu. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Запустите ваш дистрибутив Linux и убедитесь, что вы подключены к интернету.
 1. Включите консоль и **НЕ** нажимайте на кнопки контроллеров Wii Remote.
 1. Запустите следующие комманды:
