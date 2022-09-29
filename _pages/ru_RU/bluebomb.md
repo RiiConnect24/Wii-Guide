@@ -36,7 +36,7 @@ BlueBomb - это эксплойт, который используюет уяз
 1. Скачайте установщик HackMii с [сайта BootMii ](https://bootmii.org/download/).
 - (Если вы пытаетесь починить кирпич, скопируйте homebrew (менеджер пакетов, работающий в командной строке) приложения, которые хотите использовать в разделе /apps/)
 1. Распакуйте и поместите файл `boot.elf` на вашу флешку.
-- (Even for a Wii mini, bootmini.elf will **not** work, its purpose is entirely different and unrelated. Use boot.elf in all cases). 1. Подключите флешку к консоли. У Wii mini USB порт расположен сзади. For a normal Wii, use the bottom port. (or the right port if it's upright). 1. Turn on your console and navigate to the settings menu. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+- (Even for a Wii mini, bootmini.elf will **not** work, its purpose is entirely different and unrelated. Use boot.elf in all cases). 1. Подключите флешку к консоли. У Wii mini USB порт расположен сзади. Для обычной Wii используйте нижний порт. (или правый порт, если он вертикальный). 1. Включите консоль и перейдите в меню настроек. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Запустите ваш дистрибутив Linux и убедитесь, что вы подключены к интернету.
 1. Включите консоль и **НЕ** нажимайте на кнопки контроллеров Wii Remote.
 1. Запустите следующие комманды:
