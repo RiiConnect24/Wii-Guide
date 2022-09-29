@@ -9,13 +9,13 @@ Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte s
 
 Chcete nahradit nudné bílé výchozí prostředí vašeho Wii Menu nečím neobyčejným? Tento návod vám pomůže aplikovat skin na vaše Wii Menu!
 
-To protect against bricks, [make sure you install Priiloader](priiloader). Also, install [BootMii](bootmii) (as Boot2 if you have an early Wii, otherwise IOS). Instalací ochrany před bricknutím a dodržením přesného postupu se nejspíše bricku vyhnete. NEPOKRAČUJTE, DOKUD NEMÁTE NAINSTALOVANÝ PRIILOADER A BOOTMII!
+Abyste zabránili briknutí své konzole, [ ujistěte se, že máte nainstalovaný Priiloader](priiloader). Také nainstalujte [BootMii](bootmii) (jako Boot2, pokud máte starší Wii, jinak jako IOS). Instalací ochrany před bricknutím a dodržením přesného postupu se nejspíše bricku vyhnete. NEPOKRAČUJTE, DOKUD NEMÁTE NAINSTALOVANÝ PRIILOADER A BOOTMII!
 {: .notice--danger}
 
-Only install themes on your Wii that have been formatted specifically for it, and its current region. Installing themes from the wrong region or version on your Wii will cause a brick. This tutorial will tell you how to create a .csm file that is safe to install.
+Instalujte pouze skiny speciálně naformátované pro vaše Wii a určené pro region vaší konzole. Instalací skinů pro jiný region nebo verzi na vašem Wii způsobíte brick. Tento návod vám poradí, jak vytvořit soubor csm, který je bezpečný pro instalaci.
 {: .notice--danger}
 
-This guide is intended for regular Wiis only. For installing themes on vWii (Wii U), follow [this page](themes-vwii).
+Tento návod je určen pouze pro klasické Wii. Pokud se chystáte nainstalovat skin na vWii (Wii U), postupujte podle [tohoto návodu](themes-vwii).
 {: .notice--warning}
 
 Z bezpečnostních důvodů prosím nepoužívejte žádnou jinou verzi utility MyMenuify než tu, na kterou zde odkazujeme, neboť MyMenuify Mod je nejbezpečnější způsob, jak nainstalovat skin.
