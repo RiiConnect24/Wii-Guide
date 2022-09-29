@@ -26,7 +26,7 @@ If you don't have a Windows computer, please join [the RiiConnect24 Discord serv
 Your Wii must be modded in order to perform this. If it isn't, then it's best to follow [the guide](get-started) first before doing this.
 {: .notice--info}
 
-To protect against bricks, [make sure you install Priiloader](priiloader). Also, install [BootMii](bootmii) (as Boot2 if you have an early Wii, otherwise IOS). Instalací ochrany před bricknutím a dodržením přesného postupu se nejspíše bricku vyhnete. NEPOKRAČUJTE, DOKUD NEMÁTE NAINSTALOVANÝ PRIILOADER A BOOTMII!
+Abyste zabránili briknutí své konzole, [ ujistěte se, že máte nainstalovaný Priiloader](priiloader). Také nainstalujte [BootMii](bootmii) (jako Boot2, pokud máte starší Wii, jinak jako IOS). Instalací ochrany před bricknutím a dodržením přesného postupu se nejspíše bricku vyhnete. NEPOKRAČUJTE, DOKUD NEMÁTE NAINSTALOVANÝ PRIILOADER A BOOTMII!
 {: .notice--danger}
 
 1. Extract the .zip file for NUS Downloader vWii and open the application.
