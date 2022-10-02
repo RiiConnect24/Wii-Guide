@@ -38,7 +38,7 @@ Vous pouvez maintenant utiliser la chaîne homebrew pour lancer des applications
 
 Voici une astuce - quand entrain d'installer des applications homebrew sur votre card SD or périphériques USB, votre structure des dossiers doit ressembler sa:
 
-![Proper SD Card Folder Structure](images/Wii/FolderStructure.png)
+![Structure du dossier de carte SD appropriée](images/Wii/FolderStructure.png)
 
 `AppName1` et `AppName2` sont des noms marqueur. Ne pas mettre multiple `apps` dossier dans le dossier `apps` lui-même.
 
