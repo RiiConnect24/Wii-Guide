@@ -11,7 +11,7 @@ Si vous avez besoin d'aide pour quoi que ce soit concernant ce didacticiel, veui
 
 Guide pour installer [RiiConnect24](https://rc24.xyz) sur votre vWii (Wii virtuelle sur Wii U) avec : CMOC/MCC, Chaîne Nintendo, EVC et Chaîne Infos avec correction forcée du ratio d'aspect 4:3.
 
-Since certain features found in the original Wii are not present in the vWii, we can only partially utilize RiiConnect24. Voir [ce qui fonctionne actuellement](#whats-currently-working) pour plus de détails.
+Étant donné que certaines fonctionnalités de la Wii d'origine ne sont pas présentes dans la vWii, nous ne pouvons utiliser que partiellement RiiConnect24. Voir [ce qui fonctionne actuellement](#whats-currently-working) pour plus de détails.
 {: .notice--warning}
 
 #### Avertissement
@@ -26,7 +26,7 @@ N'effectuez **PAS** les instructions de ce guide sur une autre console que la vW
 
 * Un PC ou un périphérique mobile avec accès internet et la capacité d'interagir avec des cartes SD.
 * Une carte SD formatée en FAT32 (au moins 2Go) avec suffisamment d'espace disponible. Les cartes SDHC ou SDXC formatées en FAT32 peuvent fonctionner.
-* Une console Wii U capable de lancer le Hombrew Launcher (soit via l'exploit de navigateur internet, Haxchi ou Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
+* Une console Wii U capable de lancer le Hombrew Launcher (soit via l'exploit de navigateur internet, Haxchi ou Coldboot Haxchi). **Si vous n'avez pas de console Wii U en mode soft, veuillez suivre [wiiuguide.xyz](https://wiiuguide.xyz), ainsi que [le guide de modding virtuel de la Wii](https://wiiuguide.xyz/#/vwii-modding) et revenez ensuite**
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 Après avoir suivi le guide mentionné ci-dessus, vous devriez avoir:
@@ -65,26 +65,26 @@ Si vous installez un thème, vous devrez relancer ww-43db-patcher
 
 ##### Section IV - Utiliser RiiConnect24
 
-After following the above sections, you're almost able to utilize RiiConnect24 on your Wii U. You just need to perform the following steps **after every vWii reboot**.
+Après avoir suivi les sections ci-dessus, vous avez presque la possibilité d'utiliser RiiConnect24 sur votre Wii U. Il vous suffit d'effectuer les étapes suivantes **après chaque redémarrage de vWii**.
 
 1. Sur le **Menu Wii** de la vWii, lancez la chaîne **ConnectMii**.
 * Cela activera les indicateurs WiiConnect24 et Standby Connection requis par les canaux WiiConnect24.
-2. Launch the WiiConnect24 Channels
-* You should now be able to utilize all of the WiiConnect24 Channels you have installed!
+2. Lancez les chaînes WiiConnect24
+* Vous devriez maintenant être en mesure d'utiliser toutes les chaînes WiiConnect24 que vous avez installées !
 
 #### Qu'est-ce qui fonctionne actuellement ?
-The following RiiConnect24 services are **working** on the vWii:
+Les services RiiConnect24 suivants sont **fonctionnels** sur la vWii :
 * Chaîne Infos
     * Cette chaîne est affectée par le problème d'horodatage. Les horodatages "Dernière mise à jour" et de l'article seront incorrects.
-    * The banner data is also known to not work, returning `Unable to obtain data.`
+    * Les données de la bannière sont également connues pour ne pas fonctionner, renvoyant `Impossible d'obtenir les données.`
 * Chaîne météo
 * Chaîne Nintendo
 * Chaîne votes
 * Chaîne Concours Mii
 {: .notice--success}
 
-The following RiiConnect24 services are **not working** on the vWii:
-* Wii Mail (most functionality does not exist on vWii)
-    * This includes sending/receiving mail to/from friends. You can only receive global broadcast mail and posts from RSSMii feeds (if set up).
-* Everything else that isn't working according to [RiiConnect24 stats](https://rc24.xyz/stats/index.html).
+Les services RiiConnect24 suivants sont **non fonctionnels** sur la vWii :
+* Wii Mail (la plupart des fonctionnalités n'existent pas sur vWii)
+    * Cela inclut envoyer/recevoir des mails à/depuis des amis. Vous ne pouvez recevoir que des messages et des messages diffusés globalement à partir des flux RSSMii (si configuré).
+* Tout le reste qui ne fonctionne pas selon les [stats RiiConnect24](https://rc24.xyz/stats/index.html).
 {: .notice--warning}
