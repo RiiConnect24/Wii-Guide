@@ -56,7 +56,7 @@ Userai il tasto + del tuo controller/Wiimote per usare questo tool.
 5. Premi A per installare il file `.wad` IOS80. [`Assicurati che l'installazione sia riuscita, altrimenti interrompi.`]
 6. Premere A per installare il WAD del tuo Menu Wii.
 7. Premi A per installare il file `.wad` IOS58. [`Assicurati che l'installazione sia riuscita, altrimenti interrompi.`]
-8. Dopo che ha installato con successo, premi il tasto HOME per tornare all'Hombrew Channel.
+8. Dopo averli installati con successo, premi il tasto HOME per tornare al Canale Homebrew.
 
 L'installazione del WAD del Menu Wii **rimuoverà** Priiloader. Non riavviare prima di averlo installato di nuovo, altrimenti potresti BRICKARLO.
 {: .notice--danger}
