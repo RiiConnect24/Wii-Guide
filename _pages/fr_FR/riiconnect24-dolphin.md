@@ -1,5 +1,5 @@
 ---
-title: "RiiConnect24"
+title: "RiiConnect24 for Dolphin"
 ---
 
 {% include toc title="Table des matières" %}
@@ -12,7 +12,7 @@ Si vous avez besoin d'aide concernant ce tutoriel, veuillez contacter directemen
 {: .notice--info}
 
 {% capture notice-1 %}
-This guide is for vWii (Wii Mode on Wii U) only.
+This guide is for [Dolphin Emulator](https://dolphin-emu.org) only.
 
 - Follow [this tutorial](riiconnect24-wii) if you'd like to install RiiConnect24 on a Wii.
 - Suivez [ce tutoriel](riiconnect24-vwii) si vous voulez installer Riiconnect24 sur vWii (Mode Wii sur la Wii u).
