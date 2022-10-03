@@ -52,7 +52,7 @@ This tutorial will explain how to update your Wii Menu to version 4.3, if you ha
 1. 将SD卡或U盘插入Wii。
 2. 启动Wii上的Homebrew Channel。
 3. 启动Wii Mod Lite。
-4. 使用Wii遥控器上的十字键，移动到`WAD Manager`， 然后移动到`wad` 文件夹。
+4. 使用Wii遥控器上的十字键移动到`WAD Manager`, 然后移动到`wad`文件夹。
 5. Press A to install the IOS80 `.wad` file. [`请确保安装成功，否则跳过。`]
 6. 按A以安装Wii菜单 WAD.
 7. Press A to install the IOS58 `.wad` file. [`请确保安装成功，否则跳过。`]
