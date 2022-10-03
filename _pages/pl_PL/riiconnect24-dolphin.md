@@ -11,6 +11,18 @@ Ten poradnik pomoże Ci zainstalować RiiConnect24 na Twoim Dolphin'ie.
 Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, napisz bezpośrednio do KcrPL#4625 (po Polsku) lub dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
+{% capture notice-1 %}
+This guide is for vWii (Wii Mode on Wii U) only.
+
+- Follow [this tutorial](riiconnect24-wii) if you'd like to install RiiConnect24 on a Wii.
+- Podążaj za [tym poradnikiem](riiconnect24-vwii) jeżeli chcesz zainstalować RiiConnect24 na vWii (Tryb Wii na Wii U).
+{% endcapture %}
+
+<div class="notice--warning">{{ notice-1 | markdownify }}</div>
+
+DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
+{: .notice--danger}
+
 ### Czego będziesz potrzebował
 
 * A computer with either Windows 7 or newer or any Unix-based system
@@ -22,7 +34,7 @@ Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, napisz bez
 
 ##### Sekcja I - Instalacja Dolphin
 
-Jeżeli już zainstalowałeś Dolphin'a, przejdź do sekcji drugiej.
+If you have Dolphin already installed, skip to Section II
 {: .notice--info}
 
 1. Download the latest Dolphin beta version, but **not a stable version as these are very outdated!**
