@@ -11,10 +11,22 @@ En esta guía te explicaremos cómo instalar RiiConnect24 en tu instalación de 
 En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por favor contacta a KcrPL#4625 en Discord, únete a nuestro [servidor de Discord](https://discord.gg/rc24) o [envíanos un email](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
 {: .notice--info}
 
+{% capture notice-1 %}
+This guide is for vWii (Wii Mode on Wii U) only.
+
+- Follow [this tutorial](riiconnect24-wii) if you'd like to install RiiConnect24 on a Wii.
+- Por favor sigue [esta guía](riiconnect24-vwii) si deseas instalar RiiConnect24 en el modo Wii de una consola Wii U (vWii).
+{% endcapture %}
+
+<div class="notice--warning">{{ notice-1 | markdownify }}</div>
+
+¡NO INSTALE RIICONNECT24 EN UNA WII MINI! No funcionará y hará que el sistema deje de funcionar.
+{: .notice--danger}
+
 ### Requisitos
 
-* Un ordenador con Windows 7 o superior, o cualquier sistema operativo basado en Unix
-* Si se usa un sistema basado en Unix, [.VFF-File-Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases)
+* A computer with either Windows 7 or newer or any Unix-based system
+* [.VFF-File-Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases) if using a Unix-based system
 * [Dolphin](https://dolphin-emu.org/download/)
 * [Parcheador de RiiConnect24](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
@@ -22,7 +34,7 @@ En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por f
 
 ##### Sección I - Instalando Dolphin
 
-Si ya tienes Dolphin instalado, puedes omitir éste paso
+If you have Dolphin already installed, skip to Section II
 {: .notice--info}
 
 1. Descarga la ultima versión de Dolphin version beta, pero **no uses una version estable, ya que estan muy desactualizadas**.
@@ -30,55 +42,55 @@ Si ya tienes Dolphin instalado, puedes omitir éste paso
 3. Ejecuta Dolphin.
 4. Haz click en `Herramientas` -> `Actualizar la consola por Internet` -> y selecciona tu región. ![Actualizar la consola por Internet](/images/Dolphin_RC24/1.jpg)
 
-Si tienes una Wii ya modificada, puedes usar un [volcado de la memoria NAND a traves de BootMii](bootmii) en lugar de instalar el menu de Wii a traves de este metodo. Entra [aquí](https://wiki.dolphin-emu.org/index.php?title=NAND_Usage_Guide) para mas información.
+If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii) instead of installing the Wii System menu via this method. See [this page](https://wiki.dolphin-emu.org/index.php?title=NAND_Usage_Guide) for more information.
 {: .notice--info}
 
 ##### Sección II - Instalación de RiiConnect24
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'windows')">Si utilizas Windows</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'unix')">Si utilizas un sistema basado en Unix</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'windows')">Windows</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'unix')">Unix</button>
 
 <div id="windows" class="blanktabcontent" markdown="1">
-1. Ejecuta `RiiConnect24Patcher.bat`.
-2. Inicia el parcheador pulsando el botón `1`, y selecciona `Comenzar`.
-3. Selecciona `Emulador Dolphin` (3).
-4. Selecciona `Instalar RiiConnect24 en el Emulador Dolphin`.
-5. Pulsa `1` y `Enter` para iniciar el programa.
-6. Procede con la configuración del programa.
-7. Te preguntara si queres ejecutar el programa manualmente cada vez que quieras usar RiiConnect24 o si quieres ejecutarlo automaticamente al iniciarse el ordenador.![Elige como ejecutar el programa](/images/Dolphin_RC24/3.jpg)
-Si eliges ejecutarlo manualmente, quedate con el archivo `RiiConnect24Patcher.bat`. Habra una opción en el menú para ejecutarlo manualmente.
+1. Run `RiiConnect24Patcher.bat`.
+2. Start the patcher (by pressing `1`), then select `Install RiiConnect24`.
+3. Select `Dolphin Emulator` (3).
+4. Select `Install RiiConnect24 on your Dolphin Emulator`.
+5. Press `1` and `Enter` to start the program.
+6. Proceed with the program configuration.
+7. It will ask you if you want to run the program manually every time you want to use RiiConnect24 on Dolphin or if you want to run it automatically on startup. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
+If you choose to manually run it, keep `RiiConnect24Patcher.bat`. There will be an option in the menu to manually run it.
 {: .notice--info}
-Si eliges ejecutarlo al iniciarse el ordenador, no tienes que hacer nada. Si en el futuro quisieras desintalarlo, vuelve al archivo `RiiConnect24Patcher.bat` y selecciona `Ajustes` -> `Administrar descargador de VFF en inicio`.
+If you choose to run it on startup, you don't have to do anything. If you want to uninstall it in the future, come back to `RiiConnect24Patcher.bat` and choose Settings - Manage startup VFF Downloader.
 {: .notice--info}
 
-8. Pulsa cualquier tecla para volver al parcheador de RiiConnect24.
-9. Cuando vuelvas a estar en el inicio, pulsa `1` y `Enter`.
-10. Selecciona tu región (Europa o EE.UU.). El parcheador ahora comenzará a parchear los archivos WAD.
-11. Cuando acabe, pulsa 2 (cerrara el parcheador), y ves a la carpeta en la que se encuentra el archivo `RiiConnect24Patcher.bat`. Deberia haber un archivo llamado `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` o `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`, y un archivo llamado `Everybody Votes Channel ([your-selected-region]) (Channel) (RiiConnect24).wad` en la carpeta WAD.
-12. En el emulador Dolphin, haz click en `Herramientas` y `Instalar WAD`, y finalmente selecciona el archivo `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` o el archivo `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`. Haz lo mismo con el archivo `Everybody Votes Channel ([your-selected-region]) (Channel) (RiiConnect24).wad`.
+8. Press any key to go back to the RiiConnect24 patcher.
+9. Once back in the RiiConnect24 Patcher, press `1` and then `Enter`.
+10. Select your region (Europe or USA). The patcher will now begin to patch the WAD files.
+11. Once it's done, press 2, (this will close the patcher) and then go to the directory that `RiiConnect24Patcher.bat` is in. There should be be a `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`, as well as an `Everybody Votes Channel ([your-selected-region]) (Channel) (RiiConnect24).wad` file in the WAD folder there.
+12. In Dolphin, press `Tools` and then `Install WAD`, and select the `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`. Do the same for `Everybody Votes Channel ([your-selected-region]) (Channel) (RiiConnect24).wad`.
 </div>
 
 <div id="unix" class="blanktabcontent" markdown="1">
-Las capturas de pantalla en esta seccion han sido sacadas de Windows, pero los mismos pasos pueden ser seguidos si se ejecutan en un sistema operativo basado en Unix.
+The screenshots in this section are taken from Windows, but the same steps can be followed on your Unix-based machine.
 {: .notice--info}
 
-1. Ejecuta `VFF-Downloader-for-Dolphin.sh`. ![Menú principal](/images/Dolphin_RC24/2.jpg)
-3. Procede con la configuración del programa.
-4. Te preguntara si queres ejecutar el programa manualmente cada vez que quieras usar RiiConnect24 o si quieres ejecutarlo automaticamente al iniciarse el ordenador.![Elige como ejecutar el programa](/images/Dolphin_RC24/3.jpg)
-![Ejecutar una vez](/images/Dolphin_RC24/4.jpg)
-Si eliges ejecutarlo manualmente, quedate con el archivo `VFF-Downloader-for-Dolphin.sh`. Habra una opción en el menú para ejecutarlo manualmente.
+1. Run `VFF-Downloader-for-Dolphin.sh`. ![Menú principal](/images/Dolphin_RC24/2.jpg)
+3. Proceed with the program configuration.
+4. It will ask you if you want to run the program manually every time you want to use RiiConnect24 on Dolphin or if you want to run it automatically on startup. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
+![Run once](/images/Dolphin_RC24/4.jpg)
+If you choose to manually run it, keep `VFF-Downloader-for-Dolphin.sh`. There will be an option in menu to manually run it.
 {: .notice--info}
-Si eliges ejecutarlo al iniciarse el ordenador, no tienes que hacer nada. Si en el futuro quisieras desintalarlo, vuelve al archivo `VFF-Downloader-for-Dolphin.sh` y selecciona Ajustes -> Administrar descargador de VFF en inicio.
+If you choose to run it on startup, you don't have to do anything. If you want to uninstall it in the future, come back to `VFF-Downloader-for-Dolphin.sh` and choose - Manage startup VFF Downloader.
 {: .notice--info}
-5. Ejecuta `RiiConnect24Patcher.sh`.
-6. Inicia el parcheador y selecciona `Instalar RiiConnect24`. ![Seleccionar Personalizado](/images/Dolphin_RC24/5.jpg)
-7. Selecciona `Personalizado`. ![Seleccionar Canal Concursos Mii](/images/Dolphin_RC24/6.jpg)
-8. Pulsa `1` para selecciona tu region, y solo habilita la quinta opción. Presiona `6` para iniciar el parcheado.
-9. Cuando el parcheador haya acabado, habra el archivo `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` o `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` en la carpeta WAD, al lado del archivo del parcheador, `RiiConnect24Patcher.sh`.
-10. En el emulador Dolphin, haz click en `Herramientas` y `Instalar WAD`, y finalmente selecciona el archivo `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` o el archivo `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
+5. Run `RiiConnect24Patcher.sh`.
+6. Start the patcher, select `Install RiiConnect24`. ![Select Custom](/images/Dolphin_RC24/5.jpg)
+7. Select `Custom`. ![Select Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
+8. Press `1` to select your region and only enable 5th option. Press `6` to start patching.
+9. After it's done, there will a be a `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` file in WAD folder next to `RiiConnect24Patcher.sh`
+10. In Dolphin, press `Tools` and then `Install WAD`, and select the `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
 </div>
 
-Ya has acabado!  Desafortunadamente, el canal Nintendo y el canal Correo no funcionan en el emulador Dolphin aún.
+You're all done! Unfortunately, the Nintendo Channel and Wii Mail don't work in Dolphin yet.
 {: .notice--info}
 
 <script>
