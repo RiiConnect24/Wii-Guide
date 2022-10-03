@@ -56,7 +56,7 @@ To protect against bricks, [make sure you install Priiloader](priiloader). Also,
 5. Press A to install the IOS80 `.wad` file. [`Make sure the installation is successful, otherwise abort.`]
 6. Press A to install the Wii Menu WAD.
 7. Press A to install the IOS58 `.wad` file. [`Make sure the installation is successful, otherwise abort.`]
-8. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+8. После того, как все успешно установлено, нажмите на HOME, чтобы вернутся обратно в Homebrew Channel.
 
 Installing a Wii Menu WAD will **remove** Priiloader. Do not reboot before you have installed it again, otherwise you could BRICK.
 {: .notice--danger}
