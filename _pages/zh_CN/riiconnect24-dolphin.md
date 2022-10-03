@@ -11,6 +11,18 @@ title: "RiiConnect24"
 如果您需要有关此教程的任何帮助，请直接联系Discord上的KcrPL#4625，加入[RiiConnect24 Discord 服务器](https://discord.gg/rc24)或[向support@riiconnect24.net发邮件](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
+{% capture notice-1 %}
+This guide is for vWii (Wii Mode on Wii U) only.
+
+- Follow [this tutorial](riiconnect24-wii) if you'd like to install RiiConnect24 on a Wii.
+- 如果您想在vWii(WiiU上的Wii模式) 安装RiiConnect24，请遵循[此教程](riiconnect24-vwii)。
+{% endcapture %}
+
+<div class="notice--warning">{{ notice-1 | markdownify }}</div>
+
+不要在WII MINI上安装RIICONNECT24! 他不会工作，还会使它变砖。 他不会工作，还会使它变砖。
+{: .notice--danger}
+
 ### 你需要的是
 
 * A computer with either Windows 7 or newer or any Unix-based system
@@ -22,7 +34,7 @@ title: "RiiConnect24"
 
 ##### 第一节 - 安装Dolphin
 
-如果您已安装Dolphin，跳到第二节
+If you have Dolphin already installed, skip to Section II
 {: .notice--info}
 
 1. Download the latest Dolphin beta version, but **not a stable version as these are very outdated!**
