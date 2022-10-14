@@ -43,5 +43,7 @@ Ten exploit wymaga od Ciebie zmiany adresu DNS. Pozwoli Ci to połączenie z ser
 
 Jeżeli exploitowi str2hax nie uda się uruchomić exploitu i konsola się zawiesi (nie możesz ruszyć kursorem) lub jeżeli zajmuje to więcej niż 1-2 minuty, proszę zrestartuj [przytrzymaj przycisk zasilania na konsoli, odłącz od prądu], Twoją konsolę oraz spróbuj uruchomić exploit ponownie.
 
+If you have installed a mod like CTGP Revolution or Project+, str2hax may load that instead. If it does, restart your Wii and try again without your SD card inserted.
+
 [Przejdź do instalacji Homebrew Channel oraz BootMii](hbc)
 {: .notice--info}
