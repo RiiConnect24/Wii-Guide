@@ -43,5 +43,7 @@ str2hax通过加载Wii最终用户许可协议触发的Wii漏洞。 它只需要
 
 如果HackMii安装程序未加载而是卡住(您无法移动光标) 或触发时间小于1-2分钟，请重启Wii再试一次。
 
+If you have installed a mod like CTGP Revolution or Project+, str2hax may load that instead. If it does, restart your Wii and try again without your SD card inserted.
+
 [继续到 安装Homebrew Channel和BootMii](hbc)
 {: .notice--info}
