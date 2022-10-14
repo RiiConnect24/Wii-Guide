@@ -43,5 +43,7 @@ Explioti barındıran sunucuya erişebilmek için DNS’i ayarlamanız gerekmekt
 
 Eğer HackMii Installer çalışmazsa ve donarsa (imleci hareket ettiremezseniz) ya da 1-2 dakika olmasına rağmen exploit çalışmazsa, Wii’nizi yeniden başlatıp tekrar deneyin.
 
+If you have installed a mod like CTGP Revolution or Project+, str2hax may load that instead. If it does, restart your Wii and try again without your SD card inserted.
+
 [Homebrew Channel ve BootMii Yüklemesinden devam edin](hbc)
 {: .notice--info}
