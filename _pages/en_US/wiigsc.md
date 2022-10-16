@@ -32,3 +32,19 @@ Do NOT make a shortcut for the games "Mario Party 9" or "A Boy and His Blob". It
 
 If you get an error saying "The system files are corrupted", don't panic as long as you installed Priiloader. Turn off your Wii, then hold down the RESET button down and turn on your Wii. You should be able to boot into the Priiloader menu, where you have some options to fix your Wii Menu. One of the options is to launch the Homebrew Channel.
 {: .notice--info}
+
+#### Optional
+
+If you don't want to have to right click to run as administrator all the time, go through these steps to set the shortcut to run as admin.
+
+1. Right click on the WiiGSC shortcut and click on **Open file location**. Note this location, as it will be needed later.
+2. In the new window, right click on the WiiGSC shortcut and click on **Open file location**.
+3. In the application files, search for WiiGSC.exe, right click and **Copy**.
+4. Doesn't matter where, but now right click and click on **Paste as shortcut** (may need to click on **Show more options** first). If it asks to puy it on the desktop instead, that's fine, since we'll be moving the file anyways.
+5. Rename the shortcut we made to WiiGSC (removing the .exe part).
+6. Right click the shortcut we made and click on **Properties**.
+7. Towards the bottom right, click on **Advanced...**, and then confirm **Run as administrator** is checked.
+8. Click on **OK** to close out of the advanced tab and then again to close out of the Properties window.
+9. Now, copy this shortcut, move it to the location noted in Step 1, and replace the original shortcut.
+
+Now WiiGSC should automatically prompt for admin.
