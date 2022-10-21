@@ -17,7 +17,7 @@ Poiché alcune caratteristiche del Wii originale non sono presenti nel Wii virtu
 {% capture notice-1 %}
 This guide is for vWii (Wii Mode on Wii U) only.
 
-- Follow [this tutorial](riiconnect24-wii) if you'd like to install RiiConnect24 on a Wii.
+- Segui [questo tutorial](riiconnect24-wii) se vuoi installare RiiConnect24 su una WIi.
 - Segui [questo tutorial](riiconnect24-dolphin) se vuoi installare RiiConnect24 sull'emulatore Dolphin.
 {% endcapture %}
 
