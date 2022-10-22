@@ -57,7 +57,7 @@ Si tienes una Wii ya modificada, puedes usar un [volcado de la memoria NAND a tr
 4. Selecciona `Instalar RiiConnect24 en el Emulador Dolphin`.
 5. Pulsa `1` y `Enter` para iniciar el programa.
 6. Procede con la configuración del programa.
-7. Te preguntará si quieres ejecutar el programa manualmente cada vez que quieras usar RiiConnect24 o si quieres ejecutarlo automáticamente al iniciarse el ordenador. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
+7. Te preguntará si quieres ejecutar el programa manualmente cada vez que quieras usar RiiConnect24 o si quieres ejecutarlo automáticamente al iniciarse el ordenador. ![Elige como ejecutar el programa](/images/Dolphin_RC24/3.jpg)
 Si eliges ejecutarlo manualmente, quédate con el archivo `RiiConnect24Patcher.bat`. Habra una opción en el menú para ejecutarlo manualmente.
 {: .notice--info}
 Si eliges ejecutarlo al iniciarse el ordenador, no tienes que hacer nada. Si en el futuro quisieras desinstalarlo, vuelve al archivo `RiiConnect24Patcher.bat` y selecciona Ajustes - Administrar VFF Downloader al iniciar.
@@ -76,15 +76,15 @@ Las capturas de pantalla en esta sección han sido sacadas de Windows, pero los 
 
 1. Ejecuta `VFF-Downloader-for-Dolphin.sh`. ![Menú principal](/images/Dolphin_RC24/2.jpg)
 3. Procede con la configuración del programa.
-4. Te preguntará si quieres ejecutar el programa manualmente cada vez que quieras usar RiiConnect24 o si quieres ejecutarlo automáticamente al iniciarse el ordenador. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
-![Run once](/images/Dolphin_RC24/4.jpg)
+4. Te preguntará si quieres ejecutar el programa manualmente cada vez que quieras usar RiiConnect24 o si quieres ejecutarlo automáticamente al iniciarse el ordenador. ![Elige como ejecutar el programa](/images/Dolphin_RC24/3.jpg)
+![Ejecutar una vez](/images/Dolphin_RC24/4.jpg)
 Si eliges ejecutarlo manualmente, quédate con el archivo `VFF-Downloader-for-Dolphin.sh`. Habra una opción en el menú para ejecutarlo manualmente.
 {: .notice--info}
 Si eliges ejecutarlo al iniciarse el ordenador, no tienes que hacer nada. Si en el futuro quisieras desintalarlo, vuelve al archivo `VFF-Downloader-for-Dolphin.sh` y selecciona Ajustes - Administrar VFF Downloader al iniciar.
 {: .notice--info}
 5. Ejecuta `RiiConnect24Patcher.sh`.
-6. Inicia el parcheador y selecciona `Instalar RiiConnect24`. ![Select Custom](/images/Dolphin_RC24/5.jpg)
-7. Selecciona `Personalizado`. ![Select Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
+6. Inicia el parcheador y selecciona `Instalar RiiConnect24`. ![Seleccionar Personalizado](/images/Dolphin_RC24/5.jpg)
+7. Selecciona `Personalizado`. ![Seleccionar Canal Miirame](/images/Dolphin_RC24/6.jpg)
 8. Pulsa `1` para seleccionar tu región, y solo habilita la quinta opción. Presiona `6` para iniciar el parcheado.
 9. Cuando haya terminado, habrá un archivo `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` o `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` en la carpeta WAD después del `RiiConnect24Patcher.sh`
 10. En el emulador Dolphin, haz clic en `Herramientas` e `Instalar WAD`, y finalmente selecciona el archivo `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` o el archivo `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
