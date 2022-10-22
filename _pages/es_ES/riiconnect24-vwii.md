@@ -9,13 +9,13 @@ Si necesitas ayuda para seguir los pasos de esta guía, por favor solicita ayuda
 
 ![Logotipo de RiiConnect24](/images/WiiRC24Logo.jpg)
 
-Guide to installing [RiiConnect24](https://rc24.xyz) on vWii (Virtual Wii on Wii U).
+Guía para instalar [RiiConnect24](https://rc24.xyz) en vWii (Wii Virtual en Wii U).
 
-Ya que muchas de las características de la Wii no están disponibles en la vWii, sólo podemos usar RiiConnect24 parcialmente. Vea [what's currently working](#whats-currently-working) para más detalles.
-{: .notice--warning}[RiiConnect24](https://rc24.xyz/) allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail.
+Ya que muchas de las características de la Wii no están disponibles en la vWii, sólo podemos usar RiiConnect24 parcialmente. Vea [qué es lo que funciona](#whats-currently-working) para más detalles.
+{: .notice--warning}[RiiConnect24](https://rc24.xyz/) te permite utilizar nuevamente el servicio WiiConnect24, que incluye el Canal Noticias, Tiempo, Opiniones, Miirame y Nintendo, además del intercambio de mensajes y otros contenidos entre amigos Wii (mejor conocido como correo Wii).
 
 {% capture notice-1 %}
-This guide is for vWii (Wii Mode on Wii U) only.
+Esta guía es solo para vWii (Modo Wii en Wii U).
 
 - Sigue [este tutorial](riiconnect24-wii) si quieres instalar RiiConnect24 en el emulador Dolphin.
 - Sigue [este tutorial](riiconnect24-dolphin) si quieres instalar RiiConnect24 en el emulador Dolphin.
@@ -31,7 +31,7 @@ This guide is for vWii (Wii Mode on Wii U) only.
 **NO** nos haremos responsables si tu consola se brickea o la dañas de cualquier otra forma. Si sigues los pasos de esta guía de forma exacta, no deberías tener ningún tipo de problema.
 {: .notice--warning}
 
-Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on Wii U). If you're looking for instructions for a Nintendo Wii, use [this guide](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [this guide](riiconnect24-dolphin) instead.
+**NO** sigas esta guía en cualquier otra consola aparte de la vWii (Wii virtual en Wii U). If you're looking for instructions for a Nintendo Wii, use [esta guía](riiconnect24). Si desea seguir esta guía en el emulador Dolphin, siga [esta guía](riiconnect24-dolphin).
 {: .notice--warning}
 
 #### Requisitos
