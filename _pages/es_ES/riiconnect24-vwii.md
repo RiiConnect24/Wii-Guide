@@ -38,7 +38,7 @@ Esta guía es solo para vWii (Modo Wii en Wii U).
 
 * Una tarjeta SD o memoria USB
 * Una computadora
-* A Wii U console with an Internet connection that's capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
+* Una consola Wii U con una conexión a Internet capaz de iniciar el Homebrew Launcher (ya sea por el exploit vía el navegador de Internet, Haxchi o Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
 * A Nintendo Network ID (NNID) linked to your Wii U
 * [Parcheador de RiiConnect24 (Windows, Mac y Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
