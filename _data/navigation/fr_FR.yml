@@ -10,7 +10,7 @@ main:
     title: Navigation du site
     url: site-navigation
   - 
-    title: FAQ
+    title: Questions fréquemment posées
     url: faq
   - 
     title: RiiConnect24
@@ -42,7 +42,7 @@ sidebar_pages:
     title: Guide Wii
     url: /
   - 
-    title: FAQ
+    title: Questions fréquemment posées
     url: faq
   - 
     title: Dons
