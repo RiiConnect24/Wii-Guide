@@ -1,20 +1,20 @@
 ---
-title: "RiiConnect24 for Dolphin"
+title: "RiiConnect24 pour l'émulateur Dolphin"
 ---
 
 {% include toc title="Table des matières" %}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-Ce tutoriel vous aidera à installer RiiConnect24 sur Dolphin.
+Ce tutoriel va vous aider à installer RiiConnect24 sur l'émulateur Dolphin.
 
 Si vous avez besoin d'aide concernant ce tutoriel, veuillez contacter directement KcrPL#4625 sur Discord, rejoignez [le serveur Discord de RiiConnect24](https://discord.gg/rc24) (recommandé, en anglais) ou [envoyez-nous un e-mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 {% capture notice-1 %}
-This guide is for [Dolphin Emulator](https://dolphin-emu.org) only.
+Ce guide est seulement pour [l'émulateur Dolphin.](https://dolphin-emu.org).
 
-- Follow [this tutorial](riiconnect24-wii) if you'd like to install RiiConnect24 on a Wii.
+- Suivez [ce tutoriel](riiconnect24-wii) si vous voulez installer RiiConnect24 sur ton Wii.
 - Suivez [ce tutoriel](riiconnect24-vwii) si vous voulez installer Riiconnect24 sur vWii (Mode Wii sur la Wii u).
 {% endcapture %}
 
@@ -25,16 +25,16 @@ N'INSTALLEZ PAS RIICONNECT24 SUR UNE WII MINI ! Cela ne fonctionnera pas et cela
 
 ### Ce dont vous avez besoin
 
-* A computer with either Windows 7 or newer or any Unix-based system
-* [.VFF-File-Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases) if using a Unix-based system
-* [Dolphin](https://dolphin-emu.org/download/)
+* Un ordinateur avec Windows 10, plus récent ou tout système basé sur Unix
+* [.VFF-File-Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases) si vous utilisez un système basé sur Unix
+* [L'émulateur Dolphin](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### Instructions
 
 ##### Section I - InstallerDolphin
 
-If you have Dolphin already installed, skip to Section II
+Si vous avez déjà installé l'émulateur Dolphin, passer au Section II
 {: .notice--info}
 
 1. Téléchargez la dernière version bêta de Dolphin, mais **pas une version stable car elle est très obsolète !**
@@ -42,7 +42,7 @@ If you have Dolphin already installed, skip to Section II
 3. Lancez Dolphin.
 4. Appuyez sur `Outils` -> `Effectuer une mise à jour du système en ligne` -> Choisissez votre région. ![Perform Online System Update](/images/Dolphin_RC24/1.jpg)
 
-If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii) instead of installing the Wii System menu via this method. See [this page](https://wiki.dolphin-emu.org/index.php?title=NAND_Usage_Guide) for more information.
+Si vous avez une console Wii qui à été "homebrewed", vous pouvez utiliser un [Sauvegarde BootMii de la NAND](bootmii) au lieu d'installer le menu système Wii avec cette méthode. See [this page](https://wiki.dolphin-emu.org/index.php?title=NAND_Usage_Guide) for more information.
 {: .notice--info}
 
 ##### Section II - Installation de RiiConnect24
@@ -51,12 +51,12 @@ If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii)
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'unix')">Unix</button>
 
 <div id="windows" class="blanktabcontent" markdown="1">
-1. Run `RiiConnect24Patcher.bat`.
-2. Start the patcher (by pressing `1`), then select `Install RiiConnect24`.
-3. Select `Dolphin Emulator` (3).
-4. Select `Install RiiConnect24 on your Dolphin Emulator`.
-5. Press `1` and `Enter` to start the program.
-6. Proceed with the program configuration.
+1. Exécuter `RiiConnect24Patcher.bat`.
+2. Démarrer la programme (en appuyant`1`), puis appuyez `Installer RiiConnect24`.
+3. Selecter `Émulateur Dolphin` (3).
+4. Selecter `Installer RiiConnect24 sur votre émulateur Dolphin`.
+5. Appuyez sur `1` et `Entrer` pour démarrer le programme.
+6. Procéder avec la configuration de programme.
 7. It will ask you if you want to run the program manually every time you want to use RiiConnect24 on Dolphin or if you want to run it automatically on startup. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
 If you choose to manually run it, keep `RiiConnect24Patcher.bat`. There will be an option in the menu to manually run it.
 {: .notice--info}
@@ -75,7 +75,7 @@ The screenshots in this section are taken from Windows, but the same steps can b
 {: .notice--info}
 
 1. Run `VFF-Downloader-for-Dolphin.sh`. ![Menu principal](/images/Dolphin_RC24/2.jpg)
-3. Proceed with the program configuration.
+3. Procéder avec la configuration de programme.
 4. It will ask you if you want to run the program manually every time you want to use RiiConnect24 on Dolphin or if you want to run it automatically on startup. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
 ![Run once](/images/Dolphin_RC24/4.jpg)
 If you choose to manually run it, keep `VFF-Downloader-for-Dolphin.sh`. There will be an option in menu to manually run it.
