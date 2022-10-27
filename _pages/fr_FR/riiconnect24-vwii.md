@@ -38,7 +38,7 @@ N'utilisez **PAS** ce guide sur une autre console que la vWii (Wii virtuelle sur
 
 * Une carte SD ou un périphérique USB
 * Un ordinateur
-* Une console Wii U avec une connexion Internet capable de lancer le Homebrew Launcher (soit via l'exploit du navigateur Web, Haxchi ou Coldboot Haxchi). **Si vous n'avez pas de console Wii U modifiée, veuillez suivre [wiiuguide. yz](https://wiiuguide.xyz), ainsi que [le guide de modding virtuel de la Wii](https://wiiuguide.xyz/#/vwii-modding) puis revenez.**
+* Une console Wii U avec une connexion Internet capable de lancer le Homebrew Launcher (soit via l'exploit du navigateur Web, Haxchi ou Coldboot Haxchi). **Si vous n'avez pas de console Wii U modifiée, veuillez suivre [wiiuguide.xyz](https://wiiuguide.xyz), ainsi que [le guide de modding virtuel de la Wii](https://wiiuguide.xyz/#/vwii-modding) puis revenez.**
 * Un ID de Nintendo Network (NNID) lié à votre Wii U
 * [Patcher Riiconnect24 (Windows, Mac et Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
@@ -92,25 +92,25 @@ Si vous [installez un thème](/themes-vwii), vous devrez exécuter à nouveau le
 
 ##### Section IV - Utiliser RiiConnect24
 
-After following the above sections, you're almost ready to utilize RiiConnect24 on your Wii U. You just need to perform the following steps **every time you boot into vWii**.
+Après avoir suivi les sections ci-dessus, vous avez presque prêt à utiliser RiiConnect24 sur votre Wii U. Il vous suffit d'effectuer les étapes suivantes **après chaque redémarrage de vWii**.
 
-1. On the **Wii Menu**, launch the **ConnectMii** channel.
-* This will enable the WiiConnect24 and Standby Connection flags required by the WiiConnect24 Channels.
-2. Launch the WiiConnect24 Channels.
-* You should now be able to utilize all of the WiiConnect24 Channels you have installed.
+1. Sur le **Menu Wii** de la vWii, lancez la chaîne **ConnectMii**.
+* Cela activera WiiConnect24 et Standby Connection requis par WiiConnect24.
+2. Lancez les chaînes WiiConnect24.
+* Vous devriez maintenant être en mesure d'utiliser toutes les chaînes WiiConnect24 que vous avez installées.
 
 #### Qu'est-ce qui fonctionne actuellement ?
-The following RiiConnect24 services are **working** on the vWii:
-* Forecast Channel
-* News Channel
-* Everybody Votes Channel
-* Nintendo Channel
-* Check Mii Out Channel / Mii Contest Channel
+Les services RiiConnect24 suivants sont **fonctionnels** sur la vWii :
+* Chaîne Météo
+* Chaîne Infos
+* Chaîne Votes
+* Chaîne Nintendo
+* Chaîne Concours Mii
 {: .notice--success}
 
-The following RiiConnect24 services are **not working** on the vWii:
-* Wii Mail (most functionality does not exist on vWii)
-    * This includes sending/receiving mail to/from friends.
+Les services RiiConnect24 suivants sont **non fonctionnels** sur la vWii :
+* Wii Mail (la plupart des fonctionnalités n'existent pas sur vWii)
+    * Cela inclut envoyer/recevoir des mails à/depuis des amis.
 
-Most services that utilize WiiConnect24 will be able to work if you leave vWii running for several hours. There's no standby mode on the console.
+La plupart des services qui utilisent WiiConnect24 seront en mesure de fonctionner si vous laissez la vWii fonctionner pendant plusieurs heures. Il n'y a pas de mode veille sur la console.
 {: .notice--warning}
