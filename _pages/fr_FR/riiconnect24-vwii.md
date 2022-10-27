@@ -38,14 +38,14 @@ N'utilisez **PAS** ce guide sur une autre console que la vWii (Wii virtuelle sur
 
 * Une carte SD ou un périphérique USB
 * Un ordinateur
-* Une console Wii U avec une connexion Internet capable de lancer le Homebrew Launcher (soit via l'exploit du navigateur Web, Haxchi ou Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
-* A Nintendo Network ID (NNID) linked to your Wii U
+* Une console Wii U avec une connexion Internet capable de lancer le Homebrew Launcher (soit via l'exploit du navigateur Web, Haxchi ou Coldboot Haxchi). **Si vous n'avez pas de console Wii U modifiée, veuillez suivre [wiiuguide. yz](https://wiiuguide.xyz), ainsi que [le guide de modding virtuel de la Wii](https://wiiuguide.xyz/#/vwii-modding) puis revenez.**
+* Un ID de Nintendo Network (NNID) lié à votre Wii U
 * [Patcher Riiconnect24 (Windows, Mac et Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-After following the above linked guide, you should have:
-* A vWii NAND backup and keys (keep these stored safely!!)
-* The Homebrew Channel installed
-* d2x cIOS installed (IOS249, IOS250 and IOS251)
+Après avoir suivi le guide lié ci-dessus, vous devriez avoir:
+* Une sauvegarde et des clés de la NAND vWii (gardez celles-ci stockées en toute sécurité!!)
+* Le Homebrew Channel installée
+* d2x cIOS installé (IOS249, IOS250 et IOS251)
 * IOS80 patché
 {: .notice--info}
 
@@ -75,8 +75,8 @@ Si vous ne pouvez pas faire marcher le patcher Riiconnect24, Rejoignez le[ Disco
 
 Vous allez maintenant installer les IOS patchées et chaînes WADs aui sont nécessaires pour utiliser Riiconnect24.
 
-1. Put your SD card or USB drive in your Wii U.
-2. Launch the Homebrew Channel on your Wii U.
+1. Insérez votre carte SD ou votre clé USB dans votre Wii U.
+2. Lancez l'Homebrew Channel sur votre Wii U.
 3. Lancez Wii Mod Lite.
 4. À l'aide de la croix directionnelle de votre télécommande Wii, accédez à `WAD Manager`, puis accédez au dossier `wad`.
 5. Surlignez tous les WADs du dossier en appuyant sur le bouton + pour les sélectionner. Quand tous les WADs sont sélectionné, appuyez A deux fois pour installer les WADs.
@@ -85,9 +85,9 @@ Vous allez maintenant installer les IOS patchées et chaînes WADs aui sont néc
 
 ##### Section III - Patcher 43db pour le 16:9 (optionnel)
 
-1. Launch ww-43db-patcher and wait for it to complete.
+1. Lancez ww-43db-patcher et attendez qu'il se termine.
 
-If you [install a theme](/themes-vwii), you will have to run the ww-43db-patcher once more.
+Si vous [installez un thème](/themes-vwii), vous devrez exécuter à nouveau le ww-43db-patcher .
 {: .notice--info}
 
 ##### Section IV - Utiliser RiiConnect24
