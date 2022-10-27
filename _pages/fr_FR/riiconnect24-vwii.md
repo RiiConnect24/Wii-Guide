@@ -9,13 +9,13 @@ Si vous avez besoin d'aide pour quoi que ce soit concernant ce didacticiel, veui
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-Guide to installing [RiiConnect24](https://rc24.xyz) on vWii (Virtual Wii on Wii U).
+Guide d'installation de [RiiConnect24](https://rc24.xyz) sur vWii (Wii virtuelle sur Wii U).
 
 Étant donné que certaines fonctionnalités de la Wii d'origine ne sont pas présentes dans la vWii, nous ne pouvons utiliser que partiellement RiiConnect24. Voir [ce qui fonctionne actuellement](#whats-currently-working) pour plus de détails.
-{: .notice--warning}[RiiConnect24](https://rc24.xyz/) allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail.
+{: .notice--warning}[RiiConnect24](https://rc24.xyz/) vous permet d'utiliser des services interrompus de WiiConnect24, qui incluent les infos, la météo, les votes, Nintendo et la chaîne concours Mii, ainsi que la messagerie Wii.
 
 {% capture notice-1 %}
-This guide is for vWii (Wii Mode on Wii U) only.
+Ce guide est pour vWii (Wii Mode sur Wii U) seulement.
 
 - Suivez [ce tutoriel](riiconnect24-wii) si vous voulez installer RiiConnect24 sur ton Wii.
 - Suivez [ce tutoriel](riiconnect24-dolphin) si vous souhaitez installer RiiConnect24 sur Dolphin Emulator.
@@ -31,14 +31,14 @@ N'INSTALLEZ PAS RIICONNECT24 SUR UNE WII MINI ! Cela ne fonctionnera pas et cela
 Nous ne sommes **PAS** responsables si vous brickez ou endommagez votre console de quelque manière que ce soit. Si vous suivez ce guide à la lettre, vous ne devriez pas avoir de problème.
 {: .notice--warning}
 
-Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on Wii U). If you're looking for instructions for a Nintendo Wii, use [this guide](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [this guide](riiconnect24-dolphin) instead.
+N'utilisez **PAS** ce guide sur une autre console que la vWii (Wii virtuelle sur la Wii U). Si vous cherchez des instructions pour une Nintendo Wii, utilisez [ce guide](riiconnect24). Si vous souhaitez effectuer ce guide sur l'émulateur Dolphin, utilisez [ce guide](riiconnect24-dolphin).
 {: .notice--warning}
 
 #### Ce dont vous avez besoin
 
 * Une carte SD ou un périphérique USB
 * Un ordinateur
-* A Wii U console with an Internet connection that's capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
+* Une console Wii U avec une connexion Internet capable de lancer le Homebrew Launcher (soit via l'exploit du navigateur Web, Haxchi ou Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
 * A Nintendo Network ID (NNID) linked to your Wii U
 * [Patcher Riiconnect24 (Windows, Mac et Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
@@ -46,7 +46,7 @@ After following the above linked guide, you should have:
 * A vWii NAND backup and keys (keep these stored safely!!)
 * The Homebrew Channel installed
 * d2x cIOS installed (IOS249, IOS250 and IOS251)
-* IOS80 patched
+* IOS80 patché
 {: .notice--info}
 
 #### Instructions
