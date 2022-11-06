@@ -86,7 +86,8 @@ each of the `.wad` files located here.
 You're all done! Unfortunately, Wii Mail doesn't work in Dolphin yet.
 {: .notice--info}
 
-If a channel says WiiConnect24 features cannot be used, try reset the channel. They don't seem to work the first time. {: .notice--info}
+If a channel says WiiConnect24 features cannot be used, try to reset the channel. They don't seem to work the first time. 
+{: .notice--info}
 <script>
     let tabcontent = document.getElementsByClassName("blanktabcontent");
     let tablinks = document.getElementsByClassName("tablinks");
