@@ -37,7 +37,8 @@ If you have Dolphin already installed, skip to Section II
 {: .notice--info}
 
 1. Download the latest Beta version of Dolphin.
-Do not be misled by the title "Stable". These versions are very old and are not very stable. {: .notice--info}
+Do not be misled by the title "Stable". These versions are very old and are not very stable. 
+{: .notice--info}
 2. Extract the .7z file using a program like 7Zip or WinRAR.
 3. Start Dolphin.
 4. Press on `Tools` -> `Perform Online System Update` -> Choose your region.
