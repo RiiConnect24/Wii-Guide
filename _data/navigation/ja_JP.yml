@@ -1,16 +1,16 @@
 ---
 main:
   - 
-    title: Wii Guide
+    title: Wiiガイド
     url: /
   - 
     title: 始める
     url: get-started
   - 
-    title: Site Navigation
+    title: サイトマップ
     url: site-navigation
   - 
-    title: FAQ
+    title: よくある質問
     url: faq
   - 
     title: RiiConnect24
@@ -29,7 +29,7 @@ footer:
     title: Source
     url: https://github.com/RiiConnect24/Wii-Guide/
   - 
-    title: Site Navigation
+    title: サイトマップ
     url: site-navigation
   - 
     title: Donations
@@ -39,10 +39,10 @@ sidebar_title:
     title: Overall Progress
 sidebar_pages:
   - 
-    title: Wii Guide
+    title: Wiiガイド
     url: /
   - 
-    title: FAQ
+    title: よくある質問
     url: faq
   - 
     title: Donations
