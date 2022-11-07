@@ -24,7 +24,7 @@ If your Wii Menu is not on version 4.3, use str2hax or FlashHax to install the H
 
 ### 使用するエクスプロイトを選択する
 
-These exploits are sorted by easiest to hardest difficulty of use.
+下記のエクスプロイトは、上から順に使いやすいものから使いにくいもので並べられています。
 
 - [str2hax](str2hax) - Wiiの利用規約を使ったエクスプロイト
     * インターネット接続とDNSサーバーの変更が必要です
