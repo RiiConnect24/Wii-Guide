@@ -4,21 +4,21 @@ title: "str2hax"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
 {: .notice--info}
 
-Note that if your ISP or networking environment prevents using custom DNS servers, str2hax will not work and you should [choose another exploit to use](get-started).
+お使いのISPやネットワーク環境でカスタムDNSサーバを使用できない場合、str2haxは動作しません。[別のエクスプロイトを選択してください](get-started)。
 {: .notice--info}
 
-str2hax is an exploit for the Wii that is triggered by loading the Wii's End User License Agreement. It requires nothing but an Internet connection that lets you change the DNS on your Wii.
+str2haxはWiiのエンドユーザーライセンス契約（EULA）を読み込む際に呼び出されるWiiのエクスプロイトです。 WiiのDNSを変更可能なインターネット接続の他に必要なものはありません。
 
-#### What you need
+#### 必要なもの
 
-* A Wii with an Internet connection
+* インターネットに接続されたWii
 
-#### Instructions
+#### 手順
 
-##### Section I - Connecting
+##### セクション I - 接続
 
 This exploit requires you to set your DNS in order to connect to a server that contains the exploit.
 
@@ -26,7 +26,7 @@ This exploit requires you to set your DNS in order to connect to a server that c
 2. Go to `Wii Settings`. ![Wii Settings](/images/RiiConnect24/Internet_2.png)
 3. Go to `Page 2`, then click on `Internet`. ![Internet](/images/RiiConnect24/Internet_3.png)
 4. Go to `Connection Settings`. ![Connection Settings](/images/RiiConnect24/Internet_4.png)
-5. Select your current connection. ![Current Connection](/images/RiiConnect24/Internet_5.png)
+5. 現在の接続を選択します。 ![Current Connection](/images/RiiConnect24/Internet_5.png)
 6. Go to `Change Settings`. ![Change Settings](/images/RiiConnect24/Internet_6.png)
 7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`. ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
 8. Type in `18.188.135.9` as the primary DNS.
