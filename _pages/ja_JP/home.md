@@ -6,35 +6,35 @@ header:
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: "The complete guide to modding your Nintendo Wii."
+excerpt: "ニンテンドーWiiの改造に関する完全ガイドです。"
 ---
 
-The guide is also available in other languages! To change the language, please press the icon at top right and change your language.
+ガイドは他の言語でも利用できます！ 言語を変更するには、右上のアイコンを押して言語を変更してください。
 {: .notice--info}
 
-## What is "homebrew"?
+## Homebrewとは
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to software not authorized by Nintendo. This can include games, utilities, emulators and much more!
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games))は通常、任天堂が公式に認可したもの以外のソフトウェアを指します。 これには、ゲーム、ユーティリティ、エミュレータなどなどが含まれます。
 
-Running homebrew on your Nintendo Wii can be done for free by exploiting bugs in Wii's software. The modifications installed by following this guide will give you easy and persistent access to Wii homebrew.
+Wiiのソフトウェアバグを利用することで、無料でWiiのHomebrewを実行することができます。 このガイドに従って改造を行うと、容易かつ永続的にWiiのHomebrewを利用できるようになります。
 
-## What can I do with homebrew?
+## Homebrewを使ってできること
 
-Here's a list of things you can do using homebrew. While this list is by no means totally comprehensive, you should have a good idea of what is possible, and the guide will help you easily get started.
+Homebrewを使ってできることは以下の通りです。 このリストは全てを網羅しているわけではありませんが、できることをイメージするのに役立つはずです。ガイドは最初の一歩の助けになるでしょう。
 
-- Patch game disc contents (allowing you to load game modifications) using [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
-- Install themes to your Wii Menu using [MyMenuify](themes).
-- Install a USB Loader like [WiiFlow](wiiflow) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
-- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](dump-wads)
-- Back up and restore your save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
-- Download new homebrew apps with the [Homebrew Browser](hbb)
-- Restore discontinued online services, such as [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
-- Backup and restore copies of your Wii system memory (NAND) using [BootMii](bootmii).
-- Protect your Wii from bricks using [Priiloader](priiloader) and BootMii.
-- Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
+- [Riivolution](http://www.wiibrew.org/wiki/Riivolution)を使って、ゲームにパッチ（チート・改造など）を適用する。
+- [MyMenuify](themes) を使用してWiiメニューにテーマをインストールする。
+- [WiiFlow](wiiflow)や[USB Loader GX](usbloadergx)のようなUSBローダーをインストールして、USBメディアなどからお好みのゲームを起動する。
+- [CleanRip](/dump-games)でゲームディスクを、 [YABDM](dump-wads)でインストールされたゲームをバックアップする。
+- [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/) でセーブデータをバックアップ・復元する。
+- [Homebrew Browser](hbb)で新しいHomebrew アプリをダウンロードする。
+- [WiiConnect24](riiconnect24)や[Nintendo WFC services](wiimmfi)のような、終了したオンラインサービスを復活する。
+- [BootMii](bootmii)を使って、Wiiシステムメモリ（NAND）をバックアップおよび復元する。
+- [Priiloader](priiloader)とBootMiiを使用して、Wiiをブリック（ソフトウェア故障）から保護する。
+- [WiiMC](https://oscwii.org/library/app/wiimc-ss)を使って、Wiiをメディアプレーヤーとして使用する。
 
 
-## Ready?
+## 準備はいいですか？
 
-Get started by [choosing your exploit](get-started)!
+[エクスプロイト](get-started)を選択して始めましょう！
 {: .notice--info}
