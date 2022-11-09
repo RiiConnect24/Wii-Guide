@@ -16,7 +16,7 @@ Striim Network is a service dedicated to bringing back the channels that support
 * A Windows or Unix based computer
 * [Kirby TV Channel Patcher](https://github.com/StriimNetwork/Kirby-TV-Channel-Patcher/releases)
 
-#### Instructions
+#### 手順
 
 [詳しいWADのインストールし方指示が見たいだったら、ここでクリクしてください。](wiimodlite)
 {: .notice--info}
