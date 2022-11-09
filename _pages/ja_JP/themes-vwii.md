@@ -45,7 +45,7 @@ Only themes from the RiiConnect24 Themes page have been tested on vWii. Themes f
 MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
 {: .notice--danger}
 
-#### Instructions
+#### 手順
 
 ##### Section I - Finding a Theme
 
