@@ -4,7 +4,7 @@ title: "RiiConnect24"
 
 {% include toc title="Table of Contents" %}
 
-If you need help with anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
 {: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
@@ -12,7 +12,7 @@ If you need help with anything regarding this tutorial, please join [the RiiConn
 [RiiConnect24](https://rc24.xyz/) allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail.
 
 {% capture notice-1 %}
-This guide is for regular Wiis only.
+このガイドは通常のWiiのみを対象としています。
 
 - Follow [this tutorial](riiconnect24-vwii) if you'd like to install RiiConnect24 on vWii (Wii Mode on Wii U).
 - Follow [this tutorial](riiconnect24-dolphin) if you'd like to install RiiConnect24 on Dolphin Emulator.
@@ -23,11 +23,11 @@ This guide is for regular Wiis only.
 DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
-#### What you need
+#### 必要なもの
 
-* An SD card or USB drive
+* SDカードまたはUSBドライブ
 * インターネットに接続されたWii
-* A computer
+* パソコン
 * [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### 手順
@@ -84,22 +84,22 @@ Starting June 16th, 2022 the RiiConnect24 DNS changes. Read more: [here.](riicon
 
 You will now set your DNS to our servers. This is optional but it's recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
 
-1. Go to `Wii Options`.
-2. Go to `Wii Settings`.
-3. Go to `Page 2`, then click on `Internet`.
-4. Go to `Connection Settings`.
-5. Select your current connection.
-6. Go to `Change Settings`.
-7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`.
-8. Type in `167.86.108.126` as the primary DNS.
-9. Type in `1.1.1.1` as the secondary DNS.
-10. Select `Confirm`, then select `Save`.
-11. Select `OK` to perform a connection test.
-12. If the connection test was successful, select `No` to skip the Wii System Update.
+1. `Wiiオプション`に移動します。
+2. `Wii本体設定`に移動します。
+3. `2ページ目`に移動し、`インターネット`をクリックします。
+4. `接続設定`に移動します。
+5. 現在の接続を選択します。
+6. `設定変更`に移動します。
+7. `DNS自動取得`（「IPアドレス自動取得」ではありません）に移動し、`いいえ`を、その後`詳細設定`を選択します。
+8. プライマリDNSに`167.86.108.126`を入力します。
+9. セカンダリDNSに`1.1.1.1`を入力します。
+10. `決定`を選択し、`保存`を選択します。
+11. `OK`を選択して、接続テストを実行します。
+12. 接続テストが成功した場合は、`いいえ`を選択してWii本体の更新をスキップします。
 13. Go to `WiiConnect24`, then `WiiConnect24` again, and make sure it is enabled.
 14. Back on the WiiConnect24 menu, go to `Standby Connection` and make sure it is enabled.
 15. At `Slot Illumination`, we recommend you set the disc light to `Dim` or `Bright`, but this is optional.
-16. Finally, go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`. Please read through this.
+16. 最後に、`インターネット`セクションに移動し、`利用規約`を、次いで`はい`を選択します。 通して読んでください。
 
 It's common to get error FORE000006 on the Forecast Channel after installing RiiConnect24. If you get it, make sure your Wii's to the correct date and time, then wait no more than an hour and it may start working. [If you still get error FORE000006 or if you get NEWS000006, you will need to delete your SYSCONF with RC24-Clear-Tool].
 {: .notice--warning}
