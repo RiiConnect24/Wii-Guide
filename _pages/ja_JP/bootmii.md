@@ -1,13 +1,13 @@
 ---
-title: "BootMii Backup"
+title: "BootMiiバックアップ"
 ---
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
 {: .notice--info}
 
-![BootMii Logo](/images/bootmii.png)
+![BootMiiロゴ](/images/bootmii.png)
 
 You need an **SD card** to create a NAND backup using BootMii. If you do not have one, you can skip this page, although it is highly recommended to make a NAND backup if you can.
 {: .notice--warning}
@@ -17,10 +17,10 @@ BootMii as boot2 is recommended, but only available to install on early Wiis. Ot
 
 One of BootMii's most important features is the ability to backup and restore your Wii's NAND storage. We will be going over how to perform a NAND backup. It's a good idea to make a NAND backup regularly or before doing something risky to your console (and if you know what you're doing, you won't have to do anything risky). You can then restore from that backup for any reason.
 
-#### Requirements
+#### 必要なもの
 * An SD card with at least 512MB of free space
 
-#### Instructions
+#### 手順
 If you have BootMii installed as boot2 you will need to launch BootMii by restarting the console. Skip steps 1 and 2 if this is the case.
 {: .notice--info}
 1. Launch the Homebrew Channel.
