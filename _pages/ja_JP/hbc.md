@@ -2,7 +2,7 @@
 title: "Homebrew ChannelとBootMiiのインストール"
 ---
 
-{% include toc title="目次" %}
+{% include toc title="Table of Contents" %}
 
 このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24) (推奨) か[support@riiconnect24.netにメール](mailto:support@riiconnect24.net)してください。
 {: .notice--info}
@@ -23,24 +23,24 @@ Homebrew Channelはhomebrewアプリケーションを起動する場所です�
 
 5. インストールが完了したら、戻ってBootMiiを選択します。
 6. BootMiiをboot2としてインストールできると表示されている場合は、是非そうしてください。 これは起こりうるブリックに対して最も良い対策になります。 オプションが表示されない場合は、この手順をスキップします。この場合、お使いのWiiはboot2へのインストールに対応した初期モデルではないことになります。
-7. Install BootMii as IOS, even if you already installed BootMii as boot2 in the previous step. If you couldn't install BootMii as boot2, this will still allow you to create a NAND backup.
+7. 前のステップでBootMiiをboot2としてインストールした場合でも、続いてBootMiiをIOSとしてインストールしてください。 BootMiiをboot2としてインストールできなかった場合でも、これでNANDバックアップを作成できます。
 
-If you do not have an SD card, you cannot install nor use BootMii, and therefore will not be able to utilize any of the mentioned benefits. 後でいつでもインストールできます。
+SDカードを持っていない場合、BootMiiをインストールしたり使用したりすることはできません。そのため、上記の利点を利用できません。 ですが、後でいつでもインストールできます。
 {: .notice--warning}
 
 ![BootMiiのインストール](/images/Wii/InstallBootMii.png)
 
 8. 完了したら `Continue`を選択し、`Exit` を選択して、Homebrew Channelに移動します。
 
-#### Required Reading
+#### 必ずお読みください
 
-これでHomebrew Channelを使ってHomebrewアプリを起動できるようになりました。 Open Shop Channel is a one-stop shop for downloading homebrew, which you will learn how to install further in this guide.
+これでHomebrew Channelを使ってHomebrewアプリを起動できるようになりました。 Open Shop ChannelはHomebrewアプリをダウンロードするための何でも揃うショップです。引き続きこのガイドでインストールする方法を学べます。
 
-Here's a tip - when installing homebrew applications on your SD Card or USB drive, your folder structure should look like this:
+SDカードまたはUSBドライブにHomebrewアプリケーションをインストールすると、フォルダ構造は以下のようになります：
 
 ![SDカードの適切なフォルダ構造](images/Wii/FolderStructure.png)
 
-`AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
+`AppName1`と`AppName2`はプレースホルダ名です。 後から入れるアプリの`apps`フォルダを`apps`フォルダ内に配置（つまり入れ子・ネスト）しないでください。
 
 [続いてBootMiiでNANDバックアップを作成する](bootmii)<br> この時点でBootMiiでNANDバックアップを作成することを強くお勧めします。
 {: .notice--info}
@@ -48,5 +48,5 @@ Here's a tip - when installing homebrew applications on your SD Card or USB driv
 BootMiiをインストールできなかった場合は、[Priiloaderのインストール](priiloader)に進んでください。
 {: .notice--info}
 
-Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
+ヒント： WiiがBootMiiをboot2としてインストールしているかどうかは、ディスクドライブの光り方でわかります。電源ボタンを押して一瞬光った後に、ごく短く光ったらそうです。
 {: .notice--info}
