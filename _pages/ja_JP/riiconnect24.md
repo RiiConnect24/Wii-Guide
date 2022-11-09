@@ -26,7 +26,7 @@ DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick th
 #### What you need
 
 * An SD card or USB drive
-* A Wii with an Internet connection
+* インターネットに接続されたWii
 * A computer
 * [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
