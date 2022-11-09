@@ -5,28 +5,28 @@ title: "よくある質問"
 ![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
 
 ### Wiiの改造はどれくらい危険ですか？
-Bricks (a state where either some parts of your Wii software are not working, or your Wii is not working at all) are extremely rare unless you ignore/circumvent all safety checks, or do something risky or naive like installing an older version of the Wii Menu. Make sure you install [BootMii](bootmii) and [Priiloader](priiloader) to protect yourself from bricks!
+ブリックとはWiiの一部ソフトウェアもしくは全てが動作しなくなることです。全ての安全確認を怠ったり、危ないこと（古いWiiバージョンをインストールするなど）をしたりしない限り、発生することは極めて稀です。 ですが万一のため、必ず[BootMii](bootmii)と[Priiloader](priiloader)をインストールして、ブリックを回避してください！
 
 ### どこでサポートを受けるべきですか？
-You can join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for assistance.
+支援が必要なら[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
 
-### SDカードの要件や推奨事項は何ですか?
-You will need an SD card with at least 128MB to run an exploit.
+### SDカードの要件や推奨事項は何ですか？
+エクスプロイトを実行するには、少なくとも128MBのSDカードが必要です。
 
-- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card.
+- BlueBomb、str2hax、FlashHaxエクスプロイトを使用する場合は、SDカードは必要ありません。
 
-To store homebrew applications, we recommend an SD card with at least 2 GB.
+ですがHomebrewアプリケーションを保存するために、少なくとも2GBのSDカードをお勧めします。
 
 ### WiimmfiでエラーコードXXXXXXが出ました。どうすればいいですか？
 エラーの理由を確認するには、[Wiimmfiエラーページ](https://wiimmfi.de/error)をご覧ください。
 
-### What are the limitations in vWii modding?
-The following is a list of things that can potentially **BRICK** your vWii (don't do these things!):
-* Installing IOS for a Wii console on vWii.
-* Installing Wii menu themes not formatted correctly for vWii and/or your region.
-* Installing BootMii and/or Priiloader/Preloader.
-* Failure during the install of crucial system/IOS titles (e.g. power outage).
-* Modifying the vWii NAND without knowing what you are doing.
+### vWii改造の制限事項は何ですか？
+以下はお使いのvWiiを**ブリックする**恐れのある行為リストです（*以下の行為を実践しないで！*）：
+* vWiiにWii用のIOSをインストールする。
+* vWiiやリージョンに対して正しくフォーマットされていないWiiメニューテーマをインストールする。
+* BootMiiまたはPriiloader・Preloaderをインストールする。
+* （停電などで）重要なシステム・IOSのインストールに失敗する。
+* 闇雲にvWiiのNANDを変更する。
 
-### How can I remove parental controls?
-The [mkey generator](https://mkey.salthax.org) can generate the code required to remove parental controls.
+### ペアレンタルコントロールを解除するにはどうしたらいいですか？
+[mkey generator](https://mkey.salthax.org)で、ペアレンタルコントロールを解除するために必要なコードを生成できます。
