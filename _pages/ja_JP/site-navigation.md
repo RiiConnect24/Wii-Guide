@@ -4,7 +4,7 @@ layout: single
 sitemap: false
 ---
 
-![WiiTutorials](/images/WiiTutorials.jpg)
+![Wiiチュートリアル](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
 **Featured**
@@ -18,7 +18,7 @@ sitemap: false
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
 {% capture notice-2 %}
-**RiiConnect24/Wiimmfi**
+**RiiConnect24・Wiimmfi**
 + [RiiConnect24](riiconnect24)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
@@ -33,7 +33,7 @@ sitemap: false
 
 **Modding 101**
 + [BlueBomb](bluebomb)
-* [BootMii Backup](bootmii)
+* [BootMiiバックアップ](bootmii)
 + [cIOS](cios)
 + [Dos and Don'ts of Wii Modding](dosanddonts)
 + [FlashHax](flashhax)
@@ -63,10 +63,10 @@ sitemap: false
 + [Installing the Homebrew Channel on the Wii mini](hbc-mini)
 + [Installing cIOS on the Wii mini](cios-mini)
 
-**Site**
-+ [Home](/)
+**サイト**
++ [ホーム](/)
 + [始めよう](get-started)
 + [よくある質問](faq)
-+ [Donations](donations)
++ [寄付](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
