@@ -14,7 +14,7 @@ excerpt: "ニンテンドーWiiの改造に関する完全ガイドです。"
 
 ## Homebrewとは
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games))は通常、任天堂が公式に認可したもの以外のソフトウェアを指します。 これには、ゲーム、ユーティリティ、エミュレータなどなどが含まれます。
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games))は通常、任天堂が公式に認めたもの以外のソフトウェアを指します。 これには、ゲーム、ユーティリティ、エミュレータなどなどが含まれます。
 
 Wiiのソフトウェアバグを利用することで、無料でWiiのHomebrewを実行することができます。 このガイドに従って改造を行うと、容易かつ永続的にWiiのHomebrewを利用できるようになります。
 
