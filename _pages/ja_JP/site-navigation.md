@@ -27,11 +27,11 @@ sitemap: false
 + [Wiimmfi](wiimmfi)
 + [Kirby TV Channel](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
-+ [Deleting VFFs](deleting-vffs)
-+ [Fixing FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [VFFを削除する（RiiConnect24 Clear Tool）](deleting-vffs)
++ [エラーFORE000006を修正する](riiconnect24-batteryfix)
++ [エラーNEWS000006を修正する](news000006)
 
-**Modding 101**
+**改造のいろは**
 + [BlueBomb](bluebomb)
 * [BootMiiバックアップ](bootmii)
 + [cIOS](cios)
