@@ -37,7 +37,7 @@ Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on
 #### What you need
 
 * An SD card or USB drive
-* A computer
+* パソコン
 * A Wii U console with an Internet connection that's capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
 * A Nintendo Network ID (NNID) linked to your Wii U
 * [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
