@@ -62,12 +62,13 @@ If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii)
 ![Select your region](/images/RC24_Patcher/5.JPG)
 7. While you're at it, RiiConnect24 Patcher can additionally download some other optional channels that do not use RiiConnect24. `[X]` represents the options that selected. Just press 5 and `ENTER` if you're not interested.
 ![Additional optional channels](/images/RC24_Patcher/6.JPG
-12. Be patient...
+8. Press `1` then `ENTER` to start patching.
+9. Be patient...
 ![It's patching!](/images/RC24_Patcher/9.JPG)
-13. After it's done, we would appreciate if you take a minute to send anonymous feedback to us.  If you don't want to, close the patcher. All the files should already be on your SD Card.
+10. After it's done, we would appreciate if you take a minute to send anonymous feedback to us.  If you don't want to, close the patcher. All the files should already be on your SD Card.
 ![It's done!](/images/RC24_Patcher/10.JPG)
 ![Files copied](/images/RC24_Patcher/11.PNG)
-14. In Dolphin, go to `Tools` and then `Install WAD`. Install all the WAD files one by one.
+11. In Dolphin, go to `Tools` and then `Install WAD`. Install all the WAD files one by one.
 </div>
 
 You're all done! Unfortunately, Wii Mail doesn't work in Dolphin yet.
