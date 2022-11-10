@@ -26,7 +26,7 @@ DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick th
 ### Benodigdheden
 
 * A computer with either Windows 7 or newer or any Unix-based system
-* [Dolphin](https://dolphin-emu.org/download/)
+* [Dolfijn](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### Instructies
@@ -52,14 +52,14 @@ If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii)
 4. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`. (NOTE: These screenshots are from the Windows version of the patcher.)
 5. For this guide, choose "`Install RiiConnect24 on your Dolphin Emulator`" ![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
 6. Choose "`Express (Recommended)`". It will give you everything you need. ![Express Settings](/images/RC24_Patcher/4.JPG)
-7. Select your region. ![Select your region](/images/RC24_Patcher/5.JPG)
+7. Select your region. ![Selecteer jouw regio](/images/RC24_Patcher/5.JPG)
 8. While you're at it, RiiConnect24 Patcher can additionally download some other optional channels that do not use RiiConnect24. `[X]` represents the options that selected. Just press 5 and `ENTER` if you're not interested. !\[Additional optional channels\](/images/RC24_Patcher/6.JPG
 9. Press `1` then `ENTER` to start patching.
 10. Be patient... ![It's patching!](/images/RC24_Patcher/9.JPG)
-11. After it's done, we would appreciate if you take a minute to send anonymous feedback to us.  If you don't want to, close the patcher. All the files should already be on your SD Card. ![Klaar!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
+11. After it's done, we would appreciate if you take a minute to send anonymous feedback to us.  If you don't want to, close the patcher. All the files should already be on your SD Card. ![Klaar!](/images/RC24_Patcher/10.JPG) ![Bestanden gekopieerd](/images/RC24_Patcher/11.PNG)
 12. In Dolphin, go to `Tools` and then `Install WAD`. Install all the WAD files one by one.
 
-You're all done! Unfortunately, Wii Mail doesn't work in Dolphin yet.
+Je bent helemaal klaar! Unfortunately, Wii Mail doesn't work in Dolphin yet.
 {: .notice--info}
 
 Dolphin now supports WiiConnect24 natively. It's not perfect, but it works enough. Issues include having error code 109144 on the region selector, or having to open the Everybody Votes Channel multiple times during initial setup in order to see the poll questions.
