@@ -31,4 +31,4 @@ Zijn tutorial zal u uitleggen hoe u WADs kunt kopiëren vanaf uw Wii systeem geh
 6. Als u deze melding krijgt `Fakesign the TMD` kies dan `No`.
 7. At the prompt to `Change the output WAD region`, choose `No`.
 
-U heeft nu een WAD gekopieerd. Het staat nu als alles goed is gegaan op uw SD-kaart. ![Done](/images/DumpWADS/5.png)
+U heeft nu een WAD gekopieerd. Het staat nu als alles goed is gegaan op uw SD-kaart. ![Klaar](/images/DumpWADS/5.png)
