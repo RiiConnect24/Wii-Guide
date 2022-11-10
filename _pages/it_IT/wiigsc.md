@@ -27,7 +27,7 @@ Perfavore, NON creare uno shortcut per i giochi "Mario Party 9" oppure "A Boy an
 
 1. Installla WiiGSC, poi clicca col tasto destro su di esso e scegli **Esegui come amministratore**. Se non lo fai, WiiGSC ti darà un errore appena lo aprirai.
 2. Seleziona il percorso per il file ISO o WBFS sul tuo dispositivo USB, e scegli lo USB Loader che utilizzi. Le altre opzioni sono apposto così come sono.
-3. If you're using USB Loader GX, make sure to use [this version](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip).
+3. Se utilizzi USB Loader GX, assicurati di usare [questa versione](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip).
 4. Installa il WAD generato con un WAD Manager, consigliamo Wii Mod Lite.
 
 Se ricevi l'errore "I file di sistema sono corrotti", non allammarti se hai installato Priiloader. Spegni la tua Wii, e accendila nuovamente mentre tieni premuto anche il pulsante RESET. Si aprirà il menù di BootMii, nel quale avrai una varietà di opzioni per aggiustare la tua Wii. Una delle opzioni di avviare l'Homebrew Channel.

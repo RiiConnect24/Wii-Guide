@@ -10,7 +10,7 @@ excerpt: "The complete guide to modding your Nintendo Wii."
 ---
 
 The guide is also available in other languages! To change the language, please press the icon at top right and change your language.
-{: . notícia--informació}
+{: .notice--info}
 
 ## What is "homebrew"?
 
@@ -37,4 +37,4 @@ Here's a list of things you can do using homebrew. While this list is by no mean
 ## Ready?
 
 Get started by [choosing your exploit](get-started)!
-{: . notícia--informació}
+{: .notice--info}

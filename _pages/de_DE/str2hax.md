@@ -43,5 +43,7 @@ Damit dieser Exploit funktioniert, musst du deine DNS Einstellungen bearbeiten, 
 
 Wenn der HackMii Installer nicht lädt und sich deine Wii aufhängt (Du kannst deinen Zeiger nicht bewegen) oder es nicht 1-2 Minuten zum auslösen braucht, solltest du deine Wii neustarten und den Exploit erneut starten.
 
+If you have installed a mod like CTGP Revolution or Project+, str2hax may load that instead. If it does, restart your Wii and try again without your SD card inserted.
+
 [Fahre fort mit der Installation des Homebrew-Kanals und BootMii](hbc)
 {: .notice--info}

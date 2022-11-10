@@ -17,7 +17,7 @@ LetterBomb — это эксплойт для Wii, который запуска
 
 
 1. На своей Wii, перейдите в `Wii Settings` -> `Internet` -> `Console Information` и запишите MAC-адрес.
-1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, ensure `Bundle the HackMii Installer for me!` is checked, and cut either wire ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
+1. Зайдите на [please.hackmii.com](https://please.hackmii.com), вставьте MAC и регион вашего Wii, пройдите капчу, убедитесь, что `Bundle the HackMii Installer for me!` включено, и перережьте любой провод. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
 1. Распакуйте содержимое загруженного ZIP-архива в корень вашей SD-карты.
 1. Извлеките SD карту и вставьте в ваш Wii.
    - SD карта должна быть вставлена в слот для SD карт на лицевой стороне Wii. Использование кардридера, вставленная в USB порт не сработает.

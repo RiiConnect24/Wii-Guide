@@ -43,5 +43,7 @@ str2hax는 Wii의 최종 사용자 라이선스 동의서를 이용해서 실행
 
 HackMii 설치 마법사가 실행되지 않고 뻗거나 (커서를 움직일 수 없음) 1-2분이 지나도 실행되지 않는다면, Wii를 재시작 하고 작동을 재시도하세요.
 
+If you have installed a mod like CTGP Revolution or Project+, str2hax may load that instead. If it does, restart your Wii and try again without your SD card inserted.
+
 [홈브루 채널과 BootMii 설치로 계속하기](hbc)
 {: .notice--info}

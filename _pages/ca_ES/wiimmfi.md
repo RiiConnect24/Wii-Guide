@@ -5,7 +5,7 @@ title: "Wiimmifi"
 {% include toc title="Continguts" %}
 
 Si necessites ajuda amb qualsevol cosa relacionada amb aquesta guia, uneix-te al [servidor de Discord de RiiConnect24](https://discord.gg/rc24) (recomanat) o [envia un correu electrònic a support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: . notícia--informació}
+{: .notice--info}
 
 ![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
 
@@ -20,11 +20,11 @@ There are lots of different methods to connect to Wiimmfi. Choose the one that f
 
 ### Automatic patching from the Disc Channel using Priiloader
 
-#### What you need
+#### Què necessitaràs?
 - A Wii with Priiloader 0.9 or later installed
 
 If you have an older version of Priiloader or don't have it installed, follow [this guide](priiloader) to update/install it.
-{: . notícia--informació}
+{: .notice--info}
 
 #### Instruccions
 1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
@@ -38,8 +38,8 @@ If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you d
 ### Homebrew (Disc) Application
 MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
 
-#### What you need
-* An SD card or USB drive
+#### Què necessitaràs?
+* Una tarjeta SD o Pendrive USB
 * [Auto Wiimmfi Patcher](https://download.wiimmfi.de/patcher/autowiimmfipatcher-latest.zip)
 
 #### Instruccions
@@ -52,7 +52,7 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 ### No-Homebrew (Disc)
 Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
 
-#### What you need
+#### Què necessitaràs?
 * A Wii with an Internet connection
 
 #### Instruccions
@@ -71,7 +71,7 @@ If you are already using USB Loader GX, try updating it to the most recent versi
 ### ISO Patching
 You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
 
-#### What you need
+#### Què necessitaràs?
 - Your copy of your game (WBFS, ISO, cISO, and other forms that a Wii can use are supported).
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
   **or**
@@ -86,7 +86,7 @@ You may not want to run a patcher each time you want to play on Wiimmfi, and may
 ### WiiWare Patching
 You can patch WiiWare games in order to play them on Wiimmfi.
 
-#### What you need
+#### Què necessitaràs?
 
 - An SD card
 - Your copy of your game (in WAD format)
@@ -96,7 +96,7 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 - [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 [If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
-{: . notícia--informació}
+{: .notice--info}
 
 Steps:
 1. Extract the .zip of the latest version of WiiWare Patcher, and put your WAD in it.
@@ -108,9 +108,9 @@ Steps:
 ### Mario Kart Wii Competitions
 Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
-#### What you need
+#### Què necessitaràs?
 
-- An SD card or USB drive
+- Una tarjeta SD o Pendrive USB
 - Mario Kart Wii Competition Patcher
    - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
    - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
@@ -125,17 +125,17 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 6. The patcher will look for save files for Mario Kart Wii on your storage device in various places, and upload them. This is done in case a missing competition is found in your save file. It will also, of course, patch your Wii for competitions.
 
 If you're using the Wii U, you will have to run the competitions patcher whenever you want to check for a competition, because WiiConnect24 is not enabled on the Wii U.
-{: . notícia--informació}
+{: .notice--info}
 
 ### DS Games
 Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks to an exploit called nds-constraint, you can play DS games online without patching your games.
 
-#### What you need
+#### Què necessitaràs?
 
 - A Wi-Fi network with WEP or no security
 
 Getting a Wi-Fi network with WEP or no security is the hardest part, because DS games don't support newer Wi-Fi security types (unless it's one of the few games that are "DSi Enhanced" and can use your Wi-Fi configuration on your DSi or 3DS, like Pokémon Black/White). However, many routers support creating a guest Wi-Fi connection, or you can make a hotspot on your phone or your computer. There are plenty of resources on the Internet that have information on this, so use your favorite search engine to find them.
-{: . notícia--informació}
+{: .notice--info}
 
 #### Instruccions
 
@@ -157,4 +157,4 @@ PhillyG has put together a collection of custom tracks and hacks called MKW Hack
 Wiimm and Leseratte make a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte, has Wiimmfi support, and lots of other features. You can find out more about it on its [wiki page](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
-{: . notícia--informació}
+{: .notice--info}

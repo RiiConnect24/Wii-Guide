@@ -4,7 +4,7 @@ title: "BlueBomb"
 
 {% include toc title="Table of Contents" %}
 
-It is **strongly** advised against using **any** video guide for hacking your Wii mini console, as there is an extremely large chance of **bricking** it.
+Настоятельно **НЕ** рекомендуется использовать **любой** видео гайд по взлому вашего Wii mini, есть невероятно большой шанс **брика** консоли.
 {: .notice--warning}
 
 Если вам нужна помощь с инструкцией, присоединяйтесь к [ Wii mini Hacking Discord серверу](https://discord.gg/6ryxnkS) (рекомендуется)
@@ -12,20 +12,20 @@ It is **strongly** advised against using **any** video guide for hacking your Wi
 
 ![BlueBomb](/images/bluebomb.png)
 
-BlueBomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Although it is the only exploit that works for the Wii mini, BlueBomb can run on the original Wii as well. This exploit also enables recovery from certain bricks, such as a banner brick.
+BlueBomb - это эксплойт, который используюет уязвимость Bluetooth библиотек в Wii и Wii mini. Хоть это и единственный эксплойт, который работает на Wii mini, BlueBomb так же может работать и на обычной Wii. Этот эксплойт так же помогает восстановить устройство из состояния брика.
 
-For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
+Для оригинальной Wii мы не рекомендуем использовать BlueBomb, если вы собираетесь установить Homebrew Channel или BootMii, так как существуют более удобнее эксплойты.
 {: .notice--info}
 
 #### Часть I - Что вам нужно
 - Linux машина
-  - A Virtual Machine may work, but it is not recommended due to its complexity in getting Bluetooth passthrough working. If possible, please use a LiveUSB as described below.
-  - If you have a Raspberry Pi, you can use that instead as it most likely has Linux installed already.
-  - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports.
-  - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
-    - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
-    - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
-  - You can [flash a Linux Live environment to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
+  - Виртуальная машина может сработать, но не рекомендуется из за сложностями с Bluetooth. Если возможно, используте LiveUSB, как описано ниже.
+  - Если у вас есть Raspberry Pi, вы так же можете использовать его, так как на нем, скорее всего, уже установлен Linux.
+  - Windows Subsystem for Linux *не будет* работать, так как не будет иметь прямой доступ к Bluetooth или USB.
+  - Если у вас нет Linux, [Ubuntu](https://ubuntu.com/download/desktop) самый дружелюбный к пользователю дистрибутив, который может запускаться на компьютерах Windows или Mac.
+    - Для 32 битных систем необходим [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
+    - Для 64 систем рекомендуется использовать LTS ревизию, потому что она самая стабильная, но и обычные релизы не плохи.
+  - Вы можете [загрузить Linux Live на ваше USB устройство](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) вместо установки на ваш компьютер.
 - Bluetooth адаптер.
   - Встроенный Bluetooth адаптер будет работать.
   - Если у вас его нет, при выборе убедитесь, что он совместим с Linux.
@@ -36,7 +36,7 @@ For the original Wii, we do not recommend using BlueBomb if you intend to instal
 1. Скачайте установщик HackMii с [сайта BootMii ](https://bootmii.org/download/).
 - (Если вы пытаетесь починить кирпич, скопируйте homebrew (менеджер пакетов, работающий в командной строке) приложения, которые хотите использовать в разделе /apps/)
 1. Распакуйте и поместите файл `boot.elf` на вашу флешку.
-- (Even for a Wii mini, bootmini.elf will **not** work, its purpose is entirely different and unrelated. Use boot.elf in all cases). 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright). 1. Turn on your console and navigate to the settings menu. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+- (Even for a Wii mini, bootmini.elf will **not** work, its purpose is entirely different and unrelated. Use boot.elf in all cases). 1. Подключите флешку к консоли. У Wii mini USB порт расположен сзади. Для обычной Wii используйте нижний порт. (или правый порт, если он вертикальный). 1. Включите консоль и перейдите в меню настроек. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
 1. Запустите ваш дистрибутив Linux и убедитесь, что вы подключены к интернету.
 1. Включите консоль и **НЕ** нажимайте на кнопки контроллеров Wii Remote.
 1. Запустите следующие комманды:
@@ -51,13 +51,13 @@ chmod +x bluebomb-helper.sh
 1. Включите консоль и **НЕ** нажимайте на кнопки контроллеров Wii Remote.
 1. Нажмите кнопку синхронизации до тех пор, пока терминал не покажет `got connection handle`. Может потребоваться много попыток, так что не сдавайтесь.
 
-Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
+Убедитесь, что консоль находится близко к компьютеру во время запущенного эксплоита, в идеале это должно быть менее метра.
 {: .notice--info}
 
-The console should now boot to the HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
+Консоль должна загрузится в HackMii installer. Теперь вы можете выключить ваш компьютер.
 
-[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
+[Если используете Wii, продолжите к установке Homebrew Channel и BootMii](hbc)
 {: .notice--info}
 
-[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
+[Если используете Wii mini, продолжите к установке Homebrew Channel](hbc-mini)
 {: .notice--info}

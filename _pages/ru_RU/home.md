@@ -14,7 +14,7 @@ excerpt: "Полное руководство по моддингу Nintendo Wii
 
 ## Что такое "homebrew"?
 
-[**Homebrew**](https://ru.wikipedia.org/wiki/Homebrew_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B)) позволяет запускать программное обеспечение, которое не лицензировано Nintendo. Это включает в себя игры, приложения, эмуляторы и многое другое!
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) позволяет запускать программное обеспечение, которое не лицензирована Nintendo. Это включает в себя игры, приложения, эмуляторы и многое другое!
 
 Запустить homebrew на Nintendo Wii можно бесплатно, используя ошибки в программном обеспечении Wii. Модификации, установленные по этому руководству, предоставят вам лёгкий и постоянный доступ к Wii homebrew.
 
@@ -31,7 +31,7 @@ excerpt: "Полное руководство по моддингу Nintendo Wii
 - Восстановить онлайн сервисы, такие как [WiiConnect24](riiconnect24) и [Nintendo WFC services](wiimmfi).
 - Резервировать и восстанавливать копии памяти вашей Wii (NAND), используя [BootMi](bootmii).
 - Защитить вашу Wii от превращения в "кирпич", используя [Priiloader](priiloader) и BootMii.
-- Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
+- Превратить ваш Wii в медиа плеер, вместе с [WiiMC](https://oscwii.org/library/app/wiimc-ss).
 
 
 ## Готовы?

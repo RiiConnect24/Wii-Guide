@@ -15,14 +15,15 @@ Priiloader adaugă un nivel de protecție anti-brick consolei tale Wii. El rulea
 {: .notice--warning}
 
 #### De ce ai nevoie
-* Un card SD sau o unitate USB
-* [instalatorul Priiloader](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+
+- Un card SD sau o unitate USB
+- [instalatorul Priiloader](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
 #### Instrucțiuni
+
 ##### Secțiunea I - Descărcare/Instalare
 
-1. Descarcă instalatorul Priiloader și extrage-l în cardul tău SD sau unitatea ta USB.
-    * Dacă acest dosar nu există, creează-l.
+1. Descarcă instalatorul Priiloader și extrage-l în rădăcina cardului tău SD sau unității tale USB.
 
 ##### Secțiunea II - Instalarea Priiloader
 
@@ -33,7 +34,7 @@ Priiloader adaugă un nivel de protecție anti-brick consolei tale Wii. El rulea
 ##### Secțiunea III - Deschiderea/Configurarea Priiloader
 
 1. Ține apăsat butonul RESET în timp ce îți pornești Wii-ul.
-    * Dacă folosești un Wii mini, conectează o tastatură USB și ține apăsat Escape pe el în timp ce îl pornești.
+   - Dacă folosești un Wii mini, conectează o tastatură USB și ține apăsat Escape pe el în timp ce îl pornești.
 
 ![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
 
@@ -75,7 +76,6 @@ Asta este o lista cu hack-urile care le poți activa cu Priiloader.
 | Lock System Menu with Black Screen      | Face Meniul Wii să încarce un ecran negru, facându-l imposibil de folosit. (Nu activa asta)                                                                                                                                             |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Reactivează canalele cu aceste ID-uri de titlu (original blocate în actualizări de sistem datorită faptului că sunt exploit-uri).                                                                                                       |
 | Force Disc Games to run under IOS249    | Forțează discurile să folosească cIOS 249 ca IOS-ul jocului. Deși nu poate permite jucarea jocurilor inscripționate, este necesar pentru a juca discuri cu jocuri inscripționate. (Îți poate da Eroarea 002 pe un joc ne-inscripționat) |
-
 
 [Continue to the Dos and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
 {: .notice--info}

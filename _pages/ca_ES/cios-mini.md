@@ -1,59 +1,59 @@
 ---
-title: "d2xl cIOS for Wii mini (experimental)"
+title: "cIOS d2xl per a la Wii mini (experimental)"
 ---
 
 {% include toc title="Continguts" %}
 
-This tutorial will tell you how to install Leseratte's d2xl Wii mini cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
+Aquest tutorial us ensenyarà a instal·lar el cIOS "Leseratte's d2xl Wii mini cIOS" (IOS costumizat). Açò és requerit si vols carregar jocs amb un "USB Loader". Alguns programes "homebrew" poden funcionar millor emprant cIOS.
 
-![instalador d2x cIOS](/images/cIOS.png)
+![instal·lador d2x cIOS](/images/cIOS.png)
 
-This guide is only intended for Wii mini users. If you have a Wii, follow [this guide](cios) instead.
+Aquesta guia només està pensada per a usuaris de la Wii mini. Si tens una Wii, aleshores segueix[aquesta guia](cios).
 {: .notice--warning}
 
 Si necessites ajuda amb qualsevol cosa relacionada amb aquest tutorial, per favor uneix-te a [ el Discord de Hackejar la Wii Mini ](https://discord.gg/6ryxnkS) (recomanat)
-{: . notícia--informació}
+{: .notice--info}
 
-This d2x cIOS installer was originally developed for the Wii U's vWii by DaveBaol and custom cIOS was created by Leseratte for the Wii mini. The original download page can be found [here](https://wii.leseratte10.de/d2xl-cIOS/). Leseratte's Github page can be found [here](https://github.com/Leseratte10/d2xl-cios). Please note that this cIOS is still experimental, though no problem with functionality has been reported.
-{: . notícia--informació}
+Aquest instal·lador d2x cIOS fou originalment desenvolupat per a la vWii de la Wii U per DaveBaol i el cIOS costumizat creat per Leseratte per a la Wii mini. La pàgina de descàrrega original pot ser trobada [açí](https://wii.leseratte10.de/d2xl-cIOS/). La pàgina de GitHub de Lesetatte pot ser trobada [açí](https://github.com/Leseratte10/d2xl-cios). Per favor, tingues en compte que aquest cIOS encara és experimental, tot i que cap problema amb funcionalitat ha sigut reportat.
+{: .notice--info}
 
-#### What you need
+#### Què necessitaràs?
 
-* A Wii mini with the Homebrew Channel installed
-* A USB drive
-* Leseratte's [d2xl cIOS Installer](/assets/files/d2xl_wii_mini_cIOS_installer_v1_beta2.zip)
+* Una Wii mini amb el "Homebrew Channel" instal·lat
+* Un Pendrive USB
+* L'[instal·lador del cIOS d2xl](/assets/files/d2xl_wii_mini_cIOS_installer_v1_beta2.zip) de Leseratte
 
 #### Instruccions
 
-##### Section I - Downloading
+##### Secció I - Descarregar
 
-1. Extract the d2xl cIOS Installer to the `apps` folder on your USB drive.
-1. Insert your USB drive into your Wii mini and load the d2xl cIOS Installer from the Homebrew Channel.
+1. Extrau l'instal·lador del cIOS d2xl a la carpeta `apps` del teu Pendrive USB.
+1. Introduïu la seva tarjeta SD o Pendrive a la seva Wii, i obriu l'instalador d2x cIOS des-del Canal Homebrew (Homebrew Channel).
 
-##### Section II - Installing
+##### Secció II - Instalant
 
-1. Press continue, then set the options to the following:
+1. Premeu continuar, després fixeu les opcions a les següents:
     ```
     Select cIOS: d2xl-v1-beta2
     Select cIOS base: 57
     Select cIOS slot: 249
     ```
-Take a note of the version number under notes (`IOS57-64-` ending in either `v31776` or `v31775`)
-1. Once set, press A to install. Once done successfully, exit the installer.
-   - If the install fails with a `TMD version mismatch` error, press left or right on the +Control Pad over the `Select cIOS base` option until the version number is different than the one you tried before. The number 57 will not change.
+Tingues en ment el número de la versió davall de les notes (`IOS57-64` acabant en `v31776` o `v31775`)
+1. Una volta preparat, prem A per a instal·lar. Una vegada completat amb èxit, ix de l'instal·lador.
+   - Si la instal·lació falla amb l'error `TMD version mismatch`, prem esquerra o dreta a la +Crosseta de Control sobre l'opció `Select cIOS base` fins que el número de versió sigui diferent del que vas emprar abans. El número 57 no canviarà.
 
 
-##### Enabling Ethernet
-If you wish to use Wiimmfi with Ethernet on a Wii mini, you have to run the [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip) app made by Fullmetal5. To run it, just unzip it in the `apps` folder of your USB drive and run it from the Homebrew Channel.
+##### Activant Ethernet
+Si vols utilitzar Wiimmfi amb Ethernet a la Wii mini tens que còrret l'aplicació "[Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip)" creada per Fullmetal5. Per a córrer-la, només descomprimeix-la a la carpeta `apps` del teu Pendrive USB i carrega-la des-del "Homebrew Channel".
 
-The Wii and Wii mini consoles are only known to work with Ethernet adapters using the AX88772 chip. Please check that the product is compatible before you buy. This one from UGREEN is known to be compatible: [Amazon Europe](https://www.amazon.de/dp/B00MYT481C), [Amazon US](https://www.amazon.com/dp/B08DRKYKMM/)
-{: . notícia--informació}
+Les consoles Wii i Wii mini només funcionen amb adaptadors d'Ethernet que empren el xip AX88772. Per favor, assegura't que el producte és compatible abans de comprar-lo. Aquest és de UBREEN i és compatible: [Amazon Europa](https://www.amazon.de/dp/B00MYT481C), [Amazon EEUU](https://www.amazon.com/dp/B08DRKYKMM/)
+{: .notice--info}
 
-Do not attempt to install a Wii IOS or System Menu on the Wii mini. Doing so will likely brick your console.
+No intentes instal·lar un IOS de Wii o Menú del Sistema a la Wii mini. Fer-ho brickejarà la consola molt probablement.
 {: .notice--warning}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
-{: . notícia--informació}
+Ara pots utilitzar homebrew com [USB Loader GX](usbloadergx) i [WiiFlow](wiiflow).
+{: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
-{: . notícia--informació}
+[Continuar a navegació de pàgina](site-navigation)<br> Tenim molts més tutorials que podrien agradar-te.
+{: .notice--info}

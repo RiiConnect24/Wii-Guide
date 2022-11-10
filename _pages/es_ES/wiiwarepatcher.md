@@ -27,7 +27,7 @@ Esta guía es sólo para la versión de Windows de WiiWare Patcher.
 2. Pulsa cualquier tecla para iniciar el parcheador.
 3. Selecciona si quieres parchear tus juegos o si quieres descargar y parchear el `Canal Wii Speak`. ![Selecciona el modo de parcheo](/images/WiiWare-Patcher/2.JPG)
 4. Si estas parcheando tus propios juegos, copia los .WAD a la carpeta donde esta `WiiWarePatcher.bat`, presiona `1` y puls ENTER.
-5. El proceso de parcheado empezará. Be patient. ![Parcheando...](/images/WiiWare-Patcher/3.JPG)
-6. ¡Listo! ¡Listo! Patched WAD's are in the `wiimmfi-wads` folder. Install them using Wii Mod Lite or other WAD Manager.
+5. El proceso de parcheado empezará. Tengan paciencia. ![Parcheando...](/images/WiiWare-Patcher/3.JPG)
+6. ¡Listo! ¡Listo! Patched WAD's are in the `wiimmfi-wads` folder. Instálalos con Wii Mod Lite u otro gestor de WADs.
 
 [Return to Wiimmfi installation page](wiimmfi)

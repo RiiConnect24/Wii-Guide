@@ -3,13 +3,13 @@ title: "LetterBomb"
 ---
 
 Si necessites ajuda amb qualsevol cosa relacionada amb aquesta guia, uneix-te al [servidor de Discord de RiiConnect24](https://discord.gg/rc24) (recomanat) o [envia un correu electrònic a support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: . notícia--informació}
+{: .notice--info}
 
 ![LetterBomb](/images/letterbomb.png)
 
 LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
 
-#### What you need
+#### Què necessitaràs?
 - An SD card that is no more than 32GB in size
 - A Wii on System Menu version 4.3
 
@@ -35,4 +35,4 @@ LetterBomb is an exploit for the Wii that is triggered using the Wii Message Boa
 ![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
 
 [Continue to Homebrew Channel and BootMii Installation](hbc)
-{: . notícia--informació}
+{: .notice--info}

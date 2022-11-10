@@ -9,9 +9,9 @@ WiiLink and all of its services (such as Wii no Ma) are not controlled or operat
 
 [WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels Wii Room and Digicam Print Channel, and in the future will let you use the Demae Channel again.
 
-#### What you need
+#### Què necessitaràs?
 
-* An SD card or USB drive
+* Una tarjeta SD o Pendrive USB
 * A Wii with an Internet connection
 * A Windows or Unix based computer
 * [WiiLink Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
@@ -20,10 +20,10 @@ WiiLink and all of its services (such as Wii no Ma) are not controlled or operat
 
 ##### Optional: Wii Patcher
 The Wii Patcher will not work on Dolphin. If you are a Dolphin user, please use the other patchers.
-{: . notícia--informació}
+{: .notice--info}
 
 If you use the Wii Patcher, you will not need to use our other patchers.
-{: . notícia--informació}
+{: .notice--info}
 
 1. Download the WAD based on your console. For Wii it will be `WiiLink_Patcher_Wii.wad`. For vWii it will be `WiiLink_Patcher_vWii.wad`.
 2. Place the WAD in the `WAD` folder on your SD Card/USB.
@@ -37,7 +37,7 @@ If you use the Wii Patcher, you will not need to use our other patchers.
 ##### Section I - Patching WADs
 
 [If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
-{: . notícia--informació}
+{: .notice--info}
 
 1. Download the required files based on your OS. On Windows, run `WiiLinkPatcher.bat`. On Unix systems, launch terminal and type sh, then drag the `WiiLinkPatcher.sh` into the terminal and press enter.
 2. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`.
@@ -59,7 +59,7 @@ If you use the Wii Patcher, you will not need to use our other patchers.
 ##### Section II - Adding your email to SPD
 
 Adding your email to SPD will allow channels like Digicam and Demae to send files like images or links to you.
-{: . notícia--informació}
+{: .notice--info}
 
 1. Launch Digicam Print Channel from your Wii's home menu.
 2. On the bottom right, press `Address settings` and then `Yes`.
@@ -68,13 +68,13 @@ Adding your email to SPD will allow channels like Digicam and Demae to send file
 5. Once you are in the SPD main menu, choose `Digicam` in the `Choose Channel` menu. After you’ve done that, it should work!
 
 For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
-{: . notícia--informació}
+{: .notice--info}
 
 [Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
-{: . notícia--informació}
+{: .notice--info}
 
 [Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
-{: . notícia--informació}
+{: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
-{: . notícia--informació}
+{: .notice--info}

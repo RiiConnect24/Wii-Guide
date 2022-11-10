@@ -65,8 +65,8 @@ sitemap: fals
 
 **Site**
 + [Home](/)
-+ [Get Started](començar)
-+ [Preguntes Freqüents](preguntes freqüents)
++ [Get Started](get-started)
++ [Preguntes Freqüents](faq)
 + [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>

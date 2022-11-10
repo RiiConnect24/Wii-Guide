@@ -43,5 +43,7 @@ Este exploit exige que você configure seu DNS para se conectar a um servidor qu
 
 Se o Instalador HackMii não carregar e congelar (você não pode mover o seu cursor) ou não levar 1-2 minutos para ativar, por favor reinicie seu Wii e tente novamente o exploit.
 
+If you have installed a mod like CTGP Revolution or Project+, str2hax may load that instead. If it does, restart your Wii and try again without your SD card inserted.
+
 [Continue para a instalação do Homebrew Channel e BootMii](hbc)
 {: .notice--info}

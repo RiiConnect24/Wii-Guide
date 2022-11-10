@@ -1,5 +1,5 @@
 ---
-title: "RiiConnect24"
+title: "RiiConnect24 for Dolphin"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -11,10 +11,22 @@ Acest ghid te va ajuta să instalezi RiiConnect24 pe instalarea ta Dolphin.
 Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să contactezi direct KcrPL#4625 pe Discord, alătură-te [serverului de discord RiiConnect24](https://discord.gg/rc24) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
+{% capture notice-1 %}
+This guide is for [Dolphin Emulator](https://dolphin-emu.org) only.
+
+- Follow [this tutorial](riiconnect24-wii) if you'd like to install RiiConnect24 on a Wii.
+- Urmează [acest tutorial](riiconnect24-vwii) dacă vrei să instalezi RiiConnect24 pe un vWii (modul Wii pe Wii U).
+{% endcapture %}
+
+<div class="notice--warning">{{ notice-1 | markdownify }}</div>
+
+NU INSTALA RIICONNECT24 PE UN WII MINI! Nu va funcționa și îți va brick-ui consola.
+{: .notice--danger}
+
 ### De ce ai nevoie
 
-* Un calculator cu Windows 7 sau mai nou sau orice sistem bazat pe Unix
-* [.VFF-File-Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases) dacă folosești un sistem bazat pe Unix
+* A computer with either Windows 7 or newer or any Unix-based system
+* [.VFF-File-Downloader-for-Dolphin](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin/releases) if using a Unix-based system
 * [Dolphin](https://dolphin-emu.org/download/)
 * [Patcher-ul RiiConnect24](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
@@ -22,7 +34,7 @@ Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să co
 
 ##### Secțiunea I - Instalarea Dolphin
 
-Dacă ai Dolphin deja instalat, sari la Secțiunea II
+If you have Dolphin already installed, skip to Section II
 {: .notice--info}
 
 1. Descarcă ultima versiune beta de Dolphin, dar **nu o versiune stabila deoarece acestea sunt foarte învechite!**
@@ -30,7 +42,7 @@ Dacă ai Dolphin deja instalat, sari la Secțiunea II
 3. Pornește Dolphin.
 4. Apasă pe `Tools` -> `Perform Online System Update` -> Alege-ți regiunea. ![Perform Online System Update](/images/Dolphin_RC24/1.jpg)
 
-Dacă ai o consolă Wii modificată, poți folosi o [extragere BootMii a NAND-ului](bootmii) în loc să instalezi meniul de Sistem Wii prin această metodă. Vezi [această pagină](https://wiki.dolphin-emu.org/index.php?title=NAND_Usage_Guide) pentru mai multe informații.
+If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii) instead of installing the Wii System menu via this method. See [this page](https://wiki.dolphin-emu.org/index.php?title=NAND_Usage_Guide) for more information.
 {: .notice--info}
 
 ##### Secțiunea II - Instalarea RiiConnect24
@@ -39,43 +51,46 @@ Dacă ai o consolă Wii modificată, poți folosi o [extragere BootMii a NAND-ul
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'unix')">Unix</button>
 
 <div id="windows" class="blanktabcontent" markdown="1">
-1. Rulează `RiiConnect24Patcher.bat`.
-2. Deschide patcher-ul (apăsând `1`), apoi alege `Install RiiConnect24`.
-3. Alege `Dolphin Emulator` (3).
-4. Alege `Install RiiConnect24 on your Dolphin Emulator`.
-5. Apasă `1` și `Enter` pentru a începe programul.
-6. Continuă cu configurarea programului.
-7. Te va întreba dacă vrei să rulezi programul manual de fiecare dată când vrei să folosești RiiConnect24 pe Dolphin sau dacă vrei să-l rulezi automat la pornire. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
-Dacă alegi să-l rulezi manual, păstrează `RiiConnect24Patcher.bat`. Va exista o opțiune în meniu să-l rulezi manual.
+1. Run `RiiConnect24Patcher.bat`.
+2. Start the patcher (by pressing `1`), then select `Install RiiConnect24`.
+3. Select `Dolphin Emulator` (3).
+4. Select `Install RiiConnect24 on your Dolphin Emulator`.
+5. Press `1` and `Enter` to start the program.
+6. Proceed with the program configuration.
+7. It will ask you if you want to run the program manually every time you want to use RiiConnect24 on Dolphin or if you want to run it automatically on startup. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
+If you choose to manually run it, keep `RiiConnect24Patcher.bat`. There will be an option in the menu to manually run it.
 {: .notice--info}
-Dacă alegi să-l rulezi la pornire, nu trebuie să faci nimic. Dacă vrei să-l dezinstalezi în viitor, revino la `RiiConnect24Patcher.bat` și alege Settings - Manage startup VFF Downloader.
+If you choose to run it on startup, you don't have to do anything. If you want to uninstall it in the future, come back to `RiiConnect24Patcher.bat` and choose Settings - Manage startup VFF Downloader.
 {: .notice--info}
 
-8. Apasă orice tastă pentru a te întoarce în patcher-ul RiiConnect24.
-9. Odată ce te întorci în Patcher-ul RiiConnect24, apasă `1` și apoi `Enter`.
-10. Alege-ți regiunea (Europa sau SUA). Patcher-ul acum va începe să modifice fișierele WAD.
-11. Odată ce este gata, apasă 2 (asta va închide patcher-ul) și apoi mergi la dosarul unde se află `RiiConnect24Patcher.bat`. Ar trebui să existe un `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` sau un `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`, precum și un fișier `Everybody Votes Channel ([your-selected-region]) (Channel) (RiiConnect24).wad` în dosarul WAD acolo.
-12. În Dolphin, apasă `Tools` și apoi `Install WAD` și alege `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` sau `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`. Procedează la fel pentru `Everybody Votes Channel ([your-selected-region]) (Channel) (RiiConnect24).wad`.
+8. Press any key to go back to the RiiConnect24 patcher.
+9. Once back in the RiiConnect24 Patcher, press `1` and then `Enter`.
+10. Select your region (Europe or USA). The patcher will now begin to patch the WAD files.
+11. Once it's done, press 2, (this will close the patcher) and then go to the directory that `RiiConnect24Patcher.bat` is in. There should be be a `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`, as well as an `Everybody Votes Channel ([your-selected-region]) (Channel) (RiiConnect24).wad` file in the WAD folder there.
+12. In Dolphin, press `Tools` and then `Install WAD`, and select the `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`. Do the same for `Everybody Votes Channel ([your-selected-region]) (Channel) (RiiConnect24).wad`.
 </div>
 
 <div id="unix" class="blanktabcontent" markdown="1">
-1. Rulează `VFF-Downloader-for-Dolphin.sh`. ![Meniul Principal](/images/Dolphin_RC24/2.jpg)
-3. Continuă cu configurarea programului.
-4. Te va întreba dacă vrei să rulezi programul manual de fiecare dată când vrei să folosești RiiConnect24 pe Dolphin sau dacă vrei să-l rulezi automat la pornire. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
+The screenshots in this section are taken from Windows, but the same steps can be followed on your Unix-based machine.
+{: .notice--info}
+
+1. Run `VFF-Downloader-for-Dolphin.sh`. ![Meniul Principal](/images/Dolphin_RC24/2.jpg)
+3. Proceed with the program configuration.
+4. It will ask you if you want to run the program manually every time you want to use RiiConnect24 on Dolphin or if you want to run it automatically on startup. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
 ![Run once](/images/Dolphin_RC24/4.jpg)
-Dacă alegi să-l rulezi manual, păstrează `VFF-Downloader-for-Dolphin.sh`. Va exista o opțiune în meniu să-l rulezi manual.
+If you choose to manually run it, keep `VFF-Downloader-for-Dolphin.sh`. There will be an option in menu to manually run it.
 {: .notice--info}
-Dacă alegi să-l rulezi la pornire, nu trebuie să faci nimic. Dacă vrei sa-l dezinstalezi în viitor, revino la `VFF-Downloader-for-Dolphin.sh` și alege - Manage startup VFF Downloader.
+If you choose to run it on startup, you don't have to do anything. If you want to uninstall it in the future, come back to `VFF-Downloader-for-Dolphin.sh` and choose - Manage startup VFF Downloader.
 {: .notice--info}
-5. Rulează `RiiConnect24Patcher.sh`.
-6. Începe patcher-ul și alege `Install RiiConnect24`. ![Select Custom](/images/Dolphin_RC24/5.jpg)
-7. Alege `Custom`. ![Select Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
-8. Apasă`1` pentru a-ți selecta regiunea și activează numai opțiunea a 5-a. Apasă `6` pentru a începe modificarea.
-9. După ce este gata, va exista un fișier `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` sau `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` în dosarul WAD de lângă `RiiConnect24Patcher.sh`
-10. În Dolphin, apasă `Tools` și apoi `Install WAD` și alege `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` sau `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
+5. Run `RiiConnect24Patcher.sh`.
+6. Start the patcher, select `Install RiiConnect24`. ![Select Custom](/images/Dolphin_RC24/5.jpg)
+7. Select `Custom`. ![Select Check Mii Out Channel](/images/Dolphin_RC24/6.jpg)
+8. Press `1` to select your region and only enable 5th option. Press `6` to start patching.
+9. After it's done, there will a be a `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad` file in WAD folder next to `RiiConnect24Patcher.sh`
+10. In Dolphin, press `Tools` and then `Install WAD`, and select the `Mii Contest Channel (Europe) (Channel) (RiiConnect24).wad` or `Check Mii Out Channel (USA) (Channel) (RiiConnect24).wad`.
 </div>
 
-Totul este gata! Din păcate, Nintendo Channel și Wii Mail nu funcționează în Dolphin încă.
+You're all done! Unfortunately, the Nintendo Channel and Wii Mail don't work in Dolphin yet.
 {: .notice--info}
 
 <script>
