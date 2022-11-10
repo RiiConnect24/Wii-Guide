@@ -66,7 +66,6 @@ If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii)
 ![It's done!](/images/RC24_Patcher/10.JPG)
 ![Files copied](/images/RC24_Patcher/11.PNG)
 12. In Dolphin, go to `Tools` and then `Install WAD`. Install all the WAD files one by one.
-</div>
 
 You're all done! Unfortunately, Wii Mail doesn't work in Dolphin yet.
 {: .notice--info}
