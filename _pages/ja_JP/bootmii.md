@@ -26,11 +26,11 @@ BootMiiをboot2としてインストールしている場合は、本体を再�
 1. Homebrew Channelを起動します。
 2. ホームボタンを押し、「Launch BootMii」を選択します。
 
-    Wiiリモコンを使用してBootMiiを操作することはできません。 本体のPOWERとRESETボタン、またはポート1に接続されているGameCubeコントローラを使う必要があります。 To select an option, press RESET on your Wii or A on your GameCube controller. To navigate between options, press POWER on your Wii (or right on the +Control Pad on a GameCube controller).
+    Wiiリモコンを使用してBootMiiを操作することはできません。 本体のPOWERとRESETボタン、またはポート1に接続されているゲームキューブコントローラを使う必要があります。 選択するには、WiiのRESETボタンを押すかGCコンのAを押します。 選択を移動するには、WiiのPOWERボタンを押すかGCコンの十字キーを使います。
     {: .notice--info}
 
 
-    If the screen stays black and the blue disc drive light is blinking, you are missing the BootMii files on your SD card. Download [this zip file](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
+    画面が黒いままでディスクドライブが青く点滅している場合、SDカードにBootMiiファイルがありません。 Download [this zip file](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
     {: .notice--warning}
 
 3. オプションボタン（歯車のアイコン）を選択します。
