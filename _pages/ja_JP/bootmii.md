@@ -30,7 +30,7 @@ BootMiiをboot2としてインストールしている場合は、本体を再�
     {: .notice--info}
 
 
-    画面が黒いままでディスクドライブが青く点滅している場合、SDカードにBootMiiファイルがありません。 Download [this zip file](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
+    画面が黒いままでディスクドライブが青く点滅している場合、SDカードにBootMiiファイルがありません。 [このZIPファイル](https://static.hackmii.com/bootmii_sd_files.zip)をダウンロードしてSDカードのルートへ展開して、やり直してください。
     {: .notice--warning}
 
 3. オプションボタン（歯車のアイコン）を選択します。
@@ -39,13 +39,13 @@ BootMiiをboot2としてインストールしている場合は、本体を再�
 - "Bad Blocks"と表示されても異常ありません。 NANDバックアップにいくつか表示されても心配いりません。
 - 次に、バックアップが検証されます。 検証することをお勧めしますが、WiiのEJECTボタンを押せばスキップもできます。 ドライブにディスクが挿入されている場合は、EJECTを押すとディスクも取り出されることに注意してください。
 5. バックアップが完了したら、任意のボタンを押してNANDバックアップ画面を終了します。
-6. To exit BootMii, press the Back button (the one with the arrow) and then you can press either the Wii Menu button or the Homebrew Channel button to exit where you want to.
+6. BootMiiを終了するには、戻るボタン（矢印）を押してから、WiiメニューボタンまたはHomebrew Channelボタンを押します。選んだ場所に戻れます。
 
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). これは、もしもWiiがブリックした場合に役立ちます。
+SDカードにあるNANDバックアップから復元するには、RestoreMii（左側の2番目、赤い矢印のアイコン）を使って画面の指示に従います。 これは、もしもWiiがブリックした場合に役立ちます。
 {: .notice--info}
 
-To make sure you don’t lose the files, it's recommended to copy `nand.bin` and `keys.bin` from the root of your SD card to your computer.
+バックアップファイルを失くさないように、`nand.bin`と`keys.bin`をSDカードからパソコンにコピーしておくことをお勧めします。
 {: .notice--info}
 
-[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii as IOS.
+[Priiloaderのインストールに進む](priiloader)<br>Priiloaderはブリック予防機能を追加します。特に、BootMiiをIOSとしてしかインストールできなかった場合にはこれを推奨します。
 {: .notice--info}
