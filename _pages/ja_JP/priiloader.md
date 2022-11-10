@@ -7,7 +7,7 @@ title: "Priiloader"
 このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
 {: .notice--info}
 
-Priiloaderは、Wiiにブリック防止の手段を追加します。 Wiiメニューの起動前に読み込まれます（これが名前の所以です）。 The tool can also enable hacks for your Wii Menu, and be used to quickly launch the Homebrew Channel, BootMii, or whatever homebrew you want!
+Priiloaderは、Wiiにブリック防止の手段を追加します。 Wiiメニューの起動前に読み込まれます（これが名前の所以です）。 さらにWiiメニューのハックが可能になり、Homebrew ChannelやBootMiiなどのHomebrewをすばやく起動することも可能になります！
 
 ![Priiloader](/images/priiloader.jpg)
 
@@ -41,10 +41,10 @@ PriiloaderをvWii（Wii U の Wii モード）にインストール**しない�
 2. Priiloaderメニューが表示されます。 ![Menu](/images/Priiloader/mainmenu.png)
 3. `System Menu Hacks`に移動します。
 
-If you are using a USB drive to install Priiloader, make sure you do not have an SD card inserted at the same time. This will cause Priiloader to be unable to find the hacks_hash.ini file.
+PriiloaderをUSB ドライブからインストールする場合は、ここでSDカードが挿入されていないことを確認してください。 挿したままだとPriiloaderがhacks_hash.iniファイルを見つけられません。
 {: .notice--info}
 
-4. We recommend you turn on the following hacks: `Region Free EVERYTHING`, `Block Disc Updates` and `Block Online Updates`. ![System Menu Hacks](/images/Priiloader/hacks.png)
+4. `Region Free EVERYTHING`・`Block Disc Updates`・`Block Online Updates`のハックがおすすめです。 ![System Menu Hacks](/images/Priiloader/hacks.png)
 1. `save settings`までスクロールしてAを押し、次いでBを押してPriiloaderのメインメニューに戻ります。
 1. `Homebrew Channel`までスクロールしてAを押して起動します。
 
