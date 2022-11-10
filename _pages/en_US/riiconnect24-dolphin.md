@@ -71,3 +71,4 @@ You're all done! Unfortunately, Wii Mail doesn't work in Dolphin yet.
 {: .notice--info}
 
 Dolphin now supports WiiConnect24 natively. It's not perfect, but it works enough. Issues include having error code 109144 on the region selector, or having to open the Everybody Votes Channel multiple times during initial setup in order to see the poll questions.
+{: .notice--warning}
