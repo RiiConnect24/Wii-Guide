@@ -29,14 +29,14 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). Dat zal resulteren 
 
 1. Open het Homebrew Kanaal op uw Wii.
 2. Launch the Priiloader installer.
-3. Press the + Button on Wii Remote or the A Button on a GameCube controller. ![Install Priiloader](/images/Priiloader/installer.png) ![Installing](/images/Priiloader/installing.png)
+3. Press the + Button on Wii Remote or the A Button on a GameCube controller. ![Install Priiloader](/images/Priiloader/installer.png) ![Installeren](/images/Priiloader/installing.png)
 
 ##### Deel III - Openen en het Configureren van Priiloader
 
 1. Hold the RESET button while turning on your Wii.
    - If you are using a Wii mini, plug in a USB keyboard and hold Escape on it while turning it on.
 
-![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
+![Inschakelen](/images/Priiloader/on.jpg) ![Houd RESET ingedrukt](/images/Priiloader/reset.jpg)
 
 2. You should see the Priiloader menu. ![Menu](/images/Priiloader/mainmenu.png)
 3. Go to `System Menu Hacks`.
