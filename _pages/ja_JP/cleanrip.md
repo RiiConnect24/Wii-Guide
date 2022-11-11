@@ -1,20 +1,20 @@
-#### What you need
+#### 必要なもの
 
-* An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
+* 4.7GB（二層ディスクの場合は8.5GB）以上の空き容量を持つSDカードまたはUSBドライブ
 * [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
 #### 手順
 
-##### Section I - Downloading/Installing
+##### セクション I - ダウンロードとインストール
 
-1. Extract CleanRip and put it in the `apps` folder on your SD card or USB drive.
-1. Insert your SD card into your Wii, and launch CleanRip from the Homebrew Channel.
+1. CleanRipを展開し、SDカードまたはUSBドライブの`apps`フォルダに入れます。
+1. WiiにSDカードを挿入し、Homebrew ChannelからCleanRipを起動します。
 
-##### Section II - Ripping
+##### セクションII - リッピング
 
-1. Select your device that you will be dumping the game to - your USB drive or SD card. ![Device type](/images/CleanRip/2.png)
+1. 保存先をUSBドライブとSDカードから選択してください。 ![Device type](/images/CleanRip/2.png)
 1. On this screen, it asks you if you want to download a file with game checksums so you can verify the dump created is a 1:1 copy of the disc. It's your choice whether to say `Yes` or `No` to download this file. ![DAT](/images/CleanRip/3.png)
-1. Now insert the game you want to dump. ![DVD](/images/CleanRip/4.png) ![Initialising Disc](/images/CleanRip/5.png)
+1. 吸い出したいゲームを挿入します。 ![DVD](/images/CleanRip/4.png) ![Initialising Disc](/images/CleanRip/5.png)
 1. Set it as shown on the screen below.
 
 title: "CleanRip"
