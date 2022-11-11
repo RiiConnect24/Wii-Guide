@@ -7,7 +7,7 @@ title: "RiiConnect24"
 このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
 {: .notice--info}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![RiiConnect24ロゴ](/images/WiiRC24Logo.jpg)
 
 [RiiConnect24](https://rc24.xyz/) allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail.
 
@@ -28,7 +28,7 @@ DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick th
 * SDカードまたはUSBドライブ
 * インターネットに接続されたWii
 * パソコン
-* [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+* [RiiConnect24 Patcher（Windows・Mac・Linux）](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### 手順
 
@@ -41,18 +41,18 @@ If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord ser
 2. Download `RiiConnect24Patcher.bat` if you are on Windows, and `RiiConnect24Patcher.sh` if you are on a Unix system
 3. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open Terminal and type `bash`, then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this: `bash RiiConnect24Patcher.sh`.
 4. 「`Start`」を選ぶために`1`を押してから、`ENTER`を押して。 (NOTE: These screenshots are from the Windows version of the patcher.) ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
-5. Select the device you're patching for. ![Select your device](/images/RC24_Patcher/2.JPG)
-6. For this guide, choose "`Install RiiConnect24 on your Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
+5. Select the device you're patching for. ![デバイスを選択](/images/RC24_Patcher/2.JPG)
+6. For this guide, choose "`Install RiiConnect24 on your Wii`" ![RiiConnect24をインストール](/images/RC24_Patcher/3.JPG)
 7. Choose "`Express (Recommended)`". It will give you everything you need. ![Express Settings](/images/RC24_Patcher/4.JPG)
-8. Select your region. ![Select your region](/images/RC24_Patcher/5.JPG)
+8. Select your region. ![地域を選択](/images/RC24_Patcher/5.JPG)
 9. While you're at it, RiiConnect24 Patcher can additionally download some other optional channels that do not use RiiConnect24. `[X]` represents the options that selected. Just press 5 and `ENTER` if you're not interested. ![Additional optional channels](/images/RC24_Patcher/6.JPG)
-10. Connect your SD Card or USB Drive to your computer and select "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
+10. Connect your SD Card or USB Drive to your computer and select "`1`". ![SDカードへのコピーを有効化](/images/RC24_Patcher/7.JPG)
 11. デバイスの検出は効果的だ時、「`1`」を選んで デバイスの検出は効果的だ時、「`1`」を選んで If not, make sure there's a folder called `apps` on your SD Card or USB Drive and try again. ![Successfully detected](/images/RC24_Patcher/8.JPG)
 12. Be patient... ![It's patching!](/images/RC24_Patcher/9.JPG)
 13. After it's done, we would appreciate if you take a minute to send anonymous feedback to us.  If you don't want to, close the patcher. All the files should already be on your SD Card. ![It's done!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
 14. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
 
-##### Section II - Installing WADs
+##### セクション II - WADのインストール
 
 You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
