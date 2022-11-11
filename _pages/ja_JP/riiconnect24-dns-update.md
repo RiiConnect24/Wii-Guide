@@ -5,7 +5,7 @@ title: "RiiConnect24 DNS Update"
 このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
 {: .notice--info}
 
-![RiiConnect24 Logo](/images/logo_blue_warning.png)
+![RiiConnect24ロゴ](/images/logo_blue_warning.png)
 
 Our official DNS Address has been updated. We require all users to change it. Failure in doing so will result in losing access to most or every RiiConnect24 service.
 
