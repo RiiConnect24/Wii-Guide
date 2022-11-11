@@ -2,7 +2,7 @@
 title: "BlueBomb"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="目次" %}
 
 **どんな**Wii miniの改造動画にも従わないよう**強く**忠告します。**ブリックする**危険性が非常に高いからです（訳注：Wii miniは日本国内では発売されていません。以下Wii miniに関する翻訳は省略することがあります）。
 {: .notice--warning}
