@@ -13,7 +13,7 @@ We do not recommend using "WAD Manager" by Waninkoko.
 {: .notice--warning}
 
 #### What you need
-* An SD card or USB drive
+* SDカードまたはUSBドライブ
 * [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 #### 手順
