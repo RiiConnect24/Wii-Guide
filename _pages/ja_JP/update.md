@@ -11,7 +11,7 @@ This tutorial will explain how to update your Wii Menu to version 4.3, if you ha
 
 #### What you need
 
-* An SD card or USB drive
+* SDカードまたはUSBドライブ
 * A computer with Windows on it
 * [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest)
 * [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
