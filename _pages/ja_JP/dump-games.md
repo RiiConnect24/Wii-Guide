@@ -1,19 +1,19 @@
 ---
-title: "Dumping Wii/GameCube games"
+title: "Wii・ゲームキューブソフトのバックアップ"
 ---
 
-Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
+ゲームキューブやWiiのソフトをバックアップお考えですか？ 利用できるツールに応じて、二つの方法があります。
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">To a PC over the network</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">SDカード・USBドライブへ保存</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">ネットワーク経由でパソコンに保存</button>
 
 {% capture cleanripInstructions %}
-### Cleanrip guide
+### CleanRipガイド
 {% include_relative cleanrip.md %}
 {% endcapture %}
 
 {% capture networkInstructions %}
-### Dumping a game over a local network
+### ローカルネットワーク経由でソフトをバックアップ
 {% include_relative dump-smb.md %}
 {% endcapture %}
 
