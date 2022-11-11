@@ -7,7 +7,7 @@ title: "Wiimmfi"
 このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
 {: .notice--info}
 
-![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
+![Wiimmfiロゴ](/images/WiiWiimmfiLogo.jpg)
 
 [Wiimmfi](https://wiimmfi.de) is a replacement service for the now-defunct Nintendo Wi-Fi Connection. WiimmとLeseratteによって開発されました。
 
@@ -30,7 +30,7 @@ If you have an older version of Priiloader or don't have it installed, follow [t
 1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
 2. `System Menu Hacks`に移動します。
 3. Make sure the `Wiimmfi patch v4` hack is enabled.
-4. Save settings and exit.
+4. 設定を保存して終了します。
 
 If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
 {: .notice--warning}
@@ -57,7 +57,7 @@ Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for th
 
 #### 手順
 
-1. Insert your game disc.
+1. ゲームディスクを挿入します。
 2. Go into your internet connection settings and set the DNS server of your console to 95.217.77.151.
 3. Go to the WC24 contract information (third button after clicking on "Internet" in the settings).
 4. Confirm that you do want to use WC24 and the shop channel
@@ -89,7 +89,7 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 #### 必要なもの
 
 - SDカード
-- Your copy of your game (in WAD format)
+- ゲームのコピー（WAD形式）
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
   **or**
 - [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (cross platform)
@@ -98,7 +98,7 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 [If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
 {: .notice--info}
 
-Steps:
+手順
 1. Extract the .zip of the latest version of WiiWare Patcher, and put your WAD in it.
 2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
 3. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
@@ -113,9 +113,9 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 - SDカードまたはUSBドライブ
 - Mario Kart Wii Competition Patcher
    - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
-   - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
+   - [Wii U（vWii）](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
-#### Instructions (for Wii)
+#### 手順（Wii用）
 
 1. Extract Mario Kart Wii Competition Patcher and put it in the `apps` folder on your SD Card.
 2. Insert your SD card or USB drive into the Wii.
@@ -140,7 +140,7 @@ Getting a Wi-Fi network with WEP or no security is the hardest part, because DS 
 #### 手順
 
 1. Go in the Nintendo DS Wi-Fi settings. This can be accessed inside the game you want to play online with.
-2. Set up a connection.
+2. 接続を設定します。
 3. プライマリDNSに`167.86.108.126`を入力します。
 4. セカンダリDNSに`1.1.1.1`を入力します。
 5. Save your connection settings and perform a connection test. If it's successful, then you're ready to play.
