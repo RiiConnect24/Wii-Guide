@@ -2,7 +2,7 @@
 title: "vWiiでWiiメニューテーマをインストールする"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="目次" %}
 
 Are you tired of the boring, plain white theme on your Wii Menu, and want a cool theme instead? This tutorial will help you get a new theme for your Wii Menu!
 
