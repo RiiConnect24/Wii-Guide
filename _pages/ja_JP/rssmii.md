@@ -13,7 +13,7 @@ Do you want to get RSS feed updates on your Wii Message Board? This tutorial wil
 
 #### What you need
 
-* An SD card
+* SDカード
 * [RSSMii](https://github.com/RiiConnect24/rssmii/releases)
 
 #### 手順
@@ -59,5 +59,5 @@ We recommend you use just a few feeds, because if you subscribe to a lot of feed
 If you're not receiving updates after a few days, you might need to subscribe to the RSS feeds again. Launch RSSMii from the Homebrew Channel again and it'll create brand new subscriptions.
 {: .notice--info}
 
-[Removing RSSMii](rssmii-remove)
+[RSSMiiを削除する](rssmii-remove)
 {: .notice--info}
