@@ -12,12 +12,12 @@ Your Wii and your computer must be connected to one local network
 
 #### 手順
 
-##### Section I - Downloading/Installing
+##### セクション I - ダウンロードとインストール
 
 1. Extract DVD Dump Tool and put it in the `apps` folder on your SD card or USB drive.
 1. Insert your SD card into your Wii, and launch DVD Dump Tool from the Homebrew Channel.
 
-##### Section II - Ripping
+##### セクションII - リッピング
 
 1. Press the right button on the d-pad and press "A" ![2](/images/DumpDiscs_LAN/2.png)
 1. Choose the disc that you want to copy (The options are: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` and press "A" ![3](/images/DumpDiscs_LAN/3.png)
