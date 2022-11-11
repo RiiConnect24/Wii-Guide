@@ -1,5 +1,5 @@
 ---
-title: "Removing RSSMii"
+title: "RSSMiiを削除する"
 ---
 
 このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
@@ -7,11 +7,11 @@ title: "Removing RSSMii"
 
 If you no longer wish to use RSSMii (maybe because it gives you too much Wii Mail), here's how to remove it.
 
-![Removing RSSMii](/images/rssmii-remove.png)
+![RSSMiiを削除する](/images/rssmii-remove.png)
 
-#### What you need
+#### 必要なもの
 
-* An SD card
+* SDカード
 * [RSSMii Remover](https://github.com/RiiConnect24/rssmii/releases)
 
 #### 手順
