@@ -2,7 +2,7 @@
 title: "Priiloader"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="目次" %}
 
 このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
 {: .notice--info}
@@ -77,5 +77,5 @@ PriiloaderをUSB ドライブからインストールする場合は、ここで
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | これらのタイトルIDを持つチャンネルを再度有効にします（エクスプロイトの原因だったため更新で無効化されたものです）。                                                                                                            |
 | Force Disc Games to run under IOS249    | ディスクでゲームIOSにcIOS249を使用します。 While it cannot allow playing of burned games on its own, it is needed to play burned discs. (Can give you Error 002 on a non-burned game) |
 
-[Wii改造のマストとタブーに進む](dosanddonts)<br> 絶対にWiiをブリックしないためのガイドラインです。
+[Wii改造のマストとタブーに進む](dosanddonts)<br> 確実にWiiをブリックしないためのガイドラインです。
 {: .notice--info}
