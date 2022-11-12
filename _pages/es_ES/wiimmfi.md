@@ -141,8 +141,8 @@ Tener una red Wi-Fi con seguridad WEP o sin seguridad es la parte más difícil,
 
 1. Ve a la configuración de Wi-Fi del Nintendo DS. Se puede acceder dentro del juego que quieras jugar en línea.
 2. Configura una conexión.
-3. Type in `167.86.108.126` as the primary DNS.
-4. Type in `1.1.1.1` as the secondary DNS.
+3. Escriba `167.86.108.126` como DNS primario.
+4. Escriba `1.1.1.1` como DNS secundario.
 5. Guarda tu configuración de conexión y realiza una prueba de conexión. Si la prueba sale exitosa, estás listo para jugar.
 
 ### Mods de Mario Kart Wii
@@ -151,7 +151,7 @@ Tener una red Wi-Fi con seguridad WEP o sin seguridad es la parte más difícil,
 MrBean35000vr y Chadderz tienen una increíble distribución de circuitos personalizados llamada CTGP-R, que además incluye un parche de Wiimmfi automático incluido. Visita el [Sitio web de ChadSoft](http://chadsoft.co.uk) para la descarga y las instrucciones.
 
 #### MKW Hack Pack
-PhillyG has put together a collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. Para aprender a configurarlo, visita la [wiki](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+PhillyG ha reunido una colección de pistas personalizadas y hacks llamada MKW Hack Pack, y permite conexiones a Wiimmfi. Para aprender a configurarlo, visita la [wiki](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
 
 #### Wiimms Mario Kart Fun
 Wiimm y Leseratte tienen una Distribución de circuitos personalizados llamada "Wiimms MKW Fun", que se actualiza unas 3 veces al años. Esta basada en el sistema LE-CODE de Leseratte, tiene soporte para Wiimmfi, y muchas otras caracteristicas. Puedes encontrar mas informacion sobre esto en la [Wiki](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).

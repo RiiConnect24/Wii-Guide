@@ -15,7 +15,7 @@ Zde je seznam věcí, které byste měli nebo neměli dělat, jakmile hacknete s
 - **Vytvářejte** NAND zálohu vašeho Wii pomocí [BootMii](bootmii) pravidelně, zvláště před něčím riskantním.
 - Instalujte skiny Wii Menu, pokud chcete, ale používejte k tomu pouze náš tutoriál a postupujte **opatrně**. ([Wii](themes) / [vWii](themes-vwii)). Jiné tutoriály mohou být zavádějící a mohou způsobit bricknutí vašeho Wii.
 - **Neinstalujte** soubory WAD nahodilých IOSů, staré verze Wii Menu apod., pokud si nejste jisti tím, co děláte, zvláště na vWii nebo Wii Mini.
-- **Nepoužívejte** staré verze homebrew aplikací. Pokud postupujete podle starých Wii modding tutoriálů z internetu (zejména starších než 2012), buďte opatrní, a to hlavně pokud se týkají věcí jako např. IOS.
+- **DO NOT** use old versions of Wii homebrew. Pokud postupujete podle starých Wii modding tutoriálů z internetu (zejména starších než 2012), buďte opatrní, a to hlavně pokud se týkají věcí jako např. IOS.
 - **Neměňte, nepřejmenovávejte ani neodstraňujte** náhodné soubory v paměti NAND, pokud si nejste jisti.
 - **Nepoužívejte** nástroj "KoreanKii" na nekorejských konzolích.
 - **Neinstalujte** žádný jiný IOS nebo Wii Menu na Wii Mini kromě [d2xl cIOS](cios-mini). Pokud tak učiníte, aniž byste ve svém Wii Mini měli připájenou WiFi kartu, konzoli si bricknete.

@@ -9,13 +9,13 @@ Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiCon
 
 ![BootMiin Logo](/images/bootmii.png)
 
-Tarvitset **SD-kortin** luodaksesi NAND-varmuuskopion BootMiin avulla. If you do not have one, you can skip this page, although it is highly recommended to make a NAND backup if you can.
+Tarvitset **SD-kortin** luodaksesi NAND-varmuuskopion BootMiin avulla. Jos sinulla ei ole sellaista, voit ohittaa tämän sivun, vaikka onkin erittäin suositeltavaa luoda NAND-varmuuskopio, jos pystyt.
 {: .notice--warning}
 
-BootMii boot2:ena on suositeltavaa, mutta asennettavissa vain aikaisimmille Wii-konsoleille. Otherwise, it can only be installed as an IOS.
+BootMii boot2:ena on suositeltavaa, mutta asennettavissa vain aikaisimmille Wii-konsoleille. Muussa tapauksessa se voidaan asentaa vain IOS:änä.
 {: .notice--info}
 
-Yksi BootMiin tärkeimmistä toiminnoista on kyky varmuuskopioida ja palauttaa Wiisi NAND-tallennustila. Käymme läpi, kuinka tehdä NAND-varmuuskopio. You can then restore from that backup for any reason. On hyvä idea tehdä NAND-varmuuskopio säännöllisesti tai ennen kuin teet jotain riskialtista konsolillesi (ja jos tiedät, mitä olet tekemässä, sinun ei tarvitse tehdä mitään riskialtista).
+Yksi BootMiin tärkeimmistä toiminnoista on kyky varmuuskopioida ja palauttaa Wiisi NAND-tallennustila. Käymme läpi, kuinka tehdä NAND-varmuuskopio. Voit sitten palauttaa siitä varmuuskopiosta syystä tai toisesta. On hyvä idea tehdä NAND-varmuuskopio säännöllisesti tai ennen kuin teet jotain riskialtista konsolillesi (ja jos tiedät, mitä olet tekemässä, sinun ei tarvitse tehdä mitään riskialtista).
 
 #### Vaatimukset
 * SD-kortti, jolla on vähintään 512mt vapaata tilaa
@@ -26,14 +26,14 @@ Jos sinulla on BootMii asennettuna boot2:ena, sinun täytyy käynnistää BootMi
 1. Käynnistä Homebrew Channel.
 2. Paina HOME-nappia, sitten valitse "Launch BootMii".
 
-    BootMiissa ei voi navigoida Wii Remotea käyttämällä. Sinun täytyy käyttää konsolin POWER- ja RESET-nappeja, tai porttiin 1 liitettyä GameCube-ohjainta. To navigate between options, press POWER on your Wii (or left/right on the +Control Pad on a GameCube controller). To select an option, press RESET on your Wii or A on your GameCube controller.
+    BootMiissa ei voi navigoida Wii Remotea käyttämällä. Sinun täytyy käyttää konsolin POWER- ja RESET-nappeja, tai porttiin 1 liitettyä GameCube-ohjainta. Navigoidaksesi asetusten välillä, paina Wiisi POWER-nappia (tai GameCube-ohjaimen ristiohjainta oikealle tai vasemmalle). Valitaksesi vaihtoehdon, paina Wiisi RESET-nappia tai GameCube-ohjaimen A-nappia.
     {: .notice--info}
 
 
-    Jos näyttö pysyy mustana ja sininen levyaseman valo vilkkuu, sinulta puuttuu BootMii-tiedostot SD-kortiltasi. Download [this zip file](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
+    Jos näyttö pysyy mustana ja sininen levyaseman valo vilkkuu, sinulta puuttuu BootMii-tiedostot SD-kortiltasi. Lataa [tämä zip tiedosto](https://static.hackmii.com/bootmii_sd_files.zip) ja pura se SD-korttisi alku hakemistoon, sitten yritä uudelleen.
     {: .notice--warning}
 
-3. Select the Options button (the icon with the gears).
+3. Valitse Options-nappi (rattaiden kuvalla).
 4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left).
 - NAND-varmuuskopiointi alkaa. Voit seurata edistymistä näytöltä.
 - "Bad Blockit" ovat tavallisia. Älä huoli nähdessäsi muutamia NAND-varmuuskopiossa.

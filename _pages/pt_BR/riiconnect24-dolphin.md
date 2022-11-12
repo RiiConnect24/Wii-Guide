@@ -1,5 +1,5 @@
 ---
-title: "RiiConnect24"
+title: "RiiConnect24 for Dolphin"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -10,6 +10,18 @@ Este guia irá ajudá-lo a instalar o RiiConnect24 em sua instalação de Dolphi
 
 Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre em contato diretamente com o KcrPL#4625 [no servidor de Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
+
+{% capture notice-1 %}
+This guide is for [Dolphin Emulator](https://dolphin-emu.org) only.
+
+- Follow [this tutorial](riiconnect24-wii) if you'd like to install RiiConnect24 on a Wii.
+- Siga [este tutorial](riiconnect24-vwii) se você quiser instalar o RiiConnect24 no vWii (Modo Wii no Wii U).
+{% endcapture %}
+
+<div class="notice--warning">{{ notice-1 | markdownify }}</div>
+
+DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
+{: .notice--danger}
 
 ### Você precisará de
 
@@ -22,7 +34,7 @@ Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre e
 
 ##### Seção I - Instalando Dolphin
 
-Se você tiver o Dolphin já instalado, pule para a Seção II
+If you have Dolphin already installed, skip to Section II
 {: .notice--info}
 
 1. Download the latest Dolphin beta version, but **not a stable version as these are very outdated!**
@@ -59,6 +71,9 @@ If you choose to run it on startup, you don't have to do anything. If you want t
 </div>
 
 <div id="unix" class="blanktabcontent" markdown="1">
+The screenshots in this section are taken from Windows, but the same steps can be followed on your Unix-based machine.
+{: .notice--info}
+
 1. Run `VFF-Downloader-for-Dolphin.sh`. ![Menu Principal](/images/Dolphin_RC24/2.jpg)
 3. Proceed with the program configuration.
 4. It will ask you if you want to run the program manually every time you want to use RiiConnect24 on Dolphin or if you want to run it automatically on startup. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)

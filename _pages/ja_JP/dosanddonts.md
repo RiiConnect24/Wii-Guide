@@ -4,7 +4,7 @@ title: "Dos and Don'ts of Wii Modding"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
 {: .notice--info}
 
 Here's a list of things you should and should not do once you've modded your Wii, to make sure you don't brick it.
@@ -15,7 +15,7 @@ Here's a list of things you should and should not do once you've modded your Wii
 - **DO** make a backup of your Wii NAND regularly with [BootMii](bootmii), especially before doing something risky.
 - **DO** install Wii Menu themes if you wish, but only use our tutorial for it carefully. ([Wii](themes) / [vWii](themes-vwii)). Other tutorials might be misleading and can cause you to brick your Wii.
 - **DO NOT** install WADs of random IOS, older versions of the Wii Menu, etc. unless you know what you're doing, especially not on vWii or a Wii Mini.
-- **DO NOT** or use old versions of Wii homebrew. If you follow Wii modding tutorials from the Internet, be cautious about using old tutorials (likely pre-2012), especially if they have to do with things such as IOS.
+- **DO NOT** use old versions of Wii homebrew. If you follow Wii modding tutorials from the Internet, be cautious about using old tutorials (likely pre-2012), especially if they have to do with things such as IOS.
 - **DO NOT** modify, rename, or delete random files on your Wii NAND unless you know what you are doing.
 - **DO NOT** use the homebrew app "KoreanKii" on a non-Korean Wii.
 - **DO NOT** Install any IOS or Wii Menu on a Wii mini other than [d2xl cIOS](cios-mini). Doing so will brick your console if a Wi-Fi card is not soldered to it.

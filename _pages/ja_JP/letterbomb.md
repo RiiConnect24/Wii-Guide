@@ -2,37 +2,37 @@
 title: "LetterBomb"
 ---
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
 {: .notice--info}
 
 ![LetterBomb](/images/letterbomb.png)
 
-LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
+LetterBombは、Wii伝言板を使用して実行されるWiiのエクスプロイトです。
 
-#### What you need
-- An SD card that is no more than 32GB in size
-- A Wii on System Menu version 4.3
+#### 必要なもの
+- 32GB以下のSDカード
+- ファームウェアバージョン4.3のWii（日本では4.3J）
 
-#### Instructions
+#### 手順
 
 
-1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
-1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, ensure `Bundle the HackMii Installer for me!` is checked, and cut either wire ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
-1. Extract the contents of the downloaded ZIP to the root of your SD card.
-1. Take out your SD card and insert it in your Wii.
-   - The SD card must be inserted in the SD card slot located in the front of the Wii. Using a USB adapter plugged into the Wii's USB port will not work.
-1. On your Wii, return to the Wii Menu and then open the Wii Message Board.
-1. Load the red letter with a bomb icon.
-   - Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
-   - In various scenarios, you may need to look at the previous or next day to find it.
-   - If you don't see the red letter, you may be using an unsupported SD card that's greater than 32GB in size.
-   - If your Wii freezes after clicking on the letter, you probably chose the wrong region when downloading the exploit. Redo Step 2 and select the correct region.
+1. Wiiで`Wii本体設定` -> `インターネット` -> `本体情報`に移動し、MACアドレスをメモします。
+1. PCで[please.hackmii.com](https://please.hackmii.com)を開きます。メモしたMACアドレスとWiiバージョン（日本なら4.3J）を選び、CAPTCHAをクリアして`Bundle the HackMii Installer for me!`にチェックを入れたら、好きな方の`Cut the 〜 wire`をクリックします。 ![HackMii画面](/images/Wii/LetterBomb-PC.png)
+1. ダウンロードしたZIPの中身をSDカードのルートに移動します。
+1. SDカードを取り出し、Wiiに挿入します。
+   - SDカードはWiiの正面にあるSDカードスロットに挿入する必要があります。 Wii背面のUSBポートに接続されたUSBアダプタを使っても動作しません。
+1. Wiiメニューに戻り、Wii伝言板を開きます。
+1. 爆弾アイコンの付いた赤い手紙を読みます。
+   - Wiiの日付が正しいことを確認してください。さもなければ手紙が見つからない可能性があります。
+   - 大抵は、赤い手紙は前の日か次の日の伝言板を探せばあります。
+   - 赤い手紙が表示されない場合は、32GB以上のサポートされていないSDカードを使用している可能性があります。
+   - 手紙をクリックしてWiiがフリーズした場合は、エクスプロイトをダウンロードする際に間違ったバージョン（4.3J以外）を選択した可能性があります。 その際はステップ2からやり直し、正しいものを選択します。
 
 
 {: .notice--warning}
 
 
-![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
+![LetterBomb Wiiメニュー（？）](/images/Wii/LetterBomb-Wii.png)
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[Homebrew ChannelとBootMiiのインストールに進む](hbc)
 {: .notice--info}

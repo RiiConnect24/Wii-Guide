@@ -1,5 +1,5 @@
 ---
-title: "RiiConnect24"
+title: "RiiConnect24 for Dolphin"
 ---
 
 {% include toc title="Inhaltsverzeichnis" %}
@@ -10,6 +10,18 @@ Diese Anleitung wird dir dabei helfen, RiiConnect24 in deiner Dolphin-Installati
 
 Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, kontaktiere bitte KcrPL#4625 auf Discord, tritt unserem [RiiConnect24 Discord-Server](https://discord.gg/rc24) bei, oder [sende uns eine E-Mail an support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
+
+{% capture notice-1 %}
+This guide is for [Dolphin Emulator](https://dolphin-emu.org) only.
+
+- Follow [this tutorial](riiconnect24-wii) if you'd like to install RiiConnect24 on a Wii.
+- Folge [dieser Anleitung](riiconnect24-vwii), falls du RiiConnect24 auf einer vWii (Wii-Modus auf der Wii U) installieren möchtest.
+{% endcapture %}
+
+<div class="notice--warning">{{ notice-1 | markdownify }}</div>
+
+INSTALLIEREN SIE NICHT RIICONNECT24 AUF EINER WII MINI! Es wird nicht funktionieren und es wird das System bricken.
+{: .notice--danger}
 
 ### Voraussetzungen
 
@@ -22,18 +34,18 @@ Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, kontaktiere bitte Kc
 
 ##### Abschnitt 1 - Dolphin installieren
 
-Falls du Dolphin bereits installiert hast, gehe direkt zu Abschnitt 2 über
+If you have Dolphin already installed, skip to Section II
 {: .notice--info}
 
-1. Download the latest Dolphin beta version, but **not a stable version as these are very outdated!**
+1. Lade die neuste Dolphin Beta-Version herunter, aber **keine stabile Version, da diese stark veraltet sind!**
 2. Entpacke die `.7z`-Datei mit einem Programm wie 7Zip oder WinRAR.
-3. Start Dolphin.
-4. Press on `Tools` -> `Perform Online System Update` -> Choose your region. ![Starte Online-System-Update](/images/Dolphin_RC24/1.jpg)
+3. Starte Dolphin.
+4. Wähle `Tools` -> `Perform Online System Update` -> Wähle deine Region. ![Starte Online-System-Update](/images/Dolphin_RC24/1.jpg)
 
 If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii) instead of installing the Wii System menu via this method. See [this page](https://wiki.dolphin-emu.org/index.php?title=NAND_Usage_Guide) for more information.
 {: .notice--info}
 
-##### Section II - Installing RiiConnect24
+##### Abschnitt 2 - RiiConnect24 installieren
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'windows')">Windows</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'unix')">Unix</button>
@@ -59,6 +71,9 @@ If you choose to run it on startup, you don't have to do anything. If you want t
 </div>
 
 <div id="unix" class="blanktabcontent" markdown="1">
+The screenshots in this section are taken from Windows, but the same steps can be followed on your Unix-based machine.
+{: .notice--info}
+
 1. Run `VFF-Downloader-for-Dolphin.sh`. ![Hauptmenü](/images/Dolphin_RC24/2.jpg)
 3. Proceed with the program configuration.
 4. It will ask you if you want to run the program manually every time you want to use RiiConnect24 on Dolphin or if you want to run it automatically on startup. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)

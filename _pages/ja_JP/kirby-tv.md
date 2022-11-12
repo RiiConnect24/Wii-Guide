@@ -12,11 +12,11 @@ Striim Network is a service dedicated to bringing back the channels that support
 #### What you need
 
 * An SD card or USB drive
-* A Wii with an Internet connection
+* インターネットに接続されたWii
 * A Windows or Unix based computer
 * [Kirby TV Channel Patcher](https://github.com/StriimNetwork/Kirby-TV-Channel-Patcher/releases)
 
-#### Instructions
+#### 手順
 
 [詳しいWADのインストールし方指示が見たいだったら、ここでクリクしてください。](wiimodlite)
 {: .notice--info}
@@ -26,7 +26,7 @@ Striim Network is a service dedicated to bringing back the channels that support
 3. When finished, the WAD will be in the `WAD` folder which is located in the same directory as the executable.
 4. Move the `WAD` folder to the root of your SD Card.
 5. Put your SD card or USB drive in your Wii.
-6. Launch the Homebrew Channel on your Wii.
+6. WiiでHomebrew Channelを起動します。
 7. Launch Wii Mod Lite.
 8. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 9. Highlight the WAD named `Kirby-TV-Channel-Patched(Striim).wad`, then press the `A` button to install.

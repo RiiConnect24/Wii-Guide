@@ -10,7 +10,7 @@ title: "Dumping Wii/GameCube games over local network"
 Your Wii and your computer must be connected to one local network
 {: .notice--warning}
 
-#### Instructions
+#### 手順
 
 ##### Section I - Downloading/Installing
 

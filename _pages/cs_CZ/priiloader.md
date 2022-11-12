@@ -15,14 +15,15 @@ Priiloader zvyšuje úroveň ochrany před bricknutím vašeho Wii. Spouští se
 {: .notice--warning}
 
 #### Co budete potřebovat
-* SD karta nebo USB disk
-* [Priiloader Installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+
+- SD karta nebo USB disk
+- [Priiloader Installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
 #### Pokyny
+
 ##### Část I
 
-1. Stáhněte Priiloader Installer a rozbalte jej na SD kartu nebo USB disk.
-    * Pokud tato složka neexistuje, vytvořte ji.
+1. Download the Priiloader installer and extract it to the root of your SD card or USB drive.
 
 ##### Část II - Instalace Priiloaderu
 
@@ -33,7 +34,7 @@ Priiloader zvyšuje úroveň ochrany před bricknutím vašeho Wii. Spouští se
 ##### Část III - Přístup do Priiloaderu a jeho konfigurace
 
 1. Při zapínání vašeho Wii držte stisknuté tlačítko RESET.
-    * Pokud se to snažíte udělat na Wii mini, připojte USB klávesnici a při zapínání držte klávesu Esc.
+   - Pokud se to snažíte udělat na Wii mini, připojte USB klávesnici a při zapínání držte klávesu Esc.
 
 ![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
 
@@ -75,7 +76,6 @@ Toto je výčet všech hacku a vylepšení, které může s pomocí Priiloaderu 
 | Lock System Menu with Black Screen      | Spustí Wii a místo Wii Menu zobrazí černou obrazovku, což vám znemožní cokoli udělat. (Toto nezapínejte/nepovolujte)                                                                           |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Znovu povoluje spouštění kanálů s těmito title ID (které byly zablokovány v předchozích aktualizacích, neboť se jednalo o title ID exploitů).                                                  |
 | Force Disc Games to run under IOS249    | Donutí disky, aby se spouštěly pod cIOSem 249. To samo o sobě neumožní spouštění vypálených disků, ale je to pro jejich spouštění potřeba. (Může vyhodit kód chyby Error 002 u nevypálené hry) |
-
 
 [Continue to the Dos and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
 {: .notice--info}

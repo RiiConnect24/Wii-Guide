@@ -16,7 +16,7 @@ Všechny exploity vedou ke spuštění HackMii Installeru, mají tedy stejný ko
 Přestože můžete procházet těmito tutoriály bez SD karty, bez SD karty nebudete moci vytvořit zálohu úložiště NAND nebo ze zálohy obnovit a také nebudete moci spustit některé homebrew aplikace.
 {: .notice--info}
 
-Pokud vaše Wii Menu není ve verzi 4.3, použijte pro hacknutí vašeho Wii str2hax nebo FlashHax. Až dokončíte postup podle návodu, postupujte podle [průvodce aktualizací](update) pro aktualizaci vašeho Wii Menu na verzi 4.3.
+If your Wii Menu is not on version 4.3, use str2hax or FlashHax to install the Homebrew Channel, and then follow the [update guide](update) to update to 4.3.
 {: .notice--info}
 
 Tento tutoriál je určen pouze pro klasické Wii a Wii mini (včetně Wii Family Edition). Nepoužívejte tento tutoriál s Wii U (vWii)! Pokud chcete nainstalovat homebrew na Wii U, postupujte podle [tohoto průvodce](https://wiiu.hacks.guide).

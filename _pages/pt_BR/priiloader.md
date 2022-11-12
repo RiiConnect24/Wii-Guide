@@ -15,14 +15,15 @@ O Priiloader adiciona um nível de proteção contra brick ao seu Wii. Ele carre
 {: .notice--warning}
 
 #### Você precisará de
-* Um cartão SD ou pendrive
-* [Instalador Priiloader](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+
+- Um cartão SD ou pendrive
+- [Instalador Priiloader](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
 #### Instruções
+
 ##### Parte I - Baixar/Instalar
 
-1. Baixe o instalador Priiloader e extraia-o para a pasta “apps” do seu cartão SD ou unidade USB.
-    * Se a pasta não existir, crie-a.
+1. Download the Priiloader installer and extract it to the root of your SD card or USB drive.
 
 ##### Seção II - Instalando o Priiloader
 
@@ -33,7 +34,7 @@ O Priiloader adiciona um nível de proteção contra brick ao seu Wii. Ele carre
 ##### Seção III - Entrando/Configurando o Priiloader
 
 1. Segure o botão RESET enquanto liga o seu Wii.
-    * Se você estiver usando um Wii mini, conecte um teclado USB e segure Escape nele enquanto ligá-lo.
+   - Se você estiver usando um Wii mini, conecte um teclado USB e segure Escape nele enquanto ligá-lo.
 
 ![Ligar](/images/Priiloader/on.jpg) ![Segurar RESET](/images/Priiloader/reset.jpg)
 
@@ -75,7 +76,6 @@ Esta é uma lista dos hacks que você pode ativar com o Priiloader.
 | Bloquear o menu do sistema com uma tela preta       | Faz com que seu Menu do Wii carregue uma tela preta, impedindo você de usá-lo. (Não habilite isto)                                                                                               |
 | Não-excluir HAXX,JODI,DVDX,DISC,DISK,RZDx           | Reative os canais com esses IDs de título (originalmente bloqueado nas atualizações do sistema por serem exploits).                                                                              |
 | Forçar jogos em disco a serem executados sob IOS249 | Faça os discos usarem cIOS 249 como IOS do jogo. Embora não possa permitir jogar jogos gravados, isto é necessário para jogar discos gravados. (Pode lhe dar um erro 002 em um jogo não gravado) |
-
 
 [Continue to the Dos and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
 {: .notice--info}

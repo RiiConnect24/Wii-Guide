@@ -26,6 +26,7 @@ DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick th
 ### What you need
 
 * A computer with either Windows 10 or newer or any Unix-based system
+
 * [Dolphin](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
@@ -40,11 +41,12 @@ If you have Dolphin already installed, skip to Section II
 Do not be misled by the title "Stable". These versions are very old and are not very stable. 
 {: .notice--info}
 2. Extract the .7z file using a program like 7Zip or WinRAR.
+
 3. Start Dolphin.
-4. Press on `Tools` -> `Perform Online System Update` -> Choose your region.
+4. In Dolphin, go to `Tools` -> `Perform Online System Update` -> Choose your region.
 ![Perform Online System Update](/images/Dolphin_RC24/1.jpg)
 
-If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii) instead of installing the Wii System menu via this method. See [this page](https://wiki.dolphin-emu.org/index.php?title=NAND_Usage_Guide) for more information.
+If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii) instead of installing the system files with the System Update option. See [this page](https://wiki.dolphin-emu.org/index.php?title=NAND_Usage_Guide) for more information.
 {: .notice--info}
 
 ##### Section II - Installing RiiConnect24

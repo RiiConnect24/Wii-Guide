@@ -1,5 +1,5 @@
 ---
-title: "RiiConnect24"
+title: "RiiConnect24 for Dolphin"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -10,6 +10,18 @@ This guide will help you install RiiConnect24 on your Dolphin installation.
 
 If you need help for anything regarding this tutorial, please directly contact KcrPL#4625 on Discord, join the [RiiConnect24 Discord Server](https://discord.gg/rc24) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
+
+{% capture notice-1 %}
+This guide is for [Dolphin Emulator](https://dolphin-emu.org) only.
+
+- Follow [this tutorial](riiconnect24-wii) if you'd like to install RiiConnect24 on a Wii.
+- Follow [this tutorial](riiconnect24-vwii) if you'd like to install RiiConnect24 on vWii (Wii Mode on Wii U).
+{% endcapture %}
+
+<div class="notice--warning">{{ notice-1 | markdownify }}</div>
+
+DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
+{: .notice--danger}
 
 ### What you need
 
@@ -59,6 +71,9 @@ If you choose to run it on startup, you don't have to do anything. If you want t
 </div>
 
 <div id="unix" class="blanktabcontent" markdown="1">
+The screenshots in this section are taken from Windows, but the same steps can be followed on your Unix-based machine.
+{: .notice--info}
+
 1. Run `VFF-Downloader-for-Dolphin.sh`. ![Main Menu](/images/Dolphin_RC24/2.jpg)
 3. Proceed with the program configuration.
 4. It will ask you if you want to run the program manually every time you want to use RiiConnect24 on Dolphin or if you want to run it automatically on startup. ![Choose how to boot the program](/images/Dolphin_RC24/3.jpg)
