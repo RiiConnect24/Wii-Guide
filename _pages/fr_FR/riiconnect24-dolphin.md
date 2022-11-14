@@ -25,7 +25,7 @@ N'INSTALLEZ PAS RIICONNECT24 SUR UNE WII MINI ! Cela ne fonctionnera pas et cela
 
 ### Ce dont vous avez besoin
 
-* Un ordinateur avec Windows 10, plus récent ou tout système basé sur Unix
+* A computer with either Windows 10 or newer or any Unix-based system
 * [Dolphin](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
@@ -46,6 +46,9 @@ If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii)
 
 ##### Section II - Installation de RiiConnect24
 
+If you use a Windows version before Windows 10, you unfortunately cannot use WiiConnect24 inside Dolphin. You can use [this program](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin) to run it instead.
+{: .notice--danger}
+
 1. Cliquez sur le lien ci-dessus pour accéder à la page GitHub où se trouve le patcher.
 2. Téléchargez `RiiConnect24Patcher.bat` si vous êtes sous Windows, et `RiiConnect24Patcher.sh` si vous êtes sur un système Unix
 3. Sur Windows ouvrez `Riiconnect24Patcher.bat`. Sur les systèmes Unix, ouvrez le terminal et tapez `bash`, puis faites glisser `RiiConnect24Patcher.sh` dans le terminal et appuyez sur Entrée. Cela devrait ressembler à ceci `bash RiiConnect24Patcher.sh`.
@@ -58,9 +61,13 @@ If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii)
 10. Soyez patient... ![Est entrain de patché!](/images/RC24_Patcher/9.JPG)
 11. Après que ça se termine, on apprécié so vous prenez une minute pour nous envoyer un commentaire anonyme.  Si vous ne voulez pas, fermez le patcher. Tous les fichiers dois être sur votre carte SD. ![C'est terminé !](/images/RC24_Patcher/10.JPG) ![Les fichiers ont été copiés](/images/RC24_Patcher/11.PNG)
 12. In Dolphin, go to `Tools` and then `Install WAD`. Install all the WAD files one by one.
+13. Unzip [AnyGlobe Changer v1.0](https://github.com/fishguy6564/AnyGlobe-Changer/releases/download/1.0/AnyGlobe.Changer.zip) and run the boot.dol file. Select your region and save. This will allow the Everybody Votes Channel to work.
 
-You're all done! Unfortunately, Wii Mail doesn't work in Dolphin yet.
+Unfortunately, Wii Mail doesn't work in Dolphin yet.
 {: .notice--info}
 
-Dolphin now supports WiiConnect24 natively. It's not perfect, but it works enough. Issues include having error code 109144 on the region selector, or having to open the Everybody Votes Channel multiple times during initial setup in order to see the poll questions.
+You will have to launch the Everybody Votes Channel 4 times at most in order for it to start working.
+{: .notice--warning}
+
+[Si vous obtenez d'autres erreurs avec la Chaîne de Prévisions ou la Chaîne Infos, comme un code d'erreur commençant par FORE ou NEWS ou un message interrompu, vous pouvez essayer de supprimer vos VFFs avec RC24-Clear-Tool](deleting-vffs).
 {: .notice--warning}
