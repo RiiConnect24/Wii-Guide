@@ -15,12 +15,12 @@ If you need help for anything regarding this tutorial, please directly contact K
 This guide is for [Dolphin Emulator](https://dolphin-emu.org) only.
 
 - Follow [this tutorial](riiconnect24-wii) if you'd like to install RiiConnect24 on a Wii.
-- Follow [this tutorial](riiconnect24-vwii) if you'd like to install RiiConnect24 on vWii (Wii Mode on Wii U).
+- vWii（Wii UのWiiモード）にRiiConnect24をインストールしたい場合は、[このチュートリアル](riiconnect24-vwii)に従ってください。
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
+（Wii mini省略） （略）
 {: .notice--danger}
 
 ### What you need
@@ -49,7 +49,7 @@ If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii)
 1. Click the link above to go to the GitHub page where the patcher is.
 2. Download `RiiConnect24Patcher.bat` if you are on Windows, and `RiiConnect24Patcher.sh` if you are on a Unix system
 3. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open Terminal and type `bash`, then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this: `bash RiiConnect24Patcher.sh`.
-4. 「`Start`」を選ぶために`1`を押してから、`ENTER`を押して。 (NOTE: These screenshots are from the Windows version of the patcher.)
+4. 1を押して`Start`を選び、`ENTER`を押して選んだものを確定します。？ (NOTE: These screenshots are from the Windows version of the patcher.)
 5. For this guide, choose "`Install RiiConnect24 on your Dolphin Emulator`" ![RiiConnect24をインストール](/images/RC24_Patcher/3.JPG)
 6. Choose "`Express (Recommended)`". It will give you everything you need. ![Express Settings](/images/RC24_Patcher/4.JPG)
 7. Select your region. ![地域を選択](/images/RC24_Patcher/5.JPG)
