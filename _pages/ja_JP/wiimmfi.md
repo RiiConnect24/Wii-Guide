@@ -9,9 +9,9 @@ title: "Wiimmfi"
 
 ![Wiimmfiロゴ](/images/WiiWiimmfiLogo.jpg)
 
-[Wiimmfi](https://wiimmfi.de) is a replacement service for the now-defunct Nintendo Wi-Fi Connection. WiimmとLeseratteによって開発されました。
+[Wiimmfi](https://wiimmfi.de)は、終了してしまったニンテンドーWi-Fiコネクションを置き換えるサービスです。 WiimmとLeseratteによって開発されました。
 
-If you get the error 23904 while connecting to Wiimmfi, then you are using an outdated patch.<br> Follow the steps below for the method you're using to connect to Wiimmfi again.<br> See [this page](https://wiimmfi.de/update) for more details.<br>
+Wiimmfiへの接続時にエラー23904が発生した場合は、お使いのパッチが古いことが原因です。<br>繋がるようにするには、お使いの方法に合わせて以下のステップに従ってください。<br>詳細は[このページ](https://wiimmfi.de/update)もご覧ください。<br>
 {: .notice--warning}
 
 ## Different patchers
@@ -21,7 +21,7 @@ There are lots of different methods to connect to Wiimmfi. Choose the one that f
 ### Automatic patching from the Disc Channel using Priiloader
 
 #### 必要なもの
-- A Wii with Priiloader 0.9 or later installed
+- Priiloader 0.9以降がインストールされたWii
 
 If you have an older version of Priiloader or don't have it installed, follow [this guide](priiloader) to update/install it.
 {: .notice--info}
