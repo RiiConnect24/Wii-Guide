@@ -14,25 +14,25 @@ title: "Wiimmfi"
 Wiimmfiへの接続時にエラー23904が発生した場合は、お使いのパッチが古いことが原因です。<br>繋がるようにするには、お使いの方法に合わせて以下のステップに従ってください。<br>詳細は[このページ](https://wiimmfi.de/update)もご覧ください。<br>
 {: .notice--warning}
 
-## Different patchers
+## 様々なパッチ方法
 
-There are lots of different methods to connect to Wiimmfi. Choose the one that fits your needs best.
+Wiimmfiに接続する方法は様々です。 あなたに合った方法を選択してください。
 
-### Automatic patching from the Disc Channel using Priiloader
+### Priiloaderを使ってディスクチャンネルからの自動パッチ
 
 #### 必要なもの
 - Priiloader 0.9以降がインストールされたWii
 
-If you have an older version of Priiloader or don't have it installed, follow [this guide](priiloader) to update/install it.
+古いPriiloaderをインストール済みの場合、またはインストールしていない場合は、[このガイド](priiloader)に従って更新・インストールしてください。
 {: .notice--info}
 
 #### 手順
-1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
+1. RESETボタンを押したままWiiの電源を入れます。
 2. `System Menu Hacks`に移動します。
-3. Make sure the `Wiimmfi patch v4` hack is enabled.
+3. `Wiimmfi patch v4`ハックを有効にしておきます。
 4. 設定を保存して終了します。
 
-If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
+`Wiimmfi patch v2`や`Wiimmfi patch v3`が代わりに表示されていたら、お持ちの`hacks_hash.ini`は最新ではありません。<br>[ここ](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini)からダウンロードして、SDカードやUSBドライブの`/apps/priiloader/hacks_hash.ini`に配置してください。<br>その後で、上のステップを再度試します。
 {: .notice--warning}
 
 ### Homebrew (Disc) Application
@@ -65,7 +65,7 @@ Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for th
 6. Wait for about 1 minute and 30 seconds for the patcher to load
 7. The game should now start with the Wiimmfi patch included
 
-### Automatic patching using a USB Loader
+### USBローダーを使用した自動パッチ
 If you are already using USB Loader GX, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
 
 ### ISOパッチ
