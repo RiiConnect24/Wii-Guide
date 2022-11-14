@@ -9,18 +9,18 @@ title: "RiiConnect24"
 
 ![RiiConnect24ロゴ](/images/WiiRC24Logo.jpg)
 
-[RiiConnect24](https://rc24.xyz/) allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail.
+[RiiConnect24](https://rc24.xyz/)を使えば、終了したWiiConnect24サービスを再び利用できます。利用可能なものにはニュースチャンネル、お天気チャンネル、みんなで投票チャンネル、みんなのニンテンドーチャンネル、Miiコンテストチャンネル、Wii伝言板のメールなどがあります。
 
 {% capture notice-1 %}
 このガイドは通常のWiiのみを対象としています。
 
-- Follow [this tutorial](riiconnect24-vwii) if you'd like to install RiiConnect24 on vWii (Wii Mode on Wii U).
-- Follow [this tutorial](riiconnect24-dolphin) if you'd like to install RiiConnect24 on Dolphin Emulator.
+- vWii（Wii UのWiiモード）にRiiConnect24をインストールしたい場合は、[このチュートリアル](riiconnect24-vwii)に従ってください。
+- Dolphin EmulatorにRiiConnect24をインストールしたい場合は、[このチュートリアル](riiconnect24-dolphin)に従ってください。
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
+（Wii mini省略） （略）
 {: .notice--danger}
 
 #### 必要なもの
@@ -40,7 +40,7 @@ If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord ser
 1. Click the link above to go to the GitHub page where the patcher is.
 2. Download `RiiConnect24Patcher.bat` if you are on Windows, and `RiiConnect24Patcher.sh` if you are on a Unix system
 3. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open Terminal and type `bash`, then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this: `bash RiiConnect24Patcher.sh`.
-4. 「`Start`」を選ぶために`1`を押してから、`ENTER`を押して。 (NOTE: These screenshots are from the Windows version of the patcher.) ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
+4. 1を押して`Start`を選び、`ENTER`を押して選んだものを確定します。？ (NOTE: These screenshots are from the Windows version of the patcher.) ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
 5. Select the device you're patching for. ![デバイスを選択](/images/RC24_Patcher/2.JPG)
 6. For this guide, choose "`Install RiiConnect24 on your Wii`" ![RiiConnect24をインストール](/images/RC24_Patcher/3.JPG)
 7. Choose "`Express (Recommended)`". It will give you everything you need. ![Express Settings](/images/RC24_Patcher/4.JPG)
