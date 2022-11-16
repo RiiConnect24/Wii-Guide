@@ -4,7 +4,7 @@ title: "BlueBomb"
 
 {% include toc title="Sisällysluettelo" %}
 
-Se on **todella** suositeltua että **et** noudattaisi **mitään** video ohjestusta joka ohjeistaa miten hackata sinun Wii mini konsoli, sillä siinä on todella iso mahdollisuus että **brickaat** sen.
+On **vahvasti** suositeltavaa olla käyttämättä **mitään** video-oppaita Wii mini -konsolisi hakkerointiin, sillä erittäin suurella todennäköisyydellä siitä tulee **tiiliskivi** (brick).
 {: .notice--warning}
 
 Jos tarvitset apua jonkin tähän oppaaseen liittyvän kanssa, liity [Wii mini Hacking Discord-palvelimelle](https://discord.gg/6ryxnkS) (suositeltavaa)
@@ -12,7 +12,7 @@ Jos tarvitset apua jonkin tähän oppaaseen liittyvän kanssa, liity [Wii mini H
 
 ![BlueBomb](/images/bluebomb.png)
 
-BlueBomb on exploit, joka käyttää hyödykseen virhettä Wiin ja Wii minin Bluetooth-kirjastoissa. Vaikka se onkin ainut Wii minillä toimiva exploit, BlueBombia voidaan käyttää myös alkuperäisellä Wiillä. Tämä exploitti myös mahdollistaa tiettyjen brickauksen korjaamisen, kuten banner brickin.
+BlueBomb on haavoittuvuutta hyödyntävä menetelmä (exploit), joka käyttää hyödykseen virhettä Wiin ja Wii minin Bluetooth-kirjastoissa. Vaikka se onkin ainut Wii minillä toimiva exploit, BlueBombia voidaan käyttää myös alkuperäisellä Wiillä. Tämä exploitti myös mahdollistaa tiettyjen brickauksen korjaamisen, kuten banner brickin.
 
 Emme suosittele BlueBombia käytettävän alkuperäisellä Wiillä, jos tarkoituksenasi on asentaa Homebrew Channel ja BootMii, sillä on olemassa käytännöllisempiä exploiteja.
 {: .notice--info}
