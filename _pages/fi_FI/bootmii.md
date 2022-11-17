@@ -4,7 +4,7 @@ title: "BootMii Backup"
 
 {% include toc title="Sisällysluettelo" %}
 
-Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiConnect24:n Discord-palvelimelle](https://discord.gg/rc24) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net).
+Jos tarvitset apua minkä tahansa tähän oppaaseen liittyvän kanssa, liity [RiiConnect24:n Discord-palvelimelle](https://discord.gg/rc24) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![BootMiin Logo](/images/bootmii.png)
@@ -12,7 +12,7 @@ Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiCon
 Tarvitset **SD-kortin** luodaksesi NAND-varmuuskopion BootMiin avulla. Jos sinulla ei ole sellaista, voit ohittaa tämän sivun, vaikka onkin erittäin suositeltavaa luoda NAND-varmuuskopio, jos pystyt.
 {: .notice--warning}
 
-BootMii boot2:ena on suositeltavaa, mutta asennettavissa vain aikaisimmille Wii-konsoleille. Muussa tapauksessa se voidaan asentaa vain IOS:änä.
+BootMii boot2:ena suositellaan, mutta on asennettavissa vain aikaisimmille Wii-konsoleille. Muussa tapauksessa se voidaan asentaa vain IOS:änä.
 {: .notice--info}
 
 Yksi BootMiin tärkeimmistä toiminnoista on kyky varmuuskopioida ja palauttaa Wiisi NAND-tallennustila. Käymme läpi, kuinka tehdä NAND-varmuuskopio. Voit sitten palauttaa siitä varmuuskopiosta syystä tai toisesta. On hyvä idea tehdä NAND-varmuuskopio säännöllisesti tai ennen kuin teet jotain riskialtista konsolillesi (ja jos tiedät, mitä olet tekemässä, sinun ei tarvitse tehdä mitään riskialtista).
@@ -30,16 +30,16 @@ Jos sinulla on BootMii asennettuna boot2:ena, sinun täytyy käynnistää BootMi
     {: .notice--info}
 
 
-    Jos näyttö pysyy mustana ja sininen levyaseman valo vilkkuu, sinulta puuttuu BootMii-tiedostot SD-kortiltasi. Lataa [tämä zip tiedosto](https://static.hackmii.com/bootmii_sd_files.zip) ja pura se SD-korttisi alku hakemistoon, sitten yritä uudelleen.
+    Jos näyttö pysyy mustana ja sininen levyaseman valo vilkkuu, sinulta puuttuu BootMii-tiedostot SD-kortiltasi. Lataa [tämä zip-tiedosto](https://static.hackmii.com/bootmii_sd_files.zip) ja pura se SD-korttisi alkuhakemistoon, sitten yritä uudelleen.
     {: .notice--warning}
 
-3. Valitse Options-nappi (rattaiden kuvalla).
-4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left).
+3. Valitse Options-nappi (kuvake rattailla).
+4. Valitse BackupMii-nappi (kuvake vihreällä nuolella, eli ensimmäinen kuvake vasemmalta).
 - NAND-varmuuskopiointi alkaa. Voit seurata edistymistä näytöltä.
 - "Bad Blockit" ovat tavallisia. Älä huoli nähdessäsi muutamia NAND-varmuuskopiossa.
-- Tämän vaiheen jälkeen se tarkistaa varmuuskopion. Vaikka se on suositeltavaa, sen voi ohittaa painamalla Wiin EJECT-nappia. Note that if you have a disc inserted in the disc drive, pressing EJECT will also eject the disc.
+- Tämän vaiheen jälkeen se tarkistaa varmuuskopion. Vaikka se on suositeltavaa, sen voi ohittaa painamalla Wiin EJECT-nappia. Ota huomioon, että jos levyasemassa on levy, EJECT-napin painaminen myös poistaa sen asemasta.
 5. Kun varmuuskopio on täysin valmis, poistu NAND-varmuuskopionäytöltä painamalla mitä tahansa nappia.
-6. Poistuaksesi BootMiista, paina Back-nappia (nuolen kuvalla) ja sitten voit painaa joko Wii Menu -nappia tai Homebrew Channel -nappia poistuaksesi minne haluat.
+6. Poistuaksesi BootMiista, paina Back-nappia (se, jossa on nuolen kuva) ja sitten voit painaa joko Wii Menu -nappia tai Homebrew Channel -nappia poistuaksesi minne haluat.
 
 To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). Tämä on hyödyllistä niissä hyvin pienissä mahdollisuuksissa rikkoa Wiisi.
 {: .notice--info}
