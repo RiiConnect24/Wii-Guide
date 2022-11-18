@@ -32,7 +32,7 @@ title: "RiiConnect24"
 
 #### 手順
 
-##### Section I - Using RiiConnect24 Patcher
+##### セクション I - RiiConnect24 Patcherを使う
 
 If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
 {: .notice--info}
@@ -64,7 +64,7 @@ You will now install the patched IOS and Channel WADs that are required to use R
 6. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press the - Button on the highlighted WAD to uninstall it, then try installing it again.
 7. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
-##### Section III - Patching nwc24msg.cfg
+##### セクション III - nwc24msg.cfgにパッチを適用する
 
 You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
 
@@ -77,7 +77,7 @@ If you were unable to patch your nwc24msg.cfg correctly, please join [the RiiCon
 ##### Section IV - Connecting
 
 {% capture notice-1 %}
-Starting June 16th, 2022 the RiiConnect24 DNS changes. Read more: [here.](riiconnect24-dns-update)
+2022年6月16日からRiiConnect24のDNSが変更されました。 詳しくは[こちら](riiconnect24-dns-update)。
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
