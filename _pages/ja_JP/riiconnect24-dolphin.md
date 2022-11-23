@@ -23,7 +23,7 @@ This guide is for [Dolphin Emulator](https://dolphin-emu.org) only.
 （Wii mini省略） （略）
 {: .notice--danger}
 
-### What you need
+### 必要なもの
 
 * A computer with either Windows 10 or newer or any Unix-based system
 * [Dolphin](https://dolphin-emu.org/download/)
