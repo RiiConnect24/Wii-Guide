@@ -9,7 +9,7 @@ title: "Updating Wii Menu to v4.3"
 
 This tutorial will explain how to update your Wii Menu to version 4.3, if you have already homebrewed your Wii.
 
-#### What you need
+#### 必要なもの
 
 * SDカードまたはUSBドライブ
 * A computer with Windows on it
