@@ -52,30 +52,30 @@ PriiloaderをUSB ドライブからインストールする場合は、ここで
 
 これはPriiloaderを使って適用できるハックのリストです。
 
-| ハック                                     | 説明                                                                                                                                                                    |
-| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Block Disc Updates                      | プレイ前にWiiの更新をさせてくる、ゲームに含まれる「Wii本体の更新」画面を削除します。                                                                                                                         |
-| Block Online Updates                    | Wii本体の更新を無効にします。 更新がエラー32007で失敗するようになります。                                                                                                                             |
-| Auto-Press A at Health Screen           | Aボタンを自動で押して、最初の「健康と安全」画面をスキップします。                                                                                                                                     |
-| Replace Health Screen with Backmenu     | 「健康と安全」画面を、Wiiメニューに戻るときのアニメーションに変更します。                                                                                                                                |
-| Move Disc Channel                       | ディスクチャンネルをWiiメニューの任意の場所に移動できるようにします。 （通常、最初のページの左上で固定されているチャンネルのことです。）                                                                                                |
-| Wiimmfi Patch v4                        | ディスクチャンネルから起動するゲームにWiimmfiを利用するためのパッチを自動で適用します。                                                                                                                       |
-| 480p graphics fix in system menu        | Wiiメニューの480pにおける細かな問題点を修正します。                                                                                                                                         |
-| Remove NoCopy Save File Protection      | データ管理から通常許可されていないセーブデータをSDカードへコピー可能になります。                                                                                                                             |
-| Region Free EVERYTHING                  | ダウンロードしたものを含む、すべてのWiiアプリのリージョンロックを無効にします。                                                                                                                             |
-| Region Free GC Games (No VM Patch)      | ゲームキューブディスクのリージョンロックを無効にします。                                                                                                                                          |
-| Region Free Wii Games                   | Wiiディスクのリージョンロックを無効にします。                                                                                                                                              |
-| Region Free Channels                    | インストールされたチャンネルのリージョンロックを無効にします。                                                                                                                                       |
-| No System Menu Sounds AT ALL            | Wiiメニューの効果音をすべて無効にします。                                                                                                                                                |
-| No System Menu Background Music         | WiiメニューのBGMを無効にします。                                                                                                                                                   |
-| Re-Enable Bannerbomb v2                 | 最新バージョンのWiiで「Bannerbomb」エクスプロイトを有効にします。 Homebrew Channelがインストール済なら不要です。                                                                                               |
-| OSReport to UsbGecko(slot B)            | メモリカードスロットBのデバッグ機器にWiiメニューのログを送信します。                                                                                                                                  |
-| OSReport to UsbGecko(GeckoOS,B)         | WiiメニューがGecko OSによって起動されているときに、メモリカードスロットBのデバッグ機器にWiiメニューログを送信します。                                                                                                    |
-| Force Standard Recovery Mode            | 本体を自動的にリカバリモードで起動します。 リカバリディスクの起動に使用され、Wiiシステムのブリックを修復します。                                                                                                            |
-| Remove Diagnostic Disc Check            | 挿入されたゲームが「Wiiスタートアップディスク」のタイトルIDと一致するかを確認するチェックを回避します。                                                                                                                |
-| Lock System Menu with Black Screen      | Wiiメニューで黒い画面を読込み、使用できなくします。 （有効にしないでください）                                                                                                                             |
-| No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | これらのタイトルIDを持つチャンネルを再度有効にします（エクスプロイトの原因だったため更新で無効化されたものです）。                                                                                                            |
-| Force Disc Games to run under IOS249    | ディスクでゲームIOSにcIOS249を使用します。 While it cannot allow playing of burned games on its own, it is needed to play burned discs. (Can give you Error 002 on a non-burned game) |
+| ハック                                     | 説明                                                                                                                                                                          |
+| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Block Disc Updates                      | プレイ前にWiiの更新をさせてくる、ゲームに含まれる「Wii本体の更新」画面を削除します。                                                                                                                               |
+| Block Online Updates                    | Wii本体の更新を無効にします。 更新がエラー32007で失敗するようになります。                                                                                                                                   |
+| Auto-Press A at Health Screen           | Aボタンを自動で押して、最初の「健康と安全」画面をスキップします。                                                                                                                                           |
+| Replace Health Screen with Backmenu     | 「健康と安全」画面を、Wiiメニューに戻るときのアニメーションに変更します。                                                                                                                                      |
+| Move Disc Channel                       | ディスクチャンネルをWiiメニューの任意の場所に移動できるようにします。 （通常、最初のページの左上で固定されているチャンネルのことです。）                                                                                                      |
+| Wiimmfi Patch v4                        | ディスクチャンネルから起動するゲームにWiimmfiを利用するためのパッチを自動で適用します。                                                                                                                             |
+| 480p graphics fix in system menu        | Wiiメニューの480pにおける細かな問題点を修正します。                                                                                                                                               |
+| Remove NoCopy Save File Protection      | データ管理から通常許可されていないセーブデータをSDカードへコピー可能になります。                                                                                                                                   |
+| Region Free EVERYTHING                  | ダウンロードしたものを含む、すべてのWiiアプリのリージョンロックを無効にします。                                                                                                                                   |
+| Region Free GC Games (No VM Patch)      | ゲームキューブディスクのリージョンロックを無効にします。                                                                                                                                                |
+| Region Free Wii Games                   | Wiiディスクのリージョンロックを無効にします。                                                                                                                                                    |
+| Region Free Channels                    | インストールされたチャンネルのリージョンロックを無効にします。                                                                                                                                             |
+| No System Menu Sounds AT ALL            | Wiiメニューの効果音をすべて無効にします。                                                                                                                                                      |
+| No System Menu Background Music         | WiiメニューのBGMを無効にします。                                                                                                                                                         |
+| Re-Enable Bannerbomb v2                 | 最新バージョンのWiiで「Bannerbomb」エクスプロイトを有効にします。 Homebrew Channelがインストール済なら不要です。                                                                                                     |
+| OSReport to UsbGecko(slot B)            | メモリカードスロットBのデバッグ機器にWiiメニューのログを送信します。                                                                                                                                        |
+| OSReport to UsbGecko(GeckoOS,B)         | WiiメニューがGecko OSによって起動されているときに、メモリカードスロットBのデバッグ機器にWiiメニューログを送信します。                                                                                                          |
+| Force Standard Recovery Mode            | 本体を自動的にリカバリモードで起動します。 リカバリディスクの起動に使用され、Wiiシステムのブリックを修復します。                                                                                                                  |
+| Remove Diagnostic Disc Check            | 挿入されたゲームが「Wiiスタートアップディスク」のタイトルIDと一致するかを確認するチェックを回避します。                                                                                                                      |
+| Lock System Menu with Black Screen      | Wiiメニューで黒い画面を読込み、使用できなくします。 （有効にしないでください）                                                                                                                                   |
+| No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | これらのタイトルIDを持つチャンネルを再度有効にします（エクスプロイトの原因だったため更新で無効化されたものです）。                                                                                                                  |
+| Force Disc Games to run under IOS249    | ゲームディスクにゲームIOSとしてcIOS249を使用させます。 While it cannot allow playing of burned games on its own, it is needed to play burned discs. (Can give you Error 002 on a non-burned game) |
 
 [Wii改造のマストとタブーに進む](dosanddonts)<br> 確実にWiiをブリックしないためのガイドラインです。
 {: .notice--info}
