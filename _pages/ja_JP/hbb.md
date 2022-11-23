@@ -10,7 +10,7 @@ Homebrew Browser, which is what the Open Shop Channel is based off on, does work
 
 The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
 
-#### What you need
+#### 必要なもの
 * SDカードまたはUSBドライブ
 * [Homebrew Browser](/assets/files/homebrew_browser_v0.3.9e.zip)
 
