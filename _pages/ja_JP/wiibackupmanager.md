@@ -25,7 +25,7 @@ Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as othe
 
 #### 手順
 
-##### Section I - Downloading
+##### セクション I - ダウンロード
 
 1. Extract Wii Backup Manager, and launch the program.
 2. Insert your USB drive into your computer.
