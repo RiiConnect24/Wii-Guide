@@ -4,11 +4,11 @@ title: "cIOS"
 
 {% include toc title="目次" %}
 
-This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
+This tutorial will tell you how to install cIOS (custom IOS). これは、USBローダーでゲームをロードする場合に必要です。 いくつかのHomebrewは、cIOSを使用すると動作が改善されます。
 
 ![d2x cIOSインストーラー](/images/cios/cIOS.png)
 
-If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
+Wii U（vWii）をお使いなら、代わりに[このガイド](https://wiiu.hacks.guide/#/vwii-modding)に従ってcIOSをインストールしてください。 Attempting to install any other cIOS on vWii won't work.
 {: .notice--info}
 
 If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
@@ -32,8 +32,8 @@ Ensure that if you are using an SD card, the lock switch is in the unlocked posi
 
 ##### セクション I - ダウンロード
 
-1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
-1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
+1. d2x cIOS Installerをダウンロードし、SDカードまたはUSBメモリのルートに展開します。
+1. WiiにSDカードまたはUSBドライブを挿入し、Homebrew Channelからd2x cIOS Installerを起動します。
 </div>
 <div id="without-connection" class="blanktabcontent" markdown="1">
 
@@ -44,8 +44,8 @@ Ensure that if you are using an SD card, the lock switch is in the unlocked posi
    - Ensure that "Pack WAD" is checked and "Patch IOS" is unchecked.
 1. Repeat the previous step for IOS56 v5661 and IOS38 v4123.
 1. Once you have downloaded all three IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. Open the folder and navigate through them until you locate the three WAD files you downloaded. Place each of WAD files on the root of your SD card or USB drive.
-1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
-1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
+1. d2x cIOS Installerをダウンロードし、SDカードまたはUSBメモリのルートに展開します。
+1. WiiにSDカードまたはUSBドライブを挿入し、Homebrew Channelからd2x cIOS Installerを起動します。
 </div>
 
 ##### セクション II - インストール
@@ -109,25 +109,25 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 1. Select `Game Load`.
 1. Scroll down to `Game IOS`.
 1. Enter the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
+    - 249が動作しない場合、250や251を使用してみてください。
 1. Press ok and try to load the game.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. Select the game that isn't working.
 1. Click the gear icon.
 1. Go to cIOS and use the arrows to select the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
+    - 249が動作しない場合、250や251を使用してみてください。
 1. Press Save and try to load the game.
 </div>
-##### Options once complete
+##### 完了後のオプション
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. インストールは任意です。
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[サイトマップへ進む](site-navigation)<br> 他にもきっと気になるチュートリアルがあります。
 {: .notice--info}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
+[USB Loader GX](usbloadergx)や[WiiFlow](wiiflow)などのHomebrew を使えるようになりました。
 {: .notice--info}
 
 <script>
