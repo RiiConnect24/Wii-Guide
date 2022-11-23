@@ -90,7 +90,7 @@ WiiFloWiki is a great resource with information about WiiFlow.
 {: .notice--info}
 
 [Continue to RiiTag](riitag)<br>
-RiiTag is a customizable gamertag for your Wii that WiiFlow Lite can integrate with. This is optional to set up.
+RiiTag is a customizable gamertag for your Wii that WiiFlow Lite integrates with. This is optional to set up.
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br>
