@@ -21,7 +21,7 @@ If you don't have a Windows computer, please join [the RiiConnect24 Discord serv
 
 #### 手順
 
-##### Section I - Downloading
+##### セクション I - ダウンロード
 
 Your Wii must be modded in order to perform this. If it isn't, then it's best to follow [the guide](get-started) first before doing this.
 {: .notice--info}
@@ -44,7 +44,7 @@ To protect against bricks, [make sure you install Priiloader](priiloader). Also,
 | Europe | v514 (4.3E)      |
 | Korea  | v518 (4.3K)      |
 
-##### Section II - Installing
+##### セクション II - インストール
 
 You use the +Control Pad to use this tool.
 {: .notice--info}
