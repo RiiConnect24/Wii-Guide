@@ -44,14 +44,14 @@ If you use the Wii Patcher, you will not need to use our other patchers.
 3. For this guide, choose "`Install WiiLink on your Wii`"
 4. Select your region.
 5. Connect the SD Card or USB Drive to your computer and select "`1`".
-6. デバイスの検出は効果的だ時、「`1`」を選んで デバイスの検出は効果的だ時、「`1`」を選んで If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
+6. デバイスが正しく検出された場合は`1`を選びます。 デバイスの検出は効果的だ時、「`1`」を選んで If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
 7. Be patient...
 8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
 9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLinkPatcher.bat` to your SD Card or USB Device.
-10. Put your SD card or USB drive in your Wii.
+10. WiiにSDカードまたはUSBドライブを接続します。
 11. WiiでHomebrew Channelを起動します。
-12. Launch Wii Mod Lite.
-13. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+12. Wii Mod Liteを起動します。
+13. Wiiリモコンで十字キーを使って`WAD Manager`を選択し、`wad`フォルダに移動します。
 14. If your Wii is not a Japanese region, install WiiLink24_SPD.wad before anything else. This is required so that we know your email address to send files.
 15. Highlight all other WADs with `WiiLink24` in the name, and press + to select them. When all of them are selected, press A twice to install the WADs.
 16. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
@@ -70,10 +70,10 @@ Adding your email to SPD will allow channels like Digicam and Demae to send file
 For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
 {: .notice--info}
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
+[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. インストールは任意です。
 {: .notice--info}
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. インストールは任意です。
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
