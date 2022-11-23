@@ -4,43 +4,43 @@ title: "Kirby TV Channel"
 
 {% include toc title="目次" %}
 
-The Kirby TV Channel is controlled and operated by Striim Network, not RiiConnect24. Join their Discord server [here](https://discord.gg/seCnzxnE75).
+Kirby TV Channelの管理・運用はRiiConnect24ではなくStriim Networkによって行われています。 [ここで](https://discord.gg/seCnzxnE75)彼らのDiscordサーバに参加できます。
 {: .notice--warning}
 
-Striim Network is a service dedicated to bringing back the channels that support video playback, such as Kirby TV Channel and YouTube.
+Striim Networkは、Kirby TV Channel（一部海外で配信されたチャンネル）やYouTubeなど、動画再生をサポートするチャンネルを取り戻すことを目的としたサービスです。
 
-#### What you need
+#### 必要なもの
 
 * SDカードまたはUSBドライブ
 * インターネットに接続されたWii
-* A Windows or Unix based computer
+* WindowsもしくはUnixベースのコンピュータ
 * [Kirby TV Channel Patcher](https://github.com/StriimNetwork/Kirby-TV-Channel-Patcher/releases)
 
 #### 手順
 
-[詳しいWADのインストールし方指示が見たいだったら、ここでクリクしてください。](wiimodlite)
+[WADのインストール方法に関する詳細な手順をお求めなら、ここをクリックしてください。](wiimodlite)
 {: .notice--info}
 
-1. Download the executable for your architecture and OS.
-2. Launch the executable then press `1` twice to start the patching process.
-3. When finished, the WAD will be in the `WAD` folder which is located in the same directory as the executable.
-4. Move the `WAD` folder to the root of your SD Card.
+1. アーキテクチャとOSに合った実行可能ファイルをダウンロードします。
+2. 実行可能ファイルを起動し、`1`を2回押してパッチ処理を開始します。
+3. 完了すると、WADが実行可能ファイルと同じディレクトリの`WAD`フォルダ内に生成されます。
+4. `WAD`フォルダをSDカードのルートへコピーします。
 5. WiiにSDカードまたはUSBドライブを接続します。
 6. WiiでHomebrew Channelを起動します。
 7. Wii Mod Liteを起動します。
 8. Wiiリモコンで十字キーを使って`WAD Manager`を選択し、`wad`フォルダに移動します。
-9. Highlight the WAD named `Kirby-TV-Channel-Patched(Striim).wad`, then press the `A` button to install.
-10. When the WAD successfully installs, return to the Wii Menu and launch the channel.
+9. `Kirby-TV-Channel-Patched(Striim).wad`というWADを選んで、`A`ボタンを押してインストールします。
+10. WADのインストールに成功したら、Wiiメニューに戻ってチャンネルを起動します。
 
 
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. インストールは任意です。
+[RiiConnect24に進む](riiconnect24)<br> RiiConnect24では、廃止されたWiiConnect24のサービスが使えるようになります。これにはニュースチャンネル、お天気チャンネル、みんなで投票チャンネル、みんなのニンテンドーチャンネル、Miiコンテストチャンネル、Wii伝言板メールなどが含まれます。 インストールは任意です。
 {: .notice--info}
 
-[Continue to WiiLink](wiilink)<br> WiiLink allows you to use the discontinued Japanese channels, such as Wii no Ma and the Digicam Print Channel. インストールは任意です。
+[WiiLinkに進む](wiilink)<br> WiiLinkでは、廃止された日本専用チャンネル（Wiiの間やデジカメプリントチャンネルなど）を使えるようになります。 インストールは任意です。
 {: .notice--info}
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. インストールは任意です。
+[Wiimmfiに進む](wiimmfi)<br> WiimmfiではニンテンドーWi-Fiコネクションの廃止後の今でもオンラインゲームをプレイできるようになります。 インストールは任意です。
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
