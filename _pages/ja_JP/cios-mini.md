@@ -4,7 +4,7 @@ title: "d2xl cIOS for Wii mini (experimental)"
 
 {% include toc title="目次" %}
 
-This tutorial will tell you how to install Leseratte's d2xl Wii mini cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
+This tutorial will tell you how to install Leseratte's d2xl Wii mini cIOS (custom IOS). これは、USBローダーでゲームをロードする場合に必要です。 いくつかのHomebrewは、cIOSを使用すると動作が改善されます。
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
@@ -52,7 +52,7 @@ The Wii and Wii mini consoles are only known to work with Ethernet adapters usin
 Do not attempt to install a Wii IOS or System Menu on the Wii mini. Doing so will likely brick your console.
 {: .notice--warning}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
+[USB Loader GX](usbloadergx)や[WiiFlow](wiiflow)などのHomebrew を使えるようになりました。
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
