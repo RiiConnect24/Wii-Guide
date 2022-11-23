@@ -85,7 +85,8 @@ USB Loader GX 인터페이스에는 여러 버튼이 있습니다.
 
 화면 가운데 밑에는 USB 드라이브의 남는 공간과 게임 수가 나타납니다.
 
-##### 끝난 뒤 할 수 있는 것
+[Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that USB Loader GX can integrate with. This is optional to set up.
+{: .notice--info}
 
 [사이트 네비게이션으로 계속하기](site-navigation)<br>당신이 좋아할만한 많은 튜토리얼이 있습니다.
 {: .notice--info}
