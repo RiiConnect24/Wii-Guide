@@ -11,7 +11,7 @@ This is a quick start guide on how to use USB Loader GX, a popular USB loader fo
 
 ![USB Loader GX](/images/usbloadergx.png)
 
-#### What you need
+#### 必要なもの
 
 * A Wii
 * A USB drive
@@ -88,5 +88,5 @@ On the middle of the bottom of the screen, you can see how much space is free on
 [Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that USB Loader GX can integrate with. This is optional to set up.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[サイトマップへ進む](site-navigation)<br> 他にもきっと気になるチュートリアルがあります。
 {: .notice--info}
