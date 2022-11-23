@@ -25,12 +25,12 @@ This d2x cIOS installer was originally developed for the Wii U's vWii by DaveBao
 
 #### 手順
 
-##### Section I - Downloading
+##### セクション I - ダウンロード
 
 1. Extract the d2xl cIOS Installer to the `apps` folder on your USB drive.
 1. Insert your USB drive into your Wii mini and load the d2xl cIOS Installer from the Homebrew Channel.
 
-##### Section II - Installing
+##### セクション II - インストール
 
 1. Press continue, then set the options to the following:
     ```
