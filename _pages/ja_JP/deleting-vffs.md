@@ -27,7 +27,7 @@ RiiConnect24 Clear Toolは、下記の特定のエラーや問題を修正でき
 
 1. RiiConnect24 Clear Toolを展開し、SDカードまたはUSBドライブの`apps`フォルダに入れます。
 2. WiiにSDカード（USBドライブ）を接続し、Homebrew ChannelからRiiConnect24 Clear Toolを起動します。
-3. The app will help you resolve whatever problem you are having.
+3. アプリが、お悩みのエラー・問題の解決を手助けします。
 
 [RiiConnect24インストールページに戻る](riiconnect24)
 {: .notice--info}
