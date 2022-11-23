@@ -7,7 +7,7 @@ title: "WAD吸出し"
 このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
 {: .notice--info}
 
-このチュートリアルでは、WiiシステムメモリからWADを吸い出す方法を説明します。
+このチュートリアルでは、WiiシステムメモリからWADをダンプ（吸出し）する方法を説明します。
 
 #### 必要なもの
 * SDカードまたはUSBドライブ
@@ -27,8 +27,8 @@ title: "WAD吸出し"
 3. 吸出ししたいコンテンツを見つけて、1ボタンを押します。 ![チャンネルを探す](/images/DumpWADS/4.png)
 
 4. `Backup to WAD`を選択します。
-5. At the prompt to `Fakesign the ticket`, choose `Yes`.
-6. At the prompt to `Fakesign the TMD`, choose `No`.
-7. At the prompt to `Change the output WAD region`, choose `No`.
+5. `Fakesign the ticket`が表示されたら`Yes`を選びます。
+6. `Fakesign the TMD`が表示されたら`No`を選びます。
+7. `Change the output WAD region`が表示されたら`No`を選びます。
 
-これでWADにバックアップされました。 SDカードにあるはずです。 ![完了](/images/DumpWADS/5.png)
+これでWADがダンプされました。 SDカードにあるはずです。 ![完了](/images/DumpWADS/5.png)
