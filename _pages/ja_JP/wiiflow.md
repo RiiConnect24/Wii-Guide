@@ -83,7 +83,7 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 * Exit To - Lets you exit to Wii Menu, HBC, neek2o, Priiloader and Bootmii.
 * Settings - Will open the WiiFlow Settings menu
 
-##### Options once complete
+##### 完了後のオプション
 
 [WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki is a great resource with information about WiiFlow.
 {: .notice--info}
@@ -91,5 +91,5 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 [Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that WiiFlow Lite can integrate with. This is optional to set up.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[サイトマップへ進む](site-navigation)<br> 他にもきっと気になるチュートリアルがあります。
 {: .notice--info}
