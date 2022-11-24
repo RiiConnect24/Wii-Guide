@@ -114,7 +114,7 @@ Select cIOS version: 65535
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. 動かないゲームを選択します。
-1. Click the gear icon.
+1. 歯車アイコンをクリックします。
 1. Go to cIOS and use the arrows to select the IOS slot to use.
     - 249が動作しない場合、250や251を使用してみてください。
 1. Press Save and try to load the game.
@@ -124,7 +124,7 @@ Select cIOS version: 65535
 [Homebrew Browserに進む](hbb)<br> Homebrew BrowserはWiiのHomebrewを入手するのに適した場所です。 インストールは任意です。
 {: .notice--info}
 
-[サイトマップへ進む](site-navigation)<br> 他にもきっと気になるチュートリアルがあります。
+[サイトマップへ進む](site-navigation)<br> 他にも気に入るチュートリアルがきっとあります。
 {: .notice--info}
 
 [USB Loader GX](usbloadergx)や[WiiFlow](wiiflow)などのHomebrew を使えるようになりました。
