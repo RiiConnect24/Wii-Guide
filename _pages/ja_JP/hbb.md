@@ -1,14 +1,14 @@
 ---
-title: "Open Shop Channel (Homebrew Browser)"
+title: "Open Shop Channel（Homebrew Browser）"
 ---
 
-If you need help for anything regarding this tutorial, please join [the Open Shop Channel](https://discord.gg/osc) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+このガイドに関して何か困ったことがあれば、[the Open Shop Channel](https://discord.gg/osc)に参加する（推奨）か[support@riiconnect24.netまでメール](mailto:support@riiconnect24.net)を送ってください。
 {: .notice--info}
 
 Homebrew Browser, which is what the Open Shop Channel is based off on, does work but it can be buggy. You can also get homebrew using [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) and from the [Open Shop Channel website](https://oscwii.org/).
 {: .notice--info}
 
-The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
+The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. Homebrew Browserというアプリの復活プロジェクトです。
 
 #### 必要なもの
 * SDカードまたはUSBドライブ
@@ -19,9 +19,9 @@ The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew
 1. Extract the Homebrew Browser and put it in the `apps` folder on your SD card or USB drive.
 2. Insert your SD card or USB drive into your Wii. You can now launch the Homebrew Browser from the Homebrew Channel if you want to.
 
-#### Recommended Apps
+#### おすすめのアプリ
 
-Here are some recommended apps that you can get on the Open Shop Channel:
+Open Shop Channelで入手できるおすすめアプリは次のとおりです。
 
 - [CleanRip](https://oscwii.org/library/app/CleanRip) - This is a tool to dump Wii and GameCube games. See [our page](dump-games) for more details.
 - [GCMM](https://oscwii.org/library/app/gcmm) - This is a GameCube memory card manager for your Wii.
@@ -34,10 +34,10 @@ Here are some recommended apps that you can get on the Open Shop Channel:
 - [WiiXplorer-SS](https://oscwii.org/library/app/wiixplorer-ss) - This is a file manager for your Wii. It lets you access your files on your SD Card, USB Device, and more.
 - [YABDM](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod) - This is a tool to dump content installed on your Wii to WAD files. See [our page](dump-wads) for instructions on how to use it.
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. インストールは任意です。
+[RiiConnect24に進む](riiconnect24)<br> RiiConnect24では、廃止されたWiiConnect24のサービスが使えるようになります。これにはニュースチャンネル、お天気チャンネル、みんなで投票チャンネル、みんなのニンテンドーチャンネル、Miiコンテストチャンネル、Wii伝言板メールなどが含まれます。 インストールは任意です。
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[サイトマップへ進む](site-navigation)<br> 他にも気に入るチュートリアルがきっとあります。
 {: .notice--info}
 
 Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
