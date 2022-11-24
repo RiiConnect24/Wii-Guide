@@ -91,5 +91,5 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 [Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that WiiFlow Lite can integrate with. This is optional to set up.
 {: .notice--info}
 
-[サイトマップへ進む](site-navigation)<br> 他にもきっと気になるチュートリアルがあります。
+[サイトマップへ進む](site-navigation)<br> 他にも気に入るチュートリアルがきっとあります。
 {: .notice--info}
