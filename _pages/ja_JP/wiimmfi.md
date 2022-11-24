@@ -99,8 +99,8 @@ WiiウェアゲームをWiimmfi上でプレイするためにパッチするこ�
 {: .notice--info}
 
 手順
-1. Extract the .zip of the latest version of WiiWare Patcher, and put your WAD in it.
-2. OSに合わせたパッチスクリプトを実行します。通常`.bat`で終わるものがWindows用で`.sh`で終わるものがMac・Linux用です。 If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
+1. 最新版のWiiWare Patcherの.zipファイルを展開して、用意したWADをそのフォルダに置きます。
+2. OSに合わせたパッチスクリプトを実行します。通常`.bat`で終わるものがWindows用で`.sh`で終わるものがMac・Linux用です。 RiiConnect24 Patcherを使用している場合は、機種（Wii、vWii、またはDolphinエミュレータ）を選択し、WiiWare Patcherを選択します。
 3. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
 
 ## その他
@@ -117,14 +117,14 @@ Wiimmfiを使って、マリオカートWii大会に再び参加することが�
 
 #### 手順（Wii用）
 
-1. Extract Mario Kart Wii Competition Patcher and put it in the `apps` folder on your SD Card.
-2. Insert your SD card or USB drive into the Wii.
-3. Launch the original Mario Kart Wii game (not Wiimmfi patched).
+1. Mario Kart Wii Competition Patcherを展開してSDカードの`apps`フォルダに置きます。
+2. WiiにSDカードを挿入します。
+3. オリジナル（Wiimmfiパッチ未適用）のマリオカートWiiを起動します。
 4. Navigate to Settings -> Network Settings (or Nintendo WFC Connection) -> Message Service. If you turned the message service feature on, turn it off and turn it on again.
 5. Launch Mario Kart Wii Competition Patcher.
-6. The patcher will look for save files for Mario Kart Wii on your storage device in various places, and upload them. This is done in case a missing competition is found in your save file. It will also, of course, patch your Wii for competitions.
+6. The patcher will look for save files for Mario Kart Wii on your storage device in various places, and upload them. This is done in case a missing competition is found in your save file. もちろん、Wiiに大会用のパッチを適用します。
 
-If you're using the Wii U, you will have to run the competitions patcher whenever you want to check for a competition, because WiiConnect24 is not enabled on the Wii U.
+Wii Uを使用している場合、大会のチェック時には毎回パッチを実行する必要があります。Wii UではWiiConnect24が有効でないためです。
 {: .notice--info}
 
 ### DSゲーム
