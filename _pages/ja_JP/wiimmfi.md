@@ -35,8 +35,8 @@ Wiimmfiに接続する方法は様々です。 あなたに合った方法を選
 `Wiimmfi patch v2`や`Wiimmfi patch v3`が代わりに表示されていたら、お持ちの`hacks_hash.ini`は最新ではありません。<br>[ここ](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini)からダウンロードして、SDカードやUSBドライブの`/apps/priiloader/hacks_hash.ini`に配置してください。<br>その後で、上のステップを再度試します。
 {: .notice--warning}
 
-### Homebrew (Disc) Application
-MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
+### Homebrew（ゲームディスク）アプリケーション
+MrBean35000vr（CTGP-R マリオカートWiiコンテンツパック作者）は、ゲームディスクを挿入したらWiimmfi用にその場でパッチを適用できるWiimmfi Disc Patcherを作成しました。ゲームディスクを起動するたびに実行する必要があります。
 
 #### 必要なもの
 * SDカードまたはUSBドライブ
@@ -44,13 +44,13 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 
 #### 手順
 
-1. Extract Auto Wiimmfi Patcher to the root of your SD card or USB drive.
-2. Insert your SD Card into your Wii, and launch Auto Wiimmfi Patcher from the Homebrew Channel.
-3. Insert your game disc (you can insert it before or after launch, it doesn't matter).
-4. Wait for patch to complete, and it'll begin!
+1. Auto Wiimfi PatcherをSDカードまたはUSBドライブのルートに展開します。
+2. WiiにSDカードまたはUSBドライブを接続し、Homebrew ChannelからAuto Wiimmfi Patcherを起動します。
+3. ゲームディスクを挿入します（Patcher起動前・起動後のどちらでも構いません）。
+4. パッチが完了するまで待つと、ゲームがはじまります！
 
-### No-Homebrew (Disc)
-Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
+### Homebrewなし（Disc）
+Fullmetal5のstr2haxエクスプロイトと、LeseratteによるWiimmfiパッチへの改変によって、Wii上のHomebrew要らずでWiimmfiパッチを適用できます。
 
 #### 必要なもの
 * インターネットに接続されたWii
@@ -58,12 +58,12 @@ Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for th
 #### 手順
 
 1. ゲームディスクを挿入します。
-2. Go into your internet connection settings and set the DNS server of your console to 95.217.77.151.
+2. インターネット接続の設定に移動し、本体のDNSを95.217.77.151に設定します。
 3. Go to the WC24 contract information (third button after clicking on "Internet" in the settings).
-4. Confirm that you do want to use WC24 and the shop channel
-5. The Wiimmfi patcher page should show up. If it doesn't, and you still see the default license agreement, your router might not be compatible with this method.
-6. Wait for about 1 minute and 30 seconds for the patcher to load
-7. The game should now start with the Wiimmfi patch included
+4. WiiConnect24とWiiショッピングチャンネルを使用すると答えます。
+5. Wiimmfiパッチページが表示されます。 そうでなく、通常の利用規約が表示されるだけの場合、お使いのルーターがこの方法に対応していない可能性があります。
+6. パッチが適用されるまで約1分30秒待ちます。
+7. Wiimmfiパッチが適用された状態でゲームが開始します。
 
 ### USBローダーを使用した自動パッチ
 If you are already using USB Loader GX, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
