@@ -45,7 +45,7 @@ RiiConnect24 Patcherを実行できないときは、[the RiiConnect24 Discord s
 6. このガイドでは、`Install RiiConnect24 on your Wii`を選択します。 ![RiiConnect24をインストール](/images/RC24_Patcher/3.JPG)
 7. `Express (Recommended)`を選択します。 必要なもの全てが揃います。 ![Express設定](/images/RC24_Patcher/4.JPG)
 8. 地域を選択します。 ![地域を選択](/images/RC24_Patcher/5.JPG)
-9. While you're at it, RiiConnect24 Patcher can additionally download some other optional channels that do not use RiiConnect24. `[X]` represents the options that selected. Just press 5 and `ENTER` if you're not interested. ![追加のオプションチャンネル](/images/RC24_Patcher/6.JPG)
+9. ここではRiiConnect24 Patcherで、RiiConnect24を使用しない他のいくつかのオプションチャンネルを追加でダウンロードすることができます。 `[X]`は選択されたオプションを表します。 興味がない場合は、5と`ENTER`を押して続行します。 ![追加のオプションチャンネル](/images/RC24_Patcher/6.JPG)
 10. SDカードまたはUSBドライブをコンピュータに接続し、`1`を選択します。 ![SDカードへのコピーを有効化](/images/RC24_Patcher/7.JPG)
 11. デバイスが正しく検出された場合は`1`を選びます。 そうでなければ、`apps`フォルダがSDカードまたはUSBドライブ上に存在することを確認してもう一度試します。 ![検出成功](/images/RC24_Patcher/8.JPG)
 12. しばらくお待ちください。 ![パッチ適用中！](/images/RC24_Patcher/9.JPG)
@@ -110,13 +110,13 @@ RiiConnect24をインストールした後、お天気チャンネルでエラ�
 エラー107245が発生した場合は、パッチを当てたIOSがインストールされていません。 Wii Mod Liteを使って、他のパッチを当てたWADと一緒にパッチを当てたIOS31、IOS80をインストールしてください。
 {: .notice--warning}
 
-If you get error 107304 or you see Nintendo's User Agreement without RiiConnect24's logo, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. `DNS自動取得`を`する`に設定することで解決します。 RiiConnect24は自動取得DNSでも動作します。 あるいは、RiiConnect24の[DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest)プログラムを使用することもできます。
+エラー107304が発生した、またはRiiConnect24のロゴなしの任天堂利用規約が表示された場合は、お使いのISP（インターネットサービスプロバイダ）やネットワークがDNSの使用をブロックしているということです。 `DNS自動取得`を`する`に設定することで解決します。 RiiConnect24は自動取得DNSでも動作します。 あるいは、RiiConnect24の[DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest)プログラムを使用することもできます。
 {: .notice--warning}
 
-[If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with RC24-Clear-Tool](deleting-vffs).
+お天気チャンネル・ニュースチャンネルで、FOREやNEWSで始まるエラーコードや、サービス終了のメッセージなど、上記と別のエラーが発生している場合は、[RiiConnect24 Clear Toolを使ってVFFを削除してみてください](deleting-vffs)。
 {: .notice--warning}
 
-If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. RiiConnect24がサポートしない国を利用すると発生するエラーです。 さらにヘルプが必要な場合は、[support@riiconnect24.net](mailto:support@riiconnect24.net)まで連絡ください。
+`WiiConnect24とWiiショッピングチャンネルはお住まいの国では提供されていません`という旨のエラーが出た場合は、Wii本体設定 -> 最後のページ -> 国設定 を開き、イギリスを選択してください。 RiiConnect24がサポートしない国を利用すると発生するエラーです。 さらにヘルプが必要な場合は、[support@riiconnect24.net](mailto:support@riiconnect24.net)まで連絡ください。
 {: .notice--warning}
 
 [Wiimmfiに進む](wiimmfi)<br> WiimmfiではニンテンドーWi-Fiコネクションの廃止後の今でもオンラインゲームをプレイできるようになります。 インストールは任意です。
