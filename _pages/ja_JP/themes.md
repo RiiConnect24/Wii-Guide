@@ -1,5 +1,5 @@
 ---
-title: "Installing Wii Menu Themes"
+title: "Wiiメニューテーマをインストールする"
 ---
 
 {% include toc title="目次" %}
@@ -29,7 +29,7 @@ We recommend you [install cIOS](cios) before continuing.
 
 #### 必要なもの
 
-* A Wii
+* Wii
 * SDカードまたはUSBドライブ
 * A computer with Windows on it (or using Mono or Wine on Mac/Linux)
 * [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
