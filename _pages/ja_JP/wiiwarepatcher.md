@@ -13,7 +13,7 @@ This tutorial is only for Windows version of WiiWare Patcher.
 
 #### 必要なもの
 
-* A Windows computer
+* Windowsコンピュータ
 * [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases)
 
 ##### Section I - Downloading WiiWare Patcher
