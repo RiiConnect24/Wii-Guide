@@ -44,7 +44,7 @@ MrBean35000vr（CTGP-R マリオカートWiiコンテンツパック作者）は
 
 #### 手順
 
-1. Auto Wiimfi PatcherをSDカードまたはUSBドライブのルートに展開します。
+1. Auto Wiimmfi PatcherをSDカードまたはUSBドライブのルートに展開します。
 2. WiiにSDカードまたはUSBドライブを接続し、Homebrew ChannelからAuto Wiimmfi Patcherを起動します。
 3. ゲームディスクを挿入します（Patcher起動前・起動後のどちらでも構いません）。
 4. パッチが完了するまで待つと、ゲームがはじまります！
@@ -59,32 +59,32 @@ Fullmetal5のstr2haxエクスプロイトと、LeseratteによるWiimmfiパッ�
 
 1. ゲームディスクを挿入します。
 2. インターネット接続の設定に移動し、本体のDNSを95.217.77.151に設定します。
-3. Go to the WC24 contract information (third button after clicking on "Internet" in the settings).
+3. 利用規約（本体設定で「インターネット」をクリックした後、3番目のボタン）に移動します。
 4. WiiConnect24とWiiショッピングチャンネルを使用すると答えます。
 5. Wiimmfiパッチページが表示されます。 そうでなく、通常の利用規約が表示されるだけの場合、お使いのルーターがこの方法に対応していない可能性があります。
 6. パッチが適用されるまで約1分30秒待ちます。
 7. Wiimmfiパッチが適用された状態でゲームが開始します。
 
 ### USBローダーを使用した自動パッチ
-If you are already using USB Loader GX, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
+既にUSB Loader GXを使用している場合は、最新バージョンに更新してみてください。 Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
 
 ### ISOパッチ
-You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
+Wiimmfiでプレイするために毎回パッチを実行するのは面倒ですし、もしかしたら既にUSBローダーをお使いかもしれません。 そのため、特定のゲームのためにいくつかのISOパッチが作成されました。
 
 #### 必要なもの
-- Your copy of your game (WBFS, ISO, cISO, and other forms that a Wii can use are supported).
-- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
+- お持ちのゲームのコピー（WBFS、ISO、cISO、その他Wiiの使用できる形式はサポートされます）
+- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/)（WindowsおよびUnix）  
   **or**
-- [Wiimmfi Patcher (cross-platform)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
-- A USB Loader, [cIOS](cios), and a USB to store the game on (you should already have these if you're using a USB Loader)
+- [Wiimmfi Patcher（クロスプラットホーム）](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
+- USBローダー、[cIOS](cios)、ゲームを保存するためのUSBデバイス（USBローダーを使用していれば既にお持ちのはずです）
 
 #### 手順
-1. Extract the patcher of your choice to a folder, and place your copy of the game in it.
-2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the patcher for your game.
+1. 選択したパッチをフォルダへ展開し、ゲームのコピーをそのフォルダに置きます。
+2. OSに合わせたパッチスクリプトを実行します。通常`.bat`で終わるものがWindows用で`.sh`で終わるものがMac・Linux用です。 If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the patcher for your game.
 3. Once it's finished, get the version out of the `wiimmfi-images` folder (it may be in the folder outside of the patcher - ../wiimmfi-images) and copy it back to your USB.
 
-### WiiWare Patching
-You can patch WiiWare games in order to play them on Wiimmfi.
+### Wiiウェア パッチ
+WiiウェアゲームをWiimmfi上でプレイするためにパッチすることができます。
 
 #### 必要なもの
 
@@ -92,21 +92,21 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 - ゲームのコピー（WAD形式）
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
   **or**
-- [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (cross platform)
+- [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases)（クロスプラットホーム）
 - [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
-[If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
+[WiiWare Patcherの使い方を見るには、ここをクリック！](wiiwarepatcher)
 {: .notice--info}
 
 手順
 1. Extract the .zip of the latest version of WiiWare Patcher, and put your WAD in it.
-2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
+2. OSに合わせたパッチスクリプトを実行します。通常`.bat`で終わるものがWindows用で`.sh`で終わるものがMac・Linux用です。 If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
 3. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
 
 ## その他
 
-### Mario Kart Wii Competitions
-Wiimmfi allows you to participate in Mario Kart Wii competitions again.
+### Mario Kart Wii Competitions（マリオカートWii大会）
+Wiimmfiを使って、マリオカートWii大会に再び参加することができます。
 
 #### 必要なもの
 
@@ -128,33 +128,33 @@ If you're using the Wii U, you will have to run the competitions patcher wheneve
 {: .notice--info}
 
 ### DSゲーム
-Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks to an exploit called nds-constraint, you can play DS games online without patching your games.
+WiimmfiはWiiゲームだけでなく、多くのDSゲームもサポートしています。 nds-constraintというエクスプロイトのおかげで、お持ちのゲームにパッチを当てることなく、オンラインでDSゲームをプレイすることができます。
 
 #### 必要なもの
 
-- A Wi-Fi network with WEP or no security
+- WEPまたはセキュリティがないWi-Fiネットワーク
 
-Getting a Wi-Fi network with WEP or no security is the hardest part, because DS games don't support newer Wi-Fi security types (unless it's one of the few games that are "DSi Enhanced" and can use your Wi-Fi configuration on your DSi or 3DS, like Pokémon Black/White). However, many routers support creating a guest Wi-Fi connection, or you can make a hotspot on your phone or your computer. There are plenty of resources on the Internet that have information on this, so use your favorite search engine to find them.
+WEPまたはセキュリティなしのWi-Fiネットワークを確保するのが最も困難な部分です。なぜならDSゲームは新しい種類のWi-Fiセキュリティをサポートしていないためです。例外は数少ないDSi対応ゲームであり、これらはDSi・3DS上のWi-Fi設定を利用できます（『ポケットモンスター ブラック・ホワイト』など）。 ただし、多くのルータはゲストWi-Fi接続の作成に対応していますし、あるいは携帯電話やコンピュータでホットスポットを作成することもできます。 この詳細はインターネット上にたくさん資料があるので、好みの検索エンジンで調べてください。
 {: .notice--info}
 
 #### 手順
 
-1. Go in the Nintendo DS Wi-Fi settings. This can be accessed inside the game you want to play online with.
+1. DSのWi-Fiコネクション設定を開きます。 これは、オンラインでプレイしたいゲームの中でアクセスできます。
 2. 接続を設定します。
 3. プライマリDNSに`167.86.108.126`を入力します。
 4. セカンダリDNSに`1.1.1.1`を入力します。
-5. Save your connection settings and perform a connection test. If it's successful, then you're ready to play.
+5. 接続設定を保存し、接続テストを実行します。 成功すれば、オンラインプレイの準備ができました。
 
-### Mario Kart Wii Mods
+### マリオカートWii改造
 
-#### CTGP-R
-MrBean35000vr and Chadderz have a custom track distribution called CTGP-R that allows you to use a set of custom tracks and has automatic Wiimmfi patching. Go to the [ChadSoft website](http://chadsoft.co.uk) for the download and instructions.
+#### CTGP-R（CTGP Revolution）
+MrBean35000vrとChadderzによって、CTGP-Rと呼ばれるオリジナルコース群が配布されています。Wiimmfiパッチが自動で適用されます。 ダウンロードと導入手順については[ChadSoft website](http://chadsoft.co.uk)を参照ください。
 
 #### MKW Hack Pack
-PhillyG has put together a collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. To learn how to set it up, go to the [wiki page](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+PhillyGはMKW Hack Packと呼ばれるカスタムトラックとハックのコレクションをまとめており、またWiimmfiへの接続が可能です。 セットアップの方法は[Wikiページ](http://wiki.tockdom.com/wiki/MKW_Hack_Pack)をご覧ください。
 
 #### Wiimms Mario Kart Fun
-Wiimm and Leseratte make a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte, has Wiimmfi support, and lots of other features. You can find out more about it on its [wiki page](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
+WiimmとLeseratteによってWiimms MKW Funというオリジナルコース群が作られ、配布されています。年に3回更新されています。 LeseratteのLE-CODEフレームワークに基づいていて、Wiimmfiのサポートに始まり、他にも多くの機能があります。 詳しいことは[Wikiのページ](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun)をご覧ください。
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[サイトマップへ進む](site-navigation)<br> 他にもきっと気になるチュートリアルがあります。
 {: .notice--info}
