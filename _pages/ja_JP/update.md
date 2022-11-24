@@ -1,5 +1,5 @@
 ---
-title: "Updating Wii Menu to v4.3"
+title: "Wii本体をVer 4.3に更新する"
 ---
 
 {% include toc title="目次" %}
@@ -39,10 +39,10 @@ To protect against bricks, [make sure you install Priiloader](priiloader). Also,
 
 | Region | Wii Menu version |
 | ------ | ---------------- |
-| Japan  | v512 (4.3J)      |
-| USA    | v513 (4.3U)      |
-| Europe | v514 (4.3E)      |
-| Korea  | v518 (4.3K)      |
+| 日本     | v512 (4.3J)      |
+| アメリカ   | v513 (4.3U)      |
+| ヨーロッパ  | v514 (4.3E)      |
+| 韓国     | v518 (4.3K)      |
 
 ##### セクション II - インストール
 
