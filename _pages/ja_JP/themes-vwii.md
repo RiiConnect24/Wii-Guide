@@ -21,7 +21,7 @@ There are some themes that aren't compatible with the vWii System Menu, they may
 If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329). ([Archive](https://web.archive.org/web/20200213194233/https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329/))
 {: .notice--info}
 
-#### What You Need
+#### 必要なもの
 
 * A Wii U with the Homebrew Channel installed.
 * A Wiimote without Wii MotionPlus
@@ -68,9 +68,9 @@ There are a couple of ways to get the .app files for your vWii System Menu, in t
 
 | Region | vWii Menu version |
 | ------ | ----------------- |
-| Japan  | v608              |
-| USA    | v609              |
-| Europe | v610              |
+| 日本     | v608              |
+| アメリカ   | v609              |
+| ヨーロッパ  | v610              |
 
 After selecting the correct version to download, check the box for `Create Decrypted Contents (*.app)`. Then, press the `Start NUS Download` Button on the top of the window.
 
@@ -82,9 +82,9 @@ After the download has finished, search for .app file corresponding to your regi
 
 | Region | .app file for your region |
 | ------ | ------------------------- |
-| Japan  | 0000001c.app              |
-| USA    | 0000001f.app              |
-| Europe | 00000022.app              |
+| 日本     | 0000001c.app              |
+| アメリカ   | 0000001f.app              |
+| ヨーロッパ  | 00000022.app              |
 
 If you can't find the .app file, it's possible you have downloaded the wrong version of the Wii Menu and you'll need to try again.
 
