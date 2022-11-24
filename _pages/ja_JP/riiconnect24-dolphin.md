@@ -56,7 +56,7 @@ If you use a Windows version before Windows 10, you unfortunately cannot use Wii
 5. For this guide, choose "`Install RiiConnect24 on your Dolphin Emulator`" ![RiiConnect24をインストール](/images/RC24_Patcher/3.JPG)
 6. `Express (Recommended)`を選択します。 必要なもの全てが揃います。 ![Express設定](/images/RC24_Patcher/4.JPG)
 7. 地域を選択します。 ![地域を選択](/images/RC24_Patcher/5.JPG)
-8. While you're at it, RiiConnect24 Patcher can additionally download some other optional channels that do not use RiiConnect24. `[X]` represents the options that selected. Just press 5 and `ENTER` if you're not interested. !\[Additional optional channels\](/images/RC24_Patcher/6.JPG
+8. ここではRiiConnect24 Patcherで、RiiConnect24を使用しない他のいくつかのオプションチャンネルを追加でダウンロードすることができます。 `[X]`は選択されたオプションを表します。 興味がない場合は、5と`ENTER`を押して続行します。 !\[Additional optional channels\](/images/RC24_Patcher/6.JPG
 9. Press `1` then `ENTER` to start patching.
 10. しばらくお待ちください。 ![パッチ適用中！](/images/RC24_Patcher/9.JPG)
 11. 終了後、匿名のフィードバックを送信していただければ幸いです。  望まない場合は、Patcherを閉じます。 必要なファイルはすべてSDカードにあるはずです。 ![完了です！](/images/RC24_Patcher/10.JPG) ![ファイルはコピーされました](/images/RC24_Patcher/11.PNG)
@@ -69,5 +69,5 @@ Unfortunately, Wii Mail doesn't work in Dolphin yet.
 You will have to launch the Everybody Votes Channel 4 times at most in order for it to start working.
 {: .notice--warning}
 
-[If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with RC24-Clear-Tool](deleting-vffs).
+お天気チャンネル・ニュースチャンネルで、FOREやNEWSで始まるエラーコードや、サービス終了のメッセージなど、上記と別のエラーが発生している場合は、[RiiConnect24 Clear Toolを使ってVFFを削除してみてください](deleting-vffs)。
 {: .notice--warning}
