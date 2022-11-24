@@ -80,8 +80,8 @@ Wiimmfiでプレイするために毎回パッチを実行するのは面倒で�
 
 #### 手順
 1. 選択したパッチをフォルダへ展開し、ゲームのコピーをそのフォルダに置きます。
-2. OSに合わせたパッチスクリプトを実行します。通常`.bat`で終わるものがWindows用で`.sh`で終わるものがMac・Linux用です。 If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the patcher for your game.
-3. Once it's finished, get the version out of the `wiimmfi-images` folder (it may be in the folder outside of the patcher - ../wiimmfi-images) and copy it back to your USB.
+2. OSに合わせたパッチスクリプトを実行します。通常`.bat`で終わるものがWindows用で`.sh`で終わるものがMac・Linux用です。 RiiConnect24 Patcherを使用している場合は、機種（Wii、vWii、またはDolphinエミュレータ）を選択し、ゲームに合わせたパッチを選択します。
+3. 完了したら、`wiimmfi-images`フォルダ（パッチの外側のフォルダに作られることもある―`../wiimmfi-images`）からパッチ済みバージョンをコピーしてUSBにコピーします。
 
 ### Wiiウェア パッチ
 WiiウェアゲームをWiimmfi上でプレイするためにパッチすることができます。
@@ -101,7 +101,7 @@ WiiウェアゲームをWiimmfi上でプレイするためにパッチするこ�
 手順
 1. 最新版のWiiWare Patcherの.zipファイルを展開して、用意したWADをそのフォルダに置きます。
 2. OSに合わせたパッチスクリプトを実行します。通常`.bat`で終わるものがWindows用で`.sh`で終わるものがMac・Linux用です。 RiiConnect24 Patcherを使用している場合は、機種（Wii、vWii、またはDolphinエミュレータ）を選択し、WiiWare Patcherを選択します。
-3. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
+3. 正常に完了した場合は、`wiiware-wads`内に生成されたWADをWii Mod Liteでインストールします。
 
 ## その他
 
@@ -121,8 +121,8 @@ Wiimmfiを使って、マリオカートWii大会に再び参加することが�
 2. WiiにSDカードを挿入します。
 3. オリジナル（Wiimmfiパッチ未適用）のマリオカートWiiを起動します。
 4. Navigate to Settings -> Network Settings (or Nintendo WFC Connection) -> Message Service. If you turned the message service feature on, turn it off and turn it on again.
-5. Launch Mario Kart Wii Competition Patcher.
-6. The patcher will look for save files for Mario Kart Wii on your storage device in various places, and upload them. This is done in case a missing competition is found in your save file. もちろん、Wiiに大会用のパッチを適用します。
+5. Mario Kart Wii Competition Patcherを実行します。
+6. パッチがお使いのストレージデバイスからマリオカートWiiのセーブデータを探してアップロードします。 これは、セーブファイルに不足している大会が見つかった場合に行われます。 もちろん、Wiiに大会用のパッチを適用します。
 
 Wii Uを使用している場合、大会のチェック時には毎回パッチを実行する必要があります。Wii UではWiiConnect24が有効でないためです。
 {: .notice--info}
@@ -156,5 +156,5 @@ PhillyGはMKW Hack Packと呼ばれるカスタムトラックとハックのコ
 #### Wiimms Mario Kart Fun
 WiimmとLeseratteによってWiimms MKW Funというオリジナルコース群が作られ、配布されています。年に3回更新されています。 LeseratteのLE-CODEフレームワークに基づいていて、Wiimmfiのサポートに始まり、他にも多くの機能があります。 詳しいことは[Wikiのページ](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun)をご覧ください。
 
-[サイトマップへ進む](site-navigation)<br> 他にもきっと気になるチュートリアルがあります。
+[サイトマップへ進む](site-navigation)<br> 他にも気に入るチュートリアルがきっとあります。
 {: .notice--info}
