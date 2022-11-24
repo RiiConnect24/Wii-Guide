@@ -1,5 +1,5 @@
 ---
-title: "Installing RSSMii"
+title: "RSSMiiをインストールする"
 ---
 
 {% include toc title="目次" %}
