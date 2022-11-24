@@ -11,7 +11,7 @@ title: "RiiConnect24 Clear Tool"
 
 RiiConnect24 Clear Toolは、下記の特定のエラーや問題を修正できるHomebrewアプリケーションです。
 
-+ Discontinued Message
++ サービス終了のお知らせ
 + NEWS/FORE000001
 + NEWS/FORE000003
 + NEWS/FORE000005
