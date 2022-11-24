@@ -15,8 +15,8 @@ Want to install RiiTag on your Wii U? See [this guide](riitag-wiiu) on how to co
 #### 必要なもの
 
 * パソコン
-* A text editor
-* A USB Loader
+* テキストエディタ
+* USBローダー
 
 #### 手順
 
@@ -57,7 +57,7 @@ The steps to connect RiiTag to your USB Loader depend on what USB Loader you use
 7. Save the modified `wiiflow.ini` file.
 8. You have now set up RiiTag. You can try loading any game now to see if it works correctly.
 
-###### Emulators
+###### エミュレータ
 
 RiiTag supports Dolphin, Citra, and Cemu. You need a Discord account for this to work.
 {: .notice--info}
@@ -101,5 +101,5 @@ We have a RiiTag Channel you can install on your Wii. When it is launched, it wi
 [Check out RiiTag-RPC](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br> Now that you set up RiiTag, you can set up RiiTag-RPC to show your Discord friends what you're playing on the Wii using Discord's rich presence.
 {: .notice--info}
 
-[サイトマップへ進む](site-navigation)<br> 他にもきっと気になるチュートリアルがあります。
+[サイトマップへ進む](site-navigation)<br> 他にも気に入るチュートリアルがきっとあります。
 {: .notice--info}
