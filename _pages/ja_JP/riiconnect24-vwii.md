@@ -73,7 +73,7 @@ RiiConnect24 Patcherを実行できないときは、[the RiiConnect24 Discord s
 
 ##### セクション II - WADのインストール
 
-You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
+これから、RiiConnect24を使うために必要なパッチ適用済みIOS（cIOS）およびチャンネルWADのインストールをします。
 
 1. Put your SD card or USB drive in your Wii U.
 2. Launch the Homebrew Channel on your Wii U.
