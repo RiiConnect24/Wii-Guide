@@ -66,7 +66,7 @@ Fullmetal5のstr2haxエクスプロイトと、LeseratteによるWiimmfiパッ�
 7. Wiimmfiパッチが適用された状態でゲームが開始します。
 
 ### USBローダーを使用した自動パッチ
-既にUSB Loader GXを使用している場合は、最新バージョンに更新してみてください。 Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
+既にUSB Loader GXを使用している場合は、最新バージョンに更新してみてください。 すると「private server」なるオプションが設定画面（ローダー設定および各ゲーム設定）にあり、「Wiimmfi」を選べばUSB Loader GXが自動ですべてのゲームにパッチを適用して、Wiimmfiを利用することができます。
 
 ### ISOパッチ
 Wiimmfiでプレイするために毎回パッチを実行するのは面倒ですし、もしかしたら既にUSBローダーをお使いかもしれません。 そのため、特定のゲームのためにいくつかのISOパッチが作成されました。
