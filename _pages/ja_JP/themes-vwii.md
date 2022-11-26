@@ -66,11 +66,11 @@ There are a couple of ways to get the .app files for your vWii System Menu, in t
 2. Open the menu in NUS Downloader and click the database button.
 3. Go to System > System Menu and select a version according to your region.
 
-| Region | vWii Menu version |
-| ------ | ----------------- |
-| 日本     | v608              |
-| アメリカ   | v609              |
-| ヨーロッパ  | v610              |
+| リージョン | vWii Menu version |
+| ----- | ----------------- |
+| 日本    | v608              |
+| アメリカ  | v609              |
+| ヨーロッパ | v610              |
 
 After selecting the correct version to download, check the box for `Create Decrypted Contents (*.app)`. Then, press the `Start NUS Download` Button on the top of the window.
 
@@ -80,11 +80,11 @@ After selecting the correct version to download, check the box for `Create Decry
 
 After the download has finished, search for .app file corresponding to your region in the folder where NUS Downloader is.
 
-| Region | .app file for your region |
-| ------ | ------------------------- |
-| 日本     | 0000001c.app              |
-| アメリカ   | 0000001f.app              |
-| ヨーロッパ  | 00000022.app              |
+| リージョン | .app file for your region |
+| ----- | ------------------------- |
+| 日本    | 0000001c.app              |
+| アメリカ  | 0000001f.app              |
+| ヨーロッパ | 00000022.app              |
 
 If you can't find the .app file, it's possible you have downloaded the wrong version of the Wii Menu and you'll need to try again.
 
