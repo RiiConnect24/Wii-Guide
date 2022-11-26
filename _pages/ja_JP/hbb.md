@@ -8,7 +8,7 @@ title: "Open Shop Channel（Homebrew Browser）"
 Homebrew Browser, which is what the Open Shop Channel is based off on, does work but it can be buggy. You can also get homebrew using [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) and from the [Open Shop Channel website](https://oscwii.org/).
 {: .notice--info}
 
-The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. Homebrew Browserというアプリの復活プロジェクトです。
+[Open Shop Channel](https://oscwii.org/)は様々なHomebrewアプリを入手できる場所です。 Homebrew Browserというアプリの復活プロジェクトです。
 
 #### 必要なもの
 * SDカードまたはUSBドライブ
@@ -23,16 +23,16 @@ The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew
 
 Open Shop Channelで入手できるおすすめアプリは次のとおりです。
 
-- [CleanRip](https://oscwii.org/library/app/CleanRip) - This is a tool to dump Wii and GameCube games. See [our page](dump-games) for more details.
-- [GCMM](https://oscwii.org/library/app/gcmm) - This is a GameCube memory card manager for your Wii.
-- [MyMenuify Mod](https://oscwii.org/library/app/mymenuifymod) - This is a tool to install themes for your Wii Menu. See [our page](themes) for instructions on how to use it.
-- [Nintendont](https://oscwii.org/library/app/nintendont) - This is a GameCube game loader for your Wii. For more information, please see [this GBAtemp thread](https://gbatemp.net/threads/nintendont.349258/).
-- [SaveGame Manager GX](https://oscwii.org/library/app/savegame_manager_gx) - This is a save manager for your Wii. It allows you to copy save files and Miis to and from your Wii.
-- [USB Loader GX](https://oscwii.org/library/app/usbloader_gx) - This is a USB Loader for your Wii. See [our page](usbloadergx) for instructions on how to use it.
-- [WiiFlow Lite](https://oscwii.org/library/app/wiiflow) - This is another USB Loader for your Wii. See [our page](wiiflow) for instructions on how to use it.
-- [WiiMC-SS](https://oscwii.org/library/app/wiimc-ss) - This is a media player for your Wii. It supports movies, music, photos, radio stations, YouTube, and more.
-- [WiiXplorer-SS](https://oscwii.org/library/app/wiixplorer-ss) - This is a file manager for your Wii. It lets you access your files on your SD Card, USB Device, and more.
-- [YABDM](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod) - This is a tool to dump content installed on your Wii to WAD files. See [our page](dump-wads) for instructions on how to use it.
+- [CleanRip](https://oscwii.org/library/app/CleanRip) - Wii・ゲームキューブソフトのダンプツールです。 使い方は、[ガイドのこのページ](dump-games)をご覧ください。
+- [GCMM](https://oscwii.org/library/app/gcmm) - ゲームキューブのメモリーカード管理アプリです。
+- [MyMenuify Mod](https://oscwii.org/library/app/mymenuifymod) - Wiiメニューにテーマをインストールするツールです。 使い方は、[ガイドのこのページ](themes)をご覧ください。
+- [Nintendont](https://oscwii.org/library/app/nintendont) - ゲームキューブソフトのローダーです。 For more information, please see [this GBAtemp thread](https://gbatemp.net/threads/nintendont.349258/).
+- [SaveGame Manager GX](https://oscwii.org/library/app/savegame_manager_gx) - Wiiのセーブデータ管理アプリです。 It allows you to copy save files and Miis to and from your Wii.
+- [USB Loader GX](https://oscwii.org/library/app/usbloader_gx) - USBローダーです。 使い方は、[ガイドのこのページ](usbloadergx)をご覧ください。
+- [WiiFlow Lite](https://oscwii.org/library/app/wiiflow) - もう一つのUSBローダーです。 使い方は、[ガイドのこのページ](wiiflow)をご覧ください。
+- [WiiMC-SS](https://oscwii.org/library/app/wiimc-ss) - メディアプレイヤーです。 It supports movies, music, photos, radio stations, YouTube, and more.
+- [WiiXplorer-SS](https://oscwii.org/library/app/wiixplorer-ss) - ファイルマネージャーです。 It lets you access your files on your SD Card, USB Device, and more.
+- [YABDM](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod) - This is a tool to dump content installed on your Wii to WAD files. 使い方は、[ガイドのこのページ](dump-wads)をご覧ください。
 
 [RiiConnect24に進む](riiconnect24)<br> RiiConnect24では、廃止されたWiiConnect24のサービスが使えるようになります。これにはニュースチャンネル、お天気チャンネル、みんなで投票チャンネル、みんなのニンテンドーチャンネル、Miiコンテストチャンネル、Wii伝言板メールなどが含まれます。 インストールは任意です。
 {: .notice--info}
