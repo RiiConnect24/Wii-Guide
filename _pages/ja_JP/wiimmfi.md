@@ -120,9 +120,9 @@ Wiimmfiを使って、マリオカートWii大会に再び参加することが�
 1. Mario Kart Wii Competition Patcherを展開してSDカードの`apps`フォルダに置きます。
 2. WiiにSDカードを挿入します。
 3. オリジナル（Wiimmfiパッチ未適用）のマリオカートWiiを起動します。
-4. Navigate to Settings -> Network Settings (or Nintendo WFC Connection) -> Message Service. If you turned the message service feature on, turn it off and turn it on again.
+4. 共通設定 -> ネットワークオプション -> お知らせ配信に移動します。 配信をオンにします。オンにしていた場合は、オフにしてもう一度オンにしてください。
 5. Mario Kart Wii Competition Patcherを実行します。
-6. パッチがお使いのストレージデバイスからマリオカートWiiのセーブデータを探してアップロードします。 これは、セーブファイルに不足している大会が見つかった場合に行われます。 もちろん、Wiiに大会用のパッチを適用します。
+6. パッチがお使いのストレージデバイスからマリオカートWiiのセーブデータを探してアップロードします。 これは、セーブファイルに不足している大会が見つかった場合に行われます。 それからもちろん、Wiiに大会用のパッチを適用します。
 
 Wii Uを使用している場合、大会のチェック時には毎回パッチを実行する必要があります。Wii UではWiiConnect24が有効でないためです。
 {: .notice--info}
