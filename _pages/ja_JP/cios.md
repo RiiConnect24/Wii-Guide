@@ -115,9 +115,9 @@ Select cIOS version: 65535
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. 動かないゲームを選択します。
 1. 歯車アイコンをクリックします。
-1. Go to cIOS and use the arrows to select the IOS slot to use.
+1. cIOSに移動し、矢印を使ってIOSスロットを選択します。
     - 249でうまくいかない場合は、250または251を使用してみてください。
-1. Press Save and try to load the game.
+1. Saveを押して設定を保存し、ゲームを開始します。
 </div>
 ##### 完了後のオプション
 
