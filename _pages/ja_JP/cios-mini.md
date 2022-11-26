@@ -32,7 +32,7 @@ This d2x cIOS installer was originally developed for the Wii U's vWii by DaveBao
 
 ##### セクション II - インストール
 
-1. Press continue, then set the options to the following:
+1. 任意のボタンを押してCIOS SETTINGSに進み、オプションを次のように設定します。
     ```
     Select cIOS: d2xl-v1-beta2
     Select cIOS base: 57
