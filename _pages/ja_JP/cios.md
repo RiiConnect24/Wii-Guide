@@ -4,7 +4,7 @@ title: "cIOS"
 
 {% include toc title="目次" %}
 
-このチュートリアルでは、cIOS（カスタムIOS）をインストールする方法を説明します。 これは、USBローダーでゲームをロードする場合に必要です。 いくつかのHomebrewは、cIOSを使用すると動作が改善されます。
+このチュートリアルでは、cIOS（カスタムIOS。Patched IOSとも呼ばれる）をインストールする方法を説明します。 これは、USBローダーでゲームをロードする場合に必要です。 いくつかのHomebrewは、cIOSを使用すると動作が改善されます。
 
 ![d2x cIOS Installer](/images/cios/cIOS.png)
 
@@ -50,7 +50,7 @@ SDカードを使う場合はロックスイッチが解除されていること
 
 ##### セクション II - インストール
 
-1. Press continue, then set the options to the following:
+1. 任意のボタンを押してCIOS SETTINGSに進み、オプションを次のように設定します。
 
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
@@ -105,12 +105,12 @@ Select cIOS version: 65535
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
 1. 動かないゲームを選択します。
-1. Click Settings.
-1. Select `Game Load`.
-1. Scroll down to `Game IOS`.
-1. Enter the IOS slot to use.
+1. Settings（設定）をクリックします。
+1. `Game Load（ゲームの起動方法）`を選びます。
+1. `Game IOS（使用するIOS）`までスクロールします。
+1. 使用するIOSスロットを入力します。
     - 249でうまくいかない場合は、250または251を使用してみてください。
-1. Press ok and try to load the game.
+1. OKを押して設定を保存し、ゲームを開始します。
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. 動かないゲームを選択します。
