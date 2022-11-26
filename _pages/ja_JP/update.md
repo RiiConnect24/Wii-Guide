@@ -12,7 +12,7 @@ This tutorial will explain how to update your Wii Menu to version 4.3, if you ha
 #### 必要なもの
 
 * SDカードまたはUSBドライブ
-* A computer with Windows on it
+* Windowsを搭載したコンピュータ
 * [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest)
 * [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
@@ -37,12 +37,12 @@ To protect against bricks, [make sure you install Priiloader](priiloader). Also,
 6. Repeat steps 2-5 with `IOS` -> `000000010000003A` -> `Latest Version`.
 7. (If you have [RiiConnect24](riiconnect24), you can skip this step) Repeat steps 2-5 with `IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
 
-| Region | Wii Menu version |
-| ------ | ---------------- |
-| 日本     | v512 (4.3J)      |
-| アメリカ   | v513 (4.3U)      |
-| ヨーロッパ  | v514 (4.3E)      |
-| 韓国     | v518 (4.3K)      |
+| リージョン | Wii Menu version |
+| ----- | ---------------- |
+| 日本    | v512 (4.3J)      |
+| アメリカ  | v513 (4.3U)      |
+| ヨーロッパ | v514 (4.3E)      |
+| 韓国    | v518 (4.3K)      |
 
 ##### セクション II - インストール
 
