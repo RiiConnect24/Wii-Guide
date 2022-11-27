@@ -46,7 +46,7 @@ To protect against bricks, [make sure you install Priiloader](priiloader). Also,
 
 ##### セクション II - インストール
 
-You use the +Control Pad to use this tool.
+このアプリは十字ボタンを使って操作します。
 {: .notice--info}
 
 1. WiiにSDカードまたはUSBドライブを接続します。
