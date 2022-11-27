@@ -35,7 +35,7 @@ Windowsをお使いなら、[RSS Feeds Creator](https://github.com/RiiConnect24/
 </rss>
 ```
 
-Replace the "name" portion with the title you want to put for the feed. Make sure it's not very long, since there's not that much space. Then, replace the link portion with the link to the RSS feed. You can put as many feeds as you want. Don't delete the "CDATA" part.
+`name`の部分を、各フィードに対する好きなタイトルで置き換えます。 長過ぎる名前を表示するスペースはないので、あまり長くしないでください。 次に、リンク部分をRSSフィードへのリンクに置き換えます。 お好きな数だけフィードを作れます！ `CDATA`部分は削除しないでください。
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -46,9 +46,9 @@ Replace the "name" portion with the title you want to put for the feed. Make sur
 ```
 
 作成したフィードをSDカードのルートへ保存します。
-3. Launch RSSMii from the Homebrew Channel.
-4. Press A to confirm you want to subscribe to the feeds. Ignore the error about ES_GetTitleID, everything is fine.
-5. Once everything is done, press HOME to go back to the Homebrew Channel. You should soon get RSS feed updates on your Wii, enjoy!
+3. Homebrew ChannelからRSSMiiを起動します。
+4. Aを押してフィードを購読するか確認します。 ES_GetTitleIDに関するエラーは無視して構いません。
+5. すべて完了したら、HOMEを押してHomebrew Channelに戻ります。 しばらくするとWiiにRSSフィードの更新情報が届きます。お楽しみに！
 
 フィードの更新が取得されませんか？ ニュースなど、もっと頻繁に更新されるRSSフィードを試してみてください。 フィードの更新が少なければ、受け取れるものも当然少なくなります。
 {: .notice--warning}
@@ -56,7 +56,7 @@ Replace the "name" portion with the title you want to put for the feed. Make sur
 購読するフィードは少なくすることをお勧めします。フィードが多いとWii伝言板に大量のメールが届くからです。
 {: .notice--info}
 
-If you're not receiving updates after a few days, you might need to subscribe to the RSS feeds again. Launch RSSMii from the Homebrew Channel again and it'll create brand new subscriptions.
+数日後に更新を受け取らなくなる場合は、再度RSSフィードの購読登録作業が必要かもしれません。 再びHomebrew ChannelからRSSMiiを起動し、改めて購読を登録してください。
 {: .notice--info}
 
 [RSSMiiを削除する](rssmii-remove)
