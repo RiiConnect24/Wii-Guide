@@ -54,15 +54,15 @@ USB Loader GXの使い方ガイドはありません。 このセクションは
 
 ##### ユーザーインターフェイス
 
-There are multiple buttons in the USB Loader GX interface.
+USB Loader GXのインターフェースには複数のボタンがあります。
 
 ###### メインメニュー
 
-These are the functions the buttons found on the top of the main menu do, from left to right:
+上部にあるボタンのことです。機能を左から順に示しています。
 
-* Star - Shows games that you have marked as "favorites".
-* Search - Lets you search for games by name.
-* Sort - Cycles through sorting methods for games.
+* スター - 「お気に入り」としてマークしたゲームを表示します。
+* 検索 - 名前でゲームを検索します。
+* 並べ替え - ゲームの表示順序を切り替えます。
 * Platform - Choose to sort games by platform.
 * Category - Sorts games by category.
 * List - Shows games in a list view.
