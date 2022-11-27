@@ -9,7 +9,7 @@ title: "WiiFlow"
 
 ![WiiFlow](/images/wiiflowlogo.png)
 
-This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that's used to play games from a USB drive or SD card.
+これはWiiFlowの使用方法についてのクイックスタートガイドです。WiiFlowはUSBドライブ（やSDカード）に保存したゲームをプレイするためのローダーです。
 
 #### 必要なもの
 
@@ -32,22 +32,22 @@ Wii Backup Manager、Witgui、Wii Backup Fusionをでソフトをコピーして
 ゲームをプレイするには、Wiiに外付けハードドライブを使用するのがお勧めします。 フラッシュドライブ（USBメモリ）も使えますが、外付けハードドライブならより信頼性が高く、より多くのゲームを保存することができます。
 {: .notice--info}
 
-Unlike USB Loader GX, WiiFlow can load games of an SD card.
+USB Loader GXとは異なり、WiiFlowはSDカードのゲームもロードできます。
 {: .notice--info}
 
-Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. exFAT、extFS、WBFSなど、他のタイプとしてフォーマットしないでください（後者はWiiゲームを保存する古い形式です）。
+USBドライブ・SDカードがFAT32またはNTFSでフォーマットされていることを確認してください。 exFAT、extFS、WBFSなど、他のタイプとしてフォーマットしないでください（後者はWiiゲームを保存する古い形式です）。
 {: .notice--info}
 
 #### 手順
 
 ##### ダウンロード
 
-1. Extract WiiFlow and put the `apps` and `WiiFlow` folders on your USB drive or SD card.
-2. Insert your USB drive, and SD card if you're using one, into your Wii and launch WiiFlow from the Homebrew Channel.
+1. WiiFlowアーカイブを展開し、得られた`apps`と`WiiFlow`の両方をUSBドライブまたはSDカードのルートに入れてください。
+2. USBドライブ（と、使うならSDカード）をWiiに挿入し、Homebrew ChannelからWiiFlowを起動します。
 
 ##### はじめに
 
-This is not a full comprehensive guide on using WiiFlow. このセクションはまず使い始めることでその使い方を学べるように書かれています。 You should be able to figure out all the great features of WiiFlow by using it.
+これはWiiFlowの使い方の完全ガイドではありません。 このセクションはまず使い始めることでその使い方を学べるように書かれています。 使ううちに、WiiFlowの素晴らしい機能をすべて把握できるようになるでしょう。
 {: .notice--info}
 
 * WiiFlow by default is set to only find games on the SD card. This can be changed by going in to settings, startup settings then turn off "Mount SD Only".
@@ -72,7 +72,7 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 * Disc - Loads game that is in disc drive.
 * House - Will open this menu. This menu can also be launched by pressing the home button.
 
-![WF_menu](images/WFmenu.png)
+![WiiFlowメニュー](images/WFmenu.png)
 
 * Help Guide - Shows all the controls you can use in WiiFlow.
 * Reload Cache - Press this when WiiFlow is not detecting a new game on the USB drive or SD card.
@@ -85,10 +85,10 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 
 ##### 完了後のオプション
 
-[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki is a great resource with information about WiiFlow.
+[WiiFloWiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowに関する情報がまとまった素晴らしいサイトです。
 {: .notice--info}
 
-[Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that WiiFlow Lite can integrate with. セットアップは任意です。
+[RiiTagに進む](riitag)<br> RiiTagはWiiFlowと組み合わせて用いられる、カスタマイズ可能なWii用のゲーマータグです。 セットアップは任意です。
 {: .notice--info}
 
 [サイトマップへ進む](site-navigation)<br> 他にも気に入るチュートリアルがきっとあります。
