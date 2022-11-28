@@ -50,18 +50,18 @@ USBドライブ・SDカードがFAT32またはNTFSでフォーマットされて
 これはWiiFlowの使い方の完全ガイドではありません。 このセクションはまず使い始めることでその使い方を学べるように書かれています。 使ううちに、WiiFlowの素晴らしい機能をすべて把握できるようになるでしょう。
 {: .notice--info}
 
-* WiiFlow by default is set to only find games on the SD card. This can be changed by going in to settings, startup settings then turn off "Mount SD Only".
+* WiiFlowはデフォルトでSDカードのゲームのみ検索するように設定されています。 これを変更するには、設定に移動し、Startup Settingsから "Mount SD Only" をオフにします。
 * You can toggle between viewing Wii games, GameCube games, Wii Channels, Plugins, Homebrew apps by clicking the button second to last button on the right.
 * You can download game covers by going to "Settings" then "Download Covers and Banners"
 
 ##### ユーザーインターフェイス
 
-When WiiFlow detects games, they are displayed in flow view. When you click on a game you are given these options:
+WiiFlowがゲームを検出すると、フロービューで表示されます。 ゲームをクリックすると、以下のオプションが表示されます。
 
-* Star - Adds game to favorites.
-* Bookshelf - Adds the game to 1 of 6 categories of your choosing.
-* Gears - Opens the settings menu for the specific game. Changing settings here will only effect the game you changed the settings for.
-* X - Deletes the game from the USB drive or SD card
+* スター - お気に入りにゲームを追加します。
+* 本棚 - 6カテゴリのうち好みの一つにゲームを追加します。
+* 歯車 - ゲーム毎の設定メニューを開きます。 Changing settings here will only effect the game you changed the settings for.
+* X - USBドライブまたはSDカードからゲームを削除します。
 
 When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
 
@@ -69,19 +69,19 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 * Star - View games you favorited.
 * Gears - Opens WiiFlow Settings.
 * Game Type - Toggles between different types of apps/games. The logo changes depending on what game type you have selected.
-* Disc - Loads game that is in disc drive.
-* House - Will open this menu. This menu can also be launched by pressing the home button.
+* ディスク - ディスクドライブにあるゲームを始めます。
+* 家 - このメニューを開きます。 This menu can also be launched by pressing the home button.
 
 ![WiiFlowメニュー](images/WFmenu.png)
 
-* Help Guide - Shows all the controls you can use in WiiFlow.
+* Help Guide - WiiFlowで利用可能な操作を表示します。
 * Reload Cache - Press this when WiiFlow is not detecting a new game on the USB drive or SD card.
 * File Explorer - Allows you to boot games/apps from anywhere on your USB drive or SD card.
 * Select Plugins - Allows you to select plugins.
 * Credits - Shows the people who worked on WiiFlow.
-* Shutdown - Allows you to either go into full shutdown, or Standby mode.
-* Exit To - Lets you exit to Wii Menu, HBC, neek2o, Priiloader and Bootmii.
-* Settings - Will open the WiiFlow Settings menu
+* Shutdown - 完全シャットダウンまたはスタンバイモードに移行します。
+* Exit To - 終了して、Wiiメニュー、HBC、neek2o、Priiloader、Bootmiiに移動します。
+* Settings - WiiFlow設定メニューを開きます。
 
 ##### 完了後のオプション
 
