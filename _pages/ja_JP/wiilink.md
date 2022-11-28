@@ -7,7 +7,7 @@ title: "WiiLink"
 WiiLink and all of its services (such as Wii no Ma) are not controlled or operated by RiiConnect24.
 {: .notice--warning}
 
-[WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels Wii Room and Digicam Print Channel, and in the future will let you use the Demae Channel again.
+[WiiLink](https://wiilink24.com/)では、日本限定のWiiの間、デジカメプリントチャンネルが利用可能になるほか、将来的に再び出前チャンネルが使えるようになります。
 
 #### 必要なもの
 
@@ -18,7 +18,7 @@ WiiLink and all of its services (such as Wii no Ma) are not controlled or operat
 
 #### 指示
 
-##### Optional: Wii Patcher
+##### 任意：Wii Patcher
 The Wii Patcher will not work on Dolphin. If you are a Dolphin user, please use the other patchers.
 {: .notice--info}
 
@@ -34,19 +34,19 @@ If you use the Wii Patcher, you will not need to use our other patchers.
 7. Select the language you would like to download.
 8. If all worked, the channels should be on your Wii Menu.
 
-##### Section I - Patching WADs
+##### セクション I - WADにパッチを適用する
 
-[詳しいWADのインストールし方指示が見たいだったら、ここでクリクしてください。](wiimodlite)
+[WADインストールの詳細な手順は、ここをクリックして確認してください！](wiimodlite)
 {: .notice--info}
 
-1. Download the required files based on your OS. On Windows, run `WiiLinkPatcher.bat`. On Unix systems, launch terminal and type sh, then drag the `WiiLinkPatcher.sh` into the terminal and press enter.
+1. お使いのOSに合わせて必要なファイルをダウンロードします。 On Windows, run `WiiLinkPatcher.bat`. On Unix systems, launch terminal and type sh, then drag the `WiiLinkPatcher.sh` into the terminal and press enter.
 2. 「`Start`」を選ぶために`1`を押してから、`ENTER`を押して。
 3. For this guide, choose "`Install WiiLink on your Wii`"
-4. Select your region.
+4. 地域を選択します。
 5. Connect the SD Card or USB Drive to your computer and select "`1`".
 6. デバイスが正しく検出された場合は`1`を選びます。 デバイスの検出は効果的だ時、「`1`」を選んで If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
-7. Be patient...
-8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
+7. しばらくお待ちください。
+8. Once it's done, you can safely close the patcher. 必要なファイルはすべてSDカードに揃っています。
 9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLinkPatcher.bat` to your SD Card or USB Device.
 10. WiiにSDカードまたはUSBドライブを接続します。
 11. WiiでHomebrew Channelを起動します。
@@ -70,11 +70,11 @@ Adding your email to SPD will allow channels like Digicam and Demae to send file
 For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
 {: .notice--info}
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. インストールは任意です。
+[RiiConnect24に進む](riiconnect24)<br> RiiConnect24では、廃止されたWiiConnect24のサービスが使えるようになります。これにはニュースチャンネル、お天気チャンネル、みんなで投票チャンネル、みんなのニンテンドーチャンネル、Miiコンテストチャンネル、Wii伝言板メールなどが含まれます。 インストールは任意です。
 {: .notice--info}
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. インストールは任意です。
+[Wiimmfiに進む](wiimmfi)<br> WiimmfiではニンテンドーWi-Fiコネクションの廃止後の今でもオンラインゲームをプレイできるようになります。 インストールは任意です。
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[サイトマップへ進む](site-navigation)<br> 他にも気に入るチュートリアルがきっとあります。
 {: .notice--info}
