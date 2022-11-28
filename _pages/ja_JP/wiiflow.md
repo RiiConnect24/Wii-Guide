@@ -63,11 +63,11 @@ WiiFlowがゲームを検出すると、フロービューで表示されます�
 * 歯車 - ゲーム毎の設定メニューを開きます。 Changing settings here will only effect the game you changed the settings for.
 * X - USBドライブまたはSDカードからゲームを削除します。
 
-When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
+フロービューでカーソルを画面の下部に移動させると、6つのアイコンが表示されます。
 
-* Bookshelf - View the games that are sorted in the categories you chose.
-* Star - View games you favorited.
-* Gears - Opens WiiFlow Settings.
+* 本棚 - 選択したカテゴリに属するゲームを表示します。
+* スター - お気に入りのゲームを表示します。
+* 歯車 - WiiFlow設定を開きます。
 * Game Type - Toggles between different types of apps/games. The logo changes depending on what game type you have selected.
 * ディスク - ディスクドライブにあるゲームを始めます。
 * 家 - このメニューを開きます。 This menu can also be launched by pressing the home button.
@@ -77,8 +77,8 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 * Help Guide - WiiFlowで利用可能な操作を表示します。
 * Reload Cache - Press this when WiiFlow is not detecting a new game on the USB drive or SD card.
 * File Explorer - Allows you to boot games/apps from anywhere on your USB drive or SD card.
-* Select Plugins - Allows you to select plugins.
-* Credits - Shows the people who worked on WiiFlow.
+* Select Plugins - プラグインを選択できます。
+* Credits - WiiFlowに貢献した人を表示します。
 * Shutdown - 完全シャットダウンまたはスタンバイモードに移行します。
 * Exit To - 終了して、Wiiメニュー、HBC、neek2o、Priiloader、Bootmiiに移動します。
 * Settings - WiiFlow設定メニューを開きます。
