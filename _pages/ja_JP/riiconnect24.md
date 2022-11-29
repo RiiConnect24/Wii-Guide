@@ -40,7 +40,7 @@ RiiConnect24 Patcherを実行できないときは、[the RiiConnect24 Discord s
 1. 上記のリンクをクリックして、PatcherのあるGitHubページに移動します。
 2. Windowsなら`RiiConnect24Patcher.bat`を、UNIXシステムなら`RiiConnect24Patcher.sh`をダウンロードします。
 3. Windowsでは`RiiConnect24Patcher.bat`を実行します。 UNIXシステムでは、まずターミナルを開き`bash`と入力し（Enterはまだ押さないで）`RiiConnect24Patcher.sh`をターミナルへドラッグ・アンド・ドロップしてEnterを押します。 次のようになります：`bash RiiConnect24Patcher.sh`
-4. 1を押して`Start`を選び、`ENTER`を押して選んだものを確定します。？ （注：これらのスクリーンショットはWindows版のPatcherです。） ![RiiConnect24 Patcherメイン画面](/images/RC24_Patcher/1.JPG)
+4. 1を押して`Start`を選び、`ENTER`を押して確定します。 （注：これらのスクリーンショットはWindows版のPatcherです。） ![RiiConnect24 Patcherメイン画面](/images/RC24_Patcher/1.JPG)
 5. パッチを適用するデバイスを選択します。 ![デバイスを選択](/images/RC24_Patcher/2.JPG)
 6. このガイドでは、`Install RiiConnect24 on your Wii`を選択します。 ![RiiConnect24をインストール](/images/RC24_Patcher/3.JPG)
 7. `Express (Recommended)`を選択します。 必要なもの全てが揃います。 ![Express設定](/images/RC24_Patcher/4.JPG)
@@ -125,5 +125,5 @@ RiiConnect24をインストールした後、お天気チャンネルでエラ�
 [WiiLinkに進む](wiilink)<br> WiiLinkでは、廃止された日本専用チャンネル（Wiiの間やデジカメプリントチャンネルなど）を使えるようになります。 インストールは任意です。
 {: .notice--info}
 
-[サイトマップへ進む](site-navigation)<br> 他にもきっと気になるチュートリアルがあります。
+[サイトマップへ進む](site-navigation)<br> 他にも気に入るチュートリアルがきっとあります。
 {: .notice--info}
