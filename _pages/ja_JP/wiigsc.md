@@ -7,12 +7,12 @@ title: "Wiiメニューにショートカットを作成する"
 このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
 {: .notice--info}
 
-Do you use a USB Loader and want to create game shortcuts to launch them on your Wii Menu? Then try WiiGSC (Wii Game Shortcut Creator), previously known as Crap.
+USBローダーを使っていて、Wiiメニューからゲームを起動するショートカットを作成したいと思ったことはありませんか？ それならWiiGSC（Wii Game Shortcut Creator、旧称Crap）を試してみましょう。
 
-In the case of a brick, [installing Priiloader is a must](/priiloader). Also, install BootMii (as Boot2 if you have an early Wii). Installing brick protection along with following the guide correctly should keep you safe from bricks. DO NOT CONTINUE UNTIL YOU HAVE INSTALLED PRIILOADER AND BOOTMII!
+ブリックに備えて、[Priiloaderのインストールは必須です](/priiloader)。 BootMiiもインストールしてください（特に初期「神機」WiiならBoot2に）。 Installing brick protection along with following the guide correctly should keep you safe from bricks. PriiloaderとBootMiiをインストールせずにこの後の操作を続けてはいけません！
 {: .notice--warning}
 
-Do NOT make a shortcut for the games "Mario Party 9" or "A Boy and His Blob". Wiiがブリックします！
+『マリオパーティ9』や『A Boy and His Blob』のショートカットを作成してはいけません。 Wiiがブリックします！
 {: .notice--warning}
 
 #### 必要なもの
