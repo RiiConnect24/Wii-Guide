@@ -25,7 +25,7 @@ WaninkokoのWAD Managerはお勧めしません。
 
 ##### セクション II - 実行
 
-このアプリは十字ボタンを使って操作します。
+このアプリは十字ボタンで操作します。
 {: .notice--info}
 
 1. `WAD Manager`を選択します。 ![WAD Manager](/images/WiiModLite/2.png)
