@@ -16,10 +16,10 @@ WiiLink and all of its services (such as Wii no Ma) are not controlled or operat
 * WindowsもしくはUnixベースのコンピュータ
 * [WiiLink Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
-#### 指示
+#### 手順
 
 ##### 任意：Wii Patcher
-The Wii Patcher will not work on Dolphin. If you are a Dolphin user, please use the other patchers.
+Wii PatcherはDolphinでは動作しません。 Dolphinユーザの場合は、他のパッチをご利用ください。
 {: .notice--info}
 
 If you use the Wii Patcher, you will not need to use our other patchers.
