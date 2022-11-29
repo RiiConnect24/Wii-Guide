@@ -47,7 +47,7 @@ USBドライブ・SDカードがFAT32またはNTFSでフォーマットされて
 
 ##### はじめに
 
-これはWiiFlowの使い方の完全ガイドではありません。 このセクションはまず使い始めることでその使い方を学べるように書かれています。 使ううちに、WiiFlowの素晴らしい機能をすべて把握できるようになるでしょう。
+これはWiiFlowの使い方の完全ガイドではありません。 このセクションはまず使い始めることでその使い方を学べるように書かれています。 使ううちに、WiiFlowの素晴らしい機能をすべて把握できるようになるでしょう（訳注：以下、WiiFlowの言語設定により表記が異なる可能性がある）。
 {: .notice--info}
 
 * WiiFlowはデフォルトでSDカードのゲームのみ検索するように設定されています。 これを変更するには、設定に移動し、Startup Settingsから "Mount SD Only" をオフにします。
@@ -60,7 +60,7 @@ WiiFlowがゲームを検出すると、フロービューで表示されます�
 
 * スター - お気に入りにゲームを追加します。
 * 本棚 - 6カテゴリのうち好みの一つにゲームを追加します。
-* 歯車 - ゲーム毎の設定メニューを開きます。 Changing settings here will only effect the game you changed the settings for.
+* 歯車 - ゲーム毎の設定メニューを開きます。 ここでの設定変更は、ここで設定したゲームにのみ影響します。
 * X - USBドライブまたはSDカードからゲームを削除します。
 
 フロービューでカーソルを画面の下部に移動させると、6つのアイコンが表示されます。
@@ -68,19 +68,19 @@ WiiFlowがゲームを検出すると、フロービューで表示されます�
 * 本棚 - 選択したカテゴリに属するゲームを表示します。
 * スター - お気に入りのゲームを表示します。
 * 歯車 - WiiFlow設定を開きます。
-* Game Type - Toggles between different types of apps/games. The logo changes depending on what game type you have selected.
+* ゲームの種類 - アプリ・ゲームの種類を切り替えます。 選択しているゲームの種類によってアイコンが変わります。
 * ディスク - ディスクドライブにあるゲームを始めます。
-* 家 - このメニューを開きます。 This menu can also be launched by pressing the home button.
+* 家 - このメニューを開きます。 HOMEボタンを押して開くこともできます。
 
 ![WiiFlowメニュー](images/WFmenu.png)
 
 * Help Guide - WiiFlowで利用可能な操作を表示します。
-* Reload Cache - Press this when WiiFlow is not detecting a new game on the USB drive or SD card.
-* File Explorer - Allows you to boot games/apps from anywhere on your USB drive or SD card.
+* Reload Cache - WiiFlowがUSBドライブ・SDカードに新たに追加したゲームを検出しない場合に使います。
+* File Explorer - USBドライブ・SDカード上のどこからでもゲームやアプリを起動できます。
 * Select Plugins - プラグインを選択できます。
 * Credits - WiiFlowに貢献した人を表示します。
 * Shutdown - 完全シャットダウンまたはスタンバイモードに移行します。
-* Exit To - 終了して、Wiiメニュー、HBC、neek2o、Priiloader、Bootmiiに移動します。
+* Exit To - WiiFlowを終了してWiiメニュー、HBC、neek2o、Priiloader、Bootmiiに移動します。
 * Settings - WiiFlow設定メニューを開きます。
 
 ##### 完了後のオプション
