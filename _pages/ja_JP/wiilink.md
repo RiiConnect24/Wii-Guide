@@ -61,13 +61,13 @@ Wii Patcherを使うなら、他のパッチを使用する必要はありませ
 メールアドレスを住所情報に追加すると、デジカメプリントチャンネルや出前チャンネルなどから画像やリンクなどのファイルを送信できるようになります。
 {: .notice--info}
 
-1. Launch Digicam Print Channel from your Wii's home menu.
-2. On the bottom right, press `Address settings` and then `Yes`.
-3. Click on `Email Address` within SPD and type in your email address. (make sure you **put it in correctly** or it **will not work!**)
+1. Wiiメニューからデジカメプリントチャンネルを起動します。
+2. 右下にある`住所情報設定`を押し、`はい`を押します。
+3. Click on `Email Address` within SPD and type in your email address. （**正確に入力**します。さもないと**機能しません**！）
 4. Press `OK` and then `Done`.
 5. Once you are in the SPD main menu, choose `Digicam` in the `Choose Channel` menu. After you’ve done that, it should work!
 
-PALユーザ（欧州リージョンのWii）<br> Wii SettingsでTV Resolutionを"60 HZ (480p/480i)"に設定してください。 You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
+PALユーザ（欧州リージョンのWii）<br> Wii SettingsでTV Resolutionを"60 HZ (480p/480i)"に設定してください。 `Screen -> TV Resolution`で変更できます。これをしないと、ピンク色の帯が画面下部に出現して見づらくなります。
 {: .notice--info}
 
 [RiiConnect24に進む](riiconnect24)<br> RiiConnect24では、廃止されたWiiConnect24のサービスが使えるようになります。これにはニュースチャンネル、お天気チャンネル、みんなで投票チャンネル、みんなのニンテンドーチャンネル、Miiコンテストチャンネル、Wii伝言板メールなどが含まれます。 インストールは任意です。
