@@ -52,7 +52,7 @@ USBドライブ・SDカードがFAT32またはNTFSでフォーマットされて
 
 * WiiFlowはデフォルトでSDカードのゲームのみ検索するように設定されています。 これを変更するには、設定に移動し、Startup Settingsから "Mount SD Only" をオフにします。
 * You can toggle between viewing Wii games, GameCube games, Wii Channels, Plugins, Homebrew apps by clicking the button second to last button on the right.
-* You can download game covers by going to "Settings" then "Download Covers and Banners"
+* ゲームカバーのダウンロードは"Settings" → "Download Covers and Banners"から行えます。
 
 ##### ユーザーインターフェイス
 
