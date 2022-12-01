@@ -22,7 +22,7 @@ WiiLinkおよびその全サービス（Wiiの間など）は、RiiConnect24が�
 Wii PatcherはDolphinでは動作しません。 Dolphinユーザの場合は、他のパッチをご利用ください。
 {: .notice--info}
 
-Wii Patcherを使うなら、他のパッチを使用する必要はありません。
+Wii Patcherを使うなら、他のセクションは実行する必要ありません。
 {: .notice--info}
 
 1. お使いの機種に適したWADをダウンロードします。 Wiiの場合は、`WiiLink_Patcher_Wii.wad`になります。 vWiiの場合は`WiiLink_Patcher_vWii.wad`になります。
@@ -65,7 +65,7 @@ Wii Patcherを使うなら、他のパッチを使用する必要はありませ
 2. 右下にある`住所情報設定`を押し、`はい`を押します。
 3. 自宅住所内の `メールアドレス` をクリックし、メールアドレスを入力します。 （**正確に入力**します。さもないと**機能しません**！）
 4. `OK` を押し、 `保存` を押します。
-5. Once you are in the SPD main menu, choose `Digicam` in the `Choose Channel` menu. After you’ve done that, it should work!
+5. 住所情報設定画面を抜けて、元のチャンネルに戻ります。 以上で、正常に動くはずです！
 
 PALユーザ（欧州リージョンのWii）<br> Wii SettingsでTV Resolutionを"60 HZ (480p/480i)"に設定してください。 `Screen -> TV Resolution`で変更できます。これをしないと、ピンク色の帯が画面下部に出現して見づらくなります。
 {: .notice--info}
