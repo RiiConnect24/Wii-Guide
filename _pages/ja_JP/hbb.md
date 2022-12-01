@@ -40,8 +40,8 @@ Open Shop Channelで入手できるおすすめアプリは次のとおりです
 [サイトマップへ進む](site-navigation)<br> 他にも気に入るチュートリアルがきっとあります。
 {: .notice--info}
 
-Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
+Homebrew Browserのダウンロードに含まれているのは、Homebrew Browserの使用方法に関するガイドです。
 {: .notice--info}
 
-You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
+`/apps/homebrew_browser/`内のShopChannel.oggをloop.oggに差し替えるとHomebrew BrowserでWiiショッピングチャンネルの音楽を再生できます。
 {: .notice--info}
