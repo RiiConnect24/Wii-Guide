@@ -7,7 +7,7 @@ title: "Kirby TV Channel"
 Kirby TV Channelの管理・運用はRiiConnect24ではなくStriim Networkによって行われています。 [ここで](https://discord.gg/seCnzxnE75)彼らのDiscordサーバに参加できます。
 {: .notice--warning}
 
-Striim Networkは、Kirby TV Channel（一部海外で配信されたチャンネル）やYouTubeなど、動画再生をサポートするチャンネルを取り戻すことを目的としたサービスです。
+Striim Networkは、Kirby TV Channel（国内未配信）やYouTubeなど、動画再生をサポートするチャンネルを取り戻すことを目的としたサービスです（訳注：日本対応化が行われているかは不明です）。
 
 #### 必要なもの
 
