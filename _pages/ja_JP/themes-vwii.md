@@ -4,9 +4,9 @@ title: "vWiiでWiiメニューテーマをインストールする"
 
 {% include toc title="目次" %}
 
-Are you tired of the boring, plain white theme on your Wii Menu, and want a cool theme instead? This tutorial will help you get a new theme for your Wii Menu!
+Wiiメニューの平凡で退屈な白いテーマに飽きて、恰好良いテーマが欲しくなりませんか？ このチュートリアルはWiiメニュー用に新しいテーマを入手するお手伝いをします。
 
-We are **NOT** responsible if you brick, or damage your console in any way whatsoever. If you follow this guide exactly, you shouldn't have any problems.
+お持ちの機器がいかなる理由でブリックまたは損傷したとしても、私たちガイド編集者は**責任を負いません**。 このガイドに正確に従っていれば、何も問題は無いはずですが。
 {: .notice--danger}
 
 Do **NOT** install the themes made in this guide on an actual Wii. They are only compatible with the vWii System Menu and will brick an actual Wii.
@@ -26,14 +26,14 @@ If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.ne
 * A Wii U with the Homebrew Channel installed.
 * A Wiimote without Wii MotionPlus
 * SDカード
-* A computer with Windows on it (or using Mono or Wine on Mac/Linux)
+* Windowsパソコン（あるいはMac・Linux上ではMonoまたはWine）
 * [MyMenuify](/assets/files/Mymenuify-Old-vWii.zip)
 * [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 * [NUS Downloader (vWii)](/assets/files/NUSDownloader-vwii.zip)
 
-#### Theme Links
+#### テーマのリンク集
 
-Below are some links to themes.
+以下は利用可能なテーマへのリンクです。
 
 * [RiiConnect24 Themes Page](https://rc24.xyz/goodies/themes/)
 * [Google Drive Repository](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
@@ -42,7 +42,7 @@ Below are some links to themes.
 Only themes from the RiiConnect24 Themes page have been tested on vWii. Themes from other sources may not be entirely compatible with vWii, use these at your own risk.
 {: .notice--warning}
 
-MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
+続ける前に、必ず上記の警告に目を通してください！
 {: .notice--danger}
 
 #### 手順
