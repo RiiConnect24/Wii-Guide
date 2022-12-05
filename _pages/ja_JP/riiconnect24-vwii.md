@@ -12,23 +12,23 @@ title: RiiConnect24 vWii ガイド
 [RiiConnect24](https://rc24.xyz) をvWii（Virtual Wii、Wii UのWiiメニュー）にインストールするためのガイドです。
 
 元のWiiに存在した機能の一部がvWiiでは欠落しているため、利用できるのはRiiConnect24の一部機能のみです。 [現在動作する機能](#whats-currently-working)の詳細を確認してください。
-{: .notice--warning}[RiiConnect24](https://rc24.xyz/) allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail.
+{: .notice--warning}[RiiConnect24](https://rc24.xyz/)を使うと、終了したWiiConnect24関連機能を再び利用できます。利用可能な機能にはニュースチャンネル、お天気チャンネル、みんなで投票チャンネル、みんなのニンテンドーチャンネル、Miiコンテストチャンネル、Wii伝言板メールなどがあります。
 
 {% capture notice-1 %}
-This guide is for vWii (Wii Mode on Wii U) only.
+このガイドはvWii（Wii U上のWiiメニュー）専用です。
 
-- Follow [this tutorial](riiconnect24-wii) if you'd like to install RiiConnect24 on a Wii.
-- Dolphin EmulatorにRiiConnect24をインストールしたい場合は、[このチュートリアル](riiconnect24-dolphin)に従ってください。
+- RiiConnect24をWiiにインストールするには[このチュートリアル](riiconnect24-wii)に従ってください。
+- RiiConnect24をDolphin Emulatorにインストールするには[このチュートリアル](riiconnect24-dolphin)に従ってください。
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-（Wii mini省略） （略）
+Wii miniにRiiConnect24をインストールしてはいけません！ 機能しないだけでなく、本体がブリックします。
 {: .notice--danger}
 
-#### Warnings
+#### 警告
 
-We are **NOT** responsible if you brick, or damage your console in any way whatsoever. If you follow this guide exactly, you shouldn't have any problems.
+お持ちの機器がいかなる理由でブリックまたは損傷したとしても、私たちガイド編集者は**責任を負いません**。 このガイドに正確に従っていれば、何も問題は無いはずですが。
 {: .notice--warning}
 
 Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on Wii U). If you're looking for instructions for a Nintendo Wii, use [this guide](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [this guide](riiconnect24-dolphin) instead.
@@ -39,19 +39,19 @@ Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on
 * SDカードまたはUSBドライブ
 * パソコン
 * A Wii U console with an Internet connection that's capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
-* A Nintendo Network ID (NNID) linked to your Wii U
+* お使いのWii Uに紐付けられたニンテンドーネットワークID（NNID）
 * [RiiConnect24 Patcher（Windows・Mac・Linux）](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 After following the above linked guide, you should have:
-* A vWii NAND backup and keys (keep these stored safely!!)
-* The Homebrew Channel installed
-* d2x cIOS installed (IOS249, IOS250 and IOS251)
-* IOS80 patched
+* vWiiのNANDとkeysのバックアップ（安全に保管しておくこと！）
+* Homebrew Channelのインストール
+* d2x cIOS（IOS249、IOS250、IOS251）インストール
+* IOS80パッチ
 {: .notice--info}
 
 #### 手順
 
-##### Section I - Running the patcher
+##### セクション I - パッチを実行
 
 RiiConnect24 Patcherを実行できないときは、[the RiiConnect24 Discord server](https://discord.gg/rc24)に参加する（推奨）か[support@riiconnect24.netへメールを送って](mailto:support@riiconnect24.net)ヘルプを求めてください。
 {: .notice--info}
@@ -75,8 +75,8 @@ RiiConnect24 Patcherを実行できないときは、[the RiiConnect24 Discord s
 
 これから、RiiConnect24を使うために必要なパッチ適用済みIOS（cIOS）およびチャンネルWADのインストールをします。
 
-1. Put your SD card or USB drive in your Wii U.
-2. Launch the Homebrew Channel on your Wii U.
+1. Wii UにSDカードまたはUSBドライブを挿します。
+2. Wii UでHomebrew Channelを起動します。
 3. Wii Mod Liteを起動します。
 4. Wiiリモコンで十字キーを使って`WAD Manager`を選択し、`wad`フォルダに移動します。
 5. ＋ボタンを押してフォルダ内のすべてのWADを選択します。 すべて選択したら、Aを2回押してWADをインストールします。
@@ -90,7 +90,7 @@ RiiConnect24 Patcherを実行できないときは、[the RiiConnect24 Discord s
 If you [install a theme](/themes-vwii), you will have to run the ww-43db-patcher once more.
 {: .notice--info}
 
-##### Section IV - Using RiiConnect24
+##### セクション IV - RiiConnect24を使う
 
 After following the above sections, you're almost ready to utilize RiiConnect24 on your Wii U. You just need to perform the following steps **every time you boot into vWii**.
 
@@ -99,18 +99,18 @@ After following the above sections, you're almost ready to utilize RiiConnect24 
 2. Launch the WiiConnect24 Channels.
 * You should now be able to utilize all of the WiiConnect24 Channels you have installed.
 
-#### What's currently working?
-The following RiiConnect24 services are **working** on the vWii:
-* Forecast Channel
-* News Channel
-* Everybody Votes Channel
-* Nintendo Channel
-* Check Mii Out Channel / Mii Contest Channel
+#### 現在機能しているものは？
+以下のRiiConnect24サービスがvWiiで**動作しています**。
+* お天気チャンネル
+* ニュースチャンネル
+* みんなで投票チャンネル
+* みんなのニンテンドーチャンネル
+* Miiコンテストチャンネル
 {: .notice--success}
 
-The following RiiConnect24 services are **not working** on the vWii:
-* Wii Mail (most functionality does not exist on vWii)
-    * This includes sending/receiving mail to/from friends.
+以下のRiiConnect24サービスはvWiiで**動作していません**。
+* Wiiメール（対応する機能がvWiiにほとんど無い）
+    * これには友人とのメール送受信の一切が含まれます。
 
-Most services that utilize WiiConnect24 will be able to work if you leave vWii running for several hours. There's no standby mode on the console.
+WiiConnect24を利用するほとんどのサービスは、vWiiを数時間起動させておくと動作するようになります。 Wii U本体にはスタンバイモードは存在しません。
 {: .notice--warning}
