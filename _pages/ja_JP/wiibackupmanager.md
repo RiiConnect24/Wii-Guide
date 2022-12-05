@@ -7,17 +7,17 @@ title: "Wii Backup Manager"
 このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
 {: .notice--info}
 
-Wii Backup Manager is a program to copy Wii games from your computer to a USB drive so you can play the games on your Wii. It also can download game covers from [GameTDB](https://gametdb.com/) and can be used to list what games you have. This tutorial will tell you how to copy over games from your computer to your USB drive. The other features are able to be used in the easy-to-use interface.
+Wii Backup ManagerはパソコンからUSBドライブへWiiソフトをコピーして、Wiiでソフトを遊べるようにするプログラムです。 また[GameTDB](https://gametdb.com/)からゲームカバーを取得し、持っているゲームの一覧表示に使うこともできます。 This tutorial will tell you how to copy over games from your computer to your USB drive. The other features are able to be used in the easy-to-use interface.
 #### 必要なもの
 
 * USBドライブ
 * [Wii Backup Manager](https://static.wiidatabase.de/Wii-Backup-Manager.zip)
 
 
-We recommend you copy games over with [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux. Wii Backup Manager is only compatible with Windows.
+We recommend you copy games over with [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux. Wii Backup ManagerはWindowsにのみ対応しています。
 {: .notice--info}
 
-To play multiple games, we recommend a USB-powered external hard drive for your Wii. We will refer to it as a "USB drive" in this guide. Most of the ones you can find on the market should work fine if they have USB 2 backwards compatibility. Drives with 1 TB or more in capacity will work. A flash drive will also work, but due to the size of a flash drive, it won't be able to store as many games.
+複数のゲームをプレイするには、Wii用としてUSB給電の外付けハードドライブの利用をお勧めします。 このガイドでは「USBドライブ」と呼ぶことにしています。 USB2.0後方互換性をもっている市販品なら大抵のものは使えるはずです。 容量1TB以上のものも動きます。 フラッシュメモリも使えますが、容量を考慮すると大量のゲームの保管には向いていません。
 {: .notice--info}
 
 USBドライブがFAT32またはNTFSでフォーマットされていることを確認してください。 exFAT、extFS、WBFSなど、他のタイプとしてフォーマットしないでください（後者はWiiゲームを保存する古い形式です）。
@@ -27,8 +27,8 @@ USBドライブがFAT32またはNTFSでフォーマットされていること�
 
 ##### セクション I - ダウンロード
 
-1. Extract Wii Backup Manager, and launch the program.
-2. Insert your USB drive into your computer.
+1. Wii Backup Managerを展開してプログラムを起動します。
+2. パソコンにUSBドライブを挿します。
 
 ##### Section II - Copying Games Over
 
@@ -40,7 +40,7 @@ USBドライブがFAT32またはNTFSでフォーマットされていること�
 
 ##### 完了後のオプション
 
-[Continue to cIOS](cios)<br> cIOS is needed for your Wii to use a USB Loader.
+[cIOSに進む](cios)<br> cIOSはWiiでUSBローダーを使うのに必要です。
 {: .notice--info}
 
 [Continue to USB Loader GX](usbloadergx) USB Loader GX is a USB Loader that you can use to play games on your Wii from a USB drive.
@@ -49,5 +49,5 @@ USBドライブがFAT32またはNTFSでフォーマットされていること�
 [Continue to WiiFlow](wiiflow) WiiFlow is a USB Loader that you can use to play games on your Wii from a USB drive or SD Card.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[サイトマップへ進む](site-navigation)<br> 他にも気に入るチュートリアルがきっとあります。
 {: .notice--info}
