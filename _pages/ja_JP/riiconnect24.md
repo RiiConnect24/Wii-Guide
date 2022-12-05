@@ -15,12 +15,12 @@ title: "RiiConnect24"
 このガイドは通常のWiiのみを対象としています。
 
 - vWii（Wii UのWiiモード）にRiiConnect24をインストールしたい場合は、[このチュートリアル](riiconnect24-vwii)に従ってください。
-- Dolphin EmulatorにRiiConnect24をインストールしたい場合は、[このチュートリアル](riiconnect24-dolphin)に従ってください。
+- RiiConnect24をDolphin Emulatorにインストールするには[このチュートリアル](riiconnect24-dolphin)に従ってください。
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-（Wii mini省略） （略）
+Wii miniにRiiConnect24をインストールしてはいけません！ 機能しないだけでなく、本体がブリックします。
 {: .notice--danger}
 
 #### 必要なもの
