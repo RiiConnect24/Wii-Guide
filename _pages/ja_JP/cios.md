@@ -39,7 +39,7 @@ SDカードを使う場合はロックスイッチが解除されていること
 
 ##### セクション I - ダウンロード
 
-1. [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip)をダウンロード・展開し実行します（WindowsもしくはWINEで）。
+1. [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip)をダウンロード・展開し実行します。
 1. "Database"、"IOS"を選び、それから"IOS57"と"v5918"を選びます。
    - "Pack WAD"にチェックが付いて、"Patch IOS"にチェックが付いてないことを確かめてください。
 1. IOS56 v5661およびIOS38 v4123について、上の手順を繰り返します。
