@@ -9,7 +9,7 @@ title: "Wiiメニューにショートカットを作成する"
 
 USBローダーを使っていて、Wiiメニューからゲームを起動するショートカットを作成したいと思ったことはありませんか？ それならWiiGSC（Wii Game Shortcut Creator、旧称Crap）を試してみましょう。
 
-ブリックに備えて、[Priiloaderのインストールは必須です](/priiloader)。 BootMiiもインストールしてください（特に初期「神機」WiiならBoot2に）。 ブリック対策を導入し、ガイドに正しく従うことで、Wiiをブリックから安全に保護できます。 PriiloaderとBootMiiをインストールせずにこの後の操作を続けてはいけません！
+ブリックに備えて、[Priiloaderのインストールは必須です](/priiloader)。 BootMiiもインストールしてください（特に初期WiiならBoot2に）。 ブリック対策を導入し、ガイドに正しく従うことで、Wiiをブリックから安全に保護できます。 PriiloaderとBootMiiをインストールせずにこの後の操作を続けてはいけません！
 {: .notice--warning}
 
 『マリオパーティ9』や『A Boy and His Blob』のショートカットを作成してはいけません。 Wiiがブリックします！
@@ -30,5 +30,5 @@ USBローダーを使っていて、Wiiメニューからゲームを起動す�
 3. USB Loader GXをお使いなら[このバージョン](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)を使うようにします。
 4. 生成されたWADをWAD マネージャーでインストールします。これにはWii Mod Liteをお勧めします。
 
-「システムファイルが壊れています」というエラーが発生した場合、Priiloaderがインストールされていれば、パニックに陥る必要はありません。 Wiiの電源を切り、RESETボタンを押しながら電源を入れます。 Priiloaderメニューに入れるはずなので、そこでWiiを修復するオプションを選べます。 Homebrew Channelを起動するのは一つの手です。
+「システムファイルが壊れています」というエラーが発生した場合、Priiloaderがインストールされていれば、パニックに陥る必要はありません。 Wiiの電源を切り、RESETボタンを押しながら電源を入れます。 Priiloaderメニューに入れるので、そこでWiiを修復するオプションを選べます。 Homebrew Channelを起動するのは一つの手です。
 {: .notice--info}
