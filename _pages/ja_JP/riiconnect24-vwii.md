@@ -1,5 +1,5 @@
 ---
-title: RiiConnect24 vWii Guide
+title: RiiConnect24 vWii ガイド
 ---
 
 {% include toc title="目次" %}
@@ -9,9 +9,9 @@ title: RiiConnect24 vWii Guide
 
 ![RiiConnect24ロゴ](/images/WiiRC24Logo.jpg)
 
-Guide to installing [RiiConnect24](https://rc24.xyz) on vWii (Virtual Wii on Wii U).
+[RiiConnect24](https://rc24.xyz) をvWii（Virtual Wii、Wii UのWiiメニュー）にインストールするためのガイドです。
 
-Since certain features found in the original Wii are not present in the vWii, we can only partially utilize RiiConnect24. See [what's currently working](#whats-currently-working) for details.
+元のWiiに存在した機能の一部がvWiiでは欠落しているため、利用できるのはRiiConnect24の一部機能のみです。 [現在動作する機能](#whats-currently-working)の詳細を確認してください。
 {: .notice--warning}[RiiConnect24](https://rc24.xyz/) allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail.
 
 {% capture notice-1 %}
