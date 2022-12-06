@@ -8,7 +8,7 @@ title: "RiiConnect24 for Dolphin"
 
 このガイドはお使いのDolphinにRiiConnect24をインストールするお手伝いをします。
 
-If you need help for anything regarding this tutorial, please directly contact KcrPL#4625 on Discord, join the [RiiConnect24 Discord Server](https://discord.gg/rc24) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+このチュートリアルに関して何か助けが必要なら、Discordで直接KcrPL#4625に連絡するか、[RiiConnect24 Discordサーバ](https://discord.gg/rc24)に参加するか、[support@riiconnect24.netまでメールを送ってください](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
 {% capture notice-1 %}
@@ -36,32 +36,32 @@ Wii miniにRiiConnect24をインストールしてはいけません！ 機能�
 Dolphinをインストール済みならセクション II へ飛んでください。
 {: .notice--info}
 
-1. Download the latest Dolphin beta version, but **not a stable version as these are very outdated!**
-2. Extract the .7z file using a program like 7-Zip or WinRAR.
-3. Start Dolphin.
+1. 最新ベータ版Dolphinをダウンロードします。**安定版（stable）は非常に古いのでダウンロードしないでください！**
+2. 7-ZipやWinRARなどのプログラムで.7zファイルを展開します。
+3. Dolphinを起動します。
 4. In Dolphin, go to `Tools` -> `Perform Online System Update` -> Choose your region. ![Perform Online System Update](/images/Dolphin_RC24/1.jpg)
 
-If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii) instead of installing the system files with the System Update option. See [this page](https://wiki.dolphin-emu.org/index.php?title=NAND_Usage_Guide) for more information.
+If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii) instead of installing the system files with the System Update option. 詳しくは[このページ](https://wiki.dolphin-emu.org/index.php?title=NAND_Usage_Guide)をご覧ください。
 {: .notice--info}
 
 ##### セクション II - RiiConnect24をインストール
 
-If you use a Windows version before Windows 10, you unfortunately cannot use WiiConnect24 inside Dolphin. You can use [this program](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin) to run it instead.
+Windows 10より昔のWindowsをお使いの場合、残念ながらDolphinでWiiConnect24は利用できません。 代わりに[このプログラム](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin)で起動することが可能です。
 {: .notice--danger}
 
 1. 上記のリンクをクリックして、PatcherのあるGitHubページに移動します。
 2. Windowsなら`RiiConnect24Patcher.bat`を、UNIXシステムなら`RiiConnect24Patcher.sh`をダウンロードします。
 3. Windowsでは`RiiConnect24Patcher.bat`を実行します。 UNIXシステムでは、まずターミナルを開き`bash`と入力し（Enterはまだ押さないで）`RiiConnect24Patcher.sh`をターミナルへドラッグ・アンド・ドロップしてEnterを押します。 次のようになります：`bash RiiConnect24Patcher.sh`
-4. 1を押して`Start`を選び、`ENTER`を押して選んだものを確定します。？ （注：これらのスクリーンショットはWindows版のPatcherです。）
-5. For this guide, choose "`Install RiiConnect24 on your Dolphin Emulator`" ![RiiConnect24をインストール](/images/RC24_Patcher/3.JPG)
+4. 1を押して`Start`を選び、`ENTER`を押して確定します。 （注：これらのスクリーンショットはWindows版のPatcherです。）
+5. このガイドでは、`Install RiiConnect24 on your Dolphin Emulator`を選択します。 ![RiiConnect24をインストール](/images/RC24_Patcher/3.JPG)
 6. `Express (Recommended)`を選択します。 必要なもの全てが揃います。 ![Express設定](/images/RC24_Patcher/4.JPG)
 7. 地域を選択します。 ![地域を選択](/images/RC24_Patcher/5.JPG)
 8. ここではRiiConnect24 Patcherで、RiiConnect24を使用しない他のいくつかのオプションチャンネルを追加でダウンロードすることができます。 `[X]`は選択されたオプションを表します。 興味がない場合は、5と`ENTER`を押して続行します。 !\[Additional optional channels\](/images/RC24_Patcher/6.JPG
-9. Press `1` then `ENTER` to start patching.
+9. `1`を押し、次いで`ENTER`を押してパッチを開始します。
 10. しばらくお待ちください。 ![パッチ適用中！](/images/RC24_Patcher/9.JPG)
 11. 終了後、匿名のフィードバックを送信していただければ幸いです。  望まない場合は、Patcherを閉じます。 必要なファイルはすべてSDカードにあるはずです。 ![完了です！](/images/RC24_Patcher/10.JPG) ![ファイルはコピーされました](/images/RC24_Patcher/11.PNG)
 12. In Dolphin, go to `Tools` and then `Install WAD`. Install all the WAD files one by one.
-13. Unzip [AnyGlobe Changer v1.0](https://github.com/fishguy6564/AnyGlobe-Changer/releases/download/1.0/AnyGlobe.Changer.zip) and run the boot.dol file. Select your region and save. This will allow the Everybody Votes Channel to work.
+13. Unzip [AnyGlobe Changer v1.0](https://github.com/fishguy6564/AnyGlobe-Changer/releases/download/1.0/AnyGlobe.Changer.zip) and run the boot.dol file. Select your region and save. これでみんなで投票チャンネルを使えるようになります。
 
 残念ながら、まだDolphinではWiiメールは使えません。
 {: .notice--info}
