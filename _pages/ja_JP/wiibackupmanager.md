@@ -7,7 +7,7 @@ title: "Wii Backup Manager"
 このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
 {: .notice--info}
 
-Wii Backup ManagerはパソコンからUSBドライブへWiiソフトをコピーして、Wiiでソフトを遊べるようにするプログラムです。 また[GameTDB](https://gametdb.com/)からゲームカバーを取得し、持っているゲームの一覧表示に使うこともできます。 This tutorial will tell you how to copy over games from your computer to your USB drive. The other features are able to be used in the easy-to-use interface.
+Wii Backup ManagerはパソコンからUSBドライブへWiiソフトをコピーして、Wiiでソフトを遊べるようにするプログラムです。 また[GameTDB](https://gametdb.com/)からゲームカバーを取得し、持っているゲームの一覧表示に使うこともできます。 このチュートリアルでは、パソコンからUSBドライブへゲームをコピーする方法について説明します。 The other features are able to be used in the easy-to-use interface.
 #### 必要なもの
 
 * USBドライブ
@@ -17,7 +17,7 @@ Wii Backup ManagerはパソコンからUSBドライブへWiiソフトをコピ�
 We recommend you copy games over with [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux. Wii Backup ManagerはWindowsにのみ対応しています。
 {: .notice--info}
 
-複数のゲームをプレイするには、Wii用としてUSB給電の外付けハードドライブの利用をお勧めします。 このガイドでは「USBドライブ」と呼ぶことにしています。 USB2.0後方互換性をもっている市販品なら大抵のものは使えるはずです。 容量1TB以上のものも動きます。 フラッシュメモリも使えますが、容量を考慮すると大量のゲームの保管には向いていません。
+複数のゲームをプレイするには、Wii用にUSB給電の外付けハードドライブの利用をお勧めします。 このガイドでは「USBドライブ」と呼ぶことにしています。 USB2.0後方互換性をもっている市販品なら大抵のものは使えるはずです。 容量1TB以上のものも動きます。 フラッシュメモリも使えますが、容量を考慮すると大量のゲームの保管には向いていません。
 {: .notice--info}
 
 USBドライブがFAT32またはNTFSでフォーマットされていることを確認してください。 exFAT、extFS、WBFSなど、他のタイプとしてフォーマットしないでください（後者はWiiゲームを保存する古い形式です）。
@@ -30,7 +30,7 @@ USBドライブがFAT32またはNTFSでフォーマットされていること�
 1. Wii Backup Managerを展開してプログラムを起動します。
 2. パソコンにUSBドライブを挿します。
 
-##### Section II - Copying Games Over
+##### セクション II - ゲームのコピー
 
 1. Go to the `Drive 1` tab, then select `Drive`.
 2. Select the drive that you're using for the Wii games.
