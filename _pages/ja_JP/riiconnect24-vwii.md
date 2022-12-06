@@ -31,18 +31,18 @@ Wii miniにRiiConnect24をインストールしてはいけません！ 機能�
 お持ちの機器がいかなる理由でブリックまたは損傷したとしても、私たちガイド編集者は**責任を負いません**。 このガイドに正確に従っていれば、何も問題は無いはずですが。
 {: .notice--warning}
 
-Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on Wii U). If you're looking for instructions for a Nintendo Wii, use [this guide](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [this guide](riiconnect24-dolphin) instead.
+このガイドをvWii（Wii U上の仮想Wii）以外の本体で**実行してはなりません**。 Wii向けの手順をお探しなら[このガイド](riiconnect24)を使ってください。 Dolphinエミュレータで実行するには[このガイド](riiconnect24-dolphin)を使ってください。
 {: .notice--warning}
 
 #### 必要なもの
 
 * SDカードまたはUSBドライブ
 * パソコン
-* A Wii U console with an Internet connection that's capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
+* インターネット接続があり、Homebrew Launcherを起動可能なWii U本体（ブラウザ経由のエクスプロイトでも、Haxchi、Coldboot Haxchiでも可）。 **Wii U本体のソフトウェア改造をまだ行っていない場合は、[wiiuguide.xyz](https://wiiuguide.xyz)、[the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding)に従って実行し、それから戻ってくること。**
 * お使いのWii Uに紐付けられたニンテンドーネットワークID（NNID）
 * [RiiConnect24 Patcher（Windows・Mac・Linux）](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-After following the above linked guide, you should have:
+上記リンクのガイドを終えた時、以下のものが完了している必要があります。
 * vWiiのNANDとkeysのバックアップ（安全に保管しておくこと！）
 * Homebrew Channelのインストール
 * d2x cIOS（IOS249、IOS250、IOS251）インストール
@@ -59,7 +59,7 @@ RiiConnect24 Patcherを実行できないときは、[the RiiConnect24 Discord s
 1. 上記のリンクをクリックして、PatcherのあるGitHubページに移動します。
 2. Windowsなら`RiiConnect24Patcher.bat`を、UNIXシステムなら`RiiConnect24Patcher.sh`をダウンロードします。
 3. Windowsでは`RiiConnect24Patcher.bat`を実行します。 UNIXシステムでは、まずターミナルを開き`bash`と入力し（Enterはまだ押さないで）`RiiConnect24Patcher.sh`をターミナルへドラッグ・アンド・ドロップしてEnterを押します。 次のようになります：`bash RiiConnect24Patcher.sh`
-4. 1を押して`Start`を選び、`ENTER`を押して選んだものを確定します。？ （注：これらのスクリーンショットはWindows版のPatcherです。） ![RiiConnect24 Patcherメイン画面](/images/RC24_Patcher/1.JPG)
+4. 1を押して`Start`を選び、`ENTER`を押して確定します。 （注：これらのスクリーンショットはWindows版のPatcherです。） ![RiiConnect24 Patcherメイン画面](/images/RC24_Patcher/1.JPG)
 5. パッチを適用するデバイスを選択します。 ![デバイスを選択](/images/RC24_Patcher/2.JPG)
 6. このガイドでは、`Install RiiConnect24 on your Wii`を選択します。 ![RiiConnect24をインストール](/images/RC24_Patcher/3.JPG)
 7. `Express (Recommended)`を選択します。 必要なもの全てが揃います。 ![Express設定](/images/RC24_Patcher/4.JPG)
