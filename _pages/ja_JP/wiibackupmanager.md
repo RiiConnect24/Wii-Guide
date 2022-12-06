@@ -32,21 +32,21 @@ USBドライブがFAT32またはNTFSでフォーマットされていること�
 
 ##### セクション II - ゲームのコピー
 
-1. `ドライブ1（Drive 1）`タブを開き、`ドライブ（Drive）`を選びます（タブ直下のドロップダウンリスト）。
+1. `ドライブ1`タブを開き、`ドライブ`を選びます（タブ直下のドロップダウンリスト）。
 2. Wiiで使うドライブを選択します。
-3. `ファイル（Files）`タブを開き、`追加（Add）`を選びます。
-4. `ファイル..（Files）`を選んで複数のゲームを追加するか、`フォルダ..（Folder）`を選んでゲームフォルダ全体を追加します。
-5. Select `Transfer`, then select `Drive 1` to transfer the games over. It might take a while for the games to copy over.
+3. `ファイル`タブを開き、`追加`を選びます。
+4. `ファイル..`を選んで複数のゲームを追加するか、`フォルダ..`を選んでゲームフォルダ全体を追加します。
+5. `転送`を押して、`ドライブ1`を選ぶとゲームを転送します。 ゲームがコピーされるまでしばらく時間がかかります。
 
 ##### 完了後のオプション
 
 [cIOSに進む](cios)<br> cIOSはWiiでUSBローダーを使うのに必要です。
 {: .notice--info}
 
-[Continue to USB Loader GX](usbloadergx) USB Loader GX is a USB Loader that you can use to play games on your Wii from a USB drive.
+[USB Loader GXに進む](usbloadergx) USB Loader GXはUSBドライブからWiiソフトをプレイするのに使えるUSBローダーです。
 {: .notice--info}
 
-[Continue to WiiFlow](wiiflow) WiiFlow is a USB Loader that you can use to play games on your Wii from a USB drive or SD Card.
+[WiiFlowに進む](wiiflow) WiiFlowはUSBドライブに加えてSDカードからWiiソフトをプレイするのに使えるUSBローダーです。
 {: .notice--info}
 
 [サイトマップへ進む](site-navigation)<br> 他にも気に入るチュートリアルがきっとあります。
