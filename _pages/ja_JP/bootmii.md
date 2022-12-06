@@ -4,7 +4,7 @@ title: "BootMiiバックアップ"
 
 {% include toc title="目次" %}
 
-このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
+このガイドに関して何か手助けが必要なら、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[support@riiconnect24.netまでメールを送ってください](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
 ![BootMiiロゴ](/images/bootmii.png)
