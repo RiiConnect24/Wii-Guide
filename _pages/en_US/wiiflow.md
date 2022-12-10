@@ -29,7 +29,7 @@ If you want to play games that are in NKit format, use [this program](https://gb
 If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fusion, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
 {: .notice--info}
 
-To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
+To play games, we recommend using an external hard drive for your Wii. Flash drives may work, but are not recommended due to them being extremely unreliable, and prone to failure due to constant read-write cycles. External hard drives are recommended as they are more reliable, and can store more games.
 {: .notice--info}
 
 Unlike USB Loader GX, WiiFlow can load games of an SD card. 
