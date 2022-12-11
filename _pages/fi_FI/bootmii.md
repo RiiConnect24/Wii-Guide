@@ -41,10 +41,10 @@ Jos sinulla on BootMii asennettuna boot2:ena, sinun täytyy käynnistää BootMi
 5. Kun varmuuskopio on täysin valmis, poistu NAND-varmuuskopionäytöltä painamalla mitä tahansa nappia.
 6. Poistuaksesi BootMiista, paina Back-nappia (se, jossa on nuolen kuva) ja sitten voit painaa joko Wii Menu -nappia tai Homebrew Channel -nappia poistuaksesi minne haluat.
 
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). Tämä on hyödyllistä niissä hyvin pienissä mahdollisuuksissa rikkoa Wiisi.
+Jotta voit palauttaa NAND-varmuskopion SD-Kortiltasi, voit seurata näitä ohjeita ja käyttää RestoreMii:tä (Kuvake jossa on punainen nuoli, eli toinen kuvake vasemmalla). Tämä on hyödyllistä niissä hyvin pienissä mahdollisuuksissa rikkoa Wiisi.
 {: .notice--info}
 
-To make sure you don’t lose the files, it's recommended to copy `nand.bin` and `keys.bin` from the root of your SD card to your computer.
+Varmistaaksesi, että et menetä tiedostoja, on suositeltavaa kopioida `nand.bin` ja `keys.bin` sinun SD kortin pääkansiosta (root-kansiosta) tietokoneellesi.
 {: .notice--info}
 
 [Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii as IOS.
