@@ -25,27 +25,27 @@ Jos käytät SD-korttia, varmista, että lukituskytkin on auki-asennossa, tai mu
 
 #### Ohjeet
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'with-connection')">With an Internet connection to the Wii</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'without-connection')">Without an Internet connection to the Wii</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'with-connection')">Internet yhteys Wii:hin</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'without-connection')">Ilman Internet yhteyttä Wii:hin</button>
 
 <div id="with-connection" class="blanktabcontent" markdown="1">
 
 ##### Osa I - Lataaminen
 
-1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
-1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
+1. Lataa d2x cIOS Installer ja pura se SD-kortin tai USB-aseman pääkansioon (root-kansioon).
+1. Liitä SD-korttisi tai USB-asemasi Wii-konsoliisi ja käynnistä d2x cIOS Installer Homebrew Channelista.
 </div>
 <div id="without-connection" class="blanktabcontent" markdown="1">
 
 ##### Osa I - Lataaminen
 
-1. Download, extract, and run [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
-1. Select "Database", "IOS", then "IOS57", and select "v5918".
+1. Lataa, pura ja käynnistä [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
+1. Valitse "Database", "IOS", sitten "IOS57", ja viimeiseksi valitse "v5918".
    - Ensure that "Pack WAD" is checked and "Patch IOS" is unchecked.
 1. Repeat the previous step for IOS56 v5661 and IOS38 v4123.
 1. Once you have downloaded all three IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. Open the folder and navigate through them until you locate the three WAD files you downloaded. Place each of WAD files on the root of your SD card or USB drive.
-1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
-1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
+1. Lataa d2x cIOS Installer ja pura se SD-kortin tai USB-aseman pääkansioon (root-kansioon).
+1. Liitä SD-korttisi tai USB-asemasi Wii-konsoliisi ja käynnistä d2x cIOS Installer Homebrew Channelista.
 </div>
 
 ##### Osa II - Asentaminen
