@@ -46,10 +46,10 @@ Ota alla oleva versionumero muistiin (`IOS57-64-` joka päättyy joko `v31776` t
 ##### Ethernetin käyttöönotto
 Jos haluat käyttää Wiimmfiä Wii minillä Ethernet-yhteyden avulla, sinun täytyy käyttää Fullmetal5:n tekemää [Ethernet Enabler -homebrew-sovellusta](/assets/files/Wii_Mini_Ethernet_Enable.zip). Suorittaaksesi sen, pura se `apps` kansioon USB-asemallasi ja käynnistä se Homebrew Channelista.
 
-The Wii and Wii mini consoles are only known to work with Ethernet adapters using the AX88772 chip. Please check that the product is compatible before you buy. This one from UGREEN is known to be compatible: [Amazon Europe](https://www.amazon.de/dp/B00MYT481C), [Amazon US](https://www.amazon.com/dp/B08DRKYKMM/)
+Wii ja Wii mini konsolien tiedetään toimivan AX88772 siruisten Ethernet adapterien kanssa. Varmista, että tuote on yhteensopiva ennen kuin ostat. Tämä UGREEN:in tuote on tiedetty olevan yhteensopiva: [Euroopan Amazon](https://www.amazon.de/dp/B00MYT481C),[Pohjois-Amerikan Amazon](https://www.amazon.com/dp/B08DRKYKMM/)
 {: .notice--info}
 
-Do not attempt to install a Wii IOS or System Menu on the Wii mini. Doing so will likely brick your console.
+Älä yritä asentaa Wii IOS:ää tai System Menua Wii minille. Tämän tekeminen todennäköisesti tekee konsolisi käyttökelvottomaksi.
 {: .notice--warning}
 
 Voit nyt käyttää homebrew-sovelluksia, kuten [USB Loader GX:ää](usbloadergx) ja [WiiFlowia](wiiflow).

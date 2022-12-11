@@ -119,7 +119,7 @@ Anche se la maggior parte dei giochi dovrebbe funzionare subito con le impostazi
     - Prova a usare 250 o 251, se 249 non funziona.
 1. Premi Salva e prova ad avviare il gioco.
 </div>
-##### Opzioni una volta completate
+##### Opzioni una volta completato
 
 [Continua all'Homebrew Browser](hbb)<br> L'Homebrew Browser è un buon posto per scaricare software homebrew sulla tua Wii. L'installazione è facoltativa.
 {: .notice--info}

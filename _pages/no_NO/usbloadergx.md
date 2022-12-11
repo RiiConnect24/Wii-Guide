@@ -85,7 +85,8 @@ There are also other buttons:
 
 On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
 
-##### Valg når du er ferdig
+[Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that USB Loader GX can integrate with. This is optional to set up.
+{: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}

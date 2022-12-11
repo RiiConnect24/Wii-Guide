@@ -16,7 +16,7 @@ Wiiがすでに改造されている場合でも、これらの手順に従っ�
 SDカードがなくてもこのガイドに従うことができますが、 BootMiiを使用してNANDのバックアップを作成したり復元したりすることはできず、Homebrewアプリを使用することもできません。
 {: .notice--info}
 
-Wiiメニューがバージョン4.3でない場合、str2haxまたはFlashHaxを使ってHomebrew Channelをインストールし、[アップデートガイド](update)に従って4.3更新してください。
+Wiiメニューがバージョン4.3でない場合、str2haxまたはFlashHaxを使ってHomebrew Channelをインストールし、[アップデートガイド](update)に従って4.3へ更新してください。
 {: .notice--info}
 
 このガイドはWiiとWii mini (Wiiファミリーエディションを含む) の最新のファームウェア (4.3) 用です。 Wii UのWiiメニュー (vWii) では使用しないでください！ Wii Uを改造したい場合は、[こちらのガイド](https://wiiu.hacks.guide)に従ってください。

@@ -2,7 +2,7 @@
 title: "よくある質問"
 ---
 
-![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
+![RiiConnect24 Wiiロゴ（黄色）](/images/Wii_Yellow_Gray.jpg)
 
 ### Wiiの改造はどれくらい危険ですか？
 ブリックとはWiiの一部ソフトウェアもしくは全てが動作しなくなることです。全ての安全確認を怠ったり、危ないこと（古いWiiバージョンをインストールするなど）をしたりしない限り、発生することは極めて稀です。 ですが万一のため、必ず[BootMii](bootmii)と[Priiloader](priiloader)をインストールして、ブリックを回避してください！

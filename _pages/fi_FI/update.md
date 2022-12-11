@@ -4,7 +4,7 @@ title: "Updating Wii Menu to v4.3"
 
 {% include toc title="Sisällysluettelo" %}
 
-Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiConnect24:n Discord-palvelimelle](https://discord.gg/rc24) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net).
+Jos tarvitset apua minkä tahansa tähän oppaaseen liittyvän kanssa, liity [RiiConnect24:n Discord-palvelimelle](https://discord.gg/rc24) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 This tutorial will explain how to update your Wii Menu to version 4.3, if you have already homebrewed your Wii.

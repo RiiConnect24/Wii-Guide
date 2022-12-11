@@ -35,7 +35,7 @@ sitemap: false
 + [BlueBomb](bluebomb)
 * [BootMiiバックアップ](bootmii)
 + [cIOS](cios)
-+ [Wii改造でやるべきことと禁忌](dosanddonts)
++ [Wii改造のマストとタブー](dosanddonts)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
 + [Homebrew Channel](hbc)

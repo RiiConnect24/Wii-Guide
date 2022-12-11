@@ -2,12 +2,12 @@
 title: "Homebrew Channel - Wii mini専用"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="目次" %}
 
 このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
 {: .notice--info}
 
-![HBC Logo](/images/hbc.png)
+![HBCロゴ](/images/hbc.png)
 
 The Homebrew Channel is where you will go to launch homebrew applications.
 

@@ -2,52 +2,52 @@
 title: "Wii Backup Manager"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="目次" %}
 
 このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
 {: .notice--info}
 
-Wii Backup Manager is a program to copy Wii games from your computer to a USB drive so you can play the games on your Wii. It also can download game covers from [GameTDB](https://gametdb.com/) and can be used to list what games you have. This tutorial will tell you how to copy over games from your computer to your USB drive. The other features are able to be used in the easy-to-use interface.
-#### What you need
+Wii Backup ManagerはパソコンからUSBドライブへWiiソフトをコピーして、Wiiでソフトを遊べるようにするプログラムです。 また[GameTDB](https://gametdb.com/)からゲームカバーを取得し、持っているゲームの一覧表示に使うこともできます。 このチュートリアルでは、パソコンからUSBドライブへゲームをコピーする方法について説明します。 そのほかの機能は簡単なインターフェイス（日本語対応）から利用できます。
+#### 必要なもの
 
-* A USB drive
+* USBドライブ
 * [Wii Backup Manager](https://static.wiidatabase.de/Wii-Backup-Manager.zip)
 
 
-We recommend you copy games over with [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux. Wii Backup Manager is only compatible with Windows.
+macOSをお使いなら[Witgui](https://desairem.com/wordpress/category/witgui-download/)を、またWindows・macOSでの代替手段およびLinux用として[Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion)を、それぞれ利用してコピーすることを推奨します。 Wii Backup ManagerはWindowsにのみ対応しています。
 {: .notice--info}
 
-To play multiple games, we recommend a USB-powered external hard drive for your Wii. We will refer to it as a "USB drive" in this guide. Most of the ones you can find on the market should work fine if they have USB 2 backwards compatibility. Drives with 1 TB or more in capacity will work. A flash drive will also work, but due to the size of a flash drive, it won't be able to store as many games.
+複数のゲームをプレイするには、Wii用にUSB給電の外付けハードドライブの利用をお勧めします。 このガイドでは「USBドライブ」と呼ぶことにしています。 USB2.0後方互換性をもっている市販品なら大抵のものは使えるはずです。 容量1TB以上のものも動きます。 フラッシュメモリも使えますが、容量を考慮すると大量のゲームの保管には向いていません。
 {: .notice--info}
 
-Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
+USBドライブがFAT32またはNTFSでフォーマットされていることを確認してください。 exFAT、extFS、WBFSなど、他のタイプとしてフォーマットしないでください（後者はWiiゲームを保存する古い形式です）。
 {: .notice--info}
 
 #### 手順
 
-##### Section I - Downloading
+##### セクション I - ダウンロード
 
-1. Extract Wii Backup Manager, and launch the program.
-2. Insert your USB drive into your computer.
+1. Wii Backup Managerを展開してプログラムを起動します。
+2. パソコンにUSBドライブを挿します。
 
-##### Section II - Copying Games Over
+##### セクション II - ゲームのコピー
 
-1. Go to the `Drive 1` tab, then select `Drive`.
-2. Select the drive that you're using for the Wii games.
-3. Go to the `Files` tab, then select `Add`.
-4. Select `Files` to add multiple games to the program, or select `Folder` to add a whole folder of games.
-5. Select `Transfer`, then select `Drive 1` to transfer the games over. It might take a while for the games to copy over.
+1. `ドライブ1`タブを開き、`ドライブ`を選びます（タブ直下のドロップダウンリスト）。
+2. Wiiで使うドライブを選択します。
+3. `ファイル`タブを開き、`追加`を選びます。
+4. `ファイル..`を選んで複数のゲームを追加するか、`フォルダ..`を選んでゲームフォルダ全体を追加します。
+5. `転送`を押して、`ドライブ1`を選ぶとゲームを転送します。 ゲームがコピーされるまでしばらく時間がかかります。
 
-##### Options once complete
+##### 完了後のオプション
 
-[Continue to cIOS](cios)<br> cIOS is needed for your Wii to use a USB Loader.
+[cIOSに進む](cios)<br> cIOSはWiiでUSBローダーを使うのに必要です。
 {: .notice--info}
 
-[Continue to USB Loader GX](usbloadergx) USB Loader GX is a USB Loader that you can use to play games on your Wii from a USB drive.
+[USB Loader GXに進む](usbloadergx) USB Loader GXはUSBドライブからWiiソフトをプレイするのに使えるUSBローダーです。
 {: .notice--info}
 
-[Continue to WiiFlow](wiiflow) WiiFlow is a USB Loader that you can use to play games on your Wii from a USB drive or SD Card.
+[WiiFlowに進む](wiiflow) WiiFlowはUSBドライブに加えてSDカードからWiiソフトをプレイするのに使えるUSBローダーです。
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[サイトマップへ進む](site-navigation)<br> 他にも気に入るチュートリアルがきっとあります。
 {: .notice--info}

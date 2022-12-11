@@ -2,7 +2,7 @@
 title: "Homebrew ChannelとBootMiiのインストール"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="目次" %}
 
 このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24) (推奨) か[support@riiconnect24.netにメール](mailto:support@riiconnect24.net)してください。
 {: .notice--info}

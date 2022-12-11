@@ -2,91 +2,94 @@
 title: "WiiFlow"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="目次" %}
 
 このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
 {: .notice--info}
 
 ![WiiFlow](/images/wiiflowlogo.png)
 
-This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that's used to play games from a USB drive or SD card.
+これはWiiFlowの使用方法についてのクイックスタートガイドです。WiiFlowはUSBドライブ（やSDカード）に保存したゲームをプレイするためのローダーです。
 
-#### What you need
+#### 必要なもの
 
-* A Wii
-* A USB drive and/or SD card
+* Wii
+* USBドライブまたはSDカード
 * [WiiFlow Lite](https://hbb1.oscwii.org/hbb/wiiflow/wiiflow.zip)
 
-Make sure you have installed [cIOS](/cios) before following this!
+事前に[cIOS](/cios)をインストールしておいてください！
 {: .notice--info}
 
-We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux.
+Windowsをお使いなら[Wii Backup Manager](/wiibackupmanager)で、macOSなら[Witgui](https://desairem.com/wordpress/category/witgui-download/)で、Windows・macOS・Linuxなら[Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion)で、ゲームのバックアップを取得することをお勧めします。
 {: .notice--info}
 
-If you want to play games that are in NKit format, use [this program](https://gbatemp.net/download/nkit.36157/) to convert them to ISO first. You can also use a development build of Dolphin, right click on a game, and use "Convert File" to convert it.
+NKit形式のゲームをプレイしたい場合は、まず[このプログラム](https://gbatemp.net/download/nkit.36157/)を使用してISOに変換してください。 また、Dolphinの開発ビルドを使って、ゲームを右クリックして「ファイルを変換」を使用することもできます。
 {: .notice--info}
 
-If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fusion, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
+Wii Backup Manager、Witgui、Wii Backup Fusionをでソフトをコピーしていない場合は、USBドライブまたはSDカードのルートに「wbfs」の名前でフォルダを作り、そこにゲームを置いてください。
 {: .notice--info}
 
-To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
+ゲームをプレイするには、Wiiに外付けハードドライブを使用するのがお勧めします。 フラッシュドライブ（USBメモリ）も使えますが、外付けハードドライブならより信頼性が高く、より多くのゲームを保存することができます。
 {: .notice--info}
 
-Unlike USB Loader GX, WiiFlow can load games of an SD card.
+USB Loader GXとは異なり、WiiFlowはSDカードのゲームもロードできます。
 {: .notice--info}
 
-Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
+USBドライブ・SDカードがFAT32またはNTFSでフォーマットされていることを確認してください。 exFAT、extFS、WBFSなど、他のタイプとしてフォーマットしないでください（後者はWiiゲームを保存する古い形式です）。
 {: .notice--info}
 
 #### 手順
 
-##### Downloading
+##### ダウンロード
 
-1. Extract WiiFlow and put the `apps` and `WiiFlow` folders on your USB drive or SD card.
-2. Insert your USB drive, and SD card if you're using one, into your Wii and launch WiiFlow from the Homebrew Channel.
+1. WiiFlowアーカイブを展開し、得られた`apps`と`WiiFlow`の両方をUSBドライブまたはSDカードのルートに入れてください。
+2. USBドライブ（と、使うならSDカード）をWiiに挿入し、Homebrew ChannelからWiiFlowを起動します。
 
-##### Getting Started
+##### はじめに
 
-This is not a full comprehensive guide on using WiiFlow. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow by using it.
+これはWiiFlowの使い方の完全ガイドではありません。 このセクションはまず使い始めることでその使い方を学べるように書かれています。 使ううちに、WiiFlowの素晴らしい機能をすべて把握できるようになるでしょう（訳注：以下、WiiFlowの言語設定により表記が異なる可能性がある）。
 {: .notice--info}
 
-* WiiFlow by default is set to only find games on the SD card. This can be changed by going in to settings, startup settings then turn off "Mount SD Only".
-* You can toggle between viewing Wii games, GameCube games, Wii Channels, Plugins, Homebrew apps by clicking the button second to last button on the right.
-* You can download game covers by going to "Settings" then "Download Covers and Banners"
+* WiiFlowはデフォルトでSDカードのゲームのみ検索するように設定されています。 これを変更するには、設定に移動し、Startup Settingsから "Mount SD Only" をオフにします。
+* Wiiソフト、ゲームキューブソフト、Wiiチャンネル、プラグイン、Homebrewアプリの表示を切り替えるには、右から2つ目のボタンをクリックします。
+* ゲームカバーのダウンロードは"Settings" → "Download Covers and Banners"から行えます。
 
-##### User Interface
+##### ユーザーインターフェイス
 
-When WiiFlow detects games, they are displayed in flow view. When you click on a game you are given these options:
+WiiFlowがゲームを検出すると、フロービューで表示されます。 ゲームをクリックすると、以下のオプションが表示されます。
 
-* Star - Adds game to favorites.
-* Bookshelf - Adds the game to 1 of 6 categories of your choosing.
-* Gears - Opens the settings menu for the specific game. Changing settings here will only effect the game you changed the settings for.
-* X - Deletes the game from the USB drive or SD card
+* スター - お気に入りにゲームを追加します。
+* 本棚 - 6カテゴリのうち好みの一つにゲームを追加します。
+* 歯車 - ゲーム毎の設定メニューを開きます。 ここでの設定変更は、ここで設定したゲームにのみ影響します。
+* X - USBドライブまたはSDカードからゲームを削除します。
 
-When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
+フロービューでカーソルを画面の下部に移動させると、6つのアイコンが表示されます。
 
-* Bookshelf - View the games that are sorted in the categories you chose.
-* Star - View games you favorited.
-* Gears - Opens WiiFlow Settings.
-* Game Type - Toggles between different types of apps/games. The logo changes depending on what game type you have selected.
-* Disc - Loads game that is in disc drive.
-* House - Will open this menu. This menu can also be launched by pressing the home button.
+* 本棚 - 選択したカテゴリに属するゲームを表示します。
+* スター - お気に入りのゲームを表示します。
+* 歯車 - WiiFlow設定を開きます。
+* ゲームの種類 - アプリ・ゲームの種類を切り替えます。 選択しているゲームの種類によってアイコンが変わります。
+* ディスク - ディスクドライブにあるゲームを始めます。
+* 家 - このメニューを開きます。 HOMEボタンを押して開くこともできます。
 
-![WF_menu](images/WFmenu.png)
+![WiiFlowメニュー](images/WFmenu.png)
 
-* Help Guide - Shows all the controls you can use in WiiFlow.
-* Reload Cache - Press this when WiiFlow is not detecting a new game on the USB drive or SD card.
-* File Explorer - Allows you to boot games/apps from anywhere on your USB drive or SD card.
-* Select Plugins - Allows you to select plugins.
-* Credits - Shows the people who worked on WiiFlow.
-* Shutdown - Allows you to either go into full shutdown, or Standby mode.
-* Exit To - Lets you exit to Wii Menu, HBC, neek2o, Priiloader and Bootmii.
-* Settings - Will open the WiiFlow Settings menu
+* Help Guide - WiiFlowで利用可能な操作を表示します。
+* Reload Cache - WiiFlowがUSBドライブ・SDカードに新たに追加したゲームを検出しない場合に使います。
+* File Explorer - USBドライブ・SDカード上のどこからでもゲームやアプリを起動できます。
+* Select Plugins - プラグインを選択できます。
+* Credits - WiiFlowに貢献した人を表示します。
+* Shutdown - 完全シャットダウンまたはスタンバイモードに移行します。
+* Exit To - WiiFlowを終了してWiiメニュー、HBC、neek2o、Priiloader、Bootmiiに移動します。
+* Settings - WiiFlow設定メニューを開きます。
 
-##### Options once complete
+##### 完了後のオプション
 
-[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki is a great resource with information about WiiFlow.
+[WiiFloWiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowに関する情報がまとまった素晴らしいサイトです。
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[RiiTagに進む](riitag)<br> RiiTagはWiiFlowと組み合わせて用いられる、カスタマイズ可能なWii用のゲーマータグです。 セットアップは任意です。
+{: .notice--info}
+
+[サイトマップへ進む](site-navigation)<br> 他にも気に入るチュートリアルがきっとあります。
 {: .notice--info}

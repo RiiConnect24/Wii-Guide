@@ -30,7 +30,7 @@ Homebrewを使ってできることは以下の通りです。 このリスト�
 - [Homebrew Browser](hbb)で新しいHomebrew アプリをダウンロードする。
 - [WiiConnect24](riiconnect24)や[Nintendo WFC services](wiimmfi)のような、終了したオンラインサービスを復活する。
 - [BootMii](bootmii)を使って、Wiiシステムメモリ（NAND）をバックアップおよび復元する。
-- [Priiloader](priiloader)とBootMiiを使用して、Wiiをブリック（ソフトウェア故障）から保護する。
+- [Priiloader](priiloader)とBootMiiを使用して、Wiiをブリック（ソフトウェア故障、文鎮化）から保護する。
 - [WiiMC](https://oscwii.org/library/app/wiimc-ss)を使って、Wiiをメディアプレーヤーとして使用する。
 
 
