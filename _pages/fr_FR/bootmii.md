@@ -7,7 +7,7 @@ title: "Sauvegarde BootMii"
 Si vous avez besoin d'aide pour quoi que ce soit concernant ce tutoriel, veuillez rejoindre [le serveur Discord RiiConnect24](https://discord.gg/rc24) (recommandé) ou [nous envoyer un e-mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![Logo BootMii](/images/bootmii.png)
+![Logo de BootMii](/images/bootmii.png)
 
 Vous avez besoin d'une **carte SD** pour créer une sauvegarde de la NAND en utilisant BootMii. Si vous n'en avez pas, vous pouvez sauter cette page, bien qu'il soit fortement recommandé de faire une sauvegarde de la NAND si vous le pouvez.
 {: .notice--warning}
@@ -15,7 +15,7 @@ Vous avez besoin d'une **carte SD** pour créer une sauvegarde de la NAND en uti
 BootMii en tant que boot2 est recommandé, mais seulement disponible pour l'installation sur les premières Wiis. Sinon, il peut seulement être installé en tant qu'IOS.
 {: .notice--info}
 
-L'une des fonctions les plus importantes de BootMii est la possibilité de sauvegarder et de restaurer le stockage NAND de votre Wii. Nous allons voir comment effectuer une sauvegarde NAND. C'est une bonne idée de faire une sauvegarde NAND régulièrement ou avant de faire quelque chose de risqué sur votre console (et si vous savez ce que vous faites, vous n'aurez pas à faire quelque chose de risqué). Vous pouvez ensuite restaurer à partir de cette sauvegarde pour n'importe quelle raison.
+L'une des fonctions les plus importantes de BootMii est la possibilité de sauvegarder et de restaurer le stockage NAND de votre Wii. Nous allons voir comment effectuer une sauvegarde NAND. Vous pouvez ensuite restaurer à partir de cette sauvegarde pour n'importe quelle raison. C'est une bonne idée de faire une sauvegarde NAND régulièrement ou avant de faire quelque chose de risqué sur votre console (et si vous savez ce que vous faites, vous n'aurez pas à faire quelque chose de risqué).
 
 #### Ce dont vous avez besoin
 * Une carte SD avec au moins 512 Mo d'espace libre
@@ -26,7 +26,7 @@ Si vous avez installé BootMii en tant que boot2, vous devrez lancer BootMii en 
 1. Lancez la chaîne Homebrew.
 2. Appuyez sur le bouton HOME puis choisissez « Launch BootMii ».
 
-    La navigation dans BootMii n'est pas possible avec une télécommande Wii. Vous devez utiliser les boutons POWER et RESET de votre console, ou une manette GameCube branchée dans le port 1. Pour sélectionner une option, pressez RESET sur votre Wii ou A sur votre manette GameCube. Pour naviguer entre les options, appuyez sur la touche POWER de votre Wii (ou sur la touche droite de la croix directionnelle + d'une manette GameCube).
+    La navigation dans BootMii n'est pas possible avec une télécommande Wii. Vous devez utiliser les boutons POWER et RESET de votre console, ou une manette GameCube branchée dans le port 1. Pour naviguer entre les options, appuyez sur POWER sur votre Wii (ou gauche/droite sur la manette + sur une manette GameCube). Pour sélectionner une option, pressez RESET sur votre Wii ou A sur votre manette GameCube.
     {: .notice--info}
 
 
@@ -47,5 +47,5 @@ Pour restaurer depuis une sauvegarde de la NAND sur votre carte SD, vous pouvez 
 Pour être sûr de ne pas perdre les fichiers, il est recommandé de copier `nand.bin` et `keys.bin` depuis la racine de votre carte SD sur votre ordinateur.
 {: .notice--info}
 
-[Continuer vers l'installation de Priiloader](priiloader) Priiloader ajoute un niveau de protection contre les bricks, et nous le recommandons, surtout si vous n'avez pu installer BootMii en tant qu'IOS seulement.
+[Continuez vers l'installation de Priiloader](priiloader)<br> Priiloader ajoute un niveau de protection contre les bricks, et nous le recommandons, surtout si vous n'avez pu installer BootMii qu'en tant qu'IOS.
 {: .notice--info}
