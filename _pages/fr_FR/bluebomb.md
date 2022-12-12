@@ -7,7 +7,7 @@ title: "BlueBomb"
 Il est **fortement** déconseillé d'utiliser **tout** guide vidéo pour hacker votre console Wii mini, car il existe un risque extrêmement important de la **bricker**.
 {: .notice--warning}
 
-Si vous avez besoin d'aide pour quoi que ce soit concernant ce tutoriel, veuillez rejoindre [le serveur Discord Wii mini Hacking](https://discord.gg/6ryxnkS) (recommandé, en anglais)
+Si vous avez besoin d'aide pour quoi que ce soit concernant ce tutoriel, veuillez rejoindre le [serveur Discord Wii mini Hacking](https://discord.gg/6ryxnkS) (recommandé, en anglais)
 {: .notice--info}
 
 ![BlueBomb](/images/bluebomb.png)
