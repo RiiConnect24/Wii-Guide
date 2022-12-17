@@ -4,16 +4,16 @@ title: "Dos and Don'ts of Wii Modding"
 
 {% include toc title="Innholdsfortegnelse" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Om du trenger hjelp med noe angående denne tutorialen, kan du bli med i [RiiConnect24 Discord serveren (anbefalt)](https://discord.gg/rc24), eller [sende oss en epost](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Here's a list of things you should and should not do once you've modded your Wii, to make sure you don't brick it.
+Her er en liste over ting du bør gjøre, og ting du ikke bør gjøre når du har modda Wiien din for å unngå at den blir ødelagt.
 
-#### List
+#### Liste
 
-- **DO** make sure you've installed [BootMii](bootmii) and [Priiloader](priiloader) to make sure you don't brick your Wii.
-- **DO** make a backup of your Wii NAND regularly with [BootMii](bootmii), especially before doing something risky.
-- **DO** install Wii Menu themes if you wish, but only use our tutorial for it carefully. ([Wii](themes) / [vWii](themes-vwii)). Other tutorials might be misleading and can cause you to brick your Wii.
+- Installer [BootMii](bootmii) og [Priiloader](priiloader) for å unngå å bricke Wiien din.
+- Alltid ha en nylig backup av Wii NAND. Lag backups ved hjelp av [BootMii](bootmii). Dette bør du spesielt gjøre før du gjør noe risikabelt med Wiien.
+- Installer gjerne temaer for Wii menyen, men bare følg vår tutorial på hvordan, og følg den nøye. ([Wii](themes) / [vWii](themes-vwii)). Other tutorials might be misleading and can cause you to brick your Wii.
 - **DO NOT** install WADs of random IOS, older versions of the Wii Menu, etc. unless you know what you're doing, especially not on vWii or a Wii Mini.
 - **DO NOT** use old versions of Wii homebrew. If you follow Wii modding tutorials from the Internet, be cautious about using old tutorials (likely pre-2012), especially if they have to do with things such as IOS.
 - **DO NOT** modify, rename, or delete random files on your Wii NAND unless you know what you are doing.
