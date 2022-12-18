@@ -24,7 +24,7 @@ Dla oryginalnego Wii, nie zalecamy używania BlueBomb jeśli chcesz zainstalowa�
   - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports.
   - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
     - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
-    - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
+    - Dla urządzeń 64-bitowych zalecane jest korzystanie z edycji LTS z powodu jej stabilności, ale najnowsza wersja również zadziała.
   - You can [flash a Linux Live environment to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
 - Adapter Bluetooth.
   - Wbudowany adapter Bluetooth również zadziała.
@@ -56,8 +56,8 @@ Make sure that the console is close to the computer running the exploit, ideally
 
 The console should now boot to the HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
 
-[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
+[Jeżeli używasz Wii, przejdź do instalacji kanału Homebrew oraz BootMii](hbc)
 {: .notice--info}
 
-[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
+[Jeżeli używasz Wii mini, przejdź do instalacji kanału Homebrew](hbc-mini)
 {: .notice--info}
