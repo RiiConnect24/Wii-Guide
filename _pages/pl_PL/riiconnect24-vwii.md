@@ -18,12 +18,12 @@ Since certain features found in the original Wii are not present in the vWii, we
 This guide is for vWii (Wii Mode on Wii U) only.
 
 - Follow [this tutorial](riiconnect24-wii) if you'd like to install RiiConnect24 on a Wii.
-- Follow [this tutorial](riiconnect24-dolphin) if you'd like to install RiiConnect24 on Dolphin Emulator.
+- Podążaj [ za tym poradnikiem ](riiconnect24-dolphin) jeżeli chcesz zainstalować RiiConnect24 na emulatorze Dolphin.
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
+NIE INSTALUJ RIICONNECT24 NA WII MINI! To nie zadziała i zbrickuje system.
 {: .notice--danger}
 
 #### Ostrzeżenia
