@@ -12,15 +12,15 @@ Jeśli potrzebujesz pomocy z czymkolwiek związanym z tym poradnikiem, dołącz 
 [RiiConnect24](https://rc24.xyz/) jest serwisem, który pozwala Ci korzystać z już niewspieranego serwisu jakim jest WiiConnect24. Pozwala on korzystać z News Channel, Forecast Channel, Everybody Votes Channel jak i również Check Mii Out Channel oraz Wii Mail.
 
 {% capture notice-1 %}
-This guide is for regular Wiis only.
+Ten poradnik jest przeznaczony tylko dla zwykłego Wii.
 
 - Podążaj za [tym poradnikiem](riiconnect24-vwii) jeżeli chcesz zainstalować RiiConnect24 na vWii (Tryb Wii na Wii U).
-- Follow [this tutorial](riiconnect24-dolphin) if you'd like to install RiiConnect24 on Dolphin Emulator.
+- Podążaj [ za tym poradnikiem ](riiconnect24-dolphin) jeżeli chcesz zainstalować RiiConnect24 na emulatorze Dolphin.
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
+NIE INSTALUJ RIICONNECT24 NA WII MINI! To nie zadziała i zbrickuje system.
 {: .notice--danger}
 
 #### Będziesz potrzebował:
