@@ -20,7 +20,7 @@ This guide is for [Dolphin Emulator](https://dolphin-emu.org) only.
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
+NIE INSTALUJ RIICONNECT24 NA WII MINI! To nie zadziała i zbrickuje system.
 {: .notice--danger}
 
 ### Czego będziesz potrzebował
