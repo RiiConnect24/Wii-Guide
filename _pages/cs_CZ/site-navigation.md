@@ -24,6 +24,7 @@ sitemap: false
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [Nová DNS adresa služeb RiiConnect24](riiconnect24-dns-update)
 + [WiiLink](wiilink)
++ [WiiLink Demae Domino's](wiilink-demae-dominos)
 + [Wiimmfi](wiimmfi)
 + [Kirby TV Channel](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
