@@ -24,6 +24,7 @@ sitemap: false
 + [RiiConnect24 돌핀 에뮬레이터](riiconnect24-dolphin)
 + [RiiConnect24 DNS Update](riiconnect24-dns-update)
 + [WiiLink](wiilink)
++ [WiiLink Demae Domino's](wiilink-demae-dominos)
 + [Wiimmfi](wiimmfi)
 + [커비 TV 채널](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
