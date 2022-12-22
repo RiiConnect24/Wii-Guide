@@ -24,12 +24,13 @@ sitemap: false
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [Mise à jour DNS de RiiConnect24](riiconnect24-dns-update)
 + [WiiLink](wiilink)
++ [WiiLink Demae Domino's](wiilink-demae-dominos)
 + [Wiimmfi](wiimmfi)
 + [Chaîne Kirby TV](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
-+ [Suppression des VFF](deleting-vffs)
-+ [Correction de FORE000006](riiconnect24-batteryfix)
-+ [Correction de NEWS000006](news000006)
++ [Deleting VFFs](deleting-vffs)
++ [Fixing FORE000006](riiconnect24-batteryfix)
++ [Fixing NEWS000006](news000006)
 
 **Modding 101**
 + [BlueBomb](bluebomb)
