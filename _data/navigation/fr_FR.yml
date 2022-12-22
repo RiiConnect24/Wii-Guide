@@ -10,7 +10,7 @@ main:
     title: Navigation du site
     url: site-navigation
   - 
-    title: Questions fréquemment posées
+    title: FAQ
     url: faq
   - 
     title: RiiConnect24
@@ -23,7 +23,7 @@ top:
     title: Ce site Web utilise des cookies pour afficher la progression du guide actuel avec la barre latérale et pour améliorer le site.
 bottom:
   - 
-    title: Pour de l'assistance en anglais, veuillez demander de l'aide sur <a href="https://discord.gg/b4Y7jfD">le serveur Discord de RiiConnect24</a>.
+    title: Pour une assistance en anglais, demandez de l'aide sur le <a href="https://discord.gg/b4Y7jfD">serveur Discord RiiConnect24</a>.
 footer:
   - 
     title: Source
@@ -42,7 +42,7 @@ sidebar_pages:
     title: Guide Wii
     url: /
   - 
-    title: Questions fréquemment posées
+    title: FAQ
     url: faq
   - 
     title: Dons
