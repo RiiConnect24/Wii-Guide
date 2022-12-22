@@ -56,8 +56,8 @@ If you already have the WiiLink Set Personal Data channel, you must install this
 {: .notice--warning}
 
 1. Click the download link for your console.
-   * [Wii]()
-   * [vWii]()
+   * [Wii](https://spd.wiilink24.com/spd/SPD_Wii.wad)
+   * [vWii](https://spd.wiilink24.com/spd/SPD_vWii.wad)
 2. Copy the downloaded WAD file to the `WAD` folder on your SD Card or USB drive.
 
 ##### Section IV - Installing WADs
@@ -67,7 +67,7 @@ You will now install the Food Channel and Set Personal Data channels.
 1. Put your SD card or USB drive in your Wii.
 2. Launch the Homebrew Channel on your Wii.
 3. Launch Wii Mod Lite.
-4. Using the +Control Pad on your Wiimote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 5. Highlight the Food Channel and Set Personal Data WADs by pressing the + Button over each of them. When all the WADs are selected, press A twice to install the WADs.
 6. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
