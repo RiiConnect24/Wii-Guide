@@ -13,16 +13,16 @@ In order to prevent abuse, a $1 USD paywall has been put in place. Due to this, 
 As this service places an order to Domino's Pizza, payment is required at the door. This is usually in the form of cash, although credit/debit card machines are possible if the delivery person has one.
 {: .notice--info}
 
-Currently, only the United States of America and Canada are supported.
+Currently, only the USA and Canada are supported.
 {: .notice--warning}
 
-You cannot use the default Dolphin NAND with this service. You must use your own NAND dump.
+You cannot use the default Dolphin NAND with this service. You must use your own NAND dump. This can be done in Dolphin by going to the toolbar and clicking `Tools -> Manage NAND -> Import BootMii NAND Backup`. 
 {: .notice--warning}
 
 #### What you need
 
 * An SD card or USB drive
-* A Wii with an Internet connection
+* A Wii with an internet connection
 * A computer
 * A Discord account
  
@@ -31,7 +31,7 @@ You cannot use the default Dolphin NAND with this service. You must use your own
 ##### Section I - Obtaining your Wii's Console ID
 
 1. Download the [Get Console ID](https://oscwii.org/library/app/GetConsoleID) homebrew app from the [Open Shop Channel](https://oscwii.org).
-2. Unzip the downloaded file and copy the `apps` folder to your SD Card or USB.
+2. Unzip the downloaded file and copy the `apps` folder to your SD Card or USB drive.
 3. On your Wii, launch the Homebrew Channel and run the app.
 4. The app will output your Wii Console ID to the screen, save this for later as you will need it.
 ![Get Console ID](/images/Demae-Dominos/get-console-id.png)
@@ -58,7 +58,7 @@ If you already have the WiiLink Set Personal Data channel, you must install this
 1. Click the download link for your console.
    * [Wii]()
    * [vWii]()
-2. Move the downloaded WAD file to the `WAD` folder on your SD Card or USB.
+2. Copy the downloaded WAD file to the `WAD` folder on your SD Card or USB drive.
 
 ##### Section IV - Installing WADs
 
@@ -67,7 +67,7 @@ You will now install the Food Channel and Set Personal Data channels.
 1. Put your SD card or USB drive in your Wii.
 2. Launch the Homebrew Channel on your Wii.
 3. Launch Wii Mod Lite.
-4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+4. Using the +Control Pad on your Wiimote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 5. Highlight the Food Channel and Set Personal Data WADs by pressing the + Button over each of them. When all the WADs are selected, press A twice to install the WADs.
 6. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
