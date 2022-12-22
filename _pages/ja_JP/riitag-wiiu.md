@@ -72,6 +72,6 @@ We will now setup Wii U Plugin Loader to run on startup with your Wii U. **This 
 You have now set up RiiTag on your Wii U! Now go play some games, and watch them show up on your RiiTag!
 {: .notice--success}
 
-[サイトマップへ進む](site-navigation)<br> 他にもきっと気になるチュートリアルがあります。
+[サイトマップへ進む](site-navigation)<br> 他にも気に入るチュートリアルがきっとあります。
 {: .notice--info}
 
