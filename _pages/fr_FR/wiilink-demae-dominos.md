@@ -22,7 +22,7 @@ You cannot use the default Dolphin NAND with this service. You must use your own
 #### Ce dont vous avez besoin
 
 * Une carte SD ou un périphérique USB
-* A Wii with an internet connection
+* D’une Wii avec une connexion internet
 * Un ordinateur
 * Un compte Discord
 
