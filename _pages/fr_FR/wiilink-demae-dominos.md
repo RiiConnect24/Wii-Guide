@@ -33,14 +33,14 @@ Vous ne pouvez pas utiliser la NAND Dolphin par défaut avec ce service. Vous de
 1. Téléchargez l'application homebrew [Get Console ID](https://oscwii.org/library/app/GetConsoleID) à partir de l'[Open Shop Channel](https://oscwii.org).
 2. Décompressez le fichier téléchargé et copiez le dossier `apps` sur votre carte SD ou votre clé USB.
 3. Sur votre Wii, lancez la chaîne Homebrew et exécutez l'application.
-4. L'application affichera votre ID de console Wii à l'écran, enregistrez ceci pour plus tard car vous en aurez besoin. ![Get Console ID](/images/Demae-Dominos/get-console-id.png)
+4. L'application affichera votre ID de console Wii à l'écran, enregistrez ceci pour plus tard car vous en aurez besoin. ![Obtenir l'ID de la console](/images/Demae-Dominos/get-console-id.png)
 
 ##### Section II - Obtention de la canalisation alimentaire
 
 1. Cliquez sur [ce lien](https://demae.wiilink24.com) pour visiter le site web de Demae Domino's.
-2. Cliquez sur le bouton `Log in` dans le coin supérieur droit. Cela demandera à votre compte Discord d'autoriser l'application. ![Authorize Demae Domino's to access your Discord account](/images/Demae-Dominos/discord-oauth.png)
+2. Cliquez sur le bouton `Log in` dans le coin supérieur droit. Cela demandera à votre compte Discord d'autoriser l'application. ![Autoriser Demae Domino's à accéder à votre compte Discord](/images/Demae-Dominos/discord-oauth.png)
 3. Cliquez sur le bouton `Purchase Access` dans le coin supérieur droit. Veuillez lire attentivement le contenu à l'écran avant de cliquer sur le bouton `Purchase`.
-4. Vous serez amené sur une page d'achat gérée par Stripe Inc. Ici vous devez entrer vos informations de paiement avec l'ID de la console Wii de la dernière section. ![Purchase Page](/images/Demae-Dominos/purchase-page.png)
+4. Vous serez amené sur une page d'achat gérée par Stripe Inc. Ici vous devez entrer vos informations de paiement avec l'ID de la console Wii de la dernière section. ![Page d'achat](/images/Demae-Dominos/purchase-page.png)
 5. Si l'achat a réussi, vous serez amené à une page de succès. Le WAD personnalisé pour votre console Wii vous sera envoyé. Veuillez prévoir jusqu'à 10 minutes pour que l'e-mail arrive.
 6. Une fois l'e-mail arrivé, téléchargez le fichier WAD joint et déplacez-le dans le dossier `WAD` sur votre carte SD ou USB.
 
@@ -97,7 +97,7 @@ Si vous avez précédemment passé une commande, passez à l'étape 5.
 5. Cliquer sur le bouton `Pizza`. Ceci chargera tous les restaurants de votre région. Le premier restaurant de la liste est celui le plus proche de vous.
 6. Cliquer sur `See Menu` pour lister les différentes catégories de menu. Cliquez sur la catégorie que vous souhaitez, puis sélectionnez un produit alimentaire. Dans l’écran de l’article, vous pouvez ajouter des garnitures et ajuster la quantité.
 7. Après avoir ajouté un aliment, vous serez amené dans le panier. Pour ajouter un produit aliment, faites défiler vers le bas et sélectionnez `Add Order`. Pour procéder à la commande, cliquez sur `Next`.
-8. Vérifiez votre commande avant de passer la commande. Lorsque vous êtes prêt, cliquez sur le grand bouton vert `Order`. ![Before Order](/images/Demae-Dominos/order.png)
+8. Vérifiez votre commande avant de passer la commande. Lorsque vous êtes prêt, cliquez sur le grand bouton vert `Order`. ![Avant la commande](/images/Demae-Dominos/order.png)
 9. Si aucune erreur n'est apparue, votre commande a été passée avec succès ! Pour suivre votre commande, il vous suffit de visiter le Traqueur de Domino's pour votre région et de saisir le numéro de téléphone que vous avez entré dans Définir les données personnelles.
 
 [Continuer vers la navigation du site](site-navigation)<br> Nous avons de nombreux autres tutoriels que vous pourriez aimer.
