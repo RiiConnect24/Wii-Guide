@@ -38,15 +38,15 @@ Agora você pode usar o Homebrew Channel para iniciar aplicativos homebrew. O Op
 
 Aqui está uma dica - ao instalar aplicativos homebrew em seu cartão SD ou pendrive/unidade USB, a estrutura da pasta deve ficar assim:
 
-![Proper SD Card Folder Structure](images/Wii/FolderStructure.png)
+![Estrutura da pasta do Cartão SD apropriada](images/Wii/FolderStructure.png)
 
-`AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
+`AppName1` e `AppName2` são nomes temporários. Não aninhe múltiplas pastas </code>apps` dentro da própria pasta <code>apps`.
 
-┃ ┣ 📂 AppName1
+[Continue a fazer um Backup da NAND usando BootMii](bootmii)<br> Fazer um backup da NAND com o BootMii neste ponto é altamente recomendado.
 {: .notice--info}
 
-If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
+Se você não conseguiu instalar o BootMii, continue para [instalando o Priiloader](priiloader).
 {: .notice--info}
 
-Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
+Dica: Você pode perceber se um Wii tem o BootMii instalado como boot2 se seu slot de disco piscar muito rapidamente, só depois do flash imediato que acontece quando você pressiona o botão POWER.
 {: .notice--info}
