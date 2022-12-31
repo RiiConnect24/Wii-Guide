@@ -95,24 +95,24 @@ Uma lista mais completa (embora ainda incompleta) pode ser encontrada [**aqui**]
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
-1. Select the game that isn't working.
-1. Click Settings.
-1. Select `Game Load`.
-1. Scroll down to `Game IOS`.
-1. Enter the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
-1. Press ok and try to load the game.
+1. Selecione o jogo que não está funcionando.
+1. Clique em Settings.
+1. Selecione `Game Load`.
+1. Role para baixo até `Game IOS`.
+1. Digite o slot do IOS a ser usado
+    - Tente usar 250 ou 251, caso 249 não funcione.
+1. Pressione ok e tente abrir o jogo.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
-1. Select the game that isn't working.
-1. Click the gear icon.
-1. Go to cIOS and use the arrows to select the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
-1. Press Save and try to load the game.
+1. Selecione o jogo que não está funcionando.
+1. Clique no ícone da engrenagem.
+1. Vá para cIOS e use as setas para selecionar o slot do IOS que usará.
+    - Tente usar 250 ou 251, caso 249 não funcione.
+1. Pressione Save e tente carregar o jogo.
 </div>
 ##### Opções depois de completado
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. A instalação é opcional.
+[Continue para o Homebrew Browser](hbb)<br> O Homebrew Browser é um bom lugar para obter homebrews no seu Wii. A instalação é opcional.
 {: .notice--info}
 
 [Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
