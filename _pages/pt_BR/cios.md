@@ -25,27 +25,27 @@ Certifique-se de que se você estiver usando um cartão SD, a trava de bloqueio 
 
 #### Instruções
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'with-connection')">With an Internet connection to the Wii</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'without-connection')">Without an Internet connection to the Wii</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'with-connection')">Com uma conexão de internet ao Wii</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'without-connection')">Sem uma conexão de internet ao Wii</button>
 
 <div id="with-connection" class="blanktabcontent" markdown="1">
 
 ##### Parte I - Baixando
 
-1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
-1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
+1. Baixe o Instalador do d2x cIOS e extraia-o para a raiz do seu cartão SD ou USB.
+1. Insira seu cartão SD ou o pendrive USB no seu Wii e inicie o Instalador d2x cIOS do Homebrew Channel.
 </div>
 <div id="without-connection" class="blanktabcontent" markdown="1">
 
 ##### Parte I - Baixando
 
-1. Download, extract, and run [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
-1. Select "Database", "IOS", then "IOS57", and select "v5918".
-   - Ensure that "Pack WAD" is checked and "Patch IOS" is unchecked.
-1. Repeat the previous step for IOS56 v5661 and IOS38 v4123.
-1. Once you have downloaded all three IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. Open the folder and navigate through them until you locate the three WAD files you downloaded. Place each of WAD files on the root of your SD card or USB drive.
-1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
-1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
+1. Baixe, extraia e execute o [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
+1. Selecione "Database", "IOS" e, em seguida, "IOS57", e selecione "v5918".
+   - Certifique-se de que "Pack WAD" está marcado e "Patch IOS" está desmarcado.
+1. Repita o passo anterior para IOS56 v5661 e IOS38 v4123.
+1. Depois de fazer o download de todos os três IOS, haverá uma pasta chamada `titles` na mesma pasta que o NUS Downloader. Abra a pasta e navegue até localizar os três arquivos WAD que baixou. Coloque cada um dos arquivos WAD na raiz do seu cartão SD ou no pendrive USB.
+1. Baixe o Instalador do d2x cIOS e extraia-o para a raiz do seu cartão SD ou USB.
+1. Insira seu cartão SD ou o pendrive USB no seu Wii e inicie o Instalador d2x cIOS do Homebrew Channel.
 </div>
 
 ##### Parte II - Instalando
@@ -76,17 +76,17 @@ Selecione cIOS: v10 beta52 d2x-v10-beta52 Selecione cIOS base: 38 Selecione cIOS
 
 ![Install cIOS 251](/images/cios/Install251.png)
 
-1. Once set, press A twice again to install, and then exit once done.
+1. Uma vez definido, pressione A duas vezes para instalar, e depois saia assim que concluído.
 
 #### Solução de problemas
 
 {% capture bruh %}
-Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
+Embora a maioria dos jogos devessem funcionar de imediato, com os padrões, alguns podem exigir o uso de um cIOS específico para funcionar ou para utilizar determinados recursos do jogo.<br> Os exemplos incluem:
 
 - Usando um teclado em Animal Crossing: City Folk.
 - Rodar SpongeBob's Boating Bash.
 
-A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
+Uma lista mais completa (embora ainda incompleta) pode ser encontrada [**aqui**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> Para alterar o cIOS usado por um jogo específico, siga estas instruções:
 {% endcapture %}
 
 <div class="notice--warning">{{ bruh | markdownify }}</div>
