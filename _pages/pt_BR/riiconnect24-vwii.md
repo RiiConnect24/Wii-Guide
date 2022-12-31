@@ -9,21 +9,21 @@ Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [
 
 ![Logo RiiConnect24](/images/WiiRC24Logo.jpg)
 
-Guide to installing [RiiConnect24](https://rc24.xyz) on vWii (Virtual Wii on Wii U).
+Guia para instalação do [RiiConnect24](https://rc24.xyz) no vWii (Wii Virtual no Wii U).
 
 Como certos recursos encontrados no Wii original não estão presentes no vWii, nós só podemos utilizar parcialmente o RiiConnect24. Veja [o que está atualmente funcionando](#whats-currently-working) para detalhes.
-{: .notice--warning}[RiiConnect24](https://rc24.xyz/) allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail.
+{: .notice--warning}[RiiConnect24](https://rc24.xyz/) permite que você use serviços que foram descontinuados do WiiConnect24, que incluem as Notícias, Previsão e Todos Votam, Nintendo o canal Check Mii Out junto com o Wii Mail.
 
 {% capture notice-1 %}
-This guide is for vWii (Wii Mode on Wii U) only.
+Este guia é somente para vWii (Modo Wii no Wii U)
 
-- Follow [this tutorial](riiconnect24-wii) if you'd like to install RiiConnect24 on a Wii.
-- Follow [this tutorial](riiconnect24-dolphin) if you'd like to install RiiConnect24 on Dolphin Emulator.
+- Siga [este tutorial](riiconnect24-wii) caso queira instalar RiiConnect24 em um Wii.
+- Siga [este tutorial](riiconnect24-dolphin) se você quiser instalar RiiConnect24 no Dolphin Emulator.
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
+NÃO INSTALE RIICONNECT24 EM UM WII MINI! Não irá funcionar e causará um brick no sistema.
 {: .notice--danger}
 
 #### Avisos
@@ -31,22 +31,22 @@ DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick th
 Nós **NÃO** somos responsáveis se você brickar, ou danificar seu console de qualquer forma. Se você seguir este guia exatamente, não deve ter nenhum problema.
 {: .notice--warning}
 
-Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on Wii U). If you're looking for instructions for a Nintendo Wii, use [this guide](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [this guide](riiconnect24-dolphin) instead.
+Faça **NÃO** execute este guia em qualquer outro console que não seja o vWii (Wii Virtual no Wii U). Se você estiver procurando instruções para um Nintendo Wii, use [este guia](riiconnect24). Se você deseja realizar este guia no Emulador Dolphin, use [este guia](riiconnect24-dolphin) em vez disso.
 {: .notice--warning}
 
 #### Você precisará de
 
 * Um cartão SD ou pendrive
 * Um computador
-* A Wii U console with an Internet connection that's capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
-* A Nintendo Network ID (NNID) linked to your Wii U
+* Um console Wii U com uma conexão com a Internet que seja capaz de iniciar o Homebrew Launcher (seja através do exploit do navegador da Web, Haxchi ou Coldboot Haxchi) **Se você não tem um console Wii U modificado, siga [wiiuguide.xyz](https://wiiuguide.xyz), bem como [o guia de modding do Wii Virtual](https://wiiuguide.xyz/#/vwii-modding) e depois volte.**
+* Uma Nintendo Network ID (NNID) vinculada ao seu Wii U
 * [RiiConnect24 Patcher (Windows, Mac e Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-After following the above linked guide, you should have:
-* A vWii NAND backup and keys (keep these stored safely!!)
-* The Homebrew Channel installed
-* d2x cIOS installed (IOS249, IOS250 and IOS251)
-* IOS80 patched
+Depois de seguir o guia vinculado acima, você deve ter:
+* Um backup da NAND do vWii (mantenha-a guardada com segurança!!)
+* O Homebrew Channel instalado
+* d2x cIOS instalado (IOS249, IOS250 e IOS251)
+* IOS80 com patch
 {: .notice--info}
 
 #### Instruções
@@ -69,11 +69,11 @@ Se não conseguir usar o RiiConnect24 Patcher, por favor entre no [ servidor do 
 11. Se seu dispositivo foi detectado com sucesso, selecione "`1`". Caso contrário, certifique-se de que há uma pasta chamada `apps` no seu cartão SD ou USB e tente novamente. ![Detectado com sucesso](/images/RC24_Patcher/8.JPG)
 12. Tenha paciência... ![Está patcheado!](/images/RC24_Patcher/9.JPG)
 13. Depois de concluído, nós gostaríamos que você dedicasse um minuto para enviar sua experiencia em modo anônimos para nós.  Se você não quiser feche o programa. Todos os arquivos já devem estar no seu cartão SD. ![Está feito!](/images/RC24_Patcher/10.JPG) ![Arquivos copiados](/images/RC24_Patcher/11.PNG)
-14. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
+14. Se ele não copiou tudo automaticamente para o seu cartão SD ou dispositivo USB, copie a pasta `WAD` e `apps` ao lado de `RiiConnect24Patcher.bat` para o seu cartão SD ou dispositivo USB.
 
-##### Section II - Installing WADs
+##### Seção II - Instalando WADs
 
-You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
+Agora você irá instalar o IOS com patch e WADs de Canal que são necessários para usar o RiiConnect24.
 
 1. Put your SD card or USB drive in your Wii U.
 2. Launch the Homebrew Channel on your Wii U.
