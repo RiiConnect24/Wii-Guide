@@ -28,9 +28,9 @@ sitemap: false
 + [Wiimmfi](wiimmfi)
 + [Chaîne Kirby TV](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
-+ [Deleting VFFs](deleting-vffs)
-+ [Fixing FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [Suppression des VFF](deleting-vffs)
++ [Correction de l'erreur FORE000006](riiconnect24-batteryfix)
++ [Correction de l'erreur NEWS000006](news000006)
 
 **Modding 101**
 + [BlueBomb](bluebomb)
