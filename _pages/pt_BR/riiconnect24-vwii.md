@@ -75,19 +75,19 @@ Se não conseguir usar o RiiConnect24 Patcher, por favor entre no [ servidor do 
 
 Agora você irá instalar o IOS com patch e WADs de Canal que são necessários para usar o RiiConnect24.
 
-1. Put your SD card or USB drive in your Wii U.
-2. Launch the Homebrew Channel on your Wii U.
+1. Coloque seu cartão SD ou um drive USB no seu Wii U.
+2. Abra o Homebrew Channel em seu Wii U.
 3. Inicie o Wii Mod Lite.
 4. Usando o +Control Pad no seu Controle Remoto do Wii, navegue para `WAD Manager`, depois navegue até a pasta `wad`.
-5. Highlight all the WADs in the folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
-6. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press the - Button on the highlighted WAD to uninstall it, then try installing it again.
+5. Destaque todas as WADs na pasta pressionando o botão + para selecioná-las. Quando todas as WADs forem selecionadas, pressione duas vezes para instalar as WADs.
+6. Se você receber um erro dizendo que um título com uma versão superior já está instalado (error -1035) vá para o menu de seleção WAD e pressione o botão - do WAD destacado para desinstalá-lo, e então tente instalá-lo novamente.
 7. Depois que eles forem instalados com sucesso, pressione o botão HOME para sair para o Homebrew Channel.
 
 ##### Seção III - Patch 43db para 16:9 (opcional)
 
-1. Launch ww-43db-patcher and wait for it to complete.
+1. Inicie ww-43db-patcher e aguarde a conclusão dele.
 
-If you [install a theme](/themes-vwii), you will have to run the ww-43db-patcher once more.
+Se você [instalar um tema](/themes-vwii), você precisará executar o ww-43db-patcher novamente.
 {: .notice--info}
 
 ##### Seção II - Usando o RiiConnect24
