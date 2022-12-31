@@ -43,7 +43,7 @@ Um dos recursos mais importantes do BootMii é a capacidade de fazer backup e re
  Continue para a instalação do Priiloader Priiloader adiciona um nível de proteção de tijolos, e recomendamos isso, especialmente se você só instalou bootMii como um Ios.
 {:. notice--info}](bootmii)
 + [cIOS](cios)
-+ [Dos and Don'ts of Wii Modding](dosanddonts)
++ [Faça e Não Faça de modding de Wii](dosanddonts)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
 + [Homebrew Channel](hbc)
