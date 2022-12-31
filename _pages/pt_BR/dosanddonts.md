@@ -1,5 +1,5 @@
 ---
-title: "Dos and Don'ts of Wii Modding"
+title: "Faça e Não Faça de modding de Wii"
 ---
 
 {% include toc title="Table of Contents" %}
