@@ -92,25 +92,25 @@ Se você [instalar um tema](/themes-vwii), você precisará executar o ww-43db-p
 
 ##### Seção II - Usando o RiiConnect24
 
-After following the above sections, you're almost ready to utilize RiiConnect24 on your Wii U. You just need to perform the following steps **every time you boot into vWii**.
+Depois de seguir as seções acima, você está quase pronto para utilizar o RiiConnect24 em seu Wii U. Você só precisa executar os seguintes passos **cada vez que você inicializar no vWii**.
 
-1. On the **Wii Menu**, launch the **ConnectMii** channel.
-* This will enable the WiiConnect24 and Standby Connection flags required by the WiiConnect24 Channels.
-2. Launch the WiiConnect24 Channels.
-* You should now be able to utilize all of the WiiConnect24 Channels you have installed.
+1. No **Menu do Wii**, inicie o canal **ConnectMii**.
+* Isto irá ativar as flags do WiiConnect24 e de Conexão em Standby, necessárias pelos canais WiiConnect24.
+2. Abra os Canais WiiConnect24.
+* Agora você poderá utilizar todos os canais de WiiConnect24 que você instalou.
 
 #### O que está funcionando atualmente?
-The following RiiConnect24 services are **working** on the vWii:
-* Forecast Channel
-* News Channel
-* Everybody Votes Channel
-* Nintendo Channel
+Os seguintes serviços RiiConnect24 estão **funcionando** no vWii:
+* Canal do Tempo
+* Canal de Notícias
+* Canal Todos Votam
+* Canal Nintendo
 * Check Mii Out Channel / Mii Contest Channel
 {: .notice--success}
 
-The following RiiConnect24 services are **not working** on the vWii:
-* Wii Mail (most functionality does not exist on vWii)
-    * This includes sending/receiving mail to/from friends.
+Os seguintes serviços RiiConnect24 **não estão funcionando** no vWii:
+* Wii Mail (a maior parte da funcionalidade não existe no vWii)
+    * Isso inclui envio/recebimento de e-mails para/de amigos.
 
-Most services that utilize WiiConnect24 will be able to work if you leave vWii running for several hours. There's no standby mode on the console.
+A maioria dos serviços que utilizam WiiConnect24 poderão funcionar se você sair do vWii rodando por várias horas. Não há modo de standby no console.
 {: .notice--warning}
