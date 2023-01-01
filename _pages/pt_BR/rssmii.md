@@ -56,7 +56,7 @@ Não está obtendo nenhuma atualização de feed? Experimente um feed RSS que at
 Recomendamos que você use apenas alguns feeds, porque se você se inscrever para um monte de feeds, você receberá uma tonelada de mensagens no seu Wii.
 {: .notice--info}
 
-If you're not receiving updates after a few days, you might need to subscribe to the RSS feeds again. Launch RSSMii from the Homebrew Channel again and it'll create brand new subscriptions.
+Se você não estiver recebendo atualizações depois de alguns dias, talvez você precise se inscrever nos feeds RSS novamente. Abra o RSSMii novamente do Homebrew Channel e ele criará novas assinaturas.
 {: .notice--info}
 
 [Removendo o RSSMii](rssmii-remove)
