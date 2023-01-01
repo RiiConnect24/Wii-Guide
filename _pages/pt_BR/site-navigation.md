@@ -28,11 +28,11 @@ sitemap: false
 + [Wiimmfi](wiimmfi)
 + [Kirby TV Channel](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
-+ [Deleting VFFs](deleting-vffs)
-+ [Fixing FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [Deletando VFFs](deleting-vffs)
++ [Corrigindo FORE000006](riiconnect24-batteryfix)
++ [Corrigindo NEWS000006](news000006)
 
-**Modding 101**
+**Passo-a-Passo de Modding**
 + [BlueBomb](bluebomb)
 * [{% include toc title="Table of Contents" %}
 Se você precisar de ajuda para qualquer coisa sobre este tutorial, por favor, junte-se ao servidor RiiConnect24 Discord (recomendado) ou envie-nos um e-mail para support@riiconnect24. net.
@@ -53,28 +53,28 @@ Um dos recursos mais importantes do BootMii é a capacidade de fazer backup e re
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Creating Wii Game Shortcuts](wiigsc)
-+ [How to dump Channels (WADs)](dump-wads)
-+ [How to dump GameCube/Wii Games](dump-games)
++ [Criando Atalhos de Jogos no Wii](wiigsc)
++ [Como fazer dump de Canais (WADs)](dump-wads)
++ [Como fazer dump de jogos de GameCube/Wii](dump-games)
 + [Instalando RSSMii](rssmii)
-+ [Installing Wii Menu Themes](themes)
-+ [Installing Wii Menu Themes on vWii](themes-vwii)
-+ [Performing a SysCheck](syscheck)
++ [Instalando Temas no Menu do Wii](themes)
++ [Instalando Temas do Wii no Menu do vWii](themes-vwii)
++ [Realizando uma Syscheck](syscheck)
 + [Removendo o RSSMii](rssmii-remove)
 + [RiiTag](riitag)
-+ [Updating Wii Menu to v4.3](update)
++ [Atualizando o Menu do Wii para v4.3](update)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 + [WiiFlow](wiiflow)
 
 **Wii mini**
-+ [Installing the Homebrew Channel on the Wii mini](hbc-mini)
-+ [Installing cIOS on the Wii mini](cios-mini)
++ [Instalando o Homebrew Channel no Wii Mini](hbc-mini)
++ [Instalando cIOS no Wii Mini](cios-mini)
 
 **Site**
-+ [Home](/)
++ [Início](/)
 + [Introdução](Prepare-se)
 + [\[\[Perguntas frequentes\\](perguntas frequentes)](perguntas frequentes)](perguntas frequentes)
-+ [Donations](donations)
++ [Doações](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
