@@ -7,13 +7,13 @@ title: RiiTag on Wii U
 Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You launch a plugin on your Wii U console, and the tag updates on-the-fly.
+RiiTag é um gamertag customizável e dinâmico. Ao compartilhar sua gamertag (uma imagem dinâmica), você pode mostrar o que você tem jogado com seus amigos! Você inicia um plugin no seu console Wii U, e sua tag atualiza na hora.
 
 #### Você precisará de
 
-- A device capable of interacting with SD cards
-- Softmodded Wii U console
-   - If you have not softmodded your Wii U yet, [please do so](https://wiiu.hacks.guide). You cannot proceed without.
+- Um dispositivo capaz de interagir com cartões SD
+- Console Wii U com softmod
+   - Se você ainda não fez um softmod em seu Wii U, [por favor, faça isso](https://wiiu.hacks.guide). Não se pode proceder sem isso.
 - Uma conta no Discord
 - A versão mais recente do [Wii U Plugin Loader](https://github.com/Maschell/WiiUPluginLoader/releases)
 - A versão mais recente do [UTag plugin](https://github.com/RiiConnect24/UTag/releases)
