@@ -10,7 +10,7 @@ title: "蓝牙炸弹"
 如果您需要有关本教程的任何帮助，请加入[Wii mini破解Discord服务器](https://discord.gg/6ryxnkS)（推荐）
 {: .notice--info}
 
-![蓝牙炸弹](/images/bluebomb.png)
+![BlueBomb](/images/bluebomb.png)
 
 BlueBomb是一种利用Wii和Wii Mini的蓝牙库中漏洞的破解程序。 尽管BlueBomb是唯一适用于Wii mini的漏洞，但它也可以在原版Wii上运行。 此漏洞还可以从某些砖（例如横幅砖）中恢复。
 
