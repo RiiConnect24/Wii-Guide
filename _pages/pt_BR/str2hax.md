@@ -29,8 +29,8 @@ Este exploit exige que você configure seu DNS para se conectar a um servidor qu
 5. Selecione sua conexão atual. ![Conexão atual](/images/RiiConnect24/Internet_5.png)
 6. Vá para `Alterar configurações`. ![Alterar Configurações](/images/RiiConnect24/Internet_6.png)
 7. Vá para `Auto-Obter DNS` (não Endereço IP), então selecione `Não`, e então `Configurações Avançadas`. ![Auto-Obter DNS](/images/RiiConnect24/Internet_7.png)
-8. Type in `18.188.135.9` as the primary DNS.
-9. Type in `18.188.135.9` as the secondary DNS.
+8. Digite `18.188.135.9` como o DNS primário.
+9. Digite `18.188.135.9` como DNS secundário.
 10. Selecione `Confirmar` e selecione `Salvar`. ![Salvar DNS](/images/RiiConnect24/Internet_10.png)
 11. Selecione `OK` para executar um teste de conexão. ![Teste de conexão](/images/RiiConnect24/Internet_11.png)
    - Se o teste de conexão foi bem-sucedido, selecione `Não` para ignorar a atualização do sistema do Wii. ![Teste de conexão bem-sucedido](/images/RiiConnect24/Internet_12.png)
@@ -43,7 +43,7 @@ Este exploit exige que você configure seu DNS para se conectar a um servidor qu
 
 Se o Instalador HackMii não carregar e congelar (você não pode mover o seu cursor) ou não levar 1-2 minutos para ativar, por favor reinicie seu Wii e tente novamente o exploit.
 
-If you have installed a mod like CTGP Revolution or Project+, str2hax may load that instead. If it does, restart your Wii and try again without your SD card inserted.
+Se você instalou um mod como CTGP Revolution ou Project+, o str2hax pode carregá-lo em vez disso. Caso positivo, reinicie o seu Wii e tente novamente sem que seu cartão SD seja colocado.
 
 [Continue para a instalação do Homebrew Channel e BootMii](hbc)
 {: .notice--info}
