@@ -9,7 +9,7 @@ Você está cansado do tema chato e branco no seu Menu Wii e quer um tema legal?
 Nós **NÃO** somos responsáveis se você brickar, ou danificar seu console de qualquer forma. Se você seguir este guia exatamente, não deve ter nenhum problema.
 {: .notice--danger}
 
-Do **NOT** install the themes made in this guide on an actual Wii. They are only compatible with the vWii System Menu and will brick an actual Wii.
+**NÃO** instale os temas feitos neste guia em um Wii real. Eles só são compatíveis com o Menu do Sistema vWii e irão causar um brick em um Wii real.
 {: .notice--danger}
 
 WiiMotes with Wii MotionPlus will not work on MyMenuify, unfortunately there isn't anything we can do about this at the moment and you'll have to use an older Wii remote.
