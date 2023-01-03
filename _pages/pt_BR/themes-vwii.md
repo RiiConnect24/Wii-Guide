@@ -12,16 +12,16 @@ Nós **NÃO** somos responsáveis se você brickar, ou danificar seu console de 
 **NÃO** instale os temas feitos neste guia em um Wii real. Eles só são compatíveis com o Menu do Sistema vWii e irão causar um brick em um Wii real.
 {: .notice--danger}
 
-WiiMotes with Wii MotionPlus will not work on MyMenuify, unfortunately there isn't anything we can do about this at the moment and you'll have to use an older Wii remote.
+WiiMotes com Wii MotionPlus não funcionarão com MyMenuify, Infelizmente, não há nada que possamos fazer a respeito disso no momento e você terá que usar um controle Wii mais antigo.
 {: .notice--warning}
 
-There are some themes that aren't compatible with the vWii System Menu, they may result in anything from graphical glitches to a full theme brick. We recommend only using themes from [rc24.xyz/goodies/themes](https://rc24.xyz/goodies/themes/) since these are compatible with modern versions of the System Menu.
+Existem alguns temas que não são compatíveis com o Menu de Sistema vWii, eles podem resultar em qualquer coisa de falhas gráficas até um brick completo causado pelo tema. Recomendamos o uso de temas a somente de [rc24.xyz/goodies/themes](https://rc24.xyz/goodies/themes/), já que estes são compatíveis com versões recentes do Menu do Sistema.
 {: .notice--warning}
 
-If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329). ([Archive](https://web.archive.org/web/20200213194233/https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329/))
+Se você de alguma forma acontecer um brick seu vWii, [siga este guia](https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329). ([Arquivo](https://web.archive.org/web/20200213194233/https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329/))
 {: .notice--info}
 
-#### What You Need
+#### O Que Você Precisa
 
 * A Wii U with the Homebrew Channel installed.
 * A Wiimote without Wii MotionPlus
