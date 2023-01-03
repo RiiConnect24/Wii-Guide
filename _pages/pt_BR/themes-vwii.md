@@ -23,8 +23,8 @@ Se você de alguma forma acontecer um brick seu vWii, [siga este guia](https://g
 
 #### O Que Você Precisa
 
-* A Wii U with the Homebrew Channel installed.
-* A Wiimote without Wii MotionPlus
+* Um Wii U com o Homebrew Channel instalado.
+* Um Wimote sem Wii MotionPlus
 * Um cartão SD
 * Um computador com Windows nele (ou usando Mono ou Wine no Mac/Linux)
 * [MyMenuify](/assets/files/Mymenuify-Old-vWii.zip)
@@ -33,13 +33,13 @@ Se você de alguma forma acontecer um brick seu vWii, [siga este guia](https://g
 
 #### Links do Tema
 
-Below are some links to themes.
+Abaixo estão alguns links para os temas.
 
-* [RiiConnect24 Themes Page](https://rc24.xyz/goodies/themes/)
-* [Google Drive Repository](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
+* [Página de Temas RiiConnect24](https://rc24.xyz/goodies/themes/)
+* [Repositório do Google Drive](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
 * [Wii Theme Team Creations v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
-Only themes from the RiiConnect24 Themes page have been tested on vWii. Themes from other sources may not be entirely compatible with vWii, use these at your own risk.
+Apenas os temas da página de temas RiiConnect24 foram testados no vWii. Temas de outras fontes podem não ser inteiramente compatíveis com o vWii, use isso por sua conta e risco.
 {: .notice--warning}
 
 CERTIFIQUE-SE QUE VOCÊ LEU OS AVISOS ACIMA ANTES DE CONTINUAR!
@@ -49,15 +49,15 @@ CERTIFIQUE-SE QUE VOCÊ LEU OS AVISOS ACIMA ANTES DE CONTINUAR!
 
 ##### Seção I - Encontrando um Tema
 
-* When choosing a theme, it is important to make sure that your theme is compatible with the vWii System Menu.
+* Ao escolher um tema, é importante certificar-se de que seu tema é compatível com o Menu do Sistema vWii.
 
 * Older themes for 3. X or 2. X are **NOT** compatible with vWii and may cause a brick if used.
 
-* Most of the themes on RiiConnect24's theme page have been tested on vWii and they are known to work.
+* A maioria dos temas na página de temas RiiConnect24 foram testados no vWii e são conhecidos por funcionarem.
 
-##### Section II - Downloading .app files
+##### Seção II – Baixando arquivos .app
 
-This assumes your vWii is on the latest Wii Menu version.
+Isto pressupõe que seu vWii está na versão mais recente do Menu Wii.
 {: .notice--warning}
 
 There are a couple of ways to get the .app files for your vWii System Menu, in this guide we'll be using the vWii version of NUS Downloader.
