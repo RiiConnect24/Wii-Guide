@@ -8,7 +8,10 @@ Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen
 Open Shop Channel'ın üzerine kurulu olduğu Homebrew Tarayıcısı, her ne kadar çalışıyor olda da oldukça bug içermektedir. Ayrıca [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) ile [Open Shop Channel'ın web sayfasından](https://oscwii.org/) homebrew uygulamalarını elde edebilirsiniz.
 {: .notice--info}
 
-[Open Shop Channel](https://oscwii.org/), homebrew uygulamalarını elde edebileceğiniz yerdir. Ayrıca, Homebrew Tarayıcısı için yapılan bir diriltme projesidir.
+You need an Internet connection in order to use this application.
+{: .notice--warning}
+
+The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
 
 #### İhtiyacınız olan şeyler
 * SD Kart veya USB sürücü
