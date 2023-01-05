@@ -8,7 +8,10 @@ Se hai bisogno di aiuto per qualsiasi cosa riguardo questo tutorial, per favore 
 Homebrew Browser, che è quello su cui si basa il Canale Open Shop, funziona ma può essere buggato. Puoi anche ottenere app homebrew usando [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) e dal sito di [Open Shop Channel](https://oscwii.org/).
 {: .notice--info}
 
-Il [Canale Open Shop](https://oscwii.org/) è dove puoi andare per ottenere app homebrew. Questo è un progetto di rinascita per un'applicazione chiamata Homebrew Browser.
+You need an Internet connection in order to use this application.
+{: .notice--warning}
+
+The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
 
 #### Di cosa hai bisogno
 * Una scheda SD o dispositivo USB
@@ -21,7 +24,7 @@ Il [Canale Open Shop](https://oscwii.org/) è dove puoi andare per ottenere app 
 
 #### Applicazioni consigliate
 
-Ecco delle applicazioni consigliate che puoi ottenere sul Canale Open Shop:
+Here are some recommended apps that you can get on the Open Shop Channel:
 
 - [CleanRip](https://oscwii.org/library/app/CleanRip) - Questo è un tool per dumpare i giochi Wii e GameCube. Visita[la nostra pagina](dump-games) per più dettagli.
 - [GCMM](https://oscwii.org/library/app/gcmm) - Questo è un manager di memory card per GameCube per la tua console Wii.
@@ -34,14 +37,14 @@ Ecco delle applicazioni consigliate che puoi ottenere sul Canale Open Shop:
 - [WiiXplorer-SS](https://oscwii.org/library/app/wiixplorer-ss) - Questo è un manager di file per la tua Wii. Ti permette di accedere ai tuoi file sulla scheda SD, sul dispositivo USB e altro ancora.
 - [YABDM](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod) - Questo è un tool per dumpare i contenuti installati nella tua Wii su file WAD. Visita [la nostra pagina](dump-wads) per istruzioni su come usarlo.
 
-[Continua con RiiConnect24](riiconnect24)<br> RiiConnect24 consente di utilizzare i servizi interrotti di WiiConnect24, tra cui i canali Notizie, Meteo, Vota Anche Tu, Nintendo e Concorsi Mii, oltre a Wii Mail. L'installazione è facoltativa.
+[Continua a RiiConnect24](riiconnect24)<br> RiiConnect24 ti permette di usare servizi di WiiConnect24 che sono discontinuati, come i canali News, Forecast, Everybody Votes, Nintendo, Check Mii Out e anche Wii Mail. L'installazione è facoltativa.
 {: .notice--info}
 
-[Continua a navigare nel sito](site-navigation)<br> Abbiamo molte altre guide che potrebbero interessarti.
+[Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
 {: .notice--info}
 
-Insieme al download di Hombrew Browser è inclusa una guida su come usare Homebrew Browser.
+Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
 {: .notice--info}
 
-Puoi scambiare ShopChannel.ogg con loop.ogg in `/apps/homebrew_browser/` per far sì che l'Homebrew Browser riproduca la musica del Canale Wii Shop.
+You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
 {: .notice--info}
