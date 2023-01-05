@@ -20,6 +20,9 @@ This guide is for regular Wiis only.
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
+It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
+{: .notice--warning}
+
 DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
@@ -34,7 +37,7 @@ DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick th
 
 ##### Část I - Použití utility RiiConnect24 Patcher
 
-Pokud se vám nedaří spustit RiiConnect24 Patcher, přidejte se prosím na [RiiConnect24 Discord server](https://discord.gg/rc24) (doporučeno) nebo [nám napište email](mailto:support@riiconnect24.net) pro další pomoc.
+If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
 {: .notice--info}
 
 1. Klikněte na link výše, abyste se dostali na GitHub s patcherem.
@@ -54,7 +57,7 @@ Pokud se vám nedaří spustit RiiConnect24 Patcher, přidejte se prosím na [Ri
 
 ##### Část II – Instalace souborů WAD
 
-Nyní nainstalujete upravený IOS a WAD kanály, které jsou potřebné pro použití RiiConnect24.
+You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
 1. Vložte SD kartu nebo USB disk do svého Wii.
 2. Na svém Wii spusťte Homebrew Channel.
@@ -66,18 +69,18 @@ Nyní nainstalujete upravený IOS a WAD kanály, které jsou potřebné pro pou�
 
 ##### Část III - Patching souboru nwc24msg.cfg
 
-Nyní patchnete soubor `nwc24msg.cfg`, který je vyžadován pro použití Wii Mailu.
+You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
 
 1. Spusťte RiiConnect24 Mail Patcher.
 2. Mělo by to trvat jen několik sekund, než se nwc24msg.cfg patchne. Až to bude hotové, zmáčkněte tlačítko "HOME", abyste se vrátili.
 
-Pokud se vám nwc24msg.cfg nedaří patchnout, přidejte se prosím na [RiiConnect24 Discord server](https://discord.gg/rc24) (doporučeno) nebo [nám napište email](mailto:support@riiconnect24.net), abychom vám mohli pomoci.
+If you were unable to patch your nwc24msg.cfg correctly, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
 {: .notice--info}
 
 ##### Část IV - Připojení
 
 {% capture notice-1 %}
-Starting June 16th, 2022 the RiiConnect24 DNS changes. Read more: [here.](riiconnect24-dns-update)
+Starting June 16th, 2022 the RiiConnect24 DNS changes. [Read more here](riiconnect24-dns-update).
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
