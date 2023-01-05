@@ -23,7 +23,10 @@ title: RiiConnect24 vWii ガイド
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-Wii miniにRiiConnect24をインストールしてはいけません！ 機能しないだけでなく、本体がブリックします。
+It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
+{: .notice--warning}
+
+DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
 #### 警告
@@ -31,7 +34,7 @@ Wii miniにRiiConnect24をインストールしてはいけません！ 機能�
 お持ちの機器がいかなる理由でブリックまたは損傷したとしても、私たちガイド編集者は**責任を負いません**。 このガイドに正確に従っていれば、何も問題は無いはずですが。
 {: .notice--warning}
 
-このガイドをvWii（Wii U上の仮想Wii）以外の本体で**実行してはなりません**。 Wii向けの手順をお探しなら[このガイド](riiconnect24)を使ってください。 Dolphinエミュレータで実行するには[このガイド](riiconnect24-dolphin)を使ってください。
+Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on Wii U). If you're looking for instructions for a Nintendo Wii, use [this guide](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [this guide](riiconnect24-dolphin) instead.
 {: .notice--warning}
 
 #### 必要なもの
@@ -42,7 +45,7 @@ Wii miniにRiiConnect24をインストールしてはいけません！ 機能�
 * お使いのWii Uに紐付けられたニンテンドーネットワークID（NNID）
 * [RiiConnect24 Patcher（Windows・Mac・Linux）](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-上記リンクのガイドを終えた時、以下のものが完了している必要があります。
+After following the above linked guide, you should have:
 * vWiiのNANDとkeysのバックアップ（安全に保管しておくこと！）
 * Homebrew Channelのインストール
 * d2x cIOS（IOS249、IOS250、IOS251）インストール
@@ -53,7 +56,7 @@ Wii miniにRiiConnect24をインストールしてはいけません！ 機能�
 
 ##### セクション I - パッチを実行
 
-RiiConnect24 Patcherを実行できないときは、[the RiiConnect24 Discord server](https://discord.gg/rc24)に参加する（推奨）か[support@riiconnect24.netへメールを送って](mailto:support@riiconnect24.net)ヘルプを求めてください。
+If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
 {: .notice--info}
 
 1. 上記のリンクをクリックして、PatcherのあるGitHubページに移動します。
@@ -73,7 +76,7 @@ RiiConnect24 Patcherを実行できないときは、[the RiiConnect24 Discord s
 
 ##### セクション II - WADのインストール
 
-これから、RiiConnect24を使うために必要なパッチ適用済みIOS（cIOS）およびチャンネルWADのインストールをします。
+You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
 1. Wii UにSDカードまたはUSBドライブを挿します。
 2. Wii UでHomebrew Channelを起動します。
@@ -100,7 +103,7 @@ After following the above sections, you're almost ready to utilize RiiConnect24 
 * You should now be able to utilize all of the WiiConnect24 Channels you have installed.
 
 #### 現在機能しているものは？
-以下のRiiConnect24サービスがvWiiで**動作しています**。
+The following RiiConnect24 services are **working** on the vWii:
 * お天気チャンネル
 * ニュースチャンネル
 * みんなで投票チャンネル
@@ -108,9 +111,9 @@ After following the above sections, you're almost ready to utilize RiiConnect24 
 * Miiコンテストチャンネル
 {: .notice--success}
 
-以下のRiiConnect24サービスはvWiiで**動作していません**。
+The following RiiConnect24 services are **not working** on the vWii:
 * Wiiメール（対応する機能がvWiiにほとんど無い）
     * これには友人とのメール送受信の一切が含まれます。
 
-WiiConnect24を利用するほとんどのサービスは、vWiiを数時間起動させておくと動作するようになります。 Wii U本体にはスタンバイモードは存在しません。
+Most services that utilize WiiConnect24 will be able to work if you leave vWii running for several hours. There's no standby mode on the console.
 {: .notice--warning}
