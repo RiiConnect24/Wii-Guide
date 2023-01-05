@@ -8,7 +8,10 @@ title: "Open Shop Channel (Homebrew Browser)"
 Homebrew Browser是Open Shop Channel的根基，没有它可以正常工作但可能会有问题。 您也可以使用 [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) 并从 [Open Shop Channel网站](https://oscwii.org/) 获得自制程序。
 {: .notice--info}
 
-[Open Shop Channel](https://oscwii.org/)是您下载自制程序的好地方。 这是Homebrew Browser的复兴。
+You need an Internet connection in order to use this application.
+{: .notice--warning}
+
+The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
 
 #### 你需要准备的东西…
 * 一张SD卡或者U盘
@@ -21,7 +24,7 @@ Homebrew Browser是Open Shop Channel的根基，没有它可以正常工作但�
 
 #### 推荐应用
 
-以下是一些可以在Open Shop Channel获取的应用:
+Here are some recommended apps that you can get on the Open Shop Channel:
 
 - [CleanRip](https://oscwii.org/library/app/CleanRip) - 这是一个转储Wii和GameCube游戏的工具。 查看[我们的网页](dump-games)获取更多信息。
 - [GCMM](https://oscwii.org/library/app/gcmm) - Wii的GameCube记忆卡管理器。
@@ -40,8 +43,8 @@ Homebrew Browser是Open Shop Channel的根基，没有它可以正常工作但�
 [继续 网站导览](site-navigation) 我们有许多你可能喜欢的其他教程。
 {: .notice--info}
 
-Homebrew Browser下载中包含如何使用Homebrew Browser的指南。
+Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
 {: .notice--info}
 
-你可以在`/apps/homebrew_browser/`里将loop.ogg换成ShopChannel.ogg 让Homebrew Browser播放Wii Shop Channel音乐。
+You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
 {: .notice--info}
