@@ -55,6 +55,7 @@ sitemap: false
 + [Efectuarea unui SysCheck](syscheck)
 + [Dezactivare RSSMii](rssmii-remove)
 + [RiiTag](riitag)
++ [Setting RTC Time](rtc)
 + [Actualizarea Meniului Wii la v4.3](update)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
