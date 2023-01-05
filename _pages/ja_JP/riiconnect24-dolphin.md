@@ -20,7 +20,7 @@ title: "RiiConnect24 for Dolphin"
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-Wii miniにRiiConnect24をインストールしてはいけません！ 機能しないだけでなく、本体がブリックします。
+DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
 ### 必要なもの
@@ -69,5 +69,5 @@ Windows 10より昔のWindowsをお使いの場合、残念ながらDolphinでWi
 みんなで投票チャンネルを使うには最大で4回起動し直す必要があります。
 {: .notice--warning}
 
-お天気チャンネル・ニュースチャンネルで、FOREやNEWSで始まるエラーコードや、サービス終了のメッセージなど、上記と別のエラーが発生している場合は、[RiiConnect24 Clear Toolを使ってVFFを削除してみてください](deleting-vffs)。
+[If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with RC24-Clear-Tool](deleting-vffs).
 {: .notice--warning}
