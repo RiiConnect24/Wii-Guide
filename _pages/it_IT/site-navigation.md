@@ -55,6 +55,7 @@ sitemap: false
 + [Eseguire un SysCheck](syscheck)
 + [Rimuovere RSSMii](rssmii-remove)
 + [RiiTag](riitag)
++ [Setting RTC Time](rtc)
 + [Aggiornamento del Menu Wii a v4.3](update)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
