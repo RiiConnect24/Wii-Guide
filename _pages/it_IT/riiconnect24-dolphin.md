@@ -20,7 +20,7 @@ Questa guida si applica solo all'[Emulatore Dolphin](https://dolphin-emu.org).
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-NON INSTALLARE RIICONNECT24 SU UN WII MINI! Non funzionerà e brickerà il sistema.
+DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
 ### Di cosa hai bisogno
@@ -69,5 +69,5 @@ Unfortunately, Wii Mail doesn't work in Dolphin yet.
 You will have to launch the Everybody Votes Channel 4 times at most in order for it to start working.
 {: .notice--warning}
 
-[Se stai ricevendo altri errori con il Canale Meteo o il Canale Notizie, come un codice di errore che inizia con FORE o NEWS oppure un messaggio di discontinuità, puoi provare a eliminare i VFFs con RC24-Clear-Tool](deleting-vffs).
+[If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with RC24-Clear-Tool](deleting-vffs).
 {: .notice--warning}
