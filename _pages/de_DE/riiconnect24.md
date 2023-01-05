@@ -20,7 +20,10 @@ Diese Anleitung ist nur für normale Wiis gedacht.
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-INSTALLIEREN SIE NICHT RIICONNECT24 AUF EINER WII MINI! Es wird nicht funktionieren und es wird das System bricken.
+It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
+{: .notice--warning}
+
+DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
 #### Voraussetzungen
@@ -34,7 +37,7 @@ INSTALLIEREN SIE NICHT RIICONNECT24 AUF EINER WII MINI! Es wird nicht funktionie
 
 ##### Abschnitt 1 - RiiConnect24 Patcher herunterladen
 
-Du kannst den [RiiConnect24 Discord server](https://discord.gg/rc24) (empfohlen) beitreten, oder für weitere Unterstützung uns eine e-Mail an [ support@riiconnect24.net](mailto:support@riiconnect24.net) senden.
+If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
 {: .notice--info}
 
 1. Klicke oben auf den Link um zur GitHub-Seite zu gelangen, auf welcher sich der Patcher befindet.
@@ -54,7 +57,7 @@ Du kannst den [RiiConnect24 Discord server](https://discord.gg/rc24) (empfohlen)
 
 ##### Abschnitt 2 - WADs Installieren
 
-Sie werden nun die gepatchten IOS und Channel WADs installieren, die für die Verwendung von RiiConnect24 benötigt werden.
+You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
 1. Verbinde deine SD-Karte bzw. dein USB-Laufwerk mit deiner Wii.
 2. Starte den Homebrew-Kanal auf deiner Wii.
@@ -66,23 +69,23 @@ Sie werden nun die gepatchten IOS und Channel WADs installieren, die für die Ve
 
 ##### Abschnitt 3 - nwc24msg.cfg patchen
 
-Du wirst nun deine `nwc24msg.cfg`-Datei patchen, was für die Benutzung von Wii Mail erforderlich ist.
+You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
 
 1. Starte den RiiConnect24 Mail Patcher.
 2. Es sollte nur einige Sekunden dauern, um deine nwc24msg.cfg zu patchen. Wenn es abgeschlossen ist, drücke die HOME-Taste zum beenden.
 
-Du kannst den [RiiConnect24 Discord server](https://discord.gg/rc24) (empfohlen) beitreten, oder für weitere Unterstützung uns eine e-Mail an [ support@riiconnect24.net](mailto:support@riiconnect24.net) senden.
+If you were unable to patch your nwc24msg.cfg correctly, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
 {: .notice--info}
 
 ##### Abschnitt 4 - Verbindung
 
 {% capture notice-1 %}
-Ab dem 16. Juni 2022 ändert sich die RiiConnect24-DNS. Genaueres dazu erfährst du [hier.](riiconnect24-dns-update)
+Starting June 16th, 2022 the RiiConnect24 DNS changes. [Read more here](riiconnect24-dns-update).
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-Du wirst nun die DNS-Adressen zu unseren Servern einsetzen. Die ist optional aber empfohlen, da es den Funktionsumfang von RiiConnect24 und Wiimmfi erweitert.
+You will now set your DNS to our servers. This is optional but it's recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
 
 1. Gehe in die `Wii-Optionen`.
 2. Gehe in die `Wii-Systemeinstellungen`.
