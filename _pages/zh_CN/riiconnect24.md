@@ -20,7 +20,10 @@ title: "RiiConnect24"
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-不要在WII MINI上安装RIICONNECT24! 他不会工作，还会使它变砖。 他不会工作，还会使它变砖。
+It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
+{: .notice--warning}
+
+DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
 #### 你需要的是
@@ -34,7 +37,7 @@ title: "RiiConnect24"
 
 ##### 第一节 - 使用RiiConnect24修补程序
 
-如果您无法运行RiiConnect24 修补程序，请加入 [RiiConnect24 Discord 服务器](https://discord.gg/rc24) (推荐) 或 [向support@riiconnect24.net发邮件](mailto:support@riiconnect24.net)寻求帮助。
+If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
 {: .notice--info}
 
 1. 点击上面的链接以转到修补程序所在的GitHub页面。
@@ -54,7 +57,7 @@ title: "RiiConnect24"
 
 ##### 第二节 - 安装WAD
 
-您现在将安装修补过的IOS和频道WAD，它们是RiiConnect24必须的。
+You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
 1. 将SD卡或U盘插入Wii。
 2. 启动Wii上的Homebrew Channel。
@@ -66,23 +69,23 @@ title: "RiiConnect24"
 
 ##### 第三节 - 修补 nwc24msg.cfg
 
-您现在将修补`nwc24msg.cfg`，这是使用Wii 邮箱必需的。
+You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
 
 1. 启动 RiiConnect24 Mail 修补程序。
 2. 修补nwc24msg.cfg只需几秒钟。 完成后，按HOME退出。
 
-如果您无法修补nwc24msg.cfg，请加入 [RiiConnect24 Discord 服务器](https://discord.gg/rc24) (推荐) 或 [向support@riiconnect24.net发邮件](mailto:support@riiconnect24.net)寻求帮助。
+If you were unable to patch your nwc24msg.cfg correctly, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
 {: .notice--info}
 
 ##### 第四节 - 连接
 
 {% capture notice-1 %}
-自2022年6月16日起，我们将更改RiiConnect24 DNS. 点[这里](riiconnect24-dns-update)阅读更多。
+Starting June 16th, 2022 the RiiConnect24 DNS changes. [Read more here](riiconnect24-dns-update).
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-您现在需要将DNS设置为我们的服务器。 这是可选项但很推荐，因为它通过提供其它功能来增强RiiConnect24和Wiimmfi.
+You will now set your DNS to our servers. This is optional but it's recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
 
 1. 转到 `Wii Options(Wii选项)`.
 2. 转到`Wii Settings(Wii设置)`.
