@@ -8,7 +8,10 @@ Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte s
 Homebrew Browser, na kterém je Open Shop Channel založen, funguje, ale může být zabugovaný. Homebrew také můžete získat na [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) nebo na webu [Open Shop Channel](https://oscwii.org/).
 {: .notice--info}
 
-[Open Shop Channel](https://oscwii.org/) je místo, kam si můžete přijít pro homebrew aplikace. Je to oživovací projekt aplikace s názvem Homebrew Browser.
+You need an Internet connection in order to use this application.
+{: .notice--warning}
+
+The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
 
 #### Co budete potřebovat
 * SD karta nebo USB disk
