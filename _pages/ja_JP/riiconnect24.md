@@ -20,7 +20,10 @@ title: "RiiConnect24"
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-Wii miniにRiiConnect24をインストールしてはいけません！ 機能しないだけでなく、本体がブリックします。
+It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
+{: .notice--warning}
+
+DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
 #### 必要なもの
@@ -34,7 +37,7 @@ Wii miniにRiiConnect24をインストールしてはいけません！ 機能�
 
 ##### セクション I - RiiConnect24 Patcherを使う
 
-RiiConnect24 Patcherを実行できないときは、[the RiiConnect24 Discord server](https://discord.gg/rc24)に参加する（推奨）か[support@riiconnect24.netへメールを送って](mailto:support@riiconnect24.net)ヘルプを求めてください。
+If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
 {: .notice--info}
 
 1. 上記のリンクをクリックして、PatcherのあるGitHubページに移動します。
@@ -54,7 +57,7 @@ RiiConnect24 Patcherを実行できないときは、[the RiiConnect24 Discord s
 
 ##### セクション II - WADのインストール
 
-これから、RiiConnect24を使うために必要なパッチ適用済みIOS（cIOS）およびチャンネルWADのインストールをします。
+You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
 1. WiiにSDカードまたはUSBドライブを接続します。
 2. WiiでHomebrew Channelを起動します。
@@ -66,23 +69,23 @@ RiiConnect24 Patcherを実行できないときは、[the RiiConnect24 Discord s
 
 ##### セクション III - nwc24msg.cfgにパッチを適用する
 
-Wiiメールを使うために必要な`nwc24msg.cfg`ファイルにパッチを適用していきます。
+You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
 
 1. RiiConnect24 Mail Patcherを起動します。
 2. nwc24msg.cfgにパッチを適用するには数秒しかかかりません。 終了したら、HOMEボタンを押して終了します。
 
-nwc24msg.cfgに正しくパッチを当てられなかったときは、[RiiConnect24 Discordサーバ](https://discord.gg/rc24)に参加する（推奨）か[support@riiconnect24.netへメールを送って](mailto:support@riiconnect24.net)、助けを求めてください。
+If you were unable to patch your nwc24msg.cfg correctly, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
 {: .notice--info}
 
 ##### セクション IV - 接続
 
 {% capture notice-1 %}
-2022年6月16日からRiiConnect24のDNSが変更されました。 詳しくは[こちら](riiconnect24-dns-update)。
+Starting June 16th, 2022 the RiiConnect24 DNS changes. [Read more here](riiconnect24-dns-update).
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-WiiのDNSにRiiConnect24のサーバを使うように設定します。 これは任意ですが、他いくつかの機能を利用可能にしてRiiConnect24とWiimmfiがより便利になるため、お勧めです。
+You will now set your DNS to our servers. This is optional but it's recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
 
 1. `Wiiオプション`に移動します。
 2. `Wii本体設定`に移動します。
@@ -101,28 +104,28 @@ WiiのDNSにRiiConnect24のサーバを使うように設定します。 これ�
 15. `スロットイルミネーション`では`暗い`か`明るい`がおすすめですが、これは好みです。
 16. 最後に、`インターネット`セクションに移動し、`利用規約`を、次いで`はい`を選択します。 通して読んでください。
 
-RiiConnect24をインストールした後、お天気チャンネルでエラーFORE000006が発生することがよくあります。 その場合は、Wiiの日付と時刻が正しく設定されているか確認してください。1時間以内に正常に動くかもしれません。 それでもエラーFORE000006、またはNEWS000006が表示される場合は、[RiiConnect24 Clear Toolを使用してSYSCONFを削除する必要があります](deleting-vffs)。
+It's common to get error FORE000006 on the Forecast Channel after installing RiiConnect24. If you get it, make sure your Wii's to the correct date and time, then wait no more than an hour and it may start working. [If you still get error FORE000006 or if you get NEWS000006, you will need to delete your SYSCONF with RC24-Clear-Tool].
 {: .notice--warning}
 
-みんなのニンテンドーチャンネル起動時には、エラー268503が表示されます。 これは通常の動作です。 OKを押してエラーを無視して大丈夫です。
+You will get error 268503 when loading the Nintendo Channel. This is normal. You can bypass the error by pressing OK.
 {: .notice--warning}
 
-エラー107245が発生した場合は、パッチを当てたIOSがインストールされていません。 Wii Mod Liteを使って、他のパッチを当てたWADと一緒にパッチを当てたIOS31、IOS80をインストールしてください。
+If you get error 107245, then you have not installed the patched IOS. Make sure you install IOS31 and IOS80 with Wii Mod Lite, along with any other patched WADs.
 {: .notice--warning}
 
-エラー107304が発生した、またはRiiConnect24のロゴなしの任天堂利用規約が表示された場合は、お使いのISP（インターネットサービスプロバイダ）やネットワークがDNSの使用をブロックしているということです。 `DNS自動取得`を`する`に設定することで解決します。 RiiConnect24は自動取得DNSでも動作します。 あるいは、RiiConnect24の[DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest)プログラムを使用することもできます。
+If you get error 107304 or you see Nintendo's User Agreement without RiiConnect24's logo, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
 {: .notice--warning}
 
-お天気チャンネル・ニュースチャンネルで、FOREやNEWSで始まるエラーコードや、サービス終了のメッセージなど、上記と別のエラーが発生している場合は、[RiiConnect24 Clear Toolを使ってVFFを削除してみてください](deleting-vffs)。
+[If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with RC24-Clear-Tool](deleting-vffs).
 {: .notice--warning}
 
-`WiiConnect24とWiiショッピングチャンネルはお住まいの国では提供されていません`という旨のエラーが出た場合は、Wii本体設定 -> 最後のページ -> 国設定 を開き、イギリスを選択してください。 RiiConnect24がサポートしない国を利用すると発生するエラーです。 さらにヘルプが必要な場合は、[support@riiconnect24.net](mailto:support@riiconnect24.net)まで連絡ください。
+If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
 {: .notice--warning}
 
 [Wiimmfiに進む](wiimmfi)<br> WiimmfiではニンテンドーWi-Fiコネクションの廃止後の今でもオンラインゲームをプレイできるようになります。 インストールは任意です。
 {: .notice--info}
 
-[WiiLinkに進む](wiilink)<br> WiiLinkでは、廃止された日本専用チャンネル（Wiiの間やデジカメプリントチャンネルなど）を使えるようになります。 インストールは任意です。
+[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. インストールは任意です。
 {: .notice--info}
 
 [サイトマップへ進む](site-navigation)<br> 他にも気に入るチュートリアルがきっとあります。
