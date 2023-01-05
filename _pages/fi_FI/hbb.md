@@ -8,7 +8,10 @@ Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [Open S
 Homebrew Browser, johon Open Shop Channel perustuu, tekee mitä pitääkin, mutta se voi olla buginen. You can also get homebrew using [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) ja [Open Shop Channel:in nettisivuilta](https://oscwii.org/).
 {: .notice--info}
 
-[Open Shop Channel](https://oscwii.org/) on homebrew sovellus, josta voit hankkia homebrew-sovelluksia. Se on revival Homebrew Browser -nimiselle homebrew sovellukselle.
+You need an Internet connection in order to use this application.
+{: .notice--warning}
+
+The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
 
 #### Mitä tarvitset
 * SD-kortti tai USB-asema
