@@ -26,7 +26,7 @@ Windowsコンピュータをお持ちでなければ、[RiiConnect24 Discordサ�
 以下を実行するには、先にWiiを改造しておく必要があります。 改造されてなければ、以下より先に[このガイド](get-started)からはじめるのがベストです。
 {: .notice--info}
 
-ブリックを防ぐためにまず[Priiloaderをインストールしておいてください](priiloader)。 加えて、[BootMii](bootmii)も（初期「神機」WiiならBoot2に、そうでなければIOSに）インストールします。 ブリック対策を導入し、ガイドに正しく従うことで、Wiiをブリックから安全に保護できます。 PriiloaderとBootMiiをインストールせずにこの後の操作を続けてはいけません！
+ブリックを防ぐためにまず[Priiloaderをインストールしておいてください](priiloader)。 加えて、[BootMii](bootmii)も（初期WiiならBoot2に、そうでなければIOSに）インストールします。 ブリック対策を導入し、ガイドに正しく従うことで、Wiiをブリックから安全に保護できます。 PriiloaderとBootMiiをインストールせずにこの後の操作を続けてはいけません！
 {: .notice--danger}
 
 1. NUS DownloaderのZIPファイルを展開し、アプリケーションを実行します。
