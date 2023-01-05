@@ -23,6 +23,9 @@ This guide is for vWii (Wii Mode on Wii U) only.
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
+It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
+{: .notice--warning}
+
 DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
@@ -53,7 +56,7 @@ After following the above linked guide, you should have:
 
 ##### Osa I - Muokkaimen ajaminen
 
-Jos et voi käynnistää RiiConnect24 Patcheria liity [RiiConnect24:n Discord-palvelimelle](https://discord.gg/rc24) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net) lisä-avulle.
+If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
 {: .notice--info}
 
 1. Klikkaa yllä olevaa linkkiä mennäksesi GitHub sivulle, jossa patcher on.
