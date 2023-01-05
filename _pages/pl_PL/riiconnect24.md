@@ -20,7 +20,10 @@ Ten poradnik jest przeznaczony tylko dla zwykłego Wii.
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-NIE INSTALUJ RIICONNECT24 NA WII MINI! To nie zadziała i zbrickuje system.
+It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
+{: .notice--warning}
+
+DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
 #### Będziesz potrzebował:
@@ -34,7 +37,7 @@ NIE INSTALUJ RIICONNECT24 NA WII MINI! To nie zadziała i zbrickuje system.
 
 ##### Sekcja I - Używanie Patcher'a RiiConnect24
 
-Jeśli nie możesz uruchomić Patchera RiiConnect24, dołącz [do serwera RiiConnect24 na Discordzie](https://discord.gg/rc24) (zalecane) albo [skontaktuj się do support@riiconnect24.net](mailto:support@riiconnect24.net) dla pomocy.
+If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
 {: .notice--info}
 
 1. Kliknij na link powyżej, aby przejść do strony GitHub gdzie znajduje się patcher.
@@ -55,7 +58,7 @@ Jeśli nie możesz uruchomić Patchera RiiConnect24, dołącz [do serwera RiiCon
 
 ##### Sekcja II - Instalacja WAD'ów
 
-Teraz będziesz instalował zpatchowanego IOS'a i kanały WAD które są potrzebne do korzystania z RiiConnect24.
+You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
 1. Używając Twojego kontrolera, przejdź do `WAD Manager` oraz wejdź do folderu `wad`.
 2. Otwórz Homebrew Channel na Twoim Wii.
@@ -67,18 +70,18 @@ Teraz będziesz instalował zpatchowanego IOS'a i kanały WAD które są potrzeb
 
 ##### Sekcja II - Patchowanie nwc24msg.cfg
 
-Teraz zpatchujesz swój plik `nwc24msg.cfg` który jest potrzebny to używania Wii Mail.
+You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
 
 1. Korzystając z Homebrew Channel, uruchom RiiConnect24 Mail Patcher.
 2. Patchowanie nwc24msg.cfg powinno potrwać tylko kilka sekund. Po ukończeniu, naciśnij przycisk HOME aby wyjść.
 
-Jeśli nie mogłeś poprawnie zpatchować nwc24msg.cfg, dołącz do [serwera Discord RiiConnect24](https://discord.gg/rc24) (rekomendowane) lub [napisz e-maila do support@riiconnect24.net](mailto:support@riiconnect24.net) dla pomocy.
+If you were unable to patch your nwc24msg.cfg correctly, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
 {: .notice--info}
 
 ##### Sekcja IV - Łączenie
 
 {% capture notice-1 %}
-Starting June 16th, 2022 the RiiConnect24 DNS changes. Read more: [here.](riiconnect24-dns-update)
+Starting June 16th, 2022 the RiiConnect24 DNS changes. [Read more here](riiconnect24-dns-update).
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
