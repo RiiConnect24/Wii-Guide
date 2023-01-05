@@ -20,6 +20,9 @@ This guide is for regular Wiis only.
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
+It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
+{: .notice--warning}
+
 DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
@@ -77,7 +80,7 @@ If you were unable to patch your nwc24msg.cfg correctly, please join [the RiiCon
 ##### Sectie IV - Verbinden
 
 {% capture notice-1 %}
-Starting June 16th, 2022 the RiiConnect24 DNS changes. Read more: [here.](riiconnect24-dns-update)
+Starting June 16th, 2022 the RiiConnect24 DNS changes. [Read more here](riiconnect24-dns-update).
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
@@ -104,7 +107,7 @@ You will now set your DNS to our servers. This is optional but it's recommended,
 It's common to get error FORE000006 on the Forecast Channel after installing RiiConnect24. If you get it, make sure your Wii's to the correct date and time, then wait no more than an hour and it may start working. [If you still get error FORE000006 or if you get NEWS000006, you will need to delete your SYSCONF with RC24-Clear-Tool].
 {: .notice--warning}
 
-You will get error 268503 when loading the Nintendo Channel. Dit is normaal. You can bypass the error by pressing OK.
+You will get error 268503 when loading the Nintendo Channel. This is normal. You can bypass the error by pressing OK.
 {: .notice--warning}
 
 If you get error 107245, then you have not installed the patched IOS. Make sure you install IOS31 and IOS80 with Wii Mod Lite, along with any other patched WADs.
