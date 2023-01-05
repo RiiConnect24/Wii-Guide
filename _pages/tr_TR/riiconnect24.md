@@ -20,6 +20,9 @@ This guide is for regular Wiis only.
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
+It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
+{: .notice--warning}
+
 DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
@@ -34,7 +37,7 @@ DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick th
 
 ##### Bölüm I - RiiConnect24 Yamalayıcısı’nı kullanmak
 
-Eğer RiiConnect24 Yamalayıcısı’nı çalıştıramadıysanız lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
+If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
 {: .notice--info}
 
 1. Yukarıdaki linke tıklayarak yamalayıcının bulunduğu GitHub sayfasına ulaşın.
@@ -54,7 +57,7 @@ Eğer RiiConnect24 Yamalayıcısı’nı çalıştıramadıysanız lütfen [RiiC
 
 ##### Bölüm II - WAD dosyalarını yükleme
 
-Şimdi, RiiConnect24’ü kullanabilmek için ihtiyacınız olan IOS ve kanal WAD’larını yükleyeceksiniz.
+You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
 1. SD Kartınızı veya USB sürücünüzü Wii’ye takın.
 2. Wii’nizde bulunan Homebrew Channel’ı başlatın.
@@ -66,18 +69,18 @@ Eğer RiiConnect24 Yamalayıcısı’nı çalıştıramadıysanız lütfen [RiiC
 
 ##### Bölüm III - nwc24msg.cfg dosyasını yamalama
 
-Wii Mail’i kullanabilmeniz için gerektiğinden `nwc24msg.cfg` dosyasını yamalayın.
+You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
 
 1. RiiConnect24 Posta Yamalayıcısı’nı başlatın.
 2. nwc24msg.cfg dosyasını yamalamak sadece birkaç saniye sürecektir. İşlem tamamlandığında HOME tuşuna basarak çıkın.
 
-Eğer nwc24msg.cfg dosyasını doğru yamalayamadıysanız lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
+If you were unable to patch your nwc24msg.cfg correctly, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
 {: .notice--info}
 
 ##### Bölüm IV - Bağlanma
 
 {% capture notice-1 %}
-Starting June 16th, 2022 the RiiConnect24 DNS changes. Read more: [here.](riiconnect24-dns-update)
+Starting June 16th, 2022 the RiiConnect24 DNS changes. [Read more here](riiconnect24-dns-update).
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
