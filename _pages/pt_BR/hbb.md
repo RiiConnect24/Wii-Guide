@@ -8,7 +8,10 @@ Caso precise de ajuda com este tutorial, por favor entre [no servidor do RiiConn
 O Homebrew Browser, no qual o Open Shop Channel é baseado, funciona mas pode ocorrer problemas. Você também pode obter homebrew usando [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) e no site [Open Shop Channel](https://oscwii.org/).
 {: .notice--info}
 
-O [Open Shop Channel](https://oscwii.org/) é onde você pode obter outros aplicativos de homebrew. É um projeto que revive uma aplicação chamada Homebrew Browser.
+You need an Internet connection in order to use this application.
+{: .notice--warning}
+
+The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
 
 #### Você precisará de
 * Um cartão SD ou pendrive
@@ -21,7 +24,7 @@ O [Open Shop Channel](https://oscwii.org/) é onde você pode obter outros aplic
 
 #### Aplicativos Recomendados
 
-Aqui estão alguns aplicativos recomendados que você pode baixar no Open Shop Channel:
+Here are some recommended apps that you can get on the Open Shop Channel:
 
 - [CleanRip](https://oscwii.org/library/app/CleanRip) - Esta é uma ferramenta para criar um .iso de jogos do Wii e do GameCube. Veja [nossa página](dump-games) para mais detalhes.
 - [GCMM](https://oscwii.org/library/app/gcmm) - Este app é um gerenciador de cartão de memória do GameCube para seu Wii.
@@ -40,8 +43,8 @@ Aqui estão alguns aplicativos recomendados que você pode baixar no Open Shop C
 [Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
 {: .notice--info}
 
-Incluído no download do Homebrew Browser, há um guia sobre como usar o Homebrew Browser.
+Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
 {: .notice--info}
 
-Você pode trocar o ShopChannel.ogg por loop.ogg em `/apps/homebrew_browser/` para que o Homebrew Browser toque a música do Wii Shop Channel.
+You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
 {: .notice--info}
