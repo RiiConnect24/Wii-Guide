@@ -23,6 +23,9 @@ This guide is for vWii (Wii Mode on Wii U) only.
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
+It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
+{: .notice--warning}
+
 DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
@@ -53,7 +56,7 @@ After following the above linked guide, you should have:
 
 ##### Část I - Spuštění patcheru
 
-Pokud se vám nedaří spustit RiiConnect24 Patcher, přidejte se prosím na [RiiConnect24 Discord server](https://discord.gg/rc24) (doporučeno) nebo [nám napište email](mailto:support@riiconnect24.net) pro další pomoc.
+If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
 {: .notice--info}
 
 1. Klikněte na link výše, abyste se dostali na GitHub s patcherem.
@@ -73,7 +76,7 @@ Pokud se vám nedaří spustit RiiConnect24 Patcher, přidejte se prosím na [Ri
 
 ##### Část II – Instalace souborů WAD
 
-Nyní nainstalujete upravený IOS a WAD kanály, které jsou potřebné pro použití RiiConnect24.
+You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
 1. Put your SD card or USB drive in your Wii U.
 2. Launch the Homebrew Channel on your Wii U.
