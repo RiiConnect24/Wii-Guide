@@ -20,7 +20,10 @@ Acest ghid este numai pentru consolele Wii clasice.
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-NU INSTALA RIICONNECT24 PE UN WII MINI! Nu va funcționa și îți va brick-ui consola.
+It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
+{: .notice--warning}
+
+DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
 #### De ce ai nevoie
@@ -34,7 +37,7 @@ NU INSTALA RIICONNECT24 PE UN WII MINI! Nu va funcționa și îți va brick-ui c
 
 ##### Secțiunea I - Folosirea RiiConnect24 Patcher
 
-Dacă nu poți rula RiiConnect24 Patcher, te rugăm să te alături [serverului de Discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un e-mail la support@riiconnect24.net](mailto:support@riiconnect24.net) pentru ajutor suplimentar.
+If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
 {: .notice--info}
 
 1. Apasă pe link-ul de mai sus pentru a merge la pagina GitHub unde se afla patcher-ul.
@@ -54,7 +57,7 @@ Dacă nu poți rula RiiConnect24 Patcher, te rugăm să te alături [serverului 
 
 ##### Secțiunea II - Instalarea WAD-urilor
 
-Acum vei instala IOS-urile modificate și WAD-urile de Canale care sunt necesare pentru a utiliza RiiConnect24.
+You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
 1. Introdu cardul tău SD sau unitatea ta USB în Wii.
 2. Pornește Homebrew Channel pe Wii.
@@ -66,23 +69,23 @@ Acum vei instala IOS-urile modificate și WAD-urile de Canale care sunt necesare
 
 ##### Secțiunea III – Modificarea nwc24msg.cfg
 
-Acum vei modifica fișierul `nwc24msg.cfg` care este necesar pentru a folosi Wii Mail.
+You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
 
 1. Lansează RiiConnect24 Mail Patcher.
 2. Ar trebui să dureze numai câteva secunde ca să-ți modifice fișierul nwc24msg.cfg. Când este gata, apasă Butonul HOME pentru a ieși.
 
-Dacă nu ai putut să îți modifici fișierul nwc24msg.cfg corect, te rugăm să te alături [serverului de Discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un e-mail la support@riiconnect24.net](mailto:support@riiconnect24.net) pentru ajutor suplimentar.
+If you were unable to patch your nwc24msg.cfg correctly, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
 {: .notice--info}
 
 ##### Secțiunea IV - Conectarea
 
 {% capture notice-1 %}
-Începând cu 16 Iunie 2022, DNS-ul RiiConnect24 se va schimba. Citește mai mult: [aici.](riiconnect24-dns-update)
+Starting June 16th, 2022 the RiiConnect24 DNS changes. [Read more here](riiconnect24-dns-update).
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-Acum îți vei seta DNS-ul la serverele noastre. Acest lucru este opțional dar recomandat, pentru că îți îmbunătățește folosirea RiiConnect24 și Wiimmfi prin activarea unor funcții.
+You will now set your DNS to our servers. This is optional but it's recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
 
 1. Mergi la `Wii Options`.
 2. Du-te la `Wii Settings`.
