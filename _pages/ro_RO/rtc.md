@@ -12,16 +12,16 @@ In this step, you will synchronize your Wii with a NTP time server. This will se
 
 #### De ce ai nevoie
 * Un card SD sau o unitate USB
-* [wii-ntp](https://hbb1.oscwii.org/hbb/ntp/ntp.zip)
+* [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
 
 #### Instrucțiuni
 
-1. Extract wii-ntp and put it in the `apps` folder on your SD card or USB drive.
+1. Extract sntp and put it in the `apps` folder on your SD card or USB drive.
 2. Introdu cardul tău SD sau unitatea ta USB în Wii.
 3. Pornește Homebrew Channel pe Wii.
-4. Launch wii-ntp.
-5. Use the +Control Pad to select your timezone. Pressing Left will iterate through negative offsets, and pressing Right will iterate through positive offsets. If you don't know your timezone, you can refer to [this site](https://greenwichmeantime.com/time-zone/). Enter your location, then select the time offset the website shows under GMT. For example, if you're in New York, you would set your time zone to be UTC-6.
-6. Save the settings by pressing the A Button.
+4. Launch sntp.
+5. Use the +Control Pad to select the current time.
+6. Press the HOME Button to exit.
 
 [Continuă la RiiConnect24](riiconnect24)<br> Riiconnect24 îți permite să folosești servicii întrerupte de la WiiConnect24, care includ News, Forecast, Everybody Votes, Nintendo și Mii Contest Channel, împreună cu Wii Mail. Acesta este opțional de instalat.
 {: .notice--info}
