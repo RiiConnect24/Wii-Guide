@@ -8,7 +8,7 @@ Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [The
 Der Homebrew Browser, welcher auf dem Open Shop Channel basiert, funktioniert so weit, es können jedoch Bugs auftreten. Du kannst Homebrew ebenfalls bei [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) beziehen, oder auf der [Open Shop Channel-Webseite](https://oscwii.org/) erhalten.
 {: .notice--info}
 
-You need an Internet connection in order to use this application.
+Du benötigst eine Internetverbindung, um diese Anwendung nutzen zu können.
 {: .notice--warning}
 
 The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
