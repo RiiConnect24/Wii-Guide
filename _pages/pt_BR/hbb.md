@@ -8,10 +8,10 @@ Caso precise de ajuda com este tutorial, por favor entre [no servidor do RiiConn
 O Homebrew Browser, no qual o Open Shop Channel é baseado, funciona mas pode ocorrer problemas. Você também pode obter homebrew usando [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) e no site [Open Shop Channel](https://oscwii.org/).
 {: .notice--info}
 
-You need an Internet connection in order to use this application.
+Você precisa de uma conexão com a Internet para usar este aplicativo.
 {: .notice--warning}
 
-The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
+O [Open Shop Channel](https://oscwii.org/) é onde você pode obter aplicativos de homebrew. It is a revival project for an app called Homebrew Browser.
 
 #### Você precisará de
 * Um cartão SD ou pendrive
@@ -24,7 +24,7 @@ The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew
 
 #### Aplicativos Recomendados
 
-Here are some recommended apps that you can get on the Open Shop Channel:
+Aqui estão alguns aplicativos recomendados que você pode baixar no Open Shop Channel:
 
 - [CleanRip](https://oscwii.org/library/app/CleanRip) - Esta é uma ferramenta para criar um .iso de jogos do Wii e do GameCube. Veja [nossa página](dump-games) para mais detalhes.
 - [GCMM](https://oscwii.org/library/app/gcmm) - Este app é um gerenciador de cartão de memória do GameCube para seu Wii.
