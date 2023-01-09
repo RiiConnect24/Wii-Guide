@@ -21,7 +21,7 @@ Máte-li v úmyslu instalovat Homebrew Channel a BootMii na původním Wii, nedo
 - Počítač bežící na Linuxu
   - Použití Virtual Machine může fungovat také, ale příliš se nedoporučuje, protože mohou nastat problémy s komunikací Bluetooth. Pokud je to možné, použijte prosím LiveUSB, jak je popsáno níže.
   - Pokud máte Rasberry Pi, tak i to lze použít, protože na něm už jistě Linux máte.
-  - Windows Subsystem for Linux *nebude* fungovat, protože nemá přímý přístup k Bluetooth adaptéru nebo USB portům.
+  - Windows Subsystem for Linux or a Chromebook running Linux mode will *not work* as they don't have direct access to the Bluetooth adapter or USB ports.
   - Pokud nemáte Linux, [Ubuntu](https://ubuntu.com/download/desktop) je uživatelsky nejpřívětivější možnost a může být spuštěno na počítačích s Windows nebo Mac.
     - 32bitová zařízení budou vyžadovat [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
     - Pro 64bitová zařízení je doporučeno použít vydání LTS kvůli jeho stabilitě, ale funguje i nejnovější vydání.
