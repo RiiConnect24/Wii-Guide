@@ -21,7 +21,7 @@ BlueBomb - это эксплойт, который используюет уяз
 - Linux машина
   - Виртуальная машина может сработать, но не рекомендуется из за сложностями с Bluetooth. Если возможно, используте LiveUSB, как описано ниже.
   - Если у вас есть Raspberry Pi, вы так же можете использовать его, так как на нем, скорее всего, уже установлен Linux.
-  - Windows Subsystem for Linux *не будет* работать, так как не будет иметь прямой доступ к Bluetooth или USB.
+  - Windows Subsystem for Linux or a Chromebook running Linux mode will *not work* as they don't have direct access to the Bluetooth adapter or USB ports.
   - Если у вас нет Linux, [Ubuntu](https://ubuntu.com/download/desktop) самый дружелюбный к пользователю дистрибутив, который может запускаться на компьютерах Windows или Mac.
     - Для 32 битных систем необходим [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
     - Для 64 систем рекомендуется использовать LTS ревизию, потому что она самая стабильная, но и обычные релизы не плохи.
