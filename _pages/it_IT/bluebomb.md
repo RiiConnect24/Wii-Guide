@@ -21,7 +21,7 @@ Per il Wii originale, non è raccomandato usare BlueBomb se volete installare l'
 - Un computer con Linux
   - Una macchina virtuale potrebbe funzionare, ma è non è consigliata a causa della sua difficoltà nel far funzionare il Bluetooth passthrough. Se possibile, utilizzare una LiveUSB come descritto sotto.
   - Se hai una Raspberry Pi, puoi usare quella, poiché quasi sicuramente ha Linux già installato.
-  - Il Windows Subsystem per Linux *non funzionerà* perché non ha accesso diretto all'adattatore Bluetooth o alle porte USB.
+  - Windows Subsystem for Linux or a Chromebook running Linux mode will *not work* as they don't have direct access to the Bluetooth adapter or USB ports.
   - Se non hai Linux, [ Ubuntu](https://ubuntu.com/download/desktop) è l'alternativa più semplice e può essere eseguito su computer con Windows o Mac.
     - Dispositivi a 32-bit richiedono [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
     - Per dispositivi a 64-bit è consigliato utilizzare la versione LTS per via della sua stabilità, ma la versione più recente funziona in ogni caso.
