@@ -15,7 +15,7 @@ title: "Wii破解的注意事项"
 - **请务必**定期 [用BootMii备份NAND](bootmii),，尤其在做有风险的事之前。
 - 如果你愿意，**安装**Wii菜单主题，但请仔细阅读我们的教程。 ([Wii](themes) / [vWii](themes-vwii)). ([Wii](themes) / [vWii](themes-vwii)). 其他教程可能会产生误导，并导致Wii变砖。
 - **请不要**安装带随机IOS的WAD、旧版本的Wii菜单等。尤其是vWii和Wii Mini，除非你知道自己在干什么。
-- **请不要**使用旧版本的Wii自制软件。 如果您从互联网上关注Wii破解教程，请谨慎使用旧教程(可能是2012年之前)，特别是当它们与IOS等内容有关。
+- **DO NOT** use old versions of Wii homebrew. 如果您从互联网上关注Wii破解教程，请谨慎使用旧教程(可能是2012年之前)，特别是当它们与IOS等内容有关。
 - **请不要**修改、重命名或删除Wii NAND上的随机文件，除非你知道自己在干什么。
 - **请不要**在非韩版Wii上使用自制软件"KoreanKii"。
 - **请不要**在Wii mini上安装除 [d2xl cIOS](cios-mini)以外的cIOS或Wii菜单。 如果未将Wi-Fi焊接到主机上，这样做会使主机变砖。

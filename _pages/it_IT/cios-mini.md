@@ -8,27 +8,27 @@ Questo tutorial ti dirà come installare il d2xl Wii mini cIOS di Leseratte. E' 
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-Questa guida è fatta solo per coloro che hanno una Wii mini. Se hai una Wii normale, segui [questa guida](cios).
+Questa guida è fatta solo per coloro che hanno un Wii Mini. Se hai un Wii normale, segui [questa guida](cios).
 {: .notice--warning}
 
 Se hai bisogno di aiuto riguardo questo tutorial, unisciti a [the Wii Mini Hacking Discord server](https://discord.gg/6ryxnkS) (raccomandato)
 {: .notice--info}
 
-Questo d2x cIOS Installer è stato originariamente creato per la Wii virtuale della Wii U da DaveBaol ed il cIOS è stato create da Leseratte per la Wii mini. La pagina di Download originale può essere trovata [qui](https://wii.leseratte10.de/d2xl-cIOS/). La pagina Github di Leseratte può essere trovata [qui](https://github.com/Leseratte10/d2xl-cios). Nota: questo cIOS è ancora in fase sperimentale, ma nessun problema di funzionalità è stato riportato.
+Questo d2x cIOS Installer è stato originariamente creato per il vWii del Wii U da DaveBaol ed il cIOS è stato create da Leseratte per il Wii Mini. La pagina di Download originale può essere trovata [qui](https://wii.leseratte10.de/d2xl-cIOS/). La pagina Github di Leseratte può essere trovata [qui](https://github.com/Leseratte10/d2xl-cios). Nota: questo cIOS è ancora in fase sperimentale, ma nessun problema di funzionalità è stato riportato.
 {: .notice--info}
 
 #### Di cosa hai bisogno
 
-* Una Wii mini con l'Homebrew Channel installato
-* Un dispositivo USB
-* [d2xl cIOS Installer](/assets/files/d2xl_wii_mini_cIOS_installer_v1_beta2.zip), di Leseratte
+* Un Wii Mini con il Canale Homebrew installato
+* Un'unità USB
+* [d2xl cIOS Installer](/assets/files/d2xl_wii_mini_cIOS_installer_v1_beta2.zip) di Leseratte
 
 #### Istruzioni
 
 ##### Sezione 1 - Scaricare
 
 1. Estrai il d2xl cIOS Installer nella cartella `apps` del tuo dispositivo USB.
-1. Inserisci il tuo dispositivo USB nel tuo Wii mini a lancia il d2xl cIOS Installer dall'Hombrew Channel.
+1. Inserisci l'unità USB nel Wii Mini a lancia il d2xl cIOS Installer dal Canale Hombrew.
 
 ##### Sezione 2 - Installare
 
@@ -44,16 +44,16 @@ Prendi nota della versione sotto le note (`IOS57-64-` può finire sia in `v31776
 
 
 ##### Abilitare l'Ethernet
-Se desideri usare Wiimmfi con cavo Ethernet sulla Wii mini, devi caricare l'app [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip) fatta da Fullmetal5. Per caricarla, estraila nella cartella `apps` della tua chiavetta USB e caricala dall'Homebrew Channel.
+Se desideri usare Wiimmfi con cavo Ethernet sul Wii Mini, devi caricare l'app [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip) fatta da Fullmetal5. Per caricarla, estraila nella cartella `apps` dell'unità USB e caricala dal Canale Homebrew.
 
-The Wii and Wii mini consoles are only known to work with Ethernet adapters using the AX88772 chip. Please check that the product is compatible before you buy. This one from UGREEN is known to be compatible: [Amazon Europe](https://www.amazon.de/dp/B00MYT481C), [Amazon US](https://www.amazon.com/dp/B08DRKYKMM/)
+Le console Wii e Wii Mini sono note funzionare solo con Adattatori Ethernet utilizzando il chip AX88772. Si prega di controllare se il prodotto è compatibile prima di comparlo. Questo della UGREEN è noto essere compatibile: [Amazon Europa](https://www.amazon.de/dp/B00MYT481C), [Amazon Stati Uniti](https://www.amazon.com/dp/B08DRKYKMM/)
 {: .notice--info}
 
-Do not attempt to install a Wii IOS or System Menu on the Wii mini. Doing so will likely brick your console.
+Non provare ad installare un IOS per il Wii o un Menu di sistema sul Wii Mini. Facendo ciò, brickerebbe la tua console.
 {: .notice--warning}
 
-Ora puoi usare app homebrew come [USB Loader GX](usbloadergx) e [WiiFlow](wiiflow).
+Adesso puoi usare software homebrew come [USB Loader GX](usbloadergx) e [WiiFlow](wiiflow).
 {: .notice--info}
 
-[Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
+[Continua a navigare nel sito](site-navigation)<br> Abbiamo molte altre guide che potrebbero interessarti.
 {: .notice--info}

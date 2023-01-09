@@ -20,13 +20,13 @@ Esta es una guía de inicio rápido sobre cómo usar USB Loader GX, un popular c
 ¡Asegúrate de haber instalado [cIOS](/cios) antes de continuar!
 {: .notice--info}
 
-We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux.
+Te recomendamos que copies los juegos con [Wii Backup Manager](/wiibackupmanager) si utiliza Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) si usas macOS, o [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) para Windows, macOS, y Linux.
 {: .notice--info}
 
-If you want to play games that are in NKit format, use [this program](https://gbatemp.net/download/nkit.36157/) to convert them to ISO first. You can also use a development build of Dolphin, right click on a game, and use "Convert File" to convert it.
+Si quieres jugar a juegos que están en formato NKit, utiliza [este programa](https://gbatemp.net/download/nkit.36157/) para convertirlos en ISO primero. También puede utilizar una versión de desarrollo de Dolphin, haz clic con el botón derecho del ratón en un juego, y utilice "Convertir archivo" para convertirlo.
 {: .notice--info}
 
-If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fusion, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
+Si no vas a copiar los juegos con Wii Backup Manager, Witgui o Wii Backup Fusion, crea una carpeta en la raíz de la unidad USB o tarjeta SD llamada "wbfs" y pon los juegos ahí.
 {: .notice--info}
 
 Para jugar a juegos, te recomendamos usar un disco duro externo para tu Wii. Las unidades Flash también funcionan, pero se recomienda el uso de Discos duros externos, debido a que son mucho mas seguros, y pueden almacenar una mayor cantidad de juegos.
@@ -86,6 +86,9 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 ##### Opciones una vez terminado
 
 [WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki is a great resource with information about WiiFlow.
+{: .notice--info}
+
+[Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that WiiFlow Lite can integrate with. This is optional to set up.
 {: .notice--info}
 
 [Echa un vistazo a nuestras otras guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.

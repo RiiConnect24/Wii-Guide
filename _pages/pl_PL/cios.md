@@ -16,83 +16,112 @@ Jeżeli korzystasz z Wii Mini, zamiast tego zainstaluj [ten cIOS](cios-mini). Pr
 
 #### Będziesz potrzebował:
 
-* Konsola Wii z połączeniem Internetowym
-* Karta SD lub urządzenie USB.
-* [Instalator d2x cIOS](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
+- Konsola Wii
+- Karta SD lub urządzenie USB.
+- [Instalator d2x cIOS](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
 Upewnij się, że przełącznik blokady zapisu na Twojej karcie SD jest odblokowany, inaczej nie będziesz mógł wybrać poprawnych opcji z instalatorze.
 {: .notice--warning}
 
 #### Instrukcje
 
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'with-connection')">With an Internet connection to the Wii</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'without-connection')">Without an Internet connection to the Wii</button>
+
+<div id="with-connection" class="blanktabcontent" markdown="1">
+
 ##### Sekcja I - Pobieranie
 
-1. Pobierz "d2x cIOS Installer" i wypakuj go do karty pamięci lub dysku USB.
-1. Podłącz Twoją kartę SD lub urządzenie USB do Twojego Wii oraz uruchom instalator d2x cIOS korzystając z Homebrew Channel.
+1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
+1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
+</div>
+<div id="without-connection" class="blanktabcontent" markdown="1">
+
+##### Sekcja I - Pobieranie
+
+1. Download, extract, and run [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
+1. Select "Database", "IOS", then "IOS57", and select "v5918".
+   - Ensure that "Pack WAD" is checked and "Patch IOS" is unchecked.
+1. Repeat the previous step for IOS56 v5661 and IOS38 v4123.
+1. Once you have downloaded all three IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. Open the folder and navigate through them until you locate the three WAD files you downloaded. Place each of WAD files on the root of your SD card or USB drive.
+1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
+1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
+</div>
 
 ##### Sekcja II - Instalacja
 
 1. Naciśnij `Continue` i ustaw opcje na poniższe:
+
 ```
 Wybierz cIOS: v10 beta52 d2x-v10-beta52
 Wybierz cIOS base: 57
 Wybierz cIOS slot: 249
 Wybierz cIOS version: 65535
 ```
-![Zainstaluj cIOS 249](/images/cios/Install249.png)
+
+![Install cIOS 249](/images/cios/Install249.png)
+
 1. Kiedy ustawisz tak jak powyżej, naciśnij A podwójnie aby zainstalować.
 1. Kiedy instalacja przebiegnie pomyślnie, naciśnij A aby powrócić i ustaw poniższe opcje:
+
 ```
 Wybierz cIOS: v10 beta52 d2x-v10-beta52
 Wybierz cIOS base: 56
 Wybierz cIOS slot: 250
 Wybierz cIOS version: 65535
 ```
-![Zainstaluj cIOS 250](/images/cios/Install250.png)
+
+![Install cIOS 250](/images/cios/Install250.png)
+
 1. Kiedy ustawisz tak jak powyżej, naciśnij A podwójnie aby zainstalować.
 1. Kiedy instalacja przebiegnie pomyślnie, naciśnij A aby powrócić i ustaw poniższe opcje:
+
 ```
 Wybierz cIOS: v10 beta52 d2x-v10-beta52
 Wybierz cIOS base: 38
 Wybierz cIOS slot: 251
 Wybierz cIOS version: 65535
 ```
-![Zainstaluj cIOS 251](/images/cios/Install251.png)
-1. Po ustawieniu, naciśnij przycisk A jeszcze raz, aby zainstalować, a następnie wyjdź po zakończeniu.
+
+![Install cIOS 251](/images/cios/Install251.png)
+
+1. Once set, press A twice again to install, and then exit once done.
 
 #### Rozwiązywanie problemów
 
 {% capture bruh %}
-Chociaż większość gier powinna działać od razu z domyślnymi ustawieniami, niektóre mogą wymagać użycia określonego cIOS do działania lub wykorzystania niektórych funkcji w grze.<br> Przykłady to m.in:
-* Używanie klawiatury w Animal Crossing: City Folk.
-* Uruchamianie SpongeBob Boating Bash.
+Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
 
-Bardziej obszerna lista (choć nadal niekompletna) znajduje się [**tutaj**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> Aby zmienić cIOS używany w konkretnej grze, postępuj zgodnie z poniższymi instrukcjami:
+- Używanie klawiatury w Animal Crossing: City Folk.
+- Uruchamianie SpongeBob Boating Bash.
+
+A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
 {% endcapture %}
+
 <div class="notice--warning">{{ bruh | markdownify }}</div>
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'usbloadergx')">USB Loader GX</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
-1. Wybierz grę, która nie działa.
-1. Kliknij Ustawienia.
-1. Wybierz `Wczytywanie Gry`.
-1. #### InstrukcjePrzewiń w dół do `Game IOS`.
-1. ##### Sekcja I - PobieranieWpisz slot IOS.
-    - Spróbuj użyć 250 lub 251, jeśli 249 nie działa.
-1. ##### Sekcja II - InstalacjaWybierz OK i spróbuj załadować gre.
+1. Select the game that isn't working.
+1. Click Settings.
+1. Select `Game Load`.
+1. Scroll down to `Game IOS`.
+1. Enter the IOS slot to use.
+    - Try using 250 or 251, if 249 doesn't work.
+1. Press ok and try to load the game.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
-1. Wybierz grę, która nie działa.
-1. Kliknij ikonę zębatki.
-1. !!crwdP_32_Pdwrc!!Wejdź do cIOS i użyj strzałki aby wybrać IOS, z którego chcesz skorzystać.
-    - Spróbuj użyć 250 lub 251, jeśli 249 nie działa.
-1. !!crwdP_33_Pdwrc!!Naciśnij Save i spróbuj załadować gre.
+1. Select the game that isn't working.
+1. Click the gear icon.
+1. Go to cIOS and use the arrows to select the IOS slot to use.
+    - Try using 250 or 251, if 249 doesn't work.
+1. Press Save and try to load the game.
 </div>
 ##### Co można zrobić po ukończeniu?
 
-[Przejdź do instalacji Homebrew Browser](hbb)<br> Homebrew Browser jest miejscem, z którego możesz pobrać homebrew na Twoje Wii. Jest to opcjonalny krok.
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. Jest to opcjonalny krok.
 {: .notice--info}
 
 [Przejdź do spisu stron](site-navigation)<br> Mamy wiele innych poradników, które mogą Ci się przydać.

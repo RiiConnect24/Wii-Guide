@@ -16,7 +16,7 @@ title: "开始"
 尽管您可以在没有SD卡的情况下遵循本指南， 但是您将无法使用 BootMii创建或恢复NAND 备份，并且您将无法使用一些自制程序。
 {: .notice--info}
 
-如果您的Wii版本不是4.3，请使用str2hax或FlashHax破解Wii. 当您依照指南破解完成后， [更新指南](update)会将您的Wii更新到4.3。
+If your Wii Menu is not on version 4.3, use str2hax or FlashHax to install the Homebrew Channel, and then follow the [update guide](update) to update to 4.3.
 {: .notice--info}
 
 本指南仅适用于最新系统（4.3）的Wii 和 Wii mini (包括Wii Family Edition) 不要在Wii U (vWii)上搞这个！ 不要在 Wii U (vWii) 上使用! 如果你想要在Wii U上安装自制程序, [按照本指南](https://wiiu.hacks.guide)。

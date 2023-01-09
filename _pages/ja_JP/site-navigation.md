@@ -1,13 +1,13 @@
 ---
-title: "Site Navigation"
+title: "サイトマップ"
 layout: single
 sitemap: false
 ---
 
-![WiiTutorials](/images/WiiTutorials.jpg)
+![Wiiチュートリアル](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
-**Featured**
+**注目の記事**
 
 + [cIOS](cios)
 + [Kirby TV Channel](kirby-tv)
@@ -18,24 +18,24 @@ sitemap: false
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
 {% capture notice-2 %}
-**RiiConnect24/Wiimmfi**
+**RiiConnect24・Wiimmfi**
 + [RiiConnect24](riiconnect24)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
-+ [RiiConnect24 DNS Update](riiconnect24-dns-update)
++ [RiiConnect24 DNS更新](riiconnect24-dns-update)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 + [Kirby TV Channel](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
-+ [Deleting VFFs](deleting-vffs)
-+ [Fixing FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [VFFを削除する（RiiConnect24 Clear Tool）](deleting-vffs)
++ [エラーFORE000006を修正する](riiconnect24-batteryfix)
++ [エラーNEWS000006を修正する](news000006)
 
-**Modding 101**
+**改造のいろは**
 + [BlueBomb](bluebomb)
-* [BootMii Backup](bootmii)
+* [BootMiiバックアップ](bootmii)
 + [cIOS](cios)
-+ [Dos and Don'ts of Wii Modding](dosanddonts)
++ [Wii改造のマストとタブー](dosanddonts)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
 + [Homebrew Channel](hbc)
@@ -44,29 +44,29 @@ sitemap: false
 + [str2hax](str2hax)
 + [Wii Mod Lite](wiimodlite)
 
-**Homebrew**
-+ [Creating Wii Game Shortcuts](wiigsc)
-+ [How to dump Channels (WADs)](dump-wads)
-+ [How to dump GameCube/Wii Games](dump-games)
-+ [Installing RSSMii](rssmii)
-+ [Installing Wii Menu Themes](themes)
-+ [Installing Wii Menu Themes on vWii](themes-vwii)
-+ [Performing a SysCheck](syscheck)
-+ [Removing RSSMii](rssmii-remove)
+**自作**
++ [Wiiメニューにショートカットを作成する](wiigsc)
++ [チャンネルを吸い出す方法（WAD）](dump-wads)
++ [GameCube・Wiiゲームを吸い出す方法](dump-games)
++ [RSSMiiをインストールする](rssmii)
++ [Wiiメニューテーマをインストールする](themes)
++ [vWiiでWiiメニューテーマをインストールする](themes-vwii)
++ [SysCheckを実行する](syscheck)
++ [RSSMiiを削除する](rssmii-remove)
 + [RiiTag](riitag)
-+ [Updating Wii Menu to v4.3](update)
++ [Wii本体をVer 4.3に更新する](update)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 + [WiiFlow](wiiflow)
 
-**Wii mini**
-+ [Installing the Homebrew Channel on the Wii mini](hbc-mini)
-+ [Installing cIOS on the Wii mini](cios-mini)
+**Wii mini（日本国内未発売）**
++ [Wii miniにHomebrew Channelをインストールする](hbc-mini)
++ [Wii miniにcIOSをインストールする](cios-mini)
 
-**Site**
-+ [Home](/)
+**サイト**
++ [ホーム](/)
 + [始めよう](get-started)
-+ [FAQ](faq)
-+ [Donations](donations)
++ [よくある質問](faq)
++ [寄付](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>

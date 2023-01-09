@@ -2,7 +2,7 @@
 title: "FlashHax"
 ---
 
-Si necesitas ayuda con cualquier cosa en este tutorial, por favor entras [el servidor Discord de RiiConnect24](https://discord.gg/rc24) (recomendado) o [envias un correo electronico a support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si necesitas ayuda para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado) o [envíanos un correo electrónico a support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 FlashHax es un exploit para el Wii que se activa con el uso del Canal de Internet. A diferencia de otros exploits, éste no requiere una tarjeta SD.

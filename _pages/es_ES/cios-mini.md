@@ -49,7 +49,7 @@ Si deseas jugar en Wiimmfi con tu Wii Mini, tendrás que hacerlo a través de Et
 Las consolas Wii y Wii mini solo pueden utilizar los adaptadores Ethernet con el chip AX88772. Por favor, asegúrate de que el producto es compatible antes de comprarlo. Este producto de UGREEN es compatible: [Amazon Europe](https://www.amazon.de/dp/B00MYT481C), [Amazon US](https://www.amazon.com/dp/B08DRKYKMM/)
 {: .notice--info}
 
-No intentes instalar ningún IOS o System Menu nativo de Wii en una Wii mini. Hacerlo seguramente brickeará tu consola.
+No intentes instalar ningún IOS o System Menu nativo de Wii en una Wii mini. Hacerlo puede resultar en tu consola no funcionando.
 {: .notice--warning}
 
 Ahora puedes usar aplicaciones homebrew como [USB Loader GX](usbloadergx) y [WiiFlow](wiiflow).

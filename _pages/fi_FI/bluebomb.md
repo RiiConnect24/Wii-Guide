@@ -4,7 +4,7 @@ title: "BlueBomb"
 
 {% include toc title="Sisällysluettelo" %}
 
-It is **strongly** advised against using **any** video guide for hacking your Wii mini console, as there is an extremely large chance of **bricking** it.
+On **vahvasti** suositeltavaa olla käyttämättä **mitään** video-oppaita Wii mini -konsolisi hakkerointiin, sillä erittäin suurella todennäköisyydellä siitä tulee **tiiliskivi** (brick).
 {: .notice--warning}
 
 Jos tarvitset apua jonkin tähän oppaaseen liittyvän kanssa, liity [Wii mini Hacking Discord-palvelimelle](https://discord.gg/6ryxnkS) (suositeltavaa)
@@ -12,33 +12,33 @@ Jos tarvitset apua jonkin tähän oppaaseen liittyvän kanssa, liity [Wii mini H
 
 ![BlueBomb](/images/bluebomb.png)
 
-BlueBomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Although it is the only exploit that works for the Wii mini, BlueBomb can run on the original Wii as well. This exploit also enables recovery from certain bricks, such as a banner brick.
+BlueBomb on haavoittuvuutta hyödyntävä menetelmä (exploit), joka käyttää hyödykseen virhettä Wiin ja Wii minin Bluetooth-kirjastoissa. Vaikka se onkin ainut Wii minillä toimiva haavoittuvuuden hyödyntäjä, BlueBombia voidaan käyttää myös alkuperäisellä Wiillä. Tämä haavoittuvuuden hyödyntäjä myös mahdollistaa tiettyjen brickien, kuten "banner brickin", korjaamisen.
 
-For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
+Emme suosittele BlueBombia käytettävän alkuperäisellä Wiillä, jos tarkoituksenasi on asentaa Homebrew Channel ja BootMii, sillä on olemassa käytännöllisempiä exploiteja.
 {: .notice--info}
 
 #### Osa I - Mitä tarvitset
 - Linux-tietokone
-  - A Virtual Machine may work, but it is not recommended due to its complexity in getting Bluetooth passthrough working. If possible, please use a LiveUSB as described below.
-  - If you have a Raspberry Pi, you can use that instead as it most likely has Linux installed already.
-  - Windows Subsystem for Linux will *not work* as it does not have direct access to the Bluetooth adapter or USB ports.
-  - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
-    - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
-    - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
-  - You can [flash a Linux Live environment to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
+  - Virtuaalikone voi toimia, mutta se ei ole suositeltavaa, sillä siinä Bluetooth-läpiviennin toimimaan saaminen on monimutkaista. Jos mahdollista, käytä LiveUSB:tä alla kuvatulla tavalla.
+  - Jos sinulla on Raspberry Pi, voit myös käyttää sitä, sillä siinä todennäköisesti on Linux valmiiksi asennettuna.
+  - Windows Subsystem for Linux *ei kelpaa*, sillä se ei pääse suoraan käsiksi tietokoneen Bluetooth-adapteriin tai USB-portteihin.
+  - Jos sinulla ei ole Linuxia, [Ubuntu](https://ubuntu.com/download/desktop) on käyttäjäystävällisin vaihtoehto, ja sitä voidaan käyttää laitteilla, jotka käyttävät Windowsia tai Macia.
+    - 32-bittiset laitteet vaativat [Ubuntu 16.04](http://releases.ubuntu.com/16.04/):n.
+    - 64-bittisillä laitteilla on suositeltavaa käyttää LTS-versiota vakautensa vuoksi, mutta viimeisin julkaisu myös kelpaa.
+  - Voit [flashata Linux Live -ympäristön USB-muistitikulle](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) sen sijaan, että asentaisit sen tietokoneellesi.
 - Bluetooth-adapteri.
   - Sisäinen Bluetooth-adapteri kelpaa.
   - Jos sinulla ei ole, varmista, että hankit sellaisen, joka on yhteensopiva Linuxin kanssa.
-- USB-massamuistilaite FAT32-formaatissa.
+- USB-muistitikku, joka on formatoitu FAT32-formaattiin.
   - Tämä ei voi olla sama muistilaite, jota Linux-tietokoneesi käyttää.
 
 #### Osa II - Exploitin suorittaminen
-1. Lataa HackMii installer [BootMii:n nettisivulta](https://bootmii.org/download/).
+1. Lataa HackMii installer [BootMiin nettisivulta](https://bootmii.org/download/).
 - (Jos yrität korjata brickiä, sinun pitää myös kopioida se homebrew-sovellus, jota haluat käyttää kansioon /apps/)
 1. Pura se ja laita tiedosto `boot.elf` muistitikullesi.
-- (Even for a Wii mini, bootmini.elf will **not** work, its purpose is entirely different and unrelated. Use boot.elf in all cases). 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright). 1. Turn on your console and navigate to the settings menu. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+- (Jopa Wii minille, bootmini.elf **ei** toimi, sen tarkoitus on ihan erilainen ja ei asiaan liittyvä. Käytä boot.elf:iä kaikissa tapauksissa). 1. Liitä muistitikku konsoliin. Wii minin USB-portti on konsolin takana. Tavallisella Wiillä, käytä alempaa porttia. (tai oikeanpuolimmaista porttia, jos se on pystyasennossa). 1. Laita konsolisi päälle ja mene asetusvalikkoon. Oikeassa yläkulmassa näet nelimerkkisen koodin, kuten alla olevassa kuvassa. Tämä koodi on Wii Menu -versiosi, laita tämä muistiin, sillä tarvitset sitä myöhemmin. Sen jälkeen sammuta konsolisi. ![Järjestelmän Käyttöliittymän Versio](/images/Wii/SystemMenuVersion.png)
 1. Käynnistä Linux-distrosi ja varmista, että olet yhdistettynä internetiin.
-1. Laita konsolisi päälle **äläkä** yhdistä lainkaan Wii Remoteja.
+1. Avaa Terminaali
 1. Suorita seuraavat komennot:
 ```bash
 wget https://wii.guide/assets/files/bluebomb-helper.sh
@@ -51,13 +51,13 @@ chmod +x bluebomb-helper.sh
 1. Laita konsolisi päälle **äläkä** yhdistä lainkaan Wii Remoteja.
 1. Paina Sync-nappia toistuvasti, kunnes terminaali näyttää `got connection handle`. Tämä voi vaatia useita yrityksiä, joten älä luovuta.
 
-Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
+Varmista, että konsoli on lähellä tietokonetta, joka suorittaa exploitia. Ideaalisesti niiden tulisi olla alle metrin päässä toisistaan.
 {: .notice--info}
 
-The console should now boot to the HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
+Konsolin pitäisi nyt käynnistää HackMii installer. Voit nyt sammuttaa Linux-tietokoneesi, jos et aio käyttää sitä myöhemmin.
 
-[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
+[Jos käytössäsi on Wii, jatka Homebrew Channelin ja BootMiin asennukseen](hbc)
 {: .notice--info}
 
-[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
+[Jos käytössäsi on Wii mini, jatka Homebrew Channelin asennukseen](hbc-mini)
 {: .notice--info}

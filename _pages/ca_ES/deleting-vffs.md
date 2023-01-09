@@ -30,4 +30,4 @@ L'eina de neteja de RiiConnect24 és una aplicació homebrew que pot resoldre aq
 3. L'aplicació t'ajudarà a resoldre qualsevol problema que tens actualment.
 
 [Tornar a la pàgina d'instalació de RiiConnect24](riiconnect24)
-{: . notícia--informació}
+{: .notice--info}

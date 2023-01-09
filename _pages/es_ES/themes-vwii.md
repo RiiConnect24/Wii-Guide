@@ -1,5 +1,5 @@
 ---
-title: "Installing Wii Menu Themes on vWii"
+title: "Instalando Temas para el Menú Wii en vWii"
 ---
 
 {% include toc title="Tabla de contenido" %}
@@ -9,7 +9,7 @@ title: "Installing Wii Menu Themes on vWii"
 **NO** nos haremos responsables si tu consola se brickea o la dañas de cualquier otra forma. Si sigues los pasos de esta guía de forma exacta, no deberías tener ningún tipo de problema.
 {: .notice--danger}
 
-Do **NOT** install the themes made in this guide on an actual Wii. They are only compatible with the vWii System Menu and will brick an actual Wii.
+**NO** instales los temas hechos en esta guía en una Wii real. Solo son compatibles con el Menú de Sistema de vWii y va a dañar una Wii real permanentemente.
 {: .notice--danger}
 
 WiiMotes with Wii MotionPlus will not work on MyMenuify, unfortunately there isn't anything we can do about this at the moment and you'll have to use an older Wii remote.
@@ -21,10 +21,10 @@ There are some themes that aren't compatible with the vWii System Menu, they may
 If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329). ([Archive](https://web.archive.org/web/20200213194233/https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329/))
 {: .notice--info}
 
-#### What You Need
+#### Lo que necesita
 
-* A Wii U with the Homebrew Channel installed.
-* A Wiimote without Wii MotionPlus
+* Una Wii U con el Canal Homebrew instalado.
+* Un Wiimote sin Wii MotionPlus
 * Una tarjeta SD
 * Una computadora con Windows (o usando Mono o Wine en Mac/Linux)
 * [MyMenuify](/assets/files/Mymenuify-Old-vWii.zip)
@@ -55,9 +55,9 @@ Only themes from the RiiConnect24 Themes page have been tested on vWii. Themes f
 
 * Most of the themes on RiiConnect24's theme page have been tested on vWii and they are known to work.
 
-##### Section II - Downloading .app files
+##### Sección II - Descarga de archivos .app
 
-This assumes your vWii is on the latest Wii Menu version.
+Esto supone que tu vWii tiene la última versión de Wii Menu.
 {: .notice--warning}
 
 There are a couple of ways to get the .app files for your vWii System Menu, in this guide we'll be using the vWii version of NUS Downloader.
@@ -66,11 +66,11 @@ There are a couple of ways to get the .app files for your vWii System Menu, in t
 2. Open the menu in NUS Downloader and click the database button.
 3. Go to System > System Menu and select a version according to your region.
 
-| Region | vWii Menu version |
-| ------ | ----------------- |
-| Japan  | v608              |
-| USA    | v609              |
-| Europe | v610              |
+| Región | versión del menú vWii |
+| ------ | --------------------- |
+| Japón  | v608                  |
+| USA    | v609                  |
+| Europa | v610                  |
 
 After selecting the correct version to download, check the box for `Create Decrypted Contents (*.app)`. Then, press the `Start NUS Download` Button on the top of the window.
 
@@ -80,11 +80,11 @@ After selecting the correct version to download, check the box for `Create Decry
 
 After the download has finished, search for .app file corresponding to your region in the folder where NUS Downloader is.
 
-| Region | .app file for your region |
-| ------ | ------------------------- |
-| Japan  | 0000001c.app              |
-| USA    | 0000001f.app              |
-| Europe | 00000022.app              |
+| Región | archivo .app para su región |
+| ------ | --------------------------- |
+| Japón  | 0000001c.app                |
+| USA    | 0000001f.app                |
+| Europa | 00000022.app                |
 
 If you can't find the .app file, it's possible you have downloaded the wrong version of the Wii Menu and you'll need to try again.
 

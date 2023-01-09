@@ -22,10 +22,10 @@ Homebrew Channel je program, ze kterého budete spouštět homebrew aplikace. Bo
 4. Zvolte "Continue", jakmile se instalace dokončí. ![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
 
 5. Po dokončení instalace zvolte "Back" a poté zvolte "BootMii".
-6. Pokud v hlavní nabídce vidíte, že můžete nainstalovat BootMii jako boot2, učiňte tak. To nabízí nejlepší možnou ochranu před bricknutím, kterou můžete mít. Skip this step if the option doesn't show up, in that case your Wii is not one of the earlier models that supports it.
-7. Install BootMii as IOS, even if you already installed BootMii as boot2 in the previous step. If you couldn't install BootMii as boot2, this will still allow you to create a NAND backup.
+6. Pokud v hlavní nabídce vidíte, že můžete nainstalovat BootMii jako boot2, učiňte tak. To nabízí nejlepší možnou ochranu před bricknutím, kterou můžete mít. Tento krok přeskočte, pokud se tato možnost nezobrazuje, v tomto případě totiž nemáte starší model Wiička, který to podporuje.
+7. Nainstalujte BootMii jako IOS, a to i přesto, pokud jste již nainstalovali BootMii jako boot2 v předchozím kroku. Jestliže jste nemohli nainstalovat BootMii jako boot2 v předchozím kroku, tento krok vám přesto umožní vytvořit NAND zálohu.
 
-If you do not have an SD card, you cannot install nor use BootMii, and therefore will not be able to utilize any of the mentioned benefits. Vždy ho můžete nainstalovat později.
+Pokud nemáte SD kartu, nemůžete nainstalovat ani spouštět BootMii, proto nebudete moci využívat jeho zmíněné výhody. Vždy ho můžete nainstalovat později.
 {: .notice--warning}
 
 ![BootMii Installation](/images/Wii/InstallBootMii.png)
@@ -40,13 +40,13 @@ Tady je rada - až budete instalovat homebrew aplikace na SD kartu nebo USB disk
 
 ![Proper SD Card Folder Structure](images/Wii/FolderStructure.png)
 
-`AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
+`AppName1` a `AppName2` jsou pouze ukázkové názvy. Dávejte si pozor, abyste nevkládali složky `apps` do složky `apps` samotné.
 
-┃ ┣ 📂 NázevAplikace1
+┃ ┣ 📂 AppName1
 {: .notice--info}
 
 ┃ ┃ ┣ 📄 icon.png
 {: .notice--info}
 
-Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
+Tip: To, jestli má Wii nainstalováno BootMii jako boot2, poznáte tak, že slot na disky krátce blikne ihned po stisknutí tlačítka POWER.
 {: .notice--info}

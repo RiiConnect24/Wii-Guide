@@ -9,9 +9,9 @@ Want to patch WAD games (WiiWare) to work with Wiimmfi and you don't know how? T
 ![Using the WiiWare Patcher](/images/rc24_using_the_wiiware_patcher.jpg)
 
 This tutorial is only for Windows version of WiiWare Patcher.
-{: . notícia--informació}
+{: .notice--info}
 
-#### What you need
+#### Què necessitaràs?
 
 * A Windows computer
 * [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases)

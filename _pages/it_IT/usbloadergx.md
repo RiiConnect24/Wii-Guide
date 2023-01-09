@@ -20,19 +20,19 @@ Questa è una veloce guida su come usare USB Loader GX, un popolare USB loader p
 Assicurati di avere installato [cIOS](/cios) prima di seguire questa guida!
 {: .notice--info}
 
-We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux.
+Ti consigliamo di copiare i giochi con [Wii Backup Manager](/wiibackupmanager) se usi Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) se usi macOS, o [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) per Windows, macOS e Linux.
 {: .notice--info}
 
-If you want to play games that are in NKit format, use [this program](https://gbatemp.net/download/nkit.36157/) to convert them to ISO first. You can also use a development build of Dolphin, right click on a game, and use "Convert File" to convert it.
+Se vuoi utilizzare i giochi in formato NKit, usa [questo programma](https://gbatemp.net/download/nkit.36157/) per convertirli in ISO prima dell'utilizzo. Puoi usare anche un versione sperimentale di Dolphin, fare clic destro sul gioco e selezionare "Converti File" per convertirlo.
 {: .notice--info}
 
-If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fusion, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
+Se non stai copiando i giochi con Wii Backup Manager, Witgui, o Wii Backup Fusion, crea una cartella chamata "wbfs" nella root dell'unità USB o della scheda SD e inserisci i giochi al suo interno.
 {: .notice--info}
 
 Per giocare a vari giochi, consigliamo di usare un hard drive esterno per la tua Wii. Anche i flash drives dovrebbero essere compatibili, ma gli hard drives esterni sono consigliati perchè sono più affidabili, e possono conservare più giochi.
 {: .notice--info}
 
-Assicurati che il tuo dispositivo USB sia formattato a FAT32 o NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
+Assicurati che il tuo dispositivo USB sia formattato a FAT32 o NTFS. Non formattarlo con altri tipi di formato come exFAT, extFS o WBFS, quest'ultimo è un vecchio formato di archiviazione dei giochi Wii.
 {: .notice--info}
 
 #### Istruzioni
@@ -44,7 +44,7 @@ Assicurati che il tuo dispositivo USB sia formattato a FAT32 o NTFS. Do not form
 
 ##### Iniziare
 
-There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
+Non c'è alcuna "guida" per utilizzare l'app USB Loader GX. Questa guida è intesa per aiutarti a capire come usarlo, dandoti un rapido avvio. Dovresti riuscire a capire tutte le grandi caratteristiche di USB Loader GX semplicemente usandolo.
 {: .notice--info}
 
 * Se USB Loader GX dice "Waiting for HDD..." con un conto alla rovescia di 20 secondi, è probabile che non riesce a trovare il dispositivo USB. Prova ad uscire dall'applicazione, poi avviala nuovamente dopo aver spostato il dispositivo USB nell'altra porta della Wii.
@@ -54,11 +54,11 @@ There is no "guide" to use the USB Loader GX app. This is intended to help you l
 
 ##### Interfaccia
 
-There are multiple buttons in the USB Loader GX interface.
+Ci sono vari pulsanti nell'interfaccia di USB Loader GX.
 
 ###### Menù Principale
 
-These are the functions the buttons found on the top of the main menu do, from left to right:
+Questi sono le funzioni dei pulsanti che si trovano sopra il menù principale, da sinistra a destra:
 
 * Star - Mostra i giochi che hai scelto come "preferiti".
 * Search - Ti permette di cercare giochi dal nome.
@@ -72,9 +72,9 @@ These are the functions the buttons found on the top of the main menu do, from l
 * Parental Control - Blocca USB Loader GX.
 * Disc - Carica i giochi dal disco.
 
-Pressing any game will allow you to play the game by pressing "Start".
+La selezione di un qualunque gioco ti permetterà di giocarlo premendo "Start".
 
-There are also other buttons:
+Ci sono anche altri pulsanti:
 
 * (+) Icon - "Installa" un gioco, cioè lo carica dal disco copiandolo.
 * Ingranaggi - Impostazioni di USB Loader GX.
@@ -83,9 +83,10 @@ There are also other buttons:
 * Wii - Apre il Menù HOME, che è accessibile anche premendo il pulsante HOME sul telecomando Wii.
 * Pulsante di spegnimento - Spegne la tua Wii.
 
-On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
+Nel mezzo della schermata inferiore, puoi vedere la quantità di spazio libero nell'unità USB e quanti di giochi hai.
 
-##### Opzioni una volta completate
+[Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that USB Loader GX can integrate with. This is optional to set up.
+{: .notice--info}
 
 [Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
 {: .notice--info}

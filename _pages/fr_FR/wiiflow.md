@@ -88,5 +88,8 @@ Lorsque vous amenez le curseur au bas de l'écran en vue continue, il y a 6 icô
 [WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki est une excellente source d'informations sur WiiFlow.
 {: .notice--info}
 
+[Continuez vers RiiTag](riitag)<br> RiiTag est un gamertag personnalisable pour votre Wii que le WiiFlow Lite peut intégrer. Ceci est facultatif à configurer.
+{: .notice--info}
+
 [Continuer vers la navigation du site](site-navigation)<br> Nous avons de nombreux autres tutoriels que vous pourriez aimer.
 {: .notice--info}

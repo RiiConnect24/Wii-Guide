@@ -15,7 +15,7 @@ Iată o listă de lucruri pe care ar trebui și nu ar trebui să le faci odată 
 - **RECOMANDARE:** Creează o copie de rezervă a NAND-ului Wii în mod regulat cu [BootMii](bootmii), în special înainte de a face ceva riscant.
 - **RECOMANDARE:** Poți instala teme de fundal pentru Meniul Wii dacă dorești, însă urmează cu grijă numai ghidul nostru. ([Wii](themes) / [vWii](themes-vwii)). Alte tutoriale pot fi incorecte și te pot face să cauzezi un brick consolei tale.
 - **GREȘEALĂ:** Instalarea fișierelor WAD de IOS-uri aleatorii, versiuni mai vechi ale Meniului Wii, etc. dacă nu știi ce faci, în special nu pe vWii sau pe Wii Mini.
-- **GREȘEALĂ:** Folosirea versiunilor vechi de homebrew Wii. Dacă urmărești ghiduri de modificare a consolei Wii de pe Internet, ai grijă în folosirea ghidurilor vechi (în principal cele făcute înainte de 2012), în special dacă au de-a face cu lucruri precum IOS.
+- **DO NOT** use old versions of Wii homebrew. Dacă urmărești ghiduri de modificare a consolei Wii de pe Internet, ai grijă în folosirea ghidurilor vechi (în principal cele făcute înainte de 2012), în special dacă au de-a face cu lucruri precum IOS.
 - **GREȘEALĂ:** Modificarea, redenumirea sau ștergerea fișierelor din memoria NAND a consolei tale dacă nu știi ce faci.
 - **GREȘEALĂ:** Folosirea aplicației homebrew "KoreanKii" pe o consola Wii non-coreeană.
 - **GREȘEALĂ:** Instalarea unui IOS sau unui Meniu Wii pe un Wii mini folosind orice altceva decât [d2xl cIOS](cios-mini). Făcând acest lucru vei cauza un brick consolei tale dacă un card Wi-Fi nu este sudat pe ea.

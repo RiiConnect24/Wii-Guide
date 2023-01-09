@@ -3,15 +3,15 @@ title: "Open Shop Channel (Homebrew Browser)"
 ---
 
 If you need help for anything regarding this tutorial, please join [the Open Shop Channel](https://discord.gg/osc) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: . notícia--informació}
+{: .notice--info}
 
 Homebrew Browser, which is what the Open Shop Channel is based off on, does work but it can be buggy. You can also get homebrew using [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) and from the [Open Shop Channel website](https://oscwii.org/).
-{: . notícia--informació}
+{: .notice--info}
 
 The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
 
-#### What you need
-* An SD card or USB drive
+#### Què necessitaràs?
+* Una tarjeta SD o Pendrive USB
 * [Homebrew Browser](/assets/files/homebrew_browser_v0.3.9e.zip)
 
 #### Instruccions
@@ -35,13 +35,13 @@ Here are some recommended apps that you can get on the Open Shop Channel:
 - [YABDM](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod) - This is a tool to dump content installed on your Wii to WAD files. See [our page](dump-wads) for instructions on how to use it.
 
 [Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
-{: . notícia--informació}
+{: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
-{: . notícia--informació}
+{: .notice--info}
 
 Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
-{: . notícia--informació}
+{: .notice--info}
 
 You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
-{: . notícia--informació}
+{: .notice--info}

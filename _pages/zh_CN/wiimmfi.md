@@ -11,7 +11,7 @@ title: "Wiimmfi"
 
 [Wiimmfi](https://wiimmfi.de)是已停止服务的Nintendo Wi-Fi Connection的替代品。 它由Wiimm和Leseratte开发。
 
-如果您在连接Wiimmfi时得到错误23904，证明您使用的是过时补丁。 <br> 按照下列步骤操作以重新连接到Wiimmfi。 <br> 看[此页面](https://wiimmfi.de/update)了解更多信息。<br>
+如果您在连接Wiimmfi时发生错误23904，则您使用的是过时的补丁。 <br> 请按照下列步骤操作以重新连接到Wiimmfi。 <br> 查看[此页面](https://wiimmfi.de/update)以了解更多信息。<br>
 {: .notice--warning}
 
 ## 不同的补丁程序
@@ -32,11 +32,11 @@ title: "Wiimmfi"
 3. 请确保`Wiimmfi patch v4`修改以启用。
 4. 保存设置并退出。
 
-如果您反而看到`Wiimmfi patch v2`或`Wiimmfi patch v3`，表示您没有最新版本的hacks_hash.ini<br> 从[这里](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini)下载并将其移动到SD卡或U盘的`/apps/priiloader/hacks_hash.ini`<br> 然后重复之前的步骤。
+如果您看到的是`Wiimmfi patch v2`或`Wiimmfi patch v3`，则表示您没有最新版本的hacks_hash.ini.<br> 从[这里](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini)下载并将其移动到SD卡或U盘的`/apps/priiloader/hacks_hash.ini`<br> 然后重复之前的步骤。
 {: .notice--warning}
 
 ### 自制软件 (光盘)
-MrBean35000vr (CTGP-R的作者, 一个马里奥赛车Wii的内容包) 创建了Wiimmfi光盘修补器，允许您插入光盘时修补Wiimmfi，每次启动光盘时都需要运行。
+MrBean35000vr (CTGP-R的作者, 一个马里奥赛车Wii的内容包) 创建了Wiimmfi光盘修补器，允许您插入光盘时修补Wiimmfi，每次从光盘启动游戏时都需要运行。
 
 #### 你需要的是
 * 一张SD卡或U盘

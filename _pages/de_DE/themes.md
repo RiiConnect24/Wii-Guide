@@ -40,8 +40,8 @@ Wie empfehlen dir, vor dem Fortfahren [cIOS zu installieren](cios).
 Unten sind einige Links zu Themes.
 
 * [RiiConnect24 Design-Seite](https://rc24.xyz/goodies/themes/)
-* [Google Drive-Quelle](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
-* [Wii Theme Team Erstellung v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
+* [Google Drive Repository](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
+* [Wii Theme Team Creations v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
 LIES DIR AUF JEDEN FALL DIE WARNHINWEISE OBEN DURCH, BEVOR DU FORTFÄHRST!
 {: .notice--danger}
@@ -50,7 +50,7 @@ LIES DIR AUF JEDEN FALL DIE WARNHINWEISE OBEN DURCH, BEVOR DU FORTFÄHRST!
 
 ##### Abschnitt 1 - Ein Design finden
 
-* Find ein Theme, welches du installieren möchtest. Einige haben YouTube-Videos um zu zeigen, wie das Design aussieht, leider sind einige davon nicht verfügbar.
+* Finde ein Design, welches du installieren möchtest. Einige davon haben YouTube-Videos um zu zeigen, wie das Design aussehen würde. Leider sind einige der Videos nicht länger verfügbar.
 * Wenn du eines gefunden hast was dir gefällt, klicke auf den Download-Link welcher mit deiner Wii-Menü-Version kompatibel ist. **Es ist sehr wichtig, die richtige Version zu wählen, um Bricks zu vermeiden.**
 * Du wirst wahrscheinlich einen Download-Link mit der Bezeichnung 4.X auswählen. Das bedeutet, dass dieses Design mit der Wii-Menü-Version 4.1, 4.2 und 4.3 kompatibel ist.
 * Einige Designs haben unterschiedliche Links für verschiedene Regionen, wähle den korrekten Link welcher mit der Region deiner Wii übereinstimmt.
