@@ -21,7 +21,7 @@ No es recomendable utilizar BlueBomb en la Wii original para instalar el Canal H
 - Una computadora con Linux
   - Una máquina virtual podría funcionar, pero no es recomendable debido a la dificultad para configurar la conexión Bluetooth. De ser posible, utiliza una Live USB como se menciona más adelante.
   - También puedes usar una Raspberry Pi, pues es muy probable que ya tenga Linux instalado.
-  - El Subsistema de Windows para Linux *no* funcionará, debido a que no tiene acceso directo al adaptador Bluetooth ni los puertos USB del equipo.
+  - Windows Subsystem for Linux or a Chromebook running Linux mode will *not work* as they don't have direct access to the Bluetooth adapter or USB ports.
   - Si no tienes Linux, [Ubuntu](https://ubuntu.com/download/desktop) es la opción más fácil de usar y se puede ejecutar en equipos que tengan Windows o macOS.
     - Si tu equipo es de 32 bits, deberás descargar [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
     - Para los equipos de 64 bits se recomienda usar la versión LTS por su estabilidad, aunque la última versión también funcionará.
