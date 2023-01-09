@@ -21,7 +21,7 @@ Emme suosittele BlueBombia käytettävän alkuperäisellä Wiillä, jos tarkoitu
 - Linux-tietokone
   - Virtuaalikone voi toimia, mutta se ei ole suositeltavaa, sillä siinä Bluetooth-läpiviennin toimimaan saaminen on monimutkaista. Jos mahdollista, käytä LiveUSB:tä alla kuvatulla tavalla.
   - Jos sinulla on Raspberry Pi, voit myös käyttää sitä, sillä siinä todennäköisesti on Linux valmiiksi asennettuna.
-  - Windows Subsystem for Linux *ei kelpaa*, sillä se ei pääse suoraan käsiksi tietokoneen Bluetooth-adapteriin tai USB-portteihin.
+  - Windows Subsystem for Linux or a Chromebook running Linux mode will *not work* as they don't have direct access to the Bluetooth adapter or USB ports.
   - Jos sinulla ei ole Linuxia, [Ubuntu](https://ubuntu.com/download/desktop) on käyttäjäystävällisin vaihtoehto, ja sitä voidaan käyttää laitteilla, jotka käyttävät Windowsia tai Macia.
     - 32-bittiset laitteet vaativat [Ubuntu 16.04](http://releases.ubuntu.com/16.04/):n.
     - 64-bittisillä laitteilla on suositeltavaa käyttää LTS-versiota vakautensa vuoksi, mutta viimeisin julkaisu myös kelpaa.
