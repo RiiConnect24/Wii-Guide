@@ -21,7 +21,7 @@ Pentru consola Wii originală, nu este recomandat să folosești BlueBomb dacă 
 - Un calculator Linux
   - O Mașină Virtuală poate funcționa, însă nu este recomandat datorită complexității sale în a face Bluetooth să funcționeze. Dacă este posibil, te rugăm folosește un LiveUSB așa cum este descris și mai jos.
   - Dacă ai un Raspberry Pi, îl poți folosi în schimb pentru că cel mai probabil are Linux deja instalat.
-  - Subsistemul Windows pentru Linux *nu va merge* pentru că nu are acces direct la adaptorul Bluetooth sau la porturile USB.
+  - Windows Subsystem for Linux or a Chromebook running Linux mode will *not work* as they don't have direct access to the Bluetooth adapter or USB ports.
   - Dacă nu ai Linux, [Ubuntu](https://ubuntu.com/download/desktop) este cea mai ușor de utilizat opțiune și poate fi rulat pe calculatoarele care au instalat Windows sau Mac.
     - Dispozitivele 32-bit vor avea nevoie de [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
     - Pentru dispozitivele 64-bit este recomandat să folosești ediția LTS datorită stabilității sale, dar merge și cea mai nouă versiune.
