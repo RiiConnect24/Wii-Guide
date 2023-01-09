@@ -21,7 +21,7 @@ BlueBombはWiiのBluetoothライブラリの欠陥を活用したエクスプロ
 - Linuxマシン
   - 仮想マシンでもうまく行くかもしれませんが、Bluetoothパススルーを動作させるのが複雑なので推奨されません。 可能であれば、以下のようにライブUSBを使用してください。
   - Raspberry Piを持っている場合は、Linuxが既にインストールされている可能性が高いので、代わりに使用できます。
-  - Windows Subsystem for Linuxは、BluetoothアダプタまたはUSBポートに直接アクセスできないため、*機能しません*。
+  - Windows Subsystem for Linux or a Chromebook running Linux mode will *not work* as they don't have direct access to the Bluetooth adapter or USB ports.
   - Linuxを持っていない場合は、[Ubuntu](https://ubuntu.com/download/desktop)が最も親しみやすいLinuxで、WindowsまたはMacコンピュータ上で実行できます。
     - 32ビットマシンには[Ubuntu 16.04](http://releases.ubuntu.com/16.04/)が必要です。
     - 64ビットマシンの場合は、LTS版が安定でお勧めですが、最新リリースでも動作します。
