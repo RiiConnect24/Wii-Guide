@@ -23,7 +23,7 @@ Priiloader lisää tason brick suojausta sinun Wiille. Se käynnistyy ennen Wii 
 
 ##### Osa I - Lataaminen/Asentaminen
 
-1. Download the Priiloader installer and extract it to the root of your SD card or USB drive.
+1. Lataa Priiloader asentaja ja pura se SD-kortin tai USB-aseman pääkansioon.
 
 ##### Osa II - Priiloaderin asentaminen
 
