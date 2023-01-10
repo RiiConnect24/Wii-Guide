@@ -31,7 +31,7 @@ Tässä on lista asioista, joita voit tehdä käyttämällä homebrew:ta. Vaikka
 - Palauta lopetetut online-palvelut, kuten [WiiConnect24](riiconnect24) & [Nintendo WFC palvelut](wiimmfi).
 - Varmuuskopioi ja palauta kopioita Wii:si järjestelmämuistista (NAND) käyttämällä [BootMii](bootmii):ta.
 - Suojaa Wii:täsi muuttumasta tiiliskiveksi [Priiloader](priiloader):n ja BootMii:n avulla.
-- Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
+- Muuta Wiisi mediasoittimeksi [WiiMC](https://oscwii.org/library/app/wiimc-ss): n avulla.
 
 
 ## Oletko valmis?
