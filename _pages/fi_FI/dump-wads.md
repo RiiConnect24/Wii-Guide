@@ -16,7 +16,7 @@ Tämä opas selittää sinulle, kuinka luoda WAD-asennuspaketteja Wiisi järjest
 #### Ohjeet
 ##### Osa I - Lataaminen/Asentaminen
 
-1. Extract Yet Another BlueDump MOD to your SD card or USB drive.
+1. Pura Yet Another BlueDump MOD SD-kortille tai USB-asemalle.
 2. Laita SD-korttisi tai USB-asemasi Wii-konsoliisi ja käynnistä Yet Another BlueDump MOD Homebrew Channelista.
 
 ##### Osa II - Kopion luominen
