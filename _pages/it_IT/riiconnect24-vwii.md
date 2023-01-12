@@ -23,10 +23,10 @@ Questa guida è solo per vWii (Modalità Wii su Wii U).
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
+Si consiglia di impostare la tua Wii all'ora attuale prima di procedere. Segui [questo tutorial](rtc) per impostarla.
 {: .notice--warning}
 
-DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
+NON INSTALLARE RIICONNECT24 SU WII MINI! Non funzionerà e brickerà il sistema.
 {: .notice--danger}
 
 #### Avvisi
@@ -34,7 +34,7 @@ DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick th
 Noi **NON** siamo responsabili se bricki, o danneggi la tua console in un qualunque modo. Se segui attentamente questa guida, non dovresti avere problemi.
 {: .notice--warning}
 
-Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on Wii U). If you're looking for instructions for a Nintendo Wii, use [this guide](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [this guide](riiconnect24-dolphin) instead.
+**NON** eseguire questa guida su qualsiasi console diversa dal vWii (Wii Virtuale su Wii U). Se stai cercando istruzioni per una Nintendo Wii, segui [questa guida](riiconnect24). Se vuoi usare RiiConnect24 sull'Emulatore Dolphin, allora segui [questa guida](riiconnect24-dolphin).
 {: .notice--warning}
 
 #### Di cosa hai bisogno
@@ -45,7 +45,7 @@ Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on
 * Un Nintendo Network ID (NNID) associato alla tua Wii U
 * [RiiConnect24 Patcher (Windows, Mac e Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-After following the above linked guide, you should have:
+Dopo aver seguito la guida indicata sopra, dovresti avere:
 * Un backup NAND vWii e le sue chiavi (conservale al sicuro!!)
 * Il Canale Homebrew installato
 * d2x cIOS installato (IOS249, IOS250, e IOS251)
@@ -56,7 +56,7 @@ After following the above linked guide, you should have:
 
 ##### Sezione 1 - Caricare il patcher
 
-If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
+Se non riesci a eseguire il RiiConnect24 Patcher, entra nel [server Discord di RiiConnect24 ](https://discord.gg/rc24)(raccomandato) oppure [scrivici una mail a support@riconnect24.net](mailto:support@riiconnect24.net) per ulteriore assistenza.
 {: .notice--info}
 
 1. Clicca il link sopra per andare sulla pagina GitHub dove su trova il patcher.
@@ -76,7 +76,7 @@ If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord ser
 
 ##### Sezione 2 - Installare i WAD
 
-You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
+Ora installerai i WAD patchati di IOS e Canali che sono necessari per usare RiiConnect24.
 
 1. Inserisci la scheda SD o l'unità USB nella tua Wii U.
 2. Avvia il Canale Homebrew sulla tua Wii U.
@@ -90,20 +90,20 @@ You will now install the patched IOS and Channel WADs that are required to use R
 
 1. Avvia ww-43db-patcher e aspetta che venga completato.
 
-If you [install a theme](/themes-vwii), you will have to run the ww-43db-patcher once more.
+Se [installi un tema](/themes-vwii), dovrai avviare ww-43db-patcher un'altra volta.
 {: .notice--info}
 
 ##### Sezione IV - Usare RiiConnect24
 
-After following the above sections, you're almost ready to utilize RiiConnect24 on your Wii U. You just need to perform the following steps **every time you boot into vWii**.
+Dopo aver seguito le sezioni precedenti, sarai quasi pronto per usare RiiConnect24 sulla Wii U. Devi solo seguire questi passaggi **dopo ogni avvio del vWii**.
 
 1. Nel <strong x-id"1">Menu Wii</strong>, avvia il Canale **ConnectMii**.
 * Questo attiverà i flag WiiConnect24 e Connessione durante standby, richiesti dai canali WiiConnect24.
 2. Avvia i canali di WiiConnect24.
-* You should now be able to utilize all of the WiiConnect24 Channels you have installed.
+* Ora dovresti poter utilizzare tutti i canali di WiiConnect24 che hai installato.
 
 #### Cosa funziona attualmente?
-The following RiiConnect24 services are **working** on the vWii:
+I seguenti servizi di RiiConnect24 **funzionano** su vWii:
 * Canale Meteo
 * Canale Notizie
 * Canale Vota Anche Tu
@@ -111,9 +111,9 @@ The following RiiConnect24 services are **working** on the vWii:
 * Canale Concorsi Mii
 {: .notice--success}
 
-The following RiiConnect24 services are **not working** on the vWii:
+I seguenti servizi di RiiConnect24 **non funzionano** su vWii:
 * Wii Mail (la maggior parte delle funzionalità non esiste su vWii)
     * Fra queste sono inclusi l'invio e la ricezione dei messaggi fra gli amici.
 
-Most services that utilize WiiConnect24 will be able to work if you leave vWii running for several hours. There's no standby mode on the console.
+La maggior parte dei servizi che utilizzano WiiConnect24 sarà in grado di funzionare se si lascia vWii in esecuzione per diverse ore. Non c'è nessuna modalità standby sulla console.
 {: .notice--warning}
