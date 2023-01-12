@@ -28,9 +28,9 @@ sitemap: false
 + [Wiimmfi](wiimmfi)
 + [Canale Kirby TV](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
-+ [Deleting VFFs](deleting-vffs)
-+ [Fixing FORE000006](riiconnect24-batteryfix)
-+ [Fixing NEWS000006](news000006)
++ [Eliminare i VFF](deleting-vffs)
++ [Risoluzione FORE000006](riiconnect24-batteryfix)
++ [Risoluzione NEWS000006](news000006)
 
 **Modding 101**
 + [BlueBomb](bluebomb)
@@ -55,7 +55,7 @@ sitemap: false
 + [Eseguire un SysCheck](syscheck)
 + [Rimuovere RSSMii](rssmii-remove)
 + [RiiTag](riitag)
-+ [Setting RTC Time](rtc)
++ [Impostare l'orario RTC](rtc)
 + [Aggiornamento del Menu Wii a v4.3](update)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
