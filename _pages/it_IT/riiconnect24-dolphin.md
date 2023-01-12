@@ -20,12 +20,12 @@ Questa guida si applica solo all'[Emulatore Dolphin](https://dolphin-emu.org).
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
+NON INSTALLARE RIICONNECT24 SU WII MINI! Non funzionerà e brickerà il sistema.
 {: .notice--danger}
 
 ### Di cosa hai bisogno
 
-* A computer with either Windows 10 or newer or any Unix-based system
+* Un computer o con Windows 10 o più recente, o un sistema basato su Unix
 * [Dolphin](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
@@ -37,16 +37,16 @@ Se hai già installato Dolphin, salta alla Sezione II
 {: .notice--info}
 
 1. Scarica la versione beta più recente di Dolphin, ma **non scaricare la versione stable, perché queste sono assai obsolete!**
-2. Extract the .7z file using a program like 7-Zip or WinRAR.
+2. Estrai il file .7z usando un programma come 7-Zip o WinRAR.
 3. Avvia Dolphin.
 4. In Dolphin, go to `Tools` -> `Perform Online System Update` -> Choose your region. ![Performa Aggiornamenti di Sistema Online](/images/Dolphin_RC24/1.jpg)
 
-If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii) instead of installing the system files with the System Update option. Visita [questa pagina](https://wiki.dolphin-emu.org/index.php?title=NAND_Usage_Guide) per ulteriori informazioni.
+Se hai una Wii modificata, puoi usare una [copia della NAND di BootMii](bootmii) invece di installare il menu di sistema Wii con questo metodo. Visita [questa pagina](https://wiki.dolphin-emu.org/index.php?title=NAND_Usage_Guide) per ulteriori informazioni.
 {: .notice--info}
 
 ##### Sezione 2 - Installare RiiConnect24
 
-If you use a Windows version before Windows 10, you unfortunately cannot use WiiConnect24 inside Dolphin. You can use [this program](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin) to run it instead.
+Se si utilizza una versione di Windows precedente a Windows 10, purtroppo non è possibile utilizzare WiiConnect24 all'interno di Dolphin. In alternativa, puoi usare [questo programma](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin) per eseguirlo.
 {: .notice--danger}
 
 1. Clicca il link sopra per andare sulla pagina GitHub dove su trova il patcher.
