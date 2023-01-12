@@ -1,104 +1,104 @@
 ---
-title: WiiLink Demae Domino's Guide
+title: Guida WiiLink Demae Domino's
 ---
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the WiiLink Discord server](https://discord.gg/wiilink).
+Se hai bisogno di aiuto con questa guida, unisciti al [server Discord di WiiLink](https://discord.gg/wiilink).
 {: .notice--info}
 
-In order to prevent abuse, a $1 USD paywall has been put in place. Due to this, a credit card is required. All purchases are handled by Stripe Inc. and will be refunded. Funds may take 5-10 business days to settle. For more information, read the [Terms of Service](https://demae.wiilink24.com/tos) and [Privacy Policy](https://demae.wiilink24.com/privacypolicy).
+Al fine di prevenire gli abusi, è stato messo in atto un pagamento obbligatorio da $1 USD. Per questo motivo è necessaria una carta di credito. Tutti gli acquisti sono gestiti da Stripe Inc. e saranno rimborsati. I fondi possono richiedere 5-10 giorni lavorativi per regolarsi. Per ulteriori informazioni, leggi i [Termini di Servizio](https://demae.wiilink24.com/tos) e l'[Informativa sulla privacy](https://demae.wiilink24.com/privacypolicy).
 {: .notice--info}
 
-As this service places an order to Domino's Pizza, payment is required at the door. This is usually in the form of cash, although credit/debit card machines are possible if the delivery person has one.
+Poiché questo servizio effettua un ordine a Domino's Pizza, il pagamento è richiesto alla porta. Di solito è sotto forma di contanti, anche se i lettori per carte di credito/debito sono disponibili se la persona alla consegna ne ha uno.
 {: .notice--info}
 
-Currently, only the USA and Canada are supported.
+Attualmente, solo gli Stati Uniti e Canada possono usufruire del servizio.
 {: .notice--warning}
 
-You cannot use the default Dolphin NAND with this service. You must use your own NAND dump. This can be done in Dolphin by going to the toolbar and clicking `Tools -> Manage NAND -> Import BootMii NAND Backup`.
+Non puoi usare la NAND Dolphin predefinita con questo servizio. Devi usare il tuo dump della NAND. Puoi importarlo in Dolphin andando sulla barra degli strumenti e facendo clic su `Strumenti -> Gestisci NAND -> Importa Backup NAND BootMii`.
 {: .notice--warning}
 
 #### Di cosa hai bisogno
 
 * Una scheda SD o un'unità USB
-* A Wii with an internet connection
+* Un Wii con una connessione Internet
 * Un Computer
 * Un account Discord
 
 #### Istruzioni
 
-##### Section I - Obtaining your Wii's Console ID
+##### Sezione I - Ottenere l'ID della console Wii
 
-1. Download the [Get Console ID](https://oscwii.org/library/app/GetConsoleID) homebrew app from the [Open Shop Channel](https://oscwii.org).
-2. Unzip the downloaded file and copy the `apps` folder to your SD Card or USB drive.
-3. On your Wii, launch the Homebrew Channel and run the app.
-4. The app will output your Wii Console ID to the screen, save this for later as you will need it. ![Get Console ID](/images/Demae-Dominos/get-console-id.png)
+1. Scarica l'app homebrew [Get Console ID](https://oscwii.org/library/app/GetConsoleID) dal [Canale Open Shop](https://oscwii.org).
+2. Decomprimi il file scaricato e copia la cartella `apps` nella scheda SD o unità USB.
+3. Sulla tua Wii, avvia il Canale Homebrew ed esegui l'app.
+4. L'app ti mostrerà l'ID della cosnole Wii sullo schermo, salvalo per dopo che ne avrai bisogno. ![Ottieni l'ID della console](/images/Demae-Dominos/get-console-id.png)
 
-##### Section II - Obtaining the Food Channel
+##### Sezione II - Ottenere il Food Channel
 
-1. Click [this link](https://demae.wiilink24.com) to visit the Demae Domino's website.
-2. Click the `Log in` button in the top right corner. This will prompt your Discord account to authorize the application. ![Authorize Demae Domino's to access your Discord account](/images/Demae-Dominos/discord-oauth.png)
-3. Click on the `Purchase Access` button in the top right corner. Please read the contents on screen very carefully before clicking the `Purchase` button.
-4. You will be brought to a purchase page managed by Stripe Inc. Here you must enter your payment information along with the Wii Console ID from the last section. ![Purchase Page](/images/Demae-Dominos/purchase-page.png)
-5. If the purchase succeeded, you will be brought to a success page. The WAD personalized for your Wii Console will be emailed to you. Please allow for up to 10 minutes for the email to arrive.
-6. Once the email arrives, download the attached WAD file and move it to the `WAD` folder on your SD Card or USB.
+1. Clicca su [questo link](https://demae.wiilink24.com) per visitare il sito web di Demae Domino's.
+2. Clicca il pulsante `Log in` nell'angolo in alto a destra. Questo chiederà al tuo account Discord di autorizzare l'applicazione. ![Autorizza Demae Domino's ad accedere al tuo account Discord](/images/Demae-Dominos/discord-oauth.png)
+3. Clicca il pulsante `Purchase Access` nell'angolo in alto a destra. Si prega di leggere i contenuti sullo schermo con molta attenzione prima di cliccare sul pulsante `Purchase`.
+4. Sarai portato a una pagina di acquisto gestita da Stripe Inc. Qui devi inserire le tue informazioni di pagamento insieme all'ID della console Wii dalla sezione precedente. ![Pagina d'acquisto](/images/Demae-Dominos/purchase-page.png)
+5. Se l'acquisto è riuscito, si sarà portato a una pagina di successo. Il WAD personalizzato per la tua console Wii ti verrà inviato via email. Si prega di attendere fino a 10 minuti per l'arrivo dell'email.
+6. Una volta ricevuta l'email, scarica il file WAD allegato e spostalo nella cartella `WAD` sulla tua scheda SD o unità USB.
 
-##### Section III - Obtaining the Set Personal Data Channel
+##### Sezione III - Ottenere il Set Personal Data Channel
 
-If you are using a Japanese Wii, this step can be skipped.
+Se si utilizza una Wii giapponese, questo passaggio può essere saltato.
 {: .notice--info}
 
-If you already have the WiiLink Set Personal Data channel, you must install this one as it is updated to support addresses.
+Se hai già il WiiLink Set Personal Channel, devi installare questo canale poiché aggiornato per supportare gli indirizzi.
 {: .notice--warning}
 
-1. Click the download link for your console.
+1. Clicca sul link di download per la tua console.
    * [Wi](https://spd.wiilink24.com/spd/SPD_Wii.wad)
    * [vWii](https://spd.wiilink24.com/spd/SPD_vWii.wad)
-2. Copy the downloaded WAD file to the `WAD` folder on your SD Card or USB drive.
+2. Copia il file WAD scaricato nella cartella `WAD` nella scheda USB o unità USB.
 
-##### Section IV - Installing WADs
+##### Sezione IV - Installare i WAD
 
-You will now install the Food Channel and Set Personal Data channels.
+Ora installerai i canali Food Channel e Set Personal Data.
 
 1. Metti la tua scheda SD o il tuo dispositivo USB nella tua WIi.
 2. Carica il Canale Homebrew sulla tua Wii.
 3. Avvia Wii Mod Lite.
 4. Usando il pad direzionale del telecomando Wii, naviga su `WAD Manager`, e poi naviga sulla cartella `wad`.
-5. Highlight the Food Channel and Set Personal Data WADs by pressing the + Button over each of them. When all the WADs are selected, press A twice to install the WADs.
+5. Seleziona i WAD Food Channel e Set Personal Data premendo il Pulsante + su ciascuno. Quando tutti i WAD sono selezionati, premi A due volte per installare i WAD.
 6. Dopo averli installati con successo, premi il tasto HOME per tornare al Canale Homebrew.
 
-##### Section V - Setting your personal data
+##### Sezione V - Impostare i dati personali
 
-WiiLink never stores your personal data. For more information on what is used, read our [Privacy Policy](https://demae.wiilink24.com/privacypolicy).
+WiiLink non memorizza mai i tuoi dati personali. Per ulteriori informazioni su ciò che viene utilizzato, leggi la nostra [informativa sulla privacy](https://demae.wiilink24.com/privacypolicy).
 {: .notice--info}
 
-You are responsible for entering correct data into the Set Personal Data channel. Failure to do so may result in orders not succeeding.
+Tu sei responsabile per il corretto inserimento dei dati nel canale Set Personal Data. In caso contrario, gli ordini potrebbero non andare a buon fine.
 {: .notice--warning}
 
-In this section you will be setting your personal data. This is required for proper usage of Demae Domino's.
+In questa sezione dovrai impostare i tuoi dati personali. Questo è necessario per un uso corretto di Demae Domino's.
 
-1. Launch the Food Channel from the Wii Menu.
-2. If you have not previously used Set Personal Data, a prompt telling you to set the data will appear. Press the `Address Info` button. Otherwise, click the `Change Address Information` button in the main menu.
-3. Now you are in the Set Personal Data channel. Press the arrows to traverse screens. Here you will enter your data. When you are finished, click the `Done` button and then `Demae`. ![SPD Page 1](/images/Demae-Dominos/spd-1.png) ![SPD Page 2](/images/Demae-Dominos/spd-2.png)
+1. Avvia il Food Channel dal menu Wii.
+2. Se non hai utilizzato Set Personal Data in precedenza, apparirà un prompt che ti chiede di impostare i dati. Premi il pulsante `Address Info`. Altrimenti, fare clic sul pulsante `Change Address Information` nel menu principale.
+3. Ora sei nel canale Set Personal Data. Premi le frecce per cambiare le schermate. Qui inserirai i tuoi dati. Quando hai finito, clicca sul pulsante `Done` e poi `Demae`. ![SPD pagina 1](/images/Demae-Dominos/spd-1.png) ![SPD pagina 2](/images/Demae-Dominos/spd-2.png)
 
-##### Section VI - Placing an order
+##### Sezione VI - Effettuare l'ordine
 
-This section requires you to have cash to pay for your meal.
+Questa sezione richiede di il pagamento in contanti per il vostro pasto.
 {: .notice--warning}
 
-If you have previously placed an order, skip to step 5.
+Se hai effettuato un ordine in precedenza, salta al passaggio 5.
 {: .notice--info}
 
-1. If you have used the previous version of the Food Channel, go to `Wii Settings` to delete your save data.
-2. Launch the Food Channel from the Wii Menu
-3. Follow the on-screen instructions, then click `Order` in the main menu. ![Menù Principale](/images/Demae-Dominos/main-menu.png)
-4. You will now be prompted to select your region. Be sure to select your residing country correctly. Failure to do so will result in restaurants failing to load. You will then be prompted to select your state/province, then city. If your city is not on the list, you can select any one as it does not matter. ![Menù Principale](/images/Demae-Dominos/country-setup.png)
-5. Click the `Pizza` button. This will load all the restaurants in your area. The first restaurant in the list is the one closest to you.
-6. Click `See Menu` to list the different menu categories. Click the category you would like, then select a food item. In the item screen, you can add toppings and adjust quantity.
-7. After adding a food item, you will be brought to the basket. To add a food item, scroll to the bottom and select `Add Order`. To proceed to checkout, click `Next`.
-8. Review your order throughly before placing the order. When you are ready, click the big green `Order` button. ![Before Order](/images/Demae-Dominos/order.png)
-9. If no error appeared, your order was placed successfully! To track your order, simply visit the Domino's Tracker for your region and enter the phone number you entered in Set Personal Data.
+1. Se hai usato la versione precedente del Food Channel, vai su `Impostazioni Wii` per eliminare i tuoi dati di salvataggio.
+2. Avvia il Food Channel dal menu Wii
+3. Seguire le istruzioni sullo schermo, quindi fare clic su `Order` nel menu principale. ![Menù Principale](/images/Demae-Dominos/main-menu.png)
+4. Ora ti verrà chiesto di selezionare la tua regione. Assicurati di selezionare correttamente il tuo paese di residenza. In caso contrario, i ristoranti non potranno caricarsi. Ti verrà quindi chiesto di selezionare il tuo stato/provincia, poi città. Se la tua città non è presente nella lista, puoi selezionarne una qualsiasi in quanto non importa. ![Menù Principale](/images/Demae-Dominos/country-setup.png)
+5. Clicca sul pulsante `Pizza`. Questo caricherà tutti i ristoranti della tua zona. Il primo ristorante della lista è quello più vicino a te.
+6. Fare clic su `See Menu` per elencare le diverse categorie di menù. Fai clic sulla categoria che desideri, quindi seleziona un alimento. Nella schermata oggetto, è possibile aggiungere topping e regolare la quantità.
+7. Dopo aver aggiunto un alimento, sarai portato al carrello. Per aggiungere un alimento, scorri vero il basso e seleziona `Add Order`. Per procedere alla cassa, clicca `Next`.
+8. Controlla il tuo ordine con attenzione prima di effettuarlo. Quando sei pronto, clicca il grande pulsante `Order` in verde. ![Prima dell'ordine](/images/Demae-Dominos/order.png)
+9. Se non è apparso alcun errore, l'ordine è stato effettuato con successo! Per monitorare il tuo ordine, è sufficiente visitare il Domino's Tracker per la tua regione e inserire il numero di telefono che hai inserito in Set Personal Data.
 
 [Continua a navigare nel sito](site-navigation)<br> Abbiamo molti altri tutorial che potrebbero interessarti.
 {: .notice--info}
