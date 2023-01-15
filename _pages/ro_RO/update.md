@@ -58,7 +58,7 @@ Vei folosi +Control Pad-ul pentru a utiliza această unealtă.
 7. Press A to install the IOS58 `.wad` file. [`Asigură-te că instalația a avut success, altfel abandonează.`]
 8. După ce au fost instalate cu succes, apasă Butonul HOME pentru a ieși înapoi la Homebrew Channel.
 
-Instalarea unui fișier WAD de Meniu Wii va **șterge** Priiloader. Nu reporni până nu l-ai instalat din nou, altfel ai putea cauza un BRICK.
+**Do not return to the Wii menu yet, otherwise you could BRICK. Install [Priiloader](priiloader) first.**
 {: .notice--danger}
 
 [Continuă la Instalarea Priiloader](priiloader)<br> Priiloader adaugă un nivel de protecție anti-brick, și noi îl recomandăm.
