@@ -58,7 +58,7 @@ Servez-vous de la croix directionnelle pour utiliser cet outil.
 7. Appuyez sur A pour installer le fichier IOS58 `.wad`. [`Assurez-vous que l'installation est réussie, sinon abandonnée.`]
 8. Une fois qu'ils sont tous correctement installés, appuyez sur le bouton HOME pour revenir au Homebrew Channel.
 
-L'installation d'un WAD du menu Wii **supprimera** Priiloader. Ne redémarrez pas avant de l'installer à nouveau, sinon vous pourriez BRICK.
+**Do not return to the Wii menu yet, otherwise you could BRICK. Install [Priiloader](priiloader) first.**
 {: .notice--danger}
 
 [Continuer vers l'installation de Priiloader](priiloader)<br>.
