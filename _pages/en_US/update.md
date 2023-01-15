@@ -58,7 +58,7 @@ You use the +Control Pad to use this tool.
 7. Press A to install the IOS58 `.wad` file. [`Make sure the installation is successful, otherwise abort.`]
 8. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
-**Do not return to the Wii menu yet, otherwise you could BRICK. Install [Priiloader](priiloader)<br> first.**
+**Do not return to the Wii menu yet, otherwise you could BRICK. Install [Priiloader](priiloader) first.**
 {: .notice--danger}
 
 [Continue to Priiloader Installation](priiloader)<br>
