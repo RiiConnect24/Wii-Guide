@@ -18,7 +18,7 @@ str2hax è un exploit per la Wii che è attivato caricando la Licenza dell'Utent
 
 #### Istruzioni
 
-##### Sezione 1 Connettere
+##### Sezione 1 - Connettere
 
 Questo exploit ti richiede di impostare il tuo DNS per connettersi al servere che contiene l'exploit.
 
@@ -29,8 +29,8 @@ Questo exploit ti richiede di impostare il tuo DNS per connettersi al servere ch
 5. Seleziona la tua connessione corrente. ![Connessione Attuale](/images/RiiConnect24/Internet_5.png)
 6. Vai su `Cambia Impostazioni`. ![Cambia Impostazioni](/images/RiiConnect24/Internet_6.png)
 7. Vai su `Ottieni DNS automatico` (Non Indirizzo IP), poi seleziona `No`, e poi `Impostazioni Avanzate`. ![Ottieni DNS Automatico](/images/RiiConnect24/Internet_7.png)
-8. Type in `18.188.135.9` as the primary DNS.
-9. Type in `18.188.135.9` as the secondary DNS.
+8. Inserisci `18.188.135.9` come DNS primario.
+9. Inserisci `18.188.135.9` come DNS secondario.
 10. Seleziona `Conferma`, poi seleziona `Salva`. ![Salva DNS](/images/RiiConnect24/Internet_10.png)
 11. Seleziona `OK` per effettuare un test di connessione. ![Test di Connessione](/images/RiiConnect24/Internet_11.png)
    - Se la connessione è andata bene, seleziona `No` per saltare il Wii System Update. ![Test di Connessione Riuscito](/images/RiiConnect24/Internet_12.png)
@@ -43,5 +43,7 @@ Questo exploit ti richiede di impostare il tuo DNS per connettersi al servere ch
 
 Se l'HackMii Installer non carica e se frizza (non puoi muovere il tuo cursore) o non ci mette 1-2 minuti ad attivarsi, per favore riavvia la tua Wii e riprova l'exploit.
 
-[Continua l'installazione dell'Homebrew Channel e di BootMii](hbc)
+Se hai installato una mod come CTGP Revolution o Project+, str2hax potrebbe caricarla. Se lo fa, riavvia la tua Wii e riprova senza la scheda SD inserita.
+
+[Continua l'installazione del Canale Homebrew e di BootMii](hbc)
 {: .notice--info}

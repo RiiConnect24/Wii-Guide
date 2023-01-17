@@ -85,7 +85,8 @@ Başka tuşlar da bulunur:
 
 Ekranın orta altında, USB sürücünüzdeki boş alanı ve ne kadar oyununuz olduğunu görebilirsiniz.
 
-##### Gidebileceğiniz yerler
+[Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that USB Loader GX can integrate with. This is optional to set up.
+{: .notice--info}
 
 [Site haritasından devam edin](site-navigation)<br> Sevebileceğiniz pek çok öğreticiye daha sahibiz.
 {: .notice--info}

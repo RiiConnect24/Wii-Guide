@@ -7,12 +7,12 @@ title: "更新Wii菜单到4.3版本"
 如果你需要有关本教程的任何帮助, 请加入[RiiConnect24 Discord服务器](https://discord.gg/rc24) (推荐)或 [发送电子邮件到 support@riiconnect24.net](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
-本教程将告诉您如何将Wii菜单更新到4.3版本，由于Wii服务器不再工作，您无法使用Wii菜单内置的更新程序。
+This tutorial will explain how to update your Wii Menu to version 4.3, if you have already homebrewed your Wii.
 
 #### 你需要的是
+
 * 一张SD卡或U盘
 * 运行Windows的电脑
-* [IOS58 Installer](https://oscwii.org/library/app/ios58-installer)
 * [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest)
 * [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
@@ -34,7 +34,8 @@ title: "更新Wii菜单到4.3版本"
 3. 确保已勾选`Pack WAD`.
 4. 按`Start NUS Download!`.
 5. 打开`titles` -> `0000000100000002` -> (Wii菜单版本)并将.wad文件复制到SD卡或U盘的`wad`文件夹。
-6. (如果您有[RiiConnect24](riiconnect24), 您可以跳过此步) 重复步骤2-5并替换为`IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
+6. Repeat steps 2-5 with `IOS` -> `000000010000003A` -> `Latest Version`.
+7. (If you have [RiiConnect24](riiconnect24), you can skip this step) Repeat steps 2-5 with `IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
 
 | 区域 | Wii 菜单版本    |
 | -- | ----------- |
@@ -51,12 +52,14 @@ title: "更新Wii菜单到4.3版本"
 1. 将SD卡或U盘插入Wii。
 2. 启动Wii上的Homebrew Channel。
 3. 启动Wii Mod Lite。
-4. 使用Wii遥控器上的十字键，移动到`WAD Manager`， 然后移动到`wad` 文件夹。
-5. 按A安装IOS80. [`请确保安装成功，否则跳过。`]
+4. 使用Wii遥控器上的十字键移动到`WAD Manager`, 然后移动到`wad`文件夹。
+5. Press A to install the IOS80 `.wad` file. [`请确保安装成功，否则跳过。`]
 6. 按A以安装Wii菜单 WAD.
-7. 安装成功后，按HOME按钮返回Homebrew Channel。
-8. 启动 IOS58 Installer.
-9. 按照说明安装IOS58.
+7. Press A to install the IOS58 `.wad` file. [`请确保安装成功，否则跳过。`]
+8. 安装成功后，按HOME按钮返回Homebrew Channel。
 
-[继续安装Priiloader](priiloader)<br> Priiloader添加了一定程度的变砖保护，我们推荐它。
+Installing a Wii Menu WAD will **remove** Priiloader. Do not reboot before you have installed it again, otherwise you could BRICK.
+{: .notice--danger}
+
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it.
 {: .notice--info}

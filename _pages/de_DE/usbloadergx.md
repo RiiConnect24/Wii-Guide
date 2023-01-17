@@ -85,7 +85,8 @@ Es gibt auch andere Schaltflächen:
 
 Mittig am unteren Bildschirmrand kannst du sehen, wie viel Speicherplatz noch auf deinem USB-Laufwerk vorhanden ist, und wie viele Spiele zu besitzt.
 
-##### Möglichkeiten nach Abschluss
+[Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that USB Loader GX can integrate with. This is optional to set up.
+{: .notice--info}
 
 [Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
 {: .notice--info}

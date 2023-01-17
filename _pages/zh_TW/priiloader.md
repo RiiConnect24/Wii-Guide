@@ -15,14 +15,15 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your
 {: .notice--warning}
 
 #### What you need
-* An SD card or USB drive
-* [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+
+- An SD card or USB drive
+- [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
 #### Instructions
+
 ##### Section I - Downloading/Installing
 
-1. Download the Priiloader installer and extract it to your SD card or USB drive.
-    * If this folder does not exist, create it.
+1. Download the Priiloader installer and extract it to the root of your SD card or USB drive.
 
 ##### Section II - Installing Priiloader
 
@@ -33,7 +34,7 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your
 ##### Section III - Entering/Configuring Priiloader
 
 1. Hold the RESET button while turning on your Wii.
-    * If you are using a Wii mini, plug in a USB keyboard and hold Escape on it while turning it on.
+   - If you are using a Wii mini, plug in a USB keyboard and hold Escape on it while turning it on.
 
 ![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
 
@@ -75,7 +76,6 @@ This is a list of the hacks you can enable with Priiloader.
 | Lock System Menu with Black Screen      | Makes your Wii Menu load to a black screen, making you unable to use it. (Do not enable this) (Do not enable this) (Do not enable this)                                                                                                                                                                                                                                                                                                                                     |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Re-enable channels with these title IDs (originally blocked in system updates due to them being exploits).                                                                                                                                                                                                                                                                                                                                                                  |
 | Force Disc Games to run under IOS249    | Make discs use cIOS 249 as the game's IOS. While it cannot allow playing of burned games on its own, it is needed to play burned discs. (Can give you Error 002 on a non-burned game) While it cannot allow playing of burned games on its own, it is needed to play burned discs. (Can give you Error 002 on a non-burned game) While it cannot allow playing of burned games on its own, it is needed to play burned discs. (Can give you Error 002 on a non-burned game) |
-
 
 [Continue to the Dos and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
 {: .notice--info}

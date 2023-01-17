@@ -5,13 +5,13 @@ main:
     url: /
   - 
     title: Comença aquí
-    url: començar
+    url: get-started
   - 
     title: Navegació de la pàgina
     url: site-navigation
   - 
     title: Preguntes Freqüents
-    url: preguntes freqüents
+    url: faq
   - 
     title: Riiconnect24
     url: riiconnect24
@@ -33,7 +33,7 @@ footer:
     url: site-navigation
   - 
     title: Donacions
-    url: donacions
+    url: donations
 sidebar_title:
   - 
     title: Progrés General
@@ -43,13 +43,13 @@ sidebar_pages:
     url: /
   - 
     title: Preguntes Freqüents
-    url: preguntes freqüents
+    url: faq
   - 
     title: Donacions
     url: donacions
   - 
     title: Crèdits
-    url: crèdits
+    url: credits
   - 
     title: Riiconnect24
     url: riiconnect24

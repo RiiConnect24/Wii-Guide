@@ -5,7 +5,7 @@ title: "Creating Wii Game Shortcuts"
 {% include toc title="Continguts" %}
 
 Si necessites ajuda amb qualsevol cosa relacionada amb aquesta guia, uneix-te al [servidor de Discord de RiiConnect24](https://discord.gg/rc24) (recomanat) o [envia un correu electrònic a support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: . notícia--informació}
+{: .notice--info}
 
 Do you use a USB Loader and want to create game shortcuts to launch them on your Wii Menu? Then try WiiGSC (Wii Game Shortcut Creator), previously known as Crap.
 
@@ -15,7 +15,7 @@ In the case of a brick, [installing Priiloader is a must](/priiloader). Also, in
 Do NOT make a shortcut for the games "Mario Party 9" or "A Boy and His Blob". It will brick your Wii.
 {: .notice--warning}
 
-#### What you need
+#### Què necessitaràs?
 
 * A Wii
 * A USB drive.
@@ -31,4 +31,4 @@ Do NOT make a shortcut for the games "Mario Party 9" or "A Boy and His Blob". It
 4. Install the generated WAD with a WAD Manager, we recommend Wii Mod Lite.
 
 If you get an error saying "The system files are corrupted", don't panic as long as you installed Priiloader. Turn off your Wii, then hold down the RESET button down and turn on your Wii. You should be able to boot into the Priiloader menu, where you have some options to fix your Wii Menu. One of the options is to launch the Homebrew Channel.
-{: . notícia--informació}
+{: .notice--info}

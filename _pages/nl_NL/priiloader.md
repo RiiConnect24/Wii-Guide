@@ -15,27 +15,28 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). Dat zal resulteren 
 {: .notice--warning}
 
 #### Benodigdheden
-* Een SD-kaart of USB-stick/ harde schijf
-* [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+
+- Een SD-kaart of USB-stick/ harde schijf
+- [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
 #### Instructies
+
 ##### Deel I - Downloaden/Installeren
 
-1. Download the Priiloader installer and extract it to your SD card or USB drive.
-    * If this folder does not exist, create it.
+1. Download the Priiloader installer and extract it to the root of your SD card or USB drive.
 
 ##### Deel II - Het installeren van Priiloader
 
 1. Open het Homebrew Kanaal op uw Wii.
 2. Launch the Priiloader installer.
-3. Press the + Button on Wii Remote or the A Button on a GameCube controller. ![Install Priiloader](/images/Priiloader/installer.png) ![Installing](/images/Priiloader/installing.png)
+3. Press the + Button on Wii Remote or the A Button on a GameCube controller. ![Install Priiloader](/images/Priiloader/installer.png) ![Installeren](/images/Priiloader/installing.png)
 
 ##### Deel III - Openen en het Configureren van Priiloader
 
 1. Hold the RESET button while turning on your Wii.
-    * If you are using a Wii mini, plug in a USB keyboard and hold Escape on it while turning it on.
+   - If you are using a Wii mini, plug in a USB keyboard and hold Escape on it while turning it on.
 
-![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
+![Inschakelen](/images/Priiloader/on.jpg) ![Houd RESET ingedrukt](/images/Priiloader/reset.jpg)
 
 2. You should see the Priiloader menu. ![Menu](/images/Priiloader/mainmenu.png)
 3. Go to `System Menu Hacks`.
@@ -72,10 +73,9 @@ This is a list of the hacks you can enable with Priiloader.
 | OSReport to UsbGecko(GeckoOS,B)         | Sends Wii Menu logs to a debugging device in memory card slot B, if the Wii Menu is launched by Gecko OS.                                                                             |
 | Force Standard Recovery Mode            | Automatically launches the console in recovery mode. Used to launch recovery discs, letting users unbrick their Wii systems.                                                          |
 | Remove Diagnostic Disc Check            | Removes a check in the Wii to see if an inserted game matches the title ID of the "Wii Startup Disc".                                                                                 |
-| Lock System Menu with Black Screen      | Makes your Wii Menu load to a black screen, making you unable to use it. (Do not enable this)                                                                                         |
+| Lock System Menu with Black Screen      | Makes your Wii Menu load to a black screen, making you unable to use it. (Dit niet inschakelen)                                                                                       |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Re-enable channels with these title IDs (originally blocked in system updates due to them being exploits).                                                                            |
 | Force Disc Games to run under IOS249    | Make discs use cIOS 249 as the game's IOS. While it cannot allow playing of burned games on its own, it is needed to play burned discs. (Can give you Error 002 on a non-burned game) |
-
 
 [Continue to the Dos and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
 {: .notice--info}

@@ -65,8 +65,8 @@ sitemap: false
 
 **Site**
 + [Home](/)
-+ [Ξεκινώντας](ξεκινώντας)
-+ [Συχνές ερωτήσεις](συχνές ερωτήσεις)
++ [Ξεκινώντας](get-started)
++ [Συχνές ερωτήσεις](faq)
 + [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>

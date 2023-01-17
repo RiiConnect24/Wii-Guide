@@ -30,7 +30,7 @@ If you have an older version of Priiloader or don't have it installed, follow [t
 1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
 2. Go to `System Menu Hacks`.
 3. Make sure the `Wiimmfi patch v4` hack is enabled.
-4. Save settings and exit.
+4. Instellingen opslaan en afsluiten.
 
 If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
 {: .notice--waarschuwing}
@@ -57,7 +57,7 @@ Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for th
 
 #### Instructies
 
-1. Insert your game disc.
+1. Voer uw gameschijf in.
 2. Go into your internet connection settings and set the DNS server of your console to 95.217.77.151.
 3. Go to the WC24 contract information (third button after clicking on "Internet" in the settings).
 4. Confirm that you do want to use WC24 and the shop channel
@@ -98,14 +98,14 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 [If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
 {: .notice--info}
 
-Steps:
+Stappen:
 1. Extract the .zip of the latest version of WiiWare Patcher, and put your WAD in it.
 2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
 3. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
 
-## Other stuff
+## Andere dingen
 
-### Mario Kart Wii Competitions
+### Mario Kart Wii competities
 Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
 #### Benodigdheden
@@ -115,7 +115,7 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
    - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
    - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
-#### Instructions (for Wii)
+#### Instructies (voor Wii)
 
 1. Extract Mario Kart Wii Competition Patcher and put it in the `apps` folder on your SD Card.
 2. Insert your SD card or USB drive into the Wii.
@@ -127,7 +127,7 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 If you're using the Wii U, you will have to run the competitions patcher whenever you want to check for a competition, because WiiConnect24 is not enabled on the Wii U.
 {: .notice--info}
 
-### DS Games
+### DS Spellen
 Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks to an exploit called nds-constraint, you can play DS games online without patching your games.
 
 #### Benodigdheden
@@ -140,7 +140,7 @@ Getting a Wi-Fi network with WEP or no security is the hardest part, because DS 
 #### Instructies
 
 1. Go in the Nintendo DS Wi-Fi settings. This can be accessed inside the game you want to play online with.
-2. Set up a connection.
+2. Maak een verbinding.
 3. Type in `167.86.108.126` as the primary DNS.
 4. Type in `1.1.1.1` as the secondary DNS.
 5. Save your connection settings and perform a connection test. If it's successful, then you're ready to play.

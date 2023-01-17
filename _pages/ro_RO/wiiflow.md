@@ -88,5 +88,8 @@ Când aduci cursorul în partea de jos a ecranului în timp ce ești în vizuali
 [WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki este o resursă grozavă cu informații despre WiiFlow.
 {: .notice--info}
 
+[Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that WiiFlow Lite can integrate with. This is optional to set up.
+{: .notice--info}
+
 [Continuă la navigarea site-ului](site-navigation)<br> Avem multe alte tutoriale care s-ar putea să-ți placă.
 {: .notice--info}

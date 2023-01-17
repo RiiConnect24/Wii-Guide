@@ -16,7 +16,7 @@ Kaikki exploitit käynnistävät HackMii Installer:in, ja niillä on sama lopput
 Vaikka voit seurata tätä opasta ilman SD-korttia, et voi tehdä tai palauttaa NAND-varmuuskopiota BootMii:n avulla, etkä voi käyttää joitain homebrew-sovelluksia.
 {: .notice--info}
 
-If your Wii Menu is not on version 4.3, use str2hax or FlashHax to mod your Wii. When you are finished following the guide, follow [the update guide](update) to update your Wii Menu to version 4.3.
+If your Wii Menu is not on version 4.3, use str2hax or FlashHax to install the Homebrew Channel, and then follow the [update guide](update) to update to 4.3.
 {: .notice--info}
 
 This guide is for the original Wii and Wii mini only (including the Wii Family Edition). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).

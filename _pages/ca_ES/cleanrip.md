@@ -18,7 +18,7 @@
 1. Set it as shown on the screen below.
 
 If you are dumping one of the 13 games on [this list](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games), set `Dual Layer` to `Yes`.
-{: . notícia--informació}
+{: .notice--info}
 
 ![Configuració](/images/CleanRip/6.png)
 1. CleanRip descarregarà el teu joc. It can take a while, since it will dump the full 4.7 GB disc contents (8.5 GB for dual layer discs). ![Copiant](/images/CleanRip/7.png)

@@ -5,38 +5,38 @@ title: "WiiFlow"
 {% include toc title="Continguts" %}
 
 Si necessites ajuda amb qualsevol cosa relacionada amb aquesta guia, uneix-te al [servidor de Discord de RiiConnect24](https://discord.gg/rc24) (recomanat) o [envia un correu electrònic a support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: . notícia--informació}
+{: .notice--info}
 
 ![WiiFlow](/images/wiiflowlogo.png)
 
 This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that's used to play games from a USB drive or SD card.
 
-#### What you need
+#### Què necessitaràs?
 
 * A Wii
 * A USB drive and/or SD card
 * [WiiFlow Lite](https://hbb1.oscwii.org/hbb/wiiflow/wiiflow.zip)
 
 Make sure you have installed [cIOS](/cios) before following this!
-{: . notícia--informació}
+{: .notice--info}
 
 We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux.
-{: . notícia--informació}
+{: .notice--info}
 
 If you want to play games that are in NKit format, use [this program](https://gbatemp.net/download/nkit.36157/) to convert them to ISO first. You can also use a development build of Dolphin, right click on a game, and use "Convert File" to convert it.
-{: . notícia--informació}
+{: .notice--info}
 
 If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fusion, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
-{: . notícia--informació}
+{: .notice--info}
 
 To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
-{: . notícia--informació}
+{: .notice--info}
 
 Unlike USB Loader GX, WiiFlow can load games of an SD card.
-{: . notícia--informació}
+{: .notice--info}
 
 Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
-{: . notícia--informació}
+{: .notice--info}
 
 #### Instruccions
 
@@ -48,7 +48,7 @@ Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Do not fo
 ##### Getting Started
 
 This is not a full comprehensive guide on using WiiFlow. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow by using it.
-{: . notícia--informació}
+{: .notice--info}
 
 * WiiFlow by default is set to only find games on the SD card. This can be changed by going in to settings, startup settings then turn off "Mount SD Only".
 * You can toggle between viewing Wii games, GameCube games, Wii Channels, Plugins, Homebrew apps by clicking the button second to last button on the right.
@@ -86,7 +86,10 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 ##### Options once complete
 
 [WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki is a great resource with information about WiiFlow.
-{: . notícia--informació}
+{: .notice--info}
+
+[Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that WiiFlow Lite can integrate with. This is optional to set up.
+{: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
-{: . notícia--informació}
+{: .notice--info}

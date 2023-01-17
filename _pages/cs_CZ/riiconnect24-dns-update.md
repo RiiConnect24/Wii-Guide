@@ -1,23 +1,32 @@
 ---
-title: "RiiConnect24 DNS Update"
+title: "Nová DNS adresa služeb RiiConnect24"
 ---
 
-Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte se na [RiiConnect24 Discord server](https://discord.gg/rc24) (doporučeno) nebo [nám napište e-mail](mailto:support@riiconnect24.net).
+Pokud potřebujete pomoct s čímkoliv, co se týká tohoto tutoriálu, přidejte se na [RiiConnect24 Discord server](https://discord.gg/rc24) (doporučeno) nebo [nám napište e-mail](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![RiiConnect24 Logo](/images/logo_blue_warning.png)
 
-Starting June 16th, 2022, our official DNS Address changes!
+Our official DNS Address has been updated. We require all users to change it. Failure in doing so will result in losing access to most or every RiiConnect24 service.
 
-About a year ago we bought a new VPS that allowed us to serve our service better to the ever so growing community. Our DNS was the last thing to update.
+Stará DNS adresa bude funkční až do data `terminace`. Datum ukončení podpory staré DNS vám zavčas připomeneme dopisem ve WiiMail a také oznámením na našem [discord serveru](https://discord.gg/rc24).
 
-The old address will be supported until it's `DEPRECATION` date. We will remind you using Wii Mail or our [Discord server](https://discord.gg/rc24) about the need to change the DNS Address in the next few months.
+We've restricted access to Forecast Channel and News Channel for users still using the old DNS Address. Users will also see a new EULA when trying to enable WiiConnect24 reminding them about the change. ![The notification on the EULA confirmation screen.](/images/eula_change_dns_notification.png) ![The notification on the Forecast Channel](/images/forecast_change_dns_notification.png) ![The notification on the News Channel](/images/news_channel_change_dns_notification.png)
 
-Here are the new DNS settings that you should enter in your Wii and your DS:
+To update your entered DNS Address please follow these steps:
 
-- 167.86.108.126 should be your primary DNS.<br>
-- 1.1.1.1 should be your secondary DNS.
+1. Přejděte do `Wii Options`.
+2. Přejděte do `Wii Settings`.
+3. Na druhé stránce nastavení zvolte `Internet`.
+4. Go to `Connection Settings`
+5. Select your current connection
+6. Go to `Change Settings`
+7. Přejděte do `Auto-Obtain DNS` (pozor, ne IP Address), poté zvolte `No`, poté `Advanced Settings`.
+8. Type in `167.86.108.126` as the primary DNS
+9. Type in `1.1.1.1` as the secondary DNS
+10. Select `Confirm`, then select `Save`
+11. Select `OK` to perform a connection
+12. Pokud byl test připojení úspěšný, zvolte `No`, abyste odmítnuli Wii System Update.
 
-Avoid using the old DNS, it will become `DEPRECATED` on June 1st, 2023.
-
-Thank you for your support, RiiConnect24 Team.
+The old DNS Server will stop working on `June 1st, 2023`.
+{: .notice--warning}

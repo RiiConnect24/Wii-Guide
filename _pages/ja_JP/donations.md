@@ -1,5 +1,5 @@
 ---
-title: "Donations"
+title: "寄付"
 ---
 
 [![PayPal]({{ base_path }}/images/paypal_white.png){:height="72px" width="256px"}{: style="padding-bottom: .35em"}](https://www.paypal.me/RiiConnect){: .align-center}

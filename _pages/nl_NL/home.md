@@ -34,7 +34,7 @@ Here's a list of things you can do using homebrew. While this list is by no mean
 - Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
 
 
-## Ready?
+## Klaar?
 
 Get started by [choosing your exploit](get-started)!
 {: .notice--info}

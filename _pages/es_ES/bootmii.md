@@ -37,7 +37,7 @@ Si has instalado BootMii como boot2, apaga y vuelve a encender la consola para i
 4. Elige la opción de la flecha verde.
 - A continuación se empezará a crear el respaldo de la NAND. Puedes ver el progreso en pantalla.
 - Los bloques defectuosos (que se muestran en negro) son normales, así que no te preocupes si ves algunos mientras se genera el respaldo.
-- Después de que el respaldo haya sido creado, este será analizado en busca de errores. Aunque se recomienda realizarlo, este paso es opcional y puedes saltarlo pulsando el botón EJECT en la consola. Note that if you have a disc inserted in the disc drive, pressing EJECT will also eject the disc.
+- Después de que el respaldo haya sido creado, este será analizado en busca de errores. Aunque se recomienda realizarlo, este paso es opcional y puedes saltarlo pulsando el botón EJECT en la consola. Tenga en cuenta que si pulsa el botón EJECT y tiene un disco insertado, este también será expulsado.
 5. Una vez que el proceso haya finalizado, vuelve al menú anterior pulsando cualquier botón.
 6. Selecciona el botón con la flecha negra y después el logotipo de Wii o el Canal Homebrew para salir de BootMii y volver a donde desees.
 

@@ -2,7 +2,7 @@
 title: "Canal Open Shop (Homebrew Browser)"
 ---
 
-Si necesitas ayuda para algo relacionado con este tutorial, únete [al servidor de Discord de RiiConnect24](https://discord.gg/osc) (recomendado) o [envíanos un correo electrónico a support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si necesitas ayuda para algo relacionado con este tutorial, únete [al servidor de Discord del Open Shop Channel](https://discord.gg/osc) (recomendado) o [envíanos un correo electrónico a support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Homebrew Browser, el software en el que el Canal Open Shop está basado, funciona pero puedes tener bugs. También puedes obtener aplicaciones homebrew con [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) o [el sitio web del Canal Open Shop](https://oscwii.org/).

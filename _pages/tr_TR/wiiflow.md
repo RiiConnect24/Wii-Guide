@@ -88,5 +88,8 @@ Akış görünümündeyken, imleci ekranın altına getirirseniz, şu 6 simgeyi 
 [WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki, WiiFlow hakkında bilgi edinilebilecek harika bir kaynaktır.
 {: .notice--info}
 
+[Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that WiiFlow Lite can integrate with. This is optional to set up.
+{: .notice--info}
+
 [Site haritasından devam edin](site-navigation)<br> Sevebileceğiniz pek çok öğreticiye daha sahibiz.
 {: .notice--info}

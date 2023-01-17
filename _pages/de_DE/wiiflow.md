@@ -88,5 +88,8 @@ Wenn du den Zeiger an den unteren Rand des Bildschirms in der Flow-Ansicht beweg
 [WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki ist eine großartige Quelle mit Informationen über WiiFlow.
 {: .notice--info}
 
+[Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that WiiFlow Lite can integrate with. This is optional to set up.
+{: .notice--info}
+
 [Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
 {: .notice--info}

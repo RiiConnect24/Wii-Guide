@@ -77,12 +77,12 @@ Si vous n'avez pas pus patché votre nwc24msg.cfg correctement, veuillez rejoind
 ##### Section IV - Se connecter
 
 {% capture notice-1 %}
-Starting June 16th, 2022 the RiiConnect24 DNS changes. Read more: [here.](riiconnect24-dns-update)
+À partir du 16 juin 2022, le DNS RiiConnect24 change. En savoir plus: [ici.](riiconnect24-dns-update)
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-You will now set your DNS to our servers. This is optional but it's recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
+Vous allez maintenant configurer votre DNS vers nos serveurs. Cette option est facultative, mais elle est recommandée, car elle améliore l'utilisation de RiiConnect24 et Wiimmfi en rendant certaines autres fonctionnalités disponibles.
 
 1. Allez dans les `Options Wii`.
 2. Allez dans `Paramètres Wii`.
@@ -91,8 +91,8 @@ You will now set your DNS to our servers. This is optional but it's recommended,
 5. Sélectionnez votre connexion actuelle.
 6. Cliquez sur `Changer`.
 7. Allez dans `Obtention automatique d'un DNS` (pas de l'adresse IP), puis sélectionnez `Non`, puis `Paramètres Avancés`.
-8. Type in `167.86.108.126` as the primary DNS.
-9. Type in `1.1.1.1` as the secondary DNS.
+8. Tapez `167.86.108.126` comme DNS primaire.
+9. Tapez `1.1.1.1` comme DNS secondaire.
 10. Sélectionnez `Confirmer`, puis `Sauvegarder`.
 11. Appuyez sur `OK` pour effectuer un test de connexion.
 12. Si le test de connexion est réussi, sélectionnez `Non` afin d'ignorer la mise à jour système Wii.
@@ -101,29 +101,29 @@ You will now set your DNS to our servers. This is optional but it's recommended,
 15. Dans `Slot Illumination`, nous recommandons de mettre le voyant du disque sur `Dim` ou `Bright`, mais c'est facultatif.
 16. Enfin, allez dans la section `Internet`, puis `User Agreements` ou `Agreement/Contact`, puis `Yes`. Veuillez lire le texte affiché.
 
+Il est courant d'obtenir l'erreur FORE000006 sur le canal de prévision après avoir installé RiiConnect24. Si vous l'obtenez, assurez-vous que votre Wii est à la bonne date et heure puis n'attendez pas plus d'une heure et il peut commencer à travailler. [Si vous obtenez toujours une erreur FORE000006 ou si vous recevez NEWS000006, vous devrez supprimer votre SYSCONF avec RC24-Clear-Tool].
+{: .notice--warning}
+
+Vous obtiendrez une erreur 268503 lors du chargement de la Chaîne Nintendo. C'est normal. Vous pouvez contourner l'erreur en appuyant sur OK.
+{: .notice--warning}
+
+Si vous obtenez l'erreur 107245, vous n'avez pas installé l'IOS corrigé. Assurez-vous d'installer IOS31 et IOS80 avec Wii Mod Lite, avec tous les autres WADs patchés.
+{: .notice--warning}
+
+Si vous obtenez l'erreur 107304 ou si vous voyez le contrat d'utilisation de Nintendo sans le logo de RiiConnect24, cela signifie que votre FAI (fournisseur d'accès Internet) ou votre réseau bloque l'utilisation d'un DNS. Vous pouvez définir `optention automatique DNS` sur `On` pour résoudre ce problème. RiiConnect24 fonctionnera toujours sans elle. Ou, vous pouvez utiliser notre programme [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest).
+{: .notice--warning}
+
+[Si vous obtenez d'autres erreurs avec la Chaîne de Prévisions ou la Chaîne Infos, comme un code d'erreur commençant par FORE ou NEWS ou un message interrompu, vous pouvez essayer de supprimer vos VFFs avec RC24-Clear-Tool](deleting-vffs).
+{: .notice--warning}
+
+Si vous obtenez des erreurs telles que `WiiConnect24 et la chaîne boutique Wii ne sont actuellement pas disponibles dans votre pays`, allez dans Paramètres Wii - > Dernière page -> Pays et remplacez-le par Royaume-Uni. Vous obtiendrez cette erreur lorsque vous utilisez un pays que nous ne prenons pas en charge. Contactez-nous à [support@riiconnect24.net](mailto:support@riiconnect24.net) si vous avez besoin d'aide supplémentaire.
+{: .notice--warning}
+
 [Continuer vers Wiimmfi](wiimmfi)<br> Wiimmfi vous permet de jouer à des jeux en ligne après l'arrêt de la connexion Wi-Fi Nintendo. L'installation est facultative.
 {: .notice--info}
 
-[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. L'installation est facultative.
+[Continué vers wiilink](wiilink)<br> Wiilinl vous permet d'utiliser les chaînes exclusive japonais comme Wii no Ma et la chaîne Digicam Print. L'installation est facultative.
 {: .notice--info}
 
 [Continuer vers la navigation du site](site-navigation)<br> Nous avons de nombreux autres tutoriels que vous pourriez aimer.
 {: .notice--info}
-
-If you get error 107245, then you have not installed the patched IOS.
-{: .notice--warning}
-
-If you get error 107304 or you see Nintendo's User Agreement without RiiConnect24's logo, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
-{: .notice--warning}
-
-Si vous obtenez une erreur FORE000006, l'horloge de votre Wii est probablement mal réglée. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel may start working.
-{: .notice--warning}
-
-[If you still get FORE000006 or if you get NEWS000006, you will need to delete your SYSCONF with rc24-clear-tool](https://github.com/RiiConnect24/rc24-clear-tool/releases/latest).
-{: .notice--warning}
-
-[If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with rc24-clear-tool.](deleting-vffs)
-{: .notice--warning}
-
-If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
-{: .notice--warning}

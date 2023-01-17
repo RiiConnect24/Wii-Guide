@@ -5,11 +5,11 @@ title: RiiTag on Wii U
 {% include toc title="Continguts" %}
 
 Si necessites ajuda amb qualsevol cosa relacionada amb aquesta guia, uneix-te al [servidor de Discord de RiiConnect24](https://discord.gg/rc24) (recomanat) o [envia un correu electrònic a support@riiconnect24.net](mailto:support@riiconnect24.net).
-{: . notícia--informació}
+{: .notice--info}
 
 RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You launch a plugin on your Wii U console, and the tag updates on-the-fly.
 
-#### What you need
+#### Què necessitaràs?
 
 - A device capable of interacting with SD cards
 - Softmodded Wii U console
@@ -53,7 +53,7 @@ Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
 ##### Section IV - Running on startup (optional)
 
 We will now setup Wii U Plugin Loader to run on startup with your Wii U. **This only works if you are using or willing to use Coldboot Haxchi.** You will still have to turn on UTag and press + on the Wii U GamePad to be kicked into the Wii U Menu on startup.
-{: . notícia--informació}
+{: .notice--info}
 
 1. Extract the Coldboot Haxchi mod `.zip` file to the root of your SD card.
    - If your computer asks to replace, select Replace All.
@@ -73,5 +73,5 @@ You have now set up RiiTag on your Wii U! Now go play some games, and watch them
 {: .notice--success}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
-{: . notícia--informació}
+{: .notice--info}
 
