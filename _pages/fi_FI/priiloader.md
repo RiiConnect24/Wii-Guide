@@ -15,14 +15,15 @@ Priiloader lisää tason brick suojausta sinun Wiille. Se käynnistyy ennen Wii 
 {: .notice--warning}
 
 #### Mitä tarvitset
-* SD-kortti tai USB-asema
-* [Priiloader-asennusohjelma](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+
+- SD-kortti tai USB-asema
+- [Priiloader-asennusohjelma](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
 #### Ohjeet
+
 ##### Osa I - Lataaminen/Asentaminen
 
-1. Download the Priiloader installer and extract it to your SD card or USB drive.
-    * If this folder does not exist, create it.
+1. Download the Priiloader installer and extract it to the root of your SD card or USB drive.
 
 ##### Osa II - Priiloaderin asentaminen
 
@@ -33,7 +34,7 @@ Priiloader lisää tason brick suojausta sinun Wiille. Se käynnistyy ennen Wii 
 ##### Osa III - Priiloaderiin meneminen/konfigurointi
 
 1. Pidä RESET-painiketta pohjassa, käynnistäessä Wiisi.
-    * Jos käytät Wii miniä, kytke USB-näppäimistö ja pidä Escape-näppäintä pohjassa käynnistäessäsi sen.
+   - Jos käytät Wii miniä, kytke USB-näppäimistö ja pidä Escape-näppäintä pohjassa käynnistäessäsi sen.
 
 ![Ota käyttöön](/images/Priiloader/on.jpg) ![Pidä RESET nappia pohjassa](/images/Priiloader/reset.jpg)
 
@@ -75,7 +76,6 @@ Tämä on lista muokkauksista, joita voit ottaa käyttöön Priiloaderin avulla.
 | Lukitse järjestelmävalikko mustalla näytöllä       | Tekee Wii Menun lataamaan mustaan ruutuun, jolloin et voi käyttää sitä. (Älä ota tätä käyttöön)                                                                                                                 |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx            | Hyväksy kanavat näillä ID:illä (blockattu system päivityksissä).                                                                                                                                                |
 | Pakota Levyllä Olevat Pelit pysymään IOS249:n alla | Tee levyt käyttämään cIOS 249:ää pelin IOS:nä. Vaikka se ei voi sallia käynnistää burnattuja pelejä yksin, se tarvitaan jotta voit käynnistää burnattuja levyjä. (Voi antaa virheen 002 ei-burnatuissa pelissä) |
-
 
 [Continue to the Dos and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
 {: .notice--info}
