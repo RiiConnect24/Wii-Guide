@@ -15,14 +15,15 @@ Ti preghiamo di **non** installare Priiloader su una Virtual Wii (modalità Wii 
 {: .notice--warning}
 
 #### Di cosa hai bisogno
-* Una scheda SD o chiavetta USB
-* [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+
+- Una scheda SD o chiavetta USB
+- [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
 #### Istruzioni
+
 ##### Sezione 1 - Scaricare/Installare
 
-1. Download the Priiloader installer and extract it to your SD card or USB drive.
-    * If this folder does not exist, create it.
+1. Download the Priiloader installer and extract it to the root of your SD card or USB drive.
 
 ##### Sezione 2 - Installare Priiloader
 
@@ -33,7 +34,7 @@ Ti preghiamo di **non** installare Priiloader su una Virtual Wii (modalità Wii 
 ##### Sezione 3 - Entrare/Configurare Priiloader
 
 1. Tieni premuto il tasto RESET mentre stai avviando la tua Wii.
-    * Se stai usando una Wii mini, collega una tastiera USB e premi premuto ESC mentre la stai avviando.
+   - Se stai usando una Wii mini, collega una tastiera USB e premi premuto ESC mentre la stai avviando.
 
 ![Accendere](/images/Priiloader/on.jpg) ![Tenere premuto RESET](/images/Priiloader/reset.jpg)
 
@@ -75,7 +76,6 @@ Questa è una lista di hack che puoi attivare con Priiloader.
 | Lock System Menu with Black Screen      | Fa avviare il menu Wii con una schermata nera, rendendo impossibile utilizzarlo. (Non abilitare questa opzione)                                                                                                                          |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Re-abilita l'utilizzo di canali con questi title ID (normalmente bloccati negli aggiornamenti della console per essere degli exploits).                                                                                                  |
 | Force Disc Games to run under IOS249    | Imposta il cIOS 249 come l'IOS del gioco avviato da un disco. Mentre questo non può abilitare giocare a giochi masterizzati in casa, è necessario per giocare dischi masterizzati. (Può darti l'errore 002 su un gioco non masterizzato) |
-
 
 [Continua con le cose da fare e cose da non fare nel modding Wii](dosanddonts)<br> Queste sono alcune linee guida per assicurarti di non brickare il Wii.
 {: .notice--info}
