@@ -15,14 +15,15 @@ PriiloaderをvWii（Wii UのWii モード）にインストール**しないで�
 {: .notice--warning}
 
 #### 必要なもの
-* SDカードまたはUSBドライブ
-* [Priiloaderインストーラ](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+
+- SDカードまたはUSBドライブ
+- [Priiloaderインストーラ](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
 #### 手順
+
 ##### セクション I - ダウンロードとインストール
 
-1. Download the Priiloader installer and extract it to your SD card or USB drive.
-    * If this folder does not exist, create it.
+1. Download the Priiloader installer and extract it to the root of your SD card or USB drive.
 
 ##### セクション II - Priiloaderのインストール
 
@@ -33,7 +34,7 @@ PriiloaderをvWii（Wii UのWii モード）にインストール**しないで�
 ##### セクション III - Priiloaderの起動・設定
 
 1. Wiiの電源を入れるときにRESETボタンを押し続けます。
-    * （Wii mini省略）
+   - （Wii mini省略）
 
 ![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
 
@@ -75,7 +76,6 @@ PriiloaderをUSB ドライブからインストールする場合は、ここで
 | Lock System Menu with Black Screen      | Wiiメニューで黒い画面を読込み、使用できなくします。 （有効にしないでください）                                                                    |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | これらのタイトルIDを持つチャンネルを再度有効にします（エクスプロイトの原因だったため更新で無効化されたものです）。                                                   |
 | Force Disc Games to run under IOS249    | ゲームディスクにゲームIOSとしてcIOS249を使用させます。 これ自体ではディスクゲームのプレイはできませんが、プレイに必要となることがあります。 （ディスクゲーム以外でError 002を起こすことがあります） |
-
 
 [Wii改造のマストとタブーに進む](dosanddonts)<br> 確実にWiiのブリックを避けるためのガイドラインです。
 {: .notice--info}
