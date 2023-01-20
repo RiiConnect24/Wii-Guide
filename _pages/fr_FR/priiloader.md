@@ -15,14 +15,15 @@ N'installez ** pas ** Priiloader sur une vWii (mode Wii sur Wii U). Cela se trad
 {: .notice--warning}
 
 #### Ce dont vous avez besoin
-* Une carte SD ou un périphérique USB
-* [Le programme d'installation de Priiloader](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+
+- Une carte SD ou un périphérique USB
+- [Le programme d'installation de Priiloader](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
 #### Instructions
+
 ##### Section I - Téléchargement et installation
 
-1. Download the Priiloader installer and extract it to your SD card or USB drive.
-    * If this folder does not exist, create it.
+1. Download the Priiloader installer and extract it to the root of your SD card or USB drive.
 
 ##### Section II - Installation de Priiloader
 
@@ -33,7 +34,7 @@ N'installez ** pas ** Priiloader sur une vWii (mode Wii sur Wii U). Cela se trad
 ##### Section III - Configuration de Priiloader
 
 1. Maintenez le bouton RESET enfoncé tout en allumant votre Wii.
-    * Si vous utilisez une Wii Mini, branchez un clavier USB et maintenez la touche Échap tout en l'allumant.
+   - Si vous utilisez une Wii Mini, branchez un clavier USB et maintenez la touche Échap tout en l'allumant.
 
 ![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
 
@@ -75,7 +76,6 @@ Voici la liste des hacks que vous pouvez activer avec Priiloader.
 | Lock System Menu with Black Screen      | Fait en sorte que votre Menu Wii soit coincé sur un écran noir, le rendant inutilisable. (Ne pas activer cela)                                                                                                                               |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Réactive les chaînes qui ont ces identifiants (et qui ont été bloquées par des mises à jour système car elles étaient des exploits).                                                                                                         |
 | Force Disc Games to run under IOS249    | Force les applications disque à utiliser le cIOS 249 comme IOS du jeu. Bien que cela ne permettre pas de jouer à des jeux gravés en soi, c'est nécessaire pour lire des disques gravés. (Peut vous donner l'erreur 002 sur un jeu non brûlé) |
-
 
 [Continue to the Dos and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
 {: .notice--info}
