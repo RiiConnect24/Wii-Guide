@@ -5,23 +5,68 @@ title: "Dumping Wii/GameCube games"
 Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">To a PC over the network</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'dump-smb')">To a PC over the network</button>
 
-{% capture cleanripInstructions %}
+<div id="cleanrip" class="blanktabcontent" markdown="1">
 
-### Cleanrip guide
+### CleanRip
 
-{% include_relative cleanrip.md %}
-{% endcapture %}
+#### Què necessitaràs?
 
-{% capture networkInstructions %}
+- An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
+- [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
+
+#### Instruccions
+
+##### Secció 1 - Descarregar/Instalar
+
+1. Extrau CleanRip i posa-ho a la carpeta `apps` a la teua tarjeta SD o Pendrive.
+1. Introdueix la teva tarjeta SD a la teva Wii, i obriu CleanRip des-del canal Homebrew.
+
+##### Secció 2 - Ripping
+
+1. Selecciona el teu dispositiu al que descarregaràs el joc - l'USB O la tarjeta SD. ![Tipus de dispositiu](/images/CleanRip/2.png)
+1. A aquesta pantalla, et pregunta si vols descarregar una arxiu amb xecs per a que pugues verificar que s'ha creat una còpia perfecta del disc. És la teva decisió decidir si dir `Si` or `No` a descarregar aquest arxiu. ![DAT](/images/CleanRip/3.png)
+1. Ara inserts el joc que vols descarregar. ![DVD](/images/CleanRip/4.png) ![Initialitzant el Disc](/images/CleanRip/5.png)
+1. Set it as shown on the screen below.
+If you are dumping one of the 13 games on [this list](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games), set `Dual Layer` to `Yes`.
+{: .notice--info}
+![Configuració](/images/CleanRip/6.png)
+
+1. CleanRip descarregarà el teu joc. It can take a while, since it will dump the full 4.7 GB disc contents (8.5 GB for dual layer discs). ![Copiant](/images/CleanRip/7.png)
+</div>
+
+<div id="dump-smb" class="blanktabcontent" markdown="1">
 
 ### Dumping a game over a local network
 
-{% include_relative dump-smb.md %}
-{% endcapture %}
+#### Què necessitaràs?
 
-### Joining split files
+- [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
+Your Wii and your computer must be connected to one local network.
+{: .notice--warning}
+
+#### Instruccions
+
+##### Secció 1 - Descarregar/Instalar
+
+1. Extract DVD Dump Tool and put it in the `apps` folder on your SD card or USB drive.
+1. Insert your SD card into your Wii, and launch DVD Dump Tool from the Homebrew Channel.
+
+##### Secció 2 - Ripping
+
+1. Press the right on the D-pad and press A. ![2](/images/DumpDiscs_LAN/2.png)
+1. Choose the disc that you want to copy (The options are: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` and press "A" ![3](/images/DumpDiscs_LAN/3.png)
+1. Now put your game to your Wii. (If it's already in your Wii, eject it and put it back.) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
+1. Remember your Wii URL (IP address) ![5](/images/DumpDiscs_LAN/5.png)
+1. On your computer's web browser, go to your address bar and enter the Wii URL. ![6](/images/DumpDiscs_LAN/6.png)
+1. Click on `Click here to download XXXX.iso`. ![7](/images/DumpDiscs_LAN/7.jpg)
+The transfer speed is not the fastest, but if you can't use anything else, it's better than nothing.
+{: .notice--info}
+![8](/images/DumpDiscs_LAN/8.PNG)
+</div>
+
+## Joining split files
 
 If you dumped the disc on a FAT32 formatted, device, you should've got at least 2 files that end with `.partX.iso`. They need to be joined up.
 {: .notice--info}
@@ -40,8 +85,8 @@ If you dumped the disc on a FAT32 formatted, device, you should've got at least 
 1.  Use the `cd <path>` command and replace `<path>` by the path to your `.partX.iso` files.
 1.  Use the following command as is: `cat \*.part?.iso > game.iso`.
 
-<div id="cleanrip" class="blanktabcontent">{{ cleanripInstructions | markdownify }}</div>
-<div id="network" class="blanktabcontent">{{ networkInstructions | markdownify }}</div>
+To organize the games on your drive properly, you'll need to use [Wii Backup Manager](wiibackupmanager).
+{: .notice--info}
 
 <script>
     let tabcontent = document.getElementsByClassName("blanktabcontent");
