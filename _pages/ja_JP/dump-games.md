@@ -8,14 +8,37 @@ title: "Wii・ゲームキューブソフトのバックアップ"
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'network')">ネットワーク経由でパソコンに保存</button>
 
 {% capture cleanripInstructions %}
+
 ### CleanRipガイド
+
 {% include_relative cleanrip.md %}
 {% endcapture %}
 
 {% capture networkInstructions %}
+
 ### ローカルネットワーク経由でソフトをバックアップ
+
 {% include_relative dump-smb.md %}
 {% endcapture %}
+
+### Joining split files
+
+If you dumped the disc on a FAT32 formatted, device, you should've got at least 2 files that end with `.partX.iso`. They need to be joined up.
+{: .notice--info}
+
+## Windows
+
+1. Copy all the files that share the same name and end with `.partX.iso` in a folder on your computer.
+1. Open up a Command Prompt window.
+1. Use the `cd <path>` command and replace `<path>` by the path to your `.partX.iso` files.
+1. Use the following command as is: `copy /b *.part?.iso game.iso`.
+
+## macOS/Linux
+
+1.  Copy all the files that share the same name and end with `.partX.iso` in a folder on your computer.
+1.  Open up a Terminal.
+1.  Use the `cd <path>` command and replace `<path>` by the path to your `.partX.iso` files.
+1.  Use the following command as is: `cat \*.part?.iso > game.iso`.
 
 <div id="cleanrip" class="blanktabcontent">{{ cleanripInstructions | markdownify }}</div>
 <div id="network" class="blanktabcontent">{{ networkInstructions | markdownify }}</div>
