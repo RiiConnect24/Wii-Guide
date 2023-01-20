@@ -15,15 +15,14 @@ Priiloader向Wii添加了一定程度的变砖保护。 它在Wii菜单之前加
 {: .notice--warning}
 
 #### 你需要的是
-
-- 一张SD卡或U盘
-- [Priiloader 安装程序](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+* 一张SD卡或U盘
+* [Priiloader 安装程序](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
 #### 步骤
-
 ##### 第一节 - 下载/安装
 
-1. Download the Priiloader installer and extract it to the root of your SD card or USB drive.
+1. Download the Priiloader installer and extract it to your SD card or USB drive.
+    * If this folder does not exist, create it.
 
 ##### 第二节 - 安装Priiloader
 
@@ -34,7 +33,7 @@ Priiloader向Wii添加了一定程度的变砖保护。 它在Wii菜单之前加
 ##### 第三节 - 进入/配置 Priiloader
 
 1. 打开Wii的同时按住RESET按钮。
-   - 如果使用Wii Mini，插入USB键盘并在启动时按住Esc。
+    * 如果使用Wii Mini，插入USB键盘并在启动时按住Esc。
 
 ![打开](/images/Priiloader/on.jpg) ![按住 RESET](/images/Priiloader/reset.jpg)
 
@@ -76,6 +75,7 @@ Priiloader向Wii添加了一定程度的变砖保护。 它在Wii菜单之前加
 | Lock System Menu with Black Screen      | 将Wii菜单加载到黑屏，使您无法使用。 (不要启用)                           |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | 重新启用带这些ID的频道(由于被用于破解，系统更新后被禁用)。                      |
 | Force Disc Games to run under IOS249    | 让光盘使用cIOS249运行游戏。 虽然不能玩刻录游戏，但需要刻录光盘。 (未刻录游戏将提示错误002) |
+
 
 [继续Wii破解可以做和不可以做的事](dosanddonts)<br> 这些是注意事项，以确保您的Wii不会变砖。
 {: .notice--info}
