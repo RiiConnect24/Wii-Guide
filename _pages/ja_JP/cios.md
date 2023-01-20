@@ -16,112 +16,95 @@ Wii U（vWii）をお使いなら、代わりに[このガイド](https://wiiu.h
 
 #### 必要なもの
 
-- Wii
-- SDカードまたはUSBドライブ
-- [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
+* インターネットに接続されたWii
+* SDカードまたはUSBドライブ
+* [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
 SDカードを使う場合はロックスイッチが解除されていることを確認してください。さもないと、インストーラで正しいオプションを選択することができません。
 {: .notice--warning}
 
 #### 手順
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'with-connection')">インターネット接続のあるWii</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'without-connection')">インターネット接続のないWii</button>
-
-<div id="with-connection" class="blanktabcontent" markdown="1">
-
 ##### セクション I - ダウンロード
 
-1. d2x cIOS Installerをダウンロードし、SDカードまたはUSBメモリのルートに展開します。
-1. WiiにSDカードまたはUSBドライブを挿入し、Homebrew Channelからd2x cIOS Installerを起動します。
-</div>
+1. Download d2x cIOS Installer and extract it to your SD card or USB drive.
+1. Insert your SD card or USB drive into your Wii, and launch d2x cIOS Installer from the Homebrew Channel. </div>
 <div id="without-connection" class="blanktabcontent" markdown="1">
 
 ##### セクション I - ダウンロード
 
-1. [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip)をダウンロード・展開し実行します。
-1. "Database"、"IOS"を選び、それから"IOS57"と"v5918"を選びます。
-   - "Pack WAD"にチェックが付いて、"Patch IOS"にチェックが付いてないことを確かめてください。
-1. IOS56 v5661およびIOS38 v4123について、上の手順を繰り返します。
-1. 3つすべてのIOSをダウンロードすると、NUS Downloaderと同じフォルダに`titles`という名前のフォルダができます。 フォルダを開き、ダウンロードした3つのWADファイルが見つかるまで移動します。 各WADファイルをSDカードまたはUSBドライブのルートに配置します。
-1. d2x cIOS Installerをダウンロードし、SDカードまたはUSBメモリのルートに展開します。
-1. WiiにSDカードまたはUSBドライブを挿入し、Homebrew Channelからd2x cIOS Installerを起動します。
+1. Download, extract, and open [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/download/v1.9-mod-nusfix/NUSD-Mod-NUS-Fix.zip).
+1. Select "Database", "IOS", and then "IOS56" and select the "Latest Version".
+   - Ensure that "Pack WAD" is checked and "Patch IOS" is unchecked.
+1. Repeat the previous step for "IOS57" and "IOS38".
+1. Once you have downloaded all three cIOSes, there will be a folder named `titles` in the same folder as the NUS Downloader. Open the folder and navigate through until you find the three WAD files you downloaded. Place each of them on the root of your SD card.
+1. Download d2x cIOS Installer and extract it to your SD card or USB drive.
+1. Insert your SD card or USB drive into your Wii, and launch d2x cIOS Installer from the Homebrew Channel.
 </div>
 
 ##### セクション II - インストール
 
 1. 任意のボタンを押してCIOS SETTINGSに進み、オプションを次のように設定します。
-
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 57
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
-
-![cIOS249のインストール](/images/cios/Install249.png)
-
+![Install cIOS 249](/images/cios/Install249.png)
 1. 設定したら、Aを2回押してインストールします。
 1. インストールが完了したらAを押して戻り、オプションを次のように設定します。
-
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 56
 Select cIOS slot: 250
 Select cIOS version: 65535
 ```
-
-![cIOS250のインストール](/images/cios/Install250.png)
-
+![Install cIOS 250](/images/cios/Install250.png)
 1. 設定したら、Aを2回押してインストールします。
 1. インストールが完了したらAを押して戻り、オプションを次のように設定します。
-
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
 Select cIOS base: 38
 Select cIOS slot: 251
 Select cIOS version: 65535
 ```
-
-![cIOS251のインストール](/images/cios/Install251.png)
-
-1. 設定したら、Aを2回押してインストールを行い、完了後に終了します。
+![Install cIOS 251](/images/cios/Install251.png)
+1. Once set, press A twice again to install, and then exit once done.
 
 #### トラブルシューティング
 
 {% capture bruh %}
-大半のゲームはデフォルトですぐに動作しますが、動作やゲーム内のある機能に特定のcIOSが必要となる場合もあります。<br> 例えば：
+Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
+* 『街へいこうよ どうぶつの森』でUSBキーボードを利用する場合。
+* 『SpongeBob's Boating Bash』を実行する場合。
 
-- 『街へいこうよ どうぶつの森』でUSBキーボードを利用する場合。
-- 『SpongeBob's Boating Bash』を実行する場合。
-
-不完全ですがより広くまとまった一覧表は[**こちら**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)で見られます<br> 特定のゲームで使われるcIOSを変更するには以下の手順に従ってください。
+A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
 {% endcapture %}
-
 <div class="notice--warning">{{ bruh | markdownify }}</div>
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'usbloadergx')">USB Loader GX</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
-1. 動かないゲームを選択します。
-1. Settings（設定）をクリックします。
-1. `Game Load（ゲームの起動方法）`を選びます。
-1. `Game IOS（使用するIOS）`までスクロールします。
-1. 使用するIOSスロットを入力します。
-    - 249でうまくいかない場合は、250または251を使用してみてください。
-1. OKを押して設定を保存し、ゲームを開始します。
+1. Select the game that isn't working.
+1. Click Settings.
+1. Select `Game Load`.
+1. Scroll down to `Game IOS`.
+1. Enter the IOS slot to use.
+    - Try using 250 or 251, if 249 doesn't work.
+1. Press ok and try to load the game.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
-1. 動かないゲームを選択します。
-1. 歯車アイコンをクリックします。
-1. cIOSに移動し、矢印を使ってIOSスロットを選択します。
-    - 249でうまくいかない場合は、250または251を使用してみてください。
-1. Saveを押して設定を保存し、ゲームを開始します。
+1. Select the game that isn't working.
+1. Click the gear icon.
+1. Go to cIOS and use the arrows to select the IOS slot to use.
+    - Try using 250 or 251, if 249 doesn't work.
+1. Press Save and try to load the game.
 </div>
 ##### 完了後のオプション
 
-[Homebrew Browserに進む](hbb)<br> Homebrew BrowserはWiiのHomebrewを入手するのに適した場所です。 インストールは任意です。
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. インストールは任意です。
 {: .notice--info}
 
 [サイトマップへ進む](site-navigation)<br> 他にも気に入るチュートリアルがきっとあります。
