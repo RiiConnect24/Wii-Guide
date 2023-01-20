@@ -16,88 +16,71 @@ Jos sinulla on Wii mini, asenna [tämä cIOS](cios-mini). Jos yrität asentaa mu
 
 #### Mitä tarvitset
 
-- Wii
-- SD-kortti tai USB-asema
-- [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
+* Wii internetyhteydellä
+* SD-kortti tai USB-asema
+* [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
 Jos käytät SD-korttia, varmista, että lukituskytkin on auki-asennossa, tai muuten et pysty valitsemaan oikeita asetuksia asennusohjelmassa
 {: .notice--warning}
 
 #### Ohjeet
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'with-connection')">Internet yhteys Wii:hin</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'without-connection')">Ilman Internet yhteyttä Wii:hin</button>
-
-<div id="with-connection" class="blanktabcontent" markdown="1">
-
 ##### Osa I - Lataaminen
 
-1. Lataa d2x cIOS Installer ja pura se SD-kortin tai USB-aseman pääkansioon (root-kansioon).
-1. Liitä SD-korttisi tai USB-asemasi Wii-konsoliisi ja käynnistä d2x cIOS Installer Homebrew Channelista.
-</div>
+1. Download d2x cIOS Installer and extract it to your SD card or USB drive.
+1. Insert your SD card or USB drive into your Wii, and launch d2x cIOS Installer from the Homebrew Channel. </div>
 <div id="without-connection" class="blanktabcontent" markdown="1">
 
 ##### Osa I - Lataaminen
 
-1. Lataa, pura ja käynnistä [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
-1. Valitse "Database", "IOS", sitten "IOS57", ja viimeiseksi valitse "v5918".
+1. Download, extract, and open [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/download/v1.9-mod-nusfix/NUSD-Mod-NUS-Fix.zip).
+1. Select "Database", "IOS", and then "IOS56" and select the "Latest Version".
    - Ensure that "Pack WAD" is checked and "Patch IOS" is unchecked.
-1. Repeat the previous step for IOS56 v5661 and IOS38 v4123.
-1. Once you have downloaded all three IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. Open the folder and navigate through them until you locate the three WAD files you downloaded. Place each of WAD files on the root of your SD card or USB drive.
-1. Lataa d2x cIOS Installer ja pura se SD-kortin tai USB-aseman pääkansioon (root-kansioon).
-1. Liitä SD-korttisi tai USB-asemasi Wii-konsoliisi ja käynnistä d2x cIOS Installer Homebrew Channelista.
+1. Repeat the previous step for "IOS57" and "IOS38".
+1. Once you have downloaded all three cIOSes, there will be a folder named `titles` in the same folder as the NUS Downloader. Open the folder and navigate through until you find the three WAD files you downloaded. Place each of them on the root of your SD card.
+1. Download d2x cIOS Installer and extract it to your SD card or USB drive.
+1. Insert your SD card or USB drive into your Wii, and launch d2x cIOS Installer from the Homebrew Channel.
 </div>
 
 ##### Osa II - Asentaminen
 
 1. Paina continue, sitten aseta vaihtoehdot seuraavasti:
-
 ```
 Valitse cIOS: v10 beta52 d2x-v10-beta52
 Valitse cIOS base: 57
 Valitse cIOS slot: 249
 Valitse cIOS versio: 65535
 ```
-
 ![Install cIOS 249](/images/cios/Install249.png)
-
 1. Kun asetettu, paina A:ta kahdesti asentaaksesi.
 1. Kun asennus on valmis, paina A:ta palataksesi ja aseta vaihtoehdot seuraavasti:
-
 ```
 Valitse cIOS: v10 beta52 d2x-v10-beta52
 Valitse cIOS base: 56
 Valitse cIOS slot: 250
 Valitse cIOS versio: 65535
 ```
-
 ![Install cIOS 250](/images/cios/Install250.png)
-
 1. Kun asetettu, paina A:ta kahdesti asentaaksesi.
 1. Kun asennus on valmis, paina A:ta palataksesi ja aseta vaihtoehdot seuraavasti:
-
 ```
 Valitse cIOS: v10 beta52 d2x-v10-beta52
 Valitse cIOS base: 38
 Valitse cIOS slot: 251
 Valitse cIOS versio: 65535
 ```
-
 ![Install cIOS 251](/images/cios/Install251.png)
-
 1. Once set, press A twice again to install, and then exit once done.
 
 #### Vianmääritys
 
 {% capture bruh %}
 Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
-
-- Näppäimistön käyttäminen Animal Crossing: Let’s Go to the Cityssä.
-- SpongeBob's Boating Bashin käynnistäminen.
+* Näppäimistön käyttäminen Animal Crossing: Let’s Go to the Cityssä.
+* SpongeBob's Boating Bashin käynnistäminen.
 
 A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
 {% endcapture %}
-
 <div class="notice--warning">{{ bruh | markdownify }}</div>
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'usbloadergx')">USB Loader GX</button>
