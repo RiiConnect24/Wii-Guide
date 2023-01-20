@@ -15,15 +15,14 @@ Priiloader dodaje dodatkowy poziom ochrony przez brickiem na Twoje Wii. Ładuje 
 {: .notice--warning}
 
 #### Będziesz potrzebował
-
-- Karta SD lub urządzenie USB.
-- [Instalator Priiloader'a](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+* Karta SD lub urządzenie USB.
+* [Instalator Priiloader'a](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
 #### Instrukcje
-
 ##### Sekcja I - Pobieranie/Instalowanie
 
-1. Download the Priiloader installer and extract it to the root of your SD card or USB drive.
+1. Download the Priiloader installer and extract it to your SD card or USB drive.
+    * If this folder does not exist, create it.
 
 ##### Sekcja II - Instalowanie Priiloader'a
 
@@ -34,7 +33,7 @@ Priiloader dodaje dodatkowy poziom ochrony przez brickiem na Twoje Wii. Ładuje 
 ##### Sekcja III - Uruchamianie oraz konfigurowanie Priiloader'a
 
 1. Przytrzymaj przycisk RESET na Twoim Wii podczas uruchamiania konsoli.
-   - Jeżeli korzystasz z Wii Mini, podłącz klawiaturę USB oraz przytrzymaj przycisk ESCAPE podczas uruchamiania konsoli.
+    * Jeżeli korzystasz z Wii Mini, podłącz klawiaturę USB oraz przytrzymaj przycisk ESCAPE podczas uruchamiania konsoli.
 
 ![Włącz konsolę](/images/Priiloader/on.jpg) ![Przytrzymaj RESET](/images/Priiloader/reset.jpg)
 
@@ -76,6 +75,7 @@ Poniżej znajduje się lista hacków, które możesz włączyć w Priiloaderze.
 | Lock System Menu with Black Screen      | Powoduje, że Twoje Wii Menu zacina się na czarnym ekranie, powodując, że nie możesz z niego korzystać. (Nie włączaj tego)                                                                                    |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Kanały z tymi ID skasowane przez Nintendo są ponownie widoczne.                                                                                                                                              |
 | Force Disc Games to run under IOS249    | Powoduje że gry na płytach uruchamiają się z cIOS 249. Chociaż nie pozwala Ci to na uruchomienie wypalonych płyt z grami, jest to wymagane aby w nie grać. (Możesz otrzymać Error 002 na oryginalnych grach) |
+
 
 [Continue to the Dos and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
 {: .notice--info}
