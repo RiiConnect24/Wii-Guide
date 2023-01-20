@@ -15,15 +15,14 @@ vWii(Wii U의 Wii 모드) 에 Priiloader를 설치하지 **마세요**. 이것�
 {: .notice--warning}
 
 #### 필요한 것
-
-- SD 카드 및 USB 드라이브
-- [Priiloader 설치 마법사](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+* SD 카드 및 USB 드라이브
+* [Priiloader 설치 마법사](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
 #### 방법
-
 ##### 섹션 I - 다운로드/설치하기
 
-1. Download the Priiloader installer and extract it to the root of your SD card or USB drive.
+1. Download the Priiloader installer and extract it to your SD card or USB drive.
+    * If this folder does not exist, create it.
 
 ##### 섹션 II - Priiloader 설치하기
 
@@ -34,7 +33,7 @@ vWii(Wii U의 Wii 모드) 에 Priiloader를 설치하지 **마세요**. 이것�
 ##### 섹션 III - Priiloader 실행/설정하기
 
 1. Wii를 켤 때 RESET 버튼을 꾹 누르세요.
-   - Wii 미니를 사용한다면, USB 키보드를 꽂고 켜지는 동안 Esc를 꾹 누르세요.
+    * Wii 미니를 사용한다면, USB 키보드를 꽂고 켜지는 동안 Esc를 꾹 누르세요.
 
 ![켜기](/images/Priiloader/on.jpg) ![RESET 꾹 누르기](/images/Priiloader/reset.jpg)
 
@@ -76,6 +75,7 @@ Priiloader로 활성화 할 수 있는 핵의 목록입니다.
 | Lock System Menu with Black Screen      | Wii 메뉴를 검정 화면으로 바꿔서 사용 불능으로 만듬. (활성화하지 마세요)                                                                   |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | 이 ID의 채널 재활성화 (취약점으로 사용되어 시스템 업데이트에서 원래 차단됨)                                                                  |
 | Force Disc Games to run under IOS249    | 게임의 iOS로 디스크가 cIOS 249를 사용하게 만들기. 구워진 게임을 스스로 실행시킬 순 없지만, 구워진 디스크의 실행에는 필수입니다. (구워지지 않은 게임에서는 002 오류를 줄 수 있음) |
+
 
 [Continue to the Dos and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
 {: .notice--info}
