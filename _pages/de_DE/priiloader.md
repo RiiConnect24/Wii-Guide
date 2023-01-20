@@ -15,15 +15,14 @@ Installiere den Priiloader nicht auf einer vWii (Wii Modus auf der Wii U). Du wi
 {: .notice--warning}
 
 #### Voraussetzungen
-
-- Eine SD-Karte oder ein USB-Laufwerk
-- [Priiloader Installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+* Eine SD-Karte oder ein USB-Laufwerk
+* [Priiloader Installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
 #### Anleitung
-
 ##### Abschnitt 1 - Herunterladen/Installieren
 
-1. Lade den Priiloader-Installer herunter und entpacke ihn in das Stammverzeichnis deiner SD-Karte oder deines USB-Laufwerks.
+1. Download the Priiloader installer and extract it to your SD card or USB drive.
+    * If this folder does not exist, create it.
 
 ##### Abschnitt 2 - Priiloader installieren
 
@@ -34,7 +33,7 @@ Installiere den Priiloader nicht auf einer vWii (Wii Modus auf der Wii U). Du wi
 ##### Abschnitt 3 - Öffnen/Konfigurieren von Priiloader
 
 1. Halte den RESET-Knopf gedrückt während du deine Wii einschaltest.
-   - Wenn du eine Wii mini verwendest, schließe eine USB-Tastatur an und halte die Escape-Taste gedrückt, während du die Konsole einschaltest.
+    * Wenn du eine Wii mini verwendest, schließe eine USB-Tastatur an und halte die Escape-Taste gedrückt, während du die Konsole einschaltest.
 
 ![Einschalten](/images/Priiloader/on.jpg) ![Halte RESET gedrückt](/images/Priiloader/reset.jpg)
 
@@ -76,6 +75,7 @@ Dies ist eine Liste der Hacks, die du mit Priiloader aktivieren kannst.
 | Lock System Menu with Black Screen      | Belässt das Wii-Menü bei einem schwarzen Bild, wodurch es unbenutzbar wird. (Aktiviere das nicht)                                                                                                                                            |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Reaktiviert Kanäle mit diesen Title-IDs (ursprünglich durch System-Updates blockiert, da sie Exploits sind).                                                                                                                                 |
 | Force Disc Games to run under IOS249    | Zwingt Disk-Anwendungen dazu, cIOS 249 als IOS des Spiels zu benutzen. Auch wenn es allein nicht ausreicht um selbstgebrannte Discs zu spielen wird es benötigt um diese abzuspielen. (Kann dir Error 002 für nicht-gebrannte Spiele zeigen) |
+
 
 [Continue to the Dos and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
 {: .notice--info}
