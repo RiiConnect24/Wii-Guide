@@ -158,8 +158,8 @@ exclude: [
   _pages/pt_PT,
   _pages/ru_RU,
   _pages/sv_SE,
-  _pages/tr_TR,
-  _pages/zh_CN,
+  # _pages/tr_TR,
+  # _pages/zh_CN,
   _pages/zh_TW
 ]
 
