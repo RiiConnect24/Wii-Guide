@@ -40,7 +40,7 @@ Raccomandiamo [l'installazione di cIOS](cios) prima di continuare.
 Di seguito sono riportati alcuni collegamenti ai temi.
 
 * [Pagina dei temi di RiiConnect24](https://rc24.xyz/goodies/themes/)
-* [Cartella di Google Drive](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
+* [Cartella di Google Drive](https://drive.google.com/drive/folders/1K1WQe36bGibsF4ZlAxZKU6ngNpjUnh5i)
 * [Wii Theme Team Creations v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
 ASSICURATI DI LEGGERE GLI AVVISI DI SICUREZZA SOPRA PRIMA DI CONTINUARE!
