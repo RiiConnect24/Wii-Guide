@@ -40,7 +40,7 @@ Recomandăm să [instalezi cIOS](cios) înainte de a continua.
 Mai jos se află câteva link-uri către niște teme de fundal.
 
 * [Pagina de Teme RiiConnect24](https://rc24.xyz/goodies/themes/)
-* [Depozitul Google Drive](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
+* [Depozitul Google Drive](https://drive.google.com/drive/folders/1K1WQe36bGibsF4ZlAxZKU6ngNpjUnh5i)
 * [Creațiile Echipei de Teme Wii v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
 ASIGURĂ-TE CĂ AI CITIT AVERTISMENTELE DE DEASUPRA ÎNAINTE SĂ CONTINUI!
