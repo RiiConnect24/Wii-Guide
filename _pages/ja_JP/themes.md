@@ -40,7 +40,7 @@ Do not use any other version of ThemeMii than the one linked here, as ThemeMii M
 以下は利用可能なテーマへのリンクです。
 
 * [RiiConnect24 Themes Page](https://rc24.xyz/goodies/themes/)
-* [Google Drive Repository](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
+* [Google Drive Repository](https://drive.google.com/drive/folders/1K1WQe36bGibsF4ZlAxZKU6ngNpjUnh5i)
 * [Wii Theme Team Creations v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
 続ける前に、必ず上記の警告に目を通してください！
