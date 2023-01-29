@@ -40,7 +40,7 @@ Wii菜单主题还有其它资源，但它们可能是csm(准备安装到Wii)。
 以下是一些主题链接。
 
 * [RiiConnect24 主题页面](https://rc24.xyz/goodies/themes/)
-* [Google Drive 仓库](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
+* [Google Drive 仓库](https://drive.google.com/drive/folders/1K1WQe36bGibsF4ZlAxZKU6ngNpjUnh5i)
 * [Wii 主题团队创建 v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
 继续前必须阅读上述警告!
