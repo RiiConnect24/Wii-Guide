@@ -40,7 +40,7 @@ Předtím, než budete pokračovat, doporučujeme [nainstalovat cIOS](cios).
 Níže jsou některé odkazy na skiny.
 
 * [Stránka s RiiConnect24 skiny](https://rc24.xyz/goodies/themes/)
-* [Repozitář na Google Disku](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
+* [Repozitář na Google Disku](https://drive.google.com/drive/folders/1K1WQe36bGibsF4ZlAxZKU6ngNpjUnh5i)
 * [Výtvory Wii Theme týmu v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
 UJISTĚTE SE, ŽE JSTE SI PŘEČETLI VEŠKERÁ VAROVÁNÍ VÝŠE PŘEDTÍM, NEŽ BUDETE POKRAČOVAT!
