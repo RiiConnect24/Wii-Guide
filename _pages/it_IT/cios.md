@@ -25,27 +25,27 @@ Assicurati che, se stai usando una scheda SD, l'interruttore a lato sia in posiz
 
 #### Istruzioni
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'with-connection')">With an Internet connection to the Wii</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'without-connection')">Without an Internet connection to the Wii</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'with-connection')">Con un Wii connesso a Internet</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'without-connection')">Con un Wii non connesso a Internet</button>
 
 <div id="with-connection" class="blanktabcontent" markdown="1">
 
 ##### Sezione 1 - Scaricare
 
-1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
-1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
+1. Scarica d2x cIOS Installer ed estrailo nella tua scheda SD o nel tuo disco USB.
+1. Inserisci la scheda SD o il disco USB nel tuo Wii, ed esegui d2x cIOS Installer dall'Homebrew Channel.
 </div>
 <div id="without-connection" class="blanktabcontent" markdown="1">
 
 ##### Sezione 1 - Scaricare
 
-1. Download, extract, and run [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
-1. Select "Database", "IOS", then "IOS57", and select "v5918".
-   - Ensure that "Pack WAD" is checked and "Patch IOS" is unchecked.
-1. Repeat the previous step for IOS56 v5661 and IOS38 v4123.
-1. Once you have downloaded all three IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. Open the folder and navigate through them until you locate the three WAD files you downloaded. Place each of WAD files on the root of your SD card or USB drive.
-1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
-1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
+1. Scarica, estrai ed esegui sul tuo computer [Nus Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
+1. Seleziona "Database", "IOS", poi "IOS57", e seleziona "v5918".
+   - Assicurati che "Pack WAD" sia selezionato e che "Patch IOS" non sia selezionato.
+1. Ripeti il passaggio precedente per IOS56 v5661 e IOS38 v4123.
+1. Una volta scaricati tutti e tre gli IOS, ci sarà una cartella chiamata `titles` nella stessa cartella di NUS Downloader. Apri la cartella e naviga fino a trovare i tre file WAD scaricati. Copia ognuno dei file WAD nella tua scheda SD o nel tuo disco USB.
+1. Scarica d2x cIOS Installer ed estrailo nella tua scheda SD o nel tuo disco USB.
+1. Inserisci la scheda SD o il disco USB nel tuo Wii, ed esegui d2x cIOS Installer dall'Homebrew Channel.
 </div>
 
 ##### Sezione 2 - Installare
