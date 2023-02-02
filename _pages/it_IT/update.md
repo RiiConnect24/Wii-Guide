@@ -58,7 +58,7 @@ Userai il tasto + del tuo controller/Wiimote per usare questo tool.
 7. Premi A per installare il file `.wad` IOS58. [`Assicurati che l'installazione sia riuscita, altrimenti interrompi.`]
 8. Dopo averli installati con successo, premi il tasto HOME per tornare al Canale Homebrew.
 
-**Non tornare ancora al menu Wii, altrimenti potresti BRICKARE. Install [Priiloader](priiloader) first.**
+**Non tornare ancora al menu Wii, altrimenti potresti BRICKARE. Installa prima [Priiloader](priiloader).**
 {: .notice--danger}
 
 [Continua con l'installazione di Priiloader](priiloader)<br> Priiloader aggiunge un livello di protezione da brick, e lo consigliamo.
