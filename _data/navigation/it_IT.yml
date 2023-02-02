@@ -5,10 +5,10 @@ main:
     url: /
   - 
     title: Comincia qui
-    url: iniziare
+    url: get-started
   - 
     title: Navigazione del sito
-    url: navigazione del sito
+    url: site-navigation
   - 
     title: FAQ
     url: faq
