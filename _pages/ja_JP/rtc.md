@@ -32,5 +32,5 @@ In this step, you will synchronize your Wii with a NTP time server. This will se
 Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
 {: .notice--info}
 
-You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
+`/apps/homebrew_browser/`内のShopChannel.oggをloop.oggに差し替えるとHomebrew BrowserでWiiショッピングチャンネルの音楽を再生できます。
 {: .notice--info}
