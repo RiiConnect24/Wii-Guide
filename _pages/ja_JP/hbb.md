@@ -8,10 +8,10 @@ title: "Open Shop Channel（Homebrew Browser）"
 Homebrew BrowserはOpen Shop Channelの基となったアプリで、動くには動きますがバグ気味です。 Homebrewアプリの入手には[osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest)や[Open Shop Channelウェブサイト](https://oscwii.org/)も利用できます。
 {: .notice--info}
 
-You need an Internet connection in order to use this application.
+このアプリケーションを使用するにはインターネット接続が必要です。
 {: .notice--warning}
 
-The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
+[Open Shop Channel](https://oscwii.org/) ではHomebrewアプリを入手できます。 Homebrew Browserというアプリの復活プロジェクトです。
 
 #### 必要なもの
 * SDカードまたはUSBドライブ
@@ -24,7 +24,7 @@ The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew
 
 #### おすすめのアプリ
 
-Here are some recommended apps that you can get on the Open Shop Channel:
+Open Shop Channelで入手できるおすすめアプリは以下の通りです。
 
 - [CleanRip](https://oscwii.org/library/app/CleanRip) - Wii・ゲームキューブソフトのダンプツールです。 使い方は、[ガイドのこのページ](dump-games)をご覧ください。
 - [GCMM](https://oscwii.org/library/app/gcmm) - ゲームキューブのメモリーカード管理アプリです。
@@ -46,5 +46,5 @@ Here are some recommended apps that you can get on the Open Shop Channel:
 Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
 {: .notice--info}
 
-You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
+`/apps/homebrew_browser/`内のShopChannel.oggをloop.oggに差し替えるとHomebrew BrowserでWiiショッピングチャンネルの音楽を再生できます。
 {: .notice--info}
