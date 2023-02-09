@@ -15,7 +15,7 @@ Wiiメニューの平凡で退屈な白いテーマに飽きて、恰好良い�
 Only install themes on your Wii that have been formatted specifically for it, and its current region. Installing themes from the wrong region or version on your Wii will cause a brick. This tutorial will tell you how to create a .csm file that is safe to install.
 {: .notice--danger}
 
-This guide is intended for regular Wiis only. For installing themes on vWii (Wii U), follow [this page](themes-vwii).
+このガイドは通常のWiiのみを対象としています。 テーマを vWii (Wii U) にインストールする場合は、 [このページ](themes-vwii) に従ってください。
 {: .notice--warning}
 
 For safety purposes, please do not use any other version of MyMenuify than the one linked here, as MyMenuify Mod is the safest way to install a theme.
@@ -48,16 +48,16 @@ Do not use any other version of ThemeMii than the one linked here, as ThemeMii M
 
 #### 手順
 
-##### Section I - Finding a Theme
+##### セクション I - テーマを見つける
 
-* Find a theme you want to install. Some themes have YouTube videos to show what the theme looks like, but unfortunately some of the videos are no longer available.
-* Once you found one you like, click the download link corresponding to your Wii Menu version. **It's very important to pick the correct version to avoid bricks.**
-* You probably will pick the download link that says 4.X, that means the theme will work on version 4.1, 4.2 and 4.3 of the Wii Menu.
-* Some themes have different links for different regions, so pick the one corresponding to your Wii's region.
+* インストールしたいテーマを見つけてください。 どんなテーマかを見せるためにYouTubeの動画があるテーマもありますが、残念ながらもう視聴できない動画がいくつかあります。
+* 好きなものを見つけたら、Wiiメニューのバージョンに対応するダウンロードリンクをクリックしてください。 **ブリックを避けるために正しいバージョンを選択することは非常に重要です。**
+* おそらく、4.Xと書かれているダウンロードリンクを選ぶでしょう。 それは、Wiiメニューのバージョン4.1、4.2、4.3でテーマが動作することを意味します。
+* テーマによっては、地域によって異なるリンクがあるので、Wiiのリージョンに対応するリンクを選択してください。
 * There are other resources for Wii Menu themes, but they might be in csm form (ready to install on the Wii). If the csm doesn't match the version and region of your Wii Menu, try to convert it to mym with ThemeMii Mod, and then convert it back to csm with the instructions here using the version and region of your Wii Menu.
 * Once you downloaded the theme you want and double-checked you got the right one, open up ThemeMii Mod.
 
-##### Section II - Building the Theme
+##### セクション II -テーマの作成
 
 1. A dialog box will pop up telling you to only install themes if you have brick protection. If you installed Priiloader and/or BootMii (see the warning at the start of this guide), press OK.
 2. Go to `Tools` > `Download Base App` > Version of your Wii Menu > Region of your Wii Menu
@@ -68,12 +68,12 @@ Do not use any other version of ThemeMii than the one linked here, as ThemeMii M
 7. Press `Create csm`, then browse for a directory you want to save the theme in. Give it a moment to build the theme.
 8. A dialog box will pop up hopefully saying it built the theme correctly, and it will ask you if you want to save the .mym. Press `No`.
 
-##### Section III - Installing the Theme
+##### セクション III - テーマのインストール
 
-1. Extract MyMenuifyMod.zip to your SD card or USB drive.
-2. Put the .csm file you saved in a folder called `modthemes` on your SD card or USB drive.
+1. MyMenuifyMod.zipをSDカードまたはUSBドライブに展開します。
+2. 保存したcsmファイルをSDカードまたはUSBドライブの`modthemes`フォルダに入れてください。
 3. WiiにSDカードまたはUSBドライブを挿入します。
-4. Launch MyMenuify Mod from the Homebrew Channel.
+4. Homebrew ChannelからMyMenuify Modを起動してください。
 5. After an introduction message, it will ask you what IOS you want to use in the app. If you have [installed cIOS](cios), use `IOS249`, or else use `IOS58`. If the former gives an `Exception DSI occurred!` error, press Reset on the Wii console, launch it again, then try `IOS250`. It might take a couple attempts to reload the IOS.
 6. Highlight the theme you want to install, then press A. Give it a moment to install the theme, then press any button to go to the Wii Menu. Hopefully, the theme installed correctly.
 
