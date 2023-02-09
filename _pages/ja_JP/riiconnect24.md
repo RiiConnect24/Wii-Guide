@@ -23,7 +23,7 @@ title: "RiiConnect24"
 It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
 {: .notice--warning}
 
-DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
+Wii miniにRiiConnect24をインストールしないでください！ 動作しないだけでなく、本体がブリックします。
 {: .notice--danger}
 
 #### 必要なもの
@@ -125,7 +125,7 @@ If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently no
 [Wiimmfiに進む](wiimmfi)<br> WiimmfiではニンテンドーWi-Fiコネクションの廃止後の今でもオンラインゲームをプレイできるようになります。 インストールは任意です。
 {: .notice--info}
 
-[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. インストールは任意です。
+[WiiLinkに進む](wiilink)<br> WiiLinkでは、廃止された日本専用チャンネル（Wiiの間やデジカメプリントチャンネルなど）を使えるようになります。 インストールは任意です。
 {: .notice--info}
 
 [サイトマップへ進む](site-navigation)<br> 他にも気に入るチュートリアルがきっとあります。
