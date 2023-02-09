@@ -58,7 +58,7 @@ Windowsコンピュータをお持ちでなければ、[RiiConnect24 Discordサ�
 7. Aを押してIOS58の`.wad`ファイルをインストールします。 《インストールが成功したことを確認します。もし失敗ならここで中断してください。》
 8. インストールが成功したら、HOMEボタンを押してHomebrew Channelに戻ります。
 
-**Do not return to the Wii menu yet, otherwise you could BRICK. Install [Priiloader](priiloader) first.**
+**まだWiiメニューに戻らないでください。さもないとブリックする可能性があります。 はじめに [Priiloader](priiloader) をインストールします。**
 {: .notice--danger}
 
 [Priiloaderのインストールに進む](priiloader)<br> Priiloaderはブリック対策を一段追加するもので、おすすめです。
