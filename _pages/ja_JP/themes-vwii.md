@@ -47,7 +47,7 @@ Only themes from the RiiConnect24 Themes page have been tested on vWii. Themes f
 
 #### 手順
 
-##### Section I - Finding a Theme
+##### セクション I - テーマを見つける
 
 * When choosing a theme, it is important to make sure that your theme is compatible with the vWii System Menu.
 
