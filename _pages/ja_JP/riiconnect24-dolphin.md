@@ -20,7 +20,7 @@ title: "RiiConnect24 for Dolphin"
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
+Wii miniにRiiConnect24をインストールしないでください！ 動作しないだけでなく、本体がブリックします。
 {: .notice--danger}
 
 ### 必要なもの
