@@ -4,8 +4,8 @@ title: "Wii・ゲームキューブソフトのバックアップ"
 
 ゲームキューブやWiiのソフトをバックアップお考えですか？ 利用できるツールに応じて、二つの方法があります。
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'dump-smb')">To a PC over the network</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">SDカード・USBドライブへ保存</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'dump-smb')">ネットワーク経由でパソコンに保存</button>
 
 <div id="cleanrip" class="blanktabcontent" markdown="1">
 
@@ -38,7 +38,7 @@ title: "Wii・ゲームキューブソフトのバックアップ"
 
 <div id="dump-smb" class="blanktabcontent" markdown="1">
 
-### Dumping a game over a local network
+### ローカルネットワーク経由でソフトをバックアップ
 
 #### 必要なもの
 
@@ -55,12 +55,12 @@ Your Wii and your computer must be connected to one local network.
 
 ##### セクションII - リッピング
 
-1. Press the right on the D-pad and press A. ![2](/images/DumpDiscs_LAN/2.png)
+1. 十字キーの右を押して、Aを押します。 ![2](/images/DumpDiscs_LAN/2.png)
 1. バックアップするディスクの種類を選びます（選択肢は`GameCube Disc`・`Wii Single-Layer Disc`・`Wii Dual-Layer Disc`）。Aを押します。 ![3](/images/DumpDiscs_LAN/3.png)
-1. ここでWiiにソフトを入れます。 (If it's already in your Wii, eject it and put it back.) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
+1. ここでWiiにソフトを入れます。 （既に入っている場合は、一度取り出して入れ直します。） ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
 1. WiiのURL（IPアドレス）を控えておきます。 ![5](/images/DumpDiscs_LAN/5.png)
-1. On your computer's web browser, go to your address bar and enter the Wii URL. ![6](/images/DumpDiscs_LAN/6.png)
-1. Click on `Click here to download XXXX.iso`. ![7](/images/DumpDiscs_LAN/7.jpg)
+1. お使いのコンピュータのWebブラウザで、アドレスバーに行き、WiiのURLを入力します。 ![6](/images/DumpDiscs_LAN/6.png)
+1. `Click here to download XXXX.iso`をクリックします。 ![7](/images/DumpDiscs_LAN/7.jpg)
 ダウンロードは最速ではありませんが、他に手段がなければ、ないよりはマシです。
 {: .notice--info}
 ![8](/images/DumpDiscs_LAN/8.PNG)
