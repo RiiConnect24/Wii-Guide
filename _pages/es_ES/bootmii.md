@@ -26,7 +26,7 @@ Si has instalado BootMii como boot2, apaga y vuelve a encender la consola para i
 1. Inicia el Canal Homebrew.
 2. Oprime el botón HOME y selecciona "Lanzar BootMii".
 
-    BootMii no es compatible con el Wii Remote, por lo que deberás usar los botones POWER y RESET de la consola o un control de GameCube conectado en el puerto del jugador 1. Para navegar entre las opciones, presiona el botón de encendido en tu Wii (o a la izquierda / derecha en la almohadilla de control en un controlador de GameCube). Pulsa RESET en la consola o A en el control de GameCube para elegir una opción.
+    BootMii no es compatible con el Wii Remote, por lo que deberás usar los botones POWER y RESET de la consola o un control de GameCube conectado en el puerto del jugador 1. Para navegar entre las opciones, presiona el botón POWER en tu Wii (o izquierda/derecha en la cruz de control del control de GameCube). Pulsa RESET en la consola (o A en el control de GameCube) para elegir una opción.
     {: .notice--info}
 
 
@@ -37,7 +37,7 @@ Si has instalado BootMii como boot2, apaga y vuelve a encender la consola para i
 4. Elige la opción de la flecha verde.
 - A continuación se empezará a crear el respaldo de la NAND. Puedes ver el progreso en pantalla.
 - Los bloques defectuosos (que se muestran en negro) son normales, así que no te preocupes si ves algunos mientras se genera el respaldo.
-- Después de que el respaldo haya sido creado, este será analizado en busca de errores. Aunque se recomienda realizarlo, este paso es opcional y puedes saltarlo pulsando el botón EJECT en la consola. Tenga en cuenta que si pulsa el botón EJECT y tiene un disco insertado, este también será expulsado.
+- Después de que el respaldo haya sido creado, este será analizado en busca de errores. Aunque se recomienda realizarlo, este paso es opcional y puedes saltarlo pulsando el botón EJECT en la consola. Ten en cuenta que si tienes un disco insertado, esto lo expulsará.
 5. Una vez que el proceso haya finalizado, vuelve al menú anterior pulsando cualquier botón.
 6. Selecciona el botón con la flecha negra y después el logotipo de Wii o el Canal Homebrew para salir de BootMii y volver a donde desees.
 
