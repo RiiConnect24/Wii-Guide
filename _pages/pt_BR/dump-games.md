@@ -4,8 +4,8 @@ title: "Extrair jogos do Wii/GameCube"
 
 Você quer extrair um jogo de GameCube ou Wii? Existem duas maneiras de o fazer, depende das ferramenta que você tem.
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'dump-smb')">To a PC over the network</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">Para o cartão SD/dispositivo USB</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'dump-smb')">Para um computador através da rede</button>
 
 <div id="cleanrip" class="blanktabcontent" markdown="1">
 
@@ -38,12 +38,12 @@ Se você estiver fazendo backup de um dos 13 jogos na [lista](https://wiki.dolph
 
 <div id="dump-smb" class="blanktabcontent" markdown="1">
 
-### Dumping a game over a local network
+### Extraindo um jogo via rede local
 
 #### Você precisará de
 
 - [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
-Your Wii and your computer must be connected to one local network.
+Seu Wii e seu computador devem estar conectados à mesma rede local.
 {: .notice--warning}
 
 #### Instruções
@@ -55,37 +55,37 @@ Your Wii and your computer must be connected to one local network.
 
 ##### Parte II - Fazer o Backup
 
-1. Press the right on the D-pad and press A. ![2](/images/DumpDiscs_LAN/2.png)
+1. Pressione o botão direito no D-Pad e aperte "A". ![2](/images/DumpDiscs_LAN/2.png)
 1. Escolha o disco que deseja fazer backup (As opções são: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` e depois aperte "A" ![3](/images/DumpDiscs_LAN/3.png)
-1. Insira o disco no Wii. (If it's already in your Wii, eject it and put it back.) ![Insira o Disco](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
+1. Insira o disco no Wii. (Caso já esteja no Wii, ejete o disco e insira novamente.) ![Insira o Disco](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
 1. Lembre-se da sua URL do Wii (endereço IP) ![5](/images/DumpDiscs_LAN/5.png)
-1. On your computer's web browser, go to your address bar and enter the Wii URL. ![6](/images/DumpDiscs_LAN/6.png)
-1. Click on `Click here to download XXXX.iso`. ![7](/images/DumpDiscs_LAN/7.jpg)
+1. No navegador da web do seu computador, vá para sua barra de endereços e insira a URL do Wii. ![6](/images/DumpDiscs_LAN/6.png)
+1. Clique em `Click here to download XXXX.iso`. ![7](/images/DumpDiscs_LAN/7.jpg)
 A velocidade de download não é muito rápida, mas caso não tenha outra escolha, essa é a melhor opção.
 {: .notice--info}
 ![8](/images/DumpDiscs_LAN/8.PNG)
 </div>
 
-## Joining split files
+## Juntando arquivos divididos
 
-If you dumped the disc on a FAT32 formatted, device, you should've got at least 2 files that end with `.partX.iso`. They need to be joined up.
+Se você descarregou o disco em um formato FAT32, o dispositivo deve ter pelo menos 2 arquivos que terminam com `.partX.iso`. É preciso juntá-los.
 {: .notice--info}
 
 ## Windows
 
-1. Copy all the files that share the same name and end with `.partX.iso` in a folder on your computer.
-1. Open up a Command Prompt window.
-1. Use the `cd <path>` command and replace `<path>` by the path to your `.partX.iso` files.
-1. Use the following command as is: `copy /b *.part?.iso game.iso`.
+1. Copie todos os arquivos que compartilham o mesmo nome e termine com `.partX.iso` em uma pasta em seu computador.
+1. Abra uma janela de Prompt de Comando.
+1. Use o comando `cd <path>` e substitua `<path>` pelo caminho para os seus arquivos `.partX.iso`.
+1. Use o seguinte comando como está: `copie /b *.part?.iso game.iso`.
 
 ## macOS/Linux
 
-1.  Copy all the files that share the same name and end with `.partX.iso` in a folder on your computer.
-1.  Open up a Terminal.
-1.  Use the `cd <path>` command and replace `<path>` by the path to your `.partX.iso` files.
-1.  Use the following command as is: `cat \*.part?.iso > game.iso`.
+1.  Copie todos os arquivos que compartilham o mesmo nome e termine com `.partX.iso` em uma pasta em seu computador.
+1.  Abra um terminal.
+1.  Use o comando `cd <path>` e substitua `<path>` pelo caminho para os seus arquivos `.partX.iso`.
+1.  Use o seguinte comando como está: `copie /b *.part?.iso game.iso`.
 
-To organize the games on your drive properly, you'll need to use [Wii Backup Manager](wiibackupmanager).
+Para organizar os jogos no seu drive corretamente, você precisará usar o [Wii Backup Manager](wiibackupmanager).
 {: .notice--info}
 
 <script>
