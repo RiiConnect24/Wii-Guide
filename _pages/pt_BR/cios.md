@@ -56,7 +56,7 @@ Certifique-se de que se você estiver usando um cartão SD, a trava de bloqueio 
 Selecione cIOS: v10 beta52 d2x-v10-beta52 Selecione cIOS base: 57 Selecione cIOS slot: 249 Selecione cIOS version: 65535
 ```
 
-![Install cIOS 249](/images/cios/Install249.png)
+![Instalar cIOS 249](/images/cios/Install249.png)
 
 1. Quando feito, pressione A duas vezes para instalar.
 1. Quando a instalação for concluída, pressione A para retornar, e defina as opções dessa forma:
@@ -65,7 +65,7 @@ Selecione cIOS: v10 beta52 d2x-v10-beta52 Selecione cIOS base: 57 Selecione cIOS
 Selecione cIOS: v10 beta52 d2x-v10-beta52 Selecione cIOS base: 56 Selecione cIOS slot: 250 Selecione cIOS version: 65535
 ```
 
-![Install cIOS 250](/images/cios/Install250.png)
+![Instalar cIOS 250](/images/cios/Install250.png)
 
 1. Quando feito, pressione A duas vezes para instalar.
 1. Quando a instalação for concluída, pressione A para retornar, e defina as opções dessa forma:
@@ -74,7 +74,7 @@ Selecione cIOS: v10 beta52 d2x-v10-beta52 Selecione cIOS base: 56 Selecione cIOS
 Selecione cIOS: v10 beta52 d2x-v10-beta52 Selecione cIOS base: 38 Selecione cIOS slot: 251 Selecione cIOS version: 65535
 ```
 
-![Install cIOS 251](/images/cios/Install251.png)
+![Instalar cIOS 251](/images/cios/Install251.png)
 
 1. Uma vez definido, pressione A duas vezes para instalar, e depois saia assim que concluído.
 
@@ -101,18 +101,18 @@ Uma lista mais completa (embora ainda incompleta) pode ser encontrada [**aqui**]
 1. Role para baixo até `Game IOS`.
 1. Digite o slot do IOS a ser usado.
     - Tente usar 250 ou 251, caso 249 não funcione.
-1. Press ok and try to load the game.
+1. Pressione ok e tente abrir o jogo.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. Selecione o jogo que não está funcionando.
-1. Click the gear icon.
-1. Go to cIOS and use the arrows to select the IOS slot to use.
+1. Clique no ícone da engrenagem.
+1. Vá para cIOS e use as setas para selecionar o slot do IOS que usará.
     - Tente usar 250 ou 251, caso 249 não funcione.
-1. Press Save and try to load the game.
+1. Pressione Save e tente carregar o jogo.
 </div>
 ##### Opções depois de completado
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. A instalação é opcional.
+[Continue para o Homebrew Browser](hbb)<br> O Homebrew Browser é um bom lugar para obter homebrew no seu Wii. A instalação é opcional.
 {: .notice--info}
 
 [Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
