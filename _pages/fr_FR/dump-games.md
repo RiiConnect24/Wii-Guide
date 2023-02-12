@@ -4,8 +4,8 @@ title: "Extraire des jeux Wii/GameCube"
 
 Vous voulez extraire un disque GameCube ou un disque Wii? Il existe deux façons de le faire, selon les outils dont vous disposez.
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'dump-smb')">To a PC over the network</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">Vers la carte SD/clé USB</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'dump-smb')">Vers un PC sur le réseau</button>
 
 <div id="cleanrip" class="blanktabcontent" markdown="1">
 
@@ -43,7 +43,7 @@ title: "CleanRip"
 #### Ce dont vous avez besoin
 
 - [L’outil DVD Dump Tool](/assets/files/DVDDumpTool.zip)
-Your Wii and your computer must be connected to one local network.
+Votre Wii et votre ordinateur doivent être connectés au même réseau local.
 {: .notice--warning}
 
 #### Instructions
