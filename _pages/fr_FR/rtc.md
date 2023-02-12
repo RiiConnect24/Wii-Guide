@@ -1,5 +1,5 @@
 ---
-title: "Setting RTC Time"
+title: "Réglage de l'heure RTC"
 ---
 
 Si vous avez besoin d'aide pour quoi que ce soit concernant ce tutoriel, veuillez rejoindre [ le serveur RiiConnect24 Discord ](https://discord.gg/rc24) (recommandé) ou [envoyez-nous un e-mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
