@@ -29,8 +29,8 @@ In this step, you will synchronize your Wii with a NTP time server. This will se
 [Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
 {: .notice--info}
 
-Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
+Incluído no download do Homebrew Browser, há um guia sobre como usar o Homebrew Browser.
 {: .notice--info}
 
-You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
+Você pode trocar o ShopChannel.ogg por loop.ogg em `/apps/homebrew_browser/` para que o Homebrew Browser toque a música do Wii Shop Channel.
 {: .notice--info}
