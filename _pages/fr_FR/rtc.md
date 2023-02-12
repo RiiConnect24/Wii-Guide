@@ -5,10 +5,10 @@ title: "Setting RTC Time"
 Si vous avez besoin d'aide pour quoi que ce soit concernant ce tutoriel, veuillez rejoindre [ le serveur RiiConnect24 Discord ](https://discord.gg/rc24) (recommandé) ou [envoyez-nous un e-mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-You need an Internet connection in order to use this application.
+Vous avez besoin d'une connexion Internet pour utiliser cette application.
 {: .notice--warning}
 
-In this step, you will synchronize your Wii with a NTP time server. This will set your Wii's clock to the correct time to prevent potential problems when installing services such as RiiConnect24.
+Dans cette étape, vous synchroniserez votre Wii avec un serveur de temps NTP. Cela permettra de régler l'horloge de votre Wii au temps actuel pour éviter tout problème éventuel lors de l'installation de services tels que RiiConnect24.
 
 #### Ce dont vous avez besoin
 * Une carte SD ou un périphérique USB
@@ -16,12 +16,12 @@ In this step, you will synchronize your Wii with a NTP time server. This will se
 
 #### Instructions
 
-1. Extract sntp and put it in the `apps` folder on your SD card or USB drive.
+1. Extrayez sntp et mettez-le dans le dossier `apps` sur votre carte SD ou sur votre clé USB.
 2. Insérer la carte SD ou le périphérique USB dans votre Wii.
 3. Lancez la Chaîne Homebrew sur votre Wii.
-4. Launch sntp.
-5. Use the +Control Pad to select the current time.
-6. Press the HOME Button to exit.
+4. Lancer sntp.
+5. Utilisez le +Control Pad pour sélectionner l'heure actuelle.
+6. Appuyez sur le bouton HOME pour quitter.
 
 [Continuer vers RiiConnect24](riiconnect24) <br> RiiConnect24 vous permet d'utiliser les services interrompus de WiiConnect24, qui incluent les chaînes infos, météo, votes, Nintendo et concours Mii, ainsi que Wii Mail. L'installation est facultative.
 {: .notice--info}
@@ -29,8 +29,8 @@ In this step, you will synchronize your Wii with a NTP time server. This will se
 [Continuer vers la navigation du site](site-navigation)<br> Nous avons de nombreux autres tutoriels que vous pourriez aimer.
 {: .notice--info}
 
-Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
+Inclus dans le téléchargement du Navigateur Homebrew est un guide sur comment utiliser le Navigateur Homebrew.
 {: .notice--info}
 
-You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
+Vous pouvez remplacer Shopchannel.org avec loop.ogg dans `apps/homebrew_browser/` pour avoir le Homebrew Browser joue la musique Wii Shop.
 {: .notice--info}
