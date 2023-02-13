@@ -1,5 +1,5 @@
 ---
-title: "Průvodce webem"
+title: "Site Navigation"
 layout: single
 sitemap: false
 ---
@@ -7,7 +7,7 @@ sitemap: false
 ![WiiTutorials](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
-**Oblíbené**
+**Featured**
 
 + [cIOS](cios)
 + [Kirby TV Channel](kirby-tv)
@@ -22,7 +22,7 @@ sitemap: false
 + [RiiConnect24](riiconnect24)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
-+ [Nová DNS adresa služeb RiiConnect24](riiconnect24-dns-update)
++ [RiiConnect24 DNS Update](riiconnect24-dns-update)
 + [WiiLink](wiilink)
 + [WiiLink Demae Domino's](wiilink-demae-dominos)
 + [Wiimmfi](wiimmfi)
@@ -32,11 +32,11 @@ sitemap: false
 + [Fixing FORE000006](riiconnect24-batteryfix)
 + [Fixing NEWS000006](news000006)
 
-**Modding pro začátečníky**
+**Modding 101**
 + [BlueBomb](bluebomb)
-* [BootMii Backup (zálohování)](bootmii)
+* [BootMii Backup](bootmii)
 + [cIOS](cios)
-+ [Jak se chovat k hacknutému Wii](dosanddonts)
++ [Dos and Don'ts of Wii Modding](dosanddonts)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
 + [Homebrew Channel](hbc)
@@ -46,14 +46,14 @@ sitemap: false
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Jak vytvořit zástupce Wii her ve Wii Menu](wiigsc)
-+ [Jak vytvořit kopii kanálů (formát WAD)](dump-wads)
-+ [Jak vytvořit kopii GameCube/Wii her](dump-games)
-+ [Instalace RSSMii](rssmii)
-+ [Instalace Wii Menu skinů](themes)
-+ [Instalace Wii Menu skinů na vWii (Wii U)](themes-vwii)
-+ [Jak provést SysCheck](syscheck)
-+ [Odinstalace RSSMii](rssmii-remove)
++ [Creating Wii Game Shortcuts](wiigsc)
++ [How to dump Channels (WADs)](dump-wads)
++ [How to dump GameCube/Wii Games](dump-games)
++ [Installing RSSMii](rssmii)
++ [Installing Wii Menu Themes](themes)
++ [Installing Wii Menu Themes on vWii](themes-vwii)
++ [Performing a SysCheck](syscheck)
++ [Removing RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [Setting RTC Time](rtc)
 + [Updating Wii Menu to v4.3](update)
@@ -62,13 +62,13 @@ sitemap: false
 + [WiiFlow](wiiflow)
 
 **Wii mini**
-+ [Instalace Homebrew Channelu na Wii mini](hbc-mini)
-+ [Instalace cIOSu na Wii mini](cios-mini)
++ [Installing the Homebrew Channel on the Wii mini](hbc-mini)
++ [Installing cIOS on the Wii mini](cios-mini)
 
-**Web**
-+ [Domů](/)
-+ [Začínáme](get-started)
+**Site**
++ [Home](/)
++ [Get Started](get-started)
 + [FAQ](faq)
-+ [Přispějte](donations)
++ [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
