@@ -1,5 +1,5 @@
 ---
-title: "Site Navigatie"
+title: "Site Navigation"
 layout: single
 sitemap: false
 ---
@@ -7,7 +7,7 @@ sitemap: false
 ![WiiTutorials](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
-**Aanbevolen**
+**Featured**
 
 + [cIOS](cios)
 + [Kirby TV Channel](kirby-tv)
@@ -34,7 +34,7 @@ sitemap: false
 
 **Modding 101**
 + [BlueBomb](bluebomb)
-* [BootMii Back-up](bootmii)
+* [BootMii Backup](bootmii)
 + [cIOS](cios)
 + [Dos and Don'ts of Wii Modding](dosanddonts)
 + [FlashHax](flashhax)
@@ -49,11 +49,11 @@ sitemap: false
 + [Creating Wii Game Shortcuts](wiigsc)
 + [How to dump Channels (WADs)](dump-wads)
 + [How to dump GameCube/Wii Games](dump-games)
-+ [RSSMii installeren](rssmii)
-+ [Wii Menu Thema's Installeren](themes)
++ [Installing RSSMii](rssmii)
++ [Installing Wii Menu Themes](themes)
 + [Installing Wii Menu Themes on vWii](themes-vwii)
 + [Performing a SysCheck](syscheck)
-+ [RSSMii verwijderen](rssmii-remove)
++ [Removing RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [Setting RTC Time](rtc)
 + [Updating Wii Menu to v4.3](update)
@@ -67,7 +67,7 @@ sitemap: false
 
 **Site**
 + [Home](/)
-+ [Beginnen](get-started)
++ [Get Started](get-started)
 + [FAQ](faq)
 + [Donations](donations)
 {% endcapture %}
