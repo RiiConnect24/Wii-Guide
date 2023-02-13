@@ -4,77 +4,77 @@ title: "WiiLink"
 
 {% include toc title="Table of Contents" %}
 
-WiiLink și toate serviciile sale (precum Wii no Ma) nu sunt controlate sau administrate de RiiConnect24.
+WiiLink and all of its services (such as Wii no Ma) are not controlled or operated by RiiConnect24.
 {: .notice--warning}
 
-[WiiLink](https://wiilink24.com/) îți permite să folosești canalele exclusiv Japoneze Wii Room și Digicam Print Channel, iar în viitor te va lăsa să folosești Demae Channel din nou.
+[WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels Wii Room and Digicam Print Channel, and in the future will let you use the Demae Channel again.
 
-#### De ce ai nevoie
+#### What you need
 
-* Un card SD sau o unitate USB
-* Un Wii cu o conexiune la Internet
-* Un calculator Windows sau unul bazat pe Unix
+* An SD card or USB drive
+* A Wii with an Internet connection
+* A Windows or Unix based computer
 * [WiiLink Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
-#### Instrucțiuni
+#### Instructions
 
-##### Opțional: Wii Patcher
-Wii Patcher-ul nu va merge pe Dolphin. Dacă ești un utilizator de Dolphin, te rugăm folosește celelalte patchere.
+##### Optional: Wii Patcher
+The Wii Patcher will not work on Dolphin. If you are a Dolphin user, please use the other patchers.
 {: .notice--info}
 
-Dacă folosești Wii Patcher, nu va trebui să folosești și celelalte patchere ale noastre.
+If you use the Wii Patcher, you will not need to use our other patchers.
 {: .notice--info}
 
-1. Descarcă fișierul WAD în funcție de consola ta. Pentru Wii va fi `WiiLink_Patcher_Wii.wad`. Pentru vWii va fi `WiiLink_Patcher_vWii.wad`.
-2. Pune fișierul WAD în dosarul `WAD` din Cardul tău SD sau Unitatea ta USB.
-3. Introduce-ți Cardul SD/Unitatea USB în Wii
-4. Instalează fișierul WAD folosind Wii Mod Lite sau orice alt Manager de Fișiere WAD.
-5. Lansează canalul `WiiLink Patcher` din Meniul Wii.
-6. Alege canalul pe care vrei să-l descarci.
-7. Alege limba pe care vrei să o descarci.
-8. Dacă totul a funcționat cum trebuie, canalele ar trebui să fie în Meniul Wii.
+1. Download the WAD based on your console. For Wii it will be `WiiLink_Patcher_Wii.wad`. For vWii it will be `WiiLink_Patcher_vWii.wad`.
+2. Place the WAD in the `WAD` folder on your SD Card/USB.
+3. Insert your SD Card/USB in your Wii
+4. Install the WAD using Wii Mod Lite or any other WAD Manager.
+5. Launch the `WiiLink Patcher` channel from the Wii Menu.
+6. Select the channel you would like to download.
+7. Select the language you would like to download.
+8. If all worked, the channels should be on your Wii Menu.
 
-##### Secțiunea I - Modificarea Fișierelor WAD
+##### Section I - Patching WADs
 
-[Dacă vrei să vezi instrucțiuni detaliate despre cum să instalezi fișierele WAD, apasă aici!](wiimodlite)
+[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
 {: .notice--info}
 
-1. Descarcă fișierele necesare în funcție de sistemul tău de operare. Pe Windows, rulează `WiiLinkPatcher.bat`. Pe sisteme Unix, deschide Terminalul și scrie sh, apoi trage `WiiLinkPatcher.sh` în terminal și apasă enter.
-2. Apasă 1 pentru a alege "`Start`" și confirmă-ți selecția apăsând `ENTER`.
-3. Pentru acest ghid, alege "`Install WiiLink on your Wii`"
-4. Alege-ți regiunea.
-5. Conectează Cardul SD sau Unitatea USB în calculatorul tău și selectează "`1`".
-6. Dacă dispozitivul tău a fost detectat cu succes, selectează "`1`". Dacă nu, asigură-te că există un dosar numit `apps` în Cardul tău SD sau Unitatea ta USB și mai încearcă odată.
-7. Așteaptă...
-8. Odată ce este gata, poți închide patcher-ul în siguranță. Toate fișierele sunt pregătite în Cardul tău SD.
-9. Dacă nu a copiat tot automat în Cardul tău SD sau Unitatea ta USB, copiază dosarele `WAD` și `apps` de lângă `WiiLinkPatcher.bat` în Cardul tău SD sau Unitatea ta USB.
-10. Introdu cardul tău SD sau unitatea ta USB în Wii.
-11. Pornește Homebrew Channel pe Wii.
-12. Lansează Wii Mod Lite.
-13. Folosind +Control Pad-ul pe Wii Remote-ul tău, navighează la `WAD Manager`, apoi du-te la dosarul `wad`.
-14. În cazul în care consola ta Wii nu este din regiunea Japoneză, instalează WiiLink24_SPD.wad înainte de orice altceva. Acesta este necesar pentru ca noi să putem cunoaște adresa ta de e-mail pentru a trimite fișierele.
-15. Evidențiază toate celelalte fișiere WAD cu `WiiLink24` în nume, apoi apasă + pentru a le selecta. Când toate din ele sunt evidențiate, apasă A de două ori pentru a instala fișierele WAD.
-16. După ce este instalat cu succes, apasă Butonul HOME pentru a ieși înapoi în Homebrew Channel.
+1. Download the required files based on your OS. On Windows, run `WiiLinkPatcher.bat`. On Unix systems, launch terminal and type sh, then drag the `WiiLinkPatcher.sh` into the terminal and press enter.
+2. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`.
+3. For this guide, choose "`Install WiiLink on your Wii`"
+4. Select your region.
+5. Connect the SD Card or USB Drive to your computer and select "`1`".
+6. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
+7. Be patient...
+8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
+9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLinkPatcher.bat` to your SD Card or USB Device.
+10. Put your SD card or USB drive in your Wii.
+11. Launch the Homebrew Channel on your Wii.
+12. Launch Wii Mod Lite.
+13. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+14. If your Wii is not a Japanese region, install WiiLink24_SPD.wad before anything else. This is required so that we know your email address to send files.
+15. Highlight all other WADs with `WiiLink24` in the name, and press + to select them. When all of them are selected, press A twice to install the WADs.
+16. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
-##### Secțiunea II - Adăugarea e-mailului tău în SPD
+##### Section II - Adding your email to SPD
 
-Adăugarea e-mailului tău în SPD va permite canalelor precum Digicam și Demae să îți trimită imagini sau linkuri.
+Adding your email to SPD will allow channels like Digicam and Demae to send files like images or links to you.
 {: .notice--info}
 
-1. Lansează Digicam Print Channel din meniul principal Wii.
-2. În dreapta jos, apasă `Address settings` iar apoi `Yes`.
-3. Apasă pe `Email Address` din interiorul SPD-ului și scrie-ți adresa de e-mail. (asigură-te că **l-ai introdus corect**, pentru că altfel **nu va merge!**)
-4. Apasă `OK` și apoi `Done`.
-5. Odată ce ești în meniul principal SPD, alege `Digicam` în meniul `Choose Channel`. Odată ce ai făcut asta, ar trebui să meargă!
+1. Launch Digicam Print Channel from your Wii's home menu.
+2. On the bottom right, press `Address settings` and then `Yes`.
+3. Click on `Email Address` within SPD and type in your email address. (make sure you **put it in correctly** or it **will not work!**)
+4. Press `OK` and then `Done`.
+5. Once you are in the SPD main menu, choose `Digicam` in the `Choose Channel` menu. After you’ve done that, it should work!
 
-Pentru PAL (Consolele Wii Europene)<br> În Wii Settings te rugăm setează TV Resolution la 60 HZ (480p/480i). Poți găsi această opțiune în `Screen -> TV Resolution` Dacă nu faci asta, o bară roz va apărea în josul ecranului, obstrucționând vederea.
+For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
 {: .notice--info}
 
-[Continuă la RiiConnect24](riiconnect24)<br> Riiconnect24 îți permite să folosești servicii întrerupte de la WiiConnect24, care includ News, Forecast, Everybody Votes, Nintendo și Mii Contest Channel, împreună cu Wii Mail. Acesta este opțional de instalat.
+[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
 {: .notice--info}
 
-[Continuă la Wiimmfi](wiimmfi)<br> Wiimmfi îți permite să joci jocuri online după întreruperea Conexiunii Nintendo Wi-Fi. Acesta este opțional de instalat.
+[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
 {: .notice--info}
 
-[Continuă la navigarea site-ului](site-navigation)<br> Avem multe alte tutoriale care s-ar putea să-ți placă.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
