@@ -4,17 +4,17 @@ title: "USB Loader GX"
 
 {% include toc title="Table of Contents" %}
 
-Если вам нужна помощь относительно этого руководства, пожалуйста присоединитесь [к дискорд-серверу RiiConnect24](https://discord.gg/rc24) (рекомендовано), или [напишите нам по адресу support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 This is a quick start guide on how to use USB Loader GX, a popular USB loader for the Wii that's used to play games from a USB drive.
 
 ![USB Loader GX](/images/usbloadergx.png)
 
-#### Что вам нужно
+#### What you need
 
-* Wii
-* USB флешка/жёсткий диск
+* A Wii
+* A USB drive
 * [USB Loader GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
 
 Make sure you have installed [cIOS](/cios) before following this!
@@ -35,7 +35,7 @@ To play games, we recommend using an external hard drive for your Wii. Flash dri
 Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
-#### Инструкции
+#### Instructions
 
 ##### Downloading
 
@@ -56,7 +56,7 @@ There is no "guide" to use the USB Loader GX app. This is intended to help you l
 
 There are multiple buttons in the USB Loader GX interface.
 
-###### Главное меню
+###### Main Menu
 
 These are the functions the buttons found on the top of the main menu do, from left to right:
 
