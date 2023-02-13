@@ -1,52 +1,52 @@
 ---
-title: "Homebrew Channel și Instalarea BootMii"
+title: "Homebrew Channel and BootMii Installation"
 ---
 
 {% include toc title="Table of Contents" %}
 
-Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![HBC Logo](/images/hbc.png)
 
-Homebrew Channel este locul unde vei porni aplicațiile homebrew. BootMii este o bucată de software care poate face copii de rezervă și poate restaura memoria NAND a consolei tale Wii, iar dacă este instalat în boot2, oferă protecție anti-brick.
+The Homebrew Channel is where you will go to launch homebrew applications. BootMii is a piece of software that can backup and restore your Wii's NAND storage, and if installed in boot2, provides brick protection.
 
-#### Instrucțiuni
+#### Instructions
 
-1. Vei vedea un ecran de avertizare pentru înșelăciune. Așteaptă 30 de secunde pentru ca textul "Press 1 to continue" să apară, apoi apasă 1. ![Scam Screen](/images/Wii/ScamScreen.png)
+1. You will see a scam warning screen. Wait 30 seconds for the text "Press 1 to continue" to appear, then press 1. ![Scam Screen](/images/Wii/ScamScreen.png)
 
-2. Când ești în instalatorul HackMii, poți instala Homebrew Channel și BootMii.![Results](/images/Wii/Results.png)
+2. When at the HackMii installer, you are able to install the Homebrew Channel and BootMii. ![Results](/images/Wii/Results.png)
 
-3. Apasă Continue, apoi selectează Homebrew Channel, și apasă pe install.![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
+3. Press Continue, then select the Homebrew Channel, and press install. ![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
-4. Apasă Continue după ce este gata.![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
+4. Press Continue when finished. ![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
 
-5. Odată instalat, apasă back și mergi la BootMii.
-6. Dacă ecranul principal spune că poți instala BootMii ca boot2, fă acest lucru. Acesta oferă cea mai bună protecție anti-brick pe care o poți avea. Sari peste acest pas dacă opțiunea nu apare, în acel caz consola ta nu este una dintre modele mai vechi care îl susține.
-7. Instalează BootMii ca IOS, chiar dacă deja ai instalat BootMii ca boot2 în pasul anterior. Dacă nu ai putut instala BootMii ca boot2, asta tot îți va permite să faci o copie de rezervă NAND.
+5. Once installed, press back and go to BootMii.
+6. If the main screen says you can install BootMii as boot2, do so. This offers the best possible brick protection you can have. Skip this step if the option doesn't show up, in that case your Wii is not one of the earlier models that supports it.
+7. Install BootMii as IOS, even if you already installed BootMii as boot2 in the previous step. If you couldn't install BootMii as boot2, this will still allow you to create a NAND backup.
 
-Dacă nu ai un card SD, nu poți instala sau folosi BootMii, iar, prin urmare, nu vei putea folosi niciuna dintre beneficiile menționate. Îl poți instala oricând mai târziu.
+If you do not have an SD card, you cannot install nor use BootMii, and therefore will not be able to utilize any of the mentioned benefits. You can always install it at a later date.
 {: .notice--warning}
 
 ![BootMii Installation](/images/Wii/InstallBootMii.png)
 
-8. După ce este gata, alege `Continue`, iar apoi selectează `Exit` pentru a te duce în Homebrew Channel
+8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
 
-#### Lectură Obligatorie
+#### Required Reading
 
-Acum poți folosi Homebrew Channel pentru a lansa aplicații homebrew. Open Shop Channel este un magazin rapid pentru descărcarea aplicațiilor homebrew, pe care le vei învăța cum să le instalezi mai departe în acest ghid.
+You can now use the Homebrew Channel to launch homebrew apps. Open Shop Channel is a one-stop shop for downloading homebrew, which you will learn how to install further in this guide.
 
-Uite un sfat - când instalezi aplicații homebrew pe Cardul tău SD sau unitatea ta USB, structura dosarului tău ar trebui să arate așa:
+Here's a tip - when installing homebrew applications on your SD Card or USB drive, your folder structure should look like this:
 
 ![Proper SD Card Folder Structure](images/Wii/FolderStructure.png)
 
-`AppName1` și `AppName2` sunt nume de substituent. Nu adaugă mai multe dosare `apps` în interiorul dosarului `apps` propriu-zis.
+`AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
 
-┃ ┣ 📂 NumeleAplicației1
+[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
 {: .notice--info}
 
-┃ ┃ ┣ 📄 icon.png
+If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
 {: .notice--info}
 
-Sfat: Iți poți da seama dacă un Wii are BootMii instalat ca boot2 dacă cititorul de discuri luminează o perioadă foarte scurtă, doar după luminarea imediată care apare când apeși pe butonul POWER.
+Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
 {: .notice--info}
