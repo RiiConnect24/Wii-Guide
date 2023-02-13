@@ -2,42 +2,42 @@
 title: "cIOS"
 ---
 
-{% include toc title="Tablof Contents" %}
+{% include toc title="Table of Contents" %}
 
-Aquest tutorial us ensenyarà a instalar cIOS (IOS costumizats). Açò és requerit si vols carregar jocs amb un "USB Loader". Alguns programes "homebrew" poden funcionar millor emprant cIOS.
+This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
 
-![instalador d2x cIOS](/images/cios/cIOS.png)
+![d2x cIOS Installer](/images/cios/cIOS.png)
 
-Si tens una Wii U (vWii), segueix [aquesta guia](https://wiiu.hacks.guide/#/vwii-modding)per a instal·lar cIOS. Intentar instal·lar qualsevol altre cIOS a la vWii no funcionarà.
+If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
 {: .notice--info}
 
-Si tens una Wii, aleshores segueix [aquesta guia](cios-mini). Intentar instal·lar qualsevol altre cIOS a la vWii no funcionarà.
+If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
 {: .notice--info}
 
-#### Què necessitaràs?
+#### What you need
 
 - A Wii
-- Una tarjeta SD o Pendrive USB
-- [Instal·lador d2x cIOS](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
+- An SD card or USB drive
+- [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
-Assegurat que si estàs emprant una targeta SD, l'interruptor de bloqueig es troba a la posició de "desbloqueig", d'altra forma no podràs seleccionar les opcions correctes a l'instal·lador.
+Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
 {: .notice--warning}
 
-#### Instruccions
+#### Instructions
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'with-connection')">With an Internet connection to the Wii</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'without-connection')">Without an Internet connection to the Wii</button>
 
 <div id="with-connection" class="blanktabcontent" markdown="1">
 
-##### Secció I - Descarregar
+##### Section I - Downloading
 
 1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
 1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
 </div>
 <div id="without-connection" class="blanktabcontent" markdown="1">
 
-##### Secció I - Descarregar
+##### Section I - Downloading
 
 1. Download, extract, and run [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
 1. Select "Database", "IOS", then "IOS57", and select "v5918".
@@ -48,9 +48,9 @@ Assegurat que si estàs emprant una targeta SD, l'interruptor de bloqueig es tro
 1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
 </div>
 
-##### Secció II - Instalant
+##### Section II - Installing
 
-1. Premeu continuar, després fixeu les opcions a les següents:
+1. Press continue, then set the options to the following:
 
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
@@ -61,8 +61,8 @@ Select cIOS version: 65535
 
 ![Install cIOS 249](/images/cios/Install249.png)
 
-1. Una volta preparat, prem A dues vegades per a instal·lar.
-1. Quan hagueu acabat d'instalar, premeu A per a tornar, i poseu les opcions a les següents:
+1. Once set, press A twice to install.
+1. When done installing, press A to return, and set the options to the following:
 
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
@@ -73,8 +73,8 @@ Select cIOS version: 65535
 
 ![Install cIOS 250](/images/cios/Install250.png)
 
-1. Una volta preparat, prem A dues vegades per a instal·lar.
-1. Quan hagueu acabat d'instalar, premeu A per a tornar, i poseu les opcions a les següents:
+1. Once set, press A twice to install.
+1. When done installing, press A to return, and set the options to the following:
 
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
@@ -87,7 +87,7 @@ Select cIOS version: 65535
 
 1. Once set, press A twice again to install, and then exit once done.
 
-#### Resolució de problemes
+#### Troubleshooting
 
 {% capture bruh %}
 Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
@@ -127,7 +127,7 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 
-Ara pots utilitzar homebrew com [USB Loader GX](usbloadergx) i [WiiFlow](wiiflow).
+You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: .notice--info}
 
 <script>
