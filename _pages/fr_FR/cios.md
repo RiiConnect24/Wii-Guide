@@ -2,55 +2,55 @@
 title: "cIOS"
 ---
 
-{% include toc title="Table des matières" %}
+{% include toc title="Table of Contents" %}
 
-Ce tutoriel vous apprendra comment installer un cIOS (IOS customisé). C'est nécessaire si vous souhaitez lancer des jeux en utilisant un Loader USB. Certains homebrew peuvent mieux fonctionner grâce à l'utilisation d'un cIOS.
+This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
 
 ![d2x cIOS Installer](/images/cios/cIOS.png)
 
-Si vous avez une Wii U (vWii), suivez [ce guide](https://wiiu.hacks.guide/#/vwii-modding) pour installer cIOS à la place. Tenter d'installer tout autre cIOS sur vWii ne fonctionnera pas.
+If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
 {: .notice--info}
 
-Si vous avez une Wii mini, installez [ce cIOS](cios-mini) à la place. Tenter d'installer tout autre cIOS sur une Wii mini ne fonctionnera pas.
+If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
 {: .notice--info}
 
-#### Ce dont vous avez besoin
+#### What you need
 
-- Une Wii
-- Une carte SD ou un périphérique USB
+- A Wii
+- An SD card or USB drive
 - [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
-Assurez-vous que si vous utilisez une carte SD, le commutateur de verrouillage est en position de déverrouillage sinon vous ne serez pas en mesure de sélectionner les bonnes options dans l'installateur
+Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
 {: .notice--warning}
 
 #### Instructions
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'with-connection')">Avec une connexion Internet à la Wii</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'without-connection')">Sans connexion Internet à la Wii</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'with-connection')">With an Internet connection to the Wii</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'without-connection')">Without an Internet connection to the Wii</button>
 
 <div id="with-connection" class="blanktabcontent" markdown="1">
 
-##### Section I - Téléchargement
+##### Section I - Downloading
 
-1. Téléchargez d2x cIOS Installer et extrayez-la à la racine de votre carte SD ou de votre clé USB.
-1. Insérez votre carte SD ou votre clé USB dans votre Wii et lancez d2x cIOS Installer à partir de la chaîne Homebrew.
+1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
+1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
 </div>
 <div id="without-connection" class="blanktabcontent" markdown="1">
 
-##### Section I - Téléchargement
+##### Section I - Downloading
 
-1. Téléchargez, extrayez, et éxectuer [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
-1. Sélectionnez "Database", "IOS", puis "IOS57", et sélectionnez "v5918".
-   - Assurez-vous que "Pack WAD" est vérifié et que "Patch IOS" est désactivé.
-1. Répétez l'étape précédente pour IOS56 v5661 et IOS38 v4123.
-1. Une fois que vous aurez téléchargé les trois IOS, il y aura un dossier nommé `titles` dans le même dossier que le NUS Downloader. Ouvrez le dossier et naviguez entre eux jusqu'à ce que vous trouviez les trois fichiers WAD que vous avez téléchargés. Placez chacun des fichiers WAD à la racine de votre carte SD ou de votre clé USB.
-1. Téléchargez d2x cIOS Installer et extrayez-la à la racine de votre carte SD ou de votre clé USB.
-1. Insérez votre carte SD ou votre clé USB dans votre Wii et lancez d2x cIOS Installer à partir de la chaîne Homebrew.
+1. Download, extract, and run [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
+1. Select "Database", "IOS", then "IOS57", and select "v5918".
+   - Ensure that "Pack WAD" is checked and "Patch IOS" is unchecked.
+1. Repeat the previous step for IOS56 v5661 and IOS38 v4123.
+1. Once you have downloaded all three IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. Open the folder and navigate through them until you locate the three WAD files you downloaded. Place each of WAD files on the root of your SD card or USB drive.
+1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
+1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
 </div>
 
-##### Section II - Installation
+##### Section II - Installing
 
-1. Appuyez sur continuer, appliquez ensuite les options suivantes:
+1. Press continue, then set the options to the following:
 
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
@@ -59,10 +59,10 @@ Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 
-![Installer cIOS 249](/images/cios/Install249.png)
+![Install cIOS 249](/images/cios/Install249.png)
 
-1. Une fois appliqué, appuyez deux fois sur A pour installer.
-1. Quand l'installation est terminée, appuyez sur A pour revenir à l'écran précédent, et appliquez les options suivantes:
+1. Once set, press A twice to install.
+1. When done installing, press A to return, and set the options to the following:
 
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
@@ -71,10 +71,10 @@ Select cIOS slot: 250
 Select cIOS version: 65535
 ```
 
-![Installer cIOS 250](/images/cios/Install250.png)
+![Install cIOS 250](/images/cios/Install250.png)
 
-1. Une fois appliqué, appuyez deux fois sur A pour installer.
-1. Quand l'installation est terminée, appuyez sur A pour revenir à l'écran précédent, et appliquez les options suivantes:
+1. Once set, press A twice to install.
+1. When done installing, press A to return, and set the options to the following:
 
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
@@ -83,19 +83,19 @@ Select cIOS slot: 251
 Select cIOS version: 65535
 ```
 
-![Installer cIOS 251](/images/cios/Install251.png)
+![Install cIOS 251](/images/cios/Install251.png)
 
-1. Une fois réglé, appuyez deux fois sur A pour installer, puis quittez une fois terminé.
+1. Once set, press A twice again to install, and then exit once done.
 
-#### Dépannage
+#### Troubleshooting
 
 {% capture bruh %}
-Même si la majorité des jeux devraient fonctionner immédiatement avec les valeurs par défaut, certains peuvent nécessiter l'utilisation d'un cIOS spécifique pour fonctionner, ou pour utiliser certaines fonctionnalités dans le jeu.<br> Les exemples comprennent :
+Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
 
-- Utilisation d'un clavier dans Animal Crossing : City Folk.
-- Jouer à SpongeBob's Boating Bash.
+- Using a keyboard in Animal Crossing: City Folk.
+- Running SpongeBob's Boating Bash.
 
-Une liste plus compréhensible (bien qu'encore incomplète) se trouve [**ici**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> Pour changer le cIOS utilisé pour un jeu spécifique, suivez ces instructions :
+A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
 {% endcapture %}
 
 <div class="notice--warning">{{ bruh | markdownify }}</div>
@@ -104,30 +104,30 @@ Une liste plus compréhensible (bien qu'encore incomplète) se trouve [**ici**](
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
-1. Sélectionnez le jeu qui ne fonctionne pas.
-1. Cliquez sur Settings.
-1. Sélectionnez `Game Load`.
-1. Faites défiler vers le bas jusqu'à `Game IOS`.
-1. Entrez le slot IOS à utiliser.
-    - Essayez d'utiliser 250 ou 251, si 249 ne fonctionne pas.
-1. Appuyez sur ok et essayez de lancer le jeu.
+1. Select the game that isn't working.
+1. Click Settings.
+1. Select `Game Load`.
+1. Scroll down to `Game IOS`.
+1. Enter the IOS slot to use.
+    - Try using 250 or 251, if 249 doesn't work.
+1. Press ok and try to load the game.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
-1. Sélectionnez le jeu qui ne fonctionne pas.
-1. Cliquez sur l’icône d’engrenage.
-1. Allez dans cIOS et utilisez les flèches pour sélectionner le slot IOS à utiliser.
-    - Essayez d'utiliser 250 ou 251, si 249 ne fonctionne pas.
-1. Appuyez sur Enregistrer et essayez de charger le jeu.
+1. Select the game that isn't working.
+1. Click the gear icon.
+1. Go to cIOS and use the arrows to select the IOS slot to use.
+    - Try using 250 or 251, if 249 doesn't work.
+1. Press Save and try to load the game.
 </div>
-##### Options disponibles une fois le processus terminé
+##### Options once complete
 
-[Continuer vers Homebrew Browser](hbb)<br> Homebrew Browser est un l'endroit idéal pour obtenir des homebrew pour votre Wii. Ceci est facultatif à installer.
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
 {: .notice--info}
 
-[Continuer vers la navigation du site](site-navigation)<br> Nous avons de nombreux autres tutoriels que vous pourriez aimer.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 
-Vous pouvez maintenant utiliser des homebrew comme [USB Loader GX](usbloadergx) et [WiiFlow](wiiflow).
+You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: .notice--info}
 
 <script>
