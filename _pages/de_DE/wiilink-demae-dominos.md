@@ -19,11 +19,11 @@ Currently, only the USA and Canada are supported.
 You cannot use the default Dolphin NAND with this service. You must use your own NAND dump. This can be done in Dolphin by going to the toolbar and clicking `Tools -> Manage NAND -> Import BootMii NAND Backup`.
 {: .notice--warning}
 
-#### Voraussetzungen
+#### What you need
 
 * Eine SD-Karte oder ein USB-Laufwerk
 * A Wii with an internet connection
-* Ein Computer
+* A computer
 * Ein Discord-Konto
 
 #### Anleitung
@@ -61,12 +61,12 @@ If you already have the WiiLink Set Personal Data channel, you must install this
 
 You will now install the Food Channel and Set Personal Data channels.
 
-1. Verbinde deine SD-Karte bzw. dein USB-Laufwerk mit deiner Wii.
+1. Put your SD card or USB drive in your Wii.
 2. Starte den Homebrew-Kanal auf deiner Wii.
-3. Starte Wii Mod Lite.
-4. Mithilfe der rechten Steuerkreuztaste auf deiner Wii-Fernbedienung, wähle `WAD Manager` und wähle dann den `wad`-Ordner.
+3. Launch Wii Mod Lite.
+4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 5. Highlight the Food Channel and Set Personal Data WADs by pressing the + Button over each of them. When all the WADs are selected, press A twice to install the WADs.
-6. Nach erfolgreicher Installation drücke den Home-Knopf um zum Homebrew-Kanal zurückzukehren.
+6. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
 ##### Section V - Setting your personal data
 
@@ -100,5 +100,5 @@ If you have previously placed an order, skip to step 5.
 8. Review your order throughly before placing the order. When you are ready, click the big green `Order` button. ![Before Order](/images/Demae-Dominos/order.png)
 9. If no error appeared, your order was placed successfully! To track your order, simply visit the Domino's Tracker for your region and enter the phone number you entered in Set Personal Data.
 
-[Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
