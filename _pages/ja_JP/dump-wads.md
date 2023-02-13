@@ -1,34 +1,34 @@
 ---
-title: "WAD吸出し"
+title: "Dumping WADs"
 ---
 
-{% include toc title="目次" %}
+{% include toc title="Table of Contents" %}
 
-このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-このチュートリアルでは、WiiシステムメモリからWADをダンプ（吸出し）する方法を説明します。
+This tutorial will explain you how to dump WADs from your Wii System Memory.
 
-#### 必要なもの
-* SDカードまたはUSBドライブ
+#### Requirements
+* An SD card or USB drive
 * [Yet Another BlueDump MOD](https://hbb1.oscwii.org/hbb/Yet-Another-BlueDump-Mod/Yet-Another-BlueDump-Mod.zip)
 
-#### 手順
-##### セクション I - ダウンロードとインストール
+#### Instructions
+##### Section I - Downloading/Installing
 
-1. SDカードまたはUSBドライブにYet Another BlueDump MODを抽出します。
-2. WiiにSDカード（USBドライブ）を挿入し、Homebrew ChannelからYet Another BlueDump MODを起動します。
+1. Extract Yet Another BlueDump MOD to your SD card or USB drive.
+2. Insert your SD card or USB drive into your Wii, and launch Yet Another BlueDump MOD from the Homebrew Channel.
 
-##### セクション II - 吸出し
-1. Aボタンを押します。 ![Aを押す](/images/DumpWADS/2.png)
+##### Section II - Dumping
+1. Press the A Button. ![Press A](/images/DumpWADS/2.png)
 
-2. `Installed Channel Titles`を選択します。 ![インストール済みチャンネルタイトル](/images/DumpWADS/3.png)
+2. Choose `Installed Channel Titles`. ![Installed Channel Titles](/images/DumpWADS/3.png)
 
-3. 吸出ししたいコンテンツを見つけて、1ボタンを押します。 ![チャンネルを探す](/images/DumpWADS/4.png)
+3. Find the content you want to dump and press the 1 Button. ![Find channel](/images/DumpWADS/4.png)
 
-4. `Backup to WAD`を選択します。
-5. `Fakesign the ticket`が表示されたら`Yes`を選びます。
-6. `Fakesign the TMD`が表示されたら`No`を選びます。
-7. `Change the output WAD region`が表示されたら`No`を選びます。
+4. Choose `Backup to WAD`.
+5. At the prompt to `Fakesign the ticket`, choose `Yes`.
+6. At the prompt to `Fakesign the TMD`, choose `No`.
+7. At the prompt to `Change the output WAD region`, choose `No`.
 
-これでWADがダンプされました。 SDカードにあるはずです。 ![完了](/images/DumpWADS/5.png)
+You have now dumped that WAD. It should appear on your SD card. ![Done](/images/DumpWADS/5.png)
