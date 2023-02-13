@@ -2,25 +2,25 @@
 title: "FlashHax"
 ---
 
-Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-FlashHax este un exploit pentru Wii care este activat prin folosirea Internet Channel. Spre deosebire de alte exploit-uri, acesta nu necesita un card SD.
+FlashHax is an exploit for the Wii that is triggered by using the Internet Channel. Unlike other exploits, this doesn't require an SD card.
 
-#### De ce ai nevoie
+#### What you need
 
-- Un Wii cu o conexiune la Internet
-- Internet Channel
+- A Wii with an Internet connection
+- The Internet Channel
 
-#### Instrucțiuni
+#### Instructions
 
-1. Deschide Internet Channel pe Wii.
-2. Du-te la flashhax.com în browser și marchează pagina (bookmark).
-3. Deschide site-ul din marcaj. Apoi va proceda să descarce și să ruleze Instalatorul HackMii. S-ar putea să dureze ceva timp pentru că descarcă instalatorul prin Internet.
+1. Open up the Internet Channel on your Wii.
+2. Go to flashhax.com in the browser and bookmark the page.
+3. Open the site from the bookmark. It'll then proceed to download and load the HackMii Installer. It may take some time as it is downloading the installer over the Internet.
 
-Dacă Instalatorul HackMii nu rulează și în schimb îngheață (nu poți muta cursorul), te rugăm să-ți repornești consola și repetă pasul 3 până merge. S-ar putea să dureze mai multe încercări, fi persistent!
+If the HackMii Installer doesn't load and it instead freezes (you can't move your cursor), please restart your Wii and repeat step 3 until it works. It might take multiple tries, be persistent!
 
-Dacă tot nu îl poți face să ruleze, încearcă să îți ștergi cookie-urile sau datele salvate pentru Internet Channel.
+If you still can't get it to load, try deleting your cookies or save data for the Internet Channel.
 
-[Continuă la Homebrew Channel și instalarea BootMii](hbc)
+[Continue to Homebrew Channel and BootMii Installation](hbc)
 {: .notice--info}
