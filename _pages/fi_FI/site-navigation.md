@@ -1,7 +1,7 @@
 ---
-title: "Sivuston navigointi"
-layout: yksittäinen
-sitemap: epätosi
+title: "Site Navigation"
+layout: single
+sitemap: false
 ---
 
 ![WiiTutorials](/images/WiiTutorials.jpg)
@@ -32,7 +32,7 @@ sitemap: epätosi
 + [Fixing FORE000006](riiconnect24-batteryfix)
 + [Fixing NEWS000006](news000006)
 
-**Modauksen 101**
+**Modding 101**
 + [BlueBomb](bluebomb)
 * [BootMii Backup](bootmii)
 + [cIOS](cios)
@@ -49,11 +49,11 @@ sitemap: epätosi
 + [Creating Wii Game Shortcuts](wiigsc)
 + [How to dump Channels (WADs)](dump-wads)
 + [How to dump GameCube/Wii Games](dump-games)
-+ [RSSMii:n asentaminen](rssmii)
-+ [Wii Menu -teemojen asentaminen](themes)
++ [Installing RSSMii](rssmii)
++ [Installing Wii Menu Themes](themes)
 + [Installing Wii Menu Themes on vWii](themes-vwii)
 + [Performing a SysCheck](syscheck)
-+ [RSSMii:n Poistaminen](rssmii-remove)
++ [Removing RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [Setting RTC Time](rtc)
 + [Updating Wii Menu to v4.3](update)
@@ -62,13 +62,13 @@ sitemap: epätosi
 + [WiiFlow](wiiflow)
 
 **Wii mini**
-+ [Homebrew Channel:n asentaminen Wii mini:lle](hbc-mini)
-+ [cIOS:n asentaminen Wii mini:lle](cios-mini)
++ [Installing the Homebrew Channel on the Wii mini](hbc-mini)
++ [Installing cIOS on the Wii mini](cios-mini)
 
-**Sivu**
-+ [Koti](/)
-+ [Aloita](aloita)
-+ [UKK](ukk)
-+ [Lahjoitukset](donations)
+**Site**
++ [Home](/)
++ [Get Started](get-started)
++ [FAQ](faq)
++ [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
