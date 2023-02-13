@@ -11,16 +11,16 @@ Con esta guía aprenderás a instalar los cIOS (IOS personalizados) d2x. Esto te
 Si tu consola es una Wii U y deseas instalar los cIOS en el modo Wii (vWii), por favor sigue [esta guía](https://wiiu.hacks.guide/#/vwii-modding). No intentes instalar ningún otro cIOS en una vWii, pues no funcionará y podrías dañar tu consola.
 {: .notice--info}
 
-Si tienes una Wii Mini, Instala [este cIOS](cios-mini) diferente en su lugar. Si intentas instalar cualquier otro cIOS en la Wii mini, no funcionará.
+If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
 {: .notice--info}
 
 #### Requisitos
 
 - Una consola Wii
 - Una tarjeta SD o memoria USB
-- [Instalador del cIOS d2x](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
+- [Logotipo de d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
-Asegurate de que estas utilizando una SD sin el bloqueo (lock) activado. El boton de bloqueo (lock) debe estar en el lado contrario de la inscripción "Lock", de lo contrario (si esta en el lado de lock), no podrás iniciar el instalador correctamente.
+Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
 {: .notice--warning}
 
 #### Instrucciones
@@ -87,7 +87,7 @@ Select cIOS version: 65535
 
 1. Once set, press A twice again to install, and then exit once done.
 
-#### Resolución de problemas
+#### Troubleshooting
 
 {% capture bruh %}
 Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
@@ -121,13 +121,13 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 </div>
 ##### Opciones una vez terminado
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. Esto es opcional a instalar.
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
 {: .notice--info}
 
 [Echa un vistazo a nuestras otras guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
 {: .notice--info}
 
-Ahora puedes usar aplicaciones homebrew como [USB Loader GX](usbloadergx) y [WiiFlow](wiiflow).
+You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: .notice--info}
 
 <script>
