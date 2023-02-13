@@ -19,14 +19,14 @@ Currently, only the USA and Canada are supported.
 You cannot use the default Dolphin NAND with this service. You must use your own NAND dump. This can be done in Dolphin by going to the toolbar and clicking `Tools -> Manage NAND -> Import BootMii NAND Backup`.
 {: .notice--warning}
 
-#### Você precisará de
+#### What you need
 
-* Um cartão SD ou pendrive
+* An SD card or USB drive
 * A Wii with an internet connection
-* Um computador
-* Uma conta no Discord
+* A computer
+* A Discord account
 
-#### Instruções
+#### Instructions
 
 ##### Section I - Obtaining your Wii's Console ID
 
@@ -61,12 +61,12 @@ If you already have the WiiLink Set Personal Data channel, you must install this
 
 You will now install the Food Channel and Set Personal Data channels.
 
-1. Coloque seu cartão SD ou pendrive USB no seu Wii.
-2. Inicie o Homebrew Channel no Wii.
-3. Inicie o Wii Mod Lite.
-4. Usando o +Control Pad no seu Controle Remoto do Wii, navegue para `WAD Manager`, depois navegue até a pasta `wad`.
+1. Put your SD card or USB drive in your Wii.
+2. Launch the Homebrew Channel on your Wii.
+3. Launch Wii Mod Lite.
+4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 5. Highlight the Food Channel and Set Personal Data WADs by pressing the + Button over each of them. When all the WADs are selected, press A twice to install the WADs.
-6. Depois que eles forem instalados com sucesso, pressione o botão HOME para sair para o Homebrew Channel.
+6. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
 ##### Section V - Setting your personal data
 
@@ -92,13 +92,13 @@ If you have previously placed an order, skip to step 5.
 
 1. If you have used the previous version of the Food Channel, go to `Wii Settings` to delete your save data.
 2. Launch the Food Channel from the Wii Menu
-3. Follow the on-screen instructions, then click `Order` in the main menu. ![Menu Principal](/images/Demae-Dominos/main-menu.png)
-4. You will now be prompted to select your region. Be sure to select your residing country correctly. Failure to do so will result in restaurants failing to load. You will then be prompted to select your state/province, then city. If your city is not on the list, you can select any one as it does not matter. ![Menu Principal](/images/Demae-Dominos/country-setup.png)
+3. Follow the on-screen instructions, then click `Order` in the main menu. ![Main Menu](/images/Demae-Dominos/main-menu.png)
+4. You will now be prompted to select your region. Be sure to select your residing country correctly. Failure to do so will result in restaurants failing to load. You will then be prompted to select your state/province, then city. If your city is not on the list, you can select any one as it does not matter. ![Main Menu](/images/Demae-Dominos/country-setup.png)
 5. Click the `Pizza` button. This will load all the restaurants in your area. The first restaurant in the list is the one closest to you.
 6. Click `See Menu` to list the different menu categories. Click the category you would like, then select a food item. In the item screen, you can add toppings and adjust quantity.
 7. After adding a food item, you will be brought to the basket. To add a food item, scroll to the bottom and select `Add Order`. To proceed to checkout, click `Next`.
 8. Review your order throughly before placing the order. When you are ready, click the big green `Order` button. ![Before Order](/images/Demae-Dominos/order.png)
 9. If no error appeared, your order was placed successfully! To track your order, simply visit the Domino's Tracker for your region and enter the phone number you entered in Set Personal Data.
 
-[Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
