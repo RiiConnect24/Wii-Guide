@@ -9,7 +9,7 @@ Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [Rii
 
 ![RiiConnect24-Logo](/images/WiiRC24Logo.jpg)
 
-Falls du den Fehler FORE000006 erhältst, ist deine Wii-Uhr wahrscheinlich nicht korrekt eingestellt. Stelle Datum und Uhrzeit richtig ein, warte anschließend maximal eine Stunde und der Wetterkanal sollte funktionieren.
+If you get error FORE000006, your Wii's clock is probably set incorrectly. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel should start working.
 
-[Zurückkehren zur RiiConnect24 Installationsseite](riiconnect24)
+[Return to RiiConnect24 installation page](riiconnect24)
 {: .notice--info}
