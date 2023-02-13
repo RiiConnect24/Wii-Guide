@@ -13,14 +13,14 @@ You need an Internet connection in order to use this application.
 
 The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
 
-#### Τι χρειάζεστε
-* Μία κάρτα SD ή μέσο αποθήκευσης USB
-* [Το Homebrew Browser](/assets/files/homebrew_browser_v0.3.9e.zip)
+#### What you need
+* An SD card or USB drive
+* [Homebrew Browser](/assets/files/homebrew_browser_v0.3.9e.zip)
 
-#### Οδηγίες
+#### Instructions
 
-1. Εξάγετε το Homebrew Browser και τοποθετήστε το στον φάκελο `apps` στην κάρτα SD σας ή στο USB αποθηκευτικό μέσο σας.
-2. Εισάγετε την κάρτα SD σας ή το αποθηκευτικό μέσο USB στο Wii σας. Μπορείτε τώρα να ανοίξετε το Homebrew Browser από το κανάλι Homebrew εάν το επιθυμείτε.
+1. Extract the Homebrew Browser and put it in the `apps` folder on your SD card or USB drive.
+2. Insert your SD card or USB drive into your Wii. You can now launch the Homebrew Browser from the Homebrew Channel if you want to.
 
 #### Recommended Apps
 
@@ -40,7 +40,7 @@ Here are some recommended apps that you can get on the Open Shop Channel:
 [Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
 {: .notice--info}
 
-[Συνεχίστε στην περιήγηση ιστοσελίδας](site-navigation)<br> Έχουμε πολλούς άλλους οδηγούς που μπορεί να σας αρέσουν.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 
 Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
