@@ -1,8 +1,8 @@
 ---
-title: "Wii/GameCube-pelien kopiointi"
+title: "Dumping Wii/GameCube games"
 ---
 
-Haluatko luoda kopion GameCube- tai Wii-levystä? Sen tekemiseen on olemassa kaksi tapaa, riippuen saatavillasi olevista työkaluista.
+Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'dump-smb')">To a PC over the network</button>
@@ -11,57 +11,57 @@ Haluatko luoda kopion GameCube- tai Wii-levystä? Sen tekemiseen on olemassa kak
 
 ### CleanRip
 
-#### Mitä tarvitset
+#### What you need
 
-- SD-kortti tai USB-asema, jossa on vähintään 4.7 GB vapaata tilaa (8.5 GB if dumping a dual layer disc).
+- An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
 - [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
-#### Ohjeet
+#### Instructions
 
-##### Osa I - Lataaminen/Asentaminen
+##### Section I - Downloading/Installing
 
-1. Pura CleanRip ja laita se `apps` kansioon SD-kortillesi tai USB-asemallesi.
-1. Laita SD-korttisi Wii-konsoliisi ja käynnistä CleanRip Homebrew Channelista.
+1. Extract CleanRip and put it in the `apps` folder on your SD card or USB drive.
+1. Insert your SD card into your Wii, and launch CleanRip from the Homebrew Channel.
 
-##### Osa II - Levyn kopiointi
+##### Section II - Ripping
 
-1. Valitse laite, jolle dumppaat pelin - USB-asemasi tai SD-korttisi. ![Laitteen tyyppi](/images/CleanRip/2.png)
-1. Tässä näytössä se kysyy sinulta, jos haluat ladata tiedoston pelien tarkistussummilla, jotta voit varmistaa, että tehty kopio on 1:1 kopio levystä. On sinun valintasi sanoa `Yes` tai `No` tämän tiedoston lataamiselle. ![DAT](/images/CleanRip/3.png)
-1. Aseta nyt levyasemaan peli, jonka haluat dumpata. ![DVD](/images/CleanRip/4.png) ![Alustetaan Levyä](/images/CleanRip/5.png)
-1. Aseta se siksi mitä näet alla olevalla näytöllä.
-title: "CleanRip"
+1. Select your device that you will be dumping the game to - your USB drive or SD card. ![Device type](/images/CleanRip/2.png)
+1. On this screen, it asks you if you want to download a file with game checksums so you can verify the dump created is a 1:1 copy of the disc. It's your choice whether to say `Yes` or `No` to download this file. ![DAT](/images/CleanRip/3.png)
+1. Now insert the game you want to dump. ![DVD](/images/CleanRip/4.png) ![Initialising Disc](/images/CleanRip/5.png)
+1. Set it as shown on the screen below.
+If you are dumping one of the 13 games on [this list](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games), set `Dual Layer` to `Yes`.
 {: .notice--info}
-![Asetukset](/images/CleanRip/6.png)
+![Settings](/images/CleanRip/6.png)
 
-1. CleanRip dumppaa nyt pelisi. Voi kestää jonkin aikaa, sillä se dumppaa koko 4,7 Gt levyn sisällön (8,5 Gt kaksikerroksisille levyille). ![Kopioidaan](/images/CleanRip/7.png)
+1. CleanRip will now dump your game. It can take a while, since it will dump the full 4.7 GB disc contents (8.5 GB for dual layer discs). ![Copying](/images/CleanRip/7.png)
 </div>
 
 <div id="dump-smb" class="blanktabcontent" markdown="1">
 
 ### Dumping a game over a local network
 
-#### Mitä tarvitset
+#### What you need
 
 - [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
 Your Wii and your computer must be connected to one local network.
 {: .notice--warning}
 
-#### Ohjeet
+#### Instructions
 
-##### Osa I - Lataaminen/Asentaminen
+##### Section I - Downloading/Installing
 
-1. Pura DVD Dump Tool ja laita se `apps` kansioon SD-kortillesi tai USB-asemallesi.
-1. Laita SD-korttisi Wii-konsoliisi ja käynnistä DVD Dump Tool Homebrew Channelista.
+1. Extract DVD Dump Tool and put it in the `apps` folder on your SD card or USB drive.
+1. Insert your SD card into your Wii, and launch DVD Dump Tool from the Homebrew Channel.
 
-##### Osa II - Levyn kopiointi
+##### Section II - Ripping
 
 1. Press the right on the D-pad and press A. ![2](/images/DumpDiscs_LAN/2.png)
-1. Valitse levy, jonka haluat kopioida (Valinnat ovat: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc`) ja paina "A" ![3](/images/DumpDiscs_LAN/3.png)
-1. Aseta nyt pelisi Wii-konsoliisi. (If it's already in your Wii, eject it and put it back.) ![SyötäLevy](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
-1. Muista Wiisi URL (IP-osoite) ![5](/images/DumpDiscs_LAN/5.png)
+1. Choose the disc that you want to copy (The options are: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` and press "A" ![3](/images/DumpDiscs_LAN/3.png)
+1. Now put your game to your Wii. (If it's already in your Wii, eject it and put it back.) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
+1. Remember your Wii URL (IP address) ![5](/images/DumpDiscs_LAN/5.png)
 1. On your computer's web browser, go to your address bar and enter the Wii URL. ![6](/images/DumpDiscs_LAN/6.png)
 1. Click on `Click here to download XXXX.iso`. ![7](/images/DumpDiscs_LAN/7.jpg)
-Siirtonopeus ei ole nopein, mutta jos et voi käyttää mitään muuta, se on parempi kuin ei mitään.
+The transfer speed is not the fastest, but if you can't use anything else, it's better than nothing.
 {: .notice--info}
 ![8](/images/DumpDiscs_LAN/8.PNG)
 </div>
