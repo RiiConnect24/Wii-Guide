@@ -1,8 +1,8 @@
 ---
-title: "Tvorba kopií Wii/GameCubových her (dumping)"
+title: "Dumping Wii/GameCube games"
 ---
 
-Chcete dumpnout GameCube nebo Wii disk (vytvořit jeho přesnou kopii na přenosném úložišti)? Existují dva způsoby, jak to udělat, v závislosti na prostředcích, které máte k dispozici.
+Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'dump-smb')">To a PC over the network</button>
@@ -11,57 +11,57 @@ Chcete dumpnout GameCube nebo Wii disk (vytvořit jeho přesnou kopii na přenos
 
 ### CleanRip
 
-#### Co budete potřebovat
+#### What you need
 
-- SD kartu nebo USB disk s alespoň 4,7 GB volného místa (s volnými 8,5 GB při dumpování dvouvrstvého disku).
+- An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
 - [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
-#### Pokyny
+#### Instructions
 
-##### Část I
+##### Section I - Downloading/Installing
 
-1. Extrahujte CleanRip do složky `apps` na vaší SD kartě nebo USB disku.
-1. Vložte SD kartu do vašeho Wiička a spusťte CleanRip v Homebrew Channelu.
+1. Extract CleanRip and put it in the `apps` folder on your SD card or USB drive.
+1. Insert your SD card into your Wii, and launch CleanRip from the Homebrew Channel.
 
-##### Část II - Ripování disku
+##### Section II - Ripping
 
-1. Zvolte jednotku, na kterou chcete hru dumpovat - buď na SD kartu, nebo USB disk. ![Device type](/images/CleanRip/2.png)
-1. Na této obrazovce budete dotázáni, zda chcete stáhnout soubor s kontrolním součtem, aby bylo možné nahlížet na kopírovanou hru jako na 1:1 kopii. Je zcela na vás, jestli vyberete `Yes` (Ano) nebo `No` (Ne). ![DAT](/images/CleanRip/3.png)
-1. Nyní vložte disk s hrou, kterou chcete dumpovat. ![DVD](/images/CleanRip/4.png) ![Initialising Disc](/images/CleanRip/5.png)
-1. Nastavte vše tak, jak je ukázáno níže.
-title: "CleanRip"
+1. Select your device that you will be dumping the game to - your USB drive or SD card. ![Device type](/images/CleanRip/2.png)
+1. On this screen, it asks you if you want to download a file with game checksums so you can verify the dump created is a 1:1 copy of the disc. It's your choice whether to say `Yes` or `No` to download this file. ![DAT](/images/CleanRip/3.png)
+1. Now insert the game you want to dump. ![DVD](/images/CleanRip/4.png) ![Initialising Disc](/images/CleanRip/5.png)
+1. Set it as shown on the screen below.
+If you are dumping one of the 13 games on [this list](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games), set `Dual Layer` to `Yes`.
 {: .notice--info}
 ![Settings](/images/CleanRip/6.png)
 
-1. CleanRip nyní provede dumpování disku s hrou. Bude to nějakou dobu trvat, protože se zkopíruje 4,7 GB dat (v případě kopírování dvouvrstvého disku 8,5 GB). ![Copying](/images/CleanRip/7.png)
+1. CleanRip will now dump your game. It can take a while, since it will dump the full 4.7 GB disc contents (8.5 GB for dual layer discs). ![Copying](/images/CleanRip/7.png)
 </div>
 
 <div id="dump-smb" class="blanktabcontent" markdown="1">
 
 ### Dumping a game over a local network
 
-#### Co budete potřebovat
+#### What you need
 
 - [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
 Your Wii and your computer must be connected to one local network.
 {: .notice--warning}
 
-#### Pokyny
+#### Instructions
 
-##### Část I
+##### Section I - Downloading/Installing
 
-1. Extrahujte DVD Dump Tool do složky `apps` na vaší SD kartě nebo USB disku.
-1. Vložte SD kartu do vašeho Wiička a spusťte DVD Dump Tool v Homebrew Channelu.
+1. Extract DVD Dump Tool and put it in the `apps` folder on your SD card or USB drive.
+1. Insert your SD card into your Wii, and launch DVD Dump Tool from the Homebrew Channel.
 
-##### Část II - Ripování disku
+##### Section II - Ripping
 
 1. Press the right on the D-pad and press A. ![2](/images/DumpDiscs_LAN/2.png)
-1. Zvolte disk, který chcete zkopírovat (možnosti: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` a stiskněte "A" ![3](/images/DumpDiscs_LAN/3.png)
-1. Nyní vložte danou hru do svého Wiička. (If it's already in your Wii, eject it and put it back.) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
-1. Zapamatujte si URL vašeho Wii (IP adresa) ![5](/images/DumpDiscs_LAN/5.png)
+1. Choose the disc that you want to copy (The options are: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` and press "A" ![3](/images/DumpDiscs_LAN/3.png)
+1. Now put your game to your Wii. (If it's already in your Wii, eject it and put it back.) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
+1. Remember your Wii URL (IP address) ![5](/images/DumpDiscs_LAN/5.png)
 1. On your computer's web browser, go to your address bar and enter the Wii URL. ![6](/images/DumpDiscs_LAN/6.png)
 1. Click on `Click here to download XXXX.iso`. ![7](/images/DumpDiscs_LAN/7.jpg)
-Rychlost přenosu to nebude nejrychlejší, ale pokud nemůžete použít nic jiného, je to lepší než nic.
+The transfer speed is not the fastest, but if you can't use anything else, it's better than nothing.
 {: .notice--info}
 ![8](/images/DumpDiscs_LAN/8.PNG)
 </div>
