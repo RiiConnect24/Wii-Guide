@@ -17,13 +17,13 @@ In this step, you will synchronize your Wii with a NTP time server. This will se
 #### Instructions
 
 1. Extract sntp and put it in the `apps` folder on your SD card or USB drive.
-2. Insert your SD card or USB drive into your Wii. Insert your SD card or USB drive into your Wii. You can now launch the Homebrew Browser from the Homebrew Channel if you want to.
+2. Insert your SD card or USB drive into your Wii.
 3. Launch the Homebrew Channel on your Wii.
 4. Launch sntp.
 5. Use the +Control Pad to select the current time.
 6. Press the HOME Button to exit.
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install. This is optional to install. This is optional to install.
+[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
