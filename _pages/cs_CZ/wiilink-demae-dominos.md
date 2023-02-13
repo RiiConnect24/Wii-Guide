@@ -19,14 +19,14 @@ Currently, only the USA and Canada are supported.
 You cannot use the default Dolphin NAND with this service. You must use your own NAND dump. This can be done in Dolphin by going to the toolbar and clicking `Tools -> Manage NAND -> Import BootMii NAND Backup`.
 {: .notice--warning}
 
-#### Co budete potřebovat
+#### What you need
 
-* SD karta nebo USB disk
+* An SD card or USB drive
 * A Wii with an internet connection
-* Počítač
+* A computer
 * A Discord account
 
-#### Pokyny
+#### Instructions
 
 ##### Section I - Obtaining your Wii's Console ID
 
@@ -61,12 +61,12 @@ If you already have the WiiLink Set Personal Data channel, you must install this
 
 You will now install the Food Channel and Set Personal Data channels.
 
-1. Vložte SD kartu nebo USB disk do svého Wii.
-2. Na svém Wii spusťte Homebrew Channel.
-3. Spusťte Wii Mod Lite.
-4. Pomocí D-Padu na Wii Remotu vyberte možnost `WAD Manager`, poté přejděte do složky `wad`.
+1. Put your SD card or USB drive in your Wii.
+2. Launch the Homebrew Channel on your Wii.
+3. Launch Wii Mod Lite.
+4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 5. Highlight the Food Channel and Set Personal Data WADs by pressing the + Button over each of them. When all the WADs are selected, press A twice to install the WADs.
-6. Jakmile se úspěšně nainstalují, stiskněte tlačítko HOME, abyste se vrátili do Homebrew Channelu.
+6. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
 ##### Section V - Setting your personal data
 
