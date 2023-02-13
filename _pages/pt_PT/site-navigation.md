@@ -1,5 +1,5 @@
 ---
-title: "Navegação do Site"
+title: "Site Navigation"
 layout: single
 sitemap: false
 ---
@@ -7,7 +7,7 @@ sitemap: false
 ![WiiTutorials](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
-**Destaque**
+**Featured**
 
 + [cIOS](cios)
 + [Kirby TV Channel](kirby-tv)
@@ -32,9 +32,9 @@ sitemap: false
 + [Fixing FORE000006](riiconnect24-batteryfix)
 + [Fixing NEWS000006](news000006)
 
-**Modificação 101**
+**Modding 101**
 + [BlueBomb](bluebomb)
-* [Cópia de segurança BootMii](bootmii)
+* [BootMii Backup](bootmii)
 + [cIOS](cios)
 + [Dos and Don'ts of Wii Modding](dosanddonts)
 + [FlashHax](flashhax)
@@ -46,14 +46,14 @@ sitemap: false
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Criar atalhos para jogos Wii](wiigsc)
++ [Creating Wii Game Shortcuts](wiigsc)
 + [How to dump Channels (WADs)](dump-wads)
 + [How to dump GameCube/Wii Games](dump-games)
-+ [Instalar RSSMii](rssmii)
-+ [Instalando Temas para o Wii Menu](themes)
++ [Installing RSSMii](rssmii)
++ [Installing Wii Menu Themes](themes)
 + [Installing Wii Menu Themes on vWii](themes-vwii)
 + [Performing a SysCheck](syscheck)
-+ [Removendo RSSMii](rssmii-remove)
++ [Removing RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [Setting RTC Time](rtc)
 + [Updating Wii Menu to v4.3](update)
@@ -62,13 +62,13 @@ sitemap: false
 + [WiiFlow](wiiflow)
 
 **Wii mini**
-+ [Instalar The Homebrew Channel na Wii Mini](hbc-mini)
-+ [Instalar cIOS na Wii Mini](cios-mini)
++ [Installing the Homebrew Channel on the Wii mini](hbc-mini)
++ [Installing cIOS on the Wii mini](cios-mini)
 
 **Site**
-+ [Início](/)
-+ [Vamos Começar](get-started)
++ [Home](/)
++ [Get Started](get-started)
 + [FAQ](faq)
-+ [Doações](donations)
++ [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
