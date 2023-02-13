@@ -7,7 +7,7 @@ title: "Bluebomb"
 It is **strongly** advised against using **any** video guide for hacking your Wii mini console, as there is an extremely large chance of **bricking** it.
 {: .notice--warning}
 
-במקרה ונדרשת עזרה או תמיכה טכנית עם מדריך זה, בבקשה הצטרפו [לשרת הדיסקורד של קהילת ה Wii Mini.](https://discord.gg/6ryxnkS) (מומלץ)
+If you need help with anything regarding this tutorial, please join [the Wii mini Hacking Discord server](https://discord.gg/6ryxnkS) (recommended)
 {: .notice--info}
 
 ![Bluebomb](/images/bluebomb.png)
@@ -17,8 +17,8 @@ BlueBomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's 
 For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
 {: .notice--info}
 
-#### חלק א - לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
-- מחשב המריץ לינוקס
+#### Section I - What you need
+- A Linux machine
   - A Virtual Machine may work, but it is not recommended due to its complexity in getting Bluetooth passthrough working. If possible, please use a LiveUSB as described below.
   - If you have a Raspberry Pi, you can use that instead as it most likely has Linux installed already.
   - Windows Subsystem for Linux or a Chromebook running Linux mode will *not work* as they don't have direct access to the Bluetooth adapter or USB ports.
@@ -26,13 +26,13 @@ For the original Wii, we do not recommend using BlueBomb if you intend to instal
     - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
     - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
   - You can [flash a Linux Live environment to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
-- מתאם Bluetooth.
-  - מתאם Bluetooth פנימי יעבוד.
+- A Bluetooth adapter.
+  - An internal Bluetooth adapter will work.
   - If you do not have one, make sure to get one compatible with Linux.
-- דיסק-און-קי מפורמט כ FAT32.
+- A USB flash drive formatted as FAT32.
   - This cannot be the same flash drive used for your Linux Machine.
 
-#### חלק ב - ביצוע הפריצה
+#### Section II - Performing the exploit
 1. Download the HackMii installer from [the BootMii website](https://bootmii.org/download/).
 - (If attempting to fix a brick, you should also copy the homebrew app you wish to use to /apps/)
 1. Extract it and place the `boot.elf` file in your flash drive.
