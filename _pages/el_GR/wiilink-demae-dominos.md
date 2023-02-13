@@ -19,14 +19,14 @@ Currently, only the USA and Canada are supported.
 You cannot use the default Dolphin NAND with this service. You must use your own NAND dump. This can be done in Dolphin by going to the toolbar and clicking `Tools -> Manage NAND -> Import BootMii NAND Backup`.
 {: .notice--warning}
 
-#### Τι χρειάζεστε
+#### What you need
 
-* Μία κάρτα SD ή μέσο αποθήκευσης USB
+* An SD card or USB drive
 * A Wii with an internet connection
 * A computer
 * A Discord account
 
-#### Οδηγίες
+#### Instructions
 
 ##### Section I - Obtaining your Wii's Console ID
 
@@ -62,7 +62,7 @@ If you already have the WiiLink Set Personal Data channel, you must install this
 You will now install the Food Channel and Set Personal Data channels.
 
 1. Put your SD card or USB drive in your Wii.
-2. Ανοίξτε το κανάλι Internet στο Wii σας.
+2. Launch the Homebrew Channel on your Wii.
 3. Launch Wii Mod Lite.
 4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 5. Highlight the Food Channel and Set Personal Data WADs by pressing the + Button over each of them. When all the WADs are selected, press A twice to install the WADs.
@@ -100,5 +100,5 @@ If you have previously placed an order, skip to step 5.
 8. Review your order throughly before placing the order. When you are ready, click the big green `Order` button. ![Before Order](/images/Demae-Dominos/order.png)
 9. If no error appeared, your order was placed successfully! To track your order, simply visit the Domino's Tracker for your region and enter the phone number you entered in Set Personal Data.
 
-[Συνεχίστε στην περιήγηση ιστοσελίδας](site-navigation)<br> Έχουμε πολλούς άλλους οδηγούς που μπορεί να σας αρέσουν.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
