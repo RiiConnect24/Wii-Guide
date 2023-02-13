@@ -1,5 +1,5 @@
 ---
-title: "ניווט באתר"
+title: "Site Navigation"
 layout: single
 sitemap: false
 ---
@@ -34,7 +34,7 @@ sitemap: false
 
 **Modding 101**
 + [Bluebomb](bluebomb)
-* [לגבות באמצעות BootMii](bootmii)
+* [BootMii Backup](bootmii)
 + [cIOS](cios)
 + [Dos and Don'ts of Wii Modding](dosanddonts)
 + [FlashHax](flashhax)
@@ -67,8 +67,8 @@ sitemap: false
 
 **Site**
 + [Home](/)
-+ [צעדים ראשונים](get-started)
-+ [שאלות נפוצות](faq)
++ [Get Started](get-started)
++ [FAQ](faq)
 + [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
