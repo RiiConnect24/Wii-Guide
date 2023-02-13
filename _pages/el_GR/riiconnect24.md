@@ -7,7 +7,7 @@ title: "RiiConnect24"
 If you need help with anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![Εικονίδιο RiiConnect24](/images/WiiRC24Logo.jpg)
+![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
 [RiiConnect24](https://rc24.xyz/) allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail.
 
@@ -26,14 +26,14 @@ It's recommended to set your Wii to the current time before proceeding. Follow [
 DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
-#### Τι χρειάζεστε
+#### What you need
 
-* Μία κάρτα SD ή μέσο αποθήκευσης USB
-* Ένα Wii με σύνδεση στο διαδίκτυο
+* An SD card or USB drive
+* A Wii with an Internet connection
 * A computer
 * [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-#### Οδηγίες
+#### Instructions
 
 ##### Section I - Using RiiConnect24 Patcher
 
@@ -60,7 +60,7 @@ If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord ser
 You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
 1. Put your SD card or USB drive in your Wii.
-2. Ανοίξτε το κανάλι Internet στο Wii σας.
+2. Launch the Homebrew Channel on your Wii.
 3. Launch Wii Mod Lite.
 4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 5. Highlight all the WADs in the folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
@@ -128,5 +128,5 @@ If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently no
 [Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. This is optional to install.
 {: .notice--info}
 
-[Συνεχίστε στην περιήγηση ιστοσελίδας](site-navigation)<br> Έχουμε πολλούς άλλους οδηγούς που μπορεί να σας αρέσουν.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
