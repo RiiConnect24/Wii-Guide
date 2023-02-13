@@ -2,45 +2,45 @@
 title: "Open Shop Channel (Homebrew Browser)"
 ---
 
-Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [The Open Shop Channel](https://discord.gg/osc) Discord-Server bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the Open Shop Channel](https://discord.gg/osc) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Der Homebrew Browser, welcher auf dem Open Shop Channel basiert, funktioniert so weit, es können jedoch Bugs auftreten. Du kannst Homebrew ebenfalls bei [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) beziehen, oder auf der [Open Shop Channel-Webseite](https://oscwii.org/) erhalten.
+Homebrew Browser, which is what the Open Shop Channel is based off on, does work but it can be buggy. You can also get homebrew using [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) and from the [Open Shop Channel website](https://oscwii.org/).
 {: .notice--info}
 
-Du benötigst eine Internetverbindung, um diese Anwendung nutzen zu können.
+You need an Internet connection in order to use this application.
 {: .notice--warning}
 
 The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
 
-#### Voraussetzungen
+#### What you need
 * Eine SD-Karte oder ein USB-Laufwerk
 * [Homebrew Browser](/assets/files/homebrew_browser_v0.3.9e.zip)
 
 #### Anleitung
 
-1. Entpacke den Homebrew Browser und verschiebe ihn in den `apps`-Ordner auf deiner SD-Karte oder deinem USB-Laufwerk.
-2. Verbinde deine SD-Karte oder dein USB-Laufwerk mit deiner Wii. Wenn du möchtest, kannst du nun den Homebrew Browser über den Homebrew-Kanal starten.
+1. Extract the Homebrew Browser and put it in the `apps` folder on your SD card or USB drive.
+2. Insert your SD card or USB drive into your Wii. You can now launch the Homebrew Browser from the Homebrew Channel if you want to.
 
-#### Empfohlene Apps
+#### Recommended Apps
 
 Here are some recommended apps that you can get on the Open Shop Channel:
 
-- [CleanRip](https://oscwii.org/library/app/CleanRip) - Dies ist ein Tool, um Wii und GameCube Spiele zu dumpen. Siehe [unsere Seite](dump-games) für weitere Details.
-- [GCMM](https://oscwii.org/library/app/gcmm) - Dies ist ein GameCube Speicherkartenmanager für Ihre Wii.
-- [MyMenuify Mod](https://oscwii.org/library/app/mymenuifymod) - Dies ist ein Tool, um Themes für dein Wii Menü zu installieren. Siehe [unsere Seite](themes) für Anweisungen, wie sie verwendet werden.
-- [Nintendont](https://oscwii.org/library/app/nintendont) - Dies ist ein GameCube Game Loader für deine Wii. Weitere Informationen finden Sie unter [in diesem GBAtemp Thread](https://gbatemp.net/threads/nintendont.349258/).
-- [SaveGame Manager GX](https://oscwii.org/library/app/savegame_manager_gx) - Dies ist ein Speichermanager für deine Wii. Es erlaubt dir, Dateien und Miis zu und von deiner Wii zu kopieren.
-- [USB Loader GX](https://oscwii.org/library/app/usbloader_gx) - Dies ist ein USB Loader für deine Wii. Siehe [unsere Seite](usbloadergx) für Anweisungen, wie sie verwendet werden.
-- [WiiFlow Lite](https://oscwii.org/library/app/wiiflow) - Dies ist ein weiterer USB Loader für deine Wii. Siehe [unsere Seite](wiiflow) für Anweisungen, wie es verwendet wird.
-- [WiiMC-SS](https://oscwii.org/library/app/wiimc-ss) - Dies ist ein Media-Player für deine Wii. Es unterstützt Filme, Musik, Fotos, Radiosender, YouTube und mehr.
-- [WiiXplorer-SS](https://oscwii.org/library/app/wiixplorer-ss) - Dies ist ein Dateimanager für Ihre Wii. Es ermöglicht den Zugriff auf Ihre Dateien auf Ihrer SD-Karte, USB-Gerät und mehr.
-- [YABDM](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod) - Dies ist ein Tool, um auf Ihrer Wii installierte Inhalte in WAD-Dateien zu sichern. Siehe [unsere Seite](dump-wads) für Anweisungen, wie es verwendet wird.
+- [CleanRip](https://oscwii.org/library/app/CleanRip) - This is a tool to dump Wii and GameCube games. See [our page](dump-games) for more details.
+- [GCMM](https://oscwii.org/library/app/gcmm) - This is a GameCube memory card manager for your Wii.
+- [MyMenuify Mod](https://oscwii.org/library/app/mymenuifymod) - This is a tool to install themes for your Wii Menu. See [our page](themes) for instructions on how to use it.
+- [Nintendont](https://oscwii.org/library/app/nintendont) - This is a GameCube game loader for your Wii. For more information, please see [this GBAtemp thread](https://gbatemp.net/threads/nintendont.349258/).
+- [SaveGame Manager GX](https://oscwii.org/library/app/savegame_manager_gx) - This is a save manager for your Wii. It allows you to copy save files and Miis to and from your Wii.
+- [USB Loader GX](https://oscwii.org/library/app/usbloader_gx) - This is a USB Loader for your Wii. See [our page](usbloadergx) for instructions on how to use it.
+- [WiiFlow Lite](https://oscwii.org/library/app/wiiflow) - This is another USB Loader for your Wii. See [our page](wiiflow) for instructions on how to use it.
+- [WiiMC-SS](https://oscwii.org/library/app/wiimc-ss) - This is a media player for your Wii. It supports movies, music, photos, radio stations, YouTube, and more.
+- [WiiXplorer-SS](https://oscwii.org/library/app/wiixplorer-ss) - This is a file manager for your Wii. It lets you access your files on your SD Card, USB Device, and more.
+- [YABDM](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod) - This is a tool to dump content installed on your Wii to WAD files. See [our page](dump-wads) for instructions on how to use it.
 
-[Weiter mit RiiConnect24](riiconnect24)<br> RiiConnect24 erlaubt es dir, eingestellte Dienste von WiiConnect24 zu benutzen, was den Nachrichtenkanal, Wetterkanal, Meinungskanal, Nintendo-Kanal und Mii-Wettbewerbskanal, sowie Wii Mail beinhaltet. Dies zu installieren ist nicht zwingend erforderlich.
+[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
 {: .notice--info}
 
-[Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 
 Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
