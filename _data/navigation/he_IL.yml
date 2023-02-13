@@ -7,10 +7,10 @@ main:
     title: Start Here
     url: get-started
   - 
-    title: ניווט באתר
+    title: Site Navigation
     url: site-navigation
   - 
-    title: שאלות נפוצות
+    title: FAQ
     url: faq
   - 
     title: RiiConnect24
@@ -23,32 +23,32 @@ top:
     title: This website uses cookies to display the current guide progress on the sidebar and otherwise enhance the site.
 bottom:
   - 
-    title: לתמיכה ועזרה באנגלית, ניתן לבקש עזרה בשרת ה<a href="https://discord.gg/b4Y7jfD">דיסקורד</a>.
+    title: For support in English, ask for help at <a href="https://discord.gg/b4Y7jfD">RiiConnect24 on Discord</a>.
 footer:
   - 
-    title: מקור
+    title: Source
     url: https://github.com/RiiConnect24/Wii-Guide/
   - 
-    title: ניווט באתר
+    title: Site Navigation
     url: site-navigation
   - 
-    title: תרומות
+    title: Donations
     url: donations
 sidebar_title:
   - 
-    title: התקדמות כוללת
+    title: Overall Progress
 sidebar_pages:
   - 
     title: Wii Guide
     url: /
   - 
-    title: שאלות נפוצות
+    title: FAQ
     url: faq
   - 
-    title: תרומות
+    title: Donations
     url: donations
   - 
-    title: קרדיטים
+    title: Credits
     url: credits
   - 
     title: RiiConnect24
