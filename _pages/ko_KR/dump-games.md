@@ -1,8 +1,8 @@
 ---
-title: "Wii/게임큐브 게임 덤프하기"
+title: "Dumping Wii/GameCube games"
 ---
 
-Wii나 게임큐브 디스크를 덤프하고 싶나요? 두 방법이 있고, 아래 중 가능한 도구의 선택에 따라 방법이 달라집니다.
+Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'dump-smb')">To a PC over the network</button>
@@ -11,57 +11,57 @@ Wii나 게임큐브 디스크를 덤프하고 싶나요? 두 방법이 있고, �
 
 ### CleanRip
 
-#### 필요한 것
+#### What you need
 
 - An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
 - [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
-#### 방법
+#### Instructions
 
-##### 섹션 I - 다운로드/설치하기
+##### Section I - Downloading/Installing
 
-1. CleanRip을 압축 해제하고 SD 카드 및 USB 드라이브의 `apps` 폴더에 붙여넣으세요.
-1. SD 카드를 Wii에 삽입하고, CleanRip을 홈브루 채널에서 실행하세요.
+1. Extract CleanRip and put it in the `apps` folder on your SD card or USB drive.
+1. Insert your SD card into your Wii, and launch CleanRip from the Homebrew Channel.
 
-##### 섹션 II - 리핑
+##### Section II - Ripping
 
-1. USB 드라이브 또는 SD 카드 중 게임을 덤프할 기기를 선택하세요. ![장치 유형](/images/CleanRip/2.png)
-1. 이 화면에서, 디스크의 1:1 복사본이 덤프되었는지 확인하기 위해 게임 체크숨과 함께 파일을 다운로드할지 묻습니다. 파일 다운로드에서 `예`를 누르던 `아니요`를 누르던 당신의 선택입니다. ![DAT](/images/CleanRip/3.png)
-1. 덤프할 게임을 삽입하세요. ![DVD](/images/CleanRip/4.png) ![디스크 초기화 중](/images/CleanRip/5.png)
-1. 아래의 화면에 나타난 대로 설정하세요.
-title: "CleanRip"
+1. Select your device that you will be dumping the game to - your USB drive or SD card. ![Device type](/images/CleanRip/2.png)
+1. On this screen, it asks you if you want to download a file with game checksums so you can verify the dump created is a 1:1 copy of the disc. It's your choice whether to say `Yes` or `No` to download this file. ![DAT](/images/CleanRip/3.png)
+1. Now insert the game you want to dump. ![DVD](/images/CleanRip/4.png) ![Initialising Disc](/images/CleanRip/5.png)
+1. Set it as shown on the screen below.
+If you are dumping one of the 13 games on [this list](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games), set `Dual Layer` to `Yes`.
 {: .notice--info}
-![설정](/images/CleanRip/6.png)
+![Settings](/images/CleanRip/6.png)
 
-1. CleanRip은 이제 게임을 덤프합니다. 시간이 걸릴 수 있지만, 4.7GB의 게임 디스크를 덤프하기 때문입니다 (양면 디스크의 경우 9.4GB). ![복사 중](/images/CleanRip/7.png)
+1. CleanRip will now dump your game. It can take a while, since it will dump the full 4.7 GB disc contents (8.5 GB for dual layer discs). ![Copying](/images/CleanRip/7.png)
 </div>
 
 <div id="dump-smb" class="blanktabcontent" markdown="1">
 
 ### Dumping a game over a local network
 
-#### 필요한 것
+#### What you need
 
-- [DVD 덤프 도구](/assets/files/DVDDumpTool.zip)
+- [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
 Your Wii and your computer must be connected to one local network.
 {: .notice--warning}
 
-#### 방법
+#### Instructions
 
-##### 섹션 I - 다운로드/설치하기
+##### Section I - Downloading/Installing
 
-1. DVD 덤프 도구를 압축 해제하고 SD 카드 및 USB 드라이브의 `apps` 폴더에 붙여넣으세요.
-1. SD 카드를 Wii에 삽입하고, DVD 덤프 도구를 홈브루 채널에서 실행하세요.
+1. Extract DVD Dump Tool and put it in the `apps` folder on your SD card or USB drive.
+1. Insert your SD card into your Wii, and launch DVD Dump Tool from the Homebrew Channel.
 
-##### 섹션 II - 리핑
+##### Section II - Ripping
 
 1. Press the right on the D-pad and press A. ![2](/images/DumpDiscs_LAN/2.png)
-1. 복사할 디스크를 선택하세요 (옵션: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` 중 선택하고 "A"를 누르세요 ![3](/images/DumpDiscs_LAN/3.png)
-1. Wii에 게임을 삽입하세요. (If it's already in your Wii, eject it and put it back.) ![게임디스크삽입](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
-1. Wii URL (IP 주소)을 기억하세요 ![5](/images/DumpDiscs_LAN/5.png)
+1. Choose the disc that you want to copy (The options are: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` and press "A" ![3](/images/DumpDiscs_LAN/3.png)
+1. Now put your game to your Wii. (If it's already in your Wii, eject it and put it back.) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
+1. Remember your Wii URL (IP address) ![5](/images/DumpDiscs_LAN/5.png)
 1. On your computer's web browser, go to your address bar and enter the Wii URL. ![6](/images/DumpDiscs_LAN/6.png)
 1. Click on `Click here to download XXXX.iso`. ![7](/images/DumpDiscs_LAN/7.jpg)
-교환 속도는 최고 속도가 아니지만, 다른 것을 사용할 수 없다면, 없는 것보단 낫습니다.
+The transfer speed is not the fastest, but if you can't use anything else, it's better than nothing.
 {: .notice--info}
 ![8](/images/DumpDiscs_LAN/8.PNG)
 </div>
