@@ -23,8 +23,8 @@ You cannot use the default Dolphin NAND with this service. You must use your own
 
 * 一张SD卡或U盘
 * A Wii with an internet connection
-* 一台电脑
-* Discord账号
+* A computer
+* A Discord account
 
 #### 步骤
 
@@ -61,12 +61,12 @@ If you already have the WiiLink Set Personal Data channel, you must install this
 
 You will now install the Food Channel and Set Personal Data channels.
 
-1. 将SD卡或U盘插入Wii。
-2. 启动Wii上的Homebrew Channel。
-3. 启动Wii Mod Lite。
-4. 使用Wii遥控器上的十字键移动到`WAD Manager`, 然后移动到`wad`文件夹。
+1. Put your SD card or USB drive in your Wii.
+2. Launch the Homebrew Channel on your Wii.
+3. Launch Wii Mod Lite.
+4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 5. Highlight the Food Channel and Set Personal Data WADs by pressing the + Button over each of them. When all the WADs are selected, press A twice to install the WADs.
-6. 安装成功后，按HOME按钮返回Homebrew Channel。
+6. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
 ##### Section V - Setting your personal data
 
@@ -92,13 +92,13 @@ If you have previously placed an order, skip to step 5.
 
 1. If you have used the previous version of the Food Channel, go to `Wii Settings` to delete your save data.
 2. Launch the Food Channel from the Wii Menu
-3. Follow the on-screen instructions, then click `Order` in the main menu. ![主菜单](/images/Demae-Dominos/main-menu.png)
-4. You will now be prompted to select your region. Be sure to select your residing country correctly. Failure to do so will result in restaurants failing to load. You will then be prompted to select your state/province, then city. If your city is not on the list, you can select any one as it does not matter. ![主菜单](/images/Demae-Dominos/country-setup.png)
+3. Follow the on-screen instructions, then click `Order` in the main menu. ![Main Menu](/images/Demae-Dominos/main-menu.png)
+4. You will now be prompted to select your region. Be sure to select your residing country correctly. Failure to do so will result in restaurants failing to load. You will then be prompted to select your state/province, then city. If your city is not on the list, you can select any one as it does not matter. ![Main Menu](/images/Demae-Dominos/country-setup.png)
 5. Click the `Pizza` button. This will load all the restaurants in your area. The first restaurant in the list is the one closest to you.
 6. Click `See Menu` to list the different menu categories. Click the category you would like, then select a food item. In the item screen, you can add toppings and adjust quantity.
 7. After adding a food item, you will be brought to the basket. To add a food item, scroll to the bottom and select `Add Order`. To proceed to checkout, click `Next`.
 8. Review your order throughly before placing the order. When you are ready, click the big green `Order` button. ![Before Order](/images/Demae-Dominos/order.png)
 9. If no error appeared, your order was placed successfully! To track your order, simply visit the Domino's Tracker for your region and enter the phone number you entered in Set Personal Data.
 
-[继续 网站导览](site-navigation) 我们有许多你可能喜欢的其他教程。
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
