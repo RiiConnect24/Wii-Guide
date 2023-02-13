@@ -2,7 +2,7 @@
 title: "Updating Wii Menu to v4.3"
 ---
 
-{% include toc title="Innholdsfortegnelse" %}
+{% include toc title="Table of Contents" %}
 
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -19,7 +19,7 @@ This tutorial will explain how to update your Wii Menu to version 4.3, if you ha
 If you don't have a Windows computer, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-#### Instruksjoner
+#### Instructions
 
 ##### Section I - Downloading
 
@@ -44,7 +44,7 @@ To protect against bricks, [make sure you install Priiloader](priiloader). Also,
 | Europe | v514 (4.3E)      |
 | Korea  | v518 (4.3K)      |
 
-##### Del 2 - Installering
+##### Section II - Installing
 
 You use the +Control Pad to use this tool.
 {: .notice--info}
