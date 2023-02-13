@@ -2,25 +2,25 @@
 title: "FlashHax"
 ---
 
-Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte se na [RiiConnect24 Discord server](https://discord.gg/rc24) (doporučeno) nebo [nám napište e-mail](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-FlashHax je exploit pro Wii, který se spustí pomocí Internet Channelu. Na rozdíl od jiných exploitů není vyžadována SD karta.
+FlashHax is an exploit for the Wii that is triggered by using the Internet Channel. Unlike other exploits, this doesn't require an SD card.
 
-#### Co budete potřebovat
+#### What you need
 
-- Wii s připojením k internetu
-- Internet Channel
+- A Wii with an Internet connection
+- The Internet Channel
 
-#### Pokyny
+#### Instructions
 
-1. Na svém Wii spusťte Internet Channel.
-2. Přejděte na web flashhax.com a přidejte tuto stránku do záložek v Internet Channelu.
-3. Otevřete tuto stránku ze seznamu záložek. Poté to stáhne a spustí instalátor HackMii. Může to nějakou dobu trvat, protože se instalátor stáhne.
+1. Open up the Internet Channel on your Wii.
+2. Go to flashhax.com in the browser and bookmark the page.
+3. Open the site from the bookmark. It'll then proceed to download and load the HackMii Installer. It may take some time as it is downloading the installer over the Internet.
 
-Pokud se instalátor HackMii nenačte a Wii místo toho zamrzne (nemůžete pohnout kurzorem), prosím restartujte konzoli a opakujte krok 3, dokud to nezafunguje. Může to vyjít až na několikátý pokus, nepolevujte!
+If the HackMii Installer doesn't load and it instead freezes (you can't move your cursor), please restart your Wii and repeat step 3 until it works. It might take multiple tries, be persistent!
 
-Pokud stále nelze načístinstalátor, zkuste odstranit cookies nebo save data Internet Channelu.
+If you still can't get it to load, try deleting your cookies or save data for the Internet Channel.
 
-[Pokračujte instalací Homebrew Channelu a BootMii](hbc)
+[Continue to Homebrew Channel and BootMii Installation](hbc)
 {: .notice--info}
