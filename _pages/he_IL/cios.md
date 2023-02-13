@@ -14,7 +14,7 @@ If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-
 If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
 {: .notice--info}
 
-#### לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
+#### What you need
 
 - A Wii
 - An SD card or USB drive
@@ -23,7 +23,7 @@ If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to in
 Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
 {: .notice--warning}
 
-#### הוראות
+#### Instructions
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'with-connection')">With an Internet connection to the Wii</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'without-connection')">Without an Internet connection to the Wii</button>
