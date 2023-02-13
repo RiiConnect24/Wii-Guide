@@ -30,6 +30,6 @@ Die Bedienung erfolgt über das Steuerkreuz.
 
 1. Wähle `WAD Manager`. ![WAD Manager](/images/WiiModLite/2.png)
 2. Wähle `Wii SD Slot` oder `USB Mass Storage Device`, je nachdem, ob du eine SD-Karte oder ein USB-Laufwerk verwenden möchtest. ![Wii SD Slot](/images/WiiModLite/3.png)
-3. Wähle die WAD-Datei, welche du installieren möchtest. In diesem Beispiel installieren wir das gepatchte IOS, welches für [RiiConnect24](riiconnect24) benötigt wird. Du kannst mehrere WADs auf einmal markieren, indem du den Plus-Knopf drückst. ![Auswählen](/images/WiiModLite/4.gif)
+3. Wähle die WAD-Datei, welche du installieren möchtest. In diesem Beispiel installieren wir das gepatchte IOS, welches für [RiiConnect24](riiconnect24) benötigt wird. Du kannst mehrere WADs auf einmal markieren, indem du den Plus-Knopf drückst. ![Select them](/images/WiiModLite/4.gif)
 4. Drücke zweimal den A-Knopf, um die Installation zu starten.![Installieren](/images/WiiModLite/5.png) ![Installieren](/images/WiiModLite/6.png)
 5. Wenn `Finishing installation... OK!` angezeigt wird, wurde die WAD-Datei erfolgreich installiert. ![Abgeschlossen](/images/WiiModLite/7.png) 
