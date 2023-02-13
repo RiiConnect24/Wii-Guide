@@ -1,5 +1,5 @@
 ---
-title: "安装RSSMii"
+title: "Installing RSSMii"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -7,25 +7,25 @@ title: "安装RSSMii"
 如果你需要有关本教程的任何帮助, 请加入[RiiConnect24 Discord服务器](https://discord.gg/rc24) (推荐)或 [发送电子邮件到 support@riiconnect24.net](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
-您想在Wii留言板上获取RSS吗? 本教程将告诉您如何设置RSSMii。 本教程将告诉您如何设置RSSMii。
+Do you want to get RSS feed updates on your Wii Message Board? This tutorial will tell you how to set RSSMii up.
 
 ![RSSMii](/images/rssmii.png)
 
 #### 你需要的是
 
-* 一张SD卡
+* An SD card
 * [RSSMii](https://github.com/RiiConnect24/rssmii/releases)
 
 #### 步骤
-##### 第一节 - 下载/安装
+##### Section I - Downloading/Installing
 
-1. 将RSSMii解压到SD卡的`apps`文件夹。
-2. 我们需要在SD卡根目录创建`feeds.xml`，以便应用知道您想看什么。
+1. Extract RSSMii and put it in the `apps` folder on your SD card.
+2. We need to create a `feeds.xml` on the root of the SD card so the app will know what feeds to subscribe you to.
 
-如果使用Windows，您可以使用由KcrPL创建的[RSS源创建程序](https://github.com/RiiConnect24/rssmii/releases/download/v1.4.1/RSSFeedsCreator.bat)。 它将自动创建`feeds.xml`并将其复制到SD卡!
+If you're using the Windows Operating System, you can use the [RSS Feeds Creator](https://github.com/RiiConnect24/rssmii/releases/download/v1.4.1/RSSFeedsCreator.bat) program created by KcrPL. It will automatically create a `feeds.xml` file and will copy it to your SD card!
 {: .notice--info}
 
-<b>如果您没有Windows电脑，请使用此模板并用您喜欢的文本编辑器打开`feeds.xml`。</b>
+<b>If you don't have a Windows computer, use this template and use your favorite text editor to make the `feeds.xml`.</b>
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -35,7 +35,7 @@ title: "安装RSSMii"
 </rss>
 ```
 
-将"name"部分替换为您想订阅源的名称。 请确保不要太长，因为空间不多。 然后，将链接部分替换为RSS链接。 您可以填写无限多的源。 不要删除"CDATA"。
+Replace the "name" portion with the title you want to put for the feed. Make sure it's not very long, since there's not that much space. Then, replace the link portion with the link to the RSS feed. You can put as many feeds as you want. Don't delete the "CDATA" part.
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -45,19 +45,19 @@ title: "安装RSSMii"
 </rss>
 ```
 
-将您制作的文件移动到SD卡根目录。
-3. 从Homebrew Channel启动RSSMii。
-4. 按A以确认订阅RSS。 忽略ES_GetTitleID错误，一切都很好。
-5. 一切完成后，按HOME回到Homebrew Channel。 您应该很快就会在Wii上获得RSS更新，享受!
+Save the feed you made to the root of your SD Card.
+3. Launch RSSMii from the Homebrew Channel.
+4. Press A to confirm you want to subscribe to the feeds. Ignore the error about ES_GetTitleID, everything is fine.
+5. Once everything is done, press HOME to go back to the Homebrew Channel. You should soon get RSS feed updates on your Wii, enjoy!
 
-没得到任何更新? 尝试更新频率更高的RSS，例如带新闻的RSS。 如果RSS不经常更新，您将不会得到很多更新。
+Not getting any feed updates? Try an RSS feed that updates more frequently, like a feed with news for example. If the RSS feed doesn't update often, then you won't get many updates.
 {: .notice--warning}
 
-我们推荐您只订阅几个源，如果订阅太多源，则可能在Wii上收到大量邮件。
+We recommend you use just a few feeds, because if you subscribe to a lot of feeds you can get a ton of mail on your Wii.
 {: .notice--info}
 
-如果您在几天后仍没有收到更新，您可能需要重新订阅RSS。 再次从Homebrew Channel启动RSSMii，它将创建全新订阅。
+If you're not receiving updates after a few days, you might need to subscribe to the RSS feeds again. Launch RSSMii from the Homebrew Channel again and it'll create brand new subscriptions.
 {: .notice--info}
 
-[卸载RSSMii](rssmii-remove)
+[Removing RSSMii](rssmii-remove)
 {: .notice--info}
