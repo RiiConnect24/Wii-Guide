@@ -1,48 +1,48 @@
 ---
-title: "Chaîne Kirby TV"
+title: "Kirby TV Channel"
 ---
 
-{% include toc title="Table des matières" %}
+{% include toc title="Table of Contents" %}
 
-La chaîne Kirby TV est contrôlée et gérée par Striim Network, et non par RiiConnect24. Rejoignez leur serveur Discord [ici](https://discord.gg/seCnzxnE75).
+The Kirby TV Channel is controlled and operated by Striim Network, not RiiConnect24. Join their Discord server [here](https://discord.gg/seCnzxnE75).
 {: .notice--warning}
 
-Striim Network est un service dédié à ramener les chaînes qui prennent en charge la lecture vidéo, telles que Kirby TV Channel et YouTube.
+Striim Network is a service dedicated to bringing back the channels that support video playback, such as Kirby TV Channel and YouTube.
 
-#### Ce dont vous avez besoin
+#### What you need
 
-* Une carte SD ou un périphérique USB
-* Une Wii avec une connexion Internet
-* Un ordinateur sous Windows ou Unix
+* An SD card or USB drive
+* A Wii with an Internet connection
+* A Windows or Unix based computer
 * [Kirby TV Channel Patcher](https://github.com/StriimNetwork/Kirby-TV-Channel-Patcher/releases)
 
 #### Instructions
 
-[Si vous souhaitez voir des instructions détaillées sur la façon d'installer les WAD, cliquez ici!](wiimodlite)
+[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
 {: .notice--info}
 
-1. Téléchargez l'exécutable de votre architecture et de votre système d'exploitation.
-2. Lancez l'exécutable puis appuyez deux fois sur `1` pour démarrer le processus du patch.
-3. Une fois terminé, le WAD sera dans le dossier `WAD` qui se trouve dans le même répertoire que l'exécutable.
-4. Déplacez le dossier `WAD` à la racine de votre carte SD.
-5. Insérer la carte SD ou le périphérique USB dans votre Wii.
-6. Lancez la Chaîne Homebrew sur votre Wii.
-7. Lancez Wii Mod Lite.
-8. À l'aide de la croix directionnelle de votre télécommande Wii, accédez à `WAD Manager`, puis accédez au dossier `wad`.
-9. Mettez en surbrillance le WAD nommé `Kirby-TV-Channel-Patched(Striim).wad`, puis appuyez sur le bouton `A` pour installer.
-10. Lorsque le WAD s'installe avec succès, retournez au menu Wii et lancez la chaîne.
+1. Download the executable for your architecture and OS.
+2. Launch the executable then press `1` twice to start the patching process.
+3. When finished, the WAD will be in the `WAD` folder which is located in the same directory as the executable.
+4. Move the `WAD` folder to the root of your SD Card.
+5. Put your SD card or USB drive in your Wii.
+6. Launch the Homebrew Channel on your Wii.
+7. Launch Wii Mod Lite.
+8. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+9. Highlight the WAD named `Kirby-TV-Channel-Patched(Striim).wad`, then press the `A` button to install.
+10. When the WAD successfully installs, return to the Wii Menu and launch the channel.
 
 
 
-[Continuer vers RiiConnect24](riiconnect24) <br> RiiConnect24 vous permet d'utiliser les services interrompus de WiiConnect24, qui incluent les chaînes infos, météo, votes, Nintendo et concours Mii, ainsi que Wii Mail. L'installation est facultative.
+[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
 {: .notice--info}
 
-[Continuer vers WiiLink](wiilink)<br> WiiLink vous permet d'utiliser les chaîne japonais arrêtés, comme Wii no Ma et Digicam Print Channel. L'installation est facultative.
+[Continue to WiiLink](wiilink)<br> WiiLink allows you to use the discontinued Japanese channels, such as Wii no Ma and the Digicam Print Channel. This is optional to install.
 {: .notice--info}
 
-[Continuer vers Wiimmfi](wiimmfi)<br> Wiimmfi vous permet de jouer à des jeux en ligne après l'arrêt de la connexion Wi-Fi Nintendo. L'installation est facultative.
+[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
 {: .notice--info}
 
-[Continuer vers la navigation du site](site-navigation)<br> Nous avons de nombreux autres tutoriels que vous pourriez aimer.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 
