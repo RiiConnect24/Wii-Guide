@@ -13,7 +13,7 @@ title: "Copiar juegos de Wii/GameCube"
 
 #### Requisitos
 
-- Una tarjeta SD o unidad USB con al menos 4,7 GB de espacio libre (8,5 GB si se copia un disco de doble capa).
+- An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
 - [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
 #### Instrucciones
@@ -25,10 +25,10 @@ title: "Copiar juegos de Wii/GameCube"
 
 ##### Sección II - Copiando un juego
 
-1. Elige el dispositivo de almacenamiento donde deseas copiar el juego, ya sea tu unidad USB o tarjeta SD. ![Seleccionar un dispositivo](/images/CleanRip/2.png)
-1. En esta pantalla se te preguntará si quieres descargar una base de datos con sumas de verificación, para que de esta forma puedas verificar que la copia recién creada sea idéntica al contenido del disco. Tú decides si deseas descargar el archivo o no. ![Descargar base de datos de Redump](/images/CleanRip/3.png)
-1. Ahora inserta el disco que quieres copiar (si aún no lo habías insertado). ![Inserta el disco](/images/CleanRip/4.png) ![Montando el disco](/images/CleanRip/5.png)
-1. Configúralo como en la foto de abajo.
+1. Elige el dispositivo de almacenamiento donde deseas copiar el juego, ya sea tu unidad USB o tarjeta SD. ![Device type](/images/CleanRip/2.png)
+1. En esta pantalla se te preguntará si quieres descargar una base de datos con sumas de verificación, para que de esta forma puedas verificar que la copia recién creada sea idéntica al contenido del disco. Tú decides si deseas descargar el archivo o no. ![DAT](/images/CleanRip/3.png)
+1. Now insert the game you want to dump. ![DVD](/images/CleanRip/4.png) ![Montando el disco](/images/CleanRip/5.png)
+1. Set it as shown on the screen below.
 title: "CleanRip"
 {: .notice--info}
 ![Configuración](/images/CleanRip/6.png)
@@ -55,12 +55,12 @@ Your Wii and your computer must be connected to one local network.
 
 ##### Sección II - Copiando un juego
 
-1. Press the right on the D-pad and press A. ![Iniciando DVD Dump Tool](/images/DumpDiscs_LAN/2.png)
-1. Elige el tipo de disco que quieres copiar, ya sea un disco normal, de doble capa o de GameCube, y después oprime A. ![Seleccionando un tipo de disco](/images/DumpDiscs_LAN/3.png)
-1. Ahora inserta el disco que quieres copiar en tu Wii. (If it's already in your Wii, eject it and put it back.) ![Inserta el disco](/images/DumpDiscs_LAN/insertthedisc.jpg) ![Preparando la transferencia](/images/DumpDiscs_LAN/4.png)
-1. Toma nota de la IP de tu Wii![Toma nota de la IP de tu Wii](/images/DumpDiscs_LAN/5.png)
-1. On your computer's web browser, go to your address bar and enter the Wii URL. ![Ingresando la IP en la PC](/images/DumpDiscs_LAN/6.png)
-1. Click on `Click here to download XXXX.iso`. ![Página de DVD Dump Tool](/images/DumpDiscs_LAN/7.jpg)
+1. Press the right on the D-pad and press A. ![2](/images/DumpDiscs_LAN/2.png)
+1. Elige el tipo de disco que quieres copiar, ya sea un disco normal, de doble capa o de GameCube, y después oprime A. ![3](/images/DumpDiscs_LAN/3.png)
+1. Ahora inserta el disco que quieres copiar en tu Wii. (If it's already in your Wii, eject it and put it back.) ![Inserta el disco](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
+1. Toma nota de la IP de tu Wii![5](/images/DumpDiscs_LAN/5.png)
+1. On your computer's web browser, go to your address bar and enter the Wii URL. ![6](/images/DumpDiscs_LAN/6.png)
+1. Click on `Click here to download XXXX.iso`. ![7](/images/DumpDiscs_LAN/7.jpg)
 La velocidad de transferencia no es la más rápida, pero es mejor que no tener nada si no puedes copiar tus juegos usando CleanRip.
 {: .notice--info}
 ![8](/images/DumpDiscs_LAN/8.PNG)
