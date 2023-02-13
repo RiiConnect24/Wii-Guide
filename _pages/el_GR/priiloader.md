@@ -7,31 +7,31 @@ title: "Priiloader"
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Το Priiloader προσθέτει ένα επίπεδο ασφαλείας στο Wii σας. Ανοίγει πριν ανοίξει το Μενού του Wii (ως εκ τούτου και το όνομα). Αυτό το εργαλείο ενεργοποιεί επίσης χακ για το Μενού του Wii σας, και μπορεί να χρησιμοποιηθεί για να ανοίξετε γρήγορα το Κανάλι Homebrew, το BootMii, ή οποιαδήποτε homebrew θέλετε!
+Priiloader adds a level of brick protection to your Wii. It loads before the Wii Menu does (hence the name). The tool can also enable hacks for your Wii Menu, and be used to quickly launch the Homebrew Channel, BootMii, or whatever homebrew you want!
 
 ![Priiloader](/images/priiloader.jpg)
 
-Do **not** install Priiloader on a vWii (Wii mode on Wii U). Θα κάνετε brick το vWii σας εάν το προσπαθήσετε.
+Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your vWii by doing this.
 {: .notice--warning}
 
-#### Τι χρειάζεστε
+#### What you need
 
-- Μία κάρτα SD ή μέσο αποθήκευσης USB
+- An SD card or USB drive
 - [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
-#### Οδηγίες
+#### Instructions
 
-##### Μέρος I - Κατέβασμα/Εγκατάσταση
+##### Section I - Downloading/Installing
 
 1. Download the Priiloader installer and extract it to the root of your SD card or USB drive.
 
-##### Μέρος II - Εγκαθιστώντας το Priiloader
+##### Section II - Installing Priiloader
 
-1. Ανοίξτε το κανάλι Internet στο Wii σας.
+1. Launch the Homebrew Channel on your Wii.
 2. Launch the Priiloader installer.
-3. Πατήστε το Κουμπί + στο Χειριστήριο του Wii ή το A στο χειριστήριο GameCube. ![Εγκαταστήστε το Priiloader](/images/Priiloader/installer.png) ![Εγκαθιστώντας](/images/Priiloader/installing.png)
+3. Press the + Button on Wii Remote or the A Button on a GameCube controller. ![Install Priiloader](/images/Priiloader/installer.png) ![Installing](/images/Priiloader/installing.png)
 
-##### Μέρος II I - Είσοδος/Ρυθμίζοντας το Priiloader
+##### Section III - Entering/Configuring Priiloader
 
 1. Hold the RESET button while turning on your Wii.
    - If you are using a Wii mini, plug in a USB keyboard and hold Escape on it while turning it on.
@@ -48,11 +48,11 @@ If you are using a USB drive to install Priiloader, make sure you do not have an
 1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
 1. Scroll to `Homebrew Channel` and press A to launch it.
 
-## Λίστα των Χακ Μενού Συστήματος
+## System Menu Hacks List
 
 This is a list of the hacks you can enable with Priiloader.
 
-| Χακ                                     | Περιγραφή                                                                                                                                                                             |
+| Hack                                    | Description                                                                                                                                                                           |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Block Disc Updates                      | Removes the "Wii System Update" screen included with some games that forces you to update the system before playing the game.                                                         |
 | Block Online Updates                    | Disables updating your Wii. Updates will fail with error 32007.                                                                                                                       |
