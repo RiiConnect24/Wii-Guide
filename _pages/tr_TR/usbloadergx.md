@@ -4,89 +4,89 @@ title: "USB Loader GX"
 
 {% include toc title="Table of Contents" %}
 
-Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Bu, USB sürücüsünde bulunan oyunları Wii’de oynayabilme olanağı sağlayan popüler uygulama USB Loader GX'in nasıl kullanılacağına dair hızlı bir başlangıç rehberidir.
+This is a quick start guide on how to use USB Loader GX, a popular USB loader for the Wii that's used to play games from a USB drive.
 
 ![USB Loader GX](/images/usbloadergx.png)
 
-#### İhtiyacınız olan şeyler
+#### What you need
 
-* Wii
-* USB sürücü
+* A Wii
+* A USB drive
 * [USB Loader GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
 
-Burayı takip etmeden önce [cIOS](/cios)‘u yüklediğinizden emin olun!
+Make sure you have installed [cIOS](/cios) before following this!
 {: .notice--info}
 
-Eğer Windows kullanıyorsanız [Wii Backup Manager](/wiibackupmanager)’ı, macOS kullanıyorsanız [Witgui](https://desairem.com/wordpress/category/witgui-download/)‘ı ya da Windows, macOS ile Linux’ta çalışabilen [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion)‘ı kullanmanızı öneririz.
+We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux.
 {: .notice--info}
 
-NKit formatında bulunan oyunları oynamak istiyorsanız önce [bu programı](https://gbatemp.net/download/nkit.36157/) kullanarak onları ISO formatına dönüştürmeniz lazım. Ayrıca Dolphin’in geliştirici yapımında, oyuna sağ tıktan “Convert File”’a tıklayarak da bu işlemi gerçekleştirebilirsiniz.
+If you want to play games that are in NKit format, use [this program](https://gbatemp.net/download/nkit.36157/) to convert them to ISO first. You can also use a development build of Dolphin, right click on a game, and use "Convert File" to convert it.
 {: .notice--info}
 
-Wii Backup Manager, Witgui ya da Wii Backup Fusion ile oyun kopyalamıyorsanız, USB sürücünüz ya da SD Kartınızda "wbfs" isimli bir klasör oluşturup oyunları oraya atın.
+If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fusion, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
 {: .notice--info}
 
-Birden fazla oyun oynamak istiyorsanız, Wii’niz için bir harici bellek kullanmanızı öneririz. Flaş bellekler de kullanılabilir. Ancak harici bellekler hem daha güvenilir olduğundan hem de daha fazla oyun depolayabileceğinden dolayı tavsiye edilir.
+To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
 {: .notice--info}
 
-USB sürücünüzün FAT32 ya da NTFS formatında olduğundan emin olun. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
+Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
-#### Talimatlar
+#### Instructions
 
-##### İndirme
+##### Downloading
 
-1. USB Loader GX’i çıkartın ve SD Kart ya da USB sürücünüzdeki `apps` klasörüne koyun.
-2. USB sürücünüzü ve kullanıyorsanız SD Kartınızı Wii’ye takın ve USB Loader GX’i Homebrew Channel üzerinden başlatın.
+1. Extract USB Loader GX and put it in the `apps` folder on your USB drive or SD card.
+2. Insert your USB drive, and SD card if you're using one, into your Wii and launch USB Loader GX from the Homebrew Channel.
 
-##### Başlangıç
+##### Getting Started
 
-USB Loader GX uygulamasının kullanımı üzerine herhangi bir ''rehber'' bulunmamaktadır. Bu, sadece size kullanımı öğretmeyi amaçlayan hızlı bir başlangıçtır. Bu şekilde USB Loader GX’in bütün güzelliklerini kullanarak rahatça öğrenebileceksiniz.
+There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
 {: .notice--info}
 
-* Eğer USB Loader GX 20 saniyeyi geri sayarken "Waiting for HDD..." diyorsa, USB sürücünüzü bulamamış demektir. Uygulamadan çıkın ve tekrar başlatmadan önce USB sürücünüzü Wii'nin başka bir girişinden takın.
-* Wii kumandanızdan 1 tuşuna basarak [GameTDB'den](https://gametdb.com/) oyun kapakları ve çizimler indirebileceğiniz bir pencere açabilirsiniz. Ne kadar oyununuz olduğuna göre, kapakları ve çizimleri yüklemek biraz zaman alabilir.
-* Wii Menü'den USB Loader GX'i açabilmenizi sağlayan WAD dosyaları mevcuttur. Bunlara taşıyıcı WAD denir. Resmî taşıyıcı WAD [buradan](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), vWii (Wii U) sürümü ise [buradan](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad) bulunabilir.
-* GameCube ya da ''özel'' oyunlar USB Loader GX'in kullandığı bir kapağa sahip olup olmayacağı belli değildir. Bunu etkinleştirmek için USB sürücünüzün config/GXGlobal.cfg konumunda `CustomBannersURL = http://banner.rc24.xyz/` yazabilirsiniz. Ardından Wii kumandanızdan 1 tuşuna basarak ''Özel Kapak'' seçeneğini kullanabilirsiniz.
+* If USB Loader GX says "Waiting for HDD..." with a 20 seconds countdown, it's likely that it can't find the USB drive. Try to exit out of the app, and then relaunch it after you put the USB drive in the other port of the Wii.
+* You can press the 1 Button on your Wii Remote to open up a dialog to download game covers and artwork from [GameTDB](https://gametdb.com/). It might take a while to download the game covers and artwork, depending on how many games you have.
+* There are WADs that can open up USB Loader GX if you load it from the Wii Menu. This is called a forwarder WAD. An official forwarder WAD can be found [here](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), and a version for the vWii (Wii U) can be found [here](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad).
+* GameCube or "custom" Wii games may or may not have a custom banner that USB Loader GX uses. To enable this, find or write `CustomBannersURL = http://banner.rc24.xyz/` in config/GXGlobal.cfg on your USB drive. Then you can use the "Custom Banner" download by pressing the 1 Button on your Wii Remote.
 
-##### Kullanıcı Arayüzü
+##### User Interface
 
-USB Loader GX'in arayüzünde pek çok tuş bulunmaktadır.
+There are multiple buttons in the USB Loader GX interface.
 
-###### Ana Menü
+###### Main Menu
 
-Bunlar ana menünün üstünde bulunan tuşlardır. Soldan sağa:
+These are the functions the buttons found on the top of the main menu do, from left to right:
 
-* Yıldız - ''Favoriler'' olarak işaretlenen oyunları gösterir.
-* Ara - Oyunları isme göre aramanıza olanak sağlar.
-* Tür - Oyunlar için sıralama yöntemleri arasında geçiş yapar.
-* Platform - Oyunları platformuna göre ayırır.
-* Kategori - Oyunları kategorisine göre ayırır.
-* Liste - Oyunları liste görünümünde gösterir.
-* Çoklu Kapak Görünümü - Oyunları çoklu kapak görünümünde gösterir.
-* Döner Vitrin Görünümü - Oyunları döner vitrin görünmünde gösterir.
-* Wii Menü Görünümü - Oyunları Wii Menü görünümünde gösterir.
-* Ebeveyn Kontrolü - USB Loader GX'i kitler.
-* Disk - Oyunu disk aracılığıyla çalıştır.
+* Star - Shows games that you have marked as "favorites".
+* Search - Lets you search for games by name.
+* Sort - Cycles through sorting methods for games.
+* Platform - Choose to sort games by platform.
+* Category - Sorts games by category.
+* List - Shows games in a list view.
+* Multi-Cover View - Shows games in a multi-cover view.
+* Cover Carousel View - Shows games in a carousel view.
+* Wii Menu View - Shows games in a Wii Menu view.
+* Parental Control - Locks USB Loader GX.
+* Disc - Loads a game via disc.
 
-Herhangi bir oyuna basmak ''Start'' tuşuna basarak oyunu oynayabilmenizi sağlar.
+Pressing any game will allow you to play the game by pressing "Start".
 
-Başka tuşlar da bulunur:
+There are also other buttons:
 
-* (+) Simgesi - Oyunu "Yükler", misalen diskten yükleyip dökümünü alır.
-* Dişli - USB Loader GX için Ayarlar.
-* SD Kart - SD Kartı tekrardan tanır.
-* Homebrew - Homebrew uygulamalarını çalıştırır.
-* Wii - HOME Menü'yü açar. Wii kumandasından HOME tuşuna basılarak da açılabilir.
-* POWER Tuşu - Wii'nizi kapatır.
+* (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
+* Gears - Settings for USB Loader GX.
+* SD card - Remount the SD card.
+* Homebrew - Load homebrew apps.
+* Wii - Open up the HOME Menu, which can also be accessed by pressing the HOME Button on the Wii Remote.
+* Power Button - Turn off your Wii.
 
-Ekranın orta altında, USB sürücünüzdeki boş alanı ve ne kadar oyununuz olduğunu görebilirsiniz.
+On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
 
 [Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that USB Loader GX can integrate with. This is optional to set up.
 {: .notice--info}
 
-[Site haritasından devam edin](site-navigation)<br> Sevebileceğiniz pek çok öğreticiye daha sahibiz.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
