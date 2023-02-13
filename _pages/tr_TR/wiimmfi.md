@@ -4,157 +4,157 @@ title: "Wiimmfi"
 
 {% include toc title="Table of Contents" %}
 
-Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![Wiimmfi Logosu](/images/WiiWiimmfiLogo.jpg)
+![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
 
-[Wiimmfi](https://wiimmfi.de) şu an feshedilmiş durumda olan Nintendo Wi-Fi Connection yerine getirilen bir hizmettir. Bu hizmet, Wiimm ve Leseratte tarafından yapılmıştır.
+[Wiimmfi](https://wiimmfi.de) is a replacement service for the now-defunct Nintendo Wi-Fi Connection. It has been developed by Wiimm and Leseratte.
 
-Eğer Wiimmfi’ye bağlanırken 23904 numaralı hata kodunu alıyorsanız, yamanız güncel değildir.<br> Wiimmfi’ye bağlanırken kullandığınız metod için lütfen aşağıdaki adımları takip edin. <br> Daha fazla bilgi için lütfen [bu sayfayı](https://wiimmfi.de/update) ziyaret edin.<br>
+If you get the error 23904 while connecting to Wiimmfi, then you are using an outdated patch.<br> Follow the steps below for the method you're using to connect to Wiimmfi again.<br> See [this page](https://wiimmfi.de/update) for more details.<br>
 {: .notice--warning}
 
-## Farklı yamalar
+## Different patchers
 
-Wiimmfi’ye bağlanmak için pek çok yöntem bulunmaktadır. Size en uygun olanını seçiniz.
+There are lots of different methods to connect to Wiimmfi. Choose the one that fits your needs best.
 
-### Priiloader kullanarak otomatik olarak Disc Channel’dan yamalama
+### Automatic patching from the Disc Channel using Priiloader
 
-#### İhtiyacınız olan şeyler
-- Priiloader 0.9 (daha sonraki sürümleri de olabilir) yüklü olan bir Wii
+#### What you need
+- A Wii with Priiloader 0.9 or later installed
 
-Eğer Priiloader’ın daha önceki sürümlerinden birine sahipseniz [bu rehberi](priiloader) takip ederek güncelleyebilirsiniz/yükleyebilirsiniz.
+If you have an older version of Priiloader or don't have it installed, follow [this guide](priiloader) to update/install it.
 {: .notice--info}
 
-#### Talimatlar
-1. Wii’nizi açarken RESET tuşuna basılı tutun (Eğer Wii mini’niz varsa USB klavyenizi bağlayıp ESC’ye basın).
-2. `System Menu Hacks` kısmına gidin.
-3. `Wiimmfi patch v4` hackinin aktif olduğundan emin olun.
-4. Ayarları kaydedip çıkış yapın.
+#### Instructions
+1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
+2. Go to `System Menu Hacks`.
+3. Make sure the `Wiimmfi patch v4` hack is enabled.
+4. Save settings and exit.
 
-Eğer `Wiimmfi patch v2` ya da `Wiimmfi patch v3` hackini gördüyseniz, hacks_hash.ini dosyasının son sürümüne sahip değilsiniz demektir.<br> [Buradan](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) indirip SD Kartınız veya USB sürücünüzde `/apps/priiloader/hacks_hash.ini` şeklinde yerleştirin.<br> Ardından önceki adımları tekrar edin.
+If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
 {: .notice--warning}
 
-### Homebrew (Disk) Uygulaması
-MrBean35000vr (Mario Kart Wii için oluşturulan içerik paketi CTGP-R’nin oluşturucusu), diski yerleştirip oyunu Wiimmfi için yamalamanızı sağlayan Wiimmfi Disc Patcher adındaki yamalayıcıyı oluşturdu (Disk her yerleştirildiğinde çalıştırılması gerekir).
+### Homebrew (Disc) Application
+MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
 
-#### İhtiyacınız olan şeyler
-* SD Kart veya USB sürücü
+#### What you need
+* An SD card or USB drive
 * [Auto Wiimmfi Patcher](https://download.wiimmfi.de/patcher/autowiimmfipatcher-latest.zip)
 
-#### Talimatlar
+#### Instructions
 
-1. Auto Wiimmfi Patcher’ı, SD Kartınızın ya da USB sürücünüzün köküne çıkartın.
-2. SD Kartınızı Wii’ye takın ve Auto Wiimmfi Patcher‘ı Homebrew Channel’dan başlatın.
-3. Diskinizi yerleştirin (uygulamayı başlatmadan önce veya sonra yerleştirmeniz bir önemi yoktur; istediğiniz zaman yerleştirebilirsiniz).
-4. Yamanın tamamlanmasını bekleyin ardından başlayacaktır!
+1. Extract Auto Wiimmfi Patcher to the root of your SD card or USB drive.
+2. Insert your SD Card into your Wii, and launch Auto Wiimmfi Patcher from the Homebrew Channel.
+3. Insert your game disc (you can insert it before or after launch, it doesn't matter).
+4. Wait for patch to complete, and it'll begin!
 
-### Homebrew (Disk) Olmadan
-Fullmetal5'in oluşturduğu Lesarette’nin Wiimmfi yamalayıcıya adapte ettiği str2hax exploit’i sayesinde, Wiimmfi yamasını Wii’nizde herhangi bir homebrew uygulaması olmadan yükleyebileceksiniz.
+### No-Homebrew (Disc)
+Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
 
-#### İhtiyacınız olan şeyler
-* İnternet bağlantısına sahip bir Wii
+#### What you need
+* A Wii with an Internet connection
 
-#### Talimatlar
+#### Instructions
 
-1. Oyun diskinizi yerleştirin.
-2. İnternet bağlantısı ayarlarına gidin ve konsolunuzun DNS sunucusunu 95.217.77.151. olarak ayarlayın.
-3. WC24 kontrat bilgisine gidin (Ayarlarda “Internet” seçeneğine gittikten sonraki üçüncü seçenek).
-4. WC24’ü ve Shop Channel’ı kullanmak istemediğinizi onaylayın.
-5. Wiimmfi yamalayıcı sayfası çıkacaktır. Eğer çıkmadıysa ve halen daha varsayılan lisans sözleşmesini görüyorsanız; yönlendiriciniz, bu metod ile uyumlu olmayabilir.
-6. Yamalayıcının yüklenmesi için 1 buçuk dakika bekleyin.
-7. Oyununuz Wiimmfi yaması ekli olarak başlayacaktır.
+1. Insert your game disc.
+2. Go into your internet connection settings and set the DNS server of your console to 95.217.77.151.
+3. Go to the WC24 contract information (third button after clicking on "Internet" in the settings).
+4. Confirm that you do want to use WC24 and the shop channel
+5. The Wiimmfi patcher page should show up. If it doesn't, and you still see the default license agreement, your router might not be compatible with this method.
+6. Wait for about 1 minute and 30 seconds for the patcher to load
+7. The game should now start with the Wiimmfi patch included
 
-### USB Loader ile Otomatik Yama
-Eğer USB Loader GX kullanıyorsanız, son sürümüne güncelleyiniz. Hem ''küresel yükleyici seçeneklerinde'' hem de ''oyun seçeneklerinde'', USB Loader'ın oyunları otomatik olarak Wiimmfi ile yamalayacağı ''özel sunucu'' seçeneği bulunmaktadır.
+### Automatic patching using a USB Loader
+If you are already using USB Loader GX, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
 
-### ISO Yamalaması
-Belki Wiimmfi ile oynayacağınız her durumda yamayı kurmak istemiyorsunuzdur ve belki de USB Loader kullanıyorsunuzdur. Bu yüzden spesifik oyunlar için ISO Yamalayıcıları oluşturuldu.
+### ISO Patching
+You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
 
-#### İhtiyacınız olan şeyler
-- Oyununuzun bir kopyası (WBFS, ISO, cISO ya da Wii'nin desteklediği herhangi başka bir format).
-- [RiiConnect24 Yamalayıcısı](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows ve Unix için)  
-  **ya da**
-- [Wiimmfi Patcher (çapraz platform)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
-- Bir USB Loader, [cIOS](cios) ve oyunları depolayacak bir USB (eğer bir USB Loader kullanıyorsanız, halihazırda bunlara sahip olmanız gerekmektedir)
+#### What you need
+- Your copy of your game (WBFS, ISO, cISO, and other forms that a Wii can use are supported).
+- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
+  **or**
+- [Wiimmfi Patcher (cross-platform)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
+- A USB Loader, [cIOS](cios), and a USB to store the game on (you should already have these if you're using a USB Loader)
 
-#### Talimatlar
-1. Yamalayıcıyı seçtiğiniz bir klasöre koyun. Ardından oyunuzun kopyasını da o klasöre koyun.
-2. İşletim sisteminize göre betiğinizi çalıştırın: dosyanın adı Windows için `.bat` ile Mac/Linux için `.sh` ile bitiyor. Eğer RiiConnect24 Yamalayıcısı kullanıyorsanız, cihazınızı belirleyip (Wii, vWii ya da Dolphin) oyununuz için yamalayıcıyı seçin.
-3. İşlem tamamlandığında, `wiimmfi-images` klasöründen sürümü alın (yamalayıcının bulunduğu klasörün dışında da olabilir -../wiimmfi-images) ve USB sürücünüze geri kopyalayın.
+#### Instructions
+1. Extract the patcher of your choice to a folder, and place your copy of the game in it.
+2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the patcher for your game.
+3. Once it's finished, get the version out of the `wiimmfi-images` folder (it may be in the folder outside of the patcher - ../wiimmfi-images) and copy it back to your USB.
 
-### WiiWare Yamalaması
-WiiWare oyunlarınızı Wiimmfi ile oynayabilmek için yamalayabilirsiniz.
+### WiiWare Patching
+You can patch WiiWare games in order to play them on Wiimmfi.
 
-#### İhtiyacınız olan şeyler
+#### What you need
 
-- SD Kart
-- Oyununuzun bir kopyası (WAD formatında)
-- [RiiConnect24 Yamalayıcısı](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows ve Unix için)  
-  **ya da**
-- [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (çapraz platform)
+- An SD card
+- Your copy of your game (in WAD format)
+- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
+  **or**
+- [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (cross platform)
 - [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
-[Eğer WiiWare Yamalayıcısı’nı nasıl kullanabileceğinizi görmek istiyorsanız buraya tıklayın!](wiiwarepatcher)
+[If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
 {: .notice--info}
 
-Adımlar:
-1. WiiWare Yamalayıcısı’nın güncel sürümünün .zip dosyasını çıkartın ve WAD dosyanızı onun içine koyun.
-2. İşletim sisteminize göre betiğinizi çalıştırın: dosyanın adı Windows için `.bat` ile Mac/Linux için `.sh` ile bitiyor. Eğer RiiConnect24 Yamalayıcısı kullanıyorsanız, cihazınızı belirleyip (Wii, vWii ya da Dolphin) WiiWare Yamalayıcısı’nı seçin.
-3. Eğer işlem başarıyla tamamlandıysa, `wiiware_wads` klasöründe bulunan WAD dosyanızı Wii Mod Lite ile konsolunuza yükleyin.
+Steps:
+1. Extract the .zip of the latest version of WiiWare Patcher, and put your WAD in it.
+2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
+3. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
 
-## Diğer şeyler
+## Other stuff
 
-### Mario Kart Wii Yarışları
-Wiimmfi yeniden Mario Kart Wii yarışlarına katılmanızı sağlıyor.
+### Mario Kart Wii Competitions
+Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
-#### İhtiyacınız olan şeyler
+#### What you need
 
-- SD Kart veya USB sürücü
+- An SD card or USB drive
 - Mario Kart Wii Competition Patcher
    - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
    - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
-#### Talimatlar (Wii için)
+#### Instructions (for Wii)
 
-1. Mario Kart Wii Competition Patcher’ı çıkartın ve SD Kartınızdaki `apps` klasörüne koyun.
-2. SD Kartınızı veya USB sürücünüzü Wii’ye takın.
-3. Orijinal Mario Kart Wii oyununu (Wiimmfi yaması olanını değil) çalıştırın.
-4. Şuraya gidin Ayarlar -> İnternet Ayarları (ya da Nintendo WFC Bağlantısı) -> Mesaj Servisi. Eğer mesaj servisini açık tutmuşsanız, kapatıp tekrar açın.
-5. Mario Kart Wii Competition Patcher’ı çalıştırın.
-6. Yamalayıcı, depolamanızdaki Mario Kart Wii kayıt dosyalarını arayacak ve yükleyecek. Kayıt dosyasındaki kayıp yarış bulunduğu zaman yükleme tamamlanacaktır. Tabi ayrıca Wii’nizi yarış için yamalayacaktır.
+1. Extract Mario Kart Wii Competition Patcher and put it in the `apps` folder on your SD Card.
+2. Insert your SD card or USB drive into the Wii.
+3. Launch the original Mario Kart Wii game (not Wiimmfi patched).
+4. Navigate to Settings -> Network Settings (or Nintendo WFC Connection) -> Message Service. If you turned the message service feature on, turn it off and turn it on again.
+5. Launch Mario Kart Wii Competition Patcher.
+6. The patcher will look for save files for Mario Kart Wii on your storage device in various places, and upload them. This is done in case a missing competition is found in your save file. It will also, of course, patch your Wii for competitions.
 
-Eğer Wii U kullanıyorsanız, yarış yamasını ne zaman yarış kontrol etmek istiyorsanız çalıştırmanız lazım, çünkü WiiConnect24 Wii U’da etkinleştirilmiş olmuyor.
+If you're using the Wii U, you will have to run the competitions patcher whenever you want to check for a competition, because WiiConnect24 is not enabled on the Wii U.
 {: .notice--info}
 
-### DS Oyunları
-Wiimmfi sadece Wii oyunlarını değil, pek çok DS oyununu da destekler. nds-constraint adlı exploit sağolsun DS oyunlarını yamalamadan da çevrimiçi olarak kullanabilirsiniz.
+### DS Games
+Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks to an exploit called nds-constraint, you can play DS games online without patching your games.
 
-#### İhtiyacınız olan şeyler
+#### What you need
 
-- WEP kodlu ya da güvenliksiz Wi-Fi ağı
+- A Wi-Fi network with WEP or no security
 
-WEP kodlu ya da güvenliksiz Wi-Fi ağı bulmak işin en zor kısmı. Çünkü DS oyunları yeni Wi-Fi güvenlik türlerini desteklememekte (Pokémon Black/White gibi DSi ve 3DS’deki Wi-Fi konfigürasyonunu kullanabilen "DSi Enhanced" oyunları hariç). Ancak pek çok yönlendirici misafir Wi-Fi bağlantısı oluşturabilir ya da kendi telefon veya bilgisayarınızdan kişisel erişim noktası açabilirsiniz. Bunun hakkında internette pek çok bilgi daha bulunmaktadır. Daha fazla bilgi için favori arama motorunuzu kullanabilirsiniz.
+Getting a Wi-Fi network with WEP or no security is the hardest part, because DS games don't support newer Wi-Fi security types (unless it's one of the few games that are "DSi Enhanced" and can use your Wi-Fi configuration on your DSi or 3DS, like Pokémon Black/White). However, many routers support creating a guest Wi-Fi connection, or you can make a hotspot on your phone or your computer. There are plenty of resources on the Internet that have information on this, so use your favorite search engine to find them.
 {: .notice--info}
 
-#### Talimatlar
+#### Instructions
 
-1. Nintendo DS Wi-Fi ayarlarına gidin. Buna çevrimiçi oynamak istediğiniz oyundan da ulaşılabilir.
-2. Bağlantı kurun.
+1. Go in the Nintendo DS Wi-Fi settings. This can be accessed inside the game you want to play online with.
+2. Set up a connection.
 3. Type in `167.86.108.126` as the primary DNS.
 4. Type in `1.1.1.1` as the secondary DNS.
-5. Bağlantı ayarlarınızı kaydedip bağlantı testi yapın. Eğer başarılı olursanız, oynamaya hazırsınızdır.
+5. Save your connection settings and perform a connection test. If it's successful, then you're ready to play.
 
-### Mario Kart Wii Modları
+### Mario Kart Wii Mods
 
 #### CTGP-R
-MrBean35000vr ve Chadderz, CTGP-R adında otomatik olarak Wiimmfi yaması yaparak özel yarış pisti kullanımına imkan sunan bir özel yarış pisti dağıtımı geliştirdi. Talimatlar ve yüklemek için [ChadSoft web sitesine](http://chadsoft.co.uk) gidin.
+MrBean35000vr and Chadderz have a custom track distribution called CTGP-R that allows you to use a set of custom tracks and has automatic Wiimmfi patching. Go to the [ChadSoft website](http://chadsoft.co.uk) for the download and instructions.
 
 #### MKW Hack Pack
-PhillyG has put together a collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. Nasıl yapılacağını öğrenmek için [viki sayfasını](http://wiki.tockdom.com/wiki/MKW_Hack_Pack) ziyaret edin.
+PhillyG has put together a collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. To learn how to set it up, go to the [wiki page](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
 
 #### Wiimms Mario Kart Fun
-Wiimm ve Leseratte, "Wiimms MKW Fun" adında üç yılda bir güncellenen bir özel yarış pisti dağıtımı geliştirdiler. Leseratte tarafından LE-CODE çerçevesi üzerine kurulmuş olup Wiimmfi desteği gibi pek çok özelliğe sahiptir. [Viki sayfasından](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun) daha fazla bilgi edinebilirsiniz.
+Wiimm and Leseratte make a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte, has Wiimmfi support, and lots of other features. You can find out more about it on its [wiki page](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
 
-[Site haritasından devam edin](site-navigation)<br> Sevebileceğiniz pek çok öğreticiye daha sahibiz.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
