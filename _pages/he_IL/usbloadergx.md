@@ -11,7 +11,7 @@ This is a quick start guide on how to use USB Loader GX, a popular USB loader fo
 
 ![USB Loader GX](/images/usbloadergx.png)
 
-#### לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
+#### What you need
 
 * A Wii
 * A USB drive
@@ -35,7 +35,7 @@ To play games, we recommend using an external hard drive for your Wii. Flash dri
 Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
-#### הוראות
+#### Instructions
 
 ##### Downloading
 
