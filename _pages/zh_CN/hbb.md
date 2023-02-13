@@ -2,10 +2,10 @@
 title: "Open Shop Channel (Homebrew Browser)"
 ---
 
-译者注：如果你需要任何帮助，国内用户可以添加QQ群：417992332，国外用户可以加入[RiiConnect24 Discord群组](https://discord.gg/osc)，或者[发送电子邮件至support@riiconnect24.net](mailto:support@riiconnect24.net)。
+If you need help for anything regarding this tutorial, please join [the Open Shop Channel](https://discord.gg/osc) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Homebrew Browser是Open Shop Channel的根基，没有它可以正常工作但可能会有问题。 您也可以使用 [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) 并从 [Open Shop Channel网站](https://oscwii.org/) 获得自制程序。
+Homebrew Browser, which is what the Open Shop Channel is based off on, does work but it can be buggy. You can also get homebrew using [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) and from the [Open Shop Channel website](https://oscwii.org/).
 {: .notice--info}
 
 You need an Internet connection in order to use this application.
@@ -13,34 +13,34 @@ You need an Internet connection in order to use this application.
 
 The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
 
-#### 你需要准备的东西…
-* 一张SD卡或者U盘
+#### 你需要的是
+* 一张SD卡或U盘
 * [Homebrew Browser](/assets/files/homebrew_browser_v0.3.9e.zip)
 
 #### 步骤
 
-1. 解压Homebrew Browser，放在SD卡/U盘上的 `apps`文件夹里。
-2. 把你的SD卡或U盘插入Wii。 如果你想要，你可以从Homebrew Channel进入Homebrew Browser。
+1. Extract the Homebrew Browser and put it in the `apps` folder on your SD card or USB drive.
+2. Insert your SD card or USB drive into your Wii. You can now launch the Homebrew Browser from the Homebrew Channel if you want to.
 
-#### 推荐应用
+#### Recommended Apps
 
 Here are some recommended apps that you can get on the Open Shop Channel:
 
-- [CleanRip](https://oscwii.org/library/app/CleanRip) - 这是一个转储Wii和GameCube游戏的工具。 查看[我们的网页](dump-games)获取更多信息。
-- [GCMM](https://oscwii.org/library/app/gcmm) - Wii的GameCube记忆卡管理器。
-- [MyMenuify Mod](https://oscwii.org/library/app/mymenuifymod) - 为Wii菜单安装主题的工具。 查看[我们的网页](themes)以学习如何使用。
-- [Nintendont](https://oscwii.org/library/app/nintendont) - 在Wii上加载GameCube游戏。 更多信息请看 [这个 GBAtemp帖子](https://gbatemp.net/threads/nintendont.349258/)。
-- [SaveGame Manager GX](https://oscwii.org/library/app/savegame_manager_gx) - Wii的存档管理器。 它允许您将存档和Mii复制到Wii或从Wii复制到SD卡。
-- [USB Loader GX](https://oscwii.org/library/app/usbloader_gx) - Wii的USB游戏加载器。 查看[我们的网页](usbloadergx)以学习如何使用。
-- [WiiFlow Lite](https://oscwii.org/library/app/wiiflow) -另一个Wii的USB游戏加载器。 查看[我们的网页](wiiflow)以学习如何使用。
-- [WiiMC-SS](https://oscwii.org/library/app/wiimc-ss) - 用于Wii的媒体播放器。 支持电影、音乐、图片、关闭电台、YouTube以及更多。
-- [WiiXplorer-SS](https://oscwii.org/library/app/wiixplorer-ss) - Wii的文件管理器。 它让你访问SD卡、U盘以及更多。
-- [YABDM](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod) - 将Wii上的内容转储为WAD。 查看[我们的网页](dump-wads)以学习如何使用。
+- [CleanRip](https://oscwii.org/library/app/CleanRip) - This is a tool to dump Wii and GameCube games. See [our page](dump-games) for more details.
+- [GCMM](https://oscwii.org/library/app/gcmm) - This is a GameCube memory card manager for your Wii.
+- [MyMenuify Mod](https://oscwii.org/library/app/mymenuifymod) - This is a tool to install themes for your Wii Menu. See [our page](themes) for instructions on how to use it.
+- [Nintendont](https://oscwii.org/library/app/nintendont) - This is a GameCube game loader for your Wii. For more information, please see [this GBAtemp thread](https://gbatemp.net/threads/nintendont.349258/).
+- [SaveGame Manager GX](https://oscwii.org/library/app/savegame_manager_gx) - This is a save manager for your Wii. It allows you to copy save files and Miis to and from your Wii.
+- [USB Loader GX](https://oscwii.org/library/app/usbloader_gx) - This is a USB Loader for your Wii. See [our page](usbloadergx) for instructions on how to use it.
+- [WiiFlow Lite](https://oscwii.org/library/app/wiiflow) - This is another USB Loader for your Wii. See [our page](wiiflow) for instructions on how to use it.
+- [WiiMC-SS](https://oscwii.org/library/app/wiimc-ss) - This is a media player for your Wii. It supports movies, music, photos, radio stations, YouTube, and more.
+- [WiiXplorer-SS](https://oscwii.org/library/app/wiixplorer-ss) - This is a file manager for your Wii. It lets you access your files on your SD Card, USB Device, and more.
+- [YABDM](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod) - This is a tool to dump content installed on your Wii to WAD files. See [our page](dump-wads) for instructions on how to use it.
 
-[继续 RiiConnect24](riiconnect24)<br> RiiConnect24允许你使用WiiConnect24已经停止运营的服务，包含新闻、天气、大家一起投票、任天堂和Mii分享广场频道，还有Wii邮箱。 这是可选项。
+[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
 {: .notice--info}
 
-[继续 网站导览](site-navigation) 我们有许多你可能喜欢的其他教程。
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 
 Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
