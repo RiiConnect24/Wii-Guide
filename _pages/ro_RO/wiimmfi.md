@@ -4,157 +4,157 @@ title: "Wiimmfi"
 
 {% include toc title="Table of Contents" %}
 
-Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
 
-[Wiimmfi](https://wiimmfi.de) este un serviciu de înlocuire a acum-defunctului Nintendo Wi-Fi Connection. Acesta a fost dezvoltat de către Wiimm și Leseratte.
+[Wiimmfi](https://wiimmfi.de) is a replacement service for the now-defunct Nintendo Wi-Fi Connection. It has been developed by Wiimm and Leseratte.
 
-Dacă primești eroarea 23904 în timp ce te conectezi la Wiimmfi, atunci înseamnă că folosești o modificare veche.<br> Urmează pașii de mai jos pentru metoda pe care o folosești să te conectezi la Wiimmfi din nou.<br> Vezi [această pagină](https://wiimmfi.de/update) pentru mai multe detalii.<br>
+If you get the error 23904 while connecting to Wiimmfi, then you are using an outdated patch.<br> Follow the steps below for the method you're using to connect to Wiimmfi again.<br> See [this page](https://wiimmfi.de/update) for more details.<br>
 {: .notice--warning}
 
-## Patcheri diferiți
+## Different patchers
 
-Există multe metode diferite de a te conecta la Wiimmfi. Alege-l pe cel care se potrivește cel mai bine nevoilor tale.
+There are lots of different methods to connect to Wiimmfi. Choose the one that fits your needs best.
 
-### Modificare automată din Disc Channel folosind Priiloader
+### Automatic patching from the Disc Channel using Priiloader
 
-#### De ce ai nevoie
-- Un Wii cu Priiloader 0.9 sau mai nou instalat
+#### What you need
+- A Wii with Priiloader 0.9 or later installed
 
-Dacă ai o versiune mai veche de Priiloader sau nu îl ai instalat, urmează [acest ghid](priiloader) pentru a-l actualiza/instala.
+If you have an older version of Priiloader or don't have it installed, follow [this guide](priiloader) to update/install it.
 {: .notice--info}
 
-#### Instrucțiuni
-1. Ține apăsat butonul RESET în timp ce îți pornești consola Wii (dacă folosești un Wii mini, conectează o tastatură USB în consolă și apasă escape).
-2. Du-te la `System Menu Hacks`.
-3. Asigură-te că hack-ul `Wiimmfi patch v4` este activat.
-4. Salvează setările și ieși.
+#### Instructions
+1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
+2. Go to `System Menu Hacks`.
+3. Make sure the `Wiimmfi patch v4` hack is enabled.
+4. Save settings and exit.
 
-Dacă vezi hack-ul `Wiimmfi patch v2` sau `Wiimmfi patch v3` în schimb, atunci nu ai cea mai nouă versiune a fișierului hacks_hash.ini.<br> Descarcă-l de [aici](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) și plasează-l în `/apps/priiloader/hacks_hash.ini` în cardul tău SD sau unitatea ta USB.<br> Apoi, repetă pașii anteriori.
+If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
 {: .notice--warning}
 
-### Aplicație Homebrew (Disc)
-MrBean35000vr (creatorul CTGP-R, un pachet de conținut pentru Mario Kart Wii) a creat un Patcher de Disc pentru Wiimmfi care îți permite să introduci un disc și să modifici jocul în timp ce îl rulezi pentru folosire cu Wiimmfi, însă aceasta va trebui rulată de fiecare dată când începi discul.
+### Homebrew (Disc) Application
+MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
 
-#### De ce ai nevoie
-* Un card SD sau o unitate USB
+#### What you need
+* An SD card or USB drive
 * [Auto Wiimmfi Patcher](https://download.wiimmfi.de/patcher/autowiimmfipatcher-latest.zip)
 
-#### Instrucțiuni
+#### Instructions
 
-1. Extrage Auto Wiimmfi Patcher în rădăcina cardului tău SD sau unității tale USB.
-2. Introduce Cardul tău SD în Wii, și pornește Auto Wiimmfi Patcher din Homebrew Channel.
-3. Introduce discul de joc (îl poți introduce înainte sau după lansare, nu contează).
-4. Așteaptă ca modificarea să se finalizeze, și va începe!
+1. Extract Auto Wiimmfi Patcher to the root of your SD card or USB drive.
+2. Insert your SD Card into your Wii, and launch Auto Wiimmfi Patcher from the Homebrew Channel.
+3. Insert your game disc (you can insert it before or after launch, it doesn't matter).
+4. Wait for patch to complete, and it'll begin!
 
-### Fără Homebrew (Disc)
-Mulțumită exploit-ului str2hax a lui Fullmetal5, pe care Leseratte l-a putut adapta pentru patcher-ul Wiimmfi, poți rula patch-ul Wiimmfi fără să ai homebrew instalat în consolă.
+### No-Homebrew (Disc)
+Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
 
-#### De ce ai nevoie
-* Un Wii cu o conexiune la Internet
+#### What you need
+* A Wii with an Internet connection
 
-#### Instrucțiuni
+#### Instructions
 
-1. Introduce-ți discul de joc.
-2. Mergi în setările de conexiune la internet și setează serverul DNS a consolei tale la 95.217.77.151.
-3. Mergi la informațiile de contract WC24 (al treilea buton după ce apeși pe "Internet" în setări).
-4. Confirmă ca vrei să folosești WC24 și Shop Channel-ul
-5. Pagina patcher-ului Wiimmfi ar trebui să apară. Dacă nu apare, și încă vezi acordul de licență prestabilit, router-ul tău s-ar putea să nu fie compatibil cu această metodă.
-6. Așteaptă aproximativ 1 minut și 30 de secunde pentru ca patcher-ul să se încarce
-7. Jocul acum ar trebui să pornească cu patch-ul Wiimmfi inclus
+1. Insert your game disc.
+2. Go into your internet connection settings and set the DNS server of your console to 95.217.77.151.
+3. Go to the WC24 contract information (third button after clicking on "Internet" in the settings).
+4. Confirm that you do want to use WC24 and the shop channel
+5. The Wiimmfi patcher page should show up. If it doesn't, and you still see the default license agreement, your router might not be compatible with this method.
+6. Wait for about 1 minute and 30 seconds for the patcher to load
+7. The game should now start with the Wiimmfi patch included
 
-### Modificare automată folosind un USB Loader
-Dacă deja folosești USB Loader GX, încearcă să-l actualizezi la cea mai recentă versiune. Apoi, ar trebui să existe o setare de "private server" (atât în opțiunile loader-ului global cât și în opțiunile jocului) pe care o poți seta la "Wiimmfi" pentru a face ca USB Loader-ul să modifice automat fiecare joc pe care îl pornești să meargă cu Wiimmfi.
+### Automatic patching using a USB Loader
+If you are already using USB Loader GX, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
 
-### Modificare ISO
-Poate nu vrei să rulezi un patcher de fiecare dată când vrei să joci pe Wiimmfi, iar poate deja folosești un USB Loader. Astfel, Patcherii de ISO au fost creați, unii pentru jocuri specifice.
+### ISO Patching
+You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
 
-#### De ce ai nevoie
-- O copie a jocului tău (WBFS, ISO, cISO, și alte formate pe care un Wii le poate folosi sunt acceptate).
-- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows și Unix)  
-  **sau**
+#### What you need
+- Your copy of your game (WBFS, ISO, cISO, and other forms that a Wii can use are supported).
+- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
+  **or**
 - [Wiimmfi Patcher (cross-platform)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
-- Un USB Loader, [cIOS](cios), și un USB unde să stochezi jocul (ar trebui să ai aceste lucruri deja dacă folosești un USB Loader)
+- A USB Loader, [cIOS](cios), and a USB to store the game on (you should already have these if you're using a USB Loader)
 
-#### Instrucțiuni
-1. Extrage patcher-ul ales de tine într-un dosar, și pune-ți copia jocului în acel folder.
-2. Rulează scriptul de patch pentru sistemul tău de operare: de obicei acesta se va termina în `.bat` pentru Windows și `.sh` pentru Mac/Linux. Dacă folosești RiiConnect24 Patcher, selectează-ți dispozitivul (Wii, vWii sau Dolphin) și alege patcher-ul pentru jocul tău.
-3. Odată ce este gata, scoate versiunea afară din dosarul `wiimmfi-images` (poate fi în dosarul din afara patcher-ului - ../wiimmfi-images) și copiază-l înapoi în USB-ul tău.
+#### Instructions
+1. Extract the patcher of your choice to a folder, and place your copy of the game in it.
+2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the patcher for your game.
+3. Once it's finished, get the version out of the `wiimmfi-images` folder (it may be in the folder outside of the patcher - ../wiimmfi-images) and copy it back to your USB.
 
-### Modificare WiiWare
-Poți modifica jocurile WiiWare pentru a le juca pe Wiimmfi.
+### WiiWare Patching
+You can patch WiiWare games in order to play them on Wiimmfi.
 
-#### De ce ai nevoie
+#### What you need
 
-- Un card SD
-- Copia jocului tău (în format WAD)
-- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows și Unix)  
-  **sau**
+- An SD card
+- Your copy of your game (in WAD format)
+- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
+  **or**
 - [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (cross platform)
 - [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
-[Dacă vrei să vezi cum să folosești WiiWare Patcher, apasă aici!](wiiwarepatcher)
+[If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
 {: .notice--info}
 
-Pași:
-1. Extrage fișierul .zip al ultimei versiune de WiiWare Patcher, și pune-ți WAD-ul în dosarul unde a fost extras patcher-ul.
-2. Rulează scriptul de patch pentru sistemul tău de operare: de obicei acesta se va termina în `.bat` pentru Windows și `.sh` pentru Mac/Linux. Dacă folosești RiiConnect24 Patcher, selectează-ți dispozitivul (Wii, vWii sau Dolphin) și alege WiiWare patcher.
-3. Dacă a fost completat cu succes, instalează WAD-ul care a fost creat în `wiiware-wads` cu Wii Mod Lite.
+Steps:
+1. Extract the .zip of the latest version of WiiWare Patcher, and put your WAD in it.
+2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
+3. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
 
-## Alte lucruri
+## Other stuff
 
-### Competiții de Mario Kart Wii
-Wiimmfi îți permite să participi în competiții de Mario Kart Wii din nou.
+### Mario Kart Wii Competitions
+Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
-#### De ce ai nevoie
+#### What you need
 
-- Un card SD sau o unitate USB
+- An SD card or USB drive
 - Mario Kart Wii Competition Patcher
    - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
    - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
-#### Instrucțiuni (pentru Wii)
+#### Instructions (for Wii)
 
-1. Extrage Mario Kart Wii Competition Patcher și pune-l în dosarul `apps` din Cardul tău SD.
-2. Introdu cardul tău SD sau unitatea ta USB în Wii.
-3. Lansează jocul original Mario Kart Wii (fară patch-ul Wiimmfi).
-4. Navighează la Settings-> Network Settings (sau Nintendo WFC Connection) -> Message Service. Dacă ai activat funcția de serviciu mesaje, dezactiveaz-o și activeaz-o din nou.
-5. Lansează Mario Kart Wii Competition Patcher.
-6. Patcher-ul va căuta datele salvate pentru Mario Kart Wii din dispozitivul tău de stocare în numeroase locuri, și le va trimite. Acest lucru este făcut în caz că o competiție pierdută este găsită în datele salvate. Desigur, va modifica și consola ta pentru competiții.
+1. Extract Mario Kart Wii Competition Patcher and put it in the `apps` folder on your SD Card.
+2. Insert your SD card or USB drive into the Wii.
+3. Launch the original Mario Kart Wii game (not Wiimmfi patched).
+4. Navigate to Settings -> Network Settings (or Nintendo WFC Connection) -> Message Service. If you turned the message service feature on, turn it off and turn it on again.
+5. Launch Mario Kart Wii Competition Patcher.
+6. The patcher will look for save files for Mario Kart Wii on your storage device in various places, and upload them. This is done in case a missing competition is found in your save file. It will also, of course, patch your Wii for competitions.
 
-Dacă folosești Wii U, va trebui să rulezi patcher-ul de competiții de fiecare dată când vrei să verifici pentru o nouă competiție, pentru că WiiConnect24 nu este activat pe Wii U.
+If you're using the Wii U, you will have to run the competitions patcher whenever you want to check for a competition, because WiiConnect24 is not enabled on the Wii U.
 {: .notice--info}
 
-### Jocuri DS
-Wiimmfi nu sprijină numai jocuri Wii, ci și o mulțime de jocuri DS de asemenea. Mulțumită unui exploit numit nds-constraint, poți juca jocuri DS online fără să-ți modifici jocurile.
+### DS Games
+Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks to an exploit called nds-constraint, you can play DS games online without patching your games.
 
-#### De ce ai nevoie
+#### What you need
 
-- O rețea Wi-Fi cu WEP sau nicio securitate
+- A Wi-Fi network with WEP or no security
 
-Cea mai dificilă parte este găsirea unei rețele Wi-Fi cu WEP sau nicio securitate, pentru că jocurile DS nu acceptă tipuri de securitate Wi-Fi mai noi (cu excepția că este una dintre puținele jocuri care sunt "DSi Enhanced" și care pot îți pot utiliza configurația Wi-Fi pe DSi-ul sau 3DS-ul tău, precum Pokémon Black/White). Însă, multe routere pot crea o conexiune Wi-Fi de gazdă, sau poți crea un hotspot pe telefonul sau calculatorul tău. Sunt o mulțime de resurse pe Internet care conțin informații despre asta, deci folosește-ți motorul de căutare preferat pentru a le găsi.
+Getting a Wi-Fi network with WEP or no security is the hardest part, because DS games don't support newer Wi-Fi security types (unless it's one of the few games that are "DSi Enhanced" and can use your Wi-Fi configuration on your DSi or 3DS, like Pokémon Black/White). However, many routers support creating a guest Wi-Fi connection, or you can make a hotspot on your phone or your computer. There are plenty of resources on the Internet that have information on this, so use your favorite search engine to find them.
 {: .notice--info}
 
-#### Instrucțiuni
+#### Instructions
 
-1. Mergi în setările Nintendo DS Wi-Fi. Acestea pot fi accesate din interiorul jocului pe care vrei să-l joci online.
-2. Setează o conexiune.
-3. Scrie `167.86.108.126` ca DNS-ul primar.
-4. Scrie `1.1.1.1` ca DNS-ul secundar.
-5. Salvează-ți setările de conexiune și performă un test de conexiune. Dacă testul este un succes, atunci ești gata să joci.
+1. Go in the Nintendo DS Wi-Fi settings. This can be accessed inside the game you want to play online with.
+2. Set up a connection.
+3. Type in `167.86.108.126` as the primary DNS.
+4. Type in `1.1.1.1` as the secondary DNS.
+5. Save your connection settings and perform a connection test. If it's successful, then you're ready to play.
 
-### Mod-uri de Mario Kart Wii
+### Mario Kart Wii Mods
 
 #### CTGP-R
-MrBean35000vr și Chadderz au o distribuție de "Custom Track-uri" numită CTGP-R care îți permite să folosești o serie de trasee personalizate și care are modificare pentru Wiimmfi automată. Accesează [website-ul ChadSoft](http://chadsoft.co.uk) pentru descărcare și instrucțiuni.
+MrBean35000vr and Chadderz have a custom track distribution called CTGP-R that allows you to use a set of custom tracks and has automatic Wiimmfi patching. Go to the [ChadSoft website](http://chadsoft.co.uk) for the download and instructions.
 
 #### MKW Hack Pack
-PhillyG a creat o colecție de trasee personalizate și hack-uri numită MKW Hack Pack care permite conexiuni la Wiimmfi. Pentru a învăța cum să îl configurezi, accesează [pagina de wiki](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+PhillyG has put together a collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. To learn how to set it up, go to the [wiki page](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
 
 #### Wiimms Mario Kart Fun
-Wiimm și Leseratte fac o distribuție de trasee personalizate numită "Wiimms MKW Fun", care este actualizată în jur de trei ori pe an. Este bazat pe cadrul LE-CODE creat de Leseratte, are suport Wiimmfi, și multe alte funcții. Poți afla mai multe despre aceasta pe [pagina lor de wiki](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
+Wiimm and Leseratte make a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte, has Wiimmfi support, and lots of other features. You can find out more about it on its [wiki page](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
 
-[Continuă la navigarea site-ului](site-navigation)<br> Avem multe alte tutoriale care s-ar putea să-ți placă.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
