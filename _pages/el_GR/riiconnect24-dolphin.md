@@ -4,7 +4,7 @@ title: "RiiConnect24 for Dolphin"
 
 {% include toc title="Table of Contents" %}
 
-![Εικονίδιο RiiConnect24](/images/WiiRC24Logo.jpg)
+![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
 This guide will help you install RiiConnect24 on your Dolphin installation.
 
@@ -23,13 +23,13 @@ This guide is for [Dolphin Emulator](https://dolphin-emu.org) only.
 DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
-### Τι χρειάζεστε
+### What you need
 
 * A computer with either Windows 10 or newer or any Unix-based system
 * [Dolphin](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-#### Οδηγίες
+#### Instructions
 
 ##### Section I - Installing Dolphin
 
