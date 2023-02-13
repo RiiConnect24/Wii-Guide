@@ -1,15 +1,15 @@
 ---
-title: "Wii Menü Temaları yükleme"
+title: "Installing Wii Menu Themes"
 ---
 
 {% include toc title="Table of Contents" %}
 
-Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Wii Menü'nün beyaz teması canınızı oldukça sıkıp sizi yeni tema arayışlarına mı soktu? Bu öğretici size Wii Menü'nüz için yeni bir tema elde etmenizi sağlayacak!
+Are you tired of the boring, plain white theme on your Wii Menu, and want a cool theme instead? This tutorial will help you get a new theme for your Wii Menu!
 
-To protect against bricks, [make sure you install Priiloader](priiloader). Also, install [BootMii](bootmii) (as Boot2 if you have an early Wii, otherwise IOS). Bu rehberi takip ederken brick koruması yüklemek sizi brick modundan koruyacaktır. PRIILOADER VE BOOTMII'Yİ YÜKLEMEDEN SAKIN DEVAM ETMEYİN!
+To protect against bricks, [make sure you install Priiloader](priiloader). Also, install [BootMii](bootmii) (as Boot2 if you have an early Wii, otherwise IOS). Installing brick protection along with following the guide correctly should keep you safe from bricks. DO NOT CONTINUE UNTIL YOU HAVE INSTALLED PRIILOADER AND BOOTMII!
 {: .notice--danger}
 
 Only install themes on your Wii that have been formatted specifically for it, and its current region. Installing themes from the wrong region or version on your Wii will cause a brick. This tutorial will tell you how to create a .csm file that is safe to install.
@@ -27,15 +27,15 @@ Do not use any other version of ThemeMii than the one linked here, as ThemeMii M
 We recommend you [install cIOS](cios) before continuing.
 {: .notice--info}
 
-#### İhtiyacınız olan şeyler
+#### What you need
 
-* Wii
-* SD Kart veya USB sürücü
-* Windows’u olan bir bilgisayar (ya da Mac/Linux için Mono veya Wine)
+* A Wii
+* An SD card or USB drive
+* A computer with Windows on it (or using Mono or Wine on Mac/Linux)
 * [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
 * [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 
-#### Tema Bağlantıları
+#### Theme Links
 
 Below are some links to themes.
 
@@ -43,39 +43,39 @@ Below are some links to themes.
 * [Google Drive Repository](https://drive.google.com/drive/folders/1K1WQe36bGibsF4ZlAxZKU6ngNpjUnh5i)
 * [Wii Theme Team Creations v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
-DEVAM ETMEDEN ÖNCE YUKARIDAKİ UYARILARI OKUDUĞUNUZDAN EMİN OLUN!
+MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
 {: .notice--danger}
 
-#### Talimatlar
+#### Instructions
 
-##### Bölüm I - Tema Bulma
+##### Section I - Finding a Theme
 
 * Find a theme you want to install. Some themes have YouTube videos to show what the theme looks like, but unfortunately some of the videos are no longer available.
-* Bulduğunuz vakit, Wii Menü sürümünüze uygun olan bir bağlantıyı indirin. **It's very important to pick the correct version to avoid bricks.**
-* Büyük ihtimalle 4.X yazan bir bağlantıyı indireceksiniz. Bu da, bu temanın Wii Menü'nün 4.1, 4.2 ve 4.3 sürümlerinde çalıştığı anlamına gelir.
-* Bazı temalar, bölgeye göre farklı bağlantılara sahiptir. O yüzden Wii'nizin bölgesine uygun olanını seçin.
-* Wii Menü temaları için başka kaynaklar da bulunmaktadır. Ancak scm formunda (Wii'ye yüklemeye hazır) olabilir. Eğer csm Wii Menü'nüzün sürümü ve bölgesi ile uyuşmuyorsa, ThemeMii Mod ile mym formuna dönüştürebilir ve buradaki sürüm ve bölge kullanımı talimatlarıyla tekrardan csm formuna dönüştürebilirsiniz.
-* Temayı yüklediğiniz zaman doğru dosya olduğunu kontrol etmek istiyorsanız ThemeMii Mod'u açın.
+* Once you found one you like, click the download link corresponding to your Wii Menu version. **It's very important to pick the correct version to avoid bricks.**
+* You probably will pick the download link that says 4.X, that means the theme will work on version 4.1, 4.2 and 4.3 of the Wii Menu.
+* Some themes have different links for different regions, so pick the one corresponding to your Wii's region.
+* There are other resources for Wii Menu themes, but they might be in csm form (ready to install on the Wii). If the csm doesn't match the version and region of your Wii Menu, try to convert it to mym with ThemeMii Mod, and then convert it back to csm with the instructions here using the version and region of your Wii Menu.
+* Once you downloaded the theme you want and double-checked you got the right one, extract the .zip file for ThemeMii Mod and open the application.
 
-##### Bölüm I - Tema Yapımı
+##### Section II - Building the Theme
 
-1. Bir iletişim penceresi, size sadece brick koruması olan temaları yüklemenizi söyleyecek. Eğer Priiloader ve(ya) BootMii yüklediyseniz (Rehberin başlangıcındaki uyarıya bakın), OK'a basın.
-2. `Tools` > `Download Base App` > Version of your Wii Menu > Region of your Wii Menu kısmına gidin.
-3. Bir iletişim penceresi, sizden anahtar oluşturmak için bir değer girmenizi isteyecek. Ne yazıyorsa onu girin. Nintendo sunucularındaki Wii Menü içeriklerinin şifresini kıracak bir anahtar oluşturulacaktır.
-4. Dosya seçme kutusu size .app dosyasının (Wii Menü içeriklerinin yüklendiği dosya) nereye kaydedileceğini soracak. ThemeMii'nin bulunduğu konuma kaydedin.
-5. `Options` > `Standard System Menu` > Version of your Wii Menu > Region of your Wii Menu kısmına gidin.
-6. `File` > `Open` gidin ve .mym dosyanızın nerede olduğunu bulun.
-7. `Create csm` deyip temayı nereye kaydetmek istediğinizi belirleyin. Temayı yapması için biraz bekleyin.
-8. İletişim penceresi, umarız ki size tema yapımının başarılı olduğunu söyleyecek ve .mym dosyasını kaydetmek isteyip istemediğinizi soracak. `No` seçeneğini seçin.
+1. A dialog box will pop up telling you to only install themes if you have brick protection. If you installed Priiloader and/or BootMii (see the warning at the start of this guide), press OK.
+2. Go to `Tools` > `Download Base App` > Version of your Wii Menu > Region of your Wii Menu
+3. A dialog box will pop up asking you to enter in a value to create a key. Enter in what it says, it will create a key that will be used to decrypt the Wii Menu contents from Nintendo's servers.
+4. A file selection box will ask you where to save the .app file (that is the Wii Menu content file it downloaded). Save it to the directory where ThemeMii is in.
+5. Go to `Options` > `Standard System Menu` > Version of your Wii Menu > Region of your Wii Menu
+6. Go to `File` > `Open`, then browse for where your .mym file is.
+7. Press `Create csm`, then browse for a directory you want to save the theme in. Give it a moment to build the theme.
+8. A dialog box will pop up hopefully saying it built the theme correctly, and it will ask you if you want to save the .mym. Press `No`.
 
-##### Bölüm III - Tema Yükleme
+##### Section III - Installing the Theme
 
 1. Extract MyMenuifyMod.zip to your SD card or USB drive.
-2. Kaydettiğiniz .csm dosyasını SD Kart ya da USB sürücünüzdeki `modthemes` klasörüne koyun.
-3. SD Kartınızı veya USB sürücünüzü Wii’nize takın.
-4. Homebrew Channel’dan MyMenuify Mod’u başlatın.
-5. Giriş mesajından sonra, size uygulama için hangi IOS'u kullanmak istediğinizi soracak. Eğer [yüklü cIOS'unuz](cios) varsa `IOS249'u` veya `IOS58'i` seçin. Eğer `Exception DSI occurred!` hatasını alırsanız, RESET'e basın ve uygulamayı tekrardan başlatıp bu sefer `IOS250'yi` deneyin. It might take a couple attempts to reload the IOS.
-6. Yüklemek istediğiniz temayı seçip A'ya basın. Temanın yüklenmesi için biraz bekleyin, ardından herhangi bir tuşa basarak Wii Menü'ye dönün. Umarız, tema doğru olarak yüklenmiştir. Umarız, tema doğru olarak yüklenmiştir.
+2. Put the .csm file you saved in a folder called `modthemes` on your SD card or USB drive.
+3. Insert your SD card or USB drive into your Wii.
+4. Launch MyMenuify Mod from the Homebrew Channel.
+5. After an introduction message, it will ask you what IOS you want to use in the app. If you have [installed cIOS](cios), use `IOS249`, or else use `IOS58`. If the former gives an `Exception DSI occurred!` error, press Reset on the Wii console, launch it again, then try `IOS250`. It might take a couple attempts to reload the IOS.
+6. Highlight the theme you want to install, then press A. Give it a moment to install the theme, then press any button to go to the Wii Menu. Hopefully, the theme installed correctly.
 
-If you get an error saying "The system files are corrupted" or a black screen, don't panic as long as you installed Priiloader. Wii'nizi kapatın ve RESET tuşuna basılı tutun ve Wii'nizi açın. Wii Menü'nüzü düzeltebileceğiniz Priiloader menüsünü açmış olmanız gerekir. One of the options is to launch the Homebrew Channel, where you can launch MyMenuify Mod and press a button to download and install the original Wii Menu theme.
+If you get an error saying "The system files are corrupted" or a black screen, don't panic as long as you installed Priiloader. Turn off your Wii, then hold down the RESET button down and turn on your Wii. You should be able to boot into the Priiloader menu, where you have some options to fix your Wii Menu. One of the options is to launch the Homebrew Channel, where you can launch MyMenuify Mod and press a button to download and install the original Wii Menu theme.
 {: .notice--info}
