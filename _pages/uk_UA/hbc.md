@@ -42,7 +42,7 @@ Here's a tip - when installing homebrew applications on your SD Card or USB driv
 
 `AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
 
-┃ ┣ 📂 AppName1
+[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
 {: .notice--info}
 
 If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
