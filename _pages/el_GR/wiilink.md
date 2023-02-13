@@ -9,14 +9,14 @@ WiiLink and all of its services (such as Wii no Ma) are not controlled or operat
 
 [WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels Wii Room and Digicam Print Channel, and in the future will let you use the Demae Channel again.
 
-#### Τι χρειάζεστε
+#### What you need
 
-* Μία κάρτα SD ή μέσο αποθήκευσης USB
-* Ένα Wii με σύνδεση στο διαδίκτυο
+* An SD card or USB drive
+* A Wii with an Internet connection
 * A Windows or Unix based computer
 * [WiiLink Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
-#### Οδηγίες
+#### Instructions
 
 ##### Optional: Wii Patcher
 The Wii Patcher will not work on Dolphin. If you are a Dolphin user, please use the other patchers.
@@ -49,12 +49,12 @@ If you use the Wii Patcher, you will not need to use our other patchers.
 8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
 9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLinkPatcher.bat` to your SD Card or USB Device.
 10. Put your SD card or USB drive in your Wii.
-11. Ανοίξτε το κανάλι Internet στο Wii σας.
+11. Launch the Homebrew Channel on your Wii.
 12. Launch Wii Mod Lite.
 13. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 14. If your Wii is not a Japanese region, install WiiLink24_SPD.wad before anything else. This is required so that we know your email address to send files.
 15. Highlight all other WADs with `WiiLink24` in the name, and press + to select them. When all of them are selected, press A twice to install the WADs.
-16. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+16. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
 ##### Section II - Adding your email to SPD
 
@@ -76,5 +76,5 @@ For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (4
 [Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
 {: .notice--info}
 
-[Συνεχίστε στην περιήγηση ιστοσελίδας](site-navigation)<br> Έχουμε πολλούς άλλους οδηγούς που μπορεί να σας αρέσουν.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
