@@ -16,7 +16,7 @@ En esta guía te explicaremos cómo extraer canales instalados en la memoria del
 #### Instrucciones
 ##### Sección I - Descarga/instalación
 
-1. Extrae Yet Another BlueDump MOD en tu tarjeta SD o memoria USB.
+1. Extract Yet Another BlueDump MOD to your SD card or USB drive.
 2. Inserta la tarjeta SD o unidad USB a tu Wii e inicia Yet Another BlueDump Mod desde el Canal Homebrew.
 
 ##### Sección II - Copiando los WADs
