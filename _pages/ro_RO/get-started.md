@@ -1,37 +1,37 @@
 ---
-title: "Să începem"
+title: "Get Started"
 ---
 
 {% include toc title="Table of Contents" %}
 
-Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Chiar dacă sistemul tău Wii a fost deja modificată în trecut, urmarea acestor pași poate asigura că modificația este la zi.
+Even if your Wii has already been softmodded in the past, following these steps can still ensure that your softmod is up to date.
 {: .notice--info}
 
-Toate exploit-urile rulează Instalatorul HackMii, și au același rezultat final.
+All of the exploits run the HackMii Installer, and have the same end result.
 {: .notice--info}
 
-Deși poți urma acest ghid fără un card SD, nu vei putea să creezi sau să restaurezi o copie de rezervă folosing BootMii, și nu vei putea să folosești unele aplicații homebrew.
+Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
 {: .notice--info}
 
-Dacă Meniul tău Wii nu este pe versiunea 4.3, folosește str2hax sau FlashHax pentru a instala Homebrew Channel, iar apoi urmează [ghidul de actualizare](update) pentru a-ți actualiza sistemul la 4.3.
+If your Wii Menu is not on version 4.3, use str2hax or FlashHax to install the Homebrew Channel, and then follow the [update guide](update) to update to 4.3.
 {: .notice--info}
 
-Acest ghid este doar pentru consola Wii originală și pentru Wii mini (inclusiv Wii Family Edition). Nu folosi acest ghid pe un Wii U (vWii)! Dacă vrei să instalezi homebrew pe un Wii U, [urmează acest ghid](https://wiiu.hacks.guide).
+This guide is for the original Wii and Wii mini only (including the Wii Family Edition). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
 {: .notice--warning}
 
-### Alege un exploit de folosit
+### Choose an exploit to use
 
-Aceste exploit-uri sunt sortate de la cele mai ușoare la cele mai grele de făcut.
+These exploits are sorted by easiest to hardest difficulty of use.
 
-- [str2hax](str2hax) - Exploit care utilizează EULA-ul
-    * Necesită o conexiune la Internet și schimbarea serverului DNS
-- [LetterBomb](letterbomb) - Exploit care utilizează Panoul de Mesaje Wii
-    * Necesită un card SD
-- [FlashHax](flashhax) - Exploit care utilizează Internet Channel
-    * Necesita ca Internet Channel să fie instalat, și o conexiune la Internet
-- [BlueBomb](bluebomb) - Exploit care utilizează Bluetooth
-    * Necesită un calculator cu Bluetooth și GNU/Linux, de asemenea și un dispozitiv de stocare USB
-    * Acesta este singurul exploit care merge pe **Wii mini**
+- [str2hax](str2hax) - Exploit that uses the Wii EULA
+    * Requires an Internet connection and changing the DNS server
+- [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board
+    * Requires an SD card
+- [FlashHax](flashhax) - Exploit that uses the Internet Channel
+    * Requires the Internet Channel installed, and an Internet connection
+- [BlueBomb](bluebomb) - Exploit that uses Bluetooth
+    * Requires a computer with Bluetooth and GNU/Linux, as well as a USB storage device
+    * This is the only exploit that works on the **Wii mini**
