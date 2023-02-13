@@ -2,7 +2,7 @@
 title: WiiLink Demae Domino's Guide
 ---
 
-{% include toc title="Sisällysluettelo" %}
+{% include toc title="Table of Contents" %}
 
 If you need help for anything regarding this tutorial, please join [the WiiLink Discord server](https://discord.gg/wiilink).
 {: .notice--info}
@@ -19,14 +19,14 @@ Currently, only the USA and Canada are supported.
 You cannot use the default Dolphin NAND with this service. You must use your own NAND dump. This can be done in Dolphin by going to the toolbar and clicking `Tools -> Manage NAND -> Import BootMii NAND Backup`.
 {: .notice--warning}
 
-#### Mitä tarvitset
+#### What you need
 
-* SD-kortti tai USB-asema
+* An SD card or USB drive
 * A Wii with an internet connection
-* Tietokone
-* Discord-tili
+* A computer
+* A Discord account
 
-#### Ohjeet
+#### Instructions
 
 ##### Section I - Obtaining your Wii's Console ID
 
@@ -62,11 +62,11 @@ If you already have the WiiLink Set Personal Data channel, you must install this
 You will now install the Food Channel and Set Personal Data channels.
 
 1. Put your SD card or USB drive in your Wii.
-2. Käynnistä Homebrew Channel Wii:lläsi.
+2. Launch the Homebrew Channel on your Wii.
 3. Launch Wii Mod Lite.
-4. Käyttämällä +Control Pad:ia Wii Remotella, navigoi kohtaan `WAD Manager`, ja siirry sitten `wad` -kansioon.
+4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 5. Highlight the Food Channel and Set Personal Data WADs by pressing the + Button over each of them. When all the WADs are selected, press A twice to install the WADs.
-6. Kun ne on asennettu onnistuneesti, paina HOME-painiketta poistuaksesi Homebrew Channeliin.
+6. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
 ##### Section V - Setting your personal data
 
@@ -92,8 +92,8 @@ If you have previously placed an order, skip to step 5.
 
 1. If you have used the previous version of the Food Channel, go to `Wii Settings` to delete your save data.
 2. Launch the Food Channel from the Wii Menu
-3. Follow the on-screen instructions, then click `Order` in the main menu. ![Päävalikko](/images/Demae-Dominos/main-menu.png)
-4. You will now be prompted to select your region. Be sure to select your residing country correctly. Failure to do so will result in restaurants failing to load. You will then be prompted to select your state/province, then city. If your city is not on the list, you can select any one as it does not matter. ![Päävalikko](/images/Demae-Dominos/country-setup.png)
+3. Follow the on-screen instructions, then click `Order` in the main menu. ![Main Menu](/images/Demae-Dominos/main-menu.png)
+4. You will now be prompted to select your region. Be sure to select your residing country correctly. Failure to do so will result in restaurants failing to load. You will then be prompted to select your state/province, then city. If your city is not on the list, you can select any one as it does not matter. ![Main Menu](/images/Demae-Dominos/country-setup.png)
 5. Click the `Pizza` button. This will load all the restaurants in your area. The first restaurant in the list is the one closest to you.
 6. Click `See Menu` to list the different menu categories. Click the category you would like, then select a food item. In the item screen, you can add toppings and adjust quantity.
 7. After adding a food item, you will be brought to the basket. To add a food item, scroll to the bottom and select `Add Order`. To proceed to checkout, click `Next`.
