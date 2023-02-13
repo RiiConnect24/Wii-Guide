@@ -2,7 +2,7 @@
 title: WiiLink Demae Domino's Guide
 ---
 
-{% include toc title="Continguts" %}
+{% include toc title="Table of Contents" %}
 
 If you need help for anything regarding this tutorial, please join [the WiiLink Discord server](https://discord.gg/wiilink).
 {: .notice--info}
@@ -19,14 +19,14 @@ Currently, only the USA and Canada are supported.
 You cannot use the default Dolphin NAND with this service. You must use your own NAND dump. This can be done in Dolphin by going to the toolbar and clicking `Tools -> Manage NAND -> Import BootMii NAND Backup`.
 {: .notice--warning}
 
-#### Què necessitaràs?
+#### What you need
 
-* Una tarjeta SD o Pendrive USB
+* An SD card or USB drive
 * A Wii with an internet connection
 * A computer
 * A Discord account
 
-#### Instruccions
+#### Instructions
 
 ##### Section I - Obtaining your Wii's Console ID
 
