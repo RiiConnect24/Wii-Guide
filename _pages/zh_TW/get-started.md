@@ -19,7 +19,7 @@ Although you can follow this guide without an SD card, you will not be able to c
 If your Wii Menu is not on version 4.3, use str2hax or FlashHax to install the Homebrew Channel, and then follow the [update guide](update) to update to 4.3.
 {: .notice--info}
 
-This guide is for the original Wii and Wii mini only (including the Wii Family Edition), with the latest firmware (4.3). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
+This guide is for the original Wii and Wii mini only (including the Wii Family Edition). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### Choose an exploit to use
