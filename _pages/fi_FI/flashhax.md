@@ -2,25 +2,25 @@
 title: "FlashHax"
 ---
 
-Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiConnect24:n Discord-palvelimelle](https://discord.gg/rc24) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-FlashHax on exploit Wii:lle, mikä laukaistaan Internet Channel:ia käyttämällä. Toisista exploiteista poiketen, tämä ei vaadi SD-korttia.
+FlashHax is an exploit for the Wii that is triggered by using the Internet Channel. Unlike other exploits, this doesn't require an SD card.
 
-#### Mitä tarvitset
+#### What you need
 
-- Wii internetyhteydellä
-- Internet Channel
+- A Wii with an Internet connection
+- The Internet Channel
 
-#### Ohjeet
+#### Instructions
 
-1. Avaa Internet Channel Wii:lläsi.
-2. Mene selaimessa sivulle flashhax.com ja lisää sivu kirjanmerkkeihin.
-3. Avaa sivu kirjanmerkistä. Se sitten jatkaa HackMii Installer:in lataamiseen ja käynnistämiseen. Se voi viedä jonkin verran aikaa, sillä asennusohjelma ladataan internetin kautta.
+1. Open up the Internet Channel on your Wii.
+2. Go to flashhax.com in the browser and bookmark the page.
+3. Open the site from the bookmark. It'll then proceed to download and load the HackMii Installer. It may take some time as it is downloading the installer over the Internet.
 
-Jos HackMii Installer ei lataudu ja sen sijaan jäätyy (et voi liikuttaa kursoria), Käynnistä Wii uudelleen ja toista vaihe 3, kunnes se toimii. Se voi kestää useita kokeita, ole kärsivällinen!
+If the HackMii Installer doesn't load and it instead freezes (you can't move your cursor), please restart your Wii and repeat step 3 until it works. It might take multiple tries, be persistent!
 
-Jos Hackmii Installer silti ei lataudu, kokeile evästeiden poistamista tai Internet Channelin save-datan poistamista.
+If you still can't get it to load, try deleting your cookies or save data for the Internet Channel.
 
-[Jatka Homebrew Channelin ja BootMiin asennukseen](hbc)
+[Continue to Homebrew Channel and BootMii Installation](hbc)
 {: .notice--info}
