@@ -1,5 +1,5 @@
 ---
-title: "חילוץ משחקי Wii / GameCube"
+title: "Dumping Wii/GameCube games"
 ---
 
 Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
@@ -11,25 +11,25 @@ Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending
 
 ### CleanRip
 
-#### לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
+#### What you need
 
 - An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
 - [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
-#### הוראות
+#### Instructions
 
-##### חלק א - הורדה והתקנה
+##### Section I - Downloading/Installing
 
 1. Extract CleanRip and put it in the `apps` folder on your SD card or USB drive.
 1. Insert your SD card into your Wii, and launch CleanRip from the Homebrew Channel.
 
-##### חלק ב - חילוץ והעתקה
+##### Section II - Ripping
 
 1. Select your device that you will be dumping the game to - your USB drive or SD card. ![Device type](/images/CleanRip/2.png)
 1. On this screen, it asks you if you want to download a file with game checksums so you can verify the dump created is a 1:1 copy of the disc. It's your choice whether to say `Yes` or `No` to download this file. ![DAT](/images/CleanRip/3.png)
 1. Now insert the game you want to dump. ![DVD](/images/CleanRip/4.png) ![Initialising Disc](/images/CleanRip/5.png)
 1. Set it as shown on the screen below.
-title: "CleanRip"
+If you are dumping one of the 13 games on [this list](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games), set `Dual Layer` to `Yes`.
 {: .notice--info}
 ![Settings](/images/CleanRip/6.png)
 
@@ -40,20 +40,20 @@ title: "CleanRip"
 
 ### Dumping a game over a local network
 
-#### לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
+#### What you need
 
 - [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
 Your Wii and your computer must be connected to one local network.
 {: .notice--warning}
 
-#### הוראות
+#### Instructions
 
-##### חלק א - הורדה והתקנה
+##### Section I - Downloading/Installing
 
-1. יש לחלץ את DVD Dump Tool ולשים בתוך תיקיית ה `apps` בכרטיס SD או דיסק-און-קי שלך.
-1. יש להכניס את כרטיס ה SD לתוך קונוסולת ה Wii, ולהפעיל את DVD Dump Tool מה- Homebrew Channel.
+1. Extract DVD Dump Tool and put it in the `apps` folder on your SD card or USB drive.
+1. Insert your SD card into your Wii, and launch DVD Dump Tool from the Homebrew Channel.
 
-##### חלק ב - חילוץ והעתקה
+##### Section II - Ripping
 
 1. Press the right on the D-pad and press A. ![2](/images/DumpDiscs_LAN/2.png)
 1. בחר/י את הדיסק שברצונך לחלץ ולהעתיק (האפשרויות הם: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc`) ולחצ/י על "A" ![3](/images/DumpDiscs_LAN/3.png)
