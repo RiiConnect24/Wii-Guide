@@ -2,7 +2,7 @@
 title: "RiiConnect24"
 ---
 
-{% include toc title="Innholdsfortegnelse" %}
+{% include toc title="Table of Contents" %}
 
 If you need help with anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -29,11 +29,11 @@ DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick th
 #### What you need
 
 * An SD card or USB drive
-* En Wii med en Internett-tilkobling
+* A Wii with an Internet connection
 * A computer
 * [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-#### Instruksjoner
+#### Instructions
 
 ##### Section I - Using RiiConnect24 Patcher
 
