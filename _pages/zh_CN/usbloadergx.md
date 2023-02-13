@@ -7,86 +7,86 @@ title: "USB Loader GX"
 如果你需要有关本教程的任何帮助, 请加入[RiiConnect24 Discord服务器](https://discord.gg/rc24) (推荐)或 [发送电子邮件到 support@riiconnect24.net](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
-USB Loader GX的快速入门指南，Wii从U盘玩游戏的流行USB Loader。
+This is a quick start guide on how to use USB Loader GX, a popular USB loader for the Wii that's used to play games from a USB drive.
 
 ![USB Loader GX](/images/usbloadergx.png)
 
 #### 你需要的是
 
-* 一台Wii
+* A Wii
 * 一个U盘
 * [USB Loader GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
 
-继续前确保已安装[cIOS](/cios)!
+Make sure you have installed [cIOS](/cios) before following this!
 {: .notice--info}
 
-如果使用Windows，推荐使用[Wii Backup Manager](/wiibackupmanager) 如果使用Mac，推荐使用[Witgui](https://desairem.com/wordpress/category/witgui-download/) 或者使用适用于Windows、macOS和Linux的 [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion)来复制游戏。
+We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux.
 {: .notice--info}
 
-如果想玩NKit游戏，请使用[此程序](https://gbatemp.net/download/nkit.36157/) 转换为ISO。 您也可以用开发版本的Dolphin，右键游戏，使用"转换文件"来转换。
+If you want to play games that are in NKit format, use [this program](https://gbatemp.net/download/nkit.36157/) to convert them to ISO first. You can also use a development build of Dolphin, right click on a game, and use "Convert File" to convert it.
 {: .notice--info}
 
-如果您不使用Wii Backup Manager、Witgui或Wii Backup Fusion，在SD卡或U盘根目录创建名为"wbfs"的文件夹，将游戏放进去。
+If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fusion, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
 {: .notice--info}
 
-我们推荐用USB硬盘连接Wii玩游戏。 U盘也可以工作但建议使用USB硬盘，因为它们更可靠，也可以存储更多游戏。
+To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
 {: .notice--info}
 
-确保U盘格式化为FAT32或NTFS。 不要格式化为exFAT、extFS或WBFS，后者是存储Wii游戏的旧格式。
+Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
 #### 步骤
 
-##### 下载
+##### Downloading
 
-1. 将USB Loader GX解压到SD卡或U盘的`apps`文件夹。
-2. 将SD卡或U盘插入Wii并从Homebrew Channel启动USB Loader GX。
+1. Extract USB Loader GX and put it in the `apps` folder on your USB drive or SD card.
+2. Insert your USB drive, and SD card if you're using one, into your Wii and launch USB Loader GX from the Homebrew Channel.
 
-##### 开始使用
+##### Getting Started
 
-没有使用USB Loader GX的"指南"。 这是如何使用的快速入门。 您应该能使用USB Loader GX的所有优秀功能。
+There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
 {: .notice--info}
 
-* 如果USB Loader GX说"Waiting for HDD..."倒计时20秒，很可能找不到U盘。 尝试退出应用，将U盘插入另一个接口重新启动。
-* 您可以按Wii遥控器的1打开弹窗以从 [GameTDB](https://gametdb.com/)下载游戏封面和插图。 下载游戏封面和插图可能需要一些时间，这取决于您有多少游戏。
-* 一些WAD可以让您从Wii菜单打开USB Loader GX。 被称作转发器WAD。 官方转发器WAD[在这里](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad)，vWii(Wii U)版本[在这里](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad)。
-* GameCube 或 "自定义" Wii游戏可能有USB Loader GX可以使用的自定义横幅。 要启用，请在U盘找到config/GXGlobal.cfg 并输入`CustomBannersURL = http://banner.rc24.xyz/`。 点击Wii遥控器上的1，按"Custom Banner"下载。
+* If USB Loader GX says "Waiting for HDD..." with a 20 seconds countdown, it's likely that it can't find the USB drive. Try to exit out of the app, and then relaunch it after you put the USB drive in the other port of the Wii.
+* You can press the 1 Button on your Wii Remote to open up a dialog to download game covers and artwork from [GameTDB](https://gametdb.com/). It might take a while to download the game covers and artwork, depending on how many games you have.
+* There are WADs that can open up USB Loader GX if you load it from the Wii Menu. This is called a forwarder WAD. An official forwarder WAD can be found [here](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), and a version for the vWii (Wii U) can be found [here](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad).
+* GameCube or "custom" Wii games may or may not have a custom banner that USB Loader GX uses. To enable this, find or write `CustomBannersURL = http://banner.rc24.xyz/` in config/GXGlobal.cfg on your USB drive. Then you can use the "Custom Banner" download by pressing the 1 Button on your Wii Remote.
 
-##### 用户界面
+##### User Interface
 
-USB Loader GX有多个可用的用户界面。
+There are multiple buttons in the USB Loader GX interface.
 
-###### 主菜单
+###### Main Menu
 
-这些是主菜单顶部按钮从左到右的功能:
+These are the functions the buttons found on the top of the main menu do, from left to right:
 
-* 收藏 - 显示您收藏的游戏。
-* 搜索 - 搜索游戏名称。
-* 循环 - 循环排序游戏。
-* 平台 - 按平台排序游戏。
-* 类别 - 按类别排序游戏。
-* 列表 - 列表视图显示游戏。
-* 多封面视图 - 多封面视图显示游戏。
-* 旋转视图 - 旋转显示游戏。
-* Wii菜单视图 - 像Wii菜单一样显示游戏。
-* 家长控制 - 锁定USB Loader GX。
-* 光盘 - 通过光盘加载游戏。
+* Star - Shows games that you have marked as "favorites".
+* Search - Lets you search for games by name.
+* Sort - Cycles through sorting methods for games.
+* Platform - Choose to sort games by platform.
+* Category - Sorts games by category.
+* List - Shows games in a list view.
+* Multi-Cover View - Shows games in a multi-cover view.
+* Cover Carousel View - Shows games in a carousel view.
+* Wii Menu View - Shows games in a Wii Menu view.
+* Parental Control - Locks USB Loader GX.
+* Disc - Loads a game via disc.
 
-按任何游戏将允许您按"Start"玩游戏。
+Pressing any game will allow you to play the game by pressing "Start".
 
-还有其它按钮:
+There are also other buttons:
 
-* (+) 图标 - "安装"游戏，从光盘转储。
-* 齿轮 - USB Loader GX的设置。
-* SD卡 - 重新挂载SD卡。
-* Homebrew - 加载自制软件。
-* Wii - 打开HOME菜单或按下Wii遥控器的HOME按钮访问。
-* 电源按钮 - 关闭Wii。
+* (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
+* Gears - Settings for USB Loader GX.
+* SD card - Remount the SD card.
+* Homebrew - Load homebrew apps.
+* Wii - Open up the HOME Menu, which can also be accessed by pressing the HOME Button on the Wii Remote.
+* Power Button - Turn off your Wii.
 
-在屏幕底部的中间，您可以看U盘的剩余空间以及您有多少游戏。
+On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
 
 [Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that USB Loader GX can integrate with. This is optional to set up.
 {: .notice--info}
 
-[继续 网站导览](site-navigation) 我们有许多你可能喜欢的其他教程。
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
