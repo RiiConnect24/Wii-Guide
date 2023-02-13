@@ -1,33 +1,33 @@
 ---
-title: "WiiWare Yamalayıcısı"
+title: "WiiWare Patcher"
 ---
 
 {% include toc title="Table of Contents" %}
 
-WAD oyunlarının (WiiWare) Wiimmfi ile çalışmasını istiyor ama nasıl yapılacağını bilmiyor musunuz? Bu öğretici size WiiWare Yamalayıcısı’nın nasıl çalıştığını açıklayacak. (Bu öğretici yalnızca Windows işletim sistemi ile uyumludur)
+Want to patch WAD games (WiiWare) to work with Wiimmfi and you don't know how? This tutorial will explain you how WiiWare Patcher works. (This tutorial is only suitable for Windows operating system)
 
-![WiiWare Yamalayıcısı’nın Kullanımı](/images/rc24_using_the_wiiware_patcher.jpg)
+![Using the WiiWare Patcher](/images/rc24_using_the_wiiware_patcher.jpg)
 
-Bu öğretici yalnızca WiiWare Yamalayıcısı’nın Windows sürümünü kapsar.
+This tutorial is only for Windows version of WiiWare Patcher.
 {: .notice--info}
 
-#### İhtiyacınız olan şeyler
+#### What you need
 
-* Windows bilgisayar
-* [WiiWare Yamalayıcısı](https://github.com/RiiConnect24/WiiWare-Patcher/releases)
+* A Windows computer
+* [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases)
 
-##### Bölüm I - WiiWare Yamalayıcısı’nı İndirmek
+##### Section I - Downloading WiiWare Patcher
 
-1. Yukarıdaki linke tıklayarak yamalayıcının bulunduğu GitHub sayfasına ulaşın.
-2. `WiiWarePatcher.bat` uygulamasını indirin.
+1. Click the link above to go to the GitHub page where the patcher is.
+2. Download `WiiWarePatcher.bat`.
 
-##### Bölüm II - WiiWare oyunlarını yamalama
+##### Section II - Patching WiiWare games
 
-1. Windows’da `WiiWarePatcher.bat` uygulamasını çalıştırın. ![WiiWare Yamalayıcısı’nın Ana Menüsü](/images/WiiWare-Patcher/1.JPG)
-2. Yamalayıcıyı açmak için herhangi bir tuşa basın.
-3. Oyunlarını yamalamayı veya `Wii Speak Channel`‘ı indirip yamalamayı seçin. ![Yamalama yöntemi seçimi](/images/WiiWare-Patcher/2.JPG)
-4. Eğer oyunlarınızı yamalıyorsanız, onları (.WAD dosyalarını) `WiiWarePatcher.bat` uygulamasının bulunduğu klasöre taşıyıp `1`’e ardından ENTER’a basın.
-5. Yamalama işlemi başlayacaktır. Sabırlı olun. ![Yamalama...](/images/WiiWare-Patcher/3.JPG)
-6. Bitti! Yamalanmış WAD' dosyalarını, `wiimmfi-wads` klasöründen bulabilirsiniz. Dosyaları Wii Mod Lite veya başka bir WAD Yöneticisi ile yükleyebilirsiniz.
+1. On Windows, run `WiiWarePatcher.bat`. ![WiiWare Patcher Main Menu](/images/WiiWare-Patcher/1.JPG)
+2. Press any key to start the patcher.
+3. Select if you want to patch your games or if you want to download and patch `Wii Speak Channel`. ![Select patching mode](/images/WiiWare-Patcher/2.JPG)
+4. If you're patching your own games, copy them (.WAD files) to the folder where `WiiWarePatcher.bat` is, press `1` and hit ENTER.
+5. The patching process will start. Be patient. ![Patching...](/images/WiiWare-Patcher/3.JPG)
+6. It's done! Patched WAD's are in the `wiimmfi-wads` folder. Install them using Wii Mod Lite or other WAD Manager.
 
-[Wiimmfi indirme sayfasına dön](wiimmfi)
+[Return to Wiimmfi installation page](wiimmfi)
