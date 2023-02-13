@@ -31,10 +31,10 @@ Aquí una lista de lo que puedes hacer con Homebrew. Dado a que esta lista no qu
 - Restaurar servicios en línea descontinuados, como [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
 - Respaldar y restaurar copias de la memoria de tu Wii (NAND) usando [BootMii](bootmii).
 - Protege tu Wii de bricks usando [Priiloader](priiloader) y BootMii.
-- Convierte tu Wii en un reproductor multimedia con [WiiMC](https://oscwii.org/library/app/wiimc-ss).
+- Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
 
 
-## ¿Listo?
+## Ready?
 
 Comienza por [elegir un exploit](get-started)!
 {: .notice--info}
