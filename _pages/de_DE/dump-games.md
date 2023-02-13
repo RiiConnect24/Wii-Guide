@@ -1,8 +1,8 @@
 ---
-title: "Wii/GameCube-Spiele sichern"
+title: "Dumping Wii/GameCube games"
 ---
 
-Möchtest du ein GameCube- oder Wii-Spiel sichern? Es gibt zwei Wege dies zu tun, abhängig von den Werkzeugen, die dir zu Verfügung stehen.
+Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'dump-smb')">To a PC over the network</button>
@@ -11,36 +11,36 @@ Möchtest du ein GameCube- oder Wii-Spiel sichern? Es gibt zwei Wege dies zu tun
 
 ### CleanRip
 
-#### Voraussetzungen
+#### What you need
 
-- Eine SD-Karte oder ein USB-Laufwerk mit mindestens 4,7 GB freiem Speicherplatz (8,5 GB beim Kopieren einer Dual Layer Disc).
+- An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
 - [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
 #### Anleitung
 
-##### Abschnitt 1 - Herunterladen/Installieren
+##### Section I - Downloading/Installing
 
 1. Entpacke CleanRip und verschiebe es in den `apps`-Ordner auf deiner SD-Karte bzw. deinem USB-Laufwerk.
 1. Stecke deine SD-Karte in deine Wii und starte CleanRip über den Homebrew-Kanal.
 
-##### Abschnitt 2 - Kopieren
+##### Section II - Ripping
 
 1. Wähle das Gerät auf welches du das Spiel kopieren möchtest - dein USB-Laufwerk bzw. deine SD-Karte. ![Gerätetyp](/images/CleanRip/2.png)
-1. Auf dem Bildschirm wirst du gefragt, ob du eine Datei mit Prüfsummen herunterladen möchtest, sodass du sicherstellen kannst, dass eine eins-zu-eins-Kopie der Disk erstellt wurde. Es ist deine Entscheidung, die Frage nach dem Download der Datei mit `Yes` oder `No` zu beantworten. ![DAT](/images/CleanRip/3.png)
-1. Schiebe nun die Disk, die du kopieren möchtest, ein. ![DVD](/images/CleanRip/4.png) ![Disc initialisieren](/images/CleanRip/5.png)
-1. Stelle es wie unten abgebildet ein.
-Solltest du eines der 13 Spiele [dieser Liste](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games) kopieren, setze `Dual Layer` auf `Yes`.
+1. On this screen, it asks you if you want to download a file with game checksums so you can verify the dump created is a 1:1 copy of the disc. It's your choice whether to say `Yes` or `No` to download this file. ![DAT](/images/CleanRip/3.png)
+1. Now insert the game you want to dump. ![DVD](/images/CleanRip/4.png) ![Disc initialisieren](/images/CleanRip/5.png)
+1. Set it as shown on the screen below.
+If you are dumping one of the 13 games on [this list](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games), set `Dual Layer` to `Yes`.
 {: .notice--info}
 ![Einstellungen](/images/CleanRip/6.png)
 
-1. CleanRip kopiert nun dein Spiel. Dies kann eine Weile dauern, da es die vollen 4,7GB an Inhalt von der Disk kopiert (9,4GB bei Disks mit zwei Schichten). ![Kopieren](/images/CleanRip/7.png)
+1. CleanRip will now dump your game. It can take a while, since it will dump the full 4.7 GB disc contents (8.5 GB for dual layer discs). ![Kopieren](/images/CleanRip/7.png)
 </div>
 
 <div id="dump-smb" class="blanktabcontent" markdown="1">
 
 ### Dumping a game over a local network
 
-#### Voraussetzungen
+#### What you need
 
 - [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
 Your Wii and your computer must be connected to one local network.
@@ -48,20 +48,20 @@ Your Wii and your computer must be connected to one local network.
 
 #### Anleitung
 
-##### Abschnitt 1 - Herunterladen/Installieren
+##### Section I - Downloading/Installing
 
-1. Entpacke DVD Dump Tool und verschiebe es in den `apps`-Ordner auf deiner SD-Karte bzw. deinem USB-Laufwerk.
-1. Stecke die SD-Karte in deine Wii und starte DVD Dump Tool vom Homebrew-Kanal.
+1. Extract DVD Dump Tool and put it in the `apps` folder on your SD card or USB drive.
+1. Insert your SD card into your Wii, and launch DVD Dump Tool from the Homebrew Channel.
 
-##### Abschnitt 2 - Kopieren
+##### Section II - Ripping
 
 1. Press the right on the D-pad and press A. ![2](/images/DumpDiscs_LAN/2.png)
-1. Wähle die Disk die du kopieren möchtest (Die Auswahlmöglichkeiten sind: `GameCube Disc`, `Wii Single-Layer Disc` und `Wii Dual-Layer Disc`) und drücke "A" ![3](/images/DumpDiscs_LAN/3.png)
-1. Schiebe nun das Spiel in die Wii. (If it's already in your Wii, eject it and put it back.) ![Einlegen der Disc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
-1. Merk dir die Wii-URL (IP-Adresse) ![5](/images/DumpDiscs_LAN/5.png)
+1. Choose the disc that you want to copy (The options are: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` and press "A" ![3](/images/DumpDiscs_LAN/3.png)
+1. Now put your game to your Wii. (If it's already in your Wii, eject it and put it back.) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
+1. Remember your Wii URL (IP address) ![5](/images/DumpDiscs_LAN/5.png)
 1. On your computer's web browser, go to your address bar and enter the Wii URL. ![6](/images/DumpDiscs_LAN/6.png)
 1. Click on `Click here to download XXXX.iso`. ![7](/images/DumpDiscs_LAN/7.jpg)
-Die Übertragungsgeschwindigkeit ist zwar nicht die Beste, aber besser als nichts, wenn für dich nichts anderes in Frage kommt.
+The transfer speed is not the fastest, but if you can't use anything else, it's better than nothing.
 {: .notice--info}
 ![8](/images/DumpDiscs_LAN/8.PNG)
 </div>
