@@ -1,5 +1,5 @@
 ---
-title: "Navigare Site"
+title: "Site Navigation"
 layout: single
 sitemap: false
 ---
@@ -7,10 +7,10 @@ sitemap: false
 ![WiiTutorials](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
-**Recomandat**
+**Featured**
 
 + [cIOS](cios)
-+ [Canalul Kirby TV](kirby-tv)
++ [Kirby TV Channel](kirby-tv)
 + [RiiConnect24](riiconnect24)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
@@ -22,21 +22,21 @@ sitemap: false
 + [RiiConnect24](riiconnect24)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
-+ [Actualizare a DNS-ului RiiConnect24](riiconnect24-dns-update)
++ [RiiConnect24 DNS Update](riiconnect24-dns-update)
 + [WiiLink](wiilink)
 + [WiiLink Demae Domino's](wiilink-demae-dominos)
 + [Wiimmfi](wiimmfi)
-+ [Canalul Kirby TV](kirby-tv)
++ [Kirby TV Channel](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Deleting VFFs](deleting-vffs)
 + [Fixing FORE000006](riiconnect24-batteryfix)
 + [Fixing NEWS000006](news000006)
 
-**Bazele Modificării**
+**Modding 101**
 + [BlueBomb](bluebomb)
-* [Copie de rezerva BootMii](bootmii)
+* [BootMii Backup](bootmii)
 + [cIOS](cios)
-+ [Recomandări și Greșeli în Modificarea Consolei Wii](dosanddonts)
++ [Dos and Don'ts of Wii Modding](dosanddonts)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
 + [Homebrew Channel](hbc)
@@ -46,29 +46,29 @@ sitemap: false
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Crearea Scurtăturilor de Jocuri Wii](wiigsc)
-+ [Cum să extragi Canale (fișiere WAD)](dump-wads)
-+ [Cum să extragi jocuri Wii/GameCube](dump-games)
-+ [Instalare RSSMii](rssmii)
-+ [Instalarea Temelor de Fundal pentru Meniul Wii](themes)
-+ [Instalarea Temelor de Fundal pentru Meniul Wii pe vWii](themes-vwii)
-+ [Efectuarea unui SysCheck](syscheck)
-+ [Dezactivare RSSMii](rssmii-remove)
++ [Creating Wii Game Shortcuts](wiigsc)
++ [How to dump Channels (WADs)](dump-wads)
++ [How to dump GameCube/Wii Games](dump-games)
++ [Installing RSSMii](rssmii)
++ [Installing Wii Menu Themes](themes)
++ [Installing Wii Menu Themes on vWii](themes-vwii)
++ [Performing a SysCheck](syscheck)
++ [Removing RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [Setting RTC Time](rtc)
-+ [Actualizarea Meniului Wii la v4.3](update)
++ [Updating Wii Menu to v4.3](update)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 + [WiiFlow](wiiflow)
 
 **Wii mini**
-+ [Instalare Homebrew Channel pe Wii mini](hbc-mini)
-+ [Instalare cIOS pe Wii mini](cios-mini)
++ [Installing the Homebrew Channel on the Wii mini](hbc-mini)
++ [Installing cIOS on the Wii mini](cios-mini)
 
 **Site**
-+ [Pagina Principală](/)
-+ [Să începem](get-started)
-+ [Întrebări frecvente](faq)
-+ [Donații](donations)
++ [Home](/)
++ [Get Started](get-started)
++ [FAQ](faq)
++ [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
