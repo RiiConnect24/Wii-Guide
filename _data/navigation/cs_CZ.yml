@@ -4,10 +4,10 @@ main:
     title: Wii Guide
     url: /
   - 
-    title: Začněte zde
+    title: Start Here
     url: get-started
   - 
-    title: Průvodce webem
+    title: Site Navigation
     url: site-navigation
   - 
     title: FAQ
@@ -20,23 +20,23 @@ main:
     url: wiimmfi
 top:
   - 
-    title: Tento web používá soubory cookies k zobrazení postupu na boční liště a obecně umožňuje funkčnost webu.
+    title: This website uses cookies to display the current guide progress on the sidebar and otherwise enhance the site.
 bottom:
   - 
-    title: Pro podporu v angličtině se obraťte na <a href="https://discord.gg/b4Y7jfD">Riiconnect24 na Discordu</a>.
+    title: For support in English, ask for help at <a href="https://discord.gg/b4Y7jfD">RiiConnect24 on Discord</a>.
 footer:
   - 
-    title: Zdroj
+    title: Source
     url: https://github.com/RiiConnect24/Wii-Guide/
   - 
-    title: Průvodce webem
+    title: Site Navigation
     url: site-navigation
   - 
-    title: Přispějte
+    title: Donations
     url: donations
 sidebar_title:
   - 
-    title: Celkový postup
+    title: Overall Progress
 sidebar_pages:
   - 
     title: Wii Guide
@@ -45,10 +45,10 @@ sidebar_pages:
     title: FAQ
     url: faq
   - 
-    title: Přispějte
+    title: Donations
     url: donations
   - 
-    title: Tvůrci
+    title: Credits
     url: credits
   - 
     title: RiiConnect24
