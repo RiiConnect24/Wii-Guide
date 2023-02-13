@@ -1,8 +1,8 @@
 ---
-title: "오픈 쇼핑 채널 (Homebrew Browser)"
+title: "Open Shop Channel (Homebrew Browser)"
 ---
 
-튜토리얼에 관한 질문이 있다면, [오픈 쇼핑 채널](https://discord.gg/osc) 에 가입하거나(권장) [support@riiconnect24.net에 이메일을 보내세요](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the Open Shop Channel](https://discord.gg/osc) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Homebrew Browser, which is what the Open Shop Channel is based off on, does work but it can be buggy. You can also get homebrew using [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) and from the [Open Shop Channel website](https://oscwii.org/).
@@ -13,14 +13,14 @@ You need an Internet connection in order to use this application.
 
 The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
 
-#### 필요한 것
-* SD 카드 및 USB 드라이브
+#### What you need
+* An SD card or USB drive
 * [Homebrew Browser](/assets/files/homebrew_browser_v0.3.9e.zip)
 
-#### 방법
+#### Instructions
 
-1. Homebrew Browser의 압축을 풀고 SD 카드 및 USB 드라이브의 `apps`폴더에 붙여넣으세요.
-2. Wii에 SD 카드나 USB 드라이브를 삽입하십시오. 이제 당신은 원하는 경우 홈브루 채널에서 홈브루 브라우저를 실행할 수 있습니다.
+1. Extract the Homebrew Browser and put it in the `apps` folder on your SD card or USB drive.
+2. Insert your SD card or USB drive into your Wii. You can now launch the Homebrew Browser from the Homebrew Channel if you want to.
 
 #### Recommended Apps
 
@@ -37,10 +37,10 @@ Here are some recommended apps that you can get on the Open Shop Channel:
 - [WiiXplorer-SS](https://oscwii.org/library/app/wiixplorer-ss) - This is a file manager for your Wii. It lets you access your files on your SD Card, USB Device, and more.
 - [YABDM](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod) - This is a tool to dump content installed on your Wii to WAD files. See [our page](dump-wads) for instructions on how to use it.
 
-[WiiLink로 계속하기](wiilink)<br> WiiLink24는 일본 전용 Wii 거실 및 디지캠 인쇄 채널을 사용할 수 있게 합니다. 설치는 선택입니다.
+[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
 {: .notice--info}
 
-[사이트 네비게이션으로 계속하기](site-navigation)<br>당신이 좋아할만한 많은 튜토리얼이 있습니다.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 
 Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
