@@ -1,40 +1,40 @@
 ---
 layout: splash
-title: "Ghid Wii"
+title: "Wii Guide"
 header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: "Ghidul complet pentru modificarea consolei tale Nintendo Wii."
+excerpt: "The complete guide to modding your Nintendo Wii."
 ---
 
-Ghidul este de asemenea disponibil în alte limbi! Pentru a schimba limba, apasă iconița din dreapta sus și schimba-ți limba.
+The guide is also available in other languages! To change the language, please press the icon at top right and change your language.
 {: .notice--info}
 
-## Ce este "homebrew"?
+## What is "homebrew"?
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) se referă la software neautorizat de Nintendo. Asta poate include jocuri, utilități, emulatoare și multe altele!
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to software not authorized by Nintendo. This can include games, utilities, emulators and much more!
 
-Poți rula homebrew pe consola ta Nintendo Wii gratuit prin abuzarea defectelor în software-ul consolei. Modificațiile instalate prin urmarea acestui ghid îți vor oferi acces ușor și persistent la homebrew Wii.
+Running homebrew on your Nintendo Wii can be done for free by exploiting bugs in Wii's software. The modifications installed by following this guide will give you easy and persistent access to Wii homebrew.
 
-## Ce pot face cu homebrew?
+## What can I do with homebrew?
 
-Iată o listă de lucruri care le poți face cu homebrew. Chiar dacă această lista nu este foarte vastă, ar trebui să ai o idee bună la ce este posibil, iar ghidul te va ajuta să începi cu ușurință.
+Here's a list of things you can do using homebrew. While this list is by no means totally comprehensive, you should have a good idea of what is possible, and the guide will help you easily get started.
 
-- Modifica conținutul discurilor de joc (permițându-te să rulezi modificații în joc) folosind [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
-- Instala teme de fundal pentru Meniul Wii folosing [MyMenufy](themes).
-- Instala un USB Loader precum [WiiFlow](wiiflow) sau [USB Loader GX](usbloadergx) pentru a rula toate jocurile tale favorite dintr-un dispozitiv de stocare USB și altele.
-- Face copii de rezervă a discurilor cu [CleanRip](/dump-games) și a jocurilor/titlurilor instalate cu [YABDM](dump-wads)
-- Face copii de rezervă și poți restaurează datele salvate cu [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
-- Descărca aplicații homebrew noi cu [Homebrew Browser](hbb)
-- Restaura servicii online întrerupte, precum [WiiConnect24](riiconnect24) & [serviciile Nintendo WFC](wiimmfi).
-- Face și restaura copii de rezervă ale memorii interne a consolei (NAND) folosind [BootMii](bootmii).
-- Proteja consola de brick-uri folosind [Priiloader](priiloader) și BootMii.
-- Transforma consola într-un player media cu [WiiMC](https://oscwii.org/library/app/wiimc-ss).
+- Patch game disc contents (allowing you to load game modifications) using [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
+- Install themes to your Wii Menu using [MyMenuify](themes).
+- Install a USB Loader like [WiiFlow](wiiflow) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
+- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](dump-wads)
+- Back up and restore your save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
+- Download new homebrew apps with the [Homebrew Browser](hbb)
+- Restore discontinued online services, such as [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
+- Backup and restore copies of your Wii system memory (NAND) using [BootMii](bootmii).
+- Protect your Wii from bricks using [Priiloader](priiloader) and BootMii.
+- Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
 
 
-## Pregătit?
+## Ready?
 
-Începe prin [alegerea exploit-ului](get-started)!
+Get started by [choosing your exploit](get-started)!
 {: .notice--info}
