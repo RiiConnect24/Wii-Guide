@@ -4,23 +4,23 @@ title: "cIOS"
 
 {% include toc title="Inhaltsverzeichnis" %}
 
-Diese Anleitung wird dir zeigen, wie du cIOS (custom IOS) installieren kannst. Dies ist zwingend erforderlich, wenn du Spiele mit einem USB-Loader starten möchtest. Manche Homebrew-Applikationen funktionieren mit cIOS besser.
+This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
 
 ![d2x cIOS Installer](/images/cios/cIOS.png)
 
-Wenn du eine Wii U (vWii) hast, dann folge [dieser anleitung](https://wiiu.hacks.guide/#/vwii-modding) um cIOS stattdessen zu installieren. Wenn man es versucht ein anderes cIOS auf der vWii zu installieren, wird es nicht funktionieren.
+If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
 {: .notice--info}
 
-Wenn du eine Wii mini hast, installiere [dieses cIOS](cios-mini) stattdessen. Wenn man es versucht ein anderes cIOS auf der Wii mini zu installieren, wird es nicht funktionieren.
+If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
 {: .notice--info}
 
-#### Voraussetzungen
+#### What you need
 
 - Eine Wii
 - Eine SD-Karte oder ein USB-Laufwerk
 - [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
-Vergewissere dich, dass bei Verwendung der SD-Karte der Sperrschalter in der entriegelten Position steht, da du sonst nicht die richtigen Optionen in der Installation auswählen kannst
+Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
 {: .notice--warning}
 
 #### Anleitung
@@ -48,52 +48,52 @@ Vergewissere dich, dass bei Verwendung der SD-Karte der Sperrschalter in der ent
 1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
 </div>
 
-##### Abschnitt 2 - Installieren
+##### Section II - Installing
 
-1. Drücke auf Fortfahren, stelle dann folgende Optionen ein:
+1. Press continue, then set the options to the following:
 
 ```
-Wähle cIOS: v10 beta52 d2x-v10-beta52
-Wähle cIOS base: 57
-Wähle cIOS slot: 249
-Wähle cIOS version: 65535
+Select cIOS: v10 beta52 d2x-v10-beta52
+Select cIOS base: 57
+Select cIOS slot: 249
+Select cIOS version: 65535
 ```
 
 ![Install cIOS 249](/images/cios/Install249.png)
 
-1. Wenn du damit fertig bist, drücke zweimal auf A um die Installation zu starten.
-1. Wenn die Installation abgeschlossen ist, drücke A um zurückzugehen und stelle dann folgende Optionen ein:
+1. Once set, press A twice to install.
+1. When done installing, press A to return, and set the options to the following:
 
 ```
-Wähle cIOS: v10 beta52 d2x-v10-beta52
-Wähle cIOS base: 56
-Wähle cIOS slot: 250
-Wähle cIOS version: 65535
+Select cIOS: v10 beta52 d2x-v10-beta52
+Select cIOS base: 56
+Select cIOS slot: 250
+Select cIOS version: 65535
 ```
 
 ![Install cIOS 250](/images/cios/Install250.png)
 
-1. Wenn du damit fertig bist, drücke zweimal auf A um die Installation zu starten.
-1. Wenn die Installation abgeschlossen ist, drücke A um zurückzugehen und stelle dann folgende Optionen ein:
+1. Once set, press A twice to install.
+1. When done installing, press A to return, and set the options to the following:
 
 ```
-Wähle cIOS: v10 beta52 d2x-v10-beta52
-Wähle cIOS base: 38
-Wähle cIOS slot: 251
-Wähle cIOS version: 65535
+Select cIOS: v10 beta52 d2x-v10-beta52
+Select cIOS base: 38
+Select cIOS slot: 251
+Select cIOS version: 65535
 ```
 
 ![Install cIOS 251](/images/cios/Install251.png)
 
 1. Once set, press A twice again to install, and then exit once done.
 
-#### Problembehandlung
+#### Troubleshooting
 
 {% capture bruh %}
 Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
 
-- Verwendung einer Tastatur in Animal Crossing: Let’s Go to the City.
-- Verwendung von SpongeBob's Boating Bash.
+- Using a keyboard in Animal Crossing: City Folk.
+- Running SpongeBob's Boating Bash.
 
 A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
 {% endcapture %}
@@ -119,15 +119,15 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
     - Try using 250 or 251, if 249 doesn't work.
 1. Press Save and try to load the game.
 </div>
-##### Möglichkeiten nach Abschluss
+##### Options once complete
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. Dies zu installieren ist nicht zwingend erforderlich.
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
 {: .notice--info}
 
-[Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 
-Du kannst nun Homebrew wie beispielsweise [USB Loader GX](usbloadergx) oder [WiiFlow](wiiflow) verwenden.
+You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: .notice--info}
 
 <script>
