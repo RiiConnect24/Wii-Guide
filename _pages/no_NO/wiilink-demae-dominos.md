@@ -2,7 +2,7 @@
 title: WiiLink Demae Domino's Guide
 ---
 
-{% include toc title="Innholdsfortegnelse" %}
+{% include toc title="Table of Contents" %}
 
 If you need help for anything regarding this tutorial, please join [the WiiLink Discord server](https://discord.gg/wiilink).
 {: .notice--info}
@@ -26,7 +26,7 @@ You cannot use the default Dolphin NAND with this service. You must use your own
 * A computer
 * A Discord account
 
-#### Instruksjoner
+#### Instructions
 
 ##### Section I - Obtaining your Wii's Console ID
 
