@@ -4,43 +4,43 @@ title: "Kirby TV Channel"
 
 {% include toc title="Table of Contents" %}
 
-Kirby TV Channel provozuje Striim Network, ne RiiConnect24. Připojte se na jejich Discord server [zde](https://discord.gg/seCnzxnE75).
+The Kirby TV Channel is controlled and operated by Striim Network, not RiiConnect24. Join their Discord server [here](https://discord.gg/seCnzxnE75).
 {: .notice--warning}
 
-Striim Network je projekt zabývající se obnovou kanálů, které podporují přehrávání videa, jako je např. Kirby TV Channel nebo YouTube.
+Striim Network is a service dedicated to bringing back the channels that support video playback, such as Kirby TV Channel and YouTube.
 
-#### Co budete potřebovat
+#### What you need
 
-* SD karta nebo USB disk
-* Wii s připojením k internetu
-* Počítač založený na Windows nebo Unixu
+* An SD card or USB drive
+* A Wii with an Internet connection
+* A Windows or Unix based computer
 * [Kirby TV Channel Patcher](https://github.com/StriimNetwork/Kirby-TV-Channel-Patcher/releases)
 
-#### Pokyny
+#### Instructions
 
-[Pokud chcete zobrazit podrobné instrukce, jak nainstalovat soubor WAD, klikněte zde!](wiimodlite)
+[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
 {: .notice--info}
 
-1. Stáhněte si executable vhodný pro vaši platformu a operační systém.
-2. Spusťte stáhnutý executable a poté dvakrát stiskněte `1`, abyste zahájili patching.
-3. Po dokončení bude výsledný WAD ve složce `WAD`, která se nachází ve stejném adresáři, ze kterého jste spustili executable.
-4. Přesuňte složku `WAD` do kořenového adresáře vaší SD karty.
-5. Vložte SD kartu nebo USB disk do svého Wii.
-6. Na svém Wii spusťte Homebrew Channel.
-7. Spusťte Wii Mod Lite.
-8. Pomocí D-Padu na Wii Remotu vyberte možnost `WAD Manager`, poté přejděte do složky `wad`.
-9. Zvýrazněte soubor WAD s názvem `Kirby-TV-Channel-Patched(Striim).wad` a poté stiskněte tlačítko `A` pro zahájení instalace.
-10. Až se WAD úspěšně nainstaluje, vraťte se do Wii Menu a nově nainstalovaný kanál spusťte.
+1. Download the executable for your architecture and OS.
+2. Launch the executable then press `1` twice to start the patching process.
+3. When finished, the WAD will be in the `WAD` folder which is located in the same directory as the executable.
+4. Move the `WAD` folder to the root of your SD Card.
+5. Put your SD card or USB drive in your Wii.
+6. Launch the Homebrew Channel on your Wii.
+7. Launch Wii Mod Lite.
+8. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+9. Highlight the WAD named `Kirby-TV-Channel-Patched(Striim).wad`, then press the `A` button to install.
+10. When the WAD successfully installs, return to the Wii Menu and launch the channel.
 
 
 
-[Pokračujte na RiiConnect24](riiconnect24)<br> RiiConnect24 umožňuje používat ukončené online služby WiiConnect24, které zahrnují News, Forecast, Everybody Votes, Nintendo a Check Mii Out Channel, spolu s Wii Mail. Zcela dobrovolné.
+[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
 {: .notice--info}
 
-[Pokračujte na WiiLink](wiilink)<br> WiiLink umožňuje používat ukončené japonské kanály, např. Wii no Ma a Digicam Print Channel. Zcela dobrovolné.
+[Continue to WiiLink](wiilink)<br> WiiLink allows you to use the discontinued Japanese channels, such as Wii no Ma and the Digicam Print Channel. This is optional to install.
 {: .notice--info}
 
-[Pokračujte na Wiimmfi](wiimmfi)<br> Wiimmfi vám umožní hrát hry online, a to i po vypnutí Nintendo Wi-Fi Connection. Zcela dobrovolné.
+[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
