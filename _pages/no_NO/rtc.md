@@ -14,7 +14,7 @@ In this step, you will synchronize your Wii with a NTP time server. This will se
 * An SD card or USB drive
 * [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
 
-#### Instruksjoner
+#### Instructions
 
 1. Extract sntp and put it in the `apps` folder on your SD card or USB drive.
 2. Insert your SD card or USB drive into your Wii.
