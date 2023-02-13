@@ -1,16 +1,16 @@
 ---
-title: "사이트 탐색"
+title: "Site Navigation"
 layout: single
 sitemap: false
 ---
 
-![Wii튜토리얼](/images/WiiTutorials.jpg)
+![WiiTutorials](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
-**추천**
+**Featured**
 
 + [cIOS](cios)
-+ [커비 TV 채널](kirby-tv)
++ [Kirby TV Channel](kirby-tv)
 + [RiiConnect24](riiconnect24)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
@@ -21,20 +21,20 @@ sitemap: false
 **RiiConnect24/Wiimmfi**
 + [RiiConnect24](riiconnect24)
 + [RiiConnect24 vWii](riiconnect24-vwii)
-+ [RiiConnect24 돌핀 에뮬레이터](riiconnect24-dolphin)
++ [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [RiiConnect24 DNS Update](riiconnect24-dns-update)
 + [WiiLink](wiilink)
 + [WiiLink Demae Domino's](wiilink-demae-dominos)
 + [Wiimmfi](wiimmfi)
-+ [커비 TV 채널](kirby-tv)
++ [Kirby TV Channel](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Deleting VFFs](deleting-vffs)
 + [Fixing FORE000006](riiconnect24-batteryfix)
 + [Fixing NEWS000006](news000006)
 
-**해킹 가이드**
+**Modding 101**
 + [BlueBomb](bluebomb)
-* [BootMii 백업](bootmii)
+* [BootMii Backup](bootmii)
 + [cIOS](cios)
 + [Dos and Don'ts of Wii Modding](dosanddonts)
 + [FlashHax](flashhax)
@@ -45,30 +45,30 @@ sitemap: false
 + [str2hax](str2hax)
 + [Wii Mod Lite](wiimodlite)
 
-**홈브루**
-+ [Wii 게임 바로가기 만들기](wiigsc)
+**Homebrew**
++ [Creating Wii Game Shortcuts](wiigsc)
 + [How to dump Channels (WADs)](dump-wads)
 + [How to dump GameCube/Wii Games](dump-games)
-+ [RssMii 설치](rssmii)
-+ [Wii 메뉴 테마 설치하기](themes)
++ [Installing RSSMii](rssmii)
++ [Installing Wii Menu Themes](themes)
 + [Installing Wii Menu Themes on vWii](themes-vwii)
 + [Performing a SysCheck](syscheck)
-+ [RSSMii 제거](rssmii-remove)
++ [Removing RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [Setting RTC Time](rtc)
 + [Updating Wii Menu to v4.3](update)
-+ [USB 로더 GX](usbloadergx)
++ [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 + [WiiFlow](wiiflow)
 
-**Wii 미니**
-+ [Wii 미니에 홈브루 채널 설치하기](hbc-mini)
-+ [Wii 미니에 cIOS 설치하기](cios-mini)
+**Wii mini**
++ [Installing the Homebrew Channel on the Wii mini](hbc-mini)
++ [Installing cIOS on the Wii mini](cios-mini)
 
-**사이트**
-+ [홈](/)
-+ [시작하기](get-started)
-+ [자주 묻는 질문(FAQ)](faq)
-+ [기부](donations)
+**Site**
++ [Home](/)
++ [Get Started](get-started)
++ [FAQ](faq)
++ [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
