@@ -2,159 +2,159 @@
 title: "Wiimmfi"
 ---
 
-{% include toc title="目次" %}
+{% include toc title="Table of Contents" %}
 
-このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![Wiimmfiロゴ](/images/WiiWiimmfiLogo.jpg)
+![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
 
-[Wiimmfi](https://wiimmfi.de)は、終了してしまったニンテンドーWi-Fiコネクションを置き換えるサービスです。 WiimmとLeseratteによって開発されました。
+[Wiimmfi](https://wiimmfi.de) is a replacement service for the now-defunct Nintendo Wi-Fi Connection. It has been developed by Wiimm and Leseratte.
 
-Wiimmfiへの接続時にエラー23904が発生した場合は、お使いのパッチが古いことが原因です。<br>繋がるようにするには、お使いの方法に合わせて以下のステップに従ってください。<br>詳細は[このページ](https://wiimmfi.de/update)もご覧ください。<br>
+If you get the error 23904 while connecting to Wiimmfi, then you are using an outdated patch.<br> Follow the steps below for the method you're using to connect to Wiimmfi again.<br> See [this page](https://wiimmfi.de/update) for more details.<br>
 {: .notice--warning}
 
-## 様々なパッチ方法
+## Different patchers
 
-Wiimmfiに接続する方法は様々です。 あなたに合った方法を選択してください。
+There are lots of different methods to connect to Wiimmfi. Choose the one that fits your needs best.
 
-### Priiloaderを使ってディスクチャンネルから自動パッチ
+### Automatic patching from the Disc Channel using Priiloader
 
-#### 必要なもの
-- Priiloader 0.9以降がインストールされたWii
+#### What you need
+- A Wii with Priiloader 0.9 or later installed
 
-古いPriiloaderをインストール済みの場合、またはインストールしていない場合は、[このガイド](priiloader)に従って更新・インストールしてください。
+If you have an older version of Priiloader or don't have it installed, follow [this guide](priiloader) to update/install it.
 {: .notice--info}
 
-#### 手順
-1. RESETボタンを押したままWiiの電源を入れます。
-2. `System Menu Hacks`に移動します。
-3. `Wiimmfi patch v4`ハックを有効にしておきます。
-4. 設定を保存して終了します。
+#### Instructions
+1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
+2. Go to `System Menu Hacks`.
+3. Make sure the `Wiimmfi patch v4` hack is enabled.
+4. Save settings and exit.
 
-`Wiimmfi patch v2`や`Wiimmfi patch v3`が代わりに表示されていたら、お持ちの`hacks_hash.ini`は最新ではありません。<br>[ここ](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini)からダウンロードして、SDカードやUSBドライブの`/apps/priiloader/hacks_hash.ini`に配置してください。<br>その後で、上のステップを再度試します。
+If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
 {: .notice--warning}
 
-### Homebrew（ゲームディスク）アプリケーション
-MrBean35000vr（CTGP-R マリオカートWiiコンテンツパック作者）は、ゲームディスクを挿入したらWiimmfi用にその場でパッチを適用できるWiimmfi Disc Patcherを作成しました。ゲームディスクを起動するたびに実行する必要があります。
+### Homebrew (Disc) Application
+MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
 
-#### 必要なもの
-* SDカードまたはUSBドライブ
+#### What you need
+* An SD card or USB drive
 * [Auto Wiimmfi Patcher](https://download.wiimmfi.de/patcher/autowiimmfipatcher-latest.zip)
 
-#### 手順
+#### Instructions
 
-1. Auto Wiimmfi PatcherをSDカードまたはUSBドライブのルートに展開します。
-2. WiiにSDカードまたはUSBドライブを接続し、Homebrew ChannelからAuto Wiimmfi Patcherを起動します。
-3. ゲームディスクを挿入します（Patcher起動前・起動後のどちらでも構いません）。
-4. パッチが完了するまで待つと、ゲームがはじまります！
+1. Extract Auto Wiimmfi Patcher to the root of your SD card or USB drive.
+2. Insert your SD Card into your Wii, and launch Auto Wiimmfi Patcher from the Homebrew Channel.
+3. Insert your game disc (you can insert it before or after launch, it doesn't matter).
+4. Wait for patch to complete, and it'll begin!
 
-### Homebrewなし（Disc）
-Fullmetal5のstr2haxエクスプロイトと、LeseratteによるWiimmfiパッチへの改変によって、Wii上のHomebrew要らずでWiimmfiパッチを適用できます。
+### No-Homebrew (Disc)
+Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
 
-#### 必要なもの
-* インターネットに接続されたWii
+#### What you need
+* A Wii with an Internet connection
 
-#### 手順
+#### Instructions
 
-1. ゲームディスクを挿入します。
-2. インターネット接続の設定に移動し、本体のDNSを95.217.77.151に設定します。
-3. 利用規約（本体設定で「インターネット」をクリックした後、3番目のボタン）に移動します。
-4. WiiConnect24とWiiショッピングチャンネルを使用すると答えます。
-5. Wiimmfiパッチページが表示されます。 そうでなく、通常の利用規約が表示されるだけの場合、お使いのルーターがこの方法に対応していない可能性があります。
-6. パッチが適用されるまで約1分30秒待ちます。
-7. Wiimmfiパッチが適用された状態でゲームが開始します。
+1. Insert your game disc.
+2. Go into your internet connection settings and set the DNS server of your console to 95.217.77.151.
+3. Go to the WC24 contract information (third button after clicking on "Internet" in the settings).
+4. Confirm that you do want to use WC24 and the shop channel
+5. The Wiimmfi patcher page should show up. If it doesn't, and you still see the default license agreement, your router might not be compatible with this method.
+6. Wait for about 1 minute and 30 seconds for the patcher to load
+7. The game should now start with the Wiimmfi patch included
 
-### USBローダーを使用した自動パッチ
-既にUSB Loader GXを使用している場合は、最新バージョンに更新してみてください。 すると「private server」なるオプションが設定画面（ローダー設定および各ゲーム設定）にあり、「Wiimmfi」を選べばUSB Loader GXが自動ですべてのゲームにパッチを適用して、Wiimmfiを利用することができます。
+### Automatic patching using a USB Loader
+If you are already using USB Loader GX, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
 
-### ISOパッチ
-Wiimmfiでプレイするために毎回パッチを実行するのは面倒ですし、もしかしたら既にUSBローダーをお使いかもしれません。 そのため、特定のゲームのためにいくつかのISOパッチが作成されました。
+### ISO Patching
+You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
 
-#### 必要なもの
-- お持ちのゲームのコピー（WBFS、ISO、cISO、その他Wiiの使用できる形式はサポートされます）
-- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/)（WindowsおよびUnix）  
-  **or**
-- [Wiimmfi Patcher（クロスプラットホーム）](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
-- USBローダー、[cIOS](cios)、ゲームを保存するためのUSBデバイス（USBローダーを使用していれば既にお持ちのはずです）
-
-#### 手順
-1. 選択したパッチをフォルダへ展開し、ゲームのコピーをそのフォルダに置きます。
-2. OSに合わせたパッチスクリプトを実行します。通常`.bat`で終わるものがWindows用で`.sh`で終わるものがMac・Linux用です。 RiiConnect24 Patcherを使用している場合は、機種（Wii、vWii、またはDolphinエミュレータ）を選択し、ゲームに合わせたパッチを選択します。
-3. 完了したら、`wiimmfi-images`フォルダ（パッチの外側のフォルダに作られることもある―`../wiimmfi-images`）からパッチ済みバージョンをコピーしてUSBにコピーします。
-
-### Wiiウェア パッチ
-WiiウェアゲームをWiimmfi上でプレイするためにパッチすることができます。
-
-#### 必要なもの
-
-- SDカード
-- ゲームのコピー（WAD形式）
+#### What you need
+- Your copy of your game (WBFS, ISO, cISO, and other forms that a Wii can use are supported).
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
   **or**
-- [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases)（クロスプラットホーム）
+- [Wiimmfi Patcher (cross-platform)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
+- A USB Loader, [cIOS](cios), and a USB to store the game on (you should already have these if you're using a USB Loader)
+
+#### Instructions
+1. Extract the patcher of your choice to a folder, and place your copy of the game in it.
+2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the patcher for your game.
+3. Once it's finished, get the version out of the `wiimmfi-images` folder (it may be in the folder outside of the patcher - ../wiimmfi-images) and copy it back to your USB.
+
+### WiiWare Patching
+You can patch WiiWare games in order to play them on Wiimmfi.
+
+#### What you need
+
+- An SD card
+- Your copy of your game (in WAD format)
+- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
+  **or**
+- [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (cross platform)
 - [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
-[WiiWare Patcherの使い方を見るには、ここをクリック！](wiiwarepatcher)
+[If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
 {: .notice--info}
 
-手順
-1. 最新版のWiiWare Patcherの.zipファイルを展開して、用意したWADをそのフォルダに置きます。
-2. OSに合わせたパッチスクリプトを実行します。通常`.bat`で終わるものがWindows用で`.sh`で終わるものがMac・Linux用です。 RiiConnect24 Patcherを使用している場合は、機種（Wii、vWii、またはDolphinエミュレータ）を選択し、WiiWare Patcherを選択します。
-3. 正常に完了した場合は、`wiiware-wads`内に生成されたWADをWii Mod Liteでインストールします。
+Steps:
+1. Extract the .zip of the latest version of WiiWare Patcher, and put your WAD in it.
+2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
+3. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
 
-## その他
+## Other stuff
 
-### Mario Kart Wii Competitions（マリオカートWii大会）
-Wiimmfiを使って、マリオカートWii大会に再び参加することができます。
+### Mario Kart Wii Competitions
+Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
-#### 必要なもの
+#### What you need
 
-- SDカードまたはUSBドライブ
+- An SD card or USB drive
 - Mario Kart Wii Competition Patcher
    - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
-   - [Wii U（vWii）](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
+   - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
-#### 手順（Wii用）
+#### Instructions (for Wii)
 
-1. Mario Kart Wii Competition Patcherを展開してSDカードの`apps`フォルダに置きます。
-2. WiiにSDカードを挿入します。
-3. オリジナル（Wiimmfiパッチ未適用）のマリオカートWiiを起動します。
-4. 共通設定 -> ネットワークオプション -> お知らせ配信に移動します。 配信をオンにします。オンにしていた場合は、オフにしてもう一度オンにしてください。
-5. Mario Kart Wii Competition Patcherを実行します。
-6. パッチがお使いのストレージデバイスからマリオカートWiiのセーブデータを探してアップロードします。 これは、セーブファイルに不足している大会が見つかった場合に行われます。 それからもちろん、Wiiに大会用のパッチを適用します。
+1. Extract Mario Kart Wii Competition Patcher and put it in the `apps` folder on your SD Card.
+2. Insert your SD card or USB drive into the Wii.
+3. Launch the original Mario Kart Wii game (not Wiimmfi patched).
+4. Navigate to Settings -> Network Settings (or Nintendo WFC Connection) -> Message Service. If you turned the message service feature on, turn it off and turn it on again.
+5. Launch Mario Kart Wii Competition Patcher.
+6. The patcher will look for save files for Mario Kart Wii on your storage device in various places, and upload them. This is done in case a missing competition is found in your save file. It will also, of course, patch your Wii for competitions.
 
-Wii Uを使用している場合、大会のチェック時には毎回パッチを実行する必要があります。Wii UではWiiConnect24が有効でないためです。
+If you're using the Wii U, you will have to run the competitions patcher whenever you want to check for a competition, because WiiConnect24 is not enabled on the Wii U.
 {: .notice--info}
 
-### DSゲーム
-WiimmfiはWiiゲームだけでなく、多くのDSゲームもサポートしています。 nds-constraintというエクスプロイトのおかげで、お持ちのゲームにパッチを当てることなく、オンラインでDSゲームをプレイすることができます。
+### DS Games
+Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks to an exploit called nds-constraint, you can play DS games online without patching your games.
 
-#### 必要なもの
+#### What you need
 
-- WEPまたはセキュリティがないWi-Fiネットワーク
+- A Wi-Fi network with WEP or no security
 
-WEPまたはセキュリティなしのWi-Fiネットワークを確保するのが最も困難な部分です。なぜならDSゲームは新しい種類のWi-Fiセキュリティをサポートしていないためです。例外は数少ないDSi対応ゲームであり、これらはDSi・3DS上のWi-Fi設定を利用できます（『ポケットモンスター ブラック・ホワイト』など）。 ただし、多くのルータはゲストWi-Fi接続の作成に対応していますし、あるいは携帯電話やコンピュータでホットスポットを作成することもできます。 この詳細はインターネット上にたくさん資料があるので、好みの検索エンジンで調べてください。
+Getting a Wi-Fi network with WEP or no security is the hardest part, because DS games don't support newer Wi-Fi security types (unless it's one of the few games that are "DSi Enhanced" and can use your Wi-Fi configuration on your DSi or 3DS, like Pokémon Black/White). However, many routers support creating a guest Wi-Fi connection, or you can make a hotspot on your phone or your computer. There are plenty of resources on the Internet that have information on this, so use your favorite search engine to find them.
 {: .notice--info}
 
-#### 手順
+#### Instructions
 
-1. DSのWi-Fiコネクション設定を開きます。 これは、オンラインでプレイしたいゲームの中でアクセスできます。
-2. 接続を設定します。
-3. プライマリDNSに`167.86.108.126`を入力します。
-4. セカンダリDNSに`1.1.1.1`を入力します。
-5. 接続設定を保存し、接続テストを実行します。 成功すれば、オンラインプレイの準備ができました。
+1. Go in the Nintendo DS Wi-Fi settings. This can be accessed inside the game you want to play online with.
+2. Set up a connection.
+3. Type in `167.86.108.126` as the primary DNS.
+4. Type in `1.1.1.1` as the secondary DNS.
+5. Save your connection settings and perform a connection test. If it's successful, then you're ready to play.
 
-### マリオカートWii改造
+### Mario Kart Wii Mods
 
-#### CTGP-R（CTGP Revolution）
-MrBean35000vrとChadderzによって、CTGP-Rと呼ばれるオリジナルコース群が配布されています。Wiimmfiパッチが自動で適用されます。 ダウンロードと導入手順については[ChadSoft website](http://chadsoft.co.uk)を参照ください。
+#### CTGP-R
+MrBean35000vr and Chadderz have a custom track distribution called CTGP-R that allows you to use a set of custom tracks and has automatic Wiimmfi patching. Go to the [ChadSoft website](http://chadsoft.co.uk) for the download and instructions.
 
 #### MKW Hack Pack
-PhillyGはMKW Hack Packと呼ばれるカスタムトラックとハックのコレクションをまとめており、またWiimmfiへの接続が可能です。 セットアップの方法は[Wikiページ](http://wiki.tockdom.com/wiki/MKW_Hack_Pack)をご覧ください。
+PhillyG has put together a collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. To learn how to set it up, go to the [wiki page](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
 
 #### Wiimms Mario Kart Fun
-WiimmとLeseratteによってWiimms MKW Funというオリジナルコース群が作られ、配布されています。年に3回更新されています。 LeseratteのLE-CODEフレームワークに基づいていて、Wiimmfiのサポートに始まり、他にも多くの機能があります。 詳しいことは[Wikiのページ](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun)をご覧ください。
+Wiimm and Leseratte make a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte, has Wiimmfi support, and lots of other features. You can find out more about it on its [wiki page](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
 
-[サイトマップへ進む](site-navigation)<br> 他にも気に入るチュートリアルがきっとあります。
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
