@@ -4,30 +4,30 @@ title: "RiiConnect24 Clear Tool"
 
 {% include toc title="Table of Contents" %}
 
-Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![Logo RiiConnect24](/images/WiiRC24Logo.jpg)
+![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-RiiConnect24 Clear Tool é um aplicativo homebrew que pode corrigir esses erros e problemas específicos:
+RiiConnect24 Clear Tool is a homebrew application that can fix these specific errors and issues:
 
-+ Recursos Descontinuados
++ Discontinued Message
 + NEWS/FORE000001
 + NEWS/FORE000003
 + NEWS/FORE000005
 + NEWS/FORE000099
 + NEWS000006
-+ Apaga os emails que estão em seu wii, caso estejam cheios (isso pode consertar o erro do Wii Mail)
++ Clears out Wii mailboxes in case they are full (this can fix Wii Mail)
 
-#### Você precisará de
-* Um cartão SD ou pendrive
+#### What you need
+* An SD card or USB drive
 * [RiiConnect24 Clear Tool](https://oscwii.org/library/app/RC24-Clear-Tool)
 
-#### Instruções
+#### Instructions
 
-1. Extraia o RiiConnect24 Clear Tool e coloque dentro da pasta `apps` no seu cartão SD ou USB.
-2. Insira seu Cartão SD ou USB no Wii e inicie o RiiConnect24 Clear Tool pelo Homebrew Channel.
-3. Este homebrew vai ajudar a resolver qualquer problema que você estiver tendo.
+1. Extract RiiConnect24 Clear Tool and put it in the `apps` folder on your SD card or USB drive.
+2. Insert your SD card or USB drive into your Wii, and launch RiiConnect24 Clear Tool from the Homebrew Channel.
+3. The app will help you resolve whatever problem you are having.
 
-[Voltar à página de instalação do RiiConnect24](riiconnect24)
+[Return to RiiConnect24 installation page](riiconnect24)
 {: .notice--info}
