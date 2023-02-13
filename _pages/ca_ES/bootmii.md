@@ -1,51 +1,51 @@
 ---
-title: "Còpia de seguretat de BootMii"
+title: "BootMii Backup"
 ---
 
-{% include toc title="Continguts" %}
+{% include toc title="Table of Contents" %}
 
-Si necessites ajuda amb qualsevol cosa relacionada amb aquesta guia, uneix-te al [servidor de Discord de RiiConnect24](https://discord.gg/rc24) (recomanat) o [envia un correu electrònic a support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![Logo de BootMii](/images/bootmii.png)
+![BootMii Logo](/images/bootmii.png)
 
-Necessites una **targeta SD** per crear una còpia de seguretat de la NAND amb BootMii. Si no tens una, pots saltar aquesta pàgina, encara que és molt recomanat fer una còpia de seguretat de la NAND si pots.
+You need an **SD card** to create a NAND backup using BootMii. If you do not have one, you can skip this page, although it is highly recommended to make a NAND backup if you can.
 {: .notice--warning}
 
-Es recomana instal·lar BootMii com a boot2, però sol està disponible a les consoles Wii més velles. D'una altra manera, sol es pot instal·lar com a IOS.
+BootMii as boot2 is recommended, but only available to install on early Wiis. Otherwise, it can only be installed as an IOS.
 {: .notice--info}
 
-Una de les funcions més importants de BootMii és la possibilitat de fer i restaurar còpies de seguretat de la memòria NAND de la teva Wii. Ara, anirem a veure com es fa una còpia de seguretat de la NAND. D'aquesta manera pots recuperar des d'aquella còpia per qualsevol raó. És una bona idea fer una còpia de la NAND regularment o abans de fer qualsevol cosa arriscada a la teva consola (si saps el que fas, mai no faràs gens de cosa arriscada).
+One of BootMii's most important features is the ability to backup and restore your Wii's NAND storage. We will be going over how to perform a NAND backup. You can then restore from that backup for any reason. It's a good idea to make a NAND backup regularly or before doing something risky to your console (and if you know what you're doing, you won't have to do anything risky).
 
-#### Requeriments
-* Una targeta SD amb, com a mínim, 512MB d'espai lliure
+#### Requirements
+* An SD card with at least 512MB of free space
 
-#### Instruccions
-Si tens BootMii instal·lat com a boot2, hauràs d'executar BootMii reiniciant la consola. Salta't els passos 1 i 2 si és aquest el cas.
+#### Instructions
+If you have BootMii installed as boot2 you will need to launch BootMii by restarting the console. Skip steps 1 and 2 if this is the case.
 {: .notice--info}
-1. Entreu al Homebrew Channel.
-2. Premeu el botó HOME i elegiu l'opció "Launch BootMii" (Llançar BootMii).
+1. Launch the Homebrew Channel.
+2. Press the HOME Button, then select "Launch BootMii".
 
-    Navegar dins BootMii no és possible amb un mando Wii. Has d'utilitzar els botons POWER i RESET a la teva consola, o un control GameCube connectat al port 1. Per a navegar entre les opcions, prem el botó POWER a la teva Wii (o esquerra/dreta a la +Crosseta de Control a un control de GameCube). Per a seleccionar qualsevol opció, prem RESET a la teva Wii o A al teu control GameCube.
+    Navigating BootMii is not possible using a Wii Remote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. To navigate between options, press POWER on your Wii (or left/right on the +Control Pad on a GameCube controller). To select an option, press RESET on your Wii or A on your GameCube controller.
     {: .notice--info}
 
 
-    Si la pantalla hi és negra i la llum blava de la unitat de discs està parpellejant, això significa que no tens els arxius de BootMii copiats a la teva targeta SD. Descarrega [aquest arxiu ZIP](https://static.hackmii.com/bootmii_sd_files.zip) i extrau-lo a l'arrel de la teva targeta SD, i intenta-ho una altra vegada.
+    If the screen stays black and the blue disc drive light is blinking, you are missing the BootMii files on your SD card. Download [this zip file](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
     {: .notice--warning}
 
-3. Prem el botó d'Opcions (el que mostra els engranatges).
-4. Prem l'opció de BackupMii (el que mostra la fletxa verda/la primera opció a la teva esquerra).
-- El procés de crear una còpia de seguretat de la NAND començarà. Pots veure el procés a la pantalla.
-- Els anomenats "Bad Blocks" són normals. No et preocupis si veus alguns a una còpia de la NAND.
-- Després, es verificarà la còpia de seguretat. Es recomana verificar la còpia, però pots saltar aquest pas si prems el botó EJECT de la teva Wii. Tingues en compte que si tens un disc insertat al lector de discs, polsar EJECT també ejectarà el disc.
-5. Quan la còpia s'ha completat, eixiu d'eixa pantalla prement qualsevol botó.
-6. Per a eixir de BootMii, premeu el botó "Back" (enrere) i després podeu polsar el Botò Wii o Homebrew Channel per a elegir a quin menú eixir.
+3. Select the Options button (the icon with the gears).
+4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left).
+- A NAND backup will start. You can watch the progress on the screen.
+- "Bad Blocks" are normal. Don't worry when you see some on a NAND backup.
+- After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii. Note that if you have a disc inserted in the disc drive, pressing EJECT will also eject the disc.
+5. When the backup is fully complete, exit the NAND backup screen by pressing any button.
+6. To exit BootMii, press the Back button (the one with the arrow) and then you can press either the Wii Menu button or the Homebrew Channel button to exit where you want to.
 
-Per a recuperar des d'una còpia de la NAND que està a la teva targeta SD, pots seguir aquestes mateixes instruccions utilitzant RestoreMii (el que mostra la fletxa vermella/la segona opció a la teva esquerra). Això és útil si en un cas improbable brickejas la teva Wii.
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). This is useful in the unlikely case you brick your Wii.
 {: .notice--info}
 
-Per a estar segur que no aniràs a perdre els arxius, es recomana copiar `nand.bin` i `keys.bin` des de l'arreu de la teva targeta SD al teu ordinador.
+To make sure you don’t lose the files, it's recommended to copy `nand.bin` and `keys.bin` from the root of your SD card to your computer.
 {: .notice--info}
 
-[Continuar amb l'instal·lació de Priiloader](priiloader)<br> Priiloader afegeix un nivell de protecció contra brickejos, i ho recomanem, especialment si solament vas poder instal·lar BootMii com a IOS.
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii as IOS.
 {: .notice--info}
