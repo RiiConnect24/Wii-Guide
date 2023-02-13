@@ -4,42 +4,42 @@ title: "Priiloader"
 
 {% include toc title="Table of Contents" %}
 
-Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor entra no [server do RiiConnect24 no Discord](https://discord.gg/rc24) (recomendado) ou [envia-nos um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Priiloader adiciona um nível de proteção contra brick na tua Wii. Ele carrega antes do Wii Menu (daí o nome). A ferramenta também ativa hacks para o teu Wii Menu, assim como abre o Homebrew Channel, BootMii, ou qualquer homebrew que queiras!
+Priiloader adds a level of brick protection to your Wii. It loads before the Wii Menu does (hence the name). The tool can also enable hacks for your Wii Menu, and be used to quickly launch the Homebrew Channel, BootMii, or whatever homebrew you want!
 
 ![Priiloader](/images/priiloader.jpg)
 
-**Não ** instales o Priiloader na tua vWii (modo Wii na tua Wii U). Vais brickar a Wii fazendo isto.
+Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your vWii by doing this.
 {: .notice--warning}
 
-#### O que precisas
+#### What you need
 
-- Um cartão SD ou USB drive
-- [Instalador do Priiloader](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+- An SD card or USB drive
+- [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
-#### Instruções
+#### Instructions
 
-##### Secção I - Descarregando/Instalando
+##### Section I - Downloading/Installing
 
 1. Download the Priiloader installer and extract it to the root of your SD card or USB drive.
 
-##### Secção II - Instalação do Priiloader
+##### Section II - Installing Priiloader
 
-1. Abre o Homebrew Channel na tua Wii.
-2. Inicia o instalador do Priiloader.
-3. Pressiona o botão + no comando Wii ou no botão A num controlador GameCube. ![Install Priiloader](/images/Priiloader/installer.png) ![Installing](/images/Priiloader/installing.png)
+1. Launch the Homebrew Channel on your Wii.
+2. Launch the Priiloader installer.
+3. Press the + Button on Wii Remote or the A Button on a GameCube controller. ![Install Priiloader](/images/Priiloader/installer.png) ![Installing](/images/Priiloader/installing.png)
 
-##### Secção III - Entrar/Configurar o Priiloader
+##### Section III - Entering/Configuring Priiloader
 
-1. Segura o botão RESET enquanto ligas a tua Wii.
+1. Hold the RESET button while turning on your Wii.
    - If you are using a Wii mini, plug in a USB keyboard and hold Escape on it while turning it on.
 
 ![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
 
-2. Deverás ver o menu do Priiloader. ![Menu](/images/Priiloader/mainmenu.png)
-3. Vai a `System Menu Hacks`.
+2. You should see the Priiloader menu. ![Menu](/images/Priiloader/mainmenu.png)
+3. Go to `System Menu Hacks`.
 
 If you are using a USB drive to install Priiloader, make sure you do not have an SD card inserted at the same time. This will cause Priiloader to be unable to find the hacks_hash.ini file.
 {: .notice--info}
@@ -48,11 +48,11 @@ If you are using a USB drive to install Priiloader, make sure you do not have an
 1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
 1. Scroll to `Homebrew Channel` and press A to launch it.
 
-## Lista de Hacks para Menu do Sistema
+## System Menu Hacks List
 
 This is a list of the hacks you can enable with Priiloader.
 
-| Hack                                    | Descrição                                                                                                                                                                             |
+| Hack                                    | Description                                                                                                                                                                           |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Block Disc Updates                      | Removes the "Wii System Update" screen included with some games that forces you to update the system before playing the game.                                                         |
 | Block Online Updates                    | Disables updating your Wii. Updates will fail with error 32007.                                                                                                                       |
