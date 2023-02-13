@@ -4,14 +4,14 @@ title: "Updating Wii Menu to v4.3"
 
 {% include toc title="Table of Contents" %}
 
-Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte se na [RiiConnect24 Discord server](https://discord.gg/rc24) (doporučeno) nebo [nám napište e-mail](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 This tutorial will explain how to update your Wii Menu to version 4.3, if you have already homebrewed your Wii.
 
-#### Co budete potřebovat
+#### What you need
 
-* SD karta nebo USB disk
+* An SD card or USB drive
 * A computer with Windows on it
 * [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest)
 * [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
@@ -19,14 +19,14 @@ This tutorial will explain how to update your Wii Menu to version 4.3, if you ha
 If you don't have a Windows computer, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-#### Pokyny
+#### Instructions
 
-##### Část I - Stahování
+##### Section I - Downloading
 
 Your Wii must be modded in order to perform this. If it isn't, then it's best to follow [the guide](get-started) first before doing this.
 {: .notice--info}
 
-Abyste zabránili briknutí své konzole, [ ujistěte se, že máte nainstalovaný Priiloader](priiloader). Také nainstalujte [BootMii](bootmii) (jako Boot2, pokud máte starší Wii, jinak jako IOS). Instalací ochrany před bricknutím a dodržením přesného postupu se nejspíše bricku vyhnete. NEPOKRAČUJTE, DOKUD NEMÁTE NAINSTALOVANÝ PRIILOADER A BOOTMII!
+To protect against bricks, [make sure you install Priiloader](priiloader). Also, install [BootMii](bootmii) (as Boot2 if you have an early Wii, otherwise IOS). Installing brick protection along with following the guide correctly should keep you safe from bricks. DO NOT CONTINUE UNTIL YOU HAVE INSTALLED PRIILOADER AND BOOTMII!
 {: .notice--danger}
 
 1. Extract the .zip file for NUS Downloader vWii and open the application.
@@ -44,19 +44,19 @@ Abyste zabránili briknutí své konzole, [ ujistěte se, že máte nainstalovan
 | Europe | v514 (4.3E)      |
 | Korea  | v518 (4.3K)      |
 
-##### Část II – Instalace
+##### Section II - Installing
 
-K ovládání této utility použijte D-Pad.
+You use the +Control Pad to use this tool.
 {: .notice--info}
 
-1. Vložte SD kartu nebo USB disk do svého Wii.
-2. Na svém Wii spusťte Homebrew Channel.
-3. Spusťte Wii Mod Lite.
-4. Pomocí D-Padu na Wii Remotu vyberte možnost `WAD Manager`, poté přejděte do složky `wad`.
+1. Put your SD card or USB drive in your Wii.
+2. Launch the Homebrew Channel on your Wii.
+3. Launch Wii Mod Lite.
+4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 5. Press A to install the IOS80 `.wad` file. [`Make sure the installation is successful, otherwise abort.`]
 6. Press A to install the Wii Menu WAD.
 7. Press A to install the IOS58 `.wad` file. [`Make sure the installation is successful, otherwise abort.`]
-8. Jakmile se úspěšně nainstalují, stiskněte tlačítko HOME, abyste se vrátili do Homebrew Channelu.
+8. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
 **Do not return to the Wii menu yet, otherwise you could BRICK. Install [Priiloader](priiloader) first.**
 {: .notice--danger}
