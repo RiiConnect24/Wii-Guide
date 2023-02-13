@@ -7,12 +7,12 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 FlashHax is an exploit for the Wii that is triggered by using the Internet Channel. Unlike other exploits, this doesn't require an SD card.
 
-#### לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
+#### What you need
 
 - A Wii with an Internet connection
 - The Internet Channel
 
-#### הוראות
+#### Instructions
 
 1. Open up the Internet Channel on your Wii.
 2. Go to flashhax.com in the browser and bookmark the page.
