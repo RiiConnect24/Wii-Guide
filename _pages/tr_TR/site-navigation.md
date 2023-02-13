@@ -1,13 +1,13 @@
 ---
-title: "Site Haritası"
-layout: yalnız
+title: "Site Navigation"
+layout: single
 sitemap: false
 ---
 
-![WiiÖğreticileri](/images/WiiTutorials.jpg)
+![WiiTutorials](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
-**Öne Çıkanlar**
+**Featured**
 
 + [cIOS](cios)
 + [Kirby TV Channel](kirby-tv)
@@ -27,18 +27,18 @@ sitemap: false
 + [WiiLink Demae Domino's](wiilink-demae-dominos)
 + [Wiimmfi](wiimmfi)
 + [Kirby TV Channel](kirby-tv)
-+ [WiiWare Yamalayıcısı](wiiwarepatcher)
++ [WiiWare Patcher](wiiwarepatcher)
 + [Deleting VFFs](deleting-vffs)
 + [Fixing FORE000006](riiconnect24-batteryfix)
 + [Fixing NEWS000006](news000006)
 
-**Modlama 101**
+**Modding 101**
 + [BlueBomb](bluebomb)
-* [BootMii Yedekleme](bootmii)
+* [BootMii Backup](bootmii)
 + [cIOS](cios)
 + [Dos and Don'ts of Wii Modding](dosanddonts)
 + [FlashHax](flashhax)
-+ [Homebrew Tarayıcısı](hbb)
++ [Homebrew Browser](hbb)
 + [Homebrew Channel](hbc)
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
@@ -46,14 +46,14 @@ sitemap: false
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Wii Oyunu Kısayolu oluşturma](wiigsc)
++ [Creating Wii Game Shortcuts](wiigsc)
 + [How to dump Channels (WADs)](dump-wads)
 + [How to dump GameCube/Wii Games](dump-games)
-+ [RSSMii yükleme](rssmii)
-+ [Wii Menü Temaları yükleme](themes)
++ [Installing RSSMii](rssmii)
++ [Installing Wii Menu Themes](themes)
 + [Installing Wii Menu Themes on vWii](themes-vwii)
 + [Performing a SysCheck](syscheck)
-+ [RSSMii'yi kaldırmak](rssmii-remove)
++ [Removing RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [Setting RTC Time](rtc)
 + [Updating Wii Menu to v4.3](update)
@@ -62,12 +62,13 @@ sitemap: false
 + [WiiFlow](wiiflow)
 
 **Wii mini**
-+ [Wii mini'ye Homebrew Channel yükleme](hbc-mini)
-+ [Wii mini'ye cIOS yükleme](cios-mini)
++ [Installing the Homebrew Channel on the Wii mini](hbc-mini)
++ [Installing cIOS on the Wii mini](cios-mini)
 
 **Site**
-+ [Ana sayfa](/)
-+ [Başlangıç](baslarken)
-+ [Sıkça Sorulan Sorular (S.S.S)](S.S.S)
-+ [Bağışlar](donations){% endcapture %}
++ [Home](/)
++ [Get Started](get-started)
++ [FAQ](faq)
++ [Donations](donations)
+{% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
