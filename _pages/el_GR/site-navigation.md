@@ -1,5 +1,5 @@
 ---
-title: "Πλοήγηση ιστοσελίδας"
+title: "Site Navigation"
 layout: single
 sitemap: false
 ---
@@ -9,7 +9,7 @@ sitemap: false
 {% capture notice-1 %}
 **Featured**
 
-+ [cIOS (προσαρμοσμένο IOS)](cios)
++ [cIOS](cios)
 + [Kirby TV Channel](kirby-tv)
 + [RiiConnect24](riiconnect24)
 + [WiiLink](wiilink)
@@ -34,11 +34,11 @@ sitemap: false
 
 **Modding 101**
 + [BlueBomb](bluebomb)
-* [Αντίγραφο ασφαλείας με το BootMii](bootmii)
-+ [cIOS (προσαρμοσμένο IOS)](cios)
+* [BootMii Backup](bootmii)
++ [cIOS](cios)
 + [Dos and Don'ts of Wii Modding](dosanddonts)
 + [FlashHax](flashhax)
-+ [Το Homebrew Browser](hbb)
++ [Homebrew Browser](hbb)
 + [Homebrew Channel](hbc)
 + [LetterBomb](letterbomb)
 + [Priiloader](priiloader)
@@ -67,8 +67,8 @@ sitemap: false
 
 **Site**
 + [Home](/)
-+ [Ξεκινώντας](get-started)
-+ [Συχνές ερωτήσεις](faq)
++ [Get Started](get-started)
++ [FAQ](faq)
 + [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
