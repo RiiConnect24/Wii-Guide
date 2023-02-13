@@ -1,8 +1,8 @@
 ---
-title: "Riiconnect24"
+title: "RiiConnect24"
 ---
 
-{% include toc title="Continguts" %}
+{% include toc title="Table of Contents" %}
 
 If you need help with anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -26,14 +26,14 @@ It's recommended to set your Wii to the current time before proceeding. Follow [
 DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
-#### Què necessitaràs?
+#### What you need
 
-* Una tarjeta SD o Pendrive USB
+* An SD card or USB drive
 * A Wii with an Internet connection
 * A computer
 * [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-#### Instruccions
+#### Instructions
 
 ##### Section I - Using RiiConnect24 Patcher
 
