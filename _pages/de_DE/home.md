@@ -6,35 +6,35 @@ header:
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: "Die vollständige Anleitung zum Modden deiner Nintendo Wii."
+excerpt: "The complete guide to modding your Nintendo Wii."
 ---
 
-Diese Anleitung ist auch in anderen Sprachen verfügbar! Um die Sprache zu ändern, klicke bitte auf das Symbol oben rechts und ändere deine Sprache.
+The guide is also available in other languages! To change the language, please press the icon at top right and change your language.
 {: .notice--info}
 
-## Was ist "Homebrew"?
+## What is "homebrew"?
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) bezeichnet Software, welche nicht von Nintendo autorisiert wurde. Dies umfasst Spiele, Programme, Emulatoren und vieles mehr!
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to software not authorized by Nintendo. This can include games, utilities, emulators and much more!
 
-Das Ausführen von Homebrew auf deiner Nintendo Wii ist durch die Ausnutzung von Bugs in Wii-Software ohne Kosten möglich. Die Modifikationen welche durch das Befolgen dieser Anleitung installiert werden, ermöglichen dir den einfachen und dauerhaften Zugriff auf Wii-Homebrew.
+Running homebrew on your Nintendo Wii can be done for free by exploiting bugs in Wii's software. The modifications installed by following this guide will give you easy and persistent access to Wii homebrew.
 
-## Was kann ich mit Homebrew alles machen?
+## What can I do with homebrew?
 
-Hier ist eine Liste mit Dingen die du mit Homebrew machen kannst. Auch wenn diese Liste nicht vollumfänglich ist, solltest du trotzdem einen guten Überblick darüber erhalten, was möglich ist. Diese Anleitung wird dir ausserdem ermöglichen schnell loszulegen.
+Here's a list of things you can do using homebrew. While this list is by no means totally comprehensive, you should have a good idea of what is possible, and the guide will help you easily get started.
 
-- Patche Spiele-Disc-Inhalte (was dir erlaubt, Spiele-Modifikationen zu laden) mit [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
-- Installiere Designs in deinem Wii-Menü mithilfe von [MyMenuify](themes).
-- Installiere einen USB-Loader wie [WiiFlow](wiiflow) oder [USB Loader GX](usbloadergx) um alle deine Lieblingsspiele von einem USB-Speichergerät aus zu starten.
-- Sichere deine Discs mit [CleanRip](/dump-games) und installierte Spiele mit [YABDM](dump-wads)
-- Nutze [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/) um deine Speicherdateien zu sichern und wiederherzustellen
-- Lade neue Homebrew-Anwendungen mit dem [Homebrew Browser](hbb) herunter
-- Stelle eingestellte Online-Dienste wieder her, wie [WiiConnect24](riiconnect24) & die [Nintendo WFC-Dienste](wiimmfi).
-- Nutze [BootMii](bootmii) um Kopien deines Wii-Systemspeichers (NAND) zu sichern bzw. wiederherzustellen.
-- Schütze deine Wii vor Bricks mit [Priiloader](priiloader) und BootMii.
-- Verwende deine Wii als Media Player mit [WiiMC](https://oscwii.org/library/app/wiimc-ss).
+- Patch game disc contents (allowing you to load game modifications) using [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
+- Install themes to your Wii Menu using [MyMenuify](themes).
+- Install a USB Loader like [WiiFlow](wiiflow) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
+- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](dump-wads)
+- Back up and restore your save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
+- Download new homebrew apps with the [Homebrew Browser](hbb)
+- Restore discontinued online services, such as [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
+- Backup and restore copies of your Wii system memory (NAND) using [BootMii](bootmii).
+- Protect your Wii from bricks using [Priiloader](priiloader) and BootMii.
+- Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
 
 
-## Bereit?
+## Ready?
 
-Beginne mit der [Auswahl deines Exploits](get-started)!
+Get started by [choosing your exploit](get-started)!
 {: .notice--info}
