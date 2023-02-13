@@ -2,7 +2,7 @@
 title: "RiiConnect24 Clear Tool"
 ---
 
-{% include toc title="Innholdsfortegnelse" %}
+{% include toc title="Table of Contents" %}
 
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -23,7 +23,7 @@ RiiConnect24 Clear Tool is a homebrew application that can fix these specific er
 * An SD card or USB drive
 * [RiiConnect24 Clear Tool](https://oscwii.org/library/app/RC24-Clear-Tool)
 
-#### Instruksjoner
+#### Instructions
 
 1. Extract RiiConnect24 Clear Tool and put it in the `apps` folder on your SD card or USB drive.
 2. Insert your SD card or USB drive into your Wii, and launch RiiConnect24 Clear Tool from the Homebrew Channel.
