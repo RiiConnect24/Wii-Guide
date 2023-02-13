@@ -2,31 +2,31 @@
 title: "FAQ"
 ---
 
-![RiiConnect24 Wii Logo Geel](/images/Wii_Yellow_Gray.jpg)
+![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
 
-### Hoe gevaarlijk is het hacken van mijn Wii?
+### How risky is hacking my console?
 Bricks (a state where either some parts of your Wii software are not working, or your Wii is not working at all) are extremely rare unless you ignore/circumvent all safety checks, or do something risky or naive like installing an older version of the Wii Menu. Make sure you install [BootMii](bootmii) and [Priiloader](priiloader) to protect yourself from bricks!
 
-### Waar kan ik naar toe voor hulp?
+### Where should I go for support?
 You can join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for assistance.
 
-### Wat zijn SD-kaart vereisten en / of aanraders?
-U zult een SD-kaart nodig hebben met tenminste 128 MB ruimte om een exploit te kunnen gebruiken.
+### What are the SD card requirements and/or recommendations?
+You will need an SD card with at least 128MB to run an exploit.
 
 - If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card.
 
-Om homebrew applicaties op uw Wii te kunnen gebruiken raden bij een SD-kaart aan van tenminste 2 GB.
+To store homebrew applications, we recommend an SD card with at least 2 GB.
 
 ### I got error code XXXXXX in Wiimmfi, how to fix it?
 In order to check what the reason for the error is, please visit the [Wiimmfi error page](https://wiimmfi.de/error).
 
-### Wat zijn limitaties voor het hacken van mijn vWii?
-Onderstaande lijst van dingen kan potentieel uw vWii een **BRICK** bezorgen (Doe dit dus niet!):
-* Een IOS voor een Wii installeren op een vWii.
-* Een Wii Menu thema installeren die niet goed geformatteerd is voor uw vWii.
-* BootMii en / of Priiloader/Preloader installeren.
-* Een fout die optreed tijdens het installeren van cruciale systeem/IOS titels (bijvoorbeeld dat de stroom uitvalt).
-* Uw vWii NAND modificeren terwijl u niet weet wat u aan het doen bent.
+### What are the limitations in vWii modding?
+The following is a list of things that can potentially **BRICK** your vWii (don't do these things!):
+* Installing IOS for a Wii console on vWii.
+* Installing Wii menu themes not formatted correctly for vWii and/or your region.
+* Installing BootMii and/or Priiloader/Preloader.
+* Failure during the install of crucial system/IOS titles (e.g. power outage).
+* Modifying the vWii NAND without knowing what you are doing.
 
 ### How can I remove parental controls?
 The [mkey generator](https://mkey.salthax.org) can generate the code required to remove parental controls.
