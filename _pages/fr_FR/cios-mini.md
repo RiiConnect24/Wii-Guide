@@ -1,59 +1,59 @@
 ---
-title: "d2xl cIOS pour la Wii mini (expérimental)"
+title: "d2xl cIOS for Wii mini (experimental)"
 ---
 
-{% include toc title="Table des matières" %}
+{% include toc title="Table of Contents" %}
 
-Ce tutoriel va vous montrer comment installer le d2xl cIOS de Leseratte sur la Wii mini (IOS personnalisé). Ceci est requis si vous souhaitez lancer des jeux en utilisant un Loader USB. Certains homebrew peuvent mieux fonctionner grâce à l'utilisation d'un cIOS.
+This tutorial will tell you how to install Leseratte's d2xl Wii mini cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
-Ce guide est uniquement destiné aux utilisateurs Wii mini. Si vous possédez une Wii, suivez plutôt [ce guide](cios).
+This guide is only intended for Wii mini users. If you have a Wii, follow [this guide](cios) instead.
 {: .notice--warning}
 
-Si vous avez besoin d'aide à propos de ce tutoriel, rejoignez le [Discord de hacking pour Wii mini](https://discord.gg/6ryxnkS) (recommandé mais en anglais)
+If you need help with anything regarding this tutorial, please join [the Wii mini Hacking Discord server](https://discord.gg/6ryxnkS) (recommended)
 {: .notice--info}
 
-Le d2x cIOS installer a été initialement développé pour le mode vWii de la Wii U par DaveBaol et le cIOS personnalisé a été crée par Leseratte pour la Wii mini. La page de téléchargement original peut-être trouvé [ici](https://wii.leseratte10.de/d2xl-cIOS/). La page Github de Leseratte se trouve [ici](https://github.com/Leseratte10/d2xl-cios). Notez que ce cIOS est toujours expérimental, cependant aucun problème de fonctionnement n'a été signalé.
+This d2x cIOS installer was originally developed for the Wii U's vWii by DaveBaol and custom cIOS was created by Leseratte for the Wii mini. The original download page can be found [here](https://wii.leseratte10.de/d2xl-cIOS/). Leseratte's Github page can be found [here](https://github.com/Leseratte10/d2xl-cios). Please note that this cIOS is still experimental, though no problem with functionality has been reported.
 {: .notice--info}
 
-#### Ce dont vous avez besoin
+#### What you need
 
-* Une Wii mini avec Homebrew Channel installé
-* Un périphérique USB
-* Le [d2xl cIOS Installer](/assets/files/d2xl_wii_mini_cIOS_installer_v1_beta2.zip) par Leseratte
+* A Wii mini with the Homebrew Channel installed
+* A USB drive
+* Leseratte's [d2xl cIOS Installer](/assets/files/d2xl_wii_mini_cIOS_installer_v1_beta2.zip)
 
 #### Instructions
 
-##### Section I - Téléchargement
+##### Section I - Downloading
 
-1. Décompressez le programme d'installation du d2xl cIOS dans le dossier `apps` de votre périphérique USB.
-1. Insérez votre périphérique USB dans votre Wii mini et chargez le programme d'installation d2xl cIOS à partir du Homebrew Channel.
+1. Extract the d2xl cIOS Installer to the `apps` folder on your USB drive.
+1. Insert your USB drive into your Wii mini and load the d2xl cIOS Installer from the Homebrew Channel.
 
-##### Section II - Installation
+##### Section II - Installing
 
-1. Appuyez sur continuer, appliquez ensuite les options suivantes:
+1. Press continue, then set the options to the following:
     ```
-    Sélectionnez cIOS: d2xl-v1-beta2 
-   Sélectionnez la base cIOS: 57 
-   Sélectionnez l'emplacement cIOS: 249
+    Select cIOS: d2xl-v1-beta2
+    Select cIOS base: 57
+    Select cIOS slot: 249
     ```
-Notez le numéro de version sous les notes (`IOS57-64-` se terminant par `v31776` ou `v31775`)
-1. Une fois défini, appuyez sur A pour installer. Une fois l'installation terminée avec succès, quittez le programme d'installation.
-   - Si l'installation échoue en renvoyant l'erreur `TMD version mismatch`, sélectionnez l'option `Select cIOS`, puis sélectionnez avec la croix directionnelle un numéro de version différent de celui que vous avez essayé avant. Le nombre 57 ne changera pas.
+Take a note of the version number under notes (`IOS57-64-` ending in either `v31776` or `v31775`)
+1. Once set, press A to install. Once done successfully, exit the installer.
+   - If the install fails with a `TMD version mismatch` error, press left or right on the +Control Pad over the `Select cIOS base` option until the version number is different than the one you tried before. The number 57 will not change.
 
 
-##### Activation Ethernet
-Si vous souhaitez utiliser Wiimmfi en Ethernet sur une Wii mini, vous devez exécuter l'application [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip) créée par Fullmetal5. Pour ce faire mettez le contenu du fichier .zip dans le dossier `apps` de votre clé USB puis démarrez-le depuis la Chaîne Homebrew.
+##### Enabling Ethernet
+If you wish to use Wiimmfi with Ethernet on a Wii mini, you have to run the [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip) app made by Fullmetal5. To run it, just unzip it in the `apps` folder of your USB drive and run it from the Homebrew Channel.
 
-Les consoles Wii et mini Wii ne fonctionnent qu'avec les adaptateurs Ethernet utilisant la puce AX88772. Veuillez vérifier que ce produit est compatible avant de l'acheter. Celui de UGREEN est connu pour être compatible : [Amazon Europe](https://www.amazon.de/dp/B00MYT481C), [Amazon US](https://www.amazon.com/dp/B08DRKYKMM/)
+The Wii and Wii mini consoles are only known to work with Ethernet adapters using the AX88772 chip. Please check that the product is compatible before you buy. This one from UGREEN is known to be compatible: [Amazon Europe](https://www.amazon.de/dp/B00MYT481C), [Amazon US](https://www.amazon.com/dp/B08DRKYKMM/)
 {: .notice--info}
 
-N'essayez pas d'installer un IOS Wii ou un menu système sur la Wii mini. Cela pourrait potentiellement bricker votre console.
+Do not attempt to install a Wii IOS or System Menu on the Wii mini. Doing so will likely brick your console.
 {: .notice--warning}
 
-Vous pouvez maintenant utiliser des homebrew comme [USB Loader GX](usbloadergx) et [WiiFlow](wiiflow).
+You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: .notice--info}
 
-[Continuer vers la navigation du site](site-navigation)<br> Nous avons de nombreux autres tutoriels que vous pourriez aimer.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
