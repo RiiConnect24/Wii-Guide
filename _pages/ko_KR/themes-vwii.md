@@ -2,11 +2,11 @@
 title: "Installing Wii Menu Themes on vWii"
 ---
 
-{% include toc title="목차" %}
+{% include toc title="Table of Contents" %}
 
-지루하고 평범한 Wii 메뉴에 지쳐서 멋진 테마를 원하시나요? 이 튜토리얼은 Wii 메뉴에 새 테마를 적용하는 방법을 알려줍니다!
+Are you tired of the boring, plain white theme on your Wii Menu, and want a cool theme instead? This tutorial will help you get a new theme for your Wii Menu!
 
-저희는 어떤 방법으로든 기기를 벽돌시키거나 손상시키는데에 있어 책임이 **없습니다**. 이 가이드를 정확히 따르면 문제가 없을겁니다.
+We are **NOT** responsible if you brick, or damage your console in any way whatsoever. If you follow this guide exactly, you shouldn't have any problems.
 {: .notice--danger}
 
 Do **NOT** install the themes made in this guide on an actual Wii. They are only compatible with the vWii System Menu and will brick an actual Wii.
@@ -25,13 +25,13 @@ If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.ne
 
 * A Wii U with the Homebrew Channel installed.
 * A Wiimote without Wii MotionPlus
-* SD 카드
-* Windows가 설치된 컴퓨터 (맥이나 리눅스에서 Mono나 Wine 사용도 가능)
+* An SD card
+* A computer with Windows on it (or using Mono or Wine on Mac/Linux)
 * [MyMenuify](/assets/files/Mymenuify-Old-vWii.zip)
 * [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 * [NUS Downloader (vWii)](/assets/files/NUSDownloader-vwii.zip)
 
-#### 테마 링크
+#### Theme Links
 
 Below are some links to themes.
 
@@ -42,12 +42,12 @@ Below are some links to themes.
 Only themes from the RiiConnect24 Themes page have been tested on vWii. Themes from other sources may not be entirely compatible with vWii, use these at your own risk.
 {: .notice--warning}
 
-계속하기 전에 상단의 경고를 읽으시기 바랍니다!
+MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
 {: .notice--danger}
 
-#### 방법
+#### Instructions
 
-##### 섹션 I - 테마 찾기
+##### Section I - Finding a Theme
 
 * When choosing a theme, it is important to make sure that your theme is compatible with the vWii System Menu.
 
@@ -62,9 +62,9 @@ This assumes your vWii is on the latest Wii Menu version.
 
 There are a couple of ways to get the .app files for your vWii System Menu, in this guide we'll be using the vWii version of NUS Downloader.
 
-1. Open the folder and launch NUS Downloader.
-2. Open the menu in NUS Downloader and click the database button.
-3. Go to System > System Menu and select a version according to your region.
+1. Extract the .zip file for NUS Downloader vWii and open the application
+2. Click on `Database...`
+3. Go to `System` > `System Menu` and select the version corresponding to your region as shown in the table below.
 
 | Region | vWii Menu version |
 | ------ | ----------------- |
@@ -78,7 +78,7 @@ After selecting the correct version to download, check the box for `Create Decry
 
 ![The main menu of NUS downloader without the database menu open.](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
 
-After the download has finished, search for .app file corresponding to your region in the folder where NUS Downloader is.
+After the download has finished, search for the .app file corresponding to your region in the folder where NUS Downloader is.
 
 | Region | .app file for your region |
 | ------ | ------------------------- |
@@ -112,7 +112,7 @@ If you did everything correctly, you should now have your custom theme installed
 
 ##### Reverting to Original Theme
 
-1. 홈브루 채널을 실행하세요.
+1. Launch the Homebrew Channel.
 2. Launch MyMenuify and navigate to your theme folder.
 3. Select the .app file you copied to the SD card at the end of section 2 as if you were installing a theme.
 4. Select Install and wait until it finishes.
