@@ -26,14 +26,14 @@ It's recommended to set your Wii to the current time before proceeding. Follow [
 DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
-#### לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
+#### What you need
 
 * An SD card or USB drive
 * A Wii with an Internet connection
 * A computer
 * [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-#### הוראות
+#### Instructions
 
 ##### Section I - Using RiiConnect24 Patcher
 
