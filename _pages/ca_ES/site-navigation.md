@@ -1,7 +1,7 @@
 ---
-title: "Navegació de la pàgina"
-layout: a soles
-sitemap: fals
+title: "Site Navigation"
+layout: single
+sitemap: false
 ---
 
 ![WiiTutorials](/images/WiiTutorials.jpg)
@@ -11,7 +11,7 @@ sitemap: fals
 
 + [cIOS](cios)
 + [Kirby TV Channel](kirby-tv)
-+ [Riiconnect24](riiconnect24)
++ [RiiConnect24](riiconnect24)
 + [WiiLink](wiilink)
 + [Wiimmfi](wiimmfi)
 {% endcapture %}
@@ -19,13 +19,13 @@ sitemap: fals
 
 {% capture notice-2 %}
 **RiiConnect24/Wiimmfi**
-+ [Riiconnect24](riiconnect24)
++ [RiiConnect24](riiconnect24)
 + [RiiConnect24 vWii](riiconnect24-vwii)
 + [RiiConnect24 Dolphin](riiconnect24-dolphin)
 + [RiiConnect24 DNS Update](riiconnect24-dns-update)
 + [WiiLink](wiilink)
 + [WiiLink Demae Domino's](wiilink-demae-dominos)
-+ [Wiimmifi](wiimmfi)
++ [Wiimmfi](wiimmfi)
 + [Kirby TV Channel](kirby-tv)
 + [WiiWare Patcher](wiiwarepatcher)
 + [Deleting VFFs](deleting-vffs)
@@ -34,7 +34,7 @@ sitemap: fals
 
 **Modding 101**
 + [BlueBomb](bluebomb)
-* [Còpia de seguretat de BootMii](bootmii)
+* [BootMii Backup](bootmii)
 + [cIOS](cios)
 + [Dos and Don'ts of Wii Modding](dosanddonts)
 + [FlashHax](flashhax)
@@ -68,7 +68,7 @@ sitemap: fals
 **Site**
 + [Home](/)
 + [Get Started](get-started)
-+ [Preguntes Freqüents](faq)
++ [FAQ](faq)
 + [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
