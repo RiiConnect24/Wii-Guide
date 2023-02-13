@@ -1,58 +1,58 @@
 ---
 main:
   - 
-    title: Guía per la Wii
+    title: Wii Guide
     url: /
   - 
-    title: Comença aquí
+    title: Start Here
     url: get-started
   - 
-    title: Navegació de la pàgina
+    title: Site Navigation
     url: site-navigation
   - 
-    title: Preguntes Freqüents
+    title: FAQ
     url: faq
   - 
-    title: Riiconnect24
+    title: RiiConnect24
     url: riiconnect24
   - 
-    title: Wiimmifi
+    title: Wiimmfi
     url: wiimmfi
 top:
   - 
-    title: Aquesta pàgina es fa servir de galetes ("cookies") per mostrar el progrés actual a la barra lateral i d'una altra manera millorar el lloc.
+    title: This website uses cookies to display the current guide progress on the sidebar and otherwise enhance the site.
 bottom:
   - 
-    title: Per a obtindre suport, ves a <a href="https://discord.gg/b4Y7jfD"> RiiConnect24 a Discord</a>.
+    title: For support in English, ask for help at <a href="https://discord.gg/b4Y7jfD">RiiConnect24 on Discord</a>.
 footer:
   - 
-    title: Font
+    title: Source
     url: https://github.com/RiiConnect24/Wii-Guide/
   - 
-    title: Navegació de la pàgina
+    title: Site Navigation
     url: site-navigation
   - 
-    title: Donacions
+    title: Donations
     url: donations
 sidebar_title:
   - 
-    title: Progrés General
+    title: Overall Progress
 sidebar_pages:
   - 
-    title: Guía de Wii
+    title: Wii Guide
     url: /
   - 
-    title: Preguntes Freqüents
+    title: FAQ
     url: faq
   - 
-    title: Donacions
-    url: donacions
+    title: Donations
+    url: donations
   - 
-    title: Crèdits
+    title: Credits
     url: credits
   - 
-    title: Riiconnect24
+    title: RiiConnect24
     url: riiconnect24
   - 
-    title: Wiimmifi
+    title: Wiimmfi
     url: wiimmfi
