@@ -1,37 +1,37 @@
 ---
-title: "Začínáme"
+title: "Get Started"
 ---
 
 {% include toc title="Table of Contents" %}
 
-Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte se na [RiiConnect24 Discord server](https://discord.gg/rc24) (doporučeno) nebo [nám napište e-mail](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Přestože vaše Wiičko mohlo být již v minulosti hacknuto, můžete tyto kroky opakovat, abyste svoje hacky aktualizovali.
+Even if your Wii has already been softmodded in the past, following these steps can still ensure that your softmod is up to date.
 {: .notice--info}
 
-Všechny exploity vedou ke spuštění HackMii Installeru, mají tedy stejný konečný výsledek.
+All of the exploits run the HackMii Installer, and have the same end result.
 {: .notice--info}
 
-Přestože můžete procházet těmito tutoriály bez SD karty, bez SD karty nebudete moci vytvořit zálohu úložiště NAND nebo ze zálohy obnovit a také nebudete moci spustit některé homebrew aplikace.
+Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
 {: .notice--info}
 
 If your Wii Menu is not on version 4.3, use str2hax or FlashHax to install the Homebrew Channel, and then follow the [update guide](update) to update to 4.3.
 {: .notice--info}
 
-Tento tutoriál je určen pouze pro klasické Wii a Wii mini (včetně Wii Family Edition). Nepoužívejte tento tutoriál s Wii U (vWii)! Pokud chcete nainstalovat homebrew na Wii U, postupujte podle [tohoto průvodce](https://wiiu.hacks.guide).
+This guide is for the original Wii and Wii mini only (including the Wii Family Edition). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
 {: .notice--warning}
 
-### Vyberte, který exploit chcete použít
+### Choose an exploit to use
 
-Tyto exploity jsou seřazeny podle obtížnosti, počínaje nejsnazším a konče nejobtížnějším.
+These exploits are sorted by easiest to hardest difficulty of use.
 
-- [str2hax](str2hax) - Exploit využívající Wii EULA (licenční podmínky)
-    * Vyžaduje připojení k Internetu a změnu DNS serveru
-- [LetterBomb](letterbomb) - Exploit využívající Wii Message Board
-    * Vyžaduje SD kartu
-- [FlashHax](flashhax) - Exploit využívající Internet Channel
-    * Vyžaduje mít nainstalovaný Internet Channel a připojení k internetu
-- [BlueBomb](bluebomb) - Exploit využívající Bluetooth
-    * Vyžaduje počítač s Bluetooth a GNU/Linuxem a také USB disk
-    * Pouze tento exploit lze použít na **Wii mini**
+- [str2hax](str2hax) - Exploit that uses the Wii EULA
+    * Requires an Internet connection and changing the DNS server
+- [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board
+    * Requires an SD card
+- [FlashHax](flashhax) - Exploit that uses the Internet Channel
+    * Requires the Internet Channel installed, and an Internet connection
+- [BlueBomb](bluebomb) - Exploit that uses Bluetooth
+    * Requires a computer with Bluetooth and GNU/Linux, as well as a USB storage device
+    * This is the only exploit that works on the **Wii mini**
