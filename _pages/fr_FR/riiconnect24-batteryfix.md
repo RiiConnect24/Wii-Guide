@@ -2,14 +2,14 @@
 title: "RiiConnect24 FORE000006"
 ---
 
-{% include toc title="Table des matières" %}
+{% include toc title="Table of Contents" %}
 
-Si vous avez besoin d'aide pour quoi que ce soit concernant ce didacticiel, veuillez rejoindre [ le serveur RiiConnect24 Discord ](https://discord.gg/rc24) (recommandé) ou \[ envoyez-nous un e-mail à support@riiconnect24.net \](mailto: support @ riiconnect24 .net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-Si vous obtenez une erreur FORE000006, l'horloge de votre Wii est probablement mal réglée. Réglez-la à la date et à l'heure correctes, attendez moins d'une heure et la chaîne Météo devrait commencer à fonctionner.
+If you get error FORE000006, your Wii's clock is probably set incorrectly. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel should start working.
 
-[Retour à la page d'installation de RiiConnect24](riiconnect24)
+[Return to RiiConnect24 installation page](riiconnect24)
 {: .notice--info}
