@@ -4,45 +4,45 @@ title: "Kirby TV Channel"
 
 {% include toc title="Table of Contents" %}
 
-Kirby TV Channel jest kontrolowany i obsługiwany przez Striim Network, a nie RiiConnect24. Dołącz do ich serwera Discord [tutaj](https://discord.gg/seCnzxnE75).
+The Kirby TV Channel is controlled and operated by Striim Network, not RiiConnect24. Join their Discord server [here](https://discord.gg/seCnzxnE75).
 {: .notice--warning}
 
-Striim Network to usługa służąca przywróceniu kanałów wspierających odtwarzanie wideo, takich jak Kirby TV Channel i YouTube.
+Striim Network is a service dedicated to bringing back the channels that support video playback, such as Kirby TV Channel and YouTube.
 
-#### Będziesz potrzebował
+#### What you need
 
-* Karta SD lub urządzenie USB.
-* Konsola Wii z połączeniem Internetowym
-* Komputer oparty na systemie Windows lub Unix
+* An SD card or USB drive
+* A Wii with an Internet connection
+* A Windows or Unix based computer
 * [Kirby TV Channel Patcher](https://github.com/StriimNetwork/Kirby-TV-Channel-Patcher/releases)
 
-#### Instrukcje
+#### Instructions
 
-[Jeżeli potrzebujesz dokładnych instrukcji dotyczących instalacji plików WAD, naciśnij tutaj!](wiimodlite)
+[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
 {: .notice--info}
 
-1. Pobierz plik wykonywalny dla twojej architektury i systemu operacyjnego.
-2. Uruchom plik wykonywalny, a następnie naciśnij `1` dwukrotnie, aby rozpocząć proces patchowania.
-3. Po zakończeniu WAD będzie w folderze `WAD`, który znajduje się w tym samym katalogu co plik wykonywalny.
-4. Przenieś folder `WAD` z folderu głównego na Twojej karcie pamięci.
-5. Używając Twojego kontrolera, przejdź do `WAD Manager` oraz wejdź do folderu `wad`.
-6. Otwórz Homebrew Channel na Twoim Wii.
-7. Po ukońzconej pomyślnie instalacji, naciśnij przycisk HOME aby wyjść do Homebrew Channel.
-8. Używając Twojego kontrolera, przejdź do `WAD Manager` oraz wejdź do folderu `wad`.
-9. Podświetl WAD o nazwie `Kirby-TV-Channel-Patched(Striim).wad`, a następnie naciśnij przycisk `A`, aby zainstalować.
-10. Kiedy WAD zostanie pomyślnie zainstalowany, wróć do Wii Menu i uruchom kanał.
+1. Download the executable for your architecture and OS.
+2. Launch the executable then press `1` twice to start the patching process.
+3. When finished, the WAD will be in the `WAD` folder which is located in the same directory as the executable.
+4. Move the `WAD` folder to the root of your SD Card.
+5. Put your SD card or USB drive in your Wii.
+6. Launch the Homebrew Channel on your Wii.
+7. Launch Wii Mod Lite.
+8. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+9. Highlight the WAD named `Kirby-TV-Channel-Patched(Striim).wad`, then press the `A` button to install.
+10. When the WAD successfully installs, return to the Wii Menu and launch the channel.
 
 
 
-[Kontynuuj do WiiLink'a](wiilink)<br> WiiLink umożliwi Ci używanie kanałów eksluzywnych do Japoni, takie jak: Wii No Ma i Digicam Print Channel. Jest to opcjonalny krok.
+[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
 {: .notice--info}
 
-[Przejdź do strony przeznaczonej instalacji Wiimmfi](wiimmfi)<br> Wiimmfi pozwala Ci na granie w gry online po zakończeniu wsparcia serwisu Nintendo Wi-Fi Connection. Jest to opcjonalny krok.
+[Continue to WiiLink](wiilink)<br> WiiLink allows you to use the discontinued Japanese channels, such as Wii no Ma and the Digicam Print Channel. This is optional to install.
 {: .notice--info}
 
-[Przejdź do strony przeznaczonej instalacji Wiimmfi](wiimmfi)<br> Wiimmfi pozwala Ci na granie w gry online po zakończeniu wsparcia serwisu Nintendo Wi-Fi Connection. Jest to opcjonalny krok.
+[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
 {: .notice--info}
 
-[Przejdź do spisu stron](site-navigation)<br> Mamy wiele innych poradników, które mogą Ci się przydać.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 
