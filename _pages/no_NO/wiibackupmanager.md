@@ -2,7 +2,7 @@
 title: "Wii Backup Manager"
 ---
 
-{% include toc title="Innholdsfortegnelse" %}
+{% include toc title="Table of Contents" %}
 
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -23,7 +23,7 @@ To play multiple games, we recommend a USB-powered external hard drive for your 
 Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
-#### Instruksjoner
+#### Instructions
 
 ##### Section I - Downloading
 
@@ -38,7 +38,7 @@ Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as othe
 4. Select `Files` to add multiple games to the program, or select `Folder` to add a whole folder of games.
 5. Select `Transfer`, then select `Drive 1` to transfer the games over. It might take a while for the games to copy over.
 
-##### Valg når du er ferdig
+##### Options once complete
 
 [Continue to cIOS](cios)<br> cIOS is needed for your Wii to use a USB Loader.
 {: .notice--info}
