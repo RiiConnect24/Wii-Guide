@@ -2,52 +2,52 @@
 title: "Wii Backup Manager"
 ---
 
-{% include toc title="목차" %}
+{% include toc title="Table of Contents" %}
 
-튜토리얼에 관한 질문이 있다면, [RiiConnect24 디스코드 서버](https://discord.gg/rc24) 에 가입하거나(권장) [support@riiconnect24.net에 이메일을 보내세요](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Wii 백업 매니저는 USB 드라이브로 Wii 게임을 복사하는 프로그램으로서 Wii에서 게임을 플레이 할 수 있게 합니다. 또한 [GameTDB](https://gametdb.com/)에서 게임 커버를 받을 수도 있으며 가지고 있는 게임을 목록화하는데 사용할 수 있습니다. 이 튜토리얼은 컴퓨터에서 USB 드라이브로 게임을 어떻게 복사하는지 알려줍니다. 다른 기능은 사용하기 편한 인터페이스에서 할 수 있습니다.
-#### 필요한 것
+Wii Backup Manager is a program to copy Wii games from your computer to a USB drive so you can play the games on your Wii. It also can download game covers from [GameTDB](https://gametdb.com/) and can be used to list what games you have. This tutorial will tell you how to copy over games from your computer to your USB drive. The other features are able to be used in the easy-to-use interface.
+#### What you need
 
-* USB 드라이브
+* A USB drive
 * [Wii Backup Manager](https://static.wiidatabase.de/Wii-Backup-Manager.zip)
 
 
-macOS를 사용한다면 [Witgui](https://desairem.com/wordpress/category/witgui-download/)를, Windows, macOS와 Linux를 사용한다면 [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion)을 권장드립니다. Wii 백업 매니저는 Windows와만 호환됩니다.
+We recommend you copy games over with [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux. Wii Backup Manager is only compatible with Windows.
 {: .notice--info}
 
-게임을 플레이하기 위해선, Wii를 위한 USB 외장하드를 권장드립니다. 이 가이드에서는 "USB 드라이브"로 설명드리겠습니다. 시장에서 찾을 수 있는 대부분의 제품은 USB 2 하위 호환 기능이 있는 경우 잘 작동합니다. 1TB 이상의 용량의 드라이브도 작동합니다. 플래시 드라이브도 작동하나, 플래시 드라이브의 용량으로 인해 많은 게임을 담을 수 없을겁니다.
+To play multiple games, we recommend a USB-powered external hard drive for your Wii. We will refer to it as a "USB drive" in this guide. Most of the ones you can find on the market should work fine if they have USB 2 backwards compatibility. Drives with 1 TB or more in capacity will work. A flash drive will also work, but due to the size of a flash drive, it won't be able to store as many games.
 {: .notice--info}
 
-USB 드라이브가 FAT32나 NTFS로 포맷되었는지 확인하세요. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
+Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
-#### 방법
+#### Instructions
 
-##### 섹션 I - 다운로드
+##### Section I - Downloading
 
-1. Wii Backup Manager의 압축을 풀고, 실행하세요.
-2. USB 드라이브를 컴퓨터에 삽입하세요.
+1. Extract Wii Backup Manager, and launch the program.
+2. Insert your USB drive into your computer.
 
-##### 섹션 II - 게임 복사하기
+##### Section II - Copying Games Over
 
-1. `Drive 1`탭으로 이동한 뒤 `Drive`를 선택하세요.
-2. Wii 게임에 사용하는 드라이브를 선택하세요.
-3. `Files` 탭으로 이동한 뒤, `Add`를 누르세요.
-4. 여러 게임을 프로그램에 담으려면 `Files`를 누르거나, 게임 폴더를 전부 담으려면 `Folder`를 선택하세요.
-5. `Transfer`를 누르고, 옮기기 위해서 `Drive 1`을 선택하세요. 게임이 복사되는데 시간이 걸릴 수 있습니다.
+1. Go to the `Drive 1` tab, then select `Drive`.
+2. Select the drive that you're using for the Wii games.
+3. Go to the `Files` tab, then select `Add`.
+4. Select `Files` to add multiple games to the program, or select `Folder` to add a whole folder of games.
+5. Select `Transfer`, then select `Drive 1` to transfer the games over. It might take a while for the games to copy over.
 
-##### 끝난 뒤 할 수 있는 것
+##### Options once complete
 
-[cIOS로 계속하기](cios)<br> cIOS는 Wii에서 USB 로더를 사용하기 위해 필요합니다.
+[Continue to cIOS](cios)<br> cIOS is needed for your Wii to use a USB Loader.
 {: .notice--info}
 
-[USB Loader GX로 계속하기](usbloadergx) USB Loader GX는 USB 로더로서 Wii의 USB 드라이브에서 게임을 플레이 할 수 있게 합니다.
+[Continue to USB Loader GX](usbloadergx) USB Loader GX is a USB Loader that you can use to play games on your Wii from a USB drive.
 {: .notice--info}
 
-[WiiFlow로 계속하기](wiiflow) WiiFlow는 USB 로더로서 Wii의 USB나 SD 카드에서 게임을 플레이 할 수 있게 합니다.
+[Continue to WiiFlow](wiiflow) WiiFlow is a USB Loader that you can use to play games on your Wii from a USB drive or SD Card.
 {: .notice--info}
 
-[사이트 네비게이션으로 계속하기](site-navigation)<br>당신이 좋아할만한 많은 튜토리얼이 있습니다.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
