@@ -1,5 +1,5 @@
 ---
-title: "Einstieg"
+title: "Get Started"
 ---
 
 {% include toc title="Inhaltsverzeichnis" %}
@@ -13,25 +13,25 @@ Auch wenn deine Wii in der Vergangenheit bereits einen Softmod erhalten hat, kan
 Alle Exploits verwenden den HackMii-Installer und führen zum selben Endergebnis.
 {: .notice--info}
 
-Obwohl du diese Anleitung ohne eine SD-Karte befolgen kannst, wirst du nicht in der Lage sein, NAND-Sicherungen mittels BootMii zu erstellen oder wiederherzustellen und du wirst manchen Homebrew nicht benutzen können.
+Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
 {: .notice--info}
 
-Fall dein Wii-Menü noch nicht auf Version 4.3 aktualisiert wurde, benutze str2hax oder FlashHax um den Homebrew-Kanal zu installieren, und folge anschließend dem [Update Guide](update), um es auf 4.3 zu aktualisieren.
+If your Wii Menu is not on version 4.3, use str2hax or FlashHax to install the Homebrew Channel, and then follow the [update guide](update) to update to 4.3.
 {: .notice--info}
 
-Diese Anleitung ist für die originale Wii und Wii mini (inklusive der Wii Family Edition) mit der aktuellsten Systemversion (4.3) geeignet. Nutze sie nicht auf einer Wii U (vWii)! Falls du Homebrew auf einer Wii U installieren möchtest, [folge dieser Anleitung](https://wiiu.hacks.guide).
+This guide is for the original Wii and Wii mini only (including the Wii Family Edition). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### Wähle den zu verwendenden Exploit
 
-Diese Exploits sind von der einfachsten hin zur schwierigsten Handhabung sortiert.
+These exploits are sorted by easiest to hardest difficulty of use.
 
-- [str2hax](str2hax) - Exploit, der die Wii EULA benutzt
-    * Benötigt eine Internet-Verbindung und die Änderung des DNS-Servers
-- [LetterBomb](letterbomb) - Exploit, der die Wii-Pinnwand benutzt
-    * Benötigt eine SD-Karte
-- [FlashHax](flashhax) - Exploit, der den Internet-Kanal nutzt
-    * Benötigt einen installierten Internet-Kanal und eine Internetverbindung
-- [BlueBomb](bluebomb) - Exploit, der Bluetooth benutzt
-    * Erfordert einen Computer mit Bluetooth und GNU/Linux, sowie ein USB-Speichergerät
-    * Dies ist der einzige Exploit, der auf der **Wii mini** funktioniert
+- [str2hax](str2hax) - Exploit that uses the Wii EULA
+    * Requires an Internet connection and changing the DNS server
+- [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board
+    * Requires an SD card
+- [FlashHax](flashhax) - Exploit that uses the Internet Channel
+    * Requires the Internet Channel installed, and an Internet connection
+- [BlueBomb](bluebomb) - Exploit that uses Bluetooth
+    * Requires a computer with Bluetooth and GNU/Linux, as well as a USB storage device
+    * This is the only exploit that works on the **Wii mini**
