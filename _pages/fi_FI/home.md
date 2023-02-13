@@ -1,40 +1,40 @@
 ---
 layout: splash
-title: "Wii Opas"
+title: "Wii Guide"
 header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: "Täydellinen opas Nintendo Wii:si modaamiseen."
+excerpt: "The complete guide to modding your Nintendo Wii."
 ---
 
-Opas on saatavilla myös muilla kielillä! Vaihtaaksesi kieltä, paina kuvaketta yläoikealla ja vaihda kieltäsi.
+The guide is also available in other languages! To change the language, please press the icon at top right and change your language.
 {: .notice--info}
 
-## Mitä on "homebrew"?
+## What is "homebrew"?
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) viittaa ohjelmistoihin, joita Nintendo ei ole valtuuttanut. Tämä voi sisältää pelejä, apuohjelmia, emulaattoreita ja paljon muuta!
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to software not authorized by Nintendo. This can include games, utilities, emulators and much more!
 
-Homebrew:ta voidaan suorittaa Nintendo Wii:lläsi ilmaiseksi käyttämällä hyödyksi bugeja Wii:n ohjelmistoissa. Muokkaukset, jotka asennetaan seuraamalla tätä opasta, antavat sinulle helpon ja pysyvän pääsyn Wii homebrew:hun.
+Running homebrew on your Nintendo Wii can be done for free by exploiting bugs in Wii's software. The modifications installed by following this guide will give you easy and persistent access to Wii homebrew.
 
-## Mitä voin tehdä homebrew:lla?
+## What can I do with homebrew?
 
-Tässä on lista asioista, joita voit tehdä käyttämällä homebrew:ta. Vaikka tämä lista ei missään nimessä ole kaiken kattava, sinun pitäisi saada hyvä idea siitä, mikä on mahdollista, ja tämä opas auttaa sinua pääsemään helposti alkuun.
+Here's a list of things you can do using homebrew. While this list is by no means totally comprehensive, you should have a good idea of what is possible, and the guide will help you easily get started.
 
-- Korvaa pelilevykkeen sisältöjä (sallii sinun ladata pelimuokkauksia) käyttämällä [Riivolution](http://www.wiibrew.org/wiki/Riivolution):ia.
-- Asenna teemoja Wii Menu:usi [MyMenuify](themes):n avulla.
-- Asenna USB-lataaja, kuten [WiiFlow](wiiflow) tai [USB Loader GX](usbloadergx) käynnistääksesi kaikki suosikkipelisi USB-asemalta ja muuta.
-- Varmuuskopioi levykkeitäsi [CleanRip](/dump-games):n avulla ja asennettuja pelejä ja sovelluksia [YABDM](dump-wads):n avulla.
-- Varmuuskopioi ja palauta tallennustiedostojasi [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/):n avulla.
-- Lataa uusia homebrew-sovelluksia [Homebrew Browser](hbb):n avulla.
-- Palauta lopetetut online-palvelut, kuten [WiiConnect24](riiconnect24) & [Nintendo WFC palvelut](wiimmfi).
-- Varmuuskopioi ja palauta kopioita Wii:si järjestelmämuistista (NAND) käyttämällä [BootMii](bootmii):ta.
-- Suojaa Wii:täsi muuttumasta tiiliskiveksi [Priiloader](priiloader):n ja BootMii:n avulla.
-- Muuta Wiisi mediasoittimeksi [WiiMC](https://oscwii.org/library/app/wiimc-ss): n avulla.
+- Patch game disc contents (allowing you to load game modifications) using [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
+- Install themes to your Wii Menu using [MyMenuify](themes).
+- Install a USB Loader like [WiiFlow](wiiflow) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
+- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](dump-wads)
+- Back up and restore your save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
+- Download new homebrew apps with the [Homebrew Browser](hbb)
+- Restore discontinued online services, such as [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
+- Backup and restore copies of your Wii system memory (NAND) using [BootMii](bootmii).
+- Protect your Wii from bricks using [Priiloader](priiloader) and BootMii.
+- Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
 
 
-## Oletko valmis?
+## Ready?
 
-Aloita [valitsemalla exploit:isi](get-started)!
+Get started by [choosing your exploit](get-started)!
 {: .notice--info}
