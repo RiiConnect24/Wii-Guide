@@ -64,9 +64,9 @@ You will now install the Food Channel and Set Personal Data channels.
 1. Inserta la tarjeta SD o unidad USB en tu Wii.
 2. Inicia el Canal Homebrew en tu Wii.
 3. Inicie Wii Mod Lite.
-4. Usando la cruz de control en tu Wiimote, selecciona `WAD Manager` (Administrador de WADs), y luego abre la carpeta `wad`.
+4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 5. Highlight the Food Channel and Set Personal Data WADs by pressing the + Button over each of them. When all the WADs are selected, press A twice to install the WADs.
-6. Una vez que se hayan instalado correctamente, oprime el botón HOME para volver al Canal Homebrew.
+6. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
 ##### Section V - Setting your personal data
 
