@@ -2,7 +2,7 @@
 title: "Priiloader"
 ---
 
-{% include toc title="Innholdsfortegnelse" %}
+{% include toc title="Table of Contents" %}
 
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -19,7 +19,7 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your
 - An SD card or USB drive
 - [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
-#### Instruksjoner
+#### Instructions
 
 ##### Section I - Downloading/Installing
 
