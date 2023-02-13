@@ -4,26 +4,26 @@ title: "cIOS"
 
 {% include toc title="Table of Contents" %}
 
-В этом руководстве мы расскажем вам, как установить cIOS (custom IOS). Это необходимо, если вы хотите загружать игры с помощью USB-загрузчика. Некоторые homebrew-приложения могут работать лучше при использовании cIOS.
+This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
 
 ![d2x cIOS Installer](/images/cios/cIOS.png)
 
-Если у вас Wii U (vWii), следуйте [этому руководству](https://wiiu.hacks.guide/#/vwii-modding) для установки cIOS. Попытки установки любой другой cIOS на vWii не сработают.
+If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
 {: .notice--info}
 
-Если у вас Wii mini, установите [эту cIOS](cios-mini). Попытки установки любой другой cIOS на Wii mini не сработают.
+If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
 {: .notice--info}
 
-#### Что вам понадобится
+#### What you need
 
 - A Wii
-- SD-карта или USB-накопитель
+- An SD card or USB drive
 - [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
-Убедитесь, что если вы используете SD-карту, переключатель находится в разблокированной позиции иначе вы не сможете выбрать правильные параметры в установщике
+Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
 {: .notice--warning}
 
-#### Инструкции
+#### Instructions
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'with-connection')">With an Internet connection to the Wii</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'without-connection')">Without an Internet connection to the Wii</button>
@@ -61,8 +61,8 @@ Select cIOS version: 65535
 
 ![Install cIOS 249](/images/cios/Install249.png)
 
-1. Как выбрали, дважды нажмите A для установки.
-1. После установки, нажмите A, чтобы вернуться, и выберите следующие параметры:
+1. Once set, press A twice to install.
+1. When done installing, press A to return, and set the options to the following:
 
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
@@ -73,8 +73,8 @@ Select cIOS version: 65535
 
 ![Install cIOS 250](/images/cios/Install250.png)
 
-1. Как выбрали, дважды нажмите A для установки.
-1. После установки, нажмите A, чтобы вернуться, и выберите следующие параметры:
+1. Once set, press A twice to install.
+1. When done installing, press A to return, and set the options to the following:
 
 ```
 Select cIOS: v10 beta52 d2x-v10-beta52
@@ -87,13 +87,13 @@ Select cIOS version: 65535
 
 1. Once set, press A twice again to install, and then exit once done.
 
-#### Устранение проблем
+#### Troubleshooting
 
 {% capture bruh %}
 Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
 
-- Использование клавиатуры в Animal Crossing: City Folk.
-- Запуск SpongeBob's Boating Bash.
+- Using a keyboard in Animal Crossing: City Folk.
+- Running SpongeBob's Boating Bash.
 
 A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
 {% endcapture %}
@@ -119,15 +119,15 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
     - Try using 250 or 251, if 249 doesn't work.
 1. Press Save and try to load the game.
 </div>
-##### Опции по завершении
+##### Options once complete
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. Это необязательно для установки.
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 
-Теперь вы можете использовать homebrew-приложения, такие как [USB Loader GX](usbloadergx) и [WiiFlow](wiiflow).
+You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: .notice--info}
 
 <script>
