@@ -1,17 +1,17 @@
 ---
 main:
   - 
-    title: Wii Opas
+    title: Wii Guide
     url: /
   - 
-    title: Aloita tästä
-    url: aloita
+    title: Start Here
+    url: get-started
   - 
-    title: Sivuston navigointi
-    url: sivuston-navigointi
+    title: Site Navigation
+    url: site-navigation
   - 
-    title: UKK
-    url: ukk
+    title: FAQ
+    url: faq
   - 
     title: RiiConnect24
     url: riiconnect24
@@ -20,36 +20,36 @@ main:
     url: wiimmfi
 top:
   - 
-    title: Tämä sivusto käyttää evästeitä näyttääkseen nykyisen oppaan edistymisen sivupalkissa ja muuten parantaakseen sivustoa.
+    title: This website uses cookies to display the current guide progress on the sidebar and otherwise enhance the site.
 bottom:
   - 
-    title: Englanninkielistä tukea varten, pyydä apua <a href="https://discord.gg/b4Y7jfD">RiiConnect24:n Discord-palvelimella</a>.
+    title: For support in English, ask for help at <a href="https://discord.gg/b4Y7jfD">RiiConnect24 on Discord</a>.
 footer:
   - 
-    title: Lähde
+    title: Source
     url: https://github.com/RiiConnect24/Wii-Guide/
   - 
-    title: Sivuston navigointi
-    url: sivuston-navigointi
+    title: Site Navigation
+    url: site-navigation
   - 
-    title: Lahjoitukset
-    url: lahjoitukset
+    title: Donations
+    url: donations
 sidebar_title:
   - 
-    title: Kokonaisedistyminen
+    title: Overall Progress
 sidebar_pages:
   - 
-    title: Wii Opas
+    title: Wii Guide
     url: /
   - 
-    title: UKK
-    url: ukk
+    title: FAQ
+    url: faq
   - 
-    title: Lahjoitukset
-    url: lahjoitukset
+    title: Donations
+    url: donations
   - 
-    title: Tekijät
-    url: tekijät
+    title: Credits
+    url: credits
   - 
     title: RiiConnect24
     url: riiconnect24
