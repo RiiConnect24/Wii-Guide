@@ -1,8 +1,8 @@
 ---
-title: "Beginnen"
+title: "Get Started"
 ---
 
-{% include toc title="Inhoudsopgave" %}
+{% include toc title="Table of Contents" %}
 
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -19,19 +19,19 @@ Although you can follow this guide without an SD card, you will not be able to c
 If your Wii Menu is not on version 4.3, use str2hax or FlashHax to install the Homebrew Channel, and then follow the [update guide](update) to update to 4.3.
 {: .notice--info}
 
-This guide is for the original Wii and Wii mini only (including the Wii Family Edition), with the latest firmware (4.3). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
-{: .notice--waarschuwing}
+This guide is for the original Wii and Wii mini only (including the Wii Family Edition). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
+{: .notice--warning}
 
-### Kies een exploit om deze te gebruiken
+### Choose an exploit to use
 
 These exploits are sorted by easiest to hardest difficulty of use.
 
 - [str2hax](str2hax) - Exploit that uses the Wii EULA
     * Requires an Internet connection and changing the DNS server
 - [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board
-    * Een SD-kaart vereist
+    * Requires an SD card
 - [FlashHax](flashhax) - Exploit that uses the Internet Channel
     * Requires the Internet Channel installed, and an Internet connection
 - [BlueBomb](bluebomb) - Exploit that uses Bluetooth
     * Requires a computer with Bluetooth and GNU/Linux, as well as a USB storage device
-    * Dit is de enige exploit die werkt op de **Wii mini**
+    * This is the only exploit that works on the **Wii mini**
