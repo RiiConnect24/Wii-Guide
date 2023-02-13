@@ -56,7 +56,7 @@ sitemap: false
 + [RSSMii entfernen](rssmii-remove)
 + [RiiTag](riitag)
 + [Setting RTC Time](rtc)
-+ [Wii-Menü auf v4.3 aktualisieren](update)
++ [Updating Wii Menu to v4.3](update)
 + [USB Loader GX](usbloadergx)
 + [Wii Backup Manager](wiibackupmanager)
 + [WiiFlow](wiiflow)
