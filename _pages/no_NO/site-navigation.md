@@ -1,5 +1,5 @@
 ---
-title: "Side Navigasjon"
+title: "Site Navigation"
 layout: single
 sitemap: false
 ---
@@ -36,7 +36,7 @@ sitemap: false
 + [BlueBomb](bluebomb)
 * [BootMii Backup](bootmii)
 + [cIOS](cios)
-+ [Det du bør og ikke bør gjøre med Wii Modding](dosanddonts)
++ [Dos and Don'ts of Wii Modding](dosanddonts)
 + [FlashHax](flashhax)
 + [Homebrew Browser](hbb)
 + [Homebrew Channel](hbc)
