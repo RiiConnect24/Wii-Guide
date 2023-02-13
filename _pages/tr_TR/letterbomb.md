@@ -2,27 +2,27 @@
 title: "LetterBomb"
 ---
 
-Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![LetterBomb](/images/letterbomb.png)
 
-LetterBomb, Wii'nizdeki Wii Message Board'u tetikleyerek kullanabileceğiniz bir exploittir.
+LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
 
-#### İhtiyacınız olan şeyler
+#### What you need
 - An SD card that is no more than 32GB in size
-- Sistem Menüsü 4.3 olan bir Wii
+- A Wii on System Menu version 4.3
 
-#### Talimatlar
+#### Instructions
 
 
-1. Wii'nizde, `Wii Ayarları` -> `İnternet` -> `Konsol Bilgisi` kısmına gidip konsolunuzun MAC adresini not alın.
-1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, ensure `Bundle the HackMii Installer for me!` is checked, and cut either wire ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
-1. İndirilen ZIP dosyasının içeriğini SD Kartınızın köküne çıkartın.
+1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
+1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, ensure `Bundle the HackMii Installer for me!` is checked, and cut either wire. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
+1. Extract the contents of the downloaded ZIP to the root of your SD card.
 1. Take out your SD card and insert it in your Wii.
    - The SD card must be inserted in the SD card slot located in the front of the Wii. Using a USB adapter plugged into the Wii's USB port will not work.
-1. Wii'nizde, Wii Menü'yü açıp Wii Mesaj Tahtası'nı açın.
-1. Bomba simgeli kırmızı harfi yükleyin.
+1. On your Wii, return to the Wii Menu and then open the Wii Message Board.
+1. Load the red letter with a bomb icon.
    - Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
    - In various scenarios, you may need to look at the previous or next day to find it.
    - If you don't see the red letter, you may be using an unsupported SD card that's greater than 32GB in size.
@@ -34,5 +34,5 @@ LetterBomb, Wii'nizdeki Wii Message Board'u tetikleyerek kullanabileceğiniz bir
 
 ![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
 
-[Homebrew Channel ve BootMii Yüklemesinden devam edin](hbc)
+[Continue to Homebrew Channel and BootMii Installation](hbc)
 {: .notice--info}
