@@ -23,13 +23,13 @@ This guide is for [Dolphin Emulator](https://dolphin-emu.org) only.
 DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
-### לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
+### What you need
 
 * A computer with either Windows 10 or newer or any Unix-based system
 * [Dolphin](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-#### הוראות
+#### Instructions
 
 ##### Section I - Installing Dolphin
 
