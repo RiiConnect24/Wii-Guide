@@ -1,5 +1,5 @@
 ---
-title: "RiiConnect24 Löschwerkzeug"
+title: "RiiConnect24 Clear Tool"
 ---
 
 {% include toc title="Inhaltsverzeichnis" %}
@@ -9,25 +9,25 @@ Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [Rii
 
 ![RiiConnect24-Logo](/images/WiiRC24Logo.jpg)
 
-RiiConnect24 Clear Tool ist eine Homebrew Anwendung, die diese spezifischen Fehler und Probleme beheben kann:
+RiiConnect24 Clear Tool is a homebrew application that can fix these specific errors and issues:
 
-+ Nachricht über die Einstellung der Kanäle
++ Discontinued Message
 + NEWS/FORE000001
 + NEWS/FORE000003
 + NEWS/FORE000005
 + NEWS/FORE000099
 + NEWS000006
-+ Löscht Wii Postfächer für den Fall, dass diese voll sind (dies kann Wii Mail reparieren)
++ Clears out Wii mailboxes in case they are full (this can fix Wii Mail)
 
-#### Voraussetzungen
-* Eine SD-Karte bzw. ein USB-Laufwerk
-* [RiiConnect24 Löschwerkzeug](https://oscwii.org/library/app/RC24-Clear-Tool)
+#### What you need
+* Eine SD-Karte oder ein USB-Laufwerk
+* [RiiConnect24 Clear Tool](https://oscwii.org/library/app/RC24-Clear-Tool)
 
 #### Anleitung
 
-1. Entpacke RiiConnect24 Clear Tool und verschiebe es in den `apps`-Ordner auf deiner SD-Karte bzw. deinem USB-Laufwerk.
-2. Verbinde deine SD-Karte oder dein USB-Laufwerk mit deiner Wii und starte Priiloader über den Homebrew-Kanal.
-3. Die App wird dir helfen, alle Probleme die du hast, zu lösen.
+1. Extract RiiConnect24 Clear Tool and put it in the `apps` folder on your SD card or USB drive.
+2. Insert your SD card or USB drive into your Wii, and launch RiiConnect24 Clear Tool from the Homebrew Channel.
+3. The app will help you resolve whatever problem you are having.
 
-[Zurückkehren zur RiiConnect24 Installationsseite](riiconnect24)
+[Return to RiiConnect24 installation page](riiconnect24)
 {: .notice--info}
