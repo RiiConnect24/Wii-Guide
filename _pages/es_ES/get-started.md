@@ -7,31 +7,31 @@ title: "Prepárate"
 Si necesitas ayuda para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado) o [envíanos un correo electrónico a support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Incluso si tu Wii ya ha sido softmodeada en el pasado, seguir estos pasos puede asegurar que tu softmod esté actualizado.
+Even if your Wii has already been softmodded in the past, following these steps can still ensure that your softmod is up to date.
 {: .notice--info}
 
-Todos los exploits ejecutan el HackMii Installer, y tienen el mismo resultado final.
+All of the exploits run the HackMii Installer, and have the same end result.
 {: .notice--info}
 
-Aunque puede seguir esta guía sin una tarjeta SD, no podrá crear o restaurar una copia de seguridad NAND usando BootMii, y no podrá usar algunos homebrew.
+Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
 {: .notice--info}
 
-Si la version del menu de tu consola Wii no es la versión 4.3, usa str3hax o FlashHax para instalar el canal Homebrew, y sigue la [guia de actualización](update) para actualizar tu Wii a la versión 4.3.
+If your Wii Menu is not on version 4.3, use str2hax or FlashHax to install the Homebrew Channel, and then follow the [update guide](update) to update to 4.3.
 {: .notice--info}
 
-Esta guía es para la wii mini y la Wii original (incluyendo la Wii Edición Familia), con el firmware más reciente (4.3). ¡No uses esto en una Wii U (vWii)! Si quieres instalar homebrew en una Wii U, [sigue esta guia](https://wiiu.hacks.guide).
+This guide is for the original Wii and Wii mini only (including the Wii Family Edition). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### Elige el exploit que quieres usar
 
-Estas vulnerabilidades están ordenadas por la dificultad de uso más fácil a la más difícil.
+These exploits are sorted by easiest to hardest difficulty of use.
 
 - [str2hax](str2hax) - Exploit que usa el EULA de Wii
-    * Requiere una conexión a Internet y cambiar el servidor DNS
+    * Requires an Internet connection and changing the DNS server
 - [LetterBomb](letterbomb) - Exploit que usa el tablón de Wii.
-    * Necesita una Tarjeta SD
+    * Requires an SD card
 - [FlashHax](flashhax) - Exploit que usa el Canal Internet
-    * Necesita el Canal Internet instalado y una conexión a Internet
+    * Requires the Internet Channel installed, and an Internet connection
 - [BlueBomb](bluebomb) - Exploit que usa Bluetooth
-    * Necesita un ordenador con Bluetooth y GNU/Linux, y una unidad USB
+    * Requires a computer with Bluetooth and GNU/Linux, as well as a USB storage device
     * Este es el único exploit que funciona en el **Wii Mini**
