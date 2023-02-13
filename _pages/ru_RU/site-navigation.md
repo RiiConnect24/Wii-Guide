@@ -1,13 +1,13 @@
 ---
-title: "Навигация по сайту"
+title: "Site Navigation"
 layout: single
 sitemap: false
 ---
 
-![WiiТуториалы](/images/WiiTutorials.jpg)
+![WiiTutorials](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
-**Рекомендуемые разделы**
+**Featured**
 
 + [cIOS](cios)
 + [Kirby TV Channel](kirby-tv)
@@ -27,14 +27,14 @@ sitemap: false
 + [WiiLink Demae Domino's](wiilink-demae-dominos)
 + [Wiimmfi](wiimmfi)
 + [Kirby TV Channel](kirby-tv)
-+ [WiiWare Патчер](wiiwarepatcher)
++ [WiiWare Patcher](wiiwarepatcher)
 + [Deleting VFFs](deleting-vffs)
 + [Fixing FORE000006](riiconnect24-batteryfix)
 + [Fixing NEWS000006](news000006)
 
-**Моддинг 101**
+**Modding 101**
 + [BlueBomb](bluebomb)
-* [BootMii Бэкап](bootmii)
+* [BootMii Backup](bootmii)
 + [cIOS](cios)
 + [Dos and Don'ts of Wii Modding](dosanddonts)
 + [FlashHax](flashhax)
@@ -46,14 +46,14 @@ sitemap: false
 + [Wii Mod Lite](wiimodlite)
 
 **Homebrew**
-+ [Создание ярлыков игр Wii](wiigsc)
++ [Creating Wii Game Shortcuts](wiigsc)
 + [How to dump Channels (WADs)](dump-wads)
 + [How to dump GameCube/Wii Games](dump-games)
-+ [Установка RSSMii](rssmii)
++ [Installing RSSMii](rssmii)
 + [Installing Wii Menu Themes](themes)
 + [Installing Wii Menu Themes on vWii](themes-vwii)
 + [Performing a SysCheck](syscheck)
-+ [Удаление RSSMii](rssmii-remove)
++ [Removing RSSMii](rssmii-remove)
 + [RiiTag](riitag)
 + [Setting RTC Time](rtc)
 + [Updating Wii Menu to v4.3](update)
@@ -62,13 +62,13 @@ sitemap: false
 + [WiiFlow](wiiflow)
 
 **Wii mini**
-+ [Установка Homebrew Channel на Wii mini](hbc-mini)
-+ [Установка cIOS на Wii mini](cios-mini)
++ [Installing the Homebrew Channel on the Wii mini](hbc-mini)
++ [Installing cIOS on the Wii mini](cios-mini)
 
-**Cайт**
-+ [Домашняя страница](/)
-+ [Начало работы](get-started)
-+ [Вопросы и Ответы](faq)
-+ [Пожертвования](donations)
+**Site**
++ [Home](/)
++ [Get Started](get-started)
++ [FAQ](faq)
++ [Donations](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
