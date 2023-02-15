@@ -1,7 +1,7 @@
 ---
 main:
   - 
-    title: Guía Wii
+    title: Wii Guide
     url: /
   - 
     title: Comenzar
@@ -39,7 +39,7 @@ sidebar_title:
     title: Progreso total
 sidebar_pages:
   - 
-    title: Guía Wii
+    title: Wii Guide
     url: /
   - 
     title: Preguntas frecuentes
