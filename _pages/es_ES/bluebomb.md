@@ -36,8 +36,8 @@ No es recomendable utilizar BlueBomb en la Wii original para instalar el Canal H
 1. Descarga el instalador HackMii del [sitio web de BootMii](https://bootmii.org/download/).
 - Si deseas recuperar tu consola de un brick, también deberás copiar la aplicación homebrew que deseas usar para repararla a la carpeta `/apps/`.
 1. Extrae el archivo `boot.elf` a la raíz de tu unidad USB.
-- (Por favor **no copies** el archivo `bootmini.elf` aún si estás usando una Wii mini. Su propósito es completamente diferente y no está relacionado con esta guía. Usa `boot.elf` en todos los casos). 1. Conecta la unidad USB a la consola. En la Wii mini, el puerto USB se encuentra en la parte trasera. En la Wii original, deberás usar el puerto inferior (o el derecho, si tu consola está en posición vertical). 2. Enciende la consola y ve a Opciones de Wii > Configuración de Wii. En la esquina superior derecha verás un código de cuatro caracteres como el que se muestra en la imagen de abajo. Dicho código indica la versión del sistema de tu consola. Toma nota de este, pues lo necesitarás más adelante. A continuación, apaga la consola. ![Versión del menú del sistema](/images/Wii/SystemMenuVersion.png)
-1. Inicia la distribución Linux y asegúrate de estar conectado a Internet.
+- (Por favor **no copies** el archivo `bootmini.elf`, aún si estás usando una Wii mini. Su propósito es completamente diferente y no está relacionado con esta guía. Usa `boot.elf` en todos los casos). 1. Conecta la unidad USB a la consola. En la Wii mini, el puerto USB se encuentra en la parte trasera. En la Wii original, deberás usar el puerto inferior (o el derecho, si tu consola está en posición vertical). 2. Enciende la consola y ve a Opciones de Wii > Configuración de Wii. En la esquina superior derecha verás un código de cuatro caracteres como el que se muestra en la imagen de abajo. Dicho código indica la versión del sistema de tu consola. Toma nota de este, pues lo necesitarás más adelante. A continuación, apaga la consola. ![Versión del menú del sistema](/images/Wii/SystemMenuVersion.png)
+1. Inicia la distribución Linux en tu computadora y asegúrate de estar conectado a Internet.
 1. Abre una Terminal.
 1. Ejecuta los siguientes comandos:
 ```bash
@@ -45,16 +45,16 @@ wget https://wii.guide/assets/files/bluebomb-helper.sh
 chmod +x bluebomb-helper.sh
 ./bluebomb-helper.sh
 ```
-1. A continuación se descargarán los archivos necesarios y responderás algunas preguntas sobre tu consola.
-  - Si tu consola es una Wii mini, se te pedirá que indiques la región. Esta se determina mediante la letra al final de la versión del sistema: `U` para **USA** (América) y `E` para **PAL** (Europa).
-  - Si has seleccionado la Wii original, deberás indicar la versión del sistema.
+1. A continuación, el asistente descargará los archivos necesarios y hará algunas preguntas sobre tu consola.
+  - Si tu consola es una Wii mini, se te pedirá que indiques la región del sistema. Esta se determina mediante la letra al final de la versión del sistema: `U` para **USA** (América) y `E` para **PAL** (Europa).
+  - Si has seleccionado la Wii original, deberás indicar el número de la versión del sistema.
 1. Enciende la consola y ** no  conectes** ningún Wii Remote.
-1. Presiona el botón SYNC de la consola repetidamente hasta que la Terminal muestre el mensaje `got connection handle`. En la Wii mini, este se ubica en el lado izquierdo de la consola, mientras que en la Wii original, enseguida de la ranura para tarjetas SD. Esto podría requerir múltiples intentos, por favor sé paciente.
+1. Presiona el botón SYNC de la consola repetidamente hasta que la Terminal muestre el mensaje `got connection handle`. En la Wii mini, dicho botón se ubica en el lado izquierdo de la consola (enseguida de la ranura para tarjetas SD en la Wii original). Esto podría requerir múltiples intentos, por favor sé paciente.
 
 Asegúrate de que la consola se encuentre cerca de tu computadora al momento de ejecutar el exploit, preferiblemente a una distancia no mayor a un metro.
 {: .notice--info}
 
-Después de unos segundos, la consola debería de iniciar el instalador HackMii. Si todo ha salido bien, ahora puedes apagar tu computadora, si es que así lo deseas.
+Después de unos segundos, la consola debería de iniciar el instalador HackMii. Si todo ha salido bien, ahora puedes apagar tu computadora, si así lo deseas.
 
 [Si estás usando una Wii original, haz clic aquí para avanzar a la instalación del Canal Homebrew y BootMii.](hbc)
 {: .notice--info}
