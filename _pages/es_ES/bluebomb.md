@@ -54,7 +54,7 @@ chmod +x bluebomb-helper.sh
 Asegúrate de que la consola se encuentre cerca de tu computadora al momento de ejecutar el exploit, preferiblemente a una distancia no mayor a un metro.
 {: .notice--info}
 
-Después de unos segundos, la consola debería de iniciar el instalador HackMii. Si todo ha salido bien, ahora puedes apagar tu computadora, si así lo deseas.
+Después de unos segundos, la consola debería de iniciar el instalador HackMii. Si todo ha salido bien, ahora puedes apagar tu computadora, si es que ya no deseas usarla.
 
 [Si estás usando una Wii original, haz clic aquí para avanzar a la instalación del Canal Homebrew y BootMii.](hbc)
 {: .notice--info}
