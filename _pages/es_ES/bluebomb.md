@@ -4,7 +4,7 @@ title: "BlueBomb"
 
 {% include toc title="Tabla de contenido" %}
 
-Te recomendamos **encarecidamente** no utilizar **ningún** video tutorial para modificar tu consola Wii mini, pues existe un gran riesgo de que esta sufra un **brick**.
+Te recomendamos **encarecidamente** no utilizar **ningún** video tutorial para modificar tu consola Wii mini, pues existe un gran riesgo de que esta quede **brickeada**.
 {: .notice--warning}
 
 Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en el [servidor de Discord](https://discord.gg/6ryxnkS) de Wii mini Hacking. Soporte disponible solo en inglés.
@@ -19,12 +19,12 @@ No es recomendable utilizar BlueBomb en la Wii original para instalar el Canal H
 
 #### Sección I - Requisitos
 - Una computadora con Linux
-  - Una máquina virtual podría funcionar, pero no es recomendable debido a la dificultad para configurar la conexión Bluetooth. De ser posible, utiliza una Live USB como se menciona más adelante.
+  - Una máquina virtual podría funcionar, pero no es recomendable debido a la dificultad para configurar la conexión Bluetooth. De ser posible, utiliza una Live USB como se describe más adelante.
   - Si tienes una Raspberry Pi, prueba a usarla, pues es probable que ya tenga Linux instalado.
   - El Subsistema de Windows para Linux o una Chromebook ejecutando el modo Linux *no funcionarán*, debido a que no tienen acceso directo al adaptador Bluetooth ni a los puertos USB del equipo.
   - Si no tienes Linux, [Ubuntu](https://ubuntu.com/download/desktop) es la opción más fácil de usar y se puede ejecutar en equipos que tengan Windows o macOS.
     - Si tu equipo es de 32 bits, deberás descargar [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
-    - Para los equipos de 64 bits se recomienda usar la versión LTS por su estabilidad, aunque la última versión también funcionará.
+    - Para los equipos de 64 bits se recomienda usar la edición LTS por su estabilidad, aunque la última versión también funcionará.
   - Puedes [crear una Live USB de Linux](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) y así ejecutarlo sin necesidad de instalar nada en tu equipo.
 - Un adaptador Bluetooth
   - Puedes usar el adaptador interno de tu equipo, en caso de que cuente con uno.
