@@ -1,5 +1,5 @@
 ---
-title: "Crear respaldo de NAND con BootMii"
+title: "Crear copia de seguridad de NAND con BootMii"
 ---
 
 {% include toc title="Tabla de contenido" %}
@@ -9,13 +9,13 @@ Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayud
 
 ![Logotipo de BootMii](/images/bootmii.png)
 
-Necesitarás una **tarjeta SD** para realizar los pasos de esta guía. Puedes saltar esta guía si no cuentas con una, aunque es muy recomendable crear un respaldo de NAND antes de continuar.
+Necesitas una **tarjeta SD** para crear una copia de seguridad de la NAND usando BootMii. Puedes saltar este tutorial en caso de que no cuentes con una, aunque es muy recomendable seguir este proceso antes de continuar modificando tu consola.
 {: .notice--warning}
 
-Es muy recomendable instalar BootMii como boot2 en caso de estar disponible para tu consola. De no ser así, también puedes instalarlo como un IOS.
+Se recomienda instalar BootMii como boot2 en caso de estar disponible para tu consola. De no ser así, solo podrás instalarlo como un IOS.
 {: .notice--info}
 
-Una de las funciones más importantes de BootMii es la capacidad de respaldar y restaurar los contenidos de la NAND (memoria interna) de la consola. Con esta guía aprenderás a crear un respaldo de la NAND de tu consola que podrás restaurar en el futuro en caso de ser necesario. Es recomendable crear un respaldo con regularidad, especialmente antes de hacer algo arriesgado con tu consola. Si sigues todos los pasos de nuestras guías con atención, no deberías de tener ningún problema con tu consola.
+Una de las funciones más importantes de BootMii es la capacidad de copiar y restaurar los contenidos de la NAND (memoria interna) de tu consola. En este tutorial aprenderás a crear una copia de seguridad de la NAND, que podrás restaurar en el futuro en caso de ser necesario. Es recomendable crear una copia de seguridad con regularidad, especialmente antes de hacer algo arriesgado con tu consola. Si sigues todos los pasos de nuestros tutoriales con atención, no deberías de tener ningún problema con tu consola.
 
 #### Requisitos
 * Una tarjeta SD con al menos 512 MB de espacio libre
