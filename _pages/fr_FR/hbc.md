@@ -48,5 +48,5 @@ Here's a tip - when installing homebrew applications on your SD Card or USB driv
 If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
 {: .notice--info}
 
-Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
+Conseil : vous pouvez savoir si BootMii est installé en tant que boot2 sur une Wii si votre lecteur de disque clignote très brièvement, seulement après le flash immédiat qui se produit lorsque vous appuyez sur le bouton POWER.
 {: .notice--info}
