@@ -30,18 +30,18 @@ Si has instalado BootMii como boot2, apaga y vuelve a encender la consola para i
     {: .notice--info}
 
 
-    Si después de seguir los pasos anteriores la pantalla se queda en negro y la luz de la ranura para discos comienza a parpadear, significa que los archivos de BootMii que van en la tarjeta SD no existen o están dañados. Para solucionar este problema, descarga [este archivo](https://static.hackmii.com/bootmii_sd_files.zip), extrae su contenido a la raíz de la tarjeta SD, y luego vuelve a intentarlo.
+    Si después de seguir los pasos anteriores la pantalla se queda en negro y la luz de la ranura para discos comienza a parpadear, significa que faltan los archivos de BootMii que van en la tarjeta SD o están dañados. Para solucionar este problema, descarga [este archivo ZIP](https://static.hackmii.com/bootmii_sd_files.zip), extrae su contenido a la raíz de la tarjeta SD, y luego vuelve a intentarlo.
     {: .notice--warning}
 
 3. Selecciona el botón con los engranajes.
 4. Elige la opción de la flecha verde.
-- A continuación se empezará a crear el respaldo de la NAND. Puedes ver el progreso en pantalla.
-- Los bloques defectuosos (que se muestran en negro) son normales, así que no te preocupes si ves algunos mientras se genera el respaldo.
-- Después de que el respaldo haya sido creado, este será analizado en busca de errores. Aunque se recomienda realizarlo, este paso es opcional y puedes saltarlo pulsando el botón EJECT en la consola. Ten en cuenta que si tienes un disco insertado, esto lo expulsará.
+- A continuación se empezará a crear la copia de seguridad de la NAND. Puedes ver el progreso en pantalla.
+- Los bloques defectuosos (que se muestran en negro) son normales, así que no te preocupes si ves algunos mientras se genera la copia de seguridad.
+- Después de que la copia de seguridad haya sido creada, esta será analizada en busca de errores. Este paso es opcional y puedes saltarlo pulsando el botón EJECT de la consola, aunque se recomienda realizarlo. Ten en cuenta que si tienes un disco insertado, presionar EJECT lo expulsará.
 5. Una vez que el proceso haya finalizado, vuelve al menú anterior pulsando cualquier botón.
-6. Selecciona el botón con la flecha negra y después el logotipo de Wii o el Canal Homebrew para salir de BootMii y volver a donde desees.
+6. Para salir de BootMii, oprime el botón con la flecha negra y después el que tiene el icono del menú de Wii o el Canal Homebrew para salir a donde desees.
 
-Las instrucciones para restaurar un respaldo desde la tarjeta SD son las mismas, con la única diferencia en el paso 4, donde deberás elegir el botón con la flecha roja. Esto puede ayudarte a recuperar tu consola de un brick, en el improbable caso de que necesites hacerlo.
+Las instrucciones para restaurar una copia de seguridad desde la tarjeta SD son las mismas, con la única diferencia en el paso 4, donde deberás oprimir el botón con la flecha roja. Esto puede ayudarte a recuperar tu consola de un brick, en el improbable caso de que necesites hacerlo.
 {: .notice--info}
 
 Es muy recomendable copiar el respaldo de NAND (los archivos `nand.bin` y `keys.bin` ubicados en la raíz de la tarjeta SD) a tu computadora o la nube.
