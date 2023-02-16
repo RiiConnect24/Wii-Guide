@@ -44,7 +44,7 @@ Si has instalado BootMii como boot2, apaga y vuelve a encender la consola para i
 Las instrucciones para restaurar una copia de seguridad desde la tarjeta SD son las mismas, con la única diferencia en el paso 4, donde deberás oprimir el botón con la flecha roja. Esto puede ayudarte a recuperar tu consola de un brick, en el improbable caso de que necesites hacerlo.
 {: .notice--info}
 
-Es muy recomendable copiar el respaldo de NAND (los archivos `nand.bin` y `keys.bin` ubicados en la raíz de la tarjeta SD) a tu computadora o la nube.
+Para evitar perder los archivos de la copia de seguridad, te sugerimos copiar los archivos `nand.bin` y `keys.bin`, ubicados en la raíz de la tarjeta SD, a tu computadora o un almacenamiento en la nube.
 {: .notice--info}
 
 [Avanzar a la instalación de Priiloader](priiloader)<br> Priiloader añade una capa de protección contra bricks, por lo que recomendamos su instalación, especialmente si solo pudiste instalar BootMii como IOS.
