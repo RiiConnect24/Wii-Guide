@@ -1,16 +1,16 @@
 ---
 main:
   - 
-    title: Wii Guide
+    title: Wii 改機手冊
     url: /
   - 
-    title: Start Here
+    title: 由此處開始
     url: get-started
   - 
-    title: Site Navigation
+    title: 網站導覽
     url: site-navigation
   - 
-    title: FAQ
+    title: 常見問題
     url: faq
   - 
     title: RiiConnect24
@@ -20,35 +20,35 @@ main:
     url: wiimmfi
 top:
   - 
-    title: This website uses cookies to display the current guide progress on the sidebar and otherwise enhance the site.
+    title: 此網站透過 Cookies 來顯示您手冊的操作進度以及提升此網站的使用經驗。
 bottom:
   - 
-    title: For support in English, ask for help at <a href="https://discord.gg/b4Y7jfD">RiiConnect24 on Discord</a>.
+    title: 若需英語支援，請於<a href="https://discord.gg/b4Y7jfD">Discord 上的 RiiConnect24 伺服器</a>發問。
 footer:
   - 
-    title: Source
+    title: 原始碼
     url: https://github.com/RiiConnect24/Wii-Guide/
   - 
-    title: Site Navigation
+    title: 網站導覽
     url: site-navigation
   - 
-    title: Donations
+    title: 贊助
     url: donations
 sidebar_title:
   - 
-    title: Overall Progress
+    title: 整體進度
 sidebar_pages:
   - 
-    title: Wii Guide
+    title: Wii 改機手冊
     url: /
   - 
-    title: FAQ
+    title: 常見問題
     url: faq
   - 
-    title: Donations
+    title: 贊助
     url: donations
   - 
-    title: Credits
+    title: 製作群
     url: credits
   - 
     title: RiiConnect24
