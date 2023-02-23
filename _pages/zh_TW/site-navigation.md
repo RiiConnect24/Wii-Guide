@@ -33,7 +33,7 @@ sitemap: false
 + [Fixing NEWS000006](news000006)
 
 **Modding 101**
-+ [BlueBomb](bluebomb)
++ [使用 BlueBomb 漏洞](bluebomb)
 * [BootMii Backup](bootmii)
 + [cIOS](cios)
 + [Dos and Don'ts of Wii Modding](dosanddonts)
