@@ -1,5 +1,5 @@
 ---
-title: "FAQ"
+title: "常見問題"
 ---
 
 ![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
