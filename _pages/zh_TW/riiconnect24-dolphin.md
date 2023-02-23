@@ -2,7 +2,7 @@
 title: "RiiConnect24 for Dolphin"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="條目內容" %}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
