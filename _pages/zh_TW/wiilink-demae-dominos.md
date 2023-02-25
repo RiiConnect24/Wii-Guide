@@ -26,7 +26,7 @@ You cannot use the default Dolphin NAND with this service. You must use your own
 * A computer
 * A Discord account
 
-#### Instructions
+#### 操作說明
 
 ##### Section I - Obtaining your Wii's Console ID
 
