@@ -45,7 +45,7 @@ Only themes from the RiiConnect24 Themes page have been tested on vWii. Themes f
 MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
 {: .notice--danger}
 
-#### Instructions
+#### 操作說明
 
 ##### Section I - Finding a Theme
 
@@ -112,7 +112,7 @@ If you did everything correctly, you should now have your custom theme installed
 
 ##### Reverting to Original Theme
 
-1. Launch the Homebrew Channel.
+1. 啟動 Homebrew Channel。
 2. Launch MyMenuify and navigate to your theme folder.
 3. Select the .app file you copied to the SD card at the end of section 2 as if you were installing a theme.
 4. Select Install and wait until it finishes.
