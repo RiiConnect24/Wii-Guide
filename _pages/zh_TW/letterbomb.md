@@ -2,7 +2,7 @@
 title: "LetterBomb"
 ---
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+如果您需要有關本手冊的任何幫助，請加入 [RiiConnect24 的 Discord 伺服器](https://discord.gg/rc24)（推薦）或 [發送電子郵件至 support@riiiconnect24.net](mailto:support@riiiconnect24.net)。
 {: .notice--info}
 
 ![LetterBomb](/images/letterbomb.png)
@@ -13,7 +13,7 @@ LetterBomb is an exploit for the Wii that is triggered using the Wii Message Boa
 - An SD card that is no more than 32GB in size
 - A Wii on System Menu version 4.3
 
-#### Instructions
+#### 操作說明
 
 
 1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
