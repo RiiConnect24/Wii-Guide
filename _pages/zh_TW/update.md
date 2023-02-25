@@ -4,7 +4,7 @@ title: "Updating Wii Menu to v4.3"
 
 {% include toc title="條目內容" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+如果您需要有關本手冊的任何幫助，請加入 [RiiConnect24 的 Discord 伺服器](https://discord.gg/rc24)（推薦）或 [發送電子郵件至 support@riiiconnect24.net](mailto:support@riiiconnect24.net)。
 {: .notice--info}
 
 This tutorial will explain how to update your Wii Menu to version 4.3, if you have already homebrewed your Wii.
@@ -19,7 +19,7 @@ This tutorial will explain how to update your Wii Menu to version 4.3, if you ha
 If you don't have a Windows computer, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-#### Instructions
+#### 操作說明
 
 ##### Section I - Downloading
 
