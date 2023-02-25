@@ -28,7 +28,7 @@ BlueBomb 是一種利用 Wii 和 Wii mini 藍牙函式庫中缺陷的漏洞。 �
   - 您可以將[ Linux Live 環境寫入至隨身碟](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview)中，不必將 Linux 整個安裝至您的電腦中。
 - 藍牙轉接器
   - 也可以使用內建的藍芽轉接器。
-  - If you do not have one, make sure to get one compatible with Linux.
+  - 如果您沒有，請確保您購買的轉接器是確實能夠與 Linux 兼容的。
 - A USB flash drive formatted as FAT32.
   - This cannot be the same flash drive used for your Linux Machine.
 
