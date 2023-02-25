@@ -17,7 +17,7 @@ The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew
 * An SD card or USB drive
 * [Homebrew Browser](/assets/files/homebrew_browser_v0.3.9e.zip)
 
-#### Instructions
+#### 操作說明
 
 1. Extract the Homebrew Browser and put it in the `apps` folder on your SD card or USB drive.
 2. Insert your SD card or USB drive into your Wii. You can now launch the Homebrew Browser from the Homebrew Channel if you want to.
