@@ -29,35 +29,35 @@ BlueBomb 是一種利用 Wii 和 Wii mini 藍牙函式庫中缺陷的漏洞。 �
 - 藍牙轉接器
   - 也可以使用內建的藍芽轉接器。
   - 如果您沒有，請確保您購買的轉接器是確實能夠與 Linux 兼容的。
-- A USB flash drive formatted as FAT32.
-  - This cannot be the same flash drive used for your Linux Machine.
+- 一個格式化為 FAT32 的隨身碟。
+  - 這不能與您的 Linux 機器使用的隨身碟相同。
 
-#### Section II - Performing the exploit
-1. Download the HackMii installer from [the BootMii website](https://bootmii.org/download/).
-- (If attempting to fix a brick, you should also copy the homebrew app you wish to use to /apps/)
-1. Extract it and place the `boot.elf` file in your flash drive.
-- (Even for a Wii mini, bootmini.elf will **not** work, its purpose is entirely different and unrelated. Use boot.elf in all cases). 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright). 1. Turn on your console and navigate to the settings menu. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
-1. Start your Linux distro, and ensure you are connected to the internet.
-1. Open the Terminal
-1. Run the following commands:
+#### 第二節 — 執行漏洞
+1. 從 [BootMii 網站](https://bootmii.org/download/) 下載 HackMii 安裝程序。
+- （如果您正試圖修復變磚，您還應該將您希望使用的自製軟體複製到 /apps/ 中）
+1. 解壓縮並將 `boot.elf` 檔案放入您的隨身碟中。
+- (即使您的主機為 Wii Mini，您還是**不能**使用 bootmini.elf；它的用途與此完全無關。 請一律使用 boot.elf）。 1. 將隨身碟連接至主機當中。 Wii mini 的 USB 端口在主機背面。 一般的 Wii 請使用下方的 USB 端口。 (豎置時使用右邊的接口)。 1. 開機並進入設定選單中。 在右上角，您會看到一個 4 字符代碼，如下圖所示。 此代碼是您的 Wii 選單版本，請記下此代碼；您稍後會需要它。 將此代碼記錄下來後請關機。 ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+1. 啟動您的 Linux 發行版，並確保您已連接到網路。
+1. 開啟終端機
+1. 執行以下指令：
 ```bash
 wget https://wii.guide/assets/files/bluebomb-helper.sh
 chmod +x bluebomb-helper.sh
 ./bluebomb-helper.sh
 ```
-1. The helper will then download the required files, and ask for information about your console.
-  - If you have selected a Wii mini you will be asked to provide your region. This can be determined by the last letter of the Wii Menu version (`U` for **USA** and `E` for **PAL** models).
-  - If you have selected a Wii you will be asked to provide your Wii Menu Version (What you determined in step 4)
-1. Turn on your console and **do not** connect any Wii Remotes.
-1. Press the Sync button repeatedly until the terminal shows `got connection handle`. This could take numerous attempts, so don't give up.
+1. 此腳本將下載所需的文件，並詢問一些與您主機相關的資訊。
+  - 如果您選擇了 Wii mini，您將被要求提供您主機所屬的區碼。 這可以通過 Wii 選單版本的最後一個字母（`U` 代表 **USA** 和 `E` 代表 **PAL** 型號）。
+  - 如果您選擇了 Wii，您將被要求提供您的 Wii 選單版本（您在第 4 步中確定的版本）
+1. 打開您的主機，但請**不要**連接任何 Wii 控制器。
+1. 於您的主機上重複按下 Sync 按鈕，直到終端機顯示 `got connection handle`。 這可能需要多次嘗試，所以不要放棄。
 
-Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
+請於執行漏洞時確保您的主機與執行漏洞的主機兩者距離相差不遠，理想情況下應該小於 1 公尺。
 {: .notice--info}
 
-The console should now boot to the HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
+您的主機現在應該啟動到 HackMii 安裝程序中。 如果您不打算繼續使用，您現在可以將您的 Linux 電腦關機。
 
-[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
+[如果您的主機為一般的 Wii，請繼續安裝 Homebrew Channel 和 BootMii](hbc)
 {: .notice--info}
 
-[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
+[如果您的主機為 Wii mini，請繼續安裝 Homebrew Channel](hbc-mini)
 {: .notice--info}
