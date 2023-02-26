@@ -26,22 +26,22 @@ BootMii 最重要的功能之一是能夠備份和恢復 Wii 的 NAND 儲存空�
 1. 啟動 Homebrew Channel。
 2. 按下Home按鈕，選擇『Launch BootMii』。
 
-    您將無法使用 Wii 控制器來控制 BootMii。 您必須使用主機上的電源和重置按鈕，或者將 GameCube 控制器插入端口 1 來控制 BootMii。 To navigate between options, press POWER on your Wii (or left/right on the +Control Pad on a GameCube controller). To select an option, press RESET on your Wii or A on your GameCube controller.
+    您將無法使用 Wii 控制器來控制 BootMii。 您必須使用主機上的 POWER 和 RESET 按鈕，或者將 GameCube 控制器插入端口 1 來控制 BootMii。 要在選項之間移動，請按 Wii 的 POWER 按鈕 (或 GameCube 控制器的左右十字鍵)。 要選擇選項，請按 Wii 的 RESET 按鈕 (或 GameCube 控制器的 A 鍵)。
     {: .notice--info}
 
 
-    If the screen stays black and the blue disc drive light is blinking, you are missing the BootMii files on your SD card. Download [this zip file](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
+    如果螢幕保持黑屏且光碟機的指示燈閃爍，那代表您的 SD 卡中缺少 BootMii 所需的檔案。 下載[此壓縮檔](https://static.hackmii.com/bootmii_sd_files.zip)並將其解壓縮到 SD 卡的根目錄，然後重試。
     {: .notice--warning}
 
-3. Select the Options button (the icon with the gears).
-4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left).
-- A NAND backup will start. You can watch the progress on the screen.
-- "Bad Blocks" are normal. Don't worry when you see some on a NAND backup.
-- After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii. Note that if you have a disc inserted in the disc drive, pressing EJECT will also eject the disc.
+3. 選擇『Options』按鈕（帶齒輪的圖示）。
+4. 選擇『BackupMii』按鈕（帶有綠色箭頭的圖示，也就是最左邊的第一個圖示）。
+- NAND 備份將開始。 您將在螢幕上看到進度。
+- 若螢幕上出現『Bad Blocks』是正常的。 看到時不用特別擔心。
+- 在此步驟之後，BootMii 將驗證此備份。 雖然極度推薦您完成此步驟，但您仍能透過 Wii 上的 EJECT 按鈕跳過此步驟。 請注意，如果您的光碟機中目前有光碟的話，則按 EJECT 也會退出此光碟。
 5. When the backup is fully complete, exit the NAND backup screen by pressing any button.
 6. To exit BootMii, press the Back button (the one with the arrow) and then you can press either the Wii Menu button or the Homebrew Channel button to exit where you want to.
 
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). This is useful in the unlikely case you brick your Wii.
+要從 SD 卡上的 NAND 備份還原，您可以使用 RestoreMii（帶有紅色箭頭的圖示，也就是最左側的第二個圖示）按照這些說明進行操作。 若您的 Wii 不幸變磚時可用來還原您的主機。
 {: .notice--info}
 
 To make sure you don’t lose the files, it's recommended to copy `nand.bin` and `keys.bin` from the root of your SD card to your computer.
