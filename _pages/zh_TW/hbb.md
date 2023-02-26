@@ -1,17 +1,17 @@
 ---
-title: "Open Shop Channel (Homebrew Browser)"
+title: "安裝 Open Shop Channel (Homebrew Browser)"
 ---
 
-If you need help for anything regarding this tutorial, please join [the Open Shop Channel](https://discord.gg/osc) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+如果您需要有關本教學的任何幫助，請加入[Open Shop Channel](https://discord.gg/osc)（推薦）或[發送電子郵件至 support@riiiconnect24.net](mailto:support@riiiconnect24.net)。
 {: .notice--info}
 
-Homebrew Browser, which is what the Open Shop Channel is based off on, does work but it can be buggy. You can also get homebrew using [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) and from the [Open Shop Channel website](https://oscwii.org/).
+Homebrew Browser 雖然是 Open Shop Channel 的基底，而且基本上是可用的，但可能存在問題。 您也可以透過 [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) 和 [Open Shop Channel 網站](https://oscwii.org/) 下載自製軟體。
 {: .notice--info}
 
-You need an Internet connection in order to use this application.
+您需要網際網路才能使用此應用程式。
 {: .notice--warning}
 
-The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
+[Open Shop Channel](https://oscwii.org/) 是您下載自製程式的地方。 It is a revival project for an app called Homebrew Browser.
 
 #### What you need
 * An SD card or USB drive
