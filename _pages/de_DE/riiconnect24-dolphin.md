@@ -55,7 +55,7 @@ If you use a Windows version before Windows 10, you unfortunately cannot use Wii
 4. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`. (NOTE: These screenshots are from the Windows version of the patcher.)
 5. For this guide, choose "`Install RiiConnect24 on your Dolphin Emulator`" ![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
 6. Choose "`Express (Recommended)`". It will give you everything you need. ![Express Settings](/images/RC24_Patcher/4.JPG)
-7. Select your region. ![Select your region](/images/RC24_Patcher/5.JPG)
+7. Wähle deine Region. ![Select your region](/images/RC24_Patcher/5.JPG)
 8. While you're at it, RiiConnect24 Patcher can additionally download some other optional channels that do not use RiiConnect24. `[X]` represents the options that selected. Just press 5 and `ENTER` if you're not interested. !\[Additional optional channels\](/images/RC24_Patcher/6.JPG
 9. Press `1` then `ENTER` to start patching.
 10. Be patient... ![It's patching!](/images/RC24_Patcher/9.JPG)
