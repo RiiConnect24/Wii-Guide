@@ -33,7 +33,7 @@ No es recomendable utilizar BlueBomb en la Wii original para instalar el Canal H
   - Esta no puede ser la misma unidad USB que usarás para ejecutar Linux.
 
 #### Sección II - Ejecutando el exploit
-1. Descarga el instalador HackMii del [sitio web de BootMii](https://bootmii.org/download/).
+1. Descarga el HackMii installer desde el [sitio web de BootMii](https://bootmii.org/download/).
 - Si deseas recuperar tu consola de un brick, también deberás copiar la aplicación homebrew que deseas usar para repararla a la carpeta `/apps/`.
 1. Extrae el archivo `boot.elf` a la raíz de tu unidad USB.
 - (Por favor **no copies** el archivo `bootmini.elf`, aún si estás usando una Wii mini. Su propósito es completamente diferente y no está relacionado con esta guía. Usa `boot.elf` en todos los casos). 1. Conecta la unidad USB a la consola. En la Wii mini, el puerto USB se encuentra en la parte trasera. En la Wii original, deberás usar el puerto inferior (o el derecho, si tu consola está en posición vertical). 2. Enciende la consola y ve a Opciones de Wii > Configuración de Wii. En la esquina superior derecha verás un código de cuatro caracteres como el que se muestra en la imagen de abajo. Dicho código indica la versión del sistema de tu consola. Toma nota de este, pues lo necesitarás más adelante. A continuación, apaga la consola. ![Versión del menú del sistema](/images/Wii/SystemMenuVersion.png)
