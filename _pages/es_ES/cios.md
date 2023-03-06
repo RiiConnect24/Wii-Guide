@@ -4,21 +4,21 @@ title: "Instalar cIOS d2x"
 
 {% include toc title="Tabla de contenido" %}
 
-Con esta guía aprenderás a instalar los cIOS (IOS personalizados) d2x. Esto te permitirá cargar juegos desde una unidad USB o tarjeta SD y usar ciertas aplicaciones homebrew.
+En este tutorial aprenderás a instalar un cIOS (IOS personalizado). Esto te permitirá cargar juegos desde una unidad USB o tarjeta SD y usar ciertas aplicaciones homebrew.
 
 ![Logotipo de d2x cIOS Installer](/images/cios/cIOS.png)
 
-Si tu consola es una Wii U y deseas instalar los cIOS en el modo Wii (vWii), por favor sigue [esta guía](https://wiiu.hacks.guide/#/vwii-modding). No intentes instalar ningún otro cIOS en una vWii, pues no funcionará y podrías dañar tu consola.
+Si tu consola es una Wii U y deseas instalar el cIOS en el modo Wii (vWii), por favor sigue [este tutorial](https://wiiu.hacks.guide/#/vwii-modding). No intentes instalar ningún otro cIOS en la vWii, pues no funcionará.
 {: .notice--info}
 
-If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
+Si tienes una Wii mini, por favor instala [este cIOS](cios-mini). Intentar instalar cualquier otro cIOS en la Wii mini no funcionará.
 {: .notice--info}
 
 #### Requisitos
 
 - Una consola Wii
-- Una tarjeta SD o memoria USB
-- [Logotipo de d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
+- Una tarjeta SD o unidad USB
+- [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
 Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
 {: .notice--warning}
