@@ -59,7 +59,7 @@ Select cIOS slot: 248
 Select cIOS version: 65535
 ```
 
-![Install cIOS 249](/images/cios/Install249.png)
+![Install cIOS 249](/images/cios/d2x_v11_248.png)
 
 1. Once set, press A twice to install.
 1. When done installing, press A to return, and set the options to the following:
@@ -71,7 +71,7 @@ Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 
-![Install cIOS 250](/images/cios/Install250.png)
+![Install cIOS 250](/images/cios/d2x_v11_249.png)
 
 1. Once set, press A twice to install.
 1. When done installing, press A to return, and set the options to the following:
@@ -83,7 +83,7 @@ Select cIOS slot: 250
 Select cIOS version: 65535
 ```
 
-![Install cIOS 250](/images/cios/Install250.png)
+![Install cIOS 250](/images/cios/d2x_v11_250.png)
 
 1. Once set, press A twice to install.
 1. When done installing, press A to return, and set the options to the following:
@@ -95,7 +95,7 @@ Select cIOS slot: 251
 Select cIOS version: 65535
 ```
 
-![Install cIOS 251](/images/cios/Install251.png)
+![Install cIOS 251](/images/cios/d2x_v11_251.png)
 
 1. Once set, press A twice again to install, and then exit once done.
 
