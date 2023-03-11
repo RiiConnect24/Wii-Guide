@@ -53,9 +53,9 @@ Ensure that if you are using an SD card, the lock switch is in the unlocked posi
 1. Press continue, then set the options to the following:
 
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 57
-Select cIOS slot: 249
+Select cIOS: d2x-v11-beta1
+Select cIOS base: 38
+Select cIOS slot: 248
 Select cIOS version: 65535
 ```
 
@@ -65,8 +65,20 @@ Select cIOS version: 65535
 1. When done installing, press A to return, and set the options to the following:
 
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
+Select cIOS: d2x-v11-beta1
 Select cIOS base: 56
+Select cIOS slot: 249
+Select cIOS version: 65535
+```
+
+![Install cIOS 250](/images/cios/Install250.png)
+
+1. Once set, press A twice to install.
+1. When done installing, press A to return, and set the options to the following:
+
+```
+Select cIOS: d2x-v11-beta1
+Select cIOS base: 57
 Select cIOS slot: 250
 Select cIOS version: 65535
 ```
@@ -77,8 +89,8 @@ Select cIOS version: 65535
 1. When done installing, press A to return, and set the options to the following:
 
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 38
+Select cIOS: d2x-v11-beta1
+Select cIOS base: 58
 Select cIOS slot: 251
 Select cIOS version: 65535
 ```
