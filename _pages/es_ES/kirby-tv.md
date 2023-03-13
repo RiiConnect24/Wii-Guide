@@ -11,7 +11,7 @@ Striim Network is a service dedicated to bringing back the channels that support
 
 #### Requisitos
 
-* Una tarjeta SD o memoria USB
+* Una tarjeta SD o unidad USB
 * Un Wii con conexión a Internet
 * Una computadora basada en Windows o Unix
 * [Kirby TV Channel Patcher](https://github.com/StriimNetwork/Kirby-TV-Channel-Patcher/releases)
