@@ -21,7 +21,7 @@ You cannot use the default Dolphin NAND with this service. You must use your own
 
 #### Requisitos
 
-* Una tarjeta SD o memoria USB
+* Una tarjeta SD o unidad USB
 * A Wii with an internet connection
 * Una computadora
 * Una cuenta de Discord
