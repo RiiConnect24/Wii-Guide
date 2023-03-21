@@ -7,9 +7,6 @@ title: WiiLink Demae Domino's Guide
 If you need help for anything regarding this tutorial, please join [the WiiLink Discord server](https://discord.gg/wiilink).
 {: .notice--info}
 
-This tutorial is currently outdated.
-{: .notice--danger}
-
 In order to prevent abuse, a $1 USD paywall has been put in place. Due to this, a credit card is required. All purchases are handled by Stripe Inc. and will be refunded. Funds may take 5-10 business days to settle. For more information, read the [Terms of Service](https://demae.wiilink24.com/tos) and [Privacy Policy](https://demae.wiilink24.com/privacypolicy). 
 {: .notice--info}
 
