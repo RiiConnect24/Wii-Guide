@@ -4,7 +4,11 @@ title: "WiiLink"
 
 {% include toc title="Tabla de contenido" %}
 
+<<<<<<< HEAD
+[WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels known as Wii Room, the Digicam Print Channel, and the Food Delivery Channel again.
+=======
 [WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels known as Wii Room, the Digicam Print Channel, and the Food Channel again.
+> > > > > > > master
 
 #### Requisitos
 
@@ -26,7 +30,7 @@ title: "WiiLink"
 4. For this guide, choose "`Install WiiLink on your Wii`"
 5. Follow the on screen instructions to select which versions of the available channels you would like.
 6. Connect the SD Card or USB Drive to your computer and select "`1`".
-7. Si el dispositivo fue detectado con éxito, elige "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
+7. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
 8. It may take a moment for the patcher to download the files to your SD Card or USB Drive.
 9. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
 10. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLinkPatcher.bat` to your SD Card or USB Device.
@@ -35,7 +39,9 @@ title: "WiiLink"
 13. Inicie Wii Mod Lite.
 14. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 15. If your Wii is not a Japanese region, install `WiiLink_SPD(Wii).wad` or `WiiLink_SPD(vWii).wad`(Depending on console) before anything else. This is required so that we know your email address to send files.
-16. Highlight all other WADs with `WiiLink` in the name and press + to select them. When all of them are selected, press A twice to install the WADs.
+16. Highlight all other WADs with `WiiLink` in the name and press + to select them. When all of them are selected, press A twice to install the WADs. <<<<<<< HEAD
+=======
+> > > > > > > master
     - If you have previously installed the RiiConnect24 versions of the Forecast Channel and the Nintendo Channel, installing WiiLink's will overwrite them.
 
 17. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
@@ -52,6 +58,12 @@ Adding your email to Set Personal Data will allow the Digicam Print Channel to s
 5. Once you are in the SPD main menu, choose `Digicam` in the `Choose Channel` menu. After you’ve done that, it should work!
 
 For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
+{: .notice--info}
+
+[ Continúe con RiiConnect24 ](riiconnect24) <br> RiiConnect24 le permite utilizar los servicios descontinuados de WiiConnect24, que incluyen Noticias, Pronóstico, Todos Votos, Nintendo y el Canal Check Mii Out, junto con Wii Mail. This is optional to install.
+{: .notice--info}
+
+[Continuar a Wiimmfi](wiimmfi)<br> Wiimmfi te permite disfrutar de juegos en línea después del cierre de la Conexión Wi-Fi de Nintendo. This is optional to install.
 {: .notice--info}
 
 [Echa un vistazo a nuestras otras guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
