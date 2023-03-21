@@ -39,7 +39,7 @@ WiiLink and all of its services (such as Wii Room) are not controlled or operate
 14. Launch Wii Mod Lite.
 15. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 16. If your Wii is not a Japanese region, install `WiiLink_SPD(Wii).wad` or `WiiLink_SPD(vWii).wad`(Depending on console) before anything else. This is required so that we know your email address to send files.
-17. Highlight all other WADs with `WiiLink` in the name (except the Forecast Channel and Nintendo Channel if you have RiiConnect24 and don't want to install WiiLink's version) and press + to select them. When all of them are selected, press A twice to install the WADs. 
+17. Highlight all other WADs with `WiiLink` in the name (except the Forecast Channel and Nintendo Channel if you use RiiConnect24) and press + to select them. When all of them are selected, press A twice to install the WADs. 
 18. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
 ##### Section II - Adding your email to Set Personal Data
