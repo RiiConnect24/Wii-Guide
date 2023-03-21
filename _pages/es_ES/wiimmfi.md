@@ -21,12 +21,14 @@ There are lots of different methods to connect to Wiimmfi. Choose the one that f
 ### Parcheo automático desde el Canal Disco usando Priiloader
 
 #### Requisitos
+
 - Una Wii con Priiloader 0.9 o posterior instalado
 
 If you have an older version of Priiloader or don't have it installed, follow [this guide](priiloader) to update/install it.
 {: .notice--info}
 
 #### Instrucciones
+
 1. Sostén RESET cuando enciendas tu Wii (si tienes una Wii mini, conecta un teclado USB y sostén escape).
 2. Ve a `System Menu Hacks`.
 3. Make sure the `Wiimmfi patch v4` hack is enabled.
@@ -36,11 +38,13 @@ If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you d
 {: .notice--warning}
 
 ### Aplicación Hombrew para Discos
+
 MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
 
 #### Requisitos
-* Una tarjeta SD o unidad USB
-* [Auto Wiimmfi Patcher](https://download.wiimmfi.de/patcher/autowiimmfipatcher-latest.zip)
+
+- Una tarjeta SD o unidad USB
+- [Auto Wiimmfi Patcher](https://download.wiimmfi.de/patcher/autowiimmfipatcher-latest.zip)
 
 #### Instrucciones
 
@@ -50,10 +54,12 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 4. Espera por el parche para completar, y empezará!
 
 ### Sin Homebrew (Disco)
+
 Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
 
 #### Requisitos
-* Un Wii con conexión a Internet
+
+- Un Wii con conexión a Internet
 
 #### Instrucciones
 
@@ -66,12 +72,15 @@ Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for th
 7. El juego debería empezar con el parche de Wiimmfi incluido.
 
 ### Parcheo automático usando un USB Loader
+
 If you are already using USB Loader GX, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
 
 ### Parcheo de ISOs
+
 You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
 
 #### Requisitos
+
 - Tu copia de tu juego (WBFS, ISO, cISO, y otros archivos que una Wii puede usar son soportadas.
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
   **o puedes usar:**
@@ -79,11 +88,13 @@ You may not want to run a patcher each time you want to play on Wiimmfi, and may
 - Un USB Loader, [cIOS](cios) y un USB para almacenar el juego (si usas un USB Loader ya deberías tener uno)
 
 #### Instrucciones
+
 1. Extrae el parche de tu elección y después coloca la copia del juego en la misma carpeta.
 2. Comience el script de patch por tu OS: generalmente, terminará en `.bat` para Windows y `.sh` para Mac/Linux. Si tu estás usando el RiiConnect24 Patcher, seleccione su dispositivo (Wii, vWii, o Dolphin) y seleccione el patcher para tu juego.
 3. Cuando haya terminado, obtenga la versión de la carpeta `wiimmfi-images` (puede estar en la carpeta fuera del parche - ../wiimmfi-images) y cópiela de nuevo a su USB.
 
 ### Parcheo de WiiWare
+
 You can patch WiiWare games in order to play them on Wiimmfi.
 
 #### Requisitos
@@ -99,6 +110,7 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 {: .notice--info}
 
 Steps:
+
 1. Extract the .zip of the latest version of WiiWare Patcher, and put your WAD in it.
 2. Comience el script de patch por tu OS: generalmente, terminará en `.bat` para Windows y `.sh` para Mac/Linux. Si tu estás usando el RiiConnect24 Patcher, seleccione su dispositivo (Wii, vWii, o Dolphin) y seleccione el WiiWare patcher.
 3. Si termina con éxito, instala el WAD parcheado ubicado en la carpeta `wiiware-wads` usando Wii Mod Lite.
@@ -106,14 +118,15 @@ Steps:
 ## Otras cosas
 
 ### Competiciones de Mario Kart Wii
+
 Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
 #### Que necesitas
 
 - Un tarjeta SD o unidad USB
 - Patcher de Competición de Mario Kart Wii (Mario Kart Wii Competition Patcher)
-   - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
-   - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
+  - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
+  - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
 #### Instrucciones (para Wii)
 
@@ -128,6 +141,7 @@ If you're using the Wii U, you will have to run the competitions patcher wheneve
 {: .notice--info}
 
 ### Juegos de DS
+
 Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks to an exploit called nds-constraint, you can play DS games online without patching your games.
 
 #### Que necesitas
@@ -148,13 +162,19 @@ Getting a Wi-Fi network with WEP or no security is the hardest part, because DS 
 ### Mario Kart Wii Mods
 
 #### CTGP-R
+
 MrBean35000vr and Chadderz have a custom track distribution called CTGP-R that allows you to use a set of custom tracks and has automatic Wiimmfi patching. Go to the [ChadSoft website](http://chadsoft.co.uk) for the download and instructions.
 
 #### MKW Hack Pack
+
 PhillyG has put together a collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. To learn how to set it up, go to the [wiki page](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
 
 #### Wiimms Mario Kart Fun
+
 Wiimm and Leseratte make a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte, has Wiimmfi support, and lots of other features. You can find out more about it on its [wiki page](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
+
+[ Continúe con RiiConnect24 ](riiconnect24) <br> RiiConnect24 le permite utilizar los servicios descontinuados de WiiConnect24, que incluyen Noticias, Pronóstico, Todos Votos, Nintendo y el Canal Check Mii Out, junto con Wii Mail. This is optional to install.
+{: .notice--info}
 
 [Continue to WiiLink](wiimmfi)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. This is optional to install.
 {: .notice--info}
