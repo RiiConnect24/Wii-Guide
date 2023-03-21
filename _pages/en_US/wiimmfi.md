@@ -182,7 +182,7 @@ Wiimm and Leseratte make a custom track distribution called "Wiimms MKW Fun", wh
 RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
 {: .notice--info}
 
-[Continue to WiiLink](wiilink)<br>
+[Continue to WiiLink](wiimmfi)<br>
 WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. This is optional to install.
 {: .notice--info}
 
