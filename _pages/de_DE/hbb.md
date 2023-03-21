@@ -14,8 +14,9 @@ You need an Internet connection in order to use this application.
 The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
 
 #### What you need
-* Eine SD-Karte oder ein USB-Laufwerk
-* [Homebrew Browser](/assets/files/homebrew_browser_v0.3.9e.zip)
+
+- Eine SD-Karte oder ein USB-Laufwerk
+- [Homebrew Browser](/assets/files/homebrew_browser_v0.3.9e.zip)
 
 #### Anleitung
 
@@ -38,6 +39,11 @@ Here are some recommended apps that you can get on the Open Shop Channel:
 - [YABDM](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod) - This is a tool to dump content installed on your Wii to WAD files. See [our page](dump-wads) for instructions on how to use it.
 
 [Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
+{: .notice--info}
+[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. This is optional to install.
+{: .notice--info}
+
+[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
