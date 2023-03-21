@@ -39,7 +39,7 @@ Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on
 
 #### Requisitos
 
-* Una tarjeta SD o memoria USB
+* Una tarjeta SD o unidad USB
 * Una computadora
 * A Wii U console with an Internet connection that's capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
 * A Nintendo Network ID (NNID) linked to your Wii U
