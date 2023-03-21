@@ -4,11 +4,8 @@ title: "WiiLink"
 
 {% include toc title="Inhaltsverzeichnis" %}
 
-<<<<<<< HEAD
-[WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels known as Wii Room, the Digicam Print Channel, and the Food Delivery Channel again.
-=======
+
 [WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels known as Wii Room, the Digicam Print Channel, and the Food Channel again.
-> > > > > > > master
 
 #### What you need
 
@@ -39,9 +36,7 @@ title: "WiiLink"
 13. Launch Wii Mod Lite.
 14. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 15. If your Wii is not a Japanese region, install `WiiLink_SPD(Wii).wad` or `WiiLink_SPD(vWii).wad`(Depending on console) before anything else. This is required so that we know your email address to send files.
-16. Highlight all other WADs with `WiiLink` in the name and press + to select them. When all of them are selected, press A twice to install the WADs. <<<<<<< HEAD
-=======
-> > > > > > > master
+16. Highlight all other WADs with `WiiLink` in the name and press + to select them. When all of them are selected, press A twice to install the WADs.
     - If you have previously installed the RiiConnect24 versions of the Forecast Channel and the Nintendo Channel, installing WiiLink's will overwrite them.
 
 17. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
