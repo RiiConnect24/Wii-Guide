@@ -23,6 +23,12 @@ WiiLink and all of its services (such as Wii Room) are not controlled or operate
 [If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
 {: .notice--info}
 
+WiiLink has its own versions of the Forecast Channel and the Nintendo Channel, which have also been initially brought back with RiiConnect24. WiiLink's versions are slightly different.<br><br>
+RiiConnect24's Forecast Channel provides an experience more faithful to the original WiiConnect24 service by allowing you to browse and pick from a list of cities that were on the original service. WiiLink's Forecast Channel changes up the list of cities entirely to provide a more localized experience, and many cities are added and some cities you will see on the RiiConnect24 version are removed. However, it's currently a work in progress, and American countries do not have different cities yet.<br><br>
+RiiConnect24's Nintendo Channel contains hundreds of videos that are not available on the WiiLink version. However, WiiLink's version has the recommendations feature working that RiiConnect24 doesn't, which allows you to recommend games and receive statistics.<br><br>
+It's up to you which version to install, however you can only install either version at once. You can  switch between the 2 services by installing the WAD of the other version.
+{: .notice--warning}
+
 1. Click the link above to go to the GitHub page where the patcher is.
 2. Download `WiiLinkPatcher-Windows.bat` if you are on Windows, and `WiiLinkPatcher-Unix.sh` if you are on a Unix system
 3. On Windows run `WiiLinkPatcher-Windows.bat`. On Unix systems, open Terminal and type `bash`, then drag `WiiLinkPatcher-Unix.sh` into the terminal then press enter. It should look like this: `bash WiiLinkPatcher-Unix.sh`.
