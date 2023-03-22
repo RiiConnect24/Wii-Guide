@@ -4,46 +4,46 @@ title: "str2hax"
 
 {% include toc title="Table of Contents" %}
 
-Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte se na [RiiConnect24 Discord server](https://discord.gg/rc24) (doporučeno) nebo [nám napište e-mail](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Mějte prosím na paměti, že pokud váš poskytovatel internetu nepodporuje použití custom DNS serveru, str2hax nebude fungovat, a proto byste si měli [zvolit jiný exploit](get-started).
+Note that if your ISP or networking environment prevents using custom DNS servers, str2hax will not work and you should [choose another exploit to use](get-started).
 {: .notice--info}
 
-str2hax je exploit na Wii, který využívá zranitelnosti v načtení EULA. Nevyžaduje nic jiného než připojení k internetu, které umožňuje změnu DNS na vašem Wii.
+str2hax is an exploit for the Wii that is triggered by loading the Wii's End User License Agreement. It requires nothing but an Internet connection that lets you change the DNS on your Wii.
 
-#### Co budete potřebovat
+#### What you need
 
-* Wii s připojením k internetu
+* A Wii with an Internet connection
 
-#### Pokyny
+#### Instructions
 
-##### Část I - Připojení
+##### Section I - Connecting
 
-Tento exploit vyžaduje změnu DNS, abyste se připojili na server obsahující exploit.
+This exploit requires you to set your DNS in order to connect to a server that contains the exploit.
 
-1. Přejděte do `Wii Options`. ![Wii Options](/images/RiiConnect24/Internet_1.png)
-2. Přejděte do `Wii Settings`. ![Wii Settings](/images/RiiConnect24/Internet_2.png)
-3. Na druhé stránce nastavení zvolte `Internet`. ![Internet](/images/RiiConnect24/Internet_3.png)
-4. Vyberte `Connection Settings`. ![Connection Settings](/images/RiiConnect24/Internet_4.png)
-5. Vyberte své aktuální připojení. ![Current Connection](/images/RiiConnect24/Internet_5.png)
-6. Zvolte `Change Settings`. ![Change Settings](/images/RiiConnect24/Internet_6.png)
-7. Přejděte do `Auto-Obtain DNS` (pozor, ne IP Address), poté zvolte `No`, poté `Advanced Settings`. ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
-8. Zadejte `18.188.135.9` jako primární DNS.
-9. Zadejte `18.188.135.9` jako sekundární DNS.
-10. Potvrďte stisknutím `Confirm`, poté vyberte `Save`. ![Save DNS](/images/RiiConnect24/Internet_10.png)
-11. Zvolte `OK`, aby se provedl test připojení. ![Connection Test](/images/RiiConnect24/Internet_11.png)
-   - Pokud byl test připojení úspěšný, zvolte `No`, abyste odmítnuli Wii System Update. ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)
-   - Pokud se test připojení nepodařil, použijte prosím [jiný exploit](get-started).
+1. Go to `Wii Options`. ![Wii Options](/images/RiiConnect24/Internet_1.png)
+2. Go to `Wii Settings`. ![Wii Settings](/images/RiiConnect24/Internet_2.png)
+3. Go to `Page 2`, then click on `Internet`. ![Internet](/images/RiiConnect24/Internet_3.png)
+4. Go to `Connection Settings`. ![Connection Settings](/images/RiiConnect24/Internet_4.png)
+5. Select your current connection. ![Current Connection](/images/RiiConnect24/Internet_5.png)
+6. Go to `Change Settings`. ![Change Settings](/images/RiiConnect24/Internet_6.png)
+7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`. ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
+8. Type in `18.188.135.9` as the primary DNS.
+9. Type in `18.188.135.9` as the secondary DNS.
+10. Select `Confirm`, then select `Save`. ![Save DNS](/images/RiiConnect24/Internet_10.png)
+11. Select `OK` to perform a connection test. ![Connection Test](/images/RiiConnect24/Internet_11.png)
+   - If the connection test was successful, select `No` to skip the Wii System Update. ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)
+   - If it was unsuccessful, then please use [another exploit](get-started).
 
-##### Část II - Exploitování
+##### Section II - Triggering the Exploit
 
-1. Přejděte do položky `Internet`, poté `User Agreements` nebo `Agreement/Contact`, poté zvolte `Yes`.
-2. Pokud na obrazovce vidíte poníka na světle modrém pozadí, nastavili jste vše správně. Počkejte 1-2 minuty, než se spustí exploit (mělo by to trvat asi 1 minutu a 25 sekund). Exploit poté stáhne HackMii Intaller, abyste mohli pokračovat.
+1. Go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`.
+2. If you see a pony on the screen on a light blue background, you have set it up correctly. Wait 1-2 minutes for the exploit to trigger (it should take about 1 minute and 25 seconds). The exploit will download the HackMii Installer so you can continue.
 
-Pokud se HackMii Installer nenačte a konzole místo toho zamrzne (nemůžete pohnout kurzorem) nebo jeho spuštění netrvá 1-2 minuty, restartujte prosím Wii a zkuste exploit znovu.
+If the HackMii Installer doesn't load and it instead freezes (you can't move your cursor) or it doesn't take 1-2 minutes to trigger, please restart your Wii and retry the exploit.
 
 If you have installed a mod like CTGP Revolution or Project+, str2hax may load that instead. If it does, restart your Wii and try again without your SD card inserted.
 
-[Pokračujte instalací Homebrew Channelu a BootMii](hbc)
+[Continue to Homebrew Channel and BootMii Installation](hbc)
 {: .notice--info}

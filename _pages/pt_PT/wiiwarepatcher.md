@@ -4,16 +4,16 @@ title: "WiiWare Patcher"
 
 {% include toc title="Table of Contents" %}
 
-Queres fazer patch em jogos WAD (WiiWare) para funcionar com Wiimmfi e não sabes como? Este tutorial irá explicar-te como é que o WiiWare Patcher funciona. (Este tutorial é somente adequado para sistema operacional Windows)
+Want to patch WAD games (WiiWare) to work with Wiimmfi and you don't know how? This tutorial will explain you how WiiWare Patcher works. (This tutorial is only suitable for Windows operating system)
 
 ![Using the WiiWare Patcher](/images/rc24_using_the_wiiware_patcher.jpg)
 
-Este tutorial é só para a versão Windows do WiiWare Patcher.
+This tutorial is only for Windows version of WiiWare Patcher.
 {: .notice--info}
 
-#### O que precisas
+#### What you need
 
-* Um computador Windows
+* A Windows computer
 * [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases)
 
 ##### Section I - Downloading WiiWare Patcher

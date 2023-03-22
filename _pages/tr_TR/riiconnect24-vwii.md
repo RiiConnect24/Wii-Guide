@@ -1,13 +1,13 @@
 ---
-title: RiiConnect24 vWii Rehberi
+title: RiiConnect24 vWii Guide
 ---
 
 {% include toc title="Table of Contents" %}
 
-Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![RiiConnect24 Logosu](/images/WiiRC24Logo.jpg)
+![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
 Guide to installing [RiiConnect24](https://rc24.xyz) on vWii (Virtual Wii on Wii U).
 
@@ -23,24 +23,27 @@ This guide is for vWii (Wii Mode on Wii U) only.
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
+It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
+{: .notice--warning}
+
 DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
-#### Uyarılar
+#### Warnings
 
-Eğer konsolunuzu brick moduna sokar ya da konsolunuza başka bir hasar verirseniz; biz sorumlu **DEĞİLİZ**. Eğer bu rehberi tam olarak takip ederseniz, zaten herhangi bir sorunla karşılaşmazsınız.
+We are **NOT** responsible if you brick, or damage your console in any way whatsoever. If you follow this guide exactly, you shouldn't have any problems.
 {: .notice--warning}
 
 Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on Wii U). If you're looking for instructions for a Nintendo Wii, use [this guide](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [this guide](riiconnect24-dolphin) instead.
 {: .notice--warning}
 
-#### İhtiyacınız olan şeyler
+#### What you need
 
-* SD Kart veya USB sürücü
-* Bir bilgisayar
+* An SD card or USB drive
+* A computer
 * A Wii U console with an Internet connection that's capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
 * A Nintendo Network ID (NNID) linked to your Wii U
-* [RiiConnect24 Yamalayıcısı (Windows, Mac ve Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+* [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 After following the above linked guide, you should have:
 * A vWii NAND backup and keys (keep these stored safely!!)
@@ -49,48 +52,48 @@ After following the above linked guide, you should have:
 * IOS80 patched
 {: .notice--info}
 
-#### Talimatlar
+#### Instructions
 
-##### Bölüm I - Yamalayıcıyı çalıştırmak
+##### Section I - Running the patcher
 
-Eğer RiiConnect24 Yamalayıcısı’nı çalıştıramadıysanız lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
+If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
 {: .notice--info}
 
-1. Yukarıdaki linke tıklayarak yamalayıcının bulunduğu GitHub sayfasına ulaşın.
-2. Windows kullanıyorsanız `RiiConnect24Patcher.bat` dosyasını, Unix kullanıyorsanız `RiiConnect24Patcher.sh` dosyasını indirin.
-3. Windows’da `RiiConnect24Patcher.bat` uygulamasını çalıştırın. Unix sistemlerinde, terminali başlatıp `bash` yazın, ardından `RiiConnect24Patcher.sh` dosyasını terminale taşıyıp ENTER’a basın. `bash RiiConnect24Patcher.sh` şeklinde görünmesi gerekmektedir.
-4. 1 'e basarak "`Start`" deyin ve tercihlerinizi onaylamak için `ENTER` tuşuna basın. (NOT: Ekran görüntüleri, yamalayıcının Windows sürümündendir.) ![RiiConnect24 Yamalayıcısı Ana Ekranı](/images/RC24_Patcher/1.JPG)
-5. Yamalayacağınız cihazı seçin. ![Cihazınızı seçin](/images/RC24_Patcher/2.JPG)
-6. Bu rehber için "`Install RiiConnect24 on your Wii`" seçeneğini seçin. ![RiiConnect24’ü yükleme](/images/RC24_Patcher/3.JPG)
-7. "`Express (Recommended)`" seçeneğini seçin. Size ihtiyacınız olan her şey verilecektir. ![Hızlı Ayarlar](/images/RC24_Patcher/4.JPG)
-8. Bölgenizi seçin. ![Bölgenizi seçin](/images/RC24_Patcher/5.JPG)
-9. Bunu yaparken, RiiConnect24 Yamalayıcısı, ek olarak RiiConnect24 kullanmayan opsiyonel kanallar da yükleyebilir. `[X]` seçilen opsiyonları temsil eder. Eğer ilgilenmiyorsanız, 5 ve `ENTER` tuşlarına basın. ![Tercihe bağlı ek kanallar](/images/RC24_Patcher/6.JPG)
-10. SD kartınızı ya da USB sürücünüzü bilgisayara bağlayın ve "`1`"i seçin. ![SD Karta kopyalamayı etkinleştir](/images/RC24_Patcher/7.JPG)
-11. Eğer sürücünüz başarıyla algılandıysa, "`1`"i seçin. Algılanmadıysa, SD Kartınız ya da USB sürücünüzde `apps` klasörü olduğundan emin olun. ![Başarıyla silindi](/images/RC24_Patcher/8.JPG)
-12. Sabırlı olun... ![Yamalanıyor!](/images/RC24_Patcher/9.JPG)
-13. İşlem tamamlandığında, bize bir dakikanızı ayırarak geribildirimde bulunursanız oldukça memnun oluruz.  İstemiyorsanız, yamalayıcıyı kapatabilirsiniz. Bütün dosyaların, SD Kartınızda hazır olmuş olması gerekir. ![Bitti!](/images/RC24_Patcher/10.JPG) ![Dosyalar kopyalandı](/images/RC24_Patcher/11.PNG)
-14. Eğer her şey otomatik olarak SD Kartınıza ya da USB sürücünüze kopyalanmadıysa, `WAD` dosyasını ve `apps` klasörünü SD Kartınızda ya da USB sürücünüzde bulunan `RiiConnect24Patcher.bat` dosyasının bulunduğu yere koyun.
+1. Click the link above to go to the GitHub page where the patcher is.
+2. Download `RiiConnect24Patcher.bat` if you are on Windows, and `RiiConnect24Patcher.sh` if you are on a Unix system
+3. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open Terminal and type `bash`, then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this: `bash RiiConnect24Patcher.sh`.
+4. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`. (NOTE: These screenshots are from the Windows version of the patcher.) ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
+5. Select the device you're patching for. ![Select your device](/images/RC24_Patcher/2.JPG)
+6. For this guide, choose "`Install RiiConnect24 on your Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
+7. Choose "`Express (Recommended)`". It will give you everything you need. ![Express Settings](/images/RC24_Patcher/4.JPG)
+8. Select your region. ![Select your region](/images/RC24_Patcher/5.JPG)
+9. While you're at it, RiiConnect24 Patcher can additionally download some other optional channels that do not use RiiConnect24. `[X]` represents the options that selected. Just press 5 and `ENTER` if you're not interested. ![Additional optional channels](/images/RC24_Patcher/6.JPG)
+10. Connect your SD Card or USB Drive to your computer and select "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
+11. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Drive and try again. ![Successfully detected](/images/RC24_Patcher/8.JPG)
+12. Be patient... ![It's patching!](/images/RC24_Patcher/9.JPG)
+13. After it's done, we would appreciate if you take a minute to send anonymous feedback to us.  If you don't want to, close the patcher. All the files should already be on your SD Card. ![It's done!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
+14. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
 
-##### Bölüm II - WAD dosyalarını yükleme
+##### Section II - Installing WADs
 
-Şimdi, RiiConnect24’ü kullanabilmek için ihtiyacınız olan IOS ve kanal WAD’larını yükleyeceksiniz.
+You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
 1. Put your SD card or USB drive in your Wii U.
 2. Launch the Homebrew Channel on your Wii U.
-3. Wii Mod Lite’ı başlatın.
-4. Wii kumandanızda bulunan +Kontrol Tuşlarını kullanarak önce `WAD Manager`’ı daha sonra `wad` klasörünü seçin.
-5. + tuşuna basarak bütün WAD dosyalarını işaretleyin. Bütün WAD dosyaları seçildiğinde A'ya iki kere basarak WAD yüklemesine başlayın.
-6. Eğer bir dosyayı yüklerken, daha yüksek bir sürümün yüklendiğine dair bir hata (hata kodu -1035) alırsanız, WAD seçim kısmına geri dönüp - tuşuna basarak işaretlenen WAD dosyasını silin ve tekrar deneyin.
-7. Dosyalar başarıyla yüklendiği vakit, HOME tuşuna basarak Homebrew Channel'a geri dönün.
+3. Launch Wii Mod Lite.
+4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+5. Highlight all the WADs in the folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
+6. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press the - Button on the highlighted WAD to uninstall it, then try installing it again.
+7. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
-##### Bölüm III - 43db’yi 16:9 oranı için yamalama (opsiyonel)
+##### Section III - Patching 43db for 16:9 (optional)
 
 1. Launch ww-43db-patcher and wait for it to complete.
 
 If you [install a theme](/themes-vwii), you will have to run the ww-43db-patcher once more.
 {: .notice--info}
 
-##### Bölüm IV - RiiConnect24’ü kullanmak
+##### Section IV - Using RiiConnect24
 
 After following the above sections, you're almost ready to utilize RiiConnect24 on your Wii U. You just need to perform the following steps **every time you boot into vWii**.
 
@@ -99,7 +102,7 @@ After following the above sections, you're almost ready to utilize RiiConnect24 
 2. Launch the WiiConnect24 Channels.
 * You should now be able to utilize all of the WiiConnect24 Channels you have installed.
 
-#### Şu an neler çalışıyor?
+#### What's currently working?
 The following RiiConnect24 services are **working** on the vWii:
 * Forecast Channel
 * News Channel

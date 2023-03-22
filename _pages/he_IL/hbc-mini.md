@@ -11,7 +11,7 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 The Homebrew Channel is where you will go to launch homebrew applications.
 
-#### הוראות
+#### Instructions
 This page is **only** intended for users of the Wii mini. If you have a regular Wii, follow [this guide](hbc) instead.
 {: .notice--info}
 

@@ -2,41 +2,41 @@
 title: "Priiloader"
 ---
 
-{% include toc title="Inhoudsopgave" %}
+{% include toc title="Table of Contents" %}
 
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Priiloader zorgt voor een extra "level" veiligheid om uw Wii te beschermen tegen een Brick. Het laadt eerder dan het Wii Menu. Deze applicatie kan bepaalde hacks aan zetten voor jouw Wii Menu, en kan snel gebruikt worden via het Homebrew Kanaal, Bootmii, of vanwaar u wilt!
+Priiloader adds a level of brick protection to your Wii. It loads before the Wii Menu does (hence the name). The tool can also enable hacks for your Wii Menu, and be used to quickly launch the Homebrew Channel, BootMii, or whatever homebrew you want!
 
 ![Priiloader](/images/priiloader.jpg)
 
-Do **not** install Priiloader on a vWii (Wii mode on Wii U). Dat zal resulteren in een Brick voor uw vWii.
+Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your vWii by doing this.
 {: .notice--warning}
 
-#### Benodigdheden
+#### What you need
 
-- Een SD-kaart of USB-stick/ harde schijf
+- An SD card or USB drive
 - [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
-#### Instructies
+#### Instructions
 
-##### Deel I - Downloaden/Installeren
+##### Section I - Downloading/Installing
 
 1. Download the Priiloader installer and extract it to the root of your SD card or USB drive.
 
-##### Deel II - Het installeren van Priiloader
+##### Section II - Installing Priiloader
 
-1. Open het Homebrew Kanaal op uw Wii.
+1. Launch the Homebrew Channel on your Wii.
 2. Launch the Priiloader installer.
-3. Press the + Button on Wii Remote or the A Button on a GameCube controller. ![Install Priiloader](/images/Priiloader/installer.png) ![Installeren](/images/Priiloader/installing.png)
+3. Press the + Button on Wii Remote or the A Button on a GameCube controller. ![Install Priiloader](/images/Priiloader/installer.png) ![Installing](/images/Priiloader/installing.png)
 
-##### Deel III - Openen en het Configureren van Priiloader
+##### Section III - Entering/Configuring Priiloader
 
 1. Hold the RESET button while turning on your Wii.
    - If you are using a Wii mini, plug in a USB keyboard and hold Escape on it while turning it on.
 
-![Inschakelen](/images/Priiloader/on.jpg) ![Houd RESET ingedrukt](/images/Priiloader/reset.jpg)
+![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
 
 2. You should see the Priiloader menu. ![Menu](/images/Priiloader/mainmenu.png)
 3. Go to `System Menu Hacks`.
@@ -48,11 +48,11 @@ If you are using a USB drive to install Priiloader, make sure you do not have an
 1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
 1. Scroll to `Homebrew Channel` and press A to launch it.
 
-## Systeem Menu Hacks Lijst
+## System Menu Hacks List
 
 This is a list of the hacks you can enable with Priiloader.
 
-| Hack                                    | Omschrijving                                                                                                                                                                          |
+| Hack                                    | Description                                                                                                                                                                           |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Block Disc Updates                      | Removes the "Wii System Update" screen included with some games that forces you to update the system before playing the game.                                                         |
 | Block Online Updates                    | Disables updating your Wii. Updates will fail with error 32007.                                                                                                                       |
@@ -73,7 +73,7 @@ This is a list of the hacks you can enable with Priiloader.
 | OSReport to UsbGecko(GeckoOS,B)         | Sends Wii Menu logs to a debugging device in memory card slot B, if the Wii Menu is launched by Gecko OS.                                                                             |
 | Force Standard Recovery Mode            | Automatically launches the console in recovery mode. Used to launch recovery discs, letting users unbrick their Wii systems.                                                          |
 | Remove Diagnostic Disc Check            | Removes a check in the Wii to see if an inserted game matches the title ID of the "Wii Startup Disc".                                                                                 |
-| Lock System Menu with Black Screen      | Makes your Wii Menu load to a black screen, making you unable to use it. (Dit niet inschakelen)                                                                                       |
+| Lock System Menu with Black Screen      | Makes your Wii Menu load to a black screen, making you unable to use it. (Do not enable this)                                                                                         |
 | No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | Re-enable channels with these title IDs (originally blocked in system updates due to them being exploits).                                                                            |
 | Force Disc Games to run under IOS249    | Make discs use cIOS 249 as the game's IOS. While it cannot allow playing of burned games on its own, it is needed to play burned discs. (Can give you Error 002 on a non-burned game) |
 

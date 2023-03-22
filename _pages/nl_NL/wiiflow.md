@@ -2,7 +2,7 @@
 title: "WiiFlow"
 ---
 
-{% include toc title="Inhoudsopgave" %}
+{% include toc title="Table of Contents" %}
 
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -11,13 +11,13 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that's used to play games from a USB drive or SD card.
 
-#### Benodigdheden
+#### What you need
 
-* Een Wii
+* A Wii
 * A USB drive and/or SD card
 * [WiiFlow Lite](https://hbb1.oscwii.org/hbb/wiiflow/wiiflow.zip)
 
-Zorg ervoor dat u [cIOS](/cios) heeft geïnstalleerd voordat u dit volgt!
+Make sure you have installed [cIOS](/cios) before following this!
 {: .notice--info}
 
 We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux.
@@ -38,14 +38,14 @@ Unlike USB Loader GX, WiiFlow can load games of an SD card.
 Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
-#### Instructies
+#### Instructions
 
-##### Downloaden
+##### Downloading
 
 1. Extract WiiFlow and put the `apps` and `WiiFlow` folders on your USB drive or SD card.
 2. Insert your USB drive, and SD card if you're using one, into your Wii and launch WiiFlow from the Homebrew Channel.
 
-##### Aan de slag
+##### Getting Started
 
 This is not a full comprehensive guide on using WiiFlow. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow by using it.
 {: .notice--info}
@@ -54,7 +54,7 @@ This is not a full comprehensive guide on using WiiFlow. This is intended to hel
 * You can toggle between viewing Wii games, GameCube games, Wii Channels, Plugins, Homebrew apps by clicking the button second to last button on the right.
 * You can download game covers by going to "Settings" then "Download Covers and Banners"
 
-##### Gebruikersomgeving
+##### User Interface
 
 When WiiFlow detects games, they are displayed in flow view. When you click on a game you are given these options:
 
@@ -83,13 +83,13 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 * Exit To - Lets you exit to Wii Menu, HBC, neek2o, Priiloader and Bootmii.
 * Settings - Will open the WiiFlow Settings menu
 
-##### Opties eenmaal voltooid
+##### Options once complete
 
-[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki is a great resource with information about WiiFlow.
+[WiiFloWiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFloWiki is a great resource with information about WiiFlow.
 {: .notice--info}
 
 [Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that WiiFlow Lite can integrate with. This is optional to set up.
 {: .notice--info}
 
-[Ga door naar de sitenavigatie](site-navigation)<br> We hebben vele andere tutorials die u wellicht interessant vindt.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}

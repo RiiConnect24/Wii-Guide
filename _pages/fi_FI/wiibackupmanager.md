@@ -2,15 +2,15 @@
 title: "Wii Backup Manager"
 ---
 
-{% include toc title="Sisällysluettelo" %}
+{% include toc title="Table of Contents" %}
 
-Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiConnect24:n Discord-palvelimelle](https://discord.gg/rc24) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Wii Backup Manager is a program to copy Wii games from your computer to a USB drive so you can play the games on your Wii. It also can download game covers from [GameTDB](https://gametdb.com/) and can be used to list what games you have. This tutorial will tell you how to copy over games from your computer to your USB drive. The other features are able to be used in the easy-to-use interface.
-#### Mitä tarvitset
+#### What you need
 
-* USB-asema
+* A USB drive
 * [Wii Backup Manager](https://static.wiidatabase.de/Wii-Backup-Manager.zip)
 
 
@@ -23,9 +23,9 @@ To play multiple games, we recommend a USB-powered external hard drive for your 
 Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
-#### Ohjeet
+#### Instructions
 
-##### Osa I - Lataaminen
+##### Section I - Downloading
 
 1. Extract Wii Backup Manager, and launch the program.
 2. Insert your USB drive into your computer.
@@ -38,7 +38,7 @@ Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as othe
 4. Select `Files` to add multiple games to the program, or select `Folder` to add a whole folder of games.
 5. Select `Transfer`, then select `Drive 1` to transfer the games over. It might take a while for the games to copy over.
 
-##### Vaihtoehdot, kun valmista
+##### Options once complete
 
 [Continue to cIOS](cios)<br> cIOS is needed for your Wii to use a USB Loader.
 {: .notice--info}

@@ -1,9 +1,9 @@
 ---
-title: "Faire un don"
+title: "Donations"
 ---
 
 [![PayPal]({{ base_path }}/images/paypal_white.png){:height="72px" width="256px"}{: style="padding-bottom: .35em"}](https://www.paypal.me/RiiConnect){: .align-center}
-paypal@riiconnect24.net
+donations@riiconnect24.net
 {: .text-center}
 {: .notice--info}
 

@@ -2,7 +2,7 @@
 title: "Kirby TV Channel"
 ---
 
-{% include toc title="Innholdsfortegnelse" %}
+{% include toc title="Table of Contents" %}
 
 The Kirby TV Channel is controlled and operated by Striim Network, not RiiConnect24. Join their Discord server [here](https://discord.gg/seCnzxnE75).
 {: .notice--warning}
@@ -12,11 +12,11 @@ Striim Network is a service dedicated to bringing back the channels that support
 #### What you need
 
 * An SD card or USB drive
-* En Wii med en Internett-tilkobling
+* A Wii with an Internet connection
 * A Windows or Unix based computer
 * [Kirby TV Channel Patcher](https://github.com/StriimNetwork/Kirby-TV-Channel-Patcher/releases)
 
-#### Instruksjoner
+#### Instructions
 
 [If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
 {: .notice--info}

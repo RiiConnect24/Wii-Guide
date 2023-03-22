@@ -2,22 +2,26 @@
 title: "Open Shop Channel (Homebrew Browser)"
 ---
 
-Pokud potřebujete pomoct s čímkoliv, co týká tohoto tutoriálu, přidejte se na [Open Shop Channel Discord server](https://discord.gg/osc) (doporučeno) nebo [nám napište e-mail](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the Open Shop Channel](https://discord.gg/osc) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Homebrew Browser, na kterém je Open Shop Channel založen, funguje, ale může být zabugovaný. Homebrew také můžete získat na [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) nebo na webu [Open Shop Channel](https://oscwii.org/).
+Homebrew Browser, which is what the Open Shop Channel is based off on, does work but it can be buggy. You can also get homebrew using [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) and from the [Open Shop Channel website](https://oscwii.org/).
 {: .notice--info}
 
-[Open Shop Channel](https://oscwii.org/) je místo, kam si můžete přijít pro homebrew aplikace. Je to oživovací projekt aplikace s názvem Homebrew Browser.
+You need an Internet connection in order to use this application.
+{: .notice--warning}
 
-#### Co budete potřebovat
-* SD karta nebo USB disk
-* [Homebrew Browser](/assets/files/homebrew_browser_v0.3.9e.zip)
+The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
 
-#### Pokyny
+#### What you need
 
-1. Extrahujte Homebrew Browser do složky `apps` na vaší SD kartě nebo USB disku.
-2. Vložte SD kartu nebo USB disk do svého Wii. Nyní můžete z Homebrew Channelu Homebrew Browser spustit, pokud chcete.
+- An SD card or USB drive
+- [Homebrew Browser](/assets/files/homebrew_browser_v0.3.9e.zip)
+
+#### Instructions
+
+1. Extract the Homebrew Browser and put it in the `apps` folder on your SD card or USB drive.
+2. Insert your SD card or USB drive into your Wii. You can now launch the Homebrew Browser from the Homebrew Channel if you want to.
 
 #### Recommended Apps
 
@@ -34,7 +38,12 @@ Here are some recommended apps that you can get on the Open Shop Channel:
 - [WiiXplorer-SS](https://oscwii.org/library/app/wiixplorer-ss) - This is a file manager for your Wii. It lets you access your files on your SD Card, USB Device, and more.
 - [YABDM](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod) - This is a tool to dump content installed on your Wii to WAD files. See [our page](dump-wads) for instructions on how to use it.
 
-[Pokračujte na RiiConnect24](riiconnect24)<br> RiiConnect24 umožňuje používat ukončené online služby WiiConnect24, které zahrnují News, Forecast, Everybody Votes, Nintendo a Check Mii Out Channel, spolu s Wii Mail. Zcela dobrovolné.
+[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
+{: .notice--info}
+[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. This is optional to install.
+{: .notice--info}
+
+[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.

@@ -1,5 +1,5 @@
 ---
-title: "RiiConnect24 para Dolphin"
+title: "RiiConnect24 for Dolphin"
 ---
 
 {% include toc title="Tabla de contenido" %}
@@ -8,19 +8,19 @@ title: "RiiConnect24 para Dolphin"
 
 En esta guía te explicaremos cómo instalar RiiConnect24 en tu instalación de Dolphin.
 
-En caso de que necesites ayuda con alguna cosa relacionada con esta guía, por favor contacta a KcrPL#4625 en Discord, únete a nuestro [servidor de Discord](https://discord.gg/rc24) o [envíanos un email](mailto:support@riiconnect24.net) (soporte disponible sólo en Inglés).
+If you need help for anything regarding this tutorial, please directly contact KcrPL#4625 on Discord, join the [RiiConnect24 Discord Server](https://discord.gg/rc24) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 {% capture notice-1 %}
-Esta guía es solo para el [Emulador Dolphin](https://dolphin-emu.org).
+This guide is for [Dolphin Emulator](https://dolphin-emu.org) only.
 
-- Sigue [este tutorial](riiconnect24-wii) si quieres instalar RiiConnect24 en el emulador Dolphin.
-- Por favor sigue [esta guía](riiconnect24-vwii) si deseas instalar RiiConnect24 en el modo Wii de una consola Wii U (vWii).
+- Follow [this tutorial](riiconnect24-wii) if you'd like to install RiiConnect24 on a Wii.
+- Follow [this tutorial](riiconnect24-vwii) if you'd like to install RiiConnect24 on vWii (Wii Mode on Wii U).
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-¡NO INSTALE RIICONNECT24 EN UNA WII MINI! No funcionará y hará que el sistema deje de funcionar.
+DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
 ### Requisitos
@@ -33,33 +33,33 @@ Esta guía es solo para el [Emulador Dolphin](https://dolphin-emu.org).
 
 ##### Sección I - Instalando Dolphin
 
-Si ya tienes Dolphin instalado, puedes omitir este paso
+If you have Dolphin already installed, skip to Section II
 {: .notice--info}
 
-1. Descarga la última versión de Dolphin version beta, pero **no uses una version estable, ya que estan muy desactualizadas**
+1. Download the latest Dolphin beta version, but **not a stable version as these are very outdated!**
 2. Extract the .7z file using a program like 7-Zip or WinRAR.
-3. Ejecuta Dolphin.
+3. Start Dolphin.
 4. In Dolphin, go to `Tools` -> `Perform Online System Update` -> Choose your region. ![Actualizar la consola por Internet](/images/Dolphin_RC24/1.jpg)
 
-If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii) instead of installing the system files with the System Update option. Entra [aquí](https://wiki.dolphin-emu.org/index.php?title=NAND_Usage_Guide) para más información.
+If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii) instead of installing the system files with the System Update option. See [this page](https://wiki.dolphin-emu.org/index.php?title=NAND_Usage_Guide) for more information.
 {: .notice--info}
 
-##### Sección II - Instalación de RiiConnect24
+##### Section II - Installing RiiConnect24
 
 If you use a Windows version before Windows 10, you unfortunately cannot use WiiConnect24 inside Dolphin. You can use [this program](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin) to run it instead.
 {: .notice--danger}
 
-1. Haz clic en el enlace de arriba para ir a la página de RiiConnect24 Patcher en GitHub.
+1. Click the link above to go to the GitHub page where the patcher is.
 2. Descarga `RiiConnect24Patcher.bat` si usas Windows, o `RiiConnect24Patcher.sh` en el caso de macOS y Linux.
-3. Si usas Windows, ejecuta `RiiConnect24Patcher.bat`. En macOS y Linux, abre una Terminal pulsando Ctrl + Alt + T, escribe `bash`, luego arrastra y suelta el archivo `RiiConnect24Patcher.sh` en la Terminal, y finalmente presiona Enter. El comando debería ser `bash RiiConnect24Patcher.sh`.
-4. Presiona 1 y luego Enter para comenzar. (Nota: Estas capturas de pantalla corresponden a la versión de Windows del programa.)
-5. For this guide, choose "`Install RiiConnect24 on your Dolphin Emulator`" ![Instalar RiiConnect24](/images/RC24_Patcher/3.JPG)
-6. Elija "`Express (Recomendado)`". Te dará todo lo que necesitas. ![Ajustes Express](/images/RC24_Patcher/4.JPG)
-7. Elige la región de tu consola. ![Selecciona tu región](/images/RC24_Patcher/5.JPG)
-8. Si lo deseas, también puedes instalar otros canales que no hacen uso de RiiConnect24. Las opciones que hayas seleccionado se marcarán con `[X]`. Presiona 5 y luego Enter si no estás interesado. !\[Additional optional channels\](/images/RC24_Patcher/6.JPG
+3. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open Terminal and type `bash`, then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this: `bash RiiConnect24Patcher.sh`.
+4. Presiona 1 y luego Enter para comenzar. (NOTE: These screenshots are from the Windows version of the patcher.)
+5. For this guide, choose "`Install RiiConnect24 on your Dolphin Emulator`" ![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
+6. Choose "`Express (Recommended)`". It will give you everything you need. ![Express Settings](/images/RC24_Patcher/4.JPG)
+7. Select your region. ![Select your region](/images/RC24_Patcher/5.JPG)
+8. While you're at it, RiiConnect24 Patcher can additionally download some other optional channels that do not use RiiConnect24. `[X]` represents the options that selected. Just press 5 and `ENTER` if you're not interested. !\[Additional optional channels\](/images/RC24_Patcher/6.JPG
 9. Press `1` then `ENTER` to start patching.
-10. Sé paciente... ![¡Está parcheando!](/images/RC24_Patcher/9.JPG)
-11. Cuando termine, agradeceríamos si tomaba un minuto de su tiempo para enviar una opinión anónima a nosotros.  Si no quiere hacer eso, cierre el parcheador. Todos los archivos deberían ya estar en tu tarjeta SD. ![¡Listo!](/images/RC24_Patcher/10.JPG) ![Archivos copiados](/images/RC24_Patcher/11.PNG)
+10. Be patient... ![It's patching!](/images/RC24_Patcher/9.JPG)
+11. After it's done, we would appreciate if you take a minute to send anonymous feedback to us.  If you don't want to, close the patcher. All the files should already be on your SD Card. ![It's done!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
 12. In Dolphin, go to `Tools` and then `Install WAD`. Install all the WAD files one by one.
 13. Unzip [AnyGlobe Changer v1.0](https://github.com/fishguy6564/AnyGlobe-Changer/releases/download/1.0/AnyGlobe.Changer.zip) and run the boot.dol file. Select your region and save. This will allow the Everybody Votes Channel to work.
 
@@ -69,5 +69,5 @@ Unfortunately, Wii Mail doesn't work in Dolphin yet.
 You will have to launch the Everybody Votes Channel 4 times at most in order for it to start working.
 {: .notice--warning}
 
-[Si recibes algún otro error con el Canal Tiempo o el Canal Noticias, como algún código de error empezando en FORE o NEWS o un mensaje de descontinuación, puedes intentar eliminar tus VFFs con RC24-Clear-Tool](deleting-vffs).
+[If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with RC24-Clear-Tool](deleting-vffs).
 {: .notice--warning}

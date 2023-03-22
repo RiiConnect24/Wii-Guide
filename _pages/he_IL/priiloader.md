@@ -14,14 +14,14 @@ Priiloader adds a level of brick protection to your Wii. It loads before the Wii
 Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your vWii by doing this.
 {: .notice--warning}
 
-#### לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
+#### What you need
 
 - An SD card or USB drive
 - [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
-#### הוראות
+#### Instructions
 
-##### חלק א - הורדה והתקנה
+##### Section I - Downloading/Installing
 
 1. Download the Priiloader installer and extract it to the root of your SD card or USB drive.
 

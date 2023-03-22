@@ -4,7 +4,7 @@ title: "Dos and Don'ts of Wii Modding"
 
 {% include toc title="Table of Contents" %}
 
-Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor entra no [server do RiiConnect24 no Discord](https://discord.gg/rc24) (recomendado) ou [envia-nos um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Here's a list of things you should and should not do once you've modded your Wii, to make sure you don't brick it.
@@ -19,7 +19,7 @@ Here's a list of things you should and should not do once you've modded your Wii
 - **DO NOT** modify, rename, or delete random files on your Wii NAND unless you know what you are doing.
 - **DO NOT** use the homebrew app "KoreanKii" on a non-Korean Wii.
 - **DO NOT** Install any IOS or Wii Menu on a Wii mini other than [d2xl cIOS](cios-mini). Doing so will brick your console if a Wi-Fi card is not soldered to it.
-- Unfortunately, other replacement servers are vulnerable to an exploit that can brick your Wii if you use them. **DO NOT** use any Nintendo Wi-Fi Connection replacement on your Wii except for [Wiimmfi](wiimmfi). [RiiConnect24](riiconnect24) is safe to use as well.
+- **DO NOT** use any Nintendo Wi-Fi Connection replacement on your Wii except for [Wiimmfi](wiimmfi). Unfortunately, other replacement servers are vulnerable to an exploit that can brick your Wii if you use them. [RiiConnect24](riiconnect24) is safe to use as well.
 
 If you follow these guidelines, you won't have to worry about bricking your Wii. Wii modding is safe, and bricks usually occur due to something done by the user that is on this list.
 

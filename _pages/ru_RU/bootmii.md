@@ -1,51 +1,51 @@
 ---
-title: "Резервная копия BootMii"
+title: "BootMii Backup"
 ---
 
-{% include toc title="Оглавление" %}
+{% include toc title="Table of Contents" %}
 
-Если вам нужна помощь относительно этого руководства, пожалуйста присоединитесь [к дискорд-серверу RiiConnect24](https://discord.gg/rc24) (рекомендовано), или [напишите нам по адресу support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![Логотип BootMii](/images/bootmii.png)
+![BootMii Logo](/images/bootmii.png)
 
-Вам нужна **SD-карта**, чтобы создать резервную копию NAND, используя BootMii. If you do not have one, you can skip this page, although it is highly recommended to make a NAND backup if you can.
+You need an **SD card** to create a NAND backup using BootMii. If you do not have one, you can skip this page, although it is highly recommended to make a NAND backup if you can.
 {: .notice--warning}
 
-Рекомендуется установить BootMii как boot2, но это возможно только на ранних консолях Wii. Otherwise, it can only be installed as an IOS.
+BootMii as boot2 is recommended, but only available to install on early Wiis. Otherwise, it can only be installed as an IOS.
 {: .notice--info}
 
-Одна из важнейших возможностей BootMii - способность резервного копирования и восстановления NAND-хранилища вашей Wii. Мы рассмотрим как создать резервную копию NAND. Мы рекомендуем делать резервную копию NAND регулярно или перед рискованными действиями с консолью (хотя, если вы знаете, что делаете, то вам не придётся рисковать). You can then restore from that backup for any reason.
+One of BootMii's most important features is the ability to backup and restore your Wii's NAND storage. We will be going over how to perform a NAND backup. You can then restore from that backup for any reason. It's a good idea to make a NAND backup regularly or before doing something risky to your console (and if you know what you're doing, you won't have to do anything risky).
 
-#### Требования
-* SD-карта с, как минимум, 512МБ свободного места
+#### Requirements
+* An SD card with at least 512MB of free space
 
-#### Инструкции
-Если вы установили BootMii как boot2, вам понадобится запустить BootMii, перезапустив консоль. В этом случае пропустите шаги 1 и 2.
+#### Instructions
+If you have BootMii installed as boot2 you will need to launch BootMii by restarting the console. Skip steps 1 and 2 if this is the case.
 {: .notice--info}
-1. Запустите Homebrew Channel.
-2. Нажмите кнопку HOME, затем выберите "Launch BootMii".
+1. Launch the Homebrew Channel.
+2. Press the HOME Button, then select "Launch BootMii".
 
-    Управление BootMii невозможно с помощью контроллера Wii Remote. Вы должны использовать кнопки POWER и RESET на консоли, или контроллер GameCube, воткнутый в 1-ый порт. To select an option, press RESET on your Wii or A on your GameCube controller. Для переключения между опциями нажмите POWER на вашей Wii (или вправо на крестовине контроллера GameCube).
+    Navigating BootMii is not possible using a Wii Remote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. To navigate between options, press POWER on your Wii (or left/right on the +Control Pad on a GameCube controller). To select an option, press RESET on your Wii or A on your GameCube controller.
     {: .notice--info}
 
 
-    Если экран остаётся чёрным и разъём для диска мигает синим индикатором, значит на вашей SD-карте отсутствуют файлы BootMii. Download [this zip file](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
+    If the screen stays black and the blue disc drive light is blinking, you are missing the BootMii files on your SD card. Download [this zip file](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
     {: .notice--warning}
 
 3. Select the Options button (the icon with the gears).
 4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left).
-- Начнётся процесс резервирования NAND. Можете следить за прогрессом на экране.
-- "Плохие Блоки" - это нормально. Не волнуйтесь, когда увидите их в резервной копии NAND.
-- После этого шага копия будет проверена. Проверку можно пропустить, нажав кнопку EJECT на вашей Wii, но это не рекомендуется. Note that if you have a disc inserted in the disc drive, pressing EJECT will also eject the disc.
-5. Когда резервное копирование полностью завершится, выйдите с экрана резервирования NAND, нажав любую кнопку.
-6. Чтобы выйти из BootMii, нажмите кнопку Back (та, что со стрелкой), затем вы можете нажать кнопку Wii Menu или кнопку Homebrew Channel, чтобы выйти куда вы хотите.
+- A NAND backup will start. You can watch the progress on the screen.
+- "Bad Blocks" are normal. Don't worry when you see some on a NAND backup.
+- After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii. Note that if you have a disc inserted in the disc drive, pressing EJECT will also eject the disc.
+5. When the backup is fully complete, exit the NAND backup screen by pressing any button.
+6. To exit BootMii, press the Back button (the one with the arrow) and then you can press either the Wii Menu button or the Homebrew Channel button to exit where you want to.
 
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). Это полезно в том случае если вы превратите свою Wii в "кирпич".
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). This is useful in the unlikely case you brick your Wii.
 {: .notice--info}
 
 To make sure you don’t lose the files, it's recommended to copy `nand.bin` and `keys.bin` from the root of your SD card to your computer.
 {: .notice--info}
 
-[Continue to Priiloader Installation](priiloader) Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii as IOS.
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it, especially if you were only able to install BootMii as IOS.
 {: .notice--info}

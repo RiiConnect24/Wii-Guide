@@ -1,65 +1,65 @@
 ---
-title: "Wii本体をVer 4.3に更新する"
+title: "Updating Wii Menu to v4.3"
 ---
 
-{% include toc title="目次" %}
+{% include toc title="Table of Contents" %}
 
-このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-このチュートリアルでは、HBC導入済みWiiをバージョン4.3にアップデートする方法について説明します。
+This tutorial will explain how to update your Wii Menu to version 4.3, if you have already homebrewed your Wii.
 
-#### 必要なもの
+#### What you need
 
-* SDカードまたはUSBドライブ
-* Windowsを搭載したコンピュータ
+* An SD card or USB drive
+* A computer with Windows on it
 * [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest)
 * [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
-Windowsコンピュータをお持ちでなければ、[RiiConnect24 Discordサーバ](https://discord.gg/rc24)に参加する（推奨）か[support@riiconnect24.netにメール](mailto:support@riiconnect24.net)して相談してください。
+If you don't have a Windows computer, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-#### 手順
+#### Instructions
 
-##### セクション I - ダウンロード
+##### Section I - Downloading
 
-以下を実行するには、先にWiiを改造しておく必要があります。 改造されてなければ、以下より先に[このガイド](get-started)からはじめるのがベストです。
+Your Wii must be modded in order to perform this. If it isn't, then it's best to follow [the guide](get-started) first before doing this.
 {: .notice--info}
 
-ブリックを防ぐためにまず[Priiloaderをインストールしておいてください](priiloader)。 加えて、[BootMii](bootmii)も（初期「神機」WiiならBoot2に、そうでなければIOSに）インストールします。 ブリック対策を導入し、ガイドに正しく従うことで、Wiiをブリックから安全に保護できます。 PriiloaderとBootMiiをインストールせずにこの後の操作を続けてはいけません！
+To protect against bricks, [make sure you install Priiloader](priiloader). Also, install [BootMii](bootmii) (as Boot2 if you have an early Wii, otherwise IOS). Installing brick protection along with following the guide correctly should keep you safe from bricks. DO NOT CONTINUE UNTIL YOU HAVE INSTALLED PRIILOADER AND BOOTMII!
 {: .notice--danger}
 
-1. NUS DownloaderのZIPファイルを展開し、アプリケーションを実行します。
-2. `Database...` > `System` > `0000000100000002 - System Menu`に移動し、下記のリージョン表を参考に適するバージョンを選択します。
-3. `Pack WAD`にチェックをいれます。
-4. `Start NUS Download!`を押します。
-5. `titles` -> `0000000100000002` -> `（Wiiバージョン）`を開き、WADファイルをSDカード・USBドライブの`wad`フォルダにコピーします。
-6. `IOS` -> `000000010000003A` -> `Latest Version`について操作２〜５を繰り返します。
-7. （[RiiConnect24](riiconnect24)をお使いなら、この操作は不要です）`IOS` -> `0000000100000050 - IOS80` -> `Latest Version`について操作２〜５を繰り返します。
+1. Extract the .zip file for NUS Downloader vWii and open the application.
+2. Go to `Database...` > `System` > `0000000100000002 - System Menu` and select the version corresponding to your region as shown in the table below.
+3. Make sure `Pack WAD` is checked.
+4. Press `Start NUS Download!`.
+5. Open the `titles` -> `0000000100000002` -> (Wii Menu version) and copy the .wad file to a folder called `wad` on your SD Card or USB drive.
+6. Repeat steps 2-5 with `IOS` -> `000000010000003A` -> `Latest Version`.
+7. (If you have [RiiConnect24](riiconnect24), you can skip this step) Repeat steps 2-5 with `IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
 
-| リージョン | Wii本体のバージョン |
-| ----- | ----------- |
-| 日本    | v512 (4.3J) |
-| アメリカ  | v513 (4.3U) |
-| ヨーロッパ | v514 (4.3E) |
-| 韓国    | v518 (4.3K) |
+| Region | Wii Menu version |
+| ------ | ---------------- |
+| Japan  | v512 (4.3J)      |
+| USA    | v513 (4.3U)      |
+| Europe | v514 (4.3E)      |
+| Korea  | v518 (4.3K)      |
 
-##### セクション II - インストール
+##### Section II - Installing
 
-このアプリは十字ボタンで操作します。
+You use the +Control Pad to use this tool.
 {: .notice--info}
 
-1. WiiにSDカードまたはUSBドライブを接続します。
-2. WiiでHomebrew Channelを起動します。
-3. Wii Mod Liteを起動します。
-4. Wiiリモコンで十字キーを使って`WAD Manager`を選択し、`wad`フォルダに移動します。
-5. Aを押してIOS80の`.wad`ファイルをインストールします。 《インストールが成功したことを確認します。もし失敗ならここで中断してください。》
-6. Aを押してWiiメニューWADをインストールします。
-7. Aを押してIOS58の`.wad`ファイルをインストールします。 《インストールが成功したことを確認します。もし失敗ならここで中断してください。》
-8. インストールが成功したら、HOMEボタンを押してHomebrew Channelに戻ります。
+1. Put your SD card or USB drive in your Wii.
+2. Launch the Homebrew Channel on your Wii.
+3. Launch Wii Mod Lite.
+4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+5. Press A to install the IOS80 `.wad` file. [`Make sure the installation is successful, otherwise abort.`]
+6. Press A to install the Wii Menu WAD.
+7. Press A to install the IOS58 `.wad` file. [`Make sure the installation is successful, otherwise abort.`]
+8. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
-WiiメニューWADのインストールではPriiloaderが**削除されます**。 再びインストールするまではWiiを再起動してはいけません。さもないとブリックする恐れがあります。
+**Do not return to the Wii menu yet, otherwise you could BRICK. Install [Priiloader](priiloader) first.**
 {: .notice--danger}
 
-[Priiloaderのインストールに進む](priiloader)<br> Priiloaderはブリック対策を一段追加するもので、おすすめです。
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it.
 {: .notice--info}

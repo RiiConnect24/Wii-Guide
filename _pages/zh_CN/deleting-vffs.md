@@ -1,5 +1,5 @@
 ---
-title: "RiiConnect24 清除工具"
+title: "RiiConnect24 Clear Tool"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -9,25 +9,25 @@ title: "RiiConnect24 清除工具"
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-RiiConnect24 清除工具是一个可以修复这些错误和问题的自制应用:
+RiiConnect24 Clear Tool is a homebrew application that can fix these specific errors and issues:
 
-+ “停止运营”信息
++ Discontinued Message
 + NEWS/FORE000001
 + NEWS/FORE000003
 + NEWS/FORE000005
 + NEWS/FORE000099
 + NEWS000006
-+ 清空Wii 邮箱以防止变满(这可以修复Wii 邮箱)
++ Clears out Wii mailboxes in case they are full (this can fix Wii Mail)
 
-#### 你需要
+#### 你需要的是
 * 一张SD卡或U盘
-* [RiiConnect24 清除工具](https://oscwii.org/library/app/RC24-Clear-Tool)
+* [RiiConnect24 Clear Tool](https://oscwii.org/library/app/RC24-Clear-Tool)
 
 #### 步骤
 
-1. 解压RiiConnect24 清除工具并将其放到SD卡或U盘的`apps`文件夹
-2. 将SD卡或U盘插入Wii，然后从Homebrew Channel 启动RiiConnect24 清除工具。
-3. 该应用程序将帮您解决您遇到的任何问题。
+1. Extract RiiConnect24 Clear Tool and put it in the `apps` folder on your SD card or USB drive.
+2. Insert your SD card or USB drive into your Wii, and launch RiiConnect24 Clear Tool from the Homebrew Channel.
+3. The app will help you resolve whatever problem you are having.
 
-[返回 RiiConnect24 安装页面](riiconnect24)
+[Return to RiiConnect24 installation page](riiconnect24)
 {: .notice--info}

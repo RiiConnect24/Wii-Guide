@@ -31,7 +31,7 @@ RiiTag es un gamertag personalizable y dinámico. Al compartir tu gamertag (una 
 5. Haz clic en `Show Key` y apunta la clave que se muestra. Será necesario usarla más adelante.
 6. Haz clic en `Submit` para guardar los cambios.
 
-¡No compartas la clave de tu RiiTag con nadie! Si lo haces, otras personas podrían abusar tu tag. Si lo haces, otras personas podrían abusar tu tag.
+¡No compartas la clave de tu RiiTag con nadie! Si lo haces, otras personas podrían abusar tu tag. If you do, people can abuse your tag.
 {: .notice--warning}
 
 ##### Sección II - Preparando archivos en la tarjeta SD

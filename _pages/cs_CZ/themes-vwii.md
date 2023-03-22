@@ -1,12 +1,12 @@
 ---
-title: "Instalace Wii Menu skinů na vWii (Wii U)"
+title: "Installing Wii Menu Themes on vWii"
 ---
 
 {% include toc title="Table of Contents" %}
 
-Chcete nahradit nudné bílé výchozí prostředí vašeho Wii Menu nečím neobyčejným? Tento návod vám pomůže aplikovat skin na vaše Wii Menu!
+Are you tired of the boring, plain white theme on your Wii Menu, and want a cool theme instead? This tutorial will help you get a new theme for your Wii Menu!
 
-Neručíme **ŽÁDNÝM** způsobem za případné bricknutí nebo jakékoli poškození vaší konzole, vůbec. Pokud budete postupovat přesně podle tohoto návodu, neměli byste narazit na žádný problém.
+We are **NOT** responsible if you brick, or damage your console in any way whatsoever. If you follow this guide exactly, you shouldn't have any problems.
 {: .notice--danger}
 
 Do **NOT** install the themes made in this guide on an actual Wii. They are only compatible with the vWii System Menu and will brick an actual Wii.
@@ -25,13 +25,13 @@ If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.ne
 
 * A Wii U with the Homebrew Channel installed.
 * A Wiimote without Wii MotionPlus
-* SD karta
-* Počítač běžící na Windows (nebo Mono/Wine, pokud se jedná o Mac/Linux)
+* An SD card
+* A computer with Windows on it (or using Mono or Wine on Mac/Linux)
 * [MyMenuify](/assets/files/Mymenuify-Old-vWii.zip)
 * [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 * [NUS Downloader (vWii)](/assets/files/NUSDownloader-vwii.zip)
 
-#### Odkazy na skiny
+#### Theme Links
 
 Below are some links to themes.
 
@@ -42,12 +42,12 @@ Below are some links to themes.
 Only themes from the RiiConnect24 Themes page have been tested on vWii. Themes from other sources may not be entirely compatible with vWii, use these at your own risk.
 {: .notice--warning}
 
-UJISTĚTE SE, ŽE JSTE SI PŘEČETLI VEŠKERÁ VAROVÁNÍ VÝŠE PŘEDTÍM, NEŽ BUDETE POKRAČOVAT!
+MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
 {: .notice--danger}
 
-#### Pokyny
+#### Instructions
 
-##### Část I - Vyhledání skinu
+##### Section I - Finding a Theme
 
 * When choosing a theme, it is important to make sure that your theme is compatible with the vWii System Menu.
 
@@ -62,9 +62,9 @@ This assumes your vWii is on the latest Wii Menu version.
 
 There are a couple of ways to get the .app files for your vWii System Menu, in this guide we'll be using the vWii version of NUS Downloader.
 
-1. Open the folder and launch NUS Downloader.
-2. Open the menu in NUS Downloader and click the database button.
-3. Go to System > System Menu and select a version according to your region.
+1. Extract the .zip file for NUS Downloader vWii and open the application
+2. Click on `Database...`
+3. Go to `System` > `System Menu` and select the version corresponding to your region as shown in the table below.
 
 | Region | vWii Menu version |
 | ------ | ----------------- |
@@ -112,7 +112,7 @@ If you did everything correctly, you should now have your custom theme installed
 
 ##### Reverting to Original Theme
 
-1. Spusťte Homebrew Channel.
+1. Launch the Homebrew Channel.
 2. Launch MyMenuify and navigate to your theme folder.
 3. Select the .app file you copied to the SD card at the end of section 2 as if you were installing a theme.
 4. Select Install and wait until it finishes.

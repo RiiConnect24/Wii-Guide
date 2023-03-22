@@ -2,31 +2,31 @@
 title: "FAQ"
 ---
 
-![Logo Wii jaune de RiiConnect24](/images/Wii_Yellow_Gray.jpg)
+![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
 
-### Est-il risqué d'hacker ma console ?
-Les bricks (un état où soit certaines parties de vos logiciels Wii ne fonctionnent pas, soit votre Wii ne fonctionne pas du tout) sont extrêmement rares, sauf si vous ignorez/contournez tous les contrôles de sécurité, ou faites quelque chose de risqué ou de naïf comme installer une ancienne version du menu Wii. Assurez-vous d'installer [BootMii](bootmii) et [Priiloader](priiloader) pour vous protéger des bricks !
+### How risky is hacking my console?
+Bricks (a state where either some parts of your Wii software are not working, or your Wii is not working at all) are extremely rare unless you ignore/circumvent all safety checks, or do something risky or naive like installing an older version of the Wii Menu. Make sure you install [BootMii](bootmii) and [Priiloader](priiloader) to protect yourself from bricks!
 
-### Où puis-je obtenir de l'aide ?
-Vous pouvez rejoindre [le serveur Discord RiiConnect24](https://discord.gg/rc24) (recommandé, en anglais) ou [nous envoyer un e-mail à support@riiconnect24.net](mailto:support@riiconnect24.net) pour obtenir de l'aide.
+### Where should I go for support?
+You can join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for assistance.
 
-### Quelles sont les exigences et/ou recommandations concernant la carte SD ?
-Vous avez besoin d'une carte SD de minimum 128 Mo pour exécuter un exploit.
+### What are the SD card requirements and/or recommendations?
+You will need an SD card with at least 128MB to run an exploit.
 
-- Si vous utilisez les exploits BlueBomb, str2hax ou FlashHax, vous n'avez pas besoin de carte SD.
+- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card.
 
-Pour stocker les applications homebrews, nous recommandons une carte SD d'au moins 2 Go.
+To store homebrew applications, we recommend an SD card with at least 2 GB.
 
-### J'ai obtenu le code d'erreur XXXXXX sur Wiimmfi, comment l'éviter ?
-Afin de vérifier la raison de l'erreur, veuillez visiter la [page d'erreurs de Wiimmfi](https://wiimmfi.de/error).
+### I got error code XXXXXX in Wiimmfi, how to fix it?
+In order to check what the reason for the error is, please visit the [Wiimmfi error page](https://wiimmfi.de/error).
 
-### Quelles sont les limites du modding de la vWii (Wii virtuelle de la Wii U) ?
-Voici une liste de choses qui peuvent potentiellement **BRICKER** votre vWii (ne faites pas ces choses !) :
-* Installation d'un IOS pour une console Wii sur vWii.
-* Installation des thèmes du menu Wii non formatés correctement pour la vWii et/ou votre région.
-* Installation de BootMii et/ou Priiloader/Preloader.
-* Défaillance lors de l'installation de titres cruciaux du système/IOS (par exemple, une panne de courant).
-* Modification de la NAND de la vWii sans savoir ce que vous faites.
+### What are the limitations in vWii modding?
+The following is a list of things that can potentially **BRICK** your vWii (don't do these things!):
+* Installing IOS for a Wii console on vWii.
+* Installing Wii menu themes not formatted correctly for vWii and/or your region.
+* Installing BootMii and/or Priiloader/Preloader.
+* Failure during the install of crucial system/IOS titles (e.g. power outage).
+* Modifying the vWii NAND without knowing what you are doing.
 
-### Comment puis-je supprimer le contrôle parental ?
-Le [générateur mkey](https://mkey.salthax.org) peut générer le code nécessaire à la suppression du contrôle parental.
+### How can I remove parental controls?
+The [mkey generator](https://mkey.salthax.org) can generate the code required to remove parental controls.

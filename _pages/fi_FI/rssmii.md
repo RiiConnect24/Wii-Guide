@@ -1,31 +1,31 @@
 ---
-title: "RSSMiin asentaminen"
+title: "Installing RSSMii"
 ---
 
-{% include toc title="Sisällysluettelo" %}
+{% include toc title="Table of Contents" %}
 
-Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiConnect24:n Discord-palvelimelle](https://discord.gg/rc24) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Haluatko saada RSS-syötteiden päivityksiä Wii Message Boardillesi? Tämä opas kertoo sinulle, kuinka asentaa RSSMii.
+Do you want to get RSS feed updates on your Wii Message Board? This tutorial will tell you how to set RSSMii up.
 
 ![RSSMii](/images/rssmii.png)
 
-#### Mitä tarvitset
+#### What you need
 
-* SD-kortti
+* An SD card
 * [RSSMii](https://github.com/RiiConnect24/rssmii/releases)
 
-#### Ohjeet
-##### Osa I - Lataaminen/Asentaminen
+#### Instructions
+##### Section I - Downloading/Installing
 
-1. Pura RSSMii ja laita se `apps` kansioon SD-kortillesi.
-2. Meidän on luotava tiedosto `feeds.xml` SD-kortin juureen, jotta sovellus tietää, mitä syötteitä tilata sinulle.
+1. Extract RSSMii and put it in the `apps` folder on your SD card.
+2. We need to create a `feeds.xml` on the root of the SD card so the app will know what feeds to subscribe you to.
 
-Jos käytät Windows-käyttöjärjestelmää, voit käyttää KcrPL:n luomaa [RSS Feeds Creator](https://github.com/RiiConnect24/rssmii/releases/download/v1.4.1/RSSFeedsCreator.bat)-ohjelmaa. Se luo automaattisesti `feeds.xml` tiedoston ja kopioi sen SD-kortillesi!
+If you're using the Windows Operating System, you can use the [RSS Feeds Creator](https://github.com/RiiConnect24/rssmii/releases/download/v1.4.1/RSSFeedsCreator.bat) program created by KcrPL. It will automatically create a `feeds.xml` file and will copy it to your SD card!
 {: .notice--info}
 
-<b>Jos sinulla ei ole Windows-tietokonetta, käytä tätä mallia ja käytä suosikkitekstinkäsittelyohjelmaasi tehdäksesi `feeds.xml`-tiedoston.</b>
+<b>If you don't have a Windows computer, use this template and use your favorite text editor to make the `feeds.xml`.</b>
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -35,7 +35,7 @@ Jos käytät Windows-käyttöjärjestelmää, voit käyttää KcrPL:n luomaa [RS
 </rss>
 ```
 
-Korvaa "name"-osa otsikolla, jonka haluat laittaa syötteelle. Varmista, että se ei ole kovin pitkä, koska ei ole niin paljon tilaa. Sen jälkeen korvaa linkkiosa RSS-syötteen linkillä. Voit laittaa niin monta syötettä kuin haluat. Älä poista "CDATA"-osaa.
+Replace the "name" portion with the title you want to put for the feed. Make sure it's not very long, since there's not that much space. Then, replace the link portion with the link to the RSS feed. You can put as many feeds as you want. Don't delete the "CDATA" part.
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -45,19 +45,19 @@ Korvaa "name"-osa otsikolla, jonka haluat laittaa syötteelle. Varmista, että s
 </rss>
 ```
 
-Tallenna tekemäsi syöte SD-korttisi juureen.
-3. Käynnistä RSSMii Homebrew Channelista.
-4. Paina A vahvistaaksesi, että haluat tilata syötteet. Älä välitä ES_GetTitleID:iin liittyvästä virheestä, kaikki on kunnossa.
-5. Kun kaikki on valmista, paina HOME palataksesi Homebrew Channeliin. Sinun pitäisi pian saada RSS-syötepäivityksiä Wiillesi, nauti!
+Save the feed you made to the root of your SD Card.
+3. Launch RSSMii from the Homebrew Channel.
+4. Press A to confirm you want to subscribe to the feeds. Ignore the error about ES_GetTitleID, everything is fine.
+5. Once everything is done, press HOME to go back to the Homebrew Channel. You should soon get RSS feed updates on your Wii, enjoy!
 
-Etkö saa syötepäivityksiä lainkaan? Kokeile RSS-syötettä, joka päivittyy useammin, kuten esimerkiksi uutissyöte. Jos RSS-syöte ei päivity usein, niin et saa monia päivitystä.
+Not getting any feed updates? Try an RSS feed that updates more frequently, like a feed with news for example. If the RSS feed doesn't update often, then you won't get many updates.
 {: .notice--warning}
 
-Suosittelemme, että käytät vain muutamia syötteitä, koska jos tilaat paljon syötteitä, voit saada tonneittain viestejä Wiillesi.
+We recommend you use just a few feeds, because if you subscribe to a lot of feeds you can get a ton of mail on your Wii.
 {: .notice--info}
 
-Jos et saa päivityksiä muutaman päivän sisällä, saatat joutua tilaamaan RSS-syötteet uudelleen. Käynnistä RSSMii uudelleen Homebrew Channelista ja se luo täysin uudet tilaukset.
+If you're not receiving updates after a few days, you might need to subscribe to the RSS feeds again. Launch RSSMii from the Homebrew Channel again and it'll create brand new subscriptions.
 {: .notice--info}
 
-[RSSMiin poistaminen](rssmii-remove)
+[Removing RSSMii](rssmii-remove)
 {: .notice--info}

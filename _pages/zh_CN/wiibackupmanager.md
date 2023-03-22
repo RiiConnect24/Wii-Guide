@@ -7,47 +7,47 @@ title: "Wii Backup Manager"
 如果你需要有关本教程的任何帮助, 请加入[RiiConnect24 Discord服务器](https://discord.gg/rc24) (推荐)或 [发送电子邮件到 support@riiconnect24.net](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
-Wii Backup Manager是一个将Wii游戏从电脑复制到Wii的软件，以便从Wii上玩游戏。 它也可以从[GameTDB](https://gametdb.com/)下载封面并列出您拥有的游戏。 此教程将告诉您如何将游戏从电脑复制到U盘。 其它功能也易于使用。
+Wii Backup Manager is a program to copy Wii games from your computer to a USB drive so you can play the games on your Wii. It also can download game covers from [GameTDB](https://gametdb.com/) and can be used to list what games you have. This tutorial will tell you how to copy over games from your computer to your USB drive. The other features are able to be used in the easy-to-use interface.
 #### 你需要的是
 
 * 一个U盘
 * [Wii Backup Manager](https://static.wiidatabase.de/Wii-Backup-Manager.zip)
 
 
-如果您使用Mac，我们推荐使用[Witgui](https://desairem.com/wordpress/category/witgui-download/)，或适用于Windows、MacOS、Linux的[Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion)。 Wii Backup Manager只兼容Windows。
+We recommend you copy games over with [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux. Wii Backup Manager is only compatible with Windows.
 {: .notice--info}
 
-我们推荐用USB硬盘连接Wii玩游戏。 我们将在本指南中称它为"U盘"。 只要它们有USB2向后兼容，在市场上找到的大部分硬盘都可以工作。 容量1TB及以上的硬盘会正常工作。 U盘也可以工作，但由于大小它将无法存储很多游戏。
+To play multiple games, we recommend a USB-powered external hard drive for your Wii. We will refer to it as a "USB drive" in this guide. Most of the ones you can find on the market should work fine if they have USB 2 backwards compatibility. Drives with 1 TB or more in capacity will work. A flash drive will also work, but due to the size of a flash drive, it won't be able to store as many games.
 {: .notice--info}
 
-确保U盘格式化为FAT32或NTFS。 不要格式化为exFAT、extFS或WBFS，后者是存储Wii游戏的旧格式。
+Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
 #### 步骤
 
 ##### 第一章 - 下载
 
-1. 解压Wii Backup Manager并运行。
-2. 将U盘插入电脑。
+1. Extract Wii Backup Manager, and launch the program.
+2. Insert your USB drive into your computer.
 
-##### 第二节 - 复制游戏
+##### Section II - Copying Games Over
 
-1. 转到`磁盘1` 标签，选择`磁盘`。
-2. 选择为Wii游戏使用的硬盘。
-3. 转到`文件`标签，选择`添加`。
-4. 选择`多个文件`以添加多个游戏或选择`文件夹`添加游戏文件夹。
-5. 选择`传输`，然后选择`磁盘1`来传输游戏。 传输游戏可能需要一些时间。
+1. Go to the `Drive 1` tab, then select `Drive`.
+2. Select the drive that you're using for the Wii games.
+3. Go to the `Files` tab, then select `Add`.
+4. Select `Files` to add multiple games to the program, or select `Folder` to add a whole folder of games.
+5. Select `Transfer`, then select `Drive 1` to transfer the games over. It might take a while for the games to copy over.
 
-##### 一旦完成设置
+##### Options once complete
 
-[继续cIOS](cios)<br> cIOS是使用USB Loader的必需品。
+[Continue to cIOS](cios)<br> cIOS is needed for your Wii to use a USB Loader.
 {: .notice--info}
 
-[继续USB Loader GX](usbloadergx)USB Loader GX是一个USB Loader，可以让Wii从U盘玩游戏。
+[Continue to USB Loader GX](usbloadergx) USB Loader GX is a USB Loader that you can use to play games on your Wii from a USB drive.
 {: .notice--info}
 
-[继续WiiFlow](wiiflow) WiiFlow是一个USB Loader，可以让Wii从U盘或SD卡玩游戏。
+[Continue to WiiFlow](wiiflow) WiiFlow is a USB Loader that you can use to play games on your Wii from a USB drive or SD Card.
 {: .notice--info}
 
-[继续 网站导览](site-navigation) 我们有许多你可能喜欢的其他教程。
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}

@@ -4,26 +4,26 @@ title: "SysCheck"
 
 {% include toc title="Table of Contents" %}
 
-Dacă ai nevoie de ajutor pentru orice legat de acest tutorial, te rugăm să te alături [serverului de discord RiiConnect24](https://discord.gg/rc24) (recomandat) sau [scrie-ne un email la support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Un SysCheck listează toate IOS-urile și cIOS-urile care sunt pe consola ta, împreună cu câteva informații despre fiecare dintre ele. Îți oferă de asemenea și alte informații utile. Când ai probleme legate de IOS în consola ta, cineva s-ar putea să îți ceară să faci un SysCheck.
+A SysCheck lists all the IOS and cIOS that are on your Wii, along with some information about each of them. It also gives you some other useful information. When you have IOS-related problems on your Wii, someone might ask you to do a SysCheck.
 
-#### De ce ai nevoie
+#### What you need
 
-* Un card SD sau o unitate USB
-* [SysCheck HacksDen Edition](https://hbb1.oscwii.org/hbb/SysCheckHDE/SysCheckHDE.zip)
+* An SD card or USB drive
+* [SysCheck ModMii Edition](https://hbb1.oscwii.org/hbb/SysCheckME/SysCheckME.zip)
 
-#### Instrucțiuni
-##### Secțiunea I - Descărcare/Instalare
+#### Instructions
+##### Section I - Downloading/Installing
 
-1. Extrage SysCheck HacksDen Edition pe cardul tău SD sau unitatea ta USB.
-2. Introduce cardul tău SD sau unitatea ta USB în Wii, și pornește SysCheck HacksDen Edition din Homebrew Channel.
+1. Extract SysCheck ModMii Edition to your SD card or USB drive.
+2. Insert your SD card or USB drive into your Wii, and launch SysCheck ModMii Edition from the Homebrew Channel.
 
-##### Secțiunea II - Efectuarea unui SysCheck
+##### Section II - Performing a SysCheck
 
-1. Așteaptă ca programul să primească niște informații despre consola ta.
-2. Când "This IOS will be tested (Please select)" este afișat pe ecran, apasă A. ![Choose IOS](/images/SysCheck/1.png)
-3. Așteaptă ca programul să primească niște informații despre IOS-ul tău.
-4. După ce este gata, apasă Butonul `A` dacă vrei să vezi log-ul. ![Completed](/images/SysCheck/2.png)
-5. Dacă vrei să împărtășești SysCheck-ul, poți apasă Butonul `A`, care îl va încărca la [syscheck.rc24.xyz](https://syscheck.rc24.xyz/) și îți va da un link. Poți de asemenea să împărtășești fișierul `sysCheck.csv` salvat în rădăcina Cardului tău SD. Fișierul `IOSsysCheck.log` (salvat în rădăcină de asemenea) conține informații adiționale despre IOS-ul tău.
+1. Wait for the program to get some information about your Wii.
+2. When "This IOS will be tested (Please select)" is shown on the screen, press A. ![Choose IOS](/images/xfb1_n000562_640x480.png)
+3. Wait for the program to get some information about your IOS.
+4. After it finishes, press the `A` Button if you want to view the log. ![Completed](/images/xfb1_n000160_640x480.png)
+5. If you want to share the SysCheck, you can press the `A` Button, which will upload it to [syscheck.rc24.xyz](http://syscheck.rc24.xyz/) and give you a link. You can also share the `sysCheck.csv` saved to the root of your SD Card or USB Drive. The `IOSsysCheck.log` file (saved to the root as well) contains additional information about your IOS.

@@ -1,65 +1,65 @@
 ---
-title: "Mise à jour du menu Wii en v4.3"
+title: "Updating Wii Menu to v4.3"
 ---
 
-{% include toc title="Table des matières" %}
+{% include toc title="Table of Contents" %}
 
-Si vous avez besoin d'aide pour quoi que ce soit concernant ce tutoriel, veuillez rejoindre [le serveur Discord RiiConnect24](https://discord.gg/rc24) (recommandé) ou [nous envoyer un e-mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Ce tutoriel vous expliquera comment mettre à jour votre Menu Wii en version 4.3, si vous avez déjà préparé votre Wii.
+This tutorial will explain how to update your Wii Menu to version 4.3, if you have already homebrewed your Wii.
 
-#### Ce dont vous avez besoin
+#### What you need
 
-* Une carte SD ou un périphérique USB
-* Un ordinateur avec Windows dessus
+* An SD card or USB drive
+* A computer with Windows on it
 * [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest)
 * [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
-Si vous avez besoin d'aide pour quoi que ce soit concernant ce tutoriel, veuillez rejoindre [ le serveur RiiConnect24 Discord ](https://discord.gg/rc24) (recommandé) ou [envoyez-nous un e-mail à support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you don't have a Windows computer, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 #### Instructions
 
-##### Section I - Téléchargement
+##### Section I - Downloading
 
-Votre Wii doit être modifiée pour effectuer cela. Si ce n'est pas le cas, alors il est préférable de suivre [le guide](get-started) avant de le faire.
+Your Wii must be modded in order to perform this. If it isn't, then it's best to follow [the guide](get-started) first before doing this.
 {: .notice--info}
 
-Pour vous protéger contre les briques, [assurez-vous d'installer Priiloader](priiloader). Installez également [BootMii](bootmii) (en tant que Boot2 si vous avez une ancienne Wii, sinon IOS). Installer des protections contre le brick et suivre correctement le guide devraient vous protéger du brick. NE PAS CONTINUER SI VOUS N'AVEZ PAS INSTALLÉ PRIILOADER ET BOOTMII!
+To protect against bricks, [make sure you install Priiloader](priiloader). Also, install [BootMii](bootmii) (as Boot2 if you have an early Wii, otherwise IOS). Installing brick protection along with following the guide correctly should keep you safe from bricks. DO NOT CONTINUE UNTIL YOU HAVE INSTALLED PRIILOADER AND BOOTMII!
 {: .notice--danger}
 
-1. Extraire le fichier .zip pour NUS Downloader vWii et ouvrir l'application.
-2. Aller à la base de données `...` > `Système` > `0000000100000002 - Menu système` et sélectionnez la version correspondant à votre région comme indiqué dans le tableau ci-dessous.
-3. Soyez sur que "`Pack WAD`" est activée.
-4. Appuyez sur `Start NUS Download!`.
-5. Ouvrez les `titres` -> `0000000100000002` -> (version du menu Wii) et copiez le . fichier publicitaire vers un dossier appelé `wad` sur votre carte SD ou votre clé USB.
-6. Répétez les étapes 2-5 avec `IOS` -> `000000010000003A` -> `Dernière Version`.
-7. (Si vous avez [RiiConnect24](riiconnect24), vous pouvez sauter cette étape) Répétez les étapes 2-5 avec `IOS` -> `0000000100000050 - IOS80` -> `La dernière version`.
+1. Extract the .zip file for NUS Downloader vWii and open the application.
+2. Go to `Database...` > `System` > `0000000100000002 - System Menu` and select the version corresponding to your region as shown in the table below.
+3. Make sure `Pack WAD` is checked.
+4. Press `Start NUS Download!`.
+5. Open the `titles` -> `0000000100000002` -> (Wii Menu version) and copy the .wad file to a folder called `wad` on your SD Card or USB drive.
+6. Repeat steps 2-5 with `IOS` -> `000000010000003A` -> `Latest Version`.
+7. (If you have [RiiConnect24](riiconnect24), you can skip this step) Repeat steps 2-5 with `IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
 
-| Région | Version du Menu vWii |
-| ------ | -------------------- |
-| Japon  | v512 (4.3J)          |
-| USA    | v513 (4.3U)          |
-| Europe | v514 (4.3E)          |
-| Corée  | v518 (4.3K)          |
+| Region | Wii Menu version |
+| ------ | ---------------- |
+| Japan  | v512 (4.3J)      |
+| USA    | v513 (4.3U)      |
+| Europe | v514 (4.3E)      |
+| Korea  | v518 (4.3K)      |
 
-##### Section II - Installation
+##### Section II - Installing
 
-Servez-vous de la croix directionnelle pour utiliser cet outil.
+You use the +Control Pad to use this tool.
 {: .notice--info}
 
-1. Insérer la carte SD ou le périphérique USB dans votre Wii.
-2. Lancez la Chaîne Homebrew sur votre Wii.
-3. Lancez Wii Mod Lite.
-4. À l'aide de la croix directionnelle de votre télécommande Wii, accédez à `WAD Manager`, puis accédez au dossier `wad`.
-5. Appuyez sur A pour installer le fichier IOS58 `.wad`. [`Assurez-vous que l'installation est réussie, sinon abandonnée.`]
-6. Appuyez sur A pour installer le Menu Wii WAD.
-7. Appuyez sur A pour installer le fichier IOS58 `.wad`. [`Assurez-vous que l'installation est réussie, sinon abandonnée.`]
-8. Une fois qu'ils sont tous correctement installés, appuyez sur le bouton HOME pour revenir au Homebrew Channel.
+1. Put your SD card or USB drive in your Wii.
+2. Launch the Homebrew Channel on your Wii.
+3. Launch Wii Mod Lite.
+4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+5. Press A to install the IOS80 `.wad` file. [`Make sure the installation is successful, otherwise abort.`]
+6. Press A to install the Wii Menu WAD.
+7. Press A to install the IOS58 `.wad` file. [`Make sure the installation is successful, otherwise abort.`]
+8. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
-L'installation d'un WAD du menu Wii **supprimera** Priiloader. Ne redémarrez pas avant de l'installer à nouveau, sinon vous pourriez BRICK.
+**Do not return to the Wii menu yet, otherwise you could BRICK. Install [Priiloader](priiloader) first.**
 {: .notice--danger}
 
-[Continuer vers l'installation de Priiloader](priiloader)<br>.
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it.
 {: .notice--info}

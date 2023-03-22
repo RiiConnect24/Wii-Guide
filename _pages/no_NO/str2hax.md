@@ -2,7 +2,7 @@
 title: "str2hax"
 ---
 
-{% include toc title="Innholdsfortegnelse" %}
+{% include toc title="Table of Contents" %}
 
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -14,9 +14,9 @@ str2hax is an exploit for the Wii that is triggered by loading the Wii's End Use
 
 #### What you need
 
-* En Wii med en Internett-tilkobling
+* A Wii with an Internet connection
 
-#### Instruksjoner
+#### Instructions
 
 ##### Section I - Connecting
 

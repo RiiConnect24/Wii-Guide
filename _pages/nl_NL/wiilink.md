@@ -2,63 +2,48 @@
 title: "WiiLink"
 ---
 
-{% include toc title="Inhoudsopgave" %}
+{% include toc title="Table of Contents" %}
 
-WiiLink and all of its services (such as Wii no Ma) are not controlled or operated by RiiConnect24.
-{: .notice--waarschuwing}
 
-[WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels Wii Room and Digicam Print Channel, and in the future will let you use the Demae Channel again.
+[WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels known as Wii Room, the Digicam Print Channel, and the Food Channel again.
 
-#### Benodigdheden
+#### What you need
 
-* Een SD-kaart of USB-stick/ harde schijf
-* Een Wii met een internet connectie
-* A Windows or Unix based computer
-* [WiiLink Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
+- An SD card or USB drive
+- A Wii with an Internet connection
+- A Windows or Unix based computer
+- [WiiLink Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
-#### Instructies
-
-##### Optional: Wii Patcher
-The Wii Patcher will not work on Dolphin. If you are a Dolphin user, please use the other patchers.
-{: .notice--info}
-
-If you use the Wii Patcher, you will not need to use our other patchers.
-{: .notice--info}
-
-1. Download the WAD based on your console. For Wii it will be `WiiLink_Patcher_Wii.wad`. For vWii it will be `WiiLink_Patcher_vWii.wad`.
-2. Place the WAD in the `WAD` folder on your SD Card/USB.
-3. Insert your SD Card/USB in your Wii
-4. Install the WAD using Wii Mod Lite or any other WAD Manager.
-5. Launch the `WiiLink Patcher` channel from the Wii Menu.
-6. Select the channel you would like to download.
-7. Select the language you would like to download.
-8. If all worked, the channels should be on your Wii Menu.
+#### Instructions
 
 ##### Section I - Patching WADs
 
 [If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
 {: .notice--info}
 
-1. Download the required files based on your OS. On Windows, run `WiiLinkPatcher.bat`. On Unix systems, launch terminal and type sh, then drag the `WiiLinkPatcher.sh` into the terminal and press enter.
-2. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`.
-3. For this guide, choose "`Install WiiLink on your Wii`"
-4. Select your region.
-5. Connect the SD Card or USB Drive to your computer and select "`1`".
-6. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
-7. Be patient...
-8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
-9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLinkPatcher.bat` to your SD Card or USB Device.
-10. Put your SD card or USB drive in your Wii.
-11. Open het Homebrew Kanaal op uw Wii.
-12. Launch Wii Mod Lite.
-13. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
-14. If your Wii is not a Japanese region, install WiiLink24_SPD.wad before anything else. This is required so that we know your email address to send files.
-15. Highlight all other WADs with `WiiLink24` in the name, and press + to select them. When all of them are selected, press A twice to install the WADs.
-16. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+1. Download `WiiLinkPatcher-Windows.bat` if you are on Windows, and `WiiLinkPatcher-Unix.sh` if you are on a Unix system
+2. On Windows run `WiiLinkPatcher-Windows.bat`. On Unix systems, open Terminal and type `bash`, then drag `WiiLinkPatcher-Unix.sh` into the terminal then press enter. It should look like this: `bash WiiLinkPatcher-Unix.sh`.
+3. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`.
+4. For this guide, choose "`Install WiiLink on your Wii`"
+5. Follow the on screen instructions to select which versions of the available channels you would like.
+6. Connect the SD Card or USB Drive to your computer and select "`1`".
+7. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
+8. It may take a moment for the patcher to download the files to your SD Card or USB Drive.
+9. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
+10. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLinkPatcher.bat` to your SD Card or USB Device.
+11. Put your SD card or USB drive in your Wii.
+12. Launch the Homebrew Channel on your Wii.
+13. Launch Wii Mod Lite.
+14. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+15. If your Wii is not a Japanese region, install `WiiLink_SPD(Wii).wad` or `WiiLink_SPD(vWii).wad`(Depending on console) before anything else. This is required so that we know your email address to send files.
+16. Highlight all other WADs with `WiiLink` in the name and press + to select them. When all of them are selected, press A twice to install the WADs.
+    - If you have previously installed the RiiConnect24 versions of the Forecast Channel and the Nintendo Channel, installing WiiLink's will overwrite them.
 
-##### Section II - Adding your email to SPD
+17. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
-Adding your email to SPD will allow channels like Digicam and Demae to send files like images or links to you.
+##### Section II - Adding your email to Set Personal Data
+
+Adding your email to Set Personal Data will allow the Digicam Print Channel to send images to your email that you created using it.
 {: .notice--info}
 
 1. Launch Digicam Print Channel from your Wii's home menu.
@@ -76,5 +61,5 @@ For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (4
 [Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
 {: .notice--info}
 
-[Ga door naar de sitenavigatie](site-navigation)<br> We hebben vele andere tutorials die u wellicht interessant vindt.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}

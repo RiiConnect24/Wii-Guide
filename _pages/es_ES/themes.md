@@ -40,7 +40,7 @@ We recommend you [install cIOS](cios) before continuing.
 Below are some links to themes.
 
 * [RiiConnect24 Themes Page](https://rc24.xyz/goodies/themes/)
-* [Google Drive Repository](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
+* [Google Drive Repository](https://drive.google.com/drive/folders/1K1WQe36bGibsF4ZlAxZKU6ngNpjUnh5i)
 * [Wii Theme Team Creations v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
 ¡ASEGURATE DE QUE HAS LEIDO TODAS LAS ADVERTENCIAS ANTES DE CONTINUAR!
@@ -55,7 +55,7 @@ Below are some links to themes.
 * En la mayoría de los casos, tendrás que elegir el enlace que dice 4.X, lo cual quiere decir que el tema funcionará en las versiones de sistema 4.1, 4.2 y 4.3.
 * Algunos temas tienen enlaces para diferentes regiones, así que elige el que corresponda con la región de tu consola.
 * También hay otras fuentes para descargar temas, pero podrían estar en formato csm (listos para instalar en el Wii). Si el csm no coincide con la versión de sistema y región de tu consola, intenta convertirlo a formato mym con ThemeMii Mod, y después conviértelo de vuelta a csm usando la versión y región de tu Wii. Sólo tienes que seguir las siguientes instrucciones.
-* Una vez que hayas descargado el tema que quieres instalar, y después de haberte asegurado de que descargaste la versión correcta, ejecuta ThemeMii Mod.
+* Once you downloaded the theme you want and double-checked you got the right one, extract the .zip file for ThemeMii Mod and open the application.
 
 ##### Sección II - Construyendo el tema
 
@@ -77,5 +77,5 @@ Below are some links to themes.
 5. Después de un mensaje de introducción, te preguntará qué IOS quieres usar en la aplicación. Si tienes [cIOS instalado](cios), usar `IOS249`, si no, usar `IOS58`. Si después de elegir el primero, te aparece un error que dice `Exception DSI occurred!`, oprime el botón RESET en la consola, inicia la aplicación de nuevo e intenta usar el `IOS250`. It might take a couple attempts to reload the IOS.
 6. Selecciona el tema que quieras instalar y después oprime A. Espera un momento para que se instale el tema, después oprime cualquier botón para volver al menú de Wii. Esperamos que el tema se haya instalado correctamente.
 
-If you get an error saying "The system files are corrupted" or a black screen, don't panic as long as you installed Priiloader. Apaga la consola, después oprime el botón POWER mientras mantienes presionado RESET. El menú de Priiloader debería de iniciarse. Desde aquí tienes algunas opciones para reparar tu menú de Wii. One of the options is to launch the Homebrew Channel, where you can launch MyMenuify Mod and press a button to download and install the original Wii Menu theme.
+If you get an error saying "The system files are corrupted" or a black screen, don't panic as long as you installed Priiloader. Turn off your Wii, then hold down the RESET button down and turn on your Wii. El menú de Priiloader debería de iniciarse. Desde aquí tienes algunas opciones para reparar tu menú de Wii. One of the options is to launch the Homebrew Channel, where you can launch MyMenuify Mod and press a button to download and install the original Wii Menu theme.
 {: .notice--info}

@@ -4,45 +4,45 @@ title: "Kirby TV Channel"
 
 {% include toc title="Table of Contents" %}
 
-Kirby TV Channel由Striim Network而非RiiConnect24控制和经营。 点[这里](https://discord.gg/seCnzxnE75)加入它们的Discord服务器。
+The Kirby TV Channel is controlled and operated by Striim Network, not RiiConnect24. Join their Discord server [here](https://discord.gg/seCnzxnE75).
 {: .notice--warning}
 
-Striim Network是一项致力于恢复支持视频播放的频道的服务，例如Kirby TV Channel和Youtube。
+Striim Network is a service dedicated to bringing back the channels that support video playback, such as Kirby TV Channel and YouTube.
 
 #### 你需要的是
 
 * 一张SD卡或U盘
-* 一台连接互联网的Wii
-* 基于 Windows 或 Unix 的计算机
-* [Kirby TV Channel补丁](https://github.com/StriimNetwork/Kirby-TV-Channel-Patcher/releases)
+* A Wii with an Internet connection
+* A Windows or Unix based computer
+* [Kirby TV Channel Patcher](https://github.com/StriimNetwork/Kirby-TV-Channel-Patcher/releases)
 
 #### 步骤
 
-[如果您想查看有关如何安装WAD的说明，请点击这里！](wiimodlite)
+[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
 {: .notice--info}
 
-1. 下载用于您的架构和系统的可执行文件。
-2. 启动可执行文件，然后按2次 `1` 以启动修补。
-3. 完成后, WAD将位于与可执行文件同一目录的`WAD` 文件夹中。
-4. 将 `WAD` 文件夹移动到SD卡根目录。
-5. 将SD卡或U盘插入Wii。
-6. 启动Wii上的Homebrew Channel.
-7. 启动Wii Mod Lite。
-8. 使用Wii遥控器上的十字键移动到`WAD Manager`, 然后移动到`wad`文件夹。
-9. 移动到名为`Kirby-TV-Channel-Patched(Striim).wad`的文件, 按`A`安装。
-10. 当WAD安装完成后，回到Wii菜单并启动频道。
+1. Download the executable for your architecture and OS.
+2. Launch the executable then press `1` twice to start the patching process.
+3. When finished, the WAD will be in the `WAD` folder which is located in the same directory as the executable.
+4. Move the `WAD` folder to the root of your SD Card.
+5. Put your SD card or USB drive in your Wii.
+6. Launch the Homebrew Channel on your Wii.
+7. Launch Wii Mod Lite.
+8. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+9. Highlight the WAD named `Kirby-TV-Channel-Patched(Striim).wad`, then press the `A` button to install.
+10. When the WAD successfully installs, return to the Wii Menu and launch the channel.
 
 
 
-[继续 RiiConnect24](riiconnect24)<br> RiiConnect24允许你使用WiiConnect24已经停止运营的服务，包含新闻、天气、大家一起投票、任天堂和Mii分享广场频道，还有Wii邮箱。 这是可选项。
+[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
 {: .notice--info}
 
-[继续WiiLink](wiilink)<br> WiiLink允许您使用已停止服务的日本频道，例如Wii no Ma和Digicam Print Channel。 这是可选项。
+[Continue to WiiLink](wiilink)<br> WiiLink allows you to use the discontinued Japanese channels, such as Wii no Ma and the Digicam Print Channel. This is optional to install.
 {: .notice--info}
 
-[继续安装Wiimmfi](wiimmfi)<br> Wiimmfi让您在Nintendo Wi-Fi Connection停止服务后继续在线玩游戏。 这是可选项。
+[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
 {: .notice--info}
 
-[继续 网站导览](site-navigation) 我们有许多你可能喜欢的其他教程。
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 

@@ -12,18 +12,18 @@ Un SysCheck hace una lista de todos los IOS y cIOS que están instalados en tu c
 #### Requisitos
 
 * Una tarjeta SD o unidad USB
-* [SysCheck Edición HacksDen](https://hbb1.oscwii.org/hbb/SysCheckHDE/SysCheckHDE.zip)
+* [SysCheck ModMii Edition](https://hbb1.oscwii.org/hbb/SysCheckME/SysCheckME.zip)
 
 #### Instrucciones
 ##### Section I - Descarga/instalación
 
-1. Extraiga SysCheck HacksDen Edition a su tarjeta SD o unidad USB.
-2. Inserta la tarjeta SD o unidad USB en tu Wii e inicia SysCheck HacksDen Edition desde el Canal Homebrew.
+1. Extract SysCheck ModMii Edition to your SD card or USB drive.
+2. Insert your SD card or USB drive into your Wii, and launch SysCheck ModMii Edition from the Homebrew Channel.
 
 ##### Sección II - Realizando el SysCheck
 
 1. Espera a que la aplicación recopile información sobre tu Wii.
-2. Cuando aparezca el mensaje "This IOS will be tested (Please select)", oprime A. ![Elegir IOS](/images/SysCheck/1.png)
-3. Espera a que la aplicación recopile información sobre tu IOS.
-4. Cuando el proceso haya terminado, oprime A para ver el registro. ![SysCheck completado](/images/SysCheck/2.png)
-5. Si desea compartir SysCheck, puede presionar el botón `A`, que lo subirá a [syscheck.rc24.xyz](https://syscheck.rc24.xyz/) y darte un enlace. Tambien puedes compartir el archivo `sysCheck.csv` que se encuentra guardado en la raíz de la tarjeta SD o unidad USB. El `IOSsysCheck.log` archivo (guardado en la raíz también) contiene información adicional sobre su IOS.
+2. Cuando aparezca el mensaje "This IOS will be tested (Please select)", oprime A. ![Elegir IOS](/images/xfb1_n000562_640x480.png)
+3. Wait for the program to get some information about your IOS.
+4. Cuando el proceso haya terminado, oprime A para ver el registro. ![Completed](/images/xfb1_n000160_640x480.png)
+5. If you want to share the SysCheck, you can press the `A` Button, which will upload it to [syscheck.rc24.xyz](http://syscheck.rc24.xyz/) and give you a link. You can also share the `sysCheck.csv` saved to the root of your SD Card or USB Drive. The `IOSsysCheck.log` file (saved to the root as well) contains additional information about your IOS.

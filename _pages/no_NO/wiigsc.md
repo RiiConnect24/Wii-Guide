@@ -2,7 +2,7 @@
 title: "Creating Wii Game Shortcuts"
 ---
 
-{% include toc title="Innholdsfortegnelse" %}
+{% include toc title="Table of Contents" %}
 
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -23,7 +23,7 @@ Do NOT make a shortcut for the games "Mario Party 9" or "A Boy and His Blob". It
 * A Windows computer.
 * [WiiGSC](https://wiidatabase.de/downloads/pc-tools/wiigsc-ehemals-crap/)
 
-#### Instruksjoner
+#### Instructions
 
 1. Install WiiGSC, then right click on it and choose **Run as administrator**. If you do not do this, WiiGSC will throw an error when you open it.
 2. Select the path to the ISO or WBFS file on your USB drive, and select the USB Loader you use. The other options should be fine the way thy are.

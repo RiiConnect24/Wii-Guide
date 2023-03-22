@@ -1,8 +1,8 @@
 ---
-title: "RSSMii installeren"
+title: "Installing RSSMii"
 ---
 
-{% include toc title="Inhoudsopgave" %}
+{% include toc title="Table of Contents" %}
 
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -11,13 +11,13 @@ Do you want to get RSS feed updates on your Wii Message Board? This tutorial wil
 
 ![RSSMii](/images/rssmii.png)
 
-#### Benodigdheden
+#### What you need
 
-* Een SD-kaart
+* An SD card
 * [RSSMii](https://github.com/RiiConnect24/rssmii/releases)
 
-#### Instructies
-##### Deel I - Downloaden/Installeren
+#### Instructions
+##### Section I - Downloading/Installing
 
 1. Extract RSSMii and put it in the `apps` folder on your SD card.
 2. We need to create a `feeds.xml` on the root of the SD card so the app will know what feeds to subscribe you to.
@@ -51,7 +51,7 @@ Save the feed you made to the root of your SD Card.
 5. Once everything is done, press HOME to go back to the Homebrew Channel. You should soon get RSS feed updates on your Wii, enjoy!
 
 Not getting any feed updates? Try an RSS feed that updates more frequently, like a feed with news for example. If the RSS feed doesn't update often, then you won't get many updates.
-{: .notice--waarschuwing}
+{: .notice--warning}
 
 We recommend you use just a few feeds, because if you subscribe to a lot of feeds you can get a ton of mail on your Wii.
 {: .notice--info}
@@ -59,5 +59,5 @@ We recommend you use just a few feeds, because if you subscribe to a lot of feed
 If you're not receiving updates after a few days, you might need to subscribe to the RSS feeds again. Launch RSSMii from the Homebrew Channel again and it'll create brand new subscriptions.
 {: .notice--info}
 
-[RSSMii verwijderen](rssmii-remove)
+[Removing RSSMii](rssmii-remove)
 {: .notice--info}

@@ -9,11 +9,11 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
 
-#### לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
+#### What you need
 - An SD card that is no more than 32GB in size
 - A Wii on System Menu version 4.3
 
-#### הוראות
+#### Instructions
 
 
 1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.

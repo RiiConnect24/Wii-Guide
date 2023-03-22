@@ -11,10 +11,10 @@ This is a quick start guide on how to use USB Loader GX, a popular USB loader fo
 
 ![USB Loader GX](/images/usbloadergx.png)
 
-#### Τι χρειάζεστε
+#### What you need
 
 * A Wii
-* Ένα μέσο αποθήκευσης USB
+* A USB drive
 * [USB Loader GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
 
 Make sure you have installed [cIOS](/cios) before following this!
@@ -35,7 +35,7 @@ To play games, we recommend using an external hard drive for your Wii. Flash dri
 Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
-#### Οδηγίες
+#### Instructions
 
 ##### Downloading
 
@@ -88,5 +88,5 @@ On the middle of the bottom of the screen, you can see how much space is free on
 [Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that USB Loader GX can integrate with. This is optional to set up.
 {: .notice--info}
 
-[Συνεχίστε στην περιήγηση ιστοσελίδας](site-navigation)<br> Έχουμε πολλούς άλλους οδηγούς που μπορεί να σας αρέσουν.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}

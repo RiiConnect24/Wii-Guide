@@ -15,7 +15,7 @@ In the case of a brick, [installing Priiloader is a must](/priiloader). Also, in
 Do NOT make a shortcut for the games "Mario Party 9" or "A Boy and His Blob". It will brick your Wii.
 {: .notice--warning}
 
-#### לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
+#### What you need
 
 * A Wii
 * A USB drive.
@@ -23,7 +23,7 @@ Do NOT make a shortcut for the games "Mario Party 9" or "A Boy and His Blob". It
 * A Windows computer.
 * [WiiGSC](https://wiidatabase.de/downloads/pc-tools/wiigsc-ehemals-crap/)
 
-#### הוראות
+#### Instructions
 
 1. Install WiiGSC, then right click on it and choose **Run as administrator**. If you do not do this, WiiGSC will throw an error when you open it.
 2. Select the path to the ISO or WBFS file on your USB drive, and select the USB Loader you use. The other options should be fine the way thy are.

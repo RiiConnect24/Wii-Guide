@@ -1,5 +1,5 @@
 ---
-title: "系统检查"
+title: "SysCheck"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -7,23 +7,23 @@ title: "系统检查"
 如果你需要有关本教程的任何帮助, 请加入[RiiConnect24 Discord服务器](https://discord.gg/rc24) (推荐)或 [发送电子邮件到 support@riiconnect24.net](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
-系统检查列出了Wii上的所有IOS和cIOS以及每一个的一些信息。 它也会为您提供一些其它有用的信息。 当您在Wii上遇到与IOS相关的问题时，可能有人要求您运行系统检查。
+A SysCheck lists all the IOS and cIOS that are on your Wii, along with some information about each of them. It also gives you some other useful information. When you have IOS-related problems on your Wii, someone might ask you to do a SysCheck.
 
 #### 你需要的是
 
 * 一张SD卡或U盘
-* [SysCheck HacksDen Edition](https://hbb1.oscwii.org/hbb/SysCheckHDE/SysCheckHDE.zip)
+* [SysCheck ModMii Edition](https://hbb1.oscwii.org/hbb/SysCheckME/SysCheckME.zip)
 
 #### 步骤
-##### 第一节 - 下载/安装
+##### Section I - Downloading/Installing
 
-1. 解压SysCheck HacksDen Edition到SD卡或U盘。
-2. 将SD卡或U盘插入Wii，然后从Homebrew Channel启动SysCheck HacksDen Edition。
+1. Extract SysCheck ModMii Edition to your SD card or USB drive.
+2. Insert your SD card or USB drive into your Wii, and launch SysCheck ModMii Edition from the Homebrew Channel.
 
-##### 第二节 - 进行系统检查
+##### Section II - Performing a SysCheck
 
-1. 等待程序获取有关Wii的信息。
-2. 当 "This IOS will be tested (Please select)"出现时，按A。 ![选择 IOS](/images/SysCheck/1.png)
-3. 等待程序获取有关Wii的信息。
-4. 完成后，按`A`查看日志。 ![完成](/images/SysCheck/2.png)
-5. 如果您想分享系统检查，按`A`，它会上传到[syscheck.rc24.xyz](https://syscheck.rc24.xyz/)并给您链接。 您也可以分享`sysCheck.csv`到SD卡。 `IOSsysCheck.log` (同时保存到根目录) 包含关于IOS的额外信息。
+1. Wait for the program to get some information about your Wii.
+2. When "This IOS will be tested (Please select)" is shown on the screen, press A. ![Choose IOS](/images/xfb1_n000562_640x480.png)
+3. Wait for the program to get some information about your IOS.
+4. After it finishes, press the `A` Button if you want to view the log. ![Completed](/images/xfb1_n000160_640x480.png)
+5. If you want to share the SysCheck, you can press the `A` Button, which will upload it to [syscheck.rc24.xyz](http://syscheck.rc24.xyz/) and give you a link. You can also share the `sysCheck.csv` saved to the root of your SD Card or USB Drive. The `IOSsysCheck.log` file (saved to the root as well) contains additional information about your IOS.

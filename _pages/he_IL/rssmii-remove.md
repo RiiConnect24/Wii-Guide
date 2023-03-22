@@ -9,12 +9,12 @@ If you no longer wish to use RSSMii (maybe because it gives you too much Wii Mai
 
 ![Removing RSSMii](/images/rssmii-remove.png)
 
-#### לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
+#### What you need
 
 * An SD card
 * [RSSMii Remover](https://github.com/RiiConnect24/rssmii/releases)
 
-#### הוראות
+#### Instructions
 
 1. Extract RSSMii Remover and put it in the `apps` folder on your SD card.
 2. Delete the `feeds.xml` file on the root of your SD card.

@@ -2,19 +2,19 @@
 title: "WiiFlow"
 ---
 
-{% include toc title="Sisällysluettelo" %}
+{% include toc title="Table of Contents" %}
 
-Jos tarvitset apua missä tahansa tähän oppaaseen liittyvässä, liity [RiiConnect24:n Discord-palvelimelle](https://discord.gg/rc24) (suositeltavaa) tai [ lähetä meille sähköpostia osoitteeseen support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![WiiFlow](/images/wiiflowlogo.png)
 
 This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that's used to play games from a USB drive or SD card.
 
-#### Mitä tarvitset
+#### What you need
 
-* Wii
-* USB-asema ja/tai SD-kortti
+* A Wii
+* A USB drive and/or SD card
 * [WiiFlow Lite](https://hbb1.oscwii.org/hbb/wiiflow/wiiflow.zip)
 
 Make sure you have installed [cIOS](/cios) before following this!
@@ -38,9 +38,9 @@ Unlike USB Loader GX, WiiFlow can load games of an SD card.
 Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
-#### Ohjeet
+#### Instructions
 
-##### Lataaminen
+##### Downloading
 
 1. Extract WiiFlow and put the `apps` and `WiiFlow` folders on your USB drive or SD card.
 2. Insert your USB drive, and SD card if you're using one, into your Wii and launch WiiFlow from the Homebrew Channel.
@@ -83,9 +83,9 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 * Exit To - Lets you exit to Wii Menu, HBC, neek2o, Priiloader and Bootmii.
 * Settings - Will open the WiiFlow Settings menu
 
-##### Vaihtoehdot, kun valmista
+##### Options once complete
 
-[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki is a great resource with information about WiiFlow.
+[WiiFloWiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFloWiki is a great resource with information about WiiFlow.
 {: .notice--info}
 
 [Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that WiiFlow Lite can integrate with. This is optional to set up.

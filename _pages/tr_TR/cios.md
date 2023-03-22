@@ -4,86 +4,98 @@ title: "cIOS"
 
 {% include toc title="Table of Contents" %}
 
-Bu rehber size nasıl cIOS (özel IOS) yükleyeceğinizi gösterecek. Eğer bir USB Loader üzerinden oyun oynamak istiyorsanız bu gereklidir. Ayrıca bazı homebrew uygulamaları cIOS kullanılarak daha iyi çalışır.
+This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
 
-![d2x cIOS Yükleyici](/images/cios/cIOS.png)
+![d2x cIOS Installer](/images/cios/cIOS.png)
 
-Eğer bir Wii U’ya (vWii) sahipseniz lütfen cIOS yüklemek için [bu rehberi](https://wiiu.hacks.guide/#/vwii-modding) takip edin. vWii’ye başka bir cIOS yüklemeye çalışmak işe yaramayacaktır.
+If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
 {: .notice--info}
 
-Eğer Wii mini’niz varsa [bu rehberi](cios-mini) takip edin. Wii mini’ye başka bir cIOS yüklemeye çalışmak işe yaramayacaktır.
+If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
 {: .notice--info}
 
-#### İhtiyacınız olan şeyler
+#### What you need
 
-- Wii
-- SD Kart veya USB sürücü
-- [d2x cIOS Yükleyici](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
+- A Wii
+- An SD card or USB drive
+- [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
-Eğer SD Kart kullanıyorsanız, SD Kartınızın kilidinin açık olduğundan emin olun. Öbür türlü yükleyici de doğru seçenekleri seçemezsiniz.
+Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer
 {: .notice--warning}
 
-#### Talimatlar
+#### Instructions
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'with-connection')">With an Internet connection to the Wii</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'without-connection')">Without an Internet connection to the Wii</button>
 
 <div id="with-connection" class="blanktabcontent" markdown="1">
 
-##### Bölüm I- İndirme
+##### Section I - Downloading
 
 1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
 1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
 </div>
 <div id="without-connection" class="blanktabcontent" markdown="1">
 
-##### Bölüm I- İndirme
+##### Section I - Downloading
 
 1. Download, extract, and run [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
-1. Select "Database", "IOS", then "IOS57", and select "v5918".
+1. Select "Database", "IOS", then "IOS38", and select "v4123".
    - Ensure that "Pack WAD" is checked and "Patch IOS" is unchecked.
-1. Repeat the previous step for IOS56 v5661 and IOS38 v4123.
-1. Once you have downloaded all three IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. Open the folder and navigate through them until you locate the three WAD files you downloaded. Place each of WAD files on the root of your SD card or USB drive.
+1. Repeat the previous step for IOS56 v5661, IOS57 v5918 and IOS58 v6175.
+1. Once you have downloaded all four IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. Open the folder and navigate through them until you locate the four WAD files you downloaded. Place each of WAD files on the root of your SD card or USB drive.
 1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
 1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
 </div>
 
-##### Bölüm II - Yükleme
+##### Section II - Installing
 
-1. Devam et’e basın ve seçenekleri müteakip seçeneklere ayarlayın:
+1. Press continue, then set the options to the following:
 
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 57
+Select cIOS: d2x-v11-beta1
+Select cIOS base: 38
+Select cIOS slot: 248
+Select cIOS version: 65535
+```
+
+![Install cIOS 249](/images/cios/d2x_v11_248.png)
+
+1. Once set, press A twice to install.
+1. When done installing, press A to return, and set the options to the following:
+
+```
+Select cIOS: d2x-v11-beta1
+Select cIOS base: 56
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 
-![Install cIOS 249](/images/cios/Install249.png)
+![Install cIOS 250](/images/cios/d2x_v11_249.png)
 
-1. Ayarlayınca yüklemek için iki kere A’ya basın.
-1. Ayarlar tamamlandığında dönmek için A’ya basın ve müteakip seçeneklere göre ayarlayın:
+1. Once set, press A twice to install.
+1. When done installing, press A to return, and set the options to the following:
 
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 56
+Select cIOS: d2x-v11-beta1
+Select cIOS base: 57
 Select cIOS slot: 250
 Select cIOS version: 65535
 ```
 
-![Install cIOS 250](/images/cios/Install250.png)
+![Install cIOS 250](/images/cios/d2x_v11_250.png)
 
-1. Ayarlayınca yüklemek için iki kere A’ya basın.
-1. Ayarlar tamamlandığında dönmek için A’ya basın ve müteakip seçeneklere göre ayarlayın:
+1. Once set, press A twice to install.
+1. When done installing, press A to return, and set the options to the following:
 
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 38
+Select cIOS: d2x-v11-beta1
+Select cIOS base: 58
 Select cIOS slot: 251
 Select cIOS version: 65535
 ```
 
-![Install cIOS 251](/images/cios/Install251.png)
+![Install cIOS 251](/images/cios/d2x_v11_251.png)
 
 1. Once set, press A twice again to install, and then exit once done.
 
@@ -92,8 +104,8 @@ Select cIOS version: 65535
 {% capture bruh %}
 Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
 
-- Animal Crossing: City Folk’da klavye kullanmak.
-- SpongeBob's Boating Bash’i çalıştırmak.
+- Using a keyboard in Animal Crossing: City Folk.
+- Running SpongeBob's Boating Bash.
 
 A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
 {% endcapture %}
@@ -119,15 +131,15 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
     - Try using 250 or 251, if 249 doesn't work.
 1. Press Save and try to load the game.
 </div>
-##### Gidebileceğiniz yerler
+##### Options once complete
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. Bunu yüklemek opsiyoneldir.
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
 {: .notice--info}
 
-[Site haritasından devam edin](site-navigation)<br> Sevebileceğiniz pek çok öğreticiye daha sahibiz.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 
-[USB Loader GX](usbloadergx) ve [WiiFlow](wiiflow) gibi herhangi bir homebrew uygulamasını kullanabilirsiniz.
+You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: .notice--info}
 
 <script>

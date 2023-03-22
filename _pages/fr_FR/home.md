@@ -1,40 +1,40 @@
 ---
 layout: splash
-title: "Guide Wii"
+title: "Wii Guide"
 header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: "Le guide complet pour modder votre Nintendo Wii."
+excerpt: "The complete guide to modding your Nintendo Wii."
 ---
 
-Ce guide est aussi disponible dans d'autres langues ! Pour changer la langue, veuillez cliquer sur le bouton en haut à droite et choisir une option.
+The guide is also available in other languages! To change the language, please press the icon at top right and change your language.
 {: .notice--info}
 
-## Le "homebrew", qu'est-ce que c'est ?
+## What is "homebrew"?
 
-Le terme [**homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) désigne des programmes non autorisés par Nintendo. Cela peut inclure des jeux, des utilitaires, des émulateurs et bien plus encore !
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to software not authorized by Nintendo. This can include games, utilities, emulators and much more!
 
-Exécuter des applications homebrew sur votre Nintendo Wii peut être fait gratuitement en exploitant des bugs du système de la Wii. Les modifications installées en suivant ce guide vous offriront un accès facile et permanent aux homebrew de la Wii.
+Running homebrew on your Nintendo Wii can be done for free by exploiting bugs in Wii's software. The modifications installed by following this guide will give you easy and persistent access to Wii homebrew.
 
-## Que peut-on faire avec des homebrew ?
+## What can I do with homebrew?
 
-Voici une liste de choses que vous pouvez faire avec des homebrew. Bien que cette liste ne soit en aucun cas totalement exhaustive, vous aurez une bonne idée de ce qui est possible et le guide vous aidera à commencer facilement.
+Here's a list of things you can do using homebrew. While this list is by no means totally comprehensive, you should have a good idea of what is possible, and the guide will help you easily get started.
 
-- Patcher le contenu de disques de jeu (vous permettant de lancer des modifications de jeu) en utilisant [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
-- Installer des thèmes sur votre Menu Wii en utilisant [MyMenuify](themes).
-- Installer un USB Loader comme [WiiFlow](wiiflow) ou encore [USB Loader GX](usbloadergx) afin de pouvoir lancer tous vos jeux favoris depuis un périphérique de stockage USB.
-- Faire une sauvegarde de vos disques avec [CleanRip](/dump-games) ainsi que de vos jeux et chaînes installées avec [YABDM](dump-wads).
-- Sauvegarder et restaurer vos fichiers de sauvegarde grâce à [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/).
-- Télécharger de nouvelles application homebrew en utilisant le [Homebrew Browser](hbb).
-- Utiliser à nouveau des services en ligne abandonnés, tels que [WiiConnect 24](riiconnect24) ou la [CWF Nintendo](wiimmfi) (Connexion Wi-Fi Nintendo).
-- Sauvegarder et restaurer des copies de la mémoire système (NAND) de votre Wii, grâce à [BootMii](bootmii).
-- Protéger votre Wii d'éventuels bricks en utilisant [Priiloader](priiloader) et BootMii.
-- Transformer votre Wii en lecteur multimédia avec [WiiMC](https://oscwii.org/library/app/wiimc-ss).
+- Patch game disc contents (allowing you to load game modifications) using [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
+- Install themes to your Wii Menu using [MyMenuify](themes).
+- Install a USB Loader like [WiiFlow](wiiflow) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
+- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](dump-wads)
+- Back up and restore your save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
+- Download new homebrew apps with the [Homebrew Browser](hbb)
+- Restore discontinued online services, such as [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
+- Backup and restore copies of your Wii system memory (NAND) using [BootMii](bootmii).
+- Protect your Wii from bricks using [Priiloader](priiloader) and BootMii.
+- Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
 
 
-## Prêt ?
+## Ready?
 
-Commencez par [choisir votre exploit](get-started) !
+Get started by [choosing your exploit](get-started)!
 {: .notice--info}

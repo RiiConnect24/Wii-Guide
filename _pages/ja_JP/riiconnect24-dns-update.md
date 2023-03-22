@@ -1,32 +1,32 @@
 ---
-title: "RiiConnect24 DNS更新"
+title: "RiiConnect24 DNS Update"
 ---
 
-このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
+If you need help with anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![RiiConnect24ロゴ](/images/logo_blue_warning.png)
+![RiiConnect24 Logo](/images/logo_blue_warning.png)
 
-私たち（RiiConnect24）の公式DNSアドレスが更新されました。 すべての利用者はDNSアドレスを変更する必要があります。 これを怠ると、ほとんどまたはすべてのRiiConnect24サービスへの利用ができなくなります。
+Our official DNS Address has been updated. We require all users to change it. Failure in doing so will result in losing access to most or every RiiConnect24 service.
 
-古いアドレスは、`DEPRECATION`の日付（下記）までサポートされます。 Wiiメールまたは[Discordサーバー](https://discord.gg/rc24)通じて、数ヶ月後にDNSアドレス変更の必要性をお知らせします。
+The old address will be supported until it's `DEPRECATION` date. We will remind you using Wii Mail or our [Discord server](https://discord.gg/rc24) about the need to change the DNS Address in the next few months.
 
-古いDNSアドレスを使用中の利用者に対しては、お天気チャンネルとニュースチャンネルへのアクセスが制限されています。 また、WiiConnect24を有効にする際には、この変更について通知する新しいEULAが表示されます。 ![EULA確認画面での通知](/images/eula_change_dns_notification.png) ![お天気チャンネルでの通知](/images/forecast_change_dns_notification.png) ![ニュースチャンネルでの通知](/images/news_channel_change_dns_notification.png)
+We've restricted access to Forecast Channel and News Channel for users still using the old DNS Address. Users will also see a new EULA when trying to enable WiiConnect24 reminding them about the change. ![The notification on the EULA confirmation screen.](/images/eula_change_dns_notification.png) ![The notification on the Forecast Channel](/images/forecast_change_dns_notification.png) ![The notification on the News Channel](/images/news_channel_change_dns_notification.png)
 
-入力したDNSアドレスを更新するには以下の手順に従ってください。
+To update your entered DNS Address please follow these steps:
 
-1. `Wiiオプション`に移動します。
-2. `Wii本体設定`に移動します。
-3. `2ページ目`に移動し、`インターネット`をクリックします。
-4. `接続設定`に移動します。
-5. 現在の接続を選択します。
-6. `設定変更`に移動します。
-7. `DNS自動取得`（「IPアドレス自動取得」ではありません）に移動し、`いいえ`を、その後`詳細設定`を選択します。
-8. プライマリDNSに`167.86.108.126`を入力します。
-9. セカンダリDNSに`1.1.1.1`を入力します。
-10. `決定`を選択し、`保存`を選択します。
-11. `OK`を選択して、接続テストを実行します。
-12. 接続テストが成功した場合は、`いいえ`を選択してWii本体の更新をスキップします。
+1. Go to `Wii Options`.
+2. Go to `Wii Settings`.
+3. Go to `Page 2`, then click on `Internet`.
+4. Go to `Connection Settings`
+5. Select your current connection
+6. Go to `Change Settings`
+7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`.
+8. Type in `167.86.108.126` as the primary DNS
+9. Type in `1.1.1.1` as the secondary DNS
+10. Select `Confirm`, then select `Save`
+11. Select `OK` to perform a connection
+12. If the connection test was successful, select `No` to skip the Wii System Update.
 
-古いDNSサーバーは、`2023年6月1日`に停止されます。
+The old DNS Server will stop working on `June 1st, 2023`.
 {: .notice--warning}

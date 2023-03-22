@@ -1,40 +1,40 @@
 ---
 layout: splash
-title: "Wii 指南"
+title: "Wii Guide"
 header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: "破解任天堂Wii的完整指南。"
+excerpt: "The complete guide to modding your Nintendo Wii."
 ---
 
-此指南也支持其它语言! 要更改语言，请按右上角的图标来更改语言。 要更改语言，请按右上角的图标来更改语言。
+The guide is also available in other languages! To change the language, please press the icon at top right and change your language.
 {: .notice--info}
 
-## 什么是 "自制"?
+## What is "homebrew"?
 
-[**自制**](https://en.wikipedia.org/wiki/Homebrew_(video_games))指未经任天堂授权的软件。 这包括游戏、实用工具、模拟器以及更多!
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to software not authorized by Nintendo. This can include games, utilities, emulators and much more!
 
-通过Wii的漏洞可以免费在任天堂Wii中运行自制软件。 通过本指南破解将使您轻松和持续运行Wii自制软件。
+Running homebrew on your Nintendo Wii can be done for free by exploiting bugs in Wii's software. The modifications installed by following this guide will give you easy and persistent access to Wii homebrew.
 
-## 我可以用自制做什么?
+## What can I do with homebrew?
 
-以下是您可以用自制做的事情列表: 虽然此列表并不全面，但您应该了解自制可以做什么，此指南将带您入门。
+Here's a list of things you can do using homebrew. While this list is by no means totally comprehensive, you should have a good idea of what is possible, and the guide will help you easily get started.
 
-- 使用[Riivolution](http://www.wiibrew.org/wiki/Riivolution)修改游戏光盘内容(允许您加载修改游戏) 。
-- 使用[MyMenuify](themes)安装Wii菜单主题。
-- 安装USB加载器如[WiiFlow](wiiflow) 或 [USB Loader GX](usbloadergx) 来从U盘等设备启动您喜爱的游戏。
-- 使用[CleanRip](/dump-games)备份光盘，[YABDM](dump-wads)备份游戏和频道
-- 使用[SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)备份和恢复存档
-- 使用[Homebrew Browser](hbb)下载自制应用
-- 恢复已停止的网络服务，如[WiiConnect24](riiconnect24) & [Nintendo WFC 服务](wiimmfi)。
-- 使用[BootMii](bootmii)备份和还原您的Wii系统闪存(NAND)。
-- 使用[Priiloader](priiloader)和BootMii防止变砖。
-- 使用[WiiMC](https://oscwii.org/library/app/wiimc-ss)将Wii变成媒体播放器。
+- Patch game disc contents (allowing you to load game modifications) using [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
+- Install themes to your Wii Menu using [MyMenuify](themes).
+- Install a USB Loader like [WiiFlow](wiiflow) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
+- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](dump-wads)
+- Back up and restore your save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
+- Download new homebrew apps with the [Homebrew Browser](hbb)
+- Restore discontinued online services, such as [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
+- Backup and restore copies of your Wii system memory (NAND) using [BootMii](bootmii).
+- Protect your Wii from bricks using [Priiloader](priiloader) and BootMii.
+- Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
 
 
-## 准备好了吗?
+## Ready?
 
-从[选择漏洞](get-started)开始!
+Get started by [choosing your exploit](get-started)!
 {: .notice--info}

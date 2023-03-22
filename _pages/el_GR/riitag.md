@@ -12,13 +12,13 @@ RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynam
 Want to install RiiTag on your Wii U? See [this guide](riitag-wiiu) on how to connect it to your Wii U Menu.
 {: .notice--info}
 
-#### Τι χρειάζεστε
+#### What you need
 
 * A computer
 * A text editor
 * A USB Loader
 
-#### Οδηγίες
+#### Instructions
 
 ##### Section I - Getting Started
 
@@ -101,5 +101,5 @@ We have a RiiTag Channel you can install on your Wii. When it is launched, it wi
 [Check out RiiTag-RPC](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br> Now that you set up RiiTag, you can set up RiiTag-RPC to show your Discord friends what you're playing on the Wii using Discord's rich presence.
 {: .notice--info}
 
-[Συνεχίστε στην περιήγηση ιστοσελίδας](site-navigation)<br> Έχουμε πολλούς άλλους οδηγούς που μπορεί να σας αρέσουν.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}

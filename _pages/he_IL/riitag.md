@@ -12,13 +12,13 @@ RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynam
 Want to install RiiTag on your Wii U? See [this guide](riitag-wiiu) on how to connect it to your Wii U Menu.
 {: .notice--info}
 
-#### לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
+#### What you need
 
 * A computer
 * A text editor
 * A USB Loader
 
-#### הוראות
+#### Instructions
 
 ##### Section I - Getting Started
 

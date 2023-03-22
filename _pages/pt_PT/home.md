@@ -1,40 +1,40 @@
 ---
 layout: splash
-title: "Guia Wii"
+title: "Wii Guide"
 header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: "O guia completo para modificar a tua Nintendo Wii."
+excerpt: "The complete guide to modding your Nintendo Wii."
 ---
 
-O guia também está disponível em outros idiomas! Para mudar o idioma, pressiona o ícone no canto superior direito para mudar o idioma.
+The guide is also available in other languages! To change the language, please press the icon at top right and change your language.
 {: .notice--info}
 
-## O que é "homebrew"?
+## What is "homebrew"?
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refere-se a software não autorizado pela Nintendo. Isto pode incluir jogos, utilidades, emuladores e mais!
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to software not authorized by Nintendo. This can include games, utilities, emulators and much more!
 
-Executar homebrew na tua Nintendo Wii pode ser feito gratuitamente por explorar bugs no software da Wii. As modificações instaladas pelo seguinte guide dar-te-ão um acesso fácil e persistent a homebrew de Wii.
+Running homebrew on your Nintendo Wii can be done for free by exploiting bugs in Wii's software. The modifications installed by following this guide will give you easy and persistent access to Wii homebrew.
 
-## O que é que posso fazer com homebrew?
+## What can I do with homebrew?
 
-Eis uma lista de coisas que podes fazer usando homebrew. Enquanto esta lista não é de forma nenhuma totalmente compreensiva, deves ter uma boa ideia do que é possível, e este guide vai te ajudar a facilmente começares.
+Here's a list of things you can do using homebrew. While this list is by no means totally comprehensive, you should have a good idea of what is possible, and the guide will help you easily get started.
 
-- Aplicar patches em conteúdos nos discos dos jogos (permitindo que jogues com modificações) utilizando [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
-- Intalar temas para o teu Menu Wii utilizando [MyMenuify](themes).
-- Instalar um USB Loader como[WiiFlow](wiiflow)ou[USB Loader GX](usbloadergx) para executar todos os teus títulos favoritos a partir de um dispositivo de armazenamento USB e mais.
-- Fazer uma cópia de segurança dos teus discos com [CleanRip](/dump-games) e instalar jogos e títulos com [YABDM](dump-wads)
-- Fazer uma cópia de segurança e restauro dos teus ficheiros de dados com o [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
-- Descarregar novas aplicações homebrew com o [Homebrew Browser](hbb)
-- Restaurar serviços online descontinuados, como o [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
-- Fazer cópias de segurança da tua memória do sistema Wii (NAND) e restaurá-las usando[BootMii](bootmii).
-- Proteger a tua Wii de eventuais bricks utilizando [Priiloader](priiloader) e BootMii.
+- Patch game disc contents (allowing you to load game modifications) using [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
+- Install themes to your Wii Menu using [MyMenuify](themes).
+- Install a USB Loader like [WiiFlow](wiiflow) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
+- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](dump-wads)
+- Back up and restore your save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
+- Download new homebrew apps with the [Homebrew Browser](hbb)
+- Restore discontinued online services, such as [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
+- Backup and restore copies of your Wii system memory (NAND) using [BootMii](bootmii).
+- Protect your Wii from bricks using [Priiloader](priiloader) and BootMii.
 - Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
 
 
-## Pronto?
+## Ready?
 
-Vamos começar [escolhendo o teu exploit](get-started)!
+Get started by [choosing your exploit](get-started)!
 {: .notice--info}

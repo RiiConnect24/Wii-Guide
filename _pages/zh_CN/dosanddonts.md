@@ -1,5 +1,5 @@
 ---
-title: "Wii破解的注意事项"
+title: "Dos and Don'ts of Wii Modding"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -7,27 +7,27 @@ title: "Wii破解的注意事项"
 如果你需要有关本教程的任何帮助, 请加入[RiiConnect24 Discord服务器](https://discord.gg/rc24) (推荐)或 [发送电子邮件到 support@riiconnect24.net](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
-以下是您破解Wii时该做和不该做的事情列表，以确保您的Wii不会变砖。
+Here's a list of things you should and should not do once you've modded your Wii, to make sure you don't brick it.
 
-#### 列表
+#### List
 
-- **请确保**安装了 [BootMii](bootmii)和 [Priiloader](priiloader)来确保您的Wii不会变砖。
-- **请务必**定期 [用BootMii备份NAND](bootmii),，尤其在做有风险的事之前。
-- 如果你愿意，**安装**Wii菜单主题，但请仔细阅读我们的教程。 ([Wii](themes) / [vWii](themes-vwii)). ([Wii](themes) / [vWii](themes-vwii)). 其他教程可能会产生误导，并导致Wii变砖。
-- **请不要**安装带随机IOS的WAD、旧版本的Wii菜单等。尤其是vWii和Wii Mini，除非你知道自己在干什么。
-- **DO NOT** use old versions of Wii homebrew. 如果您从互联网上关注Wii破解教程，请谨慎使用旧教程(可能是2012年之前)，特别是当它们与IOS等内容有关。
-- **请不要**修改、重命名或删除Wii NAND上的随机文件，除非你知道自己在干什么。
-- **请不要**在非韩版Wii上使用自制软件"KoreanKii"。
-- **请不要**在Wii mini上安装除 [d2xl cIOS](cios-mini)以外的cIOS或Wii菜单。 如果未将Wi-Fi焊接到主机上，这样做会使主机变砖。
-- 不幸的是，其他替代服务器很容易受到攻击，如果您使用它们，可能会使您的Wii变砖。 **请不要**在Wii上使用任何任天堂Wi-Fi连接 [Wiimmfi](wiimmfi)除外。 [RiiConnect24](riiconnect24)可以安全使用。
+- **DO** make sure you've installed [BootMii](bootmii) and [Priiloader](priiloader) to make sure you don't brick your Wii.
+- **DO** make a backup of your Wii NAND regularly with [BootMii](bootmii), especially before doing something risky.
+- **DO** install Wii Menu themes if you wish, but only use our tutorial for it carefully. ([Wii](themes) / [vWii](themes-vwii)). Other tutorials might be misleading and can cause you to brick your Wii.
+- **DO NOT** install WADs of random IOS, older versions of the Wii Menu, etc. unless you know what you're doing, especially not on vWii or a Wii Mini.
+- **DO NOT** use old versions of Wii homebrew. If you follow Wii modding tutorials from the Internet, be cautious about using old tutorials (likely pre-2012), especially if they have to do with things such as IOS.
+- **DO NOT** modify, rename, or delete random files on your Wii NAND unless you know what you are doing.
+- **DO NOT** use the homebrew app "KoreanKii" on a non-Korean Wii.
+- **DO NOT** Install any IOS or Wii Menu on a Wii mini other than [d2xl cIOS](cios-mini). Doing so will brick your console if a Wi-Fi card is not soldered to it.
+- **DO NOT** use any Nintendo Wi-Fi Connection replacement on your Wii except for [Wiimmfi](wiimmfi). Unfortunately, other replacement servers are vulnerable to an exploit that can brick your Wii if you use them. [RiiConnect24](riiconnect24) is safe to use as well.
 
-如果您遵守这些规则，您就不必担心Wii变砖。 Wii破解很安全，变砖通常是因为违反以上规则。
+If you follow these guidelines, you won't have to worry about bricking your Wii. Wii modding is safe, and bricks usually occur due to something done by the user that is on this list.
 
-继续安装 cIOS<br> cIOS用于使用USB Loader玩游戏。 对于许多自制软件也很有用。
+Continue to installing cIOS<br> cIOS are used to play games with a USB Loader. It's also useful for many other homebrew apps.
 {: .notice--info}
 
-如果使用Wii，请按照[此教程](cios)安装cIOS。
+If using a regular Wii, follow [this guide](cios) to install cIOS.
 {: .notice--info}
 
-如果使用Wii mini，请按照 [此教程](cios-mini)安装cIOS。
+If using a Wii mini, follow [this guide](cios-mini) to install cIOS
 {: .notice--info}

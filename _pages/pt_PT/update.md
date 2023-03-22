@@ -4,14 +4,14 @@ title: "Updating Wii Menu to v4.3"
 
 {% include toc title="Table of Contents" %}
 
-Se necessitas de ajuda para alguma coisa relacionada a este tutorial, por favor entra no [server do RiiConnect24 no Discord](https://discord.gg/rc24) (recomendado) ou [envia-nos um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 This tutorial will explain how to update your Wii Menu to version 4.3, if you have already homebrewed your Wii.
 
-#### O que precisas
+#### What you need
 
-* Um cartão SD ou USB drive
+* An SD card or USB drive
 * A computer with Windows on it
 * [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest)
 * [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
@@ -19,14 +19,14 @@ This tutorial will explain how to update your Wii Menu to version 4.3, if you ha
 If you don't have a Windows computer, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-#### Instruções
+#### Instructions
 
-##### Secção I - Descarregamento
+##### Section I - Downloading
 
 Your Wii must be modded in order to perform this. If it isn't, then it's best to follow [the guide](get-started) first before doing this.
 {: .notice--info}
 
-To protect against bricks, [make sure you install Priiloader](priiloader). Also, install [BootMii](bootmii) (as Boot2 if you have an early Wii, otherwise IOS). Instalar uma proteção contra brick seguindo o guia corretamente deverá manter-te protegido de bricks. NÃO CONTINUES SE NÃO TIVERES O PRIILOADER E O BOOTMII INSTALADO!
+To protect against bricks, [make sure you install Priiloader](priiloader). Also, install [BootMii](bootmii) (as Boot2 if you have an early Wii, otherwise IOS). Installing brick protection along with following the guide correctly should keep you safe from bricks. DO NOT CONTINUE UNTIL YOU HAVE INSTALLED PRIILOADER AND BOOTMII!
 {: .notice--danger}
 
 1. Extract the .zip file for NUS Downloader vWii and open the application.
@@ -44,21 +44,21 @@ To protect against bricks, [make sure you install Priiloader](priiloader). Also,
 | Europe | v514 (4.3E)      |
 | Korea  | v518 (4.3K)      |
 
-##### Secção II - Instalação
+##### Section II - Installing
 
-Utiliza o controlo direcional para esta ferramenta.
+You use the +Control Pad to use this tool.
 {: .notice--info}
 
 1. Put your SD card or USB drive in your Wii.
-2. Abre o Homebrew Channel na tua Wii.
+2. Launch the Homebrew Channel on your Wii.
 3. Launch Wii Mod Lite.
-4. Utilizando o controlo direcional do teu Comando Wii, navega até `WAD Manager` e depois navega até à pasta `wad`.
+4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 5. Press A to install the IOS80 `.wad` file. [`Make sure the installation is successful, otherwise abort.`]
 6. Press A to install the Wii Menu WAD.
 7. Press A to install the IOS58 `.wad` file. [`Make sure the installation is successful, otherwise abort.`]
 8. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
-Installing a Wii Menu WAD will **remove** Priiloader. Do not reboot before you have installed it again, otherwise you could BRICK.
+**Do not return to the Wii menu yet, otherwise you could BRICK. Install [Priiloader](priiloader) first.**
 {: .notice--danger}
 
 [Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it.

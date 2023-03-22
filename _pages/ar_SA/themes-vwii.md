@@ -51,7 +51,7 @@ MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
 
 * When choosing a theme, it is important to make sure that your theme is compatible with the vWii System Menu.
 
-* Older themes for 3. X or 2. X are **NOT** compatible with vWii and may cause a brick if used.
+* Older themes for 3.X or 2.X are **NOT** compatible with vWii and may cause a brick if used.
 
 * Most of the themes on RiiConnect24's theme page have been tested on vWii and they are known to work.
 
@@ -62,9 +62,9 @@ This assumes your vWii is on the latest Wii Menu version.
 
 There are a couple of ways to get the .app files for your vWii System Menu, in this guide we'll be using the vWii version of NUS Downloader.
 
-1. Open the folder and launch NUS Downloader.
-2. Open the menu in NUS Downloader and click the database button.
-3. Go to System > System Menu and select a version according to your region.
+1. Extract the .zip file for NUS Downloader vWii and open the application
+2. Click on `Database...`
+3. Go to `System` > `System Menu` and select the version corresponding to your region as shown in the table below.
 
 | Region | vWii Menu version |
 | ------ | ----------------- |
@@ -78,7 +78,7 @@ After selecting the correct version to download, check the box for `Create Decry
 
 ![The main menu of NUS downloader without the database menu open.](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
 
-After the download has finished, search for .app file corresponding to your region in the folder where NUS Downloader is.
+After the download has finished, search for the .app file corresponding to your region in the folder where NUS Downloader is.
 
 | Region | .app file for your region |
 | ------ | ------------------------- |

@@ -4,77 +4,62 @@ title: "WiiLink"
 
 {% include toc title="Inhaltsverzeichnis" %}
 
-WiiLink und alle zugehörigen Dienste (wie z.B. Wii no Ma) werden nicht von RiiConnect24 verwaltet oder betrieben.
-{: .notice--warning}
 
-[WiiLink](https://wiilink24.com/) lässt dich die Japan-exklusiven Kanäle Wii Room und Digicam Print Channel benutzen. Für die Zukunft ist auch Unterstützung für den Demae Kanal geplant.
+[WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels known as Wii Room, the Digicam Print Channel, and the Food Channel again.
 
-#### Voraussetzungen
+#### What you need
 
-* Eine SD-Karte oder ein USB-Laufwerk
-* Eine Wii mit Internetverbindung
-* Ein Windows- oder Unix-basierter Computer
-* [WiiLink Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
+- Eine SD-Karte oder ein USB-Laufwerk
+- A Wii with an Internet connection
+- A Windows or Unix based computer
+- [WiiLink Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
 #### Anleitung
 
-##### Optional: Wii-Patcher
-Der Wii Patcher funktioniert nicht auf Dolphin. Wenn du ein Dolphin-Benutzer bist, benutze bitte die anderen Patcher.
+##### Section I - Patching WADs
+
+[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
 {: .notice--info}
 
-Wenn du den Wii-Patcher verwendest, musst du unsere anderen Patcher nicht verwenden.
+1. Download `WiiLinkPatcher-Windows.bat` if you are on Windows, and `WiiLinkPatcher-Unix.sh` if you are on a Unix system
+2. On Windows run `WiiLinkPatcher-Windows.bat`. On Unix systems, open Terminal and type `bash`, then drag `WiiLinkPatcher-Unix.sh` into the terminal then press enter. It should look like this: `bash WiiLinkPatcher-Unix.sh`.
+3. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`.
+4. For this guide, choose "`Install WiiLink on your Wii`"
+5. Follow the on screen instructions to select which versions of the available channels you would like.
+6. Connect the SD Card or USB Drive to your computer and select "`1`".
+7. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Device and try again.
+8. It may take a moment for the patcher to download the files to your SD Card or USB Drive.
+9. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
+10. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `WiiLinkPatcher.bat` to your SD Card or USB Device.
+11. Put your SD card or USB drive in your Wii.
+12. Starte den Homebrew-Kanal auf deiner Wii.
+13. Launch Wii Mod Lite.
+14. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+15. If your Wii is not a Japanese region, install `WiiLink_SPD(Wii).wad` or `WiiLink_SPD(vWii).wad`(Depending on console) before anything else. This is required so that we know your email address to send files.
+16. Highlight all other WADs with `WiiLink` in the name and press + to select them. When all of them are selected, press A twice to install the WADs.
+    - If you have previously installed the RiiConnect24 versions of the Forecast Channel and the Nintendo Channel, installing WiiLink's will overwrite them.
+
+17. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+
+##### Section II - Adding your email to Set Personal Data
+
+Adding your email to Set Personal Data will allow the Digicam Print Channel to send images to your email that you created using it.
 {: .notice--info}
 
-1. Laden Sie den WAD basierend auf Ihrer Konsole herunter. Für Wii wird es `WiiLink_Patcher_Wii.wad` sein. Für vWii wird es `WiiLink_Patcher_vWii.wad` sein.
-2. Lege die WAD in den `WAD` Ordner auf Ihrer SD-Karte/USB.
-3. Verbinde deine SD-Karte mit deiner Wii
-4. Installiere die WAD mit­hil­fe von Wii Mod Lite oder einem anderen WAD-Manager.
-5. Starte den `WiiLink Patcher` Kanal aus dem Wii Menü.
-6. Wählen Sie den Kanal aus, den Sie herunterladen möchten.
-7. Wählen Sie die Sprache aus, die Sie herunterladen möchten.
-8. Wenn alles funktioniert, sollten die Kanäle auf deinem Wii-Menü sein.
+1. Launch Digicam Print Channel from your Wii's home menu.
+2. On the bottom right, press `Address settings` and then `Yes`.
+3. Click on `Email Address` within SPD and type in your email address. (make sure you **put it in correctly** or it **will not work!**)
+4. Press `OK` and then `Done`.
+5. Once you are in the SPD main menu, choose `Digicam` in the `Choose Channel` menu. After you’ve done that, it should work!
 
-##### Abschnitt I - Patchen von WADs
-
-[Wenn du detaillierte Anweisungen zur Installation von WADs sehen möchtest, klicke hier!](wiimodlite)
+For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
 {: .notice--info}
 
-1. Lade abhängig von deinem Betriebssystem die benötigten Dateien herunter. Unter Windows, führe `WiiLinkPatcher.bat` aus. Auf Unix-Systemen, starte das Terminal und tippe sh ein, dann ziehe die Datei `WiiLinkPatcher.sh` in das Fenster vom Terminal und drücke Enter.
-2. Drücke 1 um "`Start`" auszuwählen und bestätige die Eingabe mit `ENTER`.
-3. Für diese Anleitung, wähle "`Installiere WiiLink auf deiner Wii`" aus
-4. Wähle deine Region.
-5. Verbinde deine SD-Karte oder dein USB-Laufwerk mit deinem Computer und wähle "`1`".
-6. Wenn dein Gerät erfolgreich erkannt wurde, wähle "`1`". Wenn nicht, stelle sicher, dass ein Ordner namens `apps` auf deiner SD-Karte oder deinem USB-Laufwerk vorhanden ist und versuche es erneut.
-7. Bitte hab etwas Geduld...
-8. Sobald es abgeschlossen ist, kannst du den Patcher schließen. Alle Dateien sind nun auf deiner SD-Karte bereit.
-9. Falls nicht alles automatisch auf deine SD-Karte oder dein USB-Gerät kopiert wurde, kopiere die Ordner `WAD` und `apps`, welche sich neben der `WiiLinkPatcher.bat` befinden sollten, auf deine SD-Karte oder dein USB-Gerät.
-10. Verbinde deine SD-Karte bzw. dein USB-Laufwerk mit deiner Wii.
-11. Starte den Homebrew-Kanal auf deiner Wii.
-12. Starte Wii Mod Lite.
-13. Mithilfe der rechten Steuerkreuztaste auf deiner Wii-Fernbedienung, wähle `WAD Manager` und wähle dann den `wad`-Ordner.
-14. Wenn die Region deiner Wii nicht Japan ist, installiere WiiLink24_SPD.wad vor allem anderen. Dies ist erforderlich, damit wir deine E-Mail Adresse zum Senden von Dateien kennen.
-15. Markiere alle anderen WADs mit `WiiLink24` im Namen und drücke + um sie auszuwählen. Hast du alle markiert, drücke zweimal A um die WADs zu installieren.
-16. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel.
-
-##### Abschnitt II - Deine E-Mail zu SPD hinzufügen
-
-Deine E-Mail zu SPD hinzuzufügen, wird es Kanälen wie Digicam und Demae erlauben, dir Dateien wie Bilder oder Links zuzuschicken.
+[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
 {: .notice--info}
 
-1. Starte den Digicam Print Channel vom Hauptmenü deiner Wii aus.
-2. Unten rechts, drücke `Address settings` und dann `Yes`.
-3. Klicke `Email Address` innerhalb SPD und gib deine E-Mail Adresse ein. (Stelle sicher, dass du sie **richtig eingibst** oder es wird ** nicht funktionieren!**)
-4. Drücke `OK` und dann `Done`.
-5. Sobald du im SPD-Hauptmenü bist, wähle `Digicam` in dem `Choose Channel`-Menü. Sobald du dies getan hast, sollte es funktionieren!
-
-For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). Du findest diese unter `Bildschirm -> Fernseher`. Andernfalls verdeckt dir ein pinker Balken am unteren Teil der Bildschirms die Sicht.
+[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
 {: .notice--info}
 
-[Weiter mit RiiConnect24](riiconnect24)<br> RiiConnect24 erlaubt es dir, eingestellte Dienste von WiiConnect24 zu benutzen, was den Nachrichtenkanal, Wetterkanal, Meinungskanal, Nintendo-Kanal und Mii-Wettbewerbskanal, sowie Wii Mail beinhaltet. Dies zu installieren ist nicht zwingend erforderlich.
-{: .notice--info}
-
-[Weiter zu Wiimmfi](wiimmfi)<br> Wiimmfi ermöglicht es dir, Spiele online spielen zu können obwohl die Nintendo Wi-Fi Connection eingestellt wurde. Dies zu installieren ist nicht zwingend erforderlich.
-{: .notice--info}
-
-[Fortfahren in der Seitennavigation](site-navigation)<br> Wir haben viele weitere Tutorials, welche dir gefallen könnten.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}

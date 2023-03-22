@@ -1,92 +1,92 @@
 ---
-title: "USB 로더 GX"
+title: "USB Loader GX"
 ---
 
-{% include toc title="목차" %}
+{% include toc title="Table of Contents" %}
 
-튜토리얼에 관한 질문이 있다면, [RiiConnect24 디스코드 서버](https://discord.gg/rc24) 에 가입하거나(권장) [support@riiconnect24.net에 이메일을 보내세요](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-이 가이드는 USB 드라이브에서 게임을 플레이 할 수 있는 기능으로 유명한 USB 로더인 USB Loader GX에 대해 설명합니다.
+This is a quick start guide on how to use USB Loader GX, a popular USB loader for the Wii that's used to play games from a USB drive.
 
-![USB 로더 GX](/images/usbloadergx.png)
+![USB Loader GX](/images/usbloadergx.png)
 
-#### 필요한 것
+#### What you need
 
-* Wii
-* USB 드라이브
-* [USB 로더 GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
+* A Wii
+* A USB drive
+* [USB Loader GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
 
-따르기 전에 [cIOS](/cios) 설치를 확인하세요!
+Make sure you have installed [cIOS](/cios) before following this!
 {: .notice--info}
 
-Windows를 사용한다면 [Wii Backup Manager](/wiibackupmanager)를, macOS를 사용한다면 [Witgui](https://desairem.com/wordpress/category/witgui-download/)를, Windows, macOS와 Linux를 사용한다면 [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion)을 권장드립니다.
+We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux.
 {: .notice--info}
 
-NKit 형태의 게임을 플레이하고 싶다면, [이 프로그램](https://gbatemp.net/download/nkit.36157/)을 통해 우선 ISO로 변환하세요. 또한 돌핀의 개발 빌드로도 게임을 우클릭 하고 "파일 변환"을 누르면 됩니다.
+If you want to play games that are in NKit format, use [this program](https://gbatemp.net/download/nkit.36157/) to convert them to ISO first. You can also use a development build of Dolphin, right click on a game, and use "Convert File" to convert it.
 {: .notice--info}
 
-Wii Backup Manager, Witgui, Wii Backup Fusion으로 게임을 복사하지 않는다면, USB 드라이브나 SD 카드의 최상단 경로에 "wbfs"라는 폴더를 만들고 게임을 붙여넣으세요.
+If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fusion, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
 {: .notice--info}
 
-게임을 플레이하기 위해선, Wii를 위한 외장하드를 권장드립니다. 플래시 드라이브도 사용할 수는 있지만, 외장하드가 더 안정적이고, 게임을 더 많이 보관할 수 있기 때문에 권장됩니다.
+To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
 {: .notice--info}
 
-USB 드라이브가 FAT32나 NTFS로 포맷되었는지 확인하세요. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
+Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
-#### 방법
+#### Instructions
 
-##### 다운로드 하기
+##### Downloading
 
-1. USB Loader GX를 압축 해제하고 SD 카드 및 USB 드라이브의 `apps` 폴더에 붙여넣으세요.
-2. USB 드라이브, 또는 SD 카드를 사용하는 경우 Wii에 삽입하고, USB Loader GX를 홈브루 채널에서 실행하세요.
+1. Extract USB Loader GX and put it in the `apps` folder on your USB drive or SD card.
+2. Insert your USB drive, and SD card if you're using one, into your Wii and launch USB Loader GX from the Homebrew Channel.
 
-##### 시작하기
+##### Getting Started
 
-USB 로더 GX 앱에는 "가이드"가 없습니다. 이 글은 그저 간단한 시작을 위한 사용 방법을 알려주려고 만들었습니다. 사용하면서 USB Loader GX의 좋은 기능들을 알아낼 수 있을 겁니다.
+There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
 {: .notice--info}
 
-* USB Loader GX가 20초 카운트 다운과 함께 "Waiting for HDD..."라고 한다면, USB 드라이브를 찾지 못할 가능성이 큽니다. 앱에서 나가는 것을 시도해 보고, Wii의 다른 포트에 USB 드라이브를 삽입한 뒤에 재 실행 하세요.
-* Wii 리모컨 맨 위의 1 버튼을 눌러서 [GameTDB](https://gametdb.com/)에서 게임 커버와 아트워크를 받는 창을 열 수 있습니다. 게임 수에 따라 게임 커버 및 아트워크를 받는 시간이 걸릴 수 있습니다.
-* Wii 메뉴에서 USB Loader GX를 실행할 수 있는 WAD가 있습니다. 이들은 포워더 WAD라 불립니다. 공식 포워더는 [여기](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad)에서 찾을 수 있고, vWii (Wii U) 를 위한 버전은 [여기](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad)에서 찾을 수 있습니다.
-* 게임큐브나 "커스텀" Wii 게임은 USB Loader GX가 사용하는 커스텀 배너가 없을 수 있습니다. 활성화 하려면, USB 드라이브에서 config/GXGlobal.cfg에서 `CustomBannersURL = http://banner.rc24.xyz/`를 찾거나 입력하세요. 그 다음 "Custom Banner" 옵션을 Wii 리모트에서 1번을 눌러 받을 수 있습니다.
+* If USB Loader GX says "Waiting for HDD..." with a 20 seconds countdown, it's likely that it can't find the USB drive. Try to exit out of the app, and then relaunch it after you put the USB drive in the other port of the Wii.
+* You can press the 1 Button on your Wii Remote to open up a dialog to download game covers and artwork from [GameTDB](https://gametdb.com/). It might take a while to download the game covers and artwork, depending on how many games you have.
+* There are WADs that can open up USB Loader GX if you load it from the Wii Menu. This is called a forwarder WAD. An official forwarder WAD can be found [here](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), and a version for the vWii (Wii U) can be found [here](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad).
+* GameCube or "custom" Wii games may or may not have a custom banner that USB Loader GX uses. To enable this, find or write `CustomBannersURL = http://banner.rc24.xyz/` in config/GXGlobal.cfg on your USB drive. Then you can use the "Custom Banner" download by pressing the 1 Button on your Wii Remote.
 
-##### 사용자 인터페이스
+##### User Interface
 
-USB Loader GX 인터페이스에는 여러 버튼이 있습니다.
+There are multiple buttons in the USB Loader GX interface.
 
-###### 메인 메뉴
+###### Main Menu
 
-상단 메뉴에서 찾을 수 있는 기능이 있는 버튼입니다. 순서는 왼쪽에서 오른쪽입니다.
+These are the functions the buttons found on the top of the main menu do, from left to right:
 
-* 별 - "즐겨찾기"로 선택된 게임을 보여줍니다.
-* 검색 - 이름으로 게임을 찾을 수 있습니다.
-* 분류 - 게임의 분류 방법을 변경합니다.
-* 플랫폼 - 플랫폼별로 게임을 분류합니다.
-* 카테고리 - 게임을 카테고리별로 분류합니다.
-* 리스트 - 게임을 목록 형식으로 나타냅니다.
-* 여러 커버 뷰 - 게임을 여러 커버로 보여줍니다.
-* 커버 캐러셀 뷰 - 게임을 캐러셀 뷰로 보여줍니다.
-* Wii 메뉴 뷰 - Wii 메뉴 형식으로 게임을 보여줍니다.
-* 자녀 보호 - USB Loader GX를 잠급니다.
-* 디스크 - 게임을 디스크로 불러옵니다.
+* Star - Shows games that you have marked as "favorites".
+* Search - Lets you search for games by name.
+* Sort - Cycles through sorting methods for games.
+* Platform - Choose to sort games by platform.
+* Category - Sorts games by category.
+* List - Shows games in a list view.
+* Multi-Cover View - Shows games in a multi-cover view.
+* Cover Carousel View - Shows games in a carousel view.
+* Wii Menu View - Shows games in a Wii Menu view.
+* Parental Control - Locks USB Loader GX.
+* Disc - Loads a game via disc.
 
-아무 게임이나 누르면 "Start"를 눌러 게임을 시작할 수 있게 합니다.
+Pressing any game will allow you to play the game by pressing "Start".
 
-다른 버튼도 있습니다:
+There are also other buttons:
 
-* (+) 아이콘 - 게임을 "설치"합니다. 예. 게임을 디스크에서 불러오고 덤프합니다.
-* 톱니바퀴 - USB Loader GX의 설정입니다.
-* SD 카드 - SD 카드 재 마운트
-* 홈브루 - 홈브루 앱 가져오기
-* Wii - 홈 메뉴를 불러옵니다. Wii 리모컨에서 HOME 버튼을 눌러서도 접근할 수 있습니다.
-* 전원 버튼 - Wii 종료.
+* (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
+* Gears - Settings for USB Loader GX.
+* SD card - Remount the SD card.
+* Homebrew - Load homebrew apps.
+* Wii - Open up the HOME Menu, which can also be accessed by pressing the HOME Button on the Wii Remote.
+* Power Button - Turn off your Wii.
 
-화면 가운데 밑에는 USB 드라이브의 남는 공간과 게임 수가 나타납니다.
+On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
 
 [Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that USB Loader GX can integrate with. This is optional to set up.
 {: .notice--info}
 
-[사이트 네비게이션으로 계속하기](site-navigation)<br>당신이 좋아할만한 많은 튜토리얼이 있습니다.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}

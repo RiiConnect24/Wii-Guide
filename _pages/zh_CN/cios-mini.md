@@ -43,16 +43,16 @@ title: "供Wii mini安装的d2xl cIOS （实验性功能）"
    - 如果安装失败提醒 `TMD version mismatch` ，在`Select cIOS base` 选项按下十字键的左键或右键，直到版本号和你刚刚尝试安装的版本号不同。 不要改变数字57。
 
 
-##### 启用以太网
+##### Enabling Ethernet
 如果你希望通过以太网（光纤）在Wii mini上使用Wiimmfi，你需要运行[Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip)，由Fullmetal5制作。 要运行它，只需要解压它到U盘中的`apps`文件夹里，在Homebrew Channel里启动它。
 
-Wii 和 Wii mini 主机仅与AX88772芯片的网络适配器工作。 请在购买之前检查该产品是否兼容。 已知这些绿联产品兼容:[亚马逊欧洲](https://www.amazon.de/dp/B00MYT481C)，[亚马逊美国](https://www.amazon.com/dp/B08DRKYKMM/)。
+Wii 和 Wii mini 主机仅与AX88772芯片的网络适配器工作。 请在购买之前检查该产品是否兼容。 This one from UGREEN is known to be compatible: [Amazon Europe](https://www.amazon.de/dp/B00MYT481C), [Amazon US](https://www.amazon.com/dp/B08DRKYKMM/)
 {: .notice--info}
 
 请不要在Wii mini尝试去安装只供Wii使用的iOS和系统菜单。 这样做会使你的Wii mini砖机。
 {: .notice--warning}
 
-你现在可以以使用一些自制工具例如[USB Loader GX](usbloadergx)和[WiiFlow](wiiflow)。
+You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: .notice--info}
 
 [继续网站导航](site-navigation)<br> 我们有许多您可能喜欢的其它教程。

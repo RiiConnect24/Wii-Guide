@@ -16,7 +16,7 @@ title: "cIOS"
 
 #### 你需要的是
 
-- 一台Wii
+- A Wii
 - 一张SD卡或U盘
 - [d2x cIOS 安装程序](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
@@ -40,10 +40,10 @@ title: "cIOS"
 ##### 第一章 - 下载
 
 1. Download, extract, and run [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
-1. Select "Database", "IOS", then "IOS57", and select "v5918".
+1. Select "Database", "IOS", then "IOS38", and select "v4123".
    - Ensure that "Pack WAD" is checked and "Patch IOS" is unchecked.
-1. Repeat the previous step for IOS56 v5661 and IOS38 v4123.
-1. Once you have downloaded all three IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. Open the folder and navigate through them until you locate the three WAD files you downloaded. Place each of WAD files on the root of your SD card or USB drive.
+1. Repeat the previous step for IOS56 v5661, IOS57 v5918 and IOS58 v6175.
+1. Once you have downloaded all four IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. Open the folder and navigate through them until you locate the four WAD files you downloaded. Place each of WAD files on the root of your SD card or USB drive.
 1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
 1. Insert your SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel.
 </div>
@@ -53,37 +53,49 @@ title: "cIOS"
 1. 按下继续，然后按照以下设置设定：
 
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 57
+Select cIOS: d2x-v11-beta1
+Select cIOS base: 38
+Select cIOS slot: 248
+Select cIOS version: 65535
+```
+
+![Install cIOS 249](/images/cios/d2x_v11_248.png)
+
+1. 设置完成后，按2次A安装。
+1. 安装完成后，按A返回，并将选项设置为:
+
+```
+Select cIOS: d2x-v11-beta1
+Select cIOS base: 56
 Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 
-![Install cIOS 249](/images/cios/Install249.png)
+![Install cIOS 250](/images/cios/d2x_v11_249.png)
 
 1. 设置完成后，按2次A安装。
 1. 安装完成后，按A返回，并将选项设置为:
 
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 56
+Select cIOS: d2x-v11-beta1
+Select cIOS base: 57
 Select cIOS slot: 250
 Select cIOS version: 65535
 ```
 
-![Install cIOS 250](/images/cios/Install250.png)
+![Install cIOS 250](/images/cios/d2x_v11_250.png)
 
 1. 设置完成后，按2次A安装。
 1. 安装完成后，按A返回，并将选项设置为:
 
 ```
-Select cIOS: v10 beta52 d2x-v10-beta52
-Select cIOS base: 38
+Select cIOS: d2x-v11-beta1
+Select cIOS base: 58
 Select cIOS slot: 251
 Select cIOS version: 65535
 ```
 
-![Install cIOS 251](/images/cios/Install251.png)
+![Install cIOS 251](/images/cios/d2x_v11_251.png)
 
 1. Once set, press A twice again to install, and then exit once done.
 
@@ -93,7 +105,7 @@ Select cIOS version: 65535
 Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
 
 - 在《动物森友会: 城市大家庭》中使用键盘。
-- 运行 SpongeBob's Boating Bash.
+- Running SpongeBob's Boating Bash.
 
 A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
 {% endcapture %}
@@ -119,15 +131,15 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
     - Try using 250 or 251, if 249 doesn't work.
 1. Press Save and try to load the game.
 </div>
-##### 一旦完成设置
+##### Options once complete
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. 这是可选项。
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
 {: .notice--info}
 
-[继续 网站导览](site-navigation) 我们有许多你可能喜欢的其他教程。
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 
-你现在可以以使用一些自制工具例如[USB Loader GX](usbloadergx)和[WiiFlow](wiiflow)。
+You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: .notice--info}
 
 <script>

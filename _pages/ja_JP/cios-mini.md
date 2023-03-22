@@ -2,9 +2,9 @@
 title: "d2xl cIOS for Wii mini (experimental)"
 ---
 
-{% include toc title="目次" %}
+{% include toc title="Table of Contents" %}
 
-This tutorial will tell you how to install Leseratte's d2xl Wii mini cIOS (custom IOS). これは、USBローダーでゲームをロードする場合に必要です。 いくつかのHomebrewは、cIOSを使用すると動作が改善されます。
+This tutorial will tell you how to install Leseratte's d2xl Wii mini cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
 
 ![d2x cIOS Installer](/images/cIOS.png)
 
@@ -17,22 +17,22 @@ If you need help with anything regarding this tutorial, please join [the Wii min
 This d2x cIOS installer was originally developed for the Wii U's vWii by DaveBaol and custom cIOS was created by Leseratte for the Wii mini. The original download page can be found [here](https://wii.leseratte10.de/d2xl-cIOS/). Leseratte's Github page can be found [here](https://github.com/Leseratte10/d2xl-cios). Please note that this cIOS is still experimental, though no problem with functionality has been reported.
 {: .notice--info}
 
-#### 必要なもの
+#### What you need
 
 * A Wii mini with the Homebrew Channel installed
-* USBドライブ
+* A USB drive
 * Leseratte's [d2xl cIOS Installer](/assets/files/d2xl_wii_mini_cIOS_installer_v1_beta2.zip)
 
-#### 手順
+#### Instructions
 
-##### セクション I - ダウンロード
+##### Section I - Downloading
 
 1. Extract the d2xl cIOS Installer to the `apps` folder on your USB drive.
 1. Insert your USB drive into your Wii mini and load the d2xl cIOS Installer from the Homebrew Channel.
 
-##### セクション II - インストール
+##### Section II - Installing
 
-1. 任意のボタンを押してCIOS SETTINGSに進み、オプションを次のように設定します。
+1. Press continue, then set the options to the following:
     ```
     Select cIOS: d2xl-v1-beta2
     Select cIOS base: 57
@@ -52,7 +52,7 @@ The Wii and Wii mini consoles are only known to work with Ethernet adapters usin
 Do not attempt to install a Wii IOS or System Menu on the Wii mini. Doing so will likely brick your console.
 {: .notice--warning}
 
-[USB Loader GX](usbloadergx)や[WiiFlow](wiiflow)などのHomebrew を使えるようになりました。
+You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.

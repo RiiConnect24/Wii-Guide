@@ -1,34 +1,34 @@
 ---
-title: "Creare Shortcuts per giochi Wii"
+title: "Creating Wii Game Shortcuts"
 ---
 
 {% include toc title="Table of Contents" %}
 
-Se hai bisogno di qualsiasi informazione riguardante questo tutorial, entra nel [server discord di RiiConnect24 ](https://discord.gg/rc24)(raccomandato) oppure [scrivici una mail a support@riconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Hai un USB Loader e vuoi creare scorciatoie dei giochi da avviare dal Menù Wii? Se sì, prova WiiGSC (Wii Game Shortcut Creator), prima chiamatosi Crap.
+Do you use a USB Loader and want to create game shortcuts to launch them on your Wii Menu? Then try WiiGSC (Wii Game Shortcut Creator), previously known as Crap.
 
-In caso di brick, avere [Priiloader installato è obbligatorio](/priiloader). Inoltre, installa anche BootMii (come Boot2 se possibile). Avere protezioni da brick e seguire correttamente la guida ti terrà al sicuro. NON CONTINUARE FINO A CHE NON HAI PRIILOADER E BOOTMII INSTALLATI!
+In the case of a brick, [installing Priiloader is a must](/priiloader). Also, install BootMii (as Boot2 if you have an early Wii). Installing brick protection along with following the guide correctly should keep you safe from bricks. DO NOT CONTINUE UNTIL YOU HAVE INSTALLED PRIILOADER AND BOOTMII!
 {: .notice--warning}
 
-Perfavore, NON creare uno shortcut per i giochi "Mario Party 9" oppure "A Boy and His Blob". Farlo brickerà la tua Wii.
+Do NOT make a shortcut for the games "Mario Party 9" or "A Boy and His Blob". It will brick your Wii.
 {: .notice--warning}
 
-#### Cosa ti servirà
+#### What you need
 
-* Una Wii
-* Un dispositivo USB.
-* Un WAD Manager (noi consigliamo Wii Mod Lite).
-* Un computer con Windows.
+* A Wii
+* A USB drive.
+* A WAD Manager (Wii Mod Lite is recommended).
+* A Windows computer.
 * [WiiGSC](https://wiidatabase.de/downloads/pc-tools/wiigsc-ehemals-crap/)
 
-#### Istruzioni
+#### Instructions
 
-1. Installla WiiGSC, poi clicca col tasto destro su di esso e scegli **Esegui come amministratore**. Se non lo fai, WiiGSC ti darà un errore appena lo aprirai.
-2. Seleziona il percorso per il file ISO o WBFS sul tuo dispositivo USB, e scegli lo USB Loader che utilizzi. Le altre opzioni sono apposto così come sono.
-3. Se utilizzi USB Loader GX, assicurati di usare [questa versione](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip).
-4. Installa il WAD generato con un WAD Manager, consigliamo Wii Mod Lite.
+1. Install WiiGSC, then right click on it and choose **Run as administrator**. If you do not do this, WiiGSC will throw an error when you open it.
+2. Select the path to the ISO or WBFS file on your USB drive, and select the USB Loader you use. The other options should be fine the way thy are.
+3. If you're using USB Loader GX, make sure to use [this version](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip).
+4. Install the generated WAD with a WAD Manager, we recommend Wii Mod Lite.
 
-Se ricevi l'errore "I file di sistema sono corrotti", non allammarti se hai installato Priiloader. Spegni la tua Wii, e accendila nuovamente mentre tieni premuto anche il pulsante RESET. Si aprirà il menù di BootMii, nel quale avrai una varietà di opzioni per aggiustare la tua Wii. Una delle opzioni di avviare l'Homebrew Channel.
+If you get an error saying "The system files are corrupted", don't panic as long as you installed Priiloader. Turn off your Wii, then hold down the RESET button down and turn on your Wii. You should be able to boot into the Priiloader menu, where you have some options to fix your Wii Menu. One of the options is to launch the Homebrew Channel.
 {: .notice--info}

@@ -1,17 +1,17 @@
 ---
 main:
   - 
-    title: Wii Rehberi
+    title: Wii Guide
     url: /
   - 
-    title: Buradan başlayın
-    url: baslarken
+    title: Start Here
+    url: get-started
   - 
-    title: Site Haritası
-    url: site-haritasi
+    title: Site Navigation
+    url: site-navigation
   - 
-    title: Sıkça Sorulan Sorular (S.S.S)
-    url: S.S.S
+    title: FAQ
+    url: faq
   - 
     title: RiiConnect24
     url: riiconnect24
@@ -23,32 +23,32 @@ top:
     title: This website uses cookies to display the current guide progress on the sidebar and otherwise enhance the site.
 bottom:
   - 
-    title: İngilizce destek için, <a href="https://discord.gg/b4Y7jfD">RiiConnect24 Discord'dan</a> yardım isteyebilirsiniz.
+    title: For support in English, ask for help at <a href="https://discord.gg/b4Y7jfD">RiiConnect24 on Discord</a>.
 footer:
   - 
-    title: Kaynak
+    title: Source
     url: https://github.com/RiiConnect24/Wii-Guide/
   - 
-    title: Site Haritası
-    url: site-haritasi
+    title: Site Navigation
+    url: site-navigation
   - 
-    title: Bağışlar
-    url: bağışlar
+    title: Donations
+    url: donations
 sidebar_title:
   - 
-    title: Bütün İşlemler
+    title: Overall Progress
 sidebar_pages:
   - 
-    title: Wii Rehberi
+    title: Wii Guide
     url: /
   - 
-    title: Sıkça Sorulan Sorular (S.S.S)
-    url: S.S.S
+    title: FAQ
+    url: faq
   - 
-    title: Bağışlar
-    url: bağışlar
+    title: Donations
+    url: donations
   - 
-    title: Emeği Geçenler
+    title: Credits
     url: credits
   - 
     title: RiiConnect24

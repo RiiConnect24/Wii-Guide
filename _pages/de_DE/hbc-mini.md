@@ -1,5 +1,5 @@
 ---
-title: "Homebrew-Kanal - nur für die Wii mini"
+title: "Homebrew Channel - for Wii mini only"
 ---
 
 {% include toc title="Inhaltsverzeichnis" %}
@@ -7,24 +7,24 @@ title: "Homebrew-Kanal - nur für die Wii mini"
 Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [RiiConnect24 Discord-Server](https://discord.gg/rc24) bei (empfohlen), oder kontaktiere uns [per E-Mail unter support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![HBC-Logo](/images/hbc.png)
+![HBC Logo](/images/hbc.png)
 
-Mit dem Homebrew-Kanal kannst du Homebrew-Anwendungen ausführen.
+The Homebrew Channel is where you will go to launch homebrew applications.
 
 #### Anleitung
-Diese Seite ist **nur** für Nutzer der Wii mini vorgesehen. Falls du eine normale Wii hast, folge stattdessen [dieser Anleitung](hbc).
+This page is **only** intended for users of the Wii mini. If you have a regular Wii, follow [this guide](hbc) instead.
 {: .notice--info}
 
-Zwar ist es möglich, BootMii auf einer Wii Mini zu installieren, allerdings müsstest du dafür einen SD-Kartenslot anlöten. Das erfordert das Öffnen deines Wii mini und die Verwendung spezieller Werkzeuge, daher wird es nicht empfohlen.
+While it is possible to install BootMii on a Wii mini, you will need to solder an SD card slot. That requires opening up your Wii mini and using special tools, so it is not recommended.
 {: .notice--info}
 
-1. Du wirst eine Betrugswarnung sehen. Warte 30 Sekunden, bis der Text "Press 1 to continue" auftaucht und drücke dann die 1-Taste. ![Scam Screen](/images/Wii/ScamScreen.png)
+1. You will see a scam warning screen. Wait 30 seconds for the text "Press 1 to continue" to appear, then press 1. ![Scam Screen](/images/Wii/ScamScreen.png)
 
-1. Wähle "Continue" aus und dann "Install The Homebrew Channel". ![Installiere den Homebrew-Kanal](/images/Wii/InstallHomebrewChannel.png)
+1. Press Continue, then select Install The Homebrew Channel, and press install. ![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
-1. Drücke "Continue", wenn der Vorgang abgeschlossen ist. ![Homebrew-Kanal wurde erfolgreich installiert](/images/Wii/SuccessHBC.png)
+1. Press Continue when finished. ![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
 
-1. Sobald abgeschlossen, wähle `Exit`, um den HackMii Installer zu beenden.
+1. Once done, select `Exit` to exit the HackMii installer.
 
-[Fortfahren zur Priiloader-Installation](priiloader) Priiloader bietet Brick-Schutz, und wird ausdrücklich empfohlen zu installieren.
+[Continue to installing Priiloader](priiloader) Priiloader offers protection from bricks, and is highly recommended to install.
 {: .notice--info}

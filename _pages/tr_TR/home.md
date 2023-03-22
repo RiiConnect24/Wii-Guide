@@ -1,40 +1,40 @@
 ---
 layout: splash
-title: "Wii Rehberi"
+title: "Wii Guide"
 header:
   overlay_color: "#5e616c"
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: "Nintendo Wii'nizi modlamanız için eksiksiz hazırlanmış rehber."
+excerpt: "The complete guide to modding your Nintendo Wii."
 ---
 
-Bu rehber diğer dillerde de mevcuttur! Dili değiştirmek için sağ üstte bulunan simgeye tıklayarak dilinizi değiştirin.
+The guide is also available in other languages! To change the language, please press the icon at top right and change your language.
 {: .notice--info}
 
-## "Homebrew" nedir?
+## What is "homebrew"?
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) Nintendo tarafından izin verilmeyen yazılım anlamına gelir. Bu, oyunları, araçları, emulatörleri ve çok daha fazlasını içerir!
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to software not authorized by Nintendo. This can include games, utilities, emulators and much more!
 
-Nintendo Wii’de homebrew çalıştırmak Wii’nin yazılımındaki açıklar sayesinde ücretsiz gerçekleştirilebilmektedir. Bu rehberi takip ederek yapacağınız modlama Wii homebrew’una kolayca ve kalıcı olarak erişebilmenizi sağlayacak.
+Running homebrew on your Nintendo Wii can be done for free by exploiting bugs in Wii's software. The modifications installed by following this guide will give you easy and persistent access to Wii homebrew.
 
-## Homebrew ile ne yapabilirim?
+## What can I do with homebrew?
 
-Homebrew’u kullanarak yapabileceklerinizin bir listesi aşağıda bulunmaktadır. Bu liste kapsayıcı olmamakla birlikte size muhtemel şeyler hakkında bir fikir verecek ve bu rehber bunlara kolaylıkla başlamanızı sağlayacak.
+Here's a list of things you can do using homebrew. While this list is by no means totally comprehensive, you should have a good idea of what is possible, and the guide will help you easily get started.
 
-- [Riivolution’u](http://www.wiibrew.org/wiki/Riivolution) kullanarak disk içeriklerini yamalayabilirsiniz (oyun modlamanıza olanak sağlar).
-- [MyMenuify](themes) kullanarak Wii Menü’nüze tema yükleyebilirsiniz.
-- [WiiFlow](wiiflow) ve [USB Loader GX](usbloadergx) gibi USB Çalıştırıcıları yükleyerek favori oyunlarınızı USB sürücünüzden çalıştırabileceksiniz.
-- Disklerinizi [CleanRip](/dump-games), yüklü oyunlar veya diğer programlarınızı ise [YABDM](dump-wads) kullanarak yedekleyebilirsiniz.
-- [SaveGameManager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/) kullanarak kayıt dosyalarınızı yedekleyebilir veya geri getirebilirsiniz.
-- [Homebrew Browser](hbb) ile yeni homebrew uygulamaları indirebilirsiniz
-- [WiiConnect24](riiconnect24)&[Nintendo WFC hizmetleri](wiimmfi) gibi çevrimiçi servisleri geri getirebilirsiniz.
-- [BootMii](bootmii) ile Wii sistem hafızanızı (NAND) yedekleyebilir veya geri getirebilirsiniz.
-- [Priiloader](priiloader) ve BootMii kullanarak Wii’nizi brick modundan koruyabilirsiniz.
+- Patch game disc contents (allowing you to load game modifications) using [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
+- Install themes to your Wii Menu using [MyMenuify](themes).
+- Install a USB Loader like [WiiFlow](wiiflow) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
+- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](dump-wads)
+- Back up and restore your save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
+- Download new homebrew apps with the [Homebrew Browser](hbb)
+- Restore discontinued online services, such as [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
+- Backup and restore copies of your Wii system memory (NAND) using [BootMii](bootmii).
+- Protect your Wii from bricks using [Priiloader](priiloader) and BootMii.
 - Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
 
 
-## Hazır mısınız?
+## Ready?
 
-[Explotinizi seçerek](get-started) başlayın!
+Get started by [choosing your exploit](get-started)!
 {: .notice--info}

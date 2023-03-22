@@ -6,35 +6,35 @@ header:
   overlay_image: /images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: "Полное руководство по моддингу Nintendo Wii."
+excerpt: "The complete guide to modding your Nintendo Wii."
 ---
 
-Это руководство также доступно на других языках! Чтобы поменять язык, пожалуйста, нажмите на значок в правом верхнем углу и выберите нужный вам язык.
+The guide is also available in other languages! To change the language, please press the icon at top right and change your language.
 {: .notice--info}
 
-## Что такое "homebrew"?
+## What is "homebrew"?
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) позволяет запускать программное обеспечение, которое не лицензирована Nintendo. Это включает в себя игры, приложения, эмуляторы и многое другое!
+[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) refers to software not authorized by Nintendo. This can include games, utilities, emulators and much more!
 
-Запустить homebrew на Nintendo Wii можно бесплатно, используя ошибки в программном обеспечении Wii. Модификации, установленные по этому руководству, предоставят вам лёгкий и постоянный доступ к Wii homebrew.
+Running homebrew on your Nintendo Wii can be done for free by exploiting bugs in Wii's software. The modifications installed by following this guide will give you easy and persistent access to Wii homebrew.
 
-## Что я могу делать с homebrew?
+## What can I do with homebrew?
 
-Вот небольшой список того, что вы можете делать используя homebrew. Хотя этот список ни в коей мере не является всеобъемлющим, вы должны хорошо понять, что возможно, и это руководство поможет вам с легкостью начать работу.
+Here's a list of things you can do using homebrew. While this list is by no means totally comprehensive, you should have a good idea of what is possible, and the guide will help you easily get started.
 
-- Патчить содержимое диска игры (позволяет загружать модификации к игре) используя [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
-- Устанавливать темы для Wii Menu, используя [MyMenuify](themes).
-- Установить USB-загрузчик, например, [WiiFlow](wiiflow) или [USB Loader GX](usbloadergx). Это позволит запускать все ваши любимые игры с USB-накопителя и многое другое.
-- Создавать резервные копии ваших дисков с помощью [CleanRip](/dump-games), а также установленных игр и наименований с [YABDM](dump-wads)
-- Создавать резервные копии и восстанавливать ваши сохранения с помощью [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
-- Скачивать новые homebrew приложения с помощью [Homebrew Browser](hbb)
-- Восстановить онлайн сервисы, такие как [WiiConnect24](riiconnect24) и [Nintendo WFC services](wiimmfi).
-- Резервировать и восстанавливать копии памяти вашей Wii (NAND), используя [BootMi](bootmii).
-- Защитить вашу Wii от превращения в "кирпич", используя [Priiloader](priiloader) и BootMii.
-- Превратить ваш Wii в медиа плеер, вместе с [WiiMC](https://oscwii.org/library/app/wiimc-ss).
+- Patch game disc contents (allowing you to load game modifications) using [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
+- Install themes to your Wii Menu using [MyMenuify](themes).
+- Install a USB Loader like [WiiFlow](wiiflow) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
+- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](dump-wads)
+- Back up and restore your save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
+- Download new homebrew apps with the [Homebrew Browser](hbb)
+- Restore discontinued online services, such as [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
+- Backup and restore copies of your Wii system memory (NAND) using [BootMii](bootmii).
+- Protect your Wii from bricks using [Priiloader](priiloader) and BootMii.
+- Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
 
 
-## Готовы?
+## Ready?
 
-Начните с [выбора эксплойта](get-started)!
+Get started by [choosing your exploit](get-started)!
 {: .notice--info}

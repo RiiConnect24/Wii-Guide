@@ -4,92 +4,92 @@ title: "WiiFlow"
 
 {% include toc title="Table of Contents" %}
 
-Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![WiiFlow](/images/wiiflowlogo.png)
 
-Bu, USB sürücüsü veya SD Kartta bulunan oyunları Wii’de oynayabilme olanağı sağlayan WiiFlow’un nasıl kullanılacağına dair bir hızlı başlangıç rehberidir.
+This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that's used to play games from a USB drive or SD card.
 
-#### İhtiyacınız olan şeyler
+#### What you need
 
-* Wii
-* USB sürücü ve(ya) SD Kart
+* A Wii
+* A USB drive and/or SD card
 * [WiiFlow Lite](https://hbb1.oscwii.org/hbb/wiiflow/wiiflow.zip)
 
-Burayı takip etmeden önce [cIOS](/cios)‘u yüklediğinizden emin olun!
+Make sure you have installed [cIOS](/cios) before following this!
 {: .notice--info}
 
-Eğer Windows kullanıyorsanız [Wii Backup Manager](/wiibackupmanager)’ı, macOS kullanıyorsanız [Witgui](https://desairem.com/wordpress/category/witgui-download/)‘ı ya da Windows, macOS ile Linux’ta çalışabilen [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion)‘ı kullanmanızı öneririz.
+We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux.
 {: .notice--info}
 
-NKit formatında bulunan oyunları oynamak istiyorsanız önce [bu programı](https://gbatemp.net/download/nkit.36157/) kullanarak onları ISO formatına dönüştürmeniz lazım. Ayrıca Dolphin’in geliştirici yapımında, oyuna sağ tıktan “Convert File”’a tıklayarak da bu işlemi gerçekleştirebilirsiniz.
+If you want to play games that are in NKit format, use [this program](https://gbatemp.net/download/nkit.36157/) to convert them to ISO first. You can also use a development build of Dolphin, right click on a game, and use "Convert File" to convert it.
 {: .notice--info}
 
-Wii Backup Manager, Witgui ya da Wii Backup Fusion ile oyun kopyalamıyorsanız, USB sürücünüz ya da SD Kartınızda "wbfs" isimli bir klasör oluşturup oyunları oraya atın.
+If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fusion, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
 {: .notice--info}
 
-Oyunları oynamak için, Wii’niz için bir harici bellek kullanmanızı öneririz. Flaş bellekler de kullanılabilir. Ancak harici bellekler hem daha güvenilir olduğundan hem de daha fazla oyun depolayabileceğinden dolayı tavsiye edilir.
+To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
 {: .notice--info}
 
-USB Loader GX’in aksine, WiiFlow SD Kartta bulunan oyunları da çalıştırabilir.
+Unlike USB Loader GX, WiiFlow can load games of an SD card.
 {: .notice--info}
 
-USB sürücünüzün ve(ya) SD Kartınızın FAT32 ya da NTFS formatında olduğundan emin olun. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
+Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
-#### Talimatlar
+#### Instructions
 
-##### İndirme
+##### Downloading
 
-1. WiiFlow’u çıkartın ve `apps` ile `WiiFlow` klasörlerini USB sürücünüze veya SD Kartınıza ekleyin.
-2. USB sürücünüzü ve kullanıyorsanız SD Kartınızı Wii’ye takın ve WiiFlow’u Homebrew Channel üzerinden başlatın.
+1. Extract WiiFlow and put the `apps` and `WiiFlow` folders on your USB drive or SD card.
+2. Insert your USB drive, and SD card if you're using one, into your Wii and launch WiiFlow from the Homebrew Channel.
 
-##### Başlangıç
+##### Getting Started
 
-Bu WiiFlow kullanımı üzerine tam kapsamlı bir rehber değildir. Bu, sadece size kullanımı öğretmeyi amaçlayan hızlı bir başlangıçtır. WiiFlow’un bütün güzelliklerini kullanarak öğrenebileceksiniz.
+This is not a full comprehensive guide on using WiiFlow. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow by using it.
 {: .notice--info}
 
-* WiiFlow, varsayılanda sadece SD Kartta bulunan oyunları algılamaya ayarlıdır. Bunu ayarlarda bulunan “startup settings” kısmında “Mount SD Only” seçeneğini kapatarak değiştirebilirsiniz.
-* Sağdaki sondan ikinci butona basarak Wii oyunları, GameCube oyunları, Wii Kanalları, Eklentiler ve Homebrew uygulamaları arasında geçiş yapabilirsiniz.
-* Ayarlardan “Download Covers and Banner” seçeneğine basarak oyun kapaklarını yükleyebilirsiniz.
+* WiiFlow by default is set to only find games on the SD card. This can be changed by going in to settings, startup settings then turn off "Mount SD Only".
+* You can toggle between viewing Wii games, GameCube games, Wii Channels, Plugins, Homebrew apps by clicking the button second to last button on the right.
+* You can download game covers by going to "Settings" then "Download Covers and Banners"
 
-##### Kullanıcı Arayüzü
+##### User Interface
 
-WiiFlow oyunları algıladığında, onları akış görünümünde görebilirsiniz. Oyunun üzerine bastığınız zaman size şu seçenekler gösterilir:
+When WiiFlow detects games, they are displayed in flow view. When you click on a game you are given these options:
 
-* Yıldız - Oyunu favorilere ekler.
-* Kitaplık - Oyunu seçtiğiniz 6 kategoriden birine ekler.
-* Dişli - Oyuna özel ayarlar menüsünü açar. Buradaki ayarları değiştirmek sadece ayarını değiştirdiğiniz oyunu etkiler.
-* X - Oyunu USB sürücüsünden veya SD Karttan siler.
+* Star - Adds game to favorites.
+* Bookshelf - Adds the game to 1 of 6 categories of your choosing.
+* Gears - Opens the settings menu for the specific game. Changing settings here will only effect the game you changed the settings for.
+* X - Deletes the game from the USB drive or SD card
 
-Akış görünümündeyken, imleci ekranın altına getirirseniz, şu 6 simgeyi görürsünüz:
+When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
 
-* Kitaplık - Seçtiğiniz kategoriye eklenen oyunları gösterir.
-* Yıldız - Favorilere eklediğiniz oyunları gösterir.
-* Dişli - WiiFlow ayarlarını açar.
-* Oyun Türü - Birbirinden farklı türdeki oyunları/uygulamalar arasında geçiş yapar. Logo seçtiğiniz oyun türüne göre değişir.
-* Disk - Disk sürücüsündeki oyunu yükler.
-* Ev - Bu menüyü açar. Ev tuşuna basılarak da bu menü açılabilir.
+* Bookshelf - View the games that are sorted in the categories you chose.
+* Star - View games you favorited.
+* Gears - Opens WiiFlow Settings.
+* Game Type - Toggles between different types of apps/games. The logo changes depending on what game type you have selected.
+* Disc - Loads game that is in disc drive.
+* House - Will open this menu. This menu can also be launched by pressing the home button.
 
 ![WF_menu](images/WFmenu.png)
 
-* Yardım Rehberi - WiiFlow'da kullanılabilecek bütün kontrolleri gösterir.
-* Önbelleği Yenile - WiiFlow USB sürücüsü veya SD Kartta bulunan yeni eklenmiş bir oyunu algılamazsa bu tuşa basın.
-* Dosya Gezgini - USB sürücüsü veya SD Kartta bulunan herhangi bir oyunun/uygulamanın çalıştırabilmesini sağlar.
-* Eklenti Seç - Eklenti seçilebilmesini sağlar.
-* Emeği Geçenler - WiiFlow'un geliştirilmesine katkı sağlayan kişileri gösterir.
-* Kapat - Bekleme moduna geçmenizi ya da tamamen kapatmanızı sağlar.
-* Şuraya Çık - Wii Menü, HBC, neek2o, Priiloader ya da BootMii'ye çıkmanızı sağlar.
-* Ayarlar - WiiFlow Ayarlar menüsünü açar
+* Help Guide - Shows all the controls you can use in WiiFlow.
+* Reload Cache - Press this when WiiFlow is not detecting a new game on the USB drive or SD card.
+* File Explorer - Allows you to boot games/apps from anywhere on your USB drive or SD card.
+* Select Plugins - Allows you to select plugins.
+* Credits - Shows the people who worked on WiiFlow.
+* Shutdown - Allows you to either go into full shutdown, or Standby mode.
+* Exit To - Lets you exit to Wii Menu, HBC, neek2o, Priiloader and Bootmii.
+* Settings - Will open the WiiFlow Settings menu
 
-##### Gidebileceğiniz yerler
+##### Options once complete
 
-[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki, WiiFlow hakkında bilgi edinilebilecek harika bir kaynaktır.
+[WiiFloWiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFloWiki is a great resource with information about WiiFlow.
 {: .notice--info}
 
 [Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that WiiFlow Lite can integrate with. This is optional to set up.
 {: .notice--info}
 
-[Site haritasından devam edin](site-navigation)<br> Sevebileceğiniz pek çok öğreticiye daha sahibiz.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}

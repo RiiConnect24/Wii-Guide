@@ -1,31 +1,31 @@
 ---
-title: "RSSMii yükleme"
+title: "Installing RSSMii"
 ---
 
 {% include toc title="Table of Contents" %}
 
-Eğer bu öğreticiye bağlı herhangi bir yardıma ihtiyacınız olursa lütfen [RiiConnect24’ün Discord sunucusuna katılın](https://discord.gg/rc24) (tavsiye edilen) ya da [support@riiconnect24.net üzerinden mail atın](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Wii Message Board’ınıza RSS beslemesinin güncellemelerini mi almak istiyorsunuz? Bu öğretici, size RSSMii’yi nasıl kuracağınızı gösterecek.
+Do you want to get RSS feed updates on your Wii Message Board? This tutorial will tell you how to set RSSMii up.
 
 ![RSSMii](/images/rssmii.png)
 
-#### İhtiyacınız olan şeyler
+#### What you need
 
-* SD Kart
+* An SD card
 * [RSSMii](https://github.com/RiiConnect24/rssmii/releases)
 
-#### Talimatlar
-##### Bölüm I - İndirme/Yükleme
+#### Instructions
+##### Section I - Downloading/Installing
 
-1. RSSMii’yi çıkartın ve SD Kartınızdaki `apps` klasörüne koyun.
-2. SD Kartınızın kökünde `feeds.xml` adlı bir dosya oluşturmamız gerekli. Böylece uygulama hangi beslemeleri takip etmek istediğimizi anlayabilsin.
+1. Extract RSSMii and put it in the `apps` folder on your SD card.
+2. We need to create a `feeds.xml` on the root of the SD card so the app will know what feeds to subscribe you to.
 
-Eğer Windows İşletim Sistemi kullanıyorsanız, KcrPL tarafından yapılan [RSS Feeds Creator](https://github.com/RiiConnect24/rssmii/releases/download/v1.4.1/RSSFeedsCreator.bat) programını kullanabilirsiniz. Otomatik olarak `feeds.xml` dosyası oluşturulacak ve SD Kartınıza kopyalanacak!
+If you're using the Windows Operating System, you can use the [RSS Feeds Creator](https://github.com/RiiConnect24/rssmii/releases/download/v1.4.1/RSSFeedsCreator.bat) program created by KcrPL. It will automatically create a `feeds.xml` file and will copy it to your SD card!
 {: .notice--info}
 
-<b>Eğer Windows bilgisayarınız yoksa, bu şablonu kullanarak favori metin editörünüzde ‘feeds.xml’ dosyasını oluşturabileceksiniz.</b>
+<b>If you don't have a Windows computer, use this template and use your favorite text editor to make the `feeds.xml`.</b>
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -35,7 +35,7 @@ Eğer Windows İşletim Sistemi kullanıyorsanız, KcrPL tarafından yapılan [R
 </rss>
 ```
 
-“İsim” kısmına besleme için kullanmak istediğiniz şeyi girin. Çok fazla yer olmadığından, çok uzun olmadığından emin olun. Daha sonra link kısmını RSS beslemesine giden link ile değiştirin. İstediğiniz kadar besleme ekleyebilirsiniz. "CDATA" kısmını ise silmeyin.
+Replace the "name" portion with the title you want to put for the feed. Make sure it's not very long, since there's not that much space. Then, replace the link portion with the link to the RSS feed. You can put as many feeds as you want. Don't delete the "CDATA" part.
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -45,19 +45,19 @@ Eğer Windows İşletim Sistemi kullanıyorsanız, KcrPL tarafından yapılan [R
 </rss>
 ```
 
-Oluşturduğunuz beslemeyi SD Kartınızın köküne kaydedin.
-3. Homebrew Channel’dan RSSMii’yi başlatın.
-4. A’ya basarak beslemeleri takip etmek istediğinizi onaylayın. ES_GetTitleID adlı hatayı yoksayın. Herhangi bir sorun yok.
-5. Her şey tamamlandığında, HOME tuşuna basarak Homebrew Channel’a dönün. Artık Wii’nize RSS beslemesi güncellemelerini alıyor olmanız gerekir!
+Save the feed you made to the root of your SD Card.
+3. Launch RSSMii from the Homebrew Channel.
+4. Press A to confirm you want to subscribe to the feeds. Ignore the error about ES_GetTitleID, everything is fine.
+5. Once everything is done, press HOME to go back to the Homebrew Channel. You should soon get RSS feed updates on your Wii, enjoy!
 
-Besleme güncellemeleri almıyor musunuz? Haberler gibi daha sık güncelleme alan bir RSS beslemesini deneyin. Eğer RSS beslemesi sık sık güncellenmezse, siz de fazla güncelleme almazsınız.
+Not getting any feed updates? Try an RSS feed that updates more frequently, like a feed with news for example. If the RSS feed doesn't update often, then you won't get many updates.
 {: .notice--warning}
 
-Size sadece birkaç tane besleme kullanmanızı öneririz. Çünkü fazla besleme takip ederseniz, Wii’nize fazla posta gelir.
+We recommend you use just a few feeds, because if you subscribe to a lot of feeds you can get a ton of mail on your Wii.
 {: .notice--info}
 
-Eğer birkaç gün sonra güncelleme almıyorsanız, RSS beslemesini tekrardan takip etmeniz gerekebilir. RSSMii’yi Homebrew Channel’dan başlatınca size yeni abonelikler oluşturacaktır.
+If you're not receiving updates after a few days, you might need to subscribe to the RSS feeds again. Launch RSSMii from the Homebrew Channel again and it'll create brand new subscriptions.
 {: .notice--info}
 
-[RSSMii'yi kaldırmak](rssmii-remove)
+[Removing RSSMii](rssmii-remove)
 {: .notice--info}

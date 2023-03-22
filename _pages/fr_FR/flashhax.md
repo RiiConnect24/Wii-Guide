@@ -2,25 +2,25 @@
 title: "FlashHax"
 ---
 
-Si vous avez besoin d'aide pour quoi que ce soit concernant ce didacticiel, veuillez rejoindre [ le serveur RiiConnect24 Discord ](https://discord.gg/rc24) (recommandé) ou \[ envoyez-nous un e-mail à support@riiconnect24.net \](mailto: support @ riiconnect24 .net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-FlashHax est un exploit pour la Wii qui est déployé en utilisant la Chaîne Internet. A l'inverse des autres exploits, celui-ci ne nécessite pas de carte SD.
+FlashHax is an exploit for the Wii that is triggered by using the Internet Channel. Unlike other exploits, this doesn't require an SD card.
 
-#### Qu’est-ce que vous avez besoin
+#### What you need
 
-- Une Wii avec une connexion Internet
-- La Chaîne Internet
+- A Wii with an Internet connection
+- The Internet Channel
 
 #### Instructions
 
-1. Ouvrez la Chaîne Internet sur votre Wii.
-2. Allez sur flashhax.com dans la barre de recherche et mettez cette page en favori.
-3. Ouvrez le site à l’aide du favori ajouté précédemment. Le programme d'installation HackMii va se télécharger et se lancer. Cela peut prendre un peu de temps, car il est en train de télécharger l'installateur sur Internet.
+1. Open up the Internet Channel on your Wii.
+2. Go to flashhax.com in the browser and bookmark the page.
+3. Open the site from the bookmark. It'll then proceed to download and load the HackMii Installer. It may take some time as it is downloading the installer over the Internet.
 
-Si le programme d'installation HackMii ne se charge pas et se bloque (vous ne pouvez pas bouger le curseur) veuillez redémarrer votre Wii et répéter l'étape 3 jusqu’à ce que ça fonctionne. Il se peut que cela nécessite plusieurs essais, soyez persévérant!
+If the HackMii Installer doesn't load and it instead freezes (you can't move your cursor), please restart your Wii and repeat step 3 until it works. It might take multiple tries, be persistent!
 
-Si vous ne parvenez toujours pas à le charger, essayez de supprimer vos cookies ou d'enregistrer des données pour la Chaîne Internet.
+If you still can't get it to load, try deleting your cookies or save data for the Internet Channel.
 
-[Continuer vers l'installation du Homebrew Channel et de BootMii](hbc)
+[Continue to Homebrew Channel and BootMii Installation](hbc)
 {: .notice--info}

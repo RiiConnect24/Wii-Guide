@@ -2,7 +2,7 @@
 title: RiiConnect24 vWii Guide
 ---
 
-{% include toc title="Innholdsfortegnelse" %}
+{% include toc title="Table of Contents" %}
 
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
@@ -22,6 +22,9 @@ This guide is for vWii (Wii Mode on Wii U) only.
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
+
+It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
+{: .notice--warning}
 
 DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
@@ -49,7 +52,7 @@ After following the above linked guide, you should have:
 * IOS80 patched
 {: .notice--info}
 
-#### Instruksjoner
+#### Instructions
 
 ##### Section I - Running the patcher
 

@@ -6,9 +6,9 @@ title: "RiiConnect24 for Dolphin"
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
-Este guia irá te ajudar a instalar RiiConnect24 na tua instalação do Dolphin.
+This guide will help you install RiiConnect24 on your Dolphin installation.
 
-Se precisares de ajuda para algo relacionado a este tutorial, por favor contacta diretamente KcrPL#4625 no Discord, junta-te ao [RiiConnect24 Discord Server](https://discord.gg/rc24) ou [manda-nos um email para support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please directly contact KcrPL#4625 on Discord, join the [RiiConnect24 Discord Server](https://discord.gg/rc24) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 {% capture notice-1 %}
@@ -23,15 +23,15 @@ This guide is for [Dolphin Emulator](https://dolphin-emu.org) only.
 DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
-### O que precisas
+### What you need
 
 * A computer with either Windows 10 or newer or any Unix-based system
 * [Dolphin](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-#### Instruções
+#### Instructions
 
-##### Secção I - Instalação do Dolphin
+##### Section I - Installing Dolphin
 
 If you have Dolphin already installed, skip to Section II
 {: .notice--info}
@@ -52,7 +52,7 @@ If you use a Windows version before Windows 10, you unfortunately cannot use Wii
 1. Click the link above to go to the GitHub page where the patcher is.
 2. Download `RiiConnect24Patcher.bat` if you are on Windows, and `RiiConnect24Patcher.sh` if you are on a Unix system
 3. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open Terminal and type `bash`, then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this: `bash RiiConnect24Patcher.sh`.
-4. Pressiona 1 para escolher "`Start`" e confirma a tua seleção pressionando `ENTER`. (NOTE: These screenshots are from the Windows version of the patcher.)
+4. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`. (NOTE: These screenshots are from the Windows version of the patcher.)
 5. For this guide, choose "`Install RiiConnect24 on your Dolphin Emulator`" ![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
 6. Choose "`Express (Recommended)`". It will give you everything you need. ![Express Settings](/images/RC24_Patcher/4.JPG)
 7. Select your region. ![Select your region](/images/RC24_Patcher/5.JPG)

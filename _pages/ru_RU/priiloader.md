@@ -4,7 +4,7 @@ title: "Priiloader"
 
 {% include toc title="Table of Contents" %}
 
-Если вам нужна помощь относительно этого руководства, пожалуйста присоединитесь [к дискорд-серверу RiiConnect24](https://discord.gg/rc24) (рекомендовано), или [напишите нам по адресу support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Priiloader adds a level of brick protection to your Wii. It loads before the Wii Menu does (hence the name). The tool can also enable hacks for your Wii Menu, and be used to quickly launch the Homebrew Channel, BootMii, or whatever homebrew you want!
@@ -14,14 +14,14 @@ Priiloader adds a level of brick protection to your Wii. It loads before the Wii
 Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your vWii by doing this.
 {: .notice--warning}
 
-#### Что вам понадобится
+#### What you need
 
-- SD карта или USB флешка/жёсткий диск
+- An SD card or USB drive
 - [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
-#### Инструкции
+#### Instructions
 
-##### Шаг I - Скачивание/Установка
+##### Section I - Downloading/Installing
 
 1. Download the Priiloader installer and extract it to the root of your SD card or USB drive.
 

@@ -1,5 +1,5 @@
 ---
-title: "Ξεκινώντας"
+title: "Get Started"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -22,16 +22,16 @@ If your Wii Menu is not on version 4.3, use str2hax or FlashHax to install the H
 This guide is for the original Wii and Wii mini only (including the Wii Family Edition). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
 {: .notice--warning}
 
-### Επιλέξτε ποιά ευπάθεια θα χρησιμοποιείσετε
+### Choose an exploit to use
 
 These exploits are sorted by easiest to hardest difficulty of use.
 
-- [str2hax](str2hax) - Ευπάθεια που χρησιμοποιεί το EULA του Wii
+- [str2hax](str2hax) - Exploit that uses the Wii EULA
     * Requires an Internet connection and changing the DNS server
-- [LetterBomb](letterbomb) - Ευπάθεια που χρησιμοποιούμε μέσω του Πίνακα Μηνυμάτων του Wii
+- [LetterBomb](letterbomb) - Exploit that uses the Wii Message Board
     * Requires an SD card
-- [FlashHax](flashhax) - Ευπάθεια που χρησιμοποιούμε μέσω του Καναλιού Internet
+- [FlashHax](flashhax) - Exploit that uses the Internet Channel
     * Requires the Internet Channel installed, and an Internet connection
-- [BlueBomb](bluebomb) - Ευπάθεια που χρησιμοποίει Bluetooth
+- [BlueBomb](bluebomb) - Exploit that uses Bluetooth
     * Requires a computer with Bluetooth and GNU/Linux, as well as a USB storage device
-    * Αυτή είναι η μόνη ευπάθεια που μπορούμε να χρησιμοποιήσουμε στο **Wii mini**
+    * This is the only exploit that works on the **Wii mini**

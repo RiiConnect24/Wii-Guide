@@ -5,7 +5,7 @@ title: "RiiConnect24 DNS Update"
 If you need help with anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![RiiConnect24 로고](/images/logo_blue_warning.png)
+![RiiConnect24 Logo](/images/logo_blue_warning.png)
 
 Our official DNS Address has been updated. We require all users to change it. Failure in doing so will result in losing access to most or every RiiConnect24 service.
 
@@ -15,18 +15,18 @@ We've restricted access to Forecast Channel and News Channel for users still usi
 
 To update your entered DNS Address please follow these steps:
 
-1. `Wii 옵션`으로 이동합니다.
-2. `Wii 본체 설정`으로 이동합니다.
-3. `페이지 2`로 이동하고, `인터넷`을 클릭하세요.
+1. Go to `Wii Options`.
+2. Go to `Wii Settings`.
+3. Go to `Page 2`, then click on `Internet`.
 4. Go to `Connection Settings`
 5. Select your current connection
 6. Go to `Change Settings`
-7. `DNS 자동 연결` (IP 주소가 아님) 으로 이동해서 `끄기`를 선택하고, `고급 설정`으로 들어갑니다.
+7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`.
 8. Type in `167.86.108.126` as the primary DNS
 9. Type in `1.1.1.1` as the secondary DNS
 10. Select `Confirm`, then select `Save`
 11. Select `OK` to perform a connection
-12. 연결 테스트가 성공했다면, Wii 업데이트를 `아니요`를 눌러 건너뜁니다.
+12. If the connection test was successful, select `No` to skip the Wii System Update.
 
 The old DNS Server will stop working on `June 1st, 2023`.
 {: .notice--warning}

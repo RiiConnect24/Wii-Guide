@@ -12,11 +12,11 @@ Note that if your ISP or networking environment prevents using custom DNS server
 
 str2hax is an exploit for the Wii that is triggered by loading the Wii's End User License Agreement. It requires nothing but an Internet connection that lets you change the DNS on your Wii.
 
-#### Τι χρειάζεστε
+#### What you need
 
-* Ένα Wii με σύνδεση στο διαδίκτυο
+* A Wii with an Internet connection
 
-#### Οδηγίες
+#### Instructions
 
 ##### Section I - Connecting
 
@@ -45,5 +45,5 @@ If the HackMii Installer doesn't load and it instead freezes (you can't move you
 
 If you have installed a mod like CTGP Revolution or Project+, str2hax may load that instead. If it does, restart your Wii and try again without your SD card inserted.
 
-[Συνέχεια στην εγκατάσταση του καναλιού Homebrew και του BootMii](hbc)
+[Continue to Homebrew Channel and BootMii Installation](hbc)
 {: .notice--info}

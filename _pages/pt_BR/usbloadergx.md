@@ -4,17 +4,17 @@ title: "USB Loader GX"
 
 {% include toc title="Table of Contents" %}
 
-Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 This is a quick start guide on how to use USB Loader GX, a popular USB loader for the Wii that's used to play games from a USB drive.
 
 ![USB Loader GX](/images/usbloadergx.png)
 
-#### Você precisará de
+#### What you need
 
-* Um Wii
-* Unidade USB / Pendrive
+* A Wii
+* A USB drive
 * [USB Loader GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
 
 Make sure you have installed [cIOS](/cios) before following this!
@@ -35,7 +35,7 @@ To play games, we recommend using an external hard drive for your Wii. Flash dri
 Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
-#### Instruções
+#### Instructions
 
 ##### Downloading
 
@@ -56,37 +56,37 @@ There is no "guide" to use the USB Loader GX app. This is intended to help you l
 
 There are multiple buttons in the USB Loader GX interface.
 
-###### Menu Principal
+###### Main Menu
 
 These are the functions the buttons found on the top of the main menu do, from left to right:
 
 * Star - Shows games that you have marked as "favorites".
 * Search - Lets you search for games by name.
 * Sort - Cycles through sorting methods for games.
-* Plataforma - Escolhe organizar jogos por plataforma.
-* Categoria - Classifica jogos por categoria.
-* Lista - Mostra os jogos na visualização de lista.
-* Visualização de capa múltipla - Mostra jogos em um modo de exibição de várias capas.
-* Visualização de carrossel de capa - Mostra os jogos na vista de carrossel.
-* Exibição de Menu do Wii - Mostrar jogos na visualização do Menu do Wii.
-* Controle Parental - bloqueia o USB Loader GX.
-* Disco - Carrega um jogo via disco.
+* Platform - Choose to sort games by platform.
+* Category - Sorts games by category.
+* List - Shows games in a list view.
+* Multi-Cover View - Shows games in a multi-cover view.
+* Cover Carousel View - Shows games in a carousel view.
+* Wii Menu View - Shows games in a Wii Menu view.
+* Parental Control - Locks USB Loader GX.
+* Disc - Loads a game via disc.
 
-Pressionar qualquer jogo permitirá que você jogue pressionando "Iniciar".
+Pressing any game will allow you to play the game by pressing "Start".
 
-Existem também outros botões:
+There are also other buttons:
 
-* Ícone (+) - "Instalar" um jogo, ou seja, carregá-lo do disco e descarregá-lo.
-* Engrenagens - Configurações para o USB Loader GX.
-* Cartão SD - Reconectar o cartão SD.
-* Homebrew - Carregar aplicativos do homebrew.
-* Wii - Inicie o Menu HOME, que também pode ser acessado pressionando o botão HOME no controle do Wii.
-* Botão POWER - desliga seu Wii.
+* (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
+* Gears - Settings for USB Loader GX.
+* SD card - Remount the SD card.
+* Homebrew - Load homebrew apps.
+* Wii - Open up the HOME Menu, which can also be accessed by pressing the HOME Button on the Wii Remote.
+* Power Button - Turn off your Wii.
 
-No meio da parte inferior da tela, você pode ver quanto espaço livre tem no seu dispositivo USB e quantos jogos você tem.
+On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
 
 [Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that USB Loader GX can integrate with. This is optional to set up.
 {: .notice--info}
 
-[Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}

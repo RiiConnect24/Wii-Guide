@@ -2,91 +2,91 @@
 title: "USB Loader GX"
 ---
 
-{% include toc title="Zawartość" %}
+{% include toc title="Table of Contents" %}
 
-Jeżeli potrzebujesz pomocy z czymkolwiek dotyczącym tego poradnika, dołącz do [serwera RiiConnect24 na Discordzie (wsparcie dostępne po Polsku!)](https://discord.gg/rc24) lub napisz do nas na [support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-To jest poradnik dotyczący USB Loader'a GX, popularnego loadera USB, który pozwala Ci na granie w gry z Twojego urządzenia USB (Dysk twardy, pendrive).
+This is a quick start guide on how to use USB Loader GX, a popular USB loader for the Wii that's used to play games from a USB drive.
 
 ![USB Loader GX](/images/usbloadergx.png)
 
-#### Będziesz potrzebował
+#### What you need
 
-* Konsola Wii
-* Dysk USB / Pendrive
+* A Wii
+* A USB drive
 * [USB Loader GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
 
-Upewnij się, że zainstalowałeś [cIOS](/cios) przed skorzystaniem z USB Loader'a GX.
+Make sure you have installed [cIOS](/cios) before following this!
 {: .notice--info}
 
-Rekomendujemy instalację gier korzystając z [Wii Backup Manager](/wiibackupmanager) jeżeli korzystasz z Windowsa oraz [Witgui](https://desairem.com/wordpress/category/witgui-download/) jeżeli z macOS lub [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) jeśli korzystasz z Windowsa, macOS i Linuxa.
+We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux.
 {: .notice--info}
 
-Jeśli chcesz grać w gry w formacie NKit, użyj [tego programu](https://gbatemp.net/download/nkit.36157/), aby najpierw przekonwertować je do ISO. Możesz również użyć deweloperskiej wersji Dolphin'a, kliknij prawym przyciskiem myszy na grę i użyj "Konwertuj plik", aby ją przekonwertować.
+If you want to play games that are in NKit format, use [this program](https://gbatemp.net/download/nkit.36157/) to convert them to ISO first. You can also use a development build of Dolphin, right click on a game, and use "Convert File" to convert it.
 {: .notice--info}
 
-Jeśli nie instalujesz gier korzystając z Wii Backup Manager lub Witgui, stwórz folder w głównym folderze Twojego dysku USB lub karty SD o nazwie "wbfs" i skopiuj tam gry.
+If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fusion, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
 {: .notice--info}
 
-Aby grać w gry, zalecamy użycie dysku twardego zewnętrznego na USB. Napęd płomienia również powinien być użyteczny, ale zalecane są zewnętrzne dyski twarde, ponieważ są bardziej niezawodne i mogą przechowywać więcej gier.
+To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
 {: .notice--info}
 
-Upewnij sie, że Twoje urządzenie USB jest sformatowane jako FAT32 lub NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
+Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
-#### Instrukcje
+#### Instructions
 
-##### Pobieranie
+##### Downloading
 
-1. Wypakuj USB Loader GX oraz skopiuj go do folderu `apps` na Twojej karcie SD lub urządzeniu USB.
-2. Włóż Twoje urządzenie USB lub kartę SD do Twojej Wii oraz uruchom USB Loader GX korzystając z Homebrew Channel.
+1. Extract USB Loader GX and put it in the `apps` folder on your USB drive or SD card.
+2. Insert your USB drive, and SD card if you're using one, into your Wii and launch USB Loader GX from the Homebrew Channel.
 
-##### Wprowadzenie
+##### Getting Started
 
-Nie ma "poradnika" dotyczący tego jak korzystać z USB Loader GX. Poniższe informacje mają na celu nauczyć cię jak korzystać z interfejsu, aby zapewnić Ci szybki start. Powinieneś się dowiedzieć jak korzystać ze wszystkich funkcji USB Loader'a GX poprzez korzystanie z niego.
+There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
 {: .notice--info}
 
-* Jeżeli po uruchomieniu USB Loader'a GX na ekranie wyświetla się "Waiting for HDD..." z 20 sekundowym odlicznikiem czasu, prawdopodobnie USB Loader GX nie był w stanie znaleźć Twojego urządzenia USB. Spróbuj uruchomić program ponownie oraz włożyć urządzenie USB do innego portu w Twojej Wii.
-* Możesz nacisnąć `1` na Twoim kontrolerze aby otworzyć okno pobierania okładek gier ze strony [GameTDB](https://gametdb.com/). W zależności od tego ile masz gier, pobieranie okładek może chwile zająć.
-* Istnieją pliki WAD, które są skrótami do USB Loader'a GX, które możesz otworzyć bezpośrednio z Wii Menu. Są one nazwane "forwarder WAD". Oficjalny forwarder możesz znaleźć (tutaj)[http://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad], wersje dla vWii (Wii U) znajdziesz (tutaj)[http://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad.
-* Gry z GameCube lub gry homebrew na Wii mogą nie mieć niestandardowego banneru z którego korzysta USB Loader GX. Aby włączyć tą funkcję, znajdź lub wpisz `CustomBannersURL = http://banner.rc24.xyz/` do pliku `config/GXGlobal.cfg` na Twoim urządzeniu USB. Po zrobieniu tego, możesz zacząć korzystać z "Custom Bannerów", które możesz pobrać naciskając `1` na Twoim kontrolerze.
+* If USB Loader GX says "Waiting for HDD..." with a 20 seconds countdown, it's likely that it can't find the USB drive. Try to exit out of the app, and then relaunch it after you put the USB drive in the other port of the Wii.
+* You can press the 1 Button on your Wii Remote to open up a dialog to download game covers and artwork from [GameTDB](https://gametdb.com/). It might take a while to download the game covers and artwork, depending on how many games you have.
+* There are WADs that can open up USB Loader GX if you load it from the Wii Menu. This is called a forwarder WAD. An official forwarder WAD can be found [here](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), and a version for the vWii (Wii U) can be found [here](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad).
+* GameCube or "custom" Wii games may or may not have a custom banner that USB Loader GX uses. To enable this, find or write `CustomBannersURL = http://banner.rc24.xyz/` in config/GXGlobal.cfg on your USB drive. Then you can use the "Custom Banner" download by pressing the 1 Button on your Wii Remote.
 
-##### Interfejs graficzny
+##### User Interface
 
-Na interfejsie USB Loader'a GX znajdziesz wiele przycisków.
+There are multiple buttons in the USB Loader GX interface.
 
-###### Menu główne
+###### Main Menu
 
-Poniżej opisane są funkcje przycisków, które możesz znaleźć na samej górze interfejsu w kolejności od lewej do prawej:
+These are the functions the buttons found on the top of the main menu do, from left to right:
 
-* Ulubione - Pokazuje gry, które oznaczyłeś jako ulubione.
-* Wyszukaj - Pozwala Ci wyszukać gry po ich nazwie.
-* Sortuj - Zmienia metody sortowania gier.
-* Platforma - Sortuje gry według platformy.
-* Kategoria - Sortuje gry według ich kategorii.
-* Lista - Pokazuje gry w układzie listy.
-* Widok wielu okładek - Pokazuje kilka okładek na ekranie.
-* Karuzela - Pokazuje gry w stylu karuzeli.
-* Widok Wii Menu - Pokazuje gry według stylu Wii Menu.
-* Kontrola rodzicielska - Zablokowuje ustawienia USB Loader GX za hasłem.
-* Płyta - Pozwala Ci uruchomić grę z płyty.
+* Star - Shows games that you have marked as "favorites".
+* Search - Lets you search for games by name.
+* Sort - Cycles through sorting methods for games.
+* Platform - Choose to sort games by platform.
+* Category - Sorts games by category.
+* List - Shows games in a list view.
+* Multi-Cover View - Shows games in a multi-cover view.
+* Cover Carousel View - Shows games in a carousel view.
+* Wii Menu View - Shows games in a Wii Menu view.
+* Parental Control - Locks USB Loader GX.
+* Disc - Loads a game via disc.
 
-Aby uruchomić grę, naciśnij na okładkę/wpis oraz naciśnij na "Start".
+Pressing any game will allow you to play the game by pressing "Start".
 
-Istnieją również inne przyciski na interfejsie:
+There are also other buttons:
 
-* (+) Ikona - "Zainstaluj" grę, tzn. stworzenie jej kopii zapasowej.
-* Koło zębate - Ustawienia USB Loader'a GX.
-* Karta SD - wymontuj oraz zamontuj kartę SD.
-* Homebrew - Załaduj listę aplikacji homebrew.
-* Wii - Otwiera menu HOME, które możesz również przywołać poprzez naciśnięcie przycisku HOME na Twoim kontrolerze.
-* Przycisk zasilania - Wyłącz Twoje Wii.
+* (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
+* Gears - Settings for USB Loader GX.
+* SD card - Remount the SD card.
+* Homebrew - Load homebrew apps.
+* Wii - Open up the HOME Menu, which can also be accessed by pressing the HOME Button on the Wii Remote.
+* Power Button - Turn off your Wii.
 
-Po środku na dole ekranu, możesz zobaczyć ile miejsca jest wolnego na Twoim urządzeniu USB i ile gier jest zainstalowanych.
+On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
 
 [Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that USB Loader GX can integrate with. This is optional to set up.
 {: .notice--info}
 
-[Przejdź do spisu stron](site-navigation)<br> Mamy wiele innych poradników, które mogą Ci się przydać.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}

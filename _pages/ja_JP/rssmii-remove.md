@@ -1,24 +1,24 @@
 ---
-title: "RSSMiiを削除する"
+title: "Removing RSSMii"
 ---
 
-このガイドに関して何か困ったことがあれば、[RiiConnect24のDiscordサーバー](https://discord.gg/rc24)で相談する（推奨）か[サポートにメール](mailto:support@riiconnect24.net)してください。
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-メールが多すぎるなどの理由でRSSMiiをもう使いたくない場合、次のように削除することができます。
+If you no longer wish to use RSSMii (maybe because it gives you too much Wii Mail), here's how to remove it.
 
-![RSSMiiを削除する](/images/rssmii-remove.png)
+![Removing RSSMii](/images/rssmii-remove.png)
 
-#### 必要なもの
+#### What you need
 
-* SDカード
+* An SD card
 * [RSSMii Remover](https://github.com/RiiConnect24/rssmii/releases)
 
-#### 手順
+#### Instructions
 
-1. RSSMii Removerのアーカイブを展開し、SDカードの`apps`フォルダに入れます。
-2. SDカードのルートにある`feeds.xml`ファイルを削除します。
-3. Homebrew ChannelからRSSMii Removerを起動します。 RSSフィードの購読が削除されます。
+1. Extract RSSMii Remover and put it in the `apps` folder on your SD card.
+2. Delete the `feeds.xml` file on the root of your SD card.
+3. Launch RSSMii Remover from the Homebrew Channel. It will remove your subscriptions to the RSS feeds.
 
-もし気が変わって元に戻したくなったら、いつでも[RSSMiiを再インストールできます](rssmii)。
+In case you would like to revert your decision, you can always [reinstall RSSMii](rssmii).
 {: .notice--info}

@@ -9,87 +9,87 @@ title: "WiiFlow"
 
 ![WiiFlow](/images/wiiflowlogo.png)
 
-WiiFlow的快速入门，Wii从U盘或SD卡玩游戏的USB Loader。
+This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that's used to play games from a USB drive or SD card.
 
 #### 你需要的是
 
-* 一台Wii
-* U盘 和/或 SD卡
+* A Wii
+* A USB drive and/or SD card
 * [WiiFlow Lite](https://hbb1.oscwii.org/hbb/wiiflow/wiiflow.zip)
 
-继续前确保已安装[cIOS](/cios)!
+Make sure you have installed [cIOS](/cios) before following this!
 {: .notice--info}
 
-如果使用Windows，推荐使用[Wii Backup Manager](/wiibackupmanager) 如果使用Mac，推荐使用[Witgui](https://desairem.com/wordpress/category/witgui-download/) 或者使用适用于Windows、macOS和Linux的 [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion)来复制游戏。
+We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux.
 {: .notice--info}
 
-如果想玩NKit游戏，请使用[此程序](https://gbatemp.net/download/nkit.36157/) 转换为ISO。 您也可以用开发版本的Dolphin，右键游戏，使用"转换文件"来转换。
+If you want to play games that are in NKit format, use [this program](https://gbatemp.net/download/nkit.36157/) to convert them to ISO first. You can also use a development build of Dolphin, right click on a game, and use "Convert File" to convert it.
 {: .notice--info}
 
-如果您不使用Wii Backup Manager、Witgui或Wii Backup Fusion，在SD卡或U盘根目录创建名为"wbfs"的文件夹，将游戏放进去。
+If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fusion, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
 {: .notice--info}
 
-我们推荐用USB硬盘连接Wii玩游戏。 U盘也可以工作但建议使用USB硬盘，因为它们更可靠，也可以存储更多游戏。
+To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
 {: .notice--info}
 
-不像USB Loader GX，WiiFlow可以从SD卡加载游戏。
+Unlike USB Loader GX, WiiFlow can load games of an SD card.
 {: .notice--info}
 
-确保U盘格式化为FAT32或NTFS。 不要格式化为exFAT、extFS或WBFS，后者是存储Wii游戏的旧格式。
+Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
 #### 步骤
 
-##### 下载
+##### Downloading
 
-1. 将WiiFlow的`apps` 和 `WiiFlow`文件夹解压到SD卡或U盘。
-2. 将SD卡或U盘插入Wii并从Homebrew Channel启动Wii Flow。
+1. Extract WiiFlow and put the `apps` and `WiiFlow` folders on your USB drive or SD card.
+2. Insert your USB drive, and SD card if you're using one, into your Wii and launch WiiFlow from the Homebrew Channel.
 
-##### 开始使用
+##### Getting Started
 
-这不是WiiFlow的完整指南。 这是如何使用的快速入门。 您应该能使用Wii Flow的所有优秀功能。
+This is not a full comprehensive guide on using WiiFlow. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow by using it.
 {: .notice--info}
 
-* WiiFlow默认从SD卡寻找游戏。 这可以在设置中更改，打开设置并关闭"Mount SD Only"。
-* 您可以通过点击右侧的第二到最后一个按钮切换Wii游戏、GameCube游戏、Wii频道、插件和自制软件。
-* 您可以通过转到"设置"-"Download Covers and Banners"下载游戏封面。
+* WiiFlow by default is set to only find games on the SD card. This can be changed by going in to settings, startup settings then turn off "Mount SD Only".
+* You can toggle between viewing Wii games, GameCube games, Wii Channels, Plugins, Homebrew apps by clicking the button second to last button on the right.
+* You can download game covers by going to "Settings" then "Download Covers and Banners"
 
-##### 用户界面
+##### User Interface
 
-当WiiFlow检测到游戏，它们将以flow视图显示。 当您点击游戏，您可以获得选项:
+When WiiFlow detects games, they are displayed in flow view. When you click on a game you are given these options:
 
-* 收藏 - 添加游戏到收藏夹。
-* 书架 - 将游戏添加到您选择的6个类别中的1个。
-* 齿轮 - 打开特定游戏的设置。 在此处更改设置只会影响您更改设置的游戏。
-* X - 从SD卡或U盘删除游戏
+* Star - Adds game to favorites.
+* Bookshelf - Adds the game to 1 of 6 categories of your choosing.
+* Gears - Opens the settings menu for the specific game. Changing settings here will only effect the game you changed the settings for.
+* X - Deletes the game from the USB drive or SD card
 
-当您在flow视图中将光标移到底部时，有6个图标:
+When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
 
-* 书架 - 查看您选择的分类中排序的游戏。
-* 收藏 - 查看您收藏的游戏。
-* 齿轮 - 打开WiiFlow设置。
-* 游戏类型 - 在不同类型的应用/游戏之间切换。 Logo根据您选择的游戏切换。
-* 光盘 - 通过光驱加载游戏。
-* 房子 - 将打开下图的菜单。 此菜单也可以通过home按钮启动。
+* Bookshelf - View the games that are sorted in the categories you chose.
+* Star - View games you favorited.
+* Gears - Opens WiiFlow Settings.
+* Game Type - Toggles between different types of apps/games. The logo changes depending on what game type you have selected.
+* Disc - Loads game that is in disc drive.
+* House - Will open this menu. This menu can also be launched by pressing the home button.
 
 ![WF_menu](images/WFmenu.png)
 
-* Help Guide - 显示您可以在WiiFlow中使用的所有控件。
-* Reload Cache - 当WiiFlow未检测到U盘或SD卡上的新游戏，按此按钮。
-* File Explorer - 允许您从U盘或SD卡上的任何地方启动游戏/应用。
-* Select Plugins - 允许您选择插件。
-* Credits - 显示为WiiFlow贡献过的人。
-* Shutdown - 允许你完全关机或待机。
-* Exit To - 让您退出到Wii菜单、HBC、neek2o、Priiloader和BootMii。
-* Settings - 将打开WiiFlow设置。
+* Help Guide - Shows all the controls you can use in WiiFlow.
+* Reload Cache - Press this when WiiFlow is not detecting a new game on the USB drive or SD card.
+* File Explorer - Allows you to boot games/apps from anywhere on your USB drive or SD card.
+* Select Plugins - Allows you to select plugins.
+* Credits - Shows the people who worked on WiiFlow.
+* Shutdown - Allows you to either go into full shutdown, or Standby mode.
+* Exit To - Lets you exit to Wii Menu, HBC, neek2o, Priiloader and Bootmii.
+* Settings - Will open the WiiFlow Settings menu
 
-##### 一旦完成设置
+##### Options once complete
 
-[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki is a great resource with information about WiiFlow.
+[WiiFloWiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFloWiki is a great resource with information about WiiFlow.
 {: .notice--info}
 
 [Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that WiiFlow Lite can integrate with. This is optional to set up.
 {: .notice--info}
 
-[继续 网站导览](site-navigation) 我们有许多你可能喜欢的其他教程。
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}

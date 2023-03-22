@@ -1,16 +1,16 @@
 ---
 main:
   - 
-    title: Wiiガイド
+    title: Wii Guide
     url: /
   - 
-    title: はじめる
+    title: Start Here
     url: get-started
   - 
-    title: サイトマップ
+    title: Site Navigation
     url: site-navigation
   - 
-    title: よくある質問
+    title: FAQ
     url: faq
   - 
     title: RiiConnect24
@@ -20,35 +20,35 @@ main:
     url: wiimmfi
 top:
   - 
-    title: サイドバーに現在のガイドの進捗を表示したり、サイトの質を高めるために、このウェブサイトはクッキーを使用します。
+    title: This website uses cookies to display the current guide progress on the sidebar and otherwise enhance the site.
 bottom:
   - 
-    title: 英語でのサポートは、<a href="https://discord.gg/ZdqEhed">DiscordのReSwitched Server</a>にお問い合わせください。
+    title: For support in English, ask for help at <a href="https://discord.gg/b4Y7jfD">RiiConnect24 on Discord</a>.
 footer:
   - 
-    title: ソース
+    title: Source
     url: https://github.com/RiiConnect24/Wii-Guide/
   - 
-    title: サイトマップ
+    title: Site Navigation
     url: site-navigation
   - 
-    title: 寄付
+    title: Donations
     url: donations
 sidebar_title:
   - 
-    title: '全体の進捗:'
+    title: Overall Progress
 sidebar_pages:
   - 
-    title: Wiiガイド
+    title: Wii Guide
     url: /
   - 
-    title: よくある質問
+    title: FAQ
     url: faq
   - 
-    title: 寄付
+    title: Donations
     url: donations
   - 
-    title: クレジット
+    title: Credits
     url: credits
   - 
     title: RiiConnect24

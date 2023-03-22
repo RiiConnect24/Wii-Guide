@@ -2,16 +2,16 @@
 title: "Homebrew Channel and BootMii Installation"
 ---
 
-{% include toc title="Continguts" %}
+{% include toc title="Table of Contents" %}
 
-Si necessites ajuda amb qualsevol cosa relacionada amb aquesta guia, uneix-te al [servidor de Discord de RiiConnect24](https://discord.gg/rc24) (recomanat) o [envia un correu electrònic a support@riiconnect24.net](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![HBC Logo](/images/hbc.png)
 
 The Homebrew Channel is where you will go to launch homebrew applications. BootMii is a piece of software that can backup and restore your Wii's NAND storage, and if installed in boot2, provides brick protection.
 
-#### Instruccions
+#### Instructions
 
 1. You will see a scam warning screen. Wait 30 seconds for the text "Press 1 to continue" to appear, then press 1. ![Scam Screen](/images/Wii/ScamScreen.png)
 
@@ -42,11 +42,11 @@ Here's a tip - when installing homebrew applications on your SD Card or USB driv
 
 `AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
 
-┃ ┣ 📂 AppName1
-┃ ┃ ┣ 📄 boot.dol / boot.elf
+[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
+{: .notice--info}
 
 If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
-┃ ┃ ┗ 📄 meta.xml
+{: .notice--info}
 
-┃ ┗ 📂AppName2
-┃ ┃ ┣ 📄 boot.dol / boot.elf
+Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
+{: .notice--info}

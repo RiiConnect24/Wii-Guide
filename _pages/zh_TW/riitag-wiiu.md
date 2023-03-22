@@ -2,36 +2,36 @@
 title: RiiTag on Wii U
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="條目內容" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+如果您需要有關本手冊的任何幫助，請加入 [RiiConnect24 的 Discord 伺服器](https://discord.gg/rc24)（推薦）或 [發送電子郵件至 support@riiiconnect24.net](mailto:support@riiiconnect24.net)。
 {: .notice--info}
 
-RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You launch a plugin on your Wii U console, and the tag updates on-the-fly. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You launch a plugin on your Wii U console, and the tag updates on-the-fly.
+RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You launch a plugin on your Wii U console, and the tag updates on-the-fly.
 
 #### What you need
 
 - A device capable of interacting with SD cards
 - Softmodded Wii U console
-   - If you have not softmodded your Wii U yet, [please do so](https://wiiu.hacks.guide). You cannot proceed without. You cannot proceed without. You cannot proceed without.
+   - If you have not softmodded your Wii U yet, [please do so](https://wiiu.hacks.guide). You cannot proceed without.
 - A Discord account
 - The latest release of [Wii U Plugin Loader](https://github.com/Maschell/WiiUPluginLoader/releases)
 - The latest release of [UTag plugin](https://github.com/RiiConnect24/UTag/releases)
 - The latest release of [Flump's Coldboot Haxchi Mod](https://www.dropbox.com/sh/gxkf72jia1adpyg/AACPMfGU2AyWUZmhU2awjSsca/Haxchi-CBHC%20Flump%20Mod.zip?dl=1)
-   - This Coldboot Haxchi mod is used in Section IV. This Coldboot Haxchi mod is used in Section IV. This Coldboot Haxchi mod is used in Section IV. You do not need to download it if you can't use Coldboot Haxchi, or you do not want Wii U Plugin Loader loading on startup.
+   - This Coldboot Haxchi mod is used in Section IV. You do not need to download it if you can't use Coldboot Haxchi, or you do not want Wii U Plugin Loader loading on startup.
 
-#### Instructions
+#### 操作說明
 
 ##### Section I - Website instructions
 
 1. Go to the [RiiTag website](https://tag.rc24.xyz/).
 2. Click `Log In` and log in with your Discord account.
-3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Click `Authorize`. Click `Authorize`. Click `Authorize`.
-4. Click `Edit Your Tag` and customize it to how you like. Click `Edit Your Tag` and customize it to how you like. Click `Edit Your Tag` and customize it to how you like. You can add a background, overlay, flag, nickname, Wii Number, and manually enter in games to show on your tag (not needed if you're using a USB Loader).
-5. Click `Show Key` and make note of the key shown. This will be used later on in this guide. This will be used later on in this guide. This will be used later on in this guide.
+3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Click `Authorize`.
+4. Click `Edit Your Tag` and customize it to how you like. You can add a background, overlay, flag, nickname, Wii Number, and manually enter in games to show on your tag (not needed if you're using a USB Loader).
+5. Click `Show Key` and make note of the key shown. This will be used later on in this guide.
 6. Click `Submit` to save your changes.
 
-Do not share your RiiTag key with anyone! If you do, people can abuse your tag. If you do, people can abuse your tag. If you do, people can abuse your tag.
+Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
 {: .notice--warning}
 
 ##### Section II - Setting things up on the SD card
@@ -48,7 +48,7 @@ Do not share your RiiTag key with anyone! If you do, people can abuse your tag. 
 
 1. Using your preferred method (browser exploit, Haxchi, Homebrew Launcher application, etc.), launch the **Homebrew Launcher** on your Wii U console.
 2. Navigate to, and launch the homebrew application titled `Wii U Plugin Loader`.
-3. You should be greeted with a menu, including a toggle for `UTag`. You should be greeted with a menu, including a toggle for `UTag`. Enable `UTag`, and then press + on the Wii U GamePad. You should now be kicked back to the Wii U Menu. You should be greeted with a menu, including a toggle for `UTag`. You should be greeted with a menu, including a toggle for `UTag`. Enable `UTag`, and then press + on the Wii U GamePad. You should now be kicked back to the Wii U Menu. You should now be kicked back to the Wii U Menu.
+3. You should be greeted with a menu, including a toggle for `UTag`. Enable `UTag`, and then press + on the Wii U GamePad. You should now be kicked back to the Wii U Menu.
 
 ##### Section IV - Running on startup (optional)
 
@@ -66,10 +66,10 @@ We will now setup Wii U Plugin Loader to run on startup with your Wii U. **This 
 7. Use the D-Pad to navigate the cursor to the game you previously installed Haxchi to and press the A button to install the Coldboot Haxchi mod.
 8. Turn off your Wii U, and restart it.
 9. At the `Autobooting...` screen, press Home to open the Coldboot Haxchi menu.
-10. Use the +Control Pad on the Wii U GamePad to navigate to `Autoboot:`. Change it to SDCafiine. Change it to SDCafiine. Change it to SDCafiine.
+10. Use the +Control Pad on the Wii U GamePad to navigate to `Autoboot:`. Change it to SDCafiine.
 11. Finally, navigate to `WiiU System Menu`, and press A to be kicked to the Wii U Menu.
 
-You have now set up RiiTag on your Wii U! Now go play some games, and watch them show up on your RiiTag! Now go play some games, and watch them show up on your RiiTag! Now go play some games, and watch them show up on your RiiTag!
+You have now set up RiiTag on your Wii U! Now go play some games, and watch them show up on your RiiTag!
 {: .notice--success}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.

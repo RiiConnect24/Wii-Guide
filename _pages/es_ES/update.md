@@ -11,7 +11,7 @@ This tutorial will explain how to update your Wii Menu to version 4.3, if you ha
 
 #### Requisitos
 
-* Una tarjeta SD o memoria USB
+* Una tarjeta SD o unidad USB
 * A computer with Windows on it
 * [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest)
 * [Instalar WADs con Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
@@ -37,11 +37,11 @@ To protect against bricks, [make sure you install Priiloader](priiloader). Also,
 6. Repeat steps 2-5 with `IOS` -> `000000010000003A` -> `Latest Version`.
 7. (If you have [RiiConnect24](riiconnect24), you can skip this step) Repeat steps 2-5 with `IOS` -> `0000000100000050 - IOS80` -> `Latest Version`.
 
-| Región | Wii Menu version |
+| Region | Wii Menu version |
 | ------ | ---------------- |
-| Japón  | v512 (4.3J)      |
+| Japan  | v512 (4.3J)      |
 | USA    | v513 (4.3U)      |
-| Europa | v514 (4.3E)      |
+| Europe | v514 (4.3E)      |
 | Korea  | v518 (4.3K)      |
 
 ##### Sección II - Instalación
@@ -52,13 +52,13 @@ En esta aplicación usarás la cruz de control para desplazarte por las opciones
 1. Inserta la tarjeta SD o unidad USB en tu Wii.
 2. Inicia el Canal Homebrew en tu Wii.
 3. Inicie Wii Mod Lite.
-4. Usando la cruz de control en tu Wiimote, selecciona `WAD Manager` (Administrador de WADs), y luego abre la carpeta `wad`.
+4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 5. Press A to install the IOS80 `.wad` file. [`Make sure the installation is successful, otherwise abort.`]
 6. Press A to install the Wii Menu WAD.
 7. Press A to install the IOS58 `.wad` file. [`Make sure the installation is successful, otherwise abort.`]
-8. Una vez que se hayan instalado correctamente, oprime el botón HOME para volver al Canal Homebrew.
+8. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
-Installing a Wii Menu WAD will **remove** Priiloader. Do not reboot before you have installed it again, otherwise you could BRICK.
+**Do not return to the Wii menu yet, otherwise you could BRICK. Install [Priiloader](priiloader) first.**
 {: .notice--danger}
 
 [Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it.

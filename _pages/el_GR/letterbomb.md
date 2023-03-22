@@ -7,18 +7,18 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 ![LetterBomb](/images/letterbomb.png)
 
-Το LetterBomb είναι μια ευπάθεια που χρησιμοποιούμε μέσω του Πίνακα Μηνυμάτων (Message Board) του Wii.
+LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
 
-#### Τι χρειάζεστε
+#### What you need
 - An SD card that is no more than 32GB in size
-- Ένα Wii με έκδοση συστήματος 4.3
+- A Wii on System Menu version 4.3
 
-#### Οδηγίες
+#### Instructions
 
 
-1. Στο Wii σας, πηγαίνετε `Wii Settings` - > `Internet` -> `Console Information` και καταγράψτε την φυσική διεύθυνσή (MAC address) σας.
+1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
 1. Visit [please.hackmii.com](https://please.hackmii.com), input your Wii MAC and region, complete the CAPTCHA, ensure `Bundle the HackMii Installer for me!` is checked, and cut either wire. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
-1. Εξάγετε τα δεδομένα του ZIP που κατεβάσατε στην κάρτα SD σας.
+1. Extract the contents of the downloaded ZIP to the root of your SD card.
 1. Take out your SD card and insert it in your Wii.
    - The SD card must be inserted in the SD card slot located in the front of the Wii. Using a USB adapter plugged into the Wii's USB port will not work.
 1. On your Wii, return to the Wii Menu and then open the Wii Message Board.
@@ -34,5 +34,5 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 ![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
 
-[Συνέχεια στην εγκατάσταση του καναλιού Homebrew και του BootMii](hbc)
+[Continue to Homebrew Channel and BootMii Installation](hbc)
 {: .notice--info}

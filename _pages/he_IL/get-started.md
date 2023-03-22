@@ -1,5 +1,5 @@
 ---
-title: "צעדים ראשונים"
+title: "Get Started"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -22,7 +22,7 @@ If your Wii Menu is not on version 4.3, use str2hax or FlashHax to install the H
 This guide is for the original Wii and Wii mini only (including the Wii Family Edition). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
 {: .notice--warning}
 
-### בחר/י פרצה שברצונך להשתמש בה
+### Choose an exploit to use
 
 These exploits are sorted by easiest to hardest difficulty of use.
 
@@ -34,4 +34,4 @@ These exploits are sorted by easiest to hardest difficulty of use.
     * Requires the Internet Channel installed, and an Internet connection
 - [BlueBomb](bluebomb) - Exploit that uses Bluetooth
     * Requires a computer with Bluetooth and GNU/Linux, as well as a USB storage device
-    * זו הפרצה היחדיה העובדת על קונסולת ה **Wii Mini**
+    * This is the only exploit that works on the **Wii mini**

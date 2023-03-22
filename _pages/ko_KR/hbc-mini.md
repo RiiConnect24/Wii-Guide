@@ -1,30 +1,30 @@
 ---
-title: "홈브루 채널 - Wii 미니 전용"
+title: "Homebrew Channel - for Wii mini only"
 ---
 
-{% include toc title="목차" %}
+{% include toc title="Table of Contents" %}
 
-튜토리얼에 관한 질문이 있다면, [Wii Mini 해킹 디스코드 서버](https://discord.gg/rc24) 에 가입하거나(권장) [support@riiconnect24.net에 이메일을 보내세요](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![홈브루 채널 로고](/images/hbc.png)
+![HBC Logo](/images/hbc.png)
 
-홈브루 채널은 당신이 홈브루 앱을 실행하는 곳입니다.
+The Homebrew Channel is where you will go to launch homebrew applications.
 
-#### 방법
-이 페이지는 **오직** Wii 미니 사용자만을 위해 제작되었습니다. Wii가 있다면, 대신 [이](hbc) 가이드를 따르세요.
+#### Instructions
+This page is **only** intended for users of the Wii mini. If you have a regular Wii, follow [this guide](hbc) instead.
 {: .notice--info}
 
-Wii 미니에 BootMii를 설치할 수는 있지만, SD 카드 슬롯을 납땜해야 합니다. Wii 미니를 특별한 공구로 여는 것을 필요로 하므로, 추천하지 않습니다.
+While it is possible to install BootMii on a Wii mini, you will need to solder an SD card slot. That requires opening up your Wii mini and using special tools, so it is not recommended.
 {: .notice--info}
 
-1. 당신은 사기 경고 화면을 보게 됩니다. "Press 1 to continue"가 나타날 때 까지 30초를 기다리고, 1번을 누르세요. ![사기 경고 화면](/images/Wii/ScamScreen.png)
+1. You will see a scam warning screen. Wait 30 seconds for the text "Press 1 to continue" to appear, then press 1. ![Scam Screen](/images/Wii/ScamScreen.png)
 
-1. Continue를 누르고, Install The Homebrew Channel을 선택합니다.![홈브루 채널 설치하기](/images/Wii/InstallHomebrewChannel.png)
+1. Press Continue, then select Install The Homebrew Channel, and press install. ![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
 
-1. 완료되면 Continue를 누르세요. ![홈브루 채널 설치 성공](/images/Wii/SuccessHBC.png)
+1. Press Continue when finished. ![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
 
-1. 완료되면, `Exit`를 눌러 HackMii 설치 마법사를 나갑니다.
+1. Once done, select `Exit` to exit the HackMii installer.
 
-[Priiloader 설치로 계속하기](priiloader) Priiloader는 벽돌을 보호하며, 설치가 강력히 권장됩니다.
+[Continue to installing Priiloader](priiloader) Priiloader offers protection from bricks, and is highly recommended to install.
 {: .notice--info}

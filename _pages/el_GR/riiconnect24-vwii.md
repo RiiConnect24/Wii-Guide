@@ -7,7 +7,7 @@ title: RiiConnect24 vWii Guide
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![Εικονίδιο RiiConnect24](/images/WiiRC24Logo.jpg)
+![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
 
 Guide to installing [RiiConnect24](https://rc24.xyz) on vWii (Virtual Wii on Wii U).
 
@@ -23,6 +23,9 @@ This guide is for vWii (Wii Mode on Wii U) only.
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
+It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
+{: .notice--warning}
+
 DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
 {: .notice--danger}
 
@@ -34,9 +37,9 @@ We are **NOT** responsible if you brick, or damage your console in any way whats
 Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on Wii U). If you're looking for instructions for a Nintendo Wii, use [this guide](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [this guide](riiconnect24-dolphin) instead.
 {: .notice--warning}
 
-#### Τι χρειάζεστε
+#### What you need
 
-* Μία κάρτα SD ή μέσο αποθήκευσης USB
+* An SD card or USB drive
 * A computer
 * A Wii U console with an Internet connection that's capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
 * A Nintendo Network ID (NNID) linked to your Wii U
@@ -49,7 +52,7 @@ After following the above linked guide, you should have:
 * IOS80 patched
 {: .notice--info}
 
-#### Οδηγίες
+#### Instructions
 
 ##### Section I - Running the patcher
 

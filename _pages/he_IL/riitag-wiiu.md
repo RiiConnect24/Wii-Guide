@@ -9,7 +9,7 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You launch a plugin on your Wii U console, and the tag updates on-the-fly.
 
-#### לפני שאת/ה מתחיל/ה, הצטייד/י בכלים הבאים
+#### What you need
 
 - A device capable of interacting with SD cards
 - Softmodded Wii U console
@@ -20,7 +20,7 @@ RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynam
 - The latest release of [Flump's Coldboot Haxchi Mod](https://www.dropbox.com/sh/gxkf72jia1adpyg/AACPMfGU2AyWUZmhU2awjSsca/Haxchi-CBHC%20Flump%20Mod.zip?dl=1)
    - This Coldboot Haxchi mod is used in Section IV. You do not need to download it if you can't use Coldboot Haxchi, or you do not want Wii U Plugin Loader loading on startup.
 
-#### הוראות
+#### Instructions
 
 ##### Section I - Website instructions
 

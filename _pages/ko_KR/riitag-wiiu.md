@@ -1,77 +1,77 @@
 ---
-title: Wii U를 위한 RiiTag
+title: RiiTag on Wii U
 ---
 
-{% include toc title="목차" %}
+{% include toc title="Table of Contents" %}
 
-튜토리얼에 관한 질문이 있다면, [Wii Mini 해킹 디스코드 서버](https://discord.gg/rc24) 에 가입하거나(권장) [support@riiconnect24.net에 이메일을 보내세요](mailto:support@riiconnect24.net).
+If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-RiiTag는 사용자 설정 가능하고 복합적인 게이머태그입니다. 게이머태그 (이미지 파일) 를 공유해서 친구들에게 플레이하고 있는 게임을 보여줄 수 있습니다! Wii U에서 플러그인을 실행하면, 즉시 태그가 업데이트됩니다.
+RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You launch a plugin on your Wii U console, and the tag updates on-the-fly.
 
-#### 필요한 것
+#### What you need
 
-- SD 카드와 상호작용이 가능한 장치
-- 소프트모딩된 Wii U 콘솔
-   - Wii U를 소프트모딩하지 않았다면, [해 주세요](https://wiiu.hacks.guide). 건너뛰고는 계속 할 수 없습니다.
-- Discord 계정
-- [Wii U Plugin Loader](https://github.com/Maschell/WiiUPluginLoader/releases) 최신버전
-- [UTag plugin](https://github.com/RiiConnect24/UTag/releases) 최신버전
-- [Flump's Coldboot Haxchi Mod](https://www.dropbox.com/sh/gxkf72jia1adpyg/AACPMfGU2AyWUZmhU2awjSsca/Haxchi-CBHC%20Flump%20Mod.zip?dl=1) 최신버전
-   - 이 Coldboot Haxchi 모드는 섹션 IV에서 사용됩니다. Coldboot Haxchi를 사용할 수 없거나 Wii U Plugin Loader가 부팅될 때 켜지게 하지 않게 하려면 다운로드하지 않아도 됩니다.
+- A device capable of interacting with SD cards
+- Softmodded Wii U console
+   - If you have not softmodded your Wii U yet, [please do so](https://wiiu.hacks.guide). You cannot proceed without.
+- A Discord account
+- The latest release of [Wii U Plugin Loader](https://github.com/Maschell/WiiUPluginLoader/releases)
+- The latest release of [UTag plugin](https://github.com/RiiConnect24/UTag/releases)
+- The latest release of [Flump's Coldboot Haxchi Mod](https://www.dropbox.com/sh/gxkf72jia1adpyg/AACPMfGU2AyWUZmhU2awjSsca/Haxchi-CBHC%20Flump%20Mod.zip?dl=1)
+   - This Coldboot Haxchi mod is used in Section IV. You do not need to download it if you can't use Coldboot Haxchi, or you do not want Wii U Plugin Loader loading on startup.
 
-#### 방법
+#### Instructions
 
-##### 섹션 I - 웹사이트 설명
+##### Section I - Website instructions
 
-1. [RiiTag 웹사이트](https://tag.rc24.xyz/)로 이동합니다.
-2. `Log In`을 클릭하고 디스코드 계정으로 로그인합니다.
-3. Discord에서 `RiiConnect24 Login`을 허용할지 물어보는 창이 뜰겁니다. `승인`을 누릅니다.
-4. `Edit Your Tag`을 누르고 당신이 좋아하는 대로 개인화하세요. 배경, 오버레이, 국기, 별명, Wii 번호를 추가할 수 있으며 태그에 나타날 게임을 직접 입력할 수 있습니다 (USB 로더를 사용 시 필요 없음).
-5. `Show Key`를 누르고 키를 메모하세요. 이 가이드에서 나중에 사용됩니다.
-6. `Submit`을 눌러 변경사항을 저장하세요.
+1. Go to the [RiiTag website](https://tag.rc24.xyz/).
+2. Click `Log In` and log in with your Discord account.
+3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Click `Authorize`.
+4. Click `Edit Your Tag` and customize it to how you like. You can add a background, overlay, flag, nickname, Wii Number, and manually enter in games to show on your tag (not needed if you're using a USB Loader).
+5. Click `Show Key` and make note of the key shown. This will be used later on in this guide.
+6. Click `Submit` to save your changes.
 
-RiiTag 키는 누구와도 공유하지 마세요! 만약 공유한다면, 사람들이 태그를 악용할 수 있습니다.
+Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
 {: .notice--warning}
 
-##### 섹션 II - SD 카드 준비하기
+##### Section II - Setting things up on the SD card
 
-1. SD 카드의 최상위 경로에서 Wii U Plugin Loader `.zip` 파일을 압축 해제하세요.
-   - SD 카드에서 `wiiupluginloader`라는 이름의 폴더를 `/wiiu/apps/`에서 확인할 수 있을겁니다.
-2. `UTag.mod` 파일을 SD 카드의 `/wiiu/plugins/` 폴더에 넣으세요.
-3. SD 카드 최상위 경로에 `utag.txt`라는 파일을 만들고 텍스트 편집기로 여세요.
-4. [섹션 I - 시작하기](#section-i---getting-started)의 5단계에서 만든 키를 `utag.txt`에 붙여넣고 저장하세요.
-   - SD 카드 측의 것들은 모두 끝났습니다.
-5. Wii U에 SD 카드를 삽입하세요.
+1. Extract the Wii U Plugin Loader `.zip` file to the root of your SD card.
+   - You should see a folder titled `wiiupluginloader` in `/wiiu/apps/` on your SD.
+2. Place the `UTag.mod` file in the `/wiiu/plugins/` folder on your SD card.
+3. Create a new file titled `utag.txt` on the root of your SD card, and open it with a text editor.
+4. Paste the key you made note of earlier in Step 5 of [Section I - Getting Started](#section-i---getting-started) into this `utag.txt` file, and save it.
+   - We're all done with the SD card side of things.
+5. Insert your SD card into your Wii U.
 
-##### 섹션 III - 플러그인 실행하기
+##### Section III - Running the plugin
 
-1. 원하는 방법을 이용하여 (브라우저 취약점, Haxchi, 홈브루 런처 어플리케이션 등), Wii U 콘솔에서 **홈브루 런처**를 실행하세요.
-2. 홈브루 어플리케이션 `Wii U Plugin Loader`를 실행하세요.
-3. `UTag` 토글이 있는 메뉴가 당신을 반길겁니다. `UTag`을 활성화 하고, Wii U 게임패드에서 +를 누르세요. Wii U 메뉴로 돌아가게 될겁니다.
+1. Using your preferred method (browser exploit, Haxchi, Homebrew Launcher application, etc.), launch the **Homebrew Launcher** on your Wii U console.
+2. Navigate to, and launch the homebrew application titled `Wii U Plugin Loader`.
+3. You should be greeted with a menu, including a toggle for `UTag`. Enable `UTag`, and then press + on the Wii U GamePad. You should now be kicked back to the Wii U Menu.
 
-##### 섹션 IV - 부팅 시 실행하기 (선택)
+##### Section IV - Running on startup (optional)
 
-이제 Wii U 실행과 즉시 Wii U Plugin Loader가 실행되도록 설정할겁니다. **이것은 Coldboot Haxchi를 사용하고 있거나 사용하고 싶은 경우에만 작동합니다.** UTag는 활성화 되어 있어야 하며 Wii U 게임패드에서 +를 눌러 Wii U 메뉴로 돌아가게 됩니다.
+We will now setup Wii U Plugin Loader to run on startup with your Wii U. **This only works if you are using or willing to use Coldboot Haxchi.** You will still have to turn on UTag and press + on the Wii U GamePad to be kicked into the Wii U Menu on startup.
 {: .notice--info}
 
-1. SD 카드의 최상위 경로에서 Coldboot Haxchi mod `.zip` 파일을 압축 해제하세요.
-   - 컴퓨터가 덮어쓰기를 물어본다면, 모두 적용을 선택합니다.
-2. `/wiiu/apps/`로 이동하여 `wiiupluginloader` 폴더를 여세요.
-3. `wiiupluginloader.elf`의 이름을 `sdcafiine.elf`로 변경하세요.
-4. `/wiiu/apps/`로 이동하여 `wiiupluginloader`의 이름을 `sdcafiine`으로 변경하세요.
-5. Wii U에 SD 카드를 삽입하세요.
-6. 원하는 방법을 이용하여 (브라우저 취약점, Haxchi, 홈브루 런처 어플리케이션 등), Wii U 콘솔에서 **홈브루 런처**를 실행하세요.
-6. Coldboot Haxchi 앱을 실행하세요.
-7. Haxchi를 기존에 설치한 게임을 D Pad를 이용해 탐색하고 A 버튼을 눌러 Coldboot Haxchi 모드를 설치하세요.
-8. Wii U를 끄고, 재시작하세요.
-9. `Autobooting...` 화면에서, HOME 버튼을 눌러 Coldboot Haxchi 메뉴를 여세요.
-10. Wii U 게임패드의 +컨트롤 패드를 이용하여 `Autoboot:`를 탐색하세요. SDCafiine으로 바꾸세요.
-11. 마지막으로, `WiiU System Menu`를 찾고, A를 눌러 Wii U 메뉴로 돌아가세요.
+1. Extract the Coldboot Haxchi mod `.zip` file to the root of your SD card.
+   - If your computer asks to replace, select Replace All.
+2. Navigate to `/wiiu/apps/` and open the `wiiupluginloader` folder.
+3. Rename `wiiupluginloader.elf` to `sdcafiine.elf`.
+4. Go back to `/wiiu/apps/` and rename the `wiiupluginloader` to `sdcafiine`.
+5. Insert your SD card into your Wii U.
+6. Using your preferred method (browser exploit, Haxchi, Homebrew Launcher application, etc.), launch the **Homebrew Launcher** on your Wii U console.
+6. Navigate to, and launch the Coldboot Haxchi app.
+7. Use the D-Pad to navigate the cursor to the game you previously installed Haxchi to and press the A button to install the Coldboot Haxchi mod.
+8. Turn off your Wii U, and restart it.
+9. At the `Autobooting...` screen, press Home to open the Coldboot Haxchi menu.
+10. Use the +Control Pad on the Wii U GamePad to navigate to `Autoboot:`. Change it to SDCafiine.
+11. Finally, navigate to `WiiU System Menu`, and press A to be kicked to the Wii U Menu.
 
-Wii U에 RiiTag가 설정되었습니다! 이제 게임을 플레이하고, RiiTag에 나타나게 해보세요!
+You have now set up RiiTag on your Wii U! Now go play some games, and watch them show up on your RiiTag!
 {: .notice--success}
 
-[사이트 네비게이션으로 계속하기](site-navigation)<br>당신이 좋아할만한 많은 튜토리얼이 있습니다.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 
