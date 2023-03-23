@@ -25,6 +25,7 @@ GEM
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (2.0.3)
     ffi (1.15.5)
+    ffi (1.15.5-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
     i18n (0.9.5)
@@ -93,6 +94,7 @@ GEM
 PLATFORMS
   universal-darwin-21
   universal-darwin-22
+  x64-mingw-ucrt
   x86_64-linux
 
 DEPENDENCIES
