@@ -1,5 +1,5 @@
 ---
-title: WiiLink Demae Domino's Guide
+title: WiiLink Food Delivery Channel (Domino's) Guide
 ---
 
 {% include toc title="Table of Contents" %}
@@ -7,7 +7,7 @@ title: WiiLink Demae Domino's Guide
 If you need help for anything regarding this tutorial, please join [the WiiLink Discord server](https://discord.gg/wiilink).
 {: .notice--info}
 
-In order to prevent abuse, a $1 USD paywall has been put in place. Due to this, a credit card is required. All purchases are handled by Stripe Inc. and will be refunded. Funds may take 5-10 business days to settle. For more information, read the [Terms of Service](https://demae.wiilink24.com/tos) and [Privacy Policy](https://demae.wiilink24.com/privacypolicy). 
+You no longer need to pay $1 to get and use Food Delivery Channel (Domino's). It's now completely *free*!
 {: .notice--info}
 
 As this service places an order to Domino's Pizza, payment is required at the door. This is usually in the form of cash, although credit/debit card machines are possible if the delivery person has one.
@@ -22,91 +22,86 @@ You cannot use the default Dolphin NAND with this service. You must use your own
 #### What you need
 
 * An SD card or USB drive
-* A Wii with an internet connection
-* A computer
+* A Wii console with an active internet connection
+* A computer with an active internet connection
 * A Discord account
  
 #### Instructions
 
-##### Section I - Obtaining your Wii's Console ID
+##### Section I - Getting Started
 
-1. Download the [Get Console ID](https://oscwii.org/library/app/GetConsoleID) homebrew app from the [Open Shop Channel](https://oscwii.org).
-2. Unzip the downloaded file and copy the `apps` folder to your SD Card or USB drive.
-3. On your Wii, launch the Homebrew Channel and run the app.
-4. The app will output your Wii Console ID to the screen, save this for later as you will need it.
-![Get Console ID](/images/Demae-Dominos/get-console-id.png)
+1. Download the latest version of the WiiLink Patcher, available [here](https://github.com/WiiLink24/WiiLink24-Patcher/tree/csharp-ver).
+2. Make sure to download the version in the README that corresponds to your operating system.
+3. Launch the patcher and begin the setup process.
+4. When you see the setup screen, select `1. English Translation` in order to gain access to the Food Delivery Channel (Domino's) channel.<br><br>
+![Express Install](/images/Demae-Dominos/choose-core-channel.png)
+5. Next, you’ll see this screen, asking which version of Food Delivery Channel you want, so you’ll want to pick `2. Domino's (US and Canada only)`<br><br>
+![Food Delivery Channel Setup](/images/Demae-Dominos/choose-food-channel-ver.png)
+6. After that, you can go through the rest of the process, but once you reach this step, be sure to pick the correct console platform you’re installing this on, as it will matter when using the app.<br><br>
+![Console Platform](/images/Demae-Dominos/choose-console-platform.png)
 
-##### Section II - Obtaining the Food Channel
+##### Section II - Registering your Console ID
 
-1. Click [this link](https://demae.wiilink24.com) to visit the Demae Domino's website.
-2. Click the `Log in` button in the top right corner. This will prompt your Discord account to authorize the application.
-![Authorize Demae Domino's to access your Discord account](/images/Demae-Dominos/discord-oauth.png)
-3. Click on the `Purchase Access` button in the top right corner. Please read the contents on screen very carefully before clicking the `Purchase` button.
-4. You will be brought to a purchase page managed by Stripe Inc. Here you must enter your payment information along with the Wii Console ID from the last section.
-![Purchase Page](/images/Demae-Dominos/purchase-page.png)
-5. If the purchase succeeded, you will be brought to a success page. The WAD personalized for your Wii Console will be emailed to you. Please allow for up to 10 minutes for the email to arrive.
-6. Once the email arrives, download the attached WAD file and move it to the `WAD` folder on your SD Card or USB.
+1. After completing the setup process, go to the [**WiiLink Discord server**](https://discord.gg/WiiLink) to register your Wii's console ID.
+2. Use the `Get Console ID` Homebrew app, that was given by the patcher, to retrieve your system's console ID.
+3. Visit the `#dominos-chat` channel on the Discord server.
+4. Type the command `/dominos <your console ID>` in the chat, replacing `<your console ID>` with your actual console ID. Make sure the ID is in the parameter box, otherwise the command will not work and will be posted publicly on the channel.
+5. Double-check that you've typed the correct console ID, as it can't be re-registered. If you need to re-register, ask a staff member in the server for assistance.
 
-##### Section III - Obtaining the Set Personal Data Channel
+##### Section III - Installing WADs
 
-If you are using a Japanese Wii, this step can be skipped.
-{: .notice--info}
-
-If you already have the WiiLink Set Personal Data channel, you must install this one as it is updated to support addresses.
-{: .notice--warning}
-
-1. Click the download link for your console.
-   * [Wii](https://spd.wiilink24.com/spd/SPD_Wii.wad)
-   * [vWii](https://spd.wiilink24.com/spd/SPD_vWii.wad)
-2. Copy the downloaded WAD file to the `WAD` folder on your SD Card or USB drive.
-
-##### Section IV - Installing WADs
-
-You will now install the Food Channel and Set Personal Data channels.
+You will now install the Food Delivery Channel and Set Personal Data channels.
 
 1. Put your SD card or USB drive in your Wii.
-2. Launch the Homebrew Channel on your Wii.
-3. Launch Wii Mod Lite.
-4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
-5. Highlight the Food Channel and Set Personal Data WADs by pressing the + Button over each of them. When all the WADs are selected, press A twice to install the WADs.
-6. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+2. After registering your console ID, go to the Homebrew Channel and launch **Wii Mod Lite**.
+3. In the WAD Manager menu, locate `Food Channel (Domino's) (English).wad`.
+4. Also locate `WiiLink_SPD (Wii).wad` or `WiiLink_SPD (vWii).wad`, depending on your console platform.
+5. Select both WADs by pressing `+` on each one.
+6. Press `A` to install the selected WADs.
 
-##### Section V - Setting your personal data
-
-WiiLink never stores your personal data. For more information on what is used, read our [Privacy Policy](https://demae.wiilink24.com/privacypolicy).
-{: .notice--info}
-
-You are responsible for entering correct data into the Set Personal Data channel. Failure to do so may result in orders not succeeding.
+If you happen to get `Error -1022` when installing `Food Channel (Domino's) (English).wad`, uninstall the channel by selecting the WAD with `-` and pressing `A`. Then, re-install the WAD.
 {: .notice--warning}
 
-In this section you will be setting your personal data. This is required for proper usage of Demae Domino's. 
+##### Section IV - Setting your address information
 
-1. Launch the Food Channel from the Wii Menu.
-2. If you have not previously used Set Personal Data, a prompt telling you to set the data will appear. Press the `Address Info` button. Otherwise, click the `Change Address Information` button in the main menu.
-3. Now you are in the Set Personal Data channel. Press the arrows to traverse screens. Here you will enter your data. When you are finished, click the `Done` button and then `Demae`.
-![SPD Page 1](/images/Demae-Dominos/spd-1.png)
+WiiLink never stores your personal data. For more information on what is used, read our [Privacy Policy](https://theoldnet.com/get?url=https%3A%2F%2Fdemae.wiilink24.com%2Fprivacypolicy&year=2022&scripts=false&decode=false). (Currently archived, as new page is being worked on)
+{: .notice--info}
+
+You are responsible for entering your correct address information. Failure to do so may result in orders not succeeding.
+{: .notice--warning}
+
+In this section you will be setting your address information. This is required for proper usage of Demae Domino's. 
+
+1. Launch the Food Delivery Channel from the Wii Menu.
+2. If you have not previously set your address information, a prompt telling you to set it will appear. Press the `Address Info` button. Otherwise, click the `Change Address Information` button in the main menu.
+3. Now you are in the Address Information menu. Press the arrows to traverse screens. Here you will enter your data. When you are finished, click the `Done` button and then `Demae`.<br><br>
+![SPD Page 1](/images/Demae-Dominos/spd-1.png)<br><br>
 ![SPD Page 2](/images/Demae-Dominos/spd-2.png)
 
-##### Section VI - Placing an order
+##### Section V - Placing an order
 
 This section requires you to have cash to pay for your meal.
 {: .notice--warning}
 
-If you have previously placed an order, skip to step 5.
+If you have used the standard version of the Food Delivery Channel before, go to the<br>`Wii Menu settings` -> `Data Management` -> `Save Data` -> `Wii`, then find the <br>Food Delivery Channel icon and click "Erase" to delete the existing save data.
+{: .notice--warning}
+
+If you have previously placed an order, skip to step 4.
 {: .notice--info}
 
-1. If you have used the previous version of the Food Channel, go to `Wii Settings` to delete your save data.
-2. Launch the Food Channel from the Wii Menu
-3. Follow the on-screen instructions, then click `Order` in the main menu.
-![Main Menu](/images/Demae-Dominos/main-menu.png)
-4. You will now be prompted to select your region. Be sure to select your residing country correctly. Failure to do so will result in restaurants failing to load. You will then be prompted to select your state/province, then city. If your city is not on the list, you can select any one as it does not matter.
-![Main Menu](/images/Demae-Dominos/country-setup.png)
-5. Click the `Pizza` button. This will load all the restaurants in your area. The first restaurant in the list is the one closest to you.
-6. Click `See Menu` to list the different menu categories. Click the category you would like, then select a food item. In the item screen, you can add toppings and adjust quantity.
-7. After adding a food item, you will be brought to the basket. To add a food item, scroll to the bottom and select `Add Order`. To proceed to checkout, click `Next`.
-8. Review your order throughly before placing the order. When you are ready, click the big green `Order` button.
-![Before Order](/images/Demae-Dominos/order.png)
-9. If no error appeared, your order was placed successfully! To track your order, simply visit the Domino's Tracker for your region and enter the phone number you entered in Set Personal Data.
+1. Launch the Food Delivery Channel (aka. Food Channel) from the Wii Menu
+2. Follow the on-screen instructions, then click `Order` in the main menu.<br><br>
+![Main Menu](/images/Demae-Dominos/success.png)<br><br>
+3. You will now be prompted to select your region. Be sure to select your residing country correctly. Failure to do so will result in restaurants failing to load. You will then be prompted to select your state/province, then city. If your city is not on the list, you can select any one as it does not matter.<br><br>
+![Main Menu](/images/Demae-Dominos/country-setup.png)<br><br>
+4. Click the `Pizza` button. This will load all the restaurants in your area. The first restaurant in the list is the one closest to you.
+5. Click `See Menu` to list the different menu categories. Click the category you would like, then select a food item. In the item screen, you can add toppings and adjust quantity.
+6. After adding a food item, you will be brought to the basket. To add a food item, scroll to the bottom and select `Add Order`. To proceed to checkout, click `Next`.
+7. Review your order throughly before placing the order. When you are ready, click the big green `Order` button.<br><br>
+![Before Order](/images/Demae-Dominos/order.png)<br><br>
+8. If no error appeared, your order was placed successfully! To track your order, simply visit the Domino's Tracker for your region and enter the phone number you entered in the Address Information menu.
+
+***Happy ordering!***
 
 [Continue to site navigation](site-navigation)<br>
 We have many other tutorials that you might like.
