@@ -11,20 +11,20 @@ Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayud
 
 [Wiimmfi](https://wiimmfi.de) es un servicio que reemplaza a la Conexión Wi-Fi de Nintendo. Ha sido desarrollado por Wiimm y Leseratte.
 
-If you get the error 23904 while connecting to Wiimmfi, then you are using an outdated patch.<br> Follow the steps below for the method you're using to connect to Wiimmfi again.<br> See [this page](https://wiimmfi.de/update) for more details.<br>
+Si recibes el código de error 23904 al intentar conectarte a Wiimmfi, significa que estás usando un parche desactualizado. <br>Por favor sigue nuevamente los pasos de abajo correspondientes método que estás usando para conectarte a Wiimmfi.<br> Revisa [esta página](https://wiimmfi.de/update) para mayor información.<br>
 {: .notice--warning}
 
-## Diferentes métodos para conectarse
+## Métodos de conexión
 
-There are lots of different methods to connect to Wiimmfi. Choose the one that fits your needs best.
+Existen diversas formas de conectarse a Wiimmfi. Elige el método que mejor se adapte a tus necesidades.
 
-### Parcheo automático desde el Canal Disco usando Priiloader
+### Parche automático desde el Canal Disco usando Priiloader
 
 #### Requisitos
 
-- Una Wii con Priiloader 0.9 o posterior instalado
+- Una Wii con Priiloader v0.9 o posterior instalado
 
-If you have an older version of Priiloader or don't have it installed, follow [this guide](priiloader) to update/install it.
+Si tienes una version anterior de Priiloader o no lo tienes instalado, por favor sigue [este tutorial](priiloader) para actualizarlo o instalarlo.
 {: .notice--info}
 
 #### Instrucciones
