@@ -32,7 +32,7 @@ Si tienes una version anterior de Priiloader, o no lo tienes instalado, por favo
 1. Mantén oprimido el botón RESET a la vez que enciendes tu Wii (si usas una Wii mini, conecta un teclado USB y mantén pulsada la tecla ESC).
 2. Ve a `System Menu Hacks`.
 3. Asegúrate de que la opción `Wiimmfi patch v4` esté activada.
-4. Guarda cambios y sal.
+4. Guarda los cambios y sal de Priiloader.
 
 If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
 {: .notice--warning}
