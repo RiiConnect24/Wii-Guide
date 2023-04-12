@@ -41,7 +41,8 @@ Ensure that if you are using an SD card, the lock switch is in the unlocked posi
 
 1. Download, extract, and run [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
 1. Select "Database", "IOS", then "IOS38", and select "v4123".
-   - Ensure that "Pack WAD" is checked and "Patch IOS" is unchecked.
+   - Ensure that "Pack WAD" is checked.
+   - *Don't* check "Patch IOS". That is the cIOS Installer's job.
 1. Repeat the previous step for IOS56 v5661, IOS57 v5918 and IOS58 v6175.
 1. Once you have downloaded all four IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. Open the folder and navigate through them until you locate the four WAD files you downloaded. Place each of WAD files on the root of your SD card or USB drive.
 1. Download the d2x cIOS Installer and extract it to the root of your SD card or USB drive.
