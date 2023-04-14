@@ -35,7 +35,7 @@ If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fus
 To play games, we recommend using an external hard drive for your Wii. Flash drives are not recommended, and may have varying results even between the same product.
 {: .notice--info}
 
-Make sure your USB drive is formatted as FAT32. Do not format it as other types such as exFAT or extFS. <br>You may also use NTFS or WBFS, but NTFS will only work with apps like USB Loader GX, and WBFS is an old format that can only store Wii games.
+Make sure your USB drive is formatted as FAT32. Do not format it as other types such as exFAT or extFS. <br>You may also use NTFS or WBFS, but NTFS will only work with apps like USB Loader GX, and WBFS is an old filesystem that can only store Wii games.
 {: .notice--info}
 
 #### Instructions
