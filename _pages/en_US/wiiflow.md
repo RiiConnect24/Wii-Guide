@@ -32,9 +32,6 @@ If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fus
 To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
 {: .notice--info}
 
-Unlike USB Loader GX, WiiFlow can load games of an SD card. 
-{: .notice--info}
-
 Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
