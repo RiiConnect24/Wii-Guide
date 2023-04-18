@@ -35,10 +35,11 @@ RiiConnect24 Clear Tool is a homebrew application that can fix these specific er
 5. Go to the SD card and hover over a blank space, then press "Paste."
 
 #### Section II - Deleting SYSCONF
-1. Load up The Homebrew Channel and open "RiiConnect24 Clear Tool," which can be found in the description of the video.
-2. Load "iOS 80" and press "A" to delete the SYSCONF, then press the "B" button to reset the aspect ratio.
-3. Press "Save" to continue, but make sure to sync the Wii first by going through the initial setup.
-4. Set up the Wii as normal and go to "WiiConnect24." Accept the EULA and turn on the standby connection.
+1. Extract RiiConnect24 Clear Tool and put it in the apps folder on your SD card or USB drive.
+2. Load up The Homebrew Channel and open RiiConnect24 Clear Tool.
+3. Load "iOS 80" and press "A" to delete the SYSCONF, then press the "B" button to reset the aspect ratio.
+4. Press "Save" to continue, but make sure to sync the Wii first by going through the initial setup.
+5. Set up the Wii as normal and go to "WiiConnect24." Accept the EULA and turn on the standby connection.
 
 #### Section III - Putting back Wii Message Board Data (OPTIONAL)
 1. Go back to The Homebrew Channel and navigate to "Start," then "Settings," then "Boot Settings," and select "NAND Write Access" and "Yes."
