@@ -23,6 +23,7 @@ RiiConnect24 Clear Tool is a homebrew application that can fix these specific er
 * An SD card or USB drive
 * [RiiConnect24 Clear Tool](https://oscwii.org/library/app/RC24-Clear-Tool)
 * [WiiXplorer](https://oscwii.org/library/app/wiixplorer-ss)
+* [sntp](https://oscwii.org/library/app/sntp)
 
 
 #### Instructions
