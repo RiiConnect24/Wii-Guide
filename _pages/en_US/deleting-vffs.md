@@ -26,21 +26,29 @@ RiiConnect24 Clear Tool is a homebrew application that can fix these specific er
 
 
 #### Instructions
+
+#### Section I - Backing up Wii Message Board Data (OPTIONAL)
 1. Load up the Wii and go to the Wii Message Board. If you don't have any messages you want to save, you can skip this step.
 2. Go to "NAND" and click on "Start," then "Settings," then "Boot Settings," then "NAND Write Access," and select "Yes."
 3. Click on "Title" and then navigate to the "00010001" folder and then the "00010002" folder.
 4. Hover over cdb.vff and press the "+" button, then select "Copy" and then "Yes."
 5. Go to the SD card and hover over a blank space, then press "Paste."
-6. Load up The Homebrew Channel and open "RiiConnect24 Clear Tool," which can be found in the description of the video.
-7. Load "iOS 80" and press "A" to delete the SYSCONF, then press the "B" button to reset the aspect ratio.
-8. Press "Save" to continue, but make sure to sync the Wii first by going through the initial setup.
-Set up the Wii as normal and go to "WiiConnect24." Accept the EULA and turn on the standby connection.
-9. Go back to The Homebrew Channel and navigate to "Start," then "Settings," then "Boot Settings," and select "NAND Write Access" and "Yes."
-10. Hover over "cdb.vff" again and press the "+" button, then select "Copy" and "Yes."
-Click "OK" and navigate to "NAND," then "Title," "00010002," and "Data."
-Press the "+" button again and then "Paste," and then "Yes."
-11. Open "sntp" to set the Wii's clock accurately.
-Finally, do a connection test and try accessing the Forecast Channel and News Channel to ensure the errors have been fixed. 
+
+#### Section II - Deleting SYSCONF
+1. Load up The Homebrew Channel and open "RiiConnect24 Clear Tool," which can be found in the description of the video.
+2. Load "iOS 80" and press "A" to delete the SYSCONF, then press the "B" button to reset the aspect ratio.
+3. Press "Save" to continue, but make sure to sync the Wii first by going through the initial setup.
+4. Set up the Wii as normal and go to "WiiConnect24." Accept the EULA and turn on the standby connection.
+
+#### Section III - Putting back Wii Message Board Data (OPTIONAL)
+1. Go back to The Homebrew Channel and navigate to "Start," then "Settings," then "Boot Settings," and select "NAND Write Access" and "Yes."
+2. Hover over "cdb.vff" again and press the "+" button, then select "Copy" and "Yes."
+3. Click "OK" and navigate to "NAND," then "Title," "00010002," and "Data."
+4. Press the "+" button again and then "Paste," and then "Yes."
+
+#### Section IV - Synchronizing Wii Time
+1. Open "sntp" to set the Wii's clock accurately.
+2. Finally, do a connection test and try accessing the Forecast Channel and News Channel to ensure the errors have been fixed. 
 
 [Return to RiiConnect24 installation page](riiconnect24)
 {: .notice--info}
