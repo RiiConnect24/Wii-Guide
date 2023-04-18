@@ -37,7 +37,7 @@ RiiConnect24 Clear Tool is a homebrew application that can fix these specific er
 #### Section II - Deleting SYSCONF
 1. Extract RiiConnect24 Clear Tool and put it in the apps folder on your SD card or USB drive.
 2. Load up The Homebrew Channel and open RiiConnect24 Clear Tool.
-3. Load "iOS 80" and press "A" to delete the SYSCONF, then press the "B" button to reset the aspect ratio.
+3. Load "IOS 80" and press "A" to delete the SYSCONF, then press the "B" button to reset the aspect ratio.
 4. Press "Save" to continue, but make sure to sync the Wii first by going through the initial setup.
 5. Set up the Wii as normal and go to "WiiConnect24." Accept the EULA and turn on the standby connection.
 
