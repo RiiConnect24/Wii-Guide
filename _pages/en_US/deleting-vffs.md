@@ -29,23 +29,23 @@ RiiConnect24 Clear Tool is a homebrew application that can fix these specific er
 #### Instructions
 
 #### Section I - Backing up Wii Message Board Data (OPTIONAL)
-1. Load up the Wii and go to the Wii Message Board. If you don't have any messages you want to save, you can skip this step.
-2. Go to "NAND" and click on "Start," then "Settings," then "Boot Settings," then "NAND Write Access," and select "Yes."
-3. Click on "Title" and then navigate to the "00010001" folder and then the "00010002" folder.
-4. Hover over cdb.vff and press the "+" button, then select "Copy" and then "Yes."
-5. Go to the SD card and hover over a blank space, then press "Paste."
+1. Boot up the Wii and go to the Wii Message Board. If you don't have any messages you want to save, you can skip this step.
+2. Load up the Homebrew Channel and open WiiXplorer.
+3. Go to "NAND" and click on "Start," then "Settings," then "Boot Settings," then "NAND Write Access," and select "Yes."
+4. Click on "Title" and then navigate to the "00000001" folder and then the "00000002" folder, then the "data" folder.
+5. Hover over cdb.vff and press the "+" button, then select "Copy" and then "Yes."
+6. Go to the SD card and hover over a blank space, then press "Paste."
 
 #### Section II - Deleting SYSCONF
 1. Extract RiiConnect24 Clear Tool and put it in the apps folder on your SD card or USB drive.
 2. Load up The Homebrew Channel and open RiiConnect24 Clear Tool.
-3. Load "IOS 80" and press "A" to delete the SYSCONF, then press the "B" button to reset the aspect ratio.
-4. Press "Save" to continue, but make sure to sync the Wii first by going through the initial setup.
-5. Set up the Wii as normal and go to "WiiConnect24." Accept the EULA and turn on the standby connection.
+3. Load "IOS 80" and press "A" to delete the SYSCONF, then press the "B" button to confirm and reset the aspect ratio.
+4. Set up the Wii as normal and go to "WiiConnect24." Accept the EULA and turn on the standby connection.
 
 #### Section III - Putting back Wii Message Board Data (OPTIONAL)
-1. Go back to The Homebrew Channel and navigate to "Start," then "Settings," then "Boot Settings," and select "NAND Write Access" and "Yes."
+1. Go back to the Homebrew Channel to load up WiiXplorer and navigate to "Start," then "Settings," then "Boot Settings," and select "NAND Write Access" and "Yes."
 2. Hover over "cdb.vff" again and press the "+" button, then select "Copy" and "Yes."
-3. Click "OK" and navigate to "NAND," then "Title," "00010002," and "Data."
+3. Click "OK" and navigate to "NAND," then "Title," "00000001", "00000002" and "data"
 4. Press the "+" button again and then "Paste," and then "Yes."
 
 #### Section IV - Synchronizing Wii Time
