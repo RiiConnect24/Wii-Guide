@@ -45,7 +45,7 @@ RiiConnect24 Clear Tool is a homebrew application that can fix these specific er
 #### Section III - Putting back Wii Message Board Data (OPTIONAL)
 1. Go back to the Homebrew Channel to load up WiiXplorer and navigate to "Start," then "Settings," then "Boot Settings," and select "NAND Write Access" and "Yes."
 2. Hover over "cdb.vff" again and press the "+" button, then select "Copy" and "Yes."
-3. Click "OK" and navigate to `nand` then `Title`, `00000001`, `00000002`, then `data`
+3. Click "OK" and navigate to `nand` then `title`, `00000001`, `00000002`, then `data`
 4. Press the "+" button again and then "Paste," and then "Yes."
 
 #### Section IV - Synchronizing Wii Time
