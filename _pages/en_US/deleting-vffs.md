@@ -33,7 +33,7 @@ RiiConnect24 Clear Tool is a homebrew application that can fix these specific er
 2. Load up the Homebrew Channel and open WiiXplorer.
 3. Go to `nand` and click on "Start," then "Settings," then "Boot Settings," then "NAND Write Access," and select "Yes."
 4. Click on `title` and then navigate to the `00000001` folder and then the `00000002` folder, then the `data` folder.
-5. Hover over cdb.vff and press the "+" button, then select "Copy" and then "Yes."
+5. Hover over `cdb.vff` and press the "+" button, then select "Copy" and then "Yes."
 6. Go to the SD card and hover over a blank space, then press "Paste."
 
 #### Section II - Deleting SYSCONF
@@ -44,7 +44,7 @@ RiiConnect24 Clear Tool is a homebrew application that can fix these specific er
 
 #### Section III - Putting back Wii Message Board Data (OPTIONAL)
 1. Go back to the Homebrew Channel to load up WiiXplorer and navigate to "Start," then "Settings," then "Boot Settings," and select "NAND Write Access" and "Yes."
-2. Hover over "cdb.vff" again and press the "+" button, then select "Copy" and "Yes."
+2. Hover over `cdb.vff` again and press the "+" button, then select "Copy" and "Yes."
 3. Click "OK" and navigate to `nand` then `title`, `00000001`, `00000002`, then `data`
 4. Press the "+" button again and then "Paste," and then "Yes."
 
