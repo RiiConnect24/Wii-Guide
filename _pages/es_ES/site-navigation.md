@@ -36,9 +36,7 @@ sitemap: false
 **Modificación 101**
 
 - [BlueBomb](bluebomb)
-
-* [Crear copia de seguridad de NAND con BootMii](bootmii)
-
+- [Crear copia de seguridad de NAND con BootMii](bootmii)
 - [Instalar cIOS d2x](cios)
 - [Dos and Don'ts of Wii Modding](dosanddonts)
 - [FlashHax](flashhax)
