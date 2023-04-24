@@ -36,9 +36,7 @@ sitemap: false
 **Modding 101**
 
 - [Bluebomb](bluebomb)
-
-* [BootMii Backup](bootmii)
-
+- [BootMii Backup](bootmii)
 - [cIOS](cios)
 - [Dos and Don'ts of Wii Modding](dosanddonts)
 - [FlashHax](flashhax)
