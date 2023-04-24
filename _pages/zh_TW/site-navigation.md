@@ -36,9 +36,7 @@ sitemap: false
 **Modding 101**
 
 - [使用 BlueBomb 漏洞](bluebomb)
-
-* [進行 BootMii 備份](bootmii)
-
+- [進行 BootMii 備份](bootmii)
 - [cIOS](cios)
 - [Dos and Don'ts of Wii Modding](dosanddonts)
 - [FlashHax](flashhax)
