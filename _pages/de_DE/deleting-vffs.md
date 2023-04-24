@@ -52,7 +52,7 @@ RiiConnect24 Clear Tool is a homebrew application that can fix these specific er
 
 #### Section IV - Synchronizing Wii Time
 
-1. Open "sntp" to set the Wii's clock accurately.
+1. Open sntp to set the Wii's clock accurately.
 2. Finally, do a connection test and try accessing the Forecast Channel and News Channel to ensure the errors have been fixed.
 
 [Return to RiiConnect24 installation page](riiconnect24)
