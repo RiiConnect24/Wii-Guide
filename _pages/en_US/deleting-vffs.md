@@ -43,11 +43,11 @@ RiiConnect24 Clear Tool is a homebrew application that can fix these specific er
 3. Load "IOS 80" and press A to delete the SYSCONF, then press B to confirm and reset the aspect ratio.
 4. Set up the Wii as normal and go to "WiiConnect24." Accept the EULA and turn on the standby connection.
 
-#### Section III - Putting back Wii Message Board Data (OPTIONAL)
+#### Section III - Putting back Wii Message Board Data (Optional)
 
 1. Go back to the Homebrew Channel to open WiiXplorer and navigate to "Start", then "Settings", then "Boot Settings", and select "NAND Write Access" and "Yes."
 2. Hover over `cdb.vff` again and press + button, then select "Copy" and "Yes."
-3. Click "OK" and navigate to `nand` then `title`, `00000001`, `00000002`, then `data`
+3. Click "OK" and navigate to `nand` then `title`, `00000001`, `00000002`, then `data`.
 4. Press + again and then "Paste", and then "Yes."
 
 #### Section IV - Synchronizing Wii Time
