@@ -36,9 +36,7 @@ sitemap: false
 **Modding 1x1**
 
 - [BlueBomb](bluebomb)
-
-* [BootMii Backup](bootmii)
-
+- [BootMii Backup](bootmii)
 - [cIOS](cios)
 - [Handlungsempfehlungen beim Wii Modding](dosanddonts)
 - [FlashHax](flashhax)
