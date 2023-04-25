@@ -74,7 +74,7 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
    ![Menu](/images/gcsaves/gcmm-menu.jpg)
 4. Select the slot your memory card is in.
    ![Memory](/images/gcsaves/gcmm-mem-select.jpg)
-5. Select the save you want to backup. If you have multiple saves to backup, you can press `R` on the GameCube controller or `1` on the Wii remote to backup all of your saves.
+5. Select the save you want to backup. If you have multiple saves to backup, you can press R on the GameCube controller or 1 on the Wii remote to backup all of your saves.
    ![Save](/images/gcsaves/gcmm-select-save.jpg)
 6. When backing up is complete, press any button to continue.
 
