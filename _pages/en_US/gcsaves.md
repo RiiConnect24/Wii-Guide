@@ -82,7 +82,7 @@ If you are looking for save game exploits for booting into [swiss](https://githu
 
 ##### Downloading
 
-1. Extract GCMM and put it in the `apps` folder on your SD card or USB drive .
+1. Extract GCMM and put it in the `apps` folder on your SD card or USB drive.
 2. Insert your SD card or USB drive into your Wii and launch GCMM from the Homebrew Channel.
 
 #### Dumping the .raw
@@ -103,9 +103,9 @@ If you are looking for save game exploits for booting into [swiss](https://githu
 #### Instructions
 
 1. If you are trying to restore a save from dolphin emulator, go to the file tab in dolphin, select open user folder, open the GC folder, and find the `.raw` file.
-2. If you are restoring a nintnedont emulated memory card save, navigate to the `saves` folder on the root of your SD card or USB.
+2. If you are restoring a Nintendont emulated memory card save, navigate to the `saves` folder on the root of your SD card or USB.
 4. Insert your memory card into `slot A` or `slot B`.
-5. Select the device you want to restore from ![Device](/images/gcsaves/gcmm-select-device.jpg)
+5. Select the device you want to restore from. ![Device](/images/gcsaves/gcmm-select-device.jpg)
 6. Press `L` and `X` at the same time on GameCube controller or `B` and `+` at the same time on the Wii remote.
 7. Select the slot your memory card is in. ![Memory](/images/gcsaves/gcmm-mem-select.jpg)
 8. It should restore the .raw file to your memory card. When that is done you can press any button to continue.
@@ -119,8 +119,8 @@ If you are looking for save game exploits for booting into [swiss](https://githu
 
 ### Instructions
 
-1. Insert both memory cards into the Wii
-2. From the System menu, navigate into Wii Options/Data Management/Save Data/Nintendo GameCube ![sysmenu](/images/gcsaves/sysmenu.jpg) <br> ![settings](/images/gcsaves/settings.jpg) <br> ![data management](/images/gcsaves/data-management.jpg) <br> ![save data](/images/gcsaves/save-data.jpg)
+1. Insert both memory cards into the Wii.
+2. From the System menu, navigate into Wii Options/Data Management/Save Data/Nintendo GameCube. <br> ![sysmenu](/images/gcsaves/sysmenu.jpg) <br> ![settings](/images/gcsaves/settings.jpg) <br> ![data management](/images/gcsaves/data-management.jpg) <br> ![save data](/images/gcsaves/save-data.jpg)
 3. Find the save you want, select it and select move or copy.
 
 [Continue to site navigation](site-navigation)<br>
