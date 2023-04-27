@@ -33,7 +33,7 @@ RiiConnect24 Clear Tool is a homebrew application that can fix these specific er
 1. Open the Homebrew Channel and open WiiXplorer.
 2. Go to `nand` and click on `Start`, then `Settings`, then `Boot Settings`, then `NAND Write Access`, and select `Yes`.
 3. Click on `title` and then navigate to the `00000001` folder and then the `00000002` folder, then the `data` folder.
-4. Hover over `cdb.vff` and press +, then select `Copy` and then `Yes.`
+4. Hover over `cdb.vff` and press +, then select `Copy` and then `Yes`.
 5. Go to the SD card and hover over a blank space, then press `Paste.`
 
 #### Section II - Deleting SYSCONF
@@ -41,14 +41,14 @@ RiiConnect24 Clear Tool is a homebrew application that can fix these specific er
 1. Extract the RiiConnect24 Clear Tool and put it in the apps folder on your SD card or USB drive.
 2. Open the Homebrew Channel and then launch the RiiConnect24 Clear Tool.
 3. Load IOS 80 and press A to delete the SYSCONF, then press B to confirm and reset the aspect ratio.
-4. Set up the Wii as normal and go to `WiiConnect24` Accept the EULA and turn on the standby connection.
+4. Set up the Wii as normal and go to `WiiConnect24`, accept the EULA and turn on the standby connection.
 
 #### Section III - Putting back Wii Message Board Data (Optional)
 
-1. Go back to the Homebrew Channel to open WiiXplorer and navigate to `Start`, then `Settings`, then `Boot Settings`, and select `NAND Write Access` and `Yes.`
-2. Hover over `cdb.vff` again and press + button, then select `Copy` and `Yes.`
+1. Go back to the Homebrew Channel to open WiiXplorer and navigate to `Start`, then `Settings`, then `Boot Settings`, and select `NAND Write Access` and `Yes`.
+2. Hover over `cdb.vff` again and press + button, then select `Copy` and `Yes`.
 3. Click `OK` and navigate to `nand` then `title`, `00000001`, `00000002`, then `data`.
-4. Press + again and then `Paste`, and then `Yes.`
+4. Press + again and then `Paste`, and then `Yes`.
 
 #### Section IV - Synchronizing Wii Time
 
