@@ -27,7 +27,7 @@ The following is a list of things that can potentially **BRICK** your vWii (don'
 * Installing BootMii and/or Priiloader/Preloader.
 * Failure during the install of crucial system/IOS titles (e.g. power outage).
 * Modifying the vWii NAND without knowing what you are doing.
-* Install System File Mods on vWii 
+* Installing System File Mods on vWii 
 
 ### What are the limitations in Wii modding?
 The following is a list of things that can potentially **BRICK** your Wii (don't do these things!):
