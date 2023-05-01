@@ -12,15 +12,15 @@ This is a quick start guide on how to use Nintendont, a popular USB loader for t
 #### What you need
 
 * A Wii
-* A USB drive
+* A USB drive or SD Card
 * [Nintendont](https://hbb1.oscwii.org/hbb/Nintendont/Nintendont.zip)
 
 We recommend you copy games over with [GameCube Backup Manager](https://github.com/AxionDrak/GameCube-Backup-Manager/releases) if you use Windows.
 
-To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
+To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, however, Nintendont sometimes doesn't behave well with flash drives. SD Cards should be fine, but they may be slow.
 {: .notice--info}
 
-Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing GameCube games.
+Make sure your USB drive is formatted as FAT32. Do not format it as other types such as exFAT, extFS, WBFS or NTFS.
 {: .notice--info}
 
 #### Instructions
@@ -28,21 +28,23 @@ Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as othe
 ##### Downloading
 
 1. Extract Nintendont and put it in the `apps` folder on your USB drive or SD card.
-2. Insert your USB drive, and SD card if you're using one, into your Wii and launch Nintendont from the Homebrew Channel.
+2. Insert your USB drive, or SD card if you're using one, into your Wii and launch Nintendont from the Homebrew Channel.
 
 ##### Getting Started
 
-There is no "guide" to use the Nintendont app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
+There is no "guide" to use the Nintendont app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of Nintendont by using it.
 {: .notice--info}
 
 ###### Key Features
 
-1. You can use a GameCube controller to play your games.
-2. You can use a Wiimote to play your games, but you will need to use a Classic Controller Pro or a Wii U Pro Controller to use all of the game's features.
+1. You can use a Wiimote & Nunchuk to play your games, but you will need to use a Classic Controller or a Wii U Pro Controller to use all of the game's features.
+2. You can also use many other USB or Bluetooth controllers.
 3. You can use a USB keyboard to enter text in games that require it.
-4. You can use a USB drive to store your GameCube game ISOs.
-5. You can use a fan-made patch to enable online play in some games.
-6. You can use USB Loader GX or WiiFlow to play GameCube games there.
+4. You can use a fan-made patch to enable online play in some games.
+5. You can [emulate the BBA adapter](https://github.com/FIX94/Nintendont/blob/master/BBA_Readme.md) to play LAN mode on games that support it.
+6. You can use USB Loader GX or WiiFlow as a front-end for Nintendont.
+
+You can read a full list of features [here](https://github.com/FIX94/Nintendont/blob/master/README.md).
 
 [Continue to site navigation](site-navigation)<br>
 We have many other tutorials that you might like.
