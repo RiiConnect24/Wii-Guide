@@ -20,7 +20,7 @@ We recommend you copy games over with [GameCube Backup Manager](https://github.c
 To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
 {: .notice--info}
 
-Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
+Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing GameCube games.
 {: .notice--info}
 
 #### Instructions
@@ -32,12 +32,8 @@ Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as othe
 
 ##### Getting Started
 
-There is no "guide" to use the Nitendont app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
+There is no "guide" to use the Nintendont app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
 {: .notice--info}
-
-##### User Interface
-
-There are multiple buttons in the USB Loader GX interface.
 
 ###### Key Features
 
@@ -47,10 +43,6 @@ There are multiple buttons in the USB Loader GX interface.
 4. You can use a USB drive to store your GameCube game ISOs.
 5. You can use a fan-made patch to enable online play in some games.
 6. You can use USB Loader GX or WiiFlow to play GameCube games there.
-
-[Continue to RiiTag](riitag)<br>
-RiiTag is a customizable gamertag for your Wii that USB Loader GX can integrate with. This is optional to set up.
-{: .notice--info}
 
 [Continue to site navigation](site-navigation)<br>
 We have many other tutorials that you might like.
