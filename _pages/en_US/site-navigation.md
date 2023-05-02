@@ -56,6 +56,7 @@ sitemap: false
 - [Installing Wii Menu Themes](themes)
 - [Installing Wii Menu Themes on vWii](themes-vwii)
 - [Managing GameCube Save Files](gcsaves)
+- [Nintendont](nintendont)
 - [Performing a SysCheck](syscheck)
 - [Removing RSSMii](rssmii-remove)
 - [RiiTag](riitag)
