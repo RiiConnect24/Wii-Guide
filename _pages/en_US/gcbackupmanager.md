@@ -28,8 +28,7 @@ Make sure your USB drive is formatted as FAT32. Do not format it as other types 
 
 ##### Section II - Copying Games Over
 
-1. Go to the `Drive 1` tab, then select `Drive`.
-2. Select the drive that you're using for the Wii games.
-3. Go to the `Files` tab, then select `Add`.
-4. Select `Files` to add multiple games to the program, or select `Folder` to add a whole folder of games.
-5. Select `Transfer`, then select `Drive 1` to transfer the games over. It might take a while for the games to copy over.
+1. Open the application and locate the folder button in the bottom right corner. Click on it to open the file explorer window.
+2. Navigate to the location of the game file you want to transfer. This could be on your computer's hard drive or an external storage device. Once you find the file, select it by clicking on it.
+3. Click on the Files (Destination) tab, then select the Inactive option from the dropdown menu. This will allow you to choose the drive where you want to transfer the game. Select the appropriate drive letter from the list.
+4. Next, go back to the Files (Source) tab and click on the Install Game (1:1) option. This will begin the transfer process and ensure that the game is transferred in its original state. For best results, it's recommended to use this option.
