@@ -4,10 +4,10 @@ title: WiiLink Food Delivery Channel (Domino's) Guide
 
 {% include toc title="Inhaltsverzeichnis" %}
 
-If you need help for anything regarding this tutorial, please join [the WiiLink Discord server](https://discord.gg/wiilink).
+If you need help for anything regarding this tutorial, please join [the WiiLink Discord server](https://discord.gg/wiilink-750581992223146074).
 {: .notice--info}
 
-You no longer need to pay $1 to get and use Food Delivery Channel (Domino's). It's now completely *free*!
+You no longer need to pay $1 to get and use Food Delivery Channel (Domino's). It's now completely _free_!
 {: .notice--info}
 
 As this service places an order to Domino's Pizza, payment is required at the door. This is usually in the form of cash, although credit/debit card machines are possible if the delivery person has one.
@@ -21,10 +21,10 @@ You cannot use the default Dolphin NAND with this service. You must use your own
 
 #### What you need
 
-* Eine SD-Karte oder ein USB-Laufwerk
-* A Wii console with an active internet connection
-* A computer with an active internet connection
-* Ein Discord-Konto
+- Eine SD-Karte oder ein USB-Laufwerk
+- A Wii console with an active internet connection
+- A computer with an active internet connection
+- Ein Discord-Konto
 
 #### Anleitung
 
@@ -39,7 +39,7 @@ You cannot use the default Dolphin NAND with this service. You must use your own
 
 ##### Section II - Registering your Console ID
 
-1. After completing the setup process, go to the [**WiiLink Discord server**](https://discord.gg/WiiLink) to register your Wii's console ID.
+1. After completing the setup process, go to the [**WiiLink Discord server**](https://discord.gg/wiilink-750581992223146074) to register your Wii's console ID.
 2. Use the `Get Console ID` Homebrew app, that was given by the patcher, to retrieve your system's console ID.
 3. Visit the `#dominos-chat` channel on the Discord server.
 4. Type the command `/dominos <your console ID>` in the chat, replacing `<your console ID>` with your actual console ID. Make sure the ID is in the parameter box, otherwise the command will not work and will be posted publicly on the channel.
@@ -93,7 +93,7 @@ If you have previously placed an order, skip to step 4.
 7. Review your order throughly before placing the order. When you are ready, click the big green `Order` button.<br><br> ![Before Order](/images/Demae-Dominos/order.png)<br><br>
 8. If no error appeared, your order was placed successfully! To track your order, simply visit the Domino's Tracker for your region and enter the phone number you entered in the Address Information menu.
 
-***Happy ordering!***
+**_Happy ordering!_**
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
