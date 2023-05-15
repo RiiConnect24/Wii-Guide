@@ -9,8 +9,9 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
 
-[please.hackmii.com](https://please.hackmii.com/) is currently down. https://techchrism.github.io/letterbomb-web/ must be used at the moment.
-{: .notice-info}
+[please.hackmii.com](https://please.hackmii.com/) is currently down. [techchrism.github.io/letterbomb-web/](https://techchrism.github.io/letterbomb-web/) must be used at the moment.
+{: .notice--info}
+
 #### What you need
 - An SD card that is no more than 32GB in size
 - A Wii on System Menu version 4.3
@@ -30,10 +31,6 @@ LetterBomb is an exploit for the Wii that is triggered using the Wii Message Boa
    - In various scenarios, you may need to look at the previous or next day to find it.
    - If you don't see the red letter, you may be using an unsupported SD card that's greater than 32GB in size.
    - If your Wii freezes after clicking on the letter, you probably chose the wrong region when downloading the exploit. Redo Step 2 and select the correct region.
-
-
-{: .notice--warning}
-
 
 ![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
 
