@@ -45,7 +45,7 @@ Unlike LetterBomb, Wilbrand supports Wii menu versions down to 3.0.
 1. On your Wii, return to the Wii Menu and then open the Wii Message Board.
 1. Load the green letter with Bob-Omb icon.
    - Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
-   - In various scenarios, you may need to look at the previous or next day to find it.
+   - You will have to go forwards and backwards once to see the mail. In some cases it may be on the previous day.
    - If you don't see the green letter, there may be an issue with the SD card format or the Wii's reader; do any errors appear in the SD card sections in Data Management?
 ![Wilbrand in it's natural habitat](/images/wilbrand/msgboard.png)
 
