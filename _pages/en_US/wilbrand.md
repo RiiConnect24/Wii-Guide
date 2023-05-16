@@ -29,7 +29,7 @@ Unlike LetterBomb, Wilbrand supports Wii menu versions down to 3.0.
 	- on Windows:
 	`.\Wilbrand.exe AA-BB-CC-DD-EE-FF MM/DD/YYYY VERSION X:`
 	- X: is the drive letter of your SD card.
-![running Wilbrand on Windows](/images/wilbrand/windows)
+![running Wilbrand on Windows](/images/wilbrand/windows.png)
 
 	- on Linux/MacOS:
 	`./Wilbrand AA-BB-CC-DD-EE-FF MM/DD/YYYY VERSION /media/mount_dir`
