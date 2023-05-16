@@ -9,7 +9,7 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
 
-[please.hackmii.com](https://please.hackmii.com/) is currently down. [techchrism.github.io/letterbomb-web/](https://techchrism.github.io/letterbomb-web/) must be used at the moment.
+[please.hackmii.com](https://please.hackmii.com/) is currently down. [letterbomb.techchrism.me](https://letterbomb.techchrism.me/) must be used at the moment.
 {: .notice--info}
 
 #### What you need
