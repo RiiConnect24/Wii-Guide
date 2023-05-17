@@ -43,9 +43,9 @@ Unlike LetterBomb, Wilbrand supports Wii menu versions down to 3.0.
 1. Take out your SD card and insert it in your Wii.
    - The SD card must be inserted in the SD card slot located in the front of the Wii. Using a USB adapter plugged into the Wii's USB port will not work.
 1. On your Wii, return to the Wii Menu and then open the Wii Message Board.
-1. Load the green letter with Bob-Omb icon.
+1. Load the green letter with the Bob-Omb icon.
    - Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
-   - You will have to go forwards and backwards once to see the mail. In some cases it may be on the previous day.
+   - The mail may have appeared on the previous or next day.
    - If you don't see the green letter, there may be an issue with the SD card format or the Wii's reader; do any errors appear in the SD card sections in Data Management?
 ![Wilbrand in it's natural habitat](/images/wilbrand/msgboard.png)
 
