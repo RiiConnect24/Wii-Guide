@@ -38,16 +38,15 @@ Unlike LetterBomb, Wilbrand supports Wii menu versions down to 3.0.
     ![running Wilbrand on Linux](/images/wilbrand/linux.png)
 
 1.  Extract the HackMii Installer v1.2 to a folder on your PC.
-    - You may also simply open the zip in your archive manager.
-1.  Locate the boot.elf file, and put it on your SD card.
-    - Do not put it inside any other folder.
+    - You may also simply open the zip file in your archive manager.
+1.  Locate the `boot.elf` file, and put it on the root of your SD card.
 1.  Take out your SD card and insert it in your Wii.
     - The SD card must be inserted in the SD card slot located in the front of the Wii. Using a USB adapter plugged into the Wii's USB port will not work.
 1.  On your Wii, return to the Wii Menu and then open the Wii Message Board.
-1.  Load the green letter with the Bob-Omb icon.
+1.  Load the green letter with the Bob-omb icon.
     - Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
     - The mail may have appeared on the previous or next day.
-    - If you don't see the green letter, there may be an issue with the SD card format or the Wii's reader; do any errors appear in the SD card sections in Data Management?
+    - If you don't see the green letter, check if any errors appear in the SD card sections in `Data Management`. If any do, there may be an issue with the SD card format or the Wii's SD card reader;.
       ![Wilbrand in its natural habitat](/images/wilbrand/msgboard.png)
 
 [Continue to Homebrew Channel and BootMii Installation](hbc)
