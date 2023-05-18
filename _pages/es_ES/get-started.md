@@ -30,8 +30,12 @@ These exploits are sorted by easiest to hardest difficulty of use.
     * Requires an Internet connection and changing the DNS server
 - [LetterBomb](letterbomb) - Exploit que usa el tablón de Wii.
     * Requires an SD card
-- [FlashHax](flashhax) - Exploit que usa el Canal Internet
+    * Must be on version 4.3
+- [Wilbrand](wilbrand) - Exploit that also uses the Wii Message Board
+    * Requires an SD card and a PC
+    * Works on versions 3.0 - 4.3
+- [FlashHax](flashhax) - Exploit that uses the Internet Channel
     * Requires the Internet Channel installed, and an Internet connection
-- [BlueBomb](bluebomb) - Exploit que usa Bluetooth
+- [BlueBomb](bluebomb) - Exploit that uses Bluetooth
     * Requires a computer with Bluetooth and GNU/Linux, as well as a USB storage device
-    * Este es el único exploit que funciona en el **Wii Mini**
+    * This is the only exploit that works on the **Wii mini**
