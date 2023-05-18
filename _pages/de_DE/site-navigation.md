@@ -46,6 +46,7 @@ sitemap: false
 - [Priiloader](priiloader)
 - [str2hax](str2hax)
 - [Wii Mod Lite](wiimodlite)
+- [Wilbrand](wilbrand)
 
 **Homebrew**
 
