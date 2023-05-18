@@ -30,8 +30,12 @@ title: "新手入門"
     * 需要連接至網際網路以及更改 DNS 伺服器
 - [LetterBomb](letterbomb) - 利用 Wii 留言板的漏洞
     * 需要 SD 卡
-- [FlashHax](flashhax) - 利用瀏覽器頻道 (Internet Channel) 的漏洞
-    * 需要安裝 Internet Channel 和網際網路
-- [BlueBomb](bluebomb) - 利用藍牙的漏洞
-    * 需要一台帶藍牙和 GNU/Linux 的電腦，以及一個 USB 隨身碟
-    * 這是唯一適用於 **Wii mini** 的漏洞
+    * Must be on version 4.3
+- [Wilbrand](wilbrand) - Exploit that also uses the Wii Message Board
+    * Requires an SD card and a PC
+    * Works on versions 3.0 - 4.3
+- [FlashHax](flashhax) - Exploit that uses the Internet Channel
+    * Requires the Internet Channel installed, and an Internet connection
+- [BlueBomb](bluebomb) - Exploit that uses Bluetooth
+    * Requires a computer with Bluetooth and GNU/Linux, as well as a USB storage device
+    * This is the only exploit that works on the **Wii mini**
