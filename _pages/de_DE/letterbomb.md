@@ -9,7 +9,7 @@ Solltest du hinsichtlich dieses Tutorials Hilfe benötigen, trete bitte dem [Rii
 
 LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
 
-[please.hackmii.com](https://please.hackmii.com/) is currently down. [techchrism.github.io/letterbomb-web/](https://techchrism.github.io/letterbomb-web/) must be used at the moment.
+[please.hackmii.com](https://please.hackmii.com/) is currently down. [letterbomb.techchrism.me](https://letterbomb.techchrism.me/) must be used at the moment.
 {: .notice--info}
 
 #### What you need
@@ -20,7 +20,7 @@ LetterBomb is an exploit for the Wii that is triggered using the Wii Message Boa
 
 
 1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
-1. Visit [the LetterBomb page](https://techchrism.github.io/letterbomb-web/), input your Wii MAC and region, complete the CAPTCHA, ensure `Bundle HackMii Installer` is checked, and click `Download ZIP`. ![HackMii Screen](/images/letterbomb-web.png)
+1. Visit [the LetterBomb page](https://letterbomb.techchrism.me/), input your Wii MAC and region, ensure `Bundle HackMii Installer` is checked, and click `Download ZIP`. ![HackMii Screen](/images/letterbomb-web.png)
 1. Extract the contents of the downloaded ZIP to the root of your SD card.
 1. Take out your SD card and insert it in your Wii.
    - The SD card must be inserted in the SD card slot located in the front of the Wii. Using a USB adapter plugged into the Wii's USB port will not work.
