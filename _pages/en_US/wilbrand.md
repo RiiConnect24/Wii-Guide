@@ -34,6 +34,7 @@ Unlike LetterBomb, Wilbrand supports Wii menu versions down to 3.0.
     ![running Wilbrand on Windows](/images/wilbrand/windows.png)
 
 - Linux/MacOS: `./Wilbrand AA-BB-CC-DD-EE-FF MM/DD/YYYY VERSION /media/mount_dir`
+  - Use `cd` to enter the directory Wilbrand was extracted to first, eg. `cd ~/Desktop/Wilbrand`
   - `/media/mount_dir` is the folder your SD card is mounted in. This may vary depending on your Linux distro.
     ![running Wilbrand on Linux](/images/wilbrand/linux.png)
 
