@@ -13,7 +13,7 @@ LetterBomb es un exploit para el Wii que se activa mediante el tablón de Wii.
 {: .notice--info}
 
 #### Requisitos
-- An SD card that is no more than 32GB in size
+- An SD card formatted to FAT32/MS-DOS
 - Una Wii con la versión del sistema 4.3
 
 #### Instrucciones
