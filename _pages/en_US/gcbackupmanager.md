@@ -32,11 +32,10 @@ Make sure your USB drive is formatted as FAT32. Do not format it as other types 
 1. Open the application and locate the folder button in the bottom right corner. Click on it to open the file explorer window.
 2. Navigate to the location of the game file you want to transfer. This could be on your computer's hard drive or an external storage device. Once you find the file, select it by clicking on it.
 3. Click on the `Files (Destination)` tab, then select the `Inactive` option from the dropdown menu. This will allow you to choose the drive where you want to transfer the game. Select the appropriate drive letter from the list.
-4. Next, go back to the `Files (Source)` tab, select the game you want to transfer, and then click either `Install Game (1:1)` or `Install Game (Scrub)`.
+4. Next, go back to the `Files (Source)` tab, then select the Game you want to transfer, and click on the `Install Game (1:1)` or `Install Game (Scrub)` option. This will begin the transfer process and ensure that the game is transferred in its original state. For best results, it's recommended to use `Install Game (1:1)`.
 
-Selecting `Install Game (Scrub)` will remove unneccessary data from the game, reducing the game's file size.
-{: .notice--info}
+#### Options once complete
 
 [Continue to site navigation](site-navigation)<br>
-We have many other tutorials that you might like.
+We have many other tutorials that you might like
 {: .notice--info}
