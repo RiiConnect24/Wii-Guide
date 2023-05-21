@@ -91,9 +91,9 @@ If you dumped the disc on a FAT32 formatted, device, you should've got at least 
 
 ## Windows
 
-1. Copy all the files that share the same name and end with `.partX.iso` into a folder on your computer.
+1. Copy all the files that share the same name and end with `.partX.iso` into an empty folder on your computer.
 1. Open the folder in File Explorer.
-1. Hold Shift and right click on an empty space within the folder.
+1. While holding Shift, right click on an empty space within the folder.
 1. Select "Open PowerShell window here".
 1. In the new window that appears, type `cmd` and press enter.
 1. Finally, type `copy /b *.part?.iso game.iso` and press enter.
