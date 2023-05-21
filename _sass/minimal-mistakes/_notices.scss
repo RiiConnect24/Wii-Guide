@@ -11,18 +11,18 @@
  */
 
 @mixin notice($notice-color) {
-  margin: 2em 0 !important;  /* override*/
+  margin: 2em 0 !important; /* override */
   padding: 1em;
   font-family: $global-font-family;
   font-size: $type-size-6 !important;
-  text-indent: initial; /* override*/
+  text-indent: initial; /* override */
   font-weight: bold;
   background-color: mix($background-color, $notice-color, 45%);
   border-radius: $border-radius;
   box-shadow: 0 1px 1px rgba($notice-color, 0.25);
 
   h4 {
-    margin-top: 0 !important; /* override*/
+    margin-top: 0 !important; /* override */
     margin-bottom: 0.75em;
   }
 
@@ -34,7 +34,7 @@
 
   p {
     &:last-child {
-      margin-bottom: 0 !important; /* override*/
+      margin-bottom: 0 !important; /* override */
     }
   }
 
@@ -55,8 +55,12 @@
 
   ul {
     &:last-child {
-      margin-bottom: 0; /* override*/
+      margin-bottom: 0; /* override */
     }
+  }
+
+  img {
+    padding-top: 15px;
   }
 }
 
