@@ -14,3 +14,4 @@ node_modules
 npm-debug.log*
 /vendor
 /.idea
+Gemfile.lock
