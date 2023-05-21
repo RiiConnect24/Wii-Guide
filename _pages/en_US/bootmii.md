@@ -50,9 +50,8 @@ If you have BootMii installed as boot2 you will need to launch BootMii by restar
 
 6. To exit BootMii, press the Back button (the one with the arrow) and then you can press either the Wii Menu button or the Homebrew Channel button to exit where you want to. ![BootMii_Return_Arrow](/images/BootMii/BootMii_Return_Arrow.png)
 
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). This is useful in the unlikely case you brick your Wii.
+To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). This is useful in the unlikely case you brick your Wii. ![BootMii_Return_Arrow](/images/BootMii/BootMii_Red_Arrow.png)
 {: .notice--info}
-![BootMii_Return_Arrow](/images/BootMii/BootMii_Red_Arrow.png)
 
 To make sure you don’t lose the files, it's recommended to copy `nand.bin` and `keys.bin` from the root of your SD card to your computer. 
 {: .notice--info}
