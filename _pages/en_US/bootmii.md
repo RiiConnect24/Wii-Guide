@@ -25,7 +25,9 @@ One of BootMii's most important features is the ability to backup and restore yo
 If you have BootMii installed as boot2 you will need to launch BootMii by restarting the console. Skip steps 1 and 2 if this is the case.
 {: .notice--info}
 1. Launch the Homebrew Channel.
-2. Press the HOME Button, then select "Launch BootMii".
+
+2. Press the HOME Button, then select "Launch BootMii".![BootMii_Main](/images/BootMii/BootMii_Main.png)
+
 
     Navigating BootMii is not possible using a Wii Remote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1.
     To navigate between options, press POWER on your Wii (or left/right on the +Control Pad on a GameCube controller).
@@ -37,16 +39,20 @@ If you have BootMii installed as boot2 you will need to launch BootMii by restar
     Download [this zip file](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
     {: .notice--warning}
 
-3. Select the Options button (the icon with the gears).
-4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left).
+3. Select the Options button (the icon with the gears). ![BootMii_Gears_Icon](/images/BootMii/BootMii_Gears_Icon.png)
+
+4. Select the BackupMii button (the icon with the green arrow, aka the first icon on your left). ![BootMii_Green_Arrow](/images/BootMii/BootMii_Green_Arrow.png)
+
 - A NAND backup will start. You can watch the progress on the screen.
 - "Bad Blocks" are normal. Don't worry when you see some on a NAND backup.
-- After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii. Note that if you have a disc inserted in the disc drive, pressing EJECT will also eject the disc.
+- After this step, it will verify the backup. While it is recommended, it can be skipped by pressing the EJECT button on your Wii. Note that if you have a disc inserted in the disc drive, pressing EJECT will also eject the disc. ![BootMii_Return_Arrow](/images/BootMii/BootMii_NAND_Backup.png)
 5. When the backup is fully complete, exit the NAND backup screen by pressing any button.
-6. To exit BootMii, press the Back button (the one with the arrow) and then you can press either the Wii Menu button or the Homebrew Channel button to exit where you want to.
+
+6. To exit BootMii, press the Back button (the one with the arrow) and then you can press either the Wii Menu button or the Homebrew Channel button to exit where you want to. ![BootMii_Return_Arrow](/images/BootMii/BootMii_Return_Arrow.png)
 
 To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii (the icon with the red arrow, aka the second icon on your left). This is useful in the unlikely case you brick your Wii.
 {: .notice--info}
+![BootMii_Return_Arrow](/images/BootMii/BootMii_Red_Arrow.png)
 
 To make sure you don’t lose the files, it's recommended to copy `nand.bin` and `keys.bin` from the root of your SD card to your computer. 
 {: .notice--info}
