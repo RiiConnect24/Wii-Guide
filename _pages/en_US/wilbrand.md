@@ -47,7 +47,7 @@ Unlike LetterBomb, Wilbrand supports Wii menu versions down to 3.0.
 1.  Load the green letter with the Bob-omb icon.
     - Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
     - The mail may have appeared on the previous or next day.
-    - If you don't see the green letter, check if any errors appear in the SD card sections in `Data Management`. If any do, there may be an issue with the SD card format or the Wii's SD card reader;.
+    - If you don't see the green letter, check if any errors appear in the SD card sections in `Data Management`. If any do, there may be an issue with the SD card format or the Wii's SD card reader.
       ![Wilbrand in its natural habitat](/images/wilbrand/msgboard.png)
 
 [Continue to Homebrew Channel and BootMii Installation](hbc)
