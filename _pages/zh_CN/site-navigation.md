@@ -51,6 +51,7 @@ sitemap: false
 **Homebrew**
 
 - [Creating Wii Game Shortcuts](wiigsc)
+- [GameCube Backup Manager](gcbackupmanager)
 - [How to dump Channels (WADs)](dump-wads)
 - [How to dump GameCube/Wii Games](dump-games)
 - [Installing RSSMii](rssmii)
