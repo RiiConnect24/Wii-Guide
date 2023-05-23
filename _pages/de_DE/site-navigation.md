@@ -51,11 +51,12 @@ sitemap: false
 **Homebrew**
 
 - [Verknüpfungen für Wii-Spiele erstellen](wiigsc)
-- [Wie man Kanäle (WADs) sichert](dump-wads)
-- [Wie man GameCube/Wii-Spiele sichert](dump-games)
-- [RSSMii installieren](rssmii)
+- [GameCube Backup Manager](gcbackupmanager)
+- [How to dump Channels (WADs)](dump-wads)
+- [How to dump GameCube/Wii Games](dump-games)
+- [Installing RSSMii](rssmii)
 - [Wii-Menü-Designs installieren](themes)
-- [Wii-Menü-Designs auf vWii installieren](themes-vwii)
+- [Installing Wii Menu Themes on vWii](themes-vwii)
 - [Managing GameCube Save Files](gcsaves)
 - [Performing a SysCheck](syscheck)
 - [RSSMii entfernen](rssmii-remove)
