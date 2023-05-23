@@ -51,9 +51,10 @@ sitemap: false
 **Homebrew**
 
 - [Creación de accesos directos a juegos de Wii](wiigsc)
+- [GameCube Backup Manager](gcbackupmanager)
 - [How to dump Channels (WADs)](dump-wads)
 - [How to dump GameCube/Wii Games](dump-games)
-- [Instalando RSSMii](rssmii)
+- [Instalar RSSMii](rssmii)
 - [Instalar temas para el menú de Wii](themes)
 - [Installing Wii Menu Themes on vWii](themes-vwii)
 - [Managing GameCube Save Files](gcsaves)
