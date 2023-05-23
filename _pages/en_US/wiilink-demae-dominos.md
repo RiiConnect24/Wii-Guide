@@ -64,7 +64,7 @@ If you happen to get `Error -1022` when installing `Food Channel (Domino's) (Eng
 
 ##### Section IV - Setting your address information
 
-WiiLink never stores your personal data. For more information on what is used, read our [Privacy Policy](https://theoldnet.com/get?url=https%3A%2F%2Fdemae.wiilink24.com%2Fprivacypolicy&year=2022&scripts=false&decode=false). (Currently archived, as new page is being worked on)
+WiiLink never stores your personal data. For more information on what is used, read our [Privacy Policy](https://www.wiilink24.com/privacy-policy).
 {: .notice--info}
 
 You are responsible for entering your correct address information. Failure to do so may result in orders not succeeding.
