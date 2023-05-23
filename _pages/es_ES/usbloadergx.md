@@ -9,30 +9,33 @@ Si necesitas ayuda con cualquier cosa en este tutorial, por favor entras [el ser
 
 Esta es una guía de inicio rápido sobre cómo usar USB Loader GX, un popular cargador USB para Wii que se usa para jugar juegos desde una unidad USB.
 
+Despite its name, USB Loader GX is also capable of loading games from an SD Card.
+{: .notice--info}
+
 ![USB Loader GX](/images/usbloadergx.png)
 
 #### Requisitos
 
 * Un Wii
-* Una Unidad USB
+* A USB drive or SD Card
 * [USB Loader GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
 
-¡Asegúrate de haber instalado [cIOS](/cios) antes de continuar!
+Make sure you have installed [cIOS](/cios) before following this!
 {: .notice--info}
 
 We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux.
 {: .notice--info}
 
-If you want to play games that are in NKit format, use [this program](https://gbatemp.net/download/nkit.36157/) to convert them to ISO first. You can also use a development build of Dolphin, right click on a game, and use "Convert File" to convert it.
+If you want to play games that are in NKit format, use [this program](https://gbatemp.net/download/nkit.36157/) to convert them to ISO first.
 {: .notice--info}
 
 If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fusion, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
 {: .notice--info}
 
-Para jugar a juegos, te recomendamos usar un disco duro externo para tu Wii. Las unidades Flash también funcionan, pero se recomienda el uso de Discos duros externos, debido a que son mucho mas seguros, y pueden almacenar una mayor cantidad de juegos.
+To play games, we recommend using an external hard drive for your Wii. Flash drives are not recommended, and may have varying results even between the same product.
 {: .notice--info}
 
-Asegúrate de que tu unidad USB esté formateada como FAT32 o NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
+Make sure your USB drive is formatted as FAT32. Do not format it as other types such as exFAT or extFS. <br>You may format it as NTFS, but it doesn't work with a majority of apps like The Homebrew Channel and Nintendont.
 {: .notice--info}
 
 #### Instrucciones
