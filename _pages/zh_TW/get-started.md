@@ -16,7 +16,7 @@ title: "新手入門"
 儘管您可以在沒有 SD 卡的情況下按照本手冊進行操作，但是您將無法使用 BootMii 建立或還原 NAND 備份，並且您將無法使用一些自製軟體。
 {: .notice--info}
 
-如果您的 Wii 選單不是 4.3 版本，請使用 str2hax 或 FlashHax 安裝 Homebrew Channel，然後按照[更新指南](update)更新到 4.3。
+If your Wii Menu is not on version 4.3, use str2hax, Wilbrand or FlashHax to install the Homebrew Channel, and then follow the [update guide](update) to update to 4.3.
 {: .notice--info}
 
 本手冊僅適用於一般 Wii 和 Wii mini（包括 Wii 家庭版）。 請勿在 Wii U (vWii) 上遵循此手冊的步驟！ 如果您想在 Wii U 上安裝自製軟體，請[遵循此手冊](https://wiiu.hacks.guide)。
