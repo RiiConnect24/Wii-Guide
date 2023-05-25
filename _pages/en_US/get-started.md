@@ -1,6 +1,6 @@
 ---
 title: "Get Started"
---- 
+---
 
 {% include toc title="Table of Contents" %}
 
