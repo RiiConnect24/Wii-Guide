@@ -5,13 +5,12 @@ title: "Relaunching the HackMii Installer"
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-This guide is intended for situations where you need to relaunch the HackMii Installer to reinstall
-HBC or BootMii.
+This guide is intended for situations where you need to relaunch the HackMii Installer to reinstall the Homebrew Channel or BootMii.
 
 It is also safe to [redo any exploit](get-started) to get back into the HackMii Installer.
 {: .notice--info}
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'hbc')">using The Homebrew Channel</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'hbc')">Using the Homebrew Channel</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'priiloader')">Using Priiloader/Preloader</button>
 
 <div id="hbc" class="blanktabcontent" markdown="1">
@@ -33,17 +32,17 @@ It is also safe to [redo any exploit](get-started) to get back into the HackMii 
 
 <div id="priiloader" class="blanktabcontent" markdown="1">
 
-To check if your Wii has Priiloader, hold the RESET button while turning it on.  
+#### What you need
+- a Wii with Priiloader/Preloader installed
+- an SD card or USB drive formatted to FAT32/MS-DOS
+- [HackMii Installer v1.2](https://bootmii.org/download/)
 
+To check if your Wii has Priiloader, hold the RESET button while turning it on.
 ![Turn on](/images/Priiloader/on.jpg)
 ![Hold RESET](/images/Priiloader/reset.jpg)
 {: .notice--info}
 
 
-#### What you need
-- a Wii with Priiloader/Preloader installed
-- an SD card or USB drive formatted to FAT32/MS-DOS
-- [HackMii Installer v1.2](https://bootmii.org/download/)
 
 #### Instructions
 
