@@ -9,7 +9,6 @@ This guide is intended for situations where you need to relaunch the HackMii Ins
 HBC or BootMii.
 
 It is also safe to [redo any exploit](get-started) to get back into the HackMii Installer.
-
 {: .notice--info}
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'hbc')">using The Homebrew Channel</button>
