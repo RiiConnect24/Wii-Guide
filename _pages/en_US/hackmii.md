@@ -48,13 +48,12 @@ To check if your Wii has Priiloader, hold the RESET button while turning it on.
 ![Hold RESET](/images/Priiloader/reset.jpg)
 {: .notice--info}
 
-
-
 #### Instructions
 
 1. Insert your SD/USB into your PC.
 1. Extract the HackMii Installer v1.2 to the `apps` folder on your SD/USB.
   - If this folder does not exist, create it.
+1. Insert your SD/USB into your Wii.
 1. Enter Priiloader by holding the RESET button while turning on your Wii.
 1. Go to `Load/Install File`.
 1. Navigate to `hackmii_installer_v1.2` and press `1` to load it.
