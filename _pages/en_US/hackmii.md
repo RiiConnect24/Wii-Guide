@@ -2,23 +2,27 @@
 title: "Relaunching the HackMii Installer"
 ---
 
+{% include toc title="Table of Contents" %}
+
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-This guide is intended for situations where you need to relaunch the HackMii Installer to reinstall the Homebrew Channel or BootMii.
+This guide is intended for situations where you need to relaunch the HackMii Installer to update/reinstall the Homebrew Channel or BootMii.
 
 It is also safe to [redo any exploit](get-started) to get back into the HackMii Installer.
 {: .notice--info}
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'hbc')">Using the Homebrew Channel</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'priiloader')">Using Priiloader/Preloader</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'priiloader')">Using Priiloader</button>
 
 <div id="hbc" class="blanktabcontent" markdown="1">
 
+### Relaunching via the Homebrew Channel
+
 #### What you need
 
-- An SD card or USB drive formatted to FAT32/MS-DOS
 - The Homebrew Channel
+- An SD card or USB drive formatted to FAT32/MS-DOS
 - [HackMii Installer v1.2](https://bootmii.org/download/)
 
 #### Instructions
@@ -27,13 +31,15 @@ It is also safe to [redo any exploit](get-started) to get back into the HackMii 
 1. Extract the HackMii Installer v1.2 to the `apps` folder on your SD/USB.
   - If this folder does not exist, create it.
 1. Insert the SD/USB into your Wii, and launch the `hackmii_installer_v1.2` app from the Homebrew Channel.
-  - The app will not have any icon.
+  - The app will not have an icon.
 </div>
 
 <div id="priiloader" class="blanktabcontent" markdown="1">
 
+### Relaunching via Priiloader
+
 #### What you need
-- a Wii with Priiloader/Preloader installed
+- a Wii with Priiloader (or Preloader) installed
 - an SD card or USB drive formatted to FAT32/MS-DOS
 - [HackMii Installer v1.2](https://bootmii.org/download/)
 
