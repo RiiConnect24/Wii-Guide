@@ -48,6 +48,8 @@ Select `Files` to add multiple games to the program, or select `Folder` to add a
 1. Select `Transfer`, then select `Drive 1` to transfer the games over. It might take a while for the games to copy over.
 ![Transfer games](/images/WBM/transfer_todrive.png)
 
+## Downloading Wii Game Covers Offline
+
 {% include_relative WBM_pages.md %}
 
 ##### Options once complete

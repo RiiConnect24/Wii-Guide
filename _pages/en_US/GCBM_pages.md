@@ -4,6 +4,8 @@
 <!--  -->
 <div id="GCBM_usbloaderGX" class="blanktabcontent" markdown="1">
 
+## Downloading GameCube Game Covers Offline (USB Loader GX)
+
 #### What you need
 
 - A Wii
@@ -78,6 +80,8 @@ Congratulations! You have successfully obtained and displayed the game covers fo
 
 <!--  -->
 <div id="GCBM_wiiflow" class="blanktabcontent" markdown="1">
+
+## Downloading GameCube Game Covers Offline (WiiFlow)
 
 #### What you need
 

@@ -1,9 +1,9 @@
-## Downloading Wii Game Covers Offline
-
 <button class="tablinks btn btn--large btn--primary WBM" id="defaultOpen" onclick="openTab(event, 'WBM_usbloaderGX')">USB Loader GX</button>
 <button class="tablinks btn btn--large btn--info WBM" onclick="openTab(event, 'WBM_wiiflow')">WiiFlow</button>
 
 <div id="WBM_usbloaderGX" class="blanktabcontent" markdown="1">
+
+### Downloading Wii Game Covers Offline (USB Loader GX)
 
 #### What you need
 
@@ -57,6 +57,8 @@
 
 <!--  -->
 <div id="WBM_wiiflow" class="blanktabcontent" markdown="1">
+
+### Downloading Wii Game Covers Offline (WiiFlow)
 
 #### What you need
 
