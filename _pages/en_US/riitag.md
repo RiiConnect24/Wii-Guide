@@ -70,6 +70,17 @@ You need a Discord account for this to work.
 
 A Discord bot is used to read your rich presence and update your RiiTag accordingly. If you want to invite the bot to your server, [use this link](https://discord.com/oauth2/authorize?client_id=596108891071447052&scope=bot).
 
+###### Switch and 3DS
+
+RiiTag supports Switch and 3DS hardware.
+You need a Discord account for this to work.
+{: .notice--info}
+
+1. [Join the RiiConnect24 Discord server](https://discord.gg/rc24) if you aren't already in there.
+2. Follow the instructions on [NSO-RPC](https://github.com/MCMi460/NSO-RPC) for Switch and [3DS-RPC](https://github.com/MCMi460/3DS-RPC) for 3DS.
+3. If you're using NSO-RPC, make sure your Discord client is open (not the web-based client, the standalone application)
+4. Play a game and RiiTag will automatically update your tag when you play a game.
+
 ###### Configurable USB Loader
 
 We do not offer support for Configurable USB Loader, as it's outdated compared to USB Loader GX and WiiFlow Lite.
