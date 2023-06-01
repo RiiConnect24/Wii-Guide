@@ -36,9 +36,7 @@ sitemap: false
 **Modding 101**
 
 - [BlueBomb](bluebomb)
-
-* [BootMii Backup](bootmii)
-
+- [BootMii Backup](bootmii)
 - [cIOS](cios)
 - [Dos and Don'ts of Wii Modding](dosanddonts)
 - [FlashHax](flashhax)
@@ -48,15 +46,18 @@ sitemap: false
 - [Priiloader](priiloader)
 - [str2hax](str2hax)
 - [Wii Mod Lite](wiimodlite)
+- [Wilbrand](wilbrand)
 
 **Homebrew**
 
 - [Creating Wii Game Shortcuts](wiigsc)
+- [GameCube Backup Manager](gcbackupmanager)
 - [How to dump Channels (WADs)](dump-wads)
 - [How to dump GameCube/Wii Games](dump-games)
 - [Installing RSSMii](rssmii)
 - [Installing Wii Menu Themes](themes)
 - [Installing Wii Menu Themes on vWii](themes-vwii)
+- [Managing GameCube Save Files](gcsaves)
 - [Performing a SysCheck](syscheck)
 - [Removing RSSMii](rssmii-remove)
 - [RiiTag](riitag)

@@ -29,7 +29,7 @@ Your Wii must be modded in order to perform this. If it isn't, then it's best to
 To protect against bricks, [make sure you install Priiloader](priiloader). Also, install [BootMii](bootmii) (as Boot2 if you have an early Wii, otherwise IOS). Installing brick protection along with following the guide correctly should keep you safe from bricks. DO NOT CONTINUE UNTIL YOU HAVE INSTALLED PRIILOADER AND BOOTMII!
 {: .notice--danger}
 
-1. Extract the .zip file for NUS Downloader vWii and open the application.
+1. Extract the .zip file for NUS Downloader Wii and open the application.
 2. Go to `Database...` > `System` > `0000000100000002 - System Menu` and select the version corresponding to your region as shown in the table below.
 3. Make sure `Pack WAD` is checked.
 4. Press `Start NUS Download!`.

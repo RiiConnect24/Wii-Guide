@@ -4,35 +4,35 @@ title: "Wiimmfi"
 
 {% include toc title="Tabla de contenido" %}
 
-Si necesitas ayuda con cualquier cosa en este tutorial, por favor entras [el servidor Discord de RiiConnect24](https://discord.gg/rc24) (recomendado) o [envias un correo electronico a support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado), o envíanos un [correo electrónico](mailto:support@riiconnect24.net). Soporte disponible solo en inglés.
 {: .notice--info}
 
 ![Logotipo de Wiimmfi](/images/WiiWiimmfiLogo.jpg)
 
 [Wiimmfi](https://wiimmfi.de) es un servicio que reemplaza a la Conexión Wi-Fi de Nintendo. Ha sido desarrollado por Wiimm y Leseratte.
 
-If you get the error 23904 while connecting to Wiimmfi, then you are using an outdated patch.<br> Follow the steps below for the method you're using to connect to Wiimmfi again.<br> See [this page](https://wiimmfi.de/update) for more details.<br>
+Si recibes el código de error 23904 al intentar conectarte a Wiimmfi, significa que estás usando un parche desactualizado. <br>Por favor sigue nuevamente los pasos de abajo correspondientes método que estás usando para conectarte a Wiimmfi.<br> Revisa [esta página](https://wiimmfi.de/update) para mayor información.<br>
 {: .notice--warning}
 
-## Diferentes métodos para conectarse
+## Métodos de conexión
 
-There are lots of different methods to connect to Wiimmfi. Choose the one that fits your needs best.
+Existen diversas formas de conectarse a Wiimmfi. Elige el método que mejor se adapte a tus necesidades.
 
-### Parcheo automático desde el Canal Disco usando Priiloader
+### Parche automático desde el Canal Disco usando Priiloader
 
 #### Requisitos
 
-- Una Wii con Priiloader 0.9 o posterior instalado
+- Una Wii con Priiloader v0.9 o posterior instalado
 
-If you have an older version of Priiloader or don't have it installed, follow [this guide](priiloader) to update/install it.
+Si tienes una version anterior de Priiloader, o no lo tienes instalado, por favor sigue [este tutorial](priiloader) para actualizarlo o instalarlo.
 {: .notice--info}
 
 #### Instrucciones
 
-1. Sostén RESET cuando enciendas tu Wii (si tienes una Wii mini, conecta un teclado USB y sostén escape).
+1. Mantén oprimido el botón RESET a la vez que enciendes tu Wii (si usas una Wii mini, conecta un teclado USB y mantén pulsada la tecla ESC).
 2. Ve a `System Menu Hacks`.
-3. Make sure the `Wiimmfi patch v4` hack is enabled.
-4. Guarda cambios y sal.
+3. Asegúrate de que la opción `Wiimmfi patch v4` esté activada.
+4. Guarda los cambios y sal de Priiloader.
 
 If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
 {: .notice--warning}
@@ -176,7 +176,7 @@ Wiimm and Leseratte make a custom track distribution called "Wiimms MKW Fun", wh
 [ Continúe con RiiConnect24 ](riiconnect24) <br> RiiConnect24 le permite utilizar los servicios descontinuados de WiiConnect24, que incluyen Noticias, Pronóstico, Todos Votos, Nintendo y el Canal Check Mii Out, junto con Wii Mail. This is optional to install.
 {: .notice--info}
 
-[Continue to WiiLink](wiimmfi)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. This is optional to install.
+[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. This is optional to install.
 {: .notice--info}
 
 [Echa un vistazo a nuestras otras guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.

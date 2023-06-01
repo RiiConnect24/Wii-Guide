@@ -36,9 +36,7 @@ sitemap: false
 **Modificación 101**
 
 - [BlueBomb](bluebomb)
-
-* [Crear copia de seguridad de NAND con BootMii](bootmii)
-
+- [Crear copia de seguridad de NAND con BootMii](bootmii)
 - [Instalar cIOS d2x](cios)
 - [Dos and Don'ts of Wii Modding](dosanddonts)
 - [FlashHax](flashhax)
@@ -48,15 +46,18 @@ sitemap: false
 - [Priiloader](priiloader)
 - [str2hax](str2hax)
 - [Instalar WADs con Wii Mod Lite](wiimodlite)
+- [Wilbrand](wilbrand)
 
 **Homebrew**
 
 - [Creación de accesos directos a juegos de Wii](wiigsc)
+- [GameCube Backup Manager](gcbackupmanager)
 - [How to dump Channels (WADs)](dump-wads)
 - [How to dump GameCube/Wii Games](dump-games)
-- [Instalando RSSMii](rssmii)
+- [Instalar RSSMii](rssmii)
 - [Instalar temas para el menú de Wii](themes)
 - [Installing Wii Menu Themes on vWii](themes-vwii)
+- [Managing GameCube Save Files](gcsaves)
 - [Performing a SysCheck](syscheck)
 - [Desinstalar RSSMii](rssmii-remove)
 - [RiiTag](riitag)

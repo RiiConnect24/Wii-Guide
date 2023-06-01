@@ -13,9 +13,9 @@ Esta es una guía de inicio rápido sobre cómo usar USB Loader GX, un popular c
 
 #### Requisitos
 
-* Una consola Wii
-* Una unidad USB y/o tarjeta SD
-* [WiiFlow Lite](https://hbb1.oscwii.org/hbb/wiiflow/wiiflow.zip)
+- Una consola Wii
+- Una unidad USB y/o tarjeta SD
+- [WiiFlow Lite](https://hbb1.oscwii.org/hbb/wiiflow/wiiflow.zip)
 
 ¡Asegúrate de haber instalado [cIOS](/cios) antes de continuar!
 {: .notice--info}
@@ -32,10 +32,10 @@ If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fus
 Para jugar a juegos, te recomendamos usar un disco duro externo para tu Wii. Las unidades Flash también funcionan, pero se recomienda el uso de Discos duros externos, debido a que son mucho mas seguros, y pueden almacenar una mayor cantidad de juegos.
 {: .notice--info}
 
-Unlike USB Loader GX, WiiFlow can load games of an SD card.
+WiiFlow can load games from an SD card or a USB drive.
 {: .notice--info}
 
-Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
+Make sure your USB drive is formatted to either FAT32 or NTFS. FAT32 is the most ideal option as it supports both Wii and GameCube games unlike NTFS. Do not format it as other types such as exFAT, extFS, or WBFS.
 {: .notice--info}
 
 #### Instrucciones
@@ -50,38 +50,38 @@ Make sure your USB drive and/or SD card is formatted as FAT32 or NTFS. Do not fo
 This is not a full comprehensive guide on using WiiFlow. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow by using it.
 {: .notice--info}
 
-* Wiiflow esta configurado de forma predeterminada para encontrar juegos solo en la tarjeta SD. Esto puede ser cambiado entrando a "Settings", "Startup settings" y luego deshabilitar la opción "Mount SD Only".
-* Puede alternar entre ver los juegos de Wii, juegos de GameCube, canales de Wii, Plugins y Aplicaciones de Homebrew pulsando el segundo botón hasta el ultimo en la derecha.
-* Puede descargar el arte de las cajas de los juegos dirigiendose a "Settings" y luego "Download Covers y Banners"
+- Wiiflow esta configurado de forma predeterminada para encontrar juegos solo en la tarjeta SD. Esto puede ser cambiado entrando a "Settings", "Startup settings" y luego deshabilitar la opción "Mount SD Only".
+- Puede alternar entre ver los juegos de Wii, juegos de GameCube, canales de Wii, Plugins y Aplicaciones de Homebrew pulsando el segundo botón hasta el ultimo en la derecha.
+- Puede descargar el arte de las cajas de los juegos dirigiendose a "Settings" y luego "Download Covers y Banners"
 
 ##### Interfaz de usuario
 
 When WiiFlow detects games, they are displayed in flow view. When you click on a game you are given these options:
 
-* Estrella - Añade tus juegos a favoritos.
-* Librería - Añade el juego a 1 de 6 categorías de las que elijas.
-* Ajustes - Abre un menú de ajustes para específicamente el juego que seleccionaste. Cambiar estos ajustes solamente afectan al juego que seleccionaste previamente.
-* X - Borra un juego de la unidad USB o tarjeta SD
+- Estrella - Añade tus juegos a favoritos.
+- Librería - Añade el juego a 1 de 6 categorías de las que elijas.
+- Ajustes - Abre un menú de ajustes para específicamente el juego que seleccionaste. Cambiar estos ajustes solamente afectan al juego que seleccionaste previamente.
+- X - Borra un juego de la unidad USB o tarjeta SD
 
 When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
 
-* Librería - Mira los juegos que están ordenados en las categorías que elegiste para ellos.
-* Estrella - Mira los juegos que pusiste de favorito.
-* Ajustes - abre los ajustes de WiiFlow.
-* Tipo de juego - Cambia entre distintos tipos de aplicaciones/juegos. El logo cambia dependiendo en que tipo de juego seleccionaste.
-* Disco - Carga el juego que esta en la ranura para discos de la Wii.
-* Casa - Abrirá este menú. Este menú también puede abrirse oprimiendo el botón HOME.
+- Librería - Mira los juegos que están ordenados en las categorías que elegiste para ellos.
+- Estrella - Mira los juegos que pusiste de favorito.
+- Ajustes - abre los ajustes de WiiFlow.
+- Tipo de juego - Cambia entre distintos tipos de aplicaciones/juegos. El logo cambia dependiendo en que tipo de juego seleccionaste.
+- Disco - Carga el juego que esta en la ranura para discos de la Wii.
+- Casa - Abrirá este menú. Este menú también puede abrirse oprimiendo el botón HOME.
 
 ![WF_menu](images/WFmenu.png)
 
-* Ayuda - Muestra todos los controles que puedes usar en WiiFlow.
-* Recargar cache - Presiona esto cuando WiiFlow no esta detectando un juego nuevo en el dispositivo USB o tarjeta SD.
-* Explorador de archivos - Te permite iniciar juegos/aplicaciones desde cualquier lugar en tu dispositivo USB o tarjeta SD.
-* Seleccionar complementos - Te permite seleccionar complementos.
-* Créditos - Te muestra la gente que se esforzó y sudo trabajando en WiiFlow.
-* Apagar - Te permite ya sea apagar la Wii completamente, o en modo suspensión.
-* Salida - Te permite salir al Menú de Wii, HBC, neek2o, Priiloader y Bootmii.
-* Configuración - Abre el menú de configuración de WiiFlow
+- Ayuda - Muestra todos los controles que puedes usar en WiiFlow.
+- Recargar cache - Presiona esto cuando WiiFlow no esta detectando un juego nuevo en el dispositivo USB o tarjeta SD.
+- Explorador de archivos - Te permite iniciar juegos/aplicaciones desde cualquier lugar en tu dispositivo USB o tarjeta SD.
+- Seleccionar complementos - Te permite seleccionar complementos.
+- Créditos - Te muestra la gente que se esforzó y sudo trabajando en WiiFlow.
+- Apagar - Te permite ya sea apagar la Wii completamente, o en modo suspensión.
+- Salida - Te permite salir al Menú de Wii, HBC, neek2o, Priiloader y Bootmii.
+- Configuración - Abre el menú de configuración de WiiFlow
 
 ##### Opciones una vez terminado
 
