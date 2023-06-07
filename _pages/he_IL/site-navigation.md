@@ -43,7 +43,6 @@ sitemap: false
 - [Homebrew Browser](hbb)
 - [Homebrew Channel](hbc)
 - [LetterBomb](letterbomb)
-- [Nintendont](nintendont)
 - [Priiloader](priiloader)
 - [str2hax](str2hax)
 - [Wii Mod Lite](wiimodlite)
