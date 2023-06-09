@@ -137,7 +137,7 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 [Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
 {: .notice--info}
 
-[Echa un vistazo a nuestras otras guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 
 You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
