@@ -6,7 +6,7 @@ title: "d2xl cIOS for Wii mini (experimental)"
 
 This tutorial will tell you how to install Leseratte's d2xl Wii mini cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
 
-![d2x cIOS Installer](/images/cIOS.png)
+![d2x cIOS Installer](/images/cios/cIOS.png)
 
 This guide is only intended for Wii mini users. If you have a Wii, follow [this guide](cios) instead.
 {: .notice--warning}
