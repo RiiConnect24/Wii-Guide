@@ -6,7 +6,7 @@ title: "供Wii mini安装的d2xl cIOS （实验性功能）"
 
 这个教程将告诉你如何安装由Leseratte制作的d2xl Wii mini cIOS (自定义 IOS)。 如果你想使用USB Loader加载游戏，你就需要这个。 有一些自制软件使用cIOS会运作的更好。
 
-![d2x cIOS 安装程序](/images/cIOS.png)
+![d2x cIOS 安装程序](/images/cios/cIOS.png)
 
 此教程仅适用于Wii mini. 如果你使用的是Wii，请前往[这个教程](cios)。
 {: .notice--warning}
