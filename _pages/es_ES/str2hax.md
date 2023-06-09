@@ -39,7 +39,7 @@ Este exploit requiere que cambies tu configuración de DNS para poder conectarte
 ##### Sección II - Activando el exploit
 
 1. Ve hacia la sección `Internet`, selecciona `Documentos legales/Contacto` y elige `Sí`.
-2. Si en pantalla aparece un poni en un fondo azul, entonces todo ha salido bien. Espera de uno a dos minutos para que se active el exploit (debería tardar alrededor de 1 minuto y 25 segundos). El exploit descargará el HackMii Installer para que puedes empezar con la modificación de tu consola.
+2. Click on `Next` and then if you see a pony on the screen on a light blue background, you have set it up correctly. Espera de uno a dos minutos para que se active el exploit (debería tardar alrededor de 1 minuto y 25 segundos). El exploit descargará el HackMii Installer para que puedes empezar con la modificación de tu consola.
 
 Si el HackMii Installer no se carga y la consola se congela (si no puedes mover el cursor) o si han pasado más de dos minutos, por favor reinicia tu Wii y vuelve a ejecutar el exploit.
 
