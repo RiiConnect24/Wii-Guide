@@ -91,7 +91,7 @@ If you were unable to patch your nwc24msg.cfg correctly, please join [the RiiCon
 ##### Section IV - Connecting
 
 {% capture notice-1 %}
-Starting June 16th, 2022 the RiiConnect24 DNS changes.
+The old DNS server `164.132.44.106` has been deprecated as of `June 1st, 2023` and is no longer available to use.
 [Read more here](riiconnect24-dns-update).
 {% endcapture %}
 
@@ -119,10 +119,10 @@ You will now set your DNS to our servers. This is optional but it's recommended,
 It's common to get error FORE000006 on the Forecast Channel after installing RiiConnect24. If you get it, make sure your Wii's to the correct date and time, then wait no more than an hour and it may start working. [If you still get error FORE000006 or if you get NEWS000006, you will need to delete your SYSCONF with RC24-Clear-Tool](deleting-vffs).
 {: .notice--warning}
 
-You will get error 268503 when loading the Nintendo Channel. This is normal. You can bypass the error by pressing OK.
+If you get error 107245, then you have not installed the patched IOS. Make sure you install IOS31 and IOS80 with Wii Mod Lite, along with any other patched WADs.
 {: .notice--warning}
 
-If you get error 107245, then you have not installed the patched IOS. Make sure you install IOS31 and IOS80 with Wii Mod Lite, along with any other patched WADs.
+If you get error 220602 when loading the User Agreements, it means your Wii is still configured to use the old DNS server, which has been shut down on `June 1, 2023`. [Read more here.](riiconnect24-dns-update)
 {: .notice--warning}
 
 If you get error 107304 or you see Nintendo's User Agreement without RiiConnect24's logo, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
