@@ -12,7 +12,9 @@ Si necesitas ayuda para seguir los pasos de esta guía, por favor solicita ayuda
 Guide to installing [RiiConnect24](https://rc24.xyz) on vWii (Virtual Wii on Wii U).
 
 Since certain features found in the original Wii are not present in the vWii, we can only partially utilize RiiConnect24. See [what's currently working](#whats-currently-working) for details.
-{: .notice--warning}[RiiConnect24](https://rc24.xyz/) allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail.
+{: .notice--warning}
+
+[RiiConnect24](https://rc24.xyz/) te permite utilizar nuevamente el servicio WiiConnect24, que incluye el Canal Noticias, Tiempo, Opiniones, Miirame y Nintendo, además del intercambio de mensajes y otros contenidos entre amigos Wii (mejor conocido como correo Wii).
 
 {% capture notice-1 %}
 This guide is for vWii (Wii Mode on Wii U) only.
