@@ -9,7 +9,7 @@ Si necesitas ayuda para seguir los pasos de esta guía, por favor solicita ayuda
 
 Priiloader proporciona un nivel adicional de protección contra bricks a tu consola Wii. Se carga antes del menú de Wii (de ahí el nombre). La herramienta también te permite activar hacks para el menú de Wii, así como lanzar el Canal Homebrew, BootMii o cualquier homebrew rápidamente.
 
-![Priiloader](/images/priiloader/priiloader.jpg)
+![Priiloader](/images/Priiloader/priiloader.jpg)
 
 **No** instales Priiloader en una vWii (Modo Wii en una Wii U). Si lo haces, tu vWii dejará de funcionar.
 {: .notice--warning}
