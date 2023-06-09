@@ -95,5 +95,5 @@ If you have previously placed an order, skip to step 4.
 
 **_Happy ordering!_**
 
-[Echa un vistazo a nuestras otras guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
