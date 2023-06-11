@@ -55,7 +55,7 @@ To check if your Wii has Priiloader, hold the RESET button while turning it on.
 1. Insert your SD/USB into your Wii.
 1. Enter Priiloader by holding the RESET button while turning on your Wii.
 1. Go to `Load/Install File`.
-1. Navigate to `Hackmii_Installer_v1.2` and press `1` to load it.
+1. Navigate to `HackMii_Installer_v1.2` and press `1` to load it.
 
 </div>
 
