@@ -62,6 +62,9 @@ Select cIOS version: 65535
 
 ![Install cIOS 249](/images/cios/d2x_v11_248.png)
 
+If `d2x-v11-beta1` isn't showing up, try select the cIOS base first, then check again. This can also happen if your SD card is locked.
+{: .notice--info}
+
 1. Once set, press A twice to install.
 1. When done installing, press A to return, and set the options to the following:
 
