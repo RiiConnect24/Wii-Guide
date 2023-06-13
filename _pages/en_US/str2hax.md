@@ -8,7 +8,7 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 {: .notice--info}
 
 Note that if your ISP or networking environment prevents using custom DNS servers, str2hax will not work and you should [choose another exploit to use](get-started).
-{: .notice--info}
+{: .notice--warning}
 
 str2hax is an exploit for the Wii that is triggered by loading the Wii's End User License Agreement. It requires nothing but an Internet connection that lets you change the DNS on your Wii.
 
@@ -40,7 +40,7 @@ This exploit requires you to set your DNS in order to connect to a server that c
 ![str2hax DNS](/images/str2hax/dns.png)
 
 If there are 3 fields instead of 2 (like above), go back and make sure you are on the `Auto-Obtain DNS` page.
-{: .notice--info}
+{: .notice--warning}
 
 1. Select `Confirm`, then select `Save`.
 ![Save DNS](/images/RiiConnect24/Internet_10.png)
@@ -66,10 +66,10 @@ If there are 3 fields instead of 2 (like above), go back and make sure you are o
 ##### Common issues
 
 If you get the normal User Agreements, your ISP blocks the use of custom DNS. Please [use another exploit](get-started).
-{: .notice--info}
+{: .notice--warning}
 
 If the HackMii Installer doesn't load after more than 2 minutes, or you receive an error like `Hanging.` or `ERROR! if_config (ret = ...)`, please restart your Wii and try again.
-{: .notice--info}
+{: .notice--warning}
 
 If you have installed a mod like CTGP Revolution or Project+, str2hax may load that instead. If it does, restart your Wii and try again without your SD card inserted.
-{: .notice--info
+{: .notice--warning}
