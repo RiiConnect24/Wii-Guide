@@ -27,7 +27,8 @@ Ensure that if you are using an SD card, the lock switch is in the unlocked posi
 
 ##### Section I - Downloading
 
-If you have an Internet connection on your Wii, you may wish to skip this step. If you encounter any errors like `tcp_read timeout` and `net_gethostbyname failed:`, this will allow the Wii to skip the downloading step.
+If your Wii has an Internet connection, you may skip this step. <br/>
+However, If you encounter any errors like `tcp_read timeout` and `net_gethostbyname failed:`, this will allow the Wii to skip the downloading step.
 {: .notice--info}
 
 1. Download, extract, and run [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
@@ -35,7 +36,7 @@ If you have an Internet connection on your Wii, you may wish to skip this step. 
    - Ensure that "Pack WAD" is checked.
    - *Don't* check "Patch IOS". That is the cIOS Installer's job.
 1. Repeat the previous step for `IOS56 v5661`, `IOS57 v5918` and `IOS58 v6175`.
-1. Once you have downloaded all four IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. 
+1. Once you have downloaded all four IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. <br/>
    Open the folder and navigate through them until you locate the four WAD files you downloaded. Place each WAD file on the root of your SD card or USB drive.
   - This must be the same device containing the d2x cIOS Installer.
 
