@@ -6,7 +6,7 @@ title: "Instalar d2xl cIOS para Wii Mini"
 
 Esta guía te ayudará a instalar el d2xl cIOS de Leseratte para Wii Mini (IOS personalizado). Esto es necesario si deseas cargar juegos por medio de un USB Loader. Algunas aplicaciones homebrew pueden funcionar mejor usando cIOS.
 
-![Logotipo de d2x cIOS Installer](/images/cIOS.png)
+![Logotipo de d2x cIOS Installer](/images/cios/cIOS.png)
 
 Esta guía es solo para usuarios de Wii Mini. Si tienes una Wii, entonces sigue [esta guía](cios).
 {: .notice--warning}
@@ -55,5 +55,5 @@ Do not attempt to install a Wii IOS or System Menu on the Wii mini. Doing so wil
 You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: .notice--info}
 
-[Echa un vistazo a nuestras otras guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}

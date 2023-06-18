@@ -29,10 +29,20 @@ If you have an older version of Priiloader or don't have it installed, follow [t
 
 #### 步骤
 
-1. Hold reset while powering on your Wii (if using a Wii mini, plug in a USB keyboard and press escape).
-2. Go to `System Menu Hacks`.
-3. Make sure the `Wiimmfi patch v4` hack is enabled.
-4. Save settings and exit.
+1. Hold the RESET button while turning on your Wii.
+   - If you are using a Wii mini, plug in a USB keyboard and hold Escape on it while turning it on.
+
+![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
+
+2. You should see the Priiloader menu. ![Menu](/images/Priiloader/mainmenu.jpg)
+3. Go to `System Menu Hacks`.
+
+If you are using a USB drive to install Priiloader, make sure you do not have an SD card inserted at the same time. This will cause Priiloader to be unable to find the hacks_hash.ini file.
+{: .notice--info}
+
+4. Make sure the `Wiimmfi patch v4` hack is enabled. ![System Menu Hacks](/images/Priiloader/hacks.jpg)
+1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
+1. Scroll to `Homebrew Channel` and press A to launch it.
 
 If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
 {: .notice--warning}
@@ -55,13 +65,15 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 
 ### No-Homebrew (Disc)
 
+##### str2hax Method
+
 Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
 
-#### 你需要的是
+##### 你需要的是
 
 - A Wii with an Internet connection
 
-#### 步骤
+##### 步骤
 
 1. Insert your game disc.
 2. Go into your internet connection settings and set the DNS server of your console to 95.217.77.151.
@@ -70,6 +82,28 @@ Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for th
 5. The Wiimmfi patcher page should show up. If it doesn't, and you still see the default license agreement, your router might not be compatible with this method.
 6. Wait for about 1 minute and 30 seconds for the patcher to load
 7. The game should now start with the Wiimmfi patch included
+
+### DNS Method
+
+There's an easy method to patch games to use Wiimmfi that can be used whether or not you have homebrew on your Wii. It works on some games, such as Mario Kart Wii and Super Smash Bros. Brawl, but not every game.
+
+#### 步骤
+
+1. Go to `Wii Options`.
+2. Go to `Wii Settings`.
+3. Go to `Page 2`, then click on `Internet`.
+4. Go to `Connection Settings`.
+5. Select your current connection.
+6. Go to `Change Settings`.
+7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`.
+8. Type in `167.86.108.126` as the primary DNS.
+9. Type in `1.1.1.1` as the secondary DNS.
+10. Select `Confirm`, then select `Save`.
+11. Select `OK` to perform a connection test.
+12. If the connection test was successful, select `No` to skip the Wii System Update.
+
+If you get error 107304, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
+{: .notice--warning}
 
 ### Automatic patching using a USB Loader
 
@@ -148,7 +182,10 @@ Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks
 
 - A Wi-Fi network with WEP or no security
 
-Getting a Wi-Fi network with WEP or no security is the hardest part, because DS games don't support newer Wi-Fi security types (unless it's one of the few games that are "DSi Enhanced" and can use your Wi-Fi configuration on your DSi or 3DS, like Pokémon Black/White). However, many routers support creating a guest Wi-Fi connection, or you can make a hotspot on your phone or your computer. There are plenty of resources on the Internet that have information on this, so use your favorite search engine to find them.
+Getting a Wi-Fi network with WEP or no security is the hardest part, because DS games don't support newer Wi-Fi security types. However, many routers support creating a guest Wi-Fi connection, or you can make a hotspot on your phone or your computer. There are plenty of resources on the Internet that have information on this, so use your favorite search engine to find them.
+{: .notice--info}
+
+Some games are DSi enhanced which means you can play games online without having only WEP or no security on your router if you have a DSi or 3DS. Pokémon Black and Pokémon White are DSi enhanced. In order to make use of it, follow the instructions below via the DSi or 3DS Wi-Fi settings. Those are separate from the DS Wi-Fi settings.
 {: .notice--info}
 
 #### 步骤
@@ -158,6 +195,12 @@ Getting a Wi-Fi network with WEP or no security is the hardest part, because DS 
 3. Type in `167.86.108.126` as the primary DNS.
 4. Type in `1.1.1.1` as the secondary DNS.
 5. Save your connection settings and perform a connection test. If it's successful, then you're ready to play.
+
+If you get error 20110, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
+{: .notice--warning}
+
+You cannot use Sudomemo, which revives Flipnote Studio on the DSi, if you're using this DNS. If you want to use Sudomemo instead of playing games on Wiimmfi, you will have to set your primary DNS to `104.248.0.110` on Wi-Fi settings on your DSi or 3DS, not the DS Wi-Fi settings. Or you can use their [DNS-Server](https://github.com/Sudomemo/sudomemoDNS) program.
+{: .notice--warning}
 
 ### Mario Kart Wii Mods
 
