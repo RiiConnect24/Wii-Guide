@@ -1,5 +1,5 @@
 ---
-title: "GameCube Saves"
+title: "GameCube 存档"
 ---
 
 {% include toc title="Table of Contents" %}
