@@ -4,14 +4,14 @@ title: "GameCube Backup Manager"
 
 {% include toc title="Table of Contents" %}
 
-如果你需要有关本教程的任何帮助, 请加入[RiiConnect24 Discord服务器](https://discord.gg/rc24) (推荐)或 [发送电子邮件到 support@riiconnect24.net](mailto:support@riiconnect24.net)。
+如果你对本教程有任何问题或需要帮助，请加入 [RiiConnect24 Discord 服务器](https://discord.gg/rc24)（推荐）或 [发送电子邮件至 support@riiconnect24.net](mailto:support@riiconnect24.net) 与我们联系。
 {: .notice--info}
 
 GameCube Backup Manager is a convenient PC software that simplifies the process of transferring GameCube games to your USB drive or SD Card. It functions similar to the popular tool called [Wii Backup Manager](wiibackupmanager), allowing you to easily manage and organize your GameCube game backups. With this program, you can effortlessly copy your favorite GameCube games onto portable storage devices, making them readily accessible for future gaming sessions.
 
 #### 你需要的是
 
-- 一张SD卡或U盘
+- 一张SD卡或移动硬盘/U 盘
 - [GameCube Backup Manager](https://github.com/AxionDrak/GameCube-Backup-Manager/releases)
 
 To play multiple games, it is recommended to use an external hard drive for your Wii. Any external hard drive found on most modern marketplaces should work with your Wii.
@@ -37,5 +37,5 @@ Make sure your USB drive is formatted as FAT32. Do not format it as other types 
 Selecting `Install Game (Scrub)` will remove unneccessary data from the game, reducing the game's file size.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
 {: .notice--info}
