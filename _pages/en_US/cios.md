@@ -40,6 +40,9 @@ However, If you encounter any errors like `tcp_read timeout` and `net_gethostbyn
    Open the folder and navigate through them until you locate the four WAD files you downloaded. Place each WAD file on the root of your SD card or USB drive.
   - This must be the same device containing the d2x cIOS Installer.
 
+The WAD files should be on your SD card like this:
+![offline IOS files](/images/cios/d2x_offline_ios.png)
+{: .notice--info}
 ##### Section II - Installing
 
 1. Download the d2x cIOS installer and extract the zip to the root of your SD card or USB drive.
