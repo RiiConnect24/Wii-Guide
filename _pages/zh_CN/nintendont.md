@@ -11,8 +11,8 @@ This is a quick start guide on how to use Nintendont, a popular USB loader for t
 
 #### 你需要的是
 
-- A Wii
-- 一张SD卡或U盘
+- 一台 Wii
+- 一张 SD 卡或移动硬盘/U 盘
 - [Nintendont](https://hbb1.oscwii.org/hbb/Nintendont/Nintendont.zip)
 
 We recommend you copy games over with [GameCube Backup Manager](https://github.com/AxionDrak/GameCube-Backup-Manager/releases) if you use Windows.
@@ -30,7 +30,7 @@ Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as othe
 1.  Download Nintendont and extract it to the root of your SD card or USB drive.
 2.  Insert your SD card or USB drive into your Wii, and launch Nintendont from the Homebrew Channel.
 
-##### Getting Started
+##### 开始使用
 
 There is no "guide" to use Nintendont. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of Nintendont by using it.
 {: .notice--info}
