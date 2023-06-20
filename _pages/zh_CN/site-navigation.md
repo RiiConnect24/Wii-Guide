@@ -35,7 +35,7 @@ sitemap: false
 
 **Modding 101**
 
-- [蓝牙炸弹](bluebomb)
+- [BlueBomb](bluebomb)
 - [BootMii 备份](bootmii)
 - [cIOS](cios)
 - [Dos and Don'ts of Wii Modding](dosanddonts)
