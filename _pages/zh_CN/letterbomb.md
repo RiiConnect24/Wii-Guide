@@ -10,7 +10,7 @@ title: "LetterBomb"
 LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
 
 #### 你需要的是
-- An SD card formatted to FAT32/MS-DOS
+- 格式化为 FAT32/MS-DOS 的 SD 卡
 - A Wii on System Menu version 4.3
 
 #### 步骤
@@ -29,5 +29,5 @@ LetterBomb is an exploit for the Wii that is triggered using the Wii Message Boa
 
 ![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[继续到 安装Homebrew Channel和BootMii](hbc)
 {: .notice--info}
