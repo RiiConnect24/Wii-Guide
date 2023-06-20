@@ -45,7 +45,7 @@ Make sure your USB drive is formatted as FAT32. Do not format it as other types 
 1. Extract USB Loader GX and put it in the `apps` folder on your USB drive or SD card.
 2. Insert your USB drive, and SD card if you're using one, into your Wii and launch USB Loader GX from the Homebrew Channel.
 
-##### Getting Started
+##### 开始使用
 
 There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
 {: .notice--info}
