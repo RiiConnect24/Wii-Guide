@@ -36,7 +36,7 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 2. Place the `.gci` file in a folder called `MCBACKUP` on the root of the SD card or USB drive.
 3. Insert your SD card or USB drive into your Wii and launch GCMM from the Homebrew Channel.
 
-##### Restoring
+##### 恢复
 
 1. Insert your physical memory card into Slot A or Slot B.
 2. Select the device you want to restore from. ![Device](/images/gcsaves/gcmm-select-device.jpg)
@@ -130,5 +130,5 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 
 3. Find the save you want, select it and select `Move or Copy`.
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
 {: .notice--info}
