@@ -131,8 +131,8 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 [Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. 这是可选项。
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
 {: .notice--info}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
+你现在可以使用一些自制软件，例如 [USB Loader GX](usbloadergx) 和 [WiiFlow](wiiflow)。
 {: .notice--info}
