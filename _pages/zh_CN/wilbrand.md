@@ -28,7 +28,7 @@ Unlike LetterBomb, Wilbrand supports Wii menu versions down to 3.0.
 1.  Open a terminal inside the folder Wilbrand was extracted to.
 1.  Using your Wii's version and MAC address, run the following command:
 
-- Windows: `.\Wilbrand.exe AA-BB-CC-DD-EE-FF MM/DD/YYYY VERSION X:`
+- Windows：`.\Wilbrand.exe AA-BB-CC-DD-EE-FF MM/DD/YYYY VERSION X:`
 
   - `X:` is the drive letter of your SD card. ![running Wilbrand on Windows](/images/wilbrand/windows.png)
 
