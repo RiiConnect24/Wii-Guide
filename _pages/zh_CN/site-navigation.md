@@ -4,7 +4,7 @@ layout: single
 sitemap: false
 ---
 
-![WiiTutorials](/images/WiiTutorials.jpg)
+![Wii教程](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
 **特色文章**
@@ -70,14 +70,14 @@ sitemap: false
 
 **Wii mini**
 
-- [Installing the Homebrew Channel on the Wii mini](hbc-mini)
-- [Installing cIOS on the Wii mini](cios-mini)
+- [在 Wii mini 上安装 Homebrew Channel](hbc-mini)
+- [在 Wii mini 上安装 cIOS](cios-mini)
 
-**Site**
+**站点**
 
-- [Home](/)
-- [Get Started](get-started)
+- [主页](/)
+- [开始](get-started)
 - [FAQ](faq)
-- [Donations](donations)
+- [捐赠](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
