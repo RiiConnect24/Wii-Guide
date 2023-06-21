@@ -31,7 +31,7 @@ Previously, UTag allowed using other custom firmware (often abbreviated as CFW),
 5. Click `Show Key` and make note of the key shown. This will be used later on in this guide.
 6. Click `Submit` to save your changes.
 
-Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
+Do not share your RiiTag key with anyone! 如果您这样做，他人可能会滥用您的标签。
 {: .notice--warning}
 
 ##### Section II - Setting things up on the SD card
@@ -47,5 +47,5 @@ You don't need to manually run the plugin - just run Aroma and it will automatic
 You have now set up RiiTag on your Wii U! Now go play some games, and watch them show up on your RiiTag!
 {: .notice--success}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
 {: .notice--info}
