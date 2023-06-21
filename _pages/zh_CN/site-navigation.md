@@ -1,5 +1,5 @@
 ---
-title: "Site Navigation"
+title: "网站导览"
 layout: single
 sitemap: false
 ---
@@ -7,7 +7,7 @@ sitemap: false
 ![WiiTutorials](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
-**Featured**
+**特色文章**
 
 - [cIOS](cios)
 - [Kirby TV Channel](kirby-tv)
@@ -18,27 +18,27 @@ sitemap: false
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
 {% capture notice-2 %}
-**RiiConnect24, WiiLink, and Wiimmfi**
+**RiiConnect24、WiiLink 和 Wiimmfi**
 
 - [RiiConnect24](riiconnect24)
 - [RiiConnect24 vWii](riiconnect24-vwii)
 - [RiiConnect24 Dolphin](riiconnect24-dolphin)
-- [RiiConnect24 DNS Update](riiconnect24-dns-update)
+- [RiiConnect24 DNS 更新](riiconnect24-dns-update)
 - [WiiLink](wiilink)
 - [WiiLink Demae Domino's](wiilink-demae-dominos)
 - [Wiimmfi](wiimmfi)
 - [Kirby TV Channel](kirby-tv)
 - [WiiWare Patcher](wiiwarepatcher)
-- [Deleting VFFs](deleting-vffs)
-- [Fixing FORE000006](riiconnect24-batteryfix)
-- [Fixing NEWS000006](news000006)
+- [删除 VFF](deleting-vffs)
+- [修复 FORE000006](riiconnect24-batteryfix)
+- [修复 NEWS000006](news000006)
 
-**Modding 101**
+**破解101**
 
 - [BlueBomb](bluebomb)
 - [BootMii 备份](bootmii)
 - [cIOS](cios)
-- [Dos and Don'ts of Wii Modding](dosanddonts)
+- [Wii破解的注意事项](dosanddonts)
 - [FlashHax](flashhax)
 - [Homebrew Browser](hbb)
 - [Homebrew Channel](hbc)
@@ -48,21 +48,21 @@ sitemap: false
 - [Wii Mod Lite](wiimodlite)
 - [Wilbrand](wilbrand)
 
-**Homebrew**
+**Homebrew 自制软件**
 
-- [Creating Wii Game Shortcuts](wiigsc)
+- [制作 Wii 游戏的快捷方式](wiigsc)
 - [GameCube Backup Manager](gcbackupmanager)
-- [How to dump Channels (WADs)](dump-wads)
-- [How to dump GameCube/Wii Games](dump-games)
-- [Installing RSSMii](rssmii)
-- [Installing Wii Menu Themes](themes)
-- [Installing Wii Menu Themes on vWii](themes-vwii)
-- [Managing GameCube Save Files](gcsaves)
+- [如何转存频道（WAD）](dump-wads)
+- [如何转存 GameCube/Wii 游戏](dump-games)
+- [安装 RSSMii](rssmii)
+- [安装 Wii 菜单主题](themes)
+- [在 vWii 上安装 Wii 菜单主题](themes-vwii)
+- [管理 GameCube 存档文件](gcsaves)
 - [Nintendont](nintendont)
-- [Performing a SysCheck](syscheck)
-- [Removing RSSMii](rssmii-remove)
+- [执行 SysCheck](syscheck)
+- [卸载 RSSMii](rssmii-remove)
 - [RiiTag](riitag)
-- [Setting RTC Time](rtc)
+- [设置 RTC 时间](rtc)
 - [更新 Wii 菜单至 v4.3](update)
 - [USB Loader GX](usbloadergx)
 - [Wii Backup Manager](wiibackupmanager)
