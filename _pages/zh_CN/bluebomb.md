@@ -21,7 +21,7 @@ BlueBomb是一种利用Wii和Wii Mini的蓝牙库中漏洞的破解程序。 尽
 - 一台搭载了Linux的电脑
   - 虚拟机可能会工作，但不推荐，因为它在蓝牙直通方面很复杂。 如果可以，请使用下面描述的LiveUSB.
   - 你可以使用一台树莓派，因为它很可能已经安装了Linux.
-  - Windows Subsystem for Linux or a Chromebook running Linux mode will *not work* as they don't have direct access to the Bluetooth adapter or USB ports.
+  - 适用于Linux的Windows子系统 或 Chromebook 的 Linux 模式将 *无法正常工作*，因为它们无法直接访问蓝牙适配器或 USB 接口。
   - 如果您还没有安装Linux, [Ubuntu](https://ubuntu.com/download/desktop) 是最友好的选择，而且可以在运行Windows或Mac的电脑上运行。
     - 32位设备需要[Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
     - 64位设备建议使用LTS，因为它最稳定，但最新版本也会正常工作。
