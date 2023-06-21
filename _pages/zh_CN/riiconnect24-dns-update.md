@@ -1,5 +1,5 @@
 ---
-title: "RiiConnect24 DNS Update"
+title: "RiiConnect24 DNS 更新"
 ---
 
 If you need help with anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
