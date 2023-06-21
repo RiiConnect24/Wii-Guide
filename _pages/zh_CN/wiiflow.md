@@ -45,7 +45,7 @@ Make sure your USB drive is formatted to either FAT32 or NTFS. FAT32 is the most
 1. Extract WiiFlow and put the `apps` and `WiiFlow` folders on your USB drive or SD card.
 2. Insert your USB drive, and SD card if you're using one, into your Wii and launch WiiFlow from the Homebrew Channel.
 
-##### Getting Started
+##### 开始使用
 
 This is not a full comprehensive guide on using WiiFlow. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow by using it.
 {: .notice--info}
@@ -91,5 +91,5 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 [Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that WiiFlow Lite can integrate with. This is optional to set up.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
 {: .notice--info}
