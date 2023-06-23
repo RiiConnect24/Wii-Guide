@@ -38,7 +38,7 @@ If your Wii has an Internet connection, you may skip this step. <br/> However, I
 1. Once you have downloaded all four IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. <br/> Open the folder and navigate through them until you locate the four WAD files you downloaded. Place each WAD file on the root of your SD card or USB drive.
   - This must be the same device containing the d2x cIOS Installer.
 
-应该以这种方式将 WAD 文件放在您的 SD 卡上： ![offline IOS files](/images/cios/d2x_offline_ios.png)
+应该以这种方式将 WAD 文件放在您的 SD 卡上： ![离线 IOS 文件](/images/cios/d2x_offline_ios.png)
 {: .notice--info}
 ##### 第二章 - 安装
 
@@ -53,7 +53,7 @@ Select cIOS slot: 248
 Select cIOS version: 65535
 ```
 
-![Install cIOS 249](/images/cios/d2x_v11_248.png)
+![安装 cIOS 249](/images/cios/d2x_v11_248.png)
 
 If `d2x-v11-beta1` isn't showing up, try select the cIOS base first, then check again. This can also happen if your SD card is locked.
 {: .notice--info}
@@ -68,7 +68,7 @@ Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 
-![Install cIOS 250](/images/cios/d2x_v11_249.png)
+![安装 cIOS 250](/images/cios/d2x_v11_249.png)
 
 1. 设置完成后，按2次A安装。
 1. 安装完成后，按A返回，并将选项设置为:
@@ -80,7 +80,7 @@ Select cIOS slot: 250
 Select cIOS version: 65535
 ```
 
-![Install cIOS 250](/images/cios/d2x_v11_250.png)
+![安装 cIOS 250](/images/cios/d2x_v11_250.png)
 
 1. 设置完成后，按2次A安装。
 1. 安装完成后，按A返回，并将选项设置为:
@@ -92,7 +92,7 @@ Select cIOS slot: 251
 Select cIOS version: 65535
 ```
 
-![Install cIOS 251](/images/cios/d2x_v11_251.png)
+![安装 cIOS 251](/images/cios/d2x_v11_251.png)
 
 1. Once set, press A twice again to install, and then exit once done.
 
