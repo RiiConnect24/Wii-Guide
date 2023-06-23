@@ -38,7 +38,7 @@ If your Wii has an Internet connection, you may skip this step. <br/> However, I
 1. Once you have downloaded all four IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. <br/> Open the folder and navigate through them until you locate the four WAD files you downloaded. Place each WAD file on the root of your SD card or USB drive.
   - This must be the same device containing the d2x cIOS Installer.
 
-The WAD files should be on your SD card like this: ![offline IOS files](/images/cios/d2x_offline_ios.png)
+应该以这种方式将 WAD 文件放在您的 SD 卡上： ![offline IOS files](/images/cios/d2x_offline_ios.png)
 {: .notice--info}
 ##### 第二章 - 安装
 
