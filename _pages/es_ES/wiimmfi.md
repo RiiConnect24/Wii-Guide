@@ -11,7 +11,7 @@ Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayud
 
 [Wiimmfi](https://wiimmfi.de) es un servicio que reemplaza a la Conexión Wi-Fi de Nintendo. Ha sido desarrollado por Wiimm y Leseratte.
 
-Si recibes el código de error 23904 al intentar conectarte a Wiimmfi, significa que estás usando un parche desactualizado. <br>Por favor sigue nuevamente los pasos de abajo correspondientes método que estás usando para conectarte a Wiimmfi.<br> Revisa [esta página](https://wiimmfi.de/update) para mayor información.<br>
+Si recibes el código de error 23904 al intentar conectarte a Wiimmfi, significa que estás usando un parche desactualizado. <br>Por favor sigue nuevamente los pasos de abajo correspondientes al método que estás usando para conectarte a Wiimmfi.<br> Revisa [esta página](https://wiimmfi.de/update) para mayor información.<br>
 {: .notice--warning}
 
 ## Métodos de conexión
@@ -24,32 +24,32 @@ Existen diversas formas de conectarse a Wiimmfi. Elige el método que mejor se a
 
 - Una Wii con Priiloader v0.9 o posterior instalado
 
-Si tienes una version anterior de Priiloader, o no lo tienes instalado, por favor sigue [este tutorial](priiloader) para actualizarlo o instalarlo.
+Si tienes una version anterior de Priiloader, o no lo tienes instalado, por favor sigue [esta guía](priiloader) para actualizarlo o instalarlo.
 {: .notice--info}
 
 #### Instrucciones
 
-1. Sostén el botón RESET cuando enciendas tu Wii.
-   - If you are using a Wii mini, plug in a USB keyboard and hold Escape on it while turning it on.
+1. Enciende tu Wii a la vez que mantienes pulsado RESET.
+   - Si estás usando una Wii mini, conecta un teclado USB y mantén oprimida la tecla Escape cuando la enciendas.
 
 ![Encender](/images/Priiloader/on.jpg) ![Mantener RESET](/images/Priiloader/reset.jpg)
 
 2. Deberías ver el menú de Priiloader. ![Menú](/images/Priiloader/mainmenu.jpg)
 3. Ve a `System Menu Hacks`.
 
-If you are using a USB drive to install Priiloader, make sure you do not have an SD card inserted at the same time. This will cause Priiloader to be unable to find the hacks_hash.ini file.
+Si has usado una unidad USB para instalar Priiloader, asegúrate de que no tienes una tarjeta SD insertada al mismo tiempo. Esto causará que Priiloader no pueda encontrar el archivo `hacks_hash.ini`.
 {: .notice--info}
 
-4. Make sure the `Wiimmfi patch v4` hack is enabled. ![System Menu Hacks](/images/Priiloader/hacks.jpg)
-1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
-1. Scroll to `Homebrew Channel` and press A to launch it.
+4. Activa el hack llamado `Wiimmfi Patch v4`. ![System Menu Hacks](/images/Priiloader/hacks.jpg)
+1. Baja hasta la opción `Save Settings` y oprime A, luego pulsa B para volver al menú principal de Priiloader.
+1. En el menú principal, elige `System Menu` para salir al menú de Wii.
 
-If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
+Si el nombre del hack es `Wiimmfi Patch v2` o `Wiimmfi Patch v3`, significa que no tienes la última versión del archivo `hacks_hash.ini`.<br> Descárgalo desde [aquí](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) y colócalo en la carpeta `/apps/priiloader` en tu tarjeta SD o unidad USB, luego repite los pasos anteriores.
 {: .notice--warning}
 
-### Aplicación Hombrew para Discos
+### Aplicación homebrew para discos
 
-MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
+MrBean35000vr, creador de CTGP-R (un paquete de contenido para Mario Kart Wii), ha desarrollado una aplicación que te permite insertar un disco y parchear el juego de forma temporal para que se conecte a Wiimmfi, aunque deberás ejecutarla cada vez que inicies el juego.
 
 #### Requisitos
 
