@@ -39,10 +39,8 @@ You can always [install it at a later date](hackmii).
 ![BootMii SD card preparation](/images/hackmii/bootmii_install3.png)
 ![BootMii installation OK](/images/hackmii/bootmii_install_ok.png)
 1. Once done, select `Continue`.
-
-If you have the option to `Install BootMii as boot2`, please do so as well. This offers the best possible brick protection you can have.
-{: .notice--info}
-
+1. If you have the option to `Install BootMii as boot2`, please do so as well. This offers the best possible brick protection you can have. <br>
+Otherwise, skip this step.
 1. Select `Exit` to finally open the Homebrew Channel.
 
 
