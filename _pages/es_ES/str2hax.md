@@ -45,7 +45,7 @@ If there are 3 fields instead of 2 (like above), go back and make sure you are o
 1. Go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`.
 1. Click on `Next`. You should be greeted with the following screen: ![str2hax EULA page](/images/str2hax/EULA.png)
 1. Give the exploit 1-2 minutes to download (and don't press `I ACCEPT`/`I DO NOT ACCEPT`).
-1. Once the exploit downloads, you will see a few text screens, then a mess of colors, then finally, the HackMii Installer. ![HackMii Installer scam screen](/images/hackmii_scam.png)
+1. Once the exploit downloads, you will see a few text screens, then a mess of colors, then finally, the HackMii Installer. ![HackMii Installer scam screen](/images/hackmii/scam.png)
 
 [Continuar a la instalación del Canal Homebrew y BootMii](hbc)
 {: .notice--info}
