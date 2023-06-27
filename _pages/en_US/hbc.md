@@ -15,28 +15,36 @@ BootMii is a piece of software that can backup and restore your Wii's NAND stora
 #### Instructions
 
 1. You will see a scam warning screen. Wait 30 seconds for the text "Press 1 to continue" to appear, then press 1.
-![Scam Screen](/images/Wii/ScamScreen.png)
+![Scam Screen](/images/hackmii/scam.png)
+1. You will be presented with a test results screen. Select `Continue`.
+![Results](/images/hackmii/test_results.png)
 
-2. When at the HackMii installer, you are able to install the Homebrew Channel and BootMii.
-![Results](/images/Wii/Results.png)
+If BootMii says that it `can only be installed as an IOS`, that's normal.
+{: .notice--info}
 
-3. Press Continue, then select the Homebrew Channel, and press install.
-![Install the Homebrew Channel](/images/Wii/InstallHomebrewChannel.png)
+1. Select `Install the Homebrew Channel`.
+![Homebrew Channel installation](/images/hackmii/hbc_install.png)
+![Homebrew Channel installation OK](/images/hackmii/hbc_install_ok.png)
+1. Select `Continue` when finished.
+1. Once installed, select `Back`, then select `BootMii`.
+![BootMii](/images/hackmii/bootmii_install.png)
+1. Select `Install BootMii as IOS`.
 
-4. Press Continue when finished.
-![Success Installing the Homebrew Channel](/images/Wii/SuccessHBC.png)
-
-5. Once installed, press back and go to BootMii.
-6. If the main screen says you can install BootMii as boot2, do so. This offers the best possible brick protection you can have. Skip this step if the option doesn't show up, in that case your Wii is not one of the earlier models that supports it.
-7. Install BootMii as IOS, even if you already installed BootMii as boot2 in the previous step. If you couldn't install BootMii as boot2, this will still allow you to create a NAND backup.
-
-If you do not have an SD card, you cannot install nor use BootMii, and therefore will not be able to utilize any of the mentioned benefits.
-You can always install it at a later date.
+If you do not have an SD card, you cannot install nor use BootMii, and therefore will not be able to utilize any of the mentioned benefits. <br>
+You can always [install it at a later date](hackmii).
 {: .notice--warning}
 
-![BootMii Installation](/images/Wii/InstallBootMii.png)
+![BootMii installation](/images/hackmii/bootmii_install1.png)
+![BootMii SD card prompt](/images/hackmii/bootmii_install2.png)
+![BootMii SD card preparation](/images/hackmii/bootmii_install3.png)
+![BootMii installation OK](/images/hackmii/bootmii_install_ok.png)
+1. Once done, select `Continue`.
 
-8. Once done, select `Continue`, and then select `Exit` to go to the Homebrew Channel
+If you have the option to `Install BootMii as boot2`, please do so as well. This offers the best possible brick protection you can have.
+{: .notice--info}
+
+1. Select `Exit` to finally open the Homebrew Channel.
+
 
 #### Required Reading
 

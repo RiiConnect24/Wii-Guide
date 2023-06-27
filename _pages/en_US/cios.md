@@ -27,7 +27,7 @@ Ensure that if you are using an SD card, the lock switch is in the unlocked posi
 
 ##### Section I - Downloading
 
-If your Wii has an Internet connection, you may skip this step. <br/>
+If your Wii has an Internet connection, you may skip this section. <br/>
 However, If you encounter any errors like `tcp_read timeout` and `net_gethostbyname failed:`, this will allow the Wii to skip the downloading step.
 {: .notice--info}
 
