@@ -27,7 +27,7 @@ If BootMii says that it `can only be installed as an IOS`, that's normal.
 If you do not have an SD card, you cannot install nor use BootMii, and therefore will not be able to utilize any of the mentioned benefits. <br> You can always [install it at a later date](hackmii).
 {: .notice--warning}
 
-![BootMii installation](/images/hackmii/bootmii_install1.png) ![BootMii SD card prompt](/images/hackmii/bootmii_install2.png) ![BootMii SD card preparation](/images/hackmii/bootmii_install3.png) ![BootMii installation OK](/images/hackmii/bootmii_install_ok.png)
+![BootMii 安装](/images/hackmii/bootmii_install1.png) ![BootMii SD 卡提示](/images/hackmii/bootmii_install2.png) ![BootMii SD 卡准备](/images/hackmii/bootmii_install3.png) ![BootMii 安装完成](/images/hackmii/bootmii_install_ok.png)
 1. Once done, select `Continue`.
 1. If you have the option to `Install BootMii as boot2`, please do so as well. This offers the best possible brick protection you can have. <br> Otherwise, skip this step.
 1. Select `Exit` to finally open the Homebrew Channel.
