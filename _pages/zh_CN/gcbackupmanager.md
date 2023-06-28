@@ -34,7 +34,7 @@ Make sure your USB drive is formatted as FAT32. Do not format it as other types 
 3. Click on the `Files (Destination)` tab, then select the `Inactive` option from the dropdown menu. This will allow you to choose the drive where you want to transfer the game. Select the appropriate drive letter from the list.
 4. Next, go back to the `Files (Source)` tab, select the game you want to transfer, and then click either `Install Game (1:1)` or `Install Game (Scrub)`.
 
-Selecting `Install Game (Scrub)` will remove unneccessary data from the game, reducing the game's file size.
+Selecting `Install Game (Scrub)` will remove unnecessary data from the game, reducing the game's file size.
 {: .notice--info}
 
 [继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
