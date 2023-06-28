@@ -19,7 +19,7 @@ The Homebrew Channel is where you will go to launch homebrew applications. BootM
 If BootMii says that it `can only be installed as an IOS`, that's normal.
 {: .notice--info}
 
-1. Select `Install the Homebrew Channel`. ![Homebrew Channel installation](/images/hackmii/hbc_install.png) ![Homebrew Channel installation OK](/images/hackmii/hbc_install_ok.png)
+1. Select `Install the Homebrew Channel`. ![Homebrew Channel 安装](/images/hackmii/hbc_install.png) ![Homebrew Channel 安装成功](/images/hackmii/hbc_install_ok.png)
 1. Select `Continue` when finished.
 1. Once installed, select `Back`, then select `BootMii`. ![BootMii](/images/hackmii/bootmii_install.png)
 1. Select `Install BootMii as IOS`.
