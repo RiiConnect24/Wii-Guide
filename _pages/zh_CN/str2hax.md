@@ -14,7 +14,7 @@ str2hax is an exploit for the Wii that is triggered by loading the Wii's End Use
 
 #### 你需要的是
 
-* A Wii with an Internet connection
+* 一台有互联网连接的Wii
 
 #### 步骤
 
@@ -22,13 +22,13 @@ str2hax is an exploit for the Wii that is triggered by loading the Wii's End Use
 
 This exploit requires you to set your DNS in order to connect to a server that contains the exploit.
 
-1. Go to `Wii Options`. ![Wii Options](/images/RiiConnect24/Internet_1.png)
-1. Go to `Wii Settings`. ![Wii Settings](/images/RiiConnect24/Internet_2.png)
-1. Go to `Page 2`, then click on `Internet`. ![Internet](/images/RiiConnect24/Internet_3.png)
+1. 转到 `Wii Options（Wii 选项）`。 ![Wii Options](/images/RiiConnect24/Internet_1.png)
+1. 转到 `Wii Settings（Wii 设置）`。 ![Wii Settings](/images/RiiConnect24/Internet_2.png)
+1. 转到 `第 2 页`，然后点击 `Internet`。 ![Internet](/images/RiiConnect24/Internet_3.png)
 1. Go to `Connection Settings`. ![Connection Settings](/images/RiiConnect24/Internet_4.png)
 1. Select your current connection. ![Current Connection](/images/RiiConnect24/Internet_5.png)
 1. Go to `Change Settings`. ![Change Settings](/images/RiiConnect24/Internet_6.png)
-1. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`. ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
+1. 转到 `Auto-Obtain DNS（自动获取 DNS）`（不是 IP 地址），然后选择 `否`，然后选择 `Advanced Settings（高级设置）`。 ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
 1. Type in `18.188.135.9` as the Primary DNS. ![str2hax DNS](/images/str2hax/dns.png)
 
 If there are 3 fields instead of 2 (like above), go back and make sure you are on the `Auto-Obtain DNS` page.
@@ -36,7 +36,7 @@ If there are 3 fields instead of 2 (like above), go back and make sure you are o
 
 1. Select `Confirm`, then select `Save`. ![Save DNS](/images/RiiConnect24/Internet_10.png)
 1. Select `OK` to perform a connection test. ![Connection Test](/images/RiiConnect24/Internet_11.png) ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)
-   - If the connection test was successful, select `No` to skip the Wii System Update.
+   - 如果连接测试成功，请选择 `否` 以跳过 Wii 系统更新。
    - If it fails with error code `521xx`, please verify that you have entered the DNS correctly.
    - If it is still unsuccessful, please [use another exploit](get-started).
 
@@ -47,7 +47,7 @@ If there are 3 fields instead of 2 (like above), go back and make sure you are o
 1. Give the exploit 1-2 minutes to download (and don't press `I ACCEPT`/`I DO NOT ACCEPT`).
 1. Once the exploit downloads, you will see a few text screens, then a mess of colors, then finally, the HackMii Installer. ![HackMii Installer scam screen](/images/hackmii/scam.png)
 
-[继续到 安装Homebrew Channel和BootMii](hbc)
+[继续到 安装 Homebrew Channel 和 BootMii](hbc)
 {: .notice--info}
 
 ##### Common issues
