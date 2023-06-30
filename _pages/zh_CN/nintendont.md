@@ -25,7 +25,7 @@ Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as othe
 
 #### 步骤
 
-##### Downloading
+##### 下载
 
 1.  Download Nintendont and extract it to the root of your SD card or USB drive.
 2.  Insert your SD card or USB drive into your Wii, and launch Nintendont from the Homebrew Channel.
