@@ -41,7 +41,7 @@ title: "WiiLink"
 15. Highlight all other WADs with `WiiLink` in the name and press + to select them. When all of them are selected, press A twice to install the WADs.
     - If you have previously installed the RiiConnect24 versions of the Forecast Channel and the Nintendo Channel, installing WiiLink's will overwrite them.
 
-16. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+16. 安装成功后，按HOME按钮返回Homebrew Channel。
 
 Want to order Domino's Pizza with WiiLink's Food Delivery Channel?<br>[Follow this guide!](wiilink-demae-dominos)
 {: .notice--info}
