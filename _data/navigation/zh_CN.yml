@@ -7,7 +7,7 @@ main:
     title: 从这里开始
     url: get-started
   - 
-    title: 网站导览
+    title: 网站导航
     url: site-navigation
   - 
     title: FAQ
@@ -29,7 +29,7 @@ footer:
     title: 来源
     url: https://github.com/RiiConnect24/Wii-Guide/
   - 
-    title: 网站导览
+    title: 网站导航
     url: site-navigation
   - 
     title: 捐赠
