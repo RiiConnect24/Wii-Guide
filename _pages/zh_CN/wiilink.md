@@ -8,8 +8,8 @@ title: "WiiLink"
 
 #### 你需要的是
 
-- 一张SD卡或U盘
-- A Wii with an Internet connection
+- 一张 SD 卡或 U 盘
+- 一台有互联网连接的Wii
 - A Windows, macOS, or Linux computer
 - [WiiLink Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
@@ -17,7 +17,7 @@ title: "WiiLink"
 
 ##### Section I - Patching WADs
 
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+[如果您想查看安装 WAD 的详细说明，请点击这里！](wiimodlite)
 {: .notice--info}
 
 1. Download `WiiLink_Patcher_<OS Platform>_v1.X.X`, where `<OS Platform>` is either `Windows`, `macOS`, or `Linux`, depending on your operating system.
@@ -33,10 +33,10 @@ title: "WiiLink"
 7. It may take a moment for the patcher to download the files to your SD Card or USB Drive.
 8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
 9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to<br>`WiiLink_Patcher_<OS Platform>_v1.X.X` to the root of your SD Card or USB Device.
-10. Put your SD card or USB drive in your Wii.
+10. 将 SD 卡或 U 盘插入 Wii。
 11. Launch the Homebrew Channel on your Wii.
-12. Launch Wii Mod Lite.
-13. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+12. 启动 Wii Mod Lite。
+13. 使用 Wii 遥控器上的方向键移动到 `WAD Manager`，然后移动到 `wad` 文件夹。
 14. If your Wii is not a Japanese region, install `WiiLink_SPD (Wii).wad` or `WiiLink_SPD (vWii).wad` (Depending on console platform) before anything else. This is required so that we know your email address to send files.
 15. Highlight all other WADs with `WiiLink` in the name and press + to select them. When all of them are selected, press A twice to install the WADs.
     - If you have previously installed the RiiConnect24 versions of the Forecast Channel and the Nintendo Channel, installing WiiLink's will overwrite them.
@@ -60,10 +60,10 @@ Adding your email to the Address Information (SPD) settings menu will allow the 
 For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
 {: .notice--info}
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. 这是可选项。
+[继续安装 RiiConnect24](riiconnect24)<br> RiiConnect24 允许您使用已停止服务的 WiiConnect24 功能，包含新闻、天气、大家一起投票、任天堂和 Mii 展示频道以及 Wii 邮箱。 这是可选项。
 {: .notice--info}
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. 这是可选项。
+[继续安装 Wiimmfi](wiimmfi)<br> Wiimmfi 让您在任天堂 Wi-Fi 连接停止服务后继续在线玩游戏。 这是可选项。
 {: .notice--info}
 
 [继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
