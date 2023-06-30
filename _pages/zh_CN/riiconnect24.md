@@ -28,8 +28,8 @@ It's recommended to set your Wii to the current time before proceeding. Follow [
 
 #### 你需要的是
 
-- 一张SD卡或U盘
-- A Wii with an Internet connection
+- 一张 SD 卡或 U 盘
+- 一台有互联网连接的Wii
 - A computer
 - [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
@@ -59,10 +59,10 @@ If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord ser
 
 You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
-1. Put your SD card or USB drive in your Wii.
+1. 将 SD 卡或 U 盘插入 Wii。
 2. Launch the Homebrew Channel on your Wii.
-3. Launch Wii Mod Lite.
-4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+3. 启动 Wii Mod Lite。
+4. 使用 Wii 遥控器上的方向键移动到 `WAD Manager`，然后移动到 `wad` 文件夹。
 5. Highlight all the WADs in the folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
 6. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press the - Button on the highlighted WAD to uninstall it, then try installing it again.
 7. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
@@ -125,7 +125,7 @@ If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently no
 [Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. 这是可选项。
 {: .notice--info}
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. 这是可选项。
+[继续安装 Wiimmfi](wiimmfi)<br> Wiimmfi 让您在任天堂 Wi-Fi 连接停止服务后继续在线玩游戏。 这是可选项。
 {: .notice--info}
 
 [继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
