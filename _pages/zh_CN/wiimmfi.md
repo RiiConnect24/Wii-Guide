@@ -34,7 +34,7 @@ If you have an older version of Priiloader or don't have it installed, follow [t
 
 ![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
 
-2. You should see the Priiloader menu. ![Menu](/images/Priiloader/mainmenu.jpg)
+2. You should see the Priiloader menu. ![菜单](/images/Priiloader/mainmenu.jpg)
 3. Go to `System Menu Hacks`.
 
 If you are using a USB drive to install Priiloader, make sure you do not have an SD card inserted at the same time. This will cause Priiloader to be unable to find the hacks_hash.ini file.
@@ -162,7 +162,7 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
   - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
   - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
-#### Instructions (for Wii)
+#### 步骤（适用于 Wii）
 
 1. Extract Mario Kart Wii Competition Patcher and put it in the `apps` folder on your SD Card.
 2. Insert your SD card or USB drive into the Wii.
