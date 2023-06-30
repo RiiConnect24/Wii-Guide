@@ -12,15 +12,15 @@ FlashHax是一个用于 Wii 的漏洞，通过使用 Internet Channel 来触发�
 - 一台有互联网连接的Wii
 - 互联网频道（The Internet Channel）
 
-#### 教程
+#### 步骤
 
 1. 打开 Wii 上的 Internet Channel。
 2. 然后输入flashhax.com，把这个网站收藏到收藏夹中。
 3. 打开在收藏夹里的网站。 它会下载并且加载HackMii Installer。 由于它通过互联网下载 installer（安装程序），可能需要一些时间。
 
-If the HackMii Installer doesn't load and it instead freezes (you can't move your cursor), please restart your Wii and repeat step 3 until it works. It might take multiple tries, be persistent!
+如果 HackMii Installer 无法加载并且卡住（无法移动光标），请重启 Wii 并重复第 3 步，直到它正常工作。 这可能需要几次尝试，要坚持！
 
-If you still can't get it to load, try deleting your cookies or save data for the Internet Channel.
+如果仍然无法加载，请尝试删除 Internet Channel 的 Cookie 或保存数据。
 
-[继续到 安装Homebrew Channel和BootMii](hbc)
+[继续到 安装 Homebrew Channel 和 BootMii](hbc)
 {: .notice--info}
