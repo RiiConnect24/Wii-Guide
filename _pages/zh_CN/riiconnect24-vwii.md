@@ -68,23 +68,23 @@ title: RiiConnect24 vWii 指南
 5. 选择您要修补的设备。 ![Select your device](/images/RC24_Patcher/2.JPG)
 6. 根据本指南，选择 "`Install RiiConnect24 on your Wii`" ![安装 RiiConnect24](/images/RC24_Patcher/3.JPG)
 7. 选择“`Express (Recommended)`”。 它将为您提供所需的一切。 ![快速设置](/images/RC24_Patcher/4.JPG)
-8. Select your region. ![选择您的区域](/images/RC24_Patcher/5.JPG)
-9. While you're at it, RiiConnect24 Patcher can additionally download some other optional channels that do not use RiiConnect24. `[X]` represents the options that selected. Just press 5 and `ENTER` if you're not interested. ![Additional optional channels](/images/RC24_Patcher/6.JPG)
-10. Connect your SD Card or USB Drive to your computer and select "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
-11. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Drive and try again. ![Successfully detected](/images/RC24_Patcher/8.JPG)
+8. 选择您的区域。 ![选择您的区域](/images/RC24_Patcher/5.JPG)
+9. 当您到这时，RiiConnect24 Patcher 还可以下载一些其它不使用 RiiConnect24 的可选频道。 `[X]` 表示已选择的选项。 如果您不感兴趣，只需按 5 和 `ENTER`。 ![Additional optional channels](/images/RC24_Patcher/6.JPG)
+10. 将 SD 卡或 U 盘连接到电脑上，并选择“`1`”。 ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
+11. 如果成功检测到您的设备，请选择 "`1`"。 如果没有，请确保您的 SD 卡或 U 盘上有一个名为 `apps` 的文件夹，然后重试。 ![Successfully detected](/images/RC24_Patcher/8.JPG)
 12. 请耐心等待... ![It's patching!](/images/RC24_Patcher/9.JPG)
-13. After it's done, we would appreciate if you take a minute to send anonymous feedback to us.  If you don't want to, close the patcher. All the files should already be on your SD Card. ![It's done!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
-14. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
+13. 完成后，如果您能花一分钟时间向我们发送匿名反馈，我们将不胜感激。  如果您不想发送反馈，关闭 patcher（修补程序）。 所有文件应该已经位于您的 SD 卡上。 ![It's done!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
+14. 如果没有自动将所有文件复制到您的 SD 卡或 U 盘上，请将 `RiiConnect24Patcher.bat` 旁边的 `WAD` 和 `apps` 文件夹复制到您的 SD 卡或 U 盘上。
 
-##### Section II - Installing WADs
+##### 第二部分 - 安装 WAD
 
-You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
+现在您将安装使用 RiiConnect24 所需的已修补 IOS 和频道 WAD。
 
-1. Put your SD card or USB drive in your Wii U.
-2. Launch the Homebrew Channel on your Wii U.
+1. 将 SD 卡或 U 盘插入您的 Wii U。
+2. 在您的 Wii U 上启动 Homebrew Channel。
 3. 启动 Wii Mod Lite。
-4. 使用 Wii 遥控器上的方向键移动到 `WAD Manager`，然后移动到 `wad` 文件夹。
-5. Highlight all the WADs in the folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
+4. 使用 Wii 遥控器上的方向键，移动到 `WAD Manager`，然后移动到 `wad` 文件夹。
+5. 按下 + 来选择文件夹中的所有 WAD。 When all of the WADs are selected, press A twice to install the WADs.
 6. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press the - Button on the highlighted WAD to uninstall it, then try installing it again.
 7. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
