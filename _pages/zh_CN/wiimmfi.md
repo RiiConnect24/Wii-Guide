@@ -92,17 +92,17 @@ There's an easy method to patch games to use Wiimmfi that can be used whether or
 1. 转到 `Wii Options（Wii 选项）`。
 2. 转到 `Wii Settings（Wii 设置）`。
 3. 转到 `第 2 页`，然后点击 `Internet`。
-4. Go to `Connection Settings`.
-5. Select your current connection.
-6. Go to `Change Settings`.
+4. 转到 `Connection Settings（连接设置）`。
+5. 选择当前连接。
+6. 转到 `Change Settings（更改设置）`。
 7. 转到 `Auto-Obtain DNS（自动获取 DNS）`（不是 IP 地址），然后选择 `否`，然后选择 `Advanced Settings（高级设置）`。
-8. Type in `167.86.108.126` as the primary DNS.
-9. Type in `1.1.1.1` as the secondary DNS.
-10. Select `Confirm`, then select `Save`.
-11. Select `OK` to perform a connection test.
+8. 将主要DNS设置为 `167.86.108.126`。
+9. 将次要DNS设置为 `1.1.1.1`。
+10. 选择 `Confirm（确认）`，然后选择 `Save（保存）`。
+11. 选择 `OK` 以进行连接测试。
 12. 如果连接测试成功，请选择 `否` 以跳过 Wii 系统更新。
 
-If you get error 107304, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
+If you get error 107304, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. 您可以将 `Auto-Obtain DNS` 设置为 `On` 来解决此问题。 即使没有这个设置，RiiConnect24 仍然可以正常工作。 或者，您可以使用我们的 [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) 程序。
 {: .notice--warning}
 
 ### Automatic patching using a USB Loader
@@ -192,11 +192,11 @@ Some games are DSi enhanced which means you can play games online without having
 
 1. Go in the Nintendo DS Wi-Fi settings. This can be accessed inside the game you want to play online with.
 2. Set up a connection.
-3. Type in `167.86.108.126` as the primary DNS.
-4. Type in `1.1.1.1` as the secondary DNS.
+3. 将主要DNS设置为 `167.86.108.126`。
+4. 将次要DNS设置为 `1.1.1.1`。
 5. Save your connection settings and perform a connection test. If it's successful, then you're ready to play.
 
-If you get error 20110, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
+If you get error 20110, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. 您可以将 `Auto-Obtain DNS` 设置为 `On` 来解决此问题。 即使没有这个设置，RiiConnect24 仍然可以正常工作。 或者，您可以使用我们的 [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) 程序。
 {: .notice--warning}
 
 You cannot use Sudomemo, which revives Flipnote Studio on the DSi, if you're using this DNS. If you want to use Sudomemo instead of playing games on Wiimmfi, you will have to set your primary DNS to `104.248.0.110` on Wi-Fi settings on your DSi or 3DS, not the DS Wi-Fi settings. Or you can use their [DNS-Server](https://github.com/Sudomemo/sudomemoDNS) program.
@@ -219,7 +219,7 @@ Wiimm and Leseratte make a custom track distribution called "Wiimms MKW Fun", wh
 [继续安装 RiiConnect24](riiconnect24)<br> RiiConnect24 允许您使用已停止服务的 WiiConnect24 功能，包含新闻、天气、大家一起投票、任天堂和 Mii 展示频道以及 Wii 邮箱。 这是可选项。
 {: .notice--info}
 
-[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. 这是可选项。
+[继续安装 WiiLink](wiilink)<br> WiiLink 允许您使用仅限日本的频道，如 Wii no Ma 和 Digicam Print Channel。 这是可选项。
 {: .notice--info}
 
 [继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
