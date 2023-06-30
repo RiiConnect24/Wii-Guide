@@ -32,7 +32,7 @@ If you have an older version of Priiloader or don't have it installed, follow [t
 1. 打开 Wii 的同时按住 RESET 按钮。
    - 如果使用 Wii Mini，插入 USB 键盘并在打开时按住 Esc。
 
-![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
+![打开](/images/Priiloader/on.jpg) ![按住 RESET](/images/Priiloader/reset.jpg)
 
 2. 你应该会看到 Priiloader 菜单。 ![菜单](/images/Priiloader/mainmenu.jpg)
 3. 前往 `System Menu Hacks`。
@@ -89,18 +89,18 @@ There's an easy method to patch games to use Wiimmfi that can be used whether or
 
 #### 步骤
 
-1. Go to `Wii Options`.
-2. Go to `Wii Settings`.
-3. Go to `Page 2`, then click on `Internet`.
+1. 转到 `Wii Options（Wii 选项）`。
+2. 转到 `Wii Settings（Wii 设置）`。
+3. 转到 `第 2 页`，然后点击 `Internet`。
 4. Go to `Connection Settings`.
 5. Select your current connection.
 6. Go to `Change Settings`.
-7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`.
+7. 转到 `Auto-Obtain DNS（自动获取 DNS）`（不是 IP 地址），然后选择 `否`，然后选择 `Advanced Settings（高级设置）`。
 8. Type in `167.86.108.126` as the primary DNS.
 9. Type in `1.1.1.1` as the secondary DNS.
 10. Select `Confirm`, then select `Save`.
 11. Select `OK` to perform a connection test.
-12. If the connection test was successful, select `No` to skip the Wii System Update.
+12. 如果连接测试成功，请选择 `否` 以跳过 Wii 系统更新。
 
 If you get error 107304, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
 {: .notice--warning}
