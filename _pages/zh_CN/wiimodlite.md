@@ -13,7 +13,7 @@ We do not recommend using "WAD Manager" by Waninkoko.
 {: .notice--warning}
 
 #### 你需要的是
-* 一张SD卡或U盘
+* 一张 SD 卡或 U 盘
 * [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 #### 步骤
