@@ -1,5 +1,5 @@
 ---
-title: "网站导览"
+title: "网站导航"
 layout: single
 sitemap: false
 ---
