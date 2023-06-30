@@ -20,12 +20,12 @@ title: RiiConnect24 vWii 指南
 本指南仅适用于 vWii（Wii U 的 Wii 模式）。
 
 - 如果您想在 Wii 上安装RiiConnect24，请按照[此教程](riiconnect24-wii)进行操作。
-- Follow [this tutorial](riiconnect24-dolphin) if you'd like to install RiiConnect24 on Dolphin Emulator.
+- 如果你想在 Dolphin 模拟器上安装 RiiConnect24，请按照[此教程](riiconnect24-dolphin)进行操作。
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
+在继续之前，建议将您的 Wii 设置为当前时间。 请按照[此教程](rtc)设置时间。
 {: .notice--warning}
 
 不要在 WII MINI 上安装 RIICONNECT24！ 它将无法正常工作并导致变砖。
@@ -33,41 +33,41 @@ It's recommended to set your Wii to the current time before proceeding. Follow [
 
 #### 警告
 
-We are **NOT** responsible if you brick, or damage your console in any way whatsoever. If you follow this guide exactly, you shouldn't have any problems.
+我们**不**对您的主机因任何原因变砖或损坏负责。 如果您按照本指南进行操作，理论上不应该遇到任何问题。
 {: .notice--warning}
 
-Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on Wii U). If you're looking for instructions for a Nintendo Wii, use [this guide](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [this guide](riiconnect24-dolphin) instead.
+请**不要**在除 vWii（Wii U 的 Virtual Wii）以外的任何其它主机上使用此指南。 如果您需要任天堂 Wii 的说明，请使用[此指南](riiconnect24)。 如果您想在 Dolphin emulator 上使用，请使用[此指南](riiconnect24-dolphin)。
 {: .notice--warning}
 
 #### 你需要的是
 
 * 一张 SD 卡或 U 盘
-* A computer
-* A Wii U console with an Internet connection that's capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
-* A Nintendo Network ID (NNID) linked to your Wii U
-* [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+* 一台电脑
+* 拥有互联网连接的 Wii U 主机，可以通过网络浏览器漏洞、Haxchi 或 Coldboot Haxchi 等方式启动 Homebrew Launcher。 **如果您的 Wii U 主机没有软破，请按照 [wiiuguide.xyz](https://wiiuguide.xyz) 上的指南以及 [virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) 进行操作，然后再回到这里。**
+* 一个与您的 Wii U 绑定的任天堂网络ID（NNID）
+* [RiiConnect24 Patcher（Windows、Mac 和 Linux）](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-After following the above linked guide, you should have:
-* A vWii NAND backup and keys (keep these stored safely!!)
-* The Homebrew Channel installed
-* d2x cIOS installed (IOS249, IOS250 and IOS251)
-* IOS80 patched
+在遵循上面链接的指南后，您应该有：
+* vWii NAND 备份和密钥（请妥善保存它们！）
+* 安装了 Homebrew Channel
+* 安装了 d2x cIOS（IOS249、IOS250 和 IOS251）
+* 修补了 IOS80
 {: .notice--info}
 
 #### 步骤
 
-##### Section I - Running the patcher
+##### 第一部分 - 运行 patcher（修补程序）
 
-If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
+如果无法运行 RiiConnect24 Patcher，请加入 [RiiConnect24 Discord 服务器](https://discord.gg/rc24) （推荐）或 [发送邮件至 support@riiconnect24.net](mailto:support@riiconnect24.net) 以获取进一步帮助。
 {: .notice--info}
 
-1. Click the link above to go to the GitHub page where the patcher is.
-2. Download `RiiConnect24Patcher.bat` if you are on Windows, and `RiiConnect24Patcher.sh` if you are on a Unix system
-3. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open Terminal and type `bash`, then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this: `bash RiiConnect24Patcher.sh`.
-4. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`. (NOTE: These screenshots are from the Windows version of the patcher.) ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
-5. Select the device you're patching for. ![Select your device](/images/RC24_Patcher/2.JPG)
-6. For this guide, choose "`Install RiiConnect24 on your Wii`" ![安装 RiiConnect24](/images/RC24_Patcher/3.JPG)
-7. Choose "`Express (Recommended)`". 它将为您提供所需的一切。 ![快速设置](/images/RC24_Patcher/4.JPG)
+1. 请点击上面的链接以前往包含 patcher（修补程序）的 GitHub 页面。
+2. 如果您使用的是 Windows 系统，请下载 `RiiConnect24Patcher.bat`，如果您使用的是 Unix 系统，请下载 `RiiConnect24Patcher.sh`
+3. 在 Windows 上运行 `RiiConnect24Patcher.bat`。 在 Unix 系统上，打开终端并输入 `bash`，然后将 `RiiConnect24Patcher.sh` 拖到终端中，然后按回车。 它应该是这样的：`bash RiiConnect24Patcher.sh`。
+4. 按 1 选择“`Start`”，然后按 `ENTER` 确认您的选择。 （注意：这些截图来自 Windows 版本的 patcher（修补程序）。） ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
+5. 选择您要修补的设备。 ![Select your device](/images/RC24_Patcher/2.JPG)
+6. 根据本指南，选择 "`Install RiiConnect24 on your Wii`" ![安装 RiiConnect24](/images/RC24_Patcher/3.JPG)
+7. 选择“`Express (Recommended)`”。 它将为您提供所需的一切。 ![快速设置](/images/RC24_Patcher/4.JPG)
 8. Select your region. ![选择您的区域](/images/RC24_Patcher/5.JPG)
 9. While you're at it, RiiConnect24 Patcher can additionally download some other optional channels that do not use RiiConnect24. `[X]` represents the options that selected. Just press 5 and `ENTER` if you're not interested. ![Additional optional channels](/images/RC24_Patcher/6.JPG)
 10. Connect your SD Card or USB Drive to your computer and select "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
