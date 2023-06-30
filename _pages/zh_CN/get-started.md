@@ -10,7 +10,7 @@ title: "Get Started"
 Even if your Wii has already been softmodded in the past, following these steps can still ensure that your softmod is up to date.
 {: .notice--info}
 
-All of the exploits run the HackMii Installer, and have the same end result.
+所有漏洞都运行 HackMii Installer，并且有相同的最终结果。
 {: .notice--info}
 
 Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
