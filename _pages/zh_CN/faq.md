@@ -29,4 +29,4 @@ title: "FAQ"
 * 在不了解如何操作的情况下修改 vWii NAND。
 
 ### 如何移除亲子管理功能？
-[mkey generator（英文）](https://mkey.salthax.org) 可生成移除亲子管理功能所需要的代码。
+[mkey generator（英文）](https://mkey.salthax.org) 可以生成移除亲子管理功能所需要的代码。
