@@ -49,10 +49,10 @@ To protect against bricks, [make sure you install Priiloader](priiloader). Also,
 You use the +Control Pad to use this tool.
 {: .notice--info}
 
-1. Put your SD card or USB drive in your Wii.
+1. 将 SD 卡或 U 盘插入 Wii。
 2. Launch the Homebrew Channel on your Wii.
-3. Launch Wii Mod Lite.
-4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+3. 启动 Wii Mod Lite。
+4. 使用 Wii 遥控器上的方向键移动到 `WAD Manager`，然后移动到 `wad` 文件夹。
 5. Press A to install the IOS80 `.wad` file. [`Make sure the installation is successful, otherwise abort.`]
 6. Press A to install the Wii Menu WAD.
 7. Press A to install the IOS58 `.wad` file. [`Make sure the installation is successful, otherwise abort.`]
