@@ -25,67 +25,67 @@ title: "导出 Wii/GameCube 游戏"
 
 ##### 第二部分 - 导出
 
-1. 选择您要将游戏转存到的设备 - U 盘或 SD 卡。 ![Device type](/images/CleanRip/2.png)
-1. 在这个界面上，它会询问您是否要下载包含游戏校验和的文件，以便您可以验证创建的转储是否是光盘的 1:1 副本。 It's your choice whether to say `Yes` or `No` to download this file. ![DAT](/images/CleanRip/3.png)
-1. Now insert the game you want to dump. ![DVD](/images/CleanRip/4.png) ![Initialising Disc](/images/CleanRip/5.png)
-1. Set it as shown on the screen below.
-If you are dumping one of the 13 games on [this list](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games), set `Dual Layer` to `Yes`.
+1. 选择您要将游戏转存到的设备 - U 盘或 SD 卡。 ![设备类型](/images/CleanRip/2.png)
+1. 在这个界面上，它会询问您是否要下载包含游戏校验和的文件，以便您可以验证创建的转储是否是光盘的 1:1 副本。 这是您的选择，您可以选择 `Yes` 或 `No` 来下载该文件。 ![DAT](/images/CleanRip/3.png)
+1. 现在插入您想要转存的游戏。 ![DVD](/images/CleanRip/4.png) ![初始化光盘](/images/CleanRip/5.png)
+1. 按照屏幕下方的指示进行设置。
+如果您想转储[此列表](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games)中的其中一款游戏，请将 `Dual Layer` 设置为 `Yes`。
 {: .notice--info}
-![Settings](/images/CleanRip/6.png)
+![设置](/images/CleanRip/6.png)
 
-1. CleanRip will now dump your game. It can take a while, since it will dump the full 4.7 GB disc contents (8.5 GB for dual layer discs). ![Copying](/images/CleanRip/7.png)
+1. CleanRip现在将开始转储您的游戏。 这可能需要一段时间，因为它将转储完整的 4.7 GB 光盘内容（双层光盘需要 8.5 GB）。 ![正在复制](/images/CleanRip/7.png)
 </div>
 
 <div id="dump-smb" class="blanktabcontent" markdown="1">
 
-### Dumping a game over a local network
+### 通过局域网转储游戏
 
 #### 你需要的是
 
 - [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
-Your Wii and your computer must be connected to one local network.
+您的 Wii 和电脑必须连接到同一个局域网。
 {: .notice--warning}
 
 #### 步骤
 
-##### Section I - Downloading/Installing
+##### 第一部分 - 下载/安装
 
-1. Extract DVD Dump Tool and put it in the `apps` folder on your SD card or USB drive.
-1. Insert your SD card into your Wii, and launch DVD Dump Tool from the Homebrew Channel.
+1. 解压 DVD Dump Tool 并将其放在 SD 卡或 U 盘的 `apps` 文件夹中。
+1. 将 SD 卡插入 Wii，并从 Homebrew Channel 启动 DVD Dump Tool。
 
 ##### 第二部分 - 导出
 
-1. Press the right on the D-pad and press A. ![2](/images/DumpDiscs_LAN/2.png)
-1. Choose the disc that you want to copy (The options are: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` and press "A" ![3](/images/DumpDiscs_LAN/3.png)
-1. Now put your game to your Wii. (If it's already in your Wii, eject it and put it back.) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
-1. Remember your Wii URL (IP address) ![5](/images/DumpDiscs_LAN/5.png)
-1. On your computer's web browser, go to your address bar and enter the Wii URL. ![6](/images/DumpDiscs_LAN/6.png)
-1. Click on `Click here to download XXXX.iso`. ![7](/images/DumpDiscs_LAN/7.jpg)
-The transfer speed is not the fastest, but if you can't use anything else, it's better than nothing.
+1. 按右方向键，然后按 A。 ![2](/images/DumpDiscs_LAN/2.png)
+1. 选择您想要复制的光盘（选项有：`GameCube Disc`、`Wii Single-Layer Disc`、`Wii Dual-Layer Disc`），然后按“A” ![3](/images/DumpDiscs_LAN/3.png)
+1. 现在将游戏插入 Wii 中。 （如果已经插入您的 Wii 中，弹出它并重新插入。） ![插入光盘](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
+1. 记住您的 Wii URL（IP 地址）。 ![5](/images/DumpDiscs_LAN/5.png)
+1. 在您计算机网页浏览器的地址栏处输入 Wii URL。 ![6](/images/DumpDiscs_LAN/6.png)
+1. 点击 `Click here to download XXXX.iso`。 ![7](/images/DumpDiscs_LAN/7.jpg)
+传输速度可能不是最快的，但如果没有其它选择，这总比没有好。
 {: .notice--info}
 ![8](/images/DumpDiscs_LAN/8.PNG)
 </div>
 
-## Joining split files
+## 合并分割文件
 
-If you dumped the disc on a FAT32 formatted, device, you should've got at least 2 files that end with `.partX.iso`. They need to be joined up.
+如果您将光盘转储到 FAT32 格式的设备上，您应该至少获得 2 个以 `.partX.iso` 结尾的文件。 它们需要合并在一起。
 {: .notice--info}
 
 ## Windows
 
-1. Copy all the files that share the same name and end with `.partX.iso` in a folder on your computer.
-1. Open up a Command Prompt window.
-1. Use the `cd <path>` command and replace `<path>` by the path to your `.partX.iso` files.
-1. Use the following command as is: `copy /b *.part?.iso game.iso`.
+1. 将所有具有相同名称并以 `.partX.iso` 结尾的文件复制到电脑的一个文件夹中。
+1. 打开命令提示符窗口。
+1. 使用 `cd <path>` 命令，并将 `<path>` 替换为 `.partX.iso` 文件的路径。
+1. 使用以下命令： `copy /b *.part?.iso game.iso`。
 
 ## macOS/Linux
 
-1.  Copy all the files that share the same name and end with `.partX.iso` in a folder on your computer.
-1.  Open up a Terminal.
-1.  Use the `cd <path>` command and replace `<path>` by the path to your `.partX.iso` files.
-1.  Use the following command as is: `cat \*.part?.iso > game.iso`.
+1.  将所有具有相同名称并以 `.partX.iso` 结尾的文件复制到电脑的一个文件夹中。
+1.  打开终端。
+1.  使用 `cd <path>` 命令，并将 `<path>` 替换为 `.partX.iso` 文件的路径。
+1.  使用以下命令： `cat \*.part?.iso > game.iso`。
 
-To organize the games on your drive properly, you'll need to use [Wii Backup Manager](wiibackupmanager).
+要正确分类驱动器的游戏，您需要使用 [Wii Backup Manager](wiibackupmanager)。
 {: .notice--info}
 
 <script>
