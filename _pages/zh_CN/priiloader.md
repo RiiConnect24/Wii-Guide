@@ -16,12 +16,12 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your
 
 #### 你需要的是
 
-- 一张SD卡或U盘
+- 一张 SD 卡或 U 盘
 - [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
 
 #### 步骤
 
-##### Section I - Downloading/Installing
+##### 第一部分 - 下载/安装
 
 1. Download the Priiloader installer and extract it to the root of your SD card or USB drive.
 
@@ -38,7 +38,7 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your
 
 ![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
 
-2. You should see the Priiloader menu. ![Menu](/images/Priiloader/mainmenu.jpg)
+2. You should see the Priiloader menu. ![菜单](/images/Priiloader/mainmenu.jpg)
 3. Go to `System Menu Hacks`.
 
 If you are using a USB drive to install Priiloader, make sure you do not have an SD card inserted at the same time. This will cause Priiloader to be unable to find the hacks_hash.ini file.
