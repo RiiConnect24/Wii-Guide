@@ -26,7 +26,7 @@ RiiConnect24 Clear Tool 是一个自制应用程序，可以修复以下特定�
 - [WiiXplorer](https://oscwii.org/library/app/wiixplorer-ss)
 - [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
 
-#### 说明
+#### 步骤
 
 #### 第一部分 - 备份 Wii 留言板数据（可选）
 
