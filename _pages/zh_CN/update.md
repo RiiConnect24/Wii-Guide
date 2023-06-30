@@ -56,7 +56,7 @@ You use the +Control Pad to use this tool.
 5. Press A to install the IOS80 `.wad` file. [`Make sure the installation is successful, otherwise abort.`]
 6. Press A to install the Wii Menu WAD.
 7. Press A to install the IOS58 `.wad` file. [`Make sure the installation is successful, otherwise abort.`]
-8. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+8. 安装成功后，按HOME按钮返回Homebrew Channel。
 
 **Do not return to the Wii menu yet, otherwise you could BRICK. Install [Priiloader](priiloader) first.**
 {: .notice--danger}
