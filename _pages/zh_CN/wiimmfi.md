@@ -53,7 +53,7 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 
 #### 你需要的是
 
-- 一张SD卡或U盘
+- 一张 SD 卡或 U 盘
 - [Auto Wiimmfi Patcher](https://download.wiimmfi.de/patcher/autowiimmfipatcher-latest.zip)
 
 #### 步骤
@@ -71,7 +71,7 @@ Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for th
 
 ##### 你需要的是
 
-- A Wii with an Internet connection
+- 一台有互联网连接的Wii
 
 ##### 步骤
 
@@ -157,7 +157,7 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
 #### 你需要的是
 
-- 一张SD卡或U盘
+- 一张 SD 卡或 U 盘
 - Mario Kart Wii Competition Patcher
   - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
   - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
