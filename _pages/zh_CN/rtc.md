@@ -17,7 +17,7 @@ In this step, you will synchronize your Wii with a NTP time server. This will se
 #### 步骤
 
 1. Extract sntp and put it in the `apps` folder on your SD card or USB drive.
-2. Insert your SD card or USB drive into your Wii.
+2. 把你的SD卡或U盘插入Wii。
 3. Launch the Homebrew Channel on your Wii.
 4. Launch sntp.
 5. Use the +Control Pad to select the current time.
@@ -29,8 +29,8 @@ In this step, you will synchronize your Wii with a NTP time server. This will se
 [继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
 {: .notice--info}
 
-Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
+Homebrew Browser 的下载中包含关于如何使用 Homebrew Browser 的指南。
 {: .notice--info}
 
-You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
+您可以将 `/apps/homebrew_browser/` 目录下的 ShopChannel.ogg 替换为 loop.ogg，这样 Homebrew Browser 就会播放 Wii Shop Channel 的音乐。
 {: .notice--info}
