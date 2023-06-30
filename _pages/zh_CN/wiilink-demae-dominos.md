@@ -1,5 +1,5 @@
 ---
-title: WiiLink Food Delivery Channel (Domino's) Guide
+title: WiiLink Food Delivery Channel (Domino's) 指南
 ---
 
 {% include toc title="Table of Contents" %}
@@ -21,20 +21,20 @@ You cannot use the default Dolphin NAND with this service. You must use your own
 
 #### 你需要的是
 
-- 一张SD卡或U盘
-- A Wii console with an active internet connection
-- A computer with an active internet connection
-- A Discord account
+- 一张 SD 卡或 U 盘
+- 连接到互联网的 Wii 主机
+- 连接到互联网的电脑
+- Discord 账号
 
 #### 步骤
 
-##### Section I - Getting Started
+##### 第一部分 - 开始
 
 1. Download the latest version of the WiiLink Patcher, available [here](https://github.com/WiiLink24/WiiLink24-Patcher/tree/csharp-ver).
 2. Make sure to download the version in the README that corresponds to your operating system.
 3. Launch the patcher and begin the setup process.
 4. When you see the setup screen, select `1. English Translation` in order to gain access to the Food Delivery Channel (Domino's) channel.<br><br> ![Express Install](/images/Demae-Dominos/choose-core-channel.png)
-5. Next, you’ll see this screen, asking which version of Food Delivery Channel you want, so you’ll want to pick `2. Domino's (US and Canada only)`<br><br> ![Food Delivery Channel Setup](/images/Demae-Dominos/choose-food-channel-ver.png)
+5. 接下来您将看到此屏幕，询问您想要哪个版本的 Food Delivery Channel ，因此您应该选择 `2. Domino's (US and Canada only)`<br><br> ![Food Delivery Channel Setup](/images/Demae-Dominos/choose-food-channel-ver.png)
 6. After that, you can go through the rest of the process, but once you reach this step, be sure to pick the correct console platform you’re installing this on, as it will matter when using the app.<br><br> ![Console Platform](/images/Demae-Dominos/choose-console-platform.png)
 
 ##### Section II - Registering your Console ID
@@ -90,10 +90,10 @@ If you have previously placed an order, skip to step 4.
 4. Click the `Pizza` button. This will load all the restaurants in your area. The first restaurant in the list is the one closest to you.
 5. Click `See Menu` to list the different menu categories. Click the category you would like, then select a food item. In the item screen, you can add toppings and adjust quantity.
 6. After adding a food item, you will be brought to the basket. To add a food item, scroll to the bottom and select `Add Order`. To proceed to checkout, click `Next`.
-7. Review your order throughly before placing the order. When you are ready, click the big green `Order` button.<br><br> ![Before Order](/images/Demae-Dominos/order.png)<br><br>
+7. Review your order thoroughly before placing the order. When you are ready, click the big green `Order` button.<br><br> ![Before Order](/images/Demae-Dominos/order.png)<br><br>
 8. If no error appeared, your order was placed successfully! To track your order, simply visit the Domino's Tracker for your region and enter the phone number you entered in the Address Information menu.
 
 **_Happy ordering!_**
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
 {: .notice--info}

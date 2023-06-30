@@ -22,5 +22,5 @@ If the HackMii Installer doesn't load and it instead freezes (you can't move you
 
 If you still can't get it to load, try deleting your cookies or save data for the Internet Channel.
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[继续到 安装Homebrew Channel和BootMii](hbc)
 {: .notice--info}

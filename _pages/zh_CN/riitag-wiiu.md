@@ -26,12 +26,12 @@ Previously, UTag allowed using other custom firmware (often abbreviated as CFW),
 
 1. Go to the [RiiTag website](https://tag.rc24.xyz/).
 2. Click `Log In` and log in with your Discord account.
-3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Click `Authorize`.
+3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. 点击 `Authorize（授权）`。
 4. Click `Edit Your Tag` and customize it to how you like. You can add a background, overlay, flag, nickname, Wii Number, and manually enter in games to show on your tag (not needed if you're using a USB Loader).
 5. Click `Show Key` and make note of the key shown. This will be used later on in this guide.
-6. Click `Submit` to save your changes.
+6. 点击 `Submit` 以保存您的更改。
 
-Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
+Do not share your RiiTag key with anyone! 如果您这样做，他人可能会滥用您的标签。
 {: .notice--warning}
 
 ##### Section II - Setting things up on the SD card
@@ -47,5 +47,5 @@ You don't need to manually run the plugin - just run Aroma and it will automatic
 You have now set up RiiTag on your Wii U! Now go play some games, and watch them show up on your RiiTag!
 {: .notice--success}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
 {: .notice--info}

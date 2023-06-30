@@ -25,9 +25,9 @@ Ensure that if you are using an SD card, the lock switch is in the unlocked posi
 
 #### 步骤
 
-##### 第一章 - 下载
+##### 第一部分 - 下载
 
-If your Wii has an Internet connection, you may skip this step. <br/> However, If you encounter any errors like `tcp_read timeout` and `net_gethostbyname failed:`, this will allow the Wii to skip the downloading step.
+If your Wii has an Internet connection, you may skip this section. <br/> However, If you encounter any errors like `tcp_read timeout` and `net_gethostbyname failed:`, this will allow the Wii to skip the downloading step.
 {: .notice--info}
 
 1. Download, extract, and run [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
@@ -38,6 +38,8 @@ If your Wii has an Internet connection, you may skip this step. <br/> However, I
 1. Once you have downloaded all four IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. <br/> Open the folder and navigate through them until you locate the four WAD files you downloaded. Place each WAD file on the root of your SD card or USB drive.
   - This must be the same device containing the d2x cIOS Installer.
 
+应该以这种方式将 WAD 文件放在您的 SD 卡上： ![离线 IOS 文件](/images/cios/d2x_offline_ios.png)
+{: .notice--info}
 ##### 第二章 - 安装
 
 1. Download the d2x cIOS installer and extract the zip to the root of your SD card or USB drive.
@@ -51,7 +53,7 @@ Select cIOS slot: 248
 Select cIOS version: 65535
 ```
 
-![Install cIOS 249](/images/cios/d2x_v11_248.png)
+![安装 cIOS 249](/images/cios/d2x_v11_248.png)
 
 If `d2x-v11-beta1` isn't showing up, try select the cIOS base first, then check again. This can also happen if your SD card is locked.
 {: .notice--info}
@@ -66,7 +68,7 @@ Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 
-![Install cIOS 250](/images/cios/d2x_v11_249.png)
+![安装 cIOS 250](/images/cios/d2x_v11_249.png)
 
 1. 设置完成后，按2次A安装。
 1. 安装完成后，按A返回，并将选项设置为:
@@ -78,7 +80,7 @@ Select cIOS slot: 250
 Select cIOS version: 65535
 ```
 
-![Install cIOS 250](/images/cios/d2x_v11_250.png)
+![安装 cIOS 250](/images/cios/d2x_v11_250.png)
 
 1. 设置完成后，按2次A安装。
 1. 安装完成后，按A返回，并将选项设置为:
@@ -90,7 +92,7 @@ Select cIOS slot: 251
 Select cIOS version: 65535
 ```
 
-![Install cIOS 251](/images/cios/d2x_v11_251.png)
+![安装 cIOS 251](/images/cios/d2x_v11_251.png)
 
 1. Once set, press A twice again to install, and then exit once done.
 
@@ -128,11 +130,11 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 </div>
 ##### Options once complete
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. 这是可选项。
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
 {: .notice--info}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
+你现在可以使用一些自制软件，例如 [USB Loader GX](usbloadergx) 和 [WiiFlow](wiiflow)。
 {: .notice--info}

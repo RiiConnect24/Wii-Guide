@@ -1,5 +1,5 @@
 ---
-title: "Updating Wii Menu to v4.3"
+title: "更新 Wii 菜单至 v4.3"
 ---
 
 {% include toc title="Table of Contents" %}

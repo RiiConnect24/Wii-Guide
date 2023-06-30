@@ -28,10 +28,10 @@ This guide is for vWii (Wii Mode on Wii U) only.
 It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
 {: .notice--warning}
 
-DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
+不要在 WII MINI 上安装 RIICONNECT24！ 它将无法正常工作并导致变砖。
 {: .notice--danger}
 
-#### Warnings
+#### 警告
 
 We are **NOT** responsible if you brick, or damage your console in any way whatsoever. If you follow this guide exactly, you shouldn't have any problems.
 {: .notice--warning}

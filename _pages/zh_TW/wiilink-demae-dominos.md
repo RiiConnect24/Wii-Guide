@@ -90,7 +90,7 @@ If you have previously placed an order, skip to step 4.
 4. Click the `Pizza` button. This will load all the restaurants in your area. The first restaurant in the list is the one closest to you.
 5. Click `See Menu` to list the different menu categories. Click the category you would like, then select a food item. In the item screen, you can add toppings and adjust quantity.
 6. After adding a food item, you will be brought to the basket. To add a food item, scroll to the bottom and select `Add Order`. To proceed to checkout, click `Next`.
-7. Review your order throughly before placing the order. When you are ready, click the big green `Order` button.<br><br> ![Before Order](/images/Demae-Dominos/order.png)<br><br>
+7. Review your order thoroughly before placing the order. When you are ready, click the big green `Order` button.<br><br> ![Before Order](/images/Demae-Dominos/order.png)<br><br>
 8. If no error appeared, your order was placed successfully! To track your order, simply visit the Domino's Tracker for your region and enter the phone number you entered in the Address Information menu.
 
 **_Happy ordering!_**

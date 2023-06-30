@@ -28,7 +28,7 @@ Unlike LetterBomb, Wilbrand supports Wii menu versions down to 3.0.
 1.  Open a terminal inside the folder Wilbrand was extracted to.
 1.  Using your Wii's version and MAC address, run the following command:
 
-- Windows: `.\Wilbrand.exe AA-BB-CC-DD-EE-FF MM/DD/YYYY VERSION X:`
+- Windows：`.\Wilbrand.exe AA-BB-CC-DD-EE-FF MM/DD/YYYY VERSION X:`
 
   - `X:` is the drive letter of your SD card. ![running Wilbrand on Windows](/images/wilbrand/windows.png)
 
@@ -47,5 +47,5 @@ Unlike LetterBomb, Wilbrand supports Wii menu versions down to 3.0.
     - The mail may have appeared on the previous or next day.
     - If you don't see the green letter, check if any errors appear in the SD card sections in `Data Management`. If any do, there may be an issue with the SD card format or the Wii's SD card reader. ![Wilbrand in its natural habitat](/images/wilbrand/msgboard.png)
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[继续到 安装Homebrew Channel和BootMii](hbc)
 {: .notice--info}

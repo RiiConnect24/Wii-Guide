@@ -32,10 +32,10 @@ If you want to play games that are in NKit format, use [this program](https://gb
 If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fusion, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
 {: .notice--info}
 
-To play games, we recommend using an external hard drive for your Wii. Flash drives are not recommended, and may have varying results even between the same product.
+To play games, we recommend using an external hard drive for your Wii. Flash drives are not recommended, and may vary in behavior even between the same product.
 {: .notice--info}
 
-Make sure your USB drive is formatted as FAT32. Do not format it as other types such as exFAT or extFS. <br>You may format it as NTFS, but it doesn't work with a majority of apps like The Homebrew Channel and Nintendont.
+Make sure your USB drive is formatted as FAT32. Do not format it as other types such as exFAT or extFS. <br> You may format it as NTFS, but it won't work with a majority of apps (eg. The Homebrew Channel, Nintendont)
 {: .notice--info}
 
 #### 步骤
@@ -45,7 +45,7 @@ Make sure your USB drive is formatted as FAT32. Do not format it as other types 
 1. Extract USB Loader GX and put it in the `apps` folder on your USB drive or SD card.
 2. Insert your USB drive, and SD card if you're using one, into your Wii and launch USB Loader GX from the Homebrew Channel.
 
-##### Getting Started
+##### 开始使用
 
 There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
 {: .notice--info}
@@ -91,5 +91,5 @@ On the middle of the bottom of the screen, you can see how much space is free on
 [Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that USB Loader GX can integrate with. This is optional to set up.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
 {: .notice--info}

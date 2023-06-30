@@ -1,5 +1,5 @@
 ---
-title: "RiiConnect24 for Dolphin"
+title: "适用于 Dolphin 的 RiiConnect24"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -20,7 +20,7 @@ This guide is for [Dolphin Emulator](https://dolphin-emu.org) only.
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
+不要在 WII MINI 上安装 RIICONNECT24！ 它将无法正常工作并导致变砖。
 {: .notice--danger}
 
 ### 你需要的是
@@ -31,7 +31,7 @@ DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick th
 
 #### 步骤
 
-##### Section I - Installing Dolphin
+##### 第一部分 - 安装 Dolphin
 
 If you have Dolphin already installed, skip to Section II
 {: .notice--info}
@@ -44,7 +44,7 @@ If you have Dolphin already installed, skip to Section II
 If you have a homebrewed Wii console, you can use a [BootMii NAND dump](bootmii) instead of installing the system files with the System Update option. See [this page](https://wiki.dolphin-emu.org/index.php?title=NAND_Usage_Guide) for more information.
 {: .notice--info}
 
-##### Section II - Installing RiiConnect24
+##### 第二部分 - 安装 RiiConnect24
 
 If you use a Windows version before Windows 10, you unfortunately cannot use WiiConnect24 inside Dolphin. You can use [this program](https://github.com/RiiConnect24/.VFF-File-Downloader-for-Dolphin) to run it instead.
 {: .notice--danger}
