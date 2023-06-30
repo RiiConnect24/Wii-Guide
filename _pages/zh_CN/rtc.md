@@ -11,7 +11,7 @@ You need an Internet connection in order to use this application.
 In this step, you will synchronize your Wii with a NTP time server. This will set your Wii's clock to the correct time to prevent potential problems when installing services such as RiiConnect24.
 
 #### 你需要的是
-* 一张SD卡或U盘
+* 一张 SD 卡或 U 盘
 * [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
 
 #### 步骤
