@@ -13,20 +13,20 @@ title: "导出 Wii/GameCube 游戏"
 
 #### 你需要的是
 
-- An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
+- 至少有 4.7 GB 可用空间的 SD 卡或 U 盘（双层光盘需要 8.5 GB）。
 - [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
 #### 步骤
 
-##### Section I - Downloading/Installing
+##### 第一部分 - 下载/安装
 
-1. Extract CleanRip and put it in the `apps` folder on your SD card or USB drive.
-1. Insert your SD card into your Wii, and launch CleanRip from the Homebrew Channel.
+1. 解压 CleanRip 并将其放在 SD 卡或 U 盘的 `apps` 文件夹中。
+1. 将 SD 卡插入 Wii，然后从 Homebrew Channel 启动 CleanRip。
 
-##### Section II - Ripping
+##### 第二部分 - 导出
 
-1. Select your device that you will be dumping the game to - your USB drive or SD card. ![Device type](/images/CleanRip/2.png)
-1. On this screen, it asks you if you want to download a file with game checksums so you can verify the dump created is a 1:1 copy of the disc. It's your choice whether to say `Yes` or `No` to download this file. ![DAT](/images/CleanRip/3.png)
+1. 选择您要将游戏转存到的设备 - U 盘或 SD 卡。 ![Device type](/images/CleanRip/2.png)
+1. 在这个界面上，它会询问您是否要下载包含游戏校验和的文件，以便您可以验证创建的转储是否是光盘的 1:1 副本。 It's your choice whether to say `Yes` or `No` to download this file. ![DAT](/images/CleanRip/3.png)
 1. Now insert the game you want to dump. ![DVD](/images/CleanRip/4.png) ![Initialising Disc](/images/CleanRip/5.png)
 1. Set it as shown on the screen below.
 If you are dumping one of the 13 games on [this list](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games), set `Dual Layer` to `Yes`.
@@ -53,7 +53,7 @@ Your Wii and your computer must be connected to one local network.
 1. Extract DVD Dump Tool and put it in the `apps` folder on your SD card or USB drive.
 1. Insert your SD card into your Wii, and launch DVD Dump Tool from the Homebrew Channel.
 
-##### Section II - Ripping
+##### 第二部分 - 导出
 
 1. Press the right on the D-pad and press A. ![2](/images/DumpDiscs_LAN/2.png)
 1. Choose the disc that you want to copy (The options are: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` and press "A" ![3](/images/DumpDiscs_LAN/3.png)
