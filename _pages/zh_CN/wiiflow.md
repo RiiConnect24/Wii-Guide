@@ -9,54 +9,54 @@ title: "WiiFlow"
 
 ![WiiFlow](/images/wiiflowlogo.png)
 
-This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that's used to play games from a USB drive or SD card.
+这是关于如何使用 WiiFlow 的快速入门指南，WiiFlow 是一款用于从移动硬盘/U 盘或 SD 卡上加载游戏的 USB Loader。
 
 #### 你需要的是
 
-- A Wii
-- A USB drive and/or SD card
+- 一台Wii
+- U 盘和/或 SD 卡
 - [WiiFlow Lite](https://hbb1.oscwii.org/hbb/wiiflow/wiiflow.zip)
 
-Make sure you have installed [cIOS](/cios) before following this!
+继续前确保已安装[cIOS](/cios)!
 {: .notice--info}
 
-We recommend you copy games over with [Wii Backup Manager](/wiibackupmanager) if you use Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux.
+如果您使用 Windows，我们推荐您使用 [Wii Backup Manager](/wiibackupmanager) 来复制游戏，如果您使用 macOS，我们推荐您使用 [Witgui](https://desairem.com/wordpress/category/witgui-download/)，如果您使用 Windows、macOS 和 Linux，我们推荐您使用 [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) 。
 {: .notice--info}
 
-If you want to play games that are in NKit format, use [this program](https://gbatemp.net/download/nkit.36157/) to convert them to ISO first. You can also use a development build of Dolphin, right click on a game, and use "Convert File" to convert it.
+如果想玩 NKit 格式的游戏，请使用[此程序](https://gbatemp.net/download/nkit.36157/)将它们转换为 ISO。 您也可以用开发版本的Dolphin，右键游戏，使用"转换文件"来转换。
 {: .notice--info}
 
-If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fusion, make a folder on the root of the USB drive or SD card named "wbfs" and put the games in there.
+如果您不使用 Wii Backup Manager、Witgui 或 Wii Backup Fusion 复制游戏，请在移动硬盘/U 盘或 SD 卡的根目录下创建一个名为 "wbfs" 的文件夹，并将游戏放入其中。
 {: .notice--info}
 
-To play games, we recommend using an external hard drive for your Wii. Flash drives should be usable too, but external hard drives are recommended as they are more reliable, and can store more games.
+为了玩游戏，推荐为 Wii 使用移动硬盘。 U 盘也可以工作但建议使用移动硬盘，因为它们更可靠，也可以存储更多游戏。
 {: .notice--info}
 
-WiiFlow can load games from an SD card or a USB drive.
+WiiFlow 可以从SD 卡或移动硬盘/U 盘加载游戏。
 {: .notice--info}
 
-Make sure your USB drive is formatted to either FAT32 or NTFS. FAT32 is the most ideal option as it supports both Wii and GameCube games unlike NTFS. Do not format it as other types such as exFAT, extFS, or WBFS.
+请确保已将移动硬盘/U 盘格式化为 FAT32 或 NTFS。 FAT32 是最理想的选项，因为它支持 Wii 和 GameCube 游戏，而 NTFS 则只支持 Wii 游戏。 不要将它格式化为其它类型，如 exFAT、extFS 或 WBFS。
 {: .notice--info}
 
 #### 步骤
 
 ##### 下载
 
-1. Extract WiiFlow and put the `apps` and `WiiFlow` folders on your USB drive or SD card.
-2. Insert your USB drive, and SD card if you're using one, into your Wii and launch WiiFlow from the Homebrew Channel.
+1. 解压 WiiFlow 并将 `apps` 和 `WiiFlow` 文件夹放在 SD 卡或移动硬盘/U 盘中。
+2. 将 SD 卡或移动硬盘/U 盘插入 Wii，然后从 Homebrew Channel 启动 WiiFlow。
 
 ##### 开始使用
 
-This is not a full comprehensive guide on using WiiFlow. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow by using it.
+这不是关于使用 WiiFlow 的完整指南。 这皆在通过快速入门帮助您学习如何使用它。 通过使用 WiiFlow，您应该能够发现它的众多优点和功能。
 {: .notice--info}
 
-- WiiFlow by default is set to only find games on the SD card. This can be changed by going in to settings, startup settings then turn off "Mount SD Only".
-- You can toggle between viewing Wii games, GameCube games, Wii Channels, Plugins, Homebrew apps by clicking the button second to last button on the right.
-- You can download game covers by going to "Settings" then "Download Covers and Banners"
+- 默认情况下，WiiFlow 仅设置为在 SD 卡上查找游戏。 这可以通过进入设置，启动设置，然后关闭 "Mount SD Only" 来更改。
+- 您可以通过点击右侧的倒数第二个按钮，在查看 Wii 游戏、GameCube 游戏、Wii 频道、插件和自制应用中切换。
+- 您可以在 "Settings" 中选择 "Download Covers and Banners" 来下载游戏封面。
 
-##### User Interface
+##### 用户界面
 
-When WiiFlow detects games, they are displayed in flow view. When you click on a game you are given these options:
+当 WiiFlow 检测到游戏，它们会以 flow 视图显示。 When you click on a game you are given these options:
 
 - Star - Adds game to favorites.
 - Bookshelf - Adds the game to 1 of 6 categories of your choosing.
