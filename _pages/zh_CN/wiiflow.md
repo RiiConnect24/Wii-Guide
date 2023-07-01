@@ -68,27 +68,27 @@ WiiFlow 可以从SD 卡或移动硬盘/U 盘加载游戏。
 - 书架 - 查看按您选择的类别排序的游戏。
 - 星星 - 查看您收藏的游戏。
 - 齿轮 - 打开 WiiFlow 设置。
-- 游戏类型 - 在不同类型的应用/游戏之间切换。 The logo changes depending on what game type you have selected.
-- Disc - Loads game that is in disc drive.
-- House - Will open this menu. This menu can also be launched by pressing the home button.
+- 游戏类型 - 在不同类型的应用/游戏之间切换。 Logo 会根据您选择的游戏而改变。
+- 光盘 - 加载光驱中的游戏。
+- 房子 - 将打开下图的菜单。 也可以通过按 home 按钮来启动此菜单。
 
 ![WF_menu](images/WFmenu.png)
 
-- Help Guide - Shows all the controls you can use in WiiFlow.
-- Reload Cache - Press this when WiiFlow is not detecting a new game on the USB drive or SD card.
-- File Explorer - Allows you to boot games/apps from anywhere on your USB drive or SD card.
-- Select Plugins - Allows you to select plugins.
-- Credits - Shows the people who worked on WiiFlow.
-- Shutdown - Allows you to either go into full shutdown, or Standby mode.
-- Exit To - Lets you exit to Wii Menu, HBC, neek2o, Priiloader and Bootmii.
-- Settings - Will open the WiiFlow Settings menu
+- Help Guide - 显示您在 WiiFlow 中可以使用的所有控件。
+- Reload Cache - 当 WiiFlow 未检测到移动硬盘/U 盘或 SD 卡上的新游戏时，按此按钮。
+- File Explorer - 允许您从移动硬盘/U 盘或 SD 卡上的任何位置启动游戏/应用。
+- Select Plugins - 允许您选择插件。
+- Credits - 显示参与 WiiFlow 开发的人员。
+- Shutdown - 允许你选择完全关机或待机。
+- Exit To - 让您退出到 Wii 菜单、HBC、neek2o、Priiloader 和 BootMii。
+- Settings - 打开 WiiFlow 设置菜单。
 
 ##### 完成后的选项
 
-[WiiFloWiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFloWiki is a great resource with information about WiiFlow.
+[WiiFloWiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFloWiki 是一个关于 WiiFlow 的信息资源。
 {: .notice--info}
 
-[Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that WiiFlow Lite can integrate with. This is optional to set up.
+[继续安装 RiiTag](riitag)<br> RiiTag 是您 Wii 的可定制游戏标志，可以与 WiiFlow Lite 集成使用。 这是可选的设置。
 {: .notice--info}
 
 [继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
