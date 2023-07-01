@@ -72,48 +72,48 @@ title: "在 vWii 上安装 Wii 菜单主题"
 | 美国 | v609      |
 | 欧洲 | v610      |
 
-在选择要下载的正确版本之后，勾选 `Create Decrypted Contents (*.app)`。 Then, press the `Start NUS Download` Button on the top of the window.
+在选择要下载的正确版本之后，勾选 `Create Decrypted Contents (*.app)`。 然后，点击窗口顶部的 `Start NUS Download` 按钮。
 
-![The database menu in NUS Downloader.](/images/Themes-vWii/NUSD-vWii_preview-database.png)
+![NUS Downloader 的 database 菜单。](/images/Themes-vWii/NUSD-vWii_preview-database.png)
 
-![The main menu of NUS downloader without the database menu open.](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
+![未打开 database 菜单的 NUS downloader 主菜单。](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
 
-After the download has finished, search for the .app file corresponding to your region in the folder where NUS Downloader is.
+下载完成后，在 NUS Downloader 所在文件夹中搜索与您区域对应的 .app 文件。
 
-| 区域 | .app file for your region |
-| -- | ------------------------- |
-| 日本 | 0000001c.app              |
-| 美国 | 0000001f.app              |
-| 欧洲 | 00000022.app              |
+| 区域 | 与您所在区域对应的 .app 文件 |
+| -- | ----------------- |
+| 日本 | 0000001c.app      |
+| 美国 | 0000001f.app      |
+| 欧洲 | 00000022.app      |
 
-If you can't find the .app file, it's possible you have downloaded the wrong version of the Wii Menu and you'll need to try again.
+如果您无法找到 .app 文件，有可能是您下载了错误版本的 Wii 菜单，您需要再试一次。
 
-After you find the .app file, copy it to the main directory of the folder containing ThemeMii. Then, copy a version of it to the theme folder in your SD card.
+找到 .app 文件后，将其复制到包含 ThemeMii 的文件夹的主目录中。 然后，把它的一个版本复制到 SD 卡的 theme 文件夹中。
 
-##### Section III - Building the Theme
+##### 第三部分 - 构建主题
 
-1. Launch ThemeMii Mod.
-2. Do not click `Download Base App`, ThemeMii does not have base .app files for vWii. If you download a base app, you must delete it in order to use the vWii .app file.
-3. In ThemeMii select `File` -> `Open` and navigate to the .mym theme you downloaded earlier.
-4. Click on `Create CSM` and select the .app file that you copied to the ThemeMii folder.
-5. Now navigate to the theme folder on your SD card and save your theme with the .csm extension.
+1. 启动 ThemeMii Mod。
+2. 不要点击 `Download Base App`，ThemeMii 没有 vWii 的基本 .app 文件。 如果您下载了基本应用，您必须删除它才能使用 vWii 的 .app 文件。
+3. 在 ThemeMii 中选择 `File` -> `Open`，然后移动到之前下载的 .mym 主题。
+4. 点击 `Create CSM`，然后选择您复制到 ThemeMii 文件夹中的 .app 文件。
+5. 现在移动至 SD 卡的 theme 文件夹，并用 .csm 扩展名保存您的主题。
 
-![ThemeMii Menu](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
+![ThemeMii 菜单](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
 
-##### Section IV - Installing the Theme
+##### 第四部分 - 安装主题
 
-1. Eject your SD card from your PC and put it into your Wii U.
-2. Start the Homebrew Channel and launch MyMenuify.
-3. Navigate to your theme folder and select the .csm file you just created.
-4. When it prompts you to install the theme say `Yes`, and wait for it to finish.
-5. When it finishes installing, MyMenuify will prompt you to either `Continue` or `Exit`, choose `Exit`.
+1. 从电脑上弹出 SD 卡，并将其插入 Wii U。
+2. 打开 Homebrew Channel 并启动 MyMenuify。
+3. 移动至 theme 文件夹，并选择您刚刚创建的 .csm 文件。
+4. 当它提示您安装主题时，请选择 `Yes`，然后等待安装完成。
+5. 安装完成后， MyMenuify 会提示您选择 `Continue` 或 `Exit`，请选择 `Exit`。
 
-If you did everything correctly, you should now have your custom theme installed on your Wii Menu.
+如果您按照正确的步骤进行操作，现在您应该已经成功安装自定义主题到 Wii 菜单上了。
 
-##### Reverting to Original Theme
+##### 恢复到原始主题
 
-1. 启动 Homebrew Channel。
-2. Launch MyMenuify and navigate to your theme folder.
-3. Select the .app file you copied to the SD card at the end of section 2 as if you were installing a theme.
-4. Select Install and wait until it finishes.
-5. When it's done, you can exit MyMenuify.
+1. 启动Homebrew Channel。
+2. 启动 MyMenuify 并移动至您的 theme 文件夹。
+3. 选择您在第二部分末尾复制到 SD 卡的 .app 文件，就像安装主题一样。
+4. 选择 Install 并等待直到完成。
+5. 完成后，您可以退出 MyMenuify。
