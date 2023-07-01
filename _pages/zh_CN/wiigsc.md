@@ -28,7 +28,7 @@ title: "创建Wii游戏快捷方式"
 1. 安装 WiiGSC，右键单击它，然后选择**以管理员身份运行**。 如果您不这样做，打开 WiiGSC 时会报错。
 2. 选择U盘里放置WBFS和ISO文件的目录，然后选择你使用的USB Loader。 其它选项应该保持默认即可。
 3. 如果您使用 USB Loader GX，请确保使用[此版本](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)。
-4. Install the generated WAD with a WAD Manager, we recommend Wii Mod Lite.
+4. 使用 WAD 管理器安装生成的 WAD，我们推荐使用 Wii Mod Lite。
 
-If you get an error saying "The system files are corrupted", don't panic as long as you installed Priiloader. Turn off your Wii, then hold down the RESET button down and turn on your Wii. You should be able to boot into the Priiloader menu, where you have some options to fix your Wii Menu. One of the options is to launch the Homebrew Channel.
+如果出现 "The system files are corrupted" 错误，请不要慌张，只要您安装了 Priiloader 就没有问题。 关闭Wii，然后按住RESET按钮并打开Wii。 你应该能够启动到 Priiloader 菜单，其中有一些选项可以修复 Wii 菜单。 其中一个选项是启动 Homebrew Channel。
 {: .notice--info}
