@@ -60,22 +60,22 @@ title: "安装 Wii 菜单主题"
 ##### 第二部分 - 构建主题
 
 1. 将弹出一个对话框，提醒您 only install themes if you have brick protection。 如果您已经安装了 Priiloader 和/或 BootMii（请参考本指南开头处的警告），请点击 OK。
-2. 前往 `Tools` > `Download Base App` > Wii 菜单版本 > Wii 菜单区域。
+2. 前往 `Tools` > `Download Base App` > Wii 菜单版本 > Wii 菜单区域
 3. 将弹出对话框，要求您输入一个值来创建密钥。 根据提示输入相应的内容，它将创建用于解密从任天堂服务器上下载 Wii 菜单内容的密钥。
-4. A file selection box will ask you where to save the .app file (that is the Wii Menu content file it downloaded). Save it to the directory where ThemeMii is in.
-5. Go to `Options` > `Standard System Menu` > Version of your Wii Menu > Region of your Wii Menu
-6. Go to `File` > `Open`, then browse for where your .mym file is.
-7. Press `Create csm`, then browse for a directory you want to save the theme in. Give it a moment to build the theme.
-8. A dialog box will pop up hopefully saying it built the theme correctly, and it will ask you if you want to save the .mym. Press `No`.
+4. 一个文件选择框会询问您要将 .app 文件（即下载的 Wii 菜单内容文件）保存到哪里。 将其保存到 ThemeMii 所在的目录中。
+5. 转到 `Options` > `Standard System Menu` > Wii 菜单版本 > Wii 菜单区域
+6. 转到 `File` > `Open`，选择浏览到您 .mym 文件所在的位置。
+7. 点击 `Create csm`，然后浏览选择一个您想要保存主题的目录。 请稍等片刻，等待主题构建完成。
+8. 将弹出一个对话框，希望它会显示成功构建主题，并询问您 Do you want to save the mym file?。 按 `否`。
 
-##### Section III - Installing the Theme
+##### 第三部分 - 安装主题
 
-1. Extract MyMenuifyMod.zip to your SD card or USB drive.
-2. Put the .csm file you saved in a folder called `modthemes` on your SD card or USB drive.
-3. 把你的SD卡或U盘插入Wii。
-4. Launch MyMenuify Mod from the Homebrew Channel.
-5. After an introduction message, it will ask you what IOS you want to use in the app. If you have [installed cIOS](cios), use `IOS249`, or else use `IOS58`. If the former gives an `Exception DSI occurred!` error, press Reset on the Wii console, launch it again, then try `IOS250`. It might take a couple attempts to reload the IOS.
-6. Highlight the theme you want to install, then press A. Give it a moment to install the theme, then press any button to go to the Wii Menu. Hopefully, the theme installed correctly.
+1. 将 MyMenuifyMod.zip 解压到您的 SD 卡或 U 盘。
+2. 将您保存的 .csm 文件放入 SD 卡或 U 盘上名为 `modthemes` 的文件夹中。
+3. 将 SD 卡或 U 盘插入 Wii。
+4. 从 Homebrew Channel 启动 MyMenuify Mod。
+5. 一个介绍信息后，它会问您想在应用中使用什么 IOS。 如果您[安装了 cIOS](cios)，使用 `IOS249`，否则使用 `IOS58`。 如果前者出现 `Exception DSI occurred!` 错误，请按 Wii 上的 Reset，重新启动，然后尝试使用 `IOS250`。 可能需要尝试几次才能重新加载 IOS。
+6. 选择您想安装的主题，然后按 A，稍等片刻以安装主题，然后按任意按钮回到 Wii 菜单。 希望主题安装成功。
 
-If you get an error saying "The system files are corrupted" or a black screen, don't panic as long as you installed Priiloader. 关闭Wii，然后按住RESET按钮并打开Wii。 你应该能够启动到 Priiloader 菜单，其中有一些选项可以修复 Wii 菜单。 One of the options is to launch the Homebrew Channel, where you can launch MyMenuify Mod and press a button to download and install the original Wii Menu theme.
+如果出现 "The system files are corrupted" 错误或黑屏，请不要慌张，只要您安装了 Priiloader 就没有问题。 关闭Wii，然后按住RESET按钮并打开Wii。 你应该能够启动到 Priiloader 菜单，其中有一些选项可以修复 Wii 菜单。 一种选项时启动 Homebrew Channel，在那里您可以启动 MyMenuify Mod 并按下一个按钮来下载和安装原始的 Wii 菜单主题。
 {: .notice--info}
