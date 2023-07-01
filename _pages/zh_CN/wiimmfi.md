@@ -199,22 +199,22 @@ Wiimmfi 不仅支持 Wii 游戏，还支持许多 DS 游戏。 通过名为 nds-
 如果您遇到错误 20110，那意味着您的互联网服务提供商（ISP）或网络正在阻止使用某个 DNS。 您可以将 `Auto-Obtain DNS` 设置为 `On` 来解决此问题。 即使没有这个设置，RiiConnect24 仍然可以正常工作。 或者，您可以使用我们的 [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) 程序。
 {: .notice--warning}
 
-如果您使用了此 DNS 就无法使用 Sudomemo，该服务可在 DSi 上恢复 Flipnote Studio。 如果您希望使用 Sudomemo 而不是 Wiimmfi 玩游戏，您需要在 DSi 或 3DS 的 Wi-Fi 设置中将主 DNS 设置为 `104.248.0.110`，而不是 DS 的 Wi-Fi 设置中。 Or you can use their [DNS-Server](https://github.com/Sudomemo/sudomemoDNS) program.
+如果您使用了此 DNS 就无法使用 Sudomemo，该服务可在 DSi 上恢复 Flipnote Studio。 如果您希望使用 Sudomemo 而不是 Wiimmfi 玩游戏，您需要在 DSi 或 3DS 的 Wi-Fi 设置中将主 DNS 设置为 `104.248.0.110`，而不是 DS 的 Wi-Fi 设置中。 或者，您还可以使用他们的 [DNS-Server](https://github.com/Sudomemo/sudomemoDNS) 程序。
 {: .notice--warning}
 
-### Mario Kart Wii Mods
+### 马里奥赛车Wii 模组
 
 #### CTGP-R
 
-MrBean35000vr and Chadderz have a custom track distribution called CTGP-R that allows you to use a set of custom tracks and has automatic Wiimmfi patching. Go to the [ChadSoft website](http://chadsoft.co.uk) for the download and instructions.
+MrBean35000vr 和 Chadderz 制作了一个名为 CTGP-R 的自定义赛道发行版，它允许您使用一组自定义赛道，并自动打 Wiimmfi 补丁。 请访问 [ChadSoft 网站](http://chadsoft.co.uk)以获取下载和详细说明。
 
 #### MKW Hack Pack
 
-PhillyG has put together a collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. To learn how to set it up, go to the [wiki page](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+PhillyG 制作了一个名为 MKW Hack Pack 的自定义赛道和 hacks，它允许连接到 Wiimmfi。 要了解如何设置它，请访问[维基页面](http://wiki.tockdom.com/wiki/MKW_Hack_Pack)。
 
 #### Wiimms Mario Kart Fun
 
-Wiimm and Leseratte make a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte, has Wiimmfi support, and lots of other features. You can find out more about it on its [wiki page](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
+Wiimm 和 Leseratte 制作了名为 "Wiimms MKW Fun" 的自定义赛道发行版，每年大约更新三次。 它基于 Leseratte 的 LE-CODE 框架，有 Wiimmfi 支持，还有很多其它功能。 您可以在其[维基页面](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun)上了解更多信息。
 
 [继续安装 RiiConnect24](riiconnect24)<br> RiiConnect24 允许您使用已停止服务的 WiiConnect24 功能，包含新闻、天气、大家一起投票、任天堂和 Mii 展示频道以及 Wii 邮箱。 这是可选项。
 {: .notice--info}
