@@ -24,7 +24,7 @@ Wii Backup Manager 是一个将 Wii 游戏从电脑复制到 U 盘的程序，�
 不建议使用 U 盘，因为它们很小，即使同一款产品之间行为也可能有所不同。 <br> 作为替代方案，您可以直接使用 SD 卡，但 Wii 的 SD 卡插槽速度很慢。
 {: .notice--info}
 
-确保已将 USB 硬盘格式化为 FAT32 格式。 不要将它格式华为其它类型，如 exFAT、extFS。 <br>您可以将其格式化为 NTFS，但它不能与大多数应用程序（如 Homebrew Channel 和 Nintendont）配合使用。
+确保已将 USB 硬盘格式化为 FAT32 格式。 不要将它格式化为其它类型，如 exFAT、extFS。 <br>您可以将其格式化为 NTFS，但它不能与大多数应用程序（如 Homebrew Channel 和 Nintendont）配合使用。
 {: .notice--info}
 
 #### 步骤
