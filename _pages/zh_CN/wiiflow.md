@@ -56,10 +56,10 @@ WiiFlow 可以从SD 卡或移动硬盘/U 盘加载游戏。
 
 ##### 用户界面
 
-当 WiiFlow 检测到游戏，它们会以 flow 视图显示。 When you click on a game you are given these options:
+当 WiiFlow 检测到游戏时，它们会以 flow 视图显示。 当您点击游戏时，会显示以下选项：
 
-- Star - Adds game to favorites.
-- Bookshelf - Adds the game to 1 of 6 categories of your choosing.
+- 星星 - 添加游戏到收藏夹。
+- 书架 - 将游戏添加到您选择的 6 个类别中的 1 个。
 - Gears - Opens the settings menu for the specific game. Changing settings here will only effect the game you changed the settings for.
 - X - Deletes the game from the USB drive or SD card
 
