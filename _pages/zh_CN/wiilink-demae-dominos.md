@@ -4,19 +4,19 @@ title: WiiLink Food Delivery Channel (Domino's) 指南
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the WiiLink Discord server](https://discord.gg/wiilink-750581992223146074).
+如果您需要有关本教程的任何帮助，请加入 [WiiLink Discord 服务器](https://discord.gg/wiilink-750581992223146074)。
 {: .notice--info}
 
-You no longer need to pay $1 to get and use Food Delivery Channel (Domino's). It's now completely _free_!
+现在您无需支付 $1 即可获取和使用 Food Delivery Channel (Domino's)。 现在它完全_免费_！
 {: .notice--info}
 
-As this service places an order to Domino's Pizza, payment is required at the door. This is usually in the form of cash, although credit/debit card machines are possible if the delivery person has one.
+由于该服务向达美乐比萨创建订单，所以需要在门口付款。 通常情况下，支付方式为现金，如果送货员配备了信用卡/借记卡机，也是可以的。
 {: .notice--info}
 
-Currently, only the USA and Canada are supported.
+目前仅支持美国和加拿大。
 {: .notice--warning}
 
-You cannot use the default Dolphin NAND with this service. You must use your own NAND dump. This can be done in Dolphin by going to the toolbar and clicking `Tools -> Manage NAND -> Import BootMii NAND Backup`.
+此服务不能使用默认的 Dolphin NAND。 您必须使用自己的 NAND 转储文件。 This can be done in Dolphin by going to the toolbar and clicking `Tools -> Manage NAND -> Import BootMii NAND Backup`.
 {: .notice--warning}
 
 #### 你需要的是
