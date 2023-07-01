@@ -53,10 +53,10 @@ title: "安装 RSSMii"
 没收到任何源更新？ 尝试使用更新频率更高的 RSS 源，比如新闻源。 如果 RSS 源的更新频率不高，那么您将不会获得很多更新。
 {: .notice--warning}
 
-We recommend you use just a few feeds, because if you subscribe to a lot of feeds you can get a ton of mail on your Wii.
+我们推荐您只订阅少量的源，因为如果您订阅了太多的源，则可能在 Wii 上收到大量的邮件。
 {: .notice--info}
 
-If you're not receiving updates after a few days, you might need to subscribe to the RSS feeds again. Launch RSSMii from the Homebrew Channel again and it'll create brand new subscriptions.
+如果几天后仍然没有收到更新，您可能需要重新订阅 RSS 源。 再次从 Homebrew Channel 启动 RSSMii，它将创建全新的订阅。
 {: .notice--info}
 
 [删除 RSSMii](rssmii-remove)
