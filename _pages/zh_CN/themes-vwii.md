@@ -1,5 +1,5 @@
 ---
-title: "Installing Wii Menu Themes on vWii"
+title: "在 vWii 上安装 Wii 菜单主题"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -25,7 +25,7 @@ If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.ne
 
 * A Wii U with the Homebrew Channel installed.
 * A Wiimote without Wii MotionPlus
-* An SD card
+* 一张SD卡
 * A computer with Windows on it (or using Mono or Wine on Mac/Linux)
 * [MyMenuify](/assets/files/Mymenuify-Old-vWii.zip)
 * [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
@@ -66,7 +66,7 @@ There are a couple of ways to get the .app files for your vWii System Menu, in t
 2. Click on `Database...`
 3. Go to `System` > `System Menu` and select the version corresponding to your region as shown in the table below.
 
-| Region | vWii Menu version |
+| 区域     | vWii Menu version |
 | ------ | ----------------- |
 | Japan  | v608              |
 | USA    | v609              |
@@ -80,7 +80,7 @@ After selecting the correct version to download, check the box for `Create Decry
 
 After the download has finished, search for the .app file corresponding to your region in the folder where NUS Downloader is.
 
-| Region | .app file for your region |
+| 区域     | .app file for your region |
 | ------ | ------------------------- |
 | Japan  | 0000001c.app              |
 | USA    | 0000001f.app              |
@@ -112,7 +112,7 @@ If you did everything correctly, you should now have your custom theme installed
 
 ##### Reverting to Original Theme
 
-1. Launch the Homebrew Channel.
+1. 启动 Homebrew Channel。
 2. Launch MyMenuify and navigate to your theme folder.
 3. Select the .app file you copied to the SD card at the end of section 2 as if you were installing a theme.
 4. Select Install and wait until it finishes.
