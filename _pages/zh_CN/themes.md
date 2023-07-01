@@ -7,35 +7,35 @@ title: "安装 Wii 菜单主题"
 如果您对本教程有任何问题或需要帮助，请加入 [RiiConnect24 Discord 服务器](https://discord.gg/rc24)（推荐）或 [发送电子邮件至 support@riiconnect24.net](mailto:support@riiconnect24.net) 与我们联系。
 {: .notice--info}
 
-Are you tired of the boring, plain white theme on your Wii Menu, and want a cool theme instead? This tutorial will help you get a new theme for your Wii Menu!
+您是否厌倦了 Wii 菜单上单调无味的白色主题，想要一个酷炫的主题替代它？ 本教程将帮您为 Wii 菜单获取一个新主题！
 
-To protect against bricks, [make sure you install Priiloader](priiloader). Also, install [BootMii](bootmii) (as Boot2 if you have an early Wii, otherwise IOS). Installing brick protection along with following the guide correctly should keep you safe from bricks. DO NOT CONTINUE UNTIL YOU HAVE INSTALLED PRIILOADER AND BOOTMII!
+为防止变砖，请[确保已安装 Priiloader](priiloader)。 此外，安装 [BootMii](bootmii)（如果是早期 Wii 则安装到 boot2，否则安装为 IOS）。 安装变砖保护，同时正确遵守指南，应该能够防止变砖。 在您安装 PRIILOADER 和 BOOTMII 之前，请不要继续进行操作！
 {: .notice--danger}
 
-Only install themes on your Wii that have been formatted specifically for it, and its current region. Installing themes from the wrong region or version on your Wii will cause a brick. This tutorial will tell you how to create a .csm file that is safe to install.
+请仅安装针对您的 Wii 和其当前区域专门设计过的主题。 安装错误区域或版本的主题会导致您的 Wii 变砖。 本教程将告诉您如何创建一个安全可安装的 .csm 文件。
 {: .notice--danger}
 
-This guide is intended for regular Wiis only. For installing themes on vWii (Wii U), follow [this page](themes-vwii).
+本指南仅适用于普通的 Wii。 若要在 vWii (Wii U) 上安装主题，请参考[此页面](themes-vwii)。
 {: .notice--warning}
 
-For safety purposes, please do not use any other version of MyMenuify than the one linked here, as MyMenuify Mod is the safest way to install a theme.
+为了安全起见，请仅使用这里提供的 MyMenuify 版本，因为 MyMenuify Mod 是安装主题最安全的方法。
 {: .notice--warning}
 
-Do not use any other version of ThemeMii than the one linked here, as ThemeMii Mod allows you to make a theme for Wii Menu version 4.3, other versions may not.
+请仅使用这里提供的 ThemeMii 版本，因为 ThemeMii Mod 允许您制作适用于 Wii 菜单版本 4.3 的主题，其他版本可能不兼容。
 {: .notice--warning}
 
-We recommend you [install cIOS](cios) before continuing.
+我们建议在继续之前[安装 cIOS](cios)。
 {: .notice--info}
 
 #### 你需要的是
 
-* A Wii
-* 一张 SD 卡或 U 盘
-* A computer with Windows on it (or using Mono or Wine on Mac/Linux)
+* 一台 Wii
+* 一张SD卡或U盘
+* 运行 Windows 的电脑（或在 Mac/Linux 上使用 Mono 或 Wine）
 * [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
 * [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 
-#### Theme Links
+#### 主题链接
 
 以下是一些主题的链接。
 
@@ -43,25 +43,25 @@ We recommend you [install cIOS](cios) before continuing.
 * [Google Drive 仓库](https://drive.google.com/drive/folders/1K1WQe36bGibsF4ZlAxZKU6ngNpjUnh5i)
 * [Wii Theme Team Creations v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
-MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
+在继续之前，请确保您已阅读上述警告！
 {: .notice--danger}
 
 #### 步骤
 
-##### Section I - Finding a Theme
+##### 第一部分 - 寻找主题
 
-* Find a theme you want to install. Some themes have YouTube videos to show what the theme looks like, but unfortunately some of the videos are no longer available.
-* Once you found one you like, click the download link corresponding to your Wii Menu version. **It's very important to pick the correct version to avoid bricks.**
-* You probably will pick the download link that says 4.X, that means the theme will work on version 4.1, 4.2 and 4.3 of the Wii Menu.
-* Some themes have different links for different regions, so pick the one corresponding to your Wii's region.
-* There are other resources for Wii Menu themes, but they might be in csm form (ready to install on the Wii). If the csm doesn't match the version and region of your Wii Menu, try to convert it to mym with ThemeMii Mod, and then convert it back to csm with the instructions here using the version and region of your Wii Menu.
-* Once you downloaded the theme you want and double-checked you got the right one, extract the .zip file for ThemeMii Mod and open the application.
+* 找到您想要安装的主题。 一些主题有 YouTube 视频展示主题的样子，但不幸的是，其中一些视频已不再可用。
+* 一旦您找到喜欢的主题，请点击与您的 Wii 菜单版本相对应的下载链接。 **选择正确的版本非常重要，以避免变砖。**
+* 您可能会选择标有 4.X 的下载链接，这意味着该主题适用于 Wii 菜单的 4.1、4.2 和 4.3 版本。
+* 一些主题针对不同区域提供不同的下载链接，因此请选择与您的 Wii 区域对应的链接。
+* 还有其它一些资源可以获取 Wii 菜单主题，但它们可能以 .csm 格式提供（已准备好安装到 Wii 上）。 如果 csm 不与您的 Wii 菜单区域匹配，可以尝试使用 ThemeMii Mod 将其转换为 mym，然后按照这里的说明，使用与您的 Wii 菜单版本和区域相匹配的选项将其转换回 csm。
+* 一旦您下载了想所需的主题并确认选择了正确的版本，解压 ThemeMii Mod 的 .zip 文件并打开应用程序。
 
-##### Section II - Building the Theme
+##### 第二部分 - 构建主题
 
-1. A dialog box will pop up telling you to only install themes if you have brick protection. If you installed Priiloader and/or BootMii (see the warning at the start of this guide), press OK.
-2. Go to `Tools` > `Download Base App` > Version of your Wii Menu > Region of your Wii Menu
-3. A dialog box will pop up asking you to enter in a value to create a key. Enter in what it says, it will create a key that will be used to decrypt the Wii Menu contents from Nintendo's servers.
+1. 将弹出一个对话框，提醒您 only install themes if you have brick protection。 如果您已经安装了 Priiloader 和/或 BootMii（请参考本指南开头处的警告），请点击 OK。
+2. 前往 `Tools` > `Download Base App` > Wii 菜单版本 > Wii 菜单区域。
+3. 将弹出对话框，要求您输入一个值来创建密钥。 根据提示输入相应的内容，它将创建用于解密从任天堂服务器上下载 Wii 菜单内容的密钥。
 4. A file selection box will ask you where to save the .app file (that is the Wii Menu content file it downloaded). Save it to the directory where ThemeMii is in.
 5. Go to `Options` > `Standard System Menu` > Version of your Wii Menu > Region of your Wii Menu
 6. Go to `File` > `Open`, then browse for where your .mym file is.
