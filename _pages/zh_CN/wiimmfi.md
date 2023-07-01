@@ -4,27 +4,27 @@ title: "Wiimmfi"
 
 {% include toc title="Table of Contents" %}
 
-如果你需要有关本教程的任何帮助, 请加入[RiiConnect24 Discord服务器](https://discord.gg/rc24) (推荐)或 [发送电子邮件到 support@riiconnect24.net](mailto:support@riiconnect24.net)。
+如果您对本教程有任何问题或需要帮助，请加入 [RiiConnect24 Discord 服务器](https://discord.gg/rc24)（推荐）或 [发送电子邮件至 support@riiconnect24.net](mailto:support@riiconnect24.net) 与我们联系。
 {: .notice--info}
 
 ![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
 
-[Wiimmfi](https://wiimmfi.de) is a replacement service for the now-defunct Nintendo Wi-Fi Connection. It has been developed by Wiimm and Leseratte.
+[Wiimmfi](https://wiimmfi.de) 是已停止服务的任天堂Wi-Fi连接的替代服务。 它由 Wiimm 和 Leseratte 开发。
 
-If you get the error 23904 while connecting to Wiimmfi, then you are using an outdated patch.<br> Follow the steps below for the method you're using to connect to Wiimmfi again.<br> See [this page](https://wiimmfi.de/update) for more details.<br>
+如果您在连接Wiimmfi时发生错误23904，则您使用的是过时的补丁。 <br> 请按照下列步骤操作以重新连接到Wiimmfi。 <br> 查看[此页面](https://wiimmfi.de/update)以了解更多信息。<br>
 {: .notice--warning}
 
-## Different patchers
+## 不同的补丁程序
 
-There are lots of different methods to connect to Wiimmfi. Choose the one that fits your needs best.
+有许多不同的方法可以连接到 Wiimmfi。 选择最适合您需求的方法。
 
-### Automatic patching from the Disc Channel using Priiloader
+### 使用 Priiloader 从光盘频道自动修补
 
 #### 你需要的是
 
-- A Wii with Priiloader 0.9 or later installed
+- 安装了 Priiloader 0.9 或更高版本的 Wii
 
-If you have an older version of Priiloader or don't have it installed, follow [this guide](priiloader) to update/install it.
+如果您使用的是旧版本的 Priiloader 或尚未安装，请参考[此指南](priiloader)进行更新/安装。
 {: .notice--info}
 
 #### 步骤
@@ -40,52 +40,52 @@ If you have an older version of Priiloader or don't have it installed, follow [t
 如果您使用 U 盘安装 Priiloader，请确保没有同时插入 SD 卡。 这将导致 Priiloader 找不到 hacks_hash.ini 文件。
 {: .notice--info}
 
-4. Make sure the `Wiimmfi patch v4` hack is enabled. ![System Menu Hacks](/images/Priiloader/hacks.jpg)
+4. 请确保启用了 `Wiimmfi patch v4` 修改。 ![System Menu Hacks](/images/Priiloader/hacks.jpg)
 1. 向下滚动到 `save settings`，按 A，然后按 B 返回到 Priiloader 的主菜单。
 1. 滚动到 `Homebrew Channel`，按 A 启动它。
 
-If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
+如果您看到的是 `Wiimmfi patch v2` 或 `Wiimmfi patch v3`，那么你没有最新版本的 hacks_hash.ini 文件。<br> 从[这里](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini)下载它并将其放在 SD 卡或 U 盘的 `/apps/priiloader/hacks_hash.ini` 路径下。<br> 然后，重复之前的步骤。
 {: .notice--warning}
 
-### Homebrew (Disc) Application
+### 自制（光盘）应用程序
 
-MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
+MrBean35000vr（CTGP-R 的作者，马里奥赛车 Wii 的自定义纹理包）创建了 Wiimmfi Disc Patcher，它允许你插入光盘并即时对游戏打 Wiimmfi 补丁，不过每次启动光盘都需要运行该补丁。
 
 #### 你需要的是
 
-- 一张 SD 卡或 U 盘
+- 一张SD卡或U盘
 - [Auto Wiimmfi Patcher](https://download.wiimmfi.de/patcher/autowiimmfipatcher-latest.zip)
 
 #### 步骤
 
-1. Extract Auto Wiimmfi Patcher to the root of your SD card or USB drive.
-2. Insert your SD Card into your Wii, and launch Auto Wiimmfi Patcher from the Homebrew Channel.
-3. Insert your game disc (you can insert it before or after launch, it doesn't matter).
-4. Wait for patch to complete, and it'll begin!
+1. 解压 Auto Wiimmfi Patcher 到 SD 卡或 U 盘的根目录。
+2. 将 SD 卡插入 Wii，然后从 Homebrew Channel 启动 Auto Wiimmfi Patcher。
+3. 插入游戏光盘（您可以在启动之前或之后插入，没有关系）。
+4. 等待补丁完成，然后它就会开始运行！
 
-### No-Homebrew (Disc)
+### 无自制软件（光盘）
 
-##### str2hax Method
+##### str2hax 方法
 
-Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
+感谢 Fullmetal5 的 str2hax 漏洞，Leseratte 能够将其适配到 Wiimmfi patcher 中，因此您无需任何自制软件即可在 Wii 上运行 Wiimmfi 补丁。
 
 ##### 你需要的是
 
-- 一台有互联网连接的Wii
+- 一台连接互联网的Wii
 
 ##### 步骤
 
-1. Insert your game disc.
-2. Go into your internet connection settings and set the DNS server of your console to 95.217.77.151.
-3. Go to the WC24 contract information (third button after clicking on "Internet" in the settings).
-4. Confirm that you do want to use WC24 and the shop channel
-5. The Wiimmfi patcher page should show up. If it doesn't, and you still see the default license agreement, your router might not be compatible with this method.
-6. Wait for about 1 minute and 30 seconds for the patcher to load
-7. The game should now start with the Wiimmfi patch included
+1. 插入您的游戏光盘。
+2. 请进入互联网连接设置并将主机的 DNS 服务器设置为 95.217.77.151。
+3. 前往 WC24 合同信息（在设置中点击 “Internet” 后的第三个按钮）。
+4. 确认您要使用 WC24 和 shop channel
+5. 应该显示 Wiimmfi patcher 页面。 如果没有显示出来，而是仍然看到默认的许可协议，那么您的路由器可能不兼容这种方法。
+6. 请等待大约 1 分钟 30 秒以加载 patcher
+7. 现在，游戏应该在包含 Wiimmfi 补丁的情况下启动。
 
-### DNS Method
+### DNS 方法
 
-There's an easy method to patch games to use Wiimmfi that can be used whether or not you have homebrew on your Wii. It works on some games, such as Mario Kart Wii and Super Smash Bros. Brawl, but not every game.
+有一种简单的方法可以为游戏应用 Wiimmfi 补丁，无论您的 Wii 上是否有自制软件都可以使用。 这种方法适用于一些游戏，比如《马里奥赛车Wii》和《任天堂明星大乱斗X》，但并非适用于所有游戏。
 
 #### 步骤
 
@@ -102,104 +102,104 @@ There's an easy method to patch games to use Wiimmfi that can be used whether or
 11. 选择 `OK` 以进行连接测试。
 12. 如果连接测试成功，请选择 `否` 以跳过 Wii 系统更新。
 
-If you get error 107304, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. 您可以将 `Auto-Obtain DNS` 设置为 `On` 来解决此问题。 即使没有这个设置，RiiConnect24 仍然可以正常工作。 或者，您可以使用我们的 [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) 程序。
+如果您遇到错误 107304，那意味着您的互联网服务提供商（ISP）或网络正在阻止使用某个 DNS。 您可以将 `Auto-Obtain DNS` 设置为 `On` 来解决此问题。 即使没有这个设置，RiiConnect24 仍然可以正常工作。 或者，您可以使用我们的 [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) 程序。
 {: .notice--warning}
 
-### Automatic patching using a USB Loader
+### 使用 USB Loader 自动修补
 
-If you are already using USB Loader GX, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
+如果您正在使用 USB Loader GX，请尝试将其更新到最新版本。 然后，在全局加载器选项和游戏选项中应该有一个名为 "private server" 的设置，您可以将其设置为 "Wiimmfi"，以便 USB Loader 在您启动每个游戏时自动应用 Wiimmfi 补丁，以便与 Wiimmfi 配合使用。
 
-### ISO Patching
+### ISO 补丁
 
-You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
+您可能不想每次都运行 patcher 才能在 Wiimmfi 上玩游戏，或者您可能已经在使用 USB Loader。 因此创建了 ISO 补丁，其中一些转为特定游戏而设计。
 
 #### 你需要的是
 
-- Your copy of your game (WBFS, ISO, cISO, and other forms that a Wii can use are supported).
-- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
-  **or**
-- [Wiimmfi Patcher (cross-platform)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
-- A USB Loader, [cIOS](cios), and a USB to store the game on (you should already have these if you're using a USB Loader)
+- 您的游戏副本（支持 WBFS、ISO、cISO 等 Wii 支持的其它格式）。
+- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) （Windows 和 Unix）  
+  **或**
+- [Wiimmfi Patcher（跨平台）](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
+- USB Loader，[cIOS](cios)，和用于存储游戏的 USB（如果您正在使用 USB Loader，则应该已经拥有这些）。
 
 #### 步骤
 
-1. Extract the patcher of your choice to a folder, and place your copy of the game in it.
-2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the patcher for your game.
-3. Once it's finished, get the version out of the `wiimmfi-images` folder (it may be in the folder outside of the patcher - ../wiimmfi-images) and copy it back to your USB.
+1. 将您选择的 patcher 解压到一个文件夹中，并将游戏副本放入其中。
+2. 运行适用于您的操作系统的补丁脚本：通常在 Windows 上以 `.bat` 结尾，在 Mac/Linux 上以 `.sh` 结尾。 如果您正在使用 RiiConnect24 Patcher，选择您的设备（Wii、vWii 或 Dolphin），然后选择适用于您的游戏的 patcher。
+3. 完成后，从 `wiimmfi-images` 文件夹中获取版本（它可能位于 patcher 外部的文件夹中 - ../wiimmfi-images），然后将其复制回您的 USB。
 
-### WiiWare Patching
+### WiiWare 补丁
 
-You can patch WiiWare games in order to play them on Wiimmfi.
+您可以对 WiiWare 游戏进行补丁，以便在 Wiimmfi 上游玩。
 
 #### 你需要的是
 
 - 一张SD卡
-- Your copy of your game (in WAD format)
-- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
-  **or**
-- [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (cross platform)
+- 游戏副本（WAD 格式）
+- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) （Windows 和 Unix）  
+  **或**
+- [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases)（跨平台）
 - [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
-[If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
+[如果您想了解如何使用 WiiWare Patcher，请点击这里！](wiiwarepatcher)
 {: .notice--info}
 
-Steps:
+步骤：
 
-1. Extract the .zip of the latest version of WiiWare Patcher, and put your WAD in it.
-2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
-3. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
+1. 解压最新版本的 WiiWare Patcher .zip 文件，并将您的 WAD 放入其中。
+2. 运行适用于您的操作系统的补丁脚本：通常在 Windows 上以 `.bat` 结尾，在 Mac/Linux 上以 `.sh` 结尾。 如果您正在使用 RiiConnect24 Patcher，选择您的设备（Wii、vWii 或 Dolphin），然后选择 WiiWare patcher。
+3. 如果操作成功完成，请使用 Wii Mod Lite 安装位于 `wiiware-wads` 文件夹的 WAD。
 
-## Other stuff
+## 其它东西
 
-### Mario Kart Wii Competitions
+### 马里奥赛车Wii 大赛
 
-Wiimmfi allows you to participate in Mario Kart Wii competitions again.
+Wiimmfi 允许您再次参加马里奥赛车Wii 大赛。
 
 #### 你需要的是
 
-- 一张 SD 卡或 U 盘
+- 一张SD卡或U盘
 - Mario Kart Wii Competition Patcher
   - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
   - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
 #### 步骤（适用于 Wii）
 
-1. Extract Mario Kart Wii Competition Patcher and put it in the `apps` folder on your SD Card.
-2. Insert your SD card or USB drive into the Wii.
-3. Launch the original Mario Kart Wii game (not Wiimmfi patched).
-4. Navigate to Settings -> Network Settings (or Nintendo WFC Connection) -> Message Service. If you turned the message service feature on, turn it off and turn it on again.
-5. Launch Mario Kart Wii Competition Patcher.
-6. The patcher will look for save files for Mario Kart Wii on your storage device in various places, and upload them. This is done in case a missing competition is found in your save file. It will also, of course, patch your Wii for competitions.
+1. 将 Mario Kart Wii Competition Patcher 解压到 SD 卡的 `apps` 文件夹。
+2. 将 SD 卡或 U 盘插入 Wii。
+3. 启动原始马里奥赛车Wii（不是 Wiimmfi 补丁版本）。
+4. 移动到设置 -> 网络设置（或任天堂WFC连接）-> 消息服务。 如果您已开启消息服务功能，请将其关闭，然后再次打开。
+5. 启动 Mario Kart Wii Competition Patcher。
+6. patcher 将在存储设备的各个位置上查找马里奥赛车Wii 的存档并上传它们。 这样做是为了防止存档文件中缺少比赛信息。 当然，它也会为您的 Wii 打上大赛补丁。
 
-If you're using the Wii U, you will have to run the competitions patcher whenever you want to check for a competition, because WiiConnect24 is not enabled on the Wii U.
+如果您使用 Wii U，每当您想检查比赛时，您将需要运行 competitions patcher，因为 WiiConnect24 在 Wii U 上不可用。
 {: .notice--info}
 
-### DS Games
+### DS 游戏
 
-Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks to an exploit called nds-constraint, you can play DS games online without patching your games.
+Wiimmfi 不仅支持 Wii 游戏，还支持许多 DS 游戏。 通过名为 nds-constraint 的漏洞，您可以在不对游戏进行补丁的情况下在线玩 DS 游戏。
 
 #### 你需要的是
 
-- A Wi-Fi network with WEP or no security
+- 具有 WEP 或无安全性的 Wi-Fi 网络
 
-Getting a Wi-Fi network with WEP or no security is the hardest part, because DS games don't support newer Wi-Fi security types. However, many routers support creating a guest Wi-Fi connection, or you can make a hotspot on your phone or your computer. There are plenty of resources on the Internet that have information on this, so use your favorite search engine to find them.
+获取一个使用 WEP 或没有任何安全性的 Wi-Fi 网络是最困难的部分，因为 DS 游戏不支持较新的 Wi-Fi 安全类型。 然而，许多路由器支持创建一个访客 Wi-Fi 连接，或者您可以在手机或电脑上创建一个热点。 互联网上有很多提供相关信息的资源，您可以使用您喜欢的搜索引擎来查找它们。
 {: .notice--info}
 
-Some games are DSi enhanced which means you can play games online without having only WEP or no security on your router if you have a DSi or 3DS. Pokémon Black and Pokémon White are DSi enhanced. In order to make use of it, follow the instructions below via the DSi or 3DS Wi-Fi settings. Those are separate from the DS Wi-Fi settings.
+一些游戏具有 DSi 增强功能，这意味着如果您拥有 DSi 或 3DS，即使您的路由器仅支持 WEP 或没有安全性也可以在线玩游戏。 宝可梦 黑／白是 DSi 增强游戏。 为了使用此功能，请通过 DSi 或 3DS 的 Wi-Fi 设置按照以下说明进行操作。 那些是独立于 DS 的 Wi-Fi 设置的。
 {: .notice--info}
 
 #### 步骤
 
-1. Go in the Nintendo DS Wi-Fi settings. This can be accessed inside the game you want to play online with.
-2. Set up a connection.
+1. 转到 NDS Wi-Fi 设置。 这可以通过您想要在线玩的游戏内部访问。
+2. 进行连接设置。
 3. 将主要DNS设置为 `167.86.108.126`。
 4. 将次要DNS设置为 `1.1.1.1`。
-5. Save your connection settings and perform a connection test. If it's successful, then you're ready to play.
+5. 保存您的连接设置并执行连接测试。 如果连接测试成功，您就可以开始游戏了。
 
-If you get error 20110, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. 您可以将 `Auto-Obtain DNS` 设置为 `On` 来解决此问题。 即使没有这个设置，RiiConnect24 仍然可以正常工作。 或者，您可以使用我们的 [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) 程序。
+如果您遇到错误 20110，那意味着您的互联网服务提供商（ISP）或网络正在阻止使用某个 DNS。 您可以将 `Auto-Obtain DNS` 设置为 `On` 来解决此问题。 即使没有这个设置，RiiConnect24 仍然可以正常工作。 或者，您可以使用我们的 [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) 程序。
 {: .notice--warning}
 
-You cannot use Sudomemo, which revives Flipnote Studio on the DSi, if you're using this DNS. If you want to use Sudomemo instead of playing games on Wiimmfi, you will have to set your primary DNS to `104.248.0.110` on Wi-Fi settings on your DSi or 3DS, not the DS Wi-Fi settings. Or you can use their [DNS-Server](https://github.com/Sudomemo/sudomemoDNS) program.
+如果您使用了此 DNS 就无法使用 Sudomemo，该服务可在 DSi 上恢复 Flipnote Studio。 如果您希望使用 Sudomemo 而不是 Wiimmfi 玩游戏，您需要在 DSi 或 3DS 的 Wi-Fi 设置中将主 DNS 设置为 `104.248.0.110`，而不是 DS 的 Wi-Fi 设置中。 Or you can use their [DNS-Server](https://github.com/Sudomemo/sudomemoDNS) program.
 {: .notice--warning}
 
 ### Mario Kart Wii Mods
