@@ -60,15 +60,15 @@ WiiFlow 可以从SD 卡或移动硬盘/U 盘加载游戏。
 
 - 星星 - 添加游戏到收藏夹。
 - 书架 - 将游戏添加到您选择的 6 个类别中的 1 个。
-- Gears - Opens the settings menu for the specific game. Changing settings here will only effect the game you changed the settings for.
-- X - Deletes the game from the USB drive or SD card
+- 齿轮 - 打开特定游戏的设置菜单。 在这里更改的设置仅对您更改设置的游戏有效。
+- X - 从 SD 卡或 U 盘删除游戏
 
-When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
+当您将光标移动到 flow 视图底部时，有 6 个图标:
 
-- Bookshelf - View the games that are sorted in the categories you chose.
-- Star - View games you favorited.
-- Gears - Opens WiiFlow Settings.
-- Game Type - Toggles between different types of apps/games. The logo changes depending on what game type you have selected.
+- 书架 - 查看按您选择的类别排序的游戏。
+- 星星 - 查看您收藏的游戏。
+- 齿轮 - 打开 WiiFlow 设置。
+- 游戏类型 - 在不同类型的应用/游戏之间切换。 The logo changes depending on what game type you have selected.
 - Disc - Loads game that is in disc drive.
 - House - Will open this menu. This menu can also be launched by pressing the home button.
 
