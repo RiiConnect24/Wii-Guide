@@ -4,7 +4,7 @@ title: "WiiFlow"
 
 {% include toc title="Table of Contents" %}
 
-如果你需要有关本教程的任何帮助, 请加入[RiiConnect24 Discord服务器](https://discord.gg/rc24) (推荐)或 [发送电子邮件到 support@riiconnect24.net](mailto:support@riiconnect24.net)。
+如果您对本教程有任何问题或需要帮助，请加入 [RiiConnect24 Discord 服务器](https://discord.gg/rc24)（推荐）或 [发送电子邮件至 support@riiconnect24.net](mailto:support@riiconnect24.net) 与我们联系。
 {: .notice--info}
 
 ![WiiFlow](/images/wiiflowlogo.png)
@@ -40,7 +40,7 @@ Make sure your USB drive is formatted to either FAT32 or NTFS. FAT32 is the most
 
 #### 步骤
 
-##### Downloading
+##### 下载
 
 1. Extract WiiFlow and put the `apps` and `WiiFlow` folders on your USB drive or SD card.
 2. Insert your USB drive, and SD card if you're using one, into your Wii and launch WiiFlow from the Homebrew Channel.
@@ -83,7 +83,7 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 - Exit To - Lets you exit to Wii Menu, HBC, neek2o, Priiloader and Bootmii.
 - Settings - Will open the WiiFlow Settings menu
 
-##### Options once complete
+##### 完成后的选项
 
 [WiiFloWiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFloWiki is a great resource with information about WiiFlow.
 {: .notice--info}
