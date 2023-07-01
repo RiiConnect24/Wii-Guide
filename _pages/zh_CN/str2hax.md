@@ -4,59 +4,59 @@ title: "str2hax"
 
 {% include toc title="Table of Contents" %}
 
-如果你需要有关本教程的任何帮助, 请加入[RiiConnect24 Discord服务器](https://discord.gg/rc24) (推荐)或 [发送电子邮件到 support@riiconnect24.net](mailto:support@riiconnect24.net)。
+如果您对本教程有任何问题或需要帮助，请加入 [RiiConnect24 Discord 服务器](https://discord.gg/rc24)（推荐）或 [发送电子邮件至 support@riiconnect24.net](mailto:support@riiconnect24.net) 与我们联系。
 {: .notice--info}
 
-Note that if your ISP or networking environment prevents using custom DNS servers, str2hax will not work and you should [choose another exploit to use](get-started).
+请注意，如果您的 ISP 或网络禁止自定义 DNS 服务器，str2hax 将无法工作，您应该[选择其它漏洞](get-started)。
 {: .notice--warning}
 
-str2hax is an exploit for the Wii that is triggered by loading the Wii's End User License Agreement. It requires nothing but an Internet connection that lets you change the DNS on your Wii.
+str2hax 是一种通过加载 Wii 最终用户许可协议触发的 Wii 漏洞。 它只需要一个可以在 Wii 上更改 DNS 的互联网连接。
 
 #### 你需要的是
 
-* 一台有互联网连接的Wii
+* 一台连接互联网的Wii
 
 #### 步骤
 
-##### Section I - Connecting
+##### 第一部分 - 连接
 
-This exploit requires you to set your DNS in order to connect to a server that contains the exploit.
+此漏洞需要您设置 DNS，以便连接到包含漏洞的服务器。
 
-1. 转到 `Wii Options（Wii 选项）`。 ![Wii Options](/images/RiiConnect24/Internet_1.png)
-1. 转到 `Wii Settings（Wii 设置）`。 ![Wii Settings](/images/RiiConnect24/Internet_2.png)
-1. 转到 `第 2 页`，然后点击 `Internet`。 ![Internet](/images/RiiConnect24/Internet_3.png)
-1. 转到 `Connection Settings（连接设置）`。 ![Connection Settings](/images/RiiConnect24/Internet_4.png)
-1. Select your current connection. ![Current Connection](/images/RiiConnect24/Internet_5.png)
-1. 转到 `Change Settings（更改设置）`。 ![Change Settings](/images/RiiConnect24/Internet_6.png)
-1. 转到 `Auto-Obtain DNS（自动获取 DNS）`（不是 IP 地址），然后选择 `否`，然后选择 `Advanced Settings（高级设置）`。 ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
-1. Type in `18.188.135.9` as the Primary DNS. ![str2hax DNS](/images/str2hax/dns.png)
+1. 转到 `Wii 选项`。 ![Wii 选项](/images/RiiConnect24/Internet_1.png)
+1. 转到`Wii 设置`。 ![Wii 设置](/images/RiiConnect24/Internet_2.png)
+1. 转到 `第 2 页`，然后点击 `Internet`。 ![互联网](/images/RiiConnect24/Internet_3.png)
+1. 转到`连接设置`。 ![连接设置](/images/RiiConnect24/Internet_4.png)
+1. 选择当前连接。 ![当前连接](/images/RiiConnect24/Internet_5.png)
+1. 转到`更改设置`。 ![更改设置](/images/RiiConnect24/Internet_6.png)
+1. 转到 `自动获取 DNS` (不是 IP 地址)，然后选择 `否`，然后选择 `高级设置`。 ![自动获取 DNS](/images/RiiConnect24/Internet_7.png)
+1. 将主要 DNS 设置为 `18.188.135.9`. ![str2hax DNS](/images/str2hax/dns.png)
 
-If there are 3 fields instead of 2 (like above), go back and make sure you are on the `Auto-Obtain DNS` page.
+如果存在 3 个字段而不是 2 个（如上所示），请返回并确保您位于 `自动获取 DNS` 页面上。
 {: .notice--warning}
 
-1. 选择 `Confirm（确认）`，然后选择 `Save（保存）`。 ![Save DNS](/images/RiiConnect24/Internet_10.png)
-1. 选择 `OK` 以进行连接测试。 ![Connection Test](/images/RiiConnect24/Internet_11.png) ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)
+1. 选择 `Confirm（确认）`，然后选择 `Save（保存）`。 ![保存 DNS](/images/RiiConnect24/Internet_10.png)
+1. 选择 `OK` 以进行连接测试。 ![连接测试](/images/RiiConnect24/Internet_11.png) ![连接测试成功](/images/RiiConnect24/Internet_12.png)
    - 如果连接测试成功，请选择 `否` 以跳过 Wii 系统更新。
-   - If it fails with error code `521xx`, please verify that you have entered the DNS correctly.
-   - If it is still unsuccessful, please [use another exploit](get-started).
+   - 如果出现错误代码 `521xx`，请验证您输入的 DNS 是否正确。
+   - 如果仍然不成功，请[使用其它漏洞](get-started)。
 
-##### Section II - Triggering the Exploit
+##### 第二部分 - 触发漏洞
 
-1. Go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`.
-1. Click on `Next`. You should be greeted with the following screen: ![str2hax EULA page](/images/str2hax/EULA.png)
-1. Give the exploit 1-2 minutes to download (and don't press `I ACCEPT`/`I DO NOT ACCEPT`).
-1. Once the exploit downloads, you will see a few text screens, then a mess of colors, then finally, the HackMii Installer. ![HackMii Installer scam screen](/images/hackmii/scam.png)
+1. 前往 `Internet` 部分，然后选择 `用户协议` 或 `Agreement/Contact`，然后选择 `是`。
+1. 点击 `下一个`。 您将会看到以下屏幕： ![str2hax EULA 页](/images/str2hax/EULA.png)
+1. 请给漏洞 1-2 分钟的时间下载（不要点击 `I ACCEPT`/`I DO NOT ACCEPT`）。
+1. 一旦完成下载，您会看到一些文本屏幕，然后是一片混乱的颜色，最后出现 HackMii Installer。 ![HackMii Installer 诈骗屏幕](/images/hackmii/scam.png)
 
 [继续到 安装 Homebrew Channel 和 BootMii](hbc)
 {: .notice--info}
 
-##### Common issues
+##### 常见问题
 
-If you get the normal User Agreements, your ISP blocks the use of custom DNS. Please [use another exploit](get-started).
+如果您看到了正常的用户协议，这意味着您的 ISP 阻止了使用自定义 DNS。 请[使用其它漏洞](get-started)。
 {: .notice--warning}
 
-If the HackMii Installer doesn't load after more than 2 minutes, or you receive an error like `Hanging.` or `ERROR! if_config (ret = ...)`, please restart your Wii and try again.
+如果超过 2 分钟后仍然无法加载 HackMii Installer，或者出现错误类似 `Hanging.` 或 `ERROR! if_config (ret = ...)`，请重启 Wii，然后再试一次。
 {: .notice--warning}
 
-If you have installed a mod like CTGP Revolution or Project+, str2hax may load that instead. If it does, restart your Wii and try again without your SD card inserted.
+如果您安装了类似 CTGP Revolution 或 Project+ 的修改版，str2hax 可能会加载该修改版而不是 HackMii Installer。 如果发生这种情况，请重启 Wii，并在没有插入 SD 卡的情况下再次尝试。
 {: .notice--warning}
