@@ -4,7 +4,7 @@ title: "RiiConnect24 Clear Tool"
 
 {% include toc title="Sumário" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
@@ -19,14 +19,14 @@ RiiConnect24 Clear Tool is a homebrew application that can fix these specific er
 - NEWS000006
 - Clears out Wii mailboxes in case they are full (this can fix Wii Mail)
 
-#### What you need
+#### Você precisará de
 
-- An SD card or USB drive
+- Um cartão SD ou armazenamento USB
 - [RiiConnect24 Clear Tool](https://oscwii.org/library/app/RC24-Clear-Tool)
 - [WiiXplorer](https://oscwii.org/library/app/wiixplorer-ss)
 - [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
 
-#### Instructions
+#### Instruções
 
 #### Section I - Backing up Wii Message Board Data (Optional)
 
