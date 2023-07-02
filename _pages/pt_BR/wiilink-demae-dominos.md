@@ -19,14 +19,14 @@ Currently, only the USA and Canada are supported.
 You cannot use the default Dolphin NAND with this service. You must use your own NAND dump. This can be done in Dolphin by going to the toolbar and clicking `Tools -> Manage NAND -> Import BootMii NAND Backup`.
 {: .notice--warning}
 
-#### What you need
+#### Você precisará de
 
-- An SD card or USB drive
+- Um cartão SD ou armazenamento USB
 - A Wii console with an active internet connection
 - A computer with an active internet connection
 - A Discord account
 
-#### Instructions
+#### Instruções
 
 ##### Section I - Getting Started
 
@@ -95,5 +95,5 @@ If you have previously placed an order, skip to step 4.
 
 **_Happy ordering!_**
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
 {: .notice--info}
