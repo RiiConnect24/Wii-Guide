@@ -2,7 +2,7 @@
 title: "Wilbrand"
 ---
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![Wilbrand](/images/wilbrand/icon.png)
@@ -12,7 +12,7 @@ Wilbrand, like LetterBomb, is an exploit for the Wii that is triggered using the
 Unlike LetterBomb, Wilbrand supports Wii menu versions down to 3.0.
 {: .notice--info}
 
-#### What you need
+#### Você precisará de
 
 - A PC running Windows, MacOS or Linux
 - An SD card formatted to FAT32/MS-DOS
@@ -20,7 +20,7 @@ Unlike LetterBomb, Wilbrand supports Wii menu versions down to 3.0.
 - [Wilbrand](https://static.wiidatabase.de/Wilbrand.zip)
 - [HackMii Installer v1.2](https://bootmii.org/download/)
 
-#### Instructions
+#### Instruções
 
 1.  On your Wii, go to `Wii Settings`, and make note of the version at the top right. Proceed to `Internet` -> `Console Information` and also make note of your MAC address.
 1.  Extract the Wilbrand zip to a folder on your PC, preferably on your desktop.
