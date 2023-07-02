@@ -14,27 +14,27 @@ GameCube Backup Manager é um aplicativo de PC conveniente que simplifica o proc
 - Um cartão SD ou armazenamento USB
 - [GameCube Backup Manager](https://github.com/AxionDrak/GameCube-Backup-Manager/releases)
 
-To play multiple games, it is recommended to use an external hard drive for your Wii. Any external hard drive found on most modern marketplaces should work with your Wii.
+Para jogar vários jogos, é recomendado o uso de um HD externo para seu Wii. Qualquer HD externo encontrado na maioria dos mercados modernos deve funcionar com o seu Wii.
 {: .notice--info}
 
-Make sure your USB drive is formatted as FAT32. Do not format it as other types such as NTFS, exFAT, extFS, or WBFS, the latter being an outdated filesystem for storing Wii games.
+Certifique-se de que seu armazenamento USB está formatado como FAT32. Não formate-o para outros tipos como NTFS, exFAT, extFS, ou WBFS, o último sendo um sistema de arquivo desatualizado para armazenar jogos de Wii.
 {: .notice--info}
 
 #### Instruções
 
 ##### Seção I - Baixando
 
-1. Extract GameCube Backup Manager, and launch the program.
-2. Insert your USB drive into your computer.
+1. Extraia o GameCube Backup Manager, e inicie o programa.
+2. Insira seu armazenamento USB no seu computador.
 
-##### Section II - Copying Games Over
+##### Seção II - Copiando os Jogos
 
-1. Open the application and locate the folder button in the bottom right corner. Click on it to open the file explorer window.
-2. Navigate to the location of the game file you want to transfer. This could be on your computer's hard drive or an external storage device. Once you find the file, select it by clicking on it.
-3. Click on the `Files (Destination)` tab, then select the `Inactive` option from the dropdown menu. This will allow you to choose the drive where you want to transfer the game. Select the appropriate drive letter from the list.
-4. Next, go back to the `Files (Source)` tab, select the game you want to transfer, and then click either `Install Game (1:1)` or `Install Game (Scrub)`.
+1. Abra o aplicativo e procure o botão da pasta no canto inferior direito. Clique nele para abrir a janela do explorador de arquivos.
+2. Navegue até o local do arquivo do jogo que você deseja transferir. Isso pode estar no HD do seu computador ou em um dispositivo de armazenamento externo. Assim que encontrar o arquivo, selecione-o clicando nele.
+3. Clique na seção `Files (Destination)`, então selecione a opção `Inactive` do menu. Isso irá permitir que você escolha qual armazenamento você deseja transferir o jogo. Selecione a letra do armazenamento apropriada da lista.
+4. Agora, vá para a seção `Files (Source)`, selecione o jogo que deseja transferir, e clique em `Install Game (1:1)` ou `Install Game (Scrub)`.
 
-Selecting `Install Game (Scrub)` will remove unnecessary data from the game, reducing the game's file size.
+Selecionar `Install Game (Scrub)` irá remover dados desnecessários do jogo, reduzindo o espaço do arquivo do jogo.
 {: .notice--info}
 
 [Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
