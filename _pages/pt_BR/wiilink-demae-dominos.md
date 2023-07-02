@@ -2,7 +2,7 @@
 title: WiiLink Food Delivery Channel (Domino's) Guide
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sumário" %}
 
 If you need help for anything regarding this tutorial, please join [the WiiLink Discord server](https://discord.gg/wiilink-750581992223146074).
 {: .notice--info}
