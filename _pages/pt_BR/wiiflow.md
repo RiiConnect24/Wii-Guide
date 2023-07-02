@@ -4,16 +4,16 @@ title: "WiiFlow"
 
 {% include toc title="Sumário" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![WiiFlow](/images/wiiflowlogo.png)
 
 This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that's used to play games from a USB drive or SD card.
 
-#### What you need
+#### Você precisará de
 
-- A Wii
+- Um Wii
 - A USB drive and/or SD card
 - [WiiFlow Lite](https://hbb1.oscwii.org/hbb/wiiflow/wiiflow.zip)
 
@@ -38,7 +38,7 @@ WiiFlow can load games from an SD card or a USB drive.
 Make sure your USB drive is formatted to either FAT32 or NTFS. FAT32 is the most ideal option as it supports both Wii and GameCube games unlike NTFS. Do not format it as other types such as exFAT, extFS, or WBFS.
 {: .notice--info}
 
-#### Instructions
+#### Instruções
 
 ##### Downloading
 
@@ -91,5 +91,5 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 [Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that WiiFlow Lite can integrate with. This is optional to set up.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
 {: .notice--info}
