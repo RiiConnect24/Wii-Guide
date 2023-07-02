@@ -6,7 +6,7 @@ title: "d2xl cIOS para Wii mini (experimental)"
 
 Este tutorial irá lhe ensinar a como instalar d2xl Wii mini cIOS (IOS customizada) feito por Leseratte. Isso é necessário caso queira jogar com USB Loaders. Alguns aplicativos homebrew podem funcionar melhor com o uso de cIOS.
 
-![d2x cIOS Installer](/images/cios/cIOS.png)
+![Instalador d2x cIOS](/images/cios/cIOS.png)
 
 Esse guia é apenas com intenção para usuários de Wii Mini. Se você possui um Wii, siga [este guia](cios) ao invés desse.
 {: .notice--warning}
@@ -40,16 +40,16 @@ O d2x cIOS installer foi originalmente desenvolvido para o vWii do Wii U por Dav
     ```
 Tome nota do número da versão (`IOS57-64-` finalizando em ambos `v31776` ou `v31775`)
 1. Quando feito, pressione A para instalar. Assim que terminar, saia do instalador.
-   - If the install fails with a `TMD version mismatch` error, press left or right on the +Control Pad over the `Select cIOS base` option until the version number is different than the one you tried before. The number 57 will not change.
+   - Se a instalação falhar com um erro `TMD version mismatch`, pressione esquerda ou direita no +Control Pad em cima da opção `Select cIOS base` até que o número da versão seja diferente do que você tentou antes. O número 57 não irá mudar.
 
 
-##### Enabling Ethernet
-If you wish to use Wiimmfi with Ethernet on a Wii mini, you have to run the [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip) app made by Fullmetal5. To run it, just unzip it in the `apps` folder of your USB drive and run it from the Homebrew Channel.
+##### Ativando Ethernet
+Se você deseja usar o Wiimmfi com cabo Ethernet em um Wii mini, execute o aplicativo [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip) por Fullmetal5. Para executar, basta extrair o arquivo na pasta `apps` do seu armazenamento USB e executá-lo pelo Homebrew Channel.
 
-The Wii and Wii mini consoles are only known to work with Ethernet adapters using the AX88772 chip. Please check that the product is compatible before you buy. This one from UGREEN is known to be compatible: [Amazon Europe](https://www.amazon.de/dp/B00MYT481C), [Amazon US](https://www.amazon.com/dp/B08DRKYKMM/)
+Os consoles Wii e Wii Mini só funcionam com adaptadores de Ethernet que usam o chip AX88772. Por favor, verifique se o produto é compatível antes de comprar. Este de UGREEN é conhecido por ser compatível: [Amazon da Europa](https://www.amazon.de/dp/B00MYT481C), [Amazon dos EUA](https://www.amazon.com/dp/B08DRKYKMM/)
 {: .notice--info}
 
-Do not attempt to install a Wii IOS or System Menu on the Wii mini. Doing so will likely brick your console.
+Não tente instalar uma IOS do Wii ou um Menu do Sistema no Wii Mini. Se fizer isso irá provavelmente brickar seu console.
 {: .notice--warning}
 
 Você agora poderá usar homebrew como o [USB Loader GX](usbloadergx) e [WiiFlow](wiiflow).
