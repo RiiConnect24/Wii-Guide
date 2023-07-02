@@ -4,12 +4,12 @@ title: RiiTag on Wii U
 
 {% include toc title="Sumário" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You launch a plugin on your Wii U console via Aroma, and the tag updates on-the-fly.
 
-#### What you need
+#### Você precisará de
 
 - A device capable of interacting with SD cards
 - Softmodded Wii U console with Aroma custom firmware
@@ -20,7 +20,7 @@ RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynam
 Previously, UTag allowed using other custom firmware (often abbreviated as CFW), but the only supported custom firmware, and the only one you should be using, is Aroma.
 {: .notice--warning}
 
-#### Instructions
+#### Instruções
 
 ##### Section I - Website instructions
 
@@ -47,5 +47,5 @@ You don't need to manually run the plugin - just run Aroma and it will automatic
 You have now set up RiiTag on your Wii U! Now go play some games, and watch them show up on your RiiTag!
 {: .notice--success}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
 {: .notice--info}
