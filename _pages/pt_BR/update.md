@@ -4,7 +4,7 @@ title: "Updating Wii Menu to v4.3"
 
 {% include toc title="Sumário" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 This tutorial will explain how to update your Wii Menu to version 4.3, if you have already homebrewed your Wii.
@@ -12,9 +12,9 @@ This tutorial will explain how to update your Wii Menu to version 4.3, if you ha
 It is much safer to use [ModMii](https://modmii.github.io) (Windows only) to update your Wii to 4.3.
 {: .notice--warning}
 
-#### What you need
+#### Você precisará de
 
-* An SD card or USB drive
+* Um cartão SD ou armazenamento USB
 * A computer with Windows on it
 * [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest)
 * [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
@@ -22,9 +22,9 @@ It is much safer to use [ModMii](https://modmii.github.io) (Windows only) to upd
 If you don't have a Windows computer, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-#### Instructions
+#### Instruções
 
-##### Section I - Downloading
+##### Seção I - Baixando
 
 Your Wii must be modded in order to perform this. If it isn't, then it's best to follow [the guide](get-started) first before doing this.
 {: .notice--info}
@@ -47,7 +47,7 @@ To protect against bricks, [make sure you install Priiloader](priiloader). Also,
 | Europe | v514 (4.3E)      |
 | Korea  | v518 (4.3K)      |
 
-##### Section II - Installing
+##### Parte II - Instalando
 
 You use the +Control Pad to use this tool.
 {: .notice--info}
