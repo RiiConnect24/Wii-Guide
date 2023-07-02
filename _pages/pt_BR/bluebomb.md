@@ -2,22 +2,22 @@
 title: "BlueBomb"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sumário" %}
 
-It is **strongly** advised against using **any** video guide for hacking your Wii mini console, as there is an extremely large chance of **bricking** it.
+É **fortemente** aconselhado não utilizar **qualquer** vídeo como guia para desbloquear o seu Wii Mini, por ter uma grande chance de **brickar** ele.
 {: .notice--warning}
 
-If you need help with anything regarding this tutorial, please join [the Wii mini Hacking Discord server](https://discord.gg/6ryxnkS) (recommended)
+Caso precise de ajuda com algo relacionado a este tutorial, entre no servidor do Discord dedicado para hacks do Wii mini:[](https://discord.gg/6ryxnkS) (recomendado)
 {: .notice--info}
 
 ![BlueBomb](/images/bluebomb.png)
 
-BlueBomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Although it is the only exploit that works for the Wii mini, BlueBomb can run on the original Wii as well. This exploit also enables recovery from certain bricks, such as a banner brick.
+BlueBomb é um exploit que tira proveito de uma falha nas libraries do Bluetooth do Wii e do Wii Mini. Embora seja o único exploit que funciona no Wii Mini, BlueBomb também pode ser utilizado no Wii original. Esse exploit também permite a recuperação de certos bricks, como um banner brick.
 
-For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
+Para o Wii original, nós não recomendamos utilizar BlueBomb se você pretende instalar o Homebrew Channel e BootMii, já que existem exploits mais convenientes disponíveis.
 {: .notice--info}
 
-#### Section I - What you need
+#### Seção I - O que você precisa
 - A Linux machine
   - A Virtual Machine may work, but it is not recommended due to its complexity in getting Bluetooth passthrough working. If possible, please use a LiveUSB as described below.
   - If you have a Raspberry Pi, you can use that instead as it most likely has Linux installed already.
