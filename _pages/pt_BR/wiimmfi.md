@@ -71,7 +71,7 @@ Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for th
 
 ##### Você precisará de
 
-- A Wii with an Internet connection
+- Um Wii conectado a Internet
 
 ##### Instruções
 
