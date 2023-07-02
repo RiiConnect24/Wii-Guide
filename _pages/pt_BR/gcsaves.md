@@ -39,9 +39,9 @@ Se você está procurando por exploits de saves de jogo para inicializar no [Swi
 ##### Restaurando
 
 1. Insira seu cartão de memória físico no Slot A ou Slot B.
-2. Selecione o dispositivo no qual você deseja restaurar. ![Device](/images/gcsaves/gcmm-select-device.jpg)
+2. Selecione o dispositivo no qual você deseja restaurar. ![Dispositivo](/images/gcsaves/gcmm-select-device.jpg)
 3. No GCMM, aperte X em um controle de GameCube ou + em um Wii remote. ![Menu](/images/gcsaves/gcmm-menu.jpg)
-4. Selecione o slot no qual seu cartão de memória se encontra. ![Memory](/images/gcsaves/gcmm-mem-select.jpg)
+4. Selecione o slot no qual seu cartão de memória se encontra. ![Memória](/images/gcsaves/gcmm-mem-select.jpg)
 5. Selecione o save que quer restaurar. Se você tem múltiplos saves a restaurar, você pode apertar R em um controle de GameCube ou 1 em um Wii remote para restaurar todos os seus saves. ![Save](/images/gcsaves/gcmm-select-save.jpg)
 6. Assim que a restauração for completa, aperte qualquer botão para continuar.
 
@@ -64,9 +64,9 @@ Se você está procurando por exploits de saves de jogo para inicializar no [Swi
 ##### Fazendo Backup
 
 1. Insira seu cartão de memória físico no Slot A ou Slot B.
-2. Selecione o dispositivo no qual você deseja fazer o backup. ![Device](/images/gcsaves/gcmm-select-device.jpg)
+2. Selecione o dispositivo no qual você deseja fazer o backup. ![Dispositivo](/images/gcsaves/gcmm-select-device.jpg)
 3. No GCMM, aperte Y em um controle de GameCube ou - em um Wii remote. ![Menu](/images/gcsaves/gcmm-menu.jpg)
-4. Selecione o slot no qual seu cartão de memória se encontra. ![Memory](/images/gcsaves/gcmm-mem-select.jpg)
+4. Selecione o slot no qual seu cartão de memória se encontra. ![Memória](/images/gcsaves/gcmm-mem-select.jpg)
 5. Selecione o save no qual você deseja fazer o backup. Se você tem múltiplos saves a fazer backup, você pode apertar R em um controle de GameCube ou 1 em um Wii remote para fazer um backup de todos os seus saves. ![Save](/images/gcsaves/gcmm-select-save.jpg)
 6. Assim que o backup for completo, aperte qualquer botão para continuar.
 
@@ -87,12 +87,12 @@ Se você está procurando por exploits de saves de jogo para inicializar no [Swi
 
 #### Extraindo o .raw
 
-1. Insert your memory card into Slot A or Slot B.
-2. Select the device you want to dump to. ![Device](/images/gcsaves/gcmm-select-device.jpg)
-3. Press L and Y at the same time on GameCube Controller or B and - at the same time on the Wii remote to backup your to a .raw file and select the slot your memory card is in. ![Memory](/images/gcsaves/gcmm-mem-select.jpg)
-4. When the dump is complete, press any button to continue. It should be saved in a folder on the root of your SD or USB called `MCBACKUP`.
+1. Insira seu cartão de memória no Slot A ou Slot B.
+2. Selecione o dispositivo no qual você deseja extrair. ![Dispositivo](/images/gcsaves/gcmm-select-device.jpg)
+3. Pressione L e Y ao mesmo tempo em um controle de GameCube ou B e - ao mesmo tempo em um Wii remote para fazer um backup do seu arquivo .raw e selecionar o slot no qual o seu cartão de memória se encontra. ![Memória](/images/gcsaves/gcmm-mem-select.jpg)
+4. Assim que a extração for completa, aperte qualquer botão para continuar. Deve estar salvo em uma pasta na raíz do seu SD ou USB chamada `MCBACKUP`.
 
-## Restoring an Emulated Memory Save to a Physical Memory Card
+## Restaurando um Save de Memória Emulada para um Cartão de Memória Físico
 
 #### Você precisará de
 
@@ -102,33 +102,33 @@ Se você está procurando por exploits de saves de jogo para inicializar no [Swi
 
 #### Instruções
 
-1. If you are trying to restore a save from Dolphin, go to the `File` tab in Dolphin, select open user folder, open the GC folder, and find the `.raw` file.
-2. If you are restoring a Nintendont emulated memory card save, navigate to the `saves` folder on the root of your SD card or USB.
-3. Insert your memory card into Slot A or Slot B.
-4. Selecione o dispositivo no qual você deseja restaurar. ![Device](/images/gcsaves/gcmm-select-device.jpg)
-5. Press L and X at the same time on GameCube controller or B and + at the same time on the Wii remote.
-6. Selecione o slot no qual seu cartão de memória se encontra. ![Memory](/images/gcsaves/gcmm-mem-select.jpg)
-7. It should restore the .raw file to your memory card. Assim que a restauração for completa, aperte qualquer botão para continuar.
+1. Se você está tentando restaurar um save do Dolphin, vá para a aba `File` no Dolphin, selecione open user folder, abra a pasta GC, e encontre o arquivo `.raw`.
+2. Se você está restaurando um save de cartão de memória emulado do Nintendont, navegue para a pasta `saves` na raíz do seu cartão SD ou USB.
+3. Insira seu cartão de memória no Slot A ou Slot B.
+4. Selecione o dispositivo no qual você deseja restaurar. ![Dispositivo](/images/gcsaves/gcmm-select-device.jpg)
+5. Pressione L e X ao mesmo tempo em um controle de GameCube ou B e + ao mesmo tempo em um Wii remote.
+6. Selecione o slot no qual seu cartão de memória se encontra. ![Memória](/images/gcsaves/gcmm-mem-select.jpg)
+7. Deve restaurar seu arquivo .raw para seu cartão de memória. Assim que a restauração for completa, aperte qualquer botão para continuar.
 
-## Transferring Saves Between 2 Physical Memory Cards
+## Transferindo Saves Entre 2 Cartões de Memória Físicos
 
 #### Você precisará de
 
 - Um Wii com portas de GameCube
-- At least 2 physical memory cards
+- Pelo menos 2 cartões de memória físicos
 
 ### Instruções
 
-1. Insert both memory cards into the Wii.
-2. From the System menu, navigate into `Wii Options`, `Data Management`, `Save Data`, `Nintendo GameCube`. ![sysmenu](/images/gcsaves/sysmenu.jpg) <br>
+1. Insira ambos cartões de memória no Wii.
+2. A partir do Menu do Sistema, navegue para `Wii Options`, `Data Management`, `Save Data`, `Nintendo GameCube`. ![sysmenu](/images/gcsaves/sysmenu.jpg) <br>
 
-   ![settings](/images/gcsaves/settings.jpg) <br>
+   ![configurações](/images/gcsaves/settings.jpg) <br>
 
-   ![data management](/images/gcsaves/data-management.jpg) <br>
+   ![gerenciamento de dados](/images/gcsaves/data-management.jpg) <br>
 
    ![save data](/images/gcsaves/save-data.jpg)
 
-3. Find the save you want, select it and select `Move or Copy`.
+3. Ache o save que você quer, selecione-o e selecione `Move or Copy`.
 
 [Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
 {: .notice--info}
