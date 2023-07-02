@@ -7,7 +7,7 @@ title: "GameCube Backup Manager"
 Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-GameCube Backup Manager is a convenient PC software that simplifies the process of transferring GameCube games to your USB drive or SD Card. It functions similar to the popular tool called [Wii Backup Manager](wiibackupmanager), allowing you to easily manage and organize your GameCube game backups. With this program, you can effortlessly copy your favorite GameCube games onto portable storage devices, making them readily accessible for future gaming sessions.
+GameCube Backup Manager é um aplicativo de PC conveniente que simplifica o processo de transferir jogos de GameCube para seu armazenamento USB ou cartão SD. Funciona similarmente a uma ferramenta popular chamada [Wii Backup Manager](wiibackupmanager), permitindo que você facilmente gerencie seus backups de jogos de GameCube. Com esse programa, você pode sem esforço algum copiar seus jogos favoritos de GameCube em dispositivos de armazenamento portáteis, fazendo com que sejam rapidamente acessíveis para futuras sessões de jogatina.
 
 #### Você precisará de
 
