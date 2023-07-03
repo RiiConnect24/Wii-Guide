@@ -1,5 +1,5 @@
 ---
-title: "重新启动 HackMii Installer"
+title: "Relaunching the HackMii Installer"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -11,11 +11,6 @@ title: "重新启动 HackMii Installer"
 
 [重新利用任何漏洞](get-started)以重新进入 HackMii Installer 也是安全的。
 {: .notice--info}
-
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'hbc')">使用 Homebrew Channel</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'priiloader')">使用 Priiloader</button>
-
-<div id="hbc" class="blanktabcontent" markdown="1">
 
 ### 通过 Homebrew Channel 重新启动
 
@@ -32,9 +27,9 @@ title: "重新启动 HackMii Installer"
   - 如果文件夹不存在，请创建它。
 1. 将 SD/USB 插入 Wii，并从 Homebrew Channel 中启动 `hackmii_installer_v1.2` 应用程序。
   - 该应用程序将没有图标。
-</div>
 
-<div id="priiloader" class="blanktabcontent" markdown="1">
+[Continue to Homebrew Channel and BootMii installation](hbc)
+{: .notice--info}
 
 ### 通过 Priiloader 重新启动
 
@@ -42,7 +37,8 @@ title: "重新启动 HackMii Installer"
 - 安装了 Priiloader（或 Preloader）的 Wii
 - 格式化为 FAT32/MS-DOS 的 SD 卡或 U 盘
 - [HackMii Installer v1.2](https://bootmii.org/download/)
-要检查您的 Wii 是否安装了 Priiloader，请在开机时按住 RESET 按钮。 ![开机](/images/Priiloader/on.jpg) ![按住 RESET](/images/Priiloader/reset.jpg)
+
+To check if your Wii has Priiloader, hold the RESET button while turning it on. ![打开](/images/Priiloader/on.jpg) ![按住 RESET](/images/Priiloader/reset.jpg)
 {: .notice--info}
 
 #### 步骤
@@ -54,32 +50,6 @@ title: "重新启动 HackMii Installer"
 1. 通过在打开 Wii 时按住 RESET 按钮进入 Priiloader。
 1. 进入 `Load/Install File`。
 1. 移动至 `hackmii_installer_v1.2` 并按 `1` 以加载。
-</div>
 
 [继续到 安装 Homebrew Channel 和 BootMii](hbc)
 {: .notice--info}
-
-<script>
-    let tabcontent = document.getElementsByClassName("blanktabcontent");
-    let tablinks = document.getElementsByClassName("tablinks");
-
-    function openTab(evt, tabName) {
-        let element;
-
-        for (element of tabcontent) {
-            element.style.display = "none";
-        }
-
-        for (element of tablinks) {
-            element.className = element.className.replace("btn--primary", "btn--info");
-            if (!element.className.includes('btn--info'))
-                element.className += " btn--info";
-        }
-
-        document.getElementById(tabName).style.display = "block";
-        evt.currentTarget.className = evt.currentTarget.className.replace("btn--info", "btn--primary");
-    }
-
-    // Get the element with id="defaultOpen" and click on it
-    document.getElementById("defaultOpen").click();
-</script>
