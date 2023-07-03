@@ -12,11 +12,6 @@ This guide is intended for situations where you need to relaunch the HackMii Ins
 It is also safe to [redo any exploit](get-started) to get back into the HackMii Installer.
 {: .notice--info}
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'hbc')">Using the Homebrew Channel</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'priiloader')">Using Priiloader</button>
-
-<div id="hbc" class="blanktabcontent" markdown="1">
-
 ### Relaunching via the Homebrew Channel
 
 #### Requisitos
@@ -32,9 +27,9 @@ It is also safe to [redo any exploit](get-started) to get back into the HackMii 
   - If this folder does not exist, create it.
 1. Insert the SD/USB into your Wii, and launch the `hackmii_installer_v1.2` app from the Homebrew Channel.
   - The app will not have an icon.
-</div>
 
-<div id="priiloader" class="blanktabcontent" markdown="1">
+[Continue to Homebrew Channel and BootMii installation](hbc)
+{: .notice--info}
 
 ### Relaunching via Priiloader
 
@@ -42,7 +37,8 @@ It is also safe to [redo any exploit](get-started) to get back into the HackMii 
 - a Wii with Priiloader (or Preloader) installed
 - an SD card or USB drive formatted to FAT32/MS-DOS
 - [HackMii Installer v1.2](https://bootmii.org/download/)
-To check if your Wii has Priiloader, hold the RESET button while turning it on. ![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
+
+To check if your Wii has Priiloader, hold the RESET button while turning it on. ![Encender](/images/Priiloader/on.jpg) ![Mantener RESET](/images/Priiloader/reset.jpg)
 {: .notice--info}
 
 #### Instrucciones
@@ -54,32 +50,6 @@ To check if your Wii has Priiloader, hold the RESET button while turning it on. 
 1. Enter Priiloader by holding the RESET button while turning on your Wii.
 1. Go to `Load/Install File`.
 1. Navigate to `hackmii_installer_v1.2` and press `1` to load it.
-</div>
 
 [Continuar a la instalación del Canal Homebrew y BootMii](hbc)
 {: .notice--info}
-
-<script>
-    let tabcontent = document.getElementsByClassName("blanktabcontent");
-    let tablinks = document.getElementsByClassName("tablinks");
-
-    function openTab(evt, tabName) {
-        let element;
-
-        for (element of tabcontent) {
-            element.style.display = "none";
-        }
-
-        for (element of tablinks) {
-            element.className = element.className.replace("btn--primary", "btn--info");
-            if (!element.className.includes('btn--info'))
-                element.className += " btn--info";
-        }
-
-        document.getElementById(tabName).style.display = "block";
-        evt.currentTarget.className = evt.currentTarget.className.replace("btn--info", "btn--primary");
-    }
-
-    // Get the element with id="defaultOpen" and click on it
-    document.getElementById("defaultOpen").click();
-</script>
