@@ -44,6 +44,7 @@ sitemap: false
 - [Homebrew Channel](hbc)
 - [LetterBomb](letterbomb)
 - [Priiloader](priiloader)
+- [Relaunching the HackMii Installer](hackmii)
 - [str2hax](str2hax)
 - [Wii Mod Lite](wiimodlite)
 - [Wilbrand](wilbrand)
