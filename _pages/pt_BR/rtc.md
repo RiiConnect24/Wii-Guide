@@ -23,7 +23,7 @@ In this step, you will synchronize your Wii with a NTP time server. This will se
 5. Use the +Control Pad to select the current time.
 6. Press the HOME Button to exit.
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. A instalação é opcional.
+[Continue para RiiConnect24](riiconnect24)<br> RiiConnect24 permite que você use serviços descontinuados da WiiConnect24, que incluem as Notícias, Previsão, Everybody Votes, Nintendo e Check Mii Out Channel, junto com o Wii Mail. A instalação é opcional.
 {: .notice--info}
 
 [Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
