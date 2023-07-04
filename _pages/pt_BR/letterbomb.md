@@ -7,11 +7,11 @@ Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [
 
 ![LetterBomb](/images/letterbomb.png)
 
-LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
+LetterBomb é um exploit para o Wii que é acionado usando o Wii Message Board.
 
 #### Você precisará de
-- An SD card formatted to FAT32/MS-DOS
-- A Wii on System Menu version 4.3
+- Um cartão SD formatado para FAT32/MS-DOS
+- Um Wii no Menu do Sistema na versão 4.3
 
 #### Instruções
 
