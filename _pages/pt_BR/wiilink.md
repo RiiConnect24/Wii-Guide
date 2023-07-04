@@ -9,7 +9,7 @@ title: "WiiLink"
 #### Você precisará de
 
 - Um cartão SD ou armazenamento USB
-- A Wii with an Internet connection
+- Um Wii conectado a Internet
 - A Windows, macOS, or Linux computer
 - [WiiLink Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
@@ -17,7 +17,7 @@ title: "WiiLink"
 
 ##### Section I - Patching WADs
 
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+[Se você quer ver instruções detalhadas sobre como instalar WADs, clique aqui!](wiimodlite)
 {: .notice--info}
 
 1. Download `WiiLink_Patcher_<OS Platform>_v1.X.X`, where `<OS Platform>` is either `Windows`, `macOS`, or `Linux`, depending on your operating system.
@@ -33,10 +33,10 @@ title: "WiiLink"
 7. It may take a moment for the patcher to download the files to your SD Card or USB Drive.
 8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
 9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to<br>`WiiLink_Patcher_<OS Platform>_v1.X.X` to the root of your SD Card or USB Device.
-10. Put your SD card or USB drive in your Wii.
+10. Coloque seu cartão SD ou armazenamento USB no seu Wii.
 11. Launch the Homebrew Channel on your Wii.
-12. Launch Wii Mod Lite.
-13. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
+12. Inicie o Wii Mod Lite.
+13. Usando o +Control Pad no seu Wii Remote, navegue para `WAD Manager`, depois navegue até a pasta `wad`.
 14. If your Wii is not a Japanese region, install `WiiLink_SPD (Wii).wad` or `WiiLink_SPD (vWii).wad` (Depending on console platform) before anything else. This is required so that we know your email address to send files.
 15. Highlight all other WADs with `WiiLink` in the name and press + to select them. When all of them are selected, press A twice to install the WADs.
     - If you have previously installed the RiiConnect24 versions of the Forecast Channel and the Nintendo Channel, installing WiiLink's will overwrite them.
@@ -60,10 +60,10 @@ Adding your email to the Address Information (SPD) settings menu will allow the 
 For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
 {: .notice--info}
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. A instalação é opcional.
+[Continue para RiiConnect24](riiconnect24)<br> RiiConnect24 permite que você use serviços descontinuados da WiiConnect24, que incluem as Notícias, Previsão, Everybody Votes, Nintendo e Check Mii Out Channel, junto com o Wii Mail. A instalação é opcional.
 {: .notice--info}
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. A instalação é opcional.
+[Continue para Wiimmfi](wiimmfi)<br> Wiimmfi permite que jogue jogos online mesmo após a descontinuação do Nintendo Wi-Fi Connection. A instalação é opcional.
 {: .notice--info}
 
 [Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
