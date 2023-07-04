@@ -15,7 +15,7 @@ Unlike LetterBomb, Wilbrand supports Wii menu versions down to 3.0.
 #### Você precisará de
 
 - A PC running Windows, MacOS or Linux
-- An SD card formatted to FAT32/MS-DOS
+- Um cartão SD formatado para FAT32/MS-DOS
 - A Wii on at least version 3.0
 - [Wilbrand](https://static.wiidatabase.de/Wilbrand.zip)
 - [HackMii Installer v1.2](https://bootmii.org/download/)
