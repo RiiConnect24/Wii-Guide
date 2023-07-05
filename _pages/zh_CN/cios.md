@@ -28,7 +28,7 @@ title: "cIOS"
 ##### 第一部分 - 下载
 
 如果您的 Wii 已连接到互联网，您可以跳过此部分。 <br/> 然而，如果您遇到任何错误，比如 `tcp_read timeout` 和 `net_gethostbyname failed:`，这将允许 Wii 跳过下载的步骤。
-{: .notice--info}
+{: .notice--warning}
 
 1. 下载、解压并运行 [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip)。
 1. 选择 "Database"，"IOS"，然后选择 "IOS38"，最后选择 "v4123"。
@@ -119,7 +119,7 @@ Select cIOS version: 65535
 1. 向下滚动至 `Game IOS`。
 1. 输入要使用的 IOS 插槽。
     - 如果 249 不工作，尝试使用 250 或 251。
-1. 按确定并尝试加载游戏。
+1. Press OK and try to load the game.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. 选择无法运行的游戏。
