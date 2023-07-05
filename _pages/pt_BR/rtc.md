@@ -2,7 +2,7 @@
 title: "Setting RTC Time"
 ---
 
-If you need help with anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor de Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 You need an Internet connection in order to use this application.
@@ -18,7 +18,7 @@ In this step, you will synchronize your Wii with a NTP time server. This will se
 
 1. Extract sntp and put it in the `apps` folder on your SD card or USB drive.
 2. Insert your SD card or USB drive into your Wii.
-3. Launch the Homebrew Channel on your Wii.
+3. Inicie o Homebrew Channel no Wii.
 4. Launch sntp.
 5. Use the +Control Pad to select the current time.
 6. Press the HOME Button to exit.
