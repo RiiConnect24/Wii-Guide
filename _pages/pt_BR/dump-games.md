@@ -73,10 +73,13 @@ Se você descarregou o disco em um formato FAT32, o dispositivo deve ter pelo me
 
 ## Windows
 
-1. Copie todos os arquivos que compartilham o mesmo nome e termine com `.partX.iso` em uma pasta em seu computador.
-1. Abra uma janela de Prompt de Comando.
-1. Use o comando `cd <path>` e substitua `<path>` pelo caminho para os seus arquivos `.partX.iso`.
-1. Use o seguinte comando como está: `copy /b *.part?.iso game.iso`.
+1. Copy all the files that share the same name and end with `.partX.iso` into an empty folder on your computer.
+1. Open the folder in File Explorer.
+1. While holding Shift, right click on an empty space within the folder.
+1. Select "Open PowerShell window here".
+1. In the new window that appears, type `cmd` and press enter.
+1. Finally, type `copy /b *.part?.iso game.iso` and press enter.
+1. Wait until it finishes. You can confirm this when "1 file(s) copied." appears.
 
 ## macOS/Linux
 
