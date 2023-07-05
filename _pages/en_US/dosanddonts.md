@@ -23,7 +23,7 @@ Here's a list of things you should and should not do once you've modded your Wii
 
 If you follow these guidelines, you won't have to worry about bricking your Wii. Wii modding is safe, and bricks usually occur due to something done by the user that is on this list.
 
-Continue to installing cIOS<br>
+[Continue to installing cIOS](cios)<br>
 cIOS are used to play games with a USB Loader. It's also useful for many other homebrew apps.
 {: .notice--info}
 
