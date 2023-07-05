@@ -119,7 +119,7 @@ Uma lista mais completa (embora ainda incompleta) pode ser encontrada [**aqui**]
 1. Role para baixo até `Game IOS`.
 1. Digite o slot do IOS a ser usado.
     - Tente usar 250 ou 251, caso 249 não funcione.
-1. Press OK and try to load the game.
+1. Pressione OK e tente abrir o jogo.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. Selecione o jogo que não está funcionando.
