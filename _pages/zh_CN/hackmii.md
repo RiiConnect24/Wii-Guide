@@ -1,5 +1,5 @@
 ---
-title: "Relaunching the HackMii Installer"
+title: "重新启动 HackMii Installer"
 ---
 
 {% include toc title="Table of Contents" %}
@@ -28,7 +28,7 @@ title: "Relaunching the HackMii Installer"
 1. 将 SD/USB 插入 Wii，并从 Homebrew Channel 中启动 `hackmii_installer_v1.2` 应用程序。
   - 该应用程序将没有图标。
 
-[Continue to Homebrew Channel and BootMii installation](hbc)
+[继续安装 Homebrew Channel 和 BootMii](hbc)
 {: .notice--info}
 
 ### 通过 Priiloader 重新启动
@@ -38,7 +38,7 @@ title: "Relaunching the HackMii Installer"
 - 格式化为 FAT32/MS-DOS 的 SD 卡或 U 盘
 - [HackMii Installer v1.2](https://bootmii.org/download/)
 
-To check if your Wii has Priiloader, hold the RESET button while turning it on. ![打开](/images/Priiloader/on.jpg) ![按住 RESET](/images/Priiloader/reset.jpg)
+要检查您的 Wii 是否安装了 Priiloader，请在开机时按住 RESET 按钮。 ![打开](/images/Priiloader/on.jpg) ![按住 RESET](/images/Priiloader/reset.jpg)
 {: .notice--info}
 
 #### 步骤
