@@ -29,20 +29,20 @@ If you have an older version of Priiloader or don't have it installed, follow [t
 
 #### Instruções
 
-1. Hold the RESET button while turning on your Wii.
-   - If you are using a Wii mini, plug in a USB keyboard and hold Escape on it while turning it on.
+1. Segure o botão RESET enquanto liga o seu Wii.
+   - Se você estiver usando um Wii mini, conecte um teclado USB e segure Escape nele enquanto o liga.
 
-![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
+![Ligar](/images/Priiloader/on.jpg) ![Segurar RESET](/images/Priiloader/reset.jpg)
 
-2. You should see the Priiloader menu. ![Menu](/images/Priiloader/mainmenu.jpg)
-3. Go to `System Menu Hacks`.
+2. Você deve ver o menu do Priiloader. ![Menu](/images/Priiloader/mainmenu.jpg)
+3. Vá para `System Menu Hacks`.
 
-If you are using a USB drive to install Priiloader, make sure you do not have an SD card inserted at the same time. This will cause Priiloader to be unable to find the hacks_hash.ini file.
+Se você estiver usando um armazenamento USB para instalar o Priiloader, certifique-se que você não tem um cartão SD inserido no seu Wii ao mesmo tempo. Isso fará com que o Priiloader não consiga encontrar o arquivo hacks_hash.ini.
 {: .notice--info}
 
-4. Make sure the `Wiimmfi patch v4` hack is enabled. ![System Menu Hacks](/images/Priiloader/hacks.jpg)
-1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
-1. Scroll to `Homebrew Channel` and press A to launch it.
+4. Make sure the `Wiimmfi patch v4` hack is enabled. ![Hacks do Menu do Sistema](/images/Priiloader/hacks.jpg)
+1. Desça até achar `save settings` e pressione A, em seguida pressione B para retornar ao menu principal do Priiloader.
+1. Desça até `Homebrew Channel` e pressione A para iniciá-lo.
 
 If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
 {: .notice--warning}
