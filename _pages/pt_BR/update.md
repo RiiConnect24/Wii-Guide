@@ -53,7 +53,7 @@ You use the +Control Pad to use this tool.
 {: .notice--info}
 
 1. Coloque seu cartão SD ou armazenamento USB no seu Wii.
-2. Launch the Homebrew Channel on your Wii.
+2. Inicie o Homebrew Channel no Wii.
 3. Inicie o Wii Mod Lite.
 4. Usando o +Control Pad no seu Wii Remote, navegue para `WAD Manager`, depois navegue até a pasta `wad`.
 5. Press A to install the IOS80 `.wad` file. [`Make sure the installation is successful, otherwise abort.`]
