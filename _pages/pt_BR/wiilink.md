@@ -34,7 +34,7 @@ title: "WiiLink"
 8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
 9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to<br>`WiiLink_Patcher_<OS Platform>_v1.X.X` to the root of your SD Card or USB Device.
 10. Coloque seu cartão SD ou armazenamento USB no seu Wii.
-11. Launch the Homebrew Channel on your Wii.
+11. Inicie o Homebrew Channel no Wii.
 12. Inicie o Wii Mod Lite.
 13. Usando o +Control Pad no seu Wii Remote, navegue para `WAD Manager`, depois navegue até a pasta `wad`.
 14. If your Wii is not a Japanese region, install `WiiLink_SPD (Wii).wad` or `WiiLink_SPD (vWii).wad` (Depending on console platform) before anything else. This is required so that we know your email address to send files.
