@@ -73,10 +73,13 @@ title: "导出 Wii/GameCube 游戏"
 
 ## Windows
 
-1. 将所有具有相同名称并以 `.partX.iso` 结尾的文件复制到电脑的一个文件夹中。
-1. 打开命令提示符窗口。
-1. 使用 `cd <path>` 命令，并将 `<path>` 替换为 `.partX.iso` 文件的路径。
-1. 使用以下命令： `copy /b *.part?.iso game.iso`。
+1. Copy all the files that share the same name and end with `.partX.iso` into an empty folder on your computer.
+1. Open the folder in File Explorer.
+1. While holding Shift, right click on an empty space within the folder.
+1. Select "Open PowerShell window here".
+1. In the new window that appears, type `cmd` and press enter.
+1. Finally, type `copy /b *.part?.iso game.iso` and press enter.
+1. Wait until it finishes. You can confirm this when "1 file(s) copied." appears.
 
 ## macOS/Linux
 
