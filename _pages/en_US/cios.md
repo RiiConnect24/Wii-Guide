@@ -124,7 +124,7 @@ To change the cIOS used for a specific game, follow these instructions:
 1. Scroll down to `Game IOS`.
 1. Enter the IOS slot to use.
     - Try using 250 or 251, if 249 doesn't work.
-1. Press ok and try to load the game.
+1. Press OK and try to load the game.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. Select the game that isn't working.
