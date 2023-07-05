@@ -30,19 +30,19 @@ Certifique-se de que seu armazenamento USB está formatado como FAT32 ou NTFS. N
 1.  Baixe Nintendont e extraia-o para a raíz do seu cartão SD ou armazenamento USB.
 2.  Insira seu cartão SD ou armazenamento USB em seu Wii, e inicie Nintendont a partir do Homebrew Channel.
 
-##### Getting Started
+##### Primeiros Passos
 
-There is no "guide" to use Nintendont. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of Nintendont by using it.
+Não tem um "guia" para usar o Nintendont. Isso é destinado a lhe ensinar como usá-lo através de uma iniciação rápida. Você deve ser capaz de deduzir todas as ótimas capacidades do Nintendont usando ele.
 {: .notice--info}
 
-###### Key Features
+###### Principais Recursos
 
-1. You can use a GameCube controller to play your games.
-2. You can use a Wiimote to play your games, but you will need to use a Classic Controller Pro or a Wii U Pro Controller to use all of the game's features.
-3. You can use a USB keyboard to enter text in games that require it.
-4. You can use a USB drive to store your GameCube game ISOs.
-5. You can use a fan-made patch to enable online play in some games.
-6. You can use USB Loader GX or WiiFlow to play GameCube games there.
+1. Você pode usar um controle de GameCube para jogar seus jogos.
+2. Você pode usar um Wiimote para jogar, mas você precisará usar um Classic Controller Pro ou um Pro Controller do Wii U para usar todas as funcionalidades do jogo.
+3. Você pode usar um teclado USB para inserir texto em jogos que o requerem.
+4. Você pode usar um armazenamento USB para armazenar seus jogos de GameCube em ISO.
+5. Você pode usar um patch feito por fãs para habilitar o jogo online em alguns jogos.
+6. Você pode usar o USB Loader GX ou WiiFlow para jogar jogos de GameCube lá.
 
 [Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
 {: .notice--info}
