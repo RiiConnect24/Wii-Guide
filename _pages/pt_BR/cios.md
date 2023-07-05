@@ -28,7 +28,7 @@ Certifique-se de que se você estiver usando um cartão SD, a trava de bloqueio 
 ##### Seção I - Baixando
 
 Se seu Wii tem uma conexão com a Internet, você pode pular esta seção. Porém, se você encontrar quaisquer erros como `tcp_read timeout` e `net_gethostbyname failed:`, isso permitirá que o Wii pule o download.
-{: .notice--info}
+{: .notice--warning}
 
 1. Baixe, extraia e execute o [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
 1. Selecione "Database", "IOS" e, em seguida, "IOS38", e selecione "v4123".
@@ -119,7 +119,7 @@ Uma lista mais completa (embora ainda incompleta) pode ser encontrada [**aqui**]
 1. Role para baixo até `Game IOS`.
 1. Digite o slot do IOS a ser usado.
     - Tente usar 250 ou 251, caso 249 não funcione.
-1. Pressione ok e tente abrir o jogo.
+1. Press OK and try to load the game.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. Selecione o jogo que não está funcionando.
