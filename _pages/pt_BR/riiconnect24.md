@@ -20,31 +20,31 @@ This guide is for regular Wiis only.
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
+É recomendado configurar o horário atual em seu Wii antes de prosseguir. Siga [este tutorial](rtc) para configurá-lo.
 {: .notice--warning}
 
-DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
+NÃO INSTALE RIICONNECT24 EM UM WII MINI! Não irá funcionar e causará um brick no sistema.
 {: .notice--danger}
 
 #### Você precisará de
 
 - Um cartão SD ou armazenamento USB
 - Um Wii conectado a Internet
-- A computer
+- Um computador
 - [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### Instruções
 
 ##### Section I - Using RiiConnect24 Patcher
 
-If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
+Se você não conseguir corrigir a utilizar o RiiConnect24 Patcher, junte-se [ao servidor de Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [envie um e-mail para support@riiconnect24.net](mailto:support@riiconnect24.net) para obter mais assistência.
 {: .notice--info}
 
 1. Clique no link acima para ir para a página do GitHub onde está o patcher.
 2. Download `RiiConnect24Patcher.bat` if you are on Windows, and `RiiConnect24Patcher.sh` if you are on a Unix system
 3. No Windows execute `RiiConnect24Patcher.bat`. Em sistemas Unix, abra Terminal e digite `bash`, então arraste `RiiConnect24Patcher.sh` para o terminal e então pressione enter. Deve se parecer com isso `bash RiiConnect24Patcher.sh`.
 4. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`. (NOTA: Essas capturas de tela são das versões do windows) ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
-5. Select the device you're patching for. ![Select your device](/images/RC24_Patcher/2.JPG)
+5. Selecione o dispositivo que você vai patchear. ![Select your device](/images/RC24_Patcher/2.JPG)
 6. For this guide, choose "`Install RiiConnect24 on your Wii`" ![Instale RiiConnect24](/images/RC24_Patcher/3.JPG)
 7. Choose "`Express (Recommended)`". Ele vai te dar tudo que você precisa. ![Configurações Expressas](/images/RC24_Patcher/4.JPG)
 8. Selecione sua região. ![Selecione sua região](/images/RC24_Patcher/5.JPG)
