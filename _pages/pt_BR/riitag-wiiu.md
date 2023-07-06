@@ -25,13 +25,13 @@ Previously, UTag allowed using other custom firmware (often abbreviated as CFW),
 ##### Section I - Website instructions
 
 1. Go to the [RiiTag website](https://tag.rc24.xyz/).
-2. Click `Log In` and log in with your Discord account.
-3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Click `Authorize`.
+2. Clique em `Log In` e faça login com sua conta do Discord.
+3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Clique em `Autorizar`.
 4. Click `Edit Your Tag` and customize it to how you like. You can add a background, overlay, flag, nickname, Wii Number, and manually enter in games to show on your tag (not needed if you're using a USB Loader).
 5. Click `Show Key` and make note of the key shown. This will be used later on in this guide.
 6. Click `Submit` to save your changes.
 
-Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
+Do not share your RiiTag key with anyone! Se você compartilhar, as pessoas poderão abusar de sua tag.
 {: .notice--warning}
 
 ##### Section II - Setting things up on the SD card
