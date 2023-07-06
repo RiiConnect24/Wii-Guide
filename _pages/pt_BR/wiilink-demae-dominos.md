@@ -28,7 +28,7 @@ You cannot use the default Dolphin NAND with this service. You must use your own
 
 #### Instruções
 
-##### Section I - Getting Started
+##### Seção I - Primeiros Passos
 
 1. Download the latest version of the WiiLink Patcher, available [here](https://github.com/WiiLink24/WiiLink24-Patcher/tree/csharp-ver).
 2. Make sure to download the version in the README that corresponds to your operating system.
