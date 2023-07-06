@@ -65,7 +65,7 @@ You will now install the patched IOS and Channel WADs that are required to use R
 4. Usando o +Control Pad no seu Wii Remote, navegue para `WAD Manager`, depois navegue até a pasta `wad`.
 5. Highlight all the WADs in the folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
 6. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press the - Button on the highlighted WAD to uninstall it, then try installing it again.
-7. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+7. Depois que eles forem instalados com sucesso, pressione o botão HOME para sair para o Homebrew Channel.
 
 ##### Section III - Patching nwc24msg.cfg
 
