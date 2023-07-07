@@ -25,7 +25,7 @@ We do not recommend using "WAD Manager" by Waninkoko.
 
 ##### Section II - Running
 
-You use the +Control Pad to use this tool.
+Você pode usar o +Control Pad para usar essa ferramenta.
 {: .notice--info}
 
 1. Choose `WAD Manager`. ![WAD Manager](/images/WiiModLite/2.png)
