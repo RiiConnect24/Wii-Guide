@@ -7,7 +7,7 @@ sitemap: false
 ![WiiTutorials](/images/WiiTutorials.jpg)
 
 {% capture notice-1 %}
-**Featured**
+**Popular**
 
 - [cIOS](cios)
 - [Kirby TV Channel](kirby-tv)
@@ -18,7 +18,7 @@ sitemap: false
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
 {% capture notice-2 %}
-**RiiConnect24, WiiLink, and Wiimmfi**
+**RiiConnect24, WiiLink, e Wiimmfi**
 
 - [RiiConnect24](riiconnect24)
 - [RiiConnect24 vWii](riiconnect24-vwii)
@@ -29,11 +29,11 @@ sitemap: false
 - [Wiimmfi](wiimmfi)
 - [Kirby TV Channel](kirby-tv)
 - [WiiWare Patcher](wiiwarepatcher)
-- [Deleting VFFs](deleting-vffs)
-- [Fixing FORE000006](riiconnect24-batteryfix)
-- [Fixing NEWS000006](news000006)
+- [Deletando VFFs](deleting-vffs)
+- [Corrigindo FORE000006](riiconnect24-batteryfix)
+- [Corrigindo NEWS000006](news000006)
 
-**Modding 101**
+**Passo-a-Passo de Modding**
 
 - [BlueBomb](bluebomb)
 - [BootMii Backup](bootmii)
@@ -51,34 +51,34 @@ sitemap: false
 
 **Homebrew**
 
-- [Creating Wii Game Shortcuts](wiigsc)
+- [Criando Atalhos de Jogos no Wii](wiigsc)
 - [GameCube Backup Manager](gcbackupmanager)
-- [How to dump Channels (WADs)](dump-wads)
-- [How to dump GameCube/Wii Games](dump-games)
+- [Como extrair Channels (WADs)](dump-wads)
+- [Como extrair jogos de GameCube/Wii](dump-games)
 - [Instalando RSSMii](rssmii)
-- [Installing Wii Menu Themes](themes)
-- [Installing Wii Menu Themes on vWii](themes-vwii)
-- [Managing GameCube Save Files](gcsaves)
+- [Instalando Temas no Menu do Wii](themes)
+- [Instalando Temas do Wii no Menu do vWii](themes-vwii)
+- [Gerenciando Saves de GameCube](gcsaves)
 - [Nintendont](nintendont)
-- [Performing a SysCheck](syscheck)
+- [Realizando uma Syscheck](syscheck)
 - [Removendo o RSSMii](rssmii-remove)
 - [RiiTag](riitag)
-- [Setting RTC Time](rtc)
-- [Updating Wii Menu to v4.3](update)
+- [Configurando Horário do RTC](rtc)
+- [Atualizando o Menu do Wii para v4.3](update)
 - [USB Loader GX](usbloadergx)
 - [Wii Backup Manager](wiibackupmanager)
 - [WiiFlow](wiiflow)
 
 **Wii mini**
 
-- [Installing the Homebrew Channel on the Wii mini](hbc-mini)
-- [Installing cIOS on the Wii mini](cios-mini)
+- [Instalando o Homebrew Channel no Wii Mini](hbc-mini)
+- [Instalando cIOS no Wii Mini](cios-mini)
 
 **Site**
 
-- [Home](/)
-- [Get Started](get-started)
-- [FAQ](faq)
-- [Donations](donations)
+- [Início](/)
+- [Introdução](get-started)
+- [Perguntas Frequentes](faq)
+- [Doações](donations)
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
