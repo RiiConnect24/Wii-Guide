@@ -53,42 +53,42 @@ Não há um "guia" para usar o aplicativo USB Loader GX. Isso é destinado a lhe
 * Se o USB Loader GX disser "Waiting for HDD..." com uma contagem de 20 segundos, é provável que ele não esteja conseguindo achar o armazenamento USB. Tente sair do aplicativo, então reiniciá-lo após colocar o armazenamento USB na outra porta do Wii.
 * Você pode apertar o Botão 1 no seu Wii Remote para abrir um diálogo para baixar capas de jogos e artworks da [GameTDB](https://gametdb.com/). Talvez leve algum tempo para baixar as capas e artwork dos jogos, dependendo de quantos jogos tiver.
 * Tem WADs que podem abrir o USB Loader GX se você carregá-lo do Menu do Wii. Isso é chamado de forwarder WAD. Um forwarder WAD oficial pode ser encontrado [aqui](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), e uma versão para o vWii (Wii U) pode ser encontrada [aqui](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad).
-* Jogos de GameCube ou "customizados" de Wii podem ou não podem ter um banner customizado que o USB Loader GX usa. Para habilitar isso, encontre ou escreva `CustomBannersURL = http://banner.rc24.xyz/` em config/GXGlobal.cfg no seu armazenamento USB. Then you can use the "Custom Banner" download by pressing the 1 Button on your Wii Remote.
+* Jogos de GameCube ou "customizados" de Wii podem ou não podem ter um banner customizado que o USB Loader GX usa. Para habilitar isso, encontre ou escreva `CustomBannersURL = http://banner.rc24.xyz/` em config/GXGlobal.cfg no seu armazenamento USB. Então você poderá baixar "Custom Banner" pressionando o Botão 1 no seu Wii Remote.
 
-##### User Interface
+##### Interface do Usuário
 
-There are multiple buttons in the USB Loader GX interface.
+Tem vários botões na interface do USB Loader GX.
 
-###### Main Menu
+###### Menu Principal
 
-These are the functions the buttons found on the top of the main menu do, from left to right:
+Essas são as funções dos botões encontradas na parte superior do menu principal, da esquerda para a direita:
 
-* Star - Shows games that you have marked as "favorites".
-* Search - Lets you search for games by name.
-* Sort - Cycles through sorting methods for games.
-* Platform - Choose to sort games by platform.
-* Category - Sorts games by category.
-* List - Shows games in a list view.
-* Multi-Cover View - Shows games in a multi-cover view.
-* Cover Carousel View - Shows games in a carousel view.
-* Wii Menu View - Shows games in a Wii Menu view.
-* Parental Control - Locks USB Loader GX.
-* Disc - Loads a game via disc.
+* Star - Mostra jogos que você marcou como "favoritos".
+* Search - Permite que procure por jogos por nome.
+* Sort - Navegue por métodos de sortear jogos.
+* Platform - Escolher organizar jogos por plataforma.
+* Categoria - Classifica jogos por categoria.
+* List - Mostra os jogos na visualização de lista.
+* Multi-Cover View - Mostra jogos em um modo de exibição de várias capas.
+* Cover Carousel View - Mostra os jogos na vista de carrossel.
+* Wii Menu View - Mostra jogos na visualização do Menu do Wii.
+* Parental Control - Bloqueia o USB Loader GX.
+* Disc - Carrega um jogo via disco.
 
-Pressing any game will allow you to play the game by pressing "Start".
+Pressionar qualquer jogo permitirá que você jogue pressionando "Start".
 
-There are also other buttons:
+Existem também outros botões:
 
-* (+) Icon - "Install" a game, i.e. loading it from disc and dumping it.
-* Gears - Settings for USB Loader GX.
-* SD card - Remount the SD card.
-* Homebrew - Load homebrew apps.
-* Wii - Open up the HOME Menu, which can also be accessed by pressing the HOME Button on the Wii Remote.
-* Power Button - Turn off your Wii.
+* Ícone (+) - "Instalar" um jogo, ou seja, carregá-lo do disco e extraí-lo.
+* Engrenagens - Configurações para o USB Loader GX.
+* Cartão SD - Reconectar o cartão SD.
+* Homebrew - Iniciar aplicativos homebrew.
+* Wii - Inicia o Menu HOME, que também pode ser acessado pressionando o botão HOME no Wii Remote.
+* Botão Power - Desliga seu Wii.
 
-On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
+No meio da parte inferior da tela, você pode ver quanto espaço livre tem no seu armazenamento USB e quantos jogos você tem.
 
-[Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that USB Loader GX can integrate with. This is optional to set up.
+[Continue para RiiTag](riitag)<br> RiiTag é uma gamertag customizável para o seu Wii que tem integração com o USB Loader GX. A instalação é opcional.
 {: .notice--info}
 
 [Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
