@@ -8,10 +8,10 @@ title: "cIOS"
 
 ![d2x cIOS 安装程序](/images/cios/cIOS.png)
 
-如果您有Wii U(vWii),请按照[本指南](https://wiiu.hacks.guide/#/vwii-modding)安装cIOS. 尝试在vWii上安装任何其它cIOS都将不工作。
+如果您有 Wii U (vWii)，请按照[此指南](https://wiiu.hacks.guide/#/vwii-modding)安装 cIOS。 尝试在 vWii 上安装其它任何 cIOS 都不会工作。
 {: .notice--info}
 
-如果您有Wii mini, 安装[此cIOS](cios-mini). 尝试在Wii mini上安装任何其它cIOS都将不工作。
+如果您有 Wii mini，请安装[这个 cIOS](cios-mini)。 尝试在 Wii mini 上安装其它任何 cIOS 都不会工作。
 {: .notice--info}
 
 #### 你需要的是
@@ -119,7 +119,7 @@ Select cIOS version: 65535
 1. 向下滚动至 `Game IOS`。
 1. 输入要使用的 IOS 插槽。
     - 如果 249 不工作，尝试使用 250 或 251。
-1. Press OK and try to load the game.
+1. 按 OK 并尝试加载游戏。
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. 选择无法运行的游戏。
