@@ -73,10 +73,13 @@ If you dumped the disc on a FAT32 formatted, device, you should've got at least 
 
 ## Windows
 
-1. Copy all the files that share the same name and end with `.partX.iso` in a folder on your computer.
-1. Open up a Command Prompt window.
-1. Use the `cd <path>` command and replace `<path>` by the path to your `.partX.iso` files.
-1. Use the following command as is: `copy /b *.part?.iso game.iso`.
+1. Copy all the files that share the same name and end with `.partX.iso` into an empty folder on your computer.
+1. Open the folder in File Explorer.
+1. While holding Shift, right click on an empty space within the folder.
+1. Select "Open PowerShell window here".
+1. In the new window that appears, type `cmd` and press enter.
+1. Finally, type `copy /b *.part?.iso game.iso` and press enter.
+1. Wait until it finishes. You can confirm this when "1 file(s) copied." appears.
 
 ## macOS/Linux
 

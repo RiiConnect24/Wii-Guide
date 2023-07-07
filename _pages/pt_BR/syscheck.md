@@ -2,28 +2,28 @@
 title: "SysCheck"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sumário" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-A SysCheck lists all the IOS and cIOS that are on your Wii, along with some information about each of them. It also gives you some other useful information. When you have IOS-related problems on your Wii, someone might ask you to do a SysCheck.
+Uma SysCheck lista todos os IOS e cIOS que estão no seu Wii, juntamente com algumas informações sobre cada um deles. Ele também te dá outras informações úteis. Quando você tiver problemas relacionados a IOS em seu Wii, alguém pode pedir que você faça uma SysCheck.
 
-#### What you need
+#### Você precisará de
 
-* An SD card or USB drive
+* Um cartão SD ou armazenamento USB
 * [SysCheck ModMii Edition](https://hbb1.oscwii.org/hbb/SysCheckME/SysCheckME.zip)
 
-#### Instructions
-##### Section I - Downloading/Installing
+#### Instruções
+##### Parte I - Baixando/Instalando
 
-1. Extract SysCheck ModMii Edition to your SD card or USB drive.
-2. Insert your SD card or USB drive into your Wii, and launch SysCheck ModMii Edition from the Homebrew Channel.
+1. Extraia SysCheck ModMii Edition para o seu cartão SD ou armazenamento USB.
+2. Insira o seu cartão SD ou drive USB no seu Wii, e inicie o SysCheck ModMii Edition através do Homebrew Channel.
 
-##### Section II - Performing a SysCheck
+##### Seção II - Executando uma SysCheck
 
-1. Wait for the program to get some information about your Wii.
-2. When "This IOS will be tested (Please select)" is shown on the screen, press A. ![Choose IOS](/images/xfb1_n000562_640x480.png)
-3. Wait for the program to get some information about your IOS.
-4. After it finishes, press the `A` Button if you want to view the log. ![Completed](/images/xfb1_n000160_640x480.png)
-5. If you want to share the SysCheck, you can press the `A` Button, which will upload it to [syscheck.rc24.xyz](http://syscheck.rc24.xyz/) and give you a link. You can also share the `sysCheck.csv` saved to the root of your SD Card or USB Drive. The `IOSsysCheck.log` file (saved to the root as well) contains additional information about your IOS.
+1. Aguarde o programa obter algumas informações sobre seu Wii.
+2. Quando "This IOS will be tested (Please select)" é mostrado na tela, pressione A. ![Escolha a IOS](/images/xfb1_n000562_640x480.png)
+3. Aguarde até que o programa obtenha algumas informações sobre seu IOS.
+4. Assim que terminar, pressione o botão `A` se quiser ver o log. ![Completo](/images/xfb1_n000160_640x480.png)
+5. Se você deseja compartilhar o SysCheck, você pode pressionar o botão `A`, que vai enviá-lo para a [syscheck.rc24.xyz](http://syscheck.rc24.xyz/) e te fornecer um link. Você também pode compartilhar o `sysCheck.csv` salvo na raiz do cartão SD ou armazenamento USB. O arquivo `IOSsysCheck.log` (salvo na raíz também) contém informações adicionais sobre seu IOS.

@@ -2,9 +2,9 @@
 title: "str2hax"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sumário" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Note that if your ISP or networking environment prevents using custom DNS servers, str2hax will not work and you should [choose another exploit to use](get-started).
@@ -12,31 +12,31 @@ Note that if your ISP or networking environment prevents using custom DNS server
 
 str2hax is an exploit for the Wii that is triggered by loading the Wii's End User License Agreement. It requires nothing but an Internet connection that lets you change the DNS on your Wii.
 
-#### What you need
+#### Você precisará de
 
-* A Wii with an Internet connection
+* Um Wii conectado a Internet
 
-#### Instructions
+#### Instruções
 
 ##### Section I - Connecting
 
 This exploit requires you to set your DNS in order to connect to a server that contains the exploit.
 
-1. Go to `Wii Options`. ![Wii Options](/images/RiiConnect24/Internet_1.png)
-1. Go to `Wii Settings`. ![Wii Settings](/images/RiiConnect24/Internet_2.png)
-1. Go to `Page 2`, then click on `Internet`. ![Internet](/images/RiiConnect24/Internet_3.png)
-1. Go to `Connection Settings`. ![Connection Settings](/images/RiiConnect24/Internet_4.png)
+1. Vá para `Wii Options`. ![Wii Options](/images/RiiConnect24/Internet_1.png)
+1. Vá para `Wii Settings`. ![Wii Settings](/images/RiiConnect24/Internet_2.png)
+1. Vá para a `Página 2` e clique em `Internet`. ![Internet](/images/RiiConnect24/Internet_3.png)
+1. Vá para `Connection Settings`. ![Connection Settings](/images/RiiConnect24/Internet_4.png)
 1. Select your current connection. ![Current Connection](/images/RiiConnect24/Internet_5.png)
-1. Go to `Change Settings`. ![Change Settings](/images/RiiConnect24/Internet_6.png)
-1. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`. ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
+1. Vá em `Change Settings`. ![Change Settings](/images/RiiConnect24/Internet_6.png)
+1. Vá para `Auto-Obtain DNS` (não Endereço IP), então selecione `No`, e então `Advanced Settings`. ![Auto-Obtain DNS](/images/RiiConnect24/Internet_7.png)
 1. Type in `18.188.135.9` as the Primary DNS. ![str2hax DNS](/images/str2hax/dns.png)
 
 If there are 3 fields instead of 2 (like above), go back and make sure you are on the `Auto-Obtain DNS` page.
 {: .notice--warning}
 
-1. Select `Confirm`, then select `Save`. ![Save DNS](/images/RiiConnect24/Internet_10.png)
-1. Select `OK` to perform a connection test. ![Connection Test](/images/RiiConnect24/Internet_11.png) ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)
-   - If the connection test was successful, select `No` to skip the Wii System Update.
+1. Selecione `Confirm`, depois selecione `Save`. ![Save DNS](/images/RiiConnect24/Internet_10.png)
+1. Selecione `OK` para executar um teste de conexão. ![Connection Test](/images/RiiConnect24/Internet_11.png) ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)
+   - Se o teste de conexão foi bem-sucedido, selecione `No` para ignorar a Atualização do Sistema Wii.
    - If it fails with error code `521xx`, please verify that you have entered the DNS correctly.
    - If it is still unsuccessful, please [use another exploit](get-started).
 
@@ -47,7 +47,7 @@ If there are 3 fields instead of 2 (like above), go back and make sure you are o
 1. Give the exploit 1-2 minutes to download (and don't press `I ACCEPT`/`I DO NOT ACCEPT`).
 1. Once the exploit downloads, you will see a few text screens, then a mess of colors, then finally, the HackMii Installer. ![HackMii Installer scam screen](/images/hackmii/scam.png)
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[Continue para a Instalação do Homebrew Channel e do BootMii](hbc)
 {: .notice--info}
 
 ##### Common issues

@@ -2,11 +2,11 @@
 title: "Installing Wii Menu Themes on vWii"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sumário" %}
 
 Are you tired of the boring, plain white theme on your Wii Menu, and want a cool theme instead? This tutorial will help you get a new theme for your Wii Menu!
 
-We are **NOT** responsible if you brick, or damage your console in any way whatsoever. If you follow this guide exactly, you shouldn't have any problems.
+Nós **NÃO** somos responsáveis se você brickar, ou danificar seu console de qualquer forma. Se você seguir este guia exatamente, não deve ter nenhum problema.
 {: .notice--danger}
 
 Do **NOT** install the themes made in this guide on an actual Wii. They are only compatible with the vWii System Menu and will brick an actual Wii.
@@ -45,7 +45,7 @@ Only themes from the RiiConnect24 Themes page have been tested on vWii. Themes f
 MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
 {: .notice--danger}
 
-#### Instructions
+#### Instruções
 
 ##### Section I - Finding a Theme
 
@@ -112,7 +112,7 @@ If you did everything correctly, you should now have your custom theme installed
 
 ##### Reverting to Original Theme
 
-1. Launch the Homebrew Channel.
+1. Inicie o Homebrew Channel.
 2. Launch MyMenuify and navigate to your theme folder.
 3. Select the .app file you copied to the SD card at the end of section 2 as if you were installing a theme.
 4. Select Install and wait until it finishes.

@@ -4,12 +4,12 @@ title: "Wii Mod Lite"
 
 {% include toc title="Table of Contents" %}
 
-如果你需要有关本教程的任何帮助, 请加入[RiiConnect24 Discord服务器](https://discord.gg/rc24) (推荐)或 [发送电子邮件到 support@riiconnect24.net](mailto:support@riiconnect24.net)。
+如果您对本教程有任何问题或需要帮助，请加入 [RiiConnect24 Discord 服务器](https://discord.gg/rc24)（推荐）或 [发送电子邮件至 support@riiconnect24.net](mailto:support@riiconnect24.net) 与我们联系。
 {: .notice--info}
 
-This tutorial will explain you how to install WADs on your Wii with Wii Mod Lite. The WAD manager of choice is Wii Mod Lite, but there are others such as YAWMM.
+本教程将向您解释如何在 Wii 上用 Wii Mod Lite 安装 WAD。 选择的 WAD 管理器是 Wii Mod Lite，但还有其它选项，例如 YAWMM。
 
-We do not recommend using "WAD Manager" by Waninkoko.
+我们不建议使用 Waninkoko 的 "WAD Manager"。
 {: .notice--warning}
 
 #### 你需要的是
@@ -18,18 +18,18 @@ We do not recommend using "WAD Manager" by Waninkoko.
 
 #### 步骤
 
-##### 第一章 - 下载
+##### 第一部分 - 下载
 
-1. Extract Wii Mod Lite and put it in the `apps` folder on your SD card or USB drive. ![SD card Drag and Drop](/images/WiiModLite/1.gif)
-2. Insert your SD card or USB drive into your Wii, and launch Wii Mod Lite from the Homebrew Channel.
+1. 解压 Wii Mod Lite 并将其放在 SD 卡或 U 盘的 `apps` 文件夹中。 ![拖放 SD 卡](/images/WiiModLite/1.gif)
+2. 将 SD 卡或 U 盘插入 Wii，然后从 Homebrew Channel 启动 Wii Mod Lite。
 
-##### Section II - Running
+##### 第二部分 - 运行
 
-You use the +Control Pad to use this tool.
+此工具需要您使用手柄。
 {: .notice--info}
 
-1. Choose `WAD Manager`. ![WAD Manager](/images/WiiModLite/2.png)
-2. Choose `Wii SD Slot` or `USB Mass Storage Device`, depending on whether you want to use an SD card or USB drive. ![Wii SD Slot](/images/WiiModLite/3.png)
-3. Select the WAD you want to install. In this example, we're installing the patched IOS needed for [RiiConnect24](riiconnect24). You can mark multiple WADs by pressing the + Button. ![Select them](/images/WiiModLite/4.gif)
-4. Press "A" twice to start installing. ![Install](/images/WiiModLite/5.png) ![Install](/images/WiiModLite/6.png)
-5. If `Finishing installation... OK!` is displayed, the WAD has installed successfully. ![Complete](/images/WiiModLite/7.png) 
+1. 选择 `WAD Manager`。 ![WAD 管理器](/images/WiiModLite/2.png)
+2. 选择 `Wii SD Slot` 或 `USB Mass Storage Device`，取决于您想使用 SD 卡还是 U盘。 ![Wii SD 卡槽](/images/WiiModLite/3.png)
+3. 选择您想要安装的 WAD。 在这个例子中，我们要安装 [RiiConnect24](riiconnect24) 所需的已修补 IOS。 您可以按 + 多选 WAD。 ![选择它们](/images/WiiModLite/4.gif)
+4. 按两次 "A" 开始安装。 ![安装](/images/WiiModLite/5.png) ![安装](/images/WiiModLite/6.png)
+5. 如果显示 `Finishing installation... OK!`，表示已成功安装 WAD。 ![完成](/images/WiiModLite/7.png) 

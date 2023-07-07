@@ -2,13 +2,13 @@
 title: "Wii Backup Manager"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sumário" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Wii Backup Manager is a program to copy Wii games from your computer to a USB drive so you can play the games on your Wii. It also can download game covers from [GameTDB](https://gametdb.com/) and can be used to list what games you have. This tutorial will tell you how to copy over games from your computer to your USB drive. The other features are able to be used in the easy-to-use interface.
-#### What you need
+#### Você precisará de
 
 * A PC running Windows
 * A USB drive or SD card
@@ -27,9 +27,9 @@ A flash drive is not recommended, as they are small and may vary in behavior eve
 Make sure your USB drive is formatted as FAT32. Do not format it as other types such as exFAT, extFS. <br> You may format it as NTFS, but it won't work with a majority of apps (eg. The Homebrew Channel, Nintendont)
 {: .notice--info}
 
-#### Instructions
+#### Instruções
 
-##### Section I - Downloading
+##### Seção I - Baixando
 
 1. Extract Wii Backup Manager, and launch the program.
 2. Insert your USB drive or SD card into your computer.
@@ -50,5 +50,5 @@ Make sure your USB drive is formatted as FAT32. Do not format it as other types 
 You can now use [USB Loader GX](usbloadergx) or [WiiFlow](wiiflow) to play games from your USB drive or SD card.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
 {: .notice--info}

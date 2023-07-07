@@ -1,119 +1,119 @@
 ---
-title: "Installing Wii Menu Themes on vWii"
+title: "在 vWii 上安装 Wii 菜单主题"
 ---
 
 {% include toc title="Table of Contents" %}
 
-Are you tired of the boring, plain white theme on your Wii Menu, and want a cool theme instead? This tutorial will help you get a new theme for your Wii Menu!
+您是否厌倦了 Wii 菜单上单调无味的白色主题，想要一个酷炫的主题替代它？ 本教程将帮您为 Wii 菜单获取一个新主题！
 
-We are **NOT** responsible if you brick, or damage your console in any way whatsoever. If you follow this guide exactly, you shouldn't have any problems.
+我们**不**对您的主机因任何原因变砖或损坏负责。 如果您按照本指南进行操作，理论上不应该遇到任何问题。
 {: .notice--danger}
 
-Do **NOT** install the themes made in this guide on an actual Wii. They are only compatible with the vWii System Menu and will brick an actual Wii.
+请**不要**在真正的 Wii 上安装本指南中制作的主题。 它们只与 vWii 系统兼容，并且会导致真正的 Wii 变砖。
 {: .notice--danger}
 
-WiiMotes with Wii MotionPlus will not work on MyMenuify, unfortunately there isn't anything we can do about this at the moment and you'll have to use an older Wii remote.
+很遗憾，无法在 MyMenuify 上使用带加速器的 Wii 遥控器，目前我们无能为力，您将不得不使用较旧的 Wii 遥控器。
 {: .notice--warning}
 
-There are some themes that aren't compatible with the vWii System Menu, they may result in anything from graphical glitches to a full theme brick. We recommend only using themes from [rc24.xyz/goodies/themes](https://rc24.xyz/goodies/themes/) since these are compatible with modern versions of the System Menu.
+有一些主题不与 vWii 系统菜单兼容，可能导致图形故障或主题砖。 我们建议只使用来自 [rc24.xyz/goodies/themes](https://rc24.xyz/goodies/themes/) 的主题，因为这些主题与最新版本的系统菜单兼容。
 {: .notice--warning}
 
-If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329). ([Archive](https://web.archive.org/web/20200213194233/https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329/))
+如果不幸使 vWii 变砖，请[查看此指南](https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329)。 （[存档](https://web.archive.org/web/20200213194233/https://gbatemp.net/threads/guide-vwii-unbrick-guide-by-garyodernichts.528329/)）
 {: .notice--info}
 
-#### What You Need
+#### 你需要的是
 
-* A Wii U with the Homebrew Channel installed.
-* A Wiimote without Wii MotionPlus
-* An SD card
-* A computer with Windows on it (or using Mono or Wine on Mac/Linux)
+* 安装了 Homebrew Channel 的 Wii U。
+* 没有加速器的 Wii 遥控器
+* 一张SD卡
+* 运行 Windows 的电脑（或在 Mac/Linux 上使用 Mono 或 Wine）
 * [MyMenuify](/assets/files/Mymenuify-Old-vWii.zip)
 * [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 * [NUS Downloader (vWii)](/assets/files/NUSDownloader-vwii.zip)
 
-#### Theme Links
+#### 主题链接
 
-Below are some links to themes.
+以下是一些主题的链接。
 
-* [RiiConnect24 Themes Page](https://rc24.xyz/goodies/themes/)
-* [Google Drive Repository](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
+* [RiiConnect24 主题页面](https://rc24.xyz/goodies/themes/)
+* [Google Drive 仓库](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
 * [Wii Theme Team Creations v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
-Only themes from the RiiConnect24 Themes page have been tested on vWii. Themes from other sources may not be entirely compatible with vWii, use these at your own risk.
+只在 vWii 上测试过来自 RiiConnect24 主题页面的主题。 来自其它来源的主题可能不与 vWii 完全兼容，请自行承担使用风险。
 {: .notice--warning}
 
-MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
+在继续之前，请确保您已阅读上述警告！
 {: .notice--danger}
 
 #### 步骤
 
-##### Section I - Finding a Theme
+##### 第一部分 - 寻找主题
 
-* When choosing a theme, it is important to make sure that your theme is compatible with the vWii System Menu.
+* 在选择主题时，确保您的主题与 vWii 系统菜单兼容是非常重要的。
 
-* Older themes for 3.X or 2.X are **NOT** compatible with vWii and may cause a brick if used.
+* 旧的 3.X 或 2.X 主题**不**兼容 vWii，并且如果使用可能会导致变砖。
 
-* Most of the themes on RiiConnect24's theme page have been tested on vWii and they are known to work.
+* 已在 vWii 上测试了大多数 RiiConnect24 主题页面上的主题，它们是可用的。
 
-##### Section II - Downloading .app files
+##### 第二部分 - 下载 .app 文件
 
-This assumes your vWii is on the latest Wii Menu version.
+这假设您的 vWii 已升级到最新版本的 Wii 菜单。
 {: .notice--warning}
 
-There are a couple of ways to get the .app files for your vWii System Menu, in this guide we'll be using the vWii version of NUS Downloader.
+有几种方法可以获取 vWii 系统菜单的 .app 文件，在本指南中，我们将使用 vWii 版本的 NUS Downloader。
 
-1. Extract the .zip file for NUS Downloader vWii and open the application
-2. Click on `Database...`
-3. Go to `System` > `System Menu` and select the version corresponding to your region as shown in the table below.
+1. 解压 NUS Downloader vWii 的 .zip 文件，并打开应用程序
+2. 点击 `Database...`
+3. 前往 `System` > `System Menu`，根据下表选择与您区域对应的版本。
 
-| Region | vWii Menu version |
-| ------ | ----------------- |
-| Japan  | v608              |
-| USA    | v609              |
-| Europe | v610              |
+| 区域 | vWii 菜单版本 |
+| -- | --------- |
+| 日本 | v608      |
+| 美国 | v609      |
+| 欧洲 | v610      |
 
-After selecting the correct version to download, check the box for `Create Decrypted Contents (*.app)`. Then, press the `Start NUS Download` Button on the top of the window.
+在选择要下载的正确版本之后，勾选 `Create Decrypted Contents (*.app)`。 然后，点击窗口顶部的 `Start NUS Download` 按钮。
 
-![The database menu in NUS Downloader.](/images/Themes-vWii/NUSD-vWii_preview-database.png)
+![NUS Downloader 的 database 菜单。](/images/Themes-vWii/NUSD-vWii_preview-database.png)
 
-![The main menu of NUS downloader without the database menu open.](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
+![未打开 database 菜单的 NUS downloader 主菜单。](/images/Themes-vWii/NUSD-vWii_sysmenu-versions.png)
 
-After the download has finished, search for the .app file corresponding to your region in the folder where NUS Downloader is.
+下载完成后，在 NUS Downloader 所在文件夹中搜索与您区域对应的 .app 文件。
 
-| Region | .app file for your region |
-| ------ | ------------------------- |
-| Japan  | 0000001c.app              |
-| USA    | 0000001f.app              |
-| Europe | 00000022.app              |
+| 区域 | 与您所在区域对应的 .app 文件 |
+| -- | ----------------- |
+| 日本 | 0000001c.app      |
+| 美国 | 0000001f.app      |
+| 欧洲 | 00000022.app      |
 
-If you can't find the .app file, it's possible you have downloaded the wrong version of the Wii Menu and you'll need to try again.
+如果您无法找到 .app 文件，有可能是您下载了错误版本的 Wii 菜单，您需要再试一次。
 
-After you find the .app file, copy it to the main directory of the folder containing ThemeMii. Then, copy a version of it to the theme folder in your SD card.
+找到 .app 文件后，将其复制到包含 ThemeMii 的文件夹的主目录中。 然后，把它的一个版本复制到 SD 卡的 theme 文件夹中。
 
-##### Section III - Building the Theme
+##### 第三部分 - 构建主题
 
-1. Launch ThemeMii Mod.
-2. Do not click `Download Base App`, ThemeMii does not have base .app files for vWii. If you download a base app, you must delete it in order to use the vWii .app file.
-3. In ThemeMii select `File` -> `Open` and navigate to the .mym theme you downloaded earlier.
-4. Click on `Create CSM` and select the .app file that you copied to the ThemeMii folder.
-5. Now navigate to the theme folder on your SD card and save your theme with the .csm extension.
+1. 启动 ThemeMii Mod。
+2. 不要点击 `Download Base App`，ThemeMii 没有 vWii 的基本 .app 文件。 如果您下载了基本应用，您必须删除它才能使用 vWii 的 .app 文件。
+3. 在 ThemeMii 中选择 `File` -> `Open`，然后移动到之前下载的 .mym 主题。
+4. 点击 `Create CSM`，然后选择您复制到 ThemeMii 文件夹中的 .app 文件。
+5. 现在移动至 SD 卡的 theme 文件夹，并用 .csm 扩展名保存您的主题。
 
-![ThemeMii Menu](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
+![ThemeMii 菜单](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
 
-##### Section IV - Installing the Theme
+##### 第四部分 - 安装主题
 
-1. Eject your SD card from your PC and put it into your Wii U.
-2. Start the Homebrew Channel and launch MyMenuify.
-3. Navigate to your theme folder and select the .csm file you just created.
-4. When it prompts you to install the theme say `Yes`, and wait for it to finish.
-5. When it finishes installing, MyMenuify will prompt you to either `Continue` or `Exit`, choose `Exit`.
+1. 从电脑上弹出 SD 卡，并将其插入 Wii U。
+2. 打开 Homebrew Channel 并启动 MyMenuify。
+3. 移动至 theme 文件夹，并选择您刚刚创建的 .csm 文件。
+4. 当它提示您安装主题时，请选择 `Yes`，然后等待安装完成。
+5. 安装完成后， MyMenuify 会提示您选择 `Continue` 或 `Exit`，请选择 `Exit`。
 
-If you did everything correctly, you should now have your custom theme installed on your Wii Menu.
+如果您按照正确的步骤进行操作，现在您应该已经成功安装自定义主题到 Wii 菜单上了。
 
-##### Reverting to Original Theme
+##### 恢复到原始主题
 
-1. Launch the Homebrew Channel.
-2. Launch MyMenuify and navigate to your theme folder.
-3. Select the .app file you copied to the SD card at the end of section 2 as if you were installing a theme.
-4. Select Install and wait until it finishes.
-5. When it's done, you can exit MyMenuify.
+1. 启动Homebrew Channel。
+2. 启动 MyMenuify 并移动至您的 theme 文件夹。
+3. 选择您在第二部分末尾复制到 SD 卡的 .app 文件，就像安装主题一样。
+4. 选择 Install 并等待直到完成。
+5. 完成后，您可以退出 MyMenuify。

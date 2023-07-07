@@ -2,58 +2,58 @@
 title: "RiiConnect24 Clear Tool"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sumário" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![Logo do RiiConnect24](/images/WiiRC24Logo.jpg)
 
-RiiConnect24 Clear Tool is a homebrew application that can fix these specific errors and issues:
+RiiConnect24 Clear Tool é um aplicativo homebrew que pode corrigir esses erros e problemas específicos:
 
-- Discontinued Message
+- Mensagem Discontinued
 - NEWS/FORE000001
 - NEWS/FORE000003
 - NEWS/FORE000005
 - NEWS/FORE000099
 - NEWS000006
-- Clears out Wii mailboxes in case they are full (this can fix Wii Mail)
+- Apaga os emails que estão em seu wii, caso estejam cheios (isso pode consertar o erro do Wii Mail)
 
-#### What you need
+#### Você precisará de
 
-- An SD card or USB drive
+- Um cartão SD ou armazenamento USB
 - [RiiConnect24 Clear Tool](https://oscwii.org/library/app/RC24-Clear-Tool)
 - [WiiXplorer](https://oscwii.org/library/app/wiixplorer-ss)
 - [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
 
-#### Instructions
+#### Instruções
 
-#### Section I - Backing up Wii Message Board Data (Optional)
+#### Seção I - Fazendo Backup dos dados do Wii Message Board (Opcional)
 
-1. Open the Homebrew Channel and open WiiXplorer.
-2. Go to `nand` and click on `Start`, then `Settings`, then `Boot Settings`, then `NAND Write Access`, and select `Yes`.
-3. Click on `title` and then navigate to the `00000001` folder and then the `00000002` folder, then the `data` folder.
-4. Hover over `cdb.vff` and press +, then select `Copy` and then `Yes`.
-5. Go to the SD card and hover over a blank space, then press `Paste.`
+1. Abra o Homebrew Channel e abra o WiiXplorer.
+2. Vá para `nand` e clique em `Start`, então `Settings`, então `Boot Settings`, então `NAND Write Access`, e selecione `Yes`.
+3. Clique em `title` e então navegue para a pasta `00000001` depois a pasta `00000002`, então a pasta `data`.
+4. Destaque `cdb.vff` e pressione +, então selecione `Copy` e então `Yes`.
+5. Vá para o cartão SD e destaque um espaço em branco, então pressione `Paste`.
 
-#### Section II - Deleting SYSCONF
+#### Seção II - Deletando SYSCONF
 
-1. Extract the RiiConnect24 Clear Tool and put it in the apps folder on your SD card or USB drive.
-2. Open the Homebrew Channel and then launch the RiiConnect24 Clear Tool.
-3. Load IOS 80 and press A to delete the SYSCONF, then press B to confirm and reset the aspect ratio.
-4. Set up the Wii as normal and go to `WiiConnect24`, accept the EULA and turn on the standby connection.
+1. Extraia o RiiConnect24 Clear Tool e coloque dentro da pasta apps no seu cartão SD ou USB.
+2. Abra o Homebrew Channel e então inicie o RiiConnect24 Clear Tool.
+3. Carregue a IOS 80 e pressione A para deletar o SYSCONF, então pressione B para confirmar e redefinir a proporção da tela.
+4. Configure o Wii como normalmente e vá para `WiiConnect24`, aceite o EULA e ligue a conexão standby.
 
-#### Section III - Putting back Wii Message Board Data (Optional)
+#### Seção III - Colocando de volta os dados do Wii Message Board (Opcional)
 
-1. Go back to the Homebrew Channel to open WiiXplorer and navigate to `Start`, then `Settings`, then `Boot Settings`, and select `NAND Write Access` and `Yes`.
-2. Hover over `cdb.vff` again and press + button, then select `Copy` and `Yes`.
-3. Click `OK` and navigate to `nand` then `title`, `00000001`, `00000002`, then `data`.
-4. Press + again and then `Paste`, and then `Yes`.
+1. Volte para o Homebrew Channel e abra o WiiXplorer e navegue para `Start`, então `Settings`, então `Boot Settings`, e selecione `NAND Write Access` e `Yes`.
+2. Destaque `cdb.vff` novamente e pressione o botão +, então selecione `Copy` e então `Yes`.
+3. Clique `OK` e navegue para `nand` então `title`, `00000001`, `00000002`, então `data`.
+4. Pressione + novamente e então `Paste`, e então `Yes`.
 
-#### Section IV - Synchronizing Wii Time
+#### Seção IV - Sincronizando o Horário do Wii
 
-1. Open sntp to set the Wii's clock accurately.
-2. Finally, do a connection test and try accessing the Forecast Channel and News Channel to ensure the errors have been fixed.
+1. Abra sntp para configurar o relógio do Wii com precisão.
+2. Finalmente, faça um teste de conexão e tente acessar o Forecast Channel e o News Channel para se certificar que os erros foram resolvidos.
 
-[Return to RiiConnect24 installation page](riiconnect24)
+[Voltar à página de instalação do RiiConnect24](riiconnect24)
 {: .notice--info}

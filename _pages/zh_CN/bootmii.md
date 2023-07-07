@@ -12,7 +12,7 @@ title: "BootMii 备份"
 你需要一张**SD卡**才能使用BootMii创建NAND备份。 如果没有，可以跳过此页，但强烈建议您创建NAND备份。
 {: .notice--warning}
 
-BootMii as boot2 is recommended, but only available to install on early Wii consoles. 否则，只能作为IOS安装。
+推荐将 BootMii 安装到 boot2，但只能安装在早期的 Wii 主机上。 否则，只能作为IOS安装。
 {: .notice--info}
 
 BootMii最重要的功能之一就是能备份和恢复Wii的NAND. 我们将学习如何制作NAND备份。 无论什么原因，您都可以从该备份还原。 定期或在对主机做危险的事前备份是个好习惯(除非您知道自己在干什么，那就没有风险)。
@@ -26,36 +26,36 @@ BootMii最重要的功能之一就是能备份和恢复Wii的NAND. 我们将学�
 如果您已安装BootMii到boot2, 您将需要重启主机以启动BootMii. 如果是这种情况，请跳过步骤1和2。
 {: .notice--info}
 
-1. Launch the Homebrew Channel.
+1. 启动 Homebrew Channel。
 
-2. Press the HOME Button, then select "Launch BootMii". ![BootMii_Main](/images/BootMii/BootMii_Main.png)
+2. 按下 HOME 按钮，然后选择 “Launch BootMii”。 ![BootMii_Main](/images/BootMii/BootMii_Main.png)
 
-If the `Launch BootMii` button does not appear, please [re-launch the HackMii Installer](hackmii) and install BootMii.
+如果没有出现 `Launch BootMii` 按钮，请 [重新启动 HackMii Installer](hackmii) 并安装 BootMii。
 {: .notice--info}
 
-Navigating BootMii is not possible using a Wii Remote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. To navigate between options, press POWER on your Wii (or left/right on the +Control Pad on a GameCube controller). To select an option, press RESET on your Wii or A on your GameCube controller.
+无法使用 Wii 遥控器控制 BootMii。 您必须使用主机上的 POWER 和 RESET 按钮，或第 1 个口的 GameCube 手柄。 要在选项之间移动，请按 Wii 的 POWER 按钮（或 GameCube 手柄的左右方向键）。 要选择选项，请按 Wii 的 RESET 按钮或 GameCube 手柄的 A。
 {: .notice--info}
 
-If the screen stays black and the blue disc drive light is blinking, you are missing the BootMii files on your SD card. Download [this zip file](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
+如果一直黑屏且光驱的蓝灯闪烁，说明您的 SD 卡上缺少 BootMii 文件。 下载 [此 zip 文件](https://static.hackmii.com/bootmii_sd_files.zip) 并将其解压到 SD 卡的根目录，然后再次尝试。
 {: .notice--warning}
 
-3. Select the Options button (the icon with the gears). ![BootMii_Gears_Icon](/images/BootMii/BootMii_Gears_Icon.png)
+3. 选择选项按钮（带齿轮图标的按钮）。 ![BootMii_Gears_Icon](/images/BootMii/BootMii_Gears_Icon.png)
 
-4. Select the BackupMii button. ![BootMii_Green_Arrow](/images/BootMii/BootMii_Green_Arrow.png)
+4. 选择 BackupMii 按钮。 ![BootMii_Green_Arrow](/images/BootMii/BootMii_Green_Arrow.png)
 
    - 将启动NAND备份。 您将在屏幕上看到进度。
    - "Bad Blocks(坏块)"是正常的。 当您看到时不用担心。
    - 在这一步后，它会验证这个备份。 虽然推荐，但您可以按EJECT按钮跳过。 请注意，如果光驱里有光盘，按EJECT会同时弹出光盘。
 
-5. When the backup is complete, exit the NAND backup screen by pressing any button. ![BootMii_NAND_Backup](/images/BootMii/BootMii_NAND_Backup.png)
+5. 当备份完成后，按任意按钮以退出 NAND 备份。 ![BootMii_NAND_Backup](/images/BootMii/BootMii_NAND_Backup.png)
 
-6. To exit BootMii, press the Back button (the one with the arrow) and then you can press either the Wii Menu button or the Homebrew Channel button to exit where you want to. ![BootMii_Return_Arrow](/images/BootMii/BootMii_Return_Arrow.png)
+6. 要退出 BootMii，按返回按钮（带箭头的那个)，然后您可以按 Wii 菜单按钮或 Homebrew Channel 按钮来退出到您想要的地方。 ![BootMii_Return_Arrow](/images/BootMii/BootMii_Return_Arrow.png)
 
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii. This is useful in the unlikely case you brick your Wii. ![BootMii_Red_Arrow](/images/BootMii/BootMii_Red_Arrow.png)
+要使用 SD 卡上的 NAND 备份进行恢复，您可以按照使用 RestoreMii 的说明进行操作。 这在您的 Wii 意外变砖时非常有用。 ![BootMii_Red_Arrow](/images/BootMii/BootMii_Red_Arrow.png)
 {: .notice--info}
 
-To make sure you don’t lose the files, it's recommended to copy `nand.bin` and `keys.bin` from the root of your SD card to your computer.
+为确保不会丢失文件，建议将 SD 卡根目录的 `nand.bin` 和 `keys.bin` 复制到您的电脑。
 {: .notice--info}
 
-[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and is highly recommended, especially if you were only able to install BootMii as IOS.
+[继续安装 Priiloader](priiloader)<br> 强烈推荐使用 Priiloader，因为它添加了一定程度的变砖保护，尤其是如果您只能将 BootMii 安装为 IOS 时。
 {: .notice--info}

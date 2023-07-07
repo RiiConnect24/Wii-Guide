@@ -2,31 +2,31 @@
 title: "FAQ"
 ---
 
-![RiiConnect24 Wii Logo Yellow](/images/Wii_Yellow_Gray.jpg)
+![RiiConnect24 Wii Logo 黄色](/images/Wii_Yellow_Gray.jpg)
 
-### How risky is hacking my console?
-Bricks (a state where either some parts of your Wii software are not working, or your Wii is not working at all) are extremely rare unless you ignore/circumvent all safety checks, or do something risky or naive like installing an older version of the Wii Menu. Make sure you install [BootMii](bootmii) and [Priiloader](priiloader) to protect yourself from bricks!
+### 破解主机的风险有多大？
+除非您忽略/绕过所有的安全检查，或者做一些冒险或幼稚的事情，例如安装旧版的 Wii 菜单，否则变砖（即 Wii 软件的某些部分不工作或整个 Wii 无法工作）是非常罕见的。 请确保您安装了 [BootMii](bootmii) 和 [Priiloader](priiloader) 以保护自己不受变砖的影响。
 
-### Where should I go for support?
-You can join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for assistance.
+### 我应该去哪里寻求支持？
+您可以加入 [RiiConnect24 Discord 服务器](https://discord.gg/rc24) （推荐）或 [发送邮件至 support@riiconnect24.net](mailto:support@riiconnect24.net) 以获取进一步帮助。
 
-### What are the SD card requirements and/or recommendations?
-You will need an SD card with at least 128MB to run an exploit.
+### SD卡的要求和/或建议是什么?
+您将需要至少 128MB 的 SD 卡来运行漏洞。
 
-- If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card.
+- 如果您使用 BlueBomb、str2hax 或FlashHax 漏洞则不需要 SD 卡。
 
-To store homebrew applications, we recommend an SD card with at least 2 GB.
+要存储自制应用程序，我们建议使用至少 2GB 的 SD 卡。
 
-### I got error code XXXXXX in Wiimmfi, how to fix it?
-In order to check what the reason for the error is, please visit the [Wiimmfi error page](https://wiimmfi.de/error).
+### 我在 Wiimmfi 中收到错误代码 XXXXXX，如何修复？
+为了检查错误原因，请访问[Wiimmfi错误代码查询页面](https://wiimmfi.de/error)。
 
-### What are the limitations in vWii modding?
-The following is a list of things that can potentially **BRICK** your vWii (don't do these things!):
-* Installing IOS for a Wii console on vWii.
-* Installing Wii menu themes not formatted correctly for vWii and/or your region.
-* Installing BootMii and/or Priiloader/Preloader.
-* Failure during the install of crucial system/IOS titles (e.g. power outage).
-* Modifying the vWii NAND without knowing what you are doing.
+### 破解 vWii 有哪些限制？
+以下是一些可能会导致 vWii **变砖**的事项（不要做这些事情！）：
+* 在 vWii 上安装为 Wii 设计的 cIOS。
+* 安装未正确格式化为 vWii 和/或您所在地区的 Wii 菜单主题。
+* 安装 BootMii 和/或 Priiloader/Preloader。
+* 在安装关键的系统/IOS 标题时出现故障（如停电）。
+* 在不了解如何操作的情况下修改 vWii NAND。
 
-### How can I remove parental controls?
-The [mkey generator](https://mkey.salthax.org) can generate the code required to remove parental controls.
+### 如何移除亲子管理功能？
+[mkey generator（英文）](https://mkey.salthax.org) 可以生成移除亲子管理功能所需要的代码。

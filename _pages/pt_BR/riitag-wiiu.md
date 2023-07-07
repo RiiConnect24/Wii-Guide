@@ -2,14 +2,14 @@
 title: RiiTag on Wii U
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sumário" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You launch a plugin on your Wii U console via Aroma, and the tag updates on-the-fly.
 
-#### What you need
+#### Você precisará de
 
 - A device capable of interacting with SD cards
 - Softmodded Wii U console with Aroma custom firmware
@@ -20,18 +20,18 @@ RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynam
 Previously, UTag allowed using other custom firmware (often abbreviated as CFW), but the only supported custom firmware, and the only one you should be using, is Aroma.
 {: .notice--warning}
 
-#### Instructions
+#### Instruções
 
 ##### Section I - Website instructions
 
 1. Go to the [RiiTag website](https://tag.rc24.xyz/).
-2. Click `Log In` and log in with your Discord account.
-3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Click `Authorize`.
+2. Clique em `Log In` e faça login com sua conta do Discord.
+3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Clique em `Autorizar`.
 4. Click `Edit Your Tag` and customize it to how you like. You can add a background, overlay, flag, nickname, Wii Number, and manually enter in games to show on your tag (not needed if you're using a USB Loader).
 5. Click `Show Key` and make note of the key shown. This will be used later on in this guide.
 6. Click `Submit` to save your changes.
 
-Do not share your RiiTag key with anyone! If you do, people can abuse your tag.
+Do not share your RiiTag key with anyone! Se você compartilhar, as pessoas poderão abusar de sua tag.
 {: .notice--warning}
 
 ##### Section II - Setting things up on the SD card
@@ -47,5 +47,5 @@ You don't need to manually run the plugin - just run Aroma and it will automatic
 You have now set up RiiTag on your Wii U! Now go play some games, and watch them show up on your RiiTag!
 {: .notice--success}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
 {: .notice--info}

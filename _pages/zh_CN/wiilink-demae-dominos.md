@@ -4,19 +4,19 @@ title: WiiLink Food Delivery Channel (Domino's) 指南
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the WiiLink Discord server](https://discord.gg/wiilink-750581992223146074).
+如果您需要有关本教程的任何帮助，请加入 [WiiLink Discord 服务器](https://discord.gg/wiilink-750581992223146074)。
 {: .notice--info}
 
-You no longer need to pay $1 to get and use Food Delivery Channel (Domino's). It's now completely _free_!
+现在您无需支付 $1 即可获取和使用 Food Delivery Channel (Domino's)。 现在它完全_免费_！
 {: .notice--info}
 
-As this service places an order to Domino's Pizza, payment is required at the door. This is usually in the form of cash, although credit/debit card machines are possible if the delivery person has one.
+由于该服务向达美乐比萨创建订单，所以需要在门口付款。 通常情况下，支付方式为现金，如果送货员配备了信用卡/借记卡机，也是可以的。
 {: .notice--info}
 
-Currently, only the USA and Canada are supported.
+目前仅支持美国和加拿大。
 {: .notice--warning}
 
-You cannot use the default Dolphin NAND with this service. You must use your own NAND dump. This can be done in Dolphin by going to the toolbar and clicking `Tools -> Manage NAND -> Import BootMii NAND Backup`.
+此服务不能使用默认的 Dolphin NAND。 您必须使用自己的 NAND 转储文件。 这可以通过在 Dolphin 中点击工具栏，然后选择 `工具 -> 管理 NAND -> 导入 BootMii NAND 备份` 来完成此操作。
 {: .notice--warning}
 
 #### 你需要的是
@@ -30,70 +30,70 @@ You cannot use the default Dolphin NAND with this service. You must use your own
 
 ##### 第一部分 - 开始
 
-1. Download the latest version of the WiiLink Patcher, available [here](https://github.com/WiiLink24/WiiLink24-Patcher/tree/csharp-ver).
-2. Make sure to download the version in the README that corresponds to your operating system.
-3. Launch the patcher and begin the setup process.
-4. When you see the setup screen, select `1. English Translation` in order to gain access to the Food Delivery Channel (Domino's) channel.<br><br> ![Express Install](/images/Demae-Dominos/choose-core-channel.png)
-5. 接下来您将看到此屏幕，询问您想要哪个版本的 Food Delivery Channel ，因此您应该选择 `2. Domino's (US and Canada only)`<br><br> ![Food Delivery Channel Setup](/images/Demae-Dominos/choose-food-channel-ver.png)
-6. After that, you can go through the rest of the process, but once you reach this step, be sure to pick the correct console platform you’re installing this on, as it will matter when using the app.<br><br> ![Console Platform](/images/Demae-Dominos/choose-console-platform.png)
+1. 在[此处](https://github.com/WiiLink24/WiiLink24-Patcher/tree/csharp-ver)下载最新版本的 WiiLink Patcher。
+2. 请确保下载与您操作系统相对应的版本，该信息可以在 README 中找到。
+3. 启动 patcher 并开始设置过程。
+4. 当您看到设置屏幕时，选择 `1. English Translation` 以获得访问 Food Delivery Channel (Domino's) channel 的权限。<br><br> ![快速安装](/images/Demae-Dominos/choose-core-channel.png)
+5. 接下来您将看到此屏幕，询问您想要哪个版本的 Food Delivery Channel ，因此您应该选择 `2. Domino's (US and Canada only)`<br><br> ![Food Delivery Channel 设置](/images/Demae-Dominos/choose-food-channel-ver.png)
+6. 在此之后您可以继续完成其它步骤，但是一旦您到达这一步，请确保选择适用于您要安装的正确主机平台，因为这在使用应用时很重要。<br><br> ![主机平台](/images/Demae-Dominos/choose-console-platform.png)
 
-##### Section II - Registering your Console ID
+##### 第二部分 - 注册您的主机 ID
 
-1. After completing the setup process, go to the [**WiiLink Discord server**](https://discord.gg/wiilink-750581992223146074) to register your Wii's console ID.
-2. Use the `Get Console ID` Homebrew app, that was given by the patcher, to retrieve your system's console ID.
-3. Visit the `#dominos-chat` channel on the Discord server.
-4. Type the command `/dominos <your console ID>` in the chat, replacing `<your console ID>` with your actual console ID. Make sure the ID is in the parameter box, otherwise the command will not work and will be posted publicly on the channel.
-5. Double-check that you've typed the correct console ID, as it can't be re-registered. If you need to re-register, ask a staff member in the server for assistance.
+1. 完成设置过程后，请访问 [**WiiLink Discord 服务器**](https://discord.gg/wiilink-750581992223146074) 注册您的 Wii 主机 ID。
+2. 使用由 patcher 提供的 `Get Console ID` 自制应用程序来获取您系统的主机 ID。
+3. 访问 Discrord 服务器的 `#dominos-chat` 频道。
+4. 在聊天框中输入命令 `/dominos <your console ID>` ，将 `<your console ID>` 替换为您实际的主机 ID。 请确保将 ID 放在参数框中，否则命令将无法生效，并会公开发布在频道上。
+5. 请仔细检查您输入的主机 ID 是否正确，因为一旦注册就无法重新注册。 如果您需要重新注册，请向服务器中的工作人员寻求帮助。
 
-##### Section III - Installing WADs
+##### 第三部分 - 安装 WAD
 
-You will now install the Food Delivery Channel and Set Personal Data channels.
+您现在将安装 Food Delivery Channel 和 Set Personal Data 频道。
 
-1. Put your SD card or USB drive in your Wii.
-2. After registering your console ID, go to the Homebrew Channel and launch **Wii Mod Lite**.
-3. In the WAD Manager menu, locate `Food Channel (Domino's) (English).wad`.
-4. Also locate `WiiLink_SPD (Wii).wad` or `WiiLink_SPD (vWii).wad`, depending on your console platform.
-5. Select both WADs by pressing `+` on each one.
-6. Press `A` to install the selected WADs.
+1. 将 SD 卡或 U 盘插入 Wii。
+2. 在注册您的主机 ID 后，转到 Homebrew Channel 并启动 **Wii Mod Lite**。
+3. 在 WAD 管理器的菜单中找到 `Food Channel (Domino's) (English).wad`。
+4. 也要找到 `WiiLink_SPD (Wii).wad` 或 `WiiLink_SPD (vWii).wad`，取决于您的主机平台。
+5. 通过在每个 WAD 上按下 `+` 来选择两个 WAD。
+6. 按 `A` 以安装所选的 WAD。
 
-If you happen to get `Error -1022` when installing `Food Channel (Domino's) (English).wad`, uninstall the channel by selecting the WAD with `-` and pressing `A`. Then, re-install the WAD.
+如果您在安装 `Food Channel (Domino's) (English).wad` 时遇到 `Error -1022` ，请用 `-` 选择 WAD 并按 `A` 卸载频道。 然后重新安装该 WAD。
 {: .notice--warning}
 
-##### Section IV - Setting your address information
+##### 第四部分 - 设置您的地址信息
 
-WiiLink never stores your personal data. For more information on what is used, read our [Privacy Policy](https://www.wiilink24.com/privacy-policy).
+WiiLink 从不存储您的个人信息。 有关使用的更多信息，请阅读我们的[隐私政策](https://www.wiilink24.com/privacy-policy)。
 {: .notice--info}
 
-You are responsible for entering your correct address information. Failure to do so may result in orders not succeeding.
+您有责任输入正确的地址信息。 如果不提供正确的地址信息，可能导致订单无法成功送达。
 {: .notice--warning}
 
-In this section you will be setting your address information. This is required for proper usage of Demae Domino's.
+您将在此部分中设置您的地址信息。 这是正常使用 Demae Domino’s 必须的。
 
-1. Launch the Food Delivery Channel from the Wii Menu.
-2. If you have not previously set your address information, a prompt telling you to set it will appear. Press the `Address Info` button. Otherwise, click the `Change Address Information` button in the main menu.
-3. Now you are in the Address Information menu. Press the arrows to traverse screens. Here you will enter your data. When you are finished, click the `Done` button and then `Demae`.<br><br> ![SPD Page 1](/images/Demae-Dominos/spd-1.png)<br><br> ![SPD Page 2](/images/Demae-Dominos/spd-2.png)
+1. 从Wii 菜单启动 Food Delivery Channel。
+2. 如果您之前没有设置过地址信息，将会出现提示要求您设置它。 按下 `Address Info` 按钮。 否则，请点击主菜单的 `Change Address Information` 按钮。
+3. 现在您位于地址信息菜单。 按箭头浏览屏幕。 在这里，您将输入您的信息。 当您完成后，点击 `Done` 按钮，然后点击 `Demae`。<br><br> ![SPD 第 1 页](/images/Demae-Dominos/spd-1.png)<br><br> ![SPD 第 2 页](/images/Demae-Dominos/spd-2.png)
 
-##### Section V - Placing an order
+##### 第五部分 - 创建订单
 
-This section requires you to have cash to pay for your meal.
+此部分要求您准备现金以支付您的餐费。
 {: .notice--warning}
 
-If you have used the standard version of the Food Delivery Channel before, go to the<br>`Wii Menu settings` -> `Data Management` -> `Save Data` -> `Wii`, then find the <br>Food Delivery Channel icon and click "Erase" to delete the existing save data.
+如果您以前使用过标准版本的 Food Delivery Channel，请按照以下步骤操作<br>`Wii 菜单选项` -> `数据管理` -> `保存数据` -> `Wii`，然后找到 <br>Food Delivery Channel 图标并点击 "Erase" 以删除现有的存档。
 {: .notice--warning}
 
-If you have previously placed an order, skip to step 4.
+如果您之前已经创建过订单，请跳到第四部分。
 {: .notice--info}
 
-1. Launch the Food Delivery Channel (aka. Food Channel) from the Wii Menu
-2. Follow the on-screen instructions, then click `Order` in the main menu.<br><br> ![Main Menu](/images/Demae-Dominos/success.png)<br><br>
-3. You will now be prompted to select your region. Be sure to select your residing country correctly. Failure to do so will result in restaurants failing to load. You will then be prompted to select your state/province, then city. If your city is not on the list, you can select any one as it does not matter.<br><br> ![Main Menu](/images/Demae-Dominos/country-setup.png)<br><br>
-4. Click the `Pizza` button. This will load all the restaurants in your area. The first restaurant in the list is the one closest to you.
-5. Click `See Menu` to list the different menu categories. Click the category you would like, then select a food item. In the item screen, you can add toppings and adjust quantity.
-6. After adding a food item, you will be brought to the basket. To add a food item, scroll to the bottom and select `Add Order`. To proceed to checkout, click `Next`.
-7. Review your order thoroughly before placing the order. When you are ready, click the big green `Order` button.<br><br> ![Before Order](/images/Demae-Dominos/order.png)<br><br>
-8. If no error appeared, your order was placed successfully! To track your order, simply visit the Domino's Tracker for your region and enter the phone number you entered in the Address Information menu.
+1. 从Wii 菜单启动 Food Delivery Channel（也被称为 Food Channel）。
+2. 按照屏幕上的指示操作，然后点击主屏幕的 `Order` 按钮。<br><br> ![主菜单](/images/Demae-Dominos/success.png)<br><br>
+3. 现在，您将被提示选择您的地区。 请确保正确选择您所在的国家。 如果选择错误将无法加载餐厅。 接下来，您将被要求选择您所在的州/省，然后选择城市。 如果列表中没有您所在的城市，您可以选择其中任何一个，因为这并不重要。<br><br> ![主菜单](/images/Demae-Dominos/country-setup.png)<br><br>
+4. 点击 `Pizza` 按钮。 这将加载您所在地区的所有餐厅。 列表中的第一个餐厅是距离您最近的餐厅。
+5. 点击 `See Menu` 以列出不同的菜单分类。 点击您想要的分类，然后选择一种食物项目。 您可以在项目界面中添加配料和调整数量。
+6. 添加食品项目后，您将进入购物车。 要添加食品项目，滚动到底部，然后选择 `Add Order`。 要进行结账，请点击 `Next`。
+7. 请在创建订单前仔细检查您的订单。 当您准备好后，点击大大的绿色的 `Order` 按钮。<br><br> ![下单之前](/images/Demae-Dominos/order.png)<br><br>
+8. 如果没有出现错误提示，说明您已成功创建订单！ 要跟踪您的订单，只需访问您所在地区的 Domino's Tracker，并输入您在地址信息菜单中输入的电话号码。
 
-**_Happy ordering!_**
+**_祝您订餐愉快！_**
 
 [继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
 {: .notice--info}

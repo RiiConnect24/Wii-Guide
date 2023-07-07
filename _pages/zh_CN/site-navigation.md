@@ -1,5 +1,5 @@
 ---
-title: "网站导览"
+title: "网站导航"
 layout: single
 sitemap: false
 ---
@@ -38,12 +38,13 @@ sitemap: false
 - [BlueBomb](bluebomb)
 - [BootMii 备份](bootmii)
 - [cIOS](cios)
-- [Wii破解的注意事项](dosanddonts)
+- [Wii 破解的注意事项](dosanddonts)
 - [FlashHax](flashhax)
 - [Homebrew Browser](hbb)
 - [Homebrew Channel](hbc)
 - [LetterBomb](letterbomb)
 - [Priiloader](priiloader)
+- [重新启动 HackMii Installer](hackmii)
 - [str2hax](str2hax)
 - [Wii Mod Lite](wiimodlite)
 - [Wilbrand](wilbrand)
@@ -53,7 +54,7 @@ sitemap: false
 - [制作 Wii 游戏的快捷方式](wiigsc)
 - [GameCube Backup Manager](gcbackupmanager)
 - [如何转存频道（WAD）](dump-wads)
-- [如何转存 GameCube/Wii 游戏](dump-games)
+- [如何导出 GameCube/Wii 游戏](dump-games)
 - [安装 RSSMii](rssmii)
 - [安装 Wii 菜单主题](themes)
 - [在 vWii 上安装 Wii 菜单主题](themes-vwii)

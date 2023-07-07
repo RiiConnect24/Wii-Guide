@@ -7,7 +7,7 @@ main:
     title: 从这里开始
     url: get-started
   - 
-    title: 网站导览
+    title: 网站导航
     url: site-navigation
   - 
     title: FAQ
@@ -23,13 +23,13 @@ top:
     title: 本网站使用 cookie 来在侧边栏显示当前指南进度，并提升网站的其它功能。
 bottom:
   - 
-    title: For support in English, ask for help at <a href="https://discord.gg/b4Y7jfD">RiiConnect24 on Discord</a>.
+    title: 如果需要中文帮助，国内用户可以添加 QQ 群：417992332。如果需要英文帮助，请在 <a href="https://discord.gg/b4Y7jfD">RiiConnect24 Discord</a> 上寻求帮助。
 footer:
   - 
     title: 来源
     url: https://github.com/RiiConnect24/Wii-Guide/
   - 
-    title: 网站导览
+    title: 网站导航
     url: site-navigation
   - 
     title: 捐赠

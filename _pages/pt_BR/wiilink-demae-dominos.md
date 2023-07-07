@@ -2,7 +2,7 @@
 title: WiiLink Food Delivery Channel (Domino's) Guide
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sumário" %}
 
 If you need help for anything regarding this tutorial, please join [the WiiLink Discord server](https://discord.gg/wiilink-750581992223146074).
 {: .notice--info}
@@ -19,16 +19,16 @@ Currently, only the USA and Canada are supported.
 You cannot use the default Dolphin NAND with this service. You must use your own NAND dump. This can be done in Dolphin by going to the toolbar and clicking `Tools -> Manage NAND -> Import BootMii NAND Backup`.
 {: .notice--warning}
 
-#### What you need
+#### Você precisará de
 
-- An SD card or USB drive
+- Um cartão SD ou armazenamento USB
 - A Wii console with an active internet connection
 - A computer with an active internet connection
 - A Discord account
 
-#### Instructions
+#### Instruções
 
-##### Section I - Getting Started
+##### Seção I - Primeiros Passos
 
 1. Download the latest version of the WiiLink Patcher, available [here](https://github.com/WiiLink24/WiiLink24-Patcher/tree/csharp-ver).
 2. Make sure to download the version in the README that corresponds to your operating system.
@@ -49,7 +49,7 @@ You cannot use the default Dolphin NAND with this service. You must use your own
 
 You will now install the Food Delivery Channel and Set Personal Data channels.
 
-1. Put your SD card or USB drive in your Wii.
+1. Coloque seu cartão SD ou armazenamento USB no seu Wii.
 2. After registering your console ID, go to the Homebrew Channel and launch **Wii Mod Lite**.
 3. In the WAD Manager menu, locate `Food Channel (Domino's) (English).wad`.
 4. Also locate `WiiLink_SPD (Wii).wad` or `WiiLink_SPD (vWii).wad`, depending on your console platform.
@@ -95,5 +95,5 @@ If you have previously placed an order, skip to step 4.
 
 **_Happy ordering!_**
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
 {: .notice--info}

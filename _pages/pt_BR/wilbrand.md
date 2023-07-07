@@ -2,7 +2,7 @@
 title: "Wilbrand"
 ---
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![Wilbrand](/images/wilbrand/icon.png)
@@ -12,15 +12,15 @@ Wilbrand, like LetterBomb, is an exploit for the Wii that is triggered using the
 Unlike LetterBomb, Wilbrand supports Wii menu versions down to 3.0.
 {: .notice--info}
 
-#### What you need
+#### Você precisará de
 
 - A PC running Windows, MacOS or Linux
-- An SD card formatted to FAT32/MS-DOS
+- Um cartão SD formatado para FAT32/MS-DOS
 - A Wii on at least version 3.0
 - [Wilbrand](https://static.wiidatabase.de/Wilbrand.zip)
 - [HackMii Installer v1.2](https://bootmii.org/download/)
 
-#### Instructions
+#### Instruções
 
 1.  On your Wii, go to `Wii Settings`, and make note of the version at the top right. Proceed to `Internet` -> `Console Information` and also make note of your MAC address.
 1.  Extract the Wilbrand zip to a folder on your PC, preferably on your desktop.
@@ -39,13 +39,13 @@ Unlike LetterBomb, Wilbrand supports Wii menu versions down to 3.0.
 1.  Extract the HackMii Installer v1.2 to a folder on your PC.
     - You may also simply open the zip file in your archive manager.
 1.  Locate the `boot.elf` file, and put it on the root of your SD card.
-1.  Take out your SD card and insert it in your Wii.
-    - The SD card must be inserted in the SD card slot located in the front of the Wii. Using a USB adapter plugged into the Wii's USB port will not work.
-1.  On your Wii, return to the Wii Menu and then open the Wii Message Board.
+1.  Pegue seu cartão SD e insira-o no seu Wii.
+    - O cartão SD deve ser inserido no slot de cartão SD localizado na frente do Wii. O uso de um adaptador USB conectado à porta USB do Wii não funcionará.
+1.  No seu Wii, retorne ao Menu do Wii e então abra o Wii Message Board.
 1.  Load the green letter with the Bob-omb icon.
-    - Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
+    - Certifique-se que a data em seu Wii está correta, caso contrário você não poderá encontrar a carta.
     - The mail may have appeared on the previous or next day.
     - If you don't see the green letter, check if any errors appear in the SD card sections in `Data Management`. If any do, there may be an issue with the SD card format or the Wii's SD card reader. ![Wilbrand in its natural habitat](/images/wilbrand/msgboard.png)
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[Continue para a Instalação do Homebrew Channel e do BootMii](hbc)
 {: .notice--info}

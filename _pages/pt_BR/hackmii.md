@@ -1,85 +1,55 @@
 ---
-title: "Relaunching the HackMii Installer"
+title: "Reiniciando o HackMii Installer"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sumário" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-This guide is intended for situations where you need to relaunch the HackMii Installer to update/reinstall the Homebrew Channel or BootMii.
+Este guia é direcionado as situações onde você precisa reiniciar o HackMii Installar para fazer um update/reinstalar o Homebrew Channel ou BootMii.
 
-It is also safe to [redo any exploit](get-started) to get back into the HackMii Installer.
+Também é seguro [refazer qualquer exploit](get-started) para voltar no HackMii Installer.
 {: .notice--info}
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'hbc')">Using the Homebrew Channel</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'priiloader')">Using Priiloader</button>
+### Reiniciando através do Homebrew Channel
 
-<div id="hbc" class="blanktabcontent" markdown="1">
+#### Você precisará de
 
-### Relaunching via the Homebrew Channel
-
-#### What you need
-
-- The Homebrew Channel
-- An SD card or USB drive formatted to FAT32/MS-DOS
+- O Homebrew Channel
+- Um cartão SD formatado para FAT32/MS-DOS
 - [HackMii Installer v1.2](https://bootmii.org/download/)
 
-#### Instructions
+#### Instruções
 
-1. Insert your SD/USB into your PC.
-1. Extract the HackMii Installer v1.2 to the `apps` folder on your SD/USB.
-  - If this folder does not exist, create it.
-1. Insert the SD/USB into your Wii, and launch the `hackmii_installer_v1.2` app from the Homebrew Channel.
-  - The app will not have an icon.
-</div>
+1. Insira o cartão SD ou armazenamento USB no seu PC.
+1. Extraia o HackMii Installer v1.2 para a pasta `apps` no seu SD/USB.
+  - Se a pasta não existir, crie-a.
+1. Insira o SD/USB no seu Wii, e então inicie o app `hackmii_installer_v1.2` através do Homebrew Channel.
+  - O app não vai ter um ícone.
 
-<div id="priiloader" class="blanktabcontent" markdown="1">
+[Continue para a Instalação do Homebrew Channel e do BootMii](hbc)
+{: .notice--info}
 
-### Relaunching via Priiloader
+### Reiniciando através do Priiloader
 
-#### What you need
-- a Wii with Priiloader (or Preloader) installed
-- an SD card or USB drive formatted to FAT32/MS-DOS
+#### Você precisará de
+- um Wii com Priiloader (ou Preloader) instalado
+- um cartão SD formatado para FAT32/MS-DOS
 - [HackMii Installer v1.2](https://bootmii.org/download/)
-To check if your Wii has Priiloader, hold the RESET button while turning it on. ![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
+
+Para checar se seu Wii tem o Priiloader, segure o botão RESET enquanto o liga. ![Ligar](/images/Priiloader/on.jpg) ![Segurar RESET](/images/Priiloader/reset.jpg)
 {: .notice--info}
 
-#### Instructions
+#### Instruções
 
-1. Insert your SD/USB into your PC.
-1. Extract the HackMii Installer v1.2 to the `apps` folder on your SD/USB.
-  - If this folder does not exist, create it.
-1. Insert your SD/USB into your Wii.
-1. Enter Priiloader by holding the RESET button while turning on your Wii.
-1. Go to `Load/Install File`.
-1. Navigate to `hackmii_installer_v1.2` and press `1` to load it.
-</div>
+1. Insira o cartão SD ou armazenamento USB no seu PC.
+1. Extraia o HackMii Installer v1.2 para a pasta `apps` no seu SD/USB.
+  - Se a pasta não existir, crie-a.
+1. Insira o cartão SD ou armazenamento USB no seu Wii.
+1. Entre no Priiloader segurando o botão RESET enquanto liga o seu Wii.
+1. Vá para `Load/Install File`.
+1. Navegue até `hackmii_installer_v1.2` e pressione `1` para carregá-lo.
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[Continue para a Instalação do Homebrew Channel e do BootMii](hbc)
 {: .notice--info}
-
-<script>
-    let tabcontent = document.getElementsByClassName("blanktabcontent");
-    let tablinks = document.getElementsByClassName("tablinks");
-
-    function openTab(evt, tabName) {
-        let element;
-
-        for (element of tabcontent) {
-            element.style.display = "none";
-        }
-
-        for (element of tablinks) {
-            element.className = element.className.replace("btn--primary", "btn--info");
-            if (!element.className.includes('btn--info'))
-                element.className += " btn--info";
-        }
-
-        document.getElementById(tabName).style.display = "block";
-        evt.currentTarget.className = evt.currentTarget.className.replace("btn--info", "btn--primary");
-    }
-
-    // Get the element with id="defaultOpen" and click on it
-    document.getElementById("defaultOpen").click();
-</script>

@@ -4,10 +4,10 @@ title: "Wii Backup Manager"
 
 {% include toc title="Table of Contents" %}
 
-如果你需要有关本教程的任何帮助, 请加入[RiiConnect24 Discord服务器](https://discord.gg/rc24) (推荐)或 [发送电子邮件到 support@riiconnect24.net](mailto:support@riiconnect24.net)。
+如果您对本教程有任何问题或需要帮助，请加入 [RiiConnect24 Discord 服务器](https://discord.gg/rc24)（推荐）或 [发送电子邮件至 support@riiconnect24.net](mailto:support@riiconnect24.net) 与我们联系。
 {: .notice--info}
 
-Wii Backup Manager is a program to copy Wii games from your computer to a USB drive so you can play the games on your Wii. It also can download game covers from [GameTDB](https://gametdb.com/) and can be used to list what games you have. This tutorial will tell you how to copy over games from your computer to your USB drive. The other features are able to be used in the easy-to-use interface.
+Wii Backup Manager 是一个将 Wii 游戏从电脑复制到 U 盘的程序，以便在 Wii 上玩这些游戏。 它还可以从 [GameTDB](https://gametdb.com/) 下载封面，并列出您拥有的游戏。 本教程将告诉您如何将游戏从电脑复制到 U 盘上。 其它功能可以在易于使用的界面中使用。
 #### 你需要的是
 
 * 运行 Windows 的电脑
@@ -15,39 +15,39 @@ Wii Backup Manager is a program to copy Wii games from your computer to a USB dr
 * [Wii Backup Manager](https://static.wiidatabase.de/Wii-Backup-Manager.zip)
 
 
-We recommend you copy games over with [Witgui](https://desairem.com/wordpress/category/witgui-download/) if you use macOS, or [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) for Windows, macOS, and Linux. Wii Backup Manager is only compatible with Windows.
+如果您使用 macOS，我们推荐您使用 [Witgui](https://desairem.com/wordpress/category/witgui-download/)，如果您使用 Windows、macOS 和 Linux，我们推荐您使用 [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) 。 Wii Backup Manager 只能在 Windows 上使用。
 {: .notice--info}
 
-For storing multiple games, we recommend an external hard drive for your Wii. We will refer to it as a "USB drive" in this guide. Most of those found on the market should work fine.
+为存储多个游戏，推荐为 Wii 使用移动硬盘。 在本指南中，我们将称其为”USB 硬盘“。 市面上的大多数移动硬盘应该都能正常工作。
 {: .notice--info}
 
-A flash drive is not recommended, as they are small and may vary in behavior even between the same product. <br> As an alternative, you may simply use an SD card, but the Wii's SD card slot is slow.
+不建议使用 U 盘，因为它们很小，即使同一款产品之间行为也可能有所不同。 <br> 作为替代方案，您可以直接使用 SD 卡，但 Wii 的 SD 卡插槽速度很慢。
 {: .notice--info}
 
-Make sure your USB drive is formatted as FAT32. Do not format it as other types such as exFAT, extFS. <br> You may format it as NTFS, but it won't work with a majority of apps (eg. The Homebrew Channel, Nintendont)
+确保已将 USB 硬盘格式化为 FAT32 格式。 不要将它格式化为其它类型，如 exFAT、extFS。 <br>您可以将其格式化为 NTFS，但它不能与大多数应用程序（如 Homebrew Channel 和 Nintendont）配合使用。
 {: .notice--info}
 
 #### 步骤
 
-##### 第一章 - 下载
+##### 第一部分 - 下载
 
-1. Extract Wii Backup Manager, and launch the program.
-2. Insert your USB drive or SD card into your computer.
+1. 解压 Wii Backup Manager 并启动程序。
+2. 将 USB 硬盘或 SD 卡插入电脑。
 
-##### Section II - Copying Games Over
+##### 第二部分 - 将游戏复制到 USB 硬盘
 
-1. Go to the `Drive 1` tab, then select `Drive`.
-2. Select the drive that you're putting the Wii games on.
-3. Go to the `Files` tab, then select `Add`.
-4. Select `Files` to add multiple games to the program, or select `Folder` to add a whole folder of games.
-5. Select `Transfer`, then select `Drive 1` to transfer the games over. It might take a while for the games to copy over.
+1. 转到 `磁盘 1` 标签，然后选择 `磁盘`。
+2. 选择您要放置 Wii 游戏的驱动器。
+3. 转到 `文件` 标签，然后选择 `添加`。
+4. 选择 `文件` 以添加多个游戏到程序中，或选择 `文件夹` 以添加整个游戏文件夹。
+5. 选择 `传输`，然后选择 `磁盘1` 来传输游戏。 复制游戏可能需要一些时间，请耐心等待。
 
-##### Options once complete
+##### 完成后的选项
 
-[Continue to cIOS](cios)<br> cIOS is needed for your Wii to use a USB Loader.
+[继续安装 cIOS](cios)<br> 您的 Wii 需要 cIOS 来使用 USB 加载器。
 {: .notice--info}
 
-You can now use [USB Loader GX](usbloadergx) or [WiiFlow](wiiflow) to play games from your USB drive or SD card.
+您现在可以使用 [USB Loader GX](usbloadergx) 或 [WiiFlow](wiiflow) 从 USB 硬盘中玩游戏。
 {: .notice--info}
 
 [继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。

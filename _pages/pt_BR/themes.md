@@ -2,9 +2,9 @@
 title: "Installing Wii Menu Themes"
 ---
 
-{% include toc title="Table of Contents" %}
+{% include toc title="Sumário" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Are you tired of the boring, plain white theme on your Wii Menu, and want a cool theme instead? This tutorial will help you get a new theme for your Wii Menu!
@@ -27,10 +27,10 @@ Do not use any other version of ThemeMii than the one linked here, as ThemeMii M
 We recommend you [install cIOS](cios) before continuing.
 {: .notice--info}
 
-#### What you need
+#### Você precisará de
 
-* A Wii
-* An SD card or USB drive
+* Um Wii
+* Um cartão SD ou armazenamento USB
 * A computer with Windows on it (or using Mono or Wine on Mac/Linux)
 * [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
 * [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
@@ -46,7 +46,7 @@ Below are some links to themes.
 MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
 {: .notice--danger}
 
-#### Instructions
+#### Instruções
 
 ##### Section I - Finding a Theme
 
