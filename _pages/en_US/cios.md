@@ -31,6 +31,9 @@ If your Wii has an Internet connection, you may skip this section. <br/>
 However, If you encounter any errors like `tcp_read timeout` and `net_gethostbyname failed:`, this will allow the Wii to skip the downloading step.
 {: .notice--warning}
 
+If you are not on Windows, you may download & run [this script](/assets/files/d2x_offline_ios.sh), and it will download the WAD files for you.
+{: .notice--info}
+
 1. Download, extract, and run [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
 1. Select "Database", "IOS", then "IOS38", and select "v4123".
    - Ensure that "Pack WAD" is checked.
