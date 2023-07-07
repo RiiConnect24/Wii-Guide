@@ -30,6 +30,9 @@ title: "cIOS"
 如果您的 Wii 已连接到互联网，您可以跳过此部分。 <br/> 然而，如果您遇到任何错误，比如 `tcp_read timeout` 和 `net_gethostbyname failed:`，这将允许 Wii 跳过下载的步骤。
 {: .notice--warning}
 
+If you are not on Windows, you may download & run [this script](/assets/files/d2x_offline_ios.sh), and it will download the WAD files for you.
+{: .notice--info}
+
 1. 下载、解压并运行 [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip)。
 1. 选择 "Database"，"IOS"，然后选择 "IOS38"，最后选择 "v4123"。
    - 确保勾选了 "Pack WAD" 选项。
@@ -38,7 +41,7 @@ title: "cIOS"
 1. 一旦您下载了所有四个 IOS，将会在与 NUS Downloader 相同的文件夹中出现名为 `titles` 的文件夹。 <br/> 打开文件夹并浏览它们，直到找到您下载的四个 WAD 文件。 将每个 WAD 文件放在 SD 卡或 U 盘的根目录。
   - 必须与包含 d2x cIOS Installer 的设备相同。
 
-应该以这种方式将 WAD 文件放在您的 SD 卡上： ![离线 IOS 文件](/images/cios/d2x_offline_ios.png)
+The WAD files should be on your SD card like this: ![offline IOS files](/images/cios/d2x_offline_ios.png)
 {: .notice--info}
 ##### 第二部分 - 安装
 
@@ -53,9 +56,9 @@ Select cIOS slot: 248
 Select cIOS version: 65535
 ```
 
-![安装 cIOS 249](/images/cios/d2x_v11_248.png)
+![Install cIOS 249](/images/cios/d2x_v11_248.png)
 
-如果未显示 `d2x-v11-beta1`，请先尝试选择 cIOS base，然后再次检查。 这也可能是因为您的 SD 卡被锁定了。
+If `d2x-v11-beta1` isn't showing up, try select the cIOS base first, then check again. This can also happen if your SD card is locked.
 {: .notice--info}
 
 1. 设置完成后，按2次A安装。
@@ -68,7 +71,7 @@ Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 
-![安装 cIOS 250](/images/cios/d2x_v11_249.png)
+![Install cIOS 250](/images/cios/d2x_v11_249.png)
 
 1. 设置完成后，按2次A安装。
 1. 安装完成后，按A返回，并将选项设置为:
@@ -80,7 +83,7 @@ Select cIOS slot: 250
 Select cIOS version: 65535
 ```
 
-![安装 cIOS 250](/images/cios/d2x_v11_250.png)
+![Install cIOS 250](/images/cios/d2x_v11_250.png)
 
 1. 设置完成后，按2次A安装。
 1. 安装完成后，按A返回，并将选项设置为:
@@ -92,19 +95,19 @@ Select cIOS slot: 251
 Select cIOS version: 65535
 ```
 
-![安装 cIOS 251](/images/cios/d2x_v11_251.png)
+![Install cIOS 251](/images/cios/d2x_v11_251.png)
 
 1. 设置完成后，再次按 A 两次以进行安装，完成后退出。
 
 #### 故障排除
 
 {% capture bruh %}
-尽管大多是游戏应该默认情况下就能直接运行，但某些游戏可能需要使用特定的 cIOS 才能正常运行或利用游戏中的某些内容。<br> 例如：
+Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
 
 - 在《动物森友会 城市大家庭》中使用键盘。
 - 运行 SpongeBob's Boating Bash。
 
-可以在 [**这里**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List) 找到一个更全面（尽管仍不完善）的列表。<br> 要更改特定游戏所使用的 cIOS，请按照以下说明进行操作：
+A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
 {% endcapture %}
 
 <div class="notice--warning">{{ bruh | markdownify }}</div>
@@ -130,7 +133,7 @@ Select cIOS version: 65535
 </div>
 ##### 完成后的选项
 
-[继续安装 Homebrew Browser](hbb)<br> Homebrew Browser 是获取 Wii 自制软件的好地方。 这是可选项。
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. 这是可选项。
 {: .notice--info}
 
 [继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
