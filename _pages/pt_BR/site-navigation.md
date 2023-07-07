@@ -61,7 +61,7 @@ sitemap: false
 - [Managing GameCube Save Files](gcsaves)
 - [Nintendont](nintendont)
 - [Performing a SysCheck](syscheck)
-- [Removing RSSMii](rssmii-remove)
+- [Removendo o RSSMii](rssmii-remove)
 - [RiiTag](riitag)
 - [Setting RTC Time](rtc)
 - [Updating Wii Menu to v4.3](update)
