@@ -113,7 +113,7 @@ Priiloader allows you to automatically boot to the Homebrew Channel, an individu
 
 Your Wii should now automatically boot to whichever homebrew app you installed.
 
-##### Autobooting the Homebrew Channel, Priiloader or BootMii IOS
+##### Autobooting the Homebrew Channel or Priiloader
 
 1. Enter Priiloader by holding RESET when turning on your Wii.
   - If you are using a Wii Mini, plug in a USB keyboard and hold Escape while turning it on.
@@ -123,6 +123,10 @@ Your Wii should now automatically boot to whichever homebrew app you installed.
 ![Settings](/images/Priiloader/menu_settings.png)
 1. Press Right to cycle through the Autoboot options until your desired option is selected. <br>
 `Disabled` will autoboot to the Priiloader menu.
+
+Please don't set Autoboot to `BootMii IOS`. You will get stuck in a loop until you continuously hold the RESET button to enter the Priiloader menu.
+{: .notice--warning}
+
 ![Autoboot](/images/Priiloader/autoboot_disabled.png)
 1. Scroll down to `save settings` and press A.
 ![Saving settings](/images/Priiloader/settings_save.png)
