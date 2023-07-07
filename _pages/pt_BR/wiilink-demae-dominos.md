@@ -24,7 +24,7 @@ You cannot use the default Dolphin NAND with this service. You must use your own
 - Um cartão SD ou armazenamento USB
 - A Wii console with an active internet connection
 - A computer with an active internet connection
-- A Discord account
+- Uma conta no Discord
 
 #### Instruções
 
