@@ -7,20 +7,20 @@ title: "Criando Atalhos de Jogos no Wii"
 Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Do you use a USB Loader and want to create game shortcuts to launch them on your Wii Menu? Then try WiiGSC (Wii Game Shortcut Creator), previously known as Crap.
+Você usa um USB Loader e quer criar atalhos de jogos para iniciá-los do seu Menu do Wii? Então tente WiiGSC (Wii Game Shortcut Creator), previamente conhecido como Crap.
 
-In the case of a brick, [installing Priiloader is a must](/priiloader). Also, install BootMii (as Boot2 if you have an early Wii). Instalar proteção de bricks e seguir o guia corretamente deve mantê-lo seguro contra bricks. NÃO CONTINUE COM O GUIA ATÉ VOCÊ TER INSTALADO PRIILOADER E BOOTMII!
+No caso de um brick, [instalar Priiloader é obrigatório](/priiloader). Também, instale BootMii (como Boot2 se você tem um Wii antigo). Instalar proteção de bricks e seguir o guia corretamente deve mantê-lo seguro contra bricks. NÃO CONTINUE COM O GUIA ATÉ VOCÊ TER INSTALADO PRIILOADER E BOOTMII!
 {: .notice--warning}
 
-Do NOT make a shortcut for the games "Mario Party 9" or "A Boy and His Blob". It will brick your Wii.
+NÃO faça atalhos para os jogos "Mario Party 9" ou "A Boy and His Blob". Irá causar um brick em seu Wii.
 {: .notice--warning}
 
 #### Você precisará de
 
 * Um Wii
-* A USB drive.
-* A WAD Manager (Wii Mod Lite is recommended).
-* A Windows computer.
+* Um armazenamento USB.
+* Um Gerenciador de WAD (Wii Mod Lite é recomendado).
+* Um computador Windows.
 * [WiiGSC](https://wiidatabase.de/downloads/pc-tools/wiigsc-ehemals-crap/)
 
 #### Instruções
