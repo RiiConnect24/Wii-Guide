@@ -56,32 +56,32 @@ Este não é um guia completo em como usar o WiiFlow. Isso é destinado a lhe en
 
 ##### Interface do Usuário
 
-When WiiFlow detects games, they are displayed in flow view. When you click on a game you are given these options:
+Quando o WiiFlow detecta jogos, eles são mostrados em visualização flow. Quando você clica em um jogo, você é mostrado as seguintes opções:
 
-- Star - Adds game to favorites.
-- Bookshelf - Adds the game to 1 of 6 categories of your choosing.
-- Gears - Opens the settings menu for the specific game. Changing settings here will only effect the game you changed the settings for.
-- X - Deletes the game from the USB drive or SD card
+- Estrela - Adiciona um jogo aos favoritos.
+- Estante - Adiciona um jogo de 1 a 6 categorias de sua escolha.
+- Engrenagens - Abre o menu de configurações para o jogo específico. Alterar configurações aqui só irá afetar o jogo que está alterando as configurações.
+- X - Deleta o jogo do armazenamento USB ou cartão SD
 
-When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
+Quando você leva o cursor a parte inferior da tela enquanto está na visualização flow, tem 6 ícones:
 
-- Bookshelf - View the games that are sorted in the categories you chose.
-- Star - View games you favorited.
-- Gears - Opens WiiFlow Settings.
-- Game Type - Toggles between different types of apps/games. The logo changes depending on what game type you have selected.
-- Disc - Loads game that is in disc drive.
-- House - Will open this menu. This menu can also be launched by pressing the home button.
+- Estante - Ver jogos que já estão sorteados nas categorias que você escolheu.
+- Estrela - Ver jogos favoritados.
+- Engrenagens - Abrir as configurações do WiiFlow.
+- Tipo de Jogo - Altera entre diferentes tipos de aplicativos/jogos. A logo muda dependendo do tipo de jogo que você selecionou.
+- Disco - Carrega um jogo que está na porta de disco.
+- Casa - Vai abrir este menu. Este menu também pode ser iniciado pressionando o botão home.
 
 ![WF_menu](images/WFmenu.png)
 
-- Help Guide - Shows all the controls you can use in WiiFlow.
-- Reload Cache - Press this when WiiFlow is not detecting a new game on the USB drive or SD card.
-- File Explorer - Allows you to boot games/apps from anywhere on your USB drive or SD card.
-- Select Plugins - Allows you to select plugins.
-- Credits - Shows the people who worked on WiiFlow.
-- Shutdown - Allows you to either go into full shutdown, or Standby mode.
-- Exit To - Lets you exit to Wii Menu, HBC, neek2o, Priiloader and Bootmii.
-- Settings - Will open the WiiFlow Settings menu
+- Help Guide - Mostra todos os controles que você pode usar no WiiFlow.
+- Reload Cache - Pressione isso quando o WiiFlow não detectar um jogo novo no armazenamento USB ou cartão SD.
+- File Explorer - Permite que você inicie jogos/aplicativos de qualquer lugar no seu armazenamento USB ou cartão SD.
+- Select Plugins - Permite que selecione plugins.
+- Credits - Mostra as pessoas que trabalharam no WiiFlow.
+- Shutdown - Permite que você desligue o console completamente, ou entre em modo Standby.
+- Exit To - Permite que você saia para o Menu do Wii, HBC, neek2o, Priiloader e BootMii.
+- Settings - Vai abrir o menu de Configurações do WiiFlow
 
 ##### Opções assim que completo
 
