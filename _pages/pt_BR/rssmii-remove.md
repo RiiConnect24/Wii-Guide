@@ -11,14 +11,14 @@ Se você não deseja mais usar o RSSMii (talvez porque lhe dá muitas mensagens 
 
 #### Você precisará de
 
-* An SD card
+* Um cartão SD
 * [RSSMii Remover](https://github.com/RiiConnect24/rssmii/releases)
 
 #### Instruções
 
-1. Extract RSSMii Remover and put it in the `apps` folder on your SD card.
-2. Delete the `feeds.xml` file on the root of your SD card.
-3. Launch RSSMii Remover from the Homebrew Channel. It will remove your subscriptions to the RSS feeds.
+1. Extraia o RSSMii Remover e o coloque na pasta `apps` no seu cartão SD.
+2. Exclua o arquivo `feeds.xml` na raiz do seu cartão SD.
+3. Abra o RSSMii Remover no Homebrew Channel. Ele removerá suas assinaturas para os feeds do RSS.
 
-In case you would like to revert your decision, you can always [reinstall RSSMii](rssmii).
+Caso você queira reverter sua decisão, você pode sempre [reinstalar o RSSMii](rssmii).
 {: .notice--info}
