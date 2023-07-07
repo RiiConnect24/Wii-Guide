@@ -1,13 +1,13 @@
 ---
-title: "Removing RSSMii"
+title: "Removendo o RSSMii"
 ---
 
 Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-If you no longer wish to use RSSMii (maybe because it gives you too much Wii Mail), here's how to remove it.
+Se você não deseja mais usar o RSSMii (talvez porque lhe dá muitas mensagens no Wii), aqui está como removê-lo.
 
-![Removing RSSMii](/images/rssmii-remove.png)
+![Removendo o RSSMii](/images/rssmii-remove.png)
 
 #### Você precisará de
 
