@@ -48,16 +48,16 @@ As etapas para conectar o RiiTag ao seu USB Loader dependem do que você usa.
 
 ###### WiiFlow
 
-1. Take the SD Card or USB device where your WiiFlow data is into your computer.
-2. Open `/apps/wiiflow/wiiflow.ini` with a text editor. (If you use WiiFlow Lite, the path should have `wiiflow_lite` instead of `wiiflow`.)
-3. Search for `gamercards` and replace that line with `gamercards=wiinnertag`.
-4. Search for `wiinnertag_url` and replace that line with `wiinnertag_url=https://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
-5. Search for `wiinnertag_key` and replace that line with `wiinnertag_key=<key>`, replacing `<key>` with the key you wrote down in Section 1.
-6. Search for `gamercards_enable` and replace that line with `gamercards_enable=yes`.
-7. Save the modified `wiiflow.ini` file.
+1. Pegue o cartão SD ou armazenamento USB que você tem os dados do WiiFlow e o insira no seu computador.
+2. Abra `/apps/wiiflow/wiiflow.ini` com um editor de texto. (Se você usa WiiFlow Lite, o caminho pode ter `wiiflow_lite` em vez de `wiiflow`.)
+3. Procure por `gamercards` e substitua essa linha por `gamercards=wiinnertag`.
+4. Pesquise por `wiinnertag_url` e substitua essa linha por `wiinnertag_url=https://tag.rc24.xyz/wii?game={ID6}&key={KEY}`.
+5. Procure por `wiinnertag_key` e substitua essa linha por `wiinnertag_key=<key>`, substituindo `<key>` pela chave que você anotou na Seção 1.
+6. Procure por `gamercards_enable` e substitua essa linha por `gamercards_enable=yes`.
+7. Salve o arquivo `wiiflow.ini` modificado.
 8. Você agora tem o RiiTag configurado. Você pode tentar iniciar qualquer jogo agora para ver se ele funciona corretamente.
 
-###### Emulators
+###### Emuladores
 
 RiiTag supports Dolphin, Citra, and Cemu. You need a Discord account for this to work.
 {: .notice--info}
