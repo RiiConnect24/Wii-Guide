@@ -55,7 +55,7 @@ sitemap: false
 - [GameCube Backup Manager](gcbackupmanager)
 - [How to dump Channels (WADs)](dump-wads)
 - [How to dump GameCube/Wii Games](dump-games)
-- [Installing RSSMii](rssmii)
+- [Instalando RSSMii](rssmii)
 - [Installing Wii Menu Themes](themes)
 - [Installing Wii Menu Themes on vWii](themes-vwii)
 - [Managing GameCube Save Files](gcsaves)
