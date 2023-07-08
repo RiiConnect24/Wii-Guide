@@ -10,7 +10,7 @@ Kirby TV Channel 由 Striim Network 控制和经营，与 RiiConnect24 无关。
 <b>目前无法使用 Kirby TV channel。 抱歉。</b>
 {: .notice--warning}
 
-Striim Network 是一项致力于恢复支持播放视频的频道的服务，例如 Kirby TV Channel 和 Youtube。
+Striim Network 是一项致力于恢复支持播放视频的频道的服务，例如 Kirby TV Channel 和 YouTube。
 
 #### 你需要的是
 
