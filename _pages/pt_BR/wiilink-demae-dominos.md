@@ -1,5 +1,5 @@
 ---
-title: WiiLink Food Delivery Channel (Domino's) Guide
+title: Guia do Channel do WiiLink Food Delivery (Domino's)
 ---
 
 {% include toc title="Sumário" %}
