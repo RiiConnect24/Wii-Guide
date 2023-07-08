@@ -199,22 +199,22 @@ Alguns jogos que são DSi enhanced o que significa que você pode jogar jogos on
 Se você obter error 20110, significa que sua provedora de internet ou rede está bloqueando o uso de um DNS. Você pode definir `Auto-Obtain DNS` em `On` para resolver isso. RiiConnect24 ainda vai funcionar sem ele. Ou, você pode usar nosso programa [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest).
 {: .notice--warning}
 
-You cannot use Sudomemo, which revives Flipnote Studio on the DSi, if you're using this DNS. If you want to use Sudomemo instead of playing games on Wiimmfi, you will have to set your primary DNS to `104.248.0.110` on Wi-Fi settings on your DSi or 3DS, not the DS Wi-Fi settings. Or you can use their [DNS-Server](https://github.com/Sudomemo/sudomemoDNS) program.
+Se você não pode utilizar Sudomemo, que revive o Flipnote Stuido no DSi, você está usando este DNS. Se quiser utilizar o Sudomemo ao invés de jogar jogos com o Wiimmfi, você terá que colocar seu DNS primário como `104.248.0.110` em Wi-Fi settings no seu DSi ou 3DS, não DS Wi-Fi settings. Ou, você pode usar o programa [DNS-Server](https://github.com/Sudomemo/sudomemoDNS).
 {: .notice--warning}
 
-### Mario Kart Wii Mods
+### Mods para Mario Kart Wii
 
 #### CTGP-R
 
-MrBean35000vr and Chadderz have a custom track distribution called CTGP-R that allows you to use a set of custom tracks and has automatic Wiimmfi patching. Go to the [ChadSoft website](http://chadsoft.co.uk) for the download and instructions.
+MrBean35000vr e Chadderz tem um distribuidor de pistas customizadas chamado CTGP-R que permite que você use pistas customizadas e tem patching automático do Wiimmfi. Vá para o website [ChadSoft](http://chadsoft.co.uk) para download e instruções.
 
 #### MKW Hack Pack
 
-PhillyG has put together a collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. To learn how to set it up, go to the [wiki page](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+PhillyG reuniu uma coleção de pistas customizadas e hacks chamados MKW Hack Pack, e permite conexões com o Wiimmfi. Para aprender a como colocá-lo, vá para a [página da wiki](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
 
 #### Wiimms Mario Kart Fun
 
-Wiimm and Leseratte make a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte, has Wiimmfi support, and lots of other features. You can find out more about it on its [wiki page](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
+Wiimm e Leseratte fizeram uma distriuição de pistas customizadas chamadas "Wiimms MKW Fun", que atualizam pelo menos três vezes por ano. É baseado na framework LE-CODE por Leseratte, tem suporte ao Wiimmfi, e várias outras funções. Você pode encontrar mais sobre em sua [página da wiki](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
 
 [Continue para RiiConnect24](riiconnect24)<br> RiiConnect24 lhe permite utilizar os serviços descontinuados do WiiConnect24, que incluem os Channels News, Forecast, Everybody Votes, Nintendo e Check Mii Out Channel, junto com o Wii Mail. A instalação é opcional.
 {: .notice--info}
