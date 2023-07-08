@@ -133,7 +133,7 @@ Uma lista mais completa (embora ainda incompleta) pode ser encontrada [**aqui**]
 </div>
 ##### Opções assim que completo
 
-[Continue para o Homebrew Browser](hbb)<br> O Homebrew Browser é um bom lugar para obter homebrew no seu Wii. A instalação é opcional.
+[Continue para o Homebrew Browser](hbb)<br> O Homebrew Browser é um bom lugar para obter homebrew no seu Wii. This is optional to install.
 {: .notice--info}
 
 [Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
