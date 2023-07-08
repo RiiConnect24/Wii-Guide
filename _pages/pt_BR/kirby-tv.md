@@ -7,10 +7,10 @@ title: "Kirby TV Channel"
 O Kirby TV Channel é controlado e operado por Striim Network, não por RiiConnect24. Entre no servidor do Discord [aqui](https://discord.gg/seCnzxnE75).
 {: .notice--warning}
 
-<b>The Kirby TV channel is not available right now. Sorry.</b>
+<b>O Kirby TV Channel não está disponível no momento. Desculpe.</b>
 {: .notice--warning}
 
-Striim Network is a service dedicated to bringing back the channels that support video playback, such as Kirby TV Channel and YouTube.
+Striim Network é um serviço dedicado a trazer de volta os channels que suportam a reprodução de vídeo, como Kirby TV Channel e YouTube.
 
 #### Você precisará de
 
@@ -21,7 +21,7 @@ Striim Network is a service dedicated to bringing back the channels that support
 
 #### Instruções
 
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+[Se você quer ver instruções detalhadas sobre como instalar WADs, clique aqui!](wiimodlite)
 {: .notice--info}
 
 1. Baixe o executável para sua arquitetura e Sistema Operacional.
@@ -37,13 +37,13 @@ Striim Network is a service dedicated to bringing back the channels that support
 
 
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
+[Continue para RiiConnect24](riiconnect24)<br> RiiConnect24 lhe permite utilizar os serviços descontinuados do WiiConnect24, que incluem os Channels News, Forecast, Everybody Votes, Nintendo e Check Mii Out Channel, junto com o Wii Mail. A instalação é opcional.
 {: .notice--info}
 
-[Continue to WiiLink](wiilink)<br> WiiLink allows you to use the discontinued Japanese channels, such as Wii no Ma and the Digicam Print Channel. This is optional to install.
+[Continue para WiiLink](wiilink)<br> WiiLink permite que você use canais exclusivamente japoneses conhecidos como Wii no Ma e Digicam Print Channel. A instalação é opcional.
 {: .notice--info}
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+[Continue para Wiimmfi](wiimmfi)<br> Wiimmfi permite que jogue jogos online mesmo após a descontinuação do Nintendo Wi-Fi Connection. A instalação é opcional.
 {: .notice--info}
 
 [Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
