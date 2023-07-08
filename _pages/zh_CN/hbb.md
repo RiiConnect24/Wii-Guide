@@ -38,12 +38,12 @@ Homebrew Browser，也就是 Open Shop Channel 的基础，确实可以工作，
 - [WiiXplorer-SS](https://oscwii.org/library/app/wiixplorer-ss) - Wii 的文件管理器。 它可以让您访问 SD 卡、U 盘等上的文件。
 - [YABDM](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod) - 用于将安装在 Wii 上的内容转储为 WAD 的工具。 查看[我们的网页](dump-wads)以学习如何使用。
 
-[继续安装 RiiConnect24](riiconnect24)<br> RiiConnect24 允许您使用已停止服务的 WiiConnect24 功能，包含新闻、天气、大家一起投票、任天堂和 Mii 展示频道以及 Wii 邮箱。 This is optional to install.
+[继续安装 RiiConnect24](riiconnect24)<br> RiiConnect24 允许您使用已停止服务的 WiiConnect24 功能，包含新闻、天气、大家一起投票、任天堂和 Mii 展示频道以及 Wii 邮箱。 这是可选的安装步骤。
 {: .notice--info}
-[继续安装 WiiLink](wiilink)<br> WiiLink 允许您使用仅限日本的频道，如 Wii no Ma 和 Digicam Print Channel。 This is optional to install.
+[继续安装 WiiLink](wiilink)<br> WiiLink 允许您使用仅限日本的频道，如 Wii no Ma 和 Digicam Print Channel。 这是可选的安装步骤。
 {: .notice--info}
 
-[继续安装 Wiimmfi](wiimmfi)<br> Wiimmfi 让您在任天堂 Wi-Fi 连接停止服务后继续在线玩游戏。 This is optional to install.
+[继续安装 Wiimmfi](wiimmfi)<br> Wiimmfi 让您在任天堂 Wi-Fi 连接停止服务后继续在线玩游戏。 这是可选的安装步骤。
 {: .notice--info}
 
 [继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
