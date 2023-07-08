@@ -10,7 +10,6 @@ sitemap: false
 **特色文章**
 
 - [cIOS](cios)
-- [Kirby TV Channel](kirby-tv)
 - [RiiConnect24](riiconnect24)
 - [WiiLink](wiilink)
 - [Wiimmfi](wiimmfi)
