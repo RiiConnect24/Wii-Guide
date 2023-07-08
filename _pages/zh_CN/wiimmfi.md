@@ -216,10 +216,10 @@ PhillyG 制作了一个名为 MKW Hack Pack 的自定义赛道和 hacks，它允
 
 Wiimm 和 Leseratte 制作了名为 "Wiimms MKW Fun" 的自定义赛道发行版，每年大约更新三次。 它基于 Leseratte 的 LE-CODE 框架，有 Wiimmfi 支持，还有很多其它功能。 您可以在其[维基页面](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun)上了解更多信息。
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
+[继续安装 RiiConnect24](riiconnect24)<br> RiiConnect24 允许您使用已停止服务的 WiiConnect24 功能，包含新闻、天气、大家一起投票、任天堂和 Mii 展示频道以及 Wii 邮箱。 这是可选的安装步骤。
 {: .notice--info}
 
-[继续安装 WiiLink](wiilink)<br> WiiLink 允许您使用仅限日本的频道，如 Wii no Ma 和 Digicam Print Channel。 This is optional to install.
+[继续安装 WiiLink](wiilink)<br> WiiLink 允许您使用仅限日本的频道，如 Wii no Ma 和 Digicam Print Channel。 这是可选的安装步骤。
 {: .notice--info}
 
 [继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
