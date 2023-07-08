@@ -7,10 +7,10 @@ title: "Kirby TV Channel"
 Kirby TV Channel 由 Striim Network 控制和经营，与 RiiConnect24 无关。 点[这里](https://discord.gg/seCnzxnE75)加入他们的 Discord 服务器。
 {: .notice--warning}
 
-<b>The Kirby TV channel is not available right now. Sorry.</b>
+<b>目前无法使用 Kirby TV channel。 抱歉。</b>
 {: .notice--warning}
 
-Striim Network is a service dedicated to bringing back the channels that support video playback, such as Kirby TV Channel and YouTube.
+Striim Network 是一项致力于恢复支持播放视频的频道的服务，例如 Kirby TV Channel 和 Youtube。
 
 #### 你需要的是
 
@@ -21,7 +21,7 @@ Striim Network is a service dedicated to bringing back the channels that support
 
 #### 步骤
 
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+[如果您想查看如何安装 WAD 的详细说明，请点击这里！](wiimodlite)
 {: .notice--info}
 
 1. 下载用于您的架构和系统的可执行文件。
@@ -37,13 +37,13 @@ Striim Network is a service dedicated to bringing back the channels that support
 
 
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
+[继续安装 RiiConnect24](riiconnect24)<br> RiiConnect24 允许您使用已停止服务的 WiiConnect24 功能，包含新闻、天气、大家一起投票、任天堂和 Mii 展示频道以及 Wii 邮箱。 这是可选的安装步骤。
 {: .notice--info}
 
-[Continue to WiiLink](wiilink)<br> WiiLink allows you to use the discontinued Japanese channels, such as Wii no Ma and the Digicam Print Channel. This is optional to install.
+[继续安装 WiiLink](wiilink)<br> WiiLink 允许您使用已停用的日本频道，如 Wii no Ma 和 Digicam Print Channel。 这是可选的安装步骤。
 {: .notice--info}
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+[继续安装 Wiimmfi](wiimmfi)<br> Wiimmfi 让您在任天堂 Wi-Fi 连接停止服务后继续在线玩游戏。 这是可选的安装步骤。
 {: .notice--info}
 
 [继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
