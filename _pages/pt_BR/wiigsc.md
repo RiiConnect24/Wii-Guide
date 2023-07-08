@@ -25,10 +25,10 @@ NÃO faça atalhos para os jogos "Mario Party 9" ou "A Boy and His Blob". Irá c
 
 #### Instruções
 
-1. Install WiiGSC, then right click on it and choose **Run as administrator**. If you do not do this, WiiGSC will throw an error when you open it.
-2. Select the path to the ISO or WBFS file on your USB drive, and select the USB Loader you use. The other options should be fine the way thy are.
-3. If you're using USB Loader GX, make sure to use [this version](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip).
-4. Install the generated WAD with a WAD Manager, we recommend Wii Mod Lite.
+1. Instale WiiGSC, dê um clique direito nele e escolha **Executar como administrador**. Se você não fizer isso, WiiGSC vai lhe dar um erro quando for aberto.
+2. Selecione o caminho para o arquivo ISO ou WBFS no seu armazenamento USB, e selecione o USB Loader que você utiliza. As outras opções devem estar boas do jeito que estão.
+3. Se você estiver usando o USB Loader GX, certifique-se de usar [essa versão](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip).
+4. Instale o WAD gerado com um WAD Manager, nós recomendamos o Wii Mod Lite.
 
-If you get an error saying "The system files are corrupted", don't panic as long as you installed Priiloader. Turn off your Wii, then hold down the RESET button down and turn on your Wii. You should be able to boot into the Priiloader menu, where you have some options to fix your Wii Menu. One of the options is to launch the Homebrew Channel.
+Se você receber um erro dizendo "The system files are corrupted" ou uma tela preta, não entre em pânico desde que você instalou o Priiloader. Desligue seu Wii, segure o botão RESET e ligue seu Wii. Você deve ser capaz de inicializar no menu do Priiloader, onde você tem algumas opções para corrigir seu Menu do Wii. Uma das opções é para iniciar o Homebrew Channel.
 {: .notice--info}
