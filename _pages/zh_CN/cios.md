@@ -133,7 +133,7 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 </div>
 ##### 完成后的选项
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. 这是可选项。
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
 {: .notice--info}
 
 [继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
