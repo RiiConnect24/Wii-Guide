@@ -8,6 +8,9 @@ The Kirby TV Channel is controlled and operated by Striim Network, not RiiConnec
 Join their Discord server [here](https://discord.gg/seCnzxnE75).
 {: .notice--warning}
 
+<b>The Kirby TV channel is not available right now. Sorry.</b>
+{: .notice--warning}
+
 Striim Network is a service dedicated to bringing back the channels that support video playback, such as Kirby TV Channel and YouTube.
 
 #### What you need
