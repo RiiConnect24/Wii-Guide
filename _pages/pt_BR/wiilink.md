@@ -4,7 +4,7 @@ title: "WiiLink"
 
 {% include toc title="Sumário" %}
 
-[WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels known as Wii Room, the Digicam Print Channel, and the Food Channel again.
+[WiiLink](https://wiilink24.com/) permite que você use canais exclusivamente japoneses conhecidos como Wii Room, Digicam Print Channel e o Food Channel.
 
 #### Você precisará de
 
