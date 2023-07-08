@@ -122,10 +122,10 @@ Se você receber o erro 107304 ou ver o Nintendo User Agreement sem o logotipo d
 Se você estiver recebendo erros como o `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, vá para Wii Settings -> Última Página -> Country e mude-o para United Kingdom. Você receberá este erro ao usar um país que não suportamos. Contate-nos em [support@riiconnect24.net](mailto:support@riiconnect24.net) se você precisar de mais ajuda.
 {: .notice--warning}
 
-[Continue para WiiLink](wiilink)<br> WiiLink permite usar os canais exclusivos do Japonês conhecidos como Wii no Ma e o Digicam Print Channel. This is optional to install.
+[Continue para WiiLink](wiilink)<br> WiiLink permite usar os canais exclusivos do Japonês conhecidos como Wii no Ma e o Digicam Print Channel. A instalação é opcional.
 {: .notice--info}
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+[Continue para Wiimmfi](wiimmfi)<br> Wiimmfi permite que jogue jogos online mesmo após a descontinuação do Nintendo Wi-Fi Connection. A instalação é opcional.
 {: .notice--info}
 
 [Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
