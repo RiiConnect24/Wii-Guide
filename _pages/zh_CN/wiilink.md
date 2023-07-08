@@ -17,7 +17,7 @@ title: "WiiLink"
 
 ##### 第一部分 - 修补 WAD
 
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+[如果您想查看如何安装 WAD 的详细说明，请点击这里！](wiimodlite)
 {: .notice--info}
 
 1. 下载 `WiiLink_Patcher_<OS Platform>_v1.X.X`，其中 `<OS Platform>` 为 `Windows`、`macOS` 或 `Linux`，取决于您的操作系统。
@@ -60,10 +60,10 @@ title: "WiiLink"
 对于 PAL（欧洲版的 Wii）<br> 在 Wii 设置中，请将电视分辨率设置为 60 HZ（480p/480i）。 您可以在 `Screen -> TV Resolution` 中找到此设置。如果您未进行设置，屏幕底部将出现一个遮挡视线的粉红色条状物。
 {: .notice--info}
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
+[继续安装 RiiConnect24](riiconnect24)<br> RiiConnect24 允许您使用已停止服务的 WiiConnect24 功能，包含新闻、天气、大家一起投票、任天堂和 Mii 展示频道以及 Wii 邮箱。 这是可选的安装步骤。
 {: .notice--info}
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+[继续安装 Wiimmfi](wiimmfi)<br> Wiimmfi 让您在任天堂 Wi-Fi 连接停止服务后继续在线玩游戏。 这是可选的安装步骤。
 {: .notice--info}
 
 [继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
