@@ -7,7 +7,7 @@ title: "Wiimmfi"
 Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
+![Logo do Wiimmfi](/images/WiiWiimmfiLogo.jpg)
 
 [Wiimmfi](https://wiimmfi.de) é um serviço destinado a substituir o extinto Nintendo Wi-Fi Connection. Foi desenvolvido por Wiimm e Leseratte.
 
@@ -151,52 +151,52 @@ Passos:
 
 ## Outras coisas
 
-### Mario Kart Wii Competitions
+### Competições no Mario Kart Wii
 
-Wiimmfi allows you to participate in Mario Kart Wii competitions again.
+O Wiimmfi permite que você participe em competições no Mario Kart Wii novamente.
 
 #### Você precisará de
 
-- Um cartão SD ou armazenamento USB
+- Um cartão SD ou pendrive
 - Mario Kart Wii Competition Patcher
   - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
   - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
-#### Instructions (for Wii)
+#### Instruções (para Wii)
 
-1. Extract Mario Kart Wii Competition Patcher and put it in the `apps` folder on your SD Card.
-2. Insert your SD card or USB drive into the Wii.
-3. Launch the original Mario Kart Wii game (not Wiimmfi patched).
-4. Navigate to Settings -> Network Settings (or Nintendo WFC Connection) -> Message Service. If you turned the message service feature on, turn it off and turn it on again.
-5. Launch Mario Kart Wii Competition Patcher.
-6. The patcher will look for save files for Mario Kart Wii on your storage device in various places, and upload them. This is done in case a missing competition is found in your save file. It will also, of course, patch your Wii for competitions.
+1. Extraia o Mario Kart Wii Competition Patcher e coloque-o na pasta `apps` em seu cartão SD.
+2. Insira o cartão SD ou armazenamento USB no Wii.
+3. Inicie o jogo original do Mario Kart Wii (sem o patch Wiimmfi).
+4. Navegue para Settings -> Network Settings (ou Nintendo WFC Connection) -> Message Service. Se você ligou a funcionalidade de message service, desligue-a e ligue-a novamente.
+5. Inicie o Mario Kart Wii Competition Patcher.
+6. O patcher vai procurar por arquivos de save para Mario Kart Wii no seu dispositivo de armazenamento em vários locais, e vai fazer um upload deles. Isso será feito caso uma competição ausente for encontrada no seu arquivo de save. Ele também vai, claro, fazer um patch no seu Wii para as competições.
 
-If you're using the Wii U, you will have to run the competitions patcher whenever you want to check for a competition, because WiiConnect24 is not enabled on the Wii U.
+Se você estiver usando o Wii U, você terá que executar o patcher de competições sempre que quiser checar por uma competição, pois o WiiConnect24 não está habilitado no Wii U.
 {: .notice--info}
 
-### DS Games
+### Jogos de DS
 
-Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks to an exploit called nds-constraint, you can play DS games online without patching your games.
+Wiimmfi não suporta apenas jogos de Wii, mas também suporta vários jogos de DS também. Graças a um exploit chamado nds-constraint, você pode jogar jogos de DS online sem fazer patch dos seus jogos.
 
 #### Você precisará de
 
-- A Wi-Fi network with WEP or no security
+- Uma conexão de Wi-Fi com WEP ou sem segurança
 
-Getting a Wi-Fi network with WEP or no security is the hardest part, because DS games don't support newer Wi-Fi security types. However, many routers support creating a guest Wi-Fi connection, or you can make a hotspot on your phone or your computer. There are plenty of resources on the Internet that have information on this, so use your favorite search engine to find them.
+Conseguir uma rede de Wi-Fi com segurança WEP ou sem segurança é a parte mais difícil, pois jogos de DS não suportam tipos de segurança de Wi-Fi mais recentes. Apesar disso, vários roteadores suportam criar uma conexão Wi-Fi de convidado, ou você pode fazer um ponto de acesso do seu celular ou computador. Tem vários recursos na internet que tem informação disso, então use seu aplicativo de pesquisa favorito para encontrá-los.
 {: .notice--info}
 
-Some games are DSi enhanced which means you can play games online without having only WEP or no security on your router if you have a DSi or 3DS. Pokémon Black and Pokémon White are DSi enhanced. In order to make use of it, follow the instructions below via the DSi or 3DS Wi-Fi settings. Those are separate from the DS Wi-Fi settings.
+Alguns jogos que são DSi enhanced o que significa que você pode jogar jogos online sem ter apenas WEP ou sem segurança no seu roteador se você tem um DSi ou 3DS. Pokémon Black e Pokémon White são DSi enhanced. Para fazer uso disto, siga as instruções abaixo via Wi-Fi settings do seu DSi ou 3DS. Estas configurações são separadas das DS Wi-Fi settings.
 {: .notice--info}
 
 #### Instruções
 
-1. Go in the Nintendo DS Wi-Fi settings. This can be accessed inside the game you want to play online with.
-2. Set up a connection.
+1. Vá para Nintendo DS Wi-Fi settings. Isso pode ser acessado dentro de um jogo que você queira jogar online.
+2. Configure uma conexão.
 3. Digite `167.86.108.126` como DNS primário.
 4. Digite `1.1.1.1` como DNS secundário.
-5. Save your connection settings and perform a connection test. If it's successful, then you're ready to play.
+5. Salve suas configurações de internet e faça um teste de conexão. Se for bem sucedido, então você está pronto para jogar.
 
-If you get error 20110, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. Você pode definir `Auto-Obtain DNS` em `On` para resolver isso. RiiConnect24 ainda vai funcionar sem ele. Ou, você pode usar nosso programa [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest).
+Se você obter error 20110, significa que sua provedora de internet ou rede está bloqueando o uso de um DNS. Você pode definir `Auto-Obtain DNS` em `On` para resolver isso. RiiConnect24 ainda vai funcionar sem ele. Ou, você pode usar nosso programa [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest).
 {: .notice--warning}
 
 You cannot use Sudomemo, which revives Flipnote Studio on the DSi, if you're using this DNS. If you want to use Sudomemo instead of playing games on Wiimmfi, you will have to set your primary DNS to `104.248.0.110` on Wi-Fi settings on your DSi or 3DS, not the DS Wi-Fi settings. Or you can use their [DNS-Server](https://github.com/Sudomemo/sudomemoDNS) program.
