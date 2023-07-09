@@ -69,7 +69,7 @@ RiiTag oferece suporte a Dolphin, Citra e Cemu. Você precisa de uma conta no Di
 
 Um bot do Discord é usado para ler sua rich presence e atualizar sua RiiTag de acordo. Se você quer convidar o bot para o seu servidor, [use este link](https://discord. com/oauth2/authorize? client_id=596108891071447052& scope=bot).
 
-###### Switch and 3DS
+###### Switch e 3DS
 
 RiiTag oferece suporte ao hardware do Switch e 3DS. Você precisa de uma conta no Discord para isso funcionar.
 {: .notice--info}
