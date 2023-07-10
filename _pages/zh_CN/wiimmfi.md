@@ -32,12 +32,12 @@ title: "Wiimmfi"
 1. 打开 Wii 的同时按住 RESET 按钮。
    - 如果使用 Wii Mini，插入 USB 键盘并在打开时按住 Esc。
 
-![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
+![打开](/images/Priiloader/on.jpg) ![按住 RESET](/images/Priiloader/reset.jpg)
 
 2. 你应该会看到 Priiloader 菜单。 ![菜单](/images/Priiloader/mainmenu.jpg)
 3. 前往 `System Menu Hacks`。
 
-If you are using a USB drive to install Priiloader, make sure you do not have an SD card inserted at the same time. This will cause Priiloader to be unable to find the hacks_hash.ini file.
+如果您使用 U 盘安装 Priiloader，请确保没有同时插入 SD 卡。 这将导致 Priiloader 找不到 hacks_hash.ini 文件。
 {: .notice--info}
 
 4. 请确保启用了 `Wiimmfi patch v4` 修改。 ![System Menu Hacks](/images/Priiloader/hacks.jpg)
