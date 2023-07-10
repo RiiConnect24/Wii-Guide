@@ -32,7 +32,7 @@ If you have an older version of Priiloader or don't have it installed, follow [t
 1. Hold the RESET button while turning on your Wii.
    - Wenn du eine Wii mini verwendest, schließe eine USB-Tastatur an und halte die Escape-Taste gedrückt, während du die Konsole einschaltest.
 
-![Einschalten](/images/Priiloader/on.jpg) ![Halte RESET gedrückt](/images/Priiloader/reset.jpg)
+![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
 
 2. Du solltest nun das Priiloader-Menü sehen.![Menü](/images/Priiloader/mainmenu.jpg)
 3. Gehe zu `System Menu Hacks`.
