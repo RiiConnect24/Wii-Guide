@@ -38,7 +38,7 @@ title: "重新启动 HackMii Installer"
 - 格式化为 FAT32/MS-DOS 的 SD 卡或 U 盘
 - [HackMii Installer v1.2](https://bootmii.org/download/)
 
-要检查您的 Wii 是否安装了 Priiloader，请在开机时按住 RESET 按钮。 ![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
+要检查您的 Wii 是否安装了 Priiloader，请在开机时按住 RESET 按钮。 ![打开](/images/Priiloader/on.jpg) ![按住 RESET](/images/Priiloader/reset.jpg)
 {: .notice--info}
 
 #### 步骤
