@@ -7,11 +7,15 @@ title: "Priiloader"
 Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-O Priiloader adiciona um nível de proteção contra brick ao seu Wii. Ele carrega antes que o Menu do Wii (daí o nome). A ferramenta também pode habilitar hacks para seu Menu do Wii e pode ser usada para iniciar rapidamente o Homebrew Channel, BootMii ou qualquer homebrew que você quiser!
+![Priiloader icon](/images/Priiloader/icon.png)
 
-![Priiloader](/images/Priiloader/priiloader.jpg)
+Priiloader adds a level of brick protection to your Wii. It loads before the Wii Menu does (hence the name). The tool can also enable hacks for your Wii Menu, and be used to quickly launch the Homebrew Channel, BootMii, or whatever homebrew you want!
 
-**Não** instale o Priiloader em um vWii (Modo Wii no Wii U). Você vai causar um brick no seu vWii fazendo isso.
+### Installing Priiloader
+
+![Installing Priiloader](/images/Priiloader/priiloader.jpg)
+
+Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your vWii by doing this.
 {: .notice--warning}
 
 #### Você precisará de
@@ -36,21 +40,23 @@ O Priiloader adiciona um nível de proteção contra brick ao seu Wii. Ele carre
 1. Segure o botão RESET enquanto liga o seu Wii.
    - Se você estiver usando um Wii mini, conecte um teclado USB e segure Escape nele enquanto o liga.
 
-![Ligar](/images/Priiloader/on.jpg) ![Segurar RESET](/images/Priiloader/reset.jpg)
+![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
 
 2. Você deve ver o menu do Priiloader. ![Menu](/images/Priiloader/mainmenu.jpg)
 3. Vá para `System Menu Hacks`.
 
-Se você estiver usando um armazenamento USB para instalar o Priiloader, certifique-se que você não tem um cartão SD inserido no seu Wii ao mesmo tempo. Isso fará com que o Priiloader não consiga encontrar o arquivo hacks_hash.ini.
+If you are using a USB drive to install Priiloader, make sure you do not have an SD card inserted at the same time. This will cause Priiloader to be unable to find the hacks_hash.ini file.
 {: .notice--info}
 
 4. Nós recomendamos que você ative os seguintes hacks: `Region Free EVERYTHING`, `Block Disc Updates` e `Block Online Updates`. ![Hacks do Menu do Sistema](/images/Priiloader/hacks.jpg)
 1. Desça até achar `save settings` e pressione A, em seguida pressione B para retornar ao menu principal do Priiloader.
 1. Desça até `Homebrew Channel` e pressione A para iniciá-lo.
 
-## Lista de Hacks do Menu do Sistema
+### Configuring Priiloader
 
-Esta é uma lista dos hacks que você pode ativar com o Priiloader.
+#### System Menu Hacks List
+
+This is a list of the hacks you can enable with Priiloader.
 
 | Hack                                    | Descrição                                                                                                                                                                                                  |
 | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -74,5 +80,39 @@ Esta é uma lista dos hacks que você pode ativar com o Priiloader.
 | Force Disc Games to run under IOS249    | Faça os discos usarem cIOS 249 como IOS do jogo. Embora não possa permitir jogar jogos gravados por si só, isto é necessário para jogar discos gravados. (Pode lhe dar um erro 002 em um jogo não gravado) |
 | Remove Deflicker                        | Remove o filtro de deflicker e faz o Menu do Wii parecer mais limpo.                                                                                                                                       |
 
-[Continue para o "Deve e NÃO Deve fazer" de modificações no Wii](dosanddonts)<br> Estas são algumas diretrizes para garantir que você não irá brickar seu Wii.
+#### Autobooting with Priiloader
+
+Priiloader allows you to automatically boot to the Homebrew Channel, an individual homebrew application, or Priiloader itself.
+
+##### Autobooting a Homebrew application
+
+1. Enter Priiloader by holding RESET when turning on your Wii.
+  - If you are using a Wii Mini, plug in a USB keyboard and hold Escape while turning it on. ![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
+1. Scroll down to `Load/Install file` and press A. ![Load/Install file](/images/Priiloader/menu_install_file.png)
+1. Scroll through the menu until your desired homebrew app is highlighted, and press A to install it. ![Installing a Homebrew app](/images/Priiloader/installing_file.png) ![Installing a Homebrew app OK](/images/Priiloader/installing_file_ok.png)
+1. Press B to go back to the main menu.
+1. Scroll down to `Settings` and press A. ![Configurações](/images/Priiloader/menu_settings.png)
+1. Press Right to cycle through the Autoboot options until `Installed file` is selected. ![Autoboot: Installed File](/images/Priiloader/autoboot_installed_file.png)
+1. Scroll down to `save settings` and press A. ![Saving settings](/images/Priiloader/settings_save.png)
+1. Press B to return to the main menu.
+1. Scroll back up to `System Menu` and press A.
+
+Your Wii should now automatically boot to whichever homebrew app you installed.
+
+##### Autobooting the Homebrew Channel or Priiloader
+
+1. Enter Priiloader by holding RESET when turning on your Wii.
+  - If you are using a Wii Mini, plug in a USB keyboard and hold Escape while turning it on. ![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
+1. Scroll down to `Settings` and press A. ![Configurações](/images/Priiloader/menu_settings.png)
+1. Press Right to cycle through the Autoboot options until your desired option is selected. <br> `Disabled` will autoboot to the Priiloader menu.
+
+Please don't set Autoboot to `BootMii IOS`. You will get stuck in a loop until you continuously hold the RESET button to enter the Priiloader menu.
+{: .notice--warning}
+
+![Autoboot](/images/Priiloader/autoboot_disabled.png)
+1. Scroll down to `save settings` and press A. ![Saving settings](/images/Priiloader/settings_save.png)
+1. Press B to return to the main menu.
+1. Scroll back up to `System Menu` and press A.
+
+[Continue to the Dos and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
 {: .notice--info}
