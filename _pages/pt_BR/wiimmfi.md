@@ -32,12 +32,12 @@ Se você tem uma versão mais antiga do Priiloader ou não o tem instalado, siga
 1. Segure o botão RESET enquanto liga o seu Wii.
    - Se você estiver usando um Wii mini, conecte um teclado USB e segure Escape nele enquanto o liga.
 
-![Ligar](/images/Priiloader/on.jpg) ![Segurar RESET](/images/Priiloader/reset.jpg)
+![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
 
 2. Você deve ver o menu do Priiloader. ![Menu](/images/Priiloader/mainmenu.jpg)
 3. Vá para `System Menu Hacks`.
 
-Se você estiver usando um armazenamento USB para instalar o Priiloader, certifique-se que você não tem um cartão SD inserido no seu Wii ao mesmo tempo. Isso fará com que o Priiloader não consiga encontrar o arquivo hacks_hash.ini.
+If you are using a USB drive to install Priiloader, make sure you do not have an SD card inserted at the same time. This will cause Priiloader to be unable to find the hacks_hash.ini file.
 {: .notice--info}
 
 4. Certifique-se de que o hack `Wiimmfi patch v4` está ligado. ![Hacks do Menu do Sistema](/images/Priiloader/hacks.jpg)
