@@ -38,7 +38,7 @@ Também é seguro [refazer qualquer exploit](get-started) para voltar no HackMii
 - um cartão SD formatado para FAT32/MS-DOS
 - [HackMii Installer v1.2](https://bootmii.org/download/)
 
-Para checar se seu Wii tem o Priiloader, segure o botão RESET enquanto o liga. ![Ligar](/images/Priiloader/on.jpg) ![Segurar RESET](/images/Priiloader/reset.jpg)
+Para checar se seu Wii tem o Priiloader, segure o botão RESET enquanto o liga. ![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
 {: .notice--info}
 
 #### Instruções
