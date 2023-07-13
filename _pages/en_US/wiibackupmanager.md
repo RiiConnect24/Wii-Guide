@@ -34,15 +34,19 @@ You may format it as NTFS, but it won't work with a majority of apps (eg. The Ho
 ##### Section I - Downloading
 
 1. Extract Wii Backup Manager, and launch the program.
-2. Insert your USB drive or SD card into your computer.
+1. Insert your USB drive or SD card into your computer.
 
 ##### Section II - Copying Games Over
 
-1. Go to the `Drive 1` tab, then select `Drive`.
-2. Select the drive that you're putting the Wii games on.
-3. Go to the `Files` tab, then select `Add`.
-4. Select `Files` to add multiple games to the program, or select `Folder` to add a whole folder of games.
-5. Select `Transfer`, then select `Drive 1` to transfer the games over. It might take a while for the games to copy over.
+1. Go to the `Drive 1` tab, then select the drive that you're putting the Wii games on.
+![Select drive](/images/WBM/select_drive.png)
+1. Go to the `Files` tab, then select `Add`. <br>
+Select `Files` to add multiple games to the program, or select `Folder` to add a whole folder of games.
+![Select games](/images/WBM/select_games.png)
+1. Go to `Select`, then click `Games not on drive 1`.
+![Highlight games](/images/WBM/select_games2.png)
+1. Select `Transfer`, then select `Drive 1` to transfer the games over. It might take a while for the games to copy over.
+![Transfer games](/images/WBM/transfer_todrive.png)
 
 ##### Options once complete
 
