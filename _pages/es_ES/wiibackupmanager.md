@@ -32,15 +32,14 @@ Make sure your USB drive is formatted as FAT32. Do not format it as other types 
 ##### Sección I - Preparación
 
 1. Extrae Wii Backup Manager y ejecuta el programa.
-2. Insert your USB drive or SD card into your computer.
+1. Insert your USB drive or SD card into your computer.
 
 ##### Sección II - Copiando los juegos
 
-1. Haz clic en la pestaña `Unidad 1` y despues en `Inactivo`.
-2. Select the drive that you're putting the Wii games on.
-3. Haz clic en la pestaña `Archivos` y despues en `Añadir`.
-4. Selecciona `Archivos..` para añadir juegos de forma individual al programa, o elige `Directorio..` para añadir una carpeta completa de juegos.
-5. Haz clic en `Transferir` y después en `Unidad 1` para comenzar a transferir los juegos. Puede que el proceso tarde un poco hasta que todos los juegos hayan terminado de copiarse.
+1. Go to the `Drive 1` tab, then select the drive that you're putting the Wii games on. ![Select drive](/images/WBM/select_drive.png)
+1. Go to the `Files` tab, then select `Add`. <br> Select `Files` to add multiple games to the program, or select `Folder` to add a whole folder of games. ![Select games](/images/WBM/select_games.png)
+1. Go to `Select`, then click `Games not on drive 1`. ![Highlight games](/images/WBM/select_games2.png)
+1. Select `Transfer`, then select `Drive 1` to transfer the games over. It might take a while for the games to copy over. ![Transfer games](/images/WBM/transfer_todrive.png)
 
 ##### Opciones una vez terminado
 
