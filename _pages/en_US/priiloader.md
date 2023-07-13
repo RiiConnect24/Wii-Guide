@@ -92,6 +92,19 @@ Priiloader allows you to automatically boot to the Homebrew Channel, an individu
 
 ##### Autobooting a Homebrew application 
 
+{% capture UNEO %}
+If you would like to autoboot USB loader GX, do this first:
+  * Download the USB Loader GX forwarder WAD ([Wii](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), [vWii](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad)).
+  * Download the [UNEO Channel Booter for Priiloader](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders%20dols/UNEO%20Channel%20Booter%20for%20Priiloader.zip/download).
+  * Install the forwarder WAD with a WAD manager like [Wii Mod Lite](wiimodlite).
+  * Extract the `UNEO Channel Booter for Priiloader.zip` file anywhere.
+  * Copy `uneoboot.dol` to the root of your SD card.
+
+You will be installing `uneoboot.dol` in step 3.
+{% endcapture %}
+
+<div class="notice--warning"> {{ UNEO | markdownify }} </div>
+
 1. Enter Priiloader by holding RESET when turning on your Wii.
   - If you are using a Wii Mini, plug in a USB keyboard and hold Escape while turning it on.
 ![Turn on](/images/Priiloader/on.jpg)
