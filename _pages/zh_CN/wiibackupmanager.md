@@ -32,15 +32,14 @@ Wii Backup Manager 是一个将 Wii 游戏从电脑复制到 U 盘的程序，�
 ##### 第一部分 - 下载
 
 1. 解压 Wii Backup Manager 并启动程序。
-2. 将 USB 硬盘或 SD 卡插入电脑。
+1. 将 USB 硬盘或 SD 卡插入电脑。
 
 ##### 第二部分 - 将游戏复制到 USB 硬盘
 
-1. 转到 `磁盘 1` 标签，然后选择 `磁盘`。
-2. 选择您要放置 Wii 游戏的驱动器。
-3. 转到 `文件` 标签，然后选择 `添加`。
-4. 选择 `文件` 以添加多个游戏到程序中，或选择 `文件夹` 以添加整个游戏文件夹。
-5. 选择 `传输`，然后选择 `磁盘1` 来传输游戏。 复制游戏可能需要一些时间，请耐心等待。
+1. Go to the `Drive 1` tab, then select the drive that you're putting the Wii games on. ![Select drive](/images/WBM/select_drive.png)
+1. Go to the `Files` tab, then select `Add`. <br> Select `Files` to add multiple games to the program, or select `Folder` to add a whole folder of games. ![Select games](/images/WBM/select_games.png)
+1. Go to `Select`, then click `Games not on drive 1`. ![Highlight games](/images/WBM/select_games2.png)
+1. Select `Transfer`, then select `Drive 1` to transfer the games over. It might take a while for the games to copy over. ![Transfer games](/images/WBM/transfer_todrive.png)
 
 ##### 完成后的选项
 
