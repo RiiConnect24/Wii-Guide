@@ -14,12 +14,12 @@ Striim Network is a service dedicated to bringing back the channels that support
 
 #### What you need
 
-* An SD card or USB drive
+* Una scheda SD o un'unità USB
 * A Wii with an Internet connection
 * A Windows or Unix based computer
 * [Kirby TV Channel Patcher](https://github.com/StriimNetwork/Kirby-TV-Channel-Patcher/releases)
 
-#### Instructions
+#### Istruzioni
 
 [If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
 {: .notice--info}
