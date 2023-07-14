@@ -1,36 +1,36 @@
 ---
-title: "Setting RTC Time"
+title: "RTC 시간 설정"
 ---
 
-If you need help with anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+이 자습서와 관련하여 도움이 필요하면 [RiiConnect24 디스코드 서버에 가입](https://discord.gg/rc24) (추천) 하거나 [support@riiconnect24.net](mailto:support@riiconnect24.net)로 이메일을 보내주세요.
 {: .notice--info}
 
-You need an Internet connection in order to use this application.
+이 응용 프로그램을 사용하려면 인터넷에 연결되어 있어야 합니다.
 {: .notice--warning}
 
-In this step, you will synchronize your Wii with a NTP time server. This will set your Wii's clock to the correct time to prevent potential problems when installing services such as RiiConnect24.
+이 단계에서는 Wii를 NTP 시간 서버와 동기화합니다. 이렇게 하면 Wii의 시계가 올바른 시간으로 설정되어 RiiConnect24와 같은 서비스를 설치할 때 발생할 수 있는 문제를 방지할 수 있습니다.
 
-#### What you need
-* An SD card or USB drive
+#### 필요한 것
+* SD 카드 및 USB 드라이브
 * [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
 
-#### Instructions
+#### 사용 방법
 
-1. Extract sntp and put it in the `apps` folder on your SD card or USB drive.
-2. Insert your SD card or USB drive into your Wii.
-3. Launch the Homebrew Channel on your Wii.
-4. Launch sntp.
-5. Use the +Control Pad to select the current time.
-6. Press the HOME Button to exit.
+1. Sntp를 압축 해제하고 SD 카드 또는 USB 드라이브의 `apps` 폴더에 넣습니다.
+2. Wii에 SD 카드 또는 USB 드라이브를 연결합니다.
+3. Wii에서 홈브류 채널을 실행합니다.
+4. sntp를 시작합니다.
+5. +컨트롤 패드를 사용하여 현재 시간을 선택합니다.
+6. 종료하려면 HOME 버튼을 누릅니다.
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
+[RiiConnect24로 계속하기](riiconnect24)<br> RiiConnect24를 사용하면 뉴스, 날씨, 모두의 투표, 닌텐도, Check Mii Out 채널, Wii 메일 등 WiiConnect24에서 중단된 서비스를 Wii 메일과 함께 이용할 수 있습니다. 설치는 선택 사항입니다.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[사이트 탐색 계속하기](site-navigation)<br> 여러분이 좋아할 만한 다른 자습서도 많이 있습니다.
 {: .notice--info}
 
-Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
+홈브류 브라우저 다운로드에는 홈브류 브라우저 사용 방법에 대한 가이드가 포함되어 있습니다.
 {: .notice--info}
 
-You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
+`/apps/homebrew_browser/`에서 ShopChannel.ogg를 loop.ogg로 바꾸면 홈브류 브라우저에서 Wii 샵 채널 음악을 재생할 수 있습니다.
 {: .notice--info}
