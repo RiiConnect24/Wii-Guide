@@ -4,15 +4,15 @@ title: "Nintendont"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se hai bisogno di qualsiasi informazione riguardante questo tutorial, entra nel [server discord di RiiConnect24 ](https://discord.gg/rc24)(consigliato) oppure [scrivici una mail a support@riconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 This is a quick start guide on how to use Nintendont, a popular USB loader for the Wii that's used to play games from a USB drive.
 
 #### What you need
 
-- A Wii
-- An SD card or USB drive
+- Una Wii
+- Una scheda SD o un'unità USB
 - [Nintendont](https://hbb1.oscwii.org/hbb/Nintendont/Nintendont.zip)
 
 We recommend you copy games over with [GameCube Backup Manager](https://github.com/AxionDrak/GameCube-Backup-Manager/releases) if you use Windows.
@@ -23,7 +23,7 @@ To play games, we recommend using an external hard drive for your Wii. Flash dri
 Make sure your USB drive is formatted as FAT32 or NTFS. Do not format it as other types such as exFAT, extFS, or WBFS, the latter is an old format of storing Wii games.
 {: .notice--info}
 
-#### Instructions
+#### Istruzioni
 
 ##### Downloading
 
