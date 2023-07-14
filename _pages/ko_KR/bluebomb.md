@@ -4,60 +4,60 @@ title: "BlueBomb"
 
 {% include toc title="Table of Contents" %}
 
-It is **strongly** advised against using **any** video guide for hacking your Wii mini console, as there is an extremely large chance of **bricking** it.
+Wii 미니 콘솔을 해킹하기 위해 **아무** 비디오 가이드를 사용하는 것은 **벽돌**이 될 가능성이 매우 커서 사용하지 않는 것을 **강력히** 권장합니다.
 {: .notice--warning}
 
-If you need help with anything regarding this tutorial, please join [the Wii mini Hacking Discord server](https://discord.gg/6ryxnkS) (recommended)
+튜토리얼에 관한 질문이 있다면, [Wii Mini 해킹 디스코드 서버](https://discord.gg/6ryxnkS) 에 가입해 주세요.(권장)
 {: .notice--info}
 
 ![BlueBomb](/images/bluebomb.png)
 
-BlueBomb is an exploit that takes advantage of a flaw in the Wii and Wii mini's Bluetooth libraries. Although it is the only exploit that works for the Wii mini, BlueBomb can run on the original Wii as well. This exploit also enables recovery from certain bricks, such as a banner brick.
+BlueBomb은 Wii 및 Wii 미니의 블루투스 라이브러리의 결함을 이용하는 취약점 공격입니다. 이 취약점 공격은 Wii 미니에서 작동하는 유일한 취약점 공격이지만, BlueBomb은 오리지널 Wii에서도 실행할 수 있습니다. 이 취약점 공격을 통해 배너 벽돌과 같은 특정 벽돌을 복구할 수도 있습니다.
 
-For the original Wii, we do not recommend using BlueBomb if you intend to install the Homebrew Channel and BootMii, as there are more convenient exploits available.
+오리지널 Wii의 경우, 더 편리한 취약점 공격이 있으므로 홈브류 채널과 BootMii를 설치하려는 경우 BlueBomb을 사용하지 않는 것이 좋습니다.
 {: .notice--info}
 
-#### Section I - What you need
-- A Linux machine
-  - A Virtual Machine may work, but it is not recommended due to its complexity in getting Bluetooth passthrough working. If possible, please use a LiveUSB as described below.
-  - If you have a Raspberry Pi, you can use that instead as it most likely has Linux installed already.
-  - Windows Subsystem for Linux or a Chromebook running Linux mode will *not work* as they don't have direct access to the Bluetooth adapter or USB ports.
-  - If you do not have Linux, [Ubuntu](https://ubuntu.com/download/desktop) is the most user-friendly option and can be ran on computers running Windows or Mac.
-    - 32-bit devices will require [Ubuntu 16.04](http://releases.ubuntu.com/16.04/).
-    - For 64-bit devices it is recommended to use the LTS edition due to its stability, but the latest release works as well.
-  - You can [flash a Linux Live environment to a USB flash drive](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) instead of installing it to your computer.
-- A Bluetooth adapter.
-  - An internal Bluetooth adapter will work.
-  - If you do not have one, make sure to get one compatible with Linux.
-- A USB flash drive formatted as FAT32.
-  - This cannot be the same flash drive used for your Linux Machine.
+#### 섹션 I - 필요한 것
+- 리눅스 기기
+  - 가상 머신을 사용할 수도 있지만 블루투스 패스스루를 작동시키는 데 복잡하므로 권장하지 않습니다. 가능하면 아래 설명된 대로 LiveUSB를 사용하세요.
+  - 라즈베리 파이가 있다면 이미 리눅스가 설치되어 있을 가능성이 높으므로 이를 대신 사용할 수 있습니다.
+  - 리눅스용 윈도우즈 하위 시스템 또는 리눅스 모드를 실행하는 크롬북은 블루투스 어댑터 또는 USB 포트에 직접 접속할 수 없으므로 *작동하지 않습니다.*
+  - 리눅스가 없는 경우, [우분투](https://ubuntu.com/download/desktop)가 가장 사용자 친화적인 옵션이며 윈도우즈 또는 맥을 실행하는 컴퓨터에서 실행할 수 있습니다.
+    - 32비트 장치에는 [우분투 16.04](http://releases.ubuntu.com/16.04/)가 필요합니다.
+    - 64비트 장치의 경우 안정성을 위해 LTS 버전을 사용하는 것이 좋지만 최신 릴리스도 작동합니다.
+  - 컴퓨터에 설치하는 대신 [리눅스 라이브 환경을 USB 플래시 드라이브로 플래시](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#1-overview) 할 수 있습니다.
+- 블루투스 어댑터
+  - 내장 블루투스 어댑터도 작동합니다.
+  - 만약 없다면, 리눅스와 호환되는 것으로 구매하세요.
+- FAT32로 포맷된 USB 플래시 드라이브
+  - 리눅스 기기에 사용되는 플래시 드라이브와는 달라야 합니다.
 
-#### Section II - Performing the exploit
-1. Download the HackMii installer from [the BootMii website](https://bootmii.org/download/).
-- (If attempting to fix a brick, you should also copy the homebrew app you wish to use to /apps/)
-1. Extract it and place the `boot.elf` file in your flash drive.
-- (Even for a Wii mini, bootmini.elf will **not** work, its purpose is entirely different and unrelated. Use boot.elf in all cases). 1. Connect the flash drive to the console. For a Wii mini, the USB port is on the back. For a normal Wii, use the bottom port. (or the right port if it's upright). 1. Turn on your console and navigate to the settings menu. On the top right corner you will see a 4-character code like the one in the picture below. This code is your Wii Menu version, take a note of this as you will need it later. Afterwards, turn your console off. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
-1. Start your Linux distro, and ensure you are connected to the internet.
-1. Open the Terminal
-1. Run the following commands:
+#### 섹션 II - 취약점 실행하기
+1. [BootMii 웹사이트](https://bootmii.org/download/)에서 HackMii 설치 마법사를 다운로드합니다.
+- (벽돌을 고치려 한다면, /apps/에서 사용할 홈브루 앱도 복사해야 합니다)
+1. 압축을 해제하고 플래시 드라이브에 `boot.elf`를 넣으세요.
+- (Wii 미니의 경우에도 bootmini.elf는 작동하지 **않으며**, 그 목적은 완전히 다르고 관련이 없습니다. 모든 경우에 boot.elf 사용). 1. 플래시 드라이브를 콘솔에 연결합니다. Wii 미니의 경우 USB 포트는 뒷면에 있습니다. 일반 Wii의 경우 하단 포트를 사용합니다. (또는 똑바로 세워진 경우 오른쪽 포트). 1. 콘솔을 켜고 설정 메뉴로 이동합니다. 오른쪽 상단 모서리에 아래 그림과 같은 4 자 코드가 표시됩니다. 이 코드는 Wii 메뉴 버전이므로 나중에 필요하므로 이 코드를 메모합니다. 그런 다음 콘솔을 끕니다. ![SystemMenuVersion](/images/Wii/SystemMenuVersion.png)
+1. 리눅스 배포판을 켜고, 인터넷 연결을 확인하세요.
+1. 콘솔을 켜고 어떤 리모컨도 연결하지 **마세요**.
+1. 아래의 명령어를 입력하세요:
 ```bash
 wget https://wii.guide/assets/files/bluebomb-helper.sh
 chmod +x bluebomb-helper.sh
 ./bluebomb-helper.sh
 ```
-1. The helper will then download the required files, and ask for information about your console.
-  - If you have selected a Wii mini you will be asked to provide your region. This can be determined by the last letter of the Wii Menu version (`U` for **USA** and `E` for **PAL** models).
-  - If you have selected a Wii you will be asked to provide your Wii Menu Version (What you determined in step 4)
-1. Turn on your console and **do not** connect any Wii Remotes.
-1. Press the Sync button repeatedly until the terminal shows `got connection handle`. This could take numerous attempts, so don't give up.
+1. 그 다음 도우미는 필요한 파일을 받고 콘솔의 정보에 관해 물을겁니다.
+  - Wii 미니를 선택했다면, 지역을 물어볼 겁니다. Wii 메뉴 버전으로 판단이 가능합니다. (`U`는 **USA** 이며 `E`는 **PAL** 모델입니다).
+  - Wii를 선택했다면 Wii 메뉴 버전을 선택하라고 물어볼 겁니다 (4단계에서 선택한 것)
+1. 콘솔을 켜고 어떤 리모컨도 연결하지 **마세요**.
+1. 터미널에서 `got connection handle`이 나타날 때 까지 SYNC 버튼을 계속 누르세요. 여러 시도가 필요할 수 있으니, 포기하지 마세요.
 
-Make sure that the console is close to the computer running the exploit, ideally it should be less than 3 feet.
+콘솔이 취약점 공격을 실행하는 컴퓨터와 가까운지 확인하고, 이상적으로는 약 1미터 이내여야 합니다.
 {: .notice--info}
 
-The console should now boot to the HackMii installer. You can now shut down your Linux computer if you are not planning to use it later.
+이제 콘솔이 HackMii 인스톨러로 부팅됩니다. 이제 나중에 사용할 계획이 없는 경우 리눅스 컴퓨터를 종료할 수 있습니다.
 
-[If using a Wii, proceed to installing the Homebrew Channel and BootMii](hbc)
+[Wii를 사용하는 경우, 홈브류 채널 및 BootMii 설치를 진행합니다.](hbc)
 {: .notice--info}
 
-[If using a Wii mini, proceed to installing the Homebrew Channel](hbc-mini)
+[Wii 미니를 사용하는 경우, 홈브류 채널 설치를 진행합니다.](hbc-mini)
 {: .notice--info}
