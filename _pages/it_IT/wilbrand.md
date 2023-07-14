@@ -2,7 +2,7 @@
 title: "Wilbrand"
 ---
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se hai bisogno di qualsiasi informazione riguardante questo tutorial, entra nel [server discord di RiiConnect24 ](https://discord.gg/rc24)(consigliato) oppure [scrivici una mail a support@riconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![Wilbrand](/images/wilbrand/icon.png)
@@ -20,7 +20,7 @@ Unlike LetterBomb, Wilbrand supports Wii menu versions down to 3.0.
 - [Wilbrand](https://static.wiidatabase.de/Wilbrand.zip)
 - [HackMii Installer v1.2](https://bootmii.org/download/)
 
-#### Instructions
+#### Istruzioni
 
 1.  On your Wii, go to `Wii Settings`, and make note of the version at the top right. Proceed to `Internet` -> `Console Information` and also make note of your MAC address.
 1.  Extract the Wilbrand zip to a folder on your PC, preferably on your desktop.
