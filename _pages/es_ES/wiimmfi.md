@@ -65,7 +65,7 @@ MrBean35000vr, creador de CTGP-R (un paquete de contenido para Mario Kart Wii), 
 
 ### Sin Homebrew (Disco)
 
-##### str2hax Method
+#### str2hax Method
 
 Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
 
@@ -83,11 +83,11 @@ Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for th
 6. Wait for about 1 minute and 30 seconds for the patcher to load
 7. The game should now start with the Wiimmfi patch included
 
-### DNS Method
+#### DNS Method
 
-There's an easy method to patch games to use Wiimmfi that can be used whether or not you have homebrew on your Wii. It works on some games, such as Mario Kart Wii and Super Smash Bros. Brawl, but not every game.
+There's an easy method to patch games to use Wiimmfi that can be used whether or not you have homebrew on your Wii. It works on some older games, such as Mario Kart Wii and Super Smash Bros. Brawl, but not every game.
 
-#### Instrucciones
+##### Instrucciones
 
 1. Selecciona `Opciones de Wii` en el menú de Wii.
 2. Selecciona `Configuración de Wii`.
@@ -96,13 +96,16 @@ There's an easy method to patch games to use Wiimmfi that can be used whether or
 5. Selecciona tu conexión actual.
 6. Selecciona `Modificar`.
 7. Pasa hasta la cuarta página, donde está la opción `Obtener DNS automáticamente` (no es en Obtener drección IP automáticamente), elige `No` y después selecciona `Configuración avanzada`.
-8. Type in `167.86.108.126` as the primary DNS.
+8. Type in `95.217.77.181` as the primary DNS.
 9. Type in `1.1.1.1` as the secondary DNS.
 10. Selecciona `Confirmar` y después elige `Guardar`.
 11. Selecciona `Aceptar` para realizar una prueba de conexión.
 12. Si la prueba de conexión ha sido exitosa, elige `No` para saltar la actualización de la consola Wii.
 
-If you get error 107304, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
+If you get error 20100 or 20110, that means the game is too new for this method.
+{: .notice--warning}
+
+If you get error 23400, that means your ISP (Internet Service Provider) or network is blocking the use of a custom DNS. <br> Wiimmfi has a DNS sever you can run on your PC to solve this. [Read more here.](https://wiimmfi.de/patcher/dnspatch#customdns)
 {: .notice--warning}
 
 ### Automatic patching using a USB Loader
