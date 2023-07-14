@@ -21,7 +21,7 @@ Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your
 #### Você precisará de
 
 - Um cartão SD ou armazenamento USB
-- [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+- [Priiloader installer](https://github.com/DacoTaco/priiloader/releases/download/0.9.1/Priiloader_v0_9_1.zip)
 
 #### Instruções
 
