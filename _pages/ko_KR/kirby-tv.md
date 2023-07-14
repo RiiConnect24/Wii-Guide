@@ -1,51 +1,51 @@
 ---
-title: "Kirby TV Channel"
+title: "커비 TV 채널"
 ---
 
 {% include toc title="Table of Contents" %}
 
-The Kirby TV Channel is controlled and operated by Striim Network, not RiiConnect24. Join their Discord server [here](https://discord.gg/seCnzxnE75).
+커비 TV 채널은 RiiConnect24가 아닌 Striim Network에서 관리 및 운영합니다. 디스코드 서버 [여기](https://discord.gg/seCnzxnE75)에 가입하세요.
 {: .notice--warning}
 
-<b>The Kirby TV channel is not available right now. Sorry.</b>
+<b>커비 TV 채널은 현재 사용할 수 없습니다. 죄송합니다.</b>
 {: .notice--warning}
 
-Striim Network is a service dedicated to bringing back the channels that support video playback, such as Kirby TV Channel and YouTube.
+Striim 네트워크는 커비 TV 채널, 유튜브 등 동영상 재생을 지원하는 채널을 다시 불러오는 전용 서비스입니다.
 
-#### What you need
+#### 필요한 것
 
-* An SD card or USB drive
-* A Wii with an Internet connection
-* A Windows or Unix based computer
-* [Kirby TV Channel Patcher](https://github.com/StriimNetwork/Kirby-TV-Channel-Patcher/releases)
+* SD 카드 및 USB 드라이브
+* 인터넷 연결이 있는 Wii
+* 윈도우즈 및 유닉스 기반 컴퓨터
+* [커비 TV 채널 패치 관리자](https://github.com/StriimNetwork/Kirby-TV-Channel-Patcher/releases)
 
-#### Instructions
+#### 사용 방법
 
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+[WAD를 설치하는 방법에 대한 자세한 지침을 보려면 여기를 클릭하세요!](wiimodlite)
 {: .notice--info}
 
-1. Download the executable for your architecture and OS.
-2. Launch the executable then press `1` twice to start the patching process.
-3. When finished, the WAD will be in the `WAD` folder which is located in the same directory as the executable.
-4. Move the `WAD` folder to the root of your SD Card.
-5. Put your SD card or USB drive in your Wii.
-6. Launch the Homebrew Channel on your Wii.
-7. Launch Wii Mod Lite.
-8. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
-9. Highlight the WAD named `Kirby-TV-Channel-Patched(Striim).wad`, then press the `A` button to install.
-10. When the WAD successfully installs, return to the Wii Menu and launch the channel.
+1. 사용 중인 아키텍처 및 OS에 맞는 실행 파일을 다운로드합니다.
+2. 실행 파일을 실행한 다음 `1` 키를 두 번 눌러 패치 프로세스를 시작합니다.
+3. 완료되면 WAD는 실행 파일과 동일한 디렉터리에 있는 `WAD` 폴더에 저장됩니다.
+4. `WAD` 폴더를 SD 카드의 루트로 이동합니다.
+5. Wii에 SD 카드나 USB 드라이브를 연결합니다.
+6. Wii에서 홈브류 채널을 실행합니다.
+7. Wii Mod Lite를 실행합니다.
+8. Wii 리모컨의 +컨트롤 패드를 사용하여 `WAD Manager`로 이동한 다음 `wad` 폴더로 이동합니다.
+9. `Kirby-TV-Channel-Patched(Striim).wad` 이름의 WAD를 강조 표시한 다음 `A` 버튼을 눌러 설치합니
+10. WAD가 성공적으로 설치되면 Wii 메뉴로 돌아가서 채널을 실행합니다.
 
 
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
+[RiiConnect24로 계속하기](riiconnect24)<br> RiiConnect24를 사용하면 뉴스, 날씨, 모두의 투표, 닌텐도, Check Mii Out 채널, Wii 메일 등 WiiConnect24에서 중단된 서비스를 Wii 메일과 함께 이용할 수 있습니다. 설치는 선택 사항입니다.
 {: .notice--info}
 
-[Continue to WiiLink](wiilink)<br> WiiLink allows you to use the discontinued Japanese channels, such as Wii no Ma and the Digicam Print Channel. This is optional to install.
+[WiiLink로 계속하기](wiilink)<br> WiiLink를 사용하면 Wii 노 마나 디지캠 프린트 채널과 같이 단종된 일본 채널을 사용할 수 있습니다. 설치는 선택 사항입니다.
 {: .notice--info}
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+[Wiimmfi로 계속하기](wiimmfi)<br> Wiimmfi를 사용하면 닌텐도 Wi-Fi 연결이 중단된 후에도 온라인으로 게임을 플레이할 수 있습니다. 설치는 선택 사항입니다.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[사이트 탐색 계속하기](site-navigation)<br> 여러분이 좋아할 만한 다른 자습서도 많이 있습니다.
 {: .notice--info}
 
