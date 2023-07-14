@@ -4,7 +4,7 @@ title: "RiiConnect24 Clear Tool"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se hai bisogno di qualsiasi informazione riguardante questo tutorial, entra nel [server discord di RiiConnect24 ](https://discord.gg/rc24)(consigliato) oppure [scrivici una mail a support@riconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
@@ -21,12 +21,12 @@ RiiConnect24 Clear Tool is a homebrew application that can fix these specific er
 
 #### What you need
 
-- An SD card or USB drive
+- Una scheda SD o un'unità USB
 - [RiiConnect24 Clear Tool](https://oscwii.org/library/app/RC24-Clear-Tool)
 - [WiiXplorer](https://oscwii.org/library/app/wiixplorer-ss)
 - [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
 
-#### Instructions
+#### Istruzioni
 
 #### Section I - Backing up Wii Message Board Data (Optional)
 
