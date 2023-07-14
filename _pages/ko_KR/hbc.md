@@ -1,53 +1,53 @@
 ---
-title: "Homebrew Channel and BootMii Installation"
+title: "홈브류 채널과 BootMii 설치"
 ---
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+이 자습서와 관련하여 도움이 필요하면 [RiiConnect24 Discord 서버](https://discord.gg/rc24) (추천) 에 가입하거나, [support@riiconnect24.net](mailto:support@riiconnect24.net)로 이메일을 보내주세요.
 {: .notice--info}
 
-![HBC Logo](/images/hbc.png)
+![홈브류 채널 로고](/images/hbc.png)
 
-The Homebrew Channel is where you will go to launch homebrew applications. BootMii is a piece of software that can backup and restore your Wii's NAND storage, and if installed in boot2, provides brick protection.
+홈브류 채널은 홈브류 응용 프로그램을 실행할 수 있는 곳입니다. BootMii는 Wii의 NAND 저장소를 백업 및 복원할 수 있는 소프트웨어로, boot2에 설치하면 벽돌 보호 기능을 제공합니다.
 
-#### Instructions
+#### 사용 방법
 
-1. You will see a scam warning screen. Wait 30 seconds for the text "Press 1 to continue" to appear, then press 1. ![Scam Screen](/images/hackmii/scam.png)
-1. You will be presented with a test results screen. Select `Continue`. ![Results](/images/hackmii/test_results.png)
+1. 스캠 경고 화면이 표시됩니다. "계속하려면 1 버튼을 누르세요"라는 텍스트가 나타날 때까지 30초간 기다린 다음 1버튼을 누릅니다. ![스캠 경고 화면](/images/hackmii/scam.png)
+1. 테스트 결과 화면이 표시됩니다. `계속`을 선택합니다. ![결과](/images/hackmii/test_results.png)
 
-If BootMii says that it `can only be installed as an IOS`, that's normal.
+BootMii가 `IOS로만 설치할 수 있음`이라고 표시하면, 정상입니다.
 {: .notice--info}
 
-1. Select `Install the Homebrew Channel`. ![Homebrew Channel installation](/images/hackmii/hbc_install.png) ![Homebrew Channel installation OK](/images/hackmii/hbc_install_ok.png)
-1. Select `Continue` when finished.
-1. Once installed, select `Back`, then select `BootMii`. ![BootMii](/images/hackmii/bootmii_install.png)
-1. Select `Install BootMii as IOS`.
+1. `홈브류 채널 설치`를 선택합니다. ![홈브류 채널 설치](/images/hackmii/hbc_install.png) ![홈브류 채널 설치 확인](/images/hackmii/hbc_install_ok.png)
+1. 완료되면 `계속`을 선택합니다.
+1. 설치가 완료되면 `뒤로 가기`를 선택한 다음 `BootMii`을 선택합니다. ![BootMii](/images/hackmii/bootmii_install.png)
+1. `IOS`로 BootMii 설치를 선택합니다.
 
-If you do not have an SD card, you cannot install nor use BootMii, and therefore will not be able to utilize any of the mentioned benefits. <br> You can always [install it at a later date](hackmii).
+SD 카드가 없는 경우 BootMii를 설치하거나 사용할 수 없으므로 언급된 혜택을 이용할 수 없습니다. <br> 언제든지 [나중에 설치할 수 있습니다](hackmii).
 {: .notice--warning}
 
-![BootMii installation](/images/hackmii/bootmii_install1.png) ![BootMii SD card prompt](/images/hackmii/bootmii_install2.png) ![BootMii SD card preparation](/images/hackmii/bootmii_install3.png) ![BootMii installation OK](/images/hackmii/bootmii_install_ok.png)
-1. Once done, select `Continue`.
-1. If you have the option to `Install BootMii as boot2`, please do so as well. This offers the best possible brick protection you can have. <br> Otherwise, skip this step.
-1. Select `Exit` to finally open the Homebrew Channel.
+![BootMii 설치](/images/hackmii/bootmii_install1.png) ![BootMii SD 카드 프롬프트](/images/hackmii/bootmii_install2.png) ![BootMii SD 카드 준비](/images/hackmii/bootmii_install3.png) ![BootMii 설치 확인](/images/hackmii/bootmii_install_ok.png)
+1. 완료되면 `계속`을 선택합니다.
+1. `BootMii를 boot2로 설치`하는 옵션이 있는 경우, 이 옵션도 선택해 주세요. 이를 통해 최상의 벽돌 보호 기능을 제공합니다. <br> 그렇지 않으면 이 단계를 건너뜁니다.
+1. `종료`를 선택하면 홈브류 채널이 최종적으로 열립니다.
 
 
-#### Required Reading
+#### 필수 읽기
 
-You can now use the Homebrew Channel to launch homebrew apps. Open Shop Channel is a one-stop shop for downloading homebrew, which you will learn how to install further in this guide.
+이제 홈브류 채널을 사용하여 홈브류 앱을 실행할 수 있습니다. 오픈샵 채널은 홈브류를 다운로드할 수 있는 원스톱 상점이며, 이 가이드에서 설치 방법을 자세히 알아볼 수 있습니다.
 
-Here's a tip - when installing homebrew applications on your SD Card or USB drive, your folder structure should look like this:
+한 가지 팁을 알려드리자면, SD 카드나 USB 드라이브에 홈브류 응용 프로그램을 설치할 때 폴더 구조는 다음과 같아야 합니다:
 
-![Proper SD Card Folder Structure](images/Wii/FolderStructure.png)
+![적절한 SD 카드 폴더 구조](images/Wii/FolderStructure.png)
 
-`AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
+`AppName1` 및 `AppName2`는 자리 표시자 이름입니다. `apps` 폴더 자체 안에 여러 `apps` 폴더를 중첩하지 않습니다.
 
-[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
+[BootMii를 사용하여 NAND 백업 계속 만들기](bootmii)<br> 이 시점에서 BootMii로 NAND 백업을 만드는 것을 적극 권장합니다.
 {: .notice--info}
 
-If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
+BootMii를 설치할 수 없다면 [Priiloader 설치](priiloader)를 계속 진행합니다.
 {: .notice--info}
 
-Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
+팁: 디스크 드라이브가 매우 짧게 깜박이고 전원 버튼을 눌렀을 때 즉시 깜박이면 Wii에 BootMii가 boot2로 설치되어 있는지 알 수 있습니다.
 {: .notice--info}
