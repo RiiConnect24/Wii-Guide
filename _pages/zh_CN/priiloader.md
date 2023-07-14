@@ -21,7 +21,7 @@ Priiloader 为 Wii 添加了一定程度的变砖保护。 它在 Wii 菜单之�
 #### 你需要的是
 
 - 一张SD卡或U盘
-- [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+- [Priiloader installer](https://github.com/DacoTaco/priiloader/releases/download/0.9.1/Priiloader_v0_9_1.zip)
 
 #### 步骤
 
