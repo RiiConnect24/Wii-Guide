@@ -65,7 +65,7 @@ MrBean35000vr (마리오 카트 Wii 콘텐츠 팩인 CTGP-R 제작자) 은 Wiimm
 
 ### 홈브류 없음 (디스크)
 
-##### str2hax 방법
+#### str2hax Method
 
 Leseratte가 Wiimmfi 패치 관리자에 맞게 개조한 Fullmetal5의 str2hax 취약점 공격 덕분에 Wii에 자체 개발 프로그램이 없어도 Wiimmfi 패치를 실행할 수 있게 되었습니다.
 
@@ -83,11 +83,11 @@ Leseratte가 Wiimmfi 패치 관리자에 맞게 개조한 Fullmetal5의 str2hax 
 6. 패치 관리자가 로드될 때까지 약 1분 30초간 기다립니다.
 7. 이제 Wiimmfi 패치가 포함된 상태로 게임이 시작됩니다.
 
-### DNS 방법
+#### DNS Method
 
-Wii에 홈브류가 있는지 여부와 상관없이 Wiimfi를 사용하도록 게임을 패치하는 쉬운 방법이 있습니다. 마리오 카트 Wii 및 슈퍼 스매시 브라더스, 대난투 스매시브라더스X과 같은 일부 게임에서 작동하지만 모든 게임에서 작동하는 것은 아닙니다.
+Wii에 홈브류가 있는지 여부와 상관없이 Wiimfi를 사용하도록 게임을 패치하는 쉬운 방법이 있습니다. It works on some older games, such as Mario Kart Wii and Super Smash Bros. Brawl, but not every game.
 
-#### 사용 방법
+##### 사용 방법
 
 1. `Wii 옵션`으로 이동합니다.
 2. `Wii 본체 설정`으로 이동합니다.
@@ -96,22 +96,25 @@ Wii에 홈브류가 있는지 여부와 상관없이 Wiimfi를 사용하도록 �
 5. 현재 연결을 선택합니다.
 6. `설정 변경`으로 이동합니다.
 7. `DNS 자동 연결` (IP 주소가 아님) 으로 이동해서 `끄기`를 선택하고, `고급 설정`으로 들어갑니다.
-8. `167.86.108.126`을 기본 DNS로 입력합니다.
+8. Type in `95.217.77.181` as the primary DNS.
 9. `1.1.1.1`을 보조 DNS로 입력합니다.
 10. `확인`을 선택하고, `저장`을 선택합니다.
 11. `확인`를 눌러 연결 테스트를 합니다.
 12. 연결 테스트가 성공했다면, Wii 업데이트를 `아니요`를 눌러 건너뜁니다.
 
-오류 107304가 발생하면 ISP (인터넷 서비스 제공업체) 또는 네트워크에서 DNS 사용을 차단하고 있다는 뜻입니다. 이 문제를 해결하려면 `자동 DNS 가져오기`를 `켜기`로 설정하면 됩니다. RiiConnect24는 이 기능이 없어도 계속 작동합니다. 또는 [DNS-서버](https://github.com/RiiConnect24/DNS-Server/releases/latest) 프로그램을 사용할 수 있습니다.
+If you get error 20100 or 20110, that means the game is too new for this method.
 {: .notice--warning}
 
-### USB 로더를 사용한 자동 패치 적용
+If you get error 23400, that means your ISP (Internet Service Provider) or network is blocking the use of a custom DNS. <br> Wiimmfi has a DNS sever you can run on your PC to solve this. [Read more here.](https://wiimmfi.de/patcher/dnspatch#customdns)
+{: .notice--warning}
 
-이미 USB Loader GX를 사용 중이라면 최신 버전으로 업데이트합니다. 그런 다음 "개인 서버" 설정 (글로벌 로더 옵션과 게임 옵션 모두에 있음) 이 있어야 하며, 이 설정을 "Wiimmfi"로 설정하여 Wiimmfi로 작업하기 시작하는 모든 게임에 USB 로더가 자동으로 패치를 적용하도록 할 수 있습니다.
+### Automatic patching using a USB Loader
 
-### ISO 패치
+If you are already using USB Loader GX, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
 
-Wiimmfi에서 플레이할 때마다 패치 관리자를 실행하고 싶지 않을 수도 있고, 이미 USB 로더를 사용하고 있을 수도 있습니다. 따라서 특정 게임을 위한 ISO 패치 관리자가 만들어졌습니다.
+### ISO Patching
+
+You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
 
 #### 필요한 것
 
@@ -127,9 +130,9 @@ Wiimmfi에서 플레이할 때마다 패치 관리자를 실행하고 싶지 않
 2. 사용 중인 OS에 맞는 패치 스크립트를 실행합니다. 일반적으로 윈도우즈의 경우 `.bat`으로, 맥/리눅스의 경우 `.sh`으로 끝납니다. RiiConnect24 패처를 사용하는 경우, 장치 (Wii, vWii 또는 Dolphin)를 선택하고 게임용 패치 관리자를 선택하세요.
 3. 완료되면 `wiimmfi-images` 폴더 (패치 관리자 외부의 폴더인 ../wiimmfi-images에 있을 수 있음) 에서 버전을 꺼내 USB에 다시 복사합니다.
 
-### WiiWare 패치
+### WiiWare Patching
 
-WiiWare 게임을 Wiimmfi에서 플레이하기 위해 패치를 적용할 수 있습니다.
+You can patch WiiWare games in order to play them on Wiimmfi.
 
 #### 필요한 것
 
@@ -140,10 +143,10 @@ WiiWare 게임을 Wiimmfi에서 플레이하기 위해 패치를 적용할 수 �
 - [WiiWare 패치 관리자](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (크로스 플랫폼)
 - [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
-[WiiWare 패치 관리자 사용법을 확인하려면 여기를 클릭하세요!](wiiwarepatcher)
+[If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
 {: .notice--info}
 
-순서:
+Steps:
 
 1. 최신 버전의 WiiWare 패치 관리자의 .zip 파일을 압축 해제하고 WAD를 그 안에 넣습니다.
 2. 사용 중인 OS에 맞는 패치 스크립트를 실행합니다. 일반적으로 윈도우즈의 경우 `.bat`으로, 맥/리눅스의 경우 `.sh`으로 끝납니다. RiiConnect24 패치 관리자를 사용하는 경우, 장치 (Wii, vWii 또는 Dolphin) 를 선택하고 WiiWare 패치 관리자를 선택합니다.
@@ -151,9 +154,9 @@ WiiWare 게임을 Wiimmfi에서 플레이하기 위해 패치를 적용할 수 �
 
 ## 기타 정보
 
-### 마리오 카트 Wii 대회
+### Mario Kart Wii Competitions
 
-Wiimmfi를 사용하면 마리오 카트 Wii 대회에 다시 참가할 수 있습니다.
+Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
 #### 필요한 것
 
@@ -162,7 +165,7 @@ Wiimmfi를 사용하면 마리오 카트 Wii 대회에 다시 참가할 수 있�
   - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
   - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
-#### 사용 방법 (Wii용)
+#### Instructions (for Wii)
 
 1. 마리오 카트 Wii 대회 패치 관리자를 압축 해제하고 SD 카드의 apps 폴더에 넣습니다.
 2. Wii에 SD 카드 또는 USB 드라이브를 연결합니다.
@@ -171,21 +174,21 @@ Wiimmfi를 사용하면 마리오 카트 Wii 대회에 다시 참가할 수 있�
 5. 마리오 카트 Wii 대회 패치 관리자를 실행합니다.
 6. 패치 관리자는 저장 장치에서 다양한 위치의 마리오 카트 Wii용 저장 파일을 찾아서 업로드합니다. 이는 저장 파일에서 누락된 대회가 발견될 경우를 대비하여 수행됩니다. 물론 대회를 위해 Wii를 패치할 수도 있습니다.
 
-Wii U를 사용하는 경우, Wii U에서는 WiiConnect24가 활성화되어 있지 않으므로 대회를 확인하려면 매번 대회 패치 관리자를 실행해야 합니다.
+If you're using the Wii U, you will have to run the competitions patcher whenever you want to check for a competition, because WiiConnect24 is not enabled on the Wii U.
 {: .notice--info}
 
-### DS 게임
+### DS Games
 
-Wiimmfi는 Wii 게임만 지원하는 것이 아니라 다양한 DS 게임도 지원합니다. nds-constraint라는 취약점 공격 덕분에 게임을 패치하지 않고도 온라인으로 DS 게임을 플레이할 수 있습니다.
+Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks to an exploit called nds-constraint, you can play DS games online without patching your games.
 
 #### 필요한 것
 
 - WEP 또는 보안이 없는 Wi-Fi 네트워크
 
-DS 게임은 최신 Wi-Fi 보안 유형을 지원하지 않기 때문에 WEP 또는 보안이 없는 Wi-Fi 네트워크에 접속하는 것이 가장 어렵습니다. 하지만 많은 라우터가 게스트 Wi-Fi 연결을 지원하거나 휴대폰이나 컴퓨터에서 핫스팟을 만들 수 있습니다. 인터넷에는 이에 대한 정보를 제공하는 많은 자료가 있으므로 자주 사용하는 검색 엔진을 사용하여 찾아보세요.
+Getting a Wi-Fi network with WEP or no security is the hardest part, because DS games don't support newer Wi-Fi security types. However, many routers support creating a guest Wi-Fi connection, or you can make a hotspot on your phone or your computer. There are plenty of resources on the Internet that have information on this, so use your favorite search engine to find them.
 {: .notice--info}
 
-일부 게임은 DSi를 지원하므로 DSi 또는 3DS가 있는 경우 라우터에 WEP만 있거나 보안이 없는 상태에서도 온라인 게임을 플레이할 수 있습니다. 포켓몬 블랙과 포켓몬 화이트는 DSi가 강화되었습니다. 이를 사용하려면 DSi 또는 3DS Wi-Fi 설정을 통해 아래 지침을 따르세요. 이는 DS Wi-Fi 설정과는 별개입니다.
+Some games are DSi enhanced which means you can play games online without having only WEP or no security on your router if you have a DSi or 3DS. Pokémon Black and Pokémon White are DSi enhanced. In order to make use of it, follow the instructions below via the DSi or 3DS Wi-Fi settings. Those are separate from the DS Wi-Fi settings.
 {: .notice--info}
 
 #### 사용 방법
@@ -196,31 +199,31 @@ DS 게임은 최신 Wi-Fi 보안 유형을 지원하지 않기 때문에 WEP 또
 4. `1.1.1.1`를 보조 DNS로 입력합니다.
 5. 연결 설정을 저장하고 연결 테스트를 수행합니다. 성공하면 플레이할 준비가 된 것입니다.
 
-오류 2010이 발생하면 ISP (인터넷 서비스 제공업체) 또는 네트워크에서 DNS 사용을 차단하고 있다는 뜻입니다. 이 문제를 해결하려면 `자동 DNS 가져오기`를 `켜기`로 설정하면 됩니다. RiiConnect24는 이 기능이 없어도 계속 작동합니다. 또는 [DNS-서버](https://github.com/RiiConnect24/DNS-Server/releases/latest) 프로그램을 사용할 수 있습니다.
+If you get error 20110, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. 이 문제를 해결하려면 `자동 DNS 가져오기`를 `켜기`로 설정하면 됩니다. RiiConnect24는 이 기능이 없어도 계속 작동합니다. 또는 [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) 프로그램을 사용할 수 있습니다.
 {: .notice--warning}
 
-이 DNS를 사용 중이라면 DSi에서 Flipnote Studio를 되살리는 Sudomemo를 사용할 수 없습니다. Wiimfi에서 게임을 플레이하는 대신 Sudomemo를 사용하려면 DS Wi-Fi 설정이 아닌 DSi 또는 3DS의 Wi-Fi 설정에서 기본 DNS를 `104.248.0.110`으로 설정해야 합니다. 또는 [DNS-서버](https://github.com/Sudomemo/sudomemoDNS) 프로그램을 사용할 수 있습니다.
+You cannot use Sudomemo, which revives Flipnote Studio on the DSi, if you're using this DNS. If you want to use Sudomemo instead of playing games on Wiimmfi, you will have to set your primary DNS to `104.248.0.110` on Wi-Fi settings on your DSi or 3DS, not the DS Wi-Fi settings. Or you can use their [DNS-Server](https://github.com/Sudomemo/sudomemoDNS) program.
 {: .notice--warning}
 
-### 마리오 카트 Wii Mods
+### Mario Kart Wii Mods
 
 #### CTGP-R
 
-MrBean35000vr과 Chadderz는 커스텀 트랙 세트를 사용할 수 있고 자동 Wiimmfi 패치가 가능한 CTGP-R이라는 커스텀 트랙 배포판이 만듭니다. 다운로드 및 지침은 [ChadSoft 웹사이트](http://chadsoft.co.uk)로 이동하세요.
+MrBean35000vr and Chadderz have a custom track distribution called CTGP-R that allows you to use a set of custom tracks and has automatic Wiimmfi patching. Go to the [ChadSoft website](http://chadsoft.co.uk) for the download and instructions.
 
-#### MKW 해킹 팩
+#### MKW Hack Pack
 
-PhillyG는 MKW 해킹 팩이라는 커스텀 트랙과 핵 모음을 모아 Wiimmfi에 연결할 수 있도록 했습니다. 설정 방법을 알아보려면 [위키 페이지](http://wiki.tockdom.com/wiki/MKW_Hack_Pack)로 이동하세요.
+PhillyG has put together a collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. To learn how to set it up, go to the [wiki page](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
 
-#### Wiimms 마리오 카트 펀
+#### Wiimms Mario Kart Fun
 
-Wiimm과 Leseratte는 1년에 세 번 정도 업데이트되는 "Wiimms MKW Fun"이라는 커스텀 트랙 배포판을 만듭니다. Leseratte의 LE-CODE 프레임워크를 기반으로 하며, Wiimmfi 지원 및 기타 다양한 기능을 제공합니다. 자세한 내용은 [위키 페이지](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun)에서 확인할 수 있습니다.
+Wiimm and Leseratte make a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte, has Wiimmfi support, and lots of other features. You can find out more about it on its [wiki page](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
 
-[RiiConnect24로 계속하기](riiconnect24)<br> 뉴스, 날씨, 모두 투표, 닌텐도, Check Mii Out 채널, Wii 메일 등 WiiConnect24에서 중단된 서비스를 이용할 수 있습니다. 설치는 선택 사항입니다.
+[RiiConnect24로 계속하기](riiconnect24)<br> RiiConnect24를 사용하면 뉴스, 날씨, 모두의 투표, 닌텐도, Check Mii Out 채널, Wii 메일 등 WiiConnect24에서 중단된 서비스를 Wii 메일과 함께 이용할 수 있습니다. 설치는 선택 사항입니다.
 {: .notice--info}
 
-[WiiLink로 계속하기](wiilink)<br> WiiLink를 사용하면 Wii의 마 및 디지캠 프린트 채널로 알려진 일본 전용 채널을 사용할 수 있습니다. 설치는 선택 사항입니다.
+[WiiLink로 계속하기](wiilink)<br> WiiLink를 사용하면 일본 전용 채널인 Wii 노 마 및 디지캠 프린트 채널을 사용할 수 있습니다. 설치는 선택 사항입니다.
 {: .notice--info}
 
-[사이트 탐색 계속하기](site-navigation)<br> 여러분이 좋아할 만한 다른 자습서도 많이 준비되어 있습니다.
+[사이트 탐색 계속하기](site-navigation)<br> 여러분이 좋아할 만한 다른 자습서도 많이 있습니다.
 {: .notice--info}
