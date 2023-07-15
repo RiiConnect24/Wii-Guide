@@ -19,7 +19,9 @@ title: "Wii 모딩 시 해야 할 일과 하지 말아야 할 일"
 - 무엇을 하는지 모르는 경우 Wii NAND에서 임의의 파일을 **수정, 이름 변경 또는 삭제하지 마세요**.
 - 한국어가 아닌 Wii에서 홈브류 앱 "KoreanKii"를 **사용하지 마세요**.
 - Wii 미니에 [d2xl cIOS](cios-mini) 이외의 IOS 또는 Wii 메뉴를 **설치하지 마세요**. Wi-Fi 카드가 납땜되지 않은 경우 콘솔이 파손될 수 있습니다.
-- [Wiimmfi](wiimmfi)를 제외한 어떤 닌텐도 Wi-Fi 연결 대체품도 Wii에서 **사용하지 마세요**. **Wiimmfi를 제외한 어떤 닌텐도 Wi-Fi 연결 대체품도 Wii에서 사용하지 마세요. [RiiConnect24](riiconnect24)도 안전하게 사용할 수 있습니다.</li> </ul>
+- **DO NOT** use any Nintendo Wi-Fi Connection replacement on your Wii except for [Wiimmfi](wiimmfi) unless you have an RCE patch code. **Wiimmfi를 제외한 어떤 닌텐도 Wi-Fi 연결 대체품도 Wii에서 사용하지 마세요. An RCE patch code will patch the exploit. [RiiConnect24](riiconnect24) and [WiiLink](wiilink) are safe to use as well.</li>
+- **DO NOT** restore NANDs from other Wiis to your console via BootMii.
+- **DO NOT** use the homebrew app "Pimp my Wii". The tool is dangerous and does things that can make your Wii unstable. The features of Pimp my Wii are available on other safer apps.</ul>
 
 이 가이드라인을 준수하면 Wii가 벽돌 될 걱정은 하지 않아도 됩니다. Wii 모딩은 안전하며, 벽돌은 일반적으로 이 목록에 있는 사용자가 수행한 작업으로 인해 발생합니다.
 
