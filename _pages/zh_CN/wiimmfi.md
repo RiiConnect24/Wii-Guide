@@ -65,7 +65,7 @@ MrBean35000vr（CTGP-R 的作者，马里奥赛车 Wii 的自定义纹理包）�
 
 ### 无自制软件（光盘）
 
-#### str2hax Method
+#### str2hax 方法
 
 感谢 Fullmetal5 的 str2hax 漏洞，Leseratte 能够将其适配到 Wiimmfi patcher 中，因此您无需任何自制软件即可在 Wii 上运行 Wiimmfi 补丁。
 
@@ -83,9 +83,9 @@ MrBean35000vr（CTGP-R 的作者，马里奥赛车 Wii 的自定义纹理包）�
 6. 请等待大约 1 分钟 30 秒以加载 patcher
 7. 现在，游戏应该在包含 Wiimmfi 补丁的情况下启动。
 
-#### DNS Method
+#### DNS 方法
 
-有一种简单的方法可以为游戏应用 Wiimmfi 补丁，无论您的 Wii 上是否有自制软件都可以使用。 It works on some older games, such as Mario Kart Wii and Super Smash Bros. Brawl, but not every game.
+有一种简单的方法可以为游戏应用 Wiimmfi 补丁，无论您的 Wii 上是否有自制软件都可以使用。 此方法适用于一些旧游戏，比如《马里奥赛车Wii》和《任天堂明星大乱斗X》，但并非适用于所有游戏。
 
 ##### 步骤
 
@@ -96,25 +96,25 @@ MrBean35000vr（CTGP-R 的作者，马里奥赛车 Wii 的自定义纹理包）�
 5. 选择当前连接。
 6. 转到 `Change Settings（更改设置）`。
 7. 转到 `Auto-Obtain DNS（自动获取 DNS）`（不是 IP 地址），然后选择 `否`，然后选择 `Advanced Settings（高级设置）`。
-8. Type in `95.217.77.181` as the primary DNS.
+8. 将主要 DNS 设置为 `95.217.77.181`。
 9. 将次要DNS设置为 `1.1.1.1`。
 10. 选择 `Confirm（确认）`，然后选择 `Save（保存）`。
 11. 选择 `OK` 以进行连接测试。
 12. 如果连接测试成功，请选择 `否` 以跳过 Wii 系统更新。
 
-If you get error 20100 or 20110, that means the game is too new for this method.
+如果出现错误 20100 或 20110，这意味着该游戏对于此方法来说太新了。
 {: .notice--warning}
 
-If you get error 23400, that means your ISP (Internet Service Provider) or network is blocking the use of a custom DNS. <br> Wiimmfi has a DNS sever you can run on your PC to solve this. [Read more here.](https://wiimmfi.de/patcher/dnspatch#customdns)
+如果出现错误 23400，这意味着您的 ISP（互联网服务提供商）或网络正在阻止使用自定义 DNS。 <br> Wiimmfi 有一个可以在电脑上运行的 DNS 服务器来解决此问题。 请点击[这里](https://wiimmfi.de/patcher/dnspatch#customdns)了解更多信息。
 {: .notice--warning}
 
-### Automatic patching using a USB Loader
+### 使用 USB Loader 自动修补
 
-If you are already using USB Loader GX, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
+如果您已经在使用 USB Loader GX，请尝试将其更新到最新版本。 然后，在全局加载器选项和游戏选项中应该有一个名为 "private server" 的设置，您可以将其设置为 "Wiimmfi"，以便 USB Loader 在您启动每个游戏时自动应用 Wiimmfi 补丁，以便与 Wiimmfi 配合使用。
 
-### ISO Patching
+### 修补 ISO
 
-You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
+您可能不想每次都运行修补程序才能在 Wiimmfi 上玩游戏，或者您可能已经在使用 USB Loader。 因此创建了 ISO 补丁，其中一些专为特定游戏而设计。
 
 #### 你需要的是
 
@@ -130,9 +130,9 @@ You may not want to run a patcher each time you want to play on Wiimmfi, and may
 2. 运行适用于您的操作系统的补丁脚本：通常在 Windows 上以 `.bat` 结尾，在 Mac/Linux 上以 `.sh` 结尾。 如果您正在使用 RiiConnect24 Patcher，选择您的设备（Wii、vWii 或 Dolphin），然后选择适用于您的游戏的 patcher。
 3. 完成后，从 `wiimmfi-images` 文件夹中获取版本（它可能位于 patcher 外部的文件夹中 - ../wiimmfi-images），然后将其复制回您的 USB。
 
-### WiiWare Patching
+### 修补 WiiWare
 
-You can patch WiiWare games in order to play them on Wiimmfi.
+您可以修补 WiiWare 游戏，以便在 Wiimmfi 上游玩。
 
 #### 你需要的是
 
@@ -143,10 +143,10 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 - [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases)（跨平台）
 - [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
-[If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
+[如果您想了解如何使用 WiiWare Patcher，请点击这里！](wiiwarepatcher)
 {: .notice--info}
 
-Steps:
+步骤：
 
 1. 解压最新版本的 WiiWare Patcher .zip 文件，并将您的 WAD 放入其中。
 2. 运行适用于您的操作系统的补丁脚本：通常在 Windows 上以 `.bat` 结尾，在 Mac/Linux 上以 `.sh` 结尾。 如果您正在使用 RiiConnect24 Patcher，选择您的设备（Wii、vWii 或 Dolphin），然后选择 WiiWare patcher。
@@ -154,9 +154,9 @@ Steps:
 
 ## 其它东西
 
-### Mario Kart Wii Competitions
+### 马里奥赛车Wii 大赛
 
-Wiimmfi allows you to participate in Mario Kart Wii competitions again.
+Wiimmfi 允许您再次参加马里奥赛车Wii 大赛。
 
 #### 你需要的是
 
@@ -165,7 +165,7 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
   - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
   - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
-#### Instructions (for Wii)
+#### 步骤（适用于 Wii）
 
 1. 将 Mario Kart Wii Competition Patcher 解压到 SD 卡的 `apps` 文件夹。
 2. 将 SD 卡或 U 盘插入 Wii。
@@ -174,21 +174,21 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 5. 启动 Mario Kart Wii Competition Patcher。
 6. patcher 将在存储设备的各个位置上查找马里奥赛车Wii 的存档并上传它们。 这样做是为了防止存档文件中缺少比赛信息。 当然，它也会为您的 Wii 打上大赛补丁。
 
-If you're using the Wii U, you will have to run the competitions patcher whenever you want to check for a competition, because WiiConnect24 is not enabled on the Wii U.
+如果您使用 Wii U，每当您想检查比赛时，您将不得不运行 competitions patcher，因为 Wii U 未启用 WiiConnect24。
 {: .notice--info}
 
-### DS Games
+### DS 游戏
 
-Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks to an exploit called nds-constraint, you can play DS games online without patching your games.
+Wiimmfi 不仅支持 Wii 游戏，还支持许多 DS 游戏。 通过名为 nds-constraint 的漏洞，您可以在不对游戏进行修补的情况下在线玩 DS 游戏。
 
 #### 你需要的是
 
 - 具有 WEP 或无安全性的 Wi-Fi 网络
 
-Getting a Wi-Fi network with WEP or no security is the hardest part, because DS games don't support newer Wi-Fi security types. However, many routers support creating a guest Wi-Fi connection, or you can make a hotspot on your phone or your computer. There are plenty of resources on the Internet that have information on this, so use your favorite search engine to find them.
+最困难的部分是获取一个使用 WEP 或没有任何安全性的 Wi-Fi 网络，因为 DS 游戏不支持较新的 Wi-Fi 安全类型。 然而，许多路由器支持创建一个访客 Wi-Fi 连接，或者您可以在手机或电脑上创建一个热点。 互联网上有很多资源提供相关信息，您可以使用您喜欢的搜索引擎来查找它们。
 {: .notice--info}
 
-Some games are DSi enhanced which means you can play games online without having only WEP or no security on your router if you have a DSi or 3DS. Pokémon Black and Pokémon White are DSi enhanced. In order to make use of it, follow the instructions below via the DSi or 3DS Wi-Fi settings. Those are separate from the DS Wi-Fi settings.
+一些游戏具有 DSi 增强功能，这意味着如果您拥有 DSi 或 3DS，即使您的路由器仅支持 WEP 或没有安全性也可以在线玩游戏。 宝可梦 黑／白是 DSi 增强游戏。 为了使用此功能，请通过 DSi 或 3DS 的 Wi-Fi 设置按照以下说明进行操作。 这些设置与 DS 的 Wi-Fi 设置是分开的。
 {: .notice--info}
 
 #### 步骤
@@ -199,25 +199,25 @@ Some games are DSi enhanced which means you can play games online without having
 4. 将次要DNS设置为 `1.1.1.1`。
 5. 保存您的连接设置并执行连接测试。 如果连接测试成功，您就可以开始游戏了。
 
-If you get error 20110, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. 您可以将 `Auto-Obtain DNS` 设置为 `On` 来解决此问题。 即使没有这个设置，RiiConnect24 仍然可以正常工作。 或者，您可以使用我们的 [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) 程序。
+如果您遇到错误 20110，那意味着您的互联网服务提供商（ISP）或网络正在阻止使用某个 DNS。 您可以将 `Auto-Obtain DNS` 设置为 `On` 来解决此问题。 即使没有这个设置，RiiConnect24 仍然可以正常工作。 或者，您可以使用我们的 [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) 程序。
 {: .notice--warning}
 
-You cannot use Sudomemo, which revives Flipnote Studio on the DSi, if you're using this DNS. If you want to use Sudomemo instead of playing games on Wiimmfi, you will have to set your primary DNS to `104.248.0.110` on Wi-Fi settings on your DSi or 3DS, not the DS Wi-Fi settings. Or you can use their [DNS-Server](https://github.com/Sudomemo/sudomemoDNS) program.
+如果您使用此 DNS 就无法使用 Sudomemo，该服务可在 DSi 上恢复 Flipnote Studio。 如果您想使用 Sudomemo 而不是在 Wiimmfi 上玩游戏，您需要在 DSi 或 3DS 的 Wi-Fi 设置中将主要 DNS 设置为 `104.248.0.110`，而不是在 DS 的 Wi-Fi 设置中。 或者，您还可以使用他们的 [DNS-Server](https://github.com/Sudomemo/sudomemoDNS) 程序。
 {: .notice--warning}
 
-### Mario Kart Wii Mods
+### 马里奥赛车Wii 模组
 
 #### CTGP-R
 
-MrBean35000vr and Chadderz have a custom track distribution called CTGP-R that allows you to use a set of custom tracks and has automatic Wiimmfi patching. Go to the [ChadSoft website](http://chadsoft.co.uk) for the download and instructions.
+MrBean35000vr 和 Chadderz 制作了一个名为 CTGP-R 的自定义赛道发行版，它允许您使用一组自定义赛道，并自动打 Wiimmfi 补丁。 请访问 [ChadSoft 网站](http://chadsoft.co.uk)以获取下载和详细说明。
 
 #### MKW Hack Pack
 
-PhillyG has put together a collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. To learn how to set it up, go to the [wiki page](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+PhillyG 整理了一个名为 MKW Hack Pack 的自定义赛道和修改集合，并允许连接到 Wiimmfi。 要了解如何设置它，请访问[维基页面](http://wiki.tockdom.com/wiki/MKW_Hack_Pack)。
 
 #### Wiimms Mario Kart Fun
 
-Wiimm and Leseratte make a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte, has Wiimmfi support, and lots of other features. You can find out more about it on its [wiki page](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
+Wiimm 和 Leseratte 制作了名为 "Wiimms MKW Fun" 的自定义赛道发行版，每年大约更新三次。 它基于 Leseratte 的 LE-CODE 框架，有 Wiimmfi 支持，还有很多其它功能。 您可以在其[维基页面](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun)上了解更多信息。
 
 [继续安装 RiiConnect24](riiconnect24)<br> RiiConnect24 允许您使用已停止服务的 WiiConnect24 功能，包含新闻、天气、大家一起投票、任天堂和 Mii 展示频道以及 Wii 邮箱。 这是可选的安装步骤。
 {: .notice--info}
