@@ -12,9 +12,9 @@ This tutorial will explain how to update your Wii Menu to version 4.3, if you ha
 It is much safer to use [ModMii](https://modmii.github.io) (Windows only) to update your Wii to 4.3.
 {: .notice--warning}
 
-#### What you need
+#### 必備項目
 
-* An SD card or USB drive
+* 一張 SD 卡或 USB 隨身碟
 * A computer with Windows on it
 * [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest)
 * [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
@@ -24,7 +24,7 @@ If you don't have a Windows computer, please join [the RiiConnect24 Discord serv
 
 #### 操作說明
 
-##### Section I - Downloading
+##### 第一節 — 下載
 
 Your Wii must be modded in order to perform this. If it isn't, then it's best to follow [the guide](get-started) first before doing this.
 {: .notice--info}
@@ -47,7 +47,7 @@ To protect against bricks, [make sure you install Priiloader](priiloader). Also,
 | Europe | v514 (4.3E)      |
 | Korea  | v518 (4.3K)      |
 
-##### Section II - Installing
+##### 第二節 — 安裝
 
 You use the +Control Pad to use this tool.
 {: .notice--info}
@@ -64,5 +64,5 @@ You use the +Control Pad to use this tool.
 **Installing a Wii Menu WAD removes Priiloader.** <br> **Do not return to the Wii Menu yet, otherwise you could BRICK.** <br> **[Install Priiloader IMMEDIATELY!!](priiloader)** <br>
 {: .notice--danger}
 
-[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and we recommend it.
+[繼續至安裝 Priiloader](priiloader) <br> Priiloader 提供防磚保護，強烈建議安裝。
 {: .notice--info}
