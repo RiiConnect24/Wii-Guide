@@ -1,5 +1,5 @@
 ---
-title: "Priiloader"
+title: "安裝 Priiloader"
 ---
 
 {% include toc title="條目內容" %}
@@ -11,31 +11,31 @@ title: "Priiloader"
 
 Priiloader adds a level of brick protection to your Wii. It loads before the Wii Menu does (hence the name). The tool can also enable hacks for your Wii Menu, and be used to quickly launch the Homebrew Channel, BootMii, or whatever homebrew you want!
 
-### Installing Priiloader
+### 安裝 Priiloader
 
-![Installing Priiloader](/images/Priiloader/priiloader.jpg)
+![安裝 Priiloader](/images/Priiloader/priiloader.jpg)
 
-Do **not** install Priiloader on a vWii (Wii mode on Wii U). You will brick your vWii by doing this.
+請勿**不要**在 vWii 上安裝 Priiloader（Wii U 上的 Wii 模式）。 這樣做會讓你的 vWii 變磚。
 {: .notice--warning}
 
-#### What you need
+#### 必備項目
 
-- An SD card or USB drive
-- [Priiloader installer](https://github.com/DacoTaco/priiloader/releases/download/0.9.1/Priiloader_v0_9_1.zip)
+- 一張 SD 卡或 USB 隨身碟
+- [Priiloader 安裝器](https://github.com/DacoTaco/priiloader/releases/download/0.9.1/Priiloader_v0_9_1.zip)
 
 #### 操作說明
 
-##### Section I - Downloading/Installing
+##### 第一節 — 下載/安裝
 
 1. Download the Priiloader installer and extract it to the root of your SD card or USB drive.
 
-##### Section II - Installing Priiloader
+##### 第二節 — 安裝 Priiloader
 
 1. Launch the Homebrew Channel on your Wii.
 2. Launch the Priiloader installer.
 3. Press the + Button on Wii Remote or the A Button on a GameCube controller. ![Install Priiloader](/images/Priiloader/installer.jpg) ![Installing](/images/Priiloader/installing.jpg)
 
-##### Section III - Entering/Configuring Priiloader
+##### 第三節 — 進入/設置 Priiloader
 
 1. Hold the RESET button while turning on your Wii.
    - If you are using a Wii mini, plug in a USB keyboard and hold Escape on it while turning it on.
@@ -52,7 +52,7 @@ If you are using a USB drive to install Priiloader, make sure you do not have an
 1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
 1. Scroll to `Homebrew Channel` and press A to launch it.
 
-### Configuring Priiloader
+### 設置 Priiloader
 
 #### System Menu Hacks List
 
@@ -60,11 +60,11 @@ This is a list of the hacks you can enable with Priiloader.
 
 | Hack                                    | Description                                                                                                                                                                           |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Block Disc Updates                      | Removes the "Wii System Update" screen included with some games that forces you to update the system before playing the game.                                                         |
-| Block Online Updates                    | Disables updating your Wii. Updates will fail with error 32007.                                                                                                                       |
-| Auto-Press A at Health Screen           | Automatically presses the A Button to get past the initial "Health and Safety" screen.                                                                                                |
+| Block Disc Updates                      | 關閉某些遊戲中包含的『Wii System Update』提示，此提示迫使您遊玩該遊戲前更新系統。                                                                                                                                     |
+| Block Online Updates                    | 關閉 Wii 的系統更新。 啟用後若嘗試更新則會導致 32007 錯誤訊息。                                                                                                                                                |
+| Auto-Press A at Health Screen           | 於主機初始的『健康與安全』提示下，自動按下 A 按鈕。                                                                                                                                                           |
 | Replace Health Screen with Backmenu     | Changes the "Health and Safety" screen to the animation played when returning to the Wii Menu.                                                                                        |
-| Move Disc Channel                       | Enables moving the Disc Channel anywhere on the Wii Menu. It's normally stuck in the top left of the first page.                                                                      |
+| Move Disc Channel                       | 允許您於 Wii 主選單中自由移動光碟頻道。 否則它通常位於第一頁的左上角。                                                                                                                                                |
 | Wiimmfi Patch v4                        | Automatically patches all games you run from the Disc Channel for use with Wiimmfi.                                                                                                   |
 | 480p graphics fix in system menu        | Fixes a small issue with 480p on the Wii Menu.                                                                                                                                        |
 | Remove NoCopy Save File Protection      | Allows you to copy normally disallowed save files to your SD card from Data Management                                                                                                |
@@ -80,11 +80,11 @@ This is a list of the hacks you can enable with Priiloader.
 | Force Disc Games to run under IOS249    | Make discs use cIOS 249 as the game's IOS. While it cannot allow playing of burned games on its own, it is needed to play burned discs. (Can give you Error 002 on a non-burned game) |
 | Remove Deflicker                        | Removes the deflicker filter and makes the Wii Menu appear clearer.                                                                                                                   |
 
-#### Autobooting with Priiloader
+#### 自動載入 Priiloader
 
 Priiloader allows you to automatically boot to the Homebrew Channel, an individual homebrew application, or Priiloader itself.
 
-##### Autobooting a Homebrew application
+##### 自動啟動自製軟體
 
 {% capture UNEO %}
 If you would like to autoboot USB loader GX, do this first:
@@ -117,7 +117,7 @@ Your Wii should now automatically boot to whichever homebrew app you installed.
 1. Enter Priiloader by holding RESET when turning on your Wii.
   - If you are using a Wii Mini, plug in a USB keyboard and hold Escape while turning it on. ![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
 1. Scroll down to `Settings` and press A. ![Settings](/images/Priiloader/menu_settings.png)
-1. Press Right to cycle through the Autoboot options until your desired option is selected. <br> `Disabled` will autoboot to the Priiloader menu.
+1. Press Right to cycle through the Autoboot options until your desired option is selected. <br> `Disabled` 將自動引導至 Priiloader 選單。
 
 Please don't set Autoboot to `BootMii IOS`. You will get stuck in a loop until you continuously hold the RESET button to enter the Priiloader menu.
 {: .notice--warning}
