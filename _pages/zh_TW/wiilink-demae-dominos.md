@@ -19,16 +19,16 @@ Currently, only the USA and Canada are supported.
 You cannot use the default Dolphin NAND with this service. You must use your own NAND dump. This can be done in Dolphin by going to the toolbar and clicking `Tools -> Manage NAND -> Import BootMii NAND Backup`.
 {: .notice--warning}
 
-#### What you need
+#### 必備項目
 
-- An SD card or USB drive
+- 一張 SD 卡或 USB 隨身碟
 - A Wii console with an active internet connection
 - A computer with an active internet connection
 - A Discord account
 
 #### 操作說明
 
-##### Section I - Getting Started
+##### 第一節 — 新手入門
 
 1. Download the latest version of the WiiLink Patcher, available [here](https://github.com/WiiLink24/WiiLink24-Patcher/tree/csharp-ver).
 2. Make sure to download the version in the README that corresponds to your operating system.
@@ -95,5 +95,5 @@ If you have previously placed an order, skip to step 4.
 
 **_Happy ordering!_**
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[繼續至網站導覽](site-navigation)<br> 我們還有許多您可能會喜歡的其他指南。
 {: .notice--info}
