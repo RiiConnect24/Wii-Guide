@@ -14,7 +14,7 @@ Despite its name, USB Loader GX is also capable of loading games from an SD Card
 
 ![USB Loader GX](/images/usbloadergx.png)
 
-#### What you need
+#### 必備項目
 
 * A Wii
 * A USB drive or SD Card
@@ -91,5 +91,5 @@ On the middle of the bottom of the screen, you can see how much space is free on
 [Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that USB Loader GX can integrate with. This is optional to set up.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[繼續至網站導覽](site-navigation)<br> 我們還有許多您可能會喜歡的其他指南。
 {: .notice--info}
