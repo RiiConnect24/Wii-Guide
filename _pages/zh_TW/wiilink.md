@@ -6,9 +6,9 @@ title: "WiiLink"
 
 [WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels known as Wii Room, the Digicam Print Channel, and the Food Channel again.
 
-#### What you need
+#### 必備項目
 
-- An SD card or USB drive
+- 一張 SD 卡或 USB 隨身碟
 - A Wii with an Internet connection
 - A Windows, macOS, or Linux computer
 - [WiiLink Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
@@ -63,8 +63,8 @@ For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (4
 [Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
 {: .notice--info}
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+[繼續至使用 Wiimmfi](wiimmfi)<br> Wiimmfi 可讓您在官方 Nintendo Wi-Fi 停用後繼續遊玩線上遊戲。 This is optional to install.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[繼續至網站導覽](site-navigation)<br> 我們還有許多您可能會喜歡的其他指南。
 {: .notice--info}
