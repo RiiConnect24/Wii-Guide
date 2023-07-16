@@ -19,9 +19,9 @@ RiiConnect24 Clear Tool is a homebrew application that can fix these specific er
 - NEWS000006
 - Clears out Wii mailboxes in case they are full (this can fix Wii Mail)
 
-#### What you need
+#### 必備項目
 
-- An SD card or USB drive
+- 一張 SD 卡或 USB 隨身碟
 - [RiiConnect24 Clear Tool](https://oscwii.org/library/app/RC24-Clear-Tool)
 - [WiiXplorer](https://oscwii.org/library/app/wiixplorer-ss)
 - [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
