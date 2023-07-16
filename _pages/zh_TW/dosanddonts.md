@@ -1,5 +1,5 @@
 ---
-title: "Dos and Don'ts of Wii Modding"
+title: "Wii 改機注意事項"
 ---
 
 {% include toc title="條目內容" %}
