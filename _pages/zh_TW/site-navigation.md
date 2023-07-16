@@ -9,7 +9,7 @@ sitemap: false
 {% capture notice-1 %}
 **Featured**
 
-- [cIOS](cios)
+- [安裝 cIOS](cios)
 - [RiiConnect24](riiconnect24)
 - [WiiLink](wiilink)
 - [Wiimmfi](wiimmfi)
@@ -36,13 +36,13 @@ sitemap: false
 
 - [使用 BlueBomb 漏洞](bluebomb)
 - [進行 BootMii 備份](bootmii)
-- [cIOS](cios)
-- [Dos and Don'ts of Wii Modding](dosanddonts)
+- [安裝 cIOS](cios)
+- [Wii 改機注意事項](dosanddonts)
 - [FlashHax](flashhax)
 - [Homebrew Browser](hbb)
 - [Homebrew Channel](hbc)
 - [LetterBomb](letterbomb)
-- [Priiloader](priiloader)
+- [安裝 Priiloader](priiloader)
 - [Relaunching the HackMii Installer](hackmii)
 - [str2hax](str2hax)
 - [Wii Mod Lite](wiimodlite)
@@ -51,7 +51,7 @@ sitemap: false
 **Homebrew**
 
 - [Creating Wii Game Shortcuts](wiigsc)
-- [GameCube Backup Manager](gcbackupmanager)
+- [使用 GameCube Backup Manager](gcbackupmanager)
 - [How to dump Channels (WADs)](dump-wads)
 - [How to dump GameCube/Wii Games](dump-games)
 - [Installing RSSMii](rssmii)
