@@ -12,7 +12,7 @@ Wilbrand, like LetterBomb, is an exploit for the Wii that is triggered using the
 Unlike LetterBomb, Wilbrand supports Wii menu versions down to 3.0.
 {: .notice--info}
 
-#### What you need
+#### 必備項目
 
 - A PC running Windows, MacOS or Linux
 - An SD card formatted to FAT32/MS-DOS
