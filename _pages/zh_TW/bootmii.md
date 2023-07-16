@@ -41,21 +41,21 @@ BootMii 最重要的功能之一是能夠備份和恢復 Wii 的 NAND 儲存空�
 
 3. 選擇『Options』按鈕（帶齒輪的圖示）。 ![BootMii_Gears_Icon](/images/BootMii/BootMii_Gears_Icon.png)
 
-4. Select the BackupMii button. ![BootMii_Green_Arrow](/images/BootMii/BootMii_Green_Arrow.png)
+4. 選擇『BackupMii』按鈕。 ![BootMii_Green_Arrow](/images/BootMii/BootMii_Green_Arrow.png)
 
    - NAND 備份將開始。 您將在螢幕上看到進度。
    - 若螢幕上出現『Bad Blocks』是正常的。 看到時不用特別擔心。
    - 在此步驟之後，BootMii 將驗證此備份。 雖然極度推薦您完成此步驟，但您仍能透過 Wii 上的 EJECT 按鈕跳過此步驟。 請注意，如果您的光碟機中目前有光碟的話，則按 EJECT 也會退出此光碟。
 
-5. When the backup is complete, exit the NAND backup screen by pressing any button. ![BootMii_NAND_Backup](/images/BootMii/BootMii_NAND_Backup.png)
+5. 當備份完成後，按任意鍵退出 NAND 備份。 ![BootMii_NAND_Backup](/images/BootMii/BootMii_NAND_Backup.png)
 
-6. To exit BootMii, press the Back button (the one with the arrow) and then you can press either the Wii Menu button or the Homebrew Channel button to exit where you want to. ![BootMii_Return_Arrow](/images/BootMii/BootMii_Return_Arrow.png)
+6. 若要退出 BootMii，請按返回按鈕（帶箭頭的那個），然後您可以按 Wii 選單按鈕或 Homebrew 頻道按鈕退出您想要的地方。 ![BootMii_Return_Arrow](/images/BootMii/BootMii_Return_Arrow.png)
 
-To restore from a NAND backup on your SD card, you can follow these instructions using RestoreMii. This is useful in the unlikely case you brick your Wii. ![BootMii_Red_Arrow](/images/BootMii/BootMii_Red_Arrow.png)
+要從 SD 卡上的 NAND 備份還原，您可以按照以下說明使用 RestoreMii 進行操作。 若您的 Wii 不幸變磚時可用來還原您的主機。 ![BootMii_Red_Arrow](/images/BootMii/BootMii_Red_Arrow.png)
 {: .notice--info}
 
-To make sure you don’t lose the files, it's recommended to copy `nand.bin` and `keys.bin` from the root of your SD card to your computer.
+為確保您不會不小心遺失這些檔案，建議您將 `nand.bin` 和 `keys.bin` 從 SD 卡的根目錄複製到您的電腦中。
 {: .notice--info}
 
-[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and is highly recommended, especially if you were only able to install BootMii as IOS.
+[繼續至安裝 Priiloader](priiloader)<br> Priiloader 提供防磚保護，強烈建議安裝，尤其是當您只能將 BootMii 安裝為 IOS 時。
 {: .notice--info}
