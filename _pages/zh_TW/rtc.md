@@ -10,8 +10,8 @@ You need an Internet connection in order to use this application.
 
 In this step, you will synchronize your Wii with a NTP time server. This will set your Wii's clock to the correct time to prevent potential problems when installing services such as RiiConnect24.
 
-#### What you need
-* An SD card or USB drive
+#### 必備項目
+* 一張 SD 卡或 USB 隨身碟
 * [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
 
 #### 操作說明
@@ -26,7 +26,7 @@ In this step, you will synchronize your Wii with a NTP time server. This will se
 [Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[繼續至網站導覽](site-navigation)<br> 我們還有許多您可能會喜歡的其他指南。
 {: .notice--info}
 
 Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
