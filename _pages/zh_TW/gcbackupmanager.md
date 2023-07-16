@@ -1,5 +1,5 @@
 ---
-title: "GameCube Backup Manager"
+title: "使用 GameCube Backup Manager"
 ---
 
 {% include toc title="條目內容" %}
@@ -7,11 +7,11 @@ title: "GameCube Backup Manager"
 如果您需要有關本手冊的任何幫助，請加入 [RiiConnect24 的 Discord 伺服器](https://discord.gg/rc24)（推薦）或 [發送電子郵件至 support@riiiconnect24.net](mailto:support@riiiconnect24.net)。
 {: .notice--info}
 
-GameCube Backup Manager is a convenient PC software that simplifies the process of transferring GameCube games to your USB drive or SD Card. It functions similar to the popular tool called [Wii Backup Manager](wiibackupmanager), allowing you to easily manage and organize your GameCube game backups. With this program, you can effortlessly copy your favorite GameCube games onto portable storage devices, making them readily accessible for future gaming sessions.
+GameCube Backup Manager 是一款方便的 PC 軟體，可簡化將 GameCube 遊戲傳輸到 USB Loader 或 SD 卡的過程。 它的功能類似於[Wii Backup Manager](wiibackupmanager)，讓您輕鬆管理及整理您的 GameCube 遊戲備份。 With this program, you can effortlessly copy your favorite GameCube games onto portable storage devices, making them readily accessible for future gaming sessions.
 
-#### What you need
+#### 必備項目
 
-- An SD card or USB drive
+- 一張 SD 卡或 USB 隨身碟
 - [GameCube Backup Manager](https://github.com/AxionDrak/GameCube-Backup-Manager/releases)
 
 To play multiple games, it is recommended to use an external hard drive for your Wii. Any external hard drive found on most modern marketplaces should work with your Wii.
@@ -22,12 +22,12 @@ Make sure your USB drive is formatted as FAT32. Do not format it as other types 
 
 #### 操作說明
 
-##### Section I - Downloading
+##### 第一節 — 下載
 
 1. Extract GameCube Backup Manager, and launch the program.
 2. Insert your USB drive into your computer.
 
-##### Section II - Copying Games Over
+##### 第二節 — 複製遊戲至主機中
 
 1. Open the application and locate the folder button in the bottom right corner. Click on it to open the file explorer window.
 2. Navigate to the location of the game file you want to transfer. This could be on your computer's hard drive or an external storage device. Once you find the file, select it by clicking on it.
@@ -37,5 +37,5 @@ Make sure your USB drive is formatted as FAT32. Do not format it as other types 
 Selecting `Install Game (Scrub)` will remove unnecessary data from the game, reducing the game's file size.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[繼續至網站導覽](site-navigation)<br> 我們還有許多您可能會喜歡的其他指南。
 {: .notice--info}
