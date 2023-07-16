@@ -7,12 +7,12 @@ title: "RiiTag on Wii"
 如果您需要有關本手冊的任何幫助，請加入 [RiiConnect24 的 Discord 伺服器](https://discord.gg/rc24)（推薦）或 [發送電子郵件至 support@riiiconnect24.net](mailto:support@riiiconnect24.net)。
 {: .notice--info}
 
-RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You connect it to a USB Loader, and the tag updates on-the-fly. You need a Discord account in order to start using RiiTag.
+RiiTag 是一個可隨時隨意更改的的動態玩家用戶名。 By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You connect it to a USB Loader, and the tag updates on-the-fly. You need a Discord account in order to start using RiiTag.
 
 Want to install RiiTag on your Wii U? See [this guide](riitag-wiiu) on how to connect it to your Wii U Menu.
 {: .notice--info}
 
-#### What you need
+#### 必備項目
 
 * A computer
 * A text editor
@@ -20,7 +20,7 @@ Want to install RiiTag on your Wii U? See [this guide](riitag-wiiu) on how to co
 
 #### 操作說明
 
-##### Section I - Getting Started
+##### 第一節 — 新手入門
 
 1. [Go to the RiiTag site.](https://tag.rc24.xyz/)
 2. Click `Log In` and log in with your Discord account.
@@ -111,5 +111,5 @@ We have a RiiTag Channel you can install on your Wii. When it is launched, it wi
 [Check out RiiTag-RPC](https://github.com/RiiConnect24/RiiTag-RPC/releases/latest)<br> Now that you set up RiiTag, you can set up RiiTag-RPC to show your Discord friends what you're playing on the Wii using Discord's rich presence.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[繼續至網站導覽](site-navigation)<br> 我們還有許多您可能會喜歡的其他指南。
 {: .notice--info}
