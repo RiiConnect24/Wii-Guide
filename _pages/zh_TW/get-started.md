@@ -31,11 +31,11 @@ If your Wii Menu is not on version 4.3, use str2hax, Wilbrand or FlashHax to ins
 - [LetterBomb](letterbomb) - 利用 Wii 留言板的漏洞
     * 需要 SD 卡
     * Must be on version 4.3
-- [Wilbrand](wilbrand) - Exploit that also uses the Wii Message Board
+- [LetterBomb](wilbrand) - 同樣為利用 Wii 留言板的漏洞
     * Requires an SD card and a PC
     * Works on versions 3.0 - 4.3
 - [FlashHax](flashhax) - Exploit that uses the Internet Channel
     * Requires the Internet Channel installed, and an Internet connection
-- [BlueBomb](bluebomb) - Exploit that uses Bluetooth
+- [BlueBomb](bluebomb) - 利用藍牙的漏洞
     * Requires a computer with Bluetooth and GNU/Linux, as well as a USB storage device
     * This is the only exploit that works on the **Wii mini**
