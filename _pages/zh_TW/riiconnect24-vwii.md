@@ -39,9 +39,9 @@ We are **NOT** responsible if you brick, or damage your console in any way whats
 Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on Wii U). If you're looking for instructions for a Nintendo Wii, use [this guide](riiconnect24). If you'd like to perform this guide on the Dolphin emulator, use [this guide](riiconnect24-dolphin) instead.
 {: .notice--warning}
 
-#### What you need
+#### 必備項目
 
-* An SD card or USB drive
+* 一張 SD 卡或 USB 隨身碟
 * A computer
 * A Wii U console with an Internet connection that's capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
 * A Nintendo Network ID (NNID) linked to your Wii U
@@ -69,14 +69,14 @@ If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord ser
 6. For this guide, choose "`Install RiiConnect24 on your Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
 7. Choose "`Express (Recommended)`". It will give you everything you need. ![Express Settings](/images/RC24_Patcher/4.JPG)
 8. Select your region. ![Select your region](/images/RC24_Patcher/5.JPG)
-9. While you're at it, RiiConnect24 Patcher can additionally download some other optional channels that do not use RiiConnect24. `[X]` represents the options that selected. Just press 5 and `ENTER` if you're not interested. ![Additional optional channels](/images/RC24_Patcher/6.JPG)
+9. While you're at it, RiiConnect24 Patcher can additionally download some other optional channels that do not use RiiConnect24. `[X]` 代表目前所選之選項。 Just press 5 and `ENTER` if you're not interested. ![Additional optional channels](/images/RC24_Patcher/6.JPG)
 10. Connect your SD Card or USB Drive to your computer and select "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
 11. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Drive and try again. ![Successfully detected](/images/RC24_Patcher/8.JPG)
 12. Be patient... ![It's patching!](/images/RC24_Patcher/9.JPG)
 13. After it's done, we would appreciate if you take a minute to send anonymous feedback to us.  If you don't want to, close the patcher. All the files should already be on your SD Card. ![It's done!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
 14. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
 
-##### Section II - Installing WADs
+##### 第二節 — 安裝 WAD 檔案
 
 You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
@@ -102,7 +102,7 @@ After following the above sections, you're almost ready to utilize RiiConnect24 
 1. On the **Wii Menu**, launch the **ConnectMii** channel.
 * This will enable the WiiConnect24 and Standby Connection flags required by the WiiConnect24 Channels.
 2. Launch the WiiConnect24 Channels.
-* You should now be able to utilize all of the WiiConnect24 Channels you have installed.
+* 您現在應該能夠使用已安裝的所有 WiiConnect24 頻道。
 
 #### What's currently working?
 The following RiiConnect24 services are **working** on the vWii:
