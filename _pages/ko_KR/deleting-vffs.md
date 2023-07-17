@@ -28,7 +28,7 @@ RiiConnect24 청소 도구는 이러한 특정 오류와 문제를 해결할 수
 
 #### 사용 방법
 
-#### 섹션 I - Wii 메시지 보드 데이터 백업 (선택 사항)
+#### Section I - Backing up Wii Message Board Data
 
 1. 홈브류 채널을 열고 WiiXplorer를 실행합니다.
 2. `NAND`로 이동하여 `시작`, `설정`, `부팅 설정`, `NAND 쓰기 접속`를 차례로 클릭하고 `예`를 선택합니다.
@@ -38,12 +38,15 @@ RiiConnect24 청소 도구는 이러한 특정 오류와 문제를 해결할 수
 
 #### 섹션 II - SYSCONF 삭제하기
 
+Deleting SYSCONF will erase the Wii Message Board history. Follow the section above if you would like to keep it.
+{: .notice--danger}
+
 1. RiiConnect24 청소 도구를 압축 해제하고 SD 카드 또는 USB 드라이브의 apps 폴더에 넣습니다.
 2. 홈브류 채널을 연 다음 RiiConnect24 청소 도구를 실행합니다.
 3. IOS 80을 로드하고 A 버튼을 눌러 SYSCONF를 삭제한 다음 B 버튼을 눌러 화면비를 확인하고 재설정합니다.
 4. Wii를 정상적으로 설정하고 `WiiConnect24`로 이동하여 EULA에 동의한 다음 대기 연결을 켭니다.
 
-#### 섹션 III - Wii 메시지 보드 데이터 되돌리기 (선택 사항)
+#### Section III - Putting back Wii Message Board Data
 
 1. 홈브류 채널로 돌아가 WiiXplorer를 열고 `시작`, `설정`, `부팅 설정`으로 이동한 후 `NAND 쓰기 액세스` 및 `예`를 선택합니다.
 2. `cdb.vff` 위로 마우스를 다시 가져가 + 버튼을 누른 다음 `복사` 및 `예`를 선택합니다.
