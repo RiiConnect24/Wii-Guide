@@ -11,12 +11,14 @@ You need an Internet connection in order to use this application.
 In this step, you will synchronize your Wii with a NTP time server. This will set your Wii's clock to the correct time to prevent potential problems when installing services such as RiiConnect24.
 
 #### What you need
+* A working Internet connection on your Wii
+* The Homebrew Channel
 * An SD card or USB drive
 * [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
 
 #### Instructions
 
-1. Extract sntp and put it in the `apps` folder on your SD card or USB drive.
+1. Download and extract the sntp zip to the root of your SD card or USB drive.
 2. Insert your SD card or USB drive into your Wii. 
 3. Launch the Homebrew Channel on your Wii.
 4. Launch sntp.
@@ -29,10 +31,4 @@ RiiConnect24 allows you to use discontinued services from WiiConnect24, which in
 
 [Continue to site navigation](site-navigation)<br>
 We have many other tutorials that you might like.
-{: .notice--info}
-
-Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
-{: .notice--info}
-
-You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
 {: .notice--info}
