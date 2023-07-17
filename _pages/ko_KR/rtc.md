@@ -11,12 +11,14 @@ title: "RTC 시간 설정"
 이 단계에서는 Wii를 NTP 시간 서버와 동기화합니다. 이렇게 하면 Wii의 시계가 올바른 시간으로 설정되어 RiiConnect24와 같은 서비스를 설치할 때 발생할 수 있는 문제를 방지할 수 있습니다.
 
 #### 필요한 것
+* A working Internet connection on your Wii
+* 홈브류 채널
 * SD 카드 및 USB 드라이브
 * [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
 
 #### 사용 방법
 
-1. Sntp를 압축 해제하고 SD 카드 또는 USB 드라이브의 `apps` 폴더에 넣습니다.
+1. Download and extract the sntp zip to the root of your SD card or USB drive.
 2. Wii에 SD 카드 또는 USB 드라이브를 연결합니다.
 3. Wii에서 홈브류 채널을 실행합니다.
 4. sntp를 시작합니다.
@@ -27,10 +29,4 @@ title: "RTC 시간 설정"
 {: .notice--info}
 
 [사이트 탐색 계속하기](site-navigation)<br> 여러분이 좋아할 만한 다른 자습서도 많이 있습니다.
-{: .notice--info}
-
-홈브류 브라우저 다운로드에는 홈브류 브라우저 사용 방법에 대한 가이드가 포함되어 있습니다.
-{: .notice--info}
-
-`/apps/homebrew_browser/`에서 ShopChannel.ogg를 loop.ogg로 바꾸면 홈브류 브라우저에서 Wii 샵 채널 음악을 재생할 수 있습니다.
 {: .notice--info}
