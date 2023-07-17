@@ -20,7 +20,7 @@ In this step, you will synchronize your Wii with a NTP time server. This will se
 
 1. Download and extract the sntp zip to the root of your SD card or USB drive.
 2. Insert your SD card or USB drive into your Wii.
-3. Launch the Homebrew Channel on your Wii.
+3. Avvia l'Homebrew Channel sulla tua Wii.
 4. Launch sntp.
 5. Use the +Control Pad to select the current time.
 6. Press the HOME Button to exit.
