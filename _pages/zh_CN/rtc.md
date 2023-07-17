@@ -11,14 +11,14 @@ title: "设置 RTC 时间"
 在这一步中，您将使用 NTP 时间服务器同步 Wii 的时间。 这将校准您的 Wii 时钟以确保时间正确，以避免安装 RiiConnect24 等服务时出现潜在问题。
 
 #### 你需要的是
-* A working Internet connection on your Wii
+* 您的 Wii 需要正常的互联网连接
 * Homebrew Channel
 * 一张 SD 卡或 U 盘
 * [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
 
 #### 步骤
 
-1. Download and extract the sntp zip to the root of your SD card or USB drive.
+1. 下载并解压 sntp zip 到 SD 卡或移动硬盘/U 盘的根目录。
 2. 把你的SD卡或U盘插入Wii。
 3. 启动 Wii 上的 Homebrew Channel。
 4. 启动 sntp。
