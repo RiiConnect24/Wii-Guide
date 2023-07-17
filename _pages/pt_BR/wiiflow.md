@@ -23,19 +23,19 @@ Certifique-se que instalou [cIOS](/cios) antes de seguir isso!
 Nós recomendamos que copie jogos com o [Wii Backup Manager](/wiibackupmanager) se você usa Windows, [Witgui](https://desairem.com/wordpress/category/witgui-download/) se você usa macOS, ou [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) para Windows, macOS e Linux.
 {: .notice--info}
 
-Se quiser jogar jogos que estão no formato NKit, use [este programa](https://gbatemp.net/download/nkit.36157/) para convertê-los para ISO primeiro. Você também pode usar uma build em desenvolvimento do Dolphin, dar clique direito em um jogo, e usar "Convert File" para convertê-lo.
+Se quiser jogar jogos que estão no formato NKit, use [este programa](https://gbatemp.net/download/nkit.36157/) para convertê-los para ISO primeiro.
 {: .notice--info}
 
 Se você não vai copiar jogos usando Wii Backup Manager, Witgui, ou Wii Backup Fusion, faça uma pasta na raíz do armazenamento USB ou cartão SD nomeada "wbfs" e coloque jogos lá.
 {: .notice--info}
 
-Para jogar jogos, nós recomendamos utilizar um armazenamento externo para seu Wii. Flash drives são utilizáveis também, mas armazenamentos externos são recomendados por serem mais seguros, e podem guardar mais jogos.
+Para jogar jogos, nós recomendamos utilizar um armazenamento externo para seu Wii. Drives de flash não são recomendados, e podem variar de comportamento mesmo entre o mesmo produto.
 {: .notice--info}
 
-WiiFlow pode carregar jogos de um cartão SD ou armazenamento USB.
+Certifique-se de que seu armazenamento USB está formatado como FAT32. Não formate-o para outros tipos como exFAT ou extFS. <br> Você pode formatá-lo para NTFS, mas não vai funcionar com a maioria dos apps (ex. Homebrew Channel, Nintendont)
 {: .notice--info}
 
-Certifique-se de que seu armazenamento USB está formatado como FAT32 ou NTFS. FAT32 é a opção mais ideal pois suporta ambos jogos de Wii e GameCube diferente de NTFS. Não formate-o para outros tipos como exFAT, extFS ou WBFS.
+WiiFlow can load games from an SD card or a USB drive.
 {: .notice--info}
 
 #### Instruções
@@ -85,10 +85,7 @@ Quando você leva o cursor a parte inferior da tela enquanto está na visualiza�
 
 ##### Opções assim que completo
 
-[WiiFlowiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFlowiki é um ótimo recurso com informações sobre o WiiFlow.
-{: .notice--info}
-
-[Continue para RiiTag](riitag)<br> RiiTag é uma gamertag customizável para o seu Wii que tem integração com o WiiFlow Lite. A instalação é opcional.
+[Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that WiiFlow Lite can integrate with. A instalação é opcional.
 {: .notice--info}
 
 [Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
