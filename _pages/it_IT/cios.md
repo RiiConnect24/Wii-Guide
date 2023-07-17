@@ -43,7 +43,7 @@ Se non sei su Windows, dovrai scaricare & eseguire [questo script](/assets/files
 
 I file WAD dovranno essere posizionati nella tua scheda SD così: ![offline IOS files](/images/cios/d2x_offline_ios.png)
 {: .notice--info}
-##### Section II - Installing
+##### Sezione 2 - Installazione dei cIOS
 
 1. Scarica d2x cIOS Installer ed estrai l'archivio zip nella root della tua scheda SD o unità USB.
 1. Inserisci la scheda SD o unità USB nella tua Wii, e avvia d2x cIOS Installer dall'Homebrew Channel
@@ -56,7 +56,7 @@ Select cIOS slot: 248
 Select cIOS version: 65535
 ```
 
-![Install cIOS 249](/images/cios/d2x_v11_248.png)
+![Installa cIOS 249](/images/cios/d2x_v11_248.png)
 
 Se `d2x-v11-beta1` non viene mostrato, prova a selezionare prima la cIOS base, dopo riprova. Questo può anche succedere se la tua scheda SD è bloccata.
 {: .notice--info}
@@ -71,7 +71,7 @@ Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 
-![Install cIOS 250](/images/cios/d2x_v11_249.png)
+![Installa cIOS 250](/images/cios/d2x_v11_249.png)
 
 1. Una volta fatto, premi A due volte per installare.
 1. Quando l'installazione sarà terminata, premi A per tornare indietro, e imposta le seguenti opzioni:
@@ -83,7 +83,7 @@ Select cIOS slot: 250
 Select cIOS version: 65535
 ```
 
-![Install cIOS 250](/images/cios/d2x_v11_250.png)
+![Installa cIOS 250](/images/cios/d2x_v11_250.png)
 
 1. Una volta fatto, premi A due volte per installare.
 1. Quando l'installazione sarà terminata, premi A per tornare indietro, e imposta le seguenti opzioni:
@@ -95,11 +95,11 @@ Select cIOS slot: 251
 Select cIOS version: 65535
 ```
 
-![Install cIOS 251](/images/cios/d2x_v11_251.png)
+![Installa cIOS 251](/images/cios/d2x_v11_251.png)
 
 1. Una volta fatto, premi A due volte per installare, dopodiché esci al termine dell'installazione.
 
-#### Troubleshooting
+#### Risoluzione dei problemi
 
 {% capture bruh %}
 Sebbene la maggior parte dei giochi dovrebbe funzionare direttamente con le impostazioni default, alcuni giochi potrebbero richiedere cIOS specifici per funzionare, o per utilizzare funzioni specifiche all'interno del gioco.<br> Ad esempio:
