@@ -28,7 +28,7 @@ RiiConnect24 Clear Tool 是一个自制应用程序，可以修复以下特定�
 
 #### 步骤
 
-#### 第一部分 - 备份 Wii 留言板数据（可选）
+#### Section I - Backing up Wii Message Board Data
 
 1. 打开 Homebrew Channel 并打开 WiiXplorer。
 2. 进入 `nand` 并点击 `Start`，然后点击 `Settings`，再点击 `Boot Settings`，接着点击 `NAND Write Access`，选择 `Yes`。
@@ -38,12 +38,15 @@ RiiConnect24 Clear Tool 是一个自制应用程序，可以修复以下特定�
 
 #### 第二部分 - 删除 SYSCONF
 
+Deleting SYSCONF will erase the Wii Message Board history. Follow the section above if you would like to keep it.
+{: .notice--danger}
+
 1. 解压 RiiConnect24 Clear Tool 并将其放到 SD 卡或 U 盘的 apps 文件夹。
 2. 打开 Homebrew Channel，然后启动 RiiConnect24 Clear Tool。
 3. 加载 IOS 80，按 A 删除 SYSCONF，然后按 B 确认并重置长宽比。
 4. 按照正常步骤设置 Wii 并进入 `WiiConnect24`，接受 EULA 并打开待机连接。
 
-#### 第三部分 - 恢复 Wii 留言板数据（可选）
+#### Section III - Putting back Wii Message Board Data
 
 1. 回到 Homebrew Channel，打开 WiiXplorer 并移动至 `Start`，然后点击 `Settings`，接着点击 `Boot Settings`，并选择 `NAND Write Access`，然后选择 `Yes`。
 2. 再次将光标悬停在 `cdb.vff` 上，按下 + 按钮，然后选择 `Copy` 和 `Yes`。
@@ -55,5 +58,5 @@ RiiConnect24 Clear Tool 是一个自制应用程序，可以修复以下特定�
 1. 打开 sntp 以准确设置 Wii 的时钟。
 2. 最后，进行连接测试并尝试访问 Forecast Channel 和 News Channel 以确保错误已被修复。
 
-[返回到 RiiConnect24 安装页面](riiconnect24)
+[回到 RiiConnect24 安装页面](riiconnect24)
 {: .notice--info}
