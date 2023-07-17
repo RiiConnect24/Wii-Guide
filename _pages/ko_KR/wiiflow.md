@@ -23,19 +23,19 @@ USB 드라이브 또는 SD 카드에서 게임을 플레이하는 데 사용되�
 윈도우즈를 사용하는 경우 [Wii Backup Manager](/wiibackupmanager), 맥OS를 사용하는 경우 [Witgui](https://desairem.com/wordpress/category/witgui-download/), 윈도우즈, 맥OS, 리눅스의 경우 [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion)를 사용하여 게임을 복사하는 것을 권장합니다.
 {: .notice--info}
 
-NKit 형식의 게임을 플레이하려면 [이 프로그램](https://gbatemp.net/download/nkit.36157/)을 사용하여 먼저 ISO로 변환합니다. Dolphin의 개발 빌드를 사용하고 게임을 마우스 오른쪽 버튼으로 클릭한 다음 '파일 변환'을 사용하여 변환할 수도 있습니다.
+NKit 형식의 게임을 플레이하려면 [이 프로그램](https://gbatemp.net/download/nkit.36157/)을 사용하여 먼저 ISO로 변환합니다.
 {: .notice--info}
 
 Wii Backup Manager, Witgui, Wii Backup Fusion을 사용하여 게임을 복사하지 않는 경우, USB 드라이브 또는 SD 카드의 루트에 "wbfs"라는 이름의 폴더를 만들고 그 안에 게임을 넣습니다.
 {: .notice--info}
 
-게임을 플레이하려면, Wii용 외장 하드 드라이브를 사용하는 것이 좋습니다. 플래시 드라이브도 사용할 수 있지만, 더 안정적이고 더 많은 게임을 저장할 수 있는 외장 하드 드라이브를 권장합니다.
+게임을 플레이하려면, Wii용 외장 하드 드라이브를 사용하는 것이 좋습니다. 플래시 드라이브는 권장되지 않으며, 같은 제품이라도 작동 방식이 다를 수 있습니다.
 {: .notice--info}
 
-WiiFlow는 SD 카드 또는 USB 드라이브에서 게임을 로드할 수 있습니다.
+USB 드라이브의 포맷이 FAT32로 되어 있는지 확인합니다. ExFAT 또는 extFS와 같은 다른 유형으로 포맷하지 않습니다. <br> NTFS로 포맷할 수 있지만 대부분의 앱 (예: 홈브류 채널, Nintendont) 에서는 작동하지 않습니다.
 {: .notice--info}
 
-USB 드라이브가 FAT32 또는 NTFS로 포맷되어 있는지 확인합니다. FAT32는 NTFS와 달리 Wii와 게임큐브 게임을 모두 지원하므로 가장 이상적인 옵션입니다. ExFAT, extFS 또는 WBFS와 같은 다른 유형으로 포맷하지 마세요.
+WiiFlow can load games from an SD card or a USB drive.
 {: .notice--info}
 
 #### 방법
@@ -85,10 +85,7 @@ Flow 뷰 상태에서 커서를 화면 맨 밑으로 가져다 대면, 여섯 �
 
 ##### 끝난 뒤 할 수 있는 것
 
-[WiiFloWiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFloWiki는 WiiFlow에 대한 정보가 담긴 훌륭한 리소스입니다.
-{: .notice--info}
-
-[RiiTag로 계속하기](riitag)<br> RiiTag는 WiiFlow Lite와 통합할 수 있는 Wii용 커스터마이징 가능한 게이머 태그입니다. 이 설정은 선택 사항입니다.
+[Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that WiiFlow Lite can integrate with. 이 설정은 선택 사항입니다.
 {: .notice--info}
 
 [사이트 탐색 계속하기](site-navigation)<br> 여러분이 좋아할 만한 다른 자습서도 많이 있습니다.
