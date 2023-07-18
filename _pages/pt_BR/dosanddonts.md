@@ -19,9 +19,9 @@ Aqui está uma lista de coisas que você deve e não deve fazer quando modificar
 - **NÃO** modifique, renomeie ou exclua arquivos aleatórios na sua NAND da Wii a menos que você saiba o que está fazendo.
 - **NÃO** use o app homebrew "KoreanKii" em um Wii não-Coreano.
 - **NÃO** Instale qualquer IOS ou Menu Wii em um Wii Mini diferente de [d2xl cIOS](cios-mini). Fazer isso irá brickar seu console se uma placa de Wi-Fi não for soldada a ele.
-- **DO NOT** use any Nintendo Wi-Fi Connection replacement on your Wii except for [Wiimmfi](wiimmfi) unless you have an RCE patch code. Infelizmente, outros servidores de substituição estão vulneráveis a um exploit que pode danificar seu Wii se você usá-los. An RCE patch code will patch the exploit. [RiiConnect24](riiconnect24) and [WiiLink](wiilink) are safe to use as well.
-- **DO NOT** restore NANDs from other Wiis to your console via BootMii.
-- **DO NOT** use the homebrew app "Pimp my Wii". The tool is dangerous and does things that can make your Wii unstable. The features of Pimp my Wii are available on other safer apps.
+- **NÃO** use nenhuma substituição do Nintendo Wi-Fi Connection no seu Wii, exceto [Wiimmfi](wiimmfi). Infelizmente, outros servidores de substituição estão vulneráveis a um exploit que pode danificar seu Wii se você usá-los. Um patch de RCE vai patchear esse exploit. [RiiConnect24](riiconnect24) e [WiiLink](wiilink) são seguros de serem usados também.
+- **NÃO** restaure NANDs de outros Wiis para seu console via BootMii.
+- **NÃO** use o app homebrew "Pimp my Wii". A ferramenta é perigosa e faz coisas que podem deixar seu Wii instável. Os recursos do Pimp my Wii estão disponíveis em outros apps mais seguros.
 
 Se você seguir essas diretrizes, você não terá que se preocupar com bricks em seu Wii. Modificar seu Wii é seguro, e os bricks geralmente ocorrem devido a algo feito pelo usuário que está nessa lista.
 
