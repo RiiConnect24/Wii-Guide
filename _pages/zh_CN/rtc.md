@@ -18,7 +18,7 @@ title: "设置 RTC 时间"
 
 #### 步骤
 
-1. 下载并解压 sntp zip 到 SD 卡或移动硬盘/U 盘的根目录。
+1. 下载并解压 sntp 到 SD 卡或移动硬盘/U 盘的根目录。
 2. 把你的SD卡或U盘插入Wii。
 3. 启动 Wii 上的 Homebrew Channel。
 4. 启动 sntp。
