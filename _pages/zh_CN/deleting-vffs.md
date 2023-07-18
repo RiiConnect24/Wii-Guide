@@ -28,7 +28,7 @@ RiiConnect24 Clear Tool 是一个自制应用程序，可以修复以下特定�
 
 #### 步骤
 
-#### Section I - Backing up Wii Message Board Data
+#### 第一部分 - 备份 Wii 留言板数据
 
 1. 打开 Homebrew Channel 并打开 WiiXplorer。
 2. 进入 `nand` 并点击 `Start`，然后点击 `Settings`，再点击 `Boot Settings`，接着点击 `NAND Write Access`，选择 `Yes`。
@@ -38,7 +38,7 @@ RiiConnect24 Clear Tool 是一个自制应用程序，可以修复以下特定�
 
 #### 第二部分 - 删除 SYSCONF
 
-Deleting SYSCONF will erase the Wii Message Board history. Follow the section above if you would like to keep it.
+删除 SYSCONF 将清除 Wii 留言板的历史记录。 Follow the section above if you would like to keep it.
 {: .notice--danger}
 
 1. 解压 RiiConnect24 Clear Tool 并将其放到 SD 卡或 U 盘的 apps 文件夹。
