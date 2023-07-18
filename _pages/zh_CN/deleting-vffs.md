@@ -38,7 +38,7 @@ RiiConnect24 Clear Tool 是一个自制应用程序，可以修复以下特定�
 
 #### 第二部分 - 删除 SYSCONF
 
-删除 SYSCONF 将清除 Wii 留言板的历史记录。 Follow the section above if you would like to keep it.
+删除 SYSCONF 将清除 Wii 留言板的历史记录。 如果您想保留留言板的历史纪录，请按照上面的部分进行操作。
 {: .notice--danger}
 
 1. 解压 RiiConnect24 Clear Tool 并将其放到 SD 卡或 U 盘的 apps 文件夹。
@@ -46,7 +46,7 @@ RiiConnect24 Clear Tool 是一个自制应用程序，可以修复以下特定�
 3. 加载 IOS 80，按 A 删除 SYSCONF，然后按 B 确认并重置长宽比。
 4. 按照正常步骤设置 Wii 并进入 `WiiConnect24`，接受 EULA 并打开待机连接。
 
-#### Section III - Putting back Wii Message Board Data
+#### 第三部分 - 恢复 Wii 留言板数据
 
 1. 回到 Homebrew Channel，打开 WiiXplorer 并移动至 `Start`，然后点击 `Settings`，接着点击 `Boot Settings`，并选择 `NAND Write Access`，然后选择 `Yes`。
 2. 再次将光标悬停在 `cdb.vff` 上，按下 + 按钮，然后选择 `Copy` 和 `Yes`。
