@@ -35,7 +35,7 @@ title: "WiiFlow"
 确保已将移动硬盘/U 盘格式化为 FAT32 格式。 不要将它格式化为其它类型，如 exFAT 或 extFS。 <br>您可以将其格式化为 NTFS，但它不能与大多数应用程序（如 Homebrew Channel 和 Nintendont）配合使用。
 {: .notice--info}
 
-WiiFlow can load games from an SD card or a USB drive.
+WiiFlow 可以从 SD 卡或移动硬盘/U 盘加载游戏。
 {: .notice--info}
 
 #### 步骤
@@ -85,7 +85,7 @@ WiiFlow can load games from an SD card or a USB drive.
 
 ##### 完成后的选项
 
-[Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that WiiFlow Lite can integrate with. 这是可选的设置。
+[继续安装 RiiTag](riitag)<br> RiiTag 是您 Wii 的可定制游戏标志，可以与 WiiFlow Lite 集成使用。 这是可选的设置。
 {: .notice--info}
 
 [继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
