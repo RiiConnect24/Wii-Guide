@@ -16,18 +16,20 @@ LetterBomb是Wii的一种漏洞，它是使用Wii留言板触发的。
 #### 步骤
 
 1. 在你的 Wii 上，前往`Wii 设置` -> `Internet` -> `主机信息`，并记下您的 MAC 地址。
-1. 请访问 [please.hackmii.com](https://please.hackmii.com/)，输入您的 Wii 的 MAC 地址和区域，确保已勾选 `Bundle the HackMii Installer for me!` ，然后剪断其中一根电线。 ![HackMii 屏幕](/images/Wii/LetterBomb-PC.png)
-1. 将下载的 ZIP 的内容解压到您 SD 卡的根目录中。
-1. 取出 SD 卡并将它插入 Wii。
-   - 必须将 SD 卡插入 Wii 前面的 SD 卡槽中。 使用插入到 Wii USB 接口的 USB 读卡器是无效的。
-1. 在 Wii 上，回到 Wii 菜单，然后打开 Wii 留言板。
-1. 点击带炸弹图标的红色信。
-   - 请确保 Wii 的日期正确，否则您可能找不到信。
-   - 在不同的情况下，您可能需要查看前一天或后一天才能找到它。
-   - 如果您没有看到红色信，请检查 `数据管理` 中的 SD 卡部分是否有任何错误。 如果有任何问题，可能是由于 SD 卡格式或 Wii 的 SD 卡槽出现问题。
-   - 如果 Wii 在点击信后卡住，可能是在下载时选择了错误的区域。 重新执行第 2 步，并选择正确的区域。
+1. Visit [please.hackmii.com](https://please.hackmii.com/), input your Wii MAC and region, ensure `Bundle the HackMii Installer for me!` is checked, and cut either wire.
 
-![LetterBomb Wii 菜单](/images/Wii/LetterBomb-Wii.png)
+![HackMii Screen](/images/Wii/LetterBomb-PC.png)
+1. Extract the contents of the downloaded ZIP to the root of your SD card.
+1. Take out your SD card and insert it in your Wii.
+   - The SD card must be inserted in the SD card slot located in the front of the Wii. Using a USB adapter plugged into the Wii's USB port will not work.
+1. On your Wii, return to the Wii Menu and then open the Wii Message Board.
+1. Load the red letter with a bomb icon.
+   - Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
+   - In various scenarios, you may need to look at the previous or next day to find it.
+   - If you don't see the red letter, check if any errors appear in the SD card sections in `Data Management`. If any do, there may be an issue with the SD card format or the Wii’s SD card reader.
+   - If your Wii freezes after clicking on the letter, you probably chose the wrong region when downloading the exploit. Redo Step 2 and select the correct region.
+
+![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
 
 [继续到 安装 Homebrew Channel 和 BootMii](hbc)
 {: .notice--info}
