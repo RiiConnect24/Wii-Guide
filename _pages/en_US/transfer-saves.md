@@ -11,11 +11,11 @@ This guide will explain how to transfer save games between a Wii, Wii U and Dolp
 <div id="wii" class="tabcontent from" markdown="1">
 ## From a Wii
 
-<button class="btn btn--info btn--large tablinks to" onClick="openTab_to(event, 'wii-vwii')">To a Wii U (vWii)</button>
+<button class="btn btn--info btn--large tablinks to" onClick="openTab_to(event, 'wii-vwii')">To a Wii/Wii U (vWii)</button>
 <button class="btn btn--info btn--large tablinks to" onClick="openTab_to(event, 'wii-dol')">To Dolphin emulator</button>
 
 <div id="wii-vwii" class="tabcontent to" markdown="1">
-### To a Wii U (vWii)
+### To a Wii or Wii U (vWii)
 
 <button class="btn btn--info btn--large tablinks via" onClick="openTab_via(event, 'wii-vwii-data')">via Data Management</button>
 
@@ -32,9 +32,10 @@ This guide will explain how to transfer save games between a Wii, Wii U and Dolp
 1. Select a save you would like to transfer, then select `Copy`.
   * If the `Copy` button is greyed out, you will need to [install Priiloader](priiloader) to disable the copy protection.
 1. Repeat the previous step for each save you would like to transfer.
-1. Once you are finished, put the SD card into your Wii U.
-1. On your Wii U, Launch Wii Mode.
+1. Once you are finished, put the SD card into your Wii or Wii U.
+1. If on a Wii U, launch Wii Mode.
 1. In the Wii Menu, select the `Wii Options` at the bottom left.
+1. If on a Wii, Select `Data Management`.
 1. Select `Save Data`, then `Wii`.
 1. Select the `SD Card` tab at the top right.
 1. Select one of the saves you have copied to your SD card, then select `Copy`.
