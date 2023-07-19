@@ -36,10 +36,10 @@ Certifique-se de que seu armazenamento USB está formatado como FAT32. Não form
 
 ##### Seção II - Copiando os Jogos
 
-1. Go to the `Drive 1` tab, then select the drive that you're putting the Wii games on. ![Select drive](/images/WBM/select_drive.png)
-1. Go to the `Files` tab, then select `Add`. <br> Select `Files` to add multiple games to the program, or select `Folder` to add a whole folder of games. ![Select games](/images/WBM/select_games.png)
-1. Go to `Select`, then click `Games not on drive 1`. ![Highlight games](/images/WBM/select_games2.png)
-1. Select `Transfer`, then select `Drive 1` to transfer the games over. It might take a while for the games to copy over. ![Transfer games](/images/WBM/transfer_todrive.png)
+1. Vá para a aba `Drive 1`, então selecione o armazenamento que você deseja colocar jogos de Wii. ![Selecione o armazenamento](/images/WBM/select_drive.png)
+1. Vá para a aba `Files`, então selecione `Add`. <br> Selecione `Files` para adicionar vários jogos ao programa, ou selecione `Folder` para adicionar uma pasta inteira de jogos. ![Selecione os jogos](/images/WBM/select_games.png)
+1. Vá para `Select`, então clique `Games not on drive 1`. ![Destaque os jogos](/images/WBM/select_games2.png)
+1. Selecione `Transfer`, então selecione `Drive 1` para transferir os jogos. Talvez demore um pouco para os jogos serem copiados. ![Transfira os jogos](/images/WBM/transfer_todrive.png)
 
 ##### Opções assim que completo
 
