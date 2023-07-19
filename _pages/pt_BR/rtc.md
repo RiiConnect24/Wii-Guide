@@ -11,14 +11,14 @@ Você precisa de uma conexão com a Internet para usar este aplicativo.
 Nestes passos, você irá sincronizar seu Wii com um servidor de horário NTP. Isso vai configurar o relógio do seu Wii para o horário correto para prevenir potenciais problemas quando for instalar serviços como o RiiConnect24.
 
 #### Você precisará de
-* A working Internet connection on your Wii
+* Uma conexão de internet funcionando no seu Wii
 * O Homebrew Channel
 * Um cartão SD ou armazenamento USB
 * [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
 
 #### Instruções
 
-1. Download and extract the sntp zip to the root of your SD card or USB drive.
+1. Baixe e extraia o zip do sntp para a raíz do seu cartão SD ou armazenamento USB.
 2. Insira o cartão SD ou armazenamento USB no Wii.
 3. Inicie o Homebrew Channel no Wii.
 4. Inicie o sntp.
