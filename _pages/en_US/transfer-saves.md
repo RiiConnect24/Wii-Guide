@@ -5,17 +5,17 @@ title: "Transferring save games"
 This guide will explain how to transfer save games between a Wii, Wii U and Dolphin Emulator.
 
 <button class="btn btn--large btn--info tablinks" onClick="openTab_from(event, 'from-wii')">From a Wii</button>
-<button class="btn btn--large btn--info tablinks" onClick="openTab_from(event, 'from-wiiu')">From a Wii U</button>
+<button class="btn btn--large btn--info tablinks" onClick="openTab_from(event, 'from-vwii')">From a Wii U (vWii)</button>
 <button class="btn btn--large btn--info tablinks" onClick="openTab_from(event, 'from-dol')">From Dolphin emulator</button>
 
 <div id="from-wii" class="tabcontent from" markdown="1">
-# From a Wii
+## From a Wii
 
-<button class="btn btn--info tablinks" onClick="openTab_to(event, 'wii-to-wiiu')">To a Wii U</button>
+<button class="btn btn--info tablinks" onClick="openTab_to(event, 'wii-to-vwii')">To a Wii U (vWii)</button>
 <button class="btn btn--info tablinks" onClick="openTab_to(event, 'wii-to-dol')">To Dolphin emulator</button>
 
-<div id="wii-to-wiiu" class="tabcontent to" markdown="1">
-### To a Wii U
+<div id="wii-to-vwii" class="tabcontent to" markdown="1">
+### To a Wii U (vWii)
 
 #### via Data Management
 
@@ -40,6 +40,8 @@ This guide will explain how to transfer save games between a Wii, Wii U and Dolp
 
 </div>
 
+<div id="wii-to-dol" class="tabcontent to" markdown="1">
+
 </div>
 
 <script>
@@ -50,23 +52,6 @@ This guide will explain how to transfer save games between a Wii, Wii U and Dolp
     const tabcontent		= document.getElementsByClassName('tabcontent');
 	const tabcontent_from	= document.getElementsByClassName('tabcontent from');
     const tabcontent_to		= document.getElementsByClassName('tabcontent to');
-    /* function openTab(evt, tabName) {
-        let element;
-
-        for (element of tabcontent) {
-            element.style.display = "none";
-        }
-
-        for (element of tablinks) {
-            element.className = element.className.replace("btn--primary", "btn--info");
-        }
-
-        document.getElementById(tabName).style.display = "block";
-        evt.currentTarget.className = evt.currentTarget.className.replace("btn--info", "btn--primary");
-    } */
-
-    // Get the element with id="defaultOpen" and click on it
-    // document.getElementById("defaultOpen").click(); */
     
     for (e of tabcontent) { e.style.display = 'none'; }
     
