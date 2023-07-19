@@ -35,7 +35,7 @@ Para jogar jogos, nós recomendamos utilizar um armazenamento externo para seu W
 Certifique-se de que seu armazenamento USB está formatado como FAT32. Não formate-o para outros tipos como exFAT ou extFS. <br> Você pode formatá-lo para NTFS, mas não vai funcionar com a maioria dos apps (ex. Homebrew Channel, Nintendont)
 {: .notice--info}
 
-WiiFlow can load games from an SD card or a USB drive.
+WiiFlow pode carregar jogos de um cartão SD ou armazenamento USB.
 {: .notice--info}
 
 #### Instruções
@@ -85,7 +85,7 @@ Quando você leva o cursor a parte inferior da tela enquanto está na visualiza�
 
 ##### Opções assim que completo
 
-[Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that WiiFlow Lite can integrate with. A instalação é opcional.
+[Continue para RiiTag](riitag)<br> RiiTag é uma gamertag customizável para o seu Wii que tem integração com o WiiFlow Lite. A instalação é opcional.
 {: .notice--info}
 
 [Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
