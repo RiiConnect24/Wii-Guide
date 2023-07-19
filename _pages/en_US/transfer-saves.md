@@ -11,8 +11,8 @@ This guide will explain how to transfer save games between a Wii, Wii U and Dolp
 <div id="from-wii" class="tabcontent from" markdown="1">
 ## From a Wii
 
-<button class="btn btn--info tablinks" onClick="openTab_to(event, 'wii-to-vwii')">To a Wii U (vWii)</button>
-<button class="btn btn--info tablinks" onClick="openTab_to(event, 'wii-to-dol')">To Dolphin emulator</button>
+<button class="btn btn--info tablinks to" onClick="openTab_to(event, 'wii-to-vwii')">To a Wii U (vWii)</button>
+<button class="btn btn--info tablinks to" onClick="openTab_to(event, 'wii-to-dol')">To Dolphin emulator</button>
 
 <div id="wii-to-vwii" class="tabcontent to" markdown="1">
 ### To a Wii U (vWii)
@@ -46,12 +46,10 @@ This guide will explain how to transfer save games between a Wii, Wii U and Dolp
 
 <script>
 	const tablinks			= document.getElementsByClassName('tablinks');
-    const tablinks_from		= document.getElementsByClassName('tablinks from');
-    const tablinks_to		= document.getElementsByClassName('tablinks from');
+    const tablinks_to		= document.getElementsByClassName('tablinks to');
     
     const tabcontent		= document.getElementsByClassName('tabcontent');
-	const tabcontent_from	= document.getElementsByClassName('tabcontent from');
-    const tabcontent_to		= document.getElementsByClassName('tabcontent to');
+	const tabcontent_to		= document.getElementsByClassName('tabcontent to');
     
     for (e of tabcontent) { e.style.display = 'none'; }
     
