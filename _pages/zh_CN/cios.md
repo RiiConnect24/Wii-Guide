@@ -141,3 +141,28 @@ Select cIOS version: 65535
 
 你现在可以使用一些自制软件，例如 [USB Loader GX](usbloadergx) 和 [WiiFlow](wiiflow)。
 {: .notice--info}
+
+<script>
+    let tabcontent = document.getElementsByClassName("blanktabcontent");
+    let tablinks = document.getElementsByClassName("tablinks");
+
+    function openTab(evt, tabName) {
+        let element;
+
+        for (element of tabcontent) {
+            element.style.display = "none";
+        }
+
+        for (element of tablinks) {
+            element.className = element.className.replace("btn--primary", "btn--info");
+            if (!element.className.includes('btn--info'))
+                element.className += " btn--info";
+        }
+
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className = evt.currentTarget.className.replace("btn--info", "btn--primary");
+    }
+
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpen").click();
+</script>
