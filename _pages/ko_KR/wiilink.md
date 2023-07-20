@@ -6,6 +6,9 @@ title: "WiiLink"
 
 [WiiLink](https://wiilink24.com/)를 이용하면 Wii 룸, 디지캠 프린트 채널, 푸드 채널로 알려진 일본 전용 채널을 다시 이용할 수 있습니다.
 
+The Kirby TV Channel is back! <br> If you installed it previously, please follow the instructions to update it.
+{: .notice--success}
+
 #### 필요한 것
 
 - SD 카드 및 USB 드라이브
@@ -17,7 +20,7 @@ title: "WiiLink"
 
 ##### 섹션 I - WAD 패치하기
 
-[WAD를 설치하는 방법에 대한 자세한 사용 설명을 보려면 여기를 클릭하세요!](wiimodlite)
+[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
 {: .notice--info}
 
 1. 운영 체제에 따라 `<OS Platform>`이 `윈도우즈`, `맥OS` 또는 `리눅스`인 경우 `WiiLink_Patcher_<OS Platform>_v1.X.XX`를 다운로드합니다.
@@ -28,27 +31,27 @@ title: "WiiLink"
    - 먼저 터미널에 <br>`chmod +x WiiLink_Patcher_<OS Platform>_v1.X.X`를 입력하여 파일 실행 권한을 부여합니다. 운영 체제에 따라<br>`<OS 플랫폼>`을 `맥OS` 또는 `리눅스`로 교체합니다.
    - 그런 다음 동일한 터미널 창에 `./WiiLink_Patcher_<OS Platform>_v1.X.X`를 입력하여 패치 관리자를 실행합니다.
 4. 휴대용 저장 장치가 성공적으로 감지되었다면 `SD Card detected`라는 메시지가 표시됩니다. 그렇지 않은 경우 SD 카드 또는 USB 장치의 위치를 수동으로 선택해야 합니다.
-5. 1 버튼을 눌러 메인 메뉴에서 `시작`를 선택하면 WiiLink의 빠른 설치 설정이 시작됩니다.
-6. 화면의 안내에 따라 사용 가능한 채널의 버전을 선택합니다.
-7. 패치 관리자가 SD 카드나 USB 드라이브에 파일을 다운로드하는 데 시간이 걸릴 수 있습니다.
-8. 완료되면 패치 관리자를 안전하게 닫을 수 있습니다. 모든 파일이 SD 카드에 준비되어 있습니다.
-9. SD 카드나 USB 장치에 모든 것이 자동으로 복사되지 않았다면, <br>`WiiLink_Patcher_<OS 플랫폼>_v1.X.X` 옆에 있는 `WAD` 및 `apps` 폴더를 SD 카드나 USB 장치의 루트에 복사합니다.
+5. Press 1 to choose `Start` on the main menu, to start the Express Install Setup of WiiLink. <br> Or, you can press 2 to start a Custom Install.
+6. Follow the on screen instructions to select which versions of the available channels you would like.
+7. It may take a moment for the patcher to download the files to your SD Card or USB Drive.
+8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
+9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to<br>`WiiLink_Patcher_<OS Platform>_v1.X.X` to the root of your SD Card or USB Device.
 10. Wii에 SD 카드나 USB 드라이브를 연결합니다.
 11. Wii에서 홈브류 채널을 실행합니다.
 12. Wii Mod Lite를 실행합니다.
-13. Wii 리모컨의 십자 패드를 사용하여 `WAD Manager`로 이동한 다음 `wad` 폴더로 이동합니다.
-14. Wii를 사용하는 지역이 일본이 아닌 경우, (콘솔 플랫폼에 따라) `WiiLink_SPD (Wii).wad` 또는 `WiiLink_SPD (vWii).wad`을 먼저 설치하세요. 파일을 전송할 이메일 주소를 알기 위해 필요한 정보입니다.
-15. 이름에 `WiiLink`가 있는 다른 모든 WAD를 강조 표시하고 + 버튼을 눌러 선택합니다. 모두 선택했으면 A 버튼을 두 번 눌러 WAD를 설치합니다.
-    - 이전에 날씨 채널과 닌텐도 채널의 RiiConnect24 버전을 설치한 경우, WiiLink를 설치하면 해당 버전을 덮어쓰게 됩니다.
+13. Wii 리모컨의 +컨트롤 패드를 사용하여 `WAD Manager`로 이동한 다음 `wad` 폴더로 이동합니다.
+14. If your Wii is not a Japanese region, install `WiiLink_SPD (Wii).wad` or `WiiLink_SPD (vWii).wad` (Depending on console platform) before anything else. This is required so that we know your email address to send files.
+15. Highlight all other WADs with `WiiLink` in the name and press + to select them. When all of them are selected, press A twice to install the WADs.
+    - If you have previously installed the RiiConnect24 versions of the Forecast Channel and the Nintendo Channel, installing WiiLink's will overwrite them.
 
 16. 설치가 완료되면 HOME 버튼을 눌러 홈브류 채널로 돌아갑니다.
 
-WiiLink의 푸드 배달 채널로 도미노 피자를 주문하고 싶으세요? <br>[이 가이드를 따르세요!](wiilink-demae-dominos)
+Want to order Domino's Pizza with WiiLink's Food Delivery Channel?<br>[Follow this guide!](wiilink-demae-dominos)
 {: .notice--info}
 
 ##### 섹션 II - 주소 정보에 이메일 추가 (개인 데이터 설정)
 
-주소 정보(SPD) 설정 메뉴에 이메일을 추가하면 디지캠 프린트 채널에서 해당 이메일을 사용하여 생성한 이미지를 이메일로 전송할 수 있습니다.
+Adding your email to the Address Information (SPD) settings menu will allow the Digicam Print Channel to send images to your email that you created using it.
 {: .notice--info}
 
 1. Wii의 홈 메뉴에서 디지캠 프린트 채널을 실행합니다.
@@ -57,7 +60,7 @@ WiiLink의 푸드 배달 채널로 도미노 피자를 주문하고 싶으세요
 4. `확인`을 누른 다음 `완료`를 누릅니다.
 5. 주소 정보 메뉴로 돌아오면 `선택 채널` 메뉴에서 `디지캠`을 선택합니다. 이 작업을 완료하면 작동합니다!
 
-PAL (유럽 Wii) 의 경우<br> Wii 설정에서 TV 해상도를 60Hz (480p/480i) 로 설정하세요. `화면 -> TV 해상도`에서 확인할 수 있습니다. 그렇지 않은 경우 화면 하단에 시야를 가리는 분홍색 막대가 나타납니다.
+For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
 {: .notice--info}
 
 [RiiConnect24로 계속하기](riiconnect24)<br> RiiConnect24를 사용하면 뉴스, 날씨, 모두의 투표, 닌텐도, Check Mii Out 채널, Wii 메일 등 WiiConnect24에서 중단된 서비스를 Wii 메일과 함께 이용할 수 있습니다. 설치는 선택 사항입니다.
