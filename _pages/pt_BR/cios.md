@@ -30,6 +30,9 @@ Certifique-se de que se você estiver usando um cartão SD, a trava de bloqueio 
 Se seu Wii tem uma conexão com a Internet, você pode pular esta seção. Porém, se você encontrar quaisquer erros como `tcp_read timeout` e `net_gethostbyname failed:`, isso permitirá que o Wii pule o download.
 {: .notice--warning}
 
+Se você não está no Windows, você pode baixar & executar [este script](/assets/files/d2x_offline_ios.sh), que irá baixar os arquivos WAD para você.
+{: .notice--info}
+
 1. Baixe, extraia e execute o [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
 1. Selecione "Database", "IOS" e, em seguida, "IOS38", e selecione "v4123".
    - Verifique se a caixa "Pack WAD" está habilitada.
@@ -136,5 +139,30 @@ Uma lista mais completa (embora ainda incompleta) pode ser encontrada [**aqui**]
 [Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.
 {: .notice--info}
 
-Você agora poderá usar homebrew como [USB Loader GX](usbloadergx) e [WiiFlow](wiiflow).
+Você agora poderá usar homebrew como o [USB Loader GX](usbloadergx) e [WiiFlow](wiiflow).
 {: .notice--info}
+
+<script>
+    let tabcontent = document.getElementsByClassName("blanktabcontent");
+    let tablinks = document.getElementsByClassName("tablinks");
+
+    function openTab(evt, tabName) {
+        let element;
+
+        for (element of tabcontent) {
+            element.style.display = "none";
+        }
+
+        for (element of tablinks) {
+            element.className = element.className.replace("btn--primary", "btn--info");
+            if (!element.className.includes('btn--info'))
+                element.className += " btn--info";
+        }
+
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className = evt.currentTarget.className.replace("btn--info", "btn--primary");
+    }
+
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpen").click();
+</script>

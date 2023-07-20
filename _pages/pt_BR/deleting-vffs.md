@@ -28,7 +28,7 @@ RiiConnect24 Clear Tool é um aplicativo homebrew que pode corrigir esses erros 
 
 #### Instruções
 
-#### Seção I - Fazendo Backup dos dados do Wii Message Board (Opcional)
+#### Seção I - Fazendo Backup dos dados do Wii Message Board
 
 1. Abra o Homebrew Channel e abra o WiiXplorer.
 2. Vá para `nand` e clique em `Start`, então `Settings`, então `Boot Settings`, então `NAND Write Access`, e selecione `Yes`.
@@ -38,12 +38,15 @@ RiiConnect24 Clear Tool é um aplicativo homebrew que pode corrigir esses erros 
 
 #### Seção II - Deletando SYSCONF
 
+Deletar o SYSCONF vai apagar o histórico do Wii Message Board. Siga a seção abaixo se deseja mantê-lo.
+{: .notice--danger}
+
 1. Extraia o RiiConnect24 Clear Tool e coloque dentro da pasta apps no seu cartão SD ou USB.
 2. Abra o Homebrew Channel e então inicie o RiiConnect24 Clear Tool.
 3. Carregue a IOS 80 e pressione A para deletar o SYSCONF, então pressione B para confirmar e redefinir a proporção da tela.
 4. Configure o Wii como normalmente e vá para `WiiConnect24`, aceite o EULA e ligue a conexão standby.
 
-#### Seção III - Colocando de volta os dados do Wii Message Board (Opcional)
+#### Seção III - Colocando de volta os dados do Wii Message Board
 
 1. Volte para o Homebrew Channel e abra o WiiXplorer e navegue para `Start`, então `Settings`, então `Boot Settings`, e selecione `NAND Write Access` e `Yes`.
 2. Destaque `cdb.vff` novamente e pressione o botão +, então selecione `Copy` e então `Yes`.

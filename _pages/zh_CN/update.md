@@ -52,10 +52,10 @@ title: "更新 Wii 菜单至 v4.3"
 您可以使用手柄来使用此工具。
 {: .notice--info}
 
-1. 将 SD 卡或 U 盘插入 Wii。
+1. 将SD卡或U盘插入Wii。
 2. 启动 Wii 上的 Homebrew Channel。
-3. 启动 Wii Mod Lite。
-4. 使用 Wii 遥控器上的方向键移动到 `WAD Manager`，然后移动到 `wad` 文件夹。
+3. 启动Wii Mod Lite。
+4. 使用 Wii 遥控器上的方向键，移动到 `WAD Manager`，然后移动到 `wad` 文件夹。
 5. 按 A 安装 IOS80 的 `.wad` 文件。 【`确保安装成功，否则请中止。`】
 6. 按 A 安装 Wii 菜单 WAD。
 7. 按 A 安装 IOS58 的 `.wad` 文件。 【`确保安装成功，否则请中止。`】

@@ -1,94 +1,94 @@
 ---
-title: "Dumping Wii/GameCube games"
+title: "Wii/게임큐브 게임 덤프하기"
 ---
 
-Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending on the tools you have available with you.
+Wii나 게임큐브 디스크를 덤프하고 싶나요? 두 방법이 있고, 아래 중 가능한 도구의 선택에 따라 방법이 달라집니다.
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'dump-smb')">To a PC over the network</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">SD 카드/USB 드라이브로</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'dump-smb')">네트워크를 통해 PC로</button>
 
 <div id="cleanrip" class="blanktabcontent" markdown="1">
 
 ### CleanRip
 
-#### What you need
+#### 필요한 것
 
-- An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
+- 최소 4.7GB의 여유 공간 (듀얼 레이어 디스크를 덤프하는 경우 8.5GB) 이 있는 SD 카드 또는 USB 드라이브
 - [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
 
-#### Instructions
+#### 사용 방법
 
-##### Section I - Downloading/Installing
+##### 섹션 I - 다운로드/설치하기
 
-1. Extract CleanRip and put it in the `apps` folder on your SD card or USB drive.
-1. Insert your SD card into your Wii, and launch CleanRip from the Homebrew Channel.
+1. CleanRip을 압축 해제하고 SD 카드 및 USB 드라이브의 `apps` 폴더에 붙여넣으세요.
+1. Wii에 SD 카드를 연결하고, 홈브류 채널에서 CleanRip을 실행합니다.
 
-##### Section II - Ripping
+##### 섹션 II - 리핑
 
-1. Select your device that you will be dumping the game to - your USB drive or SD card. ![Device type](/images/CleanRip/2.png)
-1. On this screen, it asks you if you want to download a file with game checksums so you can verify the dump created is a 1:1 copy of the disc. It's your choice whether to say `Yes` or `No` to download this file. ![DAT](/images/CleanRip/3.png)
-1. Now insert the game you want to dump. ![DVD](/images/CleanRip/4.png) ![Initialising Disc](/images/CleanRip/5.png)
-1. Set it as shown on the screen below.
-If you are dumping one of the 13 games on [this list](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games), set `Dual Layer` to `Yes`.
+1. 게임을 덤프할 장치 (USB 드라이브 또는 SD 카드) 를 선택합니다.![장치 유형](/images/CleanRip/2.png)
+1. 이 화면에서는, 생성된 덤프가 디스크의 1:1 복사본인지 확인할 수 있도록 게임 체크섬이 포함된 파일을 다운로드할 것인지 묻는 메시지가 표시됩니다. 이 파일을 다운로드할지 `예` 또는 `아니요`로 응답할지 선택할 수 있습니다. ![DAT](/images/CleanRip/3.png)
+1. 덤프할 게임을 넣습니다. ![DVD](/images/CleanRip/4.png) ![디스크 초기화 중](/images/CleanRip/5.png)
+1. 아래 화면과 같이 설정합니다.
+title: "CleanRip"
 {: .notice--info}
-![Settings](/images/CleanRip/6.png)
+![설정](/images/CleanRip/6.png)
 
-1. CleanRip will now dump your game. It can take a while, since it will dump the full 4.7 GB disc contents (8.5 GB for dual layer discs). ![Copying](/images/CleanRip/7.png)
+1. 이제 CleanRip이 게임을 덤프합니다. 4.7GB 디스크 콘텐츠 전체 (듀얼 레이어 디스크의 경우 8.5GB) 를 덤프하기 때문에 시간이 걸릴 수 있습니다. ![복사 중](/images/CleanRip/7.png)
 </div>
 
 <div id="dump-smb" class="blanktabcontent" markdown="1">
 
-### Dumping a game over a local network
+### 로컬 네트워크를 통해 게임 덤핑하기
 
-#### What you need
+#### 필요한 것
 
-- [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
-Your Wii and your computer must be connected to one local network.
+- [DVD 덤프 도구](/assets/files/DVDDumpTool.zip)
+Wii와 컴퓨터는 하나의 로컬 네트워크에 연결되어 있어야 합니다.
 {: .notice--warning}
 
-#### Instructions
+#### 사용 방법
 
-##### Section I - Downloading/Installing
+##### 섹션 I - 다운로드/설치하기
 
-1. Extract DVD Dump Tool and put it in the `apps` folder on your SD card or USB drive.
-1. Insert your SD card into your Wii, and launch DVD Dump Tool from the Homebrew Channel.
+1. DVD 덤프 도구를 압축 해제하고 SD 카드 또는 USB 드라이브의 `apps` 폴더에 넣습니다.
+1. Wii에 SD 카드를 연결하고 홈브류 채널에서 DVD 덤프 도구를 실행합니다.
 
-##### Section II - Ripping
+##### 섹션 II - 리핑
 
-1. Press the right on the D-pad and press A. ![2](/images/DumpDiscs_LAN/2.png)
-1. Choose the disc that you want to copy (The options are: `GameCube Disc`, `Wii Single-Layer Disc`, `Wii Dual-Layer Disc` and press "A" ![3](/images/DumpDiscs_LAN/3.png)
-1. Now put your game to your Wii. (If it's already in your Wii, eject it and put it back.) ![InsertTheDisc](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
-1. Remember your Wii URL (IP address) ![5](/images/DumpDiscs_LAN/5.png)
-1. On your computer's web browser, go to your address bar and enter the Wii URL. ![6](/images/DumpDiscs_LAN/6.png)
-1. Click on `Click here to download XXXX.iso`. ![7](/images/DumpDiscs_LAN/7.jpg)
-The transfer speed is not the fastest, but if you can't use anything else, it's better than nothing.
+1. 십자패드의 오른쪽을 누르고 A 버튼을 누릅니다.![2](/images/DumpDiscs_LAN/2.png)
+1. 복사할 디스크를 선택합니다 (옵션은 다음과 같습니다: `게임큐브 디스크`, `Wii 싱글 레이어 디스크`, `Wii 듀얼 레이어 디스크`)를 누르고 "A" 버튼을 누릅니다. ![3](/images/DumpDiscs_LAN/3.png)
+1. Wii에 게임을 넣습니다. (이미 Wii에 있는 경우, 꺼내서 다시 넣으세요.) ![게임디스크삽입](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
+1. Wii URL (IP 주소) 기억합니다.![5](/images/DumpDiscs_LAN/5.png)
+1. 컴퓨터의 웹 브라우저에서 주소 표시줄로 이동하여 Wii URL을 입력합니다.![6](/images/DumpDiscs_LAN/6.png)
+1. `여기를 클릭하여 XXXX.iso 다운로드합니다`를 클릭하세요. ![7](/images/DumpDiscs_LAN/7.jpg)
+전송 속도가 가장 빠르지는 않지만, 다른 것을 사용할 수 없다면 없는 것보다는 낫습니다.
 {: .notice--info}
 ![8](/images/DumpDiscs_LAN/8.PNG)
 </div>
 
-## Joining split files
+## 분할 파일 결합
 
-If you dumped the disc on a FAT32 formatted, device, you should've got at least 2 files that end with `.partX.iso`. They need to be joined up.
+FAT32 포맷의 장치에 디스크를 덤프한 경우, `.partX.iso`으로 끝나는 파일이 2개 이상 있어야 합니다. 가입해야 합니다.
 {: .notice--info}
 
-## Windows
+## 윈도우즈
 
-1. Copy all the files that share the same name and end with `.partX.iso` into an empty folder on your computer.
-1. Open the folder in File Explorer.
-1. While holding Shift, right click on an empty space within the folder.
-1. Select "Open PowerShell window here".
-1. In the new window that appears, type `cmd` and press enter.
-1. Finally, type `copy /b *.part?.iso game.iso` and press enter.
-1. Wait until it finishes. You can confirm this when "1 file(s) copied." appears.
+1. 이름이 같고 끝이 `.partX.iso`으로 끝나는 모든 파일을 컴퓨터의 빈 폴더에 복사합니다.
+1. 파일 탐색기에서 폴더를 엽니다.
+1. Shift 키를 누른 상태에서 폴더 내의 빈 공간을 마우스 오른쪽 버튼으로 클릭합니다.
+1. "여기에서 PowerShell 창 열기"를 선택합니다.
+1. 새 창이 나타나면 `cmd`을 입력하고 Enter 키를 누릅니다.
+1. 마지막으로 `copy /b *.part?.iso game.iso`을 입력하고 Enter 키를 누릅니다.
+1. 완료될 때까지 기다리세요. "파일 1개가 복사되었습니다."라는 메시지가 나타나면 이를 확인할 수 있습니다.
 
-## macOS/Linux
+## 맥OS/리눅스
 
-1.  Copy all the files that share the same name and end with `.partX.iso` in a folder on your computer.
-1.  Open up a Terminal.
-1.  Use the `cd <path>` command and replace `<path>` by the path to your `.partX.iso` files.
-1.  Use the following command as is: `cat \*.part?.iso > game.iso`.
+1.  컴퓨터의 폴더에 이름이 같고 끝이 `.partX.iso`으로 끝나는 모든 파일을 복사합니다.
+1.  터미널을 엽니다.
+1.  `cd <path>` 명령을 사용하여 `<path>`을 `.partX.iso` 파일의 경로로 바꿉니다.
+1.  다음 명령을 그대로 사용합니다: `cat \*.part?.iso > game.iso`.
 
-To organize the games on your drive properly, you'll need to use [Wii Backup Manager](wiibackupmanager).
+드라이브에 있는 게임을 제대로 정리하려면 [Wii 백업 관리자](wiibackupmanager)를 사용해야 합니다.
 {: .notice--info}
 
 <script>

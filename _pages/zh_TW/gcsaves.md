@@ -16,7 +16,7 @@ Use of any GameCube peripheral with a Family Edition Wii or Wii Mini require sol
 
 ## Uploading an Individual Save (.gci File) to a Physical Memory Card
 
-#### What you need
+#### 必備項目
 
 - A Wii with GameCube ports
 - An SD Card or USB
@@ -47,7 +47,7 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 
 ## Backing Up A Save (.gci File) to an SD or USB From a Physical Memory Card
 
-#### What you need
+#### 必備項目
 
 - A Wii with GameCube ports
 - An SD Card or USB
@@ -72,7 +72,7 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 
 ## Backing Up Your Physical Memory Card Into an Emulated Memory Card (.raw file)
 
-#### What you need
+#### 必備項目
 
 - A Wii with GameCube ports
 - An SD Card or USB
@@ -94,7 +94,7 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 
 ## Restoring an Emulated Memory Save to a Physical Memory Card
 
-#### What you need
+#### 必備項目
 
 - A Wii with GameCube ports
 - An SD Card or USB
@@ -112,7 +112,7 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 
 ## Transferring Saves Between 2 Physical Memory Cards
 
-#### What you need
+#### 必備項目
 
 - A Wii with GameCube ports
 - At least 2 physical memory cards
@@ -130,5 +130,5 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 
 3. Find the save you want, select it and select `Move or Copy`.
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[繼續至網站導覽](site-navigation)<br> 我們還有許多您可能會喜歡的其他指南。
 {: .notice--info}

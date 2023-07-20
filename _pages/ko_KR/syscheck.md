@@ -4,26 +4,26 @@ title: "SysCheck"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+이 자습서와 관련하여 도움이 필요하면 [RiiConnect24 디스코드 서버](https://discord.gg/rc24) (추천) 에 가입하시거나, [support@riiconnect24.net](mailto:support@riiconnect24.net)로 이메일을 보내주세요.
 {: .notice--info}
 
-A SysCheck lists all the IOS and cIOS that are on your Wii, along with some information about each of them. It also gives you some other useful information. When you have IOS-related problems on your Wii, someone might ask you to do a SysCheck.
+SysCheck는 Wii에 있는 모든 IOS 및 cIOS가 나열되며, 각 항목에 대한 몇 가지 정보도 함께 표시됩니다. 또한 다른 유용한 정보도 제공합니다. Wii에서 IOS 관련 문제가 발생하면 누군가 SysCheck을 요청할 수 있습니다.
 
-#### What you need
+#### 필요한 것
 
-* An SD card or USB drive
+* SD 카드 및 USB 드라이브
 * [SysCheck ModMii Edition](https://hbb1.oscwii.org/hbb/SysCheckME/SysCheckME.zip)
 
-#### Instructions
-##### Section I - Downloading/Installing
+#### 방법
+##### 섹션 I - 다운로드/설치하기
 
-1. Extract SysCheck ModMii Edition to your SD card or USB drive.
-2. Insert your SD card or USB drive into your Wii, and launch SysCheck ModMii Edition from the Homebrew Channel.
+1. SD 카드 또는 USB 드라이브에 SysCheck ModMii Edition을 압축 해제합니다.
+2. Wii에 SD 카드 또는 USB 드라이브를 연결하고 홈브류 채널에서 SysCheck ModMii Edition을 실행합니다.
 
-##### Section II - Performing a SysCheck
+##### 섹션 II - SysCheck 실행하기
 
-1. Wait for the program to get some information about your Wii.
-2. When "This IOS will be tested (Please select)" is shown on the screen, press A. ![Choose IOS](/images/xfb1_n000562_640x480.png)
-3. Wait for the program to get some information about your IOS.
-4. After it finishes, press the `A` Button if you want to view the log. ![Completed](/images/xfb1_n000160_640x480.png)
-5. If you want to share the SysCheck, you can press the `A` Button, which will upload it to [syscheck.rc24.xyz](http://syscheck.rc24.xyz/) and give you a link. You can also share the `sysCheck.csv` saved to the root of your SD Card or USB Drive. The `IOSsysCheck.log` file (saved to the root as well) contains additional information about your IOS.
+1. 프로그램이 Wii에 대한 정보를 가져올 때까지 기다립니다.
+2. 화면에 "이 IOS를 테스트합니다 (선택해 주세요)"가 표시되면 A 버튼을 누릅니다.![IOS 선택](/images/xfb1_n000562_640x480.png)
+3. 프로그램이 IOS에 대한 정보를 얻을 때까지 기다립니다.
+4. 완료된 후 로그를 보려면 `A` 버튼을 누릅니다. ![완료](/images/xfb1_n000160_640x480.png)
+5. SysCheck를 공유하려면, `A` 버튼을 누르면 [syscheck.rc24.xyz](http://syscheck.rc24.xyz/)에 업로드되고 링크를 받을 수 있습니다. SD 카드 또는 USB 드라이브의 루트에 저장된 `sysCheck.csv`를 공유할 수도 있습니다. `IOSsysCheck.log` 파일 (루트에도 저장됨)에는 IOS에 대한 추가 정보가 포함되어 있습니다.

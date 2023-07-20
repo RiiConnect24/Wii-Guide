@@ -27,10 +27,10 @@ Do not use any other version of ThemeMii than the one linked here, as ThemeMii M
 We recommend you [install cIOS](cios) before continuing.
 {: .notice--info}
 
-#### What you need
+#### 必備項目
 
 * A Wii
-* An SD card or USB drive
+* 一張 SD 卡或 USB 隨身碟
 * A computer with Windows on it (or using Mono or Wine on Mac/Linux)
 * [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
 * [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
@@ -48,7 +48,7 @@ MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
 
 #### 操作說明
 
-##### Section I - Finding a Theme
+##### 第一節 — 尋找主題
 
 * Find a theme you want to install. Some themes have YouTube videos to show what the theme looks like, but unfortunately some of the videos are no longer available.
 * Once you found one you like, click the download link corresponding to your Wii Menu version. **It's very important to pick the correct version to avoid bricks.**

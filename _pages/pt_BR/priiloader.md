@@ -7,9 +7,13 @@ title: "Priiloader"
 Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
+![Ícone do Priiloader](/images/Priiloader/icon.png)
+
 O Priiloader adiciona um nível de proteção contra brick ao seu Wii. Ele carrega antes que o Menu do Wii (daí o nome). A ferramenta também pode habilitar hacks para seu Menu do Wii e pode ser usada para iniciar rapidamente o Homebrew Channel, BootMii ou qualquer homebrew que você quiser!
 
-![Priiloader](/images/Priiloader/priiloader.jpg)
+### Instalando o Priiloader
+
+![Instalando o Priiloader](/images/Priiloader/priiloader.jpg)
 
 **Não** instale o Priiloader em um vWii (Modo Wii no Wii U). Você vai causar um brick no seu vWii fazendo isso.
 {: .notice--warning}
@@ -17,7 +21,7 @@ O Priiloader adiciona um nível de proteção contra brick ao seu Wii. Ele carre
 #### Você precisará de
 
 - Um cartão SD ou armazenamento USB
-- [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+- [Priiloader installer](https://github.com/DacoTaco/priiloader/releases/download/0.9.1/Priiloader_v0_9_1.zip)
 
 #### Instruções
 
@@ -48,7 +52,9 @@ Se você estiver usando um armazenamento USB para instalar o Priiloader, certifi
 1. Desça até achar `save settings` e pressione A, em seguida pressione B para retornar ao menu principal do Priiloader.
 1. Desça até `Homebrew Channel` e pressione A para iniciá-lo.
 
-## Lista de Hacks do Menu do Sistema
+### Configurando o Priiloader
+
+#### Lista de Hacks do Menu do Sistema
 
 Esta é uma lista dos hacks que você pode ativar com o Priiloader.
 
@@ -74,5 +80,52 @@ Esta é uma lista dos hacks que você pode ativar com o Priiloader.
 | Force Disc Games to run under IOS249    | Faça os discos usarem cIOS 249 como IOS do jogo. Embora não possa permitir jogar jogos gravados por si só, isto é necessário para jogar discos gravados. (Pode lhe dar um erro 002 em um jogo não gravado) |
 | Remove Deflicker                        | Remove o filtro de deflicker e faz o Menu do Wii parecer mais limpo.                                                                                                                                       |
 
-[Continue para o "Deve e NÃO Deve fazer" de modificações no Wii](dosanddonts)<br> Estas são algumas diretrizes para garantir que você não irá brickar seu Wii.
+#### Autobooting usando o Priiloader
+
+Priiloader permite que você inicie automaticamente para o Homebrew Channel, um aplicativo homebrew individual, ou o Priiloader por si só.
+
+##### Autobooting de um aplicativo Homebrew
+
+{% capture UNEO %}
+Se você gostaria de fazer autoboot com o USB Loader GX, faça isso primeiro:
+  * Baixe o WAD forwarder do USB Loader GX ([Wii](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), [vWii](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad)).
+  * Baixe o [UNEO Channel Booter for Priiloader](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders%20dols/UNEO%20Channel%20Booter%20for%20Priiloader.zip/download).
+  * Instale o WAD forwarder com um gerenciador de WAD como [Wii Mod Lite](wiimodlite).
+  * Extraia o arquivo `UNEO Channel Booter for Priiloader.zip` para qualquer lugar.
+  * Copie `uneoboot.dol` para a raíz do seu cartão SD.
+
+Você instalará o `uneoboot.dol` no passo 3.
+{% endcapture %}
+
+<div class="notice--warning"> {{ UNEO | markdownify }} </div>
+
+1. Entre no Priiloader segurando o botão RESET enquanto liga o seu Wii.
+  - Se você estiver usando um Wii mini, conecte um teclado USB e segure Escape nele enquanto o liga. ![Ligar](/images/Priiloader/on.jpg) ![Segurar RESET](/images/Priiloader/reset.jpg)
+1. Role para baixo até `Load/Install file` e pressione A. ![Load/Install file](/images/Priiloader/menu_install_file.png)
+1. Navegue até o menu até que o aplicativo homebrew desejado esteja destacado, e pressione A para instalá-lo. ![Instalando um aplicativo Homebrew](/images/Priiloader/installing_file.png) ![Instalando um aplicativo Homebrew OK](/images/Priiloader/installing_file_ok.png)
+1. Aperte B para voltar para o menu principal.
+1. Role para baixo até `Settings` e pressione A. ![Configurações](/images/Priiloader/menu_settings.png)
+1. Pressione o botão direito para navegar através das Autoboot options até que `Installed file` seja selecionado. ![Autoboot: Installed File](/images/Priiloader/autoboot_installed_file.png)
+1. Role para baixo até `save settings` e pressione A. ![Salvando configurações](/images/Priiloader/settings_save.png)
+1. Aperte B para voltar para o menu principal.
+1. Volte para `System Menu` e pressione A.
+
+Seu Wii agora deve iniciar automaticamente para qualquer aplicativo homebrew no qual instalou.
+
+##### Autobooting do Homebrew Channel ou Priiloader
+
+1. Entre no Priiloader segurando o botão RESET enquanto liga o seu Wii.
+  - Se você estiver usando um Wii mini, conecte um teclado USB e segure Escape nele enquanto o liga. ![Ligar](/images/Priiloader/on.jpg) ![Segurar RESET](/images/Priiloader/reset.jpg)
+1. Role para baixo até `Settings` e pressione A. ![Configurações](/images/Priiloader/menu_settings.png)
+1. Pressione o botão direito para navegar através das Autoboot options até que a opção desejada seja selecionada. <br> `Disabled` vai fazer com que o autoboot seja para o menu do Priiloader.
+
+Por favor não coloque o Autoboot para `BootMii IOS`. Você ficará preso em um loop até que você continuamente aperte o botão RESET para entrar no menu do Priiloader.
+{: .notice--warning}
+
+![Autoboot](/images/Priiloader/autoboot_disabled.png)
+1. Role para baixo até `save settings` e pressione A. ![Salvando configurações](/images/Priiloader/settings_save.png)
+1. Aperte B para voltar para o menu principal.
+1. Volte para `System Menu` e pressione A.
+
+[Continue para o fazer ou não fazer de Wii modding](dosanddonts)<br> Estas são algumas diretrizes para garantir que você não irá brickar seu Wii.
 {: .notice--info}

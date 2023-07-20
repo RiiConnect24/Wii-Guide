@@ -1,5 +1,5 @@
 ---
-title: RiiTag on Wii U
+title: RiiTag no Wii U
 ---
 
 {% include toc title="Sumário" %}
@@ -7,44 +7,44 @@ title: RiiTag on Wii U
 Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-RiiTag is a customizable and dynamic gamertag. By sharing your gamertag (a dynamic image), you can show what you've been playing to your friends! You launch a plugin on your Wii U console via Aroma, and the tag updates on-the-fly.
+RiiTag é uma gamertag customizável e dinâmica. Ao compartilhar sua gamertag (uma imagem dinâmica), você pode mostrar o que você tem jogado com seus amigos! Você inicia um plugin no seu console Wii U através do Aroma, e sua tag atualiza na hora.
 
 #### Você precisará de
 
-- A device capable of interacting with SD cards
-- Softmodded Wii U console with Aroma custom firmware
-  - If you have not softmodded your Wii U yet, [please do so](https://wiiu.hacks.guide). You cannot proceed without.
-- A Discord account
-- The latest release of the [UTag plugin](https://github.com/RiiConnect24/UTag/releases)
+- Um dispositivo capaz de interagir com cartões SD
+- Wii U com softmod com o custom firmware Aroma
+  - Se você ainda não fez um softmod em seu Wii U, [por favor, faça isso](https://wiiu.hacks.guide). Não se pode proceder sem isso.
+- Uma conta no Discord
+- A versão mais recente do [UTag plugin](https://github.com/RiiConnect24/UTag/releases)
 
-Previously, UTag allowed using other custom firmware (often abbreviated as CFW), but the only supported custom firmware, and the only one you should be using, is Aroma.
+Anteriormente, UTag permitia o uso de outros custom firmware (comumente abreviado para CFW), mas apenas o custom firmware suportado, e o único que você deve estar usando, é o Aroma.
 {: .notice--warning}
 
 #### Instruções
 
-##### Section I - Website instructions
+##### Seção I - Instruções do Site
 
-1. Go to the [RiiTag website](https://tag.rc24.xyz/).
+1. Vá para o [site do Riitag](https://tag.rc24.xyz/).
 2. Clique em `Log In` e faça login com sua conta do Discord.
-3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Clique em `Autorizar`.
-4. Click `Edit Your Tag` and customize it to how you like. You can add a background, overlay, flag, nickname, Wii Number, and manually enter in games to show on your tag (not needed if you're using a USB Loader).
-5. Click `Show Key` and make note of the key shown. This will be used later on in this guide.
-6. Click `Submit` to save your changes.
+3. Uma caixa de diálogo irá perguntar se você deseja autorizar `RiiConnect24 Login` com o Discord. Clique em `Autorizar`.
+4. Clique em `Edit Your Tag` e a personalize-a como quiser. Você pode adicionar um plano de fundo, sobreposição, bandeira, apelido, Wii Number, e inserir manualmente os jogos para mostrar na sua tag (não é necessário se você estiver usando um USB Loader).
+5. Clique em `Show Key` e anote a chave mostrada. Isso será usado mais tarde neste guia.
+6. Clique em `Submit` para salvar suas alterações.
 
-Do not share your RiiTag key with anyone! Se você compartilhar, as pessoas poderão abusar de sua tag.
+Não compartilhe sua chave do RiiTag com ninguém! Se você compartilhar, as pessoas poderão abusar de sua tag.
 {: .notice--warning}
 
-##### Section II - Setting things up on the SD card
+##### Seção II - Configurando as coisas no cartão SD
 
-1. Extract the UTag file to `/wiiu/environments/aroma/plugins` on your SD card. If it doesn't exist, create it.
-2. In `/wiiu/` on your SD card, create a file called `utag.txt` and paste your RiiTag key from the previous step into it.
+1. Extraia o arquivo UTag para `/wiiu/environments/aroma/plugins` no seu cartão SD. Se a pasta não existir, crie-a.
+2. Em `/wiiu/` no seu cartão SD, crie um arquivo chamado `utag.txt` e cole sua chave do RiiTag dos passos anteriores nele.
 
-##### Section III - Running the plugin
+##### Seção III - Executando o plugin
 
-You don't need to manually run the plugin - just run Aroma and it will automatically be loaded. We recommend setting up Aroma for coldbooting so the plugin gets loaded automatically when you boot the console.
+Você não precisa manualmente executar o plugin - apenas execute o Aroma e ele vai ser automaticamente carregado. Nos recomendamos configurar o Aroma para coldbooting para que o plugin seja carregado automaticamente assim que você inicia o console.
 {: .notice--info}
 
-You have now set up RiiTag on your Wii U! Now go play some games, and watch them show up on your RiiTag!
+Agora você tem RiiTag configurado no seu Wii U! Agora vá jogar alguns jogos, e veja os jogos aparecendo no seu RiiTag!
 {: .notice--success}
 
 [Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.

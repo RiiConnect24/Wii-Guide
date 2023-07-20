@@ -7,9 +7,13 @@ title: "Priiloader"
 如果您对本教程有任何问题或需要帮助，请加入 [RiiConnect24 Discord 服务器](https://discord.gg/rc24)（推荐）或 [发送电子邮件至 support@riiconnect24.net](mailto:support@riiconnect24.net) 与我们联系。
 {: .notice--info}
 
-Priiloader 为 Wii 添加了一定程度的变砖保护。 它在 Wii 菜单加载之前启动（因此得名）。 该工具还可以为 Wii 菜单启用修改，并可用于快速启动 Homebrew Channel、BootMii或其它任何自制软件！
+![Priiloader 图标](/images/Priiloader/icon.png)
 
-![Priiloader](/images/Priiloader/priiloader.jpg)
+Priiloader 为 Wii 添加了一定程度的变砖保护。 它在 Wii 菜单之前加载（因此得名）。 该工具还可以修改 Wii 菜单，并可用于快速启动 Homebrew Channel、BootMii 或任何您想要的自制！
+
+### 安装 Priiloader
+
+![安装 Priiloader](/images/Priiloader/priiloader.jpg)
 
 **不要**在 vWii（Wii U 上的 Wii 模式) 上安装 Priiloader。 这样做会导致 vWii 变砖。
 {: .notice--warning}
@@ -17,7 +21,7 @@ Priiloader 为 Wii 添加了一定程度的变砖保护。 它在 Wii 菜单加�
 #### 你需要的是
 
 - 一张SD卡或U盘
-- [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+- [Priiloader installer](https://github.com/DacoTaco/priiloader/releases/download/0.9.1/Priiloader_v0_9_1.zip)
 
 #### 步骤
 
@@ -48,9 +52,11 @@ Priiloader 为 Wii 添加了一定程度的变砖保护。 它在 Wii 菜单加�
 1. 向下滚动到 `save settings`，按 A，然后按 B 返回到 Priiloader 的主菜单。
 1. 滚动到 `Homebrew Channel`，按 A 启动它。
 
-## System Menu Hacks 列表
+### 配置 Priiloader
 
-这是您可以通过 Priiloader 启用的修改选项。
+#### System Menu Hacks 列表
+
+这是您可以使用 Priiloader 启用的修改选项。
 
 | 修改                                      | 描述                                                                       |
 | --------------------------------------- | ------------------------------------------------------------------------ |
@@ -74,5 +80,52 @@ Priiloader 为 Wii 添加了一定程度的变砖保护。 它在 Wii 菜单加�
 | Force Disc Games to run under IOS249    | 让光盘使用 cIOS 249 作为游戏的 IOS。 虽然它不支持刻录游戏，但需要它来播放刻录光盘。 （非刻录游戏可能会出现 Error 002） |
 | Remove Deflicker                        | 去除抗闪烁滤镜，使 Wii 菜单看起来更清晰。                                                  |
 
-[继续浏览 Wii 破解的注意事项](dosanddonts)<br> 这些是注意事项，以确保您的 Wii 不会变砖。
+#### 使用 Priiloader 自动启动
+
+Priiloader 允许您自动启动到 Homebrew Channel、单个自制应用程序或 Priiloader 本身。
+
+##### 自动启动自制应用程序
+
+{% capture UNEO %}
+如果您要自动启动 USB loader GX，请先执行以下操作：
+  * 下载 USB Loader GX 转发频道 WAD ([Wii](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), [vWii](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad))。
+  * 下载 [UNEO Channel Booter for Priiloader](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders%20dols/UNEO%20Channel%20Booter%20for%20Priiloader.zip/download)。
+  * 使用类似 [Wii Mod Lite](wiimodlite) 的 WAD 管理器安装转发频道 WAD。
+  * 将 `UNEO Channel Booter for Priiloader.zip` 文件解压到任意位置。
+  * 将 `uneoboot.dol` 复制到您的 SD 卡根目录。
+
+您将在第 3 步中安装 `uneoboot.dol`。
+{% endcapture %}
+
+<div class="notice--warning"> {{ UNEO | markdownify }} </div>
+
+1. 通过在打开 Wii 时按住 RESET 按钮进入 Priiloader。
+  - 如果使用 Wii mini，插入 USB 键盘并在打开时按住 Escape。 ![打开](/images/Priiloader/on.jpg) ![按住 RESET](/images/Priiloader/reset.jpg)
+1. 向下滚动到 `Load/Install file`，然后按 A。 ![Load/Install file](/images/Priiloader/menu_install_file.png)
+1. 滚动菜单，直到高亮显示您所需的自制应用，然后按 A 安装。 ![安装自制应用](/images/Priiloader/installing_file.png) ![可以安装自制应用](/images/Priiloader/installing_file_ok.png)
+1. 按 B 回到主菜单。
+1. 向下滚动到 `Settings`，然后按 A。 ![设置](/images/Priiloader/menu_settings.png)
+1. 按右键以循环浏览 Autoboot 选项，直到选择 `Installed file`。 ![Autoboot: Installed File](/images/Priiloader/autoboot_installed_file.png)
+1. 向下滚动到 `save settings`，然后按 A。 ![保存设置](/images/Priiloader/settings_save.png)
+1. 按 B 回到主菜单。
+1. 向上滚动到 `System Menu`，然后按 A。
+
+现在您的 Wii 应该会自动启动到您安装的任何自制应用。
+
+##### 自动启动 Homebrew Channel 或 Priiloader
+
+1. 通过在打开 Wii 时按住 RESET 按钮进入 Priiloader。
+  - 如果使用 Wii mini，插入 USB 键盘并在打开时按住 Escape。 ![打开](/images/Priiloader/on.jpg) ![按住 RESET](/images/Priiloader/reset.jpg)
+1. 向下滚动到 `Settings`，然后按 A。 ![设置](/images/Priiloader/menu_settings.png)
+1. 按右键以循环浏览 Autoboot 选项，直到选择您所需的选项为止。 <br> `Disabled` 将自动启动到 Priiloader 菜单。
+
+请不要将 Autoboot 设置为 `BootMii IOS`。 您将被困在循环中，直到您持续按住 RESET 按钮进入 Priiloader 菜单。
+{: .notice--warning}
+
+![Autoboot](/images/Priiloader/autoboot_disabled.png)
+1. 向下滚动到 `save settings`，然后按 A。 ![保存设置](/images/Priiloader/settings_save.png)
+1. 按 B 回到主菜单。
+1. 向上滚动到 `System Menu`，然后按 A。
+
+[继续浏览 Wii 破解的注意事项](dosanddonts)<br> 这里是一些准则，确保您的 Wii 不会变砖。
 {: .notice--info}

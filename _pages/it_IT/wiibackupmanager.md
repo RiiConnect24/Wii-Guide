@@ -4,7 +4,7 @@ title: "Wii Backup Manager"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se hai bisogno di qualsiasi informazione riguardante questo tutorial, entra nel [server discord di RiiConnect24 ](https://discord.gg/rc24)(consigliato) oppure [scrivici una mail a support@riconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 Wii Backup Manager is a program to copy Wii games from your computer to a USB drive so you can play the games on your Wii. It also can download game covers from [GameTDB](https://gametdb.com/) and can be used to list what games you have. This tutorial will tell you how to copy over games from your computer to your USB drive. The other features are able to be used in the easy-to-use interface.
@@ -27,20 +27,19 @@ A flash drive is not recommended, as they are small and may vary in behavior eve
 Make sure your USB drive is formatted as FAT32. Do not format it as other types such as exFAT, extFS. <br> You may format it as NTFS, but it won't work with a majority of apps (eg. The Homebrew Channel, Nintendont)
 {: .notice--info}
 
-#### Instructions
+#### Istruzioni
 
 ##### Section I - Downloading
 
 1. Extract Wii Backup Manager, and launch the program.
-2. Insert your USB drive or SD card into your computer.
+1. Insert your USB drive or SD card into your computer.
 
 ##### Section II - Copying Games Over
 
-1. Go to the `Drive 1` tab, then select `Drive`.
-2. Select the drive that you're putting the Wii games on.
-3. Go to the `Files` tab, then select `Add`.
-4. Select `Files` to add multiple games to the program, or select `Folder` to add a whole folder of games.
-5. Select `Transfer`, then select `Drive 1` to transfer the games over. It might take a while for the games to copy over.
+1. Go to the `Drive 1` tab, then select the drive that you're putting the Wii games on. ![Select drive](/images/WBM/select_drive.png)
+1. Go to the `Files` tab, then select `Add`. <br> Select `Files` to add multiple games to the program, or select `Folder` to add a whole folder of games. ![Select games](/images/WBM/select_games.png)
+1. Go to `Select`, then click `Games not on drive 1`. ![Highlight games](/images/WBM/select_games2.png)
+1. Select `Transfer`, then select `Drive 1` to transfer the games over. It might take a while for the games to copy over. ![Transfer games](/images/WBM/transfer_todrive.png)
 
 ##### Options once complete
 

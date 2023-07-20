@@ -23,19 +23,19 @@ title: "WiiFlow"
 如果您使用 Windows，我们推荐您使用 [Wii Backup Manager](/wiibackupmanager) 来复制游戏，如果您使用 macOS，我们推荐您使用 [Witgui](https://desairem.com/wordpress/category/witgui-download/)，如果您使用 Windows、macOS 和 Linux，我们推荐您使用 [Wii Backup Fusion](https://github.com/larsenv/Wii-Backup-Fusion) 。
 {: .notice--info}
 
-如果想玩 NKit 格式的游戏，请使用[此程序](https://gbatemp.net/download/nkit.36157/)将它们转换为 ISO。 您也可以用开发版本的Dolphin，右键游戏，使用"转换文件"来转换。
+如果您想玩 NKit 格式的游戏，请使用[这个程序](https://gbatemp.net/download/nkit.36157/)将其转换为 ISO。
 {: .notice--info}
 
 如果您不使用 Wii Backup Manager、Witgui 或 Wii Backup Fusion 复制游戏，请在移动硬盘/U 盘或 SD 卡的根目录下创建一个名为 "wbfs" 的文件夹，并将游戏放入其中。
 {: .notice--info}
 
-为了玩游戏，推荐为 Wii 使用移动硬盘。 U 盘也可以工作但建议使用移动硬盘，因为它们更可靠，也可以存储更多游戏。
+为了玩游戏，推荐为 Wii 使用移动硬盘。 不建议使用 U 盘，并且即使是同一款产品，其行为也可能有所不同。
 {: .notice--info}
 
-WiiFlow 可以从SD 卡或移动硬盘/U 盘加载游戏。
+确保已将移动硬盘/U 盘格式化为 FAT32 格式。 不要将它格式化为其它类型，如 exFAT 或 extFS。 <br>您可以将其格式化为 NTFS，但它不能与大多数应用程序（如 Homebrew Channel 和 Nintendont）配合使用。
 {: .notice--info}
 
-请确保已将移动硬盘/U 盘格式化为 FAT32 或 NTFS。 FAT32 是最理想的选项，因为它支持 Wii 和 GameCube 游戏，而 NTFS 则只支持 Wii 游戏。 不要将它格式化为其它类型，如 exFAT、extFS 或 WBFS。
+WiiFlow 可以从 SD 卡或移动硬盘/U 盘加载游戏。
 {: .notice--info}
 
 #### 步骤
@@ -84,9 +84,6 @@ WiiFlow 可以从SD 卡或移动硬盘/U 盘加载游戏。
 - Settings - 打开 WiiFlow 设置菜单。
 
 ##### 完成后的选项
-
-[WiiFloWiki](https://sites.google.com/site/WiiFlowiki4/)<br> WiiFloWiki 是一个关于 WiiFlow 的信息资源。
-{: .notice--info}
 
 [继续安装 RiiTag](riitag)<br> RiiTag 是您 Wii 的可定制游戏标志，可以与 WiiFlow Lite 集成使用。 这是可选的设置。
 {: .notice--info}

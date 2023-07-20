@@ -4,7 +4,7 @@ title: "GameCube Saves"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se hai bisogno di qualsiasi informazione riguardante questo tutorial, entra nel [server discord di RiiConnect24 ](https://discord.gg/rc24)(consigliato) oppure [scrivici una mail a support@riconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 This is a full guide on how to manage your GameCube saves.
@@ -28,7 +28,7 @@ If you are looking for 100% completion saves online, you can find them [here](ht
 If you are looking for save game exploits for booting into [Swiss](https://github.com/emukidid/swiss-gc/releases), you can find a list of them [here](https://www.gc-forever.com/wiki/index.php?title=Booting_homebrew#Game_Save_Exploits).
 {: .notice--info}
 
-#### Instructions
+#### Istruzioni
 
 ##### Downloading
 
@@ -40,7 +40,7 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 
 1. Insert your physical memory card into Slot A or Slot B.
 2. Select the device you want to restore from. ![Device](/images/gcsaves/gcmm-select-device.jpg)
-3. In GCMM, Press X on a GameCube controller or + on a Wii remote. ![Menu](/images/gcsaves/gcmm-menu.jpg)
+3. In GCMM, Press X on a GameCube controller or + on a Wii remote. ![Menù](/images/gcsaves/gcmm-menu.jpg)
 4. Select the slot your memory card is in. ![Memory](/images/gcsaves/gcmm-mem-select.jpg)
 5. Select the save you want to restore. If you have multiple saves to restore, you can press R on the GameCube controller or 1 on the Wii remote to restore all of your saves. ![Save](/images/gcsaves/gcmm-select-save.jpg)
 6. When restoration is complete, press any button to continue.
@@ -53,7 +53,7 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 - An SD Card or USB
 - [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
 
-#### Instructions
+#### Istruzioni
 
 ##### Downloading
 
@@ -65,7 +65,7 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 
 1. Insert your physical memory card into slot A or slot B.
 2. Select the device you want to backup to. ![Device](/images/gcsaves/gcmm-select-device.jpg)
-3. In GCMM, Press Y on a GameCube controller or - on a Wii remote. ![Menu](/images/gcsaves/gcmm-menu.jpg)
+3. In GCMM, Press Y on a GameCube controller or - on a Wii remote. ![Menù](/images/gcsaves/gcmm-menu.jpg)
 4. Select the slot your memory card is in. ![Memory](/images/gcsaves/gcmm-mem-select.jpg)
 5. Select the save you want to backup. If you have multiple saves to backup, you can press R on the GameCube controller or 1 on the Wii remote to backup all of your saves. ![Save](/images/gcsaves/gcmm-select-save.jpg)
 6. When backing up is complete, press any button to continue.
@@ -78,7 +78,7 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 - An SD Card or USB
 - [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
 
-#### Instructions
+#### Istruzioni
 
 ##### Downloading
 
@@ -100,7 +100,7 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 - An SD Card or USB
 - [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
 
-#### Instructions
+#### Istruzioni
 
 1. If you are trying to restore a save from Dolphin, go to the `File` tab in Dolphin, select open user folder, open the GC folder, and find the `.raw` file.
 2. If you are restoring a Nintendont emulated memory card save, navigate to the `saves` folder on the root of your SD card or USB.
@@ -117,7 +117,7 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 - A Wii with GameCube ports
 - At least 2 physical memory cards
 
-### Instructions
+### Istruzioni
 
 1. Insert both memory cards into the Wii.
 2. From the System menu, navigate into `Wii Options`, `Data Management`, `Save Data`, `Nintendo GameCube`. ![sysmenu](/images/gcsaves/sysmenu.jpg) <br>

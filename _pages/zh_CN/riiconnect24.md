@@ -122,10 +122,10 @@ title: "RiiConnect24"
 如果您遇到了例如 `WiiConnect24 and Wii Shop Channel currently not being offered in your country` 的错误，请前往 Wii 设置 -> 最后一页 -> 国家，并将其更改为英国。 当您使用我们不支持的国家时会出现出错误。 如果您需要更多帮助，请通过 [support@riiconnect24.net](mailto:support@riiconnect24.net) 与我们联系。
 {: .notice--warning}
 
-[继续安装 WiiLink](wiilink)<br> WiiLink 允许您使用仅限日本的频道，如 Wii no Ma 和 Digicam Print Channel。 这是可选项。
+[继续安装 WiiLink](wiilink)<br> WiiLink 允许您使用仅限日本的频道，如 Wii no Ma 和 Digicam Print Channel。 这是可选的安装步骤。
 {: .notice--info}
 
-[继续安装 Wiimmfi](wiimmfi)<br> Wiimmfi 让您在任天堂 Wi-Fi 连接停止服务后继续在线玩游戏。 这是可选项。
+[继续安装 Wiimmfi](wiimmfi)<br> Wiimmfi 让您在任天堂 Wi-Fi 连接停止服务后继续在线玩游戏。 这是可选的安装步骤。
 {: .notice--info}
 
 [继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。

@@ -1,59 +1,62 @@
 ---
-title: "RiiConnect24 Clear Tool"
+title: "RiiConnect24 제거 도구"
 ---
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+이 자습서와 관련하여 도움이 필요하면 [RiiConnect24 디스코드 서버](https://discord.gg/rc24) (권장)에 가입하시거나, [support@riiconnect24.net](mailto:support@riiconnect24.net)로 이메일을 보내주세요.
 {: .notice--info}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![RiiConnect24 로고](/images/WiiRC24Logo.jpg)
 
-RiiConnect24 Clear Tool is a homebrew application that can fix these specific errors and issues:
+RiiConnect24 청소 도구는 이러한 특정 오류와 문제를 해결할 수 있는 홈브류 애플리케이션입니다:
 
-- Discontinued Message
+- 중단된 메시지
 - NEWS/FORE000001
 - NEWS/FORE000003
 - NEWS/FORE000005
 - NEWS/FORE000099
 - NEWS000006
-- Clears out Wii mailboxes in case they are full (this can fix Wii Mail)
+- 꽉 찬 경우 Wii 편지함을 청소 (Wii 메일을 고칠 수 있습니다)
 
-#### What you need
+#### 필요한 것
 
-- An SD card or USB drive
-- [RiiConnect24 Clear Tool](https://oscwii.org/library/app/RC24-Clear-Tool)
+- SD 카드 및 USB 드라이브
+- [RiiConnect24 청소 도구](https://oscwii.org/library/app/RC24-Clear-Tool)
 - [WiiXplorer](https://oscwii.org/library/app/wiixplorer-ss)
 - [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
 
-#### Instructions
+#### 사용 방법
 
-#### Section I - Backing up Wii Message Board Data (Optional)
+#### Section I - Backing up Wii Message Board Data
 
-1. Open the Homebrew Channel and open WiiXplorer.
-2. Go to `nand` and click on `Start`, then `Settings`, then `Boot Settings`, then `NAND Write Access`, and select `Yes`.
-3. Click on `title` and then navigate to the `00000001` folder and then the `00000002` folder, then the `data` folder.
-4. Hover over `cdb.vff` and press +, then select `Copy` and then `Yes`.
-5. Go to the SD card and hover over a blank space, then press `Paste.`
+1. 홈브류 채널을 열고 WiiXplorer를 실행합니다.
+2. `NAND`로 이동하여 `시작`, `설정`, `부팅 설정`, `NAND 쓰기 접속`를 차례로 클릭하고 `예`를 선택합니다.
+3. `title`을 클릭한 다음 `00000001` 폴더, `00000002` 폴더, `data` 폴더로 이동합니다.
+4. `cdb.vff` 위로 마우스를 가져가 +를 누른 다음 `복사`, `예`를 차례로 선택합니다.
+5. SD 카드로 이동하여 빈 공간 위로 마우스를 가져간 다음 `붙여넣기`을 누릅니다.
 
-#### Section II - Deleting SYSCONF
+#### 섹션 II - SYSCONF 삭제하기
 
-1. Extract the RiiConnect24 Clear Tool and put it in the apps folder on your SD card or USB drive.
-2. Open the Homebrew Channel and then launch the RiiConnect24 Clear Tool.
-3. Load IOS 80 and press A to delete the SYSCONF, then press B to confirm and reset the aspect ratio.
-4. Set up the Wii as normal and go to `WiiConnect24`, accept the EULA and turn on the standby connection.
+Deleting SYSCONF will erase the Wii Message Board history. Follow the section above if you would like to keep it.
+{: .notice--danger}
 
-#### Section III - Putting back Wii Message Board Data (Optional)
+1. RiiConnect24 청소 도구를 압축 해제하고 SD 카드 또는 USB 드라이브의 apps 폴더에 넣습니다.
+2. 홈브류 채널을 연 다음 RiiConnect24 청소 도구를 실행합니다.
+3. IOS 80을 로드하고 A 버튼을 눌러 SYSCONF를 삭제한 다음 B 버튼을 눌러 화면비를 확인하고 재설정합니다.
+4. Wii를 정상적으로 설정하고 `WiiConnect24`로 이동하여 EULA에 동의한 다음 대기 연결을 켭니다.
 
-1. Go back to the Homebrew Channel to open WiiXplorer and navigate to `Start`, then `Settings`, then `Boot Settings`, and select `NAND Write Access` and `Yes`.
-2. Hover over `cdb.vff` again and press + button, then select `Copy` and `Yes`.
-3. Click `OK` and navigate to `nand` then `title`, `00000001`, `00000002`, then `data`.
-4. Press + again and then `Paste`, and then `Yes`.
+#### Section III - Putting back Wii Message Board Data
 
-#### Section IV - Synchronizing Wii Time
+1. 홈브류 채널로 돌아가 WiiXplorer를 열고 `시작`, `설정`, `부팅 설정`으로 이동한 후 `NAND 쓰기 액세스` 및 `예`를 선택합니다.
+2. `cdb.vff` 위로 마우스를 다시 가져가 + 버튼을 누른 다음 `복사` 및 `예`를 선택합니다.
+3. `확인`을 클릭하고 `nand`, `title`, `00000001`, `00000002`, `data` 순서로 이동합니다.
+4. +를 다시 누른 다음 `붙여넣기`, `예`를 차례로 누릅니다.
 
-1. Open sntp to set the Wii's clock accurately.
-2. Finally, do a connection test and try accessing the Forecast Channel and News Channel to ensure the errors have been fixed.
+#### 섹션 IV - Wii 시간 동기화하기
 
-[Return to RiiConnect24 installation page](riiconnect24)
+1. sntp를 열어 Wii의 시계를 정확하게 설정합니다.
+2. 마지막으로 연결 테스트를 수행하고 날씨 채널 및 뉴스 채널에 접속하여 오류가 수정되었는지 확인합니다.
+
+[RiiConnect24 설치 페이지로 돌아가기](riiconnect24)
 {: .notice--info}

@@ -29,7 +29,7 @@ If you do not have an SD card, you cannot install nor use BootMii, and therefore
 
 ![BootMii installation](/images/hackmii/bootmii_install1.png) ![BootMii SD card prompt](/images/hackmii/bootmii_install2.png) ![BootMii SD card preparation](/images/hackmii/bootmii_install3.png) ![BootMii installation OK](/images/hackmii/bootmii_install_ok.png)
 1. Once done, select `Continue`.
-1. If you have the option to `Install BootMii as boot2`, please do so as well. This offers the best possible brick protection you can have. <br> Otherwise, skip this step.
+1. If you have the option to `Install BootMii as boot2`, please do so as well. This offers the best possible brick protection you can have. <br> 否則，請跳過此步驟。
 1. Select `Exit` to finally open the Homebrew Channel.
 
 
@@ -43,7 +43,7 @@ Here's a tip - when installing homebrew applications on your SD Card or USB driv
 
 `AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
 
-[Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
+[繼續使用 BootMii 進行 NAND 備份](bootmii)<br> 強烈建議此時使用 BootMii 進行 NAND 備份。
 {: .notice--info}
 
 If you couldn't install BootMii, continue to [installing Priiloader](priiloader).

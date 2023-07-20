@@ -1,56 +1,56 @@
 ---
-title: "Open Shop Channel (Homebrew Browser)"
+title: "오픈 쇼핑 채널 (Homebrew Browser)"
 ---
 
-If you need help for anything regarding this tutorial, please join [the Open Shop Channel](https://discord.gg/osc) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+튜토리얼에 관한 질문이 있다면, [오픈 쇼핑 채널](https://discord.gg/osc) 에 가입하거나(권장) [support@riiconnect24.net에 이메일을 보내세요](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-Homebrew Browser, which is what the Open Shop Channel is based off on, does work but it can be buggy. You can also get homebrew using [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) and from the [Open Shop Channel website](https://oscwii.org/).
+오픈 쇼핑 채널의 기반이 되는 Homebrew Browser는 작동하지만 버그가 발생할 수 있습니다. [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest)을 사용하거나 [오픈 쇼핑 채널 웹사이트](https://oscwii.org/)에서 홈브류를 받을 수도 있습니다.
 {: .notice--info}
 
-You need an Internet connection in order to use this application.
+이 응용 프로그램을 사용하려면 인터넷에 연결되어 있어야 합니다.
 {: .notice--warning}
 
-The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
+[오픈 쇼핑 채널](https://oscwii.org/)에서는 홈브류 앱을 다운로드할 수 있습니다. Homebrew Browser라는 앱의 부활 프로젝트입니다.
 
-#### What you need
+#### 필요한 것
 
-- An SD card or USB drive
+- SD 카드 및 USB 드라이브
 - [Homebrew Browser](/assets/files/homebrew_browser_v0.3.9e.zip)
 
-#### Instructions
+#### 방법
 
-1. Extract the Homebrew Browser and put it in the `apps` folder on your SD card or USB drive.
-2. Insert your SD card or USB drive into your Wii. You can now launch the Homebrew Browser from the Homebrew Channel if you want to.
+1. Homebrew Browser를 압축 해제하고 SD 카드 또는 USB 드라이브의 `apps` 폴더에 넣습니다.
+2. Wii에 SD 카드 또는 USB 드라이브를 연결합니다. 이제 원하는 경우 홈브류 채널에서 Homebrew Browser를 실행할 수 있습니다.
 
-#### Recommended Apps
+#### 추천 앱
 
-Here are some recommended apps that you can get on the Open Shop Channel:
+다음은 오픈 쇼핑 채널에서 사용할 수 있는 몇 가지 추천 앱입니다:
 
-- [CleanRip](https://oscwii.org/library/app/CleanRip) - This is a tool to dump Wii and GameCube games. See [our page](dump-games) for more details.
-- [GCMM](https://oscwii.org/library/app/gcmm) - This is a GameCube memory card manager for your Wii.
-- [MyMenuify Mod](https://oscwii.org/library/app/mymenuifymod) - This is a tool to install themes for your Wii Menu. See [our page](themes) for instructions on how to use it.
-- [Nintendont](https://oscwii.org/library/app/nintendont) - This is a GameCube game loader for your Wii. For more information, please see [this GBAtemp thread](https://gbatemp.net/threads/nintendont.349258/).
-- [SaveGame Manager GX](https://oscwii.org/library/app/savegame_manager_gx) - This is a save manager for your Wii. It allows you to copy save files and Miis to and from your Wii.
-- [USB Loader GX](https://oscwii.org/library/app/usbloader_gx) - This is a USB Loader for your Wii. See [our page](usbloadergx) for instructions on how to use it.
-- [WiiFlow Lite](https://oscwii.org/library/app/wiiflow) - This is another USB Loader for your Wii. See [our page](wiiflow) for instructions on how to use it.
-- [WiiMC-SS](https://oscwii.org/library/app/wiimc-ss) - This is a media player for your Wii. It supports movies, music, photos, radio stations, YouTube, and more.
-- [WiiXplorer-SS](https://oscwii.org/library/app/wiixplorer-ss) - This is a file manager for your Wii. It lets you access your files on your SD Card, USB Device, and more.
-- [YABDM](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod) - This is a tool to dump content installed on your Wii to WAD files. See [our page](dump-wads) for instructions on how to use it.
+- [CleanRip](https://oscwii.org/library/app/CleanRip) - Wii 및 게임큐브 게임을 덤프하는 도구입니다. 자세한 내용은 [페이지](dump-games)를 참조하세요.
+- [GCMM](https://oscwii.org/library/app/gcmm) - Wii용 게임큐브 메모리 카드 관리자입니다.
+- [MyMenuify Mod](https://oscwii.org/library/app/mymenuifymod) - Wii 메뉴용 테마를 설치하는 툴입니다. 사용 방법은 [페이지](themes)를 참조하세요.
+- [Nintendont](https://oscwii.org/library/app/nintendont) - Wii용 게임큐브 게임 로더입니다. 자세한 내용은 [이 GBAtemp 스레드](https://gbatemp.net/threads/nintendont.349258/)를 참조하세요.
+- [SaveGame Manager GX](https://oscwii.org/library/app/savegame_manager_gx) - Wii용 저장 관리자입니다. 저장 파일과 Mii를 Wii에 복사할 수 있습니다.
+- [USB Loader GX](https://oscwii.org/library/app/usbloader_gx) - Wii용 USB 로더입니다. 사용 방법은 [페이지](usbloadergx)를 참조하세요.
+- [WiiFlow Lite](https://oscwii.org/library/app/wiiflow) - Wii를 위한 또 다른 USB 로더입니다. 사용 방법은 [페이지](wiiflow)를 참조하세요.
+- [WiiMC-SS](https://oscwii.org/library/app/wiimc-ss) - Wii용 미디어 플레이어입니다. 영화, 음악, 사진, 라디오 방송국, YouTube 등을 지원합니다.
+- [WiiXplorer-SS](https://oscwii.org/library/app/wiixplorer-ss) - Wii용 파일 관리자입니다. SD 카드, USB 장치 등에 있는 파일에 접속할 수 있습니다.
+- [YABDM](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod) - Wii에 설치된 콘텐츠를 WAD 파일로 덤프하는 툴입니다. 사용 방법은 [페이지](dump-wads)를 참조하세요.
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
+[RiiConnect24로 계속하기](riiconnect24)<br> RiiConnect24를 사용하면 뉴스, 날씨, 모두의 투표, 닌텐도, Check Mii Out 채널, Wii 메일 등 WiiConnect24에서 중단된 서비스를 Wii 메일과 함께 이용할 수 있습니다. 설치는 선택 사항입니다.
 {: .notice--info}
-[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. This is optional to install.
-{: .notice--info}
-
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+[WiiLink로 계속하기](wiilink)<br> WiiLink를 사용하면 일본 전용 채널인 Wii 노 마 및 디지캠 프린트 채널을 사용할 수 있습니다. 설치는 선택 사항입니다.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Wiimmfi로 계속하기](wiimmfi)<br> Wiimmfi를 사용하면 닌텐도 Wi-Fi 연결이 중단된 후에도 온라인으로 게임을 플레이할 수 있습니다. 설치는 선택 사항입니다.
 {: .notice--info}
 
-Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
+[사이트 탐색 계속하기](site-navigation)<br> 여러분이 좋아할 만한 다른 자습서도 많이 있습니다.
 {: .notice--info}
 
-You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
+Homebrew Browser 다운로드에는 Homebrew Browser 사용 방법에 대한 가이드가 포함되어 있습니다.
+{: .notice--info}
+
+`/apps/homebrew_browser/`에서 ShopChannel.ogg를 loop.ogg로 바꾸면 홈브류 브라우저에서 Wii 쇼핑 채널 음악을 재생할 수 있습니다.
 {: .notice--info}

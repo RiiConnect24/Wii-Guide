@@ -4,107 +4,110 @@ title: "cIOS"
 
 {% include toc title="Table of Contents" %}
 
-This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
+이 자습서에서는 cIOS (커스텀 IOS) 를 설치하는 방법에 대해 설명합니다. USB 로더로 게임을 실행하려면 필요합니다. 일부 홈브류는 cIOS를 사용하면 더 잘 작동할 수 있습니다.
 
-![d2x cIOS Installer](/images/cios/cIOS.png)
+![d2x cIOS 설치 프로그램](/images/cios/cIOS.png)
 
-If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
+Wii U (vWii) 를 사용하는 경우 [이 가이드](https://wiiu.hacks.guide/#/vwii-modding)에 따라 cIOS를 대신 설치합니다. vWii에 다른 cIOS를 설치하려고 시도하면 작동하지 않습니다.
 {: .notice--info}
 
-If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
+Wii 미니가 있다면, [이 cIOS](cios-mini)를 대신 설치합니다. Wii 미니에 다른 cIOS를 설치하려고 시도하면 작동하지 않습니다.
 {: .notice--info}
 
-#### What you need
+#### 필요한 것
 
-- A Wii
-- An SD card or USB drive
-- [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
+- Wii
+- SD 카드 및 USB 드라이브
+- [d2x cIOS 설치 마법사](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
-Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer.
+SD 카드를 사용하는 경우 잠금 스위치가 잠금 해제 위치에 있는지 확인합니다. 그렇지 않으면 설치 프로그램에서 올바른 옵션을 선택할 수 없습니다.
 {: .notice--warning}
 
-#### Instructions
+#### 사용 방법
 
-##### Section I - Downloading
+##### 섹션 I - 다운로드
 
-If your Wii has an Internet connection, you may skip this section. <br/> However, If you encounter any errors like `tcp_read timeout` and `net_gethostbyname failed:`, this will allow the Wii to skip the downloading step.
+Wii에 인터넷이 연결되어 있는 경우 이 섹션을 건너뛸 수 있습니다. <br/> 그러나 `tcp_read timeout` 및 `net_gethostbyname failed:`와 같은 오류가 발생하면 Wii가 다운로드 단계를 건너뛸 수 있습니다.
 {: .notice--warning}
 
-1. Download, extract, and run [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
-1. Select "Database", "IOS", then "IOS38", and select "v4123".
-   - Ensure that "Pack WAD" is checked.
-   - *Don't* check "Patch IOS". That is the cIOS Installer's job.
-1. Repeat the previous step for `IOS56 v5661`, `IOS57 v5918` and `IOS58 v6175`.
-1. Once you have downloaded all four IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. <br/> Open the folder and navigate through them until you locate the four WAD files you downloaded. Place each WAD file on the root of your SD card or USB drive.
-  - This must be the same device containing the d2x cIOS Installer.
-
-The WAD files should be on your SD card like this: ![offline IOS files](/images/cios/d2x_offline_ios.png)
-{: .notice--info}
-##### Section II - Installing
-
-1. Download the d2x cIOS installer and extract the zip to the root of your SD card or USB drive.
-1. Insert the SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel
-1. Press A to continue, then set the options to the following:
-
-```
-Select cIOS: d2x-v11-beta1
-Select cIOS base: 38
-Select cIOS slot: 248
-Select cIOS version: 65535
-```
-
-![Install cIOS 249](/images/cios/d2x_v11_248.png)
-
-If `d2x-v11-beta1` isn't showing up, try select the cIOS base first, then check again. This can also happen if your SD card is locked.
+윈도우즈를 사용하지 않는 경우, [이 스크립트](/assets/files/d2x_offline_ios.sh)를 다운로드하고 실행하면 WAD 파일을 다운로드할 수 있습니다.
 {: .notice--info}
 
-1. Once set, press A twice to install.
-1. When done installing, press A to return, and set the options to the following:
+1. [NUS 다운로더](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip)를 다운로드하여 압축 해제하고 실행합니다.
+1. "데이터베이스", "IOS", "IOS38"을 차례로 선택한 다음 "v4123"을 선택합니다.
+   - "Pack WAD"가 선택되어 있는지 확인합니다.
+   - "IOS 패치"를 체크하지 *마세요*. 이것이 바로 cIOS 설치 프로그램의 역할입니다.
+1. `IOS56 v5661`, `IOS57 v5918` 및 `IOS58 v6175`에 대해 이전 단계를 반복합니다.
+1. 네 개의 IOS를 모두 다운로드하면 NUS 다운로더와 같은 폴더에 `titles`이라는 이름의 폴더가 생깁니다. <br/> 폴더를 열고 다운로드한 4개의 WAD 파일을 찾을 때까지 폴더를 탐색합니다. 각 WAD 파일을 SD 카드 또는 USB 드라이브의 루트에 저장합니다.
+  - 이 장치는 d2x cIOS 설치 프로그램이 포함된 동일한 장치여야 합니다.
+
+WAD 파일은 다음과 같이 SD 카드에 있어야 합니다:![오프라인 IOS 파일](/images/cios/d2x_offline_ios.png)
+{: .notice--info}
+##### 섹션 II - 설치하기
+
+1. d2x cIOS 설치 프로그램을 다운로드하고 압축 파일을 SD 카드 또는 USB 드라이브의 루트에 압축 해제합니다.
+1. Wii에 SD 카드 또는 USB 드라이브를 연결하고 홈브류 채널에서 d2x cIOS 설치 프로그램을 실행합니다.
+1. 계속하려면 A 버튼을 누른 다음 옵션을 다음과 같이 설정합니다:
 
 ```
-Select cIOS: d2x-v11-beta1
-Select cIOS base: 56
-Select cIOS slot: 249
-Select cIOS version: 65535
+cIOS 선택: d2x-v11-beta1
+cIOS 베이스 선택: 38
+cIOS 슬롯 선택: 248
+cIOS 버전 선택: 65535
 ```
 
-![Install cIOS 250](/images/cios/d2x_v11_249.png)
+![cIOS 249 설치](/images/cios/d2x_v11_248.png)
 
-1. Once set, press A twice to install.
-1. When done installing, press A to return, and set the options to the following:
+`d2x-v11-beta1`이 표시되지 않으면 먼저 cIOS 기반을 선택한 다음 다시 확인합니다. SD 카드가 잠겨 있는 경우에도 이러한 문제가 발생할 수 있습니다.
+{: .notice--info}
 
-```
-Select cIOS: d2x-v11-beta1
-Select cIOS base: 57
-Select cIOS slot: 250
-Select cIOS version: 65535
-```
-
-![Install cIOS 250](/images/cios/d2x_v11_250.png)
-
-1. Once set, press A twice to install.
-1. When done installing, press A to return, and set the options to the following:
+1. 설정이 완료되면 A 버튼을 두 번 눌러 설치합니다.
+1. 설치가 완료되면 A 버튼을 눌러 돌아가서 옵션을 다음과 같이 설정합니다:
 
 ```
-Select cIOS: d2x-v11-beta1
-Select cIOS base: 58
-Select cIOS slot: 251
-Select cIOS version: 65535
+cIOS 선택: d2x-v11-beta1
+cIOS 베이스 선택: 56
+cIOS 슬롯 선택: 249
+cIOS 버전 선택: 65535
 ```
 
-![Install cIOS 251](/images/cios/d2x_v11_251.png)
+![cIOS 250 설치](/images/cios/d2x_v11_249.png)
 
-1. Once set, press A twice again to install, and then exit once done.
+1. 설정이 완료되면 A 버튼을 두 번 눌러 설치합니다.
+1. 설치가 완료되면 A 버튼을 눌러 돌아가서 옵션을 다음과 같이 설정합니다:
 
-#### Troubleshooting
+```
+cIOS 선택: d2x-v11-beta1
+cIOS 베이스 선택: 57
+cIOS 슬롯 선택: 250
+cIOS 버전 선택: 65535
+```
+
+![cIOS 250 설치](/images/cios/d2x_v11_250.png)
+
+1. 설정이 완료되면 A 버튼을 두 번 눌러 설치합니다.
+1. 설치가 완료되면 A 버튼을 눌러 돌아가서 옵션을 다음과 같이 설정합니다:
+
+```
+cIOS 선택: d2x-v11-beta1
+cIOS 베이스 선택: 58
+cIOS 슬롯 선택: 251
+cIOS 버전 선택: 65535
+```
+
+![cIOS 251 설치](/images/cios/d2x_v11_251.png)
+
+1. 설정이 완료되면 A 버튼을 다시 두 번 눌러 설치한 다음 완료되면 종료합니다.
+
+#### 문제 해결
 
 {% capture bruh %}
-Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
+대부분의 게임은 기본값으로 바로 작동하지만, 일부 게임은 작동하거나 게임 내 특정 기능을 활용하기 위해 특정 cIOS를 사용해야 할 수 있습니다.<br> 예를 들면 다음과 같습니다:
 
-- Using a keyboard in Animal Crossing: City Folk.
-- Running SpongeBob's Boating Bash.
+- 타운으로 놀러가요 동물의 숲에서 키보드 사용하기
+- 스펀지 밥의 보팅 배쉬 실행
 
-A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
+보다 포괄적인 (아직 불완전하지만) 목록은 [**여기**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br>에서 확인할 수 있습니다. 특정 게임에 사용되는 cIOS를 변경하려면 다음 지침을 따릅니다:
 {% endcapture %}
 
 <div class="notice--warning">{{ bruh | markdownify }}</div>
@@ -113,28 +116,53 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
-1. Select the game that isn't working.
-1. Click Settings.
-1. Select `Game Load`.
-1. Scroll down to `Game IOS`.
-1. Enter the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
-1. Press OK and try to load the game.
+1. 작동하지 않는 게임을 선택합니다.
+1. 설정을 클릭합니다.
+1. `게임 로드`를 선택합니다.
+1. `게임 IOS`까지 아래로 스크롤합니다.
+1. 사용할 IOS 슬롯을 입력합니다.
+    - 249가 작동하지 않는 경우 250 또는 251을 사용해 보세요.
+1. 확인을 누르고 게임을 로드합니다.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
-1. Select the game that isn't working.
-1. Click the gear icon.
-1. Go to cIOS and use the arrows to select the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
-1. Press Save and try to load the game.
+1. 작동하지 않는 게임을 선택합니다.
+1. 톱니바퀴 아이콘을 클릭합니다.
+1. cIOS로 이동하여 화살표를 사용하여 사용할 IOS 슬롯을 선택합니다.
+    - 249가 작동하지 않는 경우 250 또는 251을 사용해 보세요.
+1. 저장을 누르고 게임을 로드합니다.
 </div>
-##### Options once complete
+##### 완료 후 옵션
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
+[Homebrew Browser로 계속](hbb)<br> Homebrew Browser는 Wii에서 홈브류를 사용하기에 좋은 것 입니다. 설치는 선택 사항입니다.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[사이트 탐색 계속하기](site-navigation)<br> 여러분이 좋아할 만한 다른 자습서도 많이 있습니다.
 {: .notice--info}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
+이제 [USB Loader GX](usbloadergx) 및 [WiiFlow](wiiflow)와 같은 홈브류를 사용할 수 있습니다.
 {: .notice--info}
+
+<script>
+    let tabcontent = document.getElementsByClassName("blanktabcontent");
+    let tablinks = document.getElementsByClassName("tablinks");
+
+    function openTab(evt, tabName) {
+        let element;
+
+        for (element of tabcontent) {
+            element.style.display = "none";
+        }
+
+        for (element of tablinks) {
+            element.className = element.className.replace("btn--primary", "btn--info");
+            if (!element.className.includes('btn--info'))
+                element.className += " btn--info";
+        }
+
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className = evt.currentTarget.className.replace("btn--info", "btn--primary");
+    }
+
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpen").click();
+</script>

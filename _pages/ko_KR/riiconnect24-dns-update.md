@@ -1,30 +1,30 @@
 ---
-title: "RiiConnect24 DNS Update"
+title: "RiiConnect24 DNS 업데이트"
 ---
 
-If you need help with anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+이 자습서와 관련하여 도움이 필요하면 [RiiConnect24 디스코드 서버에 가입](https://discord.gg/rc24) (추천) 하거나 [support@riiconnect24.net](mailto:support@riiconnect24.net)로 이메일을 보내주세요.
 {: .notice--info}
 
-![RiiConnect24 Logo](/images/logo_blue_warning.png)
+![RiiConnect24 로고](/images/logo_blue_warning.png)
 
-Our official DNS Address has been updated. We require all users to change it. Failure in doing so will result in losing access to most or every RiiConnect24 service.
+트위터의 공식 DNS 주소가 업데이트되었습니다. 모든 사용자가 변경해야 합니다. 그렇게 하지 않으면 대부분의 또는 모든 RiiConnect24 서비스에 대한 접속 권한을 잃게 됩니다.
 
-Our old DNS Server has been deprecated as of `June 1st, 2023` and is no longer available to use.
+이전 DNS 서버는 `2023년 6월 1일`부로 사용되지 않으며 더 이상 사용할 수 없습니다.
 {: .notice--warning}
 
-RiiConnect24 functionality will be limited until you update the DNS setting on your Wii.
+Wii에서 DNS 설정을 업데이트할 때까지 RiiConnect24 기능이 제한됩니다.
 
-To update your entered DNS Address please follow these steps:
+입력한 DNS 주소를 업데이트하려면 다음 단계를 따릅니다:
 
-1. Go to `Wii Options`.
-2. Go to `Wii Settings`.
-3. Go to `Page 2`, then click on `Internet`.
-4. Go to `Connection Settings`
-5. Select your current connection
-6. Go to `Change Settings`
-7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`.
-8. Type in `167.86.108.126` as the primary DNS
-9. Type in `1.1.1.1` as the secondary DNS
-10. Select `Confirm`, then select `Save`
-11. Select `OK` to perform a connection
-12. If the connection test was successful, select `No` to skip the Wii System Update.
+1. `Wii 옵션`으로 이동합니다.
+2. `Wii 본체 설정`으로 이동합니다.
+3. `페이지 2`로 이동하고, `인터넷`을 클릭합니다.
+4. `연결 설정`으로 이동합니다.
+5. 현재 연결 선택
+6. `설정 변경`으로 이동합니다.
+7. `자동 DNS 가져오기` (IP 주소 아님) 로 이동한 다음 `아니요`, `고급 설정`을 차례로 선택합니다.
+8. `167.86.108.126`을 기본 DNS로 입력합니다
+9. 보조 DNS로 `1.1.1.1`을 입력합니다.
+10. `확인`을 선택한 다음, `저장`을 선택합니다.
+11. `확인`을 선택하여 연결을 수행합니다.
+12. 연결 테스트에 성공했다면, `아니요`를 선택하여 Wii 시스템 업데이트를 건너뜁니다.

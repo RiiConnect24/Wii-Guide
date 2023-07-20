@@ -8,10 +8,10 @@ title: "cIOS"
 
 ![d2x cIOS 安装程序](/images/cios/cIOS.png)
 
-如果您有Wii U(vWii),请按照[本指南](https://wiiu.hacks.guide/#/vwii-modding)安装cIOS. 尝试在vWii上安装任何其它cIOS都将不工作。
+如果您有 Wii U (vWii)，请按照[此指南](https://wiiu.hacks.guide/#/vwii-modding)安装 cIOS。 尝试在 vWii 上安装其它任何 cIOS 都不会工作。
 {: .notice--info}
 
-如果您有Wii mini, 安装[此cIOS](cios-mini). 尝试在Wii mini上安装任何其它cIOS都将不工作。
+如果您有 Wii mini，请安装[这个 cIOS](cios-mini)。 尝试在 Wii mini 上安装其它任何 cIOS 都不会工作。
 {: .notice--info}
 
 #### 你需要的是
@@ -29,6 +29,9 @@ title: "cIOS"
 
 如果您的 Wii 已连接到互联网，您可以跳过此部分。 <br/> 然而，如果您遇到任何错误，比如 `tcp_read timeout` 和 `net_gethostbyname failed:`，这将允许 Wii 跳过下载的步骤。
 {: .notice--warning}
+
+如果您不使用 Windows，您可以下载 & 运行[这个脚本](/assets/files/d2x_offline_ios.sh)，它会为您下载 WAD 文件。
+{: .notice--info}
 
 1. 下载、解压并运行 [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip)。
 1. 选择 "Database"，"IOS"，然后选择 "IOS38"，最后选择 "v4123"。
@@ -104,7 +107,7 @@ Select cIOS version: 65535
 - 在《动物森友会 城市大家庭》中使用键盘。
 - 运行 SpongeBob's Boating Bash。
 
-可以在 [**这里**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List) 找到一个更全面（尽管仍不完善）的列表。<br> 要更改特定游戏所使用的 cIOS，请按照以下说明进行操作：
+可以在[**这里**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)找到一个更全面（尽管仍不完善）的列表。<br> 要更改特定游戏所使用的 cIOS，请按照以下说明进行操作：
 {% endcapture %}
 
 <div class="notice--warning">{{ bruh | markdownify }}</div>
@@ -119,7 +122,7 @@ Select cIOS version: 65535
 1. 向下滚动至 `Game IOS`。
 1. 输入要使用的 IOS 插槽。
     - 如果 249 不工作，尝试使用 250 或 251。
-1. Press OK and try to load the game.
+1. 按 OK 并尝试加载游戏。
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
 1. 选择无法运行的游戏。
@@ -130,7 +133,7 @@ Select cIOS version: 65535
 </div>
 ##### 完成后的选项
 
-[继续安装 Homebrew Browser](hbb)<br> Homebrew Browser 是获取 Wii 自制软件的好地方。 这是可选项。
+[继续安装 Homebrew Browser](hbb)<br> Homebrew Browser 是获取 Wii 自制软件的好地方。 这是可选的安装步骤。
 {: .notice--info}
 
 [继续浏览网站导航](site-navigation)<br> 我们还有许多其它您可能会喜欢的教程。
@@ -138,3 +141,28 @@ Select cIOS version: 65535
 
 你现在可以使用一些自制软件，例如 [USB Loader GX](usbloadergx) 和 [WiiFlow](wiiflow)。
 {: .notice--info}
+
+<script>
+    let tabcontent = document.getElementsByClassName("blanktabcontent");
+    let tablinks = document.getElementsByClassName("tablinks");
+
+    function openTab(evt, tabName) {
+        let element;
+
+        for (element of tabcontent) {
+            element.style.display = "none";
+        }
+
+        for (element of tablinks) {
+            element.className = element.className.replace("btn--primary", "btn--info");
+            if (!element.className.includes('btn--info'))
+                element.className += " btn--info";
+        }
+
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className = evt.currentTarget.className.replace("btn--info", "btn--primary");
+    }
+
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpen").click();
+</script>

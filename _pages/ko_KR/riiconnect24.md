@@ -4,129 +4,129 @@ title: "RiiConnect24"
 
 {% include toc title="Table of Contents" %}
 
-If you need help with anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+이 자습서와 관련하여 도움이 필요하면 [RiiConnect24 디스코드 서버에 가입](https://discord.gg/rc24) (추천) 하거나 [support@riiconnect24.net](mailto:support@riiconnect24.net)로 이메일을 보내주세요.
 {: .notice--info}
 
-![RiiConnect24 Logo](/images/WiiRC24Logo.jpg)
+![RiiConnect24 로고](/images/WiiRC24Logo.jpg)
 
-[RiiConnect24](https://rc24.xyz/) allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail.
+[RiiConnect24](https://rc24.xyz/)에서는 뉴스, 날씨, 모두의 투표, 닌텐도, Check Mii Out 채널, Wii 메일 등 WiiConnect24의 중단된 서비스를 Wii 메일과 함께 이용할 수 있습니다.
 
 {% capture notice-1 %}
-This guide is for regular Wiis only.
+이 가이드는 일반 Wii 전용입니다.
 
-- Follow [this tutorial](riiconnect24-vwii) if you'd like to install RiiConnect24 on vWii (Wii Mode on Wii U).
-- Follow [this tutorial](riiconnect24-dolphin) if you'd like to install RiiConnect24 on Dolphin Emulator.
+- vWii (Wii U의 Wii 모드) 에 RiiConnect24를 설치하려면 [이 자습서](riiconnect24-vwii)를 따르세요.
+- Dolphin 에뮬레이터에 RiiConnect24를 설치하려면 [이 자습서](riiconnect24-dolphin)를 따릅니다.
   {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
+계속하기 전에 Wii를 현재 시간으로 설정하는 것이 좋습니다. 설정하려면 [이 자습서](rtc)를 따릅니다.
 {: .notice--warning}
 
-DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick the system.
+Wii 미니에 RICONNECT24를 설치하지 마세요! 작동하지 않으며 시스템을 망가뜨릴 수 있습니다.
 {: .notice--danger}
 
-#### What you need
+#### 필요한 것
 
-- An SD card or USB drive
-- A Wii with an Internet connection
-- A computer
-- [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+- SD 카드 및 USB 드라이브
+- 인터넷 연결이 있는 Wii
+- 컴퓨터
+- [RiiConnect24 패치 관리자 (윈도우, 맥, 리눅스)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
-#### Instructions
+#### 사용 방법
 
-##### Section I - Using RiiConnect24 Patcher
+##### 섹션 I - RiiConnect24 패치 관리자 사용
 
-If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
+RiiConnect24 패치 관리자를 실행할 수 없는 경우, [RiiConnect24 디스코드 서버](https://discord.gg/rc24) (추천) 에 가입하거나 [support@riiconnect24.net](mailto:support@riiconnect24.net)로 이메일을 보내 도움을 요청합니다.
 {: .notice--info}
 
-1. Click the link above to go to the GitHub page where the patcher is.
-2. Download `RiiConnect24Patcher.bat` if you are on Windows, and `RiiConnect24Patcher.sh` if you are on a Unix system
-3. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open Terminal and type `bash`, then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this: `bash RiiConnect24Patcher.sh`.
-4. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`. (NOTE: These screenshots are from the Windows version of the patcher.) ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
-5. Select the device you're patching for. ![Select your device](/images/RC24_Patcher/2.JPG)
-6. For this guide, choose "`Install RiiConnect24 on your Wii`" ![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
-7. Choose "`Express (Recommended)`". It will give you everything you need. ![Express Settings](/images/RC24_Patcher/4.JPG)
-8. Select your region. ![Select your region](/images/RC24_Patcher/5.JPG)
-9. While you're at it, RiiConnect24 Patcher can additionally download some other optional channels that do not use RiiConnect24. `[X]` represents the options that selected. Just press 5 and `ENTER` if you're not interested. ![Additional optional channels](/images/RC24_Patcher/6.JPG)
-10. Connect your SD Card or USB Drive to your computer and select "`1`". ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
-11. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Drive and try again. ![Successfully detected](/images/RC24_Patcher/8.JPG)
-12. Be patient... ![It's patching!](/images/RC24_Patcher/9.JPG)
-13. After it's done, we would appreciate if you take a minute to send anonymous feedback to us. If you don't want to, close the patcher. All the files should already be on your SD Card. ![It's done!](/images/RC24_Patcher/10.JPG) ![Files copied](/images/RC24_Patcher/11.PNG)
-14. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
+1. 위의 링크를 클릭하면 패치 관리자가 있는 GitHub 페이지로 이동합니다.
+2. 윈도우즈를 사용하는 경우 `RiiConnect24Patcher.bat`을 다운로드하고, 유닉스 시스템을 사용하는 경우 `RiiConnect24Patcher.sh`을 다운로드합니다.
+3. 윈도우즈에서 `RiiConnect24Patcher.bat`을 실행합니다. 유닉스 시스템에서는 터미널을 열고 `bash`를 입력한 다음 `RiiConnect24Patcher.sh`를 터미널에 끌어다 놓고 Enter 키를 누릅니다. 다음과 같이 보일 것입니다: `bash RiiConnect24Patcher.sh`.
+4. 1 버튼을 눌러 "`시작`"을 선택한 후 `ENTER`를 눌러 선택을 확인합니다. (참고: 이 스크린샷은 윈도우즈 버전의 패처에서 가져온 것입니다.) ![RiiConnect24 패치 관리자 메인 화면](/images/RC24_Patcher/1.JPG)
+5. 패치할 장치를 선택합니다.![장치 선택](/images/RC24_Patcher/2.JPG)
+6. 이 가이드에서는 "`Wii에 RiiConnect24 설치하기`"를 선택하세요. ![RiiConnect24 설치](/images/RC24_Patcher/3.JPG)
+7. "`익스프레스 (권장)`"를 선택합니다. 필요한 모든 것을 제공합니다. ![빠른 설정](/images/RC24_Patcher/4.JPG)
+8. 지역을 선택하세요.![지역 선택](/images/RC24_Patcher/5.JPG)
+9. 그 동안 RiiConnect24 패치 관리자는 RiiConnect24를 사용하지 않는 다른 옵션 채널을 추가로 다운로드할 수 있습니다. `[X]`은 선택한 옵션을 나타냅니다. 관심이 없다면 5와 `ENTER`를 누르면 됩니다. ![추가 옵션 채널](/images/RC24_Patcher/6.JPG)
+10. SD 카드 또는 USB 드라이브를 컴퓨터에 연결하고 "`1`"을 선택합니다. ![SD 카드로 복사 활성화](/images/RC24_Patcher/7.JPG)
+11. 장치가 성공적으로 감지되면 "`1`"을 선택합니다. 그렇지 않은 경우 SD 카드 또는 USB 드라이브에 `apps` 폴더가 있는지 확인한 후 다시 시도합니다. ![감지 성공](/images/RC24_Patcher/8.JPG)
+12. 인내심을 가지세요...![패치 중입니다!](/images/RC24_Patcher/9.JPG)
+13. 완료된 후 잠시 시간을 내어 익명으로 피드백을 보내주시면 감사하겠습니다. 원하지 않는 경우 패치 관리자를 닫으세요. 모든 파일은 이미 SD 카드에 저장되어 있어야 합니다. ![완료되었습니다!](/images/RC24_Patcher/10.JPG) ![파일 복사됨](/images/RC24_Patcher/11.PNG)
+14. SD 카드 또는 USB 장치에 모든 것이 자동으로 복사되지 않았다면, `WAD` 및 `apps` 폴더 옆에 있는 `RiiConnect24Patcher.bat` 폴더를 SD 카드 또는 USB 장치에 복사합니다.
 
-##### Section II - Installing WADs
+##### 섹션 II - WAD 설치
 
-You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
+이제 RiiConnect24를 사용하는 데 필요한 패치된 IOS 및 채널 WAD를 설치합니다.
 
-1. Put your SD card or USB drive in your Wii.
-2. Launch the Homebrew Channel on your Wii.
-3. Launch Wii Mod Lite.
-4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
-5. Highlight all the WADs in the folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
-6. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press the - Button on the highlighted WAD to uninstall it, then try installing it again.
-7. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+1. Wii에 SD 카드나 USB 드라이브를 연결합니다.
+2. Wii에서 홈브류 채널을 실행합니다.
+3. Wii Mod Lite를 실행합니다.
+4. Wii 리모컨의 +컨트롤 패드를 사용하여 `WAD Manager`로 이동한 다음 `wad` 폴더로 이동합니다.
+5. 버튼을 눌러 폴더의 모든 WAD를 강조 표시하여 선택합니다. 모든 WAD를 선택했으면 A 버튼을 두 번 눌러 WAD를 설치합니다.
+6. 상위 버전의 타이틀이 이미 설치되어 있다는 오류 (오류 -1035) 가 표시되면 WAD 선택 메뉴로 돌아가서 강조 표시된 WAD의 - 버튼을 눌러 제거한 다음 다시 설치를 시도합니다.
+7. 설치가 완료되면 HOME 버튼을 눌러 홈브류 채널로 돌아갑니다.
 
-##### Section III - Patching nwc24msg.cfg
+##### 섹션 III - nwc24msg.cfg 패치하기
 
-You will now patch your `nwc24msg.cfg` file which is required in order to use Wii Mail.
+이제 Wii 메일을 사용하기 위해 필요한 `nwc24msg.cfg` 파일을 패치합니다.
 
-1. Launch RiiConnect24 Mail Patcher.
-2. It should only take a few seconds to patch your nwc24msg.cfg. When it's done, press the HOME Button to exit.
+1. RiiConnect24 메일 패치 관리자를 실행합니다.
+2. nwc24msg.cfg를 패치하는 데 몇 초 밖에 걸리지 않습니다. 완료되면 HOME 버튼을 눌러 종료합니다.
 
-If you were unable to patch your nwc24msg.cfg correctly, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for further assistance.
+nwc24msg.cfg를 올바르게 패치할 수 없는 경우, [RiiConnect24 디스코드 서버](https://discord.gg/rc24) (추천) 에 가입하거나, [support@riiconnect24.net](mailto:support@riiconnect24.net)로 이메일을 보내 도움을 요청해 주세요.
 {: .notice--info}
 
-##### Section IV - Connecting
+##### 섹션 IV - 연결
 
 {% capture notice-1 %}
-The old DNS server `164.132.44.106` has been deprecated as of `June 1st, 2023` and is no longer available to use. [Read more here](riiconnect24-dns-update).
+이전 DNS 서버 `164.132.44.106`은 `2023년 6월 1일`부로 사용되지 않으며 더 이상 사용할 수 없습니다. [자세한 내용은 여기를 참조하세요](riiconnect24-dns-update).
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-You will now set your DNS to our servers. This is optional but it's recommended, because it enhances the use of RiiConnect24 and Wiimmfi by making some other features available.
+이제 DNS를 당사 서버로 설정합니다. 이 옵션은 선택 사항이지만, 다른 기능을 사용할 수 있게 함으로써 RiiConnect24 및 Wiimmfi의 사용을 향상시키기 때문에 권장됩니다.
 
-1. Go to `Wii Options`.
-2. Go to `Wii Settings`.
-3. Go to `Page 2`, then click on `Internet`.
-4. Go to `Connection Settings`.
-5. Select your current connection.
-6. Go to `Change Settings`.
-7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`.
-8. Type in `167.86.108.126` as the primary DNS.
-9. Type in `1.1.1.1` as the secondary DNS.
-10. Select `Confirm`, then select `Save`.
-11. Select `OK` to perform a connection test.
-12. If the connection test was successful, select `No` to skip the Wii System Update.
-13. Go to `WiiConnect24`, then `WiiConnect24` again, and make sure it is enabled.
-14. Back on the WiiConnect24 menu, go to `Standby Connection` and make sure it is enabled.
-15. At `Slot Illumination`, we recommend you set the disc light to `Dim` or `Bright`, but this is optional.
-16. Finally, go to the `Internet` section, then `User Agreements` or `Agreement/Contact`, then `Yes`. Please read through this.
+1. `Wii 옵션`으로 이동합니다.
+2. `Wii 본체 설정`으로 이동합니다.
+3. `페이지 2`로 이동하고, `인터넷`을 클릭합니다.
+4. `연결 설정`으로 이동합니다.
+5. 현재 연결을 선택하세요.
+6. `설정 편집`으로 이동합니다.
+7. `DNS 자동 연결` (IP 주소가 아님) 으로 이동해서 `끄기`를 선택하고, `고급 설정`으로 들어갑니다.
+8. `167.86.108.126`을 기본 DNS로 입력합니다.
+9. 보조 DNS로 `1.1.1.1`을 입력합니다.
+10. `결정`을 선택하고, `저장`을 선택합니다.
+11. `확인`를 눌러 연결 테스트를 합니다.
+12. 연결 테스트가 성공했다면, Wii 업데이트를 `아니요`를 눌러 건너뜁니다.
+13. `WiiConnect24`로 이동해서 `WiiConnect24`로 다시 이동한 뒤 활성화 된 것을 확인합니다.
+14. WiiConnect24 메뉴로 돌아가서, `항상 연결`이 켜져있는지 확인합니다.
+15. `슬롯 조명`에서 디스크 조명을 `어둡게` 또는 `밝게`로 설정하는 것이 좋지만, 이는 선택 사항입니다.
+16. 마지막으로 `인터넷` 섹션, `사용자 계약` 또는 `계약/연락처`, `예`로 이동합니다. 이 글을 읽어주세요.
 
-It's common to get error FORE000006 on the Forecast Channel after installing RiiConnect24. If you get it, make sure your Wii's to the correct date and time, then wait no more than an hour and it may start working. [If you still get error FORE000006 or if you get NEWS000006, you will need to delete your SYSCONF with RC24-Clear-Tool](deleting-vffs).
+RiiConnect24를 설치한 후 날씨 채널에서 FORE000006 오류가 발생하는 것이 일반적입니다. Wii가 올바른 날짜와 시간으로 설정되었는지 확인한 다음 한 시간 이상 기다리지 않으면 작동이 시작될 수 있습니다. [여전히 오류 FORE000006이 발생하거나 NEWS000006이 발생하면 RC24-Clear-Tool](deleting-vffs)을 사용하여 SYSCONF를 삭제해야 합니다.
 {: .notice--warning}
 
-If you get error 107245, then you have not installed the patched IOS. Make sure you install IOS31 and IOS80 with Wii Mod Lite, along with any other patched WADs.
+오류 107245가 발생하면 패치된 IOS를 설치하지 않은 것입니다. 다른 패치된 WAD와 함께 IOS31 및 IOS80을 Wii Mod Lite와 함께 설치해야 합니다.
 {: .notice--warning}
 
-If you get error 220602 when loading the User Agreements, it means your Wii is still configured to use the old DNS server, which has been shut down on `June 1, 2023`. [Read more here.](riiconnect24-dns-update)
+사용자 계약을 로드할 때 220602 오류가 발생하면 Wii가 여전히 `2023년 6월 1일`에 종료된 이전 DNS 서버를 사용하도록 구성되어 있다는 뜻입니다. [자세한 내용은 여기를 참조하세요.](riiconnect24-dns-update)
 {: .notice--warning}
 
-If you get error 107304 or you see Nintendo's User Agreement without RiiConnect24's logo, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
+오류 107304가 발생하거나 RiiConnect24 로고가 없는 닌텐도의 사용자 계약이 표시된다면, ISP (인터넷 서비스 제공업체) 또는 네트워크가 DNS 사용을 차단하고 있다는 뜻입니다. 이 문제를 해결하려면 `자동 DNS 가져오기`를 `켜기`로 설정하면 됩니다. RiiConnect24는 이 기능이 없어도 계속 작동합니다. 또는 [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) 프로그램을 사용할 수 있습니다.
 {: .notice--warning}
 
-[If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with RC24-Clear-Tool](deleting-vffs).
+[날씨 채널 또는 뉴스 채널에서 FORE 또는 NEWS로 시작하는 오류 코드 또는 중단 메시지와 같은 다른 오류가 발생하는 경우 RC24-Clear-Tool을 사용하여 VFF를 삭제해 볼 수 있습니다](deleting-vffs).
 {: .notice--warning}
 
-If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
+`현재 해당 국가에서 WiiConnect24 및 Wii Shop 채널이 제공되지 않습니다`와 같은 오류가 발생하면 Wii 설정 -> 마지막 페이지 -> 국가로 이동하여 국가를 영국으로 변경하세요. 트위터에서 지원하지 않는 국가를 사용할 때 이 오류가 발생합니다. 도움이 더 필요하면 [support@riiconnect24.net](mailto:support@riiconnect24.net)으로 문의하세요.
 {: .notice--warning}
 
-[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. This is optional to install.
+[WiiLink로 계속하기](wiilink)<br> WiiLink를 사용하면 일본 전용 채널인 Wii 노 마 및 디지캠 프린트 채널을 사용할 수 있습니다. 설치는 선택 사항입니다.
 {: .notice--info}
 
-[Continue to Wiimmfi](wiimmfi)<br> Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
+[Wiimmfi로 계속하기](wiimmfi)<br> Wiimmfi를 사용하면 닌텐도 Wi-Fi 연결이 중단된 후에도 온라인으로 게임을 플레이할 수 있습니다. 설치는 선택 사항입니다.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[사이트 탐색 계속하기](site-navigation)<br> 여러분이 좋아할 만한 다른 자습서도 많이 있습니다.
 {: .notice--info}

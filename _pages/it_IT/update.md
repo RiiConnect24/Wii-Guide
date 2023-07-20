@@ -4,7 +4,7 @@ title: "Updating Wii Menu to v4.3"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se hai bisogno di qualsiasi informazione riguardante questo tutorial, entra nel [server discord di RiiConnect24 ](https://discord.gg/rc24)(consigliato) oppure [scrivici una mail a support@riconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 This tutorial will explain how to update your Wii Menu to version 4.3, if you have already homebrewed your Wii.
@@ -14,7 +14,7 @@ It is much safer to use [ModMii](https://modmii.github.io) (Windows only) to upd
 
 #### What you need
 
-* An SD card or USB drive
+* Una scheda SD o un'unità USB
 * A computer with Windows on it
 * [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest)
 * [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
@@ -22,7 +22,7 @@ It is much safer to use [ModMii](https://modmii.github.io) (Windows only) to upd
 If you don't have a Windows computer, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-#### Instructions
+#### Istruzioni
 
 ##### Section I - Downloading
 
@@ -53,7 +53,7 @@ You use the +Control Pad to use this tool.
 {: .notice--info}
 
 1. Put your SD card or USB drive in your Wii.
-2. Launch the Homebrew Channel on your Wii.
+2. Avvia l'Homebrew Channel sulla tua Wii.
 3. Launch Wii Mod Lite.
 4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 5. Press A to install the IOS80 `.wad` file. [`Make sure the installation is successful, otherwise abort.`]

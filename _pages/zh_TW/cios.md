@@ -1,23 +1,23 @@
 ---
-title: "cIOS"
+title: "安裝 cIOS"
 ---
 
 {% include toc title="條目內容" %}
 
-This tutorial will tell you how to install cIOS (custom IOS). This is required if you want to load games with a USB Loader. Some homebrew might work better using cIOS.
+本章節將教您如何安裝cIOS（自定義IOS）。 如果您想使用 USB Loader 讀取遊戲，本步驟是不可或缺的。 某些自製軟體可能會因使用 cIOS 變得較有效率。
 
 ![d2x cIOS Installer](/images/cios/cIOS.png)
 
-If you have a Wii U (vWii), follow [this guide](https://wiiu.hacks.guide/#/vwii-modding) to install cIOS instead. Attempting to install any other cIOS on vWii won't work.
+如果您想安裝於 Wii U (vWii) 中，請按照[本指南](https://wiiu.hacks.guide/#/vwii-modding)安裝 cIOS。 vWii 上無法正常安裝任何其他 cIOS。
 {: .notice--info}
 
-If you have a Wii mini, install [this cIOS](cios-mini) instead. Attempting to install any other cIOS on a Wii mini won't work.
+如果您有 Wii mini，請安裝[此 cIOS](cios-mini)。 Wii mini 上無法正常安裝任何其他 cIOS。
 {: .notice--info}
 
-#### What you need
+#### 必備項目
 
-- A Wii
-- An SD card or USB drive
+- 一台 Wii
+- 一張 SD 卡或 USB 隨身碟
 - [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
 Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer.
@@ -25,10 +25,13 @@ Ensure that if you are using an SD card, the lock switch is in the unlocked posi
 
 #### 操作說明
 
-##### Section I - Downloading
+##### 第一節 — 下載
 
 If your Wii has an Internet connection, you may skip this section. <br/> However, If you encounter any errors like `tcp_read timeout` and `net_gethostbyname failed:`, this will allow the Wii to skip the downloading step.
 {: .notice--warning}
+
+If you are not on Windows, you may download & run [this script](/assets/files/d2x_offline_ios.sh), and it will download the WAD files for you.
+{: .notice--info}
 
 1. Download, extract, and run [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
 1. Select "Database", "IOS", then "IOS38", and select "v4123".
@@ -40,7 +43,7 @@ If your Wii has an Internet connection, you may skip this section. <br/> However
 
 The WAD files should be on your SD card like this: ![offline IOS files](/images/cios/d2x_offline_ios.png)
 {: .notice--info}
-##### Section II - Installing
+##### 第二節 — 安裝
 
 1. Download the d2x cIOS installer and extract the zip to the root of your SD card or USB drive.
 1. Insert the SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel
@@ -133,8 +136,33 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 [Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[繼續至網站導覽](site-navigation)<br> 我們還有許多您可能會喜歡的其他指南。
 {: .notice--info}
 
 You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
 {: .notice--info}
+
+<script>
+    let tabcontent = document.getElementsByClassName("blanktabcontent");
+    let tablinks = document.getElementsByClassName("tablinks");
+
+    function openTab(evt, tabName) {
+        let element;
+
+        for (element of tabcontent) {
+            element.style.display = "none";
+        }
+
+        for (element of tablinks) {
+            element.className = element.className.replace("btn--primary", "btn--info");
+            if (!element.className.includes('btn--info'))
+                element.className += " btn--info";
+        }
+
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className = evt.currentTarget.className.replace("btn--info", "btn--primary");
+    }
+
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpen").click();
+</script>

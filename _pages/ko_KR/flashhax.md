@@ -2,25 +2,25 @@
 title: "FlashHax"
 ---
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+이 자습서와 관련하여 도움이 필요하면 [RiiConnect24 디스코드 서버](https://discord.gg/rc24) (추천) 에 가입하거나, [support@riiconnect24.net](mailto:support@riiconnect24.net)로 이메일을 보내주세요.
 {: .notice--info}
 
-FlashHax is an exploit for the Wii that is triggered by using the Internet Channel. Unlike other exploits, this doesn't require an SD card.
+FlashHax는 인터넷 채널을 사용하여 트리거되는 Wii용 취약점 공격입니다. 다른 취약점 공격과 달리 이것은 SD 카드가 필요하지 않습니다.
 
-#### What you need
+#### 필요한 것
 
-- A Wii with an Internet connection
-- The Internet Channel
+- 인터넷 연결이 있는 Wii
+- 인터넷 채널
 
-#### Instructions
+#### 사용 방법
 
-1. Open up the Internet Channel on your Wii.
-2. Go to flashhax.com in the browser and bookmark the page.
-3. Open the site from the bookmark. It'll then proceed to download and load the HackMii Installer. It may take some time as it is downloading the installer over the Internet.
+1. Wii에서 인터넷 채널을 엽니다.
+2. 브라우저에서 flashhax.com으로 이동하여 페이지를 북마크에 추가합니다.
+3. 북마크에서 사이트를 엽니다. 그런 다음 HackMii 설치 프로그램을 다운로드하고 로드합니다. 인터넷을 통해 인스톨러를 다운로드하므로 시간이 다소 걸릴 수 있습니다.
 
-If the HackMii Installer doesn't load and it instead freezes (you can't move your cursor), please restart your Wii and repeat step 3 until it works. It might take multiple tries, be persistent!
+HackMii 설치 프로그램이 로드되지 않고 멈춰 (커서를 움직일 수 없는 경우), Wii를 재시작하고 작동할 때까지 3단계를 반복합니다. 여러 번 시도해야 할 수도 있으니, 끈기 있게 도전하세요!
 
-If you still can't get it to load, try deleting your cookies or save data for the Internet Channel.
+그래도 로드되지 않으면, 쿠키를 삭제하거나 인터넷 채널의 데이터를 저장합니다.
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[홈브류 채널과 BootMii 설치로 계속하기](hbc)
 {: .notice--info}

@@ -9,8 +9,8 @@ sitemap: false
 {% capture notice-1 %}
 **Destacados**
 
-- [Instalar cIOS](cios)
 - [Kirby TV Channel](kirby-tv)
+- [Instalar cIOS d2x](cios)
 - [RiiConnect24](riiconnect24)
 - [WiiLink](wiilink)
 - [Wiimmfi](wiimmfi)

@@ -9,10 +9,10 @@ title: "Nintendont"
 
 This is a quick start guide on how to use Nintendont, a popular USB loader for the Wii that's used to play games from a USB drive.
 
-#### What you need
+#### 必備項目
 
 - A Wii
-- An SD card or USB drive
+- 一張 SD 卡或 USB 隨身碟
 - [Nintendont](https://hbb1.oscwii.org/hbb/Nintendont/Nintendont.zip)
 
 We recommend you copy games over with [GameCube Backup Manager](https://github.com/AxionDrak/GameCube-Backup-Manager/releases) if you use Windows.
@@ -44,5 +44,5 @@ There is no "guide" to use Nintendont. This is intended to help you learn how to
 5. You can use a fan-made patch to enable online play in some games.
 6. You can use USB Loader GX or WiiFlow to play GameCube games there.
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[繼續至網站導覽](site-navigation)<br> 我們還有許多您可能會喜歡的其他指南。
 {: .notice--info}

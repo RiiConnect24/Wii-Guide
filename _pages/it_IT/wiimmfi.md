@@ -4,7 +4,7 @@ title: "Wiimmfi"
 
 {% include toc title="Table of Contents" %}
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Se hai bisogno di qualsiasi informazione riguardante questo tutorial, entra nel [server discord di RiiConnect24 ](https://discord.gg/rc24)(consigliato) oppure [scrivici una mail a support@riconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
 ![Wiimmfi Logo](/images/WiiWiimmfiLogo.jpg)
@@ -27,22 +27,22 @@ There are lots of different methods to connect to Wiimmfi. Choose the one that f
 If you have an older version of Priiloader or don't have it installed, follow [this guide](priiloader) to update/install it.
 {: .notice--info}
 
-#### Instructions
+#### Istruzioni
 
-1. Hold the RESET button while turning on your Wii.
-   - If you are using a Wii mini, plug in a USB keyboard and hold Escape on it while turning it on.
+1. Tieni premuto il pulsante RESET mentre stai accendendo la tua Wii.
+   - Se stai usando una Wii mini, collega una tastiera USB e tieni premuto ESC mentre la stai accendendo.
 
 ![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
 
-2. You should see the Priiloader menu. ![Menu](/images/Priiloader/mainmenu.jpg)
-3. Go to `System Menu Hacks`.
+2. Dovresti essere nel menu Priiloader. ![Menù](/images/Priiloader/mainmenu.jpg)
+3. Vai su `System Menu Hacks`.
 
-If you are using a USB drive to install Priiloader, make sure you do not have an SD card inserted at the same time. This will cause Priiloader to be unable to find the hacks_hash.ini file.
+Se stai utilizzando un'unità USB per installare Priiloader, assicurati di non avere una scheda SD inserita allo stesso tempo. Altrimenti Priiloader non sarà in grado di trovare il file hacks_hash.ini.
 {: .notice--info}
 
 4. Make sure the `Wiimmfi patch v4` hack is enabled. ![System Menu Hacks](/images/Priiloader/hacks.jpg)
-1. Scroll down to `save settings` and press A, then press B to go back to the main menu of Priiloader.
-1. Scroll to `Homebrew Channel` and press A to launch it.
+1. Scorri giù su `save settings` e premi A, poi premi B per tornare indietro al menu principale di Priiloader.
+1. Scorri giù su `Homebrew Channel` e premi A per avviarlo.
 
 If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
 {: .notice--warning}
@@ -53,10 +53,10 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 
 #### What you need
 
-- An SD card or USB drive
+- Una scheda SD o un'unità USB
 - [Auto Wiimmfi Patcher](https://download.wiimmfi.de/patcher/autowiimmfipatcher-latest.zip)
 
-#### Instructions
+#### Istruzioni
 
 1. Extract Auto Wiimmfi Patcher to the root of your SD card or USB drive.
 2. Insert your SD Card into your Wii, and launch Auto Wiimmfi Patcher from the Homebrew Channel.
@@ -65,7 +65,7 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 
 ### No-Homebrew (Disc)
 
-##### str2hax Method
+#### str2hax Method
 
 Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
 
@@ -73,7 +73,7 @@ Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for th
 
 - A Wii with an Internet connection
 
-##### Instructions
+##### Istruzioni
 
 1. Insert your game disc.
 2. Go into your internet connection settings and set the DNS server of your console to 95.217.77.151.
@@ -83,11 +83,11 @@ Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for th
 6. Wait for about 1 minute and 30 seconds for the patcher to load
 7. The game should now start with the Wiimmfi patch included
 
-### DNS Method
+#### DNS Method
 
-There's an easy method to patch games to use Wiimmfi that can be used whether or not you have homebrew on your Wii. It works on some games, such as Mario Kart Wii and Super Smash Bros. Brawl, but not every game.
+There's an easy method to patch games to use Wiimmfi that can be used whether or not you have homebrew on your Wii. It works on some older games, such as Mario Kart Wii and Super Smash Bros. Brawl, but not every game.
 
-#### Instructions
+##### Istruzioni
 
 1. Go to `Wii Options`.
 2. Go to `Wii Settings`.
@@ -96,13 +96,16 @@ There's an easy method to patch games to use Wiimmfi that can be used whether or
 5. Select your current connection.
 6. Go to `Change Settings`.
 7. Go to `Auto-Obtain DNS` (Not IP Address), then select `No`, then `Advanced Settings`.
-8. Type in `167.86.108.126` as the primary DNS.
+8. Type in `95.217.77.181` as the primary DNS.
 9. Type in `1.1.1.1` as the secondary DNS.
 10. Select `Confirm`, then select `Save`.
 11. Select `OK` to perform a connection test.
 12. If the connection test was successful, select `No` to skip the Wii System Update.
 
-If you get error 107304, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
+If you get error 20100 or 20110, that means the game is too new for this method.
+{: .notice--warning}
+
+If you get error 23400, that means your ISP (Internet Service Provider) or network is blocking the use of a custom DNS. <br> Wiimmfi has a DNS sever you can run on your PC to solve this. [Read more here.](https://wiimmfi.de/patcher/dnspatch#customdns)
 {: .notice--warning}
 
 ### Automatic patching using a USB Loader
@@ -121,7 +124,7 @@ You may not want to run a patcher each time you want to play on Wiimmfi, and may
 - [Wiimmfi Patcher (cross-platform)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
 - A USB Loader, [cIOS](cios), and a USB to store the game on (you should already have these if you're using a USB Loader)
 
-#### Instructions
+#### Istruzioni
 
 1. Extract the patcher of your choice to a folder, and place your copy of the game in it.
 2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the patcher for your game.
@@ -157,7 +160,7 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
 #### What you need
 
-- An SD card or USB drive
+- Una scheda SD o un'unità USB
 - Mario Kart Wii Competition Patcher
   - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
   - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
@@ -188,7 +191,7 @@ Getting a Wi-Fi network with WEP or no security is the hardest part, because DS 
 Some games are DSi enhanced which means you can play games online without having only WEP or no security on your router if you have a DSi or 3DS. Pokémon Black and Pokémon White are DSi enhanced. In order to make use of it, follow the instructions below via the DSi or 3DS Wi-Fi settings. Those are separate from the DS Wi-Fi settings.
 {: .notice--info}
 
-#### Instructions
+#### Istruzioni
 
 1. Go in the Nintendo DS Wi-Fi settings. This can be accessed inside the game you want to play online with.
 2. Set up a connection.

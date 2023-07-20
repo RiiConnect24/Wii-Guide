@@ -2,21 +2,23 @@
 title: "LetterBomb"
 ---
 
-If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+이 자습서와 관련하여 도움이 필요하면 [RiiConnect24 디스코드 서버](https://discord.gg/rc24) (추천) 에 가입하거나, [support@riiconnect24.net](mailto:support@riiconnect24.net)로 이메일을 보내주세요.
 {: .notice--info}
 
 ![LetterBomb](/images/letterbomb.png)
 
-LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
+LetterBomb은 Wii 메시지 보드를 사용하여 트리거되는 Wii용 취약점 공격입니다.
 
-#### What you need
-- An SD card formatted to FAT32/MS-DOS
-- A Wii on System Menu version 4.3
+#### 필요한 것
+- FAT32/MS-DOS로 포맷된 SD 카드
+- 시스템 메뉴 4.3의 Wii
 
-#### Instructions
+#### 방법
 
-1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
-1. Visit [please.hackmii.com](https://please.hackmii.com/), input your Wii MAC and region, ensure `Bundle the HackMii Installer for me!` is checked, and cut either wire. ![HackMii Screen](/images/Wii/LetterBomb-PC.png)
+1. Wii에서 `Wii 설정` -> `인터넷` -> `장치 정보`에 들어가서 이동하여 MAC 주소를 기록해 둡니다.
+1. Visit [please.hackmii.com](https://please.hackmii.com/), input your Wii MAC and region, ensure `Bundle the HackMii Installer for me!` is checked, and cut either wire.
+
+![HackMii Screen](/images/Wii/LetterBomb-PC.png)
 1. Extract the contents of the downloaded ZIP to the root of your SD card.
 1. Take out your SD card and insert it in your Wii.
    - The SD card must be inserted in the SD card slot located in the front of the Wii. Using a USB adapter plugged into the Wii's USB port will not work.
@@ -29,5 +31,5 @@ LetterBomb is an exploit for the Wii that is triggered using the Wii Message Boa
 
 ![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
 
-[Continue to Homebrew Channel and BootMii Installation](hbc)
+[홈브류 채널과 BootMii 설치로 계속하기](hbc)
 {: .notice--info}

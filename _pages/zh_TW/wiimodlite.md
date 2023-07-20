@@ -12,13 +12,13 @@ This tutorial will explain you how to install WADs on your Wii with Wii Mod Lite
 We do not recommend using "WAD Manager" by Waninkoko.
 {: .notice--warning}
 
-#### What you need
-* An SD card or USB drive
+#### 必備項目
+* 一張 SD 卡或 USB 隨身碟
 * [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 #### 操作說明
 
-##### Section I - Downloading
+##### 第一節 — 下載
 
 1. Extract Wii Mod Lite and put it in the `apps` folder on your SD card or USB drive. ![SD card Drag and Drop](/images/WiiModLite/1.gif)
 2. Insert your SD card or USB drive into your Wii, and launch Wii Mod Lite from the Homebrew Channel.

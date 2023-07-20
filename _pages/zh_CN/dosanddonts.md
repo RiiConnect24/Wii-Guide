@@ -19,7 +19,9 @@ title: "Wii 破解的注意事项"
 - **请不要**在不清楚自己在做什么的情况下修改、重命名或删除 Wii NAND 中的随机文件。
 - **请不要**在非韩版 Wii 上使用名为“KoreanKii”的自制应用程序。
 - **请不要**在 Wii mini 上安装除 [d2xl cIOS](cios-mini) 以外的 IOS 或 Wii 菜单。 如果 Wii mini 上没有焊接无线网卡，那么这样做将导致您的主机变砖。
-- **请不要**在您的 Wii 上使用除了 [Wiimmfi](wiimmfi) 之外的任何任天堂Wi-Fi连接替代方案。 不幸的是，其他替代服务器很容易被人利用，如果您使用它们，可能会使您的 Wii 变砖。 [RiiConnect24](riiconnect24) 也是安全可靠的替代方案。
+- 除非您有 RCE 补丁代码，否则**请不要**在您的 Wii 上使用除 [Wiimmfi](wiimmfi) 之外的任何任天堂Wi-Fi连接替代方案。 不幸的是，其他替代服务器很容易被人利用，如果您使用它们，可能会使您的 Wii 变砖。 RCE 补丁代码将修复此漏洞。 [RiiConnect24](riiconnect24) 和 [WiiLink](wiilink) 也是安全可靠的选择。
+- **请不要**通过 BootMii 将其它 Wii 的 NAND 恢复到您的主机上。
+- **请不要**使用自制应用 "Pimp my Wii"。 该工具非常危险，可能会导致您的 Wii 不稳定。 可以在其它更安全的应用中找到 Pimp my Wii 的功能。
 
 如果您遵循这些准则，就不必担心您的 Wii 会变砖。 破解 Wii 很安全，变砖通常是由于用户做了一些这个列表上的事情。
 
