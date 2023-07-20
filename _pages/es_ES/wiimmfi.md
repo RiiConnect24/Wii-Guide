@@ -76,11 +76,11 @@ Gracias a Fullmetal5 y su exploit str2hax, el cual Leseratte logro adaptar para 
 ##### Instrucciones
 
 1. Inserta tu disco de juego.
-2. Go into your internet connection settings and set the DNS server of your console to 95.217.77.151.
-3. Go to the WC24 contract information (third button after clicking on "Internet" in the settings).
-4. Confirm that you do want to use WC24 and the shop channel
-5. The Wiimmfi patcher page should show up. If it doesn't, and you still see the default license agreement, your router might not be compatible with this method.
-6. Wait for about 1 minute and 30 seconds for the patcher to load
+2. Ve a `Opciones de Wii` > `Configuración de Wii` > `Internet` > `Ajustes de conexión` > Elige tu conexión > `Modificar`. Después elige `No` en `Obtener DNS automáticamente`, y selecciona `Configuración avanzada`. Finalmente, ingresa `95.217.77.151` en `DNS primario` y `DNS secundario`, y guarda los cambios.
+3. Vuelve a los ajustes de internet, y elige `Documentos legales/Contacto`.
+4. Confirma que quieres usar los servicios del Canal Tienda Wii y WiiConnect24, y después elige `Aceptar`.
+5. Deberías ver la página del parche de Wiimmfi. Si en lugar de eso se muestra el Contrato de Uso de los Servicios de Red de Wii, es posible que tu router no sea compatible con este método.
+6. Espera alrededor de 90 segundos a que se cargue el parche.
 7. The game should now start with the Wiimmfi patch included
 
 #### DNS Method
