@@ -9,6 +9,7 @@ sitemap: false
 {% capture notice-1 %}
 **Featured**
 
+- [Kirby TV Channel](kirby-tv)
 - [安裝 cIOS](cios)
 - [RiiConnect24](riiconnect24)
 - [WiiLink](wiilink)
