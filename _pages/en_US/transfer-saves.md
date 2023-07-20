@@ -6,6 +6,7 @@ This guide will explain how to transfer save games between a Wii/Wii U(vWii) and
 
 <button class="btn btn--large btn--info tablinks" onClick="openTab_from(event, 'wii')">From a Wii/vWii</button>
 <button class="btn btn--large btn--info tablinks" onClick="openTab_from(event, 'dol')">From Dolphin Emulator</button>
+<button class="btn btn--large btn--info tablinks" onClick="openTab_from(event, 'gc')">From a GameCube Memory card</button>
 
 <div id="wii" class="tabcontent" markdown="1">
 
@@ -181,7 +182,59 @@ If you are exporting all your Wii saves from Dolphin, select `Tools > Export All
 
 </div>
 
+<div id="gc" class="tabcontent" markdown="1">
+<!-- TODO: get some help because neither gcmm or nintendont want to comply with my on dolphin -->
 
+All methods here require a Wii with GameCube ports. <br>
+It is technically possible to solder GameCube ports to the other Wii models (not the Wii U).
+{: .notice--warning}
+
+<button class="btn btn--large btn--info tablinks to" onClick="openTab_to(event, 'gc-nintendont')">[Individual save to .gci]</button>
+<button class="btn btn--large btn--info tablinks to" onClick="openTab_to(event, 'gc-dol')">[Memory card to .raw]</button>
+
+<div id="gc-nintendont" class="tabcontent to" markdown="1">
+
+##### What you need
+- The Homebrew Channel on your Wii
+- an SD card or USB drive
+- [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
+
+##### Instructions
+
+1. Download and extract GCMM to the root of your SD card or USB drive.
+1. Eject the SD/USB from your PC, then put it into your Wii.
+1. Launch the Homebrew Channel, then launch GCMM.
+1. Select the device you would like to copy the save file to.
+1. Press `Y`/`-` to enter Backup mode.
+1. Select the slot you put your Memory card in.
+1. Select the save you want to copy. You can press `1`/`R` to backup all of your saves.
+1. Once backing up is complete, press any button to continue.
+
+
+</div>
+
+<div id="gc-dol" class="tabcontent to" markdown="1">
+
+##### What you need
+- The Homebrew Channel on your Wii
+- an SD card or USB drive
+- [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
+
+##### Instructions
+
+1. Download and extract GCMM to the root of your SD card or USB drive.
+1. Eject the SD/USB from your PC, then put it into your Wii.
+1. Launch the Homebrew Channel, then launch GCMM.
+1. Select the device you would like to copy the save file to.
+1. Press `Y`/`-` to enter Backup mode.
+1. Select the slot you put your Memory card in.
+1. Select the save you want to copy. You can press `1`/`R` to backup all of your saves.
+1. Once backing up is complete, press any button to continue.
+
+
+</div>
+
+</div>
 
 <script>
 	const tablinks			= document.getElementsByClassName('tablinks');
