@@ -18,7 +18,7 @@ Si recibes el código de error 23904 al intentar conectarte a Wiimmfi, significa
 
 Existen diversas formas de conectarse a Wiimmfi. Elige el método que mejor se adapte a tus necesidades.
 
-### Parche automático desde el Canal Disco usando Priiloader
+### Parche automático para el Canal Disco usando Priiloader
 
 #### Requisitos
 
@@ -58,24 +58,24 @@ MrBean35000vr, creador de CTGP-R (un paquete de contenido para Mario Kart Wii), 
 
 #### Instrucciones
 
-1. Extract Auto Wiimmfi Patcher to the root of your SD card or USB drive.
-2. Insert your SD Card into your Wii, and launch Auto Wiimmfi Patcher from the Homebrew Channel.
-3. Insert your game disc (you can insert it before or after launch, it doesn't matter).
-4. Wait for patch to complete, and it'll begin!
+1. Extrae Auto Wiimmfi Patcher a la raíz de tu tarjeta SD o unidad USB.
+2. Inserta la tarjeta SD o unidad USB en tu Wii, y lanza Auto Wiimmfi Patcher desde el Canal Homebrew.
+3. Inserta tu disco de juego. Puedes hacerlo antes o después de lanzar la aplicación, no importa el orden.
+4. Espera a que se aplique el parche, y el juego se iniciará.
 
-### Sin Homebrew (Disco)
+### Parche para discos sin homebrew
 
-#### str2hax Method
+#### Método str2hax
 
-Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
+Gracias a Fullmetal5 y su exploit str2hax, el cual Leseratte logro adaptar para el parche de Wiimmfi, ahora puedes conectarte a Wiimmfi sin tener accesso a homebrew en tu Wii.
 
 ##### Requisitos
 
-- Un Wii con conexión a Internet
+- Una Wii con conexión a internet
 
 ##### Instrucciones
 
-1. Insert your game disc.
+1. Inserta tu disco de juego.
 2. Go into your internet connection settings and set the DNS server of your console to 95.217.77.151.
 3. Go to the WC24 contract information (third button after clicking on "Internet" in the settings).
 4. Confirm that you do want to use WC24 and the shop channel
