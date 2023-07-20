@@ -6,6 +6,9 @@ title: "WiiLink"
 
 [WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels known as Wii Room, the Digicam Print Channel, and the Food Channel again.
 
+The Kirby TV Channel is back! <br> If you installed it previously, please follow the instructions to update it.
+{: .notice--success}
+
 #### What you need
 
 - Eine SD-Karte oder ein USB-Laufwerk
@@ -28,7 +31,7 @@ title: "WiiLink"
    - First, give the file executable permissions by typing<br>`chmod +x WiiLink_Patcher_<OS Platform>_v1.X.X` in your terminal. Replacing<br>`<OS Platform>` with either `macOS` or `Linux`, depending on your operating system.
    - Then, run the patcher by typing `./WiiLink_Patcher_<OS Platform>_v1.X.X` in the same terminal window.
 4. If your portable storage device was detected successfully, you should see a message saying `SD Card detected`. If not, you'll need to manually select the location of your SD Card or USB Device.
-5. Press 1 to choose `Start` on the main menu, to start the Express Install Setup of WiiLink.
+5. Press 1 to choose `Start` on the main menu, to start the Express Install Setup of WiiLink. <br> Or, you can press 2 to start a Custom Install.
 6. Follow the on screen instructions to select which versions of the available channels you would like.
 7. It may take a moment for the patcher to download the files to your SD Card or USB Drive.
 8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
