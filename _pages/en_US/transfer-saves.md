@@ -2,17 +2,17 @@
 title: "Transferring Save games"
 ---
 
-This guide will explain how to transfer save games between a Wii/Wii U and Dolphin Emulator.
+This guide will explain how to transfer save games between a Wii/Wii U(vWii) and Dolphin Emulator.
 
-<button class="btn btn--large btn--info tablinks" onClick="openTab_from(event, 'wii')">From a Wii/Wii U (vWii)</button>
+<button class="btn btn--large btn--info tablinks" onClick="openTab_from(event, 'wii')">From a Wii/vWii</button>
 <button class="btn btn--large btn--info tablinks" onClick="openTab_from(event, 'dol')">From Dolphin Emulator</button>
 
-<div id="wii" class="tabcontent from">
+<div id="wii" class="tabcontent" markdown="1">
 
-<button class="btn btn--info btn--large tablinks to" onClick="openTab_to(event, 'wii-vwii')">To another Wii/Wii U</button>
+<button class="btn btn--info btn--large tablinks to" onClick="openTab_to(event, 'wii-vwii')">To another Wii/vWii</button>
 <button class="btn btn--info btn--large tablinks to" onClick="openTab_to(event, 'wii-dol')">To Dolphin Emulator</button>
 
-<div id="wii-vwii" class="tabcontent to">
+<div id="wii-vwii" class="tabcontent to" markdown="1">
 
 <button class="btn btn--info btn--large tablinks via" onClick="openTab_via(event, 'wii-vwii-data')">via Data Management</button>
 <button class="btn btn--info btn--large tablinks via" onClick="openTab_via(event, 'wii-vwii-svgm')">via SaveGame Manager GX</button>
@@ -24,14 +24,13 @@ This guide will explain how to transfer save games between a Wii/Wii U and Dolph
 
 ##### Instructions
 
-1. Insert your SD card into your Wii.
+1. Insert your SD card into your Wii/Wii U.
 1. In the Wii Menu, select the `Wii Options` at the bottom left.
 1. Select `Data Management` (if on Wii), `Save Data`, then `Wii`.
 1. Select a save you would like to transfer, then select `Copy`.
   * If the `Copy` button is greyed out, you will need to [install Priiloader](priiloader) to disable the copy protection.
 1. Repeat the previous step for each save you would like to transfer.
-1. Once you are finished, put the SD card into your Wii or Wii U.
-1. If on a Wii U, launch Wii Mode.
+1. Once you are finished, put the SD card into your other Wii/Wii U.
 1. In the Wii Menu, select the `Wii Options` at the bottom left.
 1. Select `Data Management` (if on Wii), `Save Data`, then `Wii`.
 1. Select the `SD Card` tab at the top right.
@@ -52,14 +51,13 @@ Make sure you have installed [cIOS](cios) before following this!
 
 ##### Instructions
 
-1. Extract SaveGame Manager GX to the root of your SD card or USB drive.
-1. Launch the Homebrew Channel on the first Wii.
-1. Launch SaveGame Manager GX.
+1. Extract SaveGame Manager GX to the root of your SD card or USB drive, and put it into your Wii/Wii U.
+1. Launch the Homebrew Channel, then launch SaveGame Manager GX.
 1. Ensure that the source is set to Wii.
 1. Find and select your save, then `Extract`, then `Default`. <br>
 Repeat this for the rest of the saves you would like to copy.
 1. Press the HOME button and exit SaveGame Manager GX.
-1. Put the SD card into the second Wii.
+1. Put the SD card into the second Wii/Wii U.
 1. Create a new save file for each game. This is needed so that SaveGame Manager GX can overwrite it.
 1. Launch the Homebrew Channel, and launch SaveGame Manager GX.
 1. Ensure that the source is set to your SD or USB.
@@ -69,9 +67,9 @@ Repeat this for the rest of the saves you would like to copy.
 
 </div>
 
-<div id="wii-dol" class="tabcontent to">
+<div id="wii-dol" class="tabcontent to" markdown="1">
 
-<button class="btn btn--info btn--large tablinks via" onClick="openTab_via(event, 'wii-dol-nand')">with a NAND backup</button>
+<button class="btn btn--info btn--large tablinks via" onClick="openTab_via(event, 'wii-dol-nand')">with a NAND backup (Wii)</button>
 <button class="btn btn--info btn--large tablinks via" onClick="openTab_via(event, 'wii-dol-svgm')">via SaveGame Manager GX</button>
 
 <div id="wii-dol-nand" class="tabcontent via" markdown="1">
@@ -101,14 +99,14 @@ Make sure you have installed [cIOS](cios) before following this!
 {: .notice--warning}
 
 ##### What you need
-- The Homebrew Channel on your Wii
+- The Homebrew Channel on your Wii/vWii
 - [SaveGame Manager GX](https://hbb1.oscwii.org/hbb/SaveGame_Manager_GX/SaveGame_Manager_GX.zip)
 - an SD card or USB drive
 - a Beta version of Dolphin Emulator 
 
 ##### Instructions
 
-1. Launch the Homebrew Channel on your Wii, and then launch SaveGame Manager GX.
+1. On your Wii/Wii U, launch the Homebrew Channel, then launch SaveGame Manager GX.
 1. Find and select the save you would like to transfer, select `Extract`, then select `Default`. <br>
 Repeat this for all the saves you would like to transferred.
 1. Once you have extracted all your save files, press HOME and exit SaveGame Manager GX.
@@ -124,13 +122,66 @@ Unfortunately, you can only select one at a time, so you must repeat the last st
 
 </div>
 
-<div id="dol" class="tabcontent">
+</div>
 
-<button class="btn btn--info btn--large tablinks to" onClick="openTab_to(event, 'dol-wii')">To a Wii/Wii U</button>
+<div id="dol" class="tabcontent" markdown="1">
+
+<button class="btn btn--info btn--large tablinks to" onClick="openTab_to(event, 'dol-wii')">To a Wii/vWii</button>
 <button class="btn btn--info btn--large tablinks to" onClick="openTab_to(event, 'dol-dol')">To Dolphin Emulator</button>
 
+<div id="dol-wii" class="tabcontent to" markdown="1">
+
+<button class="btn btn--info btn--large tablinks via" onClick="openTab_via(event, 'dol-wii-data')">via Data Management</button>
+<button class="btn btn--info btn--large tablinks via" onClick="openTab_via(event, 'dol-wii-svgm')">via SaveGame Manager GX</button>
+
+<div id="dol-wii-data" class="tabcontent via" markdown="1">
+
+##### What you need
+- an SD card
+- a Beta version of Dolphin Emulator
+
+##### Instructions
+
+1. Open Dolphin Emulator.
+1. If you exporting a select game's save, right click the game inside the Dolphin window and select `Export Wii Save`. <br>
+If you are exporting all your Wii saves from Dolphin, select `Tools > Export All Wii Saves`.
+1. In the folder dialog that pops up, select your SD card. (don't go inside any other folder!)
+1. Safely eject your SD card, then put it into your Wii/Wii U.
+1. If on a Wii U, be sure to launch Wii Mode.
+1. Select the `Wii Options` button at the bottom left.
+1. Select `Data Management` (if on Wii), `Save Data`, then `Wii`.
+1. Go to the `SD Card` tab at the top right.
+1. Select each save that you would like to copy to your Wii/Wii U and select `Copy`.
 
 </div>
+
+<div id="dol-wii-svgm" class="tabcontent via" markdown="1">
+
+##### What you need
+- The Homebrew Channel on your Wii/vWii
+- an SD card or USB drive
+- [SaveGame Manager GX](https://hbb1.oscwii.org/hbb/SaveGame_Manager_GX/SaveGame_Manager_GX.zip)
+- a Beta version of Dolphin Emulator
+
+##### Instructions
+
+1. Open Dolphin Emulator.
+1. If you exporting a select game's save, right click the game inside the Dolphin window and select `Export Wii Save`. <br>
+If you are exporting all your Wii saves from Dolphin, select `Tools > Export All Wii Saves`.
+1. In the folder dialog that pops up, select your SD card. (don't go inside any other folder!)
+1. Safely eject your SD card, then put it into your Wii/Wii U.
+1. If on a Wii U, be sure to launch Wii Mode.
+1. Launch the Homebrew Channel, then launch SaveGame Manager GX.
+1. Ensure that the source is set to your SD or USB.
+1. Select each save you copied and click `Install`.
+
+</div>
+
+</div>
+
+</div>
+
+
 
 <script>
 	const tablinks			= document.getElementsByClassName('tablinks');
