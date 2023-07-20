@@ -9,6 +9,7 @@ sitemap: false
 {% capture notice-1 %}
 **추천**
 
+- [커비 TV 채널](kirby-tv)
 - [cIOS](cios)
 - [RiiConnect24](riiconnect24)
 - [WiiLink](wiilink)
