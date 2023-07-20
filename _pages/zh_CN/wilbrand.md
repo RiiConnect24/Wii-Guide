@@ -39,11 +39,11 @@ Wilbrand，就像 LetterBomb 一样，是一种通过 Wii 留言板触发的 Wii
 1.  将 HackMii Installer v1.2 解压到 PC 的一个文件夹中。
     - 您还可以直接在您的压缩软件中打开 zip 文件。
 1.  找到 `boot.elf` 文件并将其放置在您 SD 卡的根目录中。
-1.  Take out your SD card and insert it in your Wii.
-    - The SD card must be inserted in the SD card slot located in the front of the Wii. Using a USB adapter plugged into the Wii's USB port will not work.
-1.  On your Wii, return to the Wii Menu and then open the Wii Message Board.
+1.  取出 SD 卡并将其插入 Wii 中。
+    - 必须将 SD 卡插入 Wii 前面的 SD 卡槽中。 使用插入到 Wii USB 接口的 USB 读卡器是无效的。
+1.  在 Wii 上，回到 Wii 菜单，然后打开 Wii 留言板。
 1.  加载带炸弹兵图标的绿色信。
-    - Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
+    - 请确保 Wii 的日期正确，否则您可能找不到信。
     - 邮件可能出现在前一天或后一天。
     - 如果您没有看到绿色信，请检查 `数据管理` 中的 SD 卡部分是否有任何错误。 如果有任何问题，可能是由于 SD 卡格式或 Wii 的 SD 卡槽出现问题。 ![Wilbrand in its natural habitat](/images/wilbrand/msgboard.png)
 
