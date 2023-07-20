@@ -2,11 +2,12 @@
 title: "Transferring Save games"
 ---
 
-This guide will explain how to transfer save games between a Wii/Wii U(vWii) and Dolphin Emulator.
+This guide will explain how to transfer save games between a Wii/Wii U(vWii), Dolphin Emulator, GameCube memory cards and (Nintendont) emulated memory cards.
 
 <button class="btn btn--large btn--info tablinks" onClick="openTab_from(event, 'wii')">From a Wii/vWii</button>
 <button class="btn btn--large btn--info tablinks" onClick="openTab_from(event, 'dol')">From Dolphin Emulator</button>
-<button class="btn btn--large btn--info tablinks" onClick="openTab_from(event, 'gc')">From a GameCube Memory card</button>
+<button class="btn btn--large btn--info tablinks" onClick="openTab_from(event, 'gcmc')">From a GameCube memory card</button>
+<button class="btn btn--large btn--info tablinks" onClick="openTab_from(event, 'emumc')">From an emulated memory card</button>
 
 <div id="wii" class="tabcontent" markdown="1">
 
@@ -128,7 +129,7 @@ Unfortunately, you can only select one at a time, so you must repeat the last st
 <div id="dol" class="tabcontent" markdown="1">
 
 <button class="btn btn--info btn--large tablinks to" onClick="openTab_to(event, 'dol-wii')">To a Wii/vWii</button>
-<button class="btn btn--info btn--large tablinks to" onClick="openTab_to(event, 'dol-dol')">To Dolphin Emulator</button>
+<button class="btn btn--info btn--large tablinks to" onClick="openTab_to(event, 'dol-dol')">To a GameCube Memory card</button>
 
 <div id="dol-wii" class="tabcontent to" markdown="1">
 
@@ -182,17 +183,17 @@ If you are exporting all your Wii saves from Dolphin, select `Tools > Export All
 
 </div>
 
-<div id="gc" class="tabcontent" markdown="1">
+<div id="gcmc" class="tabcontent" markdown="1">
 <!-- TODO: get some help because neither gcmm or nintendont want to comply with my on dolphin -->
 
 All methods here require a Wii with GameCube ports. <br>
 It is technically possible to solder GameCube ports to the other Wii models (not the Wii U).
 {: .notice--warning}
 
-<button class="btn btn--large btn--info tablinks to" onClick="openTab_to(event, 'gc-nintendont')">[Individual save to .gci]</button>
-<button class="btn btn--large btn--info tablinks to" onClick="openTab_to(event, 'gc-dol')">[Memory card to .raw]</button>
+<button class="btn btn--large btn--info tablinks to" onClick="openTab_to(event, 'gcmc-gci')">[Individual save to .gci]</button>
+<button class="btn btn--large btn--info tablinks to" onClick="openTab_to(event, 'gcmc-raw')">[Memory card to .raw]</button>
 
-<div id="gc-nintendont" class="tabcontent to" markdown="1">
+<div id="gcmc-raw" class="tabcontent to" markdown="1">
 
 ##### What you need
 - The Homebrew Channel on your Wii
@@ -205,15 +206,15 @@ It is technically possible to solder GameCube ports to the other Wii models (not
 1. Eject the SD/USB from your PC, then put it into your Wii.
 1. Launch the Homebrew Channel, then launch GCMM.
 1. Select the device you would like to copy the save file to.
-1. Press `Y`/`-` to enter Backup mode.
-1. Select the slot you put your Memory card in.
-1. Select the save you want to copy. You can press `1`/`R` to backup all of your saves.
-1. Once backing up is complete, press any button to continue.
+1. Press `B` and `-`/`L` and `Y` to enter Raw backup mode.
+1. Select the slot that has your memory card.
+1. When the dump is complete, press any key to continue.
 
+The backup is saved in a folder named `MCBACKUP` on your SD/USB.
 
 </div>
 
-<div id="gc-dol" class="tabcontent to" markdown="1">
+<div id="gcmc-gci" class="tabcontent to" markdown="1">
 
 ##### What you need
 - The Homebrew Channel on your Wii
@@ -228,7 +229,7 @@ It is technically possible to solder GameCube ports to the other Wii models (not
 1. Select the device you would like to copy the save file to.
 1. Press `Y`/`-` to enter Backup mode.
 1. Select the slot you put your Memory card in.
-1. Select the save you want to copy. You can press `1`/`R` to backup all of your saves.
+1. Select the save you want to copy. You can press `1`/`R` to backup all of your saves. <!-- ? -->
 1. Once backing up is complete, press any button to continue.
 
 
