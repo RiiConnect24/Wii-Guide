@@ -6,6 +6,9 @@ title: "WiiLink"
 
 [WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels known as Wii Room, the Digicam Print Channel, and the Food Channel again.
 
+The Kirby TV Channel is back! <br> If you installed it previously, please follow the instructions to update it.
+{: .notice--success}
+
 #### Requisitos
 
 - Una tarjeta SD o unidad USB
@@ -28,14 +31,14 @@ title: "WiiLink"
    - First, give the file executable permissions by typing<br>`chmod +x WiiLink_Patcher_<OS Platform>_v1.X.X` in your terminal. Replacing<br>`<OS Platform>` with either `macOS` or `Linux`, depending on your operating system.
    - Then, run the patcher by typing `./WiiLink_Patcher_<OS Platform>_v1.X.X` in the same terminal window.
 4. If your portable storage device was detected successfully, you should see a message saying `SD Card detected`. If not, you'll need to manually select the location of your SD Card or USB Device.
-5. Press 1 to choose `Start` on the main menu, to start the Express Install Setup of WiiLink.
+5. Press 1 to choose `Start` on the main menu, to start the Express Install Setup of WiiLink. <br> Or, you can press 2 to start a Custom Install.
 6. Follow the on screen instructions to select which versions of the available channels you would like.
 7. It may take a moment for the patcher to download the files to your SD Card or USB Drive.
 8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
 9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to<br>`WiiLink_Patcher_<OS Platform>_v1.X.X` to the root of your SD Card or USB Device.
-10. Inserta la tarjeta SD o unidad USB en tu Wii.
+10. Put your SD card or USB drive in your Wii.
 11. Inicia el Canal Homebrew en tu Wii.
-12. Inicie Wii Mod Lite.
+12. Launch Wii Mod Lite.
 13. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 14. If your Wii is not a Japanese region, install `WiiLink_SPD (Wii).wad` or `WiiLink_SPD (vWii).wad` (Depending on console platform) before anything else. This is required so that we know your email address to send files.
 15. Highlight all other WADs with `WiiLink` in the name and press + to select them. When all of them are selected, press A twice to install the WADs.
