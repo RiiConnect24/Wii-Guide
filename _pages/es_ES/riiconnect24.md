@@ -59,9 +59,9 @@ If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord ser
 
 You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
-1. Inserta la tarjeta SD o unidad USB en tu Wii.
+1. Put your SD card or USB drive in your Wii.
 2. Inicia el Canal Homebrew en tu Wii.
-3. Inicie Wii Mod Lite.
+3. Launch Wii Mod Lite.
 4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
 5. Highlight all the WADs in the folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
 6. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press the - Button on the highlighted WAD to uninstall it, then try installing it again.
