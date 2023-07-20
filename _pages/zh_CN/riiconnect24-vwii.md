@@ -82,7 +82,7 @@ title: RiiConnect24 vWii 指南
 
 1. 将 SD 卡或 U 盘插入您的 Wii U。
 2. 在您的 Wii U 上启动 Homebrew Channel。
-3. 启动 Wii Mod Lite。
+3. 启动Wii Mod Lite。
 4. 使用 Wii 遥控器上的方向键，移动到 `WAD Manager`，然后移动到 `wad` 文件夹。
 5. 按下 + 来选择文件夹中的所有 WAD。 当所有的 WAD 文件都被选中时，按两次 A 来安装 WAD。
 6. 如果得到已安装了更高版本标题的错误（错误 -1035)，请回到 WAD 选择菜单，并按下 - 来卸载它，然后再次尝试安装它。
