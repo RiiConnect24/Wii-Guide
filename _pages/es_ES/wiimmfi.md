@@ -171,24 +171,24 @@ Wiimmfi te permite participar nuevamente en torneos de Mario Kart Wii.
 2. Inserta la tarjeta SD o unidad SD en tu Wii.
 3. Inicia el Mario Kart Wii original (sin parche de Wiimmfi).
 4. Dirígete a `Opciones` > `Conexión Wi-Fi de Nintendo` > `Servicio de mensajes`. Si habías habilitado el servicio de mensajes, desactívalo y luego vuélvelo a activar.
-5. Launch Mario Kart Wii Competition Patcher.
-6. The patcher will look for save files for Mario Kart Wii on your storage device in various places, and upload them. This is done in case a missing competition is found in your save file. It will also, of course, patch your Wii for competitions.
+5. Ejecuta Mario Kart Wii Competition Patcher.
+6. La aplicación comenzará a buscar datos de guardado de Mario Kart Wii en la memoria de la consola y los dispositivos de almacenamiento conectados, y los subirá a Wiimmfi. Esto se hace en caso de que tu partida guardada contenga alguno de los torneos faltantes. A continuación, tu consola será parcheada para que pueda recibir torneos de forma automática.
 
-If you're using the Wii U, you will have to run the competitions patcher whenever you want to check for a competition, because WiiConnect24 is not enabled on the Wii U.
+Si estás usando una Wii U, deberás ejecutar Mario Kart Wii Competition Patcher cada vez que quieras verificar si ha empezado un nuevo torneo, ya que WiiConnect24 no está habilitado en vWii.
 {: .notice--info}
 
-### DS Games
+### Juegos de Nintendo DS
 
-Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks to an exploit called nds-constraint, you can play DS games online without patching your games.
+Wiimmfi no solo tiene soporte para juegos de Wii, sino que además es compatible con una gran cantidad de juegos de DS. Gracias a un exploit llamado nds-constraint, es posible jugar títulos de DS en línea sin necesidad de modificaciones.
 
 #### Requisitos
 
-- Una red Wi-Fi con WEP o sin seguridad
+- Una red Wi-Fi con seguridad WEP o sin seguridad
 
-Getting a Wi-Fi network with WEP or no security is the hardest part, because DS games don't support newer Wi-Fi security types. However, many routers support creating a guest Wi-Fi connection, or you can make a hotspot on your phone or your computer. There are plenty of resources on the Internet that have information on this, so use your favorite search engine to find them.
+Encontrar una red Wi-Fi compatible con juegos de DS es la parte más difícil, ya que no soportan el tipo de seguridad WPA que se usa en la actualidad. Sin embargo, muchos routers te permiten habilitar una red Wi-Fi para invitados, la cual es abierta y funciona sin afectar tu conexión principal. También puedes crear una red sin seguridad usando un móvil Android o una PC con Linux. Existen muchos recursos en internet que contienen información al respecto, por lo que te invitamos a usar tu buscador favorito para saber más.
 {: .notice--info}
 
-Some games are DSi enhanced which means you can play games online without having only WEP or no security on your router if you have a DSi or 3DS. Pokémon Black and Pokémon White are DSi enhanced. In order to make use of it, follow the instructions below via the DSi or 3DS Wi-Fi settings. Those are separate from the DS Wi-Fi settings.
+Algunos juegos están optimizados para DSi, lo que significa que pueden conectarse a redes con seguridad WPA2 si son jugados desde una DSi o 3DS. Por ejemplo, Pokémon Negro y Pokémon Blanco, así como los juegos DSiWare, están optimizados para DSi. In order to make use of it, follow the instructions below via the DSi or 3DS Wi-Fi settings. Those are separate from the DS Wi-Fi settings.
 {: .notice--info}
 
 #### Instrucciones
