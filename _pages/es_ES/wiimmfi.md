@@ -114,21 +114,21 @@ SI ya estás usando USB Loader GX, actualiza a la versión más reciente, de ser
 
 ### Parche para archivos ISO
 
-You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
+Si ya usas algún USB loader y no deseas parchear tus juegos cada vez que quieras acceder a Wiimmfi, también puedes parchear tus juegos en formato ISO. Existen parches creados para juegos específicos.
 
 #### Requisitos
 
-- Tu copia de tu juego (WBFS, ISO, cISO, y otros archivos que una Wii puede usar son soportadas.
-- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
+- Una copia digital de tu juego, en formato WBFS, ISO, cISO, o cualquier otro soportado por la Wii.
+- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (para Windows y Unix)  
   **o puedes usar:**
-- [Wiimmfi Patcher (cross-platform)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
-- Un USB Loader, [cIOS](cios) y un USB para almacenar el juego (si usas un USB Loader ya deberías tener uno)
+- [Wiimmfi Patcher (multiplataforma)](https://download.wiimmfi.de/patcher/wiimmfi-patcher-latest.zip)
+- Un USB loader, [cIOS](cios), y una unidad USB para almacenar el juego (si ya usas un USB loader, deberías contar con estos requisitos)
 
 #### Instrucciones
 
-1. Extract the patcher of your choice to a folder, and place your copy of the game in it.
-2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the patcher for your game.
-3. Once it's finished, get the version out of the `wiimmfi-images` folder (it may be in the folder outside of the patcher - ../wiimmfi-images) and copy it back to your USB.
+1. Extrae el parche de tu elección y mueve la copia de tu juego a la misma carpeta.
+2. Ejecuta el script que corresponda a tu sistema operativo. Elige el archivo con extensión `.bat` si usas Windows, o el que termina en `.sh` en el caso de macOS y Linux. Si has elegido usar RiiConnect24 Patcher, selecciona tu consola (Wii, vWii, o Dolphin), y después el parche para tu juego.
+3. Una vez que el proceso haya terminado, abre la carpeta `wiimmfi-images`, y copia el archivo del juego parcheado a tu unidad USB. Si no encuentras dicha carpeta, intenta volver a la capeta anterior, donde se ubica la carpeta del parche.
 
 ### WiiWare Patching
 
@@ -149,7 +149,7 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 Steps:
 
 1. Extract the .zip of the latest version of WiiWare Patcher, and put your WAD in it.
-2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
+2. Ejecuta el script que corresponda a tu sistema operativo. Elige el archivo con extensión `.bat` si usas Windows, o el que termina en `.sh` en el caso de macOS y Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
 3. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
 
 ## Otras cosas
