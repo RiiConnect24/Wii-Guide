@@ -130,23 +130,23 @@ Si ya usas algún USB loader y no deseas parchear tus juegos cada vez que quiera
 2. Ejecuta el script que corresponda a tu sistema operativo. Elige el archivo con extensión `.bat` si usas Windows, o el que termina en `.sh` en el caso de macOS y Linux. Si has elegido usar RiiConnect24 Patcher, selecciona tu consola (Wii, vWii, o Dolphin), y después el parche para tu juego.
 3. Una vez que el proceso haya terminado, abre la carpeta `wiimmfi-images`, y copia el archivo del juego parcheado a tu unidad USB. Si no encuentras dicha carpeta, intenta volver a la capeta anterior, donde se ubica la carpeta del parche.
 
-### WiiWare Patching
+### Parche para WiiWare
 
-You can patch WiiWare games in order to play them on Wiimmfi.
+También es posible parchear juegos de WiiWare para jugar en Wiimmfi.
 
 #### Requisitos
 
-- Un tarjeta SD
-- Tu copia del juego (en formato WAD)
-- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Disponible para sólo para Windows)  
+- Una tarjeta SD
+- Una copia de tu juego en formato WAD
+- [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (para Windows y Unix)  
   **o puedes usar:**
-- [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (cross platform)
-- [Instalar WADs con Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
+- [Wiiware Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (multiplataforma)
+- [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
-[If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
+[Si deseas saber cómo usar WiiWare Patcher, ¡haz clic aquí!](wiiwarepatcher)
 {: .notice--info}
 
-Steps:
+Instrucciones:
 
 1. Extract the .zip of the latest version of WiiWare Patcher, and put your WAD in it.
 2. Ejecuta el script que corresponda a tu sistema operativo. Elige el archivo con extensión `.bat` si usas Windows, o el que termina en `.sh` en el caso de macOS y Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
