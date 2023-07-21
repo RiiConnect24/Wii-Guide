@@ -81,11 +81,11 @@ Gracias a Fullmetal5 y su exploit str2hax, el cual Leseratte logro adaptar para 
 4. Confirma que quieres usar los servicios del Canal Tienda Wii y WiiConnect24, y después elige `Aceptar`.
 5. Deberías ver la página del parche de Wiimmfi. Si en lugar de eso se muestra el Contrato de Uso de los Servicios de Red de Wii, es posible que tu router no sea compatible con este método.
 6. Espera alrededor de 90 segundos a que se cargue el parche.
-7. The game should now start with the Wiimmfi patch included
+7. El juego debería cargarse con el parche de Wiimmfi incluido.
 
-#### DNS Method
+#### Método DNS
 
-There's an easy method to patch games to use Wiimmfi that can be used whether or not you have homebrew on your Wii. It works on some older games, such as Mario Kart Wii and Super Smash Bros. Brawl, but not every game.
+Este método permite aplicar el parche de Wiimmfi a algunos juegos antiguos, como Mario Kart Wii y Super Smash Bros. Brawl, sin importar si tu consola cuenta con acceso a homebrew. It works on some older games, such as Mario Kart Wii and Super Smash Bros. Brawl, but not every game.
 
 ##### Instrucciones
 
