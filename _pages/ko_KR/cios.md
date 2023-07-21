@@ -56,10 +56,10 @@ cIOS 슬롯 선택: 248
 cIOS 버전 선택: 65535
 ```
 
-![cIOS 249 설치](/images/cios/d2x_v11_248.png)
-
-`d2x-v11-beta1`이 표시되지 않으면 먼저 cIOS 기반을 선택한 다음 다시 확인합니다. SD 카드가 잠겨 있는 경우에도 이러한 문제가 발생할 수 있습니다.
+If `d2x-v11-beta1` isn't showing up, try select the cIOS base first, then check again. This can also happen if your SD card is locked.
 {: .notice--info}
+
+![Install cIOS 248](/images/cios/d2x_v11_248.png)
 
 1. 설정이 완료되면 A 버튼을 두 번 눌러 설치합니다.
 1. 설치가 완료되면 A 버튼을 눌러 돌아가서 옵션을 다음과 같이 설정합니다:
@@ -71,7 +71,7 @@ cIOS 슬롯 선택: 249
 cIOS 버전 선택: 65535
 ```
 
-![cIOS 250 설치](/images/cios/d2x_v11_249.png)
+![Install cIOS 249](/images/cios/d2x_v11_249.png)
 
 1. 설정이 완료되면 A 버튼을 두 번 눌러 설치합니다.
 1. 설치가 완료되면 A 버튼을 눌러 돌아가서 옵션을 다음과 같이 설정합니다:
