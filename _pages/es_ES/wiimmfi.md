@@ -85,34 +85,34 @@ Gracias a Fullmetal5 y su exploit str2hax, el cual Leseratte logro adaptar para 
 
 #### Método DNS
 
-Este método permite aplicar el parche de Wiimmfi a algunos juegos antiguos, como Mario Kart Wii y Super Smash Bros. Brawl, sin importar si tu consola cuenta con acceso a homebrew. It works on some older games, such as Mario Kart Wii and Super Smash Bros. Brawl, but not every game.
+Este método permite aplicar el parche de Wiimmfi a algunos juegos antiguos, como Mario Kart Wii y Super Smash Bros. Brawl, sin importar si tu consola cuenta con acceso a homebrew.
 
 ##### Instrucciones
 
 1. Selecciona `Opciones de Wii` en el menú de Wii.
-2. Selecciona `Configuración de Wii`.
-3. Pasa a la segunda página y después selecciona `Internet`.
-4. Selecciona `Ajustes de conexión`.
+2. Elige `Configuración de Wii`.
+3. Pasa a la segunda página y después ve a `Internet`.
+4. Ingresa a `Ajustes de conexión`.
 5. Selecciona tu conexión actual.
-6. Selecciona `Modificar`.
-7. Pasa hasta la cuarta página, donde está la opción `Obtener DNS automáticamente` (no es en Obtener drección IP automáticamente), elige `No` y después selecciona `Configuración avanzada`.
-8. Type in `95.217.77.181` as the primary DNS.
-9. Type in `1.1.1.1` as the secondary DNS.
+6. Elige `Modificar`.
+7. Ve hasta la cuarta página, donde está la opción `Obtener DNS automáticamente` (no es en `Obtener drección IP automáticamente`), elige `No` y después selecciona `Configuración avanzada`.
+8. Ingresa `95.217.77.181` en `DNS primario`.
+9. Repite el paso anterior para el DNS secundario.
 10. Selecciona `Confirmar` y después elige `Guardar`.
-11. Selecciona `Aceptar` para realizar una prueba de conexión.
+11. Elige `Aceptar` para realizar una prueba de conexión.
 12. Si la prueba de conexión ha sido exitosa, elige `No` para saltar la actualización de la consola Wii.
 
-If you get error 20100 or 20110, that means the game is too new for this method.
+Si al tratar de acceder a Wiimmfi recibes el código de error 20100 o 20110, significa que tu juego es muy reciente para ser usado con este método.
 {: .notice--warning}
 
-If you get error 23400, that means your ISP (Internet Service Provider) or network is blocking the use of a custom DNS. <br> Wiimmfi has a DNS sever you can run on your PC to solve this. [Read more here.](https://wiimmfi.de/patcher/dnspatch#customdns)
+Si recibes el código de error 23400, significa que tu proveedor de servicios de internet (ISP) o entorno de red no permiten el uso de servidores DNS externos. <br> Para solucionar esto, Wiimmfi cuenta con un servidor DNS local que puedes ejecutar en una PC. [Más información.](https://wiimmfi.de/patcher/dnspatch#customdns)
 {: .notice--warning}
 
-### Automatic patching using a USB Loader
+### Parche automático usando USB Loader GX
 
-If you are already using USB Loader GX, try updating it to the most recent version. Then, there should be a "private server" setting (both in the global loader options and in the game options) which you can set to "Wiimmfi" to make the USB Loader automatically patch every game you start to work with Wiimmfi.
+SI ya estás usando USB Loader GX, actualiza a la versión más reciente, de ser necesario. Después, ve a `Configuración` > `Configuración del Cargador`, luego desciende hasta encontrar la opción `Servidor privado`, y ajústala a `Wiimmfi`. WiiFlow Lite también incluye esta opción.
 
-### ISO Patching
+### Parche para archivos ISO
 
 You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
 
