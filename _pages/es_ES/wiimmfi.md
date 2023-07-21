@@ -127,7 +127,7 @@ Si ya usas algún USB loader y no deseas parchear tus juegos cada vez que quiera
 #### Instrucciones
 
 1. Extrae el parche de tu elección y mueve la copia de tu juego a la misma carpeta.
-2. Ejecuta el script que corresponda a tu sistema operativo. Elige el archivo con extensión `.bat` si usas Windows, o el que termina en `.sh` en el caso de macOS y Linux. Si has elegido usar RiiConnect24 Patcher, selecciona tu consola (Wii, vWii, o Dolphin), y después el parche para tu juego.
+2. Ejecuta el script que corresponda a tu sistema operativo. Elige el archivo con extensión `.bat` si usas Windows, o el que termina en `.sh` en el caso de macOS y Linux. Si has elegido usar RiiConnect24 Patcher, selecciona tu consola (Wii, vWii, o Dolphin), y después elige el parche para tu juego.
 3. Una vez que el proceso haya terminado, abre la carpeta `wiimmfi-images`, y copia el archivo del juego parcheado a tu unidad USB. Si no encuentras dicha carpeta, intenta volver a la capeta anterior, donde se ubica la carpeta del parche.
 
 ### Parche para WiiWare
@@ -148,29 +148,29 @@ También es posible parchear juegos de WiiWare para jugar en Wiimmfi.
 
 Instrucciones:
 
-1. Extract the .zip of the latest version of WiiWare Patcher, and put your WAD in it.
-2. Ejecuta el script que corresponda a tu sistema operativo. Elige el archivo con extensión `.bat` si usas Windows, o el que termina en `.sh` en el caso de macOS y Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
-3. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
+1. Descarga la versión más reciente de WiiWare Patcher, luego extrae el archivo `.zip`, y coloca el archivo WAD en la carpeta recién creada.
+2. Ejecuta el script que corresponda a tu sistema operativo. Elige el archivo con extensión `.bat` si usas Windows, o el que termina en `.sh` en el caso de macOS y Linux. Si has elegido usar RiiConnect24 Patcher, selecciona tu consola (Wii, vWii, o Dolphin), y después elige WiiWare Patcher.
+3. Cuando el proceso se haya completado, instala el WAD ubicado en la carpeta `wiiware-wads` usando Wii Mod Lite.
 
 ## Otras cosas
 
-### Mario Kart Wii Competitions
+### Torneos de Mario Kart Wii
 
-Wiimmfi allows you to participate in Mario Kart Wii competitions again.
+Wiimmfi te permite participar nuevamente en torneos de Mario Kart Wii.
 
 #### Requisitos
 
 - Un tarjeta SD o unidad USB
-- Patcher de Competición de Mario Kart Wii (Mario Kart Wii Competition Patcher)
+- Mario Kart Wii Competition Patcher
   - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
   - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
-#### Instructions (for Wii)
+#### Instrucciones (para Wii)
 
-1. Extract Mario Kart Wii Competition Patcher and put it in the `apps` folder on your SD Card.
-2. Insert your SD card or USB drive into the Wii.
-3. Launch the original Mario Kart Wii game (not Wiimmfi patched).
-4. Navigate to Settings -> Network Settings (or Nintendo WFC Connection) -> Message Service. If you turned the message service feature on, turn it off and turn it on again.
+1. Extrae Mario Kart Wii Competition Patcher a la raíz de tu tarjeta SD o unidad USB.
+2. Inserta la tarjeta SD o unidad SD en tu Wii.
+3. Inicia el Mario Kart Wii original (sin parche de Wiimmfi).
+4. Dirígete a `Opciones` > `Conexión Wi-Fi de Nintendo` > `Servicio de mensajes`. Si habías habilitado el servicio de mensajes, desactívalo y luego vuélvelo a activar.
 5. Launch Mario Kart Wii Competition Patcher.
 6. The patcher will look for save files for Mario Kart Wii on your storage device in various places, and upload them. This is done in case a missing competition is found in your save file. It will also, of course, patch your Wii for competitions.
 
