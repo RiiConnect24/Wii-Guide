@@ -96,7 +96,7 @@ You will now set your DNS to our servers. This is optional but it's recommended,
 7. Pasa hasta la cuarta página, donde está la opción `Obtener DNS automáticamente` (no es en Obtener drección IP automáticamente), elige `No` y después selecciona `Configuración avanzada`.
 8. Type in `167.86.108.126` as the primary DNS.
 9. Type in `1.1.1.1` as the secondary DNS.
-10. Selecciona `Confirmar` y después elige `Guardar`.
+10. Select `Confirm`, then select `Save`.
 11. Selecciona `Aceptar` para realizar una prueba de conexión.
 12. Si la prueba de conexión ha sido exitosa, elige `No` para saltar la actualización de la consola Wii.
 13. Ve hacia `WiiConnect24`, luego `WiiConnect24` de nuevo, y asegúrate de que esté activado.
