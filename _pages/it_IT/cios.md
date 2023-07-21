@@ -56,10 +56,10 @@ Select cIOS slot: 248
 Select cIOS version: 65535
 ```
 
-![Installa cIOS 249](/images/cios/d2x_v11_248.png)
-
-Se `d2x-v11-beta1` non viene mostrato, prova a selezionare prima la cIOS base, dopo riprova. Questo può anche succedere se la tua scheda SD è bloccata.
+If `d2x-v11-beta1` isn't showing up, try select the cIOS base first, then check again. This can also happen if your SD card is locked.
 {: .notice--info}
+
+![Install cIOS 248](/images/cios/d2x_v11_248.png)
 
 1. Una volta fatto, premi A due volte per installare.
 1. Quando l'installazione sarà terminata, premi A per tornare indietro, e imposta le seguenti opzioni:
@@ -71,7 +71,7 @@ Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 
-![Installa cIOS 250](/images/cios/d2x_v11_249.png)
+![Install cIOS 249](/images/cios/d2x_v11_249.png)
 
 1. Una volta fatto, premi A due volte per installare.
 1. Quando l'installazione sarà terminata, premi A per tornare indietro, e imposta le seguenti opzioni:
