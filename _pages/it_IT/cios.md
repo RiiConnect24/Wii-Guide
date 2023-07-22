@@ -37,8 +37,9 @@ Se non sei su Windows, dovrai scaricare & eseguire [questo script](/assets/files
 1. Seleziona "Database", "IOS", poi "IOS38" e seleziona "v4123".
    - Assicurati che la casella "Pack WAD" sia spuntata.
    - *Non* spuntare la casella "Patch IOS". Quello sarà compito del cIOS Installer.
-1. Ripeti i passaggi precedenti per `IOS56 v5661`, `IOS57 v5918` e `IOS58 v6175`.
-1. Una volta che hai scaricato tutti e 4 gli IOS, ci sarà una cartella chiamata `titles` nella stessa cartella di NUS Downloader. <br/> Apri la cartella e naviga fino a trovare i 4 file WAD che hai scaricato. Copia ognuno dei file WAD nella root della tua scheda SD o unità USB.
+1. Click `Start NUS Download!`.
+1. Repeat the step 2 & 3 for `IOS56 v5661`, `IOS57 v5918` and `IOS58 v6175`.
+1. Once you have downloaded all four IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. <br/> Open the folder and navigate through them until you locate the four WAD files you downloaded. Place each WAD file on the root of your SD card or USB drive.
   - Questo dovrà essere lo stesso dispositivo contenente d2x cIOS Installer.
 
 I file WAD dovranno essere posizionati nella tua scheda SD così: ![offline IOS files](/images/cios/d2x_offline_ios.png)
