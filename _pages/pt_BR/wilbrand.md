@@ -39,11 +39,11 @@ Diferente do Letterbomb, Wilbrand suporta versões do menu do Wii anteriores ou 
 1.  Extraia o HackMii Installer v1.2 para uma pasta no seu PC.
     - Você também pode simplesmente abrir o arquivo zip no seu gerenciador de arquivos.
 1.  Localize o arquivo `boot.elf`, e coloque-o na raíz do seu cartão SD.
-1.  Take out your SD card and insert it in your Wii.
-    - The SD card must be inserted in the SD card slot located in the front of the Wii. Using a USB adapter plugged into the Wii's USB port will not work.
-1.  On your Wii, return to the Wii Menu and then open the Wii Message Board.
+1.  Pegue seu cartão SD e insira-o no seu Wii.
+    - O cartão SD deve ser inserido no slot de cartão SD localizado na frente do Wii. O uso de um adaptador USB conectado à porta USB do Wii não funcionará.
+1.  No seu Wii, retorne ao Menu do Wii e então abra o Wii Message Board.
 1.  Carregue a carta verde com um ícone de Bob-omb.
-    - Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
+    - Certifique-se que a data em seu Wii está correta, caso contrário você não poderá encontrar a carta.
     - Essa carta pode ter aparecido no dia anterior ou no próximo dia.
     - Se você não vê a carta verde, cheque se algum erro aparece nas sessões do cartão SD em `Data Management`. Se quaisquer aparecerem, talvez haja um erro com o formato do seu cartão SD ou o leitor de SD do Wii. ![Wilbrand no seu habitat natural](/images/wilbrand/msgboard.png)
 
