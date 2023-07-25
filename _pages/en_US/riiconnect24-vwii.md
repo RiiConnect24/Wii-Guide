@@ -43,16 +43,22 @@ Do **NOT** perform this guide on any other console than the vWii (Virtual Wii on
 
 * An SD card or USB drive
 * A computer
-* A Wii U console with an Internet connection that's capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi). **If you do not have a softmodded Wii U console, please follow [wiiuguide.xyz](https://wiiuguide.xyz), as well as [the virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.**
+* A Wii U with [the vWii modded](https://wiiu.hacks.guide/#/vwii-modding). **This guide requires the latest CFW on your Wii U.**
+* [Priiloader](priiloader) installed
+* [Load Priiloader](https://hbb1.oscwii.org/hbb/LoadPriiloader/LoadPriiloader.zip)
 * A Nintendo Network ID (NNID) linked to your Wii U
 * [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+* [RiiConnect24 Mail Patcher](https://hbb1.oscwii.org/hbb/Mail-Patcher/Mail-Patcher.zip)
 
-After following the above linked guide, you should have:
+{% capture notice-2 %}
+After following the vWii modding guide linked above, you should have:
 * A vWii NAND backup and keys (keep these stored safely!!)
 * The Homebrew Channel installed
 * d2x cIOS installed (IOS249, IOS250 and IOS251)
 * IOS80 patched
-{: .notice--info}
+{% endcapture %}
+
+<div class="notice" markdown="1">{{ notice-2 }}</div>
 
 #### Instructions
 
@@ -99,21 +105,21 @@ You will now install the patched IOS and Channel WADs that are required to use R
 6. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press the - Button on the highlighted WAD to uninstall it, then try installing it again.
 7. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
-##### Section III - Patching 43db for 16:9 (optional)
+##### Section III - Patching Wii Mail
 
-1. Launch ww-43db-patcher and wait for it to complete.
-
-If you [install a theme](/themes-vwii), you will have to run the ww-43db-patcher once more.
-{: .notice--info}
+1. Download and extract the RiiConnect24 Mail Patcher to the root of your SD card or USB drive.
+1. Launch the Homebrew Channel on your Wii U and launch the RiiConnect24 Mail Patcher.
+1. It should only take a few seconds to patch. Once it's done, press HOME to exit.
 
 ##### Section IV - Using RiiConnect24
 
-After following the above sections, you're almost ready to utilize RiiConnect24 on your Wii U. You just need to perform the following steps **every time you boot into vWii**.
-
-1. On the **Wii Menu**, launch the **ConnectMii** channel.
-* This will enable the WiiConnect24 and Standby Connection flags required by the WiiConnect24 Channels.
-2. Launch the WiiConnect24 Channels.
-* You should now be able to utilize all of the WiiConnect24 Channels you have installed.
+1. Launch the Homebrew Channel, then launch `Load Priiloader`.
+1. In the Priiloader menu, go to `System Menu Hacks`.
+![System menu hacks](/images/Priiloader/system_menu_hacks.png)
+1. Scroll through the list until you see `Always enable WiiConnect24 for vWii` and `Create message via Calendar button`, and press `A` on both to enable them.
+1. Scroll down to `save settings`, press `A`, then press `B` to go back.
+1. Select `System Menu.`
+1. Return to the Wii U Menu, then go right back to Wii Mode.
 
 #### What's currently working?
 The following RiiConnect24 services are **working** on the vWii:
@@ -122,11 +128,8 @@ The following RiiConnect24 services are **working** on the vWii:
 * Everybody Votes Channel
 * Nintendo Channel
 * Check Mii Out Channel / Mii Contest Channel
+* Wii Mail (requires Priiloader's `Create message via Calendar button` hack)
 {: .notice--success}
-
-The following RiiConnect24 services are **not working** on the vWii:
-* Wii Mail (most functionality does not exist on vWii)
-    * This includes sending/receiving mail to/from friends.
 
 Most services that utilize WiiConnect24 will be able to work if you leave vWii running for several hours. There's no standby mode on the console.
 {: .notice--warning}
