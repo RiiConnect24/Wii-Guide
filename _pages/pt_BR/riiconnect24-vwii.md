@@ -33,7 +33,7 @@ NÃO INSTALE RIICONNECT24 EM UM WII MINI! Não irá funcionar e causará um bric
 
 #### Avisos
 
-Nós **NÃO** somos responsáveis se você brickar, ou danificar seu console de qualquer forma. Se você seguir este guia exatamente, não deve ter nenhum problema.
+We are **NOT** responsible if you brick, or damage your console in any way whatsoever. If you follow this guide exactly, you shouldn't have any problems.
 {: .notice--warning}
 
 Faça **NÃO** execute este guia em qualquer outro console que não seja o vWii (Wii Virtual no Wii U). Se você estiver procurando instruções para um Nintendo Wii, use [este guia](riiconnect24). Se você deseja realizar este guia no Emulador Dolphin, use [este guia](riiconnect24-dolphin) em vez disso.
