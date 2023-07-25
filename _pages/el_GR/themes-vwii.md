@@ -6,6 +6,9 @@ title: "Installing Wii Menu Themes on vWii"
 
 Are you tired of the boring, plain white theme on your Wii Menu, and want a cool theme instead? This tutorial will help you get a new theme for your Wii Menu!
 
+Installing a theme after installing Priiloader WILL BRICK YOUR VWII.
+{: .notice--danger}
+
 We are **NOT** responsible if you brick, or damage your console in any way whatsoever. If you follow this guide exactly, you shouldn't have any problems.
 {: .notice--danger}
 
