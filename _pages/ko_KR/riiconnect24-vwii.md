@@ -33,7 +33,7 @@ Wii 미니에 RICONNECT24를 설치하지 마세요! 작동하지 않으며 시�
 
 #### 경고
 
-어떤 식으로든 콘솔을 파손하거나 손상을 입힌 경우 **본인 책임입니다**. 이 가이드를 정확히 따른다면 아무런 문제가 없을 것입니다.
+We are **NOT** responsible if you brick, or damage your console in any way whatsoever. If you follow this guide exactly, you shouldn't have any problems.
 {: .notice--warning}
 
 이 가이드를 vWii (Wii U의 가상 Wii) 가 아닌 다른 콘솔에서 **하지 마세요**. 닌텐도 Wii에 대한 설명서를 찾고 있다면 [이 가이드](riiconnect24)를 사용하세요. Dolphin 에뮬레이터에서 이 가이드를 수행하려면 [이 가이드](riiconnect24-dolphin)를 대신 사용하세요.
