@@ -42,7 +42,8 @@ USB 드라이브를 사용하여 Priiloader를 설치하는 경우, SD 카드가
 
 4. `Wiimmfi 패치 v4` 해킹이 활성화되어 있는지 확인합니다. ![시스템 메뉴 핵](/images/Priiloader/hacks.jpg)
 1. `설정 저장`까지 아래로 스크롤하여 A 버튼을 누른 다음 B 버튼을 눌러 프리로더의 메인 메뉴로 돌아갑니다.
-1. `홈브류 채널`로 스크롤하여 A 버튼을 눌러 실행합니다.
+1. Scroll to `System Menu` and press A to launch it.
+1. Launch your game through the Disc channel. It should be patched with Wiimmfi.
 
 대신 해킹 `Wiimmfi 패치 v2` 또는 `Wiimmfi 패치 v3`이 표시된다면, 최신 버전의 hacks_hash.ini 파일이 없는 것입니다.<br> [여기](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini)에서 다운로드하여 SD 카드 또는 USB 드라이브의 `/apps/priiloader/hacks_hash.ini`에 넣으세요.<br> 그런 다음 이전 단계를 반복합니다.
 {: .notice--warning}
