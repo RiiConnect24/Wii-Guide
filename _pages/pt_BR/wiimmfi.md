@@ -42,7 +42,8 @@ Se você estiver usando um armazenamento USB para instalar o Priiloader, certifi
 
 4. Certifique-se de que o hack `Wiimmfi patch v4` está ligado. ![Hacks do Menu do Sistema](/images/Priiloader/hacks.jpg)
 1. Desça até achar `save settings` e pressione A, em seguida pressione B para retornar ao menu principal do Priiloader.
-1. Desça até `Homebrew Channel` e pressione A para iniciá-lo.
+1. Scroll to `System Menu` and press A to launch it.
+1. Launch your game through the Disc channel. It should be patched with Wiimmfi.
 
 Se você ver o hack `Wiimmfi patch v2` ou `Wiimmfi patch v3` ao invés, então você não tem a versão mais recente do arquivo hacks_hash.ini.<br> Baixe-a [aqui](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) e coloque-a em `/apps/priiloader/hacks_hash.ini` no seu cartão SD ou armazenamento USB.<br> Então, repita os passos anteriores.
 {: .notice--warning}
