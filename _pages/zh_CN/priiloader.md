@@ -117,41 +117,41 @@ Priiloader 允许您自动启动到 Homebrew Channel、单个自制应用程序�
 ##### 自动启动自制应用程序
 
 {% capture UNEO %}
-If you would like to autoboot USB loader GX, do this first:
-  * Download the USB Loader GX forwarder WAD ([Wii](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), [vWii](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad)).
-  * Download the [UNEO Channel Booter for Priiloader](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders%20dols/UNEO%20Channel%20Booter%20for%20Priiloader.zip/download).
-  * Install the forwarder WAD with a WAD manager like [Wii Mod Lite](wiimodlite).
-  * Extract the `UNEO Channel Booter for Priiloader.zip` file anywhere.
-  * Copy `uneoboot.dol` to the root of your SD card.
+如果您要自动启动 USB loader GX，请先执行以下操作：
+  * 下载 USB Loader GX 转发频道 WAD ([Wii](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), [vWii](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad))。
+  * 下载 [UNEO Channel Booter for Priiloader](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders%20dols/UNEO%20Channel%20Booter%20for%20Priiloader.zip/download)。
+  * 使用类似 [Wii Mod Lite](wiimodlite) 的 WAD 管理器安装转发频道 WAD。
+  * 将 `UNEO Channel Booter for Priiloader.zip` 文件解压到任意位置。
+  * 将 `uneoboot.dol` 复制到您 SD 卡的根目录。
 
-You will be installing `uneoboot.dol` in step 3.
+您将在第 3 步中安装 `uneoboot.dol`。
 {% endcapture %}
 
 <div class="notice--warning"> {{ UNEO | markdownify }} </div>
 
-1. Launch the Homebrew channel, then launch the Load Priiloader app.
-1. Scroll down to `Load/Install file` and press A. ![Load/Install file](/images/Priiloader/menu_install_file.png)
-1. Scroll through the menu until your desired homebrew app is highlighted, and press A to install it. ![Installing a Homebrew app](/images/Priiloader/installing_file.png) ![Installing a Homebrew app OK](/images/Priiloader/installing_file_ok.png)
-1. Press B to go back to the main menu.
-1. Scroll down to `Settings` and press A. ![设置](/images/Priiloader/menu_settings.png)
-1. Press Right to cycle through the Autoboot options until `Installed file` is selected. ![Autoboot: Installed File](/images/Priiloader/autoboot_installed_file.png)
-1. Scroll down to `save settings` and press A. ![Saving settings](/images/Priiloader/settings_save.png)
-1. Press B to return to the main menu.
-1. Scroll back up to `System Menu` and press A.
+1. 打开 Homebrew Channel，然后启动 Load Priiloader 应用。
+1. 向下滚动到 `Load/Install file`，然后按 A。 ![Load/Install file](/images/Priiloader/menu_install_file.png)
+1. 滚动菜单，直到突出显示您所需的自制应用，然后按 A 安装。 ![安装自制应用](/images/Priiloader/installing_file.png) ![可以安装自制应用](/images/Priiloader/installing_file_ok.png)
+1. 按 B 回到主菜单。
+1. 向下滚动到 `Settings`，然后按 A。 ![设置](/images/Priiloader/menu_settings.png)
+1. 按右键以循环浏览 Autoboot 选项，直到选择 `Installed file`。 ![Autoboot: Installed File](/images/Priiloader/autoboot_installed_file.png)
+1. 向下滚动到 `save settings`，然后按 A。 ![保存设置](/images/Priiloader/settings_save.png)
+1. 按 B 回到主菜单。
+1. 向上滚动到 `System Menu`，然后按 A。
 
-Your Wii should now automatically boot to whichever homebrew app you installed.
+现在您的 Wii 应该会自动启动到您安装的任何自制应用。
 
 ##### 自动启动 Homebrew Channel 或 Priiloader
 
-1. Launch the Homebrew Channel, then launch the Load Priiloader app.
-1. Scroll down to `Settings` and press A. ![设置](/images/Priiloader/menu_settings.png)
-1. Press Right to cycle through the Autoboot options until your desired option is selected. <br> `Disabled` will autoboot to the Priiloader menu.
+1. 打开 Homebrew Channel，然后启动 Load Priiloader 应用。
+1. 向下滚动到 `Settings`，然后按 A。 ![设置](/images/Priiloader/menu_settings.png)
+1. 按右键以循环浏览 Autoboot 选项，直到选择您所需的选项为止。 <br> `Disabled` 将自动启动到 Priiloader 菜单。
 
-Please don't set Autoboot to `BootMii IOS`. You will get stuck in a loop until you continuously hold the RESET button to enter the Priiloader menu.
+请不要将 Autoboot 设置为 `BootMii IOS`。 您将被困在循环中，直到您持续按住 RESET 按钮进入 Priiloader 菜单。
 {: .notice--warning}
 
    ![Autoboot](/images/Priiloader/autoboot_disabled.png)
-1. Scroll down to `save settings` and press A. ![Saving settings](/images/Priiloader/settings_save.png)
-1. Press B to return to the main menu.
-1. Scroll back up to `System Menu` and press A.
+1. 向下滚动到 `save settings`，然后按 A。 ![保存设置](/images/Priiloader/settings_save.png)
+1. 按 B 回到主菜单。
+1. 向上滚动到 `System Menu`，然后按 A。
 
