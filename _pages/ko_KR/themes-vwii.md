@@ -15,9 +15,6 @@ We are **NOT** responsible if you brick, or damage your console in any way whats
 Do **NOT** install the themes made in this guide on an actual Wii. They are only compatible with the vWii System Menu and will brick an actual Wii.
 {: .notice--danger}
 
-WiiMotes with Wii MotionPlus will not work on MyMenuify, unfortunately there isn't anything we can do about this at the moment and you'll have to use an older Wii remote.
-{: .notice--warning}
-
 There are some themes that aren't compatible with the vWii System Menu, they may result in anything from graphical glitches to a full theme brick. We recommend only using themes from [rc24.xyz/goodies/themes](https://rc24.xyz/goodies/themes/) since these are compatible with modern versions of the System Menu.
 {: .notice--warning}
 
@@ -27,10 +24,9 @@ If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.ne
 #### 필요한 것
 
 * 홈브류 채널이 설치된 Wii U
-* Wii 모션플러스가 없는 위모트
-* SD 카드
-* 윈도우즈가 설치된 컴퓨터 (맥이나 리눅스에서 Mono나 Wine 사용도 가능)
-* [MyMenuify](/assets/files/Mymenuify-Old-vWii.zip)
+* SD 카드 및 USB 드라이브
+* 윈도우즈가 설치된 컴퓨터 (또는 맥/리눅스에서 Mono 또는 Wine 사용)
+* [MyMenuifyMod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
 * [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 * [NUS Downloader (vWii)](/assets/files/NUSDownloader-vwii.zip)
 
@@ -99,17 +95,17 @@ After you find the .app file, copy it to the main directory of the folder contai
 2. `기본 앱 다운로드`를 클릭하지 마십시오. ThemeMii에는 vWii용 기본 .app 파일이 없습니다. 기본 앱을 다운로드한 경우 vWii .app 파일을 사용하려면 해당 앱을 삭제해야 합니다.
 3. ThemeMii에서 `파일` -> `열기`를 선택하고 이전에 다운로드한 .mym 테마로 이동합니다.
 4. `CSM 생성`을 클릭하고 ThemeMii 폴더에 복사한 .app 파일을 선택합니다.
-5. 이제 SD 카드의 테마 폴더로 이동하여 확장자를 .csm으로 지정하여 테마를 저장합니다.
+5. Now navigate to the `theme` folder on your SD card and save your theme with the .csm extension.
 
 ![ThemeMii Menu](/images/Themes-vWii/ThemeMii-Mod-Preview_vWii.png)
 
 ##### 섹션 IV - 테마 설치
 
 1. PC에서 SD 카드를 꺼내 Wii U에 연결합니다.
-2. 홈브류 채널을 시작하고 MyMenuify를 실행합니다.
-3. 테마 폴더로 이동하여 방금 만든 .csm 파일을 선택합니다.
+2. Start the Homebrew Channel and launch MyMenuifyMod.
+3. Select the .csm file you just created.
 4. 테마를 설치하라는 메시지가 표시되면 `예`라고 답하고 설치가 완료될 때까지 기다립니다.
-5. 설치가 완료되면 MyMenuify에서 `계속` 또는 `종료` 중 하나를 선택하라는 메시지가 표시되며, `종료`를 선택합니다.
+5. When it finishes installing, MyMenuifyMod will prompt you to either `Continue` or `Exit`, choose `Exit`.
 
 If you did everything correctly, you should now have your custom theme installed on your Wii Menu.
 
