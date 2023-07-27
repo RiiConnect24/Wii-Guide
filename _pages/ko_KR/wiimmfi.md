@@ -40,7 +40,7 @@ Wiimmfi에 연결하는 방법에는 여러 가지가 있습니다. 사용 목�
 USB 드라이브를 사용하여 Priiloader를 설치하는 경우, SD 카드가 동시에 연결되어 있지 않은지 확인합니다. 이로 인해 Priiloader가 hacks_hash.ini 파일을 찾을 수 없게 됩니다.
 {: .notice--info}
 
-4. `Wiimmfi 패치 v4` 해킹이 활성화되어 있는지 확인합니다. ![시스템 메뉴 핵](/images/Priiloader/hacks.jpg)
+4. `Wiimmfi 패치 v4` 해킹이 활성화되어 있는지 확인합니다. ![System Menu Hacks](/images/Priiloader/hacks.jpg)
 1. `설정 저장`까지 아래로 스크롤하여 A 버튼을 누른 다음 B 버튼을 눌러 프리로더의 메인 메뉴로 돌아갑니다.
 1. Scroll to `System Menu` and press A to launch it.
 1. Launch your game through the Disc channel. It should be patched with Wiimmfi.
