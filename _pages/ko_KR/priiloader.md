@@ -15,74 +15,104 @@ Priiloader는 Wii에 벽돌 보호 기능을 추가합니다 (이름과 같이) 
 
 ![Priiloader 설치하기](/images/Priiloader/priiloader.jpg)
 
-vWii (Wii U의 경우 Wii 모드) 에 Priiloader를 **설치하지 않습니다**. 이렇게 하면 vWii는 벽돌이 될 수 있습니다.
-{: .notice--warning}
+{% capture notice-vwii-priiloader %}
+Priiloader 0.10.0 introduces vWii support! <br> There are some important things to take note of:
+- To fix the timestamp issues (FORE000006, wrong News Channel update time), you will need to [generate a timestamp fix hack](https://garyodernichts.github.io/priiloader-patch-gen/). More info on the page.
+- Installing a theme after installing Priiloader **will brick your vWii.**
+
+And some things to enhance your vWii experience:
+- [Priiloader Wii U Forwarder](https://github.com/DacoTaco/priiloader/releases/download/0.10.0-RC3/PriiloaderWiiUForwarder.wuhb) to load Priiloader straight from the Wii U Menu. **This only works on Aroma.**
+- [evWii Aroma Plugin](https://github.com/GaryOderNichts/evwii/releases) to enhance some extra features for vWii. The features are listed [here](https://github.com/GaryOderNichts/evwii#features).
+{% endcapture %}
+
+<div class="notice--success" markdown="1">
+
+{{ notice-vwii-priiloader }}
+</div>
 
 #### 필요한 것
 
 - SD 카드 및 USB 드라이브
-- [Priiloader 설치 프로그램](https://github.com/DacoTaco/priiloader/releases/download/0.9.1/Priiloader_v0_9_1.zip)
+- [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+- [LoadPriiloader](https://hbb1.oscwii.org/hbb/LoadPriiloader/LoadPriiloader.zip)
 
 #### 사용 방법
 
 ##### 섹션 I - 다운로드/설치하기
 
-1. Priiloader 설치 프로그램을 다운로드하여 SD 카드 또는 USB 드라이브의 루트에 압축 해제합니다.
+1. Download the Priiloader installer and LoadPriiloader apps.
+1. Extract both apps to the root of your SD card or USB drive.
 
 ##### 섹션 II - Priiloader 설치하기
 
 1. Wii에서 홈브류 채널을 실행합니다.
-2. Priiloader 설치 프로그램을 실행합니다.
-3. Wii 리모컨의 + 버튼 또는 게임큐브 컨트롤러의 A 버튼을 누릅니다.![Priiloader 설치하기](/images/Priiloader/installer.jpg) ![설치 중](/images/Priiloader/installing.jpg)
+1. Priiloader 설치 프로그램을 실행합니다.
+1. Press the + Button on Wii Remote or the A Button on a GameCube controller. ![Install Priiloader](/images/Priiloader/installer.png) ![Installing](/images/Priiloader/installing.png)
+1. Press A to return to the Homebrew Channel.
 
-##### 섹션 III - Priiloader 실행/설정하기
+##### Section III - Entering Priiloader
 
-1. Wii를 켜는 동안 RESET 버튼을 길게 누릅니다.
-   - Wii 미니를 사용하는 경우, USB 키보드를 연결하고 전원을 켠 상태에서 Escape 키를 길게 누릅니다.
+Priiloader will appear automatically after you install it. Simply exit the Homebrew Channel, and you should see the Priiloader menu: ![Priiloader menu](/images/Priiloader/menu.png)
 
-![켜기](/images/Priiloader/on.jpg) ![RESET 버튼 길게 누르기](/images/Priiloader/reset.jpg)
-
-2. Priiloader 메뉴가 나타납니다. ![메뉴](/images/Priiloader/mainmenu.jpg)
-3. `System Menu Hacks`로 이동합니다.
-
-USB 드라이브를 사용하여 Priiloader를 설치하는 경우, SD 카드가 동시에 연결되어 있지 않은지 확인합니다. 이로 인해 Priiloader가 hacks_hash.ini 파일을 찾을 수 없게 됩니다.
-{: .notice--info}
-
-4. 다음 핵을 켜는 것이 좋습니다: `Region Free EVERYTHING`, `Block Disc Updates`, `Block Online Updates` ![시스템 메뉴 핵](/images/Priiloader/hacks.jpg)
-1. `save settings`까지 아래로 스크롤하여 A 버튼을 누른 다음 B 버튼을 눌러 Priiloader의 메인 메뉴로 돌아갑니다.
-1. `Homebrew Channel`로 스크롤하여 A 버튼을 눌러 실행합니다
+To enter it later on, simply run the "Load Priiloader" homebrew app. There are also other ways to enter Priiloader:
+- Holding RESET on a Wii while turning it on.
+- Holding the ESC key on a USB keyboard while turning on the console.
 
 ### Priiloader 구성
 
-#### 시스템 메뉴 해킹 목록
+#### System Menu Hacks
 
-다음은 Priiloader로 활성화할 수 있는 해킹 목록입니다.
+1. Launch the Homebrew Channel, and launch the Load Priiloader app.
+1. Scroll down to `System Menu Hacks` and press `A`. ![System menu hacks](/images/Priiloader/menu_hacks.png)
 
-| 핵                                       | 설명                                                                                                                  |
-| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Block Disc Updates                      | 게임을 플레이하기 전에 시스템을 강제로 업데이트하도록 하는 일부 게임에 포함된 "Wii 시스템 업데이트" 화면을 제거합니다.                                               |
-| Block Online Updates                    | Wii 업데이트를 비활성화합니다. 오류 32007과 함께 업데이트가 실패합니다.                                                                        |
-| Auto-Press A at Health Screen           | A 버튼을 자동으로 눌러 "경고 - 건강과 안전을 위하여" 화면을 넘어갈 수 있습니다.                                                                    |
-| Replace Health Screen with Backmenu     | Wii 메뉴로 돌아갈 때 재생되는 애니메이션으로 "경고 - 건강과 안전을 위하여" 화면을 변경합니다.                                                            |
-| Move Disc Channel                       | Wii 메뉴에서 디스크 채널을 어디로든 이동할 수 있습니다. 일반적으로 첫 페이지의 왼쪽 상단에 고정되어 있습니다.                                                    |
-| Wiimmfi Patch v4                        | 디스크 채널에서 실행하는 모든 게임을 Wiimmfi와 함께 사용할 수 있도록 자동으로 패치합니다.                                                              |
-| 480p graphics fix in system menu        | Wii 메뉴에서 480p의 사소한 문제를 수정합니다.                                                                                       |
-| Remove NoCopy Save File Protection      | 일반적으로 허용되지 않는 저장 파일을 데이터 관리에서 SD 카드로 복사할 수 있습니다.                                                                    |
-| Region Free EVERYTHING                  | 다운로드한 응용 프로그램을 포함한 모든 Wii 응용 프로그램의 지역 잠금을 비활성화합니다.                                                                  |
-| No System Menu Sounds AT ALL            | 모든 Wii 메뉴 음향 효과를 비활성화합니다.                                                                                           |
-| No System Menu Background Music         | Wii 메뉴 배경 음악을 비활성화합니다.                                                                                              |
-| Re-Enable Bannerbomb v2                 | 최신 Wii 버전에서 "Bannerbomb" 취약점 공격을 활성화합니다.  홈브류 채널이 이미 설치되어 있는 경우 필요하지 않습니다.                                          |
-| OSReport to UsbGecko(slot B)            | 메모리 카드 슬롯 B에 있는 디버깅 장치로 Wii 메뉴 로그를 전송합니다.                                                                           |
-| OSReport to UsbGecko(GeckoOS,B)         | Gecko OS에서 Wii 메뉴가 실행되는 경우 메모리 카드 슬롯 B에 있는 디버깅 장치로 Wii 메뉴 로그를 전송합니다.                                                |
-| Force Standard Recovery Mode            | 복구 모드에서 콘솔을 자동으로 시작합니다. 복구 디스크를 실행하여 사용자가 Wii 시스템의 벽돌을 해제할 수 있도록 하는 데 사용됩니다.                                        |
-| Remove Diagnostic Disc Check            | 삽입된 게임이 "Wii 시동 디스크"의 타이틀 ID와 일치하는지 Wii에서 확인을 제거합니다.                                                                |
-| No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx | (취약점 공격으로 인해 시스템 업데이트에서 차단된) 이러한 타이틀 ID를 가진 채널을 다시 활성화합니다.                                                          |
-| Force Disc Games to run under IOS249    | 디스크가 게임의 IOS로 cIOS 249를 사용하도록 설정합니다. 자체적으로 구운 게임을 재생할 수는 없지만 구운 디스크를 재생하는 데 필요합니다. (레코딩되지 않은 게임에서 오류 002가 발생할 수 있음) |
-| Remove Deflicker                        | 깜박임 필터를 제거하고 Wii 메뉴가 더 선명하게 보이도록 합니다.                                                                               |
+If you have put the Priiloader installer on your USB drive, make sure you do not have an SD card inserted at the same time. <br> This causes Priiloader to fail to find the `hacks_hash.ini` file.
+{: .notice--warning}
+
+1. Press `A` on each hack you would like to enable.<br> We reccommend that you enable `Block Disc Updates`, `Block Online Updates`, and `Region Free EVERYTHING`. ![System menu hacks list](/images/Priiloader/system_menu_hacks.png)
+1. Scroll down to `save settings` and press `A`.
+1. Press `B` to return to the main menu.
+
+<details id="system-menu-hacks-list" class="notice--info" markdown="1">
+<summary><a>Click here for a full list of available System menu hacks.</a></summary>
+
+| 핵                                         | 설명                                                                                                                                                                                    |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Block Disc Updates                        | 게임을 플레이하기 전에 시스템을 강제로 업데이트하도록 하는 일부 게임에 포함된 "Wii 시스템 업데이트" 화면을 제거합니다.                                                                                                                 |
+| Block Online Updates                      | Wii 업데이트를 비활성화합니다. 오류 32007과 함께 업데이트가 실패합니다.                                                                                                                                          |
+| Auto-Press A at Health Screen             | A 버튼을 자동으로 눌러 "경고 - 건강과 안전을 위하여" 화면을 넘어갈 수 있습니다.                                                                                                                                      |
+| Replace Health Screen with Backmenu       | Wii 메뉴로 돌아갈 때 재생되는 애니메이션으로 "경고 - 건강과 안전을 위하여" 화면을 변경합니다.                                                                                                                              |
+| Move Disc Channel                         | Wii 메뉴에서 디스크 채널을 어디로든 이동할 수 있습니다. 일반적으로 첫 페이지의 왼쪽 상단에 고정되어 있습니다.                                                                                                                      |
+| Wiimmfi Patch v4                          | 디스크 채널에서 실행하는 모든 게임을 Wiimmfi와 함께 사용할 수 있도록 자동으로 패치합니다.                                                                                                                                |
+| 480p graphics fix in system menu          | Wii 메뉴에서 480p의 사소한 문제를 수정합니다.                                                                                                                                                         |
+| Remove NoCopy Save File Protection        | 일반적으로 허용되지 않는 저장 파일을 데이터 관리에서 SD 카드로 복사할 수 있습니다.                                                                                                                                      |
+| Region Free EVERYTHING                    | 다운로드한 응용 프로그램을 포함한 모든 Wii 응용 프로그램의 지역 잠금을 비활성화합니다.                                                                                                                                    |
+| ~~No System Menu Sounds AT ALL~~          | ~~Disables all the Wii Menu sound effects.~~ Currently broken.                                                                                                                        |
+| No System Menu Background Music           | Wii 메뉴 배경 음악을 비활성화합니다.                                                                                                                                                                |
+| Re-Enable Bannerbomb v2                   | 최신 Wii 버전에서 "Bannerbomb" 취약점 공격을 활성화합니다.  홈브류 채널이 이미 설치되어 있는 경우 필요하지 않습니다.                                                                                                            |
+| OSReport to UsbGecko(slot B)              | 메모리 카드 슬롯 B에 있는 디버깅 장치로 Wii 메뉴 로그를 전송합니다.                                                                                                                                             |
+| OSReport to UsbGecko(GeckoOS,B)           | Gecko OS에서 Wii 메뉴가 실행되는 경우 메모리 카드 슬롯 B에 있는 디버깅 장치로 Wii 메뉴 로그를 전송합니다.                                                                                                                  |
+| Force boot into Data Management           | Immediately loads the Wii menu into Data Management.                                                                                                                                  |
+| Force Standard Recovery Mode              | Automatically launches the console in recovery mode. Used to launch recovery discs, letting users unbrick their Wii systems.                                                          |
+| Remove Diagnostic Disc Check              | Removes a check in the Wii to see if an inserted game matches the title ID of the "Wii Startup Disc".                                                                                 |
+| No-Delete HAXX,JODI,DVDX,DISC,DISK,RZDx   | Re-enable channels with these title IDs (originally blocked in system updates due to them being exploits).                                                                            |
+| Force Disc Games to run under IOS249      | Make discs use cIOS 249 as the game's IOS. While it cannot allow playing of burned games on its own, it is needed to play burned discs. (Can give you Error 002 on a non-burned game) |
+| Remove Deflicker                          | Removes the deflicker filter and makes the Wii Menu appear clearer.                                                                                                                   |
+| Block Disc Autoboot                       | This prevents the Wii from instantly launching discs with title IDs starting with 0 or 1 (0x30, 0x31).                                                                                |
+| Allow TitleID RAAE, 408x, 410x            | Allows the Wii Menu to read the discs with the title IDs RAAE (Wii Startup Disc), 408x and 410x (Wii Backup Disc)                                                                     |
+| Remove IOS16 Disc Error                   | Allows the Wii Menu to launch discs (this is only the Wii Backup Disc) that use IOS16.                                                                                                |
+| Mark Network Connection as Tested         | Enables the `Use This Connection` button in the Internet connection settings, regardless of the results of the last connection test.                                                  |
+| Always enable WiiConnect24 for vWii       | Enables WiiConnect24 & Standby Connection every time the Wii menu starts. **Requires a reboot after enabling.**                                                                       |
+| Create message via Calendar button (vWii) | Clicking on the Calendar button opens the Create Message menu instead of the Calendar, allowing the user to create Memos, send messages to, and register Wii friends.                 |
+
+</details>
+
+[Continue to the Dos and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
+{: .notice--info}
+
 
 #### Priiloader를 사용한 자동 부팅
 
-Priiloader를 사용하면 홈브류 채널, 개별 홈브류 응용 프로그램 또는 Priiloader 자체로 자동 부팅할 수 있습니다.
+Priiloader allows you to automatically boot to the Homebrew Channel, an individual homebrew application, or Priiloader itself. This is optional.
 
 ##### 홈브류 응용 프로그램 자동 부팅
 
@@ -99,33 +129,29 @@ You will be installing `uneoboot.dol` in step 3.
 
 <div class="notice--warning"> {{ UNEO | markdownify }} </div>
 
-1. Wii를 켤 때 RESET 버튼을 길게 눌러 Priiloader로 들어갑니다.
-  - Wii 미니를 사용하는 경우 USB 키보드를 연결하고 전원을 켠 상태에서 Escape 키를 길게 누릅니다.![켜기](/images/Priiloader/on.jpg) ![RESET 버튼 길게 누르기](/images/Priiloader/reset.jpg)
-1. `Load/Install file`까지 아래로 스크롤하고 A 버튼을 누릅니다. ![파일 로드/설치](/images/Priiloader/menu_install_file.png)
-1. 원하는 홈브류 앱이 강조 표시될 때까지 메뉴를 스크롤한 다음 A 버튼을 눌러 앱을 설치합니다.![홈브류 앱 설치](/images/Priiloader/installing_file.png) ![홈브류 앱 설치 완료](/images/Priiloader/installing_file_ok.png)
-1. B 버튼을 눌러 메인 메뉴로 돌아갑니다.
-1. `Settings`까지 아래로 스크롤하고 A 버튼을 누릅니다. ![설정](/images/Priiloader/menu_settings.png)
-1. 오른쪽 버튼을 눌러 `Installed file`이 선택될 때까지 자동 부팅 옵션을 순환합니다. ![자동 부팅: 설치된 파일](/images/Priiloader/autoboot_installed_file.png)
-1. `save settings`까지 아래로 스크롤하고 A 버튼을 누릅니다. ![설정 저장 중](/images/Priiloader/settings_save.png)
-1. B 버튼을 눌러 메인 메뉴로 돌아갑니다.
-1. `System Menu`까지 뒤로 스크롤하고 A 버튼을 누릅니다.
+1. Launch the Homebrew channel, then launch the Load Priiloader app.
+1. Scroll down to `Load/Install file` and press A. ![Load/Install file](/images/Priiloader/menu_install_file.png)
+1. Scroll through the menu until your desired homebrew app is highlighted, and press A to install it. ![Installing a Homebrew app](/images/Priiloader/installing_file.png) ![Installing a Homebrew app OK](/images/Priiloader/installing_file_ok.png)
+1. Press B to go back to the main menu.
+1. Scroll down to `Settings` and press A. ![설정](/images/Priiloader/menu_settings.png)
+1. Press Right to cycle through the Autoboot options until `Installed file` is selected. ![Autoboot: Installed File](/images/Priiloader/autoboot_installed_file.png)
+1. Scroll down to `save settings` and press A. ![Saving settings](/images/Priiloader/settings_save.png)
+1. Press B to return to the main menu.
+1. Scroll back up to `System Menu` and press A.
 
 Your Wii should now automatically boot to whichever homebrew app you installed.
 
 ##### 홈브류 채널 또는 Priiloader 자동 부팅하기
 
-1. Wii를 켤 때 RESET 버튼을 길게 눌러 Priiloader로 들어갑니다.
-  - Wii 미니를 사용하는 경우 USB 키보드를 연결하고 전원을 켠 상태에서 Escape 키를 길게 누릅니다.![켜기](/images/Priiloader/on.jpg) ![RESET 버튼 길게 누르기](/images/Priiloader/reset.jpg)
-1. `Settings`까지 아래로 스크롤하고 A 버튼을 누릅니다. ![설정](/images/Priiloader/menu_settings.png)
-1. 오른쪽 버튼을 눌러 원하는 옵션이 선택될 때까지 자동 부팅 옵션을 순환합니다. <br> `Disabled`을 선택하면 Priiloader 메뉴로 자동 부팅됩니다.
+1. Launch the Homebrew Channel, then launch the Load Priiloader app.
+1. Scroll down to `Settings` and press A. ![설정](/images/Priiloader/menu_settings.png)
+1. Press Right to cycle through the Autoboot options until your desired option is selected. <br> `Disabled` will autoboot to the Priiloader menu.
 
 Please don't set Autoboot to `BootMii IOS`. You will get stuck in a loop until you continuously hold the RESET button to enter the Priiloader menu.
 {: .notice--warning}
 
-![Autoboot](/images/Priiloader/autoboot_disabled.png)
-1. `save settings`까지 아래로 스크롤하고 A 버튼을 누릅니다. ![설정 저장 중](/images/Priiloader/settings_save.png)
-1. B 버튼을 눌러 메인 메뉴로 돌아갑니다.
-1. `System Menu`까지 뒤로 스크롤하고 A 버튼을 누릅니다.
+   ![Autoboot](/images/Priiloader/autoboot_disabled.png)
+1. Scroll down to `save settings` and press A. ![Saving settings](/images/Priiloader/settings_save.png)
+1. Press B to return to the main menu.
+1. Scroll back up to `System Menu` and press A.
 
-[Continue to the Dos and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
-{: .notice--info}
