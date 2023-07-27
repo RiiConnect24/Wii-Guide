@@ -20,7 +20,7 @@ title: "RiiConnect24"
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-在继续之前，建议将您的 Wii 设置为当前时间。 请按照[此教程](rtc)设置时间。
+It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
 {: .notice--warning}
 
 不要在 WII MINI 上安装 RIICONNECT24！ 它将无法正常工作并导致变砖。
