@@ -40,7 +40,7 @@ Se você tem uma versão mais antiga do Priiloader ou não o tem instalado, siga
 Se você estiver usando um armazenamento USB para instalar o Priiloader, certifique-se que você não tem um cartão SD inserido no seu Wii ao mesmo tempo. Isso fará com que o Priiloader não consiga encontrar o arquivo hacks_hash.ini.
 {: .notice--info}
 
-4. Certifique-se de que o hack `Wiimmfi patch v4` está ligado. ![Hacks do Menu do Sistema](/images/Priiloader/hacks.jpg)
+4. Certifique-se de que o hack `Wiimmfi patch v4` está ligado. ![System Menu Hacks](/images/Priiloader/hacks.jpg)
 1. Desça até achar `save settings` e pressione A, em seguida pressione B para retornar ao menu principal do Priiloader.
 1. Scroll to `System Menu` and press A to launch it.
 1. Launch your game through the Disc channel. It should be patched with Wiimmfi.
