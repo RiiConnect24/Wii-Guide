@@ -63,7 +63,7 @@ Select cIOS version: 65535
 ![安装 cIOS 248](/images/cios/d2x_v11_248.png)
 
 1. 设置完成后，按2次A安装。
-1. 安装完成后，按A返回，并将选项设置为:
+1. 安装完成后，按 A 返回，并将选项设置为：
 
 ```
 Select cIOS: d2x-v11-beta1
@@ -75,7 +75,7 @@ Select cIOS version: 65535
 ![安装 cIOS 249](/images/cios/d2x_v11_249.png)
 
 1. 设置完成后，按2次A安装。
-1. 安装完成后，按A返回，并将选项设置为:
+1. 安装完成后，按 A 返回，并将选项设置为：
 
 ```
 Select cIOS: d2x-v11-beta1
@@ -87,7 +87,7 @@ Select cIOS version: 65535
 ![安装 cIOS 250](/images/cios/d2x_v11_250.png)
 
 1. 设置完成后，按2次A安装。
-1. 安装完成后，按A返回，并将选项设置为:
+1. 安装完成后，按 A 返回，并将选项设置为：
 
 ```
 Select cIOS: d2x-v11-beta1
