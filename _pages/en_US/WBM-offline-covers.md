@@ -30,40 +30,37 @@
 
 1. Under the "Select" tab, click "All" option from the drop down menu to select all your games.
 1. Click the "Tools" tab in the same row, select "Covers" option from the menu and then click "Sync and download all".
-1. The covers will now begin to download and it shouldn't take long.
+1. The covers will now begin to download and shouldn't take long.
 1. Now if you go back to the "Files" tab and select a game, you should now see the games along with the new covers.
    ![Covers_Show_Now](/images/WBM/Covers_Show_Now.png)
 
 ##### Section III - Verifying the covers downloaded
 
-1. Open File Explorer and navigate to the `covers` folder that's on the root of your SD card or USB drive. You should see the covers for your games. (NOTE: The covers will look different if you selected another cover style)
+1. Open File Explorer and navigate to the `covers` folder that's on the root of your SD card or USB drive. You should see the covers for your games.
+
+   - The covers will look different if you selected another cover style.
+
    ![verifying_Covers](/images/WBM/verifying_Covers.png)
 
 ##### Section IV - Displaying the covers
 
-1. safely eject and insert the SD card or USB drive into your Wii. If using a USB HDD, ensure it is plugged into Port 0, like seen here.
-   ![Port0](/images/USBLoadergx/Port0.png)
-1. Launch "The Homebrew Channel" (HBC) on your Wii, then load "USB Loader GX".
-1. In USB Loader GX, go to "Settings". ("Gears" icon in the bottom left corner)
-
+1. Eject and insert your SD card or USB drive into your Wii.
+1. Launch the Homebrew Channel on your Wii, then load "USB Loader GX".
+1. In USB Loader GX, go to "Settings".
    ![Settings](/images/USBLoadergx/Settings.png)
-
-1. Press right on the d-pad or the "+" symbol on the Wii remote to navigate to page 2 in the settings menu.
-   ![Page2](/images/USBLoadergx/Page_2.png)
-1. On Page 2, click the "Custom Paths" option.
+1. Navigate to the second page and select "Custom Paths".
    ![page2](/images/USBLoadergx/Custom_Paths.png)
-1. Choose the "3D Cover Path" option.
+1. Select "3D Cover Path".
    ![3dcoverpath](/images/USBLoadergx/3D_Cover_Path.png)
-1. When the "3D Cover Path" screen appears, you should see the root of your SD card or USB drive. If needed, change the drive by clicking the middle button where the pointer is.
-   ![RootofDrive](/images/USBLoadergx/Switch_Drives.png)
-1. In the "3D Cover Path" screen, locate and select the "covers" folder.
+1. You should now see the root of your SD card or USB drive. If needed, change the drive by selecting the center button at the bottom of the screen. Locate and select the "covers" folder.
    ![CoversFolder](/images/USBLoadergx/Root_Covers.png)
 1. Press "OK" to set the path and then click "OK" on the next screen as well.
    ![pngs](/images/USBLoadergx/USBLGX_PNGS.png)
-1. Back out of the settings menu and verify that the covers are displaying correctly on the main USB Loader GX screen.
+1. Exit the settings menu and verify that the covers are displaying correctly on the main USB Loader GX screen.
    ![FullCovers](/images/USBLoadergx/Full_Covers.png)
-   Congratulations! You have successfully obtained and displayed the game covers for your games. Enjoy your gaming experience with full covers!
-   {: .notice--info}
+
+{: .notice--info}
+Congratulations! You have successfully obtained and displayed the game covers for your games. Enjoy your gaming experience with full covers!
 
 </div>
 
@@ -100,57 +97,59 @@ If you don't know how to load your games, click [here](wiibackupmanager).
 
 ##### Section III - Downloading the covers
 
-1. To download the covers, click the "Select" tab, then click the "All" option from the drop down menu to select all your games, once you've done that you'll see that the boxes next to the games have a checkmark.
-1. Next select the "Tools" tab (In the same row, NOT the "Tools" tab that's in the top left corner), then select the "covers" option from the drop down menu and then click "Snyc and download all".
-1. You'll see a " \* " next to the "Downloads" indicating that your covers are downloading and if you go into the "Downloads" tab you should see the covers being downloaded. (NOTE: It downloads the covers quick, so don't worry if you don't see them)
-   ![Full_Cover_DL](/images/WBM/Full_Cover_DL.png)
+1. Under the "Select" tab, click "All" option from the drop down menu to select all your games.
+1. Click the "Tools" tab in the same row, select "Covers" option from the menu and then click "Sync and download all".
+1. The covers will now begin to download and shouldn't take long.
 1. Now if you go back to the "Files" tab and select a game, you should now see the games along with the new covers.
    ![Covers_Show_Now](/images/WBM/Covers_Show_Now.png)
 
 ##### Section III - Verifying the covers downloaded
 
-1. Open File Explorer and navigate to the `WiiFlow` folder that's on the root of your SD card or USB drive. You should see the covers for your games. (NOTE: The covers will look different if you selected another cover style)
-   ![verifying_Covers](/images/WBM/Verifing_Covers_WF.png)
+1. Open File Explorer and navigate to the `covers` folder that's on the root of your SD card or USB drive. You should see the covers for your games.
+
+   - The covers will look different if you selected another cover style.
+
+   ![verifying_Covers](/images/WBM/verifying_Covers.png)
 
 ##### Section IV - Displaying the covers
 
-1. Safely eject and insert the SD card or USB drive into your Wii. If using a USB HDD, ensure it is plugged into Port 0, like seen here.
-   ![Port0](/images/USBLoadergx/Port0.png)
-1. Launch "The Homebrew Channel" (HBC) on your Wii, then load "WiiFlow".
-1. Press the HOME button on the Wii remote to open the `Settings`.
+1. Eject and insert your SD card or USB drive into your Wii.
+1. Launch the Homebrew Channel on your Wii, then load "WiiFlow".
+1. Press the HOME button on the Wii Remote to open the `Settings`.
    ![WF_Click_Settings](/images/WiiFlow/WF_Click_Settings.png)
 
-1. When in the Settings screen, press either the `Right Arrow` in the bottom left or the " + " icon on the Wii remote to go to Page 4.
-![WF_Go_To_Page4](/images/WiiFlow/WF_Go_To_Page4.png)
-<!-- fix the wording with this -->
-1. Once in Page 4. You'll see an option called `Path Manager` , press `GO`
+1. In Settings, navigate to Page 4 and select `Go` besides the `Path Manager` option.
    ![WF_Path_Manager](/images/WiiFlow/WF_Path_Manager.png)
-1. When you get into the `Path Manager` screen, click the `Set` option for the `Box Cover`.
+1. Select the `Set` option for the `Box Covers`.
    ![WF_Box_Cover](/images/WiiFlow/WF_Box_Cover.png)
-1. Once you've done that you should see this screen. Pick the device that has the `WiiFlow` folder on the root of the device.
+1. Pick the device that has the `WiiFlow` folder on the root of the device.
    ![WF_Pick_Device](/images/WiiFlow/WF_Pick_Device.png)
-1. After you picked your deivce, navigate to the `WiiFlow` folder and select it. (NOTE" It may be on a different page, use the `Arrows` at in the bottom left to change pages)
+1. After you picked your deivce, navigate to the `WiiFlow` folder and select it.
+
+   - If the folder is on a different page, use the arrows at the bottom left to navigate to the correct page.
+
    ![WF_WiiFlow_Folder](/images/WiiFlow/WF_WiiFlow_Folder.png)
-1. Look for a folder called `boxcovers` and select it.
+
+1. Locate and select the `boxcovers` folder.
    ![WF_Boxcovers_Folder](/images/WiiFlow/WF_Boxcovers_Folder.png)
-1. You'll be meet with a blank screen, don't worry it's normal, press the `Set` button that's in the buttom middle of the screen
+1. Select `Set`.
    ![WF_PNGS](/images/WiiFlow/WF_PNGS.png)
-1. Select the `Back` option until you return to the WiiFlow main menu. You should now see a message saying "Converting covers X of X". This indicates that WiiFlow is converting the covers for your games.
+1. Select the `Back` option until you return to the WiiFlow main menu. You should now see a message saying that WiiFlow is converting your covers.
    ![WF_Covers_Show](/images/WiiFlow/WF_Covers_Show.png)
 
-Congratulations! You have successfully obtained and displayed the game covers for your games. Enjoy your gaming experience with full covers!
 {: .notice--info}
+Congratulations! You have successfully obtained and displayed the game covers for your games. Enjoy your gaming experience with full covers!
 
 #### Troubleshooting
 
-The covers aren't displaying.
+##### The covers aren't displaying.
 
-Reload cache. If you don't see the covers on the games, press the HOME button on the Wii Remote while in WiiFlow. Select `Reload Cache`, and the covers should now appear.
+Press the HOME button on the Wii Remote while in WiiFlow. Select `Reload Cache`, and the covers should now appear.
 ![WF_Reload_Cache](/images/WiiFlow/WF_Reload_Cache.png)
 
-The covers are zoomed in, stretched or are too small for the case.
+##### The covers are zoomed in, stretched or are too small for the case.
 
-If the covers are zoomed in, stretched or not fitting right on the cases. Power down the Wii, eject the SD card or USB drive and plug it into the computer. Open File Explorer, navigate to your device and go into the `WiiFlow` folder that's on the root. Once there, look for a folder called `cache` and delete it. Safely eject the device from the computer and plug it back into the Wii and load WiiFlow again, the covers should be there now.
+If the covers are zoomed in, stretched or not fitting right on the cases, power down the Wii, eject the SD card or USB drive and insert it into the computer. Open File Explorer, navigate to your device and go into the `WiiFlow` folder on the root of the drive. Locate and delete a folder called `cache`. Eject the device from the computer and insert it back into the Wii and load WiiFlow again, the covers should be displaying properly now.
 
 </div>
 
