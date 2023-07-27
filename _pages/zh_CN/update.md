@@ -59,7 +59,7 @@ title: "更新 Wii 菜单至 v4.3"
 5. 按 A 安装 IOS80 的 `.wad` 文件。 【`确保安装成功，否则请中止。`】
 6. 按 A 安装 Wii 菜单 WAD。
 7. 按 A 安装 IOS58 的 `.wad` 文件。 【`确保安装成功，否则请中止。`】
-8. 安装成功后，按HOME按钮返回Homebrew Channel。
+8. 安装成功后，按 HOME 按钮回到 Homebrew Channel。
 
 **安装 Wii 菜单 WAD 将删除 Priiloader。** <br> **请先不要回到 Wii 菜单，否则可能会变砖。** <br> **[立即安装 Priiloader！！](priiloader)** <br>
 {: .notice--danger}
