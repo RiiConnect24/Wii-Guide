@@ -34,7 +34,7 @@ If you have an older version of Priiloader or don't have it installed, follow [t
 
 ![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
 
-2. Dovresti essere nel menu Priiloader. ![Menù](/images/Priiloader/mainmenu.jpg)
+2. Dovresti essere nel menu Priiloader. ![Menu](/images/Priiloader/mainmenu.jpg)
 3. Vai su `System Menu Hacks`.
 
 Se stai utilizzando un'unità USB per installare Priiloader, assicurati di non avere una scheda SD inserita allo stesso tempo. Altrimenti Priiloader non sarà in grado di trovare il file hacks_hash.ini.
