@@ -68,7 +68,7 @@ To enter it later on, simply run the "Load Priiloader" homebrew app. There are a
 If you have put the Priiloader installer on your USB drive, make sure you do not have an SD card inserted at the same time. <br> This causes Priiloader to fail to find the `hacks_hash.ini` file.
 {: .notice--warning}
 
-1. Press `A` on each hack you would like to enable.<br> We reccommend that you enable `Block Disc Updates`, `Block Online Updates`, and `Region Free EVERYTHING`. ![System menu hacks list](/images/Priiloader/system_menu_hacks.png)
+1. Press `A` on each hack you would like to enable. We reccommend that you enable "Block Disc Updates", "Block Online Updates", and "Region Free EVERYTHING". ![System menu hacks list](/images/Priiloader/system_menu_hacks.png)
 1. Scroll down to `save settings` and press `A`.
 1. Press `B` to return to the main menu.
 
@@ -109,6 +109,9 @@ If you have put the Priiloader installer on your USB drive, make sure you do not
 [Continue to the Dos and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
 {: .notice--info}
 
+### Additional options
+
+These are some extra things you can do with Priiloader to enhance your homebrew experience. This is optional.
 
 #### Avvio automatico con Priiloader
 
