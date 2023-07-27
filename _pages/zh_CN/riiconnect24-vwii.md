@@ -14,7 +14,7 @@ title: RiiConnect24 vWii 指南
 [RiiConnect24](https://rc24.xyz/) 允许你使用已经停止运营的 WiiConnect24 服务，包含新闻、天气、大家一起投票、大家的任天堂和Mii竞赛频道，还有Wii邮箱。
 
 {% capture notice-1 %}
-This guide is for vWii (Wii Mode on Wii U) only.
+本指南仅适用于 vWii（Wii U 的 Wii 模式）。
 
 - 如果您想在 Wii 上安装RiiConnect24，请按照[此教程](riiconnect24-wii)进行操作。
 - 如果你想在 Dolphin 模拟器上安装 RiiConnect24，请按照[此教程](riiconnect24-dolphin)进行操作。
@@ -22,7 +22,7 @@ This guide is for vWii (Wii Mode on Wii U) only.
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
+在继续之前，建议将您的 Wii 设为当前时间。 请按照[此教程](rtc)设置时间。
 {: .notice--warning}
 
 不要在 WII MINI 上安装 RIICONNECT24！ 它将无法正常工作并导致变砖。
@@ -37,15 +37,15 @@ It's recommended to set your Wii to the current time before proceeding. Follow [
 
 * 一张 SD 卡或 U 盘
 * 一台电脑
-* A Wii U with [the vWii modded](https://wiiu.hacks.guide/#/vwii-modding). **This guide requires the latest CFW on your Wii U.**
+* [已修改 vWii](https://wiiu.hacks.guide/#/vwii-modding) 的 Wii U。 **此指南需要您的 Wii U 安装了最新的 CFW。**
 * 一个与您的 Wii U 绑定的任天堂网络ID（NNID）
-* [Priiloader](priiloader) installed on your vWii
+* 在您的 vWii 上安装了 [Priiloader](priiloader)
 * [Load Priiloader](https://hbb1.oscwii.org/hbb/LoadPriiloader/LoadPriiloader.zip)
 * [RiiConnect24 Patcher（Windows、Mac 和 Linux）](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 * [RiiConnect24 Mail Patcher](https://hbb1.oscwii.org/hbb/Mail-Patcher/Mail-Patcher.zip)
 
 {% capture notice-2 %}
-After following the vWii modding guide linked above, you should have:
+在完成上面链接的 vWii 修改指南后，您应该有：
 * vWii NAND 备份和密钥（请妥善保存它们！）
 * 安装了 Homebrew Channel
 * 安装了 d2x cIOS（IOS249、IOS250 和 IOS251）
@@ -64,7 +64,7 @@ After following the vWii modding guide linked above, you should have:
 如果无法运行 RiiConnect24 Patcher，请加入 [RiiConnect24 Discord 服务器](https://discord.gg/rc24) （推荐）或 [发送邮件至 support@riiconnect24.net](mailto:support@riiconnect24.net) 以获取进一步帮助。
 {: .notice--info}
 
-1. Click the RiiConnect24 Patcher link above to go to the GitHub page where the patcher is.
+1. 点击上面的 RiiConnect24 Patcher 链接，前往 GitHub 页面查看该 patcher（修补程序）。
 2. 如果您使用的是 Windows 系统，请下载 `RiiConnect24Patcher.bat`，如果您使用的是 Unix 系统，请下载 `RiiConnect24Patcher.sh`
 3. 在 Windows 上运行 `RiiConnect24Patcher.bat`。 在 Unix 系统上，打开终端并输入 `bash`，然后将 `RiiConnect24Patcher.sh` 拖到终端中，然后按回车。 它应该是这样的：`bash RiiConnect24Patcher.sh`。
 4. 按 1 选择“`Start`”，然后按 `ENTER` 确认您的选择。 （注意：这些截图来自 Windows 版本的 patcher（修补程序）。） ![RiiConnect24 Patcher 主屏幕](/images/RC24_Patcher/1.JPG)
@@ -95,7 +95,7 @@ After following the vWii modding guide linked above, you should have:
 
 现在需要对您的 `nwc24msg.cfg` 文件进行修补以使用 Wii Mail。
 
-1. Launch the RiiConnect24 Mail Patcher from the Homebrew Channel.
+1. 从 Homebrew Channel 启动 RiiConnect24 Mail Patcher。
 2. 修补 nwc24msg.cfg 通常只需要几秒钟。 完成后，按下 HOME 按钮退出。
 
 如果无法正确修补 nwc24msg.cfg，请加入 [RiiConnect24 Discord 服务器](https://discord.gg/rc24) （推荐）或 [发送邮件至 support@riiconnect24.net](mailto:support@riiconnect24.net) 以获取进一步帮助。
@@ -103,9 +103,9 @@ After following the vWii modding guide linked above, you should have:
 
 ##### 第四部分 - 使用 RiiConnect24
 
-1. Launch the `Load Priiloader` application from the Homebrew Channel.
-1. In the Priiloader menu, go to `System Menu Hacks`. ![System menu hacks](/images/Priiloader/system_menu_hacks.png)
-1. Scroll through the list until you see `Always enable WiiConnect24 for vWii` and `Create message via Calendar button`, and press `A` on both to enable them.
+1. 从 Homebrew Channel 启动 `Load Priiloader` 应用程序。
+1. 在 Priiloader 菜单中，转到 `System Menu Hacks`。 ![System menu hacks](/images/Priiloader/system_menu_hacks.png)
+1. 在列表中滚动，直到您看到 `Always enable WiiConnect24 for vWii` 和 `Create message via Calendar button`，然后分别按 `A` 来启用它们。
 1. 滚动到 `save settings`，按 `A`，然后按 `B` 返回。
 1. 选择 `System Menu。`
 1. 回到 Wii U 菜单，然后再次进入 Wii 模式。
@@ -120,5 +120,5 @@ After following the vWii modding guide linked above, you should have:
 * Wii 邮箱（需要 Priiloader 的 `Create message via Calendar button` 修改）
 {: .notice--success}
 
-Most services that utilize WiiConnect24 will be able to work if you leave vWii running for several hours. There's no standby mode on the console.
+如果您让 vWii 运行几个小时，大多数使用 WiiConnect24 的服务将能够正常工作。 vWii 没有待机模式。
 {: .notice--warning}
