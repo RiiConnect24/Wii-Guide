@@ -106,18 +106,18 @@ After following the vWii modding guide linked above, you should have:
 1. Launch the `Load Priiloader` application from the Homebrew Channel.
 1. In the Priiloader menu, go to `System Menu Hacks`. ![System menu hacks](/images/Priiloader/system_menu_hacks.png)
 1. Scroll through the list until you see `Always enable WiiConnect24 for vWii` and `Create message via Calendar button`, and press `A` on both to enable them.
-1. Scroll down to `save settings`, press `A`, then press `B` to go back.
-1. Select `System Menu.`
-1. Return to the Wii U Menu, then go right back to Wii Mode.
+1. 滚动到 `save settings`，按 `A`，然后按 `B` 返回。
+1. 选择 `System Menu。`
+1. 回到 Wii U 菜单，然后再次进入 Wii 模式。
 
 #### 目前什么功能可用？
-The following RiiConnect24 services are **working** on the vWii:
+以下 RiiConnect24 服务在 vWii 上**正常工作**：
 * Forecast Channel
 * News Channel
 * Everybody Votes Channel
 * Nintendo Channel
 * Check Mii Out Channel / Mii Contest Channel
-* Wii Mail (requires Priiloader's `Create message via Calendar button` hack)
+* Wii 邮箱（需要 Priiloader 的 `Create message via Calendar button` 修改）
 {: .notice--success}
 
 Most services that utilize WiiConnect24 will be able to work if you leave vWii running for several hours. There's no standby mode on the console.
