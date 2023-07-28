@@ -12,7 +12,7 @@ Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayud
 Necesitas una **tarjeta SD** para crear una copia de seguridad de la NAND usando BootMii. Puedes saltar este tutorial en caso de que no cuentes con una, aunque es muy recomendable seguir este proceso antes de continuar modificando tu consola.
 {: .notice--warning}
 
-BootMii as boot2 is recommended, but only available to install on early Wii consoles. De no ser así, solo podrás instalarlo como un IOS.
+Se recomienda instalar BootMii como boot2 en caso de estar disponible para tu consola. De no ser así, solo podrás instalarlo como un IOS.
 {: .notice--info}
 
 Una de las funciones más importantes de BootMii es la capacidad de copiar y restaurar los contenidos de la NAND (memoria interna) de tu consola. En este tutorial aprenderás a crear una copia de seguridad de la NAND, que podrás restaurar en el futuro en caso de ser necesario. Es recomendable crear una copia de seguridad con regularidad, especialmente antes de hacer algo arriesgado con tu consola. Si sigues todos los pasos de nuestros tutoriales con atención, no deberías de tener ningún problema con tu consola.
@@ -26,14 +26,14 @@ Una de las funciones más importantes de BootMii es la capacidad de copiar y res
 Si has instalado BootMii como boot2, apaga y vuelve a encender la consola para iniciarlo y salta al paso 3.
 {: .notice--info}
 
-1. Launch the Homebrew Channel.
+1. Inicia el Canal Homebrew.
 
-2. Press the HOME Button, then select "Launch BootMii". ![BootMii_Main](/images/BootMii/BootMii_Main.png)
+2. Presiona el botón HOME y selecciona `Lanzar BootMii`.![BootMii_Main](/images/BootMii/BootMii_Main.png)
 
-If the `Launch BootMii` button does not appear, please [re-launch the HackMii Installer](hackmii) and install BootMii.
+Si la opción `Lanzar BootMii` no aparece, por favor [vuelve a iniciar el HackMii Installer](hackmii) e instala BootMii.
 {: .notice--info}
 
-Navigating BootMii is not possible using a Wii Remote. You must use the POWER and RESET buttons on your console, or a GameCube controller plugged into port 1. To navigate between options, press POWER on your Wii (or left/right on the +Control Pad on a GameCube controller). To select an option, press RESET on your Wii or A on your GameCube controller.
+BootMii no es compatible con el Wii Remote. Para navegar por la interfaz, deberás usar los botones POWER y RESET de la consola, o un control de GameCube conectado en el puerto del jugador 1. To navigate between options, press POWER on your Wii (or left/right on the +Control Pad on a GameCube controller). To select an option, press RESET on your Wii or A on your GameCube controller.
 {: .notice--info}
 
 If the screen stays black and the blue disc drive light is blinking, you are missing the BootMii files on your SD card. Download [this zip file](https://static.hackmii.com/bootmii_sd_files.zip) and extract it to the root of your SD card, then try again.
