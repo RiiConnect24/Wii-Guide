@@ -189,36 +189,36 @@ Wiimmfi no solo tiene soporte para juegos de Wii, sino que además es compatible
 Encontrar una red Wi-Fi compatible con juegos de DS es la parte más difícil, ya que no soportan el tipo de seguridad WPA que se usa en la actualidad. Sin embargo, muchos routers te permiten habilitar una red Wi-Fi para invitados, la cual es abierta y funciona sin afectar tu conexión principal. También puedes crear una red sin seguridad usando un móvil Android o una PC con Linux. Existen muchos recursos en internet que contienen información al respecto, por lo que te invitamos a usar tu buscador favorito para saber más.
 {: .notice--info}
 
-Algunos títulos están optimizados para DSi, lo que significa que pueden conectarse a redes con seguridad WPA2 si son jugados desde una DSi o 3DS. Por ejemplo, Pokémon Negro y Pokémon Blanco, así como los juegos DSiWare, están optimizados para DSi. In order to make use of it, follow the instructions below via the DSi or 3DS Wi-Fi settings. Those are separate from the DS Wi-Fi settings.
+Algunos títulos están optimizados para DSi, lo que significa que pueden conectarse a redes con seguridad WPA2 si son jugados desde una DSi o 3DS. Por ejemplo, Pokémon Negro y Pokémon Blanco, así como los juegos DSiWare, están optimizados para DSi. Para hacer uso de redes WPA2 con estos juegos, sigue las instrucciones de abajo desde los ajustes de internet de DSi o 3DS. Estos se encuentran separados de la configuración Wi-Fi para juegos de DS.
 {: .notice--info}
 
 #### Instrucciones
 
-1. Go in the Nintendo DS Wi-Fi settings. This can be accessed inside the game you want to play online with.
-2. Set up a connection.
-3. Type in `167.86.108.126` as the primary DNS.
-4. Type in `1.1.1.1` as the secondary DNS.
-5. Save your connection settings and perform a connection test. If it's successful, then you're ready to play.
+1. Entra a la Configuración de la CWF de Nintendo. Puedes acceder a este menú desde cualquier juego de DS con soporte para funciones en línea.
+2. Configura una conexión. Después, en la opción `Obtener DNS automáticamete` elige `No`.
+3. Ingresa `167.86.108.126` en `DNS primario`.
+4. Repite el paso anterior para el DNS secundario.
+5. Guarda los cambios y realiza una prueba de conexión. Si es exitosa, estás listo para jugar.
 
-If you get error 20110, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
+Si recibes el código de error 20110, significa que tu proveedor de servicios de internet (ISP) o entorno de red no permiten el uso de servidores DNS externos. Para solucionar esto, puedes usar nuestro [servidor DNS local](https://github.com/RiiConnect24/DNS-Server/releases/latest) en una PC.
 {: .notice--warning}
 
-You cannot use Sudomemo, which revives Flipnote Studio on the DSi, if you're using this DNS. If you want to use Sudomemo instead of playing games on Wiimmfi, you will have to set your primary DNS to `104.248.0.110` on Wi-Fi settings on your DSi or 3DS, not the DS Wi-Fi settings. Or you can use their [DNS-Server](https://github.com/Sudomemo/sudomemoDNS) program.
+No podrás acceder a Sudomemo (servidor no oficial para Flipnote Studio) mientras utilices nuestro DNS. Si deseas usar Sudomemo en vez de jugar en línea en Wiimmfi, deberás configurar `104.248.0.110` como el DNS primario y secundario desde los ajustes de internet de DSi o 3DS, no en la Configuración de la CWF de Nintendo para juegos de DS. También puedes usar el [servidor DNS local de Sudomemo](https://github.com/Sudomemo/sudomemoDNS).
 {: .notice--warning}
 
-### Mario Kart Wii Mods
+### Mods para Mario Kart Wii
 
 #### CTGP-R
 
-MrBean35000vr and Chadderz have a custom track distribution called CTGP-R that allows you to use a set of custom tracks and has automatic Wiimmfi patching. Go to the [ChadSoft website](http://chadsoft.co.uk) for the download and instructions.
+MrBean35000vr y Chadderz son los autores de un paquete de circuitos personalizados llamado CTGP-R, que te permite jugar una gran variedad de pistas creadas por la comunidad, además de tener integrado soporte para Wiimmfi. Visita la [página de ChadSoft](http://chadsoft.co.uk) si deseas saber más.
 
 #### MKW Hack Pack
 
-PhillyG has put together a collection of custom tracks and hacks called MKW Hack Pack, and allows connections to Wiimmfi. To learn how to set it up, go to the [wiki page](http://wiki.tockdom.com/wiki/MKW_Hack_Pack).
+PhillyG ha creado una colección de circuitos personalizados y hacks llamada MKW Hack Pack, que de igual manera es capaz de conectarse a Wiimmfi de forma automática. Visita la [página wiki](http://wiki.tockdom.com/wiki/MKW_Hack_Pack) para aprender a instalar este paquete de contenido.
 
-#### Wiimms Mario Kart Fun
+#### Wiimm's Mario Kart Fun
 
-Wiimm and Leseratte make a custom track distribution called "Wiimms MKW Fun", which gets updated about three times a year. It is based on the LE-CODE framework by Leseratte, has Wiimmfi support, and lots of other features. You can find out more about it on its [wiki page](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
+Wiimm y Leseratte tienen una distribución de pistas personalizadas llamada Wiimm's MKW Fun, la cual es actualizada alrededor de tres veces por año. Este paquete de contenido está basado en el framework LE-CODE creado por Leseratte, además de tener integración con Wiimmfi, y muchas otras características. Para mayor información, revisa la [página wiki](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
 
 [Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
 {: .notice--info}
