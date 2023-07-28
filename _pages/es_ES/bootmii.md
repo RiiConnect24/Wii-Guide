@@ -1,5 +1,5 @@
 ---
-title: "Crear copia de seguridad de NAND con BootMii"
+title: "Crear respaldo de NAND con BootMii"
 ---
 
 {% include toc title="Tabla de contenido" %}
