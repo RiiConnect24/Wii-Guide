@@ -32,15 +32,15 @@ Si tienes una version anterior de Priiloader, o no lo tienes instalado, por favo
 1. Enciende tu Wii a la vez que mantienes pulsado RESET.
    - Si estás usando una Wii mini, conecta un teclado USB y mantén oprimida la tecla Escape cuando la enciendas.
 
-![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
+![Enciende la consola](/images/Priiloader/on.jpg) ![Mantén oprimido RESET](/images/Priiloader/reset.jpg)
 
-2. Deberías ver el menú de Priiloader. ![Menú](/images/Priiloader/mainmenu.jpg)
+2. Deberías ver el menú de Priiloader. ![Menú principal de Priiloader](/images/Priiloader/mainmenu.jpg)
 3. Ve a `System Menu Hacks`.
 
 Si has usado una unidad USB para instalar Priiloader, asegúrate de que no tienes una tarjeta SD insertada al mismo tiempo. Esto causará que Priiloader no pueda encontrar el archivo `hacks_hash.ini`.
 {: .notice--info}
 
-4. Activa el hack llamado `Wiimmfi Patch v4`. ![System Menu Hacks](/images/Priiloader/hacks.jpg)
+4. Activa el hack llamado `Wiimmfi Patch v4`. ![Lista de hacks para el menú de Wii](/images/Priiloader/hacks.jpg)
 1. Baja hasta la opción `Save Settings` y oprime A, luego pulsa B para volver al menú principal de Priiloader.
 1. Pulsa abajo hasta llegar a `System Menu` y pulsa A para salir al menú de Wii.
 1. Inicia tu juego desde el Canal Disco. Ahora deberías poder acceder a Wiimmfi.
@@ -220,11 +220,11 @@ PhillyG ha creado una colección de circuitos personalizados y hacks llamada MKW
 
 Wiimm y Leseratte tienen una distribución de pistas personalizadas llamada Wiimm's MKW Fun, la cual es actualizada alrededor de tres veces por año. Este paquete de contenido está basado en el framework LE-CODE creado por Leseratte, además de tener integración con Wiimmfi, y muchas otras características. Para mayor información, revisa la [página wiki](http://wiki.tockdom.com/wiki/Wiimms_Mario_Kart_Fun).
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
+[Continuar a la instalación de RiiConnect24](riiconnect24)<br> RiiConnect24 te permite usar nuevamente el servicio WiiConnect24 y sus diversas funciones, incluyendo el Canal Noticias, Canal Tiempo, Canal Opiniones, Canal Nintendo, y Canal Miirame, además del intercambio de mensajes entre consolas Wii. Este proceso es opcional.
 {: .notice--info}
 
-[Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. This is optional to install.
+[Continuar a la instalación de WiiLink](wiilink)<br> WiiLink te permite usar los canales exclusivos de Japón llamados Wii no Ma y Canal Digicam Print. Este proceso es opcional.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Ir al mapa del sitio](site-navigation)<br> Tenemos muchas otras guías que podrían interesarte.
 {: .notice--info}
