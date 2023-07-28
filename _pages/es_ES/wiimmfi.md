@@ -42,8 +42,8 @@ Si has usado una unidad USB para instalar Priiloader, asegúrate de que no tiene
 
 4. Activa el hack llamado `Wiimmfi Patch v4`. ![System Menu Hacks](/images/Priiloader/hacks.jpg)
 1. Baja hasta la opción `Save Settings` y oprime A, luego pulsa B para volver al menú principal de Priiloader.
-1. Scroll to `System Menu` and press A to launch it.
-1. Launch your game through the Disc channel. It should be patched with Wiimmfi.
+1. Pulsa abajo hasta llegar a `System Menu` y pulsa A para salir al menú de Wii.
+1. Inicia tu juego desde el Canal Disco. Ahora deberías poder acceder a Wiimmfi.
 
 Si el nombre del hack es `Wiimmfi Patch v2` o `Wiimmfi Patch v3`, significa que no tienes la última versión del archivo `hacks_hash.ini`.<br> Descárgalo desde [aquí](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) y colócalo en la carpeta `/apps/priiloader` en tu tarjeta SD o unidad USB, luego repite los pasos anteriores.
 {: .notice--warning}
@@ -189,7 +189,7 @@ Wiimmfi no solo tiene soporte para juegos de Wii, sino que además es compatible
 Encontrar una red Wi-Fi compatible con juegos de DS es la parte más difícil, ya que no soportan el tipo de seguridad WPA que se usa en la actualidad. Sin embargo, muchos routers te permiten habilitar una red Wi-Fi para invitados, la cual es abierta y funciona sin afectar tu conexión principal. También puedes crear una red sin seguridad usando un móvil Android o una PC con Linux. Existen muchos recursos en internet que contienen información al respecto, por lo que te invitamos a usar tu buscador favorito para saber más.
 {: .notice--info}
 
-Algunos juegos están optimizados para DSi, lo que significa que pueden conectarse a redes con seguridad WPA2 si son jugados desde una DSi o 3DS. Por ejemplo, Pokémon Negro y Pokémon Blanco, así como los juegos DSiWare, están optimizados para DSi. In order to make use of it, follow the instructions below via the DSi or 3DS Wi-Fi settings. Those are separate from the DS Wi-Fi settings.
+Algunos títulos están optimizados para DSi, lo que significa que pueden conectarse a redes con seguridad WPA2 si son jugados desde una DSi o 3DS. Por ejemplo, Pokémon Negro y Pokémon Blanco, así como los juegos DSiWare, están optimizados para DSi. In order to make use of it, follow the instructions below via the DSi or 3DS Wi-Fi settings. Those are separate from the DS Wi-Fi settings.
 {: .notice--info}
 
 #### Instrucciones
