@@ -34,7 +34,7 @@ Este exploit requiere que cambies tu configuración de DNS para poder conectarte
 If there are 3 fields instead of 2 (like above), go back and make sure you are on the `Auto-Obtain DNS` page.
 {: .notice--warning}
 
-1. Selecciona `Confirmar` y después elige `Guardar`. ![Save DNS](/images/RiiConnect24/Internet_10.png)
+1. Select `Confirm`, then select `Save`. ![Save DNS](/images/RiiConnect24/Internet_10.png)
 1. Selecciona `Aceptar` para realizar una prueba de conexión. ![Connection Test](/images/RiiConnect24/Internet_11.png) ![Connection Test Successful](/images/RiiConnect24/Internet_12.png)
    - Si la prueba de conexión ha sido exitosa, elige `No` para saltar la actualización de la consola Wii.
    - If it fails with error code `521xx`, please verify that you have entered the DNS correctly.

@@ -1,5 +1,5 @@
 ---
-title: "Instalar WADs con Wii Mod Lite"
+title: "Wii Mod Lite"
 ---
 
 {% include toc title="Tabla de contenido" %}
@@ -14,7 +14,7 @@ No es recomendable usar "WAD Manager" de Waninkoko.
 
 #### Requisitos
 * Una tarjeta SD o unidad USB
-* [Instalar WADs con Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
+* [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 #### Instrucciones
 

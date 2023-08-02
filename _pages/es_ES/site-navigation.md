@@ -46,7 +46,7 @@ sitemap: false
 - [Priiloader](priiloader)
 - [Relaunching the HackMii Installer](hackmii)
 - [str2hax](str2hax)
-- [Instalar WADs con Wii Mod Lite](wiimodlite)
+- [Wii Mod Lite](wiimodlite)
 - [Wilbrand](wilbrand)
 
 **Homebrew**

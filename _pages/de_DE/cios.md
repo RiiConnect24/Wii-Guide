@@ -37,7 +37,8 @@ If you are not on Windows, you may download & run [this script](/assets/files/d2
 1. Select "Database", "IOS", then "IOS38", and select "v4123".
    - Ensure that "Pack WAD" is checked.
    - *Don't* check "Patch IOS". That is the cIOS Installer's job.
-1. Repeat the previous step for `IOS56 v5661`, `IOS57 v5918` and `IOS58 v6175`.
+1. Click `Start NUS Download!`.
+1. Repeat the step 2 & 3 for `IOS56 v5661`, `IOS57 v5918` and `IOS58 v6175`.
 1. Once you have downloaded all four IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. <br/> Open the folder and navigate through them until you locate the four WAD files you downloaded. Place each WAD file on the root of your SD card or USB drive.
   - This must be the same device containing the d2x cIOS Installer.
 
@@ -56,10 +57,10 @@ Select cIOS slot: 248
 Select cIOS version: 65535
 ```
 
-![Install cIOS 249](/images/cios/d2x_v11_248.png)
-
 If `d2x-v11-beta1` isn't showing up, try select the cIOS base first, then check again. This can also happen if your SD card is locked.
 {: .notice--info}
+
+![Install cIOS 248](/images/cios/d2x_v11_248.png)
 
 1. Once set, press A twice to install.
 1. When done installing, press A to return, and set the options to the following:
@@ -71,7 +72,7 @@ Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 
-![Install cIOS 250](/images/cios/d2x_v11_249.png)
+![Install cIOS 249](/images/cios/d2x_v11_249.png)
 
 1. Once set, press A twice to install.
 1. When done installing, press A to return, and set the options to the following:

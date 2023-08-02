@@ -37,8 +37,9 @@ Wii에 인터넷이 연결되어 있는 경우 이 섹션을 건너뛸 수 있�
 1. "데이터베이스", "IOS", "IOS38"을 차례로 선택한 다음 "v4123"을 선택합니다.
    - "Pack WAD"가 선택되어 있는지 확인합니다.
    - "IOS 패치"를 체크하지 *마세요*. 이것이 바로 cIOS 설치 프로그램의 역할입니다.
-1. `IOS56 v5661`, `IOS57 v5918` 및 `IOS58 v6175`에 대해 이전 단계를 반복합니다.
-1. 네 개의 IOS를 모두 다운로드하면 NUS 다운로더와 같은 폴더에 `titles`이라는 이름의 폴더가 생깁니다. <br/> 폴더를 열고 다운로드한 4개의 WAD 파일을 찾을 때까지 폴더를 탐색합니다. 각 WAD 파일을 SD 카드 또는 USB 드라이브의 루트에 저장합니다.
+1. Click `Start NUS Download!`.
+1. Repeat the step 2 & 3 for `IOS56 v5661`, `IOS57 v5918` and `IOS58 v6175`.
+1. Once you have downloaded all four IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. <br/> Open the folder and navigate through them until you locate the four WAD files you downloaded. Place each WAD file on the root of your SD card or USB drive.
   - 이 장치는 d2x cIOS 설치 프로그램이 포함된 동일한 장치여야 합니다.
 
 WAD 파일은 다음과 같이 SD 카드에 있어야 합니다:![오프라인 IOS 파일](/images/cios/d2x_offline_ios.png)
@@ -56,10 +57,10 @@ cIOS 슬롯 선택: 248
 cIOS 버전 선택: 65535
 ```
 
-![cIOS 249 설치](/images/cios/d2x_v11_248.png)
-
-`d2x-v11-beta1`이 표시되지 않으면 먼저 cIOS 기반을 선택한 다음 다시 확인합니다. SD 카드가 잠겨 있는 경우에도 이러한 문제가 발생할 수 있습니다.
+If `d2x-v11-beta1` isn't showing up, try select the cIOS base first, then check again. This can also happen if your SD card is locked.
 {: .notice--info}
+
+![Install cIOS 248](/images/cios/d2x_v11_248.png)
 
 1. 설정이 완료되면 A 버튼을 두 번 눌러 설치합니다.
 1. 설치가 완료되면 A 버튼을 눌러 돌아가서 옵션을 다음과 같이 설정합니다:
@@ -71,7 +72,7 @@ cIOS 슬롯 선택: 249
 cIOS 버전 선택: 65535
 ```
 
-![cIOS 250 설치](/images/cios/d2x_v11_249.png)
+![Install cIOS 249](/images/cios/d2x_v11_249.png)
 
 1. 설정이 완료되면 A 버튼을 두 번 눌러 설치합니다.
 1. 설치가 완료되면 A 버튼을 눌러 돌아가서 옵션을 다음과 같이 설정합니다:

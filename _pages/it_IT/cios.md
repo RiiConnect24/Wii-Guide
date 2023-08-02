@@ -37,8 +37,9 @@ Se non sei su Windows, dovrai scaricare & eseguire [questo script](/assets/files
 1. Seleziona "Database", "IOS", poi "IOS38" e seleziona "v4123".
    - Assicurati che la casella "Pack WAD" sia spuntata.
    - *Non* spuntare la casella "Patch IOS". Quello sarà compito del cIOS Installer.
-1. Ripeti i passaggi precedenti per `IOS56 v5661`, `IOS57 v5918` e `IOS58 v6175`.
-1. Una volta che hai scaricato tutti e 4 gli IOS, ci sarà una cartella chiamata `titles` nella stessa cartella di NUS Downloader. <br/> Apri la cartella e naviga fino a trovare i 4 file WAD che hai scaricato. Copia ognuno dei file WAD nella root della tua scheda SD o unità USB.
+1. Click `Start NUS Download!`.
+1. Repeat the step 2 & 3 for `IOS56 v5661`, `IOS57 v5918` and `IOS58 v6175`.
+1. Once you have downloaded all four IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. <br/> Open the folder and navigate through them until you locate the four WAD files you downloaded. Place each WAD file on the root of your SD card or USB drive.
   - Questo dovrà essere lo stesso dispositivo contenente d2x cIOS Installer.
 
 I file WAD dovranno essere posizionati nella tua scheda SD così: ![offline IOS files](/images/cios/d2x_offline_ios.png)
@@ -56,10 +57,10 @@ Select cIOS slot: 248
 Select cIOS version: 65535
 ```
 
-![Installa cIOS 249](/images/cios/d2x_v11_248.png)
-
-Se `d2x-v11-beta1` non viene mostrato, prova a selezionare prima la cIOS base, dopo riprova. Questo può anche succedere se la tua scheda SD è bloccata.
+If `d2x-v11-beta1` isn't showing up, try select the cIOS base first, then check again. This can also happen if your SD card is locked.
 {: .notice--info}
+
+![Install cIOS 248](/images/cios/d2x_v11_248.png)
 
 1. Una volta fatto, premi A due volte per installare.
 1. Quando l'installazione sarà terminata, premi A per tornare indietro, e imposta le seguenti opzioni:
@@ -71,7 +72,7 @@ Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 
-![Installa cIOS 250](/images/cios/d2x_v11_249.png)
+![Install cIOS 249](/images/cios/d2x_v11_249.png)
 
 1. Una volta fatto, premi A due volte per installare.
 1. Quando l'installazione sarà terminata, premi A per tornare indietro, e imposta le seguenti opzioni:

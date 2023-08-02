@@ -42,7 +42,8 @@ title: "Wiimmfi"
 
 4. 请确保启用了 `Wiimmfi patch v4` 修改。 ![System Menu Hacks](/images/Priiloader/hacks.jpg)
 1. 向下滚动到 `save settings`，按 A，然后按 B 返回到 Priiloader 的主菜单。
-1. 滚动到 `Homebrew Channel`，按 A 启动它。
+1. 滚动到 `System Menu`，按 A 启动它。
+1. 通过光盘频道启动您的游戏。 它应该已用 Wiimmfi 修补。
 
 如果您看到的是 `Wiimmfi patch v2` 或 `Wiimmfi patch v3`，那么你没有最新版本的 hacks_hash.ini 文件。<br> 从[这里](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini)下载它并将其放在 SD 卡或 U 盘的 `/apps/priiloader/hacks_hash.ini` 路径下。<br> 然后，重复之前的步骤。
 {: .notice--warning}

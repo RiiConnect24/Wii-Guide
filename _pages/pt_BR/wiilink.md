@@ -6,7 +6,7 @@ title: "WiiLink"
 
 [WiiLink](https://wiilink24.com/) permite que você use canais exclusivamente japoneses conhecidos como Wii Room, Digicam Print Channel e o Food Channel.
 
-The Kirby TV Channel is back! <br> If you installed it previously, please follow the instructions to update it.
+O Kirby TV Channel está de volta! <br> Se você o instalou anteriormente, por favor siga as instruções para atualizá-lo.
 {: .notice--success}
 
 #### Você precisará de
@@ -20,7 +20,7 @@ The Kirby TV Channel is back! <br> If you installed it previously, please follow
 
 ##### Seção I - Patcheando WADs
 
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+[Se você quer ver instruções detalhadas sobre como instalar WADs, clique aqui!](wiimodlite)
 {: .notice--info}
 
 1. Baixe `WiiLink_Patcher_<OS Platform>_v1.X.X`, onde `<OS Platform>` pode ser `Windows`, `macOS`, ou `Linux`, dependendo do seu sistema operacional.
@@ -31,27 +31,27 @@ The Kirby TV Channel is back! <br> If you installed it previously, please follow
    - Primeiro, dê permissões ao arquivo executável digitando <br>`chmod +x WiiLink_Patcher_<OS Platform>_v1.X.X` no seu terminal. Substitua <br>`<OS Platform>` com `macOS` ou `Linux`, dependendo do seu sistema operacional.
    - Então, execute o patcher digitando `./WiiLink_Patcher_<OS Platform>_v1.X.X` na mesma janela de terminal.
 4. Se seu armazenamento portátil foi detectado com sucesso, você deve ver uma mensagem dizendo `SD Card detected`. Se não, você precisará manualmente selecionar o local do seu cartão SD ou armazenamento USB.
-5. Press 1 to choose `Start` on the main menu, to start the Express Install Setup of WiiLink. <br> Or, you can press 2 to start a Custom Install.
-6. Follow the on screen instructions to select which versions of the available channels you would like.
-7. It may take a moment for the patcher to download the files to your SD Card or USB Drive.
-8. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
-9. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to<br>`WiiLink_Patcher_<OS Platform>_v1.X.X` to the root of your SD Card or USB Device.
+5. Pressione 1 para escolher `Start` no menu principal, para começar a Express Install Setup do WiiLink. <br> Ou, você pode pressionar 2 para iniciar uma Custom Install.
+6. Siga as instruções na tela para selecionar quais versões dos canais disponíveis você gostaria.
+7. Talvez leve um momento para o patcher fazer download dos arquivos para seu cartão SD ou armazenamento USB.
+8. Assim que completo, você pode fechar o patcher. Todos os arquivos já estão prontos no seu cartão SD.
+9. Se ele não copiou tudo automaticamente para o seu cartão SD ou dispositivo USB, copie a pasta `WAD` e `apps` próximo ao <br>`WiiLink_Patcher_<OS Platform>_v1.X.X` para a raíz do seu cartão SD ou armazenamento USB.
 10. Coloque seu cartão SD ou armazenamento USB no seu Wii.
 11. Inicie o Homebrew Channel no Wii.
 12. Inicie o Wii Mod Lite.
 13. Usando o +Control Pad no seu Wii Remote, navegue para `WAD Manager`, depois navegue até a pasta `wad`.
-14. If your Wii is not a Japanese region, install `WiiLink_SPD (Wii).wad` or `WiiLink_SPD (vWii).wad` (Depending on console platform) before anything else. This is required so that we know your email address to send files.
-15. Highlight all other WADs with `WiiLink` in the name and press + to select them. When all of them are selected, press A twice to install the WADs.
-    - If you have previously installed the RiiConnect24 versions of the Forecast Channel and the Nintendo Channel, installing WiiLink's will overwrite them.
+14. Se seu Wii não for de uma região japonesa, instale `WiiLink_SPD (Wii).wad` ou `WiiLink_SPD (vWii).wad` (dependendo da plataforma do console) antes de qualquer coisa. Isso é necessário para que possamos saber seu endereço de e-mail para enviar os arquivos.
+15. Destaque todas as outras WADs com `WiiLink` no nome e pressione + para selecioná-las. Quando todas forem selecionadas, pressione A duas vezes para instalar as WADs.
+    - Se você previamente instalou as versões RiiConnect24 do Forecast Channel e do Nintendo Channel, instalar as versões do WiiLink vai sobrescrevê-las.
 
 16. Depois que eles forem instalados com sucesso, pressione o botão HOME para sair para o Homebrew Channel.
 
-Want to order Domino's Pizza with WiiLink's Food Delivery Channel?<br>[Follow this guide!](wiilink-demae-dominos)
+Quer pedir Pizza da Domino's com o Food Delivery Channel do WiiLink? <br>[Siga este guia!](wiilink-demae-dominos)
 {: .notice--info}
 
 ##### Seção II - Adicionando seu e-mail para Address Information (Set Personal Data)
 
-Adding your email to the Address Information (SPD) settings menu will allow the Digicam Print Channel to send images to your email that you created using it.
+Adicionar seu e-mail para o menu de configurações de Address Information (SPD) permitirá que o Digicam Print Channel envie imagens para seu e-mail que você criou o utilizando.
 {: .notice--info}
 
 1. Inicie o Digicam Print Channel do seu Menu do Wii.
@@ -60,7 +60,7 @@ Adding your email to the Address Information (SPD) settings menu will allow the 
 4. Pressione `OK` então `Done`.
 5. Assim que você estiver de volta no menu de Address Information, escolha `Digicam` no menu `Choose Channel`. Feito isso, deve funcionar!
 
-For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
+Para PAL (Wiis Europeus)<br> Em Wii Settings por favor coloque TV Resolution para 60 HZ (480p/480i). Você pode encontrar isso em `Screen -> TV Resolution` Se você não fizer isso, uma barra rosa vai aparecer na parte inferior da tela, atrapalhando a visão.
 {: .notice--info}
 
 [Continue para RiiConnect24](riiconnect24)<br> RiiConnect24 lhe permite utilizar os serviços descontinuados do WiiConnect24, que incluem os Channels News, Forecast, Everybody Votes, Nintendo e Check Mii Out Channel, junto com o Wii Mail. A instalação é opcional.

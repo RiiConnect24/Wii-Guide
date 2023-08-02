@@ -17,7 +17,7 @@ It is much safer to use [ModMii](https://modmii.github.io) (Windows only) to upd
 * Una tarjeta SD o unidad USB
 * A computer with Windows on it
 * [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest)
-* [Instalar WADs con Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
+* [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 
 If you don't have a Windows computer, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
