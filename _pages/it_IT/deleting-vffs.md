@@ -22,19 +22,22 @@ RiiConnect24 Clear Tool is a homebrew application that can fix these specific er
 #### What you need
 
 - Una scheda SD o un'unità USB
-- [RiiConnect24 Clear Tool](https://oscwii.org/library/app/RC24-Clear-Tool)
-- [WiiXplorer](https://oscwii.org/library/app/wiixplorer-ss)
+- [RiiConnect24 Clear Tool](https://hbb1.oscwii.org/hbb/RC24-Clear-Tool/RC24-Clear-Tool.zip)
+- [cdbackup](https://hbb1.oscwii.org/hbb/cdbackup/cdbackup.zip)
 - [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
 
 #### Istruzioni
 
+#### Section I - Downloading Apps
+
+1. Download the RiiConnect24 Clear Tool, cdbackup and sntp from above.
+1. Extract each app you downloaded to the root of your SD card or USB drive.
+
 #### Section I - Backing up Wii Message Board Data
 
-1. Open the Homebrew Channel and open WiiXplorer.
-2. Go to `nand` and click on `Start`, then `Settings`, then `Boot Settings`, then `NAND Write Access`, and select `Yes`.
-3. Click on `title` and then navigate to the `00000001` folder and then the `00000002` folder, then the `data` folder.
-4. Hover over `cdb.vff` and press +, then select `Copy` and then `Yes`.
-5. Go to the SD card and hover over a blank space, then press `Paste.`
+1. Open the Homebrew Channel and launch cdbackup.
+1. Once prompted, press `A` to begin backing up your Wii Message Board data.
+1. Once the backup process finishes, press `HOME` to return to the Homebrew Channel.
 
 #### Section II - Deleting SYSCONF
 
@@ -48,10 +51,9 @@ Deleting SYSCONF will erase the Wii Message Board history. Follow the section ab
 
 #### Section III - Putting back Wii Message Board Data
 
-1. Go back to the Homebrew Channel to open WiiXplorer and navigate to `Start`, then `Settings`, then `Boot Settings`, and select `NAND Write Access` and `Yes`.
-2. Hover over `cdb.vff` again and press + button, then select `Copy` and `Yes`.
-3. Click `OK` and navigate to `nand` then `title`, `00000001`, `00000002`, then `data`.
-4. Press + again and then `Paste`, and then `Yes`.
+1. Launch the Homebrew Channel, and launch cdbackup again.
+1. Once prompted, press `-` to restore the Wii Message Board data backup.
+1. Once the restore process has finished, press `HOME` to return to the Homebrew Channel.
 
 #### Section IV - Synchronizing Wii Time
 
