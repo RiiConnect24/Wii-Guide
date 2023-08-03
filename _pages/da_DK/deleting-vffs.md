@@ -33,13 +33,13 @@ RiiConnect24 Clear Tool is a homebrew application that can fix these specific er
 1. Download the RiiConnect24 Clear Tool, cdbackup and sntp from above.
 1. Extract each app you downloaded to the root of your SD card or USB drive.
 
-#### Section I - Backing up Wii Message Board Data
+#### Section II - Backing up Wii Message Board Data
 
 1. Open the Homebrew Channel and launch cdbackup.
 1. Once prompted, press `A` to begin backing up your Wii Message Board data.
 1. Once the backup process finishes, press `HOME` to return to the Homebrew Channel.
 
-#### Section II - Deleting SYSCONF
+#### Section III - Deleting SYSCONF
 
 Deleting SYSCONF will erase the Wii Message Board history. Follow the section above if you would like to keep it.
 {: .notice--danger}
@@ -49,13 +49,13 @@ Deleting SYSCONF will erase the Wii Message Board history. Follow the section ab
 3. Load IOS 80 and press A to delete the SYSCONF, then press B to confirm and reset the aspect ratio.
 4. Set up the Wii as normal and go to `WiiConnect24`, accept the EULA and turn on the standby connection.
 
-#### Section III - Putting back Wii Message Board Data
+#### Section IV - Putting back Wii Message Board Data
 
 1. Launch the Homebrew Channel, and launch cdbackup again.
 1. Once prompted, press `-` to restore the Wii Message Board data backup.
 1. Once the restore process has finished, press `HOME` to return to the Homebrew Channel.
 
-#### Section IV - Synchronizing Wii Time
+#### Section V - Synchronizing Wii Time
 
 1. Open sntp to set the Wii's clock accurately.
 2. Finally, do a connection test and try accessing the Forecast Channel and News Channel to ensure the errors have been fixed.
