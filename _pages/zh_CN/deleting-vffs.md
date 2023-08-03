@@ -33,13 +33,13 @@ RiiConnect24 Clear Tool 是一个自制应用程序，可以修复以下特定�
 1. 从上面下载 RiiConnect24 Clear Tool、cdbackup 和 sntp。
 1. 将下载的每个应用解压到 SD 卡或 U 盘的根目录。
 
-#### 第一部分 - 备份 Wii 留言板数据
+#### Section II - Backing up Wii Message Board Data
 
 1. 打开 Homebrew Channel 并启动 cdbackup。
 1. 一旦提示，请按 `A` 开始备份您的 Wii 留言板数据。
 1. 备份过程完成后，按 `HOME` 回到 Homebrew Channel。
 
-#### 第二部分 - 删除 SYSCONF
+#### Section III - Deleting SYSCONF
 
 删除 SYSCONF 将清除 Wii 留言板的历史记录。 如果您想保留留言板的历史纪录，请按照上面的部分进行操作。
 {: .notice--danger}
@@ -49,13 +49,13 @@ RiiConnect24 Clear Tool 是一个自制应用程序，可以修复以下特定�
 3. 加载 IOS 80，按 A 删除 SYSCONF，然后按 B 确认并重置长宽比。
 4. 按照正常步骤设置 Wii，然后进入 `WiiConnect24`，接受 EULA 并打开待机连接。
 
-#### 第三部分 - 恢复 Wii 留言板数据
+#### Section IV - Putting back Wii Message Board Data
 
 1. 打开 Homebrew Channel，然后再次启动 cdbackup。
 1. 一旦提示，请按 `-` 来恢复 Wii 留言板数据备份。
 1. 恢复过程完成后，按 `HOME` 回到 Homebrew Channel。
 
-#### 第四部分 - 同步 Wii 时间
+#### Section V - Synchronizing Wii Time
 
 1. 打开 sntp 以准确设置 Wii 的时钟。
 2. 最后，进行连接测试并尝试访问 Forecast Channel 和 News Channel 以确保错误已被修复。
