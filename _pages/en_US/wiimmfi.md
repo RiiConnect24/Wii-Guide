@@ -53,7 +53,7 @@ This will cause Priiloader to be unable to find the hacks_hash.ini file.
 1. Launch your game through the Disc channel. It should be patched with Wiimmfi.
 
 If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file.<br>
-Download it from [here](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br>
+Download it from [here](https://github.com/DacoTaco/priiloader/blob/master/src/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br>
 Then, repeat the previous steps.
 {: .notice--warning}
 
