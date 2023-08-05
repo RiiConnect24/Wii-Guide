@@ -45,7 +45,7 @@ title: "Wiimmfi"
 1. 滚动到 `System Menu`，按 A 启动它。
 1. 通过光盘频道启动您的游戏。 它应该已用 Wiimmfi 修补。
 
-If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/blob/master/src/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
+如果您看到的是 `Wiimmfi patch v2` 或 `Wiimmfi patch v3`，那么您没有最新版本的 hacks_hash.ini 文件。<br> 从[这里](https://github.com/DacoTaco/priiloader/blob/master/src/priiloader/hacks_hash.ini)下载它并将其放在 SD 卡或 U 盘的 `/apps/priiloader/hacks_hash.ini` 路径下。<br> 然后，重复之前的步骤。
 {: .notice--warning}
 
 ### 自制（光盘）应用程序
