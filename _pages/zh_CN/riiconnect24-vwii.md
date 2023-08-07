@@ -23,7 +23,7 @@ title: RiiConnect24 vWii 指南
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
+在继续之前，建议将您的 Wii 设为当前时间。 请按照[此教程](rtc)设置时间。
 {: .notice--warning}
 
 不要在 WII MINI 上安装 RIICONNECT24！ 它将无法正常工作并导致变砖。
@@ -38,9 +38,9 @@ It's recommended to set your Wii to the current time before proceeding. Follow [
 
 - 一张 SD 卡或 U 盘
 - 一台电脑
-- A Wii U console with an Internet connection that's capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi).
+- 拥有互联网连接的 Wii U 主机，可以通过网络浏览器漏洞、Haxchi 或 Coldboot Haxchi 等方式启动 Homebrew Launcher。
 
-If you do not have a softmodded Wii U console, please follow [this guide](https://wiiu.hacks.guide), as well as the [virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.
+如果您的 Wii U 主机没有软破，请按照[此指南](https://wiiu.hacks.guide)以及 [virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) 进行操作，然后再回来。
 {: .notice--warning}
 
 <!-- * A Wii U with [the vWii modded](https://wiiu.hacks.guide/#/vwii-modding). **This guide requires the latest CFW on your Wii U.**
@@ -52,12 +52,12 @@ If you do not have a softmodded Wii U console, please follow [this guide](https:
 - [RiiConnect24 Mail Patcher](https://hbb1.oscwii.org/hbb/Mail-Patcher/Mail-Patcher.zip)
 
 {% capture notice-2 %}
-After following the vWii modding guide linked above, you should have:
+在完成上面链接的 vWii 修改指南后，您应该有：
 
-- A vWii NAND backup and keys stored safely
-- The Homebrew Channel installed
-- d2x cIOS installed (IOS249, IOS250 and IOS251)
-- IOS80 patched
+- VWii NAND备份和妥善保存的密钥
+- 安装了 Homebrew Channel
+- 安装了 d2x cIOS（IOS249、IOS250 和 IOS251）
+- 修补了 IOS80
 
 {% endcapture notice-2 %}
 
@@ -121,15 +121,15 @@ After following the vWii modding guide linked above, you should have:
 
 #### 目前什么功能可用？
 
-The following RiiConnect24 services are **working** on the vWii:
+以下 RiiConnect24 服务在 vWii 上**正常工作**：
 
 - Forecast Channel
 - News Channel
 - Everybody Votes Channel
 - Nintendo Channel
 - Check Mii Out Channel / Mii Contest Channel
-- Wii Mail (requires Priiloader's `Create message via Calendar button` hack)
+- Wii 邮箱（需要 Priiloader 的 `Create message via Calendar button` hack）
   {: .notice--success}
 
-Most services that utilize WiiConnect24 will be able to work if you leave vWii running for several hours. There's no standby mode on the console.
+如果您让 vWii 运行几个小时，大多数使用 WiiConnect24 的服务将能够正常工作。 该主机没有待机模式。
 {: .notice--warning}
