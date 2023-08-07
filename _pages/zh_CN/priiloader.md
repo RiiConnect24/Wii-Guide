@@ -35,8 +35,8 @@ And some things to enhance your vWii experience:
 
 ##### 第一部分 - 下载/安装
 
-1. Extract the Priiloader installer and put it in the apps folder on your SD card or USB drive.
-2. Insert your SD card or USB drive into your Wii, and launch the Priiloader installer from the Homebrew Channel.
+1. 解压 Priiloader installer 并将其放在 SD 卡或 U 盘的 apps 文件夹中。
+2. 将 SD 卡或 U 盘插入 Wii，然后从 Homebrew Channel 启动 Priiloader installer。
 
 ##### 第二部分 - 安装 Priiloader
 
@@ -47,12 +47,12 @@ And some things to enhance your vWii experience:
 
 ##### 第三部分 - 进入 Priiloader
 
-Priiloader will appear automatically after you install it. Simply exit the Homebrew Channel, and you should see the Priiloader menu: ![Priiloader menu](/images/Priiloader/menu.png)
+安装完成后，Priiloader 会自动出现。 简单地退出 Homebrew Channel，您就会看到 Priiloader 菜单： ![Priiloader 菜单](/images/Priiloader/menu.png)
 
-To enter it later on, simply run the "Load Priiloader" homebrew app. There are also other ways to enter Priiloader:
+要稍后进入 Priiloader，只需运行 "Load Priiloader" 自制应用即可。 还有其它进入 Priiloader 的方法：
 
-- Holding RESET on a Wii while turning it on.
-- Holding the ESC key on a USB keyboard while turning on the console.
+- 打开 Wii 的同时按住 RESET。
+- 打开主机的同时按住 USB 键盘上的 ESC 键。
 
 ### 配置 Priiloader
 
@@ -61,15 +61,15 @@ To enter it later on, simply run the "Load Priiloader" homebrew app. There are a
 1. 打开 Homebrew Channel，然后启动 Load Priiloader 应用。
 1. 滚动到 `System Menu Hacks` 并按 `A`。 ![System menu hacks](/images/Priiloader/menu_hacks.png)
 
-If you have put the Priiloader installer on your USB drive, make sure you do not have an SD card inserted at the same time. <br> This causes Priiloader to fail to find the `hacks_hash.ini` file.
+如果您已将 Priiloader installer 放在 U 盘上，请确保没有同时插入 SD 卡。 <br> 这将导致 Priiloader 找不到 `hacks_hash.ini` 文件。
 {: .notice--warning}
 
-1. Press `A` on each hack you would like to enable. We reccommend that you enable "Block Disc Updates", "Block Online Updates", and "Region Free EVERYTHING". ![System menu hacks list](/images/Priiloader/system_menu_hacks.png)
-1. Scroll down to `save settings` and press `A`.
+1. 在每个您想启用的 hack 上按 `A`。 我们建议您启用 "Block Disc Updates"、"Block Online Updates" 和 "Region Free EVERYTHING"。 ![System menu hacks 列表](/images/Priiloader/system_menu_hacks.png)
+1. 滚动到 `save settings` 并按 `A`。
 1. 按 `B` 回到主菜单。
 
 <details id="system-menu-hacks-list" class="notice--info" markdown="1">
-<summary><a>Click here for a full list of available System menu hacks.</a></summary>
+<summary><a>请点击这里查看所有可用的 System menu hacks 的完整列表。</a></summary>
 
 | 修改                                        | 描述                                                                             |
 | ----------------------------------------- | ------------------------------------------------------------------------------ |
@@ -102,29 +102,29 @@ If you have put the Priiloader installer on your USB drive, make sure you do not
 
 </details>
 
-[Continue to the Dos and Don'ts of Wii Modding](dosanddonts)<br> These are some guidelines to ensure you don't brick your Wii.
+[继续浏览 Wii 破解的注意事项](dosanddonts)<br> 这里是一些准则，确保您的 Wii 不会变砖。
 {: .notice--info}
 
 ### 其它选项
 
-These are some extra things you can do with Priiloader to enhance your homebrew experience. This is optional.
+这里是一些额外的内容，您可以通过 Priiloader 来增强您的自制体验。 这是可选项。
 
 #### 使用 Priiloader 自动启动
 
-Priiloader allows you to automatically boot to the Homebrew Channel, an individual homebrew application, or Priiloader itself. This is optional.
+Priiloader 允许您自动启动到 Homebrew Channel、单个自制应用程序或 Priiloader 本身。 这是可选项。
 
 ##### 自动启动自制应用程序
 
 {% capture UNEO %}
-If you would like to autoboot USB loader GX, do this first:
+如果您要自动启动 USB loader GX，请先执行以下操作：
 
-- Download the USB Loader GX forwarder WAD ([Wii](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), [vWii](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad)).
-- Download the [UNEO Channel Booter for Priiloader](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders%20dols/UNEO%20Channel%20Booter%20for%20Priiloader.zip/download).
-- Install the forwarder WAD with a WAD manager like [Wii Mod Lite](wiimodlite).
-- Extract the `UNEO Channel Booter for Priiloader.zip` file anywhere.
-- Copy `uneoboot.dol` to the root of your SD card.
+- 下载 USB Loader GX 转发频道 WAD ([Wii](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), [vWii](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad))。
+- 下载 [UNEO Channel Booter for Priiloader](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders%20dols/UNEO%20Channel%20Booter%20for%20Priiloader.zip/download)。
+- 使用类似 [Wii Mod Lite](wiimodlite) 的 WAD 管理器安装转发频道 WAD。
+- 将 `UNEO Channel Booter for Priiloader.zip` 文件解压到任意位置。
+- 将 `uneoboot.dol` 复制到您 SD 卡的根目录。
 
-You will be installing `uneoboot.dol` in step 3.
+您将在第 3 步中安装 `uneoboot.dol`。
 {% endcapture %}
 
 <div class="notice--warning"> {{ UNEO | markdownify }} </div>
@@ -139,7 +139,7 @@ You will be installing `uneoboot.dol` in step 3.
 1. 按 B 回到主菜单。
 1. 向上滚动到 `System Menu`，然后按 A。
 
-Your Wii should now automatically boot to whichever homebrew app you installed.
+现在您的 Wii 应该会自动启动到您安装的任何自制应用。
 
 ##### 自动启动 Homebrew Channel 或 Priiloader
 
@@ -147,7 +147,7 @@ Your Wii should now automatically boot to whichever homebrew app you installed.
 1. 向下滚动到 `Settings`，然后按 A。 ![设置](/images/Priiloader/menu_settings.png)
 1. 按右键以循环浏览 Autoboot 选项，直到选择您所需的选项为止。 <br> `Disabled` 将自动启动到 Priiloader 菜单。
 
-Please don't set Autoboot to `BootMii IOS`. You will get stuck in a loop until you continuously hold the RESET button to enter the Priiloader menu.
+请不要将 Autoboot 设置为 `BootMii IOS`。 您将被困在循环中，直到您持续按住 RESET 按钮进入 Priiloader 菜单。
 {: .notice--warning}
 
 ![Autoboot](/images/Priiloader/autoboot_disabled.png)
