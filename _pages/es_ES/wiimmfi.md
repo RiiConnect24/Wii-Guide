@@ -45,7 +45,7 @@ Si has usado una unidad USB para instalar Priiloader, asegúrate de que no tiene
 1. Pulsa abajo hasta llegar a `System Menu` y pulsa A para salir al menú de Wii.
 1. Inicia tu juego desde el Canal Disco. Ahora deberías poder acceder a Wiimmfi.
 
-If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/blob/master/src/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
+Si el nombre del hack es `Wiimmfi Patch v2` o `Wiimmfi Patch v3`, significa que no tienes la última versión del archivo `hacks_hash.ini`.<br> Descárgalo desde [aquí](https://github.com/DacoTaco/priiloader/blob/master/src/priiloader/hacks_hash.ini) y colócalo en la carpeta <0>/apps/priiloader</0> en tu tarjeta SD o unidad USB, luego repite los pasos anteriores.
 {: .notice--warning}
 
 ### Aplicación homebrew para discos
