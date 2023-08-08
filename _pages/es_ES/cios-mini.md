@@ -4,22 +4,22 @@ title: "Instalar cIOS d2xl para Wii mini"
 
 {% include toc title="Tabla de contenido" %}
 
-En esta guía aprenderás a instalar el cIOS (IOS personalizado) d2xl para Wii mini, creado por Leseratte. Esto es necesario si deseas cargar juegos por medio de un USB Loader. Algunas aplicaciones homebrew pueden funcionar mejor usando cIOS.
+En esta guía aprenderás a instalar el cIOS (IOS personalizado) d2xl para Wii mini, creado por Leseratte. Esto es necesario para poder usar algunas aplicaciones homebrew, o si deseas cargar juegos por medio de un USB loader.
 
 ![Logotipo de d2x cIOS Installer](/images/cios/cIOS.png)
 
-Esta guía es solo para usuarios de Wii Mini. Si tienes una Wii, entonces sigue [esta guía](cios).
+Esta guía solo aplica para usuarios de Wii mini. Si tienes una Wii original, por favor sigue [esta guía](cios).
 {: .notice--warning}
 
 Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en el [servidor de Discord](https://discord.gg/6ryxnkS) de Wii mini Hacking. Soporte disponible solo en inglés.
 {: .notice--info}
 
-Esta versión de d2x cIOS installer fue originalmente desarrollada para el vWii por DaveBaol y el cIOS ha sido creado por Leseratte específicicamente para la Wii Mini. La página de descarga original puede ser encontrada [aquí](https://wii.leseratte10.de/d2xl-cIOS/). El repositorio en GitHub puede ser visitado [aquí](https://github.com/Leseratte10/d2xl-cios). No se han reportado problemas en el funcionamiento de este cIOS, sin embargo, ten en cuenta que aún se encuentra en fase experimental.
+El instalador de este cIOS originalmente fue desarrollado para la vWii de Wii U por DaveBaol, mientras que el cIOS fue diseñado por Leseratte específicamente para la Wii mini. La página de descarga original se encuentra [aquí](https://wii.leseratte10.de/d2xl-cIOS/), y el repositorio en GitHub puede ser visitado [aquí](https://github.com/Leseratte10/d2xl-cios). No se han reportado problemas en el funcionamiento de este cIOS, sin embargo, ten en cuenta que aún se encuentra en fase experimental.
 {: .notice--info}
 
 #### Requisitos
 
-* Una Wii Mini con el Canal Homebrew instalado
+* Una Wii mini con el Canal Homebrew instalado
 * Una unidad USB
 * [d2xl cIOS Installer](/assets/files/d2xl_wii_mini_cIOS_installer_v1_beta2.zip) de Leseratte
 
