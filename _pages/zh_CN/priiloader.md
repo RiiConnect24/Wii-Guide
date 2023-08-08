@@ -31,7 +31,7 @@ And some things to enhance your vWii experience:
 #### 你需要的是
 
 - 一张 SD 卡或 U 盘
-- [Priiloader installer](https://github.com/DacoTaco/priiloader/releases/download/0.9.1/Priiloader_v0_9_1.zip)<!-- - \[LoadPriiloader\](https://hbb1.oscwii.org/hbb/LoadPriiloader/LoadPriiloader.zip) -->#### 步骤
+- [Priiloader installer](https://github.com/DacoTaco/priiloader/releases)<!-- - \[LoadPriiloader\](https://hbb1.oscwii.org/hbb/LoadPriiloader/LoadPriiloader.zip) -->#### 步骤
 
 ##### 第一部分 - 下载/安装
 
