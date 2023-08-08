@@ -63,6 +63,7 @@ sitemap: false
 - [执行 SysCheck](syscheck)
 - [卸载 RSSMii](rssmii-remove)
 - [RiiTag](riitag)
+- [Wii U 上的 RiiTag](riitag-wiiu)
 - [设置 RTC 时间](rtc)
 - [更新 Wii 菜单至 v4.3](update)
 - [USB Loader GX](usbloadergx)
