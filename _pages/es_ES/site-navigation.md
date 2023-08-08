@@ -63,6 +63,7 @@ sitemap: false
 - [Performing a SysCheck](syscheck)
 - [Desinstalar RSSMii](rssmii-remove)
 - [RiiTag](riitag)
+- [Instalar RiiTag en Wii U](riitag-wiiu)
 - [Setting RTC Time](rtc)
 - [Updating Wii Menu to v4.3](update)
 - [USB Loader GX](usbloadergx)
