@@ -47,8 +47,8 @@ Tras haber copiado los archivos WAD a la tarjeta SD o unidad USB, la raíz deber
 ##### Sección II - Instalación
 
 1. Descarga la aplicación d2x cIOS Installer, y extrae el archivo ZIP a la raíz de tu tarjeta SD o unidad USB.
-1. Insert the SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel
-1. Press A to continue, then set the options to the following:
+1. Inserta la tarjeta SD o unidad USB en tu Wii, e inicia d2x cIOS Installer desde el Canal Homebrew.
+1. Oprime A para continuar, después ajusta las opciones de la siguiente forma:
 
 ```
 Select cIOS: d2x-v11-beta1
@@ -57,13 +57,13 @@ Select cIOS slot: 248
 Select cIOS version: 65535
 ```
 
-If `d2x-v11-beta1` isn't showing up, try select the cIOS base first, then check again. This can also happen if your SD card is locked.
+Si no aparece la opción `d2x-v11-beta1`, ajusta primero `Select cIOS base`, y luego vuelve a intentarlo. Esto también puede ocurrir si la tarjeta SD está protegida contra escritura.
 {: .notice--info}
 
-![Install cIOS 248](/images/cios/d2x_v11_248.png)
+![Instalando cIOS 248](/images/cios/d2x_v11_248.png)
 
-1. Una vez que todas las opciones hayan sido ajustadas correctamente, repite el proceso y presiona A dos veces para comenzar la siguiente instalación.
-1. Cuando la instalación haya finalizado correctamente, vuelve a presionar A para volver al menú anterior y esta vez ajusta otra vez las opciones de la siguiente forma:
+1. Una vez que todas las opciones hayan sido ajustadas correctamente, oprime A dos veces para comenzar la instalación.
+1. Si la instalación ha sido exitosa, presiona A para volver al menú anterior y esta vez ajusta las opciones de la siguiente forma:
 
 ```
 Select cIOS: d2x-v11-beta1
@@ -72,10 +72,10 @@ Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 
-![Install cIOS 249](/images/cios/d2x_v11_249.png)
+![Instalando cIOS 249](/images/cios/d2x_v11_249.png)
 
-1. Una vez que todas las opciones hayan sido ajustadas correctamente, repite el proceso y presiona A dos veces para comenzar la siguiente instalación.
-1. Cuando la instalación haya finalizado correctamente, vuelve a presionar A para volver al menú anterior y esta vez ajusta otra vez las opciones de la siguiente forma:
+1. Una vez que todas las opciones hayan sido ajustadas correctamente, oprime A dos veces para comenzar la instalación.
+1. Si la instalación ha sido exitosa, presiona A para volver al menú anterior y esta vez ajusta las opciones de la siguiente forma:
 
 ```
 Select cIOS: d2x-v11-beta1
@@ -84,10 +84,10 @@ Select cIOS slot: 250
 Select cIOS version: 65535
 ```
 
-![Install cIOS 250](/images/cios/d2x_v11_250.png)
+![Instalando cIOS 250](/images/cios/d2x_v11_250.png)
 
-1. Una vez que todas las opciones hayan sido ajustadas correctamente, repite el proceso y presiona A dos veces para comenzar la siguiente instalación.
-1. Cuando la instalación haya finalizado correctamente, vuelve a presionar A para volver al menú anterior y esta vez ajusta otra vez las opciones de la siguiente forma:
+1. Una vez que todas las opciones hayan sido ajustadas correctamente, oprime A dos veces para comenzar la instalación.
+1. Si la instalación ha sido exitosa, presiona A para volver al menú anterior y esta vez ajusta las opciones de la siguiente forma:
 
 ```
 Select cIOS: d2x-v11-beta1
@@ -96,11 +96,11 @@ Select cIOS slot: 251
 Select cIOS version: 65535
 ```
 
-![Install cIOS 251](/images/cios/d2x_v11_251.png)
+![Instalando cIOS 251](/images/cios/d2x_v11_251.png)
 
-1. Once set, press A twice again to install, and then exit once done.
+1. Una vez que todas las opciones hayan sido ajustadas correctamente, oprime A dos veces para comenzar la instalación. Cuando finalice, podrás salir de la aplicación.
 
-#### Troubleshooting
+#### Resolución de problemas
 
 {% capture bruh %}
 Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
