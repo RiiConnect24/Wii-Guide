@@ -62,8 +62,7 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 ##### Downloading
 
 1. Extract GCMM and put it in the `apps` folder on your SD card or USB drive.
-2. Place the `.gci` file in a folder called `MCBACKUP` on the root of the SD card or USB drive.
-3. Insert your SD card or USB drive into your Wii and launch GCMM from the Homebrew Channel.
+2. Insert your SD card or USB drive into your Wii and launch GCMM from the Homebrew Channel.
 
 ##### Backing Up
 
@@ -101,6 +100,66 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 3. Press L and Y at the same time on GameCube Controller or B and - at the same time on the Wii remote to backup your to a .raw file and select the slot your memory card is in.
    ![Memory](/images/gcsaves/gcmm-mem-select.jpg)
 4. When the dump is complete, press any button to continue. It should be saved in a folder on the root of your SD or USB called `MCBACKUP`.
+5. If you plan to use this in dolphin, just place the raw file inside of the GC folder in the specific region you used the memory card for on your PC.
+6. If you plan to use this in nintendont, just set the memory card emulation to multi.
+
+## Converting an Individual save file (.gci) Into an Emulated Memory Card File (.raw)
+
+#### What you need
+
+- An SD Card or USB
+- [The latest beta or development version of Dolphin Emulator](https://dolphin-emu.org/download/?ref=btn)
+
+#### Instructions
+
+##### Downloading
+
+1. Download the latest beta or development version of Dolphin Emulator for your OS and extract it to your PC.
+2. Insert your SD card or USB drive into your PC
+
+Do NOT download a stable version, as those builds are extremely outdated and missing key features.
+{: .notice--info}
+
+#### Using Dolphin's Memory Card Manager
+
+1. Open Dolphin Emulator
+2. Click on the Tools tab, then select Memory Card Manager
+   ![Tools](/images/gcsaves/dolphin-tools.png)
+3. Select the create button located under Slot A
+   ![MCM](/images/gcsaves/dolphin-mem-card-manager.png)
+4. It is recommended to choose the 16 Mbit (251 blocks) option for nintendont, as anything bigger can cause issues. If you're using it for dolphin emulator, dont worry about it.
+5. For the encoding, U.S and European saves should use Western (Windows-1252), otherwise use Japan (Shift-JIS)
+   ![Create](/images/gcsaves/dolphin-create-mem-card.png)
+6. For nintendont, it is recommended to have each save file in its own individual .raw file. Select create and rename it to the first 4 letters of the game ID followed by the file extention .raw. For example, the U.S copy of Super Smash Bros. Melee would be GALE.raw. You can find the game ID on [gametdb](https://www.gametdb.com/). Create a folder called saves on your SD card or USB depending on where your games are located, then save the .raw file in there.
+7. If you are using it for dolphin, you may use one raw file for each region of your saves, rename it to whatever you would like to, and save it in your GC folder in the specific region the memory card is intended for.
+8. Select the import option, then locate your .gci file.
+   ![Save](/images/gcsaves/dolphin-save.png)
+
+## Extracting an Individual Save File (.gci) From an Emulated Memory Card file (.raw)
+
+#### What you need
+
+- An SD Card or USB
+- [The latest beta or development version of Dolphin Emulator](https://dolphin-emu.org/download/?ref=btn)
+
+#### Instructions
+
+##### Downloading
+
+1. Download the latest beta or development version of Dolphin Emulator for your OS and extract it to your PC.
+2. Insert your SD card or USB drive into your PC
+
+Do NOT download a stable version, as those builds are extremely outdated and missing key features.
+{: .notice--info}
+
+#### Using Dolphin's Memory Card Manager
+
+1. Open Dolphin Emulator
+2. Click on the Tools tab, then select Memory Card Manager
+   ![Tools](/images/gcsaves/dolphin-tools.png)
+3. Select the open option under memory card A, then locate your .raw file
+4. Click on your save, then click export to .gci and save it to wherever you would like
+   ![Export](/images/gcsaves/dolphin-export.png)
 
 ## Restoring an Emulated Memory Save to a Physical Memory Card
 
