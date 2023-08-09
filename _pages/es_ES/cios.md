@@ -4,7 +4,7 @@ title: "Instalar cIOS d2x"
 
 {% include toc title="Tabla de contenido" %}
 
-En este tutorial aprenderás a instalar un cIOS (IOS personalizado). Esto te permitirá cargar juegos desde una unidad USB o tarjeta SD y usar ciertas aplicaciones homebrew.
+Con esta guía aprenderás a instalar el cIOS (IOS personalizado) d2x. Esto te permitirá cargar juegos desde una unidad USB o tarjeta SD y usar ciertas aplicaciones homebrew.
 
 ![Icono de d2x cIOS Installer](/images/cios/cIOS.png)
 
