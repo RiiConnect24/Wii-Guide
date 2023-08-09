@@ -8,7 +8,7 @@ Con esta guía aprenderás a instalar el cIOS (IOS personalizado) d2x. Esto te p
 
 ![Icono de d2x cIOS Installer](/images/cios/cIOS.png)
 
-Si tu consola es una Wii U y deseas instalar el cIOS en el modo Wii (vWii), por favor sigue [este tutorial](https://wiiu.hacks.guide/#/vwii-modding). No intentes instalar ningún otro cIOS en la vWii, pues no funcionará.
+Si tu consola es una Wii U y deseas instalar el cIOS en el modo Wii (vWii), por favor sigue [esta guía](https://wiiu.hacks.guide/#/vwii-modding). No intentes instalar ningún otro cIOS en la vWii, pues no funcionará.
 {: .notice--info}
 
 Si tienes una Wii mini, por favor instala [este cIOS](cios-mini). Intentar instalar cualquier otro cIOS en la Wii mini no funcionará.
@@ -16,37 +16,37 @@ Si tienes una Wii mini, por favor instala [este cIOS](cios-mini). Intentar insta
 
 #### Requisitos
 
-- Una consola Wii
+- Una consola Wii original
 - Una tarjeta SD o unidad USB
 - [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
 
-Ensure that if you are using an SD card, the lock switch is in the unlocked position, otherwise you will not be able to select the correct options in the installer.
+Si vas a usar una tarjeta SD, asegúrate de que no esté protegida contra escritura, pues de lo contrario no podrás elegir las opciones correctas en el instalador.
 {: .notice--warning}
 
 #### Instrucciones
 
 ##### Sección I - Descarga
 
-If your Wii has an Internet connection, you may skip this section. <br/> However, If you encounter any errors like `tcp_read timeout` and `net_gethostbyname failed:`, this will allow the Wii to skip the downloading step.
+Si tu consola está conectada a internet, puedes saltar esta sección. <br/> Sin embargo, también puedes seguir este procedimiento si al comenzar la instalación aparecen los errores `tcp_read timeout` y `net_gethostbyname failed:`.
 {: .notice--warning}
 
-If you are not on Windows, you may download & run [this script](/assets/files/d2x_offline_ios.sh), and it will download the WAD files for you.
+Si tu PC no ejecuta Windows, puedes descargar y ejecutar [este script](/assets/files/d2x_offline_ios.sh), el cual descargará los archivos WAD necesarios de forma automática.
 {: .notice--info}
 
-1. Download, extract, and run [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
-1. Select "Database", "IOS", then "IOS38", and select "v4123".
-   - Ensure that "Pack WAD" is checked.
-   - *Don't* check "Patch IOS". That is the cIOS Installer's job.
-1. Click `Start NUS Download!`.
-1. Repeat the step 2 & 3 for `IOS56 v5661`, `IOS57 v5918` and `IOS58 v6175`.
-1. Once you have downloaded all four IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. <br/> Open the folder and navigate through them until you locate the four WAD files you downloaded. Place each WAD file on the root of your SD card or USB drive.
-  - This must be the same device containing the d2x cIOS Installer.
+1. Descarga, extrae y ejecuta [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
+1. Selecciona `Database` > `IOS` > `IOS38` > `v4123`.
+   - Asegúrate de que la opción `Pack WAD` esté marcada.
+   - *No* selecciones `Patch IOS`. El instalador del cIOS se encargará de aplicar los parches necesarios.
+1. Haz clic en `Start NUS Download!`.
+1. Repite los pasos 2 y 3 para `IOS56 v5661`, `IOS57 v5918`, e `IOS58 v6175`.
+1. Una vez que hayas descargado los cuatro IOS, habrá una carpeta llamada `titles` en el mismo directorio que el programa NUS Downloader. <br/> Entra a la carpeta hasta encontrar los cuatro archivos WAD que acabas de descargar. Copia todos los archivos WAD a la raíz de tu tarjeta SD o unidad USB.
+  - Este deber ser el mismo dispositivo donde vayas a copiar la aplicación d2x cIOS Installer.
 
-The WAD files should be on your SD card like this: ![offline IOS files](/images/cios/d2x_offline_ios.png)
+Tras haber copiado los archivos WAD a la tarjeta SD o unidad USB, la raíz debería quedar de la siguiente manera:![offline IOS files](/images/cios/d2x_offline_ios.png)
 {: .notice--info}
 ##### Sección II - Instalación
 
-1. Download the d2x cIOS installer and extract the zip to the root of your SD card or USB drive.
+1. Descarga la aplicación d2x cIOS Installer, y extrae el archivo ZIP a la raíz de tu tarjeta SD o unidad USB.
 1. Insert the SD card or USB drive into your Wii, and launch the d2x cIOS Installer from the Homebrew Channel
 1. Press A to continue, then set the options to the following:
 
