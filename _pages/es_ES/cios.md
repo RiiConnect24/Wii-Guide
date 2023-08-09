@@ -42,7 +42,7 @@ Si tu PC no ejecuta Windows, puedes descargar y ejecutar [este script](/assets/f
 1. Una vez que hayas descargado los cuatro IOS, habrá una carpeta llamada `titles` en el mismo directorio que el programa NUS Downloader. <br/> Entra a la carpeta hasta encontrar los cuatro archivos WAD que acabas de descargar. Copia todos los archivos WAD a la raíz de tu tarjeta SD o unidad USB.
   - Este deber ser el mismo dispositivo donde vayas a copiar la aplicación d2x cIOS Installer.
 
-Tras haber copiado los archivos WAD a la tarjeta SD o unidad USB, la raíz debería quedar de la siguiente manera:![offline IOS files](/images/cios/d2x_offline_ios.png)
+Tras haber copiado los archivos WAD a la tarjeta SD o unidad USB, la raíz debería quedar de la siguiente manera:![Archivos WAD para instalar cIOS sin conexión](/images/cios/d2x_offline_ios.png)
 {: .notice--info}
 ##### Sección II - Instalación
 
@@ -103,12 +103,12 @@ Select cIOS version: 65535
 #### Resolución de problemas
 
 {% capture bruh %}
-Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
+Aunque la mayoría de juegos deberian funcionar directamente con la configuracion predeterminada, algunos pueden requerir un cIOS especifico para poder funcionar o utilizar algunas caracterisitcas dentro del juego.<br> Algunos ejemplos incluyen:
 
-- Using a keyboard in Animal Crossing: City Folk.
-- Running SpongeBob's Boating Bash.
+- Usar un teclado en Animal Crossing.
+- Jugar SpongeBob's Boating Bash.
 
-A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
+Puedes encontrar una lista de compatibilidad más detallada (aunque incompleta) [**aquí**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List).<br> Para cambiar el cIOS usado por un juego en específico, sigue estas instrucciones:
 {% endcapture %}
 
 <div class="notice--warning">{{ bruh | markdownify }}</div>
@@ -117,27 +117,27 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'wiiflow')">WiiFlow</button>
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
-1. Select the game that isn't working.
-1. Click Settings.
-1. Select `Game Load`.
-1. Scroll down to `Game IOS`.
-1. Enter the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
-1. Press OK and try to load the game.
+1. Selecciona el juego que no funciona.
+1. Ve a `Configuración`.
+1. Elige `Configuración del Juego`.
+1. Baja hasta la opción `IOS del Juego`, y ajústala en `Custom`.
+1. Selecciona la opción `Custom Game IOS`.
+    - Ingresa 250 o 251 en caso de que el IOS 249 no haya funcionado.
+1. Guarda los cambios e intenta cargar el juego nuevamente.
 </div>
 <div id="wiiflow" class="blanktabcontent" markdown="1">
-1. Select the game that isn't working.
-1. Click the gear icon.
-1. Go to cIOS and use the arrows to select the IOS slot to use.
-    - Try using 250 or 251, if 249 doesn't work.
-1. Press Save and try to load the game.
+1. Selecciona el juego que no funciona.
+1. Elige la opción con el icono del engranaje.
+1. Dirígete a la opción `cIOS`, y usa las flechas para elegir otro IOS.
+    - Intenta usar el IOS 250 o 251 en caso de que el IOS 249 no haya funcionado.
+1. Guarda los cambios e intenta cargar el juego nuevamente.
 </div>
 ##### Opciones una vez terminado
 
-[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
+[Continuar a la instalación de Homebrew Browser](hbb)<br> Homebrew Browser te permite descargar diversas aplicaciones homebrew directamente desde tu Wii. Este proceso es opcional.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Ir al mapa del sitio](site-navigation)<br> Tenemos muchas otras guías que podrían interesarte.
 {: .notice--info}
 
 Ahora puedes usar aplicaciones homebrew como [USB Loader GX](usbloadergx) y [WiiFlow](wiiflow).
