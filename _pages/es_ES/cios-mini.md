@@ -6,7 +6,7 @@ title: "Instalar cIOS d2xl para Wii mini"
 
 En esta guía aprenderás a instalar el cIOS (IOS personalizado) d2xl para Wii mini, creado por Leseratte. Esto es necesario para poder usar algunas aplicaciones homebrew, o si deseas cargar juegos por medio de un USB loader.
 
-![Logotipo de d2x cIOS Installer](/images/cios/cIOS.png)
+![Icono de d2x cIOS Installer](/images/cios/cIOS.png)
 
 Esta guía solo aplica para usuarios de Wii mini. Si tienes una Wii original, por favor sigue [esta guía](cios).
 {: .notice--warning}
@@ -44,9 +44,9 @@ Take a note of the version number under notes (`IOS57-64-` ending in either `v31
 
 
 ##### Activar Ethernet
-Si deseas jugar en Wiimmfi con tu Wii Mini, tendrás que hacerlo a través de Ethernet, y para eso necesitarás ejecutar la aplicación homebrew [Wii Mini Ethernet Enabler](/assets/files/Wii_Mini_Ethernet_Enable.zip) creada por Fullmetal5. Extrae Wii Mini Ethernet Enabler a la carpeta `apps` en tu unidad USB y después inicia la aplicación desde el Canal Homebrew.
+Si deseas jugar en Wiimmfi desde tu Wii mini, deberás hacerlo a través de Ethernet, para lo cual necesitarás ejecutar la aplicación homebrew [Ethernet Enabler](/assets/files/Wii_Mini_Ethernet_Enable.zip), creada por Fullmetal5. Extrae el archivo a la carpeta `apps` en tu unidad USB y después inicia la aplicación desde el Canal Homebrew.
 
-The Wii and Wii mini consoles are only known to work with Ethernet adapters using the AX88772 chip. Please check that the product is compatible before you buy. This one from UGREEN is known to be compatible: [Amazon Europe](https://www.amazon.de/dp/B00MYT481C), [Amazon US](https://www.amazon.com/dp/B08DRKYKMM/)
+Las consolas Wii y Wii mini solo pueden utilizar adaptadores Ethernet con el chip AX88772. Please check that the product is compatible before you buy. This one from UGREEN is known to be compatible: [Amazon Europe](https://www.amazon.de/dp/B00MYT481C), [Amazon US](https://www.amazon.com/dp/B08DRKYKMM/)
 {: .notice--info}
 
 Do not attempt to install a Wii IOS or System Menu on the Wii mini. Doing so will likely brick your console.
