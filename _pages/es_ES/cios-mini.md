@@ -55,5 +55,5 @@ No intentes instalar ningún IOS o System Menu nativo de Wii en una Wii mini. Ha
 Ahora puedes usar aplicaciones homebrew como [USB Loader GX](usbloadergx) y [WiiFlow](wiiflow).
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Ir al mapa del sitio](site-navigation)<br> Tenemos muchas otras guías que podrían interesarte.
 {: .notice--info}
