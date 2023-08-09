@@ -6,7 +6,7 @@ title: "Instalar cIOS d2x"
 
 En este tutorial aprenderás a instalar un cIOS (IOS personalizado). Esto te permitirá cargar juegos desde una unidad USB o tarjeta SD y usar ciertas aplicaciones homebrew.
 
-![Logotipo de d2x cIOS Installer](/images/cios/cIOS.png)
+![Icono de d2x cIOS Installer](/images/cios/cIOS.png)
 
 Si tu consola es una Wii U y deseas instalar el cIOS en el modo Wii (vWii), por favor sigue [este tutorial](https://wiiu.hacks.guide/#/vwii-modding). No intentes instalar ningún otro cIOS en la vWii, pues no funcionará.
 {: .notice--info}
@@ -140,7 +140,7 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
+Ahora puedes usar aplicaciones homebrew como [USB Loader GX](usbloadergx) y [WiiFlow](wiiflow).
 {: .notice--info}
 
 <script>
