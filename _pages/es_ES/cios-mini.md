@@ -40,7 +40,7 @@ El instalador de este cIOS originalmente fue desarrollado para la vWii de Wii U 
     ```
 Revisa que el número de versión que aparece después de `IOS57-64-` en la parte inferior sea `v31776` o `v31775`.
 1. Una vez que todas las opciones hayan sido ajustadas correctamente, pulsa A dos veces para comenzar a instalar. Si el proceso ha sido exitoso, ahora puedes salir del instalador.
-   - Si la instalación falla debido al error `TMD version mismatch`, pulsa izquierda o derecha en la cruz sobre la opción `Select cIOS` hasta que el número de versión sea diferente al que has usado anteriormente. El número 57 no cambiará.
+   - Si la instalación falla debido al error `TMD version mismatch`, pulsa izquierda o derecha en el botón cruz sobre la opción `Select cIOS` hasta que el número de versión sea diferente al que has usado anteriormente. El número 57 no cambiará.
 
 
 ##### Activar Ethernet
