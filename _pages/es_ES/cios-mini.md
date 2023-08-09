@@ -38,7 +38,7 @@ El instalador de este cIOS originalmente fue desarrollado para la vWii de Wii U 
     Select cIOS base: 57
     Select cIOS slot: 249
     ```
-Take a note of the version number under notes (`IOS57-64-` ending in either `v31776` or `v31775`)
+Revisa que el número de versión que aparece después de `IOS57-64-` en la parte inferior sea `v31776` o `v31775`.
 1. Una vez que todas las opciones hayan sido ajustadas correctamente, pulsa A dos veces para comenzar a instalar. Si el proceso ha sido exitoso, ahora puedes salir del instalador.
    - Si la instalación falla debido al error `TMD version mismatch`, pulsa izquierda o derecha en la cruz sobre la opción `Select cIOS` hasta que el número de versión sea diferente al que has usado anteriormente. El número 57 no cambiará.
 
@@ -46,13 +46,13 @@ Take a note of the version number under notes (`IOS57-64-` ending in either `v31
 ##### Activar Ethernet
 Si deseas jugar en Wiimmfi desde tu Wii mini, deberás hacerlo a través de Ethernet, para lo cual necesitarás ejecutar la aplicación homebrew [Ethernet Enabler](/assets/files/Wii_Mini_Ethernet_Enable.zip), creada por Fullmetal5. Extrae el archivo a la carpeta `apps` en tu unidad USB y después inicia la aplicación desde el Canal Homebrew.
 
-Las consolas Wii y Wii mini solo pueden utilizar adaptadores Ethernet con el chip AX88772. Please check that the product is compatible before you buy. This one from UGREEN is known to be compatible: [Amazon Europe](https://www.amazon.de/dp/B00MYT481C), [Amazon US](https://www.amazon.com/dp/B08DRKYKMM/)
+Las consolas Wii y Wii mini solo pueden utilizar adaptadores Ethernet con el chip AX88772. Por favor asegúrate de que el adaptador sea compatible antes de comprarlo. Este producto de UGREEN está confirmado como compatible. Lo puedes adquirir desde [Amazon Europa](https://www.amazon.de/dp/B00MYT481C) o [Amazon Estados Unidos](https://www.amazon.com/dp/B08DRKYKMM/).
 {: .notice--info}
 
-Do not attempt to install a Wii IOS or System Menu on the Wii mini. Doing so will likely brick your console.
+No intentes instalar ningún IOS o System Menu nativo de Wii en una Wii mini. Hacer esto conlleva un gran riesgo de que tu consola sufra un brick.
 {: .notice--warning}
 
-You can now use homebrew such as [USB Loader GX](usbloadergx) and [WiiFlow](wiiflow).
+Ahora puedes usar aplicaciones homebrew como [USB Loader GX](usbloadergx) y [WiiFlow](wiiflow).
 {: .notice--info}
 
 [Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
