@@ -4,7 +4,7 @@ title: "Instalar cIOS d2xl para Wii mini"
 
 {% include toc title="Tabla de contenido" %}
 
-En esta guía aprenderás a instalar el cIOS (IOS personalizado) d2xl para Wii mini, creado por Leseratte. Esto es necesario para poder usar algunas aplicaciones homebrew, o si deseas cargar juegos por medio de un USB loader.
+En esta guía aprenderás a instalar el cIOS (IOS personalizado) d2xl para Wii mini, creado por Leseratte. Esto te permitirá cargar juegos desde una unidad USB y usar ciertas aplicaciones homebrew.
 
 ![Icono de d2x cIOS Installer](/images/cios/cIOS.png)
 
