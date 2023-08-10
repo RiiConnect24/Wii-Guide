@@ -20,15 +20,15 @@ En esta guía aprenderás a extraer canales instalados en la memoria de la conso
 2. Inserta la tarjeta SD o unidad USB en tu Wii, e inicia Yet Another BlueDump MOD desde el Canal Homebrew.
 
 ##### Sección II - Copiando los WADs
-1. Oprime el botón A. ![Oprime A](/images/DumpWADS/2.png)
+1. Oprime el botón A. ![Pantalla de inicio de Yet Another BlueDump MOD](/images/DumpWADS/2.png)
 
-2. Selecciona `Installed Channel Titles`. ![Títulos de Canales Instalados](/images/DumpWADS/3.png)
+2. Selecciona `Installed Channel Titles`. ![Menú principal de Yet Another BlueDump MOD](/images/DumpWADS/3.png)
 
-3. Pulsa arriba o abajo en el botón cruz hasta encontrar el contenido que deseas copiar, y oprime el botón 1.![Encontrar canal](/images/DumpWADS/4.png)
+3. Pulsa arriba o abajo en el botón cruz hasta encontrar el contenido que deseas copiar, y oprime el botón 1.![Lista de canales instalados](/images/DumpWADS/4.png)
 
 4. Elige `Backup to WAD`.
-5. Cuando aparezca `Fakesign the ticket`, selecciona `Yes`.
-6. Cuando aparezca `Fakesign the TMD`, selecciona `No`.
-7. En el indicador de `Change the output WAD region`, seleccione `No`.
+5. Cuando aparezca `Fakesign the ticket`, selecciona `Yes`, a menos que el canal que deseas copiar haya sido instalado de forma legítima desde el Canal Tienda Wii.
+6. Cuando se muestre `Fakesign the TMD`, elige `No`.
+7. Al aparecer el mensaje `Change the output WAD region`, selecciona `No`.
 
-Ahora ya has copiado el canal en formato WAD. Debería aparecer en tu tarjeta SD o unidad USB. ![Terminado](/images/DumpWADS/5.png)
+Cuando el proceso haya terminado, habrás copiado el canal en formato WAD. Debería aparecer en tu tarjeta SD o unidad USB, en la carpeta `/YABDM/WAD`. ![Archivo WAD generado exitosamente](/images/DumpWADS/5.png)
