@@ -15,9 +15,8 @@ Priiloader adds a level of brick protection to your Wii. It loads before the Wii
 
 ![Installing Priiloader](/images/Priiloader/priiloader.jpg)
 
-<!-- {% capture notice-vwii-priiloader %}
-Priiloader 0.10.0 introduces vWii support! <br>
-There are some important things to take note of:
+{% capture notice-vwii-priiloader %}
+Priiloader 0.10.0 introduces vWii support! <br> There are some important things to take note of:
 - To fix the timestamp issues (FORE000006, wrong News Channel update time), you will need to [generate a timestamp fix hack](https://garyodernichts.github.io/priiloader-patch-gen/). More info on the page.
 - Installing a theme after installing Priiloader **will brick your vWii.**
 
@@ -26,17 +25,23 @@ And some things to enhance your vWii experience:
 - [evWii Aroma Plugin](https://github.com/GaryOderNichts/evwii/releases) to enhance some extra features for vWii. The features are listed [here](https://github.com/GaryOderNichts/evwii#features).
 {% endcapture %}
 
-<div class="notice--success" markdown="1">{{ notice-vwii-priiloader }} </div> -->
+<div class="notice--success" markdown="1">
+
+{{ notice-vwii-priiloader }}
+</div>
 
 #### Requisitos
 
 - Una tarjeta SD o unidad USB
-- [Priiloader installer](https://github.com/DacoTaco/priiloader/releases)<!-- - \[LoadPriiloader\](https://hbb1.oscwii.org/hbb/LoadPriiloader/LoadPriiloader.zip) -->#### Instrucciones
+- [Priiloader installer](https://github.com/DacoTaco/priiloader/releases/download/0.10.0-RC3/Priiloader_v0_10RC3.zip)
+- [LoadPriiloader](https://hbb1.oscwii.org/hbb/LoadPriiloader/LoadPriiloader.zip)
+
+#### Instrucciones
 
 ##### Sección I - Descarga/instalación
 
-1. Extract the Priiloader installer and put it in the apps folder on your SD card or USB drive.
-2. Insert your SD card or USB drive into your Wii, and launch the Priiloader installer from the Homebrew Channel.
+1. Download the Priiloader installer and LoadPriiloader apps.
+1. Extract both apps to the root of your SD card or USB drive.
 
 ##### Sección II - Instalación
 
@@ -50,7 +55,6 @@ And some things to enhance your vWii experience:
 Priiloader will appear automatically after you install it. Simply exit the Homebrew Channel, and you should see the Priiloader menu: ![Priiloader menu](/images/Priiloader/menu.png)
 
 To enter it later on, simply run the "Load Priiloader" homebrew app. There are also other ways to enter Priiloader:
-
 - Holding RESET on a Wii while turning it on.
 - Holding the ESC key on a USB keyboard while turning on the console.
 
@@ -117,12 +121,11 @@ Priiloader allows you to automatically boot to the Homebrew Channel, an individu
 
 {% capture UNEO %}
 If you would like to autoboot USB loader GX, do this first:
-
-- Download the USB Loader GX forwarder WAD ([Wii](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), [vWii](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad)).
-- Download the [UNEO Channel Booter for Priiloader](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders%20dols/UNEO%20Channel%20Booter%20for%20Priiloader.zip/download).
-- Install the forwarder WAD with a WAD manager like [Wii Mod Lite](wiimodlite).
-- Extract the `UNEO Channel Booter for Priiloader.zip` file anywhere.
-- Copy `uneoboot.dol` to the root of your SD card.
+  * Download the USB Loader GX forwarder WAD ([Wii](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), [vWii](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad)).
+  * Download the [UNEO Channel Booter for Priiloader](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders%20dols/UNEO%20Channel%20Booter%20for%20Priiloader.zip/download).
+  * Install the forwarder WAD with a WAD manager like [Wii Mod Lite](wiimodlite).
+  * Extract the `UNEO Channel Booter for Priiloader.zip` file anywhere.
+  * Copy `uneoboot.dol` to the root of your SD card.
 
 You will be installing `uneoboot.dol` in step 3.
 {% endcapture %}
@@ -150,8 +153,7 @@ Your Wii should now automatically boot to whichever homebrew app you installed.
 Please don't set Autoboot to `BootMii IOS`. You will get stuck in a loop until you continuously hold the RESET button to enter the Priiloader menu.
 {: .notice--warning}
 
-![Autoboot](/images/Priiloader/autoboot_disabled.png)
-
+   ![Autoboot](/images/Priiloader/autoboot_disabled.png)
 1. Scroll down to `save settings` and press A. ![Saving settings](/images/Priiloader/settings_save.png)
 1. Press B to return to the main menu.
 1. Scroll back up to `System Menu` and press A.
