@@ -40,7 +40,6 @@ We are **NOT** responsible if you brick, or damage your console in any way whats
 * A Wii U with [the vWii modded](https://wiiu.hacks.guide/#/vwii-modding). **This guide requires the latest CFW on your Wii U.**
 * A Nintendo Network ID (NNID) linked to your Wii U
 * [Priiloader](priiloader) installed on your vWii
-* [Load Priiloader](https://hbb1.oscwii.org/hbb/LoadPriiloader/LoadPriiloader.zip)
 * [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 * [RiiConnect24 Mail Patcher](https://hbb1.oscwii.org/hbb/Mail-Patcher/Mail-Patcher.zip)
 
