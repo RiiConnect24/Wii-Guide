@@ -122,7 +122,7 @@ These are some extra things you can do with Priiloader to enhance your homebrew 
 
 Priiloader allows you to automatically boot to the Homebrew Channel, an individual homebrew application, or Priiloader itself. This is optional.
 
-##### Autobooting a Homebrew application 
+##### Autobooting a Homebrew application
 
 {% capture UNEO %}
 If you would like to autoboot USB loader GX, do this first:
@@ -171,4 +171,3 @@ Please don't set Autoboot to `BootMii IOS`. You will get stuck in a loop until y
    ![Saving settings](/images/Priiloader/settings_save.png)
 1. Press B to return to the main menu.
 1. Scroll back up to `System Menu` and press A.
-
