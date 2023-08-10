@@ -9,18 +9,18 @@ header:
 excerpt: "La guía completa para modificar tu consola Nintendo Wii."
 ---
 
-Esta guía también está disponible en otros idiomas. Para ver la página en otro idioma, por favor presiona el icono en la esquina superior derecha y elige un idioma.
+Esta página está disponible en varios idiomas. Para cambiar de idioma, haz clic en el icono de la esquina superior derecha.
 {: .notice--info}
 
-## ¿Qué es “homebrew”?
+## ¿Qué es "homebrew"?
 
-[**Homebrew**](https://en.wikipedia.org/wiki/Homebrew_(video_games)) se refiere a software no autorizado por Nintendo. ¡Esto incluye juegos, utilidades, emuladores y mucho más!
+[**Homebrew**](https://es.wikipedia.org/wiki/Homebrew) se refiere a software no autorizado por Nintendo. ¡Esto incluye juegos, herramientas, emuladores y mucho más!
 
-Ejecutar homebrew en tu Nintendo Wii puede hacerse gratuitamente aprovechando bugs en el software de Wii. Las modificaciones instaladas por seguir esta guía te dará acceso fácil y persistente a Homebrew de Wii.
+Ejecutar homebrew en la Nintendo Wii puede hacerse de forma gratuita, aprovechando diversas vulnerabilidades en el software de la consola. Las modificaciones que instales en tu consola al seguir esta guía te darán acceso fácil y permanente a homebrew.
 
 ## ¿Qué puedo hacer con homebrew?
 
-Aquí una lista de lo que puedes hacer con Homebrew. Dado a que esta lista no quiere decir que todo sea comprensible, deberás tener una buena idea de lo que es si es posible, y la guía te ayudará a comenzar fácilmente.
+Hay muchas cosas que puedes hacer con homebrew. A continuación se enlistan algunos de los usos más populares:
 
 - Parchear contenido de juegos físicos (permitiéndote así cargar modificaciones personalizadas) usando [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
 - Instalar temas a tu Menú de Wii usando [MyMenuify](themes).
