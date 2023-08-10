@@ -1,20 +1,20 @@
 ---
-title: "WiiWare Patcher"
+title: "Parche de Wiimmfi para WiiWare"
 ---
 
 {% include toc title="Tabla de contenido" %}
 
-¿Desea parchear juegos WiiWare para jugar en Wiimmfi pero no sabes cómo hacerlo? En esta guía te explicaremos cómo usar WiiWare Patcher. (Esta guía sólo es apta para usuarios de Windows)
+Con esta guía aprenderás a parchear archivos WAD de juegos WiiWare para jugar en línea a través de (Esta guía sólo es apta para usuarios de Windows)
 
 ![Usando el WiiWare Patcher](/images/rc24_using_the_wiiware_patcher.jpg)
 
-Esta guía es sólo para la versión de Windows de WiiWare Patcher.
+En esta guía se asume que estás usando la versión para Windows de WiiWare Patcher, aunque el programa también es compatible con Linux y macOS.
 {: .notice--info}
 
 #### Requisitos
 
 * Una computadora con Windows
-* [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases)
+* [Parche de Wiimmfi para WiiWare](https://github.com/RiiConnect24/WiiWare-Patcher/releases)
 
 ##### Section I - Downloading WiiWare Patcher
 
