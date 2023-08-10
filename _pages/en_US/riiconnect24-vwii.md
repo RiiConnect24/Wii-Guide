@@ -18,8 +18,7 @@ This guide is for vWii (Wii Mode on Wii U) only.
 
 - Follow [this tutorial](riiconnect24-wii) if you'd like to install RiiConnect24 on a Wii.
 - Follow [this tutorial](riiconnect24-dolphin) if you'd like to install RiiConnect24 on Dolphin Emulator.
-
-{% endcapture notice-1 %}
+{% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
@@ -36,30 +35,21 @@ We are **NOT** responsible if you brick, or damage your console in any way whats
 
 #### What you need
 
-- An SD card or USB drive
-- A computer
-- A Wii U console with an Internet connection that's capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi).
-
-If you do not have a softmodded Wii U console, please follow [this guide](https://wiiu.hacks.guide), as well as the [virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.
-{: .notice--warning}
-
-<!-- * A Wii U with [the vWii modded](https://wiiu.hacks.guide/#/vwii-modding). **This guide requires the latest CFW on your Wii U.**
-- A Nintendo Network ID (NNID) linked to your Wii U
-- [Priiloader](priiloader) installed on your vWii
-- [Load Priiloader](https://hbb1.oscwii.org/hbb/LoadPriiloader/LoadPriiloader.zip) -->
-
-- [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
-- [RiiConnect24 Mail Patcher](https://hbb1.oscwii.org/hbb/Mail-Patcher/Mail-Patcher.zip)
+* An SD card or USB drive
+* A computer
+* A Wii U with [the vWii modded](https://wiiu.hacks.guide/#/vwii-modding). **This guide requires the latest CFW on your Wii U.**
+* A Nintendo Network ID (NNID) linked to your Wii U
+* [Priiloader](priiloader) installed on your vWii
+* [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+* [RiiConnect24 Mail Patcher](https://hbb1.oscwii.org/hbb/Mail-Patcher/Mail-Patcher.zip)
 
 {% capture notice-2 %}
 After following the vWii modding guide linked above, you should have:
-
-- A vWii NAND backup and keys stored safely
-- The Homebrew Channel installed
-- d2x cIOS installed (IOS249, IOS250 and IOS251)
-- IOS80 patched
-
-{% endcapture notice-2 %}
+* A vWii NAND backup and keys (keep these stored safely!!)
+* The Homebrew Channel installed
+* d2x cIOS installed (IOS249, IOS250 and IOS251)
+* IOS80 patched
+{% endcapture %}
 
 <div class="notice" markdown="1">{{ notice-2 }}</div>
 
@@ -74,26 +64,26 @@ If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord ser
 2. Download `RiiConnect24Patcher.bat` if you are on Windows, and `RiiConnect24Patcher.sh` if you are on a Unix system
 3. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open Terminal and type `bash`, then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this: `bash RiiConnect24Patcher.sh`.
 4. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`. (NOTE: These screenshots are from the Windows version of the patcher.)
-   ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
+![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
 5. Select the device you're patching for.
-   ![Select your device](/images/RC24_Patcher/2.JPG)
+![Select your device](/images/RC24_Patcher/2.JPG)
 6. For this guide, choose "`Install RiiConnect24 on your Wii`"
-   ![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
+![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
 7. Choose "`Express (Recommended)`". It will give you everything you need.
-   ![Express Settings](/images/RC24_Patcher/4.JPG)
+![Express Settings](/images/RC24_Patcher/4.JPG)
 8. Select your region.
-   ![Select your region](/images/RC24_Patcher/5.JPG)
+![Select your region](/images/RC24_Patcher/5.JPG)
 9. While you're at it, RiiConnect24 Patcher can additionally download some other optional channels that do not use RiiConnect24. `[X]` represents the options that selected. Just press 5 and `ENTER` if you're not interested.
-   ![Additional optional channels](/images/RC24_Patcher/6.JPG)
+![Additional optional channels](/images/RC24_Patcher/6.JPG)
 10. Connect your SD Card or USB Drive to your computer and select "`1`".
-    ![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
+![Enable copying to SD Card](/images/RC24_Patcher/7.JPG)
 11. If your device was detected successfully, select "`1`". If not, make sure there's a folder called `apps` on your SD Card or USB Drive and try again.
-    ![Successfully detected](/images/RC24_Patcher/8.JPG)
+![Successfully detected](/images/RC24_Patcher/8.JPG)
 12. Be patient...
-    ![It's patching!](/images/RC24_Patcher/9.JPG)
-13. After it's done, we would appreciate if you take a minute to send anonymous feedback to us. If you don't want to, close the patcher. All the files should already be on your SD Card.
-    ![It's done!](/images/RC24_Patcher/10.JPG)
-    ![Files copied](/images/RC24_Patcher/11.PNG)
+![It's patching!](/images/RC24_Patcher/9.JPG)
+13. After it's done, we would appreciate if you take a minute to send anonymous feedback to us.  If you don't want to, close the patcher. All the files should already be on your SD Card.
+![It's done!](/images/RC24_Patcher/10.JPG)
+![Files copied](/images/RC24_Patcher/11.PNG)
 14. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to `RiiConnect24Patcher.bat` to your SD Card or USB Device.
 
 ##### Section II - Installing WADs
@@ -129,16 +119,14 @@ If you were unable to patch your nwc24msg.cfg correctly, please join [the RiiCon
 1. Return to the Wii U Menu, then go right back to Wii Mode.
 
 #### What's currently working?
-
 The following RiiConnect24 services are **working** on the vWii:
-
-- Forecast Channel
-- News Channel
-- Everybody Votes Channel
-- Nintendo Channel
-- Check Mii Out Channel / Mii Contest Channel
-- Wii Mail (requires Priiloader's `Create message via Calendar button` hack)
-  {: .notice--success}
+* Forecast Channel 
+* News Channel
+* Everybody Votes Channel
+* Nintendo Channel
+* Check Mii Out Channel / Mii Contest Channel
+* Wii Mail (requires Priiloader's `Create message via Calendar button` hack)
+{: .notice--success}
 
 Most services that utilize WiiConnect24 will be able to work if you leave vWii running for several hours. There's no standby mode on the console.
 {: .notice--warning}
