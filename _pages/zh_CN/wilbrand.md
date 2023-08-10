@@ -20,6 +20,9 @@ Wilbrand，就像 LetterBomb 一样，是一种通过 Wii 留言板触发的 Wii
 - [Wilbrand](https://static.wiidatabase.de/Wilbrand.zip)
 - [HackMii Installer v1.2](https://bootmii.org/download/)
 
+SD cards larger than 2GB will not work on Wii menu versions before 4.0.
+{: .notice--warning}
+
 #### 步骤
 
 1.  转到您 Wii 上的 `Wii 设置`，并记下右上角的版本。 继续前往 `Internet` -> `主机信息`，并记下您的 MAC 地址。
