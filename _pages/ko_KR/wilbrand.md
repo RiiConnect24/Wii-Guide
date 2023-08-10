@@ -20,6 +20,9 @@ LetterBomb과 달리 Wilbrand는 Wii 메뉴 버전 3.0까지 지원합니다.
 - [Wilbrand](https://static.wiidatabase.de/Wilbrand.zip)
 - [HackMii 설치 프로그램 v1.2](https://bootmii.org/download/)
 
+SD cards larger than 2GB will not work on Wii menu versions before 4.0.
+{: .notice--warning}
+
 #### 사용 방법
 
 1.  Wii에서 `Wii 설정`으로 이동하여 오른쪽 상단에 있는 버전을 기록합니다. `인터넷` -> `콘솔 정보`로 이동하여 MAC 주소를 기록합니다.
