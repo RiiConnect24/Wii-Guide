@@ -22,9 +22,9 @@ Ejecutar homebrew en la Nintendo Wii puede hacerse de forma gratuita, aprovechan
 
 Hay muchas cosas que puedes hacer con homebrew. A continuación se enlistan algunos de los usos más populares:
 
-- Parchear contenido de juegos físicos (permitiéndote así cargar modificaciones personalizadas) usando [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
-- Instalar temas a tu Menú de Wii usando [MyMenuify](themes).
-- Instalar un USB Loader como [WiiFlow](wiiflow) o [USB Loader GX](usbloadergx) para ejecutar tus títulos favoritos desde un dispositivo USB y más.
+- Parchear contenido de juegos físicos para cargar modificaciones personalizadas, usando [Riivolution](http://www.wiibrew.org/wiki/Riivolution).
+- Cambiar el aspecto del menú de Wii, usando [MyMenuify](themes).
+- Cargar copias de juegos físicos desde una tarjeta SD o unidad USB, con [USB Loader GX](usbloadergx) o [WiiFlow](wiiflow).
 - Haga una copia de seguridad de sus discos con [CleanRip](/dump-games) y juegos instalados y títulos con [YABDM](dump-wads)
 - Respaldar y restaurar tus datos de guardado con [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
 - Descargar nueva aplicaciones de Homebrew con el [Homebrew Browser](hbb)
