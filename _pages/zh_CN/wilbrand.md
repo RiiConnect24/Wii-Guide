@@ -20,7 +20,7 @@ Wilbrand，就像 LetterBomb 一样，是一种通过 Wii 留言板触发的 Wii
 - [Wilbrand](https://static.wiidatabase.de/Wilbrand.zip)
 - [HackMii Installer v1.2](https://bootmii.org/download/)
 
-SD cards larger than 2GB will not work on Wii menu versions before 4.0.
+无法在 4.0 之前的 Wii 菜单版本中使用大于 2GB 的 SD 卡。
 {: .notice--warning}
 
 #### 步骤
