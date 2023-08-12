@@ -66,9 +66,7 @@ This is a quick start guide on how to use Modmii on your Windows PC.
 | AU = Auto-Updating downloads will skip update check if cached             | Will skip downloading the files if already in the queue.                                                         |
 | FWD = Install USB-Loader Forwarder in ModMii Wizard Guides                | Will include the USB loader forwarder wad file in the USB loader wizard guides.                                  |
 | PC = PC Programs Save Location                | Changes the save location for the downloadable PC programs.                                                      |
-| RS = Root Save: Save IOSs\MIOSs to Root instead of WAD Folder
-  * Does NOT affect ModMii Wizard and only applies to IOSs\MIOSs
-  * Useful for Wii Apps that require IOSs\MIOSs saved to Root               | Saves IOSs\MIOSs to Root instead of WAD Folder.                                                                  |
+| RS = Root Save: Save IOSs\MIOSs to Root instead of WAD Folder               | Saves IOSs\MIOSs to Root instead of WAD Folder.                                                                  |
 | 1 = Do not Keep 00000001 or NUS Folders for IOSs\MIOSs\SMs etc
   * Folder sometimes required for offline usage of a few Wii Apps           | Deletes the folder used for compiling the wad file and just gives you the wad file.                              |
 | n2o = neek2o - build mod of s\uneek instead of original                   | Uses a better modified version of neek2o in the EmuNAND builder.                                                 |
