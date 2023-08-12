@@ -61,9 +61,7 @@ This is a quick start guide on how to use Modmii on your Windows PC.
 | d2x = change d2x cIOS version built:                                      | Changes the cios version Modmii downloads.                                                                       |
 | H = Hermes cIOSs (202 & 222-224) will also be recommended                 | Enables Hermes IOS to be recommended and downloaded in the syscheck updater (will be stubbed if disabled).       |
 | CM = cMIOS included in recommended cIOSs                                  | Enables cMIOS to be recommended and downloaded in the syscheck updater (will install stock MIOS if disabled).    |
-| E = Extra Brick Protection in ModMii Wizard Guides
-  * When enabled, a patched IOS60 will be installed to other system menu 
-  IOS slots to prevent bricks from users manually up\downgrading Wii's      | Enables Modmiis Extra Brick Protection IOSes to be recommended and used in the syscheck updater tool.            |
+| E = Extra Brick Protection in ModMii Wizard Guides  | Enables Modmiis Extra Brick Protection IOSes to be recommended and used in the syscheck updater tool.            |
 | U = Update IOSs. Wizard/SysCheck-Updater to update Active IOSs            | Updates Existing IOSes to the latest version available on NUS.                                                   |
 | AU = Auto-Updating downloads will skip update check if cached             | Will skip downloading the files if already in the queue.                                                         |
 | FWD = Install USB-Loader Forwarder in ModMii Wizard Guides                | Will include the USB loader forwarder wad file in the USB loader wizard guides.                                  |
