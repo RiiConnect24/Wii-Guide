@@ -65,9 +65,7 @@ This is a quick start guide on how to use Modmii on your Windows PC.
 | U = Update IOSs. Wizard/SysCheck-Updater to update Active IOSs            | Updates Existing IOSes to the latest version available on NUS.                                                   |
 | AU = Auto-Updating downloads will skip update check if cached             | Will skip downloading the files if already in the queue.                                                         |
 | FWD = Install USB-Loader Forwarder in ModMii Wizard Guides                | Will include the USB loader forwarder wad file in the USB loader wizard guides.                                  |
-| PC = PC Programs Save Location:
-  * PC programs saved to C: with shortcuts if running ModMii from C:
-  * PC programs saved portably if not running ModMii from C:                | Changes the save location for the downloadable PC programs.                                                      |
+| PC = PC Programs Save Location                | Changes the save location for the downloadable PC programs.                                                      |
 | RS = Root Save: Save IOSs\MIOSs to Root instead of WAD Folder
   * Does NOT affect ModMii Wizard and only applies to IOSs\MIOSs
   * Useful for Wii Apps that require IOSs\MIOSs saved to Root               | Saves IOSs\MIOSs to Root instead of WAD Folder.                                                                  |
