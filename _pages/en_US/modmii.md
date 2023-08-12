@@ -8,10 +8,11 @@ If you need help for anything regarding this tutorial, please join [the Modmii D
 {: .notice--info}
 
 This Program does NOT come with a warranty, so you are responsible for any potential damage done to your Wii.
-{: .notice--info}
+{: .notice--warning}
 
 This program is NOT intended to be used for the vWii or the Wii Mini. Some tools may or may not work for these platforms.
-{: .notice--info}
+{: .notice--warning}
+
 
 This is a quick start guide on how to use Modmii on your Windows PC.
 
