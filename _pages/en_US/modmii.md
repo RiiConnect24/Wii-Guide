@@ -67,8 +67,7 @@ This is a quick start guide on how to use Modmii on your Windows PC.
 | FWD = Install USB-Loader Forwarder in ModMii Wizard Guides                | Will include the USB loader forwarder wad file in the USB loader wizard guides.                                  |
 | PC = PC Programs Save Location                | Changes the save location for the downloadable PC programs.                                                      |
 | RS = Root Save: Save IOSs\MIOSs to Root instead of WAD Folder               | Saves IOSs\MIOSs to Root instead of WAD Folder.                                                                  |
-| 1 = Do not Keep 00000001 or NUS Folders for IOSs\MIOSs\SMs etc
-  * Folder sometimes required for offline usage of a few Wii Apps           | Deletes the folder used for compiling the wad file and just gives you the wad file.                              |
+| 1 = Do not Keep 00000001 or NUS Folders for IOSs\MIOSs\SMs etc           | Deletes the folder used for compiling the wad file and just gives you the wad file.                              |
 | n2o = neek2o - build mod of s\uneek instead of original                   | Uses a better modified version of neek2o in the EmuNAND builder.                                                 |
 | SSD = SNEEK and SNEEK+DI SD Access                                        | Allows for SNEEK and SNEEK+DI access on the SD card.                                                             |
 | F = Font.bin Colour for SNEEK/UNEEK                                       | Changes the font color for neek2o.                                                                               |
