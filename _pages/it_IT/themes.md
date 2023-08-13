@@ -40,7 +40,9 @@ We recommend you [install cIOS](cios) before continuing.
 Below are some links to themes.
 
 * [RiiConnect24 Themes Page](https://rc24.xyz/goodies/themes/)
+* [GBAtemp Download](https://gbatemp.net/download/categories/other-files.166/)
 * [Google Drive Repository](https://drive.google.com/drive/folders/1K1WQe36bGibsF4ZlAxZKU6ngNpjUnh5i)
+* [Wii Themer](http://www.wiithemer.org/)
 * [Wii Theme Team Creations v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
 MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
