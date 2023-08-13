@@ -35,7 +35,9 @@ title: "在 vWii 上安装 Wii 菜单主题"
 以下是一些主题的链接。
 
 * [RiiConnect24 主题页面](https://rc24.xyz/goodies/themes/)
-* [Google Drive 仓库](https://drive.google.com/drive/folders/19tyeVQ--bJ0ZUTNg5yvAGvc3G4-euEpm?usp=sharing)
+* [GBAtemp Download](https://gbatemp.net/download/categories/other-files.166/)
+* [Google Drive Repository](https://drive.google.com/drive/folders/1K1WQe36bGibsF4ZlAxZKU6ngNpjUnh5i)
+* [Wii Themer](http://www.wiithemer.org/)
 * [Wii Theme Team Creations v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
 只在 vWii 上测试过来自 RiiConnect24 主题页面的主题。 其它来源的主题可能不与 vWii 完全兼容，请自行承担使用风险。
