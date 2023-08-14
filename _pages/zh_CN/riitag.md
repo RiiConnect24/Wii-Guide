@@ -49,7 +49,7 @@ RiiTag 是一个可定制和动态的游戏标签。 通过分享您的游戏标
 ###### WiiFlow
 
 1. 将存放有 WiiFlow 数据的 SD 卡或 U 盘连接到您的电脑上。
-2. 用文本编辑器打开 `/apps/wiiflow/wiiflow.ini`。 （如果您使用的是 WiiFlow Lite，则路径应该是 `wiiflow_lite` 而不是 `wiiflow`。）
+2. Open `/apps/wiiflow/wiiflow.ini` with a text editor.
 3. 搜索 `gamercards` 并将该行替换为 `gamercards=wiinnertag`。
 4. 搜索 `wiinnertag_url` 并将该行替换为 `wiinnertag_url=https://tag.rc24.xyz/wii?game={ID6}&key={KEY}`。
 5. 搜索 `wiinnertag_key` 并将该行替换为 `wiinnertag_key=<key>`，将 `<key>` 替换为您在第一部分中记录的密钥。
