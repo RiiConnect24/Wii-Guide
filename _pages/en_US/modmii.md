@@ -26,7 +26,8 @@ Modmii is a PC program for windows created by XFlak that has various helpful too
 * A Windows PC (a Virtual Machine will work)
 * [Modmii](https://modmii.github.io/)  
 
- Modmii is a PC program for windows created by XFlak that has various helpful tools for modding, including some tutorials that may not be currently available here on the wii.guide website. You can choose to launch in Modmii skin, which has a more user friendly approach, or launch in Modmii Classic, which interacts like a PC terminal or command promt. Some advanced options may not be accessible in Modmii Skin. A list of the various activities for Modmii Classic can be found below.
+ This is a quick start guide on how to use Modmii on your Windows PC.
+
 
 <details id="Modmii-Tools" class="notice--info" markdown="1">
 <summary><a>Click here for a full list of available tools.</a></summary>
