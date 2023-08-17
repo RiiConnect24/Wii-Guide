@@ -5,12 +5,12 @@ title: "Preguntas frecuentes"
 ![Logotipo de RiiConnect24 amarillo](/images/Wii_Yellow_Gray.jpg)
 
 ### ¿Qué tan arriesgado es modificar mi consola?
-Bricks (a state where either some parts of your Wii software are not working, or your Wii is not working at all) are extremely rare unless you ignore/circumvent all safety checks, or do something risky or naive like installing an older version of the Wii Menu. Make sure you install [BootMii](bootmii) and [Priiloader](priiloader) to protect yourself from bricks!
+El riesgo de que tu Wii sufra un brick (estado en el cual el software de la consola no puede arrancar debido a un error) es muy bajo, siempre y cuando sigas las instrucciones con atención y evites hacer cosas arriesgadas con tu consola, como instalar una versión anterior del menú de Wii. ¡Asegúrate de instalar [BootMii](bootmii) y [Priiloader](priiloader) para proteger tu consola de un posible brick!
 
 ### ¿En dónde puedo pedir asistencia?
-You can join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net) for assistance.
+Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado), o envíanos un [correo electrónico](mailto:support@riiconnect24.net). Soporte disponible solo en inglés.
 
-### ¿Cuáles son los requerimientos y/o recomendaciones para la tarjeta SD?
+### ¿Cuál es la capacidad recomendada para la tarjeta SD?
 Necesitarás una tarjeta SD de al menos 128 MB para ejecutar un exploit.
 
 - If you are using the BlueBomb, str2hax, or FlashHax exploits, you do not need an SD card.
