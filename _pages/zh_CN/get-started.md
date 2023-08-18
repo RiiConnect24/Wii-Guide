@@ -32,7 +32,7 @@ title: "开始"
     * 需要一张 SD 卡
     * 版本必须为 4.3
 - [Wilbrand](wilbrand) - 也是利用 Wii 留言板的漏洞
-    * 需要一张 SD 卡和一台 PC
+    * Requires only an SD card with the Web UI, otherwise requires a PC in addition to the SD card
     * 适用于版本 3.0 - 4.3
 - [FlashHax](flashhax) - 利用 Internet Channel 的漏洞
     * 需要安装 Internet Channel 以及互联网连接
