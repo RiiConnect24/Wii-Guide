@@ -9,15 +9,11 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 LetterBomb is an exploit for the Wii that is triggered using the Wii Message Board.
 
-[please.hackmii.com](https://please.hackmii.com/) is currently down. [letterbomb.techchrism.me](https://letterbomb.techchrism.me/) must be used at the moment.
-{: .notice--info}
-
 #### What you need
 - An SD card formatted to FAT32/MS-DOS
 - A Wii on System Menu version 4.3
 
 #### Instructions
-
 
 1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
 1. Visit [the LetterBomb page](https://letterbomb.techchrism.me/), input your Wii MAC and region, ensure `Bundle HackMii Installer` is checked, and click `Download ZIP`.
