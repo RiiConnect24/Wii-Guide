@@ -10,6 +10,7 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 Wilbrand, like LetterBomb, is an exploit for the Wii that is triggered using the Wii Message Board.
 
 Unlike LetterBomb, Wilbrand supports Wii menu versions down to 3.0.
+{: .notice--info}
 
 There are two methods listed on this page used to create the proper Wilbrand exploit.
 Wilbrand Web is recommended for its ease of use.
@@ -41,12 +42,12 @@ SD cards larger than 2GB will not work on Wii menu versions before 4.0.
     - If you don't see the green letter, check if any errors appear in the SD card sections in `Data Management`. If any do, there may be an issue with the SD card format or the Wii's SD card reader.
       ![Wilbrand in its natural habitat](/images/wilbrand/msgboard.png)
 
-If this didn't work for you, try another exploit or try Wilbrand.
+If this didn't work for you, [try another exploit](get-started) or try [Wilbrand CLI](#wilbrand-cli).
 
 [Continue to Homebrew Channel and BootMii Installation](hbc)
 {: .notice--info}
 
-### Wilbrand
+### Wilbrand CLI
 
 #### What you need
 
