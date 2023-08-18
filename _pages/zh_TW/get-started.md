@@ -32,7 +32,7 @@ If your Wii Menu is not on version 4.3, use str2hax, Wilbrand or FlashHax to ins
     * 需要 SD 卡
     * Must be on version 4.3
 - [LetterBomb](wilbrand) - 同樣為利用 Wii 留言板的漏洞
-    * Requires an SD card and a PC
+    * Requires only an SD card with the Web UI, otherwise requires a PC in addition to the SD card
     * Works on versions 3.0 - 4.3
 - [FlashHax](flashhax) - Exploit that uses the Internet Channel
     * Requires the Internet Channel installed, and an Internet connection
