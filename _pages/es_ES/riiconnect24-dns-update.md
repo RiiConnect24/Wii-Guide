@@ -1,30 +1,30 @@
 ---
-title: "RiiConnect24 DNS Update"
+title: "Actualización del DNS de RiiConnect24"
 ---
 
-If you need help with anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado), o envíanos un [correo electrónico](mailto:support@riiconnect24.net). Soporte disponible solo en inglés.
 {: .notice--info}
 
-![RiiConnect24 Logo](/images/logo_blue_warning.png)
+![Logotipo de RiiConnect24](/images/logo_blue_warning.png)
 
-Our official DNS Address has been updated. We require all users to change it. Failure in doing so will result in losing access to most or every RiiConnect24 service.
+La direccion de nuestro servidor DNS ha sido actualizada. Se requiere que todos los usuarios de RiiConnect24 actualicen su configuración DNS. De no hacerlo, perderás acceso a la mayoría de los servicios de RiiConnect24.
 
-Our old DNS Server has been deprecated as of `June 1st, 2023` and is no longer available to use.
+Nuestro servidor DNS antiguo (`164.132.44.106`) ha sido descontinuado a partir del `1 de junio de 2023` y ya no puede ser utilizado.
 {: .notice--warning}
 
-RiiConnect24 functionality will be limited until you update the DNS setting on your Wii.
+La funcionalidad de RiiConnect24 será limitada hasta que actualices la configuración DNS de tu consola.
 
-To update your entered DNS Address please follow these steps:
+Para actualizar la dirección DNS, sigue los siguientes pasos:
 
 1. Selecciona `Opciones de Wii` en el menú de Wii.
-2. Selecciona `Configuración de Wii`.
+2. Elige `Configuración de Wii`.
 3. Pasa a la segunda página y después selecciona `Internet`.
-4. Go to `Connection Settings`
-5. Select your current connection
-6. Go to `Change Settings`
-7. Pasa hasta la cuarta página, donde está la opción `Obtener DNS automáticamente` (no es en Obtener drección IP automáticamente), elige `No` y después selecciona `Configuración avanzada`.
-8. Type in `167.86.108.126` as the primary DNS
-9. Type in `1.1.1.1` as the secondary DNS
-10. Select `Confirm`, then select `Save`
+4. Ingresa a `Ajustes de conexión`.
+5. Selecciona tu conexión actual.
+6. Elige `Modificar`.
+7. Pasa hasta la cuarta página, donde está la opción `Obtener DNS automáticamente` (no es en `Obtener dirección IP automáticamente`), elige `No` y después selecciona `Configuración avanzada`.
+8. Ingresa `167.86.108.126` en `DNS primario`.
+9. Escribe `1.1.1.1` en `DNS secundario<code>.</li>
+<li>Selecciona <code>Confirmar` y finalmente `Guardar`.
 11. Select `OK` to perform a connection
 12. Si la prueba de conexión ha sido exitosa, elige `No` para saltar la actualización de la consola Wii.
