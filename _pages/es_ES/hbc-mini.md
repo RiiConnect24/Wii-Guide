@@ -1,10 +1,10 @@
 ---
-title: "Instalar Canal Homebrew para Wii Mini"
+title: "Instalar el Canal Homebrew (para Wii mini)"
 ---
 
 {% include toc title="Tabla de contenido" %}
 
-Si necesitas ayuda para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado) o [envíanos un correo electrónico a support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado), o envíanos un [correo electrónico](mailto:support@riiconnect24.net). Soporte disponible solo en inglés.
 {: .notice--info}
 
 ![Logotipo del Canal Homebrew](/images/hbc.png)
