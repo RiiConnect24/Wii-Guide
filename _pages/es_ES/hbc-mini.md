@@ -9,20 +9,20 @@ Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayud
 
 ![Logotipo del Canal Homebrew](/images/hbc.png)
 
-El Canal Homebrew es desde donde iniciarás las aplicaciones homebrew.
+El Canal Homebrew te permite utilizar las aplicaciones homebrew que descargues.
 
 #### Instrucciones
-Esta guía es **sólo** para usuarios de Wii Mini. Si tienes un Wii original, por favor sigue [esta guía](hbc).
+Esta guía es **solo** para usuarios de Wii mini. Si tienes una Wii original, por favor sigue [esta guía](hbc).
 {: .notice--info}
 
-While it is possible to install BootMii on a Wii mini, you will need to solder an SD card slot. That requires opening up your Wii mini and using special tools, so it is not recommended.
+También es posible instalar BootMii en la Wii mini, aunque necesitarás soldar una ranura para tarjetas SD. Esto requiere desarmar tu consola y usar equipo especial, por lo que no es recomendable.
 {: .notice--info}
 
-1. Verás una pantalla de advertencia contra estafa. Espera 30 segundos hasta que aparezca el texto "Press 1 to continue", y después oprime el botón 1. ![Pantalla de advertencia contra estafa](/images/hackmii/scam.png)
+1. Deberías ver una pantalla de advertencia contra estafa. Espera 30 segundos hasta que aparezca el texto `Press 1 to continue`, y después oprime el botón 1. ![Pantalla de advertencia contra estafa](/images/hackmii/scam.png)
 
-1. Press `Continue`, then select `Install The Homebrew Channel`. ![Homebrew Channel installation](/images/hackmii/hbc_install.png) ![Homebrew Channel installation OK](/images/hackmii/hbc_install_ok.png)
-1. Press `Continue` when finished.
-1. Once done, select `Exit` to exit the HackMii installer.
+1. Selecciona `Continue`, después dirígete a `Install The Homebrew Channel`. ![Canal Homebrew instalado exitosamente](/images/hackmii/hbc_install.png) ![Menú principal de HackMii Installer](/images/hackmii/hbc_install_ok.png)
+1. Elige `Continue` cuando el proceso haya finalizado.
+1. Finalmente, selecciona `Exit` para salir de HackMii Installer.
 
-[Continue to installing Priiloader](priiloader) <br> Priiloader offers protection from bricks, and is highly recommended to install.
+[Continuar a la instalación de Priiloader](priiloader)<br> Priiloader ofrece protección contra bricks, por lo que se recomienda su instalación.
 {: .notice--info}
