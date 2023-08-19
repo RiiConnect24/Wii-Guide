@@ -47,16 +47,16 @@ Reemplaza el nombre con el título que quieras poner a la fuente. Asegúrate de 
 
 Guarda los cambios que hayas hecho al archivo.
 3. Inicia RSSMii desde el Canal Homebrew.
-4. Oprime A para confirmar tu suscripción a las fuentes. Ignora el error que dice `ES_GetTitleID`, todo está bien.
-5. Una vez que el proceso haya terminado, oprime el botón HOME para volver al Canal Homebrew. ¡Pronto deberías comenzar a recibir actualizaciones RSS en tu tablón de Wii!
+4. Oprime A para confirmar tu suscripción a las fuentes. Ignora el error que dice `ES_GetTitleID`.
+5. Cuando el proceso haya finalizado, oprime HOME para volver al Canal Homebrew. ¡Pronto deberías comenzar a recibir actualizaciones RSS en tu tablón de Wii!
 
-¿No has recibido actualizaciones de ninguna fuente? Intenta suscribirte a una fuente que se actualice más a menudo, como por ejemplo, una fuente RSS de noticias. Si la fuente no se actualiza periódicamente, entonces no recibirás muchas actualizaciones.
+Si no has recibido actualizaciones de ninguna fuente después de un rato, intenta suscribirte a una que se actualice más a menudo, como por ejemplo, una fuente de noticias. Si la fuente no se actualiza periódicamente, entonces no recibirás muchas actualizaciones.
 {: .notice--warning}
 
-Te recomendamos que sólo te suscribas a unas pocas fuentes, ya que si te suscribes a muchas, podrías recibir demasiados mensajes en el tablón de Wii.
+Te recomendamos no suscribirte a demasiadas fuentes, ya que podrías recibir muchos mensajes en el tablón de Wii.
 {: .notice--info}
 
-Si no empiezas a recibir actualizaciones al cabo de unos días, entonces tal vez tengas que volver a suscribirte a las fuentes RSS. Para hacer esto sólo tienes que volver a ejecutar RSSMii y la aplicación se encargará de crear nuevas suscripciones.
+En caso de no comenzar a recibir actualizaciones al cabo de unos días, intenta volver a suscribirte a las fuentes RSS. Para ello, solo debes ejecutar RSSMii nuevamente desde el Canal Homebrew.
 {: .notice--info}
 
 [Desinstalar RSSMii](rssmii-remove)
