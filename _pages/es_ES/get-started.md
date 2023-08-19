@@ -1,10 +1,10 @@
 ---
-title: "Prepárate"
+title: "Primeros pasos"
 ---
 
-{% include toc title="Tabla de contenidos" %}
+{% include toc title="Tabla de contenido" %}
 
-Si necesitas ayuda para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado) o [envíanos un correo electrónico a support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado), o envíanos un [correo electrónico](mailto:support@riiconnect24.net). Soporte disponible solo en inglés.
 {: .notice--info}
 
 Even if your Wii has already been softmodded in the past, following these steps can still ensure that your softmod is up to date.
