@@ -26,5 +26,5 @@ Para actualizar la dirección DNS, sigue los siguientes pasos:
 8. Ingresa `167.86.108.126` en `DNS primario`.
 9. Escribe `1.1.1.1` en `DNS secundario<code>.</li>
 <li>Selecciona <code>Confirmar` y finalmente `Guardar`.
-11. Select `OK` to perform a connection
-12. Si la prueba de conexión ha sido exitosa, elige `No` para saltar la actualización de la consola Wii.
+11. Elige `Aceptar` para realizar una prueba de conexión.
+12. Si la prueba de conexión ha sido exitosa, selecciona `No` para saltar la actualización de la consola Wii.
