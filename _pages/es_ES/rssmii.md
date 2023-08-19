@@ -4,10 +4,10 @@ title: "Instalar RSSMii"
 
 {% include toc title="Tabla de contenido" %}
 
-Si necesitas ayuda con cualquier cosa en este tutorial, por favor entras [el servidor Discord de RiiConnect24](https://discord.gg/rc24) (recomendado) o [envias un correo electronico a support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado), o envíanos un [correo electrónico](mailto:support@riiconnect24.net). Soporte disponible solo en inglés.
 {: .notice--info}
 
-¿Te gustaría recibir actualizaciones RSS en tu tablón de Wii? En esta guía te explicaremos cómo instalar RSSMii.
+Con esta guía aprenderás a instalar RSSMii, una herramienta que te permite recibir actualizaciones de fuentes RSS en el tablón de Wii.
 
 ![RSSMii](/images/rssmii.png)
 
@@ -19,8 +19,8 @@ Si necesitas ayuda con cualquier cosa en este tutorial, por favor entras [el ser
 #### Instrucciones
 ##### Sección I - Descarga/instalación
 
-1. Extrae RSSMii a la carpeta `apps` en tu tarjeta SD o unidad USB.
-2. Ahora necesitas crear un archivo llamado `feeds.xml` en la raíz de la tarjeta SD, para que de esta forma RSSMii pueda saber a qué fuentes quieres suscribirte.
+1. Extrae el archivo de RSSMii a la carpeta `apps` en tu tarjeta SD.
+2. Crea un archivo llamado `feeds.xml` en la raíz de la tarjeta SD, para que de esta forma RSSMii pueda saber a qué fuentes deseas suscribirte.
 
 Si usas el Sistema Operativo Windows, puedes usar el [RSS Feeds Creator](https://github.com/RiiConnect24/rssmii/releases/download/v1.4.1/RSSFeedsCreator.bat), programa creado por KcrPL. El programa se encargará de crear el archivo `feeds.xml` y de copiarlo a tu tarjeta SD automáticamente
 {: .notice--info}
