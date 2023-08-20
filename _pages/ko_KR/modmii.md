@@ -13,11 +13,11 @@ This Program does NOT come with a warranty, so you are responsible for any poten
 This program is NOT intended to be used for the vWii or the Wii Mini. Some tools may or may not work for these platforms.
 {: .notice--warning}
 
-
-Modmii is a PC program for windows created by XFlak that has various helpful tools for modding, including some tutorials that may not be currently available here on the wii.guide website. You can choose to launch in Modmii skin, which has a more user friendly approach, or launch in Modmii Classic, which interacts like a PC terminal or command prompt. Some advanced options may not be accessible in Modmii Skin. A list of the various activities for Modmii Classic can be found below.
-
-
 ![Modmii](/images/Modmii/modmii.png)
+
+Modmii is a PC program for windows created by XFlak that has various helpful tools for modding, including some tutorials that may not be currently available here on the [wii.guide](site-navigation) website. You can choose to launch in Modmii skin, which has a more user friendly approach, or launch in Modmii Classic, which interacts like a PC terminal or command prompt.
+
+Some advanced options may not be accessible in Modmii Skin. A list of the various activities for Modmii Classic can be found below.
 
 #### 필요한 것
 
