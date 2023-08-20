@@ -49,7 +49,7 @@ To protect against bricks, [make sure you install Priiloader](priiloader). Also,
 
 ##### Sección II - Instalación
 
-En esta aplicación usarás la cruz de control para desplazarte por las opciones.
+En esta aplicación usarás el botón cruz para desplazarte por las opciones.
 {: .notice--info}
 
 1. Put your SD card or USB drive in your Wii.
