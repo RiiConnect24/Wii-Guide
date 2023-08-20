@@ -26,7 +26,7 @@ Do NOT make a shortcut for the games "Mario Party 9" or "A Boy and His Blob". It
 #### Anleitung
 
 1. Install WiiGSC, then right click on it and choose **Run as administrator**. If you do not do this, WiiGSC will throw an error when you open it.
-2. Select the path to the ISO or WBFS file on your USB drive, and select the USB Loader you use. The other options should be fine the way thy are.
+2. Select the path to the ISO or WBFS file on your USB drive, and select the USB Loader you use. The other options should be fine the way they are.
 3. If you're using USB Loader GX, make sure to use [this version](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip).
 4. Install the generated WAD with a WAD Manager, we recommend Wii Mod Lite.
 
