@@ -18,7 +18,7 @@ title: "Copiar juegos de Wii/GameCube"
 
 #### Instrucciones
 
-##### Sección I - Descarga/instalación
+##### Sección I - Descarga
 
 1. Extrae CleanRip a la carpeta `apps` en tu tarjeta SD o unidad USB.
 1. Inserta la tarjeta SD o unidad USB en tu Wii e inicia CleanRip desde el Canal Homebrew.
@@ -48,7 +48,7 @@ Your Wii and your computer must be connected to one local network.
 
 #### Instrucciones
 
-##### Sección I - Descarga/instalación
+##### Sección I - Descarga
 
 1. Extrae DVD Dump Tool a la carpeta `apps` en tu tarjeta SD o unidad USB.
 1. Inserta la tarjeta SD o unidad USB en tu Wii e inicia DVD Dump Tool desde el Canal Homebrew.
@@ -94,6 +94,8 @@ To organize the games on your drive properly, you'll need to use [Wii Backup Man
 <script>
     let tabcontent = document.getElementsByClassName("blanktabcontent");
     let tablinks = document.getElementsByClassName("tablinks");
+
+    for (e of tabcontent) element.style.display = "none";
 
     function openTab(evt, tabName) {
         let element;
