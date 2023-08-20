@@ -45,7 +45,7 @@ title: "Wiimmfi"
 1. 滚动到 `System Menu`，按 A 启动它。
 1. 通过光盘频道启动您的游戏。 它应该已用 Wiimmfi 修补。
 
-如果您看到的是 `Wiimmfi patch v2` 或 `Wiimmfi patch v3`，那么您没有最新版本的 hacks_hash.ini 文件。<br> 从[这里](https://github.com/DacoTaco/priiloader/blob/master/src/priiloader/hacks_hash.ini)下载它并将其放在 SD 卡或 U 盘的 `/apps/priiloader/hacks_hash.ini` 路径下。<br> 然后，重复之前的步骤。
+If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file, and you need to [re-install Priiloader](priiloader). Then, repeat the previous steps.
 {: .notice--warning}
 
 ### 自制（光盘）应用程序
@@ -200,7 +200,7 @@ Wiimmfi 不仅支持 Wii 游戏，还支持许多 DS 游戏。 通过名为 nds-
 4. 将次要DNS设置为 `1.1.1.1`。
 5. 保存您的连接设置并执行连接测试。 如果连接测试成功，您就可以开始游戏了。
 
-如果您遇到错误 20110，那意味着您的互联网服务提供商（ISP）或网络正在阻止使用某个 DNS。 您可以将 `Auto-Obtain DNS` 设置为 `On` 来解决此问题。 即使没有这个设置，RiiConnect24 仍然可以正常工作。 或者，您可以使用我们的 [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) 程序。
+如果您遇到错误 20110，那意味着您的互联网服务提供商（ISP）或网络正在阻止使用某个 DNS。 You can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program to bypass this.
 {: .notice--warning}
 
 如果您使用此 DNS 就无法使用 Sudomemo，该服务可在 DSi 上恢复 Flipnote Studio。 如果您想使用 Sudomemo 而不是在 Wiimmfi 上玩游戏，您需要在 DSi 或 3DS 的 Wi-Fi 设置中将主要 DNS 设置为 `104.248.0.110`，而不是在 DS 的 Wi-Fi 设置中。 或者，您还可以使用他们的 [DNS-Server](https://github.com/Sudomemo/sudomemoDNS) 程序。
