@@ -95,6 +95,8 @@ title: "导出 Wii/GameCube 游戏"
     let tabcontent = document.getElementsByClassName("blanktabcontent");
     let tablinks = document.getElementsByClassName("tablinks");
 
+    for (e of tabcontent) element.style.display = "none";
+
     function openTab(evt, tabName) {
         let element;
 

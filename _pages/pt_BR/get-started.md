@@ -32,7 +32,7 @@ Esses exploits são ordenados pela dificuldade do mais fácil para o mais difíc
     * Requer um cartão SD
     * Deve estar na versão 4.3
 - [Wilbrand](wilbrand) - Exploit que também usa o Wii Message Board
-    * Requer um cartão SD e um PC
+    * Requires only an SD card with the Web UI, otherwise requires a PC in addition to the SD card
     * Funciona nas versões 3.0 - 4.3
 - [FlashHax](flashhax) - Exploit que usa o Internet Channel
     * Requer o Internet Channel instalado, e uma conexão com a internet

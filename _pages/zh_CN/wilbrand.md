@@ -12,6 +12,40 @@ Wilbrand，就像 LetterBomb 一样，是一种通过 Wii 留言板触发的 Wii
 与 LetterBomb 不同，Wilbrand 支持低至 3.0 的 Wii 菜单版本。
 {: .notice--info}
 
+本页列出了两种用于创建正确的 Wilbrand 漏洞的方法。 推荐使用 Wilbrand Web，因为它易用。
+{: .notice--info}
+
+### Wilbrand Web（推荐）
+
+#### 你需要的是
+
+- 格式化为 FAT32/MS-DOS 的 SD 卡
+- 版本至少为 3.0 的 Wii
+
+无法在 4.0 之前的 Wii 菜单版本中使用大于 2GB 的 SD 卡。
+{: .notice--warning}
+
+#### 步骤
+
+1.  转到您 Wii 上的 `Wii 设置`，并记下右上角的版本。 继续前往 `Internet` -> `主机信息`，并记下您的 MAC 地址。
+1.  请访问 [wilbrand.donut.eu.org](https://wilbrand.donut.eu.org/)，输入您的 Wii 的 MAC 、版本、区域，确保已勾选 `Bundle the HackMii Installer for me!` ，然后剪断其中一根电线。 ![Wilbrand Web](/images/wilbrand/web.png)
+1.  点击 "Download your .zip"。
+1.  将下载的 ZIP 的内容解压到您 SD 卡的根目录中。
+1.  取出 SD 卡并将其插入 Wii 中。
+    - 必须将 SD 卡插入 Wii 前面的 SD 卡槽中。 使用插入到 Wii USB 接口的 USB 读卡器是无效的。
+1.  在 Wii 上，回到 Wii 菜单，然后打开 Wii 留言板。
+1.  加载带炸弹兵图标的绿色信。
+    - 请确保 Wii 的日期正确，否则您可能找不到信。
+    - 邮件可能出现在前一天或后一天。
+    - 如果您没有看到绿色信，请检查 `数据管理` 中的 SD 卡部分是否有任何错误。 如果有任何问题，可能是由于 SD 卡格式或 Wii 的 SD 卡槽出现问题。 ![Wilbrand in its natural habitat](/images/wilbrand/msgboard.png)
+
+如果这对您不起作用，[尝试其它漏洞](get-started)或尝试 [Wilbrand CLI](#wilbrand-cli)。
+
+[继续到 安装 Homebrew Channel 和 BootMii](hbc)
+{: .notice--info}
+
+### Wilbrand CLI
+
 #### 你需要的是
 
 - 运行 Windows、MacOS 或 Linux 的 PC
@@ -19,6 +53,9 @@ Wilbrand，就像 LetterBomb 一样，是一种通过 Wii 留言板触发的 Wii
 - 版本至少为 3.0 的 Wii
 - [Wilbrand](https://static.wiidatabase.de/Wilbrand.zip)
 - [HackMii Installer v1.2](https://bootmii.org/download/)
+
+无法在 4.0 之前的 Wii 菜单版本中使用大于 2GB 的 SD 卡。
+{: .notice--warning}
 
 #### 步骤
 

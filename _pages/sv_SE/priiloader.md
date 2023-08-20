@@ -33,7 +33,7 @@ And some things to enhance your vWii experience:
 #### What you need
 
 - An SD card or USB drive
-- [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+- [Priiloader installer](https://github.com/DacoTaco/priiloader/releases/download/0.10.0-RC3/Priiloader_v0_10RC3.zip)
 - [LoadPriiloader](https://hbb1.oscwii.org/hbb/LoadPriiloader/LoadPriiloader.zip)
 
 #### Instructions
@@ -68,7 +68,7 @@ To enter it later on, simply run the "Load Priiloader" homebrew app. There are a
 If you have put the Priiloader installer on your USB drive, make sure you do not have an SD card inserted at the same time. <br> This causes Priiloader to fail to find the `hacks_hash.ini` file.
 {: .notice--warning}
 
-1. Press `A` on each hack you would like to enable. We reccommend that you enable "Block Disc Updates", "Block Online Updates", and "Region Free EVERYTHING". ![System menu hacks list](/images/Priiloader/system_menu_hacks.png)
+1. Press `A` on each hack you would like to enable. We recommend that you enable "Block Disc Updates", "Block Online Updates", and "Region Free EVERYTHING". ![System menu hacks list](/images/Priiloader/system_menu_hacks.png)
 1. Scroll down to `save settings` and press `A`.
 1. Press `B` to return to the main menu.
 
@@ -157,4 +157,3 @@ Please don't set Autoboot to `BootMii IOS`. You will get stuck in a loop until y
 1. Scroll down to `save settings` and press A. ![Saving settings](/images/Priiloader/settings_save.png)
 1. Press B to return to the main menu.
 1. Scroll back up to `System Menu` and press A.
-

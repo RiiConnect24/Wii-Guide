@@ -14,7 +14,6 @@ Kirby TV Channel 回来了！ <br> 如果您之前安装过，请按照说明进
 - 一张 SD卡 或 U盘
 - 一台有互联网连接的Wii
 - 一台 Windows、macOS 或 Linux 电脑
-- [WiiLink Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases)
 
 #### 步骤
 
@@ -23,28 +22,23 @@ Kirby TV Channel 回来了！ <br> 如果您之前安装过，请按照说明进
 [如果您想查看如何安装 WAD 的详细说明，请点击这里！](wiimodlite)
 {: .notice--info}
 
-1. 下载 `WiiLink_Patcher_<OS Platform>_v1.X.X`，其中 `<OS Platform>` 为 `Windows`、`macOS` 或 `Linux`，取决于您的操作系统。
-2. 将您的 SD 卡或 U 盘连接到电脑上。 确保 SD 卡或 U 盘的根目录上有一个名为 `apps` 文件夹，这样才能让 patcher 自动检测到您的 SD 卡或 U 盘。
-3. 要在 Windows 上打开 patcher，只需双击 `WiiLink_Patcher_Windows_v1.X.X.exe`。
-
-   在 macOS 和 Linux 上，您需要按照以下步骤操作：
-   - 首先，在终端中输入以下命令给予文件可执行权限<br>`chmod +x WiiLink_Patcher_<OS Platform>_v1.X.X`。 将<br>`<OS Platform>` 替换为 `macOS` 或 `Linux`，取决于您的操作系统。
-   - 然后，在同一个终端窗口中输入 `./WiiLink_Patcher_<OS Platform>_v1.X.X` 来运行 patcher。
-4. 如果成功检测到您的可移动存储设备，您应该会看到一条消息说 `SD Card detected` 。 如果没有，您需要手动选择 SD 卡或 U 盘的位置。
-5. 按 1 来选择主屏幕上的 `Start` ，开始 WiiLink 的快速安装设置。 <br> 或者，您可以按 2 开始自定义安装。
-6. 按照屏幕上的说明选择您想要的可用频道版本。
-7. 请稍等片刻，patcher 将下载文件到您的 SD 卡或 U 盘中。
-8. 完成后，您可以安全地关闭 patcher。 所有文件都已位于您的 SD 卡上。
-9. 如果它没有自动将所有文件复制到您的 SD 卡或 U 盘上，请将<br>`WiiLink_Patcher_<OS Platform>_v1.X.X` 旁边的 `WAD` 和 `apps` 文件夹复制到 SD 卡或 U 盘的根目录下。
-10. 将SD卡或U盘插入Wii。
-11. 启动 Wii 上的 Homebrew Channel。
-12. 启动Wii Mod Lite。
-13. 使用 Wii 遥控器上的方向键，移动到 `WAD Manager`，然后移动到 `wad` 文件夹。
-14. 如果您的 Wii 不是日本区域，请在进行其它任何操作之前安装 `WiiLink_SPD (Wii).wad` 或 `WiiLink_SPD (vWii).wad`（取决于主机平台）。 这是必需的，这样我们才能知道您的电子邮件地址以发送文件。
-15. 突出显示所有其它名字中带 `WiiLink` 的 WAD，然后按 + 选择它们。 当选中所有文件后，按两次 A 键来安装这些 WAD。
+1. 访问 [WiiLink Patcher 发布页面](https://github.com/WiiLink24/WiiLink24-Patcher/releases)并下载适合您操作系统的正确补丁程序。
+1. 在 Windows 上运行 `WiiLink_Patcher_Windows_v1.X.X.exe`。 <br> 在 MacOS 的 Finder 上右键 `WiiLink_Patcher_macOS_v1.X.X` 文件，然后点击打开。 <br> 在 Linux 上打开终端，输入 `bash`（包括空格），然后将文件拖到终端窗口中。 它应该像这样：`bash /path/to/WiiLink_Patcher_Linux-<arch>_v1.X.X`
+1. 按 `1` 选择 "`Start Express Install Setup`"。
+1. 按照屏幕上的说明选择您想要的可用频道版本。
+1. 在第 6 步中按 `1` 开始打补丁。
+1. 请稍等片刻，patcher（补丁程序）将下载文件到您的 SD 卡或 U 盘中。
+1. 完成后，您可以安全地关闭 patcher（补丁程序）。 所有文件都已位于您的 SD 卡上。
+1. 如果它没有自动将所有文件复制到您的 SD 卡或 U 盘上，请将<br>`WiiLink_Patcher_<OS Platform>_v1.X.X` 旁边的 `WAD` 和 `apps` 文件夹复制到 SD 卡或 U 盘的根目录下。
+1. 将SD卡或U盘插入Wii。
+1. 启动 Wii 上的 Homebrew Channel。
+1. 启动Wii Mod Lite。
+1. 使用 Wii 遥控器上的方向键，移动到 `WAD Manager`，然后移动到 `wad` 文件夹。
+1. 如果您的 Wii 不是日本区域，请在进行其它任何操作之前安装 `WiiLink_SPD (Wii).wad` 或 `WiiLink_SPD (vWii).wad`（取决于主机平台）。 这是必需的，这样我们才能知道您的电子邮件地址以发送文件。
+1. 突出显示所有其它名字中带 `WiiLink` 的 WAD，然后按 + 选择它们。 当选中所有文件后，按两次 A 键来安装这些 WAD。
     - 如果您之前安装过 RiiConnect24 版本的 Forecast Channel 和 Nintendo Channel，安装 WiiLink 的版本将覆盖它们。
 
-16. 安装成功后，按HOME按钮返回Homebrew Channel。
+1. 安装成功后，按HOME按钮返回Homebrew Channel。
 
 想要使用 WiiLink 的 Food Delivery Channel 订购达美乐比萨吗？<br>[按照此指南操作！](wiilink-demae-dominos)
 {: .notice--info}

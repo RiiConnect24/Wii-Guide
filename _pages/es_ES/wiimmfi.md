@@ -45,7 +45,7 @@ Si has usado una unidad USB para instalar Priiloader, asegúrate de que no tiene
 1. Pulsa abajo hasta llegar a `System Menu` y pulsa A para salir al menú de Wii.
 1. Inicia tu juego desde el Canal Disco. Ahora deberías poder acceder a Wiimmfi.
 
-Si el nombre del hack es `Wiimmfi Patch v2` o `Wiimmfi Patch v3`, significa que no tienes la última versión del archivo `hacks_hash.ini`.<br> Descárgalo desde [aquí](https://github.com/DacoTaco/priiloader/raw/master/priiloader/hacks_hash.ini) y colócalo en la carpeta `/apps/priiloader` en tu tarjeta SD o unidad USB, luego repite los pasos anteriores.
+Si el nombre del hack es `Wiimmfi Patch v2` o `Wiimmfi Patch v3`, significa que no tienes la última versión del archivo `hacks_hash.ini`.<br> Descárgalo desde [aquí](https://github.com/DacoTaco/priiloader/blob/master/src/priiloader/hacks_hash.ini) y colócalo en la carpeta <0>/apps/priiloader</0> en tu tarjeta SD o unidad USB, luego repite los pasos anteriores.
 {: .notice--warning}
 
 ### Aplicación homebrew para discos
@@ -77,7 +77,7 @@ Gracias a Fullmetal5 y su exploit str2hax, el cual Leseratte logro adaptar para 
 ##### Instrucciones
 
 1. Inserta tu disco de juego.
-2. Ve a `Opciones de Wii` > `Configuración de Wii` > `Internet` > `Ajustes de conexión` > Elige tu conexión > `Modificar`. Después elige `No` en `Obtener DNS automáticamente`, y selecciona `Configuración avanzada`. Finalmente, ingresa `95.217.77.151` en `DNS primario` y `DNS secundario`, y guarda los cambios.
+2. Ve a `Opciones de Wii` > `Configuración de Wii` > `Internet` > `Ajustes de conexión` > Elige tu conexión > `Modificar`. Después elige `No` en `Obtener DNS automáticamente`, y selecciona `Configuración avanzada`. Finalmente, ingresa `95.217.77.151` en `DNS primario`, y guarda los cambios.
 3. Vuelve a los ajustes de internet, y elige `Documentos legales/Contacto`.
 4. Confirma que quieres usar los servicios del Canal Tienda Wii y WiiConnect24, y después elige `Aceptar`.
 5. Deberías ver la página del parche de Wiimmfi. Si en lugar de eso se muestra el Contrato de Uso de los Servicios de Red de Wii, es posible que tu router no sea compatible con este método.
@@ -98,8 +98,8 @@ Este método permite aplicar el parche de Wiimmfi a algunos juegos antiguos, com
 6. Elige `Modificar`.
 7. Ve hasta la cuarta página, donde está la opción `Obtener DNS automáticamente` (no es en `Obtener drección IP automáticamente`), elige `No` y después selecciona `Configuración avanzada`.
 8. Ingresa `95.217.77.181` en `DNS primario`.
-9. Repite el paso anterior para el DNS secundario.
-10. Selecciona `Confirmar` y después elige `Guardar`.
+9. Escribe `1.1.1.1` en `DNS secundario<code>.</li>
+<li>Selecciona <code>Confirmar` y después elige `Guardar`.
 11. Elige `Aceptar` para realizar una prueba de conexión.
 12. Si la prueba de conexión ha sido exitosa, elige `No` para saltar la actualización de la consola Wii.
 

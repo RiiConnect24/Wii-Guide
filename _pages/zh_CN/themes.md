@@ -40,7 +40,9 @@ title: "安装 Wii 菜单主题"
 以下是一些主题的链接。
 
 * [RiiConnect24 主题页面](https://rc24.xyz/goodies/themes/)
+* [GBAtemp 下载](https://gbatemp.net/download/categories/other-files.166/)
 * [Google Drive 仓库](https://drive.google.com/drive/folders/1K1WQe36bGibsF4ZlAxZKU6ngNpjUnh5i)
+* [Wii Themer](http://www.wiithemer.org/)
 * [Wii Theme Team Creations v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
 在继续之前，请确保您已阅读上述警告！

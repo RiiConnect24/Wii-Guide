@@ -17,7 +17,7 @@ Priiloader 为 Wii 添加了一定程度的变砖保护。 它在 Wii 菜单之�
 
 {% capture notice-vwii-priiloader %}
 Priiloader 0.10.0 引入了 vWii 支持！ <br> 有一些重要事项需要注意：
-- 要修复时间戳问题（FORE000006、错误的 News Channel 更新时间），您需要 [生成时间戳修复补丁](https://garyodernichts.github.io/priiloader-patch-gen/)。 页面上有更多信息。
+- 要修复时间戳问题（FORE000006、错误的 News Channel 更新时间），您需要[生成时间戳修复补丁](https://garyodernichts.github.io/priiloader-patch-gen/)。 页面上有更多信息。
 - 在安装 Priiloader 后安装主题**会导致您的 vWii 变砖。**
 
 以下是一些增强您的 vWii 体验的方法：
@@ -33,7 +33,7 @@ Priiloader 0.10.0 引入了 vWii 支持！ <br> 有一些重要事项需要注�
 #### 你需要的是
 
 - 一张 SD 卡或 U 盘
-- [Priiloader installer](https://hbb1.oscwii.org/hbb/priiloader/priiloader.zip)
+- [Priiloader installer](https://github.com/DacoTaco/priiloader/releases/download/0.10.0-RC3/Priiloader_v0_10RC3.zip)
 - [LoadPriiloader](https://hbb1.oscwii.org/hbb/LoadPriiloader/LoadPriiloader.zip)
 
 #### 步骤
@@ -52,7 +52,7 @@ Priiloader 0.10.0 引入了 vWii 支持！ <br> 有一些重要事项需要注�
 
 ##### 第三部分 - 进入 Priiloader
 
-安装完 Priiloader 后它会自动出现。 简单地退出 Homebrew Channel，您就会看到 Priiloader 菜单： ![Priiloader 菜单](/images/Priiloader/menu.png)
+安装完成后，Priiloader 会自动出现。 简单地退出 Homebrew Channel，您就会看到 Priiloader 菜单： ![Priiloader 菜单](/images/Priiloader/menu.png)
 
 要稍后进入 Priiloader，只需运行 "Load Priiloader" 自制应用即可。 还有其它进入 Priiloader 的方法：
 - 打开 Wii 的同时按住 RESET。
@@ -68,7 +68,7 @@ Priiloader 0.10.0 引入了 vWii 支持！ <br> 有一些重要事项需要注�
 如果您已将 Priiloader installer 放在 U 盘上，请确保没有同时插入 SD 卡。 <br> 这将导致 Priiloader 找不到 `hacks_hash.ini` 文件。
 {: .notice--warning}
 
-1. 在每个您想启用的 hack 上按 `A`。 我们建议您启用 "Block Disc Updates"、"Block Online Updates" 和 "Region Free EVERYTHING"。 ![System menu hacks 列表](/images/Priiloader/system_menu_hacks.png)
+1. 在每个您想启用的 hack 上按 `A`。 We recommend that you enable "Block Disc Updates", "Block Online Updates", and "Region Free EVERYTHING". ![System menu hacks 列表](/images/Priiloader/system_menu_hacks.png)
 1. 滚动到 `save settings` 并按 `A`。
 1. 按 `B` 回到主菜单。
 
@@ -157,4 +157,3 @@ Priiloader 允许您自动启动到 Homebrew Channel、单个自制应用程序�
 1. 向下滚动到 `save settings`，然后按 A。 ![保存设置](/images/Priiloader/settings_save.png)
 1. 按 B 回到主菜单。
 1. 向上滚动到 `System Menu`，然后按 A。
-

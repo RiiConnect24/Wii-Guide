@@ -40,7 +40,9 @@ We recommend you [install cIOS](cios) before continuing.
 Below are some links to themes.
 
 * [RiiConnect24 Themes Page](https://rc24.xyz/goodies/themes/)
+* [GBAtemp Download](https://gbatemp.net/download/categories/other-files.166/)
 * [Google Drive Repository](https://drive.google.com/drive/folders/1K1WQe36bGibsF4ZlAxZKU6ngNpjUnh5i)
+* [Wii Themer](http://www.wiithemer.org/)
 * [Wii Theme Team Creations v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
 ¡ASEGURATE DE QUE HAS LEIDO TODAS LAS ADVERTENCIAS ANTES DE CONTINUAR!
@@ -77,5 +79,5 @@ Below are some links to themes.
 5. Después de un mensaje de introducción, te preguntará qué IOS quieres usar en la aplicación. Si tienes [cIOS instalado](cios), usar `IOS249`, si no, usar `IOS58`. Si después de elegir el primero, te aparece un error que dice `Exception DSI occurred!`, oprime el botón RESET en la consola, inicia la aplicación de nuevo e intenta usar el `IOS250`. It might take a couple attempts to reload the IOS.
 6. Selecciona el tema que quieras instalar y después oprime A. Espera un momento para que se instale el tema, después oprime cualquier botón para volver al menú de Wii. Esperamos que el tema se haya instalado correctamente.
 
-If you get an error saying "The system files are corrupted" or a black screen, don't panic as long as you installed Priiloader. Turn off your Wii, then hold down the RESET button down and turn on your Wii. El menú de Priiloader debería de iniciarse. Desde aquí tienes algunas opciones para reparar tu menú de Wii. One of the options is to launch the Homebrew Channel, where you can launch MyMenuify Mod and press a button to download and install the original Wii Menu theme.
+If you get an error saying "The system files are corrupted" or a black screen, don't panic as long as you installed Priiloader. Para solucionar esto, apaga la consola, después oprime el botón POWER mientras mantienes pulsado RESET. El menú de Priiloader debería iniciarse. Desde aquí puedes iniciar el Canal Homebrew, y posteriormente cargar alguna aplicación que te ayude a reparar el brick. La solución más rápida es desinstalar el acceso directo causante del problema con un gestor de WADs. One of the options is to launch the Homebrew Channel, where you can launch MyMenuify Mod and press a button to download and install the original Wii Menu theme.
 {: .notice--info}

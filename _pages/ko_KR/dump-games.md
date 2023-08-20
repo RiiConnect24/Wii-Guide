@@ -95,6 +95,8 @@ FAT32 포맷의 장치에 디스크를 덤프한 경우, `.partX.iso`으로 끝�
     let tabcontent = document.getElementsByClassName("blanktabcontent");
     let tablinks = document.getElementsByClassName("tablinks");
 
+    for (e of tabcontent) element.style.display = "none";
+
     function openTab(evt, tabName) {
         let element;
 

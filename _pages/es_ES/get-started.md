@@ -1,10 +1,10 @@
 ---
-title: "Prepárate"
+title: "Primeros pasos"
 ---
 
-{% include toc title="Tabla de contenidos" %}
+{% include toc title="Tabla de contenido" %}
 
-Si necesitas ayuda para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado) o [envíanos un correo electrónico a support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado), o envíanos un [correo electrónico](mailto:support@riiconnect24.net). Soporte disponible solo en inglés.
 {: .notice--info}
 
 Even if your Wii has already been softmodded in the past, following these steps can still ensure that your softmod is up to date.
@@ -32,7 +32,7 @@ These exploits are sorted by easiest to hardest difficulty of use.
     * Requires an SD card
     * Must be on version 4.3
 - [Wilbrand](wilbrand) - Exploit that also uses the Wii Message Board
-    * Requires an SD card and a PC
+    * Requires only an SD card with the Web UI, otherwise requires a PC in addition to the SD card
     * Works on versions 3.0 - 4.3
 - [FlashHax](flashhax) - Exploit that uses the Internet Channel
     * Requires the Internet Channel installed, and an Internet connection

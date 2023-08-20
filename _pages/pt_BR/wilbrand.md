@@ -12,6 +12,40 @@ Wilbrand, assim como o LetterBomb, é um exploit para o Wii que pode ser acionad
 Diferente do Letterbomb, Wilbrand suporta versões do menu do Wii anteriores ou iguais a 3.0.
 {: .notice--info}
 
+There are two methods listed on this page used to create the proper Wilbrand exploit. Wilbrand Web is recommended for its ease of use.
+{: .notice--info}
+
+### Wilbrand Web (Recommended)
+
+#### Você precisará de
+
+- Um cartão SD formatado para FAT32/MS-DOS
+- Um Wii pelo menos na versão 3.0
+
+SD cards larger than 2GB will not work on Wii menu versions before 4.0.
+{: .notice--warning}
+
+#### Instruções
+
+1.  No seu Wii, vá para `Wii Settings`, e tome nota da versão no canto superior direito. Vá para `Internet` -> `Console Information` e também tome nota do seu MAC address.
+1.  Visit [wilbrand.donut.eu.org](https://wilbrand.donut.eu.org/), input your Wii MAC, version, region, ensure `Bundle the HackMii Installer for me!` is checked, and cut either wire. ![Wilbrand Web](/images/wilbrand/web.png)
+1.  Click on "Download your .zip".
+1.  Extraia o conteúdo do ZIP baixado para a raiz do seu cartão SD.
+1.  Pegue seu cartão SD e insira-o no seu Wii.
+    - O cartão SD deve ser inserido no slot de cartão SD localizado na frente do Wii. O uso de um adaptador USB conectado à porta USB do Wii não funcionará.
+1.  No seu Wii, retorne ao Menu do Wii e então abra o Wii Message Board.
+1.  Carregue a carta verde com um ícone de Bob-omb.
+    - Certifique-se que a data em seu Wii está correta, caso contrário você não poderá encontrar a carta.
+    - Essa carta pode ter aparecido no dia anterior ou no próximo dia.
+    - Se você não vê a carta verde, cheque se algum erro aparece nas sessões do cartão SD em `Data Management`. Se quaisquer aparecerem, talvez haja um erro com o formato do seu cartão SD ou o leitor de SD do Wii. ![Wilbrand no seu habitat natural](/images/wilbrand/msgboard.png)
+
+If this didn't work for you, [try another exploit](get-started) or try [Wilbrand CLI](#wilbrand-cli).
+
+[Continue para a Instalação do Homebrew Channel e do BootMii](hbc)
+{: .notice--info}
+
+### Wilbrand CLI
+
 #### Você precisará de
 
 - Um PC executando Windows, MacOS ou Linux
@@ -19,6 +53,9 @@ Diferente do Letterbomb, Wilbrand suporta versões do menu do Wii anteriores ou 
 - Um Wii pelo menos na versão 3.0
 - [Wilbrand](https://static.wiidatabase.de/Wilbrand.zip)
 - [HackMii Installer v1.2](https://bootmii.org/download/)
+
+SD cards larger than 2GB will not work on Wii menu versions before 4.0.
+{: .notice--warning}
 
 #### Instruções
 

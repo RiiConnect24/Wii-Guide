@@ -40,7 +40,9 @@ Wii와 현재 지역에 맞게 특별히 포맷된 테마만 설치하세요. Wi
 아래는 테마에 대한 몇 가지 링크입니다.
 
 * [RiiConnect24 테마 페이지](https://rc24.xyz/goodies/themes/)
-* [구글 드라이브 저장소](https://drive.google.com/drive/folders/1K1WQe36bGibsF4ZlAxZKU6ngNpjUnh5i)
+* [GBAtemp Download](https://gbatemp.net/download/categories/other-files.166/)
+* [Google Drive Repository](https://drive.google.com/drive/folders/1K1WQe36bGibsF4ZlAxZKU6ngNpjUnh5i)
+* [Wii Themer](http://www.wiithemer.org/)
 * [Wii Theme Team Creations v2](https://gbatemp.net/threads/wii-theme-team-creations-v2.336596/)
 
 계속하기 전에 상단의 경고 사항을 반드시 읽어주세요!
