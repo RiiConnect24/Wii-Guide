@@ -45,7 +45,7 @@ Si has usado una unidad USB para instalar Priiloader, asegúrate de que no tiene
 1. Pulsa abajo hasta llegar a `System Menu` y pulsa A para salir al menú de Wii.
 1. Inicia tu juego desde el Canal Disco. Ahora deberías poder acceder a Wiimmfi.
 
-Si el nombre del hack es `Wiimmfi Patch v2` o `Wiimmfi Patch v3`, significa que no tienes la última versión del archivo `hacks_hash.ini`.<br> Descárgalo desde [aquí](https://github.com/DacoTaco/priiloader/blob/master/src/priiloader/hacks_hash.ini) y colócalo en la carpeta <0>/apps/priiloader</0> en tu tarjeta SD o unidad USB, luego repite los pasos anteriores.
+If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file, and you need to [re-install Priiloader](priiloader). Then, repeat the previous steps.
 {: .notice--warning}
 
 ### Aplicación homebrew para discos
@@ -200,7 +200,7 @@ Algunos títulos están optimizados para DSi, lo que significa que pueden conect
 4. Repite el paso anterior para el DNS secundario.
 5. Guarda los cambios y realiza una prueba de conexión. Si es exitosa, estás listo para jugar.
 
-Si recibes el código de error 20110, significa que tu proveedor de servicios de internet (ISP) o entorno de red no permiten el uso de servidores DNS externos. Para solucionar esto, puedes usar nuestro [servidor DNS local](https://github.com/RiiConnect24/DNS-Server/releases/latest) en una PC.
+Si recibes el código de error 20110, significa que tu proveedor de servicios de internet (ISP) o entorno de red no permiten el uso de servidores DNS externos. You can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program to bypass this.
 {: .notice--warning}
 
 No podrás acceder a Sudomemo (servidor no oficial para Flipnote Studio) mientras utilices nuestro DNS. Si deseas usar Sudomemo en vez de jugar en línea en Wiimmfi, deberás configurar `104.248.0.110` como el DNS primario y secundario desde los ajustes de internet de DSi o 3DS, no en la Configuración de la CWF de Nintendo para juegos de DS. También puedes usar el [servidor DNS local de Sudomemo](https://github.com/Sudomemo/sudomemoDNS).
