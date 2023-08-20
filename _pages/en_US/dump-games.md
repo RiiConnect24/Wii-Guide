@@ -113,6 +113,8 @@ To organize the games on your drive properly, you'll need to use [Wii Backup Man
     let tabcontent = document.getElementsByClassName("blanktabcontent");
     let tablinks = document.getElementsByClassName("tablinks");
 
+    for (e of tabcontent) element.style.display = "none";
+
     function openTab(evt, tabName) {
         let element;
 
