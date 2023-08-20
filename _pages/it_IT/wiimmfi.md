@@ -45,7 +45,7 @@ Se stai utilizzando un'unità USB per installare Priiloader, assicurati di non a
 1. Scroll to `System Menu` and press A to launch it.
 1. Launch your game through the Disc channel. It should be patched with Wiimmfi.
 
-If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/blob/master/src/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
+If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file, and you need to [re-install Priiloader](priiloader). Then, repeat the previous steps.
 {: .notice--warning}
 
 ### Homebrew (Disc) Application
@@ -200,7 +200,7 @@ Some games are DSi enhanced which means you can play games online without having
 4. Type in `1.1.1.1` as the secondary DNS.
 5. Save your connection settings and perform a connection test. If it's successful, then you're ready to play.
 
-If you get error 20110, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can set `Auto-Obtain DNS` to `On` to solve this. RiiConnect24 will still work without it. Or, you can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program.
+If you get error 20110, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program to bypass this.
 {: .notice--warning}
 
 You cannot use Sudomemo, which revives Flipnote Studio on the DSi, if you're using this DNS. If you want to use Sudomemo instead of playing games on Wiimmfi, you will have to set your primary DNS to `104.248.0.110` on Wi-Fi settings on your DSi or 3DS, not the DS Wi-Fi settings. Or you can use their [DNS-Server](https://github.com/Sudomemo/sudomemoDNS) program.
