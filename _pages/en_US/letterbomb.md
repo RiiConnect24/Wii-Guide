@@ -15,7 +15,8 @@ LetterBomb is an exploit for the Wii that is triggered using the Wii Message Boa
 
 #### Instructions
 
-1. On your Wii, go to `Wii Settings` -> `Internet` -> `Console Information` and make note of your MAC address.
+1. On your Wii, go to `Wii Settings` and make note of the Version at the top right. <br>
+Then, go to `Internet` -> `Console Information` and make note of your MAC address.
 1. Visit [letterbomb.techchrism.me](https://letterbomb.techchrism.me/), input your Wii MAC and region, ensure `Bundle HackMii Installer` is checked, and click `Download ZIP`.
 ![HackMii Screen](/images/letterbomb-web.png)
 1. Extract the contents of the downloaded ZIP to the root of your SD card.
