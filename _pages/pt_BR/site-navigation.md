@@ -43,6 +43,7 @@ sitemap: false
 - [Homebrew Browser](hbb)
 - [Homebrew Channel](hbc)
 - [LetterBomb](letterbomb)
+- [ModMii](modmii)
 - [Priiloader](priiloader)
 - [Reiniciando o HackMii Installer](hackmii)
 - [str2hax](str2hax)
