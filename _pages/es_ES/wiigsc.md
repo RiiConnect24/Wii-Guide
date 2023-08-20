@@ -26,7 +26,7 @@ NO intentes crear un atajo para los juegos Mario Party 9, o A Boy and His Blob. 
 #### Instrucciones
 
 1. Descarga WiiGSC desde el enlace de arriba y extrae el archivo, luego ejecuta el instalador. Una vez que el programa se haya instalado, haz clic derecho sobre su icono en el escritorio, y selecciona **Ejecutar como administrador**. Si no haces esto, WiiGSC dará un error cuando se inicie.
-2. Haz clic en el botón `...` que está a la derecha de `ISO/WBFS File` y selecciona el archivo ISO o WBFS ubicado en tu unidad USB. Después haz clic en el botón a la derecha de `Loader` y elige el USB loader que usas. No hace falta que cambies el resto de las opciones. Repite el proceso con cada juego para el cual desees crear un atajo.
+2. Haz clic en el botón `...` que está a la derecha de `ISO/WBFS File` y selecciona el archivo ISO o WBFS ubicado en tu unidad USB. Después haz clic en el botón a la derecha de `Loader` y elige el USB loader que usas. The other options should be fine the way they are.
 3. Si utilizas USB Loader GX, asegúrate de tener [esta versión](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip).
 4. Cuando el proceso haya finalizado, instala el archivo WAD generado por el programa con un gestor de WADs. Se recomienda usar Wii Mod Lite.
 
