@@ -45,7 +45,7 @@ USB 드라이브를 사용하여 Priiloader를 설치하는 경우, SD 카드가
 1. Scroll to `System Menu` and press A to launch it.
 1. Launch your game through the Disc channel. It should be patched with Wiimmfi.
 
-If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/blob/master/src/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
+If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file, and you need to [re-install Priiloader](priiloader). Then, repeat the previous steps.
 {: .notice--warning}
 
 ### 홈브류 (디스크) 응용 프로그램
@@ -200,7 +200,7 @@ Some games are DSi enhanced which means you can play games online without having
 4. `1.1.1.1`를 보조 DNS로 입력합니다.
 5. 연결 설정을 저장하고 연결 테스트를 수행합니다. 성공하면 플레이할 준비가 된 것입니다.
 
-If you get error 20110, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. 이 문제를 해결하려면 `자동 DNS 가져오기`를 `켜기`로 설정하면 됩니다. RiiConnect24는 이 기능이 없어도 계속 작동합니다. 또는 [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) 프로그램을 사용할 수 있습니다.
+If you get error 20110, that means your ISP (Internet Service Provider) or network is blocking the use of a DNS. You can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program to bypass this.
 {: .notice--warning}
 
 You cannot use Sudomemo, which revives Flipnote Studio on the DSi, if you're using this DNS. If you want to use Sudomemo instead of playing games on Wiimmfi, you will have to set your primary DNS to `104.248.0.110` on Wi-Fi settings on your DSi or 3DS, not the DS Wi-Fi settings. Or you can use their [DNS-Server](https://github.com/Sudomemo/sudomemoDNS) program.
