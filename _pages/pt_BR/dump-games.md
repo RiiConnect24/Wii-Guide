@@ -95,6 +95,8 @@ Para organizar os jogos no seu armazenamento corretamente, você precisará usar
     let tabcontent = document.getElementsByClassName("blanktabcontent");
     let tablinks = document.getElementsByClassName("tablinks");
 
+    for (e of tabcontent) element.style.display = "none";
+
     function openTab(evt, tabName) {
         let element;
 
