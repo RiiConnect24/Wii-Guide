@@ -26,7 +26,7 @@ USB 로더를 사용하는데 게임 바로가기를 만들어 Wii 메뉴에서 
 #### 사용 방법
 
 1. WiiGSC를 설치한 다음 마우스 오른쪽 버튼으로 클릭하고 **관리자 권한으로 실행**을 선택합니다. 이 작업을 수행하지 않으면 WiiGSC를 열 때 오류가 발생합니다.
-2. USB 드라이브에 있는 ISO 또는 WBFS 파일의 경로를 선택하고 사용하는 USB 로더를 선택합니다. 다른 옵션은 그대로 사용해도 괜찮습니다.
+2. USB 드라이브에 있는 ISO 또는 WBFS 파일의 경로를 선택하고 사용하는 USB 로더를 선택합니다. The other options should be fine the way they are.
 3. USB 로더 GX를 사용하는 경우 [이 버전](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)을 사용해야 합니다.
 4. 생성된 WAD를 WAD Manager를 사용하여 설치하는 것이 좋으며, Wii Mod Lite를 권장합니다.
 
