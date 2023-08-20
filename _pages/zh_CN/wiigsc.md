@@ -26,7 +26,7 @@ title: "创建Wii游戏快捷方式"
 #### 步骤
 
 1. 安装 WiiGSC，右键单击它，然后选择**以管理员身份运行**。 如果您不这样做，打开 WiiGSC 时会报错。
-2. 选择U盘里放置WBFS和ISO文件的目录，然后选择你使用的USB Loader。 其它选项应该保持默认即可。
+2. 选择U盘里放置WBFS和ISO文件的目录，然后选择你使用的USB Loader。 The other options should be fine the way they are.
 3. 如果您使用 USB Loader GX，请确保使用[此版本](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)。
 4. 使用 WAD 管理器安装生成的 WAD，我们推荐使用 Wii Mod Lite。
 
