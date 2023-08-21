@@ -46,7 +46,7 @@ title: "Wii 미니를 위한 d2xl cIOS (실험 단계)"
 ##### 이더넷 활성화
 Wii 미니에서 이더넷과 함께 Wiimfi를 사용하려면, Fullmetal5가 만든 [Ethernet Enabler Homebrew](/assets/files/Wii_Mini_Ethernet_Enable.zip) 앱을 실행해야 합니다. 실행하려면 USB 드라이브의 `apps` 폴더에 압축을 풀고 홈브류 채널에서 실행하면 됩니다.
 
-Wii 및 Wii 미니 콘솔은 AX88772 칩을 사용하는 이더넷 어댑터에서만 작동하는 것으로 알려져 있습니다. 구매하기 전에 제품이 호환되는지 확인하세요. UGREEN의 이 제품은 호환되는 것으로 알려져 있습니다: [아마존 유럽](https://www.amazon.de/dp/B00MYT481C), [아마존 미국](https://www.amazon.com/dp/B08DRKYKMM/)
+Wii 및 Wii 미니 콘솔은 AX88772 칩을 사용하는 이더넷 어댑터에서만 작동하는 것으로 알려져 있습니다. 구매하기 전에 제품이 호환되는지 확인하세요. This one from UGREEN is known to be compatible: [Amazon Europe](https://www.amazon.de/dp/B00MYT481C), [Amazon US](https://a.co/d/3OcSJDS)
 {: .notice--info}
 
 Wii 미니에 Wii IOS 또는 시스템 메뉴를 설치하려고 시도하지 마세요. 그렇게 하면 콘솔이 망가질 가능성이 높습니다.
