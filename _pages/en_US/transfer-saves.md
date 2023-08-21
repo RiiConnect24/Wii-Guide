@@ -127,7 +127,15 @@ Unfortunately, you can only select one at a time, so you must repeat the last st
 
 <div id="dol" class="tabcontent" markdown="1">
 
+{% capture dolphin-user-folder %}
+<div class="notice--info" markdown="1">
+`<User Folder>` refers to the folder opened by the `File -> Open User Folder` menu option.
+![Dolphin user folder](/images/dolphin-user-folder.png)
+</div>
+{% endcapture%}
+
 All methods here assume you have the [latest Beta or Development version of Dolphin Emulator](https://dolphin-emu.org/download).
+{: .notice--info}
 
 <button class="btn btn--info btn--large tablinks to" onClick="openTab_to(event, 'dol-wii')">To a Wii/vWii</button>
 <button class="btn btn--info btn--large tablinks to" onClick="openTab_to(event, 'dol-gcmc')">To a GameCube Memory card</button>
@@ -250,41 +258,19 @@ All methods here require a Wii with GameCube ports. <br>
 It is technically possible to solder GameCube ports to the other Wii models. (except for the Wii U)
 {: .notice--warning}
 
-<button class="btn btn--large btn--info tablinks to" onClick="openTab_to(event, 'gcmc-gci')">[Individual save to .gci]</button>
-<button class="btn btn--large btn--info tablinks to" onClick="openTab_to(event, 'gcmc-raw')">[Memory card to .raw]</button>
+<button class="btn btn--large btn--info tablinks to" onClick="openTab_to(event, 'gcmc-emumc')">To Dolphin Emulator or Nintendont</button>
+<button class="btn btn--large btn--info tablinks to" onClick="openTab_to(event, 'gcmc-gcmc')">To another memory card</button>
 
-<div id="gcmc-raw" class="tabcontent to" markdown="1">
-
-##### What you need
-- The Homebrew Channel on your Wii
-- an SD card or USB drive
-- [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
-
-##### Instructions
-
-1. Download and extract GCMM to the root of your SD card or USB drive.
-1. Eject the SD/USB from your PC, then put it into your Wii.
-1. Launch the Homebrew Channel, then launch GCMM.
-1. Select the device you would like to copy the save file to.
-![GCMM Select device](/images/gcsaves/gcmm-select-device.jpg)
-1. Press `B` and `-`/`L` and `Y` to enter Raw backup mode.
-![GCMM Main menu](/images/gcsaves/gcmm-menu.jpg)
-1. Select the slot that has your memory card.
-![GCMM Select card slot](/images/gcsaves/gcmm-mem-select.jpg)
-1. When the dump is complete, press any key to continue.
-
-The backup is saved in a folder named `MCBACKUP` on your SD/USB.
-
-</div>
-
-<div id="gcmc-gci" class="tabcontent to" markdown="1">
+<div id="gcmc-emumc" class="tabcontent to" markdown="1">
 
 ##### What you need
 - The Homebrew Channel on your Wii
 - an SD card or USB drive
 - [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
 
-##### Instructions
+##### Individual save to .gci
+
+Save files are stored individually as `.gci` files when Nintendont is set to use individual memcards, and when Dolphin Emulator is set to use "GCI Folder".
 
 1. Download and extract GCMM to the root of your SD card or USB drive.
 1. Eject the SD/USB from your PC, then put it into your Wii.
@@ -298,7 +284,70 @@ The backup is saved in a folder named `MCBACKUP` on your SD/USB.
 1. Select the save you want to copy. You can press `1`/`R` to backup all of your saves.
 ![GCMM backup menu](/images/gcsaves/gcmm-backup-menu.jpg)
 1. Once backing up is complete, press any button to continue.
+1. Press HOME/START to return to the Homebrew Channel.
 
+The backup is saved in a folder named `MCBACKUP` on your SD/USB.
+- For Nintendont, copy the `.gci` file(s) to the root of the device used for Nintendont and name it `ninmem.raw`.
+- For Dolphin Emulator, copy the `.gci` file(s) to `<User folder>/GC/<REGION>/Card A/`.
+{{ dolphin-user-folder }}
+
+##### Memory card to .raw
+
+Save files are stored in virtual memory cards (`.raw` files) when Nintendont is set to use multi memcards, and when Dolphin Emulator is set to use "Memory card"
+
+1. Download and extract GCMM to the root of your SD card or USB drive.
+1. Eject the SD/USB from your PC, then put it into your Wii.
+1. Launch the Homebrew Channel, then launch GCMM.
+1. Select the device you would like to copy the save file to.
+![GCMM Select device](/images/gcsaves/gcmm-select-device.jpg)
+1. Press `B` and `-`/`L` and `Y` to enter Raw backup mode.
+![GCMM Main menu](/images/gcsaves/gcmm-menu.jpg)
+1. Select the slot that has your memory card.
+![GCMM Select card slot](/images/gcsaves/gcmm-mem-select.jpg)
+1. When the dump is complete, press any key to continue.
+
+The backup is saved in a folder named `MCBACKUP` on your SD/USB.
+- For Nintendont, copy the `.raw` file to the root of the device used for Nintendont and name it `ninmem.raw`.
+  * If your games are Japanese, Nintendont will use `ninmemj.raw`, because Japanese games do not play very nicely when there are other region saves present.
+- For Dolphin Emulator, copy the `.raw` file to `<User folder>/GC/` and name it `MemoryCardA.<REGION>.raw`.
+{{ dolphin-user-folder }}
+
+</div>
+
+<div id="gcmc-gcmc" class="tabcontent to" markdown="1">
+
+##### What you need
+- a Wii
+
+##### Instructions
+
+1. Insert both memory cards into your Wii.
+1. Launch the Wii menu and select the Wii Options button at the bottom left.
+![Wii Options](/images/Wii/wii-options.png)
+1. Select `Data Management > Save Data > Nintendo GameCube`.
+1. Select the save you would like to copy and select `Copy`.
+![Copying a GameCube save](/images/gcsaves/gc-data-management.png)
+
+
+</div>
+
+</div>
+
+<div id="emumc" class="tabcontent" markdown="1">
+
+<button class="btn btn--large btn--info tablinks to" onClick="openTab_to(event, 'emumc-dol')">To Dolphin Emulator</button>
+<button class="btn btn--large btn--info tablinks to" onClick="openTab_to(event, 'emumc-gcmc')">To a memory card</button>
+
+<div id="emumc-dol" class="tabcontent to" markdown="1">
+
+##### What you need
+- an SD card or USB drive
+- a Beta or Development version of Dolphin Emulator
+
+##### Multi memcards (.raw file)
+
+1. Insert your SD card or USB drive into your PC.
+1. Copy the `ninmem.raw` file (`ninmenj.raw` for Japanese saves) 
 
 </div>
 
