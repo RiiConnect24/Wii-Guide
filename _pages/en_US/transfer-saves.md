@@ -132,7 +132,16 @@ Unfortunately, you can only select one at a time, so you must repeat the last st
 `<User Folder>` refers to the folder opened by the `File -> Open User Folder` menu option.
 ![Dolphin user folder](/images/dolphin-user-folder.png)
 </div>
-{% endcapture%}
+{% endcapture %}
+
+{% capture dolphin-emu-memcard-manager %}
+<details class="notice--info" markdown="1"> 
+<summary markdown="1">
+If Dolphin is set to use a `.raw` memory card, use `Tools > Memory Card Manager` to export your desired saves to `.gci`.
+</summary>
+![Dolphin Emualator Memory Card Manager](/images/gcsaves/dolphin-emu-memcard-manager.png)
+</details>
+{% endcapture %}
 
 All methods here assume you have the [latest Beta or Development version of Dolphin Emulator](https://dolphin-emu.org/download).
 {: .notice--info}
@@ -168,6 +177,9 @@ If you are exporting all your Wii saves from Dolphin, select `Tools > Export All
 </div>
 
 <div id="dol-wii-svgm" class="tabcontent via" markdown="1">
+
+Make sure you have installed [cIOS](cios) before following this!
+{: .notice--warning}
 
 ##### What you need
 - The Homebrew Channel on your Wii/vWii
@@ -206,13 +218,7 @@ If you are exporting all your Wii saves from Dolphin, select `Tools > Export All
 1. In the folder that opens, navigate to `GC > [Save region] > Card A`.
 1. Copy the `.gci` files you would like to put on your Memory card.
 1. Create a folder named `MCBACKUP` on your SD card or USB drive, and place the `.gci` files you copied into it.
-
-<details class="notice--info" markdown="1">
-<summary markdown="1">
-If Dolphin is set to use a `.raw` memory card, use `Tools > Memory Card Manager` to export your desired saves to `.gci`.
-</summary>
-![Dolphin Emualator Memory Card Manager](/images/gcsaves/dolphin-emu-memcard-manager.png)
-</details>
+{{ dolphin-emu-memcard-manager }}
 
 1. Download and extract GCMM to the root of your SD card or USB drive.
 1. Safely eject the SD/USB from your PC, then insert it into your Wii.
@@ -238,21 +244,14 @@ If you would like to restore all the saves in `MCBACKUP`, press `1`/`R`.
 1. In the main menu, select `File > Open User Folder`.
 1. In the folder that opens, navigate to `GC > [Save region] > Card A`.
 1. Copy the `.gci` files you would like to put on your Memory card.
-1. Create a folder named `saves` on your SD card or USB drive, and place the `.gci` files you copied into it. <!-- ? -->
-
-<details class="notice--info" markdown="1">
-<summary markdown="1">
-If Dolphin is set to use a `.raw` memory card, use `Tools > Memory Card Manager` to export your desired saves to `.gci`.
-</summary>
-![Dolphin Emualator Memory Card Manager](/images/gcsaves/dolphin-emu-memcard-manager.png)
-</details>
+1. Create a folder named `saves` on your SD card or USB drive, and place the `.gci` files you copied into it.
+{{ dolphin-emu-memcard-manager }}
 
 </div>
 
 </div>
 
 <div id="gcmc" class="tabcontent" markdown="1">
-<!-- TODO: get some help because neither gcmm or nintendont want to comply with my on dolphin -->
 
 All methods here require a Wii with GameCube ports. <br>
 It is technically possible to solder GameCube ports to the other Wii models. (except for the Wii U)
@@ -344,12 +343,46 @@ The backup is saved in a folder named `MCBACKUP` on your SD/USB.
 - an SD card or USB drive
 - a Beta or Development version of Dolphin Emulator
 
+##### Individual memcards (.gci files)
+
+1. Insert your SD card or USB drive into your PC.
+1. Copy the `.gci` files inside the `saves` folder to `<User Folder>/GC/<REGION>/Card A/`.
+
 ##### Multi memcards (.raw file)
 
 1. Insert your SD card or USB drive into your PC.
-1. Copy the `ninmem.raw` file (`ninmenj.raw` for Japanese saves) 
+1. Copy the `ninmem.raw` file (`ninmenj.raw` for Japanese saves) to `<User Folder>/GC/MemoryCardA.<REGION>.raw`.
+{{ dolphin-user-folder }}
 
 </div>
+
+<div id="emumc-gcmc" class="tabcontent to" markdown="1">
+
+##### What you need
+- The Homebrew Channel installed on your Wii
+- an SD card or USB drive
+- [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
+
+##### Individual memcards (.gci files)
+
+1. Insert your SD card or USB drive into your PC.
+1. Create a folder named `MCBACKUP`.
+1. Copy the `.gci` files inside the `saves` folder to the `MCBACKUP` folder.
+1. Download and extract GCMM to the root of your SD card or USB drive.
+1. Safely eject the SD/USB from your PC, then insert it into your Wii.
+1. Launch the Homebrew Channel, then launch GCMM.
+1. Select the device you have copied the `.gci` files to.
+![GCMM Select device](/images/gcsaves/gcmm-select-device.jpg)
+1. Press `+`/`X` to enter Restore mode.
+![GCMM Main menu](/images/gcsaves/gcmm-menu.jpg)
+1. Select the slot that has your Memory card.
+![GCMM Select card slot](/images/gcsaves/gcmm-mem-select.jpg)
+1. Select the save you would like to restore. <br>
+If you would like to restore all the saves in `MCBACKUP`, press `1`/`R`.
+![GCMM Restore menu](/images/gcsaves/gcmm-restore-save.jpg)
+1. When restoration is complete, press any button to continue.
+
+<div>
 
 </div>
 
