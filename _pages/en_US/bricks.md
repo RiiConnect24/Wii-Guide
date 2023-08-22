@@ -38,7 +38,14 @@ A semibrick occurs when a different region System Menu or a different region cus
 This causes the Wii to fail to find the Wii settings page files.
 
 #### Solutions
-TODO: anything other than WML, it's freezing bug makes it particularly bad at this
+If this was caused by a theme you installed, use MyMenuifyMod to re-download the original theme file.
+
+If this was caused by a System menu WAD you installed, use [NUS Downloader](https://wiibrew.org/wiki/NUSD) to re-obtain your original system menu.
+
+Be cautious when downloading the System menu WAD. Make sure to pick the same version with the corrected region.
+{: .notice--danger}
+
+If you are actually in the process of a region change, use [ARC-ME](https://github.com/modmii/Any-Region-Changer-ModMii-Edition/releases) to automatically fix all your region settings to match your System menu.
 
 ## Mail brick
 
@@ -46,8 +53,8 @@ TODO: anything other than WML, it's freezing bug makes it particularly bad at th
 A mail brick happens when your Wii has a lot of mail. This will make the Wii crash.
 
 #### Solutions
-To fix a mail brick, enter Maintenance mode by holding `+` and `-` on the Health and Safety screen. (do not press `A`!)
-Enter the Homebrew Channel, and follow `Section III` on [this page](https://wii.guide/deleting-vffs#section-iii---deleting-sysconf). <!-- TODO: implement delete in cdbackup -->
+To fix a mail brick, enter Maintenance mode by holding `+` and `-` on the Health and Safety screen. (do not press `A`!) <br>
+Enter the Homebrew Channel, and use [cdbackup](https://oscwii.org/library/app/cdbackup) to delete your message board data.
 
 ## System Menu brick
 
