@@ -47,6 +47,19 @@ Be cautious when downloading the System menu WAD. Make sure to pick the same ver
 
 If you are actually in the process of a region change, use [ARC-ME](https://github.com/modmii/Any-Region-Changer-ModMii-Edition/releases) to automatically fix all your region settings to match your System menu.
 
+## System Menu brick
+
+#### Cause
+This brick is a more fatal version of a [Semibrick](#semibrick). If your SYSCONF gets corrupt or damaged, the Wii will regenerate it and start the setup phase.
+
+However, the setup pages are in a similar location to the Wii settings pages. If you have an incorrect region System menu or theme, the Wii cannot find them.
+
+#### Solutions
+
+If you still have [Priiloader](priiloader), use it to enter the Homebrew Channel and re-install the original theme file/original System menu.
+
+In case you do not have Priiloader, you can try [BlueBomb](bluebomb).
+
 ## Mail brick
 
 #### Cause
@@ -55,19 +68,6 @@ A mail brick happens when your Wii has a lot of mail. This will make the Wii cra
 #### Solutions
 To fix a mail brick, enter Maintenance mode by holding `+` and `-` on the Health and Safety screen. (do not press `A`!) <br>
 Enter the Homebrew Channel, and use [cdbackup](https://oscwii.org/library/app/cdbackup) to delete your message board data.
-
-## System Menu brick
-
-#### Cause
-This brick is a more fatal version of a [Semibrick](#semibrick). If your SYSCONF gets corrupt or damaged, the Wii will regenerate it and start the setup phase.
-
-However, the setup pages are in a similar location to the Wii settings pages. If you have an incorrect region System menu or theme, the Wii cannot find them.
-
-#### Solution
-
-If you still have [Priiloader](priiloader), use it to enter the Homebrew Channel and re-install the original theme file/original System menu.
-
-In case you do not have Priiloader, you can try [BlueBomb](bluebomb).
 
 ## Wi-Fi brick
 
@@ -83,6 +83,7 @@ This will also happen on the Wii mini if you install a normal Wii IOS, because t
 To resolve this problem, you can try reseat or replace the Wi-Fi/Bluetooth module.
 
 If you are on a Wii Mini, you must install a Wi-Fi module.
+
 
 ## IOS brick
 
