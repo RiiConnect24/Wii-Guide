@@ -4,42 +4,98 @@ title: "Bricks"
 
 {% include toc title="Table of Contents" %}
 
-If your Wii becomes non-functional because of a system update that didn't work, alterations to the console, or any other technical problems, it will become unusable. This could manifest as displaying no signal, a blank screen, or an audio malfunction commonly referred to as the "sound of death." Here, we will discuss the different types of issues, as well as their solutions.
+A "Brick" usually means your Wii has reached a state where, it's only use is that of a literal [brick](https://wikipedia.org/wiki/Brick). <br>
+Bricks can occur for a variety of reasons, usually caused by improper system modifications via homebrew.
 
-### Bricks
+Here, we will discuss the different types of bricks, as well as some potential solutions.
 
-##### Wi-Fi brick
-This brick arises when your Wii lacks a functional Wi-Fi module or it is damaged. In such cases, the Wii gets stuck on a black screen while awaiting a response from IOS. <br>
-To resolve this problem, you can rectify or install the Wi-Fi module, or recover your Wii using a Wii Mini NAND backup. If you're unfamiliar with the process of restoring from a NAND backup, you can find instructions by clicking here.
+## Banner brick
 
-##### Semibrick
-A semibrick occurs when a different region's System Menu is installed on a Wii console, causing the Wii Settings to not load properly. <br>
-To fix this, you can use the Homebrew Channel and a tool like Wii Mod Lite to change the region back to the correct one. You can find your current System Menu region in the "Display System information" section and then use the "Region Changer" option to select the matching region preset.
+#### Cause
+Banner bricks occur when a corrupted WAD file is installed on the system menu.
 
-##### Banner brick
-Banner bricks occur when a corrupted WAD file is installed on the system menu. <br>
-If you have (Priiloader)[priiloader] installed, you can press POWER and then RESET right after the blue disc LED flashes. Go to HBC and then you can use a program like AnyTitle Deleter to remove the faulty WAD causing the banner brick.
+#### Solutions
+If you have [Priiloader](priiloader) installed, enter it by holding RESET while turning your Wii on.
+Select Homebrew Channel, then use your WAD manager to uninstall the faulty WAD.
 
-Be cautious when deleting an incorrect WAD, as it can potentially cause further harm. You have been warned!
-{: .notice--danger}
+If you do not have Priiloader, Maintenance mode may be worth a try.
+Hold down `+` and `-` on the Health and Safety screen. (do not press `A`!)
 
-##### Mail brick
-A mail brick happens when your Wii has a lot of mail. This, will make the Wii crash. <br>
-To fix a mail brick, go to HBC by using Priiloader. Follow `Section III` on (this page)[https://wii.guide/deleting-vffs#section-iii---deleting-sysconf].
+If you are fortunate enough to get to the Wii menu, enter the Homebrew Channel and uninstall the faulty WAD.
 
-To determine if your Wii is a mail brick or a banner brick, power it on and simultaneously press the + and - buttons on your Wii remote. This will take you to `Maintenance Mode.` If the Wii Menu loads successfully, it is a `mail brick`. If not, it is a `banner brick`.
-{: .notice--info}
+## Theme brick
 
-##### System Menu brick
-This brick occurs when SYSCONF is missing or damaged. Here's how to find out.
-1. You get a Opera error page when you start your Wii. You can fix this by restoring a backup from your last NAND. If you don't know how, click (here)[bootmiirecover]. You also can recover by using a SaveMii dongle.
-2. Wii gives no signal. You can only recover by restoring your NAND with `BootMii as boot2`.
+#### Cause
+A theme brick occurs when a wrongly formatted theme is installed. 
 
-##### Low-level brick
-This brick occurs when boot1/boot2 is corrupt. You can only recover by using a NAND programmer.
+#### Solutions
+To resolve this issue, open HBC through Priiloader and access MyMenuifyMOD to install a default theme.
 
-##### IOS brick
-This brick happens when a System Menu IOS is missing `(IOS80)`. You can recover from this brick by restoring a NAND backup. You must have `BootMii as boot2` to do that, otherwise you need to use a NAND programmer to fix.
+## Semibrick
 
-##### Theme brick
-A brick occurs when a wrongly formatted theme is installed. To resolve this issue, open HBC through Priiloader and access MyMenuifyMOD to install a default theme.
+#### Cause
+A semibrick occurs when a different region System Menu or a different region custom theme is installed.
+This causes the Wii to fail to find the Wii settings page files.
+
+#### Solutions
+TODO: anything other than WML, it's freezing bug makes it particularly bad at this
+
+## Mail brick
+
+#### Cause
+A mail brick happens when your Wii has a lot of mail. This will make the Wii crash.
+
+#### Solutions
+To fix a mail brick, enter Maintenance mode by holding `+` and `-` on the Health and Safety screen. (do not press `A`!)
+Enter the Homebrew Channel, and follow `Section III` on [this page](https://wii.guide/deleting-vffs#section-iii---deleting-sysconf). <!-- TODO: implement delete in cdbackup -->
+
+## System Menu brick
+
+#### Cause
+This brick is a more fatal version of a [Semibrick](#semibrick). If your SYSCONF gets corrupt or damaged, the Wii will regenerate it and start the setup phase.
+
+However, the setup pages are in a similar location to the Wii settings pages. If you have an incorrect region System menu or theme, the Wii cannot find them.
+
+#### Solution
+
+If you still have [Priiloader](priiloader), use it to enter the Homebrew Channel and re-install the original theme file/original System menu.
+
+In case you do not have Priiloader, you can try [BlueBomb](bluebomb).
+
+## Wi-Fi brick
+
+#### Cause
+This brick arises when your Wii's Wi-Fi (or Bluetooth) module is damaged or not inserted properly.
+In such cases, the Wii gets stuck on a black screen while awaiting a response from IOS.
+
+You can try and differentiate by checking if your Wii remote still powers on your Wii.
+
+This will also happen on the Wii mini if you install a normal Wii IOS, because the Wii Mini does not have a Wi-Fi module.
+
+#### Solutions
+To resolve this problem, you can try reseat or replace the Wi-Fi/Bluetooth module.
+
+If you are on a Wii Mini, you must install a Wi-Fi module.
+
+## IOS brick
+
+#### Cause
+This brick happens when the System menu's IOS is a [stub](http://wiibrew.org/wiki/Stub_IOS). This is usually the consequence of attempting to downgrade your Wii menu.
+
+#### Solutions
+You must have BootMii as boot2 to fix this brick. Priiloader will not load.
+{: .notice}
+
+You can either restore a NAND backup, or do this:
+
+1. Use [NUS Downloader] to pack a WAD of your original System menu.
+1. Use BootMii to enter the Homebrew Channel, and use a WAD manager to install the System menu WAD.
+
+
+## Low-level brick
+
+#### Cause
+This brick occurs when boot1/boot2 is corrupt.
+
+#### Solutions
+You can only recover by using a NAND programmer.
