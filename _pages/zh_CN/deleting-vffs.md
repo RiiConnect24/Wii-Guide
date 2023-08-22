@@ -52,7 +52,7 @@ RiiConnect24 Clear Tool 是一个自制应用程序，可以修复以下特定�
 #### 第四部分 - 恢复 Wii 留言板数据
 
 1. 打开 Homebrew Channel，然后再次启动 cdbackup。
-1. 一旦提示，请按 `-` 来恢复 Wii 留言板数据备份。
+1. Once prompted, press `+` to restore the Wii Message Board data backup.
 1. 恢复过程完成后，按 `HOME` 回到 Homebrew Channel。
 
 #### 第五部分 - 同步 Wii 时间
