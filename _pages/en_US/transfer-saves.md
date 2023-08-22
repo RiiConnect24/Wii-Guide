@@ -2,7 +2,11 @@
 title: "Transferring Save games"
 ---
 
-This guide will explain how to transfer save games between a Wii/Wii U(vWii), Dolphin Emulator, GameCube memory cards and (Nintendont) emulated memory cards.
+This guide will explain how to transfer save games between:
+- a Wii/Wii U(vWii),
+- Dolphin Emulator,
+- GameCube memory cards,
+- and (Nintendont) emulated memory cards.
 
 <button class="btn btn--large btn--info tablinks" onClick="openTab_from(event, 'wii')">From a Wii/vWii</button>
 <button class="btn btn--large btn--info tablinks" onClick="openTab_from(event, 'dol')">From Dolphin Emulator</button>
@@ -281,12 +285,12 @@ Save files are stored individually as `.gci` files when Nintendont is set to use
 1. Select the slot you put your Memory card in.
 ![GCMM Select card slot](/images/gcsaves/gcmm-mem-select.jpg)
 1. Select the save you want to copy. You can press `1`/`R` to backup all of your saves.
-![GCMM backup menu](/images/gcsaves/gcmm-backup-menu.jpg)
+![GCMM backup menu](/images/gcsaves/gcmm-backup-save.jpg)
 1. Once backing up is complete, press any button to continue.
 1. Press HOME/START to return to the Homebrew Channel.
 
 The backup is saved in a folder named `MCBACKUP` on your SD/USB.
-- For Nintendont, copy the `.gci` file(s) to the root of the device used for Nintendont and name it `ninmem.raw`.
+- For Nintendont, copy the `.gci` file(s) to the root of the device used for Nintendont in a folder named `saves`.
 - For Dolphin Emulator, copy the `.gci` file(s) to `<User folder>/GC/<REGION>/Card A/`.
 {{ dolphin-user-folder }}
 
