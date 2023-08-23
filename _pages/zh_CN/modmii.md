@@ -15,31 +15,31 @@ title: "Modmii"
 
 ![Modmii](/images/Modmii/modmii.png)
 
-Modmii is a PC program for windows created by XFlak that has various helpful tools for modding, including some tutorials that may not be currently available here on the [wii.guide](site-navigation) website. <br> You can choose to launch in Modmii skin, which has a more user friendly approach, or launch in Modmii Classic, which interacts like a PC terminal or command prompt.
+Modmii 是由 XFlak 制作的 windows PC 程序，其中包含各种有用的修改工具，还包括一些目前在 [wii.guide](site-navigation) 网站上可能还没有的教程。 <br> 您可以选择在 Modmii skin 启动，它的用户界面更友好，也可以在 Modmii Classic 中启动，它的交互方式类似于 PC 终端或命令提示符。
 
-在 Modmii Skin 中可能无法访问一些高级功能。 A list of the various activities for Modmii Classic can be found at the bottom of the page.
+在 Modmii Skin 中可能无法访问一些高级功能。 可在页面底部找到各种 Modmii Classic 的活动列表。
 {: .notice--info}
 
 #### 你需要的是
 
 * 一台 Wii
 * 移动硬盘/U 盘或 SD 卡
-* A Windows PC (a Virtual Machine will work)
+* 一台 Windows PC（虚拟机也可以）
 * [Modmii](https://modmii.github.io/)
 
-This is a quick start guide on how to use Modmii on your Windows PC.
+这是如何在 Windows PC 上使用 Modmii 的快速入门指南。
 
-## ModMii Wizard
+## ModMii Wizard（ModMii 向导）
 
-You can use the ModMii wizard to softmod any Wii. <br> Even if the Wii has been softmodded in the past, you can have ModMii overwrite existing softmods by telling ModMii that this is the first time you're modding your Wii (even though it's not).
+您可以使用 ModMii wizard（向导）软破任何 Wii。 <br> 即使 Wii 曾经软破过，您也可以告诉 ModMii 这是您第一次软破 Wii（即使不是），从而让 ModMii 覆盖现有的软破。
 
-You can also use this wizard to set up a USB loader at the same time, instead of having to use the USB Loader setup wizard later on.
+您还可以使用这个向导同时设置 USB loader，而不必稍后再使用 USB loader 设置向导。
 
-## SysCheck Updater Wizard
+## SysCheck 更新向导
 
-[SysCheck](syscheck) is a homebrew application that analyzes the modifications on a Wii. <br> You can give a SysCheck report to ModMii to help identify & update outdated mods.
+[SysCheck](syscheck) 是一款自制应用程序，用于分析 Wii 上的修改。 <br> 您还可以向 ModMii 提供 SysCheck 报告，帮助识别 & 更新过时的修改。
 
-You can have ModMii analyze a SysCheck by dragging the `syscheck.csv` file onto ModMii.exe. Or, you can launch the SysCheck Updater Wizard (`SU`) from ModMii's main menu and manually browse for the file.
+您可以将 `syscheck.csv` 文件拖到 ModMii.exe 上，让 ModMii 分析 SysCheck。 Or, you can launch the SysCheck Updater Wizard (`SU`) from ModMii's main menu and manually browse for the file.
 
 ## HackMii Solutions Wizard
 
