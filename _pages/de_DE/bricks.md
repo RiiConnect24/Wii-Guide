@@ -48,7 +48,7 @@ If you are actually in the process of a region change, use [ARC-ME](https://gith
 #### Cause
 This brick is a more fatal version of a [Semibrick](#semibrick). If your SYSCONF gets corrupt or damaged, the Wii will regenerate it and start the setup phase.
 
-However, the setup pages are in a similar location to the Wii settings pages. If you have an incorrect region System menu or theme, the Wii cannot find them. ![System menu brick](/images/brick/sysmenu-brick.png)
+However, the setup pages are in a similar location to the Wii settings pages. If you have an incorrect region System menu or theme, the Wii cannot find them. ![System menu brick](/images/bricks/sysmenu-brick.png)
 
 #### Solutions
 
