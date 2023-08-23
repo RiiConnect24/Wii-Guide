@@ -26,9 +26,8 @@ Una de las funciones más importantes de BootMii es la capacidad de copiar y res
 Si has instalado BootMii como boot2, apaga y vuelve a encender la consola para iniciarlo, y luego salta al paso 3.
 {: .notice--info}
 
-1. Inicia el Canal Homebrew.
-
-2. Presiona el botón HOME y selecciona `Lanzar BootMii`.![Menú principal de BootMii](/images/BootMii/BootMii_Main.png)
+1. Launch the Homebrew Channel.
+1. Press the HOME Button, then select "Launch BootMii". ![BootMii_Main](/images/BootMii/BootMii_Main.png)
 
 Si la opción `Lanzar BootMii` no aparece, por favor [vuelve a iniciar el HackMii Installer](hackmii) e instala BootMii.
 {: .notice--info}
@@ -39,23 +38,23 @@ BootMii no es compatible con el Wii Remote. Para controlar la interfaz, deberás
 Si después de seguir los pasos anteriores, la pantalla se queda en negro y la luz de la ranura para discos comienza a parpadear, significa que faltan los archivos de BootMii que van en la tarjeta SD, o están dañados. Para solucionar este problema, descarga [este archivo ZIP](https://static.hackmii.com/bootmii_sd_files.zip), extrae su contenido a la raíz de la tarjeta SD, y luego vuelve a intentarlo.
 {: .notice--warning}
 
-3. Selecciona el botón de opciones (el que tiene dos engranajes).![Botón opciones](/images/BootMii/BootMii_Gears_Icon.png)
-
-4. Elige el botón de BackupMii (el que tiene una flecha verde).![Botón BackupMii](/images/BootMii/BootMii_Green_Arrow.png)
-
+1. Selecciona el botón de opciones (el que tiene dos engranajes).![Botón opciones](/images/BootMii/BootMii_Gears_Icon.png)
+1. Elige el botón de BackupMii (el que tiene una flecha verde).![Botón BackupMii](/images/BootMii/BootMii_Green_Arrow.png)
    - A continuación se empezará a crear el respaldo de la NAND. Puedes ver el progreso en pantalla.
    - Los bloques defectuosos (que se muestran en negro) son normales, así que no te preocupes si ves algunos mientras se genera el respaldo.
-   - Después de que el respaldo haya sido creado, este será analizado en busca de errores. Este paso es opcional y puedes saltarlo pulsando el botón EJECT de la consola, aunque se recomienda realizarlo. Ten en cuenta que si tienes un disco insertado, presionar EJECT lo expulsará.
+   - Después de que el respaldo haya sido creado, este será analizado en busca de errores. Ideally, all the blocks should be green after the verification process.
 
-5. Una vez que el proceso haya finalizado, vuelve al menú anterior pulsando cualquier botón.![Creación de respaldo de NAND](/images/BootMii/BootMii_NAND_Backup.png)
+1. Una vez que el proceso haya finalizado, vuelve al menú anterior pulsando cualquier botón.![Creación de respaldo de NAND](/images/BootMii/BootMii_NAND_Backup.png)
+1. Para salir de BootMii, oprime el botón con la flecha negra, y después elige el que tiene el icono del menú de Wii o el Canal Homebrew para salir a donde desees.![Botón volver](/images/BootMii/BootMii_Return_Arrow.png)
 
-6. Para salir de BootMii, oprime el botón con la flecha negra, y después elige el que tiene el icono del menú de Wii o el Canal Homebrew para salir a donde desees.![Botón volver](/images/BootMii/BootMii_Return_Arrow.png)
+<div id="restore-notice" class="notice" markdown="1">
+To restore from a NAND backup on your SD card, you can follow the instructions for [RestoreMii](bootmiirecover).
+Please be reminded that <strong>restoring a NAND backup is usually a last resort,</strong> and that there often better ways to fix your brick.
+Try your best to [identify your brick condition](bricks) and reverse the action that caused it in the first place.
+</div>
 
-Para restaurar un respaldo de la NAND desde la tarjeta SD, sigue estos mismos pasos, con la única diferencia en el paso 4, donde deberás seleccionar el botón de RestoreMii (el que tiene la flecha roja), en lugar del botón con la flecha verde. Esto puede ayudarte a recuperar tu consola de un brick, en el improbable caso de que necesites hacerlo. ![Botón RestoreMii](/images/BootMii/BootMii_Red_Arrow.png)
+To make sure you don’t lose the files, it's recommended to copy `nand.bin` and `keys.bin` from the root of your SD card to your computer.
 {: .notice--info}
 
-Para evitar perder los archivos de la copia de seguridad, te sugerimos copiar los archivos `nand.bin` y `keys.bin`, ubicados en la raíz de la tarjeta SD, a tu PC o un almacenamiento en la nube.
-{: .notice--info}
-
-[Continuar a la instalación de Priiloader](priiloader)<br> Priiloader añade una capa de protección contra bricks, por lo que recomendamos su instalación, especialmente si solo pudiste instalar BootMii como IOS.
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and is highly recommended, especially if you were only able to install BootMii as IOS.
 {: .notice--info}
