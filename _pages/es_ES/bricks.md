@@ -92,7 +92,7 @@ Since this brick most often occurs after the System menu updates, Priiloader wil
 
 Korean Wiis also released with System menu 3.3, around the time that Nintendo [fixed the Trucha bug in boot1](https://wiibrew.org/wiki/3.3#Changes), so BootMii as Boot2 cannot be installed to any Korean Wii.
 
-The only way to fix this brick is with [BlueBomb](bluebomb), or a way to launch homebrew by launching a game through the Recovery menu.
+The only way to fix this brick is a way to launch homebrew by launching a game through the Recovery menu.
 
 ## IOS brick
 
