@@ -37,6 +37,7 @@ sitemap: false
 
 - [BlueBomb](bluebomb)
 - [BootMii Backup](bootmii)
+- [BootMii Recovery](bootmiirecover)
 - [cIOS](cios)
 - [Faça e Não Faça de modding de Wii](dosanddonts)
 - [FlashHax](flashhax)
@@ -47,6 +48,7 @@ sitemap: false
 - [Priiloader](priiloader)
 - [Reiniciando o HackMii Installer](hackmii)
 - [str2hax](str2hax)
+- [Types of Bricks](bricks)
 - [Wii Mod Lite](wiimodlite)
 - [Wilbrand](wilbrand)
 
