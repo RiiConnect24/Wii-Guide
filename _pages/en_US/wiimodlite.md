@@ -10,7 +10,7 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 Wii Mod Lite is an application that allows you to manage installed titles, install WAD files, modify your Wii's region settings and IOS. <br>
 This tutorial will show you how to install WADs.
 
-It is recommended to use [YAWMME](yawmme) to install WAD files. It has checks in place to prevent bricks from installing WADs.
+It is recommended to use [YAWM ModMii Edition](yawmme) to install WAD files. It has checks in place to prevent bricks from installing WADs.
 {: .notice--warning}
 
 #### What you need
