@@ -96,7 +96,7 @@ You must have BootMii as boot2 to fix this brick. Priiloader will not load.
 
 You can either restore a NAND backup, or do this:
 
-1. Use [NUS Downloader] to pack a WAD of your original System menu.
+1. Use [NUS Downloader](https://wiibrew.org/wiki/NUSD) to pack a WAD of your original System menu.
 1. Use BootMii to enter the Homebrew Channel, and use a WAD manager to install the System menu WAD.
 
 
