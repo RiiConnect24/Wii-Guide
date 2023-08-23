@@ -26,9 +26,8 @@ BootMii最重要的功能之一就是能备份和恢复Wii的NAND. 我们将学�
 如果您已安装BootMii到boot2, 您将需要重启主机以启动BootMii. 如果是这种情况，请跳过步骤1和2。
 {: .notice--info}
 
-1. 启动 Homebrew Channel。
-
-2. 按下 HOME 按钮，然后选择 “Launch BootMii”。 ![BootMii_Main](/images/BootMii/BootMii_Main.png)
+1. Launch the Homebrew Channel.
+1. Press the HOME Button, then select "Launch BootMii". ![BootMii_Main](/images/BootMii/BootMii_Main.png)
 
 如果没有出现 `Launch BootMii` 按钮，请 [重新启动 HackMii Installer](hackmii) 并安装 BootMii。
 {: .notice--info}
@@ -39,23 +38,23 @@ BootMii最重要的功能之一就是能备份和恢复Wii的NAND. 我们将学�
 如果一直黑屏且光驱的蓝灯闪烁，说明您的 SD 卡上缺少 BootMii 文件。 下载 [此 zip 文件](https://static.hackmii.com/bootmii_sd_files.zip) 并将其解压到 SD 卡的根目录，然后再次尝试。
 {: .notice--warning}
 
-3. 选择选项按钮（带齿轮图标的按钮）。 ![BootMii_Gears_Icon](/images/BootMii/BootMii_Gears_Icon.png)
-
-4. 选择 BackupMii 按钮。 ![BootMii_Green_Arrow](/images/BootMii/BootMii_Green_Arrow.png)
-
+1. 选择选项按钮（带齿轮图标的按钮）。 ![BootMii_Gears_Icon](/images/BootMii/BootMii_Gears_Icon.png)
+1. 选择 BackupMii 按钮。 ![BootMii_Green_Arrow](/images/BootMii/BootMii_Green_Arrow.png)
    - 将启动NAND备份。 您将在屏幕上看到进度。
    - "Bad Blocks(坏块)"是正常的。 当您看到时不用担心。
-   - 在这一步后，它会验证这个备份。 虽然推荐，但您可以按EJECT按钮跳过。 请注意，如果光驱里有光盘，按EJECT会同时弹出光盘。
+   - 在这一步后，它会验证这个备份。 Ideally, all the blocks should be green after the verification process.
 
-5. 当备份完成后，按任意按钮以退出 NAND 备份。 ![BootMii_NAND_Backup](/images/BootMii/BootMii_NAND_Backup.png)
+1. 当备份完成后，按任意按钮以退出 NAND 备份。 ![BootMii_NAND_Backup](/images/BootMii/BootMii_NAND_Backup.png)
+1. 要退出 BootMii，按返回按钮（带箭头的那个)，然后您可以按 Wii 菜单按钮或 Homebrew Channel 按钮来退出到您想要的地方。 ![BootMii_Return_Arrow](/images/BootMii/BootMii_Return_Arrow.png)
 
-6. 要退出 BootMii，按返回按钮（带箭头的那个)，然后您可以按 Wii 菜单按钮或 Homebrew Channel 按钮来退出到您想要的地方。 ![BootMii_Return_Arrow](/images/BootMii/BootMii_Return_Arrow.png)
+<div id="restore-notice" class="notice" markdown="1">
+To restore from a NAND backup on your SD card, you can follow the instructions for [RestoreMii](bootmiirecover).
+Please be reminded that <strong>restoring a NAND backup is usually a last resort,</strong> and that there often better ways to fix your brick.
+Try your best to [identify your brick condition](bricks) and reverse the action that caused it in the first place.
+</div>
 
-要使用 SD 卡上的 NAND 备份进行恢复，您可以按照使用 RestoreMii 的说明进行操作。 这在您的 Wii 意外变砖时非常有用。 ![BootMii_Red_Arrow](/images/BootMii/BootMii_Red_Arrow.png)
+To make sure you don’t lose the files, it's recommended to copy `nand.bin` and `keys.bin` from the root of your SD card to your computer.
 {: .notice--info}
 
-为确保不会丢失文件，建议将 SD 卡根目录的 `nand.bin` 和 `keys.bin` 复制到您的电脑。
-{: .notice--info}
-
-[继续安装 Priiloader](priiloader)<br> 强烈推荐使用 Priiloader，因为它添加了一定程度的变砖保护，尤其是如果您只能将 BootMii 安装为 IOS 时。
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and is highly recommended, especially if you were only able to install BootMii as IOS.
 {: .notice--info}
