@@ -52,7 +52,7 @@ Deletar o SYSCONF vai apagar o histórico do Wii Message Board. Siga a seção a
 #### Section IV - Putting back Wii Message Board Data
 
 1. Launch the Homebrew Channel, and launch cdbackup again.
-1. Once prompted, press `-` to restore the Wii Message Board data backup.
+1. Once prompted, press `+` to restore the Wii Message Board data backup.
 1. Once the restore process has finished, press `HOME` to return to the Homebrew Channel.
 
 #### Section V - Synchronizing Wii Time

@@ -45,7 +45,7 @@ Se você estiver usando um armazenamento USB para instalar o Priiloader, certifi
 1. Scroll to `System Menu` and press A to launch it.
 1. Launch your game through the Disc channel. It should be patched with Wiimmfi.
 
-If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file.<br> Download it from [here](https://github.com/DacoTaco/priiloader/blob/master/src/priiloader/hacks_hash.ini) and place it in `/apps/priiloader/hacks_hash.ini` on your SD card or USB drive.<br> Then, repeat the previous steps.
+If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file, and you need to [re-install Priiloader](priiloader). Then, repeat the previous steps.
 {: .notice--warning}
 
 ### Aplicativo Homebrew (Disco)
@@ -200,7 +200,7 @@ Alguns jogos que são DSi enhanced o que significa que você pode jogar jogos on
 4. Digite `1.1.1.1` como DNS secundário.
 5. Salve suas configurações de internet e faça um teste de conexão. Se for bem sucedido, então você está pronto para jogar.
 
-Se você obter error 20110, significa que sua provedora de internet ou rede está bloqueando o uso de um DNS. Você pode definir `Auto-Obtain DNS` em `On` para resolver isso. RiiConnect24 ainda vai funcionar sem ele. Ou, você pode usar nosso programa [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest).
+Se você obter error 20110, significa que sua provedora de internet ou rede está bloqueando o uso de um DNS. You can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program to bypass this.
 {: .notice--warning}
 
 Se você não pode utilizar Sudomemo, que revive o Flipnote Studio no DSi, se estiver usando este DNS. Se quiser utilizar o Sudomemo ao invés de jogar jogos com o Wiimmfi, você terá que colocar seu DNS primário como `104.248.0.110` em Wi-Fi settings no seu DSi ou 3DS, não DS Wi-Fi settings. Ou, você pode usar o programa [DNS-Server](https://github.com/Sudomemo/sudomemoDNS).
