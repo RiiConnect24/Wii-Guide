@@ -72,9 +72,9 @@ You will now install the patched IOS and Channel WADs that are required to use R
 
 1. Put your SD card or USB drive in your Wii.
 2. Launch the Homebrew Channel on your Wii.
-3. Launch Wii Mod Lite.
-4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
-5. Highlight all the WADs in the folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
+3. Launch YAWM ModMii Edition.
+4. Select the device you have put the RiiConnect24 files on.
+5. Highlight all the WADs in the `wad` folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
 6. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press the - Button on the highlighted WAD to uninstall it, then try installing it again.
 7. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
@@ -119,7 +119,7 @@ You will now set your DNS to our servers. This is optional but it's recommended,
 It's common to get error FORE000006 on the Forecast Channel after installing RiiConnect24. If you get it, make sure your Wii's to the correct date and time, then wait no more than an hour and it may start working. [If you still get error FORE000006 or if you get NEWS000006, you will need to delete your SYSCONF with RC24-Clear-Tool](deleting-vffs).
 {: .notice--warning}
 
-If you get error 107245, then you have not installed the patched IOS. Make sure you install IOS31 and IOS80 with Wii Mod Lite, along with any other patched WADs.
+If you get error 107245, then you have not installed the patched IOS. Make sure you install IOS31 and IOS80 with YAWM ModMii Edition, along with any other patched WADs.
 {: .notice--warning}
 
 If you get error 220602 when loading the User Agreements, it means your Wii is still configured to use the old DNS server, which has been shut down on `June 1, 2023`. [Read more here.](riiconnect24-dns-update)
