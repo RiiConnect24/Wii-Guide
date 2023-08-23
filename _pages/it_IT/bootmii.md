@@ -26,9 +26,8 @@ Una delle funzioni più importanti di BootMii è la possibilità di fare e ripri
 Se hai BootMii installato come boot2 dovrai avviare BootMii riavviando la tua console. In questo caso salta i passaggi 1 e 2.
 {: .notice--info}
 
-1. Avvia l'Homebrew Channel.
-
-2. Premi il pulsante HOME, dopodiché seleziona "Launch BootMii". ![BootMii_Main](/images/BootMii/BootMii_Main.png)
+1. Launch the Homebrew Channel.
+1. Press the HOME Button, then select "Launch BootMii". ![BootMii_Main](/images/BootMii/BootMii_Main.png)
 
 Se il pulsante `Launch BootMii` non appare, per favore [riavvia l'HackMii Installer](hackmii) e installa BootMii.
 {: .notice--info}
@@ -39,23 +38,23 @@ Navigare in BootMii non è possibile utilizzando un Wii Remote. Dovrai utilizzar
 Se lo schermo resta nero e la luce blu del lettore dischi lampeggia, mancano i file di BootMii sulla tua scheda SD. Scarica [questo archivio zip](https://static.hackmii.com/bootmii_sd_files.zip) ed estrailo nella root della tua scheda SD, dopodiché riprova.
 {: .notice--warning}
 
-3. Seleziona il pulsante Opzioni (l'icona con l'ingranaggio). ![BootMii_Gears_Icon](/images/BootMii/BootMii_Gears_Icon.png)
-
-4. Seleziona il pulsante BackupMii. ![BootMii_Green_Arrow](/images/BootMii/BootMii_Green_Arrow.png)
-
+1. Seleziona il pulsante Opzioni (l'icona con l'ingranaggio). ![BootMii_Gears_Icon](/images/BootMii/BootMii_Gears_Icon.png)
+1. Seleziona il pulsante BackupMii. ![BootMii_Green_Arrow](/images/BootMii/BootMii_Green_Arrow.png)
    - Un backup della NAND inizierà. Puoi guardare il processo su schermo.
    - I "Blocchi Danneggiati" sono normali. Non ti preoccupare se ne vedi alcuni su un backup della NAND.
-   - Dopo questo passaggio, verrà verificato il backup. Anche se consigliata da effettuare, puoi saltare la verifica premendo il pulsante EJECT sulla tua Wii. Nota bene che se hai un disco inserito nel lettore dischi, premere il tasto EJECT espellerà anche il disco.
+   - Dopo questo passaggio, verrà verificato il backup. Ideally, all the blocks should be green after the verification process.
 
-5. Quando il backup sarà completo, esci dalla schermata di backup della NAND premendo un pulsante qualsiasi. ![BootMii_NAND_Backup](/images/BootMii/BootMii_NAND_Backup.png)
+1. Quando il backup sarà completo, esci dalla schermata di backup della NAND premendo un pulsante qualsiasi. ![BootMii_NAND_Backup](/images/BootMii/BootMii_NAND_Backup.png)
+1. Per uscire da BootMii, premi il pulsante Indietro (quello con la freccia) e dopodiché potrai premere o il pulsante per il Menu Wii oppure il pulsante per l'Homebrew Channel per tornare dove tu voglia. ![BootMii_Return_Arrow](/images/BootMii/BootMii_Return_Arrow.png)
 
-6. Per uscire da BootMii, premi il pulsante Indietro (quello con la freccia) e dopodiché potrai premere o il pulsante per il Menu Wii oppure il pulsante per l'Homebrew Channel per tornare dove tu voglia. ![BootMii_Return_Arrow](/images/BootMii/BootMii_Return_Arrow.png)
+<div id="restore-notice" class="notice" markdown="1">
+To restore from a NAND backup on your SD card, you can follow the instructions for [RestoreMii](bootmiirecover).
+Please be reminded that <strong>restoring a NAND backup is usually a last resort,</strong> and that there often better ways to fix your brick.
+Try your best to [identify your brick condition](bricks) and reverse the action that caused it in the first place.
+</div>
 
-Per ripristinare un backup della NAND sulla tua scheda SD, potrai seguire queste istruzioni usando RestoreMii. Questo è utile nel caso improbabile che venga causato un brick alla tua Wii. ![BootMii_Red_Arrow](/images/BootMii/BootMii_Red_Arrow.png)
+To make sure you don’t lose the files, it's recommended to copy `nand.bin` and `keys.bin` from the root of your SD card to your computer.
 {: .notice--info}
 
-Per essere sicuro che tu non perda i file, è consigliato copiare i file `nand.bin` e `keys.bin` dalla root della tua scheda SD al tuo computer.
-{: .notice--info}
-
-[Continua con l'installazione di Priiloader](priiloader)<br> Priiloader aggiunge un livello di protezione da brick, ed è estremamente consigliato, specialmente in caso tu sia stato costretto a installare BootMii come IOS.
+[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and is highly recommended, especially if you were only able to install BootMii as IOS.
 {: .notice--info}
