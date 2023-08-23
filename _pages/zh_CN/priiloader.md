@@ -68,7 +68,7 @@ Priiloader 0.10.0 引入了 vWii 支持！ <br> 有一些重要事项需要注�
 如果您已将 Priiloader installer 放在 U 盘上，请确保没有同时插入 SD 卡。 <br> 这将导致 Priiloader 找不到 `hacks_hash.ini` 文件。
 {: .notice--warning}
 
-1. 在每个您想启用的 hack 上按 `A`。 We recommend that you enable "Block Disc Updates", "Block Online Updates", and "Region Free EVERYTHING". ![System menu hacks 列表](/images/Priiloader/system_menu_hacks.png)
+1. 在每个您想启用的 hack 上按 `A`。 我们建议您启用 "Block Disc Updates"、"Block Online Updates" 和 "Region Free EVERYTHING"。 ![System menu hacks 列表](/images/Priiloader/system_menu_hacks.png)
 1. 滚动到 `save settings` 并按 `A`。
 1. 按 `B` 回到主菜单。
 
