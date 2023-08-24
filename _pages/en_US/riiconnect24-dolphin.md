@@ -61,7 +61,7 @@ If you use a Windows version before Windows 10, you unfortunately cannot use Wii
 7. Select your region.
 ![Select your region](/images/RC24_Patcher/5.JPG)
 8. While you're at it, RiiConnect24 Patcher can additionally download some other optional channels that do not use RiiConnect24. `[X]` represents the options that selected. Just press 5 and `ENTER` if you're not interested.
-![Additional optional channels](/images/RC24_Patcher/6.JPG
+![Additional optional channels](/images/RC24_Patcher/6.JPG)
 9. Press `1` then `ENTER` to start patching.
 10. Be patient...
 ![It's patching!](/images/RC24_Patcher/9.JPG)
