@@ -56,7 +56,7 @@ Se você usar uma versão do Windows antes do Windows 10, infelizmente você nã
 5. Para este guia, escolha "`Install RiiConnect24 on your Dolphin Emulator`" ![Instale RiiConnect24](/images/RC24_Patcher/3.JPG)
 6. Escolha "`Express (Recomemended)`". Ele vai te dar tudo que você precisa. ![Configurações Expressas](/images/RC24_Patcher/4.JPG)
 7. Selecione sua região. ![Selecione sua região](/images/RC24_Patcher/5.JPG)
-8. Enquanto estiver nisso, o RiiConnect24 Patcher pode também baixar alguns outros canais opcionais que não usam o RiiConnect24. `[X]` representa as opções selecionadas. Basta pressionar 5 e `ENTER` se você não estiver interessado. !\[Canais opcionais adicionais\](/images/RC24_Patcher/6.JPG
+8. Enquanto estiver nisso, o RiiConnect24 Patcher pode também baixar alguns outros canais opcionais que não usam o RiiConnect24. `[X]` representa as opções selecionadas. Basta pressionar 5 e `ENTER` se você não estiver interessado. ![Canais opcionais adicionais](/images/RC24_Patcher/6.JPG)
 9. Pressione `1` e depois `ENTER` para começar o patching.
 10. Tenha paciência... ![Está fazendo o patch!](/images/RC24_Patcher/9.JPG)
 11. Depois de concluído, nós gostaríamos que você dedicasse um minuto para enviar sua experiencia anônima para nós.  Se você não quiser feche o programa. Todos os arquivos já devem estar no seu cartão SD. ![Está feito!](/images/RC24_Patcher/10.JPG) ![Arquivos copiados](/images/RC24_Patcher/11.PNG)
