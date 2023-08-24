@@ -56,7 +56,7 @@ Dolphin이 이미 설치되어 있는 경우 섹션 II로 건너뛰세요.
 5. 이 가이드에서는 "`Dolphin 에뮬레이터에 RiiConnect24 설치하기`"를 선택하세요. ![RiiConnect24 설치](/images/RC24_Patcher/3.JPG)
 6. "`익스프레스 (권장)`"를 선택합니다. 필요한 모든 것을 제공합니다. ![빠른 설정](/images/RC24_Patcher/4.JPG)
 7. 지역을 선택하세요.![지역 선택](/images/RC24_Patcher/5.JPG)
-8. 그 동안 RiiConnect24 패치 관리자는 RiiConnect24를 사용하지 않는 다른 옵션 채널을 추가로 다운로드할 수 있습니다. `[X]`은 선택한 옵션을 나타냅니다. 관심이 없다면 5와 `ENTER`를 누르면 됩니다. !\[추가 옵션 채널\](/images/RC24_Patcher/6.JPG
+8. 그 동안 RiiConnect24 패치 관리자는 RiiConnect24를 사용하지 않는 다른 옵션 채널을 추가로 다운로드할 수 있습니다. `[X]`은 선택한 옵션을 나타냅니다. 관심이 없다면 5와 `ENTER`를 누르면 됩니다. ![추가 옵션 채널](/images/RC24_Patcher/6.JPG)
 9. `1`을 누른 다음 `ENTER`을 눌러 패치를 시작합니다.
 10. 인내심을 가지세요...![패치 중입니다!](/images/RC24_Patcher/9.JPG)
 11. 완료된 후 잠시 시간을 내어 익명으로 피드백을 보내주시면 감사하겠습니다.  원하지 않는 경우 패치 관리자를 닫으세요. 모든 파일은 이미 SD 카드에 저장되어 있어야 합니다. ![완료되었습니다!](/images/RC24_Patcher/10.JPG) ![파일 복사됨](/images/RC24_Patcher/11.PNG)
