@@ -91,28 +91,28 @@ HackMii Solutions wizard 可以帮助修以下症状：
 <details id="Modmii-Options" class="notice--info" markdown="1">
 <summary><a>点击这里查看可用选项的完整列表。</a></summary>
 
-| 选项                                                               | 描述                                                                                                            |
-| ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| D = Change Drive letter:                                         | 更改 SD 文件的保存位置。                                                                                                |
-| DU = Change Drive letter for USB:                                | 更改 USB 文件的保存位置。                                                                                               |
-| d2x = change d2x cIOS version built:                             | 更改 Modmii 下载的 cios 版本。                                                                                        |
-| H = Hermes cIOSs (202 & 222-224) will also be recommended        | 允许在 syscheck updater 中推荐并下载 Hermes IOS（将在禁用时存根）。                                                              |
-| CM = cMIOS included in recommended cIOSs                         | Enables cMIOS to be recommended and downloaded in the syscheck updater (will install stock MIOS if disabled). |
-| E = Extra Brick Protection in ModMii Wizard Guides               | Enables Modmiis Extra Brick Protection IOSes to be recommended and used in the syscheck updater tool.         |
-| U = 更新 IOS。 Wizard/SysCheck-Updater 更新活动 IOS                     | 将现有 IOS 更新为 NUS 上的最新版本。                                                                                       |
-| AU = 如果有缓存，自动下载更新将跳过更新检查                                         | 如果文件已在队列中，将跳过下载。                                                                                              |
-| FWD = 在 ModMii Wizard 中安装 USB-Loader 转发器                         | 将在 USB loader 向导指南中包含 USB loader 转发程序的 wad 文件。                                                                |
-| PC = PC 程序保存位置                                                   | Changes the save location for the downloadable PC programs.                                                   |
-| RS = Root Save: Save IOSs\MIOSs to Root instead of WAD Folder   | Saves IOSs\MIOSs to Root instead of WAD Folder.                                                              |
-| 1 = Do not Keep 00000001 or NUS Folders for IOSs\MIOSs\SMs etc | Deletes the folder used for compiling the wad file and just gives you the wad file.                           |
-| n2o = neek2o - build mod of s\uneek instead of original         | Uses a better modified version of neek2o in the EmuNAND builder.                                              |
-| SSD = SNEEK and SNEEK+DI SD Access                               | Allows for SNEEK and SNEEK+DI access on the SD card.                                                          |
-| F = Font.bin Colour for SNEEK/UNEEK                              | Changes the font color for neek2o.                                                                            |
-| SV = SNEEK Verbose Output                                        | Displays extra information regarding EmuNAND.                                                                 |
-| V = Verbose for ModMii Skin & nandBinCheck                       | Displays another window with extra information regarding a nand check.                                        |
-| SO = Play sound at Finish                                        | Plays a fun jingle after a successful download.                                                               |
-| A = Auto-Update ModMii at program start                          | Will automatically check for updates when Modmii is launched.                                                 |
-| N = Check for New versions of ModMii right now                   | Will check online for a Modmii update.                                                                        |
+| 选项                                                               | 描述                                                 |
+| ---------------------------------------------------------------- | -------------------------------------------------- |
+| D = Change Drive letter:                                         | 更改 SD 文件的保存位置。                                     |
+| DU = Change Drive letter for USB:                                | 更改 USB 文件的保存位置。                                    |
+| d2x = change d2x cIOS version built:                             | 更改 Modmii 下载的 cios 版本。                             |
+| H = Hermes cIOSs (202 & 222-224) will also be recommended        | 允许在 syscheck updater 中推荐并下载 Hermes IOS（将在禁用时存根）。   |
+| CM = cMIOS included in recommended cIOSs                         | 允许在 syscheck updater 中推荐并下载 cMIOS（如果禁用则安装原始 MIOS）。 |
+| E = Extra Brick Protection in ModMii Wizard Guides               | 允许在 syscheck updater tool 中推荐和使用 Modmii 额外防砖 IOS。  |
+| U = 更新 IOS。 Wizard/SysCheck-Updater 更新活动 IOS                     | 将现有 IOS 更新为 NUS 上的最新版本。                            |
+| AU = 如果有缓存，自动下载更新将跳过更新检查                                         | 如果文件已在队列中，将跳过下载。                                   |
+| FWD = 在 ModMii Wizard 中安装 USB-Loader 转发器                         | 将在 USB loader 向导指南中包含 USB loader 转发程序的 wad 文件。     |
+| PC = PC 程序保存位置                                                   | 更改可下载 PC 程序的保存位置。                                  |
+| RS = Root Save: Save IOSs\MIOSs to Root instead of WAD Folder   | 将 IOS\MIOS 保存到根目录而不是 WAD 文件夹。                     |
+| 1 = Do not Keep 00000001 or NUS Folders for IOSs\MIOSs\SMs etc | 删除用于编译 wad 文件的文件夹，只提供 wad 文件。                      |
+| n2o = neek2o - build mod of s\uneek instead of original         | 在 EmuNAND builder 中使用经过改进版本的 neek2o。               |
+| SSD = SNEEK and SNEEK+DI SD Access                               | 允许访问 SD 卡上的 SNEEK 和 SNEEK+DI。                      |
+| F = Font.bin Colour for SNEEK/UNEEK                              | 更改 neek2o 的字体颜色。                                   |
+| SV = SNEEK Verbose Output                                        | 显示有关 EmuNAND 的额外信息。                                |
+| V = Verbose for ModMii Skin & nandBinCheck                       | 显示另一个窗口，其中包含有关 nand 检查的额外信息。                       |
+| SO = Play sound at Finish                                        | 下载成功后或播放一段有趣的小曲。                                   |
+| A = Auto-Update ModMii at program start                          | 将在启动 Modmii 时自动检查更新。                               |
+| N = Check for New versions of ModMii right now                   | 将在线检查 Modmii 更新。                                   |
 
 </details>
 
