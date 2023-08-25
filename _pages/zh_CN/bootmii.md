@@ -26,8 +26,8 @@ BootMii最重要的功能之一就是能备份和恢复Wii的NAND. 我们将学�
 如果您已安装BootMii到boot2, 您将需要重启主机以启动BootMii. 如果是这种情况，请跳过步骤1和2。
 {: .notice--info}
 
-1. Launch the Homebrew Channel.
-1. Press the HOME Button, then select "Launch BootMii". ![BootMii_Main](/images/BootMii/BootMii_Main.png)
+1. 启动 Homebrew Channel。
+1. 按下 HOME 按钮，然后选择 “Launch BootMii”。 ![BootMii_Main](/images/BootMii/BootMii_Main.png)
 
 如果没有出现 `Launch BootMii` 按钮，请 [重新启动 HackMii Installer](hackmii) 并安装 BootMii。
 {: .notice--info}
@@ -42,7 +42,7 @@ BootMii最重要的功能之一就是能备份和恢复Wii的NAND. 我们将学�
 1. 选择 BackupMii 按钮。 ![BootMii_Green_Arrow](/images/BootMii/BootMii_Green_Arrow.png)
    - 将启动NAND备份。 您将在屏幕上看到进度。
    - "Bad Blocks(坏块)"是正常的。 当您看到时不用担心。
-   - 在这一步后，它会验证这个备份。 Ideally, all the blocks should be green after the verification process.
+   - 在这一步后，它会验证这个备份。 理想情况下，验证过程结束后，所有区块都应为绿色。
 
 1. 当备份完成后，按任意按钮以退出 NAND 备份。 ![BootMii_NAND_Backup](/images/BootMii/BootMii_NAND_Backup.png)
 1. 要退出 BootMii，按返回按钮（带箭头的那个)，然后您可以按 Wii 菜单按钮或 Homebrew Channel 按钮来退出到您想要的地方。 ![BootMii_Return_Arrow](/images/BootMii/BootMii_Return_Arrow.png)
