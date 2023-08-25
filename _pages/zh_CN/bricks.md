@@ -1,40 +1,40 @@
 ---
-title: "Bricks"
+title: "变砖"
 ---
 
 {% include toc title="Table of Contents" %}
 
-A "Brick" usually means your Wii has reached a state where, it's only use is that of a literal [brick](https://wikipedia.org/wiki/Brick). <br> Bricks can occur for a variety of reasons, usually caused by improper system modifications via homebrew.
+“变砖” 通常意味着您的 Wii 已经进入了一种状态，只能像字面意思上的[砖块](https://wikipedia.org/wiki/Brick)一样使用。 <br> 变砖的原因很多，通常是由于通过自制对系统进行的不当修改所致。
 
-Here, we will discuss the different types of bricks, as well as some potential solutions.
+在此，我们将讨论不同类型的变砖，以及一些潜在的解决方案。
 
-## Banner brick
+## Banner brick（横幅砖）
 
-#### Cause
-Banner bricks occur when a corrupted WAD file is installed on the system menu.
+#### 原因
+Banner bricks（横幅砖）在系统菜单上安装了损坏的 WAD 文件时发生。
 
-#### Solutions
-If you have [Priiloader](priiloader) installed, enter it by holding RESET while turning your Wii on. Select Homebrew Channel, then use your WAD manager to uninstall the faulty WAD.
+#### 解决方案
+如果安装了 [Priiloader](priiloader)，请在打开 Wii 时按住 RESET 进入。 选择 Homebrew Channel，然后使用 WAD 管理器卸载有问题的 WAD。
 
-If you do not have Priiloader, Maintenance mode may be worth a try. Hold down `+` and `-` on the Health and Safety screen. (do not press `A`!)
+如果没有 Priiloader，维护模式也许值得一试。 在健康与安全屏幕上按住 `+` 和 `-`。 （不要按 `A`！）
 
-If you are fortunate enough to get to the Wii menu, enter the Homebrew Channel and uninstall the faulty WAD.
+如果有幸进入 Wii 菜单，请进入 Homebrew Channel 并卸载有问题的 WAD。
 
-## Theme brick
+## Theme brick（主题砖）
 
-#### Cause
-A theme brick occurs when a wrongly formatted theme is installed.
+#### 原因
+Theme brick（主题砖）在安装了格式错误的主题时发生。
 
-#### Solutions
-To resolve this issue, open HBC through Priiloader and access MyMenuifyMOD to install a default theme.
+#### 解决方案
+要解决此问题，请通过 Priiloader 打开 HBC 并访问 MyMenuifyMOD 以安装默认主题。
 
-## Semibrick
+## Semibrick（半砖）
 
-#### Cause
-A semibrick occurs when a different region System Menu or a different region custom theme is installed. This causes the Wii to fail to find the Wii settings page files. ![Semibrick](/images/bricks/semibrick.png)
+#### 原因
+Semibrick（半砖）在安装了不同区域的系统菜单或不同区域的自定义主题时发生。 这会导致 Wii 找不到 Wii 设置页面文件。 ![Semibrick（半砖）](/images/bricks/semibrick.png)
 
-#### Solutions
-If this was caused by a theme you installed, use MyMenuifyMod to re-download the original theme file.
+#### 解决方案
+如果这是由您安装的主题造成的，请使用 MyMenuifyMod 重新下载原始主题文件。
 
 如果这是由您安装的系统菜单 WAD 引起的，使用 [NUS Downloader](https://wiibrew.org/wiki/NUSD)重新获取原始系统菜单。
 
@@ -105,14 +105,14 @@ If this was caused by a theme you installed, use MyMenuifyMod to re-download the
 
 您可以还原 NAND 备份，或执行以下步骤：
 
-1. Use [NUS Downloader](https://wiibrew.org/wiki/NUSD) to pack a WAD of your original System menu.
-1. Use BootMii to enter the Homebrew Channel, and use a WAD manager to install the System menu WAD.
+1. 使用[NUS Downloader](https://wiibrew.org/wiki/NUSD) 打包原始系统菜单的 WAD。
+1. 使用 BootMii 进入 Homebrew Channel，并使用 WAD 管理器安装系统菜单 WAD。
 
 
-## Low-level brick
+## Low-level brick（低层砖）
 
-#### Cause
-This brick occurs when boot1/boot2 is corrupt.
+#### 原因
+当 boot1/boot2 损坏时会出现此故障。
 
-#### Solutions
-You can only recover by using a NAND programmer.
+#### 解决方案
+只能使用 NAND 编程器恢复。
