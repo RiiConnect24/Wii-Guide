@@ -48,13 +48,13 @@ BootMii最重要的功能之一就是能备份和恢复Wii的NAND. 我们将学�
 1. 要退出 BootMii，按返回按钮（带箭头的那个)，然后您可以按 Wii 菜单按钮或 Homebrew Channel 按钮来退出到您想要的地方。 ![BootMii_Return_Arrow](/images/BootMii/BootMii_Return_Arrow.png)
 
 <div id="restore-notice" class="notice" markdown="1">
-To restore from a NAND backup on your SD card, you can follow the instructions for [RestoreMii](bootmiirecover).
-Please be reminded that <strong>restoring a NAND backup is usually a last resort,</strong> and that there often better ways to fix your brick.
-Try your best to [identify your brick condition](bricks) and reverse the action that caused it in the first place.
+要从 SD 卡上的 NAND 备份还原，您可以按照 [RestoreMii](bootmiirecover) 的说明进行操作。
+请注意，<strong>还原 NAND 备份通常是不得已而为之，</strong>通常有更好的办法来修复您的问题。
+请尽力[确定您的变砖情况](bricks)并撤销导致问题的操作。
 </div>
 
-To make sure you don’t lose the files, it's recommended to copy `nand.bin` and `keys.bin` from the root of your SD card to your computer.
+为确保不会丢失文件，建议将 SD 卡根目录的 `nand.bin` 和 `keys.bin` 复制到您的电脑。
 {: .notice--info}
 
-[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and is highly recommended, especially if you were only able to install BootMii as IOS.
+[继续安装 Priiloader](priiloader)<br> 强烈推荐使用 Priiloader，因为它添加了一定程度的变砖保护，尤其是如果您只能将 BootMii 安装为 IOS 时。
 {: .notice--info}
