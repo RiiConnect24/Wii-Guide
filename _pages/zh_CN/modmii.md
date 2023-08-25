@@ -68,14 +68,14 @@ HackMii Solutions wizard 可以帮助修以下症状：
 
 | 工具                                                                          | 描述                                                                                                                 |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| W = ModMii Wizard <-- 从这里开始修改您的 Wii！                                        | 该选项可用于首次修改 Wii 或重新修改以前修改过的 Wii。                                                                                    |
-| SU = SysCheck Updater Wizard（仅更新过时的软件修改）                                    | 此选项适用于已经在 wii 上安装了 DarkCorp/Ciosspaghetti 旧修改的用户，这些修改可能会给最新的自制固件带来问题。                                              |
+| W = ModMii Wizard <-- Start Here to Mod Your Wii!                           | 该选项可用于首次修改 Wii 或重新修改以前修改过的 Wii。                                                                                    |
+| SU = SysCheck Updater Wizard (update only your outdated softmods)           | 此选项适用于已经在 wii 上安装了 DarkCorp/Ciosspaghetti 旧修改的用户，这些修改可能会给最新的自制固件带来问题。                                              |
 | U = USB-Loader Setup Wizard                                                 | 此选项可帮助您正确设置 USB loader，以便从 SD 或移动硬盘加载磁盘备份。                                                                         |
-| H = HackMii Solutions Wizard（显示颠倒的 HBC\修复 No Vulnerable IOS）               | 此选项适用于使用 HackMii Installer 时遇到问题的用户，或者它们的 homebrew channel 显示颠倒，或者安装了 DarkCorp/Ciosspaghetti 但没有 homebrew channel。 |
-| AW = Abstinence Wizard（非永久性破解 Wii）                                          | 此选项适用于不想对 Wii 进行任何永久性修改，但又想获得自制所能提供的一些好处的用户。                                                                       |
+| H = HackMii Solutions Wizard (Upside-Down HBC\No Vulnerable IOS Fix)       | 此选项适用于使用 HackMii Installer 时遇到问题的用户，或者它们的 homebrew channel 显示颠倒，或者安装了 DarkCorp/Ciosspaghetti 但没有 homebrew channel。 |
+| AW = Abstinence Wizard (Non-permanent Wii Hacks)                            | 此选项适用于不想对 Wii 进行任何永久性修改，但又想获得自制所能提供的一些好处的用户。                                                                       |
 | RC = Region Change Wizard                                                   | 此选项可在不使 Wii 变砖的情况下更改区域（这是互联网上最好的区域更改教程！）。                                                                          |
 | S = SNEEK Installation, EmuNAND Builder\Modifier, Game Bulk Extractor      | 此选项帮助您在 SD 或 USB 上正确设置 EmuNAND（又名 neek2o）。 emunand 的优势包括为保存的游戏或频道提供额外的存储空间。 以及不对 Wii 进行任何永久性修改的好处。                 |
-| F = 使用 ModMii 打开文件或文件夹，获得更多功能！                                              | 该选项是一种高级工具，对开发人员特别有用。                                                                                              |
+| F = open a File or Folder with ModMii for many more functions!              | 该选项是一种高级工具，对开发人员特别有用。                                                                                              |
 | 1 = Download Page 1 (System Menus, IOSs, MIOSs, Channels, etc.)             | 此选项将打开第一个下载页面，其中包括系统菜单的大部分关键部分（从 NUS 下载）。                                                                          |
 | 2 = Download Page 2 (Apps, USB-Loader Files, CheatCodes, etc.)              | 此选项将打开第二个下载页面，其中包括针对 Wii 的漏洞和实用应用，包括一些 PC 程序。                                                                      |
 | 3 = Download Page 3 (System Menu Themes)                                    | 此选项将打开第三个下载页面，其中包括一些系统菜单主题和安装系统菜单主题所需的项目（从 NUS 下载基本应用）。                                                            |
@@ -99,10 +99,10 @@ HackMii Solutions wizard 可以帮助修以下症状：
 | H = Hermes cIOSs (202 & 222-224) will also be recommended        | 允许在 syscheck updater 中推荐并下载 Hermes IOS（将在禁用时存根）。   |
 | CM = cMIOS included in recommended cIOSs                         | 允许在 syscheck updater 中推荐并下载 cMIOS（如果禁用则安装原始 MIOS）。 |
 | E = Extra Brick Protection in ModMii Wizard Guides               | 允许在 syscheck updater tool 中推荐和使用 Modmii 额外防砖 IOS。  |
-| U = 更新 IOS。 Wizard/SysCheck-Updater 更新活动 IOS                     | 将现有 IOS 更新为 NUS 上的最新版本。                            |
-| AU = 如果有缓存，自动下载更新将跳过更新检查                                         | 如果文件已在队列中，将跳过下载。                                   |
-| FWD = 在 ModMii Wizard 中安装 USB-Loader 转发器                         | 将在 USB loader 向导指南中包含 USB loader 转发程序的 wad 文件。     |
-| PC = PC 程序保存位置                                                   | 更改可下载 PC 程序的保存位置。                                  |
+| U = Update IOSs. Wizard/SysCheck-Updater to update Active IOSs   | 将现有 IOS 更新为 NUS 上的最新版本。                            |
+| AU = Auto-Updating downloads will skip update check if cached    | 如果文件已在队列中，将跳过下载。                                   |
+| FWD = Install USB-Loader Forwarder in ModMii Wizard Guides       | 将在 USB loader 向导指南中包含 USB loader 转发程序的 wad 文件。     |
+| PC = PC Programs Save Location                                   | 更改可下载 PC 程序的保存位置。                                  |
 | RS = Root Save: Save IOSs\MIOSs to Root instead of WAD Folder   | 将 IOS\MIOS 保存到根目录而不是 WAD 文件夹。                     |
 | 1 = Do not Keep 00000001 or NUS Folders for IOSs\MIOSs\SMs etc | 删除用于编译 wad 文件的文件夹，只提供 wad 文件。                      |
 | n2o = neek2o - build mod of s\uneek instead of original         | 在 EmuNAND builder 中使用经过改进版本的 neek2o。               |
