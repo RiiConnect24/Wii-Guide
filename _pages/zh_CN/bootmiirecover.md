@@ -1,21 +1,21 @@
 ---
-title: "BootMii Recovery (RestoreMii)"
+title: "BootMii 还原 (RestoreMii)"
 ---
 
 #### 你需要的是
-- An earlier NAND Backup made by [BootMii](https://wii.guide/bootmii)
-- A GameCube Controller*
+- 由 [BootMii](https://wii.guide/bootmii) 制作的早期 NAND 备份
+- GameCube 手柄*
 
-#### Important notes
+#### 重要说明
 
-<strong> Restoring a NAND backup is usually a last resort.</strong>
+<strong> 还原 NAND 备份通常是不得已而为之。</strong>
 
-If you are even able to enter BootMii, enter the Homebrew Channel instead, and try your best to [identify what caused the brick](bricks) and reverse it.
-  * If you have not done anything to cause a brick (or you're starting up your Wii after a long time), then it is probably a [Wi-Fi Brick](bricks#wi-fi-brick).
+如果您甚至能够进入 BootMii，那么进入 Homebrew Channel，并尽力[找出变砖的原因](bricks)，并试图进行修复。
+  * 如果您没有做任何导致变砖的操作（或者很长时间后才启动 Wii），那很可能是 [Wi-Fi Brick（Wi-Fi 砖）](bricks#wi-fi-brick)。
 
-<strong>Family edition Wiis (Wiis without GameCube ports) CANNOT restore NAND backups.</strong>
+<strong>Family edition Wii（不带 GameCube 接口的 Wii）不能还原 NAND 备份。</strong>
 
-Family edition Wiis released very well after [boot1 was patched](https://wiibrew.org/wiki/Wii_Family_Edition#Changes_carried_over_from_previous_revisions), which means you will not have BootMii as boot2.
+Family edition Wiis 在 [boot1 补丁](https://wiibrew.org/wiki/Wii_Family_Edition#Changes_carried_over_from_previous_revisions)后发布，这意味着您不能将 BootMii 安装为 boot2。
 
 If you do not have BootMii as boot2, RestoreMii will prompt you for the Konami code via a GameCube Controller.
 
