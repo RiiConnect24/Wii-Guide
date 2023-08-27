@@ -39,7 +39,7 @@ And some things to enhance your vWii experience:
 ##### Section I - Downloading/Installing
 
 1. Download the Priiloader installer and LoadPriiloader apps.
-1. Extract both apps to your SD card or USB drive making them each contained in the `apps` folder.
+1. Extract each app to your SD card or USB drive making each be inside the `apps` folder.
 
 ##### Section II - Installing Priiloader
 
