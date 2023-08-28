@@ -41,7 +41,7 @@ Priiloader 0.10.0 引入了 vWii 支持！ <br> 有一些重要事项需要注�
 ##### 第一部分 - 下载/安装
 
 1. 下载 Priiloader installer 和 LoadPriiloader 应用。
-1. Extract each app to your SD card or USB drive making each be inside the `apps` folder.
+1. 将每个应用解压到 SD 卡或 U 盘的 `apps` 文件夹中。
 
 ##### 第二部分 - 安装 Priiloader
 
@@ -52,7 +52,7 @@ Priiloader 0.10.0 引入了 vWii 支持！ <br> 有一些重要事项需要注�
 
 ##### 第三部分 - 进入 Priiloader
 
-安装完成后，Priiloader 会自动出现。 简单地退出 Homebrew Channel，您就会看到 Priiloader 菜单： ![Priiloader Menu](/images/Priiloader/menu.png)
+安装完成后，Priiloader 会自动出现。 简单地退出 Homebrew Channel，您就会看到 Priiloader 菜单： ![Priiloader 菜单](/images/Priiloader/menu.png)
 
 要稍后进入 Priiloader，只需运行 "Load Priiloader" 自制应用即可。 还有其它进入 Priiloader 的方法：
 - 打开 Wii 的同时按住 RESET。
@@ -68,7 +68,7 @@ Priiloader 0.10.0 引入了 vWii 支持！ <br> 有一些重要事项需要注�
 如果您已将 Priiloader installer 放在 U 盘上，请确保没有同时插入 SD 卡。 <br> 这将导致 Priiloader 找不到 `hacks_hash.ini` 文件。
 {: .notice--warning}
 
-1. 在每个您想启用的 hack 上按 `A`。 我们建议您启用 "Block Disc Updates"、"Block Online Updates" 和 "Region Free EVERYTHING"。 ![System Menu Hacks List](/images/Priiloader/system_menu_hacks.png)
+1. 在每个您想启用的 hack 上按 `A`。 我们建议您启用 "Block Disc Updates"、"Block Online Updates" 和 "Region Free EVERYTHING"。 ![System Menu Hacks 列表](/images/Priiloader/system_menu_hacks.png)
 1. 滚动到 `save settings` 并按 `A`。
 1. 按 `B` 回到主菜单。
 
@@ -134,11 +134,11 @@ Priiloader 允许您自动启动到 Homebrew Channel、单个自制应用程序�
 
 1. 打开 Homebrew Channel，然后启动 Load Priiloader 应用。
 1. 向下滚动到 `Load/Install file`，然后按 A。 ![Load/Install File](/images/Priiloader/menu_install_file.png)
-1. 滚动菜单，直到突出显示您所需的自制应用，然后按 A 安装。 ![Installing a Homebrew App](/images/Priiloader/installing_file.png) ![Installing a Homebrew App OK](/images/Priiloader/installing_file_ok.png)
+1. 滚动菜单，直到突出显示您所需的自制应用，然后按 A 安装。 ![安装自制应用](/images/Priiloader/installing_file.png) ![可以安装自制应用](/images/Priiloader/installing_file_ok.png)
 1. 按 B 回到主菜单。
 1. 向下滚动到 `Settings`，然后按 A。 ![设置](/images/Priiloader/menu_settings.png)
 1. 按右键以循环浏览 Autoboot 选项，直到选择 `Installed file`。 ![Autoboot: Installed File](/images/Priiloader/autoboot_installed_file.png)
-1. 向下滚动到 `save settings`，然后按 A。 ![Saving Settings](/images/Priiloader/settings_save.png)
+1. 向下滚动到 `save settings`，然后按 A。 ![正在保存设置](/images/Priiloader/settings_save.png)
 1. 按 B 回到主菜单。
 1. 向上滚动到 `System Menu`，然后按 A。
 
@@ -154,6 +154,6 @@ Priiloader 允许您自动启动到 Homebrew Channel、单个自制应用程序�
 {: .notice--warning}
 
    ![Autoboot](/images/Priiloader/autoboot_disabled.png)
-1. 向下滚动到 `save settings`，然后按 A。 ![Saving Settings](/images/Priiloader/settings_save.png)
+1. 向下滚动到 `save settings`，然后按 A。 ![正在保存设置](/images/Priiloader/settings_save.png)
 1. 按 B 回到主菜单。
 1. 向上滚动到 `System Menu`，然后按 A。
