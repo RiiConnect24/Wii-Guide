@@ -56,7 +56,7 @@ title: "适用于 Dolphin 的 RiiConnect24"
 5. 根据本指南，选择 "`Install RiiConnect24 on your Dolphin Emulator`" ![安装 RiiConnect24](/images/RC24_Patcher/3.JPG)
 6. 选择“`Express (Recommended)`”。 它将为您提供所需的一切。 ![快速设置](/images/RC24_Patcher/4.JPG)
 7. 选择您的区域。 ![选择您的区域](/images/RC24_Patcher/5.JPG)
-8. 当您到这时，RiiConnect24 Patcher 还可以下载一些其它不使用 RiiConnect24 的可选频道。 `[X]` 表示已选择的选项。 如果您不感兴趣，只需按 5 和 `ENTER`。 !\[附加的可选频道\](/images/RC24_Patcher/6.JPG
+8. 当您到这时，RiiConnect24 Patcher 还可以下载一些其它不使用 RiiConnect24 的可选频道。 `[X]` 表示已选择的选项。 如果您不感兴趣，只需按 5 和 `ENTER`。 ![额外的可选频道](/images/RC24_Patcher/6.JPG)
 9. 按 `1` 然后按 `ENTER` 开始修补。
 10. 请耐心等待... ![正在打补丁！](/images/RC24_Patcher/9.JPG)
 11. 完成后，如果您能花一分钟时间向我们发送匿名反馈，我们将不胜感激。  如果您不想发送反馈，关闭 patcher（修补程序）。 所有文件应该已经位于您的 SD 卡上。 ![已完成！](/images/RC24_Patcher/10.JPG) ![已复制文件](/images/RC24_Patcher/11.PNG)

@@ -1,38 +1,50 @@
 ---
-title: "BootMii Recovery"
+title: "BootMii Recovery (RestoreMii)"
 ---
 
-{% include toc title="條目內容" %}
+#### 必備項目
+- An earlier NAND Backup made by [BootMii](https://wii.guide/bootmii)
+- A GameCube Controller*
 
-如果您需要有關本手冊的任何幫助，請加入 [RiiConnect24 的 Discord 伺服器](https://discord.gg/rc24)（推薦）或 [發送電子郵件至 support@riiiconnect24.net](mailto:support@riiiconnect24.net)。
-{: .notice--info}
+#### Important notes
 
-If you didn't install BootMii nor don't have a NAND backup, please install it and do a backup. You cannot restore a NAND backup from a USB.
-{: .notice--warning}
+<strong> Restoring a NAND backup is usually a last resort.</strong>
 
-Wii consoles with no GameCube controller ports CANNOT RECOVER from a NAND backup. This is because recovering from a NAND backup while having BootMii as IOS is dangerous.
-{: .notice--danger}
-#### 前置需求
+If you are even able to enter BootMii, enter the Homebrew Channel instead, and try your best to [identify what caused the brick](bricks) and reverse it.
+  * If you have not done anything to cause a brick (or you're starting up your Wii after a long time), then it is probably a [Wi-Fi Brick](bricks#wi-fi-brick).
 
--  [BootMii](https://wii.guide/bootmii)
--  An SD card
--  NAND Backup
+<strong>Family edition Wiis (Wiis without GameCube ports) CANNOT restore NAND backups.</strong>
+
+Family edition Wiis released very well after [boot1 was patched](https://wiibrew.org/wiki/Wii_Family_Edition#Changes_carried_over_from_previous_revisions), which means you will not have BootMii as boot2.
+
+If you do not have BootMii as boot2, RestoreMii will prompt you for the Konami code via a GameCube Controller.
+
+Family edition Wiis do not have ports for GameCube controllers.
+
+<strong>Restoring an unverified NAND backup may lead to a WORSE BRICK.</strong>
+
+The same also goes for faulty SD cards.
+
+<strong>Want to restore individual data from your NAND backup?</strong>
+
+There is likely a much safer and faster way to bring it back to your Wii, likely involving the use of Dolphin Emulator.
+
+For example, if you want to restore your Wii message board data, use Dolphin to import your NAND backup, find `Wii/title/00000001/00000002/data/cdb.vff`, copy it to your SD card as `cdbackup.vff`, and use [cdbackup](https://oscwii.org/library/app/cdbackup) to restore it.
+
+If you want to restore a game's save data, use Dolphin to import your NAND backup, use `Tools > Export All Wii Saves` to export all your saves to your SD card, and use Data Management to move it to your Wii.
 
 #### 操作說明
 
-如果您的 BootMii 安裝於 boot2 當中，則需要通過重新啟動主機來啟動 BootMii。 如果是這種情況，請跳過步驟1和2。
-{: .notice--info}
+If you have BootMii installed as boot2, you will need to launch BootMii by restarting the console. 如果是這種情況，請跳過步驟1和2。
+{: .notice}
 
-1. 啟動 Homebrew Channel。
-
+1. Launch the Homebrew Channel.
 2. Press the HOME Button, then select "Launch BootMii".
 
 You must use the POWER (right) and RESET (select) buttons on your console, or a GameCube controller plugged into port 1. To navigate with a GameCube controller, click left/right on the +Control Pad on a GameCube controller. To select, press A.
 {: .notice--info}
 
 3. 選擇『Options』按鈕（帶齒輪的圖示）。 ![BootMii_Gears_Icon](/images/BootMii/BootMii_Gears_Icon.png)
-
 4. Select the RestoreMii button. ![BootMii_Red_Arrow](/images/BootMii/BootMii_Red_Arrow.png)
-
-5. On your GameCube controller, press the following buttons (Konami): ↑, ↑, ↓, ↓, ←, →, ←, →, B, A, START
+5. On your GameCube controller, input the Konami code: ↑, ↑, ↓, ↓, ←, →, ←, →, B, A, START
 6. After the recovery ended, you should see a text say `I HAZ SUCCESS!`, otherwise `I HAZ FAIL`. Hit any button on your Wii console or GCN controller.

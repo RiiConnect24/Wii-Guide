@@ -31,7 +31,7 @@ To resolve this issue, open HBC through Priiloader and access MyMenuifyMOD to in
 ## Semibrick
 
 #### Cause
-A semibrick occurs when a different region System Menu or a different region custom theme is installed. This causes the Wii to fail to find the Wii settings page files.
+A semibrick occurs when a different region System Menu or a different region custom theme is installed. This causes the Wii to fail to find the Wii settings page files. ![Semibrick](/images/bricks/semibrick.png)
 
 #### Solutions
 If this was caused by a theme you installed, use MyMenuifyMod to re-download the original theme file.
@@ -48,7 +48,7 @@ If you are actually in the process of a region change, use [ARC-ME](https://gith
 #### Cause
 This brick is a more fatal version of a [Semibrick](#semibrick). If your SYSCONF gets corrupt or damaged, the Wii will regenerate it and start the setup phase.
 
-However, the setup pages are in a similar location to the Wii settings pages. If you have an incorrect region System menu or theme, the Wii cannot find them.
+However, the setup pages are in a similar location to the Wii settings pages. If you have an incorrect region System menu or theme, the Wii cannot find them. ![System menu brick](/images/bricks/sysmenu-brick.png)
 
 #### Solutions
 
@@ -78,6 +78,21 @@ To resolve this problem, you can try reseat or replace the Wi-Fi/Bluetooth modul
 
 If you are on a Wii Mini, you must install a Wi-Fi module.
 
+## Error 003 Brick
+
+#### Cause
+
+This brick happens when a non-Korean System Menu on 4.2 or 4.3 detects that the Korean key is present.
+
+This is usually an immediate follow-up to a Wii System Update on an unsuspecting region-changed Korean Wii. ![Error 003](/images/bricks/error-003.png)
+
+#### Solutions
+
+Since this brick most often occurs after the System menu updates, Priiloader will not be present.
+
+Korean Wiis also released with System menu 3.3, around the time that Nintendo [fixed the Trucha bug in boot1](https://wiibrew.org/wiki/3.3#Changes), so BootMii as Boot2 cannot be installed to any Korean Wii.
+
+The only way to fix this brick is a way to launch homebrew by launching a game through the Recovery menu.
 
 ## IOS brick
 
@@ -90,7 +105,7 @@ You must have BootMii as boot2 to fix this brick. Priiloader will not load.
 
 You can either restore a NAND backup, or do this:
 
-1. Use [NUS Downloader] to pack a WAD of your original System menu.
+1. Use [NUS Downloader](https://wiibrew.org/wiki/NUSD) to pack a WAD of your original System menu.
 1. Use BootMii to enter the Homebrew Channel, and use a WAD manager to install the System menu WAD.
 
 

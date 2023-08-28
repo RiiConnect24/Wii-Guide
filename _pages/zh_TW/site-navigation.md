@@ -37,6 +37,7 @@ sitemap: false
 
 - [使用 BlueBomb 漏洞](bluebomb)
 - [進行 BootMii 備份](bootmii)
+- [BootMii Recovery](bootmiirecover)
 - [安裝 cIOS](cios)
 - [Wii 改機注意事項](dosanddonts)
 - [FlashHax](flashhax)
@@ -47,6 +48,7 @@ sitemap: false
 - [安裝 Priiloader](priiloader)
 - [Relaunching the HackMii Installer](hackmii)
 - [str2hax](str2hax)
+- [Types of Bricks](bricks)
 - [Wii Mod Lite](wiimodlite)
 - [Wilbrand](wilbrand)
 

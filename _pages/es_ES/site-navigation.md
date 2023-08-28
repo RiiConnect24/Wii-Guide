@@ -37,6 +37,7 @@ sitemap: false
 
 - [BlueBomb](bluebomb)
 - [Crear respaldo de NAND con BootMii](bootmii)
+- [BootMii Recovery](bootmiirecover)
 - [Instalar cIOS d2x](cios)
 - [Dos and Don'ts of Wii Modding](dosanddonts)
 - [FlashHax](flashhax)
@@ -47,6 +48,7 @@ sitemap: false
 - [Priiloader](priiloader)
 - [Relaunching the HackMii Installer](hackmii)
 - [str2hax](str2hax)
+- [Types of Bricks](bricks)
 - [Wii Mod Lite](wiimodlite)
 - [Wilbrand](wilbrand)
 
