@@ -16,7 +16,7 @@ It is also safe to [redo any exploit](get-started) to get back into the HackMii 
 
 #### Requisitos
 
-- The Homebrew Channel
+- El Canal Homebrew
 - An SD card or USB drive formatted to FAT32/MS-DOS
 - [HackMii Installer v1.2](https://bootmii.org/download/)
 
