@@ -16,22 +16,22 @@ Todos los exploits ejecutan HackMii Installer, por lo que el resultado final ser
 También puedes seguir esta guía usando una unidad USB, aunqué no podrás crear o restaurar un respaldo de NAND usando BootMii, ni usar ciertas aplicaciones homebrew.
 {: .notice--info}
 
-En caso de que tu consola no se encuentre en la versión 4.3, utiliza el exploit str2hax, Wiibrand o FlashHax para instalar el Canal Homebrew, y luego sigue [esta guía](update) para actualizar el sistema a la última versión.
+En caso de que tu consola no se encuentre en la versión 4.3, utiliza el exploit str2hax, Wilbrand o FlashHax para instalar el Canal Homebrew, y luego sigue [esta guía](update) para actualizar el sistema a la última versión.
 {: .notice--info}
 
-Esta guía es para las consolas Wii originales (incluyendo Wii Family Edition) y Wii mini que cuenten con el firmware más reciente (4.3). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
+Esta guía es para las consolas Wii originales (incluyendo Wii Family Edition) y Wii mini que cuenten con el firmware más reciente (4.3). Si deseas instalar homebrew en el modo Wii (vWii) de la Wii U, por favor sigue [esta guia](https://wiiu.hacks.guide).
 {: .notice--warning}
 
-### Elige el exploit que quieres usar
+### Elige el exploit que deseas usar
 
-These exploits are sorted by easiest to hardest difficulty of use.
+Estas vulnerabilidades están ordenadas de la más fácil a la más difícil de ejecutar.
 
-- [str2hax](str2hax) - Exploit que usa el EULA de Wii
-    * Requires an Internet connection and changing the DNS server
+- [str2hax](str2hax) - Exploit que utiliza el Contrato de Uso de los Servicios de Red de Wii (EULA)
+    * Requiere una conexión a Internet y cambiar el servidor DNS en los ajustes de internet
 - [LetterBomb](letterbomb) - Exploit que usa el tablón de Wii.
-    * Requires an SD card
-    * Must be on version 4.3
-- [Wilbrand](wilbrand) - Exploit that also uses the Wii Message Board
+    * Requiere una tarjeta SD
+    * Solo es compatible con la versión de firmware 4.3
+- [Wilbrand](wilbrand) - Exploit que también utiliza el tablón de Wii
     * Requires only an SD card with the Web UI, otherwise requires a PC in addition to the SD card
     * Works on versions 3.0 - 4.3
 - [FlashHax](flashhax) - Exploit that uses the Internet Channel
