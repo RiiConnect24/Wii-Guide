@@ -16,7 +16,7 @@ Todos los exploits ejecutan HackMii Installer, por lo que el resultado final ser
 También puedes seguir esta guía usando una unidad USB, aunqué no podrás crear o restaurar un respaldo de NAND usando BootMii, ni usar ciertas aplicaciones homebrew.
 {: .notice--info}
 
-En caso de que tu consola no se encuentre en la versión 4.3, utiliza el exploit str2hax, Wilbrand o FlashHax para instalar el Canal Homebrew, y luego sigue [esta guía](update) para actualizar el sistema a la última versión.
+En caso de que tu menú de Wii no se encuentre en la versión 4.3, utiliza el exploit str2hax, Wilbrand o FlashHax para instalar el Canal Homebrew, y luego sigue [esta guía](update) para actualizar el sistema a la última versión.
 {: .notice--info}
 
 Esta guía es para las consolas Wii originales (incluyendo Wii Family Edition) y Wii mini que cuenten con el firmware más reciente (4.3). Si deseas instalar homebrew en el modo Wii (vWii) de la Wii U, por favor sigue [esta guia](https://wiiu.hacks.guide).
@@ -32,10 +32,10 @@ Estas vulnerabilidades están ordenadas de la más fácil a la más difícil de 
     * Requiere una tarjeta SD
     * Solo es compatible con la versión de firmware 4.3
 - [Wilbrand](wilbrand) - Exploit que también utiliza el tablón de Wii
-    * Requires only an SD card with the Web UI, otherwise requires a PC in addition to the SD card
-    * Works on versions 3.0 - 4.3
-- [FlashHax](flashhax) - Exploit that uses the Internet Channel
-    * Requires the Internet Channel installed, and an Internet connection
-- [BlueBomb](bluebomb) - Exploit that uses Bluetooth
-    * Requires a computer with Bluetooth and GNU/Linux, as well as a USB storage device
-    * This is the only exploit that works on the **Wii mini**
+    * Requiere solo una tarjeta SD en caso de usar la versión web, de lo contrario también necesitarás una PC
+    * Funciona en versiones 3.0 - 4.3
+- [FlashHax](flashhax) - Exploit que usa el Canal Internet
+    * Requiere tener el Canal Internet instalado y una conexión a internet.
+- [BlueBomb](bluebomb) - Exploit que usa el Bluetooth de la consola
+    * Requiere una PC con Bluetooth y GNU/Linux, así como una unidad USB
+    * Este es el único exploit que funciona en la **Wii mini**
