@@ -41,7 +41,7 @@ Priiloader 0.10.0 引入了 vWii 支持！ <br> 有一些重要事项需要注�
 ##### 第一部分 - 下载/安装
 
 1. 下载 Priiloader installer 和 LoadPriiloader 应用。
-1. 将每个应用解压到 SD 卡或 U 盘的 `apps` 文件夹中。
+1. Extract both apps to the root of your SD card or USB drive.
 
 ##### 第二部分 - 安装 Priiloader
 
