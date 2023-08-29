@@ -7,13 +7,13 @@ title: "Primeros pasos"
 Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado), o envíanos un [correo electrónico](mailto:support@riiconnect24.net). Soporte disponible solo en inglés.
 {: .notice--info}
 
-Even if your Wii has already been softmodded in the past, following these steps can still ensure that your softmod is up to date.
+Incluso si tu consola Wii ya ha sido modificada en el pasado, seguir esta guía te ayudará a que tu homebrew se mantenga actualizado.
 {: .notice--info}
 
-All of the exploits run the HackMii Installer, and have the same end result.
+Todos los exploits ejecutan HackMii Installer, por lo que el resultado final será el mismo.
 {: .notice--info}
 
-Although you can follow this guide without an SD card, you will not be able to create or restore a NAND backup using BootMii, and you won't be able to use some homebrew.
+También puedes seguir esta guía usando una unidad USB, aunqué no podrás crear o restaurar un respaldo de NAND usando BootMii, ni usar algunas aplicaciones homebrew.
 {: .notice--info}
 
 If your Wii Menu is not on version 4.3, use str2hax, Wilbrand or FlashHax to install the Homebrew Channel, and then follow the [update guide](update) to update to 4.3.
