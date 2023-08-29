@@ -13,13 +13,13 @@ Incluso si tu consola Wii ya ha sido modificada en el pasado, seguir esta guía 
 Todos los exploits ejecutan HackMii Installer, por lo que el resultado final será el mismo.
 {: .notice--info}
 
-También puedes seguir esta guía usando una unidad USB, aunqué no podrás crear o restaurar un respaldo de NAND usando BootMii, ni usar algunas aplicaciones homebrew.
+También puedes seguir esta guía usando una unidad USB, aunqué no podrás crear o restaurar un respaldo de NAND usando BootMii, ni usar ciertas aplicaciones homebrew.
 {: .notice--info}
 
-If your Wii Menu is not on version 4.3, use str2hax, Wilbrand or FlashHax to install the Homebrew Channel, and then follow the [update guide](update) to update to 4.3.
+En caso de que tu consola no se encuentre en la versión 4.3, utiliza el exploit str2hax, Wiibrand o FlashHax para instalar el Canal Homebrew, y luego sigue [esta guía](update) para actualizar el sistema a la última versión.
 {: .notice--info}
 
-This guide is for the original Wii and Wii mini only (including the Wii Family Edition). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
+Esta guía es para las consolas Wii originales (incluyendo Wii Family Edition) y Wii mini que cuenten con el firmware más reciente (4.3). Do not use this on a Wii U (vWii)! If you want to install homebrew on a Wii U, [follow this guide](https://wiiu.hacks.guide).
 {: .notice--warning}
 
 ### Elige el exploit que quieres usar
