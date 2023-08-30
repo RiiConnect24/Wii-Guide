@@ -46,7 +46,7 @@ sitemap: false
 - [LetterBomb](letterbomb)
 - [ModMii](modmii)
 - [Priiloader](priiloader)
-- [Relaunching the HackMii Installer](hackmii)
+- [Volver a lanzar el HackMii Installer](hackmii)
 - [str2hax](str2hax)
 - [Types of Bricks](bricks)
 - [Wii Mod Lite](wiimodlite)
