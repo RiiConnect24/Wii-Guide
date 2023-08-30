@@ -21,15 +21,15 @@ Es normal si al lado de BootMii aparece el mensaje `Can only be installed as an 
 
 1. Selecciona `Install the Homebrew Channel`. ![Homebrew Channel installation](/images/hackmii/hbc_install.png) ![Homebrew Channel installation OK](/images/hackmii/hbc_install_ok.png)
 1. Elige `Continue` cuando el proceso haya finalizado.
-1. Once installed, select `Back`, then select `BootMii`. ![BootMii](/images/hackmii/bootmii_install.png)
-1. Select `Install BootMii as IOS`.
+1. Una vez que el Canal Homebrew esté instalado, selecciona `Back`, y luego `BootMii`. ![BootMii](/images/hackmii/bootmii_install.png)
+1. Elige `Install BootMii as IOS`.
 
-If you do not have an SD card, you cannot install nor use BootMii, and therefore will not be able to utilize any of the mentioned benefits. <br> You can always [install it at a later date](hackmii).
+Si no dispones de una tarjeta SD, no serás capaz de instalar ni utilizar BootMii, y por tanto tampoco podrás aprovechar ninguna de las ventajas que ofrece. <br> Aunque siempre puedes [instalarlo más adelante](hackmii).
 {: .notice--warning}
 
 ![BootMii installation](/images/hackmii/bootmii_install1.png) ![BootMii SD card prompt](/images/hackmii/bootmii_install2.png) ![BootMii SD card preparation](/images/hackmii/bootmii_install3.png) ![BootMii installation OK](/images/hackmii/bootmii_install_ok.png)
-1. Once done, select `Continue`.
-1. If you have the option to `Install BootMii as boot2`, please do so as well. This offers the best possible brick protection you can have. <br> Otherwise, skip this step.
+1. Cuando el proceso haya terminado, selecciona `Continue`.
+1. If you have the option to `Install BootMii as boot2`, please do so as well. This offers the best possible brick protection you can have. <br> De lo contrario, salta este paso.
 1. Select `Exit` to finally open the Homebrew Channel.
 
 
