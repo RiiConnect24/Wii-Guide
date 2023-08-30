@@ -48,9 +48,9 @@ Si después de seguir los pasos anteriores, la pantalla se queda en negro y la l
 1. Para salir de BootMii, oprime el botón con la flecha negra, y después elige el que tiene el icono del menú de Wii o el Canal Homebrew para salir a donde desees.![Botón volver](/images/BootMii/BootMii_Return_Arrow.png)
 
 <div id="restore-notice" class="notice" markdown="1">
-To restore from a NAND backup on your SD card, you can follow the instructions for [RestoreMii](bootmiirecover).
-Por favor ten en cuenta que la función de restaurar un respaldo de la NAND para reparar un brick solo debe ser usada como <strong>último recurso</strong>, pues existen mejores formas de recuperar tu consola.
-Try your best to [identify your brick condition](bricks) and reverse the action that caused it in the first place.
+Para restaurar un respaldo de la NAND desde la tarjeta SD, puedes seguir [esta guía](bootmiirecover).
+Por favor ten en cuenta que restaurar un respaldo para reparar un brick solo debe ser usado como <strong>último recurso</strong>, pues existen mejores formas de recuperar tu consola.
+Puedes intentar [identificar la causa del brick](bricks) y revertir la acción que lo haya provocado.
 </div>
 
 Para evitar perder la copia de seguridad, te sugerimos copiar los archivos `nand.bin` y `keys.bin` (ubicados en la raíz de la tarjeta SD) a tu PC o un almacenamiento en la nube.
