@@ -98,8 +98,8 @@ Este método permite aplicar el parche de Wiimmfi a algunos juegos antiguos, com
 6. Elige `Modificar`.
 7. Ve hasta la cuarta página, donde está la opción `Obtener DNS automáticamente` (no es en `Obtener drección IP automáticamente`), elige `No` y después selecciona `Configuración avanzada`.
 8. Ingresa `95.217.77.181` en `DNS primario`.
-9. Escribe `1.1.1.1` en `DNS secundario<code>.</li>
-<li>Selecciona <code>Confirmar` y después elige `Guardar`.
+9. Escribe `1.1.1.1` en DNS secundario.
+10. Selecciona `Confirmar` y después elige `Guardar`.
 11. Elige `Aceptar` para realizar una prueba de conexión.
 12. Si la prueba de conexión ha sido exitosa, elige `No` para saltar la actualización de la consola Wii.
 
