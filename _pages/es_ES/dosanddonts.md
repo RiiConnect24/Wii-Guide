@@ -1,5 +1,5 @@
 ---
-title: "Dos and Don'ts of Wii Modding"
+title: "Cosas que debes hacer y evitar hacer al modificar tu consola"
 ---
 
 {% include toc title="Tabla de contenido" %}
@@ -7,9 +7,9 @@ title: "Dos and Don'ts of Wii Modding"
 Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado), o envíanos un [correo electrónico](mailto:support@riiconnect24.net). Soporte disponible solo en inglés.
 {: .notice--info}
 
-Here's a list of things you should and should not do once you've modded your Wii, to make sure you don't brick it.
+Estas son algunas de las cosas que debes y no debes hacer una vez que hayas modificado tu consola Wii, a fin de evitar que esta sufra un brick.
 
-#### Lista
+#### Lista:
 
 - **DEBES** tener instalado [BootMii](bootmii) y [Priiloader](priiloader) para recuperar tu consola de un brick.
 - **DEBES** hacer una copia de seguridad de la memoria interna (NAND) de tu Wii regularmente con [BootMii](bootmii), especialmente antes de hacer algo arriesgado.
@@ -21,15 +21,15 @@ Here's a list of things you should and should not do once you've modded your Wii
 - **NO DEBES** instalar ningún IOS (además del [cIOS d2xl](cios-mini)) o menú de Wii en una Wii mini. Hacer esto provocará un brick si no hay una tarjeta Wi-Fi soldada a la consola.
 - **NO DEBES** usar en tu Wii ningún reemplazo de la Conexión Wi-Fi de Nintendo que no sea [Wiimmfi](wiimmfi), a menos que exista un parche anti-RCE para tu juego. Desafortunadamente, el resto de servidores son vulnerables a un exploit que puede ocasionar que tu Wii sufra un brick si los utilizas. Usar un cheat code anti-RCE ayudará a parchear esta vulnerabilidad. [RiiConnect24](riiconnect24) y [WiiLink](wiilink) pueden ser usados sin ningún riesgo.
 - **NO DEBES** restaurar respaldos de la NAND de otras consolas en tu propia Wii usando BootMii.
-- **NO DEBES** usar la aplicación homebrew "Pimp my Wii". The tool is dangerous and does things that can make your Wii unstable. The features of Pimp my Wii are available on other safer apps.
+- **NO DEBES** usar la aplicación homebrew "Pimp my Wii". Esta herramienta es peligrosa y puede causar que tu consola funcione de forma inestable. Las funciones de Pimp my Wii se pueden encontrar en otras aplicaciones más seguras.
 
-If you follow these guidelines, you won't have to worry about bricking your Wii. Wii modding is safe, and bricks usually occur due to something done by the user that is on this list.
+Si sigues estas pautas, no tendrás que preocuparte porque tu consola sufra algún brick. Modificar una Wii es seguro: los bricks suelen ocurrir por realizar alguna de las acciones a evitar antes mencionadas.
 
-Continue to installing cIOS<br> cIOS are used to play games with a USB Loader. It's also useful for many other homebrew apps.
+Continuar a la instalación de cIOS<br> Los cIOS se utilizan para cargar copias digitales de juegos físicos mediante un USB loader. También son necesarios para utilizar ciertas aplicaciones homebrew.
 {: .notice--info}
 
-If using a regular Wii, follow [this guide](cios) to install cIOS.
+Si utilizas una Wii original, sigue [esta guía](cios) para instalar los cIOS.
 {: .notice--info}
 
-If using a Wii mini, follow [this guide](cios-mini) to install cIOS
+Si tu consola es una Wii mini, por favor usa [esta guía](cios-mini) para instalar los cIOS.
 {: .notice--info}
