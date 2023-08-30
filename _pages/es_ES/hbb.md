@@ -8,7 +8,7 @@ If you need help for anything regarding this tutorial, please join [the Open Sho
 Homebrew Browser, which is what the Open Shop Channel is based off on, does work but it can be buggy. You can also get homebrew using [osc-dl](https://github.com/dhtdht020/osc-dl/releases/latest) and from the [Open Shop Channel website](https://oscwii.org/).
 {: .notice--info}
 
-You need an Internet connection in order to use this application.
+Necesitarás una conexión a internet para usar esta aplicación.
 {: .notice--warning}
 
 The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
@@ -38,7 +38,7 @@ Here are some recommended apps that you can get on the Open Shop Channel:
 - [WiiXplorer-SS](https://oscwii.org/library/app/wiixplorer-ss) - This is a file manager for your Wii. It lets you access your files on your SD Card, USB Device, and more.
 - [YABDM](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod) - This is a tool to dump content installed on your Wii to WAD files. See [our page](dump-wads) for instructions on how to use it.
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
+[Continuar a la instalación de RiiConnect24](riiconnect24)<br> RiiConnect24 te permite usar nuevamente el servicio WiiConnect24 y sus diversas funciones, incluyendo el Canal Noticias, Canal Tiempo, Canal Opiniones, Canal Nintendo, y Canal Miirame, además del intercambio de mensajes entre consolas Wii. This is optional to install.
 {: .notice--info}
 [Continue to WiiLink](wiilink)<br> WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. This is optional to install.
 {: .notice--info}
