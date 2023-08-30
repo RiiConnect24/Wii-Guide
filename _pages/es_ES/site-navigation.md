@@ -67,7 +67,7 @@ sitemap: false
 - [Desinstalar RSSMii](rssmii-remove)
 - [RiiTag](riitag)
 - [Instalar RiiTag en Wii U](riitag-wiiu)
-- [Setting RTC Time](rtc)
+- [Ajustar el reloj interno de la consola](rtc)
 - [Updating Wii Menu to v4.3](update)
 - [USB Loader GX](usbloadergx)
 - [Wii Backup Manager](wiibackupmanager)
