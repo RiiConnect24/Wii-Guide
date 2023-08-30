@@ -39,7 +39,7 @@ sitemap: false
 - [Crear respaldo de NAND con BootMii](bootmii)
 - [BootMii Recovery](bootmiirecover)
 - [Instalar cIOS d2x](cios)
-- [Dos and Don'ts of Wii Modding](dosanddonts)
+- [Cosas que debes hacer y evitar hacer al modificar tu consola](dosanddonts)
 - [FlashHax](flashhax)
 - [Homebrew Browser](hbb)
 - [Homebrew Channel](hbc)
