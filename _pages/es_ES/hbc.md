@@ -1,26 +1,26 @@
 ---
-title: "Instalación del Canal Homebrew y BootMii"
+title: "Instalar el Canal Homebrew y BootMii"
 ---
 
 {% include toc title="Tabla de contenido" %}
 
-Si necesitas ayuda para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado) o [envíanos un correo electrónico a support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado), o envíanos un [correo electrónico](mailto:support@riiconnect24.net). Soporte disponible solo en inglés.
 {: .notice--info}
 
 ![Logotipo del Canal Homebrew](/images/hbc.png)
 
-El Canal Homebrew es desde donde iniciarás las aplicaciones homebrew. BootMii es un software que puede respaldar y restaurar la memoria interna de tu Wii, y si está instalado como boot2, brinda protección contra bricks.
+El Canal Homebrew te permite utilizar las aplicaciones homebrew que descargues. BootMii es un software que te permite copiar y restaurar los contenidos de la memoria interna (NAND) de tu consola, y en caso de estar instalado como boot2, también brinda protección contra bricks.
 
 #### Instrucciones
 
 1. Verás una pantalla de advertencia contra estafa. Espera 30 segundos hasta que aparezca el texto "Press 1 to continue", y después oprime el botón 1. ![Pantalla de advertencia contra estafa](/images/hackmii/scam.png)
-1. You will be presented with a test results screen. Select `Continue`. ![Resultados](/images/hackmii/test_results.png)
+1. A continuación aparecerá una pantalla de resultados. Elige `Continue`. ![Resultados](/images/hackmii/test_results.png)
 
-If BootMii says that it `can only be installed as an IOS`, that's normal.
+Es normal si al lado de BootMii aparece el mensaje `Can only be installed as an IOS`.
 {: .notice--info}
 
-1. Select `Install the Homebrew Channel`. ![Homebrew Channel installation](/images/hackmii/hbc_install.png) ![Homebrew Channel installation OK](/images/hackmii/hbc_install_ok.png)
-1. Select `Continue` when finished.
+1. Selecciona `Install the Homebrew Channel`. ![Homebrew Channel installation](/images/hackmii/hbc_install.png) ![Homebrew Channel installation OK](/images/hackmii/hbc_install_ok.png)
+1. Elige `Continue` cuando el proceso haya finalizado.
 1. Once installed, select `Back`, then select `BootMii`. ![BootMii](/images/hackmii/bootmii_install.png)
 1. Select `Install BootMii as IOS`.
 
