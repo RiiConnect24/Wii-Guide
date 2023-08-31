@@ -18,7 +18,7 @@ Si tienes una Wii mini, por favor instala [este cIOS](cios-mini). Intentar insta
 
 - Una consola Wii original
 - Una tarjeta SD o unidad USB
-- [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
+- [d2x cIOS Installer](/assets/files/d2x-cios-installer.zip)
 
 Si vas a usar una tarjeta SD, asegúrate de que no esté protegida contra escritura, pues de lo contrario no podrás elegir las opciones correctas en el instalador.
 {: .notice--warning}
