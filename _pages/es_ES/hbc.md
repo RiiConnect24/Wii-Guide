@@ -19,15 +19,15 @@ El Canal Homebrew te permite utilizar las aplicaciones homebrew que descargues. 
 Es normal si al lado de BootMii aparece el mensaje `Can only be installed as an IOS`.
 {: .notice--info}
 
-1. Selecciona `Install the Homebrew Channel`. ![Homebrew Channel installation](/images/hackmii/hbc_install.png) ![Homebrew Channel installation OK](/images/hackmii/hbc_install_ok.png)
+1. Selecciona `Install the Homebrew Channel`. ![Canal Homebrew instalado exitosamente](/images/hackmii/hbc_install.png) ![Menú principal de HackMii Installer](/images/hackmii/hbc_install_ok.png)
 1. Elige `Continue` cuando el proceso haya finalizado.
-1. Una vez que el Canal Homebrew esté instalado, selecciona `Back`, y luego `BootMii`. ![BootMii](/images/hackmii/bootmii_install.png)
+1. Una vez que el Canal Homebrew esté instalado, selecciona `Back`, y luego `BootMii`. ![Menú principal de HackMii Installer](/images/hackmii/bootmii_install.png)
 1. Elige `Install BootMii as IOS`.
 
 Si no dispones de una tarjeta SD, no serás capaz de instalar ni utilizar BootMii, y por tanto tampoco podrás aprovechar ninguna de las ventajas que ofrece. <br> Aunque siempre puedes [instalarlo más adelante](hackmii).
 {: .notice--warning}
 
-![BootMii installation](/images/hackmii/bootmii_install1.png) ![BootMii SD card prompt](/images/hackmii/bootmii_install2.png) ![BootMii SD card preparation](/images/hackmii/bootmii_install3.png) ![BootMii installation OK](/images/hackmii/bootmii_install_ok.png)
+![Menú de BootMii](/images/hackmii/bootmii_install1.png) ![BootMii SD card prompt](/images/hackmii/bootmii_install2.png) ![Copiando archivos de BootMii a la tarjeta SD](/images/hackmii/bootmii_install3.png) ![BootMii instalado exitosamente](/images/hackmii/bootmii_install_ok.png)
 1. Cuando el proceso haya terminado, selecciona `Continue`.
 1. Si te aparece la opción `Install BootMii as boot2`, asegúrate de elegirla también. Esto te brindará la mejor protección contra bricks posible. <br> De lo contrario, salta este paso.
 1. Selecciona `Exit` para iniciar el Canal Homebrew.
@@ -39,15 +39,15 @@ Ahora puedes iniciar el Canal Homebrew desde el menú de Wii para ejecutar aplic
 
 Al momento de copiar aplicaciones homebrew a tu tarjeta SD o unidad USB, la estructura de las carpetas debería verse así:
 
-![Proper SD Card Folder Structure](images/Wii/FolderStructure.png)
+![Estructura correcta de la carpeta /apps](images/Wii/FolderStructure.png)
 
 Los nombres `AppName1` y `AppName2` son de ejemplo. No coloques carpetas con el nombre `apps` dentro de la carpeta `apps` ubicada en la raíz de la tarjeta SD o unidad USB.
 
 [Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
 {: .notice--info}
 
-If you couldn't install BootMii, continue to [installing Priiloader](priiloader).
+Si no has podido instalar BootMii, continua a la [instalación de Priiloader](priiloader).
 {: .notice--info}
 
-Tip: You can tell if a Wii has BootMii installed as boot2 if your disc drive flashes very briefly, only after the immediate flash that happens when you press the POWER Button.
+Consejo: Puedes saber si tu Wii tiene BootMii instalado como boot2 si la luz del lector de disco parpadea muy brevemente, justo después de que esta se encienda al oprimir el botón POWER.
 {: .notice--info}
