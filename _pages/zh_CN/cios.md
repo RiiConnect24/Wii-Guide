@@ -18,7 +18,7 @@ title: "cIOS"
 
 - 一台 Wii
 - 一张 SD 卡或 U 盘
-- [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
+- [d2x cIOS Installer](/assets/files/d2x-cios-installer.zip)
 
 如果您使用的是 SD 卡，确保锁定开关位于解锁，否则您将无法在安装程序中选择正确的选项。
 {: .notice--warning}
