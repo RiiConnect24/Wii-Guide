@@ -18,7 +18,7 @@ Se você tem um Wii Mini installe esta [cIOS](cios-mini) ao invés disso. Tentar
 
 - Um Wii
 - Um cartão SD ou armazenamento USB
-- [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
+- [d2x cIOS Installer](/assets/files/d2x-cios-installer.zip)
 
 Certifique-se de que se você estiver usando um cartão SD, a trava de bloqueio está na posição desbloqueada, caso contrário, você não será capaz de selecionar as opções corretas no instalador.
 {: .notice--warning}
