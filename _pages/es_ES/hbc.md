@@ -29,19 +29,19 @@ Si no dispones de una tarjeta SD, no serás capaz de instalar ni utilizar BootMi
 
 ![BootMii installation](/images/hackmii/bootmii_install1.png) ![BootMii SD card prompt](/images/hackmii/bootmii_install2.png) ![BootMii SD card preparation](/images/hackmii/bootmii_install3.png) ![BootMii installation OK](/images/hackmii/bootmii_install_ok.png)
 1. Cuando el proceso haya terminado, selecciona `Continue`.
-1. If you have the option to `Install BootMii as boot2`, please do so as well. This offers the best possible brick protection you can have. <br> De lo contrario, salta este paso.
-1. Select `Exit` to finally open the Homebrew Channel.
+1. Si te aparece la opción `Install BootMii as boot2`, asegúrate de elegirla también. Esto te brindará la mejor protección contra bricks posible. <br> De lo contrario, salta este paso.
+1. Selecciona `Exit` para iniciar el Canal Homebrew.
 
 
-#### Required Reading
+#### Información importante
 
-You can now use the Homebrew Channel to launch homebrew apps. Open Shop Channel is a one-stop shop for downloading homebrew, which you will learn how to install further in this guide.
+Ahora puedes iniciar el Canal Homebrew desde el menú de Wii para ejecutar aplicaciones homebrew. Open Shop Channel es un servicio que te permite descargar aplicaciones homebrew directamente desde tu Wii, el cual te explicaremos cómo utilizar más adelante.
 
-Here's a tip - when installing homebrew applications on your SD Card or USB drive, your folder structure should look like this:
+Al momento de copiar aplicaciones homebrew a tu tarjeta SD o unidad USB, la estructura de las carpetas debería verse así:
 
 ![Proper SD Card Folder Structure](images/Wii/FolderStructure.png)
 
-`AppName1` and `AppName2` are placeholder names. Do not nest multiple `apps` folders inside the `apps` folder itself.
+Los nombres `AppName1` y `AppName2` son de ejemplo. No coloques carpetas con el nombre `apps` dentro de la carpeta `apps` ubicada en la raíz de la tarjeta SD o unidad USB.
 
 [Continue to making a NAND Backup using BootMii](bootmii)<br> Making a NAND backup with BootMii at this point is highly recommended.
 {: .notice--info}
