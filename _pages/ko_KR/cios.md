@@ -18,7 +18,7 @@ Wii 미니가 있다면, [이 cIOS](cios-mini)를 대신 설치합니다. Wii �
 
 - Wii
 - SD 카드 및 USB 드라이브
-- [d2x cIOS 설치 마법사](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
+- [d2x cIOS 설치 마법사](/assets/files/d2x-cios-installer.zip)
 
 SD 카드를 사용하는 경우 잠금 스위치가 잠금 해제 위치에 있는지 확인합니다. 그렇지 않으면 설치 프로그램에서 올바른 옵션을 선택할 수 없습니다.
 {: .notice--warning}
