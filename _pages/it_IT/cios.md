@@ -18,7 +18,7 @@ Se hai un Wii Mini, installa invece [questo cIOS](cios-mini). Provare a installa
 
 - Una Wii
 - Una scheda SD o un'unità USB
-- [d2x cIOS Installer](https://hbb1.oscwii.org/hbb/d2x-cios-installer/d2x-cios-installer.zip)
+- [d2x cIOS Installer](/assets/files/d2x-cios-installer.zip)
 
 Assicurati che se stai utilizzando una scheda SD, la levetta lock si trovi nella posizione di sblocco, altrimenti non potrai selezionare le opzioni corrette nell'installer.
 {: .notice--warning}
