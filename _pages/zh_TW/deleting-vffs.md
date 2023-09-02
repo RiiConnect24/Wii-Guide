@@ -22,9 +22,9 @@ RiiConnect24 Clear Tool is a homebrew application that can fix these specific er
 #### 必備項目
 
 - 一張 SD 卡或 USB 隨身碟
-- [RiiConnect24 Clear Tool](https://hbb1.oscwii.org/hbb/RC24-Clear-Tool/RC24-Clear-Tool.zip)
-- [cdbackup](https://hbb1.oscwii.org/hbb/cdbackup/cdbackup.zip)
-- [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
+- [RiiConnect24 Clear Tool](https://oscwii.org/library/app/RC24-Clear-Tool)
+- [cdbackup](https://oscwii.org/library/app/cdbackup)
+- [sntp](https://oscwii.org/library/app/sntp)
 
 #### 操作說明
 
