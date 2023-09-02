@@ -32,7 +32,7 @@ Wii와 현재 지역에 맞게 특별히 포맷된 테마만 설치하세요. Wi
 * Wii
 * SD 카드 및 USB 드라이브
 * 윈도우즈가 설치된 컴퓨터 (또는 맥/리눅스에서 Mono 또는 Wine 사용)
-* [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
+* [MyMenuify Mod](https://oscwii.org/library/app/MyMenuifyMod)
 * [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 
 #### 테마 링크
