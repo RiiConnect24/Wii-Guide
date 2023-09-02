@@ -22,9 +22,9 @@ RiiConnect24 Clear Tool 是一个自制应用程序，可以修复以下特定�
 #### 你需要
 
 - 一张 SD 卡或 U 盘
-- [RiiConnect24 清除工具](https://hbb1.oscwii.org/hbb/RC24-Clear-Tool/RC24-Clear-Tool.zip)
-- [cdbackup](https://hbb1.oscwii.org/hbb/cdbackup/cdbackup.zip)
-- [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
+- [RiiConnect24 清除工具](https://oscwii.org/library/app/RC24-Clear-Tool)
+- [cdbackup](https://oscwii.org/library/app/cdbackup)
+- [sntp](https://oscwii.org/library/app/sntp)
 
 #### 步骤
 
