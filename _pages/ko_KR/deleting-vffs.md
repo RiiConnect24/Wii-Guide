@@ -22,9 +22,9 @@ RiiConnect24 청소 도구는 이러한 특정 오류와 문제를 해결할 수
 #### 필요한 것
 
 - SD 카드 및 USB 드라이브
-- [RiiConnect24 청소 도구](https://hbb1.oscwii.org/hbb/RC24-Clear-Tool/RC24-Clear-Tool.zip)
-- [cdbackup](https://hbb1.oscwii.org/hbb/cdbackup/cdbackup.zip)
-- [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
+- [RiiConnect24 청소 도구](https://oscwii.org/library/app/RC24-Clear-Tool)
+- [cdbackup](https://oscwii.org/library/app/cdbackup)
+- [sntp](https://oscwii.org/library/app/sntp)
 
 #### 사용 방법
 
