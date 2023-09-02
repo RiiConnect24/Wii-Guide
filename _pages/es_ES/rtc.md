@@ -14,7 +14,7 @@ Con esta guía podrás sincronizar tu Wii con un servidor NTP. Esto te permitir�
 * Una conexión a internet compatible con la Wii
 * El Canal Homebrew
 * Una tarjeta SD o unidad USB
-* [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
+* [sntp](https://oscwii.org/library/app/sntp)
 
 #### Instrucciones
 
