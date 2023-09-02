@@ -18,7 +18,7 @@ USB 드라이브에서 게임을 플레이하는 데 사용되는 Wii용 인기 
 
 * Wii
 * USB 드라이브 또는 SD 카드
-* [USB Loader GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
+* [USB Loader GX](https://oscwii.org/library/app/usbloader_gx)
 
 이 방법을 따르기 전에 [cIOS](/cios)를 설치했는지 확인하세요!
 {: .notice--info}
