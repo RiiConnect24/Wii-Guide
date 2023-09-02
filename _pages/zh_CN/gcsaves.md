@@ -20,7 +20,7 @@ title: "GameCube 存档"
 
 - 拥有 GameCube 端口的 Wii
 - SD 卡或 USB
-- [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
+- [GCMM](https://oscwii.org/library/app/gcmm)
 
 如果您正在寻找 100% 完成度的在线存档，您可以在[这里](https://gamefaqs.gamespot.com/)找到它们。
 {: .notice--info}
@@ -51,7 +51,7 @@ title: "GameCube 存档"
 
 - 拥有 GameCube 端口的 Wii
 - SD 卡或 USB
-- [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
+- [GCMM](https://oscwii.org/library/app/gcmm)
 
 #### 步骤
 
@@ -76,7 +76,7 @@ title: "GameCube 存档"
 
 - 拥有 GameCube 端口的 Wii
 - SD 卡或 USB
-- [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
+- [GCMM](https://oscwii.org/library/app/gcmm)
 
 #### 步骤
 
@@ -98,7 +98,7 @@ title: "GameCube 存档"
 
 - 拥有 GameCube 端口的 Wii
 - SD 卡或 USB
-- [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
+- [GCMM](https://oscwii.org/library/app/gcmm)
 
 #### 步骤
 
