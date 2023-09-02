@@ -26,7 +26,7 @@ If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.ne
 * A Wii U with the Homebrew Channel installed.
 * Una tarjeta SD o unidad USB
 * Una computadora con Windows (o usando Mono o Wine en Mac/Linux)
-* [MyMenuifyMod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
+* [MyMenuifyMod](https://oscwii.org/library/app/MyMenuifyMod)
 * [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 * [NUS Downloader (vWii)](/assets/files/NUSDownloader-vwii.zip)
 
@@ -113,7 +113,7 @@ If you did everything correctly, you should now have your custom theme installed
 
 ##### Reverting to Original Theme
 
-1. Launch the Homebrew Channel.
+1. Inicia el Canal Homebrew.
 2. Launch MyMenuify and navigate to your theme folder.
 3. Select the .app file you copied to the SD card at the end of section 2 as if you were installing a theme.
 4. Select Install and wait until it finishes.
