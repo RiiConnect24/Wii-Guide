@@ -18,7 +18,7 @@ Apesar do nome, o USB Loader GX também é capaz de iniciar jogos de um cartão 
 
 * Um Wii
 * Um armazenamento USB ou cartão SD
-* [USB Loader GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
+* [USB Loader GX](https://oscwii.org/library/app/usbloader_gx)
 
 Certifique-se que instalou [cIOS](/cios) antes de seguir isso!
 {: .notice--info}
