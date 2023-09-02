@@ -26,7 +26,7 @@ If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.ne
 * 홈브류 채널이 설치된 Wii U
 * SD 카드 및 USB 드라이브
 * 윈도우즈가 설치된 컴퓨터 (또는 맥/리눅스에서 Mono 또는 Wine 사용)
-* [MyMenuifyMod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
+* [MyMenuifyMod](https://oscwii.org/library/app/MyMenuifyMod)
 * [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 * [NUS Downloader (vWii)](/assets/files/NUSDownloader-vwii.zip)
 
