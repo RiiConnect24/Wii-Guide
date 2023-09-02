@@ -14,7 +14,7 @@ In this step, you will synchronize your Wii with a NTP time server. This will se
 * A working Internet connection on your Wii
 * The Homebrew Channel
 * Una scheda SD o un'unità USB
-* [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
+* [sntp](https://oscwii.org/library/app/sntp)
 
 #### Istruzioni
 
