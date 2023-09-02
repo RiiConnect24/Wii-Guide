@@ -13,7 +13,7 @@ This is a quick start guide on how to use Nintendont, a popular loader for the W
 
 - Wii
 - SD 카드 및 USB 드라이브
-- [Nintendont](https://hbb1.oscwii.org/hbb/Nintendont/Nintendont.zip)
+- [Nintendont](https://oscwii.org/library/app/Nintendont)
 
 윈도우즈를 사용하는 경우 [게임큐브 백업 관리자](https://github.com/AxionDrak/GameCube-Backup-Manager/releases)로 게임을 복사하는 것을 권장합니다.
 
