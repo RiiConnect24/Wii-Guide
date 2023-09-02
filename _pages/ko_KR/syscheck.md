@@ -12,7 +12,7 @@ SysCheck는 Wii에 있는 모든 IOS 및 cIOS가 나열되며, 각 항목에 대
 #### 필요한 것
 
 * SD 카드 및 USB 드라이브
-* [SysCheck ModMii Edition](https://hbb1.oscwii.org/hbb/SysCheckME/SysCheckME.zip)
+* [SysCheck ModMii Edition](https://oscwii.org/library/app/SysCheckME)
 
 #### 방법
 ##### 섹션 I - 다운로드/설치하기
