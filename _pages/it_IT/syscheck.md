@@ -12,7 +12,7 @@ A SysCheck lists all the IOS and cIOS that are on your Wii, along with some info
 #### What you need
 
 * Una scheda SD o un'unità USB
-* [SysCheck ModMii Edition](https://hbb1.oscwii.org/hbb/SysCheckME/SysCheckME.zip)
+* [SysCheck ModMii Edition](https://oscwii.org/library/app/SysCheckME)
 
 #### Istruzioni
 ##### Section I - Downloading/Installing
