@@ -32,7 +32,7 @@ title: "安装 Wii 菜单主题"
 * 一台 Wii
 * 一张SD卡或U盘
 * 运行 Windows 的电脑（或在 Mac/Linux 上使用 Mono 或 Wine）
-* [MyMenuify Mod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
+* [MyMenuify Mod](https://oscwii.org/library/app/MyMenuifyMod)
 * [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 
 #### 主题链接
