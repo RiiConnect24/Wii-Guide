@@ -15,7 +15,7 @@ title: "WiiFlow"
 
 - 一台Wii
 - U 盘和/或 SD 卡
-- [WiiFlow Lite](https://hbb1.oscwii.org/hbb/wiiflow/wiiflow.zip)
+- [WiiFlow Lite](https://oscwii.org/library/app/wiiflow)
 
 继续前确保已安装[cIOS](/cios)!
 {: .notice--info}
