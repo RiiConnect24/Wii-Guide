@@ -26,7 +26,7 @@ If you somehow happen to brick your vWii, [follow this guide](https://gbatemp.ne
 * A Wii U with the Homebrew Channel installed.
 * Eine SD-Karte oder ein USB-Laufwerk
 * Ein Computer mit Windows (oder nutze Mono oder Wine auf macOS/Linux)
-* [MyMenuifyMod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
+* [MyMenuifyMod](https://oscwii.org/library/app/MyMenuifyMod)
 * [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 * [NUS Downloader (vWii)](/assets/files/NUSDownloader-vwii.zip)
 
