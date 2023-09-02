@@ -11,7 +11,7 @@ En esta guía aprenderás a extraer canales instalados en la memoria de la conso
 
 #### Requisitos
 * Una tarjeta SD o unidad USB
-* [Yet Another BlueDump MOD](https://hbb1.oscwii.org/hbb/Yet-Another-BlueDump-Mod/Yet-Another-BlueDump-Mod.zip)
+* [Yet Another BlueDump MOD](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod)
 
 #### Instrucciones
 ##### Sección I - Descarga
