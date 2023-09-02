@@ -12,7 +12,7 @@ Un SysCheck es un diagnóstico que proporciona información sobre todos los IOS 
 #### Requisitos
 
 * Una tarjeta SD o unidad USB
-* [SysCheck ModMii Edition](https://hbb1.oscwii.org/hbb/SysCheckME/SysCheckME.zip)
+* [SysCheck ModMii Edition](https://oscwii.org/library/app/SysCheckME)
 
 #### Instrucciones
 ##### Sección I - Descarga/instalación
