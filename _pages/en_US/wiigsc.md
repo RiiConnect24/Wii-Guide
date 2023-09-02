@@ -31,7 +31,7 @@ Do NOT make a shortcut for the games "Mario Party 9" or "A Boy and His Blob". It
 ![After selecting the file](/images/wiigsc/WiiGSC_2023-08-21_20-11-00.png)
 3. Install the generated WAD with a WAD Manager, we recommend Wii Mod Lite.
 
-If you're using USB Loader GX, make sure to use [this version](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip).
+If you're using USB Loader GX, make sure to use [this version](https://oscwii.org/library/app/usbloader_gx).
 {: .notice--info}
 
 If you get an error saying "The system files are corrupted", don't panic as long as you installed Priiloader. Turn off your Wii, then hold down the RESET button down and turn on your Wii. You should be able to boot into the Priiloader menu, where you have some options to fix your Wii Menu. One of the options is to launch the Homebrew Channel.

@@ -41,7 +41,7 @@ We are **NOT** responsible if you brick, or damage your console in any way whats
 * A Nintendo Network ID (NNID) linked to your Wii U
 * [Priiloader](priiloader) installed on your vWii
 * [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
-* [RiiConnect24 Mail Patcher](https://hbb1.oscwii.org/hbb/Mail-Patcher/Mail-Patcher.zip)
+* [RiiConnect24 Mail Patcher](https://oscwii.org/library/app/Mail-Patcher)
 
 {% capture notice-2 %}
 After following the vWii modding guide linked above, you should have:
