@@ -34,7 +34,7 @@ And some things to enhance your vWii experience:
 
 - Eine SD-Karte oder ein USB-Laufwerk
 - [Priiloader installer](https://github.com/DacoTaco/priiloader/releases/download/0.10.0-RC3/Priiloader_v0_10RC3.zip)
-- [LoadPriiloader](https://hbb1.oscwii.org/hbb/LoadPriiloader/LoadPriiloader.zip)
+- [LoadPriiloader](https://oscwii.org/library/app/LoadPriiloader)
 
 #### Anleitung
 
