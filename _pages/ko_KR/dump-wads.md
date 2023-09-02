@@ -11,7 +11,7 @@ title: "WAD 덤프"
 
 #### 필요한 것
 * SD 카드 및 USB 드라이브
-* [Yet Another BlueDump MOD](https://hbb1.oscwii.org/hbb/Yet-Another-BlueDump-Mod/Yet-Another-BlueDump-Mod.zip)
+* [Yet Another BlueDump MOD](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod)
 
 #### 방법
 ##### 섹션 I - 다운로드/설치하기
