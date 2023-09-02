@@ -11,7 +11,7 @@ title: "转储 WAD"
 
 #### 需要
 * 一张 SD 卡或 U 盘
-* [Yet Another BlueDump MOD](https://hbb1.oscwii.org/hbb/Yet-Another-BlueDump-Mod/Yet-Another-BlueDump-Mod.zip)
+* [Yet Another BlueDump MOD](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod)
 
 #### 步骤
 ##### 第一部分 - 下载/安装
