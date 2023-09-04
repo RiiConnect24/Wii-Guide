@@ -22,7 +22,7 @@ title: RiiConnect24 vWii 指南
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
-It's recommended to set your Wii to the current time before proceeding. Follow [this tutorial](rtc) in order to set it.
+在继续之前，建议将您的 Wii 设为当前时间。 请按照[此教程](rtc)设置时间。
 {: .notice--warning}
 
 不要在 WII MINI 上安装 RIICONNECT24！ 它将无法正常工作并导致变砖。
@@ -37,18 +37,18 @@ It's recommended to set your Wii to the current time before proceeding. Follow [
 
 * 一张 SD 卡或 U 盘
 * 一台电脑
-* A Wii U with [the vWii modded](https://wiiu.hacks.guide/#/vwii-modding). **This guide requires the latest CFW on your Wii U.**
-* A Nintendo Network ID (NNID) linked to your Wii U
-* [Priiloader](priiloader) installed on your vWii
+* [破解了 vWii](https://wiiu.hacks.guide/#/vwii-modding) 的 Wii U。 **此指南需要 Wii U 安装了最新的 CFW。**
+* 一个与您的 Wii U 绑定的任天堂网络ID（NNID）
+* 在您的 vWii 上安装了 [Priiloader](priiloader)
 * [RiiConnect24 Patcher（Windows、Mac 和 Linux）](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 * [RiiConnect24 Mail Patcher](https://oscwii.org/library/app/Mail-Patcher)
 
 {% capture notice-2 %}
-After following the vWii modding guide linked above, you should have:
-* A vWii NAND backup and keys (keep these stored safely!!)
-* The Homebrew Channel installed
-* d2x cIOS installed (IOS249, IOS250 and IOS251)
-* IOS80 patched
+在完成上面链接的 vWii 修改指南后，您应该有：
+* vWii NAND 备份和密钥（请妥善保存它们！）
+* 安装了 Homebrew Channel
+* 安装了 d2x cIOS（IOS249、IOS250 和 IOS251）
+* 修补了 IOS80
 {% endcapture %}
 
 <div class="notice" markdown="1">
@@ -110,14 +110,14 @@ After following the vWii modding guide linked above, you should have:
 1. 回到 Wii U 菜单，然后再次进入 Wii 模式。
 
 #### 目前什么功能可用？
-The following RiiConnect24 services are **working** on the vWii:
+以下 RiiConnect24 服务在 vWii 上**正常工作**：
 * Forecast Channel
 * News Channel
 * Everybody Votes Channel
 * Nintendo Channel
 * Check Mii Out Channel / Mii Contest Channel
-* Wii Mail (requires Priiloader's `Create message via Calendar button` hack)
+* Wii 邮箱（需要 Priiloader 的 `Create message via Calendar button` 修改）
 {: .notice--success}
 
-Most services that utilize WiiConnect24 will be able to work if you leave vWii running for several hours. There's no standby mode on the console.
+如果您让 vWii 运行几个小时，大多数使用 WiiConnect24 的服务将能够正常工作。 该主机没有待机模式。
 {: .notice--warning}
