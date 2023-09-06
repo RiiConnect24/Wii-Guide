@@ -15,7 +15,7 @@ USB 드라이브 또는 SD 카드에서 게임을 플레이하는 데 사용되�
 
 - Wii
 - USB 드라이브 또는/와 SD 카드
-- [WiiFlow Lite](https://hbb1.oscwii.org/hbb/wiiflow/wiiflow.zip)
+- [WiiFlow Lite](https://oscwii.org/library/app/wiiflow)
 
 이 과정을 따르기 전에 [cIOS](/cios)를 설치했는지 확인하세요!
 {: .notice--info}

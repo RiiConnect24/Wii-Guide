@@ -26,8 +26,8 @@ Una de las funciones más importantes de BootMii es la capacidad de copiar y res
 Si has instalado BootMii como boot2, apaga y vuelve a encender la consola para iniciarlo, y luego salta al paso 3.
 {: .notice--info}
 
-1. Launch the Homebrew Channel.
-1. Press the HOME Button, then select "Launch BootMii". ![BootMii_Main](/images/BootMii/BootMii_Main.png)
+1. Inicia el Canal Homebrew.
+1. Presiona el botón HOME y selecciona `Lanzar BootMii`.![Menú principal de BootMii](/images/BootMii/BootMii_Main.png)
 
 Si la opción `Lanzar BootMii` no aparece, por favor [vuelve a iniciar el HackMii Installer](hackmii) e instala BootMii.
 {: .notice--info}
@@ -42,19 +42,19 @@ Si después de seguir los pasos anteriores, la pantalla se queda en negro y la l
 1. Elige el botón de BackupMii (el que tiene una flecha verde).![Botón BackupMii](/images/BootMii/BootMii_Green_Arrow.png)
    - A continuación se empezará a crear el respaldo de la NAND. Puedes ver el progreso en pantalla.
    - Los bloques defectuosos (que se muestran en negro) son normales, así que no te preocupes si ves algunos mientras se genera el respaldo.
-   - Después de que el respaldo haya sido creado, este será analizado en busca de errores. Ideally, all the blocks should be green after the verification process.
+   - Después de que el respaldo haya sido creado, este será analizado en busca de errores. Lo ideal sería que todos los bloques aparezcan en verde tras finalizar la verificación.
 
 1. Una vez que el proceso haya finalizado, vuelve al menú anterior pulsando cualquier botón.![Creación de respaldo de NAND](/images/BootMii/BootMii_NAND_Backup.png)
 1. Para salir de BootMii, oprime el botón con la flecha negra, y después elige el que tiene el icono del menú de Wii o el Canal Homebrew para salir a donde desees.![Botón volver](/images/BootMii/BootMii_Return_Arrow.png)
 
 <div id="restore-notice" class="notice" markdown="1">
-To restore from a NAND backup on your SD card, you can follow the instructions for [RestoreMii](bootmiirecover).
-Please be reminded that <strong>restoring a NAND backup is usually a last resort,</strong> and that there often better ways to fix your brick.
-Try your best to [identify your brick condition](bricks) and reverse the action that caused it in the first place.
+Para restaurar un respaldo de la NAND desde la tarjeta SD, puedes seguir [esta guía](bootmiirecover).
+Por favor ten en cuenta que restaurar un respaldo para reparar un brick solo debe ser usado como <strong>último recurso</strong>, pues existen mejores formas de recuperar tu consola.
+Puedes intentar [identificar la causa del brick](bricks) y revertir la acción que lo haya provocado.
 </div>
 
-To make sure you don’t lose the files, it's recommended to copy `nand.bin` and `keys.bin` from the root of your SD card to your computer.
+Para evitar perder la copia de seguridad, te sugerimos copiar los archivos `nand.bin` y `keys.bin` (ubicados en la raíz de la tarjeta SD) a tu PC o un almacenamiento en la nube.
 {: .notice--info}
 
-[Continue to Priiloader Installation](priiloader)<br> Priiloader adds a level of brick protection, and is highly recommended, especially if you were only able to install BootMii as IOS.
+[Continuar a la instalación de Priiloader](priiloader)<br> Priiloader añade una capa de protección contra bricks, por lo que recomendamos su instalación, especialmente si solo pudiste instalar BootMii como IOS.
 {: .notice--info}

@@ -34,14 +34,14 @@ And some things to enhance your vWii experience:
 
 - 一張 SD 卡或 USB 隨身碟
 - [Priiloader installer](https://github.com/DacoTaco/priiloader/releases/download/0.10.0-RC3/Priiloader_v0_10RC3.zip)
-- [LoadPriiloader](https://hbb1.oscwii.org/hbb/LoadPriiloader/LoadPriiloader.zip)
+- [LoadPriiloader](https://oscwii.org/library/app/LoadPriiloader)
 
 #### 操作說明
 
 ##### 第一節 — 下載/安裝
 
 1. Download the Priiloader installer and LoadPriiloader apps.
-1. Extract each app to your SD card or USB drive making each be inside the `apps` folder.
+1. Extract both apps to the root of your SD card or USB drive.
 
 ##### 第二節 — 安裝 Priiloader
 

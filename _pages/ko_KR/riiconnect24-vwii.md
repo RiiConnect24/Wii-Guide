@@ -18,8 +18,7 @@ This guide is for vWii (Wii Mode on Wii U) only.
 
 - Wii에 에 RiiConnect24를 설치하려면 [이 자습서](riiconnect24-wii)를 따릅니다.
 - Dolphin 에뮬레이터에 RiiConnect24를 설치하려면 [이 자습서](riiconnect24-dolphin)를 따릅니다.
-
-{% endcapture notice-1 %}
+{% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
@@ -36,30 +35,21 @@ We are **NOT** responsible if you brick, or damage your console in any way whats
 
 #### 필요한 것
 
-- SD 카드 및 USB 드라이브
-- 컴퓨터
-- A Wii U console with an Internet connection that's capable of launching the Homebrew Launcher (either via the web browser exploit, Haxchi or Coldboot Haxchi).
-
-If you do not have a softmodded Wii U console, please follow [this guide](https://wiiu.hacks.guide), as well as the [virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) and then come back.
-{: .notice--warning}
-
-<!-- * A Wii U with [the vWii modded](https://wiiu.hacks.guide/#/vwii-modding). **This guide requires the latest CFW on your Wii U.**
-- A Nintendo Network ID (NNID) linked to your Wii U
-- [Priiloader](priiloader) installed on your vWii
-- [Load Priiloader](https://hbb1.oscwii.org/hbb/LoadPriiloader/LoadPriiloader.zip) -->
-
-- [RiiConnect24 패치 관리자 (윈도우, 맥, 리눅스)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
-- [RiiConnect24 Mail Patcher](https://hbb1.oscwii.org/hbb/Mail-Patcher/Mail-Patcher.zip)
+* SD 카드 및 USB 드라이브
+* 컴퓨터
+* A Wii U with [the vWii modded](https://wiiu.hacks.guide/#/vwii-modding). **This guide requires the latest CFW on your Wii U.**
+* A Nintendo Network ID (NNID) linked to your Wii U
+* [Priiloader](priiloader) installed on your vWii
+* [RiiConnect24 패치 관리자 (윈도우, 맥, 리눅스)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+* [RiiConnect24 Mail Patcher](https://oscwii.org/library/app/Mail-Patcher)
 
 {% capture notice-2 %}
 After following the vWii modding guide linked above, you should have:
-
-- A vWii NAND backup and keys stored safely
-- The Homebrew Channel installed
-- d2x cIOS installed (IOS249, IOS250 and IOS251)
-- IOS80 patched
-
-{% endcapture notice-2 %}
+* A vWii NAND backup and keys (keep these stored safely!!)
+* The Homebrew Channel installed
+* d2x cIOS installed (IOS249, IOS250 and IOS251)
+* IOS80 patched
+{% endcapture %}
 
 <div class="notice" markdown="1">
 
@@ -85,7 +75,7 @@ RiiConnect24 패치 관리자를 실행할 수 없는 경우, [RiiConnect24 디�
 10. SD 카드 또는 USB 드라이브를 컴퓨터에 연결하고 "`1`"을 선택합니다. ![SD 카드로 복사 활성화](/images/RC24_Patcher/7.JPG)
 11. 장치가 성공적으로 감지되면 "`1`"을 선택합니다. 그렇지 않은 경우 SD 카드 또는 USB 드라이브에 `apps` 폴더가 있는지 확인한 후 다시 시도합니다. ![감지 성공](/images/RC24_Patcher/8.JPG)
 12. 인내심을 가지세요...![패치 중입니다!](/images/RC24_Patcher/9.JPG)
-13. 완료된 후 잠시 시간을 내어 익명으로 피드백을 보내주시면 감사하겠습니다. 원하지 않는 경우 패치 관리자를 닫으세요. 모든 파일은 이미 SD 카드에 저장되어 있어야 합니다. ![완료되었습니다!](/images/RC24_Patcher/10.JPG) ![파일 복사됨](/images/RC24_Patcher/11.PNG)
+13. 완료된 후 잠시 시간을 내어 익명으로 피드백을 보내주시면 감사하겠습니다.  원하지 않는 경우 패치 관리자를 닫으세요. 모든 파일은 이미 SD 카드에 저장되어 있어야 합니다. ![완료되었습니다!](/images/RC24_Patcher/10.JPG) ![파일 복사됨](/images/RC24_Patcher/11.PNG)
 14. SD 카드 또는 USB 장치에 모든 것이 자동으로 복사되지 않았다면, `WAD` 및 `apps` 폴더 옆에 있는 `RiiConnect24Patcher.bat` 폴더를 SD 카드 또는 USB 장치에 복사합니다.
 
 ##### 섹션 II - WAD 설치
@@ -120,16 +110,14 @@ nwc24msg.cfg를 올바르게 패치할 수 없는 경우, [RiiConnect24 디스�
 1. Return to the Wii U Menu, then go right back to Wii Mode.
 
 #### 무엇이 현재 작동하나요?
-
 The following RiiConnect24 services are **working** on the vWii:
-
-- Forecast Channel
-- News Channel
-- Everybody Votes Channel
-- Nintendo Channel
-- Check Mii Out Channel / Mii Contest Channel
-- Wii Mail (requires Priiloader's `Create message via Calendar button` hack)
-  {: .notice--success}
+* Forecast Channel
+* News Channel
+* Everybody Votes Channel
+* Nintendo Channel
+* Check Mii Out Channel / Mii Contest Channel
+* Wii Mail (requires Priiloader's `Create message via Calendar button` hack)
+{: .notice--success}
 
 Most services that utilize WiiConnect24 will be able to work if you leave vWii running for several hours. There's no standby mode on the console.
 {: .notice--warning}

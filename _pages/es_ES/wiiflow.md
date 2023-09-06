@@ -15,7 +15,7 @@ Esta es una guía de inicio rápido sobre cómo usar USB Loader GX, un popular c
 
 - Una consola Wii
 - Una unidad USB y/o tarjeta SD
-- [WiiFlow Lite](https://hbb1.oscwii.org/hbb/wiiflow/wiiflow.zip)
+- [WiiFlow Lite](https://oscwii.org/library/app/wiiflow)
 
 ¡Asegúrate de haber instalado [cIOS](/cios) antes de continuar!
 {: .notice--info}

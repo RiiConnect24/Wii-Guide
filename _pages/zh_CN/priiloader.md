@@ -34,14 +34,14 @@ Priiloader 0.10.0 引入了 vWii 支持！ <br> 有一些重要事项需要注�
 
 - 一张 SD 卡或 U 盘
 - [Priiloader installer](https://github.com/DacoTaco/priiloader/releases/download/0.10.0-RC3/Priiloader_v0_10RC3.zip)
-- [LoadPriiloader](https://hbb1.oscwii.org/hbb/LoadPriiloader/LoadPriiloader.zip)
+- [LoadPriiloader](https://oscwii.org/library/app/LoadPriiloader)
 
 #### 步骤
 
 ##### 第一部分 - 下载/安装
 
 1. 下载 Priiloader installer 和 LoadPriiloader 应用。
-1. 将每个应用解压到 SD 卡或 U 盘的 `apps` 文件夹中。
+1. 将两个应用解压到 SD 卡或 U 盘的根目录。
 
 ##### 第二部分 - 安装 Priiloader
 

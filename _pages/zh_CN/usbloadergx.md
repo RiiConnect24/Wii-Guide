@@ -18,7 +18,7 @@ title: "USB Loader GX"
 
 * 一台Wii
 * 移动硬盘/U 盘或 SD 卡
-* [USB Loader GX](https://hbb1.oscwii.org/hbb/usbloader_gx/usbloader_gx.zip)
+* [USB Loader GX](https://oscwii.org/library/app/usbloader_gx)
 
 请确保遵循此步骤前已经安装了 [cIOS](/cios)！
 {: .notice--info}

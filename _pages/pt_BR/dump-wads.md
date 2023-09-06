@@ -11,7 +11,7 @@ Este tutorial explica como extrair WADs instaladas na memória do Sistema do Wii
 
 #### Requisitos
 * Um cartão SD ou armazenamento USB
-* [Yet Another BlueDump MOD](https://hbb1.oscwii.org/hbb/Yet-Another-BlueDump-Mod/Yet-Another-BlueDump-Mod.zip)
+* [Yet Another BlueDump MOD](https://oscwii.org/library/app/Yet-Another-BlueDump-Mod)
 
 #### Instruções
 ##### Parte I - Baixando/Instalando

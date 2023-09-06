@@ -20,7 +20,7 @@ title: "게임큐브 저장"
 
 - 게임큐브 포트가 있는 Wii
 - SD 카드 또는 USB
-- [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
+- [GCMM](https://oscwii.org/library/app/gcmm)
 
 온라인에서 100% 완료 저장을 찾고 있다면 [여기](https://gamefaqs.gamespot.com/)에서 찾을 수 있습니다.
 {: .notice--info}
@@ -51,7 +51,7 @@ title: "게임큐브 저장"
 
 - 게임큐브 포트가 있는 Wii
 - SD 카드 또는 USB
-- [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
+- [GCMM](https://oscwii.org/library/app/gcmm)
 
 #### 사용 방법
 
@@ -76,7 +76,7 @@ title: "게임큐브 저장"
 
 - 게임큐브 포트가 있는 Wii
 - SD 카드 또는 USB
-- [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
+- [GCMM](https://oscwii.org/library/app/gcmm)
 
 #### 사용 방법
 
@@ -98,7 +98,7 @@ title: "게임큐브 저장"
 
 - 게임큐브 포트가 있는 Wii
 - SD 카드 또는 USB
-- [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
+- [GCMM](https://oscwii.org/library/app/gcmm)
 
 #### 사용 방법
 

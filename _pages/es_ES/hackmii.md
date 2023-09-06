@@ -1,5 +1,5 @@
 ---
-title: "Relaunching the HackMii Installer"
+title: "Volver a lanzar el HackMii Installer"
 ---
 
 {% include toc title="Tabla de contenido" %}
@@ -7,49 +7,49 @@ title: "Relaunching the HackMii Installer"
 Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado), o envíanos un [correo electrónico](mailto:support@riiconnect24.net). Soporte disponible solo en inglés.
 {: .notice--info}
 
-This guide is intended for situations where you need to relaunch the HackMii Installer to update/reinstall the Homebrew Channel or BootMii.
+Esta guía puede ser usada en situaciones donde necesites volver a cargar la aplicación HackMii Installer para actualizar o reinstalar el Canal Homebrew o BootMii.
 
-It is also safe to [redo any exploit](get-started) to get back into the HackMii Installer.
+También puedes [ejecutar otra vez cualquier exploit](get-started) para ingresar nuevamente a HackMii Installer.
 {: .notice--info}
 
-### Relaunching via the Homebrew Channel
+### Iniciar desde el Canal Homebrew
 
 #### Requisitos
 
-- The Homebrew Channel
-- An SD card or USB drive formatted to FAT32/MS-DOS
+- El Canal Homebrew
+- Una tarjeta SD o unidad USB formateada como FAT32
 - [HackMii Installer v1.2](https://bootmii.org/download/)
 
 #### Instrucciones
 
-1. Insert your SD/USB into your PC.
-1. Extract the HackMii Installer v1.2 to the `apps` folder on your SD/USB.
-  - If this folder does not exist, create it.
-1. Insert the SD/USB into your Wii, and launch the `hackmii_installer_v1.2` app from the Homebrew Channel.
-  - The app will not have an icon.
+1. Inserta la tarjeta SD o unidad USB en tu PC.
+1. Extrae el archivo de HackMii Installer a la carpeta `apps`, ubicada en la raíz de la tarjeta SD o unidad USB.
+  - Si la carpeta no existe, créala.
+1. Inserta la tarjeta SD o unidad USB en tu Wii, e inicia la aplicación `hackmii_installer_v1.2` desde el Canal Homebrew.
+  - La aplicación se mostrará sin ningún icono.
 
-[Continue to Homebrew Channel and BootMii installation](hbc)
+[Continuar a la instalación del Canal Homebrew y BootMii](hbc)
 {: .notice--info}
 
-### Relaunching via Priiloader
+### Iniciar desde Priiloader
 
 #### Requisitos
-- a Wii with Priiloader (or Preloader) installed
-- an SD card or USB drive formatted to FAT32/MS-DOS
+- Una Wii con Priiloader (o Preloader) instalado
+- Una tarjeta SD o unidad USB formateada como FAT32
 - [HackMii Installer v1.2](https://bootmii.org/download/)
 
-To check if your Wii has Priiloader, hold the RESET button while turning it on. ![Enciende la consola](/images/Priiloader/on.jpg) ![Mantén oprimido RESET](/images/Priiloader/reset.jpg)
+Para saber si tu Wii tiene Priiloader, mantén oprimido el botón RESET mientras enciendes la consola.![Enciende la consola](/images/Priiloader/on.jpg) ![Mantén oprimido RESET](/images/Priiloader/reset.jpg)
 {: .notice--info}
 
 #### Instrucciones
 
-1. Insert your SD/USB into your PC.
-1. Extract the HackMii Installer v1.2 to the `apps` folder on your SD/USB.
-  - If this folder does not exist, create it.
-1. Insert your SD/USB into your Wii.
-1. Enter Priiloader by holding the RESET button while turning on your Wii.
-1. Go to `Load/Install File`.
-1. Navigate to `hackmii_installer_v1.2` and press `1` to load it.
+1. Inserta la tarjeta SD o unidad USB en tu PC.
+1. Extrae el archivo de HackMii Installer a la carpeta `apps`, ubicada en la raíz de la tarjeta SD o unidad USB.
+  - Si la carpeta no existe, créala.
+1. Inserta la tarjeta SD o unidad USB en tu Wii.
+1. Ingresa a Priiloader manteniendo pulsado RESET mientras enciendes tu Wii.
+1. Elige la opción `Load/Install File`.
+1. Navega hasta `hackmii_installer_v1.2` y oprime el botón 1 para cargar la aplicación.
 
 [Continuar a la instalación del Canal Homebrew y BootMii](hbc)
 {: .notice--info}

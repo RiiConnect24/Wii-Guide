@@ -20,7 +20,7 @@ Use of any GameCube peripheral with a Family Edition Wii or Wii Mini require sol
 
 - A Wii with GameCube ports
 - An SD Card or USB
-- [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
+- [GCMM](https://oscwii.org/library/app/gcmm)
 
 If you are looking for 100% completion saves online, you can find them [here](https://gamefaqs.gamespot.com/).
 {: .notice--info}
@@ -51,7 +51,7 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 
 - A Wii with GameCube ports
 - An SD Card or USB
-- [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
+- [GCMM](https://oscwii.org/library/app/gcmm)
 
 #### Anleitung
 
@@ -76,7 +76,7 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 
 - A Wii with GameCube ports
 - An SD Card or USB
-- [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
+- [GCMM](https://oscwii.org/library/app/gcmm)
 
 #### Anleitung
 
@@ -98,7 +98,7 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 
 - A Wii with GameCube ports
 - An SD Card or USB
-- [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
+- [GCMM](https://oscwii.org/library/app/gcmm)
 
 #### Anleitung
 

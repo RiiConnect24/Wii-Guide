@@ -15,7 +15,7 @@ This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that
 
 - Eine Wii
 - Ein USB-Laufwerk und/oder eine SD-Karte
-- [WiiFlow Lite](https://hbb1.oscwii.org/hbb/wiiflow/wiiflow.zip)
+- [WiiFlow Lite](https://oscwii.org/library/app/wiiflow)
 
 Make sure you have installed [cIOS](/cios) before following this!
 {: .notice--info}

@@ -20,7 +20,7 @@ Usar qualquer periférico de GameCube com um Family Edition Wii ou Wii Mini requ
 
 - Um Wii com portas de GameCube
 - Um cartão SD ou USB
-- [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
+- [GCMM](https://oscwii.org/library/app/gcmm)
 
 Se você está procurando por saves 100% completos, você pode encontrá-los [aqui](https://gamefaqs.gamespot.com/).
 {: .notice--info}
@@ -51,7 +51,7 @@ Se você está procurando por exploits de saves de jogo para inicializar no [Swi
 
 - Um Wii com portas de GameCube
 - Um cartão SD ou USB
-- [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
+- [GCMM](https://oscwii.org/library/app/gcmm)
 
 #### Instruções
 
@@ -76,7 +76,7 @@ Se você está procurando por exploits de saves de jogo para inicializar no [Swi
 
 - Um Wii com portas de GameCube
 - Um cartão SD ou USB
-- [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
+- [GCMM](https://oscwii.org/library/app/gcmm)
 
 #### Instruções
 
@@ -98,7 +98,7 @@ Se você está procurando por exploits de saves de jogo para inicializar no [Swi
 
 - Um Wii com portas de GameCube
 - Um cartão SD ou USB
-- [GCMM](https://hbb1.oscwii.org/hbb/gcmm/gcmm.zip)
+- [GCMM](https://oscwii.org/library/app/gcmm)
 
 #### Instruções
 

@@ -14,7 +14,7 @@ title: "设置 RTC 时间"
 * 您的 Wii 需要正常的互联网连接
 * Homebrew Channel
 * 一张 SD 卡或 U 盘
-* [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
+* [sntp](https://oscwii.org/library/app/sntp)
 
 #### 步骤
 

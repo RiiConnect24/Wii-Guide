@@ -45,7 +45,7 @@ Si has usado una unidad USB para instalar Priiloader, asegúrate de que no tiene
 1. Pulsa abajo hasta llegar a `System Menu` y pulsa A para salir al menú de Wii.
 1. Inicia tu juego desde el Canal Disco. Ahora deberías poder acceder a Wiimmfi.
 
-If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you do not have the latest version of the hacks_hash.ini file, and you need to [re-install Priiloader](priiloader). Then, repeat the previous steps.
+Si el nombre del hack es `Wiimmfi Patch v2` o `Wiimmfi Patch v3`, significa que no tienes la última versión del archivo hacks_hash.ini, por lo que deberás seguir [esta guía](priiloader) para volver a instalar Priiloader. Sigue los pasos anteriores nuevamente una vez que hayas reinstalado Priiloader.
 {: .notice--warning}
 
 ### Aplicación homebrew para discos
@@ -98,8 +98,8 @@ Este método permite aplicar el parche de Wiimmfi a algunos juegos antiguos, com
 6. Elige `Modificar`.
 7. Ve hasta la cuarta página, donde está la opción `Obtener DNS automáticamente` (no es en `Obtener drección IP automáticamente`), elige `No` y después selecciona `Configuración avanzada`.
 8. Ingresa `95.217.77.181` en `DNS primario`.
-9. Escribe `1.1.1.1` en `DNS secundario<code>.</li>
-<li>Selecciona <code>Confirmar` y después elige `Guardar`.
+9. Escribe `1.1.1.1` en DNS secundario.
+10. Selecciona `Confirmar` y después elige `Guardar`.
 11. Elige `Aceptar` para realizar una prueba de conexión.
 12. Si la prueba de conexión ha sido exitosa, elige `No` para saltar la actualización de la consola Wii.
 
@@ -200,7 +200,7 @@ Algunos títulos están optimizados para DSi, lo que significa que pueden conect
 4. Repite el paso anterior para el DNS secundario.
 5. Guarda los cambios y realiza una prueba de conexión. Si es exitosa, estás listo para jugar.
 
-Si recibes el código de error 20110, significa que tu proveedor de servicios de internet (ISP) o entorno de red no permiten el uso de servidores DNS externos. You can use our [DNS-Server](https://github.com/RiiConnect24/DNS-Server/releases/latest) program to bypass this.
+Si recibes el código de error 20110, significa que tu proveedor de servicios de internet (ISP) o entorno de red no permiten el uso de servidores DNS externos. Puedes usar nuestro [programa de servidor DNS local](https://github.com/RiiConnect24/DNS-Server/releases/latest) para evadir esta restrición.
 {: .notice--warning}
 
 No podrás acceder a Sudomemo (servidor no oficial para Flipnote Studio) mientras utilices nuestro DNS. Si deseas usar Sudomemo en vez de jugar en línea en Wiimmfi, deberás configurar `104.248.0.110` como el DNS primario y secundario desde los ajustes de internet de DSi o 3DS, no en la Configuración de la CWF de Nintendo para juegos de DS. También puedes usar el [servidor DNS local de Sudomemo](https://github.com/Sudomemo/sudomemoDNS).

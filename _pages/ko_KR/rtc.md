@@ -14,7 +14,7 @@ title: "RTC 시간 설정"
 * A working Internet connection on your Wii
 * 홈브류 채널
 * SD 카드 및 USB 드라이브
-* [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
+* [sntp](https://oscwii.org/library/app/sntp)
 
 #### 사용 방법
 

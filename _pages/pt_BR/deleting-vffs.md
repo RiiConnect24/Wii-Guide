@@ -22,9 +22,9 @@ RiiConnect24 Clear Tool é um aplicativo homebrew que pode corrigir esses erros 
 #### Você precisará de
 
 - Um cartão SD ou armazenamento USB
-- [RiiConnect24 Clear Tool](https://hbb1.oscwii.org/hbb/RC24-Clear-Tool/RC24-Clear-Tool.zip)
-- [cdbackup](https://hbb1.oscwii.org/hbb/cdbackup/cdbackup.zip)
-- [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
+- [RiiConnect24 Clear Tool](https://oscwii.org/library/app/RC24-Clear-Tool)
+- [cdbackup](https://oscwii.org/library/app/cdbackup)
+- [sntp](https://oscwii.org/library/app/sntp)
 
 #### Instruções
 

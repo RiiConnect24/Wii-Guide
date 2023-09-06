@@ -1,32 +1,32 @@
 ---
-title: "Setting RTC Time"
+title: "Ajustar el reloj interno de la consola"
 ---
 
-If you need help with anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado), o envíanos un [correo electrónico](mailto:support@riiconnect24.net). Soporte disponible solo en inglés.
 {: .notice--info}
 
-You need an Internet connection in order to use this application.
+Necesitarás una conexión a internet para usar esta aplicación.
 {: .notice--warning}
 
-In this step, you will synchronize your Wii with a NTP time server. This will set your Wii's clock to the correct time to prevent potential problems when installing services such as RiiConnect24.
+Con esta guía podrás sincronizar tu Wii con un servidor NTP. Esto te permitirá ajustar el reloj de la consola a la fecha y hora actual, para así evitar problemas al momento de utilizar servicios en línea como RiiConnect24.
 
 #### Requisitos
-* A working Internet connection on your Wii
-* The Homebrew Channel
+* Una conexión a internet compatible con la Wii
+* El Canal Homebrew
 * Una tarjeta SD o unidad USB
-* [sntp](https://hbb1.oscwii.org/hbb/sntp/sntp.zip)
+* [sntp](https://oscwii.org/library/app/sntp)
 
 #### Instrucciones
 
-1. Download and extract the sntp zip to the root of your SD card or USB drive.
-2. Conecta la tarjeta SD o unidad USB a tu Wii.
-3. Inicia el Canal Homebrew en tu Wii.
-4. Launch sntp.
-5. Use the +Control Pad to select the current time.
-6. Press the HOME Button to exit.
+1. Extrae el archivo de sntp a la raíz de tu tarjeta SD o unidad USB.
+2. Inserta la tarjeta SD o unidad USB en tu Wii.
+3. Inicia el Canal Homebrew en la Wii.
+4. Lanza sntp.
+5. Utiliza el botón cruz para elegir la hora actual.
+6. Oprime el botón HOME para salir.
 
-[Continue to RiiConnect24](riiconnect24)<br> RiiConnect24 allows you to use discontinued services from WiiConnect24, which include the News, Forecast, Everybody Votes, Nintendo and Check Mii Out Channel, along with Wii Mail. This is optional to install.
+[Continuar a la instalación de RiiConnect24](riiconnect24)<br> RiiConnect24 te permite usar nuevamente el servicio WiiConnect24 y sus diversas funciones, incluyendo el Canal Noticias, Canal Tiempo, Canal Opiniones, Canal Nintendo, y Canal Miirame, además del intercambio de mensajes entre consolas Wii. Este proceso es opcional.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Ir al mapa del sitio](site-navigation)<br> Tenemos muchas otras guías que podrían interesarte.
 {: .notice--info}

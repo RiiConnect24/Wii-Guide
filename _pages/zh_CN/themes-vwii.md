@@ -26,7 +26,7 @@ title: "在 vWii 上安装 Wii 菜单主题"
 * 安装了 Homebrew Channel 的 Wii U。
 * 一张 SD 卡或 U 盘
 * 运行 Windows 的电脑（或在 Mac/Linux 上使用 Mono 或 Wine）
-* [MyMenuifyMod](https://hbb1.oscwii.org/hbb/MyMenuifyMod/MyMenuifyMod.zip)
+* [MyMenuifyMod](https://oscwii.org/library/app/MyMenuifyMod)
 * [ThemeMii Mod](/assets/files/New_ThemeMii_MOD.zip)
 * [NUS Downloader (vWii)](/assets/files/NUSDownloader-vwii.zip)
 

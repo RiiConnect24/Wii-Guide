@@ -18,8 +18,7 @@ title: RiiConnect24 vWii 指南
 
 - 如果您想在 Wii 上安装RiiConnect24，请按照[此教程](riiconnect24-wii)进行操作。
 - 如果您想在 Dolphin 模拟器上安装 RiiConnect24，请按照[此教程](riiconnect24-dolphin)进行操作。
-
-{% endcapture notice-1 %}
+{% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
 
@@ -36,30 +35,21 @@ title: RiiConnect24 vWii 指南
 
 #### 你需要的是
 
-- 一张 SD 卡或 U 盘
-- 一台电脑
-- 拥有互联网连接的 Wii U 主机，可以通过网络浏览器漏洞、Haxchi 或 Coldboot Haxchi 等方式启动 Homebrew Launcher。
-
-如果您的 Wii U 主机没有软破，请按照[此指南](https://wiiu.hacks.guide)以及 [virtual Wii modding guide](https://wiiuguide.xyz/#/vwii-modding) 进行操作，然后再回来。
-{: .notice--warning}
-
-<!-- * A Wii U with [the vWii modded](https://wiiu.hacks.guide/#/vwii-modding). **This guide requires the latest CFW on your Wii U.**
-- A Nintendo Network ID (NNID) linked to your Wii U
-- [Priiloader](priiloader) installed on your vWii
-- [Load Priiloader](https://hbb1.oscwii.org/hbb/LoadPriiloader/LoadPriiloader.zip) -->
-
-- [RiiConnect24 Patcher（Windows、Mac 和 Linux）](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
-- [RiiConnect24 Mail Patcher](https://hbb1.oscwii.org/hbb/Mail-Patcher/Mail-Patcher.zip)
+* 一张 SD 卡或 U 盘
+* 一台电脑
+* [破解了 vWii](https://wiiu.hacks.guide/#/vwii-modding) 的 Wii U。 **此指南需要 Wii U 安装了最新的 CFW。**
+* 一个与您的 Wii U 绑定的任天堂网络ID（NNID）
+* 在您的 vWii 上安装了 [Priiloader](priiloader)
+* [RiiConnect24 Patcher（Windows、Mac 和 Linux）](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+* [RiiConnect24 Mail Patcher](https://oscwii.org/library/app/Mail-Patcher)
 
 {% capture notice-2 %}
 在完成上面链接的 vWii 修改指南后，您应该有：
-
-- VWii NAND备份和妥善保存的密钥
-- 安装了 Homebrew Channel
-- 安装了 d2x cIOS（IOS249、IOS250 和 IOS251）
-- 修补了 IOS80
-
-{% endcapture notice-2 %}
+* vWii NAND 备份和密钥（请妥善保存它们！）
+* 安装了 Homebrew Channel
+* 安装了 d2x cIOS（IOS249、IOS250 和 IOS251）
+* 修补了 IOS80
+{% endcapture %}
 
 <div class="notice" markdown="1">
 
@@ -85,7 +75,7 @@ title: RiiConnect24 vWii 指南
 10. 将 SD 卡或 U 盘连接到电脑上，并选择“`1`”。 ![启用复制到 SD 卡](/images/RC24_Patcher/7.JPG)
 11. 如果成功检测到您的设备，请选择 "`1`"。 如果没有，请确保您的 SD 卡或 U 盘上有一个名为 `apps` 的文件夹，然后重试。 ![成功检测](/images/RC24_Patcher/8.JPG)
 12. 请耐心等待... ![正在打补丁！](/images/RC24_Patcher/9.JPG)
-13. 完成后，如果您能花一分钟时间向我们发送匿名反馈，我们将不胜感激。 如果您不想发送反馈，关闭 patcher（修补程序）。 所有文件应该已经位于您的 SD 卡上。 ![已完成！](/images/RC24_Patcher/10.JPG) ![已复制文件](/images/RC24_Patcher/11.PNG)
+13. 完成后，如果您能花一分钟时间向我们发送匿名反馈，我们将不胜感激。  如果您不想发送反馈，关闭 patcher（修补程序）。 所有文件应该已经位于您的 SD 卡上。 ![已完成！](/images/RC24_Patcher/10.JPG) ![已复制文件](/images/RC24_Patcher/11.PNG)
 14. 如果没有自动将所有文件复制到您的 SD 卡或 U 盘上，请将 `RiiConnect24Patcher.bat` 旁边的 `WAD` 和 `apps` 文件夹复制到您的 SD 卡或 U 盘上。
 
 ##### 第二部分 - 安装 WAD
@@ -120,16 +110,14 @@ title: RiiConnect24 vWii 指南
 1. 回到 Wii U 菜单，然后再次进入 Wii 模式。
 
 #### 目前什么功能可用？
-
 以下 RiiConnect24 服务在 vWii 上**正常工作**：
-
-- Forecast Channel
-- News Channel
-- Everybody Votes Channel
-- Nintendo Channel
-- Check Mii Out Channel / Mii Contest Channel
-- Wii 邮箱（需要 Priiloader 的 `Create message via Calendar button` hack）
-  {: .notice--success}
+* Forecast Channel
+* News Channel
+* Everybody Votes Channel
+* Nintendo Channel
+* Check Mii Out Channel / Mii Contest Channel
+* Wii 邮箱（需要 Priiloader 的 `Create message via Calendar button` 修改）
+{: .notice--success}
 
 如果您让 vWii 运行几个小时，大多数使用 WiiConnect24 的服务将能够正常工作。 该主机没有待机模式。
 {: .notice--warning}
