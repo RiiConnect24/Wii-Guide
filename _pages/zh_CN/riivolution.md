@@ -12,7 +12,7 @@ title: "Riivolution"
 如果您想在 Wii mini 上使用 Riivolution，必须焊接 WiFi 卡并安装 Wii IOS。
 {: .notice--warning}
 
-Riivolution requires a working disk drive and a clean physical copy of the disk the desired mod is for. Scratched disks may or may not work very well or at all.
+Riivolution 需要正常工作的光驱和所需模组的光盘的原版拷贝。 划伤的光盘可能运行得很好，也可能根本无法运行。
 {: .notice--info}
 
 ![Riivolution](/images/riivolution.png)
@@ -22,31 +22,31 @@ Riivolution requires a working disk drive and a clean physical copy of the disk 
 
 * 一台 Wii
 * 移动硬盘/U 盘或 SD 卡
-* The files for your desired mod
-* A clean physical copy of the disk the mod is for
-* A working disk drive
+* 您所需的模组文件
+* 所需模组的光盘的原版拷贝
+* 正常工作的光驱
 * [Riivolution](https://hbb1.oscwii.org/hbb/riivolution/riivolution.zip)
 
-1. Extract Riivolution and put it in the `apps` folder on your SD card or USB drive.
-2. Extract your mod files according to the diagram below to the SD or USB drive. Depending on the mod you downloaded, it may or may not already come properly structured for you.
-3. Insert your SD card and/or USB drive into your Wii and launch Riivolution from the Homebrew Channel.
-4. Insert the disk into the Wii.
-    * Optional step: you can install the official riivolution forwarder channel to the Wii menu by selecting the install option to the right. This negates the need for having to launch the homebrew channel every time you want to launch riivolution.
-5. Enable the mod and select Launch. Depending on the mod, you may have different options for it.
+1. 解压 Riivolution 并将其放在 SD 卡或 U 盘的 `apps` 文件夹中。
+2. 按照下图将模组文件解压到 SD 或 U 盘中。 根据您下载的模组，他可能已经为您设置了正确的结构，也可能没有。
+3. 将 SD 卡和/或 U 盘插入 Wii，然后从 Homebrew Channel 启动 Riivolution。
+4. 将光盘插入 Wii。
+    * 可选步骤：您可以选择右侧的安装选项将官方的 riivolution 转发频道安装到 Wii 菜单中。 这样就不必在每次启动 riivolution 时都启动 homebrew channel 了。
+5. 启用模组并选择启动。 根据不同的模组，您可能会有不同的选项。
 
-Pay attention to the region your mod is meant for. NTSC is for U.S and Japan, and PAL is for Europe and Korea.
+请注意您的模组适用的区域。 NTSC 适用于美国和日本，PAL 适用于欧洲和韩国。
 {: .notice--info}
 
-#### File Structure
+#### 文件结构
 
-Every Riivolution mod is different, and depending on which mod you choose, it may include more or less files than shown in this diagram.
+每个 Riivolution 模组都不尽相同，取决于您选择的模组，其中包含的文件可能多于或少于此图。
 {: .notice--info}
 
-Do not get confused with the actual Riivolution app, and the Riivolution folder that goes on the root.
+不要混淆实际的 Riivolution 应用和根目录下的 Riivolution 文件夹。
 {: .notice--info}
 
 <details id="Riivolution-Files" class="notice--info" markdown="1">
-<summary><a>Click here for an example file structure.</a></summary>
+<summary><a>点击这里以查看文件结构示例。</a></summary>
 
 ```
 💾sd:
