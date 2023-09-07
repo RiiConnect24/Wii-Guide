@@ -64,7 +64,7 @@ sitemap: false
 - [管理 GameCube 存档文件](gcsaves)
 - [Nintendont](nintendont)
 - [执行 SysCheck](syscheck)
-- [Playing Wii Game Mods](riivolution)
+- [玩 Wii 游戏模组](riivolution)
 - [删除 RSSMii](rssmii-remove)
 - [RiiTag](riitag)
 - [Wii U 上的 RiiTag](riitag-wiiu)
