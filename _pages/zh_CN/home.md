@@ -22,7 +22,7 @@ excerpt: "破解任天堂 Wii 的完整指南。"
 
 以下是您可以通过自制来做的事情的列表。 尽管这个列表并不全面，但您应该对可能的操作有一个很好地了解，而且该指南将帮助您轻松入门。
 
-- Patch game disc contents (allowing you to load game modifications) using [Riivolution](riivolution).
+- 使用 [Riivolution](riivolution) 对游戏光盘内容进行修改（允许您加载游戏修改）。
 - 使用 [MyMenuify](themes) 安装 Wii 菜单主题。
 - 安装 USB 加载器，例如 [WiiFlow](wiiflow) 或 [USB Loader GX](usbloadergx)，以从 U 盘等设备来启动所有您喜爱的游戏和更多。
 - 使用 [CleanRip](/dump-games) 备份光盘，[YABDM](dump-wads) 备份已安装的游戏和标题
