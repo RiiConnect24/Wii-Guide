@@ -27,6 +27,8 @@ Riivolution requires a working disk drive and a clean physical copy of the disk 
 * A working disk drive
 * [Riivolution](https://hbb1.oscwii.org/hbb/riivolution/riivolution.zip)
 
+#### Preparing the files
+
 1. Extract Riivolution and put it in the `apps` folder on your SD card or USB drive.
 2. Extract your mod files according to the diagram below to the SD or USB drive. Depending on the mod you downloaded, it may or may not already come properly structured for you.
 3. Insert your SD card and/or USB drive into your Wii and launch Riivolution from the Homebrew Channel.
