@@ -27,6 +27,8 @@ Riivolution 需要正常工作的光驱和所需模组的光盘的原版拷贝�
 * 正常工作的光驱
 * [Riivolution](https://hbb1.oscwii.org/hbb/riivolution/riivolution.zip)
 
+#### Preparing the files
+
 1. 解压 Riivolution 并将其放在 SD 卡或 U 盘的 `apps` 文件夹中。
 2. 按照下图将模组文件解压到 SD 或 U 盘中。 根据您下载的模组，他可能已经为您设置了正确的结构，也可能没有。
 3. 将 SD 卡和/或 U 盘插入 Wii，然后从 Homebrew Channel 启动 Riivolution。
