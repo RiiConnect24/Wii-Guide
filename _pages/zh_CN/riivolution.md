@@ -7,9 +7,9 @@ title: "Riivolution"
 如果你需要有关本教程的任何帮助, 请加入[RiiConnect24 Discord服务器](https://discord.gg/rc24) (推荐)或 [发送电子邮件到 support@riiconnect24.net](mailto:support@riiconnect24.net)。
 {: .notice--info}
 
-This is a quick start guide on how to use Riivolution, an on-the-fly disk patcher for the Wii that is used to play Wii game mods.
+这是关于如何使用 Riivolution 的快速入门指南，Riivolution 是 Wii 的即时磁盘修改程序，用于玩 Wii 游戏模组。
 
-If you want to use Riivolution on a Wii mini, a WiFi card must be soldered and Wii IOSes must be installed.
+如果您想在 Wii mini 上使用 Riivolution，必须焊接 WiFi 卡并安装 Wii IOS。
 {: .notice--warning}
 
 Riivolution requires a working disk drive and a clean physical copy of the disk the desired mod is for. Scratched disks may or may not work very well or at all.
