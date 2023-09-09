@@ -7,13 +7,11 @@ title: "Priiloader"
 이 자습서와 관련하여 도움이 필요하면 [RiiConnect24 디스코드 서버](https://discord.gg/rc24) (추천) 에 가입하거나, [support@riiconnect24.net](mailto:support@riiconnect24.net)로 이메일을 보내주세요.
 {: .notice--info}
 
-![Priiloader 아이콘](/images/Priiloader/icon.png)
-
-Priiloader는 Wii에 벽돌 보호 기능을 추가합니다 (이름과 같이) Wii 메뉴가 실행되기 전에 로드됩니다. 이 도구는 Wii 메뉴의 해킹을 활성화하고, 홈브류 채널, BootMii 또는 원하는 홈브류를 빠르게 실행하는 데에도 사용할 수 있습니다!
+Priiloader adds a level of brick protection to your Wii. It loads before the Wii Menu does (hence the name). The tool can also enable hacks for your Wii Menu, and be used to quickly launch the Homebrew Channel, BootMii, or whatever homebrew you want!
 
 ### Priiloader 설치하기
 
-![Priiloader 설치하기](/images/Priiloader/priiloader.jpg)
+![Priiloader icon](/images/Priiloader/icon.png)
 
 {% capture notice-vwii-priiloader %}
 Priiloader 0.10.0 introduces vWii support! <br> There are some important things to take note of:
@@ -21,7 +19,7 @@ Priiloader 0.10.0 introduces vWii support! <br> There are some important things 
 - Installing a theme after installing Priiloader **will brick your vWii.**
 
 And some things to enhance your vWii experience:
-- [Priiloader Wii U Forwarder](https://github.com/DacoTaco/priiloader/releases/download/0.10.0-RC3/PriiloaderWiiUForwarder.wuhb) to load Priiloader straight from the Wii U Menu. **This only works on Aroma.**
+- [Priiloader Wii U Forwarder](https://github.com/DacoTaco/priiloader/releases/download/0.10.0/PriiloaderWiiUForwarder.wuhb) to load Priiloader straight from the Wii U Menu. **This only works on Aroma.**
 - [evWii Aroma Plugin](https://github.com/GaryOderNichts/evwii/releases) to enhance some extra features for vWii. The features are listed [here](https://github.com/GaryOderNichts/evwii#features).
 {% endcapture %}
 
@@ -33,8 +31,8 @@ And some things to enhance your vWii experience:
 #### 필요한 것
 
 - SD 카드 및 USB 드라이브
-- [Priiloader installer](https://github.com/DacoTaco/priiloader/releases/download/0.10.0-RC3/Priiloader_v0_10RC3.zip)
-- [LoadPriiloader](https://oscwii.org/library/app/LoadPriiloader)
+- [Priiloader installer](https://github.com/DacoTaco/priiloader/releases/download/0.10.0/Priiloader_v0_10.zip)
+- [LoadPriiloader](https://github.com/DacoTaco/priiloader/releases/download/0.10.0/LoadPriiloader.zip)
 
 #### 사용 방법
 
