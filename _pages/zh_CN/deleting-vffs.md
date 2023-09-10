@@ -19,7 +19,7 @@ RiiConnect24 Clear Tool 是一个自制应用程序，可以修复以下特定�
 - NEWS000006
 - 清空 Wii 邮箱（如果邮箱已满，可以修复 Wii 邮件问题）
 
-This tool usually does not help on vWii (especially deleting SYSCONF).
+此工具通常不适用于 vWii（特别是删除 SYSCONF）。
 {: .notice--warning}
 
 #### 你需要
@@ -44,7 +44,7 @@ This tool usually does not help on vWii (especially deleting SYSCONF).
 
 #### 第三部分 - 删除 SYSCONF
 
-Deleting SYSCONF will erase the Wii Message Board history. Follow the section above if you would like to keep it.
+删除 SYSCONF 将清除 Wii 留言板的历史记录。 如果您想保留留言板的历史纪录，请按照上面的部分进行操作。
 {: .notice--danger}
 
 1. 解压 RiiConnect24 Clear Tool 并将其放到 SD 卡或 U 盘的 apps 文件夹。
