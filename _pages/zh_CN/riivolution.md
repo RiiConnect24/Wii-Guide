@@ -27,7 +27,7 @@ Riivolution 需要正常工作的光驱和所需模组的光盘的原版拷贝�
 * 正常工作的光驱
 * [Riivolution](https://hbb1.oscwii.org/hbb/riivolution/riivolution.zip)
 
-#### Preparing the files
+#### 准备文件
 
 1. 解压 Riivolution 并将其放在 SD 卡或 U 盘的 `apps` 文件夹中。
 2. 按照下图将模组文件解压到 SD 或 U 盘中。 根据您下载的模组，他可能已经为您设置了正确的结构，也可能没有。
@@ -44,7 +44,7 @@ Riivolution 需要正常工作的光驱和所需模组的光盘的原版拷贝�
 每个 Riivolution 模组都不尽相同，取决于您选择的模组，其中包含的文件可能多于或少于此图。
 {: .notice--info}
 
-不要混淆实际的 Riivolution 应用和根目录下的 Riivolution 文件夹。
+不要与实际的 Riivolution 应用和根目录下的 Riivolution 文件夹混淆。
 {: .notice--info}
 
 <details id="Riivolution-Files" class="notice--info" markdown="1">
