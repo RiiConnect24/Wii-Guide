@@ -25,12 +25,12 @@ Assicurati che se stai utilizzando una scheda SD, la levetta lock si trovi nella
 
 #### Istruzioni
 
-##### Sezione 1 - Scaricare i WAD
+##### Section I - Downloading (Only required if your Wii doesn't have Internet)
 
-Se la tua Wii ha una connessione Internet, potrai saltare questa sezione. <br/> Però, se incontri alcuni errori come `tcp_read timeout` e `net_gethostbyname failed:`, questo permetterà alla Wii di saltare il passaggio di download.
+<h3>If your Wii has an Internet connection, you may skip this section.</h3> <br/> However, If you encounter any errors like `tcp_read timeout` and `net_gethostbyname failed:`, this will allow the Wii to skip the downloading step.
 {: .notice--warning}
 
-Se non sei su Windows, dovrai scaricare & eseguire [questo script](/assets/files/d2x_offline_ios.sh), il quale scaricherà i file WAD per te.
+If you are not on Windows, you may download & run [this script](/assets/files/d2x_offline_ios.sh), and it will download the WAD files for you.
 {: .notice--info}
 
 1. Scarica, estrai ed esegui [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
@@ -42,7 +42,7 @@ Se non sei su Windows, dovrai scaricare & eseguire [questo script](/assets/files
 1. Once you have downloaded all four IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. <br/> Open the folder and navigate through them until you locate the four WAD files you downloaded. Place each WAD file on the root of your SD card or USB drive.
   - Questo dovrà essere lo stesso dispositivo contenente d2x cIOS Installer.
 
-I file WAD dovranno essere posizionati nella tua scheda SD così: ![offline IOS files](/images/cios/d2x_offline_ios.png)
+The WAD files should be on your SD card like this: ![offline IOS files](/images/cios/d2x_offline_ios.png)
 {: .notice--info}
 ##### Sezione 2 - Installazione dei cIOS
 
@@ -84,7 +84,7 @@ Select cIOS slot: 250
 Select cIOS version: 65535
 ```
 
-![Installa cIOS 250](/images/cios/d2x_v11_250.png)
+![Install cIOS 250](/images/cios/d2x_v11_250.png)
 
 1. Una volta fatto, premi A due volte per installare.
 1. Quando l'installazione sarà terminata, premi A per tornare indietro, e imposta le seguenti opzioni:
@@ -96,19 +96,19 @@ Select cIOS slot: 251
 Select cIOS version: 65535
 ```
 
-![Installa cIOS 251](/images/cios/d2x_v11_251.png)
+![Install cIOS 251](/images/cios/d2x_v11_251.png)
 
 1. Una volta fatto, premi A due volte per installare, dopodiché esci al termine dell'installazione.
 
 #### Risoluzione dei problemi
 
 {% capture bruh %}
-Sebbene la maggior parte dei giochi dovrebbe funzionare direttamente con le impostazioni default, alcuni giochi potrebbero richiedere cIOS specifici per funzionare, o per utilizzare funzioni specifiche all'interno del gioco.<br> Ad esempio:
+Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
 
 - Utilizzare una tastiera in Animal Crossing: Let's Go to the City.
 - Giocare a SpongeBob's Boating Bash.
 
-Una lista migliore (anche se ancora incompleta) può essere trovata [**qui**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> Per cambiare il cIOS utilizzato per un gioco specifico, segui queste istruzioni:
+A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
 {% endcapture %}
 
 <div class="notice--warning">{{ bruh | markdownify }}</div>
@@ -134,10 +134,10 @@ Una lista migliore (anche se ancora incompleta) può essere trovata [**qui**](ht
 </div>
 ##### Opzioni una volta completato
 
-[Continua sull'Homebrew Browser](hbb)<br> L'Homebrew Browser è un buon posto da cui scaricare app homebrew sulla tua Wii. È facoltativo da installare.
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. This is optional to install.
 {: .notice--info}
 
-[Continua con la navigazione nel sito](site-navigation)<br> Potremmo avere altri tutorial che ti potrebbero piacere.
+[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
 {: .notice--info}
 
 Adesso puoi usare software homebrew come [USB Loader GX](usbloadergx) e [WiiFlow](wiiflow).
