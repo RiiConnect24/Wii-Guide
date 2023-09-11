@@ -11,7 +11,7 @@ Homebrew Browser, which is what the Open Shop Channel is based off on, does work
 You need an Internet connection in order to use this application.
 {: .notice--warning}
 
-The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
+The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It's a revival project for an app called Homebrew Browser.
 
 #### What you need
 
@@ -50,7 +50,4 @@ Here are some recommended apps that you can get on the Open Shop Channel:
 {: .notice--info}
 
 Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
-{: .notice--info}
-
-You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
 {: .notice--info}
