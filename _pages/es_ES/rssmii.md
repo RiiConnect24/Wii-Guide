@@ -14,7 +14,7 @@ Con esta guía aprenderás a instalar RSSMii, una herramienta que te permite rec
 #### Requisitos
 
 * Una tarjeta SD
-* [RSSMii](https://github.com/RiiConnect24/rssmii/releases)
+* [RSSMii](https://oscwii.org/library/app/rssmii)
 
 #### Instrucciones
 ##### Sección I - Descarga/instalación
