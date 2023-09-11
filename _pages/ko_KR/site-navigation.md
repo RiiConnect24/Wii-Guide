@@ -64,6 +64,7 @@ sitemap: false
 - [게임큐브 저장 파일 관리](gcsaves)
 - [Nintendont](nintendont)
 - [SysCheck 수행](syscheck)
+- [Playing Wii Game Mods](riivolution)
 - [RSSMii 제거](rssmii-remove)
 - [RiiTag](riitag)
 - [Wii U를 위한 RiiTag](riitag-wiiu)

@@ -22,7 +22,7 @@ Wii 소프트웨어의 버그를 이용하면 무료로 닌텐도 Wii에서 홈�
 
 홈브루로 할 수 있는 것들입니다. 이 목록이 포괄적이란 보증은 없지만, 무엇이 가능한지를 간단히 이해할 수 있으며, 이 가이드는 쉽게 시작하는 방법을 알려드립니다.
 
-- [Riivolution](http://www.wiibrew.org/wiki/Riivolution)을 사용하여 게임 디스크 콘텐츠를 패치 (게임 수정 사항을 로드할 수 있도록 허용) 합니다.
+- Patch game disc contents (allowing you to load game modifications) using [Riivolution](riivolution).
 - [MyMenuify](themes)를 사용하여 Wii 메뉴에 테마를 설치합니다.
 - [WiiFlow](wiiflow) 또는 [USB Loader GX](usbloadergx)와 같은 USB 로더를 설치하면 USB 저장 장치 등에서 좋아하는 타이틀을 모두 실행할 수 있습니다.
 - [CleanRip](/dump-games)으로 디스크를 백업하고 [YABDM](dump-wads)으로 설치된 게임 및 타이틀을 백업합니다.

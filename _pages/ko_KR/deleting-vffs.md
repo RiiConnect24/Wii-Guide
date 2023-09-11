@@ -19,6 +19,9 @@ RiiConnect24 청소 도구는 이러한 특정 오류와 문제를 해결할 수
 - NEWS000006
 - 꽉 찬 경우 Wii 편지함을 청소 (Wii 메일을 고칠 수 있습니다)
 
+This tool usually does not help on vWii (especially deleting SYSCONF).
+{: .notice--warning}
+
 #### 필요한 것
 
 - SD 카드 및 USB 드라이브

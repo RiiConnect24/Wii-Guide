@@ -19,6 +19,9 @@ RiiConnect24 Clear Tool é um aplicativo homebrew que pode corrigir esses erros 
 - NEWS000006
 - Apaga os emails que estão em seu wii, caso estejam cheios (isso pode consertar o erro do Wii Mail)
 
+This tool usually does not help on vWii (especially deleting SYSCONF).
+{: .notice--warning}
+
 #### Você precisará de
 
 - Um cartão SD ou armazenamento USB
@@ -41,7 +44,7 @@ RiiConnect24 Clear Tool é um aplicativo homebrew que pode corrigir esses erros 
 
 #### Section III - Deleting SYSCONF
 
-Deletar o SYSCONF vai apagar o histórico do Wii Message Board. Siga a seção abaixo se deseja mantê-lo.
+Deleting SYSCONF will erase the Wii Message Board history. Follow the section above if you would like to keep it.
 {: .notice--danger}
 
 1. Extract the RiiConnect24 Clear Tool and put it in the apps folder on your SD card or USB drive.

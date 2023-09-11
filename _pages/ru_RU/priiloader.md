@@ -7,13 +7,11 @@ title: "Priiloader"
 If you need help for anything regarding this tutorial, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![Priiloader icon](/images/Priiloader/icon.png)
-
 Priiloader adds a level of brick protection to your Wii. It loads before the Wii Menu does (hence the name). The tool can also enable hacks for your Wii Menu, and be used to quickly launch the Homebrew Channel, BootMii, or whatever homebrew you want!
 
 ### Installing Priiloader
 
-![Installing Priiloader](/images/Priiloader/priiloader.jpg)
+![Priiloader icon](/images/Priiloader/icon.png)
 
 {% capture notice-vwii-priiloader %}
 Priiloader 0.10.0 introduces vWii support! <br> There are some important things to take note of:
@@ -21,7 +19,7 @@ Priiloader 0.10.0 introduces vWii support! <br> There are some important things 
 - Installing a theme after installing Priiloader **will brick your vWii.**
 
 And some things to enhance your vWii experience:
-- [Priiloader Wii U Forwarder](https://github.com/DacoTaco/priiloader/releases/download/0.10.0-RC3/PriiloaderWiiUForwarder.wuhb) to load Priiloader straight from the Wii U Menu. **This only works on Aroma.**
+- [Priiloader Wii U Forwarder](https://github.com/DacoTaco/priiloader/releases/download/0.10.0/PriiloaderWiiUForwarder.wuhb) to load Priiloader straight from the Wii U Menu. **This only works on Aroma.**
 - [evWii Aroma Plugin](https://github.com/GaryOderNichts/evwii/releases) to enhance some extra features for vWii. The features are listed [here](https://github.com/GaryOderNichts/evwii#features).
 {% endcapture %}
 
@@ -33,8 +31,8 @@ And some things to enhance your vWii experience:
 #### What you need
 
 - An SD card or USB drive
-- [Priiloader installer](https://github.com/DacoTaco/priiloader/releases/download/0.10.0-RC3/Priiloader_v0_10RC3.zip)
-- [LoadPriiloader](https://oscwii.org/library/app/LoadPriiloader)
+- [Priiloader installer](https://oscwii.org/library/app/priiloader)
+- [LoadPriiloader](https://oscwii.org/library/app/loadpriiloader)
 
 #### Instructions
 

@@ -64,6 +64,7 @@ sitemap: false
 - [Gerenciando Saves de GameCube](gcsaves)
 - [Nintendont](nintendont)
 - [Realizando uma Syscheck](syscheck)
+- [Playing Wii Game Mods](riivolution)
 - [Removendo o RSSMii](rssmii-remove)
 - [RiiTag](riitag)
 - [RiiTag no Wii U](riitag-wiiu)

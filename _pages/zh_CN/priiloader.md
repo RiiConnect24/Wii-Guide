@@ -7,13 +7,11 @@ title: "Priiloader"
 如果您对本教程有任何问题或需要帮助，请加入 [RiiConnect24 Discord 服务器](https://discord.gg/rc24)（推荐）或 [发送电子邮件至 support@riiconnect24.net](mailto:support@riiconnect24.net) 与我们联系。
 {: .notice--info}
 
-![Priiloader 图标](/images/Priiloader/icon.png)
-
-Priiloader 为 Wii 添加了一定程度的变砖保护。 它在 Wii 菜单之前加载（因此得名）。 该工具还可以修改 Wii 菜单，并可用于快速启动 Homebrew Channel、BootMii 或任何您想要的自制！
+Priiloader 为 Wii 添加了一定程度的变砖保护。 它在 Wii 菜单之前加载（因此得名）。 该工具还能为 Wii 菜单启用修改，并可用于快速启动 Homebrew Channel、BootMii 或任何您想要的自制软件！
 
 ### 安装 Priiloader
 
-![安装 Priiloader](/images/Priiloader/priiloader.jpg)
+![Priiloader 图标](/images/Priiloader/icon.png)
 
 {% capture notice-vwii-priiloader %}
 Priiloader 0.10.0 引入了 vWii 支持！ <br> 有一些重要事项需要注意：
@@ -21,7 +19,7 @@ Priiloader 0.10.0 引入了 vWii 支持！ <br> 有一些重要事项需要注�
 - 在安装 Priiloader 后安装主题**会导致您的 vWii 变砖。**
 
 以下是一些增强您的 vWii 体验的方法：
-- 您可以使用 [Priiloader Wii U Forwarder](https://github.com/DacoTaco/priiloader/releases/download/0.10.0-RC3/PriiloaderWiiUForwarder.wuhb) 直接从 Wii U 菜单加载 Priiloader。 **这只适用于 Aroma。**
+- 您可以使用 [Priiloader Wii U Forwarder](https://github.com/DacoTaco/priiloader/releases/download/0.10.0/PriiloaderWiiUForwarder.wuhb) 直接从 Wii U 菜单加载 Priiloader。 **这只适用于 Aroma。**
 - 您可以使用 [evWii Aroma Plugin](https://github.com/GaryOderNichts/evwii/releases) 来增强 vWii 的一些额外功能。 这些功能在[这里](https://github.com/GaryOderNichts/evwii#features)列出。
 {% endcapture %}
 
@@ -33,8 +31,8 @@ Priiloader 0.10.0 引入了 vWii 支持！ <br> 有一些重要事项需要注�
 #### 你需要的是
 
 - 一张 SD 卡或 U 盘
-- [Priiloader installer](https://github.com/DacoTaco/priiloader/releases/download/0.10.0-RC3/Priiloader_v0_10RC3.zip)
-- [LoadPriiloader](https://oscwii.org/library/app/LoadPriiloader)
+- [Priiloader installer](https://oscwii.org/library/app/priiloader)
+- [LoadPriiloader](https://oscwii.org/library/app/loadpriiloader)
 
 #### 步骤
 
@@ -65,7 +63,7 @@ Priiloader 0.10.0 引入了 vWii 支持！ <br> 有一些重要事项需要注�
 1. 打开 Homebrew Channel，然后启动 Load Priiloader 应用。
 1. 滚动到 `System Menu Hacks` 并按 `A`。 ![System Menu Hacks](/images/Priiloader/menu_hacks.png)
 
-如果您已将 Priiloader installer 放在 U 盘上，请确保没有同时插入 SD 卡。 <br> 这将导致 Priiloader 找不到 `hacks_hash.ini` 文件。
+如果将 Priiloader installer 放在 U 盘上，请确保没有同时插入 SD 卡。 <br> 这将导致 Priiloader 找不到 `hacks_hash.ini` 文件。
 {: .notice--warning}
 
 1. 在每个您想启用的 hack 上按 `A`。 我们建议您启用 "Block Disc Updates"、"Block Online Updates" 和 "Region Free EVERYTHING"。 ![System Menu Hacks 列表](/images/Priiloader/system_menu_hacks.png)

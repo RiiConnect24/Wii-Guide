@@ -7,13 +7,11 @@ title: "Priiloader"
 Se você precisa de ajuda sobre qualquer coisa deste tutorial, por favor entre [no servidor do Discord RiiConnect24](https://discord.gg/rc24) (recomendado) ou [mande um e-mail para support@riiconnect24.net (em inglês)](mailto:support@riiconnect24.net).
 {: .notice--info}
 
-![Ícone do Priiloader](/images/Priiloader/icon.png)
-
-O Priiloader adiciona um nível de proteção contra brick ao seu Wii. Ele carrega antes que o Menu do Wii (daí o nome). A ferramenta também pode habilitar hacks para seu Menu do Wii e pode ser usada para iniciar rapidamente o Homebrew Channel, BootMii ou qualquer homebrew que você quiser!
+Priiloader adds a level of brick protection to your Wii. It loads before the Wii Menu does (hence the name). The tool can also enable hacks for your Wii Menu, and be used to quickly launch the Homebrew Channel, BootMii, or whatever homebrew you want!
 
 ### Instalando o Priiloader
 
-![Instalando o Priiloader](/images/Priiloader/priiloader.jpg)
+![Priiloader icon](/images/Priiloader/icon.png)
 
 {% capture notice-vwii-priiloader %}
 Priiloader 0.10.0 introduces vWii support! <br> There are some important things to take note of:
@@ -21,7 +19,7 @@ Priiloader 0.10.0 introduces vWii support! <br> There are some important things 
 - Installing a theme after installing Priiloader **will brick your vWii.**
 
 And some things to enhance your vWii experience:
-- [Priiloader Wii U Forwarder](https://github.com/DacoTaco/priiloader/releases/download/0.10.0-RC3/PriiloaderWiiUForwarder.wuhb) to load Priiloader straight from the Wii U Menu. **This only works on Aroma.**
+- [Priiloader Wii U Forwarder](https://github.com/DacoTaco/priiloader/releases/download/0.10.0/PriiloaderWiiUForwarder.wuhb) to load Priiloader straight from the Wii U Menu. **This only works on Aroma.**
 - [evWii Aroma Plugin](https://github.com/GaryOderNichts/evwii/releases) to enhance some extra features for vWii. The features are listed [here](https://github.com/GaryOderNichts/evwii#features).
 {% endcapture %}
 
@@ -33,8 +31,8 @@ And some things to enhance your vWii experience:
 #### Você precisará de
 
 - Um cartão SD ou armazenamento USB
-- [Priiloader installer](https://github.com/DacoTaco/priiloader/releases/download/0.10.0-RC3/Priiloader_v0_10RC3.zip)
-- [LoadPriiloader](https://oscwii.org/library/app/LoadPriiloader)
+- [Priiloader installer](https://oscwii.org/library/app/priiloader)
+- [LoadPriiloader](https://oscwii.org/library/app/loadpriiloader)
 
 #### Instruções
 
