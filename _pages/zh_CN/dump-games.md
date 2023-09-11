@@ -14,7 +14,7 @@ title: "导出 Wii/GameCube 游戏"
 #### 你需要的是
 
 - 至少有 4.7 GB 可用空间的 SD 卡或 U 盘（双层光盘需要 8.5 GB）。
-- [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
+- [CleanRip](https://oscwii.org/library/app/cleanrip)
 
 #### 步骤
 

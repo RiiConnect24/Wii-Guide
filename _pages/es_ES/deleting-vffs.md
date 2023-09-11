@@ -63,5 +63,5 @@ Deleting SYSCONF will erase the Wii Message Board history. Follow the section ab
 1. Open sntp to set the Wii's clock accurately.
 2. Finally, do a connection test and try accessing the Forecast Channel and News Channel to ensure the errors have been fixed.
 
-[Volver a la guía de instalación de RiiConnect24](riiconnect24)
+[Return to RiiConnect24 installation page](riiconnect24)
 {: .notice--info}

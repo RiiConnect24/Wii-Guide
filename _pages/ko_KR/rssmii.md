@@ -14,7 +14,7 @@ Wii 메시지 보드에서 RSS 피드 업데이트를 받고 싶나요? 이 튜�
 #### 필요한 것
 
 * SD 카드
-* [RSSMii](https://github.com/RiiConnect24/rssmii/releases)
+* [RSSMii](https://oscwii.org/library/app/rssmii)
 
 #### 방법
 ##### 섹션 I - 다운로드/설치하기

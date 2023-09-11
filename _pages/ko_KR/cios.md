@@ -25,12 +25,12 @@ SD 카드를 사용하는 경우 잠금 스위치가 잠금 해제 위치에 있
 
 #### 사용 방법
 
-##### 섹션 I - 다운로드
+##### Section I - Downloading (Only required if your Wii doesn't have Internet)
 
-Wii에 인터넷이 연결되어 있는 경우 이 섹션을 건너뛸 수 있습니다. <br/> 그러나 `tcp_read timeout` 및 `net_gethostbyname failed:`와 같은 오류가 발생하면 Wii가 다운로드 단계를 건너뛸 수 있습니다.
+<h3>If your Wii has an Internet connection, you may skip this section.</h3> <br/> However, If you encounter any errors like `tcp_read timeout` and `net_gethostbyname failed:`, this will allow the Wii to skip the downloading step.
 {: .notice--warning}
 
-윈도우즈를 사용하지 않는 경우, [이 스크립트](/assets/files/d2x_offline_ios.sh)를 다운로드하고 실행하면 WAD 파일을 다운로드할 수 있습니다.
+If you are not on Windows, you may download & run [this script](/assets/files/d2x_offline_ios.sh), and it will download the WAD files for you.
 {: .notice--info}
 
 1. [NUS 다운로더](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip)를 다운로드하여 압축 해제하고 실행합니다.
@@ -42,7 +42,7 @@ Wii에 인터넷이 연결되어 있는 경우 이 섹션을 건너뛸 수 있�
 1. Once you have downloaded all four IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. <br/> Open the folder and navigate through them until you locate the four WAD files you downloaded. Place each WAD file on the root of your SD card or USB drive.
   - 이 장치는 d2x cIOS 설치 프로그램이 포함된 동일한 장치여야 합니다.
 
-WAD 파일은 다음과 같이 SD 카드에 있어야 합니다:![오프라인 IOS 파일](/images/cios/d2x_offline_ios.png)
+The WAD files should be on your SD card like this: ![offline IOS files](/images/cios/d2x_offline_ios.png)
 {: .notice--info}
 ##### 섹션 II - 설치하기
 
@@ -84,7 +84,7 @@ cIOS 슬롯 선택: 250
 cIOS 버전 선택: 65535
 ```
 
-![cIOS 250 설치](/images/cios/d2x_v11_250.png)
+![Install cIOS 250](/images/cios/d2x_v11_250.png)
 
 1. 설정이 완료되면 A 버튼을 두 번 눌러 설치합니다.
 1. 설치가 완료되면 A 버튼을 눌러 돌아가서 옵션을 다음과 같이 설정합니다:
@@ -96,19 +96,19 @@ cIOS 슬롯 선택: 251
 cIOS 버전 선택: 65535
 ```
 
-![cIOS 251 설치](/images/cios/d2x_v11_251.png)
+![Install cIOS 251](/images/cios/d2x_v11_251.png)
 
 1. 설정이 완료되면 A 버튼을 다시 두 번 눌러 설치한 다음 완료되면 종료합니다.
 
 #### 문제 해결
 
 {% capture bruh %}
-대부분의 게임은 기본값으로 바로 작동하지만, 일부 게임은 작동하거나 게임 내 특정 기능을 활용하기 위해 특정 cIOS를 사용해야 할 수 있습니다.<br> 예를 들면 다음과 같습니다:
+Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
 
 - 타운으로 놀러가요 동물의 숲에서 키보드 사용하기
 - 스펀지 밥의 보팅 배쉬 실행
 
-보다 포괄적인 (아직 불완전하지만) 목록은 [**여기**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br>에서 확인할 수 있습니다. 특정 게임에 사용되는 cIOS를 변경하려면 다음 지침을 따릅니다:
+A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
 {% endcapture %}
 
 <div class="notice--warning">{{ bruh | markdownify }}</div>
@@ -134,7 +134,7 @@ cIOS 버전 선택: 65535
 </div>
 ##### 완료 후 옵션
 
-[Homebrew Browser로 계속](hbb)<br> Homebrew Browser는 Wii에서 홈브류를 사용하기에 좋은 것 입니다. 설치는 선택 사항입니다.
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. 설치는 선택 사항입니다.
 {: .notice--info}
 
 [사이트 탐색 계속하기](site-navigation)<br> 여러분이 좋아할 만한 다른 자습서도 많이 있습니다.

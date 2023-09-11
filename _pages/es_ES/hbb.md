@@ -11,7 +11,7 @@ Homebrew Browser, el software en el que Open Shop Channel está basado, puede se
 Necesitarás una conexión a internet para usar esta aplicación.
 {: .notice--warning}
 
-[Open Shop Channel](https://oscwii.org/) te permite descargar aplicaciones homebrew directamente desde tu consola Wii. Es un reemplazo del servicio ofrecido por la aplicación Homebrew Browser.
+[Open Shop Channel](https://oscwii.org/) te permite descargar aplicaciones homebrew directamente desde tu consola Wii. It's a revival project for an app called Homebrew Browser.
 
 #### Requisitos
 
@@ -50,7 +50,4 @@ Estas son algunas aplicaciones homebrew recomendadas que puedes descargar desde 
 {: .notice--info}
 
 Incluida en la descarga de Homebrew Browser podrás encontrar una guía sobre cómo usar la aplicación.
-{: .notice--info}
-
-Puedes intercambiar el archivo ShopChannel.ogg con loop.ogg en la carpeta `/apps/homebrew_browser` para que Homebrew Browser reproduzca la música del Canal Tienda Wii.
 {: .notice--info}

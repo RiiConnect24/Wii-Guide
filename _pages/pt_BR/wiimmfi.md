@@ -55,7 +55,7 @@ MrBean35000vr (criador do CTGP-R, um mod para o Mario Kart Wii) criou o Wiimmfi 
 #### Você precisará de
 
 - Um cartão SD ou armazenamento USB
-- [Auto Wiimmfi Patcher](https://download.wiimmfi.de/patcher/autowiimmfipatcher-latest.zip)
+- [Auto Wiimmfi Patcher](https://oscwii.org/library/app/wiimmfipatcher)
 
 #### Instruções
 
@@ -163,7 +163,7 @@ O Wiimmfi permite que você participe em competições no Mario Kart Wii novamen
 
 - Um cartão SD ou pendrive
 - Mario Kart Wii Competition Patcher
-  - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
+  - [Wii](https://oscwii.org/library/app/competition-tool-wii)
   - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
 #### Instruções (para Wii)

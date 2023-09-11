@@ -55,7 +55,7 @@ MrBean35000vr (마리오 카트 Wii 콘텐츠 팩인 CTGP-R 제작자) 은 Wiimm
 #### 필요한 것
 
 - SD 카드 및 USB 드라이브
-- [자동 Wiimmfi 패치 관리자](https://download.wiimmfi.de/patcher/autowiimmfipatcher-latest.zip)
+- [자동 Wiimmfi 패치 관리자](https://oscwii.org/library/app/wiimmfipatcher)
 
 #### 사용 방법
 
@@ -163,7 +163,7 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
 - SD 카드 및 USB 드라이브
 - 마리오 카트 Wii 대회 패치 관리자
-  - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
+  - [Wii](https://oscwii.org/library/app/competition-tool-wii)
   - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
 #### Instructions (for Wii)

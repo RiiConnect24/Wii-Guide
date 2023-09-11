@@ -11,7 +11,7 @@ Homebrew Browser 雖然是 Open Shop Channel 的基底，而且基本上是可�
 您需要網際網路才能使用此應用程式。
 {: .notice--warning}
 
-[Open Shop Channel](https://oscwii.org/) 是您下載自製軟體的地方。 It is a revival project for an app called Homebrew Browser.
+[Open Shop Channel](https://oscwii.org/) 是您下載自製軟體的地方。 It's a revival project for an app called Homebrew Browser.
 
 #### 必備項目
 
@@ -50,7 +50,4 @@ Here are some recommended apps that you can get on the Open Shop Channel:
 {: .notice--info}
 
 Included in the Homebrew Browser download is a guide on how to use the Homebrew Browser.
-{: .notice--info}
-
-You can swap out ShopChannel.ogg with loop.ogg in `/apps/homebrew_browser/` to have the Homebrew Browser play the Wii Shop Channel music.
 {: .notice--info}

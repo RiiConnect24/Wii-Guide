@@ -12,12 +12,6 @@ main:
   - 
     title: 자주 묻는 질문
     url: faq
-  - 
-    title: RiiConnect24
-    url: riiconnect24
-  - 
-    title: Wiimmfi
-    url: wiimmfi
 top:
   - 
     title: 이 웹사이트는 쿠키를 사용하여 사이드바에 현재 가이드 진행 상황을 표시하고 기타 사이트를 개선합니다.

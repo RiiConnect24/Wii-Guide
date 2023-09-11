@@ -12,7 +12,7 @@ title: "删除 RSSMii"
 #### 你需要的是
 
 * 一张SD卡
-* [RSSMii Remover](https://github.com/RiiConnect24/rssmii/releases)
+* [RSSMii Remover](https://oscwii.org/library/app/rssmii-remover)
 
 #### 步骤
 

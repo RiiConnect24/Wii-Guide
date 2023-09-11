@@ -12,7 +12,7 @@ Si ya no deseas usar RSSMii (por ejemplo, si recibes muchos mensajes en tu tabl√
 #### Requisitos
 
 * Una tarjeta SD
-* [RSSMii Remover](https://github.com/RiiConnect24/rssmii/releases)
+* [RSSMii Remover](https://oscwii.org/library/app/rssmii-remover)
 
 #### Instrucciones
 

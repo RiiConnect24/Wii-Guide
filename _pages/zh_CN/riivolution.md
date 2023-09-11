@@ -25,7 +25,7 @@ Riivolution 需要正常工作的光驱和所需模组的光盘的原版拷贝�
 * 您所需的模组文件
 * 所需模组的光盘的原版拷贝
 * 正常工作的光驱
-* [Riivolution](https://hbb1.oscwii.org/hbb/riivolution/riivolution.zip)
+* [Riivolution](https://oscwii.org/library/app/riivolution)
 
 #### 准备文件
 

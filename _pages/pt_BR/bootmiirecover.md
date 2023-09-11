@@ -29,7 +29,7 @@ The same also goes for faulty SD cards.
 
 There is likely a much safer and faster way to bring it back to your Wii, likely involving the use of Dolphin Emulator.
 
-For example, if you want to restore your Wii message board data, use Dolphin to import your NAND backup, find `Wii/title/00000001/00000002/data/cdb.vff`, copy it to your SD card as `cdbackup.vff`, and use [cdbackup](https://oscwii.org/library/app/cdbackup) to restore it.
+For example, if you want to restore your Wii Message Board data, use Dolphin to import your NAND backup, find `Wii/title/00000001/00000002/data/cdb.vff`, copy it to your SD card as `cdbackup.vff`, and use [cdbackup](https://oscwii.org/library/app/cdbackup) to restore it.
 
 If you want to restore a game's save data, use Dolphin to import your NAND backup, use `Tools > Export All Wii Saves` to export all your saves to your SD card, and use Data Management to move it to your Wii.
 

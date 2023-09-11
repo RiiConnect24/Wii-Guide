@@ -25,12 +25,12 @@ Certifique-se de que se você estiver usando um cartão SD, a trava de bloqueio 
 
 #### Instruções
 
-##### Seção I - Baixando
+##### Section I - Downloading (Only required if your Wii doesn't have Internet)
 
-Se seu Wii tem uma conexão com a Internet, você pode pular esta seção. Porém, se você encontrar quaisquer erros como `tcp_read timeout` e `net_gethostbyname failed:`, isso permitirá que o Wii pule o download.
+<h3>If your Wii has an Internet connection, you may skip this section.</h3> <br/> However, If you encounter any errors like `tcp_read timeout` and `net_gethostbyname failed:`, this will allow the Wii to skip the downloading step.
 {: .notice--warning}
 
-Se você não está no Windows, você pode baixar & executar [este script](/assets/files/d2x_offline_ios.sh), que irá baixar os arquivos WAD para você.
+If you are not on Windows, you may download & run [this script](/assets/files/d2x_offline_ios.sh), and it will download the WAD files for you.
 {: .notice--info}
 
 1. Baixe, extraia e execute o [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
@@ -42,7 +42,7 @@ Se você não está no Windows, você pode baixar & executar [este script](/asse
 1. Once you have downloaded all four IOS, there will be a folder named `titles` in the same folder as the NUS Downloader. <br/> Open the folder and navigate through them until you locate the four WAD files you downloaded. Place each WAD file on the root of your SD card or USB drive.
   - Esse deve ser o mesmo dispositivo contendo o d2x cIOS Installer.
 
-Os arquivos WAD devem estar no seu cartão SD assim: ![arquivos IOS offline](/images/cios/d2x_offline_ios.png)
+The WAD files should be on your SD card like this: ![offline IOS files](/images/cios/d2x_offline_ios.png)
 {: .notice--info}
 ##### Seção II - Instalando
 
@@ -57,10 +57,10 @@ Select cIOS slot: 248
 Select cIOS version: 65535
 ```
 
-Se `d2x-v11-beta1` não aparecer, tente selecionar a cIOS base primeiro, então cheque novamente. Isso também pode acontecer caso seu cartão SD esteja bloqueado.
+If `d2x-v11-beta1` isn't showing up, try select the cIOS base first, then check again. This can also happen if your SD card is locked.
 {: .notice--info}
 
-![Instalar cIOS 248](/images/cios/d2x_v11_248.png)
+![Install cIOS 248](/images/cios/d2x_v11_248.png)
 
 1. Quando feito, pressione A duas vezes para instalar.
 1. Quando a instalação for concluída, pressione A para retornar, e defina as opções dessa forma:
@@ -72,7 +72,7 @@ Select cIOS slot: 249
 Select cIOS version: 65535
 ```
 
-![Instalar cIOS 249](/images/cios/d2x_v11_249.png)
+![Install cIOS 249](/images/cios/d2x_v11_249.png)
 
 1. Quando feito, pressione A duas vezes para instalar.
 1. Quando a instalação for concluída, pressione A para retornar, e defina as opções dessa forma:
@@ -84,7 +84,7 @@ Select cIOS slot: 250
 Select cIOS version: 65535
 ```
 
-![Instalar cIOS 250](/images/cios/d2x_v11_250.png)
+![Install cIOS 250](/images/cios/d2x_v11_250.png)
 
 1. Quando feito, pressione A duas vezes para instalar.
 1. Quando a instalação for concluída, pressione A para retornar, e defina as opções dessa forma:
@@ -96,19 +96,19 @@ Select cIOS slot: 251
 Select cIOS version: 65535
 ```
 
-![Instalar cIOS 251](/images/cios/d2x_v11_251.png)
+![Install cIOS 251](/images/cios/d2x_v11_251.png)
 
 1. Uma vez definido, pressione A duas vezes para instalar, e depois saia assim que concluído.
 
 #### Solução de problemas
 
 {% capture bruh %}
-Embora a maioria dos jogos funcionem de imediato com os padrões, alguns podem exigir o uso de um cIOS específico para funcionar ou para utilizar determinados recursos em jogo.<br> Alguns exemplos incluem:
+Although the majority of games should work straight away with the defaults, some may require using a specific cIOS to function, or to utilize certain features within the game.<br> Examples include:
 
 - Usando um teclado em Animal Crossing: City Folk.
 - Rodar SpongeBob's Boating Bash.
 
-Uma lista mais completa (embora ainda incompleta) pode ser encontrada [**aqui**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> Para alterar o cIOS usado por um jogo específico, siga estas instruções:
+A more comprehensive (although still incomplete) list can be found [**here**](https://wiki.gbatemp.net/wiki/Wii_cIOS_base_Compatibility_List)<br> To change the cIOS used for a specific game, follow these instructions:
 {% endcapture %}
 
 <div class="notice--warning">{{ bruh | markdownify }}</div>
@@ -134,7 +134,7 @@ Uma lista mais completa (embora ainda incompleta) pode ser encontrada [**aqui**]
 </div>
 ##### Opções assim que completo
 
-[Continue para o Homebrew Browser](hbb)<br> O Homebrew Browser é um bom lugar para obter homebrew no seu Wii. A instalação é opcional.
+[Continue to the Homebrew Browser](hbb)<br> The Homebrew Browser is a good place to get homebrew on your Wii. A instalação é opcional.
 {: .notice--info}
 
 [Continue para a navegação do site](site-navigation)<br> Temos vários outros tutoriais que você pode gostar.

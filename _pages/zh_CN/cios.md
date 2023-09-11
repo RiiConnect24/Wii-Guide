@@ -25,9 +25,9 @@ title: "cIOS"
 
 #### 步骤
 
-##### 第一部分 - 下载
+##### 第一部分 - 下载（仅在 Wii 未连接到互联网时才需要）
 
-如果您的 Wii 已连接到互联网，您可以跳过此部分。 <br/> 然而，如果您遇到任何错误，比如 `tcp_read timeout` 和 `net_gethostbyname failed:`，这将允许 Wii 跳过下载的步骤。
+<h3>如果您的 Wii 已连接到互联网，您可以跳过此部分。</h3> <br/> 但是，如果您遇到任何错误，如 `tcp_read timeout` 和 `net_gethostbyname failed:`，这将允许 Wii 跳过下载步骤。
 {: .notice--warning}
 
 如果您不使用 Windows，您可以下载 & 运行[这个脚本](/assets/files/d2x_offline_ios.sh)，它会为您下载 WAD 文件。
@@ -42,7 +42,7 @@ title: "cIOS"
 1. 一旦您下载了所有四个 IOS，将会在与 NUS Downloader 相同的文件夹中出现名为 `titles` 的文件夹。 <br/> 打开文件夹并浏览它们，直到找到您下载的四个 WAD 文件。 将每个 WAD 文件放在 SD 卡或 U 盘的根目录。
   - 必须与包含 d2x cIOS Installer 的设备相同。
 
-应该以这种方式将 WAD 文件放在您的 SD 卡上： ![离线 IOS 文件](/images/cios/d2x_offline_ios.png)
+应该以这种方式将 WAD 文件放在 SD 卡上： ![离线 IOS 文件](/images/cios/d2x_offline_ios.png)
 {: .notice--info}
 ##### 第二部分 - 安装
 

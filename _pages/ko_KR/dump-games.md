@@ -14,7 +14,7 @@ Wii나 게임큐브 디스크를 덤프하고 싶나요? 두 방법이 있고, �
 #### 필요한 것
 
 - 최소 4.7GB의 여유 공간 (듀얼 레이어 디스크를 덤프하는 경우 8.5GB) 이 있는 SD 카드 또는 USB 드라이브
-- [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
+- [CleanRip](https://oscwii.org/library/app/cleanrip)
 
 #### 사용 방법
 
