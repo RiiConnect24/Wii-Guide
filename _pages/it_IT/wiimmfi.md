@@ -55,7 +55,7 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 #### What you need
 
 - Una scheda SD o un'unità USB
-- [Auto Wiimmfi Patcher](https://download.wiimmfi.de/patcher/autowiimmfipatcher-latest.zip)
+- [Auto Wiimmfi Patcher](https://oscwii.org/library/app/wiimmfipatcher)
 
 #### Istruzioni
 
@@ -163,7 +163,7 @@ Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
 - Una scheda SD o un'unità USB
 - Mario Kart Wii Competition Patcher
-  - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
+  - [Wii](https://oscwii.org/library/app/competition-tool-wii)
   - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
 #### Instructions (for Wii)
