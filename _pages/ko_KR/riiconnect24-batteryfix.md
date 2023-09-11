@@ -11,5 +11,7 @@ title: "RiiConnect24 FORE000006"
 
 FORE000006 오류가 발생하면, Wii의 시계가 잘못 설정된 것일 수 있습니다. 올바른 날짜와 시간으로 설정한 다음, 한 시간 이상 기다리지 않으면 예상 채널이 작동하기 시작합니다.
 
-[RiiConnect24 설치 페이지로 돌아가기](riiconnect24)
+If you still have trouble, [follow this tutorial](deleting-vffs).
+
+[Return to RiiConnect24 installation page](riiconnect24)
 {: .notice--info}
