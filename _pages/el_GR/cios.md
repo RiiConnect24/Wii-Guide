@@ -25,9 +25,9 @@ Ensure that if you are using an SD card, the lock switch is in the unlocked posi
 
 #### Instructions
 
-##### Section I - Downloading
+##### Section I - Downloading (Only required if your Wii doesn't have Internet)
 
-If your Wii has an Internet connection, you may skip this section. <br/> However, If you encounter any errors like `tcp_read timeout` and `net_gethostbyname failed:`, this will allow the Wii to skip the downloading step.
+<h3>If your Wii has an Internet connection, you may skip this section.</h3> <br/> However, If you encounter any errors like `tcp_read timeout` and `net_gethostbyname failed:`, this will allow the Wii to skip the downloading step.
 {: .notice--warning}
 
 If you are not on Windows, you may download & run [this script](/assets/files/d2x_offline_ios.sh), and it will download the WAD files for you.
