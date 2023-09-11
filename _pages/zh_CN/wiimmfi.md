@@ -55,7 +55,7 @@ MrBean35000vr（CTGP-R 的作者，马里奥赛车 Wii 的自定义纹理包）�
 #### 你需要的是
 
 - 一张SD卡或U盘
-- [Auto Wiimmfi Patcher](https://download.wiimmfi.de/patcher/autowiimmfipatcher-latest.zip)
+- [Auto Wiimmfi Patcher](https://oscwii.org/library/app/wiimmfipatcher)
 
 #### 步骤
 
@@ -163,7 +163,7 @@ Wiimmfi 允许您再次参加马里奥赛车Wii 大赛。
 
 - 一张SD卡或U盘
 - Mario Kart Wii Competition Patcher
-  - [Wii](https://competitions.wiimmfi.de/competition-tool-wii.zip)
+  - [Wii](https://oscwii.org/library/app/competition-tool-wii)
   - [Wii U (vWii)](https://competitions.wiimmfi.de/competition-tool-wiiu.zip)
 
 #### 步骤（适用于 Wii）
