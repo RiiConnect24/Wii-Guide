@@ -12,7 +12,7 @@ Se você não deseja mais usar o RSSMii (talvez porque lhe dá muitas mensagens 
 #### Você precisará de
 
 * Um cartão SD
-* [RSSMii Remover](https://github.com/RiiConnect24/rssmii/releases)
+* [RSSMii Remover](https://oscwii.org/library/app/rssmii-remover)
 
 #### Instruções
 
