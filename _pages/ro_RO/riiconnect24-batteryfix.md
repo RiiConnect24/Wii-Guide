@@ -11,5 +11,7 @@ If you need help for anything regarding this tutorial, please join [the RiiConne
 
 Dacă primești eroarea FORE000006, ceasul consolei tale este probabil setat incorect. Set it to the correct date and time, then wait no more than an hour and the Forecast Channel should start working.
 
+If you still have trouble, [follow this tutorial](deleting-vffs).
+
 [Return to RiiConnect24 installation page](riiconnect24)
 {: .notice--info}
