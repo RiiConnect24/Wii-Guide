@@ -12,7 +12,7 @@ RSSMii를 사용하기 싫다면 (너무 많은 Wii 메일 때문?), 어떻게 �
 #### 필요한 것
 
 * SD 카드
-* [RSSMii Remover](https://github.com/RiiConnect24/rssmii/releases)
+* [RSSMii Remover](https://oscwii.org/library/app/rssmii-remover)
 
 #### 방법
 
