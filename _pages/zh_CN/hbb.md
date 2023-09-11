@@ -51,6 +51,3 @@ Homebrew Browser，也就是 Open Shop Channel 的基础，确实可以工作，
 
 Homebrew Browser 的下载中包含关于如何使用 Homebrew Browser 的指南。
 {: .notice--info}
-
-您可以将 `/apps/homebrew_browser/` 目录下的 ShopChannel.ogg 替换为 loop.ogg，这样 Homebrew Browser 就会播放 Wii Shop Channel 的音乐。
-{: .notice--info}
