@@ -29,7 +29,7 @@ Family edition Wii 没有 GameCube 手柄接口。
 
 很可能有一种更安全且更快的方法将其重新放回 Wii，可能涉及使用 Dolphin Emulator。
 
-例如，如果您想还原 Wii 留言板数据，使用 Dolphin 导入 NAND 备份，找到 `Wii/title/00000001/00000002/data/cdb.vff`，将其复制到 SD 卡上并重命名为 `cdbackup.vff`然后使用 [cdbackup](https://oscwii.org/library/app/cdbackup) 进行还原。
+例如，如果您想还原 Wii 留言板数据，使用 Dolphin 导入 NAND 备份，找到 `Wii/title/00000001/00000002/data/cdb.vff`，将其复制到 SD 卡上并重命名为 `cdbackup.vff`，然后使用 [cdbackup](https://oscwii.org/library/app/cdbackup) 还原。
 
 如果您想还原游戏的存档，使用 Dolphin 导入 NAND 备份，使用 `工具 > 导出所有 Wii 存档` 将所有存档导出到 SD 卡，然后使用数据管理将其移动到 Wii 上。
 
