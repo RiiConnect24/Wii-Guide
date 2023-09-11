@@ -31,8 +31,8 @@ And some things to enhance your vWii experience:
 #### 필요한 것
 
 - SD 카드 및 USB 드라이브
-- [Priiloader installer](https://github.com/DacoTaco/priiloader/releases/download/0.10.0/Priiloader_v0_10.zip)
-- [LoadPriiloader](https://github.com/DacoTaco/priiloader/releases/download/0.10.0/LoadPriiloader.zip)
+- [Priiloader installer](https://oscwii.org/library/app/priiloader)
+- [LoadPriiloader](https://oscwii.org/library/app/loadpriiloader)
 
 #### 사용 방법
 
