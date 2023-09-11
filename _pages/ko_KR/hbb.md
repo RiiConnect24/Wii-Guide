@@ -11,7 +11,7 @@ title: "오픈 쇼핑 채널 (Homebrew Browser)"
 이 응용 프로그램을 사용하려면 인터넷에 연결되어 있어야 합니다.
 {: .notice--warning}
 
-[오픈 쇼핑 채널](https://oscwii.org/)에서는 홈브류 앱을 다운로드할 수 있습니다. Homebrew Browser라는 앱의 부활 프로젝트입니다.
+[오픈 쇼핑 채널](https://oscwii.org/)에서는 홈브류 앱을 다운로드할 수 있습니다. It's a revival project for an app called Homebrew Browser.
 
 #### 필요한 것
 
@@ -50,7 +50,4 @@ title: "오픈 쇼핑 채널 (Homebrew Browser)"
 {: .notice--info}
 
 Homebrew Browser 다운로드에는 Homebrew Browser 사용 방법에 대한 가이드가 포함되어 있습니다.
-{: .notice--info}
-
-`/apps/homebrew_browser/`에서 ShopChannel.ogg를 loop.ogg로 바꾸면 홈브류 브라우저에서 Wii 쇼핑 채널 음악을 재생할 수 있습니다.
 {: .notice--info}
