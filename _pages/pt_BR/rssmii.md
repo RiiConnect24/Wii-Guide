@@ -14,7 +14,7 @@ Deseja receber atualizações de feed do RSS no seu Wii Message Board? Este tuto
 #### Você precisará de
 
 * Um cartão SD
-* [RSSMii](https://github.com/RiiConnect24/rssmii/releases)
+* [RSSMii](https://oscwii.org/library/app/rssmii)
 
 #### Instruções
 ##### Seção I - Baixando/Instalando
