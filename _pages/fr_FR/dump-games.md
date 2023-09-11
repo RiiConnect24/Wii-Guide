@@ -14,7 +14,7 @@ Vous voulez extraire un disque GameCube ou un disque Wii? There are two ways of 
 #### What you need
 
 - An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
-- [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
+- [CleanRip](https://oscwii.org/library/app/cleanrip)
 
 #### Instructions
 
