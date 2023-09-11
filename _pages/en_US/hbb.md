@@ -12,7 +12,7 @@ You can also get homebrew using [osc-dl](https://github.com/dhtdht020/osc-dl/rel
 You need an Internet connection in order to use this application.
 {: .notice--warning}
 
-The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It is a revival project for an app called Homebrew Browser.
+The [Open Shop Channel](https://oscwii.org/) is where you can go to get homebrew apps. It's a revival project for an app called Homebrew Browser.
 
 #### What you need
 
