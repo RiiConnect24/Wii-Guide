@@ -14,7 +14,7 @@ Você quer extrair um jogo de GameCube ou Wii? Existem duas maneiras de fazer is
 #### Você precisará de
 
 - Um cartão SD ou armazenamento USB com pelo menos 4.7 GB de espaço livre.
-- [CleanRip](https://github.com/emukidid/cleanrip/releases/latest)
+- [CleanRip](https://oscwii.org/library/app/cleanrip)
 
 #### Instruções
 
