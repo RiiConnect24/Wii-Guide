@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-Sharpii_DL="https://noahpistilli.github.io/RC24_Patcher/Sharpii"
+Sharpii_DL="https://patcher.rc24.xyz/update/RiiConnect24-Patcher_Unix/v1/Sharpii"
 
 epicfail () {
 	printf "
