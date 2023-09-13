@@ -19,7 +19,7 @@ Use of any GameCube peripheral with a Family Edition Wii or Wii Mini require sol
 #### 必備項目
 
 - A Wii with GameCube ports
-- An SD Card or USB
+- 一張 SD 卡或 USB 隨身碟
 - [GCMM](https://oscwii.org/library/app/gcmm)
 
 If you are looking for 100% completion saves online, you can find them [here](https://gamefaqs.gamespot.com/).
@@ -50,7 +50,7 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 #### 必備項目
 
 - A Wii with GameCube ports
-- An SD Card or USB
+- 一張 SD 卡或 USB 隨身碟
 - [GCMM](https://oscwii.org/library/app/gcmm)
 
 #### 操作說明
@@ -61,7 +61,7 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 2. Place the `.gci` file in a folder called `MCBACKUP` on the root of the SD card or USB drive.
 3. Insert your SD card or USB drive into your Wii and launch GCMM from the Homebrew Channel.
 
-##### Backing Up
+##### 備份
 
 1. Insert your physical memory card into slot A or slot B.
 2. Select the device you want to backup to. ![Device](/images/gcsaves/gcmm-select-device.jpg)
@@ -75,7 +75,7 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 #### 必備項目
 
 - A Wii with GameCube ports
-- An SD Card or USB
+- 一張 SD 卡或 USB 隨身碟
 - [GCMM](https://oscwii.org/library/app/gcmm)
 
 #### 操作說明
@@ -97,7 +97,7 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 #### 必備項目
 
 - A Wii with GameCube ports
-- An SD Card or USB
+- 一張 SD 卡或 USB 隨身碟
 - [GCMM](https://oscwii.org/library/app/gcmm)
 
 #### 操作說明
