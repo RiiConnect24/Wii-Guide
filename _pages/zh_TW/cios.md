@@ -118,7 +118,7 @@ A more comprehensive (although still incomplete) list can be found [**here**](ht
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
 1. Select the game that isn't working.
-1. Click Settings.
+1. 點選『設定』（Settings）。
 1. Select `Game Load`.
 1. Scroll down to `Game IOS`.
 1. Enter the IOS slot to use.
