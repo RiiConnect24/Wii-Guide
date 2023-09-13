@@ -142,7 +142,7 @@ You will be installing `uneoboot.dol` in step 3.
 
 Your Wii should now automatically boot to whichever homebrew app you installed.
 
-##### Autobooting the Homebrew Channel or Priiloader
+##### 自動開機至 Homebrew Channel 或 Priiloader
 
 1. Launch the Homebrew Channel, then launch the Load Priiloader app.
 1. Scroll down to `Settings` and press A. ![Settings](/images/Priiloader/menu_settings.png)
