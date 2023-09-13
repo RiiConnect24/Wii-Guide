@@ -17,7 +17,7 @@ It is also safe to [redo any exploit](get-started) to get back into the HackMii 
 #### 必備項目
 
 - The Homebrew Channel
-- An SD card or USB drive formatted to FAT32/MS-DOS
+- 一張 FAT32/MS-DOS 格式的 SD 卡或 USB 隨身碟
 - [HackMii Installer v1.2](https://bootmii.org/download/)
 
 #### 操作說明
@@ -35,7 +35,7 @@ It is also safe to [redo any exploit](get-started) to get back into the HackMii 
 
 #### 必備項目
 - a Wii with Priiloader (or Preloader) installed
-- an SD card or USB drive formatted to FAT32/MS-DOS
+- 一張 FAT32/MS-DOS 格式的 SD 卡或 USB 隨身碟
 - [HackMii Installer v1.2](https://bootmii.org/download/)
 
 To check if your Wii has Priiloader, hold the RESET button while turning it on. ![Turn on](/images/Priiloader/on.jpg) ![Hold RESET](/images/Priiloader/reset.jpg)
