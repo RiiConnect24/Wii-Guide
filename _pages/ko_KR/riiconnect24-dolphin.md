@@ -14,7 +14,7 @@ title: "Dolphin용 RiiConnect24"
 {% capture notice-1 %}
 이 가이드는 [Dolphin 에뮬레이터](https://dolphin-emu.org) 전용입니다.
 
-- Wii에 에 RiiConnect24를 설치하려면 [이 자습서](riiconnect24-wii)를 따릅니다.
+- Follow [this tutorial](riiconnect24) if you'd like to install RiiConnect24 on a Wii.
 - vWii (Wii U의 Wii 모드) 에 RiiConnect24를 설치하려면 [이 자습서](riiconnect24-vwii)를 따릅니다.
 {% endcapture %}
 
