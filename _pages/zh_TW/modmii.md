@@ -22,7 +22,7 @@ Some advanced options may not be accessible in Modmii Skin. A list of the variou
 
 #### 必備項目
 
-* A Wii
+* 一台 Wii
 * A USB drive or SD Card
 * A Windows PC (a Virtual Machine will work)
 * [Modmii](https://modmii.github.io/)
