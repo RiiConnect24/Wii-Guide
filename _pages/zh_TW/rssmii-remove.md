@@ -11,7 +11,7 @@ If you no longer wish to use RSSMii (maybe because it gives you too much Wii Mai
 
 #### 必備項目
 
-* An SD card
+* 一張 SD 卡
 * [RSSMii Remover](https://oscwii.org/library/app/rssmii-remover)
 
 #### 操作說明
