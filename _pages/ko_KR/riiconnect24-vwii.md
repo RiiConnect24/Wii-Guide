@@ -16,7 +16,7 @@ vWii (Wii U의 가상 Wii) 에 [RiiConnect24](https://rc24.xyz)를 설치하는 
 {% capture notice-1 %}
 This guide is for vWii (Wii Mode on Wii U) only.
 
-- Wii에 에 RiiConnect24를 설치하려면 [이 자습서](riiconnect24-wii)를 따릅니다.
+- Follow [this tutorial](riiconnect24) if you'd like to install RiiConnect24 on a Wii.
 - Dolphin 에뮬레이터에 RiiConnect24를 설치하려면 [이 자습서](riiconnect24-dolphin)를 따릅니다.
 {% endcapture %}
 
