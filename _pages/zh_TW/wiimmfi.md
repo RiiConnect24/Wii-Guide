@@ -137,7 +137,7 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 
 #### 必備項目
 
-- An SD card
+- 一張 SD 卡
 - Your copy of your game (in WAD format)
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
   **or**
