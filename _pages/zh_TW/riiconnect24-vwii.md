@@ -36,7 +36,7 @@ We are **NOT** responsible if you brick, or damage your console in any way whats
 #### 必備項目
 
 * 一張 SD 卡或 USB 隨身碟
-* A computer
+* 一台電腦
 * A Wii U with [the vWii modded](https://wiiu.hacks.guide/#/vwii-modding). **This guide requires the latest CFW on your Wii U.**
 * A Nintendo Network ID (NNID) linked to your Wii U
 * [Priiloader](priiloader) installed on your vWii
