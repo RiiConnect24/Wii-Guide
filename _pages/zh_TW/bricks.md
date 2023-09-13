@@ -1,39 +1,39 @@
 ---
-title: "Bricks"
+title: "磚機"
 ---
 
 {% include toc title="條目內容" %}
 
-A "Brick" usually means your Wii has reached a state where, it's only use is that of a literal [brick](https://wikipedia.org/wiki/Brick). <br> Bricks can occur for a variety of reasons, usually caused by improper system modifications via homebrew.
+當您的主機『變磚』時，則代表您的 Wii 已到了無法正常使用的狀態，也就是說您的主機好比[磚塊](https://wikipedia.org/wiki/Brick)一般。 <br> 出現變磚的原因有很多種，通常是因為透過自製程式對系統進行不當修改造成的。
 
-Here, we will discuss the different types of bricks, as well as some potential solutions.
+在本頁中，我們將討論不同類型的變磚狀況以及一些潛在的解決方案。
 
-## Banner brick
+## Banner 磚（Banner brick）
 
-#### Cause
-Banner bricks occur when a corrupted WAD file is installed on the system menu.
+#### 原因
+Banner 磚是系統主選單中被安裝了一個損壞的 WAD 檔案所造成的。
 
-#### Solutions
-If you have [Priiloader](priiloader) installed, enter it by holding RESET while turning your Wii on. Select Homebrew Channel, then use your WAD manager to uninstall the faulty WAD.
+#### 解決方式
+如果您先前安裝了 [Priiloader](priiloader)，請在開機的同時按住 RESET 鍵。 選擇 Homebrew Channel，並透過您的 WAD 管理器解除安裝有問題的 WAD 檔案。
 
-If you do not have Priiloader, Maintenance mode may be worth a try. Hold down `+` and `-` on the Health and Safety screen. (do not press `A`!)
+如果您沒有 Priiloader，維護模式可能值得一試。 在『健康與安全』提示下，按住 `+` 和 `-` 鍵。 (不要按 `A`!)
 
-If you are fortunate enough to get to the Wii menu, enter the Homebrew Channel and uninstall the faulty WAD.
+如果您有幸進入 Wii 主選單，請進入 Homebrew Channel 並解除安裝有問題的 WAD。
 
-## Theme brick
+## 主題磚（Theme brick）
 
-#### Cause
-A theme brick occurs when a wrongly formatted theme is installed.
+#### 原因
+主題磚是安裝了一個格式錯誤的主題所造成的。
 
-#### Solutions
-To resolve this issue, open HBC through Priiloader and access MyMenuifyMOD to install a default theme.
+#### 解決方式
+要解決此問題，請透過 Priiloader 開啟 Homebrew Channel，並透過 MyMenuifyMOD 安裝預設主題。
 
-## Semibrick
+## 半磚（Semibrick）
 
-#### Cause
-A semibrick occurs when a different region System Menu or a different region custom theme is installed. This causes the Wii to fail to find the Wii settings page files. ![Semibrick](/images/bricks/semibrick.png)
+#### 原因
+半磚是安裝不同區碼的系統主選單或不同區碼的自訂主題時所造成的。 這會導致 Wii 無法找到 Wii 設定頁面檔。 ![半磚（Semibrick）](/images/bricks/semibrick.png)
 
-#### Solutions
+#### 解決方式
 If this was caused by a theme you installed, use MyMenuifyMod to re-download the original theme file.
 
 If this was caused by a System menu WAD you installed, use [NUS Downloader](https://wiibrew.org/wiki/NUSD) to re-obtain your original system menu.
@@ -43,50 +43,50 @@ Be cautious when downloading the System menu WAD. Make sure to pick the same ver
 
 If you are actually in the process of a region change, use [ARC-ME](https://github.com/modmii/Any-Region-Changer-ModMii-Edition/releases) to automatically fix all your region settings to match your System menu.
 
-## System Menu brick
+## 系統選單磚（System Menu brick）
 
-#### Cause
+#### 原因
 This brick is a more fatal version of a [Semibrick](#semibrick). If your SYSCONF gets corrupt or damaged, the Wii will regenerate it and start the setup phase.
 
 However, the setup pages are in a similar location to the Wii settings pages. If you have an incorrect region System menu or theme, the Wii cannot find them. ![System menu brick](/images/bricks/sysmenu-brick.png)
 
-#### Solutions
+#### 解決方式
 
 If you still have [Priiloader](priiloader), use it to enter the Homebrew Channel and re-install the original theme file/original System menu.
 
 In case you do not have Priiloader, you can try [BlueBomb](bluebomb).
 
-## Mail brick
+## 訊息磚（Mail brick）
 
-#### Cause
+#### 原因
 A mail brick happens when your Wii has a lot of mail. This will make the Wii crash.
 
-#### Solutions
-To fix a mail brick, enter Maintenance mode by holding `+` and `-` on the Health and Safety screen. (do not press `A`!) <br> Enter the Homebrew Channel, and use [cdbackup](https://oscwii.org/library/app/cdbackup) to delete your message board data.
+#### 解決方式
+To fix a mail brick, enter Maintenance mode by holding `+` and `-` on the Health and Safety screen. (不要按 `A`!) <br> Enter the Homebrew Channel, and use [cdbackup](https://oscwii.org/library/app/cdbackup) to delete your message board data.
 
-## Wi-Fi brick
+## Wi-Fi 磚 （Wi-Fi brick）
 
-#### Cause
+#### 原因
 This brick arises when your Wii's Wi-Fi (or Bluetooth) module is damaged or not inserted properly. In such cases, the Wii gets stuck on a black screen while awaiting a response from IOS.
 
 You can try and differentiate by checking if your Wii remote still powers on your Wii.
 
 This will also happen on the Wii mini if you install a normal Wii IOS, because the Wii Mini does not have a Wi-Fi module.
 
-#### Solutions
+#### 解決方式
 To resolve this problem, you can try reseat or replace the Wi-Fi/Bluetooth module.
 
 If you are on a Wii Mini, you must install a Wi-Fi module.
 
 ## Error 003 Brick
 
-#### Cause
+#### 原因
 
 This brick happens when a non-Korean System Menu on 4.2 or 4.3 detects that the Korean key is present.
 
 This is usually an immediate follow-up to a Wii System Update on an unsuspecting region-changed Korean Wii. ![Error 003](/images/bricks/error-003.png)
 
-#### Solutions
+#### 解決方式
 
 Since this brick most often occurs after the System menu updates, Priiloader will not be present.
 
@@ -96,10 +96,10 @@ The only way to fix this brick is a way to launch homebrew by launching a game t
 
 ## IOS brick
 
-#### Cause
+#### 原因
 This brick happens when the System menu's IOS is a [stub](http://wiibrew.org/wiki/Stub_IOS). This is usually the consequence of attempting to downgrade your Wii menu.
 
-#### Solutions
+#### 解決方式
 You must have BootMii as boot2 to fix this brick. Priiloader will not load.
 {: .notice}
 
@@ -109,10 +109,10 @@ You can either restore a NAND backup, or do this:
 1. Use BootMii to enter the Homebrew Channel, and use a WAD manager to install the System menu WAD.
 
 
-## Low-level brick
+## 低階錯誤磚（Low-level brick）
 
-#### Cause
+#### 原因
 This brick occurs when boot1/boot2 is corrupt.
 
-#### Solutions
+#### 解決方式
 You can only recover by using a NAND programmer.
