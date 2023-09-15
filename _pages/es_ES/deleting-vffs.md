@@ -15,8 +15,8 @@ RiiConnect24 Clear Tool is a homebrew application that can fix these specific er
 - NEWS/FORE000001
 - NEWS/FORE000003
 - NEWS/FORE000005
+- NEWS/FORE000006
 - NEWS/FORE000099
-- NEWS000006
 - Clears out Wii mailboxes in case they are full (this can fix Wii Mail)
 
 This tool usually does not help on vWii (especially deleting SYSCONF).
