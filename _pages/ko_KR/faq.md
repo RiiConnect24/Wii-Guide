@@ -17,14 +17,14 @@ title: "자주 묻는 질문"
 
 홈브류 응용 프로그램을 저장하려면 최소 2GB 용량의 SD 카드를 사용하는 것이 좋습니다.
 
-### Wiimmfi에서 오류 코드 XXXXXX가 발생했는데 어떻게 해결하나요?
+### I got error code XXXXXX, how to fix it?
 오류의 원인을 확인하려면 [Wiimmfi 오류 페이지](https://wiimmfi.de/error)를 참조합니다.
 
 ### vWii 모딩의 제한 사항은 무엇인가요?
 다음은 잠재적으로 vWii를 **벽돌**로 만들 수 있는 것들의 목록입니다 (이런 일을 하지 마세요!):
 * vWii에 Wii 콘솔용 IOS 설치
 * vWii 및/또는 해당 지역에 맞게 올바르게 포맷되지 않은 Wii 메뉴 테마 설치
-* BootMii 와/또는 Priiloader/Preloader 설치.
+* Installing BootMii.
 * 중요한 시스템/IOS 타이틀을 설치하는 동안 오류 발생 (예: 정전).
 * 자신이 무엇을 하고 있는지 모른 채 vWii NAND 수정
 
