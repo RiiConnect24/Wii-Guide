@@ -17,14 +17,14 @@ Necesitarás una tarjeta SD de al menos 128 MB para ejecutar un exploit.
 
 Para almacenar aplicaciones homebrew, se recomienda usar una tarjeta SD de por lo menos 2 GB de capacidad.
 
-### He recibido el código de error XXXXX en Wiimmfi, ¿cómo lo soluciono?
+### I got error code XXXXXX, how to fix it?
 Para saber la causa del error y su posible solución, accede a la [página de errores de Wiimmfi](https://wiimmfi.de/error), e ingresa el código que hayas recibido.
 
 ### ¿Cuáles son las modificaciones que pueden causar un brick del modo Wii (vWii) en la Wii U?
 A continuación se enlistan algunas acciones que pueden dejar tu vWii en un estado de **brick**. ¡Por favor no intentes estas cosas!
 * Instalar IOS diseñados para la Wii original.
 * Instalar temas para el menú de Wii que no hayan sido convertidos correctamente para vWii y/o la región de tu consola.
-* Instalar BootMii o Priiloader/Preloader.
+* Installing BootMii.
 * Fallo durante la instalación de títulos o IOS cruciales del sistema (por ejemplo, debido a un apagón).
 * Modificar, mover, o eliminar archivos del sistema sin saber lo que estás haciendo.
 
