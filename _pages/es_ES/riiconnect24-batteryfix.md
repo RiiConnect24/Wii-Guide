@@ -13,5 +13,5 @@ Si recibes el código de error FORE000006 al tratar de usar el Canal Tiempo, es 
 
 If you still have trouble, [follow this tutorial](deleting-vffs).
 
-[Return to RiiConnect24 installation page](riiconnect24)
+[Volver a la guía de instalación de RiiConnect24](riiconnect24)
 {: .notice--info}
