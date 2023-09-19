@@ -7,10 +7,10 @@ Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayud
 
 ![LetterBomb](/images/letterbomb.png)
 
-LetterBomb es un exploit para el Wii que se activa mediante el tablón de Wii.
+LetterBomb es un exploit para la Wii que se activa mediante el tablón de Wii.
 
 #### Requisitos
-- An SD card formatted to FAT32/MS-DOS
+- Una tarjeta SD formateada como FAT32
 - Una Wii con la versión del sistema 4.3
 
 #### Instrucciones
