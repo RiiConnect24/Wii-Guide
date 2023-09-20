@@ -26,12 +26,13 @@ Aqui está uma lista de coisas que você pode fazer usando homebrew. Embora esta
 - Instalar temas no Wii Menu usando [MyMenuify](themes).
 - Instalar um USB Loader como [WiiFlow Lite](wiiflow) ou [USB Loader GX](usbloadergx) para jogar os seus jogos favoritos através de um dispositivo USB e mais.
 - Fazer backup dos seus discos com [CleanRip](/dump-games) e jogos e aplicativos instalados com com [YABDM](dump-wads)
-- Fazer backup e restaurar seus dados salvos de jogos com [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
-- Baixar novos aplicativos homebrew com [Homebrew Browser](hbb)
+- Back up and restore your Wii save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
+- Back up and restore your gamecube save files using [GCMM](gcsaves)
+- Download new homebrew apps with the [Homebrew Browser](hbb)
 - Restore discontinued online services, such as [Nintendo WFC services](wiimmfi) & WiiConnect24 services by using [Riiconnect24](riiconnect24) or [WiiLink](wiilink).
-- Fazer backup e restaurar cópias do armazenamento do Wii (NAND) usando [BootMii](bootmii).
-- Proteger seu Wii de bricks usando [Priiloader](priiloader) e BootMii.
-- Transforme seu Wii em um reprodutor de mídia com [WiiMC](https://oscwii.org/library/app/wiimc-ss).
+- [Backup](bootmii) and [restore](bootmiirecover) copies of your Wii system memory (NAND) using [BootMii](hbc).
+- Protect your Wii from bricks using [Priiloader](priiloader) and [BootMii](bootmii).
+- Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
 
 
 ## Pronto?
