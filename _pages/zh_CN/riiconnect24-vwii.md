@@ -102,22 +102,22 @@ title: RiiConnect24 vWii 指南
 
 ##### 第四部分 - 使用 RiiConnect24
 
-1. Visit the [vWii Priiloader WC24 UTC Patch Generator](https://garyodernichts.github.io/priiloader-patch-gen/) page.
-1. Enter your Wii U's time offset from UTC time. <br> This is automatically done based on your PC's time, so you may be able to skip this step.
-1. Enter the region of your Wii U and click `Generate`.
-1. A System menu hack will be generated in the text box below.
-1. Insert your SD card or USB drive into your PC.
-1. Open `/apps/priiloader/hacks_hash.ini` in a text editor, and paste the new system menu hack at the bottom of the file.
-1. Save the file, eject your SD card/USB drive from your PC, and put it back into your Wii U.
-1. Launch the `Load Priiloader` application from the Homebrew Channel.
-1. In the Priiloader menu, go to `System Menu Hacks`. ![System menu hacks](/images/Priiloader/system_menu_hacks.png)
-1. Scroll through the list, and press `A` to enable each of these hacks:
+1. 访问 [vWii Priiloader WC24 UTC Patch Generator](https://garyodernichts.github.io/priiloader-patch-gen/) 页面。
+1. 输入 Wii U 时间与 UTC 时间的偏差。 <br> 这将根据 PC 的时间自动完成，因此您可以跳过这一步。
+1. 输入 Wii U 的区域，然后点击 `Generate`。
+1. 将在下面的文本框中生成 System menu hack。
+1. 将 SD 卡或 U 盘插入 PC。
+1. 使用文本编辑器打开 `/apps/priiloader/hacks_hash.ini`，然后将新的 system menu hack 粘贴到文件底部。
+1. 保存文件，将 SD 卡/U 盘从 PC 中弹出，然后重新插入到 Wii U 中。
+1. 从 Homebrew Channel 启动 `Load Priiloader` 应用程序。
+1. 在 Priiloader 菜单中，转到 `System Menu Hacks`。 ![System menu hacks](/images/Priiloader/system_menu_hacks.png)
+1. 滚动列表，然后按 `A` 以启用这些修改：
   + `Always Enable WiiConnect24 for vWii`
   + `Create Message via Calendar button`
   + `Fix NWC24iSetUniversalTime (UTC.....`
-1. Scroll down to `save settings`, press `A`, then press `B` to go back.
-1. Select `System Menu.`
-1. Return to the Wii U Menu, then go right back to Wii Mode.
+1. 滚动到 `save settings`，按 `A`，然后按 `B` 返回。
+1. 选择 `System Menu。`
+1. 回到 Wii U 菜单，然后直接进入 Wii 模式。
 
 #### 目前什么功能可用？
 以下 RiiConnect24 服务在 vWii 上**正常工作**：
