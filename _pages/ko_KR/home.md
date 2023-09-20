@@ -26,12 +26,13 @@ Wii 소프트웨어의 버그를 이용하면 무료로 닌텐도 Wii에서 홈�
 - [MyMenuify](themes)를 사용하여 Wii 메뉴에 테마를 설치합니다.
 - [WiiFlow](wiiflow) 또는 [USB Loader GX](usbloadergx)와 같은 USB 로더를 설치하면 USB 저장 장치 등에서 좋아하는 타이틀을 모두 실행할 수 있습니다.
 - [CleanRip](/dump-games)으로 디스크를 백업하고 [YABDM](dump-wads)으로 설치된 게임 및 타이틀을 백업합니다.
-- [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)로 세이브 파일을 백업하고 복원합니다.
-- [Homebrew Browser](hbb)로 새로운 홈브류 앱을 다운로드합니다.
+- Back up and restore your Wii save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
+- Back up and restore your gamecube save files using [GCMM](gcsaves)
+- Download new homebrew apps with the [Homebrew Browser](hbb)
 - Restore discontinued online services, such as [Nintendo WFC services](wiimmfi) & WiiConnect24 services by using [Riiconnect24](riiconnect24) or [WiiLink](wiilink).
-- [BootMii](bootmii)을 사용하여 Wii 시스템 메모리 (NAND) 의 복사본을 백업 및 복원합니다.
-- [Priiloader](priiloader)와 BootMii를 사용하여 Wii를 벽돌로부터 보호합니다.
-- [WiiMC](https://oscwii.org/library/app/wiimc-ss)로 Wii를 미디어 플레이어로 전환합니다.
+- [Backup](bootmii) and [restore](bootmiirecover) copies of your Wii system memory (NAND) using [BootMii](hbc).
+- Protect your Wii from bricks using [Priiloader](priiloader) and [BootMii](bootmii).
+- Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
 
 
 ## 준비됐나요?
