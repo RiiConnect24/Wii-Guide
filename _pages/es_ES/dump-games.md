@@ -1,11 +1,11 @@
 ---
-title: "Copiar juegos de Wii/GameCube"
+title: "Copiar juegos de Wii o GameCube"
 ---
 
-¿Quieres extraer un disco de GameCube o de Wii? Hay dos formas de hacerlo, dependiendo de las herramientas que tengas contigo.
+En esta guía aprenderás a copiar juegos físicos de Wii y GameCube en formato digital. Existen dos métodos para hacerlo, dependiendo de las herramientas que tengas a la mano.
 
-<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">To the SD card/USB drive</button>
-<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'dump-smb')">To a PC over the network</button>
+<button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">A una tarjeta SD/unidad USB</button>
+<button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'dump-smb')">A una PC mediante Wi-Fi</button>
 
 <div id="cleanrip" class="blanktabcontent" markdown="1">
 
