@@ -10,7 +10,7 @@ title: "Modmii"
 本程序不提供保修，因此您需要对 Wii 可能造成的损坏负责。
 {: .notice--warning}
 
-本程序不适用于 vWii 或 Wii Mini。 某些工具可能适用于这些平台，也可能不适用。
+This program is NOT intended to be used for the vWii or the Wii mini. 某些工具可能适用于这些平台，也可能不适用。
 {: .notice--warning}
 
 ![Modmii](/images/Modmii/modmii.png)
