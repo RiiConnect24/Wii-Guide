@@ -10,7 +10,7 @@ If you need help for anything regarding this tutorial, please join [the Modmii D
 This Program does NOT come with a warranty, so you are responsible for any potential damage done to your Wii.
 {: .notice--warning}
 
-This program is NOT intended to be used for the vWii or the Wii Mini. Some tools may or may not work for these platforms.
+This program is NOT intended to be used for the vWii or the Wii mini. Some tools may or may not work for these platforms.
 {: .notice--warning}
 
 ![Modmii](/images/Modmii/modmii.png)
