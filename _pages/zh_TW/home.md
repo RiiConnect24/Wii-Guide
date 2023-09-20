@@ -28,7 +28,7 @@ Here's a list of things you can do using homebrew. While this list is by no mean
 - Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](dump-wads)
 - Back up and restore your save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
 - Download new homebrew apps with the [Homebrew Browser](hbb)
-- Restore discontinued online services, such as [WiiConnect24](riiconnect24) & [Nintendo WFC services](wiimmfi).
+- Restore discontinued online services, such as [Nintendo WFC services](wiimmfi) & WiiConnect24 services by using [Riiconnect24](riiconnect24) or [WiiLink](wiilink).
 - Backup and restore copies of your Wii system memory (NAND) using [BootMii](bootmii).
 - Protect your Wii from bricks using [Priiloader](priiloader) and BootMii.
 - Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
