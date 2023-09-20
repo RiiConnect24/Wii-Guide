@@ -2,7 +2,7 @@
 title: "Copiar juegos de Wii o GameCube"
 ---
 
-En esta guía aprenderás a copiar juegos físicos de Wii y GameCube en formato digital. Existen dos métodos para hacerlo, dependiendo de las herramientas que tengas a la mano.
+En esta guía aprenderás a copiar juegos físicos de Wii y GameCube en formato digital. Existen dos métodos para hacerlo, según la ubicación adonde desees copiar tus juegos.
 
 <button class="tablinks btn btn--large btn--primary" id="defaultOpen" onclick="openTab(event, 'cleanrip')">A una tarjeta SD/unidad USB</button>
 <button class="tablinks btn btn--large btn--info" onclick="openTab(event, 'dump-smb')">A una PC mediante Wi-Fi</button>
@@ -13,7 +13,7 @@ En esta guía aprenderás a copiar juegos físicos de Wii y GameCube en formato 
 
 #### Requisitos
 
-- An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
+- Una tarjeta SD o unidad USB con al menos 4.7 GB de espacio libre (8.5 GB para discos de doble capa).
 - [CleanRip](https://oscwii.org/library/app/cleanrip)
 
 #### Instrucciones
