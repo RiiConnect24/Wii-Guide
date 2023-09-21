@@ -18,9 +18,9 @@ En esta guía aprenderás a copiar juegos físicos de Wii y GameCube en formato 
 
 #### Instrucciones
 
-##### Sección I - Descarga
+##### Sección I - Descarga/instalación
 
-1. Extrae CleanRip a la carpeta `apps` en tu tarjeta SD o unidad USB.
+1. Extrae el archivo de CleanRip a la carpeta `apps` ubicada en la raíz de la tarjeta SD o unidad USB.
 1. Inserta la tarjeta SD o unidad USB en tu Wii e inicia CleanRip desde el Canal Homebrew.
 
 ##### Sección II - Copiando un juego
