@@ -15,7 +15,7 @@ title: "适用于 Dolphin 的 RiiConnect24"
 此指南仅适用于 [Dolphin Emulator](https://dolphin-emu.org)。
 
 - 如果您想在 Wii 上安装 RiiConnect24，请按照[此教程](riiconnect24)进行操作。
-- 如果您想在 vWii（Wii U 上的 Wii 模式）上安装 RiiConnect24，请遵循[此教程](riiconnect24-vwii)。
+- 如果您想在 vWii（Wii U 的 Wii 模式）上安装 RiiConnect24，请按照[此教程](riiconnect24-vwii)进行操作。
 {% endcapture %}
 
 <div class="notice--warning">{{ notice-1 | markdownify }}</div>
