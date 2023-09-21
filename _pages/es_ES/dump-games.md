@@ -25,7 +25,7 @@ En esta guía aprenderás a copiar juegos físicos de Wii y GameCube en formato 
 
 ##### Sección II - Copiando un juego
 
-1. Elige el dispositivo de almacenamiento donde deseas copiar el juego, ya sea tu unidad USB o tarjeta SD. ![Device type](/images/CleanRip/2.png)
+1. Elige el dispositivo de almacenamiento adonde deseas copiar el juego: unidad USB o tarjeta SD. ![Device type](/images/CleanRip/2.png)
 1. En esta pantalla se te preguntará si quieres descargar una base de datos con sumas de verificación, para que de esta forma puedas verificar que la copia recién creada sea idéntica al contenido del disco. Tú decides si deseas descargar el archivo o no. ![DAT](/images/CleanRip/3.png)
 1. Now insert the game you want to dump. ![DVD](/images/CleanRip/4.png) ![Montando el disco](/images/CleanRip/5.png)
 1. Set it as shown on the screen below.
