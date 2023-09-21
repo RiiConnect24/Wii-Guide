@@ -20,42 +20,42 @@ En esta guía aprenderás a copiar juegos físicos de Wii y GameCube en formato 
 
 ##### Sección I - Descarga/instalación
 
-1. Extrae el archivo de CleanRip a la carpeta `apps` ubicada en la raíz de la tarjeta SD o unidad USB.
+1. Descarga y extrae el archivo de CleanRip a la carpeta `apps` ubicada en la raíz de la tarjeta SD o unidad USB.
 1. Inserta la tarjeta SD o unidad USB en tu Wii e inicia CleanRip desde el Canal Homebrew.
 
 ##### Sección II - Copiando un juego
 
 1. Elige el dispositivo de almacenamiento adonde deseas copiar el juego: unidad USB o tarjeta SD. ![Device type](/images/CleanRip/2.png)
-1. En esta pantalla se te preguntará si quieres descargar una base de datos con sumas de verificación, para que de esta forma puedas verificar que la copia recién creada sea idéntica al contenido del disco. Tú decides si deseas descargar el archivo o no. ![DAT](/images/CleanRip/3.png)
-1. Now insert the game you want to dump. ![DVD](/images/CleanRip/4.png) ![Montando el disco](/images/CleanRip/5.png)
-1. Set it as shown on the screen below.
-title: "CleanRip"
+1. A continuación se te preguntará si quieres descargar una base de datos con los checksum de todos los juegos existentes, para que de esta forma puedas verificar que la copia recién creada sea idéntica al contenido del disco. Este paso es opcional, aunque recomendable. ![DAT](/images/CleanRip/3.png)
+1. Ahora inserta el disco que deseas copiar, si aún no lo has hecho.![DVD](/images/CleanRip/4.png) ![Montando el disco](/images/CleanRip/5.png)
+1. Configura las opciones como se muestra abajo.
+Si el juego que vas a copiar se encuentra en [esta lista](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games), por favor ajusta la opción `Dual Layer` a `Yes`.
 {: .notice--info}
 ![Configuración](/images/CleanRip/6.png)
 
-1. CleanRip empezará a copiar tu juego. Este proceso puede tardar un rato, ya que se van a copiar todos los contenidos del disco (4.7 GB para discos normales, 9.4 GB para discos de doble capa y 1.5 GB para juegos de GameCube). ![Copiando un juego](/images/CleanRip/7.png)
+1. CleanRip empezará a copiar tu juego. Este proceso puede tardar un rato, ya que se van a copiar todos los contenidos del disco (4.7 GB para discos de Wii normales, 8.5 GB para discos de doble capa, y 1.5 GB para juegos de GameCube). ![Copiando un juego](/images/CleanRip/7.png)
 </div>
 
 <div id="dump-smb" class="blanktabcontent" markdown="1">
 
-### Dumping a game over a local network
+### Copiar juegos a través de una red local
 
 #### Requisitos
 
-- [Herramienta volcado de DVD](/assets/files/DVDDumpTool.zip)
-Your Wii and your computer must be connected to one local network.
+- [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
+Tu consola Wii y PC deben estar conectadas a la misma red Wi-Fi.
 {: .notice--warning}
 
 #### Instrucciones
 
-##### Sección I - Descarga
+##### Sección I - Descarga/instalación
 
-1. Extrae DVD Dump Tool a la carpeta `apps` en tu tarjeta SD o unidad USB.
+1. Descarga y extrae el archivo de DVD Dump Tool a la carpeta `apps` ubicada en la raíz de la tarjeta SD o unidad USB.
 1. Inserta la tarjeta SD o unidad USB en tu Wii e inicia DVD Dump Tool desde el Canal Homebrew.
 
 ##### Sección II - Copiando un juego
 
-1. Press the right on the D-pad and press A. ![2](/images/DumpDiscs_LAN/2.png)
+1. Presiona derecha en la cruz de control y después el botón A. ![2](/images/DumpDiscs_LAN/2.png)
 1. Elige el tipo de disco que quieres copiar, ya sea un disco normal, de doble capa o de GameCube, y después oprime A. ![3](/images/DumpDiscs_LAN/3.png)
 1. Ahora inserta el disco que quieres copiar en tu Wii. (If it's already in your Wii, eject it and put it back.) ![Inserta el disco](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
 1. Toma nota de la IP de tu Wii![5](/images/DumpDiscs_LAN/5.png)
