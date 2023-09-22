@@ -36,18 +36,18 @@ Asegúrate de que tu unidad USB esté formateada como FAT32. No es posible usar 
 
 ##### Sección II - Copiando los juegos
 
-1. Haz clic en la pestaña `Drive 1` y elige la unidad a la que deseas copiar los juegos. ![Select drive](/images/WBM/select_drive.png)
-1. Dirígete a la pestaña `Files` y selecciona `Add`. <br> Elige `Files` para agregar juegos desde diferentes ubicaciones, o `Folder` para cargar una carpeta que contenga varios juegos. ![Select games](/images/WBM/select_games.png)
-1. Haz clic en `Select` y luego en `Games not on drive 1`. ![Highlight games](/images/WBM/select_games2.png)
-1. Selecciona `Transfer` y después `Drive 1` para comenzar a copiar los juegos a tu unidad USB. Este proceso puede tardar un rato, dependiendo de la cantidad y el tamaño de tus juegos. ![Transfer games](/images/WBM/transfer_todrive.png)
+1. Haz clic en la pestaña `Drive 1` y elige la unidad a la que deseas copiar los juegos. ![Seleccionar unidad de disco](/images/WBM/select_drive.png)
+1. Dirígete a la pestaña `Files` y selecciona `Add`. <br> Elige `Files` para agregar juegos desde diferentes ubicaciones, o `Folder` para cargar una carpeta que contenga varios juegos. ![Seleccionar ubicación de los juegos](/images/WBM/select_games.png)
+1. Haz clic en `Select` y luego en `Items not on drive 1`. ![Seleccionar juegos a copiar](/images/WBM/select_games2.png)
+1. Selecciona `Transfer` y después `Drive 1` para comenzar a copiar los juegos a tu unidad USB. Este proceso puede tardar un rato, dependiendo de la cantidad y el tamaño de tus juegos. ![Comenzar transferencia de juegos](/images/WBM/transfer_todrive.png)
 
 ##### Opciones una vez terminado
 
-[Continue to cIOS](cios)<br> cIOS is needed for your Wii to use a USB Loader.
+[Continuar a la instalación de cIOS](cios)<br> Los cIOS son necesarios para cargar juegos mediante un USB loader.
 {: .notice--info}
 
-You can now use [USB Loader GX](usbloadergx) or [WiiFlow](wiiflow) to play games from your USB drive or SD card.
+Ahora puedes usar [USB Loader GX](usbloadergx) o [WiiFlow Lite](wiiflow) para cargar juegos desde tu unidad USB o tarjeta SD.
 {: .notice--info}
 
-[Echa un vistazo a nuestras otras guías](site-navigation)<br> Tenemos muchos otros tutoriales que podrían interesarte.
+[Ir al mapa del sitio](site-navigation)<br> Tenemos muchas otras guías que podrían interesarte.
 {: .notice--info}
