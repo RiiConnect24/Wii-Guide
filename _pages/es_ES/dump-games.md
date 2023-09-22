@@ -66,22 +66,22 @@ La velocidad de transferencia de datos es menor que al copiar los juegos con Cle
 ![8](/images/DumpDiscs_LAN/8.PNG)
 </div>
 
-## Joining split files
+## Concatenar archivos divididos
 
-If you dumped the disc on a FAT32 formatted, device, you should've got at least 2 files that end with `.partX.iso`. They need to be joined up.
+Si has copiado un disco de Wii a una unidad con el sistema de archivos FAT32, deberías tener por lo menos dos archivos cuyo nombre termine en `.partX.iso`. Es necesario combinar estos archivos en uno solo.
 {: .notice--info}
 
-## Windows
+## Instrucciones para Windows
 
-1. Copy all the files that share the same name and end with `.partX.iso` into an empty folder on your computer.
-1. Open the folder in File Explorer.
-1. While holding Shift, right click on an empty space within the folder.
+1. Copia todos los archivos que tengan el mismo nombre y terminen en `.partX.iso` a una carpeta vacía.
+1. Ingresa a la carpeta en el Explorador de archivos.
+1. Haz clic derecho en un espacio vacío dentro de la carpeta mientras mantienes pulsado Shift.
 1. Select "Open PowerShell window here".
 1. In the new window that appears, type `cmd` and press enter.
 1. Finally, type `copy /b *.part?.iso game.iso` and press enter.
 1. Wait until it finishes. You can confirm this when "1 file(s) copied." appears.
 
-## macOS/Linux
+## Instrucciones para macOS y Linux
 
 1.  Copy all the files that share the same name and end with `.partX.iso` in a folder on your computer.
 1.  Open up a Terminal.
