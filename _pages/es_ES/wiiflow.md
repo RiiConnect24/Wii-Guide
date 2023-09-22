@@ -32,7 +32,7 @@ If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fus
 Para jugar a juegos, te recomendamos usar un disco duro externo para tu Wii. Flash drives are not recommended, and may vary in behavior even between the same product.
 {: .notice--info}
 
-Make sure your USB drive is formatted as FAT32. Do not format it as other types such as exFAT or extFS. <br> You may format it as NTFS, but it won't work with a majority of apps (eg. The Homebrew Channel, Nintendont)
+Asegúrate de que tu unidad USB esté formateada como FAT32. Do not format it as other types such as exFAT or extFS. <br> You may format it as NTFS, but it won't work with a majority of apps (eg. The Homebrew Channel, Nintendont)
 {: .notice--info}
 
 WiiFlow can load games from an SD card or a USB drive.
