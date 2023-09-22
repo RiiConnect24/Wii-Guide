@@ -20,7 +20,7 @@ We recommend you copy games over with [GameCube Backup Manager](https://github.c
 To play games, we recommend using an external hard drive for your Wii. Flash drives are not recommended, and may vary in behavior even between the same product.
 {: .notice--info}
 
-Make sure your USB drive is formatted as FAT32. Do not format it as other types such as exFAT or NTFS.
+Asegúrate de que tu unidad USB esté formateada como FAT32. Do not format it as other types such as exFAT or NTFS.
 {: .notice--info}
 
 
