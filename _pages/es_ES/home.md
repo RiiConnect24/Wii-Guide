@@ -27,7 +27,7 @@ Hay muchas cosas que puedes hacer con homebrew. A continuación se enlistan algu
 - Cargar copias de juegos físicos desde una tarjeta SD o unidad USB, con [USB Loader GX](usbloadergx) o [WiiFlow](wiiflow).
 - Crear copias digitales de juegos físicos y canales instalados, con [CleanRip](/dump-games) y [YABDM](dump-wads), respectivamente.
 - Respaldar y restaurar tus partidas guardadas de Wii, con [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/).
-- Back up and restore your gamecube save files using [GCMM](gcsaves)
+- Respaldar y restaurar tus partidas guardadas de GameCube, con [GCMM](gcsaves).
 - Descargar aplicaciones homebrew directamente desde tu consola, con [Homebrew Browser](hbb).
 - Volver a utilizar el servicio WiiConnect24,(mediante [RiiConnect24](riiconnect24) o [WiiLink](wiilink)), así como la CWF de Nintendo (a través de [Wiimmfi](wiimmfi)).
 - [Respaldar](bootmii) y [restaurar](bootmiirecover) los contenidos de la memoria de la consola (NAND), usando [BootMii](hbc).
