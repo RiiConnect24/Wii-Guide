@@ -55,11 +55,11 @@ Tu consola Wii y PC deben estar conectadas a la misma red Wi-Fi.
 
 ##### Sección II - Copiando un juego
 
-1. Presiona derecha en la cruz de control y después el botón A. ![2](/images/DumpDiscs_LAN/2.png)
-1. Elige el tipo de disco que quieres copiar, ya sea un disco normal, de doble capa o de GameCube, y después oprime A. ![3](/images/DumpDiscs_LAN/3.png)
-1. Ahora inserta el disco que quieres copiar en tu Wii. (If it's already in your Wii, eject it and put it back.) ![Inserta el disco](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
-1. Toma nota de la IP de tu Wii![5](/images/DumpDiscs_LAN/5.png)
-1. On your computer's web browser, go to your address bar and enter the Wii URL. ![6](/images/DumpDiscs_LAN/6.png)
+1. Pulsa derecha en la cruz de control y después el botón A. ![2](/images/DumpDiscs_LAN/2.png)
+1. Elige el tipo de disco que quieres copiar y después oprime A. Las opciones son: `GameCube Disc` (Disco de GameCube), `Wii Single-Layer Disc` (Disco de Wii normal), y `Wii Dual-Layer Disc` (Disco de Wii de doble capa). ![3](/images/DumpDiscs_LAN/3.png)
+1. A continuación inserta en la consola el disco que vas a copiar. Si ya está en tu Wii, oprime el botón EJECT e insértalo de nuevo. ![Inserta el disco](/images/DumpDiscs_LAN/insertthedisc.jpg) ![4](/images/DumpDiscs_LAN/4.png)
+1. Toma nota de la URL que aparece en pantalla.![5](/images/DumpDiscs_LAN/5.png)
+1. Ingresa la URL de la Wii en el navegador web de tu PC.![6](/images/DumpDiscs_LAN/6.png)
 1. Click on `Click here to download XXXX.iso`. ![7](/images/DumpDiscs_LAN/7.jpg)
 La velocidad de transferencia no es la más rápida, pero es mejor que no tener nada si no puedes copiar tus juegos usando CleanRip.
 {: .notice--info}
