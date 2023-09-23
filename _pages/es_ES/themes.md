@@ -68,7 +68,7 @@ Below are some links to themes.
 5. Haz clic en `Options` > `Standard System Menu` > Versión de sistema de tu Wii > Región de tu Wii
 6. Haz clic `File` > `Open`, y después ve hacia la carpeta donde se encuentra el archivo mym.
 7. Haz clic en `Create csm`, y después elige la carpeta donde quieres guardar el tema. Espera un momento para que se construya el tema.
-8. Debería aparecer un mensaje diciendo que el tema ha sido convertido correctamente y te preguntará si quieres guardar el archivo mym. Selecciona `No`.
+8. A dialog box will pop up asking you if you want to save the .mym. Selecciona `No`.
 
 ##### Sección III - Instalando el tema
 
