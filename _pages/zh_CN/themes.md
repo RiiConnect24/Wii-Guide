@@ -68,7 +68,7 @@ title: "安装 Wii 菜单主题"
 5. 转到 `Options` > `Standard System Menu` > Wii 菜单版本 > Wii 菜单区域
 6. 转到 `File` > `Open`，选择浏览到您 .mym 文件所在的位置。
 7. 点击 `Create csm`，然后浏览选择一个您想要保存主题的目录。 请稍等片刻，等待主题构建完成。
-8. 将弹出一个对话框，希望它会显示成功构建主题，并询问您 Do you want to save the mym file?。 按 `否`。
+8. A dialog box will pop up asking you if you want to save the .mym. 按 `否`。
 
 ##### 第三部分 - 安装主题
 
