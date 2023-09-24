@@ -50,7 +50,7 @@ WiiFlow Lite puede cargar juegos desde una unidad USB o tarjeta SD.
 This is not a full comprehensive guide on using WiiFlow. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow by using it.
 {: .notice--info}
 
-- Wiiflow esta configurado de forma predeterminada para encontrar juegos solo en la tarjeta SD. Esto puede ser cambiado entrando a "Settings", "Startup settings" y luego deshabilitar la opción "Mount SD Only".
+- WiiFlow Lite está configurado por defecto para cargar juegos solo desde la tarjeta SD. Esto puede ser cambiado entrando a "Settings", "Startup settings" y luego deshabilitar la opción "Mount SD Only".
 - Puede alternar entre ver los juegos de Wii, juegos de GameCube, canales de Wii, Plugins y Aplicaciones de Homebrew pulsando el segundo botón hasta el ultimo en la derecha.
 - Puede descargar el arte de las cajas de los juegos dirigiendose a "Settings" y luego "Download Covers y Banners"
 
