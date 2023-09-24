@@ -50,23 +50,23 @@ WiiFlow Lite puede cargar juegos desde una unidad USB o tarjeta SD.
 This is not a full comprehensive guide on using WiiFlow. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow by using it.
 {: .notice--info}
 
-- WiiFlow Lite está configurado por defecto para cargar juegos solo desde la tarjeta SD. Esto puede ser cambiado entrando a "Settings", "Startup settings" y luego deshabilitar la opción "Mount SD Only".
-- Puede alternar entre ver los juegos de Wii, juegos de GameCube, canales de Wii, Plugins y Aplicaciones de Homebrew pulsando el segundo botón hasta el ultimo en la derecha.
-- Puede descargar el arte de las cajas de los juegos dirigiendose a "Settings" y luego "Download Covers y Banners"
+- WiiFlow Lite está configurado por defecto para cargar juegos solo desde la tarjeta SD. Para cambiar esto, ingresa a `Settings` > `Startup Settings`, y deshabilita la opción `Mount SD Only`.
+- Puedes alternar la vista del menú principal para cargar juegos de Wii o GameCube, canales de Wii, plugins, o aplicaciones homebrew pulsando el penúltimo botón de izquierda a derecha.
+- Puedes descargar las carátulas de tus juegos dirigiéndote a `Settings` > `Download Covers and Banners`.
 
 ##### Interfaz de usuario
 
-When WiiFlow detects games, they are displayed in flow view. When you click on a game you are given these options:
+When WiiFlow detects games, they are displayed in flow view. Cuando selecciones un juego, verás las siguientes opciones:
 
-- Estrella - Añade tus juegos a favoritos.
-- Librería - Añade el juego a 1 de 6 categorías de las que elijas.
-- Ajustes - Abre un menú de ajustes para específicamente el juego que seleccionaste. Cambiar estos ajustes solamente afectan al juego que seleccionaste previamente.
-- X - Borra un juego de la unidad USB o tarjeta SD
+- Estrella - Marcar juego como favorito.
+- Librería - Añadir juego a una de seis categorías de tu elección.
+- Engranajes - Cambiar los ajustes para el juego seleccionado. Los cambios que realices desde aquí solo afectarán a ese juego.
+- X - Borrar juego de la unidad USB o tarjeta SD.
 
 When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
 
-- Librería - Mira los juegos que están ordenados en las categorías que elegiste para ellos.
-- Estrella - Mira los juegos que pusiste de favorito.
+- Librería - Muestra tus juegos ordenados en las categorías que hayas elegido para ellos.
+- Estrella - Muestra los juegos que hayas marcado como favoritos.
 - Ajustes - abre los ajustes de WiiFlow.
 - Tipo de juego - Cambia entre distintos tipos de aplicaciones/juegos. El logo cambia dependiendo en que tipo de juego seleccionaste.
 - Disco - Carga el juego que esta en la ranura para discos de la Wii.
