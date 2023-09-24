@@ -65,10 +65,10 @@ When WiiFlow detects games, they are displayed in flow view. Cuando selecciones 
 
 When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
 
-- Librería - Muestra tus juegos ordenados en las categorías que hayas elegido para ellos.
-- Estrella - Muestra los juegos que hayas marcado como favoritos.
-- Ajustes - abre los ajustes de WiiFlow.
-- Tipo de juego - Cambia entre distintos tipos de aplicaciones/juegos. El logo cambia dependiendo en que tipo de juego seleccionaste.
+- Librería - Mostrar juegos ordenados por categoría.
+- Estrella - Mostrar los juegos que hayas marcado como favoritos.
+- Engranajes - Acceder a los ajustes de WiiFlow Lite.
+- Tipo de juego - Cambiar entre los diferentes tipos de juegos/aplicaciones. El logo cambia dependiendo en que tipo de juego seleccionaste.
 - Disco - Carga el juego que esta en la ranura para discos de la Wii.
 - Casa - Abrirá este menú. Este menú también puede abrirse oprimiendo el botón HOME.
 
