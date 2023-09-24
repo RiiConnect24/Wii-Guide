@@ -60,7 +60,7 @@ When WiiFlow detects games, they are displayed in flow view. Cuando selecciones 
 
 - Estrella - Marcar juego como favorito.
 - Librería - Añadir juego a una de seis categorías de tu elección.
-- Engranajes - Cambiar los ajustes para el juego seleccionado. Los cambios que realices desde aquí solo afectarán a ese juego.
+- Engranajes - Cambiar los ajustes para el juego seleccionado. Los cambios que realices desde aquí solo afectarán a este juego.
 - X - Borrar juego de la unidad USB o tarjeta SD.
 
 When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
@@ -68,9 +68,9 @@ When you bring the cursor to the bottom of the screen while in flow view, there 
 - Librería - Mostrar juegos ordenados por categoría.
 - Estrella - Mostrar los juegos que hayas marcado como favoritos.
 - Engranajes - Acceder a los ajustes de WiiFlow Lite.
-- Tipo de juego - Cambiar entre los diferentes tipos de juegos/aplicaciones. El logo cambia dependiendo en que tipo de juego seleccionaste.
-- Disco - Carga el juego que esta en la ranura para discos de la Wii.
-- Casa - Abrirá este menú. Este menú también puede abrirse oprimiendo el botón HOME.
+- Tipo de juego - Cambiar entre los diferentes tipos de juegos/aplicaciones. El icono del botón cambia dependiendo del tipo de juego/aplicación seleccionado.
+- Disco - Cargar el juego que se encuentre insertado en la ranura para discos de la consola.
+- Casa - Despliega el menú que se muestra abajo. Este menú también puede abrirse oprimiendo el botón HOME.
 
 ![WF_menu](images/WFmenu.png)
 
