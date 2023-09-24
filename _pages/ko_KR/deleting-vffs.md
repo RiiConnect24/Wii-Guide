@@ -15,8 +15,8 @@ RiiConnect24 청소 도구는 이러한 특정 오류와 문제를 해결할 수
 - NEWS/FORE000001
 - NEWS/FORE000003
 - NEWS/FORE000005
+- NEWS/FORE000006
 - NEWS/FORE000099
-- NEWS000006
 - 꽉 찬 경우 Wii 편지함을 청소 (Wii 메일을 고칠 수 있습니다)
 
 This tool usually does not help on vWii (especially deleting SYSCONF).

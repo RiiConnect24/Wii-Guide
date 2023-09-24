@@ -48,7 +48,7 @@ If this didn't work for you, [try another exploit](get-started) or try [Wilbrand
 
 #### 必備項目
 
-- A PC running Windows, MacOS or Linux
+- 一台運行 Windows、MacOS 或 Linux 的電腦
 - An SD card formatted to FAT32/MS-DOS
 - A Wii on at least version 3.0
 - [Wilbrand](https://static.wiidatabase.de/Wilbrand.zip)

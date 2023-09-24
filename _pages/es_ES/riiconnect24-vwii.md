@@ -16,7 +16,7 @@ Guide to installing [RiiConnect24](https://rc24.xyz) on vWii (Virtual Wii on Wii
 {% capture notice-1 %}
 This guide is for vWii (Wii Mode on Wii U) only.
 
-- Follow [this tutorial](riiconnect24-wii) if you'd like to install RiiConnect24 on a Wii.
+- Follow [this tutorial](riiconnect24) if you'd like to install RiiConnect24 on a Wii.
 - Follow [this tutorial](riiconnect24-dolphin) if you'd like to install RiiConnect24 on Dolphin Emulator.
 {% endcapture %}
 
@@ -102,9 +102,19 @@ If you were unable to patch your nwc24msg.cfg correctly, please join [the RiiCon
 
 ##### Sección IV - Usando RiiConnect24
 
+1. Visit the [vWii Priiloader WC24 UTC Patch Generator](https://garyodernichts.github.io/priiloader-patch-gen/) page.
+1. Enter your Wii U's time offset from UTC time. <br> This is automatically done based on your PC's time, so you may be able to skip this step.
+1. Enter the region of your Wii U and click `Generate`.
+1. A System menu hack will be generated in the text box below.
+1. Insert your SD card or USB drive into your PC.
+1. Open `/apps/priiloader/hacks_hash.ini` in a text editor, and paste the new system menu hack at the bottom of the file.
+1. Save the file, eject your SD card/USB drive from your PC, and put it back into your Wii U.
 1. Launch the `Load Priiloader` application from the Homebrew Channel.
 1. In the Priiloader menu, go to `System Menu Hacks`. ![System menu hacks](/images/Priiloader/system_menu_hacks.png)
-1. Scroll through the list until you see `Always enable WiiConnect24 for vWii` and `Create message via Calendar button`, and press `A` on both to enable them.
+1. Scroll through the list, and press `A` to enable each of these hacks:
+  + `Always Enable WiiConnect24 for vWii`
+  + `Create Message via Calendar button`
+  + `Fix NWC24iSetUniversalTime (UTC.....`
 1. Scroll down to `save settings`, press `A`, then press `B` to go back.
 1. Select `System Menu.`
 1. Return to the Wii U Menu, then go right back to Wii Mode.

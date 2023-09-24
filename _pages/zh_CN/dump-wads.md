@@ -7,7 +7,7 @@ title: "转储 WAD"
 如果您对本教程有任何问题或需要帮助，请加入 [RiiConnect24 Discord 服务器](https://discord.gg/rc24)（推荐）或 [发送电子邮件至 support@riiconnect24.net](mailto:support@riiconnect24.net) 与我们联系。
 {: .notice--info}
 
-本教程将向您解释如何从 Wii 系统内存 中转储 WAD。
+本教程将向您解释如何从 Wii 系统内存中转储 WAD。
 
 #### 需要
 * 一张 SD 卡或 U 盘

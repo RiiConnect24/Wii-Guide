@@ -14,7 +14,7 @@ Want to install RiiTag on your Wii U? See [this guide](riitag-wiiu) on how to co
 
 #### 必備項目
 
-* A computer
+* 一台電腦
 * A text editor
 * A USB Loader
 

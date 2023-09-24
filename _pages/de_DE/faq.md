@@ -17,14 +17,14 @@ Du benötigst eine SD-Karte mit mindestens 128MB, um Exploits auszuführen.
 
 Um Homebrew-Anwendungen zu speichern, empfehlen wir eine SD-Karte mit mindestens 2GB.
 
-### Ich erhalte in Wiimmfi den Fehlercode XXXXXX, wie kann ich ihn beheben?
+### I got error code XXXXXX, how to fix it?
 Um den Grund für den Fehlercode zu erfahren, besuche bitte die [Wiimmfi Error Code-Website](https://wiimmfi.de/error).
 
 ### Welche Einschränkungen gibt es beim Modden der vWii?
 Folgend eine Liste mit Dingen, die möglicherweise deine vWii **BRICKEN** können (mache folgende Dinge nicht!):
 * Installieren von IOS für Wii-Konsolen auf einer vWii.
 * Installieren von Wii-Menü-Designs, die nicht für vWiis bzw. deine Region angefertigt wurden.
-* Installieren von BootMii bzw. Priiloader/Preloader.
+* Installing BootMii.
 * Scheitern der Installation von essentiellen System-/IOS-Titeln (bspw. aufgrund von Stromausfall).
 * Modifikationen am NAND der vWii vornehmen ohne zu wissen, was du tust.
 

@@ -19,7 +19,7 @@ Priiloader 0.10.0 引入了 vWii 支持！ <br> 有一些重要事项需要注�
 - 在安装 Priiloader 后安装主题**会导致您的 vWii 变砖。**
 
 以下是一些增强您的 vWii 体验的方法：
-- 您可以使用 [Priiloader Wii U Forwarder](https://github.com/DacoTaco/priiloader/releases/download/0.10.0/PriiloaderWiiUForwarder.wuhb) 直接从 Wii U 菜单加载 Priiloader。 **这只适用于 Aroma。**
+- [Priiloader Wii U Forwarder](https://github.com/DacoTaco/priiloader/releases/download/0.10.0/PriiloaderWiiUForwarder.zip) to load Priiloader straight from the Wii U Menu. **这只适用于 Aroma。**
 - 您可以使用 [evWii Aroma Plugin](https://github.com/GaryOderNichts/evwii/releases) 来增强 vWii 的一些额外功能。 这些功能在[这里](https://github.com/GaryOderNichts/evwii#features)列出。
 {% endcapture %}
 

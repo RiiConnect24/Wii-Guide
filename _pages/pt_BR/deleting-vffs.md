@@ -15,8 +15,8 @@ RiiConnect24 Clear Tool é um aplicativo homebrew que pode corrigir esses erros 
 - NEWS/FORE000001
 - NEWS/FORE000003
 - NEWS/FORE000005
+- NEWS/FORE000006
 - NEWS/FORE000099
-- NEWS000006
 - Apaga os emails que estão em seu wii, caso estejam cheios (isso pode consertar o erro do Wii Mail)
 
 This tool usually does not help on vWii (especially deleting SYSCONF).

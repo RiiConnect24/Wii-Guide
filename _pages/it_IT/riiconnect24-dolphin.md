@@ -14,7 +14,7 @@ If you need help for anything regarding this tutorial, please directly contact K
 {% capture notice-1 %}
 This guide is for [Dolphin Emulator](https://dolphin-emu.org) only.
 
-- Follow [this tutorial](riiconnect24-wii) if you'd like to install RiiConnect24 on a Wii.
+- Follow [this tutorial](riiconnect24) if you'd like to install RiiConnect24 on a Wii.
 - Follow [this tutorial](riiconnect24-vwii) if you'd like to install RiiConnect24 on vWii (Wii Mode on Wii U).
 {% endcapture %}
 

@@ -17,14 +17,14 @@ title: "FAQ"
 
 要存储自制应用程序，我们建议使用至少 2GB 的 SD 卡。
 
-### 我在 Wiimmfi 中收到错误代码 XXXXXX，如何修复？
+### 我看到错误代码 XXXXXX，如何修复？
 为了检查错误原因，请访问[Wiimmfi错误代码查询页面](https://wiimmfi.de/error)。
 
 ### 破解 vWii 有哪些限制？
 以下是一些可能会导致 vWii **变砖**的事项（不要做这些事情！）：
 * 在 vWii 上安装为 Wii 设计的 cIOS。
 * 安装未正确格式化为 vWii 和/或您所在地区的 Wii 菜单主题。
-* 安装 BootMii 和/或 Priiloader/Preloader。
+* 安装 BootMii。
 * 在安装关键的系统/IOS 标题时出现故障（如停电）。
 * 在不了解如何操作的情况下修改 vWii NAND。
 

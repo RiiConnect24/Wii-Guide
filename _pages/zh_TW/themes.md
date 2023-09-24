@@ -29,7 +29,7 @@ We recommend you [install cIOS](cios) before continuing.
 
 #### 必備項目
 
-* A Wii
+* 一台 Wii
 * 一張 SD 卡或 USB 隨身碟
 * A computer with Windows on it (or using Mono or Wine on Mac/Linux)
 * [MyMenuify Mod](https://oscwii.org/library/app/MyMenuifyMod)
@@ -68,7 +68,7 @@ MAKE SURE YOU READ THE WARNINGS ABOVE BEFORE CONTINUING!
 5. Go to `Options` > `Standard System Menu` > Version of your Wii Menu > Region of your Wii Menu
 6. Go to `File` > `Open`, then browse for where your .mym file is.
 7. Press `Create csm`, then browse for a directory you want to save the theme in. Give it a moment to build the theme.
-8. A dialog box will pop up hopefully saying it built the theme correctly, and it will ask you if you want to save the .mym. Press `No`.
+8. A dialog box will pop up asking you if you want to save the .mym. Press `No`.
 
 ##### Section III - Installing the Theme
 

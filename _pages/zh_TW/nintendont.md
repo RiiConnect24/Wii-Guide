@@ -11,7 +11,7 @@ This is a quick start guide on how to use Nintendont, a popular loader for the W
 
 #### 必備項目
 
-- A Wii
+- 一台 Wii
 - 一張 SD 卡或 USB 隨身碟
 - [Nintendont](https://oscwii.org/library/app/Nintendont)
 

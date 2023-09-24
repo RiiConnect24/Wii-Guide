@@ -13,7 +13,7 @@ This is a quick start guide on how to use WiiFlow, a USB loader for the Wii that
 
 #### 必備項目
 
-- A Wii
+- 一台 Wii
 - A USB drive and/or SD card
 - [WiiFlow Lite](https://oscwii.org/library/app/wiiflow)
 

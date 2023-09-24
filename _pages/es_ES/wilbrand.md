@@ -30,12 +30,12 @@ SD cards larger than 2GB will not work on Wii menu versions before 4.0.
 1.  On your Wii, go to `Wii Settings`, and make note of the version at the top right. Proceed to `Internet` -> `Console Information` and also make note of your MAC address.
 1.  Visit [wilbrand.donut.eu.org](https://wilbrand.donut.eu.org/), input your Wii MAC, version, region, ensure `Bundle the HackMii Installer for me!` is checked, and cut either wire. ![Wilbrand Web](/images/wilbrand/web.png)
 1.  Click on "Download your .zip".
-1.  Extract the contents of the downloaded ZIP to the root of your SD card.
-1.  Take out your SD card and insert it in your Wii.
-    - The SD card must be inserted in the SD card slot located in the front of the Wii. Using a USB adapter plugged into the Wii's USB port will not work.
-1.  On your Wii, return to the Wii Menu and then open the Wii Message Board.
+1.  Extrae el contenido del archivo ZIP recién descargado a la raíz de la tarjeta SD.
+1.  Expulsa la tarjeta SD e insértala en tu Wii.
+    - La tarjeta SD debe insertarse en la ranura para tarjetas SD ubicada en la parte frontal de la consola. No es posible usar un adaptador USB conectado a alguno de los puertos USB de la consola.
+1.  En tu consola, ingresa al tablón de Wii.
 1.  Load the green letter with the Bob-omb icon.
-    - Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
+    - Asegúrate de que la fecha en tu Wii sea correcta, pues de lo contrario podrías ser incapaz de encontrar la carta.
     - The mail may have appeared on the previous or next day.
     - If you don't see the green letter, check if any errors appear in the SD card sections in `Data Management`. If any do, there may be an issue with the SD card format or the Wii's SD card reader. ![Wilbrand in its natural habitat](/images/wilbrand/msgboard.png)
 
@@ -76,11 +76,11 @@ SD cards larger than 2GB will not work on Wii menu versions before 4.0.
 1.  Extract the HackMii Installer v1.2 to a folder on your PC.
     - You may also simply open the zip file in your archive manager.
 1.  Locate the `boot.elf` file, and put it on the root of your SD card.
-1.  Take out your SD card and insert it in your Wii.
-    - The SD card must be inserted in the SD card slot located in the front of the Wii. Using a USB adapter plugged into the Wii's USB port will not work.
-1.  On your Wii, return to the Wii Menu and then open the Wii Message Board.
+1.  Expulsa la tarjeta SD e insértala en tu Wii.
+    - La tarjeta SD debe insertarse en la ranura para tarjetas SD ubicada en la parte frontal de la consola. No es posible usar un adaptador USB conectado a alguno de los puertos USB de la consola.
+1.  En tu consola, ingresa al tablón de Wii.
 1.  Load the green letter with the Bob-omb icon.
-    - Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
+    - Asegúrate de que la fecha en tu Wii sea correcta, pues de lo contrario podrías ser incapaz de encontrar la carta.
     - The mail may have appeared on the previous or next day.
     - If you don't see the green letter, check if any errors appear in the SD card sections in `Data Management`. If any do, there may be an issue with the SD card format or the Wii's SD card reader. ![Wilbrand in its natural habitat](/images/wilbrand/msgboard.png)
 

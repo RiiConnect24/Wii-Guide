@@ -35,7 +35,7 @@ If you are not copying games using Wii Backup Manager, Witgui, or Wii Backup Fus
 To play games, we recommend using an external hard drive for your Wii. Flash drives are not recommended, and may vary in behavior even between the same product.
 {: .notice--info}
 
-Make sure your USB drive is formatted as FAT32. Do not format it as other types such as exFAT or extFS. <br> You may format it as NTFS, but it won't work with a majority of apps (eg. The Homebrew Channel, Nintendont)
+Asegúrate de que tu unidad USB esté formateada como FAT32. Do not format it as other types such as exFAT or extFS. <br> You may format it as NTFS, but it won't work with a majority of apps (eg. The Homebrew Channel, Nintendont)
 {: .notice--info}
 
 #### Instrucciones

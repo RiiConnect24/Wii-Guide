@@ -2,34 +2,34 @@
 title: "LetterBomb"
 ---
 
-Si necesitas ayuda para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado) o [envíanos un correo electrónico a support@riiconnect24.net](mailto:support@riiconnect24.net).
+Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado), o envíanos un [correo electrónico](mailto:support@riiconnect24.net). Soporte disponible solo en inglés.
 {: .notice--info}
 
-![LetterBomb](/images/letterbomb.png)
+![Carta de LetterBomb que activa el exploit](/images/letterbomb.png)
 
-LetterBomb es un exploit para el Wii que se activa mediante el tablón de Wii.
+LetterBomb es un exploit para la Wii que se activa mediante el tablón de Wii.
 
 #### Requisitos
-- An SD card formatted to FAT32/MS-DOS
+- Una tarjeta SD formateada como FAT32
 - Una Wii con la versión del sistema 4.3
 
 #### Instrucciones
 
-1. En tu Wii, ve a `Configuración de Wii` -> `Internet` -> `Información de la consola` y anota la dirección MAC que ves en pantalla.
-1. Visit [please.hackmii.com](https://please.hackmii.com/), input your Wii MAC and region, ensure `Bundle the HackMii Installer for me!` is checked, and cut either wire.
+1. En tu consola, ve a `Opciones de Wii` > `Configuración de Wii` > `Internet` > `Datos de la consola Wii`, y apunta la dirección MAC Wi-Fi.
+1. Visita [esta página](https://please.hackmii.com/) e ingresa la dirección MAC y región de tu consola, luego asegúrate de que la opción `Bundle the HackMii Installer for me!` esté marcada. Finalmente, haz clic en `Cut the red wire` o `Cut the blue wire`.
 
-![HackMii Screen](/images/Wii/LetterBomb-PC.png)
-1. Extract the contents of the downloaded ZIP to the root of your SD card.
-1. Take out your SD card and insert it in your Wii.
-   - The SD card must be inserted in the SD card slot located in the front of the Wii. Using a USB adapter plugged into the Wii's USB port will not work.
-1. On your Wii, return to the Wii Menu and then open the Wii Message Board.
-1. Load the red letter with a bomb icon.
-   - Ensure the date on your Wii is correct, otherwise you might be unable to find the letter.
-   - In various scenarios, you may need to look at the previous or next day to find it.
-   - If you don't see the red letter, check if any errors appear in the SD card sections in `Data Management`. If any do, there may be an issue with the SD card format or the Wii’s SD card reader.
-   - If your Wii freezes after clicking on the letter, you probably chose the wrong region when downloading the exploit. Redo Step 2 and select the correct region.
+![Página de HackMii](/images/Wii/LetterBomb-PC.png)
+1. Extrae el contenido del archivo ZIP recién descargado a la raíz de la tarjeta SD.
+1. Expulsa la tarjeta SD e insértala en tu Wii.
+   - La tarjeta SD debe insertarse en la ranura para tarjetas SD ubicada en la parte frontal de la consola. No es posible usar un adaptador USB conectado a alguno de los puertos USB de la consola.
+1. En tu consola, ingresa al tablón de Wii.
+1. Selecciona el sobre rojo con el icono de una bomba.
+   - Asegúrate de que la fecha en tu Wii sea correcta, pues de lo contrario podrías ser incapaz de encontrar la carta.
+   - En algunos casos, es posible que la carta se ubique en el día anterior o posterior al actual.
+   - Si no consigues ver la carta roja, verifica que no haya errores al acceder a la tarjeta SD desde la opción `Gestión de datos` en `Opciones de Wii`. En caso de recibir un error, es posible que haya un problema con el formato de la tarjeta SD o el lector de tarjetas SD de la consola.
+   - Si el sistema se congela después de seleccionar la carta, es probable que hayas elegido la región incorrecta al momento de descargar los archivos del exploit. Repite el paso 2 al comienzo de la guía y selecciona la región correcta, luego continúa con el resto de pasos.
 
-![LetterBomb Wii Menu](/images/Wii/LetterBomb-Wii.png)
+![Carta de LetterBomb en el tablón de Wii](/images/Wii/LetterBomb-Wii.png)
 
 [Continuar a la instalación del Canal Homebrew y BootMii](hbc)
 {: .notice--info}

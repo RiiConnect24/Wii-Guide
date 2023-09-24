@@ -80,7 +80,7 @@ Gracias a Fullmetal5 y su exploit str2hax, el cual Leseratte logro adaptar para 
 2. Ve a `Opciones de Wii` > `Configuración de Wii` > `Internet` > `Ajustes de conexión` > Elige tu conexión > `Modificar`. Después elige `No` en `Obtener DNS automáticamente`, y selecciona `Configuración avanzada`. Finalmente, ingresa `95.217.77.151` en `DNS primario`, y guarda los cambios.
 3. Vuelve a los ajustes de internet, y elige `Documentos legales/Contacto`.
 4. Confirma que quieres usar los servicios del Canal Tienda Wii y WiiConnect24, y después elige `Aceptar`.
-5. Deberías ver la página del parche de Wiimmfi. Si en lugar de eso se muestra el Contrato de Uso de los Servicios de Red de Wii, es posible que tu router no sea compatible con este método.
+5. Deberías ver la página del parche de Wiimmfi. Si en lugar de eso se muestra el Contrato de Uso de los Servicios de Red de Wii, es probable que tu ISP no sea compatible con este método.
 6. Espera alrededor de 90 segundos a que se cargue el parche.
 7. El juego debería cargarse con el parche de Wiimmfi incluido.
 

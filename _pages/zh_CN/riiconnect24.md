@@ -14,7 +14,7 @@ title: "RiiConnect24"
 {% capture notice-1 %}
 本指南仅适用于原版Wii。
 
-- 如果您想在 vWii（Wii U 上的 Wii 模式）上安装 RiiConnect24，请遵循[此教程](riiconnect24-vwii)。
+- 如果您想在 vWii（Wii U 的 Wii 模式）上安装 RiiConnect24，请按照[此教程](riiconnect24-vwii)进行操作。
 - 如果您想在 Dolphin 模拟器上安装 RiiConnect24，请按照[此教程](riiconnect24-dolphin)进行操作。
   {% endcapture %}
 

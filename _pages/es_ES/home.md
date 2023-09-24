@@ -22,15 +22,16 @@ Ejecutar homebrew en la Nintendo Wii puede hacerse de forma gratuita, aprovechan
 
 Hay muchas cosas que puedes hacer con homebrew. A continuación se enlistan algunos de los usos más populares:
 
-- Patch game disc contents (allowing you to load game modifications) using [Riivolution](riivolution).
+- Parchear contenido de juegos físicos para cargar modificaciones personalizadas, usando [Riivolution](riivolution).
 - Cambiar el aspecto del menú de Wii, usando [MyMenuify](themes).
 - Cargar copias de juegos físicos desde una tarjeta SD o unidad USB, con [USB Loader GX](usbloadergx) o [WiiFlow](wiiflow).
 - Crear copias digitales de juegos físicos y canales instalados, con [CleanRip](/dump-games) y [YABDM](dump-wads), respectivamente.
-- Respaldar y restaurar tus partidas guardadas, con [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/).
+- Respaldar y restaurar tus partidas guardadas de Wii, con [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/).
+- Respaldar y restaurar tus partidas guardadas de GameCube, con [GCMM](gcsaves).
 - Descargar aplicaciones homebrew directamente desde tu consola, con [Homebrew Browser](hbb).
-- Volver a utilizar el servicio [WiiConnect24](riiconnect24), y la [CWF de Nintendo](wiimmfi).
-- Respaldar y restaurar los contenidos de la memoria de la consola (NAND), usando [BootMii](bootmii).
-- Proteger tu consola de un brick, con [Priiloader](priiloader) y BootMii.
+- Volver a utilizar el servicio WiiConnect24,(mediante [RiiConnect24](riiconnect24) o [WiiLink](wiilink)), así como la CWF de Nintendo (a través de [Wiimmfi](wiimmfi)).
+- [Respaldar](bootmii) y [restaurar](bootmiirecover) los contenidos de la memoria de la consola (NAND), usando [BootMii](hbc).
+- Proteger tu consola contra varios tipos de brick, con [Priiloader](priiloader) y [BootMii](bootmii).
 - Convertir tu Wii en un reproductor multimedia, con [WiiMC](https://oscwii.org/library/app/wiimc-ss).
 
 
