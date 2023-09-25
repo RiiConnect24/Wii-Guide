@@ -26,17 +26,17 @@ DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick th
 ### What you need
 
 * A computer with either Windows 10 or newer or any Unix-based system
-* [Dolphin](https://dolphin-emu.org/download/)
+* a Beta or Development version of [Dolphin Emulator](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### Instructions
 
 ##### Section I - Installing Dolphin
 
-If you have Dolphin already installed, skip to Section II
+If you have Dolphin already installed, skip to [Section II](#section-ii---installing-riiconnect24).
 {: .notice--info}
 
-1. Download the latest Dolphin beta version, but **not a stable version as these are very outdated!**
+1. Download the latest Dolphin beta version.
 2. Extract the .7z file using a program like 7-Zip or WinRAR.
 3. Start Dolphin.
 4. In Dolphin, go to `Tools` -> `Perform Online System Update` -> Choose your region.
@@ -69,13 +69,23 @@ If you use a Windows version before Windows 10, you unfortunately cannot use Wii
 ![It's done!](/images/RC24_Patcher/10.JPG)
 ![Files copied](/images/RC24_Patcher/11.PNG)
 12. In Dolphin, go to `Tools` and then `Install WAD`. Install all the WAD files one by one.
-13. Unzip [AnyGlobe Changer v1.0](https://github.com/fishguy6564/AnyGlobe-Changer/releases/download/1.0/AnyGlobe.Changer.zip) and run the boot.dol file. Select your region and save. This will allow the Everybody Votes Channel to work.
+
+##### Section III - Setting your Region
+
+Setting your region is required to use the Everybody Votes Channel.
+
+If you have imported your Wii's NAND backup, the default Region Select will probably work.
+{: .notice--info}
+
+1. Download and unzip [AnyGlobe Changer v1.0](https://github.com/fishguy6564/AnyGlobe-Changer/releases/download/1.0/AnyGlobe.Changer.zip).
+1. Drag the `boot.dol` file on to the Dolphin window.
+1. Wait a few seconds, then press 1 to continue.
+![AnyGlobe Changer Warning Screen](/images/Dolphin_RC24/anyglobe-warning.png)
+1. Select your region and sub-region, then select `Save`, then `Return`.
+![AnyGlobe Changer Main Menu](/images/Dolphin_RC24/anyglobe-save.png)
+
+When you go back to the Everybody Votes Channel, the country & region names will appear blank. This is normal.
+{: .notice--info}
 
 Unfortunately, Wii Mail doesn't work in Dolphin yet.
 {: .notice--info}
-
-You will have to launch the Everybody Votes Channel 4 times at most in order for it to start working.
-{: .notice--warning}
-
-[If you're getting any other errors with the Forecast Channel or the News Channel, such as an error code starting with FORE or NEWS or a discontinued message, you can try to delete your VFFs with RC24-Clear-Tool](deleting-vffs).
-{: .notice--warning}
