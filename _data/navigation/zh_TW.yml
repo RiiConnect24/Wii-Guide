@@ -15,9 +15,6 @@ main:
 top:
   - 
     title: 此網站透過 Cookies 來顯示您手冊的操作進度以及提升此網站的使用經驗。
-bottom:
-  - 
-    title: 若需英語支援，請於<a href="https://discord.gg/b4Y7jfD">Discord 上的 RiiConnect24 伺服器</a>發問。
 footer:
   - 
     title: 原始碼
