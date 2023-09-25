@@ -32,7 +32,7 @@ DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick th
 - Una consola Wii con conexión a internet
 - Una computadora
 - [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
-- [YAWM ModMii Edition](https://oscwii.org/library/app/yawmme)
+- [Instalar WADs con YAWM ModMii Edition](https://oscwii.org/library/app/yawmme)
 
 #### Instrucciones
 
