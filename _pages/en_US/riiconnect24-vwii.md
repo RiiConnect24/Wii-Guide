@@ -42,6 +42,7 @@ We are **NOT** responsible if you brick, or damage your console in any way whats
 * [Priiloader](priiloader) installed on your vWii
 * [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 * [RiiConnect24 Mail Patcher](https://oscwii.org/library/app/Mail-Patcher)
+* [YAWM ModMii Edition](https://oscwii.org/library/app/yawmme)
 
 {% capture notice-2 %}
 After following the vWii modding guide linked above, you should have:
@@ -65,7 +66,7 @@ If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord ser
 3. On Windows run `RiiConnect24Patcher.bat`. On Unix systems, open Terminal and type `bash`, then drag `RiiConnect24Patcher.sh` into the terminal then press enter. It should look like this: `bash RiiConnect24Patcher.sh`.
 4. Press 1 to choose "`Start`" and confirm your selection by pressing `ENTER`. (NOTE: These screenshots are from the Windows version of the patcher.)
 ![RiiConnect24 Patcher Main Screen](/images/RC24_Patcher/1.JPG)
-5. Select the device you're patching for.
+5. Select "`2. Wii U (vWii, Wii Mode)`".
 ![Select your device](/images/RC24_Patcher/2.JPG)
 6. For this guide, choose "`Install RiiConnect24 on your Wii`"
 ![Install RiiConnect24](/images/RC24_Patcher/3.JPG)
@@ -90,13 +91,13 @@ If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord ser
 
 You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
+1. Extract the YAWM ModMii Edition `.zip` file, and copy the `apps` folder to your SD card or USB drive.
 1. Put your SD card or USB drive in your Wii U.
-2. Launch the Homebrew Channel on your Wii U.
-3. Launch Wii Mod Lite.
-4. Using the +Control Pad on your Wii Remote, navigate to `WAD Manager`, and then navigate to the `wad` folder.
-5. Highlight all the WADs in the folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
-6. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press the - Button on the highlighted WAD to uninstall it, then try installing it again.
-7. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+1. Launch the Homebrew Channel on your Wii U.
+1. Launch YAWM ModMii Edition.
+1. Select the device you have put the RiiConnect24 files on.
+1. Highlight all the WADs in the `wad` folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
+1. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
 ##### Section III - Patching nwc24msg.cfg
 

@@ -51,6 +51,7 @@ sitemap: false
 - [Types of Bricks](bricks)
 - [Wii Mod Lite](wiimodlite)
 - [Wilbrand](wilbrand)
+- [YAWM ModMii Edition](yawmme)
 
 **Homebrew**
 
