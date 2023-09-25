@@ -132,7 +132,7 @@ Priiloader 允许您自动启动到 Homebrew Channel、单个自制应用程序�
 
 1. 打开 Homebrew Channel，然后启动 Load Priiloader 应用。
 1. 向下滚动到 `Load/Install file`，然后按 A。 ![Load/Install File](/images/Priiloader/menu_install_file.png)
-1. 滚动菜单，直到突出显示您所需的自制应用，然后按 A 安装。 ![安装自制应用](/images/Priiloader/installing_file.png) ![可以安装自制应用](/images/Priiloader/installing_file_ok.png)
+1. 滚动菜单，直到突出显示您所需的自制应用，然后按 A 安装。 ![安装自制应用](/images/Priiloader/installing_file.png) ![安装自制应用成功](/images/Priiloader/installing_file_ok.png)
 1. 按 B 回到主菜单。
 1. 向下滚动到 `Settings`，然后按 A。 ![设置](/images/Priiloader/menu_settings.png)
 1. 按右键以循环浏览 Autoboot 选项，直到选择 `Installed file`。 ![Autoboot: Installed File](/images/Priiloader/autoboot_installed_file.png)
