@@ -32,6 +32,7 @@ DO NOT INSTALL RIICONNECT24 ON A WII MINI! It will not work and it will brick th
 - A Wii with an Internet connection
 - A computer
 - [RiiConnect24 Patcher (Windows, Mac and Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+- [YAWM ModMii Edition](https://oscwii.org/library/app/yawmme)
 
 #### Instructions
 
@@ -70,13 +71,13 @@ If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord ser
 
 You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
+1. Extract the YAWM ModMii Edition `.zip` file, and copy the `apps` folder to your SD card or USB drive.
 1. Put your SD card or USB drive in your Wii.
-2. Launch the Homebrew Channel on your Wii.
-3. Launch YAWM ModMii Edition.
-4. Select the device you have put the RiiConnect24 files on.
-5. Highlight all the WADs in the `wad` folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
-6. If you get an error saying a title with a higher version is already installed (error -1035), go back to the WAD selection menu and press the - Button on the highlighted WAD to uninstall it, then try installing it again.
-7. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+1. Launch the Homebrew Channel on your Wii.
+1. Launch YAWM ModMii Edition.
+1. Select the device you have put the RiiConnect24 files on.
+1. Highlight all the WADs in the `wad` folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
+1. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
 ##### Section III - Patching nwc24msg.cfg
 
