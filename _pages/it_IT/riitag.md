@@ -104,7 +104,7 @@ We have a RiiTag Channel you can install on your Wii. When it is launched, it wi
 3. A dialog will pop up asking you if you want to authorize `RiiConnect24 Login` with Discord. Click `Authorize`.
 4. Click your profile at the top right of the screen, then `Profile`. Click `RiiTag Channel` to download the WAD.
 5. Put the WAD on your SD Card or USB device.
-6. Install the WAD with your favorite WAD manager ([Wii Mod Lite](wiimodlite) is recommended).
+6. Install the WAD with your favorite WAD manager ([YAWM ModMii Edition](yawmme) is recommended).
 7. Make sure the Internet Channel is installed.
 8. The RiiTag Channel should now be available to use on your Wii Menu.
 
