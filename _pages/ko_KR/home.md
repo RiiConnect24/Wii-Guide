@@ -29,7 +29,7 @@ Wii 소프트웨어의 버그를 이용하면 무료로 닌텐도 Wii에서 홈�
 - Back up and restore your Wii save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
 - Back up and restore your gamecube save files using [GCMM](gcsaves)
 - Download new homebrew apps with the [Homebrew Browser](hbb)
-- Restore discontinued online services, such as [Nintendo WFC services](wiimmfi) & WiiConnect24 services by using [RiiConnect24](riiconnect24) or Japanese exclusive services by [WiiLink](wiilink).
+- Restore discontinued online services, such as [Nintendo WFC services](wiimmfi) & WiiConnect24 services by using [Riiconnect24](riiconnect24) or [WiiLink](wiilink).
 - [Backup](bootmii) and [restore](bootmiirecover) copies of your Wii system memory (NAND) using [BootMii](hbc).
 - Protect your Wii from bricks using [Priiloader](priiloader) and [BootMii](bootmii).
 - Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
