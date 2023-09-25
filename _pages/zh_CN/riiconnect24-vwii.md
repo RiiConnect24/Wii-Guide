@@ -68,7 +68,7 @@ title: RiiConnect24 vWii 指南
 2. 如果您使用的是 Windows 系统，请下载 `RiiConnect24Patcher.bat`，如果您使用的是 Unix 系统，请下载 `RiiConnect24Patcher.sh`
 3. 在 Windows 上运行 `RiiConnect24Patcher.bat`。 在 Unix 系统上，打开终端并输入 `bash`，然后将 `RiiConnect24Patcher.sh` 拖到终端中，然后按回车。 它应该是这样的：`bash RiiConnect24Patcher.sh`。
 4. 按 1 选择“`Start`”，然后按 `ENTER` 确认您的选择。 （注意：这些截图来自 Windows 版本的 patcher（修补程序）。） ![RiiConnect24 Patcher 主屏幕](/images/RC24_Patcher/1.JPG)
-5. Select "`2. Wii U (vWii, Wii Mode)`". ![选择您的设备](/images/RC24_Patcher/2.JPG)
+5. 选择 "`2. Wii U (vWii, Wii Mode)`". ![选择您的设备](/images/RC24_Patcher/2.JPG)
 6. 根据本指南，选择 "`Install RiiConnect24 on your Wii`" ![安装 RiiConnect24](/images/RC24_Patcher/3.JPG)
 7. 选择“`Express (Recommended)`”。 它将为您提供所需的一切。 ![快速设置](/images/RC24_Patcher/4.JPG)
 8. 选择您的区域。 ![选择您的区域](/images/RC24_Patcher/5.JPG)
@@ -83,12 +83,12 @@ title: RiiConnect24 vWii 指南
 
 现在您将安装使用 RiiConnect24 所需的已修补 IOS 和频道 WAD。
 
-1. Extract the YAWM ModMii Edition `.zip` file, and copy the `apps` folder to your SD card or USB drive.
-1. Put your SD card or USB drive in your Wii U.
-1. Launch the Homebrew Channel on your Wii U.
-1. Launch YAWM ModMii Edition.
-1. Select the device you have put the RiiConnect24 files on.
-1. Highlight all the WADs in the `wad` folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
+1. 解压 YAWM ModMii Edition `.zip` 文件，并将 `apps` 文件夹复制到 SD 卡或 U 盘中。
+1. 将 SD 卡或 U 盘插入 Wii U。
+1. 启动 Wii U 上的 Homebrew Channel。
+1. 启动 YAWM ModMii Edition。
+1. 选择您放置 RiiConnect24 文件的设备。
+1. 按 + 选择 `wad` 文件夹中的所有 WAD。 选择所有 WAD 后，按两次 A 来安装 WAD。
 1. 安装成功后，按HOME按钮返回Homebrew Channel。
 
 ##### 第三部分 - 修补 nwc24msg.cfg
