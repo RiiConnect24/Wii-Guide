@@ -32,6 +32,7 @@ NÃO INSTALE RIICONNECT24 EM UM WII MINI! Não irá funcionar e causará um bric
 - Um Wii conectado à internet
 - Um computador
 - [RiiConnect24 Patcher (Windows, Mac e Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+- [YAWM ModMii Edition](https://oscwii.org/library/app/yawmme)
 
 #### Instruções
 
@@ -59,13 +60,13 @@ Se você não conseguir corrigir a utilizar o RiiConnect24 Patcher, junte-se [ao
 
 Agora você irá instalar o IOS com patch e WADs de Channels que são necessários para usar o RiiConnect24.
 
-1. Coloque seu cartão SD ou armazenamento USB no seu Wii.
-2. Inicie o Homebrew Channel no Wii.
-3. Inicie o Wii Mod Lite.
-4. Usando o +Control Pad no seu Wii Remote, navegue para `WAD Manager`, depois navegue até a pasta `wad`.
-5. Destaque todas as WADs na pasta pressionando o botão + para selecioná-las. Quando todas as WADs forem selecionadas, pressione A duas vezes para instalar as WADs.
-6. Se você receber um erro dizendo que um título com uma versão superior já está instalado (error -1035) vá para o menu de seleção WAD e pressione o botão - do WAD destacado para desinstalá-lo, e então tente instalá-lo novamente.
-7. Depois que eles forem instalados com sucesso, pressione o botão HOME para sair para o Homebrew Channel.
+1. Extract the YAWM ModMii Edition `.zip` file, and copy the `apps` folder to your SD card or USB drive.
+1. Put your SD card or USB drive in your Wii.
+1. Inicie o Homebrew Channel no Wii.
+1. Launch YAWM ModMii Edition.
+1. Select the device you have put the RiiConnect24 files on.
+1. Highlight all the WADs in the `wad` folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
+1. Depois que eles forem instalados com sucesso, pressione o botão HOME para sair para o Homebrew Channel.
 
 ##### Seção III - Patching nwc24msg.cfg
 
@@ -107,7 +108,7 @@ Agora você irá definir seu DNS para nossos servidores. Isso é opcional, mas �
 É comum obter o erro FORE000006 no Forecast Channel após a instalação do RiiConnect24. Se você obtê-lo, certifique-se de que seu Wii esteja com a data e hora corretas, depois não espere mais do que uma hora e talvez ele comece a funcionar. [[Se você ainda receber erro FORE000006 ou se você receber NEWS000006, você precisará excluir seu SYSCONF com a RC24-Clear-Tool]](deleting-vffs).
 {: .notice--warning}
 
-Se você receber o erro 107245, então você não instalou a IOS com patch. Certifique-se de instalar o IOS31 e IOS80 com o Wii Mod Lite, juntamente com quaisquer outro WADs com patch.
+Se você receber o erro 107245, então você não instalou a IOS com patch. Make sure you install IOS31 and IOS80 with YAWM ModMii Edition, along with any other patched WADs.
 {: .notice--warning}
 
 Se você receber o erro 220602 quando carregar os User Agreements, significa que seu Wii ainda está configurado para utilizar o servidor de DNS antigo, que foi desligado em `1º de Junho, 2023`. [Saiba mais aqui.](riiconnect24-dns-update)
