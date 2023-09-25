@@ -64,18 +64,18 @@ title: "适用于 Dolphin 的 RiiConnect24"
 
 ##### 第三部分 - 设置区域
 
-Setting your region is required to use the Everybody Votes Channel.
+要使用 Everybody Votes Channel，必须设置您的区域。
 
-If you have imported your Wii's NAND backup, the default Region Select will probably work.
+如果您导入了 Wii 的 NAND 备份，默认的区域选择可能有效。
 {: .notice--info}
 
-1. Download and unzip [AnyGlobe Changer v1.0](https://github.com/fishguy6564/AnyGlobe-Changer/releases/download/1.0/AnyGlobe.Changer.zip).
-1. Drag the `boot.dol` file on to the Dolphin window.
-1. Wait a few seconds, then press 1 to continue. ![AnyGlobe Changer Warning Screen](/images/Dolphin_RC24/anyglobe-warning.png)
-1. Select your region and sub-region, then select `Save`, then `Return`. ![AnyGlobe Changer Main Menu](/images/Dolphin_RC24/anyglobe-save.png)
+1. 下载并解压 [AnyGlobe Changer v1.0](https://github.com/fishguy6564/AnyGlobe-Changer/releases/download/1.0/AnyGlobe.Changer.zip)。
+1. 将 `boot.dol` 文件拖到 Dolphin 窗口中。
+1. 等待几秒钟，然后按 1 继续。 ![AnyGlobe Changer 警告屏幕](/images/Dolphin_RC24/anyglobe-warning.png)
+1. 选择您的区域和子区域，然后选择 `Save`，再选择 `Return`。 ![AnyGlobe Changer 主菜单](/images/Dolphin_RC24/anyglobe-save.png)
 
-When you go back to the Everybody Votes Channel, the country & region names will appear blank. This is normal.
+当您回到 Everybody Votes Channel 时，国家 & 地区名称将显示为空白。 这是正常现象。
 {: .notice--info}
 
-Unfortunately, Wii Mail doesn't work in Dolphin yet.
+很遗憾，Dolphin 尚不支持 Wii Mail。
 {: .notice--info}
