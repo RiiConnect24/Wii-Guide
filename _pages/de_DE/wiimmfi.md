@@ -142,7 +142,7 @@ You can patch WiiWare games in order to play them on Wiimmfi.
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows und Unix)  
   **oder**
 - [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases) (plattformübergreifend)
-- [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
+- [YAWM ModMii Edition](https://oscwii.org/library/app/yawmme)
 
 [If you want to see how to use the WiiWare Patcher, click here!](wiiwarepatcher)
 {: .notice--info}
@@ -151,7 +151,7 @@ Steps:
 
 1. Extract the .zip of the latest version of WiiWare Patcher, and put your WAD in it.
 2. Run the patch script for your OS: usually it will end in `.bat` for Windows and `.sh` for Mac/Linux. If you're using the RiiConnect24 Patcher, select your device (Wii, vWii, or Dolphin) and choose the WiiWare patcher.
-3. If it completed successfully, install the WAD that was made in `wiiware-wads` with Wii Mod Lite.
+3. If it completed successfully, install the WAD that was made in `wiiware-wads` with YAWM ModMii Edition.
 
 ## Andere Sachen
 
