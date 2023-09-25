@@ -15,9 +15,6 @@ main:
 top:
   - 
     title: Este site utiliza cookies para mostrar o progresso do guia na barra ao lado.
-bottom:
-  - 
-    title: Para suporte em Inglês, peça ajuda em <a href="https://discord.gg/b4Y7jfD">RiiConnect24 no Discord</a>.
 footer:
   - 
     title: Fonte
