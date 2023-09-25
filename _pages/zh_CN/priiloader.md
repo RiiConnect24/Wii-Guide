@@ -121,7 +121,7 @@ Priiloader 允许您自动启动到 Homebrew Channel、单个自制应用程序�
 如果您要自动启动 USB loader GX，请先执行以下操作：
   * 下载 USB Loader GX 转发频道 WAD ([Wii](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), [vWii](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad))。
   * 下载 [UNEO Channel Booter for Priiloader](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders%20dols/UNEO%20Channel%20Booter%20for%20Priiloader.zip/download)。
-  * 使用类似 [Wii Mod Lite](wiimodlite) 的 WAD 管理器安装转发频道 WAD。
+  * Install the forwarder WAD with a WAD manager like [YAWM ModMii Edition](yawmme).
   * 将 `UNEO Channel Booter for Priiloader.zip` 文件解压到任意位置。
   * 将 `uneoboot.dol` 复制到您 SD 卡的根目录。
 
