@@ -26,17 +26,17 @@ title: "适用于 Dolphin 的 RiiConnect24"
 ### 你需要的是
 
 * 一台运行 Windows 10 及更新版本或任何基于 Unix 系统的电脑
-* a Beta or Development version of [Dolphin Emulator](https://dolphin-emu.org/download/)
+* 测试或开发版本的 [Dolphin Emulator](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### 步骤
 
 ##### 第一部分 - 安装 Dolphin
 
-If you have Dolphin already installed, skip to [Section II](#section-ii---installing-riiconnect24).
+如果您已安装 Dolphin，请跳至[第二部分](#section-ii---installing-riiconnect24)。
 {: .notice--info}
 
-1. Download the latest Dolphin beta version.
+1. 下载最新的 Dolphin 测试版本。
 2. 使用类似 7-Zip 或 WinRAR 的程序解压 .7z 文件。
 3. 启动 Dolphin。
 4. 在 Dolphin 中，点击 `工具` -> `执行在线系统更新` -> 选择您的区域。 ![执行在线系统更新](/images/Dolphin_RC24/1.jpg)
@@ -62,7 +62,7 @@ If you have Dolphin already installed, skip to [Section II](#section-ii---instal
 11. 完成后，如果您能花一分钟时间向我们发送匿名反馈，我们将不胜感激。  如果您不想发送反馈，关闭 patcher（修补程序）。 所有文件应该已经位于您的 SD 卡上。 ![已完成！](/images/RC24_Patcher/10.JPG) ![已复制文件](/images/RC24_Patcher/11.PNG)
 12. 在 Dolphin 中，转到 `工具`，然后选择 `安装 WAD`。 逐个安装所有 WAD 文件。
 
-##### Section III - Setting your Region
+##### 第三部分 - 设置区域
 
 Setting your region is required to use the Everybody Votes Channel.
 
