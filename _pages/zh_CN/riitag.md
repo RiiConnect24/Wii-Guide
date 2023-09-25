@@ -104,7 +104,7 @@ RiiTag 支持 Switch 和 3DS 硬件。 您需要 Discord 账号才能正常工�
 3. 将弹出一个对话框询问您是否要授权 `RiiConnect24 Login` 与 Discord 连接。 点击 `Authorize（授权）`。
 4. 请点击屏幕右上角的个人资料，然后点击 `Profile`。 点击 `RiiTag Channel` 下载 WAD。
 5. 将 WAD 放置在您的 SD 卡或 U 盘上。
-6. 使用您喜欢的 WAD 管理器（推荐使用 [Wii Mod Lite](wiimodlite)）安装 WAD。
+6. Install the WAD with your favorite WAD manager ([YAWM ModMii Edition](yawmme) is recommended).
 7. 请确保已安装了 Internet Channel。
 8. 现在您可以在 Wii 菜单上使用 RiiTag Channel 了。
 
