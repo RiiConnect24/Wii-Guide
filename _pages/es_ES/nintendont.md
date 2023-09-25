@@ -17,7 +17,7 @@ This is a quick start guide on how to use Nintendont, a popular loader for the W
 
 We recommend you copy games over with [GameCube Backup Manager](https://github.com/AxionDrak/GameCube-Backup-Manager/releases) if you use Windows.
 
-To play games, we recommend using an external hard drive for your Wii. Flash drives are not recommended, and may vary in behavior even between the same product.
+Si deseas cargar múltiples juegos, te recomendamos adquirir un disco duro externo para tu Wii. No se recomienda usar una memoria USB, ya que su capacidad por lo general es limitada y pueden variar en funcionalidad incluso entre unidades del mismo modelo.
 {: .notice--info}
 
 Asegúrate de que tu unidad USB esté formateada como FAT32. Do not format it as other types such as exFAT or NTFS.
@@ -26,7 +26,7 @@ Asegúrate de que tu unidad USB esté formateada como FAT32. Do not format it as
 
 #### Instrucciones
 
-##### Descargando
+##### Descarga/instalación
 
 1. Download Nintendont and extract it to the root of your SD card or USB drive.
 1. Insert your SD card or USB drive into your Wii, and launch Nintendont from the Homebrew Channel.
