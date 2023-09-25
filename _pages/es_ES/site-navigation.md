@@ -49,8 +49,9 @@ sitemap: false
 - [Volver a lanzar el HackMii Installer](hackmii)
 - [str2hax](str2hax)
 - [Types of Bricks](bricks)
-- [Wii Mod Lite](wiimodlite)
+- [Instalar WADs con Wii Mod Lite](wiimodlite)
 - [Wilbrand](wilbrand)
+- [YAWM ModMii Edition](yawmme)
 
 **Homebrew**
 
