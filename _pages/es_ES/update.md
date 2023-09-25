@@ -18,7 +18,7 @@ It is much safer to use [ModMii](modmii) (Windows only) to update your Wii to 4.
 * A computer with Windows on it
 * [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest)
 * [Priiloader](priiloader)
-* [YAWM ModMii Edition](https://oscwii.org/library/app/yawmme)
+* [Instalar WADs con YAWM ModMii Edition](https://oscwii.org/library/app/yawmme)
 
 If you don't have a Windows computer, please join [the RiiConnect24 Discord server](https://discord.gg/rc24) (recommended) or [e-mail us at support@riiconnect24.net](mailto:support@riiconnect24.net).
 {: .notice--info}
