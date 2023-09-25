@@ -42,6 +42,7 @@ We are **NOT** responsible if you brick, or damage your console in any way whats
 * [Priiloader](priiloader) installed on your vWii
 * [RiiConnect24 Patcher (Windows, Mac e Linux)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 * [RiiConnect24 Mail Patcher](https://oscwii.org/library/app/Mail-Patcher)
+* [YAWM ModMii Edition](https://oscwii.org/library/app/yawmme)
 
 {% capture notice-2 %}
 After following the vWii modding guide linked above, you should have:
@@ -67,7 +68,7 @@ Se você não conseguir corrigir a utilizar o RiiConnect24 Patcher, junte-se [ao
 2. Baixe `RiiConnect24Patcher.bat` se estiver no Windows e `RiiConnect24Patcher.sh` se estiver em um sistema Unix
 3. No Windows execute `RiiConnect24Patcher.bat`. Em sistemas Unix, abra Terminal e digite `bash`, então arraste `RiiConnect24Patcher.sh` para o terminal e então pressione enter. Deve se parecer com isso `bash RiiConnect24Patcher.sh`.
 4. Pressione 1 para escolher "`Start`" e confirme sua seleção pressionando `ENTER`. (NOTA: Essas capturas de tela são das versões do windows) ![Tela principal do RiiConnect24 Patcher](/images/RC24_Patcher/1.JPG)
-5. Selecione o dispositivo que você vai patchear. ![Selecione seu dispositivo](/images/RC24_Patcher/2.JPG)
+5. Select "`2. Wii U (vWii, Wii Mode)`". ![Selecione seu dispositivo](/images/RC24_Patcher/2.JPG)
 6. Para este guia, escolha "`Install RiiConnect24 on your Wii`" ![Instale RiiConnect24](/images/RC24_Patcher/3.JPG)
 7. Escolha "`Express (Recomemended)`". Ele vai te dar tudo que você precisa. ![Configurações Expressas](/images/RC24_Patcher/4.JPG)
 8. Selecione sua região. ![Selecione sua região](/images/RC24_Patcher/5.JPG)
@@ -82,13 +83,13 @@ Se você não conseguir corrigir a utilizar o RiiConnect24 Patcher, junte-se [ao
 
 Agora você irá instalar o IOS com patch e WADs de Channels que são necessários para usar o RiiConnect24.
 
-1. Coloque seu cartão SD ou um armazenamento USB no seu Wii U.
-2. Abra o Homebrew Channel em seu Wii U.
-3. Inicie o Wii Mod Lite.
-4. Usando o +Control Pad no seu Wii Remote, navegue para `WAD Manager`, depois navegue até a pasta `wad`.
-5. Destaque todas as WADs na pasta pressionando o botão + para selecioná-las. Quando todas as WADs forem selecionadas, pressione A duas vezes para instalar as WADs.
-6. Se você receber um erro dizendo que um título com uma versão superior já está instalado (error -1035) vá para o menu de seleção WAD e pressione o botão - do WAD destacado para desinstalá-lo, e então tente instalá-lo novamente.
-7. Depois que eles forem instalados com sucesso, pressione o botão HOME para sair para o Homebrew Channel.
+1. Extract the YAWM ModMii Edition `.zip` file, and copy the `apps` folder to your SD card or USB drive.
+1. Put your SD card or USB drive in your Wii U.
+1. Launch the Homebrew Channel on your Wii U.
+1. Launch YAWM ModMii Edition.
+1. Select the device you have put the RiiConnect24 files on.
+1. Highlight all the WADs in the `wad` folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
+1. Depois que eles forem instalados com sucesso, pressione o botão HOME para sair para o Homebrew Channel.
 
 ##### Seção III - Patching nwc24msg.cfg
 
