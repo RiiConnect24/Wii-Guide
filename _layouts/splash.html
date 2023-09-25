@@ -17,8 +17,6 @@ layout: default
 
     <section class="page__content" itemprop="text">
 
-      <hr>
-
       {% assign split_path = page.path | split: "/" %}
       {% assign locale = split_path[1] %}
 
@@ -28,7 +26,6 @@ layout: default
         {% else %}
           {% assign domain = site.url | append: site.baseurl %}
         {% endif %}
-        <div class ="notice"><b>{{ link.title }}</b></div>
       {% endfor %}
 
       <hr>
