@@ -30,10 +30,10 @@ Kirby TV Channel 回来了！ <br> 如果您之前安装过，请按照说明进
 1. 请稍等片刻，patcher（补丁程序）将下载文件到您的 SD 卡或 U 盘中。
 1. 完成后，您可以安全地关闭 patcher（补丁程序）。 所有文件都已位于您的 SD 卡上。
 1. 如果它没有自动将所有文件复制到您的 SD 卡或 U 盘上，请将<br>`WiiLink_Patcher_<OS Platform>_v1.X.X` 旁边的 `WAD` 和 `apps` 文件夹复制到 SD 卡或 U 盘的根目录下。
-1. Put your SD card or USB drive in your Wii.
+1. 将 SD 卡或 U 盘插入 Wii。
 1. 启动 Wii 上的 Homebrew Channel。
-1. Launch YAWM ModMii Edition.
-1. Select your SD card or USB drive accordingly.
+1. 启动 YAWM ModMii Edition。
+1. 选择相应的 SD 卡或 U 盘。
 1. 如果您的 Wii 不是日本区域，请在进行其它任何操作之前安装 `WiiLink_SPD (Wii).wad` 或 `WiiLink_SPD (vWii).wad`（取决于主机平台）。 这是必需的，这样我们才能知道您的电子邮件地址以发送文件。
 1. 突出显示所有其它名字中带 `WiiLink` 的 WAD，然后按 + 选择它们。 当选中所有文件后，按两次 A 键来安装这些 WAD。
     - 如果您之前安装过 RiiConnect24 版本的 Forecast Channel 和 Nintendo Channel，安装 WiiLink 的版本将覆盖它们。
