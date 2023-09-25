@@ -30,7 +30,7 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 
 #### Instrucciones
 
-##### Descargando
+##### Descarga/instalación
 
 1. Extract GCMM and put it in the `apps` folder on your SD card or USB drive.
 2. Place the `.gci` file in a folder called `MCBACKUP` on the root of the SD card or USB drive.
@@ -55,7 +55,7 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 
 #### Instrucciones
 
-##### Descargando
+##### Descarga/instalación
 
 1. Extract GCMM and put it in the `apps` folder on your SD card or USB drive.
 2. Place the `.gci` file in a folder called `MCBACKUP` on the root of the SD card or USB drive.
@@ -80,7 +80,7 @@ If you are looking for save game exploits for booting into [Swiss](https://githu
 
 #### Instrucciones
 
-##### Descargando
+##### Descarga/instalación
 
 1. Extract GCMM and put it in the `apps` folder on your SD card or USB drive.
 2. Insert your SD card or USB drive into your Wii and launch GCMM from the Homebrew Channel.
