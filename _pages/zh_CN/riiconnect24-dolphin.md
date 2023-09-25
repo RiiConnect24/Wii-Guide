@@ -26,17 +26,17 @@ title: "适用于 Dolphin 的 RiiConnect24"
 ### 你需要的是
 
 * 一台运行 Windows 10 及更新版本或任何基于 Unix 系统的电脑
-* [Dolphin](https://dolphin-emu.org/download/)
+* a Beta or Development version of [Dolphin Emulator](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### 步骤
 
 ##### 第一部分 - 安装 Dolphin
 
-如果您已安装 Dolphin，请跳至第二部分
+If you have Dolphin already installed, skip to [Section II](#section-ii---installing-riiconnect24).
 {: .notice--info}
 
-1. 请下载最新的 Dolphin 测试版，但**不要下载稳定版，因为它们非常过时！**
+1. Download the latest Dolphin beta version.
 2. 使用类似 7-Zip 或 WinRAR 的程序解压 .7z 文件。
 3. 启动 Dolphin。
 4. 在 Dolphin 中，点击 `工具` -> `执行在线系统更新` -> 选择您的区域。 ![执行在线系统更新](/images/Dolphin_RC24/1.jpg)
@@ -61,13 +61,21 @@ title: "适用于 Dolphin 的 RiiConnect24"
 10. 请耐心等待... ![正在打补丁！](/images/RC24_Patcher/9.JPG)
 11. 完成后，如果您能花一分钟时间向我们发送匿名反馈，我们将不胜感激。  如果您不想发送反馈，关闭 patcher（修补程序）。 所有文件应该已经位于您的 SD 卡上。 ![已完成！](/images/RC24_Patcher/10.JPG) ![已复制文件](/images/RC24_Patcher/11.PNG)
 12. 在 Dolphin 中，转到 `工具`，然后选择 `安装 WAD`。 逐个安装所有 WAD 文件。
-13. 解压 [AnyGlobe Changer v1.0](https://github.com/fishguy6564/AnyGlobe-Changer/releases/download/1.0/AnyGlobe.Changer.zip) 并运行 boot.dol 文件。 选择您的地区并保存。 这将使 Everybody Votes Channel 正常工作。
 
-很遗憾，Dolphin 尚不支持 Wii Mail。
+##### Section III - Setting your Region
+
+Setting your region is required to use the Everybody Votes Channel.
+
+If you have imported your Wii's NAND backup, the default Region Select will probably work.
 {: .notice--info}
 
-您最多需要启动 Everybody Votes Channel 4 次以使其开始正常工作。
-{: .notice--warning}
+1. Download and unzip [AnyGlobe Changer v1.0](https://github.com/fishguy6564/AnyGlobe-Changer/releases/download/1.0/AnyGlobe.Changer.zip).
+1. Drag the `boot.dol` file on to the Dolphin window.
+1. Wait a few seconds, then press 1 to continue. ![AnyGlobe Changer Warning Screen](/images/Dolphin_RC24/anyglobe-warning.png)
+1. Select your region and sub-region, then select `Save`, then `Return`. ![AnyGlobe Changer Main Menu](/images/Dolphin_RC24/anyglobe-save.png)
 
-[如果您在 Forecast Channel 或 News Channel 中遇到其它错误，例如以 FORE 或 NEWS 开头的错误代码或停止使用的消息，您可以尝试使用 RC24-Clear-Tool 删除 VFF](deleting-vffs)。
-{: .notice--warning}
+When you go back to the Everybody Votes Channel, the country & region names will appear blank. This is normal.
+{: .notice--info}
+
+Unfortunately, Wii Mail doesn't work in Dolphin yet.
+{: .notice--info}
