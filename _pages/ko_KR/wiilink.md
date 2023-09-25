@@ -19,7 +19,7 @@ The Kirby TV Channel is back! <br> If you installed it previously, please follow
 
 ##### 섹션 I - WAD 패치하기
 
-[If you want to see detailed instructions on how to install the WADs, click here!](wiimodlite)
+[If you want to see detailed instructions on how to install the WADs, click here!](yawmme)
 {: .notice--info}
 
 1. Visit the [WiiLink Patcher releases page](https://github.com/WiiLink24/WiiLink24-Patcher/releases) and download the correct patcher for your operating system.
@@ -30,10 +30,10 @@ The Kirby TV Channel is back! <br> If you installed it previously, please follow
 1. It may take a moment for the patcher to download the files to your SD Card or USB Drive.
 1. Once it's done, you can safely close the patcher. All of the files are ready on your SD Card.
 1. If it did not copy everything automatically to your SD Card or USB Device, copy the `WAD` and `apps` folder next to<br>`WiiLink_Patcher_<OS Platform>_v1.X.X` to the root of your SD Card or USB Device.
-1. Wii에 SD 카드나 USB 드라이브를 연결합니다.
+1. Put your SD card or USB drive in your Wii.
 1. Wii에서 홈브류 채널을 실행합니다.
-1. Wii Mod Lite를 실행합니다.
-1. Wii 리모컨의 +컨트롤 패드를 사용하여 `WAD Manager`로 이동한 다음 `wad` 폴더로 이동합니다.
+1. Launch YAWM ModMii Edition.
+1. Select your SD card or USB drive accordingly.
 1. If your Wii is not a Japanese region, install `WiiLink_SPD (Wii).wad` or `WiiLink_SPD (vWii).wad` (Depending on console platform) before anything else. This is required so that we know your email address to send files.
 1. Highlight all other WADs with `WiiLink` in the name and press + to select them. When all of them are selected, press A twice to install the WADs.
     - If you have previously installed the RiiConnect24 versions of the Forecast Channel and the Nintendo Channel, installing WiiLink's will overwrite them.
