@@ -12,7 +12,7 @@ Esta es una guía de inicio rápido sobre cómo utilizar USB Loader GX, una popu
 A pesar de su nombre, USB Loader GX también puede cargar juegos desde una tarjeta SD.
 {: .notice--info}
 
-![USB Loader GX](/images/usbloadergx.png)
+![Logotipo de USB Loader GX](/images/usbloadergx.png)
 
 #### Requisitos
 
@@ -42,17 +42,17 @@ Asegúrate de que tu unidad USB esté formateada como FAT32. No es posible usar 
 
 ##### Descarga/instalación
 
-1. Extrae USB Loader GX a la carpeta `apps` en tu tarjeta SD o unidad USB.
-2. Inserta en tu Wii la unidad USB y tarjeta SD (si estás usando una) e inicia  USB Loader GX desde el Canal Homebrew.
+1. Extrae el archivo de USB Loader GX y copia la carpeta `apps` a la raíz de tu tarjeta SD o unidad USB.
+2. Inserta la unidad USB y/o tarjeta SD en tu Wii e inicia USB Loader GX desde el Canal Homebrew.
 
-##### Comenzar
+##### Primeros pasos
 
-There is no "guide" to use the USB Loader GX app. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of USB Loader GX by using it.
+Por favor ten en cuenta que esta no es una guía completa para USB Loader GX. El objetivo es explicar cómo utilizar las funciones básicas de la aplicación. Te invitamos a descubrir por tu cuenta el resto de sus grandes funciones.
 {: .notice--info}
 
-* Si USB Loader GX dice "Waiting for HDD..." con una cuenta regresiva de 20 segundos, es probable que no pueda encontrar la unidad USB. Sal de la aplicación y luego reiníciala después de colocar la unidad USB en el otro puerto de la Wii.
+* Si al iniciar USB Loader GX se muestra el mensaje "Waiting for HDD..." con una cuenta regresiva de 20 segundos, significa que no se pudo detectar la unidad USB. Para solucionarlo, reinicia la aplicación tras conectar la unidad USB en el otro puerto de la consola.
 * Puedes oprimir el botón 1 para abrir un diálogo que te permitirá descargar las carátulas de tus juegos desde [GameTDB](https://gametdb.com/). Este proceso podría tardar un rato, dependiendo de cuántos juegos tengas guardados.
-* Hay canales que pueden abrir USB Loader GX u otras aplicaciones homebrew directamente desde el menú de Wii. A estos canales se les conoce como accesos directos. Se puede encontrar un promotor oficial de WAD [aquí](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), y un versión para el vWii (Wii U) se puede encontrar [aquí](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad).
+* Es posible iniciar USB Loader GX directamente desde el menú de Wii. A estos canales se les conoce como accesos directos. Se puede encontrar un promotor oficial de WAD [aquí](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), y un versión para el vWii (Wii U) se puede encontrar [aquí](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad).
 * Es posible que los juegos de GameCube o juegos de Wii "personalizados" tengan un banner personalizado que USB Loader GX puede utilizar en lugar del original. Para habilitar esto, busque o escriba `CustomBannersURL = http://banner.rc24.xyz/` en config/GXGlobal.cfg en su Unidad USB. Despues de hacer esto, aparecerá la opción "Custom Banner" al oprimir el botón 1 y entonces podrás descargar los banners personalizados.
 
 ##### Interfaz de usuario
@@ -88,8 +88,8 @@ There are also other buttons:
 
 On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
 
-[Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that USB Loader GX can integrate with. This is optional to set up.
+[Continuar a la instalación de RiiTag](riitag)<br> RiiTag es un gamertag personalizable para tu Wii, el cual incluye integración con USB Loader GX. Este proceso es opcional.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Ir al mapa del sitio](site-navigation)<br> Tenemos muchas otras guías que podrían interesarte.
 {: .notice--info}
