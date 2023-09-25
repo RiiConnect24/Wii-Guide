@@ -51,7 +51,7 @@ sitemap: false
 - [Types of Bricks](bricks)
 - [Instalar WADs con Wii Mod Lite](wiimodlite)
 - [Wilbrand](wilbrand)
-- [YAWM ModMii Edition](yawmme)
+- [Instalar WADs con YAWM ModMii Edition](yawmme)
 
 **Homebrew**
 
