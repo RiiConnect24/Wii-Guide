@@ -26,17 +26,17 @@ Wii 미니에 RICONNECT24를 설치하지 마세요! 작동하지 않으며 시�
 ### 필요한 것
 
 * 윈도우즈 10 이상 또는 유닉스 기반 시스템이 설치된 컴퓨터
-* [Dolphin 에뮬레이터](https://dolphin-emu.org/download/)
+* a Beta or Development version of [Dolphin Emulator](https://dolphin-emu.org/download/)
 * [RiiConnect24 패치 관리자](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### 방법
 
 ##### 섹션 I - Dolphin 에뮬레이터 설치하기
 
-Dolphin이 이미 설치되어 있는 경우 섹션 II로 건너뛰세요.
+If you have Dolphin already installed, skip to [Section II](#section-ii---installing-riiconnect24).
 {: .notice--info}
 
-1. 최신 Dolphin 베타 버전을 다운로드할 수 있지만, **매우 오래된 버전이므로 안정적인 버전은 아닙니다!**
+1. Download the latest Dolphin beta version.
 2. 7-Zip 또는 WinRAR과 같은 프로그램을 사용하여 .7z 파일을 압축 해제합니다.
 3. Dolphin을 시작합니다.
 4. Dolphin에서 `도구` -> `온라인 시스템 업데이트 수행` -> 지역 선택으로 이동합니다. ![온라인 시스템 업데이트 하기](/images/Dolphin_RC24/1.jpg)
@@ -61,13 +61,21 @@ Dolphin이 이미 설치되어 있는 경우 섹션 II로 건너뛰세요.
 10. 인내심을 가지세요...![패치 중입니다!](/images/RC24_Patcher/9.JPG)
 11. 완료된 후 잠시 시간을 내어 익명으로 피드백을 보내주시면 감사하겠습니다.  원하지 않는 경우 패치 관리자를 닫으세요. 모든 파일은 이미 SD 카드에 저장되어 있어야 합니다. ![완료되었습니다!](/images/RC24_Patcher/10.JPG) ![파일 복사됨](/images/RC24_Patcher/11.PNG)
 12. Dolphin에서 `도구`로 이동한 다음 `WAD 설치`로 이동합니다. 모든 WAD 파일을 하나씩 설치합니다.
-13. [AnyGlobe Changer v1.0](https://github.com/fishguy6564/AnyGlobe-Changer/releases/download/1.0/AnyGlobe.Changer.zip)의 압축 해제하고 boot.dol 파일을 실행합니다. 지역을 선택하고 저장합니다. 이렇게 하면 모두의 투표 채널이 작동할 수 있습니다.
 
-안타깝게도 아직 Dolphin에서는 Wii Mail이 작동하지 않습니다.
+##### Section III - Setting your Region
+
+Setting your region is required to use the Everybody Votes Channel.
+
+If you have imported your Wii's NAND backup, the default Region Select will probably work.
 {: .notice--info}
 
-모두의 투표 채널을 최대 4번 실행해야 작동을 시작할 수 있습니다.
-{: .notice--warning}
+1. Download and unzip [AnyGlobe Changer v1.0](https://github.com/fishguy6564/AnyGlobe-Changer/releases/download/1.0/AnyGlobe.Changer.zip).
+1. Drag the `boot.dol` file on to the Dolphin window.
+1. Wait a few seconds, then press 1 to continue. ![AnyGlobe Changer Warning Screen](/images/Dolphin_RC24/anyglobe-warning.png)
+1. Select your region and sub-region, then select `Save`, then `Return`. ![AnyGlobe Changer Main Menu](/images/Dolphin_RC24/anyglobe-save.png)
 
-[날씨 채널 또는 뉴스 채널에서 FORE 또는 NEWS로 시작하는 오류 코드 또는 중단 메시지와 같은 다른 오류가 발생하는 경우 RC24-Clear-Tool을 사용하여 VFF를 삭제해 볼 수 있습니다](deleting-vffs).
-{: .notice--warning}
+When you go back to the Everybody Votes Channel, the country & region names will appear blank. This is normal.
+{: .notice--info}
+
+Unfortunately, Wii Mail doesn't work in Dolphin yet.
+{: .notice--info}
