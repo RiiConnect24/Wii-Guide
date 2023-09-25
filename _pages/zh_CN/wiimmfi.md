@@ -142,7 +142,7 @@ MrBean35000vr（CTGP-R 的作者，马里奥赛车 Wii 的自定义纹理包）�
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) （Windows 和 Unix）  
   **或**
 - [WiiWare Patcher](https://github.com/RiiConnect24/WiiWare-Patcher/releases)（跨平台）
-- [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
+- [YAWM ModMii Edition](https://oscwii.org/library/app/yawmme)
 
 [如果您想了解如何使用 WiiWare Patcher，请点击这里！](wiiwarepatcher)
 {: .notice--info}
@@ -151,7 +151,7 @@ MrBean35000vr（CTGP-R 的作者，马里奥赛车 Wii 的自定义纹理包）�
 
 1. 解压最新版本的 WiiWare Patcher .zip 文件，并将您的 WAD 放入其中。
 2. 运行适用于您的操作系统的补丁脚本：通常在 Windows 上以 `.bat` 结尾，在 Mac/Linux 上以 `.sh` 结尾。 如果您正在使用 RiiConnect24 Patcher，选择您的设备（Wii、vWii 或 Dolphin），然后选择 WiiWare patcher。
-3. 如果操作成功完成，请使用 Wii Mod Lite 安装位于 `wiiware-wads` 文件夹的 WAD。
+3. If it completed successfully, install the WAD that was made in `wiiware-wads` with YAWM ModMii Edition.
 
 ## 其它东西
 
