@@ -7,9 +7,9 @@ title: "Instalar WADs con Wii Mod Lite"
 Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado), o envíanos un [correo electrónico](mailto:support@riiconnect24.net). Soporte disponible solo en inglés.
 {: .notice--info}
 
-Wii Mod Lite is an application that allows you to manage installed titles, install WAD files, modify your Wii's region settings and IOS. <br> This tutorial will show you how to install WADs.
+Wii Mod Lite es una aplicación homebrew que te permite administrar los canales instalados en tu Wii, instalar archivos WAD, así como cambiar la región del sistema y los IOS. <br> En esta guía te explicaremos cómo instalar WADs.
 
-It is recommended to use [YAWM ModMii Edition](yawmme) to install WAD files. It has checks in place to prevent bricks from installing WADs.
+Se recomienda utilizar [YAWM ModMii Edition](yawmme) para instalar archivos WAD. Esta aplicación incluye verificaciones que impiden que tu consola sufra un brick tras instalar ciertos WADs.
 {: .notice--warning}
 
 #### Requisitos
@@ -20,8 +20,8 @@ It is recommended to use [YAWM ModMii Edition](yawmme) to install WAD files. It 
 
 ##### Sección I - Descarga
 
-1. Download and extract the Wii Mod Lite zip to your SD card or USB drive.
-2. Insert your SD card or USB drive into your Wii, and launch Wii Mod Lite from the Homebrew Channel.
+1. Extrae el archivo de Wii Mod Lite a la raíz de tu tarjeta SD o unidad USB.
+2. Inserta la tarjeta SD o unidad USB en tu consola e inicia Wii Mod Lite desde el Canal Homebrew.
 
 ##### Sección II - Instalando el WAD
 
