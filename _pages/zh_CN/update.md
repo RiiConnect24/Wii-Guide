@@ -9,7 +9,7 @@ title: "更新 Wii 菜单至 v4.3"
 
 如果您已经破解了 Wii，本教程将解释如何将 Wii 菜单更新至 4.3 版本。
 
-It is much safer to use [ModMii](modmii) (Windows only) to update your Wii to 4.3.
+使用 [ModMii](modmii)（仅限 Windows）将 Wii 更新至 4.3 要安全得多。
 {: .notice--warning}
 
 #### 你需要的是
@@ -36,7 +36,7 @@ It is much safer to use [ModMii](modmii) (Windows only) to update your Wii to 4.
 4. 按 `Start NUS Download!`。
 5. 打开 `titles` -> `0000000100000002` ->（Wii 菜单版本），将 .wad 文件复制到 SD 卡或 U 盘上名为 `wad` 的文件夹中。
 6. 重复第 2-5 步并替换为 `IOS` -> `000000010000003A` -> `Latest Version`。
-7. After you have copied all 3 `.wad` files, eject your SD card/USB drive from your PC and put it back into your Wii.
+7. 复制完所有 3 个 `.wad` 文件后，从 PC 上弹出 SD 卡/U 盘并将其放回 Wii。
 
 | 区域 | Wii 菜单版本    |
 | -- | ----------- |
@@ -47,12 +47,12 @@ It is much safer to use [ModMii](modmii) (Windows only) to update your Wii to 4.
 
 ##### 第二部分 - 安装
 
-1. Power off your Wii. Start holding RESET, then turn it back on.
-2. In the Priiloader menu, select `Homebrew Channel`.
-  * If the Priiloader menu does not appear, please [install it immediately](priiloader). Priiloader is required for this guide.
-3. Launch YAWM ModMii Edition.
-4. Select your SD card or USB drive.
-5. Press `+` to one the IOS80 and IOS58 WADs to highlight them, then press A twice to install.
-6. Navigate to the Wii Menu WAD and press A twice to install it.
-7. When prompted to retain Priiloader, press A to confirm.
+1. 关闭 Wii。 按住 RESET，然后再打开。
+2. 在 Priiloader 菜单中选择 `Homebrew Channel`。
+  * 如果没出现 Priiloader 菜单，请[立即安装](priiloader)。 本指南需要 Priiloader。
+3. 启动 YAWM ModMii Edition。
+4. 选择 SD 卡或 U 盘。
+5. 按 `+` 选择 IOS80 和 IOS58 WAD，然后按两次 A 进行安装。
+6. 移动至 Wii 菜单 WAD，然后按两次 A 进行安装。
+7. 提示保留 Priiloader 时，按 A 确认。
 8. 安装成功后，按 HOME 按钮回到 Homebrew Channel。
