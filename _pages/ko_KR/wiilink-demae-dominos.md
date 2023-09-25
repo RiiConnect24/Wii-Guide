@@ -50,7 +50,7 @@ title: WiiLink 음식 배달 채널 (도미노) 가이드
 이제 푸드 배달 채널과 개인 데이터 채널 설정을 설치합니다.
 
 1. Wii에 SD 카드나 USB 드라이브를 연결합니다.
-2. 콘솔 ID를 등록한 후 홈브류 채널로 이동하여 **Wii Mod Lite**를 실행합니다.
+2. After registering your console ID, go to the Homebrew Channel and launch YAWM ModMii Edition.
 3. WAD 관리자 메뉴에서 `Food Channel (Domino's) (English).wad`를 찾습니다.
 4. 또한 콘솔 플랫폼에 따라 `WiiLink_SPD (Wii).wad` 또는 `WiiLink_SPD (vWii).wad`을 찾습니다.
 5. `+` 버튼을를 눌러 두 WAD를 모두 선택합니다.
