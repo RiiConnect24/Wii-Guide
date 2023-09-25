@@ -17,7 +17,7 @@ GameCube Backup Manager is a convenient PC software that simplifies the process 
 To play multiple games, it is recommended to use an external hard drive for your Wii. Any external hard drive found on most modern marketplaces should work with your Wii.
 {: .notice--info}
 
-Make sure your USB drive is formatted as FAT32. Do not format it as other types such as NTFS, exFAT, extFS, or WBFS, the latter being an outdated filesystem for storing Wii games.
+Asegúrate de que tu unidad USB esté formateada como FAT32. Do not format it as other types such as NTFS, exFAT, extFS, or WBFS, the latter being an outdated filesystem for storing Wii games.
 {: .notice--info}
 
 #### Instrucciones
