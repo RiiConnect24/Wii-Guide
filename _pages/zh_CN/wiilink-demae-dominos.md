@@ -49,8 +49,8 @@ title: WiiLink Food Delivery Channel (Domino's) 指南
 
 您现在将安装 Food Delivery Channel 和 Set Personal Data 频道。
 
-1. 将SD卡或U盘插入Wii。
-2. 在注册您的主机 ID 后，转到 Homebrew Channel 并启动 **Wii Mod Lite**。
+1. Put your SD card or USB drive in your Wii.
+2. After registering your console ID, go to the Homebrew Channel and launch YAWM ModMii Edition.
 3. 在 WAD 管理器的菜单中找到 `Food Channel (Domino's) (English).wad`。
 4. 也要找到 `WiiLink_SPD (Wii).wad` 或 `WiiLink_SPD (vWii).wad`，取决于您的主机平台。
 5. 通过在每个 WAD 上按下 `+` 来选择两个 WAD。
