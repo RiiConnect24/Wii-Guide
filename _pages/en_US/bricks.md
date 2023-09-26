@@ -4,7 +4,7 @@ title: "Bricks"
 
 {% include toc title="Table of Contents" %}
 
-A "Brick" usually means your Wii has reached a state where, it's only use is that of a literal [brick](https://wikipedia.org/wiki/Brick). <br>
+A "Brick" usually means your Wii has reached a state where, its only use is that of a literal [brick](https://wikipedia.org/wiki/Brick). <br>
 Bricks can occur for a variety of reasons, usually caused by improper system modifications via homebrew.
 
 Here, we will discuss the different types of bricks, as well as some potential solutions.
@@ -12,16 +12,16 @@ Here, we will discuss the different types of bricks, as well as some potential s
 ## Banner brick
 
 #### Cause
-Banner bricks occur when a corrupted WAD file is installed on the Wii Menu.
+Banner bricks occur if you install a WAD file that has an invalid Wii Menu banner or icon.
 
 #### Solutions
 If you have [Priiloader](priiloader) installed, enter it by holding RESET while turning your Wii on.
 Select Homebrew Channel, then use your WAD manager to uninstall the faulty WAD.
 
-If you do not have Priiloader, Maintenance mode may be worth a try.
+If you don't have Priiloader, Maintenance mode may be worth a try.
 Hold down `+` and `-` on the Health and Safety screen. (do not press `A`!)
 
-If you are fortunate enough to get to the Wii menu, enter the Homebrew Channel and uninstall the faulty WAD.
+If you are fortunate enough to get to the Wii Menu, enter the Homebrew Channel and uninstall the faulty WAD.
 
 ## Theme brick
 
@@ -29,7 +29,7 @@ If you are fortunate enough to get to the Wii menu, enter the Homebrew Channel a
 A theme brick occurs when a wrongly formatted theme is installed. 
 
 #### Solutions
-To resolve this issue, open HBC through Priiloader and access MyMenuifyMOD to install a default theme.
+To resolve this issue, open HBC through Priiloader and access MyMenuifyMod to install a default theme.
 
 ## Semibrick
 
@@ -69,7 +69,7 @@ A mail brick happens when your Wii has a lot of mail. This will make the Wii cra
 
 #### Solutions
 To fix a mail brick, enter Maintenance mode by holding `+` and `-` on the Health and Safety screen. (do not press `A`!) <br>
-Enter the Homebrew Channel, and use [cdbackup](https://oscwii.org/library/app/cdbackup) to delete your message board data.
+Enter the Homebrew Channel, and use [cdbackup](https://oscwii.org/library/app/cdbackup) to delete your Wii Message Board data.
 
 ## Wi-Fi brick
 
@@ -77,12 +77,12 @@ Enter the Homebrew Channel, and use [cdbackup](https://oscwii.org/library/app/cd
 This brick arises when your Wii's Wi-Fi (or Bluetooth) module is damaged or not inserted properly.
 In such cases, the Wii gets stuck on a black screen while awaiting a response from IOS.
 
-You can try and differentiate by checking if your Wii remote still powers on your Wii.
+You can try and differentiate by checking if your Wii Remote still powers on your Wii.
 
-This will also happen on the Wii mini if you install a normal Wii IOS, because the Wii Mini does not have a Wi-Fi module.
+This will also happen on the Wii Mini if you install a normal Wii IOS, because the Wii Mini doesn't have a Wi-Fi module.
 
 #### Solutions
-To resolve this problem, you can try reseat or replace the Wi-Fi/Bluetooth module.
+To resolve this problem, you can try to reseat or replace the Wi-Fi/Bluetooth module.
 
 If you are on a Wii Mini, you must install a Wi-Fi module.
 
@@ -90,7 +90,7 @@ If you are on a Wii Mini, you must install a Wi-Fi module.
 
 #### Cause
 
-This brick happens when a non-Korean Wii Menu on 4.2 or 4.3 detects that the Korean key is present.
+This brick happens when a non-Korean Wii Menu on 4.2 or 4.3 detects that the Korean common key is present.
 
 This is usually an immediate follow-up to a Wii System Update on an unsuspecting region-changed Korean Wii.
 ![Error 003](/images/bricks/error-003.png)
@@ -101,7 +101,7 @@ Since this brick most often occurs after the Wii Menu updates, Priiloader will n
 
 Korean Wiis also released with Wii Menu 3.3, around the time that Nintendo [fixed the Trucha bug in boot1](https://wiibrew.org/wiki/3.3#Changes), so BootMii as Boot2 cannot be installed to any Korean Wii.
 
-The only way to fix this brick is a way to launch homebrew by launching a game through the Recovery menu.
+The only way to fix this brick is a way to launch homebrew by launching a game through the Recovery Menu. It's only accessible if you take apart a GameCube controller to hold all 4 +Control Pad buttons down while the GameCube controller's plugged into the 4th slot on your Wii as it's turned on. Taking apart the controller is necessary since you cannot hold down all the buttons without taking the controller apart.
 
 ## IOS brick
 
