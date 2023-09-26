@@ -12,7 +12,7 @@ Here, we will discuss the different types of bricks, as well as some potential s
 ## Banner brick
 
 #### Cause
-Banner bricks occur when a corrupted WAD file is installed on the system menu.
+Banner bricks occur when a corrupted WAD file is installed on the Wii Menu.
 
 #### Solutions
 If you have [Priiloader](priiloader) installed, enter it by holding RESET while turning your Wii on.
@@ -34,31 +34,31 @@ To resolve this issue, open HBC through Priiloader and access MyMenuifyMOD to in
 ## Semibrick
 
 #### Cause
-A semibrick occurs when a different region System Menu or a different region custom theme is installed.
+A semibrick occurs when a different region Wii Menu or a different region custom theme is installed.
 This causes the Wii to fail to find the Wii settings page files.
 ![Semibrick](/images/bricks/semibrick.png)
 
 #### Solutions
 If this was caused by a theme you installed, use MyMenuifyMod to re-download the original theme file.
 
-If this was caused by a System menu WAD you installed, use [NUS Downloader](https://wiibrew.org/wiki/NUSD) to re-obtain your original system menu.
+If this was caused by a Wii Menu WAD you installed, use [NUS Downloader](https://wiibrew.org/wiki/NUSD) to re-obtain your original Wii Menu.
 
-Be cautious when downloading the System menu WAD. Make sure to pick the same version with the corrected region.
+Be cautious when downloading the Wii Menu WAD. Make sure to pick the same version with the corrected region.
 {: .notice--danger}
 
-If you are actually in the process of a region change, use [ARC-ME](https://github.com/modmii/Any-Region-Changer-ModMii-Edition/releases) to automatically fix all your region settings to match your System menu.
+If you are actually in the process of a region change, use [ARC-ME](https://github.com/modmii/Any-Region-Changer-ModMii-Edition/releases) to automatically fix all your region settings to match your Wii Menu.
 
-## System Menu brick
+## Wii Menu brick
 
 #### Cause
 This brick is a more fatal version of a [Semibrick](#semibrick). If your SYSCONF gets corrupt or damaged, the Wii will regenerate it and start the setup phase.
 
-However, the setup pages are in a similar location to the Wii settings pages. If you have an incorrect region System menu or theme, the Wii cannot find them.
-![System menu brick](/images/bricks/sysmenu-brick.png)
+However, the setup pages are in a similar location to the Wii settings pages. If you have an incorrect region Wii Menu or theme, the Wii cannot find them.
+![Wii menu brick](/images/bricks/sysmenu-brick.png)
 
 #### Solutions
 
-If you still have [Priiloader](priiloader), use it to enter the Homebrew Channel and re-install the original theme file/original System menu.
+If you still have [Priiloader](priiloader), use it to enter the Homebrew Channel and re-install the original theme file/original Wii Menu.
 
 In case you do not have Priiloader, you can try [BlueBomb](bluebomb).
 
@@ -90,23 +90,23 @@ If you are on a Wii Mini, you must install a Wi-Fi module.
 
 #### Cause
 
-This brick happens when a non-Korean System Menu on 4.2 or 4.3 detects that the Korean key is present.
+This brick happens when a non-Korean Wii Menu on 4.2 or 4.3 detects that the Korean key is present.
 
 This is usually an immediate follow-up to a Wii System Update on an unsuspecting region-changed Korean Wii.
 ![Error 003](/images/bricks/error-003.png)
 
 #### Solutions
 
-Since this brick most often occurs after the System menu updates, Priiloader will not be present.
+Since this brick most often occurs after the Wii Menu updates, Priiloader will not be present.
 
-Korean Wiis also released with System menu 3.3, around the time that Nintendo [fixed the Trucha bug in boot1](https://wiibrew.org/wiki/3.3#Changes), so BootMii as Boot2 cannot be installed to any Korean Wii.
+Korean Wiis also released with Wii Menu 3.3, around the time that Nintendo [fixed the Trucha bug in boot1](https://wiibrew.org/wiki/3.3#Changes), so BootMii as Boot2 cannot be installed to any Korean Wii.
 
 The only way to fix this brick is a way to launch homebrew by launching a game through the Recovery menu.
 
 ## IOS brick
 
 #### Cause
-This brick happens when the System menu's IOS is a [stub](http://wiibrew.org/wiki/Stub_IOS). This is usually the consequence of attempting to downgrade your Wii menu.
+This brick happens when the Wii Menu's IOS is a [stub](http://wiibrew.org/wiki/Stub_IOS). This is usually the consequence of attempting to downgrade your Wii menu.
 
 #### Solutions
 You must have BootMii as boot2 to fix this brick. Priiloader will not load.
@@ -114,9 +114,8 @@ You must have BootMii as boot2 to fix this brick. Priiloader will not load.
 
 You can either restore a NAND backup, or do this:
 
-1. Use [NUS Downloader](https://wiibrew.org/wiki/NUSD) to pack a WAD of your original System menu.
-1. Use BootMii to enter the Homebrew Channel, and use a WAD manager to install the System menu WAD.
-
+1. Use [NUS Downloader](https://wiibrew.org/wiki/NUSD) to pack a WAD of your original Wii Menu.
+1. Use BootMii to enter the Homebrew Channel, and use a WAD manager to install the Wii Menu WAD.
 
 ## Low-level brick
 
