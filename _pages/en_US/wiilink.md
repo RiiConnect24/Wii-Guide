@@ -47,6 +47,7 @@ WiiLink also provides revived WiiConnect24 Channels, such as the Forecast & Ever
 6. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel. Press the HOME Button again and select `"Exit to System Menu"`.
 
 ### Congratulations! You've installed WiiLink24 onto your console! Enjoy what WiiLink has to offer to your hearts content.
+{: .notice--success}
 
 Want to order Domino's Pizza with WiiLink's Food Channel? [Follow this guide!](wiilink-demae-dominos)
 {: .notice--info}
