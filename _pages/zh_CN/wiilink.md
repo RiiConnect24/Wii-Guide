@@ -4,7 +4,7 @@ title: "WiiLink"
 
 {% include toc title="Table of Contents" %}
 
-[WiiLink](https://wiilink24.com/) 让您再次使用日本独有的频道，例如 Wii Room、Digicam Print Channel 和 Food Channel。
+[WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels known as Wii Room, the Digicam Print Channel, and the Food Channel again. <br> Additionally, WiiLink lets you use other WiiConnect24 channels such as the Nintendo Channel, Forecast Channel, and Everybody Votes Channel.
 
 Kirby TV Channel 回来了！ <br> 如果您以前安装过，请按照说明进行更新。
 {: .notice--success}
