@@ -4,6 +4,8 @@ title: "WiiLink"
 
 {% include toc title="Table of Contents" %}
 
+For support on WiiLink24, please visit the [WiiLink24 Discord Server](https://discord.com/invite/reqUMqxu8D). {: .notice--info}
+
 [WiiLink](https://wiilink24.com/) allows you use Wii Channels originally exclusive to Japan, such as;
 
 - Wii Room
@@ -44,8 +46,6 @@ WiiLink also provides revived WiiConnect24 Channels, such as the Forecast & Ever
 6. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel. Press the HOME Button again and select `"Exit to System Menu"`.
 
 ### Congratulations! You've installed WiiLink24 onto your console! Enjoy what WiiLink has to offer to your hearts content.
-
-> For more support on our service, please visit the [WiiLink24 Discord Server](https://discord.com/invite/reqUMqxu8D).
 
 Want to order Domino's Pizza with WiiLink's Food Channel? [Follow this guide!](wiilink-demae-dominos)
 {: .notice--info}
