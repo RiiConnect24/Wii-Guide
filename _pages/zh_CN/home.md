@@ -29,7 +29,7 @@ excerpt: "破解任天堂 Wii 的完整指南。"
 - 使用 [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/) 备份和恢复您的 Wii 存档
 - 使用 [GCMM](gcsaves) 备份和恢复您的 gamecube 存档
 - 使用 [Homebrew Browser](hbb) 下载新的自制应用
-- Restore discontinued online services, such as [Nintendo WFC services](wiimmfi) & WiiConnect24 services by using [Riiconnect24](riiconnect24) or [WiiLink](wiilink).
+- 使用 [Riiconnect24](riiconnect24) 或 [WiiLink](wiilink) 恢复已停止的在线服务，如[任天堂 WFC 服务](wiimmfi) & WiiConnect24 服务。
 - 使用 [BootMii](hbc) [备份](bootmii)和[恢复](bootmiirecover) Wii 系统内存（NAND）的副本。
 - 使用 [Priiloader](priiloader) 和 [BootMii](bootmii) 防止您的 Wii 变砖。
 - 使用 [WiiMC](https://oscwii.org/library/app/wiimc-ss) 将您的 Wii 变成媒体播放器。
