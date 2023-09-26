@@ -51,7 +51,7 @@ Want to order Domino's Pizza with WiiLink's Food Channel? [Follow this guide!](w
 {: .notice--info}
 
 For PAL (European) Wii's<br>
-In Wii Settings, please set your TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution`. Failure to do this will cause a pink bar will appear at the bottom of the screen, obscuring vision.
+In Wii Settings, please set your TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution`. Otherwise, a pink bar will display at the bottom of the screen, obscuring vision.
 {: .notice--info}
 
 [Continue to RiiConnect24](riiconnect24)<br>
