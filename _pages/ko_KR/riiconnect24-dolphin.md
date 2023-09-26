@@ -26,7 +26,7 @@ Wii 미니에 RICONNECT24를 설치하지 마세요! 작동하지 않으며 시�
 ### 필요한 것
 
 * 윈도우즈 10 이상 또는 유닉스 기반 시스템이 설치된 컴퓨터
-* a Beta or Development version of [Dolphin Emulator](https://dolphin-emu.org/download/)
+* A Beta or Development version of [Dolphin Emulator](https://dolphin-emu.org/download/)
 * [RiiConnect24 패치 관리자](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### 방법
@@ -36,7 +36,7 @@ Wii 미니에 RICONNECT24를 설치하지 마세요! 작동하지 않으며 시�
 If you have Dolphin already installed, skip to [Section II](#section-ii---installing-riiconnect24).
 {: .notice--info}
 
-1. Download the latest Dolphin beta version.
+1. Download the latest Dolphin Beta or Development version.
 2. 7-Zip 또는 WinRAR과 같은 프로그램을 사용하여 .7z 파일을 압축 해제합니다.
 3. Dolphin을 시작합니다.
 4. Dolphin에서 `도구` -> `온라인 시스템 업데이트 수행` -> 지역 선택으로 이동합니다. ![온라인 시스템 업데이트 하기](/images/Dolphin_RC24/1.jpg)
