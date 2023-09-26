@@ -4,7 +4,8 @@ title: "WiiLink"
 
 {% include toc title="Table of Contents" %}
 
-For support on WiiLink24, please visit the [WiiLink24 Discord Server](https://discord.com/invite/reqUMqxu8D). {: .notice--info}
+For support on WiiLink24, please visit the [WiiLink24 Discord Server](https://discord.com/invite/reqUMqxu8D).
+{: .notice--info}
 
 [WiiLink](https://wiilink24.com/) allows you use Wii Channels originally exclusive to Japan, such as;
 
