@@ -26,7 +26,7 @@ NÃO INSTALE RIICONNECT24 EM UM WII MINI! Não irá funcionar e causará um bric
 ### Você precisará de
 
 * Um computador com Windows 10 ou com qualquer sistema baseado em Unix
-* a Beta or Development version of [Dolphin Emulator](https://dolphin-emu.org/download/)
+* A Beta or Development version of [Dolphin Emulator](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### Instruções
@@ -36,7 +36,7 @@ NÃO INSTALE RIICONNECT24 EM UM WII MINI! Não irá funcionar e causará um bric
 If you have Dolphin already installed, skip to [Section II](#section-ii---installing-riiconnect24).
 {: .notice--info}
 
-1. Download the latest Dolphin beta version.
+1. Download the latest Dolphin Beta or Development version.
 2. Extraia o arquivo .7z utilizando um programa como 7-Zip ou WinRAR.
 3. Inicie o Dolphin.
 4. Em Dolphin, vá para `Ferramentas` -> `Executar Atualização do Sistema On-line` -> Escolha sua região. ![Executar Atualização Online do Sistema](/images/Dolphin_RC24/1.jpg)
