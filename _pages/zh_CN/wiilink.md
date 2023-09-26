@@ -4,26 +4,26 @@ title: "WiiLink"
 
 {% include toc title="Table of Contents" %}
 
-[WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels known as Wii Room, the Digicam Print Channel, and the Food Channel again.
+[WiiLink](https://wiilink24.com/) 让您再次使用日本独有的频道，例如 Wii Room、Digicam Print Channel 和 Food Channel。
 
-The Kirby TV Channel is back! <br> If you installed it previously, please follow the instructions to update it.
+Kirby TV Channel 回来了！ <br> 如果您以前安装过，请按照说明进行更新。
 {: .notice--success}
 
 #### 你需要的是
 
 - 一张 SD 卡或 U 盘
 - 一台有互联网连接的Wii
-- A Windows, macOS, or Linux computer
+- 一台 Windows、macOS 或 Linux 电脑
 
 #### 步骤
 
-##### Section I - Patching WADs
+##### 第一部分 - 修补 WAD
 
-[If you want to see detailed instructions on how to install the WADs, click here!](yawmme)
+[如果您想查看如何安装 WAD 的详细说明，请点击这里！](yawmme)
 {: .notice--info}
 
-1. Visit the [WiiLink Patcher releases page](https://github.com/WiiLink24/WiiLink24-Patcher/releases) and download the correct patcher for your operating system.
-1. On Windows, run `WiiLink_Patcher_Windows_v1.X.X.exe`. <br> On MacOS, right click the `WiiLink_Patcher_macOS_v1.X.X` file in Finder and click Open. <br> On Linux, open a Terminal, type `bash` (space included), then drag the file onto the Terminal window. It should look like this: `bash /path/to/WiiLink_Patcher_Linux-<arch>_v1.X.X`
+1. 访问 [WiiLink Patcher 发布页面](https://github.com/WiiLink24/WiiLink24-Patcher/releases)并下载适合您操作系统的正确补丁程序。
+1. 在 Windows 上运行 `WiiLink_Patcher_Windows_v1.X.X.exe`。 <br> 在 MacOS 的 Finder 上右键 `WiiLink_Patcher_macOS_v1.X.X` 文件，然后点击打开。 <br> 打开 Linux 上的终端，输入 `bash`（包括空格），然后将文件拖到终端窗口中。 It should look like this: `bash /path/to/WiiLink_Patcher_Linux-<arch>_v1.X.X`
 1. Press `1` to choose "`Start Express Install Setup`".
 1. Follow the on screen instructions to select which versions of the available channels you would like.
 1. At step 6, press `1` to begin patching.
