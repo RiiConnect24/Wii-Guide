@@ -39,6 +39,8 @@ Make sure your SD Card/USB Drive is connected to your Computer in order for the 
 If you did not let the Patcher copy everything automatically to your SD Card or USB Drive, copy the `WAD` and `apps` folder next in the current directory the Patcher is in to the root of your SD Card or USB Drive.
 {: .notice--info}
 
+##### Section II - Installing the WADs
+
 4. Start up the Homebrew Channel and enter yawmME (YAWM ModMii Edition).
 Select your SD Card or USB Drive accordingly within the Homebrew Channel.
 
