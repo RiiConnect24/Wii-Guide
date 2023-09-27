@@ -1,4 +1,4 @@
-# Wii Guide
+ergerg# Wii Guide
 
 [![License](https://img.shields.io/github/license/riiconnect24/wii-guide.svg?style=flat-square)](LICENSE.txt)
 ![Production List](https://img.shields.io/discord/206934458954153984.svg?style=flat-square)
