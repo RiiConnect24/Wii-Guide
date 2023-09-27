@@ -106,15 +106,7 @@ If you have previously installed the RiiConnect24 versions of the WiiConnect24 C
 3. Highlight all of the WADs with `WiiLink` in the name and press + to select them. When all of them are selected, press A twice to install the WADs.
 4. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel. Press the HOME Button again and select `"Exit to System Menu"`.
 
-##### Section III - Set Priiloader Patch (vWii ONLY)
-
-1. Launch `Priiloader`, and follow the installation steps.
-2. Launch `Load Priiloader`.
-3. Using your Wii Remote, go to `System Menu Hacks`. Enable <br>`Fix NWC24iSetUniversalTime` and `Always enable WiiConnect24 for vWii`. Feel free to enable others.
-4. Scroll down to save settings and press A, then press B to go back to the main menu of Priiloader.
-5. Return to the system menu.
-
-##### Section IV - Adding your email to the Address Information Settings (SPD) (ONLY if you completed Section II.2)
+##### Section III - Adding your email to the Address Information Settings (SPD) (ONLY if you completed Section II.2)
 
 WiiLink never stores your personal data. For more information on what is used, read our [Privacy Policy](https://www.wiilink24.com/privacy-policy).
 {: .notice--info}
