@@ -31,25 +31,24 @@ WiiLink also provides revived and enhanced WiiConnect24 Channels, such as the Fo
 1. Download the latest version of the [WiiLink Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases/tag/v1.2.1) for your operating system.
 
 2. Launch the patcher on your designated Operating System and begin the download process by selecting "Express Install Setup".
- 
-3. Make sure your SD Card/USB Drive is connected to your Computer in order for the Patcher to automatically send your files to your Wii's SD Card/USB Drive.
+Make sure your SD Card/USB Drive is connected to your Computer in order for the Patcher to automatically send your files to your Wii's SD Card/USB Drive.
 {: .notice--info}
 
-4. After the Patcher is done downloading the files, simply disconnect your SD Card/USB Drive from your Computer, and input it into your Wii/Wii U.
+3. After the Patcher is done downloading the files, simply disconnect your SD Card/USB Drive from your Computer, and input it into your Wii/Wii U.
 If you did not let the Patcher copy everything automatically to your SD Card or USB Drive, copy the `WAD` and `apps` folder next in the current directory the Patcher is in to the root of your SD Card or USB Drive.
 {: .notice--info}
 
-5. Start up the Homebrew Channel and enter yawmME (YAWM ModMii Edition).
+4. Start up the Homebrew Channel and enter yawmME (YAWM ModMii Edition).
 Select your SD Card or USB Drive accordingly within the Homebrew Channel.
 {: .notice--info}
 
-6. Highlight all of the WADs with `WiiLink` in the name and press + to select them. When all of them are selected, press A twice to install the WADs.
+5. Highlight all of the WADs with `WiiLink` in the name and press + to select them. When all of them are selected, press A twice to install the WADs.
 If you have previously installed the RiiConnect24 versions of the WiiConnect24 Channels, installing WiiLink's versions will overwrite them. If they have not been overwritten, try uninstalling the RiiConnect24 versions, and reinstalling them with the WiiLink24 versions.
 {: .notice--info}
 If you are installing the Food Channel or Photo Prints Channel, you may also have a file called `WiiLink SPD`. This file will have either have `(Wii)` or `(vWii)` depending on which console youre installing it on. Please install the correct version of the SPD onto your console.
 {: .notice--info}
 
-7. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel. Press the HOME Button again and select `"Exit to System Menu"`.
+6. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel. Press the HOME Button again and select `"Exit to System Menu"`.
 
 Congratulations! You've installed WiiLink24 onto your console! Enjoy what WiiLink has to offer to your hearts content.
 {: .notice--success}
