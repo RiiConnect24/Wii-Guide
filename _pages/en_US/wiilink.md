@@ -64,6 +64,8 @@ In dolphin version 5.0-19724 or above, Wiiconnect24 support has been added throu
 - A Windows, macOS, or Linux Computer with an active Internet Connection
 - [Dolphin Emulator](https://dolphin-emu.org/download/)
 
+##### Instructions
+
 1. Download the latest Dolphin for your operating system.
 
 2. Launch your version of Dolphin that you downloaded earlier.
