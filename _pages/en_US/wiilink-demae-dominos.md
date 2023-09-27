@@ -59,7 +59,7 @@ Deliveroo has been discontinued as of September 19, 2023! Please do not select t
 If you happen to get `Error -1022` when installing `Food Channel (Domino's) (English).wad`, uninstall the channel by selecting the WAD with `-` and pressing `A`. Then, re-install the WAD.
 {: .notice--warning}
 
-Installing WADs are covered in the main WiiLink guide [here](wiilink), in section II.
+Installing WADs are covered in the main WiiLink guide [here](wiilink#section-ii---installing-wads).
 
 ##### Section IV - Adding your address information to the Address Information Settings (SPD)
 

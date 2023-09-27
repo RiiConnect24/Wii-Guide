@@ -111,7 +111,7 @@ If you have previously installed the RiiConnect24 versions of the WiiConnect24 C
 WiiLink never stores your personal data. For more information on what is used, read our [Privacy Policy](https://www.wiilink24.com/privacy-policy).
 {: .notice--info}
 
-If you have installed the Photo Prints Channel, you will need to complete this section for the apps to function properly. If you have installed the Food Channel, please refer [here](wiilink-demae-dominos) for unique SPD instructions in Section IV.
+If you have installed the Photo Prints Channel, you will need to complete this section for the apps to function properly. If you have installed the Food Channel, please refer [here](wiilink-demae-dominos#section-iv---adding-your-address-information-to-the-address-information-settings-spd) for unique SPD instructions.
 {: .notice--warning}
 
 1. Launch Photo Prints Channel from your Wii’s home menu.
