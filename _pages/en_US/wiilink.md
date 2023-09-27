@@ -56,17 +56,8 @@ This should be all that you need to do to get WiiLink working in Dolphin!
 
 ##### For vWii Users ONLY
 
-If you are on vWii and are downloading the Forecast Channel, these steps are required. Otherwise, you may skip to Section I.
-{: .notice--info}
-
-1. Download `Priiloader_v0_10RC3.zip` from [here](https://github.com/DacoTaco/priiloader/releases/tag/0.10.0-RC3).
-2. Unzip `Priiloader_v0_10RC3.zip` and copy the apps folder to your SD Card or USB Drive.
-3. Download `LoadPriiloader.zip` from here.
-4. Unzip `LoadPriiloader.zip` and copy the apps folder to your SD Card or USB Drive.
-5. Visit [this](https://garyodernichts.github.io/priiloader-patch-gen/) site to generate a Priiloader patch that will fix a timestamp issue.
-6. Follow the instructions on the page then copy the result.
-7. On your SD Card or USB Drive, traverse to `apps/priiloader` and open `hacks_hash.ini`.
-8. Paste the patch from Step 6 at the bottom of the `hacks_hash.ini`. Save the file and proceed to Section I.
+If you are on vWii and are downloading the Forecast Channel, you must tweak the system via Priiloader for the app to function properly. Instructions on how to do this may be found [here](riiconnect24-vwii), in Section IV. Otherwise, you may skip to Section I.
+{: .notice--warning}
 
 ##### Section I - Using WiiLink Patcher
 
