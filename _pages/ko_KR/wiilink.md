@@ -4,6 +4,9 @@ title: "WiiLink"
 
 {% include toc title="Table of Contents" %}
 
+If you need help with anything regarding this tutorial, please join [the WiiLink Discord server](https://discord.gg/wiilink-750581992223146074).
+{: .notice--info}
+
 [WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels known as Wii Room, the Digicam Print Channel, and the Food Channel again. <br> Additionally, WiiLink lets you use other WiiConnect24 channels such as the Nintendo Channel, Forecast Channel, and Everybody Votes Channel.
 
 The Kirby TV Channel is back! <br> If you installed it previously, please follow the instructions to update it.
