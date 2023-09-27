@@ -16,7 +16,7 @@ This guide includes instructions on installing WiiLink on both a physical Wii an
 
 - Wii Room
 - Photo Prints Channel
-- Food Delivery Channel
+- Food Channel
 
 WiiLink also provides revived and enhanced WiiConnect24 Channels such as:
 
@@ -64,7 +64,7 @@ If you are on vWii and are downloading the Forecast Channel, you must tweak the 
 On Windows, you may encounter a SmartScreen warning that running the Patcher may put your PC at risk. This is a false positive; you can run the Patcher anyways by pressing "More info" and then "Run anyway".
 {: .notice--info}
 
-If you select "Japanese" on the third step, you will <b>not</b> download the Food Delivery Channel (Demae Domino's). You would be required to run the Patcher a second time and select the English Translation option to do this.
+If you select "Japanese" on the third step, you will <b>not</b> download the Food Channel (Demae Domino's). You would be required to run the Patcher a second time and select the English Translation option to do this.
 {: .notice--warning}
 
 1. Download the latest version of WiiLink Patcher (listed above) for your Operating System, as listed in the README.
@@ -77,7 +77,7 @@ If you select "Japanese" on the third step, you will <b>not</b> download the Foo
    ![WiiLink Patcher Step 2](/images/WiiLink_Patcher/2.png)
 3. You will be asked to choose a language for the Japan exclusive apps, either select the `1. English Translation` or the original `2. Japanese` format.
    ![WiiLink Patcher Step 3](/images/WiiLink_Patcher/3.png)
-4. If you selected the English translation, will be asked on what verison of the Food Delivery Channel (Demae Domino's) you would like to install. If you don't want any actual ordering functionality, simply select <br>
+4. If you selected the English translation, will be asked on what verison of the Food Channel (Demae Domino's) you would like to install. If you don't want any actual ordering functionality, simply select <br>
 `1. Standard (Fake Ordering)` for fake ordering. Otherwise, follow [this](wiilink-demae-dominos) guide on instructions for real ordering.
    ![WiiLink Patcher Step 4](/images/WiiLink_Patcher/4.png)
 5. Next, you will be asked whether or not you would like to install WiiLink's WiiConnect24 services. If you choose not to do this, please skip to step 7.
@@ -102,7 +102,7 @@ If you have previously installed the RiiConnect24 versions of the WiiConnect24 C
 {: .notice--warning}
 
 1. Start up the Homebrew Channel and enter yawmME (YAWM ModMii Edition). Then, select your SD Card or USB Drive accordingly.
-2. If you are installing the Food Delivery Channel or Photo Prints Channel, you may also have files called `WiiLink SPD`. These files will have either have `(Wii)` or `(vWii)` appended to the end depending on which console youre installing it on. If your Wii is not a Japanese region, install the correct version depending on your console before anything else. This is required so that we know your email address to send files.
+2. If you are installing the Food Channel or Photo Prints Channel, you may also have files called `WiiLink SPD`. These files will have either have `(Wii)` or `(vWii)` appended to the end depending on which console youre installing it on. If your Wii is not a Japanese region, install the correct version depending on your console before anything else. This is required so that we know your email address to send files.
 3. Highlight all of the WADs with `WiiLink` in the name and press + to select them. When all of them are selected, press A twice to install the WADs.
 4. After it is successfully installed, press the HOME Button to exit back to the Homebrew Channel. Press the HOME Button again and select `"Exit to System Menu"`.
 
@@ -111,7 +111,7 @@ If you have previously installed the RiiConnect24 versions of the WiiConnect24 C
 WiiLink never stores your personal data. For more information on what is used, read our [Privacy Policy](https://www.wiilink24.com/privacy-policy).
 {: .notice--info}
 
-If you have installed the Photo Prints Channel, you will need to complete this section for the apps to function properly. If you have installed the Food Delivery Channel, please refer [here](wiilink-demae-dominos) for unique SPD instructions in Section IV.
+If you have installed the Photo Prints Channel, you will need to complete this section for the apps to function properly. If you have installed the Food Channel, please refer [here](wiilink-demae-dominos) for unique SPD instructions in Section IV.
 {: .notice--warning}
 
 1. Launch Photo Prints Channel from your Wii’s home menu.
