@@ -56,7 +56,7 @@ This should be all that you need to do to get WiiLink working in Dolphin!
 
 ##### For vWii Users ONLY
 
-If you are on vWii and are downloading the Forecast Channel, you must tweak the system via Priiloader for the app to function properly. Instructions on how to do this may be found [here](riiconnect24-vwii), in Section IV. Otherwise, you may skip to Section I.
+If you are on vWii and are downloading the Forecast Channel, you must tweak the system via Priiloader for the app to function properly. Instructions on how to do this may be found [here](riiconnect24-vwii#section-iv---using-riiconnect24).
 {: .notice--warning}
 
 ##### Section I - Using WiiLink Patcher
