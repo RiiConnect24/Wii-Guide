@@ -25,11 +25,11 @@ Hay muchas cosas que puedes hacer con homebrew. A continuación se enlistan algu
 - Parchear contenido de juegos físicos para cargar modificaciones personalizadas, usando [Riivolution](riivolution).
 - Cambiar el aspecto del menú de Wii, usando [MyMenuify](themes).
 - Cargar copias de juegos físicos desde una tarjeta SD o unidad USB, con [USB Loader GX](usbloadergx) o [WiiFlow](wiiflow).
-- Crear copias digitales de juegos físicos y canales instalados, con [CleanRip](/dump-games) y [YABDM](dump-wads), respectivamente.
-- Respaldar y restaurar tus partidas guardadas de Wii, con [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/).
-- Respaldar y restaurar tus partidas guardadas de GameCube, con [GCMM](gcsaves).
-- Descargar aplicaciones homebrew directamente desde tu consola, con [Homebrew Browser](hbb).
-- Restore discontinued online services, such as [Nintendo WFC services](wiimmfi) & WiiConnect24 services by using [RiiConnect24](riiconnect24) and more services using [WiiLink](wiilink).
+- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](dump-wads).
+- Back up and restore your Wii save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/).
+- Back up and restore your gamecube save files using [GCMM](gcsaves).
+- Download new homebrew apps with the [Homebrew Browser](hbb).
+- Restore discontinued online services such as Nintendo WFC with [Wiimmfi](wiimmfi), and WiiConnect24 with [RiiConnect24](riiconnect24) or [WiiLink](wiilink).
 - [Respaldar](bootmii) y [restaurar](bootmiirecover) los contenidos de la memoria de la consola (NAND), usando [BootMii](hbc).
 - Proteger tu consola contra varios tipos de brick, con [Priiloader](priiloader) y [BootMii](bootmii).
 - Convertir tu Wii en un reproductor multimedia, con [WiiMC](https://oscwii.org/library/app/wiimc-ss).
