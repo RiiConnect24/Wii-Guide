@@ -4,12 +4,12 @@ title: "WiiLink"
 
 {% include toc title="Table of Contents" %}
 
-If you need help with anything regarding this tutorial, please join [the WiiLink Discord server](https://discord.gg/wiilink-750581992223146074).
+如果您需要有关本教程的任何帮助，请加入 [WiiLink Discord 服务器](https://discord.gg/wiilink-750581992223146074)。
 {: .notice--info}
 
-[WiiLink](https://wiilink24.com/) lets you use the Japanese-exclusive channels known as Wii Room, the Digicam Print Channel, and the Food Channel again. <br> Additionally, WiiLink lets you use other WiiConnect24 channels such as the Nintendo Channel, Forecast Channel, and Everybody Votes Channel.
+[WiiLink](https://wiilink24.com/) 让您再次使用日本独有的频道，例如 Wii Room、Digicam Print Channel 和 Food Channel。 <br> 此外，WiiLink 还能让你使用其它 WiiConnect24 频道，如 Nintendo Channel、Forecast Channel 和 Everybody Votes Channel。
 
-The Kirby TV Channel is back! <br> If you installed it previously, please follow the instructions to update it.
+Kirby TV Channel 回来了！ <br> 如果您以前安装过，请按照说明进行更新。
 {: .notice--success}
 
 #### 你需要的是
@@ -22,7 +22,7 @@ The Kirby TV Channel is back! <br> If you installed it previously, please follow
 
 ##### 第一部分 - 修补 WAD
 
-[If you want to see detailed instructions on how to install the WADs, click here!](yawmme)
+[如果您想了解如何安装 WAD 的详细说明，请点击这里！](yawmme)
 {: .notice--info}
 
 1. 访问 [WiiLink Patcher 发布页面](https://github.com/WiiLink24/WiiLink24-Patcher/releases)并下载适合您操作系统的正确补丁程序。
@@ -43,12 +43,12 @@ The Kirby TV Channel is back! <br> If you installed it previously, please follow
 
 1. 安装成功后，按HOME按钮返回Homebrew Channel。
 
-Want to order Domino's Pizza with WiiLink's Food Delivery Channel?<br>[Follow this guide!](wiilink-demae-dominos)
+想要使用 WiiLink 的 Food Delivery Channel 订购达美乐比萨吗？<br>[按照此指南操作！](wiilink-demae-dominos)
 {: .notice--info}
 
 ##### 第二部分 - 将您的电子邮件添加到地址信息中（设置个人数据）
 
-Adding your email to the Address Information (SPD) settings menu will allow the Digicam Print Channel to send images to your email that you created using it.
+将您的电子邮件添加到地址信息（SPD）设置菜单中将允许 Digicam Print Channel 将您使用该频道创建的图片发送到您的电子邮件中。
 {: .notice--info}
 
 1. 从您的 Wii 菜单中启动 Digicam Print Channel。
@@ -57,7 +57,7 @@ Adding your email to the Address Information (SPD) settings menu will allow the 
 4. 点击 `OK`，然后点击 `Done`。
 5. 在地址信息菜单中，选择 `Choose Channel` 菜单的 `Digicam`。 完成上述步骤后就应该可以正常工作了！
 
-For PAL (European Wiis)<br> In Wii Settings please set TV Resolution to 60 HZ (480p/480i). You can find this in `Screen -> TV Resolution` If you do not, a pink bar will appear at the bottom of the screen obscuring vision.
+对于 PAL（欧洲版的 Wii）<br> 在 Wii 设置中，请将电视分辨率设置为 60 HZ（480p/480i）。 您可以在 `Screen -> TV Resolution` 中找到此设置。否则，屏幕底部将出现一个遮挡视线的粉色条状物。
 {: .notice--info}
 
 [继续安装 RiiConnect24](riiconnect24)<br> RiiConnect24 允许您使用已停止服务的 WiiConnect24 功能，包含新闻、天气、大家一起投票、任天堂和 Mii 展示频道以及 Wii 邮箱。 这是可选的安装步骤。
