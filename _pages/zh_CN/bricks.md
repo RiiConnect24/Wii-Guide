@@ -4,7 +4,7 @@ title: "变砖"
 
 {% include toc title="Table of Contents" %}
 
-A "Brick" usually means your Wii has reached a state where, its only use is that of a literal [brick](https://wikipedia.org/wiki/Brick). <br> 变砖的原因很多，通常是由于通过自制对系统进行的不当修改所致。
+“变砖” 通常意味着您的 Wii 已经进入了一种状态，只能像字面意思上的[砖块](https://wikipedia.org/wiki/Brick)一样使用。 <br> 变砖的原因很多，通常是由于通过自制对系统进行的不当修改所致。
 
 在此，我们将讨论不同类型的变砖，以及一些潜在的解决方案。
 
