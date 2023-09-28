@@ -53,27 +53,27 @@ Por favor ten en cuenta que esta no es una guía completa para USB Loader GX. El
 * Si al iniciar USB Loader GX se muestra el mensaje "Waiting for HDD..." con una cuenta regresiva de 20 segundos, significa que no se pudo detectar la unidad USB. Para solucionarlo, reinicia la aplicación tras conectar la unidad USB en el otro puerto de la consola.
 * Puedes oprimir el botón 1 para abrir un diálogo que te permitirá descargar las carátulas de tus juegos desde [GameTDB](https://gametdb.com/). Este proceso podría tardar un rato, dependiendo de cuántos juegos tengas guardados.
 * Es posible iniciar USB Loader GX directamente desde el menú de Wii. Para ello solo debes instalar un canal de acceso directo. Puedes descargar un WAD oficial desde [aquí](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad). En caso de que estés usando el modo Wii de Wii U (vWii), por favor descarga [este WAD](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad).
-* Los títulos de GameCube, así como algunas modificaciones de juegos de Wii, pueden tener un banner personalizado para USB Loader GX. Para habilitar esto, busque o escriba `CustomBannersURL = http://banner.rc24.xyz/` en config/GXGlobal.cfg en su Unidad USB. Despues de hacer esto, aparecerá la opción "Custom Banner" al oprimir el botón 1 y entonces podrás descargar los banners personalizados.
+* Los títulos de GameCube, así como algunas modificaciones de juegos de Wii, pueden tener un banner personalizado para USB Loader GX. Para descargar los banners personalizados, oprime 1 en el menú principal, luego marca la casilla `Custom Banners` y pulsa `OK`. En caso de que no se muestre esta opción, inserta en tu PC la tarjeta SD o unidad USB que contiene USB Loader GX e ingresa a la carpeta `/apps/usbloader_gx`. Después abre el archivo `GXGlobal.cfg` con un editor de textos, luego copia y pega `URL_Banners = https://banner.rc24.xyz/` en una nueva línea al final del archivo, y finalmente guarda los cambios.
 
 ##### Interfaz de usuario
 
-There are multiple buttons in the USB Loader GX interface.
+La interfaz de USB Loader GX contiene múltiples botones. A continuación se describen sus funciones.
 
 ###### Menú principal
 
-These are the functions the buttons found on the top of the main menu do, from left to right:
+Estas son las opciones que se muestran en la parte superior del menú principal, de izquierda a derecha:
 
-* Mostrar sólo favoritos - Muestra los juegos que hayas marcado como favoritos.
-* Usar filtro de búsqueda - Permite buscar juegos por nombre.
-* Ordenar - Permite elegir entre diferentes métodos para ordenar los juegos.
-* Seleccionar fuente de títlos - Permite elegir qué tipo de juegos quieres que se muestren.
-* Seleccionar categorías de juegos - Permite ordenar los juegos por categoría.
-* Mostrar en lista - Muestra los juegos en forma de lista.
-* Mostrar en rejilla - Muestra las carátulas de los juegos en forma de rejilla.
-* Mostrar en carrusel - Muestra las carátulas de los juegos en forma de carrusel.
-* Mostrar en canales - Muestra los juegos como se verían en el Canal Disco.
-* Bloquear USB Loader GX - Permite bloquear USB Loader GX a modo de control parental.
-* Montar unidad DVD - Permite cargar un juego insertado en la ranura para discos.
+* Display favorites only - Muestra los juegos que hayas marcado como favoritos.
+* Set Search-Filter - Permite buscar juegos por nombre.
+* Sort alphabetically - Por defecto muestra los juegos en orden alfabético. Pulsa el botón para elegir entre diferentes métodos para ordenar los juegos.
+* Select loader mode - Permite elegir qué tipo de juegos quieres que se muestren.
+* Select game categories - Permite ordenar los juegos por categoría.
+* Display as a list - Muestra los juegos en forma de lista.
+* Display as a grid - Muestra las carátulas de los juegos en forma de rejilla.
+* Display as a carousel - Muestra las carátulas de los juegos en forma de carrusel.
+* Display as a channel grid - Muestra los juegos como se verían en el menú de Wii.
+* Lock USB Loader GX - Permite bloquear USB Loader GX a modo de control parental.
+* Mount DVD drive - Permite cargar un juego insertado en la ranura para discos.
 
 Pressing any game will allow you to play the game by pressing "Start".
 
@@ -86,7 +86,7 @@ There are also other buttons:
 * Wii - Abrir el menú HOME, el cual también puede ser accedido al oprimir el botón HOME.
 * Botón de apagado - Poner la consola en modo de espera o apagarla completamente.
 
-On the middle of the bottom of the screen, you can see how much space is free on your USB drive and how many games you have.
+En el centro de la parte inferior de la pantalla puedes ver cuánto espacio libre queda en tu unidad USB o tarjeta SD y cuántos juegos tienes.
 
 [Continuar a la instalación de RiiTag](riitag)<br> RiiTag es un gamertag personalizable para tu Wii, el cual incluye integración con USB Loader GX. Este proceso es opcional.
 {: .notice--info}
