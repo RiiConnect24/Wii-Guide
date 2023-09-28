@@ -79,7 +79,7 @@ Al pasar el cursor por la parte inferior de la pantalla en la lista de juegos, s
 - File Explorer - Carga juegos/aplicaciones desde cualquier ubicación en la unidad USB o tarjeta SD.
 - Select Plugins - Cargar complementos para añadir funciones adicionales a la aplicación.
 - Credits - Muestra los nombres de las personas que han contribuido al desarrollo de WiiFlow Lite.
-- Shutdown - Permite apagar la consola completamente o dejarla en modo espera.
+- Shutdown - Poner la consola en modo de espera o apagarla completamente.
 - Exit To - Salir al menú de Wii, Canal Homebrew, Neek2o, Priiloader, o BootMii.
 - Settings - Abrir configuración de WiiFlow Lite.
 
