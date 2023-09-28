@@ -50,7 +50,6 @@ This should be all that you need to do to get WiiLink working in Dolphin!
 - A Wii with an active Internet Connection
 - A Windows, macOS, or Linux Computer with an active Internet Connection
 - The latest version of [WiiLink Patcher](https://github.com/WiiLink24/WiiLink24-Patcher/releases/latest)
-- [YAWM ModMii Edition](https://oscwii.org/library/app/yawmme)
 
 #### Instructions
 
