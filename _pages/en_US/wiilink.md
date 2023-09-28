@@ -24,25 +24,12 @@ WiiLink also provides revived and enhanced WiiConnect24 Channels such as:
 - Everybody Votes Channel
 - Nintendo Channel
 
-### Dolphin Installation
+<details id="wiilink-and-dolphin-emu" class="notice--success" markdown="1">
+<summary>In Dolphin version 5.0-19724 and later, Wiiconnect24 support has been added through WiiLink services!</summary>
 
-In dolphin version 5.0-19724 or above, Wiiconnect24 support has been added through WiiLink services! Read below on how to set it up.
-{: .notice--success}
-
-#### What you need
-
-- A Windows, macOS, or Linux Computer with an active Internet Connection
-- [Dolphin Emulator](https://dolphin-emu.org/download/) version `5.0-19724` or later
-
-#### Instructions
-
-1. Download the latest Dolphin for your operating system, and launch it.
-2. Go to `Config -> Wii -> Enable WiiConnnect24 via WiiLink`
-   ![Enable WiiLink in Dolphin](/images/Dolphin_WiiLink/enable-wiilink.png)
-
-This should be all that you need to do to get WiiLink working in Dolphin!
-
-### Physical Console Installation
+All you need to do is go to `Config -> Wii` and `Enable WiiConnect24 via WiiLink`.
+![Enable WiiConnect24 via WiiLink](/images/Dolphin_WiiLink/enable-wiilink.png)
+</details>
 
 #### What you need
 
