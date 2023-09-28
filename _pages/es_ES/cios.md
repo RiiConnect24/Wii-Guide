@@ -118,9 +118,9 @@ Puedes encontrar una lista de compatibilidad más detallada (aunque incompleta) 
 
 <div id="usbloadergx" class="blanktabcontent" markdown="1">
 1. Selecciona el juego que no funciona.
-1. Ve a `Configuración`.
-1. Elige `Configuración del Juego`.
-1. Baja hasta la opción `IOS del Juego`, y ajústala en `Custom`.
+1. Dirígete a `Settings`.
+1. Elige `Game Load`.
+1. Baja hasta la opción `Game IOS` y ajústala en `Custom`.
 1. Selecciona la opción `Custom Game IOS`.
     - Ingresa 250 o 251 en caso de que el IOS 249 no haya funcionado.
 1. Guarda los cambios e intenta cargar el juego nuevamente.
