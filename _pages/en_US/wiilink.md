@@ -55,10 +55,10 @@ If you select "Japanese" on the third step, you will <b>not</b> download the Foo
 
 1. Download the latest version of WiiLink Patcher (listed above) for your Operating System, as listed in the README.
    ![WiiLink Patcher Step 1](/images/WiiLink_Patcher/1.png)
-2. Make sure your SD Card/USB Drive is connected to your Computer in order for the Patcher to automatically send your files to your Wii's SD Card/USB Drive. Then, launch the Patcher according to your operating system:<br>
-<b>Windows:</b> Run `WiiLink_Patcher_Windows_v1.X.X.exe`.<br>
-<b>MacOS:</b> Right click the `WiiLink_Patcher_macOS_v1.X.X` file in Finder and click Open.<br>
-<b>Linux:</b> Open a terminal, type `bash ` (space included), then drag the file onto the Terminal window. It should look like this: <br>`bash /path/to/WiiLink_Patcher_Linux-<arch>_v1.X.X` (NOTE: \<arch> will be either x64 or arm64 based on your architecture).
+2. Launch the Patcher according to your operating system:
+  - Windows: Run `WiiLink_Patcher_Windows_v1.X.X.exe`.<br>
+  - MacOS: Right click the `WiiLink_Patcher_macOS_v1.X.X` file in Finder and click Open.<br>
+  - Linux: Open a terminal, type `bash ` (space included), then drag the file onto the Terminal window. It should look like this: <br>`bash /path/to/WiiLink_Patcher_Linux-<arch>_v1.X.X` (NOTE: \<arch> will be either x64 or arm64 based on your architecture).
 3. Begin the download process by selecting <br>`1. Start Express Install Setup (Reccomended)`.
    ![WiiLink Patcher Step 2](/images/WiiLink_Patcher/2.png)
 3. You will be asked to choose a language for the Japan exclusive apps, either select the `1. English Translation` or the original `2. Japanese` format.
