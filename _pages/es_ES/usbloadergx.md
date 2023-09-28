@@ -75,18 +75,18 @@ Estas son las opciones que se muestran en la parte superior del menú principal,
 * Lock USB Loader GX - Permite bloquear USB Loader GX a modo de control parental.
 * Mount DVD drive - Permite cargar un juego insertado en la ranura para discos.
 
-Pressing any game will allow you to play the game by pressing "Start".
+Al seleccionar un juego podrás iniciarlo presionando `Start`.
 
-There are also other buttons:
+También podrás encontrar los siguientes botones en la parte inferior:
 
-* Botón + - Respaldar a la unidad USB un juego insertado en la ranura para discos.
-* Engranajes - Configuración de USB Loader GX.
-* Tarjeta SD - Recargar la tarjeta SD.
-* Homebrew - Ejecutar aplicaciones homebrew.
-* Wii - Abrir el menú HOME, el cual también puede ser accedido al oprimir el botón HOME.
-* Botón de apagado - Poner la consola en modo de espera o apagarla completamente.
+* Botón + - Copiar a la unidad USB o tarjeta SD un juego insertado en la ranura para discos.
+* Engranajes - Abrir configuración de USB Loader GX.
+* Tarjeta SD - Volver a montar la tarjeta SD.
+* Canal Homebrew - Ejecutar aplicaciones homebrew.
+* Wii - Abrir el menú HOME de USB Loader GX, el cual también puede ser accedido pulsando el botón HOME.
+* Botón POWER - Poner la consola en modo de espera o apagarla completamente.
 
-En el centro de la parte inferior de la pantalla puedes ver cuánto espacio libre queda en tu unidad USB o tarjeta SD y cuántos juegos tienes.
+En el centro de la parte inferior de la pantalla puedes ver cuánto espacio libre queda en tu unidad USB o tarjeta SD, así como cuántos juegos tienes.
 
 [Continuar a la instalación de RiiTag](riitag)<br> RiiTag es un gamertag personalizable para tu Wii, el cual incluye integración con USB Loader GX. Este proceso es opcional.
 {: .notice--info}
