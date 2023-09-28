@@ -26,7 +26,7 @@ title: "适用于 Dolphin 的 RiiConnect24"
 ### 你需要的是
 
 * 一台运行 Windows 10 及更新版本或任何基于 Unix 系统的电脑
-* A Beta or Development version of [Dolphin Emulator](https://dolphin-emu.org/download/)
+* 测试或开发版本的 [Dolphin Emulator](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### 步骤
@@ -36,7 +36,7 @@ title: "适用于 Dolphin 的 RiiConnect24"
 如果您已安装 Dolphin，请跳至[第二部分](#section-ii---installing-riiconnect24)。
 {: .notice--info}
 
-1. Download the latest Dolphin Beta or Development version.
+1. 下载最新的 Dolphin 测试或开发版本。
 2. 使用类似 7-Zip 或 WinRAR 的程序解压 .7z 文件。
 3. 启动 Dolphin。
 4. 在 Dolphin 中，点击 `工具` -> `执行在线系统更新` -> 选择您的区域。 ![执行在线系统更新](/images/Dolphin_RC24/1.jpg)
