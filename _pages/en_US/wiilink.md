@@ -68,7 +68,7 @@ If you select "Japanese" on the third step, you will <b>not</b> download the Foo
    ![WiiLink Patcher Step 4](/images/WiiLink_Patcher/4.png)
 5. Next, you will be asked whether or not you would like to install WiiLink's WiiConnect24 services. If you choose not to do this, please skip to step 7.
    ![WiiLink Patcher Step 5](/images/WiiLink_Patcher/5.png)
-6. If you selected yes on the previous step, you will be asked which region you would like to install for each respective WiiConnect24 channel. Please select
+6. If you selected yes on the previous step, you will be asked which region you would like to install for each respective WiiConnect24 channel.
    ![WiiLink Patcher Step 6](/images/WiiLink_Patcher/6.png)
 7. Select whether or not you would like to install the Kirby TV channel.
    ![WiiLink Patcher Step 7](/images/WiiLink_Patcher/7.png)
@@ -76,8 +76,9 @@ If you select "Japanese" on the third step, you will <b>not</b> download the Foo
    ![WiiLink Patcher Step 8](/images/WiiLink_Patcher/8.png)
 9. At this step, the Patcher will download the needed files based on your selections to the specified path.
    ![WiiLink Patcher Step 9](/images/WiiLink_Patcher/9.png)
-10. <b>If the Patcher automatically downloaded files to your SD Card/USB Drive:</b> You may disconnect your SD Card/USB Drive from your Computer, and input it into your Wii/Wii U.<br>
-<b>If you did not let the Patcher copy everything automatically to your SD Card or USB Drive:</b> Copy the `WAD` and `apps` folder in the current directory the Patcher is in to the root of your SD Card or USB Drive.
+
+If you did not let the Patcher copy everything automatically to your SD Card or USB Drive: Copy the `WAD` and `apps` folder in the current directory the Patcher is in to the root of your SD Card or USB Drive.
+{: .notice--info}
 
 ##### Section II - Installing WADs
 
