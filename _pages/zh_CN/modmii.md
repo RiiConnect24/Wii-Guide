@@ -1,10 +1,10 @@
 ---
-title: "Modmii"
+title: "ModMii"
 ---
 
 {% include toc title="Table of Contents" %}
 
-如果您需要有关本教程的任何帮助，请加入 [Modmii Discord 服务器](https://discord.gg/cMnBRACQwQ)。
+If you need help for anything regarding this tutorial, please join [the ModMii Discord server](https://discord.gg/cMnBRACQwQ).
 {: .notice--info}
 
 本程序不提供保修，因此您需要对 Wii 可能造成的损坏负责。
@@ -13,11 +13,11 @@ title: "Modmii"
 本程序不适用于 vWii 或 Wii mini。 某些工具可能适用于这些平台，也可能不适用。
 {: .notice--warning}
 
-![Modmii](/images/Modmii/modmii.png)
+![ModMii](/images/Modmii/modmii.png)
 
-Modmii 是由 XFlak 制作的 windows PC 程序，其中包含各种有用的修改工具，还包括一些目前在 [wii.guide](site-navigation) 网站上可能还没有的教程。 <br> 您可以选择在 Modmii skin 启动，它的用户界面更友好，也可以在 Modmii Classic 中启动，它的交互方式类似于 PC 终端或命令提示符。
+ModMii is a PC program for windows created by XFlak that has various helpful tools for modding, including some tutorials that may not be currently available here on the [wii.guide](site-navigation) website. <br> You can choose to launch in ModMii skin, which has a more user friendly approach, or launch in ModMii Classic, which interacts like a PC terminal or command prompt.
 
-在 Modmii Skin 中可能无法访问一些高级功能。 可在页面底部找到各种 Modmii Classic 的活动列表。
+Some advanced options may not be accessible in ModMii Skin. A list of the various activities for ModMii Classic can be found at the bottom of the page.
 {: .notice--info}
 
 #### 你需要的是
@@ -25,9 +25,9 @@ Modmii 是由 XFlak 制作的 windows PC 程序，其中包含各种有用的修
 * 一台 Wii
 * 移动硬盘/U 盘或 SD 卡
 * 一台 Windows PC（虚拟机也可以）
-* [Modmii](https://modmii.github.io/)
+* [ModMii](https://modmii.github.io/)
 
-这是如何在 Windows PC 上使用 Modmii 的快速入门指南。
+This is a quick start guide on how to use ModMii on your Windows PC.
 
 ## ModMii Wizard（ModMii 向导）
 
@@ -84,35 +84,35 @@ HackMii Solutions wizard 可以帮助修以下症状：
 | L = Load Download Queue                                                     | 此选项将下载 Wii 系统菜单所需的所有标题（从 NUS 下载标题）                                                                                 |
 | C = Build Config Files for Bootmii, Wad Manager or Multi-Mod Manager        | 该选项可帮助您构建某些应用程序所需的配置文件。                                                                                            |
 | FC = File Cleanup & App Updater: Update Apps and\or remove un-needed files | 此选项对于想要清理 SD 或 USB 中被认为过时、无用或不再支持的应用程序的人来说非常有用。                                                                    |
-| M = ModMii Skin Mode: use your mouse instead of your keyboard!              | 此选项将启动 Modmii skin 模式。 某些高级功能可能无法在此视图中使用。                                                                          |
+| M = ModMii Skin Mode: use your mouse instead of your keyboard!              | This option will launch ModMii skin mode. 某些高级功能可能无法在此视图中使用。                                                       |
 
 </details>
 
 <details id="Modmii-Options" class="notice--info" markdown="1">
 <summary><a>点击这里查看可用选项的完整列表。</a></summary>
 
-| 选项                                                               | 描述                                                 |
-| ---------------------------------------------------------------- | -------------------------------------------------- |
-| D = Change Drive letter:                                         | 更改 SD 文件的保存位置。                                     |
-| DU = Change Drive letter for USB:                                | 更改 USB 文件的保存位置。                                    |
-| d2x = change d2x cIOS version built:                             | 更改 Modmii 下载的 cios 版本。                             |
-| H = Hermes cIOSs (202 & 222-224) will also be recommended        | 允许在 syscheck updater 中推荐并下载 Hermes IOS（将在禁用时存根）。   |
-| CM = cMIOS included in recommended cIOSs                         | 允许在 syscheck updater 中推荐并下载 cMIOS（如果禁用则安装原始 MIOS）。 |
-| E = Extra Brick Protection in ModMii Wizard Guides               | 允许在 syscheck updater tool 中推荐和使用 Modmii 额外防砖 IOS。  |
-| U = Update IOSs. Wizard/SysCheck-Updater to update Active IOSs   | 将现有 IOS 更新为 NUS 上的最新版本。                            |
-| AU = Auto-Updating downloads will skip update check if cached    | 如果文件已在队列中，将跳过下载。                                   |
-| FWD = Install USB-Loader Forwarder in ModMii Wizard Guides       | 将在 USB loader 向导指南中包含 USB loader 转发程序的 wad 文件。     |
-| PC = PC Programs Save Location                                   | 更改可下载 PC 程序的保存位置。                                  |
-| RS = Root Save: Save IOSs\MIOSs to Root instead of WAD Folder   | 将 IOS\MIOS 保存到根目录而不是 WAD 文件夹。                     |
-| 1 = Do not Keep 00000001 or NUS Folders for IOSs\MIOSs\SMs etc | 删除用于编译 wad 文件的文件夹，只提供 wad 文件。                      |
-| n2o = neek2o - build mod of s\uneek instead of original         | 在 EmuNAND builder 中使用经过改进版本的 neek2o。               |
-| SSD = SNEEK and SNEEK+DI SD Access                               | 允许访问 SD 卡上的 SNEEK 和 SNEEK+DI。                      |
-| F = Font.bin Colour for SNEEK/UNEEK                              | 更改 neek2o 的字体颜色。                                   |
-| SV = SNEEK Verbose Output                                        | 显示有关 EmuNAND 的额外信息。                                |
-| V = Verbose for ModMii Skin & nandBinCheck                       | 显示另一个窗口，其中包含有关 nand 检查的额外信息。                       |
-| SO = Play sound at Finish                                        | 下载成功后或播放一段有趣的小曲。                                   |
-| A = Auto-Update ModMii at program start                          | 将在启动 Modmii 时自动检查更新。                               |
-| N = Check for New versions of ModMii right now                   | 将在线检查 Modmii 更新。                                   |
+| 选项                                                               | 描述                                                                                                    |
+| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| D = Change Drive letter:                                         | 更改 SD 文件的保存位置。                                                                                        |
+| DU = Change Drive letter for USB:                                | 更改 USB 文件的保存位置。                                                                                       |
+| d2x = change d2x cIOS version built:                             | Changes the cios version ModMii downloads.                                                            |
+| H = Hermes cIOSs (202 & 222-224) will also be recommended        | 允许在 syscheck updater 中推荐并下载 Hermes IOS（将在禁用时存根）。                                                      |
+| CM = cMIOS included in recommended cIOSs                         | 允许在 syscheck updater 中推荐并下载 cMIOS（如果禁用则安装原始 MIOS）。                                                    |
+| E = Extra Brick Protection in ModMii Wizard Guides               | Enables ModMiis Extra Brick Protection IOSes to be recommended and used in the syscheck updater tool. |
+| U = Update IOSs. Wizard/SysCheck-Updater to update Active IOSs   | 将现有 IOS 更新为 NUS 上的最新版本。                                                                               |
+| AU = Auto-Updating downloads will skip update check if cached    | 如果文件已在队列中，将跳过下载。                                                                                      |
+| FWD = Install USB-Loader Forwarder in ModMii Wizard Guides       | 将在 USB loader 向导指南中包含 USB loader 转发程序的 wad 文件。                                                        |
+| PC = PC Programs Save Location                                   | 更改可下载 PC 程序的保存位置。                                                                                     |
+| RS = Root Save: Save IOSs\MIOSs to Root instead of WAD Folder   | 将 IOS\MIOS 保存到根目录而不是 WAD 文件夹。                                                                        |
+| 1 = Do not Keep 00000001 or NUS Folders for IOSs\MIOSs\SMs etc | 删除用于编译 wad 文件的文件夹，只提供 wad 文件。                                                                         |
+| n2o = neek2o - build mod of s\uneek instead of original         | 在 EmuNAND builder 中使用经过改进版本的 neek2o。                                                                  |
+| SSD = SNEEK and SNEEK+DI SD Access                               | 允许访问 SD 卡上的 SNEEK 和 SNEEK+DI。                                                                         |
+| F = Font.bin Colour for SNEEK/UNEEK                              | 更改 neek2o 的字体颜色。                                                                                      |
+| SV = SNEEK Verbose Output                                        | 显示有关 EmuNAND 的额外信息。                                                                                   |
+| V = Verbose for ModMii Skin & nandBinCheck                       | 显示另一个窗口，其中包含有关 nand 检查的额外信息。                                                                          |
+| SO = Play sound at Finish                                        | 下载成功后或播放一段有趣的小曲。                                                                                      |
+| A = Auto-Update ModMii at program start                          | Will automatically check for updates when ModMii is launched.                                         |
+| N = Check for New versions of ModMii right now                   | Will check online for a ModMii update.                                                                |
 
 </details>
 
