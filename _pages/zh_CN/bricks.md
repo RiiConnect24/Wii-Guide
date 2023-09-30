@@ -105,7 +105,7 @@ Semibrick（半砖）在安装了不同区域的 Wii 菜单或不同区域的自
 
 您可以还原 NAND 备份，或执行以下步骤：
 
-1. 使用[NUS Downloader](https://wiibrew.org/wiki/NUSD) 打包原始 Wii 菜单的 WAD。
+1. 使用 [NUS Downloader](https://wiibrew.org/wiki/NUSD) 打包原始 Wii 菜单的 WAD。
 1. 使用 BootMii 进入 Homebrew Channel，并使用 WAD 管理器安装 Wii 菜单 WAD。
 
 ## Low-level brick（低层砖）
