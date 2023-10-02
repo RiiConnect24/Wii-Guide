@@ -35,7 +35,7 @@ Seu Wii deve estar com hacks para fazer isso. Se não estiver, é melhor seguir 
 3. Tenha certeza que `Pack WAD` está marcado.
 4. Pressione `Start NUS Download!`.
 5. Abra `titles` -> `0000000100000002` -> (versão do Menu do Wii) e copie o arquivo .wad para uma pasta chamada `wad` no seu cartão SD ou armazenamento USB.
-6. Repita os passos 2 a 5 com `IOS` -> `000000010000003A` -> `Latest Version`.
+6. Repeat steps 2-5 with `IOS` -> `000000010000003A` -> `Latest Version` and `IOS` -> `0000000100000050` -> `Latest Version`.
 7. After you have copied all 3 `.wad` files, eject your SD card/USB drive from your PC and put it back into your Wii.
 
 | Região | Versão do Menu do Wii |
