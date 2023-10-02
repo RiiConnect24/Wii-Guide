@@ -35,7 +35,7 @@ title: "更新 Wii 菜单至 v4.3"
 3. 确保已勾选 `Pack WAD`。
 4. 按 `Start NUS Download!`。
 5. 打开 `titles` -> `0000000100000002` ->（Wii 菜单版本），将 .wad 文件复制到 SD 卡或 U 盘上名为 `wad` 的文件夹中。
-6. 重复第 2-5 步并替换为 `IOS` -> `000000010000003A` -> `Latest Version`。
+6. Repeat steps 2-5 with `IOS` -> `000000010000003A` -> `Latest Version` and `IOS` -> `0000000100000050` -> `Latest Version`.
 7. 复制完所有 3 个 `.wad` 文件后，从 PC 上弹出 SD 卡/U 盘并将其放回 Wii。
 
 | 区域 | Wii 菜单版本    |
