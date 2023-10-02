@@ -24,16 +24,15 @@ Hay muchas cosas que puedes hacer con homebrew. A continuación se enlistan algu
 
 - Parchear contenido de juegos físicos para cargar modificaciones personalizadas, usando [Riivolution](riivolution).
 - Cambiar el aspecto del menú de Wii, usando [MyMenuify](themes).
-- Cargar copias de juegos físicos desde una tarjeta SD o unidad USB, con [USB Loader GX](usbloadergx) o [WiiFlow](wiiflow).
-- Crear respaldos de juegos físicos y canales instalados, con [CleanRip](/dump-games) y [YABDM](dump-wads), respectivamente.
-- Respaldar y restaurar tus partidas guardadas de Wii, con [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/).
-- Respaldar y restaurar tus partidas guardadas de GameCube, usando [GCMM](gcsaves).
-- Descargar nuevas aplicaciones homebrew directamente desde tu consola, con [Homebrew Browser](hbb).
-- Volver a utilizar la CWF de Nintendo (a través de [Wiimmfi](wiimmfi)), así como el servicio WiiConnect24 (mediante [RiiConnect24](riiconnect24) o [WiiLink](wiilink)).
+- Install [WiiFlow](wiiflow) or [USB Loader GX](usbloadergx) to launch all your favorite games from a USB storage device.
+- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [Yet Another BlueDump MOD](dump-wads).
+- Back up and restore your Wii save files with [SaveGame Manager GX](https://oscwii.org/library/app/savegame_manager_gx).
+- Back up and restore your GameCube save files using [GCMM](gcsaves).
+- Download new homebrew apps with the [Open Shop Channel](hbb).
+- Restore discontinued online services such as Nintendo WFC with [Wiimmfi](wiimmfi), WiiConnect24 with [RiiConnect24](riiconnect24) and Japanese exclusive services with [WiiLink](wiilink).
 - [Respaldar](bootmii) y [restaurar](bootmiirecover) los contenidos de la memoria de la consola (NAND), usando [BootMii](hbc).
-- Proteger tu consola contra varios tipos de brick, con [Priiloader](priiloader) y [BootMii](bootmii).
+- Protect your Wii from bricks then add hacks to your Wii Menu using [Priiloader](priiloader).
 - Convertir tu Wii en un reproductor multimedia, con [WiiMC](https://oscwii.org/library/app/wiimc-ss).
-
 
 ## ¿Estás listo?
 
