@@ -7,7 +7,7 @@ title: "Nintendont"
 Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado), o envíanos un [correo electrónico](mailto:support@riiconnect24.net). Soporte disponible solo en inglés.
 {: .notice--info}
 
-This is a quick start guide on how to use Nintendont, a popular loader for the Wii that's used to play GameCube games from a USB drive, SD card, or directly from your disc drive.
+Esta es una guía de inicio rápido sobre cómo utilizar Nintendont, una popular aplicación homebrew para Wii que te permite cargar juegos de GameCube desde una unidad USB, tarjeta SD, o directamente desde el lector de discos.
 
 #### Requisitos
 
@@ -15,7 +15,7 @@ This is a quick start guide on how to use Nintendont, a popular loader for the W
 - Una tarjeta SD o unidad USB
 - [Nintendont](https://oscwii.org/library/app/Nintendont)
 
-We recommend you copy games over with [GameCube Backup Manager](https://github.com/AxionDrak/GameCube-Backup-Manager/releases) if you use Windows.
+En caso de que tu PC ejecute Windows, te recomendamos copiar tus juegos con [GameCube Backup Manager](https://github.com/AxionDrak/GameCube-Backup-Manager/releases).
 
 Si deseas cargar múltiples juegos, te recomendamos adquirir un disco duro externo para tu Wii. No se recomienda usar una memoria USB, ya que su capacidad por lo general es limitada y pueden variar en funcionalidad incluso entre unidades del mismo modelo.
 {: .notice--info}
