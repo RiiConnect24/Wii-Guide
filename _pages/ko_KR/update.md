@@ -35,7 +35,7 @@ It is much safer to use [ModMii](modmii) (Windows only) to update your Wii to 4.
 3. `Pack WAD`가 선택되어 있는지 확인합니다
 4. `NUS 다운로드 시작!`을 누릅니다.
 5. `titles` -> `0000000100000002` -> (Wii 메뉴 버전)을 열고 .wad 파일을 SD 카드 또는 USB 드라이브의 `wad` 폴더에 복사합니다.
-6. `IOS` -> `000000010000003A` -> `최신 버전`으로 2~5단계를 반복합니다.
+6. Repeat steps 2-5 with `IOS` -> `000000010000003A` -> `Latest Version` and `IOS` -> `0000000100000050` -> `Latest Version`.
 7. After you have copied all 3 `.wad` files, eject your SD card/USB drive from your PC and put it back into your Wii.
 
 | 지역 | Wii 메뉴 버전   |
