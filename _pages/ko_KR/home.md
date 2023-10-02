@@ -24,16 +24,15 @@ Wii 소프트웨어의 버그를 이용하면 무료로 닌텐도 Wii에서 홈�
 
 - Patch game disc contents (allowing you to load game modifications) using [Riivolution](riivolution).
 - [MyMenuify](themes)를 사용하여 Wii 메뉴에 테마를 설치합니다.
-- [WiiFlow](wiiflow) 또는 [USB Loader GX](usbloadergx)와 같은 USB 로더를 설치하면 USB 저장 장치 등에서 좋아하는 타이틀을 모두 실행할 수 있습니다.
-- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](dump-wads).
-- Back up and restore your Wii save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/).
-- Back up and restore your gamecube save files using [GCMM](gcsaves).
-- Download new homebrew apps with the [Homebrew Browser](hbb).
-- Restore discontinued online services such as Nintendo WFC with [Wiimmfi](wiimmfi), and WiiConnect24 with [RiiConnect24](riiconnect24) or [WiiLink](wiilink).
+- Install [WiiFlow](wiiflow) or [USB Loader GX](usbloadergx) to launch all your favorite games from a USB storage device.
+- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [Yet Another BlueDump MOD](dump-wads).
+- Back up and restore your Wii save files with [SaveGame Manager GX](https://oscwii.org/library/app/savegame_manager_gx).
+- Back up and restore your GameCube save files using [GCMM](gcsaves).
+- Download new homebrew apps with the [Open Shop Channel](hbb).
+- Restore discontinued online services such as Nintendo WFC with [Wiimmfi](wiimmfi), WiiConnect24 with [RiiConnect24](riiconnect24) and Japanese exclusive services with [WiiLink](wiilink).
 - [Backup](bootmii) and [restore](bootmiirecover) copies of your Wii system memory (NAND) using [BootMii](hbc).
-- Protect your Wii from bricks using [Priiloader](priiloader) and [BootMii](bootmii).
+- Protect your Wii from bricks then add hacks to your Wii Menu using [Priiloader](priiloader).
 - Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
-
 
 ## 준비됐나요?
 
