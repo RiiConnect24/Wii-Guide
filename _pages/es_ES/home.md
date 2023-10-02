@@ -29,7 +29,7 @@ Hay muchas cosas que puedes hacer con homebrew. A continuación se enlistan algu
 - Back up and restore your Wii save files with [SaveGame Manager GX](https://oscwii.org/library/app/savegame_manager_gx).
 - Back up and restore your GameCube save files using [GCMM](gcsaves).
 - Download new homebrew apps with the [Open Shop Channel](hbb).
-- Restore discontinued online services such as Nintendo WFC with [Wiimmfi](wiimmfi), WiiConnect24 with [RiiConnect24](riiconnect24) and Japanese exclusive services with [WiiLink](wiilink).
+- Restore discontinued online services using [RiiConnect24](riiconnect24), [Wiimmfi](wiimmfi) and [WiiLink](wiilink).
 - [Respaldar](bootmii) y [restaurar](bootmiirecover) los contenidos de la memoria de la consola (NAND), usando [BootMii](hbc).
 - Protect your Wii from bricks then add hacks to your Wii Menu using [Priiloader](priiloader).
 - Convertir tu Wii en un reproductor multimedia, con [WiiMC](https://oscwii.org/library/app/wiimc-ss).
