@@ -29,9 +29,9 @@ excerpt: "破解任天堂 Wii 的完整指南。"
 - 使用 [SaveGame Manager GX](https://oscwii.org/library/app/savegame_manager_gx) 备份和恢复您的 Wii 存档。
 - 使用 [GCMM](gcsaves) 备份和恢复您的 GameCube 存档。
 - 使用 [Open Shop Channel](hbb) 下载新的自制应用。
-- Restore discontinued online services using [RiiConnect24](riiconnect24), [Wiimmfi](wiimmfi) and [WiiLink](wiilink).
+- 使用 [RiiConnect24](riiconnect24)、[Wiimmfi](wiimmfi) 和 [WiiLink](wiilink) 恢复已停止的在线服务。
 - 使用 [BootMii](hbc) [备份](bootmii)和[恢复](bootmiirecover) Wii 系统内存（NAND）的副本。
-- Protect your Wii from bricks then add hacks to your Wii Menu using [Priiloader](priiloader).
+- 使用 [Priiloader](priiloader) 保护 Wii 以防止变砖，然后在 Wii 菜单中添加一些修改。
 - 使用 [WiiMC](https://oscwii.org/library/app/wiimc-ss) 将您的 Wii 变成媒体播放器。
 
 ## 准备好了吗？
