@@ -69,15 +69,18 @@ If you can't run RiiConnect24 Patcher, please join [the RiiConnect24 Discord ser
 
 ##### Section II - Installing WADs
 
+If you have previously installed the WiiLink versions of the WiiConnect24 Channels, installing RiiConnect24's versions will overwrite them. If they have not been overwritten, try uninstalling the WiiLink versions, and reinstalling them with the RiiConnect24 versions.
+{: .notice--warning}
+
 You will now install the patched IOS and Channel WADs that are required to use RiiConnect24.
 
 1. Extract the YAWM ModMii Edition `.zip` file, and copy the `apps` folder to your SD card or USB drive.
-1. Put your SD card or USB drive in your Wii.
-1. Launch the Homebrew Channel on your Wii.
-1. Launch YAWM ModMii Edition.
-1. Select the device you have put the RiiConnect24 files on.
-1. Highlight all the WADs in the `wad` folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
-1. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
+2. Put your SD card or USB drive in your Wii.
+3. Launch the Homebrew Channel on your Wii.
+4. Launch YAWM ModMii Edition.
+5. Select the device you have put the RiiConnect24 files on.
+6. Highlight all the WADs in the `wad` folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
+7. After they are successfully installed, press the HOME Button to exit back to the Homebrew Channel.
 
 ##### Section III - Patching nwc24msg.cfg
 
@@ -134,10 +137,6 @@ If you get error 107304 or you see Nintendo's User Agreement without RiiConnect2
 
 If you're getting errors such as `WiiConnect24 and Wii Shop Channel currently not being offered in your country`, go to Wii Settings -> Last Page -> Country and change it to United Kingdom. You will get this error when using a country that we don't support. Contact us at [support@riiconnect24.net](mailto:support@riiconnect24.net) if you need more help.
 {: .notice--warning}
-
-[Continue to WiiLink](wiilink)<br>
-WiiLink lets you use the Japanese-exclusive channels known as Wii no Ma and Digicam Print Channel. This is optional to install.
-{: .notice--info}
 
 [Continue to Wiimmfi](wiimmfi)<br>
 Wiimmfi lets you play games online after the discontinuation of Nintendo Wi-Fi Connection. This is optional to install.
