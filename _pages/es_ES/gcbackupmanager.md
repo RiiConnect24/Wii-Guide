@@ -14,10 +14,10 @@ GameCube Backup Manager is a convenient PC software that simplifies the process 
 - Una tarjeta SD o unidad USB
 - [GameCube Backup Manager](https://github.com/AxionDrak/GameCube-Backup-Manager/releases)
 
-To play multiple games, it is recommended to use an external hard drive for your Wii. Any external hard drive found on most modern marketplaces should work with your Wii.
+Si deseas guardar múltiples juegos, te recomendamos adquirir un disco duro externo para tu Wii. La Wii es compatible con la mayoría de discos externos que se encuentran en el mercado.
 {: .notice--info}
 
-Asegúrate de que tu unidad USB esté formateada como FAT32. No es posible usar otros sistemas de archivos, como NTFS, exFAT, extFS, o WBFS. Este último es un formato obsoleto y ya no es necesario para almacenar juegos de Wii.
+Asegúrate de que tu unidad USB o tarjeta SD esté formateada como FAT32. No es posible usar otros sistemas de archivos, como NTFS, exFAT, extFS, o WBFS. Este último es un formato obsoleto y ya no es necesario para almacenar juegos de Wii.
 {: .notice--info}
 
 #### Instrucciones
@@ -25,7 +25,7 @@ Asegúrate de que tu unidad USB esté formateada como FAT32. No es posible usar 
 ##### Sección I - Descarga
 
 1. Extract GameCube Backup Manager, and launch the program.
-2. Inserta la unidad USB en tu computadora.
+2. Inserta la unidad USB o tarjeta SD en tu PC.
 
 ##### Sección II - Copiando los juegos
 
