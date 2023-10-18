@@ -9,7 +9,7 @@ title: "WiiLink"
 
 [WiiLink](https://wiilink24.com/) 让您再次使用日本独有的频道，例如 Wii Room、Digicam Print Channel 和 Food Channel。 <br> 此外，WiiLink 还能让你使用其它 WiiConnect24 频道，如 Nintendo Channel、Forecast Channel 和 Everybody Votes Channel。
 
-[WiiLink's guide for installation can be found here.](https://www.wiilink24.com/guide/1welcome)
+[可以在这里找到 WiiLink 的指南。](https://www.wiilink24.com/guide/1welcome)
 {: .notice--info}
 
 [继续安装 RiiConnect24](riiconnect24)<br> RiiConnect24 允许您使用已停止服务的 WiiConnect24 功能，包含新闻、天气、大家一起投票、任天堂和 Mii 展示频道以及 Wii 邮箱。 这是可选的安装步骤。
