@@ -46,7 +46,10 @@ Otherwise, skip this step.
 
 #### Required Reading
 
-You can now use the Homebrew Channel to launch homebrew apps. Open Shop Channel is a one-stop shop for downloading homebrew, which you will learn how to install further in this guide.
+You can now use the Homebrew Channel to launch homebrew apps. Open Shop Channel is a one-stop shop for downloading homebrew, which you will learn how to install further in this guide. 
+
+If you choose to use a USB drive for storing homebrew apps and/or games, make sure you set it to use the MBR partition scheme (this is not the default on most new devices and formatters)
+{: .notice--info}
 
 Here's a tip - when installing homebrew applications on your SD Card or USB drive, your folder structure should look like this:
 
