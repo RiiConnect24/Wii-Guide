@@ -10,7 +10,7 @@ You need an Internet connection in order to use this application.
 
 In this step, you will synchronize your Wii with a NTP time server. This will set your Wii's clock to the correct time to prevent potential problems when installing services such as RiiConnect24.
 
-#### What you need
+#### Voraussetzungen
 * A working Internet connection on your Wii
 * The Homebrew Channel
 * Eine SD-Karte oder ein USB-Laufwerk
