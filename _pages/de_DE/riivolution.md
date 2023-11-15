@@ -18,7 +18,7 @@ Riivolution requires a working disk drive and a clean physical copy of the disk 
 ![Riivolution](/images/riivolution.png)
 
 
-#### What you need
+#### Voraussetzungen
 
 * Eine Wii
 * A USB drive or SD Card
