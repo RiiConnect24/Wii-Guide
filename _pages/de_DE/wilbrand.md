@@ -17,7 +17,7 @@ There are two methods listed on this page used to create the proper Wilbrand exp
 
 ### Wilbrand Web (Recommended)
 
-#### What you need
+#### Voraussetzungen
 
 - An SD card formatted to FAT32/MS-DOS
 - A Wii on at least version 3.0
@@ -46,7 +46,7 @@ If this didn't work for you, [try another exploit](get-started) or try [Wilbrand
 
 ### Wilbrand CLI
 
-#### What you need
+#### Voraussetzungen
 
 - A PC running Windows, MacOS or Linux
 - An SD card formatted to FAT32/MS-DOS
