@@ -20,7 +20,7 @@ Es gibt viele verschiedene Methoden, um sich mit Wiimmfi zu verbinden. Wähle di
 
 ### Automatic patching from the Disc Channel using Priiloader
 
-#### What you need
+#### Voraussetzungen
 
 - Eine Wii mit Priiloader 0.9 oder neuer installiert
 
@@ -52,7 +52,7 @@ If you see the hack `Wiimmfi patch v2` or `Wiimmfi patch v3` instead, then you d
 
 MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimmfi Disc Patcher that allows you to insert a disc and patch the game on-the-fly for Wiimmfi use, though this must be run every time you start the disc.
 
-#### What you need
+#### Voraussetzungen
 
 - Eine SD-Karte oder ein USB-Laufwerk
 - [Auto Wiimmfi Patcher](https://oscwii.org/library/app/wiimmfipatcher)
@@ -70,7 +70,7 @@ MrBean35000vr (creator of CTGP-R, a Mario Kart Wii content pack) created a Wiimm
 
 Thanks to Fullmetal5's str2hax exploit, which Leseratte was able to adapt for the Wiimmfi patcher, you can run the Wiimmfi patch without having any homebrew on your Wii.
 
-##### What you need
+##### Voraussetzungen
 
 - Eine Wii mit Internetverbindung
 
@@ -117,7 +117,7 @@ If you are already using USB Loader GX, try updating it to the most recent versi
 
 You may not want to run a patcher each time you want to play on Wiimmfi, and maybe you already use a USB Loader. As such, ISO Patchers were created, some for specific games.
 
-#### What you need
+#### Voraussetzungen
 
 - Your copy of your game (WBFS, ISO, cISO, and other forms that a Wii can use are supported).
 - [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases/) (Windows and Unix)  
@@ -135,7 +135,7 @@ You may not want to run a patcher each time you want to play on Wiimmfi, and may
 
 You can patch WiiWare games in order to play them on Wiimmfi.
 
-#### What you need
+#### Voraussetzungen
 
 - Eine SD-Karte
 - Eine Kopie deines Spieles (im WAD-Format)
@@ -159,7 +159,7 @@ Steps:
 
 Wiimmfi allows you to participate in Mario Kart Wii competitions again.
 
-#### What you need
+#### Voraussetzungen
 
 - Eine SD-Karte oder ein USB-Laufwerk
 - Mario Kart Wii Competition Patcher
@@ -182,7 +182,7 @@ If you're using the Wii U, you will have to run the competitions patcher wheneve
 
 Wiimmfi doesn't only support Wii games, it supports lots of DS games too. Thanks to an exploit called nds-constraint, you can play DS games online without patching your games.
 
-#### What you need
+#### Voraussetzungen
 
 - A Wi-Fi network with WEP or no security
 
