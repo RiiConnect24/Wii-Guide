@@ -19,7 +19,7 @@ Do NOT make a shortcut for the games "Mario Party 9" or "A Boy and His Blob". It
 
 * 一台 Wii
 * 一個 USB 隨身碟
-* A WAD Manager (Wii Mod Lite is recommended).
+* A WAD Manager ([YAWM ModMii Edition](yawmme) is recommended).
 * 一台 Windows 電腦.
 * [WiiGSC](https://wiidatabase.de/downloads/pc-tools/wiigsc-ehemals-crap/)
 
@@ -27,10 +27,11 @@ Do NOT make a shortcut for the games "Mario Party 9" or "A Boy and His Blob". It
 
 1. Install WiiGSC, then right click on it and choose **Run as administrator**. If you do not do this, WiiGSC will throw an error when you open it. ![Home menu](/images/wiigsc/2023-08-21_20-15-34.png)
 2. Select the path to the ISO or WBFS file on your USB drive, and select the USB Loader you use. The other options should be fine the way they are. ![After selecting the file](/images/wiigsc/WiiGSC_2023-08-21_20-11-00.png)
-3. Install the generated WAD with a WAD Manager, we recommend Wii Mod Lite.
+3. Install the generated WAD with your WAD manager.
 
-If you're using USB Loader GX, make sure to use [this version](https://oscwii.org/library/app/usbloader_gx).
-{: .notice--info}
+<div class="notice--info">
+If you get an error saying "The system files are corrupted", don't panic as long as you installed Priiloader.
 
-If you get an error saying "The system files are corrupted", don't panic as long as you installed Priiloader. Turn off your Wii, then hold down the RESET button down and turn on your Wii. You should be able to boot into the Priiloader menu, where you have some options to fix your Wii Menu. One of the options is to launch the Homebrew Channel.
-{: .notice--info}
+Turn off your Wii, then hold down the RESET button down and turn on your Wii. You should be able to boot into the Priiloader menu. <br>
+Simply enter the Homebrew Channel, and use your WAD manager to uninstall the WAD.
+</div>

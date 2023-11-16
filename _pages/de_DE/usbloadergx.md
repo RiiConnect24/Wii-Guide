@@ -14,7 +14,7 @@ Despite its name, USB Loader GX is also capable of loading games from an SD Card
 
 ![USB Loader GX](/images/usbloadergx.png)
 
-#### What you need
+#### Voraussetzungen
 
 * Eine Wii
 * A USB drive or SD Card
@@ -40,7 +40,7 @@ Make sure your USB drive is formatted as FAT32. Do not format it as other types 
 
 #### Anleitung
 
-##### Downloading
+##### Herunterladen
 
 1. Extract USB Loader GX and put it in the `apps` folder on your USB drive or SD card.
 2. Insert your USB drive, and SD card if you're using one, into your Wii and launch USB Loader GX from the Homebrew Channel.

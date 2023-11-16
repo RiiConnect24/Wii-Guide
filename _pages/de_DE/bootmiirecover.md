@@ -2,7 +2,7 @@
 title: "BootMii Recovery (RestoreMii)"
 ---
 
-#### What you need
+#### Voraussetzungen
 - An earlier NAND Backup made by [BootMii](https://wii.guide/bootmii)
 - A GameCube Controller*
 
@@ -38,7 +38,7 @@ If you want to restore a game's save data, use Dolphin to import your NAND backu
 If you have BootMii installed as boot2, you will need to launch BootMii by restarting the console. Skip steps 1 and 2 if this is the case.
 {: .notice}
 
-1. Launch the Homebrew Channel.
+1. Starte den Homebrew-Kanal.
 2. Press the HOME Button, then select "Launch BootMii".
 
 You must use the POWER (right) and RESET (select) buttons on your console, or a GameCube controller plugged into port 1. To navigate with a GameCube controller, click left/right on the +Control Pad on a GameCube controller. To select, press A.

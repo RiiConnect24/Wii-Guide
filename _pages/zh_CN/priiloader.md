@@ -19,7 +19,7 @@ Priiloader 0.10.0 引入了 vWii 支持！ <br> 有一些重要事项需要注�
 - 在安装 Priiloader 后安装主题**会导致您的 vWii 变砖。**
 
 以下是一些增强您的 vWii 体验的方法：
-- [Priiloader Wii U Forwarder](https://github.com/DacoTaco/priiloader/releases/download/0.10.0/PriiloaderWiiUForwarder.zip) to load Priiloader straight from the Wii U Menu. **这只适用于 Aroma。**
+- 您可以使用 [Priiloader Wii U Forwarder](https://github.com/DacoTaco/priiloader/releases/download/0.10.0/PriiloaderWiiUForwarder.zip) 直接从 Wii U 菜单加载 Priiloader。 **这只适用于 Aroma。**
 - 您可以使用 [evWii Aroma Plugin](https://github.com/GaryOderNichts/evwii/releases) 来增强 vWii 的一些额外功能。 这些功能在[这里](https://github.com/GaryOderNichts/evwii#features)列出。
 {% endcapture %}
 
@@ -121,7 +121,7 @@ Priiloader 允许您自动启动到 Homebrew Channel、单个自制应用程序�
 如果您要自动启动 USB loader GX，请先执行以下操作：
   * 下载 USB Loader GX 转发频道 WAD ([Wii](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT.wad), [vWii](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders/USB%20Loader%20GX-UNEO_Forwarder_5_1_AHBPROT_vWii%20%28Fix%29.wad))。
   * 下载 [UNEO Channel Booter for Priiloader](https://sourceforge.net/projects/usbloadergx/files/Releases/Forwarders%20dols/UNEO%20Channel%20Booter%20for%20Priiloader.zip/download)。
-  * 使用类似 [Wii Mod Lite](wiimodlite) 的 WAD 管理器安装转发频道 WAD。
+  * 使用类似 [YAWM ModMii Edition](yawmme) 的 WAD 管理器安装转发频道 WAD。
   * 将 `UNEO Channel Booter for Priiloader.zip` 文件解压到任意位置。
   * 将 `uneoboot.dol` 复制到您 SD 卡的根目录。
 
@@ -132,7 +132,7 @@ Priiloader 允许您自动启动到 Homebrew Channel、单个自制应用程序�
 
 1. 打开 Homebrew Channel，然后启动 Load Priiloader 应用。
 1. 向下滚动到 `Load/Install file`，然后按 A。 ![Load/Install File](/images/Priiloader/menu_install_file.png)
-1. 滚动菜单，直到突出显示您所需的自制应用，然后按 A 安装。 ![安装自制应用](/images/Priiloader/installing_file.png) ![可以安装自制应用](/images/Priiloader/installing_file_ok.png)
+1. 滚动菜单，直到突出显示您所需的自制应用，然后按 A 安装。 ![安装自制应用](/images/Priiloader/installing_file.png) ![安装自制应用成功](/images/Priiloader/installing_file_ok.png)
 1. 按 B 回到主菜单。
 1. 向下滚动到 `Settings`，然后按 A。 ![设置](/images/Priiloader/menu_settings.png)
 1. 按右键以循环浏览 Autoboot 选项，直到选择 `Installed file`。 ![Autoboot: Installed File](/images/Priiloader/autoboot_installed_file.png)

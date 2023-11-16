@@ -28,6 +28,6 @@ Si tu PC ejecuta Linux o macOS, deberás descargar y ejecutar el archivo `patche
 3. Elige si deseas parchear un juego WiiWare o el Canal Wii Speak. ![Menú principal de WiiWare Patcher](/images/WiiWare-Patcher/2.JPG)
 4. Si vas a parchear tus juegos, copia los archivos WAD a la misma carpeta donde se encuentra el archivo `WiiWarePatcher.bat`, luego pulsa 1 y después Enter.
 5. El proceso de parcheo empezará. Esto puede tardar un poco en función de la cantidad de juegos que vayas a parchear y su tamaño. Por favor ten paciencia. ![Parcheando un WAD](/images/WiiWare-Patcher/3.JPG)
-6. Si el proceso ha sido exitoso, encontrarás los WADs parcheados en la carpeta `wiimmfi-wads`. Puedes instalarlos con Wii Mod Lite, u otro gestor de WADs.
+6. Si el proceso ha sido exitoso, encontrarás los WADs parcheados en la carpeta `wiimmfi-wads`. Puedes instalarlos con YAWM ModMii Edition, u otro gestor de WADs.
 
 [Volver a la guía de Wiimmfi](wiimmfi)

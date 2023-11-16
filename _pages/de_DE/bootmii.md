@@ -26,7 +26,7 @@ One of BootMii's most important features is the ability to backup and restore yo
 If you have BootMii installed as boot2 you will need to launch BootMii by restarting the console. Skip steps 1 and 2 if this is the case.
 {: .notice--info}
 
-1. Launch the Homebrew Channel.
+1. Starte den Homebrew-Kanal.
 1. Press the HOME Button, then select "Launch BootMii". ![BootMii_Main](/images/BootMii/BootMii_Main.png)
 
 If the `Launch BootMii` button does not appear, please [re-launch the HackMii Installer](hackmii) and install BootMii.

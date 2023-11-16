@@ -1,10 +1,10 @@
 ---
-title: "Modmii"
+title: "ModMii"
 ---
 
 {% include toc title="Table of Contents" %}
 
-如果您需要有关本教程的任何帮助，请加入 [Modmii Discord 服务器](https://discord.gg/cMnBRACQwQ)。
+如果您需要有关本教程的任何帮助，请加入 [ModMii Discord 服务器](https://discord.gg/cMnBRACQwQ)。
 {: .notice--info}
 
 本程序不提供保修，因此您需要对 Wii 可能造成的损坏负责。
@@ -13,11 +13,11 @@ title: "Modmii"
 本程序不适用于 vWii 或 Wii mini。 某些工具可能适用于这些平台，也可能不适用。
 {: .notice--warning}
 
-![Modmii](/images/Modmii/modmii.png)
+![ModMii](/images/Modmii/modmii.png)
 
-Modmii 是由 XFlak 制作的 windows PC 程序，其中包含各种有用的修改工具，还包括一些目前在 [wii.guide](site-navigation) 网站上可能还没有的教程。 <br> 您可以选择在 Modmii skin 启动，它的用户界面更友好，也可以在 Modmii Classic 中启动，它的交互方式类似于 PC 终端或命令提示符。
+ModMii 是由 XFlak 制作的 windows PC 程序，其中包含各种有用的修改工具，还包括一些目前在 [wii.guide](site-navigation) 网站上可能还没有的教程。 <br> 您可以选择在 ModMii skin 启动，它的用户界面更友好，也可以在 ModMii Classic 中启动，它的交互方式类似于 PC 终端或命令提示符。
 
-在 Modmii Skin 中可能无法访问一些高级功能。 可在页面底部找到各种 Modmii Classic 的活动列表。
+在 ModMii Skin 中可能无法访问一些高级功能。 可在页面底部找到 Modmii Classic 的各种活动列表。
 {: .notice--info}
 
 #### 你需要的是
@@ -25,9 +25,9 @@ Modmii 是由 XFlak 制作的 windows PC 程序，其中包含各种有用的修
 * 一台 Wii
 * 移动硬盘/U 盘或 SD 卡
 * 一台 Windows PC（虚拟机也可以）
-* [Modmii](https://modmii.github.io/)
+* [ModMii](https://modmii.github.io/)
 
-这是如何在 Windows PC 上使用 Modmii 的快速入门指南。
+这是如何在 Windows PC 上使用 ModMii 的快速入门指南。
 
 ## ModMii Wizard（ModMii 向导）
 
@@ -84,7 +84,7 @@ HackMii Solutions wizard 可以帮助修以下症状：
 | L = Load Download Queue                                                     | 此选项将下载 Wii 系统菜单所需的所有标题（从 NUS 下载标题）                                                                                 |
 | C = Build Config Files for Bootmii, Wad Manager or Multi-Mod Manager        | 该选项可帮助您构建某些应用程序所需的配置文件。                                                                                            |
 | FC = File Cleanup & App Updater: Update Apps and\or remove un-needed files | 此选项对于想要清理 SD 或 USB 中被认为过时、无用或不再支持的应用程序的人来说非常有用。                                                                    |
-| M = ModMii Skin Mode: use your mouse instead of your keyboard!              | 此选项将启动 Modmii skin 模式。 某些高级功能可能无法在此视图中使用。                                                                          |
+| M = ModMii Skin Mode: use your mouse instead of your keyboard!              | 此选项将启动 ModMii skin 模式。 某些高级功能可能无法在此视图中使用。                                                                          |
 
 </details>
 
@@ -95,10 +95,10 @@ HackMii Solutions wizard 可以帮助修以下症状：
 | ---------------------------------------------------------------- | -------------------------------------------------- |
 | D = Change Drive letter:                                         | 更改 SD 文件的保存位置。                                     |
 | DU = Change Drive letter for USB:                                | 更改 USB 文件的保存位置。                                    |
-| d2x = change d2x cIOS version built:                             | 更改 Modmii 下载的 cios 版本。                             |
+| d2x = change d2x cIOS version built:                             | 更改 ModMii 下载的 cios 版本。                             |
 | H = Hermes cIOSs (202 & 222-224) will also be recommended        | 允许在 syscheck updater 中推荐并下载 Hermes IOS（将在禁用时存根）。   |
 | CM = cMIOS included in recommended cIOSs                         | 允许在 syscheck updater 中推荐并下载 cMIOS（如果禁用则安装原始 MIOS）。 |
-| E = Extra Brick Protection in ModMii Wizard Guides               | 允许在 syscheck updater tool 中推荐和使用 Modmii 额外防砖 IOS。  |
+| E = Extra Brick Protection in ModMii Wizard Guides               | 允许在 syscheck updater tool 中推荐和使用 ModMii 额外防砖 IOS。  |
 | U = Update IOSs. Wizard/SysCheck-Updater to update Active IOSs   | 将现有 IOS 更新为 NUS 上的最新版本。                            |
 | AU = Auto-Updating downloads will skip update check if cached    | 如果文件已在队列中，将跳过下载。                                   |
 | FWD = Install USB-Loader Forwarder in ModMii Wizard Guides       | 将在 USB loader 向导指南中包含 USB loader 转发程序的 wad 文件。     |
@@ -111,8 +111,8 @@ HackMii Solutions wizard 可以帮助修以下症状：
 | SV = SNEEK Verbose Output                                        | 显示有关 EmuNAND 的额外信息。                                |
 | V = Verbose for ModMii Skin & nandBinCheck                       | 显示另一个窗口，其中包含有关 nand 检查的额外信息。                       |
 | SO = Play sound at Finish                                        | 下载成功后或播放一段有趣的小曲。                                   |
-| A = Auto-Update ModMii at program start                          | 将在启动 Modmii 时自动检查更新。                               |
-| N = Check for New versions of ModMii right now                   | 将在线检查 Modmii 更新。                                   |
+| A = Auto-Update ModMii at program start                          | 将在启动 ModMii 时自动检查更新。                               |
+| N = Check for New versions of ModMii right now                   | 将在线检查 ModMii 更新。                                   |
 
 </details>
 

@@ -32,6 +32,7 @@ title: "RiiConnect24"
 - 一台连接互联网的Wii
 - 一台电脑
 - [RiiConnect24 Patcher（Windows、Mac 和 Linux）](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+- [YAWM ModMii Edition](https://oscwii.org/library/app/yawmme)
 
 #### 步骤
 
@@ -59,13 +60,13 @@ title: "RiiConnect24"
 
 现在您将安装使用 RiiConnect24 所需的已修补 IOS 和频道 WAD。
 
-1. 将SD卡或U盘插入Wii。
-2. 启动Wii上的Homebrew Channel。
-3. 启动Wii Mod Lite。
-4. 使用 Wii 遥控器上的方向键，移动到 `WAD Manager`，然后移动到 `wad` 文件夹。
-5. 按下 + 来选择文件夹中的所有 WAD。 当所有的 WAD 文件都被选中时，按两次 A 来安装 WAD。
-6. 如果得到已安装了更高版本标题的错误（错误 -1035)，请回到 WAD 选择菜单，并按下 - 来卸载它，然后再次尝试安装它。
-7. 安装成功后，按HOME按钮返回Homebrew Channel。
+1. 解压 YAWM ModMii Edition `.zip` 文件，并将 `apps` 文件夹复制到 SD 卡或 U 盘中。
+1. 将 SD 卡或 U 盘插入 Wii。
+1. 启动 Wii 上的 Homebrew Channel。
+1. 启动 YAWM ModMii Edition。
+1. 选择您放置 RiiConnect24 文件的设备。
+1. 按 + 选择 `wad` 文件夹中的所有 WAD。 选择所有 WAD 后，按两次 A 来安装 WAD。
+1. 安装成功后，按HOME按钮返回Homebrew Channel。
 
 ##### 第三部分 - 修补 nwc24msg.cfg
 
@@ -107,7 +108,7 @@ title: "RiiConnect24"
 安装 RiiConnect24 后在 Forecast Channel 上出现 FORE000006 错误是很常见的。 如果您遇到此错误，请确保 Wii 的日期和时间正确，然后等待不超过一小时，它可能开始正常工作。 [如果您仍然遇到 FORE000006 错误或者出现 NEWS000006 错误，您需要使用 RC24-Clear-Tool 删除 SYSCONF](deleting-vffs)。
 {: .notice--warning}
 
-如果您遇到错误 107245，表示您尚未安装修补过的 IOS。 请确保使用 Wii Mod Lite 安装了 IOS31 和 IOS80 以及任何其它修补过的 WAD。
+如果您遇到错误 107245，表示您尚未安装修补过的 IOS。 请确保使用 YAWM ModMii Edition 安装了 IOS31 和 IOS80 以及其它任何修补过的 WAD。
 {: .notice--warning}
 
 如果在加载用户协议时遇到错误 220602，这意味着您的 Wii 仍然配置为使用旧的 DNS 服务器，该服务器已于 `2023年6月1日` 关闭。 [在这里阅读更多信息。](riiconnect24-dns-update)

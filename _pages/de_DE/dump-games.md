@@ -11,7 +11,7 @@ Want to dump a GameCube or a Wii disk? There are two ways of doing so, depending
 
 ### CleanRip
 
-#### What you need
+#### Voraussetzungen
 
 - An SD card or USB drive with at least 4.7 GB of free space (8.5 GB if dumping a dual layer disc).
 - [CleanRip](https://oscwii.org/library/app/cleanrip)
@@ -40,7 +40,7 @@ If you are dumping one of the 13 games on [this list](https://wiki.dolphin-emu.o
 
 ### Dumping a game over a local network
 
-#### What you need
+#### Voraussetzungen
 
 - [DVD Dump Tool](/assets/files/DVDDumpTool.zip)
 Your Wii and your computer must be connected to one local network.

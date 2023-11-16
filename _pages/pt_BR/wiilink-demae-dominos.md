@@ -49,8 +49,8 @@ Você não pode usar a NAND padrão do Dolphin com esse serviço. Você deve usa
 
 Agora você irá instalar os channels Food Delivery Channel e Set Personal Data.
 
-1. Coloque seu cartão SD ou armazenamento USB no seu Wii.
-2. Após registrar o ID do seu console, vá para o Homebrew Channel e inicie o **Wii Mod Lite**.
+1. Put your SD card or USB drive in your Wii.
+2. After registering your console ID, go to the Homebrew Channel and launch YAWM ModMii Edition.
 3. No menu do Gerenciador de WAD, localize `Food Channel (Domino's) (English).wad`.
 4. Também localize `WiiLink_SPD (Wii).wad` ou `WiiLink_SPD (vWii).wad`, dependendo da plataforma do seu console.
 5. Selecione ambos WADs pressionando `+` em cada um.

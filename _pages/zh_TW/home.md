@@ -24,16 +24,15 @@ Here's a list of things you can do using homebrew. While this list is by no mean
 
 - Patch game disc contents (allowing you to load game modifications) using [Riivolution](riivolution).
 - Install themes to your Wii Menu using [MyMenuify](themes).
-- Install a USB Loader like [WiiFlow](wiiflow) or [USB Loader GX](usbloadergx) to launch all your favorite titles from a USB storage device and more.
-- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [YABDM](dump-wads)
-- Back up and restore your Wii save files with [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/)
-- Back up and restore your gamecube save files using [GCMM](gcsaves)
-- Download new homebrew apps with the [Homebrew Browser](hbb)
-- Restore discontinued online services, such as [Nintendo WFC services](wiimmfi) & WiiConnect24 services by using [Riiconnect24](riiconnect24) or [WiiLink](wiilink).
+- Install [WiiFlow](wiiflow) or [USB Loader GX](usbloadergx) to launch all your favorite games from a USB storage device.
+- Back up your discs with [CleanRip](/dump-games) and installed games and titles with [Yet Another BlueDump MOD](dump-wads).
+- Back up and restore your Wii save files with [SaveGame Manager GX](https://oscwii.org/library/app/savegame_manager_gx).
+- Back up and restore your GameCube save files using [GCMM](gcsaves).
+- Download new homebrew apps with the [Open Shop Channel](hbb).
+- Restore discontinued online services using [RiiConnect24](riiconnect24), [Wiimmfi](wiimmfi) and [WiiLink](wiilink).
 - [Backup](bootmii) and [restore](bootmiirecover) copies of your Wii system memory (NAND) using [BootMii](hbc).
-- Protect your Wii from bricks using [Priiloader](priiloader) and [BootMii](bootmii).
+- Protect your Wii from bricks then add hacks to your Wii Menu using [Priiloader](priiloader).
 - Turn your Wii into a media player with [WiiMC](https://oscwii.org/library/app/wiimc-ss).
-
 
 ## Ready?
 

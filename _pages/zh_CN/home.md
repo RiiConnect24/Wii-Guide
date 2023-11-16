@@ -24,16 +24,15 @@ excerpt: "破解任天堂 Wii 的完整指南。"
 
 - 使用 [Riivolution](riivolution) 对游戏光盘内容进行修改（允许您加载游戏修改）。
 - 使用 [MyMenuify](themes) 安装 Wii 菜单主题。
-- 安装 USB 加载器，例如 [WiiFlow](wiiflow) 或 [USB Loader GX](usbloadergx)，以从 U 盘等设备来启动所有您喜爱的游戏和更多。
-- 使用 [CleanRip](/dump-games) 备份光盘，[YABDM](dump-wads) 备份已安装的游戏和标题
-- 使用 [SaveGame Manager GX](https://wiidatabase.de/downloads/wii-tools/savegame-manager-gx-beta/) 备份和恢复您的 Wii 存档
-- 使用 [GCMM](gcsaves) 备份和恢复您的 gamecube 存档
-- 使用 [Homebrew Browser](hbb) 下载新的自制应用
-- 使用 [Riiconnect24](riiconnect24) 或 [WiiLink](wiilink) 恢复已停止的在线服务，如[任天堂 WFC 服务](wiimmfi) & WiiConnect24 服务。
+- 安装 [WiiFlow](wiiflow) 或 [USB Loader GX](usbloadergx) 从 U 盘启动所有您喜爱的游戏。
+- 使用 [CleanRip](/dump-games) 备份光盘，使用 [Yet Another BlueDump MOD](dump-wads) 备份已安装的游戏和标题。
+- 使用 [SaveGame Manager GX](https://oscwii.org/library/app/savegame_manager_gx) 备份和恢复您的 Wii 存档。
+- 使用 [GCMM](gcsaves) 备份和恢复您的 GameCube 存档。
+- 使用 [Open Shop Channel](hbb) 下载新的自制应用。
+- 使用 [RiiConnect24](riiconnect24)、[Wiimmfi](wiimmfi) 和 [WiiLink](wiilink) 恢复已停止的在线服务。
 - 使用 [BootMii](hbc) [备份](bootmii)和[恢复](bootmiirecover) Wii 系统内存（NAND）的副本。
-- 使用 [Priiloader](priiloader) 和 [BootMii](bootmii) 防止您的 Wii 变砖。
+- 使用 [Priiloader](priiloader) 保护 Wii 以防止变砖，然后在 Wii 菜单中添加一些修改。
 - 使用 [WiiMC](https://oscwii.org/library/app/wiimc-ss) 将您的 Wii 变成媒体播放器。
-
 
 ## 准备好了吗？
 

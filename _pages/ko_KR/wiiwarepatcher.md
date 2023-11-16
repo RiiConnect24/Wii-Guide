@@ -28,6 +28,6 @@ WAD 게임 (WiiWare)을 Wiimmfi와 함께 작동하도록 패치하고 싶은데
 3. 게임을 패치할 것인지 아니면 `Wii 스피크 채널`를 다운로드하여 패치할 것인지 선택합니다. ![패치 모드 선택](/images/WiiWare-Patcher/2.JPG)
 4. 직접 게임을 패치하는 경우, 해당 게임 (.WAD 파일)을 `WiiWarePatcher.bat`가 있는 폴더에 복사한 다음 `1`을 누르고 Enter를 누릅니다.
 5. 패치 프로세스가 시작됩니다. 기다려주세요. ![패치 중...](/images/WiiWare-Patcher/3.JPG)
-6. 완료되었습니다! 패치된 WAD는 `wiimmfi-wads` 폴더에 있습니다. Wii Mod Lite나 다른 WAD 관리자로 설치하세요.
+6. 완료되었습니다! 패치된 WAD는 `wiimmfi-wads` 폴더에 있습니다. Install them using YAWM ModMii Edition or other WAD Manager.
 
 [Wiimmfi 설치 페이지로 돌아가기](wiimmfi)

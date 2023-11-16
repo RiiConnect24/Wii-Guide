@@ -26,17 +26,17 @@ NÃO INSTALE RIICONNECT24 EM UM WII MINI! Não irá funcionar e causará um bric
 ### Você precisará de
 
 * Um computador com Windows 10 ou com qualquer sistema baseado em Unix
-* [Dolphin](https://dolphin-emu.org/download/)
+* A Beta or Development version of [Dolphin Emulator](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### Instruções
 
 ##### Seção I - Instalando Dolphin
 
-Se já tiver Dolphin instalado, pule para a Seção II
+If you have Dolphin already installed, skip to [Section II](#section-ii---installing-riiconnect24).
 {: .notice--info}
 
-1. Baixe a versão beta mais recente do Dolphin, **não uma versão estável, já que estas estão muito desatualizadas!**
+1. Download the latest Dolphin Beta or Development version.
 2. Extraia o arquivo .7z utilizando um programa como 7-Zip ou WinRAR.
 3. Inicie o Dolphin.
 4. Em Dolphin, vá para `Ferramentas` -> `Executar Atualização do Sistema On-line` -> Escolha sua região. ![Executar Atualização Online do Sistema](/images/Dolphin_RC24/1.jpg)
@@ -61,13 +61,21 @@ Se você usar uma versão do Windows antes do Windows 10, infelizmente você nã
 10. Tenha paciência... ![Está fazendo o patch!](/images/RC24_Patcher/9.JPG)
 11. Depois de concluído, nós gostaríamos que você dedicasse um minuto para enviar sua experiencia anônima para nós.  Se você não quiser feche o programa. Todos os arquivos já devem estar no seu cartão SD. ![Está feito!](/images/RC24_Patcher/10.JPG) ![Arquivos copiados](/images/RC24_Patcher/11.PNG)
 12. No Dolphin, vá para `Ferramentas` e em seguida `Instalar WAD`. Instale todos os arquivos WAD um por um.
-13. Descompacte [AnyGlobe Changer v1.0](https://github.com/fishguy6564/AnyGlobe-Changer/releases/download/1.0/AnyGlobe.Changer.zip) e execute o arquivo de boot.dol. Selecione sua região e salve. Isso permitirá que o Everybody Votes Channel funcione.
 
-Infelizmente, o Wii Mail ainda não funciona no Dolphin.
+##### Section III - Setting your Region
+
+Setting your region is required to use the Everybody Votes Channel.
+
+If you have imported your Wii's NAND backup, the default Region Select will probably work.
 {: .notice--info}
 
-Você terá que iniciar o Everybody Votes Channel 4 vezes, no máximo, para que ele comece a funcionar.
-{: .notice--warning}
+1. Download and unzip [AnyGlobe Changer v1.0](https://github.com/fishguy6564/AnyGlobe-Changer/releases/download/1.0/AnyGlobe.Changer.zip).
+1. Drag the `boot.dol` file on to the Dolphin window.
+1. Wait a few seconds, then press 1 to continue. ![AnyGlobe Changer Warning Screen](/images/Dolphin_RC24/anyglobe-warning.png)
+1. Select your region and sub-region, then select `Save`, then `Return`. ![AnyGlobe Changer Main Menu](/images/Dolphin_RC24/anyglobe-save.png)
 
-[Se você estiver recebendo outros erros no Forecast Channel ou no News Channel, como um código de erro começando com FORE ou NEWS ou uma mensagem de desativação, você pode tentar excluir seus VFFs com a RC24-Clear-Tool](deleting-vffs).
-{: .notice--warning}
+When you go back to the Everybody Votes Channel, the country & region names will appear blank. This is normal.
+{: .notice--info}
+
+Unfortunately, Wii Mail doesn't work in Dolphin yet.
+{: .notice--info}

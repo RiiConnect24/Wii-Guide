@@ -32,6 +32,7 @@ Wii 미니에 RICONNECT24를 설치하지 마세요! 작동하지 않으며 시�
 - 인터넷 연결이 있는 Wii
 - 컴퓨터
 - [RiiConnect24 패치 관리자 (윈도우, 맥, 리눅스)](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
+- [YAWM ModMii Edition](https://oscwii.org/library/app/yawmme)
 
 #### 사용 방법
 
@@ -59,13 +60,13 @@ RiiConnect24 패치 관리자를 실행할 수 없는 경우, [RiiConnect24 디�
 
 이제 RiiConnect24를 사용하는 데 필요한 패치된 IOS 및 채널 WAD를 설치합니다.
 
-1. Wii에 SD 카드나 USB 드라이브를 연결합니다.
-2. Wii에서 홈브류 채널을 실행합니다.
-3. Wii Mod Lite를 실행합니다.
-4. Wii 리모컨의 +컨트롤 패드를 사용하여 `WAD Manager`로 이동한 다음 `wad` 폴더로 이동합니다.
-5. 버튼을 눌러 폴더의 모든 WAD를 강조 표시하여 선택합니다. 모든 WAD를 선택했으면 A 버튼을 두 번 눌러 WAD를 설치합니다.
-6. 상위 버전의 타이틀이 이미 설치되어 있다는 오류 (오류 -1035) 가 표시되면 WAD 선택 메뉴로 돌아가서 강조 표시된 WAD의 - 버튼을 눌러 제거한 다음 다시 설치를 시도합니다.
-7. 설치가 완료되면 HOME 버튼을 눌러 홈브류 채널로 돌아갑니다.
+1. Extract the YAWM ModMii Edition `.zip` file, and copy the `apps` folder to your SD card or USB drive.
+1. Put your SD card or USB drive in your Wii.
+1. Wii에서 홈브류 채널을 실행합니다.
+1. Launch YAWM ModMii Edition.
+1. Select the device you have put the RiiConnect24 files on.
+1. Highlight all the WADs in the `wad` folder by pressing the + Button to select them. When all of the WADs are selected, press A twice to install the WADs.
+1. 설치가 완료되면 HOME 버튼을 눌러 홈브류 채널로 돌아갑니다.
 
 ##### 섹션 III - nwc24msg.cfg 패치하기
 
@@ -107,7 +108,7 @@ nwc24msg.cfg를 올바르게 패치할 수 없는 경우, [RiiConnect24 디스�
 RiiConnect24를 설치한 후 날씨 채널에서 FORE000006 오류가 발생하는 것이 일반적입니다. Wii가 올바른 날짜와 시간으로 설정되었는지 확인한 다음 한 시간 이상 기다리지 않으면 작동이 시작될 수 있습니다. [여전히 오류 FORE000006이 발생하거나 NEWS000006이 발생하면 RC24-Clear-Tool](deleting-vffs)을 사용하여 SYSCONF를 삭제해야 합니다.
 {: .notice--warning}
 
-오류 107245가 발생하면 패치된 IOS를 설치하지 않은 것입니다. 다른 패치된 WAD와 함께 IOS31 및 IOS80을 Wii Mod Lite와 함께 설치해야 합니다.
+오류 107245가 발생하면 패치된 IOS를 설치하지 않은 것입니다. Make sure you install IOS31 and IOS80 with YAWM ModMii Edition, along with any other patched WADs.
 {: .notice--warning}
 
 사용자 계약을 로드할 때 220602 오류가 발생하면 Wii가 여전히 `2023년 6월 1일`에 종료된 이전 DNS 서버를 사용하도록 구성되어 있다는 뜻입니다. [자세한 내용은 여기를 참조하세요.](riiconnect24-dns-update)

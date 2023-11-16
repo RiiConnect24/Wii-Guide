@@ -26,17 +26,17 @@ title: "适用于 Dolphin 的 RiiConnect24"
 ### 你需要的是
 
 * 一台运行 Windows 10 及更新版本或任何基于 Unix 系统的电脑
-* [Dolphin](https://dolphin-emu.org/download/)
+* 测试或开发版本的 [Dolphin Emulator](https://dolphin-emu.org/download/)
 * [RiiConnect24 Patcher](https://github.com/RiiConnect24/RiiConnect24-Patcher/releases)
 
 #### 步骤
 
 ##### 第一部分 - 安装 Dolphin
 
-如果您已安装 Dolphin，请跳至第二部分
+如果您已安装 Dolphin，请跳至[第二部分](#section-ii---installing-riiconnect24)。
 {: .notice--info}
 
-1. 请下载最新的 Dolphin 测试版，但**不要下载稳定版，因为它们非常过时！**
+1. 下载最新的 Dolphin 测试或开发版本。
 2. 使用类似 7-Zip 或 WinRAR 的程序解压 .7z 文件。
 3. 启动 Dolphin。
 4. 在 Dolphin 中，点击 `工具` -> `执行在线系统更新` -> 选择您的区域。 ![执行在线系统更新](/images/Dolphin_RC24/1.jpg)
@@ -61,13 +61,21 @@ title: "适用于 Dolphin 的 RiiConnect24"
 10. 请耐心等待... ![正在打补丁！](/images/RC24_Patcher/9.JPG)
 11. 完成后，如果您能花一分钟时间向我们发送匿名反馈，我们将不胜感激。  如果您不想发送反馈，关闭 patcher（修补程序）。 所有文件应该已经位于您的 SD 卡上。 ![已完成！](/images/RC24_Patcher/10.JPG) ![已复制文件](/images/RC24_Patcher/11.PNG)
 12. 在 Dolphin 中，转到 `工具`，然后选择 `安装 WAD`。 逐个安装所有 WAD 文件。
-13. 解压 [AnyGlobe Changer v1.0](https://github.com/fishguy6564/AnyGlobe-Changer/releases/download/1.0/AnyGlobe.Changer.zip) 并运行 boot.dol 文件。 选择您的地区并保存。 这将使 Everybody Votes Channel 正常工作。
+
+##### 第三部分 - 设置区域
+
+要使用 Everybody Votes Channel，必须设置您的区域。
+
+如果您导入了 Wii 的 NAND 备份，默认的区域选择可能有效。
+{: .notice--info}
+
+1. 下载并解压 [AnyGlobe Changer v1.0](https://github.com/fishguy6564/AnyGlobe-Changer/releases/download/1.0/AnyGlobe.Changer.zip)。
+1. 将 `boot.dol` 文件拖到 Dolphin 窗口中。
+1. 等待几秒钟，然后按 1 继续。 ![AnyGlobe Changer 警告屏幕](/images/Dolphin_RC24/anyglobe-warning.png)
+1. 选择您的区域和子区域，然后选择 `Save`，再选择 `Return`。 ![AnyGlobe Changer 主菜单](/images/Dolphin_RC24/anyglobe-save.png)
+
+当您回到 Everybody Votes Channel 时，国家 & 地区名称将显示为空白。 这是正常现象。
+{: .notice--info}
 
 很遗憾，Dolphin 尚不支持 Wii Mail。
 {: .notice--info}
-
-您最多需要启动 Everybody Votes Channel 4 次以使其开始正常工作。
-{: .notice--warning}
-
-[如果您在 Forecast Channel 或 News Channel 中遇到其它错误，例如以 FORE 或 NEWS 开头的错误代码或停止使用的消息，您可以尝试使用 RC24-Clear-Tool 删除 VFF](deleting-vffs)。
-{: .notice--warning}

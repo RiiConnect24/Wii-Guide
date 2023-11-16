@@ -1,10 +1,10 @@
 ---
-title: "Modmii"
+title: "ModMii"
 ---
 
 {% include toc title="Tabla de contenido" %}
 
-If you need help for anything regarding this tutorial, please join [the Modmii Discord server](https://discord.gg/cMnBRACQwQ).
+If you need help for anything regarding this tutorial, please join [the ModMii Discord server](https://discord.gg/cMnBRACQwQ).
 {: .notice--info}
 
 This Program does NOT come with a warranty, so you are responsible for any potential damage done to your Wii.
@@ -13,21 +13,21 @@ This Program does NOT come with a warranty, so you are responsible for any poten
 This program is NOT intended to be used for the vWii or the Wii mini. Some tools may or may not work for these platforms.
 {: .notice--warning}
 
-![Modmii](/images/Modmii/modmii.png)
+![ModMii](/images/Modmii/modmii.png)
 
-Modmii is a PC program for windows created by XFlak that has various helpful tools for modding, including some tutorials that may not be currently available here on the [wii.guide](site-navigation) website. <br> You can choose to launch in Modmii skin, which has a more user friendly approach, or launch in Modmii Classic, which interacts like a PC terminal or command prompt.
+ModMii is a PC program for windows created by XFlak that has various helpful tools for modding, including some tutorials that may not be currently available here on the [wii.guide](site-navigation) website. <br> You can choose to launch in ModMii skin, which has a more user friendly approach, or launch in ModMii Classic, which interacts like a PC terminal or command prompt.
 
-Some advanced options may not be accessible in Modmii Skin. A list of the various activities for Modmii Classic can be found at the bottom of the page.
+Some advanced options may not be accessible in ModMii Skin. A list of the various activities for ModMii Classic can be found at the bottom of the page.
 {: .notice--info}
 
 #### Requisitos
 
 * Una consola Wii
-* A USB drive or SD Card
+* Una unidad USB o tarjeta SD
 * A Windows PC (a Virtual Machine will work)
-* [Modmii](https://modmii.github.io/)
+* [ModMii](https://modmii.github.io/)
 
-This is a quick start guide on how to use Modmii on your Windows PC.
+This is a quick start guide on how to use ModMii on your Windows PC.
 
 ## ModMii Wizard
 
@@ -84,7 +84,7 @@ When following one of the exploit guides above, please avoid replacing the `boot
 | L = Load Download Queue                                                     | This option will download all of the required titles need for the Wii system menu (titles are downloaded from NUS)                                                                                                                         |
 | C = Build Config Files for Bootmii, Wad Manager or Multi-Mod Manager        | This option will help you build configuration files required for certain applications.                                                                                                                                                     |
 | FC = File Cleanup & App Updater: Update Apps and\or remove un-needed files | This option is useful for people who want to clean out their SD or USB of apps deemed outdated, useless, or otherwise depreciated.                                                                                                         |
-| M = ModMii Skin Mode: use your mouse instead of your keyboard!              | This option will launch Modmii skin mode. Some advanced options may not be available in this view.                                                                                                                                         |
+| M = ModMii Skin Mode: use your mouse instead of your keyboard!              | This option will launch ModMii skin mode. Some advanced options may not be available in this view.                                                                                                                                         |
 
 </details>
 
@@ -95,10 +95,10 @@ When following one of the exploit guides above, please avoid replacing the `boot
 | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
 | D = Change Drive letter:                                         | Changes where your SD files are saved to.                                                                     |
 | DU = Change Drive letter for USB:                                | Changes where your USB files are saved to.                                                                    |
-| d2x = change d2x cIOS version built:                             | Changes the cios version Modmii downloads.                                                                    |
+| d2x = change d2x cIOS version built:                             | Changes the cios version ModMii downloads.                                                                    |
 | H = Hermes cIOSs (202 & 222-224) will also be recommended        | Enables Hermes IOS to be recommended and downloaded in the syscheck updater (will be stubbed if disabled).    |
 | CM = cMIOS included in recommended cIOSs                         | Enables cMIOS to be recommended and downloaded in the syscheck updater (will install stock MIOS if disabled). |
-| E = Extra Brick Protection in ModMii Wizard Guides               | Enables Modmiis Extra Brick Protection IOSes to be recommended and used in the syscheck updater tool.         |
+| E = Extra Brick Protection in ModMii Wizard Guides               | Enables ModMiis Extra Brick Protection IOSes to be recommended and used in the syscheck updater tool.         |
 | U = Update IOSs. Wizard/SysCheck-Updater to update Active IOSs   | Updates Existing IOSes to the latest version available on NUS.                                                |
 | AU = Auto-Updating downloads will skip update check if cached    | Will skip downloading the files if already in the queue.                                                      |
 | FWD = Install USB-Loader Forwarder in ModMii Wizard Guides       | Will include the USB loader forwarder wad file in the USB loader wizard guides.                               |
@@ -111,8 +111,8 @@ When following one of the exploit guides above, please avoid replacing the `boot
 | SV = SNEEK Verbose Output                                        | Displays extra information regarding EmuNAND.                                                                 |
 | V = Verbose for ModMii Skin & nandBinCheck                       | Displays another window with extra information regarding a nand check.                                        |
 | SO = Play sound at Finish                                        | Plays a fun jingle after a successful download.                                                               |
-| A = Auto-Update ModMii at program start                          | Will automatically check for updates when Modmii is launched.                                                 |
-| N = Check for New versions of ModMii right now                   | Will check online for a Modmii update.                                                                        |
+| A = Auto-Update ModMii at program start                          | Will automatically check for updates when ModMii is launched.                                                 |
+| N = Check for New versions of ModMii right now                   | Will check online for a ModMii update.                                                                        |
 
 </details>
 

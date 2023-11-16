@@ -15,9 +15,6 @@ main:
 top:
   - 
     title: 이 웹사이트는 쿠키를 사용하여 사이드바에 현재 가이드 진행 상황을 표시하고 기타 사이트를 개선합니다.
-bottom:
-  - 
-    title: 영어 지원이 필요하면, <a href="https://discord.gg/b4Y7jfD">디스코드의 RiiConnect24</a>에서 도움을 요청하세요.
 footer:
   - 
     title: 출처

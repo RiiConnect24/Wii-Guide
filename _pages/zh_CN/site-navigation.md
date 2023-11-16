@@ -51,6 +51,7 @@ sitemap: false
 - [变砖的类型](bricks)
 - [Wii Mod Lite](wiimodlite)
 - [Wilbrand](wilbrand)
+- [YAWM ModMii Edition](yawmme)
 
 **Homebrew 自制软件**
 

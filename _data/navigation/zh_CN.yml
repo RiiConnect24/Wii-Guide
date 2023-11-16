@@ -15,9 +15,6 @@ main:
 top:
   - 
     title: 本网站使用 cookie 来在侧边栏显示当前指南进度，并提升网站的其它功能。
-bottom:
-  - 
-    title: 如果需要中文帮助，国内用户可以添加 QQ 群：417992332。如果需要英文帮助，请在 <a href="https://discord.gg/b4Y7jfD">RiiConnect24 Discord</a> 上寻求帮助。
 footer:
   - 
     title: 来源

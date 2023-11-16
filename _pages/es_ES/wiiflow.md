@@ -7,7 +7,7 @@ title: "WiiFlow Lite"
 Si tienes problemas para seguir los pasos de esta guía, por favor solicita ayuda en nuestro [servidor de Discord](https://discord.gg/rc24) (recomendado), o envíanos un [correo electrónico](mailto:support@riiconnect24.net). Soporte disponible solo en inglés.
 {: .notice--info}
 
-![WiiFlow](/images/wiiflowlogo.png)
+![Logotipo de WiiFlow Lite](/images/wiiflowlogo.png)
 
 Esta es una guía de inicio rápido para WiiFlow Lite, un USB loader para Wii que te permite cargar juegos desde una unidad USB o tarjeta SD.
 
@@ -47,7 +47,7 @@ WiiFlow Lite puede cargar juegos desde una unidad USB o tarjeta SD.
 
 ##### Primeros pasos
 
-This is not a full comprehensive guide on using WiiFlow. This is intended to help you learn how to use it, by giving you a quick start. You should be able to figure out all the great features of WiiFlow by using it.
+Por favor ten en cuenta que esta no es una guía completa para WiiFlow Lite. El objetivo es explicar cómo utilizar las funciones básicas de la aplicación. Te invitamos a descubrir por tu cuenta el resto de sus grandes funciones.
 {: .notice--info}
 
 - WiiFlow Lite está configurado por defecto para cargar juegos solo desde la tarjeta SD. Para cambiar esto, ingresa a `Settings` > `Startup Settings`, y deshabilita la opción `Mount SD Only`.
@@ -56,37 +56,37 @@ This is not a full comprehensive guide on using WiiFlow. This is intended to hel
 
 ##### Interfaz de usuario
 
-When WiiFlow detects games, they are displayed in flow view. Cuando selecciones un juego, verás las siguientes opciones:
+Cuando WiiFlow Lite detecte juegos, estos se mostrarán en la pantalla principal. Al seleccionar un juego, verás las siguientes opciones:
 
 - Estrella - Marcar juego como favorito.
 - Librería - Añadir juego a una de seis categorías de tu elección.
-- Engranajes - Cambiar los ajustes para el juego seleccionado. Los cambios que realices desde aquí solo afectarán a ese juego.
+- Engranajes - Cambiar los ajustes para el juego seleccionado. Los cambios que realices desde aquí solo afectarán a este juego.
 - X - Borrar juego de la unidad USB o tarjeta SD.
 
-When you bring the cursor to the bottom of the screen while in flow view, there are 6 icons:
+Al pasar el cursor por la parte inferior de la pantalla en la lista de juegos, se desplegarán las siguientes opciones:
 
-- Librería - Muestra tus juegos ordenados en las categorías que hayas elegido para ellos.
+- Librería - Muestra los juegos ordenados por categoría.
 - Estrella - Muestra los juegos que hayas marcado como favoritos.
-- Ajustes - abre los ajustes de WiiFlow.
-- Tipo de juego - Cambia entre distintos tipos de aplicaciones/juegos. El logo cambia dependiendo en que tipo de juego seleccionaste.
-- Disco - Carga el juego que esta en la ranura para discos de la Wii.
-- Casa - Abrirá este menú. Este menú también puede abrirse oprimiendo el botón HOME.
+- Engranajes - Accede a los ajustes de WiiFlow Lite.
+- Tipo de juego - Cambia entre diferentes tipos de juegos/aplicaciones. El icono del botón cambia dependiendo del tipo de juego/aplicación seleccionado.
+- Disco - Carga el juego que se encuentre insertado en la ranura para discos de la consola.
+- Casa - Despliega el menú que se muestra abajo. También puedes acceder a este menú oprimiendo el botón HOME.
 
-![WF_menu](images/WFmenu.png)
+![Menú HOME de WiiFlow Lite](images/WFmenu.png)
 
-- Ayuda - Muestra todos los controles que puedes usar en WiiFlow.
-- Recargar cache - Presiona esto cuando WiiFlow no esta detectando un juego nuevo en el dispositivo USB o tarjeta SD.
-- Explorador de archivos - Te permite iniciar juegos/aplicaciones desde cualquier lugar en tu dispositivo USB o tarjeta SD.
-- Seleccionar complementos - Te permite seleccionar complementos.
-- Créditos - Te muestra la gente que se esforzó y sudo trabajando en WiiFlow.
-- Apagar - Te permite ya sea apagar la Wii completamente, o en modo suspensión.
-- Salida - Te permite salir al Menú de Wii, HBC, neek2o, Priiloader y Bootmii.
-- Configuración - Abre el menú de configuración de WiiFlow
+- Help Guide - Muestra los controles de WiiFlow Lite.
+- Reload Cache - Usa esta opción cuando la aplicación no detecte un juego nuevo en la unidad USB o tarjeta SD.
+- File Explorer - Carga juegos/aplicaciones desde cualquier ubicación en la unidad USB o tarjeta SD.
+- Select Plugins - Cargar complementos para añadir funciones adicionales a la aplicación.
+- Credits - Muestra los nombres de las personas que han contribuido al desarrollo de WiiFlow Lite.
+- Shutdown - Poner la consola en modo de espera o apagarla completamente.
+- Exit To - Salir al menú de Wii, Canal Homebrew, Neek2o, Priiloader, o BootMii.
+- Settings - Abrir configuración de WiiFlow Lite.
 
 ##### Opciones una vez terminado
 
-[Continue to RiiTag](riitag)<br> RiiTag is a customizable gamertag for your Wii that WiiFlow Lite can integrate with. This is optional to set up.
+[Continuar a la instalación de RiiTag](riitag)<br> RiiTag es un gamertag personalizable para tu Wii, el cual incluye integración con WiiFlow Lite. Este proceso es opcional.
 {: .notice--info}
 
-[Continue to site navigation](site-navigation)<br> We have many other tutorials that you might like.
+[Ir al mapa del sitio](site-navigation)<br> Tenemos muchas otras guías que podrían interesarte.
 {: .notice--info}
