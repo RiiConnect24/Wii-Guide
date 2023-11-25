@@ -54,6 +54,7 @@ This is not a full comprehensive guide on using WiiFlow. This is intended to hel
 - WiiFlow by default is set to only find games on the SD card. This can be changed by going in to settings, startup settings then turn off "Mount SD Only".
 - You can toggle between viewing Wii games, GameCube games, Wii Channels, Plugins, Homebrew apps by clicking the button second to last button on the right.
 - You can download game covers by going to "Settings" then "Download Covers and Banners"
+- If you don't have an internet connection, you can manually download the covers by following this guide [here](Offline-Covers).<br>
 
 ##### User Interface
 

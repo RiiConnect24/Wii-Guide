@@ -37,6 +37,8 @@ Make sure your USB drive is formatted as FAT32. Do not format it as other types 
 Selecting `Install Game (Scrub)` will remove unnecessary data from the game, reducing the game's file size.
 {: .notice--info}
 
+{% include_relative GCBM-offline-covers.md %}
+
 [Continue to site navigation](site-navigation)<br>
 We have many other tutorials that you might like.
 {: .notice--info}
