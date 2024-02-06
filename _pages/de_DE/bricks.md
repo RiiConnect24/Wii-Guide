@@ -10,7 +10,7 @@ Here, we will discuss the different types of bricks, as well as some potential s
 
 ## Banner brick
 
-#### Cause
+#### Ursache
 Banner bricks occur if you install a WAD file that has an invalid Wii Menu banner or icon.
 
 #### Solutions
@@ -22,7 +22,7 @@ If you are fortunate enough to get to the Wii Menu, enter the Homebrew Channel a
 
 ## Theme brick
 
-#### Cause
+#### Ursache
 A theme brick occurs when a wrongly formatted theme is installed.
 
 #### Solutions
@@ -30,7 +30,7 @@ To resolve this issue, open HBC through Priiloader and access MyMenuifyMod to in
 
 ## Semibrick
 
-#### Cause
+#### Ursache
 A semibrick occurs when a different region Wii Menu or a different region custom theme is installed. This causes the Wii to fail to find the Wii settings page files. ![Semibrick](/images/bricks/semibrick.png)
 
 #### Solutions
@@ -45,7 +45,7 @@ If you are actually in the process of a region change, use [ARC-ME](https://gith
 
 ## Wii Menu brick
 
-#### Cause
+#### Ursache
 This brick is a more fatal version of a [Semibrick](#semibrick). If your SYSCONF gets corrupt or damaged, the Wii will regenerate it and start the setup phase.
 
 However, the setup pages are in a similar location to the Wii settings pages. If you have an incorrect region Wii Menu or theme, the Wii cannot find them. ![Wii menu brick](/images/bricks/sysmenu-brick.png)
@@ -58,7 +58,7 @@ In case you do not have Priiloader, you can try [BlueBomb](bluebomb).
 
 ## Mail brick
 
-#### Cause
+#### Ursache
 A mail brick happens when your Wii has a lot of mail. This will make the Wii crash.
 
 #### Solutions
@@ -66,7 +66,7 @@ To fix a mail brick, enter Maintenance mode by holding `+` and `-` on the Health
 
 ## Wi-Fi brick
 
-#### Cause
+#### Ursache
 This brick arises when your Wii's Wi-Fi (or Bluetooth) module is damaged or not inserted properly. In such cases, the Wii gets stuck on a black screen while awaiting a response from IOS.
 
 You can try and differentiate by checking if your Wii Remote still powers on your Wii.
@@ -80,7 +80,7 @@ If you are on a Wii Mini, you must install a Wi-Fi module.
 
 ## Error 003 Brick
 
-#### Cause
+#### Ursache
 
 This brick happens when a non-Korean Wii Menu on 4.2 or 4.3 detects that the Korean common key is present.
 
@@ -94,13 +94,13 @@ Korean Wiis also released with Wii Menu 3.3, around the time that Nintendo [fixe
 
 The only way to fix this brick is a way to launch homebrew by launching a game through the Recovery Menu. It's only accessible if you take apart a GameCube controller to hold all 4 +Control Pad buttons down while the GameCube controller's plugged into the 4th slot on your Wii as it's turned on. Taking apart the controller is necessary since you cannot hold down all the buttons without taking the controller apart.
 
-## IOS brick
+## IOS-Brick
 
-#### Cause
+#### Ursache
 This brick happens when the Wii Menu's IOS is a [stub](http://wiibrew.org/wiki/Stub_IOS). This is usually the consequence of attempting to downgrade your Wii menu.
 
 #### Solutions
-You must have BootMii as boot2 to fix this brick. Priiloader will not load.
+You must have BootMii as boot2 to fix this brick. Priiloader wird nicht funktionieren.
 {: .notice}
 
 You can either restore a NAND backup, or do this:
@@ -110,7 +110,7 @@ You can either restore a NAND backup, or do this:
 
 ## Low-level brick
 
-#### Cause
+#### Ursache
 This brick occurs when boot1/boot2 is corrupt.
 
 #### Solutions
